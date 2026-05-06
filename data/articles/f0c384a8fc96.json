@@ -1,0 +1,75 @@
+{
+  "id": "f0c384a8fc96",
+  "slug": "벽천장-기어다니며-용접-척척엔비디아도-찍은-조선소-k로봇-929776",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-06T15:18:54.480Z",
+  "updatedAt": "2026-05-06T15:18:54.480Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12038161",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12038161",
+  "titleFingerprint": "043de9db23a32e363843039088ef65f1b5c7de5a",
+  "dedupKeys": [
+    "f0c384a8fc9688cb9e447b323408dcd145a92b0e",
+    "043de9db23a32e363843039088ef65f1b5c7de5a",
+    "2a8e3332204a9eadefc5422b5d5ed1072774e524"
+  ],
+  "imageUrl": "/images/articles/f0c384a8fc96.jpg",
+  "i18n": {
+    "ko": {
+      "title": "조선소 K로봇, 벽·천장 오르며 용접·수리…엔비디아 후원도 받았다",
+      "excerpt": "디든로보틱스 김준하 대표는 조선소 작업에 특화한 네발 자석 로봇을 개발해 벽면과 천장을 오르며 수리·용접을 수행하고, 다음 달 대만 시연에 나선다.",
+      "body": "디든로보틱스가 조선소 작업에 특화한 ‘K로봇’으로 주목받고 있다. 김준하 디든로보틱스 대표는 네 발에 자석을 단 로봇을 통해 선박의 벽면과 천장을 오르며 수리와 용접 작업을 수행하는 기술을 소개했다. 이 로봇은 조선소처럼 금속 구조물이 많고 작업자가 접근하기 어려운 환경을 겨냥해 개발됐다. 김 대표는 “K조선을 빛낼 특화로봇을 만들죠”라고 밝혔다. 회사는 엔비디아 후원 기업으로도 이름을 올렸으며, 다음 달 대만에서 관련 기술 시연에 나설 예정이다. 휴머노이드 로봇 경쟁이 이어지는 가운데, 디든로보틱스는 조선 현장에 바로 맞춘 특화형 로봇으로 차별화를 시도하고 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "K-Robot for Shipyards Climbs Walls and Ceilings for Welding and Repairs",
+      "excerpt": "Deeden Robotics CEO Kim Jun-ha is developing a four-legged magnetic robot for shipyards that climbs walls and ceilings to handle repair and welding tasks, with a Taiwan demo set for next month.",
+      "body": "Deeden Robotics is drawing attention with a K-robot specialized for shipyard work. CEO Kim Jun-ha introduced a robot fitted with magnets on its four feet, designed to climb ship walls and ceilings while carrying out repair and welding tasks. The robot targets environments such as shipyards, where metal structures are abundant and some areas are difficult for workers to access. Kim said the company aims to build “specialized robots that will brighten K-shipbuilding.” Deeden Robotics has also been named a company backed by Nvidia and plans to demonstrate the technology in Taiwan next month. As competition around humanoid robots continues, the company is seeking differentiation with a specialized robot built directly for shipbuilding sites. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "造船所向けKロボット、壁や天井を移動して溶接・修理を実行",
+      "excerpt": "ディドゥンロボティクスのキム・ジュンハ代表は、四つの脚に磁石を備えた造船所特化ロボットを開発し、来月台湾で技術を実演する予定だ。",
+      "body": "ディドゥンロボティクスが、造船所作業に特化した「Kロボット」で注目されている。キム・ジュンハ代表は、四つの脚に磁石を装着したロボットが船舶の壁面や天井を移動しながら修理や溶接作業を行う技術を紹介した。このロボットは、金属構造物が多く、作業者が近づきにくい場所もある造船所環境を想定して開発された。キム代表は「K造船を輝かせる特化ロボットを作る」と述べた。同社はエヌビディアの支援企業にも選ばれており、来月台湾で関連技術の実演に臨む予定だ。ヒューマノイドロボット競争が続く中、同社は造船現場に直接合わせた特化型ロボットで差別化を図っている。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "船厂K机器人可攀爬墙壁和天花板，执行焊接与维修任务",
+      "excerpt": "Deeden Robotics代表金俊河开发面向船厂的四足磁吸机器人，可攀爬墙壁和天花板进行维修与焊接，并计划下月在台湾演示。",
+      "body": "Deeden Robotics正凭借面向船厂作业的“K机器人”受到关注。公司代表金俊河介绍，这款机器人在四只脚上安装磁铁，可沿船舶墙面和天花板移动，并执行维修和焊接任务。该机器人针对船厂环境开发，那里金属结构众多，且存在作业人员难以接近的区域。金俊河表示，公司要打造“照亮K造船的专用机器人”。Deeden Robotics也被列为英伟达支持企业，并计划下月在台湾展示相关技术。在人形机器人竞争持续升温的背景下，该公司正试图以直接适配造船现场的专用机器人实现差异化。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Robot K para astilleros sube paredes y techos para soldar y reparar",
+      "excerpt": "Kim Jun-ha, CEO de Deeden Robotics, desarrolla un robot magnético de cuatro patas para astilleros que sube paredes y techos para tareas de reparación y soldadura; se demostrará en Taiwán el próximo mes.",
+      "body": "Deeden Robotics está atrayendo atención con un robot K especializado para trabajos en astilleros. Su CEO, Kim Jun-ha, presentó un robot con imanes en sus cuatro patas, capaz de subir por paredes y techos de barcos mientras realiza tareas de reparación y soldadura. El robot fue desarrollado para entornos como los astilleros, donde abundan las estructuras metálicas y hay zonas difíciles de alcanzar para los trabajadores. Kim afirmó que la empresa busca crear “robots especializados que hagan brillar la construcción naval K”. Deeden Robotics también figura como empresa respaldada por Nvidia y planea demostrar la tecnología en Taiwán el próximo mes. En medio de la competencia por robots humanoides, la compañía intenta diferenciarse con un robot especializado para el trabajo naval. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Robô K para estaleiros escala paredes e tetos para soldagem e reparos",
+      "excerpt": "Kim Jun-ha, CEO da Deeden Robotics, desenvolve um robô magnético de quatro patas para estaleiros, capaz de subir paredes e tetos para reparar e soldar, com demonstração em Taiwan no próximo mês.",
+      "body": "A Deeden Robotics chama atenção com um robô K especializado para trabalhos em estaleiros. O CEO Kim Jun-ha apresentou um robô equipado com ímãs nas quatro patas, projetado para subir pelas paredes e tetos de navios enquanto realiza tarefas de reparo e soldagem. O robô foi desenvolvido para ambientes como estaleiros, onde há muitas estruturas metálicas e áreas de difícil acesso para trabalhadores. Kim disse que a empresa quer criar “robôs especializados que façam brilhar a construção naval K”. A Deeden Robotics também foi listada como empresa apoiada pela Nvidia e planeja demonstrar a tecnologia em Taiwan no próximo mês. Em meio à competição por robôs humanoides, a companhia busca se diferenciar com um robô feito para o chão de fábrica naval. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "K-Roboter für Werften klettert an Wänden und Decken zum Schweißen",
+      "excerpt": "Deeden-Robotics-Chef Kim Jun-ha entwickelt einen vierbeinigen Magnetroboter für Werften, der Wände und Decken erklimmt, Reparaturen und Schweißarbeiten erledigt und nächsten Monat in Taiwan vorgeführt wird.",
+      "body": "Deeden Robotics sorgt mit einem auf Werftarbeiten spezialisierten K-Roboter für Aufmerksamkeit. CEO Kim Jun-ha stellte einen Roboter vor, der an allen vier Füßen mit Magneten ausgestattet ist und an Schiffswänden sowie Decken klettern kann, während er Reparatur- und Schweißarbeiten ausführt. Entwickelt wurde er für Umgebungen wie Werften, in denen viele Metallstrukturen vorhanden sind und manche Bereiche für Arbeiter schwer zugänglich sind. Kim sagte, das Unternehmen wolle „spezialisierte Roboter bauen, die den K-Schiffbau zum Leuchten bringen“. Deeden Robotics zählt zudem zu den von Nvidia unterstützten Unternehmen und plant im kommenden Monat eine Technologiedemonstration in Taiwan. Während der Wettbewerb um humanoide Roboter anhält, setzt die Firma auf Differenzierung durch einen Spezialroboter für den Schiffbau. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Un robot K pour chantiers navals grimpe murs et plafonds pour souder",
+      "excerpt": "Kim Jun-ha, PDG de Deeden Robotics, développe un robot magnétique à quatre pattes pour chantiers navals, capable de grimper murs et plafonds pour réparer et souder, avec une démonstration prévue à Taïwan le mois prochain.",
+      "body": "Deeden Robotics attire l’attention avec un robot K spécialisé pour les travaux en chantier naval. Son PDG, Kim Jun-ha, a présenté un robot doté d’aimants sur ses quatre pattes, conçu pour grimper sur les parois et plafonds des navires tout en effectuant des réparations et des soudures. Le robot vise les environnements comme les chantiers navals, riches en structures métalliques et comportant des zones difficiles d’accès pour les travailleurs. Kim a déclaré vouloir créer “des robots spécialisés qui feront briller la construction navale K”. Deeden Robotics figure aussi parmi les entreprises soutenues par Nvidia et prévoit une démonstration de sa technologie à Taïwan le mois prochain. Alors que la concurrence autour des robots humanoïdes se poursuit, l’entreprise cherche à se différencier avec un robot adapté au terrain naval. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "روبوت كوري لأحواض السفن يتسلق الجدران والأسقف للحام والإصلاح",
+      "excerpt": "يطور كيم جون ها، رئيس Deeden Robotics، روبوتا مغناطيسيا رباعي الأرجل لأحواض السفن يتسلق الجدران والأسقف لإجراء الإصلاح واللحام، مع عرض مقرر في تايوان الشهر المقبل.",
+      "body": "تجذب Deeden Robotics الانتباه بروبوت كوري متخصص في أعمال أحواض السفن. قدم الرئيس التنفيذي كيم جون ها روبوتا مزودا بمغناطيس في أقدامه الأربع، يستطيع التسلق على جدران السفن وأسقفها أثناء تنفيذ أعمال الإصلاح واللحام. صمم الروبوت لبيئات مثل أحواض السفن، حيث تكثر الهياكل المعدنية وتوجد مناطق يصعب على العمال الوصول إليها. وقال كيم إن الشركة تسعى إلى صنع “روبوتات متخصصة تضيء صناعة السفن الكورية”. كما أدرجت Deeden Robotics ضمن الشركات المدعومة من إنفيديا، وتعتزم عرض التقنية في تايوان الشهر المقبل. ومع استمرار المنافسة في الروبوتات الشبيهة بالبشر، تسعى الشركة إلى التميز بروبوت متخصص ملائم مباشرة لمواقع بناء السفن. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "शिपयार्ड K-रोबोट दीवार और छत पर चढ़कर वेल्डिंग व मरम्मत करेगा",
+      "excerpt": "Deeden Robotics के सीईओ किम जुन-हा शिपयार्ड के लिए चार पैरों वाला चुंबकीय रोबोट विकसित कर रहे हैं, जो दीवारों और छतों पर चढ़कर मरम्मत व वेल्डिंग करता है और अगले महीने ताइवान में दिखाया जाएगा।",
+      "body": "Deeden Robotics शिपयार्ड कार्यों के लिए बने विशेष K-रोबोट के कारण ध्यान खींच रही है। सीईओ किम जुन-हा ने ऐसा रोबोट पेश किया है जिसके चारों पैरों में चुंबक लगे हैं और जो जहाज की दीवारों व छतों पर चढ़ते हुए मरम्मत और वेल्डिंग का काम कर सकता है। यह रोबोट उन शिपयार्ड वातावरणों को ध्यान में रखकर विकसित किया गया है जहां धातु संरचनाएं अधिक होती हैं और कुछ स्थानों तक श्रमिकों की पहुंच कठिन होती है। किम ने कहा कि कंपनी “K-शिपबिल्डिंग को चमकाने वाले विशेष रोबोट” बनाना चाहती है। Deeden Robotics को Nvidia समर्थित कंपनी के रूप में भी सूचीबद्ध किया गया है और वह अगले महीने ताइवान में तकनीक का प्रदर्शन करेगी। ह्यूमनॉइड रोबोट प्रतिस्पर्धा के बीच कंपनी शिपबिल्डिंग स्थल के लिए सीधे अनुकूलित विशेष रोबोट से अलग पहचान बनाना चाहती है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Robot K Galangan Kapal Panjat Dinding dan Plafon untuk Las dan Perbaikan",
+      "excerpt": "CEO Deeden Robotics Kim Jun-ha mengembangkan robot magnetik berkaki empat untuk galangan kapal yang memanjat dinding dan plafon guna memperbaiki serta mengelas, dengan demo di Taiwan bulan depan.",
+      "body": "Deeden Robotics menarik perhatian lewat robot K yang dikhususkan untuk pekerjaan galangan kapal. CEO Kim Jun-ha memperkenalkan robot dengan magnet pada keempat kakinya, dirancang untuk memanjat dinding dan plafon kapal sambil melakukan pekerjaan perbaikan dan pengelasan. Robot ini dikembangkan untuk lingkungan seperti galangan kapal, yang memiliki banyak struktur logam dan area yang sulit dijangkau pekerja. Kim mengatakan perusahaan ingin membuat “robot khusus yang akan menerangi K-shipbuilding”. Deeden Robotics juga tercatat sebagai perusahaan yang didukung Nvidia dan berencana mendemonstrasikan teknologinya di Taiwan bulan depan. Di tengah persaingan robot humanoid, perusahaan berupaya membedakan diri dengan robot khusus yang langsung disesuaikan untuk lokasi pembuatan kapal. Sumber: mk.co.kr"
+    }
+  }
+}
