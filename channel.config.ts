@@ -11,11 +11,11 @@ export const channel = {
   keywords: ['거시경제', '금리', '연준', '인플레이션', 'CPI', 'GDP'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
   rssSources: [
-    { url: 'https://news.google.com/rss/search?q=%EC%97%B0%EC%A4%80+%EA%B8%88%EB%A6%AC&hl=ko&gl=KR&ceid=KR:ko', category: 'policy' },
-    { url: 'https://news.google.com/rss/search?q=%EC%9D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%85%98+CPI&hl=ko&gl=KR&ceid=KR:ko', category: 'analysis' },
-    { url: 'https://news.google.com/rss/search?q=federal+reserve+rate&hl=en&gl=US&ceid=US:en', category: 'policy' },
-    { url: 'https://news.google.com/rss/search?q=inflation+CPI&hl=en&gl=US&ceid=US:en', category: 'breaking' },
-    { url: 'https://news.google.com/rss/search?q=GDP+economy&hl=en&gl=US&ceid=US:en', category: 'analysis' }
+    { url: 'https://www.mk.co.kr/rss/30000001/', category: 'market' },
+    { url: 'https://www.hankyung.com/feed/economy', category: 'breaking' },
+    { url: 'https://www.yna.co.kr/rss/economy.xml', category: 'policy' },
+    { url: 'https://rss.donga.com/economy.xml', category: 'analysis' },
+    { url: 'https://www.mk.co.kr/rss/50400012/', category: 'analysis' }
   ] as RSSSource[],
   categories: [
     { slug: 'breaking', name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
