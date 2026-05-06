@@ -1,5 +1,230 @@
 [
   {
+    "id": "1b552f49994c",
+    "slug": "삼성과-한화의-빅딜-매경-자이앤트-469101",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-06T12:04:52.321Z",
+    "updatedAt": "2026-05-06T12:04:52.321Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12038032",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12038032",
+    "titleFingerprint": "bec182e8a60d1c6c581dbaead4bf15fbbe812b8e",
+    "dedupKeys": [
+      "1b552f49994c67c55f422d1d774d431efa8965a7",
+      "bec182e8a60d1c6c581dbaead4bf15fbbe812b8e",
+      "dd2b9012112145e510dd93c9f2850de46a41e6c3"
+    ],
+    "imageUrl": "/images/articles/1b552f49994c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성·한화 빅딜 재조명, 삼성테크윈에서 한화에어로스페이스까지",
+        "excerpt": "매일경제 자이앤트 ‘예’s썰’은 외환위기 이후 최대 빅딜로 소개된 삼성테크윈, 현 한화에어로스페이스의 거래와 기업사 맥락을 다뤘다.",
+        "body": "매일경제 자이앤트의 기업사 코너 ‘예’s썰’은 삼성과 한화의 빅딜을 주제로 삼성테크윈, 현 한화에어로스페이스의 변화를 소개했다. 이 콘텐츠는 명지예 매일경제 기자가 기획·진행하고 안대근 PD가 촬영·편집을 맡았다. 원문 요약에 따르면 해당 거래는 외환위기 이후 최대 빅딜로 설명됐다. 삼성테크윈이 한화에어로스페이스로 이어진 사례는 두 그룹 간 대형 사업 재편의 대표 장면으로 제시됐다. 방송은 흥미로운 기업의 역사를 풀어내는 형식으로 관련 배경을 전달했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung-Hanwha Big Deal Revisited: From Samsung Techwin to Hanwha Aerospace",
+        "excerpt": "Maeil Business Giant’s “Ye’s Story” revisited the Samsung Techwin deal, now Hanwha Aerospace, describing it as the largest big deal after Korea’s foreign exchange crisis.",
+        "body": "Maeil Business Giant’s corporate-history segment “Ye’s Story” covered the big deal between Samsung and Hanwha, focusing on Samsung Techwin, now Hanwha Aerospace. The program was planned and hosted by Maeil Business reporter Myung Ji-ye, with filming and editing by producer Ahn Dae-geun. According to the original summary, the transaction was introduced as the largest big deal after Korea’s foreign exchange crisis. The case of Samsung Techwin becoming Hanwha Aerospace was presented as a major example of business realignment between the two groups. The segment delivered the background through a format explaining interesting corporate histories. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン・ハンファのビッグディール再注目、サムスンテックウィンからハンファエアロへ",
+        "excerpt": "毎日経済ジャイアントの「イェ’s説」は、外換危機以降最大のビッグディールとされたサムスンテックウィン、現ハンファエアロスペースを取り上げた。",
+        "body": "毎日経済ジャイアントの企業史コーナー「イェ’s説」は、サムスンとハンファのビッグディールをテーマに、サムスンテックウィン、現在のハンファエアロスペースの変化を紹介した。このコンテンツは毎日経済のミョン・ジイェ記者が企画・進行し、アン・デグンPDが撮影・編集を担当した。原文要約によると、この取引は外換危機以降最大のビッグディールとして説明された。サムスンテックウィンがハンファエアロスペースへつながった事例は、両グループ間の大型事業再編を示す代表的な場面として提示された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星与韩华大交易再受关注：从三星Techwin到韩华航空航天",
+        "excerpt": "《每日经济》Giant栏目“Ye’s说”介绍了三星Techwin、现韩华航空航天的交易，并称其为韩国外汇危机后最大的大交易。",
+        "body": "《每日经济》Giant的企业史栏目“Ye’s说”以三星与韩华的大交易为主题，介绍了三星Techwin，也就是现在的韩华航空航天的发展变化。该内容由《每日经济》记者明智艺策划并主持，安大根PD负责拍摄和剪辑。根据原文摘要，这项交易被说明为韩国外汇危机以来最大的大交易。三星Techwin延续为韩华航空航天的案例，被呈现为两大集团之间大型业务重组的代表性场景。节目以讲述有趣企业历史的形式传递相关背景。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung y Hanwha reexaminan un gran acuerdo: de Samsung Techwin a Hanwha Aerospace",
+        "excerpt": "“Ye’s Story”, de Maeil Business Giant, presentó el caso Samsung Techwin, hoy Hanwha Aerospace, como el mayor gran acuerdo tras la crisis cambiaria coreana.",
+        "body": "El segmento de historia empresarial “Ye’s Story”, de Maeil Business Giant, abordó el gran acuerdo entre Samsung y Hanwha, centrado en Samsung Techwin, hoy Hanwha Aerospace. El contenido fue planificado y presentado por la periodista Myung Ji-ye de Maeil Business, con filmación y edición del productor Ahn Dae-geun. Según el resumen original, la operación fue descrita como el mayor gran acuerdo posterior a la crisis cambiaria de Corea. El paso de Samsung Techwin a Hanwha Aerospace se presentó como una escena representativa de una gran reorganización empresarial entre ambos grupos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Acordo Samsung-Hanwha volta ao foco: de Samsung Techwin à Hanwha Aerospace",
+        "excerpt": "O “Ye’s Story”, do Maeil Business Giant, apresentou a Samsung Techwin, hoje Hanwha Aerospace, como o maior grande acordo após a crise cambial coreana.",
+        "body": "O quadro de história corporativa “Ye’s Story”, do Maeil Business Giant, tratou do grande acordo entre Samsung e Hanwha, com foco na Samsung Techwin, atual Hanwha Aerospace. O conteúdo foi planejado e apresentado pela repórter Myung Ji-ye, do Maeil Business, com filmagem e edição do produtor Ahn Dae-geun. Segundo o resumo original, a transação foi descrita como o maior grande acordo desde a crise cambial da Coreia. O caso da Samsung Techwin que se tornou Hanwha Aerospace foi apresentado como um exemplo representativo de grande reorganização de negócios entre os dois grupos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-Hanwha-Deal neu beleuchtet: von Samsung Techwin zu Hanwha Aerospace",
+        "excerpt": "Maeil Business Giant stellte in „Ye’s Story“ Samsung Techwin, heute Hanwha Aerospace, als größten Big Deal nach Koreas Währungskrise vor.",
+        "body": "Das Unternehmensgeschichtsformat „Ye’s Story“ von Maeil Business Giant behandelte den Big Deal zwischen Samsung und Hanwha mit Fokus auf Samsung Techwin, heute Hanwha Aerospace. Geplant und moderiert wurde der Beitrag von Maeil-Business-Reporterin Myung Ji-ye; Kamera und Schnitt übernahm Produzent Ahn Dae-geun. Laut Originalzusammenfassung wurde die Transaktion als größter Big Deal nach Koreas Währungskrise beschrieben. Der Weg von Samsung Techwin zu Hanwha Aerospace wurde als repräsentatives Beispiel einer großen Neuordnung von Geschäftsbereichen zwischen den beiden Konzernen vorgestellt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le grand accord Samsung-Hanwha revisité, de Samsung Techwin à Hanwha Aerospace",
+        "excerpt": "« Ye’s Story » de Maeil Business Giant a présenté Samsung Techwin, aujourd’hui Hanwha Aerospace, comme le plus grand accord depuis la crise de change coréenne.",
+        "body": "La rubrique d’histoire d’entreprise « Ye’s Story » de Maeil Business Giant a consacré un sujet au grand accord entre Samsung et Hanwha, autour de Samsung Techwin, aujourd’hui Hanwha Aerospace. Le contenu a été conçu et présenté par la journaliste Myung Ji-ye de Maeil Business, avec le tournage et le montage assurés par le producteur Ahn Dae-geun. Selon le résumé original, cette transaction a été décrite comme le plus grand accord depuis la crise de change en Corée. Le passage de Samsung Techwin à Hanwha Aerospace a été présenté comme un exemple majeur de réorganisation entre les deux groupes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صفقة سامسونغ وهانوا الكبرى تعود للواجهة: من سامسونغ تيكوين إلى هانوا إيروسبيس",
+        "excerpt": "تناولت فقرة “Ye’s Story” من Maeil Business Giant صفقة Samsung Techwin، المعروفة اليوم باسم Hanwha Aerospace، بوصفها أكبر صفقة بعد أزمة الصرف في كوريا.",
+        "body": "قدمت فقرة تاريخ الشركات “Ye’s Story” من Maeil Business Giant موضوع الصفقة الكبرى بين سامسونغ وهانوا، مركزة على Samsung Techwin، وهي Hanwha Aerospace حاليا. تولت التخطيط والتقديم الصحفية ميونغ جي-يه من Maeil Business، بينما تولى المنتج آن داي-غن التصوير والمونتاج. وبحسب ملخص النص الأصلي، وُصفت الصفقة بأنها أكبر صفقة كبرى منذ أزمة الصرف في كوريا. وعُرض انتقال Samsung Techwin إلى Hanwha Aerospace بوصفه مثالا بارزا على إعادة هيكلة واسعة للأعمال بين المجموعتين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग-हनवा बिग डील फिर चर्चा में: Samsung Techwin से Hanwha Aerospace तक",
+        "excerpt": "Maeil Business Giant के “Ye’s Story” ने Samsung Techwin, जो अब Hanwha Aerospace है, को कोरिया के विदेशी मुद्रा संकट के बाद की सबसे बड़ी बिग डील के रूप में पेश किया।",
+        "body": "Maeil Business Giant के कॉरपोरेट इतिहास खंड “Ye’s Story” ने सैमसंग और हनवा की बिग डील को विषय बनाया और Samsung Techwin, यानी मौजूदा Hanwha Aerospace, के बदलाव को紹介 किया। इस सामग्री की योजना और प्रस्तुति Maeil Business की पत्रकार Myung Ji-ye ने की, जबकि शूटिंग और संपादन निर्माता Ahn Dae-geun ने संभाला। मूल सारांश के अनुसार, इस सौदे को कोरिया के विदेशी मुद्रा संकट के बाद की सबसे बड़ी बिग डील बताया गया। Samsung Techwin से Hanwha Aerospace तक का मामला दोनों समूहों के बीच बड़े कारोबारी पुनर्गठन के प्रतिनिधि उदाहरण के रूप में रखा गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Big Deal Samsung-Hanwha Disorot Lagi: dari Samsung Techwin ke Hanwha Aerospace",
+        "excerpt": "“Ye’s Story” dari Maeil Business Giant membahas Samsung Techwin, kini Hanwha Aerospace, sebagai big deal terbesar setelah krisis valuta asing Korea.",
+        "body": "Segmen sejarah perusahaan “Ye’s Story” dari Maeil Business Giant mengangkat big deal antara Samsung dan Hanwha, dengan fokus pada Samsung Techwin, yang kini menjadi Hanwha Aerospace. Konten ini direncanakan dan dipandu oleh reporter Maeil Business Myung Ji-ye, sementara pengambilan gambar dan penyuntingan dilakukan oleh PD Ahn Dae-geun. Menurut ringkasan asli, transaksi tersebut dijelaskan sebagai big deal terbesar setelah krisis valuta asing Korea. Perubahan Samsung Techwin menjadi Hanwha Aerospace disajikan sebagai contoh utama reorganisasi bisnis besar antara kedua grup. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "70e5a5008a7e",
+    "slug": "이란-혁명수비대-침략자-위협-무력화-호르무즈-안전-통항-보장될-것-568046",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-06T12:03:55.679Z",
+    "updatedAt": "2026-05-06T12:03:55.679Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12038045",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12038045",
+    "titleFingerprint": "cdc2b76473a6b2dd3f4410ff0683b3562650273e",
+    "dedupKeys": [
+      "70e5a5008a7eea79ffc95ea4ce1539050a01b7c1",
+      "cdc2b76473a6b2dd3f4410ff0683b3562650273e",
+      "7d7dccc66ff4d2403a97ff604b6eb64f9bbe8186"
+    ],
+    "imageUrl": "/images/articles/70e5a5008a7e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "호르무즈 해협 안전 통항 보장…이란 혁명수비대, 위협 무력화 언급",
+        "excerpt": "이란 이슬람혁명수비대는 6일 현지시간 성명을 통해 호르무즈 해협을 지나는 선박의 안전한 통항이 보장될 것이라고 밝혔다.",
+        "body": "이란 이슬람혁명수비대(IRGC)는 6일(현지시간) 호르무즈 해협을 통한 선박의 안전한 통항이 보장될 것이라고 밝혔다. 혁명수비대 해군사령부는 이날 성명에서 “침략자의 위협이 무력화”됐다는 취지로 언급했다. 호르무즈 해협은 선박 통항과 관련해 국제적으로 주목받는 해상 통로인 만큼, 이번 발표는 해협 통항 안전에 대한 이란 측 입장을 재확인한 것으로 해석된다. 다만 원문에 추가적인 조치나 구체적 수치는 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hormuz Safe Passage Assured, Iran’s IRGC Says Threats Neutralized",
+        "excerpt": "Iran’s Islamic Revolutionary Guard Corps said on the 6th local time that safe vessel passage through the Strait of Hormuz would be guaranteed.",
+        "body": "Iran’s Islamic Revolutionary Guard Corps (IRGC) said on the 6th local time that safe passage for vessels through the Strait of Hormuz would be guaranteed. In a statement released that day, the IRGC Navy Command said the threat from an “aggressor” had been neutralized. Because the Strait of Hormuz is an internationally watched maritime route for vessel traffic, the announcement restates Iran’s position on safe passage through the strait. The original report did not provide further measures or specific figures. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ホルムズ海峡の安全航行を保証、イラン革命防衛隊が脅威無力化に言及",
+        "excerpt": "イラン革命防衛隊は現地時間6日、声明でホルムズ海峡を通る船舶の安全な航行が保証されると明らかにした。",
+        "body": "イラン・イスラム革命防衛隊（IRGC）は現地時間6日、ホルムズ海峡を通じた船舶の安全な航行が保証されると発表した。革命防衛隊海軍司令部は同日の声明で、「侵略者の脅威が無力化された」との趣旨に言及した。ホルムズ海峡は船舶通航をめぐり国際的に注目される海上ルートであるため、今回の発表は海峡の安全航行に関するイラン側の立場を改めて示したものと受け止められる。原文では追加措置や具体的数値は示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "霍尔木兹海峡安全通航将获保障，伊朗革命卫队称威胁已被化解",
+        "excerpt": "伊朗伊斯兰革命卫队当地时间6日发表声明称，经由霍尔木兹海峡的船舶安全通航将得到保障。",
+        "body": "伊朗伊斯兰革命卫队（IRGC）当地时间6日表示，通过霍尔木兹海峡的船舶安全通航将得到保障。革命卫队海军司令部当天在声明中提到，“侵略者的威胁已被化解”。霍尔木兹海峡是涉及船舶通航、受到国际关注的海上通道，因此这一表态被视为伊朗方面重申其对海峡通航安全的立场。原文未提供进一步措施或具体数字。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Paso seguro por Ormuz garantizado, dice la Guardia Revolucionaria de Irán",
+        "excerpt": "La Guardia Revolucionaria Islámica de Irán afirmó el día 6, hora local, que se garantizará el tránsito seguro de buques por el estrecho de Ormuz.",
+        "body": "La Guardia Revolucionaria Islámica de Irán (IRGC) afirmó el día 6, hora local, que se garantizará el paso seguro de buques por el estrecho de Ormuz. El mando naval de la Guardia Revolucionaria dijo en un comunicado emitido ese día que la amenaza de un “agresor” había sido neutralizada. Dado que el estrecho de Ormuz es una ruta marítima observada internacionalmente por el tránsito de buques, el anuncio reafirma la postura iraní sobre la seguridad del paso por el estrecho. El texto original no incluyó medidas adicionales ni cifras concretas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Passagem segura por Ormuz será garantida, diz Guarda Revolucionária do Irã",
+        "excerpt": "A Guarda Revolucionária Islâmica do Irã afirmou no dia 6, horário local, que a navegação segura pelo estreito de Ormuz será garantida.",
+        "body": "A Guarda Revolucionária Islâmica do Irã (IRGC) afirmou no dia 6, horário local, que será garantida a passagem segura de navios pelo estreito de Ormuz. O comando naval da Guarda Revolucionária disse em comunicado divulgado no mesmo dia que a ameaça de um “agressor” havia sido neutralizada. Como o estreito de Ormuz é uma rota marítima acompanhada internacionalmente pelo tráfego de embarcações, o anúncio reafirma a posição iraniana sobre a segurança da navegação no local. O texto original não apresentou medidas adicionais nem números específicos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Sichere Passage durch Hormus garantiert, Irans Revolutionsgarde nennt Bedrohung neutralisiert",
+        "excerpt": "Irans Islamische Revolutionsgarde erklärte am 6. Ortszeit, die sichere Durchfahrt von Schiffen durch die Straße von Hormus werde gewährleistet.",
+        "body": "Irans Islamische Revolutionsgarde (IRGC) erklärte am 6. Ortszeit, die sichere Passage von Schiffen durch die Straße von Hormus werde gewährleistet. Das Marinekommando der Revolutionsgarde teilte an diesem Tag in einer Erklärung mit, die Bedrohung durch einen “Aggressor” sei neutralisiert worden. Da die Straße von Hormus als Seeweg für den Schiffsverkehr international beobachtet wird, bekräftigt die Mitteilung Irans Position zur Sicherheit der Durchfahrt. Der Originalbericht nannte keine zusätzlichen Maßnahmen oder konkreten Zahlen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Passage sûr par Ormuz garanti, les Gardiens de la révolution iraniens évoquent une menace neutralisée",
+        "excerpt": "Le Corps des Gardiens de la révolution islamique d’Iran a déclaré le 6, heure locale, que le passage sûr des navires par le détroit d’Ormuz serait garanti.",
+        "body": "Le Corps des Gardiens de la révolution islamique d’Iran (IRGC) a déclaré le 6, heure locale, que le passage sûr des navires par le détroit d’Ormuz serait garanti. Le commandement naval des Gardiens de la révolution a indiqué dans un communiqué publié ce jour-là que la menace d’un “agresseur” avait été neutralisée. Le détroit d’Ormuz étant une voie maritime suivie au niveau international pour le trafic des navires, cette annonce réaffirme la position iranienne sur la sécurité du passage. Le texte original ne fournit pas de mesures supplémentaires ni de chiffres précis. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "الحرس الثوري الإيراني يؤكد ضمان العبور الآمن في هرمز ويشير لتحييد التهديد",
+        "excerpt": "قال الحرس الثوري الإسلامي الإيراني في 6 بالتوقيت المحلي إن العبور الآمن للسفن عبر مضيق هرمز سيكون مضموناً وفق بيان صادر عنه.",
+        "body": "قال الحرس الثوري الإسلامي الإيراني (IRGC) في 6 بالتوقيت المحلي إن العبور الآمن للسفن عبر مضيق هرمز سيكون مضموناً. وذكرت قيادة بحرية الحرس الثوري في بيان صدر في اليوم نفسه أن تهديد “المعتدي” تم تحييده. ونظراً إلى أن مضيق هرمز ممر بحري يحظى بمتابعة دولية فيما يتعلق بحركة السفن، فإن الإعلان يعيد تأكيد موقف إيران بشأن سلامة العبور في المضيق. ولم يورد النص الأصلي إجراءات إضافية أو أرقاماً محددة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हॉर्मुज जलडमरूमध्य में सुरक्षित आवाजाही सुनिश्चित, ईरान IRGC ने खतरा निष्प्रभावी बताया",
+        "excerpt": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने स्थानीय समयानुसार 6 तारीख को कहा कि हॉर्मुज जलडमरूमध्य से जहाजों की सुरक्षित आवाजाही सुनिश्चित होगी।",
+        "body": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने स्थानीय समयानुसार 6 तारीख को कहा कि हॉर्मुज जलडमरूमध्य से जहाजों की सुरक्षित आवाजाही सुनिश्चित की जाएगी। रिवोल्यूशनरी गार्ड की नौसेना कमान ने उसी दिन जारी बयान में कहा कि “आक्रमणकारी” का खतरा निष्प्रभावी कर दिया गया है। हॉर्मुज जलडमरूमध्य जहाजों की आवाजाही से जुड़ा अंतरराष्ट्रीय स्तर पर देखा जाने वाला समुद्री मार्ग है, इसलिए यह घोषणा जलडमरूमध्य की सुरक्षा पर ईरान की स्थिति को दोहराती है। मूल रिपोर्ट में अतिरिक्त कदम या विशिष्ट आंकड़े नहीं दिए गए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lintas Aman Selat Hormuz Dijamin, Garda Revolusi Iran Sebut Ancaman Dinetralkan",
+        "excerpt": "Korps Garda Revolusi Islam Iran menyatakan pada tanggal 6 waktu setempat bahwa pelayaran aman kapal melalui Selat Hormuz akan dijamin.",
+        "body": "Korps Garda Revolusi Islam Iran (IRGC) menyatakan pada tanggal 6 waktu setempat bahwa lintas aman kapal melalui Selat Hormuz akan dijamin. Komando Angkatan Laut Garda Revolusi dalam pernyataan pada hari itu menyebut ancaman dari “agresor” telah dinetralkan. Karena Selat Hormuz merupakan jalur laut yang menjadi perhatian internasional terkait lalu lintas kapal, pengumuman ini menegaskan kembali posisi Iran mengenai keamanan pelayaran di selat tersebut. Laporan asli tidak memuat langkah tambahan atau angka spesifik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "8164056a0e76",
+    "slug": "속보트럼프-트루스-소셜에-이란-합의-시-호르무즈-전면-개방거부-땐-더-강한-폭격-625006",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-06T12:03:02.520Z",
+    "updatedAt": "2026-05-06T12:03:02.520Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12038046",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12038046",
+    "titleFingerprint": "c0106404bb3ab561a6965788fa65fe60be1d7d6d",
+    "dedupKeys": [
+      "8164056a0e76388d18fea6a2bea71ea5fdc75cf4",
+      "c0106404bb3ab561a6965788fa65fe60be1d7d6d",
+      "52ee63c5bab6d46e0f9fe8d7072dec48863fb4c0"
+    ],
+    "imageUrl": "/images/articles/8164056a0e76.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 “이란 합의 시 호르무즈 전면 개방, 거부 땐 더 강한 폭격”",
+        "excerpt": "트럼프가 트루스 소셜에 이란이 합의하면 호르무즈가 전면 개방되지만 거부할 경우 더 강한 폭격이 있을 것이라고 밝혔다고 mk.co.kr이 보도했다.",
+        "body": "트럼프가 트루스 소셜을 통해 이란 관련 합의와 호르무즈 해협 개방 문제를 언급했다. mk.co.kr에 따르면 그는 이란이 합의할 경우 호르무즈가 전면 개방될 것이라고 밝혔고, 거부할 경우 더 강한 폭격이 있을 것이라고 경고했다. 이번 발언은 호르무즈 해협의 통항과 이란을 둘러싼 긴장이 맞물린 사안으로 전해졌다. 구체적인 합의 조건이나 폭격 대상, 시점 등 추가 내용은 원문에 제시되지 않았다. 시장과 외교 당국은 발언의 후속 전개를 주시할 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Trump Says Iran Deal Would Fully Open Hormuz, Refusal Means Stronger Bombing",
+        "excerpt": "Trump said on Truth Social that a deal with Iran would fully open Hormuz, while refusal would bring stronger bombing, according to mk.co.kr.",
+        "body": "Trump referred to a potential Iran-related deal and the opening of the Strait of Hormuz in a post on Truth Social. According to mk.co.kr, he said Hormuz would be fully opened if Iran agreed, while warning that refusal would lead to stronger bombing. The remarks were reported in connection with tensions surrounding Iran and passage through Hormuz. The original report did not provide further details on the terms of the deal, possible targets, or timing. Markets and diplomatic authorities are expected to watch for any follow-up developments. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "トランプ氏「イラン合意ならホルムズ全面開放、拒否ならより強い爆撃」",
+        "excerpt": "トランプ氏はトゥルース・ソーシャルで、イランが合意すればホルムズは全面開放され、拒否すればより強い爆撃があると述べたとmk.co.krが報じた。",
+        "body": "トランプ氏がトゥルース・ソーシャルを通じ、イラン関連の合意とホルムズ海峡の開放問題に言及した。mk.co.krによると、同氏はイランが合意すればホルムズは全面開放されると述べ、拒否した場合にはより強い爆撃があると警告した。今回の発言は、ホルムズ海峡の通航とイランを巡る緊張が重なる問題として伝えられた。具体的な合意条件や爆撃対象、時期などの追加内容は原文に示されていない。市場と外交当局は今後の展開を注視するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "特朗普称伊朗若达成协议霍尔木兹全面开放，拒绝将遭更强轰炸",
+        "excerpt": "据mk.co.kr报道，特朗普在Truth Social称，伊朗若达成协议，霍尔木兹将全面开放；若拒绝，将面临更强轰炸。",
+        "body": "特朗普通过Truth Social提及与伊朗相关的协议以及霍尔木兹海峡开放问题。据mk.co.kr报道，他表示，如果伊朗同意，霍尔木兹将全面开放；如果拒绝，将会有更强轰炸。该言论被报道为与霍尔木兹海峡通航和围绕伊朗的紧张局势相关。原文未提供具体协议条件、轰炸目标或时间等进一步内容。市场和外交部门预计将关注后续进展。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Trump: acuerdo con Irán abriría Hormuz; rechazo traería bombardeos más fuertes",
+        "excerpt": "Trump dijo en Truth Social que, si Irán acepta un acuerdo, Hormuz se abrirá por completo; si lo rechaza, habrá bombardeos más fuertes, según mk.co.kr.",
+        "body": "Trump mencionó en Truth Social un posible acuerdo relacionado con Irán y la apertura del estrecho de Hormuz. Según mk.co.kr, afirmó que si Irán acepta, Hormuz se abrirá por completo, y advirtió que un rechazo implicaría bombardeos más fuertes. La declaración se informó en el contexto de la navegación por el estrecho de Hormuz y las tensiones en torno a Irán. El texto original no incluyó detalles adicionales sobre las condiciones del acuerdo, objetivos de los bombardeos o plazos. Los mercados y las autoridades diplomáticas seguirán atentos a la evolución. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Trump diz que acordo com Irã abriria Hormuz; recusa traria bombardeios mais fortes",
+        "excerpt": "Trump disse na Truth Social que um acordo com o Irã abriria totalmente Hormuz, enquanto a recusa levaria a bombardeios mais fortes, segundo mk.co.kr.",
+        "body": "Trump mencionou na Truth Social um possível acordo ligado ao Irã e a abertura do estreito de Hormuz. Segundo mk.co.kr, ele afirmou que, se o Irã concordar, Hormuz será totalmente aberto, e advertiu que a recusa resultaria em bombardeios mais fortes. A declaração foi relatada no contexto da passagem pelo estreito de Hormuz e das tensões envolvendo o Irã. O texto original não apresentou detalhes adicionais sobre as condições do acordo, alvos dos bombardeios ou prazos. Mercados e autoridades diplomáticas devem acompanhar os desdobramentos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Trump: Iran-Deal würde Hormus öffnen, Ablehnung brächte stärkere Bombardierung",
+        "excerpt": "Trump schrieb laut mk.co.kr auf Truth Social, ein Iran-Deal würde Hormus vollständig öffnen; bei Ablehnung drohten stärkere Bombardierungen.",
+        "body": "Trump hat auf Truth Social einen möglichen Iran-bezogenen Deal und die Öffnung der Straße von Hormus angesprochen. Laut mk.co.kr sagte er, bei einer Einigung mit Iran werde Hormus vollständig geöffnet; bei einer Ablehnung drohe eine stärkere Bombardierung. Die Äußerung wurde im Zusammenhang mit der Durchfahrt durch die Straße von Hormus und den Spannungen um Iran gemeldet. Der Originalbericht nannte keine weiteren Details zu Bedingungen des Deals, möglichen Zielen oder Zeitpunkten. Märkte und diplomatische Stellen dürften die weitere Entwicklung beobachten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Trump: un accord avec l’Iran ouvrirait Hormuz, un refus entraînerait des frappes plus fortes",
+        "excerpt": "Trump a écrit sur Truth Social qu’un accord avec l’Iran ouvrirait entièrement Hormuz, tandis qu’un refus entraînerait des bombardements plus forts, selon mk.co.kr.",
+        "body": "Trump a évoqué sur Truth Social un possible accord lié à l’Iran et l’ouverture du détroit d’Hormuz. Selon mk.co.kr, il a déclaré que si l’Iran acceptait, Hormuz serait entièrement ouvert, tout en avertissant qu’un refus entraînerait des bombardements plus forts. Ces propos ont été rapportés dans le contexte du passage par le détroit d’Hormuz et des tensions autour de l’Iran. Le texte original ne donne pas de détails supplémentaires sur les conditions de l’accord, les cibles ou le calendrier. Les marchés et les autorités diplomatiques devraient suivre les développements. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ترامب: اتفاق إيران يفتح هرمز بالكامل والرفض يعني قصفا أقوى",
+        "excerpt": "قال ترامب على تروث سوشيال إن اتفاق إيران سيؤدي إلى فتح هرمز بالكامل، بينما سيعني الرفض قصفا أقوى، بحسب ما أورد mk.co.kr.",
+        "body": "أشار ترامب عبر تروث سوشيال إلى اتفاق محتمل يتعلق بإيران ومسألة فتح مضيق هرمز. وبحسب mk.co.kr، قال إن موافقة إيران ستؤدي إلى فتح هرمز بالكامل، محذرا من أن الرفض سيقود إلى قصف أقوى. وجاءت التصريحات في سياق الملاحة عبر مضيق هرمز والتوترات المرتبطة بإيران. ولم يورد النص الأصلي تفاصيل إضافية بشأن شروط الاتفاق أو أهداف القصف أو توقيته. ومن المتوقع أن تتابع الأسواق والجهات الدبلوماسية أي تطورات لاحقة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ट्रंप बोले: ईरान समझौते पर होर्मुज खुलेगा, इनकार पर और तेज बमबारी",
+        "excerpt": "mk.co.kr के अनुसार, ट्रंप ने ट्रुथ सोशल पर कहा कि ईरान समझौता करता है तो होर्मुज पूरी तरह खुलेगा, लेकिन इनकार पर और तेज बमबारी होगी।",
+        "body": "ट्रंप ने ट्रुथ सोशल पर ईरान से जुड़े संभावित समझौते और होर्मुज जलडमरूमध्य के खुलने के मुद्दे का उल्लेख किया। mk.co.kr के अनुसार, उन्होंने कहा कि यदि ईरान सहमत होता है तो होर्मुज पूरी तरह खोल दिया जाएगा, जबकि इनकार की स्थिति में और तेज बमबारी होगी। यह बयान होर्मुज से आवाजाही और ईरान से जुड़ी तनावपूर्ण स्थिति के संदर्भ में सामने आया। मूल रिपोर्ट में समझौते की शर्तों, बमबारी के लक्ष्य या समय को लेकर अतिरिक्त विवरण नहीं दिया गया। बाजार और कूटनीतिक अधिकारी आगे की स्थिति पर नजर रखेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Trump: Kesepakatan Iran Buka Penuh Hormuz, Penolakan Berarti Bombardir Lebih Kuat",
+        "excerpt": "Trump menulis di Truth Social bahwa kesepakatan dengan Iran akan membuka penuh Hormuz, sementara penolakan berarti bombardir lebih kuat, menurut mk.co.kr.",
+        "body": "Trump melalui Truth Social menyinggung kemungkinan kesepakatan terkait Iran dan pembukaan Selat Hormuz. Menurut mk.co.kr, ia mengatakan bahwa jika Iran menyetujui kesepakatan, Hormuz akan dibuka sepenuhnya, sementara penolakan akan berujung pada bombardir yang lebih kuat. Pernyataan ini dilaporkan dalam konteks pelayaran melalui Selat Hormuz dan ketegangan seputar Iran. Laporan asli tidak memuat rincian tambahan mengenai syarat kesepakatan, target bombardir, atau waktunya. Pasar dan otoritas diplomatik diperkirakan akan mencermati perkembangan berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "9805ca7a8a4a",
     "slug": "70대-남성-몰던-싼타페-2대-추돌-후-상가건물-돌진4명-부상-746930",
     "channelId": "MACRO",
