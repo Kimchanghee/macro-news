@@ -1,0 +1,75 @@
+{
+  "id": "25d24e1e648f",
+  "slug": "ai데이터센터-특별법-법사위-통과-662989",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-06T20:32:24.820Z",
+  "updatedAt": "2026-05-06T20:32:24.820Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/politics/12037805",
+  "canonicalUrl": "https://www.mk.co.kr/news/politics/12037805",
+  "titleFingerprint": "2eeed113c7089860d4db101c0a528ca6a458f96a",
+  "dedupKeys": [
+    "25d24e1e648f0afe21502a90e31642e55154a23f",
+    "2eeed113c7089860d4db101c0a528ca6a458f96a",
+    "13d869d2036baad8e5ac6d49480e66b7ab299229"
+  ],
+  "imageUrl": "/images/articles/25d24e1e648f.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 데이터센터 특별법, 6일 법사위 통과…AIDC 산업 진흥 속도",
+      "excerpt": "국회와 정부가 AI 데이터센터 산업 활성화를 위해 추진한 AIDC 산업 진흥 법률안이 6일 국회 법제사법위원회를 통과했다.",
+      "body": "인공지능(AI) 데이터센터 산업 활성화를 위해 국회와 정부가 함께 추진한 ‘AI 데이터센터(AIDC) 산업 진흥에 관한 법률안’이 6일 국회 법제사법위원회를 통과했다. 이 법안은 AI 데이터센터를 둘러싼 산업 기반을 키우고 관련 생태계 조성을 지원하기 위한 취지로 추진됐다. 공개된 요약에 따르면 다만 핵심 내용 일부는 구체적으로 제시되지 않았다. 법사위 통과로 AIDC 산업 진흥 논의는 국회 절차상 한 단계 더 진행됐다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "AI Data Center Special Bill Passes Judiciary Committee on May 6",
+      "excerpt": "A bill promoted by South Korea’s National Assembly and government to boost the AI data center industry passed the Legislation and Judiciary Committee on May 6.",
+      "body": "A bill on the promotion of the artificial intelligence data center industry, jointly advanced by South Korea’s National Assembly and the government, passed the National Assembly’s Legislation and Judiciary Committee on May 6. The bill was pursued to help activate the AI data center, or AIDC, sector and support the formation of its related industrial ecosystem. According to the available summary, some key details were not specified. With the committee passage, the discussion on promoting the AIDC industry has moved one step further in the parliamentary process. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "AIデータセンター特別法、6日に法司委通過…AIDC産業振興へ",
+      "excerpt": "AIデータセンター産業の活性化に向け、国会と政府が推進したAIDC産業振興法案が6日、国会法制司法委員会を通過した。",
+      "body": "人工知能（AI）データセンター産業の活性化に向け、韓国の国会と政府が共同で推進した「AIデータセンター（AIDC）産業振興に関する法律案」が6日、国会法制司法委員会を通過した。この法案は、AIデータセンターをめぐる産業基盤を育て、関連エコシステムの形成を支援する趣旨で進められた。公開された要約によると、ただし核心内容の一部は具体的に示されていない。法司委通過により、AIDC産業振興の議論は国会手続き上、一段階進んだ。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "AI数据中心特别法案6日通过法司委，AIDC产业推进加速",
+      "excerpt": "韩国国会与政府为激活AI数据中心产业共同推动的AIDC产业振兴法案，于6日通过国会法制司法委员会。",
+      "body": "为激活人工智能（AI）数据中心产业，韩国国会与政府共同推动的《AI数据中心（AIDC）产业振兴相关法律案》于6日通过国会法制司法委员会。该法案旨在培育围绕AI数据中心的产业基础，并支持相关生态系统建设。根据公开摘要，部分核心内容尚未得到具体说明。随着法司委通过，AIDC产业振兴相关讨论在国会程序上又向前推进了一步。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Ley especial de centros de datos de IA pasa comité judicial el día 6",
+      "excerpt": "El Parlamento y el Gobierno de Corea del Sur impulsaron una ley para activar la industria de centros de datos de IA, que pasó el comité judicial el día 6.",
+      "body": "El proyecto de ley sobre la promoción de la industria de centros de datos de inteligencia artificial, impulsado conjuntamente por la Asamblea Nacional y el Gobierno de Corea del Sur, pasó el 6 de mayo por el Comité de Legislación y Justicia del Parlamento. La iniciativa busca activar el sector de centros de datos de IA, o AIDC, y apoyar la creación de su ecosistema industrial. Según el resumen disponible, algunos contenidos clave no fueron detallados. Con este avance en el comité, el debate sobre la promoción de la industria AIDC progresa dentro del proceso parlamentario. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Lei especial de data centers de IA passa comitê judicial em 6 de maio",
+      "excerpt": "A Assembleia Nacional e o governo da Coreia do Sul promoveram um projeto para ativar data centers de IA, aprovado no comitê judicial em 6 de maio.",
+      "body": "O projeto de lei sobre a promoção da indústria de data centers de inteligência artificial, impulsionado em conjunto pela Assembleia Nacional e pelo governo da Coreia do Sul, passou em 6 de maio pelo Comitê de Legislação e Justiça do Parlamento. A proposta foi criada para ativar o setor de data centers de IA, ou AIDC, e apoiar a formação de seu ecossistema industrial. Segundo o resumo disponível, alguns pontos centrais não foram especificados. Com a aprovação no comitê, a discussão sobre a promoção da indústria AIDC avançou mais uma etapa no processo parlamentar. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "KI-Rechenzentren-Gesetz passiert Justizausschuss am 6. Mai",
+      "excerpt": "Ein von Parlament und Regierung Südkoreas vorangetriebener Gesetzentwurf zur Förderung der KI-Rechenzentrenbranche passierte am 6. Mai den Justizausschuss.",
+      "body": "Der Gesetzentwurf zur Förderung der Branche für Rechenzentren mit künstlicher Intelligenz, gemeinsam von Südkoreas Nationalversammlung und Regierung vorangetrieben, passierte am 6. Mai den Ausschuss für Gesetzgebung und Justiz des Parlaments. Ziel des Entwurfs ist es, den Sektor der KI-Rechenzentren, kurz AIDC, zu aktivieren und den Aufbau eines entsprechenden industriellen Ökosystems zu unterstützen. Laut der verfügbaren Zusammenfassung wurden einige zentrale Inhalte nicht konkret genannt. Mit der Ausschussbilligung ist die Debatte zur Förderung der AIDC-Branche im parlamentarischen Verfahren einen Schritt weiter. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "La loi spéciale sur les data centers IA franchit le comité judiciaire le 6 mai",
+      "excerpt": "Le Parlement et le gouvernement sud-coréens ont porté un texte pour stimuler les data centers IA, adopté le 6 mai par le comité législatif et judiciaire.",
+      "body": "Le projet de loi sur la promotion de l’industrie des centres de données d’intelligence artificielle, porté conjointement par l’Assemblée nationale et le gouvernement sud-coréens, a été adopté le 6 mai par le Comité de législation et de justice du Parlement. Le texte vise à dynamiser le secteur des centres de données IA, ou AIDC, et à soutenir la création de son écosystème industriel. Selon le résumé disponible, certains éléments essentiels ne sont pas précisés. Avec ce passage en comité, le débat sur la promotion de l’industrie AIDC avance d’une étape dans la procédure parlementaire. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "قانون مراكز بيانات الذكاء الاصطناعي يجتاز لجنة القضاء في 6 مايو",
+      "excerpt": "اجتاز مشروع قانون لتعزيز صناعة مراكز بيانات الذكاء الاصطناعي، دفعه البرلمان والحكومة في كوريا الجنوبية، لجنة التشريع والقضاء في 6 مايو.",
+      "body": "اجتاز مشروع قانون بشأن تعزيز صناعة مراكز بيانات الذكاء الاصطناعي، الذي دفعته الجمعية الوطنية والحكومة في كوريا الجنوبية معا، لجنة التشريع والقضاء في البرلمان في 6 مايو. ويهدف المشروع إلى تنشيط قطاع مراكز بيانات الذكاء الاصطناعي، أو AIDC، ودعم بناء منظومته الصناعية المرتبطة. وبحسب الملخص المتاح، لم ترد تفاصيل محددة عن بعض العناصر الأساسية. ومع عبوره اللجنة، تقدمت مناقشة تعزيز صناعة AIDC خطوة إضافية ضمن الإجراءات البرلمانية. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "AI डेटा सेंटर विशेष विधेयक 6 मई को न्याय समिति से पारित",
+      "excerpt": "दक्षिण कोरिया की संसद और सरकार द्वारा AI डेटा सेंटर उद्योग को सक्रिय करने के लिए आगे बढ़ाया गया AIDC प्रोत्साहन विधेयक 6 मई को समिति से पारित हुआ।",
+      "body": "कृत्रिम बुद्धिमत्ता डेटा सेंटर उद्योग को सक्रिय करने के लिए दक्षिण कोरिया की नेशनल असेंबली और सरकार द्वारा संयुक्त रूप से आगे बढ़ाया गया ‘AI डेटा सेंटर (AIDC) उद्योग प्रोत्साहन विधेयक’ 6 मई को नेशनल असेंबली की विधि और न्याय समिति से पारित हो गया। यह विधेयक AI डेटा सेंटर क्षेत्र की औद्योगिक आधारशिला को मजबूत करने और संबंधित पारिस्थितिकी तंत्र के निर्माण में सहायता देने के उद्देश्य से 추진 किया गया। उपलब्ध सारांश के अनुसार, कुछ मुख्य बिंदुओं का विशिष्ट विवरण नहीं दिया गया। समिति से पारित होने के साथ AIDC उद्योग प्रोत्साहन पर चर्चा संसदीय प्रक्रिया में एक कदम आगे बढ़ी। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "RUU Khusus Pusat Data AI Lolos Komite Kehakiman pada 6 Mei",
+      "excerpt": "Majelis Nasional dan pemerintah Korea Selatan mendorong RUU promosi industri pusat data AI, yang lolos Komite Legislasi dan Kehakiman pada 6 Mei.",
+      "body": "RUU tentang promosi industri pusat data kecerdasan buatan, yang didorong bersama oleh Majelis Nasional dan pemerintah Korea Selatan, lolos dari Komite Legislasi dan Kehakiman parlemen pada 6 Mei. RUU ini diajukan untuk mengaktifkan sektor pusat data AI, atau AIDC, serta mendukung pembentukan ekosistem industrinya. Berdasarkan ringkasan yang tersedia, sebagian isi utama belum dijelaskan secara rinci. Dengan lolosnya RUU di komite tersebut, pembahasan mengenai promosi industri AIDC bergerak satu tahap lebih lanjut dalam proses parlemen. Sumber: mk.co.kr"
+    }
+  }
+}

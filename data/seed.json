@@ -1,5 +1,230 @@
 [
   {
+    "id": "25d24e1e648f",
+    "slug": "ai데이터센터-특별법-법사위-통과-662989",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-06T20:32:24.820Z",
+    "updatedAt": "2026-05-06T20:32:24.820Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12037805",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12037805",
+    "titleFingerprint": "2eeed113c7089860d4db101c0a528ca6a458f96a",
+    "dedupKeys": [
+      "25d24e1e648f0afe21502a90e31642e55154a23f",
+      "2eeed113c7089860d4db101c0a528ca6a458f96a",
+      "13d869d2036baad8e5ac6d49480e66b7ab299229"
+    ],
+    "imageUrl": "/images/articles/25d24e1e648f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 데이터센터 특별법, 6일 법사위 통과…AIDC 산업 진흥 속도",
+        "excerpt": "국회와 정부가 AI 데이터센터 산업 활성화를 위해 추진한 AIDC 산업 진흥 법률안이 6일 국회 법제사법위원회를 통과했다.",
+        "body": "인공지능(AI) 데이터센터 산업 활성화를 위해 국회와 정부가 함께 추진한 ‘AI 데이터센터(AIDC) 산업 진흥에 관한 법률안’이 6일 국회 법제사법위원회를 통과했다. 이 법안은 AI 데이터센터를 둘러싼 산업 기반을 키우고 관련 생태계 조성을 지원하기 위한 취지로 추진됐다. 공개된 요약에 따르면 다만 핵심 내용 일부는 구체적으로 제시되지 않았다. 법사위 통과로 AIDC 산업 진흥 논의는 국회 절차상 한 단계 더 진행됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Data Center Special Bill Passes Judiciary Committee on May 6",
+        "excerpt": "A bill promoted by South Korea’s National Assembly and government to boost the AI data center industry passed the Legislation and Judiciary Committee on May 6.",
+        "body": "A bill on the promotion of the artificial intelligence data center industry, jointly advanced by South Korea’s National Assembly and the government, passed the National Assembly’s Legislation and Judiciary Committee on May 6. The bill was pursued to help activate the AI data center, or AIDC, sector and support the formation of its related industrial ecosystem. According to the available summary, some key details were not specified. With the committee passage, the discussion on promoting the AIDC industry has moved one step further in the parliamentary process. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AIデータセンター特別法、6日に法司委通過…AIDC産業振興へ",
+        "excerpt": "AIデータセンター産業の活性化に向け、国会と政府が推進したAIDC産業振興法案が6日、国会法制司法委員会を通過した。",
+        "body": "人工知能（AI）データセンター産業の活性化に向け、韓国の国会と政府が共同で推進した「AIデータセンター（AIDC）産業振興に関する法律案」が6日、国会法制司法委員会を通過した。この法案は、AIデータセンターをめぐる産業基盤を育て、関連エコシステムの形成を支援する趣旨で進められた。公開された要約によると、ただし核心内容の一部は具体的に示されていない。法司委通過により、AIDC産業振興の議論は国会手続き上、一段階進んだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI数据中心特别法案6日通过法司委，AIDC产业推进加速",
+        "excerpt": "韩国国会与政府为激活AI数据中心产业共同推动的AIDC产业振兴法案，于6日通过国会法制司法委员会。",
+        "body": "为激活人工智能（AI）数据中心产业，韩国国会与政府共同推动的《AI数据中心（AIDC）产业振兴相关法律案》于6日通过国会法制司法委员会。该法案旨在培育围绕AI数据中心的产业基础，并支持相关生态系统建设。根据公开摘要，部分核心内容尚未得到具体说明。随着法司委通过，AIDC产业振兴相关讨论在国会程序上又向前推进了一步。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ley especial de centros de datos de IA pasa comité judicial el día 6",
+        "excerpt": "El Parlamento y el Gobierno de Corea del Sur impulsaron una ley para activar la industria de centros de datos de IA, que pasó el comité judicial el día 6.",
+        "body": "El proyecto de ley sobre la promoción de la industria de centros de datos de inteligencia artificial, impulsado conjuntamente por la Asamblea Nacional y el Gobierno de Corea del Sur, pasó el 6 de mayo por el Comité de Legislación y Justicia del Parlamento. La iniciativa busca activar el sector de centros de datos de IA, o AIDC, y apoyar la creación de su ecosistema industrial. Según el resumen disponible, algunos contenidos clave no fueron detallados. Con este avance en el comité, el debate sobre la promoción de la industria AIDC progresa dentro del proceso parlamentario. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lei especial de data centers de IA passa comitê judicial em 6 de maio",
+        "excerpt": "A Assembleia Nacional e o governo da Coreia do Sul promoveram um projeto para ativar data centers de IA, aprovado no comitê judicial em 6 de maio.",
+        "body": "O projeto de lei sobre a promoção da indústria de data centers de inteligência artificial, impulsionado em conjunto pela Assembleia Nacional e pelo governo da Coreia do Sul, passou em 6 de maio pelo Comitê de Legislação e Justiça do Parlamento. A proposta foi criada para ativar o setor de data centers de IA, ou AIDC, e apoiar a formação de seu ecossistema industrial. Segundo o resumo disponível, alguns pontos centrais não foram especificados. Com a aprovação no comitê, a discussão sobre a promoção da indústria AIDC avançou mais uma etapa no processo parlamentar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Rechenzentren-Gesetz passiert Justizausschuss am 6. Mai",
+        "excerpt": "Ein von Parlament und Regierung Südkoreas vorangetriebener Gesetzentwurf zur Förderung der KI-Rechenzentrenbranche passierte am 6. Mai den Justizausschuss.",
+        "body": "Der Gesetzentwurf zur Förderung der Branche für Rechenzentren mit künstlicher Intelligenz, gemeinsam von Südkoreas Nationalversammlung und Regierung vorangetrieben, passierte am 6. Mai den Ausschuss für Gesetzgebung und Justiz des Parlaments. Ziel des Entwurfs ist es, den Sektor der KI-Rechenzentren, kurz AIDC, zu aktivieren und den Aufbau eines entsprechenden industriellen Ökosystems zu unterstützen. Laut der verfügbaren Zusammenfassung wurden einige zentrale Inhalte nicht konkret genannt. Mit der Ausschussbilligung ist die Debatte zur Förderung der AIDC-Branche im parlamentarischen Verfahren einen Schritt weiter. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La loi spéciale sur les data centers IA franchit le comité judiciaire le 6 mai",
+        "excerpt": "Le Parlement et le gouvernement sud-coréens ont porté un texte pour stimuler les data centers IA, adopté le 6 mai par le comité législatif et judiciaire.",
+        "body": "Le projet de loi sur la promotion de l’industrie des centres de données d’intelligence artificielle, porté conjointement par l’Assemblée nationale et le gouvernement sud-coréens, a été adopté le 6 mai par le Comité de législation et de justice du Parlement. Le texte vise à dynamiser le secteur des centres de données IA, ou AIDC, et à soutenir la création de son écosystème industriel. Selon le résumé disponible, certains éléments essentiels ne sont pas précisés. Avec ce passage en comité, le débat sur la promotion de l’industrie AIDC avance d’une étape dans la procédure parlementaire. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قانون مراكز بيانات الذكاء الاصطناعي يجتاز لجنة القضاء في 6 مايو",
+        "excerpt": "اجتاز مشروع قانون لتعزيز صناعة مراكز بيانات الذكاء الاصطناعي، دفعه البرلمان والحكومة في كوريا الجنوبية، لجنة التشريع والقضاء في 6 مايو.",
+        "body": "اجتاز مشروع قانون بشأن تعزيز صناعة مراكز بيانات الذكاء الاصطناعي، الذي دفعته الجمعية الوطنية والحكومة في كوريا الجنوبية معا، لجنة التشريع والقضاء في البرلمان في 6 مايو. ويهدف المشروع إلى تنشيط قطاع مراكز بيانات الذكاء الاصطناعي، أو AIDC، ودعم بناء منظومته الصناعية المرتبطة. وبحسب الملخص المتاح، لم ترد تفاصيل محددة عن بعض العناصر الأساسية. ومع عبوره اللجنة، تقدمت مناقشة تعزيز صناعة AIDC خطوة إضافية ضمن الإجراءات البرلمانية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI डेटा सेंटर विशेष विधेयक 6 मई को न्याय समिति से पारित",
+        "excerpt": "दक्षिण कोरिया की संसद और सरकार द्वारा AI डेटा सेंटर उद्योग को सक्रिय करने के लिए आगे बढ़ाया गया AIDC प्रोत्साहन विधेयक 6 मई को समिति से पारित हुआ।",
+        "body": "कृत्रिम बुद्धिमत्ता डेटा सेंटर उद्योग को सक्रिय करने के लिए दक्षिण कोरिया की नेशनल असेंबली और सरकार द्वारा संयुक्त रूप से आगे बढ़ाया गया ‘AI डेटा सेंटर (AIDC) उद्योग प्रोत्साहन विधेयक’ 6 मई को नेशनल असेंबली की विधि और न्याय समिति से पारित हो गया। यह विधेयक AI डेटा सेंटर क्षेत्र की औद्योगिक आधारशिला को मजबूत करने और संबंधित पारिस्थितिकी तंत्र के निर्माण में सहायता देने के उद्देश्य से 추진 किया गया। उपलब्ध सारांश के अनुसार, कुछ मुख्य बिंदुओं का विशिष्ट विवरण नहीं दिया गया। समिति से पारित होने के साथ AIDC उद्योग प्रोत्साहन पर चर्चा संसदीय प्रक्रिया में एक कदम आगे बढ़ी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "RUU Khusus Pusat Data AI Lolos Komite Kehakiman pada 6 Mei",
+        "excerpt": "Majelis Nasional dan pemerintah Korea Selatan mendorong RUU promosi industri pusat data AI, yang lolos Komite Legislasi dan Kehakiman pada 6 Mei.",
+        "body": "RUU tentang promosi industri pusat data kecerdasan buatan, yang didorong bersama oleh Majelis Nasional dan pemerintah Korea Selatan, lolos dari Komite Legislasi dan Kehakiman parlemen pada 6 Mei. RUU ini diajukan untuk mengaktifkan sektor pusat data AI, atau AIDC, serta mendukung pembentukan ekosistem industrinya. Berdasarkan ringkasan yang tersedia, sebagian isi utama belum dijelaskan secara rinci. Dengan lolosnya RUU di komite tersebut, pembahasan mengenai promosi industri AIDC bergerak satu tahap lebih lanjut dalam proses parlemen. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "29194cd23d3a",
+    "slug": "李-헌법-40년째-제자리-부분순차적-개헌이-현실적-500043",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-06T20:30:40.275Z",
+    "updatedAt": "2026-05-06T20:30:40.275Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12037807",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12037807",
+    "titleFingerprint": "6334b989906372f194cfb0f80dfabd3ed83d1071",
+    "dedupKeys": [
+      "29194cd23d3aa02be379da101c3efe339e23cb53",
+      "6334b989906372f194cfb0f80dfabd3ed83d1071",
+      "4fd77a4066bc105b92ae22323b7e696b11879250"
+    ],
+    "imageUrl": "/images/articles/29194cd23d3a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이재명 대통령, 개헌 표결 앞두고 협조 요청…“부분·순차 개헌 현실적”",
+        "excerpt": "이재명 대통령은 6일 개헌안 국회 본회의 표결을 하루 앞두고 정치권에 협조를 요청하며 부분적·순차적 개헌이 현실적이라고 밝혔다.",
+        "body": "이재명 대통령은 6일 개헌안의 국회 본회의 표결을 하루 앞두고 정치권의 협조를 요청했다. 이 대통령은 헌법이 40년째 큰 변화 없이 머물러 있다는 점을 언급하며, 개헌은 한꺼번에 모든 쟁점을 해결하기보다 부분적·순차적으로 추진하는 방식이 현실적이라고 밝혔다. 그는 모든 국민이 동의할 수 있는 사안부터 논의를 진전시키는 접근을 강조했다. 이번 발언은 국회 표결을 앞두고 개헌 논의의 방향과 정치권의 협력 여부에 관심이 모이는 가운데 나왔다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "President Lee Urges Support Before Constitutional Vote, Backs Phased Reform",
+        "excerpt": "President Lee Jae-myung on the 6th urged political cooperation a day before the National Assembly vote, saying partial and sequential constitutional reform is realistic.",
+        "body": "President Lee Jae-myung on the 6th asked political parties for cooperation a day before the National Assembly plenary vote on a constitutional amendment bill. Lee said the Constitution has remained largely unchanged for 40 years and argued that reform should realistically proceed partially and sequentially rather than try to resolve every issue at once. He emphasized moving forward first on matters that all citizens can agree on. The remarks came as attention turns to the direction of constitutional debate and whether political cooperation will emerge ahead of the Assembly vote. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "李在明大統領、改憲採決前に協力要請…「部分・段階改憲が現実的」",
+        "excerpt": "李在明大統領は6日、改憲案の国会本会議採決を翌日に控え、政治圏に協力を求め、部分的・段階的な改憲が現実的だと述べた。",
+        "body": "李在明大統領は6日、改憲案の国会本会議採決を翌日に控え、政治圏に協力を要請した。李大統領は、憲法が40年間大きな変化なくとどまっている点に触れ、改憲はすべての争点を一度に解決するより、部分的かつ段階的に進めるのが現実的だと述べた。すべての国民が同意できる事案から議論を前に進めるべきだとの考えも示した。発言は、国会採決を前に改憲論議の方向と政治圏の協力に関心が集まる中で出た。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "李在明总统促修宪表决前合作：部分、分阶段修宪更现实",
+        "excerpt": "李在明总统6日在修宪案提交国会全会表决前一天呼吁政界合作，称以部分、分阶段方式推进修宪更为现实。",
+        "body": "李在明总统6日在修宪案提交国会全会表决前一天，呼吁政界给予合作。李总统提到，宪法40年来基本停留在原地，认为修宪与其一次性解决所有争议，不如以部分、分阶段方式推进更为现实。他强调，应先从所有国民都能同意的事项推进讨论。此番表态出现在国会表决前夕，外界正关注修宪讨论的方向以及政界能否形成合作。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lee pide apoyo antes del voto constitucional y defiende una reforma gradual",
+        "excerpt": "El presidente Lee Jae-myung pidió el día 6 cooperación política antes de la votación parlamentaria y dijo que una reforma parcial y secuencial es realista.",
+        "body": "El presidente Lee Jae-myung pidió el día 6 la cooperación de la clase política, un día antes de la votación en sesión plenaria de la Asamblea Nacional sobre la enmienda constitucional. Lee señaló que la Constitución lleva 40 años sin grandes cambios y afirmó que una reforma realista debe avanzar de forma parcial y secuencial, en lugar de intentar resolver todos los asuntos a la vez. También subrayó la necesidad de empezar por los temas en los que todos los ciudadanos puedan estar de acuerdo. Sus palabras llegan antes de la votación, con atención sobre el rumbo del debate y la cooperación política. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lee pede apoio antes de votação constitucional e defende reforma gradual",
+        "excerpt": "O presidente Lee Jae-myung pediu no dia 6 cooperação política antes da votação na Assembleia e afirmou que uma reforma parcial e sequencial é realista.",
+        "body": "O presidente Lee Jae-myung pediu no dia 6 a cooperação da classe política, um dia antes da votação em plenário da Assembleia Nacional sobre a proposta de emenda constitucional. Lee afirmou que a Constituição permanece sem grandes mudanças há 40 anos e disse que a reforma deve avançar de modo parcial e sequencial, em vez de tentar resolver todos os pontos de uma só vez. Ele ressaltou que o debate deve começar por temas com os quais todos os cidadãos possam concordar. A declaração ocorre antes da votação, em meio à atenção sobre o rumo da discussão e a cooperação política. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lee wirbt vor Verfassungsabstimmung für Unterstützung und schrittweise Reform",
+        "excerpt": "Präsident Lee Jae-myung bat am 6. vor der Abstimmung in der Nationalversammlung um politische Kooperation und nannte eine teilweise, schrittweise Reform realistisch.",
+        "body": "Präsident Lee Jae-myung bat am 6. um die Kooperation der Politik, einen Tag vor der Plenarabstimmung der Nationalversammlung über den Verfassungsänderungsentwurf. Lee verwies darauf, dass die Verfassung seit 40 Jahren weitgehend unverändert geblieben sei, und sagte, realistisch sei eine teilweise und schrittweise Reform statt der Versuch, alle Streitfragen auf einmal zu lösen. Er betonte, die Diskussion solle bei Themen vorankommen, denen alle Bürger zustimmen können. Die Äußerung fiel vor der Abstimmung, während die Richtung der Verfassungsdebatte und die politische Zusammenarbeit im Fokus stehen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lee appelle au soutien avant le vote constitutionnel et défend une réforme graduelle",
+        "excerpt": "Le président Lee Jae-myung a demandé le 6 la coopération politique avant le vote parlementaire, jugeant réaliste une réforme partielle et progressive.",
+        "body": "Le président Lee Jae-myung a demandé le 6 la coopération de la classe politique, à la veille du vote en séance plénière de l’Assemblée nationale sur le projet de révision constitutionnelle. Il a rappelé que la Constitution était restée largement inchangée depuis 40 ans et a estimé qu’une réforme partielle et progressive était plus réaliste qu’une tentative de régler tous les sujets en une seule fois. Il a aussi souligné qu’il fallait avancer d’abord sur les points pouvant recueillir l’accord de tous les citoyens. Cette déclaration intervient avant le vote, alors que l’orientation du débat et la coopération politique sont observées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لي يدعو للتعاون قبل تصويت تعديل الدستور ويؤيد إصلاحا جزئيا ومتدرجا",
+        "excerpt": "دعا الرئيس لي جاي ميونغ في السادس إلى تعاون سياسي قبل يوم من تصويت الجمعية الوطنية، قائلا إن التعديل الجزئي والمتدرج للدستور هو الخيار الواقعي.",
+        "body": "دعا الرئيس لي جاي ميونغ في السادس إلى تعاون الأوساط السياسية، وذلك قبل يوم واحد من تصويت الجلسة العامة للجمعية الوطنية على مشروع تعديل الدستور. وأشار لي إلى أن الدستور ظل في مكانه إلى حد كبير منذ 40 عاما، وقال إن النهج الواقعي هو تنفيذ التعديل بصورة جزئية ومتتابعة بدلا من محاولة حل جميع القضايا دفعة واحدة. وشدد على ضرورة دفع النقاش أولا في الملفات التي يمكن لجميع المواطنين الاتفاق عليها. وجاءت هذه التصريحات قبل التصويت البرلماني، وسط اهتمام باتجاه نقاش التعديل وإمكان تعاون القوى السياسية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "संवैधानिक मतदान से पहले ली ने सहयोग मांगा, चरणबद्ध संशोधन को बताया यथार्थवादी",
+        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 6 तारीख को संसद में मतदान से एक दिन पहले राजनीतिक सहयोग मांगा और कहा कि आंशिक व क्रमिक संवैधानिक संशोधन यथार्थवादी है।",
+        "body": "राष्ट्रपति ली जे-म्युंग ने 6 तारीख को संवैधानिक संशोधन विधेयक पर नेशनल असेंबली के पूर्ण सत्र में मतदान से एक दिन पहले राजनीतिक दलों से सहयोग का अनुरोध किया। ली ने कहा कि संविधान 40 वर्षों से बड़े बदलाव के बिना लगभग वहीं ठहरा हुआ है और सभी मुद्दों को एक साथ सुलझाने के बजाय आंशिक और क्रमिक रूप से संशोधन करना अधिक यथार्थवादी है। उन्होंने उन विषयों से चर्चा आगे बढ़ाने पर जोर दिया जिन पर सभी नागरिक सहमत हो सकते हैं। यह बयान मतदान से पहले आया, जब संशोधन बहस की दिशा और राजनीतिक सहयोग पर ध्यान केंद्रित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lee Minta Dukungan Jelang Voting Konstitusi, Dorong Reformasi Bertahap",
+        "excerpt": "Presiden Lee Jae-myung pada tanggal 6 meminta kerja sama politik sehari sebelum voting Majelis Nasional dan menyebut amendemen parsial bertahap realistis.",
+        "body": "Presiden Lee Jae-myung pada tanggal 6 meminta kerja sama kalangan politik, sehari sebelum pemungutan suara sidang pleno Majelis Nasional atas rancangan amendemen konstitusi. Lee menyebut Konstitusi telah bertahan hampir tanpa perubahan besar selama 40 tahun dan mengatakan amendemen lebih realistis dilakukan secara parsial dan berurutan daripada mencoba menyelesaikan semua isu sekaligus. Ia menekankan perlunya memajukan pembahasan mulai dari hal-hal yang dapat disetujui seluruh warga. Pernyataan ini muncul menjelang voting, saat perhatian tertuju pada arah pembahasan amendemen dan kerja sama politik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7635b73908bb",
+    "slug": "관악산-운빨-오픈런백종원bts-정국은-절대-가면-안됩니다-146756",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-06T20:29:42.727Z",
+    "updatedAt": "2026-05-06T20:29:42.728Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/culture/12037966",
+    "canonicalUrl": "https://www.mk.co.kr/news/culture/12037966",
+    "titleFingerprint": "5ad2b559699211526907597d33d777cf2f5e4e3e",
+    "dedupKeys": [
+      "7635b73908bb9cb61a0aa03eef84689394ffabee",
+      "5ad2b559699211526907597d33d777cf2f5e4e3e",
+      "fe3114fc8e3be11521c2819a5039ad0cb03a0a82"
+    ],
+    "imageUrl": "/images/articles/7635b73908bb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "관악산 ‘관쫀쿠’ 오픈런 확산…연주대 인증샷 줄까지 생긴 이유",
+        "excerpt": "서울대를 품은 관악산이 최근 ‘기 받기’ 명소로 주목받으며 정상 연주대 인증샷 대기 줄이 생겼다. 해시태그 ‘관쫀쿠’를 남기려는 방문 열기가 확산되고 있다.",
+        "body": "최근 서울 관악산이 젊은 방문객 사이에서 ‘기 받기’ 오픈런 명소로 떠올랐다. 서울대를 품은 산이라는 상징성이 온라인에서 확산되며, 정상부 연주대에는 인증샷을 찍기 위한 대기 줄까지 길게 이어지는 상황이다. 방문객들이 남기는 핵심 키워드는 해시태그 ‘관쫀쿠’다. 원문 제목은 백종원과 BTS 정국을 언급하지만, 제공된 요약 범위에서 확인되는 사실은 관악산 방문 열기와 연주대 인증샷 대기, 해시태그 유행이다. 이 흐름은 관악산이 단순 등산지를 넘어 온라인 인증 문화와 결합한 장소로 소비되고 있음을 보여준다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Gwanaksan ‘Gwanjjonku’ Open-Run Trend Grows as Photo Lines Form at Yeonjudae",
+        "excerpt": "Gwanaksan in Seoul, home to Seoul National University, is drawing attention as a place to receive good energy, with visitors lining up at Yeonjudae to post photos under the ‘Gwanjjonku’ hashtag.",
+        "body": "Gwanaksan in Seoul has recently become a focus among visitors seeking an ‘energy’ open-run experience. Its symbolism as the mountain that holds Seoul National University has spread online, and long lines are now forming at Yeonjudae near the summit for verification photos. The key term visitors are using is the hashtag ‘Gwanjjonku.’ The original headline mentions Baek Jong-won and BTS member Jungkook, but within the provided summary, the confirmed facts are the growing interest in Gwanaksan, photo queues at Yeonjudae, and the hashtag trend. The pattern shows Gwanaksan being consumed not only as a hiking site but also as a place tied to online proof-shot culture. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "冠岳山「관쫀쿠」オープンラン拡大、恋主台の記念写真待機列も",
+        "excerpt": "ソウル大学を抱く冠岳山が最近、「気を受ける」名所として注目され、山頂の恋主台では認証写真の待機列が発生。ハッシュタグ「관쫀쿠」投稿の熱気が広がっている。",
+        "body": "最近、ソウルの冠岳山が若い訪問客の間で「気を受ける」オープンランの名所として浮上している。ソウル大学を抱く山という象徴性がオンラインで広がり、山頂部の恋主台では認証写真を撮るための待機列まで長く続いている。訪問客が残す中心キーワードはハッシュタグ「관쫀쿠」だ。原文の見出しはペク・ジョンウォンとBTSのジョングクに言及しているが、提供された要約で確認できる事実は、冠岳山への関心、恋主台の写真待機列、ハッシュタグ流行である。この流れは冠岳山が単なる登山地を越え、オンライン認証文化と結びついた場所として消費されていることを示す。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "冠岳山“관쫀쿠”打卡热升温，恋主台认证照排队成新现象",
+        "excerpt": "拥有首尔大学象征意义的冠岳山近日成为“接收气运”的热门地点，山顶恋主台出现认证照排队，游客为留下“관쫀쿠”标签而持续涌入。",
+        "body": "近日，首尔冠岳山在年轻访客中成为“接收气运”的开放式打卡热点。由于它承载着首尔大学这一象征意义，相关话题在网上扩散，山顶一带的恋主台甚至出现了为拍认证照而排起的长队。访客留下的核心关键词是标签“관쫀쿠”。原文标题提到白种元和BTS成员柾国，但在所提供摘要范围内，可确认的事实是冠岳山访问热度、恋主台认证照排队以及该标签流行。这一趋势显示，冠岳山正不只是作为登山地，也作为与线上认证文化结合的场所被消费。来源：mk.co.kr."
+      },
+      "es": {
+        "title": "Gwanaksan y el auge ‘Gwanjjonku’: filas para fotos en Yeonjudae",
+        "excerpt": "El monte Gwanaksan de Seúl, asociado a la Universidad Nacional de Seúl, atrae visitas para “recibir energía”; en Yeonjudae ya hay filas para fotos con la etiqueta ‘Gwanjjonku’.",
+        "body": "El monte Gwanaksan, en Seúl, se ha convertido recientemente en un punto de visita para quienes buscan una experiencia de “recibir energía” desde temprano. Su simbolismo como montaña que alberga a la Universidad Nacional de Seúl se ha difundido en línea, y en Yeonjudae, cerca de la cima, se forman largas filas para tomar fotos de verificación. La palabra clave entre los visitantes es la etiqueta ‘Gwanjjonku’. El titular original menciona a Baek Jong-won y a Jungkook de BTS, pero dentro del resumen proporcionado los hechos confirmados son el interés por Gwanaksan, las filas para fotos en Yeonjudae y la tendencia del hashtag. Esto muestra que Gwanaksan se consume no solo como destino de senderismo, sino también como espacio ligado a la cultura de certificación en redes. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Gwanaksan vira febre ‘Gwanjjonku’ com filas para fotos em Yeonjudae",
+        "excerpt": "O monte Gwanaksan, em Seul, ligado ao simbolismo da Universidade Nacional de Seul, virou ponto para “receber energia”, com filas em Yeonjudae para fotos marcadas por ‘Gwanjjonku’.",
+        "body": "O monte Gwanaksan, em Seul, passou recentemente a chamar atenção entre visitantes que buscam uma experiência de “receber energia” logo cedo. O simbolismo de abrigar a Universidade Nacional de Seul se espalhou online, e em Yeonjudae, na área do cume, já há longas filas para tirar fotos de comprovação. A palavra-chave usada pelos visitantes é a hashtag ‘Gwanjjonku’. O título original menciona Baek Jong-won e Jungkook, do BTS, mas, dentro do resumo fornecido, os fatos confirmados são o interesse crescente por Gwanaksan, as filas para fotos em Yeonjudae e a tendência da hashtag. O movimento mostra que Gwanaksan vem sendo consumido não apenas como local de trilha, mas também como espaço conectado à cultura de comprovação nas redes. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Gwanaksan-Trend ‘Gwanjjonku’: Lange Fotowarteschlangen am Yeonjudae",
+        "excerpt": "Der Gwanaksan in Seoul, symbolisch mit der Seoul National University verbunden, zieht Besucher zum „Energie tanken“ an; am Yeonjudae entstehen Warteschlangen für Fotos mit ‘Gwanjjonku’.",
+        "body": "Der Gwanaksan in Seoul ist zuletzt unter Besuchern als Ort für ein frühes „Energie tanken“ in den Fokus gerückt. Die symbolische Verbindung mit der Seoul National University verbreitet sich online, und am Yeonjudae im Gipfelbereich bilden sich inzwischen lange Warteschlangen für Bestätigungsfotos. Das zentrale Stichwort der Besucher ist der Hashtag ‘Gwanjjonku’. Die ursprüngliche Überschrift nennt Baek Jong-won und BTS-Mitglied Jungkook, doch auf Basis der bereitgestellten Zusammenfassung sind die gesicherten Fakten das wachsende Interesse am Gwanaksan, Fotowarteschlangen am Yeonjudae und der Hashtag-Trend. Der Verlauf zeigt, dass der Gwanaksan nicht nur als Wanderziel, sondern auch als Ort der Online-Bestätigungskultur wahrgenommen wird. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Gwanaksan et la vague ‘Gwanjjonku’ : files de photos à Yeonjudae",
+        "excerpt": "Le mont Gwanaksan à Séoul, associé à l’Université nationale de Séoul, attire des visiteurs venus “recevoir de l’énergie”; à Yeonjudae, les files s’allongent pour des photos ‘Gwanjjonku’.",
+        "body": "Le mont Gwanaksan, à Séoul, est récemment devenu un lieu remarqué par les visiteurs venus chercher une expérience de “réception d’énergie” dès l’ouverture. Son symbole de montagne abritant l’Université nationale de Séoul s’est diffusé en ligne, et à Yeonjudae, près du sommet, de longues files se forment pour prendre des photos de validation. Le mot-clé central utilisé par les visiteurs est le hashtag ‘Gwanjjonku’. Le titre original mentionne Baek Jong-won et Jungkook de BTS, mais, dans le résumé fourni, les faits confirmés sont l’intérêt pour Gwanaksan, les files de photos à Yeonjudae et la tendance du hashtag. Cette dynamique montre que Gwanaksan est consommé non seulement comme site de randonnée, mais aussi comme lieu lié à la culture de preuve en ligne. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "جبل غواناكسان ووسم ‘Gwanjjonku’: طوابير صور عند يونجوداي",
+        "excerpt": "يجذب جبل غواناكسان في سيول، المرتبط برمزية جامعة سيول الوطنية، زوارا يسعون إلى “تلقي الطاقة”، فيما تمتد طوابير التصوير عند يونجوداي لنشر صور بوسم ‘Gwanjjonku’.",
+        "body": "برز جبل غواناكسان في سيول مؤخرا بين الزوار كمكان لتجربة “تلقي الطاقة” منذ وقت مبكر. فقد انتشرت عبر الإنترنت رمزيته كجبل يضم جامعة سيول الوطنية، وباتت تتشكل طوابير طويلة عند يونجوداي قرب القمة لالتقاط صور توثيقية. الكلمة المفتاحية التي يستخدمها الزوار هي وسم ‘Gwanjjonku’. العنوان الأصلي يذكر بايك جونغ وون و جونغكوك عضو BTS، لكن ضمن الملخص المقدم تقتصر الحقائق المؤكدة على تزايد الاهتمام بغواناكسان، وطوابير الصور عند يونجوداي، وانتشار الوسم. ويظهر هذا المسار أن غواناكسان لم يعد يستهلك فقط كوجهة للمشي الجبلي، بل أيضا كمكان مرتبط بثقافة التوثيق على الإنترنت. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "ग्वानाकसान ‘Gwanjjonku’ ट्रेंड तेज, योनजुदाए में फोटो कतारें",
+        "excerpt": "सियोल नेशनल यूनिवर्सिटी से जुड़ी प्रतीकात्मकता वाले ग्वानाकसान पर्वत पर हाल में ‘ऊर्जा लेने’ आने वालों की भीड़ बढ़ी है, और योनजुदाए में ‘Gwanjjonku’ फोटो के लिए कतारें लग रही हैं।",
+        "body": "सियोल का ग्वानाकसान पर्वत हाल में युवाओं के बीच ‘ऊर्जा लेने’ वाली ओपन-रन जगह के रूप में उभरा है। सियोल नेशनल यूनिवर्सिटी को समेटे पर्वत होने की प्रतीकात्मकता ऑनलाइन फैल रही है, और शिखर क्षेत्र के योनजुदाए में प्रमाण फोटो लेने के लिए लंबी प्रतीक्षा कतारें बन रही हैं। आगंतुकों का मुख्य कीवर्ड हैशटैग ‘Gwanjjonku’ है। मूल शीर्षक में बैक जोंग-वोन और BTS के जंगकूक का उल्लेख है, लेकिन दिए गए सार में पुष्टि योग्य तथ्य ग्वानाकसान की बढ़ती लोकप्रियता, योनजुदाए की फोटो कतारें और हैशटैग का चलन हैं। यह प्रवाह दिखाता है कि ग्वानाकसान अब सिर्फ हाइकिंग स्थल नहीं, बल्कि ऑनलाइन प्रमाण संस्कृति से जुड़ी जगह के रूप में भी देखा जा रहा है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Gwanaksan ‘Gwanjjonku’ Makin Ramai, Antrean Foto Muncul di Yeonjudae",
+        "excerpt": "Gunung Gwanaksan di Seoul, yang lekat dengan simbol Universitas Nasional Seoul, ramai dikunjungi untuk “menerima energi”; di Yeonjudae muncul antrean foto bertagar ‘Gwanjjonku’.",
+        "body": "Gunung Gwanaksan di Seoul belakangan menjadi perhatian pengunjung muda sebagai tempat open-run untuk “menerima energi”. Simbolismenya sebagai gunung yang menaungi Universitas Nasional Seoul menyebar di internet, dan di Yeonjudae dekat puncak kini muncul antrean panjang untuk mengambil foto verifikasi. Kata kunci utama yang dipakai pengunjung adalah tagar ‘Gwanjjonku’. Judul asli menyebut Baek Jong-won dan Jungkook BTS, tetapi dalam ringkasan yang diberikan, fakta yang terkonfirmasi adalah meningkatnya minat pada Gwanaksan, antrean foto di Yeonjudae, dan tren tagar tersebut. Arus ini menunjukkan bahwa Gwanaksan tidak hanya dikonsumsi sebagai lokasi pendakian, tetapi juga sebagai tempat yang terhubung dengan budaya bukti unggahan online. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "2cf597f5ba91",
     "slug": "삼성-노조가-요구하는-성과급은-선배당주주권리-침해-412640",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Negara besar tahan suku bunga, peluang kenaikan Korea jadi sorotan",
         "excerpt": "Mindle melaporkan bahwa saat Amerika Serikat dan negara besar lain mempertahankan suku bunga, perhatian beralih pada kemungkinan Korea menaikkan bunga dua kali setahun.",
         "body": "Amerika Serikat dan negara-negara besar lain berturut-turut mempertahankan suku bunga, sementara muncul kemungkinan bahwa Korea dapat menaikkan suku bunga acuannya dua kali setahun, menurut laporan Mindle. Laporan ini mengaitkan arah kebijakan moneter negara utama dengan prospek suku bunga Korea.\n\nJudul berita menyoroti tren penahanan suku bunga oleh negara besar dan mempertanyakan apakah Korea dapat bergerak di jalur berbeda. Keputusan suku bunga dipandang sebagai sinyal penting atas penilaian bank sentral terhadap ekonomi dan harga.\n\nKemungkinan kenaikan dua kali setahun di Korea dapat memengaruhi arah kebijakan moneter dan ekspektasi pasar keuangan. Namun, ringkasan asli yang diberikan tidak memuat waktu keputusan yang spesifik, angka rinci, atau komentar pejabat.\nSumber: Mindle"
-      }
-    }
-  },
-  {
-    "id": "2523aea7658a",
-    "slug": "직설-美연준-기준금리-유지-결정앞으로의-연준-금리-향방은---vdaumnet-329264",
-    "channelId": "MACRO",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:53:13.980Z",
-    "updatedAt": "2026-05-06T07:53:13.980Z",
-    "sourceName": "v.daum.net",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iQ3hiUUpHSDR4RnRUX2VZRDB6dWNNZHBtZTJ0ZVNoc2xXTGRyTFkyN1NvVzlSdWJuMzQzUGVKWU5nMGg2NVR0UGVEVnpoVzg?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iQ3hiUUpHSDR4RnRUX2VZRDB6dWNNZHBtZTJ0ZVNoc2xXTGRyTFkyN1NvVzlSdWJuMzQzUGVKWU5nMGg2NVR0UGVEVnpoVzg?oc=5",
-    "titleFingerprint": "f4ac67088e12b331d3900418eba7df92d78bc054",
-    "dedupKeys": [
-      "2523aea7658a2c7b1f780bd0b036c7806a28ec01",
-      "f4ac67088e12b331d3900418eba7df92d78bc054",
-      "57d383a03ff27c802ec89e643d00ca80e2599d8c"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "미 연준 기준금리 유지 결정, 시장이 주목하는 향후 금리 경로",
-        "excerpt": "미국 연방준비제도는 기준금리를 유지하기로 결정했으며, 시장은 앞으로의 연준 금리 향방과 통화정책 기조 변화 가능성에 주목하고 있다.",
-        "body": "미국 연방준비제도(Fed)가 기준금리를 유지하기로 결정했다고 v.daum.net이 보도했다. 이번 결정은 연준의 향후 금리 운용 방향을 둘러싼 시장의 관심이 이어지는 가운데 나왔다.\n\n보도는 연준의 기준금리 동결 결정과 함께 앞으로의 금리 향방을 주요 쟁점으로 다뤘다. 기준금리는 미국 통화정책의 핵심 수단으로, 유지 결정은 금융시장과 경제 주체들이 향후 정책 신호를 해석하는 기준이 된다.\n\n향후 시장은 연준이 금리를 언제, 어떤 속도로 조정할지에 주목할 것으로 보인다. 다만 원문은 구체적인 인하 또는 인상 시점, 수치, 관계자 발언은 별도로 제시하지 않았다.\n출처: v.daum.net"
-      },
-      "en": {
-        "title": "Fed Holds Benchmark Rate as Markets Watch the Next Policy Path",
-        "excerpt": "The U.S. Federal Reserve decided to keep its benchmark interest rate unchanged, while markets focus on where the Fed’s rate policy may head next.",
-        "body": "The U.S. Federal Reserve decided to keep its benchmark interest rate unchanged, according to v.daum.net. The decision came as market attention remains focused on the future direction of Fed interest-rate policy.\n\nThe report highlighted the Fed’s decision to hold rates and the question of where rates may move from here. The benchmark rate is a central tool of U.S. monetary policy, and a hold decision gives investors and economic actors a basis for interpreting future policy signals.\n\nMarkets are expected to continue watching when and how the Fed may adjust rates. However, the original report did not provide a specific timing, figure, or official comment on a rate cut or hike.\nSource: v.daum.net"
-      },
-      "ja": {
-        "title": "米FRBが政策金利を据え置き、市場は今後の金利動向に注目",
-        "excerpt": "米連邦準備制度理事会は政策金利の据え置きを決定し、市場では今後のFRBの金利方針と金融政策の方向性に関心が集まっている。",
-        "body": "米連邦準備制度理事会（FRB）が政策金利を据え置くことを決定したと、v.daum.netが報じた。今回の決定は、今後のFRBの金利運営をめぐる市場の関心が続く中で示された。\n\n報道は、FRBの金利据え置き決定とともに、今後の金利の行方を主要な論点として扱った。政策金利は米国の金融政策における中心的な手段であり、据え置き判断は金融市場や経済主体が今後の政策シグナルを読み取る基準となる。\n\n市場は今後、FRBがいつ、どのようなペースで金利を調整するのかに注目するとみられる。ただし原文では、利下げまたは利上げの具体的な時期や数値、関係者の発言は示されていない。\n出典: v.daum.net"
-      },
-      "zh": {
-        "title": "美联储决定维持基准利率不变，市场关注后续利率路径",
-        "excerpt": "美国联邦储备委员会决定维持基准利率不变，市场正关注美联储今后的利率走向以及货币政策基调是否会发生变化。",
-        "body": "据 v.daum.net 报道，美国联邦储备委员会决定维持基准利率不变。此项决定出台之际，市场仍在关注美联储未来的利率政策方向。\n\n报道将美联储维持利率不变的决定，以及今后利率走向作为主要议题。基准利率是美国货币政策的核心工具，维持不变的决定为金融市场和经济主体解读未来政策信号提供了依据。\n\n预计市场将继续关注美联储将在何时、以何种节奏调整利率。不过，原文并未提供降息或加息的具体时间、数值，也未列出相关人士评论。\n来源: v.daum.net"
-      },
-      "es": {
-        "title": "La Fed mantiene la tasa de referencia y el mercado mira el próximo rumbo",
-        "excerpt": "La Reserva Federal de Estados Unidos decidió mantener sin cambios su tasa de referencia, mientras el mercado observa el futuro rumbo de la política de tipos.",
-        "body": "La Reserva Federal de Estados Unidos decidió mantener sin cambios su tasa de referencia, informó v.daum.net. La decisión se conoció en un contexto de atención sostenida del mercado sobre la futura dirección de los tipos de la Fed.\n\nEl reporte destacó la decisión de mantener la tasa y la pregunta sobre hacia dónde se moverá la política de tipos en adelante. La tasa de referencia es una herramienta central de la política monetaria estadounidense, y su mantenimiento sirve como base para interpretar futuras señales de política.\n\nEl mercado seguirá atento a cuándo y a qué ritmo la Fed podría ajustar las tasas. Sin embargo, el texto original no presentó una fecha concreta, una cifra ni comentarios de funcionarios sobre una baja o una subida.\nFuente: v.daum.net"
-      },
-      "pt": {
-        "title": "Fed mantém taxa básica e mercado observa o próximo rumo dos juros",
-        "excerpt": "O Federal Reserve dos Estados Unidos decidiu manter a taxa básica de juros, enquanto o mercado acompanha a futura direção da política monetária do banco central.",
-        "body": "O Federal Reserve dos Estados Unidos decidiu manter a taxa básica de juros, informou o v.daum.net. A decisão ocorre enquanto o mercado segue atento ao rumo futuro da política de juros do Fed.\n\nA reportagem destacou a manutenção da taxa pelo Fed e a questão sobre a trajetória dos juros daqui em diante. A taxa básica é um instrumento central da política monetária dos EUA, e a decisão de mantê-la ajuda investidores e agentes econômicos a interpretar futuros sinais de política.\n\nO mercado deve continuar observando quando e em que ritmo o Fed poderá ajustar os juros. No entanto, o texto original não apresentou data específica, número ou comentário de autoridades sobre corte ou alta.\nFonte: v.daum.net"
-      },
-      "de": {
-        "title": "Fed hält Leitzins stabil, Märkte blicken auf den weiteren Zinspfad",
-        "excerpt": "Die US-Notenbank Federal Reserve hat beschlossen, den Leitzins unverändert zu lassen; die Märkte achten nun auf den weiteren Kurs der Geldpolitik.",
-        "body": "Die US-Notenbank Federal Reserve hat beschlossen, den Leitzins unverändert zu lassen, berichtete v.daum.net. Die Entscheidung fiel, während die Märkte weiter auf die künftige Richtung der Fed-Zinspolitik schauen.\n\nDer Bericht stellte die Zinspause der Fed und die Frage nach dem weiteren Zinspfad in den Mittelpunkt. Der Leitzins ist ein zentrales Instrument der US-Geldpolitik, und eine unveränderte Entscheidung dient Finanzmärkten und Wirtschaftsakteuren als Grundlage zur Deutung künftiger politischer Signale.\n\nDie Märkte dürften weiter beobachten, wann und in welchem Tempo die Fed die Zinsen anpassen könnte. Der Originalbericht nannte jedoch keinen konkreten Zeitpunkt, keine Zahl und keine Aussagen von Verantwortlichen zu einer Senkung oder Erhöhung.\nQuelle: v.daum.net"
-      },
-      "fr": {
-        "title": "La Fed maintient son taux directeur, les marchés guettent la suite",
-        "excerpt": "La Réserve fédérale américaine a décidé de maintenir son taux directeur, tandis que les marchés surveillent l’orientation future de sa politique monétaire.",
-        "body": "La Réserve fédérale américaine a décidé de maintenir son taux directeur inchangé, selon v.daum.net. Cette décision intervient alors que l’attention des marchés reste tournée vers la future orientation des taux de la Fed.\n\nLe reportage a mis en avant la décision de maintien des taux et la question de leur trajectoire à venir. Le taux directeur est un outil central de la politique monétaire américaine, et son maintien sert de base aux marchés financiers et aux acteurs économiques pour interpréter les prochains signaux de politique.\n\nLes marchés devraient continuer à surveiller quand et à quel rythme la Fed pourrait ajuster ses taux. Toutefois, le texte original ne précise ni calendrier, ni chiffre, ni commentaire officiel sur une baisse ou une hausse.\nSource: v.daum.net"
-      },
-      "ar": {
-        "title": "الفيدرالي الأمريكي يثبت سعر الفائدة والأسواق تراقب المسار المقبل",
-        "excerpt": "قرر مجلس الاحتياطي الفيدرالي الأمريكي إبقاء سعر الفائدة القياسي دون تغيير، فيما تركز الأسواق على الاتجاه المقبل لسياسة الفائدة.",
-        "body": "قرر مجلس الاحتياطي الفيدرالي الأمريكي إبقاء سعر الفائدة القياسي دون تغيير، بحسب ما أفاد v.daum.net. وجاء القرار في وقت يواصل فيه السوق متابعة الاتجاه المستقبلي لسياسة الفائدة لدى الفيدرالي.\n\nركز التقرير على قرار تثبيت الفائدة وعلى السؤال المتعلق بمسارها في المرحلة المقبلة. ويعد سعر الفائدة القياسي أداة رئيسية في السياسة النقدية الأمريكية، ولذلك يشكل قرار الإبقاء عليه أساسا لتفسير الإشارات المقبلة من جانب الأسواق والجهات الاقتصادية.\n\nومن المتوقع أن تواصل الأسواق مراقبة توقيت وكيفية تعديل الفيدرالي للفائدة. غير أن النص الأصلي لم يورد موعدا محددا أو رقما أو تصريحا لمسؤولين بشأن خفض أو رفع الفائدة.\nالمصدر: v.daum.net"
-      },
-      "hi": {
-        "title": "फेड ने बेंचमार्क दर स्थिर रखी, बाजार की नजर आगे के रुख पर",
-        "excerpt": "अमेरिकी फेडरल रिजर्व ने बेंचमार्क ब्याज दर को यथावत रखने का फैसला किया है, जबकि बाजार आगे की ब्याज दर नीति की दिशा पर ध्यान दे रहा है।",
-        "body": "अमेरिकी फेडरल रिजर्व ने बेंचमार्क ब्याज दर को यथावत रखने का फैसला किया, v.daum.net ने रिपोर्ट किया। यह फैसला ऐसे समय आया है जब बाजार फेड की आगे की ब्याज दर दिशा पर लगातार नजर रख रहा है।\n\nरिपोर्ट में फेड के दर स्थिर रखने के निर्णय और आगे ब्याज दरों की दिशा को मुख्य मुद्दे के रूप में पेश किया गया। बेंचमार्क दर अमेरिकी मौद्रिक नीति का प्रमुख साधन है, और इसे स्थिर रखने का फैसला वित्तीय बाजारों तथा आर्थिक पक्षों को भविष्य के नीति संकेत समझने का आधार देता है।\n\nबाजार आगे यह देखता रहेगा कि फेड कब और किस गति से दरों में बदलाव कर सकता है। हालांकि मूल रिपोर्ट में कटौती या बढ़ोतरी के किसी ठोस समय, आंकड़े या अधिकारी के बयान का उल्लेख नहीं था।\nस्रोत: v.daum.net"
-      },
-      "id": {
-        "title": "The Fed Tahan Suku Bunga Acuan, Pasar Menanti Arah Berikutnya",
-        "excerpt": "Federal Reserve AS memutuskan mempertahankan suku bunga acuan, sementara pasar mencermati arah kebijakan suku bunga The Fed ke depan.",
-        "body": "Federal Reserve Amerika Serikat memutuskan mempertahankan suku bunga acuan, menurut laporan v.daum.net. Keputusan ini muncul saat perhatian pasar masih tertuju pada arah kebijakan suku bunga The Fed selanjutnya.\n\nLaporan tersebut menyoroti keputusan The Fed untuk menahan suku bunga serta pertanyaan mengenai arah bunga ke depan. Suku bunga acuan merupakan instrumen utama kebijakan moneter AS, dan keputusan untuk mempertahankannya menjadi dasar bagi pasar keuangan serta pelaku ekonomi dalam membaca sinyal kebijakan berikutnya.\n\nPasar diperkirakan akan terus memantau kapan dan dengan tempo seperti apa The Fed dapat menyesuaikan suku bunga. Namun, teks asli tidak memuat waktu, angka, atau komentar pejabat tertentu terkait pemangkasan maupun kenaikan.\nSumber: v.daum.net"
-      }
-    }
-  },
-  {
-    "id": "cd5b506fd99d",
-    "slug": "전쟁인플레-복합위기연준-인사-금리-인상도-배제-못해---마켓인-868193",
-    "channelId": "MACRO",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:52:03.914Z",
-    "updatedAt": "2026-05-06T07:52:03.914Z",
-    "sourceName": "마켓인",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Oc1ZDeXlHM2FpRXRWWDNwdXF6U2NCMVVpRnJKeEtZUEFVQlV4T0pEMlJzOEp1TC1Qc2ZCcXRRQUdEWGxLb1Q1bkdvNlhJeWlTNE9FLVJfTW50TndTdzlWc0NIZjc5T1N1ZUdmdEtKTDZLcDA?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Oc1ZDeXlHM2FpRXRWWDNwdXF6U2NCMVVpRnJKeEtZUEFVQlV4T0pEMlJzOEp1TC1Qc2ZCcXRRQUdEWGxLb1Q1bkdvNlhJeWlTNE9FLVJfTW50TndTdzlWc0NIZjc5T1N1ZUdmdEtKTDZLcDA?oc=5",
-    "titleFingerprint": "264b4c4b0fcc9ba76a9acd6cc74aa6443ecca695",
-    "dedupKeys": [
-      "cd5b506fd99d16f5201861a866442dd206a9595a",
-      "264b4c4b0fcc9ba76a9acd6cc74aa6443ecca695",
-      "71f1bac1bd620cd9d720a9f95b9aea6696d9e52e"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "전쟁·인플레 복합위기 속 연준 인사, 기준금리 인상 가능성도 배제 못해",
-        "excerpt": "마켓인은 전쟁과 인플레이션이 겹친 복합위기 속에서 연준 인사가 금리 인상 가능성도 배제할 수 없다고 언급했다고 보도했다.",
-        "body": "전쟁과 인플레이션이 동시에 부담으로 작용하는 복합위기 속에서 미국 연방준비제도 관계자가 금리 인상 가능성도 배제할 수 없다는 취지의 발언을 했다고 마켓인이 보도했다.\n\n보도 요약에 따르면 핵심 쟁점은 전쟁 리스크와 물가 상승 압력이 함께 금융·경제 환경을 흔들 수 있다는 점이다. 다만 원문 요약에는 발언자의 이름, 구체적 수치, 회의 일정, 금리 수준 등 세부 정보는 제시되지 않았다.\n\n이번 발언은 인플레이션이 완전히 진정되지 않은 상황에서 통화정책 경로에 대한 시장의 경계감을 키울 수 있는 내용이다. 연준 인사가 인상 가능성을 열어둔 만큼, 향후 물가 흐름과 전쟁 변수에 대한 관심이 이어질 전망이다.\n\n출처: 마켓인"
-      },
-      "en": {
-        "title": "Fed Official Says Rate Hike Cannot Be Ruled Out Amid War and Inflation Crisis",
-        "excerpt": "Marketin reported that, amid a combined crisis of war risks and inflation pressure, a Federal Reserve official said a rate hike could not be ruled out.",
-        "body": "Marketin reported that a U.S. Federal Reserve official said the possibility of an interest rate hike cannot be ruled out as war and inflation weigh on the economy at the same time.\n\nAccording to the summary, the central issue is that war-related risks and price pressures are combining to unsettle the financial and economic environment. The summary did not provide the official’s name, specific figures, meeting schedule, or the current level of interest rates.\n\nThe remark could keep markets alert to the path of monetary policy while inflation has not fully eased. Because the Fed official left the option of a hike open, attention is likely to remain on price trends and war-related variables.\n\nSource: Marketin"
-      },
-      "ja": {
-        "title": "戦争とインフレの複合危機、FRB関係者が利上げ可能性も排除せず",
-        "excerpt": "マケットインは、戦争リスクとインフレ圧力が重なる複合危機の中で、FRB関係者が利上げの可能性も排除できないと述べたと報じた。",
-        "body": "戦争とインフレが同時に経済の重荷となる複合危機の中で、米連邦準備制度理事会の関係者が利上げの可能性も排除できないとの趣旨の発言をしたと、マケットインが報じた。\n\n報道要約によると、焦点は戦争に伴うリスクと物価上昇圧力が同時に金融・経済環境を揺さぶり得る点にある。ただし要約には、発言者の名前、具体的な数値、会合日程、金利水準などの詳細は示されていない。\n\n今回の発言は、インフレが完全には沈静化していない中で、金融政策の先行きに対する市場の警戒感を高める内容となる。FRB関係者が利上げの選択肢を残したため、今後も物価動向と戦争関連の変数に関心が向かいそうだ。\n\n出典: マケットイン"
-      },
-      "zh": {
-        "title": "战争与通胀交织成复合危机，美联储人士称不排除加息可能",
-        "excerpt": "Marketin报道称，在战争风险与通胀压力交织的复合危机下，一名美联储人士表示，不能排除进一步加息的可能性。",
-        "body": "Marketin报道称，在战争与通胀同时对经济构成压力的复合危机下，一名美国联邦储备委员会相关人士表示，不能排除加息的可能性。\n\n根据报道摘要，核心问题在于战争风险与物价上涨压力可能共同扰动金融和经济环境。不过，摘要中未提供发言者姓名、具体数据、会议日程或当前利率水平等细节。\n\n这一表态显示，在通胀尚未完全缓和的情况下，市场对货币政策路径的警惕可能继续存在。由于美联储人士保留了加息选项，未来物价走势和战争相关变量仍将受到关注。\n\n来源: Marketin"
-      },
-      "es": {
-        "title": "Funcionario de la Fed no descarta subir tasas ante crisis de guerra e inflación",
-        "excerpt": "Marketin informó que, en medio de una crisis combinada por guerra e inflación, un funcionario de la Reserva Federal dijo que no puede descartarse una subida de tasas.",
-        "body": "Marketin informó que un funcionario de la Reserva Federal de Estados Unidos dijo que no puede descartarse la posibilidad de una subida de tasas, en un contexto en el que la guerra y la inflación presionan al mismo tiempo a la economía.\n\nSegún el resumen de la información, el punto central es que los riesgos vinculados a la guerra y las presiones de precios pueden afectar de forma conjunta el entorno financiero y económico. El resumen no incluyó el nombre del funcionario, cifras concretas, calendario de reuniones ni el nivel actual de las tasas.\n\nLa declaración puede mantener la cautela del mercado sobre la trayectoria de la política monetaria mientras la inflación no se haya moderado por completo. Al dejar abierta la opción de una subida, la atención seguirá centrada en los precios y en las variables relacionadas con la guerra.\n\nFuente: Marketin"
-      },
-      "pt": {
-        "title": "Fed não descarta alta de juros em meio à crise combinada de guerra e inflação",
-        "excerpt": "A Marketin informou que, diante de uma crise combinada de guerra e inflação, um dirigente do Federal Reserve disse que uma alta de juros não pode ser descartada.",
-        "body": "A Marketin informou que um dirigente do Federal Reserve dos Estados Unidos afirmou que a possibilidade de alta de juros não pode ser descartada, em um cenário no qual guerra e inflação pressionam a economia ao mesmo tempo.\n\nSegundo o resumo da notícia, o ponto central é que riscos ligados à guerra e pressões de preços podem afetar conjuntamente o ambiente financeiro e econômico. O resumo não apresentou o nome do dirigente, números específicos, calendário de reuniões ou o nível atual dos juros.\n\nA fala pode manter os mercados atentos ao rumo da política monetária enquanto a inflação ainda não tiver cedido completamente. Como o representante do Fed deixou aberta a opção de alta, a atenção deve seguir voltada à trajetória dos preços e às variáveis ligadas à guerra.\n\nFonte: Marketin"
-      },
-      "de": {
-        "title": "Fed-Vertreter schließt Zinserhöhung in Kriegs- und Inflationskrise nicht aus",
-        "excerpt": "Marketin berichtete, dass ein Vertreter der US-Notenbank in einer kombinierten Krise aus Krieg und Inflation eine Zinserhöhung nicht ausschloss.",
-        "body": "Marketin berichtete, dass ein Vertreter der US-Notenbank Federal Reserve die Möglichkeit einer Zinserhöhung nicht ausschloss, während Krieg und Inflation gleichzeitig auf die Wirtschaft lasten.\n\nDem Berichtszusammenfassung zufolge steht im Mittelpunkt, dass kriegsbezogene Risiken und Preisdruck gemeinsam das Finanz- und Wirtschaftsumfeld belasten können. Der Überblick nannte jedoch weder den Namen des Vertreters noch konkrete Zahlen, Sitzungstermine oder das aktuelle Zinsniveau.\n\nDie Aussage kann die Aufmerksamkeit der Märkte auf den geldpolitischen Kurs aufrechterhalten, solange die Inflation nicht vollständig nachgelassen hat. Da der Fed-Vertreter die Option einer Erhöhung offenließ, dürften Preisentwicklung und kriegsbezogene Faktoren weiter im Fokus bleiben.\n\nQuelle: Marketin"
-      },
-      "fr": {
-        "title": "Crise guerre-inflation: un responsable de la Fed n’écarte pas une hausse des taux",
-        "excerpt": "Marketin rapporte qu’en pleine crise mêlant guerre et inflation, un responsable de la Réserve fédérale américaine a déclaré qu’une hausse des taux ne pouvait être exclue.",
-        "body": "Marketin rapporte qu’un responsable de la Réserve fédérale américaine a déclaré que la possibilité d’une hausse des taux ne pouvait être exclue, dans un contexte où la guerre et l’inflation pèsent simultanément sur l’économie.\n\nSelon le résumé, l’enjeu central est que les risques liés à la guerre et les pressions sur les prix peuvent ensemble perturber l’environnement financier et économique. Le résumé ne précise toutefois ni le nom du responsable, ni les chiffres concrets, ni le calendrier des réunions, ni le niveau actuel des taux.\n\nCette déclaration peut maintenir la vigilance des marchés sur la trajectoire de la politique monétaire tant que l’inflation ne s’est pas complètement apaisée. L’attention devrait donc rester portée sur les prix et les variables liées à la guerre.\n\nSource: Marketin"
-      },
-      "ar": {
-        "title": "مسؤول في الفدرالي لا يستبعد رفع الفائدة وسط أزمة الحرب والتضخم",
-        "excerpt": "أفادت ماركت إن بأن مسؤولا في مجلس الاحتياطي الفدرالي قال، وسط أزمة تجمع بين الحرب والتضخم، إن احتمال رفع الفائدة لا يمكن استبعاده.",
-        "body": "أفادت ماركت إن بأن مسؤولا في مجلس الاحتياطي الفدرالي الأميركي قال إن احتمال رفع أسعار الفائدة لا يمكن استبعاده، في وقت تشكل فيه الحرب والتضخم ضغطا متزامنا على الاقتصاد.\n\nوبحسب ملخص التقرير، تكمن القضية الأساسية في أن مخاطر الحرب وضغوط الأسعار قد تؤثر معا في البيئة المالية والاقتصادية. ولم يذكر الملخص اسم المسؤول أو أرقاما محددة أو جدول الاجتماعات أو المستوى الحالي لأسعار الفائدة.\n\nقد تبقي هذه التصريحات الأسواق في حالة ترقب لمسار السياسة النقدية ما دام التضخم لم يهدأ بالكامل. وبما أن مسؤول الفدرالي أبقى خيار الرفع مفتوحا، فمن المتوقع أن يستمر التركيز على اتجاه الأسعار والمتغيرات المرتبطة بالحرب.\n\nالمصدر: ماركت إن"
-      },
-      "hi": {
-        "title": "युद्ध और महंगाई के संकट में फेड अधिकारी ने दर बढ़ोतरी से इनकार नहीं किया",
-        "excerpt": "मार्केटइन ने बताया कि युद्ध जोखिम और महंगाई दबाव के संयुक्त संकट के बीच फेडरल रिजर्व के एक अधिकारी ने कहा कि ब्याज दर बढ़ोतरी से इनकार नहीं किया जा सकता।",
-        "body": "मार्केटइन ने बताया कि अमेरिका के फेडरल रिजर्व के एक अधिकारी ने कहा कि ब्याज दर बढ़ोतरी की संभावना से इनकार नहीं किया जा सकता, क्योंकि युद्ध और महंगाई एक साथ अर्थव्यवस्था पर दबाव डाल रहे हैं।\n\nरिपोर्ट के सार के अनुसार मुख्य मुद्दा यह है कि युद्ध से जुड़े जोखिम और कीमतों का दबाव मिलकर वित्तीय और आर्थिक माहौल को प्रभावित कर सकते हैं। हालांकि सार में अधिकारी का नाम, ठोस आंकड़े, बैठक कार्यक्रम या मौजूदा ब्याज दर स्तर नहीं दिया गया।\n\nयह टिप्पणी ऐसे समय में मौद्रिक नीति के रास्ते पर बाजार की सतर्कता बनाए रख सकती है जब महंगाई पूरी तरह शांत नहीं हुई है। फेड अधिकारी ने बढ़ोतरी का विकल्प खुला रखा है, इसलिए आगे कीमतों की दिशा और युद्ध से जुड़े कारकों पर ध्यान बना रहेगा।\n\nस्रोत: मार्केटइन"
-      },
-      "id": {
-        "title": "Pejabat Fed Tak Menutup Kenaikan Suku Bunga di Tengah Krisis Perang-Inflasi",
-        "excerpt": "Marketin melaporkan bahwa di tengah krisis gabungan akibat perang dan inflasi, seorang pejabat Federal Reserve mengatakan kenaikan suku bunga tidak bisa dikesampingkan.",
-        "body": "Marketin melaporkan bahwa seorang pejabat Federal Reserve Amerika Serikat mengatakan kemungkinan kenaikan suku bunga tidak bisa dikesampingkan, saat perang dan inflasi sama-sama menekan ekonomi.\n\nMenurut ringkasan berita, isu utamanya adalah risiko perang dan tekanan harga dapat bersama-sama mengguncang lingkungan keuangan dan ekonomi. Namun ringkasan tersebut tidak memuat nama pejabat, angka spesifik, jadwal rapat, atau tingkat suku bunga saat ini.\n\nPernyataan ini dapat membuat pasar tetap waspada terhadap arah kebijakan moneter selama inflasi belum sepenuhnya mereda. Karena pejabat Fed membuka opsi kenaikan, perhatian ke depan akan tetap tertuju pada tren harga dan variabel yang terkait dengan perang.\n\nSumber: Marketin"
-      }
-    }
-  },
-  {
-    "id": "a7158c852c50",
-    "slug": "한-은행씩-연이어-연준-금리-인하-전망을-철회하고-있다-비트코인은-개의치-않는다---coindesk-198655",
-    "channelId": "MACRO",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:50:51.622Z",
-    "updatedAt": "2026-05-06T07:50:51.622Z",
-    "sourceName": "CoinDesk",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXV2RmliSXRIVXRzYXZnYWl5SFIwdmd0bFlHUmp0OERQNm9QaGRXN01Na25CWTB1cUJPYTRocVZMOXotbkRaUEswTlBwV085VGhpbjVmanZYdGhyQllraGlvYUpxeWFRQXQxVkRtTjhUSmFOMk52RTNxNF9MWDRfM0pONUoxMUpnVnBya3otRmRlcS1wWnRPYWQ5STZkLWZ1bC1HMjN2dTZ1dC1RdEJhNmlKVFlkRlhLd0hNalotcGI?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXV2RmliSXRIVXRzYXZnYWl5SFIwdmd0bFlHUmp0OERQNm9QaGRXN01Na25CWTB1cUJPYTRocVZMOXotbkRaUEswTlBwV085VGhpbjVmanZYdGhyQllraGlvYUpxeWFRQXQxVkRtTjhUSmFOMk52RTNxNF9MWDRfM0pONUoxMUpnVnBya3otRmRlcS1wWnRPYWQ5STZkLWZ1bC1HMjN2dTZ1dC1RdEJhNmlKVFlkRlhLd0hNalotcGI?oc=5",
-    "titleFingerprint": "3c232c6ab5477da3f4bc010e5ae3bd450b60270d",
-    "dedupKeys": [
-      "a7158c852c5088ef5d9f1c2ce82d74338278a9c4",
-      "3c232c6ab5477da3f4bc010e5ae3bd450b60270d",
-      "45e26363c6f1d302986c48e307556c7b02461f0e"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "연준 금리 인하 전망 철회 잇따라, 비트코인은 왜 흔들리지 않나",
-        "excerpt": "CoinDesk는 은행들이 연준 금리 인하 전망을 하나씩 철회하고 있지만 비트코인은 이에 개의치 않는 흐름을 보인다고 전했다.",
-        "body": "은행들이 연이어 미국 연방준비제도, 연준의 금리 인하 전망을 철회하고 있다고 CoinDesk가 보도했다. 보도 제목은 이런 변화에도 비트코인이 개의치 않는다고 전했다.\n\n이번 소식의 핵심은 금융기관들이 기존의 금리 인하 기대를 하나씩 거둬들이고 있다는 점이다. 제공된 원문 요약에는 어떤 은행이 전망을 바꿨는지, 구체적인 금리 수준이나 일정 등 추가 수치는 제시되지 않았다.\n\n금리 인하 기대가 낮아지는 흐름은 통상 위험자산 심리에 영향을 줄 수 있지만, 원문은 비트코인이 해당 변화에 크게 반응하지 않는다는 점을 강조했다. 추가 관계자 코멘트는 제공된 원문에 포함되지 않았다.\n\n출처: CoinDesk"
-      },
-      "en": {
-        "title": "Fed Rate-Cut Forecasts Are Being Withdrawn, but Bitcoin Is Unmoved",
-        "excerpt": "CoinDesk reported that banks are withdrawing their Federal Reserve rate-cut forecasts one by one, while Bitcoin appears largely unconcerned by the shift.",
-        "body": "Banks are increasingly withdrawing their forecasts for Federal Reserve rate cuts, according to CoinDesk. The report’s headline said Bitcoin does not appear to care about the change.\n\nThe key point is that financial institutions are gradually pulling back earlier expectations for Fed rate cuts. The provided source summary does not specify which banks changed their views, nor does it include detailed figures on rates or timing.\n\nA decline in rate-cut expectations can typically affect sentiment toward risk assets, but the original report highlighted that Bitcoin has not shown a notable reaction to this shift. No additional stakeholder comment was included in the provided source text.\n\nSource: CoinDesk"
-      },
-      "ja": {
-        "title": "FRB利下げ予想の撤回相次ぐ、ビットコインは動じず",
-        "excerpt": "CoinDeskは、銀行がFRBの利下げ予想を一行ずつ撤回している一方、ビットコインはその変化を気にしていないようだと伝えた。",
-        "body": "CoinDeskによると、銀行が米連邦準備制度理事会、FRBの利下げ予想を相次いで撤回している。記事の見出しは、こうした変化にもビットコインは動じていないと伝えた。\n\n今回の要点は、金融機関が従来の利下げ期待を一つずつ取り下げていることだ。提供された原文要約には、どの銀行が見通しを変えたのか、具体的な金利水準や時期などの追加数値は示されていない。\n\n利下げ期待の後退は通常、リスク資産の心理に影響し得るが、原文はビットコインがこの変化に大きく反応していない点を強調している。追加の関係者コメントは、提供された原文には含まれていない。\n\n出典: CoinDesk"
-      },
-      "zh": {
-        "title": "美联储降息预期接连被撤回，比特币仍不为所动",
-        "excerpt": "CoinDesk称，多家银行正陆续撤回对美联储降息的预测，但比特币似乎并未受到这一变化的明显影响。",
-        "body": "据CoinDesk报道，银行正陆续撤回对美国联邦储备委员会降息的预测。报道标题指出，即便出现这一变化，比特币仍然并不在意。\n\n这则消息的核心在于，金融机构正在一个接一个地收回此前的降息预期。所提供的原文摘要未说明哪些银行调整了预测，也未给出具体利率水平或时间安排等额外数据。\n\n降息预期降温通常可能影响风险资产情绪，但原文强调，比特币并未对这一变化表现出明显反应。所提供的原文中未包含更多相关人士评论。\n\n来源: CoinDesk"
-      },
-      "es": {
-        "title": "Bancos retiran previsiones de recortes de la Fed, Bitcoin no se inmuta",
-        "excerpt": "CoinDesk informó que los bancos están retirando uno a uno sus pronósticos de recortes de tasas de la Fed, mientras Bitcoin parece no verse afectado.",
-        "body": "Los bancos están retirando de forma sucesiva sus previsiones de recortes de tasas de la Reserva Federal de Estados Unidos, según CoinDesk. El titular del reporte señaló que Bitcoin no parece preocuparse por ese cambio.\n\nEl punto central es que las instituciones financieras están abandonando gradualmente sus expectativas previas de recortes de tasas. El resumen original proporcionado no especifica qué bancos cambiaron su postura ni incluye cifras concretas sobre niveles de tasas o calendario.\n\nUna menor expectativa de recortes puede influir normalmente en el ánimo hacia los activos de riesgo, pero el texto original subraya que Bitcoin no ha mostrado una reacción relevante. No se incluyeron comentarios adicionales de fuentes en el material proporcionado.\n\nFuente: CoinDesk"
-      },
-      "pt": {
-        "title": "Bancos retiram previsões de corte do Fed, mas Bitcoin não se abala",
-        "excerpt": "A CoinDesk informou que bancos estão retirando, um a um, suas previsões de cortes de juros pelo Fed, enquanto o Bitcoin parece não se importar.",
-        "body": "Bancos estão retirando sucessivamente suas previsões de cortes de juros pelo Federal Reserve dos Estados Unidos, segundo a CoinDesk. O título da reportagem afirmou que o Bitcoin não parece se importar com essa mudança.\n\nO ponto central é que instituições financeiras estão recuando gradualmente das expectativas anteriores de redução de juros. O resumo original fornecido não informa quais bancos mudaram suas projeções, nem traz números específicos sobre nível de juros ou cronograma.\n\nA queda nas expectativas de corte de juros normalmente pode afetar o sentimento por ativos de risco, mas o texto original destaca que o Bitcoin não mostrou reação relevante. Não há comentários adicionais de fontes no material fornecido.\n\nFonte: CoinDesk"
-      },
-      "de": {
-        "title": "Banken ziehen Fed-Zinssenkungsprognosen zurück, Bitcoin bleibt gelassen",
-        "excerpt": "CoinDesk berichtete, dass Banken ihre Prognosen für Zinssenkungen der Fed nacheinander zurückziehen, während Bitcoin davon unbeeindruckt wirkt.",
-        "body": "Banken ziehen ihre Prognosen für Zinssenkungen der US-Notenbank Federal Reserve zunehmend zurück, berichtete CoinDesk. Die Überschrift des Berichts stellte heraus, dass Bitcoin diese Entwicklung offenbar nicht kümmert.\n\nKern der Meldung ist, dass Finanzinstitute frühere Erwartungen an Zinssenkungen Schritt für Schritt aufgeben. Die bereitgestellte Zusammenfassung nennt nicht, welche Banken ihre Einschätzung geändert haben, und enthält keine konkreten Angaben zu Zinshöhe oder Zeitplan.\n\nSinkende Erwartungen an Zinssenkungen können die Stimmung bei Risikoanlagen normalerweise beeinflussen, doch der Originaltext betont, dass Bitcoin darauf nicht deutlich reagiert. Zusätzliche Kommentare von Beteiligten waren im bereitgestellten Ausgangstext nicht enthalten.\n\nQuelle: CoinDesk"
-      },
-      "fr": {
-        "title": "Les banques retirent leurs prévisions de baisse de la Fed, Bitcoin résiste",
-        "excerpt": "CoinDesk rapporte que les banques retirent une à une leurs prévisions de baisse des taux de la Fed, tandis que Bitcoin semble rester indifférent.",
-        "body": "Des banques retirent successivement leurs prévisions de baisse des taux de la Réserve fédérale américaine, selon CoinDesk. Le titre du rapport indique que Bitcoin ne semble pas s’en soucier.\n\nLe point central est que les institutions financières reviennent progressivement sur leurs attentes antérieures de baisse des taux. Le résumé source fourni ne précise pas quelles banques ont modifié leurs prévisions et ne donne pas de chiffres concrets sur les niveaux de taux ou le calendrier.\n\nUn recul des attentes de baisse des taux peut généralement peser sur le sentiment envers les actifs risqués, mais le texte original souligne que Bitcoin n’a pas montré de réaction notable. Aucun commentaire supplémentaire de partie prenante n’était inclus dans le texte fourni.\n\nSource: CoinDesk"
-      },
-      "ar": {
-        "title": "البنوك تتراجع عن توقعات خفض الفائدة الأميركية وبيتكوين لا تبالي",
-        "excerpt": "ذكرت CoinDesk أن البنوك تسحب تباعا توقعاتها بشأن خفض الفائدة من الاحتياطي الفيدرالي، بينما تبدو بيتكوين غير مكترثة بهذا التحول.",
-        "body": "ذكرت CoinDesk أن البنوك تتراجع تباعا عن توقعاتها لخفض أسعار الفائدة من جانب مجلس الاحتياطي الفيدرالي الأميركي. وأشار عنوان التقرير إلى أن بيتكوين لا تبدو مكترثة بهذا التغيير.\n\nالنقطة الأساسية هي أن المؤسسات المالية تسحب تدريجيا توقعاتها السابقة بشأن خفض الفائدة. ولا يوضح الملخص الأصلي المقدم أسماء البنوك التي غيرت توقعاتها، كما لا يتضمن أرقاما محددة عن مستويات الفائدة أو الجدول الزمني.\n\nعادة قد يؤثر تراجع توقعات خفض الفائدة في شهية المخاطرة، لكن النص الأصلي شدد على أن بيتكوين لم تظهر رد فعل ملحوظا تجاه هذا التحول. ولم يتضمن النص المقدم تعليقات إضافية من أطراف معنية.\n\nالمصدر: CoinDesk"
-      },
-      "hi": {
-        "title": "फेड दर कटौती अनुमान वापस ले रहे बैंक, बिटकॉइन बेपरवाह",
-        "excerpt": "CoinDesk ने बताया कि बैंक फेडरल रिजर्व की दर कटौती के अनुमान एक-एक कर वापस ले रहे हैं, जबकि बिटकॉइन इस बदलाव से बेपरवाह दिख रहा है।",
-        "body": "CoinDesk के अनुसार, बैंक अमेरिकी फेडरल रिजर्व की ब्याज दर कटौती से जुड़ी अपनी उम्मीदें लगातार वापस ले रहे हैं। रिपोर्ट के शीर्षक में कहा गया कि इस बदलाव के बावजूद बिटकॉइन बेपरवाह दिख रहा है।\n\nमुख्य बात यह है कि वित्तीय संस्थान पहले की दर कटौती अपेक्षाओं से धीरे-धीरे पीछे हट रहे हैं। उपलब्ध मूल सारांश में यह नहीं बताया गया कि किन बैंकों ने अपना रुख बदला, और न ही ब्याज दर के स्तर या समयसीमा से जुड़े ठोस आंकड़े दिए गए हैं।\n\nदर कटौती की उम्मीदों में कमी आम तौर पर जोखिम वाली परिसंपत्तियों की धारणा को प्रभावित कर सकती है, लेकिन मूल रिपोर्ट ने इस बात पर जोर दिया कि बिटकॉइन ने इस बदलाव पर उल्लेखनीय प्रतिक्रिया नहीं दी। उपलब्ध पाठ में किसी संबंधित पक्ष की अतिरिक्त टिप्पणी शामिल नहीं थी।\n\nस्रोत: CoinDesk"
-      },
-      "id": {
-        "title": "Bank Mencabut Proyeksi Pemangkasan Suku Bunga Fed, Bitcoin Tetap Tenang",
-        "excerpt": "CoinDesk melaporkan bank-bank mencabut satu per satu proyeksi pemangkasan suku bunga The Fed, sementara Bitcoin tampak tidak terpengaruh.",
-        "body": "Bank-bank secara beruntun mencabut proyeksi pemangkasan suku bunga Federal Reserve Amerika Serikat, menurut CoinDesk. Judul laporan itu menyebut Bitcoin tampak tidak peduli terhadap perubahan tersebut.\n\nInti kabarnya adalah lembaga keuangan mulai menarik kembali ekspektasi sebelumnya mengenai pemangkasan suku bunga. Ringkasan sumber yang diberikan tidak menyebutkan bank mana yang mengubah pandangan, serta tidak memuat angka khusus tentang level suku bunga atau jadwal.\n\nMenurunnya ekspektasi pemangkasan suku bunga biasanya dapat memengaruhi sentimen terhadap aset berisiko, tetapi teks asli menekankan bahwa Bitcoin tidak menunjukkan reaksi berarti. Tidak ada komentar tambahan dari pihak terkait dalam sumber yang diberikan.\n\nSumber: CoinDesk"
       }
     }
   }
