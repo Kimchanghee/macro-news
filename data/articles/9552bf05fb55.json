@@ -1,0 +1,75 @@
+{
+  "id": "9552bf05fb55",
+  "slug": "kcc-실리콘-판가-오르니-실적주가-전망도-쑥목표가-437798",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-06T23:28:19.850Z",
+  "updatedAt": "2026-05-06T23:28:19.850Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12038723",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12038723",
+  "titleFingerprint": "90a5ade6705c0828ea12212cc20cb0b14fc54d9a",
+  "dedupKeys": [
+    "9552bf05fb5553e8010938be3914f0f7f4b9fd5b",
+    "90a5ade6705c0828ea12212cc20cb0b14fc54d9a",
+    "e5bbde4fb92b08391eb25ba164615d224a5c7207"
+  ],
+  "imageUrl": "/images/articles/9552bf05fb55.png",
+  "i18n": {
+    "ko": {
+      "title": "KCC 목표가 73만원 상향, 실리콘 판가 상승에 실적 기대 커졌다",
+      "excerpt": "하나증권은 7일 KCC가 실리콘 판가 상향과 삼성물산 보유지분 가치 상승으로 증익이 기대된다며 목표주가를 60만원에서 73만원으로 올렸다.",
+      "body": "하나증권은 7일 KCC에 대해 실리콘 판가 상향과 삼성물산 보유지분 가치 상승을 근거로 실적 개선 가능성을 제시했다. 이에 따라 KCC 목표주가를 기존 60만원에서 73만원으로 상향 조정했다. 증권사는 실리콘 제품 가격 흐름이 실적에 긍정적으로 작용하고, KCC가 보유한 삼성물산 지분 가치 상승도 기업가치 평가에 반영될 수 있다고 봤다. 올해 1분기 실적 흐름과 함께 판가 개선이 이어질 경우 증익 기대가 유지될 전망이다. 출처: mk.co.kr."
+    },
+    "en": {
+      "title": "KCC Target Price Raised to 730,000 Won as Silicone Prices Lift Earnings View",
+      "excerpt": "Hana Securities said on the 7th that KCC is expected to improve earnings thanks to higher silicone prices and rising value of its Samsung C&T stake, raising its target price from 600,000 won to 730,000 won.",
+      "body": "Hana Securities said on the 7th that KCC may see earnings improve on higher silicone selling prices and a rise in the value of its Samsung C&T shareholding. The brokerage raised its target price for KCC from 600,000 won to 730,000 won. It viewed the price trend for silicone products as positive for performance, while the higher value of KCC’s Samsung C&T stake could also be reflected in the company’s valuation. If price improvements continue alongside this year’s first-quarter earnings trend, expectations for profit growth are likely to remain in focus. Source: mk.co.kr."
+    },
+    "ja": {
+      "title": "KCC目標株価73万ウォンへ引き上げ、シリコン価格上昇で業績期待",
+      "excerpt": "ハナ証券は7日、シリコン販売価格の上昇とサムスン物産保有株式の価値上昇によりKCCの増益が期待されるとして、目標株価を60万ウォンから73万ウォンに引き上げた。",
+      "body": "ハナ証券は7日、KCCについて、シリコン販売価格の上昇とサムスン物産保有株式の価値上昇を根拠に業績改善の可能性を示した。これによりKCCの目標株価を従来の60万ウォンから73万ウォンへ引き上げた。同証券は、シリコン製品の価格動向が業績にプラスに働き、KCCが保有するサムスン物産株式の価値上昇も企業価値評価に反映され得るとみている。今年第1四半期の業績動向とともに販売価格の改善が続けば、増益期待は維持される見通しだ。出典: mk.co.kr."
+    },
+    "zh": {
+      "title": "KCC目标价上调至73万韩元，硅产品涨价推升业绩预期",
+      "excerpt": "韩亚证券7日表示，受硅产品售价上调和所持三星物产股权价值上升影响，KCC有望增益，并将目标价从60万韩元上调至73万韩元。",
+      "body": "韩亚证券7日对KCC表示，基于硅产品售价上调以及所持三星物产股权价值上升，KCC存在业绩改善可能。因此，该券商将KCC目标价由原来的60万韩元上调至73万韩元。券商认为，硅产品价格走势将对业绩产生积极作用，而KCC持有的三星物产股权价值上升，也可能反映在企业价值评估中。若今年第一季度业绩走势下售价改善持续，增益预期预计将继续受到关注。来源: mk.co.kr."
+    },
+    "es": {
+      "title": "KCC sube su precio objetivo a 730.000 wones por mejora en precios de silicona",
+      "excerpt": "Hana Securities dijo el día 7 que KCC podría aumentar beneficios por el alza de precios de silicona y el mayor valor de su participación en Samsung C&T, elevando el objetivo de 600.000 a 730.000 wones.",
+      "body": "Hana Securities señaló el día 7 que KCC podría mejorar sus resultados gracias al aumento de los precios de venta de silicona y al incremento del valor de su participación en Samsung C&T. Por ello, elevó el precio objetivo de KCC de 600.000 wones a 730.000 wones. La firma considera que la tendencia de precios de los productos de silicona tendrá un efecto positivo en el desempeño, mientras que el mayor valor de las acciones de Samsung C&T en poder de KCC también podría reflejarse en su valoración. Si la mejora de precios continúa junto con la evolución del primer trimestre de este año, se mantendrán las expectativas de aumento de beneficios. Fuente: mk.co.kr."
+    },
+    "pt": {
+      "title": "KCC tem preço-alvo elevado a 730 mil won com alta nos preços de silicone",
+      "excerpt": "A Hana Securities afirmou no dia 7 que a KCC deve ampliar lucros com preços mais altos de silicone e valorização de sua fatia na Samsung C&T, elevando o preço-alvo de 600 mil para 730 mil won.",
+      "body": "A Hana Securities informou no dia 7 que a KCC pode apresentar melhora nos resultados devido ao aumento dos preços de venda de silicone e à valorização de sua participação na Samsung C&T. Com isso, elevou o preço-alvo da KCC de 600 mil won para 730 mil won. A corretora avaliou que a tendência dos preços dos produtos de silicone deve contribuir positivamente para o desempenho, enquanto o maior valor da fatia da Samsung C&T detida pela KCC também pode ser refletido na avaliação da companhia. Se a melhora dos preços continuar junto com o desempenho do primeiro trimestre deste ano, a expectativa de crescimento dos lucros deve permanecer. Fonte: mk.co.kr."
+    },
+    "de": {
+      "title": "KCC-Kursziel auf 730.000 Won erhöht, Silikonpreise stützen Gewinnausblick",
+      "excerpt": "Hana Securities erklärte am 7., KCC dürfte dank höherer Silikonpreise und des gestiegenen Werts der Samsung-C&T-Beteiligung mehr Gewinn erzielen, und hob das Kursziel von 600.000 auf 730.000 Won an.",
+      "body": "Hana Securities erklärte am 7., dass KCC aufgrund höherer Verkaufspreise für Silikon und des gestiegenen Werts seiner Beteiligung an Samsung C&T bessere Ergebnisse erzielen könnte. Daher erhöhte das Wertpapierhaus das Kursziel für KCC von bisher 600.000 Won auf 730.000 Won. Die Preisentwicklung bei Silikonprodukten werde sich positiv auf die Geschäftszahlen auswirken, während der höhere Wert der von KCC gehaltenen Samsung-C&T-Anteile ebenfalls in die Unternehmensbewertung einfließen könne. Wenn sich die Preisverbesserung zusammen mit dem Ergebnisverlauf des ersten Quartals dieses Jahres fortsetzt, dürften die Gewinnerwartungen im Fokus bleiben. Quelle: mk.co.kr."
+    },
+    "fr": {
+      "title": "KCC voit son objectif relevé à 730 000 wons avec la hausse des prix du silicone",
+      "excerpt": "Hana Securities a indiqué le 7 que KCC devrait améliorer ses bénéfices grâce à la hausse des prix du silicone et à la valorisation de sa participation dans Samsung C&T, portant l’objectif de 600 000 à 730 000 wons.",
+      "body": "Hana Securities a indiqué le 7 que KCC pourrait améliorer ses résultats grâce à la hausse des prix de vente du silicone et à l’augmentation de la valeur de sa participation dans Samsung C&T. La société de courtage a ainsi relevé son objectif de cours sur KCC de 600 000 wons à 730 000 wons. Elle estime que l’évolution des prix des produits en silicone aura un effet positif sur la performance, tandis que la hausse de la valeur des actions Samsung C&T détenues par KCC pourrait aussi être prise en compte dans la valorisation de l’entreprise. Si l’amélioration des prix se poursuit avec la tendance des résultats du premier trimestre de cette année, les attentes de progression des bénéfices devraient rester présentes. Source: mk.co.kr."
+    },
+    "ar": {
+      "title": "رفع السعر المستهدف لـKCC إلى 730 ألف وون مع صعود أسعار السيليكون",
+      "excerpt": "قالت هانا للأوراق المالية في 7 إن KCC مرشحة لتحسن الأرباح بفضل رفع أسعار السيليكون وزيادة قيمة حصتها في سامسونغ C&T، ورفعت السعر المستهدف من 600 ألف إلى 730 ألف وون.",
+      "body": "قالت هانا للأوراق المالية في 7 إن KCC قد تشهد تحسنا في الأداء استنادا إلى ارتفاع أسعار بيع السيليكون وزيادة قيمة حصتها في سامسونغ C&T. وبناء على ذلك رفعت السعر المستهدف لسهم KCC من 600 ألف وون إلى 730 ألف وون. وترى الشركة أن اتجاه أسعار منتجات السيليكون قد ينعكس إيجابا على النتائج، كما أن ارتفاع قيمة حصة KCC في سامسونغ C&T يمكن أن يدخل في تقييم قيمة الشركة. وإذا استمر تحسن الأسعار بالتوازي مع مسار نتائج الربع الأول من هذا العام، فمن المتوقع أن تبقى توقعات زيادة الأرباح قائمة. المصدر: mk.co.kr."
+    },
+    "hi": {
+      "title": "KCC लक्ष्य मूल्य 7.3 लाख वॉन हुआ, सिलिकॉन कीमतों से आय उम्मीद मजबूत",
+      "excerpt": "हाना सिक्योरिटीज ने 7 तारीख को कहा कि सिलिकॉन बिक्री मूल्य बढ़ने और Samsung C&T में हिस्सेदारी के मूल्य में वृद्धि से KCC की आय बढ़ सकती है, इसलिए लक्ष्य मूल्य 6 लाख से 7.3 लाख वॉन किया गया।",
+      "body": "हाना सिक्योरिटीज ने 7 तारीख को KCC के लिए कहा कि सिलिकॉन बिक्री मूल्य में वृद्धि और Samsung C&T में रखी हिस्सेदारी के मूल्य में बढ़ोतरी से नतीजों में सुधार की संभावना है। इसी आधार पर KCC का लक्ष्य मूल्य पहले के 6 लाख वॉन से बढ़ाकर 7.3 लाख वॉन कर दिया गया। ब्रोकरेज के अनुसार, सिलिकॉन उत्पादों की कीमतों का रुझान प्रदर्शन पर सकारात्मक असर डाल सकता है, जबकि KCC के पास मौजूद Samsung C&T हिस्सेदारी का बढ़ा मूल्य भी कंपनी के मूल्यांकन में झलक सकता है। यदि इस वर्ष पहली तिमाही के प्रदर्शन के साथ मूल्य सुधार जारी रहता है, तो लाभ वृद्धि की उम्मीद बनी रह सकती है। स्रोत: mk.co.kr."
+    },
+    "id": {
+      "title": "Target Harga KCC Naik ke 730 Ribu Won, Harga Silikon Dorong Prospek Laba",
+      "excerpt": "Hana Securities pada tanggal 7 menyebut KCC berpeluang mencatat kenaikan laba berkat harga silikon yang lebih tinggi dan naiknya nilai saham Samsung C&T yang dimiliki, lalu menaikkan target dari 600 ribu ke 730 ribu won.",
+      "body": "Hana Securities pada tanggal 7 menyatakan bahwa KCC berpotensi mencatat perbaikan kinerja berkat kenaikan harga jual silikon dan meningkatnya nilai kepemilikan sahamnya di Samsung C&T. Karena itu, target harga KCC dinaikkan dari sebelumnya 600 ribu won menjadi 730 ribu won. Sekuritas tersebut menilai tren harga produk silikon dapat berdampak positif pada kinerja, sementara kenaikan nilai saham Samsung C&T yang dimiliki KCC juga dapat tercermin dalam valuasi perusahaan. Jika perbaikan harga berlanjut bersama tren kinerja kuartal pertama tahun ini, ekspektasi pertumbuhan laba diperkirakan tetap terjaga. Sumber: mk.co.kr."
+    }
+  }
+}
