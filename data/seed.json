@@ -1,5 +1,230 @@
 [
   {
+    "id": "0041f4bf291c",
+    "slug": "하이닉스-40-담았다더니경고-먹어도-지르고-보는-etf-과장-광고-345481",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-06T22:23:35.652Z",
+    "updatedAt": "2026-05-06T22:23:35.652Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12038530",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038530",
+    "titleFingerprint": "f5f41daae2750a99b073485f021103a52ea936e8",
+    "dedupKeys": [
+      "0041f4bf291c8ce6aecf9f9fdfef0e99b1f3854e",
+      "f5f41daae2750a99b073485f021103a52ea936e8",
+      "c1d5085f26d342dca881f6fbc1c8f33514c87a92"
+    ],
+    "imageUrl": "/images/articles/0041f4bf291c.png",
+    "i18n": {
+      "ko": {
+        "title": "ETF 과장 광고 논란, 하이닉스 40%·스페이스X 편입 홍보에 당국 점검",
+        "excerpt": "신한 ‘AI반도체톱2플러스’와 하나 ‘우주 항공 ETF’가 SK하이닉스 비중과 스페이스X 편입을 앞세운 홍보로 과장 광고 논란에 휩싸이며 당국의 집중 점검 대상으로 지목됐다.",
+        "body": "국내 ETF 시장에서 일부 운용사의 상품 홍보가 실제 편입 내용보다 투자 매력을 크게 보이게 했다는 논란이 제기됐다. 신한 ‘AI반도체톱2플러스’는 SK하이닉스 비중을 40% 담았다는 식으로 알렸지만 과대 포장 지적을 받았고, 하나 ‘우주 항공 ETF’는 스페이스X를 편입했다며 홍보한 사례가 문제로 거론됐다. 원문은 직장인 투자자가 지난달 초 보유 ETF를 살펴보는 상황을 통해 이 같은 광고 문구의 영향을 전했다. 당국은 ETF 과장 광고를 ‘집중 점검 대상’으로 지목했다. 투자자는 상품명과 광고 문구만이 아니라 실제 구성 종목과 비중을 확인해야 한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "ETF Advertising Scrutiny Grows Over Hynix 40% and SpaceX Claims",
+        "excerpt": "Shinhan’s AI semiconductor ETF and Hana’s space aerospace ETF drew controversy after promotions highlighted SK Hynix weightings and SpaceX inclusion, prompting regulators to flag exaggerated ETF ads for focused review.",
+        "body": "Controversy has emerged in Korea’s ETF market over product promotions that appeared to make funds look more attractive than their actual holdings warranted. Shinhan’s “AI Semiconductor Top 2 Plus” was criticized for overstating its SK Hynix exposure with messaging suggesting a 40% allocation, while Hana’s “Space Aerospace ETF” was cited for promoting the inclusion of SpaceX. The original report described the influence of such advertising through the case of an office worker checking ETF holdings early last month. Regulators identified exaggerated ETF advertising as a target for focused inspection. Investors need to review actual holdings and weights, not only product names or promotional phrases. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ETF誇大広告に監視強化、ハイニックス40％・SpaceX組入れ宣伝が問題に",
+        "excerpt": "新韓のAI半導体ETFとハナの宇宙航空ETFが、SKハイニックス比率やSpaceX組入れを強調した宣伝で誇大広告論争に巻き込まれ、当局の集中点検対象に挙げられた。",
+        "body": "韓国のETF市場で、一部運用会社の商品宣伝が実際の組入れ内容より投資魅力を大きく見せたとの論争が起きている。新韓の「AI半導体トップ2プラス」はSKハイニックスを40％組み入れたかのように知らせた点で過大包装との指摘を受け、ハナの「宇宙航空ETF」はSpaceXを組み入れたとして宣伝した事例が問題に挙げられた。原文は、会社員投資家が先月初めに保有ETFを確認した状況を通じ、こうした広告文句の影響を伝えた。当局はETFの誇大広告を「集中点検対象」とした。投資家は商品名や広告文句だけでなく、実際の構成銘柄と比率を確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "ETF夸大宣传受查，海力士40%与SpaceX纳入说法引争议",
+        "excerpt": "新韩“AI半导体Top2 Plus”和韩亚“宇宙航空ETF”因突出宣传SK海力士权重及纳入SpaceX而陷入夸大广告争议，并被监管部门列为重点检查对象。",
+        "body": "韩国ETF市场中，部分资管公司的产品宣传被质疑让基金投资吸引力看起来高于实际持仓内容。新韩“AI半导体Top2 Plus”因以类似持有40% SK海力士的方式宣传而被指过度包装，韩亚“宇宙航空ETF”则因宣传纳入SpaceX而被列为问题案例。原文通过一名上班族投资者上月初查看所持ETF的情境，说明这类广告语对投资者的影响。监管部门已将ETF夸大广告列为“重点检查对象”。投资者不应只看产品名称和宣传语，还需核实实际成分股及其权重。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Publicidad de ETF bajo lupa por reclamos de Hynix 40% y SpaceX",
+        "excerpt": "El ETF de semiconductores de IA de Shinhan y el ETF aeroespacial de Hana enfrentan críticas por promocionar el peso de SK Hynix y la inclusión de SpaceX, mientras el regulador los señala para revisión focalizada.",
+        "body": "En el mercado coreano de ETF surgió una controversia por promociones de algunas gestoras que habrían presentado sus productos como más atractivos que lo respaldado por sus tenencias reales. El “AI Semiconductor Top 2 Plus” de Shinhan fue criticado por exagerar su exposición a SK Hynix con mensajes que sugerían una ponderación del 40%, mientras que el “Space Aerospace ETF” de Hana fue mencionado por promocionar la inclusión de SpaceX. El reporte original mostró el efecto de estos mensajes mediante el caso de un empleado que revisó sus ETF a comienzos del mes pasado. La autoridad identificó la publicidad exagerada de ETF como objetivo de inspección concentrada. Los inversores deben revisar las tenencias y ponderaciones reales, no solo el nombre o la publicidad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Publicidade de ETF é questionada por Hynix 40% e inclusão da SpaceX",
+        "excerpt": "O ETF de semicondutores de IA da Shinhan e o ETF aeroespacial da Hana foram criticados por destacar peso da SK Hynix e inclusão da SpaceX, levando o regulador a mirar anúncios exagerados.",
+        "body": "No mercado coreano de ETFs, surgiu controvérsia sobre divulgações de algumas gestoras que teriam feito os produtos parecerem mais atraentes do que indicavam suas carteiras reais. O “AI Semiconductor Top 2 Plus” da Shinhan foi criticado por exagerar a exposição à SK Hynix com mensagem que sugeria alocação de 40%, enquanto o “Space Aerospace ETF” da Hana foi citado por promover a inclusão da SpaceX. A reportagem original mostrou o impacto desses anúncios por meio do caso de um trabalhador que verificou seus ETFs no início do mês passado. A autoridade classificou a publicidade exagerada de ETFs como alvo de inspeção concentrada. Investidores devem conferir ativos e pesos reais, não apenas nomes e frases promocionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "ETF-Werbung im Fokus: Hynix-40%- und SpaceX-Aussagen sorgen für Kritik",
+        "excerpt": "Shinhans KI-Halbleiter-ETF und Hanas Raumfahrt-ETF stehen wegen Werbung mit SK-Hynix-Gewichtung und SpaceX-Aufnahme in der Kritik; die Aufsicht nennt überzogene ETF-Werbung als Prüfschwerpunkt.",
+        "body": "Am koreanischen ETF-Markt gibt es Streit über Werbung einzelner Anbieter, die Produkte attraktiver erscheinen ließ, als es die tatsächlichen Bestände nahelegten. Shinhans „AI Semiconductor Top 2 Plus“ wurde kritisiert, weil die Kommunikation eine SK-Hynix-Gewichtung von 40% nahelegte und damit als übertrieben galt. Hanas „Space Aerospace ETF“ wurde wegen Werbung mit einer SpaceX-Aufnahme als weiteres Beispiel genannt. Der ursprüngliche Bericht schilderte den Einfluss solcher Formulierungen anhand eines Angestellten, der Anfang vergangenen Monats seine ETF-Bestände prüfte. Die Behörden bezeichneten überzogene ETF-Werbung als Ziel konzentrierter Prüfungen. Anleger sollten tatsächliche Bestandteile und Gewichtungen prüfen, nicht nur Namen und Werbesätze. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Publicités d’ETF sous surveillance après les mentions Hynix 40 % et SpaceX",
+        "excerpt": "L’ETF IA semi-conducteurs de Shinhan et l’ETF spatial de Hana sont critiqués pour avoir mis en avant le poids de SK Hynix et l’inclusion de SpaceX, poussant le régulateur à cibler les publicités exagérées.",
+        "body": "Sur le marché coréen des ETF, une controverse vise certaines promotions de gestionnaires qui auraient rendu des produits plus attractifs que ne le justifiaient leurs avoirs réels. Le « AI Semiconductor Top 2 Plus » de Shinhan a été critiqué pour une communication suggérant une part de 40 % de SK Hynix, jugée excessive. Le « Space Aerospace ETF » de Hana a aussi été cité pour avoir promu l’inclusion de SpaceX. L’article original illustre l’effet de ces messages avec le cas d’un salarié ayant vérifié ses ETF au début du mois dernier. Les autorités ont désigné les publicités exagérées sur les ETF comme cible de contrôles concentrés. Les investisseurs doivent vérifier les titres détenus et leurs poids réels, au-delà du nom et des slogans. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "إعلانات صناديق ETF تحت التدقيق بسبب مزاعم هاينكس 40% وسبيس إكس",
+        "excerpt": "أثار صندوق شينهان لأشباه موصلات الذكاء الاصطناعي وصندوق هانا للفضاء والطيران جدلا بعد الترويج لوزن SK Hynix وإدراج SpaceX، ما دفع السلطات إلى اعتبار إعلانات ETF المبالغ فيها هدفا للفحص.",
+        "body": "ظهرت في سوق صناديق ETF الكورية جدلية حول ترويج بعض شركات الإدارة لمنتجاتها بطريقة تجعلها تبدو أكثر جاذبية مما تعكسه المكونات الفعلية. فقد وُجهت انتقادات إلى صندوق شينهان “AI Semiconductor Top 2 Plus” بسبب عرض يوحي بأن وزن SK Hynix يبلغ 40%، بينما ذُكر صندوق هانا “Space Aerospace ETF” كمثال آخر بعدما روّج لإدراج SpaceX. وعرض التقرير الأصلي أثر هذه العبارات من خلال حالة موظف راجع صناديق ETF التي يملكها في أوائل الشهر الماضي. وحددت السلطات إعلانات ETF المبالغ فيها كهدف لفحص مركز. على المستثمرين مراجعة المكونات والأوزان الفعلية، لا الاكتفاء باسم المنتج أو العبارات الترويجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ETF विज्ञापनों पर जांच तेज, Hynix 40% और SpaceX दावों पर विवाद",
+        "excerpt": "Shinhan के AI सेमीकंडक्टर ETF और Hana के स्पेस एयरोस्पेस ETF ने SK Hynix वेट और SpaceX शामिल होने के प्रचार से विवाद खड़ा किया, जिसके बाद नियामक ने बढ़ा-चढ़ाकर किए ETF विज्ञापनों को जांच के दायरे में रखा।",
+        "body": "कोरिया के ETF बाजार में कुछ एसेट मैनेजरों के प्रचार पर विवाद उठा है, क्योंकि विज्ञापनों ने उत्पादों को वास्तविक होल्डिंग्स से अधिक आकर्षक दिखाया। Shinhan के “AI Semiconductor Top 2 Plus” को SK Hynix में 40% हिस्सेदारी जैसा संदेश देने के लिए अतिरंजित बताया गया, जबकि Hana के “Space Aerospace ETF” को SpaceX शामिल करने के प्रचार के कारण उदाहरण के रूप में उठाया गया। मूल रिपोर्ट ने पिछले महीने की शुरुआत में अपने ETF देखने वाले एक कर्मचारी निवेशक के प्रसंग से ऐसे विज्ञापन वाक्यों का प्रभाव बताया। अधिकारियों ने अतिरंजित ETF विज्ञापनों को “केंद्रित जांच” का विषय माना। निवेशकों को केवल नाम और प्रचार नहीं, बल्कि वास्तविक घटक और वेट भी जांचने चाहिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Iklan ETF Disorot, Klaim Hynix 40% dan SpaceX Picu Kontroversi",
+        "excerpt": "ETF semikonduktor AI Shinhan dan ETF antariksa Hana dikritik karena menonjolkan bobot SK Hynix dan penyertaan SpaceX, sehingga otoritas menetapkan iklan ETF berlebihan sebagai sasaran pemeriksaan terfokus.",
+        "body": "Di pasar ETF Korea, muncul kontroversi atas promosi sebagian manajer aset yang membuat produk tampak lebih menarik daripada isi portofolio sebenarnya. “AI Semiconductor Top 2 Plus” milik Shinhan dikritik karena pesan yang seolah menunjukkan bobot SK Hynix 40%, sementara “Space Aerospace ETF” milik Hana disebut bermasalah karena mempromosikan penyertaan SpaceX. Laporan asli menggambarkan pengaruh kalimat iklan semacam itu melalui kasus seorang pekerja yang memeriksa kepemilikan ETF pada awal bulan lalu. Otoritas menetapkan iklan ETF yang berlebihan sebagai “sasaran pemeriksaan terfokus”. Investor perlu memeriksa komponen dan bobot sebenarnya, bukan hanya nama produk atau kalimat promosi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d563a442cd63",
+    "slug": "클라우드-보안정책-개편-시장-친화로-산업-성장-견인해야-율촌-기술안보리포트-509908",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-06T22:21:33.590Z",
+    "updatedAt": "2026-05-06T22:21:33.590Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12037337",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12037337",
+    "titleFingerprint": "4c2907d0fb3a44c2dd45ee72a5c5297feeb9c185",
+    "dedupKeys": [
+      "d563a442cd6395b98494cf15f35b9f9089d926ef",
+      "4c2907d0fb3a44c2dd45ee72a5c5297feeb9c185",
+      "3f6c09e507a91877b661985b35916464cb8ef61b"
+    ],
+    "imageUrl": "/images/articles/d563a442cd63.jpg",
+    "i18n": {
+      "ko": {
+        "title": "클라우드 보안정책 개편, 공공시장 규제 일원화가 산업 성장 이끌까",
+        "excerpt": "윤오준 법무법인 율촌 상임고문은 최근 발표된 공공 클라우드 보안정책 변화가 국정원 중심 규제 일원화와 시장 재편을 통해 산업 성장의 전환점이 될 수 있다고 진단했다.",
+        "body": "윤오준 법무법인 율촌 상임고문(중앙대 특임교수)은 최근 발표된 공공 클라우드 보안정책의 획기적 변화가 국내 클라우드 산업 성장의 중요한 계기가 될 수 있다고 밝혔다. 이번 변화의 핵심은 공공 클라우드 보안 규제를 국정원으로 일원화하는 방향이다. 이는 그동안 시장에서 문제로 지적돼 온 이중 규제 구조를 정리하고, 보안정책 운영의 혼선을 줄이기 위한 조치로 해석된다. 규제 체계가 단순해지면 공공 클라우드 시장의 진입과 운영 부담이 완화될 수 있고, 관련 산업의 시장 재편에도 영향을 줄 수 있다. 다만 정책 개편이 산업 성장으로 이어지려면 보안 수준을 유지하면서도 시장 친화적인 실행 방식이 필요하다는 점이 강조됐다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Cloud Security Policy Reform Could Drive Growth Through Unified Public Rules",
+        "excerpt": "Yoon Oh-jun, senior adviser at Yulchon and special professor at Chung-Ang University, said recent changes to public cloud security policy could become a turning point for industry growth by unifying regulation under the NIS and reshaping the market.",
+        "body": "Yoon Oh-jun, senior adviser at Yulchon LLC and special professor at Chung-Ang University, said the recently announced major change in public cloud security policy could become an important opportunity for growth in Korea’s cloud industry. The core of the change is to unify public cloud security regulation under the National Intelligence Service. This is viewed as a step to address the dual regulatory structure long cited as a problem in the market and to reduce confusion in security policy operation. A simpler regulatory system could ease entry and operating burdens in the public cloud market and affect market restructuring across related industries. However, the report stressed that for policy reform to lead to industrial growth, implementation must remain market-friendly while maintaining security standards. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "クラウド安全保障政策の改革、公共市場の規制一元化が成長を促すか",
+        "excerpt": "法務法人律村の尹五準常任顧問（中央大学特任教授）は、最近発表された公共クラウド安全保障政策の変化が、国家情報院中心の規制一元化と市場再編を通じて産業成長の転換点になり得ると分析した。",
+        "body": "法務法人律村の尹五準常任顧問（中央大学特任教授）は、最近発表された公共クラウド安全保障政策の大きな変化が、韓国クラウド産業の成長に向けた重要な契機になり得ると述べた。今回の変化の核心は、公共クラウドのセキュリティ規制を国家情報院に一元化する方向にある。これは、これまで市場で問題として指摘されてきた二重規制構造を整理し、セキュリティ政策運用の混乱を減らす措置と受け止められる。規制体系が単純化されれば、公共クラウド市場への参入や運営負担が緩和され、関連産業の市場再編にも影響を与え得る。ただし、政策改革が産業成長につながるには、セキュリティ水準を維持しながら市場親和的に実行する必要があると強調された。出典: mk.co.kr。"
+      },
+      "zh": {
+        "title": "云安全政策改革：公共市场监管统一能否带动产业增长",
+        "excerpt": "韩国律村律师事务所常任顾问、中央大学特聘教授尹五俊表示，近期公布的公共云安全政策变化，可能通过以国家情报院为中心的监管统一和市场重组，成为产业增长的转折点。",
+        "body": "韩国律村律师事务所常任顾问、中央大学特聘教授尹五俊表示，近期公布的公共云安全政策重大变化，可能成为韩国云产业增长的重要契机。此次变化的核心，是将公共云安全监管统一到国家情报院。这被解读为一项措施，旨在整理长期以来被市场指出的双重监管结构，并减少安全政策执行中的混乱。若监管体系得到简化，公共云市场的进入和运营负担可能有所缓解，并对相关产业的市场重组产生影响。不过，报告强调，政策改革若要转化为产业增长，需要在维持安全水平的同时，以更具市场友好性的方式推进。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Reforma de seguridad en la nube: la unificación regulatoria puede impulsar el sector",
+        "excerpt": "Yoon Oh-jun, asesor senior de Yulchon y profesor especial de la Universidad Chung-Ang, afirmó que el reciente cambio en la política de seguridad de la nube pública puede marcar un punto de inflexión para el crecimiento industrial al unificar la regulación bajo el NIS y reorganizar el mercado.",
+        "body": "Yoon Oh-jun, asesor senior del bufete Yulchon y profesor especial de la Universidad Chung-Ang, señaló que el reciente cambio significativo en la política de seguridad de la nube pública puede convertirse en una oportunidad importante para el crecimiento de la industria coreana de la nube. El eje del cambio es unificar la regulación de seguridad de la nube pública bajo el Servicio Nacional de Inteligencia. La medida se interpreta como un intento de ordenar la estructura de doble regulación que durante años fue señalada como un problema por el mercado y de reducir la confusión en la aplicación de la política de seguridad. Un sistema regulatorio más simple podría aliviar las cargas de entrada y operación en el mercado de nube pública e influir en la reorganización de industrias relacionadas. Sin embargo, se subrayó que la reforma debe aplicarse de forma favorable al mercado y mantener los niveles de seguridad para traducirse en crecimiento industrial. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Reforma da segurança em nuvem pode impulsionar setor com regra pública unificada",
+        "excerpt": "Yoon Oh-jun, consultor sênior do Yulchon e professor especial da Universidade Chung-Ang, avaliou que a recente mudança na política de segurança da nuvem pública pode se tornar um ponto de virada para o crescimento industrial ao unificar a regulação sob o NIS e reorganizar o mercado.",
+        "body": "Yoon Oh-jun, consultor sênior do escritório Yulchon e professor especial da Universidade Chung-Ang, afirmou que a recente mudança significativa na política de segurança da nuvem pública pode se tornar uma oportunidade importante para o crescimento da indústria coreana de nuvem. O ponto central da mudança é unificar a regulação de segurança da nuvem pública sob o Serviço Nacional de Inteligência. A medida é vista como uma forma de organizar a estrutura de dupla regulação há muito apontada como problema pelo mercado e de reduzir confusões na operação da política de segurança. Um sistema regulatório mais simples pode aliviar encargos de entrada e operação no mercado de nuvem pública e influenciar a reorganização de setores relacionados. Ainda assim, foi destacado que a reforma só levará ao crescimento industrial se for executada de modo favorável ao mercado, preservando os níveis de segurança. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Cloud-Sicherheitsreform: Einheitliche Regeln könnten den öffentlichen Markt stärken",
+        "excerpt": "Yoon Oh-jun, Senior Adviser bei Yulchon und Sonderprofessor an der Chung-Ang University, sagte, die jüngste Änderung der öffentlichen Cloud-Sicherheitspolitik könne durch eine Bündelung der Regulierung beim NIS und eine Neuordnung des Marktes zum Wendepunkt für Branchenwachstum werden.",
+        "body": "Yoon Oh-jun, Senior Adviser der Kanzlei Yulchon und Sonderprofessor an der Chung-Ang University, erklärte, die jüngst angekündigte grundlegende Änderung der öffentlichen Cloud-Sicherheitspolitik könne eine wichtige Chance für das Wachstum der koreanischen Cloud-Industrie werden. Kern der Änderung ist die Bündelung der Sicherheitsregulierung für öffentliche Clouds beim National Intelligence Service. Dies gilt als Schritt, um die lange vom Markt kritisierte Doppelregulierung zu ordnen und Verwirrung bei der Umsetzung der Sicherheitspolitik zu verringern. Ein einfacheres Regulierungssystem könnte den Eintritt in den öffentlichen Cloud-Markt und den Betrieb erleichtern sowie die Neuordnung verwandter Branchen beeinflussen. Zugleich wurde betont, dass die Reform nur dann zu industriellem Wachstum führt, wenn sie bei gesichertem Schutzniveau marktfreundlich umgesetzt wird. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Réforme de la sécurité cloud : une régulation publique unifiée peut soutenir le secteur",
+        "excerpt": "Yoon Oh-jun, conseiller senior chez Yulchon et professeur spécial à l’Université Chung-Ang, estime que le récent changement de politique de sécurité du cloud public peut devenir un tournant pour la croissance industrielle en unifiant la régulation autour du NIS et en réorganisant le marché.",
+        "body": "Yoon Oh-jun, conseiller senior du cabinet Yulchon et professeur spécial à l’Université Chung-Ang, a déclaré que le récent changement majeur de la politique de sécurité du cloud public pouvait constituer une occasion importante pour la croissance de l’industrie coréenne du cloud. Le cœur de ce changement consiste à unifier la régulation de la sécurité du cloud public sous l’autorité du National Intelligence Service. Cette mesure est interprétée comme une réponse à la double régulation longtemps critiquée par le marché et comme un moyen de réduire la confusion dans l’application de la politique de sécurité. Un cadre réglementaire simplifié pourrait alléger les charges d’entrée et d’exploitation sur le marché du cloud public et influencer la réorganisation des secteurs liés. Toutefois, il a été souligné que la réforme devra être mise en œuvre de façon favorable au marché tout en maintenant les niveaux de sécurité pour conduire à une croissance industrielle. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "إصلاح سياسة أمن السحابة قد يدعم نمو القطاع عبر توحيد قواعد السوق العامة",
+        "excerpt": "قال يون أو جون، المستشار الدائم في مكتب يولتشون وأستاذ خاص في جامعة تشونغ آنغ، إن التغيير الأخير في سياسة أمن السحابة العامة قد يشكل نقطة تحول لنمو الصناعة عبر توحيد التنظيم حول جهاز الاستخبارات الوطني وإعادة ترتيب السوق.",
+        "body": "قال يون أو جون، المستشار الدائم في مكتب المحاماة يولتشون وأستاذ خاص في جامعة تشونغ آنغ، إن التغيير الكبير المعلن مؤخرا في سياسة أمن السحابة العامة قد يصبح فرصة مهمة لنمو صناعة السحابة في كوريا. ويتمثل جوهر التغيير في توحيد تنظيم أمن السحابة العامة تحت إشراف جهاز الاستخبارات الوطني. وينظر إلى ذلك كخطوة لمعالجة بنية التنظيم المزدوج التي طالما أشار إليها السوق كمشكلة، ولتقليل الارتباك في تشغيل سياسة الأمن. وقد يؤدي تبسيط الإطار التنظيمي إلى تخفيف أعباء دخول سوق السحابة العامة وتشغيلها، كما قد يؤثر في إعادة ترتيب الصناعات المرتبطة. ومع ذلك، شدد التقرير على أن تحول إصلاح السياسة إلى نمو صناعي يتطلب تنفيذا صديقا للسوق مع الحفاظ على مستوى الأمن. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "क्लाउड सुरक्षा नीति सुधार: सार्वजनिक बाजार में एकीकृत नियमों से उद्योग को बढ़ावा",
+        "excerpt": "युलचोन के वरिष्ठ सलाहकार और चुंग-आंग विश्वविद्यालय के विशेष प्रोफेसर यून ओ-जून ने कहा कि सार्वजनिक क्लाउड सुरक्षा नीति में हालिया बदलाव, एनआईएस के तहत नियमन को एकीकृत कर और बाजार पुनर्गठन के जरिए, उद्योग वृद्धि का मोड़ बन सकता है।",
+        "body": "युलचोन लॉ फर्म के वरिष्ठ सलाहकार और चुंग-आंग विश्वविद्यालय के विशेष प्रोफेसर यून ओ-जून ने कहा कि सार्वजनिक क्लाउड सुरक्षा नीति में हाल में घोषित बड़ा बदलाव कोरिया के क्लाउड उद्योग की वृद्धि के लिए महत्वपूर्ण अवसर बन सकता है। इस बदलाव का मुख्य बिंदु सार्वजनिक क्लाउड सुरक्षा नियमन को राष्ट्रीय खुफिया सेवा के तहत एकीकृत करना है। इसे उस दोहरे नियामकीय ढांचे को व्यवस्थित करने की कार्रवाई के रूप में देखा जा रहा है, जिसे बाजार लंबे समय से समस्या बताता रहा है, और सुरक्षा नीति के संचालन में भ्रम कम करने का उपाय माना जा रहा है। यदि नियामकीय ढांचा सरल होता है, तो सार्वजनिक क्लाउड बाजार में प्रवेश और संचालन का बोझ कम हो सकता है और संबंधित उद्योगों के बाजार पुनर्गठन पर भी असर पड़ सकता है। हालांकि, रिपोर्ट ने जोर दिया कि नीति सुधार को औद्योगिक वृद्धि से जोड़ने के लिए सुरक्षा स्तर बनाए रखते हुए बाजार-अनुकूल क्रियान्वयन जरूरी है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Reformasi Keamanan Cloud: Aturan Publik Terpadu Bisa Dorong Pertumbuhan Industri",
+        "excerpt": "Yoon Oh-jun, penasihat senior Yulchon dan profesor khusus di Chung-Ang University, menilai perubahan terbaru kebijakan keamanan cloud publik dapat menjadi titik balik pertumbuhan industri lewat penyatuan regulasi di bawah NIS dan penataan ulang pasar.",
+        "body": "Yoon Oh-jun, penasihat senior firma hukum Yulchon dan profesor khusus di Chung-Ang University, mengatakan perubahan besar yang baru diumumkan dalam kebijakan keamanan cloud publik dapat menjadi peluang penting bagi pertumbuhan industri cloud Korea. Inti perubahan ini adalah menyatukan regulasi keamanan cloud publik di bawah National Intelligence Service. Langkah tersebut dipandang sebagai upaya merapikan struktur regulasi ganda yang sudah lama disebut pasar sebagai masalah, sekaligus mengurangi kebingungan dalam pengoperasian kebijakan keamanan. Jika sistem regulasi menjadi lebih sederhana, beban masuk dan operasional di pasar cloud publik dapat berkurang, dan hal itu bisa memengaruhi penataan ulang industri terkait. Namun, laporan menekankan bahwa agar reformasi kebijakan benar-benar mendorong pertumbuhan industri, pelaksanaannya perlu ramah pasar sambil tetap menjaga tingkat keamanan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "426872ca19a4",
+    "slug": "매경이-전하는-세상의-지식-매-세-지-5월-7일-268023",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-06T22:20:29.675Z",
+    "updatedAt": "2026-05-06T22:20:29.676Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12037751",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12037751",
+    "titleFingerprint": "e4717fa764e275ccf27d93388a0b26aa3ccbea3f",
+    "dedupKeys": [
+      "426872ca19a4e098577d8cf61e209271c4f5879a",
+      "e4717fa764e275ccf27d93388a0b26aa3ccbea3f",
+      "2d5789dcc04676f4fca9c4d68641547f8f11c4ea"
+    ],
+    "imageUrl": "/images/articles/426872ca19a4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 6% 급등에 7천피 돌파, 8천피까지 남은 상승폭은 8.3%",
+        "excerpt": "매경이 5월 7일 전한 매-세-지에 따르면 코스피는 지난 6일 6% 급등해 사상 처음 7천피를 넘었고, 8천피까지 8.3% 상승을 남겼다.",
+        "body": "코스피가 지난 6일 6% 급등하며 전인미답의 ‘7천피’ 고지를 단숨에 넘어섰다고 매경이 5월 7일 전했다. 이번 상승으로 지수는 사상 처음 7000선에 올라섰으며, 8.3%만 더 오르면 ‘8천피’에 도달하게 된다. 원문은 반도체 호황을 이번 흐름의 계기로 제시했다. 이에 따라 국내 증시를 둘러싼 ‘코리아 디스카운트’ 논의도 함께 부각됐다. 시장의 관심은 7000선 안착 여부와 8000선 접근 가능성에 모이고 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "KOSPI Jumps 6% to Break 7,000, Leaving 8.3% Gain to Reach 8,000",
+        "excerpt": "According to Maeil Business News on May 7, the KOSPI surged 6% on May 6 to top 7,000 for the first time, with an 8.3% rise needed to reach 8,000.",
+        "body": "The KOSPI surged 6% on May 6 and moved past the unprecedented 7,000-point mark in one jump, Maeil Business News reported on May 7. With that rise, the index reached the 7,000 level for the first time, and it would need only another 8.3% gain to reach 8,000. The original report cited the semiconductor boom as the trigger for the move. It also highlighted renewed attention on the debate over the so-called “Korea discount” in the domestic stock market. Market focus is now on whether the index can settle above 7,000 and approach 8,000. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "KOSPIが6%急騰し7000台突破、8000台まで残る上昇率は8.3%",
+        "excerpt": "毎経が5月7日に伝えたところによると、KOSPIは5月6日に6%急騰し初めて7000台を突破、8000台到達まで残る上昇率は8.3%となった。",
+        "body": "KOSPIは5月6日に6%急騰し、未踏だった「7000台」の大台を一気に突破したと、毎経が5月7日に報じた。今回の上昇で指数は初めて7000線に乗せ、さらに8.3%上昇すれば「8000台」に到達する。原文は、この流れのきっかけとして半導体好況を挙げている。これに伴い、韓国株式市場を巡る「コリアディスカウント」論議にも関心が集まった。市場の焦点は7000線定着の可否と8000線接近の可能性に向かっている。出典: mk.co.kr。"
+      },
+      "zh": {
+        "title": "KOSPI暴涨6%突破7000点，距离8000点仅差8.3%涨幅",
+        "excerpt": "据每日经济5月7日报道，KOSPI在5月6日暴涨6%，首次突破7000点；若再上涨8.3%，指数将达到8000点。",
+        "body": "据每日经济5月7日报道，KOSPI在5月6日暴涨6%，一举越过前所未有的“7000点”高地。此次上涨使指数首次站上7000点关口；若再上涨8.3%，就将达到“8000点”。原文将半导体景气列为推动这一走势的契机。与此同时，围绕韩国股市的“韩国折价”讨论也受到关注。市场焦点正集中在指数能否站稳7000点，以及是否具备接近8000点的可能性。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "KOSPI sube 6% y rompe los 7.000 puntos; falta 8,3% para llegar a 8.000",
+        "excerpt": "Según Maeil Business News del 7 de mayo, el KOSPI saltó 6% el 6 de mayo y superó por primera vez los 7.000 puntos; necesita otro 8,3% para alcanzar 8.000.",
+        "body": "El KOSPI subió 6% el 6 de mayo y superó de una vez el nivel inédito de los 7.000 puntos, informó Maeil Business News el 7 de mayo. Con este avance, el índice llegó por primera vez a la zona de 7.000, y solo necesitaría otro aumento de 8,3% para alcanzar los 8.000 puntos. El texto original señaló el auge de los semiconductores como el detonante de esta tendencia. También puso de relieve el debate sobre el llamado “descuento de Corea” en el mercado bursátil local. La atención del mercado se centra ahora en si el índice puede consolidarse sobre 7.000 y acercarse a 8.000. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "KOSPI salta 6% e supera 7.000 pontos; faltam 8,3% para chegar a 8.000",
+        "excerpt": "Segundo o Maeil Business News em 7 de maio, o KOSPI avançou 6% em 6 de maio e superou 7.000 pontos pela primeira vez; falta uma alta de 8,3% para 8.000.",
+        "body": "O KOSPI avançou 6% em 6 de maio e ultrapassou de uma só vez o patamar inédito de 7.000 pontos, informou o Maeil Business News em 7 de maio. Com a alta, o índice chegou pela primeira vez à marca de 7.000, e precisaria subir apenas mais 8,3% para alcançar 8.000 pontos. O texto original apontou o boom dos semicondutores como o gatilho desse movimento. Também destacou a discussão sobre o chamado “desconto da Coreia” no mercado acionário local. O foco do mercado está agora na sustentação acima de 7.000 e na possibilidade de aproximação de 8.000. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KOSPI steigt 6% und knackt 7.000 Punkte, bis 8.000 fehlen noch 8,3%",
+        "excerpt": "Laut Maeil Business News vom 7. Mai sprang der KOSPI am 6. Mai um 6% und überschritt erstmals 7.000 Punkte; bis 8.000 wären weitere 8,3% nötig.",
+        "body": "Der KOSPI stieg am 6. Mai um 6% und überschritt in einem Schritt die bislang unerreichte Marke von 7.000 Punkten, berichtete Maeil Business News am 7. Mai. Mit diesem Anstieg erreichte der Index erstmals die 7.000er-Linie; für 8.000 Punkte wäre nur noch ein weiteres Plus von 8,3% nötig. Der Originalbericht nannte den Halbleiterboom als Auslöser dieser Entwicklung. Zugleich rückte die Debatte über den sogenannten „Korea Discount“ am heimischen Aktienmarkt in den Fokus. Der Markt blickt nun darauf, ob sich der Index über 7.000 halten und der Marke von 8.000 annähern kann. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Le KOSPI bondit de 6% et franchit 7.000 points, encore 8,3% vers 8.000",
+        "excerpt": "Selon Maeil Business News le 7 mai, le KOSPI a bondi de 6% le 6 mai et dépassé 7.000 points pour la première fois; il lui manque 8,3% pour atteindre 8.000.",
+        "body": "Le KOSPI a bondi de 6% le 6 mai et a franchi d’un seul élan le seuil inédit des 7.000 points, a rapporté Maeil Business News le 7 mai. Avec cette hausse, l’indice a atteint pour la première fois la zone des 7.000 points; une progression supplémentaire de 8,3% suffirait pour atteindre 8.000 points. Le texte original cite l’essor des semi-conducteurs comme déclencheur de ce mouvement. Il met aussi en avant le débat autour du « Korea discount » sur le marché boursier local. L’attention se porte désormais sur la capacité de l’indice à se maintenir au-dessus de 7.000 et à approcher 8.000. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "كوسبي يقفز 6% ويتجاوز 7000 نقطة، و8.3% فقط تفصله عن 8000",
+        "excerpt": "بحسب ما نقلته ماييل بيزنس نيوز في 7 مايو، قفز كوسبي 6% في 6 مايو متجاوزا 7000 نقطة لأول مرة، ويحتاج إلى صعود 8.3% للوصول إلى 8000.",
+        "body": "قفز مؤشر كوسبي 6% في 6 مايو وتجاوز دفعة واحدة مستوى 7000 نقطة غير المسبوق، وفق ما أوردته ماييل بيزنس نيوز في 7 مايو. وبهذا الصعود بلغ المؤشر مستوى 7000 للمرة الأولى، ولن يحتاج إلا إلى ارتفاع إضافي قدره 8.3% للوصول إلى 8000 نقطة. وأشار النص الأصلي إلى ازدهار أشباه الموصلات بوصفه عاملا وراء هذا المسار. كما برز معه النقاش حول ما يعرف بـ«خصم كوريا» في سوق الأسهم المحلية. وينصب اهتمام السوق الآن على قدرة المؤشر على الاستقرار فوق 7000 نقطة وإمكانية الاقتراب من 8000. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "KOSPI 6% उछलकर 7,000 के पार, 8,000 तक पहुंचने के लिए 8.3% बाकी",
+        "excerpt": "Maeil Business News ने 7 मई को बताया कि KOSPI 6 मई को 6% उछलकर पहली बार 7,000 के पार गया; 8,000 तक पहुंचने के लिए 8.3% और बढ़त चाहिए।",
+        "body": "KOSPI 6 मई को 6% उछला और पहली बार 7,000 अंक के अभूतपूर्व स्तर को एक झटके में पार कर गया, यह जानकारी Maeil Business News ने 7 मई को दी। इस बढ़त के साथ सूचकांक पहली बार 7,000 के स्तर पर पहुंचा, और 8,000 अंक तक पहुंचने के लिए उसे केवल 8.3% और चढ़ना होगा। मूल रिपोर्ट ने इस रुझान के पीछे सेमीकंडक्टर तेजी को कारण के रूप में रखा। इसके साथ घरेलू शेयर बाजार में तथाकथित “Korea discount” पर चर्चा भी उभरी। बाजार की नजर अब 7,000 के ऊपर टिके रहने और 8,000 के करीब पहुंचने की संभावना पर है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "KOSPI Melonjak 6% Tembus 7.000, Sisa Kenaikan ke 8.000 Tinggal 8,3%",
+        "excerpt": "Menurut Maeil Business News pada 7 Mei, KOSPI melonjak 6% pada 6 Mei dan pertama kali menembus 7.000; menuju 8.000 masih dibutuhkan kenaikan 8,3%.",
+        "body": "KOSPI melonjak 6% pada 6 Mei dan sekaligus menembus level 7.000 yang belum pernah dicapai sebelumnya, lapor Maeil Business News pada 7 Mei. Dengan kenaikan ini, indeks untuk pertama kalinya berada di garis 7.000, dan hanya perlu naik 8,3% lagi untuk mencapai 8.000. Teks asli menyebut boom semikonduktor sebagai pemicu arus kenaikan tersebut. Bersamaan dengan itu, pembahasan tentang apa yang disebut “Korea discount” di pasar saham domestik ikut mengemuka. Fokus pasar kini tertuju pada apakah indeks dapat bertahan di atas 7.000 dan mendekati 8.000. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "ff6537d1c849",
     "slug": "대통령-되면-더-잘할-것토크쇼-나온-오바마-트럼프-간접-비판-876924",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Perang Iran Berkepanjangan Perbesar Ketidakpastian Jalur Suku Bunga AS",
         "excerpt": "Global Economic melaporkan bahwa perang Iran yang berkepanjangan memperbesar ketidakpastian atas jalur suku bunga AS, menjadikan ketegangan geopolitik variabel penting bagi prospek kebijakan moneter.",
         "body": "Perang Iran yang berkepanjangan meningkatkan ketidakpastian atas jalur suku bunga Amerika Serikat, lapor Global Economic. Laporan tersebut menyoroti bahwa konflik yang berlarut-larut muncul sebagai faktor yang mengaburkan prospek kebijakan moneter AS. Teks sumber yang diberikan tidak memuat angka rinci seperti tingkat suku bunga acuan, waktu penyesuaian, atau proyeksi spesifik. Karena itu, pasar perlu mempertimbangkan ketegangan geopolitik dan kemungkinan perubahan jalur kebijakan ketika menilai arah suku bunga AS. Sumber: Global Economic."
-      }
-    }
-  },
-  {
-    "id": "a5b0d514a422",
-    "slug": "바클레이즈-2026년-연준-금리-인하-없을-것으로-전망-수정---investingcom-한국어-311487",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T09:43:56.533Z",
-    "updatedAt": "2026-05-06T09:43:56.533Z",
-    "sourceName": "Investing.com 한국어",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GMWJUdGd3Q3otenJ6dUlMTUVPYUhGYkttbnAyaTlydGZhSWtrLWh3ak9vdktGVW5rUkJ2cVVWeHh4ODhBbjVWMHUxSU01QmNLNjZCRjJNS2t6VHdQaE94OWJPemcwYTBBNHc?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GMWJUdGd3Q3otenJ6dUlMTUVPYUhGYkttbnAyaTlydGZhSWtrLWh3ak9vdktGVW5rUkJ2cVVWeHh4ODhBbjVWMHUxSU01QmNLNjZCRjJNS2t6VHdQaE94OWJPemcwYTBBNHc?oc=5",
-    "titleFingerprint": "9e02021c506b338a290d4b32e60f62120bbfe472",
-    "dedupKeys": [
-      "a5b0d514a422c7afd05c610eded1ac056339ee3e",
-      "9e02021c506b338a290d4b32e60f62120bbfe472",
-      "8257689b3f672408c72e12c738a7f173c50b1639"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "바클레이즈, 2026년 연준 금리 인하 ‘없음’으로 전망 수정",
-        "excerpt": "바클레이즈가 2026년 미국 연방준비제도의 금리 인하가 없을 것으로 전망을 수정했다고 Investing.com 한국어가 보도했다.",
-        "body": "바클레이즈가 2026년 미국 연방준비제도(Fed)의 금리 인하가 없을 것으로 전망을 수정했다고 Investing.com 한국어가 전했다. 이번 수정은 연준의 향후 통화정책 경로를 둘러싼 시장의 관심이 이어지는 가운데 나온 것이다. 원문은 바클레이즈가 기존 전망을 조정해 2026년에는 금리 인하가 없을 것으로 본다는 내용을 핵심으로 다뤘다. 이는 투자자들이 미국 금리 전망과 거시경제 신호를 해석할 때 참고할 만한 변화다. 출처: Investing.com 한국어."
-      },
-      "en": {
-        "title": "Barclays Revises Outlook, Sees No Fed Rate Cuts in 2026",
-        "excerpt": "Barclays has revised its outlook and now expects no Federal Reserve rate cuts in 2026, Investing.com Korea reported.",
-        "body": "Barclays has revised its outlook to expect no interest rate cuts by the U.S. Federal Reserve in 2026, according to Investing.com Korea. The update comes as markets continue to watch the Fed’s future monetary policy path. The original report focused on Barclays adjusting its prior view and now seeing no rate reductions in 2026. The change is a relevant reference point for investors interpreting U.S. rate expectations and macroeconomic signals. Source: Investing.com Korea."
-      },
-      "ja": {
-        "title": "バークレイズ、2026年のFRB利下げなしへ見通し修正",
-        "excerpt": "バークレイズは2026年に米連邦準備制度理事会の利下げはないとの見通しに修正したとInvesting.com韓国語版が報じた。",
-        "body": "Investing.com韓国語版によると、バークレイズは2026年に米連邦準備制度理事会（FRB）の利下げはないとの見通しに修正した。今回の修正は、FRBの今後の金融政策の道筋に市場の関心が続く中で示されたものだ。原文は、バークレイズが従来の見通しを調整し、2026年には利下げがないとみている点を中心に伝えている。この変更は、投資家が米金利見通しとマクロ経済シグナルを読む際の参考材料となる。出典：Investing.com韓国語版。"
-      },
-      "zh": {
-        "title": "巴克莱修正预测：2026年美联储或不会降息",
-        "excerpt": "Investing.com韩语版报道，巴克莱已修正预测，预计2026年美国联邦储备委员会不会降息。",
-        "body": "据Investing.com韩语版报道，巴克莱已修正对美国联邦储备委员会（Fed）政策的预测，预计2026年不会降息。此次调整出现在市场持续关注美联储未来货币政策路径之际。原文重点提到，巴克莱调整了此前观点，并认为2026年不会出现降息。这一变化可供投资者在解读美国利率前景和宏观经济信号时参考。来源：Investing.com韩语版。"
-      },
-      "es": {
-        "title": "Barclays revisa previsión y no ve recortes de la Fed en 2026",
-        "excerpt": "Barclays revisó su previsión y ahora espera que la Reserva Federal no recorte las tasas en 2026, informó Investing.com Corea.",
-        "body": "Barclays revisó su previsión y ahora espera que la Reserva Federal de Estados Unidos no realice recortes de tasas en 2026, según informó Investing.com Corea. La actualización llega mientras los mercados siguen atentos a la futura trayectoria de la política monetaria de la Fed. El reporte original se centra en que Barclays ajustó su visión anterior y ahora no prevé recortes de tasas en 2026. El cambio sirve como referencia para inversores que interpretan las expectativas de tasas en Estados Unidos y las señales macroeconómicas. Fuente: Investing.com Corea."
-      },
-      "pt": {
-        "title": "Barclays revisa projeção e não vê cortes do Fed em 2026",
-        "excerpt": "O Barclays revisou sua projeção e agora espera que o Federal Reserve não corte juros em 2026, informou o Investing.com Coreia.",
-        "body": "O Barclays revisou sua projeção e agora espera que o Federal Reserve dos Estados Unidos não faça cortes de juros em 2026, segundo o Investing.com Coreia. A atualização ocorre enquanto os mercados seguem atentos ao futuro caminho da política monetária do Fed. A reportagem original destaca que o Barclays ajustou sua visão anterior e passou a prever ausência de cortes de juros em 2026. A mudança é uma referência para investidores que acompanham as expectativas de juros dos EUA e os sinais macroeconômicos. Fonte: Investing.com Coreia."
-      },
-      "de": {
-        "title": "Barclays revidiert Ausblick: Keine Fed-Zinssenkungen 2026",
-        "excerpt": "Barclays hat seinen Ausblick geändert und erwartet nun keine Zinssenkungen der US-Notenbank im Jahr 2026, berichtete Investing.com Korea.",
-        "body": "Barclays hat seinen Ausblick revidiert und erwartet nun keine Zinssenkungen der US-Notenbank Federal Reserve im Jahr 2026, wie Investing.com Korea berichtete. Die Anpassung erfolgt, während die Märkte den künftigen geldpolitischen Kurs der Fed weiter beobachten. Der ursprüngliche Bericht stellt in den Mittelpunkt, dass Barclays seine bisherige Einschätzung geändert hat und für 2026 keine Zinssenkungen mehr erwartet. Diese Änderung ist ein relevanter Bezugspunkt für Anleger, die US-Zinserwartungen und makroökonomische Signale einordnen. Quelle: Investing.com Korea."
-      },
-      "fr": {
-        "title": "Barclays révise sa prévision et n’attend aucune baisse de la Fed en 2026",
-        "excerpt": "Barclays a révisé sa prévision et anticipe désormais aucune baisse des taux de la Réserve fédérale en 2026, selon Investing.com Corée.",
-        "body": "Barclays a révisé sa prévision et anticipe désormais aucune baisse des taux de la Réserve fédérale américaine en 2026, selon Investing.com Corée. Cette mise à jour intervient alors que les marchés continuent de suivre la trajectoire future de la politique monétaire de la Fed. L’article original souligne que Barclays a ajusté sa vision précédente et ne prévoit plus de baisse des taux en 2026. Ce changement constitue un repère pour les investisseurs qui analysent les attentes de taux aux États-Unis et les signaux macroéconomiques. Source : Investing.com Corée."
-      },
-      "ar": {
-        "title": "باركليز يعدل توقعاته: لا خفض لفائدة الفيدرالي في 2026",
-        "excerpt": "عدّل باركليز توقعاته وبات يرى أن مجلس الاحتياطي الفيدرالي لن يخفض أسعار الفائدة في 2026، وفق Investing.com الكورية.",
-        "body": "عدّل باركليز توقعاته ليشير إلى أنه لا يتوقع خفضا لأسعار الفائدة من جانب مجلس الاحتياطي الفيدرالي الأمريكي في 2026، بحسب ما نقلت Investing.com الكورية. يأتي هذا التعديل بينما تواصل الأسواق متابعة مسار السياسة النقدية المقبلة للفيدرالي. وركز التقرير الأصلي على أن باركليز غيّر رؤيته السابقة وأصبح يتوقع عدم حدوث خفض للفائدة في 2026. ويعد هذا التغيير نقطة مرجعية للمستثمرين عند قراءة توقعات الفائدة الأمريكية والإشارات الاقتصادية الكلية. المصدر: Investing.com الكورية."
-      },
-      "hi": {
-        "title": "बार्कलेज ने अनुमान बदला, 2026 में Fed दर कटौती नहीं देखता",
-        "excerpt": "Investing.com कोरिया के अनुसार, बार्कलेज ने अपना अनुमान बदला है और अब 2026 में फेडरल रिजर्व की ब्याज दर कटौती नहीं देखता।",
-        "body": "Investing.com कोरिया के अनुसार, बार्कलेज ने अपना अनुमान संशोधित किया है और अब 2026 में अमेरिकी फेडरल रिजर्व द्वारा ब्याज दरों में कटौती की उम्मीद नहीं करता। यह बदलाव ऐसे समय आया है जब बाजार फेड की आगे की मौद्रिक नीति दिशा पर नजर बनाए हुए हैं। मूल रिपोर्ट का मुख्य बिंदु यह है कि बार्कलेज ने अपने पहले के दृष्टिकोण को समायोजित किया और 2026 में दर कटौती न होने का अनुमान रखा। यह बदलाव अमेरिकी ब्याज दर अपेक्षाओं और व्यापक आर्थिक संकेतों को समझने वाले निवेशकों के लिए संदर्भ बन सकता है। स्रोत: Investing.com कोरिया."
-      },
-      "id": {
-        "title": "Barclays Ubah Proyeksi, Tak Melihat Pemangkasan Suku Bunga Fed 2026",
-        "excerpt": "Barclays merevisi proyeksinya dan kini memperkirakan Federal Reserve tidak memangkas suku bunga pada 2026, menurut Investing.com Korea.",
-        "body": "Barclays merevisi proyeksinya dan kini memperkirakan Federal Reserve Amerika Serikat tidak akan memangkas suku bunga pada 2026, menurut Investing.com Korea. Pembaruan ini muncul saat pasar terus mencermati arah kebijakan moneter Fed ke depan. Laporan asli menyoroti bahwa Barclays menyesuaikan pandangan sebelumnya dan kini melihat tidak ada pemangkasan suku bunga pada 2026. Perubahan ini menjadi rujukan bagi investor dalam membaca ekspektasi suku bunga AS dan sinyal makroekonomi. Sumber: Investing.com Korea."
-      }
-    }
-  },
-  {
-    "id": "2f3fd7bd08a5",
-    "slug": "연준-인사-경제-상황-악화시-금리인상으로-가야할-수도---vdaumnet-728859",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T09:43:08.246Z",
-    "updatedAt": "2026-05-06T09:43:08.246Z",
-    "sourceName": "v.daum.net",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGSFR2R2xyeEtkZ2NaS2w1ZGRmSUljRmhWV0lFOGJLWXg4X2pXM0t4U2FKV2phVjh6X25uUzlfV19ZQzdkdzRqT0ZGWWtiRnM?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGSFR2R2xyeEtkZ2NaS2w1ZGRmSUljRmhWV0lFOGJLWXg4X2pXM0t4U2FKV2phVjh6X25uUzlfV19ZQzdkdzRqT0ZGWWtiRnM?oc=5",
-    "titleFingerprint": "087515da8fdcfa32860d381292bb1a208d78df0f",
-    "dedupKeys": [
-      "2f3fd7bd08a57569cd8ed7ae8cb0334cd86535f7",
-      "087515da8fdcfa32860d381292bb1a208d78df0f",
-      "b2a90633fb236512d82c6e5e73faccc0bd6e57e9"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "연준 금리인상 가능성 재부각, 경제 상황 악화시 긴축 전환 시사",
-        "excerpt": "v.daum.net에 따르면 한 연준 인사가 경제 상황이 악화될 경우 금리인상으로 가야 할 수도 있다고 언급하며 통화정책 경로에 대한 시장의 주목이 커졌다.",
-        "body": "한 연준 인사가 경제 상황이 악화될 경우 금리인상으로 가야 할 수도 있다고 밝혔다고 v.daum.net이 전했다. 이번 발언은 미국 통화정책을 둘러싼 불확실성이 이어지는 가운데 나온 것으로, 향후 경제 여건 변화가 금리 결정에 중요한 변수로 작용할 수 있음을 시사한다. 원문에 제시된 핵심 내용은 연준 내부 인사가 경제 상황 악화를 전제로 금리인상 가능성을 언급했다는 점이다. 구체적인 수치나 추가 정책 일정은 제공되지 않았다. 시장은 해당 발언을 통해 연준이 경제 흐름에 따라 긴축적 선택지를 배제하지 않고 있음을 확인할 수 있다. 출처: v.daum.net."
-      },
-      "en": {
-        "title": "Fed Rate Hike Risk Returns as Official Cites Worsening Economy",
-        "excerpt": "According to v.daum.net, a Federal Reserve official said the Fed may have to move toward rate hikes if economic conditions worsen, drawing attention to the policy outlook.",
-        "body": "A Federal Reserve official said the central bank may have to move toward rate hikes if economic conditions worsen, v.daum.net reported. The remark came amid continued uncertainty surrounding U.S. monetary policy and suggested that changes in economic conditions could remain an important factor in future rate decisions. The core point in the original report is that a Fed official mentioned the possibility of rate increases under the condition of a deteriorating economy. No specific figures or additional policy timetable were provided. Markets may view the comment as a sign that the Fed is not ruling out a tighter policy option depending on the economic path. Source: v.daum.net."
-      },
-      "ja": {
-        "title": "FRB利上げ観測が再浮上、経済悪化なら引き締め転換も示唆",
-        "excerpt": "v.daum.netによると、FRB関係者は経済状況が悪化した場合、利上げに向かう必要があるかもしれないと述べ、政策見通しへの関心が高まった。",
-        "body": "FRB関係者が、経済状況が悪化した場合には利上げに向かう必要があるかもしれないと述べたと、v.daum.netが報じた。今回の発言は、米国の金融政策をめぐる不確実性が続く中で出たもので、今後の経済環境の変化が金利判断の重要な要因になり得ることを示している。原文で示された核心は、FRB内部の関係者が経済悪化を前提に利上げの可能性に言及した点だ。具体的な数値や追加の政策日程は示されていない。市場はこの発言を通じ、FRBが経済の流れに応じて引き締め的な選択肢を排除していないことを確認できる。出典: v.daum.net."
-      },
-      "zh": {
-        "title": "美联储加息可能性再受关注，官员称经济恶化时或需转向紧缩",
-        "excerpt": "据v.daum.net报道，一名美联储人士表示，若经济状况恶化，可能不得不走向加息，市场对货币政策路径的关注随之升温。",
-        "body": "据v.daum.net报道，一名美联储人士表示，如果经济状况恶化，可能不得不走向加息。该表态出现在美国货币政策不确定性持续之际，显示未来经济条件变化可能成为利率决策的重要变量。原文提供的核心信息是，美联储内部人士在以经济状况恶化为前提的情况下提到了加息可能性。报道未提供具体数据或进一步政策时间表。市场可由此看到，美联储并未排除根据经济走势采取更紧缩政策选项的可能。来源: v.daum.net."
-      },
-      "es": {
-        "title": "La Fed reabre el foco sobre subidas de tasas si empeora la economía",
-        "excerpt": "Según v.daum.net, un funcionario de la Reserva Federal dijo que podría ser necesario avanzar hacia subidas de tasas si las condiciones económicas se deterioran.",
-        "body": "Un funcionario de la Reserva Federal dijo que, si las condiciones económicas empeoran, podría ser necesario avanzar hacia subidas de tasas, informó v.daum.net. La declaración se produjo en medio de la persistente incertidumbre sobre la política monetaria de Estados Unidos y sugiere que los cambios en la economía podrían seguir siendo una variable clave para futuras decisiones de tasas. El punto central del reporte original es que una figura de la Fed mencionó la posibilidad de subir tasas bajo el supuesto de un deterioro económico. No se ofrecieron cifras concretas ni un calendario adicional de política. El mercado puede interpretar el comentario como una señal de que la Fed no descarta una opción más restrictiva según la evolución económica. Fuente: v.daum.net."
-      },
-      "pt": {
-        "title": "Fed volta a sinalizar risco de alta de juros se a economia piorar",
-        "excerpt": "Segundo o v.daum.net, um integrante do Federal Reserve afirmou que a instituição talvez precise caminhar para altas de juros caso as condições econômicas se agravem.",
-        "body": "Um integrante do Federal Reserve afirmou que, se as condições econômicas piorarem, a instituição talvez precise caminhar para altas de juros, informou o v.daum.net. A declaração surgiu em meio à incerteza persistente sobre a política monetária dos Estados Unidos e indica que mudanças no cenário econômico podem continuar sendo uma variável importante nas decisões sobre juros. O ponto central do texto original é que uma autoridade do Fed mencionou a possibilidade de aumento de juros sob a condição de deterioração econômica. Não foram apresentados números específicos nem um cronograma adicional de política. O mercado pode ver a fala como sinal de que o Fed não descarta uma opção mais restritiva conforme a trajetória da economia. Fonte: v.daum.net."
-      },
-      "de": {
-        "title": "Fed-Zinserhöhungen rücken wieder in den Fokus bei schwächerer Wirtschaft",
-        "excerpt": "Laut v.daum.net sagte ein Vertreter der US-Notenbank, bei einer Verschlechterung der Wirtschaftslage könne ein Kurs hin zu Zinserhöhungen nötig werden.",
-        "body": "Ein Vertreter der US-Notenbank sagte, bei einer Verschlechterung der Wirtschaftslage könne es nötig werden, in Richtung Zinserhöhungen zu gehen, berichtete v.daum.net. Die Äußerung fiel in einer Phase anhaltender Unsicherheit über die US-Geldpolitik und deutet darauf hin, dass Veränderungen der wirtschaftlichen Lage ein wichtiger Faktor für künftige Zinsentscheidungen bleiben könnten. Der Kern des Originalberichts ist, dass eine Fed-Person unter der Bedingung einer schlechteren Wirtschaftslage die Möglichkeit von Zinserhöhungen erwähnte. Konkrete Zahlen oder ein zusätzlicher politischer Zeitplan wurden nicht genannt. Märkte können die Aussage als Hinweis verstehen, dass die Fed je nach Konjunkturverlauf eine straffere Option nicht ausschließt. Quelle: v.daum.net."
-      },
-      "fr": {
-        "title": "La Fed relance le risque de hausses de taux si l’économie se dégrade",
-        "excerpt": "Selon v.daum.net, un responsable de la Réserve fédérale a indiqué qu’il pourrait falloir aller vers des hausses de taux si la situation économique se détériore.",
-        "body": "Un responsable de la Réserve fédérale a déclaré qu’en cas de détérioration de la situation économique, il pourrait être nécessaire d’aller vers des hausses de taux, a rapporté v.daum.net. Cette déclaration intervient alors que l’incertitude persiste autour de la politique monétaire américaine et suggère que l’évolution des conditions économiques pourrait rester une variable importante dans les futures décisions de taux. Le point central du texte original est qu’un responsable de la Fed a évoqué la possibilité de relèvements de taux sous condition d’une dégradation de l’économie. Aucun chiffre précis ni calendrier politique supplémentaire n’a été fourni. Les marchés peuvent y voir le signe que la Fed n’exclut pas une option plus restrictive selon la trajectoire économique. Source: v.daum.net."
-      },
-      "ar": {
-        "title": "احتمال رفع الفائدة من الفدرالي يعود للواجهة إذا تدهور الاقتصاد",
-        "excerpt": "بحسب v.daum.net، قال مسؤول في مجلس الاحتياطي الفدرالي إن البنك قد يضطر إلى الاتجاه نحو رفع الفائدة إذا ساءت الأوضاع الاقتصادية.",
-        "body": "قال مسؤول في مجلس الاحتياطي الفدرالي إن البنك قد يضطر إلى الاتجاه نحو رفع الفائدة إذا تدهورت الأوضاع الاقتصادية، وفق ما نقل v.daum.net. وجاء التصريح في ظل استمرار حالة عدم اليقين حول السياسة النقدية الأميركية، ما يشير إلى أن تغير الظروف الاقتصادية قد يبقى عاملا مهما في قرارات الفائدة المقبلة. وتتمثل النقطة الأساسية في التقرير الأصلي في أن شخصية من داخل الفدرالي ذكرت احتمال رفع الفائدة بشرط تدهور الوضع الاقتصادي. ولم يقدم التقرير أرقاما محددة أو جدولا زمنيا إضافيا للسياسة. وقد يرى السوق في هذا التصريح إشارة إلى أن الفدرالي لا يستبعد خيارا أكثر تشددا تبعا لمسار الاقتصاد. المصدر: v.daum.net."
-      },
-      "hi": {
-        "title": "अर्थव्यवस्था बिगड़ने पर फेड दर वृद्धि की राह पकड़ सकता है",
-        "excerpt": "v.daum.net के अनुसार, फेडरल रिजर्व के एक अधिकारी ने कहा कि आर्थिक हालात बिगड़ने पर ब्याज दर बढ़ाने की ओर जाना पड़ सकता है, जिससे नीति पर ध्यान बढ़ा।",
-        "body": "फेडरल रिजर्व के एक अधिकारी ने कहा कि यदि आर्थिक हालात बिगड़ते हैं तो ब्याज दर बढ़ाने की ओर जाना पड़ सकता है, v.daum.net ने बताया। यह टिप्पणी अमेरिकी मौद्रिक नीति को लेकर जारी अनिश्चितता के बीच आई और संकेत देती है कि आगे आर्थिक परिस्थितियों में बदलाव दरों पर फैसले के लिए अहम कारक हो सकता है। मूल रिपोर्ट का मुख्य बिंदु यह है कि फेड से जुड़े एक अधिकारी ने अर्थव्यवस्था के बिगड़ने की शर्त पर दर वृद्धि की संभावना का उल्लेख किया। कोई विशिष्ट आंकड़ा या अतिरिक्त नीति कार्यक्रम नहीं दिया गया। बाजार इस बयान को इस संकेत के रूप में देख सकता है कि फेड आर्थिक दिशा के अनुसार अधिक सख्त विकल्प को बाहर नहीं कर रहा। स्रोत: v.daum.net."
-      },
-      "id": {
-        "title": "Risiko Kenaikan Suku Bunga Fed Muncul Lagi jika Ekonomi Memburuk",
-        "excerpt": "Menurut v.daum.net, seorang pejabat The Fed mengatakan bank sentral mungkin harus menuju kenaikan suku bunga jika kondisi ekonomi memburuk.",
-        "body": "Seorang pejabat Federal Reserve mengatakan bank sentral mungkin harus menuju kenaikan suku bunga jika kondisi ekonomi memburuk, lapor v.daum.net. Pernyataan ini muncul di tengah berlanjutnya ketidakpastian seputar kebijakan moneter Amerika Serikat dan menunjukkan bahwa perubahan kondisi ekonomi dapat menjadi faktor penting dalam keputusan suku bunga ke depan. Inti laporan asli adalah bahwa seorang pejabat The Fed menyebut kemungkinan kenaikan suku bunga dengan syarat ekonomi memburuk. Tidak ada angka khusus atau jadwal kebijakan tambahan yang diberikan. Pasar dapat melihat komentar ini sebagai tanda bahwa The Fed tidak menutup opsi yang lebih ketat bergantung pada arah ekonomi. Sumber: v.daum.net."
-      }
-    }
-  },
-  {
-    "id": "15d5b9903081",
-    "slug": "트럼프-쓰레기통에-추락-파월-사진-올리며-금리-너무-높아---연합뉴스-427611",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T09:42:18.798Z",
-    "updatedAt": "2026-05-06T09:42:18.798Z",
-    "sourceName": "연합뉴스",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rU1doVm1TZWJjdGlMTnVWS0xvLTF4T0JuZmUyRktrY3pwN0ZrLWdfN29HZ3dZVDNnOGlFYkNhSnNGclpmdkxGaVV5TzB1bVlabVZTVG1CRzFDUlXSAWBBVV95cUxNMnU1MUl5cVl6d0VrS1h3akVUaXdaRTVMNlpiQ2ZmUUtDYkJqR2tyTWJQNUhNbWlQYTM2WmpzR3VfZi1hbG4wc0luaFZmV29GWlNrTmRuczFNZEF4OWJ6Zlk?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rU1doVm1TZWJjdGlMTnVWS0xvLTF4T0JuZmUyRktrY3pwN0ZrLWdfN29HZ3dZVDNnOGlFYkNhSnNGclpmdkxGaVV5TzB1bVlabVZTVG1CRzFDUlXSAWBBVV95cUxNMnU1MUl5cVl6d0VrS1h3akVUaXdaRTVMNlpiQ2ZmUUtDYkJqR2tyTWJQNUhNbWlQYTM2WmpzR3VfZi1hbG4wc0luaFZmV29GWlNrTmRuczFNZEF4OWJ6Zlk?oc=5",
-    "titleFingerprint": "4c107ab0069fc288f751e118b8992e3179fd94c1",
-    "dedupKeys": [
-      "15d5b9903081e662bebe7dfad24bbb16c8f116b8",
-      "4c107ab0069fc288f751e118b8992e3179fd94c1",
-      "a5d28cc86962eaec2e96a1faa60b66c97d0f25e7"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "트럼프, 파월 ‘쓰레기통 추락’ 사진 공유하며 금리 인하 압박",
-        "excerpt": "트럼프가 파월 연준 의장을 겨냥한 ‘쓰레기통에 추락’ 사진을 올리며 금리가 너무 높다고 비판했다. 연합뉴스 보도를 바탕으로 금리 논쟁의 핵심을 정리했다.",
-        "body": "도널드 트럼프 전 미국 대통령이 제롬 파월 연방준비제도 의장을 겨냥한 이미지를 소셜미디어에 올리며 미국의 높은 금리를 비판했다. 연합뉴스에 따르면 트럼프는 파월 의장이 ‘쓰레기통에 추락’하는 모습으로 묘사된 사진을 공유하고 “금리가 너무 높다”는 취지의 메시지를 냈다. 이번 게시물은 트럼프가 연준의 금리 수준을 공개적으로 문제 삼은 사례다. 원문에 제시된 핵심 수치는 없지만, 발언의 초점은 파월 의장과 현재 금리 수준에 맞춰져 있다. 향후 시장과 정책권은 트럼프의 대연준 압박 발언이 금리 논쟁에 어떤 파장을 낼지 주시할 전망이다. 출처: 연합뉴스."
-      },
-      "en": {
-        "title": "Trump Shares Powell ‘Trash Can Fall’ Image, Says Rates Are Too High",
-        "excerpt": "Trump criticized Federal Reserve Chair Jerome Powell by sharing an image of him ‘falling into a trash can’ and saying interest rates are too high, according to Yonhap News Agency.",
-        "body": "Donald Trump criticized high U.S. interest rates by posting a social media image targeting Federal Reserve Chair Jerome Powell. According to Yonhap News Agency, Trump shared a picture depicting Powell as ‘falling into a trash can’ and delivered a message saying interest rates are too high. The post marks another public instance of Trump taking issue with the Fed’s rate level. The original report did not provide specific numerical data, but the focus was clearly on Powell and the current level of interest rates. Markets and policymakers are expected to watch whether Trump’s pressure on the Federal Reserve adds momentum to the rate debate. Source: Yonhap News Agency."
-      },
-      "ja": {
-        "title": "トランプ氏、パウエル氏「ごみ箱転落」画像投稿し金利高を批判",
-        "excerpt": "トランプ氏がFRBのパウエル議長を狙った「ごみ箱に転落」画像を共有し、金利が高すぎると批判した。聯合ニュース報道を基に要点を整理した。",
-        "body": "ドナルド・トランプ前米大統領が、米連邦準備制度理事会（FRB）のジェローム・パウエル議長を標的にした画像をSNSに投稿し、米国の高い金利を批判した。聯合ニュースによると、トランプ氏はパウエル氏が「ごみ箱に転落」するように描かれた写真を共有し、「金利が高すぎる」との趣旨のメッセージを発した。今回の投稿は、トランプ氏がFRBの金利水準を公然と問題視した事例だ。原文に具体的な数値は示されていないが、発言の焦点はパウエル議長と現在の金利水準に置かれている。市場と政策関係者は、FRBへの圧力発言が金利論争にどのような影響を及ぼすか注視するとみられる。出典：聯合ニュース。"
-      },
-      "zh": {
-        "title": "特朗普发鲍威尔“跌入垃圾桶”图片，批评利率过高",
-        "excerpt": "特朗普分享针对美联储主席鲍威尔的“跌入垃圾桶”图片，并批评利率太高。本文根据韩联社报道梳理此次利率争议的核心内容。",
-        "body": "美国前总统唐纳德·特朗普在社交媒体发布针对美联储主席杰罗姆·鲍威尔的图片，批评美国利率过高。据韩联社报道，特朗普分享了一张将鲍威尔描绘为“跌入垃圾桶”的图片，并表达了“利率太高”的意思。此次发文是特朗普公开质疑美联储利率水平的又一案例。原报道未提供具体相关数字，但信息焦点集中在鲍威尔以及当前利率水平上。市场和政策层面预计将关注特朗普对美联储施压的言论是否会对利率争论产生影响。来源：韩联社。"
-      },
-      "es": {
-        "title": "Trump comparte imagen de Powell ‘cayendo a la basura’ y critica tasas altas",
-        "excerpt": "Trump apuntó contra Jerome Powell al compartir una imagen de él ‘cayendo a un cubo de basura’ y afirmar que las tasas son demasiado altas, según Yonhap.",
-        "body": "Donald Trump criticó las altas tasas de interés en Estados Unidos al publicar en redes sociales una imagen dirigida contra el presidente de la Reserva Federal, Jerome Powell. Según la agencia Yonhap, Trump compartió una foto que muestra a Powell como si ‘cayera a un cubo de basura’ y lanzó un mensaje en el sentido de que las tasas son demasiado altas. La publicación constituye otro caso en el que Trump cuestiona públicamente el nivel de tasas de la Fed. El reporte original no incluyó cifras concretas, pero el foco está en Powell y en el nivel actual de los tipos de interés. Mercados y responsables de política seguirán atentos a si esta presión sobre la Fed incide en el debate sobre tasas. Fuente: Yonhap."
-      },
-      "pt": {
-        "title": "Trump publica imagem de Powell ‘caindo no lixo’ e critica juros altos",
-        "excerpt": "Trump mirou Jerome Powell ao compartilhar uma imagem dele ‘caindo em uma lixeira’ e dizer que os juros estão altos demais, segundo a agência Yonhap.",
-        "body": "Donald Trump criticou os juros elevados nos Estados Unidos ao publicar nas redes sociais uma imagem mirando o presidente do Federal Reserve, Jerome Powell. Segundo a agência Yonhap, Trump compartilhou uma foto que retrata Powell como se estivesse ‘caindo em uma lixeira’ e transmitiu a mensagem de que os juros estão altos demais. A publicação é mais um episódio em que Trump questiona publicamente o nível das taxas do Fed. A reportagem original não trouxe números específicos, mas o foco está em Powell e no patamar atual dos juros. Mercados e formuladores de política devem acompanhar se a pressão de Trump sobre o Federal Reserve terá impacto no debate sobre taxas. Fonte: Yonhap."
-      },
-      "de": {
-        "title": "Trump teilt Powell-Bild ‘Sturz in Mülltonne’ und kritisiert hohe Zinsen",
-        "excerpt": "Trump griff Fed-Chef Jerome Powell an, indem er ein Bild von ihm beim ‘Sturz in eine Mülltonne’ teilte und sagte, die Zinsen seien zu hoch, berichtet Yonhap.",
-        "body": "Donald Trump hat die hohen US-Zinsen kritisiert und dazu in sozialen Medien ein Bild geteilt, das sich gegen den Vorsitzenden der Federal Reserve, Jerome Powell, richtet. Nach Angaben der Nachrichtenagentur Yonhap zeigte Trump ein Foto, auf dem Powell als ‘in eine Mülltonne stürzend’ dargestellt wird, verbunden mit der Aussage, die Zinsen seien zu hoch. Der Beitrag ist ein weiteres Beispiel dafür, dass Trump das Zinsniveau der Fed öffentlich infrage stellt. Konkrete Zahlen nannte der ursprüngliche Bericht nicht; im Mittelpunkt stehen Powell und das aktuelle Zinsniveau. Märkte und politische Entscheidungsträger dürften nun beobachten, ob Trumps Druck auf die Fed die Zinsdebatte beeinflusst. Quelle: Yonhap."
-      },
-      "fr": {
-        "title": "Trump partage une image de Powell ‘tombant dans une poubelle’ et critique les taux",
-        "excerpt": "Trump a visé Jerome Powell en partageant une image le montrant ‘tombant dans une poubelle’ et en affirmant que les taux sont trop élevés, selon Yonhap.",
-        "body": "Donald Trump a critiqué le niveau élevé des taux d’intérêt aux États-Unis en publiant sur les réseaux sociaux une image visant le président de la Réserve fédérale, Jerome Powell. Selon l’agence Yonhap, Trump a partagé une photo représentant Powell comme s’il ‘tombait dans une poubelle’ et a fait passer le message que les taux sont trop élevés. Cette publication constitue un nouvel exemple de critique publique par Trump du niveau des taux de la Fed. Le reportage original ne donne pas de chiffres précis, mais l’accent porte sur Powell et sur le niveau actuel des taux. Les marchés et les responsables politiques devraient suivre les effets éventuels de cette pression sur le débat monétaire. Source : Yonhap."
-      },
-      "ar": {
-        "title": "ترامب ينشر صورة لباول ‘يسقط في سلة قمامة’ وينتقد ارتفاع الفائدة",
-        "excerpt": "ترامب استهدف رئيس الاحتياطي الفدرالي جيروم باول بصورة يظهر فيها كأنه ‘يسقط في سلة قمامة’ وقال إن الفائدة مرتفعة للغاية، وفق يونهاب.",
-        "body": "انتقد دونالد ترامب ارتفاع أسعار الفائدة في الولايات المتحدة عبر نشر صورة على وسائل التواصل الاجتماعي تستهدف رئيس مجلس الاحتياطي الفدرالي جيروم باول. ووفقا لوكالة يونهاب، شارك ترامب صورة تصور باول كأنه ‘يسقط في سلة قمامة’، وأرفقها برسالة مفادها أن أسعار الفائدة مرتفعة للغاية. ويعد هذا المنشور مثالا آخر على اعتراض ترامب العلني على مستوى الفائدة لدى الاحتياطي الفدرالي. ولم يورد التقرير الأصلي أرقاما محددة، لكن محور الرسالة كان باول ومستوى الفائدة الحالي. ومن المتوقع أن تتابع الأسواق وصناع السياسات ما إذا كان ضغط ترامب على الاحتياطي الفدرالي سيؤثر في الجدل حول الفائدة. المصدر: يونهاب."
-      },
-      "hi": {
-        "title": "ट्रंप ने पावेल की ‘कूड़ेदान में गिरने’ वाली तस्वीर साझा कर ऊंची दरों पर हमला बोला",
-        "excerpt": "ट्रंप ने फेड चेयर जेरोम पावेल को निशाना बनाते हुए ‘कूड़ेदान में गिरने’ वाली तस्वीर साझा की और कहा कि ब्याज दरें बहुत अधिक हैं, योनहाप के अनुसार।",
-        "body": "डोनाल्ड ट्रंप ने सोशल मीडिया पर फेडरल रिजर्व के चेयर जेरोम पावेल को निशाना बनाती एक तस्वीर पोस्ट कर अमेरिका की ऊंची ब्याज दरों की आलोचना की। योनहाप समाचार एजेंसी के अनुसार, ट्रंप ने पावेल को ‘कूड़ेदान में गिरते’ दिखाने वाली तस्वीर साझा की और यह संदेश दिया कि ब्याज दरें बहुत अधिक हैं। यह पोस्ट फेड की दरों के स्तर पर ट्रंप की सार्वजनिक आपत्ति का एक और उदाहरण है। मूल रिपोर्ट में कोई विशेष संख्यात्मक आंकड़ा नहीं दिया गया, लेकिन ध्यान पावेल और मौजूदा ब्याज दर स्तर पर था। बाजार और नीति निर्माता देखेंगे कि फेड पर ट्रंप का दबाव दरों की बहस को किस तरह प्रभावित करता है। स्रोत: योनहाप."
-      },
-      "id": {
-        "title": "Trump Unggah Gambar Powell ‘Jatuh ke Tempat Sampah’, Kritik Suku Bunga Tinggi",
-        "excerpt": "Trump menargetkan Ketua The Fed Jerome Powell dengan membagikan gambar ‘jatuh ke tempat sampah’ dan menyebut suku bunga terlalu tinggi, menurut Yonhap.",
-        "body": "Donald Trump mengkritik tingginya suku bunga di Amerika Serikat dengan mengunggah gambar di media sosial yang menargetkan Ketua Federal Reserve Jerome Powell. Menurut kantor berita Yonhap, Trump membagikan foto yang menggambarkan Powell seolah ‘jatuh ke tempat sampah’ dan menyampaikan pesan bahwa suku bunga terlalu tinggi. Unggahan ini menjadi contoh lain saat Trump secara terbuka mempersoalkan tingkat suku bunga The Fed. Laporan asli tidak menyajikan angka spesifik, tetapi fokusnya berada pada Powell dan level suku bunga saat ini. Pasar dan pembuat kebijakan diperkirakan akan mencermati apakah tekanan Trump terhadap The Fed memengaruhi perdebatan soal suku bunga. Sumber: Yonhap."
       }
     }
   }
