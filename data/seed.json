@@ -1,5 +1,230 @@
 [
   {
+    "id": "f24efaa19e20",
+    "slug": "구글코리아-1500억-법인세-소송-2심도-승소글로벌-빅테크-줄줄이-승소-829739",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T17:15:42.812Z",
+    "updatedAt": "2026-05-07T17:15:42.812Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12039788",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12039788",
+    "titleFingerprint": "370c655cf25c91a13f94cc056e23813ad466387a",
+    "dedupKeys": [
+      "f24efaa19e200c93f0c5aff9aca79d28c8372087",
+      "370c655cf25c91a13f94cc056e23813ad466387a",
+      "91b051aef7dafaa659ad8f36ef59bc6d7765d45f"
+    ],
+    "imageUrl": "/images/articles/f24efaa19e20.jpg",
+    "i18n": {
+      "ko": {
+        "title": "구글코리아, 1500억 법인세 소송 2심도 승소…빅테크 과세 분쟁 주목",
+        "excerpt": "구글코리아가 7일 서울고법에서 역삼세무서장 등을 상대로 낸 1500억 원 규모 법인세 소송 2심에서도 승소하며 빅테크 과세 분쟁이 다시 주목받고 있다.",
+        "body": "구글코리아가 국내 과세당국과 벌인 1500억 원 규모 법인세 소송에서 1심에 이어 2심도 승소했다. 서울고법 행정9-1부는 7일 구글코리아가 역삼세무서장 등을 상대로 제기한 법인세 관련 소송에서 구글코리아 측 손을 들어줬다. 이번 판결은 넷플릭스와 메타가 국내 과세당국과의 법인세 소송에서 승소한 데 이어 나온 결정이다. 글로벌 빅테크 기업들이 잇달아 유사한 과세 분쟁에서 승소하면서 국내 과세당국과 다국적 플랫폼 기업 간 법인세 쟁점에 관심이 커지고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Google Korea Wins Appeal in 150 Billion Won Corporate Tax Case, Spotlighting Big Tech Disputes",
+        "excerpt": "Google Korea won its second trial on May 7 in a 150 billion won corporate tax lawsuit against Korean tax authorities, following similar wins by Netflix and Meta.",
+        "body": "Google Korea has won the second trial in a 150 billion won corporate tax lawsuit against South Korean tax authorities, following its first-trial victory. On May 7, the Seoul High Court Administrative Division 9-1 ruled in favor of Google Korea in a corporate tax case it filed against the head of the Yeoksam Tax Office and others. The decision follows victories by Netflix and Meta in corporate tax lawsuits against Korean tax authorities. As global big tech companies continue to prevail in similar tax disputes, attention is growing on corporate tax issues between Korean authorities and multinational platform firms. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "グーグルコリア、1500億ウォン法人税訴訟で二審も勝訴　ビッグテック課税に注目",
+        "excerpt": "グーグルコリアは7日、韓国課税当局との1500億ウォン規模の法人税訴訟の二審でも勝訴し、ビッグテック課税紛争が再び注目されている。",
+        "body": "グーグルコリアが韓国の課税当局と争った1500億ウォン規模の法人税訴訟で、一審に続き二審でも勝訴した。ソウル高裁行政9-1部は7日、グーグルコリアが駅三税務署長らを相手に起こした法人税関連訴訟で、グーグルコリア側の主張を認めた。今回の判決は、ネットフリックスとメタが韓国課税当局との法人税訴訟で勝訴した後に出たものだ。グローバルなビッグテック企業が同様の課税紛争で相次いで勝訴したことで、韓国課税当局と多国籍プラットフォーム企業の法人税問題に関心が集まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "谷歌韩国1500亿韩元法人税诉讼二审再胜诉，全球科技巨头税务争议受关注",
+        "excerpt": "谷歌韩国7日在首尔高等法院就1500亿韩元规模法人税诉讼二审胜诉，继奈飞和Meta之后，大型科技企业税务争议再受关注。",
+        "body": "谷歌韩国在与韩国税务机关围绕1500亿韩元规模法人税展开的诉讼中，继一审后在二审再次胜诉。首尔高等法院行政9-1部7日就谷歌韩国起诉驿三税务署长等的法人税相关案件作出判决，支持谷歌韩国一方。此次判决是在奈飞和Meta相继赢得与韩国税务机关的法人税诉讼之后作出的。随着全球大型科技企业在类似税务争议中接连胜诉，韩国税务机关与跨国平台企业之间的法人税问题正受到更多关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Google Korea gana en segunda instancia demanda fiscal de 150.000 millones de wones",
+        "excerpt": "Google Korea ganó el 7 de mayo en segunda instancia una demanda de impuesto corporativo por 150.000 millones de wones contra autoridades fiscales surcoreanas.",
+        "body": "Google Korea ganó también en segunda instancia una demanda de impuesto corporativo por 150.000 millones de wones contra las autoridades fiscales de Corea del Sur, tras imponerse en primera instancia. El 7 de mayo, la Sala Administrativa 9-1 del Tribunal Superior de Seúl falló a favor de Google Korea en el caso presentado contra el jefe de la oficina fiscal de Yeoksam y otros. La decisión llega después de que Netflix y Meta también ganaran demandas de impuesto corporativo frente a las autoridades fiscales coreanas. Con estas victorias sucesivas de grandes tecnológicas globales en disputas similares, aumenta la atención sobre los conflictos fiscales entre Corea del Sur y las plataformas multinacionales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Google Korea vence recurso em disputa fiscal de 150 bilhões de wones contra autoridades coreanas",
+        "excerpt": "A Google Korea venceu em 7 de maio a segunda instância de uma ação de imposto corporativo de 150 bilhões de wones contra autoridades fiscais da Coreia do Sul.",
+        "body": "A Google Korea venceu também em segunda instância uma ação de imposto corporativo de 150 bilhões de wones contra as autoridades fiscais da Coreia do Sul, após vitória na primeira instância. Em 7 de maio, a Divisão Administrativa 9-1 do Tribunal Superior de Seul decidiu a favor da Google Korea no processo movido contra o chefe da repartição fiscal de Yeoksam e outros. A decisão ocorre depois de Netflix e Meta também vencerem ações de imposto corporativo contra as autoridades coreanas. Com grandes empresas globais de tecnologia vencendo disputas fiscais semelhantes em sequência, cresce a atenção sobre as questões de imposto corporativo entre o fisco coreano e plataformas multinacionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Google Korea gewinnt Berufung in Körperschaftsteuerstreit über 150 Milliarden Won",
+        "excerpt": "Google Korea gewann am 7. Mai auch die zweite Instanz in einem Körperschaftsteuerverfahren über 150 Milliarden Won gegen südkoreanische Steuerbehörden.",
+        "body": "Google Korea hat nach dem erstinstanzlichen Erfolg auch die zweite Instanz in einem Körperschaftsteuerverfahren über 150 Milliarden Won gegen südkoreanische Steuerbehörden gewonnen. Die Verwaltungsabteilung 9-1 des Seoul High Court entschied am 7. Mai zugunsten von Google Korea in dem Verfahren gegen den Leiter des Finanzamts Yeoksam und weitere Beteiligte. Das Urteil folgt auf Siege von Netflix und Meta in Körperschaftsteuerprozessen gegen koreanische Steuerbehörden. Da globale Big-Tech-Unternehmen in ähnlichen Steuerstreitigkeiten nacheinander gewinnen, rücken Körperschaftsteuerfragen zwischen koreanischen Behörden und multinationalen Plattformunternehmen stärker in den Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Google Korea gagne en appel un litige fiscal de 150 milliards de wons, après Netflix et Meta",
+        "excerpt": "Google Korea a remporté le 7 mai en appel un procès d’impôt sur les sociétés de 150 milliards de wons contre les autorités fiscales sud-coréennes.",
+        "body": "Google Korea a remporté en deuxième instance un procès d’impôt sur les sociétés de 150 milliards de wons contre les autorités fiscales sud-coréennes, après avoir déjà gagné en première instance. Le 7 mai, la division administrative 9-1 de la Haute Cour de Séoul a statué en faveur de Google Korea dans l’affaire engagée contre le chef du bureau fiscal de Yeoksam et d’autres parties. Cette décision intervient après les victoires de Netflix et de Meta dans des litiges d’impôt sur les sociétés contre les autorités coréennes. Alors que les grands groupes technologiques mondiaux gagnent successivement des contentieux fiscaux similaires, les questions d’impôt sur les sociétés entre le fisc coréen et les plateformes multinationales attirent davantage l’attention. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "غوغل كوريا تكسب استئناف نزاع ضريبي بقيمة 150 مليار وون بعد انتصارات شركات التقنية",
+        "excerpt": "كسبت غوغل كوريا في 7 مايو حكم الدرجة الثانية في دعوى ضريبة شركات بقيمة 150 مليار وون ضد سلطات الضرائب الكورية، بعد قضيتي نتفليكس وميتا.",
+        "body": "كسبت غوغل كوريا حكم الدرجة الثانية في دعوى ضريبة شركات بقيمة 150 مليار وون ضد سلطات الضرائب في كوريا الجنوبية، بعد أن فازت في الدرجة الأولى. وفي 7 مايو، قضت الدائرة الإدارية 9-1 في محكمة سول العليا لصالح غوغل كوريا في الدعوى التي رفعتها ضد رئيس مكتب ضرائب يوكسام وآخرين. وجاء هذا الحكم بعد فوز نتفليكس وميتا في دعاوى ضريبة شركات ضد سلطات الضرائب الكورية. ومع توالي انتصارات شركات التقنية العالمية الكبرى في نزاعات ضريبية مشابهة، يتزايد الاهتمام بقضايا ضريبة الشركات بين السلطات الكورية وشركات المنصات متعددة الجنسيات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Google Korea को 150 अरब वॉन कर मामले में अपील में भी जीत, बिग टेक विवाद फिर चर्चा में",
+        "excerpt": "Google Korea ने 7 मई को दक्षिण कोरियाई कर अधिकारियों के खिलाफ 150 अरब वॉन के कॉरपोरेट टैक्स मुकदमे की दूसरी सुनवाई में भी जीत हासिल की।",
+        "body": "Google Korea ने दक्षिण कोरियाई कर अधिकारियों के साथ 150 अरब वॉन के कॉरपोरेट टैक्स मुकदमे में पहली सुनवाई के बाद दूसरी सुनवाई में भी जीत हासिल की। 7 मई को Seoul High Court की Administrative Division 9-1 ने Yeoksam Tax Office के प्रमुख आदि के खिलाफ Google Korea द्वारा दायर कॉरपोरेट टैक्स मामले में Google Korea के पक्ष में फैसला दिया। यह फैसला Netflix और Meta के कोरियाई कर अधिकारियों के खिलाफ कॉरपोरेट टैक्स मुकदमों में जीत के बाद आया है। वैश्विक बिग टेक कंपनियों की समान कर विवादों में लगातार जीत से कोरियाई कर अधिकारियों और बहुराष्ट्रीय प्लेटफॉर्म कंपनियों के बीच कॉरपोरेट टैक्स मुद्दों पर ध्यान बढ़ रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Google Korea Menang Banding Sengketa Pajak 150 Miliar Won, Setelah Netflix dan Meta",
+        "excerpt": "Google Korea pada 7 Mei menang di tingkat kedua dalam gugatan pajak korporasi senilai 150 miliar won melawan otoritas pajak Korea Selatan.",
+        "body": "Google Korea kembali menang di tingkat kedua dalam gugatan pajak korporasi senilai 150 miliar won melawan otoritas pajak Korea Selatan, setelah sebelumnya menang di tingkat pertama. Pada 7 Mei, Divisi Administratif 9-1 Pengadilan Tinggi Seoul memutuskan mendukung Google Korea dalam perkara pajak korporasi yang diajukan terhadap kepala Kantor Pajak Yeoksam dan pihak lainnya. Putusan ini menyusul kemenangan Netflix dan Meta dalam gugatan pajak korporasi melawan otoritas pajak Korea. Dengan kemenangan beruntun perusahaan teknologi global dalam sengketa pajak serupa, perhatian terhadap isu pajak korporasi antara otoritas Korea dan perusahaan platform multinasional semakin meningkat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2dae39924a41",
+    "slug": "강북-300만원-월세-급증강남의-2배-속도로-많아져-957672",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T17:14:47.130Z",
+    "updatedAt": "2026-05-07T17:14:47.130Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039858",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039858",
+    "titleFingerprint": "b8d1f0925255e5b31b3e703355aaf2f3319550e4",
+    "dedupKeys": [
+      "2dae39924a41111f1e6631434d5f3963dc341076",
+      "b8d1f0925255e5b31b3e703355aaf2f3319550e4",
+      "0c31160aed38690234e6298f65eb18c565f2b233"
+    ],
+    "imageUrl": "/images/articles/2dae39924a41.jpg",
+    "i18n": {
+      "ko": {
+        "title": "강북 300만원 월세 급증, 강남보다 2배 빠른 확산세",
+        "excerpt": "서울 아파트 전세가격 상승률이 10여 년 만에 최고 수준을 기록한 가운데, 올해 1분기 강북의 300만원 이상 고액 월세가 53% 늘며 동대문·성북·은평으로 확산됐다.",
+        "body": "서울 아파트 전세가격 상승률이 10여 년 만에 최고치를 기록한 가운데, 강북권에서 월 300만원 이상 고액 월세가 빠르게 늘고 있다. 원문에 따르면 올해 1분기 강북의 고액 월세는 53% 증가했으며, 증가 속도는 강남의 2배 수준으로 나타났다. 고액 월세 지역은 기존 중심지를 넘어 동대문·성북·은평 등으로 확산되는 흐름을 보였다. 전세가격 상승이 월세 시장에도 영향을 주면서 강북 주거비 부담이 커지는 양상이다. 관련 내용은 mk.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "Gangbuk Rents Over 3 Million Won Surge, Spreading Twice as Fast as Gangnam",
+        "excerpt": "As Seoul apartment jeonse prices posted their steepest weekly rise in about a decade, high monthly rents above 3 million won in Gangbuk jumped 53% in Q1 and spread to Dongdaemun, Seongbuk and Eunpyeong.",
+        "body": "Seoul’s apartment jeonse price growth has reached its highest level in more than 10 years, while high monthly rents in Gangbuk are rising quickly. According to the source article, monthly rents of 3 million won or more in Gangbuk increased 53% in the first quarter, expanding at roughly twice the pace seen in Gangnam. The trend is spreading beyond existing areas to Dongdaemun, Seongbuk and Eunpyeong. As higher jeonse prices affect the rental market, housing cost pressure in northern Seoul is increasing. This report cites mk.co.kr."
+      },
+      "ja": {
+        "title": "江北で300万ウォン月家賃が急増、江南の2倍ペースで拡大",
+        "excerpt": "ソウルのマンション週間チョンセ価格上昇率が約10年ぶりの高水準となる中、今年1四半期に江北の300万ウォン以上の高額月家賃が53%増え、東大門・城北・恩平へ広がった。",
+        "body": "ソウルのマンションのチョンセ価格上昇率が10年以上ぶりの高水準を記録する中、江北圏で月300万ウォン以上の高額家賃が急増している。原文によると、今年1四半期の江北の高額月家賃は53%増加し、その増加ペースは江南の約2倍だった。高額月家賃の地域は既存の中心地を越え、東大門・城北・恩平などへ拡大している。チョンセ価格の上昇が月家賃市場にも影響し、江北の住居費負担が強まっている。内容はmk.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "江北300万韩元月租激增，扩散速度为江南两倍",
+        "excerpt": "首尔公寓每周全租价格涨幅创约10年来最高之际，今年一季度江北300万韩元以上高价月租增长53%，并扩散至东大门、城北、恩平。",
+        "body": "在首尔公寓全租价格周涨幅创10多年来最高水平的背景下，江北地区月租300万韩元以上的高价月租正在快速增加。原文称，今年第一季度江北高价月租增长53%，增速约为江南的两倍。高价月租区域也从既有中心地带扩散至东大门、城北、恩平等地。随着全租价格上涨影响月租市场，首尔江北的居住成本压力正在加大。本文引用mk.co.kr报道。"
+      },
+      "es": {
+        "title": "Alquileres de 3 millones de wones suben en Gangbuk al doble del ritmo de Gangnam",
+        "excerpt": "Mientras el alza semanal del jeonse de apartamentos en Seúl llegó a su mayor nivel en unos 10 años, los alquileres mensuales altos en Gangbuk crecieron 53% en el primer trimestre y se extendieron a Dongdaemun, Seongbuk y Eunpyeong.",
+        "body": "El aumento semanal de los precios jeonse de apartamentos en Seúl alcanzó su nivel más alto en más de una década, mientras los alquileres mensuales elevados crecen con rapidez en Gangbuk. Según el texto original, los alquileres de 3 millones de wones o más en esa zona subieron 53% en el primer trimestre, a un ritmo aproximadamente dos veces mayor que en Gangnam. La tendencia se está extendiendo a Dongdaemun, Seongbuk y Eunpyeong. El avance del jeonse también afecta al mercado de alquiler mensual y eleva la presión sobre el costo de vivienda en el norte de Seúl. Se cita a mk.co.kr."
+      },
+      "pt": {
+        "title": "Aluguéis de 3 milhões de wons disparam em Gangbuk, ao dobro do ritmo de Gangnam",
+        "excerpt": "Com a maior alta semanal do jeonse de apartamentos em Seul em cerca de 10 anos, aluguéis mensais acima de 3 milhões de wons em Gangbuk cresceram 53% no 1º trimestre e avançaram para Dongdaemun, Seongbuk e Eunpyeong.",
+        "body": "A taxa semanal de alta dos preços de jeonse de apartamentos em Seul atingiu o maior nível em mais de uma década, enquanto aluguéis mensais elevados avançam rapidamente em Gangbuk. Segundo o texto original, os aluguéis de 3 milhões de wons ou mais na região cresceram 53% no primeiro trimestre, cerca de duas vezes o ritmo observado em Gangnam. A expansão chegou a áreas como Dongdaemun, Seongbuk e Eunpyeong. Com a alta do jeonse afetando também o mercado de aluguel mensal, aumenta a pressão sobre os custos de moradia no norte de Seul. A informação cita mk.co.kr."
+      },
+      "de": {
+        "title": "Gangbuk-Mieten über 3 Millionen Won steigen doppelt so schnell wie in Gangnam",
+        "excerpt": "Während Seouls wöchentlicher Jeonse-Anstieg bei Wohnungen den höchsten Stand seit rund zehn Jahren erreichte, legten hohe Monatsmieten über 3 Millionen Won in Gangbuk im ersten Quartal um 53% zu.",
+        "body": "Der wöchentliche Anstieg der Jeonse-Preise für Wohnungen in Seoul hat den höchsten Stand seit mehr als zehn Jahren erreicht. Gleichzeitig nehmen hohe Monatsmieten in Gangbuk rasch zu. Laut Ausgangstext stiegen Mieten von 3 Millionen Won oder mehr im ersten Quartal um 53% und damit etwa doppelt so schnell wie in Gangnam. Die Entwicklung breitet sich auf Dongdaemun, Seongbuk und Eunpyeong aus. Da steigende Jeonse-Preise auch den Monatsmietmarkt beeinflussen, wächst der Wohnkostendruck im Norden Seouls. Der Bericht zitiert mk.co.kr."
+      },
+      "fr": {
+        "title": "À Gangbuk, les loyers de 3 millions de wons bondissent deux fois plus vite qu’à Gangnam",
+        "excerpt": "Alors que la hausse hebdomadaire du jeonse des appartements à Séoul atteint un sommet d’environ dix ans, les loyers mensuels élevés à Gangbuk ont augmenté de 53% au premier trimestre.",
+        "body": "La hausse hebdomadaire des prix du jeonse pour les appartements à Séoul a atteint son plus haut niveau depuis plus de dix ans, tandis que les loyers mensuels élevés progressent rapidement à Gangbuk. Selon le texte original, les loyers de 3 millions de wons ou plus y ont augmenté de 53% au premier trimestre, soit environ deux fois le rythme observé à Gangnam. Le phénomène s’étend à Dongdaemun, Seongbuk et Eunpyeong. La montée du jeonse affecte aussi le marché des loyers mensuels, renforçant la pression sur le coût du logement dans le nord de Séoul. Information citée de mk.co.kr."
+      },
+      "ar": {
+        "title": "إيجارات غانغبوك فوق 3 ملايين وون تقفز بوتيرة تعادل ضعفي غانغنام",
+        "excerpt": "مع تسجيل ارتفاع أسعار الجونسِه الأسبوعية للشقق في سيول أعلى مستوى منذ نحو 10 سنوات، زادت الإيجارات الشهرية المرتفعة في غانغبوك 53% في الربع الأول وامتدت إلى دونغديمون وسونغبوك وأونبيونغ.",
+        "body": "سجلت أسعار الجونسِه الأسبوعية للشقق في سيول أعلى وتيرة ارتفاع منذ أكثر من 10 سنوات، في وقت تتزايد فيه الإيجارات الشهرية المرتفعة بسرعة في غانغبوك. وبحسب النص الأصلي، ارتفعت الإيجارات الشهرية البالغة 3 ملايين وون أو أكثر في غانغبوك بنسبة 53% خلال الربع الأول، وهي وتيرة تقارب ضعفي غانغنام. وامتد هذا الاتجاه إلى مناطق مثل دونغديمون وسونغبوك وأونبيونغ. ومع تأثير ارتفاع الجونسِه في سوق الإيجار الشهري، تتزايد ضغوط تكلفة السكن في شمال سيول. يستند التقرير إلى mk.co.kr."
+      },
+      "hi": {
+        "title": "गांगबुक में 30 लाख वॉन किराए तेज, गांगनाम से दोगुनी रफ्तार",
+        "excerpt": "सियोल अपार्टमेंट जोंसे कीमतों की साप्ताहिक वृद्धि करीब 10 साल के उच्च स्तर पर पहुंची, जबकि गांगबुक में 30 लाख वॉन से ऊपर मासिक किराए पहली तिमाही में 53% बढ़े और डोंगडेमुन, सोंगबुक, उनप्योंग तक फैले।",
+        "body": "सियोल में अपार्टमेंट जोंसे कीमतों की साप्ताहिक वृद्धि 10 साल से अधिक समय के उच्चतम स्तर पर पहुंच गई है, और गांगबुक क्षेत्र में 30 लाख वॉन या उससे अधिक के मासिक किराए तेजी से बढ़ रहे हैं। मूल खबर के अनुसार, इस वर्ष पहली तिमाही में गांगबुक के उच्च मासिक किराए 53% बढ़े, जिसकी रफ्तार गांगनाम की तुलना में लगभग दोगुनी रही। यह प्रवृत्ति डोंगडेमुन, सोंगबुक और उनप्योंग जैसे क्षेत्रों तक फैल रही है। जोंसे कीमतों की बढ़ोतरी मासिक किराया बाजार को भी प्रभावित कर रही है, जिससे उत्तरी सियोल में आवास लागत का बोझ बढ़ रहा है। यह विवरण mk.co.kr के हवाले से है।"
+      },
+      "id": {
+        "title": "Sewa 3 Juta Won di Gangbuk Melonjak, Dua Kali Lebih Cepat dari Gangnam",
+        "excerpt": "Saat kenaikan mingguan harga jeonse apartemen Seoul mencapai level tertinggi sekitar 10 tahun, sewa bulanan tinggi di Gangbuk naik 53% pada kuartal I dan menyebar ke Dongdaemun, Seongbuk, serta Eunpyeong.",
+        "body": "Kenaikan mingguan harga jeonse apartemen di Seoul mencapai level tertinggi dalam lebih dari 10 tahun, sementara sewa bulanan tinggi di Gangbuk meningkat cepat. Menurut teks sumber, sewa bulanan 3 juta won atau lebih di Gangbuk naik 53% pada kuartal pertama, dengan laju sekitar dua kali Gangnam. Tren ini meluas ke Dongdaemun, Seongbuk, dan Eunpyeong. Kenaikan harga jeonse turut memengaruhi pasar sewa bulanan, sehingga tekanan biaya hunian di Seoul bagian utara meningkat. Laporan ini mengutip mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "83f14c5ca4e5",
+    "slug": "만나서-결제할게요수시로-배달-먹튀-하던-20대-신원-확인하니-맙소사-520606",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T17:13:41.509Z",
+    "updatedAt": "2026-05-07T17:13:41.509Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12039933",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12039933",
+    "titleFingerprint": "a0d24b0a47af70763305da807946a460cddf7ecd",
+    "dedupKeys": [
+      "83f14c5ca4e5a3c23ca5aadb97311da1fbc58a63",
+      "a0d24b0a47af70763305da807946a460cddf7ecd",
+      "8f4664f5713f5a706a8cda61bb917cd6208919bf"
+    ],
+    "imageUrl": "/images/articles/83f14c5ca4e5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "화성 병점구 배달 먹튀 20대 검거, 신원 확인하니 벌금 수배자였다",
+        "excerpt": "경기 화성시 병점구에서 벌금을 내지 않아 수배 중이던 20대 A씨가 ‘만나서 결제하겠다’며 배달 음식을 먹고 결제하지 않은 혐의로 경찰 조사를 받고 있다.",
+        "body": "경기 화성시 병점구에서 벌금 미납으로 수배가 내려졌던 20대 A씨가 배달 음식을 주문한 뒤 결제하지 않는 이른바 ‘배달 먹튀’를 하다 경찰에 붙잡혔다. 화성동탄경찰서는 7일 A씨를 사기 등 혐의로 조사하고 있다고 밝혔다. A씨는 ‘만나서 결제하겠다’는 방식으로 배달 음식을 받은 뒤 대금을 치르지 않은 혐의를 받고 있다. 경찰은 A씨의 신원을 확인하는 과정에서 벌금을 내지 않아 수배 중인 사실도 확인했다. 이번 사건은 비대면·현장 결제 배달 거래에서 신원 확인과 결제 관리의 중요성을 다시 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hwaseong Delivery Dine-and-Dash Suspect Was Already Wanted Over Unpaid Fine",
+        "excerpt": "A man in his 20s in Byeongjeom-gu, Hwaseong, Gyeonggi Province, is under police investigation after allegedly taking delivered food without paying while already wanted for an unpaid fine.",
+        "body": "A man in his 20s who was wanted for failing to pay a fine was caught in Byeongjeom-gu, Hwaseong, Gyeonggi Province, while allegedly committing a delivery dine-and-dash. Hwaseong Dongtan Police said on the 7th that they are investigating the man, identified only as A, on fraud-related allegations. A is accused of receiving delivered food after saying he would pay in person, then not paying for it. During the identity check, police also confirmed that he had been wanted because he had not paid a fine. The case highlights the importance of identity checks and payment management in delivery transactions involving in-person payment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "華城・餅店区の配達無銭飲食、20代を摘発　身元確認で罰金未納の手配者と判明",
+        "excerpt": "京畿道華城市餅店区で、罰金を納めず手配されていた20代のA氏が、配達料理を受け取って代金を払わなかった疑いで警察の調べを受けている。",
+        "body": "京畿道華城市餅店区で、罰金未納により手配されていた20代のA氏が、配達料理を注文した後に代金を支払わない、いわゆる配達の無銭飲食をしていたところ警察に摘発された。華城東灘警察署は7日、A氏を詐欺などの疑いで調べていると明らかにした。A氏は「会って支払う」として配達料理を受け取った後、代金を払わなかった疑いが持たれている。警察は身元確認の過程で、A氏が罰金を納めず手配中だった事実も確認した。今回の事件は、対面決済を伴う配達取引で身元確認と決済管理が重要であることを改めて示した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "华城饼店区外卖逃单20多岁男子落网，核查身份发现其因未缴罚金被通缉",
+        "excerpt": "韩国京畿道华城市饼店区一名20多岁A某涉嫌以“见面付款”为由收取外卖后不付款，警方核查发现其还因未缴罚金被通缉。",
+        "body": "韩国京畿道华城市饼店区一名因未缴罚金而被通缉的20多岁男子A某，在涉嫌点外卖后不付款的“外卖逃单”过程中被警方抓获。华城东滩警察署7日表示，正在以诈骗等嫌疑调查A某。A某涉嫌以“见面后付款”的方式收取外卖食品后，没有支付相应费用。警方在确认其身份的过程中，还发现他因未缴纳罚金而处于被通缉状态。此案再次显示，在涉及现场付款的外卖交易中，身份确认和付款管理具有重要性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Detenido en Hwaseong por no pagar comida a domicilio; ya era buscado por una multa impaga",
+        "excerpt": "Un hombre de unos 20 años en Byeongjeom-gu, Hwaseong, está bajo investigación por presuntamente recibir comida a domicilio sin pagar mientras era buscado por no abonar una multa.",
+        "body": "Un hombre de unos 20 años que estaba buscado por no pagar una multa fue detenido en Byeongjeom-gu, Hwaseong, provincia de Gyeonggi, mientras presuntamente cometía un impago de comida a domicilio. La Policía de Hwaseong Dongtan informó el día 7 que investiga al hombre, identificado como A, por cargos como fraude. A está acusado de recibir comida tras decir que pagaría al encontrarse con el repartidor y luego no abonar el importe. Durante la verificación de identidad, la policía también confirmó que tenía una orden de búsqueda por la multa impaga. El caso subraya la importancia de verificar identidades y gestionar pagos en entregas con pago presencial. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Suspeito de golpe em delivery em Hwaseong já era procurado por multa não paga",
+        "excerpt": "Um homem na casa dos 20 anos em Byeongjeom-gu, Hwaseong, é investigado por receber comida por delivery sem pagar enquanto já era procurado por não quitar uma multa.",
+        "body": "Um homem na casa dos 20 anos, procurado por não pagar uma multa, foi detido em Byeongjeom-gu, Hwaseong, na província de Gyeonggi, enquanto supostamente aplicava um golpe em pedido de delivery. A Polícia de Hwaseong Dongtan informou no dia 7 que investiga o homem, identificado apenas como A, por suspeitas incluindo fraude. A é acusado de receber comida entregue após dizer que pagaria pessoalmente e, em seguida, não quitar o valor. Durante a checagem de identidade, a polícia também confirmou que ele era procurado por causa da multa não paga. O caso mostra novamente a importância da verificação de identidade e do controle de pagamento em entregas com pagamento presencial. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lieferessen nicht bezahlt: Mann in Hwaseong war bereits wegen unbezahlter Geldstrafe gesucht",
+        "excerpt": "Ein Mann in den Zwanzigern aus Byeongjeom-gu in Hwaseong wird untersucht, weil er Lieferessen erhalten und nicht bezahlt haben soll; er war bereits wegen einer unbezahlten Geldstrafe gesucht.",
+        "body": "Ein Mann in den Zwanzigern, der wegen einer nicht bezahlten Geldstrafe gesucht wurde, ist in Byeongjeom-gu in Hwaseong, Provinz Gyeonggi, nach einem mutmasslichen Betrug bei einer Essenslieferung gefasst worden. Die Polizei Hwaseong Dongtan teilte am 7. mit, dass sie den nur als A bezeichneten Mann wegen Verdachts auf Betrug und weiterer Vorwürfe untersucht. A soll Lieferessen erhalten haben, nachdem er angekündigt hatte, persönlich zu bezahlen, und den Betrag anschliessend nicht beglichen haben. Bei der Identitätsprüfung stellte die Polizei zudem fest, dass er wegen der unbezahlten Geldstrafe gesucht wurde. Der Fall zeigt die Bedeutung von Identitätsprüfung und Zahlungsmanagement bei Lieferungen mit Bar- oder Vor-Ort-Zahlung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "À Hwaseong, un suspect de repas livré non payé était déjà recherché pour une amende impayée",
+        "excerpt": "Un homme d’une vingtaine d’années à Byeongjeom-gu, Hwaseong, est visé par une enquête pour avoir reçu des repas livrés sans payer alors qu’il était déjà recherché pour une amende impayée.",
+        "body": "Un homme d’une vingtaine d’années, recherché pour ne pas avoir payé une amende, a été interpellé à Byeongjeom-gu, Hwaseong, dans la province de Gyeonggi, alors qu’il aurait commis un impayé de livraison alimentaire. La police de Hwaseong Dongtan a indiqué le 7 qu’elle enquêtait sur l’homme, identifié seulement comme A, pour des soupçons notamment de fraude. A est accusé d’avoir reçu des repas livrés après avoir dit qu’il paierait en personne, puis de ne pas avoir réglé la somme due. Lors du contrôle d’identité, la police a aussi confirmé qu’il était recherché en raison de l’amende non payée. L’affaire rappelle l’importance des contrôles d’identité et de la gestion des paiements dans les livraisons avec paiement sur place. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مشتبه به في عدم دفع ثمن طلبات توصيل بهواسونغ كان مطلوبا بسبب غرامة غير مسددة",
+        "excerpt": "تحقق شرطة هواسونغ دونغتان مع شاب في العشرينات من بيونغجيوم غو للاشتباه في تسلمه طعاما عبر التوصيل دون دفع ثمنه، بينما كان مطلوبا بسبب عدم سداد غرامة.",
+        "body": "ألقت الشرطة في بيونغجيوم غو بمدينة هواسونغ في مقاطعة غيونغي القبض على شاب في العشرينات كان مطلوبا لعدم دفع غرامة، وذلك أثناء الاشتباه في تنفيذه ما يعرف بعدم دفع ثمن طلب توصيل. وقالت شرطة هواسونغ دونغتان في اليوم السابع إنها تحقق مع الشخص، المشار إليه باسم A، بتهم تشمل الاحتيال. ويشتبه في أن A تسلم طعاما عبر التوصيل بعد أن قال إنه سيدفع عند اللقاء، ثم لم يسدد المبلغ. وخلال التحقق من هويته، أكدت الشرطة أيضا أنه كان مطلوبا بسبب عدم دفع الغرامة. وتبرز القضية أهمية التحقق من الهوية وإدارة الدفع في معاملات التوصيل التي تعتمد على الدفع عند الاستلام. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ह्वासोंग में डिलीवरी खाना लेकर भुगतान न करने वाला युवक अवैतनिक जुर्माने में वांछित निकला",
+        "excerpt": "ग्योंगगी प्रांत के ह्वासोंग शहर के ब्योंगजेम-गु में 20 के दशक का A नामक युवक डिलीवरी खाना लेकर भुगतान न करने के आरोप में जांच के दायरे में है; वह जुर्माना न भरने पर पहले से वांछित था।",
+        "body": "ग्योंगगी प्रांत के ह्वासोंग शहर के ब्योंगजेम-गु में जुर्माना न भरने के कारण वांछित 20 के दशक का A नामक युवक कथित तौर पर डिलीवरी खाना लेकर भुगतान न करने के मामले में पकड़ा गया। ह्वासोंग डोंगतान पुलिस ने 7 तारीख को बताया कि वह A से धोखाधड़ी आदि के आरोपों में पूछताछ कर रही है। A पर आरोप है कि उसने ‘मिलकर भुगतान करूंगा’ कहकर डिलीवरी खाना प्राप्त किया और बाद में उसका पैसा नहीं चुकाया। पहचान सत्यापन के दौरान पुलिस ने यह भी पुष्टि की कि वह जुर्माना न भरने के कारण वांछित था। यह मामला आमने-सामने भुगतान वाली डिलीवरी लेनदेन में पहचान जांच और भुगतान प्रबंधन के महत्व को फिर दिखाता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pelaku Pesanan Makanan Tanpa Bayar di Hwaseong Ternyata Buron Denda Belum Dibayar",
+        "excerpt": "Seorang pria usia 20-an di Byeongjeom-gu, Hwaseong, sedang diselidiki karena diduga menerima makanan pesan antar tanpa membayar saat sudah masuk daftar pencarian akibat denda yang belum dibayar.",
+        "body": "Seorang pria usia 20-an yang masuk daftar pencarian karena tidak membayar denda ditangkap di Byeongjeom-gu, Hwaseong, Provinsi Gyeonggi, saat diduga melakukan aksi menerima pesanan makanan tanpa membayar. Kepolisian Hwaseong Dongtan pada tanggal 7 menyatakan sedang menyelidiki pria yang disebut A itu atas dugaan termasuk penipuan. A diduga menerima makanan pesan antar setelah mengatakan akan membayar saat bertemu, lalu tidak melunasi biayanya. Dalam proses pemeriksaan identitas, polisi juga memastikan bahwa ia telah dicari karena tidak membayar denda. Kasus ini kembali menunjukkan pentingnya verifikasi identitas dan pengelolaan pembayaran dalam transaksi pesan antar dengan pembayaran langsung. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "78c9930b9625",
     "slug": "삼정kpmg영림원소프트랩-회계감사-환경-개선-mou-435259",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Kang Min-kyung Jelaskan Dugaan Rekayasa Vlog ‘Perjalanan Sunyi ke Shanghai’",
         "excerpt": "Anggota Davichi, Kang Min-kyung, menanggapi langsung kesalahpahaman dan dugaan rekayasa terkait vlog YouTube terbarunya, “Perjalanan Sunyi ke Shanghai Setelah 36 Tahun”.",
         "body": "Kang Min-kyung, anggota duo perempuan Davichi, secara langsung menjelaskan kesalahpahaman seputar vlog “Perjalanan Sunyi ke Shanghai Setelah 36 Tahun” yang baru-baru ini diunggah di kanal YouTube miliknya, “Gyang Ming Kyung”. Video tersebut diperkenalkan sebagai konten yang menampilkan perjalanan seorang diri ke Shanghai, sesuai dengan judulnya. Namun setelah tayang, sebagian penonton memunculkan dugaan bahwa video itu direkayasa atau diatur, sehingga menimbulkan perdebatan. Kang kemudian menjelaskan penafsiran atas video dan konsep perjalanan tersebut. Kasus ini menarik perhatian karena berkaitan dengan reaksi penonton terhadap konten YouTube pribadi selebritas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "15c219c02fa7",
-    "slug": "외국인-자금-밀물이젠-해외-개미들이-k주식-직구-927715",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T23:30:17.976Z",
-    "updatedAt": "2026-05-06T23:30:17.976Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038719",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038719",
-    "titleFingerprint": "0786e2de66c2fccef56f3eb84b7076566f71311e",
-    "dedupKeys": [
-      "15c219c02fa701916731d5788e81048a172701cd",
-      "0786e2de66c2fccef56f3eb84b7076566f71311e",
-      "e6ad8e99c6f85569297dadcc77f77f728c232b87"
-    ],
-    "imageUrl": "/images/articles/15c219c02fa7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "외국인 자금 유입 확대, 해외 개인투자자 K주식 직구 길 넓어진다",
-        "excerpt": "코스피 사상 최고치 흐름을 이끄는 외국인 자금 유입 속에 한국 증시 진입장벽을 낮추는 외국인 통합계좌 서비스 확대가 추진되며 추가 투자금 유입 기대가 커지고 있다.",
-        "body": "외국인 자금이 코스피 사상 최고치 행진을 이끄는 가운데, 해외 개인투자자들이 한국 주식을 직접 사는 ‘K주식 직구’ 환경이 넓어지고 있다. 한국 증시 진입장벽을 낮추기 위한 외국인 통합계좌 서비스 확대가 핵심이다. 이 서비스가 확대되면 외국인 개인투자자의 국내 주식 접근성이 개선되고, 해외 투자금이 추가로 유입될 수 있다는 기대가 나온다. 관련 기대감은 증권업종 주가에도 반영돼 증권업 주가가 일제히 급등 랠리를 보였다. 외국인 수급이 국내 증시 상승 동력으로 부각되는 상황에서 제도 개선 효과가 얼마나 이어질지가 관건이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Foreign Inflows Rise as Overseas Retail Investors Gain Easier Access to Korean Stocks",
-        "excerpt": "As foreign capital helps drive the Kospi to record highs, expanded omnibus account services aim to lower entry barriers to Korea’s stock market and raise hopes for more overseas investment.",
-        "body": "As foreign capital continues to support the Kospi’s run to record highs, overseas retail investors are gaining a wider route to buy Korean stocks directly. The key measure is the expansion of foreign omnibus account services designed to lower barriers to entering Korea’s stock market. If the service is broadened, access to domestic equities for foreign individual investors could improve, raising expectations for additional overseas fund inflows. That optimism has also been reflected in brokerage shares, with stocks across the securities sector staging a sharp rally. With foreign buying emerging as a major driver of the Korean market, attention is on how far the impact of the system improvement can continue. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "外国人資金流入拡大、海外個人投資家の韓国株直接投資が広がる",
-        "excerpt": "外国人資金がKOSPIの過去最高値更新を支えるなか、韓国株市場への参入障壁を下げる外国人統合口座サービス拡大で追加資金流入への期待が高まっている。",
-        "body": "外国人資金がKOSPIの過去最高値更新をけん引するなか、海外の個人投資家が韓国株を直接購入する「K株直買い」の環境が広がっている。焦点は、韓国株市場への参入障壁を下げるための外国人統合口座サービスの拡大だ。このサービスが広がれば、外国人個人投資家の韓国国内株式へのアクセスが改善し、海外投資資金の追加流入につながるとの期待が出ている。こうした期待は証券業株にも反映され、証券業種の株価は一斉に急騰した。外国人需給が韓国株式市場の上昇動力として注目されるなか、制度改善の効果がどこまで続くかが焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "外资流入扩大，海外个人投资者直买韩国股票通道拓宽",
-        "excerpt": "在外资推动KOSPI屡创新高之际，韩国扩大外国人综合账户服务以降低入市门槛，市场对海外资金进一步流入的期待升温。",
-        "body": "随着外资推动KOSPI持续刷新历史高点，海外个人投资者直接购买韩国股票的环境正在扩大。核心在于扩大外国人综合账户服务，以降低进入韩国股市的门槛。若该服务进一步扩展，外国个人投资者进入韩国国内股票市场的便利性有望改善，市场也因此期待海外投资资金追加流入。相关预期已反映在证券行业股价上，证券类股票集体出现急涨行情。在外资供需被视为韩国股市上涨动力的背景下，制度改善效果能持续多久成为关注焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Aumentan los flujos extranjeros y se abre más el acceso directo a acciones coreanas",
-        "excerpt": "Mientras el capital extranjero impulsa al Kospi a máximos históricos, la ampliación de cuentas integradas para extranjeros busca reducir barreras y aumenta la expectativa de nuevas entradas de inversión.",
-        "body": "Mientras el capital extranjero sostiene la racha de máximos históricos del Kospi, los inversionistas minoristas del exterior están encontrando un camino más amplio para comprar acciones coreanas directamente. La medida clave es la ampliación del servicio de cuentas integradas para extranjeros, diseñado para reducir las barreras de entrada al mercado bursátil de Corea. Si el servicio se expande, podría mejorar el acceso de los inversionistas individuales extranjeros a las acciones locales y elevar las expectativas de nuevas entradas de fondos del exterior. Ese optimismo también se reflejó en las acciones de las casas de bolsa, que registraron un fuerte repunte generalizado. Con los flujos extranjeros como motor del mercado coreano, la atención se centra en la duración del efecto de esta mejora del sistema. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Entrada de capital estrangeiro cresce e amplia acesso direto a ações coreanas",
-        "excerpt": "Com o capital estrangeiro impulsionando o Kospi a máximas históricas, a expansão de contas integradas para estrangeiros busca reduzir barreiras e aumenta a expectativa de novos recursos externos.",
-        "body": "Enquanto o capital estrangeiro sustenta a sequência de máximas históricas do Kospi, investidores individuais no exterior ganham um caminho mais amplo para comprar ações coreanas diretamente. O ponto central é a expansão do serviço de contas integradas para estrangeiros, voltado a reduzir as barreiras de entrada no mercado acionário da Coreia. Com a ampliação do serviço, o acesso de investidores estrangeiros individuais às ações locais pode melhorar, elevando a expectativa de entrada adicional de recursos externos. Esse otimismo também apareceu nas ações do setor de corretoras, que registraram forte alta generalizada. Com o fluxo estrangeiro em destaque como força de alta da bolsa coreana, o foco está na continuidade do efeito da melhoria institucional. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Ausländische Zuflüsse wachsen, direkter Zugang zu koreanischen Aktien wird leichter",
-        "excerpt": "Während ausländisches Kapital den Kospi auf Rekordhöhen treibt, soll der Ausbau integrierter Konten für Ausländer Markthürden senken und Erwartungen auf weitere Zuflüsse stärken.",
-        "body": "Während ausländisches Kapital den Kospi weiter auf historische Höchststände treibt, erweitert sich für private Anleger im Ausland der direkte Zugang zu koreanischen Aktien. Im Mittelpunkt steht der Ausbau integrierter Kontodienste für Ausländer, mit dem die Eintrittsbarrieren zum koreanischen Aktienmarkt gesenkt werden sollen. Wird der Dienst ausgeweitet, könnte sich der Zugang ausländischer Privatanleger zu inländischen Aktien verbessern, was Erwartungen auf zusätzliche Kapitalzuflüsse aus dem Ausland weckt. Diese Hoffnung spiegelte sich auch in Aktien von Wertpapierfirmen wider, die branchenweit kräftig zulegten. Da ausländische Nachfrage als wichtiger Treiber des koreanischen Marktes gilt, richtet sich der Blick nun darauf, wie lange die Wirkung der Systemverbesserung anhält. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les capitaux étrangers affluent et l’accès direct aux actions coréennes s’élargit",
-        "excerpt": "Alors que les capitaux étrangers portent le Kospi vers des records, l’élargissement des comptes intégrés pour étrangers vise à réduire les barrières et nourrit l’espoir de nouveaux flux.",
-        "body": "Alors que les capitaux étrangers soutiennent la progression du Kospi vers des sommets historiques, les investisseurs particuliers à l’étranger disposent d’un accès plus large pour acheter directement des actions coréennes. La mesure centrale est l’élargissement du service de comptes intégrés pour étrangers, destiné à abaisser les barrières d’entrée sur le marché boursier coréen. Si ce service se développe, l’accès des investisseurs individuels étrangers aux actions locales pourrait s’améliorer, alimentant les attentes de nouveaux apports de fonds venus de l’étranger. Cet optimisme s’est aussi reflété dans les valeurs du courtage, qui ont fortement progressé dans leur ensemble. Alors que les flux étrangers apparaissent comme un moteur de la Bourse coréenne, l’enjeu est de savoir combien de temps l’effet de cette amélioration du dispositif se poursuivra. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تدفقات أجنبية أكبر تفتح الطريق أمام المستثمرين الأفراد لشراء الأسهم الكورية مباشرة",
-        "excerpt": "مع مساهمة الأموال الأجنبية في دفع مؤشر كوسبي إلى مستويات قياسية، يتوسع نطاق خدمة الحسابات الموحدة للأجانب لخفض حواجز دخول سوق الأسهم الكورية وتعزيز توقعات تدفقات إضافية.",
-        "body": "في وقت تواصل فيه الأموال الأجنبية دعم صعود مؤشر كوسبي إلى مستويات قياسية، تتسع أمام المستثمرين الأفراد في الخارج فرصة شراء الأسهم الكورية مباشرة. ويتمثل المحور الرئيسي في توسيع خدمة الحسابات الموحدة للأجانب، وهي خطوة تستهدف خفض حواجز الدخول إلى سوق الأسهم الكورية. وإذا توسعت هذه الخدمة، فقد تتحسن قدرة المستثمرين الأجانب الأفراد على الوصول إلى الأسهم المحلية، ما يرفع التوقعات بدخول أموال استثمارية إضافية من الخارج. وقد انعكست هذه التوقعات أيضا على أسهم شركات الأوراق المالية، التي سجلت ارتفاعا حادا جماعيا. ومع بروز تدفقات الأجانب كقوة دافعة لصعود السوق الكورية، يتركز الاهتمام على مدى استمرار أثر هذا التحسين المؤسسي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "विदेशी पूंजी प्रवाह बढ़ा, विदेशी खुदरा निवेशकों के लिए कोरियाई शेयर खरीदना आसान",
-        "excerpt": "विदेशी पूंजी के सहारे कोस्पी रिकॉर्ड ऊंचाई पर पहुंच रहा है, वहीं विदेशी एकीकृत खाता सेवा के विस्तार से कोरियाई शेयर बाजार की बाधाएं घटाने और नए निवेश प्रवाह की उम्मीद बढ़ी है।",
-        "body": "विदेशी पूंजी के प्रवाह से कोस्पी के रिकॉर्ड ऊंचाई की ओर बढ़ने के बीच, विदेशों में रहने वाले खुदरा निवेशकों के लिए कोरियाई शेयर सीधे खरीदने का रास्ता व्यापक हो रहा है। इसका मुख्य आधार विदेशी निवेशकों के लिए एकीकृत खाता सेवा का विस्तार है, जिसका उद्देश्य कोरियाई शेयर बाजार में प्रवेश की बाधाओं को कम करना है। सेवा के विस्तार से विदेशी व्यक्तिगत निवेशकों की घरेलू शेयरों तक पहुंच बेहतर हो सकती है और विदेश से अतिरिक्त निवेश राशि आने की उम्मीद बढ़ रही है। यह उम्मीद प्रतिभूति क्षेत्र के शेयरों में भी दिखी, जहां ब्रोकरेज से जुड़े शेयरों में सामूहिक तेज रैली दर्ज की गई। जब विदेशी मांग को कोरियाई बाजार की तेजी का प्रमुख आधार माना जा रहा है, तब ध्यान इस बात पर है कि व्यवस्था सुधार का असर कितनी देर तक जारी रहता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dana Asing Mengalir, Akses Investor Ritel Global ke Saham Korea Makin Terbuka",
-        "excerpt": "Saat dana asing mendorong Kospi ke rekor tertinggi, perluasan layanan rekening terpadu asing menurunkan hambatan masuk pasar saham Korea dan memicu harapan aliran investasi tambahan.",
-        "body": "Ketika dana asing mendorong Kospi mencetak rangkaian rekor tertinggi, investor ritel di luar negeri mendapat jalur yang lebih luas untuk membeli saham Korea secara langsung. Inti kebijakannya adalah perluasan layanan rekening terpadu bagi investor asing, yang ditujukan untuk menurunkan hambatan masuk ke pasar saham Korea. Jika layanan ini diperluas, akses investor individu asing ke saham domestik dapat membaik, sehingga harapan terhadap masuknya dana investasi tambahan dari luar negeri meningkat. Ekspektasi tersebut juga tercermin pada saham sektor sekuritas, yang bergerak naik tajam secara serentak. Dengan arus asing menjadi salah satu motor kenaikan pasar Korea, perhatian tertuju pada seberapa lama dampak perbaikan sistem ini dapat berlanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "60e158e7feef",
-    "slug": "성공의-대명사-된-붉은-사막k게임사들-속속-오픈월드-도전장-112117",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T23:29:19.119Z",
-    "updatedAt": "2026-05-06T23:29:19.119Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12038720",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12038720",
-    "titleFingerprint": "1e0f6be1aa44f9de2831ed77af19f6fecdbd2870",
-    "dedupKeys": [
-      "60e158e7feef9913f809e78efc5739832d134048",
-      "1e0f6be1aa44f9de2831ed77af19f6fecdbd2870",
-      "78928edc9e752effb550cba19cf94c56b0f7d6bb"
-    ],
-    "imageUrl": "/images/articles/60e158e7feef.png",
-    "i18n": {
-      "ko": {
-        "title": "붉은사막 500만장 돌파, K게임사 오픈월드 도전 본격화",
-        "excerpt": "펄어비스 ‘붉은사막’이 출시 26일 만에 500만장 판매를 넘어서며 흥행에 성공하자 엔씨·넷마블 등 K게임사들이 연내 오픈월드 신작 출시를 준비하고 있다.",
-        "body": "펄어비스의 오픈월드 게임 ‘붉은사막’이 출시 26일 만에 판매량 500만장을 돌파하며 K게임 시장의 새 성공 사례로 떠올랐다. 이 성과를 계기로 엔씨와 넷마블 등 국내 게임사들도 연내 오픈월드 신작 출시를 준비하며 도전장을 내고 있다. 업계는 한국적 지식재산권(IP)을 기반으로 한 대형 프로젝트와 높은 제작비가 미국 주도 오픈월드 시장에서 경쟁력을 만들 수 있을지 주목하고 있다. ‘붉은사막’의 흥행은 국내 게임사들이 장르 확장과 글로벌 시장 공략에 속도를 내는 신호로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Crimson Desert Tops 5 Million Sales as K-Game Firms Target Open World",
-        "excerpt": "Pearl Abyss’s Crimson Desert surpassed 5 million copies sold 26 days after release, prompting NC and Netmarble to prepare open-world titles for launch within the year.",
-        "body": "Pearl Abyss’s open-world game Crimson Desert has emerged as a new success case for the Korean game market after surpassing 5 million copies sold just 26 days after release. Following that result, domestic game companies including NC and Netmarble are preparing to release new open-world titles within the year. The industry is watching whether large-scale projects based on Korean intellectual property and major production budgets can compete in the U.S.-led open-world market. The success of Crimson Desert is being read as a signal that Korean game makers are accelerating genre expansion and global market efforts. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "『紅の砂漠』500万本突破、Kゲーム各社がオープンワールドに本格挑戦",
-        "excerpt": "Pearl Abyssの『紅の砂漠』が発売26日で販売500万本を突破し、NCやNetmarbleなど韓国ゲーム会社が年内のオープンワールド新作発売を準備している。",
-        "body": "Pearl Abyssのオープンワールドゲーム『紅の砂漠』が発売から26日で販売本数500万本を突破し、韓国ゲーム市場の新たな成功事例として浮上した。この成果を受け、NCやNetmarbleなど韓国のゲーム会社も年内にオープンワールド新作を発売する準備を進めている。業界では、韓国的な知的財産権（IP）を基盤にした大型プロジェクトと高い制作費が、米国主導のオープンワールド市場で競争力を生み出せるかに注目している。『紅の砂漠』のヒットは、韓国ゲーム会社がジャンル拡張とグローバル市場攻略を加速する兆しと受け止められている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "《红色沙漠》销量破500万，韩国游戏公司加速挑战开放世界",
-        "excerpt": "Pearl Abyss《红色沙漠》发售26天销量突破500万份后，NC、Netmarble等韩国游戏公司正准备年内推出开放世界新作。",
-        "body": "Pearl Abyss的开放世界游戏《红色沙漠》在发售26天后销量突破500万份，成为韩国游戏市场新的成功案例。以这一成绩为契机，包括NC和Netmarble在内的韩国游戏公司也在准备年内推出开放世界新作。业界正在关注，基于韩国式知识产权（IP）的大型项目和高额制作费用，能否在由美国主导的开放世界市场形成竞争力。《红色沙漠》的成功被解读为韩国游戏公司加快类型扩张和进军全球市场的信号。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Crimson Desert supera 5 millones y acelera el reto open world coreano",
-        "excerpt": "Crimson Desert, de Pearl Abyss, superó los 5 millones de copias vendidas 26 días después de su lanzamiento, mientras NC y Netmarble preparan títulos open world para este año.",
-        "body": "El juego de mundo abierto Crimson Desert, de Pearl Abyss, se ha convertido en un nuevo caso de éxito para el mercado coreano tras superar los 5 millones de copias vendidas solo 26 días después de su lanzamiento. A partir de ese resultado, compañías locales como NC y Netmarble preparan el lanzamiento de nuevos títulos de mundo abierto dentro del año. La industria observa si los grandes proyectos basados en propiedad intelectual coreana y con elevados costos de producción pueden ganar competitividad en un mercado de mundo abierto liderado por Estados Unidos. El éxito de Crimson Desert se interpreta como una señal de que las empresas coreanas aceleran su expansión de géneros y su estrategia global. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Crimson Desert passa 5 milhões e impulsiona jogos coreanos de mundo aberto",
-        "excerpt": "Crimson Desert, da Pearl Abyss, superou 5 milhões de cópias vendidas 26 dias após o lançamento, enquanto NC e Netmarble preparam novos jogos de mundo aberto ainda este ano.",
-        "body": "O jogo de mundo aberto Crimson Desert, da Pearl Abyss, surgiu como um novo caso de sucesso no mercado coreano ao superar 5 milhões de cópias vendidas apenas 26 dias após o lançamento. Com esse resultado, empresas locais como NC e Netmarble também se preparam para lançar novos títulos de mundo aberto ainda este ano. O setor observa se grandes projetos baseados em propriedade intelectual coreana e com altos custos de produção poderão criar competitividade em um mercado de mundo aberto liderado pelos Estados Unidos. O êxito de Crimson Desert é visto como um sinal de que as produtoras coreanas aceleram a expansão de gêneros e a busca pelo mercado global. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Crimson Desert knackt 5 Millionen Verkäufe und treibt K-Games in Open Worlds",
-        "excerpt": "Pearl Abyss’ Crimson Desert überschritt 26 Tage nach Veröffentlichung 5 Millionen verkaufte Exemplare; NC und Netmarble bereiten Open-World-Titel für dieses Jahr vor.",
-        "body": "Das Open-World-Spiel Crimson Desert von Pearl Abyss hat sich nach mehr als 5 Millionen verkauften Exemplaren nur 26 Tage nach Veröffentlichung als neuer Erfolg im koreanischen Spielemarkt etabliert. Nach diesem Ergebnis bereiten auch heimische Unternehmen wie NC und Netmarble neue Open-World-Titel vor, die noch in diesem Jahr erscheinen sollen. Die Branche beobachtet, ob Großprojekte auf Basis koreanischer geistiger Eigentumsrechte und mit hohen Produktionskosten im von den USA geprägten Open-World-Markt wettbewerbsfähig sein können. Der Erfolg von Crimson Desert gilt als Signal, dass koreanische Spielefirmen Genreerweiterung und globale Markterschließung beschleunigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Crimson Desert dépasse 5 millions et pousse les studios coréens vers l’open world",
-        "excerpt": "Crimson Desert de Pearl Abyss a dépassé 5 millions d’exemplaires vendus 26 jours après sa sortie, tandis que NC et Netmarble préparent des jeux open world pour cette année.",
-        "body": "Le jeu open world Crimson Desert de Pearl Abyss s’est imposé comme un nouveau succès du marché coréen après avoir dépassé 5 millions d’exemplaires vendus seulement 26 jours après sa sortie. Dans la foulée, des sociétés locales comme NC et Netmarble préparent aussi le lancement de nouveaux titres open world d’ici la fin de l’année. Le secteur observe si de grands projets fondés sur des propriétés intellectuelles coréennes et dotés de budgets de production élevés pourront créer de la compétitivité sur un marché open world dominé par les États-Unis. Le succès de Crimson Desert est interprété comme le signe que les studios coréens accélèrent l’expansion des genres et la conquête du marché mondial. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كريمسون ديزرت تتجاوز 5 ملايين نسخة وشركات الألعاب الكورية تتجه للعالم المفتوح",
-        "excerpt": "تجاوزت لعبة Crimson Desert من Pearl Abyss مبيعات 5 ملايين نسخة بعد 26 يوما من إطلاقها، فيما تستعد NC وNetmarble لإصدار ألعاب عالم مفتوح خلال هذا العام.",
-        "body": "برزت لعبة العالم المفتوح Crimson Desert من Pearl Abyss كحالة نجاح جديدة في سوق الألعاب الكورية بعدما تجاوزت مبيعاتها 5 ملايين نسخة خلال 26 يوما فقط من الإطلاق. وعلى خلفية هذه النتيجة، تستعد شركات ألعاب محلية مثل NC وNetmarble لطرح عناوين جديدة من فئة العالم المفتوح خلال هذا العام. وتراقب الصناعة ما إذا كانت المشاريع الضخمة القائمة على ملكية فكرية كورية وبميزانيات إنتاج كبيرة قادرة على بناء قدرة تنافسية في سوق العالم المفتوح الذي تقوده الولايات المتحدة. ويجري تفسير نجاح Crimson Desert كإشارة إلى تسريع شركات الألعاب الكورية توسعها في الأنواع واستهدافها للأسواق العالمية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Crimson Desert की 50 लाख बिक्री, कोरियाई गेम कंपनियां ओपन वर्ल्ड की ओर",
-        "excerpt": "Pearl Abyss की Crimson Desert ने रिलीज के 26 दिन बाद 50 लाख प्रतियों की बिक्री पार की, जबकि NC और Netmarble इस साल ओपन-वर्ल्ड गेम लॉन्च करने की तैयारी में हैं।",
-        "body": "Pearl Abyss का ओपन-वर्ल्ड गेम Crimson Desert रिलीज के केवल 26 दिन बाद 50 लाख प्रतियों की बिक्री पार कर कोरियाई गेम बाजार की नई सफलता के रूप में उभरा है। इस नतीजे के बाद NC और Netmarble जैसी घरेलू गेम कंपनियां भी इस साल के भीतर नए ओपन-वर्ल्ड टाइटल जारी करने की तैयारी कर रही हैं। उद्योग यह देख रहा है कि कोरियाई बौद्धिक संपदा पर आधारित बड़े प्रोजेक्ट और ऊंची निर्माण लागत अमेरिका-नेतृत्व वाले ओपन-वर्ल्ड बाजार में प्रतिस्पर्धा बना पाएंगे या नहीं। Crimson Desert की सफलता को कोरियाई गेम कंपनियों द्वारा शैली विस्तार और वैश्विक बाजार रणनीति तेज करने के संकेत के रूप में देखा जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Crimson Desert Tembus 5 Juta, Perusahaan Gim Korea Bidik Open World",
-        "excerpt": "Crimson Desert dari Pearl Abyss melampaui 5 juta kopi terjual 26 hari setelah rilis, sementara NC dan Netmarble menyiapkan gim open world baru untuk tahun ini.",
-        "body": "Gim open world Crimson Desert dari Pearl Abyss muncul sebagai kisah sukses baru di pasar gim Korea setelah melampaui 5 juta kopi terjual hanya 26 hari setelah dirilis. Menyusul hasil tersebut, perusahaan gim domestik seperti NC dan Netmarble juga menyiapkan peluncuran judul open world baru dalam tahun ini. Industri memperhatikan apakah proyek besar berbasis kekayaan intelektual Korea dan biaya produksi tinggi dapat menciptakan daya saing di pasar open world yang dipimpin Amerika Serikat. Kesuksesan Crimson Desert dipandang sebagai sinyal bahwa perusahaan gim Korea mempercepat perluasan genre dan strategi menuju pasar global. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9552bf05fb55",
-    "slug": "kcc-실리콘-판가-오르니-실적주가-전망도-쑥목표가-437798",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T23:28:19.850Z",
-    "updatedAt": "2026-05-06T23:28:19.850Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038723",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038723",
-    "titleFingerprint": "90a5ade6705c0828ea12212cc20cb0b14fc54d9a",
-    "dedupKeys": [
-      "9552bf05fb5553e8010938be3914f0f7f4b9fd5b",
-      "90a5ade6705c0828ea12212cc20cb0b14fc54d9a",
-      "e5bbde4fb92b08391eb25ba164615d224a5c7207"
-    ],
-    "imageUrl": "/images/articles/9552bf05fb55.png",
-    "i18n": {
-      "ko": {
-        "title": "KCC 목표가 73만원 상향, 실리콘 판가 상승에 실적 기대 커졌다",
-        "excerpt": "하나증권은 7일 KCC가 실리콘 판가 상향과 삼성물산 보유지분 가치 상승으로 증익이 기대된다며 목표주가를 60만원에서 73만원으로 올렸다.",
-        "body": "하나증권은 7일 KCC에 대해 실리콘 판가 상향과 삼성물산 보유지분 가치 상승을 근거로 실적 개선 가능성을 제시했다. 이에 따라 KCC 목표주가를 기존 60만원에서 73만원으로 상향 조정했다. 증권사는 실리콘 제품 가격 흐름이 실적에 긍정적으로 작용하고, KCC가 보유한 삼성물산 지분 가치 상승도 기업가치 평가에 반영될 수 있다고 봤다. 올해 1분기 실적 흐름과 함께 판가 개선이 이어질 경우 증익 기대가 유지될 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "KCC Target Price Raised to 730,000 Won as Silicone Prices Lift Earnings View",
-        "excerpt": "Hana Securities said on the 7th that KCC is expected to improve earnings thanks to higher silicone prices and rising value of its Samsung C&T stake, raising its target price from 600,000 won to 730,000 won.",
-        "body": "Hana Securities said on the 7th that KCC may see earnings improve on higher silicone selling prices and a rise in the value of its Samsung C&T shareholding. The brokerage raised its target price for KCC from 600,000 won to 730,000 won. It viewed the price trend for silicone products as positive for performance, while the higher value of KCC’s Samsung C&T stake could also be reflected in the company’s valuation. If price improvements continue alongside this year’s first-quarter earnings trend, expectations for profit growth are likely to remain in focus. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "KCC目標株価73万ウォンへ引き上げ、シリコン価格上昇で業績期待",
-        "excerpt": "ハナ証券は7日、シリコン販売価格の上昇とサムスン物産保有株式の価値上昇によりKCCの増益が期待されるとして、目標株価を60万ウォンから73万ウォンに引き上げた。",
-        "body": "ハナ証券は7日、KCCについて、シリコン販売価格の上昇とサムスン物産保有株式の価値上昇を根拠に業績改善の可能性を示した。これによりKCCの目標株価を従来の60万ウォンから73万ウォンへ引き上げた。同証券は、シリコン製品の価格動向が業績にプラスに働き、KCCが保有するサムスン物産株式の価値上昇も企業価値評価に反映され得るとみている。今年第1四半期の業績動向とともに販売価格の改善が続けば、増益期待は維持される見通しだ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "KCC目标价上调至73万韩元，硅产品涨价推升业绩预期",
-        "excerpt": "韩亚证券7日表示，受硅产品售价上调和所持三星物产股权价值上升影响，KCC有望增益，并将目标价从60万韩元上调至73万韩元。",
-        "body": "韩亚证券7日对KCC表示，基于硅产品售价上调以及所持三星物产股权价值上升，KCC存在业绩改善可能。因此，该券商将KCC目标价由原来的60万韩元上调至73万韩元。券商认为，硅产品价格走势将对业绩产生积极作用，而KCC持有的三星物产股权价值上升，也可能反映在企业价值评估中。若今年第一季度业绩走势下售价改善持续，增益预期预计将继续受到关注。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "KCC sube su precio objetivo a 730.000 wones por mejora en precios de silicona",
-        "excerpt": "Hana Securities dijo el día 7 que KCC podría aumentar beneficios por el alza de precios de silicona y el mayor valor de su participación en Samsung C&T, elevando el objetivo de 600.000 a 730.000 wones.",
-        "body": "Hana Securities señaló el día 7 que KCC podría mejorar sus resultados gracias al aumento de los precios de venta de silicona y al incremento del valor de su participación en Samsung C&T. Por ello, elevó el precio objetivo de KCC de 600.000 wones a 730.000 wones. La firma considera que la tendencia de precios de los productos de silicona tendrá un efecto positivo en el desempeño, mientras que el mayor valor de las acciones de Samsung C&T en poder de KCC también podría reflejarse en su valoración. Si la mejora de precios continúa junto con la evolución del primer trimestre de este año, se mantendrán las expectativas de aumento de beneficios. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KCC tem preço-alvo elevado a 730 mil won com alta nos preços de silicone",
-        "excerpt": "A Hana Securities afirmou no dia 7 que a KCC deve ampliar lucros com preços mais altos de silicone e valorização de sua fatia na Samsung C&T, elevando o preço-alvo de 600 mil para 730 mil won.",
-        "body": "A Hana Securities informou no dia 7 que a KCC pode apresentar melhora nos resultados devido ao aumento dos preços de venda de silicone e à valorização de sua participação na Samsung C&T. Com isso, elevou o preço-alvo da KCC de 600 mil won para 730 mil won. A corretora avaliou que a tendência dos preços dos produtos de silicone deve contribuir positivamente para o desempenho, enquanto o maior valor da fatia da Samsung C&T detida pela KCC também pode ser refletido na avaliação da companhia. Se a melhora dos preços continuar junto com o desempenho do primeiro trimestre deste ano, a expectativa de crescimento dos lucros deve permanecer. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KCC-Kursziel auf 730.000 Won erhöht, Silikonpreise stützen Gewinnausblick",
-        "excerpt": "Hana Securities erklärte am 7., KCC dürfte dank höherer Silikonpreise und des gestiegenen Werts der Samsung-C&T-Beteiligung mehr Gewinn erzielen, und hob das Kursziel von 600.000 auf 730.000 Won an.",
-        "body": "Hana Securities erklärte am 7., dass KCC aufgrund höherer Verkaufspreise für Silikon und des gestiegenen Werts seiner Beteiligung an Samsung C&T bessere Ergebnisse erzielen könnte. Daher erhöhte das Wertpapierhaus das Kursziel für KCC von bisher 600.000 Won auf 730.000 Won. Die Preisentwicklung bei Silikonprodukten werde sich positiv auf die Geschäftszahlen auswirken, während der höhere Wert der von KCC gehaltenen Samsung-C&T-Anteile ebenfalls in die Unternehmensbewertung einfließen könne. Wenn sich die Preisverbesserung zusammen mit dem Ergebnisverlauf des ersten Quartals dieses Jahres fortsetzt, dürften die Gewinnerwartungen im Fokus bleiben. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "KCC voit son objectif relevé à 730 000 wons avec la hausse des prix du silicone",
-        "excerpt": "Hana Securities a indiqué le 7 que KCC devrait améliorer ses bénéfices grâce à la hausse des prix du silicone et à la valorisation de sa participation dans Samsung C&T, portant l’objectif de 600 000 à 730 000 wons.",
-        "body": "Hana Securities a indiqué le 7 que KCC pourrait améliorer ses résultats grâce à la hausse des prix de vente du silicone et à l’augmentation de la valeur de sa participation dans Samsung C&T. La société de courtage a ainsi relevé son objectif de cours sur KCC de 600 000 wons à 730 000 wons. Elle estime que l’évolution des prix des produits en silicone aura un effet positif sur la performance, tandis que la hausse de la valeur des actions Samsung C&T détenues par KCC pourrait aussi être prise en compte dans la valorisation de l’entreprise. Si l’amélioration des prix se poursuit avec la tendance des résultats du premier trimestre de cette année, les attentes de progression des bénéfices devraient rester présentes. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لـKCC إلى 730 ألف وون مع صعود أسعار السيليكون",
-        "excerpt": "قالت هانا للأوراق المالية في 7 إن KCC مرشحة لتحسن الأرباح بفضل رفع أسعار السيليكون وزيادة قيمة حصتها في سامسونغ C&T، ورفعت السعر المستهدف من 600 ألف إلى 730 ألف وون.",
-        "body": "قالت هانا للأوراق المالية في 7 إن KCC قد تشهد تحسنا في الأداء استنادا إلى ارتفاع أسعار بيع السيليكون وزيادة قيمة حصتها في سامسونغ C&T. وبناء على ذلك رفعت السعر المستهدف لسهم KCC من 600 ألف وون إلى 730 ألف وون. وترى الشركة أن اتجاه أسعار منتجات السيليكون قد ينعكس إيجابا على النتائج، كما أن ارتفاع قيمة حصة KCC في سامسونغ C&T يمكن أن يدخل في تقييم قيمة الشركة. وإذا استمر تحسن الأسعار بالتوازي مع مسار نتائج الربع الأول من هذا العام، فمن المتوقع أن تبقى توقعات زيادة الأرباح قائمة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KCC लक्ष्य मूल्य 7.3 लाख वॉन हुआ, सिलिकॉन कीमतों से आय उम्मीद मजबूत",
-        "excerpt": "हाना सिक्योरिटीज ने 7 तारीख को कहा कि सिलिकॉन बिक्री मूल्य बढ़ने और Samsung C&T में हिस्सेदारी के मूल्य में वृद्धि से KCC की आय बढ़ सकती है, इसलिए लक्ष्य मूल्य 6 लाख से 7.3 लाख वॉन किया गया।",
-        "body": "हाना सिक्योरिटीज ने 7 तारीख को KCC के लिए कहा कि सिलिकॉन बिक्री मूल्य में वृद्धि और Samsung C&T में रखी हिस्सेदारी के मूल्य में बढ़ोतरी से नतीजों में सुधार की संभावना है। इसी आधार पर KCC का लक्ष्य मूल्य पहले के 6 लाख वॉन से बढ़ाकर 7.3 लाख वॉन कर दिया गया। ब्रोकरेज के अनुसार, सिलिकॉन उत्पादों की कीमतों का रुझान प्रदर्शन पर सकारात्मक असर डाल सकता है, जबकि KCC के पास मौजूद Samsung C&T हिस्सेदारी का बढ़ा मूल्य भी कंपनी के मूल्यांकन में झलक सकता है। यदि इस वर्ष पहली तिमाही के प्रदर्शन के साथ मूल्य सुधार जारी रहता है, तो लाभ वृद्धि की उम्मीद बनी रह सकती है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Target Harga KCC Naik ke 730 Ribu Won, Harga Silikon Dorong Prospek Laba",
-        "excerpt": "Hana Securities pada tanggal 7 menyebut KCC berpeluang mencatat kenaikan laba berkat harga silikon yang lebih tinggi dan naiknya nilai saham Samsung C&T yang dimiliki, lalu menaikkan target dari 600 ribu ke 730 ribu won.",
-        "body": "Hana Securities pada tanggal 7 menyatakan bahwa KCC berpotensi mencatat perbaikan kinerja berkat kenaikan harga jual silikon dan meningkatnya nilai kepemilikan sahamnya di Samsung C&T. Karena itu, target harga KCC dinaikkan dari sebelumnya 600 ribu won menjadi 730 ribu won. Sekuritas tersebut menilai tren harga produk silikon dapat berdampak positif pada kinerja, sementara kenaikan nilai saham Samsung C&T yang dimiliki KCC juga dapat tercermin dalam valuasi perusahaan. Jika perbaikan harga berlanjut bersama tren kinerja kuartal pertama tahun ini, ekspektasi pertumbuhan laba diperkirakan tetap terjaga. Sumber: mk.co.kr."
       }
     }
   }
