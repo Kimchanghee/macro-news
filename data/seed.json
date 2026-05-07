@@ -1,5 +1,230 @@
 [
   {
+    "id": "da4f688438e6",
+    "slug": "중국-가는-트럼프-엔비디아애플엑손보잉-ceo에-동행-초청-677363",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T23:02:00.997Z",
+    "updatedAt": "2026-05-07T23:02:00.997Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12040623",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12040623",
+    "titleFingerprint": "de96d295be7ebf3d9c88ee745d5d4857b2d67574",
+    "dedupKeys": [
+      "da4f688438e6b9377511efe704971b0c1fdb356c",
+      "de96d295be7ebf3d9c88ee745d5d4857b2d67574",
+      "126311db6cebefe3ce934be0dc8e514d9322759d"
+    ],
+    "imageUrl": "/images/articles/da4f688438e6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 중국 방문 수행단에 엔비디아·애플·엑손·보잉 CEO 초청",
+        "excerpt": "도널드 트럼프 미국 대통령이 중국 방문을 앞두고 엔비디아·애플·엑손·보잉 등 미국 대기업 CEO들을 수행단으로 초청한 것으로 7일 현지 보도됐다.",
+        "body": "도널드 트럼프 미국 대통령이 중국 방문에 맞춰 엔비디아와 애플, 엑손, 보잉 등 미국 주요 대기업 최고경영자(CEO)들을 수행단으로 초청한 것으로 알려졌다. 매일경제가 인용한 온라인 매체 세마포 보도에 따르면 이 내용은 7일(현지시간) 전해졌다. 이번 보도는 미중 관계와 글로벌 공급망, 첨단기술·에너지·항공 산업을 대표하는 기업들이 미국 대통령의 중국 방문 일정과 함께 거론됐다는 점에서 주목된다. 다만 원문에 따르면 초청 사실이 알려졌을 뿐, 각 CEO의 실제 동행 여부나 세부 일정은 추가로 제시되지 않았다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Trump China Trip: Nvidia, Apple, Exxon and Boeing CEOs Invited",
+        "excerpt": "U.S. President Donald Trump has reportedly invited CEOs from Nvidia, Apple, Exxon and Boeing to join his delegation for a China visit, according to a local-time May 7 report.",
+        "body": "U.S. President Donald Trump has reportedly invited the chief executives of major American companies, including Nvidia, Apple, Exxon and Boeing, to accompany him on a visit to China. According to Semafor, cited by Maeil Business Newspaper, the report was published on May 7 local time. The report draws attention because leaders from companies representing advanced technology, energy, aviation and global supply chains were mentioned alongside the U.S. president’s China itinerary. However, the original report states only that invitations were extended, and does not provide additional details on whether each CEO will actually travel or on the specific schedule. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "トランプ氏の中国訪問、エヌビディア・アップルなどCEOを招待",
+        "excerpt": "ドナルド・トランプ米大統領が中国訪問に際し、エヌビディア、アップル、エクソン、ボーイングなど米大手企業CEOを随行団に招待したと7日報じられた。",
+        "body": "ドナルド・トランプ米大統領が中国訪問に合わせ、エヌビディア、アップル、エクソン、ボーイングなど米主要大企業の最高経営責任者（CEO）を随行団に招待したことが分かった。毎日経済が引用したオンラインメディア、セマフォの報道によると、この内容は7日（現地時間）に伝えられた。今回の報道は、米中関係やグローバル供給網、先端技術、エネルギー、航空産業を代表する企業の経営トップが米大統領の中国訪問日程とともに取り上げられた点で注目される。ただし原文では招待の事実が伝えられたのみで、各CEOの実際の同行可否や詳細日程は示されていない。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "特朗普访华邀请英伟达、苹果、埃克森和波音CEO随行",
+        "excerpt": "据当地时间7日报道，美国总统唐纳德·特朗普被曝已邀请英伟达、苹果、埃克森、波音等美国大企业CEO加入其访华随行团。",
+        "body": "据悉，美国总统唐纳德·特朗普在筹备访问中国之际，已邀请英伟达、苹果、埃克森、波音等美国主要大企业首席执行官加入随行团。每日经济新闻援引在线媒体Semafor报道称，这一消息于当地时间7日传出。该报道之所以受到关注，是因为在美中关系、全球供应链以及先进技术、能源和航空产业背景下，相关代表性企业负责人被同时提及。不过，原文仅称这些CEO已获邀请，并未进一步说明各CEO是否实际随行或具体行程安排。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Trump invita a CEO de Nvidia, Apple, Exxon y Boeing a su viaje a China",
+        "excerpt": "El presidente estadounidense Donald Trump habría invitado a los CEO de Nvidia, Apple, Exxon y Boeing a integrar su delegación para una visita a China, según un reporte del 7 de mayo, hora local.",
+        "body": "El presidente de Estados Unidos, Donald Trump, habría invitado a los máximos ejecutivos de grandes compañías estadounidenses, entre ellas Nvidia, Apple, Exxon y Boeing, a acompañarlo en una visita a China. Según Semafor, citado por Maeil Business Newspaper, la información se conoció el 7 de mayo, hora local. El reporte llama la atención porque directivos de empresas vinculadas con tecnología avanzada, energía, aviación y cadenas globales de suministro aparecen asociados a la agenda del presidente estadounidense en China. Sin embargo, el texto original solo indica que se cursaron invitaciones y no ofrece detalles adicionales sobre si cada CEO viajará efectivamente ni sobre el calendario específico. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Trump convida CEOs da Nvidia, Apple, Exxon e Boeing para viagem à China",
+        "excerpt": "O presidente dos EUA, Donald Trump, teria convidado CEOs da Nvidia, Apple, Exxon e Boeing para integrar sua comitiva em uma visita à China, segundo relato de 7 de maio, no horário local.",
+        "body": "O presidente dos Estados Unidos, Donald Trump, teria convidado os principais executivos de grandes empresas americanas, incluindo Nvidia, Apple, Exxon e Boeing, para acompanhá-lo em uma visita à China. Segundo o Semafor, citado pelo Maeil Business Newspaper, a informação foi divulgada em 7 de maio, no horário local. A notícia chama atenção porque líderes de companhias ligadas a tecnologia avançada, energia, aviação e cadeias globais de suprimento foram mencionados junto à agenda do presidente americano na China. No entanto, o texto original informa apenas que os convites foram feitos e não traz detalhes adicionais sobre a presença efetiva de cada CEO nem sobre o cronograma específico. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Trump lädt Nvidia-, Apple-, Exxon- und Boeing-Chefs zu China-Reise ein",
+        "excerpt": "US-Präsident Donald Trump hat Berichten zufolge die CEOs von Nvidia, Apple, Exxon und Boeing eingeladen, ihn bei einem China-Besuch zu begleiten, wie am 7. Mai Ortszeit gemeldet wurde.",
+        "body": "US-Präsident Donald Trump hat Berichten zufolge die Vorstandschefs großer amerikanischer Unternehmen, darunter Nvidia, Apple, Exxon und Boeing, eingeladen, ihn bei einem Besuch in China zu begleiten. Nach einem Bericht von Semafor, den Maeil Business Newspaper zitiert, wurde dies am 7. Mai Ortszeit bekannt. Aufmerksamkeit erhält die Meldung, weil Unternehmensführer aus Bereichen wie Hochtechnologie, Energie, Luftfahrt und globalen Lieferketten im Zusammenhang mit der China-Reise des US-Präsidenten genannt werden. Der Originalbericht nennt jedoch lediglich die Einladungen und liefert keine weiteren Angaben dazu, ob die einzelnen CEOs tatsächlich mitreisen oder wie der genaue Zeitplan aussieht. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Trump invite les patrons de Nvidia, Apple, Exxon et Boeing pour sa visite en Chine",
+        "excerpt": "Le président américain Donald Trump aurait invité les PDG de Nvidia, Apple, Exxon et Boeing à rejoindre sa délégation pour une visite en Chine, selon une information publiée le 7 mai, heure locale.",
+        "body": "Le président américain Donald Trump aurait invité les dirigeants de grandes entreprises américaines, dont Nvidia, Apple, Exxon et Boeing, à l’accompagner lors d’une visite en Chine. Selon Semafor, cité par Maeil Business Newspaper, l’information a été rapportée le 7 mai, heure locale. Cette annonce retient l’attention car des responsables d’entreprises représentant les technologies avancées, l’énergie, l’aéronautique et les chaînes d’approvisionnement mondiales sont mentionnés aux côtés du déplacement du président américain en Chine. Toutefois, le texte original indique seulement que des invitations ont été envoyées et ne précise pas si chaque PDG participera effectivement au voyage ni le calendrier détaillé. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "ترامب يدعو رؤساء إنفيديا وآبل وإكسون وبوينغ لمرافقته إلى الصين",
+        "excerpt": "أفادت تقارير في 7 مايو بالتوقيت المحلي بأن الرئيس الأميركي دونالد ترامب دعا رؤساء إنفيديا وآبل وإكسون وبوينغ للانضمام إلى وفده في زيارة إلى الصين.",
+        "body": "أفادت تقارير بأن الرئيس الأميركي دونالد ترامب دعا الرؤساء التنفيذيين لشركات أميركية كبرى، من بينها إنفيديا وآبل وإكسون وبوينغ، لمرافقته في زيارة إلى الصين. ووفق ما نقلته صحيفة ماييل بيزنس عن منصة Semafor، وردت هذه المعلومات في 7 مايو بالتوقيت المحلي. وتحظى الأنباء بالاهتمام لأن قادة شركات تمثل التكنولوجيا المتقدمة والطاقة والطيران وسلاسل الإمداد العالمية ذُكروا في سياق جدول زيارة الرئيس الأميركي للصين. ومع ذلك، فإن النص الأصلي يذكر فقط توجيه الدعوات، ولا يقدم تفاصيل إضافية بشأن ما إذا كان كل رئيس تنفيذي سيرافق الوفد فعلا أو بشأن الجدول المحدد للزيارة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "ट्रंप की चीन यात्रा में Nvidia, Apple, Exxon और Boeing CEO को न्योता",
+        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीन यात्रा के लिए Nvidia, Apple, Exxon और Boeing जैसी अमेरिकी कंपनियों के CEO को प्रतिनिधिमंडल में शामिल होने का निमंत्रण दिया है, 7 मई की स्थानीय रिपोर्ट के अनुसार।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कथित तौर पर चीन यात्रा के दौरान Nvidia, Apple, Exxon और Boeing जैसी प्रमुख अमेरिकी कंपनियों के मुख्य कार्यकारी अधिकारियों को अपने प्रतिनिधिमंडल में शामिल होने के लिए आमंत्रित किया है। Maeil Business Newspaper ने ऑनलाइन मीडिया Semafor के हवाले से बताया कि यह जानकारी 7 मई को स्थानीय समयानुसार सामने आई। यह रिपोर्ट इसलिए ध्यान खींचती है क्योंकि उन्नत तकनीक, ऊर्जा, विमानन और वैश्विक आपूर्ति श्रृंखला से जुड़ी कंपनियों के प्रमुखों का नाम अमेरिकी राष्ट्रपति की चीन यात्रा के संदर्भ में आया है। हालांकि मूल रिपोर्ट में केवल निमंत्रण की बात कही गई है; प्रत्येक CEO वास्तव में साथ जाएगा या नहीं और विस्तृत कार्यक्रम क्या होगा, यह नहीं बताया गया। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Trump Undang CEO Nvidia, Apple, Exxon dan Boeing untuk Kunjungan China",
+        "excerpt": "Presiden AS Donald Trump dilaporkan mengundang CEO Nvidia, Apple, Exxon dan Boeing untuk bergabung dalam delegasinya ke China, menurut laporan 7 Mei waktu setempat.",
+        "body": "Presiden Amerika Serikat Donald Trump dilaporkan mengundang para CEO perusahaan besar AS, termasuk Nvidia, Apple, Exxon dan Boeing, untuk mendampinginya dalam kunjungan ke China. Menurut Semafor yang dikutip Maeil Business Newspaper, informasi itu disampaikan pada 7 Mei waktu setempat. Laporan ini menarik perhatian karena para pemimpin perusahaan yang mewakili teknologi maju, energi, penerbangan dan rantai pasok global disebut bersama agenda kunjungan presiden AS ke China. Namun, teks asli hanya menyebut adanya undangan dan tidak memberikan rincian tambahan mengenai apakah masing-masing CEO benar-benar akan ikut atau jadwal spesifik kunjungan tersebut. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "692322896785",
+    "slug": "속보-미군-자위-차원서-미사일드론-기지-등-이란군-시설-타격-459880",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T23:01:00.448Z",
+    "updatedAt": "2026-05-07T23:01:00.448Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12040643",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12040643",
+    "titleFingerprint": "db06af228ac06b96a933f2240d668af28c733024",
+    "dedupKeys": [
+      "692322896785459625e08a3c8115a00934be586e",
+      "db06af228ac06b96a933f2240d668af28c733024",
+      "afa21be0254aa67c3411cff0a96601fd888ef552"
+    ],
+    "imageUrl": "/images/articles/692322896785.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미군, 호르무즈 인근 이란군 시설 타격…“자위 차원 대응”",
+        "excerpt": "미군은 7일 현지시간 호르무즈 해협 인근 공습과 관련해 이란군의 선제공격에 대응한 자위적 조치였다고 밝혔고, 이란군은 휴전 위반과 민간 지역 공격을 주장했다.",
+        "body": "7일 현지시간 호르무즈 해협 인근에서 발생한 미군의 공습을 두고 미국과 이란이 상반된 입장을 내놨다. 이란군은 미국이 휴전 합의를 위반하고 민간 지역을 공격했다고 주장했다. 반면 미군은 이번 타격이 이란군의 선제공격에 대한 자위적 대응이었다고 설명했다. 미군은 자위 차원에서 미사일·드론 기지 등 이란군 시설을 타격했다고 밝혔다. 호르무즈 해협 인근 군사 충돌을 둘러싼 양측의 책임 공방이 이어지면서 긴장 수위와 휴전 합의 이행 여부에 관심이 쏠린다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "U.S. Strikes Iranian Military Sites Near Hormuz, Calls It Self-Defense",
+        "excerpt": "The U.S. military said on May 7 local time that its strikes near the Strait of Hormuz were self-defense against an Iranian first attack, while Iran claimed a ceasefire breach and civilian attacks.",
+        "body": "On May 7 local time, the United States and Iran issued sharply different accounts of U.S. airstrikes near the Strait of Hormuz. Iran’s military claimed the United States violated a ceasefire agreement and attacked civilian areas. The U.S. military, however, said the strikes were a defensive response to an initial attack by Iranian forces. It said Iranian military facilities, including missile and drone bases, were hit in self-defense. As both sides dispute responsibility for the military clash near the Strait of Hormuz, attention is turning to the level of tension and whether the ceasefire agreement will be upheld. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米軍、ホルムズ海峡付近のイラン軍施設を攻撃「自衛措置」",
+        "excerpt": "米軍は現地時間7日、ホルムズ海峡付近での空爆についてイラン軍の先制攻撃に対する自衛的対応だったと説明し、イラン軍は停戦違反と民間地域への攻撃を主張した。",
+        "body": "現地時間7日、ホルムズ海峡付近で発生した米軍の空爆をめぐり、米国とイランは異なる見解を示した。イラン軍は、米国が停戦合意に違反し、民間地域を攻撃したと主張した。一方、米軍は今回の攻撃について、イラン軍の先制攻撃に対する自衛的対応だったと説明した。米軍は、自衛のためミサイル・ドローン基地などイラン軍施設を攻撃したと明らかにした。ホルムズ海峡付近の軍事衝突をめぐる責任の応酬が続くなか、緊張の水準と停戦合意の履行が注目されている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美军打击霍尔木兹附近伊朗军事设施，称属“自卫回应”",
+        "excerpt": "美军称，当地时间7日其在霍尔木兹海峡附近的空袭是对伊朗军方先行攻击的自卫回应；伊朗军方则指控美国违反停火协议并攻击民用地区。",
+        "body": "当地时间7日，围绕美军在霍尔木兹海峡附近发动的空袭，美国和伊朗给出了截然不同的说法。伊朗军方声称，美国违反停火协议，并攻击了民用地区。美军则表示，此次打击是对伊朗军方先行攻击所作出的自卫性回应。美军称，其出于自卫，打击了包括导弹和无人机基地在内的伊朗军事设施。随着双方围绕霍尔木兹海峡附近军事冲突的责任继续交锋，紧张程度以及停火协议是否得到履行受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "EE. UU. ataca instalaciones iraníes cerca de Ormuz y alega autodefensa",
+        "excerpt": "El ejército estadounidense dijo el 7 de mayo, hora local, que sus ataques cerca del estrecho de Ormuz fueron una respuesta defensiva a un ataque inicial iraní; Irán denunció violación del alto el fuego y ataques a civiles.",
+        "body": "El 7 de mayo, hora local, Estados Unidos e Irán presentaron versiones opuestas sobre los ataques aéreos estadounidenses cerca del estrecho de Ormuz. El ejército iraní afirmó que Estados Unidos violó un acuerdo de alto el fuego y atacó zonas civiles. En cambio, el ejército estadounidense sostuvo que los bombardeos fueron una respuesta de autodefensa ante un ataque inicial de fuerzas iraníes. Washington dijo que atacó instalaciones militares iraníes, incluidas bases de misiles y drones, en defensa propia. Mientras continúa la disputa sobre la responsabilidad del choque militar cerca de Ormuz, crece la atención sobre el nivel de tensión y el cumplimiento del alto el fuego. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "EUA atacam instalações iranianas perto de Ormuz e alegam autodefesa",
+        "excerpt": "Os militares dos EUA disseram em 7 de maio, hora local, que os ataques perto do estreito de Ormuz foram uma resposta defensiva a um ataque inicial iraniano; o Irã acusou violação do cessar-fogo e ataques a civis.",
+        "body": "Em 7 de maio, hora local, Estados Unidos e Irã apresentaram versões opostas sobre os ataques aéreos americanos perto do estreito de Ormuz. As forças iranianas afirmaram que os EUA violaram um acordo de cessar-fogo e atacaram áreas civis. Já os militares americanos disseram que a ação foi uma resposta de autodefesa a um ataque inicial das forças iranianas. Segundo os EUA, instalações militares iranianas, incluindo bases de mísseis e drones, foram atingidas em legítima defesa. Com a disputa de responsabilidades sobre o choque militar perto de Ormuz, cresce a atenção sobre a tensão e o cumprimento do cessar-fogo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-Militär greift iranische Anlagen nahe Hormus an und spricht von Selbstverteidigung",
+        "excerpt": "Das US-Militär erklärte am 7. Mai Ortszeit, die Angriffe nahe der Straße von Hormus seien eine Selbstverteidigung gegen einen iranischen Erstangriff gewesen; Iran sprach von Waffenruhebruch und Angriffen auf Zivilgebiete.",
+        "body": "Am 7. Mai Ortszeit haben die USA und Iran gegensätzliche Darstellungen zu US-Luftangriffen nahe der Straße von Hormus vorgelegt. Das iranische Militär behauptete, die USA hätten eine Waffenruhevereinbarung verletzt und zivile Gebiete angegriffen. Das US-Militär erklärte dagegen, die Schläge seien eine defensive Reaktion auf einen Erstangriff iranischer Kräfte gewesen. Es teilte mit, iranische Militäreinrichtungen, darunter Raketen- und Drohnenstützpunkte, aus Gründen der Selbstverteidigung getroffen zu haben. Während beide Seiten über die Verantwortung für den militärischen Zusammenstoß nahe Hormus streiten, richtet sich der Blick auf die Spannungen und die Einhaltung der Waffenruhe. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les États-Unis frappent des sites iraniens près d’Ormuz et invoquent l’autodéfense",
+        "excerpt": "L’armée américaine a déclaré le 7 mai, heure locale, que ses frappes près du détroit d’Ormuz répondaient en autodéfense à une attaque initiale iranienne; l’Iran a dénoncé une violation du cessez-le-feu et des attaques contre des civils.",
+        "body": "Le 7 mai, heure locale, les États-Unis et l’Iran ont donné des versions opposées des frappes aériennes américaines près du détroit d’Ormuz. L’armée iranienne a affirmé que les États-Unis avaient violé un accord de cessez-le-feu et attaqué des zones civiles. L’armée américaine a, de son côté, expliqué que les frappes constituaient une réponse défensive à une attaque initiale des forces iraniennes. Elle a indiqué avoir visé, en autodéfense, des installations militaires iraniennes, dont des bases de missiles et de drones. Alors que les deux parties se renvoient la responsabilité de l’affrontement près d’Ormuz, l’attention se porte sur le niveau de tension et le respect du cessez-le-feu. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الجيش الأميركي يضرب منشآت إيرانية قرب هرمز ويقول إنها دفاع عن النفس",
+        "excerpt": "قال الجيش الأميركي في 7 مايو بالتوقيت المحلي إن ضرباته قرب مضيق هرمز جاءت دفاعا عن النفس ردا على هجوم إيراني أولي، بينما اتهمت إيران واشنطن بانتهاك وقف إطلاق النار ومهاجمة مناطق مدنية.",
+        "body": "في 7 مايو بالتوقيت المحلي، قدمت الولايات المتحدة وإيران روايتين متعارضتين بشأن ضربات جوية أميركية قرب مضيق هرمز. وقال الجيش الإيراني إن الولايات المتحدة انتهكت اتفاق وقف إطلاق النار وهاجمت مناطق مدنية. في المقابل، أوضح الجيش الأميركي أن الضربات كانت ردا دفاعيا على هجوم أولي شنته القوات الإيرانية. وذكر أنه استهدف، في إطار الدفاع عن النفس، منشآت عسكرية إيرانية تشمل قواعد صواريخ وطائرات مسيرة. ومع استمرار تبادل الاتهامات بشأن المسؤولية عن الاشتباك العسكري قرب مضيق هرمز، يتركز الاهتمام على مستوى التوتر ومدى الالتزام باتفاق وقف إطلاق النار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हॉर्मुज के पास ईरानी सैन्य ठिकानों पर अमेरिकी हमला, कहा- आत्मरक्षा में कार्रवाई",
+        "excerpt": "अमेरिकी सेना ने 7 मई स्थानीय समय पर कहा कि हॉर्मुज जलडमरूमध्य के पास की गई कार्रवाई ईरानी सेना के पहले हमले के जवाब में आत्मरक्षा थी, जबकि ईरान ने संघर्षविराम उल्लंघन और नागरिक क्षेत्रों पर हमले का आरोप लगाया।",
+        "body": "7 मई स्थानीय समय पर हॉर्मुज जलडमरूमध्य के पास अमेरिकी हवाई हमलों को लेकर अमेरिका और ईरान ने अलग-अलग दावे किए। ईरानी सेना ने कहा कि अमेरिका ने संघर्षविराम समझौते का उल्लंघन किया और नागरिक क्षेत्रों पर हमला किया। इसके विपरीत अमेरिकी सेना ने कहा कि यह कार्रवाई ईरानी सेना के पहले हमले के जवाब में आत्मरक्षा के तहत की गई। अमेरिकी सेना के अनुसार, आत्मरक्षा में मिसाइल और ड्रोन अड्डों सहित ईरानी सैन्य सुविधाओं को निशाना बनाया गया। हॉर्मुज के पास सैन्य टकराव की जिम्मेदारी को लेकर दोनों पक्षों के आरोप-प्रत्यारोप के बीच तनाव के स्तर और संघर्षविराम समझौते के पालन पर ध्यान केंद्रित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Militer AS Serang Fasilitas Iran Dekat Hormuz, Sebut Tindakan Bela Diri",
+        "excerpt": "Militer AS pada 7 Mei waktu setempat menyatakan serangan di dekat Selat Hormuz merupakan respons bela diri atas serangan awal Iran, sementara Iran menuduh AS melanggar gencatan senjata dan menyerang wilayah sipil.",
+        "body": "Pada 7 Mei waktu setempat, Amerika Serikat dan Iran menyampaikan pernyataan yang saling bertentangan terkait serangan udara AS di dekat Selat Hormuz. Militer Iran mengeklaim Amerika Serikat melanggar kesepakatan gencatan senjata dan menyerang wilayah sipil. Sebaliknya, militer AS menjelaskan bahwa serangan tersebut merupakan respons defensif terhadap serangan awal pasukan Iran. AS menyatakan telah menyerang fasilitas militer Iran, termasuk pangkalan rudal dan drone, sebagai tindakan bela diri. Di tengah silang pendapat mengenai tanggung jawab atas bentrokan militer dekat Hormuz, perhatian tertuju pada tingkat ketegangan dan pelaksanaan kesepakatan gencatan senjata. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "71c058da6b09",
+    "slug": "비비라고-부르기로-했다둘째-딸-출산한-최연소-백악관-대변인-666338",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T23:00:04.030Z",
+    "updatedAt": "2026-05-07T23:00:04.030Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12040687",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12040687",
+    "titleFingerprint": "b44060235905ccf1e87b5aaf73f580582f782bf7",
+    "dedupKeys": [
+      "71c058da6b09713c75d335a4f9bcf406fa0f5eba",
+      "b44060235905ccf1e87b5aaf73f580582f782bf7",
+      "3a92c9367951614fc21d09affcd4e61a2975523c"
+    ],
+    "imageUrl": "/images/articles/71c058da6b09.png",
+    "i18n": {
+      "ko": {
+        "title": "백악관 대변인 캐럴라인 레빗, 둘째 딸 출산…이름은 ‘비비’",
+        "excerpt": "도널드 트럼프 미국 대통령의 대변인 캐럴라인 레빗이 7일 소셜미디어를 통해 지난 1일 둘째 딸을 출산했으며 이름을 비비로 정했다고 밝혔다.",
+        "body": "도널드 트럼프 미국 대통령의 ‘입’으로 불리는 캐럴라인 레빗 백악관 대변인이 둘째 아이를 출산했다고 7일 자신의 소셜미디어 계정을 통해 밝혔다. 레빗 대변인이 공개한 내용에 따르면 아이는 지난 1일 태어난 딸이며, 이름은 ‘비비’로 정했다. 28세인 레빗 대변인은 ‘최연소’ 백악관 대변인으로 소개돼 왔다. 이번 소식은 현직 백악관 대변인의 개인적 근황으로, 트럼프 대통령을 대변하는 공식 직책을 맡고 있는 인물이라는 점에서 관심을 모았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "White House Press Secretary Caroline Leavitt Welcomes Second Daughter, ‘Vivi’",
+        "excerpt": "Caroline Leavitt, press secretary for U.S. President Donald Trump, said on social media on May 7 that she gave birth to a second daughter on May 1 and named her Vivi.",
+        "body": "Caroline Leavitt, the White House press secretary known as the voice of U.S. President Donald Trump, announced on May 7 through her social media account that she has given birth to her second child. According to Leavitt, the baby is a daughter born on May 1, and her name is ‘Vivi.’ Leavitt, 28, has been introduced as the youngest White House press secretary. The news drew attention as a personal update from a current White House spokesperson who serves in an official role representing President Trump. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ホワイトハウス報道官キャロライン・レビット氏、次女出産…名前は「ビビ」",
+        "excerpt": "ドナルド・トランプ米大統領の報道官キャロライン・レビット氏が7日、SNSで1日に第2子となる女児を出産し、名前をビビにしたと明らかにした。",
+        "body": "ドナルド・トランプ米大統領の「口」と呼ばれるキャロライン・レビット・ホワイトハウス報道官が7日、自身のソーシャルメディアアカウントを通じて第2子を出産したと明らかにした。レビット報道官が公開した内容によると、赤ちゃんは1日に生まれた女児で、名前は「ビビ」に決めたという。28歳のレビット報道官は「最年少」のホワイトハウス報道官として紹介されてきた。今回の知らせは、トランプ大統領を代弁する公職にある現職報道官の近況として関心を集めた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "白宫发言人卡罗琳·莱维特生下二女，取名“Vivi”",
+        "excerpt": "美国总统唐纳德·特朗普的发言人卡罗琳·莱维特7日通过社交媒体表示，她于1日生下第二个女儿，并将其命名为Vivi。",
+        "body": "被称为美国总统唐纳德·特朗普“代言人”的白宫发言人卡罗琳·莱维特7日通过自己的社交媒体账号宣布，她已生下第二个孩子。根据莱维特公开的内容，孩子是于1日出生的女儿，名字定为“Vivi”。现年28岁的莱维特一直被介绍为“最年轻”的白宫发言人。此次消息作为现任白宫发言人的个人近况受到关注，因为她担任着代表特朗普总统发声的正式职务。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La portavoz de la Casa Blanca Caroline Leavitt da a luz a su segunda hija, ‘Vivi’",
+        "excerpt": "Caroline Leavitt, portavoz del presidente estadounidense Donald Trump, anunció el día 7 en redes sociales que dio a luz el día 1 a su segunda hija, llamada Vivi.",
+        "body": "Caroline Leavitt, portavoz de la Casa Blanca y conocida como la voz del presidente estadounidense Donald Trump, anunció el día 7 a través de su cuenta en redes sociales que dio a luz a su segundo hijo. Según lo comunicado por Leavitt, la bebé es una niña nacida el día 1 y su nombre será ‘Vivi.’ Leavitt, de 28 años, ha sido presentada como la portavoz más joven de la Casa Blanca. La noticia atrajo atención como una actualización personal de una portavoz en funciones que ocupa el cargo oficial de representar al presidente Trump. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Porta-voz da Casa Branca Caroline Leavitt dá à luz segunda filha, ‘Vivi’",
+        "excerpt": "Caroline Leavitt, porta-voz do presidente dos EUA Donald Trump, informou no dia 7 nas redes sociais que deu à luz no dia 1 sua segunda filha, chamada Vivi.",
+        "body": "Caroline Leavitt, porta-voz da Casa Branca conhecida como a voz do presidente dos Estados Unidos, Donald Trump, anunciou no dia 7 em sua conta nas redes sociais que deu à luz seu segundo filho. Segundo o que Leavitt divulgou, o bebê é uma menina nascida no dia 1, e o nome escolhido foi ‘Vivi.’ Leavitt, de 28 anos, tem sido apresentada como a porta-voz mais jovem da Casa Branca. A notícia chamou atenção como uma atualização pessoal de uma porta-voz em exercício que ocupa o cargo oficial de representar o presidente Trump. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Weiße-Haus-Sprecherin Caroline Leavitt bekommt zweite Tochter: ‘Vivi’",
+        "excerpt": "Caroline Leavitt, Sprecherin von US-Präsident Donald Trump, teilte am 7. in sozialen Medien mit, dass sie am 1. ihre zweite Tochter zur Welt gebracht und Vivi genannt hat.",
+        "body": "Caroline Leavitt, die Pressesprecherin des Weißen Hauses und als Stimme von US-Präsident Donald Trump bekannt, gab am 7. über ihren Social-Media-Account bekannt, dass sie ihr zweites Kind zur Welt gebracht hat. Nach den von Leavitt veröffentlichten Angaben ist das Baby eine am 1. geborene Tochter, deren Name ‘Vivi’ ist. Die 28-jährige Leavitt wurde als jüngste Pressesprecherin des Weißen Hauses vorgestellt. Die Nachricht fand Aufmerksamkeit als persönliche Mitteilung einer amtierenden Sprecherin, die in offizieller Funktion Präsident Trump vertritt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Caroline Leavitt, porte-parole de la Maison-Blanche, accueille sa deuxième fille, ‘Vivi’",
+        "excerpt": "Caroline Leavitt, porte-parole du président américain Donald Trump, a annoncé le 7 sur les réseaux sociaux avoir donné naissance le 1er à sa deuxième fille, prénommée Vivi.",
+        "body": "Caroline Leavitt, porte-parole de la Maison-Blanche et connue comme la voix du président américain Donald Trump, a annoncé le 7 sur son compte de réseau social avoir donné naissance à son deuxième enfant. Selon les informations publiées par Leavitt, le bébé est une fille née le 1er, et son prénom est ‘Vivi.’ Âgée de 28 ans, Leavitt a été présentée comme la plus jeune porte-parole de la Maison-Blanche. Cette nouvelle a retenu l’attention comme une information personnelle concernant une porte-parole en poste, chargée officiellement de représenter le président Trump. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "المتحدثة باسم البيت الأبيض كارولاين ليفيت تنجب ابنتها الثانية وتسميها «فيفي»",
+        "excerpt": "أعلنت كارولاين ليفيت، المتحدثة باسم الرئيس الأميركي دونالد ترامب، عبر حسابها على وسائل التواصل يوم 7 أنها أنجبت ابنتها الثانية في يوم 1 وأطلقت عليها اسم فيفي.",
+        "body": "أعلنت كارولاين ليفيت، المتحدثة باسم البيت الأبيض والمعروفة بأنها صوت الرئيس الأميركي دونالد ترامب، يوم 7 عبر حسابها على وسائل التواصل الاجتماعي أنها أنجبت طفلها الثاني. وبحسب ما نشرته ليفيت، فإن المولودة ابنة وُلدت يوم 1، وقد اختير لها اسم «فيفي». وتبلغ ليفيت 28 عاما، وقد قُدمت بوصفها أصغر متحدثة باسم البيت الأبيض. ولفت الخبر الانتباه باعتباره مستجدا شخصيا لمسؤولة حالية تتولى منصبا رسميا في تمثيل الرئيس ترامب إعلاميا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "व्हाइट हाउस प्रवक्ता कैरोलाइन लेविट ने दूसरी बेटी को जन्म दिया, नाम रखा ‘विवी’",
+        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की प्रवक्ता कैरोलाइन लेविट ने 7 तारीख को सोशल मीडिया पर बताया कि उन्होंने 1 तारीख को दूसरी बेटी को जन्म दिया और उसका नाम विवी रखा।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की आवाज मानी जाने वाली व्हाइट हाउस प्रेस सचिव कैरोलाइन लेविट ने 7 तारीख को अपने सोशल मीडिया खाते के जरिए बताया कि उन्होंने अपने दूसरे बच्चे को जन्म दिया है। लेविट द्वारा साझा जानकारी के अनुसार, बच्ची 1 तारीख को पैदा हुई बेटी है और उसका नाम ‘विवी’ रखा गया है। 28 वर्षीय लेविट को व्हाइट हाउस की सबसे कम उम्र की प्रेस सचिव के रूप में紹介 किया गया है। यह खबर इसलिए ध्यान में आई क्योंकि यह राष्ट्रपति ट्रंप का प्रतिनिधित्व करने वाली मौजूदा आधिकारिक प्रवक्ता की निजी जानकारी है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Juru Bicara Gedung Putih Caroline Leavitt Melahirkan Putri Kedua, ‘Vivi’",
+        "excerpt": "Caroline Leavitt, juru bicara Presiden AS Donald Trump, mengumumkan pada 7 melalui media sosial bahwa ia melahirkan putri keduanya pada 1 dan menamainya Vivi.",
+        "body": "Caroline Leavitt, juru bicara Gedung Putih yang dikenal sebagai suara Presiden Amerika Serikat Donald Trump, mengumumkan pada 7 melalui akun media sosialnya bahwa ia telah melahirkan anak keduanya. Menurut informasi yang dibagikan Leavitt, bayi tersebut adalah putri yang lahir pada 1, dan namanya ditetapkan sebagai ‘Vivi.’ Leavitt, 28 tahun, telah diperkenalkan sebagai juru bicara Gedung Putih termuda. Kabar ini menarik perhatian sebagai perkembangan pribadi dari juru bicara aktif yang memegang jabatan resmi untuk mewakili Presiden Trump. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "e99e3a0278ca",
     "slug": "안경-독특한-디자인-나오기-어려워젠몬-모방-논란-블루엘리펀트-정면승부-현장-312679",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Incheon i-Pass Tembus 400 Ribu Pengguna, Siswa Dapat Manfaat Agustus",
         "excerpt": "Kartu transportasi diskon tanpa batas Incheon i-Pass melampaui 400 ribu pendaftar dua tahun setelah diluncurkan, mencakup sekitar 47% pengguna riil transportasi publik di Incheon.",
         "body": "Kartu transportasi diskon tanpa batas milik Kota Incheon, Incheon i-Pass, untuk pertama kalinya melampaui 400 ribu pendaftar dua tahun setelah diluncurkan. Sekitar 47% pengguna riil transportasi publik di wilayah Incheon tercatat telah bergabung dengan kartu ini. Incheon i-Pass merupakan kebijakan diskon transportasi lokal untuk mengurangi beban biaya transportasi publik, dan basis penggunaannya melebar setelah jumlah pendaftar melewati 400 ribu. Pada Agustus, siswa SMP dan SMA juga dijadwalkan menerima manfaat, sehingga perhatian tertuju pada apakah pertumbuhan pendaftar dan efek penghematan ongkos akan berlanjut. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "1bb44c65ca4b",
-    "slug": "인기검색top5-젠큐릭스-삼성ea-심텍-두산에너빌리티-현대차-718147",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T09:31:26.104Z",
-    "updatedAt": "2026-05-07T09:31:26.104Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039495",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039495",
-    "titleFingerprint": "6924dfb2a4f5b2b5ac2b505388b4321133b26b76",
-    "dedupKeys": [
-      "1bb44c65ca4b56d37c790be7ba39e35325966219",
-      "6924dfb2a4f5b2b5ac2b505388b4321133b26b76",
-      "e2146428fc39b7b459aedc8f1077343d57d34f8e"
-    ],
-    "imageUrl": "/images/articles/1bb44c65ca4b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "젠큐릭스·삼성E&A 등 인기검색 TOP5, 라씨 매매비서 분석 종목 주목",
-        "excerpt": "주식 AI 라씨 매매비서가 오늘 인기검색종목으로 젠큐릭스, 삼성E&A, 심텍, 두산에너빌리티, 현대차를 분석하며 실시간 매매타이밍 정보에 관심이 모였다.",
-        "body": "주식 AI 라씨 매매비서가 오늘 투자자들이 많이 찾은 인기검색종목 TOP5로 젠큐릭스, 삼성E&A, 심텍, 두산에너빌리티, 현대차를 분석했다. 원문에 따르면 젠큐릭스는 +30.00%, 삼성E&A는 +22.26%로 언급됐고, 심텍을 비롯한 나머지 종목도 인기검색 목록에 포함됐다. 라씨 매매비서는 최적의 매매타이밍을 실시간으로 전송해 투자자들에게 도움을 주는 서비스로 소개됐다. 이번 목록은 단기 주가 변동과 검색 관심이 동시에 높아진 종목을 확인하려는 투자자들의 참고 자료가 될 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "GenCurix and Samsung E&A Lead Top 5 Popular Stock Searches in RASSI Analysis",
-        "excerpt": "Stock AI service RASSI Trading Assistant analyzed today’s popular searches, including GenCurix, Samsung E&A, Simmtech, Doosan Enerbility and Hyundai Motor.",
-        "body": "Stock AI service RASSI Trading Assistant analyzed today’s top five popular stock searches: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility and Hyundai Motor. According to the original report, GenCurix was cited at +30.00% and Samsung E&A at +22.26%, while Simmtech and the other named stocks were also included in the popular-search list. RASSI Trading Assistant was introduced as a service that helps investors by sending optimal trading timing information in real time. The list may serve as reference material for investors checking stocks with heightened short-term price movement and search interest. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ジェンキュリックス・Samsung E&Aなど人気検索TOP5、RASSI分析に注目",
-        "excerpt": "株式AIのRASSI売買アシスタントが本日、ジェンキュリックス、Samsung E&A、Simmtech、斗山エナビリティ、現代自動車を人気検索銘柄として分析した。",
-        "body": "株式AIのRASSI売買アシスタントは本日、投資家の検索関心が高い人気検索銘柄TOP5として、ジェンキュリックス、Samsung E&A、Simmtech、斗山エナビリティ、現代自動車を分析した。原文によると、ジェンキュリックスは+30.00%、Samsung E&Aは+22.26%として言及され、Simmtechを含むその他の銘柄も人気検索リストに入った。RASSI売買アシスタントは、最適な売買タイミングをリアルタイムで送信し投資家を支援するサービスとして紹介された。今回のリストは、短期的な株価変動と検索関心が高まった銘柄を確認する投資家の参考資料になり得る。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "GenCurix、三星E&A等热门搜索TOP5受关注，RASSI交易助手分析",
-        "excerpt": "股票AI RASSI交易助手今日分析热门搜索股票，包括GenCurix、三星E&A、Simmtech、斗山能源和现代汽车，实时买卖时机信息受到关注。",
-        "body": "股票AI RASSI交易助手今日分析了投资者关注度较高的热门搜索股票TOP5，包括GenCurix、三星E&A、Simmtech、斗山能源和现代汽车。根据原文，GenCurix被提及为+30.00%，三星E&A为+22.26%，Simmtech及其余相关股票也进入热门搜索名单。RASSI交易助手被介绍为通过实时发送最佳买卖时机来帮助投资者的服务。此次名单可作为投资者查看短期股价波动和搜索关注度同时上升股票的参考资料。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "GenCurix y Samsung E&A encabezan el TOP5 de búsquedas bursátiles analizadas por RASSI",
-        "excerpt": "El asistente bursátil con IA RASSI analizó hoy las acciones más buscadas: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility y Hyundai Motor.",
-        "body": "El asistente bursátil con IA RASSI analizó hoy el TOP5 de valores más buscados por los inversores: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility y Hyundai Motor. Según el texto original, GenCurix fue mencionado con +30,00% y Samsung E&A con +22,26%, mientras que Simmtech y los demás valores citados también formaron parte de la lista de búsquedas populares. RASSI fue presentado como un servicio que ayuda a los inversores enviando en tiempo real información sobre el momento óptimo de compraventa. La lista puede servir como referencia para quienes revisan valores con mayor movimiento de precio a corto plazo e interés de búsqueda. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "GenCurix e Samsung E&A lideram TOP5 de buscas por ações em análise da RASSI",
-        "excerpt": "A assistente de negociação com IA RASSI analisou hoje GenCurix, Samsung E&A, Simmtech, Doosan Enerbility e Hyundai Motor entre as ações mais buscadas.",
-        "body": "A assistente de negociação com IA RASSI analisou hoje o TOP5 das ações mais buscadas pelos investidores: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility e Hyundai Motor. Segundo o texto original, GenCurix foi citada com +30,00% e Samsung E&A com +22,26%, enquanto Simmtech e os demais papéis mencionados também entraram na lista de buscas populares. A RASSI foi apresentada como um serviço que ajuda investidores ao enviar em tempo real informações sobre o momento ideal de compra e venda. A lista pode servir de referência para investidores que acompanham ações com maior variação de curto prazo e interesse de busca. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "GenCurix und Samsung E&A im Top-5-Suchtrend: RASSI analysiert gefragte Aktien",
-        "excerpt": "Der Aktien-KI-Assistent RASSI analysierte heute GenCurix, Samsung E&A, Simmtech, Doosan Enerbility und Hyundai Motor als besonders gesuchte Titel.",
-        "body": "Der Aktien-KI-Assistent RASSI Trading Assistant analysierte heute die fünf bei Anlegern besonders häufig gesuchten Aktien: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility und Hyundai Motor. Dem Originalbericht zufolge wurde GenCurix mit +30,00% und Samsung E&A mit +22,26% genannt; auch Simmtech und die übrigen genannten Werte standen auf der Liste der beliebten Suchanfragen. RASSI wurde als Dienst beschrieben, der Anleger unterstützt, indem er optimale Handelszeitpunkte in Echtzeit übermittelt. Die Liste kann Anlegern als Referenz dienen, die Aktien mit kurzfristiger Kursbewegung und erhöhtem Suchinteresse prüfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "GenCurix et Samsung E&A dans le TOP5 des recherches actions analysées par RASSI",
-        "excerpt": "L’assistant de trading boursier par IA RASSI a analysé aujourd’hui GenCurix, Samsung E&A, Simmtech, Doosan Enerbility et Hyundai Motor parmi les titres les plus recherchés.",
-        "body": "L’assistant de trading boursier par IA RASSI a analysé aujourd’hui le TOP5 des actions les plus recherchées par les investisseurs: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility et Hyundai Motor. Selon le texte original, GenCurix a été mentionné à +30,00% et Samsung E&A à +22,26%, tandis que Simmtech et les autres titres cités figuraient aussi dans la liste des recherches populaires. RASSI a été présenté comme un service aidant les investisseurs en envoyant en temps réel des informations sur le moment optimal d’achat et de vente. Cette liste peut servir de référence aux investisseurs suivant les titres associés à des mouvements de prix à court terme et à un intérêt de recherche accru. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جينكيوريكس وسامسونغ E&A ضمن أكثر 5 أسهم بحثا في تحليل مساعد RASSI",
-        "excerpt": "حلل مساعد تداول الأسهم المعتمد على الذكاء الاصطناعي RASSI اليوم أسهما رائجة في البحث، منها جينكيوريكس وسامسونغ E&A وسيمتك ودوسان إنربيليتي وهيونداي موتور.",
-        "body": "حلل مساعد تداول الأسهم المعتمد على الذكاء الاصطناعي RASSI اليوم أكثر خمسة أسهم بحثا بين المستثمرين: جينكيوريكس، سامسونغ E&A، سيمتك، دوسان إنربيليتي، وهيونداي موتور. ووفقا للنص الأصلي، ذُكرت جينكيوريكس بنسبة +30.00% وسامسونغ E&A بنسبة +22.26%، كما أُدرجت سيمتك وبقية الأسهم المذكورة في قائمة عمليات البحث الرائجة. وقد قُدم RASSI كخدمة تساعد المستثمرين عبر إرسال معلومات توقيت التداول الأمثل في الوقت الحقيقي. ويمكن أن تكون هذه القائمة مرجعا للمستثمرين الذين يتابعون الأسهم ذات حركة الأسعار القصيرة الأجل وارتفاع الاهتمام البحثي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "GenCurix और Samsung E&A टॉप 5 लोकप्रिय स्टॉक खोजों में, RASSI विश्लेषण पर नजर",
-        "excerpt": "स्टॉक AI RASSI Trading Assistant ने आज GenCurix, Samsung E&A, Simmtech, Doosan Enerbility और Hyundai Motor को लोकप्रिय खोज वाले शेयरों में विश्लेषित किया।",
-        "body": "स्टॉक AI सेवा RASSI Trading Assistant ने आज निवेशकों द्वारा अधिक खोजे गए शीर्ष पांच शेयरों के रूप में GenCurix, Samsung E&A, Simmtech, Doosan Enerbility और Hyundai Motor का विश्लेषण किया। मूल रिपोर्ट के अनुसार, GenCurix को +30.00% और Samsung E&A को +22.26% के साथ उल्लेखित किया गया, जबकि Simmtech और बाकी नामित शेयर भी लोकप्रिय खोज सूची में शामिल रहे। RASSI Trading Assistant को ऐसी सेवा के रूप में पेश किया गया है जो निवेशकों की मदद के लिए वास्तविक समय में सर्वोत्तम ट्रेडिंग टाइमिंग की जानकारी भेजती है। यह सूची अल्पकालिक मूल्य बदलाव और खोज रुचि बढ़ने वाले शेयरों को देखने वाले निवेशकों के लिए संदर्भ बन सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "GenCurix dan Samsung E&A Masuk TOP5 Pencarian Saham, Analisis RASSI Disorot",
-        "excerpt": "Asisten trading saham berbasis AI RASSI hari ini menganalisis GenCurix, Samsung E&A, Simmtech, Doosan Enerbility, dan Hyundai Motor sebagai saham populer dicari.",
-        "body": "Asisten trading saham berbasis AI RASSI hari ini menganalisis lima saham yang paling banyak dicari investor: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility, dan Hyundai Motor. Menurut teks asli, GenCurix disebut dengan +30,00% dan Samsung E&A dengan +22,26%, sementara Simmtech serta saham lain yang disebutkan juga masuk daftar pencarian populer. RASSI diperkenalkan sebagai layanan yang membantu investor dengan mengirimkan informasi waktu trading optimal secara real time. Daftar ini dapat menjadi referensi bagi investor yang memantau saham dengan pergerakan harga jangka pendek dan minat pencarian yang meningkat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ed11f17d5ebe",
-    "slug": "아이-낳고-싶다는-요즘-미혼남녀출산의향-40-첫-돌파-659869",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T09:30:30.006Z",
-    "updatedAt": "2026-05-07T09:30:30.006Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12039497",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12039497",
-    "titleFingerprint": "2c67b2e5ffb90adcce2ed543c8a05702a5f190b6",
-    "dedupKeys": [
-      "ed11f17d5ebe9ec3557c7e728e9a93e6ecce718d",
-      "2c67b2e5ffb90adcce2ed543c8a05702a5f190b6",
-      "65ba8f166a6202c43aab8c810c2684c13f0020b3"
-    ],
-    "imageUrl": "/images/articles/ed11f17d5ebe.png",
-    "i18n": {
-      "ko": {
-        "title": "미혼남녀 출산의향 40% 첫 돌파…결혼 긍정 인식 65%로 상승",
-        "excerpt": "제5차 저출생 대책 인식조사에서 국내 미혼남녀의 출산의향이 처음 40%를 넘고 결혼 긍정 응답은 65%, 자녀 필요 응답은 62.6%로 나타났다.",
-        "body": "국내 미혼남녀의 결혼과 출산에 대한 인식이 최근 2년 사이 뚜렷하게 개선된 것으로 나타났다. 제5차 저출생 대책 인식조사에 따르면 미혼남녀 가운데 출산의향이 처음으로 40%를 돌파했다. 결혼에 대해 긍정적이라고 답한 비율은 65%였고, 자녀가 필요하다고 응답한 비율은 62.6%로 집계됐다. 이번 결과는 저출생 흐름 속에서도 결혼과 자녀에 대한 태도 변화가 확인됐다는 점에서 주목된다. 다만 원문은 인식 개선이 실제 결혼·출산 증가로 이어질지에 대해서는 추가 판단을 제시하지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Birth Intentions Among Unmarried Koreans Top 40% for First Time",
-        "excerpt": "South Korea’s fifth low-birthrate policy perception survey found birth intentions among unmarried men and women exceeded 40% for the first time, with 65% positive on marriage.",
-        "body": "Perceptions of marriage and childbirth among unmarried men and women in South Korea have improved noticeably over the past two years. According to the fifth perception survey on low-birthrate policies, the share of unmarried respondents expressing an intention to have children surpassed 40% for the first time. The survey also found that 65% viewed marriage positively, while 62.6% said children are necessary. The results draw attention because they show a shift in attitudes toward marriage and children amid the country’s low-birthrate trend. The original report did not make an additional judgment on whether this change in perception will lead to higher marriage or birth numbers. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国の未婚男女、出産意向が初の40％超え…結婚肯定65％",
-        "excerpt": "第5次少子化対策認識調査で、韓国の未婚男女の出産意向が初めて40％を超え、結婚に肯定的な回答は65％、子どもが必要との回答は62.6％だった。",
-        "body": "韓国の未婚男女の結婚と出産に対する認識が、最近2年の間に明確に改善したことが分かった。第5次少子化対策認識調査によると、未婚男女のうち出産意向を示した割合が初めて40％を突破した。結婚に肯定的だと答えた割合は65％で、子どもが必要だと回答した割合は62.6％と集計された。今回の結果は、少子化の流れの中でも結婚と子どもに対する態度の変化が確認された点で注目される。ただし原文は、認識の改善が実際の結婚や出生の増加につながるかについて追加の判断は示していない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国未婚男女生育意愿首次突破40%，婚姻正面认知达65%",
-        "excerpt": "第五次低生育对策认知调查显示，韩国未婚男女生育意愿首次超过40%，65%对婚姻持正面态度，62.6%认为需要子女。",
-        "body": "韩国未婚男女对结婚和生育的认知在最近两年间明显改善。根据第五次低生育对策认知调查，未婚男女中表达生育意愿的比例首次突破40%。调查还显示，65%的受访者对结婚持正面态度，62.6%的人回答认为子女是必要的。在低生育趋势持续的背景下，这一结果因显示出对婚姻和子女态度的变化而受到关注。不过，原文并未进一步判断这种认知改善是否会转化为实际结婚或出生人数的增加。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Solteros coreanos superan por primera vez el 40% en intención de tener hijos",
-        "excerpt": "La quinta encuesta sobre medidas contra la baja natalidad en Corea del Sur mostró que la intención de tener hijos entre solteros superó por primera vez el 40%.",
-        "body": "La percepción sobre el matrimonio y la natalidad entre hombres y mujeres solteros de Corea del Sur ha mejorado claramente en los últimos dos años. Según la quinta encuesta de percepción sobre medidas contra la baja natalidad, la proporción de solteros con intención de tener hijos superó por primera vez el 40%. Además, el 65% respondió que ve el matrimonio de forma positiva y el 62,6% dijo que los hijos son necesarios. El resultado destaca porque confirma un cambio de actitud hacia el matrimonio y los hijos en medio de la tendencia de baja natalidad. El texto original no ofrece una valoración adicional sobre si esta mejora de percepción se traducirá en más matrimonios o nacimientos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Solteiros coreanos veem intenção de ter filhos passar de 40% pela primeira vez",
-        "excerpt": "A quinta pesquisa sobre políticas contra a baixa natalidade na Coreia do Sul mostrou intenção de ter filhos acima de 40% entre solteiros, com 65% positivos sobre casamento.",
-        "body": "A percepção sobre casamento e nascimento de filhos entre homens e mulheres solteiros da Coreia do Sul melhorou de forma clara nos últimos dois anos. Segundo a quinta pesquisa de percepção sobre medidas contra a baixa natalidade, a parcela de solteiros com intenção de ter filhos ultrapassou 40% pela primeira vez. O levantamento também apontou que 65% veem o casamento de forma positiva, enquanto 62,6% disseram que filhos são necessários. O resultado chama atenção por mostrar uma mudança de atitude em relação ao casamento e aos filhos em meio ao cenário de baixa natalidade. O texto original não apresentou avaliação adicional sobre se essa melhora de percepção levará a mais casamentos ou nascimentos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Geburtsabsicht unverheirateter Koreaner erstmals über 40 Prozent",
-        "excerpt": "Die fünfte Umfrage zu Maßnahmen gegen niedrige Geburtenraten in Südkorea zeigt: Die Geburtsabsicht Unverheirateter überschritt erstmals 40%, 65% bewerten Ehe positiv.",
-        "body": "Die Haltung unverheirateter Männer und Frauen in Südkorea zu Ehe und Geburt hat sich in den vergangenen zwei Jahren deutlich verbessert. Laut der fünften Wahrnehmungsumfrage zu Maßnahmen gegen die niedrige Geburtenrate überschritt der Anteil unverheirateter Befragter mit Kinderwunsch erstmals 40%. Zudem gaben 65% an, die Ehe positiv zu sehen, während 62,6% sagten, Kinder seien notwendig. Das Ergebnis ist bemerkenswert, weil es inmitten des Trends niedriger Geburtenraten eine veränderte Einstellung zu Ehe und Kindern zeigt. Der Originalbericht trifft jedoch keine zusätzliche Einschätzung dazu, ob diese Wahrnehmungsänderung zu mehr Eheschließungen oder Geburten führen wird. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Corée du Sud: l’intention d’avoir des enfants chez les célibataires dépasse 40%",
-        "excerpt": "La cinquième enquête sur les mesures contre la faible natalité montre que l’intention d’avoir des enfants chez les célibataires sud-coréens dépasse 40% pour la première fois.",
-        "body": "La perception du mariage et de la naissance d’enfants chez les hommes et femmes célibataires en Corée du Sud s’est nettement améliorée au cours des deux dernières années. Selon la cinquième enquête de perception sur les mesures contre la faible natalité, la part des célibataires déclarant vouloir avoir des enfants a dépassé 40% pour la première fois. L’enquête indique aussi que 65% ont une opinion positive du mariage et que 62,6% estiment que les enfants sont nécessaires. Ce résultat retient l’attention car il confirme un changement d’attitude envers le mariage et les enfants dans un contexte de faible natalité. Le texte original ne précise pas si cette amélioration se traduira par davantage de mariages ou de naissances. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رغبة غير المتزوجين في كوريا بالإنجاب تتجاوز 40% لأول مرة",
-        "excerpt": "أظهر المسح الخامس لإدراك سياسات مواجهة انخفاض المواليد في كوريا الجنوبية أن نية الإنجاب بين غير المتزوجين تجاوزت 40% لأول مرة، مع نظرة إيجابية للزواج لدى 65%.",
-        "body": "تحسنت نظرة الرجال والنساء غير المتزوجين في كوريا الجنوبية إلى الزواج والإنجاب بوضوح خلال العامين الأخيرين. ووفق المسح الخامس لإدراك سياسات مواجهة انخفاض المواليد، تجاوزت نسبة غير المتزوجين الذين يبدون نية للإنجاب 40% لأول مرة. كما أظهر المسح أن 65% ينظرون إلى الزواج بإيجابية، فيما قال 62.6% إن وجود الأطفال ضروري. وتلفت هذه النتائج الانتباه لأنها تظهر تغيرا في المواقف تجاه الزواج والأطفال وسط اتجاه انخفاض المواليد. ولم يقدم النص الأصلي حكما إضافيا بشأن ما إذا كان هذا التحسن في الإدراك سيؤدي إلى زيادة فعلية في الزواج أو الولادات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया में अविवाहितों की बच्चे पैदा करने की इच्छा पहली बार 40% के पार",
-        "excerpt": "दक्षिण कोरिया के पांचवें निम्न जन्मदर नीति धारणा सर्वेक्षण में अविवाहित पुरुषों और महिलाओं की संतान इच्छा पहली बार 40% से ऊपर गई, जबकि 65% ने विवाह को सकारात्मक माना।",
-        "body": "दक्षिण कोरिया में अविवाहित पुरुषों और महिलाओं की विवाह और संतान को लेकर सोच पिछले दो वर्षों में स्पष्ट रूप से बेहतर हुई है। पांचवें निम्न जन्मदर उपाय धारणा सर्वेक्षण के अनुसार, अविवाहितों में बच्चे पैदा करने की इच्छा रखने वालों की हिस्सेदारी पहली बार 40% से ऊपर चली गई। सर्वेक्षण में 65% ने विवाह को सकारात्मक बताया, जबकि 62.6% ने कहा कि संतान आवश्यक है। यह परिणाम इसलिए ध्यान खींचता है क्योंकि निम्न जन्मदर की प्रवृत्ति के बीच विवाह और बच्चों के प्रति दृष्टिकोण में बदलाव दिखता है। मूल रिपोर्ट ने यह अतिरिक्त आकलन नहीं दिया कि धारणा में यह सुधार वास्तविक विवाह या जन्म संख्या में वृद्धि में बदलेगा या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Niat Punya Anak di Kalangan Lajang Korea Tembus 40% untuk Pertama Kali",
-        "excerpt": "Survei persepsi kelima atas kebijakan rendah kelahiran di Korea Selatan menunjukkan niat punya anak di kalangan lajang pertama kali melampaui 40%, dengan 65% positif soal menikah.",
-        "body": "Pandangan pria dan wanita lajang di Korea Selatan terhadap pernikahan dan kelahiran anak membaik jelas dalam dua tahun terakhir. Menurut survei persepsi kelima tentang kebijakan mengatasi rendahnya angka kelahiran, porsi lajang yang menyatakan niat memiliki anak untuk pertama kalinya menembus 40%. Survei itu juga mencatat 65% responden memandang pernikahan secara positif, sementara 62,6% mengatakan anak diperlukan. Hasil ini menarik perhatian karena menunjukkan perubahan sikap terhadap pernikahan dan anak di tengah tren rendahnya angka kelahiran. Namun, teks asli tidak memberi penilaian tambahan apakah perbaikan persepsi ini akan berujung pada kenaikan nyata dalam pernikahan atau kelahiran. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8b36a9b9988a",
-    "slug": "속보경찰-하이브-방시혁-의장-구속영장-재신청반려-6일만-677915",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T09:29:28.421Z",
-    "updatedAt": "2026-05-07T09:29:28.421Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12039499",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12039499",
-    "titleFingerprint": "cbffd93009ea42b428f92653e50320847ec3dde6",
-    "dedupKeys": [
-      "8b36a9b9988aff2ca399afb111ddc169ea417064",
-      "cbffd93009ea42b428f92653e50320847ec3dde6",
-      "c5b7eb2c14ea7291366769bfc73b0f0ea2dadd74"
-    ],
-    "imageUrl": "/images/articles/8b36a9b9988a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "경찰, 하이브 방시혁 의장 구속영장 재신청…반려 6일 만의 재추진",
-        "excerpt": "경찰이 하이브 방시혁 의장에 대한 구속영장을 반려 6일 만에 다시 신청했다. 앞선 신청이 반려된 뒤 절차가 재추진된 사안으로, 향후 영장 심사 여부가 주목된다.",
-        "body": "경찰이 하이브 방시혁 의장에 대한 구속영장을 다시 신청했다. 매일경제에 따르면 이번 재신청은 앞서 구속영장 신청이 반려된 지 6일 만에 이뤄졌다. 현재 원문에서 확인되는 핵심 사실은 경찰의 재신청 대상이 방시혁 하이브 의장이라는 점과, 이전 신청 반려 이후 6일 만에 같은 절차가 다시 추진됐다는 점이다. 구속영장 재신청은 수사 절차상 중요한 분기점으로, 향후 영장 심사 진행 여부와 관련 절차가 관심을 받을 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Police Reapply for Arrest Warrant for HYBE Chairman Bang Si-hyuk After 6 Days",
-        "excerpt": "Police have reapplied for an arrest warrant for HYBE Chairman Bang Si-hyuk six days after the previous request was returned, putting attention on whether the warrant review will proceed.",
-        "body": "Police have reapplied for an arrest warrant for HYBE Chairman Bang Si-hyuk. According to Maeil Business Newspaper, the renewed request came six days after the previous arrest warrant application was returned. The key facts confirmed in the original report are that the subject of the renewed application is Bang Si-hyuk, chairman of HYBE, and that the same procedure was pursued again six days after the earlier request was returned. The renewed warrant application marks an important point in the investigative process, with attention expected to focus on whether a warrant review will follow. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "警察、HYBE房時赫議長の逮捕状を再申請…差し戻しから6日",
-        "excerpt": "警察がHYBEの房時赫議長に対する逮捕状を、前回申請の差し戻しから6日後に再申請した。今後の令状審査の有無に関心が集まる。",
-        "body": "警察がHYBEの房時赫議長に対する逮捕状を再び申請した。毎日経済によると、今回の再申請は、先の逮捕状申請が差し戻されてから6日後に行われた。原文で確認できる主な事実は、再申請の対象がHYBE議長の房時赫氏であること、そして前回の申請が差し戻された後、6日で同じ手続きが再び進められたことだ。逮捕状の再申請は捜査手続き上の重要な局面であり、今後、令状審査が行われるかどうかに注目が集まる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "警方再次申请逮捕HYBE董事长方时赫，距上次被退回仅6天",
-        "excerpt": "警方在此前申请被退回6天后，再次申请对HYBE董事长方时赫的逮捕令。后续是否进入逮捕令审查程序受到关注。",
-        "body": "警方再次申请对HYBE董事长方时赫的逮捕令。据《每日经济》报道，此次重新申请是在此前逮捕令申请被退回6天后进行的。原文目前确认的核心事实是，重新申请的对象为HYBE董事长方时赫，以及在前一次申请被退回后，警方时隔6天再次推进同一程序。逮捕令重新申请是调查程序中的重要节点，今后是否进入逮捕令审查及相关程序预计将受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Policía vuelve a pedir orden de arresto contra Bang Si-hyuk de HYBE tras 6 días",
-        "excerpt": "La policía volvió a solicitar una orden de arresto contra Bang Si-hyuk, presidente de HYBE, seis días después de que la petición anterior fuera devuelta.",
-        "body": "La policía volvió a solicitar una orden de arresto contra Bang Si-hyuk, presidente de HYBE. Según Maeil Business Newspaper, la nueva solicitud se presentó seis días después de que la petición anterior de orden de arresto fuera devuelta. Los hechos clave confirmados en el texto original son que el destinatario de la nueva solicitud es Bang Si-hyuk, presidente de HYBE, y que el mismo procedimiento se reanudó seis días después de la devolución previa. La nueva solicitud representa un punto relevante dentro del proceso de investigación, y se espera atención sobre si avanzará la revisión de la orden. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Polícia reapresenta pedido de prisão contra Bang Si-hyuk, da HYBE, após 6 dias",
-        "excerpt": "A polícia reapresentou o pedido de mandado de prisão contra Bang Si-hyuk, presidente da HYBE, seis dias após a solicitação anterior ter sido devolvida.",
-        "body": "A polícia reapresentou um pedido de mandado de prisão contra Bang Si-hyuk, presidente da HYBE. Segundo o Maeil Business Newspaper, a nova solicitação ocorreu seis dias depois de o pedido anterior de mandado de prisão ter sido devolvido. Os fatos centrais confirmados no texto original são que o alvo da reapresentação é Bang Si-hyuk, presidente da HYBE, e que o mesmo procedimento voltou a ser promovido seis dias após a devolução anterior. A reapresentação do pedido é um ponto importante no processo investigativo, com atenção voltada para uma possível análise do mandado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Polizei beantragt erneut Haftbefehl gegen HYBE-Chef Bang Si-hyuk nach 6 Tagen",
-        "excerpt": "Die Polizei hat sechs Tage nach Rückgabe des vorherigen Antrags erneut einen Haftbefehl gegen HYBE-Vorsitzenden Bang Si-hyuk beantragt.",
-        "body": "Die Polizei hat erneut einen Haftbefehl gegen Bang Si-hyuk, den Vorsitzenden von HYBE, beantragt. Nach Angaben der Maeil Business Newspaper erfolgte der neue Antrag sechs Tage nachdem der vorherige Haftbefehlsantrag zurückgegeben worden war. Die im Originalbericht bestätigten Kernfakten sind, dass sich der neue Antrag gegen HYBE-Vorsitzenden Bang Si-hyuk richtet und dass dasselbe Verfahren sechs Tage nach der Rückgabe des früheren Antrags wieder aufgenommen wurde. Der erneute Antrag ist ein wichtiger Punkt im Ermittlungsverfahren; nun richtet sich die Aufmerksamkeit darauf, ob eine Haftbefehlsprüfung folgt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La police redemande un mandat d’arrêt contre Bang Si-hyuk de HYBE après 6 jours",
-        "excerpt": "La police a redéposé une demande de mandat d’arrêt contre Bang Si-hyuk, président de HYBE, six jours après le renvoi de la précédente demande.",
-        "body": "La police a de nouveau demandé un mandat d’arrêt contre Bang Si-hyuk, président de HYBE. Selon le Maeil Business Newspaper, cette nouvelle demande intervient six jours après le renvoi de la précédente demande de mandat d’arrêt. Les faits essentiels confirmés dans le texte original sont que la demande vise Bang Si-hyuk, président de HYBE, et que la même procédure a été relancée six jours après le renvoi antérieur. Cette nouvelle demande constitue une étape importante dans la procédure d’enquête, et l’attention devrait désormais porter sur une éventuelle audience d’examen du mandat. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الشرطة تعيد طلب مذكرة توقيف لرئيس HYBE بانغ سي هيوك بعد 6 أيام",
-        "excerpt": "أعادت الشرطة طلب إصدار مذكرة توقيف بحق بانغ سي هيوك، رئيس HYBE، بعد ستة أيام من رد الطلب السابق، وسط ترقب لما إذا كان فحص المذكرة سيمضي قدما.",
-        "body": "أعادت الشرطة طلب إصدار مذكرة توقيف بحق بانغ سي هيوك، رئيس HYBE. وبحسب صحيفة ماييل الاقتصادية، جاء الطلب الجديد بعد ستة أيام من رد طلب مذكرة التوقيف السابق. وتتمثل الحقائق الأساسية المؤكدة في النص الأصلي في أن الطلب المعاد يستهدف بانغ سي هيوك، رئيس HYBE، وأن الإجراء نفسه أعيد تحريكه بعد ستة أيام من رد الطلب السابق. ويعد إعادة طلب مذكرة التوقيف نقطة مهمة في مسار التحقيق، ومن المتوقع أن يتركز الاهتمام على ما إذا كانت مراجعة المذكرة والإجراءات ذات الصلة ستتقدم. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "पुलिस ने HYBE चेयरमैन Bang Si-hyuk के खिलाफ गिरफ्तारी वारंट फिर मांगा",
-        "excerpt": "पुलिस ने HYBE चेयरमैन Bang Si-hyuk के खिलाफ गिरफ्तारी वारंट के लिए फिर आवेदन किया है। पिछला आवेदन लौटाए जाने के छह दिन बाद यह कदम उठाया गया।",
-        "body": "पुलिस ने HYBE के चेयरमैन Bang Si-hyuk के खिलाफ गिरफ्तारी वारंट के लिए फिर आवेदन किया है। Maeil Business Newspaper के अनुसार, यह पुनः आवेदन पिछले गिरफ्तारी वारंट आवेदन के लौटाए जाने के छह दिन बाद किया गया। मूल रिपोर्ट में पुष्टि किए गए मुख्य तथ्य यह हैं कि पुनः आवेदन का लक्ष्य HYBE चेयरमैन Bang Si-hyuk हैं और पहले आवेदन के लौटने के छह दिन बाद वही प्रक्रिया फिर आगे बढ़ाई गई। गिरफ्तारी वारंट का पुनः आवेदन जांच प्रक्रिया में एक महत्वपूर्ण मोड़ है, और अब ध्यान इस बात पर रहेगा कि वारंट समीक्षा आगे बढ़ती है या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Polisi Ajukan Lagi Surat Penahanan untuk Ketua HYBE Bang Si-hyuk Setelah 6 Hari",
-        "excerpt": "Polisi kembali mengajukan surat perintah penahanan untuk Ketua HYBE Bang Si-hyuk enam hari setelah permohonan sebelumnya dikembalikan.",
-        "body": "Polisi kembali mengajukan surat perintah penahanan untuk Bang Si-hyuk, ketua HYBE. Menurut Maeil Business Newspaper, pengajuan ulang ini dilakukan enam hari setelah permohonan surat penahanan sebelumnya dikembalikan. Fakta utama yang dikonfirmasi dalam teks asli adalah bahwa sasaran pengajuan ulang tersebut adalah Bang Si-hyuk, ketua HYBE, dan bahwa prosedur yang sama kembali ditempuh enam hari setelah permohonan sebelumnya dikembalikan. Pengajuan ulang surat penahanan menjadi titik penting dalam proses penyelidikan, dengan perhatian tertuju pada apakah pemeriksaan surat perintah akan berlanjut. Sumber: mk.co.kr"
       }
     }
   }
