@@ -1,5 +1,230 @@
 [
   {
+    "id": "193e8d683ddc",
+    "slug": "100-폭등-日반도체주에-꽂힌-일학개미13개월-만에-순매수-전환-129854",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T19:56:29.509Z",
+    "updatedAt": "2026-05-07T19:56:29.509Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039626",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039626",
+    "titleFingerprint": "12e74c614070c5030b101bcb72740ef71aa24956",
+    "dedupKeys": [
+      "193e8d683ddcaa9aedb9ffc29e0ab013c62f4f02",
+      "12e74c614070c5030b101bcb72740ef71aa24956",
+      "655113783ddbed6e205f45c9fee3d06603ec3384"
+    ],
+    "imageUrl": "",
+    "i18n": {
+      "ko": {
+        "title": "일학개미, 일본 반도체주 순매수 전환…키옥시아 한 달 97% 급등",
+        "excerpt": "국내 일본 증시 투자자들이 지난달 13개월 만에 순매수로 돌아서며 키옥시아를 700만달러 순매수했다. AI용 eSSD 수요와 SK하이닉스 호실적이 매수 배경으로 거론됐다.",
+        "body": "국내 투자자들이 지난달 일본 증시에서 13개월 만에 순매수로 전환했다. 일본 증시에 투자하는 이른바 ‘일학개미’는 지난달 키옥시아를 700만달러 순매수한 것으로 나타났다. 키옥시아 주가는 한 달 동안 97% 상승해 투자자 관심이 집중됐다. 배경에는 AI용 eSSD 수요 확대와 SK하이닉스 호실적에 따른 동조 매수 흐름이 제시됐다. 일본 반도체주 급등이 국내 투자자의 매수세를 다시 끌어낸 가운데, 관련 종목의 주가 흐름과 AI 저장장치 수요가 향후 관심 변수로 남았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean Retail Investors Return to Japanese Chip Stocks as Kioxia Surges 97%",
+        "excerpt": "Korean investors turned net buyers of Japanese shares last month for the first time in 13 months, buying $7 million of Kioxia amid AI eSSD demand and SK Hynix’s strong results.",
+        "body": "Korean investors in Japan’s stock market turned net buyers last month for the first time in 13 months. The group, often called “Ilhak ants,” net bought $7 million worth of Kioxia shares. Kioxia’s stock rose 97% over one month, drawing strong attention from investors. The buying was linked to demand for AI-use eSSDs and synchronized buying following strong earnings from SK Hynix. As the rally in Japanese semiconductor shares brought domestic investors back to the market, future stock moves and demand for AI storage devices remain key points to watch. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "日本半導体株に韓国個人が買い越し転換、キオクシアは1カ月で97%急騰",
+        "excerpt": "韓国の日本株投資家は先月、13カ月ぶりに買い越しへ転じ、キオクシアを700万ドル買い越した。AI向けeSSD需要とSKハイニックス好業績が背景とされた。",
+        "body": "韓国の個人投資家は先月、日本株市場で13カ月ぶりに買い越しに転じた。日本株に投資するいわゆる「日学アリ」は、先月キオクシアを700万ドル買い越した。キオクシアの株価は1カ月で97%上昇し、投資家の関心を集めた。背景にはAI向けeSSD需要の拡大と、SKハイニックスの好業績に連動した買いが挙げられた。日本の半導体株急騰が韓国投資家の買いを再び呼び込むなか、関連銘柄の株価動向とAIストレージ需要が今後の注目点となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国散户转为净买入日本半导体股，铠侠一个月大涨97%",
+        "excerpt": "韩国投资者上月时隔13个月转为净买入日本股票，并净买入铠侠700万美元。AI用eSSD需求和SK海力士业绩向好被视为买入背景。",
+        "body": "韩国国内投资者上月在日本股市时隔13个月转为净买入。投资日本股市的韩国散户上月净买入铠侠700万美元。铠侠股价一个月上涨97%，吸引了投资者关注。其背景被认为包括AI用eSSD需求扩大，以及受SK海力士业绩良好带动的同步买入。随着日本半导体股大涨重新吸引韩国投资者买盘，相关股票走势和AI存储设备需求仍是后续关注变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Inversores coreanos vuelven a comprar chips japoneses mientras Kioxia sube 97%",
+        "excerpt": "Los inversores coreanos pasaron a compras netas de acciones japonesas el mes pasado por primera vez en 13 meses, con $7 millones en Kioxia por demanda de eSSD para IA y resultados de SK Hynix.",
+        "body": "Los inversores coreanos en la bolsa japonesa pasaron el mes pasado a una posición compradora neta por primera vez en 13 meses. Estos inversores compraron en neto acciones de Kioxia por 7 millones de dólares. La acción de Kioxia subió 97% en un mes, atrayendo la atención del mercado. El movimiento se vinculó con la demanda de eSSD para inteligencia artificial y con compras en sintonía con los buenos resultados de SK Hynix. Tras el fuerte avance de los semiconductores japoneses, la evolución de esos valores y la demanda de almacenamiento para IA quedan como factores a seguir. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Coreanos voltam a comprar chips japoneses, e Kioxia dispara 97% em um mês",
+        "excerpt": "Investidores coreanos viraram compradores líquidos de ações japonesas no mês passado, após 13 meses, com US$ 7 milhões em Kioxia diante da demanda por eSSD para IA e dos bons resultados da SK Hynix.",
+        "body": "Investidores coreanos na bolsa japonesa passaram a compras líquidas no mês passado pela primeira vez em 13 meses. O grupo comprou, em termos líquidos, US$ 7 milhões em ações da Kioxia. As ações da Kioxia subiram 97% em um mês, atraindo atenção dos investidores. O movimento foi associado à demanda por eSSD para inteligência artificial e a compras em sintonia com os fortes resultados da SK Hynix. Com a alta das ações japonesas de semicondutores trazendo investidores coreanos de volta, os próximos movimentos dos papéis e a demanda por armazenamento para IA seguem no radar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreanische Anleger kaufen wieder japanische Chipwerte, Kioxia steigt 97%",
+        "excerpt": "Koreanische Investoren wurden im vergangenen Monat erstmals seit 13 Monaten Nettokäufer japanischer Aktien und kauften Kioxia für 7 Mio. Dollar, gestützt durch KI-eSSD-Nachfrage und starke SK-Hynix-Zahlen.",
+        "body": "Koreanische Anleger am japanischen Aktienmarkt sind im vergangenen Monat erstmals seit 13 Monaten wieder zu Nettokäufern geworden. Sie kauften Kioxia-Aktien netto im Wert von 7 Mio. Dollar. Die Kioxia-Aktie legte innerhalb eines Monats um 97% zu und rückte damit in den Fokus der Investoren. Als Hintergrund wurden die Nachfrage nach eSSDs für KI-Anwendungen sowie Käufe im Gleichlauf mit starken Ergebnissen von SK Hynix genannt. Nach dem Kursanstieg japanischer Halbleiterwerte bleiben die Entwicklung der betreffenden Aktien und die Nachfrage nach KI-Speichern wichtige Beobachtungspunkte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les Coréens reviennent sur les puces japonaises, Kioxia bondit de 97% en un mois",
+        "excerpt": "Les investisseurs coréens sont redevenus acheteurs nets d’actions japonaises le mois dernier après 13 mois, avec 7 M$ sur Kioxia, portés par les eSSD pour l’IA et les bons résultats de SK Hynix.",
+        "body": "Les investisseurs coréens présents sur le marché japonais sont redevenus acheteurs nets le mois dernier pour la première fois en 13 mois. Ils ont acheté pour 7 millions de dollars nets d’actions Kioxia. Le titre Kioxia a progressé de 97% en un mois, attirant l’attention des investisseurs. Ce mouvement a été relié à la demande d’eSSD destinés à l’IA et à des achats en phase avec les solides résultats de SK Hynix. Alors que la hausse des valeurs japonaises des semi-conducteurs ramène les investisseurs coréens, l’évolution des titres concernés et la demande de stockage pour l’IA restent à surveiller. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "المستثمرون الكوريون يعودون لشراء أسهم الرقائق اليابانية مع صعود كيوكسيا 97%",
+        "excerpt": "تحول المستثمرون الكوريون في الأسهم اليابانية الشهر الماضي إلى صافي شراء لأول مرة منذ 13 شهرا، واشتروا كيوكسيا بقيمة 7 ملايين دولار بدعم من طلب eSSD للذكاء الاصطناعي ونتائج SK Hynix القوية.",
+        "body": "تحول المستثمرون الكوريون في سوق الأسهم اليابانية الشهر الماضي إلى صافي شراء لأول مرة منذ 13 شهرا. فقد سجلوا صافي شراء بقيمة 7 ملايين دولار في أسهم كيوكسيا. وارتفع سهم كيوكسيا 97% خلال شهر واحد، ما جذب اهتمام المستثمرين. وذُكر أن خلفية الشراء ترتبط بتوسع الطلب على وحدات eSSD المخصصة للذكاء الاصطناعي وبموجة شراء متزامنة مع النتائج القوية لشركة SK Hynix. ومع عودة شهية المستثمرين الكوريين بفعل صعود أسهم أشباه الموصلات اليابانية، تبقى حركة هذه الأسهم وطلب تخزين الذكاء الاصطناعي من العوامل محل المتابعة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई निवेशक जापानी चिप शेयरों में लौटे, Kioxia एक महीने में 97% उछला",
+        "excerpt": "कोरियाई निवेशक पिछले महीने 13 महीनों बाद जापानी शेयरों के शुद्ध खरीदार बने और Kioxia में 70 लाख डॉलर की शुद्ध खरीद की। AI eSSD मांग और SK Hynix के मजबूत नतीजे इसकी पृष्ठभूमि रहे।",
+        "body": "जापानी शेयर बाजार में निवेश करने वाले कोरियाई निवेशक पिछले महीने 13 महीनों में पहली बार शुद्ध खरीदार बने। उन्होंने Kioxia के शेयरों में 70 लाख डॉलर की शुद्ध खरीद की। Kioxia का शेयर एक महीने में 97% चढ़ा, जिससे निवेशकों का ध्यान उस पर गया। इस खरीदारी की पृष्ठभूमि में AI के लिए eSSD की मांग में वृद्धि और SK Hynix के मजबूत नतीजों के साथ समान दिशा में हुई खरीदारी को बताया गया। जापानी सेमीकंडक्टर शेयरों की तेज बढ़त ने कोरियाई निवेशकों को फिर आकर्षित किया है, जबकि संबंधित शेयरों की चाल और AI स्टोरेज मांग आगे प्रमुख निगरानी बिंदु रहेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Investor Korea Kembali Beli Saham Chip Jepang, Kioxia Melonjak 97% Sebulan",
+        "excerpt": "Investor Korea di bursa Jepang bulan lalu beralih menjadi pembeli bersih untuk pertama kalinya dalam 13 bulan, membeli Kioxia senilai US$7 juta karena permintaan eSSD AI dan kinerja kuat SK Hynix.",
+        "body": "Investor Korea yang berinvestasi di pasar saham Jepang bulan lalu beralih menjadi pembeli bersih untuk pertama kalinya dalam 13 bulan. Mereka mencatat pembelian bersih saham Kioxia senilai US$7 juta. Harga saham Kioxia naik 97% dalam satu bulan, menarik perhatian investor. Latar belakangnya disebut terkait perluasan permintaan eSSD untuk AI dan pembelian searah setelah kinerja kuat SK Hynix. Kenaikan tajam saham semikonduktor Jepang kembali menarik minat beli investor Korea, sementara pergerakan saham terkait dan permintaan perangkat penyimpanan AI tetap menjadi faktor yang dipantau. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2413a6a53960",
+    "slug": "내란죄는-비교할-수-없는-중대범죄한덕수-2심서-징역-15년-424898",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T19:55:30.784Z",
+    "updatedAt": "2026-05-07T19:55:30.784Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12039646",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12039646",
+    "titleFingerprint": "e21d264f606a4bdcf8fac1d5329dd6f45e9831bb",
+    "dedupKeys": [
+      "2413a6a5396055548a74a85367ba581c8477d5e1",
+      "e21d264f606a4bdcf8fac1d5329dd6f45e9831bb",
+      "4f92543f69506be89cb7ac73b1831a94bd2a77ef"
+    ],
+    "imageUrl": "/images/articles/2413a6a53960.png",
+    "i18n": {
+      "ko": {
+        "title": "한덕수 전 총리 2심 징역 15년, 내란죄 유죄 판단 대부분 유지",
+        "excerpt": "12·3 비상계엄 가담 혐의로 기소된 한덕수 전 국무총리가 2심에서 징역 15년을 선고받았다. 1심 23년보다 8년 줄었지만 대부분 혐의의 유죄 판단은 유지됐다.",
+        "body": "12·3 비상계엄에 가담한 혐의로 기소된 한덕수 전 국무총리가 항소심에서 징역 15년을 선고받았다. 1심이 선고한 징역 23년보다 형량은 8년 줄었지만, 재판부는 대부분 혐의에 대한 유죄 판단을 유지했다. 재판부는 내란죄를 “비교할 수 없는 중대범죄”로 판단하며 사안의 무게를 강조했다. 한 전 총리 측은 판결을 받아들이기 어렵다며 상고하겠다는 입장을 밝혔다. 이번 2심 판단으로 사건은 대법원 판단으로 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Former PM Han Duck-soo Gets 15 Years on Appeal as Insurrection Convictions Mostly Stand",
+        "excerpt": "Former Prime Minister Han Duck-soo, indicted over alleged involvement in the Dec. 3 emergency martial law, received 15 years in prison on appeal, down from 23 years in the first trial.",
+        "body": "Former Prime Minister Han Duck-soo, who was indicted on charges of taking part in the Dec. 3 emergency martial law, was sentenced to 15 years in prison by an appeals court. The sentence was reduced by eight years from the 23-year term handed down in the first trial, but the court maintained guilty findings on most of the charges. The court described insurrection as an “incomparably serious crime,” underscoring the gravity of the case. Han’s side said it could not accept the ruling and would appeal to the Supreme Court. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓悳洙元首相、控訴審で懲役15年 内乱罪判断は大半維持",
+        "excerpt": "12月3日の非常戒厳に関与した疑いで起訴された韓悳洙元首相が、控訴審で懲役15年を言い渡された。一審の23年から8年減刑されたが、大半の有罪判断は維持された。",
+        "body": "12月3日の非常戒厳に関与した疑いで起訴された韓悳洙元首相は、控訴審で懲役15年を言い渡された。一審が言い渡した懲役23年から量刑は8年短縮されたが、裁判所は大半の容疑について有罪判断を維持した。裁判所は内乱罪を「比較できないほど重大な犯罪」と位置づけ、事案の重さを強調した。韓元首相側は判決に納得できないとして、上告する方針を示した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国前总理韩德洙二审获刑15年，内乱罪多数有罪认定维持",
+        "excerpt": "因涉嫌参与12月3日紧急戒严而被起诉的韩国前总理韩德洙在二审中被判处15年有期徒刑，较一审23年减少8年，但多数罪名的有罪认定仍被维持。",
+        "body": "因涉嫌参与12月3日紧急戒严而被起诉的韩国前总理韩德洙，在二审中被判处15年有期徒刑。与一审判处的23年相比，刑期减少了8年，但法院维持了对大多数指控的有罪认定。法院称内乱罪是“无可比拟的重大犯罪”，强调案件性质严重。韩德洙方面表示无法接受判决，并将提出上诉。随着二审判决作出，案件预计将进入最高法院审理阶段。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Han Duck-soo recibe 15 años en segunda instancia y se mantienen cargos por insurrección",
+        "excerpt": "El ex primer ministro Han Duck-soo, acusado de participar en la ley marcial de emergencia del 3 de diciembre, fue condenado a 15 años en apelación, ocho menos que los 23 años de primera instancia.",
+        "body": "El ex primer ministro Han Duck-soo, acusado de participar en la ley marcial de emergencia del 3 de diciembre, fue condenado en segunda instancia a 15 años de prisión. La pena se redujo en ocho años frente a los 23 años dictados en primera instancia, pero el tribunal mantuvo la declaración de culpabilidad sobre la mayoría de los cargos. El tribunal calificó el delito de insurrección como un “crimen grave sin comparación” y subrayó el peso del caso. La defensa de Han dijo que no acepta el fallo y que recurrirá. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Han Duck-soo pega 15 anos em 2ª instância; condenações por insurreição são mantidas",
+        "excerpt": "O ex-primeiro-ministro Han Duck-soo, acusado de participar da lei marcial emergencial de 3 de dezembro, foi condenado a 15 anos em recurso, oito a menos que os 23 anos da primeira instância.",
+        "body": "O ex-primeiro-ministro Han Duck-soo, acusado de participar da lei marcial emergencial de 3 de dezembro, foi condenado em segunda instância a 15 anos de prisão. A pena foi reduzida em oito anos em relação aos 23 anos impostos no primeiro julgamento, mas o tribunal manteve a condenação na maior parte das acusações. A corte classificou o crime de insurreição como um “crime grave sem comparação”, destacando a gravidade do caso. A defesa de Han afirmou que não aceita a decisão e que recorrerá. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Han Duck-soo erhält in zweiter Instanz 15 Jahre, Schuldsprüche bleiben weitgehend bestehen",
+        "excerpt": "Der frühere Premierminister Han Duck-soo wurde wegen Beteiligung am Notstandskriegsrecht vom 3. Dezember in zweiter Instanz zu 15 Jahren Haft verurteilt, acht Jahre weniger als im ersten Urteil.",
+        "body": "Der frühere Premierminister Han Duck-soo, angeklagt wegen Beteiligung am Notstandskriegsrecht vom 3. Dezember, ist in zweiter Instanz zu 15 Jahren Haft verurteilt worden. Das Strafmaß wurde gegenüber den 23 Jahren aus der ersten Instanz um acht Jahre reduziert, doch das Gericht hielt die Schuldsprüche in den meisten Anklagepunkten aufrecht. Es bezeichnete Aufruhr als ein “unvergleichlich schweres Verbrechen” und betonte das Gewicht des Falls. Hans Seite erklärte, das Urteil nicht akzeptieren zu können und Revision einzulegen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Han Duck-soo condamné à 15 ans en appel, l’essentiel des accusations d’insurrection maintenu",
+        "excerpt": "L’ancien Premier ministre Han Duck-soo, poursuivi pour sa participation présumée à la loi martiale d’urgence du 3 décembre, a été condamné en appel à 15 ans de prison, contre 23 ans en première instance.",
+        "body": "L’ancien Premier ministre Han Duck-soo, poursuivi pour sa participation présumée à la loi martiale d’urgence du 3 décembre, a été condamné en appel à 15 ans de prison. La peine a été réduite de huit ans par rapport aux 23 ans prononcés en première instance, mais la cour a maintenu la culpabilité pour la plupart des chefs d’accusation. Elle a qualifié l’insurrection de “crime grave incomparable”, soulignant la gravité de l’affaire. La défense de Han a déclaré ne pas accepter la décision et vouloir se pourvoir. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هان دوك سو يُحكم عليه بـ15 عاما في الاستئناف مع تثبيت معظم إدانات التمرد",
+        "excerpt": "حُكم على رئيس الوزراء الكوري الجنوبي السابق هان دوك سو، المتهم بالمشاركة في الأحكام العرفية الطارئة في 3 ديسمبر، بالسجن 15 عاما في الاستئناف، بعد أن كانت العقوبة 23 عاما في الدرجة الأولى.",
+        "body": "حكمت محكمة الاستئناف على رئيس الوزراء الكوري الجنوبي السابق هان دوك سو بالسجن 15 عاما، بعدما وُجهت إليه اتهامات بالمشاركة في الأحكام العرفية الطارئة في 3 ديسمبر. وخُفضت العقوبة ثماني سنوات مقارنة بحكم الدرجة الأولى البالغ 23 عاما، لكن المحكمة أبقت على الإدانة في معظم التهم. ووصفت المحكمة جريمة التمرد بأنها “جريمة خطيرة لا تقارن”، مؤكدة جسامة القضية. وقال فريق هان إنه لا يستطيع قبول الحكم وسيطعن عليه. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हान डक-सू को अपील में 15 साल की सजा, विद्रोह मामले में अधिकांश दोष कायम",
+        "excerpt": "3 दिसंबर की आपात मार्शल लॉ में शामिल होने के आरोप में अभियुक्त पूर्व प्रधानमंत्री हान डक-सू को अपील अदालत ने 15 साल की जेल सुनाई, जो निचली अदालत की 23 साल की सजा से 8 साल कम है।",
+        "body": "3 दिसंबर की आपात मार्शल लॉ में शामिल होने के आरोप में अभियुक्त पूर्व प्रधानमंत्री हान डक-सू को अपील अदालत ने 15 साल जेल की सजा सुनाई। पहली अदालत ने उन्हें 23 साल की सजा दी थी, जिससे यह सजा 8 साल कम है, लेकिन अदालत ने अधिकांश आरोपों पर दोषसिद्धि बरकरार रखी। अदालत ने विद्रोह के अपराध को “तुलना से परे गंभीर अपराध” बताया और मामले की गंभीरता पर जोर दिया। हान पक्ष ने कहा कि वह फैसले को स्वीकार नहीं कर सकता और सर्वोच्च अदालत में अपील करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Han Duck-soo Divonis 15 Tahun di Banding, Mayoritas Putusan Bersalah Tetap Berlaku",
+        "excerpt": "Mantan Perdana Menteri Han Duck-soo, yang didakwa terlibat dalam darurat militer 3 Desember, dijatuhi hukuman 15 tahun penjara di tingkat banding, turun 8 tahun dari putusan pertama 23 tahun.",
+        "body": "Mantan Perdana Menteri Han Duck-soo, yang didakwa terlibat dalam darurat militer 3 Desember, dijatuhi hukuman 15 tahun penjara oleh pengadilan banding. Hukuman itu berkurang delapan tahun dari vonis 23 tahun di pengadilan pertama, tetapi majelis tetap mempertahankan putusan bersalah atas sebagian besar dakwaan. Pengadilan menyebut kejahatan pemberontakan sebagai “kejahatan berat yang tidak dapat dibandingkan,” menekankan bobot perkara tersebut. Pihak Han menyatakan tidak dapat menerima putusan dan akan mengajukan kasasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e37bca106452",
+    "slug": "재건축재개발도-양극화-시대이-지역-아니면-매수-신중하세요-491825",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T19:54:36.917Z",
+    "updatedAt": "2026-05-07T19:54:36.917Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12039654",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12039654",
+    "titleFingerprint": "edb9ff0f90b1b79ab43825b8fb4fbb3c6b07b4a3",
+    "dedupKeys": [
+      "e37bca1064522e2cb6745cce717aef9ad43c945c",
+      "edb9ff0f90b1b79ab43825b8fb4fbb3c6b07b4a3",
+      "b7e496150153dc95c5e3b265a6a1120ee68a0e6a"
+    ],
+    "imageUrl": "/images/articles/e37bca106452.jpg",
+    "i18n": {
+      "ko": {
+        "title": "재건축·재개발 양극화 시대, 박합수 “핵심 지역 아니면 매수 신중해야”",
+        "excerpt": "박합수 건국대 부동산대학원 겸임교수가 5월 7일 강남 코엑스에서 개막한 2026 서울머니쇼 강연에서 재건축·재개발 시장의 양극화와 매수 신중론을 강조했다.",
+        "body": "5월 7일 강남 코엑스에서 개막한 ‘2026 서울머니쇼’에서 박합수 건국대 부동산대학원 겸임교수가 ‘재건축·재개발로 내 집 마련 성공하기’를 주제로 강연했다. 박 교수는 재건축·재개발 시장에서도 지역별 양극화가 나타나고 있다는 점을 짚으며, 일부 지역이 아닌 경우 매수에 신중해야 한다는 메시지를 전했다. 이번 강연은 내 집 마련 수요자들이 정비사업을 투자와 주거 선택의 기준으로 검토하는 상황에서 열렸다. 시장의 관심은 어느 지역과 사업장이 실수요에 맞는 선택지가 될 수 있는지에 모이고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Reconstruction and Redevelopment Polarization: Park Hap-soo Urges Buyer Caution",
+        "excerpt": "At the 2026 Seoul Money Show opened at COEX in Gangnam on May 7, Konkuk University adjunct professor Park Hap-soo highlighted polarization in reconstruction and redevelopment markets.",
+        "body": "At the ‘2026 Seoul Money Show,’ which opened on May 7 at COEX in Gangnam, Park Hap-soo, adjunct professor at Konkuk University’s Graduate School of Real Estate, gave a lecture titled ‘Succeeding in Home Ownership Through Reconstruction and Redevelopment.’ Park pointed out that polarization is also emerging by region in the reconstruction and redevelopment market, delivering a message that buyers should be cautious when considering purchases outside select areas. The lecture came as home seekers review urban renewal projects as a basis for both investment and housing decisions. Market attention is focused on which regions and projects can become suitable choices for real demand. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "再建築・再開発にも二極化、朴合洙氏「主要地域以外は購入慎重に」",
+        "excerpt": "建国大学不動産大学院の朴合洙兼任教授は5月7日、江南COEXで開幕した2026ソウルマネーショーの講演で、再建築・再開発市場の二極化と購入慎重論を強調した。",
+        "body": "5月7日に江南COEXで開幕した「2026ソウルマネーショー」で、建国大学不動産大学院の朴合洙兼任教授が「再建築・再開発でマイホーム取得に成功する」をテーマに講演した。朴教授は、再建築・再開発市場でも地域別の二極化が表れている点を指摘し、一部地域でない場合は購入に慎重であるべきだとのメッセージを伝えた。今回の講演は、住宅取得希望者が整備事業を投資と居住選択の基準として検討する状況で行われた。市場の関心は、どの地域と事業地が実需に合う選択肢となり得るかに集まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "重建与再开发进入分化期，朴合洙提醒非核心区域购房须谨慎",
+        "excerpt": "建国大学房地产研究生院兼职教授朴合洙5月7日在江南COEX开幕的2026首尔Money Show演讲中，强调重建、再开发市场的区域分化与审慎购房。",
+        "body": "5月7日，在江南COEX开幕的“2026首尔Money Show”上，建国大学房地产研究生院兼职教授朴合洙以“通过重建、再开发成功实现置业”为主题发表演讲。朴教授指出，重建和再开发市场也正在出现按地区分化的现象，并传达了若并非部分特定区域，购房应保持谨慎的信息。本次演讲是在置业需求者将整备项目作为投资和居住选择依据进行考量的背景下举行的。市场关注点集中在何种地区和项目能够成为符合实际需求的选择。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Reconstrucción y reurbanización se polarizan: Park Hap-soo pide cautela al comprar",
+        "excerpt": "Park Hap-soo, profesor adjunto de la Escuela de Posgrado Inmobiliaria de la Universidad Konkuk, destacó el 7 de mayo en el Seoul Money Show 2026 la polarización del mercado.",
+        "body": "En el ‘Seoul Money Show 2026’, inaugurado el 7 de mayo en COEX, Gangnam, Park Hap-soo, profesor adjunto de la Escuela de Posgrado Inmobiliaria de la Universidad Konkuk, ofreció una conferencia titulada ‘Lograr una vivienda propia mediante reconstrucción y reurbanización’. Park señaló que también en el mercado de reconstrucción y reurbanización se observa una polarización por zonas, y transmitió el mensaje de que los compradores deben actuar con cautela si no se trata de determinadas áreas. La conferencia se celebró mientras quienes buscan vivienda evalúan los proyectos de renovación como criterio de inversión y residencia. La atención del mercado se centra en qué regiones y proyectos pueden ajustarse a la demanda real. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Reconstrução e redesenvolvimento se polarizam: Park Hap-soo recomenda cautela",
+        "excerpt": "Park Hap-soo, professor adjunto da pós-graduação em imóveis da Universidade Konkuk, destacou em 7 de maio, no Seoul Money Show 2026, a polarização do mercado e a necessidade de cautela.",
+        "body": "No ‘Seoul Money Show 2026’, aberto em 7 de maio no COEX, em Gangnam, Park Hap-soo, professor adjunto da Escola de Pós-Graduação em Imóveis da Universidade Konkuk, apresentou a palestra ‘Ter sucesso na compra da casa própria por meio de reconstrução e redesenvolvimento’. Park apontou que a polarização por região também aparece no mercado de reconstrução e redesenvolvimento, transmitindo a mensagem de que compras fora de determinadas áreas exigem cautela. A palestra ocorreu enquanto compradores avaliam projetos de renovação urbana como critério de investimento e moradia. A atenção do mercado está voltada a quais regiões e projetos podem atender à demanda real. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Wiederaufbau und Sanierung polarisieren: Park Hap-soo mahnt Käufer zur Vorsicht",
+        "excerpt": "Park Hap-soo, außerordentlicher Professor an der Immobiliengraduiertenschule der Konkuk University, betonte am 7. Mai auf der Seoul Money Show 2026 die Polarisierung des Marktes.",
+        "body": "Auf der ‘2026 Seoul Money Show’, die am 7. Mai im COEX in Gangnam eröffnet wurde, hielt Park Hap-soo, außerordentlicher Professor an der Graduate School of Real Estate der Konkuk University, einen Vortrag mit dem Titel ‘Erfolgreich zum Eigenheim durch Wiederaufbau und Sanierung’. Park wies darauf hin, dass auch im Markt für Wiederaufbau und Sanierung regionale Polarisierung sichtbar werde, und vermittelte die Botschaft, dass Käufer außerhalb bestimmter Gebiete vorsichtig sein sollten. Der Vortrag fand statt, während Wohnungssuchende Sanierungsprojekte als Maßstab für Investitions- und Wohnentscheidungen prüfen. Das Marktinteresse richtet sich darauf, welche Regionen und Projekte zur realen Nachfrage passen können. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Reconstruction et réaménagement se polarisent: Park Hap-soo appelle à la prudence",
+        "excerpt": "Park Hap-soo, professeur associé à l’école supérieure d’immobilier de l’Université Konkuk, a souligné le 7 mai au Seoul Money Show 2026 la polarisation du marché.",
+        "body": "Lors du ‘Seoul Money Show 2026’, ouvert le 7 mai au COEX de Gangnam, Park Hap-soo, professeur associé à l’École supérieure d’immobilier de l’Université Konkuk, a donné une conférence intitulée ‘Réussir l’achat de son logement grâce à la reconstruction et au réaménagement’. Park a indiqué que le marché de la reconstruction et du réaménagement connaît lui aussi une polarisation selon les régions, et a transmis le message selon lequel les acheteurs doivent rester prudents hors de certaines zones. La conférence s’est tenue alors que les candidats à l’accession évaluent les projets de renouvellement urbain comme critères d’investissement et de choix résidentiel. L’attention du marché porte sur les régions et projets adaptés à la demande réelle. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إعادة الإعمار والتطوير تدخلان مرحلة استقطاب: بارك هاب سو يدعو للحذر",
+        "excerpt": "أكد بارك هاب سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، في 7 مايو خلال معرض سيول موني شو 2026، استقطاب سوق إعادة الإعمار والتطوير.",
+        "body": "في ‘معرض سيول موني شو 2026’ الذي افتتح في 7 مايو في مركز COEX بمنطقة غانغنام، قدم بارك هاب سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، محاضرة بعنوان ‘النجاح في امتلاك منزل عبر إعادة الإعمار وإعادة التطوير’. وأشار بارك إلى أن سوق إعادة الإعمار وإعادة التطوير يشهد هو الآخر استقطابا حسب المناطق، ونقل رسالة مفادها أن الشراء خارج بعض المناطق يتطلب حذرا. جاءت المحاضرة في وقت يراجع فيه الراغبون في امتلاك منزل مشاريع التطوير الحضري باعتبارها معيارا للاستثمار واختيار السكن. وينصب اهتمام السوق على المناطق والمشاريع التي يمكن أن تلائم الطلب الفعلي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "पुनर्निर्माण और पुनर्विकास में ध्रुवीकरण, पार्क हाप-सू ने खरीद में सावधानी कही",
+        "excerpt": "कोंकुक यूनिवर्सिटी के रियल एस्टेट ग्रेजुएट स्कूल के सहायक प्रोफेसर पार्क हाप-सू ने 7 मई को गंगनम COEX में खुले 2026 Seoul Money Show में बाजार ध्रुवीकरण पर जोर दिया।",
+        "body": "7 मई को गंगनम COEX में शुरू हुए ‘2026 Seoul Money Show’ में कोंकुक यूनिवर्सिटी के रियल एस्टेट ग्रेजुएट स्कूल के सहायक प्रोफेसर पार्क हाप-सू ने ‘पुनर्निर्माण और पुनर्विकास के जरिए अपना घर पाने में सफलता’ विषय पर व्याख्यान दिया। पार्क ने कहा कि पुनर्निर्माण और पुनर्विकास बाजार में भी क्षेत्रों के आधार पर ध्रुवीकरण दिखाई दे रहा है, और संदेश दिया कि कुछ क्षेत्रों के बाहर खरीदारी करते समय सावधानी जरूरी है। यह व्याख्यान ऐसे समय हुआ जब घर खरीदने की चाह रखने वाले लोग शहरी सुधार परियोजनाओं को निवेश और आवास चयन के आधार के रूप में देख रहे हैं। बाजार की नजर इस पर है कि कौन से क्षेत्र और परियोजनाएं वास्तविक मांग के अनुरूप विकल्प बन सकती हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Rekonstruksi dan Redevelopment Makin Terpolarisasi, Park Hap-soo Minta Hati-hati",
+        "excerpt": "Park Hap-soo, profesor adjung Sekolah Pascasarjana Real Estat Universitas Konkuk, pada 7 Mei di Seoul Money Show 2026 menyoroti polarisasi pasar rekonstruksi dan redevelopment.",
+        "body": "Dalam ‘2026 Seoul Money Show’ yang dibuka pada 7 Mei di COEX, Gangnam, Park Hap-soo, profesor adjung Sekolah Pascasarjana Real Estat Universitas Konkuk, menyampaikan kuliah bertema ‘Berhasil Memiliki Rumah lewat Rekonstruksi dan Redevelopment’. Park menyoroti bahwa polarisasi berdasarkan wilayah juga muncul di pasar rekonstruksi dan redevelopment, serta menyampaikan pesan bahwa pembelian di luar sebagian wilayah perlu dilakukan dengan hati-hati. Kuliah ini berlangsung ketika pencari hunian menilai proyek penataan kota sebagai dasar investasi dan pilihan tempat tinggal. Perhatian pasar tertuju pada wilayah dan proyek mana yang dapat menjadi pilihan sesuai permintaan riil. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "8ee3c95de0d9",
     "slug": "나눠-담은-계란-다-같이-깨졌다호르무즈가-무너뜨린-투자-공식-587668",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Hankook Tire Pasok Dynapro R213 Eksklusif untuk WRC Portugal 2026",
         "excerpt": "Hankook Tire & Technology memasok ban reli segala cuaca Dynapro R213 secara eksklusif untuk Reli Portugal, putaran keenam FIA WRC 2026, yang berlangsung 7-10 Mei waktu setempat.",
         "body": "Hankook Tire & Technology memasok ban reli segala cuaca “Dynapro R213” secara eksklusif untuk Reli Portugal, putaran keenam FIA World Rally Championship 2026, yang digelar pada 7-10 Mei waktu setempat. Ajang ini merupakan putaran keenam musim WRC dan berlangsung di Portugal. Dengan memasok ban reli untuk WRC, Hankook Tire menampilkan produknya di panggung motorsport global. Dynapro R213 diperkenalkan sebagai ban reli untuk segala kondisi cuaca. Pasokan ini terkait langsung dengan operasional kendaraan peserta serta eksposur performa ban selama Reli Portugal. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "2e050c5b098c",
-    "slug": "위챗서-비아그라다이어트약-불법-판매50대-귀화-중국인-적발-208450",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T01:57:11.774Z",
-    "updatedAt": "2026-05-07T01:57:11.774Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12038916",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12038916",
-    "titleFingerprint": "8c9a455303a4db125f1069dcb3e9b410b9fb3fbf",
-    "dedupKeys": [
-      "2e050c5b098c69a4ad7864f0f1458a3ccf24efee",
-      "8c9a455303a4db125f1069dcb3e9b410b9fb3fbf",
-      "e1934edfadf8affe47eaecd0364d79fa7942099e"
-    ],
-    "imageUrl": "/images/articles/2e050c5b098c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "위챗 통한 비아그라·다이어트약 불법 판매 적발, 50대 귀화 중국인 조사",
-        "excerpt": "제주도 자치경찰단은 7일 위챗으로 비아그라와 다이어트약 등 의약품을 장기간 불법 유통한 50대 귀화 중국인 여성을 약국 개설 자격 없이 판매한 혐의로 적발했다.",
-        "body": "제주도 자치경찰단은 7일 중국 모바일 메신저 위챗을 통해 비아그라와 다이어트약 등 의약품을 장기간 불법 유통한 50대 귀화 중국인 여성을 적발했다고 밝혔다. 경찰에 따르면 이 여성은 약국 개설 자격이 없는 상태에서 온라인상으로 전문 의약품 등을 판매한 혐의를 받고 있다. 위챗을 이용한 거래는 폐쇄적 온라인 채널을 통해 이뤄져 관리와 단속이 쉽지 않은 방식으로 알려졌다. 자치경찰단은 무자격 의약품 유통이 소비자 건강에 위험을 줄 수 있는 만큼 관련 불법 판매 행위에 대한 단속을 이어갈 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "WeChat Viagra and Diet Pill Sales Uncovered as Naturalized Chinese Woman Investigated",
-        "excerpt": "Jeju autonomous police said on May 7 they caught a naturalized Chinese woman in her 50s for allegedly selling Viagra, diet pills and other medicines illegally through WeChat over a long period.",
-        "body": "Jeju’s autonomous police said on May 7 that they had caught a naturalized Chinese woman in her 50s for allegedly distributing medicines, including Viagra and diet pills, illegally for an extended period through the Chinese mobile messenger WeChat. According to police, the woman is accused of selling prescription and other medicines online without the qualifications required to open or operate a pharmacy. Transactions through WeChat are known to take place through relatively closed online channels, making monitoring and enforcement difficult. Authorities are expected to continue cracking down on illegal medicine sales because distribution by unqualified sellers can pose health risks to consumers. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "微信でバイアグラ・ダイエット薬を違法販売、50代帰化中国人女性を摘発",
-        "excerpt": "済州道自治警察団は7日、微信でバイアグラやダイエット薬などを長期間違法流通させた50代の帰化中国人女性を、薬局開設資格なしで販売した疑いで摘発した。",
-        "body": "済州道自治警察団は7日、中国のモバイルメッセンジャー「微信（WeChat）」を通じ、バイアグラやダイエット薬などの医薬品を長期間にわたり違法に流通させた50代の帰化中国人女性を摘発したと明らかにした。警察によると、この女性は薬局を開設する資格がないにもかかわらず、オンライン上で専門医薬品などを販売した疑いが持たれている。微信を使った取引は閉鎖的なオンライン経路で行われるため、管理や取り締まりが容易ではない方式とされる。自治警察団は、無資格の医薬品流通が消費者の健康に危険を及ぼす可能性があるとして、関連する違法販売の取り締まりを続ける見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "微信非法销售伟哥和减肥药被查，50多岁归化中国籍女子接受调查",
-        "excerpt": "济州道自治警察团7日表示，一名50多岁归化中国籍女子涉嫌长期通过微信非法流通伟哥、减肥药等药品，并在无药店开设资格情况下销售而被查获。",
-        "body": "济州道自治警察团7日表示，警方查获一名50多岁归化中国籍女子，她涉嫌通过中国移动通讯软件微信，长期非法流通伟哥、减肥药等药品。据警方介绍，该女子在没有开设药店资格的情况下，涉嫌在网上销售处方药等药品。通过微信进行的交易通常借助相对封闭的线上渠道完成，因此管理和查处并不容易。自治警察团认为，无资格人员流通药品可能对消费者健康造成风险，预计将继续打击相关非法销售行为。来源：mk.co.kr"
-      },
-      "es": {
-        "title": "Venta ilegal de Viagra y pastillas para adelgazar por WeChat: investigan a mujer china naturalizada",
-        "excerpt": "La policía autónoma de Jeju informó el 7 de mayo que detectó a una mujer china naturalizada de unos 50 años por vender ilegalmente por WeChat Viagra, pastillas para adelgazar y otros medicamentos durante largo tiempo.",
-        "body": "La policía autónoma de Jeju informó el 7 de mayo que detectó a una mujer china naturalizada de unos 50 años acusada de distribuir ilegalmente durante un largo periodo medicamentos como Viagra y pastillas para adelgazar a través de WeChat, el servicio chino de mensajería móvil. Según la policía, la mujer habría vendido en línea medicamentos de prescripción y otros productos sin contar con la cualificación necesaria para abrir una farmacia. Las transacciones mediante WeChat suelen realizarse por canales digitales relativamente cerrados, lo que dificulta su control y fiscalización. Las autoridades prevén mantener la vigilancia sobre estas ventas ilegales, ya que la distribución de medicamentos por personas no autorizadas puede representar riesgos para la salud de los consumidores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Venda ilegal de Viagra e remédios para emagrecer pelo WeChat é descoberta em Jeju",
-        "excerpt": "A polícia autônoma de Jeju informou em 7 de maio que flagrou uma chinesa naturalizada, na casa dos 50 anos, por vender ilegalmente Viagra, remédios para emagrecer e outros medicamentos via WeChat por longo período.",
-        "body": "A polícia autônoma de Jeju informou em 7 de maio que flagrou uma chinesa naturalizada, na casa dos 50 anos, suspeita de distribuir ilegalmente por um longo período medicamentos como Viagra e remédios para emagrecer por meio do WeChat, aplicativo chinês de mensagens móveis. Segundo a polícia, a mulher é acusada de vender online medicamentos sujeitos a prescrição e outros produtos sem ter qualificação para abrir uma farmácia. Transações pelo WeChat costumam ocorrer em canais digitais relativamente fechados, o que dificulta a fiscalização. As autoridades devem continuar reprimindo esse tipo de venda ilegal, já que a circulação de medicamentos por pessoas não autorizadas pode trazer riscos à saúde dos consumidores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Illegale WeChat-Verkäufe von Viagra und Diätpillen: Eingebürgerte Chinesin in Jeju gefasst",
-        "excerpt": "Die autonome Polizei von Jeju teilte am 7. Mai mit, dass eine eingebürgerte Chinesin in den Fünfzigern wegen des langjährigen illegalen Verkaufs von Viagra, Diätpillen und anderen Arzneien über WeChat aufgegriffen wurde.",
-        "body": "Die autonome Polizei von Jeju teilte am 7. Mai mit, dass sie eine eingebürgerte Chinesin in den Fünfzigern aufgegriffen habe, die im Verdacht steht, über längere Zeit Arzneimittel wie Viagra und Diätpillen illegal über den chinesischen Messenger WeChat vertrieben zu haben. Nach Angaben der Polizei soll die Frau verschreibungspflichtige und andere Medikamente online verkauft haben, ohne über die erforderliche Berechtigung zur Eröffnung einer Apotheke zu verfügen. Geschäfte über WeChat laufen häufig über vergleichsweise geschlossene Online-Kanäle, was Kontrolle und Durchsetzung erschwert. Die Behörden dürften die Ermittlungen gegen solche illegalen Verkäufe fortsetzen, da der Arzneimittelvertrieb durch nicht qualifizierte Personen Gesundheitsrisiken für Verbraucher bergen kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Vente illégale de Viagra et pilules minceur sur WeChat: une Chinoise naturalisée arrêtée",
-        "excerpt": "La police autonome de Jeju a annoncé le 7 mai avoir interpellé une Chinoise naturalisée d’une cinquantaine d’années, soupçonnée d’avoir vendu illégalement via WeChat du Viagra, des pilules minceur et d’autres médicaments sur une longue période.",
-        "body": "La police autonome de Jeju a annoncé le 7 mai avoir interpellé une Chinoise naturalisée d’une cinquantaine d’années, soupçonnée d’avoir distribué illégalement pendant une longue période des médicaments, dont du Viagra et des pilules minceur, via la messagerie mobile chinoise WeChat. Selon la police, la femme aurait vendu en ligne des médicaments sur ordonnance et d’autres produits sans disposer des qualifications nécessaires pour ouvrir une pharmacie. Les transactions sur WeChat s’effectuent souvent par des canaux en ligne relativement fermés, ce qui rend le contrôle et les poursuites plus difficiles. Les autorités devraient poursuivre la répression de ces ventes illégales, car la distribution de médicaments par des personnes non qualifiées peut présenter des risques pour la santé des consommateurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ضبط بيع غير قانوني للفياغرا وأدوية الحمية عبر ويChat وامرأة صينية متجنسة قيد التحقيق",
-        "excerpt": "أعلنت شرطة الحكم الذاتي في جيجو في 7 مايو ضبط امرأة صينية متجنسة في الخمسينيات للاشتباه في بيع الفياغرا وأدوية الحمية وأدوية أخرى بشكل غير قانوني عبر ويChat لفترة طويلة.",
-        "body": "أعلنت شرطة الحكم الذاتي في جيجو في 7 مايو أنها ضبطت امرأة صينية متجنسة في الخمسينيات من العمر للاشتباه في توزيع أدوية، منها الفياغرا وأدوية الحمية، بشكل غير قانوني على مدى فترة طويلة عبر تطبيق المراسلة الصيني ويChat. ووفقا للشرطة، تواجه المرأة شبهة بيع أدوية موصوفة ومنتجات دوائية أخرى عبر الإنترنت من دون امتلاك المؤهلات اللازمة لفتح صيدلية. وتعد المعاملات عبر ويChat من القنوات الإلكترونية المغلقة نسبيا، ما يجعل مراقبتها وإنفاذ القانون بشأنها أكثر صعوبة. ومن المتوقع أن تواصل السلطات ملاحقة هذه المبيعات غير القانونية، لأن تداول الأدوية من قبل غير المؤهلين قد يشكل خطرا على صحة المستهلكين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "WeChat पर वियाग्रा और डाइट दवाओं की अवैध बिक्री पकड़ी गई, चीनी मूल की महिला जांच में",
-        "excerpt": "जेजू स्वायत्त पुलिस ने 7 मई को कहा कि 50 वर्ष से अधिक उम्र की एक चीनी मूल की प्राकृतिककृत महिला को WeChat के जरिए लंबे समय तक वियाग्रा, डाइट दवाएं और अन्य औषधियां अवैध रूप से बेचने के आरोप में पकड़ा गया।",
-        "body": "जेजू स्वायत्त पुलिस ने 7 मई को बताया कि 50 वर्ष से अधिक उम्र की एक चीनी मूल की प्राकृतिककृत महिला को चीनी मोबाइल मैसेंजर WeChat के जरिए लंबे समय तक वियाग्रा, डाइट दवाओं और अन्य औषधियों के अवैध वितरण के संदेह में पकड़ा गया है। पुलिस के अनुसार, महिला पर आरोप है कि उसने फार्मेसी खोलने की आवश्यक योग्यता न होने के बावजूद ऑनलाइन प्रिस्क्रिप्शन दवाएं और अन्य औषधियां बेचीं। WeChat के माध्यम से लेनदेन अपेक्षाकृत बंद ऑनलाइन चैनलों में होता है, जिससे निगरानी और कार्रवाई कठिन हो जाती है। अधिकारियों के अनुसार, अयोग्य व्यक्तियों द्वारा दवाओं का वितरण उपभोक्ताओं के स्वास्थ्य के लिए जोखिम पैदा कर सकता है, इसलिए ऐसी अवैध बिक्री पर कार्रवाई जारी रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Penjualan Viagra dan Obat Diet Ilegal via WeChat Terungkap, Perempuan China Naturalisasi Diperiksa",
-        "excerpt": "Polisi otonom Jeju pada 7 Mei menyatakan menangkap perempuan China naturalisasi berusia 50-an karena diduga lama menjual Viagra, obat diet, dan obat lain secara ilegal melalui WeChat tanpa izin apotek.",
-        "body": "Polisi otonom Jeju pada 7 Mei menyatakan telah menangkap seorang perempuan China naturalisasi berusia 50-an yang diduga mendistribusikan obat-obatan, termasuk Viagra dan obat diet, secara ilegal dalam jangka panjang melalui aplikasi pesan China WeChat. Menurut polisi, perempuan itu diduga menjual obat resep dan obat lainnya secara online tanpa memiliki kualifikasi untuk membuka apotek. Transaksi melalui WeChat dikenal berlangsung lewat kanal online yang relatif tertutup, sehingga pemantauan dan penindakannya tidak mudah. Otoritas diperkirakan akan terus menindak penjualan obat ilegal semacam ini karena distribusi oleh pihak yang tidak berwenang dapat menimbulkan risiko kesehatan bagi konsumen. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0fa348072235",
-    "slug": "박지원-개헌안-표결-찬성이-국힘-내란-반성의-시작거부할-명분-없어-413761",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T01:56:07.408Z",
-    "updatedAt": "2026-05-07T01:56:07.408Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12038918",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12038918",
-    "titleFingerprint": "9ac27df68b2123aa650c1b50010991c521509ee4",
-    "dedupKeys": [
-      "0fa34807223527f9418ed74c0a68f0a382565780",
-      "9ac27df68b2123aa650c1b50010991c521509ee4",
-      "f50958967974f3473e293d96b3fbc9da27c3bb67"
-    ],
-    "imageUrl": "/images/articles/0fa348072235.jpg",
-    "i18n": {
-      "ko": {
-        "title": "박지원, 계엄 요건 강화 개헌안 표결 찬성 촉구…“국힘 거부 명분 없다”",
-        "excerpt": "박지원 더불어민주당 의원은 7일 대한민국 헌법 개정안 표결을 앞두고 국민의힘의 찬성이 ‘내란 반성’의 시작이라며 동참을 촉구했다.",
-        "body": "박지원 더불어민주당 의원은 7일 국회 본회의에서 표결되는 ‘대한민국 헌법 개정안’과 관련해 국민의힘이 찬성해야 한다고 촉구했다. 박 의원은 개헌안 표결 찬성이 ‘국힘 내란 반성’의 시작이라며 거부할 명분이 없다고 밝혔다. 이번 개헌안은 5·18 민주화운동과 부마민주항쟁 정신을 헌법 전문에 수록하고, 계엄 선포 요건을 강화하며 국회의 계엄 해제 요구권을 확대하는 내용을 담고 있다. 지방자치 강화도 주요 골자다. 개헌안 표결 결과는 헌법 전문과 비상권한 통제, 지방자치 관련 논의의 향방에 영향을 줄 전망이다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Park Jie-won urges vote for constitutional amendment, says PPP has no grounds to refuse",
-        "excerpt": "Democratic Party lawmaker Park Jie-won urged the People Power Party on May 7 to support a constitutional amendment vote, calling it the start of reflecting on insurrection.",
-        "body": "Democratic Party lawmaker Park Jie-won urged the People Power Party to vote in favor of the “Constitutional Amendment of the Republic of Korea” scheduled for a National Assembly plenary vote on May 7. Park said supporting the amendment would be the beginning of the PPP’s reflection on insurrection and that the party had no grounds to reject it. The amendment would add the spirit of the May 18 Democratization Movement and the Busan-Masan Democratic Uprising to the constitutional preamble, strengthen requirements for declaring martial law, and expand the National Assembly’s authority to demand the lifting of martial law. Strengthening local autonomy is also a key element. The vote is expected to affect debates over the constitutional preamble, checks on emergency powers, and local autonomy. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "朴智元氏、改憲案採決で賛成促す…「国民の力に拒否の名分なし」",
-        "excerpt": "共に民主党の朴智元議員は5月7日の大韓民国憲法改正案採決を前に、国民の力の賛成が「内乱反省」の始まりだとして参加を促した。",
-        "body": "共に民主党の朴智元議員は、5月7日に国会本会議で採決される「大韓民国憲法改正案」について、国民の力が賛成すべきだと求めた。朴氏は、改憲案への賛成票は「国民の力の内乱反省」の始まりであり、拒否する名分はないと述べた。今回の改憲案は、5・18民主化運動と釜馬民主抗争の精神を憲法前文に盛り込み、戒厳宣布の要件を強化し、国会の戒厳解除要求権を拡大する内容を含む。地方自治の強化も主要な柱だ。採決結果は、憲法前文、非常権限の統制、地方自治をめぐる議論の行方に影響を与える見通しだ。出典: mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "朴智元敦促支持修宪案表决：国民力量没有拒绝理由",
-        "excerpt": "共同民主党议员朴智元在5月7日大韩民国宪法修正案表决前表示，国民力量投赞成票是“反省内乱”的开始，并敦促其参与。",
-        "body": "共同民主党议员朴智元就5月7日将在国会全体会议表决的《大韩民国宪法修正案》敦促国民力量投赞成票。朴智元表示，赞成修宪案表决是“国民力量反省内乱”的开始，国民力量没有拒绝的理由。此次修宪案的主要内容包括将5·18民主化运动和釜马民主抗争精神写入宪法序言，强化宣布戒严的条件，并扩大国会要求解除戒严的权力。加强地方自治也是核心内容之一。表决结果预计将影响围绕宪法序言、紧急权力制衡和地方自治的后续讨论。来源：引自 mk.co.kr。"
-      },
-      "es": {
-        "title": "Park Jie-won pide apoyar la reforma constitucional y dice que el PPP no tiene motivos para negarse",
-        "excerpt": "El diputado Park Jie-won instó el 7 de mayo al Partido del Poder Popular a apoyar la reforma constitucional, al afirmar que sería el inicio de su reflexión sobre la insurrección.",
-        "body": "El diputado Park Jie-won, del Partido Democrático, instó al Partido del Poder Popular a votar a favor de la “Enmienda a la Constitución de la República de Corea”, que será sometida a votación en la sesión plenaria de la Asamblea Nacional el 7 de mayo. Park afirmó que apoyar la votación sería el inicio de la reflexión del PPP sobre la insurrección y que no había motivos para rechazarla. La reforma busca incorporar al preámbulo constitucional el espíritu del Movimiento Democrático del 18 de Mayo y del Levantamiento Democrático de Busan-Masan, reforzar las condiciones para declarar la ley marcial y ampliar la facultad de la Asamblea Nacional para exigir su levantamiento. El fortalecimiento de la autonomía local también es un eje central. El resultado influirá en los debates sobre el preámbulo, el control de poderes de emergencia y la autonomía local. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Park Jie-won pede apoio à reforma constitucional e diz que PPP não tem razão para recusar",
-        "excerpt": "O deputado Park Jie-won pediu em 7 de maio que o Partido do Poder Popular apoie a emenda constitucional, chamando o voto favorável de início da reflexão sobre insurreição.",
-        "body": "O deputado Park Jie-won, do Partido Democrático, pediu ao Partido do Poder Popular que vote a favor da “Emenda à Constituição da República da Coreia”, prevista para votação no plenário da Assembleia Nacional em 7 de maio. Park afirmou que apoiar a votação seria o início da reflexão do PPP sobre a insurreição e que não há justificativa para rejeitá-la. A proposta inclui inserir no preâmbulo constitucional o espírito do Movimento de Democratização de 18 de Maio e da Revolta Democrática de Busan-Masan, reforçar os requisitos para declarar lei marcial e ampliar o poder da Assembleia Nacional de exigir sua suspensão. O fortalecimento da autonomia local também é um ponto central. O resultado deve influenciar debates sobre o preâmbulo, o controle de poderes emergenciais e a autonomia local. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Park Jie-won fordert Zustimmung zur Verfassungsänderung: PPP habe keinen Ablehnungsgrund",
-        "excerpt": "Der Abgeordnete Park Jie-won rief die People Power Party am 7. Mai auf, der Verfassungsänderung zuzustimmen, und nannte dies den Beginn der Aufarbeitung von Aufruhr.",
-        "body": "Der Abgeordnete Park Jie-won von der Demokratischen Partei forderte die People Power Party auf, der „Verfassungsänderung der Republik Korea“ zuzustimmen, die am 7. Mai im Plenum der Nationalversammlung zur Abstimmung steht. Park sagte, eine Zustimmung sei der Beginn der Aufarbeitung von Aufruhr durch die PPP; es gebe keinen Grund, die Vorlage abzulehnen. Der Entwurf sieht vor, den Geist der Demokratiebewegung vom 18. Mai und des demokratischen Busan-Masan-Aufstands in die Präambel der Verfassung aufzunehmen, die Voraussetzungen für die Ausrufung des Kriegsrechts zu verschärfen und das Recht der Nationalversammlung zur Forderung nach Aufhebung des Kriegsrechts auszuweiten. Auch die Stärkung der kommunalen Selbstverwaltung gehört zu den Kernpunkten. Das Ergebnis dürfte Debatten über Präambel, Kontrolle von Notstandsbefugnissen und lokale Autonomie beeinflussen. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Park Jie-won appelle à soutenir la révision constitutionnelle, le PPP sans motif de refus",
-        "excerpt": "Le député Park Jie-won a appelé le 7 mai le Parti du pouvoir au peuple à soutenir la révision constitutionnelle, y voyant le début d’une réflexion sur l’insurrection.",
-        "body": "Le député Park Jie-won, du Parti démocrate, a exhorté le Parti du pouvoir au peuple à voter en faveur de la « révision de la Constitution de la République de Corée », soumise au vote en séance plénière de l’Assemblée nationale le 7 mai. Selon Park, soutenir le texte serait le début de la réflexion du PPP sur l’insurrection, et le parti n’a aucun motif de le rejeter. Le projet prévoit d’inscrire dans le préambule constitutionnel l’esprit du Mouvement de démocratisation du 18 mai et du soulèvement démocratique de Busan-Masan, de renforcer les conditions de proclamation de la loi martiale et d’élargir le droit de l’Assemblée nationale d’en demander la levée. Le renforcement de l’autonomie locale figure aussi parmi les axes majeurs. Le vote devrait peser sur les débats relatifs au préambule, au contrôle des pouvoirs d’urgence et à l’autonomie locale. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "بارك جي وون يحث على تأييد تعديل الدستور: لا مبرر لرفض حزب قوة الشعب",
-        "excerpt": "حث النائب بارك جي وون في 7 مايو حزب قوة الشعب على دعم التصويت على تعديل الدستور، معتبرا أن التأييد بداية لمراجعة موقفه من التمرد.",
-        "body": "حث النائب بارك جي وون من الحزب الديمقراطي حزب قوة الشعب على التصويت لصالح «تعديل دستور جمهورية كوريا» المقرر طرحه في الجلسة العامة للجمعية الوطنية في 7 مايو. وقال بارك إن تأييد التصويت على التعديل سيكون بداية «مراجعة حزب قوة الشعب لمسألة التمرد»، مضيفا أنه لا توجد حجة لرفضه. ويتضمن التعديل إدراج روح حركة 18 مايو الديمقراطية وانتفاضة بوما الديمقراطية في ديباجة الدستور، وتشديد شروط إعلان الأحكام العرفية، وتوسيع حق الجمعية الوطنية في المطالبة برفعها. كما يعد تعزيز الحكم الذاتي المحلي من المحاور الرئيسية. ومن المتوقع أن تؤثر نتيجة التصويت في مسار النقاش حول ديباجة الدستور، وضبط سلطات الطوارئ، والحكم الذاتي المحلي. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "पार्क जी-वोन ने संविधान संशोधन पर समर्थन मांगा, कहा PPP के पास इनकार का आधार नहीं",
-        "excerpt": "डेमोक्रेटिक पार्टी के सांसद पार्क जी-वोन ने 7 मई को संविधान संशोधन मतदान से पहले पीपुल पावर पार्टी से समर्थन मांगा और इसे ‘विद्रोह पर आत्ममंथन’ की शुरुआत बताया।",
-        "body": "डेमोक्रेटिक पार्टी के सांसद पार्क जी-वोन ने 7 मई को नेशनल असेंबली के पूर्ण सत्र में मतदान के लिए रखे जाने वाले ‘कोरिया गणराज्य संविधान संशोधन’ पर पीपुल पावर पार्टी से पक्ष में मतदान करने का आग्रह किया। पार्क ने कहा कि संशोधन पर समर्थन ‘पीपीपी के विद्रोह पर आत्ममंथन’ की शुरुआत होगा और इसे अस्वीकार करने का कोई आधार नहीं है। इस संशोधन में 18 मई लोकतंत्रीकरण आंदोलन और बुमा लोकतांत्रिक आंदोलन की भावना को संविधान की प्रस्तावना में शामिल करना, मार्शल लॉ घोषित करने की शर्तों को कड़ा करना और नेशनल असेंबली के मार्शल लॉ हटाने की मांग के अधिकार को विस्तारित करना शामिल है। स्थानीय स्वायत्तता को मजबूत करना भी इसका मुख्य बिंदु है। मतदान का परिणाम संविधान की प्रस्तावना, आपात शक्तियों पर नियंत्रण और स्थानीय स्वायत्तता से जुड़ी बहसों को प्रभावित कर सकता है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Park Jie-won desak dukungan amendemen konstitusi, sebut PPP tak punya alasan menolak",
-        "excerpt": "Anggota parlemen Park Jie-won pada 7 Mei mendesak Partai Kekuatan Rakyat mendukung amendemen konstitusi, menyebutnya awal refleksi atas insurensi.",
-        "body": "Anggota parlemen Partai Demokrat Park Jie-won mendesak Partai Kekuatan Rakyat untuk memberikan suara setuju terhadap “Amendemen Konstitusi Republik Korea” yang dijadwalkan diputuskan dalam sidang paripurna Majelis Nasional pada 7 Mei. Park mengatakan dukungan terhadap pemungutan suara amendemen itu merupakan awal dari refleksi PPP atas insurensi dan tidak ada alasan untuk menolaknya. Amendemen ini memuat pencantuman semangat Gerakan Demokratisasi 18 Mei dan Perlawanan Demokratis Buma dalam pembukaan konstitusi, pengetatan syarat deklarasi darurat militer, serta perluasan hak Majelis Nasional untuk menuntut pencabutan darurat militer. Penguatan otonomi daerah juga menjadi pokok utama. Hasil pemungutan suara diperkirakan memengaruhi arah pembahasan mengenai pembukaan konstitusi, pengendalian kewenangan darurat, dan otonomi daerah. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "6f1daf83e5d5",
-    "slug": "대구대-전국-최초-느린학습자-자립-돕는-정규-학위과정-신설-607890",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T01:54:49.483Z",
-    "updatedAt": "2026-05-07T01:54:49.483Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12038919",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12038919",
-    "titleFingerprint": "bcb9718ec4426f680fd51fd45fd2c5d421c80ef0",
-    "dedupKeys": [
-      "6f1daf83e5d53885e3590c4fd704bbe8a6d1caa3",
-      "bcb9718ec4426f680fd51fd45fd2c5d421c80ef0",
-      "5089b4c02811be2592f8ac931153935411f1a577"
-    ],
-    "imageUrl": "/images/articles/6f1daf83e5d5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대구대, 느린학습자 자립 돕는 전국 첫 정규 학위과정 신설",
-        "excerpt": "대구대가 2027학년도 라이프디자인학과를 신설하고 올 하반기 수시모집에서 첫 신입생 20명을 선발해 느린학습자 청년의 자립과 취업 연계를 지원한다.",
-        "body": "대구대가 2027학년도에 ‘라이프디자인학과’를 신설해 전국 최초로 느린학습자의 자립을 돕는 정규 학위과정을 운영한다. 대학은 올 하반기 수시모집을 통해 첫 신입생 20명을 선발할 예정이다. 이 과정은 장애 등급이 없어 제도적 보호망과 복지 지원에서 소외되기 쉬운 청년들이 사회적으로 고립되는 것을 막기 위해 마련됐다. 대구대는 학위과정을 통해 이들의 생활 설계와 취업 연계를 지원하고, 온전한 자립을 돕는 교육 모델을 제시한다는 계획이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Daegu University Opens Korea’s First Degree Program for Slow Learners",
-        "excerpt": "Daegu University will launch its Life Design Department for the 2027 academic year and select 20 first students through admissions later this year to support independence and job links for slow learners.",
-        "body": "Daegu University will establish the Life Design Department in the 2027 academic year, creating Korea’s first regular degree program designed to help slow learners become independent. The university plans to select its first 20 students through rolling admissions in the second half of this year. The program is intended for young people who may fall outside institutional protection and welfare support because they do not have an official disability grade. Daegu University says the degree course will help prevent social isolation, support life planning, connect students with employment, and present an education model for full independence. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "大邱大、スローラーナー自立支援で韓国初の正規学位課程を新設",
-        "excerpt": "大邱大学は2027学年度にライフデザイン学科を新設し、今年下半期の随時募集で初の学生20人を選抜して自立と就職連携を支援する。",
-        "body": "大邱大学は2027学年度に「ライフデザイン学科」を新設し、韓国で初めてスローラーナーの自立を支援する正規学位課程を運営する。大学は今年下半期の随時募集を通じて、初の新入生20人を選抜する予定だ。この課程は、障害等級がないため制度的な保護網や福祉支援から外れやすい若者が社会的に孤立するのを防ぐために設けられた。大邱大学は学位課程を通じ、生活設計と就職連携を支援し、十分な自立を後押しする教育モデルを示す方針だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "大邱大学新设韩国首个帮助慢学习者自立的正规学位课程",
-        "excerpt": "大邱大学将于2027学年新设生活设计系，并在今年下半年随时招生中首批选拔20名学生，支持慢学习者青年自立和就业衔接。",
-        "body": "大邱大学将于2027学年新设“生活设计系”，运营韩国首个旨在帮助慢学习者自立的正规学位课程。学校计划通过今年下半年的随时招生，首批选拔20名新生。该课程面向因没有残疾等级而容易被制度性保护网和福利支持遗漏的青年，旨在防止他们陷入社会孤立。大邱大学表示，将通过学位课程支持学生进行生活规划和就业衔接，并提出帮助他们实现完整自立的教育模式。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Daegu University crea la primera carrera regular para slow learners",
-        "excerpt": "Daegu University abrirá en 2027 el Departamento de Diseño de Vida y seleccionará este año a sus primeros 20 estudiantes para apoyar la autonomía y la conexión laboral de jóvenes slow learners.",
-        "body": "Daegu University creará en el curso 2027 el Departamento de Diseño de Vida, la primera carrera universitaria regular de Corea del Sur destinada a ayudar a los slow learners a lograr autonomía. La universidad prevé seleccionar a sus primeros 20 estudiantes mediante el proceso de admisión de la segunda mitad de este año. El programa fue diseñado para jóvenes que, al no contar con una clasificación oficial de discapacidad, pueden quedar fuera de la red institucional de protección y de los apoyos sociales. La universidad busca evitar su aislamiento, apoyar el diseño de vida, vincularlos con empleo y ofrecer un modelo educativo para una independencia plena. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Daegu University lança primeira graduação para slow learners na Coreia",
-        "excerpt": "A Daegu University criará em 2027 o Departamento de Design de Vida e selecionará 20 primeiros alunos ainda este ano para apoiar autonomia e ligação ao emprego de jovens slow learners.",
-        "body": "A Daegu University criará, no ano letivo de 2027, o Departamento de Design de Vida, o primeiro curso regular de graduação da Coreia do Sul voltado a apoiar a autonomia de slow learners. A universidade pretende selecionar os primeiros 20 alunos por meio do processo de admissão do segundo semestre deste ano. O curso foi planejado para jovens que, por não terem classificação oficial de deficiência, podem ficar fora da rede institucional de proteção e do apoio social. A instituição afirma que o programa ajudará a evitar o isolamento social, apoiar o planejamento de vida, conectar estudantes ao emprego e apresentar um modelo educacional para autonomia plena. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Daegu University startet Koreas ersten Studiengang für Slow Learners",
-        "excerpt": "Die Daegu University richtet zum Studienjahr 2027 den Fachbereich Life Design ein und wählt später in diesem Jahr die ersten 20 Studierenden aus, um Selbstständigkeit und Jobanbindung zu fördern.",
-        "body": "Die Daegu University richtet zum Studienjahr 2027 den Fachbereich „Life Design“ ein und startet damit Koreas ersten regulären Studiengang, der Slow Learners auf dem Weg in die Selbstständigkeit unterstützt. Die Universität will in der zweiten Jahreshälfte über das Zulassungsverfahren die ersten 20 Studierenden auswählen. Der Studiengang richtet sich an junge Menschen, die mangels offizieller Behinderungseinstufung leicht aus institutionellen Schutznetzen und Sozialleistungen herausfallen. Ziel ist es, soziale Isolation zu verhindern, Lebensplanung und Beschäftigungsanbindung zu fördern und ein Bildungsmodell für vollständige Eigenständigkeit vorzulegen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Daegu University crée le premier cursus diplômant pour slow learners",
-        "excerpt": "Daegu University ouvrira en 2027 un département Life Design et recrutera cette année ses 20 premiers étudiants afin de soutenir l’autonomie et l’insertion professionnelle des jeunes slow learners.",
-        "body": "Daegu University créera, pour l’année universitaire 2027, un département « Life Design », premier cursus diplômant régulier en Corée du Sud destiné à soutenir l’autonomie des slow learners. L’université prévoit de sélectionner ses 20 premiers étudiants lors de la procédure d’admission du second semestre de cette année. Le programme vise des jeunes qui, faute de classement officiel de handicap, peuvent rester en dehors des dispositifs institutionnels de protection et d’aide sociale. L’université entend prévenir leur isolement social, accompagner leur projet de vie, faciliter le lien avec l’emploi et proposer un modèle éducatif favorisant une autonomie complète. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جامعة دايغو تطلق أول برنامج جامعي نظامي في كوريا للمتعلمين البطيئين",
-        "excerpt": "تؤسس جامعة دايغو قسم تصميم الحياة للعام الدراسي 2027 وتختار أول 20 طالبا عبر القبول في النصف الثاني من هذا العام لدعم استقلال الشباب المتعلمين البطيئين وربطهم بالعمل.",
-        "body": "تؤسس جامعة دايغو في العام الدراسي 2027 قسم «تصميم الحياة»، ليكون أول برنامج درجة جامعية نظامي في كوريا يساعد المتعلمين البطيئين على الاستقلال. وتعتزم الجامعة اختيار أول دفعة من 20 طالبا عبر القبول الدوري في النصف الثاني من هذا العام. يستهدف البرنامج شبابا قد يبقون خارج شبكة الحماية المؤسسية والدعم الاجتماعي لأنهم لا يملكون تصنيفا رسميا للإعاقة. وتقول جامعة دايغو إن البرنامج سيعمل على منع العزلة الاجتماعية، ودعم تخطيط الحياة، وربط الطلاب بفرص العمل، وتقديم نموذج تعليمي يساعد على تحقيق الاستقلال الكامل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "डेगू यूनिवर्सिटी ने स्लो लर्नर्स के लिए कोरिया का पहला डिग्री कोर्स बनाया",
-        "excerpt": "डेगू यूनिवर्सिटी 2027 शैक्षणिक वर्ष में लाइफ डिजाइन विभाग शुरू करेगी और इस साल दूसरी छमाही की प्रवेश प्रक्रिया से पहले 20 छात्रों का चयन कर आत्मनिर्भरता व रोजगार जुड़ाव में मदद करेगी।",
-        "body": "डेगू यूनिवर्सिटी 2027 शैक्षणिक वर्ष में ‘लाइफ डिजाइन विभाग’ शुरू करेगी, जो स्लो लर्नर्स की आत्मनिर्भरता में मदद करने वाला कोरिया का पहला नियमित डिग्री कार्यक्रम होगा। विश्वविद्यालय इस साल दूसरी छमाही की प्रवेश प्रक्रिया के जरिए पहले 20 नए छात्रों का चयन करने की योजना बना रहा है। यह पाठ्यक्रम उन युवाओं के लिए बनाया गया है जो आधिकारिक विकलांगता श्रेणी न होने के कारण संस्थागत सुरक्षा और कल्याण सहायता से छूट सकते हैं। डेगू यूनिवर्सिटी इस डिग्री कार्यक्रम के जरिए सामाजिक अलगाव रोकने, जीवन योजना और रोजगार से जुड़ाव को समर्थन देने तथा पूर्ण आत्मनिर्भरता के लिए एक शैक्षिक मॉडल पेश करने की योजना रखती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Daegu University Buka Prodi Reguler Pertama untuk Slow Learners",
-        "excerpt": "Daegu University akan membuka Departemen Life Design pada tahun ajaran 2027 dan memilih 20 mahasiswa pertama lewat penerimaan paruh kedua tahun ini untuk mendukung kemandirian serta koneksi kerja slow learners.",
-        "body": "Daegu University akan membuka Departemen Life Design pada tahun ajaran 2027 sebagai program gelar reguler pertama di Korea Selatan yang membantu slow learners mencapai kemandirian. Universitas itu berencana memilih 20 mahasiswa baru pertama melalui penerimaan mahasiswa pada paruh kedua tahun ini. Program ini disiapkan bagi kaum muda yang mudah terlewat dari perlindungan kelembagaan dan dukungan kesejahteraan karena tidak memiliki tingkat disabilitas resmi. Daegu University menyatakan program gelar ini akan membantu mencegah isolasi sosial, mendukung perencanaan hidup, menghubungkan mahasiswa dengan pekerjaan, dan menawarkan model pendidikan untuk kemandirian penuh. Sumber: mk.co.kr"
       }
     }
   }
