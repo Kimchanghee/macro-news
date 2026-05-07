@@ -6,7 +6,7 @@ export const channel = {
   name: '매크로시그널',
   tagline: '금리·연준·인플레이션 신호를 매일 빠르게',
   description: 'Fed·한국은행·ECB의 금리 결정, CPI, GDP, 고용지표 등 거시경제 신호를 초등생도 이해할 수 있게 풀어드립니다.',
-  domain: 'macrosignal.live',
+  domain: 'macro-news-theta.vercel.app',
   accent: 'orange',
   keywords: ['거시경제', '금리', '연준', '인플레이션', 'CPI', 'GDP'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
