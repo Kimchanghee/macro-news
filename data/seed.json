@@ -1,5 +1,230 @@
 [
   {
+    "id": "9044753c1d3a",
+    "slug": "미국-무역법원-10-글로벌관세도-위법-판결-336315",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T22:09:19.557Z",
+    "updatedAt": "2026-05-07T22:09:19.557Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12040667",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12040667",
+    "titleFingerprint": "19f75086d91ab0d60af5a55b3c91193aa5e0a93b",
+    "dedupKeys": [
+      "9044753c1d3ad8affe09d8c3f198f5c85916ab4e",
+      "19f75086d91ab0d60af5a55b3c91193aa5e0a93b",
+      "2dd8e8d789517a10ab0f5f64fd36908004b30f40"
+    ],
+    "imageUrl": "/images/articles/9044753c1d3a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 무역법원, 트럼프 ‘10% 글로벌관세’도 위법 판단",
+        "excerpt": "미국 무역법원이 트럼프 행정부가 상호관세 위법 판결 이후 도입한 ‘10% 글로벌관세’에 대해 적절한 조치가 아니라며 1심에서 위법 판단을 내렸다.",
+        "body": "미국 무역법원이 도널드 트럼프 행정부가 도입한 ‘10% 글로벌관세’에 대해 1심에서 위법하다고 판단했다. 이 관세는 지난 2월 연방대법원이 트럼프 행정부의 ‘상호관세’ 등에 대해 위법 판결을 내린 뒤 이를 대체하기 위해 도입된 조치다. 그러나 1심 법원은 해당 글로벌관세가 상호관세를 대신할 적절한 조치가 아니라고 봤다. 이번 판결은 트럼프 행정부의 관세 정책을 둘러싼 법적 논란이 이어지고 있음을 보여준다. 향후 관련 무역 조치의 유지 여부와 후속 대응이 주목된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "US Trade Court Rules Trump’s 10% Global Tariff Illegal Too",
+        "excerpt": "A US trade court ruled at first instance that the Trump administration’s 10% global tariff, introduced after the reciprocal tariff ruling, was not an appropriate measure.",
+        "body": "A US trade court has ruled at first instance that the Trump administration’s “10% global tariff” is illegal. The measure was introduced after the US Supreme Court ruled in February that the Trump administration’s “reciprocal tariffs” and related measures were unlawful. The 10% global tariff was designed as a replacement for those reciprocal tariffs. However, the first-instance court found that the global tariff was not an appropriate substitute. The ruling shows that legal disputes over the Trump administration’s tariff policy are continuing. Attention now turns to whether the related trade measures can remain in place and how the administration responds. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "米貿易裁判所、トランプ氏の「10%グローバル関税」も違法判断",
+        "excerpt": "米貿易裁判所は、相互関税の違法判断後にトランプ政権が導入した「10%グローバル関税」について、適切な措置ではないとして一審で違法と判断した。",
+        "body": "米国の貿易裁判所は、ドナルド・トランプ政権が導入した「10%グローバル関税」について、一審で違法と判断した。この関税は、2月に米連邦最高裁がトランプ政権の「相互関税」などを違法と判断した後、その代替策として導入されたものだ。しかし一審裁判所は、同グローバル関税が相互関税に代わる適切な措置ではないと見なした。今回の判断は、トランプ政権の関税政策をめぐる法的論争が続いていることを示している。今後、関連する貿易措置の維持可否と対応が注目される。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "美国贸易法院裁定特朗普“10%全球关税”同样违法",
+        "excerpt": "美国贸易法院一审认定，特朗普政府在互惠关税被判违法后推出的“10%全球关税”并非适当措施，因此构成违法。",
+        "body": "美国贸易法院一审裁定，唐纳德·特朗普政府推出的“10%全球关税”违法。该关税是在今年2月美国联邦最高法院裁定特朗普政府的“互惠关税”等措施违法之后，为替代相关关税而出台的措施。不过，一审法院认为，这项全球关税并不是替代互惠关税的适当措施。此次裁决显示，围绕特朗普政府关税政策的法律争议仍在持续。后续相关贸易措施能否维持，以及政府将如何应对，仍受到关注。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Tribunal comercial de EE. UU. declara ilegal el arancel global del 10% de Trump",
+        "excerpt": "Un tribunal comercial de EE. UU. dictaminó en primera instancia que el arancel global del 10% introducido por Trump tras el fallo contra los aranceles recíprocos no era una medida adecuada.",
+        "body": "Un tribunal comercial de Estados Unidos declaró ilegal en primera instancia el “arancel global del 10%” introducido por la administración de Donald Trump. La medida fue adoptada después de que, en febrero, la Corte Suprema federal de EE. UU. determinara que los “aranceles recíprocos” y otras medidas de la administración Trump eran ilegales. El arancel global buscaba sustituir esos aranceles recíprocos. Sin embargo, el tribunal de primera instancia consideró que no era una medida adecuada para reemplazarlos. El fallo muestra que continúan las disputas legales sobre la política arancelaria de Trump. Ahora se observa si las medidas comerciales relacionadas podrán mantenerse y cuál será la respuesta posterior. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Tribunal comercial dos EUA também considera ilegal tarifa global de 10% de Trump",
+        "excerpt": "Um tribunal comercial dos EUA decidiu em primeira instância que a tarifa global de 10% criada por Trump após a decisão contra tarifas recíprocas não era uma medida adequada.",
+        "body": "Um tribunal comercial dos Estados Unidos decidiu em primeira instância que a “tarifa global de 10%” introduzida pelo governo de Donald Trump é ilegal. A medida foi criada depois que, em fevereiro, a Suprema Corte federal dos EUA considerou ilegais as “tarifas recíprocas” e outras medidas do governo Trump. A tarifa global de 10% foi apresentada como substituta dessas tarifas recíprocas. No entanto, o tribunal de primeira instância entendeu que ela não era uma medida adequada para essa substituição. A decisão mostra que as disputas jurídicas sobre a política tarifária de Trump continuam. A atenção agora se volta para a manutenção das medidas comerciais relacionadas e para os próximos passos do governo. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "US-Handelsgericht erklärt Trumps 10-Prozent-Globalzoll ebenfalls für rechtswidrig",
+        "excerpt": "Ein US-Handelsgericht urteilte in erster Instanz, dass der nach dem Urteil zu Gegenzöllen eingeführte 10-Prozent-Globalzoll der Trump-Regierung keine angemessene Maßnahme sei.",
+        "body": "Ein US-Handelsgericht hat in erster Instanz entschieden, dass der von der Regierung Donald Trumps eingeführte „10-Prozent-Globalzoll“ rechtswidrig ist. Die Maßnahme wurde eingeführt, nachdem der Oberste Gerichtshof der USA im Februar die „Gegenzölle“ und weitere Maßnahmen der Trump-Regierung für rechtswidrig erklärt hatte. Der Globalzoll sollte diese Gegenzölle ersetzen. Das erstinstanzliche Gericht befand jedoch, dass er dafür keine angemessene Maßnahme sei. Das Urteil zeigt, dass die rechtlichen Auseinandersetzungen um Trumps Zollpolitik weitergehen. Im Fokus stehen nun die Frage, ob die betroffenen Handelsmaßnahmen bestehen bleiben können, und die weiteren Reaktionen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Un tribunal commercial américain juge aussi illégal le tarif mondial de 10% de Trump",
+        "excerpt": "Un tribunal commercial américain a jugé en première instance que le tarif mondial de 10% instauré par Trump après le jugement sur les tarifs réciproques n’était pas une mesure appropriée.",
+        "body": "Un tribunal commercial des États-Unis a jugé en première instance que le « tarif mondial de 10% » instauré par l’administration de Donald Trump était illégal. Cette mesure avait été introduite après que la Cour suprême fédérale des États-Unis eut jugé en février que les « tarifs réciproques » et d’autres mesures de l’administration Trump étaient illégaux. Le tarif mondial de 10% devait les remplacer. Toutefois, le tribunal de première instance a estimé qu’il ne constituait pas une mesure appropriée de substitution. Cette décision montre que les litiges juridiques autour de la politique tarifaire de Trump se poursuivent. L’attention porte désormais sur le maintien éventuel des mesures commerciales concernées et sur la réponse qui suivra. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "محكمة التجارة الأميركية تعتبر رسوم ترامب العالمية البالغة 10% غير قانونية أيضا",
+        "excerpt": "قضت محكمة تجارة أميركية ابتدائيا بأن الرسوم العالمية البالغة 10% التي أدخلتها إدارة ترامب بعد الحكم بعدم قانونية الرسوم المتبادلة ليست إجراء مناسبا.",
+        "body": "قضت محكمة التجارة الأميركية في الدرجة الأولى بأن «الرسوم العالمية البالغة 10%» التي أدخلتها إدارة دونالد ترامب غير قانونية. وجاء هذا الإجراء بعد أن قضت المحكمة العليا الفدرالية الأميركية في فبراير بأن «الرسوم المتبادلة» وغيرها من إجراءات إدارة ترامب غير قانونية. وكانت الرسوم العالمية البالغة 10% تهدف إلى أن تكون بديلا لتلك الرسوم المتبادلة. لكن محكمة الدرجة الأولى رأت أنها ليست إجراء مناسبا لهذا الغرض. ويظهر الحكم أن الجدل القانوني حول سياسة الرسوم الجمركية لإدارة ترامب لا يزال مستمرا. وتتجه الأنظار الآن إلى ما إذا كان يمكن الإبقاء على الإجراءات التجارية المرتبطة، وإلى الردود اللاحقة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "अमेरिकी व्यापार अदालत ने ट्रंप के 10% वैश्विक शुल्क को भी अवैध माना",
+        "excerpt": "अमेरिकी व्यापार अदालत ने प्रथम स्तर पर कहा कि पारस्परिक शुल्क पर फैसले के बाद ट्रंप प्रशासन द्वारा लाया गया 10% वैश्विक शुल्क उपयुक्त कदम नहीं था।",
+        "body": "अमेरिकी व्यापार अदालत ने प्रथम स्तर पर डोनाल्ड ट्रंप प्रशासन द्वारा लगाए गए “10% वैश्विक शुल्क” को अवैध करार दिया है। यह शुल्क फरवरी में अमेरिकी संघीय सुप्रीम कोर्ट द्वारा ट्रंप प्रशासन के “पारस्परिक शुल्क” आदि को अवैध ठहराने के बाद उनके विकल्प के रूप में पेश किया गया था। लेकिन प्रथम स्तर की अदालत ने माना कि यह वैश्विक शुल्क पारस्परिक शुल्क की जगह लेने के लिए उपयुक्त उपाय नहीं है। यह फैसला दिखाता है कि ट्रंप प्रशासन की शुल्क नीति को लेकर कानूनी विवाद जारी है। अब ध्यान इस बात पर है कि संबंधित व्यापारिक उपाय बने रहेंगे या नहीं और आगे क्या प्रतिक्रिया दी जाएगी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Pengadilan Dagang AS Nyatakan Tarif Global 10% Trump Juga Ilegal",
+        "excerpt": "Pengadilan dagang AS memutuskan di tingkat pertama bahwa tarif global 10% yang diperkenalkan Trump setelah putusan atas tarif timbal balik bukan langkah yang tepat.",
+        "body": "Pengadilan dagang Amerika Serikat memutuskan di tingkat pertama bahwa “tarif global 10%” yang diperkenalkan pemerintahan Donald Trump adalah ilegal. Tarif ini diberlakukan setelah Mahkamah Agung federal AS pada Februari menyatakan “tarif timbal balik” dan langkah terkait pemerintahan Trump sebagai ilegal. Tarif global 10% tersebut dimaksudkan sebagai pengganti tarif timbal balik. Namun, pengadilan tingkat pertama menilai kebijakan itu bukan langkah yang tepat untuk menggantikannya. Putusan ini menunjukkan bahwa sengketa hukum seputar kebijakan tarif Trump masih berlanjut. Perhatian kini tertuju pada apakah langkah perdagangan terkait dapat dipertahankan dan bagaimana respons lanjutan akan diambil. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "f4d736c4d0f7",
+    "slug": "매경이-전하는-세상의-지식-매-세-지-5월-8일-156051",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T22:08:30.078Z",
+    "updatedAt": "2026-05-07T22:08:30.078Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12039348",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12039348",
+    "titleFingerprint": "bbf5d7c3c2b772d1a659bbd2daf4c6f09c9e1f8b",
+    "dedupKeys": [
+      "f4d736c4d0f7f5af4967cd8066c45551bef14b18",
+      "bbf5d7c3c2b772d1a659bbd2daf4c6f09c9e1f8b",
+      "35314de66757a2f2cca414071749ba4debba225f"
+    ],
+    "imageUrl": "/images/articles/f4d736c4d0f7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 전세가격 0.23% 급등, 10여 년 만의 최고 상승률",
+        "excerpt": "서울 아파트 주간 전세가격 상승률이 5월 8일 매경 보도 기준 0.23%를 기록하며 10여 년 만에 최고치를 나타냈다.",
+        "body": "서울 아파트 주간 전세가격 상승률이 5월 8일 매경이 전한 세상의 지식 보도 기준 0.23%를 기록했다. 이는 10여 년 만에 가장 높은 수준이다. 토지거래허가제와 다주택자 규제 등으로 실거주 압력이 커지면서 전세 매물이 줄어든 것이 배경으로 제시됐다. 입주 물량과 전세 공급이 제한되는 가운데 수요가 몰리며 가격 상승세가 커진 것으로 풀이된다. 전세 매물 실종이 이어질 경우 세입자의 주거비 부담은 더 커질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Jeonse Prices Jump 0.23%, Highest Rise in Over a Decade",
+        "excerpt": "Seoul apartment weekly jeonse prices rose 0.23% in Maeil Business Newspaper’s May 8 report, marking the highest increase in over 10 years.",
+        "body": "Seoul apartment weekly jeonse prices rose 0.23%, according to Maeil Business Newspaper’s May 8 knowledge briefing. The increase was the highest in more than a decade. The report cited growing pressure for actual residency due to the land transaction permit system and regulations on multiple-home owners, which has reduced available jeonse listings. With move-in supply and rental availability limited, concentrated demand appears to have strengthened the price increase. If the shortage of jeonse listings continues, tenants may face heavier housing cost burdens. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウルマンション全租価格0.23%上昇、10年余りで最高の伸び",
+        "excerpt": "ソウルのマンション週間全租価格上昇率は、5月8日の毎経報道基準で0.23%となり、10年余りで最高水準を記録した。",
+        "body": "ソウルのマンション週間全租価格上昇率は、5月8日に毎経が伝えた知識ニュースの報道基準で0.23%を記録した。これは10年余りで最も高い水準だ。土地取引許可制や多住宅保有者への規制などにより実居住の圧力が強まり、全租物件が減少したことが背景として示された。入居物量と全租供給が限られるなか、需要が集中し、価格上昇の勢いが強まったとみられる。全租物件の不足が続けば、借り手の住居費負担はさらに大きくなる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓全租价格上涨0.23%，创十余年来最高涨幅",
+        "excerpt": "据每日经济5月8日报道，首尔公寓每周全租价格涨幅达到0.23%，创下十余年来最高水平。",
+        "body": "据每日经济5月8日“传递世界知识”报道，首尔公寓每周全租价格上涨0.23%。这是十余年来最高水平。报道指出，土地交易许可制以及对多房业主的监管等因素增加了实际居住压力，导致全租房源减少。随着入住供应和全租供给受限，需求集中推动价格涨势扩大。如果全租房源短缺持续，租户的居住成本负担可能进一步加重。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jeonse en apartamentos de Seúl sube 0,23%, máximo en más de una década",
+        "excerpt": "Los precios semanales del jeonse de apartamentos en Seúl subieron 0,23% según el reporte del 8 de mayo de Maeil Business Newspaper.",
+        "body": "Los precios semanales del jeonse de apartamentos en Seúl subieron 0,23%, según el informe de conocimiento publicado el 8 de mayo por Maeil Business Newspaper. Es el mayor aumento en más de una década. El reporte señaló como contexto la mayor presión para residencia efectiva por el sistema de permiso de transacciones de suelo y las regulaciones a propietarios de varias viviendas, lo que redujo la oferta de jeonse. Con la oferta de nuevas ocupaciones y viviendas en jeonse limitada, la demanda concentrada habría intensificado el alza. Si sigue la escasez, los inquilinos podrían enfrentar mayores costos de vivienda. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jeonse de apartamentos em Seul sobe 0,23%, maior alta em mais de dez anos",
+        "excerpt": "O preço semanal do jeonse de apartamentos em Seul subiu 0,23% no relatório de 8 de maio do Maeil Business Newspaper, o maior avanço em mais de uma década.",
+        "body": "O preço semanal do jeonse de apartamentos em Seul subiu 0,23%, segundo o boletim de conhecimento divulgado em 8 de maio pelo Maeil Business Newspaper. Foi o maior nível em mais de uma década. O relatório apontou como pano de fundo a maior pressão por residência efetiva, causada pelo sistema de permissão para transações de terrenos e por regras sobre proprietários de múltiplos imóveis, o que reduziu os anúncios de jeonse. Com oferta de novas ocupações e de jeonse limitada, a concentração da demanda ampliou a alta. Se a escassez continuar, o custo habitacional dos inquilinos pode aumentar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jeonse-Preise für Wohnungen in Seoul steigen um 0,23%, höchster Zuwachs seit über zehn Jahren",
+        "excerpt": "Die wöchentlichen Jeonse-Preise für Wohnungen in Seoul stiegen laut Maeil Business Newspaper vom 8. Mai um 0,23% und damit so stark wie seit über zehn Jahren nicht.",
+        "body": "Die wöchentlichen Jeonse-Preise für Wohnungen in Seoul stiegen laut dem Wissensbriefing des Maeil Business Newspaper vom 8. Mai um 0,23%. Das ist der höchste Wert seit mehr als zehn Jahren. Als Hintergrund nannte der Bericht den wachsenden Druck zur tatsächlichen Eigennutzung durch das Landtransaktionsgenehmigungssystem und Vorschriften für Mehrfachhausbesitzer, wodurch Jeonse-Angebote zurückgingen. Bei begrenztem Einzugsvolumen und knapper Jeonse-Verfügbarkeit konzentrierte sich die Nachfrage und verstärkte den Preisanstieg. Hält der Mangel an, könnten Mieter stärker belastet werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le jeonse des appartements à Séoul grimpe de 0,23%, plus forte hausse en plus de dix ans",
+        "excerpt": "Les prix hebdomadaires du jeonse des appartements à Séoul ont augmenté de 0,23% selon le point du 8 mai de Maeil Business Newspaper.",
+        "body": "Les prix hebdomadaires du jeonse des appartements à Séoul ont progressé de 0,23%, selon le bulletin de connaissances publié le 8 mai par Maeil Business Newspaper. Il s’agit du niveau le plus élevé depuis plus de dix ans. Le rapport cite comme contexte la pression accrue pour l’occupation réelle, liée au système d’autorisation des transactions foncières et aux règles visant les propriétaires de plusieurs logements, ce qui a réduit les biens disponibles en jeonse. Avec une offre d’emménagement et de jeonse limitée, la demande concentrée a renforcé la hausse. Si la pénurie se poursuit, les locataires pourraient supporter des coûts de logement plus élevés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسعار جونسي لشقق سول ترتفع 0.23%، أعلى زيادة منذ أكثر من عقد",
+        "excerpt": "سجل معدل ارتفاع أسعار جونسي الأسبوعية لشقق سول 0.23% بحسب تقرير Maeil Business Newspaper في 8 مايو، وهو الأعلى منذ أكثر من عشر سنوات.",
+        "body": "سجلت أسعار جونسي الأسبوعية لشقق سول ارتفاعا بنسبة 0.23%، وفق موجز المعرفة الذي نشرته Maeil Business Newspaper في 8 مايو. ويعد ذلك أعلى مستوى منذ أكثر من عشر سنوات. وذكر التقرير أن الخلفية تتمثل في زيادة ضغط السكن الفعلي بسبب نظام تصاريح معاملات الأراضي والقيود على مالكي المنازل المتعددة، ما أدى إلى تراجع معروض جونسي. ومع محدودية المعروض من الوحدات الجاهزة للإشغال وعقود جونسي، تركز الطلب واشتدت وتيرة ارتفاع الأسعار. وإذا استمر نقص المعروض، فقد تزداد أعباء تكاليف السكن على المستأجرين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट जॉन्से कीमतें 0.23% बढ़ीं, एक दशक से अधिक में सबसे तेज उछाल",
+        "excerpt": "Maeil Business Newspaper की 8 मई की रिपोर्ट के अनुसार सियोल अपार्टमेंट की साप्ताहिक जॉन्से कीमतें 0.23% बढ़ीं, जो दस साल से अधिक में सबसे ऊंची वृद्धि है।",
+        "body": "Maeil Business Newspaper के 8 मई के ज्ञान बुलेटिन के अनुसार, सियोल अपार्टमेंट की साप्ताहिक जॉन्से कीमतों में 0.23% की वृद्धि हुई। यह दस साल से अधिक समय में सबसे ऊंचा स्तर है। रिपोर्ट में पृष्ठभूमि के रूप में भूमि लेनदेन अनुमति प्रणाली और कई घरों के मालिकों पर नियमों के कारण वास्तविक निवास का दबाव बढ़ने को बताया गया, जिससे जॉन्से उपलब्धता घट गई। नए प्रवेश योग्य आवास और जॉन्से आपूर्ति सीमित रहने के बीच मांग केंद्रित हुई और कीमतों की तेजी मजबूत हुई। यदि जॉन्से लिस्टिंग की कमी जारी रहती है, तो किरायेदारों पर आवास लागत का बोझ बढ़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Harga Jeonse Apartemen Seoul Naik 0,23%, Tertinggi dalam Lebih dari Satu Dekade",
+        "excerpt": "Harga jeonse mingguan apartemen Seoul naik 0,23% menurut laporan Maeil Business Newspaper pada 8 Mei, mencatat kenaikan tertinggi dalam lebih dari 10 tahun.",
+        "body": "Harga jeonse mingguan apartemen Seoul naik 0,23%, menurut buletin pengetahuan Maeil Business Newspaper pada 8 Mei. Angka ini merupakan level tertinggi dalam lebih dari satu dekade. Laporan tersebut menyebut meningkatnya tekanan untuk hunian aktual akibat sistem izin transaksi tanah dan regulasi terhadap pemilik banyak rumah sebagai latar belakang, sehingga listing jeonse berkurang. Dengan pasokan unit siap huni dan ketersediaan jeonse yang terbatas, permintaan yang terkonsentrasi memperkuat kenaikan harga. Jika kelangkaan listing jeonse berlanjut, beban biaya hunian penyewa dapat meningkat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d0564fca27bc",
+    "slug": "대학가-집어삼킨-노란봉투법-혼란-실질적-사용자-기준정립-시급-최영찬의-학교분쟁리포트-721992",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T22:07:35.548Z",
+    "updatedAt": "2026-05-07T22:07:35.548Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12039603",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12039603",
+    "titleFingerprint": "02fc8d48debfb00f4f501dff4cc253bc1926a9cf",
+    "dedupKeys": [
+      "d0564fca27bc4d668b3e78e2ac43f261db402638",
+      "02fc8d48debfb00f4f501dff4cc253bc1926a9cf",
+      "e7d168e47d1a0e260e9246166e2d023a3191007c"
+    ],
+    "imageUrl": "/images/articles/d0564fca27bc.png",
+    "i18n": {
+      "ko": {
+        "title": "노란봉투법 대학가 혼란 확산, ‘실질적 사용자’ 기준 정립 시급",
+        "excerpt": "2026년 3월 개정 노동조합법, 이른바 노란봉투법 시행 이후 대학가에서 하청업체 노동조합의 단체교섭 요구가 이어지며 혼란이 커지고 있다.",
+        "body": "2026년 3월 개정 노동조합법, 이른바 ‘노란봉투법’이 시행된 뒤 대학가가 하청업체 노동조합의 단체교섭 요구로 혼란을 겪고 있다. 최영찬 법무법인 바른 변호사는 대학 현장에서 민주노총 측의 교섭 요구가 제기되며 ‘실질적 사용자’ 판단 기준을 둘러싼 갈등이 커졌다고 설명했다. 개정 법의 적용 범위와 원청인 대학의 사용자성 인정 여부가 핵심 쟁점으로 떠오르면서 학교 운영과 노사관계 전반에 부담이 커지는 분위기다. 향후 분쟁을 줄이려면 실질적 사용자 기준을 조속히 정립해야 한다는 지적이 나온다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Yellow Envelope Act Disrupts Campuses, Clear ‘Actual Employer’ Rule Needed",
+        "excerpt": "Since the revised Trade Union Act, known as the Yellow Envelope Act, took effect in March 2026, campuses have faced growing confusion over subcontractor union bargaining demands.",
+        "body": "Since the revised Trade Union Act, widely called the Yellow Envelope Act, took effect in March 2026, universities have been thrown into confusion by collective bargaining demands from subcontractor labor unions. Attorney Choi Young-chan of Barun Law said such demands, including those raised by the Korean Confederation of Trade Unions, have intensified disputes over how to define an ‘actual employer.’ The key issue is whether and how the amended law applies to universities as original contractors and whether they can be recognized as employers. The situation is adding pressure to campus operations and labor relations. Observers say clear criteria for actual employer status must be established quickly to reduce future disputes. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "黄色い封筒法で大学に混乱拡大、「実質的使用者」基準の確立急務",
+        "excerpt": "2026年3月に改正労働組合法、いわゆる黄色い封筒法が施行されて以降、大学では下請け労組の団体交渉要求をめぐる混乱が広がっている。",
+        "body": "2026年3月に改正労働組合法、いわゆる「黄色い封筒法」が施行されて以降、大学では下請け業者の労働組合による団体交渉要求で混乱が生じている。法務法人バルンの崔泳燦弁護士は、大学現場で民主労総側の交渉要求が提起され、「実質的使用者」の判断基準をめぐる対立が拡大していると説明した。改正法の適用範囲と、元請けである大学に使用者性を認めるかどうかが主要争点となり、学校運営と労使関係全般に負担が増している。今後の紛争を減らすには、実質的使用者基準の早期確立が必要だとの指摘が出ている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "“黄色信封法”引发大学混乱，亟须明确“实际雇主”标准",
+        "excerpt": "自2026年3月修订后的《工会法》即“黄色信封法”实施以来，韩国大学因承包商工会提出集体谈判要求而陷入混乱。",
+        "body": "自2026年3月修订后的《劳动组合法》、即所谓“黄色信封法”施行以来，韩国大学因分包企业工会提出集体谈判要求而出现严重混乱。法务法人Barun律师崔永灿表示，在大学现场，民主劳总方面提出谈判要求，使围绕“实际雇主”判断标准的争议扩大。修订法的适用范围，以及作为原承包方的大学是否应被认定为雇主，已成为核心争点。这一局面正在加重学校运营和劳资关系整体压力。为减少今后纠纷，有观点认为必须尽快确立实际雇主标准。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La Ley del Sobre Amarillo sacude universidades y exige definir al ‘empleador real’",
+        "excerpt": "Desde la entrada en vigor en marzo de 2026 de la reforma de la Ley Sindical, la Ley del Sobre Amarillo, las universidades afrontan demandas de negociación de sindicatos subcontratados.",
+        "body": "Desde que en marzo de 2026 entró en vigor la reforma de la Ley Sindical, conocida como la Ley del Sobre Amarillo, las universidades han quedado envueltas en confusión por las demandas de negociación colectiva de sindicatos de trabajadores subcontratados. El abogado Choi Young-chan, del bufete Barun, explicó que las solicitudes planteadas en campus por la KCTU han ampliado el conflicto sobre el criterio para determinar quién es el ‘empleador real’. El punto central es el alcance de la ley revisada y si las universidades, como contratistas principales, pueden ser reconocidas como empleadoras. La situación aumenta la presión sobre la gestión escolar y las relaciones laborales. Se señala que definir pronto ese estándar es clave para reducir disputas futuras. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lei do Envelope Amarelo gera confusão nas universidades; critério de ‘empregador real’ é urgente",
+        "excerpt": "Desde março de 2026, quando entrou em vigor a reforma da Lei Sindical, universidades enfrentam incerteza com pedidos de negociação de sindicatos de terceirizados.",
+        "body": "Desde que a Lei Sindical revisada, conhecida como Lei do Envelope Amarelo, entrou em vigor em março de 2026, universidades vêm enfrentando confusão devido a pedidos de negociação coletiva de sindicatos de trabalhadores terceirizados. O advogado Choi Young-chan, do escritório Barun, afirmou que demandas apresentadas em campus, incluindo as da KCTU, ampliaram disputas sobre o critério para definir o ‘empregador real’. A questão central é o alcance da lei revisada e se as universidades, como contratantes principais, podem ser reconhecidas como empregadoras. O cenário aumenta a pressão sobre a operação das instituições e as relações trabalhistas. Para reduzir conflitos futuros, aponta-se a necessidade de estabelecer rapidamente esse critério. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Yellow-Envelope-Gesetz sorgt an Universitäten für Chaos: klare Regel zum ‘tatsächlichen Arbeitgeber’ nötig",
+        "excerpt": "Seit dem Inkrafttreten des geänderten Gewerkschaftsgesetzes im März 2026 fordern Subunternehmer-Gewerkschaften an Universitäten Tarifverhandlungen und lösen Unsicherheit aus.",
+        "body": "Seit das geänderte Gewerkschaftsgesetz, das sogenannte Yellow-Envelope-Gesetz, im März 2026 in Kraft trat, geraten Universitäten durch Forderungen von Gewerkschaften der Subunternehmer nach Tarifverhandlungen in Verwirrung. Choi Young-chan, Anwalt der Kanzlei Barun, erklärte, dass solche Forderungen auf dem Campus, auch vonseiten des Gewerkschaftsdachverbands KCTU, den Streit über die Kriterien für einen ‘tatsächlichen Arbeitgeber’ verschärft hätten. Im Mittelpunkt steht, wie weit das geänderte Gesetz gilt und ob Universitäten als Hauptauftraggeber als Arbeitgeber anerkannt werden können. Dies belastet Hochschulbetrieb und Arbeitsbeziehungen. Zur Verringerung künftiger Konflikte wird eine rasche Festlegung klarer Kriterien gefordert. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La loi de l’enveloppe jaune déstabilise les universités, critère d’‘employeur réel’ attendu",
+        "excerpt": "Depuis l’entrée en vigueur en mars 2026 de la loi syndicale révisée, dite loi de l’enveloppe jaune, les universités font face aux demandes de négociation de syndicats sous-traitants.",
+        "body": "Depuis l’entrée en vigueur en mars 2026 de la loi syndicale révisée, appelée loi de l’enveloppe jaune, les universités connaissent une forte confusion liée aux demandes de négociation collective de syndicats de salariés sous-traitants. Choi Young-chan, avocat au cabinet Barun, a expliqué que les demandes formulées sur les campus, notamment par la KCTU, ont intensifié les différends autour du critère d’‘employeur réel’. L’enjeu central porte sur le champ d’application de la loi révisée et sur la possibilité de reconnaître les universités, donneurs d’ordre, comme employeurs. Cette situation pèse sur la gestion des établissements et les relations sociales. Des voix appellent à définir rapidement ce critère pour limiter les futurs conflits. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قانون «المظروف الأصفر» يربك الجامعات والحاجة ملحة لمعيار «صاحب العمل الفعلي»",
+        "excerpt": "منذ تطبيق تعديل قانون النقابات في مارس 2026، المعروف بقانون المظروف الأصفر، تواجه الجامعات ارتباكا بسبب مطالب نقابات عمال المتعهدين بالتفاوض الجماعي.",
+        "body": "منذ دخول تعديل قانون النقابات، المعروف باسم «قانون المظروف الأصفر»، حيز التنفيذ في مارس 2026، تشهد الجامعات ارتباكا بسبب مطالب نقابات عمال شركات التعهيد بالتفاوض الجماعي. وقال المحامي تشوي يونغ تشان من مكتب بارون للمحاماة إن مطالب التفاوض المطروحة في الجامعات، بما في ذلك من جانب اتحاد النقابات الديمقراطية الكوري، وسعت الخلاف حول معيار تحديد «صاحب العمل الفعلي». وتتمحور القضية حول نطاق تطبيق القانون المعدل وما إذا كان يمكن الاعتراف بالجامعات، باعتبارها جهة تعاقد أصلية، كصاحب عمل. ويزيد ذلك الضغط على تشغيل الجامعات والعلاقات العمالية. وتبرز دعوات إلى وضع معيار واضح بسرعة للحد من النزاعات المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "येलो एनवेलप कानून से विश्वविद्यालयों में असमंजस, ‘वास्तविक नियोक्ता’ मानक जरूरी",
+        "excerpt": "मार्च 2026 में संशोधित ट्रेड यूनियन कानून, जिसे येलो एनवेलप कानून कहा जाता है, लागू होने के बाद विश्वविद्यालय उपठेकेदार यूनियनों की सामूहिक वार्ता मांगों से उलझन में हैं।",
+        "body": "मार्च 2026 में संशोधित ट्रेड यूनियन कानून, यानी ‘येलो एनवेलप कानून’, लागू होने के बाद विश्वविद्यालयों में उपठेकेदार कंपनियों की मजदूर यूनियनों की सामूहिक सौदेबाजी मांगों से भ्रम बढ़ गया है। बारुन लॉ फर्म के वकील चोई यंग-चान ने कहा कि विश्वविद्यालय परिसरों में केसीटीयू पक्ष की वार्ता मांगों से ‘वास्तविक नियोक्ता’ तय करने के मानक पर विवाद गहरा गया है। मुख्य मुद्दा संशोधित कानून का दायरा और यह है कि मूल ठेकेदार के रूप में विश्वविद्यालय को नियोक्ता माना जा सकता है या नहीं। इससे संस्थान संचालन और श्रम संबंधों पर दबाव बढ़ रहा है। भविष्य के विवाद घटाने के लिए वास्तविक नियोक्ता का मानक जल्द तय करने की जरूरत बताई जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "UU Amplop Kuning Picu Kekacauan Kampus, Standar ‘Pemberi Kerja Nyata’ Mendesak",
+        "excerpt": "Sejak revisi UU Serikat Pekerja atau UU Amplop Kuning berlaku pada Maret 2026, kampus menghadapi kebingungan akibat tuntutan perundingan dari serikat pekerja subkontraktor.",
+        "body": "Sejak revisi Undang-Undang Serikat Pekerja, yang disebut UU Amplop Kuning, berlaku pada Maret 2026, universitas mengalami kebingungan akibat tuntutan perundingan kolektif dari serikat pekerja perusahaan subkontraktor. Pengacara Choi Young-chan dari firma hukum Barun menjelaskan bahwa tuntutan perundingan di lingkungan kampus, termasuk dari pihak KCTU, memperbesar sengketa mengenai kriteria ‘pemberi kerja nyata’. Isu utamanya adalah cakupan penerapan UU yang direvisi dan apakah universitas sebagai kontraktor utama dapat diakui sebagai pemberi kerja. Situasi ini menambah beban pada operasional kampus dan hubungan ketenagakerjaan. Untuk mengurangi sengketa ke depan, standar pemberi kerja nyata dinilai perlu segera ditetapkan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "0724a40c848a",
     "slug": "美-석유-수출-대박에-기업들-웃지만트럼프는-흉흉해진-민심-걱정-399383",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Tersangka Pembunuhan Acak di Gwangju Ditahan Usai Pilih Jalan Sepi",
         "excerpt": "Pria 24 tahun bermarga Jang ditahan setelah menyerang siswa SMA yang tidak dikenalnya di pusat Gwangju, dengan indikasi mendahului rute korban dan memilih jalan samping yang sepi.",
         "body": "Pria 24 tahun bermarga Jang ditahan setelah diduga mengayunkan senjata tajam kepada siswa SMA yang tidak dikenalnya di pusat kota Gwangju. Dalam penyelidikan, muncul indikasi bahwa Jang bergerak mendahului rute yang diperkirakan akan dilalui korban, lalu memilih jalan samping yang relatif sepi sebagai lokasi serangan. Hal itu menunjukkan ia mungkin telah mengamati titik yang kemungkinan dilalui korban. Kasus ini meningkatkan keresahan masyarakat setempat karena serangan senjata tajam yang tampak acak terjadi di kawasan perkotaan. Aparat diperkirakan terus memeriksa proses persiapan dan motif spesifiknya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f296dbe1161d",
-    "slug": "개헌안-처리-국민의힘-불참-속-정족수-부족으로-투표-불성립-555311",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T07:39:40.842Z",
-    "updatedAt": "2026-05-07T07:39:40.842Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12039266",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12039266",
-    "titleFingerprint": "aa172f9cfa0e9e437251b2c0b98ec70fefaa1dd6",
-    "dedupKeys": [
-      "f296dbe1161d1b1cc949b070ee32a6307a56c96d",
-      "aa172f9cfa0e9e437251b2c0b98ec70fefaa1dd6",
-      "35db805ccb7aa8a904c6d157867a088b066fe147"
-    ],
-    "imageUrl": "/images/articles/f296dbe1161d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "개헌안 투표 불성립, 국민의힘 불참 속 의결 정족수 부족",
-        "excerpt": "7일 국회 본회의에서 대한민국 헌법 개정안 처리가 시도됐지만 국민의힘 불참으로 의결 정족수가 부족해 우원식 국회의장이 투표 불성립을 선언했다.",
-        "body": "7일 국회에서 열린 제435회 국회 임시회 1차 본회의에서 대한민국 헌법 개정안 처리가 시도됐지만 투표는 성립하지 않았다. 우원식 국회의장은 본회의에서 개헌안 표결 절차를 진행했으나 국민의힘 의원들이 불참하면서 의결에 필요한 정족수를 채우지 못했다. 이에 따라 개헌안은 표결 결과를 확정하는 단계로 나아가지 못했고, 국회의장은 투표 불성립을 선언했다. 이번 상황은 개헌안 처리 과정에서 여야 참여 여부와 정족수 확보가 핵심 변수임을 다시 보여줬다. 향후 개헌 논의는 국회 내 참여와 절차적 요건 충족 여부에 따라 영향을 받을 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Constitutional Amendment Vote Fails as People Power Party Boycotts",
-        "excerpt": "On May 7, a vote on South Korea’s constitutional amendment at the National Assembly failed to proceed after the People Power Party’s absence left the chamber short of quorum.",
-        "body": "On May 7, during the first plenary session of the 435th extraordinary National Assembly, lawmakers attempted to process a proposed amendment to the Constitution of the Republic of Korea, but the vote was not established. National Assembly Speaker Woo Won-shik proceeded with the voting process, yet the absence of People Power Party lawmakers left the chamber without the required quorum. As a result, the amendment could not move to a confirmed voting outcome, and the speaker declared the vote invalid due to lack of quorum. The case underscored that participation by rival parties and quorum requirements remain decisive factors in handling constitutional revisions. Future discussions are expected to depend on participation within the Assembly and fulfillment of procedural conditions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "憲法改正案の投票不成立、国民の力欠席で定足数不足",
-        "excerpt": "5月7日の韓国国会本会議で憲法改正案の処理が試みられたが、国民の力の欠席により定足数を満たせず、禹元植議長が投票不成立を宣言した。",
-        "body": "5月7日、韓国国会で開かれた第435回国会臨時会第1回本会議で、大韓民国憲法改正案の処理が試みられたが、投票は成立しなかった。禹元植国会議長は本会議で改正案の採決手続きを進めたものの、国民の力所属議員が欠席し、議決に必要な定足数を満たせなかった。そのため改正案は採決結果を確定する段階に進めず、議長は投票不成立を宣言した。今回の事態は、憲法改正案の処理において与野党の参加と定足数の確保が重要な変数であることを改めて示した。今後の改憲論議は国会内の参加状況と手続き要件の充足に左右される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "修宪案投票未成立，国民力量缺席致表决人数不足",
-        "excerpt": "5月7日韩国国会全体会议尝试处理宪法修正案，但因国民力量缺席导致法定人数不足，议长禹元植宣布投票不成立。",
-        "body": "5月7日，在韩国第435届国会临时会第一次全体会议上，国会尝试处理《大韩民国宪法》修正案，但投票未能成立。国会议长禹元植在全体会议上推进修宪案表决程序，但国民力量议员缺席，使会议未能达到议决所需法定人数。因此，该修宪案未能进入确认表决结果的阶段，议长宣布投票不成立。此次情况再次显示，在修宪案处理过程中，各党派是否参与以及能否确保法定人数是关键变量。今后的修宪讨论预计将受到国会内部参与情况和程序性条件是否满足的影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fracasa la votación de la reforma constitucional por falta de quórum",
-        "excerpt": "El 7 de mayo, la Asamblea Nacional surcoreana intentó votar una reforma constitucional, pero la ausencia del Partido del Poder Popular impidió alcanzar el quórum necesario.",
-        "body": "El 7 de mayo, durante la primera sesión plenaria de la 435.ª Asamblea Nacional extraordinaria de Corea del Sur, se intentó tramitar una enmienda a la Constitución de la República de Corea, pero la votación no quedó constituida. El presidente de la Asamblea Nacional, Woo Won-shik, avanzó con el procedimiento de votación en el pleno, aunque la ausencia de legisladores del Partido del Poder Popular dejó a la cámara sin el quórum requerido para decidir. Como resultado, la enmienda no pudo pasar a una etapa de resultado confirmado y el presidente declaró la votación no válida por falta de quórum. El episodio mostró que la participación de los partidos y el cumplimiento del quórum son variables clave en una reforma constitucional. Las próximas discusiones dependerán de la participación parlamentaria y de los requisitos de procedimiento. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Votação da emenda constitucional falha por falta de quórum",
-        "excerpt": "Em 7 de maio, a Assembleia Nacional da Coreia do Sul tentou votar uma emenda constitucional, mas a ausência do Partido do Poder Popular impediu o quórum necessário.",
-        "body": "Em 7 de maio, durante a primeira sessão plenária da 435ª sessão extraordinária da Assembleia Nacional da Coreia do Sul, houve uma tentativa de processar uma emenda à Constituição da República da Coreia, mas a votação não foi estabelecida. O presidente da Assembleia Nacional, Woo Won-shik, conduziu o procedimento de votação no plenário, porém a ausência de parlamentares do Partido do Poder Popular impediu que fosse alcançado o quórum necessário para deliberação. Com isso, a emenda não avançou para a etapa de confirmação do resultado da votação, e o presidente declarou a votação inválida por falta de quórum. O caso mostrou novamente que a participação partidária e o quórum são fatores centrais em reformas constitucionais. As próximas discussões dependerão da participação no Parlamento e do cumprimento das exigências processuais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Verfassungsänderung scheitert an Quorum nach Boykott der PPP",
-        "excerpt": "Am 7. Mai scheiterte eine Abstimmung über eine Verfassungsänderung in Südkoreas Nationalversammlung, weil die Abwesenheit der People Power Party das nötige Quorum verhinderte.",
-        "body": "Am 7. Mai wurde in der ersten Plenarsitzung der 435. außerordentlichen Sitzung der südkoreanischen Nationalversammlung versucht, einen Entwurf zur Änderung der Verfassung der Republik Korea zu behandeln. Die Abstimmung kam jedoch nicht zustande. Parlamentspräsident Woo Won-shik leitete das Abstimmungsverfahren im Plenum ein, doch wegen der Abwesenheit von Abgeordneten der People Power Party wurde das für einen Beschluss erforderliche Quorum nicht erreicht. Damit konnte der Änderungsentwurf nicht in die Phase eines bestätigten Abstimmungsergebnisses gelangen, und der Präsident erklärte die Abstimmung für nicht zustande gekommen. Der Vorgang machte deutlich, dass Parteibeteiligung und Quorum zentrale Faktoren bei Verfassungsänderungen bleiben. Weitere Debatten dürften von der Teilnahme im Parlament und der Erfüllung der Verfahrensanforderungen abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Révision constitutionnelle: vote non valide faute de quorum à Séoul",
-        "excerpt": "Le 7 mai, l’Assemblée nationale sud-coréenne a tenté de voter une révision constitutionnelle, mais l’absence du People Power Party a empêché d’atteindre le quorum requis.",
-        "body": "Le 7 mai, lors de la première séance plénière de la 435e session extraordinaire de l’Assemblée nationale sud-coréenne, les députés ont tenté d’examiner un amendement à la Constitution de la République de Corée, mais le vote n’a pas été constitué. Le président de l’Assemblée nationale, Woo Won-shik, a engagé la procédure de vote en séance plénière, mais l’absence des députés du People Power Party a empêché d’atteindre le quorum nécessaire à une décision. L’amendement n’a donc pas pu aller jusqu’à la confirmation d’un résultat de vote, et le président a déclaré le vote non valide faute de quorum. Cette situation montre que la participation des partis et le respect du quorum restent déterminants dans le traitement d’une révision constitutionnelle. Les prochaines discussions dépendront de la participation au Parlement et du respect des conditions de procédure. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "فشل التصويت على تعديل الدستور في كوريا الجنوبية لنقص النصاب",
-        "excerpt": "في 7 مايو، حاولت الجمعية الوطنية في كوريا الجنوبية التصويت على تعديل دستوري، لكن غياب حزب قوة الشعب أدى إلى نقص النصاب وإعلان عدم انعقاد التصويت.",
-        "body": "في 7 مايو، خلال الجلسة العامة الأولى للدورة الاستثنائية رقم 435 للجمعية الوطنية في كوريا الجنوبية، جرت محاولة لمعالجة تعديل على دستور جمهورية كوريا، لكن التصويت لم ينعقد. بدأ رئيس الجمعية الوطنية وو وون-شيك إجراءات التصويت في الجلسة العامة، إلا أن غياب نواب حزب قوة الشعب حال دون توافر النصاب المطلوب لاتخاذ القرار. ونتيجة لذلك، لم يتمكن التعديل الدستوري من الانتقال إلى مرحلة تثبيت نتيجة التصويت، وأعلن الرئيس عدم انعقاد التصويت بسبب نقص النصاب. وأظهرت هذه الواقعة أن مشاركة الأحزاب وتوافر النصاب يظلان عاملين حاسمين في التعامل مع تعديلات الدستور. ومن المتوقع أن تتأثر المناقشات المقبلة بمدى المشاركة داخل البرلمان واستيفاء الشروط الإجرائية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "संवैधानिक संशोधन पर मतदान विफल, पीपल पावर पार्टी अनुपस्थित",
-        "excerpt": "7 मई को दक्षिण कोरिया की नेशनल असेंबली में संवैधानिक संशोधन पर मतदान की कोशिश हुई, लेकिन पीपल पावर पार्टी की अनुपस्थिति से कोरम पूरा नहीं हुआ।",
-        "body": "7 मई को दक्षिण कोरिया की 435वीं असाधारण नेशनल असेंबली के पहले पूर्ण सत्र में कोरिया गणराज्य के संविधान में संशोधन प्रस्ताव पर कार्यवाही की कोशिश की गई, लेकिन मतदान स्थापित नहीं हो सका। नेशनल असेंबली के अध्यक्ष वू वोन-शिक ने पूर्ण सत्र में मतदान प्रक्रिया आगे बढ़ाई, लेकिन पीपल पावर पार्टी के सांसदों की अनुपस्थिति के कारण निर्णय के लिए आवश्यक कोरम पूरा नहीं हुआ। इसके परिणामस्वरूप संशोधन प्रस्ताव मतदान परिणाम की पुष्टि के चरण तक नहीं पहुंच सका और अध्यक्ष ने कोरम की कमी के कारण मतदान न होने की घोषणा की। इस घटनाक्रम ने दिखाया कि संवैधानिक संशोधन के मामलों में दलों की भागीदारी और कोरम सुनिश्चित करना प्रमुख कारक हैं। आगे की चर्चा संसद में भागीदारी और प्रक्रियात्मक शर्तों की पूर्ति पर निर्भर रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Voting Amandemen Konstitusi Gagal karena Kuorum Tak Terpenuhi",
-        "excerpt": "Pada 7 Mei, Majelis Nasional Korea Selatan mencoba memproses amandemen konstitusi, tetapi absennya Partai Kekuatan Rakyat membuat kuorum tidak terpenuhi.",
-        "body": "Pada 7 Mei, dalam sidang pleno pertama sesi luar biasa ke-435 Majelis Nasional Korea Selatan, pemrosesan amandemen Konstitusi Republik Korea dicoba dilakukan, tetapi pemungutan suara tidak terbentuk. Ketua Majelis Nasional Woo Won-shik menjalankan prosedur pemungutan suara di pleno, namun absennya anggota parlemen dari Partai Kekuatan Rakyat membuat kuorum yang diperlukan untuk pengambilan keputusan tidak terpenuhi. Akibatnya, amandemen tersebut tidak dapat berlanjut ke tahap penetapan hasil suara, dan ketua menyatakan pemungutan suara tidak sah karena kurang kuorum. Peristiwa ini menunjukkan kembali bahwa partisipasi partai dan pemenuhan kuorum menjadi faktor penting dalam pemrosesan amendemen konstitusi. Pembahasan berikutnya diperkirakan bergantung pada partisipasi di parlemen dan pemenuhan persyaratan prosedural. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d88099ebea6e",
-    "slug": "개헌안-처리-국민의힘-불참-속-정족수-부족으로-투표-불성립-599644",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T07:38:31.447Z",
-    "updatedAt": "2026-05-07T07:38:31.447Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12039267",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12039267",
-    "titleFingerprint": "aa172f9cfa0e9e437251b2c0b98ec70fefaa1dd6",
-    "dedupKeys": [
-      "d88099ebea6ed02917987469453f248336f3b4b5",
-      "aa172f9cfa0e9e437251b2c0b98ec70fefaa1dd6",
-      "35db805ccb7aa8a904c6d157867a088b066fe147"
-    ],
-    "imageUrl": "/images/articles/d88099ebea6e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "개헌안 처리, 국민의힘 불참에 정족수 부족…국회 본회의서 투표 불성립",
-        "excerpt": "우원식 국회의장은 7일 제435회 국회 임시회 1차 본회의에서 대한민국 헌법 개정안 표결이 국민의힘 불참에 따른 정족수 부족으로 성립하지 않았다고 밝혔다.",
-        "body": "7일 국회에서 열린 제435회 국회 임시회 1차 본회의에서 대한민국 헌법 개정안 처리가 정족수 부족으로 투표 불성립됐다. 우원식 국회의장은 본회의에서 개헌안에 대한 표결이 성립하지 않았다고 선언했다. 이번 투표 불성립은 국민의힘이 본회의 표결에 불참한 가운데 의결에 필요한 정족수를 채우지 못하면서 발생했다. 개헌안 처리는 본회의 표결 단계에서 멈췄고, 향후 국회 논의 일정과 여야 협의 여부가 관건으로 남게 됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Constitutional Amendment Vote Fails as People Power Party Boycott Leaves Quorum Short",
-        "excerpt": "National Assembly Speaker Woo Won-shik said on the 7th that a vote on a constitutional amendment failed to proceed at the first plenary session of the 435th extraordinary session due to a lack of quorum.",
-        "body": "At the first plenary session of the 435th extraordinary session of South Korea’s National Assembly on the 7th, the handling of a constitutional amendment ended in an invalid vote due to a lack of quorum. Speaker Woo Won-shik declared during the plenary session that the vote on the amendment had not been established. The failure occurred as the People Power Party did not participate in the plenary vote, leaving the chamber short of the quorum needed for a decision. The amendment process stopped at the voting stage, with future Assembly scheduling and talks between the ruling and opposition parties remaining key issues. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "改憲案採決、国民の力の不参加で定足数不足…国会本会議で投票不成立",
-        "excerpt": "禹元植国会議長は7日、第435回国会臨時会第1回本会議で、大韓民国憲法改正案の採決が国民の力の不参加による定足数不足で成立しなかったと述べた。",
-        "body": "7日に国会で開かれた第435回国会臨時会第1回本会議で、大韓民国憲法改正案の処理は定足数不足により投票不成立となった。禹元植国会議長は本会議で、改憲案に対する採決が成立しなかったと宣言した。今回の投票不成立は、国民の力が本会議での採決に参加しない中、議決に必要な定足数を満たせなかったことで発生した。改憲案の処理は本会議の採決段階で止まり、今後の国会日程と与野党協議の行方が焦点として残った。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "修宪案处理因国民力量缺席致法定人数不足，国会全会投票未成立",
-        "excerpt": "韩国国会议长禹元植7日在第435届国会临时会第一次全体会议上表示，因国民力量缺席导致法定人数不足，大韩民国宪法修正案投票未能成立。",
-        "body": "7日，在韩国国会举行的第435届国会临时会第一次全体会议上，大韩民国宪法修正案处理因法定人数不足而投票未成立。国会议长禹元植在全体会议上宣布，针对该修宪案的投票未能成立。此次投票未成立，是在国民力量未参加全体会议表决的情况下，未能满足作出议决所需法定人数所致。修宪案处理停留在全体会议表决阶段，今后国会议程安排以及朝野协商是否推进仍是关键。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Voto de reforma constitucional fracasa por falta de quórum tras ausencia del PPP",
-        "excerpt": "El presidente de la Asamblea Nacional, Woo Won-shik, dijo el día 7 que la votación de una reforma constitucional no se constituyó en la primera sesión plenaria extraordinaria 435 por falta de quórum.",
-        "body": "El día 7, en la primera sesión plenaria de la 435.ª sesión extraordinaria de la Asamblea Nacional de Corea del Sur, la tramitación de una reforma constitucional quedó sin votación válida por falta de quórum. El presidente de la Asamblea, Woo Won-shik, declaró en el pleno que la votación sobre la enmienda no se había constituido. La situación se produjo mientras el Partido del Poder Popular no participó en la votación plenaria, lo que impidió alcanzar el quórum necesario para decidir. El proceso de la reforma se detuvo en la fase de votación, y quedan como puntos clave el calendario parlamentario y la posible negociación entre oficialismo y oposición. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Votação de emenda constitucional falha sem quórum após ausência do PPP",
-        "excerpt": "O presidente da Assembleia Nacional, Woo Won-shik, afirmou no dia 7 que a votação de uma emenda constitucional não se constituiu na primeira plenária da 435ª sessão extraordinária por falta de quórum.",
-        "body": "No dia 7, na primeira sessão plenária da 435ª sessão extraordinária da Assembleia Nacional da Coreia do Sul, a tramitação de uma emenda constitucional terminou sem votação válida por falta de quórum. O presidente da Assembleia, Woo Won-shik, declarou no plenário que a votação da emenda não havia sido constituída. O resultado ocorreu enquanto o Partido do Poder Popular não participou da votação plenária, impedindo que fosse atingido o quórum necessário para a decisão. A emenda ficou parada na etapa de votação, e a agenda futura da Assembleia e eventuais negociações entre governo e oposição seguem como pontos centrais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Verfassungsänderung scheitert im Parlament: Kein Quorum nach Boykott der PPP",
-        "excerpt": "Parlamentspräsident Woo Won-shik erklärte am 7., dass die Abstimmung über eine Verfassungsänderung in der ersten Plenarsitzung der 435. Sondersitzung wegen fehlenden Quorums nicht zustande kam.",
-        "body": "Am 7. kam die Behandlung einer Verfassungsänderung in der ersten Plenarsitzung der 435. außerordentlichen Sitzung der südkoreanischen Nationalversammlung wegen fehlenden Quorums nicht zustande. Parlamentspräsident Woo Won-shik erklärte im Plenum, dass die Abstimmung über den Änderungsantrag nicht wirksam eröffnet worden sei. Grund war, dass die People Power Party an der Plenarabstimmung nicht teilnahm und dadurch die für einen Beschluss erforderliche Zahl an Abgeordneten fehlte. Das Verfahren blieb damit auf der Abstimmungsstufe stehen; entscheidend bleiben nun der weitere Parlamentsfahrplan und mögliche Gespräche zwischen Regierungslager und Opposition. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Réforme constitutionnelle: vote non constitué faute de quorum après l’absence du PPP",
-        "excerpt": "Le président de l’Assemblée nationale, Woo Won-shik, a indiqué le 7 que le vote sur une révision constitutionnelle n’avait pas été constitué lors de la première séance plénière de la 435e session extraordinaire.",
-        "body": "Le 7, lors de la première séance plénière de la 435e session extraordinaire de l’Assemblée nationale sud-coréenne, l’examen d’un amendement à la Constitution s’est soldé par un vote non constitué faute de quorum. Le président de l’Assemblée, Woo Won-shik, a déclaré en séance que le vote sur le texte n’avait pas pu être établi. Cette situation est survenue alors que le Parti du pouvoir au peuple n’a pas participé au vote en plénière, empêchant d’atteindre le quorum requis pour une décision. Le traitement de la réforme est donc resté bloqué à l’étape du vote, tandis que le calendrier parlementaire et les discussions entre majorité et opposition restent déterminants. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "فشل التصويت على تعديل دستوري في كوريا الجنوبية بعد غياب حزب سلطة الشعب ونقص النصاب",
-        "excerpt": "قال رئيس الجمعية الوطنية وو وون-شيك في السابع إن التصويت على تعديل دستور جمهورية كوريا لم ينعقد في الجلسة العامة الأولى للدورة الاستثنائية رقم 435 بسبب نقص النصاب.",
-        "body": "في السابع، خلال الجلسة العامة الأولى للدورة الاستثنائية رقم 435 للجمعية الوطنية في كوريا الجنوبية، تعذر إقرار تعديل دستور جمهورية كوريا بعدما لم ينعقد التصويت بسبب نقص النصاب. وأعلن رئيس الجمعية الوطنية وو وون-شيك في الجلسة أن التصويت على التعديل الدستوري لم يتحقق. وجاء ذلك في ظل عدم مشاركة حزب سلطة الشعب في التصويت العام، ما أدى إلى عدم استيفاء النصاب المطلوب لاتخاذ القرار. وبذلك توقف مسار التعديل عند مرحلة التصويت في الجلسة العامة، فيما تبقى مواعيد مناقشات الجمعية والمشاورات بين الأحزاب عوامل حاسمة لاحقا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "संवैधानिक संशोधन पर मतदान अमान्य, पीपल पावर पार्टी की अनुपस्थिति से कोरम अधूरा",
-        "excerpt": "नेशनल असेंबली के अध्यक्ष वू वोन-शिक ने 7 तारीख को कहा कि 435वें असाधारण सत्र की पहली पूर्ण बैठक में कोरम की कमी के कारण संविधान संशोधन पर मतदान स्थापित नहीं हो सका।",
-        "body": "7 तारीख को दक्षिण कोरिया की नेशनल असेंबली के 435वें असाधारण सत्र की पहली पूर्ण बैठक में संविधान संशोधन प्रस्ताव पर कार्यवाही कोरम की कमी के कारण मतदान स्थापित न होने पर रुक गई। नेशनल असेंबली के अध्यक्ष वू वोन-शिक ने पूर्ण बैठक में घोषणा की कि संशोधन प्रस्ताव पर मतदान वैध रूप से स्थापित नहीं हुआ। यह स्थिति तब बनी जब पीपल पावर पार्टी ने पूर्ण बैठक के मतदान में भाग नहीं लिया और निर्णय के लिए आवश्यक कोरम पूरा नहीं हो सका। संशोधन प्रस्ताव की प्रक्रिया मतदान चरण पर ही ठहर गई, और आगे असेंबली का कार्यक्रम तथा सत्तापक्ष-विपक्ष की चर्चा अहम रहेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pemungutan Suara Amandemen Konstitusi Gagal karena Kuorum Kurang usai PPP Absen",
-        "excerpt": "Ketua Majelis Nasional Woo Won-shik menyatakan pada tanggal 7 bahwa pemungutan suara atas amandemen Konstitusi Republik Korea dalam sidang paripurna pertama sesi luar biasa ke-435 tidak sah karena kuorum kurang.",
-        "body": "Pada tanggal 7, dalam sidang paripurna pertama sesi luar biasa ke-435 Majelis Nasional Korea Selatan, pembahasan amandemen Konstitusi Republik Korea berakhir dengan pemungutan suara tidak sah karena kuorum tidak terpenuhi. Ketua Majelis Nasional Woo Won-shik menyatakan di sidang bahwa pemungutan suara atas amandemen tersebut tidak terbentuk. Hal ini terjadi ketika People Power Party tidak mengikuti pemungutan suara paripurna, sehingga jumlah anggota yang dibutuhkan untuk pengambilan keputusan tidak tercapai. Proses amandemen berhenti di tahap pemungutan suara, sementara jadwal pembahasan Majelis dan kemungkinan konsultasi antarkubu politik menjadi isu berikutnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "30925f5f305f",
-    "slug": "태국인-아내에-끓는-물-부은-남편-재판-재개피해자가-처벌-원해-841028",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T07:37:25.742Z",
-    "updatedAt": "2026-05-07T07:37:25.742Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12039276",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12039276",
-    "titleFingerprint": "95805132670a28c4fc2f95df8c04cbe79a2543a1",
-    "dedupKeys": [
-      "30925f5f305f639e758f3b5ab4af06c2971e8825",
-      "95805132670a28c4fc2f95df8c04cbe79a2543a1",
-      "409639800d0084a29cace4a072c5ec1149a2d2c2"
-    ],
-    "imageUrl": "/images/articles/30925f5f305f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "태국인 아내 얼굴 중화상 사건 재판 재개…피해자 처벌 의사 밝혀",
-        "excerpt": "지난 3월 검찰 구형까지 진행됐던 태국인 아내 얼굴 중화상 사건 재판이 피해자 측 입장 변경으로 7일 의정부지법에서 변론을 재개했다.",
-        "body": "태국인 아내에게 끓는 물을 부어 얼굴에 중화상을 입힌 사건의 재판 변론이 7일 의정부지법 형사12단독 김준영 판사 심리로 재개됐다. 이 사건은 지난 3월 검찰 구형까지 이뤄지며 마무리 단계에 들어갔던 재판이었으나, 피해자 측 입장이 바뀌면서 다시 변론이 열렸다. 핵심 변화는 피해자가 피고인에 대한 처벌을 원한다는 의사를 밝힌 점이다. 재판부는 재개된 변론 절차에서 변경된 피해자 측 입장을 반영해 사건을 다시 살필 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trial Resumes in Thai Wife Scalding Case as Victim Seeks Punishment",
-        "excerpt": "A trial over a Thai wife’s severe facial burns resumed at Uijeongbu District Court on May 7 after the victim’s side changed its position following March sentencing arguments.",
-        "body": "The trial over a case in which a husband allegedly poured boiling water on his Thai wife, causing severe burns to her face, resumed on May 7 at Uijeongbu District Court before Judge Kim Jun-young of Criminal Division 12. The case had appeared to be nearing conclusion after prosecutors made their sentencing request in March. However, arguments were reopened after the victim’s side changed its position. The key change is that the victim has expressed a desire for the defendant to be punished. The court is expected to review the case again through the resumed proceedings while reflecting the victim’s revised stance. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "タイ人妻の顔に熱湯、重いやけど事件の裁判再開…被害者が処罰希望",
-        "excerpt": "3月に検察の求刑まで進んでいたタイ人妻の顔面重傷やけど事件の裁判が、被害者側の立場変更を受け、5月7日に議政府地裁で再開された。",
-        "body": "タイ人の妻に熱湯をかけ、顔に重いやけどを負わせた事件の裁判弁論が5月7日、議政府地裁刑事12単独のキム・ジュンヨン判事の審理で再開された。この事件は3月に検察の求刑まで行われ、裁判が終結段階に入っていた。しかし、被害者側の立場が変わったことで弁論が再び開かれた。主な変化は、被害者が被告人への処罰を望む意思を示した点だ。裁判所は再開された弁論手続きで、変更された被害者側の立場を反映し、事件を改めて審理する見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "泰国籍妻子遭泼开水致脸部重伤案重启审理，受害者要求处罚",
-        "excerpt": "今年3月已进行至检方求刑阶段的泰国籍妻子脸部重度烫伤案，因受害方立场改变，5月7日在议政府地方法院恢复辩论。",
-        "body": "一名丈夫涉嫌向泰国籍妻子泼洒开水，导致其脸部严重烫伤的案件，5月7日在议政府地方法院刑事12单独审判庭由金俊英法官主持恢复辩论。该案此前已在3月进行到检方求刑阶段，原本接近审理结束。然而，随着受害方立场发生变化，法院重新开启辩论程序。核心变化在于，受害者表示希望对被告进行处罚。法院预计将在恢复的辩论程序中反映受害方变更后的意见，并重新审视案件。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Se reanuda juicio por quemaduras a esposa tailandesa; víctima pide castigo",
-        "excerpt": "El juicio por las graves quemaduras faciales sufridas por una esposa tailandesa se reanudó el 7 de mayo en Uijeongbu tras cambiar la postura de la víctima.",
-        "body": "El juicio por un caso en el que un esposo habría vertido agua hirviendo sobre su esposa tailandesa, causándole graves quemaduras en el rostro, se reanudó el 7 de mayo en el Tribunal de Distrito de Uijeongbu, ante el juez Kim Jun-young de la Sala Penal unipersonal 12. El proceso parecía estar en su etapa final después de que la fiscalía formulara su petición de pena en marzo. Sin embargo, la vista se reabrió tras un cambio en la postura de la parte de la víctima. El punto clave es que la víctima expresó que desea el castigo del acusado. El tribunal revisará nuevamente el caso reflejando esa posición modificada. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Julgamento por queimaduras em esposa tailandesa é retomado; vítima quer punição",
-        "excerpt": "O caso das queimaduras graves no rosto de uma esposa tailandesa voltou ao tribunal em 7 de maio, após mudança de posição da vítima depois do pedido da promotoria em março.",
-        "body": "O julgamento do caso em que um marido teria jogado água fervente sobre sua esposa tailandesa, causando queimaduras graves em seu rosto, foi retomado em 7 de maio no Tribunal Distrital de Uijeongbu, sob condução do juiz Kim Jun-young, da 12ª Vara Criminal unipessoal. O processo parecia perto do fim depois que a promotoria apresentou seu pedido de pena em março. No entanto, os argumentos foram reabertos após uma mudança na posição da parte da vítima. A principal alteração é que a vítima declarou querer a punição do réu. O tribunal deve reexaminar o caso no procedimento retomado, refletindo essa nova posição. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Prozess um Verbrühungen thailändischer Ehefrau neu eröffnet: Opfer will Strafe",
-        "excerpt": "Der Prozess um schwere Gesichtsverbrennungen einer thailändischen Ehefrau wurde am 7. Mai am Bezirksgericht Uijeongbu nach geänderter Haltung der Opferseite wiederaufgenommen.",
-        "body": "Der Prozess in dem Fall, in dem ein Ehemann seiner thailändischen Ehefrau kochendes Wasser übergegossen und ihr schwere Verbrennungen im Gesicht zugefügt haben soll, wurde am 7. Mai am Bezirksgericht Uijeongbu vor Richter Kim Jun-young von der Strafabteilung 12 wiederaufgenommen. Das Verfahren hatte nach dem Strafantrag der Staatsanwaltschaft im März bereits kurz vor dem Abschluss gestanden. Wegen einer geänderten Haltung der Opferseite wurde die Verhandlung jedoch erneut eröffnet. Entscheidend ist, dass das Opfer nun die Bestrafung des Angeklagten wünscht. Das Gericht dürfte den Fall unter Berücksichtigung dieser geänderten Position erneut prüfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Procès relancé pour brûlures infligées à une épouse thaïlandaise; la victime veut une peine",
-        "excerpt": "Le procès concernant les graves brûlures au visage d’une épouse thaïlandaise a repris le 7 mai au tribunal d’Uijeongbu après un changement de position de la victime.",
-        "body": "Le procès d’un homme accusé d’avoir versé de l’eau bouillante sur son épouse thaïlandaise, lui causant de graves brûlures au visage, a repris le 7 mai devant le tribunal de district d’Uijeongbu, sous la présidence du juge Kim Jun-young de la 12e chambre pénale à juge unique. L’affaire semblait proche de son terme après les réquisitions du parquet en mars. Toutefois, les débats ont été rouverts après un changement de position du côté de la victime. Le point central est que la victime a indiqué souhaiter que l’accusé soit puni. Le tribunal devrait réexaminer l’affaire en tenant compte de cette position modifiée. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "استئناف محاكمة زوج سكب ماء مغليا على زوجته التايلاندية والضحية تطلب معاقبته",
-        "excerpt": "استؤنفت في 7 مايو بمحكمة أويجونغبو قضية إصابة زوجة تايلاندية بحروق شديدة في الوجه، بعد تغيير موقف الضحية رغم وصول المحاكمة لطلب النيابة العقوبة في مارس.",
-        "body": "استؤنفت في 7 مايو مرافعات قضية زوج متهم بسكب ماء مغلي على زوجته التايلاندية، ما تسبب لها بحروق شديدة في الوجه، أمام القاضي كيم جون يونغ في الدائرة الجنائية المنفردة رقم 12 بمحكمة أويجونغبو. وكانت القضية قد وصلت في مارس إلى مرحلة طلب النيابة للعقوبة، وبدا أنها تقترب من نهايتها. لكن المرافعات فُتحت من جديد بعد تغيير موقف جانب الضحية. ويتمثل التغيير الأساسي في أن الضحية أعلنت رغبتها في معاقبة المتهم. ومن المتوقع أن تعيد المحكمة النظر في القضية ضمن الإجراءات المستأنفة مع أخذ موقف الضحية المعدل في الاعتبار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "थाई पत्नी पर खौलता पानी डालने का मुकदमा फिर शुरू, पीड़िता ने सजा चाही",
-        "excerpt": "थाई पत्नी के चेहरे पर गंभीर जलन के मामले की सुनवाई 7 मई को उइजोंगबू जिला अदालत में फिर शुरू हुई, क्योंकि मार्च में अभियोजन की मांग के बाद पीड़िता का रुख बदला।",
-        "body": "थाई पत्नी पर खौलता पानी डालकर उसके चेहरे पर गंभीर जलन पहुंचाने के मामले में मुकदमे की दलीलें 7 मई को उइजोंगबू जिला अदालत की आपराधिक एकल पीठ 12 में न्यायाधीश किम जून-यंग के समक्ष फिर शुरू हुईं। यह मामला मार्च में अभियोजन पक्ष की सजा संबंधी मांग तक पहुंच चुका था और सुनवाई समाप्ति के चरण में मानी जा रही थी। हालांकि, पीड़िता पक्ष के रुख में बदलाव के बाद दलीलें दोबारा खोली गईं। मुख्य बदलाव यह है कि पीड़िता ने आरोपी को दंडित किए जाने की इच्छा जताई है। अदालत अब पुनः शुरू हुई प्रक्रिया में बदले हुए रुख को ध्यान में रखते हुए मामले की फिर समीक्षा कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Sidang Suami Siram Istri Thailand dengan Air Mendidih Dibuka Lagi, Korban Ingin Hukuman",
-        "excerpt": "Sidang kasus luka bakar berat di wajah istri asal Thailand kembali digelar pada 7 Mei di Pengadilan Distrik Uijeongbu setelah pihak korban mengubah sikap.",
-        "body": "Sidang kasus seorang suami yang diduga menyiram istrinya asal Thailand dengan air mendidih hingga menyebabkan luka bakar berat di wajah kembali dibuka pada 7 Mei di Pengadilan Distrik Uijeongbu, dipimpin Hakim Kim Jun-young dari Pengadilan Pidana tunggal 12. Perkara ini sebelumnya sudah memasuki tahap akhir setelah jaksa menyampaikan tuntutan pada Maret. Namun, persidangan dilanjutkan kembali karena pihak korban mengubah sikap. Perubahan utamanya adalah korban menyatakan ingin terdakwa dihukum. Majelis diperkirakan akan meninjau kembali perkara ini dalam proses yang dibuka lagi dengan mempertimbangkan sikap terbaru korban. Sumber: mk.co.kr"
       }
     }
   }
