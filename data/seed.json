@@ -1,5 +1,230 @@
 [
   {
+    "id": "bab0f0c40a4b",
+    "slug": "시장선-이미-전쟁-끝-랠리-스타트글로벌-주식채권-강세-유가-100달러-아래로-828251",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T00:12:46.222Z",
+    "updatedAt": "2026-05-07T00:12:46.222Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12038762",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12038762",
+    "titleFingerprint": "59cdd2a269787b1783deacd953baba365781fa9f",
+    "dedupKeys": [
+      "bab0f0c40a4b0501848453d12dbf1666932aa4a6",
+      "59cdd2a269787b1783deacd953baba365781fa9f",
+      "483bbd017087834c8e51c0684cd8527cfe62f10a"
+    ],
+    "imageUrl": "/images/articles/bab0f0c40a4b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "종전 기대에 글로벌 증시 안도 랠리…S&P500·나스닥 최고치",
+        "excerpt": "미국과 이란 간 종전 협상 타결 기대가 커지며 글로벌 주식과 채권이 강세를 보이고 유가는 100달러 아래로 내려 금융시장이 안도 랠리에 들어섰다.",
+        "body": "미국과 이란 간 종전 협상 타결 기대감이 커지면서 글로벌 금융시장이 일제히 안도 랠리를 보였다. 미국 S&P500과 나스닥은 최고치를 경신했고, 유럽 증시도 일제히 상승세로 전환했다. 전쟁 관련 불확실성이 완화될 수 있다는 기대가 위험자산 선호를 되살린 흐름이다. 동시에 인플레이션 우려가 덜해지며 채권 금리는 하락했다. 유가는 100달러 아래로 내려 에너지 가격 부담이 완화될 가능성을 시사했다. 시장에서는 이미 전쟁 종료를 가격에 반영하며 랠리가 시작됐다는 평가가 나온다. 다만 실제 협상 결과와 후속 상황에 따라 금융시장 흐름은 달라질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Ceasefire Hopes Spark Global Market Rally as S&P 500, Nasdaq Hit Records",
+        "excerpt": "Expectations of a U.S.-Iran ceasefire deal lifted global stocks and bonds, pushed oil below $100, and triggered a broad relief rally across financial markets.",
+        "body": "Global financial markets staged a broad relief rally as expectations grew that the United States and Iran could reach a deal to end the conflict. The U.S. S&P 500 and Nasdaq set new highs, while European stock markets also turned higher across the board. The move reflected renewed appetite for risk assets as investors saw a possible easing of war-related uncertainty. Bond yields fell at the same time as inflation concerns eased. Oil dropped below $100, pointing to a possible reduction in pressure from energy prices. Market participants said prices were already reflecting an end to the war and the start of a rally. Still, future moves may depend on the actual negotiation outcome and follow-up developments. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "終戦期待で世界市場に安心感、S&P500とナスダック最高値",
+        "excerpt": "米国とイランの終戦交渉妥結への期待が高まり、世界の株式と債券が上昇、原油は100ドルを下回り金融市場は安心ラリーに入った。",
+        "body": "米国とイランの終戦交渉がまとまるとの期待が高まり、世界の金融市場は一斉に安心感からのラリーを見せた。米国のS&P500とナスダックは最高値を更新し、欧州株式市場もそろって上昇に転じた。戦争に関する不確実性が和らぐ可能性が意識され、リスク資産への選好が戻った流れだ。同時にインフレ懸念が後退し、債券利回りは低下した。原油価格は100ドルを下回り、エネルギー価格負担が和らぐ可能性を示した。市場では、すでに戦争終結を織り込みラリーが始まったとの見方が出ている。ただし実際の交渉結果やその後の状況によって、市場の流れは変わり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "停战预期带动全球市场反弹，S&P500与纳指创新高",
+        "excerpt": "美国与伊朗停战谈判达成协议的预期升温，推动全球股票和债券走强，油价跌破100美元，金融市场出现普遍安心反弹。",
+        "body": "随着美国与伊朗停战谈判可能达成协议的预期升温，全球金融市场同步出现安心反弹。美国S&P500指数和纳斯达克指数刷新高点，欧洲股市也全面转为上涨。投资者认为战争相关不确定性可能缓和，风险资产偏好因此恢复。与此同时，通胀担忧减轻，债券收益率下行。油价跌破100美元，显示能源价格压力可能有所缓解。市场观点认为，价格已经在反映战争结束的情景，反弹行情由此启动。不过，实际谈判结果以及后续局势仍可能影响金融市场走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Expectativa de fin del conflicto impulsa bolsas globales y baja el petróleo",
+        "excerpt": "La expectativa de un acuerdo entre Estados Unidos e Irán para poner fin al conflicto fortaleció acciones y bonos globales, mientras el petróleo cayó por debajo de 100 dólares.",
+        "body": "Los mercados financieros globales registraron un amplio repunte de alivio ante la creciente expectativa de que Estados Unidos e Irán alcancen un acuerdo para poner fin al conflicto. El S&P 500 y el Nasdaq de Estados Unidos marcaron nuevos máximos, mientras las bolsas europeas también giraron al alza de forma generalizada. El movimiento reflejó el regreso del apetito por activos de riesgo al disminuir la posible incertidumbre vinculada a la guerra. Al mismo tiempo, los rendimientos de los bonos bajaron al moderarse las preocupaciones por la inflación. El petróleo cayó por debajo de 100 dólares, lo que apunta a una posible reducción de la presión de los precios energéticos. En el mercado se señala que los precios ya incorporan el fin de la guerra y el inicio del rally. Aun así, la evolución dependerá del resultado real de las negociaciones y de los acontecimientos posteriores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Expectativa de cessar-fogo impulsiona mercados globais e derruba petróleo",
+        "excerpt": "A expectativa de um acordo entre Estados Unidos e Irã para encerrar o conflito fortaleceu ações e títulos globais, enquanto o petróleo caiu abaixo de US$ 100.",
+        "body": "Os mercados financeiros globais tiveram um amplo rali de alívio com o aumento da expectativa de que Estados Unidos e Irã cheguem a um acordo para encerrar o conflito. O S&P 500 e o Nasdaq, nos Estados Unidos, renovaram máximas, enquanto as bolsas europeias também passaram a subir de forma generalizada. O movimento refletiu a retomada do apetite por ativos de risco diante da possibilidade de redução das incertezas ligadas à guerra. Ao mesmo tempo, os rendimentos dos títulos recuaram com a diminuição das preocupações inflacionárias. O petróleo caiu abaixo de US$ 100, indicando possível alívio na pressão dos preços de energia. No mercado, há avaliação de que os preços já incorporam o fim da guerra e o início do rali. Ainda assim, o rumo dependerá do resultado efetivo das negociações e dos desdobramentos posteriores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hoffnung auf Kriegsende treibt globale Märkte, Öl fällt unter 100 Dollar",
+        "excerpt": "Die Hoffnung auf eine Einigung zwischen den USA und Iran stärkte weltweit Aktien und Anleihen, während Öl unter 100 Dollar fiel und eine Erleichterungsrally auslöste.",
+        "body": "Die globalen Finanzmärkte legten breit zu, nachdem die Hoffnung wuchs, dass die USA und Iran eine Einigung zur Beendigung des Konflikts erzielen könnten. Der S&P 500 und der Nasdaq in den USA erreichten neue Höchststände, und auch die europäischen Aktienmärkte drehten geschlossen ins Plus. Die Bewegung zeigte eine Rückkehr der Risikobereitschaft, weil Anleger mit einer möglichen Entspannung der kriegsbedingten Unsicherheit rechneten. Gleichzeitig sanken die Anleiherenditen, da die Inflationssorgen nachließen. Der Ölpreis fiel unter 100 Dollar und deutete damit auf eine mögliche Entlastung bei den Energiepreisen hin. Am Markt heißt es, das Ende des Krieges sei bereits eingepreist und die Rally habe begonnen. Der weitere Verlauf kann jedoch vom tatsächlichen Verhandlungsergebnis und den folgenden Entwicklungen abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Espoir de fin du conflit: les marchés mondiaux montent, le pétrole recule",
+        "excerpt": "L’espoir d’un accord entre les États-Unis et l’Iran pour mettre fin au conflit a soutenu les actions et obligations mondiales, tandis que le pétrole est passé sous 100 dollars.",
+        "body": "Les marchés financiers mondiaux ont connu un large rally de soulagement alors que l’espoir grandissait de voir les États-Unis et l’Iran conclure un accord mettant fin au conflit. Aux États-Unis, le S&P 500 et le Nasdaq ont atteint de nouveaux records, tandis que les Bourses européennes sont également repassées en hausse. Ce mouvement traduit le retour de l’appétit pour les actifs risqués, les investisseurs anticipant une possible baisse de l’incertitude liée à la guerre. Dans le même temps, les rendements obligataires ont reculé avec l’apaisement des craintes d’inflation. Le pétrole est passé sous 100 dollars, suggérant un possible allègement de la pression sur les prix de l’énergie. Selon le marché, les cours intègrent déjà la fin de la guerre et le début du rally. L’évolution dépendra toutefois du résultat réel des négociations et des développements qui suivront. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "آمال إنهاء الحرب تدفع الأسواق العالمية للصعود والنفط دون 100 دولار",
+        "excerpt": "تزايدت توقعات التوصل إلى اتفاق بين الولايات المتحدة وإيران لإنهاء الحرب، فارتفعت الأسهم والسندات العالمية وتراجع النفط إلى ما دون 100 دولار.",
+        "body": "شهدت الأسواق المالية العالمية موجة صعود واسعة مع تزايد التوقعات بإمكان توصل الولايات المتحدة وإيران إلى اتفاق ينهي الحرب. وسجل مؤشرا S&P500 وناسداك في الولايات المتحدة مستويات قياسية جديدة، كما تحولت أسواق الأسهم الأوروبية إلى الارتفاع بشكل جماعي. ويعكس هذا التحرك عودة الإقبال على الأصول عالية المخاطر مع احتمال تراجع حالة عدم اليقين المرتبطة بالحرب. وفي الوقت نفسه، انخفضت عوائد السندات مع تراجع مخاوف التضخم. وهبط النفط إلى ما دون 100 دولار، ما يشير إلى احتمال تخفيف ضغوط أسعار الطاقة. ويرى متعاملون أن السوق باتت تسعر بالفعل نهاية الحرب وبداية موجة صعود. ومع ذلك، قد يتغير اتجاه الأسواق تبعا لنتيجة المفاوضات الفعلية والتطورات اللاحقة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "युद्ध समाप्ति की उम्मीद से वैश्विक बाजारों में तेजी, तेल 100 डॉलर से नीचे",
+        "excerpt": "अमेरिका और ईरान के बीच युद्ध समाप्ति समझौते की उम्मीद बढ़ने से वैश्विक शेयर और बॉन्ड मजबूत हुए, जबकि तेल 100 डॉलर से नीचे आ गया।",
+        "body": "अमेरिका और ईरान के बीच युद्ध समाप्ति पर समझौता होने की उम्मीद बढ़ने के साथ वैश्विक वित्तीय बाजारों में व्यापक राहत रैली देखी गई। अमेरिका के S&P500 और Nasdaq ने नए उच्च स्तर बनाए, जबकि यूरोपीय शेयर बाजार भी सामूहिक रूप से बढ़त में लौटे। युद्ध से जुड़ी अनिश्चितता कम होने की संभावना ने जोखिम वाली परिसंपत्तियों में रुचि फिर बढ़ाई। इसी दौरान महंगाई को लेकर चिंता घटने से बॉन्ड यील्ड नीचे आई। तेल 100 डॉलर से नीचे चला गया, जिससे ऊर्जा कीमतों का दबाव कम होने की संभावना दिखी। बाजार में यह आकलन है कि कीमतें पहले ही युद्ध समाप्ति को शामिल कर रही हैं और रैली शुरू हो चुकी है। फिर भी वास्तविक वार्ता परिणाम और आगे की स्थिति बाजार की दिशा बदल सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Harapan Perang Berakhir Dorong Reli Pasar Global, Minyak di Bawah $100",
+        "excerpt": "Ekspektasi tercapainya kesepakatan AS-Iran untuk mengakhiri perang menguatkan saham dan obligasi global, sementara minyak turun ke bawah $100.",
+        "body": "Pasar keuangan global mencatat reli lega secara serentak seiring meningkatnya harapan bahwa Amerika Serikat dan Iran dapat mencapai kesepakatan untuk mengakhiri perang. Indeks S&P500 dan Nasdaq di AS mencetak rekor tertinggi, sementara bursa Eropa juga berbalik naik secara luas. Pergerakan ini menunjukkan kembalinya minat pada aset berisiko karena ketidakpastian terkait perang dinilai berpotensi mereda. Pada saat yang sama, imbal hasil obligasi turun karena kekhawatiran inflasi berkurang. Harga minyak turun ke bawah $100, mengindikasikan kemungkinan meredanya tekanan harga energi. Pelaku pasar menilai harga sudah mencerminkan berakhirnya perang dan dimulainya reli. Namun, arah pasar masih dapat berubah bergantung pada hasil negosiasi sebenarnya dan perkembangan berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "406c2114f02d",
+    "slug": "속보-7000피-코스피-장중-최고치-또-경신7500-돌파-339449",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T00:11:45.468Z",
+    "updatedAt": "2026-05-07T00:11:45.468Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12038771",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038771",
+    "titleFingerprint": "2ca975d4d21416bab1ff3d1eff095a113cc97990",
+    "dedupKeys": [
+      "406c2114f02d13f12cca74bc0cdb03913134fb5f",
+      "2ca975d4d21416bab1ff3d1eff095a113cc97990",
+      "3bd4f1782cb84e0a89a52cf40c8fd0fda7bbb33b"
+    ],
+    "imageUrl": "/images/articles/406c2114f02d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7500 돌파, 장중 최고치 재경신…미·이란 협상 기대감 영향",
+        "excerpt": "코스피가 7일 미국과 이란의 종전 협상 기대감 등에 힘입어 상승 출발하며 장중 최고치를 다시 경신했고, 오전 9시 6분 전일 대비 41.83포인트 올랐다.",
+        "body": "코스피가 7일 장 초반 상승세로 출발하며 장중 최고치를 다시 경신했다. mk.co.kr에 따르면 이날 오전 9시 6분 현재 코스피는 전일 대비 41.83포인트, 0.57% 오른 흐름을 보였다. 전날에 이어 미국과 이란의 종전 협상 기대감 등이 투자심리에 영향을 준 것으로 전해졌다. 원문 제목은 ‘7000피’ 코스피가 장중 최고치를 또 경신하고 7500선을 돌파했다고 전했다. 시장은 관련 협상 기대와 지수 흐름이 이어질지 주목하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Tops 7,500, Hits Fresh Intraday High on U.S.-Iran Talks Hopes",
+        "excerpt": "The KOSPI opened higher on May 7, lifted by expectations for U.S.-Iran end-of-war talks, and was up 41.83 points, or 0.57%, at 9:06 a.m.",
+        "body": "The KOSPI started higher on May 7 and renewed its intraday record, according to mk.co.kr. As of 9:06 a.m., the index was up 41.83 points, or 0.57%, from the previous session. The move followed the prior day’s gains and was supported by expectations surrounding possible U.S.-Iran end-of-war negotiations. The original report said the “7,000-point” KOSPI again hit an intraday high and surpassed the 7,500 level. Investors are watching whether the negotiation-related sentiment and index momentum continue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが7500突破、取引時間中最高値を再更新…米・イラン交渉期待",
+        "excerpt": "KOSPIは7日、米国とイランの終戦交渉への期待などを背景に上昇して始まり、午前9時6分時点で前日比41.83ポイント高となった。",
+        "body": "KOSPIは7日序盤に上昇して始まり、取引時間中の最高値を再び更新した。mk.co.krによると、同日午前9時6分現在、KOSPIは前日比41.83ポイント、0.57%高で推移した。前日に続き、米国とイランの終戦交渉への期待などが投資心理に影響したと伝えられた。原文の見出しは、「7000ピ」のKOSPIが取引時間中最高値を再更新し、7500を突破したと報じた。市場は交渉期待と指数の流れが続くかに注目している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI突破7500点，盘中高点再刷新，受美伊谈判期待提振",
+        "excerpt": "KOSPI于7日受美国与伊朗结束战争谈判期待等因素推动高开，并在上午9时06分较前一交易日上涨41.83点，涨幅0.57%。",
+        "body": "KOSPI在7日早盘上涨开局，并再次刷新盘中最高纪录。据mk.co.kr报道，截至当天上午9时06分，KOSPI较前一交易日上涨41.83点，涨幅为0.57%。继前一日之后，美国与伊朗结束战争谈判的期待等因素被认为影响了投资情绪。原文标题称，“7000点”KOSPI再次刷新盘中最高点，并突破7500点。市场正关注相关谈判期待和指数走势能否延续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI supera los 7.500 y renueva máximo intradía por expectativa EE.UU.-Irán",
+        "excerpt": "El KOSPI abrió al alza el 7 de mayo impulsado por expectativas de negociaciones de fin de guerra entre EE.UU. e Irán; a las 9:06 subía 41,83 puntos, un 0,57%.",
+        "body": "El KOSPI comenzó la sesión del 7 de mayo con avances y volvió a renovar su máximo intradía, según mk.co.kr. A las 9:06 a.m., el índice subía 41,83 puntos, o 0,57%, frente al cierre anterior. El movimiento siguió a las ganancias de la víspera y estuvo apoyado por expectativas sobre negociaciones de fin de guerra entre Estados Unidos e Irán. El título original señaló que el KOSPI de “7.000 puntos” volvió a marcar un máximo intradía y superó los 7.500. El mercado observa si continuará ese impulso. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI supera 7.500 e renova máxima intradiária com expectativa EUA-Irã",
+        "excerpt": "O KOSPI abriu em alta em 7 de maio, apoiado por expectativas de negociações de fim de guerra entre EUA e Irã; às 9h06, subia 41,83 pontos, ou 0,57%.",
+        "body": "O KOSPI iniciou a sessão de 7 de maio em alta e voltou a renovar sua máxima intradiária, segundo mk.co.kr. Às 9h06, o índice avançava 41,83 pontos, ou 0,57%, em relação ao dia anterior. O movimento veio após a alta da véspera e foi sustentado por expectativas sobre negociações de fim de guerra entre Estados Unidos e Irã. O título original informou que o KOSPI de “7.000 pontos” voltou a atingir máxima intradiária e superou os 7.500. O mercado acompanha se o sentimento e o fluxo do índice continuarão. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI über 7.500, neues Intraday-Hoch durch Hoffnung auf US-Iran-Gespräche",
+        "excerpt": "Der KOSPI startete am 7. Mai höher, gestützt von Erwartungen an Gespräche zwischen den USA und Iran; um 9:06 Uhr lag er 41,83 Punkte oder 0,57% im Plus.",
+        "body": "Der KOSPI startete am 7. Mai mit Gewinnen und erreichte erneut ein Intraday-Rekordhoch, berichtet mk.co.kr. Um 9:06 Uhr lag der Index 41,83 Punkte beziehungsweise 0,57% über dem Vortag. Die Bewegung folgte auf die Gewinne des Vortags und wurde durch Erwartungen an mögliche Gespräche zur Beendigung des Kriegs zwischen den USA und Iran unterstützt. Die Originalüberschrift meldete, der “7.000-Punkte”-KOSPI habe erneut ein Intraday-Hoch erreicht und die Marke von 7.500 überschritten. Der Markt beobachtet, ob diese Stimmung anhält. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI franchit 7 500 et bat un record intrajournalier avec l’espoir USA-Iran",
+        "excerpt": "Le KOSPI a ouvert en hausse le 7 mai, porté par l’espoir de négociations de fin de guerre entre les États-Unis et l’Iran; à 9h06, il gagnait 41,83 points, soit 0,57%.",
+        "body": "Le KOSPI a commencé la séance du 7 mai en hausse et a de nouveau inscrit un record intrajournalier, selon mk.co.kr. À 9h06, l’indice progressait de 41,83 points, soit 0,57%, par rapport à la veille. Le mouvement a prolongé les gains de la séance précédente et a été soutenu par les attentes autour de possibles négociations de fin de guerre entre les États-Unis et l’Iran. Le titre original indiquait que le KOSPI de “7 000 points” avait encore battu un record intrajournalier et franchi 7 500. Le marché surveille la suite de cette dynamique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 7500 ويسجل قمة جديدة خلال الجلسة بدعم آمال محادثات أميركا وإيران",
+        "excerpt": "افتتح مؤشر كوسبي تعاملات 7 مايو على ارتفاع بدعم توقعات محادثات إنهاء الحرب بين الولايات المتحدة وإيران، وارتفع عند 9:06 صباحا بمقدار 41.83 نقطة أو 0.57%.",
+        "body": "بدأ مؤشر كوسبي تعاملات 7 مايو على ارتفاع وجدد أعلى مستوى له خلال الجلسة، بحسب mk.co.kr. وفي الساعة 9:06 صباحا، كان المؤشر مرتفعا 41.83 نقطة، أو 0.57%، مقارنة بالجلسة السابقة. وجاءت الحركة امتدادا لمكاسب اليوم السابق، مدعومة بتوقعات بشأن مفاوضات محتملة لإنهاء الحرب بين الولايات المتحدة وإيران. وذكر العنوان الأصلي أن كوسبي عند “7000 نقطة” سجل مجددا أعلى مستوى خلال الجلسة وتجاوز مستوى 7500. ويراقب السوق ما إذا كانت هذه التوقعات وزخم المؤشر سيستمران. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 7,500 के पार, अमेरिकी-ईरान वार्ता उम्मीद से नया इंट्राडे उच्च स्तर",
+        "excerpt": "KOSPI ने 7 मई को अमेरिका और ईरान के युद्ध समाप्ति वार्ता की उम्मीदों के बीच बढ़त के साथ शुरुआत की और सुबह 9:06 बजे 41.83 अंक, यानी 0.57%, ऊपर था।",
+        "body": "KOSPI ने 7 मई को शुरुआती कारोबार में बढ़त के साथ शुरुआत की और फिर से नया इंट्राडे उच्च स्तर बनाया, mk.co.kr के अनुसार। सुबह 9:06 बजे सूचकांक पिछले सत्र से 41.83 अंक, यानी 0.57%, ऊपर था। यह चाल पिछले दिन की तेजी के बाद आई और अमेरिका तथा ईरान के बीच युद्ध समाप्ति वार्ता की उम्मीदों से निवेश धारणा को समर्थन मिला। मूल शीर्षक में कहा गया कि “7,000-पॉइंट” KOSPI ने फिर इंट्राडे उच्च स्तर बनाया और 7,500 को पार किया। बाजार देख रहा है कि यह धारणा और सूचकांक की गति जारी रहती है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Tembus 7.500, Cetak Rekor Intraday Lagi Berkat Harapan AS-Iran",
+        "excerpt": "KOSPI dibuka menguat pada 7 Mei karena harapan negosiasi akhir perang antara AS dan Iran; pada pukul 09.06 indeks naik 41,83 poin atau 0,57%.",
+        "body": "KOSPI memulai perdagangan 7 Mei dengan penguatan dan kembali mencetak rekor tertinggi intraday, menurut mk.co.kr. Pada pukul 09.06, indeks naik 41,83 poin, atau 0,57%, dibanding sesi sebelumnya. Kenaikan ini melanjutkan pergerakan hari sebelumnya dan didukung harapan terkait kemungkinan negosiasi akhir perang antara Amerika Serikat dan Iran. Judul asli menyebut KOSPI “7.000 poin” kembali memperbarui rekor intraday dan menembus level 7.500. Pasar mencermati apakah sentimen tersebut dan laju indeks akan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5bb44ba3ae18",
+    "slug": "어차피-죽을-거-누군가-데려-가려고여고생-살해범-이틀전부터-흉기-들고-다녀-627611",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T00:10:45.453Z",
+    "updatedAt": "2026-05-07T00:10:45.454Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12038772",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12038772",
+    "titleFingerprint": "8a05c0d219592a878c71e8ba56d3f741e0349fca",
+    "dedupKeys": [
+      "5bb44ba3ae18b9ea6083a61cc8a84ff797536400",
+      "8a05c0d219592a878c71e8ba56d3f741e0349fca",
+      "a89df80b5b5a24038ba7ee7ed5471b09eb643ca3"
+    ],
+    "imageUrl": "/images/articles/5bb44ba3ae18.jpg",
+    "i18n": {
+      "ko": {
+        "title": "광주 여고생 살해범, 이틀 전부터 흉기 소지…“누군가 데려가려 했다”",
+        "excerpt": "광주 도심에서 일면식 없는 고교생들에게 흉기를 휘두른 24세 장모씨가 불특정 행인을 범행 대상으로 삼았다고 자백했으며 오늘 구속영장 실질심사를 받는다.",
+        "body": "광주 도심에서 일면식 없는 고교생들에게 흉기를 휘두른 장모(24)씨가 범행 동기에 대해 “어차피 죽을 거 누군가 데리고 가려고 했다”고 진술한 것으로 전해졌다. 장씨는 사건 이틀 전부터 흉기를 들고 다닌 것으로 알려졌으며, 불특정 행인을 범행 대상으로 삼았다고 자백했다. 경찰은 장씨의 진술과 흉기 소지 경위 등을 토대로 정확한 사건 경위를 조사하고 있다. 장씨는 오늘 구속영장 실질심사를 받을 예정이다. 이번 사건은 도심에서 모르는 학생들을 상대로 벌어진 범행이라는 점에서 지역사회에 큰 충격을 주고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Gwangju High School Girl Killing Suspect Carried Weapon for Two Days, Police Say",
+        "excerpt": "A 24-year-old man accused of attacking high school students he did not know in downtown Gwangju admitted targeting random passersby and faces a warrant hearing today.",
+        "body": "A 24-year-old man surnamed Jang, accused of wielding a weapon against high school students he did not know in downtown Gwangju, reportedly told investigators, “Since I was going to die anyway, I wanted to take someone with me.” Jang is said to have carried the weapon for two days before the incident and admitted that random passersby were his intended targets. Police are investigating the exact circumstances based on his statements and how he came to possess the weapon. Jang is scheduled to undergo a substantive review of an arrest warrant today. The case has shocked the local community because it targeted students unknown to the suspect in an urban area. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "光州女子高生殺害容疑者、2日前から凶器所持「誰かを連れて行こうと」",
+        "excerpt": "光州中心部で面識のない高校生に凶器を振るった24歳のチャン容疑者が、不特定の通行人を犯行対象にしたと認め、本日逮捕状審査を受ける。",
+        "body": "光州の中心部で面識のない高校生らに凶器を振るったチャン容疑者（24）が、犯行動機について「どうせ死ぬなら誰かを連れて行こうと思った」と供述したと伝えられた。チャン容疑者は事件の2日前から凶器を持ち歩いていたとされ、不特定の通行人を犯行対象にしたことを認めた。警察は供述内容や凶器所持の経緯などを基に、詳しい事件の経緯を調べている。チャン容疑者は本日、逮捕状の実質審査を受ける予定だ。都市部で見知らぬ生徒を狙った事件として、地域社会に大きな衝撃を与えている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "光州女高中生遇害案嫌疑人两天前带刀，称“想带走一个人”",
+        "excerpt": "在光州市中心持凶器袭击素不相识高中生的24岁张某承认以不特定路人为作案目标，并将于今天接受逮捕令实质审查。",
+        "body": "据报道，在光州市中心向素不相识的高中生挥舞凶器的24岁张某，就作案动机供称：“反正都要死，想带一个人一起走。”张某据称从案发两天前开始随身携带凶器，并承认将不特定路人作为作案目标。警方正根据张某的供述以及其持有凶器的经过等，调查案件的具体情况。张某预计今天接受逮捕令实质审查。此案因发生在市中心，且对象是与嫌疑人并不相识的学生，给当地社会带来巨大冲击。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Sospechoso de matar a estudiante en Gwangju llevaba arma desde dos días antes",
+        "excerpt": "Un hombre de 24 años acusado de atacar a estudiantes que no conocía en el centro de Gwangju admitió que buscaba víctimas al azar y afronta hoy audiencia de arresto.",
+        "body": "Un hombre de 24 años de apellido Jang, acusado de blandir un arma contra estudiantes de secundaria que no conocía en el centro de Gwangju, declaró presuntamente: “Como iba a morir de todos modos, quería llevarme a alguien conmigo”. Según se informó, Jang llevaba el arma desde dos días antes del incidente y admitió que tenía como objetivo a transeúntes no específicos. La policía investiga las circunstancias exactas del caso con base en sus declaraciones y en cómo obtuvo y portó el arma. Jang deberá comparecer hoy a la revisión sustantiva de una orden de arresto. El caso ha causado conmoción local por tratarse de un ataque contra estudiantes desconocidos en una zona urbana. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Suspeito de matar estudante em Gwangju levava arma havia dois dias",
+        "excerpt": "Um homem de 24 anos acusado de atacar estudantes que não conhecia no centro de Gwangju admitiu mirar transeuntes aleatórios e passa hoje por audiência de prisão.",
+        "body": "Um homem de 24 anos, de sobrenome Jang, acusado de atacar com uma arma estudantes do ensino médio que não conhecia no centro de Gwangju, teria declarado: “Como eu ia morrer de qualquer forma, queria levar alguém comigo”. Segundo as informações, Jang carregava a arma havia dois dias antes do incidente e admitiu que tinha como alvo transeuntes não específicos. A polícia investiga as circunstâncias exatas do caso com base em seu depoimento e na forma como ele passou a portar a arma. Jang deve passar hoje por uma análise judicial do pedido de mandado de prisão. O caso chocou a comunidade local por envolver estudantes desconhecidos em uma área urbana. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gwangju: Verdächtiger trug Waffe zwei Tage vor Angriff auf Schülerin bei sich",
+        "excerpt": "Ein 24-Jähriger, der in Gwangju unbekannte Oberschüler angegriffen haben soll, gestand laut Bericht wahllose Passanten als Ziel und hat heute Haftprüfung.",
+        "body": "Ein 24-jähriger Mann mit dem Nachnamen Jang, der im Zentrum von Gwangju ihm unbekannte Oberschüler mit einer Waffe angegriffen haben soll, erklärte Berichten zufolge: „Da ich ohnehin sterben würde, wollte ich jemanden mitnehmen.“ Jang soll die Waffe bereits zwei Tage vor dem Vorfall bei sich getragen und gestanden haben, wahllose Passanten als Ziel ausgewählt zu haben. Die Polizei untersucht anhand seiner Aussagen und der Umstände des Waffenbesitzes den genauen Tathergang. Jang soll heute zur inhaltlichen Prüfung eines Haftbefehls erscheinen. Der Fall erschüttert die lokale Gemeinschaft, weil unbekannte Schüler in einem Stadtzentrum angegriffen wurden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Gwangju : le suspect portait une arme depuis deux jours avant l’attaque",
+        "excerpt": "Un homme de 24 ans accusé d’avoir attaqué des lycéens inconnus au centre de Gwangju a admis viser des passants au hasard et doit comparaître aujourd’hui.",
+        "body": "Un homme de 24 ans nommé Jang, accusé d’avoir brandi une arme contre des lycéens qu’il ne connaissait pas dans le centre de Gwangju, aurait déclaré aux enquêteurs : « Puisque j’allais mourir de toute façon, je voulais emmener quelqu’un avec moi. » Jang aurait porté l’arme depuis deux jours avant les faits et admis avoir pris pour cible des passants non déterminés. La police enquête sur les circonstances exactes de l’affaire à partir de ses déclarations et des conditions dans lesquelles il détenait l’arme. Jang doit faire l’objet aujourd’hui d’un examen judiciaire du mandat d’arrêt. L’affaire choque la communauté locale car elle visait des élèves inconnus dans une zone urbaine. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "مشتبه به في قتل طالبة بغوانغجو حمل سلاحا قبل يومين وقال إنه أراد أخذ شخص معه",
+        "excerpt": "اعترف جانغ، البالغ 24 عاما والمتهم بمهاجمة طلاب لا يعرفهم في وسط غوانغجو، بأنه استهدف مارة عشوائيين، ومن المقرر أن يخضع اليوم لجلسة مراجعة مذكرة توقيف.",
+        "body": "أفادت تقارير بأن رجلا في الرابعة والعشرين من عمره يدعى جانغ، متهم بالتلويح بسلاح ضد طلاب مدرسة ثانوية لا يعرفهم في وسط غوانغجو، قال للمحققين: «بما أنني سأموت على أي حال، أردت أن آخذ شخصا معي». ويقال إن جانغ كان يحمل السلاح منذ يومين قبل الحادث، واعترف بأنه جعل مارة غير محددين هدفا للجريمة. وتحقق الشرطة في الملابسات الدقيقة استنادا إلى أقواله وظروف حمله للسلاح. ومن المقرر أن يخضع جانغ اليوم لمراجعة قضائية موضوعية لمذكرة توقيف. وأثارت القضية صدمة في المجتمع المحلي لأنها استهدفت طلابا لا يعرفهم المشتبه به في منطقة حضرية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ग्वांगजू छात्रा हत्या संदिग्ध दो दिन से हथियार लिए था, कहा किसी को साथ ले जाना था",
+        "excerpt": "ग्वांगजू शहर में अनजान हाई स्कूल छात्रों पर हथियार से हमला करने के आरोपी 24 वर्षीय जांग ने राहगीरों को निशाना बनाने की बात मानी और आज वारंट सुनवाई होगी।",
+        "body": "ग्वांगजू के शहरी क्षेत्र में उन हाई स्कूल छात्रों पर हथियार से हमला करने के आरोपी 24 वर्षीय जांग ने, जिन्हें वह नहीं जानता था, कथित तौर पर कहा, “वैसे भी मैं मरने वाला था, इसलिए किसी को साथ ले जाना चाहता था।” बताया गया है कि जांग घटना से दो दिन पहले से हथियार लेकर चल रहा था और उसने स्वीकार किया कि उसने अनिश्चित राहगीरों को अपराध का लक्ष्य बनाया था। पुलिस उसके बयान और हथियार रखने की परिस्थितियों के आधार पर घटना की सटीक जांच कर रही है। जांग को आज गिरफ्तारी वारंट की वास्तविक समीक्षा के लिए पेश किया जाना है। यह मामला स्थानीय समाज को इसलिए झकझोर रहा है क्योंकि शहर के बीच अनजान छात्रों को निशाना बनाया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Tersangka Pembunuhan Siswi di Gwangju Bawa Senjata Sejak Dua Hari Sebelumnya",
+        "excerpt": "Pria 24 tahun yang dituduh menyerang siswa SMA tak dikenal di pusat Gwangju mengaku menargetkan pejalan kaki acak dan hari ini menjalani sidang surat penahanan.",
+        "body": "Seorang pria 24 tahun bermarga Jang, yang dituduh mengayunkan senjata terhadap siswa SMA yang tidak dikenalnya di pusat kota Gwangju, dilaporkan menyatakan, “Karena saya toh akan mati, saya ingin membawa seseorang bersama saya.” Jang disebut telah membawa senjata itu sejak dua hari sebelum kejadian dan mengaku menjadikan pejalan kaki tak tertentu sebagai sasaran. Polisi menyelidiki kronologi pasti berdasarkan pernyataannya serta bagaimana ia membawa senjata tersebut. Jang dijadwalkan menjalani pemeriksaan substantif atas surat perintah penahanan hari ini. Kasus ini mengguncang masyarakat setempat karena menyasar siswa yang tidak dikenal pelaku di kawasan perkotaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "2cfe326218dc",
     "slug": "트럼프-이란-핵무기-포기-동의미국이-농축우라늄-확보할-것-138044",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Layanan perbaikan pakaian Kolon disorot setelah lubang berubah jadi bordir",
         "excerpt": "Layanan perbaikan pakaian Kolon Industries menjadi perhatian online setelah ulasan menunjukkan pakaian berlubang dikembalikan dengan desain bordir yang rapi.",
         "body": "Kolon Industries, perusahaan fesyen, menjadi perhatian online karena kualitas layanan perbaikan pakaiannya. Sebuah ulasan menyebut pakaian yang berlubang dikirim untuk diperbaiki dan kembali bukan hanya dengan bagian rusak yang ditutup, tetapi juga dengan tambahan desain bordir. Menurut teks asli, kasus ini bermula dari ulasan perbaikan Kolon, ketika pakaian berlubang yang berubah melalui bordir dibagikan dan mendapat kekaguman dari konsumen. Poin utamanya adalah perbaikan pakaian tidak hanya dipandang sebagai pemulihan ke kondisi semula, tetapi juga sebagai cara meningkatkan penyelesaian desain. Respons ini menunjukkan bahwa kualitas layanan purnajual perusahaan fesyen dapat memengaruhi kepercayaan terhadap merek dan kepuasan konsumen. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6d32631653bf",
-    "slug": "공공기관-최고-수준한국남부발전-공공기관-안전관리등급-7년-연속-2등급-달성-722465",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T12:57:03.485Z",
-    "updatedAt": "2026-05-06T12:57:03.485Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12038085",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12038085",
-    "titleFingerprint": "93e55ee8da7c67d0751a39ace2a7d91b54aa4f11",
-    "dedupKeys": [
-      "6d32631653bf481d9c517788943b1fd2196dac78",
-      "93e55ee8da7c67d0751a39ace2a7d91b54aa4f11",
-      "7408dbcea70348f813dc784ee64c49ea36d71ef2"
-    ],
-    "imageUrl": "/images/articles/6d32631653bf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국남부발전, 공공기관 안전관리등급 7년 연속 2등급 달성",
-        "excerpt": "한국남부발전은 2025년도 공공기관 안전관리등급 심사에서 전력그룹 공공기관 중 최고 수준인 2등급을 7년 연속 달성하며 안전관리 역량을 인정받았다.",
-        "body": "한국남부발전이 재정경제부가 공공기관을 대상으로 실시한 ‘2025년도 공공기관 안전관리등급 심사’에서 7년 연속 2등급을 달성했다. 이번 심사는 104개 공공기관을 대상으로 진행됐으며, 한국남부발전은 전력그룹 공공기관 가운데 가장 높은 등급을 획득했다. 회사는 이번 결과를 통해 안전관리 체계와 현장 대응 능력을 인정받았다는 평가를 받았다. 공공기관 안전관리등급은 기관의 안전관리 수준을 점검하는 지표로 활용된다. 한국남부발전의 연속 2등급 달성은 공공부문 안전관리 강화 흐름 속에서 의미 있는 성과로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPO Earns Grade 2 in Public Safety Review for 7th Year",
-        "excerpt": "Korea Southern Power earned Grade 2 in the 2025 public institution safety management review, the highest level among power-group public agencies, for the seventh year in a row.",
-        "body": "Korea Southern Power Co. achieved Grade 2 for the seventh consecutive year in the 2025 Public Institution Safety Management Grade Review conducted by the Ministry of Finance and Economy for public agencies. The review covered 104 public institutions, and KOSPO received the highest grade among public institutions in the power group. The result was assessed as recognition of the company’s safety management system and on-site response capabilities. The safety management grade is used as an indicator to examine the safety management level of public institutions. KOSPO’s continued Grade 2 standing is seen as a meaningful result amid efforts to strengthen safety management in the public sector. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国南部発電、公共機関安全管理等級で7年連続2等級を達成",
-        "excerpt": "韓国南部発電は2025年度公共機関安全管理等級審査で、電力グループ公共機関の最高水準となる2等級を7年連続で達成した。",
-        "body": "韓国南部発電は、財政経済部が公共機関を対象に実施した「2025年度公共機関安全管理等級審査」で、7年連続となる2等級を達成した。今回の審査は104の公共機関を対象に行われ、韓国南部発電は電力グループ公共機関の中で最も高い等級を獲得した。同社は今回の結果により、安全管理体制と現場対応能力が認められたとの評価を受けた。公共機関安全管理等級は、機関の安全管理水準を点検する指標として活用される。韓国南部発電の連続2等級達成は、公共部門の安全管理強化の流れの中で意味ある成果と解釈される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国南部发电连续7年获公共机构安全管理2级评级",
-        "excerpt": "韩国南部发电在2025年度公共机构安全管理等级审查中，连续第7年获得电力集团公共机构最高水平的2级评级。",
-        "body": "韩国南部发电在财政经济部面向公共机构实施的“2025年度公共机构安全管理等级审查”中，连续第7年获得2级评级。本次审查对象包括104家公共机构，韩国南部发电在电力集团公共机构中取得最高等级。该结果被评价为公司安全管理体系和现场应对能力获得认可。公共机构安全管理等级被用作检查机构安全管理水平的指标。韩国南部发电连续获得2级评级，在公共部门加强安全管理的背景下被解读为一项有意义的成果。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPO logra grado 2 en seguridad pública por séptimo año seguido",
-        "excerpt": "Korea Southern Power obtuvo el grado 2 en la revisión de seguridad de instituciones públicas de 2025, el nivel más alto entre entidades públicas del grupo eléctrico.",
-        "body": "Korea Southern Power obtuvo el grado 2 por séptimo año consecutivo en la Revisión de Grados de Gestión de Seguridad de Instituciones Públicas de 2025, realizada por el Ministerio de Finanzas y Economía para entidades públicas. La evaluación abarcó 104 instituciones públicas, y KOSPO logró la calificación más alta entre las entidades públicas del grupo eléctrico. El resultado fue valorado como un reconocimiento a su sistema de gestión de seguridad y a su capacidad de respuesta en el terreno. Este grado se utiliza como indicador para revisar el nivel de gestión de seguridad de las instituciones públicas. La continuidad de KOSPO en el grado 2 se interpreta como un logro significativo en el fortalecimiento de la seguridad del sector público. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPO alcança grau 2 em segurança pública pelo 7º ano seguido",
-        "excerpt": "A Korea Southern Power obteve grau 2 na avaliação de segurança de instituições públicas de 2025, o nível mais alto entre entidades públicas do grupo elétrico.",
-        "body": "A Korea Southern Power alcançou o grau 2 pelo sétimo ano consecutivo na Avaliação de Grau de Gestão de Segurança de Instituições Públicas de 2025, conduzida pelo Ministério das Finanças e Economia para órgãos públicos. A avaliação envolveu 104 instituições públicas, e a KOSPO recebeu a classificação mais alta entre as entidades públicas do grupo elétrico. O resultado foi visto como reconhecimento de seu sistema de gestão de segurança e de sua capacidade de resposta em campo. O grau de segurança é usado como indicador para verificar o nível de gestão de segurança das instituições públicas. A permanência da KOSPO no grau 2 é interpretada como um resultado significativo no contexto de reforço da segurança no setor público. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPO erreicht Sicherheitsstufe 2 bei Behörden zum siebten Mal",
-        "excerpt": "Korea Southern Power erreichte in der Sicherheitsbewertung öffentlicher Institutionen 2025 zum siebten Mal in Folge Stufe 2, den Spitzenwert in der Stromgruppe.",
-        "body": "Korea Southern Power hat in der vom Ministerium für Finanzen und Wirtschaft durchgeführten Sicherheitsmanagement-Bewertung öffentlicher Institutionen 2025 zum siebten Mal in Folge Stufe 2 erreicht. Die Prüfung umfasste 104 öffentliche Institutionen, wobei KOSPO unter den öffentlichen Einrichtungen der Stromgruppe die höchste Einstufung erhielt. Das Ergebnis wurde als Anerkennung des Sicherheitsmanagementsystems und der Reaktionsfähigkeit vor Ort gewertet. Die Sicherheitsmanagementstufe dient als Indikator zur Überprüfung des Sicherheitsniveaus öffentlicher Institutionen. Die fortgesetzte Einstufung von KOSPO in Stufe 2 gilt als bedeutendes Ergebnis im Zuge der stärkeren Sicherheitsausrichtung des öffentlichen Sektors. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KOSPO obtient le niveau 2 en sécurité publique pour la 7e année",
-        "excerpt": "Korea Southern Power a obtenu le niveau 2 lors de l’évaluation 2025 de la sécurité des organismes publics, le meilleur niveau parmi les entités du groupe électrique.",
-        "body": "Korea Southern Power a obtenu le niveau 2 pour la septième année consécutive lors de l’évaluation 2025 des niveaux de gestion de la sécurité des organismes publics, menée par le ministère des Finances et de l’Économie. L’examen a porté sur 104 institutions publiques, et KOSPO a reçu la meilleure note parmi les organismes publics du groupe électrique. Ce résultat a été considéré comme une reconnaissance de son système de gestion de la sécurité et de ses capacités de réponse sur le terrain. Ce classement sert d’indicateur pour évaluer le niveau de gestion de la sécurité des institutions publiques. La continuité de KOSPO au niveau 2 est interprétée comme un résultat significatif dans le renforcement de la sécurité du secteur public. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبو تحقق الدرجة الثانية في سلامة المؤسسات العامة للعام السابع",
-        "excerpt": "حققت كوريا ساوذرن باور الدرجة الثانية في تقييم إدارة السلامة للمؤسسات العامة لعام 2025، وهي أعلى درجة بين مؤسسات مجموعة الطاقة العامة.",
-        "body": "حققت كوريا ساوذرن باور الدرجة الثانية للعام السابع على التوالي في «تقييم درجات إدارة السلامة للمؤسسات العامة لعام 2025» الذي أجرته وزارة المالية والاقتصاد للمؤسسات العامة. وشمل التقييم 104 مؤسسات عامة، وحصلت كوسبو على أعلى درجة بين المؤسسات العامة التابعة لمجموعة الطاقة. واعتُبرت النتيجة اعترافا بنظام إدارة السلامة لدى الشركة وقدرتها على الاستجابة في مواقع العمل. وتُستخدم درجة إدارة السلامة كمؤشر لفحص مستوى السلامة في المؤسسات العامة. ويُنظر إلى استمرار حصول كوسبو على الدرجة الثانية بوصفه نتيجة مهمة في سياق تعزيز إدارة السلامة في القطاع العام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPO को सार्वजनिक सुरक्षा रेटिंग में लगातार 7वें साल ग्रेड 2",
-        "excerpt": "कोरिया सदर्न पावर ने 2025 सार्वजनिक संस्थान सुरक्षा प्रबंधन समीक्षा में बिजली समूह की सार्वजनिक संस्थाओं में सर्वोच्च स्तर का ग्रेड 2 लगातार सातवें साल हासिल किया।",
-        "body": "कोरिया सदर्न पावर ने वित्त और अर्थव्यवस्था मंत्रालय द्वारा सार्वजनिक संस्थानों के लिए कराई गई ‘2025 सार्वजनिक संस्थान सुरक्षा प्रबंधन ग्रेड समीक्षा’ में लगातार सातवें साल ग्रेड 2 हासिल किया। यह समीक्षा 104 सार्वजनिक संस्थानों पर की गई, और KOSPO ने बिजली समूह की सार्वजनिक संस्थाओं में सबसे ऊंचा ग्रेड प्राप्त किया। इस परिणाम को कंपनी की सुरक्षा प्रबंधन प्रणाली और स्थल पर प्रतिक्रिया क्षमता की मान्यता के रूप में देखा गया। सार्वजनिक संस्थान सुरक्षा प्रबंधन ग्रेड का उपयोग संस्थाओं के सुरक्षा प्रबंधन स्तर की जांच के संकेतक के रूप में किया जाता है। KOSPO की लगातार ग्रेड 2 उपलब्धि सार्वजनिक क्षेत्र में सुरक्षा प्रबंधन को मजबूत करने की दिशा में एक महत्वपूर्ण परिणाम मानी जा रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPO Raih Peringkat 2 Keamanan Publik Selama 7 Tahun Beruntun",
-        "excerpt": "Korea Southern Power meraih peringkat 2 dalam penilaian manajemen keselamatan lembaga publik 2025, level tertinggi di antara lembaga publik grup kelistrikan.",
-        "body": "Korea Southern Power meraih peringkat 2 untuk tahun ketujuh berturut-turut dalam Penilaian Peringkat Manajemen Keselamatan Lembaga Publik 2025 yang dilakukan Kementerian Keuangan dan Ekonomi terhadap lembaga publik. Penilaian ini mencakup 104 lembaga publik, dan KOSPO memperoleh peringkat tertinggi di antara lembaga publik dalam grup kelistrikan. Hasil tersebut dinilai sebagai pengakuan atas sistem manajemen keselamatan dan kemampuan respons lapangan perusahaan. Peringkat manajemen keselamatan digunakan sebagai indikator untuk meninjau tingkat keselamatan lembaga publik. Capaian KOSPO mempertahankan peringkat 2 dipandang sebagai hasil penting dalam penguatan manajemen keselamatan sektor publik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c5caf4ac7399",
-    "slug": "ai반도체-수혜를-받기-시작했다-기판업체-lg이노텍-매경-자이앤트-스톡커-736766",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T12:56:09.491Z",
-    "updatedAt": "2026-05-06T12:56:09.491Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12038098",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12038098",
-    "titleFingerprint": "6b84e0f64a987dd675366ae1153747e59cc5c51c",
-    "dedupKeys": [
-      "c5caf4ac7399c215041ca4bfafa305d31434b86e",
-      "6b84e0f64a987dd675366ae1153747e59cc5c51c",
-      "ea756dafd89e5e3dfe5d82d674f87af7e5380d67"
-    ],
-    "imageUrl": "/images/articles/c5caf4ac7399.png",
-    "i18n": {
-      "ko": {
-        "title": "AI반도체 수혜 본격화, LG이노텍 기판사업 분석 주목",
-        "excerpt": "매일경제 증권부 홍순빈 기자가 매경 자이앤트에서 AI반도체 호황 속 반도체기판 업체 LG이노텍과 삼성전기를 분석했다.",
-        "body": "매일경제신문 증권부 홍순빈 기자는 매경 자이앤트-스톡커에서 AI반도체 호황의 수혜를 받기 시작한 반도체기판 업체 LG이노텍을 다뤘다. 홍 기자는 ‘최소한의 주식투자’를 쓴 증권 담당 기자로, 이번 콘텐츠에서 LG이노텍과 삼성전기를 집중 분석했다. 원문은 AI반도체 수요 확대가 반도체기판 업체에 어떤 의미를 갖는지에 초점을 맞춘다. 특히 LG이노텍이 수혜를 받기 시작했다는 점과 삼성전기가 함께 비교 대상으로 제시됐다는 점이 핵심이다. 관련 기업의 기판사업과 AI반도체 호황의 연결성이 투자자 관심사로 부각될 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "AI Chip Boom Puts LG Innotek Substrate Business in Focus",
-        "excerpt": "Maeil Business reporter Hong Soon-bin analyzed LG Innotek and Samsung Electro-Mechanics on MaeKyung Giant as AI chip demand lifts substrate makers.",
-        "body": "Hong Soon-bin, a securities reporter at Maeil Business Newspaper and author of ‘Minimum Stock Investment,’ covered LG Innotek on MaeKyung Giant-Stocker as a substrate company beginning to benefit from the AI semiconductor boom. The segment focused on LG Innotek and Samsung Electro-Mechanics. Based on the original summary, the main issue is how rising AI semiconductor demand is affecting semiconductor substrate makers. LG Innotek is presented as a company starting to receive that benefit, while Samsung Electro-Mechanics is analyzed alongside it. The link between AI chip growth and substrate businesses is likely to remain a point of investor attention. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "AI半導体ブームで注目、LGイノテック基板事業を分析",
-        "excerpt": "毎日経済新聞証券部のホン・スンビン記者が、メギョン・ジャイアントでAI半導体好況を受けるLGイノテックとサムスン電機を分析した。",
-        "body": "毎日経済新聞証券部のホン・スンビン記者は、メギョン・ジャイアント－ストッカーで、AI半導体好況の恩恵を受け始めた半導体基板メーカー、LGイノテックを取り上げた。ホン記者は『最小限の株式投資』の著者で、今回のコンテンツではLGイノテックとサムスン電機を集中的に分析した。原文の要点は、AI半導体需要の拡大が半導体基板メーカーにどのような意味を持つかにある。LGイノテックが恩恵を受け始めた点と、サムスン電機が比較対象として示された点が核心だ。AI半導体好況と基板事業の関係は投資家の関心材料になりそうだ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "AI半导体热潮带动，LG Innotek基板业务受关注",
-        "excerpt": "《每日经济新闻》证券部记者洪淳彬在MaeKyung Giant中分析了AI半导体景气下的LG Innotek和三星电机。",
-        "body": "《每日经济新闻》证券部记者洪淳彬在MaeKyung Giant-Stocker中介绍了开始受益于AI半导体景气的半导体基板企业LG Innotek。洪记者是《最小限度股票投资》的作者，此次内容集中分析了LG Innotek和三星电机。原文重点在于AI半导体需求扩大对半导体基板企业意味着什么。LG Innotek被描述为开始获得相关受益的企业，三星电机则作为一并分析的对象出现。AI半导体热潮与基板业务之间的联系，预计将继续成为投资者关注的议题。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Auge de chips de IA enfoca el negocio de sustratos de LG Innotek",
-        "excerpt": "Hong Soon-bin, reportero de valores de Maeil Business, analizó en MaeKyung Giant a LG Innotek y Samsung Electro-Mechanics ante el auge de chips de IA.",
-        "body": "Hong Soon-bin, reportero de valores de Maeil Business Newspaper y autor de ‘Minimum Stock Investment’, abordó en MaeKyung Giant-Stocker a LG Innotek como una empresa de sustratos que empieza a beneficiarse del auge de los semiconductores de IA. El contenido se centró en LG Innotek y Samsung Electro-Mechanics. Según el resumen original, el punto clave es qué significa el aumento de la demanda de semiconductores de IA para los fabricantes de sustratos. LG Innotek aparece como una compañía que empieza a recibir ese impulso, mientras Samsung Electro-Mechanics se analiza junto a ella. La conexión entre chips de IA y sustratos seguirá atrayendo atención inversora. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Boom de chips de IA destaca negócio de substratos da LG Innotek",
-        "excerpt": "Hong Soon-bin, repórter de mercado do Maeil Business, analisou no MaeKyung Giant a LG Innotek e a Samsung Electro-Mechanics em meio à alta dos chips de IA.",
-        "body": "Hong Soon-bin, repórter de valores mobiliários do Maeil Business Newspaper e autor de ‘Minimum Stock Investment’, tratou no MaeKyung Giant-Stocker da LG Innotek como uma fabricante de substratos que começa a se beneficiar do boom dos semicondutores de IA. O conteúdo concentrou a análise na LG Innotek e na Samsung Electro-Mechanics. Pelo resumo original, o foco é o significado da expansão da demanda por semicondutores de IA para empresas de substratos. A LG Innotek é apresentada como beneficiária inicial, enquanto a Samsung Electro-Mechanics aparece como comparação. A relação entre chips de IA e substratos deve seguir no radar dos investidores. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KI-Chip-Boom rückt Substratgeschäft von LG Innotek in den Fokus",
-        "excerpt": "Maeil-Business-Wertpapierreporter Hong Soon-bin analysierte bei MaeKyung Giant LG Innotek und Samsung Electro-Mechanics im KI-Halbleiterboom.",
-        "body": "Hong Soon-bin, Wertpapierreporter der Maeil Business Newspaper und Autor von ‘Minimum Stock Investment’, behandelte bei MaeKyung Giant-Stocker LG Innotek als Substrathersteller, der erste Vorteile aus dem Boom bei KI-Halbleitern zieht. In dem Beitrag analysierte er LG Innotek und Samsung Electro-Mechanics. Laut Originalzusammenfassung steht im Mittelpunkt, was die wachsende Nachfrage nach KI-Halbleitern für Hersteller von Halbleitersubstraten bedeutet. LG Innotek wird als Unternehmen dargestellt, das zu profitieren beginnt, Samsung Electro-Mechanics dient als weiterer Analysegegenstand. Die Verbindung zwischen KI-Chips und Substratgeschäft dürfte für Anleger relevant bleiben. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le boom des puces IA met les substrats de LG Innotek en avant",
-        "excerpt": "Hong Soon-bin, journaliste marchés de Maeil Business, a analysé sur MaeKyung Giant LG Innotek et Samsung Electro-Mechanics dans l’essor des puces IA.",
-        "body": "Hong Soon-bin, journaliste du service valeurs mobilières de Maeil Business Newspaper et auteur de ‘Minimum Stock Investment’, a présenté sur MaeKyung Giant-Stocker LG Innotek comme un fabricant de substrats commençant à bénéficier du boom des semi-conducteurs d’IA. Le contenu s’est concentré sur LG Innotek et Samsung Electro-Mechanics. D’après le résumé original, l’enjeu est de comprendre ce que l’expansion de la demande en semi-conducteurs d’IA signifie pour les fabricants de substrats. LG Innotek est décrit comme un bénéficiaire initial, tandis que Samsung Electro-Mechanics est analysé en parallèle. Ce lien entre puces IA et substrats devrait rester suivi par les investisseurs. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "طفرة رقائق الذكاء الاصطناعي تضع ركائز LG Innotek تحت الضوء",
-        "excerpt": "حلل هونغ سون-بين، صحفي قسم الأوراق المالية في Maeil Business، شركتي LG Innotek وSamsung Electro-Mechanics عبر MaeKyung Giant وسط ازدهار رقائق الذكاء الاصطناعي.",
-        "body": "تناول هونغ سون-بين، صحفي قسم الأوراق المالية في صحيفة Maeil Business ومؤلف كتاب ‘Minimum Stock Investment’، شركة LG Innotek في برنامج MaeKyung Giant-Stocker بوصفها شركة ركائز أشباه موصلات بدأت تستفيد من ازدهار أشباه موصلات الذكاء الاصطناعي. وركز المحتوى على تحليل LG Innotek وSamsung Electro-Mechanics. ووفق الملخص الأصلي، تتمحور القضية حول معنى توسع الطلب على أشباه موصلات الذكاء الاصطناعي بالنسبة إلى شركات ركائز أشباه الموصلات. وتظهر LG Innotek كشركة بدأت تنال الفائدة، بينما تُطرح Samsung Electro-Mechanics كموضوع تحليل مواز. ومن المتوقع أن تبقى صلة رقائق الذكاء الاصطناعي بأعمال الركائز محل اهتمام المستثمرين. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "AI चिप उछाल से LG Innotek के सब्सट्रेट कारोबार पर ध्यान",
-        "excerpt": "Maeil Business के सिक्योरिटीज रिपोर्टर Hong Soon-bin ने MaeKyung Giant में AI सेमीकंडक्टर तेजी के बीच LG Innotek और Samsung Electro-Mechanics का विश्लेषण किया।",
-        "body": "Maeil Business Newspaper के सिक्योरिटीज रिपोर्टर और ‘Minimum Stock Investment’ के लेखक Hong Soon-bin ने MaeKyung Giant-Stocker में LG Innotek को ऐसी सेमीकंडक्टर सब्सट्रेट कंपनी के रूप में पेश किया, जिसे AI सेमीकंडक्टर boom से लाभ मिलना शुरू हुआ है। इस सामग्री में LG Innotek और Samsung Electro-Mechanics पर केंद्रित विश्लेषण किया गया। मूल सारांश के अनुसार मुख्य मुद्दा यह है कि AI सेमीकंडक्टर मांग में वृद्धि से सब्सट्रेट कंपनियों के लिए क्या अर्थ निकलता है। LG Innotek को शुरुआती लाभार्थी के रूप में और Samsung Electro-Mechanics को साथ में विश्लेषित कंपनी के रूप में दिखाया गया। AI चिप्स और सब्सट्रेट कारोबार का संबंध निवेशकों के लिए अहम रहेगा। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Boom Chip AI Soroti Bisnis Substrat Semikonduktor LG Innotek",
-        "excerpt": "Reporter pasar modal Maeil Business Hong Soon-bin menganalisis LG Innotek dan Samsung Electro-Mechanics di MaeKyung Giant saat boom chip AI mengangkat bisnis substrat.",
-        "body": "Hong Soon-bin, reporter divisi sekuritas Maeil Business Newspaper dan penulis ‘Minimum Stock Investment’, membahas LG Innotek di MaeKyung Giant-Stocker sebagai perusahaan substrat semikonduktor yang mulai menerima manfaat dari boom semikonduktor AI. Konten tersebut berfokus pada analisis LG Innotek dan Samsung Electro-Mechanics. Berdasarkan ringkasan asli, isu utamanya adalah arti kenaikan permintaan semikonduktor AI bagi perusahaan substrat semikonduktor. LG Innotek ditampilkan sebagai perusahaan yang mulai mendapat manfaat, sementara Samsung Electro-Mechanics dianalisis sebagai pembanding. Kaitan antara chip AI dan bisnis substrat diperkirakan tetap menjadi perhatian investor. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "074b5cecefc8",
-    "slug": "개콘-니글니글-이상훈-이번엔-싱글벙글어린이병원에-2천만원-기부-284917",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T12:54:55.835Z",
-    "updatedAt": "2026-05-06T12:54:55.836Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12038111",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12038111",
-    "titleFingerprint": "9bdeccdd4b343d70de015f1fa3aaf349614b7762",
-    "dedupKeys": [
-      "074b5cecefc8e54b4b19a875aa97826f21a044c6",
-      "9bdeccdd4b343d70de015f1fa3aaf349614b7762",
-      "612cc6adc1b3edbb49baec3bfa465bbb533cf6cf"
-    ],
-    "imageUrl": "/images/articles/074b5cecefc8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이상훈, 어린이날 맞아 서울특별시 어린이병원에 2천만원 기부",
-        "excerpt": "KBS 2TV ‘개그콘서트’ 니글니글 코너로 사랑받은 개그맨 이상훈이 어린이날을 맞아 서울특별시 어린이병원에 2000만원을 기부했다.",
-        "body": "KBS 2TV ‘개그콘서트’의 ‘니글니글’ 코너로 알려진 개그맨 이상훈이 어린이날을 맞아 서울특별시 어린이병원에 2000만원을 기부했다. 소속사 리코브에 따르면 이번 기부는 어린이날을 맞아 어린이들에게 웃음을 전하려는 취지로 이뤄졌다. 이상훈은 ‘니글니글’ 코너를 통해 대중에게 사랑받아 온 방송인으로, 이번에는 무대 위 웃음이 아닌 나눔으로 어린이병원에 온기를 더했다. 기부금은 서울특별시 어린이병원에 전달됐으며, 어린이날의 의미를 되새기는 사례로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lee Sang-hoon donates 20 million won to Seoul children’s hospital",
-        "excerpt": "Comedian Lee Sang-hoon, known for KBS 2TV’s Gag Concert segment ‘Nigeul Nigeul,’ donated 20 million won to Seoul Metropolitan Children’s Hospital for Children’s Day.",
-        "body": "Comedian Lee Sang-hoon, known for the ‘Nigeul Nigeul’ segment on KBS 2TV’s Gag Concert, donated 20 million won to Seoul Metropolitan Children’s Hospital in celebration of Children’s Day. According to his agency Recove, the donation was made to share smiles with children on the holiday. Lee has long been loved by viewers through his comedy work, and this time he delivered warmth through giving rather than a stage performance. The donation was delivered to Seoul Metropolitan Children’s Hospital and is drawing attention as a meaningful Children’s Day gesture. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "イ・サンフン、子どもの日にソウル特別市子ども病院へ2000万ウォン寄付",
-        "excerpt": "KBS 2TV『ギャグコンサート』の「ニグルニグル」で親しまれたコメディアン、イ・サンフンが子どもの日に合わせて2000万ウォンを寄付した。",
-        "body": "KBS 2TV『ギャグコンサート』の「ニグルニグル」コーナーで知られるコメディアンのイ・サンフンが、子どもの日に合わせてソウル特別市子ども病院に2000万ウォンを寄付した。所属事務所リコーブによると、今回の寄付は子どもの日に子どもたちへ笑顔を届けたいという趣旨で行われた。イ・サンフンは同コーナーを通じて多くの視聴者に愛されてきた芸人で、今回は舞台上の笑いではなく分かち合いで病院に温かさを届けた。寄付金は同病院に渡された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "李尚勋儿童节向首尔特别市儿童医院捐赠2000万韩元",
-        "excerpt": "凭借KBS 2TV《搞笑演唱会》“Nigeul Nigeul”环节受到喜爱的喜剧演员李尚勋，在儿童节之际向首尔特别市儿童医院捐赠2000万韩元。",
-        "body": "凭借KBS 2TV《搞笑演唱会》“Nigeul Nigeul”环节为观众熟知的喜剧演员李尚勋，在儿童节之际向首尔特别市儿童医院捐赠了2000万韩元。据其经纪公司Recove表示，此次捐赠旨在儿童节为孩子们送去笑容。李尚勋长期通过该喜剧环节受到大众喜爱，这一次则以分享和捐赠的方式，为儿童医院传递温暖。捐款已交付首尔特别市儿童医院，也成为体现儿童节意义的一项善举。来源：mk.co.kr"
-      },
-      "es": {
-        "title": "Lee Sang-hoon dona 20 millones de wones a hospital infantil de Seúl",
-        "excerpt": "El comediante Lee Sang-hoon, conocido por el segmento ‘Nigeul Nigeul’ de Gag Concert en KBS 2TV, donó 20 millones de wones al Hospital Infantil Metropolitano de Seúl por el Día del Niño.",
-        "body": "El comediante Lee Sang-hoon, conocido por el segmento ‘Nigeul Nigeul’ del programa Gag Concert de KBS 2TV, donó 20 millones de wones al Hospital Infantil Metropolitano de Seúl con motivo del Día del Niño. Según su agencia, Recove, la donación se realizó con la intención de llevar sonrisas a los niños en esta fecha. Lee ha sido querido por el público gracias a su trabajo en ese espacio de comedia, y esta vez aportó calidez al hospital mediante una acción solidaria. El donativo fue entregado al hospital y destaca como un gesto significativo por el Día del Niño. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lee Sang-hoon doa 20 milhões de won ao Hospital Infantil de Seul",
-        "excerpt": "O comediante Lee Sang-hoon, conhecido pelo quadro ‘Nigeul Nigeul’ do Gag Concert da KBS 2TV, doou 20 milhões de won ao Hospital Infantil Metropolitano de Seul no Dia das Crianças.",
-        "body": "O comediante Lee Sang-hoon, conhecido pelo quadro ‘Nigeul Nigeul’ do programa Gag Concert da KBS 2TV, doou 20 milhões de won ao Hospital Infantil Metropolitano de Seul em celebração ao Dia das Crianças. Segundo sua agência, Recove, a doação foi feita com o objetivo de levar sorrisos às crianças nessa data. Lee é amado pelo público por seu trabalho no humor, e desta vez transmitiu calor humano ao hospital por meio da solidariedade, não do palco. O valor foi entregue ao hospital e chama atenção como um gesto significativo no Dia das Crianças. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lee Sang-hoon spendet 20 Millionen Won an Kinderkrankenhaus in Seoul",
-        "excerpt": "Komiker Lee Sang-hoon, bekannt aus dem KBS-2TV-Format Gag Concert und der Rubrik ‘Nigeul Nigeul’, spendete zum Kindertag 20 Millionen Won an das Seoul Metropolitan Children’s Hospital.",
-        "body": "Komiker Lee Sang-hoon, bekannt durch die Rubrik ‘Nigeul Nigeul’ in KBS 2TVs Gag Concert, hat zum Kindertag 20 Millionen Won an das Seoul Metropolitan Children’s Hospital gespendet. Nach Angaben seiner Agentur Recove erfolgte die Spende mit dem Ziel, Kindern an diesem Tag ein Lächeln zu schenken. Lee wurde durch seine Comedy-Auftritte von vielen Zuschauern geschätzt; diesmal brachte er Wärme nicht auf der Bühne, sondern durch eine Spende. Der Betrag wurde dem Kinderkrankenhaus der Stadt Seoul übergeben und gilt als aufmerksame Geste zum Kindertag. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lee Sang-hoon donne 20 millions de wons à un hôpital pour enfants de Séoul",
-        "excerpt": "L’humoriste Lee Sang-hoon, connu pour la séquence ‘Nigeul Nigeul’ de Gag Concert sur KBS 2TV, a donné 20 millions de wons à l’Hôpital pour enfants métropolitain de Séoul pour la Journée des enfants.",
-        "body": "L’humoriste Lee Sang-hoon, connu pour la séquence ‘Nigeul Nigeul’ de l’émission Gag Concert sur KBS 2TV, a fait un don de 20 millions de wons à l’Hôpital pour enfants métropolitain de Séoul à l’occasion de la Journée des enfants. Selon son agence Recove, ce don visait à offrir des sourires aux enfants en cette journée. Apprécié du public pour ses apparitions comiques, Lee a cette fois apporté de la chaleur par le partage plutôt que par la scène. Le don a été remis à l’hôpital et retient l’attention comme un geste significatif pour la Journée des enfants. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لي سانغ هون يتبرع بـ20 مليون وون لمستشفى الأطفال في سيول",
-        "excerpt": "تبرع الكوميدي لي سانغ هون، المعروف بفقرة ‘Nigeul Nigeul’ في برنامج Gag Concert على KBS 2TV، بمبلغ 20 مليون وون لمستشفى سيول المتروبوليتاني للأطفال بمناسبة يوم الطفل.",
-        "body": "تبرع الكوميدي لي سانغ هون، المعروف من خلال فقرة ‘Nigeul Nigeul’ في برنامج Gag Concert على قناة KBS 2TV، بمبلغ 20 مليون وون لمستشفى سيول المتروبوليتاني للأطفال بمناسبة يوم الطفل. ووفقاً لوكالته Recove، جاءت هذه المبادرة بهدف إدخال البسمة على وجوه الأطفال في هذه المناسبة. وقد حظي لي بمحبة الجمهور عبر أعماله الكوميدية، لكنه هذه المرة قدّم الدفء عبر العطاء بدلاً من خشبة المسرح. وتم تسليم التبرع إلى المستشفى، ليبرز كخطوة ذات معنى في يوم الطفل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ली सांग-हून ने सियोल बाल अस्पताल को 2 करोड़ वोन दान किए",
-        "excerpt": "KBS 2TV के Gag Concert के ‘Nigeul Nigeul’ से लोकप्रिय कॉमेडियन ली सांग-हून ने बाल दिवस पर Seoul Metropolitan Children’s Hospital को 2 करोड़ वोन दान किए।",
-        "body": "KBS 2TV के Gag Concert के ‘Nigeul Nigeul’ से पहचाने जाने वाले कॉमेडियन ली सांग-हून ने बाल दिवस के अवसर पर Seoul Metropolitan Children’s Hospital को 2 करोड़ वोन दान किए। उनकी एजेंसी Recove के अनुसार, यह दान बच्चों को इस दिन मुस्कान देने की भावना से किया गया। ली सांग-हून अपने कॉमेडी मंच के जरिए दर्शकों का प्यार पाते रहे हैं, लेकिन इस बार उन्होंने मंच की हंसी के बजाय दान के माध्यम से अस्पताल तक गर्मजोशी पहुंचाई। राशि अस्पताल को सौंप दी गई है और यह बाल दिवस के अर्थ को याद दिलाने वाला कदम माना जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lee Sang-hoon donasikan 20 juta won ke rumah sakit anak Seoul",
-        "excerpt": "Komedian Lee Sang-hoon, yang dikenal lewat segmen ‘Nigeul Nigeul’ di Gag Concert KBS 2TV, menyumbangkan 20 juta won ke Seoul Metropolitan Children’s Hospital untuk Hari Anak.",
-        "body": "Komedian Lee Sang-hoon, yang dikenal melalui segmen ‘Nigeul Nigeul’ dalam Gag Concert KBS 2TV, menyumbangkan 20 juta won kepada Seoul Metropolitan Children’s Hospital dalam rangka Hari Anak. Menurut agensinya, Recove, donasi ini dilakukan dengan tujuan menghadirkan senyum bagi anak-anak pada hari tersebut. Lee telah dicintai publik lewat karya komedinya, dan kali ini ia menyampaikan kehangatan bukan melalui panggung, melainkan lewat berbagi. Donasi itu telah diserahkan kepada rumah sakit dan menjadi gestur bermakna untuk memperingati Hari Anak. Sumber: mk.co.kr"
       }
     }
   }
