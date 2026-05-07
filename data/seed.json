@@ -1,5 +1,230 @@
 [
   {
+    "id": "907188b7d8b1",
+    "slug": "속보-반도체-호조3월-경상수지-역대-최대-흑자-373억3000만달러-192520",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T23:29:02.412Z",
+    "updatedAt": "2026-05-07T23:29:02.412Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12040691",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12040691",
+    "titleFingerprint": "e359a9b135526991331515431762e5555b8b2d8e",
+    "dedupKeys": [
+      "907188b7d8b1b174af667dc8468312f316cf2ccb",
+      "e359a9b135526991331515431762e5555b8b2d8e",
+      "9294ff548c34b65622dab748091fc9632458e185"
+    ],
+    "imageUrl": "/images/articles/907188b7d8b1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 수출 호조에 3월 경상수지 373억3000만달러 역대 최대 흑자",
+        "excerpt": "한국은행이 발표한 3월 국제수지에서 우리나라 경상수지는 반도체 등 IT 품목 수출 증가에 힘입어 373억3000만달러 흑자를 기록했다.",
+        "body": "한국은행이 발표한 3월 ‘국제수지’에 따르면 우리나라 경상수지는 373억3000만달러 흑자를 기록했다. 반도체 등 IT 품목 수출 증가가 흑자 확대의 주요 배경으로 제시됐다. 이번 흑자 규모는 역대 최대 수준이며, 경상수지는 35개월 연속 흑자 흐름을 이어갔다. 수출 중심 품목의 호조가 대외수지 개선에 힘을 보탠 셈이다. 다만 발표 내용은 3월 실적과 반도체 등 IT 수출 증가에 따른 결과를 중심으로 확인된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Semiconductor Exports Lift Korea’s March Current Account to Record $37.33 Billion Surplus",
+        "excerpt": "The Bank of Korea said South Korea’s March current account posted a $37.33 billion surplus, helped by stronger exports of semiconductors and other IT items.",
+        "body": "According to the Bank of Korea’s March balance of payments release, South Korea’s current account recorded a surplus of $37.33 billion. The increase was supported by stronger exports of semiconductors and other IT products. The surplus was the largest on record, and the current account remained in surplus for the 35th consecutive month. The data show that strength in key export items contributed to an improvement in the external balance. The announcement centers on March results and the impact of increased IT exports, including semiconductors. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "半導体輸出好調で韓国3月経常収支、373億3000万ドルの過去最大黒字",
+        "excerpt": "韓国銀行が発表した3月の国際収支で、韓国の経常収支は半導体などIT品目の輸出増を受け、373億3000万ドルの黒字となった。",
+        "body": "韓国銀行が発表した3月の「国際収支」によると、韓国の経常収支は373億3000万ドルの黒字を記録した。半導体などIT品目の輸出増加が黒字拡大の主な背景として示された。今回の黒字幅は過去最大規模で、経常収支は35カ月連続の黒字を維持した。主要輸出品目の好調が対外収支の改善を支えた形だ。発表内容は、3月実績と半導体を含むIT輸出増による結果を中心に確認される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "半导体出口强劲推动韩国3月经常账户创373.3亿美元最大顺差",
+        "excerpt": "韩国银行公布3月国际收支显示，韩国经常账户在半导体等IT品类出口增加带动下，实现373.3亿美元顺差。",
+        "body": "据韩国银行公布的3月“国际收支”数据，韩国经常账户录得373.3亿美元顺差。半导体等IT品类出口增加，被列为顺差扩大的主要背景。此次顺差规模为历史最大水平，经常账户也连续35个月保持顺差。关键出口品类的强劲表现，为对外收支改善提供了支撑。该发布内容主要确认了3月业绩，以及半导体等IT出口增长所带来的结果。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Exportaciones de semiconductores llevan superávit corriente de Corea a récord de US$37.330 millones",
+        "excerpt": "El Banco de Corea informó que la cuenta corriente de marzo registró un superávit de US$37.330 millones, impulsado por mayores exportaciones de semiconductores y otros productos IT.",
+        "body": "Según la publicación de la balanza de pagos de marzo del Banco de Corea, la cuenta corriente de Corea del Sur registró un superávit de US$37.330 millones. El aumento se apoyó en mayores exportaciones de semiconductores y otros productos de tecnología de la información. La cifra fue la mayor de la historia y la cuenta corriente mantuvo superávit por 35 meses consecutivos. Los datos muestran que la fortaleza de rubros clave de exportación contribuyó a mejorar la balanza externa. El anuncio se centra en los resultados de marzo y en el efecto del aumento de exportaciones IT, incluidos semiconductores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Semicondutores elevam superávit em conta corrente da Coreia a recorde de US$37,33 bi em março",
+        "excerpt": "O Banco da Coreia informou que a conta corrente de março teve superávit de US$37,33 bilhões, apoiada por maiores exportações de semicondutores e outros itens de TI.",
+        "body": "Segundo a divulgação da balança de pagamentos de março pelo Banco da Coreia, a conta corrente da Coreia do Sul registrou superávit de US$37,33 bilhões. O resultado foi sustentado pelo aumento das exportações de semicondutores e outros produtos de tecnologia da informação. O valor foi o maior já registrado, e a conta corrente permaneceu superavitária pelo 35º mês consecutivo. Os dados indicam que o bom desempenho de itens centrais de exportação contribuiu para a melhora das contas externas. O anúncio se concentra nos resultados de março e no impacto da alta das exportações de TI, incluindo semicondutores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Halbleiterexporte treiben Koreas Leistungsbilanz im März auf Rekordplus von 37,33 Mrd. Dollar",
+        "excerpt": "Die Bank of Korea meldete für März einen Leistungsbilanzüberschuss von 37,33 Mrd. Dollar, gestützt durch höhere Exporte von Halbleitern und anderen IT-Produkten.",
+        "body": "Nach der von der Bank of Korea veröffentlichten Zahlungsbilanz für März verzeichnete Südkorea einen Leistungsbilanzüberschuss von 37,33 Mrd. Dollar. Gestützt wurde der Anstieg durch höhere Exporte von Halbleitern und anderen IT-Produkten. Der Überschuss erreichte den höchsten je verzeichneten Stand, und die Leistungsbilanz blieb den 35. Monat in Folge positiv. Die Daten zeigen, dass starke zentrale Exportgüter zur Verbesserung der Außenbilanz beitrugen. Die Mitteilung bezieht sich vor allem auf die Märzergebnisse und den Effekt gestiegener IT-Exporte einschließlich Halbleitern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les semi-conducteurs portent l’excédent courant coréen de mars à un record de 37,33 Md$",
+        "excerpt": "La Banque de Corée a indiqué que le compte courant de mars affichait un excédent de 37,33 Md$, soutenu par la hausse des exportations de semi-conducteurs et d’autres produits IT.",
+        "body": "Selon la publication de la balance des paiements de mars par la Banque de Corée, le compte courant sud-coréen a enregistré un excédent de 37,33 Md$. Cette progression a été soutenue par la hausse des exportations de semi-conducteurs et d’autres produits de technologie de l’information. Le montant constitue un record historique, tandis que le compte courant reste excédentaire pour le 35e mois consécutif. Les données montrent que la vigueur des principaux produits exportés a contribué à l’amélioration de la balance extérieure. L’annonce porte sur les résultats de mars et l’effet de la hausse des exportations IT, dont les semi-conducteurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صادرات أشباه الموصلات ترفع فائض الحساب الجاري الكوري في مارس إلى رقم قياسي 37.33 مليار دولار",
+        "excerpt": "أعلن بنك كوريا أن الحساب الجاري في مارس سجل فائضا قدره 37.33 مليار دولار، بدعم من زيادة صادرات أشباه الموصلات وسلع تكنولوجيا المعلومات الأخرى.",
+        "body": "بحسب بيان ميزان المدفوعات لشهر مارس الصادر عن بنك كوريا، سجل الحساب الجاري لكوريا الجنوبية فائضا قدره 37.33 مليار دولار. وجاء الاتساع مدعوما بزيادة صادرات أشباه الموصلات وغيرها من منتجات تكنولوجيا المعلومات. ويعد هذا الفائض الأكبر على الإطلاق، كما واصل الحساب الجاري تحقيق فائض للشهر الخامس والثلاثين على التوالي. وتظهر البيانات أن قوة بنود التصدير الرئيسية ساهمت في تحسين الميزان الخارجي. ويركز الإعلان على نتائج مارس وأثر زيادة صادرات تكنولوجيا المعلومات، بما في ذلك أشباه الموصلات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर निर्यात से कोरिया का मार्च चालू खाता रिकॉर्ड 37.33 अरब डॉलर अधिशेष पर",
+        "excerpt": "बैंक ऑफ कोरिया ने कहा कि मार्च में दक्षिण कोरिया का चालू खाता 37.33 अरब डॉलर अधिशेष में रहा, जिसे सेमीकंडक्टर और अन्य आईटी वस्तुओं के निर्यात में वृद्धि से समर्थन मिला।",
+        "body": "बैंक ऑफ कोरिया की मार्च ‘बैलेंस ऑफ पेमेंट्स’ घोषणा के अनुसार, दक्षिण कोरिया के चालू खाते ने 37.33 अरब डॉलर का अधिशेष दर्ज किया। अधिशेष बढ़ने की मुख्य वजह सेमीकंडक्टर और अन्य आईटी वस्तुओं के निर्यात में वृद्धि बताई गई। यह अधिशेष अब तक का सबसे बड़ा स्तर है, और चालू खाता लगातार 35 महीनों से अधिशेष में बना हुआ है। आंकड़े बताते हैं कि प्रमुख निर्यात वस्तुओं की मजबूती ने बाहरी संतुलन सुधारने में योगदान दिया। घोषणा मुख्य रूप से मार्च के प्रदर्शन और सेमीकंडक्टर सहित आईटी निर्यात वृद्धि के परिणामों पर केंद्रित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Ekspor Semikonduktor Dorong Surplus Transaksi Berjalan Korea Maret ke Rekor US$37,33 Miliar",
+        "excerpt": "Bank of Korea menyatakan transaksi berjalan Korea Selatan pada Maret mencatat surplus US$37,33 miliar, ditopang kenaikan ekspor semikonduktor dan barang TI lainnya.",
+        "body": "Menurut rilis neraca pembayaran Maret dari Bank of Korea, transaksi berjalan Korea Selatan mencatat surplus US$37,33 miliar. Kenaikan ekspor semikonduktor dan produk teknologi informasi lainnya menjadi latar utama perluasan surplus tersebut. Nilai ini merupakan surplus terbesar sepanjang sejarah, sementara transaksi berjalan tetap surplus selama 35 bulan berturut-turut. Data tersebut menunjukkan bahwa kuatnya komoditas ekspor utama membantu memperbaiki neraca eksternal. Pengumuman ini berfokus pada kinerja Maret dan dampak kenaikan ekspor TI, termasuk semikonduktor. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "98ecf16a40e4",
+    "slug": "속보-트럼프-호르무즈-교전에도-이란과-휴전-계속-유지중-132367",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T23:28:11.940Z",
+    "updatedAt": "2026-05-07T23:28:11.940Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12040697",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12040697",
+    "titleFingerprint": "3edae2ce69d1e530236ea83ac2724017cd2a532e",
+    "dedupKeys": [
+      "98ecf16a40e40866bd42edeccc8d6e011cd29424",
+      "3edae2ce69d1e530236ea83ac2724017cd2a532e",
+      "ccf52833a578c47cd5d325600ae638929a8fcc63"
+    ],
+    "imageUrl": "/images/articles/98ecf16a40e4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 “이란과 휴전 계속 유지” 확인, 호르무즈 교전에도 중동 긴장 관리에 주목",
+        "excerpt": "도널드 트럼프 미국 대통령은 호르무즈 해협에서 교전이 벌어진 상황에도 이란과의 휴전이 계속 유지되고 있다고 밝혔으며, 중동 긴장 속 휴전 지속 여부가 핵심 변수로 부상했다.",
+        "body": "도널드 트럼프 미국 대통령은 호르무즈 해협을 둘러싼 교전 상황에도 이란과의 휴전이 계속 유지되고 있다고 밝혔다. 보도 제목상 핵심은 군사적 긴장이 이어지는 가운데서도 미국 측이 이란과의 휴전 상태를 부정하지 않았다는 점이다. 호르무즈 해협은 중동 정세와 에너지 수송로의 불안이 맞물리는 지역인 만큼, 교전 소식과 휴전 유지 발언은 동시에 시장과 외교 당국의 주목을 받을 수 있다. 다만 원문에 구체적인 교전 규모나 추가 수치는 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Trump Says Iran Ceasefire Still Holds Despite Hormuz Clash, Keeping Middle East Focused on Tensions",
+        "excerpt": "U.S. President Donald Trump said the ceasefire with Iran remains in place despite a clash around the Strait of Hormuz, making the durability of the truce a key issue amid regional tension.",
+        "body": "U.S. President Donald Trump said the ceasefire with Iran is still being maintained despite a clash around the Strait of Hormuz. The key point of the report is that, even as military tension continues, the U.S. side did not deny that the ceasefire with Iran remains in effect. The Strait of Hormuz is closely tied to Middle East stability and energy shipping routes, so news of a clash and Trump’s statement on the continuing truce may draw attention from markets and diplomatic authorities. The original report did not provide specific figures on the scale of the clash. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "トランプ氏「イランとの停戦は継続中」と確認、ホルムズ交戦でも緊張管理に注目",
+        "excerpt": "ドナルド・トランプ米大統領は、ホルムズ海峡周辺で交戦が起きた状況でもイランとの停戦は維持されていると述べ、中東の緊張下で停戦継続が焦点となった。",
+        "body": "ドナルド・トランプ米大統領は、ホルムズ海峡をめぐる交戦状況にもかかわらず、イランとの停戦は引き続き維持されていると明らかにした。報道の核心は、軍事的緊張が続く中でも、米国側がイランとの停戦状態を否定しなかった点にある。ホルムズ海峡は中東情勢とエネルギー輸送路の不安が重なる地域であり、交戦の知らせと停戦維持の発言は市場や外交当局の注目を集め得る。ただし、原文には交戦の具体的規模や追加の数値は示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "特朗普称“与伊朗停火仍在维持”，霍尔木兹交火下中东紧张受关注",
+        "excerpt": "美国总统特朗普表示，即使霍尔木兹海峡周边发生交火，与伊朗的停火仍在维持；在中东紧张局势下，停火能否延续成为关键焦点。",
+        "body": "美国总统唐纳德·特朗普表示，尽管霍尔木兹海峡周边出现交火局势，美国与伊朗之间的停火仍在继续维持。报道的核心在于，在军事紧张仍未消退的情况下，美方并未否认与伊朗的停火状态。霍尔木兹海峡关系到中东局势与能源运输通道安全，因此交火消息和停火维持表态可能同时受到市场与外交部门关注。不过，原文未提供交火规模或其他具体数字。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Trump afirma que la tregua con Irán sigue vigente pese al choque en Ormuz y centra la tensión regional",
+        "excerpt": "Donald Trump dijo que el alto el fuego con Irán sigue en pie pese a un enfrentamiento en torno al estrecho de Ormuz, lo que convierte su continuidad en un foco clave de tensión en Oriente Medio.",
+        "body": "El presidente de Estados Unidos, Donald Trump, afirmó que el alto el fuego con Irán continúa vigente pese a un enfrentamiento en torno al estrecho de Ormuz. El punto central del reporte es que, aunque persiste la tensión militar, la parte estadounidense no negó que la tregua con Irán siga en efecto. El estrecho de Ormuz está vinculado a la estabilidad de Oriente Medio y a las rutas de transporte energético, por lo que la noticia del choque y la declaración sobre la continuidad de la tregua pueden atraer la atención de mercados y autoridades diplomáticas. El texto original no ofreció cifras concretas sobre la escala del enfrentamiento. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Trump diz que cessar-fogo com Irã continua apesar de confronto em Ormuz e tensão segue em foco",
+        "excerpt": "Donald Trump afirmou que o cessar-fogo com o Irã segue mantido apesar de um confronto na região do estreito de Ormuz, tornando a continuidade da trégua um ponto central na tensão do Oriente Médio.",
+        "body": "O presidente dos Estados Unidos, Donald Trump, afirmou que o cessar-fogo com o Irã continua sendo mantido apesar de um confronto na região do estreito de Ormuz. O ponto central da reportagem é que, mesmo com a tensão militar em curso, o lado americano não negou que a trégua com o Irã permaneça válida. O estreito de Ormuz está ligado à estabilidade do Oriente Médio e às rotas de transporte de energia, por isso a notícia do confronto e a declaração sobre a manutenção do cessar-fogo podem chamar a atenção de mercados e autoridades diplomáticas. O texto original não trouxe números específicos sobre a escala do confronto. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Trump bestätigt weiter gültige Iran-Waffenruhe trotz Gefecht bei Hormus, Nahost-Spannung im Fokus",
+        "excerpt": "US-Präsident Donald Trump erklärte, die Waffenruhe mit Iran bleibe trotz eines Gefechts um die Straße von Hormus bestehen; damit rückt ihre Stabilität inmitten regionaler Spannungen in den Mittelpunkt.",
+        "body": "US-Präsident Donald Trump erklärte, dass die Waffenruhe mit Iran trotz eines Gefechts im Umfeld der Straße von Hormus weiter aufrechterhalten werde. Der Kern der Meldung ist, dass die US-Seite den Fortbestand der Waffenruhe mit Iran auch bei anhaltender militärischer Spannung nicht verneinte. Die Straße von Hormus ist eng mit der Lage im Nahen Osten und wichtigen Energietransportrouten verbunden. Daher können sowohl die Nachricht über das Gefecht als auch Trumps Aussage zur fortgesetzten Waffenruhe die Aufmerksamkeit von Märkten und diplomatischen Stellen auf sich ziehen. Konkrete Zahlen zum Umfang des Gefechts wurden im Original nicht genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Trump affirme que la trêve avec l’Iran tient malgré l’affrontement à Ormuz, tensions au Moyen-Orient",
+        "excerpt": "Donald Trump a déclaré que le cessez-le-feu avec l’Iran restait en vigueur malgré un affrontement autour du détroit d’Ormuz, faisant de la poursuite de la trêve un enjeu central des tensions régionales.",
+        "body": "Le président américain Donald Trump a déclaré que le cessez-le-feu avec l’Iran continuait d’être maintenu malgré un affrontement autour du détroit d’Ormuz. Le point essentiel du reportage est que, même dans un contexte de tension militaire persistante, la partie américaine n’a pas remis en cause l’état de trêve avec l’Iran. Le détroit d’Ormuz est lié à la stabilité du Moyen-Orient et aux routes de transport de l’énergie. L’annonce de l’affrontement et la déclaration sur le maintien du cessez-le-feu peuvent donc retenir l’attention des marchés et des autorités diplomatiques. Le texte original ne fournit pas de chiffres précis sur l’ampleur de l’affrontement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ترامب يؤكد استمرار الهدنة مع إيران رغم اشتباك هرمز وسط ترقب لتوتر الشرق الأوسط",
+        "excerpt": "قال الرئيس الأميركي دونالد ترامب إن الهدنة مع إيران لا تزال قائمة رغم اشتباك في محيط مضيق هرمز، ما يجعل استمرارها محور متابعة رئيسيا وسط التوتر الإقليمي.",
+        "body": "قال الرئيس الأميركي دونالد ترامب إن الهدنة مع إيران ما زالت مستمرة رغم وقوع اشتباك في محيط مضيق هرمز. وتكمن النقطة الأساسية في التقرير في أن الجانب الأميركي لم ينف استمرار حالة الهدنة مع إيران، حتى مع بقاء التوتر العسكري قائما. ويعد مضيق هرمز منطقة مرتبطة باستقرار الشرق الأوسط وبمسارات نقل الطاقة، لذلك قد يحظى خبر الاشتباك وتصريح ترامب بشأن استمرار الهدنة باهتمام الأسواق والجهات الدبلوماسية. ولم يورد النص الأصلي أرقاما محددة عن حجم الاشتباك أو تفاصيل إضافية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हॉर्मुज झड़प के बावजूद ट्रंप ने कहा ईरान के साथ युद्धविराम जारी, मध्य पूर्व तनाव पर नजर",
+        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि हॉर्मुज जलडमरूमध्य के आसपास झड़प के बावजूद ईरान के साथ युद्धविराम जारी है, जिससे क्षेत्रीय तनाव में इसकी स्थिरता अहम मुद्दा बन गई।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि हॉर्मुज जलडमरूमध्य के आसपास झड़प की स्थिति के बावजूद ईरान के साथ युद्धविराम जारी है। रिपोर्ट का मुख्य बिंदु यह है कि सैन्य तनाव बने रहने के बीच भी अमेरिकी पक्ष ने ईरान के साथ युद्धविराम की स्थिति से इनकार नहीं किया। हॉर्मुज जलडमरूमध्य मध्य पूर्व की स्थिति और ऊर्जा परिवहन मार्गों की सुरक्षा से जुड़ा क्षेत्र है, इसलिए झड़प की खबर और युद्धविराम जारी रहने पर ट्रंप का बयान बाजारों तथा कूटनीतिक अधिकारियों का ध्यान खींच सकता है। मूल रिपोर्ट में झड़प के पैमाने या अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Trump Tegaskan Gencatan Senjata Iran Tetap Berjalan Meski Ada Bentrokan di Hormuz",
+        "excerpt": "Presiden AS Donald Trump menyatakan gencatan senjata dengan Iran tetap dipertahankan meski terjadi bentrokan di sekitar Selat Hormuz, menjadikan keberlanjutannya fokus utama di tengah ketegangan kawasan.",
+        "body": "Presiden Amerika Serikat Donald Trump menyatakan bahwa gencatan senjata dengan Iran masih terus dipertahankan meski terjadi bentrokan di sekitar Selat Hormuz. Pokok laporan ini adalah bahwa, di tengah ketegangan militer yang masih berlangsung, pihak AS tidak membantah status gencatan senjata dengan Iran. Selat Hormuz berkaitan erat dengan stabilitas Timur Tengah dan jalur pengiriman energi, sehingga kabar bentrokan serta pernyataan tentang berlanjutnya gencatan senjata dapat menarik perhatian pasar dan otoritas diplomatik. Laporan asli tidak memuat angka khusus mengenai skala bentrokan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "023660109b7a",
+    "slug": "경찰-김현지-부속실장-고발-각하혐의-입증할-증거-부족-931456",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T23:27:00.204Z",
+    "updatedAt": "2026-05-07T23:27:00.204Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12040701",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12040701",
+    "titleFingerprint": "2601d8a026be1f9c772eabf81b3da5836881ba30",
+    "dedupKeys": [
+      "023660109b7a9781819e6d56f9c5b4eef8ee63ea",
+      "2601d8a026be1f9c772eabf81b3da5836881ba30",
+      "b89541ecd3567e88a7942defb6c6182637cc5eb8"
+    ],
+    "imageUrl": "/images/articles/023660109b7a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김현지 부속실장 고발 각하, 경찰 “개인정보 비공개 혐의 증거 부족”",
+        "excerpt": "서울 용산경찰서는 김현지 청와대 제1부속실장이 나이와 학력 등 개인정보를 공개하지 않아 직권남용을 했다는 시민단체 고발을 지난달 각하했다고 8일 밝혔다.",
+        "body": "서울 용산경찰서는 8일 김현지 청와대 제1부속실장을 상대로 제기된 시민단체 고발을 지난달 각하했다고 밝혔다. 고발은 김 실장이 나이와 학력 등 개인정보를 공개하지 않아 직권남용을 저질렀다는 취지였다. 경찰은 혐의를 입증할 증거가 부족하다고 판단해 사건을 종결한 것으로 전해졌다. 이번 결정으로 해당 고발 건은 수사 단계로 이어지지 않게 됐다. 김 실장의 개인정보 공개 여부를 둘러싼 논란은 경찰의 각하 판단으로 일단락되는 흐름이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Police Dismiss Complaint Against Kim Hyun-ji, Citing Lack of Evidence",
+        "excerpt": "Seoul Yongsan Police said on the 8th they dismissed last month a civic group complaint alleging Kim Hyun-ji abused authority by not disclosing personal details such as age and education.",
+        "body": "Seoul Yongsan Police said on the 8th that they dismissed last month a civic group complaint filed against Kim Hyun-ji, first secretary at the presidential office. The complaint alleged that Kim abused her authority by not disclosing personal information, including her age and educational background. Police reportedly concluded there was insufficient evidence to prove the allegation and closed the case. As a result, the complaint will not proceed to a further investigation stage. The dispute over whether Kim should disclose such personal information appears to have paused with the police dismissal decision. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "金賢智付属室長への告発を警察が却下、個人情報非公開の証拠不足",
+        "excerpt": "ソウル龍山警察署は8日、金賢智大統領室第1付属室長が年齢や学歴などを公開せず職権乱用をしたとする市民団体の告発を先月却下したと明らかにした。",
+        "body": "ソウル龍山警察署は8日、金賢智大統領室第1付属室長を対象に提起された市民団体の告発を先月却下したと明らかにした。告発は、金氏が年齢や学歴などの個人情報を公開しなかったことで職権乱用に当たるという趣旨だった。警察は容疑を立証する証拠が不足していると判断し、事件を終結させたとされる。今回の決定により、この告発は捜査段階へ進まないことになった。金氏の個人情報公開をめぐる論争は、警察の却下判断でいったん区切りを迎える流れだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "警方驳回针对金贤智附属室长的举报，称个人信息未公开证据不足",
+        "excerpt": "首尔龙山警察署8日表示，已于上月驳回市民团体关于金贤智总统府第一附属室长未公开年龄、学历等个人信息并涉嫌滥用职权的举报。",
+        "body": "首尔龙山警察署8日表示，已于上月驳回针对金贤智总统府第一附属室长的市民团体举报。该举报主张，金贤智未公开年龄、学历等个人信息，涉嫌构成滥用职权。警方据悉认为，能够证明相关嫌疑的证据不足，因此决定终结案件。随着这一决定，该举报事项将不会进入进一步调查阶段。围绕金贤智是否应公开个人信息的争议，因警方作出驳回判断而暂告一段落。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Policía desestima denuncia contra Kim Hyun-ji por falta de pruebas",
+        "excerpt": "La comisaría de Yongsan en Seúl informó el día 8 que desestimó el mes pasado una denuncia cívica contra Kim Hyun-ji por no divulgar edad y estudios, supuestamente abuso de autoridad.",
+        "body": "La comisaría de Yongsan en Seúl informó el día 8 que el mes pasado desestimó una denuncia presentada por un grupo cívico contra Kim Hyun-ji, primera secretaria adjunta de la oficina presidencial. La denuncia sostenía que Kim habría cometido abuso de autoridad al no revelar información personal como su edad y formación académica. La policía consideró que no había pruebas suficientes para acreditar la acusación y cerró el caso. Con esta decisión, la denuncia no avanzará a una fase de investigación adicional. La controversia sobre la divulgación de los datos personales de Kim queda por ahora contenida por la decisión policial. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Polícia rejeita denúncia contra Kim Hyun-ji por falta de provas",
+        "excerpt": "A polícia de Yongsan, em Seul, informou no dia 8 que rejeitou no mês passado denúncia de grupo cívico contra Kim Hyun-ji por não divulgar idade e escolaridade, alegando abuso de autoridade.",
+        "body": "A polícia de Yongsan, em Seul, informou no dia 8 que rejeitou no mês passado uma denúncia apresentada por um grupo cívico contra Kim Hyun-ji, primeira secretária adjunta do gabinete presidencial. A denúncia alegava que Kim teria cometido abuso de autoridade ao não divulgar informações pessoais, como idade e formação acadêmica. A polícia teria concluído que faltavam provas para comprovar a suspeita e encerrou o caso. Com a decisão, a denúncia não seguirá para uma etapa adicional de investigação. A controvérsia sobre a divulgação dos dados pessoais de Kim fica, por ora, encerrada pela decisão policial. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Polizei weist Anzeige gegen Kim Hyun-ji wegen fehlender Beweise ab",
+        "excerpt": "Die Polizei in Yongsan, Seoul, teilte am 8. mit, sie habe im vergangenen Monat eine Anzeige einer Bürgergruppe gegen Kim Hyun-ji wegen nicht offengelegter Angaben zu Alter und Ausbildung abgewiesen.",
+        "body": "Die Polizeistation Yongsan in Seoul teilte am 8. mit, sie habe im vergangenen Monat eine Anzeige einer Bürgergruppe gegen Kim Hyun-ji, erste Sekretärin im Präsidialamt, abgewiesen. In der Anzeige hieß es, Kim habe ihre Befugnisse missbraucht, indem sie persönliche Informationen wie Alter und Bildungsweg nicht offengelegt habe. Die Polizei kam Berichten zufolge zu dem Schluss, dass es nicht genügend Beweise zur Untermauerung des Vorwurfs gebe, und schloss den Fall. Damit wird die Anzeige nicht in eine weitere Ermittlungsphase übergehen. Die Kontroverse um die Offenlegung von Kims persönlichen Daten ist durch die Entscheidung der Polizei vorerst beendet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Plainte contre Kim Hyun-ji rejetée par la police faute de preuves",
+        "excerpt": "La police de Yongsan à Séoul a indiqué le 8 avoir rejeté le mois dernier une plainte d’un groupe civique accusant Kim Hyun-ji d’abus de pouvoir pour non-divulgation de son âge et de ses études.",
+        "body": "La police de Yongsan à Séoul a indiqué le 8 avoir rejeté le mois dernier une plainte déposée par un groupe civique contre Kim Hyun-ji, première secrétaire adjointe du bureau présidentiel. La plainte affirmait que Kim avait abusé de son autorité en ne divulguant pas des informations personnelles telles que son âge et son parcours scolaire. La police aurait estimé que les preuves étaient insuffisantes pour établir les soupçons et a clos le dossier. Cette décision signifie que la plainte ne passera pas à une nouvelle étape d’enquête. La controverse sur la divulgation des informations personnelles de Kim semble donc provisoirement close par la décision policière. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الشرطة ترفض بلاغا ضد كيم هيون-جي بسبب نقص أدلة إساءة السلطة",
+        "excerpt": "قالت شرطة يونغسان في سول في الثامن إنها رفضت الشهر الماضي بلاغا من جماعة مدنية ضد كيم هيون-جي لعدم كشفها معلومات شخصية مثل العمر والمؤهل الدراسي، بدعوى إساءة استخدام السلطة.",
+        "body": "قالت شرطة يونغسان في سول في الثامن إنها رفضت الشهر الماضي بلاغا قدمته جماعة مدنية ضد كيم هيون-جي، رئيسة المكتب الملحق الأول في المكتب الرئاسي. وكان البلاغ يفيد بأنها ارتكبت إساءة استخدام للسلطة لأنها لم تكشف معلومات شخصية مثل العمر والخلفية التعليمية. وخلصت الشرطة، بحسب ما نقل، إلى أن الأدلة غير كافية لإثبات الشبهة، وأنهت القضية. وبذلك لن ينتقل البلاغ إلى مرحلة تحقيق إضافية. ويبدو أن الجدل بشأن كشف المعلومات الشخصية لكيم قد توقف مؤقتا بعد قرار الشرطة بالرفض. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "किम ह्यून-जी के खिलाफ शिकायत खारिज, पुलिस ने सबूतों की कमी बताई",
+        "excerpt": "सियोल योंगसान पुलिस ने 8 तारीख को कहा कि उसने पिछले महीने किम ह्यून-जी के खिलाफ नागरिक समूह की शिकायत खारिज की, जिसमें उम्र और शिक्षा जैसी निजी जानकारी न बताने को अधिकार दुरुपयोग कहा गया था।",
+        "body": "सियोल योंगसान पुलिस ने 8 तारीख को बताया कि उसने पिछले महीने राष्ट्रपति कार्यालय की प्रथम सहायक कार्यालय प्रमुख किम ह्यून-जी के खिलाफ नागरिक समूह की शिकायत खारिज कर दी। शिकायत में कहा गया था कि किम ने अपनी उम्र और शैक्षणिक पृष्ठभूमि जैसी निजी जानकारी सार्वजनिक नहीं की, इसलिए यह अधिकारों के दुरुपयोग के समान है। पुलिस ने माना कि आरोप साबित करने के लिए पर्याप्त सबूत नहीं हैं और मामला बंद कर दिया गया। इस फैसले के बाद शिकायत आगे की जांच प्रक्रिया में नहीं जाएगी। किम की निजी जानकारी सार्वजनिक करने को लेकर विवाद फिलहाल पुलिस के खारिज करने के निर्णय के साथ थमता दिख रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Polisi Tolak Aduan terhadap Kim Hyun-ji karena Bukti Tidak Cukup",
+        "excerpt": "Polisi Yongsan Seoul menyatakan pada tanggal 8 bahwa mereka menolak bulan lalu aduan kelompok sipil terhadap Kim Hyun-ji yang menuding penyalahgunaan wewenang karena tidak membuka usia dan pendidikan.",
+        "body": "Polisi Yongsan Seoul menyatakan pada tanggal 8 bahwa mereka telah menolak bulan lalu aduan kelompok sipil terhadap Kim Hyun-ji, kepala kantor pendamping pertama di kantor kepresidenan. Aduan itu menyebut Kim diduga menyalahgunakan wewenang karena tidak mengungkap informasi pribadi seperti usia dan latar pendidikan. Polisi disebut menilai bukti untuk membuktikan dugaan tersebut tidak mencukupi dan menutup perkara. Dengan keputusan ini, aduan tersebut tidak akan berlanjut ke tahap penyelidikan lebih lanjut. Polemik mengenai pengungkapan informasi pribadi Kim untuk sementara mereda setelah keputusan penolakan oleh polisi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "da4f688438e6",
     "slug": "중국-가는-트럼프-엔비디아애플엑손보잉-ceo에-동행-초청-677363",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Apartemen Heukseok-dong Disorot sebagai Kawasan Mahal Tanpa Hype",
         "excerpt": "‘N-Eok House’ oleh reporter properti Maeil Business Lee Seok-hee meninjau apartemen lama di Heukseok-dong dalam berbagai rentang harga untuk membantu pembeli nyata.",
         "body": "‘N-Eok House’, konten yang dibawakan Lee Seok-hee dari divisi properti Maeil Business, membahas Heukseok-dong dengan meninjau dan memperkenalkan apartemen lama dalam berbagai rentang harga. Konten ini ditujukan bagi pembeli nyata yang sedang mempertimbangkan banyak pilihan apartemen sebelum membeli rumah. Dalam judul, Heukseok-dong digambarkan sebagai kawasan mahal tanpa perlu penjelasan yang dipaksakan. Formatnya lebih menekankan pengecekan langsung di lapangan dan informasi praktis untuk memilih hunian daripada klaim pasar yang luas. Pembeli perlu membandingkan rentang harga dan kondisi kompleks lama di area yang sama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a78cc4493c84",
-    "slug": "속보-ns쇼핑-홈플러스-익스프레스-영업권-인수-본계약-체결-319666",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T10:25:15.421Z",
-    "updatedAt": "2026-05-07T10:25:15.421Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039582",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039582",
-    "titleFingerprint": "a3071c578426a6d11dac4b2649d6e7cf6f502cf6",
-    "dedupKeys": [
-      "a78cc4493c845f1e1e2ce39ff542179e69de412a",
-      "a3071c578426a6d11dac4b2649d6e7cf6f502cf6",
-      "1c7d0419845a45a79ebb86cb03854405e748387b"
-    ],
-    "imageUrl": "/images/articles/a78cc4493c84.jpg",
-    "i18n": {
-      "ko": {
-        "title": "NS쇼핑, 홈플러스 익스프레스 영업권 본계약 체결…1206억원 현금 거래로 매각 진전",
-        "excerpt": "NS쇼핑은 2026년 5월 7일 홈플러스 슈퍼사업부문인 홈플러스 익스프레스 영업권 인수를 위한 본계약을 체결하며 매각 절차를 공식화했다.",
-        "body": "NS쇼핑은 2026년 5월 7일 오후 홈플러스의 슈퍼사업부문인 홈플러스 익스프레스 영업권을 인수하기 위한 본계약을 체결했다. 이번 계약은 홈플러스 익스프레스 영업권을 NS쇼핑에 넘기는 영업양도계약 형태로 진행됐다. 관련 보도에 따르면 홈플러스 익스프레스의 재무상태는 총자산 약 3170억원, 순자산 약 1460억원이며, 홈플러스는 일부 채무를 NS쇼핑이 승계하는 조건으로 현금 1206억원을 받는 것으로 알려졌다. 홈플러스는 이번 매각을 정상화 과정의 의미 있는 진전으로 보고 있으며, 매각대금 유입 전까지 운영자금과 추가 유동성 확보가 필요한 상황이라고 설명했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "NS Shopping signs Homeplus Express rights deal, advancing sale with 120.6 billion won cash payment",
-        "excerpt": "NS Shopping signed a main contract on May 7, 2026 to acquire the business rights of Homeplus Express, formalizing a key step in the sale process.",
-        "body": "NS Shopping signed a main contract on the afternoon of May 7, 2026 to acquire the business rights of Homeplus Express, the supermarket division of Homeplus. The deal was structured as a business transfer agreement under which the Homeplus Express operating rights are transferred to NS Shopping. According to related reports, Homeplus Express has total assets of about 317 billion won and net assets of about 146 billion won. Homeplus is reportedly set to receive 120.6 billion won in cash, with NS Shopping assuming part of the liabilities. Homeplus described the sale as a meaningful step in its normalization process, while noting that operating funds and additional liquidity are needed until the proceeds are received. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "NSショッピング、ホームプラス・エクスプレス営業権の本契約締結…1206億ウォン現金取引で売却進展",
-        "excerpt": "NSショッピングは2026年5月7日、ホームプラスのスーパー事業部門であるホームプラス・エクスプレスの営業権取得に向けた本契約を結んだ。",
-        "body": "NSショッピングは2026年5月7日午後、ホームプラスのスーパー事業部門であるホームプラス・エクスプレスの営業権を取得するための本契約を締結した。今回の契約は、ホームプラス・エクスプレスの営業権をNSショッピングに移す営業譲渡契約の形で進められた。関連報道によると、ホームプラス・エクスプレスの財務状況は総資産約3170億ウォン、純資産約1460億ウォンで、ホームプラスは一部債務をNSショッピングが承継する条件で現金1206億ウォンを受け取るとされる。ホームプラスは今回の売却を正常化過程における意味ある進展と見ており、売却代金が入るまで運転資金と追加流動性の確保が必要だと説明した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "NS Shopping签署Homeplus Express经营权收购正式合同，1206亿韩元现金交易推进出售",
-        "excerpt": "NS Shopping于2026年5月7日签署收购Homeplus超市业务部门Homeplus Express经营权的正式合同，出售程序正式推进。",
-        "body": "NS Shopping于2026年5月7日下午签署正式合同，收购Homeplus旗下超市业务部门Homeplus Express的经营权。此次交易以营业转让合同形式推进，即将Homeplus Express经营权转让给NS Shopping。相关报道称，Homeplus Express目前总资产约3170亿韩元，净资产约1460亿韩元；在NS Shopping承接部分债务的条件下，Homeplus将获得1206亿韩元现金。Homeplus认为，此次出售是其正常化进程中的重要进展，同时说明在出售款到账前，仍需要确保运营资金和追加流动性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "NS Shopping firma contrato por derechos de Homeplus Express y avanza venta con 120.600 millones de wones",
-        "excerpt": "NS Shopping firmó el 7 de mayo de 2026 el contrato principal para adquirir los derechos de Homeplus Express, la división de supermercados de Homeplus.",
-        "body": "NS Shopping firmó en la tarde del 7 de mayo de 2026 el contrato principal para adquirir los derechos de negocio de Homeplus Express, la división de supermercados de Homeplus. La operación se estructuró como un acuerdo de transferencia de negocio por el que esos derechos pasan a NS Shopping. Según reportes relacionados, Homeplus Express tiene activos totales de unos 317.000 millones de wones y activos netos de unos 146.000 millones. Homeplus recibiría 120.600 millones de wones en efectivo, bajo la condición de que NS Shopping asuma parte de las deudas. Homeplus considera la venta un avance significativo en su proceso de normalización, aunque explicó que necesita fondos operativos y liquidez adicional hasta recibir el pago. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "NS Shopping assina contrato pelos direitos da Homeplus Express e avança venda com 120,6 bi de won",
-        "excerpt": "A NS Shopping assinou em 7 de maio de 2026 o contrato principal para adquirir os direitos da Homeplus Express, divisão de supermercados da Homeplus.",
-        "body": "A NS Shopping assinou na tarde de 7 de maio de 2026 o contrato principal para adquirir os direitos de operação da Homeplus Express, divisão de supermercados da Homeplus. O acordo foi estruturado como uma transferência de negócio, pela qual os direitos da Homeplus Express passam para a NS Shopping. Segundo relatos relacionados, a Homeplus Express tem ativos totais de cerca de 317 bilhões de won e patrimônio líquido de cerca de 146 bilhões de won. A Homeplus deve receber 120,6 bilhões de won em dinheiro, com a NS Shopping assumindo parte das dívidas. A Homeplus vê a venda como um avanço relevante em seu processo de normalização, mas afirmou que ainda precisa de capital operacional e liquidez adicional até a entrada dos recursos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "NS Shopping unterzeichnet Vertrag für Homeplus-Express-Rechte und bringt Verkauf mit 120,6 Mrd. Won voran",
-        "excerpt": "NS Shopping hat am 7. Mai 2026 den Hauptvertrag zur Übernahme der Geschäftsrechte von Homeplus Express, der Supermarktsparte von Homeplus, geschlossen.",
-        "body": "NS Shopping hat am Nachmittag des 7. Mai 2026 den Hauptvertrag zur Übernahme der Geschäftsrechte von Homeplus Express, der Supermarktsparte von Homeplus, unterzeichnet. Die Transaktion wurde als Geschäftsübertragungsvertrag strukturiert, durch den die Rechte von Homeplus Express an NS Shopping übertragen werden. Laut entsprechenden Berichten verfügt Homeplus Express über Gesamtvermögen von rund 317 Milliarden Won und Nettovermögen von rund 146 Milliarden Won. Homeplus soll 120,6 Milliarden Won in bar erhalten, wobei NS Shopping einen Teil der Verbindlichkeiten übernimmt. Homeplus bewertet den Verkauf als wichtigen Fortschritt im Normalisierungsprozess, erklärte jedoch, bis zum Zahlungseingang seien Betriebsmittel und zusätzliche Liquidität erforderlich. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "NS Shopping signe le contrat pour les droits de Homeplus Express, vente avancée avec 120,6 mds de wons",
-        "excerpt": "NS Shopping a signé le 7 mai 2026 le contrat principal pour acquérir les droits de Homeplus Express, la division supermarchés de Homeplus.",
-        "body": "NS Shopping a signé dans l’après-midi du 7 mai 2026 le contrat principal visant à acquérir les droits d’exploitation de Homeplus Express, la division supermarchés de Homeplus. L’opération prend la forme d’un contrat de transfert d’activité, par lequel les droits de Homeplus Express sont cédés à NS Shopping. Selon des informations connexes, Homeplus Express affiche environ 317 milliards de wons d’actifs totaux et 146 milliards de wons d’actifs nets. Homeplus devrait recevoir 120,6 milliards de wons en espèces, sous réserve de la reprise d’une partie des dettes par NS Shopping. Homeplus considère cette vente comme une avancée importante dans son processus de normalisation, tout en précisant qu’il lui faut des fonds d’exploitation et des liquidités supplémentaires avant l’encaissement du produit de cession. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "NS Shopping توقع عقد حقوق Homeplus Express وتدفع صفقة البيع قدما بقيمة 120.6 مليار وون نقدا",
-        "excerpt": "وقعت NS Shopping في 7 مايو 2026 العقد الرئيسي للاستحواذ على حقوق Homeplus Express، قسم السوبرماركت التابع لهوم بلس.",
-        "body": "وقعت NS Shopping بعد ظهر 7 مايو 2026 العقد الرئيسي للاستحواذ على حقوق تشغيل Homeplus Express، وهي وحدة السوبرماركت التابعة لشركة Homeplus. وجاءت الصفقة في صورة عقد نقل أعمال تنتقل بموجبه حقوق Homeplus Express إلى NS Shopping. ووفقا لتقارير ذات صلة، تبلغ أصول Homeplus Express الإجمالية نحو 317 مليار وون، وصافي أصولها نحو 146 مليار وون. ومن المعروف أن Homeplus ستحصل على 120.6 مليار وون نقدا، على أن تتحمل NS Shopping جزءا من الديون. ووصفت Homeplus عملية البيع بأنها تقدم مهم في مسار التطبيع، لكنها أوضحت أنها تحتاج إلى أموال تشغيلية وسيولة إضافية إلى حين دخول حصيلة البيع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "NS Shopping ने Homeplus Express अधिकारों का मुख्य करार किया, 120.6 अरब वॉन नकद सौदे से बिक्री आगे बढ़ी",
-        "excerpt": "NS Shopping ने 7 मई 2026 को Homeplus की सुपरमार्केट इकाई Homeplus Express के कारोबारी अधिकार खरीदने के लिए मुख्य अनुबंध किया।",
-        "body": "NS Shopping ने 7 मई 2026 की दोपहर Homeplus की सुपरमार्केट इकाई Homeplus Express के कारोबारी अधिकारों को खरीदने के लिए मुख्य अनुबंध पर हस्ताक्षर किए। यह सौदा व्यवसाय हस्तांतरण समझौते के रूप में किया गया, जिसके तहत Homeplus Express के अधिकार NS Shopping को सौंपे जाएंगे। संबंधित रिपोर्टों के अनुसार Homeplus Express की कुल संपत्ति लगभग 317 अरब वॉन और शुद्ध संपत्ति लगभग 146 अरब वॉन है। बताया गया है कि Homeplus को 120.6 अरब वॉन नकद मिलेंगे, जबकि NS Shopping कुछ देनदारियां अपने ऊपर लेगी। Homeplus ने इस बिक्री को सामान्यीकरण प्रक्रिया में महत्वपूर्ण प्रगति बताया, लेकिन कहा कि बिक्री राशि मिलने तक संचालन पूंजी और अतिरिक्त तरलता की जरूरत बनी रहेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "NS Shopping teken kontrak hak Homeplus Express, penjualan maju dengan transaksi tunai 120,6 miliar won",
-        "excerpt": "NS Shopping pada 7 Mei 2026 menandatangani kontrak utama untuk mengambil alih hak usaha Homeplus Express, divisi supermarket milik Homeplus.",
-        "body": "NS Shopping pada sore 7 Mei 2026 menandatangani kontrak utama untuk mengambil alih hak usaha Homeplus Express, divisi supermarket milik Homeplus. Kesepakatan ini dilakukan dalam bentuk perjanjian pengalihan usaha, dengan hak Homeplus Express dialihkan kepada NS Shopping. Menurut laporan terkait, Homeplus Express memiliki total aset sekitar 317 miliar won dan aset bersih sekitar 146 miliar won. Homeplus disebut akan menerima uang tunai 120,6 miliar won, dengan sebagian kewajiban diambil alih oleh NS Shopping. Homeplus menilai penjualan ini sebagai kemajuan berarti dalam proses normalisasi, tetapi menjelaskan bahwa dana operasional dan likuiditas tambahan masih diperlukan hingga dana hasil penjualan masuk. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4b29d720157f",
-    "slug": "성남포천안산-채무-제로-도시로-간다-845352",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T10:24:09.197Z",
-    "updatedAt": "2026-05-07T10:24:09.197Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12039583",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12039583",
-    "titleFingerprint": "06fa716a3204d63be8b532a8766243da2ddc6d64",
-    "dedupKeys": [
-      "4b29d720157f931462bd8c86f5303842dbff415b",
-      "06fa716a3204d63be8b532a8766243da2ddc6d64",
-      "9f9d03408a0cca006f0e9e07f440b898f0fe6244"
-    ],
-    "imageUrl": "/images/articles/4b29d720157f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "성남·포천·안산, ‘채무 제로’ 경쟁 본격화…경기도 재정 건전성 주목",
-        "excerpt": "경기도 성남·포천·안산 등 주요 지자체가 잇달아 ‘채무 제로’를 선언하거나 대규모 부채 감축에 나서며 지방재정 건전성 경쟁이 확산되고 있다.",
-        "body": "경기도 주요 지자체들이 지방채를 줄이고 미래 재정 부담을 낮추기 위해 ‘채무 제로’ 도시를 목표로 움직이고 있다. 성남·포천·안산 등은 잇달아 채무 제로를 선언하거나 대규모 부채 감축에 나서며 지방정부 간 재정 건전성 경쟁을 본격화하고 있다. 이번 흐름은 지방채 축소를 통해 향후 재정 운용 여력을 확보하려는 움직임으로 풀이된다. 채무 부담이 줄면 투자와 행정서비스 운영에서 부담을 덜 수 있다는 점에서 다른 지자체에도 영향을 줄 수 있다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Seongnam, Pocheon and Ansan Push for Zero Debt as Fiscal Health Race Grows",
-        "excerpt": "Major local governments in Gyeonggi Province, including Seongnam, Pocheon and Ansan, are declaring zero debt or cutting liabilities to strengthen fiscal soundness.",
-        "body": "Major local governments in Gyeonggi Province are moving toward becoming “zero-debt” cities by reducing municipal bonds and easing future fiscal burdens. Seongnam, Pocheon and Ansan have either declared zero debt or begun large-scale debt reduction, signaling a growing competition among local governments over fiscal soundness. The trend is understood as an effort to secure greater flexibility in future budget management by cutting local bond obligations. Lower debt could reduce pressure on investment and public service operations, potentially influencing other municipalities. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "城南・抱川・安山が「債務ゼロ」へ、京畿道の財政健全化競争が本格化",
-        "excerpt": "京畿道の城南・抱川・安山など主要自治体が相次いで「債務ゼロ」を宣言、または大規模な債務削減に乗り出し、財政健全性競争が広がっている。",
-        "body": "京畿道の主要自治体が地方債を減らし、将来の財政負担を抑えるために「債務ゼロ」都市を目指して動いている。城南・抱川・安山などは相次いで債務ゼロを宣言するか、大規模な債務削減に着手し、地方政府間の財政健全性競争が本格化している。今回の流れは、地方債の縮小を通じて今後の財政運営の余力を確保しようとする動きとみられる。債務負担が減れば、投資や行政サービス運営の負担軽減につながる可能性があり、他の自治体にも影響を与え得る。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "城南、抱川、安山迈向“零债务”城市，京畿道财政健康竞争升温",
-        "excerpt": "京畿道城南、抱川、安山等主要地方政府相继宣布“零债务”或启动大规模债务削减，地方财政健康竞争正在扩大。",
-        "body": "京畿道主要地方政府正通过减少地方债、降低未来财政负担，推动建设“零债务”城市。城南、抱川、安山等地相继宣布零债务，或开始大规模削减债务，使地方政府之间的财政健康竞争正式升温。这一趋势被视为通过缩减地方债务，为今后的财政运作争取更大空间。若债务负担下降，投资和行政服务运营压力也可能减轻，并可能对其他地方政府产生影响。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Seongnam, Pocheon y Ansan avanzan hacia deuda cero y elevan la competencia fiscal",
-        "excerpt": "Gobiernos locales clave de Gyeonggi, como Seongnam, Pocheon y Ansan, declaran deuda cero o reducen pasivos para reforzar la solidez fiscal municipal.",
-        "body": "Varios gobiernos locales importantes de la provincia de Gyeonggi avanzan hacia el objetivo de convertirse en ciudades de “deuda cero” mediante la reducción de bonos municipales y de cargas fiscales futuras. Seongnam, Pocheon y Ansan han declarado deuda cero o han iniciado recortes de deuda a gran escala, dando impulso a una competencia por la solidez fiscal entre gobiernos locales. La tendencia se interpreta como un esfuerzo por asegurar mayor margen de gestión presupuestaria futura mediante la reducción de deuda local. Una menor carga podría aliviar la inversión y la operación de servicios públicos, e influir en otros municipios. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Seongnam, Pocheon e Ansan buscam dívida zero e acirram disputa fiscal local",
-        "excerpt": "Governos locais de Gyeonggi, incluindo Seongnam, Pocheon e Ansan, declaram dívida zero ou fazem cortes amplos para fortalecer a saúde fiscal municipal.",
-        "body": "Importantes governos locais da província de Gyeonggi estão avançando para se tornar cidades de “dívida zero”, reduzindo títulos municipais e o peso fiscal futuro. Seongnam, Pocheon e Ansan declararam dívida zero ou iniciaram reduções de dívida em larga escala, intensificando a competição por solidez fiscal entre administrações locais. O movimento é visto como uma tentativa de garantir maior flexibilidade na gestão orçamentária futura por meio da diminuição da dívida local. Com menor carga de endividamento, investimentos e serviços administrativos podem operar com menos pressão, o que também pode influenciar outros municípios. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Seongnam, Pocheon und Ansan streben Nullschulden an: Fiskalwettbewerb in Gyeonggi",
-        "excerpt": "Wichtige Kommunen in Gyeonggi, darunter Seongnam, Pocheon und Ansan, erklären Nullschulden oder bauen Schulden ab, um ihre Finanzstabilität zu stärken.",
-        "body": "Wichtige Kommunen in der Provinz Gyeonggi bewegen sich auf das Ziel zu, „Nullschulden“-Städte zu werden, indem sie Kommunalanleihen reduzieren und künftige Haushaltslasten senken. Seongnam, Pocheon und Ansan haben entweder Nullschulden erklärt oder umfangreiche Schuldensenkungen eingeleitet. Damit gewinnt der Wettbewerb um fiskalische Solidität zwischen Lokalregierungen an Fahrt. Der Trend gilt als Versuch, durch weniger lokale Verschuldung mehr Spielraum für künftige Haushaltsführung zu sichern. Sinkende Schuldenlasten könnten Investitionen und Verwaltungsdienste entlasten und auch andere Kommunen beeinflussen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Seongnam, Pocheon et Ansan visent la dette zéro, la discipline budgétaire s’intensifie",
-        "excerpt": "Dans le Gyeonggi, Seongnam, Pocheon et Ansan déclarent la dette zéro ou réduisent fortement leurs passifs afin de renforcer la santé financière locale.",
-        "body": "Plusieurs grandes collectivités de la province de Gyeonggi avancent vers l’objectif de devenir des villes à “dette zéro” en réduisant les obligations locales et les charges budgétaires futures. Seongnam, Pocheon et Ansan ont déclaré la dette zéro ou lancé de vastes réductions d’endettement, ce qui marque l’intensification d’une concurrence sur la solidité financière entre administrations locales. Cette tendance est comprise comme une volonté de préserver une marge de manœuvre budgétaire future grâce à la baisse de la dette locale. Une dette plus faible pourrait alléger la pression sur l’investissement et les services administratifs, avec un possible effet sur d’autres collectivités. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "سيونغنام وبوتشيون وأنسان تتجه نحو صفر ديون مع تصاعد سباق السلامة المالية",
-        "excerpt": "تعلن حكومات محلية رئيسية في مقاطعة غيونغي، بينها سيونغنام وبوتشيون وأنسان، صفر ديون أو تخفض التزامات كبيرة لتعزيز المتانة المالية.",
-        "body": "تتحرك حكومات محلية رئيسية في مقاطعة غيونغي نحو هدف التحول إلى مدن “بلا ديون” عبر خفض السندات المحلية وتقليل الأعباء المالية المستقبلية. فقد أعلنت سيونغنام وبوتشيون وأنسان صفر ديون أو بدأت خفضا واسعا للمديونية، ما يشير إلى بدء منافسة أوضح بين الحكومات المحلية على السلامة المالية. ويُفهم هذا الاتجاه باعتباره سعيا لتأمين مرونة أكبر في إدارة المالية مستقبلا من خلال تقليص الدين المحلي. ومع انخفاض عبء الديون، قد تتراجع الضغوط على الاستثمار وتشغيل الخدمات الإدارية، وقد يمتد الأثر إلى بلديات أخرى. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "सियोंगनाम, पोचेन और अन्सान शून्य कर्ज की ओर, ग्योंगी में वित्तीय मजबूती की होड़",
-        "excerpt": "ग्योंगी प्रांत के सियोंगनाम, पोचेन और अन्सान जैसे प्रमुख स्थानीय निकाय शून्य कर्ज की घोषणा या बड़े कर्ज कटौती कदमों से वित्तीय मजबूती बढ़ा रहे हैं।",
-        "body": "ग्योंगी प्रांत के प्रमुख स्थानीय निकाय स्थानीय बॉन्ड घटाकर और भविष्य का वित्तीय बोझ कम करके “शून्य कर्ज” शहर बनने की दिशा में बढ़ रहे हैं। सियोंगनाम, पोचेन और अन्सान ने शून्य कर्ज की घोषणा की है या बड़े पैमाने पर कर्ज कटौती शुरू की है, जिससे स्थानीय सरकारों के बीच वित्तीय मजबूती की प्रतिस्पर्धा तेज हो रही है। यह रुझान स्थानीय कर्ज घटाकर भविष्य के बजट संचालन में अधिक गुंजाइश बनाने की कोशिश के रूप में देखा जा रहा है। कर्ज का बोझ कम होने पर निवेश और प्रशासनिक सेवाओं के संचालन पर दबाव घट सकता है और इसका असर अन्य स्थानीय निकायों पर भी पड़ सकता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Seongnam, Pocheon, dan Ansan Menuju Nol Utang, Kompetisi Fiskal Gyeonggi Menguat",
-        "excerpt": "Pemerintah lokal utama di Gyeonggi, termasuk Seongnam, Pocheon, dan Ansan, menyatakan nol utang atau memangkas kewajiban besar demi kesehatan fiskal.",
-        "body": "Sejumlah pemerintah lokal utama di Provinsi Gyeonggi bergerak menuju target menjadi kota “nol utang” dengan mengurangi obligasi daerah dan menekan beban fiskal masa depan. Seongnam, Pocheon, dan Ansan telah menyatakan nol utang atau memulai pengurangan utang berskala besar, menandai menguatnya persaingan kesehatan fiskal antar pemerintah daerah. Tren ini dipahami sebagai upaya memperoleh ruang lebih besar dalam pengelolaan anggaran ke depan melalui penurunan utang daerah. Jika beban utang berkurang, tekanan pada investasi dan layanan administrasi dapat menurun, sekaligus berpotensi memengaruhi daerah lain. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "1799dc7faad0",
-    "slug": "인천-교통카드-i패스-40만-돌파-8월엔-중고생도-혜택-442526",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T10:23:06.042Z",
-    "updatedAt": "2026-05-07T10:23:06.042Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12039584",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12039584",
-    "titleFingerprint": "1da226e61572042c875851d97517ba48fe67ec50",
-    "dedupKeys": [
-      "1799dc7faad05ae6b2f497b382827300e4baa6c8",
-      "1da226e61572042c875851d97517ba48fe67ec50",
-      "04c81ab51473c764c3f82cabcf978366af96808f"
-    ],
-    "imageUrl": "/images/articles/1799dc7faad0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천 i패스 가입자 40만명 돌파, 8월 중·고생 혜택 확대 주목",
-        "excerpt": "인천시 무제한 할인 교통카드 ‘인천 i패스’ 가입자가 도입 2년 만에 40만명을 넘어서며 지역 대중교통 실수요자 약 47%가 이용하는 핵심 교통 혜택으로 자리 잡았다.",
-        "body": "인천시의 무제한 할인 교통카드인 ‘인천 i패스’ 가입자가 도입 2년 만에 처음으로 40만명을 돌파했다. 인천지역 대중교통 실수요자의 약 47%가 이 카드에 가입한 것으로 집계됐다. ‘인천 i패스’는 대중교통 이용 부담을 낮추기 위한 지역 교통 할인 정책으로, 가입 규모가 40만명을 넘어서며 실수요자 중심의 이용 기반을 넓히고 있다. 특히 8월에는 중·고생도 혜택을 받을 예정이어서 가입자 확대와 교통비 절감 효과가 이어질지 주목된다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Incheon i-Pass Tops 400,000 Users as Student Benefits Come in August",
-        "excerpt": "Incheon’s unlimited-discount transit card, the Incheon i-Pass, surpassed 400,000 subscribers two years after launch, covering about 47% of actual public transport users in the city.",
-        "body": "Incheon’s unlimited-discount transit card, the Incheon i-Pass, has surpassed 400,000 subscribers for the first time two years after its launch. About 47% of actual public transport users in the Incheon area are now signed up for the card. The Incheon i-Pass is a local transit discount policy designed to reduce the burden of public transportation costs, and its user base has expanded as subscriptions passed the 400,000 mark. Benefits are also scheduled to extend to middle and high school students in August, drawing attention to whether enrollment and fare-saving effects will continue to grow. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "仁川iパス加入者40万人突破、8月から中高生にも特典拡大へ",
-        "excerpt": "仁川市の無制限割引交通カード「仁川iパス」の加入者が導入から2年で40万人を超え、地域の公共交通実利用者の約47%が加入した。",
-        "body": "仁川市の無制限割引交通カード「仁川iパス」の加入者が、導入から2年で初めて40万人を突破した。仁川地域の公共交通実利用者の約47%がこのカードに加入していると集計された。「仁川iパス」は公共交通利用の負担を軽減するための地域交通割引政策で、加入規模が40万人を超えたことで、実利用者を中心に利用基盤を広げている。特に8月には中高生も特典を受けられる予定で、加入者拡大と交通費節減効果が続くか注目される。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "仁川i-Pass用户突破40万，8月起初高中生也将享受优惠",
-        "excerpt": "仁川市无限折扣交通卡“仁川i-Pass”推出两年后用户首次突破40万人，约占当地公共交通实际使用者的47%。",
-        "body": "仁川市的无限折扣交通卡“仁川i-Pass”在推出两年后，用户首次突破40万人。据统计，仁川地区公共交通实际使用者中约47%已加入该卡。“仁川i-Pass”是为降低市民公共交通使用负担而推出的地方交通优惠政策，随着 가입规模超过40万人，其以实际通勤和出行需求为中心的使用基础正在扩大。尤其从8月起，初中和高中学生也将纳入优惠范围，因此用户是否继续增加、交通费减负效果是否延续受到关注。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Incheon i-Pass supera 400.000 usuarios y ampliará beneficios a estudiantes",
-        "excerpt": "La tarjeta de transporte con descuentos ilimitados Incheon i-Pass superó los 400.000 inscritos dos años después de su lanzamiento, cerca del 47% de los usuarios reales del transporte público local.",
-        "body": "La tarjeta de transporte con descuentos ilimitados de la ciudad de Incheon, Incheon i-Pass, superó por primera vez los 400.000 inscritos dos años después de su introducción. Alrededor del 47% de los usuarios reales del transporte público en Incheon está registrado en la tarjeta. Incheon i-Pass es una política local de descuento destinada a reducir la carga del gasto en transporte público, y su base de uso se ha ampliado al superar los 400.000 afiliados. En agosto, los estudiantes de secundaria y bachillerato también podrán recibir beneficios, por lo que se observará si continúan el aumento de usuarios y el efecto de ahorro en tarifas. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Incheon i-Pass passa de 400 mil usuários e terá benefício a estudantes",
-        "excerpt": "O cartão de transporte com desconto ilimitado Incheon i-Pass superou 400 mil inscritos dois anos após o lançamento, alcançando cerca de 47% dos usuários reais do transporte público local.",
-        "body": "O cartão de transporte com desconto ilimitado da cidade de Incheon, o Incheon i-Pass, ultrapassou pela primeira vez 400 mil inscritos dois anos após sua introdução. Cerca de 47% dos usuários reais do transporte público na região de Incheon já aderiram ao cartão. O Incheon i-Pass é uma política local de desconto criada para reduzir o peso dos custos de transporte público, e sua base de usuários se ampliou com a marca de 400 mil adesões. Em agosto, estudantes do ensino fundamental II e médio também deverão receber benefícios, o que chama atenção para a continuidade do crescimento de inscritos e da economia em tarifas. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Incheon i-Pass überschreitet 400.000 Nutzer, Schüler profitieren ab August",
-        "excerpt": "Die unbegrenzt rabattierte Verkehrskarte Incheon i-Pass hat zwei Jahre nach Einführung mehr als 400.000 Abonnenten erreicht, rund 47% der tatsächlichen ÖPNV-Nutzer in Incheon.",
-        "body": "Die unbegrenzt rabattierte Verkehrskarte der Stadt Incheon, der Incheon i-Pass, hat zwei Jahre nach ihrer Einführung erstmals mehr als 400.000 Abonnenten erreicht. Rund 47% der tatsächlichen Nutzer des öffentlichen Verkehrs in der Region Incheon sind für die Karte registriert. Der Incheon i-Pass ist eine lokale Rabattpolitik, die die Belastung durch öffentliche Verkehrskosten senken soll, und seine Nutzerbasis wächst mit dem Überschreiten der Marke von 400.000. Ab August sollen auch Mittel- und Oberschüler Vorteile erhalten, weshalb beobachtet wird, ob sich die Zunahme der Nutzer und die Entlastung bei Fahrkosten fortsetzen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Incheon i-Pass dépasse 400.000 usagers, avantage étendu aux élèves en août",
-        "excerpt": "La carte de transport à réduction illimitée Incheon i-Pass a dépassé 400.000 inscrits deux ans après son lancement, soit environ 47% des usagers réels des transports publics locaux.",
-        "body": "La carte de transport à réduction illimitée de la ville d’Incheon, Incheon i-Pass, a dépassé pour la première fois les 400.000 inscrits deux ans après son lancement. Environ 47% des usagers réels des transports publics dans la région d’Incheon y sont désormais inscrits. Incheon i-Pass est une politique locale de réduction visant à alléger le coût des transports publics, et sa base d’utilisation s’est élargie avec le franchissement du seuil des 400.000 abonnés. En août, les collégiens et lycéens devraient aussi bénéficier du dispositif, ce qui attire l’attention sur la poursuite possible de la hausse des inscriptions et des économies de transport. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "بطاقة إنشيون i-Pass تتجاوز 400 ألف مشترك ومزايا للطلاب في أغسطس",
-        "excerpt": "تجاوز عدد مشتركي بطاقة النقل ذات الخصم غير المحدود في إنشيون i-Pass حاجز 400 ألف بعد عامين من إطلاقها، بما يعادل نحو 47% من مستخدمي النقل العام الفعليين في المدينة.",
-        "body": "تجاوز عدد مشتركي بطاقة النقل ذات الخصم غير المحدود في مدينة إنشيون، المعروفة باسم Incheon i-Pass، حاجز 400 ألف مشترك للمرة الأولى بعد عامين من إطلاقها. وتشير البيانات إلى أن نحو 47% من مستخدمي النقل العام الفعليين في منطقة إنشيون انضموا إلى البطاقة. وتعد Incheon i-Pass سياسة خصم محلية تهدف إلى تخفيف عبء تكاليف النقل العام، وقد وسعت قاعدة استخدامها مع تخطي عدد المشتركين 400 ألف. ومن المقرر أن تشمل المزايا طلاب المرحلتين المتوسطة والثانوية في أغسطس، ما يسلط الضوء على احتمال استمرار نمو الاشتراكات وأثر خفض تكاليف النقل. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "इंचियोन i-Pass 4 लाख पार, अगस्त से मिडिल-हाई स्कूल छात्रों को लाभ",
-        "excerpt": "इंचियोन की असीमित छूट वाली ट्रांजिट कार्ड सेवा Incheon i-Pass ने लॉन्च के दो साल बाद 4 लाख सदस्य पार किए, जो स्थानीय सार्वजनिक परिवहन के वास्तविक उपयोगकर्ताओं का करीब 47% है।",
-        "body": "इंचियोन शहर की असीमित छूट वाली परिवहन कार्ड सेवा Incheon i-Pass ने शुरुआत के दो साल बाद पहली बार 4 लाख सदस्यों का आंकड़ा पार किया है। इंचियोन क्षेत्र में सार्वजनिक परिवहन के वास्तविक उपयोगकर्ताओं में से करीब 47% इस कार्ड से जुड़ चुके हैं। Incheon i-Pass सार्वजनिक परिवहन खर्च का बोझ कम करने के लिए बनाई गई स्थानीय छूट नीति है, और 4 लाख से अधिक सदस्य होने के साथ इसका उपयोग आधार वास्तविक यात्रियों के बीच फैल रहा है। अगस्त से मिडिल और हाई स्कूल के छात्रों को भी लाभ मिलने की योजना है, जिससे सदस्यता वृद्धि और किराया बचत प्रभाव जारी रहेगा या नहीं, इस पर ध्यान रहेगा। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Incheon i-Pass Tembus 400 Ribu Pengguna, Siswa Dapat Manfaat Agustus",
-        "excerpt": "Kartu transportasi diskon tanpa batas Incheon i-Pass melampaui 400 ribu pendaftar dua tahun setelah diluncurkan, mencakup sekitar 47% pengguna riil transportasi publik di Incheon.",
-        "body": "Kartu transportasi diskon tanpa batas milik Kota Incheon, Incheon i-Pass, untuk pertama kalinya melampaui 400 ribu pendaftar dua tahun setelah diluncurkan. Sekitar 47% pengguna riil transportasi publik di wilayah Incheon tercatat telah bergabung dengan kartu ini. Incheon i-Pass merupakan kebijakan diskon transportasi lokal untuk mengurangi beban biaya transportasi publik, dan basis penggunaannya melebar setelah jumlah pendaftar melewati 400 ribu. Pada Agustus, siswa SMP dan SMA juga dijadwalkan menerima manfaat, sehingga perhatian tertuju pada apakah pertumbuhan pendaftar dan efek penghematan ongkos akan berlanjut. Sumber: mk.co.kr."
       }
     }
   }
