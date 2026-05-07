@@ -1,0 +1,75 @@
+{
+  "id": "703d02b04ea8",
+  "slug": "나라시-좀-잘-해봐-한-마디에공사판-베트남-노동자-눈빛-바뀐-이유-360213",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-07T11:54:52.298Z",
+  "updatedAt": "2026-05-07T11:54:52.298Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/it/12039826",
+  "canonicalUrl": "https://www.mk.co.kr/news/it/12039826",
+  "titleFingerprint": "da24f321c73c31c7e4a9eab805c5641a3db80d85",
+  "dedupKeys": [
+    "703d02b04ea80d2fb5542cd03639dff7de6989b9",
+    "da24f321c73c31c7e4a9eab805c5641a3db80d85",
+    "e19e02c3223ea706bf6f2cbd4669cf3a349bd188"
+  ],
+  "imageUrl": "/images/articles/703d02b04ea8.jpg",
+  "i18n": {
+    "ko": {
+      "title": "산업현장 AI 통번역, 공사장 외국인 노동자 안전 바꾼 하이로컬",
+      "excerpt": "윤정호 하이로컬 대표는 2026년 매일경제 인터뷰에서 건설·제조 현장 150여 곳을 돌며 외국인 노동자 안전을 위한 AI 통번역 솔루션을 개발했다고 밝혔다.",
+      "body": "윤정호 하이로컬 대표는 2026년 5월 매일경제 인터뷰에서 건설·제조 현장의 외국인 노동자 안전을 위해 산업현장 AI 통번역 솔루션을 개발했다고 밝혔다. 그는 안전모와 작업복을 착용하고 3개월 동안 전국 건설 현장과 제조 공장 150여 곳을 직접 다니며 현장 언어와 소음을 반영했다. 이 솔루션은 작업 전 안전점검회의에서 한국인 관리자의 지시를 베트남·캄보디아 등 노동자 스마트폰에 음성과 문자로 번역해 전달한다. ‘함마’ 같은 건설 은어도 40개국 이상 언어로 번역하도록 고도화됐다. 윤 대표는 소통 단절로 인한 인재를 줄이는 것이 개발 목적이라고 설명했다. 출처: mk.co.kr."
+    },
+    "en": {
+      "title": "Worksite AI Translation Puts Foreign Worker Safety at the Center",
+      "excerpt": "HiLocal CEO Jung-ho Yoon told Maeil Business Newspaper in 2026 that he developed an AI translation solution for foreign worker safety after visiting about 150 construction and manufacturing sites.",
+      "body": "HiLocal CEO Jung-ho Yoon said in a May 2026 Maeil Business Newspaper interview that the company developed an industrial AI translation solution to improve safety for foreign workers at construction and manufacturing sites. Wearing a helmet and work clothes himself, he spent three months visiting about 150 construction sites and factories nationwide to reflect field language and noise conditions. The solution translates Korean managers’ instructions during pre-work safety meetings into voice and text on workers’ smartphones, including Vietnamese and Cambodian. It has also been refined to translate construction slang such as “hamma,” a large hammer, into more than 40 languages. Yoon said the goal is to reduce accidents caused by communication breakdowns. Source: mk.co.kr."
+    },
+    "ja": {
+      "title": "産業現場AI通訳、外国人労働者の安全を変えるハイローカル",
+      "excerpt": "ハイローカルのユン・ジョンホ代表は2026年、毎日経済のインタビューで、建設・製造現場約150カ所を回り外国人労働者の安全向けAI通訳ソリューションを開発したと述べた。",
+      "body": "ハイローカルのユン・ジョンホ代表は2026年5月の毎日経済インタビューで、建設・製造現場の外国人労働者の安全のため、産業現場向けAI通訳ソリューションを開発したと明らかにした。代表自らヘルメットと作業服を着用し、3カ月間、全国の建設現場と製造工場約150カ所を回って、現場特有の言葉や騒音環境を反映した。このソリューションは作業前の安全点検会議で、韓国人管理者の指示をベトナムやカンボジアなどの労働者のスマートフォンに音声と文字で翻訳して伝える。「ハンマ」のような建設現場の隠語も40カ国語以上に翻訳できるよう高度化された。ユン代表は、意思疎通の断絶による人災を減らすことが開発目的だと説明した。出典: mk.co.kr."
+    },
+    "zh": {
+      "title": "工业现场AI翻译，HiLocal改变外籍工人安全沟通",
+      "excerpt": "HiLocal代表尹正浩在2026年接受《每日经济》采访时表示，他走访约150个建筑和制造现场，开发了面向外籍工人安全的AI翻译解决方案。",
+      "body": "HiLocal代表尹正浩在2026年5月接受《每日经济》采访时表示，公司为提高建筑和制造现场外籍工人的安全，开发了工业现场AI翻译解决方案。他亲自戴上安全帽、穿上工作服，用3个月走访韩国各地约150个建筑工地和制造工厂，将现场用语和噪声环境纳入开发。该方案可在开工前安全检查会议中，把韩国管理人员的指示以语音和文字形式翻译到越南、柬埔寨等工人的智能手机上。包括“hamma”（大锤）等建筑行话，也已优化为可翻译成40多个国家的语言。尹代表说明，开发目标是减少因沟通中断造成的人为事故。来源: mk.co.kr."
+    },
+    "es": {
+      "title": "Traducción con IA en obras: HiLocal apunta a la seguridad laboral",
+      "excerpt": "Jung-ho Yoon, CEO de HiLocal, dijo a Maeil Business Newspaper en 2026 que desarrolló una solución de traducción con IA para proteger a trabajadores extranjeros tras visitar unas 150 obras y fábricas.",
+      "body": "Jung-ho Yoon, CEO de HiLocal, afirmó en una entrevista de mayo de 2026 con Maeil Business Newspaper que la empresa desarrolló una solución de traducción con IA para mejorar la seguridad de trabajadores extranjeros en obras de construcción y plantas manufactureras. Con casco y ropa de trabajo, recorrió durante tres meses unas 150 obras y fábricas en todo el país para incorporar el lenguaje real del sitio y el ruido del entorno. La solución traduce las instrucciones de los supervisores coreanos en las reuniones de seguridad previas al trabajo y las envía como voz y texto a los teléfonos de trabajadores vietnamitas, camboyanos y de otros países. También fue mejorada para traducir jerga de obra como “hamma”, un martillo grande, a más de 40 idiomas. Yoon dijo que el objetivo es reducir accidentes causados por fallas de comunicación. Fuente: mk.co.kr."
+    },
+    "pt": {
+      "title": "IA de tradução em obras coloca segurança de estrangeiros no foco",
+      "excerpt": "Jung-ho Yoon, CEO da HiLocal, disse ao Maeil Business Newspaper em 2026 que desenvolveu uma solução de tradução por IA para trabalhadores estrangeiros após visitar cerca de 150 obras e fábricas.",
+      "body": "Jung-ho Yoon, CEO da HiLocal, afirmou em entrevista ao Maeil Business Newspaper em maio de 2026 que a empresa desenvolveu uma solução de tradução por IA para aumentar a segurança de trabalhadores estrangeiros em canteiros de obras e fábricas. Usando capacete e roupa de trabalho, ele passou três meses visitando cerca de 150 locais de construção e unidades industriais pelo país para refletir a linguagem do campo e o ruído do ambiente. A solução traduz as instruções de gestores coreanos em reuniões de segurança antes do trabalho e as envia em voz e texto aos smartphones de trabalhadores vietnamitas, cambojanos e de outras nacionalidades. Também foi aprimorada para traduzir gírias de obra como “hamma”, uma marreta, para mais de 40 idiomas. Yoon disse que o objetivo é reduzir acidentes causados por falhas de comunicação. Fonte: mk.co.kr."
+    },
+    "de": {
+      "title": "KI-Übersetzung auf Baustellen: HiLocal stärkt Arbeitssicherheit",
+      "excerpt": "HiLocal-CEO Jung-ho Yoon sagte 2026 der Maeil Business Newspaper, er habe nach Besuchen auf rund 150 Bau- und Produktionsstandorten eine KI-Übersetzungslösung für die Sicherheit ausländischer Arbeitskräfte entwickelt.",
+      "body": "HiLocal-CEO Jung-ho Yoon erklärte in einem Interview mit der Maeil Business Newspaper im Mai 2026, das Unternehmen habe eine industrielle KI-Übersetzungslösung entwickelt, um die Sicherheit ausländischer Arbeitskräfte auf Baustellen und in Produktionsbetrieben zu verbessern. Mit Schutzhelm und Arbeitskleidung besuchte er drei Monate lang landesweit rund 150 Baustellen und Fabriken, um Fachsprache vor Ort und Lärmumgebungen zu berücksichtigen. Die Lösung übersetzt Anweisungen koreanischer Vorgesetzter bei Sicherheitsbesprechungen vor Arbeitsbeginn als Sprache und Text auf die Smartphones von Beschäftigten etwa aus Vietnam und Kambodscha. Auch Baustellenslang wie “hamma”, ein großer Hammer, wurde für Übersetzungen in mehr als 40 Sprachen optimiert. Yoon sagte, Ziel sei es, Unfälle durch Kommunikationsabbrüche zu verringern. Quelle: mk.co.kr."
+    },
+    "fr": {
+      "title": "Traduction IA sur les chantiers: HiLocal cible la sécurité",
+      "excerpt": "Jung-ho Yoon, PDG de HiLocal, a déclaré au Maeil Business Newspaper en 2026 avoir développé une solution de traduction IA pour la sécurité des travailleurs étrangers après avoir visité environ 150 chantiers et usines.",
+      "body": "Jung-ho Yoon, PDG de HiLocal, a indiqué dans une interview accordée au Maeil Business Newspaper en mai 2026 que l’entreprise avait développé une solution de traduction IA pour renforcer la sécurité des travailleurs étrangers sur les chantiers et dans les usines. Casque et tenue de travail sur lui, il a parcouru pendant trois mois environ 150 sites de construction et de production dans tout le pays afin d’intégrer le vocabulaire de terrain et le bruit ambiant. La solution traduit les consignes de responsables coréens lors des réunions de sécurité avant le travail et les transmet en voix et en texte sur les smartphones de travailleurs vietnamiens, cambodgiens et d’autres nationalités. Elle a aussi été améliorée pour traduire du jargon de chantier comme “hamma”, un gros marteau, dans plus de 40 langues. Yoon a expliqué que l’objectif était de réduire les accidents dus aux ruptures de communication. Source: mk.co.kr."
+    },
+    "ar": {
+      "title": "ترجمة الذكاء الاصطناعي في مواقع العمل تعزز سلامة العمال الأجانب",
+      "excerpt": "قال جونغ هو يون، الرئيس التنفيذي لهاي لوكال، لصحيفة ماييل الاقتصادية في 2026 إنه طور حلا للترجمة بالذكاء الاصطناعي لحماية العمال الأجانب بعد زيارة نحو 150 موقع بناء ومصنعا.",
+      "body": "قال جونغ هو يون، الرئيس التنفيذي لشركة هاي لوكال، في مقابلة مع صحيفة ماييل الاقتصادية في مايو 2026 إن الشركة طورت حلا للترجمة بالذكاء الاصطناعي في المواقع الصناعية لتحسين سلامة العمال الأجانب في البناء والتصنيع. وارتدى بنفسه خوذة وملابس عمل، وقضى ثلاثة أشهر في زيارة نحو 150 موقع بناء ومصنعا في أنحاء كوريا كي يعكس لغة الميدان وظروف الضوضاء. يترجم الحل تعليمات المديرين الكوريين في اجتماعات فحص السلامة قبل العمل إلى صوت ونص على هواتف عمال من فيتنام وكمبوديا وغيرها. كما تم تطويره لترجمة مصطلحات عامية في البناء مثل “hamma”، أي المطرقة الكبيرة، إلى أكثر من 40 لغة. وقال يون إن الهدف هو تقليل الحوادث الناتجة عن انقطاع التواصل. المصدر: mk.co.kr."
+    },
+    "hi": {
+      "title": "कार्यस्थल AI अनुवाद से विदेशी मजदूरों की सुरक्षा पर HiLocal का जोर",
+      "excerpt": "HiLocal के CEO जंग-हो यून ने 2026 में Maeil Business Newspaper को बताया कि उन्होंने करीब 150 निर्माण और विनिर्माण स्थलों का दौरा कर विदेशी मजदूरों की सुरक्षा के लिए AI अनुवाद समाधान विकसित किया।",
+      "body": "HiLocal के CEO जंग-हो यून ने मई 2026 में Maeil Business Newspaper को दिए साक्षात्कार में कहा कि कंपनी ने निर्माण और विनिर्माण स्थलों पर विदेशी मजदूरों की सुरक्षा सुधारने के लिए औद्योगिक AI अनुवाद समाधान विकसित किया है। उन्होंने खुद हेलमेट और कार्य पोशाक पहनकर तीन महीनों तक देशभर के करीब 150 निर्माण स्थलों और कारखानों का दौरा किया, ताकि वास्तविक साइट भाषा और शोर की परिस्थितियों को शामिल किया जा सके। यह समाधान काम शुरू होने से पहले सुरक्षा बैठक में कोरियाई प्रबंधकों के निर्देशों को वियतनाम, कंबोडिया और अन्य देशों के मजदूरों के स्मार्टफोन पर आवाज और पाठ के रूप में अनुवादित करता है। “hamma” जैसे निर्माण क्षेत्र के बोलचाल शब्द, जिसका अर्थ बड़ा हथौड़ा है, को भी 40 से अधिक भाषाओं में अनुवादित करने के लिए बेहतर बनाया गया है। यून ने कहा कि लक्ष्य संचार टूटने से होने वाली दुर्घटनाओं को घटाना है। स्रोत: mk.co.kr."
+    },
+    "id": {
+      "title": "AI Penerjemah Lapangan HiLocal Soroti Keselamatan Pekerja Asing",
+      "excerpt": "CEO HiLocal Jung-ho Yoon mengatakan kepada Maeil Business Newspaper pada 2026 bahwa ia mengembangkan solusi terjemahan AI untuk keselamatan pekerja asing setelah mengunjungi sekitar 150 proyek konstruksi dan pabrik.",
+      "body": "CEO HiLocal Jung-ho Yoon mengatakan dalam wawancara Maeil Business Newspaper pada Mei 2026 bahwa perusahaan mengembangkan solusi terjemahan AI untuk lokasi industri guna meningkatkan keselamatan pekerja asing di konstruksi dan manufaktur. Dengan memakai helm dan pakaian kerja, ia selama tiga bulan mengunjungi sekitar 150 proyek konstruksi dan pabrik di seluruh Korea untuk memasukkan bahasa lapangan dan kondisi bising. Solusi ini menerjemahkan instruksi manajer Korea dalam rapat pemeriksaan keselamatan sebelum kerja menjadi suara dan teks di ponsel pekerja Vietnam, Kamboja, dan negara lain. Sistem itu juga ditingkatkan agar dapat menerjemahkan istilah slang konstruksi seperti “hamma”, palu besar, ke lebih dari 40 bahasa. Yoon mengatakan tujuannya adalah mengurangi kecelakaan akibat terputusnya komunikasi. Sumber: mk.co.kr."
+    }
+  }
+}
