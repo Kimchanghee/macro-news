@@ -1,0 +1,75 @@
+{
+  "id": "c0072f0c35e2",
+  "slug": "속보-검찰-방시혁-구속영장-재반려-보완수사-이행-안해-846435",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-07T20:55:14.839Z",
+  "updatedAt": "2026-05-07T20:55:14.839Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/society/12039523",
+  "canonicalUrl": "https://www.mk.co.kr/news/society/12039523",
+  "titleFingerprint": "aaf0b5e0729edc1000ee650d022606cc312e178c",
+  "dedupKeys": [
+    "c0072f0c35e21adb0272cf2c6c6bcb9ba3701326",
+    "aaf0b5e0729edc1000ee650d022606cc312e178c",
+    "9ec1710700627db189e34dcef54d7ef1f1d9b363"
+  ],
+  "imageUrl": "/images/articles/c0072f0c35e2.png",
+  "i18n": {
+    "ko": {
+      "title": "검찰, 방시혁 구속영장 재반려…“보완수사 이행 안해”",
+      "excerpt": "검찰이 방시혁에 대한 구속영장을 다시 반려했다. mk.co.kr은 검찰이 보완수사 이행이 이뤄지지 않았다는 이유를 제시했다고 속보로 전했다.",
+      "body": "검찰이 방시혁에 대한 구속영장을 재차 반려했다고 mk.co.kr이 속보로 보도했다. 보도에 따르면 검찰은 이번 반려 사유로 “보완수사 이행 안해”를 제시했다. 현재 원문에 공개된 핵심 내용은 구속영장 재반려와 그 사유에 한정된다. 구속영장 청구 절차에서 보완수사 이행 여부가 쟁점으로 부각된 만큼, 향후 수사기관의 보완 조치와 영장 재청구 여부가 주목된다. 출처: mk.co.kr."
+    },
+    "en": {
+      "title": "Prosecutors Return Bang Si-hyuk Arrest Warrant Again, Citing Probe Gaps",
+      "excerpt": "Prosecutors have again returned an arrest warrant request for Bang Si-hyuk, with mk.co.kr reporting that they cited failure to carry out supplementary investigation.",
+      "body": "Prosecutors have returned an arrest warrant request for Bang Si-hyuk again, mk.co.kr reported in a breaking news alert. According to the report, prosecutors cited the reason as a failure to carry out supplementary investigation. The information disclosed in the original report is limited to the renewed return of the warrant request and the stated reason. As compliance with supplementary investigation requirements has emerged as the central issue in the warrant process, attention now turns to whether investigative authorities take additional steps and resubmit the warrant request. Source: mk.co.kr."
+    },
+    "ja": {
+      "title": "検察、房時赫氏の逮捕状請求を再び差し戻し「補完捜査未履行」",
+      "excerpt": "検察が房時赫氏に対する逮捕状請求を再び差し戻した。mk.co.krは、補完捜査が履行されていないことを理由に挙げたと速報した。",
+      "body": "検察が房時赫氏に対する逮捕状請求を再び差し戻したと、mk.co.krが速報で報じた。報道によると、検察は今回の差し戻し理由として「補完捜査を履行していない」と説明した。現時点で原文に公開された主要内容は、逮捕状請求の再差し戻しとその理由に限られる。逮捕状請求の手続きで補完捜査の履行 여부が争点として浮上したため、今後、捜査機関の追加対応と令状の再請求 여부が注目される。出典: mk.co.kr."
+    },
+    "zh": {
+      "title": "检方再次退回方时赫拘捕令申请，称“未履行补充调查”",
+      "excerpt": "检方再次退回针对方时赫的拘捕令申请。mk.co.kr快讯称，检方给出的理由是补充调查未得到履行。",
+      "body": "据mk.co.kr快讯报道，检方再次退回针对方时赫的拘捕令申请。报道显示，检方将此次退回的理由说明为“未履行补充调查”。目前原文公开的核心信息仅限于拘捕令申请再次被退回以及相关理由。由于补充调查是否履行成为拘捕令申请程序中的焦点，后续调查机关是否采取补充措施以及是否再次申请拘捕令，将受到关注。来源: mk.co.kr."
+    },
+    "es": {
+      "title": "Fiscalía devuelve de nuevo orden de arresto contra Bang Si-hyuk por pesquisa incompleta",
+      "excerpt": "La fiscalía devolvió otra vez la solicitud de orden de arresto contra Bang Si-hyuk, informó mk.co.kr, al señalar que no se cumplió la investigación suplementaria.",
+      "body": "La fiscalía volvió a devolver la solicitud de orden de arresto contra Bang Si-hyuk, informó mk.co.kr en una alerta de última hora. Según el reporte, la razón indicada por la fiscalía fue que “no se cumplió la investigación suplementaria”. La información central divulgada en el texto original se limita a la nueva devolución de la solicitud y al motivo señalado. Dado que el cumplimiento de la investigación suplementaria quedó como punto clave del procedimiento, la atención se dirige ahora a posibles medidas adicionales y a si la orden será solicitada nuevamente. Fuente: mk.co.kr."
+    },
+    "pt": {
+      "title": "Promotoria devolve novamente mandado contra Bang Si-hyuk por investigação pendente",
+      "excerpt": "A promotoria devolveu outra vez o pedido de mandado de prisão contra Bang Si-hyuk, informou o mk.co.kr, citando falta de cumprimento da investigação complementar.",
+      "body": "A promotoria devolveu novamente o pedido de mandado de prisão contra Bang Si-hyuk, informou o mk.co.kr em notícia urgente. Segundo a reportagem, o motivo apresentado foi que a investigação complementar não foi cumprida. As informações centrais divulgadas no texto original se limitam à nova devolução do pedido de mandado e à razão indicada. Como o cumprimento da investigação complementar passou a ser o ponto central do procedimento, a atenção se volta para eventuais medidas adicionais das autoridades e para a possibilidade de novo pedido de mandado. Fonte: mk.co.kr."
+    },
+    "de": {
+      "title": "Staatsanwaltschaft gibt Haftantrag gegen Bang Si-hyuk erneut zurück",
+      "excerpt": "Die Staatsanwaltschaft hat den Haftantrag gegen Bang Si-hyuk erneut zurückgegeben, berichtete mk.co.kr, weil ergänzende Ermittlungen nicht umgesetzt worden seien.",
+      "body": "Die Staatsanwaltschaft hat den Antrag auf einen Haftbefehl gegen Bang Si-hyuk erneut zurückgegeben, meldete mk.co.kr in einer Eilmeldung. Dem Bericht zufolge nannte die Staatsanwaltschaft als Grund, dass ergänzende Ermittlungen nicht umgesetzt worden seien. Die im Originalbericht veröffentlichten Kerninformationen beschränken sich auf die erneute Rückgabe des Haftantrags und die genannte Begründung. Da die Umsetzung ergänzender Ermittlungen im Verfahren nun im Mittelpunkt steht, richtet sich der Blick auf mögliche weitere Schritte der Ermittlungsbehörden und eine etwaige erneute Antragstellung. Quelle: mk.co.kr."
+    },
+    "fr": {
+      "title": "Le parquet renvoie encore le mandat visant Bang Si-hyuk pour enquête incomplète",
+      "excerpt": "Le parquet a de nouveau renvoyé la demande de mandat d’arrêt visant Bang Si-hyuk, selon mk.co.kr, en invoquant l’absence d’enquête complémentaire exécutée.",
+      "body": "Le parquet a de nouveau renvoyé la demande de mandat d’arrêt visant Bang Si-hyuk, a rapporté mk.co.kr dans une alerte de dernière minute. Selon l’article, le motif avancé est que l’enquête complémentaire n’a pas été exécutée. Les informations essentielles publiées dans le texte original se limitent au nouveau renvoi de la demande de mandat et à la raison indiquée. Le respect de l’enquête complémentaire devenant le point central de la procédure, l’attention se porte désormais sur d’éventuelles mesures supplémentaires des autorités d’enquête et sur une possible nouvelle demande de mandat. Source: mk.co.kr."
+    },
+    "ar": {
+      "title": "النيابة تعيد طلب توقيف بانغ سي هيوك مجددا لعدم استكمال التحقيق",
+      "excerpt": "أعادت النيابة طلب مذكرة توقيف بانغ سي هيوك مرة أخرى، وذكر mk.co.kr أن السبب هو عدم تنفيذ التحقيق التكميلي المطلوب.",
+      "body": "أفاد موقع mk.co.kr في خبر عاجل بأن النيابة أعادت مجددا طلب إصدار مذكرة توقيف بحق بانغ سي هيوك. ووفقا للتقرير، أوضحت النيابة أن سبب الإعادة هو “عدم تنفيذ التحقيق التكميلي”. وتقتصر المعلومات الأساسية المنشورة في النص الأصلي على إعادة طلب المذكرة مرة أخرى والسبب المذكور لذلك. ومع بروز مسألة تنفيذ التحقيق التكميلي كنقطة محورية في إجراءات طلب المذكرة، تتجه الأنظار إلى ما إذا كانت جهات التحقيق ستتخذ إجراءات إضافية وما إذا كان سيعاد تقديم الطلب لاحقا. المصدر: mk.co.kr."
+    },
+    "hi": {
+      "title": "अभियोजन ने बैंग सी-ह्युक की गिरफ्तारी वारंट अर्जी फिर लौटाई",
+      "excerpt": "अभियोजन ने बैंग सी-ह्युक के खिलाफ गिरफ्तारी वारंट अर्जी फिर लौटा दी। mk.co.kr के अनुसार वजह पूरक जांच का पालन न होना बताया गया।",
+      "body": "mk.co.kr की ब्रेकिंग रिपोर्ट के अनुसार, अभियोजन ने बैंग सी-ह्युक के खिलाफ गिरफ्तारी वारंट की अर्जी फिर से लौटा दी है। रिपोर्ट में बताया गया कि अभियोजन ने इसका कारण “पूरक जांच का पालन न होना” बताया। मूल रिपोर्ट में सार्वजनिक की गई मुख्य जानकारी वारंट अर्जी के दोबारा लौटाए जाने और उसके बताए गए कारण तक सीमित है। वारंट प्रक्रिया में पूरक जांच के पालन का मुद्दा प्रमुख बन गया है, इसलिए अब ध्यान इस पर रहेगा कि जांच एजेंसियां अतिरिक्त कदम उठाती हैं या नहीं और वारंट अर्जी फिर दाखिल की जाती है या नहीं। स्रोत: mk.co.kr."
+    },
+    "id": {
+      "title": "Jaksa Kembalikan Lagi Surat Penahanan Bang Si-hyuk karena Penyidikan Tambahan",
+      "excerpt": "Jaksa kembali mengembalikan permohonan surat penahanan Bang Si-hyuk, menurut mk.co.kr, dengan alasan penyidikan tambahan belum dilaksanakan.",
+      "body": "Jaksa kembali mengembalikan permohonan surat penahanan terhadap Bang Si-hyuk, lapor mk.co.kr dalam berita kilat. Menurut laporan tersebut, alasan yang disampaikan jaksa adalah “penyidikan tambahan tidak dilaksanakan”. Informasi utama yang tersedia dalam naskah asli terbatas pada pengembalian kembali permohonan surat penahanan dan alasan yang disebutkan. Karena pelaksanaan penyidikan tambahan menjadi isu utama dalam proses permohonan surat penahanan, perhatian kini tertuju pada apakah otoritas penyidik akan mengambil langkah tambahan dan apakah permohonan akan diajukan lagi. Sumber: mk.co.kr."
+    }
+  }
+}

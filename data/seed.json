@@ -1,5 +1,230 @@
 [
   {
+    "id": "c0072f0c35e2",
+    "slug": "속보-검찰-방시혁-구속영장-재반려-보완수사-이행-안해-846435",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T20:55:14.839Z",
+    "updatedAt": "2026-05-07T20:55:14.839Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12039523",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12039523",
+    "titleFingerprint": "aaf0b5e0729edc1000ee650d022606cc312e178c",
+    "dedupKeys": [
+      "c0072f0c35e21adb0272cf2c6c6bcb9ba3701326",
+      "aaf0b5e0729edc1000ee650d022606cc312e178c",
+      "9ec1710700627db189e34dcef54d7ef1f1d9b363"
+    ],
+    "imageUrl": "/images/articles/c0072f0c35e2.png",
+    "i18n": {
+      "ko": {
+        "title": "검찰, 방시혁 구속영장 재반려…“보완수사 이행 안해”",
+        "excerpt": "검찰이 방시혁에 대한 구속영장을 다시 반려했다. mk.co.kr은 검찰이 보완수사 이행이 이뤄지지 않았다는 이유를 제시했다고 속보로 전했다.",
+        "body": "검찰이 방시혁에 대한 구속영장을 재차 반려했다고 mk.co.kr이 속보로 보도했다. 보도에 따르면 검찰은 이번 반려 사유로 “보완수사 이행 안해”를 제시했다. 현재 원문에 공개된 핵심 내용은 구속영장 재반려와 그 사유에 한정된다. 구속영장 청구 절차에서 보완수사 이행 여부가 쟁점으로 부각된 만큼, 향후 수사기관의 보완 조치와 영장 재청구 여부가 주목된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Prosecutors Return Bang Si-hyuk Arrest Warrant Again, Citing Probe Gaps",
+        "excerpt": "Prosecutors have again returned an arrest warrant request for Bang Si-hyuk, with mk.co.kr reporting that they cited failure to carry out supplementary investigation.",
+        "body": "Prosecutors have returned an arrest warrant request for Bang Si-hyuk again, mk.co.kr reported in a breaking news alert. According to the report, prosecutors cited the reason as a failure to carry out supplementary investigation. The information disclosed in the original report is limited to the renewed return of the warrant request and the stated reason. As compliance with supplementary investigation requirements has emerged as the central issue in the warrant process, attention now turns to whether investigative authorities take additional steps and resubmit the warrant request. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "検察、房時赫氏の逮捕状請求を再び差し戻し「補完捜査未履行」",
+        "excerpt": "検察が房時赫氏に対する逮捕状請求を再び差し戻した。mk.co.krは、補完捜査が履行されていないことを理由に挙げたと速報した。",
+        "body": "検察が房時赫氏に対する逮捕状請求を再び差し戻したと、mk.co.krが速報で報じた。報道によると、検察は今回の差し戻し理由として「補完捜査を履行していない」と説明した。現時点で原文に公開された主要内容は、逮捕状請求の再差し戻しとその理由に限られる。逮捕状請求の手続きで補完捜査の履行 여부が争点として浮上したため、今後、捜査機関の追加対応と令状の再請求 여부が注目される。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "检方再次退回方时赫拘捕令申请，称“未履行补充调查”",
+        "excerpt": "检方再次退回针对方时赫的拘捕令申请。mk.co.kr快讯称，检方给出的理由是补充调查未得到履行。",
+        "body": "据mk.co.kr快讯报道，检方再次退回针对方时赫的拘捕令申请。报道显示，检方将此次退回的理由说明为“未履行补充调查”。目前原文公开的核心信息仅限于拘捕令申请再次被退回以及相关理由。由于补充调查是否履行成为拘捕令申请程序中的焦点，后续调查机关是否采取补充措施以及是否再次申请拘捕令，将受到关注。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Fiscalía devuelve de nuevo orden de arresto contra Bang Si-hyuk por pesquisa incompleta",
+        "excerpt": "La fiscalía devolvió otra vez la solicitud de orden de arresto contra Bang Si-hyuk, informó mk.co.kr, al señalar que no se cumplió la investigación suplementaria.",
+        "body": "La fiscalía volvió a devolver la solicitud de orden de arresto contra Bang Si-hyuk, informó mk.co.kr en una alerta de última hora. Según el reporte, la razón indicada por la fiscalía fue que “no se cumplió la investigación suplementaria”. La información central divulgada en el texto original se limita a la nueva devolución de la solicitud y al motivo señalado. Dado que el cumplimiento de la investigación suplementaria quedó como punto clave del procedimiento, la atención se dirige ahora a posibles medidas adicionales y a si la orden será solicitada nuevamente. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Promotoria devolve novamente mandado contra Bang Si-hyuk por investigação pendente",
+        "excerpt": "A promotoria devolveu outra vez o pedido de mandado de prisão contra Bang Si-hyuk, informou o mk.co.kr, citando falta de cumprimento da investigação complementar.",
+        "body": "A promotoria devolveu novamente o pedido de mandado de prisão contra Bang Si-hyuk, informou o mk.co.kr em notícia urgente. Segundo a reportagem, o motivo apresentado foi que a investigação complementar não foi cumprida. As informações centrais divulgadas no texto original se limitam à nova devolução do pedido de mandado e à razão indicada. Como o cumprimento da investigação complementar passou a ser o ponto central do procedimento, a atenção se volta para eventuais medidas adicionais das autoridades e para a possibilidade de novo pedido de mandado. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Staatsanwaltschaft gibt Haftantrag gegen Bang Si-hyuk erneut zurück",
+        "excerpt": "Die Staatsanwaltschaft hat den Haftantrag gegen Bang Si-hyuk erneut zurückgegeben, berichtete mk.co.kr, weil ergänzende Ermittlungen nicht umgesetzt worden seien.",
+        "body": "Die Staatsanwaltschaft hat den Antrag auf einen Haftbefehl gegen Bang Si-hyuk erneut zurückgegeben, meldete mk.co.kr in einer Eilmeldung. Dem Bericht zufolge nannte die Staatsanwaltschaft als Grund, dass ergänzende Ermittlungen nicht umgesetzt worden seien. Die im Originalbericht veröffentlichten Kerninformationen beschränken sich auf die erneute Rückgabe des Haftantrags und die genannte Begründung. Da die Umsetzung ergänzender Ermittlungen im Verfahren nun im Mittelpunkt steht, richtet sich der Blick auf mögliche weitere Schritte der Ermittlungsbehörden und eine etwaige erneute Antragstellung. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Le parquet renvoie encore le mandat visant Bang Si-hyuk pour enquête incomplète",
+        "excerpt": "Le parquet a de nouveau renvoyé la demande de mandat d’arrêt visant Bang Si-hyuk, selon mk.co.kr, en invoquant l’absence d’enquête complémentaire exécutée.",
+        "body": "Le parquet a de nouveau renvoyé la demande de mandat d’arrêt visant Bang Si-hyuk, a rapporté mk.co.kr dans une alerte de dernière minute. Selon l’article, le motif avancé est que l’enquête complémentaire n’a pas été exécutée. Les informations essentielles publiées dans le texte original se limitent au nouveau renvoi de la demande de mandat et à la raison indiquée. Le respect de l’enquête complémentaire devenant le point central de la procédure, l’attention se porte désormais sur d’éventuelles mesures supplémentaires des autorités d’enquête et sur une possible nouvelle demande de mandat. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "النيابة تعيد طلب توقيف بانغ سي هيوك مجددا لعدم استكمال التحقيق",
+        "excerpt": "أعادت النيابة طلب مذكرة توقيف بانغ سي هيوك مرة أخرى، وذكر mk.co.kr أن السبب هو عدم تنفيذ التحقيق التكميلي المطلوب.",
+        "body": "أفاد موقع mk.co.kr في خبر عاجل بأن النيابة أعادت مجددا طلب إصدار مذكرة توقيف بحق بانغ سي هيوك. ووفقا للتقرير، أوضحت النيابة أن سبب الإعادة هو “عدم تنفيذ التحقيق التكميلي”. وتقتصر المعلومات الأساسية المنشورة في النص الأصلي على إعادة طلب المذكرة مرة أخرى والسبب المذكور لذلك. ومع بروز مسألة تنفيذ التحقيق التكميلي كنقطة محورية في إجراءات طلب المذكرة، تتجه الأنظار إلى ما إذا كانت جهات التحقيق ستتخذ إجراءات إضافية وما إذا كان سيعاد تقديم الطلب لاحقا. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "अभियोजन ने बैंग सी-ह्युक की गिरफ्तारी वारंट अर्जी फिर लौटाई",
+        "excerpt": "अभियोजन ने बैंग सी-ह्युक के खिलाफ गिरफ्तारी वारंट अर्जी फिर लौटा दी। mk.co.kr के अनुसार वजह पूरक जांच का पालन न होना बताया गया।",
+        "body": "mk.co.kr की ब्रेकिंग रिपोर्ट के अनुसार, अभियोजन ने बैंग सी-ह्युक के खिलाफ गिरफ्तारी वारंट की अर्जी फिर से लौटा दी है। रिपोर्ट में बताया गया कि अभियोजन ने इसका कारण “पूरक जांच का पालन न होना” बताया। मूल रिपोर्ट में सार्वजनिक की गई मुख्य जानकारी वारंट अर्जी के दोबारा लौटाए जाने और उसके बताए गए कारण तक सीमित है। वारंट प्रक्रिया में पूरक जांच के पालन का मुद्दा प्रमुख बन गया है, इसलिए अब ध्यान इस पर रहेगा कि जांच एजेंसियां अतिरिक्त कदम उठाती हैं या नहीं और वारंट अर्जी फिर दाखिल की जाती है या नहीं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Jaksa Kembalikan Lagi Surat Penahanan Bang Si-hyuk karena Penyidikan Tambahan",
+        "excerpt": "Jaksa kembali mengembalikan permohonan surat penahanan Bang Si-hyuk, menurut mk.co.kr, dengan alasan penyidikan tambahan belum dilaksanakan.",
+        "body": "Jaksa kembali mengembalikan permohonan surat penahanan terhadap Bang Si-hyuk, lapor mk.co.kr dalam berita kilat. Menurut laporan tersebut, alasan yang disampaikan jaksa adalah “penyidikan tambahan tidak dilaksanakan”. Informasi utama yang tersedia dalam naskah asli terbatas pada pengembalian kembali permohonan surat penahanan dan alasan yang disebutkan. Karena pelaksanaan penyidikan tambahan menjadi isu utama dalam proses permohonan surat penahanan, perhatian kini tertuju pada apakah otoritas penyidik akan mengambil langkah tambahan dan apakah permohonan akan diajukan lagi. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "9dcbb83ad12a",
+    "slug": "ktg-해외궐련사업-매출실적-경신전자담배건기식-사업도-고성장-753779",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T20:53:20.343Z",
+    "updatedAt": "2026-05-07T20:53:20.343Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12039524",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12039524",
+    "titleFingerprint": "e086a36493efb128f1aeb5b74d0f395f9faaf9db",
+    "dedupKeys": [
+      "9dcbb83ad12a4927e2834d36ee8173b8162bebfd",
+      "e086a36493efb128f1aeb5b74d0f395f9faaf9db",
+      "0065f07d458ce46afdb161b4c20f1d1328a088f3"
+    ],
+    "imageUrl": "/images/articles/9dcbb83ad12a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "KT&G 해외궐련사업 매출 신기록, 전자담배·건기식도 고성장",
+        "excerpt": "KT&G가 유럽과 아시아 등 전 세계 궐련 판매 확대와 전략적 단가 인상 효과로 분기 기준 최대 글로벌 사업 매출을 기록하고 전자담배·건기식 성장도 이어갔다.",
+        "body": "KT&G가 유럽과 아시아를 비롯한 전 세계 시장에서 궐련사업 판매를 확대하며 분기 기준 최대 글로벌 사업 매출 실적을 경신했다. 전 세계 판매 성장에 더해 전략적 단가 인상이 맞아떨어지면서 매출, 영업이익, 판매수량이 함께 늘어나는 ‘트리플 성장’을 기록했다. 해외궐련사업은 글로벌 시장에서의 판매 확대가 실적 개선을 이끈 핵심 요인으로 제시됐다. 이와 함께 전자담배와 건강기능식품 사업도 고성장을 보이며 포트폴리오 전반의 성장세를 뒷받침했다. 향후 KT&G의 글로벌 궐련사업과 비궐련 사업 성과가 실적 흐름의 주요 변수로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KT&G Overseas Cigarette Sales Hit Record as E-Cigarettes and Health Foods Grow",
+        "excerpt": "KT&G posted record quarterly global business revenue as cigarette sales expanded worldwide and strategic price increases supported growth in sales, profit, and volume.",
+        "body": "KT&G has set a new quarterly record for global business revenue as its cigarette operations expanded across Europe, Asia, and other worldwide markets. The company recorded “triple growth” in revenue, operating profit, and sales volume, helped by global sales growth and successful strategic price increases. Overseas cigarette sales were cited as the key driver behind the improved performance. At the same time, the e-cigarette and health functional food businesses also delivered strong growth, supporting broader portfolio momentum. KT&G’s global cigarette business and non-cigarette segments are expected to remain important factors in its earnings trend. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KT&G海外紙巻たばこ売上が最高更新、電子たばこ・健康食品も高成長",
+        "excerpt": "KT&Gは欧州やアジアなど世界市場で紙巻たばこの販売を伸ばし、戦略的な単価引き上げも奏功して四半期ベースで最大のグローバル事業売上を記録した。",
+        "body": "KT&Gは欧州やアジアを含む世界市場で紙巻たばこ事業の販売を拡大し、四半期ベースで過去最大のグローバル事業売上を更新した。世界的な販売増に加え、戦略的な単価引き上げがかみ合い、売上高、営業利益、販売数量がそろって増える「トリプル成長」を記録した。海外紙巻たばこ事業は、実績改善をけん引した主要要因として示された。あわせて電子たばこと健康機能食品事業も高成長を見せ、事業ポートフォリオ全体の伸びを支えた。今後はKT&Gのグローバル紙巻たばこ事業と非紙巻たばこ事業の成果が、業績の流れを左右する重要な要素として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KT&G海外卷烟业务营收创新高，电子烟与健康食品同步高增长",
+        "excerpt": "KT&G在欧洲、亚洲等全球市场扩大卷烟销售，并受益于战略性提价，季度全球业务营收创下新高，营收、营业利润和销量同步增长。",
+        "body": "KT&G在欧洲、亚洲等全球市场推进卷烟业务销售，刷新了按季度计算的全球业务最高营收纪录。随着全球销量增长，加上战略性单价上调取得效果，公司实现了营收、营业利润和销售数量同时增长的“三重增长”。海外卷烟业务被视为推动业绩改善的核心因素。与此同时，电子烟和健康功能食品业务也保持高增长，支撑了整体业务组合的增长势头。未来，KT&G全球卷烟业务及非卷烟业务的表现将继续成为影响业绩走势的重要变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KT&G logra récord en cigarrillos internacionales y crece en vapeo y salud",
+        "excerpt": "KT&G alcanzó ingresos trimestrales récord en su negocio global gracias al aumento de ventas de cigarrillos en todo el mundo y a subidas estratégicas de precios.",
+        "body": "KT&G renovó su récord trimestral de ingresos en el negocio global al expandir sus ventas de cigarrillos en Europa, Asia y otros mercados del mundo. El crecimiento de las ventas internacionales, junto con incrementos estratégicos de precios, permitió una “triple expansión” en ingresos, beneficio operativo y volumen vendido. El negocio de cigarrillos en el exterior fue señalado como el principal factor de mejora del desempeño. A la vez, los negocios de cigarrillos electrónicos y alimentos funcionales para la salud también registraron alto crecimiento, apoyando el avance del portafolio. El desempeño de los cigarrillos globales y de los negocios no combustibles seguirá siendo clave para la evolución de resultados de KT&G. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KT&G bate recorde em cigarros no exterior e avança em vape e saúde",
+        "excerpt": "A KT&G registrou receita trimestral recorde no negócio global com maior venda de cigarros no mundo e reajustes estratégicos de preço que elevaram receita, lucro e volume.",
+        "body": "A KT&G renovou seu recorde trimestral de receita no negócio global ao ampliar as vendas de cigarros na Europa, na Ásia e em outros mercados internacionais. O crescimento das vendas mundiais, somado a aumentos estratégicos de preço, levou a uma “tripla expansão” em receita, lucro operacional e volume vendido. O negócio de cigarros no exterior foi apontado como o principal motor da melhora do desempenho. Ao mesmo tempo, os segmentos de cigarros eletrônicos e alimentos funcionais para saúde também mostraram forte crescimento, sustentando o avanço do portfólio. O desempenho dos cigarros globais e dos negócios não combustíveis deve seguir como variável importante para os resultados da KT&G. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KT&G erzielt Rekordumsatz mit Auslandzigaretten, E-Zigaretten wachsen stark",
+        "excerpt": "KT&G erreichte im Quartal einen Rekordumsatz im globalen Geschäft, gestützt durch weltweites Zigarettenwachstum und strategische Preiserhöhungen.",
+        "body": "KT&G hat mit seinem Zigarettengeschäft in Europa, Asien und weiteren Weltmärkten den bislang höchsten Quartalsumsatz im globalen Geschäft erzielt. Das weltweite Absatzwachstum und erfolgreiche strategische Preiserhöhungen führten zu einem gleichzeitigen Anstieg von Umsatz, operativem Gewinn und Verkaufsmenge, also zu einem „dreifachen Wachstum“. Das Auslandsgeschäft mit Zigaretten wurde als zentraler Treiber der verbesserten Ergebnisse genannt. Zugleich verzeichneten auch E-Zigaretten und Gesundheitsfunktionslebensmittel ein starkes Wachstum und stützten die Entwicklung des gesamten Portfolios. Die Leistung des globalen Zigarettengeschäfts und der Nicht-Zigaretten-Sparten bleibt ein wichtiger Faktor für den Ergebnistrend von KT&G. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KT&G bat un record dans les cigarettes à l’étranger, vape et santé progressent",
+        "excerpt": "KT&G a enregistré un chiffre d’affaires trimestriel record dans ses activités mondiales grâce à la hausse des ventes de cigarettes et à des relèvements stratégiques de prix.",
+        "body": "KT&G a battu son record trimestriel de chiffre d’affaires dans ses activités mondiales en développant ses ventes de cigarettes en Europe, en Asie et sur d’autres marchés. La progression des ventes mondiales, associée à des hausses stratégiques de prix, a entraîné une “triple croissance” du chiffre d’affaires, du bénéfice d’exploitation et des volumes vendus. L’activité de cigarettes à l’étranger a été présentée comme le principal moteur de l’amélioration des résultats. Dans le même temps, les cigarettes électroniques et les produits alimentaires fonctionnels de santé ont également affiché une forte croissance, soutenant l’ensemble du portefeuille. Les performances des cigarettes mondiales et des activités non liées aux cigarettes resteront déterminantes pour la tendance des résultats de KT&G. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "KT&G تسجل رقما قياسيا في السجائر الخارجية ونموا قويا للإلكترونية والصحية",
+        "excerpt": "حققت KT&G أعلى إيرادات فصلية في أعمالها العالمية مع نمو مبيعات السجائر حول العالم ونجاح زيادات الأسعار الاستراتيجية في دعم الإيرادات والربح والحجم.",
+        "body": "سجلت KT&G رقما قياسيا جديدا في إيرادات أعمالها العالمية على أساس فصلي، مع توسع مبيعات السجائر في أوروبا وآسيا وأسواق أخرى حول العالم. وجاء الأداء مدعوما بنمو المبيعات العالمية وبنجاح زيادات استراتيجية في الأسعار، ما أدى إلى نمو متزامن في الإيرادات والربح التشغيلي وحجم المبيعات. وبرزت أعمال السجائر الخارجية كعامل رئيسي وراء تحسن النتائج. وفي الوقت نفسه، حققت أعمال السجائر الإلكترونية والأغذية الوظيفية الصحية نموا قويا، ما دعم زخم المحفظة ككل. ومن المتوقع أن تظل نتائج أعمال السجائر العالمية والأنشطة غير المرتبطة بالسجائر عوامل مهمة في مسار أداء KT&G. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KT&G का विदेशी सिगरेट कारोबार रिकॉर्ड पर, ई-सिगरेट और हेल्थ फूड भी तेज",
+        "excerpt": "KT&G ने वैश्विक सिगरेट बिक्री में वृद्धि और रणनीतिक मूल्य बढ़ोतरी के असर से तिमाही आधार पर अपने वैश्विक कारोबार का रिकॉर्ड राजस्व दर्ज किया।",
+        "body": "KT&G ने यूरोप, एशिया और दुनिया के अन्य बाजारों में सिगरेट कारोबार की बिक्री बढ़ाते हुए तिमाही आधार पर वैश्विक कारोबार का अब तक का सबसे बड़ा राजस्व दर्ज किया। वैश्विक बिक्री वृद्धि और रणनीतिक कीमत बढ़ोतरी के सफल असर से कंपनी ने राजस्व, परिचालन लाभ और बिक्री मात्रा में एक साथ वृद्धि, यानी “ट्रिपल ग्रोथ”, हासिल की। विदेशी सिगरेट कारोबार को प्रदर्शन सुधार का प्रमुख कारण बताया गया। इसी के साथ ई-सिगरेट और स्वास्थ्य कार्यात्मक खाद्य कारोबार ने भी तेज वृद्धि दिखाई, जिससे पूरे पोर्टफोलियो की वृद्धि को सहारा मिला। आगे KT&G के वैश्विक सिगरेट कारोबार और गैर-सिगरेट क्षेत्रों का प्रदर्शन आय प्रवाह के लिए अहम कारक रहेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KT&G Cetak Rekor Rokok Luar Negeri, Vape dan Pangan Kesehatan Tumbuh",
+        "excerpt": "KT&G mencatat pendapatan kuartalan tertinggi pada bisnis global berkat pertumbuhan penjualan rokok dunia dan kenaikan harga strategis yang mendorong pendapatan, laba, dan volume.",
+        "body": "KT&G memperbarui rekor pendapatan kuartalan untuk bisnis globalnya setelah memperluas penjualan rokok di Eropa, Asia, dan pasar dunia lainnya. Pertumbuhan penjualan global, ditambah kenaikan harga strategis yang tepat, menghasilkan “triple growth” pada pendapatan, laba operasional, dan volume penjualan. Bisnis rokok luar negeri disebut sebagai faktor utama yang mendorong perbaikan kinerja. Pada saat yang sama, bisnis rokok elektronik dan pangan fungsional kesehatan juga mencatat pertumbuhan tinggi, menopang momentum portofolio secara keseluruhan. Ke depan, kinerja bisnis rokok global dan segmen non-rokok KT&G akan tetap menjadi faktor penting dalam arah hasil usaha. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7ed393416787",
+    "slug": "주택건설협회한국주택협회-주택공급-대책-관련-법안-조속히-통과돼야-699675",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T20:52:22.671Z",
+    "updatedAt": "2026-05-07T20:52:22.671Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039526",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039526",
+    "titleFingerprint": "0deffa50de536939f60fb9a7a60ab6b82280486d",
+    "dedupKeys": [
+      "7ed39341678794326612331528305d934c0cccfa",
+      "0deffa50de536939f60fb9a7a60ab6b82280486d",
+      "2090abb9f07348eae34308cdf16610bdb35a9927"
+    ],
+    "imageUrl": "/images/articles/7ed393416787.jpg",
+    "i18n": {
+      "ko": {
+        "title": "주택공급 대책 법안, 주택건설협회·한국주택협회 조속 통과 촉구",
+        "excerpt": "대한주택건설협회와 한국주택협회는 7일, 8일 본회의를 앞두고 정비사업 주요 절차 단축 등 주택공급 대책 관련 법안의 조속한 통과를 촉구했다.",
+        "body": "대한주택건설협회와 한국주택협회는 7일 8일 본회의를 앞두고 주택공급 대책 관련 법안이 조속히 통과돼야 한다고 밝혔다. 두 단체가 통과를 촉구한 법안에는 정비사업의 주요 절차를 단축하는 도시 및 주거환경정비법 개정안이 포함돼 있다. 이번 입장은 주택공급 대책의 실행을 위해 관련 입법 절차가 필요하다는 업계 요청으로 정리된다. 법안 처리 여부는 본회의 논의 결과에 따라 결정될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Housing Supply Bills Need Swift Passage, Two Korean Housing Groups Say",
+        "excerpt": "On May 7, the Korea Housing Builders Association and Korea Housing Association urged swift passage of housing supply bills ahead of the May 8 plenary session.",
+        "body": "The Korea Housing Builders Association and the Korea Housing Association said on May 7 that bills related to housing supply measures should be passed promptly ahead of the plenary session scheduled for May 8. The bills they urged lawmakers to approve include a revision to the Act on the Improvement of Urban Areas and Residential Environments, which would shorten key procedures for redevelopment and maintenance projects. The statement reflects the industry’s call for legislative action to support housing supply measures. The outcome will depend on deliberations at the plenary session. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "住宅供給対策法案、韓国の住宅2団体が早期可決を要請",
+        "excerpt": "大韓住宅建設協会と韓国住宅協会は7日、8日の本会議を前に、整備事業の主要手続き短縮など住宅供給対策関連法案の早期可決を求めた。",
+        "body": "大韓住宅建設協会と韓国住宅協会は7日、8日に予定された本会議を前に、住宅供給対策に関連する法案を速やかに可決すべきだと明らかにした。両団体が可決を求めた法案には、整備事業の主要手続きを短縮する都市および住居環境整備法改正案が含まれている。今回の立場表明は、住宅供給対策を実行するために関連する立法手続きが必要だという業界の要請として位置づけられる。法案処理の行方は本会議での議論結果に左右される見通しだ。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "住房供应对策法案待审，韩国两大住房协会敦促尽快通过",
+        "excerpt": "韩国住宅建设协会和韩国住宅协会7日表示，在8日全体会议前，敦促尽快通过包括缩短整备项目主要程序在内的住房供应对策相关法案。",
+        "body": "韩国住宅建设协会和韩国住宅协会7日表示，在8日举行全体会议前，住房供应对策相关法案应尽快获得通过。两家团体敦促通过的法案包括《城市及居住环境整备法》修正案，该修正案旨在缩短整备项目的主要程序。此次表态可被视为住房行业要求通过相关立法程序，以推动住房供应对策落实。相关法案能否处理，将取决于全体会议的讨论结果。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Leyes de oferta de vivienda: dos asociaciones coreanas piden rápida aprobación",
+        "excerpt": "El 7 de mayo, la Korea Housing Builders Association y la Korea Housing Association pidieron aprobar pronto las leyes de oferta de vivienda antes de la sesión plenaria del día 8.",
+        "body": "La Korea Housing Builders Association y la Korea Housing Association afirmaron el 7 de mayo que los proyectos de ley relacionados con las medidas de oferta de vivienda deben aprobarse con rapidez antes de la sesión plenaria prevista para el 8 de mayo. Entre las normas cuya aprobación solicitan figura una enmienda a la Ley de Mejora de Áreas Urbanas y Entornos Residenciales, destinada a acortar procedimientos clave de los proyectos de renovación. La declaración resume la petición del sector de completar el trámite legislativo necesario para aplicar las medidas de oferta de vivienda. El resultado dependerá del debate en la sesión plenaria. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Leis de oferta habitacional: associações coreanas pedem aprovação rápida",
+        "excerpt": "Em 7 de maio, a Korea Housing Builders Association e a Korea Housing Association pediram a rápida aprovação de projetos ligados à oferta habitacional antes da plenária do dia 8.",
+        "body": "A Korea Housing Builders Association e a Korea Housing Association afirmaram em 7 de maio que os projetos de lei relacionados às medidas de oferta habitacional devem ser aprovados rapidamente antes da sessão plenária marcada para 8 de maio. Entre os textos cuja aprovação foi solicitada está uma emenda à Lei de Melhoria de Áreas Urbanas e Ambientes Residenciais, que encurta procedimentos principais de projetos de renovação. A posição expressa o pedido do setor por tramitação legislativa necessária à execução das medidas de oferta de moradias. O desfecho dependerá da discussão na plenária. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Wohnungsangebot-Gesetze: Koreas Bauverbände drängen auf rasche Verabschiedung",
+        "excerpt": "Am 7. Mai forderten die Korea Housing Builders Association und die Korea Housing Association vor der Plenarsitzung am 8. Mai die zügige Verabschiedung von Gesetzen zum Wohnungsangebot.",
+        "body": "Die Korea Housing Builders Association und die Korea Housing Association erklärten am 7. Mai, dass Gesetze zu Maßnahmen für ein größeres Wohnungsangebot vor der für den 8. Mai angesetzten Plenarsitzung zügig verabschiedet werden sollten. Zu den von den beiden Verbänden geforderten Vorlagen gehört eine Änderung des Gesetzes zur Verbesserung städtischer Gebiete und Wohnumfelder, die wichtige Verfahren bei Sanierungsprojekten verkürzen soll. Die Stellungnahme fasst die Forderung der Branche nach den nötigen legislativen Schritten zur Umsetzung der Wohnungsangebotsmaßnahmen zusammen. Der weitere Verlauf hängt vom Ergebnis der Plenarsitzung ab. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Offre de logements: deux associations coréennes demandent un vote rapide",
+        "excerpt": "Le 7 mai, la Korea Housing Builders Association et la Korea Housing Association ont demandé l’adoption rapide de textes sur l’offre de logements avant la séance plénière du 8 mai.",
+        "body": "La Korea Housing Builders Association et la Korea Housing Association ont déclaré le 7 mai que les projets de loi liés aux mesures d’offre de logements devraient être adoptés rapidement avant la séance plénière prévue le 8 mai. Parmi les textes dont elles demandent l’adoption figure une révision de la loi sur l’amélioration des zones urbaines et des environnements résidentiels, destinée à raccourcir les principales procédures des projets de réaménagement. Cette position traduit la demande du secteur de mener à bien les étapes législatives nécessaires à l’application des mesures d’offre de logements. L’issue dépendra des discussions en séance plénière. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قوانين إمداد المساكن في كوريا: جمعيتان تطالبان بإقرار سريع",
+        "excerpt": "في 7 مايو، دعت جمعية بناة المساكن الكورية وجمعية الإسكان الكورية إلى تمرير سريع لمشروعات قوانين إمداد المساكن قبل الجلسة العامة في 8 مايو.",
+        "body": "قالت جمعية بناة المساكن الكورية وجمعية الإسكان الكورية في 7 مايو إن مشروعات القوانين المرتبطة بتدابير إمداد المساكن ينبغي أن تُمرر سريعًا قبل الجلسة العامة المقررة في 8 مايو. وتشمل القوانين التي طالبت الجمعيتان بإقرارها تعديلًا لقانون تحسين المناطق الحضرية والبيئات السكنية، يهدف إلى تقصير الإجراءات الرئيسية في مشروعات الصيانة وإعادة التطوير. ويعكس هذا الموقف طلب القطاع استكمال المسار التشريعي اللازم لتنفيذ تدابير إمداد المساكن. وستتحدد النتيجة وفق ما ستسفر عنه مناقشات الجلسة العامة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "आवास आपूर्ति विधेयकों पर कोरियाई संगठनों ने शीघ्र पारित करने की मांग की",
+        "excerpt": "कोरिया हाउसिंग बिल्डर्स एसोसिएशन और कोरिया हाउसिंग एसोसिएशन ने 7 मई को 8 मई की पूर्ण बैठक से पहले आवास आपूर्ति उपायों से जुड़े विधेयकों को शीघ्र पारित करने का आग्रह किया।",
+        "body": "कोरिया हाउसिंग बिल्डर्स एसोसिएशन और कोरिया हाउसिंग एसोसिएशन ने 7 मई को कहा कि 8 मई को होने वाली पूर्ण बैठक से पहले आवास आपूर्ति उपायों से संबंधित विधेयकों को शीघ्र पारित किया जाना चाहिए। जिन विधेयकों को पारित करने की मांग की गई है, उनमें शहरी क्षेत्रों और आवासीय वातावरण सुधार कानून में संशोधन शामिल है, जिसका उद्देश्य पुनर्विकास और रखरखाव परियोजनाओं की प्रमुख प्रक्रियाओं को छोटा करना है। यह बयान आवास आपूर्ति उपायों को लागू करने के लिए आवश्यक विधायी प्रक्रिया पूरी करने की उद्योग की मांग को दर्शाता है। आगे का निर्णय पूर्ण बैठक की चर्चा पर निर्भर करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "RUU Pasokan Hunian, Dua Asosiasi Perumahan Korea Desak Segera Disahkan",
+        "excerpt": "Pada 7 Mei, Korea Housing Builders Association dan Korea Housing Association mendesak pengesahan cepat RUU terkait pasokan hunian menjelang sidang paripurna 8 Mei.",
+        "body": "Korea Housing Builders Association dan Korea Housing Association pada 7 Mei menyatakan bahwa rancangan undang-undang terkait langkah pasokan hunian perlu segera disahkan menjelang sidang paripurna yang dijadwalkan pada 8 Mei. RUU yang mereka desak untuk disahkan mencakup revisi Undang-Undang Perbaikan Kawasan Perkotaan dan Lingkungan Hunian, yang bertujuan mempersingkat prosedur utama dalam proyek penataan dan peremajaan. Pernyataan ini merangkum permintaan industri agar proses legislasi yang diperlukan untuk menjalankan langkah pasokan hunian dapat diselesaikan. Keputusan akan bergantung pada hasil pembahasan di sidang paripurna. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "ea5241298dca",
     "slug": "휘발유-ℓ당-1934원최고가격-3연속-동결-475872",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Tol Kripto Iran Tingkatkan Risiko Sanksi bagi Eksportir Korea",
         "excerpt": "Peneliti senior Chainalysis Caitlin Martin memperingatkan bahwa aset virtual berkembang menjadi jalur penghindaran bagi negara terkena sanksi, sehingga pelayaran dan perbankan Korea perlu meninjau risiko sanksi sekunder AS.",
         "body": "Langkah Iran untuk menerima pembayaran tol dengan kripto kembali menyoroti risiko sanksi bagi eksportir, perusahaan pelayaran, dan perbankan Korea Selatan. Caitlin Martin, peneliti senior Chainalysis, mengatakan aset virtual berkembang menjadi jalur penghindaran bagi negara yang terkena sanksi. Menurut laporan asli, Korps Garda Revolusi Iran menerima aset virtual senilai 3 miliar dolar AS tahun lalu. Angka ini menunjukkan bahwa transaksi terkait negara yang dikenai sanksi dapat berlanjut melalui kanal kripto. Perusahaan Korea yang terekspos logistik atau pembayaran terkait Iran perlu meninjau risiko sanksi sekunder Amerika Serikat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5d5e0c896d5f",
-    "slug": "지난달-아파트-증여직거래-급증-가족-간-저가양도-늘었나-183270",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T04:26:22.628Z",
-    "updatedAt": "2026-05-07T04:26:22.628Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039025",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039025",
-    "titleFingerprint": "36e5ee0aac886cd7959876675c3c4e75def55895",
-    "dedupKeys": [
-      "5d5e0c896d5f58921d04ee280c6cb060eb63119d",
-      "36e5ee0aac886cd7959876675c3c4e75def55895",
-      "c48506659da18261c80a2f4b5c6f903f47cfd2d1"
-    ],
-    "imageUrl": "/images/articles/5d5e0c896d5f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "지난달 아파트 증여·직거래 급증, 가족 간 저가양도와 절세 전략 주목",
-        "excerpt": "지난달 아파트 증여와 직거래가 급증한 가운데 가족 간 저가양도 가능성이 주목받고, 증여·양도·보유세 절세 전략을 다루는 ‘14기’ 교육이 진행된다.",
-        "body": "지난달 아파트 증여와 직거래가 급증하면서 가족 간 저가양도가 늘었는지에 대한 관심이 커지고 있다. 원문은 증여·상속 관련 교육 과정인 ‘증여·상속의 모든 것 14기’가 진행된다고 전했다. 교육에서는 다주택자 양도세 중과 부활, 비거주 1주택자 장기보유특별공제 개정 등 세제 변화와 함께 증여세, 양도세, 보유세 절세 전략을 다룬다. 아파트 거래 방식 변화와 세 부담 이슈가 맞물리며 관련 상담 수요도 이어질 전망이다. 과정에는 질의응답과 1:1 개별 상담이 포함된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Apartment Gifts and Direct Deals Jump, Tax-Saving Strategies Draw Attention",
-        "excerpt": "As apartment gifts and direct transactions rose sharply last month, attention is turning to possible low-price transfers among family members and tax-saving education.",
-        "body": "Apartment gifts and direct transactions surged last month, drawing attention to whether low-price transfers among family members have increased. The source reported that the 14th session of an education program titled “Everything About Gifts and Inheritance” is being held. The program covers tax changes including the return of heavier capital gains tax for multiple-home owners and revisions to long-term holding special deductions for nonresident single-home owners. It also addresses strategies to reduce gift, transfer and property-holding taxes. As changing apartment transaction patterns meet tax burden concerns, demand for related consultation is expected to continue. The course includes Q&A and one-on-one individual counseling. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "先月マンション贈与・直接取引が急増、家族間の低価譲渡に関心",
-        "excerpt": "先月、マンションの贈与と直接取引が急増し、家族間の低価譲渡の可能性や贈与・譲渡・保有税の節税教育に注目が集まっている。",
-        "body": "先月、マンションの贈与と直接取引が急増し、家族間の低価譲渡が増えたのかに関心が高まっている。原文は、贈与・相続関連の教育課程「贈与・相続のすべて」第14期が実施されると伝えた。教育では、多住宅保有者への譲渡税重課の復活、非居住1住宅保有者の長期保有特別控除改正などの税制変化を扱う。あわせて贈与税、譲渡税、保有税の節税戦略も取り上げる。マンション取引方式の変化と税負担の問題が重なり、関連相談の需要も続く見通しだ。課程には質疑応答と1対1の個別相談が含まれる。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "上月公寓赠与和直交易激增，家庭低价转让与节税受关注",
-        "excerpt": "上月公寓赠与和直接交易激增，市场关注家庭成员间低价转让是否增加，以及赠与、转让和持有税节税教育。",
-        "body": "上月公寓赠与和直接交易激增，引发外界关注家庭成员之间的低价转让是否有所增加。原文称，关于赠与和继承的教育课程“赠与、继承的一切”第14期将举行。课程内容包括多套房持有者转让税重税恢复、非居民一套房持有者长期持有特别扣除修订等税制变化。同时，课程还将介绍赠与税、转让税和持有税的节税策略。随着公寓交易方式变化与税负问题交织，相关咨询需求预计将持续。课程包括问答和一对一个别咨询。来源: mk.co.kr。"
-      },
-      "es": {
-        "title": "Suben donaciones y tratos directos de pisos, crece foco en ahorro fiscal",
-        "excerpt": "Tras el fuerte aumento de donaciones y transacciones directas de apartamentos el mes pasado, crece la atención sobre traspasos familiares a bajo precio y formación fiscal.",
-        "body": "Las donaciones de apartamentos y las transacciones directas aumentaron con fuerza el mes pasado, lo que elevó el interés sobre si crecieron las transferencias a bajo precio entre familiares. La fuente informó que se realizará la 14.ª edición del curso “Todo sobre donaciones y herencias”. El programa aborda cambios fiscales como el restablecimiento del recargo del impuesto a las ganancias de capital para propietarios de varias viviendas y la revisión de la deducción especial por tenencia prolongada para no residentes con una sola vivienda. También trata estrategias para reducir impuestos sobre donaciones, transferencias y tenencia. Con los cambios en la forma de transar apartamentos y la carga fiscal, se prevé que continúe la demanda de consultas. Incluye preguntas y respuestas y asesoría individual 1:1. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Doações e negócios diretos de apartamentos disparam, foco vai a impostos",
-        "excerpt": "Com a alta forte nas doações e transações diretas de apartamentos no mês passado, cresce a atenção sobre transferências familiares abaixo do preço e planejamento tributário.",
-        "body": "As doações de apartamentos e as transações diretas aumentaram fortemente no mês passado, elevando o interesse sobre uma possível alta nas transferências abaixo do preço entre familiares. A fonte informou que será realizada a 14ª turma do curso “Tudo sobre doações e heranças”. A formação aborda mudanças tributárias, como o retorno da tributação agravada sobre ganho de capital para proprietários de múltiplos imóveis e a revisão da dedução especial por posse de longo prazo para não residentes com uma única moradia. Também cobre estratégias para reduzir impostos sobre doação, transferência e posse. Com a mudança nas formas de negociação de apartamentos e a preocupação com a carga tributária, a demanda por consultas deve continuar. O curso inclui perguntas e respostas e aconselhamento individual 1:1. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Wohnungsschenkungen und Direktdeals steigen, Steuerstrategien im Fokus",
-        "excerpt": "Nach dem starken Anstieg von Wohnungsschenkungen und Direkttransaktionen im vergangenen Monat rücken mögliche günstige Familienübertragungen und Steuerstrategien in den Fokus.",
-        "body": "Wohnungsschenkungen und direkte Transaktionen haben im vergangenen Monat stark zugenommen. Dadurch wächst das Interesse daran, ob Übertragungen zu niedrigen Preisen innerhalb von Familien häufiger geworden sind. Die Quelle berichtete, dass die 14. Ausgabe des Bildungsprogramms „Alles über Schenkung und Erbschaft“ stattfindet. Behandelt werden steuerliche Änderungen wie die Wiedereinführung einer höheren Kapitalertragsteuer für Eigentümer mehrerer Wohnungen und die Reform des Sonderabzugs für langfristigen Besitz bei nicht ansässigen Eigentümern einer einzigen Wohnung. Zudem geht es um Strategien zur Senkung von Schenkungs-, Übertragungs- und Besitzsteuern. Da veränderte Wohnungstransaktionen und Steuerlasten zusammenkommen, dürfte die Nachfrage nach Beratung anhalten. Der Kurs umfasst Fragen und Antworten sowie individuelle 1:1-Beratung. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Dons et ventes directes d’appartements bondissent, fiscalité en vedette",
-        "excerpt": "Après la forte hausse des dons et transactions directes d’appartements le mois dernier, l’attention se porte sur les cessions familiales à bas prix et l’optimisation fiscale.",
-        "body": "Les dons d’appartements et les transactions directes ont fortement augmenté le mois dernier, attirant l’attention sur une possible hausse des cessions à bas prix entre membres d’une même famille. La source indique que la 14e session du programme de formation « Tout sur les dons et les successions » est organisée. Le programme couvre des changements fiscaux, dont le retour de la surtaxe sur les plus-values pour les propriétaires de plusieurs logements et la révision de la déduction spéciale pour détention longue applicable aux non-résidents propriétaires d’un seul logement. Il traite aussi des stratégies de réduction des droits de donation, des taxes de cession et des taxes de détention. Avec l’évolution des modes de transaction d’appartements et les enjeux de charge fiscale, la demande de conseil devrait se poursuivre. Le cours comprend des questions-réponses et des consultations individuelles 1:1. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "ارتفاع هبات الشقق والصفقات المباشرة يسلط الضوء على التخطيط الضريبي",
-        "excerpt": "مع الارتفاع الحاد في هبات الشقق والتعاملات المباشرة الشهر الماضي، يتزايد الاهتمام بإمكان زيادة التحويلات منخفضة السعر بين أفراد الأسرة وبرامج التوفير الضريبي.",
-        "body": "ارتفعت هبات الشقق والتعاملات المباشرة بشكل حاد الشهر الماضي، ما زاد الاهتمام بما إذا كانت التحويلات منخفضة السعر بين أفراد الأسرة قد ارتفعت. وذكر المصدر أن الدورة الرابعة عشرة من برنامج تعليمي بعنوان «كل ما يتعلق بالهبات والميراث» ستُعقد. ويتناول البرنامج تغييرات ضريبية تشمل عودة الضريبة المشددة على أرباح التحويل لمالكي عدة مساكن، وتعديل الخصم الخاص بالاحتفاظ طويل الأجل لغير المقيمين الذين يملكون مسكنا واحدا. كما يعرض استراتيجيات لتقليل ضرائب الهبة والتحويل والحيازة. ومع تداخل تغير أنماط صفقات الشقق مع أعباء الضرائب، من المتوقع استمرار الطلب على الاستشارات ذات الصلة. ويتضمن البرنامج أسئلة وأجوبة واستشارات فردية 1:1. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "अपार्टमेंट गिफ्ट और सीधे सौदे बढ़े, परिवारों में कम दाम हस्तांतरण पर नजर",
-        "excerpt": "पिछले महीने अपार्टमेंट गिफ्ट और सीधे लेनदेन तेजी से बढ़ने के बाद परिवारों के बीच कम कीमत पर हस्तांतरण और टैक्स बचत शिक्षा पर ध्यान बढ़ा है।",
-        "body": "पिछले महीने अपार्टमेंट गिफ्ट और सीधे लेनदेन तेजी से बढ़े, जिससे यह सवाल उठ रहा है कि क्या परिवार के सदस्यों के बीच कम कीमत पर हस्तांतरण बढ़ा है। स्रोत ने बताया कि गिफ्ट और उत्तराधिकार से जुड़ा शिक्षा कार्यक्रम “गिफ्ट और उत्तराधिकार की हर बात” का 14वां सत्र आयोजित किया जा रहा है। इसमें कई घर रखने वालों पर कैपिटल गेन टैक्स की भारी दर की वापसी और गैर-निवासी एक-घर मालिकों के लिए लंबी अवधि होल्डिंग विशेष कटौती में संशोधन जैसे कर बदलाव शामिल हैं। कार्यक्रम गिफ्ट टैक्स, ट्रांसफर टैक्स और होल्डिंग टैक्स बचाने की रणनीतियां भी बताता है। अपार्टमेंट लेनदेन के तरीकों में बदलाव और कर बोझ के मुद्दे साथ आने से संबंधित परामर्श की मांग जारी रहने की संभावना है। पाठ्यक्रम में प्रश्नोत्तर और 1:1 व्यक्तिगत सलाह शामिल है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Hibah dan Transaksi Langsung Apartemen Melonjak, Strategi Pajak Disorot",
-        "excerpt": "Setelah hibah dan transaksi langsung apartemen melonjak bulan lalu, perhatian tertuju pada kemungkinan transfer murah antar keluarga dan edukasi penghematan pajak.",
-        "body": "Hibah apartemen dan transaksi langsung melonjak bulan lalu, sehingga perhatian meningkat pada apakah transfer dengan harga rendah antar anggota keluarga ikut bertambah. Sumber melaporkan bahwa program edukasi “Segala Hal tentang Hibah dan Warisan” angkatan ke-14 akan digelar. Program ini membahas perubahan pajak, termasuk kembalinya pengenaan lebih berat pajak keuntungan pengalihan bagi pemilik banyak rumah dan revisi pengurangan khusus kepemilikan jangka panjang bagi nonresiden pemilik satu rumah. Materi juga mencakup strategi mengurangi pajak hibah, pajak pengalihan, dan pajak kepemilikan. Dengan perubahan pola transaksi apartemen dan isu beban pajak, permintaan konsultasi terkait diperkirakan berlanjut. Program mencakup tanya jawab dan konsultasi individual 1:1. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "96a72f826e05",
-    "slug": "봄-하늘빛-minimini-쿠퍼-컨버터블s-인디고-브리즈-에디션-출시-141937",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T04:25:10.558Z",
-    "updatedAt": "2026-05-07T04:25:10.558Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039027",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039027",
-    "titleFingerprint": "5a4765de4a9541c518390aeec97684c074b2bae5",
-    "dedupKeys": [
-      "96a72f826e0557064e0f0b70e3dd30efbc517412",
-      "5a4765de4a9541c518390aeec97684c074b2bae5",
-      "ce0e31d415c0c2e2ff35762afcc8c10e24b8467a"
-    ],
-    "imageUrl": "/images/articles/96a72f826e05.jpg",
-    "i18n": {
-      "ko": {
-        "title": "MINI 쿠퍼 컨버터블S 인디고 브리즈 에디션 출시…봄 하늘빛 담은 특별 모델",
-        "excerpt": "MINI코리아가 7일 봄의 청명한 하늘과 산뜻한 바람을 콘셉트로 한 ‘더 MINI 쿠퍼 컨버터블S 인디고 브리즈 에디션’ 출시를 밝혔다.",
-        "body": "MINI코리아는 7일 봄의 청명한 하늘과 산뜻한 바람을 투영한 특별 모델 ‘더 MINI 쿠퍼 컨버터블S 인디고 브리즈 에디션’을 출시한다고 밝혔다. 이번 에디션은 MINI 쿠퍼 컨버터블S의 개방감 있는 차체와 계절감을 결합해 봄철 드라이빙 이미지를 강조한 모델로 소개됐다. ‘인디고 브리즈’라는 이름은 하늘빛 색감과 산뜻한 바람의 분위기를 전면에 내세운 것이 특징이다. MINI코리아는 감성적 디자인과 오픈톱 주행 경험을 원하는 소비자층을 겨냥해 특별 모델 라인업을 확장하는 흐름을 이어간다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "MINI Cooper Convertible S Indigo Breeze Edition Launches With Spring Sky Theme",
-        "excerpt": "MINI Korea said on May 7 it is launching the MINI Cooper Convertible S Indigo Breeze Edition, a special model inspired by clear spring skies and fresh breezes.",
-        "body": "MINI Korea announced on May 7 the launch of the MINI Cooper Convertible S Indigo Breeze Edition, a special model reflecting the clear skies and fresh breeze of spring. The edition is presented as a model that combines the open-air character of the MINI Cooper Convertible S with a seasonal driving image. The name “Indigo Breeze” highlights a sky-toned mood and a light, refreshing atmosphere. With the model, MINI Korea continues to expand its special-edition lineup for consumers seeking emotional design and an open-top driving experience. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "MINIクーパー コンバーチブルS インディゴブリーズ エディション発売、春空を映す特別モデル",
-        "excerpt": "MINIコリアは7日、春の澄んだ空とさわやかな風をコンセプトにした「MINIクーパー コンバーチブルS インディゴブリーズ エディション」の発売を発表した。",
-        "body": "MINIコリアは7日、春の澄んだ空とさわやかな風を反映した特別モデル「MINIクーパー コンバーチブルS インディゴブリーズ エディション」を発売すると明らかにした。今回のエディションは、MINIクーパー コンバーチブルSの開放感ある車体に季節感を組み合わせ、春のドライビングイメージを強調したモデルとして紹介された。「インディゴブリーズ」という名称は、空を思わせる色合いと軽やかな風の雰囲気を前面に出している点が特徴だ。MINIコリアは、感性的なデザインとオープントップの走行体験を求める消費者層に向け、特別モデルのラインアップを広げている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "MINI Cooper Convertible S Indigo Breeze版发布，春日天空主题特别车型登场",
-        "excerpt": "MINI韩国7日表示，将推出以春日晴朗天空和清爽微风为概念的MINI Cooper Convertible S Indigo Breeze Edition。",
-        "body": "MINI韩国7日宣布推出特别车型MINI Cooper Convertible S Indigo Breeze Edition，该车型映射春日晴朗天空与清爽微风的氛围。此次版本被介绍为将MINI Cooper Convertible S的开放式车身感受与季节意象结合，突出春季驾驶氛围的车型。“Indigo Breeze”这一名称强调天空色调与轻快微风带来的清新感。通过该车型，MINI韩国继续扩展面向追求感性设计和敞篷驾驶体验消费者的特别版产品阵容。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "MINI Cooper Convertible S Indigo Breeze Edition llega con inspiración de cielo primaveral",
-        "excerpt": "MINI Corea anunció el 7 de mayo el lanzamiento del MINI Cooper Convertible S Indigo Breeze Edition, un modelo especial inspirado en el cielo claro y la brisa fresca de primavera.",
-        "body": "MINI Corea anunció el 7 de mayo el lanzamiento del MINI Cooper Convertible S Indigo Breeze Edition, un modelo especial que refleja el cielo despejado y la brisa fresca de la primavera. La edición se presenta como una propuesta que combina la carrocería abierta del MINI Cooper Convertible S con una imagen de conducción estacional. El nombre “Indigo Breeze” pone en primer plano un tono asociado al cielo y una atmósfera ligera y refrescante. Con este modelo, MINI Corea continúa ampliando su línea de ediciones especiales para consumidores que buscan diseño emocional y una experiencia de conducción a cielo abierto. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "MINI Cooper Convertible S Indigo Breeze Edition estreia com tema de céu primaveril",
-        "excerpt": "A MINI Coreia anunciou em 7 de maio o lançamento do MINI Cooper Convertible S Indigo Breeze Edition, modelo especial inspirado no céu claro e na brisa fresca da primavera.",
-        "body": "A MINI Coreia anunciou em 7 de maio o lançamento do MINI Cooper Convertible S Indigo Breeze Edition, um modelo especial que reflete o céu límpido e a brisa fresca da primavera. A edição é apresentada como um modelo que combina a carroceria aberta do MINI Cooper Convertible S com uma imagem de condução sazonal. O nome “Indigo Breeze” destaca uma tonalidade ligada ao céu e uma atmosfera leve e refrescante. Com o modelo, a MINI Coreia segue ampliando sua linha de edições especiais para consumidores que buscam design emocional e experiência de direção com teto aberto. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "MINI Cooper Convertible S Indigo Breeze Edition startet als Frühlings-Sondermodell",
-        "excerpt": "MINI Korea gab am 7. Mai die Einführung des MINI Cooper Convertible S Indigo Breeze Edition bekannt, eines Sondermodells mit klarer Frühlingshimmel- und Frischwind-Inspiration.",
-        "body": "MINI Korea kündigte am 7. Mai die Einführung des MINI Cooper Convertible S Indigo Breeze Edition an, eines Sondermodells, das den klaren Himmel und die frische Brise des Frühlings aufgreift. Die Edition wird als Modell vorgestellt, das den offenen Charakter des MINI Cooper Convertible S mit einer saisonalen Fahratmosphäre verbindet. Der Name “Indigo Breeze” stellt eine himmelartige Farbwirkung und eine leichte, erfrischende Stimmung in den Vordergrund. Damit erweitert MINI Korea seine Sondermodellpalette für Käufer, die emotionales Design und ein Open-Top-Fahrerlebnis suchen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "MINI Cooper Convertible S Indigo Breeze Edition lancé avec une inspiration de ciel printanier",
-        "excerpt": "MINI Corée a annoncé le 7 mai le lancement du MINI Cooper Convertible S Indigo Breeze Edition, un modèle spécial inspiré par le ciel clair et la brise fraîche du printemps.",
-        "body": "MINI Corée a annoncé le 7 mai le lancement du MINI Cooper Convertible S Indigo Breeze Edition, un modèle spécial qui reflète le ciel limpide et la brise fraîche du printemps. Cette édition est présentée comme un modèle combinant la carrosserie ouverte du MINI Cooper Convertible S avec une image de conduite saisonnière. Le nom “Indigo Breeze” met en avant une tonalité évoquant le ciel et une atmosphère légère et rafraîchissante. Avec ce modèle, MINI Corée poursuit l’élargissement de sa gamme d’éditions spéciales destinée aux consommateurs recherchant un design émotionnel et une expérience de conduite à ciel ouvert. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إطلاق MINI Cooper Convertible S Indigo Breeze Edition بطابع سماء الربيع",
-        "excerpt": "أعلنت MINI كوريا في 7 مايو إطلاق MINI Cooper Convertible S Indigo Breeze Edition، وهو طراز خاص مستوحى من صفاء سماء الربيع ونسماته المنعشة.",
-        "body": "أعلنت MINI كوريا في 7 مايو إطلاق MINI Cooper Convertible S Indigo Breeze Edition، وهو طراز خاص يعكس صفاء سماء الربيع ونسماته المنعشة. وتقدم هذه النسخة باعتبارها نموذجا يجمع بين الإحساس المفتوح في MINI Cooper Convertible S وصورة قيادة موسمية مرتبطة بالربيع. ويبرز اسم “Indigo Breeze” لونا مستوحى من السماء وأجواء خفيفة ومنعشة. ومن خلال هذا الطراز، تواصل MINI كوريا توسيع تشكيلة الطرازات الخاصة الموجهة إلى المستهلكين الباحثين عن تصميم عاطفي وتجربة قيادة بسقف مفتوح. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "MINI Cooper Convertible S Indigo Breeze Edition लॉन्च, वसंत आकाश से प्रेरित विशेष मॉडल",
-        "excerpt": "MINI Korea ने 7 मई को साफ वसंत आकाश और ताज़ी हवा की थीम पर आधारित MINI Cooper Convertible S Indigo Breeze Edition लॉन्च करने की घोषणा की।",
-        "body": "MINI Korea ने 7 मई को MINI Cooper Convertible S Indigo Breeze Edition लॉन्च करने की घोषणा की, जो साफ वसंत आकाश और ताज़ी हवा से प्रेरित एक विशेष मॉडल है। इस एडिशन को MINI Cooper Convertible S की ओपन-टॉप बॉडी भावना और मौसमी ड्राइविंग इमेज को जोड़ने वाले मॉडल के रूप में पेश किया गया है। “Indigo Breeze” नाम आसमानी रंगत और हल्के, ताज़गीभरे माहौल को सामने रखता है। इस मॉडल के साथ MINI Korea भावनात्मक डिजाइन और ओपन-टॉप ड्राइविंग अनुभव चाहने वाले ग्राहकों के लिए अपनी विशेष मॉडल लाइनअप का विस्तार जारी रखती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "MINI Cooper Convertible S Indigo Breeze Edition Meluncur dengan Nuansa Langit Musim Semi",
-        "excerpt": "MINI Korea pada 7 Mei mengumumkan peluncuran MINI Cooper Convertible S Indigo Breeze Edition, model khusus yang terinspirasi langit cerah dan angin segar musim semi.",
-        "body": "MINI Korea pada 7 Mei mengumumkan peluncuran MINI Cooper Convertible S Indigo Breeze Edition, model khusus yang mencerminkan langit cerah dan angin segar musim semi. Edisi ini diperkenalkan sebagai model yang memadukan karakter bodi terbuka MINI Cooper Convertible S dengan citra berkendara musiman. Nama “Indigo Breeze” menonjolkan nuansa warna langit dan suasana ringan yang menyegarkan. Melalui model ini, MINI Korea terus memperluas lini edisi khusus bagi konsumen yang mencari desain emosional dan pengalaman berkendara open-top. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5e027ae5af01",
-    "slug": "미국투자이민-보딩스쿨부터-취업까지-이어지는-장기-설계의-시대-798756",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T04:24:08.481Z",
-    "updatedAt": "2026-05-07T04:24:08.481Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12038912",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12038912",
-    "titleFingerprint": "8cf3f7763c42afd3ea65a2adfb6a25bf84dd42cd",
-    "dedupKeys": [
-      "5e027ae5af018a66fcde21ccc1f93241751f45c0",
-      "8cf3f7763c42afd3ea65a2adfb6a25bf84dd42cd",
-      "602387b0afc50d30a50e64f7683ebf216b97f287"
-    ],
-    "imageUrl": "/images/articles/5e027ae5af01.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미국투자이민, 보딩스쿨부터 취업까지 잇는 장기 설계 주목",
-        "excerpt": "최근 교육 시장에서 미국투자이민은 자녀의 학교 선택을 넘어 보딩스쿨, 대학, 취업까지 연결하는 장기 설계의 관점으로 주목받고 있다.",
-        "body": "최근 교육 시장에서 미국투자이민을 바라보는 기준이 달라지고 있다. 과거에는 자녀를 어느 학교에 보낼지가 핵심 질문이었다면, 이제는 아이의 미래를 어떤 구조 안에서 설계할지가 더 중요한 쟁점으로 떠올랐다. 보딩스쿨 진학부터 대학, 취업까지 이어지는 장기 경로를 함께 고려하는 흐름이다. 원문은 구체적인 수치보다 교육 선택의 관점 변화에 초점을 맞췄다. 이에 따라 미국투자이민은 단기 입학 전략이 아니라 자녀의 교육과 진로를 연결하는 장기 계획의 일부로 논의될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "U.S. Investment Immigration Gains Focus as Long-Term Path From Boarding School to Jobs",
-        "excerpt": "In the recent education market, U.S. investment immigration is drawing attention as families look beyond school choice to long-term planning through boarding school, college and employment.",
-        "body": "The way families view U.S. investment immigration is changing in the recent education market. In the past, the key question was which school to send a child to. Now, the bigger issue is what kind of structure can shape the child’s future. The discussion is expanding to a long-term path that links boarding school, university and employment. The original article focuses on this shift in perspective rather than specific figures. As a result, U.S. investment immigration is expected to be discussed not as a short-term admissions strategy, but as part of a long-term plan connecting education and career. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "米国投資移民、ボーディングスクールから就職まで長期設計に注目",
-        "excerpt": "最近の教育市場では、米国投資移民が学校選びを超え、ボーディングスクール、大学、就職までを結ぶ長期設計として注目されている。",
-        "body": "最近の教育市場で、米国投資移民を見る基準が変わりつつある。かつては子どもをどの学校に送るかが中心的な問いだったが、今は子どもの未来をどのような枠組みの中で設計するかがより重要な論点になっている。ボーディングスクール進学から大学、就職まで続く長期的な進路を合わせて考える流れだ。原文は具体的な数値よりも、教育選択をめぐる視点の変化に焦点を当てている。米国投資移民は今後、短期的な入学戦略ではなく、教育と進路をつなぐ長期計画の一部として論じられる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "美国投资移民受关注：从寄宿学校到就业的长期规划时代",
-        "excerpt": "近期教育市场中，美国投资移民不再只关乎择校，而是被视为连接寄宿学校、大学与就业的子女长期规划。",
-        "body": "近期教育市场中，人们看待美国投资移民的标准正在发生变化。过去，核心问题是把孩子送到哪所学校；如今，更重要的议题变成了在怎样的结构中规划孩子的未来。这一趋势把寄宿学校升学、大学教育和就业路径放在一起考虑。原文并未强调具体数字，而是聚焦教育选择视角的变化。因此，美国投资移民预计将不再只是短期入学策略，而会作为连接子女教育与职业发展的长期计划的一部分被讨论。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Inmigración por inversión en EE. UU.: planificación de internado a empleo gana peso",
-        "excerpt": "En el mercado educativo reciente, la inmigración por inversión en EE. UU. atrae atención como una planificación que conecta internado, universidad y empleo.",
-        "body": "En el mercado educativo reciente está cambiando la forma de ver la inmigración por inversión en Estados Unidos. Antes, la pregunta central era a qué escuela enviar al hijo. Ahora, el tema más importante es dentro de qué estructura diseñar su futuro. La atención se desplaza hacia una ruta de largo plazo que conecta el internado, la universidad y el empleo. El texto original se centra en este cambio de perspectiva más que en cifras concretas. Por ello, la inmigración por inversión en EE. UU. se discutirá cada vez más no como una estrategia de admisión a corto plazo, sino como parte de un plan que une educación y carrera. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Imigração por investimento nos EUA ganha foco em plano de internato ao emprego",
-        "excerpt": "No mercado educacional recente, a imigração por investimento nos EUA passa a ser vista como planejamento de longo prazo entre internato, universidade e emprego.",
-        "body": "No mercado educacional recente, está mudando a forma de avaliar a imigração por investimento nos Estados Unidos. Antes, a pergunta principal era para qual escola enviar o filho. Agora, a questão mais relevante é em que estrutura o futuro da criança será planejado. A tendência considera um caminho de longo prazo que liga internato, universidade e emprego. O texto original destaca essa mudança de perspectiva, sem enfatizar números específicos. Assim, a imigração por investimento nos EUA tende a ser discutida não como uma estratégia de admissão de curto prazo, mas como parte de um plano que conecta educação e carreira. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "US-Investorenvisum rückt als Langfristplan von Boarding School bis Job in den Fokus",
-        "excerpt": "Im aktuellen Bildungsmarkt wird US-Investmentimmigration zunehmend als langfristige Planung verstanden, die Boarding School, Studium und Beschäftigung verbindet.",
-        "body": "Im aktuellen Bildungsmarkt verändert sich der Blick auf US-Investmentimmigration. Früher stand die Frage im Mittelpunkt, auf welche Schule ein Kind geschickt werden sollte. Heute rückt stärker in den Vordergrund, in welcher Struktur die Zukunft des Kindes geplant wird. Der Trend verbindet den Besuch einer Boarding School, das Studium und den späteren Beruf zu einem langfristigen Weg. Der Originaltext konzentriert sich weniger auf konkrete Zahlen als auf diesen Perspektivwechsel bei Bildungsentscheidungen. Daher dürfte US-Investmentimmigration künftig nicht nur als kurzfristige Aufnahmestrategie, sondern als Teil eines langfristigen Plans für Bildung und Karriere diskutiert werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Immigration d’investissement aux États-Unis : du pensionnat à l’emploi, la planification s’impose",
-        "excerpt": "Sur le marché récent de l’éducation, l’immigration d’investissement aux États-Unis est vue comme un plan reliant pensionnat, université et emploi.",
-        "body": "Sur le marché récent de l’éducation, la manière d’aborder l’immigration d’investissement aux États-Unis évolue. Autrefois, la question centrale était de savoir dans quelle école inscrire son enfant. Désormais, l’enjeu porte davantage sur la structure dans laquelle son avenir sera conçu. La réflexion s’étend à un parcours de long terme reliant pensionnat, université et emploi. L’article original met l’accent sur ce changement de perspective plutôt que sur des chiffres précis. L’immigration d’investissement aux États-Unis devrait donc être discutée non comme une simple stratégie d’admission à court terme, mais comme une partie d’un plan reliant éducation et carrière. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الهجرة الاستثمارية إلى أميركا تبرز كخطة طويلة من المدارس الداخلية إلى العمل",
-        "excerpt": "في سوق التعليم مؤخرا، تحظى الهجرة الاستثمارية إلى أميركا باهتمام يتجاوز اختيار المدرسة إلى تخطيط طويل يربط المدرسة الداخلية والجامعة والعمل.",
-        "body": "يشهد سوق التعليم مؤخرا تغيرا في طريقة النظر إلى الهجرة الاستثمارية إلى الولايات المتحدة. في الماضي كان السؤال الأساسي هو: إلى أي مدرسة يجب إرسال الطفل؟ أما الآن فأصبح السؤال الأهم هو ضمن أي بنية يمكن تصميم مستقبل الطفل. ويتجه الاهتمام إلى مسار طويل يربط الالتحاق بالمدارس الداخلية ثم الجامعة ثم العمل. يركز النص الأصلي على هذا التحول في زاوية النظر أكثر من تركيزه على أرقام محددة. لذلك من المتوقع أن تُناقش الهجرة الاستثمارية إلى أميركا لا كاستراتيجية قبول قصيرة الأجل، بل كجزء من خطة طويلة تربط التعليم بالمسار المهني. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अमेरिकी निवेश आव्रजन: बोर्डिंग स्कूल से नौकरी तक लंबी योजना पर बढ़ा ध्यान",
-        "excerpt": "हालिया शिक्षा बाजार में अमेरिकी निवेश आव्रजन को अब सिर्फ स्कूल चयन नहीं, बल्कि बोर्डिंग स्कूल, विश्वविद्यालय और रोजगार जोड़ने वाली दीर्घकालिक योजना के रूप में देखा जा रहा है।",
-        "body": "हालिया शिक्षा बाजार में अमेरिकी निवेश आव्रजन को देखने का तरीका बदल रहा है। पहले मुख्य सवाल यह था कि बच्चे को किस स्कूल में भेजा जाए। अब बड़ा मुद्दा यह है कि बच्चे के भविष्य को किस संरचना के भीतर डिजाइन किया जाए। चर्चा बोर्डिंग स्कूल में प्रवेश से लेकर विश्वविद्यालय और फिर रोजगार तक जुड़ने वाले दीर्घकालिक मार्ग की ओर बढ़ रही है। मूल लेख ने विशिष्ट आंकड़ों के बजाय शिक्षा चयन की दृष्टि में आए इस बदलाव पर ध्यान दिया है। इसलिए अमेरिकी निवेश आव्रजन को अब अल्पकालिक प्रवेश रणनीति नहीं, बल्कि शिक्षा और करियर को जोड़ने वाली दीर्घकालिक योजना के हिस्से के रूप में देखा जा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Imigrasi Investasi AS Disorot sebagai Rencana Panjang dari Boarding School ke Kerja",
-        "excerpt": "Di pasar pendidikan terbaru, imigrasi investasi AS menarik perhatian sebagai perencanaan jangka panjang yang menghubungkan boarding school, kuliah, dan pekerjaan.",
-        "body": "Di pasar pendidikan terbaru, cara memandang imigrasi investasi ke Amerika Serikat sedang berubah. Dahulu, pertanyaan utamanya adalah sekolah mana yang harus dipilih untuk anak. Kini, isu yang lebih penting adalah dalam struktur seperti apa masa depan anak dirancang. Perhatian bergeser ke jalur jangka panjang yang menghubungkan boarding school, universitas, dan pekerjaan. Artikel asli menekankan perubahan sudut pandang ini, bukan angka-angka tertentu. Karena itu, imigrasi investasi AS diperkirakan akan dibahas bukan sebagai strategi masuk sekolah jangka pendek, melainkan sebagai bagian dari rencana panjang yang menghubungkan pendidikan dan karier. Sumber: mk.co.kr"
       }
     }
   }
