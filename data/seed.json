@@ -1,5 +1,230 @@
 [
   {
+    "id": "fe1743febd79",
+    "slug": "희망퇴직-늘리고-신입-안-뽑았는데4대은행-1분기-인건비-2조-448723",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T12:32:18.291Z",
+    "updatedAt": "2026-05-07T12:32:18.291Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12039899",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12039899",
+    "titleFingerprint": "b685359eee5423467970b6208922976563b4be77",
+    "dedupKeys": [
+      "fe1743febd79e2ecd4e70581062b246a13e09bdf",
+      "b685359eee5423467970b6208922976563b4be77",
+      "452867c02104833f6c5aa2ba8fba75c12d4f8cd3"
+    ],
+    "imageUrl": "/images/articles/fe1743febd79.png",
+    "i18n": {
+      "ko": {
+        "title": "4대은행 1분기 인건비 2조원 돌파, 희망퇴직에도 비용 증가",
+        "excerpt": "올해 1분기 4대 시중은행의 인건비가 2조원을 넘었다. 희망퇴직 확대와 신규 채용 축소에도 비용 증가율은 순이익 증가율 3%를 웃돌며 생산성 개선 압박이 커졌다.",
+        "body": "올해 1분기 4대 시중은행이 인건비로 지출한 금액이 2조원을 넘어섰다. 희망퇴직을 늘리고 신규 채용을 줄이는 등 인력 감축 기조를 이어갔지만, 인건비 부담은 계속 커진 것으로 나타났다. 원문에 따르면 이 같은 인건비 증가율은 순이익 증가율 3%보다 높았다. 은행권은 인력 효율화에도 비용 증가가 이어지자 AI 활용을 통한 생산성 제고에 속도를 내는 분위기다. 희망퇴직과 채용 축소만으로는 인건비 압박을 낮추기 어려운 만큼, 향후 디지털 전환과 업무 자동화가 비용 관리의 핵심 과제로 부각될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Major Korean Banks’ Q1 Labor Costs Top 2 Trillion Won Despite Voluntary Retirements",
+        "excerpt": "In the first quarter, South Korea’s four major commercial banks spent more than 2 trillion won on labor costs, even as they expanded voluntary retirements and reduced new hiring.",
+        "body": "South Korea’s four major commercial banks spent more than 2 trillion won on labor costs in the first quarter of this year. The increase came despite an ongoing workforce reduction trend, including expanded voluntary retirement programs and reduced new hiring. According to the source, the growth rate of labor costs was higher than the 3% increase in net profit. As personnel expenses continue to rise even with staffing efficiency efforts, banks are moving faster to improve productivity through AI. Voluntary retirements and hiring cuts alone appear insufficient to ease labor cost pressure, making digital transformation and work automation key cost-management issues ahead. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "4大銀行の1四半期人件費が2兆ウォン超、希望退職拡大でも増加",
+        "excerpt": "今年1～3月期、韓国の4大市中銀行の人件費は2兆ウォンを超えた。希望退職の拡大と新規採用の縮小にもかかわらず、費用増加率は純利益増加率3%を上回った。",
+        "body": "今年1～3月期、韓国の4大市中銀行が人件費として支出した金額は2兆ウォンを超えた。希望退職を増やし、新規採用を抑えるなど人員削減の流れを続けているにもかかわらず、人件費の負担は拡大した。原文によると、人件費の増加率は純利益の増加率3%を上回った。銀行業界では、人員効率化を進めても費用増が続くため、AI活用による生産性向上を急ぐ動きが強まっている。希望退職や採用縮小だけでは人件費圧力を下げにくく、今後はデジタル転換と業務自動化が費用管理の重要課題となる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国四大银行一季度人工成本超2万亿韩元，缩招退职仍难降费",
+        "excerpt": "今年一季度，韩国四大商业银行人工成本超过2万亿韩元。尽管扩大自愿退休并减少新招聘，人工成本增速仍高于3%的净利润增速。",
+        "body": "今年一季度，韩国四大商业银行用于人工成本的支出超过2万亿韩元。尽管银行业延续人员压缩趋势，包括扩大自愿退休和减少新员工招聘，但人工成本负担仍在上升。原文显示，人工成本增速高于净利润3%的增速。随着人员效率化措施下费用仍继续增加，银行业正加快通过AI提升生产率。仅靠自愿退休和缩减招聘难以缓解人工成本压力，未来数字化转型和业务自动化将成为成本管理的核心课题。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Costes laborales de cuatro grandes bancos superan 2 billones de wones en el primer trimestre",
+        "excerpt": "En el primer trimestre, los cuatro grandes bancos comerciales de Corea del Sur gastaron más de 2 billones de wones en personal pese a ampliar retiros voluntarios y reducir contrataciones.",
+        "body": "En el primer trimestre de este año, los cuatro grandes bancos comerciales de Corea del Sur gastaron más de 2 billones de wones en costes laborales. Esto ocurrió pese a mantener una tendencia de reducción de plantilla, con más retiros voluntarios y menos nuevas contrataciones. Según el texto original, el ritmo de aumento de esos costes fue superior al crecimiento del 3% del beneficio neto. Ante el avance de los gastos incluso con medidas de eficiencia laboral, la banca está acelerando el uso de IA para elevar la productividad. Los retiros voluntarios y el menor reclutamiento no bastan por sí solos para aliviar la presión, por lo que la digitalización y la automatización ganan peso en la gestión de costes. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Custos de pessoal dos quatro grandes bancos passam de 2 trilhões de won no 1º trimestre",
+        "excerpt": "No primeiro trimestre, os quatro grandes bancos comerciais da Coreia do Sul gastaram mais de 2 trilhões de won com pessoal, mesmo com mais aposentadorias voluntárias e menos contratações.",
+        "body": "No primeiro trimestre deste ano, os quatro grandes bancos comerciais da Coreia do Sul gastaram mais de 2 trilhões de won em custos de pessoal. O avanço ocorreu apesar da continuidade da redução de força de trabalho, com ampliação de aposentadorias voluntárias e corte nas novas contratações. Segundo o texto original, a taxa de aumento desses custos ficou acima do crescimento de 3% do lucro líquido. Com as despesas subindo mesmo após medidas de eficiência, os bancos aceleram o uso de IA para elevar a produtividade. Aposentadorias voluntárias e menor contratação, sozinhas, parecem insuficientes para reduzir a pressão, tornando digitalização e automação prioridades na gestão de custos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Personalkosten der vier Großbanken übersteigen im ersten Quartal 2 Billionen Won",
+        "excerpt": "Im ersten Quartal gaben Südkoreas vier große Geschäftsbanken mehr als 2 Billionen Won für Personal aus, obwohl sie freiwillige Abgänge ausweiteten und Neueinstellungen reduzierten.",
+        "body": "Südkoreas vier große Geschäftsbanken haben im ersten Quartal dieses Jahres mehr als 2 Billionen Won für Personalkosten ausgegeben. Das geschah trotz einer anhaltenden Strategie zur Verringerung der Belegschaft, darunter mehr freiwillige Abgänge und weniger Neueinstellungen. Laut Originaltext lag die Wachstumsrate der Personalkosten über dem Anstieg des Nettogewinns von 3%. Da die Kosten trotz Effizienzmaßnahmen weiter steigen, beschleunigen Banken den Einsatz von KI zur Produktivitätssteigerung. Freiwillige Abgänge und geringere Einstellungen reichen allein offenbar nicht aus, um den Kostendruck zu senken. Digitalisierung und Automatisierung werden damit zu zentralen Aufgaben im Kostenmanagement. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les frais de personnel des quatre grandes banques dépassent 2 000 milliards de wons au T1",
+        "excerpt": "Au premier trimestre, les quatre grandes banques commerciales sud-coréennes ont dépensé plus de 2 000 milliards de wons en personnel malgré davantage de départs volontaires et moins d’embauches.",
+        "body": "Au premier trimestre de cette année, les quatre grandes banques commerciales sud-coréennes ont consacré plus de 2 000 milliards de wons aux frais de personnel. Cette hausse intervient malgré une politique de réduction des effectifs, avec davantage de départs volontaires et moins de nouvelles embauches. Selon le texte original, la progression de ces frais a dépassé la hausse de 3% du bénéfice net. Face à des coûts qui continuent d’augmenter malgré les efforts d’efficacité, les banques accélèrent l’usage de l’IA pour améliorer la productivité. Les départs volontaires et le recul du recrutement ne suffisent donc pas à réduire la pression sur les coûts, plaçant la transformation numérique et l’automatisation au centre des priorités. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تكاليف موظفي أكبر أربعة بنوك كورية تتجاوز تريليوني وون في الربع الأول",
+        "excerpt": "في الربع الأول، أنفقت أكبر أربعة بنوك تجارية في كوريا الجنوبية أكثر من تريليوني وون على تكاليف الموظفين رغم توسيع التقاعد الطوعي وتقليص التوظيف الجديد.",
+        "body": "في الربع الأول من هذا العام، تجاوز ما أنفقته أكبر أربعة بنوك تجارية في كوريا الجنوبية على تكاليف الموظفين تريليوني وون. وجاء ذلك رغم استمرار توجه خفض القوى العاملة عبر زيادة برامج التقاعد الطوعي وتقليص التوظيف الجديد. وبحسب النص الأصلي، كان معدل ارتفاع تكاليف الموظفين أعلى من معدل نمو صافي الأرباح البالغ 3%. ومع استمرار زيادة النفقات رغم جهود تحسين كفاءة العمالة، تتجه البنوك إلى تسريع استخدام الذكاء الاصطناعي لرفع الإنتاجية. ويبدو أن التقاعد الطوعي وخفض التوظيف لا يكفيان وحدهما لتخفيف ضغط التكاليف، ما يجعل التحول الرقمي وأتمتة الأعمال من أبرز مهام إدارة النفقات المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चार बड़े कोरियाई बैंकों की पहली तिमाही श्रम लागत 2 ट्रिलियन वॉन के पार",
+        "excerpt": "इस साल पहली तिमाही में दक्षिण कोरिया के चार बड़े वाणिज्यिक बैंकों ने श्रम लागत पर 2 ट्रिलियन वॉन से अधिक खर्च किया, जबकि स्वैच्छिक सेवानिवृत्ति बढ़ी और नई भर्ती घटी।",
+        "body": "इस साल पहली तिमाही में दक्षिण कोरिया के चार बड़े वाणिज्यिक बैंकों ने श्रम लागत पर 2 ट्रिलियन वॉन से अधिक खर्च किया। यह वृद्धि ऐसे समय हुई जब बैंक स्वैच्छिक सेवानिवृत्ति बढ़ाने और नई नियुक्तियों को कम करने सहित कर्मचारियों की संख्या घटाने की दिशा बनाए हुए थे। मूल रिपोर्ट के अनुसार, श्रम लागत की वृद्धि दर शुद्ध लाभ की 3% वृद्धि दर से अधिक रही। कर्मचारियों की दक्षता बढ़ाने की कोशिशों के बावजूद खर्च बढ़ने से बैंक AI के उपयोग के जरिए उत्पादकता सुधारने की गति बढ़ा रहे हैं। केवल स्वैच्छिक सेवानिवृत्ति और भर्ती कटौती से लागत दबाव कम करना कठिन दिखता है, इसलिए डिजिटल परिवर्तन और कार्य स्वचालन आगे लागत प्रबंधन के प्रमुख मुद्दे बनेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Biaya Tenaga Kerja Empat Bank Besar Korea Tembus 2 Triliun Won pada Kuartal I",
+        "excerpt": "Pada kuartal pertama tahun ini, empat bank komersial besar Korea Selatan menghabiskan lebih dari 2 triliun won untuk biaya tenaga kerja meski pensiun sukarela diperluas dan rekrutmen baru dikurangi.",
+        "body": "Pada kuartal pertama tahun ini, empat bank komersial besar Korea Selatan mengeluarkan lebih dari 2 triliun won untuk biaya tenaga kerja. Kenaikan ini terjadi meski tren pengurangan personel berlanjut, termasuk perluasan pensiun sukarela dan pengurangan perekrutan baru. Menurut teks asli, laju kenaikan biaya tenaga kerja lebih tinggi daripada pertumbuhan laba bersih sebesar 3%. Karena biaya tetap meningkat meski ada upaya efisiensi tenaga kerja, perbankan mempercepat pemanfaatan AI untuk meningkatkan produktivitas. Pensiun sukarela dan pemangkasan rekrutmen saja tampaknya belum cukup menekan beban biaya, sehingga transformasi digital dan otomatisasi kerja akan menjadi agenda utama pengelolaan biaya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e887719439a8",
+    "slug": "與-8일-표결-재추진-野는-졸속-개헌개헌안-투표-불성립-무산-583575",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T12:31:13.197Z",
+    "updatedAt": "2026-05-07T12:31:13.197Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12039900",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12039900",
+    "titleFingerprint": "8529cc3dcb475973ec0d75bb74acb49e6a210df7",
+    "dedupKeys": [
+      "e887719439a810e23e0503d49f58f480f224d75d",
+      "8529cc3dcb475973ec0d75bb74acb49e6a210df7",
+      "526fa9765fc7306e4183a3d97ec8f0a6be978b74"
+    ],
+    "imageUrl": "/images/articles/e887719439a8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "개헌안 투표 불성립 무산, 與 8일 재추진·野 ‘졸속 개헌’ 반발",
+        "excerpt": "국회에서 원포인트 개헌안 표결이 국민의힘 보이콧으로 의결정족수에 미달해 불성립됐고, 여당은 8일 재표결을 추진하는 반면 야당은 졸속 개헌이라며 반발했다.",
+        "body": "국회에서 ‘원포인트 개헌’ 개헌안 투표가 국민의힘 보이콧으로 의결정족수에 미달해 불성립됐다. 여당은 오는 8일 표결을 다시 추진하겠다는 입장이지만, 야당은 “졸속 개헌”이라며 반발하고 있다. 이번 투표 불성립으로 지방선거 때 국민투표를 함께 실시하려던 일정은 무산될 가능성이 커졌다. 청와대는 “투표 거부로 불성립된 데 유감”이라는 입장을 냈다. 다만 국회는 비쟁점 법안 110여 건을 처리했으며, 유급휴가를 시간 단위로 사용할 수 있도록 하는 내용 등도 포함됐다. 향후 재표결 추진 여부와 여야 대치가 개헌 논의의 핵심 변수가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Constitutional amendment vote fails as ruling bloc seeks May 8 retry",
+        "excerpt": "A one-point constitutional amendment vote failed to meet the quorum after a People Power Party boycott, while the ruling side plans another vote on May 8 and the opposition denounces a rushed revision.",
+        "body": "A National Assembly vote on a “one-point” constitutional amendment failed to proceed after a People Power Party boycott left it short of the required quorum. The ruling side says it will push for another vote on May 8, while the opposition has criticized the proposal as a “rushed constitutional amendment.” The failed vote raises the possibility that a planned national referendum alongside local elections may not take place. The presidential office expressed regret, saying the vote became invalid because lawmakers refused to participate. Separately, the Assembly passed about 110 non-controversial bills, including measures allowing paid leave to be used by the hour. Whether the revote goes ahead and how the parties respond will shape the next stage of the amendment debate. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "改憲案採決が不成立、与党は8日に再推進・野党は拙速改憲と反発",
+        "excerpt": "国会のワンポイント改憲案採決は国民の力のボイコットで議決定足数に届かず不成立となり、与党は8日の再採決を進める一方、野党は拙速だと反発した。",
+        "body": "国会で「ワンポイント改憲」案の採決が、国民の力のボイコットにより議決定足数を満たせず不成立となった。与党は8日に採決を再び推進する方針だが、野党は「拙速改憲」だとして反発している。今回の採決不成立により、地方選挙に合わせて国民投票を実施する日程は実現しない可能性が高まった。大統領府は、投票拒否によって不成立となったことに遺憾を表明した。一方で国会は、争点の少ない法案約110件を処理し、有給休暇を時間単位で使えるようにする内容なども含まれた。今後の再採決の行方と与野党の対立が、改憲論議の重要な変数になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "修宪案表决未成立，执政阵营拟8日再推、在野党批仓促修宪",
+        "excerpt": "韩国国会一项单点修宪案因国民力量抵制导致未达议决法定人数而未成立，执政阵营拟于8日重启表决，在野党则批评其为仓促修宪。",
+        "body": "韩国国会“单点修宪”修宪案表决因国民力量抵制，未达到议决所需法定人数而未成立。执政阵营表示将于8日再次推动表决，但在野党批评称这是“仓促修宪”，并表示反对。此次表决未成立，使原本计划在地方选举时一并举行全民投票的安排面临落空可能。总统府对因拒绝投票导致表决未成立表示遗憾。与此同时，国会处理了约110项非争议法案，其中包括允许带薪休假按小时使用的内容。接下来是否重新表决以及朝野对峙走向，将成为修宪讨论的关键变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Fracasa la votación de reforma constitucional y el oficialismo busca repetirla el 8",
+        "excerpt": "La votación de una reforma constitucional puntual no alcanzó el quórum por el boicot del Partido del Poder Popular; el oficialismo la reimpulsa el 8 y la oposición denuncia precipitación.",
+        "body": "La Asamblea Nacional no pudo completar la votación de una reforma constitucional “puntual” después de que el boicot del Partido del Poder Popular dejara el trámite sin el quórum necesario. El bloque oficialista afirma que volverá a impulsar la votación el día 8, mientras la oposición la rechaza como una “reforma constitucional precipitada”. El fracaso de la votación aumenta la posibilidad de que no se celebre un referéndum nacional junto con las elecciones locales. La oficina presidencial expresó pesar por la invalidez causada por la negativa a votar. Aun así, la Asamblea aprobó unas 110 leyes no controvertidas, incluidas medidas para permitir el uso de vacaciones pagadas por horas. La nueva votación y la respuesta de los partidos marcarán el rumbo del debate constitucional. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Votação de emenda constitucional fracassa e governo tenta retomar no dia 8",
+        "excerpt": "A votação de uma emenda constitucional pontual não atingiu quórum após boicote do Partido do Poder Popular; o governo quer repetir no dia 8 e a oposição chama a medida de apressada.",
+        "body": "A votação de uma emenda constitucional “pontual” na Assembleia Nacional fracassou depois que o boicote do Partido do Poder Popular impediu que fosse alcançado o quórum necessário. O bloco governista afirma que tentará realizar nova votação no dia 8, enquanto a oposição critica a proposta como uma “reforma constitucional apressada”. Com a votação não reconhecida, cresce a possibilidade de que o referendo nacional planejado para ocorrer junto das eleições locais não se concretize. O gabinete presidencial lamentou que a votação tenha sido inviabilizada pela recusa em participar. Ainda assim, a Assembleia aprovou cerca de 110 projetos sem controvérsia, incluindo regras para permitir o uso de licença remunerada por hora. A nova tentativa e a disputa entre governo e oposição definirão os próximos passos do debate. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Verfassungsabstimmung scheitert, Regierungsseite plant neuen Anlauf am 8.",
+        "excerpt": "Die Abstimmung über eine punktuelle Verfassungsänderung scheiterte am fehlenden Quorum nach einem Boykott der People Power Party; die Regierungsseite will am 8. erneut abstimmen lassen.",
+        "body": "Die Abstimmung in der Nationalversammlung über eine „punktuelle“ Verfassungsänderung ist gescheitert, weil ein Boykott der People Power Party dazu führte, dass das erforderliche Quorum nicht erreicht wurde. Die Regierungsseite will die Abstimmung am 8. erneut vorantreiben, während die Opposition von einer „übereilten Verfassungsänderung“ spricht und Widerstand ankündigt. Durch das Scheitern wächst die Möglichkeit, dass ein gemeinsam mit den Kommunalwahlen geplanter Volksentscheid nicht zustande kommt. Das Präsidialamt äußerte Bedauern darüber, dass die Abstimmung wegen der Verweigerung der Teilnahme ungültig wurde. Zugleich verabschiedete die Nationalversammlung rund 110 unumstrittene Gesetze, darunter Regelungen zur stundenweisen Nutzung bezahlten Urlaubs. Der weitere Verlauf hängt nun von der erneuten Abstimmung und dem Konflikt zwischen den Parteien ab. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le vote sur la réforme constitutionnelle échoue, nouvelle tentative prévue le 8",
+        "excerpt": "Le vote sur une réforme constitutionnelle ciblée a échoué faute de quorum après le boycott du People Power Party; le camp au pouvoir veut relancer le scrutin le 8, l’opposition dénonce une réforme bâclée.",
+        "body": "À l’Assemblée nationale, le vote sur une réforme constitutionnelle « en un point » n’a pas pu être validé après le boycott du People Power Party, qui a empêché d’atteindre le quorum requis. Le camp au pouvoir entend relancer le vote le 8, tandis que l’opposition dénonce une « réforme constitutionnelle bâclée ». Cet échec rend plus incertaine la tenue d’un référendum national en même temps que les élections locales. Le bureau présidentiel a exprimé ses regrets, estimant que le vote avait échoué en raison du refus de participer. Parallèlement, l’Assemblée a adopté environ 110 textes non controversés, dont des mesures permettant d’utiliser les congés payés par tranche horaire. La nouvelle tentative de vote et le bras de fer entre partis pèseront sur la suite du débat constitutionnel. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "فشل التصويت على التعديل الدستوري والحزب الحاكم يسعى لإعادته في 8 مايو",
+        "excerpt": "فشل تصويت الجمعية الوطنية على تعديل دستوري محدود بسبب مقاطعة حزب قوة الشعب وعدم اكتمال النصاب، بينما يسعى المعسكر الحاكم لإعادة التصويت في 8 مايو وتصفه المعارضة بالتسرع.",
+        "body": "فشل تصويت الجمعية الوطنية على تعديل دستوري «محدود» بعدما أدت مقاطعة حزب قوة الشعب إلى عدم اكتمال النصاب المطلوب. ويعتزم المعسكر الحاكم الدفع نحو إعادة التصويت في 8 مايو، في حين انتقدت المعارضة الخطوة ووصفتها بأنها «تعديل دستوري متسرع». ويزيد فشل التصويت احتمال تعثر خطة إجراء استفتاء شعبي بالتزامن مع الانتخابات المحلية. وأعرب مكتب الرئاسة عن أسفه لأن التصويت لم ينعقد بسبب رفض المشاركة فيه. في المقابل، عالجت الجمعية نحو 110 مشاريع قوانين غير خلافية، شملت بنودا تتيح استخدام الإجازة المدفوعة على أساس الساعات. وستحدد محاولة التصويت الجديدة وموقف الأحزاب مسار النقاش الدستوري المقبل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "संवैधानिक संशोधन पर मतदान विफल, सत्तापक्ष 8 मई को फिर प्रयास करेगा",
+        "excerpt": "नेशनल असेंबली में एक-बिंदु संवैधानिक संशोधन पर मतदान पीपल पावर पार्टी के बहिष्कार से कोरम पूरा न होने के कारण विफल रहा; सत्तापक्ष 8 मई को फिर मतदान चाहता है।",
+        "body": "नेशनल असेंबली में ‘एक-बिंदु’ संवैधानिक संशोधन पर मतदान पीपल पावर पार्टी के बहिष्कार के कारण आवश्यक कोरम पूरा न होने से मान्य नहीं हो सका। सत्तापक्ष 8 मई को फिर मतदान कराने की तैयारी में है, जबकि विपक्ष ने इसे “जल्दबाजी में किया गया संवैधानिक संशोधन” बताते हुए विरोध किया। मतदान विफल होने से स्थानीय चुनावों के साथ राष्ट्रीय जनमत-संग्रह कराने की योजना के रद्द होने की संभावना बढ़ गई है। राष्ट्रपति कार्यालय ने कहा कि मतदान से इनकार के कारण प्रक्रिया असफल होना खेदजनक है। हालांकि, असेंबली ने लगभग 110 गैर-विवादित विधेयक पारित किए, जिनमें सवेतन अवकाश को घंटे के आधार पर इस्तेमाल करने की अनुमति देने वाले प्रावधान भी शामिल थे। आगे की दिशा पुनर्मतदान और दलों के टकराव पर निर्भर करेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pemungutan suara amendemen gagal, kubu berkuasa dorong ulang pada 8 Mei",
+        "excerpt": "Pemungutan suara amendemen konstitusi satu poin gagal memenuhi kuorum karena boikot Partai Kekuatan Rakyat; kubu berkuasa ingin mengulang pada 8 Mei, sementara oposisi menolak.",
+        "body": "Pemungutan suara di Majelis Nasional atas amendemen konstitusi “satu poin” gagal terlaksana karena boikot Partai Kekuatan Rakyat membuat kuorum pengesahan tidak terpenuhi. Kubu berkuasa menyatakan akan mendorong pemungutan suara ulang pada 8 Mei, sementara oposisi mengecamnya sebagai “amendemen konstitusi yang tergesa-gesa”. Kegagalan ini memperbesar kemungkinan batalnya rencana referendum nasional yang semula akan digelar bersamaan dengan pemilihan lokal. Kantor kepresidenan menyatakan penyesalan karena pemungutan suara tidak sah akibat penolakan untuk berpartisipasi. Namun, Majelis tetap memproses sekitar 110 rancangan undang-undang nonkontroversial, termasuk aturan yang memungkinkan cuti berbayar digunakan per jam. Kelanjutan pemungutan suara ulang dan sikap partai-partai akan menentukan arah pembahasan amendemen. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0194ad26bdb5",
+    "slug": "세계-곳곳으로-흩어졌다크루즈선-한타바이러스-집단감염-비상-163318",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T12:29:58.182Z",
+    "updatedAt": "2026-05-07T12:29:58.182Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12039905",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12039905",
+    "titleFingerprint": "256df9518fe3445694800d1f6dc70d97fa90f02e",
+    "dedupKeys": [
+      "0194ad26bdb56c1f64963335773d095934127467",
+      "256df9518fe3445694800d1f6dc70d97fa90f02e",
+      "4f02ec2b732df1e5796caa1a89519ec355887e76"
+    ],
+    "imageUrl": "/images/articles/0194ad26bdb5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한타바이러스 크루즈선 집단감염 비상, 승객 세계 곳곳 이동 가능성",
+        "excerpt": "대서양을 항해하던 크루즈선에서 한타바이러스 집단감염이 발생했고, 승객들이 이미 세계 곳곳으로 흩어졌을 가능성에 각국 보건당국이 긴장하고 있다.",
+        "body": "대서양을 항해하던 크루즈선에서 한타바이러스 집단감염이 발생해 각국 보건당국이 상황을 주시하고 있다. 6일 현지시간 가디언과 텔레그래프 보도에 따르면 감염이 확인된 가운데, 해당 크루즈선 승객들이 이미 여러 국가로 이동했을 가능성이 제기됐다. 한타바이러스 감염이 선상에서 집단으로 발생했다는 점과 승객 이동 경로가 넓을 수 있다는 점이 보건당국의 긴장 요인이다. 당국은 승객들이 세계 곳곳으로 흩어졌을 가능성에 대비해 관련 상황을 확인하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hantavirus Outbreak on Atlantic Cruise Raises Alarm as Passengers Disperse",
+        "excerpt": "A hantavirus cluster infection occurred on a cruise ship sailing the Atlantic, raising concern among health authorities as passengers may already have dispersed worldwide.",
+        "body": "A hantavirus cluster infection has occurred on a cruise ship sailing the Atlantic, prompting health authorities in multiple countries to monitor the situation. According to reports by The Guardian and The Telegraph on May 6 local time, infections were confirmed while concerns emerged that passengers from the cruise may already have traveled to various countries. The fact that the infection occurred as a cluster on board, combined with the possibility of broad passenger movement, is heightening official concern. Authorities are checking related developments in preparation for the possibility that passengers have dispersed around the world. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ハンタウイルス、クルーズ船で集団感染　乗客拡散の可能性に警戒",
+        "excerpt": "大西洋を航行していたクルーズ船でハンタウイルスの集団感染が発生し、乗客がすでに世界各地へ移動した可能性に各国保健当局が警戒している。",
+        "body": "大西洋を航行していたクルーズ船でハンタウイルスの集団感染が発生し、各国の保健当局が状況を注視している。現地時間6日のガーディアンとテレグラフの報道によると、感染が確認される中、同クルーズ船の乗客がすでに複数の国へ移動した可能性が浮上した。船内で集団感染が起きたことに加え、乗客の移動範囲が広い可能性がある点が当局の警戒要因となっている。各国当局は、乗客が世界各地に散らばった可能性に備え、関連状況を確認している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "汉坦病毒邮轮集体感染拉响警报，乘客或已分散至全球",
+        "excerpt": "一艘在大西洋航行的邮轮发生汉坦病毒集体感染，因乘客可能已分散到世界各地，多国卫生部门正保持警惕。",
+        "body": "一艘在大西洋航行的邮轮发生汉坦病毒集体感染，多国卫生部门正在关注事态发展。据当地时间6日《卫报》和《每日电讯报》报道，感染已被确认，同时外界担忧该邮轮乘客可能已经前往多个国家。感染在船上以集体形式出现，再加上乘客移动范围可能较广，成为卫生部门紧张的主要原因。各国有关部门正为乘客可能已分散至世界各地的情况作准备，并确认相关进展。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Brote de hantavirus en crucero del Atlántico alerta por pasajeros dispersos",
+        "excerpt": "Un crucero que navegaba por el Atlántico registró un brote de hantavirus, y las autoridades sanitarias temen que los pasajeros ya se hayan dispersado por el mundo.",
+        "body": "Un crucero que navegaba por el Atlántico registró un brote de hantavirus, lo que llevó a autoridades sanitarias de varios países a vigilar la situación. Según informaron The Guardian y The Telegraph el día 6, hora local, se confirmaron infecciones mientras surgía la posibilidad de que los pasajeros del crucero ya hubieran viajado a distintos países. El hecho de que el contagio se produjera de forma colectiva a bordo, junto con el posible alcance amplio de los desplazamientos de los pasajeros, aumenta la preocupación oficial. Las autoridades revisan la situación ante la posibilidad de que los pasajeros se hayan dispersado por el mundo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Surto de hantavírus em cruzeiro no Atlântico alerta autoridades globais",
+        "excerpt": "Um cruzeiro que navegava pelo Atlântico registrou infecção coletiva por hantavírus, e autoridades temem que passageiros já tenham se espalhado pelo mundo.",
+        "body": "Um cruzeiro que navegava pelo Atlântico registrou uma infecção coletiva por hantavírus, levando autoridades de saúde de vários países a acompanhar a situação. Segundo relatos do The Guardian e do The Telegraph em 6 de maio, horário local, as infecções foram confirmadas enquanto surgiu a possibilidade de que passageiros do navio já tenham viajado para diversos países. O fato de a infecção ter ocorrido em grupo a bordo, somado ao possível alcance dos deslocamentos dos passageiros, aumenta a preocupação das autoridades. Órgãos de saúde verificam os desdobramentos diante da chance de passageiros terem se espalhado pelo mundo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hantavirus-Ausbruch auf Atlantik-Kreuzfahrt alarmiert Gesundheitsbehörden",
+        "excerpt": "Auf einem Kreuzfahrtschiff im Atlantik kam es zu einer Hantavirus-Gruppeninfektion; Behörden sorgen sich, dass Passagiere bereits weltweit weitergereist sind.",
+        "body": "Auf einem Kreuzfahrtschiff, das den Atlantik befuhr, ist es zu einer Hantavirus-Gruppeninfektion gekommen. Gesundheitsbehörden mehrerer Länder beobachten die Lage. Nach Berichten von The Guardian und The Telegraph vom 6. Mai Ortszeit wurden Infektionen bestätigt, während die Möglichkeit aufkam, dass Passagiere des Schiffes bereits in verschiedene Länder weitergereist sind. Dass die Infektion an Bord gehäuft auftrat und die Reiserouten der Passagiere weit reichen könnten, erhöht die Aufmerksamkeit der Behörden. Sie prüfen die weitere Entwicklung mit Blick auf die Möglichkeit, dass sich Passagiere weltweit verteilt haben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hantavirus sur un navire de croisière: alerte après la dispersion des passagers",
+        "excerpt": "Un foyer de hantavirus a été signalé sur un navire de croisière dans l’Atlantique, suscitant l’inquiétude car les passagers pourraient déjà être dispersés.",
+        "body": "Un foyer de hantavirus a été signalé sur un navire de croisière qui naviguait dans l’Atlantique, poussant les autorités sanitaires de plusieurs pays à suivre la situation. Selon The Guardian et The Telegraph, le 6 mai heure locale, des infections ont été confirmées alors que la possibilité que les passagers aient déjà rejoint différents pays a été évoquée. Le caractère groupé des infections à bord et l’étendue possible des déplacements des passagers constituent les principaux facteurs d’inquiétude. Les autorités vérifient les informations disponibles en prévision d’une éventuelle dispersion des passagers à travers le monde. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تفشّي هانتا فيروس على سفينة سياحية يثير قلقا بعد تفرّق الركاب عالميا",
+        "excerpt": "سُجلت إصابات جماعية بهانتا فيروس على سفينة سياحية كانت تبحر في الأطلسي، وسط قلق السلطات الصحية من احتمال تفرق الركاب في أنحاء العالم.",
+        "body": "سُجلت إصابات جماعية بهانتا فيروس على سفينة سياحية كانت تبحر في المحيط الأطلسي، ما دفع سلطات صحية في عدة دول إلى متابعة الوضع. ووفقا لما نقلته الغارديان والتلغراف في 6 مايو بالتوقيت المحلي، تم تأكيد الإصابات بينما أثير احتمال أن يكون ركاب السفينة قد انتقلوا بالفعل إلى دول مختلفة. ويزيد وقوع الإصابات بصورة جماعية على متن السفينة، مع احتمال اتساع مسارات سفر الركاب، من قلق السلطات الصحية. وتعمل الجهات المعنية على التحقق من التطورات استعدادا لاحتمال أن يكون الركاب قد تفرقوا في أنحاء العالم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "क्रूज जहाज पर हंटावायरस संक्रमण से अलर्ट, यात्री दुनिया भर में फैलने की आशंका",
+        "excerpt": "अटलांटिक में चल रहे क्रूज जहाज पर हंटावायरस का सामूहिक संक्रमण सामने आया, जिससे यात्रियों के दुनिया भर में फैल चुके होने की आशंका पर स्वास्थ्य अधिकारी सतर्क हैं।",
+        "body": "अटलांटिक महासागर में चल रहे एक क्रूज जहाज पर हंटावायरस का सामूहिक संक्रमण सामने आया है, जिसके बाद कई देशों के स्वास्थ्य अधिकारी स्थिति पर नजर रख रहे हैं। स्थानीय समयानुसार 6 मई को द गार्जियन और द टेलीग्राफ की रिपोर्टों के अनुसार संक्रमण की पुष्टि हुई, जबकि यह संभावना भी जताई गई कि जहाज के यात्री पहले ही अलग-अलग देशों में जा चुके हो सकते हैं। जहाज पर समूह के रूप में संक्रमण होना और यात्रियों की यात्रा दिशा व्यापक हो सकना अधिकारियों की चिंता का कारण है। संबंधित एजेंसियां इस संभावना को ध्यान में रखकर स्थिति की पुष्टि कर रही हैं कि यात्री दुनिया भर में फैल गए हों। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Wabah Hantavirus di Kapal Pesiar Atlantik Picu Siaga Otoritas Kesehatan",
+        "excerpt": "Infeksi kelompok hantavirus terjadi di kapal pesiar yang berlayar di Atlantik, memicu kekhawatiran karena penumpang mungkin telah tersebar ke berbagai negara.",
+        "body": "Infeksi kelompok hantavirus terjadi di sebuah kapal pesiar yang berlayar di Atlantik, membuat otoritas kesehatan di sejumlah negara memantau situasi. Menurut laporan The Guardian dan The Telegraph pada 6 Mei waktu setempat, infeksi telah dikonfirmasi sementara muncul kemungkinan bahwa penumpang kapal tersebut sudah bepergian ke berbagai negara. Fakta bahwa infeksi terjadi secara berkelompok di atas kapal, ditambah kemungkinan luasnya pergerakan penumpang, menjadi faktor utama kewaspadaan. Otoritas terkait sedang memeriksa perkembangan dengan mempertimbangkan kemungkinan penumpang telah tersebar ke berbagai penjuru dunia. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "de546eafeb9b",
     "slug": "냄새-그대로-보존日-여고생-실내화-46만원-거래-논란-351814",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Pembayaran Coupang Pulih ke 4,6 Triliun Won, Lampaui Level Sebelum Kebocoran Data",
         "excerpt": "Nilai pembayaran Coupang pulih setelah kebocoran data pribadi akhir tahun lalu, bertahan dua bulan beruntun di kisaran 4,6 triliun won dan naik 3–4% dari Oktober-November.",
         "body": "Nilai pembayaran Coupang keluar dari tren penurunan setelah kebocoran besar data pribadi pada akhir tahun lalu dan mencatat kisaran 4,6 triliun won selama dua bulan berturut-turut. Angka ini 3–4% lebih tinggi dibandingkan Oktober dan November tahun lalu, sebelum insiden tersebut. Saat itu, sebagian konsumen sempat menyerukan untuk meninggalkan Coupang, tetapi nilai pembayaran aktual sudah melampaui level sebelumnya. Data lain yang disebutkan adalah 90% pengguna VIP aplikasi belanja menggunakan Coupang, yang mendukung tren pemulihan. Meski ada isu kebocoran data, penggunaan oleh kelompok inti tetap bertahan sehingga skala pembayaran Coupang rebound dalam waktu singkat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9cac077eb50e",
-    "slug": "李대통령-중저신용자-대출-금융사-선의-말고-제도로-강제해야-429797",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T21:35:03.292Z",
-    "updatedAt": "2026-05-06T21:35:03.292Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12038535",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12038535",
-    "titleFingerprint": "437c7a3e28e82b55bc12d9b73722bd50a82b5373",
-    "dedupKeys": [
-      "9cac077eb50e23b6edd07af3db5e5c9e6d66aa43",
-      "437c7a3e28e82b55bc12d9b73722bd50a82b5373",
-      "545d0583920cdc659034863615a07c710aabf31a"
-    ],
-    "imageUrl": "/images/articles/9cac077eb50e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중저신용자 대출 확대 압박한 이재명 대통령 “선의 아닌 제도로 강제해야”",
-        "excerpt": "이재명 대통령은 국무회의에서 중·저신용자 대출 확대를 재차 주문하며 포용금융은 금융기관의 의무이고 선의가 아닌 제도로 강제해야 한다고 강조했다.",
-        "body": "이재명 대통령은 국무회의에서 중·저신용자 대출 확대 필요성을 다시 강조했다. 그는 금융회사의 자발적 선의에 기대기보다 제도로 강제해야 한다며, 포용금융은 금융기관이 부담해야 할 의무라고 밝혔다. 이번 발언은 중·저신용자에 대한 금융 접근성을 높여야 한다는 주문의 연장선이다. 이 대통령은 ‘은행은 준공공기관’이라는 논쟁과 관련해 김용범의 발언을 두고 “아주 잘 지적했다”고 평가했다. 다만 금융권에서는 대출 확대가 건전성 훼손으로 이어질 수 있다는 우려도 나온다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lee Pushes More Loans for Lower-Credit Borrowers, Says Rules Must Compel Banks",
-        "excerpt": "President Lee Jae-myung again urged expanded lending to middle- and low-credit borrowers at a Cabinet meeting, saying inclusive finance is a duty of financial institutions.",
-        "body": "President Lee Jae-myung again stressed at a Cabinet meeting the need to expand lending to borrowers with middle and low credit ratings. He said the policy should not rely on the goodwill of financial companies but should be compelled through institutions, adding that inclusive finance is an obligation financial institutions must bear. The remarks extend his call to improve financial access for these borrowers. On the debate over banks as quasi-public institutions, Lee praised Kim Yong-beom’s comment as “very well pointed out.” The financial sector, however, has raised concerns that wider lending could damage soundness. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "李大統領、中低信用者向け融資拡大を要求「善意でなく制度で強制すべき」",
-        "excerpt": "李在明大統領は閣議で中・低信用者向け融資拡大を改めて求め、包容金融は金融機関の義務であり制度で強制すべきだと強調した。",
-        "body": "李在明大統領は閣議で、中・低信用者向け融資を拡大する必要性を改めて強調した。金融会社の自発的な善意に頼るのではなく、制度によって強制すべきだと述べ、包容金融は金融機関が負うべき義務だとした。今回の発言は、中・低信用者の金融アクセスを高めるべきだという注文の延長線上にある。李大統領は「銀行は準公共機関」という議論に関連し、金容範氏の発言について「非常によく指摘した」と評価した。一方、金融界では融資拡大が健全性の毀損につながるとの懸念も出ている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "李在明要求扩大中低信用者贷款：不能靠善意，应以制度强制",
-        "excerpt": "李在明总统在国务会议上再次要求扩大中低信用者贷款，强调包容金融是金融机构义务，不能靠善意而应由制度强制。",
-        "body": "李在明总统在国务会议上再次强调，有必要扩大面向中低信用者的贷款。他表示，不能依赖金融公司的自发善意，而应通过制度加以强制，并称包容金融是金融机构应承担的义务。此次表态延续了提高中低信用者金融可及性的要求。围绕“银行是准公共机构”的争论，李总统评价金容范的发言称“指出得非常好”。不过，金融业界也担心扩大贷款可能损害金融机构的健全性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lee exige ampliar préstamos a personas con crédito medio y bajo mediante reglas",
-        "excerpt": "El presidente Lee Jae-myung volvió a pedir en el Consejo de Estado ampliar los préstamos a personas con crédito medio y bajo, afirmando que la inclusión financiera es una obligación.",
-        "body": "El presidente Lee Jae-myung volvió a subrayar en una reunión del Consejo de Estado la necesidad de ampliar los préstamos a personas con calificación crediticia media y baja. Dijo que la política no debe depender de la buena voluntad de las financieras, sino imponerse mediante un sistema, y afirmó que las finanzas inclusivas son una obligación de las instituciones financieras. Sus declaraciones continúan la exigencia de mejorar el acceso financiero de estos prestatarios. Sobre el debate de si los bancos son entidades cuasi públicas, Lee elogió el comentario de Kim Yong-beom como “muy bien señalado”. El sector financiero, sin embargo, teme que más préstamos puedan afectar la solidez. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lee cobra mais crédito a tomadores de médio e baixo score por meio de regras",
-        "excerpt": "O presidente Lee Jae-myung voltou a defender no Conselho de Estado a ampliação de empréstimos a tomadores de médio e baixo crédito, chamando finanças inclusivas de obrigação.",
-        "body": "O presidente Lee Jae-myung voltou a destacar, em reunião do Conselho de Estado, a necessidade de ampliar empréstimos a tomadores com crédito médio e baixo. Ele afirmou que a medida não deve depender da boa vontade das instituições financeiras, mas ser imposta por meio de um sistema, acrescentando que finanças inclusivas são uma obrigação dessas instituições. A fala dá continuidade à cobrança por maior acesso financeiro para esse público. No debate sobre bancos como instituições quase públicas, Lee elogiou a observação de Kim Yong-beom como “muito bem apontada”. O setor financeiro, porém, teme que a expansão do crédito prejudique a solidez. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lee drängt auf mehr Kredite für schwächere Bonitäten: Regeln statt Wohlwollen",
-        "excerpt": "Präsident Lee Jae-myung forderte im Kabinett erneut mehr Kredite für Kreditnehmer mit mittlerer und niedriger Bonität und nannte inklusive Finanzpolitik eine Pflicht.",
-        "body": "Präsident Lee Jae-myung hat in einer Kabinettssitzung erneut betont, dass Kredite für Menschen mit mittlerer und niedriger Bonität ausgeweitet werden müssten. Er sagte, dies dürfe nicht vom freiwilligen Wohlwollen der Finanzunternehmen abhängen, sondern müsse institutionell erzwungen werden. Inklusive Finanzpolitik sei eine Pflicht der Finanzinstitute. Die Äußerung steht im Zusammenhang mit seiner Forderung, den Finanzzugang dieser Kreditnehmer zu verbessern. Zur Debatte, ob Banken quasi öffentliche Institutionen seien, lobte Lee die Aussage von Kim Yong-beom als „sehr gut auf den Punkt gebracht“. In der Finanzbranche gibt es jedoch Sorgen, eine Ausweitung der Kredite könne die Solidität beschädigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lee veut imposer plus de prêts aux emprunteurs à crédit moyen et faible",
-        "excerpt": "Le président Lee Jae-myung a de nouveau demandé en Conseil des ministres d’élargir les prêts aux emprunteurs à crédit moyen et faible, au nom d’une finance inclusive obligatoire.",
-        "body": "Le président Lee Jae-myung a de nouveau souligné, lors d’un Conseil des ministres, la nécessité d’élargir les prêts aux emprunteurs ayant une cote de crédit moyenne ou faible. Il a déclaré qu’il ne fallait pas compter sur la bonne volonté volontaire des sociétés financières, mais imposer cela par un dispositif institutionnel, ajoutant que la finance inclusive est une obligation des institutions financières. Ces propos prolongent son appel à améliorer l’accès au financement pour ces emprunteurs. Dans le débat sur les banques comme institutions quasi publiques, Lee a jugé que Kim Yong-beom avait “très bien relevé” le point. Le secteur financier craint toutefois une atteinte à la solidité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لي يضغط لتوسيع قروض متوسطي ومنخفضي الائتمان: الإلزام بالنظام لا بالنوايا",
-        "excerpt": "أكد الرئيس لي جاي ميونغ في اجتماع مجلس الوزراء مجددا ضرورة توسيع قروض متوسطي ومنخفضي التصنيف الائتماني، معتبرا التمويل الشامل واجبا على المؤسسات المالية.",
-        "body": "شدد الرئيس لي جاي ميونغ مجددا، خلال اجتماع لمجلس الوزراء، على ضرورة توسيع الإقراض للمقترضين ذوي التصنيف الائتماني المتوسط والمنخفض. وقال إن الأمر لا ينبغي أن يعتمد على حسن نية الشركات المالية الطوعية، بل يجب فرضه عبر نظام مؤسسي، مضيفا أن التمويل الشامل واجب تتحمله المؤسسات المالية. وتأتي هذه التصريحات امتدادا لمطالبته بزيادة إمكانية وصول هذه الفئة إلى التمويل. وبشأن الجدل حول اعتبار البنوك مؤسسات شبه عامة، قال لي إن ملاحظة كيم يونغ بوم كانت “دقيقة جدا”. لكن القطاع المالي يبدي قلقا من أن يؤدي توسيع القروض إلى الإضرار بالمتانة المالية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ली ने मध्यम और कम क्रेडिट वालों को कर्ज बढ़ाने के लिए नियमों पर जोर दिया",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग ने कैबिनेट बैठक में मध्यम और कम क्रेडिट वाले उधारकर्ताओं को कर्ज बढ़ाने की मांग दोहराई और समावेशी वित्त को संस्थानों का दायित्व बताया।",
-        "body": "राष्ट्रपति ली जे-म्युंग ने कैबिनेट बैठक में मध्यम और कम क्रेडिट रेटिंग वाले उधारकर्ताओं के लिए कर्ज बढ़ाने की जरूरत फिर रेखांकित की। उन्होंने कहा कि इसे वित्तीय कंपनियों की स्वैच्छिक सद्भावना पर नहीं छोड़ा जाना चाहिए, बल्कि व्यवस्था के जरिए अनिवार्य किया जाना चाहिए। उनके अनुसार, समावेशी वित्त वित्तीय संस्थानों का दायित्व है। यह बयान ऐसे उधारकर्ताओं की वित्तीय पहुंच बढ़ाने की मांग की निरंतरता है। ‘बैंक अर्ध-सार्वजनिक संस्थान हैं’ वाली बहस पर ली ने किम योंग-बोम की टिप्पणी को “बहुत सही इंगित” बताया। हालांकि वित्तीय क्षेत्र को चिंता है कि कर्ज विस्तार से सुदृढ़ता को नुकसान हो सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lee Desak Kredit untuk Debitur Skor Menengah-Rendah Diwajibkan Lewat Sistem",
-        "excerpt": "Presiden Lee Jae-myung kembali meminta perluasan kredit bagi debitur berskor menengah dan rendah dalam rapat kabinet, menegaskan keuangan inklusif adalah kewajiban lembaga keuangan.",
-        "body": "Presiden Lee Jae-myung kembali menekankan dalam rapat kabinet perlunya memperluas pinjaman bagi debitur dengan peringkat kredit menengah dan rendah. Ia mengatakan kebijakan itu tidak boleh bergantung pada niat baik sukarela perusahaan keuangan, tetapi harus diwajibkan melalui sistem, seraya menyebut keuangan inklusif sebagai kewajiban lembaga keuangan. Pernyataan ini melanjutkan permintaan untuk meningkatkan akses keuangan bagi kelompok tersebut. Terkait perdebatan bahwa bank adalah lembaga semi-publik, Lee menilai komentar Kim Yong-beom “sangat tepat”. Namun kalangan keuangan mengkhawatirkan perluasan kredit dapat merusak kesehatan keuangan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bf1f218dc869",
-    "slug": "트럼프-다음주-전-이란과-합의-가능성-커농축우라늄-우리가-확보할-것-798738",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T21:34:03.961Z",
-    "updatedAt": "2026-05-06T21:34:03.961Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12038561",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12038561",
-    "titleFingerprint": "eb414f9eea5a7cf3b3bb11848da8bca3d82cdaa5",
-    "dedupKeys": [
-      "bf1f218dc869501136cd080f0480913d5f63396f",
-      "eb414f9eea5a7cf3b3bb11848da8bca3d82cdaa5",
-      "4c05e66d116b5b8c467cc2ed11e1ca832c9f932b"
-    ],
-    "imageUrl": "/images/articles/bf1f218dc869.png",
-    "i18n": {
-      "ko": {
-        "title": "트럼프, 이란 핵합의 가능성 언급…“농축우라늄 미국이 확보”",
-        "excerpt": "도널드 트럼프 미국 대통령은 다음 주 중국 방문 전 이란과 합의할 가능성이 크다고 밝히며, 합의 시 제재 완화와 농축우라늄 미국 확보 방안을 언급했다.",
-        "body": "도널드 트럼프 미국 대통령은 미국과 이란의 종전 협상이 속도를 내는 가운데 다음 주 중국 방문 전 이란과 합의할 가능성이 크다고 밝혔다. 그는 합의 조건과 관련해 이란의 농축우라늄을 미국이 확보하고, 지하 핵시설 가동을 중단하는 방안을 언급했다. 트럼프 대통령은 합의가 이뤄질 경우 제재 완화가 가능하다고 했지만, 합의가 불발되면 다시 폭격에 나설 수 있다는 입장도 내비쳤다. 이번 발언은 미국과 이란이 핵 문제와 제재를 둘러싼 협상 국면에서 접점을 찾고 있는 가운데 나왔다. 향후 합의 여부는 중동 정세와 제재 완화 논의에 영향을 줄 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trump Says Iran Deal Likely Before China Trip, US to Secure Uranium",
-        "excerpt": "Donald Trump said a deal with Iran is likely before his China visit next week, citing sanctions relief if agreed and US control of enriched uranium.",
-        "body": "US President Donald Trump said that, as negotiations between the United States and Iran accelerate, a deal with Iran is highly possible before his visit to China next week. Discussing possible terms, he said the United States would secure Iran’s enriched uranium and that underground nuclear facilities would stop operating. Trump said sanctions could be eased if an agreement is reached, but also suggested that bombing could resume if talks fail. The remarks came as Washington and Tehran seek common ground over nuclear issues and sanctions. Whether an agreement is reached is expected to affect Middle East conditions and discussions on sanctions relief. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トランプ氏、イラン合意に言及「濃縮ウランは米国が確保」",
-        "excerpt": "トランプ米大統領は来週の訪中前にイランと合意する可能性が高いと述べ、合意時の制裁緩和と濃縮ウラン確保に触れた。",
-        "body": "ドナルド・トランプ米大統領は、米国とイランの終戦交渉が加速する中、来週の中国訪問前にイランと合意する可能性が高いと明らかにした。合意条件については、イランの濃縮ウランを米国が確保し、地下核施設の稼働を停止する案に言及した。トランプ氏は、合意が成立すれば制裁緩和が可能だとする一方、不成立なら再び爆撃に踏み切る可能性も示唆した。今回の発言は、核問題と制裁をめぐり米国とイランが接点を探る局面で出たものだ。合意の可否は中東情勢と制裁緩和協議に影響を与える見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特朗普称伊朗协议或下周前达成：美国将接管浓缩铀",
-        "excerpt": "特朗普表示，下周访华前与伊朗达成协议的可能性很大，并提到若达成协议可放松制裁、由美国掌握浓缩铀。",
-        "body": "美国总统唐纳德·特朗普表示，在美国与伊朗结束冲突的谈判加速之际，下周访问中国前与伊朗达成协议的可能性很大。谈及协议条件时，他提到美国将掌握伊朗的浓缩铀，并停止地下核设施运转。特朗普称，如果达成协议，制裁可以放松；但如果协议未能实现，也可能再次进行轰炸。此番表态出现在美伊围绕核问题和制裁寻找交集的谈判阶段。未来能否达成协议，预计将影响中东局势以及制裁放松讨论。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Trump ve probable un acuerdo con Irán y dice que EEUU tomará el uranio",
-        "excerpt": "Donald Trump dijo que es probable un acuerdo con Irán antes de su visita a China la próxima semana, con alivio de sanciones y control del uranio enriquecido.",
-        "body": "El presidente de Estados Unidos, Donald Trump, dijo que, mientras avanzan las negociaciones entre Estados Unidos e Irán, existe una alta posibilidad de alcanzar un acuerdo con Teherán antes de su visita a China la próxima semana. Sobre las condiciones, mencionó que Estados Unidos aseguraría el uranio enriquecido de Irán y que se detendría la operación de instalaciones nucleares subterráneas. Trump afirmó que, si se logra un acuerdo, podría haber alivio de sanciones, pero también insinuó que podrían reanudarse los bombardeos si fracasa. Las declaraciones llegan cuando Washington y Teherán buscan puntos de acuerdo sobre el tema nuclear y las sanciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Trump vê acordo com Irã antes da China e diz que EUA ficarão com urânio",
-        "excerpt": "Donald Trump afirmou que um acordo com o Irã é provável antes de sua visita à China na próxima semana, citando alívio de sanções e controle do urânio enriquecido.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, disse que, enquanto as negociações entre EUA e Irã ganham ritmo, há grande possibilidade de um acordo com Teerã antes de sua visita à China na próxima semana. Ao tratar das condições, afirmou que os Estados Unidos ficariam com o urânio enriquecido do Irã e que instalações nucleares subterrâneas deixariam de operar. Trump disse que, se houver acordo, as sanções poderão ser aliviadas, mas também indicou que bombardeios poderiam voltar caso as tratativas fracassem. A declaração ocorre enquanto Washington e Teerã buscam convergência sobre a questão nuclear e sanções. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Trump hält Iran-Deal vor China-Reise für wahrscheinlich: USA sichern Uran",
-        "excerpt": "Donald Trump sagte, ein Abkommen mit Iran vor seiner China-Reise nächste Woche sei wahrscheinlich, mit möglicher Sanktionslockerung und US-Zugriff auf angereichertes Uran.",
-        "body": "US-Präsident Donald Trump sagte, während die Verhandlungen zwischen den USA und Iran an Tempo gewinnen, sei ein Abkommen mit Teheran vor seiner China-Reise in der kommenden Woche sehr wahrscheinlich. Zu möglichen Bedingungen erklärte er, die USA würden Irans angereichertes Uran sichern und unterirdische Atomanlagen würden den Betrieb einstellen. Trump sagte, bei einer Einigung könnten Sanktionen gelockert werden, deutete aber auch an, dass bei einem Scheitern erneut bombardiert werden könnte. Die Äußerung fällt in eine Phase, in der Washington und Teheran bei Atomfragen und Sanktionen nach Schnittmengen suchen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Trump évoque un accord avec l’Iran et le contrôle américain de l’uranium",
-        "excerpt": "Donald Trump a jugé probable un accord avec l’Iran avant sa visite en Chine la semaine prochaine, évoquant un allègement des sanctions et l’uranium enrichi.",
-        "body": "Le président américain Donald Trump a déclaré que, alors que les négociations entre les États-Unis et l’Iran s’accélèrent, un accord avec Téhéran est très possible avant sa visite en Chine la semaine prochaine. Concernant les conditions, il a évoqué la prise en charge par les États-Unis de l’uranium enrichi iranien et l’arrêt des installations nucléaires souterraines. Trump a indiqué qu’un accord pourrait permettre un allègement des sanctions, tout en laissant entendre que des bombardements pourraient reprendre en cas d’échec. Ces propos interviennent alors que Washington et Téhéran cherchent un terrain d’entente sur le nucléaire et les sanctions. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ترامب يرجح اتفاقا مع إيران قبل زيارة الصين: سنحصل على اليورانيوم",
-        "excerpt": "قال دونالد ترامب إن اتفاقا مع إيران قبل زيارته للصين الأسبوع المقبل مرجح، مشيرا إلى تخفيف العقوبات إذا تم الاتفاق وحصول واشنطن على اليورانيوم المخصب.",
-        "body": "قال الرئيس الأمريكي دونالد ترامب إن المفاوضات بين الولايات المتحدة وإيران تتسارع، وإن احتمال التوصل إلى اتفاق مع طهران قبل زيارته للصين الأسبوع المقبل كبير. وتحدث عن شروط محتملة تشمل حصول الولايات المتحدة على اليورانيوم المخصب الإيراني ووقف تشغيل المنشآت النووية تحت الأرض. وذكر ترامب أن التوصل إلى اتفاق قد يتيح تخفيف العقوبات، لكنه لمح أيضا إلى إمكانية العودة إلى القصف إذا فشلت المفاوضات. جاءت التصريحات بينما تبحث واشنطن وطهران عن نقاط التقاء بشأن الملف النووي والعقوبات. ومن المتوقع أن يؤثر مصير الاتفاق في أوضاع الشرق الأوسط ونقاشات تخفيف العقوبات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ट्रंप ने ईरान समझौते की संभावना जताई, कहा अमेरिका लेगा संवर्धित यूरेनियम",
-        "excerpt": "डोनाल्ड ट्रंप ने कहा कि अगले सप्ताह चीन यात्रा से पहले ईरान से समझौते की संभावना अधिक है, जिसमें प्रतिबंधों में ढील और संवर्धित यूरेनियम पर अमेरिकी नियंत्रण शामिल हो सकता है।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अमेरिका और ईरान के बीच युद्धविराम संबंधी बातचीत तेज होने के बीच अगले सप्ताह चीन यात्रा से पहले ईरान के साथ समझौते की संभावना अधिक है। संभावित शर्तों पर उन्होंने कहा कि ईरान का संवर्धित यूरेनियम अमेरिका के पास होगा और भूमिगत परमाणु सुविधाओं का संचालन रोका जाएगा। ट्रंप ने कहा कि समझौता होने पर प्रतिबंधों में ढील दी जा सकती है, लेकिन असफल रहने पर फिर से बमबारी की संभावना भी जताई। यह बयान ऐसे समय आया है जब वाशिंगटन और तेहरान परमाणु मुद्दे और प्रतिबंधों पर साझा आधार तलाश रहे हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Trump Sebut Kesepakatan Iran Mungkin Sebelum ke China, Uranium Diambil AS",
-        "excerpt": "Donald Trump mengatakan kesepakatan dengan Iran mungkin tercapai sebelum kunjungan ke China pekan depan, dengan pelonggaran sanksi dan penguasaan uranium diperkaya oleh AS.",
-        "body": "Presiden Amerika Serikat Donald Trump mengatakan, saat perundingan antara AS dan Iran bergerak lebih cepat, peluang tercapainya kesepakatan dengan Teheran sebelum kunjungannya ke China pekan depan cukup besar. Terkait syarat kesepakatan, ia menyebut uranium diperkaya Iran akan diamankan oleh AS dan operasi fasilitas nuklir bawah tanah akan dihentikan. Trump mengatakan sanksi dapat dilonggarkan jika kesepakatan tercapai, tetapi juga mengisyaratkan pemboman dapat dilakukan kembali jika gagal. Pernyataan ini muncul saat Washington dan Teheran mencari titik temu soal isu nuklir dan sanksi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "95a2bf285888",
-    "slug": "호르무즈-개방-대비프랑스-홍해에-핵항모-배치-984454",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T21:33:07.329Z",
-    "updatedAt": "2026-05-06T21:33:07.330Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12038602",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12038602",
-    "titleFingerprint": "919c55442672d6a9ae81c44a028f5ce7414d65e5",
-    "dedupKeys": [
-      "95a2bf2858887ed9d1950267b916322da1d555d4",
-      "919c55442672d6a9ae81c44a028f5ce7414d65e5",
-      "28510b0c1674c66cff8458c786408e9a47d2592f"
-    ],
-    "imageUrl": "/images/articles/95a2bf285888.jpg",
-    "i18n": {
-      "ko": {
-        "title": "호르무즈 항행 자유 대응, 프랑스 핵추진 항공모함 홍해 배치",
-        "excerpt": "프랑스가 이란 전쟁 이후 호르무즈 해협 항행의 자유를 지원하기 위해 핵 추진 항공모함을 홍해에 배치하며 해상 물류 안정과 역내 긴장 완화를 겨냥했다.",
-        "body": "프랑스가 이란 전쟁 이후 호르무즈 해협 항행의 자유를 지원하기 위해 핵 추진 항공모함을 홍해에 배치했다. 원문에 따르면 프랑스는 미국과 이란에 호르무즈 문제를 별도로 취급하자는 제안도 한 것으로 전해졌다. 이번 조치는 호르무즈 해협 개방에 대비해 주요 해상 통로의 안전을 뒷받침하려는 움직임이다. 홍해와 호르무즈 해협은 역내 긴장과 해상 물류 안정이 맞물린 핵심 항로로 거론된다. 프랑스의 배치는 항행의 자유를 지원하고 물류 불안을 낮추는 데 초점이 맞춰져 있으며, 향후 긴장 완화 여부가 해상 운송 환경의 변수로 남는다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "France deploys nuclear aircraft carrier to Red Sea for Hormuz navigation",
-        "excerpt": "France has deployed a nuclear-powered aircraft carrier to the Red Sea after the Iran war to support freedom of navigation in the Strait of Hormuz and stabilize maritime logistics.",
-        "body": "France has deployed a nuclear-powered aircraft carrier to the Red Sea to support freedom of navigation in the Strait of Hormuz after the Iran war. According to the original report, France also proposed to the United States and Iran that the Hormuz issue be handled separately. The move is aimed at preparing for the opening of the Strait of Hormuz and supporting safety on a major maritime route. The Red Sea and the Strait of Hormuz are cited as key sea lanes where regional tensions and maritime logistics stability intersect. France’s deployment focuses on supporting freedom of navigation and reducing logistics uncertainty, while whether tensions ease remains a variable for shipping conditions. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ホルムズ航行自由へ、フランスが原子力空母を紅海に配備",
-        "excerpt": "フランスはイラン戦争後、ホルムズ海峡の航行の自由を支援するため、原子力空母を紅海に配備し、海上物流の安定と緊張緩和を狙う。",
-        "body": "フランスはイラン戦争後、ホルムズ海峡の航行の自由を支援するため、原子力空母を紅海に配備した。原文によると、フランスは米国とイランに対し、ホルムズ問題を別途扱うことも提案したとされる。今回の措置は、ホルムズ海峡の開放に備え、主要な海上交通路の安全を支える動きだ。紅海とホルムズ海峡は、地域の緊張と海上物流の安定が結びつく重要航路として挙げられる。フランスの配備は航行の自由を支援し、物流不安を抑えることに焦点があり、今後の緊張緩和の有無が海上輸送環境の変数となる。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "为霍尔木兹航行自由作准备，法国核动力航母部署红海",
-        "excerpt": "法国在伊朗战争后为支持霍尔木兹海峡航行自由，将核动力航空母舰部署至红海，意在稳定海上物流并缓和地区紧张。",
-        "body": "法国在伊朗战争后为支持霍尔木兹海峡的航行自由，将核动力航空母舰部署至红海。根据原文，法国还向美国和伊朗提出将霍尔木兹问题单独处理的建议。此举旨在为霍尔木兹海峡开放作准备，并支撑主要海上通道的安全。红海和霍尔木兹海峡被视为地区紧张与海上物流稳定交织的关键航线。法国此次部署的重点是支持航行自由、降低物流不安，未来紧张局势能否缓和仍将是影响海上运输环境的变量。来源: mk.co.kr。"
-      },
-      "es": {
-        "title": "Francia despliega portaaviones nuclear en el mar Rojo por Ormuz",
-        "excerpt": "Francia desplegó un portaaviones de propulsión nuclear en el mar Rojo tras la guerra con Irán para apoyar la libertad de navegación en el estrecho de Ormuz.",
-        "body": "Francia desplegó un portaaviones de propulsión nuclear en el mar Rojo para apoyar la libertad de navegación en el estrecho de Ormuz tras la guerra con Irán. Según el texto original, Francia también propuso a Estados Unidos e Irán tratar la cuestión de Ormuz por separado. La medida busca prepararse para la apertura del estrecho de Ormuz y respaldar la seguridad de una ruta marítima clave. El mar Rojo y el estrecho de Ormuz se mencionan como vías donde convergen las tensiones regionales y la estabilidad de la logística marítima. El despliegue francés se centra en apoyar la libertad de navegación y reducir la incertidumbre logística, mientras la evolución de la tensión seguirá siendo una variable para el transporte marítimo. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "França envia porta-aviões nuclear ao mar Vermelho por navegação em Ormuz",
-        "excerpt": "A França enviou um porta-aviões de propulsão nuclear ao mar Vermelho após a guerra com o Irã para apoiar a liberdade de navegação no estreito de Ormuz.",
-        "body": "A França enviou um porta-aviões de propulsão nuclear ao mar Vermelho para apoiar a liberdade de navegação no estreito de Ormuz após a guerra com o Irã. Segundo o texto original, a França também propôs aos Estados Unidos e ao Irã que a questão de Ormuz fosse tratada separadamente. A medida busca preparar a abertura do estreito de Ormuz e sustentar a segurança de uma rota marítima importante. O mar Vermelho e o estreito de Ormuz são citados como vias centrais onde tensões regionais e estabilidade da logística marítima se cruzam. O destacamento francês tem foco em apoiar a liberdade de navegação e reduzir a insegurança logística, enquanto a eventual redução das tensões seguirá como variável para o transporte marítimo. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Frankreich verlegt nuklearen Flugzeugträger ins Rote Meer für Hormus",
-        "excerpt": "Frankreich hat nach dem Iran-Krieg einen nuklear angetriebenen Flugzeugträger ins Rote Meer verlegt, um die freie Schifffahrt in der Straße von Hormus zu unterstützen.",
-        "body": "Frankreich hat nach dem Iran-Krieg einen nuklear angetriebenen Flugzeugträger ins Rote Meer verlegt, um die Freiheit der Schifffahrt in der Straße von Hormus zu unterstützen. Dem Originalbericht zufolge schlug Frankreich den USA und Iran zudem vor, die Hormus-Frage gesondert zu behandeln. Der Schritt soll auf eine Öffnung der Straße von Hormus vorbereiten und die Sicherheit einer wichtigen Seeroute stützen. Das Rote Meer und die Straße von Hormus gelten als zentrale Routen, an denen regionale Spannungen und die Stabilität maritimer Logistik zusammenkommen. Frankreichs Verlegung zielt darauf, die freie Schifffahrt zu unterstützen und logistische Unsicherheit zu verringern; ob sich die Spannungen entspannen, bleibt ein Faktor für den Seetransport. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "La France déploie un porte-avions nucléaire en mer Rouge pour Ormuz",
-        "excerpt": "La France a déployé un porte-avions à propulsion nucléaire en mer Rouge après la guerre avec l’Iran afin de soutenir la liberté de navigation dans le détroit d’Ormuz.",
-        "body": "La France a déployé un porte-avions à propulsion nucléaire en mer Rouge afin de soutenir la liberté de navigation dans le détroit d’Ormuz après la guerre avec l’Iran. Selon le texte original, Paris a aussi proposé aux États-Unis et à l’Iran de traiter séparément la question d’Ormuz. Cette mesure vise à préparer l’ouverture du détroit d’Ormuz et à appuyer la sécurité d’une grande voie maritime. La mer Rouge et le détroit d’Ormuz sont cités comme des routes clés où se croisent tensions régionales et stabilité de la logistique maritime. Le déploiement français se concentre sur le soutien à la liberté de navigation et la réduction de l’incertitude logistique, tandis que l’évolution des tensions restera une variable pour le transport maritime. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "فرنسا تنشر حاملة طائرات نووية في البحر الأحمر دعما للملاحة بهرمز",
-        "excerpt": "نشرت فرنسا بعد الحرب مع إيران حاملة طائرات تعمل بالطاقة النووية في البحر الأحمر لدعم حرية الملاحة في مضيق هرمز واستقرار الخدمات اللوجستية البحرية.",
-        "body": "نشرت فرنسا، بعد الحرب مع إيران، حاملة طائرات تعمل بالطاقة النووية في البحر الأحمر لدعم حرية الملاحة في مضيق هرمز. وبحسب النص الأصلي، اقترحت فرنسا أيضا على الولايات المتحدة وإيران التعامل مع قضية هرمز بشكل منفصل. وتأتي الخطوة استعدادا لفتح مضيق هرمز ودعما لأمن ممر بحري رئيسي. ويشار إلى البحر الأحمر ومضيق هرمز باعتبارهما طريقين مهمين تتقاطع فيهما التوترات الإقليمية مع استقرار الخدمات اللوجستية البحرية. ويركز الانتشار الفرنسي على دعم حرية الملاحة وتقليل عدم اليقين في حركة الشحن، فيما سيبقى مدى تخفيف التوترات عاملا مؤثرا في بيئة النقل البحري. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "हॉर्मुज नौवहन स्वतंत्रता के लिए फ्रांस ने लाल सागर में परमाणु वाहक भेजा",
-        "excerpt": "ईरान युद्ध के बाद फ्रांस ने हॉर्मुज जलडमरूमध्य में नौवहन स्वतंत्रता के समर्थन के लिए परमाणु ऊर्जा चालित विमानवाहक पोत लाल सागर में तैनात किया।",
-        "body": "ईरान युद्ध के बाद फ्रांस ने हॉर्मुज जलडमरूमध्य में नौवहन स्वतंत्रता का समर्थन करने के लिए परमाणु ऊर्जा चालित विमानवाहक पोत लाल सागर में तैनात किया। मूल रिपोर्ट के अनुसार, फ्रांस ने अमेरिका और ईरान को हॉर्मुज मुद्दे को अलग से扱ने का प्रस्ताव भी दिया। यह कदम हॉर्मुज जलडमरूमध्य के खुलने की तैयारी और एक प्रमुख समुद्री मार्ग की सुरक्षा को सहारा देने के लिए है। लाल सागर और हॉर्मुज जलडमरूमध्य ऐसे अहम मार्ग माने जाते हैं जहां क्षेत्रीय तनाव और समुद्री लॉजिस्टिक्स की स्थिरता एक-दूसरे से जुड़ती है। फ्रांस की तैनाती नौवहन स्वतंत्रता के समर्थन और लॉजिस्टिक्स अनिश्चितता को घटाने पर केंद्रित है, जबकि तनाव कम होगा या नहीं, यह समुद्री परिवहन माहौल के लिए अहम कारक रहेगा। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Prancis kerahkan kapal induk nuklir ke Laut Merah untuk navigasi Hormuz",
-        "excerpt": "Prancis mengerahkan kapal induk bertenaga nuklir ke Laut Merah setelah perang Iran untuk mendukung kebebasan navigasi di Selat Hormuz dan stabilitas logistik laut.",
-        "body": "Prancis mengerahkan kapal induk bertenaga nuklir ke Laut Merah untuk mendukung kebebasan navigasi di Selat Hormuz setelah perang Iran. Menurut teks asli, Prancis juga mengusulkan kepada Amerika Serikat dan Iran agar isu Hormuz diperlakukan secara terpisah. Langkah ini ditujukan untuk bersiap menghadapi pembukaan Selat Hormuz dan menopang keamanan jalur laut utama. Laut Merah dan Selat Hormuz disebut sebagai rute penting tempat ketegangan kawasan dan stabilitas logistik maritim saling terkait. Pengerahan Prancis berfokus pada dukungan terhadap kebebasan navigasi dan pengurangan ketidakpastian logistik, sementara apakah ketegangan mereda akan tetap menjadi variabel bagi kondisi transportasi laut. Sumber: mk.co.kr."
       }
     }
   }
