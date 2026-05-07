@@ -1,0 +1,75 @@
+{
+  "id": "f71a867091c6",
+  "slug": "샤킬-오닐에-1조-안겨준-그-주식ai-반도체-놈놈놈-정체-330321",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-07T19:15:29.649Z",
+  "updatedAt": "2026-05-07T19:15:29.649Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12039475",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12039475",
+  "titleFingerprint": "8eb6030c9e577ac28925bde4d12ffa4a29c00ae8",
+  "dedupKeys": [
+    "f71a867091c6ca971b2e3359af544995c0464017",
+    "8eb6030c9e577ac28925bde4d12ffa4a29c00ae8",
+    "ba5d3fe797822fef20f2ad3486c49762e15d4a74"
+  ],
+  "imageUrl": "/images/articles/f71a867091c6.png",
+  "i18n": {
+    "ko": {
+      "title": "AI 반도체 ‘놈놈놈’ 정체는 엔비디아·인텔·구글, 샤킬 오닐 주식도 주목",
+      "excerpt": "mk.co.kr은 AI 반도체 시장을 ‘좋은 놈, 나쁜 놈, 이상한 놈’에 빗대 엔비디아·인텔·구글의 상징성을 설명하고, 샤킬 오닐 관련 주식 일화도 함께 조명했다.",
+      "body": "mk.co.kr은 인공지능(AI) 반도체 시장을 영화 ‘좋은 놈, 나쁜 놈, 이상한 놈’에 비유하며 엔비디아·인텔·구글을 각각 핵심 사례로 제시했다. 기사 제목은 샤킬 오닐에게 1조 원을 안겨준 주식이라는 표현으로 AI 반도체 투자자들의 관심을 끌었다. 원문 요약에 따르면 제목 순서대로 엔비디아는 ‘좋은 놈’, 인텔은 ‘나쁜 놈’, 구글은 ‘이상한 놈’에 비유된다. AI 투자자들에게 엔비디아는 그래픽처리장치(GPU)를 중심으로 대표적 수혜주로 인식되는 흐름을 보여준다. 인텔과 구글은 같은 AI 반도체 판 안에서도 서로 다른 시장 평가와 역할을 드러내는 비교 대상으로 제시됐다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "AI chip ‘good, bad and strange’ stocks: Nvidia, Intel and Google in focus",
+      "excerpt": "mk.co.kr compared the AI semiconductor market to “The Good, the Bad, the Weird,” using Nvidia, Intel and Google to explain investor attention, alongside a Shaquille O’Neal stock reference.",
+      "body": "mk.co.kr described the artificial intelligence semiconductor market through the film metaphor “The Good, the Bad, the Weird,” presenting Nvidia, Intel and Google as the key examples. The headline drew attention with a reference to the stock that reportedly handed Shaquille O’Neal 1 trillion won. According to the original summary, Nvidia corresponds to the “good,” Intel to the “bad,” and Google to the “weird” in that order. For AI investors, Nvidia is shown as a representative beneficiary centered on graphics processing units, or GPUs. Intel and Google are presented as comparison points that reveal different market perceptions and roles within the same AI chip landscape. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "AI半導体の「良い・悪い・奇妙」銘柄、エヌビディア・インテル・グーグルに注目",
+      "excerpt": "mk.co.krはAI半導体市場を「良い奴、悪い奴、変な奴」に例え、エヌビディア・インテル・グーグルの位置づけとシャキール・オニール関連株の話題を伝えた。",
+      "body": "mk.co.krは、人工知能（AI）半導体市場を映画「良い奴、悪い奴、変な奴」に例え、エヌビディア、インテル、グーグルを主要な事例として示した。記事の見出しは、シャキール・オニールに1兆ウォンをもたらした株という表現でAI半導体投資家の関心を集めた。原文の要約によると、見出しの順にエヌビディアは「良い奴」、インテルは「悪い奴」、グーグルは「変な奴」にたとえられる。AI投資家にとってエヌビディアは、GPUを中心とする代表的な恩恵銘柄として認識される流れを示している。インテルとグーグルは、同じAI半導体市場の中でも異なる市場評価と役割を示す比較対象として提示された。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "AI半导体“好坏怪”股票曝光：英伟达、英特尔、谷歌成焦点",
+      "excerpt": "mk.co.kr将AI半导体市场比作“好家伙、坏家伙、怪家伙”，用英伟达、英特尔和谷歌说明市场定位，并提到沙奎尔·奥尼尔相关股票话题。",
+      "body": "mk.co.kr将人工智能（AI）半导体市场比作电影中的“好家伙、坏家伙、怪家伙”，并把英伟达、英特尔和谷歌作为核心案例。报道标题以“让沙奎尔·奥尼尔获得1万亿韩元的那只股票”这一表述吸引AI半导体投资者关注。根据原文摘要，按标题顺序，英伟达被比作“好家伙”，英特尔被比作“坏家伙”，谷歌被比作“怪家伙”。对AI投资者而言，英伟达体现出以图形处理器（GPU）为中心的代表性受益股形象。英特尔和谷歌则被作为比较对象，显示同一AI半导体格局中不同的市场评价和角色。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Chips de IA: Nvidia, Intel y Google como los ‘buenos, malos y raros’ del mercado",
+      "excerpt": "mk.co.kr comparó el mercado de semiconductores de IA con “El bueno, el malo y el raro”, usando Nvidia, Intel y Google para explicar su simbolismo, junto a una referencia bursátil sobre Shaquille O’Neal.",
+      "body": "mk.co.kr describió el mercado de semiconductores de inteligencia artificial (IA) con la metáfora cinematográfica de “el bueno, el malo y el raro”, presentando a Nvidia, Intel y Google como ejemplos centrales. El titular atrajo la atención al mencionar una acción que habría dado a Shaquille O’Neal 1 billón de wones. Según el resumen original, en ese orden Nvidia representa al “bueno”, Intel al “malo” y Google al “raro”. Para los inversores en IA, Nvidia aparece como una beneficiaria representativa gracias a las unidades de procesamiento gráfico, o GPU. Intel y Google se presentan como puntos de comparación que muestran distintas valoraciones de mercado y roles dentro del mismo tablero de chips de IA. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Chips de IA: Nvidia, Intel e Google como os ‘bons, maus e estranhos’ do mercado",
+      "excerpt": "O mk.co.kr comparou o mercado de semicondutores de IA a “O Bom, o Mau e o Estranho”, usando Nvidia, Intel e Google para explicar posições de mercado e uma referência a Shaquille O’Neal.",
+      "body": "O mk.co.kr descreveu o mercado de semicondutores de inteligência artificial (IA) pela metáfora do filme “O Bom, o Mau e o Estranho”, apresentando Nvidia, Intel e Google como os principais exemplos. O título chamou atenção ao mencionar uma ação que teria rendido 1 trilhão de wones a Shaquille O’Neal. Segundo o resumo original, na ordem do título, a Nvidia é comparada ao “bom”, a Intel ao “mau” e o Google ao “estranho”. Para investidores em IA, a Nvidia aparece como uma beneficiária representativa, centrada nas unidades de processamento gráfico, ou GPUs. Intel e Google são apresentados como pontos de comparação que revelam diferentes avaliações de mercado e papéis dentro do mesmo cenário de chips de IA. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "KI-Chips im Fokus: Nvidia, Intel und Google als die Guten, Bösen und Seltsamen",
+      "excerpt": "mk.co.kr verglich den KI-Halbleitermarkt mit „The Good, the Bad, the Weird“ und erklärte damit Nvidia, Intel und Google, ergänzt um einen Aktienverweis zu Shaquille O’Neal.",
+      "body": "mk.co.kr beschrieb den Halbleitermarkt für künstliche Intelligenz (KI) mit der Filmmetapher „The Good, the Bad, the Weird“ und stellte Nvidia, Intel und Google als zentrale Beispiele vor. Die Überschrift lenkte mit dem Hinweis auf eine Aktie, die Shaquille O’Neal 1 Billion Won eingebracht haben soll, zusätzliche Aufmerksamkeit auf das Thema. Laut der ursprünglichen Zusammenfassung steht Nvidia in dieser Reihenfolge für den „Guten“, Intel für den „Bösen“ und Google für den „Seltsamen“. Für KI-Investoren erscheint Nvidia als repräsentativer Profiteur, vor allem rund um Grafikprozessoren, also GPUs. Intel und Google werden als Vergleichspunkte gezeigt, die unterschiedliche Marktbewertungen und Rollen im selben KI-Chipfeld verdeutlichen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Puces IA : Nvidia, Intel et Google vus comme les bons, les mauvais et les étranges",
+      "excerpt": "mk.co.kr a comparé le marché des semi-conducteurs d’IA à “Le Bon, la Brute et le Cinglé”, en utilisant Nvidia, Intel et Google, avec une référence boursière à Shaquille O’Neal.",
+      "body": "mk.co.kr a décrit le marché des semi-conducteurs liés à l’intelligence artificielle (IA) avec la métaphore du film “Le Bon, la Brute et le Cinglé”, en présentant Nvidia, Intel et Google comme exemples clés. Le titre a attiré l’attention avec la mention d’une action qui aurait rapporté 1 000 milliards de wons à Shaquille O’Neal. Selon le résumé original, dans cet ordre, Nvidia correspond au “bon”, Intel au “mauvais” et Google à “l’étrange”. Pour les investisseurs en IA, Nvidia apparaît comme un bénéficiaire représentatif grâce aux processeurs graphiques, ou GPU. Intel et Google sont présentés comme des points de comparaison révélant des perceptions de marché et des rôles différents dans le même paysage des puces IA. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "رقائق الذكاء الاصطناعي: إنفيديا وإنتل وغوغل بين الجيد والسيئ والغريب",
+      "excerpt": "قارن mk.co.kr سوق أشباه موصلات الذكاء الاصطناعي بفيلم “الجيد والسيئ والغريب”، مستخدما إنفيديا وإنتل وغوغل لشرح الرمزية، مع إشارة إلى سهم مرتبط بشاكيل أونيل.",
+      "body": "وصف mk.co.kr سوق أشباه موصلات الذكاء الاصطناعي من خلال استعارة فيلم “الجيد والسيئ والغريب”، مقدما إنفيديا وإنتل وغوغل كأمثلة رئيسية. ولفت العنوان الانتباه بعبارة عن سهم منح شاكيل أونيل تريليون وون. ووفقا لملخص النص الأصلي، تأتي إنفيديا في موقع “الجيد”، وإنتل في موقع “السيئ”، وغوغل في موقع “الغريب” وفق ترتيب العنوان. بالنسبة لمستثمري الذكاء الاصطناعي، تظهر إنفيديا كمستفيد بارز يتمحور حول وحدات معالجة الرسوميات GPU. أما إنتل وغوغل فطُرحا كنقطتي مقارنة تكشفان اختلاف تقييمات السوق والأدوار داخل مشهد رقائق الذكاء الاصطناعي نفسه. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "AI चिप बाजार में Nvidia, Intel और Google: ‘अच्छे, बुरे और अजीब’ शेयरों की पहचान",
+      "excerpt": "mk.co.kr ने AI सेमीकंडक्टर बाजार की तुलना “द गुड, द बैड, द वीयर्ड” से की और Nvidia, Intel, Google की स्थिति के साथ शकील ओ’नील से जुड़े शेयर प्रसंग को रेखांकित किया।",
+      "body": "mk.co.kr ने कृत्रिम बुद्धिमत्ता (AI) सेमीकंडक्टर बाजार को फिल्म “द गुड, द बैड, द वीयर्ड” की उपमा से समझाते हुए Nvidia, Intel और Google को मुख्य उदाहरणों के रूप में रखा। लेख के शीर्षक ने उस शेयर का उल्लेख कर ध्यान खींचा जिसने शकील ओ’नील को 1 ट्रिलियन वॉन दिलाए। मूल सारांश के अनुसार, शीर्षक के क्रम में Nvidia को “अच्छा”, Intel को “बुरा” और Google को “अजीब” बताया गया है। AI निवेशकों के लिए Nvidia ग्राफिक्स प्रोसेसिंग यूनिट यानी GPU के केंद्र में रहने वाली प्रमुख लाभार्थी कंपनी के रूप में दिखाई देती है। Intel और Google उसी AI चिप परिदृश्य में अलग-अलग बाजार मूल्यांकन और भूमिकाओं को दिखाने वाले तुलनात्मक उदाहरण हैं। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Saham chip AI ‘baik, buruk, aneh’: Nvidia, Intel dan Google jadi sorotan",
+      "excerpt": "mk.co.kr membandingkan pasar semikonduktor AI dengan “The Good, the Bad, the Weird”, memakai Nvidia, Intel dan Google untuk menjelaskan posisinya, serta menyinggung saham terkait Shaquille O’Neal.",
+      "body": "mk.co.kr menggambarkan pasar semikonduktor kecerdasan buatan (AI) dengan metafora film “The Good, the Bad, the Weird”, dan menampilkan Nvidia, Intel, serta Google sebagai contoh utama. Judul artikel menarik perhatian dengan ungkapan tentang saham yang memberi Shaquille O’Neal 1 triliun won. Menurut ringkasan asli, sesuai urutan judul, Nvidia diibaratkan sebagai “yang baik”, Intel sebagai “yang buruk”, dan Google sebagai “yang aneh”. Bagi investor AI, Nvidia terlihat sebagai penerima manfaat utama yang berpusat pada graphics processing unit atau GPU. Intel dan Google diposisikan sebagai pembanding yang menunjukkan penilaian pasar dan peran berbeda dalam lanskap chip AI yang sama. Sumber: mk.co.kr"
+    }
+  }
+}
