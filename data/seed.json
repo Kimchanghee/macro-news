@@ -1,5 +1,230 @@
 [
   {
+    "id": "0724a40c848a",
+    "slug": "美-석유-수출-대박에-기업들-웃지만트럼프는-흉흉해진-민심-걱정-399383",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T21:42:39.023Z",
+    "updatedAt": "2026-05-07T21:42:39.023Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12040509",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12040509",
+    "titleFingerprint": "d5b00099347e133454fe8d7113bd7382b5007e1d",
+    "dedupKeys": [
+      "0724a40c848a32df947ca0f9ca770b390ac97b65",
+      "d5b00099347e133454fe8d7113bd7382b5007e1d",
+      "6f46964b4cc0310976ffd816ee9bbaca78924ca2"
+    ],
+    "imageUrl": "/images/articles/0724a40c848a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 석유 수출 20% 급증, 기업 호황 뒤 트럼프의 유가 부담 커진다",
+        "excerpt": "미국의 석유 수출이 전년보다 20% 늘며 올해 87조원 수익 전망까지 나오지만, 국내 유가 급등과 민심 악화 가능성이 트럼프 행정부의 부담으로 떠오르고 있다.",
+        "body": "미국 석유 기업들이 유럽과 아시아 수요를 바탕으로 수출 확대 효과를 누리고 있다. 원문에 따르면 미국의 석유 수출은 전년 대비 20% 증가했고, 올해 관련 수익이 87조원에 이를 수 있다는 전망도 제기됐다. 미국은 2차 세계대전 이후 처음으로 원유 순수출국이 된 것으로 전해졌다. 그러나 수출 호조가 국내 유가 상승으로 이어질 경우 역풍이 우려된다. 특히 유가가 5달러에 도달하면 수출 금지 가능성까지 거론돼 트럼프 행정부가 흉흉해진 민심을 의식할 수밖에 없는 상황이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "US Oil Exports Jump 20%, Lifting Firms as Trump Faces Fuel-Price Pressure",
+        "excerpt": "US oil exports are up 20% from a year earlier, with revenue forecast at 87 trillion won this year, but rising domestic fuel prices may create political pressure for Trump.",
+        "body": "US oil companies are benefiting from stronger exports supported by demand from Europe and Asia. According to the original report, US oil exports have risen 20% from a year earlier, and related revenue this year could reach 87 trillion won. The United States is also said to have become a net crude oil exporter for the first time since World War II. The risk is that export strength could feed into higher domestic oil prices. If prices reach 5 dollars, a possible export ban has been mentioned, leaving the Trump administration exposed to public anger over fuel costs. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米石油輸出20%増、企業に追い風もトランプ氏は国内油価を警戒",
+        "excerpt": "米国の石油輸出は前年比20%増え、今年の収益は87兆ウォンに達するとの見方もある一方、国内油価上昇がトランプ政権の負担になり得る。",
+        "body": "米国の石油企業は、欧州とアジアの需要を背景に輸出拡大の恩恵を受けている。原文によると、米国の石油輸出は前年比20%増加し、今年の関連収益は87兆ウォンに達する可能性がある。米国は第2次世界大戦後初めて原油の純輸出国になったとも伝えられた。ただし輸出好調が国内油価の上昇につながれば、逆風となる懸念がある。特に価格が5ドルに達した場合、輸出禁止の可能性も取り沙汰され、トランプ政権は悪化する民心を意識せざるを得ない状況だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国石油出口增长20%，企业受益但特朗普面临油价民意压力",
+        "excerpt": "美国石油出口同比增长20%，今年收益或达87万亿韩元，但国内油价上涨和民意恶化的风险，正成为特朗普方面需要面对的压力。",
+        "body": "美国石油企业正借助欧洲和亚洲需求，享受出口扩大的收益。原文称，美国石油出口同比增长20%，今年相关收益可能达到87万亿韩元。美国还被指在第二次世界大战后首次成为原油净出口国。不过，出口强劲若推高国内油价，可能引发反作用。尤其当油价达到5美元时，出口禁令的可能性也被提及，这使特朗普方面不得不关注因燃料价格上升而变得不安的民意。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Exportaciones petroleras de EE. UU. suben 20%, pero Trump enfrenta presión por precios",
+        "excerpt": "Las exportaciones petroleras de EE. UU. crecieron 20% interanual y podrían generar 87 billones de wones este año, aunque el alza interna del crudo amenaza con afectar a Trump.",
+        "body": "Las petroleras estadounidenses se benefician del aumento de exportaciones impulsado por la demanda de Europa y Asia. Según el texto original, las exportaciones de petróleo de EE. UU. crecieron 20% frente al año anterior y los ingresos relacionados podrían alcanzar 87 billones de wones este año. También se señala que Estados Unidos se convirtió en exportador neto de crudo por primera vez desde la Segunda Guerra Mundial. El riesgo es que el auge exportador eleve los precios internos. Si el precio llega a 5 dólares, se menciona incluso la posibilidad de prohibir exportaciones, lo que aumenta la presión social sobre Trump. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Exportação de petróleo dos EUA sobe 20%, mas Trump sente pressão dos preços",
+        "excerpt": "As exportações de petróleo dos EUA avançaram 20% em um ano e podem render 87 trilhões de wons, mas a alta doméstica dos combustíveis ameaça virar pressão contra Trump.",
+        "body": "As empresas petrolíferas dos Estados Unidos colhem ganhos com a expansão das exportações, sustentada pela demanda da Europa e da Ásia. Segundo o texto original, as exportações de petróleo dos EUA cresceram 20% ante o ano anterior, e a receita neste ano pode chegar a 87 trilhões de wons. O país também teria se tornado exportador líquido de petróleo bruto pela primeira vez desde a Segunda Guerra Mundial. O ponto de atenção é que o avanço das vendas externas pode elevar os preços internos. Se o preço chegar a 5 dólares, até uma proibição de exportações é citada, ampliando o peso político sobre Trump. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-Ölexporte steigen um 20 Prozent, doch Trump gerät wegen Preisen unter Druck",
+        "excerpt": "Die US-Ölexporte liegen 20% über Vorjahr und könnten 87 Billionen Won einbringen, doch steigende Inlandspreise drohen für Trump zu einem politischen Problem zu werden.",
+        "body": "US-Ölunternehmen profitieren von höheren Exporten, getragen durch Nachfrage aus Europa und Asien. Dem Ausgangstext zufolge sind die Ölexporte der USA gegenüber dem Vorjahr um 20% gestiegen, und die Erlöse könnten in diesem Jahr 87 Billionen Won erreichen. Zudem sollen die USA erstmals seit dem Zweiten Weltkrieg Nettoexporteur von Rohöl geworden sein. Das Risiko liegt in steigenden Inlandspreisen, falls der Exportboom auf den heimischen Markt durchschlägt. Erreicht der Preis 5 Dollar, wird sogar ein mögliches Exportverbot genannt. Damit wächst für Trump der Druck durch eine unruhigere öffentliche Stimmung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les exportations de pétrole américain bondissent de 20%, Trump sous pression",
+        "excerpt": "Les exportations américaines de pétrole progressent de 20% sur un an et pourraient rapporter 87 billions de wons, mais la hausse des prix intérieurs inquiète Trump.",
+        "body": "Les compagnies pétrolières américaines profitent de l’essor des exportations, soutenu par la demande européenne et asiatique. Selon le texte original, les exportations de pétrole des États-Unis ont augmenté de 20% sur un an, et les revenus liés pourraient atteindre 87 billions de wons cette année. Les États-Unis seraient aussi devenus exportateur net de brut pour la première fois depuis la Seconde Guerre mondiale. Mais cette dynamique peut se retourner si elle alimente une hausse des prix intérieurs. Si le prix atteint 5 dollars, une interdiction d’exporter est même évoquée, plaçant Trump face à une opinion publique plus inquiète. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صادرات النفط الأميركية تقفز 20% والشركات تربح بينما يواجه ترامب ضغط الأسعار",
+        "excerpt": "ارتفعت صادرات النفط الأميركية 20% على أساس سنوي وقد تحقق 87 تريليون وون هذا العام، لكن صعود الأسعار المحلية يثير مخاوف سياسية وشعبية أمام ترامب.",
+        "body": "تستفيد شركات النفط الأميركية من توسع الصادرات بدعم الطلب من أوروبا وآسيا. ووفق النص الأصلي، زادت صادرات النفط الأميركية 20% مقارنة بالعام السابق، وقد تصل الإيرادات المرتبطة بها هذا العام إلى 87 تريليون وون. كما ورد أن الولايات المتحدة أصبحت مصدرا صافيا للنفط الخام للمرة الأولى منذ الحرب العالمية الثانية. لكن قوة الصادرات قد تتحول إلى عبء إذا رفعت أسعار النفط داخل البلاد. وإذا بلغ السعر 5 دولارات، يجري الحديث عن احتمال حظر التصدير، ما يجعل إدارة ترامب مضطرة لمراعاة القلق الشعبي المتزايد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिकी तेल निर्यात 20% बढ़ा, कंपनियों को लाभ पर ट्रंप पर कीमतों का दबाव",
+        "excerpt": "अमेरिका का तेल निर्यात सालाना 20% बढ़ा और इस साल 87 ट्रिलियन वॉन आय का अनुमान है, लेकिन घरेलू तेल कीमतों में उछाल ट्रंप के लिए जनमत का जोखिम बना सकता है।",
+        "body": "अमेरिकी तेल कंपनियां यूरोप और एशिया की मांग के सहारे बढ़ते निर्यात का लाभ उठा रही हैं। मूल रिपोर्ट के अनुसार, अमेरिका का तेल निर्यात पिछले वर्ष की तुलना में 20% बढ़ा है और इस साल इससे जुड़ी आय 87 ट्रिलियन वॉन तक पहुंच सकती है। यह भी बताया गया कि अमेरिका द्वितीय विश्व युद्ध के बाद पहली बार कच्चे तेल का शुद्ध निर्यातक बना है। लेकिन निर्यात में तेजी घरेलू तेल कीमतों को ऊपर ले जाती है तो प्रतिक्रिया का जोखिम है। खासकर कीमत 5 डॉलर तक पहुंचने पर निर्यात प्रतिबंध की संभावना भी उठाई जा रही है, जिससे ट्रंप प्रशासन पर जनता की नाराजगी का दबाव बढ़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Ekspor Minyak AS Naik 20%, Perusahaan Untung tapi Trump Tertekan Harga",
+        "excerpt": "Ekspor minyak AS naik 20% dibanding tahun lalu dan pendapatan tahun ini diperkirakan 87 triliun won, namun lonjakan harga domestik dapat menekan Trump secara politik.",
+        "body": "Perusahaan minyak Amerika Serikat menikmati dampak ekspansi ekspor yang ditopang permintaan dari Eropa dan Asia. Menurut teks asli, ekspor minyak AS naik 20% dibanding tahun sebelumnya, dan pendapatan terkait tahun ini diperkirakan dapat mencapai 87 triliun won. AS juga disebut menjadi eksportir bersih minyak mentah untuk pertama kalinya sejak Perang Dunia II. Namun, kinerja ekspor yang kuat dapat memicu tekanan balik jika menaikkan harga minyak domestik. Bila harga mencapai 5 dolar, kemungkinan larangan ekspor ikut disebut, sehingga pemerintahan Trump harus memperhatikan keresahan publik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "af4518e2ed87",
+    "slug": "호르무즈-화재-나무호-두바이-도착조선소-접안에-3시간-더-걸릴-듯-795033",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T21:41:41.125Z",
+    "updatedAt": "2026-05-07T21:41:41.125Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12040556",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12040556",
+    "titleFingerprint": "92fcc88ad5265f00dad2b630aad829b75c2997a3",
+    "dedupKeys": [
+      "af4518e2ed87fc5efdab8bd448401ffa67882f99",
+      "92fcc88ad5265f00dad2b630aad829b75c2997a3",
+      "5f3ceec0a4cbf8526a1205186c2dd35dd7a49c4c"
+    ],
+    "imageUrl": "/images/articles/af4518e2ed87.jpg",
+    "i18n": {
+      "ko": {
+        "title": "호르무즈 화재 HMM 나무호 두바이 도착, 사고 원인 조사 본격화",
+        "excerpt": "호르무즈 해협 정박 중 폭발로 화재가 발생한 HMM 운용 화물선 나무호가 UAE 두바이에 도착하면서 조선소 접안 뒤 사고 원인 조사가 본격화될 전망이다.",
+        "body": "호르무즈 해협에서 정박 중 폭발로 화재가 발생했던 HMM 운용 화물선 나무호가 아랍에미리트(UAE) 두바이에 도착했다. HMM과 현지 소식통 등에 따르면 나무호는 두바이에 도착했으며, 조선소 접안까지는 약 3시간이 더 걸릴 것으로 전해졌다. 이번 사고는 호르무즈 해협 정박 중 발생한 폭발과 화재가 핵심으로, 선박이 조선소에 접안하면 본격적인 사고 원인 조사가 시작될 예정이다. 향후 조사는 폭발 발생 경위와 화재 원인 확인에 초점이 맞춰질 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HMM-Operated Namura Reaches Dubai After Hormuz Fire, Probe to Begin",
+        "excerpt": "The HMM-operated cargo ship Namura, which caught fire after an explosion while anchored in the Strait of Hormuz, has arrived in Dubai, UAE, with a formal investigation set to begin after docking.",
+        "body": "The HMM-operated cargo ship Namura, which suffered a fire following an explosion while anchored in the Strait of Hormuz, has arrived in Dubai, United Arab Emirates. According to HMM and local sources, the vessel has reached Dubai, but docking at the shipyard is expected to take about three more hours. The incident centers on an explosion and fire that occurred while the ship was anchored in the Strait of Hormuz. Once the vessel is berthed at the shipyard, a full investigation into the cause of the accident is expected to begin. The inquiry is likely to focus on how the explosion occurred and what caused the fire. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ホルムズ火災のHMM運用ナム号がドバイ到着、事故原因調査へ",
+        "excerpt": "ホルムズ海峡で停泊中に爆発と火災が発生したHMM運用の貨物船ナム号がUAEドバイに到着し、造船所への接岸後に事故原因の調査が本格化する見通しです。",
+        "body": "ホルムズ海峡で停泊中に爆発による火災が発生したHMM運用の貨物船ナム号が、アラブ首長国連邦（UAE）のドバイに到着しました。HMMと現地消息筋などによると、ナム号はドバイに到着しており、造船所への接岸にはさらに約3時間かかる見通しです。今回の事故は、ホルムズ海峡で停泊中に発生した爆発と火災が焦点です。船舶が造船所に接岸すれば、事故原因の本格的な調査が始まる予定です。今後の調査は、爆発の経緯と火災の原因確認に重点が置かれるとみられます。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "霍尔木兹火灾货轮Namura抵达迪拜，事故原因调查将启动",
+        "excerpt": "在霍尔木兹海峡停泊期间因爆炸起火的HMM运营货轮Namura已抵达阿联酋迪拜，预计在进入船厂靠泊后将正式展开事故原因调查。",
+        "body": "在霍尔木兹海峡停泊期间发生爆炸并引发火灾的HMM运营货轮Namura已抵达阿拉伯联合酋长国迪拜。据HMM和当地消息人士称，该船已经抵达迪拜，但靠泊船厂预计还需要约3个小时。此次事故的核心是在霍尔木兹海峡停泊期间发生的爆炸和火灾。船舶完成船厂靠泊后，事故原因调查预计将正式开始。后续调查将重点确认爆炸发生经过以及火灾原因。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Buque Namura de HMM llega a Dubái tras incendio en Ormuz y alistan pesquisa",
+        "excerpt": "El carguero Namura, operado por HMM y afectado por un incendio tras una explosión mientras estaba fondeado en el estrecho de Ormuz, llegó a Dubái, donde se iniciará la investigación.",
+        "body": "El carguero Namura, operado por HMM, llegó a Dubái, Emiratos Árabes Unidos, después de sufrir un incendio causado por una explosión mientras estaba fondeado en el estrecho de Ormuz. Según HMM y fuentes locales, el buque ya arribó a Dubái, aunque se prevé que el atraque en el astillero tome unas tres horas más. El incidente se centra en la explosión y el incendio ocurridos durante su fondeo en el estrecho de Ormuz. Una vez que el barco quede atracado en el astillero, comenzará una investigación formal sobre la causa del accidente. La pesquisa se enfocará en determinar cómo ocurrió la explosión y qué provocó el fuego. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Navio Namura da HMM chega a Dubai após fogo em Ormuz; investigação deve começar",
+        "excerpt": "O cargueiro Namura, operado pela HMM e atingido por incêndio após explosão enquanto estava fundeado no estreito de Ormuz, chegou a Dubai, nos Emirados Árabes Unidos.",
+        "body": "O cargueiro Namura, operado pela HMM, chegou a Dubai, nos Emirados Árabes Unidos, após sofrer um incêndio causado por uma explosão enquanto estava fundeado no estreito de Ormuz. Segundo a HMM e fontes locais, a embarcação já chegou a Dubai, mas a atracação no estaleiro deve levar cerca de mais três horas. O caso envolve a explosão e o incêndio ocorridos durante a permanência do navio no estreito de Ormuz. Depois que a embarcação atracar no estaleiro, uma investigação formal sobre a causa do acidente deverá começar. A apuração deve se concentrar nas circunstâncias da explosão e na origem do fogo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HMM-Frachter Namura nach Brand in Hormus in Dubai, Untersuchung vor Start",
+        "excerpt": "Der von HMM betriebene Frachter Namura, der nach einer Explosion vor Anker in der Straße von Hormus in Brand geraten war, ist in Dubai angekommen; nach dem Andocken soll die Untersuchung beginnen.",
+        "body": "Der von HMM betriebene Frachter Namura ist in Dubai in den Vereinigten Arabischen Emiraten angekommen, nachdem er während des Ankerns in der Straße von Hormus nach einer Explosion in Brand geraten war. Nach Angaben von HMM und lokalen Quellen hat das Schiff Dubai erreicht; bis zum Andocken an der Werft dürften jedoch noch etwa drei Stunden vergehen. Im Mittelpunkt des Vorfalls stehen die Explosion und der anschließende Brand während des Ankerns in der Straße von Hormus. Sobald das Schiff an der Werft festgemacht hat, soll eine umfassende Untersuchung zur Unfallursache beginnen. Dabei dürfte es vor allem um den Ablauf der Explosion und die Ursache des Feuers gehen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le Namura exploité par HMM arrive à Dubaï après l’incendie dans le détroit d’Ormuz",
+        "excerpt": "Le cargo Namura exploité par HMM, touché par un incendie après une explosion alors qu’il était au mouillage dans le détroit d’Ormuz, est arrivé à Dubaï avant l’ouverture de l’enquête.",
+        "body": "Le cargo Namura, exploité par HMM, est arrivé à Dubaï, aux Émirats arabes unis, après avoir été touché par un incendie provoqué par une explosion alors qu’il était au mouillage dans le détroit d’Ormuz. Selon HMM et des sources locales, le navire a atteint Dubaï, mais son accostage au chantier naval devrait encore prendre environ trois heures. L’incident porte sur l’explosion et l’incendie survenus pendant le mouillage dans le détroit d’Ormuz. Une fois le navire amarré au chantier naval, une enquête complète sur la cause de l’accident devrait commencer. Elle devrait se concentrer sur les circonstances de l’explosion et l’origine du feu. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سفينة نامورا التابعة لـHMM تصل دبي بعد حريق هرمز وبدء التحقيق قريباً",
+        "excerpt": "وصلت سفينة الشحن نامورا التي تشغلها HMM إلى دبي بعد حريق اندلع إثر انفجار أثناء رسوها في مضيق هرمز، على أن يبدأ التحقيق في سبب الحادث بعد رسوها في حوض السفن.",
+        "body": "وصلت سفينة الشحن نامورا التي تشغلها HMM إلى دبي في دولة الإمارات العربية المتحدة، بعدما تعرضت لحريق نجم عن انفجار أثناء رسوها في مضيق هرمز. وبحسب HMM ومصادر محلية، فقد وصلت السفينة إلى دبي، لكن رسوها في حوض السفن قد يستغرق نحو ثلاث ساعات إضافية. ويتمحور الحادث حول الانفجار والحريق اللذين وقعا أثناء رسو السفينة في مضيق هرمز. وبعد رسو السفينة في حوض السفن، من المتوقع أن يبدأ تحقيق كامل في سبب الحادث. وسيركز التحقيق على ملابسات وقوع الانفجار وتحديد سبب الحريق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हॉर्मुज आग के बाद HMM संचालित Namura दुबई पहुंचा, जांच शुरू होने की तैयारी",
+        "excerpt": "हॉर्मुज जलडमरूमध्य में लंगर डाले रहने के दौरान विस्फोट के बाद आग लगने वाला HMM संचालित मालवाहक जहाज Namura UAE के दुबई पहुंच गया है और डॉकिंग के बाद जांच शुरू होगी।",
+        "body": "हॉर्मुज जलडमरूमध्य में लंगर डाले रहने के दौरान विस्फोट के बाद आग लगने वाला HMM संचालित मालवाहक जहाज Namura संयुक्त अरब अमीरात के दुबई पहुंच गया है। HMM और स्थानीय सूत्रों के अनुसार, जहाज दुबई पहुंच चुका है, लेकिन शिपयार्ड में उसके लगने में करीब तीन घंटे और लग सकते हैं। यह घटना हॉर्मुज जलडमरूमध्य में लंगर डाले जहाज पर हुए विस्फोट और उसके बाद लगी आग से जुड़ी है। जहाज के शिपयार्ड में लगने के बाद दुर्घटना के कारणों की औपचारिक जांच शुरू होने की उम्मीद है। जांच का ध्यान विस्फोट कैसे हुआ और आग किस वजह से लगी, इसकी पुष्टि पर रहेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kapal Namura HMM Tiba di Dubai Usai Kebakaran Hormuz, Investigasi Disiapkan",
+        "excerpt": "Kapal kargo Namura yang dioperasikan HMM tiba di Dubai, UEA, setelah terbakar akibat ledakan saat berlabuh di Selat Hormuz; penyelidikan akan dimulai setelah sandar di galangan.",
+        "body": "Kapal kargo Namura yang dioperasikan HMM telah tiba di Dubai, Uni Emirat Arab, setelah mengalami kebakaran akibat ledakan saat berlabuh di Selat Hormuz. Menurut HMM dan sumber lokal, kapal tersebut sudah mencapai Dubai, tetapi proses sandar di galangan diperkirakan masih memerlukan sekitar tiga jam lagi. Insiden ini berpusat pada ledakan dan kebakaran yang terjadi saat kapal berlabuh di Selat Hormuz. Setelah kapal sandar di galangan, penyelidikan resmi mengenai penyebab kecelakaan diperkirakan akan dimulai. Penyelidikan akan berfokus pada kronologi ledakan dan penyebab kebakaran. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "bf3cd0d5e7c8",
+    "slug": "속보-트럼프의-10-글로벌-관세-미국-무역법원서-패소-543534",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T21:40:47.331Z",
+    "updatedAt": "2026-05-07T21:40:47.331Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12040582",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12040582",
+    "titleFingerprint": "803c177b3bf964411fd7b6a87593a74ec55ca867",
+    "dedupKeys": [
+      "bf3cd0d5e7c80802649dfafa33091829923b24b8",
+      "803c177b3bf964411fd7b6a87593a74ec55ca867",
+      "2453bd49b97cf404997f65080bc09abb8bcd836e"
+    ],
+    "imageUrl": "/images/articles/bf3cd0d5e7c8.png",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 10% 글로벌 관세, 미국 무역법원서 패소…무역정책 제동",
+        "excerpt": "트럼프의 ‘10% 글로벌 관세’가 미국 무역법원에서 패소했다는 속보가 전해지며, 해당 관세 조치의 법적 판단과 향후 무역정책 영향에 관심이 모이고 있다.",
+        "body": "트럼프의 ‘10% 글로벌 관세’가 미국 무역법원에서 패소했다는 속보가 전해졌다. 원문 제목에 따르면 이번 사안은 트럼프가 추진한 글로벌 관세 조치가 미국 무역법원의 판단에서 불리한 결과를 맞은 사례다. 제공된 원문 정보에는 별도 요약이나 판결 세부 내용, 적용 대상, 관련 수치가 포함되지 않았다. 다만 ‘10% 글로벌 관세’라는 핵심 문구와 ‘미국 무역법원서 패소’라는 결과가 명시된 만큼, 향후 해당 관세 정책의 법적 지위와 무역정책 운용에 대한 후속 보도가 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Trump’s 10% Global Tariff Loses in U.S. Trade Court, Policy Focus Turns",
+        "excerpt": "A breaking report says Trump’s ‘10% global tariff’ lost in a U.S. trade court, drawing attention to the legal ruling and its implications for future trade policy.",
+        "body": "A breaking report says Trump’s ‘10% global tariff’ has lost in a U.S. trade court. According to the original headline, the case concerns a global tariff measure pursued by Trump that received an unfavorable outcome in the trade court. The provided source information does not include a separate summary, ruling details, affected targets, or related figures. However, the headline clearly states both the key phrase ‘10% global tariff’ and the result, ‘lost in U.S. trade court.’ Further reporting is expected to focus on the tariff policy’s legal standing and how future trade policy may be managed. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "トランプ氏の10％グローバル関税、米貿易裁判所で敗訴",
+        "excerpt": "トランプ氏の「10％グローバル関税」が米国の貿易裁判所で敗訴したとの速報が伝えられ、法的判断と今後の通商政策への影響に関心が集まっている。",
+        "body": "トランプ氏の「10％グローバル関税」が米国の貿易裁判所で敗訴したとの速報が伝えられた。原文の見出しによると、今回の事案はトランプ氏が推進したグローバル関税措置が、米貿易裁判所の判断で不利な結果を受けたものだ。提供された原文情報には、別途の要約や判決の詳細、適用対象、関連数値は含まれていない。ただし、「10％グローバル関税」という核心語と「米貿易裁判所で敗訴」という結果が明示されており、今後は同関税政策の法的地位と通商政策運用に関する続報が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "特朗普10%全球关税在美国贸易法院败诉，政策走向受关注",
+        "excerpt": "快讯称，特朗普的“10%全球关税”在美国贸易法院败诉，外界关注这一法律裁定及其对后续贸易政策运作的影响。",
+        "body": "快讯称，特朗普的“10%全球关税”在美国贸易法院败诉。根据原文标题，此事涉及特朗普推动的全球关税措施在美国贸易法院的判断中遭遇不利结果。所提供的原文信息未包含单独摘要、判决细节、适用对象或相关数据。不过，标题已明确写出“10%全球关税”这一核心表述，以及“在美国贸易法院败诉”的结果。因此，后续报道预计将聚焦该关税政策的法律地位，以及未来贸易政策如何运作。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Arancel global del 10% de Trump pierde en tribunal comercial de EE. UU.",
+        "excerpt": "Un reporte urgente señala que el ‘arancel global del 10%’ de Trump perdió en un tribunal comercial de EE. UU., elevando la atención sobre el fallo legal y su impacto comercial.",
+        "body": "Un reporte urgente señala que el ‘arancel global del 10%’ de Trump perdió en un tribunal comercial de Estados Unidos. Según el titular original, el caso se refiere a una medida arancelaria global impulsada por Trump que obtuvo un resultado desfavorable ante dicho tribunal. La información proporcionada no incluye un resumen separado, detalles del fallo, alcance de aplicación ni cifras relacionadas. Sin embargo, el titular identifica claramente la expresión clave ‘arancel global del 10%’ y el resultado de ‘derrota en el tribunal comercial de EE. UU.’. Las próximas informaciones se centrarán en el estatus legal de esa política arancelaria y en su manejo dentro de la política comercial. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Tarifa global de 10% de Trump perde em tribunal comercial dos EUA",
+        "excerpt": "Uma notícia urgente afirma que a ‘tarifa global de 10%’ de Trump perdeu em um tribunal comercial dos EUA, chamando atenção para a decisão legal e seus efeitos na política comercial.",
+        "body": "Uma notícia urgente afirma que a ‘tarifa global de 10%’ de Trump perdeu em um tribunal comercial dos Estados Unidos. Segundo o título original, o caso envolve uma medida tarifária global promovida por Trump que recebeu um resultado desfavorável nesse tribunal. As informações fornecidas não incluem resumo separado, detalhes da decisão, alvos de aplicação ou números relacionados. Ainda assim, o título deixa claros tanto o termo central ‘tarifa global de 10%’ quanto o resultado de ‘derrota no tribunal comercial dos EUA’. As próximas notícias devem observar o status legal dessa política tarifária e sua condução na política comercial. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Trumps globaler 10-Prozent-Zoll verliert vor US-Handelsgericht",
+        "excerpt": "Eine Eilmeldung berichtet, dass Trumps ‘globaler 10-Prozent-Zoll’ vor einem US-Handelsgericht verlor; im Fokus stehen nun die rechtliche Bewertung und Folgen für die Handelspolitik.",
+        "body": "Eine Eilmeldung berichtet, dass Trumps ‘globaler 10-Prozent-Zoll’ vor einem US-Handelsgericht verloren hat. Dem ursprünglichen Titel zufolge betrifft der Fall eine von Trump vorangetriebene globale Zollmaßnahme, die vor dem Handelsgericht ein ungünstiges Ergebnis erhielt. Die bereitgestellten Ausgangsinformationen enthalten keine gesonderte Zusammenfassung, keine Details des Urteils, keine betroffenen Bereiche und keine Zahlen. Klar genannt werden jedoch der zentrale Begriff ‘globaler 10-Prozent-Zoll’ und das Ergebnis ‘Niederlage vor dem US-Handelsgericht’. Weitere Berichte dürften sich auf den rechtlichen Status dieser Zollpolitik und ihre Bedeutung für die künftige Handelspolitik richten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le tarif mondial de 10 % de Trump perd devant un tribunal commercial américain",
+        "excerpt": "Une dépêche indique que le ‘tarif mondial de 10 %’ de Trump a perdu devant un tribunal commercial américain, attirant l’attention sur la décision juridique et ses effets commerciaux.",
+        "body": "Une dépêche indique que le ‘tarif mondial de 10 %’ de Trump a perdu devant un tribunal commercial américain. Selon le titre original, l’affaire concerne une mesure tarifaire mondiale portée par Trump qui a reçu une issue défavorable devant cette juridiction. Les informations fournies ne comprennent pas de résumé distinct, de détails du jugement, de périmètre d’application ni de chiffres associés. Toutefois, le titre mentionne clairement l’expression clé ‘tarif mondial de 10 %’ ainsi que le résultat, à savoir une ‘défaite devant un tribunal commercial américain’. Les prochains éléments devraient porter sur le statut juridique de cette politique tarifaire et sur sa place dans la politique commerciale. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رسوم ترامب العالمية 10% تخسر أمام محكمة تجارية أمريكية",
+        "excerpt": "أفاد خبر عاجل بأن ‘الرسوم العالمية 10%’ التي طرحها ترامب خسرت أمام محكمة تجارية أمريكية، ما يسلط الضوء على الحكم القانوني وتداعياته على السياسة التجارية.",
+        "body": "أفاد خبر عاجل بأن ‘الرسوم العالمية 10%’ التي طرحها ترامب خسرت أمام محكمة تجارية أمريكية. وبحسب العنوان الأصلي، تتعلق القضية بإجراء جمركي عالمي دفع به ترامب وانتهى إلى نتيجة غير مواتية أمام المحكمة التجارية الأمريكية. ولا تتضمن المعلومات المقدمة ملخصا منفصلا أو تفاصيل الحكم أو نطاق التطبيق أو أرقاما مرتبطة بالقضية. لكن العنوان يذكر بوضوح العبارة الأساسية ‘الرسوم العالمية 10%’ ونتيجة ‘الخسارة أمام محكمة تجارية أمريكية’. ومن المتوقع أن تتركز المتابعات على الوضع القانوني لهذه السياسة الجمركية وكيفية انعكاسها على إدارة السياسة التجارية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ट्रंप का 10% वैश्विक टैरिफ अमेरिकी व्यापार अदालत में हारा",
+        "excerpt": "एक ब्रेकिंग रिपोर्ट के अनुसार ट्रंप का ‘10% वैश्विक टैरिफ’ अमेरिकी व्यापार अदालत में हार गया, जिससे कानूनी फैसले और आगे की व्यापार नीति पर असर को लेकर ध्यान बढ़ा है।",
+        "body": "एक ब्रेकिंग रिपोर्ट के अनुसार ट्रंप का ‘10% वैश्विक टैरिफ’ अमेरिकी व्यापार अदालत में हार गया। मूल शीर्षक के मुताबिक यह मामला ट्रंप द्वारा आगे बढ़ाए गए वैश्विक टैरिफ कदम से जुड़ा है, जिसे अमेरिकी व्यापार अदालत में प्रतिकूल परिणाम मिला। उपलब्ध मूल जानकारी में अलग सारांश, फैसले का विवरण, लागू क्षेत्र या संबंधित आंकड़े शामिल नहीं हैं। फिर भी शीर्षक में ‘10% वैश्विक टैरिफ’ जैसा मुख्य शब्द और ‘अमेरिकी व्यापार अदालत में हार’ का परिणाम स्पष्ट रूप से दिया गया है। आगे की रिपोर्टों में इस टैरिफ नीति की कानूनी स्थिति और भविष्य की व्यापार नीति के संचालन पर ध्यान रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Tarif Global 10% Trump Kalah di Pengadilan Dagang AS",
+        "excerpt": "Laporan cepat menyebut ‘tarif global 10%’ Trump kalah di pengadilan dagang AS, menarik perhatian pada putusan hukum dan dampaknya terhadap arah kebijakan perdagangan.",
+        "body": "Laporan cepat menyebut ‘tarif global 10%’ Trump kalah di pengadilan dagang Amerika Serikat. Berdasarkan judul asli, perkara ini menyangkut langkah tarif global yang didorong Trump dan mendapat hasil tidak menguntungkan di pengadilan dagang AS. Informasi sumber yang diberikan tidak memuat ringkasan terpisah, rincian putusan, objek penerapan, atau angka terkait. Namun, judul tersebut secara jelas mencantumkan frasa utama ‘tarif global 10%’ dan hasil ‘kalah di pengadilan dagang AS’. Laporan lanjutan diperkirakan akan menyoroti status hukum kebijakan tarif tersebut dan bagaimana kebijakan perdagangan selanjutnya dijalankan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "c8c2e28fbe6c",
     "slug": "윗집은-한강뷰아랫집은-정원뷰리모델링-층별-맞춤형-평면-눈길-919615",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Sidang Suami Siram Istri Thailand dengan Air Mendidih Dibuka Lagi, Korban Ingin Hukuman",
         "excerpt": "Sidang kasus luka bakar berat di wajah istri asal Thailand kembali digelar pada 7 Mei di Pengadilan Distrik Uijeongbu setelah pihak korban mengubah sikap.",
         "body": "Sidang kasus seorang suami yang diduga menyiram istrinya asal Thailand dengan air mendidih hingga menyebabkan luka bakar berat di wajah kembali dibuka pada 7 Mei di Pengadilan Distrik Uijeongbu, dipimpin Hakim Kim Jun-young dari Pengadilan Pidana tunggal 12. Perkara ini sebelumnya sudah memasuki tahap akhir setelah jaksa menyampaikan tuntutan pada Maret. Namun, persidangan dilanjutkan kembali karena pihak korban mengubah sikap. Perubahan utamanya adalah korban menyatakan ingin terdakwa dihukum. Majelis diperkirakan akan meninjau kembali perkara ini dalam proses yang dibuka lagi dengan mempertimbangkan sikap terbaru korban. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a0cf145555db",
-    "slug": "구동휘-ls-mnm-대표-3년-연속-직접-나무-심어-도심-탄소-저감-앞장-824746",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T06:40:50.929Z",
-    "updatedAt": "2026-05-07T06:40:50.929Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039202",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039202",
-    "titleFingerprint": "38c945bd8437060ad86d65ee33128ada7c27322e",
-    "dedupKeys": [
-      "a0cf145555dbb9604a3ba2c7ec16d4de8febedcc",
-      "38c945bd8437060ad86d65ee33128ada7c27322e",
-      "d0490a2b99988a75719c05bf743df34c0abde504"
-    ],
-    "imageUrl": "/images/articles/a0cf145555db.png",
-    "i18n": {
-      "ko": {
-        "title": "구동휘 LS MnM 대표, 3년 연속 나무 심기 참여…도심 탄소 저감 실천",
-        "excerpt": "구동휘 LS MnM 대표가 7일 서울어린이대공원에서 열린 ‘MnM 그리너 캠페인’에 3년 연속 직접 참여해 꿀벌·나비 먹이 식물 300본을 심었다.",
-        "body": "구동휘 LS MnM 대표가 7일 서울어린이대공원에서 열린 ‘MnM 그리너 캠페인’에 참여해 도심 탄소 저감 활동에 나섰다. 구 대표는 3년 연속 직접 나무 심기에 함께했으며, 이날 현장에서는 꿀벌과 나비의 먹이가 되는 식물 300본이 식재됐다. 이번 활동으로 캠페인의 누적 식재 수는 1000본을 넘어섰다. LS MnM은 2019년부터 친환경 행보를 이어오며 폐열 재활용 등 넷제로 실현을 위한 활동도 추진해왔다. 도심 생태계 보전과 탄소 저감 실천을 결합한 이번 캠페인은 기업의 지속가능 경영 활동으로 의미를 더한다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LS MnM CEO Koo Dong-hwi Joins Tree Planting for Third Year to Cut Urban Carbon",
-        "excerpt": "LS MnM CEO Koo Dong-hwi joined the MnM Greener Campaign at Seoul Children’s Grand Park on May 7, planting 300 bee and butterfly food plants.",
-        "body": "LS MnM CEO Koo Dong-hwi took part in the MnM Greener Campaign at Seoul Children’s Grand Park on May 7, joining an urban carbon-reduction effort. Koo personally participated in tree planting for the third consecutive year. At the event, 300 plants that serve as food sources for bees and butterflies were planted. With this activity, the campaign’s cumulative planting total surpassed 1,000. LS MnM has continued environmentally friendly initiatives since 2019 and has also pursued net-zero efforts such as waste-heat recycling. The campaign adds significance as a corporate sustainability activity that combines urban ecosystem protection with practical carbon reduction. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LS MnM具東輝代表、3年連続で植樹参加…都市の炭素削減を実践",
-        "excerpt": "LS MnMの具東輝代表は5月7日、ソウル子ども大公園で開かれた「MnMグリーナーキャンペーン」に参加し、蜜蜂や蝶の餌となる植物300本を植えた。",
-        "body": "LS MnMの具東輝代表は5月7日、ソウル子ども大公園で開かれた「MnMグリーナーキャンペーン」に参加し、都市部の炭素削減活動に取り組んだ。具代表は3年連続で自ら植樹に加わり、この日の会場では蜜蜂や蝶の餌となる植物300本が植えられた。今回の活動により、同キャンペーンの累計植樹数は1000本を超えた。LS MnMは2019年から環境に配慮した取り組みを続けており、廃熱の再利用などネットゼロ実現に向けた活動も進めてきた。都市生態系の保全と炭素削減の実践を結び付けた今回のキャンペーンは、企業の持続可能経営活動として意味を持つ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LS MnM代表具东辉连续三年亲自植树，推进城市减碳实践",
-        "excerpt": "LS MnM代表具东辉5月7日参加在首尔儿童大公园举行的“MnM Greener Campaign”，种植300株蜜蜂和蝴蝶食源植物。",
-        "body": "LS MnM代表具东辉5月7日参加在首尔儿童大公园举行的“MnM Greener Campaign”，投身城市碳减排活动。具代表已连续三年亲自参与植树，当天现场种植了300株可作为蜜蜂和蝴蝶食物来源的植物。通过此次活动，该 캠페인의累计种植数量已超过1000株。LS MnM自2019年以来持续推进环保行动，并开展废热再利用等实现净零目标的相关举措。此次活动把城市生态系统保护与碳减排实践相结合，体现了企业可持续经营的意义。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Koo Dong-hwi de LS MnM planta árboles por tercer año para reducir carbono urbano",
-        "excerpt": "Koo Dong-hwi, CEO de LS MnM, participó el 7 de mayo en la MnM Greener Campaign en Seoul Children’s Grand Park y plantó 300 especies para abejas y mariposas.",
-        "body": "Koo Dong-hwi, CEO de LS MnM, participó el 7 de mayo en la MnM Greener Campaign celebrada en Seoul Children’s Grand Park, sumándose a una iniciativa de reducción de carbono urbano. El directivo participó personalmente en la plantación por tercer año consecutivo. En el lugar se plantaron 300 plantas que sirven de alimento para abejas y mariposas. Con esta actividad, el total acumulado de plantaciones de la campaña superó las 1.000 unidades. LS MnM mantiene iniciativas ecológicas desde 2019 y también ha impulsado acciones para lograr el net zero, como la reutilización del calor residual. La campaña combina conservación del ecosistema urbano y reducción práctica de carbono como parte de la sostenibilidad corporativa. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Koo Dong-hwi, da LS MnM, planta árvores pelo 3º ano para reduzir carbono urbano",
-        "excerpt": "Koo Dong-hwi, CEO da LS MnM, participou em 7 de maio da MnM Greener Campaign no Seoul Children’s Grand Park e plantou 300 espécies para abelhas e borboletas.",
-        "body": "Koo Dong-hwi, CEO da LS MnM, participou em 7 de maio da MnM Greener Campaign realizada no Seoul Children’s Grand Park, integrando uma ação de redução de carbono urbano. O executivo participou pessoalmente do plantio pelo terceiro ano consecutivo. No local, foram plantadas 300 plantas que servem de alimento para abelhas e borboletas. Com a atividade, o total acumulado de plantios da campanha ultrapassou 1.000 unidades. A LS MnM mantém iniciativas ambientais desde 2019 e também promove ações para alcançar o net zero, incluindo a reutilização de calor residual. A campanha une preservação do ecossistema urbano e redução prática de carbono como parte da gestão sustentável da empresa. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LS-MnM-Chef Koo Dong-hwi pflanzt im dritten Jahr Bäume für weniger Stadt-CO2",
-        "excerpt": "LS-MnM-CEO Koo Dong-hwi nahm am 7. Mai im Seoul Children’s Grand Park an der MnM Greener Campaign teil und pflanzte 300 Nahrungspflanzen für Bienen und Schmetterlinge.",
-        "body": "LS-MnM-CEO Koo Dong-hwi nahm am 7. Mai im Seoul Children’s Grand Park an der MnM Greener Campaign teil und unterstützte damit eine Maßnahme zur Verringerung städtischer CO2-Emissionen. Koo beteiligte sich bereits im dritten Jahr in Folge persönlich an der Pflanzaktion. Vor Ort wurden 300 Pflanzen gesetzt, die Bienen und Schmetterlingen als Nahrung dienen. Damit überschritt die Kampagne insgesamt die Marke von 1.000 gepflanzten Exemplaren. LS MnM verfolgt seit 2019 umweltfreundliche Initiativen und treibt auch Net-Zero-Maßnahmen wie die Wiederverwertung von Abwärme voran. Die Kampagne verbindet den Schutz städtischer Ökosysteme mit praktischer CO2-Reduktion und unterstreicht nachhaltiges Unternehmenshandeln. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Koo Dong-hwi de LS MnM plante des arbres pour la 3e année contre le carbone urbain",
-        "excerpt": "Koo Dong-hwi, dirigeant de LS MnM, a participé le 7 mai à la MnM Greener Campaign au Seoul Children’s Grand Park et planté 300 végétaux pour abeilles et papillons.",
-        "body": "Koo Dong-hwi, dirigeant de LS MnM, a participé le 7 mai à la MnM Greener Campaign organisée au Seoul Children’s Grand Park, dans le cadre d’une action de réduction du carbone en milieu urbain. Il a pris part personnellement à la plantation d’arbres pour la troisième année consécutive. Sur place, 300 plantes servant de nourriture aux abeilles et aux papillons ont été plantées. Avec cette opération, le nombre cumulé de plantations de la campagne a dépassé 1.000. LS MnM mène depuis 2019 des initiatives respectueuses de l’environnement et poursuit aussi des actions de net zéro, comme la réutilisation de la chaleur résiduelle. Cette campagne associe préservation de l’écosystème urbain et réduction concrète du carbone dans une démarche de gestion durable. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كو دونغ-هوي من LS MnM يشارك في زراعة الأشجار للعام الثالث لخفض كربون المدن",
-        "excerpt": "شارك كو دونغ-هوي، رئيس LS MnM، في 7 مايو بحملة MnM Greener في حديقة أطفال سيول الكبرى، حيث زُرعت 300 نبتة غذائية للنحل والفراشات.",
-        "body": "شارك كو دونغ-هوي، رئيس LS MnM، في 7 مايو في حملة MnM Greener التي أُقيمت في حديقة أطفال سيول الكبرى، ضمن نشاط للحد من الكربون في المناطق الحضرية. وشارك كو شخصيا في زراعة الأشجار للعام الثالث على التوالي. وخلال الفعالية زُرعت 300 نبتة تُعد مصدرا غذائيا للنحل والفراشات. وبهذا النشاط تجاوز العدد التراكمي للمزروعات في الحملة 1000 نبتة. وتواصل LS MnM منذ عام 2019 خطواتها الصديقة للبيئة، كما تدفع أنشطة لتحقيق صافي انبعاثات صفري، منها إعادة استخدام الحرارة المهدرة. وتجمع هذه الحملة بين حماية النظام البيئي الحضري والتطبيق العملي لخفض الكربون ضمن أنشطة الاستدامة المؤسسية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LS MnM के कू डोंग-ह्वी तीसरे साल पौधारोपण में शामिल, शहरी कार्बन कटौती पर जोर",
-        "excerpt": "LS MnM के प्रमुख कू डोंग-ह्वी ने 7 मई को Seoul Children’s Grand Park में MnM Greener Campaign में भाग लेकर मधुमक्खियों और तितलियों के लिए 300 खाद्य पौधे लगाए।",
-        "body": "LS MnM के प्रमुख कू डोंग-ह्वी ने 7 मई को Seoul Children’s Grand Park में आयोजित MnM Greener Campaign में भाग लिया और शहरी कार्बन कटौती गतिविधि में शामिल हुए। कू लगातार तीसरे वर्ष स्वयं पौधारोपण में शामिल हुए। इस कार्यक्रम में मधुमक्खियों और तितलियों के भोजन स्रोत बनने वाले 300 पौधे लगाए गए। इस गतिविधि के साथ अभियान में लगाए गए पौधों की कुल संख्या 1000 से अधिक हो गई। LS MnM 2019 से पर्यावरण-अनुकूल कदम जारी रखे हुए है और अपशिष्ट ऊष्मा के पुनः उपयोग जैसे नेट जीरो प्रयास भी चला रहा है। यह अभियान शहरी पारिस्थितिकी संरक्षण और कार्बन कटौती के व्यावहारिक प्रयास को जोड़ते हुए कंपनी की सतत प्रबंधन गतिविधि के रूप में महत्व रखता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "CEO LS MnM Koo Dong-hwi Tanam Pohon 3 Tahun Berturut untuk Kurangi Karbon Kota",
-        "excerpt": "CEO LS MnM Koo Dong-hwi ikut MnM Greener Campaign pada 7 Mei di Seoul Children’s Grand Park dan menanam 300 tanaman pakan lebah serta kupu-kupu.",
-        "body": "CEO LS MnM Koo Dong-hwi berpartisipasi dalam MnM Greener Campaign yang digelar pada 7 Mei di Seoul Children’s Grand Park, sebagai bagian dari kegiatan pengurangan karbon di perkotaan. Koo secara langsung ikut menanam pohon untuk tahun ketiga berturut-turut. Dalam kegiatan tersebut, 300 tanaman yang menjadi sumber makanan bagi lebah dan kupu-kupu ditanam. Dengan aksi ini, jumlah kumulatif tanaman dalam kampanye tersebut melampaui 1.000 batang. LS MnM telah melanjutkan langkah ramah lingkungan sejak 2019 dan juga mendorong upaya net zero, termasuk pemanfaatan kembali panas limbah. Kampanye ini menggabungkan pelestarian ekosistem perkotaan dan pengurangan karbon praktis sebagai bagian dari kegiatan keberlanjutan perusahaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "46961f125745",
-    "slug": "빌리지베이비-서울영커리언스-인턴십-참여로-청년-인재-육성-앞장-773891",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T06:39:31.261Z",
-    "updatedAt": "2026-05-07T06:39:31.261Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039210",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039210",
-    "titleFingerprint": "5181cf145cf3472841f9d140be2d4f1184f4f505",
-    "dedupKeys": [
-      "46961f125745affb44abfc3f52baff050f5f5741",
-      "5181cf145cf3472841f9d140be2d4f1184f4f505",
-      "e2a0b1be8d1287a2819c1c2412df108f996d49ca"
-    ],
-    "imageUrl": "/images/articles/46961f125745.jpg",
-    "i18n": {
-      "ko": {
-        "title": "빌리지베이비, 서울영커리언스 인턴십 참여로 청년 실무 인재 키운다",
-        "excerpt": "임신·육아 버티컬 플랫폼 ‘베이비빌리’를 운영하는 빌리지베이비가 서울영커리언스 인턴십에 참여해 전국 8개 대학 인턴 8명에게 마케팅·디자인·MD 실무 경험을 제공한다.",
-        "body": "임신·육아 버티컬 플랫폼 ‘베이비빌리’를 운영하는 빌리지베이비가 ‘서울영커리언스 인턴십’에 참여해 청년 인재 육성에 나섰다. 이번 프로그램에는 전국 8개 대학에서 선발된 인턴 8명이 합류했다. 이들은 마케팅, 디자인, MD 등 기업 운영의 핵심 실무 영역에서 과제를 맡아 현장 경험을 쌓는다. 빌리지베이비는 청년들의 실무 역량 강화를 위해 양질의 일 경험 기회를 지속적으로 확대한다는 계획이다. 임신·육아 플랫폼 운영 기업이 인턴십을 통해 실무 중심 인재 양성에 참여하면서 청년 일 경험 확대 사례로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Village Baby Joins Seoul Young Careers Internship to Train Young Talent",
-        "excerpt": "Village Baby, operator of pregnancy and parenting vertical platform Baby Billy, joined the Seoul Young Careers Internship to give eight interns from eight universities hands-on roles in marketing, design and MD.",
-        "body": "Village Baby, the company behind the pregnancy and parenting vertical platform Baby Billy, has joined the Seoul Young Careers Internship to support the development of young talent. Eight interns selected from eight universities nationwide have joined the program. They will take on practical assignments in core business areas including marketing, design and merchandising. Village Baby plans to continue expanding high-quality work experience opportunities to strengthen young people’s practical capabilities. The company’s participation highlights an example of a pregnancy and parenting platform operator contributing to hands-on talent development through an internship program. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ビレッジベイビー、ソウルヤングキャリアンズ参加で若手実務人材を育成",
-        "excerpt": "妊娠・育児特化型プラットフォーム「Baby Billy」を運営するビレッジベイビーがソウルヤングキャリアンズインターンシップに参加し、8大学のインターン8人に実務経験を提供する。",
-        "body": "妊娠・育児特化型プラットフォーム「Baby Billy」を運営するビレッジベイビーが、「ソウルヤングキャリアンズインターンシップ」に参加し、若手人材の育成に乗り出した。今回のプログラムには、全国8大学から選ばれたインターン8人が参加した。参加者はマーケティング、デザイン、MDなど企業運営の中核実務領域で課題を担当し、現場経験を積む。ビレッジベイビーは若者の実務能力を高めるため、質の高い就業経験の機会を継続的に拡大する計画だ。妊娠・育児プラットフォーム運営企業がインターンシップを通じて実務中心の人材育成に関わる事例として注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Village Baby参与首尔青年职业实习，培养青年实务人才",
-        "excerpt": "运营孕育垂直平台Baby Billy的Village Baby参与首尔青年职业实习项目，为来自全国8所大学的8名实习生提供营销、设计、MD等核心实务经验。",
-        "body": "运营孕育垂直平台“Baby Billy”的Village Baby参与“首尔青年职业实习”项目，投入青年人才培养。本次项目共有来自全国8所大学的8名实习生加入。他们将在营销、设计、MD等企业运营核心实务领域承担任务，积累现场经验。Village Baby计划为提升青年实务能力，持续扩大高质量工作经验机会。作为孕育平台运营企业通过实习项目参与实务型人才培养的案例，此举受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Village Baby se suma a Seoul Young Careers para formar talento joven",
-        "excerpt": "Village Baby, operadora de la plataforma vertical de embarazo y crianza Baby Billy, participa en Seoul Young Careers Internship con ocho pasantes de ocho universidades en marketing, diseño y MD.",
-        "body": "Village Baby, empresa que opera la plataforma vertical de embarazo y crianza Baby Billy, participa en el programa Seoul Young Careers Internship para impulsar la formación de talento joven. Al programa se han incorporado ocho pasantes seleccionados de ocho universidades de todo el país. Los participantes asumirán tareas prácticas en áreas clave de operación empresarial, como marketing, diseño y merchandising. Village Baby planea seguir ampliando oportunidades de experiencia laboral de calidad para fortalecer las capacidades prácticas de los jóvenes. La participación de una empresa de plataforma de embarazo y crianza en una pasantía centrada en la práctica llama la atención como caso de ampliación de experiencia laboral juvenil. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Village Baby entra no Seoul Young Careers para formar jovens talentos",
-        "excerpt": "A Village Baby, operadora da plataforma vertical de gravidez e criação Baby Billy, participa do Seoul Young Careers Internship com oito estagiários de oito universidades em marketing, design e MD.",
-        "body": "A Village Baby, empresa que opera a plataforma vertical de gravidez e criação Baby Billy, participa do Seoul Young Careers Internship para apoiar a formação de jovens talentos. O programa recebeu oito estagiários selecionados de oito universidades de todo o país. Eles assumirão tarefas práticas em áreas essenciais da operação empresarial, como marketing, design e merchandising. A Village Baby planeja continuar ampliando oportunidades de experiência profissional de qualidade para fortalecer as competências práticas dos jovens. A participação de uma empresa de plataforma de gravidez e criação em um estágio voltado à prática chama atenção como exemplo de expansão de experiência laboral para jovens. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Village Baby fördert junge Talente mit Seoul Young Careers Internship",
-        "excerpt": "Village Baby, Betreiber der Schwangerschafts- und Elternplattform Baby Billy, nimmt am Seoul Young Careers Internship teil und bietet acht Studierenden aus acht Universitäten Praxiserfahrung in Marketing, Design und MD.",
-        "body": "Village Baby, Betreiber der vertikalen Plattform für Schwangerschaft und Kindererziehung Baby Billy, beteiligt sich am Seoul Young Careers Internship, um junge Talente zu fördern. An dem Programm nehmen acht Praktikantinnen und Praktikanten aus acht Universitäten im ganzen Land teil. Sie übernehmen praktische Aufgaben in zentralen Geschäftsbereichen wie Marketing, Design und Merchandising. Village Baby will hochwertige Arbeitserfahrungen weiter ausbauen, um die praktischen Fähigkeiten junger Menschen zu stärken. Die Beteiligung eines Unternehmens aus dem Schwangerschafts- und Elternplattformbereich gilt als Beispiel für praxisorientierte Talententwicklung durch ein Praktikumsprogramm. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Village Baby rejoint Seoul Young Careers pour former de jeunes talents",
-        "excerpt": "Village Baby, opérateur de la plateforme verticale grossesse et parentalité Baby Billy, participe au Seoul Young Careers Internship avec huit stagiaires de huit universités en marketing, design et MD.",
-        "body": "Village Baby, qui exploite la plateforme verticale grossesse et parentalité Baby Billy, participe au Seoul Young Careers Internship afin de soutenir la formation de jeunes talents. Le programme accueille huit stagiaires sélectionnés dans huit universités du pays. Ils prendront en charge des missions pratiques dans des domaines clés de l’entreprise, notamment le marketing, le design et le merchandising. Village Baby prévoit de continuer à élargir les opportunités d’expérience professionnelle de qualité pour renforcer les compétences pratiques des jeunes. La participation d’un opérateur de plateforme de grossesse et parentalité à un programme de stage centré sur le terrain attire l’attention comme exemple d’élargissement de l’expérience professionnelle des jeunes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "Village Baby تنضم إلى تدريب Seoul Young Careers لتطوير مواهب الشباب",
-        "excerpt": "تشارك Village Baby، مشغلة منصة الحمل وتربية الأطفال Baby Billy، في تدريب Seoul Young Careers عبر ضم 8 متدربين من 8 جامعات للعمل في التسويق والتصميم والـMD.",
-        "body": "تشارك Village Baby، الشركة المشغلة لمنصة الحمل وتربية الأطفال المتخصصة Baby Billy، في برنامج Seoul Young Careers Internship لدعم تنمية المواهب الشابة. وانضم إلى البرنامج 8 متدربين اختيروا من 8 جامعات في أنحاء البلاد. وسيتولون مهام عملية في مجالات أساسية لتشغيل الشركة، تشمل التسويق والتصميم والـMD. وتخطط Village Baby لمواصلة توسيع فرص الخبرة العملية عالية الجودة لتعزيز القدرات المهنية للشباب. وتبرز مشاركة شركة تدير منصة للحمل وتربية الأطفال في هذا التدريب كحالة لتوسيع تجارب العمل العملية للشباب. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Village Baby ने Seoul Young Careers इंटर्नशिप से युवा प्रतिभा प्रशिक्षण बढ़ाया",
-        "excerpt": "गर्भावस्था और पालन-पोषण वर्टिकल प्लेटफॉर्म Baby Billy चलाने वाली Village Baby ने Seoul Young Careers Internship में भाग लेकर 8 विश्वविद्यालयों के 8 इंटर्न को मार्केटिंग, डिजाइन और MD का व्यावहारिक अनुभव दिया।",
-        "body": "गर्भावस्था और पालन-पोषण वर्टिकल प्लेटफॉर्म Baby Billy चलाने वाली Village Baby ने Seoul Young Careers Internship में भाग लेकर युवा प्रतिभाओं के विकास की पहल की है। इस कार्यक्रम में देशभर के 8 विश्वविद्यालयों से चुने गए 8 इंटर्न शामिल हुए हैं। वे मार्केटिंग, डिजाइन और MD जैसे कंपनी संचालन के मुख्य व्यावहारिक क्षेत्रों में कार्य संभालेंगे और फील्ड अनुभव प्राप्त करेंगे। Village Baby युवाओं की व्यावहारिक क्षमता मजबूत करने के लिए गुणवत्तापूर्ण कार्य अनुभव के अवसर लगातार बढ़ाने की योजना रखती है। गर्भावस्था और पालन-पोषण प्लेटफॉर्म चलाने वाली कंपनी का इंटर्नशिप के जरिए व्यावहारिक प्रतिभा विकास में भाग लेना युवा कार्य अनुभव विस्तार का उदाहरण माना जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Village Baby Ikut Seoul Young Careers untuk Kembangkan Talenta Muda",
-        "excerpt": "Village Baby, operator platform vertikal kehamilan dan pengasuhan Baby Billy, mengikuti Seoul Young Careers Internship dengan delapan intern dari delapan universitas di bidang pemasaran, desain, dan MD.",
-        "body": "Village Baby, perusahaan yang mengoperasikan platform vertikal kehamilan dan pengasuhan Baby Billy, mengikuti Seoul Young Careers Internship untuk mendukung pengembangan talenta muda. Program ini diikuti delapan intern yang dipilih dari delapan universitas di seluruh negeri. Mereka akan menangani tugas praktik di bidang inti operasional perusahaan, termasuk pemasaran, desain, dan merchandising. Village Baby berencana terus memperluas peluang pengalaman kerja berkualitas untuk memperkuat kemampuan praktis anak muda. Partisipasi perusahaan platform kehamilan dan pengasuhan dalam program magang berbasis praktik ini menjadi contoh perluasan pengalaman kerja bagi generasi muda. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1f4f492b397a",
-    "slug": "코스닥-마감-119918p--091-hlb-리노공업등-하락세-161506",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T06:38:24.710Z",
-    "updatedAt": "2026-05-07T06:38:24.710Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039211",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039211",
-    "titleFingerprint": "da49aa8a126f0a484b95f0dc1d91caf234e6b30c",
-    "dedupKeys": [
-      "1f4f492b397ab5cb6d6dc8162ac7f9cb811fa8d7",
-      "da49aa8a126f0a484b95f0dc1d91caf234e6b30c",
-      "9c3d530fc3a17dd03a528bd4a352a124495a4afe"
-    ],
-    "imageUrl": "/images/articles/1f4f492b397a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 1,199.18 마감, 0.91% 하락…HLB·리노공업 약세 부각",
-        "excerpt": "7일 코스닥지수는 전 거래일보다 10.99포인트 내린 1,199.18에 마감했다. HLB와 리노공업 등이 하락한 가운데 전기·전자와 섬유·의류 업종은 상승했다.",
-        "body": "7일 코스닥지수는 전 거래일 대비 10.99포인트, 0.91% 하락한 1,199.18로 장을 마쳤다. 이날 시장에서는 HLB와 리노공업 등이 하락세로 거론되며 지수 약세 흐름을 함께 보여줬다. 업종별로는 코스닥 전기·전자가 0.46%, 코스닥 섬유·의류가 0.44% 오르며 일부 업종은 상승했다. 다만 지수 전체는 전 거래일보다 낮은 수준에서 마감해 코스닥 시장의 부담이 확인됐다. 종목별 등락과 업종별 차별화 흐름은 향후 시장 점검 포인트로 남았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSDAQ closes at 1,199.18, down 0.91%, as HLB and Rino Industrial weaken",
-        "excerpt": "On the 7th, the KOSDAQ index closed 10.99 points lower at 1,199.18. HLB and Rino Industrial declined, while electrical and electronics and textiles and apparel rose.",
-        "body": "On the 7th, the KOSDAQ index ended at 1,199.18, down 10.99 points, or 0.91%, from the previous trading day. HLB and Rino Industrial were cited among the stocks showing weakness, reflecting the softer tone in the index. By sector, KOSDAQ electrical and electronics rose 0.46%, and KOSDAQ textiles and apparel gained 0.44%, showing that some sectors advanced despite the broader decline. Still, the overall index finished below the previous session, confirming pressure in the KOSDAQ market. Stock-by-stock moves and sector differences remain points to monitor. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "コスダック1,199.18で終了、0.91％下落…HLB・リノ工業が軟調",
-        "excerpt": "7日のコスダック指数は前営業日比10.99ポイント安の1,199.18で終了した。HLBやリノ工業などが下落し、電気・電子と繊維・衣類は上昇した。",
-        "body": "7日のコスダック指数は前営業日比10.99ポイント、0.91％下落した1,199.18で取引を終えた。この日の市場では、HLBやリノ工業などが下落銘柄として挙げられ、指数の軟調な流れを示した。業種別では、コスダック電気・電子が0.46％、コスダック繊維・衣類が0.44％上昇し、一部業種は値上がりした。ただし指数全体は前営業日を下回って終了し、コスダック市場の重さが確認された。銘柄別の騰落と業種間の差別化が今後の確認点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSDAQ收于1,199.18点跌0.91%，HLB、Rino Industrial走弱",
-        "excerpt": "7日，KOSDAQ指数较前一交易日下跌10.99点，收于1,199.18点。HLB、Rino Industrial等下跌，电气电子和纺织服装板块上涨。",
-        "body": "7日，KOSDAQ指数较前一交易日下跌10.99点，跌幅0.91%，收于1,199.18点。当天市场中，HLB和Rino Industrial等被提及为下跌个股，显示指数整体偏弱。按行业看，KOSDAQ电气电子上涨0.46%，KOSDAQ纺织服装上涨0.44%，说明部分行业仍有上涨表现。不过，指数整体最终低于前一交易日收盘水平，反映KOSDAQ市场承压。个股涨跌和行业分化仍是后续市场观察重点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSDAQ cierra en 1.199,18 puntos, cae 0,91%, con bajas en HLB y Rino Industrial",
-        "excerpt": "El día 7, el KOSDAQ cerró 10,99 puntos abajo, en 1.199,18. HLB y Rino Industrial retrocedieron, mientras electricidad y electrónica, y textiles y ropa subieron.",
-        "body": "El día 7, el índice KOSDAQ cerró en 1.199,18 puntos, con una caída de 10,99 puntos, o 0,91%, frente a la sesión anterior. En el mercado se mencionaron descensos en HLB y Rino Industrial, lo que acompañó el tono débil del índice. Por sectores, electricidad y electrónica del KOSDAQ subió 0,46%, y textiles y ropa avanzó 0,44%, mostrando alzas en algunas áreas. Aun así, el índice general terminó por debajo del cierre previo, confirmando presión sobre el mercado KOSDAQ. Los movimientos por acción y la diferenciación sectorial quedan como puntos de seguimiento. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSDAQ fecha em 1.199,18 pontos, queda de 0,91%, com HLB e Rino Industrial em baixa",
-        "excerpt": "No dia 7, o KOSDAQ fechou 10,99 pontos abaixo, em 1.199,18. HLB e Rino Industrial recuaram, enquanto elétrica e eletrônica, e têxteis e vestuário subiram.",
-        "body": "No dia 7, o índice KOSDAQ encerrou em 1.199,18 pontos, queda de 10,99 pontos, ou 0,91%, ante o pregão anterior. No mercado, HLB e Rino Industrial foram citadas entre as ações em baixa, refletindo o tom mais fraco do índice. Por setor, elétrica e eletrônica do KOSDAQ avançou 0,46%, e têxteis e vestuário subiu 0,44%, mostrando ganhos em algumas áreas. Ainda assim, o índice geral terminou abaixo do nível da sessão anterior, confirmando pressão sobre o mercado KOSDAQ. As oscilações por ação e a diferenciação setorial seguem como pontos de atenção. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSDAQ schließt bei 1.199,18 Punkten, minus 0,91%, HLB und Rino Industrial schwächer",
-        "excerpt": "Am 7. schloss der KOSDAQ 10,99 Punkte tiefer bei 1.199,18. HLB und Rino Industrial gaben nach, während Elektro/Elektronik sowie Textilien/Bekleidung zulegten.",
-        "body": "Am 7. beendete der KOSDAQ-Index den Handel bei 1.199,18 Punkten, 10,99 Punkte oder 0,91% niedriger als am vorherigen Handelstag. Im Markt wurden HLB und Rino Industrial unter den schwächeren Werten genannt und spiegelten damit die nachgebende Indexentwicklung wider. Nach Branchen stieg KOSDAQ Elektro und Elektronik um 0,46%, während KOSDAQ Textilien und Bekleidung um 0,44% zulegte. Damit konnten einzelne Sektoren steigen, obwohl der Gesamtindex fiel. Insgesamt schloss der Index unter dem Vortagsniveau und zeigte Druck im KOSDAQ-Markt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSDAQ clôture à 1 199,18 points, en baisse de 0,91%, HLB et Rino Industrial reculent",
-        "excerpt": "Le 7, l’indice KOSDAQ a clôturé en baisse de 10,99 points à 1 199,18. HLB et Rino Industrial ont reculé, tandis que l’électricité-électronique et le textile-habillement ont progressé.",
-        "body": "Le 7, l’indice KOSDAQ a terminé à 1 199,18 points, en baisse de 10,99 points, soit 0,91%, par rapport à la séance précédente. Sur le marché, HLB et Rino Industrial ont été cités parmi les titres en recul, illustrant la faiblesse de l’indice. Par secteur, l’électricité et l’électronique du KOSDAQ ont gagné 0,46%, tandis que le textile et l’habillement ont progressé de 0,44%, montrant des hausses dans certaines branches. Malgré cela, l’indice global a clôturé sous son niveau précédent, confirmant la pression sur le marché KOSDAQ. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسداك يغلق عند 1,199.18 نقطة متراجعاً 0.91% مع ضعف HLB ورينو إندستريال",
-        "excerpt": "في يوم 7، أغلق مؤشر كوسداك منخفضاً 10.99 نقطة عند 1,199.18. تراجعت HLB ورينو إندستريال، بينما ارتفع قطاعا الكهرباء والإلكترونيات والمنسوجات والملابس.",
-        "body": "في يوم 7، أنهى مؤشر كوسداك التداول عند 1,199.18 نقطة، منخفضاً 10.99 نقطة أو 0.91% عن يوم التداول السابق. وجرى ذكر HLB ورينو إندستريال بين الأسهم التي سجلت تراجعاً، ما عكس المسار الضعيف للمؤشر. وبحسب القطاعات، ارتفع قطاع الكهرباء والإلكترونيات في كوسداك 0.46%، كما زاد قطاع المنسوجات والملابس 0.44%، لتظهر مكاسب في بعض القطاعات. ومع ذلك، أغلق المؤشر العام دون مستوى الجلسة السابقة، مؤكداً وجود ضغط على سوق كوسداك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSDAQ 1,199.18 पर बंद, 0.91% गिरावट; HLB और Rino Industrial कमजोर",
-        "excerpt": "7 तारीख को KOSDAQ सूचकांक 10.99 अंक गिरकर 1,199.18 पर बंद हुआ। HLB और Rino Industrial में कमजोरी रही, जबकि इलेक्ट्रिकल-इलेक्ट्रॉनिक्स और टेक्सटाइल-अपैरल बढ़े।",
-        "body": "7 तारीख को KOSDAQ सूचकांक पिछले कारोबारी दिन की तुलना में 10.99 अंक, यानी 0.91%, गिरकर 1,199.18 पर बंद हुआ। बाजार में HLB और Rino Industrial जैसे शेयरों में गिरावट का उल्लेख हुआ, जिससे सूचकांक की कमजोर चाल दिखी। सेक्टरों में KOSDAQ इलेक्ट्रिकल और इलेक्ट्रॉनिक्स 0.46% बढ़ा, जबकि KOSDAQ टेक्सटाइल और अपैरल 0.44% चढ़ा, यानी कुछ क्षेत्रों में बढ़त रही। फिर भी समग्र सूचकांक पिछले सत्र से नीचे बंद हुआ, जिससे KOSDAQ बाजार पर दबाव स्पष्ट हुआ। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSDAQ ditutup di 1.199,18, turun 0,91%, HLB dan Rino Industrial melemah",
-        "excerpt": "Pada tanggal 7, indeks KOSDAQ ditutup turun 10,99 poin ke 1.199,18. HLB dan Rino Industrial melemah, sementara listrik-elektronik serta tekstil-pakaian naik.",
-        "body": "Pada tanggal 7, indeks KOSDAQ mengakhiri perdagangan di 1.199,18, turun 10,99 poin atau 0,91% dari hari perdagangan sebelumnya. Di pasar, HLB dan Rino Industrial disebut sebagai saham yang melemah, mencerminkan tekanan pada indeks. Berdasarkan sektor, listrik dan elektronik KOSDAQ naik 0,46%, sementara tekstil dan pakaian KOSDAQ menguat 0,44%, menunjukkan kenaikan di beberapa sektor. Namun, indeks secara keseluruhan tetap ditutup di bawah level sesi sebelumnya, menegaskan tekanan di pasar KOSDAQ. Sumber: mk.co.kr"
       }
     }
   }
