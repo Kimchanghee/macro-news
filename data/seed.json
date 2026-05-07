@@ -1,5 +1,230 @@
 [
   {
+    "id": "1bb44c65ca4b",
+    "slug": "인기검색top5-젠큐릭스-삼성ea-심텍-두산에너빌리티-현대차-718147",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T09:31:26.104Z",
+    "updatedAt": "2026-05-07T09:31:26.104Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039495",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039495",
+    "titleFingerprint": "6924dfb2a4f5b2b5ac2b505388b4321133b26b76",
+    "dedupKeys": [
+      "1bb44c65ca4b56d37c790be7ba39e35325966219",
+      "6924dfb2a4f5b2b5ac2b505388b4321133b26b76",
+      "e2146428fc39b7b459aedc8f1077343d57d34f8e"
+    ],
+    "imageUrl": "/images/articles/1bb44c65ca4b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "젠큐릭스·삼성E&A 등 인기검색 TOP5, 라씨 매매비서 분석 종목 주목",
+        "excerpt": "주식 AI 라씨 매매비서가 오늘 인기검색종목으로 젠큐릭스, 삼성E&A, 심텍, 두산에너빌리티, 현대차를 분석하며 실시간 매매타이밍 정보에 관심이 모였다.",
+        "body": "주식 AI 라씨 매매비서가 오늘 투자자들이 많이 찾은 인기검색종목 TOP5로 젠큐릭스, 삼성E&A, 심텍, 두산에너빌리티, 현대차를 분석했다. 원문에 따르면 젠큐릭스는 +30.00%, 삼성E&A는 +22.26%로 언급됐고, 심텍을 비롯한 나머지 종목도 인기검색 목록에 포함됐다. 라씨 매매비서는 최적의 매매타이밍을 실시간으로 전송해 투자자들에게 도움을 주는 서비스로 소개됐다. 이번 목록은 단기 주가 변동과 검색 관심이 동시에 높아진 종목을 확인하려는 투자자들의 참고 자료가 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "GenCurix and Samsung E&A Lead Top 5 Popular Stock Searches in RASSI Analysis",
+        "excerpt": "Stock AI service RASSI Trading Assistant analyzed today’s popular searches, including GenCurix, Samsung E&A, Simmtech, Doosan Enerbility and Hyundai Motor.",
+        "body": "Stock AI service RASSI Trading Assistant analyzed today’s top five popular stock searches: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility and Hyundai Motor. According to the original report, GenCurix was cited at +30.00% and Samsung E&A at +22.26%, while Simmtech and the other named stocks were also included in the popular-search list. RASSI Trading Assistant was introduced as a service that helps investors by sending optimal trading timing information in real time. The list may serve as reference material for investors checking stocks with heightened short-term price movement and search interest. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ジェンキュリックス・Samsung E&Aなど人気検索TOP5、RASSI分析に注目",
+        "excerpt": "株式AIのRASSI売買アシスタントが本日、ジェンキュリックス、Samsung E&A、Simmtech、斗山エナビリティ、現代自動車を人気検索銘柄として分析した。",
+        "body": "株式AIのRASSI売買アシスタントは本日、投資家の検索関心が高い人気検索銘柄TOP5として、ジェンキュリックス、Samsung E&A、Simmtech、斗山エナビリティ、現代自動車を分析した。原文によると、ジェンキュリックスは+30.00%、Samsung E&Aは+22.26%として言及され、Simmtechを含むその他の銘柄も人気検索リストに入った。RASSI売買アシスタントは、最適な売買タイミングをリアルタイムで送信し投資家を支援するサービスとして紹介された。今回のリストは、短期的な株価変動と検索関心が高まった銘柄を確認する投資家の参考資料になり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "GenCurix、三星E&A等热门搜索TOP5受关注，RASSI交易助手分析",
+        "excerpt": "股票AI RASSI交易助手今日分析热门搜索股票，包括GenCurix、三星E&A、Simmtech、斗山能源和现代汽车，实时买卖时机信息受到关注。",
+        "body": "股票AI RASSI交易助手今日分析了投资者关注度较高的热门搜索股票TOP5，包括GenCurix、三星E&A、Simmtech、斗山能源和现代汽车。根据原文，GenCurix被提及为+30.00%，三星E&A为+22.26%，Simmtech及其余相关股票也进入热门搜索名单。RASSI交易助手被介绍为通过实时发送最佳买卖时机来帮助投资者的服务。此次名单可作为投资者查看短期股价波动和搜索关注度同时上升股票的参考资料。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "GenCurix y Samsung E&A encabezan el TOP5 de búsquedas bursátiles analizadas por RASSI",
+        "excerpt": "El asistente bursátil con IA RASSI analizó hoy las acciones más buscadas: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility y Hyundai Motor.",
+        "body": "El asistente bursátil con IA RASSI analizó hoy el TOP5 de valores más buscados por los inversores: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility y Hyundai Motor. Según el texto original, GenCurix fue mencionado con +30,00% y Samsung E&A con +22,26%, mientras que Simmtech y los demás valores citados también formaron parte de la lista de búsquedas populares. RASSI fue presentado como un servicio que ayuda a los inversores enviando en tiempo real información sobre el momento óptimo de compraventa. La lista puede servir como referencia para quienes revisan valores con mayor movimiento de precio a corto plazo e interés de búsqueda. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "GenCurix e Samsung E&A lideram TOP5 de buscas por ações em análise da RASSI",
+        "excerpt": "A assistente de negociação com IA RASSI analisou hoje GenCurix, Samsung E&A, Simmtech, Doosan Enerbility e Hyundai Motor entre as ações mais buscadas.",
+        "body": "A assistente de negociação com IA RASSI analisou hoje o TOP5 das ações mais buscadas pelos investidores: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility e Hyundai Motor. Segundo o texto original, GenCurix foi citada com +30,00% e Samsung E&A com +22,26%, enquanto Simmtech e os demais papéis mencionados também entraram na lista de buscas populares. A RASSI foi apresentada como um serviço que ajuda investidores ao enviar em tempo real informações sobre o momento ideal de compra e venda. A lista pode servir de referência para investidores que acompanham ações com maior variação de curto prazo e interesse de busca. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "GenCurix und Samsung E&A im Top-5-Suchtrend: RASSI analysiert gefragte Aktien",
+        "excerpt": "Der Aktien-KI-Assistent RASSI analysierte heute GenCurix, Samsung E&A, Simmtech, Doosan Enerbility und Hyundai Motor als besonders gesuchte Titel.",
+        "body": "Der Aktien-KI-Assistent RASSI Trading Assistant analysierte heute die fünf bei Anlegern besonders häufig gesuchten Aktien: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility und Hyundai Motor. Dem Originalbericht zufolge wurde GenCurix mit +30,00% und Samsung E&A mit +22,26% genannt; auch Simmtech und die übrigen genannten Werte standen auf der Liste der beliebten Suchanfragen. RASSI wurde als Dienst beschrieben, der Anleger unterstützt, indem er optimale Handelszeitpunkte in Echtzeit übermittelt. Die Liste kann Anlegern als Referenz dienen, die Aktien mit kurzfristiger Kursbewegung und erhöhtem Suchinteresse prüfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "GenCurix et Samsung E&A dans le TOP5 des recherches actions analysées par RASSI",
+        "excerpt": "L’assistant de trading boursier par IA RASSI a analysé aujourd’hui GenCurix, Samsung E&A, Simmtech, Doosan Enerbility et Hyundai Motor parmi les titres les plus recherchés.",
+        "body": "L’assistant de trading boursier par IA RASSI a analysé aujourd’hui le TOP5 des actions les plus recherchées par les investisseurs: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility et Hyundai Motor. Selon le texte original, GenCurix a été mentionné à +30,00% et Samsung E&A à +22,26%, tandis que Simmtech et les autres titres cités figuraient aussi dans la liste des recherches populaires. RASSI a été présenté comme un service aidant les investisseurs en envoyant en temps réel des informations sur le moment optimal d’achat et de vente. Cette liste peut servir de référence aux investisseurs suivant les titres associés à des mouvements de prix à court terme et à un intérêt de recherche accru. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جينكيوريكس وسامسونغ E&A ضمن أكثر 5 أسهم بحثا في تحليل مساعد RASSI",
+        "excerpt": "حلل مساعد تداول الأسهم المعتمد على الذكاء الاصطناعي RASSI اليوم أسهما رائجة في البحث، منها جينكيوريكس وسامسونغ E&A وسيمتك ودوسان إنربيليتي وهيونداي موتور.",
+        "body": "حلل مساعد تداول الأسهم المعتمد على الذكاء الاصطناعي RASSI اليوم أكثر خمسة أسهم بحثا بين المستثمرين: جينكيوريكس، سامسونغ E&A، سيمتك، دوسان إنربيليتي، وهيونداي موتور. ووفقا للنص الأصلي، ذُكرت جينكيوريكس بنسبة +30.00% وسامسونغ E&A بنسبة +22.26%، كما أُدرجت سيمتك وبقية الأسهم المذكورة في قائمة عمليات البحث الرائجة. وقد قُدم RASSI كخدمة تساعد المستثمرين عبر إرسال معلومات توقيت التداول الأمثل في الوقت الحقيقي. ويمكن أن تكون هذه القائمة مرجعا للمستثمرين الذين يتابعون الأسهم ذات حركة الأسعار القصيرة الأجل وارتفاع الاهتمام البحثي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "GenCurix और Samsung E&A टॉप 5 लोकप्रिय स्टॉक खोजों में, RASSI विश्लेषण पर नजर",
+        "excerpt": "स्टॉक AI RASSI Trading Assistant ने आज GenCurix, Samsung E&A, Simmtech, Doosan Enerbility और Hyundai Motor को लोकप्रिय खोज वाले शेयरों में विश्लेषित किया।",
+        "body": "स्टॉक AI सेवा RASSI Trading Assistant ने आज निवेशकों द्वारा अधिक खोजे गए शीर्ष पांच शेयरों के रूप में GenCurix, Samsung E&A, Simmtech, Doosan Enerbility और Hyundai Motor का विश्लेषण किया। मूल रिपोर्ट के अनुसार, GenCurix को +30.00% और Samsung E&A को +22.26% के साथ उल्लेखित किया गया, जबकि Simmtech और बाकी नामित शेयर भी लोकप्रिय खोज सूची में शामिल रहे। RASSI Trading Assistant को ऐसी सेवा के रूप में पेश किया गया है जो निवेशकों की मदद के लिए वास्तविक समय में सर्वोत्तम ट्रेडिंग टाइमिंग की जानकारी भेजती है। यह सूची अल्पकालिक मूल्य बदलाव और खोज रुचि बढ़ने वाले शेयरों को देखने वाले निवेशकों के लिए संदर्भ बन सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "GenCurix dan Samsung E&A Masuk TOP5 Pencarian Saham, Analisis RASSI Disorot",
+        "excerpt": "Asisten trading saham berbasis AI RASSI hari ini menganalisis GenCurix, Samsung E&A, Simmtech, Doosan Enerbility, dan Hyundai Motor sebagai saham populer dicari.",
+        "body": "Asisten trading saham berbasis AI RASSI hari ini menganalisis lima saham yang paling banyak dicari investor: GenCurix, Samsung E&A, Simmtech, Doosan Enerbility, dan Hyundai Motor. Menurut teks asli, GenCurix disebut dengan +30,00% dan Samsung E&A dengan +22,26%, sementara Simmtech serta saham lain yang disebutkan juga masuk daftar pencarian populer. RASSI diperkenalkan sebagai layanan yang membantu investor dengan mengirimkan informasi waktu trading optimal secara real time. Daftar ini dapat menjadi referensi bagi investor yang memantau saham dengan pergerakan harga jangka pendek dan minat pencarian yang meningkat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ed11f17d5ebe",
+    "slug": "아이-낳고-싶다는-요즘-미혼남녀출산의향-40-첫-돌파-659869",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T09:30:30.006Z",
+    "updatedAt": "2026-05-07T09:30:30.006Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12039497",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12039497",
+    "titleFingerprint": "2c67b2e5ffb90adcce2ed543c8a05702a5f190b6",
+    "dedupKeys": [
+      "ed11f17d5ebe9ec3557c7e728e9a93e6ecce718d",
+      "2c67b2e5ffb90adcce2ed543c8a05702a5f190b6",
+      "65ba8f166a6202c43aab8c810c2684c13f0020b3"
+    ],
+    "imageUrl": "/images/articles/ed11f17d5ebe.png",
+    "i18n": {
+      "ko": {
+        "title": "미혼남녀 출산의향 40% 첫 돌파…결혼 긍정 인식 65%로 상승",
+        "excerpt": "제5차 저출생 대책 인식조사에서 국내 미혼남녀의 출산의향이 처음 40%를 넘고 결혼 긍정 응답은 65%, 자녀 필요 응답은 62.6%로 나타났다.",
+        "body": "국내 미혼남녀의 결혼과 출산에 대한 인식이 최근 2년 사이 뚜렷하게 개선된 것으로 나타났다. 제5차 저출생 대책 인식조사에 따르면 미혼남녀 가운데 출산의향이 처음으로 40%를 돌파했다. 결혼에 대해 긍정적이라고 답한 비율은 65%였고, 자녀가 필요하다고 응답한 비율은 62.6%로 집계됐다. 이번 결과는 저출생 흐름 속에서도 결혼과 자녀에 대한 태도 변화가 확인됐다는 점에서 주목된다. 다만 원문은 인식 개선이 실제 결혼·출산 증가로 이어질지에 대해서는 추가 판단을 제시하지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Birth Intentions Among Unmarried Koreans Top 40% for First Time",
+        "excerpt": "South Korea’s fifth low-birthrate policy perception survey found birth intentions among unmarried men and women exceeded 40% for the first time, with 65% positive on marriage.",
+        "body": "Perceptions of marriage and childbirth among unmarried men and women in South Korea have improved noticeably over the past two years. According to the fifth perception survey on low-birthrate policies, the share of unmarried respondents expressing an intention to have children surpassed 40% for the first time. The survey also found that 65% viewed marriage positively, while 62.6% said children are necessary. The results draw attention because they show a shift in attitudes toward marriage and children amid the country’s low-birthrate trend. The original report did not make an additional judgment on whether this change in perception will lead to higher marriage or birth numbers. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国の未婚男女、出産意向が初の40％超え…結婚肯定65％",
+        "excerpt": "第5次少子化対策認識調査で、韓国の未婚男女の出産意向が初めて40％を超え、結婚に肯定的な回答は65％、子どもが必要との回答は62.6％だった。",
+        "body": "韓国の未婚男女の結婚と出産に対する認識が、最近2年の間に明確に改善したことが分かった。第5次少子化対策認識調査によると、未婚男女のうち出産意向を示した割合が初めて40％を突破した。結婚に肯定的だと答えた割合は65％で、子どもが必要だと回答した割合は62.6％と集計された。今回の結果は、少子化の流れの中でも結婚と子どもに対する態度の変化が確認された点で注目される。ただし原文は、認識の改善が実際の結婚や出生の増加につながるかについて追加の判断は示していない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国未婚男女生育意愿首次突破40%，婚姻正面认知达65%",
+        "excerpt": "第五次低生育对策认知调查显示，韩国未婚男女生育意愿首次超过40%，65%对婚姻持正面态度，62.6%认为需要子女。",
+        "body": "韩国未婚男女对结婚和生育的认知在最近两年间明显改善。根据第五次低生育对策认知调查，未婚男女中表达生育意愿的比例首次突破40%。调查还显示，65%的受访者对结婚持正面态度，62.6%的人回答认为子女是必要的。在低生育趋势持续的背景下，这一结果因显示出对婚姻和子女态度的变化而受到关注。不过，原文并未进一步判断这种认知改善是否会转化为实际结婚或出生人数的增加。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Solteros coreanos superan por primera vez el 40% en intención de tener hijos",
+        "excerpt": "La quinta encuesta sobre medidas contra la baja natalidad en Corea del Sur mostró que la intención de tener hijos entre solteros superó por primera vez el 40%.",
+        "body": "La percepción sobre el matrimonio y la natalidad entre hombres y mujeres solteros de Corea del Sur ha mejorado claramente en los últimos dos años. Según la quinta encuesta de percepción sobre medidas contra la baja natalidad, la proporción de solteros con intención de tener hijos superó por primera vez el 40%. Además, el 65% respondió que ve el matrimonio de forma positiva y el 62,6% dijo que los hijos son necesarios. El resultado destaca porque confirma un cambio de actitud hacia el matrimonio y los hijos en medio de la tendencia de baja natalidad. El texto original no ofrece una valoración adicional sobre si esta mejora de percepción se traducirá en más matrimonios o nacimientos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Solteiros coreanos veem intenção de ter filhos passar de 40% pela primeira vez",
+        "excerpt": "A quinta pesquisa sobre políticas contra a baixa natalidade na Coreia do Sul mostrou intenção de ter filhos acima de 40% entre solteiros, com 65% positivos sobre casamento.",
+        "body": "A percepção sobre casamento e nascimento de filhos entre homens e mulheres solteiros da Coreia do Sul melhorou de forma clara nos últimos dois anos. Segundo a quinta pesquisa de percepção sobre medidas contra a baixa natalidade, a parcela de solteiros com intenção de ter filhos ultrapassou 40% pela primeira vez. O levantamento também apontou que 65% veem o casamento de forma positiva, enquanto 62,6% disseram que filhos são necessários. O resultado chama atenção por mostrar uma mudança de atitude em relação ao casamento e aos filhos em meio ao cenário de baixa natalidade. O texto original não apresentou avaliação adicional sobre se essa melhora de percepção levará a mais casamentos ou nascimentos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Geburtsabsicht unverheirateter Koreaner erstmals über 40 Prozent",
+        "excerpt": "Die fünfte Umfrage zu Maßnahmen gegen niedrige Geburtenraten in Südkorea zeigt: Die Geburtsabsicht Unverheirateter überschritt erstmals 40%, 65% bewerten Ehe positiv.",
+        "body": "Die Haltung unverheirateter Männer und Frauen in Südkorea zu Ehe und Geburt hat sich in den vergangenen zwei Jahren deutlich verbessert. Laut der fünften Wahrnehmungsumfrage zu Maßnahmen gegen die niedrige Geburtenrate überschritt der Anteil unverheirateter Befragter mit Kinderwunsch erstmals 40%. Zudem gaben 65% an, die Ehe positiv zu sehen, während 62,6% sagten, Kinder seien notwendig. Das Ergebnis ist bemerkenswert, weil es inmitten des Trends niedriger Geburtenraten eine veränderte Einstellung zu Ehe und Kindern zeigt. Der Originalbericht trifft jedoch keine zusätzliche Einschätzung dazu, ob diese Wahrnehmungsänderung zu mehr Eheschließungen oder Geburten führen wird. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Corée du Sud: l’intention d’avoir des enfants chez les célibataires dépasse 40%",
+        "excerpt": "La cinquième enquête sur les mesures contre la faible natalité montre que l’intention d’avoir des enfants chez les célibataires sud-coréens dépasse 40% pour la première fois.",
+        "body": "La perception du mariage et de la naissance d’enfants chez les hommes et femmes célibataires en Corée du Sud s’est nettement améliorée au cours des deux dernières années. Selon la cinquième enquête de perception sur les mesures contre la faible natalité, la part des célibataires déclarant vouloir avoir des enfants a dépassé 40% pour la première fois. L’enquête indique aussi que 65% ont une opinion positive du mariage et que 62,6% estiment que les enfants sont nécessaires. Ce résultat retient l’attention car il confirme un changement d’attitude envers le mariage et les enfants dans un contexte de faible natalité. Le texte original ne précise pas si cette amélioration se traduira par davantage de mariages ou de naissances. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رغبة غير المتزوجين في كوريا بالإنجاب تتجاوز 40% لأول مرة",
+        "excerpt": "أظهر المسح الخامس لإدراك سياسات مواجهة انخفاض المواليد في كوريا الجنوبية أن نية الإنجاب بين غير المتزوجين تجاوزت 40% لأول مرة، مع نظرة إيجابية للزواج لدى 65%.",
+        "body": "تحسنت نظرة الرجال والنساء غير المتزوجين في كوريا الجنوبية إلى الزواج والإنجاب بوضوح خلال العامين الأخيرين. ووفق المسح الخامس لإدراك سياسات مواجهة انخفاض المواليد، تجاوزت نسبة غير المتزوجين الذين يبدون نية للإنجاب 40% لأول مرة. كما أظهر المسح أن 65% ينظرون إلى الزواج بإيجابية، فيما قال 62.6% إن وجود الأطفال ضروري. وتلفت هذه النتائج الانتباه لأنها تظهر تغيرا في المواقف تجاه الزواج والأطفال وسط اتجاه انخفاض المواليد. ولم يقدم النص الأصلي حكما إضافيا بشأن ما إذا كان هذا التحسن في الإدراك سيؤدي إلى زيادة فعلية في الزواج أو الولادات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया में अविवाहितों की बच्चे पैदा करने की इच्छा पहली बार 40% के पार",
+        "excerpt": "दक्षिण कोरिया के पांचवें निम्न जन्मदर नीति धारणा सर्वेक्षण में अविवाहित पुरुषों और महिलाओं की संतान इच्छा पहली बार 40% से ऊपर गई, जबकि 65% ने विवाह को सकारात्मक माना।",
+        "body": "दक्षिण कोरिया में अविवाहित पुरुषों और महिलाओं की विवाह और संतान को लेकर सोच पिछले दो वर्षों में स्पष्ट रूप से बेहतर हुई है। पांचवें निम्न जन्मदर उपाय धारणा सर्वेक्षण के अनुसार, अविवाहितों में बच्चे पैदा करने की इच्छा रखने वालों की हिस्सेदारी पहली बार 40% से ऊपर चली गई। सर्वेक्षण में 65% ने विवाह को सकारात्मक बताया, जबकि 62.6% ने कहा कि संतान आवश्यक है। यह परिणाम इसलिए ध्यान खींचता है क्योंकि निम्न जन्मदर की प्रवृत्ति के बीच विवाह और बच्चों के प्रति दृष्टिकोण में बदलाव दिखता है। मूल रिपोर्ट ने यह अतिरिक्त आकलन नहीं दिया कि धारणा में यह सुधार वास्तविक विवाह या जन्म संख्या में वृद्धि में बदलेगा या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Niat Punya Anak di Kalangan Lajang Korea Tembus 40% untuk Pertama Kali",
+        "excerpt": "Survei persepsi kelima atas kebijakan rendah kelahiran di Korea Selatan menunjukkan niat punya anak di kalangan lajang pertama kali melampaui 40%, dengan 65% positif soal menikah.",
+        "body": "Pandangan pria dan wanita lajang di Korea Selatan terhadap pernikahan dan kelahiran anak membaik jelas dalam dua tahun terakhir. Menurut survei persepsi kelima tentang kebijakan mengatasi rendahnya angka kelahiran, porsi lajang yang menyatakan niat memiliki anak untuk pertama kalinya menembus 40%. Survei itu juga mencatat 65% responden memandang pernikahan secara positif, sementara 62,6% mengatakan anak diperlukan. Hasil ini menarik perhatian karena menunjukkan perubahan sikap terhadap pernikahan dan anak di tengah tren rendahnya angka kelahiran. Namun, teks asli tidak memberi penilaian tambahan apakah perbaikan persepsi ini akan berujung pada kenaikan nyata dalam pernikahan atau kelahiran. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "8b36a9b9988a",
+    "slug": "속보경찰-하이브-방시혁-의장-구속영장-재신청반려-6일만-677915",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T09:29:28.421Z",
+    "updatedAt": "2026-05-07T09:29:28.421Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12039499",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12039499",
+    "titleFingerprint": "cbffd93009ea42b428f92653e50320847ec3dde6",
+    "dedupKeys": [
+      "8b36a9b9988aff2ca399afb111ddc169ea417064",
+      "cbffd93009ea42b428f92653e50320847ec3dde6",
+      "c5b7eb2c14ea7291366769bfc73b0f0ea2dadd74"
+    ],
+    "imageUrl": "/images/articles/8b36a9b9988a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "경찰, 하이브 방시혁 의장 구속영장 재신청…반려 6일 만의 재추진",
+        "excerpt": "경찰이 하이브 방시혁 의장에 대한 구속영장을 반려 6일 만에 다시 신청했다. 앞선 신청이 반려된 뒤 절차가 재추진된 사안으로, 향후 영장 심사 여부가 주목된다.",
+        "body": "경찰이 하이브 방시혁 의장에 대한 구속영장을 다시 신청했다. 매일경제에 따르면 이번 재신청은 앞서 구속영장 신청이 반려된 지 6일 만에 이뤄졌다. 현재 원문에서 확인되는 핵심 사실은 경찰의 재신청 대상이 방시혁 하이브 의장이라는 점과, 이전 신청 반려 이후 6일 만에 같은 절차가 다시 추진됐다는 점이다. 구속영장 재신청은 수사 절차상 중요한 분기점으로, 향후 영장 심사 진행 여부와 관련 절차가 관심을 받을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Police Reapply for Arrest Warrant for HYBE Chairman Bang Si-hyuk After 6 Days",
+        "excerpt": "Police have reapplied for an arrest warrant for HYBE Chairman Bang Si-hyuk six days after the previous request was returned, putting attention on whether the warrant review will proceed.",
+        "body": "Police have reapplied for an arrest warrant for HYBE Chairman Bang Si-hyuk. According to Maeil Business Newspaper, the renewed request came six days after the previous arrest warrant application was returned. The key facts confirmed in the original report are that the subject of the renewed application is Bang Si-hyuk, chairman of HYBE, and that the same procedure was pursued again six days after the earlier request was returned. The renewed warrant application marks an important point in the investigative process, with attention expected to focus on whether a warrant review will follow. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "警察、HYBE房時赫議長の逮捕状を再申請…差し戻しから6日",
+        "excerpt": "警察がHYBEの房時赫議長に対する逮捕状を、前回申請の差し戻しから6日後に再申請した。今後の令状審査の有無に関心が集まる。",
+        "body": "警察がHYBEの房時赫議長に対する逮捕状を再び申請した。毎日経済によると、今回の再申請は、先の逮捕状申請が差し戻されてから6日後に行われた。原文で確認できる主な事実は、再申請の対象がHYBE議長の房時赫氏であること、そして前回の申請が差し戻された後、6日で同じ手続きが再び進められたことだ。逮捕状の再申請は捜査手続き上の重要な局面であり、今後、令状審査が行われるかどうかに注目が集まる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "警方再次申请逮捕HYBE董事长方时赫，距上次被退回仅6天",
+        "excerpt": "警方在此前申请被退回6天后，再次申请对HYBE董事长方时赫的逮捕令。后续是否进入逮捕令审查程序受到关注。",
+        "body": "警方再次申请对HYBE董事长方时赫的逮捕令。据《每日经济》报道，此次重新申请是在此前逮捕令申请被退回6天后进行的。原文目前确认的核心事实是，重新申请的对象为HYBE董事长方时赫，以及在前一次申请被退回后，警方时隔6天再次推进同一程序。逮捕令重新申请是调查程序中的重要节点，今后是否进入逮捕令审查及相关程序预计将受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Policía vuelve a pedir orden de arresto contra Bang Si-hyuk de HYBE tras 6 días",
+        "excerpt": "La policía volvió a solicitar una orden de arresto contra Bang Si-hyuk, presidente de HYBE, seis días después de que la petición anterior fuera devuelta.",
+        "body": "La policía volvió a solicitar una orden de arresto contra Bang Si-hyuk, presidente de HYBE. Según Maeil Business Newspaper, la nueva solicitud se presentó seis días después de que la petición anterior de orden de arresto fuera devuelta. Los hechos clave confirmados en el texto original son que el destinatario de la nueva solicitud es Bang Si-hyuk, presidente de HYBE, y que el mismo procedimiento se reanudó seis días después de la devolución previa. La nueva solicitud representa un punto relevante dentro del proceso de investigación, y se espera atención sobre si avanzará la revisión de la orden. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Polícia reapresenta pedido de prisão contra Bang Si-hyuk, da HYBE, após 6 dias",
+        "excerpt": "A polícia reapresentou o pedido de mandado de prisão contra Bang Si-hyuk, presidente da HYBE, seis dias após a solicitação anterior ter sido devolvida.",
+        "body": "A polícia reapresentou um pedido de mandado de prisão contra Bang Si-hyuk, presidente da HYBE. Segundo o Maeil Business Newspaper, a nova solicitação ocorreu seis dias depois de o pedido anterior de mandado de prisão ter sido devolvido. Os fatos centrais confirmados no texto original são que o alvo da reapresentação é Bang Si-hyuk, presidente da HYBE, e que o mesmo procedimento voltou a ser promovido seis dias após a devolução anterior. A reapresentação do pedido é um ponto importante no processo investigativo, com atenção voltada para uma possível análise do mandado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Polizei beantragt erneut Haftbefehl gegen HYBE-Chef Bang Si-hyuk nach 6 Tagen",
+        "excerpt": "Die Polizei hat sechs Tage nach Rückgabe des vorherigen Antrags erneut einen Haftbefehl gegen HYBE-Vorsitzenden Bang Si-hyuk beantragt.",
+        "body": "Die Polizei hat erneut einen Haftbefehl gegen Bang Si-hyuk, den Vorsitzenden von HYBE, beantragt. Nach Angaben der Maeil Business Newspaper erfolgte der neue Antrag sechs Tage nachdem der vorherige Haftbefehlsantrag zurückgegeben worden war. Die im Originalbericht bestätigten Kernfakten sind, dass sich der neue Antrag gegen HYBE-Vorsitzenden Bang Si-hyuk richtet und dass dasselbe Verfahren sechs Tage nach der Rückgabe des früheren Antrags wieder aufgenommen wurde. Der erneute Antrag ist ein wichtiger Punkt im Ermittlungsverfahren; nun richtet sich die Aufmerksamkeit darauf, ob eine Haftbefehlsprüfung folgt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La police redemande un mandat d’arrêt contre Bang Si-hyuk de HYBE après 6 jours",
+        "excerpt": "La police a redéposé une demande de mandat d’arrêt contre Bang Si-hyuk, président de HYBE, six jours après le renvoi de la précédente demande.",
+        "body": "La police a de nouveau demandé un mandat d’arrêt contre Bang Si-hyuk, président de HYBE. Selon le Maeil Business Newspaper, cette nouvelle demande intervient six jours après le renvoi de la précédente demande de mandat d’arrêt. Les faits essentiels confirmés dans le texte original sont que la demande vise Bang Si-hyuk, président de HYBE, et que la même procédure a été relancée six jours après le renvoi antérieur. Cette nouvelle demande constitue une étape importante dans la procédure d’enquête, et l’attention devrait désormais porter sur une éventuelle audience d’examen du mandat. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الشرطة تعيد طلب مذكرة توقيف لرئيس HYBE بانغ سي هيوك بعد 6 أيام",
+        "excerpt": "أعادت الشرطة طلب إصدار مذكرة توقيف بحق بانغ سي هيوك، رئيس HYBE، بعد ستة أيام من رد الطلب السابق، وسط ترقب لما إذا كان فحص المذكرة سيمضي قدما.",
+        "body": "أعادت الشرطة طلب إصدار مذكرة توقيف بحق بانغ سي هيوك، رئيس HYBE. وبحسب صحيفة ماييل الاقتصادية، جاء الطلب الجديد بعد ستة أيام من رد طلب مذكرة التوقيف السابق. وتتمثل الحقائق الأساسية المؤكدة في النص الأصلي في أن الطلب المعاد يستهدف بانغ سي هيوك، رئيس HYBE، وأن الإجراء نفسه أعيد تحريكه بعد ستة أيام من رد الطلب السابق. ويعد إعادة طلب مذكرة التوقيف نقطة مهمة في مسار التحقيق، ومن المتوقع أن يتركز الاهتمام على ما إذا كانت مراجعة المذكرة والإجراءات ذات الصلة ستتقدم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "पुलिस ने HYBE चेयरमैन Bang Si-hyuk के खिलाफ गिरफ्तारी वारंट फिर मांगा",
+        "excerpt": "पुलिस ने HYBE चेयरमैन Bang Si-hyuk के खिलाफ गिरफ्तारी वारंट के लिए फिर आवेदन किया है। पिछला आवेदन लौटाए जाने के छह दिन बाद यह कदम उठाया गया।",
+        "body": "पुलिस ने HYBE के चेयरमैन Bang Si-hyuk के खिलाफ गिरफ्तारी वारंट के लिए फिर आवेदन किया है। Maeil Business Newspaper के अनुसार, यह पुनः आवेदन पिछले गिरफ्तारी वारंट आवेदन के लौटाए जाने के छह दिन बाद किया गया। मूल रिपोर्ट में पुष्टि किए गए मुख्य तथ्य यह हैं कि पुनः आवेदन का लक्ष्य HYBE चेयरमैन Bang Si-hyuk हैं और पहले आवेदन के लौटने के छह दिन बाद वही प्रक्रिया फिर आगे बढ़ाई गई। गिरफ्तारी वारंट का पुनः आवेदन जांच प्रक्रिया में एक महत्वपूर्ण मोड़ है, और अब ध्यान इस बात पर रहेगा कि वारंट समीक्षा आगे बढ़ती है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Polisi Ajukan Lagi Surat Penahanan untuk Ketua HYBE Bang Si-hyuk Setelah 6 Hari",
+        "excerpt": "Polisi kembali mengajukan surat perintah penahanan untuk Ketua HYBE Bang Si-hyuk enam hari setelah permohonan sebelumnya dikembalikan.",
+        "body": "Polisi kembali mengajukan surat perintah penahanan untuk Bang Si-hyuk, ketua HYBE. Menurut Maeil Business Newspaper, pengajuan ulang ini dilakukan enam hari setelah permohonan surat penahanan sebelumnya dikembalikan. Fakta utama yang dikonfirmasi dalam teks asli adalah bahwa sasaran pengajuan ulang tersebut adalah Bang Si-hyuk, ketua HYBE, dan bahwa prosedur yang sama kembali ditempuh enam hari setelah permohonan sebelumnya dikembalikan. Pengajuan ulang surat penahanan menjadi titik penting dalam proses penyelidikan, dengan perhatian tertuju pada apakah pemeriksaan surat perintah akan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "61f20d11b960",
     "slug": "국중박에서-뮤직뱅크-열린다-581419",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Tes Darah Demensia, Semprotan dan Cahaya Buka Jalan Baru Lawan Alzheimer",
         "excerpt": "Di era populasi menua, Alzheimer menjadi salah satu penyakit paling ditakuti, sementara ilmuwan dan tenaga medis menawarkan tes setetes darah, semprotan, dan terapi berbasis cahaya.",
         "body": "Di tengah masyarakat yang menua, makin banyak orang khawatir terhadap penyakit Alzheimer, atau demensia, dan kalangan sains serta medis mulai menunjukkan kemungkinan baru dalam diagnosis dan perawatan. Artikel sumber berangkat dari kecemasan “apakah saya juga terkena demensia?” dan melaporkan bahwa era pemeriksaan dengan setetes darah, serta perawatan menggunakan semprotan dan cahaya, mulai terbuka. Demensia disebut sebagai salah satu penyakit paling ditakuti dalam masyarakat menua, sementara riset dan inovasi medis untuk menaklukkannya bermunculan. Arus ini menandai perubahan dalam deteksi dini dan pendekatan perawatan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cf1b94cea2b8",
-    "slug": "1억으로-156억-만들었다증권가-전설이-된-섬소년-546380",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T19:14:42.394Z",
-    "updatedAt": "2026-05-06T19:14:42.394Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12037620",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037620",
-    "titleFingerprint": "ad7ef7e0dbf5d5be176da261d46f4aaf17f8317c",
-    "dedupKeys": [
-      "cf1b94cea2b87dcfa19e57e0b46f67a8c89e7175",
-      "ad7ef7e0dbf5d5be176da261d46f4aaf17f8317c",
-      "7b0efca38d56f43cf8758f7528ad8fb54c19bae8"
-    ],
-    "imageUrl": "/images/articles/cf1b94cea2b8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "강방천 1억→156억 신화, ‘한국의 위대한 투자자’ 첫 주인공",
-        "excerpt": "매경플러스가 ‘한국의 위대한 투자자’ 시리즈 첫 인물로 강방천 에셋플러스자산운용 설립자를 조명하며 그의 투자 전설의 시작을 소개했다.",
-        "body": "매경플러스는 ‘한국의 위대한 투자자’ 시리즈 첫 주인공으로 강방천 에셋플러스자산운용 설립자를 소개했다. 원문은 ‘강방천 1편-전설의 시작’이라는 제목 아래, 섬소년으로 출발한 그가 1억 원을 156억 원으로 불린 사례를 전면에 내세웠다. 강방천은 한국 투자업계의 살아 있는 전설로 불리며, 에셋플러스자산운용을 세운 인물이다. 이번 기사는 그의 투자 여정이 어떻게 증권가의 상징적 사례가 됐는지를 다루는 시리즈의 출발점이다. 국내 투자자들에게는 장기적 관점과 투자 철학을 다시 살펴보게 하는 계기가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kang Bang-cheon’s 100 Million-to-15.6 Billion Won Story Opens Investor Series",
-        "excerpt": "MK Plus spotlighted AssetPlus founder Kang Bang-cheon as the first figure in its “Great Korean Investors” series, introducing the start of his investing legend.",
-        "body": "MK Plus introduced Kang Bang-cheon, founder of AssetPlus Asset Management, as the first subject of its “Great Korean Investors” series. The original article, titled “Kang Bang-cheon Part 1: The Beginning of a Legend,” highlights the story of an island boy who turned 100 million won into 15.6 billion won. Kang is described as a living legend in Korea’s investment industry and the founder of AssetPlus Asset Management. The article marks the starting point of a series examining how his investment journey became a symbolic case on Korea’s securities scene. For domestic investors, it offers a chance to revisit long-term perspective and investment philosophy. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "カン・バンチョン氏の1億→156億ウォン神話、投資家シリーズ初回に",
-        "excerpt": "毎経プラスは「韓国の偉大な投資家」シリーズの初回人物として、エセットプラス資産運用創業者カン・バンチョン氏を取り上げた。",
-        "body": "毎経プラスは「韓国の偉大な投資家」シリーズの最初の主人公として、エセットプラス資産運用創業者のカン・バンチョン氏を紹介した。原文は「カン・バンチョン第1編、伝説の始まり」という題名で、島の少年として出発した同氏が1億ウォンを156億ウォンに増やした事例を前面に掲げている。カン氏は韓国投資業界の生きる伝説と呼ばれ、エセットプラス資産運用を設立した人物だ。今回の記事は、彼の投資の歩みがどのように証券街の象徴的事例となったのかを扱うシリーズの出発点である。国内投資家にとっては、長期的視点と投資哲学を見直す契機になりそうだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "姜方天1亿变156亿韩元传奇，成韩国伟大投资者首篇主角",
-        "excerpt": "每日经济Plus在“韩国伟大投资者”系列中，首位聚焦AssetPlus资产管理创始人姜方天，介绍其投资传奇的开端。",
-        "body": "每日经济Plus将AssetPlus资产管理创始人姜方天介绍为“韩国伟大投资者”系列的首位主角。原文以“姜方天第一篇：传奇的开始”为题，突出他从岛上少年起步、将1亿韩元变为156亿韩元的案例。姜方天被称为韩国投资业界的活着的传奇，也是AssetPlus资产管理的创始人。此次报道是该系列的起点，聚焦他的投资历程如何成为韩国证券界的标志性案例。对韩国国内投资者而言，这也提供了重新审视长期视角与投资哲学的契机。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kang Bang-cheon y la historia de 100 millones a 15.600 millones de wones",
-        "excerpt": "MK Plus eligió al fundador de AssetPlus Asset Management, Kang Bang-cheon, como primer protagonista de su serie “Grandes inversores de Corea”.",
-        "body": "MK Plus presentó a Kang Bang-cheon, fundador de AssetPlus Asset Management, como el primer protagonista de la serie “Grandes inversores de Corea”. El artículo original, titulado “Kang Bang-cheon Parte 1: el comienzo de la leyenda”, destaca el caso de un niño de una isla que convirtió 100 millones de wones en 15.600 millones. Kang es descrito como una leyenda viva de la industria de inversión coreana y como fundador de AssetPlus Asset Management. La nota marca el punto de partida de una serie que aborda cómo su trayectoria inversora se convirtió en un caso simbólico del mercado de valores coreano. Para los inversores locales, ofrece una oportunidad de revisar la perspectiva de largo plazo y la filosofía de inversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kang Bang-cheon: de 100 milhões a 15,6 bilhões de wons na série coreana",
-        "excerpt": "O MK Plus destacou Kang Bang-cheon, fundador da AssetPlus Asset Management, como o primeiro nome da série “Grandes investidores da Coreia”.",
-        "body": "O MK Plus apresentou Kang Bang-cheon, fundador da AssetPlus Asset Management, como o primeiro personagem da série “Grandes investidores da Coreia”. O artigo original, intitulado “Kang Bang-cheon Parte 1: o início da lenda”, destaca a história de um menino de uma ilha que transformou 100 milhões de wons em 15,6 bilhões de wons. Kang é descrito como uma lenda viva do setor de investimentos da Coreia e como fundador da AssetPlus Asset Management. A reportagem marca o ponto de partida de uma série sobre como sua trajetória de investimento se tornou um caso simbólico no mercado de valores coreano. Para investidores locais, é uma oportunidade de rever a visão de longo prazo e a filosofia de investimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kang Bang-cheon: Von 100 Millionen zu 15,6 Milliarden Won als Investor",
-        "excerpt": "MK Plus stellt Kang Bang-cheon, Gründer von AssetPlus Asset Management, als erste Figur der Serie “Große koreanische Investoren” vor.",
-        "body": "MK Plus hat Kang Bang-cheon, den Gründer von AssetPlus Asset Management, als erste Hauptfigur der Serie “Große koreanische Investoren” vorgestellt. Der Originalartikel mit dem Titel “Kang Bang-cheon Teil 1: Der Beginn der Legende” hebt die Geschichte eines Inseljungen hervor, der 100 Millionen Won in 15,6 Milliarden Won verwandelte. Kang wird als lebende Legende der koreanischen Investmentbranche und als Gründer von AssetPlus Asset Management beschrieben. Der Beitrag bildet den Auftakt einer Serie darüber, wie seine Investmentlaufbahn zu einem symbolischen Fall am koreanischen Wertpapiermarkt wurde. Für inländische Anleger bietet er Anlass, langfristige Perspektiven und Anlagephilosophie neu zu betrachten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kang Bang-cheon, de 100 millions à 15,6 milliards de wons, ouvre la série",
-        "excerpt": "MK Plus consacre le premier volet de sa série “Grands investisseurs coréens” à Kang Bang-cheon, fondateur d’AssetPlus Asset Management.",
-        "body": "MK Plus a présenté Kang Bang-cheon, fondateur d’AssetPlus Asset Management, comme le premier protagoniste de la série “Grands investisseurs coréens”. L’article original, intitulé “Kang Bang-cheon, partie 1: le début de la légende”, met en avant le parcours d’un garçon d’une île qui a transformé 100 millions de wons en 15,6 milliards de wons. Kang est décrit comme une légende vivante du secteur coréen de l’investissement et comme le fondateur d’AssetPlus Asset Management. Ce reportage marque le point de départ d’une série consacrée à la façon dont son parcours d’investisseur est devenu un cas emblématique de la place financière coréenne. Pour les investisseurs locaux, il invite à réexaminer la perspective de long terme et la philosophie d’investissement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كانغ بانغ تشون من 100 مليون إلى 15.6 مليار وون في بداية سلسلة المستثمرين",
-        "excerpt": "سلطت MK Plus الضوء على كانغ بانغ تشون، مؤسس AssetPlus Asset Management، كأول شخصية في سلسلة “المستثمرون الكوريون العظماء”.",
-        "body": "قدمت MK Plus كانغ بانغ تشون، مؤسس AssetPlus Asset Management، بوصفه أول شخصية في سلسلة “المستثمرون الكوريون العظماء”. وجاء المقال الأصلي بعنوان “كانغ بانغ تشون، الجزء الأول: بداية الأسطورة”، مسلطا الضوء على قصة فتى من جزيرة تمكن من تحويل 100 مليون وون إلى 15.6 مليار وون. يوصف كانغ بأنه أسطورة حية في قطاع الاستثمار الكوري، وهو مؤسس AssetPlus Asset Management. ويمثل هذا المقال نقطة انطلاق لسلسلة تتناول كيف أصبحت رحلته الاستثمارية حالة رمزية في سوق الأوراق المالية الكورية. وبالنسبة للمستثمرين المحليين، يتيح ذلك فرصة لإعادة النظر في المنظور طويل الأجل وفلسفة الاستثمار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कांग बांग-चोन की 10 करोड़ से 15.6 अरब वॉन तक की निवेश कहानी",
-        "excerpt": "MK Plus ने “कोरिया के महान निवेशक” श्रृंखला के पहले व्यक्तित्व के रूप में AssetPlus Asset Management के संस्थापक कांग बांग-चोन को प्रस्तुत किया।",
-        "body": "MK Plus ने AssetPlus Asset Management के संस्थापक कांग बांग-चोन को “कोरिया के महान निवेशक” श्रृंखला के पहले मुख्य व्यक्तित्व के रूप में पेश किया। मूल लेख “कांग बांग-चोन भाग 1: दंतकथा की शुरुआत” शीर्षक से प्रकाशित हुआ और इसमें एक द्वीप के लड़के की कहानी को सामने रखा गया, जिसने 100 मिलियन वॉन को 15.6 बिलियन वॉन में बदल दिया। कांग को कोरिया के निवेश उद्योग की जीवित दंतकथा कहा जाता है और वे AssetPlus Asset Management के संस्थापक हैं। यह लेख उस श्रृंखला की शुरुआत है जो बताती है कि उनकी निवेश यात्रा कोरियाई प्रतिभूति बाजार में एक प्रतीकात्मक उदाहरण कैसे बनी। घरेलू निवेशकों के लिए यह दीर्घकालिक दृष्टिकोण और निवेश दर्शन पर फिर से विचार करने का अवसर देता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kang Bang-cheon, dari 100 Juta ke 15,6 Miliar Won dalam Seri Investor",
-        "excerpt": "MK Plus menyoroti pendiri AssetPlus Asset Management, Kang Bang-cheon, sebagai tokoh pertama dalam seri “Investor Hebat Korea”.",
-        "body": "MK Plus memperkenalkan Kang Bang-cheon, pendiri AssetPlus Asset Management, sebagai tokoh pertama dalam seri “Investor Hebat Korea”. Artikel asli berjudul “Kang Bang-cheon Bagian 1: Awal Legenda” menampilkan kisah seorang anak pulau yang mengubah 100 juta won menjadi 15,6 miliar won. Kang disebut sebagai legenda hidup di industri investasi Korea dan merupakan pendiri AssetPlus Asset Management. Artikel ini menjadi titik awal seri yang membahas bagaimana perjalanan investasinya menjadi contoh simbolis di dunia sekuritas Korea. Bagi investor domestik, kisah ini menjadi kesempatan untuk meninjau kembali perspektif jangka panjang dan filosofi investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9d3616f71503",
-    "slug": "작은-d램-하나-만드는-데-120일반도체-투자-핵심-tat-443114",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T19:13:37.878Z",
-    "updatedAt": "2026-05-06T19:13:37.878Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12037393",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12037393",
-    "titleFingerprint": "628f2e209ff1d2a52f29e907f20967770fed2754",
-    "dedupKeys": [
-      "9d3616f71503b485ef4bb00e6f8c49eaa3934c64",
-      "628f2e209ff1d2a52f29e907f20967770fed2754",
-      "951b4da49b2a168abc10fa67bcbe2fe3693bae22"
-    ],
-    "imageUrl": "/images/articles/9d3616f71503.png",
-    "i18n": {
-      "ko": {
-        "title": "D램 120일 생산 TAT, 반도체 투자 핵심 변수로 떠오른 이유",
-        "excerpt": "매일경제 반도체 담당 이덕주 기자는 작은 D램 하나도 만드는 데 120일이 걸린다며, 빵처럼 찍어낼 수 없는 반도체 공급 구조와 투자 핵심 지표인 TAT를 짚었다.",
-        "body": "매일경제에서 반도체 산업을 담당하는 이덕주 기자는 작은 D램 하나를 만드는 데도 약 120일이 걸린다고 소개했다. 반도체 공급은 빵처럼 바로 찍어낼 수 있는 구조가 아니며, 이 때문에 생산에 걸리는 시간인 TAT가 투자 판단의 핵심 변수로 거론된다. 원문은 반도체를 단순 제조품처럼 이해하기 어렵다는 점을 전제로, 공급이 빠르게 늘기 힘든 배경을 설명한다. 특히 D램처럼 작은 제품도 긴 공정을 거친다는 사실은 반도체 업황과 투자 흐름을 볼 때 생산 기간을 함께 봐야 한다는 점을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "DRAM’s 120-Day TAT Emerges as a Key Factor in Chip Investment",
-        "excerpt": "Maeil Business semiconductor reporter Lee Deok-ju noted that even a small DRAM chip takes 120 days to make, highlighting TAT as a key factor in chip supply and investment.",
-        "body": "Lee Deok-ju, who covers the semiconductor industry for Maeil Business, reported that producing even a small DRAM chip takes about 120 days. Semiconductor supply cannot be stamped out like bread, and that makes TAT, the time required for production, a key variable in investment decisions. The article explains why chip supply is difficult to expand quickly and why semiconductors should not be viewed as simple manufactured goods. The fact that even a small DRAM product must pass through a long process shows that production time needs to be considered when reading the chip cycle and investment trends. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "DRAM生産120日のTAT、半導体投資の核心指標に浮上",
-        "excerpt": "毎日経済の半導体担当イ・ドクジュ記者は、小さなDRAM一つの生産にも120日かかるとし、半導体供給と投資でTATが重要だと伝えた。",
-        "body": "毎日経済で半導体産業を担当するイ・ドクジュ記者は、小さなDRAM一つを作るにも約120日かかると紹介した。半導体供給はパンのようにすぐ大量に作れる構造ではなく、そのため生産に要する時間であるTATが投資判断の核心変数として取り上げられる。原文は、半導体を単純な製造品として理解しにくい点を前提に、供給を素早く増やしにくい背景を説明している。小さなDRAM製品でも長い工程を経るという事実は、半導体市況や投資の流れを見る際に生産期間も併せて考える必要があることを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "DRAM生产需120天，TAT为何成半导体投资核心变量",
-        "excerpt": "每日经济半导体记者李德柱指出，即使是一颗小型DRAM也需120天制造，凸显半导体供应无法像面包般快速生产，TAT成为投资关键。",
-        "body": "每日经济负责半导体产业报道的李德柱记者介绍，即使制造一颗小型DRAM也大约需要120天。半导体供应并不是像面包一样可以立即批量生产的结构，因此生产所需时间TAT被视为投资判断中的核心变量。原文以半导体并非容易被理解为普通制造品为前提，说明供应难以快速增加的背景。即便是小型DRAM产品也必须经过较长工序，这一事实表明，在观察半导体景气和投资走势时，生产周期同样需要被纳入考量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "DRAM tarda 120 días: por qué el TAT pesa en inversión en chips",
-        "excerpt": "Lee Deok-ju, reportero de semiconductores de Maeil Business, señaló que incluso una pequeña DRAM tarda 120 días en fabricarse y que el TAT es clave para invertir.",
-        "body": "Lee Deok-ju, periodista de Maeil Business especializado en la industria de semiconductores, explicó que producir incluso una pequeña DRAM toma unos 120 días. La oferta de semiconductores no puede generarse de inmediato como si fueran panes, y por eso el TAT, el tiempo necesario para la producción, se menciona como una variable central en las decisiones de inversión. El texto original parte de que los chips no deben entenderse como simples productos manufacturados y explica por qué la oferta no aumenta rápidamente. Que una DRAM pequeña requiera un proceso largo muestra que el plazo de producción debe considerarse al leer el ciclo y la inversión en semiconductores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "DRAM leva 120 dias: TAT vira variável-chave em investimento em chips",
-        "excerpt": "Lee Deok-ju, repórter de semicondutores do Maeil Business, destacou que até uma pequena DRAM leva 120 dias para ser feita, tornando o TAT crucial para investimento.",
-        "body": "Lee Deok-ju, jornalista do Maeil Business que cobre a indústria de semicondutores, informou que produzir até uma pequena DRAM leva cerca de 120 dias. A oferta de semicondutores não pode ser criada rapidamente como pães, e por isso o TAT, o tempo necessário para a produção, é citado como uma variável central nas decisões de investimento. O texto original parte da ideia de que chips não devem ser vistos como simples produtos manufaturados e explica por que a oferta é difícil de ampliar rapidamente. O fato de uma pequena DRAM passar por um processo longo mostra que o prazo de produção deve ser considerado ao analisar o ciclo e os investimentos em semicondutores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "DRAM braucht 120 Tage: Warum TAT für Chip-Investoren zentral wird",
-        "excerpt": "Maeil-Business-Halbleiterreporter Lee Deok-ju erklärte, dass selbst ein kleiner DRAM-Chip 120 Tage braucht und TAT für Angebot und Investitionen wichtig ist.",
-        "body": "Lee Deok-ju, der für Maeil Business über die Halbleiterindustrie berichtet, schrieb, dass die Herstellung selbst eines kleinen DRAM-Chips rund 120 Tage dauert. Das Angebot an Halbleitern lässt sich nicht wie Brot sofort ausstoßen, weshalb TAT, also die für die Produktion benötigte Zeit, als zentrale Größe bei Investitionsentscheidungen gilt. Der Originaltext erklärt vor diesem Hintergrund, warum Halbleiter nicht wie einfache Industrieprodukte verstanden werden sollten und warum sich das Angebot nur schwer schnell ausweiten lässt. Dass selbst ein kleiner DRAM einen langen Prozess durchläuft, zeigt, dass Produktionszeiten bei der Bewertung des Chipzyklus und von Investitionstrends mitgedacht werden müssen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "DRAM en 120 jours: le TAT devient clé pour investir dans les puces",
-        "excerpt": "Lee Deok-ju, journaliste semi-conducteurs de Maeil Business, rappelle qu’une petite DRAM prend 120 jours à fabriquer, faisant du TAT un indicateur d’investissement.",
-        "body": "Lee Deok-ju, journaliste de Maeil Business chargé de l’industrie des semi-conducteurs, a indiqué que fabriquer même une petite DRAM prend environ 120 jours. L’offre de semi-conducteurs ne peut pas être produite immédiatement comme du pain, ce qui fait du TAT, le temps nécessaire à la production, une variable centrale dans les décisions d’investissement. L’article original part du constat que les puces ne doivent pas être comprises comme de simples produits manufacturés et explique pourquoi l’offre est difficile à augmenter rapidement. Le fait qu’une petite DRAM passe elle aussi par un long processus montre que le délai de production doit être pris en compte dans l’analyse du cycle et des investissements des semi-conducteurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تصنيع DRAM يستغرق 120 يوما: لماذا أصبح TAT محور استثمار الرقائق",
-        "excerpt": "أوضح لي دوك جو، مراسل أشباه الموصلات في ماييل بيزنس، أن تصنيع شريحة DRAM صغيرة يستغرق 120 يوما، ما يجعل TAT عاملا مهما في العرض والاستثمار.",
-        "body": "ذكر لي دوك جو، مراسل صناعة أشباه الموصلات في ماييل بيزنس، أن تصنيع شريحة DRAM صغيرة واحدة يستغرق نحو 120 يوما. فإمدادات أشباه الموصلات لا يمكن إنتاجها فورا كما يحدث مع الخبز، ولذلك يبرز TAT، أي الزمن اللازم للإنتاج، كمتغير أساسي في قرارات الاستثمار. يوضح النص الأصلي أن الرقائق لا ينبغي فهمها كمنتجات تصنيع بسيطة، ويشرح خلفية صعوبة زيادة المعروض بسرعة. وحقيقة أن منتجا صغيرا مثل DRAM يمر بعملية طويلة تبين أن مدة الإنتاج يجب أن تؤخذ في الحسبان عند قراءة دورة قطاع أشباه الموصلات واتجاهات الاستثمار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "DRAM बनाने में 120 दिन: चिप निवेश में TAT क्यों बना मुख्य संकेतक",
-        "excerpt": "Maeil Business के सेमीकंडक्टर रिपोर्टर Lee Deok-ju ने बताया कि छोटी DRAM बनाने में भी 120 दिन लगते हैं, इसलिए आपूर्ति और निवेश में TAT अहम है।",
-        "body": "Maeil Business में सेमीकंडक्टर उद्योग कवर करने वाले Lee Deok-ju ने बताया कि एक छोटी DRAM बनाने में भी लगभग 120 दिन लगते हैं। सेमीकंडक्टर आपूर्ति को रोटी की तरह तुरंत बड़ी मात्रा में नहीं बनाया जा सकता, इसलिए उत्पादन में लगने वाला समय, यानी TAT, निवेश निर्णयों का प्रमुख कारक माना जाता है। मूल लेख इस आधार पर समझाता है कि चिप्स को साधारण विनिर्मित उत्पाद की तरह नहीं समझना चाहिए और आपूर्ति तेजी से बढ़ाना क्यों कठिन है। छोटी DRAM के लिए भी लंबी प्रक्रिया जरूरी होना दिखाता है कि सेमीकंडक्टर चक्र और निवेश प्रवाह को पढ़ते समय उत्पादन अवधि पर भी ध्यान देना चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "DRAM Butuh 120 Hari: TAT Jadi Faktor Kunci Investasi Chip",
-        "excerpt": "Reporter semikonduktor Maeil Business, Lee Deok-ju, menjelaskan bahwa satu DRAM kecil pun butuh 120 hari dibuat, sehingga TAT penting bagi pasokan dan investasi.",
-        "body": "Lee Deok-ju, reporter Maeil Business yang meliput industri semikonduktor, menyebut bahwa membuat satu DRAM kecil saja membutuhkan sekitar 120 hari. Pasokan semikonduktor tidak bisa dicetak cepat seperti roti, sehingga TAT, yaitu waktu yang diperlukan untuk produksi, menjadi variabel utama dalam keputusan investasi. Artikel asli menjelaskan bahwa chip tidak mudah dipahami sebagai barang manufaktur biasa dan mengapa pasokannya sulit ditingkatkan dengan cepat. Fakta bahwa produk kecil seperti DRAM pun melalui proses panjang menunjukkan bahwa durasi produksi perlu ikut diperhatikan saat membaca siklus industri semikonduktor dan arah investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0adfd3a9c902",
-    "slug": "사막-한복판에-딸기-풍년중동서-통한-k수직농장-전략-774832",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T19:12:17.503Z",
-    "updatedAt": "2026-05-06T19:12:17.503Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12037442",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12037442",
-    "titleFingerprint": "72ecd1a41a5e819cf2c5c301625b3bcb78b98f96",
-    "dedupKeys": [
-      "0adfd3a9c902e85780fbbae382d4bdac36ec7ecb",
-      "72ecd1a41a5e819cf2c5c301625b3bcb78b98f96",
-      "2ec1d727f5c6d969d44aa5f81dc7352e8f193941"
-    ],
-    "imageUrl": "/images/articles/0adfd3a9c902.jpg",
-    "i18n": {
-      "ko": {
-        "title": "K수직농장 전략, UAE 아부다비 사막서 딸기 재배 가능성 주목",
-        "excerpt": "이상훈 아그로솔루션코리아 대표가 UAE 수도 아부다비의 척박한 사막 환경에서 K수직농장 전략으로 딸기 재배 가능성을 보여주며 중동 농업 해법으로 주목받고 있다.",
-        "body": "이상훈 아그로솔루션코리아 대표는 아랍에미리트(UAE) 수도 아부다비에서 K수직농장 전략을 앞세워 사막 환경에서도 딸기 재배 가능성을 보여주고 있다. 아부다비는 국제도시로 성장했지만, 중동 특유의 열기와 척박한 기후 때문에 일반적인 농사가 쉽지 않은 지역이다. 이런 조건에서 수직농장은 외부 환경의 제약을 줄이고 안정적인 재배를 시도할 수 있는 방식으로 주목된다. 사막 한복판에서 딸기 생산이 가능하다는 사례는 한국형 스마트 농업 기술이 중동 시장에서 활용될 수 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "K-Vertical Farm Strategy Draws Attention for Strawberry Growing in Abu Dhabi Desert",
-        "excerpt": "Lee Sang-hoon of Agro Solution Korea is drawing attention by showing how a K-vertical farm strategy can support strawberry cultivation in Abu Dhabi’s harsh desert environment.",
-        "body": "Lee Sang-hoon, CEO of Agro Solution Korea, is drawing attention in Abu Dhabi, the capital of the United Arab Emirates, with a K-vertical farm strategy that shows the possibility of growing strawberries in a desert environment. Abu Dhabi has grown into an international city, but farming remains difficult because of the Middle East’s intense heat and harsh climate. Under these conditions, vertical farming is being noted as a way to reduce dependence on the outside environment and attempt more stable cultivation. The case of producing strawberries in the middle of the desert suggests that Korean smart-farming technology can be applied in the Middle Eastern market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "K垂直農場戦略、UAEアブダビ砂漠でのイチゴ栽培に注目",
-        "excerpt": "アグロソリューションコリアのイ・サンフン代表が、UAE首都アブダビの厳しい砂漠環境でK垂直農場戦略によるイチゴ栽培の可能性を示している。",
-        "body": "アグロソリューションコリアのイ・サンフン代表は、アラブ首長国連邦（UAE）の首都アブダビで、K垂直農場戦略を掲げ、砂漠環境でもイチゴを栽培できる可能性を示している。アブダビは国際都市として成長したが、中東特有の暑さと厳しい気候により、一般的な農業が容易ではない地域だ。こうした条件の中で、垂直農場は外部環境の制約を減らし、安定した栽培を試みる方式として注目されている。砂漠の真ん中でイチゴ生産が可能だという事例は、韓国型スマート農業技術が中東市場で活用され得ることを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "K垂直农场策略受关注，UAE阿布扎比沙漠中种出草莓",
-        "excerpt": "Agro Solution Korea代表李相勋在阿联酋首都阿布扎比，以K垂直农场策略展示了在恶劣沙漠环境中种植草莓的可能性。",
-        "body": "Agro Solution Korea代表李相勋正在阿拉伯联合酋长国（UAE）首都阿布扎比，以K垂直农场策略展示在沙漠环境中种植草莓的可能性。阿布扎比已发展为国际城市，但由于中东特有的炎热和贫瘠气候，普通农业并不容易开展。在这种条件下，垂直农场因能够减少外部环境限制、尝试稳定栽培而受到关注。沙漠腹地也能生产草莓的案例表明，韩国型智慧农业技术有望在中东市场得到应用。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "La estrategia de granjas verticales K gana foco por fresas en el desierto de Abu Dabi",
-        "excerpt": "Lee Sang-hoon, de Agro Solution Korea, muestra en Abu Dabi cómo la estrategia de granjas verticales K puede permitir cultivar fresas en un entorno desértico hostil.",
-        "body": "Lee Sang-hoon, CEO de Agro Solution Korea, está atrayendo atención en Abu Dabi, capital de Emiratos Árabes Unidos, con una estrategia de granjas verticales K que muestra la posibilidad de cultivar fresas en un entorno desértico. Abu Dabi se ha convertido en una ciudad internacional, pero la agricultura convencional sigue siendo difícil por el calor y el clima árido propios de Oriente Medio. En estas condiciones, la granja vertical destaca como una forma de reducir las limitaciones del entorno exterior e intentar un cultivo más estable. El caso de producir fresas en pleno desierto indica que la tecnología agrícola inteligente coreana puede utilizarse en el mercado de Oriente Medio. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Estratégia de fazenda vertical K chama atenção com morangos no deserto de Abu Dhabi",
-        "excerpt": "Lee Sang-hoon, da Agro Solution Korea, mostra em Abu Dhabi como a estratégia de fazenda vertical K pode viabilizar o cultivo de morangos em ambiente desértico severo.",
-        "body": "Lee Sang-hoon, CEO da Agro Solution Korea, chama atenção em Abu Dhabi, capital dos Emirados Árabes Unidos, com uma estratégia de fazenda vertical K que mostra a possibilidade de cultivar morangos em ambiente desértico. Abu Dhabi tornou-se uma cidade internacional, mas a agricultura convencional continua difícil por causa do calor e do clima árido característicos do Oriente Médio. Nessas condições, a fazenda vertical se destaca como forma de reduzir as restrições do ambiente externo e tentar um cultivo mais estável. O caso de produção de morangos no meio do deserto indica que a tecnologia coreana de agricultura inteligente pode ser aplicada no mercado do Oriente Médio. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "K-Vertical-Farming rückt mit Erdbeeren in Abu Dhabis Wüste in den Fokus",
-        "excerpt": "Lee Sang-hoon von Agro Solution Korea zeigt in Abu Dhabi, wie die K-Vertical-Farming-Strategie Erdbeeranbau in einer rauen Wüstenumgebung ermöglichen kann.",
-        "body": "Lee Sang-hoon, CEO von Agro Solution Korea, sorgt in Abu Dhabi, der Hauptstadt der Vereinigten Arabischen Emirate, mit einer K-Vertical-Farming-Strategie für Aufmerksamkeit, die die Möglichkeit des Erdbeeranbaus in einer Wüstenumgebung zeigt. Abu Dhabi ist zu einer internationalen Stadt gewachsen, doch wegen der für den Nahen Osten typischen Hitze und des rauen Klimas ist herkömmliche Landwirtschaft schwierig. Unter diesen Bedingungen gilt Vertical Farming als Ansatz, um Abhängigkeiten von äußeren Umweltfaktoren zu verringern und stabileren Anbau zu versuchen. Der Fall von Erdbeerproduktion mitten in der Wüste zeigt, dass koreanische Smart-Farming-Technologie im Nahostmarkt genutzt werden kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La ferme verticale K attire l’attention avec des fraises dans le désert d’Abou Dhabi",
-        "excerpt": "Lee Sang-hoon, d’Agro Solution Korea, montre à Abou Dhabi comment la stratégie de ferme verticale K peut permettre la culture de fraises dans un désert difficile.",
-        "body": "Lee Sang-hoon, PDG d’Agro Solution Korea, attire l’attention à Abou Dhabi, capitale des Émirats arabes unis, avec une stratégie de ferme verticale K qui montre la possibilité de cultiver des fraises dans un environnement désertique. Abou Dhabi est devenue une ville internationale, mais l’agriculture classique y reste difficile en raison de la chaleur et du climat rude propres au Moyen-Orient. Dans ces conditions, la ferme verticale est remarquée comme un moyen de réduire les contraintes de l’environnement extérieur et de tenter une culture plus stable. Le cas d’une production de fraises au cœur du désert montre que la technologie coréenne d’agriculture intelligente peut être utilisée sur le marché moyen-oriental. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "استراتيجية المزارع العمودية الكورية تبرز بزراعة الفراولة في صحراء أبوظبي",
-        "excerpt": "لي سانغ هون من أغرو سوليوشن كوريا يلفت الأنظار في أبوظبي بإظهار إمكانية زراعة الفراولة في بيئة صحراوية قاسية عبر استراتيجية المزارع العمودية الكورية.",
-        "body": "يلفت لي سانغ هون، الرئيس التنفيذي لشركة أغرو سوليوشن كوريا، الانتباه في أبوظبي، عاصمة دولة الإمارات العربية المتحدة، من خلال استراتيجية المزارع العمودية الكورية التي تظهر إمكانية زراعة الفراولة في بيئة صحراوية. وقد نمت أبوظبي لتصبح مدينة دولية، لكن الزراعة التقليدية فيها ليست سهلة بسبب الحرارة والمناخ القاسيين المميزين للشرق الأوسط. في ظل هذه الظروف، تحظى المزارع العمودية بالاهتمام كطريقة لتقليل قيود البيئة الخارجية ومحاولة تحقيق زراعة أكثر استقرارا. وتوضح حالة إنتاج الفراولة في قلب الصحراء أن تكنولوجيا الزراعة الذكية الكورية يمكن أن تجد مجالا للتطبيق في سوق الشرق الأوسط. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "K-वर्टिकल फार्म रणनीति पर ध्यान, अबू धाबी के रेगिस्तान में स्ट्रॉबेरी खेती",
-        "excerpt": "एग्रो सॉल्यूशन कोरिया के ली सांग-हून ने UAE की राजधानी अबू धाबी के कठोर रेगिस्तानी माहौल में K-वर्टिकल फार्म रणनीति से स्ट्रॉबेरी उगाने की संभावना दिखाई।",
-        "body": "एग्रो सॉल्यूशन कोरिया के सीईओ ली सांग-हून संयुक्त अरब अमीरात की राजधानी अबू धाबी में K-वर्टिकल फार्म रणनीति के जरिए रेगिस्तानी माहौल में भी स्ट्रॉबेरी उगाने की संभावना दिखा रहे हैं। अबू धाबी एक अंतरराष्ट्रीय शहर के रूप में विकसित हुआ है, लेकिन मध्य पूर्व की तेज गर्मी और कठोर जलवायु के कारण सामान्य खेती आसान नहीं है। ऐसी परिस्थितियों में वर्टिकल फार्म बाहरी वातावरण की सीमाओं को कम कर अधिक स्थिर खेती का प्रयास करने के तरीके के रूप में ध्यान खींच रहा है। रेगिस्तान के बीच स्ट्रॉबेरी उत्पादन का यह मामला दिखाता है कि कोरियाई स्मार्ट कृषि तकनीक मध्य पूर्वी बाजार में उपयोगी हो सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Strategi K-Vertical Farm Disorot lewat Stroberi di Gurun Abu Dhabi",
-        "excerpt": "Lee Sang-hoon dari Agro Solution Korea menunjukkan di Abu Dhabi bahwa strategi K-vertical farm dapat membuka peluang budidaya stroberi di lingkungan gurun yang keras.",
-        "body": "Lee Sang-hoon, CEO Agro Solution Korea, menarik perhatian di Abu Dhabi, ibu kota Uni Emirat Arab, dengan strategi K-vertical farm yang menunjukkan kemungkinan budidaya stroberi di lingkungan gurun. Abu Dhabi telah berkembang menjadi kota internasional, tetapi pertanian biasa tetap sulit karena panas dan iklim keras khas Timur Tengah. Dalam kondisi seperti ini, vertical farm diperhatikan sebagai cara untuk mengurangi batasan lingkungan luar dan mencoba budidaya yang lebih stabil. Kasus produksi stroberi di tengah gurun menunjukkan bahwa teknologi pertanian pintar Korea dapat dimanfaatkan di pasar Timur Tengah. Sumber: mk.co.kr"
       }
     }
   }
