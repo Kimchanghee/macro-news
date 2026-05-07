@@ -1,5 +1,230 @@
 [
   {
+    "id": "f296dbe1161d",
+    "slug": "개헌안-처리-국민의힘-불참-속-정족수-부족으로-투표-불성립-555311",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T07:39:40.842Z",
+    "updatedAt": "2026-05-07T07:39:40.842Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12039266",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12039266",
+    "titleFingerprint": "aa172f9cfa0e9e437251b2c0b98ec70fefaa1dd6",
+    "dedupKeys": [
+      "f296dbe1161d1b1cc949b070ee32a6307a56c96d",
+      "aa172f9cfa0e9e437251b2c0b98ec70fefaa1dd6",
+      "35db805ccb7aa8a904c6d157867a088b066fe147"
+    ],
+    "imageUrl": "/images/articles/f296dbe1161d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "개헌안 투표 불성립, 국민의힘 불참 속 의결 정족수 부족",
+        "excerpt": "7일 국회 본회의에서 대한민국 헌법 개정안 처리가 시도됐지만 국민의힘 불참으로 의결 정족수가 부족해 우원식 국회의장이 투표 불성립을 선언했다.",
+        "body": "7일 국회에서 열린 제435회 국회 임시회 1차 본회의에서 대한민국 헌법 개정안 처리가 시도됐지만 투표는 성립하지 않았다. 우원식 국회의장은 본회의에서 개헌안 표결 절차를 진행했으나 국민의힘 의원들이 불참하면서 의결에 필요한 정족수를 채우지 못했다. 이에 따라 개헌안은 표결 결과를 확정하는 단계로 나아가지 못했고, 국회의장은 투표 불성립을 선언했다. 이번 상황은 개헌안 처리 과정에서 여야 참여 여부와 정족수 확보가 핵심 변수임을 다시 보여줬다. 향후 개헌 논의는 국회 내 참여와 절차적 요건 충족 여부에 따라 영향을 받을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Constitutional Amendment Vote Fails as People Power Party Boycotts",
+        "excerpt": "On May 7, a vote on South Korea’s constitutional amendment at the National Assembly failed to proceed after the People Power Party’s absence left the chamber short of quorum.",
+        "body": "On May 7, during the first plenary session of the 435th extraordinary National Assembly, lawmakers attempted to process a proposed amendment to the Constitution of the Republic of Korea, but the vote was not established. National Assembly Speaker Woo Won-shik proceeded with the voting process, yet the absence of People Power Party lawmakers left the chamber without the required quorum. As a result, the amendment could not move to a confirmed voting outcome, and the speaker declared the vote invalid due to lack of quorum. The case underscored that participation by rival parties and quorum requirements remain decisive factors in handling constitutional revisions. Future discussions are expected to depend on participation within the Assembly and fulfillment of procedural conditions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "憲法改正案の投票不成立、国民の力欠席で定足数不足",
+        "excerpt": "5月7日の韓国国会本会議で憲法改正案の処理が試みられたが、国民の力の欠席により定足数を満たせず、禹元植議長が投票不成立を宣言した。",
+        "body": "5月7日、韓国国会で開かれた第435回国会臨時会第1回本会議で、大韓民国憲法改正案の処理が試みられたが、投票は成立しなかった。禹元植国会議長は本会議で改正案の採決手続きを進めたものの、国民の力所属議員が欠席し、議決に必要な定足数を満たせなかった。そのため改正案は採決結果を確定する段階に進めず、議長は投票不成立を宣言した。今回の事態は、憲法改正案の処理において与野党の参加と定足数の確保が重要な変数であることを改めて示した。今後の改憲論議は国会内の参加状況と手続き要件の充足に左右される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "修宪案投票未成立，国民力量缺席致表决人数不足",
+        "excerpt": "5月7日韩国国会全体会议尝试处理宪法修正案，但因国民力量缺席导致法定人数不足，议长禹元植宣布投票不成立。",
+        "body": "5月7日，在韩国第435届国会临时会第一次全体会议上，国会尝试处理《大韩民国宪法》修正案，但投票未能成立。国会议长禹元植在全体会议上推进修宪案表决程序，但国民力量议员缺席，使会议未能达到议决所需法定人数。因此，该修宪案未能进入确认表决结果的阶段，议长宣布投票不成立。此次情况再次显示，在修宪案处理过程中，各党派是否参与以及能否确保法定人数是关键变量。今后的修宪讨论预计将受到国会内部参与情况和程序性条件是否满足的影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Fracasa la votación de la reforma constitucional por falta de quórum",
+        "excerpt": "El 7 de mayo, la Asamblea Nacional surcoreana intentó votar una reforma constitucional, pero la ausencia del Partido del Poder Popular impidió alcanzar el quórum necesario.",
+        "body": "El 7 de mayo, durante la primera sesión plenaria de la 435.ª Asamblea Nacional extraordinaria de Corea del Sur, se intentó tramitar una enmienda a la Constitución de la República de Corea, pero la votación no quedó constituida. El presidente de la Asamblea Nacional, Woo Won-shik, avanzó con el procedimiento de votación en el pleno, aunque la ausencia de legisladores del Partido del Poder Popular dejó a la cámara sin el quórum requerido para decidir. Como resultado, la enmienda no pudo pasar a una etapa de resultado confirmado y el presidente declaró la votación no válida por falta de quórum. El episodio mostró que la participación de los partidos y el cumplimiento del quórum son variables clave en una reforma constitucional. Las próximas discusiones dependerán de la participación parlamentaria y de los requisitos de procedimiento. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Votação da emenda constitucional falha por falta de quórum",
+        "excerpt": "Em 7 de maio, a Assembleia Nacional da Coreia do Sul tentou votar uma emenda constitucional, mas a ausência do Partido do Poder Popular impediu o quórum necessário.",
+        "body": "Em 7 de maio, durante a primeira sessão plenária da 435ª sessão extraordinária da Assembleia Nacional da Coreia do Sul, houve uma tentativa de processar uma emenda à Constituição da República da Coreia, mas a votação não foi estabelecida. O presidente da Assembleia Nacional, Woo Won-shik, conduziu o procedimento de votação no plenário, porém a ausência de parlamentares do Partido do Poder Popular impediu que fosse alcançado o quórum necessário para deliberação. Com isso, a emenda não avançou para a etapa de confirmação do resultado da votação, e o presidente declarou a votação inválida por falta de quórum. O caso mostrou novamente que a participação partidária e o quórum são fatores centrais em reformas constitucionais. As próximas discussões dependerão da participação no Parlamento e do cumprimento das exigências processuais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Verfassungsänderung scheitert an Quorum nach Boykott der PPP",
+        "excerpt": "Am 7. Mai scheiterte eine Abstimmung über eine Verfassungsänderung in Südkoreas Nationalversammlung, weil die Abwesenheit der People Power Party das nötige Quorum verhinderte.",
+        "body": "Am 7. Mai wurde in der ersten Plenarsitzung der 435. außerordentlichen Sitzung der südkoreanischen Nationalversammlung versucht, einen Entwurf zur Änderung der Verfassung der Republik Korea zu behandeln. Die Abstimmung kam jedoch nicht zustande. Parlamentspräsident Woo Won-shik leitete das Abstimmungsverfahren im Plenum ein, doch wegen der Abwesenheit von Abgeordneten der People Power Party wurde das für einen Beschluss erforderliche Quorum nicht erreicht. Damit konnte der Änderungsentwurf nicht in die Phase eines bestätigten Abstimmungsergebnisses gelangen, und der Präsident erklärte die Abstimmung für nicht zustande gekommen. Der Vorgang machte deutlich, dass Parteibeteiligung und Quorum zentrale Faktoren bei Verfassungsänderungen bleiben. Weitere Debatten dürften von der Teilnahme im Parlament und der Erfüllung der Verfahrensanforderungen abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Révision constitutionnelle: vote non valide faute de quorum à Séoul",
+        "excerpt": "Le 7 mai, l’Assemblée nationale sud-coréenne a tenté de voter une révision constitutionnelle, mais l’absence du People Power Party a empêché d’atteindre le quorum requis.",
+        "body": "Le 7 mai, lors de la première séance plénière de la 435e session extraordinaire de l’Assemblée nationale sud-coréenne, les députés ont tenté d’examiner un amendement à la Constitution de la République de Corée, mais le vote n’a pas été constitué. Le président de l’Assemblée nationale, Woo Won-shik, a engagé la procédure de vote en séance plénière, mais l’absence des députés du People Power Party a empêché d’atteindre le quorum nécessaire à une décision. L’amendement n’a donc pas pu aller jusqu’à la confirmation d’un résultat de vote, et le président a déclaré le vote non valide faute de quorum. Cette situation montre que la participation des partis et le respect du quorum restent déterminants dans le traitement d’une révision constitutionnelle. Les prochaines discussions dépendront de la participation au Parlement et du respect des conditions de procédure. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "فشل التصويت على تعديل الدستور في كوريا الجنوبية لنقص النصاب",
+        "excerpt": "في 7 مايو، حاولت الجمعية الوطنية في كوريا الجنوبية التصويت على تعديل دستوري، لكن غياب حزب قوة الشعب أدى إلى نقص النصاب وإعلان عدم انعقاد التصويت.",
+        "body": "في 7 مايو، خلال الجلسة العامة الأولى للدورة الاستثنائية رقم 435 للجمعية الوطنية في كوريا الجنوبية، جرت محاولة لمعالجة تعديل على دستور جمهورية كوريا، لكن التصويت لم ينعقد. بدأ رئيس الجمعية الوطنية وو وون-شيك إجراءات التصويت في الجلسة العامة، إلا أن غياب نواب حزب قوة الشعب حال دون توافر النصاب المطلوب لاتخاذ القرار. ونتيجة لذلك، لم يتمكن التعديل الدستوري من الانتقال إلى مرحلة تثبيت نتيجة التصويت، وأعلن الرئيس عدم انعقاد التصويت بسبب نقص النصاب. وأظهرت هذه الواقعة أن مشاركة الأحزاب وتوافر النصاب يظلان عاملين حاسمين في التعامل مع تعديلات الدستور. ومن المتوقع أن تتأثر المناقشات المقبلة بمدى المشاركة داخل البرلمان واستيفاء الشروط الإجرائية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "संवैधानिक संशोधन पर मतदान विफल, पीपल पावर पार्टी अनुपस्थित",
+        "excerpt": "7 मई को दक्षिण कोरिया की नेशनल असेंबली में संवैधानिक संशोधन पर मतदान की कोशिश हुई, लेकिन पीपल पावर पार्टी की अनुपस्थिति से कोरम पूरा नहीं हुआ।",
+        "body": "7 मई को दक्षिण कोरिया की 435वीं असाधारण नेशनल असेंबली के पहले पूर्ण सत्र में कोरिया गणराज्य के संविधान में संशोधन प्रस्ताव पर कार्यवाही की कोशिश की गई, लेकिन मतदान स्थापित नहीं हो सका। नेशनल असेंबली के अध्यक्ष वू वोन-शिक ने पूर्ण सत्र में मतदान प्रक्रिया आगे बढ़ाई, लेकिन पीपल पावर पार्टी के सांसदों की अनुपस्थिति के कारण निर्णय के लिए आवश्यक कोरम पूरा नहीं हुआ। इसके परिणामस्वरूप संशोधन प्रस्ताव मतदान परिणाम की पुष्टि के चरण तक नहीं पहुंच सका और अध्यक्ष ने कोरम की कमी के कारण मतदान न होने की घोषणा की। इस घटनाक्रम ने दिखाया कि संवैधानिक संशोधन के मामलों में दलों की भागीदारी और कोरम सुनिश्चित करना प्रमुख कारक हैं। आगे की चर्चा संसद में भागीदारी और प्रक्रियात्मक शर्तों की पूर्ति पर निर्भर रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Voting Amandemen Konstitusi Gagal karena Kuorum Tak Terpenuhi",
+        "excerpt": "Pada 7 Mei, Majelis Nasional Korea Selatan mencoba memproses amandemen konstitusi, tetapi absennya Partai Kekuatan Rakyat membuat kuorum tidak terpenuhi.",
+        "body": "Pada 7 Mei, dalam sidang pleno pertama sesi luar biasa ke-435 Majelis Nasional Korea Selatan, pemrosesan amandemen Konstitusi Republik Korea dicoba dilakukan, tetapi pemungutan suara tidak terbentuk. Ketua Majelis Nasional Woo Won-shik menjalankan prosedur pemungutan suara di pleno, namun absennya anggota parlemen dari Partai Kekuatan Rakyat membuat kuorum yang diperlukan untuk pengambilan keputusan tidak terpenuhi. Akibatnya, amandemen tersebut tidak dapat berlanjut ke tahap penetapan hasil suara, dan ketua menyatakan pemungutan suara tidak sah karena kurang kuorum. Peristiwa ini menunjukkan kembali bahwa partisipasi partai dan pemenuhan kuorum menjadi faktor penting dalam pemrosesan amendemen konstitusi. Pembahasan berikutnya diperkirakan bergantung pada partisipasi di parlemen dan pemenuhan persyaratan prosedural. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d88099ebea6e",
+    "slug": "개헌안-처리-국민의힘-불참-속-정족수-부족으로-투표-불성립-599644",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T07:38:31.447Z",
+    "updatedAt": "2026-05-07T07:38:31.447Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12039267",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12039267",
+    "titleFingerprint": "aa172f9cfa0e9e437251b2c0b98ec70fefaa1dd6",
+    "dedupKeys": [
+      "d88099ebea6ed02917987469453f248336f3b4b5",
+      "aa172f9cfa0e9e437251b2c0b98ec70fefaa1dd6",
+      "35db805ccb7aa8a904c6d157867a088b066fe147"
+    ],
+    "imageUrl": "/images/articles/d88099ebea6e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "개헌안 처리, 국민의힘 불참에 정족수 부족…국회 본회의서 투표 불성립",
+        "excerpt": "우원식 국회의장은 7일 제435회 국회 임시회 1차 본회의에서 대한민국 헌법 개정안 표결이 국민의힘 불참에 따른 정족수 부족으로 성립하지 않았다고 밝혔다.",
+        "body": "7일 국회에서 열린 제435회 국회 임시회 1차 본회의에서 대한민국 헌법 개정안 처리가 정족수 부족으로 투표 불성립됐다. 우원식 국회의장은 본회의에서 개헌안에 대한 표결이 성립하지 않았다고 선언했다. 이번 투표 불성립은 국민의힘이 본회의 표결에 불참한 가운데 의결에 필요한 정족수를 채우지 못하면서 발생했다. 개헌안 처리는 본회의 표결 단계에서 멈췄고, 향후 국회 논의 일정과 여야 협의 여부가 관건으로 남게 됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Constitutional Amendment Vote Fails as People Power Party Boycott Leaves Quorum Short",
+        "excerpt": "National Assembly Speaker Woo Won-shik said on the 7th that a vote on a constitutional amendment failed to proceed at the first plenary session of the 435th extraordinary session due to a lack of quorum.",
+        "body": "At the first plenary session of the 435th extraordinary session of South Korea’s National Assembly on the 7th, the handling of a constitutional amendment ended in an invalid vote due to a lack of quorum. Speaker Woo Won-shik declared during the plenary session that the vote on the amendment had not been established. The failure occurred as the People Power Party did not participate in the plenary vote, leaving the chamber short of the quorum needed for a decision. The amendment process stopped at the voting stage, with future Assembly scheduling and talks between the ruling and opposition parties remaining key issues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "改憲案採決、国民の力の不参加で定足数不足…国会本会議で投票不成立",
+        "excerpt": "禹元植国会議長は7日、第435回国会臨時会第1回本会議で、大韓民国憲法改正案の採決が国民の力の不参加による定足数不足で成立しなかったと述べた。",
+        "body": "7日に国会で開かれた第435回国会臨時会第1回本会議で、大韓民国憲法改正案の処理は定足数不足により投票不成立となった。禹元植国会議長は本会議で、改憲案に対する採決が成立しなかったと宣言した。今回の投票不成立は、国民の力が本会議での採決に参加しない中、議決に必要な定足数を満たせなかったことで発生した。改憲案の処理は本会議の採決段階で止まり、今後の国会日程と与野党協議の行方が焦点として残った。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "修宪案处理因国民力量缺席致法定人数不足，国会全会投票未成立",
+        "excerpt": "韩国国会议长禹元植7日在第435届国会临时会第一次全体会议上表示，因国民力量缺席导致法定人数不足，大韩民国宪法修正案投票未能成立。",
+        "body": "7日，在韩国国会举行的第435届国会临时会第一次全体会议上，大韩民国宪法修正案处理因法定人数不足而投票未成立。国会议长禹元植在全体会议上宣布，针对该修宪案的投票未能成立。此次投票未成立，是在国民力量未参加全体会议表决的情况下，未能满足作出议决所需法定人数所致。修宪案处理停留在全体会议表决阶段，今后国会议程安排以及朝野协商是否推进仍是关键。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Voto de reforma constitucional fracasa por falta de quórum tras ausencia del PPP",
+        "excerpt": "El presidente de la Asamblea Nacional, Woo Won-shik, dijo el día 7 que la votación de una reforma constitucional no se constituyó en la primera sesión plenaria extraordinaria 435 por falta de quórum.",
+        "body": "El día 7, en la primera sesión plenaria de la 435.ª sesión extraordinaria de la Asamblea Nacional de Corea del Sur, la tramitación de una reforma constitucional quedó sin votación válida por falta de quórum. El presidente de la Asamblea, Woo Won-shik, declaró en el pleno que la votación sobre la enmienda no se había constituido. La situación se produjo mientras el Partido del Poder Popular no participó en la votación plenaria, lo que impidió alcanzar el quórum necesario para decidir. El proceso de la reforma se detuvo en la fase de votación, y quedan como puntos clave el calendario parlamentario y la posible negociación entre oficialismo y oposición. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Votação de emenda constitucional falha sem quórum após ausência do PPP",
+        "excerpt": "O presidente da Assembleia Nacional, Woo Won-shik, afirmou no dia 7 que a votação de uma emenda constitucional não se constituiu na primeira plenária da 435ª sessão extraordinária por falta de quórum.",
+        "body": "No dia 7, na primeira sessão plenária da 435ª sessão extraordinária da Assembleia Nacional da Coreia do Sul, a tramitação de uma emenda constitucional terminou sem votação válida por falta de quórum. O presidente da Assembleia, Woo Won-shik, declarou no plenário que a votação da emenda não havia sido constituída. O resultado ocorreu enquanto o Partido do Poder Popular não participou da votação plenária, impedindo que fosse atingido o quórum necessário para a decisão. A emenda ficou parada na etapa de votação, e a agenda futura da Assembleia e eventuais negociações entre governo e oposição seguem como pontos centrais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Verfassungsänderung scheitert im Parlament: Kein Quorum nach Boykott der PPP",
+        "excerpt": "Parlamentspräsident Woo Won-shik erklärte am 7., dass die Abstimmung über eine Verfassungsänderung in der ersten Plenarsitzung der 435. Sondersitzung wegen fehlenden Quorums nicht zustande kam.",
+        "body": "Am 7. kam die Behandlung einer Verfassungsänderung in der ersten Plenarsitzung der 435. außerordentlichen Sitzung der südkoreanischen Nationalversammlung wegen fehlenden Quorums nicht zustande. Parlamentspräsident Woo Won-shik erklärte im Plenum, dass die Abstimmung über den Änderungsantrag nicht wirksam eröffnet worden sei. Grund war, dass die People Power Party an der Plenarabstimmung nicht teilnahm und dadurch die für einen Beschluss erforderliche Zahl an Abgeordneten fehlte. Das Verfahren blieb damit auf der Abstimmungsstufe stehen; entscheidend bleiben nun der weitere Parlamentsfahrplan und mögliche Gespräche zwischen Regierungslager und Opposition. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Réforme constitutionnelle: vote non constitué faute de quorum après l’absence du PPP",
+        "excerpt": "Le président de l’Assemblée nationale, Woo Won-shik, a indiqué le 7 que le vote sur une révision constitutionnelle n’avait pas été constitué lors de la première séance plénière de la 435e session extraordinaire.",
+        "body": "Le 7, lors de la première séance plénière de la 435e session extraordinaire de l’Assemblée nationale sud-coréenne, l’examen d’un amendement à la Constitution s’est soldé par un vote non constitué faute de quorum. Le président de l’Assemblée, Woo Won-shik, a déclaré en séance que le vote sur le texte n’avait pas pu être établi. Cette situation est survenue alors que le Parti du pouvoir au peuple n’a pas participé au vote en plénière, empêchant d’atteindre le quorum requis pour une décision. Le traitement de la réforme est donc resté bloqué à l’étape du vote, tandis que le calendrier parlementaire et les discussions entre majorité et opposition restent déterminants. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "فشل التصويت على تعديل دستوري في كوريا الجنوبية بعد غياب حزب سلطة الشعب ونقص النصاب",
+        "excerpt": "قال رئيس الجمعية الوطنية وو وون-شيك في السابع إن التصويت على تعديل دستور جمهورية كوريا لم ينعقد في الجلسة العامة الأولى للدورة الاستثنائية رقم 435 بسبب نقص النصاب.",
+        "body": "في السابع، خلال الجلسة العامة الأولى للدورة الاستثنائية رقم 435 للجمعية الوطنية في كوريا الجنوبية، تعذر إقرار تعديل دستور جمهورية كوريا بعدما لم ينعقد التصويت بسبب نقص النصاب. وأعلن رئيس الجمعية الوطنية وو وون-شيك في الجلسة أن التصويت على التعديل الدستوري لم يتحقق. وجاء ذلك في ظل عدم مشاركة حزب سلطة الشعب في التصويت العام، ما أدى إلى عدم استيفاء النصاب المطلوب لاتخاذ القرار. وبذلك توقف مسار التعديل عند مرحلة التصويت في الجلسة العامة، فيما تبقى مواعيد مناقشات الجمعية والمشاورات بين الأحزاب عوامل حاسمة لاحقا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "संवैधानिक संशोधन पर मतदान अमान्य, पीपल पावर पार्टी की अनुपस्थिति से कोरम अधूरा",
+        "excerpt": "नेशनल असेंबली के अध्यक्ष वू वोन-शिक ने 7 तारीख को कहा कि 435वें असाधारण सत्र की पहली पूर्ण बैठक में कोरम की कमी के कारण संविधान संशोधन पर मतदान स्थापित नहीं हो सका।",
+        "body": "7 तारीख को दक्षिण कोरिया की नेशनल असेंबली के 435वें असाधारण सत्र की पहली पूर्ण बैठक में संविधान संशोधन प्रस्ताव पर कार्यवाही कोरम की कमी के कारण मतदान स्थापित न होने पर रुक गई। नेशनल असेंबली के अध्यक्ष वू वोन-शिक ने पूर्ण बैठक में घोषणा की कि संशोधन प्रस्ताव पर मतदान वैध रूप से स्थापित नहीं हुआ। यह स्थिति तब बनी जब पीपल पावर पार्टी ने पूर्ण बैठक के मतदान में भाग नहीं लिया और निर्णय के लिए आवश्यक कोरम पूरा नहीं हो सका। संशोधन प्रस्ताव की प्रक्रिया मतदान चरण पर ही ठहर गई, और आगे असेंबली का कार्यक्रम तथा सत्तापक्ष-विपक्ष की चर्चा अहम रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pemungutan Suara Amandemen Konstitusi Gagal karena Kuorum Kurang usai PPP Absen",
+        "excerpt": "Ketua Majelis Nasional Woo Won-shik menyatakan pada tanggal 7 bahwa pemungutan suara atas amandemen Konstitusi Republik Korea dalam sidang paripurna pertama sesi luar biasa ke-435 tidak sah karena kuorum kurang.",
+        "body": "Pada tanggal 7, dalam sidang paripurna pertama sesi luar biasa ke-435 Majelis Nasional Korea Selatan, pembahasan amandemen Konstitusi Republik Korea berakhir dengan pemungutan suara tidak sah karena kuorum tidak terpenuhi. Ketua Majelis Nasional Woo Won-shik menyatakan di sidang bahwa pemungutan suara atas amandemen tersebut tidak terbentuk. Hal ini terjadi ketika People Power Party tidak mengikuti pemungutan suara paripurna, sehingga jumlah anggota yang dibutuhkan untuk pengambilan keputusan tidak tercapai. Proses amandemen berhenti di tahap pemungutan suara, sementara jadwal pembahasan Majelis dan kemungkinan konsultasi antarkubu politik menjadi isu berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "30925f5f305f",
+    "slug": "태국인-아내에-끓는-물-부은-남편-재판-재개피해자가-처벌-원해-841028",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T07:37:25.742Z",
+    "updatedAt": "2026-05-07T07:37:25.742Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12039276",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12039276",
+    "titleFingerprint": "95805132670a28c4fc2f95df8c04cbe79a2543a1",
+    "dedupKeys": [
+      "30925f5f305f639e758f3b5ab4af06c2971e8825",
+      "95805132670a28c4fc2f95df8c04cbe79a2543a1",
+      "409639800d0084a29cace4a072c5ec1149a2d2c2"
+    ],
+    "imageUrl": "/images/articles/30925f5f305f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "태국인 아내 얼굴 중화상 사건 재판 재개…피해자 처벌 의사 밝혀",
+        "excerpt": "지난 3월 검찰 구형까지 진행됐던 태국인 아내 얼굴 중화상 사건 재판이 피해자 측 입장 변경으로 7일 의정부지법에서 변론을 재개했다.",
+        "body": "태국인 아내에게 끓는 물을 부어 얼굴에 중화상을 입힌 사건의 재판 변론이 7일 의정부지법 형사12단독 김준영 판사 심리로 재개됐다. 이 사건은 지난 3월 검찰 구형까지 이뤄지며 마무리 단계에 들어갔던 재판이었으나, 피해자 측 입장이 바뀌면서 다시 변론이 열렸다. 핵심 변화는 피해자가 피고인에 대한 처벌을 원한다는 의사를 밝힌 점이다. 재판부는 재개된 변론 절차에서 변경된 피해자 측 입장을 반영해 사건을 다시 살필 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Trial Resumes in Thai Wife Scalding Case as Victim Seeks Punishment",
+        "excerpt": "A trial over a Thai wife’s severe facial burns resumed at Uijeongbu District Court on May 7 after the victim’s side changed its position following March sentencing arguments.",
+        "body": "The trial over a case in which a husband allegedly poured boiling water on his Thai wife, causing severe burns to her face, resumed on May 7 at Uijeongbu District Court before Judge Kim Jun-young of Criminal Division 12. The case had appeared to be nearing conclusion after prosecutors made their sentencing request in March. However, arguments were reopened after the victim’s side changed its position. The key change is that the victim has expressed a desire for the defendant to be punished. The court is expected to review the case again through the resumed proceedings while reflecting the victim’s revised stance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "タイ人妻の顔に熱湯、重いやけど事件の裁判再開…被害者が処罰希望",
+        "excerpt": "3月に検察の求刑まで進んでいたタイ人妻の顔面重傷やけど事件の裁判が、被害者側の立場変更を受け、5月7日に議政府地裁で再開された。",
+        "body": "タイ人の妻に熱湯をかけ、顔に重いやけどを負わせた事件の裁判弁論が5月7日、議政府地裁刑事12単独のキム・ジュンヨン判事の審理で再開された。この事件は3月に検察の求刑まで行われ、裁判が終結段階に入っていた。しかし、被害者側の立場が変わったことで弁論が再び開かれた。主な変化は、被害者が被告人への処罰を望む意思を示した点だ。裁判所は再開された弁論手続きで、変更された被害者側の立場を反映し、事件を改めて審理する見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "泰国籍妻子遭泼开水致脸部重伤案重启审理，受害者要求处罚",
+        "excerpt": "今年3月已进行至检方求刑阶段的泰国籍妻子脸部重度烫伤案，因受害方立场改变，5月7日在议政府地方法院恢复辩论。",
+        "body": "一名丈夫涉嫌向泰国籍妻子泼洒开水，导致其脸部严重烫伤的案件，5月7日在议政府地方法院刑事12单独审判庭由金俊英法官主持恢复辩论。该案此前已在3月进行到检方求刑阶段，原本接近审理结束。然而，随着受害方立场发生变化，法院重新开启辩论程序。核心变化在于，受害者表示希望对被告进行处罚。法院预计将在恢复的辩论程序中反映受害方变更后的意见，并重新审视案件。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Se reanuda juicio por quemaduras a esposa tailandesa; víctima pide castigo",
+        "excerpt": "El juicio por las graves quemaduras faciales sufridas por una esposa tailandesa se reanudó el 7 de mayo en Uijeongbu tras cambiar la postura de la víctima.",
+        "body": "El juicio por un caso en el que un esposo habría vertido agua hirviendo sobre su esposa tailandesa, causándole graves quemaduras en el rostro, se reanudó el 7 de mayo en el Tribunal de Distrito de Uijeongbu, ante el juez Kim Jun-young de la Sala Penal unipersonal 12. El proceso parecía estar en su etapa final después de que la fiscalía formulara su petición de pena en marzo. Sin embargo, la vista se reabrió tras un cambio en la postura de la parte de la víctima. El punto clave es que la víctima expresó que desea el castigo del acusado. El tribunal revisará nuevamente el caso reflejando esa posición modificada. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Julgamento por queimaduras em esposa tailandesa é retomado; vítima quer punição",
+        "excerpt": "O caso das queimaduras graves no rosto de uma esposa tailandesa voltou ao tribunal em 7 de maio, após mudança de posição da vítima depois do pedido da promotoria em março.",
+        "body": "O julgamento do caso em que um marido teria jogado água fervente sobre sua esposa tailandesa, causando queimaduras graves em seu rosto, foi retomado em 7 de maio no Tribunal Distrital de Uijeongbu, sob condução do juiz Kim Jun-young, da 12ª Vara Criminal unipessoal. O processo parecia perto do fim depois que a promotoria apresentou seu pedido de pena em março. No entanto, os argumentos foram reabertos após uma mudança na posição da parte da vítima. A principal alteração é que a vítima declarou querer a punição do réu. O tribunal deve reexaminar o caso no procedimento retomado, refletindo essa nova posição. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Prozess um Verbrühungen thailändischer Ehefrau neu eröffnet: Opfer will Strafe",
+        "excerpt": "Der Prozess um schwere Gesichtsverbrennungen einer thailändischen Ehefrau wurde am 7. Mai am Bezirksgericht Uijeongbu nach geänderter Haltung der Opferseite wiederaufgenommen.",
+        "body": "Der Prozess in dem Fall, in dem ein Ehemann seiner thailändischen Ehefrau kochendes Wasser übergegossen und ihr schwere Verbrennungen im Gesicht zugefügt haben soll, wurde am 7. Mai am Bezirksgericht Uijeongbu vor Richter Kim Jun-young von der Strafabteilung 12 wiederaufgenommen. Das Verfahren hatte nach dem Strafantrag der Staatsanwaltschaft im März bereits kurz vor dem Abschluss gestanden. Wegen einer geänderten Haltung der Opferseite wurde die Verhandlung jedoch erneut eröffnet. Entscheidend ist, dass das Opfer nun die Bestrafung des Angeklagten wünscht. Das Gericht dürfte den Fall unter Berücksichtigung dieser geänderten Position erneut prüfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Procès relancé pour brûlures infligées à une épouse thaïlandaise; la victime veut une peine",
+        "excerpt": "Le procès concernant les graves brûlures au visage d’une épouse thaïlandaise a repris le 7 mai au tribunal d’Uijeongbu après un changement de position de la victime.",
+        "body": "Le procès d’un homme accusé d’avoir versé de l’eau bouillante sur son épouse thaïlandaise, lui causant de graves brûlures au visage, a repris le 7 mai devant le tribunal de district d’Uijeongbu, sous la présidence du juge Kim Jun-young de la 12e chambre pénale à juge unique. L’affaire semblait proche de son terme après les réquisitions du parquet en mars. Toutefois, les débats ont été rouverts après un changement de position du côté de la victime. Le point central est que la victime a indiqué souhaiter que l’accusé soit puni. Le tribunal devrait réexaminer l’affaire en tenant compte de cette position modifiée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "استئناف محاكمة زوج سكب ماء مغليا على زوجته التايلاندية والضحية تطلب معاقبته",
+        "excerpt": "استؤنفت في 7 مايو بمحكمة أويجونغبو قضية إصابة زوجة تايلاندية بحروق شديدة في الوجه، بعد تغيير موقف الضحية رغم وصول المحاكمة لطلب النيابة العقوبة في مارس.",
+        "body": "استؤنفت في 7 مايو مرافعات قضية زوج متهم بسكب ماء مغلي على زوجته التايلاندية، ما تسبب لها بحروق شديدة في الوجه، أمام القاضي كيم جون يونغ في الدائرة الجنائية المنفردة رقم 12 بمحكمة أويجونغبو. وكانت القضية قد وصلت في مارس إلى مرحلة طلب النيابة للعقوبة، وبدا أنها تقترب من نهايتها. لكن المرافعات فُتحت من جديد بعد تغيير موقف جانب الضحية. ويتمثل التغيير الأساسي في أن الضحية أعلنت رغبتها في معاقبة المتهم. ومن المتوقع أن تعيد المحكمة النظر في القضية ضمن الإجراءات المستأنفة مع أخذ موقف الضحية المعدل في الاعتبار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "थाई पत्नी पर खौलता पानी डालने का मुकदमा फिर शुरू, पीड़िता ने सजा चाही",
+        "excerpt": "थाई पत्नी के चेहरे पर गंभीर जलन के मामले की सुनवाई 7 मई को उइजोंगबू जिला अदालत में फिर शुरू हुई, क्योंकि मार्च में अभियोजन की मांग के बाद पीड़िता का रुख बदला।",
+        "body": "थाई पत्नी पर खौलता पानी डालकर उसके चेहरे पर गंभीर जलन पहुंचाने के मामले में मुकदमे की दलीलें 7 मई को उइजोंगबू जिला अदालत की आपराधिक एकल पीठ 12 में न्यायाधीश किम जून-यंग के समक्ष फिर शुरू हुईं। यह मामला मार्च में अभियोजन पक्ष की सजा संबंधी मांग तक पहुंच चुका था और सुनवाई समाप्ति के चरण में मानी जा रही थी। हालांकि, पीड़िता पक्ष के रुख में बदलाव के बाद दलीलें दोबारा खोली गईं। मुख्य बदलाव यह है कि पीड़िता ने आरोपी को दंडित किए जाने की इच्छा जताई है। अदालत अब पुनः शुरू हुई प्रक्रिया में बदले हुए रुख को ध्यान में रखते हुए मामले की फिर समीक्षा कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Sidang Suami Siram Istri Thailand dengan Air Mendidih Dibuka Lagi, Korban Ingin Hukuman",
+        "excerpt": "Sidang kasus luka bakar berat di wajah istri asal Thailand kembali digelar pada 7 Mei di Pengadilan Distrik Uijeongbu setelah pihak korban mengubah sikap.",
+        "body": "Sidang kasus seorang suami yang diduga menyiram istrinya asal Thailand dengan air mendidih hingga menyebabkan luka bakar berat di wajah kembali dibuka pada 7 Mei di Pengadilan Distrik Uijeongbu, dipimpin Hakim Kim Jun-young dari Pengadilan Pidana tunggal 12. Perkara ini sebelumnya sudah memasuki tahap akhir setelah jaksa menyampaikan tuntutan pada Maret. Namun, persidangan dilanjutkan kembali karena pihak korban mengubah sikap. Perubahan utamanya adalah korban menyatakan ingin terdakwa dihukum. Majelis diperkirakan akan meninjau kembali perkara ini dalam proses yang dibuka lagi dengan mempertimbangkan sikap terbaru korban. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "a0cf145555db",
     "slug": "구동휘-ls-mnm-대표-3년-연속-직접-나무-심어-도심-탄소-저감-앞장-824746",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Hyundai Perpanjang Sponsor Paviliun Korea Biennale Venesia hingga 2034",
         "excerpt": "Hyundai Motor menyatakan pada tanggal 6 bahwa dukungan untuk pameran Paviliun Korea di Biennale Venesia, ajang seni internasional besar, akan berlanjut hingga 2034.",
         "body": "Hyundai Motor mengumumkan pada tanggal 6 bahwa pihaknya akan terus mensponsori pameran Paviliun Korea di Biennale Venesia hingga 2034. Dukungan Hyundai untuk paviliun tersebut telah berlangsung sejak 2015, dan pengumuman ini menegaskan kelanjutan komitmen jangka panjang itu. Biennale Venesia dikenal sebagai salah satu pameran seni internasional terbesar, sementara Paviliun Korea menjadi ruang untuk memperkenalkan seni kontemporer Korea kepada audiens luar negeri. Perpanjangan sponsor ini memberi stabilitas bagi operasional paviliun dan persiapan pameran. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a66cd8d29b60",
-    "slug": "현대차-베니스비엔날레-한국관-후원-2015년부터-2034년까지-지속-266797",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T17:58:44.062Z",
-    "updatedAt": "2026-05-06T17:58:44.062Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12037606",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12037606",
-    "titleFingerprint": "084a9b585ecc06bd187f1a6cb99796192072f5fa",
-    "dedupKeys": [
-      "a66cd8d29b6093a96b44a57a43643c317ac58ac8",
-      "084a9b585ecc06bd187f1a6cb99796192072f5fa",
-      "d9d644f4e8dfb82f4e291f247d79a28c5615ef81"
-    ],
-    "imageUrl": "/images/articles/a66cd8d29b60.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현대차, 베니스비엔날레 한국관 후원 2034년까지 연장",
-        "excerpt": "현대자동차가 6일 세계 최대 규모 국제미술전 베니스비엔날레 한국관 후원을 2034년까지 이어가며 2015년부터 계속된 한국 현대미술 지원을 연장한다고 밝혔다.",
-        "body": "현대자동차는 6일 세계 최대 규모 국제미술전인 베니스비엔날레의 한국관 후원을 2034년까지 지속한다고 밝혔다. 이번 결정은 2015년부터 이어 온 한국관 지원을 장기 연장하는 내용이다. 베니스비엔날레 한국관은 한국 현대미술의 실험성을 국제 무대에 소개하는 주요 창구로 꼽힌다. 현대차는 기존 후원 기간을 늘려 한국 현대미술이 해외 관객과 만나는 기반을 계속 제공하게 된다. 장기 후원은 한국관 운영의 지속성과 국제 미술계 내 한국 현대미술의 노출 확대에 의미가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hyundai Extends Venice Biennale Korean Pavilion Support to 2034",
-        "excerpt": "Hyundai Motor said on the 6th it will continue sponsoring the Korean Pavilion at the Venice Biennale through 2034, extending support that began in 2015.",
-        "body": "Hyundai Motor announced on the 6th that it will continue supporting the Korean Pavilion at the Venice Biennale, one of the world’s largest international art exhibitions, through 2034. The decision extends a sponsorship that has continued since 2015. The Korean Pavilion at the Venice Biennale is regarded as a key platform for presenting the experimental character of Korean contemporary art on the global stage. By lengthening its support period, Hyundai will continue to provide a foundation for Korean contemporary art to meet international audiences. The long-term sponsorship is meaningful for the pavilion’s continuity and for broader exposure of Korean contemporary art in the global art scene. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "現代自、ベネチア・ビエンナーレ韓国館支援を2034年まで延長",
-        "excerpt": "現代自動車は6日、世界最大級の国際美術展ベネチア・ビエンナーレ韓国館への支援を2034年まで継続し、2015年からの後援を延長すると明らかにした。",
-        "body": "現代自動車は6日、世界最大級の国際美術展であるベネチア・ビエンナーレの韓国館への支援を2034年まで継続すると発表した。今回の決定は、2015年から続けてきた韓国館支援を長期的に延長するものだ。ベネチア・ビエンナーレ韓国館は、韓国現代美術の実験性を国際舞台に紹介する主要な窓口とされる。現代自は後援期間を延ばすことで、韓国現代美術が海外の観客と出会う基盤を引き続き提供する。長期支援は韓国館運営の継続性と、国際美術界における韓国現代美術の露出拡大に意味がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "现代汽车将赞助威尼斯双年展韩国馆延长至2034年",
-        "excerpt": "现代汽车6日表示，将把对世界最大规模国际美术展威尼斯双年展韩国馆的赞助延续至2034年，延长自2015年以来的支持。",
-        "body": "现代汽车6日宣布，将继续赞助世界最大规模国际美术展威尼斯双年展韩国馆，期限延长至2034年。此次决定意味着自2015年以来持续进行的韩国馆支持将长期延续。威尼斯双年展韩国馆被视为向国际舞台介绍韩国当代艺术实验性的重要窗口。现代汽车通过延长赞助期限，将继续为韩国当代艺术接触海外观众提供基础。长期赞助对于韩国馆运营的连续性，以及扩大韩国当代艺术在国际艺术界的曝光具有意义。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hyundai amplía hasta 2034 su apoyo al Pabellón de Corea en Venecia",
-        "excerpt": "Hyundai Motor informó el día 6 que seguirá patrocinando el Pabellón de Corea en la Bienal de Venecia hasta 2034, prolongando el apoyo iniciado en 2015.",
-        "body": "Hyundai Motor anunció el día 6 que continuará apoyando el Pabellón de Corea en la Bienal de Venecia, una de las mayores exposiciones internacionales de arte del mundo, hasta 2034. La decisión amplía a largo plazo el patrocinio que mantiene desde 2015. El Pabellón de Corea en la Bienal de Venecia es considerado una plataforma clave para presentar en la escena internacional el carácter experimental del arte contemporáneo coreano. Al extender el periodo de apoyo, Hyundai seguirá ofreciendo una base para que ese arte se encuentre con públicos extranjeros. El patrocinio prolongado tiene importancia para la continuidad del pabellón y para ampliar la presencia del arte contemporáneo coreano en el circuito artístico internacional. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hyundai estende apoio ao Pavilhão Coreano em Veneza até 2034",
-        "excerpt": "A Hyundai Motor informou no dia 6 que continuará patrocinando o Pavilhão Coreano na Bienal de Veneza até 2034, ampliando o apoio mantido desde 2015.",
-        "body": "A Hyundai Motor anunciou no dia 6 que continuará apoiando o Pavilhão Coreano na Bienal de Veneza, uma das maiores exposições internacionais de arte do mundo, até 2034. A decisão amplia, em longo prazo, o patrocínio mantido desde 2015. O Pavilhão Coreano na Bienal de Veneza é considerado uma importante vitrine para apresentar ao cenário internacional o caráter experimental da arte contemporânea coreana. Ao estender o período de apoio, a Hyundai continuará oferecendo uma base para que essa arte encontre públicos estrangeiros. O patrocínio de longo prazo tem significado para a continuidade do pavilhão e para ampliar a exposição da arte contemporânea coreana no meio artístico internacional. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hyundai verlängert Förderung des Korea-Pavillons in Venedig bis 2034",
-        "excerpt": "Hyundai Motor teilte am 6. mit, den Korea-Pavillon der Biennale von Venedig bis 2034 weiter zu unterstützen und damit das seit 2015 laufende Engagement zu verlängern.",
-        "body": "Hyundai Motor gab am 6. bekannt, den Korea-Pavillon der Biennale von Venedig, einer der weltweit größten internationalen Kunstausstellungen, bis 2034 weiter zu unterstützen. Die Entscheidung verlängert die seit 2015 bestehende Förderung langfristig. Der Korea-Pavillon der Biennale von Venedig gilt als wichtige Plattform, um die Experimentierfreude koreanischer Gegenwartskunst auf der internationalen Bühne zu präsentieren. Mit der Ausweitung des Förderzeitraums stellt Hyundai weiterhin eine Grundlage bereit, über die koreanische Gegenwartskunst ein ausländisches Publikum erreicht. Die langfristige Unterstützung ist bedeutsam für die Kontinuität des Pavillons und für eine größere Sichtbarkeit koreanischer Gegenwartskunst in der internationalen Kunstwelt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hyundai prolonge son soutien au Pavillon coréen de Venise jusqu’en 2034",
-        "excerpt": "Hyundai Motor a annoncé le 6 qu’il continuera de soutenir le Pavillon coréen de la Biennale de Venise jusqu’en 2034, prolongeant un engagement lancé en 2015.",
-        "body": "Hyundai Motor a annoncé le 6 qu’il poursuivra jusqu’en 2034 son soutien au Pavillon coréen de la Biennale de Venise, l’une des plus grandes expositions internationales d’art au monde. Cette décision prolonge sur le long terme un soutien engagé depuis 2015. Le Pavillon coréen de la Biennale de Venise est considéré comme une plateforme majeure pour présenter sur la scène internationale le caractère expérimental de l’art contemporain coréen. En allongeant la période de mécénat, Hyundai continuera d’offrir une base permettant à cet art de rencontrer des publics étrangers. Ce soutien de long terme est significatif pour la continuité du pavillon et pour l’exposition accrue de l’art contemporain coréen dans le monde de l’art international. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هيونداي تمدد رعاية الجناح الكوري في بينالي البندقية حتى 2034",
-        "excerpt": "أعلنت هيونداي موتور في السادس أنها ستواصل رعاية الجناح الكوري في بينالي البندقية حتى 2034، ممددة دعما بدأ منذ عام 2015 للفن الكوري المعاصر.",
-        "body": "أعلنت هيونداي موتور في السادس أنها ستواصل دعم الجناح الكوري في بينالي البندقية، أحد أكبر المعارض الفنية الدولية في العالم، حتى عام 2034. ويأتي القرار امتدادا طويل الأمد للدعم الذي بدأ عام 2015. ويعد الجناح الكوري في بينالي البندقية منصة رئيسية للتعريف بالطابع التجريبي للفن الكوري المعاصر على الساحة الدولية. ومن خلال تمديد فترة الرعاية، ستواصل هيونداي توفير أساس يتيح للفن الكوري المعاصر لقاء الجمهور خارج كوريا. وتحمل الرعاية طويلة الأجل دلالة على استمرارية تشغيل الجناح وزيادة حضور الفن الكوري المعاصر في المشهد الفني العالمي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "हुंडई ने वेनिस बिएनाले कोरियाई पवेलियन समर्थन 2034 तक बढ़ाया",
-        "excerpt": "हुंडई मोटर ने 6 तारीख को कहा कि वह वेनिस बिएनाले के कोरियाई पवेलियन का प्रायोजन 2034 तक जारी रखेगी, जिससे 2015 से चल रहा समर्थन आगे बढ़ेगा।",
-        "body": "हुंडई मोटर ने 6 तारीख को घोषणा की कि वह दुनिया की सबसे बड़ी अंतरराष्ट्रीय कला प्रदर्शनियों में से एक वेनिस बिएनाले के कोरियाई पवेलियन को 2034 तक समर्थन जारी रखेगी। यह फैसला 2015 से जारी समर्थन को लंबी अवधि के लिए बढ़ाता है। वेनिस बिएनाले का कोरियाई पवेलियन कोरियाई समकालीन कला की प्रयोगधर्मिता को अंतरराष्ट्रीय मंच पर प्रस्तुत करने वाला प्रमुख माध्यम माना जाता है। समर्थन अवधि बढ़ाकर हुंडई कोरियाई समकालीन कला को विदेशी दर्शकों से जोड़ने का आधार देती रहेगी। दीर्घकालिक प्रायोजन पवेलियन की निरंतरता और वैश्विक कला जगत में कोरियाई समकालीन कला की अधिक उपस्थिति के लिहाज से महत्वपूर्ण है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hyundai Perpanjang Dukungan Paviliun Korea Biennale Venesia hingga 2034",
-        "excerpt": "Hyundai Motor pada tanggal 6 menyatakan akan terus mensponsori Paviliun Korea di Biennale Venesia hingga 2034, memperpanjang dukungan yang berlangsung sejak 2015.",
-        "body": "Hyundai Motor mengumumkan pada tanggal 6 bahwa perusahaan akan terus mendukung Paviliun Korea di Biennale Venesia, salah satu pameran seni internasional terbesar di dunia, hingga 2034. Keputusan ini memperpanjang dukungan jangka panjang yang telah berlangsung sejak 2015. Paviliun Korea di Biennale Venesia dipandang sebagai saluran utama untuk memperkenalkan sifat eksperimental seni kontemporer Korea di panggung internasional. Dengan memperpanjang masa sponsor, Hyundai akan terus menyediakan dasar bagi seni kontemporer Korea untuk bertemu audiens luar negeri. Dukungan jangka panjang ini bermakna bagi kesinambungan paviliun dan perluasan paparan seni kontemporer Korea di dunia seni internasional. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0f1f659d7bba",
-    "slug": "한국산-메모리-돈주고도-못사-꿩-대신-닭-중국산-사는-기업들-903927",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T17:57:41.751Z",
-    "updatedAt": "2026-05-06T17:57:41.752Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12037821",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12037821",
-    "titleFingerprint": "0f4aca60f847dc8fd7f8f235270168b0bf15e6bb",
-    "dedupKeys": [
-      "0f1f659d7bbab57cb3e1e3db9a397f693843d802",
-      "0f4aca60f847dc8fd7f8f235270168b0bf15e6bb",
-      "9965cad2124bb56a99dde7fc44068005210baaf5"
-    ],
-    "imageUrl": "/images/articles/0f1f659d7bba.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국산 메모리 품귀에 중국산 대체 구매 확산, 가격 급등의 역설",
-        "excerpt": "메모리 반도체 가격이 급등하면서 한국 반도체 기업은 사상 유례없는 실적을 내고 있지만, 공급 부족 속에 기업들이 중국산을 대체 구매하며 중국 업체의 시장 안착 기회가 커지고 있다.",
-        "body": "메모리 반도체 가격 급등으로 한국 반도체 기업들이 역사상 유례없는 규모의 실적을 내고 있는 가운데, 글로벌 기업들 사이에서는 한국산 메모리를 돈을 주고도 구하기 어렵다는 분위기가 확산되고 있다. 이에 일부 기업은 ‘꿩 대신 닭’처럼 중국산 메모리를 대체 구매하고 있다. 가격 상승은 한국 기업의 실적을 밀어 올리는 요인이지만, 동시에 중국 기업이 본격적으로 시장에 안착할 수 있는 기회를 제공하고 있다. 공급 부족과 가격 급등이 이어질 경우 중국산 메모리 채택 흐름은 더 주목받을 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korean Memory Shortage Pushes Firms Toward Chinese Alternatives",
-        "excerpt": "As memory chip prices surge, Korean semiconductor firms are posting unprecedented results, while shortages are leading companies to buy Chinese memory and giving Chinese suppliers a foothold.",
-        "body": "As memory semiconductor prices rise sharply, Korean chipmakers are delivering results on a scale described as unprecedented. At the same time, global companies are facing a market in which Korean memory is difficult to secure even when they are willing to pay. Some firms are therefore turning to Chinese memory as a substitute. The price surge is boosting Korean companies’ earnings, but it is also creating an opportunity for Chinese companies to establish themselves more firmly in the market. If shortages and high prices continue, the shift toward Chinese memory purchases could draw further attention. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国製メモリー不足で中国製代替購入が拡大、価格急騰の逆説",
-        "excerpt": "メモリー半導体価格の急騰で韓国半導体企業は過去に例のない業績を上げる一方、供給不足を背景に企業が中国製を代替購入し、中国勢の市場定着機会が広がっている。",
-        "body": "メモリー半導体価格の急騰により、韓国の半導体企業は歴史的にも例のない規模の業績を上げている。一方で、グローバル企業の間では、韓国製メモリーは代金を払っても入手しにくいとの見方が広がっている。そのため一部企業は、代替品として中国製メモリーを購入している。価格上昇は韓国企業の業績を押し上げる要因だが、同時に中国企業が本格的に市場へ定着する機会にもなっている。供給不足と高値が続けば、中国製メモリー採用の流れはさらに注目される可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国存储芯片紧缺推高中国替代采购，涨价背后的市场变化",
-        "excerpt": "存储半导体价格飙升使韩国半导体企业取得空前业绩，但供应紧张也促使企业转向采购中国存储产品，为中国厂商进入市场提供机会。",
-        "body": "随着存储半导体价格大幅上涨，韩国半导体企业正取得历史上少见的大规模业绩。与此同时，在全球企业之间，韩国存储产品即使愿意付款也难以买到的情况正在显现。因此，部分企业开始像寻找替代品一样采购中国存储产品。价格上涨推动了韩国企业业绩，但也反过来为中国企业正式在市场站稳脚跟提供了机会。如果供应紧张和价格高企持续，中国存储产品的采购趋势可能受到更多关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Escasez de memoria coreana impulsa compras alternativas chinas",
-        "excerpt": "El fuerte aumento de los precios de los chips de memoria eleva los resultados de las empresas coreanas, pero la falta de suministro lleva a compañías globales a comprar productos chinos.",
-        "body": "El encarecimiento de los semiconductores de memoria está llevando a las empresas coreanas del sector a registrar resultados de una escala sin precedentes. Sin embargo, entre las compañías globales crece la percepción de que la memoria coreana es difícil de conseguir incluso pagando. Por ello, algunas empresas están comprando memoria china como alternativa. La subida de precios impulsa las ganancias de las compañías coreanas, pero al mismo tiempo abre una oportunidad para que las empresas chinas se asienten de forma más clara en el mercado. Si continúan la escasez y los altos precios, esta tendencia podría recibir más atención. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Escassez de memória coreana leva empresas a comprar alternativas chinesas",
-        "excerpt": "Com a disparada dos preços de chips de memória, empresas coreanas têm resultados inéditos, mas a falta de oferta faz companhias globais recorrerem a produtos chineses.",
-        "body": "A forte alta dos preços dos semicondutores de memória está levando as empresas coreanas do setor a registrar resultados em escala sem precedentes. Ao mesmo tempo, entre companhias globais cresce a percepção de que a memória coreana é difícil de obter mesmo com pagamento. Por isso, algumas empresas estão comprando memória chinesa como alternativa. A alta de preços impulsiona o desempenho das companhias coreanas, mas também cria uma oportunidade para que empresas chinesas se estabeleçam no mercado. Se a escassez e os preços elevados continuarem, a adoção de memória chinesa poderá ganhar mais atenção. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Mangel an koreanischem Speicher treibt Firmen zu chinesischen Alternativen",
-        "excerpt": "Steigende Preise für Speicherchips bescheren koreanischen Halbleiterfirmen außergewöhnliche Ergebnisse, während Engpässe Unternehmen zum Kauf chinesischer Alternativen bewegen.",
-        "body": "Der starke Preisanstieg bei Speicherhalbleitern sorgt dafür, dass koreanische Chipunternehmen Ergebnisse in historisch beispiellosem Umfang erzielen. Zugleich verbreitet sich unter globalen Unternehmen der Eindruck, dass koreanischer Speicher selbst gegen Bezahlung schwer zu bekommen ist. Einige Firmen greifen deshalb ersatzweise zu chinesischem Speicher. Der Preisanstieg stärkt zwar die Erträge koreanischer Unternehmen, bietet chinesischen Firmen aber zugleich die Chance, sich im Markt fester zu etablieren. Sollten Engpässe und hohe Preise anhalten, könnte der Kauf chinesischer Speicherprodukte stärker in den Fokus rücken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La pénurie de mémoire coréenne pousse les entreprises vers la Chine",
-        "excerpt": "La flambée des prix des puces mémoire dope les résultats des groupes coréens, mais les difficultés d’approvisionnement conduisent des entreprises à acheter des alternatives chinoises.",
-        "body": "La forte hausse des prix des semi-conducteurs de mémoire permet aux entreprises coréennes du secteur d’enregistrer des performances d’une ampleur sans précédent. Dans le même temps, des entreprises mondiales constatent qu’il devient difficile d’obtenir de la mémoire coréenne même en payant. Certaines se tournent donc vers des produits chinois comme solution de remplacement. Cette hausse des prix soutient les résultats des sociétés coréennes, mais elle offre aussi aux entreprises chinoises une occasion de s’installer plus solidement sur le marché. Si les pénuries et les prix élevés persistent, ces achats chinois pourraient attirer davantage l’attention. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نقص الذاكرة الكورية يدفع الشركات إلى بدائل صينية مع قفزة الأسعار",
-        "excerpt": "مع ارتفاع أسعار رقائق الذاكرة، تحقق شركات أشباه الموصلات الكورية نتائج غير مسبوقة، لكن صعوبة الحصول على المنتج الكوري تدفع شركات عالمية إلى شراء بدائل صينية.",
-        "body": "أدى الارتفاع الحاد في أسعار أشباه موصلات الذاكرة إلى تحقيق الشركات الكورية العاملة في القطاع نتائج بحجم غير مسبوق تاريخيا. وفي المقابل، تتزايد بين الشركات العالمية قناعة بأن الحصول على الذاكرة الكورية بات صعبا حتى عند الاستعداد للدفع. لذلك بدأت بعض الشركات شراء ذاكرة صينية كبديل. ارتفاع الأسعار يدعم أداء الشركات الكورية، لكنه في الوقت نفسه يمنح الشركات الصينية فرصة للتمركز بجدية في السوق. وإذا استمر نقص المعروض وارتفاع الأسعار، فقد يحظى اتجاه شراء الذاكرة الصينية بمزيد من الاهتمام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई मेमोरी की कमी से चीनी विकल्पों की खरीद बढ़ी",
-        "excerpt": "मेमोरी चिप की कीमतों में तेज उछाल से कोरियाई सेमीकंडक्टर कंपनियां अभूतपूर्व नतीजे दे रही हैं, लेकिन कमी के कारण वैश्विक कंपनियां चीनी मेमोरी खरीद रही हैं।",
-        "body": "मेमोरी सेमीकंडक्टर की कीमतों में तेज बढ़ोतरी के बीच कोरियाई सेमीकंडक्टर कंपनियां ऐतिहासिक रूप से अभूतपूर्व पैमाने के प्रदर्शन दर्ज कर रही हैं। दूसरी ओर, वैश्विक कंपनियों के बीच यह स्थिति बन रही है कि कोरियाई मेमोरी भुगतान करने पर भी आसानी से उपलब्ध नहीं है। इसलिए कुछ कंपनियां विकल्प के रूप में चीनी मेमोरी खरीद रही हैं। कीमतों में उछाल कोरियाई कंपनियों की कमाई को सहारा दे रहा है, लेकिन यही स्थिति चीनी कंपनियों को बाजार में टिकने का अवसर भी दे रही है। यदि कमी और ऊंची कीमतें जारी रहती हैं, तो चीनी मेमोरी अपनाने की प्रवृत्ति अधिक ध्यान खींच सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kelangkaan Memori Korea Dorong Perusahaan Membeli Produk China",
-        "excerpt": "Lonjakan harga chip memori membuat perusahaan semikonduktor Korea mencetak kinerja luar biasa, tetapi pasokan yang sulit mendorong perusahaan global membeli memori China.",
-        "body": "Kenaikan tajam harga semikonduktor memori membuat perusahaan chip Korea mencatat kinerja dalam skala yang belum pernah terjadi sebelumnya. Namun, di kalangan perusahaan global muncul situasi bahwa memori buatan Korea sulit diperoleh meski bersedia membayar. Karena itu, sebagian perusahaan membeli memori China sebagai pengganti. Kenaikan harga memang mendorong kinerja perusahaan Korea, tetapi pada saat yang sama memberi peluang bagi perusahaan China untuk mulai mapan di pasar. Jika kekurangan pasokan dan harga tinggi berlanjut, tren pembelian memori China dapat semakin menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1ba7a4b833e8",
-    "slug": "삼전닉스-생산확대-올해는-어려워-내년에도-메모리값-폭등-814640",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T17:56:43.462Z",
-    "updatedAt": "2026-05-06T17:56:43.462Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12037822",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12037822",
-    "titleFingerprint": "bb5c772e569d2ce6a022ff0181048a00ccf7f28b",
-    "dedupKeys": [
-      "1ba7a4b833e81d3ac37eb1f39a2136ecfa033f6f",
-      "bb5c772e569d2ce6a022ff0181048a00ccf7f28b",
-      "a19cdb01708a0345da08261a82101cd909271467"
-    ],
-    "imageUrl": "/images/articles/1ba7a4b833e8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "메모리 반도체 가격 10배 급등, 삼전·하이닉스 생산확대 올해 난항",
-        "excerpt": "삼성전자와 SK하이닉스의 올해 메모리 생산 확대가 쉽지 않은 가운데, 구조적 수요 증가로 1년 새 10배 넘게 오른 메모리 반도체 가격 상승세가 내년에도 이어질 전망이다.",
-        "body": "메모리 반도체 가격 상승세가 올해도 쉽게 진정되기 어려운 흐름을 보이고 있다. 삼성전자와 SK하이닉스의 생산 확대가 올해 안에 충분히 이뤄지기 어렵다는 관측 속에, 1년 전에 비해 10배 이상 오른 메모리 반도체 가격은 구조적 수요 증가의 영향을 받고 있다. 지난해 하반기만 해도 메모리 반도체 시장은 공급과 수요 변화에 민감하게 움직였지만, 현재는 메모리 수요 자체가 확대되는 흐름이 가격을 떠받치는 핵심 요인으로 거론된다. 이에 따라 생산 확대가 제한되는 동안 가격 강세가 이어질 수 있으며, 내년에도 메모리 가격 급등세가 지속될 가능성이 제기된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Memory Chip Prices Surge Tenfold as Samsung and SK Hynix Face Output Limits",
-        "excerpt": "As Samsung Electronics and SK Hynix struggle to expand memory output this year, structural demand growth is keeping prices more than ten times higher than a year ago and may extend the rally into next year.",
-        "body": "Memory semiconductor prices are showing little sign of stabilizing this year. With Samsung Electronics and SK Hynix expected to face difficulty expanding production sufficiently within the year, prices that have risen more than tenfold from a year earlier are being supported by structural growth in demand. Even in the second half of last year, the memory market was sensitive to changes in supply and demand, but the current driver is broader expansion in memory demand itself. As production increases remain limited, firm pricing may continue, and the possibility is being raised that memory prices could keep surging next year as well. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "メモリー半導体価格が10倍超に急騰、サムスン・SKの増産は今年難航",
-        "excerpt": "サムスン電子とSKハイニックスの今年のメモリー増産が容易でない中、構造的な需要増により1年前の10倍超となった価格上昇が来年も続く見通しだ。",
-        "body": "メモリー半導体価格の上昇は、今年も簡単には落ち着かない流れを見せている。サムスン電子とSKハイニックスによる生産拡大が年内に十分進みにくいとの見方がある中、1年前に比べて10倍以上に上がったメモリー半導体価格は、構造的な需要増の影響を受けている。昨年下半期だけを見ても、メモリー半導体市場は供給と需要の変化に敏感に動いていたが、現在はメモリー需要そのものの拡大が価格を支える主な要因とされる。生産拡大が限られる間、価格の強含みが続く可能性があり、来年もメモリー価格の急騰が続くとの見方が出ている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "存储芯片价格一年涨超10倍，三星与SK海力士今年扩产承压",
-        "excerpt": "在三星电子和SK海力士今年难以充分扩大存储芯片产能的情况下，结构性需求增长支撑一年涨逾10倍的价格，涨势或延续至明年。",
-        "body": "存储半导体价格的上涨势头今年仍难以轻易平息。在市场认为三星电子和SK海力士今年内难以充分扩大产量的背景下，较一年前上涨10倍以上的存储半导体价格，正受到结构性需求增长的支撑。即便在去年下半年，存储半导体市场也对供需变化十分敏感；而当前，被视为支撑价格的核心因素，是存储需求本身正在扩大。因此，在扩产受限期间，价格强势可能持续，明年存储价格继续大幅上涨的可能性也被提出。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Memorias suben más de diez veces y Samsung y SK Hynix no logran ampliar oferta",
-        "excerpt": "Samsung Electronics y SK Hynix afrontan dificultades para ampliar la producción este año, mientras la demanda estructural mantiene los chips de memoria más de diez veces por encima de hace un año.",
-        "body": "Los precios de los semiconductores de memoria muestran pocas señales de estabilizarse este año. En medio de la expectativa de que Samsung Electronics y SK Hynix no puedan ampliar suficientemente la producción dentro del año, los precios, que han subido más de diez veces frente a hace un año, están siendo impulsados por un aumento estructural de la demanda. Ya en la segunda mitad del año pasado, el mercado de memoria reaccionaba con sensibilidad a los cambios de oferta y demanda, pero ahora el factor central es la expansión de la propia demanda de memoria. Mientras la ampliación de producción siga limitada, la fortaleza de precios podría continuar, y se plantea la posibilidad de que el alza se prolongue también el próximo año. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Memórias sobem mais de dez vezes e Samsung e SK Hynix enfrentam limite de produção",
-        "excerpt": "Samsung Electronics e SK Hynix têm dificuldade para ampliar a produção de memória este ano, enquanto a demanda estrutural mantém os preços mais de dez vezes acima do nível de um ano atrás.",
-        "body": "Os preços dos semicondutores de memória dão poucos sinais de estabilização neste ano. Com a expectativa de que Samsung Electronics e SK Hynix tenham dificuldade para ampliar suficientemente a produção ainda este ano, os preços, que subiram mais de dez vezes em relação a um ano antes, seguem sustentados pelo crescimento estrutural da demanda. Já no segundo semestre do ano passado, o mercado de memória reagia com sensibilidade às mudanças de oferta e demanda, mas agora o principal fator é a expansão da própria demanda por memória. Enquanto a ampliação da produção permanecer limitada, os preços podem seguir fortes, e há possibilidade de novas altas também no próximo ano. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Speicherchippreise steigen um mehr als das Zehnfache, Samsung und SK Hynix mit Engpässen",
-        "excerpt": "Samsung Electronics und SK Hynix können die Speicherproduktion dieses Jahr nur schwer ausweiten, während strukturell höhere Nachfrage die Preise mehr als zehnmal über Vorjahr hält.",
-        "body": "Die Preise für Speicherhalbleiter zeigen auch in diesem Jahr kaum Anzeichen einer Beruhigung. Da Samsung Electronics und SK Hynix ihre Produktion voraussichtlich nicht ausreichend innerhalb des Jahres ausweiten können, werden Preise, die gegenüber dem Vorjahr um mehr als das Zehnfache gestiegen sind, durch strukturell wachsende Nachfrage gestützt. Schon in der zweiten Hälfte des vergangenen Jahres reagierte der Speichermarkt empfindlich auf Veränderungen bei Angebot und Nachfrage. Derzeit gilt jedoch die Ausweitung der Speichernachfrage selbst als zentraler Preistreiber. Solange die Produktionsausweitung begrenzt bleibt, könnten die hohen Preise anhalten, und auch für das kommende Jahr wird ein weiterer starker Anstieg der Speicherpreise möglich genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les prix des puces mémoire ont été multipliés par plus de dix, Samsung et SK Hynix freinés",
-        "excerpt": "Samsung Electronics et SK Hynix peinent à accroître leur production cette année, tandis que la demande structurelle maintient les prix des mémoires à plus de dix fois leur niveau d’il y a un an.",
-        "body": "La hausse des prix des semi-conducteurs mémoire ne montre guère de signes d’apaisement cette année. Alors que Samsung Electronics et SK Hynix devraient avoir du mal à augmenter suffisamment leur production d’ici la fin de l’année, les prix, plus de dix fois supérieurs à ceux d’il y a un an, sont soutenus par une progression structurelle de la demande. Dès le second semestre de l’an dernier, le marché des mémoires réagissait fortement aux variations de l’offre et de la demande, mais le facteur central actuel est l’expansion de la demande de mémoire elle-même. Tant que l’augmentation de production restera limitée, la fermeté des prix pourrait se poursuivre, avec la possibilité d’une nouvelle flambée l’an prochain. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسعار شرائح الذاكرة تقفز أكثر من عشرة أضعاف وسامسونغ وSK هاينكس تواجهان صعوبة في التوسع",
-        "excerpt": "تواجه سامسونغ إلكترونيكس وSK هاينكس صعوبة في زيادة إنتاج الذاكرة هذا العام، فيما يدعم نمو الطلب الهيكلي أسعارا تجاوزت عشرة أضعاف مستواها قبل عام.",
-        "body": "لا تظهر أسعار أشباه موصلات الذاكرة مؤشرات واضحة على الهدوء هذا العام. ففي ظل توقعات بصعوبة قيام سامسونغ إلكترونيكس وSK هاينكس بتوسيع الإنتاج بما يكفي خلال العام، تتلقى الأسعار، التي ارتفعت بأكثر من عشرة أضعاف مقارنة بالعام السابق، دعما من نمو هيكلي في الطلب. وحتى في النصف الثاني من العام الماضي، كان سوق الذاكرة يتحرك بحساسية تجاه تغيرات العرض والطلب، لكن العامل الرئيسي حاليا هو اتساع الطلب على الذاكرة نفسها. ومع بقاء زيادة الإنتاج محدودة، قد تستمر قوة الأسعار، كما تثار إمكانية استمرار القفزة في أسعار الذاكرة خلال العام المقبل أيضا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मेमोरी चिप कीमतें दस गुना से अधिक चढ़ीं, सैमसंग और SK हाइनिक्स का विस्तार मुश्किल",
-        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स और SK हाइनिक्स के लिए इस साल मेमोरी उत्पादन बढ़ाना कठिन दिख रहा है, जबकि संरचनात्मक मांग वृद्धि ने कीमतों को एक साल पहले से दस गुना से अधिक ऊंचा रखा है।",
-        "body": "मेमोरी सेमीकंडक्टर कीमतों में तेजी इस साल भी आसानी से शांत होती नहीं दिख रही है। सैमसंग इलेक्ट्रॉनिक्स और SK हाइनिक्स के लिए वर्ष के भीतर उत्पादन पर्याप्त रूप से बढ़ाना कठिन माना जा रहा है, जबकि एक साल पहले की तुलना में दस गुना से अधिक बढ़ी कीमतों को मेमोरी की संरचनात्मक मांग वृद्धि से समर्थन मिल रहा है। पिछले साल की दूसरी छमाही में भी मेमोरी बाजार आपूर्ति और मांग में बदलावों के प्रति संवेदनशील था, लेकिन अब मुख्य कारण मेमोरी मांग का खुद विस्तार होना बताया जा रहा है। उत्पादन विस्तार सीमित रहने तक कीमतों की मजबूती जारी रह सकती है, और अगले साल भी मेमोरी कीमतों में तेज वृद्धि जारी रहने की संभावना उठ रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Harga Chip Memori Naik Lebih dari Sepuluh Kali, Ekspansi Samsung dan SK Hynix Tertahan",
-        "excerpt": "Samsung Electronics dan SK Hynix sulit memperluas produksi memori tahun ini, sementara kenaikan permintaan struktural membuat harga lebih dari sepuluh kali lipat dibanding setahun lalu.",
-        "body": "Kenaikan harga semikonduktor memori tampak belum mudah mereda tahun ini. Di tengah pandangan bahwa Samsung Electronics dan SK Hynix sulit memperluas produksi secara memadai dalam tahun ini, harga memori yang telah naik lebih dari sepuluh kali lipat dibanding setahun lalu ditopang oleh peningkatan permintaan struktural. Pada paruh kedua tahun lalu saja, pasar memori sudah bergerak sensitif terhadap perubahan pasokan dan permintaan, tetapi saat ini faktor utama yang menopang harga adalah perluasan permintaan memori itu sendiri. Selama ekspansi produksi masih terbatas, harga yang kuat dapat berlanjut, dan kemungkinan lonjakan harga memori berlanjut tahun depan juga mengemuka. Sumber: mk.co.kr"
       }
     }
   }
