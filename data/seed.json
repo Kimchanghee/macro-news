@@ -1,5 +1,230 @@
 [
   {
+    "id": "c20bb24edb39",
+    "slug": "pwc컨설팅-k배터리-전고체로-피지컬-ai-분야-주도권-확보를-683962",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T15:55:02.798Z",
+    "updatedAt": "2026-05-07T15:55:02.798Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039953",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039953",
+    "titleFingerprint": "17335755339834e2963248d98b1502b3cba91f8a",
+    "dedupKeys": [
+      "c20bb24edb395cbb616c2b719b71180ee0b49445",
+      "17335755339834e2963248d98b1502b3cba91f8a",
+      "358437b30e85dbef72015a8c470d89cf770a3fc3"
+    ],
+    "imageUrl": "/images/articles/c20bb24edb39.png",
+    "i18n": {
+      "ko": {
+        "title": "전고체 배터리 앞세운 K배터리, 피지컬 AI 주도권 확보 과제 부상",
+        "excerpt": "PwC컨설팅은 로봇·드론 등 피지컬 AI 상용화가 본격화되는 가운데 전고체 배터리 작동 시간과 국제 표준 경쟁이 K배터리의 핵심 과제로 떠올랐다고 짚었다.",
+        "body": "PwC컨설팅은 로봇과 드론 등 ‘피지컬 AI’가 본격적인 상용화 단계로 나아가는 과정에서 배터리가 가장 큰 제약 요인으로 부각되고 있다고 밝혔다. 특히 전고체 배터리는 작동 시간이 성패를 좌우할 핵심 기술로 거론된다. 기술이 아직 초기 단계인 만큼 국제 표준 경쟁의 중요성도 커지고 있다. K배터리가 피지컬 AI 분야에서 주도권을 확보하려면 전고체 배터리 기술력과 표준 대응을 함께 강화해야 한다는 분석이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Solid-State Batteries Put K-Battery Leadership in Physical AI in Focus",
+        "excerpt": "PwC Consulting said that as robots, drones and other physical AI move toward commercialization, battery operating time and global standards are emerging as key K-battery challenges.",
+        "body": "PwC Consulting said batteries are becoming the biggest constraint as robots, drones and other forms of “physical AI” move toward full-scale commercialization. Solid-state batteries are being highlighted as a core technology because operating time may determine success or failure. Since the technology is still in an early stage, competition over international standards is also gaining importance. The analysis says K-battery companies need to strengthen both solid-state battery capabilities and standards responses to secure leadership in physical AI. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "全固体電池でKバッテリー、フィジカルAI主導権確保が課題に",
+        "excerpt": "PwCコンサルティングは、ロボットやドローンなどフィジカルAIの商用化が進む中、全固体電池の稼働時間と国際標準競争がKバッテリーの重要課題だと指摘した。",
+        "body": "PwCコンサルティングは、ロボットやドローンなど「フィジカルAI」が本格的な商用化段階へ進む過程で、バッテリーが最大の制約要因として浮上していると明らかにした。特に全固体電池は、稼働時間が成否を左右する中核技術として挙げられる。技術はまだ初期段階にあるため、国際標準を巡る競争の重要性も高まっている。KバッテリーがフィジカルAI分野で主導権を確保するには、全固体電池の技術力と標準対応を同時に強化する必要があるとの分析だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "固态电池成K电池抢占实体AI主导权的关键课题",
+        "excerpt": "PwC咨询指出，随着机器人、无人机等实体AI走向商业化，固态电池续航时间和国际标准竞争正成为K电池的核心课题。",
+        "body": "PwC咨询表示，在机器人、无人机等“实体AI”迈向正式商业化的过程中，电池正成为最大的制约因素。尤其是固态电池，被认为是由运行时间决定成败的核心技术。由于相关技术仍处于早期阶段，围绕国际标准的竞争重要性也在上升。分析认为，K电池若要在实体AI领域 확보主导权，需要同时强化固态电池技术能力和标准应对能力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Baterías de estado sólido ponen a K-battery ante el reto del AI físico",
+        "excerpt": "PwC Consulting señaló que, mientras robots y drones avanzan hacia la comercialización del AI físico, la autonomía y los estándares globales son retos clave para K-battery.",
+        "body": "PwC Consulting afirmó que las baterías se están convirtiendo en la mayor limitación a medida que robots, drones y otras formas de “AI físico” avanzan hacia una comercialización plena. En particular, las baterías de estado sólido se consideran una tecnología clave porque el tiempo de funcionamiento puede determinar el éxito o el fracaso. Como la tecnología aún se encuentra en una fase inicial, también aumenta la importancia de la competencia por los estándares internacionales. El análisis indica que K-battery debe reforzar tanto su tecnología de estado sólido como su respuesta a los estándares para asegurar liderazgo en AI físico. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Baterias de estado sólido desafiam K-battery a liderar a IA física",
+        "excerpt": "A PwC Consulting afirmou que, com robôs e drones avançando para a comercialização da IA física, autonomia e padrões internacionais viram desafios centrais para K-battery.",
+        "body": "A PwC Consulting afirmou que as baterias estão se tornando a maior limitação à medida que robôs, drones e outras formas de “IA física” avançam para uma etapa de comercialização mais ampla. Em especial, as baterias de estado sólido são apontadas como uma tecnologia central, pois o tempo de operação pode definir sucesso ou fracasso. Como a tecnologia ainda está em fase inicial, a competição por padrões internacionais também ganha importância. A análise indica que a K-battery precisa fortalecer tanto a tecnologia de estado sólido quanto a resposta a padrões para garantir liderança em IA física. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Festkörperbatterien rücken K-Battery-Führung bei Physical AI in den Fokus",
+        "excerpt": "PwC Consulting erklärte, dass bei der Kommerzialisierung von Robotern, Drohnen und Physical AI die Laufzeit von Festkörperbatterien und internationale Standards zentrale K-Battery-Themen werden.",
+        "body": "PwC Consulting erklärte, dass Batterien zum größten Engpass werden, während Roboter, Drohnen und andere Formen von „Physical AI“ in die Phase breiter Kommerzialisierung vorrücken. Besonders Festkörperbatterien gelten als Schlüsseltechnologie, weil die Betriebsdauer über Erfolg oder Misserfolg entscheiden kann. Da sich die Technologie noch in einem frühen Stadium befindet, gewinnt auch der Wettbewerb um internationale Standards an Bedeutung. Die Analyse sieht für K-Battery die Notwendigkeit, sowohl die Festkörperbatterie-Technologie als auch die Reaktion auf Standards zu stärken, um in Physical AI Führung zu sichern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Batteries solides: K-battery face à l’enjeu du leadership en IA physique",
+        "excerpt": "PwC Consulting estime qu’avec la commercialisation des robots, drones et autres IA physiques, l’autonomie des batteries solides et les normes internationales deviennent cruciales pour K-battery.",
+        "body": "PwC Consulting a indiqué que les batteries deviennent la principale contrainte alors que les robots, drones et autres formes d’« IA physique » avancent vers une commercialisation à grande échelle. Les batteries solides sont particulièrement citées comme une technologie clé, car la durée de fonctionnement peut déterminer le succès ou l’échec. La technologie étant encore à un stade précoce, la concurrence autour des normes internationales gagne aussi en importance. Selon l’analyse, K-battery doit renforcer à la fois sa technologie de batterie solide et sa réponse aux normes pour prendre le leadership dans l’IA physique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بطاريات الحالة الصلبة تضع K-battery أمام تحدي قيادة الذكاء الاصطناعي المادي",
+        "excerpt": "قالت PwC Consulting إن انتقال الروبوتات والطائرات المسيرة إلى تسويق الذكاء الاصطناعي المادي يجعل زمن تشغيل بطاريات الحالة الصلبة والمنافسة على المعايير الدولية تحديين رئيسيين لـK-battery.",
+        "body": "قالت PwC Consulting إن البطاريات أصبحت أكبر قيد مع تقدم الروبوتات والطائرات المسيرة وغيرها من أشكال «الذكاء الاصطناعي المادي» نحو مرحلة التسويق الفعلي. وتبرز بطاريات الحالة الصلبة خصوصا كتقنية أساسية، لأن زمن التشغيل قد يحدد النجاح أو الفشل. وبما أن التقنية لا تزال في مرحلة مبكرة، تزداد أيضا أهمية المنافسة على المعايير الدولية. وتشير التحليلات إلى أن K-battery بحاجة إلى تعزيز قدرات بطاريات الحالة الصلبة والاستجابة للمعايير معا من أجل تأمين موقع قيادي في مجال الذكاء الاصطناعي المادي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सॉलिड-स्टेट बैटरी से Physical AI में K-battery नेतृत्व की चुनौती उभरी",
+        "excerpt": "PwC Consulting ने कहा कि रोबोट और ड्रोन जैसे Physical AI के व्यावसायीकरण के बीच सॉलिड-स्टेट बैटरी का संचालन समय और अंतरराष्ट्रीय मानक K-battery के मुख्य मुद्दे बन रहे हैं।",
+        "body": "PwC Consulting ने कहा कि रोबोट, ड्रोन और अन्य “Physical AI” के पूर्ण व्यावसायीकरण की ओर बढ़ने की प्रक्रिया में बैटरी सबसे बड़ी बाधा के रूप में उभर रही है। खासकर सॉलिड-स्टेट बैटरी को ऐसी प्रमुख तकनीक माना जा रहा है जिसमें संचालन समय सफलता या विफलता तय कर सकता है। तकनीक अभी शुरुआती चरण में है, इसलिए अंतरराष्ट्रीय मानकों को लेकर प्रतिस्पर्धा का महत्व भी बढ़ रहा है। विश्लेषण के अनुसार, Physical AI क्षेत्र में नेतृत्व हासिल करने के लिए K-battery को सॉलिड-स्टेट बैटरी तकनीक और मानक 대응 दोनों को मजबूत करना होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Baterai Solid-State Dorong Tantangan K-Battery Kuasai Physical AI",
+        "excerpt": "PwC Consulting menyebut saat robot dan drone menuju komersialisasi physical AI, durasi operasi baterai solid-state dan persaingan standar global menjadi tantangan utama K-battery.",
+        "body": "PwC Consulting menyatakan bahwa baterai menjadi kendala terbesar ketika robot, drone, dan bentuk lain dari “physical AI” bergerak menuju tahap komersialisasi penuh. Baterai solid-state khususnya disebut sebagai teknologi inti karena durasi operasi dapat menentukan keberhasilan atau kegagalan. Karena teknologinya masih berada pada tahap awal, persaingan dalam standar internasional juga semakin penting. Analisis tersebut menyebut K-battery perlu memperkuat kemampuan teknologi baterai solid-state sekaligus respons terhadap standar untuk memperoleh kepemimpinan di bidang physical AI. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "27fb735e8d72",
+    "slug": "저평가-매력에현대백화점-주가-6-쑥-394892",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T15:54:10.610Z",
+    "updatedAt": "2026-05-07T15:54:10.610Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039972",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039972",
+    "titleFingerprint": "fe79beb1b1a89aa0fc62e17af406cad26f73f3a2",
+    "dedupKeys": [
+      "27fb735e8d72ff8c1c03c16ef92a00859e6d32f5",
+      "fe79beb1b1a89aa0fc62e17af406cad26f73f3a2",
+      "07f4e3ac42fd815fa957b757bc0ae11822aca617"
+    ],
+    "imageUrl": "/images/articles/27fb735e8d72.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대백화점 주가 6%대 상승, 저평가 매력과 백화점·면세점 실적 주목",
+        "excerpt": "현대백화점 주가가 7일 실적 발표 이후 전일 대비 5.66% 오른 11만38000원에 거래되며 저평가 매력과 백화점·면세점 개선 기대가 부각됐다.",
+        "body": "현대백화점 주가가 7일 실적 발표를 마친 뒤 전일 대비 5.66% 오른 11만38000원에 거래되며 상승세를 보였다. 증권가에서는 백화점과 면세점이 함께 실적을 이끄는 쌍끌이 흐름에 주목하며 목표가를 잇달아 상향했다. 이번 주가 상승의 배경에는 실적 확인 이후 부각된 저평가 매력과 주요 사업 부문의 개선 기대가 자리했다. 백화점과 면세점이 동시에 힘을 보탠다는 평가가 이어지면서 투자심리도 회복되는 모습이다. 다만 기사에 제시된 핵심 수치는 이날 주가 상승률과 거래 가격, 목표가 상향 흐름에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hyundai Department Store Shares Rise Nearly 6% as Valuation Appeal Draws Attention",
+        "excerpt": "Hyundai Department Store shares climbed 5.66% on the 7th to 1138000 won after earnings, as analysts raised target prices on department store and duty-free momentum.",
+        "body": "Hyundai Department Store shares moved higher on the 7th after the company completed its earnings announcement, trading at 1138000 won, up 5.66% from the previous session. Securities firms highlighted a dual growth driver from the department store and duty-free businesses and continued to raise their target prices. The share-price gain was tied to renewed attention on valuation appeal after the earnings release and expectations for improvement in the company’s main business lines. Market sentiment also appeared to improve as analysts focused on the combined contribution of the department store and duty-free segments. The article’s stated figures are limited to the day’s share-price gain, trading price, and target-price upgrades. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "現代百貨店株が6％近く上昇、割安感と百貨店・免税店の業績に注目",
+        "excerpt": "現代百貨店の株価は7日、決算発表後に前日比5.66％高の1138000ウォンで取引され、割安感と百貨店・免税店の改善期待が浮上した。",
+        "body": "現代百貨店の株価は7日、決算発表を終えた後、前日比5.66％高の1138000ウォンで取引され、上昇基調を示した。証券業界では、百貨店と免税店がともに業績を支える流れに注目し、目標株価を相次いで引き上げた。今回の株価上昇の背景には、決算確認後に浮上した割安感と主要事業部門の改善期待がある。百貨店と免税店が同時に寄与しているとの評価が続き、投資心理も回復する様子を見せた。ただし、記事で示された主な数値は当日の株価上昇率、取引価格、目標株価引き上げの流れに限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "现代百货股价上涨近6%，低估值吸引力与百货免税业务受关注",
+        "excerpt": "现代百货股价7日在业绩发布后较前一交易日上涨5.66%，报1138000韩元，低估值吸引力及百货、免税业务改善预期受到关注。",
+        "body": "现代百货股价7日在完成业绩发布后走高，较前一交易日上涨5.66%，报1138000韩元。证券行业关注百货店和免税店共同拉动业绩的趋势，并接连上调目标价。此次股价上涨的背景，是业绩确认后低估值吸引力受到凸显，以及主要业务部门改善预期升温。随着市场继续评价百货店和免税店同步贡献业绩，投资情绪也出现恢复迹象。不过，原文提供的核心数据仅限于当日股价涨幅、交易价格以及目标价上调趋势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hyundai Department Store sube casi 6% por atractivo de valoración y negocios clave",
+        "excerpt": "La acción de Hyundai Department Store subió el día 7 un 5,66% hasta 1138000 wones tras sus resultados, impulsada por el atractivo de baja valoración y alzas de precios objetivo.",
+        "body": "La acción de Hyundai Department Store avanzó el día 7 tras la publicación de resultados y se negoció a 1138000 wones, un 5,66% más que en la sesión anterior. Las firmas de valores destacaron el impulso conjunto de los negocios de grandes almacenes y tiendas libres de impuestos, y elevaron sucesivamente sus precios objetivo. El alza bursátil se produjo después de que los resultados reforzaran la atención sobre su atractivo de valoración y las expectativas de mejora en sus principales divisiones. La percepción de que ambos negocios están aportando al desempeño también ayudó a recuperar el ánimo inversor. Las cifras citadas se limitan al avance diario, el precio de cotización y las subidas de precios objetivo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hyundai Department Store sobe quase 6% com valuation atrativo e foco em lojas e duty-free",
+        "excerpt": "As ações da Hyundai Department Store subiram 5,66% no dia 7, a 1138000 won, após resultados, com atenção ao valuation baixo e ao desempenho de lojas e duty-free.",
+        "body": "As ações da Hyundai Department Store avançaram no dia 7 após a divulgação de resultados, sendo negociadas a 1138000 won, alta de 5,66% frente ao pregão anterior. Corretoras destacaram a força conjunta dos negócios de lojas de departamento e duty-free e elevaram sucessivamente seus preços-alvo. A alta das ações foi associada ao maior destaque para o valuation considerado atrativo depois dos resultados e às expectativas de melhora nas principais áreas de negócio. A avaliação de que lojas de departamento e duty-free contribuem ao mesmo tempo também ajudou a recuperar o sentimento dos investidores. Os números citados no texto se limitam à alta diária, ao preço negociado e às revisões de preço-alvo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hyundai Department Store steigt fast 6%: Bewertung und Kaufhaus- sowie Duty-free-Geschäft im Fokus",
+        "excerpt": "Die Aktie von Hyundai Department Store legte am 7. nach den Ergebnissen um 5,66% auf 1138000 Won zu, da Bewertungspotenzial und die Sparten Kaufhaus und Duty-free stärker beachtet wurden.",
+        "body": "Die Aktie von Hyundai Department Store stieg am 7. nach der Veröffentlichung der Ergebnisse und wurde bei 1138000 Won gehandelt, 5,66% über dem Vortag. Wertpapierhäuser verwiesen auf den gemeinsamen Beitrag des Kaufhaus- und Duty-free-Geschäfts und hoben nacheinander ihre Kursziele an. Hintergrund des Kursanstiegs war die nach den Ergebnissen stärker beachtete Bewertungsattraktivität sowie die Erwartung einer Verbesserung in den wichtigsten Geschäftsbereichen. Die Einschätzung, dass Kaufhäuser und Duty-free zugleich zum Ergebnis beitragen, stützte auch die Anlegerstimmung. Die im Artikel genannten Kennzahlen beschränken sich auf den Tagesanstieg, den Handelspreis und die Kurszielanhebungen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hyundai Department Store gagne près de 6%, porté par sa valorisation et ses activités clés",
+        "excerpt": "L’action Hyundai Department Store a progressé de 5,66% le 7 à 1138000 wons après ses résultats, soutenue par l’attrait de valorisation et les hausses d’objectifs des analystes.",
+        "body": "L’action Hyundai Department Store a progressé le 7 après la publication de ses résultats, s’échangeant à 1138000 wons, en hausse de 5,66% par rapport à la veille. Les maisons de courtage ont mis en avant le soutien conjoint des grands magasins et des boutiques duty-free, tout en relevant successivement leurs objectifs de cours. La hausse du titre s’explique par l’attention renouvelée portée à son attrait de valorisation après les résultats et par les attentes d’amélioration dans ses principales activités. L’évaluation selon laquelle les deux segments contribuent simultanément a également soutenu le sentiment des investisseurs. Les chiffres cités se limitent à la hausse du jour, au prix coté et aux relèvements d’objectifs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم هيونداي دبارتمنت ستور يرتفع قرابة 6% مع بروز جاذبية التقييم والأعمال الرئيسية",
+        "excerpt": "ارتفع سهم هيونداي دبارتمنت ستور في اليوم السابع بنسبة 5.66% إلى 1138000 وون بعد إعلان النتائج، مع اهتمام بجاذبية التقييم وأداء المتاجر المعفاة من الرسوم.",
+        "body": "ارتفع سهم هيونداي دبارتمنت ستور في اليوم السابع بعد الانتهاء من إعلان النتائج، وتداول عند 1138000 وون، بزيادة 5.66% عن الجلسة السابقة. وركزت شركات الأوراق المالية على مساهمة مزدوجة من نشاط المتاجر الكبرى ونشاط المتاجر المعفاة من الرسوم، ورفعت الأسعار المستهدفة تباعا. وجاء صعود السهم مع بروز جاذبية التقييم بعد تأكيد النتائج، إلى جانب توقعات بتحسن قطاعات الأعمال الرئيسية. كما ساعد تقييم السوق بأن النشاطين يدعمان الأداء في الوقت نفسه على تحسن معنويات المستثمرين. وتقتصر الأرقام الواردة في المقال على نسبة ارتفاع السهم في ذلك اليوم، وسعر التداول، واتجاه رفع الأسعار المستهدفة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hyundai Department Store शेयर करीब 6% चढ़ा, कम वैल्यूएशन और मुख्य कारोबार पर फोकस",
+        "excerpt": "Hyundai Department Store का शेयर 7 तारीख को नतीजों के बाद 5.66% बढ़कर 1138000 वॉन पर कारोबार करता दिखा, जबकि ब्रोकरेज ने लक्ष्य मूल्य बढ़ाए।",
+        "body": "Hyundai Department Store का शेयर 7 तारीख को नतीजे जारी होने के बाद चढ़ा और पिछले सत्र से 5.66% बढ़कर 1138000 वॉन पर कारोबार किया। प्रतिभूति कंपनियों ने डिपार्टमेंट स्टोर और ड्यूटी-फ्री कारोबार से मिल रहे संयुक्त समर्थन पर ध्यान दिया और लक्ष्य मूल्य लगातार बढ़ाए। इस तेजी के पीछे नतीजों के बाद उभरा कम वैल्यूएशन आकर्षण और मुख्य कारोबार क्षेत्रों में सुधार की उम्मीद रही। डिपार्टमेंट स्टोर और ड्यूटी-फ्री, दोनों के साथ-साथ प्रदर्शन में योगदान देने के आकलन से निवेशक धारणा भी सुधरती दिखी। लेख में दिए गए प्रमुख आंकड़े दिन की शेयर तेजी, कारोबार मूल्य और लक्ष्य मूल्य बढ़ोतरी तक सीमित हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Hyundai Department Store Naik Hampir 6%, Valuasi Murah dan Bisnis Utama Disorot",
+        "excerpt": "Saham Hyundai Department Store pada tanggal 7 naik 5,66% ke 1138000 won setelah rilis kinerja, didorong perhatian pada valuasi murah dan bisnis department store serta duty-free.",
+        "body": "Saham Hyundai Department Store menguat pada tanggal 7 setelah perusahaan menyelesaikan pengumuman kinerja, diperdagangkan di 1138000 won atau naik 5,66% dari hari sebelumnya. Kalangan sekuritas menyoroti dorongan ganda dari bisnis department store dan duty-free, lalu berturut-turut menaikkan target harga. Kenaikan saham ini dilatarbelakangi oleh daya tarik valuasi yang kembali menonjol setelah kinerja diumumkan serta ekspektasi perbaikan pada lini bisnis utama. Penilaian bahwa department store dan duty-free sama-sama menopang kinerja juga terlihat membantu pemulihan sentimen investor. Angka yang disebut dalam artikel terbatas pada kenaikan saham hari itu, harga perdagangan, dan tren kenaikan target harga. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4131c4dfc235",
+    "slug": "여보세요-한마디에-털린다ai-음성복제-신종-사기-주의보-553429",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-07T15:53:01.556Z",
+    "updatedAt": "2026-05-07T15:53:01.556Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12040000",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12040000",
+    "titleFingerprint": "48ab417ef739bb73c5b1a74afc6cded1fc45530d",
+    "dedupKeys": [
+      "4131c4dfc2358862c18ceb65fff805d312c371e3",
+      "48ab417ef739bb73c5b1a74afc6cded1fc45530d",
+      "27144ace4c35943be9b8cc531291623bc5997041"
+    ],
+    "imageUrl": "/images/articles/4131c4dfc235.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 음성복제 사기 주의보, 모르는 전화 ‘여보세요’도 조심해야",
+        "excerpt": "모르는 번호로 온 전화에 무심코 ‘여보세요’라고 답하면 음성 정보가 탈취될 수 있다는 경고가 나오며 AI 음성복제 신종 사기 확산 가능성이 제기됐다.",
+        "body": "모르는 번호로 걸려 온 전화에 무심코 “여보세요”라고 답했다가 음성 정보가 탈취될 수 있다는 경고가 나왔다. 인공지능(AI)을 활용해 짧은 음성만으로도 목소리를 복제하는 신종 사기 가능성이 제기된 것이다. 이번 경고는 전화 응답 과정에서 확보된 음성 정보가 악용될 수 있다는 점에 초점을 맞춘다. 특히 발신자가 불분명한 전화에 습관적으로 응답하는 일상적 행동이 사기 위험으로 이어질 수 있다는 우려가 커지고 있다. 관련 사기가 확산할 경우 개인 음성 인증과 가족·지인 사칭 피해에 대한 경계도 높아질 전망이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "AI Voice-Cloning Scam Alert: Even Saying ‘Hello’ to Unknown Calls May Be Risky",
+        "excerpt": "A warning says voice data could be stolen when people casually answer unknown calls with “hello,” raising concern over possible AI voice-cloning scams.",
+        "body": "A warning has been issued that voice information could be stolen when someone casually answers a call from an unknown number by saying “hello.” The concern centers on a new type of scam that uses artificial intelligence to clone a person’s voice from short audio samples. The warning focuses on the possibility that voice data captured during a phone response could be misused. Ordinary habits, such as answering calls from unclear senders without caution, may therefore create fraud risks. If such scams spread, vigilance may also grow around voice authentication and impersonation of family members or acquaintances. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "AI音声複製詐欺に注意、知らない電話の「もしもし」もリスクに",
+        "excerpt": "知らない番号からの電話に何気なく「もしもし」と答えるだけで音声情報が盗まれる恐れがあるとの警告が出され、AI音声複製詐欺への懸念が高まっている。",
+        "body": "知らない番号からかかってきた電話に、何気なく「もしもし」と答えただけで音声情報が盗まれる可能性があるとの警告が出された。短い音声をもとに人工知能（AI）で声を複製する新たな詐欺の可能性が指摘されている。今回の警告は、電話応答の過程で得られた音声情報が悪用され得る点に焦点を当てている。発信者が不明な電話に習慣的に応じる日常的な行動が、詐欺リスクにつながる恐れがある。こうした手口が広がれば、音声認証や家族・知人を装う被害への警戒も高まりそうだ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "AI语音克隆诈骗预警：陌生来电一句“喂”也需警惕",
+        "excerpt": "有警告称，接到陌生号码来电时随口说“喂”，语音信息可能被窃取，引发对AI语音克隆新型诈骗扩散的担忧。",
+        "body": "有警告称，接到陌生号码来电时，如果不经意回答“喂”，语音信息可能被窃取。相关担忧集中在一种利用人工智能（AI）通过短音频复制个人声音的新型诈骗可能性上。此次警告重点指出，电话应答过程中获得的语音信息可能被滥用。尤其是对来电者不明的电话习惯性接听，可能使日常行为转化为诈骗风险。如果此类诈骗扩散，围绕个人语音认证以及冒充家人、熟人的 피해警惕也可能进一步提高。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Alerta por estafas con clonación de voz por IA: cuidado al decir “hola”",
+        "excerpt": "Una advertencia señala que responder “hola” a una llamada de un número desconocido podría exponer datos de voz y elevar el riesgo de nuevas estafas con clonación por IA.",
+        "body": "Se emitió una advertencia de que la información de voz podría ser robada cuando una persona responde sin pensar “hola” a una llamada de un número desconocido. La preocupación apunta a una nueva modalidad de estafa que usa inteligencia artificial (IA) para clonar voces a partir de muestras breves. El aviso se centra en la posibilidad de que los datos de voz obtenidos durante una respuesta telefónica sean utilizados de forma indebida. Un hábito cotidiano, como contestar llamadas de remitentes poco claros, podría convertirse en un riesgo de fraude. Si estas estafas se extienden, también aumentaría la cautela sobre la autenticación por voz y la suplantación de familiares o conocidos. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Alerta de golpe com clonagem de voz por IA: até dizer “alô” exige cuidado",
+        "excerpt": "Um alerta aponta que responder “alô” a ligações de números desconhecidos pode expor dados de voz, aumentando a preocupação com golpes de clonagem por IA.",
+        "body": "Foi emitido um alerta de que informações de voz podem ser roubadas quando alguém atende sem atenção uma ligação de número desconhecido dizendo “alô”. A preocupação envolve um novo tipo de golpe que usa inteligência artificial (IA) para clonar vozes a partir de amostras curtas de áudio. O alerta destaca que dados de voz obtidos durante a resposta telefônica podem ser usados indevidamente. Assim, um hábito cotidiano, como atender chamadas de remetentes não identificados, pode gerar risco de fraude. Se esse tipo de golpe se espalhar, a vigilância sobre autenticação por voz e imitação de familiares ou conhecidos também deve aumentar. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Warnung vor KI-Stimmenklau: Schon ein „Hallo“ bei unbekannten Anrufen kann riskant sein",
+        "excerpt": "Eine Warnung besagt, dass beim Antworten auf unbekannte Anrufe mit „Hallo“ Sprachdaten abgegriffen werden könnten, was Sorgen vor neuen KI-Stimmenklon-Betrugsfällen auslöst.",
+        "body": "Es wurde gewarnt, dass Sprachinformationen gestohlen werden könnten, wenn jemand einen Anruf von einer unbekannten Nummer beiläufig mit „Hallo“ beantwortet. Im Mittelpunkt steht die Sorge vor einer neuen Betrugsform, bei der künstliche Intelligenz (KI) kurze Sprachproben nutzt, um Stimmen zu klonen. Die Warnung betont, dass bei einer Telefonantwort erfasste Sprachdaten missbraucht werden könnten. Alltägliche Gewohnheiten wie das Annehmen unklarer Anrufe können damit zu einem Betrugsrisiko werden. Sollten sich solche Maschen ausbreiten, dürfte auch die Wachsamkeit gegenüber Sprachauthentifizierung sowie der Nachahmung von Familienmitgliedern oder Bekannten steigen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Alerte aux arnaques par clonage vocal IA: dire « allô » peut suffire",
+        "excerpt": "Une alerte indique que répondre « allô » à un appel inconnu pourrait exposer des données vocales, avec un risque de nouvelles fraudes par clonage vocal IA.",
+        "body": "Une alerte a été lancée sur le risque de vol d’informations vocales lorsqu’une personne répond machinalement « allô » à un appel provenant d’un numéro inconnu. L’inquiétude porte sur une nouvelle forme d’arnaque utilisant l’intelligence artificielle (IA) pour cloner une voix à partir de courts échantillons audio. L’avertissement souligne que les données vocales obtenues lors d’une réponse téléphonique pourraient être détournées. Un geste quotidien, comme répondre à un appel dont l’expéditeur est flou, peut donc devenir un risque de fraude. Si ces arnaques se propagent, la vigilance devrait aussi augmenter autour de l’authentification vocale et de l’usurpation de proches ou de connaissances. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تحذير من احتيال استنساخ الصوت بالذكاء الاصطناعي: حتى كلمة «ألو» قد تكون خطرة",
+        "excerpt": "صدر تحذير من أن الرد على أرقام مجهولة بكلمة «ألو» قد يعرّض البيانات الصوتية للسرقة، وسط مخاوف من انتشار احتيال جديد يعتمد على استنساخ الصوت بالذكاء الاصطناعي.",
+        "body": "صدر تحذير من احتمال سرقة المعلومات الصوتية عندما يرد الشخص بلا انتباه على مكالمة من رقم مجهول بكلمة «ألو». وتتركز المخاوف على نوع جديد من الاحتيال يستخدم الذكاء الاصطناعي لاستنساخ صوت الشخص من عينات صوتية قصيرة. ويركز التحذير على إمكانية إساءة استخدام البيانات الصوتية التي يتم الحصول عليها أثناء الرد على الهاتف. لذلك قد يتحول سلوك يومي، مثل الرد على مكالمات من جهات غير واضحة، إلى خطر احتيالي. وإذا انتشرت هذه الأساليب، فقد تزداد اليقظة تجاه المصادقة الصوتية وانتحال صفة أفراد العائلة أو المعارف. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI वॉइस क्लोनिंग ठगी अलर्ट: अनजान कॉल पर ‘हैलो’ कहना भी जोखिम",
+        "excerpt": "चेतावनी दी गई है कि अनजान नंबर की कॉल पर सहजता से ‘हैलो’ कहने पर आवाज की जानकारी चोरी हो सकती है, जिससे AI वॉइस क्लोनिंग ठगी की आशंका बढ़ी है।",
+        "body": "चेतावनी जारी की गई है कि अनजान नंबर से आई कॉल पर बिना सोचे “हैलो” कहने से आवाज की जानकारी चोरी हो सकती है। चिंता एक नई तरह की ठगी को लेकर है, जिसमें कृत्रिम बुद्धिमत्ता (AI) छोटी आवाजी नमूनों से किसी व्यक्ति की आवाज की नकल कर सकती है। यह चेतावनी फोन का जवाब देने के दौरान प्राप्त आवाज डेटा के दुरुपयोग की संभावना पर केंद्रित है। कॉल करने वाले की पहचान स्पष्ट न होने पर आदतन जवाब देना भी धोखाधड़ी के जोखिम में बदल सकता है। यदि ऐसी ठगी फैलती है, तो वॉइस ऑथेंटिकेशन और परिवार या परिचितों के नाम पर impersonation को लेकर सतर्कता बढ़ सकती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Waspada Penipuan Kloning Suara AI: Jawaban ‘Halo’ ke Nomor Tak Dikenal Bisa Berisiko",
+        "excerpt": "Peringatan menyebut data suara dapat dicuri saat seseorang menjawab “halo” pada panggilan nomor tak dikenal, memicu kekhawatiran atas penipuan kloning suara AI.",
+        "body": "Sebuah peringatan menyebutkan bahwa informasi suara dapat dicuri ketika seseorang tanpa curiga menjawab “halo” pada panggilan dari nomor yang tidak dikenal. Kekhawatiran ini terkait kemungkinan munculnya penipuan baru yang memakai kecerdasan buatan (AI) untuk menggandakan suara dari sampel audio singkat. Peringatan tersebut menyoroti potensi penyalahgunaan data suara yang diperoleh saat seseorang merespons panggilan telepon. Kebiasaan sehari-hari seperti menjawab panggilan dari penelepon yang tidak jelas dapat berubah menjadi risiko penipuan. Jika modus ini menyebar, kewaspadaan terhadap autentikasi suara dan peniruan identitas keluarga atau kenalan juga diperkirakan meningkat. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "f373b2568f5e",
     "slug": "손-놓고-있다가-수억-날린다장기보유주택-매도-러시-709716",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Acro River Sky Noryangjin Disorot MaeburiTV Lewat Kata Kunci ‘10 Menit ke Yeouido’",
         "excerpt": "MaeburiTV dari Maeil Business Newspaper memperkenalkan informasi penjualan terbaru Acro River Sky di Noryangjin melalui segmen Bunyang Now bersama reporter properti Wi Ji-hye.",
         "body": "MaeburiTV dari Maeil Business Newspaper membahas Acro River Sky di Noryangjin dalam segmen Bunyang Now, yang menyampaikan informasi terbaru tentang penjualan properti. Konten ini dibuat sesuai tujuan segmen tersebut, yakni Wi Ji-hye, reporter departemen properti Maeil Business Newspaper, meliput informasi penjualan secara tekun dan menyampaikannya dengan lengkap. Judulnya memuat ungkapan “10 menit ke Yeouido”, sehingga kata kunci lokasi kompleks itu ditempatkan di depan. Di tengah berlanjutnya perhatian calon pembeli terhadap pasar Noryangjin, MaeburiTV memperkenalkan informasi penjualan terbaru melalui format video Bunyang Now. Rincian dapat dilihat di MaeburiTV Maeil Business. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d5173df00bb9",
-    "slug": "105분기째-흑자입니다전쟁-중에도-최대-실적-달성한-k기업-206900",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T22:42:36.417Z",
-    "updatedAt": "2026-05-06T22:42:36.418Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12038525",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12038525",
-    "titleFingerprint": "a7de74856885bd8d748febf6e64b88d23128b34b",
-    "dedupKeys": [
-      "d5173df00bb98c6fe0104f2e92fff91331cdd2bb",
-      "a7de74856885bd8d748febf6e64b88d23128b34b",
-      "c223de7e12a7ea53e61f3b610474a69fa145e3bd"
-    ],
-    "imageUrl": "/images/articles/d5173df00bb9.png",
-    "i18n": {
-      "ko": {
-        "title": "고려아연 1분기 사상 최대 실적, 105분기 연속 흑자 기록",
-        "excerpt": "고려아연이 올해 1분기 귀금속·핵심광물 판매 호조에 힘입어 사상 최대 분기 실적을 기록하고 105분기 연속 흑자를 이어갔다.",
-        "body": "고려아연은 올해 1분기 글로벌 지정학적 위기 속에서도 사상 최대 분기 실적을 달성했다. 이란 전쟁 등 불확실성이 커진 환경에서도 귀금속과 핵심광물 판매가 호조를 보인 것이 실적 개선의 핵심 배경으로 제시됐다. 회사는 이번 분기까지 105분기 연속 흑자를 기록하며 장기 수익성을 이어갔다. 전쟁과 공급망 불안이 겹친 시기에도 주요 제품 판매가 버팀목이 되면서 실적 안정성이 부각됐다. 향후 시장은 지정학적 리스크가 이어지는 가운데 귀금속·핵심광물 수요 흐름과 판매 지속성을 주목할 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Korea Zinc Posts Record Q1 Results, Extends Profit Streak to 105 Quarters",
-        "excerpt": "Korea Zinc posted its highest-ever quarterly results in the first quarter, helped by strong sales of precious metals and critical minerals despite geopolitical turmoil.",
-        "body": "Korea Zinc achieved its highest-ever quarterly performance in the first quarter of this year despite global geopolitical risks. The key driver was strong sales of precious metals and critical minerals, even as uncertainty grew around issues including the Iran war. The company also extended its streak of quarterly profits to 105 consecutive quarters, underscoring long-running profitability. At a time marked by war-related risks and supply-chain concerns, sales of its main products supported earnings stability. Markets are expected to watch whether demand and sales momentum for precious metals and critical minerals continue amid ongoing geopolitical uncertainty. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "高麗亜鉛、1～3月期に過去最高業績 105四半期連続黒字",
-        "excerpt": "高麗亜鉛は今年1～3月期、貴金属と核心鉱物の販売好調を背景に、地政学的危機の中でも過去最高の四半期業績を記録した。",
-        "body": "高麗亜鉛は今年1～3月期、世界的な地政学的危機の中でも過去最高の四半期業績を達成した。イラン戦争などで不確実性が高まる環境下でも、貴金属と核心鉱物の販売が好調だったことが業績改善の主な背景とされた。同社は今回の四半期まで105四半期連続の黒字を記録し、長期的な収益性を維持した。戦争や供給網不安が重なる時期にも主要製品の販売が支えとなり、業績の安定性が浮き彫りになった。今後は地政学的リスクが続く中、貴金属・核心鉱物の需要動向と販売の持続性が注目される見通しだ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "高丽亚铅一季度业绩创新高，连续105个季度盈利",
-        "excerpt": "高丽亚铅今年一季度在贵金属和核心矿物销售强劲推动下，尽管面临全球地缘政治危机，仍创下季度最高业绩。",
-        "body": "高丽亚铅今年一季度在全球地缘政治危机中仍实现史上最高季度业绩。包括伊朗战争在内的不确定性上升，但贵金属和核心矿物销售表现良好，被视为业绩改善的主要背景。公司截至本季度已连续105个季度实现盈利，延续了长期收益能力。在战争和供应链不安交织的时期，主要产品销售成为支撑，凸显了业绩稳定性。未来市场预计将关注地缘政治风险持续下，贵金属和核心矿物需求走势以及销售能否延续。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Korea Zinc logra récord trimestral y suma 105 trimestres con ganancias",
-        "excerpt": "Korea Zinc registró en el primer trimestre su mayor resultado trimestral histórico, impulsada por fuertes ventas de metales preciosos y minerales críticos.",
-        "body": "Korea Zinc logró en el primer trimestre de este año su mayor desempeño trimestral histórico pese a los riesgos geopolíticos globales. El principal factor fue la solidez de las ventas de metales preciosos y minerales críticos, incluso en un entorno de mayor incertidumbre por hechos como la guerra de Irán. La compañía acumuló así 105 trimestres consecutivos con beneficios, manteniendo una rentabilidad de largo plazo. En un periodo marcado por la guerra y las inquietudes sobre las cadenas de suministro, las ventas de sus principales productos respaldaron la estabilidad de los resultados. El mercado seguirá atento a la demanda y continuidad de ventas de metales preciosos y minerales críticos. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Korea Zinc bate recorde no 1º trimestre e soma 105 trimestres de lucro",
-        "excerpt": "A Korea Zinc registrou no primeiro trimestre seu maior resultado trimestral, impulsionada por fortes vendas de metais preciosos e minerais críticos.",
-        "body": "A Korea Zinc alcançou no primeiro trimestre deste ano seu maior desempenho trimestral da história, apesar dos riscos geopolíticos globais. O principal fator foi o bom desempenho das vendas de metais preciosos e minerais críticos, mesmo em meio a incertezas ligadas a eventos como a guerra do Irã. A empresa chegou a 105 trimestres consecutivos de lucro, mantendo rentabilidade de longo prazo. Em um período de guerra e preocupações com cadeias de suprimento, as vendas dos principais produtos sustentaram a estabilidade dos resultados. O mercado deve acompanhar a continuidade da demanda e das vendas de metais preciosos e minerais críticos. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Korea Zinc erzielt Rekordquartal und bleibt 105 Quartale in Folge profitabel",
-        "excerpt": "Korea Zinc erreichte im ersten Quartal dank starker Verkäufe von Edelmetallen und kritischen Mineralien trotz geopolitischer Krisen ein Rekordergebnis.",
-        "body": "Korea Zinc hat im ersten Quartal dieses Jahres trotz globaler geopolitischer Risiken das beste Quartalsergebnis seiner Geschichte erzielt. Als zentraler Hintergrund gilt die starke Nachfrage nach Edelmetallen und kritischen Mineralien, auch wenn Unsicherheiten wie der Iran-Krieg zunahmen. Das Unternehmen verzeichnete damit 105 Quartale in Folge einen Gewinn und setzte seine langfristige Profitabilität fort. In einer Phase, die von Krieg und Sorgen um Lieferketten geprägt war, stützten Verkäufe wichtiger Produkte die Ergebnisstabilität. Künftig dürfte der Markt darauf achten, ob Nachfrage und Absatz bei Edelmetallen und kritischen Mineralien trotz anhaltender geopolitischer Risiken stabil bleiben. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Korea Zinc signe un trimestre record et aligne 105 trimestres bénéficiaires",
-        "excerpt": "Korea Zinc a réalisé au premier trimestre son meilleur résultat trimestriel, portée par les ventes de métaux précieux et de minerais critiques malgré les tensions géopolitiques.",
-        "body": "Korea Zinc a enregistré au premier trimestre de cette année la meilleure performance trimestrielle de son histoire malgré les risques géopolitiques mondiaux. Le principal moteur a été la vigueur des ventes de métaux précieux et de minerais critiques, dans un contexte d’incertitude accrue lié notamment à la guerre en Iran. L’entreprise a ainsi enchaîné un 105e trimestre consécutif de bénéfices, confirmant sa rentabilité de long terme. À une période marquée par la guerre et les inquiétudes sur les chaînes d’approvisionnement, les ventes de ses principaux produits ont soutenu la stabilité des résultats. Le marché suivra l’évolution de la demande et des ventes de métaux précieux et minerais critiques. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "كوريا زنك تحقق رقما قياسيا في الربع الأول وتواصل الربح 105 أرباع",
-        "excerpt": "حققت كوريا زنك في الربع الأول أعلى أداء فصلي في تاريخها بدعم من مبيعات المعادن الثمينة والمعادن الحيوية رغم الأزمات الجيوسياسية العالمية.",
-        "body": "حققت كوريا زنك في الربع الأول من هذا العام أعلى أداء فصلي في تاريخها رغم المخاطر الجيوسياسية العالمية. وجاء التحسن مدفوعا بقوة مبيعات المعادن الثمينة والمعادن الحيوية، حتى مع تصاعد حالة عدم اليقين المرتبطة بقضايا مثل حرب إيران. وواصلت الشركة تسجيل الأرباح للربع الـ105 على التوالي، ما يبرز استمرار ربحيتها طويلة الأمد. وفي فترة تداخلت فيها مخاطر الحرب واضطرابات سلاسل الإمداد، شكلت مبيعات المنتجات الرئيسية عاملا داعما لاستقرار النتائج. ومن المتوقع أن تتابع السوق استمرار الطلب والمبيعات في المعادن الثمينة والمعادن الحيوية وسط بقاء المخاطر الجيوسياسية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "Korea Zinc का पहली तिमाही में रिकॉर्ड प्रदर्शन, 105 तिमाहियों से मुनाफा जारी",
-        "excerpt": "Korea Zinc ने इस साल पहली तिमाही में कीमती धातुओं और अहम खनिजों की मजबूत बिक्री के सहारे अब तक का सबसे बड़ा तिमाही प्रदर्शन दर्ज किया।",
-        "body": "Korea Zinc ने इस साल पहली तिमाही में वैश्विक भू-राजनीतिक जोखिमों के बावजूद अब तक का सबसे बड़ा तिमाही प्रदर्शन हासिल किया। ईरान युद्ध जैसी अनिश्चितताओं के बढ़ने के बीच भी कीमती धातुओं और अहम खनिजों की बिक्री मजबूत रही, जिसे नतीजों में सुधार का मुख्य कारण बताया गया। कंपनी ने इस तिमाही तक लगातार 105 तिमाहियों में मुनाफा दर्ज किया और दीर्घकालिक लाभप्रदता बनाए रखी। युद्ध और आपूर्ति श्रृंखला से जुड़ी चिंताओं के दौर में प्रमुख उत्पादों की बिक्री ने आय स्थिरता को सहारा दिया। आगे बाजार भू-राजनीतिक जोखिमों के बीच कीमती धातुओं और अहम खनिजों की मांग तथा बिक्री की निरंतरता पर नजर रखेगा। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Korea Zinc Cetak Rekor Kuartal I, Laba Berlanjut 105 Kuartal",
-        "excerpt": "Korea Zinc mencatat kinerja kuartalan tertinggi pada kuartal I tahun ini, didorong penjualan kuat logam mulia dan mineral kritis di tengah krisis geopolitik.",
-        "body": "Korea Zinc mencatat kinerja kuartalan tertinggi dalam sejarah pada kuartal I tahun ini meski menghadapi risiko geopolitik global. Faktor utamanya adalah penjualan logam mulia dan mineral kritis yang kuat, bahkan saat ketidakpastian meningkat akibat isu seperti perang Iran. Perusahaan juga membukukan laba selama 105 kuartal berturut-turut, menegaskan profitabilitas jangka panjang. Pada periode yang diwarnai perang dan kekhawatiran rantai pasok, penjualan produk utama menjadi penopang stabilitas kinerja. Ke depan, pasar diperkirakan mencermati apakah permintaan dan penjualan logam mulia serta mineral kritis dapat berlanjut di tengah risiko geopolitik. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "7571e334a9c9",
-    "slug": "사형을-선고한다배달-기사가-7세-소녀에게-저지른-끔찍한-짓-118881",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T22:41:38.292Z",
-    "updatedAt": "2026-05-06T22:41:38.292Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12038707",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12038707",
-    "titleFingerprint": "a11935a90dcf794ce5cb608e3c5136d011ec5559",
-    "dedupKeys": [
-      "7571e334a9c91740972147e4e0119c2387c6f321",
-      "a11935a90dcf794ce5cb608e3c5136d011ec5559",
-      "d7f460ab48c7b0e8e61a0e2e180396a22213b673"
-    ],
-    "imageUrl": "/images/articles/7571e334a9c9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "텍사스 7세 여아 납치·살해 배달 기사에 사형 선고",
-        "excerpt": "미국 텍사스주에서 크리스마스 선물 배달 중 7세 여아를 납치·살해한 혐의로 재판에 넘겨진 남성이 현지 법원에서 사형을 선고받았다.",
-        "body": "미국 텍사스주에서 크리스마스 선물을 배달하던 중 7세 여아를 납치해 살해한 혐의로 재판에 넘겨진 남성이 사형을 선고받았다. CNN은 5일(현지시간) 텍사스 태런트 카운티 지방법원이 해당 사건 피고인에게 사형을 선고했다고 보도했다. 사건은 선물 배송 과정에서 어린 피해자가 납치·살해된 혐의로 기소되며 미국 사회에 큰 충격을 줬다. 이번 판결은 아동을 대상으로 한 중대 강력범죄에 대한 사법 판단으로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Texas Delivery Driver Sentenced to Death in Kidnap-Murder of 7-Year-Old Girl",
-        "excerpt": "A man tried for kidnapping and killing a 7-year-old girl while delivering Christmas gifts in Texas has been sentenced to death by a local court.",
-        "body": "A man who was put on trial on charges of kidnapping and killing a 7-year-old girl while delivering Christmas gifts in Texas has been sentenced to death. CNN reported on the 5th local time that the Tarrant County District Court in Texas handed down the death sentence to the defendant in the case. The case shocked the United States after the suspect was charged over the abduction and murder of a young victim during a gift delivery. The ruling is drawing attention as a judicial decision in a serious violent crime targeting a child. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "テキサス7歳女児誘拐・殺害、配達員の男に死刑判決",
-        "excerpt": "米テキサス州でクリスマスプレゼントの配達中に7歳女児を誘拐・殺害した罪に問われた男に、現地裁判所が死刑を言い渡した。",
-        "body": "米テキサス州でクリスマスプレゼントを配達していた際、7歳の女児を誘拐して殺害した罪で裁判にかけられていた男に死刑判決が言い渡された。CNNは現地時間5日、テキサス州タラント郡地方裁判所がこの事件の被告に死刑を宣告したと報じた。事件は贈り物の配送過程で幼い被害者が誘拐・殺害されたとして起訴され、米社会に大きな衝撃を与えた。今回の判決は、子どもを狙った重大な凶悪犯罪への司法判断として注目されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "得州7岁女童遭绑架杀害案，送货员被判死刑",
-        "excerpt": "美国得克萨斯州一名男子因在派送圣诞礼物期间绑架并杀害7岁女童受审，当地法院已对其判处死刑。",
-        "body": "美国得克萨斯州一名男子因涉嫌在派送圣诞礼物期间绑架并杀害一名7岁女童而受审，现已被判处死刑。CNN当地时间5日报道称，得州塔兰特县地区法院对该案被告作出死刑判决。该案因发生在礼物配送过程中，年幼受害者遭绑架并被杀害而震动美国社会。此次判决作为针对儿童的严重暴力犯罪司法裁决，受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Repartidor en Texas recibe pena de muerte por secuestrar y matar a niña de 7 años",
-        "excerpt": "Un hombre acusado de secuestrar y matar a una niña de 7 años mientras entregaba regalos de Navidad en Texas fue condenado a muerte por un tribunal local.",
-        "body": "Un hombre llevado a juicio por secuestrar y matar a una niña de 7 años mientras entregaba regalos de Navidad en Texas, Estados Unidos, fue condenado a muerte. CNN informó el día 5, hora local, que el Tribunal de Distrito del condado de Tarrant, en Texas, dictó la pena capital contra el acusado del caso. El hecho causó gran conmoción en la sociedad estadounidense, al tratarse de una víctima menor secuestrada y asesinada durante un reparto de regalos. El fallo atrae atención como decisión judicial sobre un grave crimen violento contra una niña. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Entregador no Texas é condenado à morte por sequestro e morte de menina de 7 anos",
-        "excerpt": "Um homem acusado de sequestrar e matar uma menina de 7 anos enquanto entregava presentes de Natal no Texas foi condenado à morte por um tribunal local.",
-        "body": "Um homem levado a julgamento sob acusação de sequestrar e matar uma menina de 7 anos enquanto entregava presentes de Natal no Texas, nos Estados Unidos, foi condenado à morte. A CNN informou no dia 5, horário local, que o Tribunal Distrital do Condado de Tarrant, no Texas, impôs a pena capital ao réu do caso. O episódio chocou a sociedade americana, pois a jovem vítima foi sequestrada e morta durante uma entrega de presentes. A decisão chama atenção como julgamento judicial de um grave crime violento contra uma criança. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Texas-Zusteller wegen Entführung und Tötung eines 7-jährigen Mädchens zum Tod verurteilt",
-        "excerpt": "Ein Mann, der in Texas während der Zustellung von Weihnachtsgeschenken ein 7-jähriges Mädchen entführt und getötet haben soll, wurde zum Tod verurteilt.",
-        "body": "Ein Mann, der in Texas vor Gericht stand, weil er während der Zustellung von Weihnachtsgeschenken ein 7-jähriges Mädchen entführt und getötet haben soll, ist zum Tod verurteilt worden. CNN berichtete am 5. Ortszeit, dass das Bezirksgericht von Tarrant County in Texas gegen den Angeklagten die Todesstrafe verhängt habe. Der Fall erschütterte die US-Gesellschaft, weil ein junges Opfer im Zusammenhang mit einer Geschenkzustellung entführt und getötet wurde. Das Urteil findet Beachtung als gerichtliche Entscheidung zu einem schweren Gewaltverbrechen gegen ein Kind. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Texas: un livreur condamné à mort pour l’enlèvement et le meurtre d’une fillette de 7 ans",
-        "excerpt": "Un homme jugé pour avoir enlevé et tué une fillette de 7 ans lors d’une livraison de cadeaux de Noël au Texas a été condamné à mort par un tribunal local.",
-        "body": "Un homme jugé pour avoir enlevé et tué une fillette de 7 ans alors qu’il livrait des cadeaux de Noël au Texas, aux États-Unis, a été condamné à mort. CNN a rapporté le 5, heure locale, que le tribunal de district du comté de Tarrant, au Texas, avait prononcé la peine capitale contre l’accusé dans cette affaire. Le dossier a profondément choqué la société américaine, la jeune victime ayant été enlevée et tuée au cours d’une livraison de cadeaux. Le verdict retient l’attention comme décision judiciaire dans un crime violent grave visant une enfant. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إعدام عامل توصيل في تكساس بعد خطف وقتل طفلة في السابعة",
-        "excerpt": "حكمت محكمة محلية في تكساس بالإعدام على رجل اتهم بخطف وقتل طفلة تبلغ 7 سنوات أثناء توصيل هدايا عيد الميلاد.",
-        "body": "صدر حكم بالإعدام على رجل حوكم بتهمة خطف وقتل طفلة تبلغ 7 سنوات أثناء توصيله هدايا عيد الميلاد في ولاية تكساس الأميركية. وذكرت CNN في الخامس من الشهر بالتوقيت المحلي أن محكمة مقاطعة تارانت في تكساس أصدرت حكم الإعدام بحق المتهم في القضية. وقد صدمت الواقعة المجتمع الأميركي بعدما وُجهت إليه تهمة خطف وقتل ضحية صغيرة خلال عملية توصيل هدايا. ويحظى الحكم باهتمام باعتباره قرارا قضائيا في جريمة عنف خطيرة استهدفت طفلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "टेक्सास में 7 साल की बच्ची के अपहरण-हत्या मामले में डिलीवरी कर्मी को मौत की सजा",
-        "excerpt": "अमेरिका के टेक्सास में क्रिसमस उपहार पहुंचाते समय 7 साल की बच्ची का अपहरण कर उसकी हत्या करने के आरोपी व्यक्ति को स्थानीय अदालत ने मौत की सजा सुनाई।",
-        "body": "अमेरिका के टेक्सास में क्रिसमस उपहार पहुंचाते समय 7 साल की बच्ची का अपहरण कर उसकी हत्या करने के आरोप में मुकदमे का सामना कर रहे व्यक्ति को मौत की सजा सुनाई गई है। CNN ने स्थानीय समयानुसार 5 तारीख को बताया कि टेक्सास की टैरंट काउंटी जिला अदालत ने इस मामले के प्रतिवादी को मृत्युदंड दिया। उपहार वितरण के दौरान एक नाबालिग पीड़िता के अपहरण और हत्या के आरोप ने अमेरिकी समाज को झकझोर दिया। यह फैसला बच्चे को निशाना बनाने वाले गंभीर हिंसक अपराध पर न्यायिक निर्णय के रूप में ध्यान खींच रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kurir di Texas Divonis Mati atas Penculikan dan Pembunuhan Anak 7 Tahun",
-        "excerpt": "Seorang pria yang diadili karena menculik dan membunuh anak perempuan 7 tahun saat mengantar hadiah Natal di Texas dijatuhi hukuman mati oleh pengadilan setempat.",
-        "body": "Seorang pria yang diadili atas tuduhan menculik dan membunuh anak perempuan berusia 7 tahun saat mengantar hadiah Natal di Texas, Amerika Serikat, telah dijatuhi hukuman mati. CNN melaporkan pada tanggal 5 waktu setempat bahwa Pengadilan Distrik Tarrant County, Texas, menjatuhkan vonis mati kepada terdakwa dalam kasus tersebut. Kasus ini mengguncang masyarakat Amerika karena korban yang masih anak-anak diculik dan dibunuh dalam proses pengiriman hadiah. Putusan ini menjadi perhatian sebagai keputusan hukum atas kejahatan kekerasan serius yang menargetkan anak. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "27e888ee126c",
-    "slug": "폭격기-출격시켜-파괴했다이란-입항-시도-빈유조선-공격한-미군-747442",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-06T22:40:47.287Z",
-    "updatedAt": "2026-05-06T22:40:47.287Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12038709",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12038709",
-    "titleFingerprint": "ed2c135cb98d8033022ac4157dc4cb61d09b37ad",
-    "dedupKeys": [
-      "27e888ee126cf8c6ed0c15bf549b7f8919adccab",
-      "ed2c135cb98d8033022ac4157dc4cb61d09b37ad",
-      "28d803669fe9fb2bfac375a4dd66ffd78da42649"
-    ],
-    "imageUrl": "/images/articles/27e888ee126c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미군, 이란 향하던 빈 유조선 오만만 공해상서 포격해 운항 불능",
-        "excerpt": "미 중부사령부는 6일 오전 현지시간 미 해군이 이란으로 향하던 빈 유조선을 오만만 공해상에서 포격해 운항 불능 상태로 만들었다고 밝혔다.",
-        "body": "미 해군이 6일 오전 현지시간 이란을 향해 항해하던 빈 유조선 한 척을 오만만 공해상에서 포격해 운항 불능 상태로 만들었다고 미 중부사령부가 밝혔다. 발표는 엑스, 옛 트위터를 통해 공개됐다. 원문에 따르면 피격 선박은 이란 입항을 시도하던 유조선으로 전해졌으며, 공격은 공해상에서 이뤄졌다. 다만 추가 피해 규모나 선박 승무원 관련 정보, 작전 배경은 제공된 원문 요약에 구체적으로 제시되지 않았다. 이번 사건은 오만만 항로와 이란을 둘러싼 군사 긴장에 다시 시선을 모을 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "US Military Disables Empty Tanker Bound for Iran in Gulf of Oman Strike",
-        "excerpt": "US Central Command said the US Navy fired on an empty oil tanker heading toward Iran in international waters of the Gulf of Oman on the morning of the 6th local time.",
-        "body": "The US Navy fired on an empty oil tanker sailing toward Iran in international waters of the Gulf of Oman on the morning of the 6th local time, leaving it unable to operate, US Central Command said. The announcement was made on X, formerly Twitter. According to the original report, the struck vessel was an oil tanker attempting to enter Iran, and the attack took place on the high seas. The provided summary did not specify further damage, crew information, or the operational background. The incident could draw renewed attention to Gulf of Oman shipping routes and military tensions surrounding Iran. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "米軍、イラン向かう空のタンカーをオマーン湾公海上で砲撃し航行不能に",
-        "excerpt": "米中央軍は現地時間6日午前、米海軍がイランへ向かっていた空の石油タンカーをオマーン湾の公海上で砲撃し、航行不能にしたと明らかにした。",
-        "body": "米海軍が現地時間6日午前、イランへ向けて航行していた空の石油タンカー1隻をオマーン湾の公海上で砲撃し、航行不能の状態にしたと米中央軍が発表した。発表はX、旧ツイッターを通じて公開された。原文によると、攻撃を受けた船舶はイラン入港を試みていたタンカーとされ、攻撃は公海上で行われた。追加の被害規模、乗組員に関する情報、作戦の背景については、提供された原文要約では具体的に示されていない。今回の事案は、オマーン湾航路とイランを巡る軍事的緊張に再び注目を集める可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "美军在阿曼湾公海炮击驶向伊朗的空油轮致其失去航行能力",
-        "excerpt": "美国中央司令部称，当地时间6日上午，美国海军在阿曼湾公海炮击一艘驶向伊朗的空油轮，使其处于无法运行状态。",
-        "body": "美国中央司令部表示，当地时间6日上午，美国海军在阿曼湾公海对一艘驶向伊朗的空油轮开火，使其陷入无法运行状态。相关消息通过X，即原推特发布。根据原文，被击中的船只是试图进入伊朗港口的油轮，袭击发生在公海上。提供的原文摘要未具体说明进一步损失、船员情况或行动背景。此次事件可能使外界再次关注阿曼湾航线以及围绕伊朗的军事紧张局势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "EE. UU. inutiliza un petrolero vacío rumbo a Irán en aguas del golfo de Omán",
-        "excerpt": "El Comando Central de EE. UU. dijo que la Marina disparó contra un petrolero vacío que se dirigía a Irán en aguas internacionales del golfo de Omán la mañana del día 6, hora local.",
-        "body": "La Marina de Estados Unidos disparó la mañana del día 6, hora local, contra un petrolero vacío que navegaba hacia Irán en aguas internacionales del golfo de Omán y lo dejó fuera de operación, informó el Comando Central estadounidense. El anuncio fue publicado en X, antes Twitter. Según el reporte original, la nave atacada era un petrolero que intentaba ingresar a Irán, y el ataque ocurrió en alta mar. El resumen proporcionado no detalla daños adicionales, información sobre la tripulación ni el contexto operativo. El incidente puede volver a centrar la atención en las rutas del golfo de Omán y en las tensiones militares alrededor de Irán. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "EUA inutilizam petroleiro vazio rumo ao Irã em ataque no golfo de Omã",
-        "excerpt": "O Comando Central dos EUA disse que a Marinha disparou contra um petroleiro vazio que seguia para o Irã em águas internacionais do golfo de Omã na manhã do dia 6, hora local.",
-        "body": "A Marinha dos Estados Unidos disparou na manhã do dia 6, hora local, contra um petroleiro vazio que navegava em direção ao Irã em águas internacionais do golfo de Omã, deixando-o sem condições de operar, informou o Comando Central dos EUA. O anúncio foi feito pelo X, antigo Twitter. Segundo o relato original, a embarcação atingida era um petroleiro que tentava entrar no Irã, e o ataque ocorreu em alto-mar. O resumo fornecido não detalha danos adicionais, informações sobre tripulantes nem o contexto da operação. O episódio pode voltar a chamar atenção para as rotas do golfo de Omã e para as tensões militares em torno do Irã. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "US-Militär setzt leeren Tanker auf Iran-Kurs im Golf von Oman außer Betrieb",
-        "excerpt": "Das US-Zentralkommando teilte mit, die US-Marine habe am Morgen des 6. Ortszeit in internationalen Gewässern des Golfs von Oman auf einen leeren Tanker mit Kurs Iran geschossen.",
-        "body": "Die US-Marine hat am Morgen des 6. Ortszeit in internationalen Gewässern des Golfs von Oman auf einen leeren Öltanker geschossen, der in Richtung Iran unterwegs war, und ihn außer Betrieb gesetzt, teilte das US-Zentralkommando mit. Die Mitteilung wurde über X, ehemals Twitter, veröffentlicht. Dem Originalbericht zufolge handelte es sich bei dem getroffenen Schiff um einen Tanker, der eine Einfahrt in den Iran versuchte; der Angriff erfolgte auf hoher See. Weitere Schäden, Angaben zur Besatzung oder der operative Hintergrund werden in der vorliegenden Zusammenfassung nicht konkret genannt. Der Vorfall könnte die Aufmerksamkeit erneut auf die Routen im Golf von Oman und die militärischen Spannungen um Iran lenken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les États-Unis neutralisent un pétrolier vide vers l’Iran dans le golfe d’Oman",
-        "excerpt": "Le Commandement central américain a indiqué que la marine américaine avait tiré sur un pétrolier vide se dirigeant vers l’Iran dans les eaux internationales du golfe d’Oman le matin du 6, heure locale.",
-        "body": "La marine américaine a tiré le matin du 6, heure locale, sur un pétrolier vide qui naviguait vers l’Iran dans les eaux internationales du golfe d’Oman, le rendant inopérant, a annoncé le Commandement central américain. L’annonce a été publiée sur X, anciennement Twitter. Selon le reportage original, le navire touché était un pétrolier qui tentait d’entrer en Iran, et l’attaque a eu lieu en haute mer. Le résumé fourni ne précise pas l’ampleur d’éventuels dégâts supplémentaires, les informations sur l’équipage ni le contexte opérationnel. Cet incident pourrait ramener l’attention sur les routes du golfe d’Oman et les tensions militaires autour de l’Iran. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الجيش الأميركي يعطل ناقلة نفط فارغة متجهة إلى إيران في خليج عُمان",
-        "excerpt": "قالت القيادة المركزية الأميركية إن البحرية الأميركية أطلقت النار صباح يوم 6 بالتوقيت المحلي على ناقلة نفط فارغة كانت متجهة إلى إيران في المياه الدولية بخليج عُمان، ما جعلها غير قادرة على التشغيل.",
-        "body": "أعلنت القيادة المركزية الأميركية أن البحرية الأميركية أطلقت النار صباح يوم 6 بالتوقيت المحلي على ناقلة نفط فارغة كانت تبحر باتجاه إيران في المياه الدولية بخليج عُمان، ما جعلها في حالة عجز عن التشغيل. وجاء الإعلان عبر منصة إكس، تويتر سابقا. ووفقا للتقرير الأصلي، فإن السفينة المستهدفة كانت ناقلة نفط تحاول دخول إيران، ووقع الهجوم في أعالي البحار. ولم يوضح الملخص المقدم حجم أضرار إضافية أو معلومات عن الطاقم أو خلفية العملية. وقد يعيد هذا الحادث تسليط الضوء على طرق الملاحة في خليج عُمان والتوترات العسكرية المحيطة بإيران. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अमेरिका ने ईरान जा रहे खाली तेल टैंकर को ओमान की खाड़ी में निष्क्रिय किया",
-        "excerpt": "अमेरिकी सेंट्रल कमांड ने कहा कि स्थानीय समयानुसार 6 तारीख की सुबह अमेरिकी नौसेना ने ओमान की खाड़ी के अंतरराष्ट्रीय जलक्षेत्र में ईरान जा रहे खाली तेल टैंकर पर गोलीबारी कर उसे संचालन अक्षम बना दिया।",
-        "body": "अमेरिकी नौसेना ने स्थानीय समयानुसार 6 तारीख की सुबह ईरान की ओर जा रहे एक खाली तेल टैंकर पर ओमान की खाड़ी के अंतरराष्ट्रीय जलक्षेत्र में गोलीबारी की और उसे संचालन अक्षम बना दिया, यह जानकारी अमेरिकी सेंट्रल कमांड ने दी। यह घोषणा एक्स, पूर्व में ट्विटर, पर की गई। मूल रिपोर्ट के अनुसार, निशाना बना जहाज ईरान में प्रवेश का प्रयास कर रहा तेल टैंकर था और हमला खुले समुद्र में हुआ। उपलब्ध मूल सारांश में अतिरिक्त नुकसान, चालक दल से जुड़ी जानकारी या अभियान की पृष्ठभूमि स्पष्ट रूप से नहीं दी गई। यह घटना ओमान की खाड़ी के समुद्री मार्गों और ईरान से जुड़ी सैन्य तनातनी पर फिर ध्यान खींच सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Militer AS Lumpuhkan Tanker Kosong Menuju Iran di Perairan Teluk Oman",
-        "excerpt": "Komando Pusat AS menyatakan Angkatan Laut AS menembaki sebuah tanker minyak kosong yang menuju Iran di perairan internasional Teluk Oman pada pagi tanggal 6 waktu setempat hingga tidak dapat beroperasi.",
-        "body": "Angkatan Laut Amerika Serikat menembaki sebuah tanker minyak kosong yang berlayar menuju Iran di perairan internasional Teluk Oman pada pagi tanggal 6 waktu setempat, membuat kapal itu tidak dapat beroperasi, kata Komando Pusat AS. Pengumuman tersebut disampaikan melalui X, sebelumnya Twitter. Menurut laporan asli, kapal yang terkena serangan adalah tanker yang mencoba masuk ke Iran, dan serangan terjadi di laut lepas. Ringkasan asli yang diberikan tidak merinci kerusakan tambahan, informasi awak kapal, atau latar belakang operasi. Insiden ini dapat kembali menarik perhatian pada jalur pelayaran Teluk Oman dan ketegangan militer di sekitar Iran. Sumber: mk.co.kr"
       }
     }
   }
