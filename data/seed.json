@@ -1,5 +1,230 @@
 [
   {
+    "id": "d44f41cb0ece",
+    "slug": "속보-미-4월-고용-11만5000명-증가예상치-상회-658897",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T12:50:24.748Z",
+    "updatedAt": "2026-05-08T12:50:24.748Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12041808",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12041808",
+    "titleFingerprint": "4b247f0bdf1a693b114159437908dae1166164a6",
+    "dedupKeys": [
+      "d44f41cb0ecee3228d9dfc3107bc2320b2471b00",
+      "4b247f0bdf1a693b114159437908dae1166164a6",
+      "e44737212e34ab7748708af879a1c2a091da19ed"
+    ],
+    "imageUrl": "/images/articles/d44f41cb0ece.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 4월 고용 11만5000명 증가, 예상치 2배 웃돈 비농업 일자리 속보",
+        "excerpt": "미 노동부 노동통계국은 현지시간 8일 4월 비농업 일자리가 전월보다 11만5000명 늘어 다우존스 집계 전문가 예상치 5만5000명을 웃돌았다고 밝혔다.",
+        "body": "미 노동부 노동통계국은 8일(현지시간) 4월 미국의 비농업 일자리가 전월 대비 11만5000명 증가했다고 밝혔다. 이는 다우존스가 집계한 전문가 예상치인 5만5000명 증가를 상회한 수치다. 이번 발표는 미국 고용시장의 흐름을 가늠하는 핵심 지표인 비농업 일자리 증가폭이 시장 예상보다 크게 나왔다는 점에서 주목된다. 다만 원문에 제시된 수치는 4월 비농업 일자리 증가 규모와 전문가 예상치에 한정된다. 향후 시장은 이번 고용 지표가 미국 경제 흐름을 어떻게 반영하는지 살펴볼 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "US April Payrolls Rise by 115,000, Beating 55,000 Forecast in Key Jobs Report",
+        "excerpt": "The US Bureau of Labor Statistics said on May 8 local time that April nonfarm payrolls rose by 115,000 from the previous month, above the Dow Jones forecast of 55,000.",
+        "body": "The US Bureau of Labor Statistics said on May 8 local time that US nonfarm payrolls increased by 115,000 in April from the previous month. The figure exceeded the Dow Jones consensus forecast, which had called for a gain of 55,000 jobs. The release draws attention because nonfarm payroll growth is a key indicator used to assess the direction of the US labor market, and the reported increase came in above market expectations. The original report provides figures limited to April nonfarm payroll growth and the economists’ forecast. Markets are expected to watch how this jobs data reflects the broader trend in the US economy. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米4月雇用者数11万5000人増、予想5万5000人を上回る速報",
+        "excerpt": "米労働省労働統計局は現地時間8日、4月の非農業部門雇用者数が前月比11万5000人増え、ダウ・ジョーンズ集計の予想5万5000人増を上回ったと発表した。",
+        "body": "米労働省労働統計局は現地時間8日、4月の米国の非農業部門雇用者数が前月比11万5000人増加したと発表した。これは、ダウ・ジョーンズが集計した専門家予想の5万5000人増を上回る数値だ。今回の発表は、米労働市場の流れを測る主要指標である非農業部門雇用者数の伸びが市場予想を上回った点で注目される。ただし、原文で示された数値は4月の非農業部門雇用者数の増加幅と専門家予想に限られる。今後、市場はこの雇用指標が米国経済の流れをどう反映するかを見極める見通しだ。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国4月非农就业增加11.5万人，高于5.5万人预期引关注",
+        "excerpt": "美国劳工部劳工统计局当地时间8日表示，4月美国非农就业较上月增加11.5万人，高于道琼斯汇总的专家预期5.5万人。",
+        "body": "美国劳工部劳工统计局当地时间8日表示，4月美国非农就业人数较上月增加11.5万人。这一数据高于道琼斯汇总的专家预期，市场此前预估为增加5.5万人。此次发布受到关注，是因为非农就业增幅是衡量美国就业市场走势的重要指标，而公布结果明显高于市场预期。不过，原文提供的信息仅限于4月非农就业增加规模以及专家预期数值。接下来，市场将关注这项就业数据如何反映美国经济走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Empleo de EE. UU. sube 115.000 en abril y supera previsión de 55.000",
+        "excerpt": "La Oficina de Estadísticas Laborales de EE. UU. informó el 8 de mayo, hora local, que las nóminas no agrícolas de abril aumentaron en 115.000, por encima de la previsión de Dow Jones de 55.000.",
+        "body": "La Oficina de Estadísticas Laborales del Departamento de Trabajo de EE. UU. informó el 8 de mayo, hora local, que las nóminas no agrícolas aumentaron en 115.000 en abril frente al mes anterior. La cifra superó la previsión de los expertos recopilada por Dow Jones, que esperaba un incremento de 55.000 empleos. El dato llama la atención porque las nóminas no agrícolas son un indicador clave para medir la evolución del mercado laboral estadounidense y el aumento publicado quedó por encima de lo previsto. La información original se limita al crecimiento de abril y a la estimación de los analistas. Los mercados observarán cómo este dato refleja la trayectoria de la economía de EE. UU. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Emprego nos EUA cresce 115 mil em abril e supera previsão de 55 mil",
+        "excerpt": "O Bureau of Labor Statistics dos EUA informou em 8 de maio, horário local, que as vagas não agrícolas de abril subiram 115 mil ante o mês anterior, acima da previsão de 55 mil compilada pela Dow Jones.",
+        "body": "O Bureau of Labor Statistics do Departamento do Trabalho dos EUA informou em 8 de maio, horário local, que as vagas não agrícolas do país aumentaram em 115 mil em abril na comparação com o mês anterior. O resultado superou a previsão de especialistas compilada pela Dow Jones, que apontava alta de 55 mil postos. O dado chama atenção porque a criação de vagas não agrícolas é um indicador central para acompanhar o mercado de trabalho dos Estados Unidos, e o número divulgado veio acima das expectativas. A reportagem original apresenta apenas o aumento de abril e a estimativa dos especialistas. O mercado deve observar como esse indicador reflete a trajetória da economia americana. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-Arbeitsmarkt legt im April um 115.000 Stellen zu und übertrifft Prognose",
+        "excerpt": "Das US Bureau of Labor Statistics teilte am 8. Mai Ortszeit mit, dass die Beschäftigung außerhalb der Landwirtschaft im April um 115.000 stieg und damit über der Dow-Jones-Prognose von 55.000 lag.",
+        "body": "Das US Bureau of Labor Statistics teilte am 8. Mai Ortszeit mit, dass die Zahl der Beschäftigten außerhalb der Landwirtschaft in den USA im April gegenüber dem Vormonat um 115.000 gestiegen ist. Damit lag der Wert über der von Dow Jones erfassten Expertenschätzung von 55.000 zusätzlichen Stellen. Die Veröffentlichung ist relevant, weil die Beschäftigung außerhalb der Landwirtschaft ein zentraler Indikator für die Entwicklung des US-Arbeitsmarkts ist und der gemeldete Zuwachs die Markterwartungen übertraf. Die ursprüngliche Meldung nennt nur den April-Zuwachs und die Prognose der Experten. Märkte dürften beobachten, wie diese Daten den Verlauf der US-Wirtschaft widerspiegeln. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Emploi américain: 115 000 créations en avril, au-dessus des 55 000 attendues",
+        "excerpt": "Le Bureau of Labor Statistics américain a indiqué le 8 mai, heure locale, que l’emploi non agricole avait augmenté de 115 000 en avril, dépassant la prévision Dow Jones de 55 000.",
+        "body": "Le Bureau of Labor Statistics du département américain du Travail a indiqué le 8 mai, heure locale, que l’emploi non agricole aux États-Unis avait progressé de 115 000 en avril par rapport au mois précédent. Ce chiffre dépasse la prévision des experts compilée par Dow Jones, qui tablait sur une hausse de 55 000 emplois. Cette publication retient l’attention car l’emploi non agricole est un indicateur clé pour évaluer l’évolution du marché du travail américain, et la hausse annoncée est supérieure aux attentes du marché. Le rapport d’origine se limite aux chiffres de croissance d’avril et à la prévision des experts. Les marchés suivront la manière dont ces données reflètent la trajectoire de l’économie américaine. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "وظائف أمريكا في أبريل ترتفع 115 ألفا وتتجاوز توقعات 55 ألفا",
+        "excerpt": "قال مكتب إحصاءات العمل الأميركي في 8 مايو بالتوقيت المحلي إن الوظائف غير الزراعية في أبريل زادت 115 ألفا عن الشهر السابق، متجاوزة توقعات داو جونز البالغة 55 ألفا.",
+        "body": "قال مكتب إحصاءات العمل التابع لوزارة العمل الأميركية في 8 مايو بالتوقيت المحلي إن الوظائف غير الزراعية في الولايات المتحدة زادت بمقدار 115 ألف وظيفة في أبريل مقارنة بالشهر السابق. وجاء الرقم أعلى من توقعات الخبراء التي جمعتها داو جونز، والتي أشارت إلى زيادة قدرها 55 ألف وظيفة. وتحظى البيانات بالاهتمام لأن نمو الوظائف غير الزراعية يعد مؤشرا أساسيا لقياس اتجاه سوق العمل الأميركي، وقد جاءت الزيادة المعلنة فوق توقعات السوق. وتقتصر المعلومات الواردة في النص الأصلي على حجم الزيادة في أبريل وتوقعات الخبراء. ومن المتوقع أن تتابع الأسواق كيف تعكس هذه البيانات مسار الاقتصاد الأميركي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिका में अप्रैल रोजगार 1.15 लाख बढ़ा, 55 हजार के अनुमान से ऊपर",
+        "excerpt": "अमेरिकी श्रम सांख्यिकी ब्यूरो ने स्थानीय समयानुसार 8 मई को कहा कि अप्रैल में गैर-कृषि नौकरियां पिछले महीने से 1.15 लाख बढ़ीं, जो डाउ जोन्स के 55 हजार के अनुमान से अधिक है।",
+        "body": "अमेरिकी श्रम विभाग के श्रम सांख्यिकी ब्यूरो ने स्थानीय समयानुसार 8 मई को बताया कि अप्रैल में अमेरिका की गैर-कृषि नौकरियां पिछले महीने की तुलना में 1.15 लाख बढ़ीं। यह आंकड़ा डाउ जोन्स द्वारा संकलित विशेषज्ञ अनुमान से अधिक है, जिसमें 55 हजार नौकरियों की वृद्धि की उम्मीद की गई थी। यह घोषणा इसलिए ध्यान खींचती है क्योंकि गैर-कृषि रोजगार वृद्धि अमेरिकी श्रम बाजार की दिशा समझने का प्रमुख संकेतक है और जारी आंकड़ा बाजार अनुमान से ऊपर रहा। मूल रिपोर्ट में दी गई जानकारी अप्रैल की गैर-कृषि नौकरी वृद्धि और विशेषज्ञ अनुमान तक सीमित है। बाजार अब देखेगा कि यह रोजगार संकेतक अमेरिकी अर्थव्यवस्था की प्रवृत्ति को कैसे दर्शाता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pekerjaan AS April Naik 115.000, Melampaui Perkiraan 55.000",
+        "excerpt": "Biro Statistik Tenaga Kerja AS pada 8 Mei waktu setempat menyatakan pekerjaan nonpertanian April bertambah 115.000 dari bulan sebelumnya, di atas perkiraan Dow Jones sebesar 55.000.",
+        "body": "Biro Statistik Tenaga Kerja Departemen Tenaga Kerja AS pada 8 Mei waktu setempat menyatakan bahwa pekerjaan nonpertanian Amerika Serikat bertambah 115.000 pada April dibanding bulan sebelumnya. Angka ini melampaui perkiraan para ahli yang dihimpun Dow Jones, yaitu kenaikan 55.000 pekerjaan. Rilis ini menjadi perhatian karena pertumbuhan pekerjaan nonpertanian merupakan indikator utama untuk membaca arah pasar tenaga kerja AS, dan angka yang diumumkan berada di atas ekspektasi pasar. Informasi dalam laporan asli terbatas pada kenaikan pekerjaan nonpertanian April dan perkiraan para ahli. Pasar akan mencermati bagaimana data ketenagakerjaan ini mencerminkan arah ekonomi AS. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4e0293d54b16",
+    "slug": "tv토론-배제-정이한-개혁신당-후보-단식-돌입이준석-불공정-지적-246827",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T12:49:23.604Z",
+    "updatedAt": "2026-05-08T12:49:23.604Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12041814",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12041814",
+    "titleFingerprint": "27edcae3a093333e0476d3cd95ec81ca7f4948c5",
+    "dedupKeys": [
+      "4e0293d54b160a506ae71d7af93a8afafee6c7b7",
+      "27edcae3a093333e0476d3cd95ec81ca7f4948c5",
+      "f95a8f70edb4383d316dacba6282fcee90ccfa3a"
+    ],
+    "imageUrl": "/images/articles/4e0293d54b16.jpg",
+    "i18n": {
+      "ko": {
+        "title": "TV토론 배제 정이한 개혁신당 부산시장 후보, 무기한 단식 돌입",
+        "excerpt": "정이한 개혁신당 부산시장 후보가 8일 TV 토론회 배제를 문제 삼아 무기한 단식에 들어갔고, 이준석 대표는 불공정 시정을 요구했다.",
+        "body": "정이한 개혁신당 부산시장 후보가 8일 TV 토론회에서 배제된 데 반발해 무기한 단식에 돌입했다. 정 후보는 부산시장 선거 과정에서 TV 토론 참여 기회가 주어지지 않은 점을 문제 삼으며 항의에 나선 것으로 전해졌다. 이준석 개혁신당 대표도 이 사안에 대해 “이 불공정함은 바로잡혀야 한다”고 지적했다. 이번 단식은 후보 토론 참여 기준과 선거 과정의 공정성 논란으로 이어질 수 있다. 향후 선거관리와 방송 토론 운영 방식에 대한 정치권의 반응이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Reform Party Busan Candidate Jung Yi-han Begins Hunger Strike Over TV Debate Exclusion",
+        "excerpt": "Reform Party Busan mayoral candidate Jung Yi-han began an indefinite hunger strike on May 8 after being excluded from a TV debate, while Lee Jun-seok called for the unfairness to be corrected.",
+        "body": "Jung Yi-han, the Reform Party candidate for Busan mayor, began an indefinite hunger strike on May 8 in protest after being excluded from a televised debate. Jung reportedly raised issue with being denied the opportunity to participate in the TV debate during the Busan mayoral race. Reform Party leader Lee Jun-seok also criticized the situation, saying, “This unfairness must be corrected.” The hunger strike could fuel debate over candidate debate participation standards and fairness in the election process. Political reactions to election management and broadcast debate procedures are expected to draw attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "TV討論除外の改革新党・釜山市長候補チョン・イハン氏、無期限断食に突入",
+        "excerpt": "改革新党の釜山市長候補チョン・イハン氏は8日、テレビ討論会から除外されたことに抗議して無期限断食を始め、李俊錫代表は不公正の是正を求めた。",
+        "body": "改革新党の釜山市長候補チョン・イハン氏は8日、テレビ討論会から除外されたことに反発し、無期限断食に入った。チョン氏は釜山市長選挙の過程でテレビ討論に参加する機会が与えられなかった点を問題視し、抗議に乗り出したと伝えられている。改革新党の李俊錫代表もこの件について「この不公正は正されなければならない」と指摘した。今回の断食は、候補者の討論参加基準や選挙過程の公正性をめぐる議論につながる可能性がある。今後、選挙管理と放送討論の運営方式に対する政界の反応が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "改革新党釜山市长候选人郑伊汉因被排除出电视辩论启动无限期绝食",
+        "excerpt": "改革新党釜山市长候选人郑伊汉8日因被排除在电视辩论之外而启动无限期绝食，李俊锡代表批评称应纠正这种不公。",
+        "body": "改革新党釜山市长候选人郑伊汉8日因被排除在电视辩论之外，开始无限期绝食抗议。据悉，郑候选人认为在釜山市长选举过程中未获得参加电视辩论的机会存在问题，因此采取抗议行动。改革新党代表李俊锡也就此表示，“这种不公正必须得到纠正”。此次绝食可能引发围绕候选人参加辩论标准以及选举过程公平性的争议。未来，政界对选举管理和电视辩论运营方式的反应将受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jung Yi-han, candidato del Partido Reformista en Busan, inicia ayuno por exclusión de debate televisado",
+        "excerpt": "Jung Yi-han, candidato del Partido Reformista a la alcaldía de Busan, inició el 8 de mayo una huelga de hambre indefinida tras quedar fuera de un debate televisado; Lee Jun-seok pidió corregir la injusticia.",
+        "body": "Jung Yi-han, candidato del Partido Reformista a la alcaldía de Busan, inició el 8 de mayo una huelga de hambre indefinida en protesta por haber sido excluido de un debate televisado. Según se informó, Jung cuestionó que no se le diera la oportunidad de participar en el debate durante la contienda por la alcaldía de Busan. El líder del Partido Reformista, Lee Jun-seok, también criticó el caso y afirmó: “Esta injusticia debe corregirse”. El ayuno podría alimentar el debate sobre los criterios de participación de candidatos y la equidad del proceso electoral. Se observarán las reacciones políticas sobre la gestión electoral y la operación de los debates televisados. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jung Yi-han, candidato do Partido Reformista em Busan, inicia jejum por exclusão de debate na TV",
+        "excerpt": "Jung Yi-han, candidato do Partido Reformista à prefeitura de Busan, iniciou em 8 de maio uma greve de fome por tempo indeterminado após ser excluído de um debate na TV; Lee Jun-seok pediu correção da injustiça.",
+        "body": "Jung Yi-han, candidato do Partido Reformista à prefeitura de Busan, iniciou em 8 de maio uma greve de fome por tempo indeterminado em protesto contra sua exclusão de um debate televisivo. Segundo as informações, Jung contestou o fato de não ter recebido a oportunidade de participar do debate durante a disputa pela prefeitura de Busan. O líder do Partido Reformista, Lee Jun-seok, também criticou o caso, afirmando: “Esta injustiça deve ser corrigida”. O jejum pode ampliar a discussão sobre critérios de participação de candidatos e a justiça do processo eleitoral. As reações políticas à gestão eleitoral e ao formato dos debates na TV devem atrair atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Reformpartei-Kandidat Jung Yi-han beginnt Hungerstreik nach Ausschluss von TV-Debatte in Busan",
+        "excerpt": "Jung Yi-han, Bürgermeisterkandidat der Reformpartei in Busan, begann am 8. Mai einen unbefristeten Hungerstreik wegen seines Ausschlusses von einer TV-Debatte; Lee Jun-seok forderte Korrektur der Ungerechtigkeit.",
+        "body": "Jung Yi-han, Bürgermeisterkandidat der Reformpartei in Busan, hat am 8. Mai aus Protest gegen seinen Ausschluss von einer Fernsehdebatte einen unbefristeten Hungerstreik begonnen. Berichten zufolge beanstandete Jung, dass ihm im Wahlkampf um das Bürgermeisteramt in Busan keine Gelegenheit zur Teilnahme an der TV-Debatte gegeben wurde. Auch Reformpartei-Chef Lee Jun-seok kritisierte den Vorgang und sagte: „Diese Ungerechtigkeit muss korrigiert werden.“ Der Hungerstreik könnte eine Debatte über Teilnahmekriterien für Kandidaten und die Fairness des Wahlprozesses auslösen. Die politischen Reaktionen auf Wahlmanagement und Ablauf von TV-Debatten werden nun aufmerksam verfolgt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Jung Yi-han, candidat du Parti réformiste à Busan, entame une grève de la faim après son exclusion d’un débat TV",
+        "excerpt": "Jung Yi-han, candidat du Parti réformiste à la mairie de Busan, a entamé le 8 mai une grève de la faim illimitée après son exclusion d’un débat télévisé; Lee Jun-seok a demandé de corriger cette injustice.",
+        "body": "Jung Yi-han, candidat du Parti réformiste à la mairie de Busan, a entamé le 8 mai une grève de la faim illimitée pour protester contre son exclusion d’un débat télévisé. Selon les informations disponibles, Jung conteste le fait de ne pas avoir eu l’occasion de participer au débat TV dans le cadre de la course à la mairie de Busan. Le dirigeant du Parti réformiste, Lee Jun-seok, a également critiqué la situation, déclarant: « Cette injustice doit être corrigée. » Cette grève de la faim pourrait relancer le débat sur les critères de participation des candidats et l’équité du processus électoral. Les réactions politiques concernant la gestion électorale et l’organisation des débats télévisés seront suivies de près. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جونغ يي-هان مرشح حزب الإصلاح في بوسان يبدأ إضرابا مفتوحا عن الطعام بسبب استبعاده من مناظرة تلفزيونية",
+        "excerpt": "بدأ جونغ يي-هان، مرشح حزب الإصلاح لمنصب عمدة بوسان، في 8 مايو إضرابا مفتوحا عن الطعام احتجاجا على استبعاده من مناظرة تلفزيونية، فيما طالب لي جون-سوك بتصحيح هذا الظلم.",
+        "body": "بدأ جونغ يي-هان، مرشح حزب الإصلاح لمنصب عمدة بوسان، في 8 مايو إضرابا مفتوحا عن الطعام احتجاجا على استبعاده من مناظرة تلفزيونية. وذكرت المعلومات أن جونغ أثار مشكلة عدم منحه فرصة المشاركة في المناظرة التلفزيونية خلال سباق رئاسة بلدية بوسان. كما انتقد زعيم حزب الإصلاح لي جون-سوك الأمر قائلا: “يجب تصحيح هذا الظلم”. وقد يؤدي هذا الإضراب إلى نقاش حول معايير مشاركة المرشحين في المناظرات وعدالة العملية الانتخابية. ومن المتوقع أن تحظى ردود الفعل السياسية على إدارة الانتخابات وطريقة تنظيم المناظرات التلفزيونية باهتمام. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "टीवी बहस से बाहर किए गए रिफॉर्म पार्टी के बुसान उम्मीदवार जंग यी-हान अनिश्चितकालीन उपवास पर",
+        "excerpt": "रिफॉर्म पार्टी के बुसान मेयर प्रत्याशी जंग यी-हान ने 8 मई को टीवी बहस से बाहर किए जाने के विरोध में अनिश्चितकालीन भूख हड़ताल शुरू की, जबकि ली जुन-सोक ने इसे अन्याय बताते हुए सुधार की मांग की।",
+        "body": "रिफॉर्म पार्टी के बुसान मेयर प्रत्याशी जंग यी-हान ने 8 मई को टीवी बहस से बाहर किए जाने के विरोध में अनिश्चितकालीन भूख हड़ताल शुरू की। बताया गया कि जंग ने बुसान मेयर चुनाव प्रक्रिया में टीवी बहस में भाग लेने का अवसर न दिए जाने को मुद्दा बनाया और विरोध शुरू किया। रिफॉर्म पार्टी के नेता ली जुन-सोक ने भी इस मामले की आलोचना करते हुए कहा, “इस अन्याय को ठीक किया जाना चाहिए।” यह भूख हड़ताल उम्मीदवारों की बहस में भागीदारी के मानदंड और चुनावी प्रक्रिया की निष्पक्षता पर विवाद को आगे बढ़ा सकती है। चुनाव प्रबंधन और प्रसारण बहस संचालन पर राजनीतिक प्रतिक्रियाओं पर ध्यान रहेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kandidat Partai Reformasi Busan Jung Yi-han Mogok Makan Usai Dikeluarkan dari Debat TV",
+        "excerpt": "Jung Yi-han, kandidat wali kota Busan dari Partai Reformasi, memulai mogok makan tanpa batas pada 8 Mei setelah dikeluarkan dari debat TV; Lee Jun-seok meminta ketidakadilan itu diperbaiki.",
+        "body": "Jung Yi-han, kandidat wali kota Busan dari Partai Reformasi, memulai mogok makan tanpa batas pada 8 Mei sebagai protes setelah dikeluarkan dari debat televisi. Jung dilaporkan mempermasalahkan tidak diberikannya kesempatan untuk ikut dalam debat TV selama proses pemilihan wali kota Busan. Pemimpin Partai Reformasi Lee Jun-seok juga mengkritik hal tersebut dengan mengatakan, “Ketidakadilan ini harus diperbaiki.” Mogok makan ini dapat memicu perdebatan tentang standar partisipasi kandidat dalam debat dan keadilan proses pemilu. Reaksi politik terhadap pengelolaan pemilu dan tata cara debat siaran akan menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "852e1086fb5f",
+    "slug": "매달-2200만원온오프라인서-같은-번호-모두-당첨된-남성-297716",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T12:48:20.740Z",
+    "updatedAt": "2026-05-08T12:48:20.740Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041815",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041815",
+    "titleFingerprint": "ac10d3f78a3f6e443789005a606e9d5cf1820258",
+    "dedupKeys": [
+      "852e1086fb5f45ec06ae3813b49251a53162883f",
+      "ac10d3f78a3f6e443789005a606e9d5cf1820258",
+      "4fc516f1294e721cb01b9d04414785db3320470f"
+    ],
+    "imageUrl": "/images/articles/852e1086fb5f.png",
+    "i18n": {
+      "ko": {
+        "title": "연금복권720+ 312회차 화제, 온·오프라인 같은 번호로 1·2등 동시 당첨",
+        "excerpt": "동행복권은 8일 연금복권720+ 312회차에서 A씨가 온·오프라인으로 같은 번호를 구매해 1·2등에 모두 당첨됐다고 밝혀 이목이 쏠렸다.",
+        "body": "동행복권에 따르면 8일 연금복권720+ 312회차 1·2등 당첨자 A씨가 온·오프라인에서 같은 번호의 복권을 동시에 구매해 모두 당첨된 사례가 공개됐다. A씨는 복권 판매점을 통한 오프라인 구매와 온라인 구매에서 같은 번호를 선택한 것으로 전해졌다. 이번 사례는 ‘매달 2200만원’이라는 당첨 규모와 함께, 동일 번호를 다른 구매 경로에서 선택해 1·2등에 나란히 당첨됐다는 점에서 관심을 모았다. 동행복권이 공개한 내용 외 구체적인 구매 경위나 당첨자의 신상은 알려지지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Pension Lottery 720+ Draw 312: Same Number Wins Both Online and Offline",
+        "excerpt": "Donghaeng Lottery said on May 8 that winner A bought the same Pension Lottery 720+ Draw 312 number online and offline, winning both first and second prizes.",
+        "body": "According to Donghaeng Lottery, a case disclosed on May 8 drew attention after winner A won both first and second prizes in Pension Lottery 720+ Draw 312 by purchasing the same number through online and offline channels. A is said to have selected the identical number through a lottery retailer purchase and an online purchase. The case attracted notice because of the reported monthly prize amount of 22 million won and because the same number, bought through different channels, placed in both prize tiers. No further details about the purchase process or the winner’s identity were provided beyond the information released by Donghaeng Lottery. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "年金宝くじ720+第312回、同じ番号をネットと店頭で購入し1・2等同時当せん",
+        "excerpt": "同幸宝くじは8日、年金宝くじ720+第312回でAさんが同じ番号をオンラインと店頭で購入し、1等と2等の両方に当せんしたと明らかにした。",
+        "body": "同幸宝くじによると、8日に公開された年金宝くじ720+第312回の事例で、当せん者Aさんはオンラインとオフラインで同じ番号の宝くじを同時に購入し、1等と2等の両方に当せんした。Aさんは宝くじ販売店での購入とオンライン購入で同一番号を選んだと伝えられている。今回の事例は「毎月2200万ウォン」という当せん規模に加え、異なる購入経路で選んだ同じ番号が1等と2等にそろって当せんした点で注目を集めた。同幸宝くじが公開した内容以外に、具体的な購入経緯や当せん者の身元は明らかにされていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "养老金彩票720+第312期：同一号码线上线下购买，男子同时中一二等奖",
+        "excerpt": "韩国同幸彩票8日表示，A某在养老金彩票720+第312期中在线上线下购买同一号码，并同时中得一等奖和二等奖，引发关注。",
+        "body": "据韩国同幸彩票消息，8日公布的养老金彩票720+第312期案例显示，中奖者A某在线上和线下同时购买了同一号码的彩票，并中得一等奖和二等奖。报道称，A某通过彩票销售点进行线下购买，同时也通过线上渠道购买，并选择了相同号码。该案例因“每月2200万韩元”的中奖规模，以及同一号码通过不同购买渠道同时进入一、二等奖而受到关注。除同幸彩票公开的信息外，具体购买经过和中奖者身份尚未披露。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Pension Lottery 720+ sorteo 312: el mismo número gana online y en tienda",
+        "excerpt": "Donghaeng Lottery informó el 8 de mayo que A compró el mismo número del Pension Lottery 720+ sorteo 312 por internet y en una tienda, y ganó primer y segundo premio.",
+        "body": "Según Donghaeng Lottery, un caso difundido el 8 de mayo llamó la atención después de que el ganador A obtuviera el primer y el segundo premio del Pension Lottery 720+ sorteo 312 al comprar el mismo número por canales online y offline. A habría elegido el número idéntico tanto en una compra realizada en un punto de venta de lotería como en una compra online. El caso generó interés por el monto citado de 22 millones de wones al mes y porque el mismo número, adquirido por rutas distintas, resultó premiado en los dos niveles. No se divulgaron más detalles sobre el proceso de compra ni sobre la identidad del ganador fuera de lo informado por Donghaeng Lottery. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Pension Lottery 720+ concurso 312: mesmo número vence online e em loja",
+        "excerpt": "A Donghaeng Lottery informou em 8 de maio que A comprou o mesmo número da Pension Lottery 720+ concurso 312 online e offline, ganhando o 1º e o 2º prêmios.",
+        "body": "Segundo a Donghaeng Lottery, um caso divulgado em 8 de maio chamou atenção depois que o ganhador A levou o primeiro e o segundo prêmios da Pension Lottery 720+ concurso 312 ao comprar o mesmo número por canais online e offline. A teria escolhido o número idêntico em uma compra feita em uma casa lotérica e também em uma compra online. O caso despertou interesse pelo valor citado de 22 milhões de wones por mês e porque o mesmo número, adquirido por rotas diferentes, foi premiado nas duas categorias. Além das informações divulgadas pela Donghaeng Lottery, não foram revelados detalhes sobre a compra nem sobre a identidade do ganhador. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Pension Lottery 720+ Ziehung 312: Gleiche Nummer gewinnt online und offline",
+        "excerpt": "Donghaeng Lottery teilte am 8. Mai mit, dass A bei der Pension Lottery 720+ Ziehung 312 dieselbe Nummer online und offline kaufte und den ersten sowie zweiten Preis gewann.",
+        "body": "Nach Angaben von Donghaeng Lottery wurde am 8. Mai ein Fall bekannt, bei dem Gewinner A in der Pension Lottery 720+ Ziehung 312 sowohl den ersten als auch den zweiten Preis gewann, nachdem er dieselbe Nummer online und offline gekauft hatte. A soll die identische Nummer bei einem Kauf in einer Lottoverkaufsstelle und zusätzlich online gewählt haben. Der Fall erhielt Aufmerksamkeit wegen der genannten Gewinnsumme von monatlich 22 Millionen Won und weil dieselbe Nummer über unterschiedliche Kaufwege in beiden Preisstufen erfolgreich war. Weitere Einzelheiten zum Kaufablauf oder zur Identität des Gewinners wurden über die Angaben von Donghaeng Lottery hinaus nicht veröffentlicht. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Pension Lottery 720+ tirage 312 : le même numéro gagne en ligne et en point de vente",
+        "excerpt": "Donghaeng Lottery a indiqué le 8 mai que A avait acheté le même numéro du Pension Lottery 720+ tirage 312 en ligne et hors ligne, remportant les 1er et 2e prix.",
+        "body": "Selon Donghaeng Lottery, un cas rendu public le 8 mai a attiré l’attention après que le gagnant A a remporté les premier et deuxième prix du Pension Lottery 720+ tirage 312 en achetant le même numéro via des canaux en ligne et hors ligne. A aurait choisi le numéro identique lors d’un achat dans un point de vente de loterie et lors d’un achat en ligne. L’affaire a retenu l’intérêt en raison du montant évoqué de 22 millions de wons par mois et parce que le même numéro, acheté par deux voies différentes, a été primé dans les deux catégories. Aucun autre détail sur les circonstances de l’achat ni sur l’identité du gagnant n’a été communiqué au-delà des informations de Donghaeng Lottery. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "يانصيب المعاش 720+ السحب 312: الرقم نفسه يفوز عبر الإنترنت والمتجر",
+        "excerpt": "قالت دونغ هينغ لوتري في 8 مايو إن الفائز A اشترى الرقم نفسه في يانصيب المعاش 720+ السحب 312 عبر الإنترنت وخارجه، وفاز بالجائزتين الأولى والثانية.",
+        "body": "بحسب دونغ هينغ لوتري، لفتت حالة أُعلنت في 8 مايو الانتباه بعدما فاز A بالجائزتين الأولى والثانية في يانصيب المعاش 720+ السحب 312، إثر شراء الرقم نفسه عبر قناتين، إحداهما على الإنترنت والأخرى خارجها. وذُكر أن A اختار الرقم المطابق عند الشراء من منفذ بيع لليانصيب، وكذلك عند الشراء عبر الإنترنت. وحظيت الحالة بالاهتمام بسبب قيمة الجائزة المذكورة، وهي 22 مليون وون شهريا، وبسبب فوز الرقم نفسه، المشترى عبر مسارين مختلفين، في فئتي الجائزة. ولم تُكشف تفاصيل إضافية عن ملابسات الشراء أو هوية الفائز خارج ما أعلنته دونغ هينغ لوتري. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "पेंशन लॉटरी 720+ ड्रॉ 312: ऑनलाइन और ऑफलाइन एक ही नंबर से दोहरी जीत",
+        "excerpt": "डोंगहेंग लॉटरी ने 8 मई को बताया कि A ने पेंशन लॉटरी 720+ ड्रॉ 312 में ऑनलाइन और ऑफलाइन एक ही नंबर खरीदा और पहला व दूसरा दोनों पुरस्कार जीते।",
+        "body": "डोंगहेंग लॉटरी के अनुसार, 8 मई को सामने आए एक मामले ने ध्यान खींचा, जिसमें विजेता A ने पेंशन लॉटरी 720+ ड्रॉ 312 में ऑनलाइन और ऑफलाइन चैनलों से एक ही नंबर खरीदकर पहला और दूसरा दोनों पुरस्कार जीते। बताया गया कि A ने लॉटरी बिक्री केंद्र से की गई ऑफलाइन खरीद और ऑनलाइन खरीद, दोनों में समान नंबर चुना था। यह मामला इसलिए चर्चा में आया क्योंकि इसमें मासिक 2.2 करोड़ वोन की राशि बताई गई है और एक ही नंबर, अलग-अलग खरीद रास्तों से, दोनों पुरस्कार श्रेणियों में सफल रहा। डोंगहेंग लॉटरी की ओर से जारी जानकारी के अलावा खरीद की विस्तृत प्रक्रिया या विजेता की पहचान सार्वजनिक नहीं की गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pension Lottery 720+ Undian 312: Nomor Sama Menang Online dan Offline",
+        "excerpt": "Donghaeng Lottery menyatakan pada 8 Mei bahwa A membeli nomor yang sama pada Pension Lottery 720+ undian 312 secara online dan offline, lalu memenangkan hadiah pertama dan kedua.",
+        "body": "Menurut Donghaeng Lottery, kasus yang diumumkan pada 8 Mei menarik perhatian setelah pemenang A meraih hadiah pertama dan kedua Pension Lottery 720+ undian 312 dengan membeli nomor yang sama melalui jalur online dan offline. A disebut memilih nomor identik saat membeli melalui gerai penjualan lotre dan saat membeli secara online. Kasus ini menjadi sorotan karena nilai hadiah yang disebut mencapai 22 juta won per bulan, serta karena nomor yang sama, dibeli melalui jalur berbeda, masuk sebagai pemenang di dua tingkat hadiah. Selain informasi yang dirilis Donghaeng Lottery, rincian proses pembelian dan identitas pemenang tidak diungkapkan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "2e43bd55adca",
     "slug": "원룸서-컵라면으로-버틴-기러기아빠아내는-미국서-골프파티-이혼할까요-754118",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Polisi Tolak Aduan terhadap Kim Hyun-ji karena Bukti Tidak Cukup",
         "excerpt": "Polisi Yongsan Seoul menyatakan pada tanggal 8 bahwa mereka menolak bulan lalu aduan kelompok sipil terhadap Kim Hyun-ji yang menuding penyalahgunaan wewenang karena tidak membuka usia dan pendidikan.",
         "body": "Polisi Yongsan Seoul menyatakan pada tanggal 8 bahwa mereka telah menolak bulan lalu aduan kelompok sipil terhadap Kim Hyun-ji, kepala kantor pendamping pertama di kantor kepresidenan. Aduan itu menyebut Kim diduga menyalahgunakan wewenang karena tidak mengungkap informasi pribadi seperti usia dan latar pendidikan. Polisi disebut menilai bukti untuk membuktikan dugaan tersebut tidak mencukupi dan menutup perkara. Dengan keputusan ini, aduan tersebut tidak akan berlanjut ke tahap penyelidikan lebih lanjut. Polemik mengenai pengungkapan informasi pribadi Kim untuk sementara mereda setelah keputusan penolakan oleh polisi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "da4f688438e6",
-    "slug": "중국-가는-트럼프-엔비디아애플엑손보잉-ceo에-동행-초청-677363",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T23:02:00.997Z",
-    "updatedAt": "2026-05-07T23:02:00.997Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12040623",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12040623",
-    "titleFingerprint": "de96d295be7ebf3d9c88ee745d5d4857b2d67574",
-    "dedupKeys": [
-      "da4f688438e6b9377511efe704971b0c1fdb356c",
-      "de96d295be7ebf3d9c88ee745d5d4857b2d67574",
-      "126311db6cebefe3ce934be0dc8e514d9322759d"
-    ],
-    "imageUrl": "/images/articles/da4f688438e6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프 중국 방문 수행단에 엔비디아·애플·엑손·보잉 CEO 초청",
-        "excerpt": "도널드 트럼프 미국 대통령이 중국 방문을 앞두고 엔비디아·애플·엑손·보잉 등 미국 대기업 CEO들을 수행단으로 초청한 것으로 7일 현지 보도됐다.",
-        "body": "도널드 트럼프 미국 대통령이 중국 방문에 맞춰 엔비디아와 애플, 엑손, 보잉 등 미국 주요 대기업 최고경영자(CEO)들을 수행단으로 초청한 것으로 알려졌다. 매일경제가 인용한 온라인 매체 세마포 보도에 따르면 이 내용은 7일(현지시간) 전해졌다. 이번 보도는 미중 관계와 글로벌 공급망, 첨단기술·에너지·항공 산업을 대표하는 기업들이 미국 대통령의 중국 방문 일정과 함께 거론됐다는 점에서 주목된다. 다만 원문에 따르면 초청 사실이 알려졌을 뿐, 각 CEO의 실제 동행 여부나 세부 일정은 추가로 제시되지 않았다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Trump China Trip: Nvidia, Apple, Exxon and Boeing CEOs Invited",
-        "excerpt": "U.S. President Donald Trump has reportedly invited CEOs from Nvidia, Apple, Exxon and Boeing to join his delegation for a China visit, according to a local-time May 7 report.",
-        "body": "U.S. President Donald Trump has reportedly invited the chief executives of major American companies, including Nvidia, Apple, Exxon and Boeing, to accompany him on a visit to China. According to Semafor, cited by Maeil Business Newspaper, the report was published on May 7 local time. The report draws attention because leaders from companies representing advanced technology, energy, aviation and global supply chains were mentioned alongside the U.S. president’s China itinerary. However, the original report states only that invitations were extended, and does not provide additional details on whether each CEO will actually travel or on the specific schedule. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "トランプ氏の中国訪問、エヌビディア・アップルなどCEOを招待",
-        "excerpt": "ドナルド・トランプ米大統領が中国訪問に際し、エヌビディア、アップル、エクソン、ボーイングなど米大手企業CEOを随行団に招待したと7日報じられた。",
-        "body": "ドナルド・トランプ米大統領が中国訪問に合わせ、エヌビディア、アップル、エクソン、ボーイングなど米主要大企業の最高経営責任者（CEO）を随行団に招待したことが分かった。毎日経済が引用したオンラインメディア、セマフォの報道によると、この内容は7日（現地時間）に伝えられた。今回の報道は、米中関係やグローバル供給網、先端技術、エネルギー、航空産業を代表する企業の経営トップが米大統領の中国訪問日程とともに取り上げられた点で注目される。ただし原文では招待の事実が伝えられたのみで、各CEOの実際の同行可否や詳細日程は示されていない。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "特朗普访华邀请英伟达、苹果、埃克森和波音CEO随行",
-        "excerpt": "据当地时间7日报道，美国总统唐纳德·特朗普被曝已邀请英伟达、苹果、埃克森、波音等美国大企业CEO加入其访华随行团。",
-        "body": "据悉，美国总统唐纳德·特朗普在筹备访问中国之际，已邀请英伟达、苹果、埃克森、波音等美国主要大企业首席执行官加入随行团。每日经济新闻援引在线媒体Semafor报道称，这一消息于当地时间7日传出。该报道之所以受到关注，是因为在美中关系、全球供应链以及先进技术、能源和航空产业背景下，相关代表性企业负责人被同时提及。不过，原文仅称这些CEO已获邀请，并未进一步说明各CEO是否实际随行或具体行程安排。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Trump invita a CEO de Nvidia, Apple, Exxon y Boeing a su viaje a China",
-        "excerpt": "El presidente estadounidense Donald Trump habría invitado a los CEO de Nvidia, Apple, Exxon y Boeing a integrar su delegación para una visita a China, según un reporte del 7 de mayo, hora local.",
-        "body": "El presidente de Estados Unidos, Donald Trump, habría invitado a los máximos ejecutivos de grandes compañías estadounidenses, entre ellas Nvidia, Apple, Exxon y Boeing, a acompañarlo en una visita a China. Según Semafor, citado por Maeil Business Newspaper, la información se conoció el 7 de mayo, hora local. El reporte llama la atención porque directivos de empresas vinculadas con tecnología avanzada, energía, aviación y cadenas globales de suministro aparecen asociados a la agenda del presidente estadounidense en China. Sin embargo, el texto original solo indica que se cursaron invitaciones y no ofrece detalles adicionales sobre si cada CEO viajará efectivamente ni sobre el calendario específico. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Trump convida CEOs da Nvidia, Apple, Exxon e Boeing para viagem à China",
-        "excerpt": "O presidente dos EUA, Donald Trump, teria convidado CEOs da Nvidia, Apple, Exxon e Boeing para integrar sua comitiva em uma visita à China, segundo relato de 7 de maio, no horário local.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, teria convidado os principais executivos de grandes empresas americanas, incluindo Nvidia, Apple, Exxon e Boeing, para acompanhá-lo em uma visita à China. Segundo o Semafor, citado pelo Maeil Business Newspaper, a informação foi divulgada em 7 de maio, no horário local. A notícia chama atenção porque líderes de companhias ligadas a tecnologia avançada, energia, aviação e cadeias globais de suprimento foram mencionados junto à agenda do presidente americano na China. No entanto, o texto original informa apenas que os convites foram feitos e não traz detalhes adicionais sobre a presença efetiva de cada CEO nem sobre o cronograma específico. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Trump lädt Nvidia-, Apple-, Exxon- und Boeing-Chefs zu China-Reise ein",
-        "excerpt": "US-Präsident Donald Trump hat Berichten zufolge die CEOs von Nvidia, Apple, Exxon und Boeing eingeladen, ihn bei einem China-Besuch zu begleiten, wie am 7. Mai Ortszeit gemeldet wurde.",
-        "body": "US-Präsident Donald Trump hat Berichten zufolge die Vorstandschefs großer amerikanischer Unternehmen, darunter Nvidia, Apple, Exxon und Boeing, eingeladen, ihn bei einem Besuch in China zu begleiten. Nach einem Bericht von Semafor, den Maeil Business Newspaper zitiert, wurde dies am 7. Mai Ortszeit bekannt. Aufmerksamkeit erhält die Meldung, weil Unternehmensführer aus Bereichen wie Hochtechnologie, Energie, Luftfahrt und globalen Lieferketten im Zusammenhang mit der China-Reise des US-Präsidenten genannt werden. Der Originalbericht nennt jedoch lediglich die Einladungen und liefert keine weiteren Angaben dazu, ob die einzelnen CEOs tatsächlich mitreisen oder wie der genaue Zeitplan aussieht. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Trump invite les patrons de Nvidia, Apple, Exxon et Boeing pour sa visite en Chine",
-        "excerpt": "Le président américain Donald Trump aurait invité les PDG de Nvidia, Apple, Exxon et Boeing à rejoindre sa délégation pour une visite en Chine, selon une information publiée le 7 mai, heure locale.",
-        "body": "Le président américain Donald Trump aurait invité les dirigeants de grandes entreprises américaines, dont Nvidia, Apple, Exxon et Boeing, à l’accompagner lors d’une visite en Chine. Selon Semafor, cité par Maeil Business Newspaper, l’information a été rapportée le 7 mai, heure locale. Cette annonce retient l’attention car des responsables d’entreprises représentant les technologies avancées, l’énergie, l’aéronautique et les chaînes d’approvisionnement mondiales sont mentionnés aux côtés du déplacement du président américain en Chine. Toutefois, le texte original indique seulement que des invitations ont été envoyées et ne précise pas si chaque PDG participera effectivement au voyage ni le calendrier détaillé. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "ترامب يدعو رؤساء إنفيديا وآبل وإكسون وبوينغ لمرافقته إلى الصين",
-        "excerpt": "أفادت تقارير في 7 مايو بالتوقيت المحلي بأن الرئيس الأميركي دونالد ترامب دعا رؤساء إنفيديا وآبل وإكسون وبوينغ للانضمام إلى وفده في زيارة إلى الصين.",
-        "body": "أفادت تقارير بأن الرئيس الأميركي دونالد ترامب دعا الرؤساء التنفيذيين لشركات أميركية كبرى، من بينها إنفيديا وآبل وإكسون وبوينغ، لمرافقته في زيارة إلى الصين. ووفق ما نقلته صحيفة ماييل بيزنس عن منصة Semafor، وردت هذه المعلومات في 7 مايو بالتوقيت المحلي. وتحظى الأنباء بالاهتمام لأن قادة شركات تمثل التكنولوجيا المتقدمة والطاقة والطيران وسلاسل الإمداد العالمية ذُكروا في سياق جدول زيارة الرئيس الأميركي للصين. ومع ذلك، فإن النص الأصلي يذكر فقط توجيه الدعوات، ولا يقدم تفاصيل إضافية بشأن ما إذا كان كل رئيس تنفيذي سيرافق الوفد فعلا أو بشأن الجدول المحدد للزيارة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "ट्रंप की चीन यात्रा में Nvidia, Apple, Exxon और Boeing CEO को न्योता",
-        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने चीन यात्रा के लिए Nvidia, Apple, Exxon और Boeing जैसी अमेरिकी कंपनियों के CEO को प्रतिनिधिमंडल में शामिल होने का निमंत्रण दिया है, 7 मई की स्थानीय रिपोर्ट के अनुसार।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कथित तौर पर चीन यात्रा के दौरान Nvidia, Apple, Exxon और Boeing जैसी प्रमुख अमेरिकी कंपनियों के मुख्य कार्यकारी अधिकारियों को अपने प्रतिनिधिमंडल में शामिल होने के लिए आमंत्रित किया है। Maeil Business Newspaper ने ऑनलाइन मीडिया Semafor के हवाले से बताया कि यह जानकारी 7 मई को स्थानीय समयानुसार सामने आई। यह रिपोर्ट इसलिए ध्यान खींचती है क्योंकि उन्नत तकनीक, ऊर्जा, विमानन और वैश्विक आपूर्ति श्रृंखला से जुड़ी कंपनियों के प्रमुखों का नाम अमेरिकी राष्ट्रपति की चीन यात्रा के संदर्भ में आया है। हालांकि मूल रिपोर्ट में केवल निमंत्रण की बात कही गई है; प्रत्येक CEO वास्तव में साथ जाएगा या नहीं और विस्तृत कार्यक्रम क्या होगा, यह नहीं बताया गया। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Trump Undang CEO Nvidia, Apple, Exxon dan Boeing untuk Kunjungan China",
-        "excerpt": "Presiden AS Donald Trump dilaporkan mengundang CEO Nvidia, Apple, Exxon dan Boeing untuk bergabung dalam delegasinya ke China, menurut laporan 7 Mei waktu setempat.",
-        "body": "Presiden Amerika Serikat Donald Trump dilaporkan mengundang para CEO perusahaan besar AS, termasuk Nvidia, Apple, Exxon dan Boeing, untuk mendampinginya dalam kunjungan ke China. Menurut Semafor yang dikutip Maeil Business Newspaper, informasi itu disampaikan pada 7 Mei waktu setempat. Laporan ini menarik perhatian karena para pemimpin perusahaan yang mewakili teknologi maju, energi, penerbangan dan rantai pasok global disebut bersama agenda kunjungan presiden AS ke China. Namun, teks asli hanya menyebut adanya undangan dan tidak memberikan rincian tambahan mengenai apakah masing-masing CEO benar-benar akan ikut atau jadwal spesifik kunjungan tersebut. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "692322896785",
-    "slug": "속보-미군-자위-차원서-미사일드론-기지-등-이란군-시설-타격-459880",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T23:01:00.448Z",
-    "updatedAt": "2026-05-07T23:01:00.448Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12040643",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12040643",
-    "titleFingerprint": "db06af228ac06b96a933f2240d668af28c733024",
-    "dedupKeys": [
-      "692322896785459625e08a3c8115a00934be586e",
-      "db06af228ac06b96a933f2240d668af28c733024",
-      "afa21be0254aa67c3411cff0a96601fd888ef552"
-    ],
-    "imageUrl": "/images/articles/692322896785.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미군, 호르무즈 인근 이란군 시설 타격…“자위 차원 대응”",
-        "excerpt": "미군은 7일 현지시간 호르무즈 해협 인근 공습과 관련해 이란군의 선제공격에 대응한 자위적 조치였다고 밝혔고, 이란군은 휴전 위반과 민간 지역 공격을 주장했다.",
-        "body": "7일 현지시간 호르무즈 해협 인근에서 발생한 미군의 공습을 두고 미국과 이란이 상반된 입장을 내놨다. 이란군은 미국이 휴전 합의를 위반하고 민간 지역을 공격했다고 주장했다. 반면 미군은 이번 타격이 이란군의 선제공격에 대한 자위적 대응이었다고 설명했다. 미군은 자위 차원에서 미사일·드론 기지 등 이란군 시설을 타격했다고 밝혔다. 호르무즈 해협 인근 군사 충돌을 둘러싼 양측의 책임 공방이 이어지면서 긴장 수위와 휴전 합의 이행 여부에 관심이 쏠린다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "U.S. Strikes Iranian Military Sites Near Hormuz, Calls It Self-Defense",
-        "excerpt": "The U.S. military said on May 7 local time that its strikes near the Strait of Hormuz were self-defense against an Iranian first attack, while Iran claimed a ceasefire breach and civilian attacks.",
-        "body": "On May 7 local time, the United States and Iran issued sharply different accounts of U.S. airstrikes near the Strait of Hormuz. Iran’s military claimed the United States violated a ceasefire agreement and attacked civilian areas. The U.S. military, however, said the strikes were a defensive response to an initial attack by Iranian forces. It said Iranian military facilities, including missile and drone bases, were hit in self-defense. As both sides dispute responsibility for the military clash near the Strait of Hormuz, attention is turning to the level of tension and whether the ceasefire agreement will be upheld. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "米軍、ホルムズ海峡付近のイラン軍施設を攻撃「自衛措置」",
-        "excerpt": "米軍は現地時間7日、ホルムズ海峡付近での空爆についてイラン軍の先制攻撃に対する自衛的対応だったと説明し、イラン軍は停戦違反と民間地域への攻撃を主張した。",
-        "body": "現地時間7日、ホルムズ海峡付近で発生した米軍の空爆をめぐり、米国とイランは異なる見解を示した。イラン軍は、米国が停戦合意に違反し、民間地域を攻撃したと主張した。一方、米軍は今回の攻撃について、イラン軍の先制攻撃に対する自衛的対応だったと説明した。米軍は、自衛のためミサイル・ドローン基地などイラン軍施設を攻撃したと明らかにした。ホルムズ海峡付近の軍事衝突をめぐる責任の応酬が続くなか、緊張の水準と停戦合意の履行が注目されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "美军打击霍尔木兹附近伊朗军事设施，称属“自卫回应”",
-        "excerpt": "美军称，当地时间7日其在霍尔木兹海峡附近的空袭是对伊朗军方先行攻击的自卫回应；伊朗军方则指控美国违反停火协议并攻击民用地区。",
-        "body": "当地时间7日，围绕美军在霍尔木兹海峡附近发动的空袭，美国和伊朗给出了截然不同的说法。伊朗军方声称，美国违反停火协议，并攻击了民用地区。美军则表示，此次打击是对伊朗军方先行攻击所作出的自卫性回应。美军称，其出于自卫，打击了包括导弹和无人机基地在内的伊朗军事设施。随着双方围绕霍尔木兹海峡附近军事冲突的责任继续交锋，紧张程度以及停火协议是否得到履行受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "EE. UU. ataca instalaciones iraníes cerca de Ormuz y alega autodefensa",
-        "excerpt": "El ejército estadounidense dijo el 7 de mayo, hora local, que sus ataques cerca del estrecho de Ormuz fueron una respuesta defensiva a un ataque inicial iraní; Irán denunció violación del alto el fuego y ataques a civiles.",
-        "body": "El 7 de mayo, hora local, Estados Unidos e Irán presentaron versiones opuestas sobre los ataques aéreos estadounidenses cerca del estrecho de Ormuz. El ejército iraní afirmó que Estados Unidos violó un acuerdo de alto el fuego y atacó zonas civiles. En cambio, el ejército estadounidense sostuvo que los bombardeos fueron una respuesta de autodefensa ante un ataque inicial de fuerzas iraníes. Washington dijo que atacó instalaciones militares iraníes, incluidas bases de misiles y drones, en defensa propia. Mientras continúa la disputa sobre la responsabilidad del choque militar cerca de Ormuz, crece la atención sobre el nivel de tensión y el cumplimiento del alto el fuego. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "EUA atacam instalações iranianas perto de Ormuz e alegam autodefesa",
-        "excerpt": "Os militares dos EUA disseram em 7 de maio, hora local, que os ataques perto do estreito de Ormuz foram uma resposta defensiva a um ataque inicial iraniano; o Irã acusou violação do cessar-fogo e ataques a civis.",
-        "body": "Em 7 de maio, hora local, Estados Unidos e Irã apresentaram versões opostas sobre os ataques aéreos americanos perto do estreito de Ormuz. As forças iranianas afirmaram que os EUA violaram um acordo de cessar-fogo e atacaram áreas civis. Já os militares americanos disseram que a ação foi uma resposta de autodefesa a um ataque inicial das forças iranianas. Segundo os EUA, instalações militares iranianas, incluindo bases de mísseis e drones, foram atingidas em legítima defesa. Com a disputa de responsabilidades sobre o choque militar perto de Ormuz, cresce a atenção sobre a tensão e o cumprimento do cessar-fogo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "US-Militär greift iranische Anlagen nahe Hormus an und spricht von Selbstverteidigung",
-        "excerpt": "Das US-Militär erklärte am 7. Mai Ortszeit, die Angriffe nahe der Straße von Hormus seien eine Selbstverteidigung gegen einen iranischen Erstangriff gewesen; Iran sprach von Waffenruhebruch und Angriffen auf Zivilgebiete.",
-        "body": "Am 7. Mai Ortszeit haben die USA und Iran gegensätzliche Darstellungen zu US-Luftangriffen nahe der Straße von Hormus vorgelegt. Das iranische Militär behauptete, die USA hätten eine Waffenruhevereinbarung verletzt und zivile Gebiete angegriffen. Das US-Militär erklärte dagegen, die Schläge seien eine defensive Reaktion auf einen Erstangriff iranischer Kräfte gewesen. Es teilte mit, iranische Militäreinrichtungen, darunter Raketen- und Drohnenstützpunkte, aus Gründen der Selbstverteidigung getroffen zu haben. Während beide Seiten über die Verantwortung für den militärischen Zusammenstoß nahe Hormus streiten, richtet sich der Blick auf die Spannungen und die Einhaltung der Waffenruhe. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les États-Unis frappent des sites iraniens près d’Ormuz et invoquent l’autodéfense",
-        "excerpt": "L’armée américaine a déclaré le 7 mai, heure locale, que ses frappes près du détroit d’Ormuz répondaient en autodéfense à une attaque initiale iranienne; l’Iran a dénoncé une violation du cessez-le-feu et des attaques contre des civils.",
-        "body": "Le 7 mai, heure locale, les États-Unis et l’Iran ont donné des versions opposées des frappes aériennes américaines près du détroit d’Ormuz. L’armée iranienne a affirmé que les États-Unis avaient violé un accord de cessez-le-feu et attaqué des zones civiles. L’armée américaine a, de son côté, expliqué que les frappes constituaient une réponse défensive à une attaque initiale des forces iraniennes. Elle a indiqué avoir visé, en autodéfense, des installations militaires iraniennes, dont des bases de missiles et de drones. Alors que les deux parties se renvoient la responsabilité de l’affrontement près d’Ormuz, l’attention se porte sur le niveau de tension et le respect du cessez-le-feu. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الجيش الأميركي يضرب منشآت إيرانية قرب هرمز ويقول إنها دفاع عن النفس",
-        "excerpt": "قال الجيش الأميركي في 7 مايو بالتوقيت المحلي إن ضرباته قرب مضيق هرمز جاءت دفاعا عن النفس ردا على هجوم إيراني أولي، بينما اتهمت إيران واشنطن بانتهاك وقف إطلاق النار ومهاجمة مناطق مدنية.",
-        "body": "في 7 مايو بالتوقيت المحلي، قدمت الولايات المتحدة وإيران روايتين متعارضتين بشأن ضربات جوية أميركية قرب مضيق هرمز. وقال الجيش الإيراني إن الولايات المتحدة انتهكت اتفاق وقف إطلاق النار وهاجمت مناطق مدنية. في المقابل، أوضح الجيش الأميركي أن الضربات كانت ردا دفاعيا على هجوم أولي شنته القوات الإيرانية. وذكر أنه استهدف، في إطار الدفاع عن النفس، منشآت عسكرية إيرانية تشمل قواعد صواريخ وطائرات مسيرة. ومع استمرار تبادل الاتهامات بشأن المسؤولية عن الاشتباك العسكري قرب مضيق هرمز، يتركز الاهتمام على مستوى التوتر ومدى الالتزام باتفاق وقف إطلاق النار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "हॉर्मुज के पास ईरानी सैन्य ठिकानों पर अमेरिकी हमला, कहा- आत्मरक्षा में कार्रवाई",
-        "excerpt": "अमेरिकी सेना ने 7 मई स्थानीय समय पर कहा कि हॉर्मुज जलडमरूमध्य के पास की गई कार्रवाई ईरानी सेना के पहले हमले के जवाब में आत्मरक्षा थी, जबकि ईरान ने संघर्षविराम उल्लंघन और नागरिक क्षेत्रों पर हमले का आरोप लगाया।",
-        "body": "7 मई स्थानीय समय पर हॉर्मुज जलडमरूमध्य के पास अमेरिकी हवाई हमलों को लेकर अमेरिका और ईरान ने अलग-अलग दावे किए। ईरानी सेना ने कहा कि अमेरिका ने संघर्षविराम समझौते का उल्लंघन किया और नागरिक क्षेत्रों पर हमला किया। इसके विपरीत अमेरिकी सेना ने कहा कि यह कार्रवाई ईरानी सेना के पहले हमले के जवाब में आत्मरक्षा के तहत की गई। अमेरिकी सेना के अनुसार, आत्मरक्षा में मिसाइल और ड्रोन अड्डों सहित ईरानी सैन्य सुविधाओं को निशाना बनाया गया। हॉर्मुज के पास सैन्य टकराव की जिम्मेदारी को लेकर दोनों पक्षों के आरोप-प्रत्यारोप के बीच तनाव के स्तर और संघर्षविराम समझौते के पालन पर ध्यान केंद्रित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Militer AS Serang Fasilitas Iran Dekat Hormuz, Sebut Tindakan Bela Diri",
-        "excerpt": "Militer AS pada 7 Mei waktu setempat menyatakan serangan di dekat Selat Hormuz merupakan respons bela diri atas serangan awal Iran, sementara Iran menuduh AS melanggar gencatan senjata dan menyerang wilayah sipil.",
-        "body": "Pada 7 Mei waktu setempat, Amerika Serikat dan Iran menyampaikan pernyataan yang saling bertentangan terkait serangan udara AS di dekat Selat Hormuz. Militer Iran mengeklaim Amerika Serikat melanggar kesepakatan gencatan senjata dan menyerang wilayah sipil. Sebaliknya, militer AS menjelaskan bahwa serangan tersebut merupakan respons defensif terhadap serangan awal pasukan Iran. AS menyatakan telah menyerang fasilitas militer Iran, termasuk pangkalan rudal dan drone, sebagai tindakan bela diri. Di tengah silang pendapat mengenai tanggung jawab atas bentrokan militer dekat Hormuz, perhatian tertuju pada tingkat ketegangan dan pelaksanaan kesepakatan gencatan senjata. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "71c058da6b09",
-    "slug": "비비라고-부르기로-했다둘째-딸-출산한-최연소-백악관-대변인-666338",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T23:00:04.030Z",
-    "updatedAt": "2026-05-07T23:00:04.030Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12040687",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12040687",
-    "titleFingerprint": "b44060235905ccf1e87b5aaf73f580582f782bf7",
-    "dedupKeys": [
-      "71c058da6b09713c75d335a4f9bcf406fa0f5eba",
-      "b44060235905ccf1e87b5aaf73f580582f782bf7",
-      "3a92c9367951614fc21d09affcd4e61a2975523c"
-    ],
-    "imageUrl": "/images/articles/71c058da6b09.png",
-    "i18n": {
-      "ko": {
-        "title": "백악관 대변인 캐럴라인 레빗, 둘째 딸 출산…이름은 ‘비비’",
-        "excerpt": "도널드 트럼프 미국 대통령의 대변인 캐럴라인 레빗이 7일 소셜미디어를 통해 지난 1일 둘째 딸을 출산했으며 이름을 비비로 정했다고 밝혔다.",
-        "body": "도널드 트럼프 미국 대통령의 ‘입’으로 불리는 캐럴라인 레빗 백악관 대변인이 둘째 아이를 출산했다고 7일 자신의 소셜미디어 계정을 통해 밝혔다. 레빗 대변인이 공개한 내용에 따르면 아이는 지난 1일 태어난 딸이며, 이름은 ‘비비’로 정했다. 28세인 레빗 대변인은 ‘최연소’ 백악관 대변인으로 소개돼 왔다. 이번 소식은 현직 백악관 대변인의 개인적 근황으로, 트럼프 대통령을 대변하는 공식 직책을 맡고 있는 인물이라는 점에서 관심을 모았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "White House Press Secretary Caroline Leavitt Welcomes Second Daughter, ‘Vivi’",
-        "excerpt": "Caroline Leavitt, press secretary for U.S. President Donald Trump, said on social media on May 7 that she gave birth to a second daughter on May 1 and named her Vivi.",
-        "body": "Caroline Leavitt, the White House press secretary known as the voice of U.S. President Donald Trump, announced on May 7 through her social media account that she has given birth to her second child. According to Leavitt, the baby is a daughter born on May 1, and her name is ‘Vivi.’ Leavitt, 28, has been introduced as the youngest White House press secretary. The news drew attention as a personal update from a current White House spokesperson who serves in an official role representing President Trump. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ホワイトハウス報道官キャロライン・レビット氏、次女出産…名前は「ビビ」",
-        "excerpt": "ドナルド・トランプ米大統領の報道官キャロライン・レビット氏が7日、SNSで1日に第2子となる女児を出産し、名前をビビにしたと明らかにした。",
-        "body": "ドナルド・トランプ米大統領の「口」と呼ばれるキャロライン・レビット・ホワイトハウス報道官が7日、自身のソーシャルメディアアカウントを通じて第2子を出産したと明らかにした。レビット報道官が公開した内容によると、赤ちゃんは1日に生まれた女児で、名前は「ビビ」に決めたという。28歳のレビット報道官は「最年少」のホワイトハウス報道官として紹介されてきた。今回の知らせは、トランプ大統領を代弁する公職にある現職報道官の近況として関心を集めた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "白宫发言人卡罗琳·莱维特生下二女，取名“Vivi”",
-        "excerpt": "美国总统唐纳德·特朗普的发言人卡罗琳·莱维特7日通过社交媒体表示，她于1日生下第二个女儿，并将其命名为Vivi。",
-        "body": "被称为美国总统唐纳德·特朗普“代言人”的白宫发言人卡罗琳·莱维特7日通过自己的社交媒体账号宣布，她已生下第二个孩子。根据莱维特公开的内容，孩子是于1日出生的女儿，名字定为“Vivi”。现年28岁的莱维特一直被介绍为“最年轻”的白宫发言人。此次消息作为现任白宫发言人的个人近况受到关注，因为她担任着代表特朗普总统发声的正式职务。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La portavoz de la Casa Blanca Caroline Leavitt da a luz a su segunda hija, ‘Vivi’",
-        "excerpt": "Caroline Leavitt, portavoz del presidente estadounidense Donald Trump, anunció el día 7 en redes sociales que dio a luz el día 1 a su segunda hija, llamada Vivi.",
-        "body": "Caroline Leavitt, portavoz de la Casa Blanca y conocida como la voz del presidente estadounidense Donald Trump, anunció el día 7 a través de su cuenta en redes sociales que dio a luz a su segundo hijo. Según lo comunicado por Leavitt, la bebé es una niña nacida el día 1 y su nombre será ‘Vivi.’ Leavitt, de 28 años, ha sido presentada como la portavoz más joven de la Casa Blanca. La noticia atrajo atención como una actualización personal de una portavoz en funciones que ocupa el cargo oficial de representar al presidente Trump. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Porta-voz da Casa Branca Caroline Leavitt dá à luz segunda filha, ‘Vivi’",
-        "excerpt": "Caroline Leavitt, porta-voz do presidente dos EUA Donald Trump, informou no dia 7 nas redes sociais que deu à luz no dia 1 sua segunda filha, chamada Vivi.",
-        "body": "Caroline Leavitt, porta-voz da Casa Branca conhecida como a voz do presidente dos Estados Unidos, Donald Trump, anunciou no dia 7 em sua conta nas redes sociais que deu à luz seu segundo filho. Segundo o que Leavitt divulgou, o bebê é uma menina nascida no dia 1, e o nome escolhido foi ‘Vivi.’ Leavitt, de 28 anos, tem sido apresentada como a porta-voz mais jovem da Casa Branca. A notícia chamou atenção como uma atualização pessoal de uma porta-voz em exercício que ocupa o cargo oficial de representar o presidente Trump. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Weiße-Haus-Sprecherin Caroline Leavitt bekommt zweite Tochter: ‘Vivi’",
-        "excerpt": "Caroline Leavitt, Sprecherin von US-Präsident Donald Trump, teilte am 7. in sozialen Medien mit, dass sie am 1. ihre zweite Tochter zur Welt gebracht und Vivi genannt hat.",
-        "body": "Caroline Leavitt, die Pressesprecherin des Weißen Hauses und als Stimme von US-Präsident Donald Trump bekannt, gab am 7. über ihren Social-Media-Account bekannt, dass sie ihr zweites Kind zur Welt gebracht hat. Nach den von Leavitt veröffentlichten Angaben ist das Baby eine am 1. geborene Tochter, deren Name ‘Vivi’ ist. Die 28-jährige Leavitt wurde als jüngste Pressesprecherin des Weißen Hauses vorgestellt. Die Nachricht fand Aufmerksamkeit als persönliche Mitteilung einer amtierenden Sprecherin, die in offizieller Funktion Präsident Trump vertritt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Caroline Leavitt, porte-parole de la Maison-Blanche, accueille sa deuxième fille, ‘Vivi’",
-        "excerpt": "Caroline Leavitt, porte-parole du président américain Donald Trump, a annoncé le 7 sur les réseaux sociaux avoir donné naissance le 1er à sa deuxième fille, prénommée Vivi.",
-        "body": "Caroline Leavitt, porte-parole de la Maison-Blanche et connue comme la voix du président américain Donald Trump, a annoncé le 7 sur son compte de réseau social avoir donné naissance à son deuxième enfant. Selon les informations publiées par Leavitt, le bébé est une fille née le 1er, et son prénom est ‘Vivi.’ Âgée de 28 ans, Leavitt a été présentée comme la plus jeune porte-parole de la Maison-Blanche. Cette nouvelle a retenu l’attention comme une information personnelle concernant une porte-parole en poste, chargée officiellement de représenter le président Trump. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "المتحدثة باسم البيت الأبيض كارولاين ليفيت تنجب ابنتها الثانية وتسميها «فيفي»",
-        "excerpt": "أعلنت كارولاين ليفيت، المتحدثة باسم الرئيس الأميركي دونالد ترامب، عبر حسابها على وسائل التواصل يوم 7 أنها أنجبت ابنتها الثانية في يوم 1 وأطلقت عليها اسم فيفي.",
-        "body": "أعلنت كارولاين ليفيت، المتحدثة باسم البيت الأبيض والمعروفة بأنها صوت الرئيس الأميركي دونالد ترامب، يوم 7 عبر حسابها على وسائل التواصل الاجتماعي أنها أنجبت طفلها الثاني. وبحسب ما نشرته ليفيت، فإن المولودة ابنة وُلدت يوم 1، وقد اختير لها اسم «فيفي». وتبلغ ليفيت 28 عاما، وقد قُدمت بوصفها أصغر متحدثة باسم البيت الأبيض. ولفت الخبر الانتباه باعتباره مستجدا شخصيا لمسؤولة حالية تتولى منصبا رسميا في تمثيل الرئيس ترامب إعلاميا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "व्हाइट हाउस प्रवक्ता कैरोलाइन लेविट ने दूसरी बेटी को जन्म दिया, नाम रखा ‘विवी’",
-        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की प्रवक्ता कैरोलाइन लेविट ने 7 तारीख को सोशल मीडिया पर बताया कि उन्होंने 1 तारीख को दूसरी बेटी को जन्म दिया और उसका नाम विवी रखा।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की आवाज मानी जाने वाली व्हाइट हाउस प्रेस सचिव कैरोलाइन लेविट ने 7 तारीख को अपने सोशल मीडिया खाते के जरिए बताया कि उन्होंने अपने दूसरे बच्चे को जन्म दिया है। लेविट द्वारा साझा जानकारी के अनुसार, बच्ची 1 तारीख को पैदा हुई बेटी है और उसका नाम ‘विवी’ रखा गया है। 28 वर्षीय लेविट को व्हाइट हाउस की सबसे कम उम्र की प्रेस सचिव के रूप में紹介 किया गया है। यह खबर इसलिए ध्यान में आई क्योंकि यह राष्ट्रपति ट्रंप का प्रतिनिधित्व करने वाली मौजूदा आधिकारिक प्रवक्ता की निजी जानकारी है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Juru Bicara Gedung Putih Caroline Leavitt Melahirkan Putri Kedua, ‘Vivi’",
-        "excerpt": "Caroline Leavitt, juru bicara Presiden AS Donald Trump, mengumumkan pada 7 melalui media sosial bahwa ia melahirkan putri keduanya pada 1 dan menamainya Vivi.",
-        "body": "Caroline Leavitt, juru bicara Gedung Putih yang dikenal sebagai suara Presiden Amerika Serikat Donald Trump, mengumumkan pada 7 melalui akun media sosialnya bahwa ia telah melahirkan anak keduanya. Menurut informasi yang dibagikan Leavitt, bayi tersebut adalah putri yang lahir pada 1, dan namanya ditetapkan sebagai ‘Vivi.’ Leavitt, 28 tahun, telah diperkenalkan sebagai juru bicara Gedung Putih termuda. Kabar ini menarik perhatian sebagai perkembangan pribadi dari juru bicara aktif yang memegang jabatan resmi untuk mewakili Presiden Trump. Sumber: mk.co.kr"
       }
     }
   }
