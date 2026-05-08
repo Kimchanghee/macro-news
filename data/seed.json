@@ -1,5 +1,230 @@
 [
   {
+    "id": "12a6fe76ed7f",
+    "slug": "쿠팡-2대-주주도-탈팡-8천억원어치-지분-매도-767666",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T17:48:24.986Z",
+    "updatedAt": "2026-05-08T17:48:24.986Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041383",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041383",
+    "titleFingerprint": "2bcbc00187fac4555a935cc47d970f7ea528e7f8",
+    "dedupKeys": [
+      "12a6fe76ed7f09c305d3750c9041a72890eb3c3d",
+      "2bcbc00187fac4555a935cc47d970f7ea528e7f8",
+      "276bd2dc9cf6c7c7be2f1ce1942fdc673633af86"
+    ],
+    "imageUrl": "/images/articles/12a6fe76ed7f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "쿠팡 2대 주주 베일리기퍼드, 8천억원어치 지분 매도…SEC 공시로 확인",
+        "excerpt": "쿠팡 2대 주주인 영국 자산운용사 베일리기퍼드가 최근 쿠팡 주식을 대거 매도한 사실이 8일 미국 SEC 자료를 통해 확인됐다.",
+        "body": "쿠팡의 2대 주주인 영국 자산운용사 베일리기퍼드가 최근 쿠팡 주식을 대거 매도한 것으로 드러났다. 8일 미국 증권거래위원회(SEC)에 따르면 지난 3월 말 기준 베일리기퍼드의 쿠팡 지분 변동이 확인됐으며, 매도 규모는 약 8천억원어치로 전해졌다. 이번 매도는 쿠팡 주요 주주의 지분 축소 사례로, 시장에서는 대형 주주의 보유 비중 변화에 관심이 쏠릴 수 있다. 다만 원문에 매도 배경이나 향후 계획은 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Coupang’s No. 2 Shareholder Baillie Gifford Sells Stake Worth About ₩800 Billion",
+        "excerpt": "Baillie Gifford, Coupang’s second-largest shareholder, was found to have sold a large block of Coupang shares, according to U.S. SEC data cited on the 8th.",
+        "body": "Baillie Gifford, the U.K.-based asset manager and Coupang’s second-largest shareholder, has reportedly sold a large amount of Coupang stock. According to the U.S. Securities and Exchange Commission on the 8th, changes in Baillie Gifford’s Coupang holdings were confirmed as of the end of March, with the sale valued at about 800 billion won. The transaction marks a reduction in the stake held by a major Coupang shareholder and may draw market attention to shifts in large shareholders’ ownership levels. The original report did not state the reason for the sale or any future plan. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "クーパン第2株主ベイリー・ギフォード、約8000億ウォン相当の株式売却が判明",
+        "excerpt": "クーパン第2株主の英資産運用会社ベイリー・ギフォードが、クーパン株を大規模に売却した事実が8日、米SEC資料で確認された。",
+        "body": "クーパンの第2株主である英国の資産運用会社ベイリー・ギフォードが、最近クーパン株を大規模に売却したことが明らかになった。8日の米証券取引委員会（SEC）資料によると、3月末時点でベイリー・ギフォードのクーパン持ち株に変動が確認され、売却規模は約8000億ウォン相当と伝えられた。今回の売却は、クーパンの主要株主による持ち分縮小の事例であり、市場では大株主の保有比率の変化に関心が集まる可能性がある。ただし、原文では売却の背景や今後の計画は示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Coupang第二大股东Baillie Gifford减持，出售约8000亿韩元股份",
+        "excerpt": "Coupang第二大股东、英国资产管理公司Baillie Gifford近期大举出售Coupang股票，相关情况于8日通过美国SEC资料得到确认。",
+        "body": "Coupang第二大股东、英国资产管理公司Baillie Gifford近期被曝大规模出售Coupang股票。据8日美国证券交易委员会（SEC）资料，截至3月底，Baillie Gifford所持Coupang股份出现变动，出售规模约为8000亿韩元。此次出售属于Coupang主要股东减持案例，市场可能会关注大型股东持股比例变化。不过，原文并未说明出售背景或未来计划。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Baillie Gifford, segundo mayor accionista de Coupang, vende cerca de ₩800.000 millones",
+        "excerpt": "Baillie Gifford, gestora británica y segundo mayor accionista de Coupang, vendió recientemente una gran cantidad de acciones, según datos de la SEC citados el día 8.",
+        "body": "Baillie Gifford, gestora de activos británica y segundo mayor accionista de Coupang, habría vendido recientemente una gran cantidad de acciones de la compañía. Según la Comisión de Bolsa y Valores de Estados Unidos (SEC) el día 8, se confirmó un cambio en la participación de Baillie Gifford en Coupang a finales de marzo, con una venta valorada en unos 800.000 millones de wones. La operación supone una reducción de participación por parte de un accionista clave de Coupang y puede atraer atención sobre los cambios en la propiedad de grandes inversores. El reporte original no indicó el motivo de la venta ni planes futuros. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Baillie Gifford, 2ª maior acionista da Coupang, vende cerca de ₩800 bilhões em ações",
+        "excerpt": "A gestora britânica Baillie Gifford, segunda maior acionista da Coupang, vendeu recentemente uma grande fatia de ações, segundo dados da SEC citados no dia 8.",
+        "body": "A Baillie Gifford, gestora de ativos do Reino Unido e segunda maior acionista da Coupang, teria vendido recentemente uma grande quantidade de ações da empresa. Segundo a Comissão de Valores Mobiliários dos Estados Unidos (SEC) no dia 8, foi confirmada uma mudança na participação da Baillie Gifford na Coupang no fim de março, com venda estimada em cerca de 800 bilhões de wones. A operação representa uma redução de participação por parte de um acionista importante da Coupang e pode chamar atenção do mercado para mudanças nas posições de grandes acionistas. A reportagem original não informou o motivo da venda nem planos futuros. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Coupangs zweitgrößter Aktionär Baillie Gifford verkauft Anteile für rund ₩800 Mrd.",
+        "excerpt": "Baillie Gifford, britischer Vermögensverwalter und zweitgrößter Coupang-Aktionär, hat laut am 8. zitierten SEC-Daten zuletzt in großem Umfang Coupang-Aktien verkauft.",
+        "body": "Baillie Gifford, ein britischer Vermögensverwalter und zweitgrößter Aktionär von Coupang, hat offenbar zuletzt in großem Umfang Coupang-Aktien verkauft. Nach Angaben der U.S. Securities and Exchange Commission (SEC) vom 8. wurde per Ende März eine Veränderung der Coupang-Beteiligung von Baillie Gifford festgestellt; das Verkaufsvolumen soll rund 800 Milliarden Won betragen. Der Schritt ist ein Fall der Anteilsreduzierung durch einen wichtigen Coupang-Aktionär und könnte die Aufmerksamkeit auf Veränderungen bei großen Anteilseignern lenken. Der Originalbericht nennt keinen Verkaufsgrund und keine künftigen Pläne. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Baillie Gifford, 2e actionnaire de Coupang, vend environ ₩800 milliards d’actions",
+        "excerpt": "Baillie Gifford, gestionnaire d’actifs britannique et deuxième actionnaire de Coupang, a récemment vendu un important bloc d’actions, selon des données de la SEC citées le 8.",
+        "body": "Baillie Gifford, société britannique de gestion d’actifs et deuxième actionnaire de Coupang, aurait récemment vendu un volume important d’actions Coupang. Selon la Securities and Exchange Commission américaine (SEC) le 8, une variation de la participation de Baillie Gifford dans Coupang a été confirmée à fin mars, pour un montant d’environ 800 milliards de wons. Cette vente constitue une réduction de participation par un actionnaire majeur de Coupang et pourrait attirer l’attention du marché sur l’évolution des grands détenteurs. Le rapport original ne précise pas le motif de la vente ni les projets futurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ثاني أكبر مساهم في كوبانغ، بايلي غيفورد، يبيع حصة بنحو 800 مليار وون",
+        "excerpt": "كشفت بيانات هيئة الأوراق المالية الأميركية في اليوم الثامن أن بايلي غيفورد، ثاني أكبر مساهم في كوبانغ، باع مؤخرا كمية كبيرة من أسهم الشركة.",
+        "body": "تبيّن أن شركة إدارة الأصول البريطانية بايلي غيفورد، وهي ثاني أكبر مساهم في كوبانغ، باعت مؤخرا كمية كبيرة من أسهم كوبانغ. ووفقا لهيئة الأوراق المالية والبورصات الأميركية في اليوم الثامن، تم تأكيد تغير في حيازة بايلي غيفورد لأسهم كوبانغ حتى نهاية مارس، وبلغت قيمة البيع نحو 800 مليار وون. تمثل هذه العملية خفضا لحصة أحد المساهمين الرئيسيين في كوبانغ، وقد تجذب اهتمام السوق إلى تغيرات ملكية كبار المساهمين. ولم يذكر التقرير الأصلي سبب البيع أو أي خطط مستقبلية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Coupang के दूसरे सबसे बड़े शेयरधारक Baillie Gifford ने करीब ₩800 अरब की हिस्सेदारी बेची",
+        "excerpt": "Coupang के दूसरे सबसे बड़े शेयरधारक ब्रिटिश एसेट मैनेजर Baillie Gifford ने हाल में बड़ी मात्रा में Coupang शेयर बेचे, यह बात 8 तारीख को SEC आंकड़ों से सामने आई।",
+        "body": "Coupang के दूसरे सबसे बड़े शेयरधारक, ब्रिटेन की एसेट मैनेजमेंट कंपनी Baillie Gifford, ने हाल में Coupang के शेयरों की बड़ी बिक्री की है। 8 तारीख को अमेरिकी Securities and Exchange Commission (SEC) के अनुसार, मार्च के अंत तक Baillie Gifford की Coupang हिस्सेदारी में बदलाव की पुष्टि हुई, और बिक्री का आकार करीब 800 अरब वॉन बताया गया। यह Coupang के एक प्रमुख शेयरधारक द्वारा हिस्सेदारी घटाने का मामला है, जिससे बड़े शेयरधारकों की स्वामित्व हिस्सेदारी में बदलाव पर बाजार का ध्यान जा सकता है। मूल रिपोर्ट में बिक्री का कारण या भविष्य की योजना नहीं बताई गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pemegang Saham Terbesar Kedua Coupang Baillie Gifford Jual Saham Senilai ₩800 Miliar",
+        "excerpt": "Baillie Gifford, manajer aset Inggris dan pemegang saham terbesar kedua Coupang, diketahui baru-baru ini menjual saham Coupang dalam jumlah besar menurut data SEC pada 8 Mei.",
+        "body": "Baillie Gifford, perusahaan manajemen aset asal Inggris dan pemegang saham terbesar kedua Coupang, diketahui baru-baru ini menjual saham Coupang dalam jumlah besar. Menurut Komisi Sekuritas dan Bursa Amerika Serikat (SEC) pada tanggal 8, perubahan kepemilikan Baillie Gifford atas saham Coupang terkonfirmasi per akhir Maret, dengan nilai penjualan sekitar 800 miliar won. Penjualan ini menjadi contoh pengurangan kepemilikan oleh pemegang saham utama Coupang dan dapat menarik perhatian pasar terhadap perubahan porsi kepemilikan investor besar. Laporan asli tidak menyebutkan alasan penjualan atau rencana berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "60b6a0bc4b50",
+    "slug": "로봇-완성도-높아졌네-관련株-일제히-급등세-621265",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T17:47:09.922Z",
+    "updatedAt": "2026-05-08T17:47:09.922Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041387",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041387",
+    "titleFingerprint": "4e889d3341a9cf63d22e6a25b75922e998a4cea3",
+    "dedupKeys": [
+      "60b6a0bc4b50b141210eb318cf7929376d627820",
+      "4e889d3341a9cf63d22e6a25b75922e998a4cea3",
+      "60dce6012b95f9c6a853f27e8a2f819d534a305f"
+    ],
+    "imageUrl": "/images/articles/60b6a0bc4b50.jpg",
+    "i18n": {
+      "ko": {
+        "title": "로봇 관련주 급등, 보스턴다이내믹스·LG CNS 영상 공개에 반등",
+        "excerpt": "현대차그룹 로보틱스 자회사 보스턴다이내믹스와 LG CNS가 진일보한 로봇 구동 영상을 공개하자 로봇 관련주가 일제히 급등세를 보였다.",
+        "body": "로봇 관련주가 현대자동차그룹의 로보틱스 자회사 보스턴다이내믹스와 LG CNS 등이 공개한 진일보한 로봇 구동 영상에 힘입어 가파른 반등세를 나타냈다. 이번 흐름은 로봇 완성도가 높아졌다는 시장의 평가와 맞물리며 관련 종목 전반으로 매수세가 확산된 데 따른 것이다. 원문에 따르면 보스턴다이내믹스와 LG CNS 등은 잇달아 발전된 로봇 구동 장면을 공개했고, 이는 로봇 기업들의 상용화 로드맵에 대한 관심을 다시 키우는 계기가 됐다. 다만 기사에서 제시된 정보는 영상 공개와 관련주 급등세, 상용화 기대에 한정된다. 향후 주가 흐름은 추가 공개 자료와 상용화 진척 여부에 따라 달라질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Robot Stocks Rally as Boston Dynamics and LG CNS Reveal New Videos",
+        "excerpt": "Robot-related stocks rose sharply after Hyundai Motor Group’s Boston Dynamics and LG CNS released advanced robot operation videos, reviving market attention.",
+        "body": "Robot-related stocks staged a sharp rebound after Boston Dynamics, Hyundai Motor Group’s robotics subsidiary, and LG CNS released videos showing more advanced robot operation. The move came as the market viewed the robots’ level of completion as having improved, helping buying interest spread across related shares. According to the original report, Boston Dynamics and LG CNS each disclosed upgraded robot-driving scenes, which renewed attention on commercialization roadmaps among robotics companies. The information in the article is limited to the video releases, the broad rise in robot-related stocks, and expectations around commercialization. Future share moves may depend on additional disclosures and progress toward commercialization. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ロボット関連株が急騰、ボストン・ダイナミクスとLG CNS動画で反発",
+        "excerpt": "現代自動車グループ傘下のボストン・ダイナミクスとLG CNSが進化したロボット駆動映像を公開し、関連株が一斉に上昇した。",
+        "body": "ロボット関連株は、現代自動車グループのロボティクス子会社ボストン・ダイナミクスとLG CNSなどが公開した、より進化したロボット駆動映像を受けて急反発した。今回の動きは、ロボットの完成度が高まったとの市場評価と重なり、関連銘柄全般に買いが広がったことによるものだ。原文によると、ボストン・ダイナミクスとLG CNSなどは相次いで発展したロボットの駆動場面を公開し、ロボット企業の商用化ロードマップへの関心を再び高めるきっかけとなった。ただし記事で示された情報は、映像公開、関連株の急騰、商用化期待に限られる。今後の株価動向は追加公開資料や商用化の進展次第となる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "机器人概念股集体大涨，波士顿动力与LG CNS视频引发反弹",
+        "excerpt": "现代汽车集团旗下波士顿动力和LG CNS等公开更先进的机器人运行视频后，机器人相关股票出现明显反弹。",
+        "body": "机器人相关股票在现代汽车集团机器人子公司波士顿动力和LG CNS等发布更先进的机器人运行视频后出现快速反弹。此次走势与市场对机器人完成度提升的评价相呼应，买盘扩散至相关个股。原文称，波士顿动力和LG CNS等相继公开了进步后的机器人驱动画面，这也重新提升了市场对机器人企业商业化路线图的关注。不过，报道所提供的信息仅限于视频发布、机器人相关股上涨以及商业化期待。后续股价走势可能取决于更多公开资料和商业化推进情况。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Acciones de robótica suben tras videos de Boston Dynamics y LG CNS",
+        "excerpt": "Las acciones vinculadas a la robótica repuntaron con fuerza después de que Boston Dynamics, de Hyundai Motor Group, y LG CNS difundieran videos avanzados.",
+        "body": "Las acciones relacionadas con la robótica registraron un fuerte repunte después de que Boston Dynamics, filial de robótica de Hyundai Motor Group, y LG CNS publicaran videos que muestran una operación de robots más avanzada. El movimiento coincidió con la percepción del mercado de que el nivel de acabado de los robots había mejorado, lo que extendió las compras entre valores del sector. Según el reporte original, Boston Dynamics y LG CNS divulgaron de forma sucesiva escenas mejoradas de funcionamiento robótico, reactivando el interés por las hojas de ruta de comercialización de estas empresas. La información del artículo se limita a los videos, la subida de las acciones relacionadas y las expectativas de comercialización. La evolución futura dependerá de nuevos materiales y avances comerciales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ações de robótica disparam após vídeos da Boston Dynamics e LG CNS",
+        "excerpt": "Papéis ligados à robótica avançaram com força após Boston Dynamics, do Hyundai Motor Group, e LG CNS divulgarem vídeos de robôs mais avançados em operação.",
+        "body": "As ações relacionadas à robótica tiveram forte recuperação depois que a Boston Dynamics, subsidiária de robótica do Hyundai Motor Group, e a LG CNS divulgaram vídeos mostrando uma operação robótica mais avançada. O movimento veio junto da avaliação do mercado de que o nível de acabamento dos robôs melhorou, levando compras a se espalharem pelos papéis do setor. Segundo a reportagem original, Boston Dynamics e LG CNS publicaram em sequência cenas aprimoradas de robôs em funcionamento, reacendendo o interesse pelos roteiros de comercialização das empresas de robótica. As informações do artigo se limitam à divulgação dos vídeos, à alta das ações relacionadas e às expectativas de comercialização. A trajetória futura pode depender de novos materiais e do avanço comercial. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Robotik-Aktien steigen nach Videos von Boston Dynamics und LG CNS",
+        "excerpt": "Robotiknahe Aktien legten deutlich zu, nachdem Boston Dynamics von Hyundai Motor Group und LG CNS fortgeschrittene Videos zum Roboterbetrieb veröffentlichten.",
+        "body": "Robotikbezogene Aktien erholten sich kräftig, nachdem Boston Dynamics, die Robotiktochter der Hyundai Motor Group, und LG CNS Videos mit weiterentwickeltem Roboterbetrieb veröffentlicht hatten. Die Bewegung fiel mit der Markteinschätzung zusammen, dass der Reifegrad der Roboter gestiegen sei, wodurch sich Kaufinteresse auf einschlägige Titel ausweitete. Dem Originalbericht zufolge zeigten Boston Dynamics und LG CNS nacheinander verbesserte Szenen des Roboterantriebs, was das Interesse an den Kommerzialisierungsfahrplänen von Robotikunternehmen wieder verstärkte. Die Angaben des Artikels beschränken sich auf die Videoveröffentlichungen, den Anstieg robotikbezogener Aktien und Erwartungen an die Kommerzialisierung. Die weitere Kursentwicklung kann von zusätzlichen Veröffentlichungen und Fortschritten bei der Markteinführung abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les actions robotiques bondissent après les vidéos Boston Dynamics et LG CNS",
+        "excerpt": "Les valeurs liées à la robotique ont fortement rebondi après la publication de vidéos avancées par Boston Dynamics, filiale de Hyundai Motor Group, et LG CNS.",
+        "body": "Les actions liées à la robotique ont nettement rebondi après que Boston Dynamics, filiale robotique de Hyundai Motor Group, et LG CNS ont publié des vidéos montrant un fonctionnement de robots plus avancé. Ce mouvement s’inscrit dans un contexte où le marché estime que le niveau d’achèvement des robots s’est amélioré, ce qui a élargi les achats à l’ensemble des valeurs concernées. Selon l’article original, Boston Dynamics et LG CNS ont successivement dévoilé des scènes de déplacement robotique plus développées, ravivant l’intérêt pour les feuilles de route de commercialisation des entreprises du secteur. Les informations citées se limitent aux vidéos, à la hausse des actions liées à la robotique et aux attentes de commercialisation. L’évolution future dépendra de nouvelles publications et des progrès commerciaux. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسهم الروبوتات تقفز بعد مقاطع Boston Dynamics وLG CNS الجديدة",
+        "excerpt": "ارتفعت الأسهم المرتبطة بالروبوتات بقوة بعدما نشرت Boston Dynamics التابعة لمجموعة هيونداي موتور وLG CNS مقاطع تشغيل روبوتات أكثر تطورا.",
+        "body": "سجلت الأسهم المرتبطة بالروبوتات ارتدادا حادا بعدما نشرت Boston Dynamics، ذراع الروبوتات التابعة لمجموعة هيونداي موتور، وLG CNS مقاطع فيديو تظهر تشغيلا أكثر تقدما للروبوتات. وجاءت هذه الحركة مع تقييم السوق بأن مستوى اكتمال الروبوتات قد تحسن، ما ساعد على انتشار الطلب على الأسهم ذات الصلة. وبحسب التقرير الأصلي، كشفت Boston Dynamics وLG CNS تباعا عن مشاهد تشغيل روبوتية متطورة، الأمر الذي أعاد تسليط الضوء على خرائط طريق التسويق التجاري لدى شركات الروبوتات. وتقتصر معلومات المقال على نشر المقاطع، وصعود الأسهم المرتبطة بالروبوتات، وتوقعات التسويق التجاري. وقد يتوقف مسار الأسعار لاحقا على الإفصاحات الإضافية ومدى تقدم خطط التسويق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Boston Dynamics और LG CNS वीडियो के बाद रोबोटिक्स शेयरों में तेज उछाल",
+        "excerpt": "Hyundai Motor Group की Boston Dynamics और LG CNS द्वारा उन्नत रोबोट संचालन वीडियो जारी करने के बाद रोबोटिक्स से जुड़े शेयरों में तेज तेजी आई।",
+        "body": "Hyundai Motor Group की रोबोटिक्स सहायक कंपनी Boston Dynamics और LG CNS द्वारा अधिक उन्नत रोबोट संचालन दिखाने वाले वीडियो जारी किए जाने के बाद रोबोट से जुड़े शेयरों में तेज वापसी देखी गई। यह रुझान बाजार की उस धारणा से जुड़ा रहा कि रोबोट की पूर्णता का स्तर बेहतर हुआ है, जिससे संबंधित शेयरों में खरीदारी फैली। मूल रिपोर्ट के अनुसार, Boston Dynamics और LG CNS ने क्रमशः विकसित रोबोट संचालन दृश्य सार्वजनिक किए, जिससे रोबोट कंपनियों की व्यावसायीकरण रोडमैप को लेकर रुचि फिर बढ़ी। लेख में दी गई जानकारी वीडियो जारी होने, संबंधित शेयरों की तेजी और व्यावसायीकरण अपेक्षाओं तक सीमित है। आगे की चाल अतिरिक्त खुलासों और व्यावसायीकरण प्रगति पर निर्भर हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Robotik Melonjak Usai Video Boston Dynamics dan LG CNS Dirilis",
+        "excerpt": "Saham terkait robotik naik tajam setelah Boston Dynamics milik Hyundai Motor Group dan LG CNS merilis video pengoperasian robot yang lebih maju.",
+        "body": "Saham-saham terkait robotik mencatat rebound tajam setelah Boston Dynamics, anak usaha robotik Hyundai Motor Group, dan LG CNS merilis video yang menampilkan pengoperasian robot yang lebih maju. Pergerakan ini sejalan dengan penilaian pasar bahwa tingkat penyempurnaan robot telah meningkat, sehingga minat beli menyebar ke saham-saham terkait. Menurut laporan asli, Boston Dynamics dan LG CNS secara berurutan mempublikasikan adegan penggerak robot yang berkembang, yang kembali meningkatkan perhatian terhadap peta jalan komersialisasi perusahaan robotik. Informasi dalam artikel terbatas pada perilisan video, kenaikan saham terkait robotik, dan ekspektasi komersialisasi. Pergerakan harga berikutnya dapat bergantung pada materi tambahan dan kemajuan komersialisasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2a99bd36c8e7",
+    "slug": "코오롱인더-영업이익-130-급증-396071",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T17:46:09.270Z",
+    "updatedAt": "2026-05-08T17:46:09.270Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041386",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041386",
+    "titleFingerprint": "5c737ce01098a5d8351ef9f44d353787d4695bfa",
+    "dedupKeys": [
+      "2a99bd36c8e7d343cb1d0809c3ea5d8de92d9985",
+      "5c737ce01098a5d8351ef9f44d353787d4695bfa",
+      "663bf68efc325d63e07186025d8c851e0246e1ab"
+    ],
+    "imageUrl": "/images/articles/2a99bd36c8e7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국타이어앤테크놀로지 1분기 영업이익 5069억원, 전년 대비 42.9% 증가",
+        "excerpt": "한국타이어앤테크놀로지는 8일 공시를 통해 올해 1분기 연결 기준 매출 5조3139억원, 영업이익 5069억원을 기록했다고 밝혔다.",
+        "body": "한국타이어앤테크놀로지는 8일 공시에서 올해 1분기 연결 기준 매출액 5조3139억원과 영업이익 5069억원을 기록했다고 밝혔다. 전년 동기와 비교하면 매출은 7%, 영업이익은 42.9% 증가했다. 이번 실적은 1분기 연결 재무제표 기준으로 공개된 수치다. 회사의 매출과 영업이익이 모두 전년 같은 기간보다 늘면서 수익성 지표도 함께 개선된 것으로 나타났다. 다만 공시 내용상 구체적인 사업 부문별 실적이나 증가 요인은 제시되지 않았다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Hankook Tire Q1 operating profit rises 42.9% to 506.9 billion won",
+        "excerpt": "Hankook Tire & Technology said in a May 8 filing that first-quarter consolidated sales reached 5.3139 trillion won and operating profit 506.9 billion won.",
+        "body": "Hankook Tire & Technology said in a May 8 regulatory filing that its consolidated revenue for the first quarter of this year was 5.3139 trillion won, with operating profit of 506.9 billion won. Compared with the same period a year earlier, revenue rose 7% and operating profit increased 42.9%. The figures were disclosed on a consolidated first-quarter basis. With both sales and operating profit higher year on year, the company’s profitability indicator also improved. The filing did not provide detailed results by business segment or specific reasons for the increase. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "ハンコックタイヤ、第1四半期営業益5069億ウォンで42.9％増",
+        "excerpt": "ハンコックタイヤ＆テクノロジーは8日の公示で、今年第1四半期の連結売上高が5兆3139億ウォン、営業利益が5069億ウォンだったと明らかにした。",
+        "body": "ハンコックタイヤ＆テクノロジーは8日の公示で、今年第1四半期の連結基準売上高が5兆3139億ウォン、営業利益が5069億ウォンだったと発表した。前年同期比で売上高は7％、営業利益は42.9％増加した。今回の業績は第1四半期の連結財務諸表に基づいて公開された数値だ。売上高と営業利益がいずれも前年同期を上回り、収益性指標も改善した。ただし、公示内容では事業部門別の詳細な実績や増加要因は示されていない。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "韩泰轮胎一季度营业利润5069亿韩元，同比增长42.9%",
+        "excerpt": "韩泰轮胎与科技8日公告称，今年第一季度合并口径销售额为5.3139万亿韩元，营业利润为5069亿韩元。",
+        "body": "韩泰轮胎与科技8日发布公告称，今年第一季度按合并口径计算，销售额为5.3139万亿韩元，营业利润为5069亿韩元。与去年同期相比，销售额增长7%，营业利润增长42.9%。此次业绩为第一季度合并财务报表口径下披露的数据。销售额和营业利润均较去年同期增加，显示盈利能力指标同步改善。不过，公告中未列出各业务部门的具体业绩或增长原因。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Hankook Tire eleva su beneficio operativo trimestral un 42,9%, hasta 506.900 millones de wones",
+        "excerpt": "Hankook Tire & Technology informó el día 8 que en el primer trimestre registró ventas consolidadas de 5,3139 billones de wones y beneficio operativo de 506.900 millones.",
+        "body": "Hankook Tire & Technology comunicó el día 8 que sus ventas consolidadas del primer trimestre de este año fueron de 5,3139 billones de wones y que el beneficio operativo alcanzó 506.900 millones de wones. Frente al mismo periodo del año anterior, las ventas aumentaron un 7% y el beneficio operativo creció un 42,9%. Las cifras corresponden a resultados consolidados del primer trimestre. Al subir tanto los ingresos como el beneficio operativo, también mejoró el indicador de rentabilidad. La comunicación no detalló resultados por división ni causas específicas del incremento. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Hankook Tire tem lucro operacional de 506,9 bilhões de wons no 1º trimestre, alta de 42,9%",
+        "excerpt": "A Hankook Tire & Technology informou em divulgação no dia 8 que registrou receita consolidada de 5,3139 trilhões de wons e lucro operacional de 506,9 bilhões no primeiro trimestre.",
+        "body": "A Hankook Tire & Technology informou em comunicado no dia 8 que sua receita consolidada no primeiro trimestre deste ano foi de 5,3139 trilhões de wons, com lucro operacional de 506,9 bilhões de wons. Em relação ao mesmo período do ano anterior, a receita aumentou 7% e o lucro operacional cresceu 42,9%. Os números foram divulgados com base nas demonstrações financeiras consolidadas do primeiro trimestre. Com alta tanto nas vendas quanto no lucro operacional, o indicador de rentabilidade também melhorou. O comunicado não apresentou dados por segmento de negócios nem motivos específicos para o aumento. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Hankook Tire steigert operativen Gewinn im ersten Quartal um 42,9% auf 506,9 Mrd. Won",
+        "excerpt": "Hankook Tire & Technology teilte am 8. mit, dass der konsolidierte Umsatz im ersten Quartal 5,3139 Billionen Won und der operative Gewinn 506,9 Milliarden Won betrug.",
+        "body": "Hankook Tire & Technology gab am 8. in einer Mitteilung bekannt, dass der konsolidierte Umsatz im ersten Quartal dieses Jahres 5,3139 Billionen Won erreichte und der operative Gewinn bei 506,9 Milliarden Won lag. Gegenüber dem Vorjahreszeitraum stieg der Umsatz um 7%, der operative Gewinn um 42,9%. Die Angaben beziehen sich auf die konsolidierten Finanzzahlen des ersten Quartals. Da sowohl Umsatz als auch operativer Gewinn im Jahresvergleich zulegten, verbesserte sich auch die Profitabilitätskennzahl. Details nach Geschäftsbereichen oder konkrete Gründe für den Anstieg wurden in der Mitteilung nicht genannt. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Hankook Tire affiche 506,9 milliards de wons de bénéfice opérationnel au T1, en hausse de 42,9%",
+        "excerpt": "Hankook Tire & Technology a annoncé le 8 que son chiffre d’affaires consolidé du premier trimestre atteignait 5,3139 billions de wons et son bénéfice opérationnel 506,9 milliards.",
+        "body": "Hankook Tire & Technology a indiqué le 8 dans une publication réglementaire que son chiffre d’affaires consolidé du premier trimestre de cette année s’élevait à 5,3139 billions de wons, avec un bénéfice opérationnel de 506,9 milliards de wons. Par rapport à la même période de l’an dernier, le chiffre d’affaires a progressé de 7% et le bénéfice opérationnel de 42,9%. Ces chiffres correspondent aux comptes consolidés du premier trimestre. La hausse conjointe des ventes et du bénéfice opérationnel montre aussi une amélioration de la rentabilité. La publication ne précise pas les résultats par activité ni les raisons détaillées de cette progression. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "هانكوك تاير تسجل 506.9 مليار وون أرباحا تشغيلية في الربع الأول بزيادة 42.9%",
+        "excerpt": "أعلنت هانكوك تاير آند تكنولوجي في إفصاح يوم 8 أن مبيعاتها الموحدة في الربع الأول بلغت 5.3139 تريليون وون، وأن أرباح التشغيل وصلت إلى 506.9 مليار وون.",
+        "body": "أعلنت هانكوك تاير آند تكنولوجي في إفصاح يوم 8 أن إيراداتها الموحدة للربع الأول من هذا العام بلغت 5.3139 تريليون وون، بينما سجلت أرباحا تشغيلية قدرها 506.9 مليار وون. وبالمقارنة مع الفترة نفسها من العام السابق، ارتفعت المبيعات 7% وزادت الأرباح التشغيلية 42.9%. وتعتمد هذه الأرقام على البيانات المالية الموحدة للربع الأول. ومع ارتفاع كل من المبيعات والأرباح التشغيلية على أساس سنوي، تحسن مؤشر الربحية أيضا. ولم يتضمن الإفصاح تفاصيل الأداء حسب قطاعات الأعمال أو أسبابا محددة للزيادة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "हैंकूक टायर का पहली तिमाही परिचालन लाभ 506.9 अरब वॉन, सालाना 42.9% बढ़ा",
+        "excerpt": "हैंकूक टायर एंड टेक्नोलॉजी ने 8 तारीख की फाइलिंग में बताया कि इस साल पहली तिमाही में समेकित बिक्री 5.3139 ट्रिलियन वॉन और परिचालन लाभ 506.9 अरब वॉन रहा।",
+        "body": "हैंकूक टायर एंड टेक्नोलॉजी ने 8 तारीख की नियामकीय फाइलिंग में कहा कि इस साल पहली तिमाही में उसका समेकित राजस्व 5.3139 ट्रिलियन वॉन और परिचालन लाभ 506.9 अरब वॉन रहा। पिछले साल की समान अवधि की तुलना में बिक्री 7% और परिचालन लाभ 42.9% बढ़ा। ये आंकड़े पहली तिमाही के समेकित वित्तीय विवरणों के आधार पर जारी किए गए हैं। बिक्री और परिचालन लाभ दोनों के सालाना आधार पर बढ़ने से लाभप्रदता संकेतक में भी सुधार दिखा। हालांकि फाइलिंग में कारोबार खंडवार विस्तृत प्रदर्शन या वृद्धि के विशिष्ट कारण नहीं दिए गए। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Hankook Tire cetak laba operasi kuartal I 506,9 miliar won, naik 42,9%",
+        "excerpt": "Hankook Tire & Technology menyatakan dalam keterbukaan pada 8 Mei bahwa penjualan konsolidasi kuartal I mencapai 5,3139 triliun won dan laba operasi 506,9 miliar won.",
+        "body": "Hankook Tire & Technology menyampaikan dalam keterbukaan pada 8 Mei bahwa pendapatan konsolidasi kuartal pertama tahun ini mencapai 5,3139 triliun won, dengan laba operasi sebesar 506,9 miliar won. Dibandingkan periode yang sama tahun sebelumnya, penjualan naik 7% dan laba operasi meningkat 42,9%. Angka tersebut dipublikasikan berdasarkan laporan keuangan konsolidasi kuartal pertama. Kenaikan penjualan dan laba operasi secara tahunan menunjukkan indikator profitabilitas ikut membaik. Namun, keterbukaan tersebut tidak memuat rincian kinerja per segmen usaha maupun penyebab spesifik kenaikan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "6a57a5815394",
     "slug": "빚투-36조-vs-공매도-28조-사상최대-대결-484256",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Server AI Dorong Ekspor Taiwan, Korea Dinilai Kekurangan Produsen Lokal",
         "excerpt": "Pesanan server AI dari Big Tech membuat server menjadi ekspor utama Taiwan dan pendapatan Wiwynn naik 2,6 kali, sementara Korea dinilai masih lemah dalam basis manufaktur server domestik.",
         "body": "Taiwan baru-baru ini melihat server menjadi produk ekspor nomor satu seiring melonjaknya permintaan server kecerdasan buatan. Kenaikan pesanan server AI dari perusahaan Big Tech mendorong pendapatan produsen server Taiwan, Wiwynn, naik 2,6 kali, dengan laporan asli menyebut skala 44 triliun won. Sebaliknya, Korea dinilai belum memiliki perusahaan server domestik yang kuat, sementara manufaktur server terutama dilakukan oleh usaha kecil dan menengah. Ketika persaingan infrastruktur AI semakin besar, kemampuan memproduksi server dipandang sebagai fondasi penting bagi ekosistem semikonduktor dan pusat data. Karena itu, muncul seruan agar Korea membesarkan produsen servernya sendiri. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "10e33254f18c",
-    "slug": "오월의-꽃-오늘의-빛광주전남-곳곳서-518-46주년-기념행사-929214",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T05:16:24.618Z",
-    "updatedAt": "2026-05-08T05:16:24.618Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12041024",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12041024",
-    "titleFingerprint": "3ddfcffa6d5ffeed2a91110cb4c59e765403f22a",
-    "dedupKeys": [
-      "10e33254f18c49c3f6ec660db45bc2b9fefdf4b8",
-      "3ddfcffa6d5ffeed2a91110cb4c59e765403f22a",
-      "98fda23bcd27fd676926f98392d55758cf17692a"
-    ],
-    "imageUrl": "/images/articles/10e33254f18c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "5·18 46주년 기념행사, 광주·전남 곳곳서 오월 정신 잇는다",
-        "excerpt": "광주·전남은 5·18민주화운동 46주년을 맞아 전남도청과 빛가람 등에서 기념식·문화제, 기록관 특별 개관, 영화·VR 체험을 진행한다.",
-        "body": "광주와 전남 곳곳에서 5·18민주화운동 46주년을 기념하는 행사가 열린다. 전남도청과 빛가람 일대에서는 기념식과 문화제가 마련되고, 5·18 관련 기록관은 특별 개관을 통해 관람객을 맞는다. 행사에는 영화 상영과 VR 체험 등 체험형 프로그램이 확대돼 시민 참여 폭을 넓힌다. 국립아시아문화전당도 18일 임시 운영해 관람객 편의를 제공한다. 특히 청소년 참여를 늘려 오월 정신을 다음 세대에 계승하는 데 초점을 맞췄다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "May 18 46th anniversary events across Gwangju and Jeonnam honor democratic spirit",
-        "excerpt": "Gwangju and Jeonnam will mark the 46th anniversary of the May 18 Democratic Uprising with ceremonies, cultural events, archives access, films and VR programs.",
-        "body": "Events commemorating the 46th anniversary of the May 18 Democratic Uprising will be held across Gwangju and South Jeolla. Ceremonies and cultural festivals are planned at the former Jeonnam Provincial Office and in the Bitgaram area, while a related archive will open specially to visitors. Programs will expand to include film screenings and VR experiences, broadening public participation. The Asia Culture Center will also operate temporarily on May 18 to improve visitor convenience. Organizers are placing particular emphasis on youth participation to pass on the spirit of May to the next generation. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "5・18民主化運動46周年、光州・全南各地で五月精神を継承",
-        "excerpt": "光州・全南は5・18民主化運動46周年に合わせ、全南道庁やビッカラムで記念式典、文化祭、記録館特別開館、映画・VR体験を行う。",
-        "body": "光州と全羅南道の各地で、5・18民主化運動46周年を記念する行事が開かれる。全南道庁とビッカラム一帯では記念式典と文化祭が用意され、5・18関連の記録館は特別開館して来館者を迎える。行事では映画上映やVR体験など参加型プログラムを拡充し、市民が関わる機会を広げる。国立アジア文化殿堂も18日に臨時運営し、観覧客の利便性を高める。特に青少年の参加を増やし、五月精神を次世代へ継承することに重点を置く。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "五一八民主化运动46周年，光州全南多地延续五月精神",
-        "excerpt": "光州和全南将迎来五一八民主化运动46周年，在全南道厅、光之村等地举行纪念仪式、文化节，并开放记录馆和电影、VR体验。",
-        "body": "光州和全罗南道多地将举行五一八民主化运动46周年纪念活动。全南道厅和光之村一带将举办纪念仪式和文化节，五一八相关记录馆也将特别开放迎接参观者。活动还扩大电影放映和VR体验等参与型项目，拓宽市民参与渠道。国立亚洲文化殿堂也将在18日临时运营，为观众提供便利。此次活动尤其扩大青少年参与，重点在于把五月精神传承给下一代。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "46.º aniversario del 18 de Mayo: Gwangju y Jeonnam honran el espíritu democrático",
-        "excerpt": "Gwangju y Jeonnam conmemorarán el 46.º aniversario del Levantamiento Democrático del 18 de Mayo con ceremonias, festivales, archivos, cine y VR.",
-        "body": "Gwangju y la provincia de Jeolla del Sur celebrarán actos por el 46.º aniversario del Levantamiento Democrático del 18 de Mayo. En la antigua sede del Gobierno provincial de Jeonnam y en la zona de Bitgaram se preparan ceremonias y festivales culturales, mientras que un archivo relacionado abrirá de forma especial al público. El programa ampliará las proyecciones de cine y las experiencias de realidad virtual para facilitar una mayor participación ciudadana. El Centro Cultural de Asia también operará temporalmente el día 18 para comodidad de los visitantes. El énfasis estará en aumentar la participación juvenil y transmitir el espíritu de Mayo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "46º aniversário de 18 de Maio terá eventos em Gwangju e Jeonnam",
-        "excerpt": "Gwangju e Jeonnam marcam o 46º aniversário do Movimento Democrático de 18 de Maio com cerimônias, festivais, arquivo especial, filmes e VR.",
-        "body": "Gwangju e a província de Jeolla do Sul realizarão eventos pelo 46º aniversário do Movimento Democrático de 18 de Maio. Cerimônias e festivais culturais estão previstos no antigo Governo Provincial de Jeonnam e na área de Bitgaram, enquanto um arquivo relacionado ao 5·18 abrirá especialmente ao público. A programação ampliará exibições de filmes e experiências em VR, aumentando as formas de participação cidadã. O Centro Cultural da Ásia também funcionará temporariamente no dia 18 para atender melhor os visitantes. O foco inclui ampliar a participação de jovens e transmitir o espírito de Maio às próximas gerações. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "46. Jahrestag des 18. Mai: Gwangju und Jeonnam erinnern an Demokratiebewegung",
-        "excerpt": "Gwangju und Jeonnam begehen den 46. Jahrestag der Demokratisierungsbewegung vom 18. Mai mit Feiern, Kulturfesten, Sonderöffnung, Film und VR.",
-        "body": "In Gwangju und der Provinz Süd-Jeolla finden Veranstaltungen zum 46. Jahrestag der Demokratisierungsbewegung vom 18. Mai statt. Am ehemaligen Jeonnam-Provinzamt und im Gebiet Bitgaram sind Gedenkfeiern und Kulturfeste geplant; ein zu 5·18 gehörendes Archiv öffnet eigens für Besucher. Das Programm wird um Filmvorführungen und VR-Erlebnisse erweitert, um mehr Bürger einzubeziehen. Auch das Asia Culture Center wird am 18. vorübergehend geöffnet, um den Besuchern entgegenzukommen. Besonderes Gewicht liegt auf stärkerer Beteiligung junger Menschen und der Weitergabe des Geistes des Mai. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "46e anniversaire du 18 Mai: Gwangju et Jeonnam transmettent l’esprit démocratique",
-        "excerpt": "Gwangju et Jeonnam commémorent le 46e anniversaire du Mouvement démocratique du 18 Mai avec cérémonies, festivals, archives, films et VR.",
-        "body": "Des événements auront lieu à Gwangju et dans le Jeolla du Sud pour commémorer le 46e anniversaire du Mouvement démocratique du 18 Mai. Des cérémonies et festivals culturels sont prévus à l’ancien bureau provincial de Jeonnam et dans le secteur de Bitgaram, tandis qu’un centre d’archives lié au 5·18 ouvrira spécialement au public. Le programme élargit les projections de films et les expériences en VR afin d’accroître la participation citoyenne. Le Centre culturel asiatique fonctionnera aussi temporairement le 18 pour faciliter la visite. L’accent est mis sur la participation des jeunes et la transmission de l’esprit de Mai. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الذكرى 46 لانتفاضة 18 مايو: فعاليات في غوانغجو وجنوب جولا لإحياء الروح الديمقراطية",
-        "excerpt": "تحيي غوانغجو وجنوب جولا الذكرى 46 لحركة 18 مايو الديمقراطية عبر مراسم ومهرجانات وافتتاح خاص للأرشيف وعروض أفلام وتجارب واقع افتراضي.",
-        "body": "تقام في غوانغجو ومناطق من مقاطعة جنوب جولا فعاليات لإحياء الذكرى 46 لحركة 18 مايو الديمقراطية. وتشمل الفعاليات مراسم تذكارية ومهرجانات ثقافية في مقر حكومة جنوب جولا ومنطقة بيتغارام، مع افتتاح خاص لأرشيف مرتبط بالحركة لاستقبال الزوار. كما تتوسع البرامج لتشمل عروض أفلام وتجارب واقع افتراضي، بما يتيح مشاركة أوسع للمواطنين. وسيعمل مركز آسيا للثقافة مؤقتا في 18 مايو لتوفير راحة أكبر للزوار. وتركز الفعاليات خصوصا على زيادة مشاركة الشباب ونقل روح مايو إلى الجيل التالي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "18 मई आंदोलन की 46वीं वर्षगांठ, ग्वांगजू और जियोननाम में स्मृति कार्यक्रम",
-        "excerpt": "ग्वांगजू और जियोननाम 18 मई लोकतांत्रिक आंदोलन की 46वीं वर्षगांठ पर समारोह, सांस्कृतिक उत्सव, विशेष अभिलेखागार, फिल्म और VR अनुभव आयोजित करेंगे।",
-        "body": "ग्वांगजू और दक्षिण जियोला के कई स्थानों पर 18 मई लोकतांत्रिक आंदोलन की 46वीं वर्षगांठ के कार्यक्रम होंगे। जियोननाम प्रांतीय कार्यालय और बिटगराम क्षेत्र में स्मृति समारोह और सांस्कृतिक उत्सव आयोजित किए जाएंगे, जबकि 5·18 से जुड़ा अभिलेखागार विशेष रूप से आगंतुकों के लिए खुलेगा। कार्यक्रमों में फिल्म प्रदर्शन और VR अनुभव जैसे सहभागी कार्यक्रमों का विस्तार होगा, जिससे नागरिक भागीदारी बढ़ेगी। एशिया कल्चर सेंटर भी 18 मई को अस्थायी रूप से संचालित होगा ताकि दर्शकों को सुविधा मिल सके। खास जोर युवाओं की भागीदारी बढ़ाकर मई की भावना को अगली पीढ़ी तक पहुंचाने पर है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Peringatan 46 tahun 18 Mei, Gwangju dan Jeonnam lanjutkan semangat demokrasi",
-        "excerpt": "Gwangju dan Jeonnam memperingati 46 tahun Gerakan Demokrasi 18 Mei lewat upacara, festival budaya, pembukaan arsip khusus, film, dan VR.",
-        "body": "Berbagai acara peringatan 46 tahun Gerakan Demokrasi 18 Mei akan digelar di Gwangju dan Provinsi Jeolla Selatan. Upacara dan festival budaya disiapkan di Kantor Provinsi Jeonnam dan kawasan Bitgaram, sementara arsip terkait 5·18 akan dibuka khusus bagi pengunjung. Program juga diperluas dengan pemutaran film dan pengalaman VR untuk memperluas partisipasi warga. Asia Culture Center akan beroperasi sementara pada 18 Mei demi kenyamanan pengunjung. Penyelenggara menekankan peningkatan partisipasi remaja agar semangat Mei dapat diteruskan kepada generasi berikutnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fbb1e2448db5",
-    "slug": "속보-우-의장-개헌안-본회의-상정-않겠다-597986",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T05:15:24.057Z",
-    "updatedAt": "2026-05-08T05:15:24.057Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12041025",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12041025",
-    "titleFingerprint": "8dde5eaea166657ba192da6f4946d6ad62522ebd",
-    "dedupKeys": [
-      "fbb1e2448db54b2e7505ecbbad83d56e00e2db1d",
-      "8dde5eaea166657ba192da6f4946d6ad62522ebd",
-      "189eefb04cd18c5d710cc3c00f2b36ec169b90e2"
-    ],
-    "imageUrl": "/images/articles/fbb1e2448db5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우 의장, 개헌안 본회의 상정 않겠다…국회 절차 변수 부상",
-        "excerpt": "우 의장이 속보를 통해 개헌안을 국회 본회의에 상정하지 않겠다고 밝혔다. 구체적 배경과 후속 일정은 원문에 제시되지 않았다.",
-        "body": "우 의장이 개헌안을 국회 본회의에 상정하지 않겠다고 밝혔다. 이번 발언은 속보 형태로 전해졌으며, 누가 어떤 결정을 했는지는 명확하지만 구체적인 시점, 배경 설명, 후속 절차는 원문에 포함되지 않았다. 개헌안은 본회의 상정 여부가 국회 처리 과정의 핵심 절차인 만큼, 우 의장의 입장은 관련 논의의 진행 여부를 가르는 신호로 해석될 수 있다. 다만 원문에는 표결 계획, 여야 입장, 관련 수치가 제시되지 않아 추가 사실은 확인되지 않았다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Speaker Woo Says Constitutional Amendment Bill Will Not Go to Plenary",
-        "excerpt": "Speaker Woo said in a breaking report that he would not submit the constitutional amendment bill to the National Assembly plenary. No detailed background or schedule was provided.",
-        "body": "Speaker Woo said he would not submit the constitutional amendment bill to the National Assembly plenary session. The statement was reported as breaking news, making clear who made the decision and what action would not be taken, while the original text did not provide a specific time, detailed background, or next procedural steps. Because plenary submission is a key stage in handling a constitutional amendment bill, Woo’s position may affect whether related discussions proceed. However, the original report did not include voting plans, party positions, or numerical data, so no additional facts are confirmed. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "禹議長、改憲案を本会議に上程せず…国会手続きに影響",
-        "excerpt": "禹議長は速報で、改憲案を国会本会議に上程しないと明らかにした。具体的な背景や今後の日程は原文に示されていない。",
-        "body": "禹議長は、改憲案を国会本会議に上程しないと明らかにした。この発言は速報として伝えられ、誰がどのような判断を示したのかは明確だが、具体的な時点、背景説明、今後の手続きは原文に含まれていない。改憲案は本会議への上程可否が国会での処理過程における重要な手続きとなるため、禹議長の立場は関連議論の進行に影響する可能性がある。ただし原文には採決計画、与野党の立場、関連数値は示されておらず、追加事実は確認されていない。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "禹议长称不将修宪案提交全体会议，国会程序受关注",
-        "excerpt": "禹议长在快讯中表示，不会将修宪案提交国会全体会议。原文未说明具体背景、后续日程或相关数字。",
-        "body": "禹议长表示，不会将修宪案提交国会全体会议。该消息以快讯形式发布，明确了由谁作出何种决定，但原文未包含具体时间、背景说明或后续程序。修宪案能否提交全体会议，是国会处理过程中的关键环节，因此禹议长的表态可能影响相关讨论是否继续推进。不过，原文没有提供表决计划、朝野立场或相关数字，因此无法确认更多事实。来源：引自 mk.co.kr。"
-      },
-      "es": {
-        "title": "Presidente Woo no llevará la reforma constitucional al pleno",
-        "excerpt": "El presidente Woo dijo en una alerta que no presentará la reforma constitucional al pleno de la Asamblea Nacional. El texto original no detalló motivos ni calendario.",
-        "body": "El presidente Woo afirmó que no presentará la propuesta de reforma constitucional al pleno de la Asamblea Nacional. La declaración fue difundida como noticia de última hora y deja claro quién tomó la decisión y qué trámite no se realizará, aunque el texto original no incluye una hora concreta, explicación de fondo ni pasos posteriores. La presentación al pleno es una fase clave para el tratamiento de una reforma constitucional, por lo que la postura de Woo puede incidir en el avance del debate. Sin embargo, el original no ofrece planes de votación, posiciones partidarias ni cifras relacionadas. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Presidente Woo não levará emenda constitucional ao plenário",
-        "excerpt": "O presidente Woo afirmou em notícia urgente que não apresentará a emenda constitucional ao plenário da Assembleia Nacional. O texto original não trouxe contexto ou agenda.",
-        "body": "O presidente Woo afirmou que não apresentará a proposta de emenda constitucional ao plenário da Assembleia Nacional. A declaração foi divulgada como notícia urgente, deixando claro quem tomou a decisão e qual medida não será adotada, mas o texto original não informa horário específico, contexto detalhado nem próximos procedimentos. Como a apresentação ao plenário é uma etapa central no tratamento de uma emenda constitucional, a posição de Woo pode influenciar o andamento das discussões relacionadas. Ainda assim, o original não traz plano de votação, posições partidárias ou números associados. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Parlamentschef Woo bringt Verfassungsänderung nicht ins Plenum",
-        "excerpt": "Parlamentschef Woo erklärte in einer Eilmeldung, den Entwurf zur Verfassungsänderung nicht ins Plenum einzubringen. Gründe oder Termine nennt der Originaltext nicht.",
-        "body": "Parlamentschef Woo erklärte, er werde den Entwurf zur Verfassungsänderung nicht in die Plenarsitzung der Nationalversammlung einbringen. Die Aussage wurde als Eilmeldung verbreitet und macht klar, wer welche Entscheidung getroffen hat, doch der Originaltext nennt keinen genauen Zeitpunkt, keine Begründung und keine weiteren Verfahrensschritte. Da die Einbringung ins Plenum ein zentraler Schritt bei der Behandlung einer Verfassungsänderung ist, kann Woos Haltung den Fortgang der Debatte beeinflussen. Angaben zu Abstimmungsplänen, Positionen der Parteien oder Zahlen enthält der Originalbericht nicht. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Woo refuse de soumettre la révision constitutionnelle en plénière",
-        "excerpt": "Woo a déclaré dans une alerte qu’il ne soumettrait pas le projet de révision constitutionnelle à la séance plénière de l’Assemblée nationale. Aucun détail n’est donné.",
-        "body": "Woo a déclaré qu’il ne soumettrait pas le projet de révision constitutionnelle à la séance plénière de l’Assemblée nationale. L’information a été diffusée sous forme d’alerte et précise clairement qui a pris position et quelle procédure ne sera pas engagée, mais le texte original ne fournit ni moment exact, ni contexte détaillé, ni étapes suivantes. La soumission en plénière étant une étape clé du traitement d’un projet de révision constitutionnelle, cette position peut peser sur la poursuite des discussions. Le texte original ne mentionne toutefois aucun plan de vote, position des partis ou chiffre associé. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "وو يعلن عدم طرح تعديل الدستور على الجلسة العامة للبرلمان",
-        "excerpt": "قال رئيس البرلمان وو في خبر عاجل إنه لن يطرح مشروع التعديل الدستوري على الجلسة العامة للجمعية الوطنية. ولم يورد النص الأصلي خلفيات أو جدولا لاحقا.",
-        "body": "أعلن رئيس البرلمان وو أنه لن يطرح مشروع التعديل الدستوري على الجلسة العامة للجمعية الوطنية. وجاء التصريح في صيغة خبر عاجل، موضحا من اتخذ الموقف وما الإجراء الذي لن يتم، بينما لم يتضمن النص الأصلي توقيتا محددا أو خلفية تفصيلية أو خطوات لاحقة. وبما أن طرح مشروع التعديل الدستوري على الجلسة العامة يعد مرحلة رئيسية في مسار التعامل معه داخل البرلمان، فقد يؤثر موقف وو في استمرار النقاشات ذات الصلة. لكن التقرير الأصلي لم يذكر خطط تصويت أو مواقف الأحزاب أو أرقاما مرتبطة بالموضوع. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "वू ने कहा, संवैधानिक संशोधन विधेयक पूर्ण सदन में नहीं लाएंगे",
-        "excerpt": "अध्यक्ष वू ने ब्रेकिंग रिपोर्ट में कहा कि वे संवैधानिक संशोधन विधेयक को नेशनल असेंबली के पूर्ण सदन में पेश नहीं करेंगे। कारण या आगे की तारीख नहीं दी गई।",
-        "body": "अध्यक्ष वू ने कहा कि वे संवैधानिक संशोधन विधेयक को नेशनल असेंबली के पूर्ण सदन में पेश नहीं करेंगे। यह बयान ब्रेकिंग न्यूज के रूप में आया, जिससे यह स्पष्ट है कि निर्णय किसने लिया और कौन-सी प्रक्रिया आगे नहीं बढ़ेगी, लेकिन मूल पाठ में कोई विशिष्ट समय, विस्तृत पृष्ठभूमि या आगे की प्रक्रिया शामिल नहीं है। संवैधानिक संशोधन विधेयक के लिए पूर्ण सदन में पेश होना एक प्रमुख संसदीय चरण है, इसलिए वू की स्थिति संबंधित चर्चा की दिशा को प्रभावित कर सकती है। हालांकि मूल रिपोर्ट में मतदान योजना, दलों की स्थिति या संबंधित आंकड़े नहीं दिए गए हैं। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Ketua Woo Tak Akan Ajukan Amendemen Konstitusi ke Sidang Paripurna",
-        "excerpt": "Ketua Woo menyatakan dalam kabar terbaru bahwa ia tidak akan mengajukan amendemen konstitusi ke sidang paripurna Majelis Nasional. Rincian alasan dan jadwal tidak disebutkan.",
-        "body": "Ketua Woo menyatakan bahwa ia tidak akan mengajukan rancangan amendemen konstitusi ke sidang paripurna Majelis Nasional. Pernyataan ini disampaikan sebagai kabar terbaru, sehingga jelas siapa yang mengambil sikap dan langkah apa yang tidak akan dilakukan, tetapi teks asli tidak memuat waktu spesifik, latar belakang rinci, atau prosedur lanjutan. Karena pengajuan ke paripurna merupakan tahap penting dalam pembahasan amendemen konstitusi, sikap Woo dapat memengaruhi kelanjutan pembicaraan terkait. Namun, laporan asli tidak menyertakan rencana pemungutan suara, posisi partai, atau angka terkait. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "bcbab1e0bbf4",
-    "slug": "박현경이예원배소현-등-후원-프로-총출동play-sweet-팝업-오픈-164084",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T04:15:43.945Z",
-    "updatedAt": "2026-05-08T04:15:43.945Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12040978",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12040978",
-    "titleFingerprint": "f04d06be01016927cb11581353bb49f227b40497",
-    "dedupKeys": [
-      "bcbab1e0bbf467e638531a6e133117191d063048",
-      "f04d06be01016927cb11581353bb49f227b40497",
-      "9521e9a6fde60cedf21cb378eac0fd368ed789d8"
-    ],
-    "imageUrl": "/images/articles/bcbab1e0bbf4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "‘PLAY SWEET’ 팝업 오픈, 박현경·이예원·배소현 후원 프로 총출동",
-        "excerpt": "크리스에프앤씨가 서울 강남구 압구정 도산의 플래그십 공간 제로컨셉스토어에서 후원 프로 방문과 팬 사인회, 공간 체험을 결합한 ‘PLAY SWEET’ 팝업을 운영했다.",
-        "body": "크리스에프앤씨는 서울 강남구 압구정 도산에 위치한 플래그십 공간 ‘제로컨셉스토어(0cs)’에서 ‘PLAY SWEET’ 팝업을 열었다. 이번 팝업에는 박현경, 이예원, 배소현 등 후원 프로들이 총출동해 현장을 찾은 팬들과 만났다. 행사장은 후원 프로 방문에 맞춰 팬들이 몰리며 사인회와 공간 체험이 결합된 형태로 운영됐다. ‘PLAY SWEET’ 팝업은 브랜드 공간을 활용해 골프 팬과 후원 선수의 접점을 넓힌 사례로, 현장 참여형 콘텐츠를 통해 방문객 경험을 강화했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "PLAY SWEET Popup Opens With Sponsored Pros Park Hyun-kyung, Lee Ye-won and Bae So-hyun",
-        "excerpt": "Chris F&C operated the PLAY SWEET popup at its flagship Zero Concept Store in Apgujeong Dosan, Seoul, combining sponsored pro visits, fan signing events and space experiences.",
-        "body": "Chris F&C opened the ‘PLAY SWEET’ popup at its flagship space, Zero Concept Store (0cs), in Apgujeong Dosan, Gangnam-gu, Seoul. Sponsored professionals including Park Hyun-kyung, Lee Ye-won and Bae So-hyun appeared at the event and met fans who visited the venue. The popup drew crowds around the players’ visits and was run as a combined fan signing and space-experience event. By using its brand space, the PLAY SWEET popup expanded contact points between golf fans and sponsored athletes while strengthening on-site visitor experiences. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "『PLAY SWEET』ポップアップ開幕、朴賢敬・李睿媛・裵素賢ら協賛プロが集結",
-        "excerpt": "クリスF&Cはソウル江南区狎鴎亭・島山の旗艦空間ゼロコンセプトストアで、協賛プロ来場、サイン会、空間体験を組み合わせた『PLAY SWEET』を運営した。",
-        "body": "クリスF&Cは、ソウル江南区狎鴎亭・島山に位置する旗艦空間『ゼロコンセプトストア（0cs）』で『PLAY SWEET』ポップアップを開いた。今回のポップアップには朴賢敬、李睿媛、裵素賢ら協賛プロが集まり、会場を訪れたファンと交流した。会場にはプロの来場に合わせてファンが集まり、サイン会と空間体験を組み合わせた形で運営された。『PLAY SWEET』はブランド空間を活用し、ゴルフファンと協賛選手の接点を広げた事例となった。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "“PLAY SWEET”快闪开幕，朴贤敬、李艺媛、裴素贤等赞助球员亮相",
-        "excerpt": "Chris F&C在首尔江南区狎鸥亭岛山旗舰空间Zero Concept Store运营“PLAY SWEET”快闪，结合赞助球员到访、签名会与空间体验。",
-        "body": "Chris F&C在位于首尔江南区狎鸥亭岛山的旗舰空间“Zero Concept Store（0cs）”开设“PLAY SWEET”快闪活动。此次快闪邀请朴贤敬、李艺媛、裴素贤等赞助职业球员到场，与前来现场的球迷见面。随着赞助球员到访，现场聚集众多粉丝，活动以签名会和空间体验相结合的形式运营。“PLAY SWEET”快闪利用品牌空间，扩大了高尔夫球迷与赞助选手之间的接触点，并强化了到访者的现场体验。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Abre el popup PLAY SWEET con Park Hyun-kyung, Lee Ye-won y Bae So-hyun",
-        "excerpt": "Chris F&C operó el popup PLAY SWEET en su espacio insignia Zero Concept Store, en Apgujeong Dosan, Seúl, con visitas de profesionales patrocinadas, firmas y experiencias.",
-        "body": "Chris F&C abrió el popup ‘PLAY SWEET’ en su espacio insignia Zero Concept Store (0cs), ubicado en Apgujeong Dosan, Gangnam-gu, Seúl. En esta edición participaron profesionales patrocinadas como Park Hyun-kyung, Lee Ye-won y Bae So-hyun, que se reunieron con los aficionados que visitaron el lugar. El espacio atrajo a fans con motivo de la presencia de las jugadoras y funcionó como una combinación de sesión de firmas y experiencia del lugar. El popup aprovechó el espacio de marca para ampliar los puntos de contacto entre aficionados al golf y atletas patrocinadas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Popup PLAY SWEET abre com Park Hyun-kyung, Lee Ye-won e Bae So-hyun",
-        "excerpt": "A Chris F&C realizou o popup PLAY SWEET na Zero Concept Store, seu espaço flagship em Apgujeong Dosan, Seul, unindo visitas de profissionais patrocinadas, autógrafos e experiência.",
-        "body": "A Chris F&C abriu o popup ‘PLAY SWEET’ na Zero Concept Store (0cs), seu espaço flagship localizado em Apgujeong Dosan, Gangnam-gu, Seul. A ação contou com profissionais patrocinadas como Park Hyun-kyung, Lee Ye-won e Bae So-hyun, que encontraram os fãs presentes no local. Com a visita das atletas, o espaço recebeu grande público e foi operado em formato que combinou sessão de autógrafos e experiência no ambiente. O popup utilizou o espaço da marca para ampliar o contato entre fãs de golfe e atletas patrocinadas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "PLAY SWEET Popup startet mit Park Hyun-kyung, Lee Ye-won und Bae So-hyun",
-        "excerpt": "Chris F&C betrieb das PLAY SWEET Popup im Flagship-Bereich Zero Concept Store in Apgujeong Dosan, Seoul, mit Besuchen gesponserter Profis, Signierstunde und Raumerlebnis.",
-        "body": "Chris F&C eröffnete das ‘PLAY SWEET’ Popup im Flagship-Bereich Zero Concept Store (0cs) in Apgujeong Dosan, Gangnam-gu, Seoul. Bei dem Popup waren gesponserte Profis wie Park Hyun-kyung, Lee Ye-won und Bae So-hyun vor Ort und trafen die Fans, die den Veranstaltungsort besuchten. Durch die Besuche der Profis kamen viele Fans zusammen; betrieben wurde das Event als Kombination aus Signierstunde und Raumerlebnis. Das Popup nutzte den Markenraum, um Kontaktpunkte zwischen Golffans und gesponserten Athletinnen zu erweitern und das Besuchererlebnis zu stärken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le popup PLAY SWEET ouvre avec Park Hyun-kyung, Lee Ye-won et Bae So-hyun",
-        "excerpt": "Chris F&C a exploité le popup PLAY SWEET dans son espace phare Zero Concept Store à Apgujeong Dosan, Séoul, avec visites de pros sponsorisées, séances de dédicaces et expérience.",
-        "body": "Chris F&C a ouvert le popup ‘PLAY SWEET’ dans son espace phare Zero Concept Store (0cs), situé à Apgujeong Dosan, Gangnam-gu, Séoul. Des professionnelles sponsorisées, dont Park Hyun-kyung, Lee Ye-won et Bae So-hyun, y ont participé et rencontré les fans venus sur place. L’arrivée des joueuses a attiré de nombreux visiteurs, et l’événement a été organisé sous une forme combinant séance de dédicaces et expérience de l’espace. Le popup a utilisé l’espace de marque pour élargir les points de contact entre fans de golf et athlètes sponsorisées, tout en renforçant l’expérience sur site. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "افتتاح فعالية PLAY SWEET بمشاركة بارك هيون-كيونغ ولي يي-وون وباي سو-هيون",
-        "excerpt": "شغلت Chris F&C فعالية PLAY SWEET في متجر Zero Concept Store الرئيسي بمنطقة أبغوجيونغ دوسان في سيول، جامعة بين زيارات اللاعبات المدعومات والتوقيع وتجربة المكان.",
-        "body": "افتتحت Chris F&C فعالية ‘PLAY SWEET’ المؤقتة في مساحتها الرئيسية Zero Concept Store (0cs) الواقعة في أبغوجيونغ دوسان، غانغنام-غو، سيول. وشاركت في الفعالية لاعبات محترفات مدعومات مثل بارك هيون-كيونغ ولي يي-وون وباي سو-هيون، حيث التقين بالمشجعين الذين زاروا المكان. ومع حضور اللاعبات، توافد عدد من المعجبين، وتم تشغيل الفعالية بصيغة تجمع بين جلسة توقيع وتجربة للمساحة. واستخدمت الفعالية مساحة العلامة التجارية لتوسيع نقاط التواصل بين محبي الغولف والرياضيات المدعومات وتعزيز تجربة الزوار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "PLAY SWEET पॉपअप खुला, Park Hyun-kyung, Lee Ye-won और Bae So-hyun शामिल",
-        "excerpt": "Chris F&C ने सियोल के Apgujeong Dosan स्थित अपने फ्लैगशिप Zero Concept Store में PLAY SWEET पॉपअप चलाया, जिसमें प्रायोजित प्रो विजिट, फैन साइनिंग और स्पेस अनुभव जोड़े गए।",
-        "body": "Chris F&C ने सियोल के Gangnam-gu, Apgujeong Dosan में स्थित अपने फ्लैगशिप स्पेस Zero Concept Store (0cs) में ‘PLAY SWEET’ पॉपअप खोला। इस पॉपअप में Park Hyun-kyung, Lee Ye-won और Bae So-hyun जैसी प्रायोजित प्रो खिलाड़ी शामिल हुईं और स्थल पर पहुंचे प्रशंसकों से मिलीं। खिलाड़ियों की यात्रा के समय प्रशंसक जुटे और कार्यक्रम को फैन साइनिंग तथा स्पेस अनुभव के संयुक्त रूप में संचालित किया गया। ‘PLAY SWEET’ ने ब्रांड स्पेस का उपयोग कर गोल्फ प्रशंसकों और प्रायोजित खिलाड़ियों के बीच संपर्क बढ़ाया और आगंतुक अनुभव को मजबूत किया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Popup PLAY SWEET Dibuka, Park Hyun-kyung, Lee Ye-won dan Bae So-hyun Hadir",
-        "excerpt": "Chris F&C mengoperasikan popup PLAY SWEET di ruang flagship Zero Concept Store di Apgujeong Dosan, Seoul, memadukan kunjungan pro sponsor, sesi tanda tangan dan pengalaman ruang.",
-        "body": "Chris F&C membuka popup ‘PLAY SWEET’ di ruang flagship Zero Concept Store (0cs) yang berlokasi di Apgujeong Dosan, Gangnam-gu, Seoul. Popup ini menghadirkan pro sponsor seperti Park Hyun-kyung, Lee Ye-won dan Bae So-hyun, yang bertemu dengan para penggemar di lokasi. Kehadiran para atlet menarik kedatangan penggemar, sementara acara dijalankan sebagai kombinasi sesi tanda tangan dan pengalaman ruang. Popup ‘PLAY SWEET’ memanfaatkan ruang merek untuk memperluas titik temu antara penggemar golf dan atlet sponsor, sekaligus memperkuat pengalaman pengunjung di tempat. Sumber: mk.co.kr"
       }
     }
   }
