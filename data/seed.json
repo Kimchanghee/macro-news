@@ -1,5 +1,230 @@
 [
   {
+    "id": "3c2f5154ab55",
+    "slug": "인천-송도서-승용차가-횡단보도-건너던-행인-덮쳐3명-병원-이송-905989",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T14:10:21.666Z",
+    "updatedAt": "2026-05-08T14:10:21.666Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041909",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041909",
+    "titleFingerprint": "c7b422f4a6eb5e1caecc1bb387847a782632dbb8",
+    "dedupKeys": [
+      "3c2f5154ab55e3bd9ce2d61d8dda71fe02591395",
+      "c7b422f4a6eb5e1caecc1bb387847a782632dbb8",
+      "cbd4ac5d563f1b8955001aa603bf361203047e15"
+    ],
+    "imageUrl": "/images/articles/3c2f5154ab55.jpg",
+    "i18n": {
+      "ko": {
+        "title": "인천 송도 횡단보도 사고, 승용차가 보행자 덮쳐 3명 병원 이송",
+        "excerpt": "8일 오후 인천 연수구 송도동 도로에서 40대 A씨가 몰던 승용차가 횡단보도를 건너던 보행자들을 들이받아 3명이 병원으로 이송됐다.",
+        "body": "8일 오후 7시 10분께 인천시 연수구 송도동 도로에서 승용차가 횡단보도를 건너던 보행자들을 들이받는 사고가 발생했다. 인천소방본부 등에 따르면 40대 A씨가 몰던 승용차가 보행자들을 덮쳤고, 이 사고로 3명이 병원으로 이송됐다. 사고 장소는 보행자가 횡단보도를 이용하던 도로였다는 점에서 도심 교통안전 우려가 다시 제기된다. 당국은 현장 상황을 확인한 것으로 전해졌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Incheon Songdo Crosswalk Crash: Car Hits Pedestrians, 3 Taken to Hospital",
+        "excerpt": "On May 8 at about 7:10 p.m., a car driven by a man in his 40s struck pedestrians crossing a crosswalk in Songdo-dong, Yeonsu-gu, Incheon, sending three to hospital.",
+        "body": "At about 7:10 p.m. on May 8, a passenger car struck pedestrians who were crossing a crosswalk on a road in Songdo-dong, Yeonsu-gu, Incheon. According to the Incheon Fire Department and related authorities, the vehicle was driven by a man in his 40s, identified only as A. Three people were transported to a hospital after the crash. Because the accident occurred while pedestrians were using a crosswalk, it has renewed attention on urban road safety. Authorities were reported to have checked the situation at the scene. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "仁川・松島の横断歩道事故、乗用車が歩行者はね3人搬送",
+        "excerpt": "8日午後7時10分ごろ、仁川市延寿区松島洞の道路で40代A氏が運転する乗用車が横断歩道を渡っていた歩行者をはね、3人が病院に搬送された。",
+        "body": "8日午後7時10分ごろ、仁川市延寿区松島洞の道路で、乗用車が横断歩道を渡っていた歩行者をはねる事故が発生した。仁川消防本部などによると、車を運転していたのは40代のA氏で、この事故により3人が病院に搬送された。事故は歩行者が横断歩道を利用していた道路で起きたため、都市部の交通安全への懸念が改めて浮上している。当局は現場状況を確認したと伝えられている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "仁川松岛斑马线事故：轿车撞上过路行人，3人送医",
+        "excerpt": "5月8日晚7时10分许，仁川延寿区松岛洞一处道路上，一名40多岁A某驾驶的轿车撞上正在通过斑马线的行人，3人被送往医院。",
+        "body": "5月8日晚7时10分许，仁川市延寿区松岛洞一处道路发生轿车撞上行人的事故。仁川消防本部等方面称，一名40多岁的A某驾驶轿车，撞上正在通过斑马线的行人，事故造成3人被送往医院。由于事故发生在行人使用斑马线过路时，城市道路交通安全问题再次受到关注。据悉，有关部门已对现场情况进行确认。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Accidente en cruce peatonal de Songdo, Incheon: coche embiste a peatones y 3 van al hospital",
+        "excerpt": "El 8 de mayo, hacia las 19:10, un coche conducido por una persona de unos 40 años atropelló a peatones que cruzaban un paso de cebra en Songdo-dong, Incheon; tres fueron trasladados al hospital.",
+        "body": "Hacia las 19:10 del 8 de mayo, un automóvil embistió a peatones que cruzaban un paso de cebra en una vía de Songdo-dong, distrito de Yeonsu, Incheon. Según el Cuartel General de Bomberos de Incheon y otras fuentes, el vehículo era conducido por A, una persona de unos 40 años. Tres personas fueron trasladadas al hospital tras el accidente. Como el hecho ocurrió mientras los peatones usaban el cruce peatonal, vuelve a poner el foco en la seguridad vial urbana. Las autoridades habrían verificado la situación en el lugar. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Acidente em faixa de pedestres em Songdo, Incheon: carro atinge pedestres e 3 vão ao hospital",
+        "excerpt": "Em 8 de maio, por volta das 19h10, um carro conduzido por uma pessoa na faixa dos 40 anos atingiu pedestres que atravessavam uma faixa em Songdo-dong, Incheon; três foram levados ao hospital.",
+        "body": "Por volta das 19h10 de 8 de maio, um automóvel atingiu pedestres que atravessavam uma faixa de pedestres em uma via de Songdo-dong, distrito de Yeonsu, Incheon. Segundo o Corpo de Bombeiros de Incheon e outras fontes, o veículo era conduzido por A, uma pessoa na faixa dos 40 anos. Três pessoas foram transportadas para um hospital após o acidente. Como o caso ocorreu enquanto os pedestres usavam a faixa, a segurança no trânsito urbano volta a receber atenção. As autoridades teriam verificado a situação no local. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Unfall am Zebrastreifen in Incheon-Songdo: Auto erfasst Fußgänger, 3 im Krankenhaus",
+        "excerpt": "Am 8. Mai gegen 19:10 Uhr erfasste ein von einer Person in den Vierzigern gefahrenes Auto in Songdo-dong, Incheon, Fußgänger auf einem Zebrastreifen; drei wurden ins Krankenhaus gebracht.",
+        "body": "Am 8. Mai gegen 19:10 Uhr erfasste ein Pkw auf einer Straße in Songdo-dong im Bezirk Yeonsu der Stadt Incheon Fußgänger, die einen Zebrastreifen überquerten. Nach Angaben der Feuerwehrzentrale Incheon und weiterer Stellen wurde das Fahrzeug von A, einer Person in den Vierzigern, gefahren. Drei Menschen wurden nach dem Unfall in ein Krankenhaus gebracht. Da sich der Vorfall ereignete, während Fußgänger den Überweg nutzten, rückt die Verkehrssicherheit in der Stadt erneut in den Fokus. Die Behörden sollen die Lage vor Ort geprüft haben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Accident sur un passage piéton à Songdo, Incheon : une voiture percute des passants, 3 hospitalisés",
+        "excerpt": "Le 8 mai vers 19 h 10, à Songdo-dong, Incheon, une voiture conduite par une personne d’une quarantaine d’années a heurté des piétons sur un passage protégé; trois ont été transportés à l’hôpital.",
+        "body": "Le 8 mai vers 19 h 10, une voiture a percuté des piétons qui traversaient un passage protégé sur une route de Songdo-dong, dans l’arrondissement de Yeonsu à Incheon. Selon les pompiers d’Incheon et d’autres sources, le véhicule était conduit par A, une personne d’une quarantaine d’années. Trois personnes ont été transportées à l’hôpital après l’accident. Le fait que l’accident se soit produit alors que les piétons utilisaient un passage protégé remet en lumière la sécurité routière urbaine. Les autorités auraient vérifié la situation sur place. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "حادث ممر مشاة في سونغدو بإنتشون: سيارة تصدم عابرين و3 ينقلون إلى المستشفى",
+        "excerpt": "في 8 مايو نحو الساعة 7:10 مساء، صدمت سيارة يقودها شخص في الأربعينيات مشاة كانوا يعبرون ممرا للمشاة في سونغدو دونغ بمدينة إنتشون، ونقل ثلاثة إلى المستشفى.",
+        "body": "نحو الساعة 7:10 مساء يوم 8 مايو، وقع حادث على طريق في سونغدو دونغ بمنطقة يونسو في مدينة إنتشون، حيث صدمت سيارة ركاب مشاة كانوا يعبرون ممرا للمشاة. ووفقا لمقر الإطفاء في إنتشون وجهات أخرى، كان يقود السيارة شخص في الأربعينيات عُرف بالحرف A. وأسفر الحادث عن نقل ثلاثة أشخاص إلى المستشفى. وبما أن الحادث وقع أثناء استخدام المشاة للممر، فقد أعاد تسليط الضوء على سلامة المرور في المناطق الحضرية. وأفادت الأنباء بأن السلطات تحققت من الوضع في الموقع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "इंचियोन सोंगदो क्रॉसवॉक हादसा: कार ने पैदल यात्रियों को टक्कर मारी, 3 अस्पताल भेजे गए",
+        "excerpt": "8 मई शाम करीब 7:10 बजे इंचियोन के येओंसू-गु, सोंगदो-डोंग में 40 वर्षीय आयु वर्ग के A द्वारा चलाई जा रही कार ने क्रॉसवॉक पार कर रहे पैदल यात्रियों को टक्कर मारी; तीन अस्पताल ले जाए गए।",
+        "body": "8 मई शाम करीब 7:10 बजे इंचियोन शहर के येओंसू-गु स्थित सोंगदो-डोंग की एक सड़क पर एक यात्री कार ने क्रॉसवॉक पार कर रहे पैदल यात्रियों को टक्कर मार दी। इंचियोन फायर मुख्यालय आदि के अनुसार, कार 40 वर्षीय आयु वर्ग के A द्वारा चलाई जा रही थी। इस हादसे में तीन लोगों को अस्पताल पहुंचाया गया। चूंकि दुर्घटना उस समय हुई जब पैदल यात्री क्रॉसवॉक का उपयोग कर रहे थे, इसलिए शहरी यातायात सुरक्षा को लेकर चिंता फिर सामने आई है। बताया गया है कि अधिकारियों ने घटनास्थल की स्थिति की पुष्टि की। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kecelakaan Penyeberangan di Songdo Incheon: Mobil Tabrak Pejalan Kaki, 3 Dibawa ke Rumah Sakit",
+        "excerpt": "Pada 8 Mei sekitar pukul 19.10, mobil yang dikemudikan A, berusia 40-an, menabrak pejalan kaki yang sedang menyeberang di zebra cross di Songdo-dong, Incheon; tiga orang dibawa ke rumah sakit.",
+        "body": "Pada 8 Mei sekitar pukul 19.10, sebuah mobil penumpang menabrak pejalan kaki yang sedang menyeberang di zebra cross di jalan kawasan Songdo-dong, Distrik Yeonsu, Kota Incheon. Menurut Markas Pemadam Kebakaran Incheon dan pihak terkait, kendaraan itu dikemudikan oleh A, seseorang berusia 40-an. Akibat kecelakaan tersebut, tiga orang dibawa ke rumah sakit. Karena peristiwa terjadi saat pejalan kaki menggunakan zebra cross, perhatian terhadap keselamatan lalu lintas perkotaan kembali mengemuka. Otoritas dilaporkan telah memeriksa situasi di lokasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "de11f2daad21",
+    "slug": "sk하이닉스에만-23억원-빚투-몰빵간-큰-공무원-계좌-인증-화제-672009",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T14:09:22.432Z",
+    "updatedAt": "2026-05-08T14:09:22.432Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041912",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041912",
+    "titleFingerprint": "753241ab3ec3c23cb2c4eec84eeb1ea1f9b78e13",
+    "dedupKeys": [
+      "de11f2daad216f3151e636c23e416d9479ed6824",
+      "753241ab3ec3c23cb2c4eec84eeb1ea1f9b78e13",
+      "cb253275141e8f4aab603d44340d96eb71443e4f"
+    ],
+    "imageUrl": "/images/articles/de11f2daad21.png",
+    "i18n": {
+      "ko": {
+        "title": "SK하이닉스에 23억원 빚투한 공무원 계좌 인증 온라인 화제",
+        "excerpt": "8일 직장인 익명 커뮤니티 블라인드에서 17억원을 대출받아 SK하이닉스에만 23억원 넘게 투자했다는 공무원의 계좌 인증 사연이 주목받고 있다.",
+        "body": "8일 직장인 익명 커뮤니티 블라인드에서 한 공무원이 SK하이닉스에만 23억원 넘게 투자했다는 계좌 인증 글이 온라인상에서 화제를 모으고 있다. 원문에 따르면 이 인물은 17억원의 대출을 내 이른바 빚투 방식으로 SK하이닉스 한 종목에 자금을 집중한 것으로 알려졌다. 공무원 신분으로 거액의 대출을 활용해 특정 종목에 몰아 투자했다는 점이 커뮤니티 이용자들의 관심을 키웠다. 해당 사례는 반도체 대표주에 대한 개인 투자자의 높은 관심과 동시에 레버리지 투자 위험을 다시 부각시키는 소재로 받아들여지고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Civil Servant’s 2.3 Billion Won SK Hynix Leveraged Bet Draws Attention",
+        "excerpt": "On May 8, an anonymous Blind post drew attention after a civil servant reportedly verified an account showing over 2.3 billion won invested solely in SK Hynix using 1.7 billion won in loans.",
+        "body": "On May 8, an account-verification post on the anonymous workplace community Blind drew online attention after a civil servant was said to have invested more than 2.3 billion won only in SK Hynix. According to the original report, the person borrowed 1.7 billion won and concentrated the funds in a single SK Hynix position through debt-financed investing. The combination of public-sector employment, a large loan, and a one-stock allocation fueled interest among community users. The case is being viewed as another example of strong retail interest in a major semiconductor stock, while also highlighting the risks of leveraged investing. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "SKハイニックスに23億ウォン超の借金投資、公務員の口座認証が話題",
+        "excerpt": "8日、匿名職場コミュニティのブラインドで、17億ウォンを借り入れSKハイニックスだけに23億ウォン超を投資した公務員の口座認証が注目を集めている。",
+        "body": "8日、匿名職場コミュニティのブラインドで、ある公務員がSKハイニックスだけに23億ウォンを超えて投資したという口座認証の投稿がオンラインで話題になっている。原文によると、この人物は17億ウォンの融資を受け、いわゆる借金投資の形でSKハイニックス1銘柄に資金を集中させたとされる。公務員という立場で巨額の借り入れを活用し、特定銘柄に集中投資した点がコミュニティ利用者の関心を集めた。今回の事例は、半導体代表株への個人投資家の高い関心とともに、レバレッジ投資のリスクを改めて浮き彫りにする材料として受け止められている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "公务员借贷重仓SK海力士23亿韩元账户认证引发热议",
+        "excerpt": "8日，职场匿名社区Blind上一名公务员晒出账户认证，称通过17亿韩元贷款仅投资SK海力士超过23亿韩元，引发网络关注。",
+        "body": "8日，职场匿名社区Blind上一则账户认证帖在网上引发关注。帖中称，一名公务员仅投资SK海力士一只股票，金额超过23亿韩元。根据原文报道，该人士通过17亿韩元贷款进行所谓借钱投资，并将资金集中投向SK海力士。公务员身份、巨额贷款以及单一股票集中持仓的组合，成为社区用户关注的焦点。该案例被视为个人投资者对半导体代表股高度关注的一个例子，同时也再次凸显杠杆投资所伴随的风险。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Funcionario invierte con deuda 2.300 millones de wones solo en SK Hynix",
+        "excerpt": "El 8 de mayo, una publicación anónima en Blind llamó la atención al mostrar la cuenta de un funcionario que habría pedido 1.700 millones de wones prestados para invertir más de 2.300 millones solo en SK Hynix.",
+        "body": "El 8 de mayo, una publicación con verificación de cuenta en la comunidad laboral anónima Blind generó atención en línea al relatar que un funcionario había invertido más de 2.300 millones de wones únicamente en SK Hynix. Según el reporte original, la persona obtuvo préstamos por 1.700 millones de wones y concentró el dinero en una sola acción mediante inversión financiada con deuda. La combinación de empleo público, una deuda elevada y una apuesta concentrada en un solo valor despertó el interés de los usuarios de la comunidad. El caso se interpreta como una muestra del fuerte interés minorista por una acción líder de semiconductores y, al mismo tiempo, como un recordatorio del riesgo del apalancamiento. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Servidor investe 2,3 bilhões de won com dívida apenas na SK Hynix",
+        "excerpt": "Em 8 de maio, uma publicação anônima no Blind ganhou atenção ao mostrar a conta de um servidor que teria tomado 1,7 bilhão de won em empréstimos para investir mais de 2,3 bilhões apenas na SK Hynix.",
+        "body": "Em 8 de maio, uma publicação com verificação de conta na comunidade anônima de trabalhadores Blind chamou atenção online ao relatar que um servidor público havia investido mais de 2,3 bilhões de won exclusivamente na SK Hynix. Segundo a reportagem original, a pessoa tomou 1,7 bilhão de won em empréstimos e concentrou os recursos em uma única ação por meio de investimento financiado por dívida. A combinação de cargo público, empréstimo elevado e alocação em um só papel atraiu o interesse dos usuários da comunidade. O caso é visto como sinal do forte interesse de investidores individuais por uma grande ação de semicondutores, enquanto também destaca os riscos da alavancagem. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Beamter setzt mit Krediten 2,3 Milliarden Won allein auf SK Hynix",
+        "excerpt": "Am 8. Mai sorgte ein anonymer Blind-Beitrag für Aufmerksamkeit: Ein Beamter soll mit 1,7 Milliarden Won Kredit mehr als 2,3 Milliarden Won ausschließlich in SK Hynix investiert haben.",
+        "body": "Am 8. Mai sorgte ein Konto-Nachweis in der anonymen Arbeitsplatz-Community Blind online für Aufmerksamkeit. Demnach soll ein Beamter mehr als 2,3 Milliarden Won ausschließlich in SK Hynix investiert haben. Laut Originalbericht nahm die Person Kredite über 1,7 Milliarden Won auf und bündelte das Geld in einer einzigen SK-Hynix-Position, also in einer schuldenfinanzierten Anlage. Die Kombination aus Beamtenstatus, hohem Kreditvolumen und Konzentration auf eine einzelne Aktie weckte das Interesse der Community-Nutzer. Der Fall wird als Beispiel für das starke Interesse privater Anleger an einem führenden Halbleiterwert gesehen und macht zugleich die Risiken gehebelter Investitionen sichtbar. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un fonctionnaire mise 2,3 milliards de wons empruntés sur SK Hynix",
+        "excerpt": "Le 8 mai, un message anonyme sur Blind a attiré l’attention après la certification d’un compte montrant qu’un fonctionnaire aurait investi plus de 2,3 milliards de wons uniquement dans SK Hynix avec 1,7 milliard de wons de prêts.",
+        "body": "Le 8 mai, une publication avec certification de compte sur la communauté professionnelle anonyme Blind a attiré l’attention en ligne. Elle indiquait qu’un fonctionnaire avait investi plus de 2,3 milliards de wons uniquement dans SK Hynix. Selon l’article original, cette personne a contracté 1,7 milliard de wons de prêts et concentré les fonds sur une seule action dans le cadre d’un investissement financé par l’endettement. Le statut de fonctionnaire, l’ampleur de l’emprunt et la concentration sur un seul titre ont suscité l’intérêt des utilisateurs. Ce cas est perçu comme un signe de l’intérêt élevé des particuliers pour une grande valeur des semi-conducteurs, tout en rappelant les risques de l’effet de levier. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "موظف حكومي يراهن بـ2.3 مليار وون مقترضة على SK Hynix فقط",
+        "excerpt": "في 8 مايو، لفت منشور مجهول على منصة Blind الأنظار بعد توثيق حساب لموظف حكومي قيل إنه اقترض 1.7 مليار وون واستثمر أكثر من 2.3 مليار وون في SK Hynix وحدها.",
+        "body": "في 8 مايو، أثار منشور لتوثيق حساب على مجتمع الموظفين المجهول Blind اهتماما واسعا عبر الإنترنت، بعدما قيل إن موظفا حكوميا استثمر أكثر من 2.3 مليار وون في سهم SK Hynix فقط. وبحسب التقرير الأصلي، حصل هذا الشخص على قروض بقيمة 1.7 مليار وون وركز الأموال في سهم واحد عبر استثمار ممول بالدين. وقد جذب الجمع بين صفة الموظف الحكومي، وحجم القرض الكبير، والتركيز على سهم واحد اهتمام مستخدمي المجتمع. وتتم قراءة الحالة بوصفها مثالا على الاهتمام القوي من المستثمرين الأفراد بسهم رئيسي في قطاع أشباه الموصلات، مع إبراز مخاطر الاستثمار بالرافعة المالية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सरकारी कर्मचारी ने कर्ज लेकर SK Hynix में लगाए 2.3 अरब वॉन",
+        "excerpt": "8 मई को Blind पर एक अनाम पोस्ट चर्चा में आई, जिसमें एक सरकारी कर्मचारी ने 1.7 अरब वॉन कर्ज लेकर केवल SK Hynix में 2.3 अरब वॉन से अधिक निवेश का खाता प्रमाणित किया बताया गया।",
+        "body": "8 मई को कार्यस्थल की अनाम कम्युनिटी Blind पर एक खाता सत्यापन पोस्ट ऑनलाइन चर्चा में रही। इसमें बताया गया कि एक सरकारी कर्मचारी ने केवल SK Hynix में 2.3 अरब वॉन से अधिक निवेश किया। मूल रिपोर्ट के अनुसार, इस व्यक्ति ने 1.7 अरब वॉन का कर्ज लिया और कर्ज से निवेश की पद्धति के तहत पूरी रकम एक ही SK Hynix शेयर में केंद्रित की। सरकारी कर्मचारी की पहचान, बड़ा कर्ज और एक ही शेयर में केंद्रित निवेश ने कम्युनिटी उपयोगकर्ताओं का ध्यान खींचा। इस मामले को सेमीकंडक्टर क्षेत्र की प्रमुख कंपनी में खुदरा निवेशकों की गहरी रुचि के उदाहरण के रूप में देखा जा रहा है, साथ ही यह लीवरेज निवेश के जोखिम को भी रेखांकित करता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "PNS Berutang untuk Investasi 2,3 Miliar Won Hanya di SK Hynix",
+        "excerpt": "Pada 8 Mei, unggahan anonim di Blind menarik perhatian setelah seorang pegawai negeri disebut memverifikasi akun berisi investasi lebih dari 2,3 miliar won hanya di SK Hynix dengan pinjaman 1,7 miliar won.",
+        "body": "Pada 8 Mei, unggahan verifikasi akun di komunitas kerja anonim Blind menjadi perhatian online setelah seorang pegawai negeri disebut berinvestasi lebih dari 2,3 miliar won hanya di SK Hynix. Menurut laporan asli, orang tersebut mengambil pinjaman 1,7 miliar won dan memusatkan dana pada satu saham SK Hynix melalui investasi berbasis utang. Status sebagai pegawai negeri, jumlah pinjaman yang besar, dan alokasi ke satu saham membuat pengguna komunitas menyorot kasus ini. Peristiwa tersebut dipandang sebagai contoh kuatnya minat investor ritel pada saham utama semikonduktor, sekaligus kembali menekankan risiko investasi dengan leverage. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a146a114e644",
+    "slug": "美-고용-두달-연속-증가-금리인하-신중론-힘실려-640944",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T14:08:22.117Z",
+    "updatedAt": "2026-05-08T14:08:22.117Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12041938",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12041938",
+    "titleFingerprint": "49c572d0f5182a5e616674d091770422cd6734cb",
+    "dedupKeys": [
+      "a146a114e6447abb68a0a3bca15218c8abd02bc4",
+      "49c572d0f5182a5e616674d091770422cd6734cb",
+      "4aebe2a83c2bf1cf230521d4c326a934e4d8497f"
+    ],
+    "imageUrl": "/images/articles/a146a114e644.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 4월 비농업 일자리 11만5000명 증가, 금리인하 신중론에 힘",
+        "excerpt": "미 노동통계국은 8일 현지시간 미국의 4월 비농업 일자리가 11만5000명 늘었다고 밝혔다. 두 달 연속 증가세가 이어지며 금리인하 신중론에 힘이 실렸다.",
+        "body": "미국의 4월 비농업 일자리가 11만5000명 늘어나며 고용 증가세를 이어갔다. 8일 현지시간 미 노동통계국에 따르면 4월 비농업 부문 일자리는 전월에 이어 증가했다. 두 달 연속 일자리가 늘어난 것은 작년 5월 이후 처음이다. 고용이 연속적으로 증가하면서 미국 노동시장이 급격히 둔화됐다는 판단에는 신중할 필요가 있다는 해석이 나온다. 이에 따라 금리인하를 서두르기보다 경제 지표를 더 확인해야 한다는 신중론에도 힘이 실리는 분위기다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "U.S. April nonfarm jobs rise by 115,000, strengthening cautious rate-cut view",
+        "excerpt": "The U.S. Bureau of Labor Statistics said on May 8 local time that April nonfarm payrolls rose by 115,000, marking a second straight monthly gain and supporting caution on rate cuts.",
+        "body": "U.S. nonfarm payrolls increased by 115,000 in April, extending the recent rise in employment. According to the U.S. Bureau of Labor Statistics on May 8 local time, nonfarm jobs rose again after the previous month. It was the first time since May last year that payrolls had increased for two consecutive months. The continued gains suggest that caution is needed before concluding that the U.S. labor market is slowing sharply. As a result, the view that policymakers should check more economic data before rushing to cut interest rates is gaining support. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米4月非農業部門雇用者数11万5000人増、利下げ慎重論を後押し",
+        "excerpt": "米労働統計局は現地時間8日、4月の非農業部門雇用者数が11万5000人増えたと発表した。2カ月連続の増加で、利下げ慎重論を支える内容となった。",
+        "body": "米国の4月非農業部門雇用者数は11万5000人増え、雇用の増加基調が続いた。現地時間8日、米労働統計局によると、4月の非農業部門の雇用は前月に続いて増加した。雇用者数が2カ月連続で増えたのは昨年5月以来初めてだ。雇用が連続して伸びたことで、米労働市場が急速に鈍化しているとの判断には慎重さが必要との見方が出ている。これにより、利下げを急ぐよりも経済指標をさらに確認すべきだという慎重論にも力が加わっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国4月非农就业增加11.5万人，降息谨慎论获更多支撑",
+        "excerpt": "美国劳工统计局当地时间8日表示，4月非农就业增加11.5万人，连续两个月增长，为去年5月以来首次，也强化了对降息保持谨慎的观点。",
+        "body": "美国4月非农就业人数增加11.5万人，延续了就业增长势头。美国劳工统计局当地时间8日表示，4月非农部门就业继上月之后继续增加。就业人数连续两个月增长，是去年5月以来的首次。就业连续增加意味着，在判断美国劳动力市场是否快速放缓时仍需保持谨慎。由此，主张不应急于降息、而应进一步确认经济指标的谨慎论也获得更多支撑。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El empleo no agrícola de EE. UU. suma 115.000 puestos en abril y refuerza cautela sobre tipos",
+        "excerpt": "La Oficina de Estadísticas Laborales de EE. UU. informó el día 8, hora local, que el empleo no agrícola de abril aumentó en 115.000 puestos, el segundo avance mensual seguido.",
+        "body": "El empleo no agrícola de Estados Unidos aumentó en 115.000 puestos en abril y mantuvo la tendencia de crecimiento. Según la Oficina de Estadísticas Laborales de EE. UU. el día 8, hora local, los puestos del sector no agrícola volvieron a crecer tras el mes anterior. Fue la primera vez desde mayo del año pasado que el empleo aumentó durante dos meses consecutivos. La continuidad del crecimiento laboral sugiere cautela antes de concluir que el mercado laboral estadounidense se está desacelerando con rapidez. Por ello, gana fuerza la postura de comprobar más datos económicos antes de apresurar un recorte de tipos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Emprego não agrícola dos EUA cresce 115 mil em abril e reforça cautela sobre juros",
+        "excerpt": "O Bureau of Labor Statistics dos EUA informou no dia 8, horário local, que o emprego não agrícola de abril aumentou em 115 mil vagas, no segundo avanço mensal consecutivo.",
+        "body": "O emprego não agrícola dos Estados Unidos aumentou em 115 mil vagas em abril, mantendo a tendência de crescimento. Segundo o Bureau of Labor Statistics dos EUA no dia 8, horário local, os postos no setor não agrícola voltaram a subir após o mês anterior. Foi a primeira vez desde maio do ano passado que o emprego cresceu por dois meses consecutivos. A sequência de ganhos sugere cautela antes de concluir que o mercado de trabalho americano está desacelerando rapidamente. Com isso, ganha força a visão de que é preciso verificar mais indicadores econômicos antes de apressar cortes de juros. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-Arbeitsmarkt schafft im April 115.000 Stellen, Vorsicht bei Zinssenkungen gestärkt",
+        "excerpt": "Das US Bureau of Labor Statistics teilte am 8. Mai Ortszeit mit, dass die Beschäftigung außerhalb der Landwirtschaft im April um 115.000 Stellen stieg, der zweite monatliche Zuwachs in Folge.",
+        "body": "Die Beschäftigung außerhalb der Landwirtschaft in den USA ist im April um 115.000 Stellen gestiegen und setzte damit den Beschäftigungszuwachs fort. Nach Angaben des US Bureau of Labor Statistics vom 8. Mai Ortszeit legten die Stellen im nichtlandwirtschaftlichen Bereich erneut zu. Es war das erste Mal seit Mai vergangenen Jahres, dass die Beschäftigung zwei Monate in Folge stieg. Die fortgesetzten Zuwächse sprechen dafür, vorsichtig zu sein, bevor man eine rasche Abkühlung des US-Arbeitsmarkts annimmt. Damit gewinnt auch die Ansicht an Gewicht, vor einer schnellen Zinssenkung weitere Wirtschaftsdaten abzuwarten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’emploi non agricole américain gagne 115 000 postes en avril, prudence sur les baisses de taux",
+        "excerpt": "Le Bureau of Labor Statistics des États-Unis a indiqué le 8 mai, heure locale, que l’emploi non agricole avait augmenté de 115 000 postes en avril, deuxième hausse mensuelle d’affilée.",
+        "body": "L’emploi non agricole aux États-Unis a augmenté de 115 000 postes en avril, prolongeant la dynamique de croissance. Selon le Bureau of Labor Statistics des États-Unis, le 8 mai heure locale, les emplois du secteur non agricole ont de nouveau progressé après le mois précédent. C’est la première fois depuis mai dernier que l’emploi augmente deux mois de suite. Cette progression continue invite à la prudence avant de conclure à un net ralentissement du marché du travail américain. Elle renforce aussi l’idée qu’il faut examiner davantage d’indicateurs économiques avant de se hâter de réduire les taux d’intérêt. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "وظائف أميركا غير الزراعية ترتفع 115 ألفا في أبريل وتدعم الحذر بشأن خفض الفائدة",
+        "excerpt": "قال مكتب إحصاءات العمل الأميركي في 8 مايو بالتوقيت المحلي إن الوظائف غير الزراعية زادت 115 ألفا في أبريل، مسجلة ارتفاعا للشهر الثاني على التوالي وداعمة الحذر بشأن خفض الفائدة.",
+        "body": "زادت الوظائف غير الزراعية في الولايات المتحدة بمقدار 115 ألف وظيفة في أبريل، لتواصل سوق العمل مسار الارتفاع. وبحسب مكتب إحصاءات العمل الأميركي في 8 مايو بالتوقيت المحلي، ارتفعت وظائف القطاع غير الزراعي مجددا بعد الشهر السابق. وهذه أول مرة منذ مايو من العام الماضي ترتفع فيها الوظائف لشهرين متتاليين. استمرار زيادة التوظيف يعني أن الحكم على سوق العمل الأميركية بأنها تتباطأ بسرعة يحتاج إلى حذر. لذلك تكتسب وجهة النظر الداعية إلى التحقق من مزيد من المؤشرات الاقتصادية قبل التعجل في خفض أسعار الفائدة زخما إضافيا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिका में अप्रैल गैर-कृषि नौकरियां 1.15 लाख बढ़ीं, दर कटौती पर सतर्क रुख मजबूत",
+        "excerpt": "अमेरिकी श्रम सांख्यिकी ब्यूरो ने 8 मई स्थानीय समय पर कहा कि अप्रैल में गैर-कृषि नौकरियां 1.15 लाख बढ़ीं। लगातार दूसरे महीने वृद्धि ने दर कटौती पर सतर्कता को बल दिया।",
+        "body": "अमेरिका में अप्रैल में गैर-कृषि नौकरियां 1.15 लाख बढ़ीं, जिससे रोजगार वृद्धि का क्रम जारी रहा। अमेरिकी श्रम सांख्यिकी ब्यूरो के अनुसार, 8 मई स्थानीय समय पर जारी आंकड़ों में गैर-कृषि क्षेत्र की नौकरियां पिछले महीने के बाद फिर बढ़ीं। पिछले साल मई के बाद यह पहली बार है जब नौकरियां लगातार दो महीनों तक बढ़ी हैं। लगातार रोजगार बढ़ने से यह निष्कर्ष निकालने में सावधानी की जरूरत दिखती है कि अमेरिकी श्रम बाजार तेजी से धीमा हो रहा है। इसी कारण ब्याज दरों में कटौती की जल्दबाजी के बजाय और आर्थिक संकेतक देखने की सतर्क राय को बल मिल रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pekerjaan nonpertanian AS naik 115.000 pada April, kehati-hatian soal pemangkasan suku bunga menguat",
+        "excerpt": "Biro Statistik Tenaga Kerja AS menyatakan pada 8 Mei waktu setempat bahwa pekerjaan nonpertanian April bertambah 115.000, naik dua bulan beruntun dan memperkuat sikap hati-hati soal suku bunga.",
+        "body": "Pekerjaan nonpertanian Amerika Serikat bertambah 115.000 pada April, melanjutkan tren kenaikan lapangan kerja. Menurut Biro Statistik Tenaga Kerja AS pada 8 Mei waktu setempat, pekerjaan di sektor nonpertanian kembali meningkat setelah bulan sebelumnya. Ini pertama kalinya sejak Mei tahun lalu pekerjaan bertambah selama dua bulan berturut-turut. Kenaikan beruntun tersebut menunjukkan perlunya kehati-hatian sebelum menilai bahwa pasar tenaga kerja AS melambat tajam. Karena itu, pandangan bahwa pemangkasan suku bunga tidak perlu diburu-buru dan data ekonomi lain perlu diperiksa lebih lanjut semakin menguat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "216fb3693283",
     "slug": "삼성전자-per-역사적-최저-수준지금-매도하는-건-실수-474564",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Daewoo E&C Nature rampung, restorasi ekologi Jungnangcheon libatkan karyawan",
         "excerpt": "Daewoo E&C pada 7 Mei menggelar kegiatan sukarela restorasi ekologi bersama karyawan di Jungnangcheon, Seongdong-gu, Seoul, untuk menjaga biodiversitas dan memperbaiki lingkungan.",
         "body": "Daewoo E&C menyelesaikan pembangunan ruang ekologi ramah lingkungan ‘Daewoo E&C Nature’ setelah menggelar kegiatan sukarela restorasi ekologi bersama karyawan pada 7 Mei di kawasan Jungnangcheon, Seongdong-gu, Seoul. Kegiatan ini disiapkan untuk menjaga biodiversitas dan memperbaiki lingkungan ekologi. Para karyawan ikut dalam pekerjaan restorasi di sekitar Jungnangcheon, mendukung upaya meningkatkan nilai ruang ekologi di sekitar sungai perkotaan. ‘Daewoo E&C Nature’ menunjukkan bentuk nyata kegiatan pelestarian lingkungan yang dibuat bersama oleh karyawan perusahaan. Ruang ini diharapkan berkontribusi pada perbaikan ekologi lokal dan perluasan kesadaran tentang biodiversitas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cb0d7aa7fc48",
-    "slug": "해외-오프라인-시장-성장세-뚜렷에이피알-54만원-목표주가-등장-오늘-나온-보고서-693617",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T23:51:23.466Z",
-    "updatedAt": "2026-05-07T23:51:23.466Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12040709",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040709",
-    "titleFingerprint": "c0f0ace459e7c09f5640e9d545c42eb44c22f4ca",
-    "dedupKeys": [
-      "cb0d7aa7fc48f82432f9552ebb2331b17811581a",
-      "c0f0ace459e7c09f5640e9d545c42eb44c22f4ca",
-      "78d97a12521b86f66ed6d135b6c8acbf32ae9763"
-    ],
-    "imageUrl": "/images/articles/cb0d7aa7fc48.jpg",
-    "i18n": {
-      "ko": {
-        "title": "에이피알 목표주가 54만원 제시, 해외 오프라인 성장세 주목",
-        "excerpt": "NH투자증권은 8일 보고서에서 에이피알의 해외 오프라인 시장 성장세와 유럽 직매출 확대를 근거로 목표주가 54만원을 제시했다.",
-        "body": "NH투자증권은 8일 보고서를 통해 에이피알의 목표주가를 1주당 54만원으로 제시했다. 전 거래일 기준 현재 주가가 40만1500원인 가운데, 보고서는 해외 오프라인 시장 성장세가 뚜렷하다는 점에 주목했다. 특히 유럽 직매출이 1년 내 4000억원에 이를 것이라는 전망이 핵심 근거로 언급됐다. 에이피알은 해외 시장에서 오프라인 채널 확대 흐름이 부각되고 있으며, 유럽 매출 성장 가능성이 주가 평가에 영향을 줄 변수로 제시됐다. 다만 보도에 따르면 이번 전망은 NH투자증권 보고서에 담긴 분석으로, 실제 주가 흐름은 시장 상황에 따라 달라질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "APR Target Price Set at 540,000 Won as Overseas Offline Growth Stands Out",
-        "excerpt": "NH Investment & Securities said in a May 8 report that APR’s overseas offline growth and rising direct sales in Europe support a target price of 540,000 won.",
-        "body": "NH Investment & Securities presented a target price of 540,000 won per share for APR in a report dated May 8. The stock’s latest price was 401,500 won as of the previous trading day, while the report highlighted clear growth momentum in overseas offline markets. A key point was the expectation that direct sales in Europe could reach 400 billion won within one year. APR’s expansion of offline channels abroad, especially the potential for European revenue growth, was cited as a factor that could affect valuation. According to the report, this outlook reflects NH Investment & Securities’ analysis, and actual share-price moves may vary with market conditions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "APR目標株価54万ウォン提示、海外オフライン成長に注目",
-        "excerpt": "NH投資証券は8日のリポートで、APRの海外オフライン市場の成長と欧州直販売上の拡大を根拠に目標株価54万ウォンを示した。",
-        "body": "NH投資証券は8日付リポートで、APRの目標株価を1株54万ウォンと提示した。前取引日基準の現在株価は40万1500ウォンで、リポートは海外オフライン市場の成長が鮮明だと指摘した。特に欧州の直販売上が1年以内に4000億ウォンに達するとの見通しが主要な根拠として挙げられた。APRは海外市場でオフラインチャネル拡大の流れが目立っており、欧州売上の成長可能性が株価評価に影響する要因として示された。ただし報道によると、この見通しはNH投資証券リポートの分析であり、実際の株価推移は市場環境によって変わる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "APR目标价上调至54万韩元，海外线下市场增长受关注",
-        "excerpt": "NH投资证券在8日报告中表示，APR海外线下市场增长明显，欧洲直营销售扩大，因而给出每股54万韩元目标价。",
-        "body": "NH投资证券在8日发布的报告中，将APR目标价定为每股54万韩元。该股前一交易日收盘基准价格为40万1500韩元，报告重点提到海外线下市场增长势头明显。尤其是欧洲直营销售额有望在一年内达到4000亿韩元，被列为核心依据。APR在海外市场的线下渠道扩张受到关注，欧洲销售增长潜力也被视为影响股价评价的变量。不过据报道，这一展望来自NH投资证券报告中的分析，实际股价走势仍可能随市场状况变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "APR recibe precio objetivo de 540.000 wones por crecimiento offline exterior",
-        "excerpt": "NH Investment & Securities afirmó en su informe del día 8 que el crecimiento offline exterior de APR y las ventas directas en Europa respaldan un objetivo de 540.000 wones.",
-        "body": "NH Investment & Securities presentó en un informe del día 8 un precio objetivo de 540.000 wones por acción para APR. La acción cotizaba a 401.500 wones al cierre de la sesión anterior, mientras el informe destacó que el crecimiento del mercado offline en el exterior es claro. El punto central fue la previsión de que las ventas directas en Europa alcancen 400.000 millones de wones en el plazo de un año. La expansión de canales offline de APR en mercados extranjeros, especialmente el potencial de crecimiento en Europa, fue señalada como un factor que puede influir en su valoración bursátil. Según la información publicada, esta perspectiva corresponde al análisis de NH Investment & Securities, y la evolución real de la acción puede variar según el mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "APR tem preço-alvo de 540 mil won com avanço offline no exterior",
-        "excerpt": "A NH Investment & Securities afirmou em relatório do dia 8 que o crescimento offline internacional da APR e as vendas diretas na Europa sustentam preço-alvo de 540 mil won.",
-        "body": "A NH Investment & Securities apresentou, em relatório do dia 8, preço-alvo de 540 mil won por ação para a APR. A cotação atual era de 401.500 won no fechamento do pregão anterior, enquanto o relatório destacou o avanço evidente do mercado offline no exterior. O principal fundamento foi a expectativa de que as vendas diretas na Europa cheguem a 400 bilhões de won em até um ano. A expansão dos canais offline da APR em mercados internacionais, especialmente o potencial de crescimento das vendas europeias, foi apontada como variável relevante para a avaliação da ação. Segundo a reportagem, essa projeção reflete a análise da NH Investment & Securities, e o desempenho real da ação pode variar conforme as condições de mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "APR-Kursziel bei 540.000 Won, Auslandswachstum im Offline-Markt im Fokus",
-        "excerpt": "NH Investment & Securities nannte im Bericht vom 8. ein Kursziel von 540.000 Won für APR und verwies auf Offline-Wachstum im Ausland sowie direkte Umsätze in Europa.",
-        "body": "NH Investment & Securities hat in einem Bericht vom 8. ein Kursziel von 540.000 Won je Aktie für APR genannt. Der aktuelle Kurs lag am vorherigen Handelstag bei 401.500 Won, während der Bericht das deutliche Wachstum in ausländischen Offline-Märkten hervorhob. Als zentraler Punkt wurde die Erwartung genannt, dass die direkten Umsätze in Europa innerhalb eines Jahres 400 Milliarden Won erreichen könnten. APRs Ausbau von Offline-Kanälen im Ausland, insbesondere das Wachstumspotenzial in Europa, wurde als Faktor für die Aktienbewertung genannt. Dem Bericht zufolge handelt es sich um eine Analyse von NH Investment & Securities; die tatsächliche Kursentwicklung kann je nach Marktlage abweichen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "APR visé à 540.000 wons grâce à la croissance offline à l’étranger",
-        "excerpt": "NH Investment & Securities a indiqué dans son rapport du 8 que la croissance offline internationale d’APR et les ventes directes en Europe justifient un objectif de 540.000 wons.",
-        "body": "NH Investment & Securities a fixé, dans un rapport daté du 8, un objectif de cours de 540.000 wons par action pour APR. Le cours actuel était de 401.500 wons à la clôture de la séance précédente, tandis que le rapport a souligné la nette croissance des marchés offline à l’étranger. Le principal argument est l’anticipation de ventes directes en Europe atteignant 400 milliards de wons d’ici un an. L’expansion des canaux offline d’APR hors de Corée, en particulier le potentiel de croissance en Europe, a été présentée comme un facteur pouvant influencer la valorisation du titre. Selon l’article, cette perspective reflète l’analyse de NH Investment & Securities, et l’évolution réelle de l’action peut varier selon les conditions de marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تحديد سعر مستهدف لسهم APR عند 540 ألف وون مع نمو القنوات الخارجية",
-        "excerpt": "قالت NH Investment & Securities في تقرير بتاريخ 8 إن نمو أسواق APR غير المتصلة بالإنترنت في الخارج وتوسع المبيعات المباشرة في أوروبا يدعمان سعرا مستهدفا عند 540 ألف وون.",
-        "body": "قدمت NH Investment & Securities في تقرير بتاريخ 8 سعرا مستهدفا لسهم APR عند 540 ألف وون للسهم. وكان السعر الحالي 401,500 وون بحسب إغلاق يوم التداول السابق، بينما ركز التقرير على وضوح نمو الأسواق غير المتصلة بالإنترنت في الخارج. وذُكر أن المبيعات المباشرة في أوروبا قد تصل خلال عام واحد إلى 400 مليار وون، وهو الأساس الرئيسي للتقدير. ويبرز توسع APR في القنوات غير المتصلة بالإنترنت خارجيا، خصوصا إمكانات نمو المبيعات الأوروبية، كعامل قد يؤثر في تقييم السهم. وبحسب ما ورد، فإن هذه التوقعات تمثل تحليل NH Investment & Securities، وقد يختلف المسار الفعلي للسهم تبعا لظروف السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "APR का लक्ष्य मूल्य 5.40 लाख वॉन, विदेशों में ऑफलाइन वृद्धि पर ध्यान",
-        "excerpt": "NH Investment & Securities ने 8 तारीख की रिपोर्ट में APR के लिए 5.40 लाख वॉन का लक्ष्य मूल्य दिया और विदेशों में ऑफलाइन वृद्धि तथा यूरोप की सीधी बिक्री को आधार बताया।",
-        "body": "NH Investment & Securities ने 8 तारीख की रिपोर्ट में APR के लिए प्रति शेयर 5.40 लाख वॉन का लक्ष्य मूल्य प्रस्तुत किया। पिछले कारोबारी दिन के आधार पर मौजूदा शेयर भाव 4,01,500 वॉन था, जबकि रिपोर्ट ने विदेशों के ऑफलाइन बाजारों में स्पष्ट वृद्धि पर ध्यान दिया। मुख्य आधार यह 전망 था कि यूरोप में सीधी बिक्री एक वर्ष के भीतर 400 अरब वॉन तक पहुंच सकती है। APR के विदेशी बाजारों में ऑफलाइन चैनल विस्तार, विशेष रूप से यूरोप में बिक्री वृद्धि की संभावना, शेयर मूल्यांकन को प्रभावित करने वाला कारक बताया गया। रिपोर्ट के अनुसार यह दृष्टिकोण NH Investment & Securities के विश्लेषण पर आधारित है, और वास्तविक शेयर चाल बाजार परिस्थितियों के अनुसार बदल सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Target Harga APR 540.000 Won, Pertumbuhan Offline Luar Negeri Disorot",
-        "excerpt": "NH Investment & Securities dalam laporan tanggal 8 menyebut pertumbuhan pasar offline luar negeri APR dan penjualan langsung Eropa sebagai dasar target harga 540.000 won.",
-        "body": "NH Investment & Securities dalam laporan tanggal 8 menetapkan target harga APR sebesar 540.000 won per saham. Harga saham saat ini tercatat 401.500 won berdasarkan perdagangan hari sebelumnya, sementara laporan tersebut menyoroti pertumbuhan yang jelas di pasar offline luar negeri. Poin utama yang disebutkan adalah proyeksi bahwa penjualan langsung di Eropa dapat mencapai 400 miliar won dalam satu tahun. Ekspansi kanal offline APR di pasar luar negeri, terutama potensi pertumbuhan penjualan Eropa, dinilai sebagai faktor yang dapat memengaruhi valuasi saham. Menurut laporan tersebut, prospek ini merupakan analisis NH Investment & Securities, dan pergerakan saham sebenarnya dapat berubah sesuai kondisi pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f92ff013e6b7",
-    "slug": "상시-점검체계-구축lh-공공기관-통합공시-5년-연속-무벌점-882058",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T23:50:29.048Z",
-    "updatedAt": "2026-05-07T23:50:29.048Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040712",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040712",
-    "titleFingerprint": "0c986e13646ac97b947ee2f0dc6883332f621ec4",
-    "dedupKeys": [
-      "f92ff013e6b775ff0411518ccd1c60212f7831ee",
-      "0c986e13646ac97b947ee2f0dc6883332f621ec4",
-      "574e0eab6c32efc4d4ba88f0fdbef29f0bf9f75a"
-    ],
-    "imageUrl": "/images/articles/f92ff013e6b7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LH, 공공기관 통합공시 점검 5년 연속 무벌점…상시 점검체계 성과",
-        "excerpt": "한국토지주택공사(LH)는 재정경제부 주관 2025년 공공기관 통합공시 점검에서 정보공개 오류를 사전에 차단하는 상시 점검체계를 바탕으로 5년 연속 무벌점을 달성했다.",
-        "body": "한국토지주택공사(LH)가 재정경제부가 주관한 ‘2025년 공공기관 통합공시 점검’에서 5년 연속 무벌점을 달성했다. 이번 점검은 공공기관의 통합공시 정보가 정확하게 공개되는지를 확인하기 위한 절차로, LH는 정보공개 오류를 사전에 차단하는 상시 점검체계를 구축해 성과를 냈다고 밝혔다. 5년 연속 무벌점 기록은 공시 관리의 안정성과 내부 점검 절차가 지속적으로 작동하고 있음을 보여준다. LH는 앞으로도 공공기관 공시의 정확성과 신뢰성을 높이는 관리 체계를 유지할 방침이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LH Earns Zero Penalty in Public Institution Disclosure Review for Fifth Year",
-        "excerpt": "Korea Land and Housing Corporation said it achieved zero penalties for the fifth straight year in the 2025 public institution integrated disclosure review led by the Ministry of Finance and Economy.",
-        "body": "Korea Land and Housing Corporation (LH) achieved zero penalties for the fifth consecutive year in the 2025 Public Institution Integrated Disclosure Review led by the Ministry of Finance and Economy. The review checks whether public institutions disclose integrated information accurately. LH said its standing inspection system helped prevent information disclosure errors in advance. The five-year zero-penalty record shows that disclosure management and internal review procedures have continued to operate stably. LH plans to maintain a management system that improves the accuracy and reliability of public institution disclosures. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LH、公的機関統合公示点検で5年連続無罰点…常時点検体制が成果",
-        "excerpt": "韓国土地住宅公社（LH）は、財政経済部主管の2025年公的機関統合公示点検で、情報公開ミスを事前に防ぐ常時点検体制により5年連続無罰点を達成した。",
-        "body": "韓国土地住宅公社（LH）は、財政経済部が主管した「2025年公的機関統合公示点検」で5年連続の無罰点を達成した。今回の点検は、公的機関の統合公示情報が正確に公開されているかを確認する手続きである。LHは、情報公開の誤りを事前に遮断する常時点検体制を構築し、成果につなげたと説明した。5年連続の無罰点記録は、公示管理の安定性と内部点検手続きが継続して機能していることを示す。LHは今後も、公的機関公示の正確性と信頼性を高める管理体制を維持する方針だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LH连续5年在公共机构综合公示检查中零扣分，常态检查见成效",
-        "excerpt": "韩国土地住宅公社（LH）在财政经济部主管的2025年公共机构综合公示检查中，凭借事前防范信息公开错误的常态检查体系，连续5年实现零扣分。",
-        "body": "韩国土地住宅公社（LH）在财政经济部主管的“2025年公共机构综合公示检查”中，连续5年实现零扣分。此次检查旨在确认公共机构综合公示信息是否准确公开。LH表示，公司建立了可事先防范信息公开错误的常态检查体系，并取得了相应成果。连续5年零扣分的记录显示，其公示管理具有稳定性，内部检查程序也在持续发挥作用。LH计划今后继续维持相关管理体系，提升公共机构公示的准确性和可信度。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LH suma cinco años sin sanciones en revisión de divulgación pública integrada",
-        "excerpt": "Korea Land and Housing Corporation logró cero sanciones por quinto año consecutivo en la revisión de divulgación integrada de instituciones públicas de 2025 dirigida por el Ministerio de Finanzas y Economía.",
-        "body": "Korea Land and Housing Corporation (LH) logró cero sanciones por quinto año consecutivo en la Revisión de Divulgación Integrada de Instituciones Públicas de 2025, dirigida por el Ministerio de Finanzas y Economía. La revisión verifica si la información integrada de las instituciones públicas se divulga con precisión. LH señaló que obtuvo este resultado gracias a un sistema permanente de inspección diseñado para bloquear de antemano errores en la divulgación de información. El registro de cinco años sin sanciones muestra estabilidad en la gestión de la divulgación y continuidad en los procedimientos internos de revisión. LH mantendrá este sistema para reforzar la precisión y la confianza de la información pública. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LH completa 5 anos sem penalidades em revisão de divulgação pública integrada",
-        "excerpt": "A Korea Land and Housing Corporation alcançou zero penalidades pelo quinto ano seguido na revisão de divulgação integrada de instituições públicas de 2025, conduzida pelo Ministério das Finanças e Economia.",
-        "body": "A Korea Land and Housing Corporation (LH) alcançou zero penalidades pelo quinto ano consecutivo na Revisão de Divulgação Integrada de Instituições Públicas de 2025, conduzida pelo Ministério das Finanças e Economia. A revisão verifica se as informações integradas das instituições públicas são divulgadas corretamente. A LH afirmou que o resultado veio da implantação de um sistema permanente de inspeção, voltado a prevenir erros de divulgação de informações antes que ocorram. O recorde de cinco anos sem penalidades indica estabilidade na gestão das divulgações e funcionamento contínuo dos procedimentos internos de revisão. A LH pretende manter o sistema para elevar a precisão e a confiabilidade das divulgações públicas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LH bleibt bei integrierter Offenlegungsprüfung öffentlicher Institutionen 5 Jahre straffrei",
-        "excerpt": "Die Korea Land and Housing Corporation erreichte bei der vom Ministerium für Finanzen und Wirtschaft geleiteten Prüfung 2025 zum fünften Mal in Folge null Strafpunkte.",
-        "body": "Die Korea Land and Housing Corporation (LH) hat bei der vom Ministerium für Finanzen und Wirtschaft geleiteten „Prüfung 2025 zur integrierten Offenlegung öffentlicher Institutionen“ im fünften Jahr in Folge null Strafpunkte erreicht. Die Prüfung kontrolliert, ob integrierte Informationen öffentlicher Institutionen korrekt offengelegt werden. LH erklärte, ein dauerhaftes Prüfsystem eingerichtet zu haben, das Fehler bei der Informationsveröffentlichung im Vorfeld verhindert. Der fünfjährige Null-Strafpunkte-Rekord zeigt, dass das Offenlegungsmanagement stabil ist und interne Prüfverfahren fortlaufend funktionieren. LH will dieses Managementsystem beibehalten, um Genauigkeit und Verlässlichkeit öffentlicher Offenlegungen zu stärken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LH sans pénalité depuis 5 ans dans le contrôle intégré des informations publiques",
-        "excerpt": "Korea Land and Housing Corporation a obtenu zéro pénalité pour la cinquième année consécutive lors du contrôle 2025 de la publication intégrée des institutions publiques conduit par le ministère des Finances et de l’Économie.",
-        "body": "Korea Land and Housing Corporation (LH) a obtenu zéro pénalité pour la cinquième année consécutive lors du « contrôle 2025 de la publication intégrée des institutions publiques » conduit par le ministère des Finances et de l’Économie. Ce contrôle vérifie si les informations intégrées des institutions publiques sont publiées avec exactitude. LH a indiqué que ce résultat venait de la mise en place d’un système permanent de vérification destiné à prévenir les erreurs de publication d’informations. Ce bilan de cinq années sans pénalité montre la stabilité de la gestion des publications et le fonctionnement continu des procédures internes de contrôle. LH prévoit de maintenir ce dispositif afin de renforcer l’exactitude et la fiabilité des informations publiques. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "LH تحقق خمس سنوات بلا نقاط جزاء في فحص الإفصاح الموحد للمؤسسات العامة",
-        "excerpt": "أعلنت مؤسسة كوريا للأراضي والإسكان أنها حققت صفر نقاط جزاء للعام الخامس على التوالي في فحص الإفصاح الموحد للمؤسسات العامة لعام 2025 بإشراف وزارة المالية والاقتصاد.",
-        "body": "حققت مؤسسة كوريا للأراضي والإسكان (LH) صفر نقاط جزاء للعام الخامس على التوالي في “فحص الإفصاح الموحد للمؤسسات العامة لعام 2025” الذي تشرف عليه وزارة المالية والاقتصاد. ويهدف هذا الفحص إلى التأكد من أن معلومات الإفصاح الموحد للمؤسسات العامة تُنشر بدقة. وقالت LH إن النتيجة جاءت بفضل إنشاء نظام فحص دائم يمنع أخطاء الإفصاح عن المعلومات مسبقًا. ويظهر سجل خمس سنوات بلا نقاط جزاء أن إدارة الإفصاح مستقرة وأن إجراءات المراجعة الداخلية تعمل باستمرار. وتعتزم LH الحفاظ على هذا النظام لتعزيز دقة وموثوقية إفصاحات المؤسسات العامة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LH को सार्वजनिक संस्थान एकीकृत प्रकटीकरण जांच में 5वें साल शून्य दंड",
-        "excerpt": "कोरिया लैंड एंड हाउसिंग कॉरपोरेशन ने वित्त और अर्थव्यवस्था मंत्रालय के 2025 सार्वजनिक संस्थान एकीकृत प्रकटीकरण निरीक्षण में लगातार पांचवें वर्ष शून्य दंड हासिल किया।",
-        "body": "कोरिया लैंड एंड हाउसिंग कॉरपोरेशन (LH) ने वित्त और अर्थव्यवस्था मंत्रालय द्वारा संचालित “2025 सार्वजनिक संस्थान एकीकृत प्रकटीकरण निरीक्षण” में लगातार पांचवें वर्ष शून्य दंड हासिल किया। यह निरीक्षण यह जांचने के लिए होता है कि सार्वजनिक संस्थानों की एकीकृत प्रकटीकरण जानकारी सही ढंग से जारी की जा रही है या नहीं। LH ने कहा कि सूचना प्रकटीकरण की त्रुटियों को पहले से रोकने वाली स्थायी जांच प्रणाली से यह उपलब्धि मिली। लगातार पांच साल शून्य दंड का रिकॉर्ड दिखाता है कि प्रकटीकरण प्रबंधन स्थिर है और आंतरिक जांच प्रक्रियाएं लगातार काम कर रही हैं। LH आगे भी सार्वजनिक संस्थान प्रकटीकरण की सटीकता और विश्वसनीयता बढ़ाने वाली प्रबंधन प्रणाली बनाए रखेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LH Catat 5 Tahun Tanpa Penalti dalam Pemeriksaan Pengungkapan Publik Terpadu",
-        "excerpt": "Korea Land and Housing Corporation meraih nol penalti untuk tahun kelima berturut-turut dalam Pemeriksaan Pengungkapan Terpadu Lembaga Publik 2025 yang dipimpin Kementerian Keuangan dan Ekonomi.",
-        "body": "Korea Land and Housing Corporation (LH) meraih nol penalti untuk tahun kelima berturut-turut dalam “Pemeriksaan Pengungkapan Terpadu Lembaga Publik 2025” yang dipimpin Kementerian Keuangan dan Ekonomi. Pemeriksaan ini memastikan apakah informasi pengungkapan terpadu lembaga publik dipublikasikan secara akurat. LH menyatakan hasil tersebut dicapai melalui sistem pemeriksaan permanen yang mencegah kesalahan pengungkapan informasi sejak awal. Rekor lima tahun tanpa penalti menunjukkan stabilitas pengelolaan pengungkapan dan berjalannya prosedur pemeriksaan internal secara berkelanjutan. LH berencana mempertahankan sistem manajemen ini untuk meningkatkan akurasi dan kepercayaan pengungkapan lembaga publik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "21477eb4f452",
-    "slug": "동네-청소-주민분께-사과평창동-공사-난장판-논란-고개-숙인-기은세-측-118631",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T23:49:36.779Z",
-    "updatedAt": "2026-05-07T23:49:36.779Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12040714",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12040714",
-    "titleFingerprint": "f15f47f66d50baaeeb2793696982a73c9a593cf6",
-    "dedupKeys": [
-      "21477eb4f45284467a46058d4d2dfaa8d4b2d29a",
-      "f15f47f66d50baaeeb2793696982a73c9a593cf6",
-      "606d936d5c9ee0dde8b2505fd7313904dc5fca60"
-    ],
-    "imageUrl": "/images/articles/21477eb4f452.jpg",
-    "i18n": {
-      "ko": {
-        "title": "기은세 측, 평창동 공사 난장판 논란에 고개 숙였다…“동네 청소·주민 사과”",
-        "excerpt": "배우 기은세 측이 평창동 인근 공사 현장을 둘러싼 민폐 논란에 사과했다. 지난달 27일 옆집 주민 가족 A씨가 SNS로 문제를 제기한 뒤 논란이 확산됐다.",
-        "body": "배우 기은세 측이 서울 평창동 공사 현장을 둘러싼 ‘민폐 공사’ 논란에 사과했다. 지난달 27일 기은세의 옆집에 부모님이 거주한다고 밝힌 A씨가 SNS에 공사 현황을 문제 삼는 글을 올리며 논란이 불거졌다. A씨는 “옆집 공사 현황을 보니 정말 가관도 아니다”라며 배우 기은세를 언급했고, 이후 공사장 관리와 주변 주민 불편 문제가 온라인에서 주목받았다. 이에 기은세 측은 동네 청소를 진행하고 주민들에게 사과하겠다는 취지로 고개를 숙였다. 이번 사안은 연예인 개인 주택 공사 과정에서도 인근 주민과의 소통, 현장 관리가 중요하다는 점을 다시 드러냈다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Ki Eun-se’s Side Apologizes Over Pyeongchang-dong Construction Mess Controversy",
-        "excerpt": "Actress Ki Eun-se’s side apologized after a nuisance construction controversy in Pyeongchang-dong grew online following a neighbor’s family member raising concerns on social media last month.",
-        "body": "Actress Ki Eun-se’s side has apologized over a controversy surrounding alleged nuisance from a construction site in Seoul’s Pyeongchang-dong. The issue emerged after A, who said their parents live next door to Ki Eun-se, posted on social media on the 27th of last month criticizing the state of the construction site. A wrote that the situation next door was “truly a sight,” while mentioning the actress, and the post drew attention to site management and inconvenience to nearby residents. Ki Eun-se’s side bowed in apology, saying they would clean the neighborhood and apologize to residents. The case again highlights the importance of communication with neighbors and proper site management during private home construction. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "キ・ウンセ側、平倉洞工事めぐる迷惑騒動を謝罪…「町内清掃・住民に謝罪」",
-        "excerpt": "俳優キ・ウンセ側が、平倉洞周辺の工事現場をめぐる迷惑騒動について謝罪した。先月27日、隣家住民の家族A氏がSNSで問題を提起し波紋が広がった。",
-        "body": "俳優キ・ウンセ側が、ソウル・平倉洞の工事現場をめぐる「迷惑工事」騒動について謝罪した。先月27日、キ・ウンセの隣家に両親が住んでいると明かしたA氏が、SNSに工事の状況を問題視する投稿をしたことで議論が起きた。A氏は「隣の工事状況を見ると本当にひどい」として俳優キ・ウンセに言及し、その後、工事現場の管理や周辺住民の不便がオンライン上で注目を集めた。これに対しキ・ウンセ側は、町内の清掃を行い住民に謝罪する趣旨で頭を下げた。今回の件は、芸能人の個人住宅工事でも近隣住民との意思疎通と現場管理が重要であることを改めて示した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "奇恩世方面就平仓洞施工扰民争议致歉：将清扫社区并向居民道歉",
-        "excerpt": "演员奇恩世方面就平仓洞附近施工现场引发的扰民争议道歉。上月27日，自称父母住在其隔壁的A某在社交平台发文后，争议扩散。",
-        "body": "演员奇恩世方面就首尔平仓洞施工现场引发的“扰民施工”争议道歉。上月27日，自称父母住在奇恩世隔壁的A某在社交平台发文，指出施工现场状况存在问题，争议由此出现。A某称“看到隔壁施工现状，真是不像话”，并提到演员奇恩世，随后施工现场管理以及周边居民不便问题在网络上受到关注。对此，奇恩世方面低头致歉，表示将清扫社区并向居民道歉。此次事件再次显示，即便是艺人个人住宅施工，也需要重视与邻近居民的沟通和现场管理。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El entorno de Ki Eun-se se disculpa por la polémica obra en Pyeongchang-dong",
-        "excerpt": "El entorno de la actriz Ki Eun-se pidió disculpas por la polémica de molestias en una obra en Pyeongchang-dong, después de que un familiar de vecinos la denunciara en redes el mes pasado.",
-        "body": "El entorno de la actriz Ki Eun-se se disculpó por la controversia sobre presuntas molestias causadas por una obra en Pyeongchang-dong, Seúl. El asunto surgió el día 27 del mes pasado, cuando A, quien dijo que sus padres viven junto a la casa de Ki Eun-se, publicó en redes sociales una crítica al estado del sitio de construcción. A afirmó que la situación de la obra vecina era “realmente un espectáculo” y mencionó a la actriz, lo que llevó a que la gestión del lugar y las incomodidades para residentes cercanos atrajeran atención en línea. El entorno de Ki Eun-se ofreció disculpas y señaló que limpiaría el vecindario y se disculparía con los residentes. El caso subraya la importancia de la comunicación vecinal y la gestión del sitio incluso en obras de viviendas privadas de celebridades. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Equipe de Ki Eun-se pede desculpas por polêmica de obra em Pyeongchang-dong",
-        "excerpt": "A equipe da atriz Ki Eun-se pediu desculpas pela polêmica envolvendo incômodos de uma obra em Pyeongchang-dong, após um familiar de vizinhos levantar a questão nas redes no mês passado.",
-        "body": "A equipe da atriz Ki Eun-se pediu desculpas pela controvérsia sobre supostos incômodos causados por uma obra em Pyeongchang-dong, Seul. O caso surgiu no dia 27 do mês passado, quando A, que disse que seus pais moram ao lado de Ki Eun-se, publicou nas redes sociais críticas ao estado do canteiro de obras. A afirmou que a situação da obra vizinha era “realmente lamentável” e mencionou a atriz, levando a atenção online para a gestão do local e o desconforto dos moradores próximos. A equipe de Ki Eun-se se desculpou, dizendo que faria a limpeza do bairro e pediria desculpas aos moradores. O episódio mostra novamente a importância da comunicação com vizinhos e da gestão do canteiro mesmo em obras de residências privadas de celebridades. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Ki Eun-ses Seite entschuldigt sich für Bauchaos-Kontroverse in Pyeongchang-dong",
-        "excerpt": "Die Seite der Schauspielerin Ki Eun-se hat sich für die Kontroverse um Belästigungen durch eine Baustelle in Pyeongchang-dong entschuldigt, nachdem ein Angehöriger von Nachbarn den Fall online machte.",
-        "body": "Die Seite der Schauspielerin Ki Eun-se hat sich für eine Kontroverse über mutmaßliche Belästigungen durch eine Baustelle in Pyeongchang-dong in Seoul entschuldigt. Der Fall kam auf, nachdem A, der angab, dass seine Eltern neben Ki Eun-se wohnen, am 27. des vergangenen Monats in sozialen Medien den Zustand der Baustelle kritisiert hatte. A schrieb, die Lage auf der Nachbarbaustelle sei “wirklich ein Anblick”, und erwähnte die Schauspielerin. Danach rückten die Baustellenverwaltung und Unannehmlichkeiten für Anwohner online in den Fokus. Ki Eun-ses Seite entschuldigte sich und erklärte, man werde die Nachbarschaft reinigen und sich bei den Bewohnern entschuldigen. Der Fall zeigt erneut, wie wichtig Kommunikation mit Nachbarn und ordentliches Baustellenmanagement auch bei privaten Hausbauarbeiten von Prominenten sind. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Ki Eun-se s’excuse après la polémique sur un chantier à Pyeongchang-dong",
-        "excerpt": "L’entourage de l’actrice Ki Eun-se s’est excusé après une polémique liée aux nuisances d’un chantier à Pyeongchang-dong, lancée sur les réseaux par un proche de voisins le mois dernier.",
-        "body": "L’entourage de l’actrice Ki Eun-se a présenté ses excuses après une controverse sur des nuisances présumées causées par un chantier à Pyeongchang-dong, à Séoul. L’affaire a commencé le 27 du mois dernier, lorsqu’une personne A, affirmant que ses parents vivent à côté de Ki Eun-se, a publié sur les réseaux sociaux un message critiquant l’état du chantier. A a écrit que la situation du chantier voisin était “vraiment invraisemblable” et a mentionné l’actrice, attirant ensuite l’attention en ligne sur la gestion du site et les désagréments pour les riverains. L’entourage de Ki Eun-se s’est incliné en signe d’excuse, indiquant qu’il nettoierait le quartier et présenterait ses excuses aux habitants. Cette affaire rappelle l’importance de la communication avec les voisins et de la gestion du chantier, même pour des travaux de résidence privée de célébrité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جهة كي أون-سي تعتذر عن جدل فوضى أعمال البناء في بيونغتشانغ-دونغ",
-        "excerpt": "اعتذرت جهة الممثلة كي أون-سي عن جدل الإزعاج المرتبط بموقع بناء في بيونغتشانغ-دونغ، بعد أن أثار فرد من عائلة جيرانها المسألة عبر وسائل التواصل الشهر الماضي.",
-        "body": "اعتذرت جهة الممثلة كي أون-سي عن الجدل المتعلق بما وُصف بأنه إزعاج من موقع بناء في بيونغتشانغ-دونغ في سيول. وبدأت القضية في 27 من الشهر الماضي، عندما نشر شخص يُدعى A، قال إن والديه يعيشان بجوار كي أون-سي، منشورا على وسائل التواصل انتقد فيه حالة موقع البناء. وذكر A أن وضع البناء في المنزل المجاور “لا يُحتمل رؤيته”، مع الإشارة إلى الممثلة، ما لفت الانتباه عبر الإنترنت إلى إدارة الموقع وإزعاج السكان القريبين. وردا على ذلك، قدمت جهة كي أون-سي اعتذارا، موضحة أنها ستنظف الحي وتعتذر للسكان. وتبرز القضية مجددا أهمية التواصل مع الجيران وإدارة مواقع البناء حتى في أعمال بناء المنازل الخاصة بالمشاهير. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "प्योंगचांग-डोंग निर्माण विवाद पर की यून-से पक्ष ने मांगी माफी",
-        "excerpt": "अभिनेत्री की यून-से के पक्ष ने प्योंगचांग-डोंग में निर्माण स्थल से जुड़े असुविधा विवाद पर माफी मांगी। पिछले महीने 27 तारीख को पड़ोसी परिवार के A ने सोशल मीडिया पर मुद्दा उठाया था।",
-        "body": "अभिनेत्री की यून-से के पक्ष ने सियोल के प्योंगचांग-डोंग में निर्माण स्थल को लेकर उठे ‘असुविधाजनक निर्माण’ विवाद पर माफी मांगी। यह मामला पिछले महीने 27 तारीख को सामने आया, जब A नामक व्यक्ति ने, जिसने कहा कि उसके माता-पिता की यून-से के पड़ोस में रहते हैं, सोशल मीडिया पर निर्माण स्थल की स्थिति पर सवाल उठाते हुए पोस्ट किया। A ने लिखा कि पड़ोस के निर्माण की स्थिति “वाकई देखने लायक भी नहीं” है और अभिनेत्री की यून-से का उल्लेख किया। इसके बाद निर्माण स्थल के प्रबंधन और आसपास के निवासियों की असुविधा पर ऑनलाइन ध्यान गया। की यून-से के पक्ष ने सिर झुकाकर माफी जताई और कहा कि वे मोहल्ले की सफाई करेंगे तथा निवासियों से माफी मांगेंगे। यह मामला दिखाता है कि सेलिब्रिटी के निजी घर के निर्माण में भी पड़ोसियों से संवाद और स्थल प्रबंधन महत्वपूर्ण है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pihak Ki Eun-se Minta Maaf atas Kontroversi Kekacauan Proyek di Pyeongchang-dong",
-        "excerpt": "Pihak aktris Ki Eun-se meminta maaf atas kontroversi gangguan proyek konstruksi di Pyeongchang-dong setelah seorang anggota keluarga tetangga mengangkat masalah itu di media sosial bulan lalu.",
-        "body": "Pihak aktris Ki Eun-se meminta maaf atas kontroversi dugaan gangguan dari lokasi konstruksi di Pyeongchang-dong, Seoul. Masalah ini muncul pada tanggal 27 bulan lalu ketika A, yang mengatakan bahwa orang tuanya tinggal di sebelah rumah Ki Eun-se, mengunggah kritik di media sosial tentang kondisi proyek tersebut. A menulis bahwa keadaan konstruksi di sebelah “benar-benar memprihatinkan” sambil menyebut nama aktris itu, sehingga pengelolaan lokasi dan ketidaknyamanan warga sekitar menjadi perhatian online. Pihak Ki Eun-se menyampaikan permintaan maaf, mengatakan akan membersihkan lingkungan dan meminta maaf kepada warga. Kasus ini kembali menunjukkan pentingnya komunikasi dengan tetangga dan pengelolaan lokasi, bahkan dalam proyek pembangunan rumah pribadi selebritas. Sumber: mk.co.kr"
       }
     }
   }
