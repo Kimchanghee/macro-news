@@ -1,5 +1,230 @@
 [
   {
+    "id": "216fb3693283",
+    "slug": "삼성전자-per-역사적-최저-수준지금-매도하는-건-실수-474564",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T13:23:31.982Z",
+    "updatedAt": "2026-05-08T13:23:31.982Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041807",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041807",
+    "titleFingerprint": "652c591f31a7756cc0142d10e40b9d63aa34a79a",
+    "dedupKeys": [
+      "216fb3693283a9a814a1d31cc15d61df53cb83f3",
+      "652c591f31a7756cc0142d10e40b9d63aa34a79a",
+      "ea378a1b0533c2de40c23e57c26b03f6832a4e2b"
+    ],
+    "imageUrl": "/images/articles/216fb3693283.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 PER 역사적 최저 수준, PB가 말한 ‘매도 실수’ 이유",
+        "excerpt": "매일경제에 따르면 한 PB는 삼성전자 PER이 역사적 최저 수준이라며 주가보다 이익 성장 추이를 봐야 한다고 조언했다. AI 반도체 성장과 한국 증시 재평가, ETF 분산투자 필요성도 짚었다.",
+        "body": "매일경제 보도에 따르면 한 PB는 삼성전자 주가를 판단할 때 현재 가격보다 이익 성장 추이를 먼저 봐야 한다고 강조했다. 그는 삼성전자 PER이 역사적 최저 수준에 있어 지금 매도하는 것은 실수일 수 있다고 진단했다. 배경으로는 AI발 반도체 고성장 국면 진입이 제시됐다. 반도체 이익 개선 가능성이 커지는 만큼 단기 주가 흐름보다 실적 방향을 확인해야 한다는 설명이다. 한국 증시는 여전히 재평가 매력이 남아 있다는 평가도 나왔다. 투자 전략으로는 개별 종목에 집중하기보다 ETF를 활용한 분산투자가 필요하다고 조언했다. 중간선거를 앞둔 미국 지수 역시 유망한 투자처로 언급됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics PER Near Historic Low, Why a PB Warns Against Selling",
+        "excerpt": "According to Maeil Business Newspaper, a private banker said Samsung Electronics’ PER is near a historic low and investors should watch profit growth trends over the share price, citing AI-driven semiconductor growth, Korea market revaluation and ETF diversification.",
+        "body": "According to Maeil Business Newspaper, a private banker emphasized that investors judging Samsung Electronics should look first at the trend in earnings growth rather than the current share price. The banker said Samsung Electronics’ PER is at a historically low level and that selling now could be a mistake. The backdrop cited was the entry into a high-growth semiconductor phase driven by AI. As the possibility of semiconductor profit improvement grows, the explanation was that investors should check the direction of earnings rather than short-term price moves. The Korean stock market was also assessed as still having revaluation appeal. As an investment strategy, the banker advised using ETFs for diversification instead of concentrating on individual stocks. U.S. indexes ahead of the midterm elections were also mentioned as promising. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子PERが歴史的低水準、PBが語る「売却は失敗」の理由",
+        "excerpt": "毎日経済によると、あるPBはサムスン電子のPERが歴史的低水準にあり、株価より利益成長の流れを見るべきだと助言した。AI半導体の成長、韓国株の再評価、ETF分散投資も指摘した。",
+        "body": "毎日経済の報道によると、あるPBはサムスン電子の株価を判断する際、現在の価格よりも利益成長の推移を先に見るべきだと強調した。同PBはサムスン電子のPERが歴史的な低水準にあり、今売却するのは失敗になり得ると診断した。背景としては、AIを起点とする半導体の高成長局面入りが挙げられた。半導体利益の改善可能性が高まるなか、短期的な株価の動きより業績の方向を確認すべきだという説明だ。韓国株式市場には依然として再評価の魅力が残っているとの見方も示された。投資戦略としては、個別銘柄に集中するよりETFを活用した分散投資が必要だと助言した。中間選挙を控えた米国指数も有望な投資先として言及された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子PER处于历史低位，PB称此时卖出可能是错误",
+        "excerpt": "据《每日经济》报道，一位私人银行顾问表示，三星电子PER处于历史低位，投资者应关注利润增长趋势而非股价本身，并提到AI半导体增长、韩国股市重估和ETF分散投资。",
+        "body": "据《每日经济》报道，一位私人银行顾问强调，在判断三星电子股票时，应先看利润增长趋势，而不是当前股价。该顾问认为，三星电子PER处于历史低位，现在卖出可能是错误。其背景是AI带动半导体进入高增长阶段。随着半导体利润改善的可能性加大，投资者应确认业绩方向，而非只看短期股价走势。报道还提到，韩国股市仍具有重估吸引力。在投资策略方面，该顾问建议不要集中投资个股，而应利用ETF进行分散投资。中期选举前的美国指数也被列为有前景的投资对象。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "PER de Samsung Electronics en mínimos históricos: por qué vender ahora sería un error",
+        "excerpt": "Según Maeil Business Newspaper, un banquero privado dijo que el PER de Samsung Electronics está en niveles históricamente bajos y que conviene mirar el crecimiento de beneficios, junto con semiconductores de IA, revalorización coreana y ETF.",
+        "body": "Según Maeil Business Newspaper, un banquero privado subrayó que, al evaluar Samsung Electronics, los inversores deben mirar primero la tendencia de crecimiento de beneficios y no el precio actual de la acción. Señaló que el PER de Samsung Electronics se encuentra en un nivel históricamente bajo y que vender ahora podría ser un error. El contexto citado es la entrada de los semiconductores en una fase de alto crecimiento impulsada por la IA. Ante la mayor posibilidad de mejora de beneficios en semiconductores, la explicación fue que debe confirmarse la dirección de las ganancias más que el movimiento bursátil de corto plazo. También se afirmó que el mercado coreano aún conserva atractivo de revalorización. Como estrategia, recomendó diversificar mediante ETF en lugar de concentrarse en acciones individuales. Los índices de EE. UU. antes de las elecciones de medio mandato también fueron mencionados como prometedores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "PER da Samsung Electronics em mínima histórica: por que vender agora pode ser erro",
+        "excerpt": "Segundo o Maeil Business Newspaper, um private banker disse que o PER da Samsung Electronics está em nível historicamente baixo e que investidores devem observar o crescimento dos lucros, além de IA em chips, reavaliação da bolsa coreana e ETFs.",
+        "body": "Segundo o Maeil Business Newspaper, um private banker destacou que, ao avaliar a Samsung Electronics, os investidores devem olhar primeiro a tendência de crescimento dos lucros, e não o preço atual da ação. Ele afirmou que o PER da Samsung Electronics está em nível historicamente baixo e que vender agora pode ser um erro. O pano de fundo citado foi a entrada dos semicondutores em uma fase de alto crescimento impulsionada pela IA. Com a possibilidade maior de melhora nos lucros do setor, a orientação é verificar a direção dos resultados em vez de focar nos movimentos de curto prazo das ações. Também foi avaliado que a bolsa coreana ainda mantém apelo de reavaliação. Como estratégia, o banker recomendou diversificação com ETFs, em vez de concentração em ações individuais. Índices dos EUA antes das eleições de meio de mandato também foram citados como promissores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics PER auf historischem Tief: Warum Verkauf laut PB ein Fehler wäre",
+        "excerpt": "Laut Maeil Business Newspaper sagte ein Private Banker, das PER von Samsung Electronics liege historisch niedrig; Anleger sollten eher Gewinnwachstum als Kurs betrachten, mit Blick auf KI-Halbleiter, Neubewertung Koreas und ETF-Streuung.",
+        "body": "Laut Maeil Business Newspaper betonte ein Private Banker, dass Anleger bei Samsung Electronics zuerst den Trend des Gewinnwachstums und nicht den aktuellen Aktienkurs betrachten sollten. Er erklärte, das PER von Samsung Electronics liege auf einem historisch niedrigen Niveau und ein Verkauf jetzt könne ein Fehler sein. Als Hintergrund wurde der Eintritt der Halbleiterbranche in eine durch KI ausgelöste Hochwachstumsphase genannt. Da die Möglichkeit einer Gewinnverbesserung bei Halbleitern steigt, solle man eher die Richtung der Ergebnisse prüfen als kurzfristige Kursbewegungen. Auch der koreanische Aktienmarkt wurde weiterhin als attraktiv für eine Neubewertung eingeschätzt. Als Strategie empfahl der Banker, ETFs für Diversifikation zu nutzen, statt sich auf Einzelwerte zu konzentrieren. Auch US-Indizes vor den Zwischenwahlen wurden als aussichtsreich erwähnt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "PER de Samsung Electronics au plus bas historique : pourquoi vendre serait une erreur",
+        "excerpt": "Selon Maeil Business Newspaper, un banquier privé estime que le PER de Samsung Electronics est historiquement bas et qu’il faut suivre la croissance des bénéfices, avec l’essor des semi-conducteurs liés à l’IA, la revalorisation coréenne et les ETF.",
+        "body": "Selon Maeil Business Newspaper, un banquier privé a souligné que, pour juger Samsung Electronics, les investisseurs devraient regarder d’abord la tendance de croissance des bénéfices plutôt que le cours actuel de l’action. Il a estimé que le PER de Samsung Electronics se situe à un niveau historiquement bas et que vendre maintenant pourrait être une erreur. Le contexte avancé est l’entrée des semi-conducteurs dans une phase de forte croissance portée par l’IA. Avec une possibilité accrue d’amélioration des bénéfices dans les semi-conducteurs, l’explication est qu’il faut vérifier l’orientation des résultats plutôt que les mouvements de cours à court terme. Le marché actions coréen a aussi été jugé encore attractif pour une revalorisation. Comme stratégie, il a recommandé la diversification via les ETF plutôt qu’une concentration sur des titres individuels. Les indices américains avant les élections de mi-mandat ont également été cités comme prometteurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مكرر ربحية سامسونغ إلكترونيكس عند قاع تاريخي: لماذا قد يكون البيع خطأ",
+        "excerpt": "بحسب صحيفة ماييل الاقتصادية، قال مصرفي خاص إن مكرر ربحية سامسونغ إلكترونيكس عند مستوى تاريخي منخفض، وإن على المستثمرين متابعة نمو الأرباح لا السعر، مع الإشارة إلى نمو أشباه الموصلات بالذكاء الاصطناعي وإعادة تقييم السوق الكورية وتنويع ETF.",
+        "body": "بحسب صحيفة ماييل الاقتصادية، شدد مصرفي خاص على أن تقييم سهم سامسونغ إلكترونيكس يجب أن يبدأ باتجاه نمو الأرباح لا بالسعر الحالي للسهم. وقال إن مكرر ربحية سامسونغ إلكترونيكس عند مستوى تاريخي منخفض، وإن البيع الآن قد يكون خطأ. والخلفية المطروحة هي دخول أشباه الموصلات مرحلة نمو مرتفع مدفوعة بالذكاء الاصطناعي. ومع زيادة احتمال تحسن أرباح أشباه الموصلات، فإن المطلوب هو التحقق من اتجاه النتائج بدلا من التركيز على حركة السعر القصيرة الأجل. كما جرى تقييم سوق الأسهم الكورية بأنها ما زالت تملك جاذبية إعادة التقييم. وفي الاستراتيجية الاستثمارية، نصح باستخدام صناديق ETF للتنويع بدلا من التركيز على أسهم منفردة. وذكرت مؤشرات الولايات المتحدة قبل انتخابات التجديد النصفي أيضا كوجهة واعدة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics का PER ऐतिहासिक निचले स्तर पर, PB ने बिक्री को गलती क्यों कहा",
+        "excerpt": "Maeil Business Newspaper के अनुसार, एक निजी बैंकर ने कहा कि Samsung Electronics का PER ऐतिहासिक निचले स्तर पर है और निवेशकों को शेयर भाव से अधिक मुनाफे की वृद्धि देखनी चाहिए; AI सेमीकंडक्टर, कोरियाई बाजार के पुनर्मूल्यांकन और ETF विविधीकरण पर भी जोर दिया गया।",
+        "body": "Maeil Business Newspaper के अनुसार, एक निजी बैंकर ने जोर दिया कि Samsung Electronics का आकलन करते समय निवेशकों को मौजूदा शेयर भाव से पहले मुनाफे की वृद्धि की दिशा देखनी चाहिए। उन्होंने कहा कि Samsung Electronics का PER ऐतिहासिक निचले स्तर पर है और अभी बेचना गलती हो सकती है। पृष्ठभूमि में AI से प्रेरित सेमीकंडक्टर क्षेत्र के तेज वृद्धि चरण में प्रवेश का उल्लेख किया गया। सेमीकंडक्टर मुनाफे में सुधार की संभावना बढ़ने के कारण, अल्पकालिक शेयर चाल के बजाय आय की दिशा की पुष्टि करने की सलाह दी गई। कोरियाई शेयर बाजार में अब भी पुनर्मूल्यांकन का आकर्षण बताया गया। निवेश रणनीति के रूप में व्यक्तिगत शेयरों पर केंद्रित रहने के बजाय ETF के जरिए विविधीकरण की जरूरत बताई गई। मध्यावधि चुनाव से पहले अमेरिकी सूचकांकों को भी संभावनाशील निवेश क्षेत्र के रूप में उल्लेखित किया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "PER Samsung Electronics di Level Terendah Historis, PB Sebut Jual Kini Bisa Salah",
+        "excerpt": "Menurut Maeil Business Newspaper, seorang private banker mengatakan PER Samsung Electronics berada di level terendah historis dan investor perlu melihat tren pertumbuhan laba, bersama pertumbuhan semikonduktor AI, revaluasi bursa Korea, dan diversifikasi ETF.",
+        "body": "Menurut Maeil Business Newspaper, seorang private banker menekankan bahwa dalam menilai Samsung Electronics, investor perlu melihat lebih dulu tren pertumbuhan laba, bukan harga saham saat ini. Ia menilai PER Samsung Electronics berada di level terendah historis dan menjual sekarang bisa menjadi kesalahan. Latar belakangnya adalah masuknya semikonduktor ke fase pertumbuhan tinggi yang dipicu AI. Karena peluang perbaikan laba semikonduktor meningkat, arah kinerja dinilai lebih penting untuk diperiksa daripada pergerakan harga jangka pendek. Pasar saham Korea juga dinilai masih memiliki daya tarik revaluasi. Sebagai strategi investasi, ia menyarankan diversifikasi melalui ETF alih-alih berkonsentrasi pada saham individual. Indeks AS menjelang pemilu sela juga disebut sebagai pilihan yang menjanjikan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c103eb2c4d69",
+    "slug": "母-떠난-뒤-멈춘-세상임수정-백상-울린-눈물의-수상소감-715058",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T13:22:23.866Z",
+    "updatedAt": "2026-05-08T13:22:23.866Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/culture/12041823",
+    "canonicalUrl": "https://www.mk.co.kr/news/culture/12041823",
+    "titleFingerprint": "da118afaccff328fcbbc7c91d87e674b0896aa5d",
+    "dedupKeys": [
+      "c103eb2c4d69dd52b0b713012c0a0c9b855b1712",
+      "da118afaccff328fcbbc7c91d87e674b0896aa5d",
+      "ffc8ac81f923d36b2919b2aa359abb3d9b21f2a1"
+    ],
+    "imageUrl": "/images/articles/c103eb2c4d69.jpg",
+    "i18n": {
+      "ko": {
+        "title": "임수정 백상예술대상 눈물 소감, 모친상 4개월 만에 전한 덤덤한 고백",
+        "excerpt": "배우 임수정이 8일 서울 강남구 코엑스에서 열린 제62회 백상예술대상에서 모친상 4개월 만의 심경을 담은 수상 소감으로 현장을 먹먹하게 했다.",
+        "body": "배우 임수정이 8일 오후 서울 강남구 코엑스에서 열린 제62회 백상예술대상에서 눈물의 수상 소감을 전했다. 모친상을 겪은 지 4개월 만에 공식 석상에 선 그는 “엄마가 떠난 뒤 세상이 멈춘 것 같았다”는 취지의 마음을 덤덤하게 드러냈다. 이어 “다시 나아가라고” 자신을 일으켜 세우는 듯한 말로 슬픔을 지나 앞으로 향하려는 심경을 밝혔다. 짧지만 진심이 담긴 발언은 시상식장을 숙연하게 만들었고, 배우로서의 수상보다 개인적 상실을 견디는 인간 임수정의 고백으로 받아들여졌다. 관련 내용은 mk.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "Lim Soo-jung Moves Baeksang Audience With Tearful Speech After Mother’s Death",
+        "excerpt": "Actor Lim Soo-jung gave a restrained, emotional acceptance speech at the 62nd Baeksang Arts Awards in Seoul on May 8, four months after losing her mother.",
+        "body": "Actor Lim Soo-jung delivered a tearful acceptance speech on the afternoon of May 8 at the 62nd Baeksang Arts Awards, held at COEX in Gangnam, Seoul. Appearing publicly four months after her mother’s death, she calmly shared that it had felt as if the world stopped after her mother left. She also expressed the thought of being told “to move forward again,” revealing a state of mind trying to step beyond grief. The brief but sincere remarks made the ceremony hall heavy with emotion, and the moment was received not only as an award speech by an actor but as a personal confession from Lim Soo-jung enduring loss. This article cites mk.co.kr."
+      },
+      "ja": {
+        "title": "イム・スジョン、百想芸術大賞で涙の受賞所感 母の死から4カ月",
+        "excerpt": "俳優イム・スジョンが5月8日、ソウル江南区COEXで開かれた第62回百想芸術大賞で、母を亡くして4カ月後の心境を静かに語った。",
+        "body": "俳優イム・スジョンは5月8日午後、ソウル江南区COEXで開かれた第62回百想芸術大賞で、涙をにじませた受賞所感を述べた。母を亡くしてから4カ月ぶりに公式の場に立った彼女は、「母が去った後、世界が止まったようだった」という趣旨の思いを淡々と明かした。続けて「もう一度進みなさい」と自分を立ち上がらせるような言葉で、悲しみを越えて前へ向かおうとする心境を伝えた。短くも真心のこもった発言は会場をしんみりさせ、俳優としての受賞以上に、喪失に耐える一人の人間としての告白として受け止められた。内容はmk.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "林秀晶百想艺术大赏含泪致辞，母亲离世四个月后吐露心声",
+        "excerpt": "演员林秀晶5月8日在首尔江南区COEX举行的第62届百想艺术大赏上，发表了母亲离世四个月后的沉静获奖感言。",
+        "body": "演员林秀晶于5月8日下午在首尔江南区COEX举行的第62届百想艺术大赏上，发表了含泪获奖感言。经历母亲离世四个月后，她站上公开场合，平静地吐露了“母亲离开后，世界仿佛停住了”的心情。她还以“要重新向前走”的话语，表达了试图走过悲伤、再次前行的心境。简短却真挚的发言让颁奖现场气氛沉重，也让这一刻不仅被看作演员的获奖感言，更被视为林秀晶作为一个承受失去之痛的人所作出的坦白。相关内容引述自mk.co.kr报道。"
+      },
+      "es": {
+        "title": "Lim Soo-jung conmueve en Baeksang con discurso tras la muerte de su madre",
+        "excerpt": "La actriz Lim Soo-jung ofreció el 8 de mayo en COEX, Seúl, un sobrio discurso en los 62.º Baeksang Arts Awards, cuatro meses después de perder a su madre.",
+        "body": "La actriz Lim Soo-jung pronunció un emotivo discurso de aceptación la tarde del 8 de mayo en la 62.ª edición de los Baeksang Arts Awards, celebrada en COEX, en Gangnam, Seúl. Cuatro meses después de la muerte de su madre, apareció en un acto público y expresó con serenidad que sintió como si el mundo se hubiera detenido tras su partida. También transmitió la idea de “volver a avanzar”, como si esas palabras la ayudaran a levantarse. Sus breves pero sinceras palabras llenaron de emoción el recinto y fueron recibidas no solo como el discurso de una actriz premiada, sino como la confesión personal de Lim Soo-jung ante una pérdida. El contenido cita a mk.co.kr."
+      },
+      "pt": {
+        "title": "Lim Soo-jung emociona Baeksang com discurso após morte da mãe",
+        "excerpt": "A atriz Lim Soo-jung fez em 8 de maio, no COEX em Seul, um discurso contido nos 62º Baeksang Arts Awards, quatro meses após a morte da mãe.",
+        "body": "A atriz Lim Soo-jung fez um discurso de aceitação emocionado na tarde de 8 de maio, durante a 62ª edição do Baeksang Arts Awards, realizada no COEX, em Gangnam, Seul. Quatro meses depois de perder a mãe, ela apareceu em público e relatou, de forma serena, que sentiu como se o mundo tivesse parado após a partida dela. Também expressou a ideia de “seguir em frente novamente”, como palavras que a ajudavam a se levantar. A fala breve, mas sincera, deixou o salão da cerimônia tomado pela emoção e foi recebida não apenas como o discurso de uma atriz premiada, mas como a confissão pessoal de Lim Soo-jung diante da perda. O conteúdo cita o mk.co.kr."
+      },
+      "de": {
+        "title": "Lim Soo-jung rührt Baeksang mit Tränenrede vier Monate nach Tod der Mutter",
+        "excerpt": "Schauspielerin Lim Soo-jung sprach am 8. Mai bei den 62. Baeksang Arts Awards in Seoul vier Monate nach dem Tod ihrer Mutter über ihre Gefühle.",
+        "body": "Schauspielerin Lim Soo-jung hielt am Nachmittag des 8. Mai bei den 62. Baeksang Arts Awards im COEX im Seouler Stadtteil Gangnam eine tränenreiche Dankesrede. Vier Monate nach dem Tod ihrer Mutter trat sie wieder öffentlich auf und schilderte ruhig, es habe sich angefühlt, als sei die Welt nach dem Weggang ihrer Mutter stehen geblieben. Zugleich sprach sie davon, “wieder weiterzugehen”, als würden diese Worte sie aufrichten. Die kurze, aber aufrichtige Rede machte den Saal spürbar betroffen. Der Moment wurde nicht nur als Dankesrede einer ausgezeichneten Schauspielerin wahrgenommen, sondern als persönliches Bekenntnis von Lim Soo-jung, die einen Verlust trägt. Grundlage ist ein Bericht von mk.co.kr."
+      },
+      "fr": {
+        "title": "Lim Soo-jung émeut les Baeksang avec un discours après le décès de sa mère",
+        "excerpt": "L’actrice Lim Soo-jung a livré le 8 mai au COEX de Séoul un discours sobre et ému aux 62e Baeksang Arts Awards, quatre mois après la mort de sa mère.",
+        "body": "L’actrice Lim Soo-jung a prononcé un discours de remerciement ému dans l’après-midi du 8 mai, lors de la 62e cérémonie des Baeksang Arts Awards, organisée au COEX, dans le quartier de Gangnam à Séoul. Quatre mois après le décès de sa mère, elle est apparue en public et a confié avec retenue avoir eu le sentiment que le monde s’était arrêté après son départ. Elle a aussi évoqué l’idée de “repartir de l’avant”, comme des mots capables de la relever. Ces paroles brèves mais sincères ont plongé la salle dans l’émotion et ont été reçues non seulement comme le discours d’une actrice récompensée, mais comme la confession personnelle de Lim Soo-jung face à la perte. Le contenu cite mk.co.kr."
+      },
+      "ar": {
+        "title": "ليم سو جونغ تبكي جمهور بايكسانغ بكلمة مؤثرة بعد وفاة والدتها",
+        "excerpt": "ألقت الممثلة ليم سو جونغ في 8 مايو خلال جوائز بايكسانغ للفنون بدورتها الـ62 في سيول كلمة هادئة ومؤثرة بعد أربعة أشهر من وفاة والدتها.",
+        "body": "ألقت الممثلة ليم سو جونغ بعد ظهر 8 مايو كلمة قبول مؤثرة خلال الدورة الثانية والستين من جوائز بايكسانغ للفنون، التي أقيمت في مركز COEX بمنطقة غانغنام في سيول. وبعد أربعة أشهر من وفاة والدتها، ظهرت في مناسبة عامة وكشفت بهدوء أنها شعرت كما لو أن العالم توقف بعد رحيل والدتها. كما عبّرت عن معنى “المضي قدما من جديد”، وكأن هذه الكلمات تساعدها على النهوض وتجاوز الحزن. الكلمات القصيرة والصادقة جعلت أجواء القاعة مثقلة بالمشاعر، وتلقاها الحضور ليس فقط ككلمة فوز من ممثلة، بل كاعتراف شخصي من ليم سو جونغ وهي تتحمل ألم الفقد. يستند المحتوى إلى تقرير mk.co.kr."
+      },
+      "hi": {
+        "title": "लिम सू-जंग ने मां के निधन के बाद बैकसांग में भावुक स्वीकृति भाषण दिया",
+        "excerpt": "अभिनेत्री लिम सू-जंग ने 8 मई को सियोल के COEX में हुए 62वें बैकसांग आर्ट्स अवॉर्ड्स में मां के निधन के चार महीने बाद अपनी भावनाएं साझा कीं।",
+        "body": "अभिनेत्री लिम सू-जंग ने 8 मई की दोपहर सियोल के गंगनम स्थित COEX में आयोजित 62वें बैकसांग आर्ट्स अवॉर्ड्स में आंसुओं से भरा स्वीकृति भाषण दिया। मां के निधन के चार महीने बाद सार्वजनिक मंच पर आईं लिम ने शांत स्वर में बताया कि मां के जाने के बाद उन्हें ऐसा लगा मानो दुनिया रुक गई हो। उन्होंने “फिर से आगे बढ़ने” की भावना भी साझा की, जैसे यही शब्द उन्हें फिर खड़ा कर रहे हों। उनका संक्षिप्त लेकिन सच्चा वक्तव्य समारोह स्थल को भावुक कर गया। यह पल केवल एक अभिनेत्री के पुरस्कार भाषण के रूप में नहीं, बल्कि निजी क्षति से गुजर रहीं लिम सू-जंग की मानवीय स्वीकारोक्ति के रूप में देखा गया। सामग्री mk.co.kr की रिपोर्ट पर आधारित है।"
+      },
+      "id": {
+        "title": "Lim Soo-jung Menangis di Baeksang, Ungkap Duka Empat Bulan Setelah Ibu Tiada",
+        "excerpt": "Aktris Lim Soo-jung menyampaikan pidato penerimaan yang tenang dan emosional di Baeksang Arts Awards ke-62 di COEX, Seoul, pada 8 Mei.",
+        "body": "Aktris Lim Soo-jung menyampaikan pidato penerimaan yang penuh air mata pada sore 8 Mei di Baeksang Arts Awards ke-62, yang digelar di COEX, Gangnam, Seoul. Tampil di hadapan publik empat bulan setelah ibunya meninggal, ia dengan tenang mengungkapkan bahwa setelah sang ibu pergi, dunia terasa seperti berhenti. Ia juga menyampaikan makna “untuk kembali melangkah maju”, seolah kata-kata itu membantunya berdiri lagi melewati kesedihan. Ucapan yang singkat namun tulus itu membuat suasana ruang acara menjadi haru. Momen tersebut diterima bukan hanya sebagai pidato kemenangan seorang aktris, tetapi sebagai pengakuan pribadi Lim Soo-jung dalam menghadapi kehilangan. Konten ini mengutip laporan mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "56a671fabb79",
+    "slug": "병든-아버지-방치해-숨지게-한-아들시신-유기-후-생계급여-몰래-받기도-917808",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T13:21:10.734Z",
+    "updatedAt": "2026-05-08T13:21:10.734Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041853",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041853",
+    "titleFingerprint": "d78c4f55307ab2381b492c42cbf102cd01c6f5b8",
+    "dedupKeys": [
+      "56a671fabb7923f1fd601f5dbca903f5420e4306",
+      "d78c4f55307ab2381b492c42cbf102cd01c6f5b8",
+      "1185e749146663a7002cf3623f093b196cb61efd"
+    ],
+    "imageUrl": "/images/articles/56a671fabb79.png",
+    "i18n": {
+      "ko": {
+        "title": "병든 아버지 방치해 사망케 한 30대 아들, 항소심도 징역 5년",
+        "excerpt": "병든 아버지를 방치해 숨지게 하고 약 10개월간 시신을 유기한 혐의를 받은 30대 남성이 8일 알려진 항소심에서 징역 5년을 선고받았다.",
+        "body": "병든 아버지를 제대로 돌보지 않아 숨지게 하고 시신을 장기간 유기한 혐의를 받는 30대 남성이 항소심에서도 실형을 선고받았다. 8일 법조계에 따르면 서울고법 인천원외재판부는 해당 남성에게 징역 5년을 선고했다. 그는 병든 아버지를 방치해 사망에 이르게 한 뒤 약 10개월 동안 시신을 유기한 혐의를 받았다. 또 시신을 유기한 기간 생계급여를 몰래 받은 정황도 함께 다뤄졌다. 이번 판결은 가족 돌봄 방치와 사망 이후 시신 유기, 복지급여 부정 수급 의혹이 결합된 사건이라는 점에서 사회적 파장이 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Son in His 30s Gets 5 Years on Appeal for Neglecting Ill Father",
+        "excerpt": "A man in his 30s accused of leaving his ill father to die and abandoning the body for about 10 months was sentenced to five years in prison on appeal, according to legal circles on May 8.",
+        "body": "A man in his 30s accused of neglecting his ill father until he died and then abandoning the body for an extended period has again received a prison sentence on appeal. According to legal circles on May 8, the Incheon division of the Seoul High Court sentenced the man to five years in prison. He was accused of leaving his sick father unattended, leading to his death, and then abandoning the body for about 10 months. The case also included circumstances in which he allegedly received livelihood benefits secretly during the period the body was left unattended. The ruling is expected to draw continued attention because it combines alleged family-care neglect, body abandonment after death, and improper receipt of welfare benefits. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "病気の父を放置し死亡させた30代息子、控訴審も懲役5年",
+        "excerpt": "病気の父を放置して死亡させ、約10カ月にわたり遺体を遺棄した疑いのある30代男性に、8日に伝えられた控訴審で懲役5年が言い渡された。",
+        "body": "病気の父を十分に世話せず死亡させ、その後長期間にわたり遺体を遺棄した疑いを受ける30代男性が、控訴審でも実刑判決を受けた。8日、法曹界によると、ソウル高裁仁川院外裁判部はこの男性に懲役5年を言い渡した。男性は病気の父を放置して死亡に至らせた後、約10カ月間遺体を遺棄した疑いが持たれている。また、遺体を遺棄していた期間に生計給付を密かに受け取っていた事情も扱われた。今回の判決は、家族介護の放置、死亡後の遺体遺棄、福祉給付の不正受給疑惑が重なった事件として、社会的な波紋が続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "30多岁男子放任患病父亲死亡，二审仍获刑5年",
+        "excerpt": "一名30多岁男子被控放任患病父亲死亡，并将遗体遗弃约10个月；据5月8日法律界消息，二审判处其有期徒刑5年。",
+        "body": "一名30多岁男子被控未妥善照料患病父亲，致其死亡，并在之后长期遗弃遗体，二审中再次被判实刑。据5月8日法律界消息，首尔高等法院仁川院外审判部判处该男子有期徒刑5年。该男子被指放任患病父亲不管，导致其死亡，随后将遗体遗弃约10个月。案件还涉及其在遗体被遗弃期间暗中领取生计补助的情况。此次判决因同时涉及家庭照护疏忽、死亡后遗体遗弃以及福利补助不当领取嫌疑，预计将继续引发社会关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hijo de 30 años recibe 5 años por abandonar a su padre enfermo",
+        "excerpt": "Un hombre de unos 30 años, acusado de dejar morir a su padre enfermo y abandonar el cuerpo durante unos 10 meses, fue condenado en apelación a 5 años de prisión, según fuentes legales el 8 de mayo.",
+        "body": "Un hombre de unos 30 años acusado de no cuidar a su padre enfermo hasta causarle la muerte y de abandonar el cuerpo durante un periodo prolongado volvió a recibir una condena de prisión en apelación. Según fuentes legales citadas el 8 de mayo, la sala de Incheon del Tribunal Superior de Seúl lo condenó a 5 años de cárcel. El hombre fue acusado de dejar desatendido a su padre enfermo, provocando su muerte, y de abandonar luego el cadáver durante unos 10 meses. El caso también abordó indicios de que habría recibido en secreto subsidios de subsistencia durante el periodo en que el cuerpo permaneció abandonado. El fallo seguirá generando atención social por combinar abandono del cuidado familiar, abandono de cadáver y sospechas de cobro indebido de ayudas sociales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Filho de 30 anos pega 5 anos por abandonar pai doente até a morte",
+        "excerpt": "Um homem na casa dos 30 anos, acusado de deixar o pai doente morrer e abandonar o corpo por cerca de 10 meses, foi condenado em apelação a 5 anos de prisão, segundo meios jurídicos em 8 de maio.",
+        "body": "Um homem na casa dos 30 anos acusado de não cuidar adequadamente do pai doente, levando-o à morte, e de abandonar o corpo por um longo período voltou a receber pena de prisão em segunda instância. Segundo meios jurídicos em 8 de maio, a divisão de Incheon do Tribunal Superior de Seul condenou o réu a 5 anos de prisão. Ele é acusado de deixar o pai enfermo sem assistência até a morte e, depois, abandonar o cadáver por cerca de 10 meses. O caso também tratou de indícios de que ele teria recebido secretamente benefícios de subsistência durante o período em que o corpo foi abandonado. A decisão deve manter a repercussão social por envolver negligência no cuidado familiar, abandono de cadáver e suspeita de recebimento indevido de benefício social. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Sohn vernachlässigt kranken Vater bis zum Tod: 5 Jahre Haft bestätigt",
+        "excerpt": "Ein Mann in den Dreißigern, der seinen kranken Vater sterben ließ und die Leiche rund 10 Monate zurückgelassen haben soll, wurde laut Justizkreisen am 8. Mai im Berufungsverfahren zu 5 Jahren Haft verurteilt.",
+        "body": "Ein Mann in den Dreißigern, dem vorgeworfen wird, seinen kranken Vater nicht versorgt und dadurch dessen Tod verursacht sowie die Leiche lange zurückgelassen zu haben, ist auch im Berufungsverfahren zu einer Freiheitsstrafe verurteilt worden. Nach Angaben aus Justizkreisen vom 8. Mai verhängte die Außenkammer Incheon des Obergerichts Seoul eine Haftstrafe von 5 Jahren. Der Mann soll seinen kranken Vater unbeaufsichtigt gelassen haben, bis dieser starb, und die Leiche anschließend etwa 10 Monate lang zurückgelassen haben. Zudem wurden Umstände behandelt, wonach er während dieser Zeit heimlich Leistungen zur Sicherung des Lebensunterhalts bezogen haben soll. Das Urteil dürfte weiter Aufmerksamkeit erhalten, weil es mutmaßliche Vernachlässigung familiärer Pflege, Leichenbeseitigung und unrechtmäßigen Bezug von Sozialleistungen verbindet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un fils condamné à 5 ans pour avoir laissé mourir son père malade",
+        "excerpt": "Un homme d’une trentaine d’années, accusé d’avoir laissé mourir son père malade puis abandonné le corps pendant environ 10 mois, a été condamné en appel à 5 ans de prison, selon des sources judiciaires le 8 mai.",
+        "body": "Un homme d’une trentaine d’années, accusé de ne pas avoir pris soin de son père malade jusqu’à sa mort puis d’avoir abandonné le corps pendant une longue période, a de nouveau été condamné à une peine de prison en appel. Selon des sources judiciaires le 8 mai, la chambre d’Incheon de la Haute Cour de Séoul lui a infligé 5 ans d’emprisonnement. Il est soupçonné d’avoir laissé son père malade sans soins, entraînant sa mort, puis d’avoir abandonné le corps pendant environ 10 mois. L’affaire a également porté sur des éléments selon lesquels il aurait perçu secrètement des allocations de subsistance pendant cette période. Ce jugement devrait continuer à susciter l’attention, car il réunit négligence familiale, abandon de cadavre et soupçons de perception indue d’aides sociales. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ابن في الثلاثينيات يُحكم عليه بـ5 سنوات بعد ترك والده المريض يموت",
+        "excerpt": "حُكم على رجل في الثلاثينيات، متهم بترك والده المريض حتى وفاته والتخلص من الجثة لنحو 10 أشهر، بالسجن 5 سنوات في الاستئناف، وفق أوساط قانونية في 8 مايو.",
+        "body": "صدر حكم بالسجن مجددا في مرحلة الاستئناف بحق رجل في الثلاثينيات متهم بعدم رعاية والده المريض حتى وفاته، ثم ترك الجثة لفترة طويلة. ووفقا لأوساط قانونية في 8 مايو، قضت هيئة إنتشون التابعة لمحكمة سيول العليا بسجن الرجل 5 سنوات. ويواجه المتهم اتهامات بترك والده المريض دون رعاية، ما أدى إلى وفاته، ثم التخلي عن الجثة لمدة تقارب 10 أشهر. كما تناولت القضية ملابسات تفيد بأنه تلقى سرا إعانات معيشية خلال الفترة التي تُركت فيها الجثة. ومن المتوقع أن يستمر الاهتمام الاجتماعي بالحكم لأنه يجمع بين إهمال الرعاية الأسرية، والتخلي عن الجثة بعد الوفاة، وشبهات تلقي إعانات اجتماعية بغير وجه حق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "बीमार पिता को मरने के लिए छोड़ने वाले बेटे को अपील में 5 साल की सजा",
+        "excerpt": "बीमार पिता की उपेक्षा कर उनकी मौत होने देने और शव को करीब 10 महीने तक छोड़ने के आरोपी 30 वर्षीय पुरुष को 8 मई को सामने आई अपील सुनवाई में 5 साल कैद की सजा दी गई।",
+        "body": "बीमार पिता की उचित देखभाल न करने से उनकी मौत होने और फिर शव को लंबे समय तक छोड़ देने के आरोप में 30 वर्ष की उम्र के एक पुरुष को अपील में भी जेल की सजा सुनाई गई। 8 मई को कानूनी हलकों के अनुसार, सियोल हाई कोर्ट की इंचियोन बाहरी पीठ ने उसे 5 साल कैद की सजा दी। उस पर आरोप है कि उसने बीमार पिता को उपेक्षित छोड़ दिया, जिससे उनकी मौत हो गई, और फिर लगभग 10 महीने तक शव को छोड़ दिया। मामले में यह परिस्थिति भी देखी गई कि शव छोड़े जाने की अवधि में उसने गुप्त रूप से जीविका भत्ता प्राप्त किया। यह फैसला इसलिए सामाजिक ध्यान खींचता रहेगा क्योंकि इसमें पारिवारिक देखभाल की उपेक्षा, मौत के बाद शव छोड़ना और कल्याणकारी भत्ते के अनुचित प्राप्ति के संदेह साथ जुड़े हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Anak 30-an Dituntut 5 Tahun karena Biarkan Ayah Sakit Meninggal",
+        "excerpt": "Pria berusia 30-an yang dituduh menelantarkan ayahnya yang sakit hingga meninggal dan membiarkan jenazah sekitar 10 bulan dijatuhi hukuman 5 tahun penjara di tingkat banding, menurut kalangan hukum pada 8 Mei.",
+        "body": "Seorang pria berusia 30-an yang dituduh tidak merawat ayahnya yang sakit hingga meninggal dan kemudian membiarkan jenazahnya dalam waktu lama kembali dijatuhi hukuman penjara di tingkat banding. Menurut kalangan hukum pada 8 Mei, majelis luar Incheon dari Pengadilan Tinggi Seoul menjatuhkan hukuman 5 tahun penjara kepada pria tersebut. Ia dituduh membiarkan ayahnya yang sakit tanpa perawatan hingga meninggal, lalu menelantarkan jenazah selama sekitar 10 bulan. Perkara ini juga mencakup keadaan bahwa ia diduga diam-diam menerima tunjangan subsistensi selama periode jenazah ditelantarkan. Putusan ini diperkirakan tetap menjadi perhatian sosial karena menggabungkan penelantaran perawatan keluarga, penelantaran jenazah setelah kematian, dan dugaan penerimaan bantuan kesejahteraan secara tidak semestinya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d44f41cb0ece",
     "slug": "속보-미-4월-고용-11만5000명-증가예상치-상회-658897",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Pihak Ki Eun-se Minta Maaf atas Kontroversi Kekacauan Proyek di Pyeongchang-dong",
         "excerpt": "Pihak aktris Ki Eun-se meminta maaf atas kontroversi gangguan proyek konstruksi di Pyeongchang-dong setelah seorang anggota keluarga tetangga mengangkat masalah itu di media sosial bulan lalu.",
         "body": "Pihak aktris Ki Eun-se meminta maaf atas kontroversi dugaan gangguan dari lokasi konstruksi di Pyeongchang-dong, Seoul. Masalah ini muncul pada tanggal 27 bulan lalu ketika A, yang mengatakan bahwa orang tuanya tinggal di sebelah rumah Ki Eun-se, mengunggah kritik di media sosial tentang kondisi proyek tersebut. A menulis bahwa keadaan konstruksi di sebelah “benar-benar memprihatinkan” sambil menyebut nama aktris itu, sehingga pengelolaan lokasi dan ketidaknyamanan warga sekitar menjadi perhatian online. Pihak Ki Eun-se menyampaikan permintaan maaf, mengatakan akan membersihkan lingkungan dan meminta maaf kepada warga. Kasus ini kembali menunjukkan pentingnya komunikasi dengan tetangga dan pengelolaan lokasi, bahkan dalam proyek pembangunan rumah pribadi selebritas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "907188b7d8b1",
-    "slug": "속보-반도체-호조3월-경상수지-역대-최대-흑자-373억3000만달러-192520",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T23:29:02.412Z",
-    "updatedAt": "2026-05-07T23:29:02.412Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12040691",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12040691",
-    "titleFingerprint": "e359a9b135526991331515431762e5555b8b2d8e",
-    "dedupKeys": [
-      "907188b7d8b1b174af667dc8468312f316cf2ccb",
-      "e359a9b135526991331515431762e5555b8b2d8e",
-      "9294ff548c34b65622dab748091fc9632458e185"
-    ],
-    "imageUrl": "/images/articles/907188b7d8b1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 수출 호조에 3월 경상수지 373억3000만달러 역대 최대 흑자",
-        "excerpt": "한국은행이 발표한 3월 국제수지에서 우리나라 경상수지는 반도체 등 IT 품목 수출 증가에 힘입어 373억3000만달러 흑자를 기록했다.",
-        "body": "한국은행이 발표한 3월 ‘국제수지’에 따르면 우리나라 경상수지는 373억3000만달러 흑자를 기록했다. 반도체 등 IT 품목 수출 증가가 흑자 확대의 주요 배경으로 제시됐다. 이번 흑자 규모는 역대 최대 수준이며, 경상수지는 35개월 연속 흑자 흐름을 이어갔다. 수출 중심 품목의 호조가 대외수지 개선에 힘을 보탠 셈이다. 다만 발표 내용은 3월 실적과 반도체 등 IT 수출 증가에 따른 결과를 중심으로 확인된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Semiconductor Exports Lift Korea’s March Current Account to Record $37.33 Billion Surplus",
-        "excerpt": "The Bank of Korea said South Korea’s March current account posted a $37.33 billion surplus, helped by stronger exports of semiconductors and other IT items.",
-        "body": "According to the Bank of Korea’s March balance of payments release, South Korea’s current account recorded a surplus of $37.33 billion. The increase was supported by stronger exports of semiconductors and other IT products. The surplus was the largest on record, and the current account remained in surplus for the 35th consecutive month. The data show that strength in key export items contributed to an improvement in the external balance. The announcement centers on March results and the impact of increased IT exports, including semiconductors. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "半導体輸出好調で韓国3月経常収支、373億3000万ドルの過去最大黒字",
-        "excerpt": "韓国銀行が発表した3月の国際収支で、韓国の経常収支は半導体などIT品目の輸出増を受け、373億3000万ドルの黒字となった。",
-        "body": "韓国銀行が発表した3月の「国際収支」によると、韓国の経常収支は373億3000万ドルの黒字を記録した。半導体などIT品目の輸出増加が黒字拡大の主な背景として示された。今回の黒字幅は過去最大規模で、経常収支は35カ月連続の黒字を維持した。主要輸出品目の好調が対外収支の改善を支えた形だ。発表内容は、3月実績と半導体を含むIT輸出増による結果を中心に確認される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "半导体出口强劲推动韩国3月经常账户创373.3亿美元最大顺差",
-        "excerpt": "韩国银行公布3月国际收支显示，韩国经常账户在半导体等IT品类出口增加带动下，实现373.3亿美元顺差。",
-        "body": "据韩国银行公布的3月“国际收支”数据，韩国经常账户录得373.3亿美元顺差。半导体等IT品类出口增加，被列为顺差扩大的主要背景。此次顺差规模为历史最大水平，经常账户也连续35个月保持顺差。关键出口品类的强劲表现，为对外收支改善提供了支撑。该发布内容主要确认了3月业绩，以及半导体等IT出口增长所带来的结果。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Exportaciones de semiconductores llevan superávit corriente de Corea a récord de US$37.330 millones",
-        "excerpt": "El Banco de Corea informó que la cuenta corriente de marzo registró un superávit de US$37.330 millones, impulsado por mayores exportaciones de semiconductores y otros productos IT.",
-        "body": "Según la publicación de la balanza de pagos de marzo del Banco de Corea, la cuenta corriente de Corea del Sur registró un superávit de US$37.330 millones. El aumento se apoyó en mayores exportaciones de semiconductores y otros productos de tecnología de la información. La cifra fue la mayor de la historia y la cuenta corriente mantuvo superávit por 35 meses consecutivos. Los datos muestran que la fortaleza de rubros clave de exportación contribuyó a mejorar la balanza externa. El anuncio se centra en los resultados de marzo y en el efecto del aumento de exportaciones IT, incluidos semiconductores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Semicondutores elevam superávit em conta corrente da Coreia a recorde de US$37,33 bi em março",
-        "excerpt": "O Banco da Coreia informou que a conta corrente de março teve superávit de US$37,33 bilhões, apoiada por maiores exportações de semicondutores e outros itens de TI.",
-        "body": "Segundo a divulgação da balança de pagamentos de março pelo Banco da Coreia, a conta corrente da Coreia do Sul registrou superávit de US$37,33 bilhões. O resultado foi sustentado pelo aumento das exportações de semicondutores e outros produtos de tecnologia da informação. O valor foi o maior já registrado, e a conta corrente permaneceu superavitária pelo 35º mês consecutivo. Os dados indicam que o bom desempenho de itens centrais de exportação contribuiu para a melhora das contas externas. O anúncio se concentra nos resultados de março e no impacto da alta das exportações de TI, incluindo semicondutores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Halbleiterexporte treiben Koreas Leistungsbilanz im März auf Rekordplus von 37,33 Mrd. Dollar",
-        "excerpt": "Die Bank of Korea meldete für März einen Leistungsbilanzüberschuss von 37,33 Mrd. Dollar, gestützt durch höhere Exporte von Halbleitern und anderen IT-Produkten.",
-        "body": "Nach der von der Bank of Korea veröffentlichten Zahlungsbilanz für März verzeichnete Südkorea einen Leistungsbilanzüberschuss von 37,33 Mrd. Dollar. Gestützt wurde der Anstieg durch höhere Exporte von Halbleitern und anderen IT-Produkten. Der Überschuss erreichte den höchsten je verzeichneten Stand, und die Leistungsbilanz blieb den 35. Monat in Folge positiv. Die Daten zeigen, dass starke zentrale Exportgüter zur Verbesserung der Außenbilanz beitrugen. Die Mitteilung bezieht sich vor allem auf die Märzergebnisse und den Effekt gestiegener IT-Exporte einschließlich Halbleitern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les semi-conducteurs portent l’excédent courant coréen de mars à un record de 37,33 Md$",
-        "excerpt": "La Banque de Corée a indiqué que le compte courant de mars affichait un excédent de 37,33 Md$, soutenu par la hausse des exportations de semi-conducteurs et d’autres produits IT.",
-        "body": "Selon la publication de la balance des paiements de mars par la Banque de Corée, le compte courant sud-coréen a enregistré un excédent de 37,33 Md$. Cette progression a été soutenue par la hausse des exportations de semi-conducteurs et d’autres produits de technologie de l’information. Le montant constitue un record historique, tandis que le compte courant reste excédentaire pour le 35e mois consécutif. Les données montrent que la vigueur des principaux produits exportés a contribué à l’amélioration de la balance extérieure. L’annonce porte sur les résultats de mars et l’effet de la hausse des exportations IT, dont les semi-conducteurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صادرات أشباه الموصلات ترفع فائض الحساب الجاري الكوري في مارس إلى رقم قياسي 37.33 مليار دولار",
-        "excerpt": "أعلن بنك كوريا أن الحساب الجاري في مارس سجل فائضا قدره 37.33 مليار دولار، بدعم من زيادة صادرات أشباه الموصلات وسلع تكنولوجيا المعلومات الأخرى.",
-        "body": "بحسب بيان ميزان المدفوعات لشهر مارس الصادر عن بنك كوريا، سجل الحساب الجاري لكوريا الجنوبية فائضا قدره 37.33 مليار دولار. وجاء الاتساع مدعوما بزيادة صادرات أشباه الموصلات وغيرها من منتجات تكنولوجيا المعلومات. ويعد هذا الفائض الأكبر على الإطلاق، كما واصل الحساب الجاري تحقيق فائض للشهر الخامس والثلاثين على التوالي. وتظهر البيانات أن قوة بنود التصدير الرئيسية ساهمت في تحسين الميزان الخارجي. ويركز الإعلان على نتائج مارس وأثر زيادة صادرات تكنولوجيا المعلومات، بما في ذلك أشباه الموصلات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर निर्यात से कोरिया का मार्च चालू खाता रिकॉर्ड 37.33 अरब डॉलर अधिशेष पर",
-        "excerpt": "बैंक ऑफ कोरिया ने कहा कि मार्च में दक्षिण कोरिया का चालू खाता 37.33 अरब डॉलर अधिशेष में रहा, जिसे सेमीकंडक्टर और अन्य आईटी वस्तुओं के निर्यात में वृद्धि से समर्थन मिला।",
-        "body": "बैंक ऑफ कोरिया की मार्च ‘बैलेंस ऑफ पेमेंट्स’ घोषणा के अनुसार, दक्षिण कोरिया के चालू खाते ने 37.33 अरब डॉलर का अधिशेष दर्ज किया। अधिशेष बढ़ने की मुख्य वजह सेमीकंडक्टर और अन्य आईटी वस्तुओं के निर्यात में वृद्धि बताई गई। यह अधिशेष अब तक का सबसे बड़ा स्तर है, और चालू खाता लगातार 35 महीनों से अधिशेष में बना हुआ है। आंकड़े बताते हैं कि प्रमुख निर्यात वस्तुओं की मजबूती ने बाहरी संतुलन सुधारने में योगदान दिया। घोषणा मुख्य रूप से मार्च के प्रदर्शन और सेमीकंडक्टर सहित आईटी निर्यात वृद्धि के परिणामों पर केंद्रित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Ekspor Semikonduktor Dorong Surplus Transaksi Berjalan Korea Maret ke Rekor US$37,33 Miliar",
-        "excerpt": "Bank of Korea menyatakan transaksi berjalan Korea Selatan pada Maret mencatat surplus US$37,33 miliar, ditopang kenaikan ekspor semikonduktor dan barang TI lainnya.",
-        "body": "Menurut rilis neraca pembayaran Maret dari Bank of Korea, transaksi berjalan Korea Selatan mencatat surplus US$37,33 miliar. Kenaikan ekspor semikonduktor dan produk teknologi informasi lainnya menjadi latar utama perluasan surplus tersebut. Nilai ini merupakan surplus terbesar sepanjang sejarah, sementara transaksi berjalan tetap surplus selama 35 bulan berturut-turut. Data tersebut menunjukkan bahwa kuatnya komoditas ekspor utama membantu memperbaiki neraca eksternal. Pengumuman ini berfokus pada kinerja Maret dan dampak kenaikan ekspor TI, termasuk semikonduktor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "98ecf16a40e4",
-    "slug": "속보-트럼프-호르무즈-교전에도-이란과-휴전-계속-유지중-132367",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T23:28:11.940Z",
-    "updatedAt": "2026-05-07T23:28:11.940Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12040697",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12040697",
-    "titleFingerprint": "3edae2ce69d1e530236ea83ac2724017cd2a532e",
-    "dedupKeys": [
-      "98ecf16a40e40866bd42edeccc8d6e011cd29424",
-      "3edae2ce69d1e530236ea83ac2724017cd2a532e",
-      "ccf52833a578c47cd5d325600ae638929a8fcc63"
-    ],
-    "imageUrl": "/images/articles/98ecf16a40e4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프 “이란과 휴전 계속 유지” 확인, 호르무즈 교전에도 중동 긴장 관리에 주목",
-        "excerpt": "도널드 트럼프 미국 대통령은 호르무즈 해협에서 교전이 벌어진 상황에도 이란과의 휴전이 계속 유지되고 있다고 밝혔으며, 중동 긴장 속 휴전 지속 여부가 핵심 변수로 부상했다.",
-        "body": "도널드 트럼프 미국 대통령은 호르무즈 해협을 둘러싼 교전 상황에도 이란과의 휴전이 계속 유지되고 있다고 밝혔다. 보도 제목상 핵심은 군사적 긴장이 이어지는 가운데서도 미국 측이 이란과의 휴전 상태를 부정하지 않았다는 점이다. 호르무즈 해협은 중동 정세와 에너지 수송로의 불안이 맞물리는 지역인 만큼, 교전 소식과 휴전 유지 발언은 동시에 시장과 외교 당국의 주목을 받을 수 있다. 다만 원문에 구체적인 교전 규모나 추가 수치는 제시되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trump Says Iran Ceasefire Still Holds Despite Hormuz Clash, Keeping Middle East Focused on Tensions",
-        "excerpt": "U.S. President Donald Trump said the ceasefire with Iran remains in place despite a clash around the Strait of Hormuz, making the durability of the truce a key issue amid regional tension.",
-        "body": "U.S. President Donald Trump said the ceasefire with Iran is still being maintained despite a clash around the Strait of Hormuz. The key point of the report is that, even as military tension continues, the U.S. side did not deny that the ceasefire with Iran remains in effect. The Strait of Hormuz is closely tied to Middle East stability and energy shipping routes, so news of a clash and Trump’s statement on the continuing truce may draw attention from markets and diplomatic authorities. The original report did not provide specific figures on the scale of the clash. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トランプ氏「イランとの停戦は継続中」と確認、ホルムズ交戦でも緊張管理に注目",
-        "excerpt": "ドナルド・トランプ米大統領は、ホルムズ海峡周辺で交戦が起きた状況でもイランとの停戦は維持されていると述べ、中東の緊張下で停戦継続が焦点となった。",
-        "body": "ドナルド・トランプ米大統領は、ホルムズ海峡をめぐる交戦状況にもかかわらず、イランとの停戦は引き続き維持されていると明らかにした。報道の核心は、軍事的緊張が続く中でも、米国側がイランとの停戦状態を否定しなかった点にある。ホルムズ海峡は中東情勢とエネルギー輸送路の不安が重なる地域であり、交戦の知らせと停戦維持の発言は市場や外交当局の注目を集め得る。ただし、原文には交戦の具体的規模や追加の数値は示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特朗普称“与伊朗停火仍在维持”，霍尔木兹交火下中东紧张受关注",
-        "excerpt": "美国总统特朗普表示，即使霍尔木兹海峡周边发生交火，与伊朗的停火仍在维持；在中东紧张局势下，停火能否延续成为关键焦点。",
-        "body": "美国总统唐纳德·特朗普表示，尽管霍尔木兹海峡周边出现交火局势，美国与伊朗之间的停火仍在继续维持。报道的核心在于，在军事紧张仍未消退的情况下，美方并未否认与伊朗的停火状态。霍尔木兹海峡关系到中东局势与能源运输通道安全，因此交火消息和停火维持表态可能同时受到市场与外交部门关注。不过，原文未提供交火规模或其他具体数字。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Trump afirma que la tregua con Irán sigue vigente pese al choque en Ormuz y centra la tensión regional",
-        "excerpt": "Donald Trump dijo que el alto el fuego con Irán sigue en pie pese a un enfrentamiento en torno al estrecho de Ormuz, lo que convierte su continuidad en un foco clave de tensión en Oriente Medio.",
-        "body": "El presidente de Estados Unidos, Donald Trump, afirmó que el alto el fuego con Irán continúa vigente pese a un enfrentamiento en torno al estrecho de Ormuz. El punto central del reporte es que, aunque persiste la tensión militar, la parte estadounidense no negó que la tregua con Irán siga en efecto. El estrecho de Ormuz está vinculado a la estabilidad de Oriente Medio y a las rutas de transporte energético, por lo que la noticia del choque y la declaración sobre la continuidad de la tregua pueden atraer la atención de mercados y autoridades diplomáticas. El texto original no ofreció cifras concretas sobre la escala del enfrentamiento. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Trump diz que cessar-fogo com Irã continua apesar de confronto em Ormuz e tensão segue em foco",
-        "excerpt": "Donald Trump afirmou que o cessar-fogo com o Irã segue mantido apesar de um confronto na região do estreito de Ormuz, tornando a continuidade da trégua um ponto central na tensão do Oriente Médio.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, afirmou que o cessar-fogo com o Irã continua sendo mantido apesar de um confronto na região do estreito de Ormuz. O ponto central da reportagem é que, mesmo com a tensão militar em curso, o lado americano não negou que a trégua com o Irã permaneça válida. O estreito de Ormuz está ligado à estabilidade do Oriente Médio e às rotas de transporte de energia, por isso a notícia do confronto e a declaração sobre a manutenção do cessar-fogo podem chamar a atenção de mercados e autoridades diplomáticas. O texto original não trouxe números específicos sobre a escala do confronto. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Trump bestätigt weiter gültige Iran-Waffenruhe trotz Gefecht bei Hormus, Nahost-Spannung im Fokus",
-        "excerpt": "US-Präsident Donald Trump erklärte, die Waffenruhe mit Iran bleibe trotz eines Gefechts um die Straße von Hormus bestehen; damit rückt ihre Stabilität inmitten regionaler Spannungen in den Mittelpunkt.",
-        "body": "US-Präsident Donald Trump erklärte, dass die Waffenruhe mit Iran trotz eines Gefechts im Umfeld der Straße von Hormus weiter aufrechterhalten werde. Der Kern der Meldung ist, dass die US-Seite den Fortbestand der Waffenruhe mit Iran auch bei anhaltender militärischer Spannung nicht verneinte. Die Straße von Hormus ist eng mit der Lage im Nahen Osten und wichtigen Energietransportrouten verbunden. Daher können sowohl die Nachricht über das Gefecht als auch Trumps Aussage zur fortgesetzten Waffenruhe die Aufmerksamkeit von Märkten und diplomatischen Stellen auf sich ziehen. Konkrete Zahlen zum Umfang des Gefechts wurden im Original nicht genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Trump affirme que la trêve avec l’Iran tient malgré l’affrontement à Ormuz, tensions au Moyen-Orient",
-        "excerpt": "Donald Trump a déclaré que le cessez-le-feu avec l’Iran restait en vigueur malgré un affrontement autour du détroit d’Ormuz, faisant de la poursuite de la trêve un enjeu central des tensions régionales.",
-        "body": "Le président américain Donald Trump a déclaré que le cessez-le-feu avec l’Iran continuait d’être maintenu malgré un affrontement autour du détroit d’Ormuz. Le point essentiel du reportage est que, même dans un contexte de tension militaire persistante, la partie américaine n’a pas remis en cause l’état de trêve avec l’Iran. Le détroit d’Ormuz est lié à la stabilité du Moyen-Orient et aux routes de transport de l’énergie. L’annonce de l’affrontement et la déclaration sur le maintien du cessez-le-feu peuvent donc retenir l’attention des marchés et des autorités diplomatiques. Le texte original ne fournit pas de chiffres précis sur l’ampleur de l’affrontement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ترامب يؤكد استمرار الهدنة مع إيران رغم اشتباك هرمز وسط ترقب لتوتر الشرق الأوسط",
-        "excerpt": "قال الرئيس الأميركي دونالد ترامب إن الهدنة مع إيران لا تزال قائمة رغم اشتباك في محيط مضيق هرمز، ما يجعل استمرارها محور متابعة رئيسيا وسط التوتر الإقليمي.",
-        "body": "قال الرئيس الأميركي دونالد ترامب إن الهدنة مع إيران ما زالت مستمرة رغم وقوع اشتباك في محيط مضيق هرمز. وتكمن النقطة الأساسية في التقرير في أن الجانب الأميركي لم ينف استمرار حالة الهدنة مع إيران، حتى مع بقاء التوتر العسكري قائما. ويعد مضيق هرمز منطقة مرتبطة باستقرار الشرق الأوسط وبمسارات نقل الطاقة، لذلك قد يحظى خبر الاشتباك وتصريح ترامب بشأن استمرار الهدنة باهتمام الأسواق والجهات الدبلوماسية. ولم يورد النص الأصلي أرقاما محددة عن حجم الاشتباك أو تفاصيل إضافية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "हॉर्मुज झड़प के बावजूद ट्रंप ने कहा ईरान के साथ युद्धविराम जारी, मध्य पूर्व तनाव पर नजर",
-        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि हॉर्मुज जलडमरूमध्य के आसपास झड़प के बावजूद ईरान के साथ युद्धविराम जारी है, जिससे क्षेत्रीय तनाव में इसकी स्थिरता अहम मुद्दा बन गई।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि हॉर्मुज जलडमरूमध्य के आसपास झड़प की स्थिति के बावजूद ईरान के साथ युद्धविराम जारी है। रिपोर्ट का मुख्य बिंदु यह है कि सैन्य तनाव बने रहने के बीच भी अमेरिकी पक्ष ने ईरान के साथ युद्धविराम की स्थिति से इनकार नहीं किया। हॉर्मुज जलडमरूमध्य मध्य पूर्व की स्थिति और ऊर्जा परिवहन मार्गों की सुरक्षा से जुड़ा क्षेत्र है, इसलिए झड़प की खबर और युद्धविराम जारी रहने पर ट्रंप का बयान बाजारों तथा कूटनीतिक अधिकारियों का ध्यान खींच सकता है। मूल रिपोर्ट में झड़प के पैमाने या अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Trump Tegaskan Gencatan Senjata Iran Tetap Berjalan Meski Ada Bentrokan di Hormuz",
-        "excerpt": "Presiden AS Donald Trump menyatakan gencatan senjata dengan Iran tetap dipertahankan meski terjadi bentrokan di sekitar Selat Hormuz, menjadikan keberlanjutannya fokus utama di tengah ketegangan kawasan.",
-        "body": "Presiden Amerika Serikat Donald Trump menyatakan bahwa gencatan senjata dengan Iran masih terus dipertahankan meski terjadi bentrokan di sekitar Selat Hormuz. Pokok laporan ini adalah bahwa, di tengah ketegangan militer yang masih berlangsung, pihak AS tidak membantah status gencatan senjata dengan Iran. Selat Hormuz berkaitan erat dengan stabilitas Timur Tengah dan jalur pengiriman energi, sehingga kabar bentrokan serta pernyataan tentang berlanjutnya gencatan senjata dapat menarik perhatian pasar dan otoritas diplomatik. Laporan asli tidak memuat angka khusus mengenai skala bentrokan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "023660109b7a",
-    "slug": "경찰-김현지-부속실장-고발-각하혐의-입증할-증거-부족-931456",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T23:27:00.204Z",
-    "updatedAt": "2026-05-07T23:27:00.204Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12040701",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12040701",
-    "titleFingerprint": "2601d8a026be1f9c772eabf81b3da5836881ba30",
-    "dedupKeys": [
-      "023660109b7a9781819e6d56f9c5b4eef8ee63ea",
-      "2601d8a026be1f9c772eabf81b3da5836881ba30",
-      "b89541ecd3567e88a7942defb6c6182637cc5eb8"
-    ],
-    "imageUrl": "/images/articles/023660109b7a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "김현지 부속실장 고발 각하, 경찰 “개인정보 비공개 혐의 증거 부족”",
-        "excerpt": "서울 용산경찰서는 김현지 청와대 제1부속실장이 나이와 학력 등 개인정보를 공개하지 않아 직권남용을 했다는 시민단체 고발을 지난달 각하했다고 8일 밝혔다.",
-        "body": "서울 용산경찰서는 8일 김현지 청와대 제1부속실장을 상대로 제기된 시민단체 고발을 지난달 각하했다고 밝혔다. 고발은 김 실장이 나이와 학력 등 개인정보를 공개하지 않아 직권남용을 저질렀다는 취지였다. 경찰은 혐의를 입증할 증거가 부족하다고 판단해 사건을 종결한 것으로 전해졌다. 이번 결정으로 해당 고발 건은 수사 단계로 이어지지 않게 됐다. 김 실장의 개인정보 공개 여부를 둘러싼 논란은 경찰의 각하 판단으로 일단락되는 흐름이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Police Dismiss Complaint Against Kim Hyun-ji, Citing Lack of Evidence",
-        "excerpt": "Seoul Yongsan Police said on the 8th they dismissed last month a civic group complaint alleging Kim Hyun-ji abused authority by not disclosing personal details such as age and education.",
-        "body": "Seoul Yongsan Police said on the 8th that they dismissed last month a civic group complaint filed against Kim Hyun-ji, first secretary at the presidential office. The complaint alleged that Kim abused her authority by not disclosing personal information, including her age and educational background. Police reportedly concluded there was insufficient evidence to prove the allegation and closed the case. As a result, the complaint will not proceed to a further investigation stage. The dispute over whether Kim should disclose such personal information appears to have paused with the police dismissal decision. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "金賢智付属室長への告発を警察が却下、個人情報非公開の証拠不足",
-        "excerpt": "ソウル龍山警察署は8日、金賢智大統領室第1付属室長が年齢や学歴などを公開せず職権乱用をしたとする市民団体の告発を先月却下したと明らかにした。",
-        "body": "ソウル龍山警察署は8日、金賢智大統領室第1付属室長を対象に提起された市民団体の告発を先月却下したと明らかにした。告発は、金氏が年齢や学歴などの個人情報を公開しなかったことで職権乱用に当たるという趣旨だった。警察は容疑を立証する証拠が不足していると判断し、事件を終結させたとされる。今回の決定により、この告発は捜査段階へ進まないことになった。金氏の個人情報公開をめぐる論争は、警察の却下判断でいったん区切りを迎える流れだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "警方驳回针对金贤智附属室长的举报，称个人信息未公开证据不足",
-        "excerpt": "首尔龙山警察署8日表示，已于上月驳回市民团体关于金贤智总统府第一附属室长未公开年龄、学历等个人信息并涉嫌滥用职权的举报。",
-        "body": "首尔龙山警察署8日表示，已于上月驳回针对金贤智总统府第一附属室长的市民团体举报。该举报主张，金贤智未公开年龄、学历等个人信息，涉嫌构成滥用职权。警方据悉认为，能够证明相关嫌疑的证据不足，因此决定终结案件。随着这一决定，该举报事项将不会进入进一步调查阶段。围绕金贤智是否应公开个人信息的争议，因警方作出驳回判断而暂告一段落。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Policía desestima denuncia contra Kim Hyun-ji por falta de pruebas",
-        "excerpt": "La comisaría de Yongsan en Seúl informó el día 8 que desestimó el mes pasado una denuncia cívica contra Kim Hyun-ji por no divulgar edad y estudios, supuestamente abuso de autoridad.",
-        "body": "La comisaría de Yongsan en Seúl informó el día 8 que el mes pasado desestimó una denuncia presentada por un grupo cívico contra Kim Hyun-ji, primera secretaria adjunta de la oficina presidencial. La denuncia sostenía que Kim habría cometido abuso de autoridad al no revelar información personal como su edad y formación académica. La policía consideró que no había pruebas suficientes para acreditar la acusación y cerró el caso. Con esta decisión, la denuncia no avanzará a una fase de investigación adicional. La controversia sobre la divulgación de los datos personales de Kim queda por ahora contenida por la decisión policial. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Polícia rejeita denúncia contra Kim Hyun-ji por falta de provas",
-        "excerpt": "A polícia de Yongsan, em Seul, informou no dia 8 que rejeitou no mês passado denúncia de grupo cívico contra Kim Hyun-ji por não divulgar idade e escolaridade, alegando abuso de autoridade.",
-        "body": "A polícia de Yongsan, em Seul, informou no dia 8 que rejeitou no mês passado uma denúncia apresentada por um grupo cívico contra Kim Hyun-ji, primeira secretária adjunta do gabinete presidencial. A denúncia alegava que Kim teria cometido abuso de autoridade ao não divulgar informações pessoais, como idade e formação acadêmica. A polícia teria concluído que faltavam provas para comprovar a suspeita e encerrou o caso. Com a decisão, a denúncia não seguirá para uma etapa adicional de investigação. A controvérsia sobre a divulgação dos dados pessoais de Kim fica, por ora, encerrada pela decisão policial. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Polizei weist Anzeige gegen Kim Hyun-ji wegen fehlender Beweise ab",
-        "excerpt": "Die Polizei in Yongsan, Seoul, teilte am 8. mit, sie habe im vergangenen Monat eine Anzeige einer Bürgergruppe gegen Kim Hyun-ji wegen nicht offengelegter Angaben zu Alter und Ausbildung abgewiesen.",
-        "body": "Die Polizeistation Yongsan in Seoul teilte am 8. mit, sie habe im vergangenen Monat eine Anzeige einer Bürgergruppe gegen Kim Hyun-ji, erste Sekretärin im Präsidialamt, abgewiesen. In der Anzeige hieß es, Kim habe ihre Befugnisse missbraucht, indem sie persönliche Informationen wie Alter und Bildungsweg nicht offengelegt habe. Die Polizei kam Berichten zufolge zu dem Schluss, dass es nicht genügend Beweise zur Untermauerung des Vorwurfs gebe, und schloss den Fall. Damit wird die Anzeige nicht in eine weitere Ermittlungsphase übergehen. Die Kontroverse um die Offenlegung von Kims persönlichen Daten ist durch die Entscheidung der Polizei vorerst beendet. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Plainte contre Kim Hyun-ji rejetée par la police faute de preuves",
-        "excerpt": "La police de Yongsan à Séoul a indiqué le 8 avoir rejeté le mois dernier une plainte d’un groupe civique accusant Kim Hyun-ji d’abus de pouvoir pour non-divulgation de son âge et de ses études.",
-        "body": "La police de Yongsan à Séoul a indiqué le 8 avoir rejeté le mois dernier une plainte déposée par un groupe civique contre Kim Hyun-ji, première secrétaire adjointe du bureau présidentiel. La plainte affirmait que Kim avait abusé de son autorité en ne divulguant pas des informations personnelles telles que son âge et son parcours scolaire. La police aurait estimé que les preuves étaient insuffisantes pour établir les soupçons et a clos le dossier. Cette décision signifie que la plainte ne passera pas à une nouvelle étape d’enquête. La controverse sur la divulgation des informations personnelles de Kim semble donc provisoirement close par la décision policière. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الشرطة ترفض بلاغا ضد كيم هيون-جي بسبب نقص أدلة إساءة السلطة",
-        "excerpt": "قالت شرطة يونغسان في سول في الثامن إنها رفضت الشهر الماضي بلاغا من جماعة مدنية ضد كيم هيون-جي لعدم كشفها معلومات شخصية مثل العمر والمؤهل الدراسي، بدعوى إساءة استخدام السلطة.",
-        "body": "قالت شرطة يونغسان في سول في الثامن إنها رفضت الشهر الماضي بلاغا قدمته جماعة مدنية ضد كيم هيون-جي، رئيسة المكتب الملحق الأول في المكتب الرئاسي. وكان البلاغ يفيد بأنها ارتكبت إساءة استخدام للسلطة لأنها لم تكشف معلومات شخصية مثل العمر والخلفية التعليمية. وخلصت الشرطة، بحسب ما نقل، إلى أن الأدلة غير كافية لإثبات الشبهة، وأنهت القضية. وبذلك لن ينتقل البلاغ إلى مرحلة تحقيق إضافية. ويبدو أن الجدل بشأن كشف المعلومات الشخصية لكيم قد توقف مؤقتا بعد قرار الشرطة بالرفض. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "किम ह्यून-जी के खिलाफ शिकायत खारिज, पुलिस ने सबूतों की कमी बताई",
-        "excerpt": "सियोल योंगसान पुलिस ने 8 तारीख को कहा कि उसने पिछले महीने किम ह्यून-जी के खिलाफ नागरिक समूह की शिकायत खारिज की, जिसमें उम्र और शिक्षा जैसी निजी जानकारी न बताने को अधिकार दुरुपयोग कहा गया था।",
-        "body": "सियोल योंगसान पुलिस ने 8 तारीख को बताया कि उसने पिछले महीने राष्ट्रपति कार्यालय की प्रथम सहायक कार्यालय प्रमुख किम ह्यून-जी के खिलाफ नागरिक समूह की शिकायत खारिज कर दी। शिकायत में कहा गया था कि किम ने अपनी उम्र और शैक्षणिक पृष्ठभूमि जैसी निजी जानकारी सार्वजनिक नहीं की, इसलिए यह अधिकारों के दुरुपयोग के समान है। पुलिस ने माना कि आरोप साबित करने के लिए पर्याप्त सबूत नहीं हैं और मामला बंद कर दिया गया। इस फैसले के बाद शिकायत आगे की जांच प्रक्रिया में नहीं जाएगी। किम की निजी जानकारी सार्वजनिक करने को लेकर विवाद फिलहाल पुलिस के खारिज करने के निर्णय के साथ थमता दिख रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Polisi Tolak Aduan terhadap Kim Hyun-ji karena Bukti Tidak Cukup",
-        "excerpt": "Polisi Yongsan Seoul menyatakan pada tanggal 8 bahwa mereka menolak bulan lalu aduan kelompok sipil terhadap Kim Hyun-ji yang menuding penyalahgunaan wewenang karena tidak membuka usia dan pendidikan.",
-        "body": "Polisi Yongsan Seoul menyatakan pada tanggal 8 bahwa mereka telah menolak bulan lalu aduan kelompok sipil terhadap Kim Hyun-ji, kepala kantor pendamping pertama di kantor kepresidenan. Aduan itu menyebut Kim diduga menyalahgunakan wewenang karena tidak mengungkap informasi pribadi seperti usia dan latar pendidikan. Polisi disebut menilai bukti untuk membuktikan dugaan tersebut tidak mencukupi dan menutup perkara. Dengan keputusan ini, aduan tersebut tidak akan berlanjut ke tahap penyelidikan lebih lanjut. Polemik mengenai pengungkapan informasi pribadi Kim untuk sementara mereda setelah keputusan penolakan oleh polisi. Sumber: mk.co.kr"
       }
     }
   }
