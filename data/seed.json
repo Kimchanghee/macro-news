@@ -1,5 +1,230 @@
 [
   {
+    "id": "664532d5ef6b",
+    "slug": "대만-서버기업-하나-매출-44조원인데변변한-국산-서버-기업-하나-없는-한국-137133",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T05:17:24.348Z",
+    "updatedAt": "2026-05-08T05:17:24.348Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041022",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041022",
+    "titleFingerprint": "c4eb9a12208df457d439ef79295ec39744e5d43a",
+    "dedupKeys": [
+      "664532d5ef6b2f9a0776f883b20ca5bf3d2e88dc",
+      "c4eb9a12208df457d439ef79295ec39744e5d43a",
+      "b6e88df34dcd25bb214270cfde7baa10d830e761"
+    ],
+    "imageUrl": "/images/articles/664532d5ef6b.png",
+    "i18n": {
+      "ko": {
+        "title": "AI 서버가 대만 수출 1위로 부상, 한국 서버 제조 공백 커졌다",
+        "excerpt": "최근 대만에서 빅테크의 AI 서버 주문이 늘며 서버가 수출 1위 품목으로 떠올랐고, 위윈 매출은 2.6배 증가한 반면 한국은 국산 서버 제조 기반이 취약하다는 지적이 나온다.",
+        "body": "최근 대만에서 인공지능(AI) 서버 수요가 급증하면서 서버가 대만 수출 1위 품목으로 부상했다. 빅테크 기업들의 AI 서버 주문이 늘어난 영향으로 대만 서버 제조사 위윈의 매출은 2.6배 증가했고, 원문은 이를 44조원 규모로 전했다. 반면 한국은 변변한 국산 서버 기업이 없고, 중소기업 중심으로 서버 제조가 이뤄지는 상황이라는 지적이 나온다. AI 인프라 경쟁이 커지는 가운데 서버 제조 역량은 반도체와 데이터센터 생태계의 핵심 기반으로 평가된다. 이에 한국도 자체 서버 제조사를 키워야 한다는 목소리가 제기된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "AI Servers Lift Taiwan Exports as Korea Lacks a Major Domestic Maker",
+        "excerpt": "As Big Tech AI server orders rise, servers have become Taiwan’s top export item and Wiwynn’s revenue grew 2.6 times, while Korea faces criticism over its weak domestic server manufacturing base.",
+        "body": "Taiwan has recently seen servers become its No. 1 export item as demand for artificial intelligence servers expands. The increase in AI server orders from Big Tech companies helped Taiwanese server maker Wiwynn raise revenue 2.6 times, with the original report citing a scale of 44 trillion won. In contrast, Korea is described as lacking a strong domestic server company, with server manufacturing mainly handled by small and midsize firms. As competition in AI infrastructure intensifies, server manufacturing capability is viewed as a key foundation for the semiconductor and data center ecosystem. This has led to calls for Korea to foster its own server manufacturers. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "AIサーバーで台湾輸出首位、韓国は国産サーバー企業不在が課題",
+        "excerpt": "ビッグテックのAIサーバー注文増加で台湾ではサーバーが輸出1位品目となり、ウィウィンの売上高は2.6倍に拡大した一方、韓国では国産サーバー製造基盤の弱さが指摘されている。",
+        "body": "台湾では最近、人工知能（AI）サーバー需要の急増により、サーバーが輸出1位品目に浮上した。ビッグテック企業によるAIサーバー注文の増加を受け、台湾のサーバーメーカーであるウィウィンの売上高は2.6倍に増え、原文はその規模を44兆ウォンと伝えた。一方、韓国には有力な国産サーバー企業がなく、中小企業を中心にサーバー製造が行われているとの指摘が出ている。AIインフラ競争が強まる中、サーバー製造力は半導体とデータセンター生態系の重要な基盤と評価される。韓国でも自国のサーバーメーカーを育成すべきだとの声が上がっている。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "AI服务器推高台湾出口，韩国缺少本土服务器龙头受关注",
+        "excerpt": "随着大型科技企业AI服务器订单增加，服务器成为台湾第一大出口品类，纬颖营收增长2.6倍；相比之下，韩国本土服务器制造基础薄弱引发讨论。",
+        "body": "近期，台湾因人工智能（AI）服务器需求快速增加，服务器已成为台湾第一大出口品类。大型科技企业AI服务器订单增加，推动台湾服务器制造商纬颖营收增长2.6倍，原文称其规模达到44万亿韩元。相比之下，韩国被指出缺少像样的本土服务器企业，服务器制造主要由中小企业承担。随着AI基础设施竞争加剧，服务器制造能力被视为半导体和数据中心生态系统的关键基础。因此，韩国也应培育本土服务器制造商的呼声正在出现。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Los servidores de IA impulsan a Taiwán mientras Corea carece de un gran fabricante",
+        "excerpt": "Con más pedidos de servidores de IA de las grandes tecnológicas, los servidores son el principal producto exportado de Taiwán y Wiwynn elevó sus ingresos 2,6 veces, mientras Corea muestra una base local débil.",
+        "body": "Taiwán ha visto recientemente cómo los servidores se convierten en su principal producto de exportación por el aumento de la demanda de servidores de inteligencia artificial. El crecimiento de los pedidos de servidores de IA por parte de grandes tecnológicas elevó 2,6 veces los ingresos del fabricante taiwanés Wiwynn, y el texto original menciona una escala de 44 billones de wones. En cambio, Corea es señalada por no contar con una empresa nacional sólida de servidores, ya que la fabricación recae principalmente en pequeñas y medianas compañías. En medio de la competencia por infraestructura de IA, la capacidad de fabricar servidores se considera una base clave para el ecosistema de semiconductores y centros de datos. Por ello surgen voces que piden a Corea impulsar fabricantes propios. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Servidores de IA lideram exportações de Taiwan e expõem lacuna da Coreia",
+        "excerpt": "Com mais encomendas de servidores de IA pelas big techs, servidores viraram o principal item de exportação de Taiwan e a Wiwynn cresceu 2,6 vezes, enquanto a Coreia tem base local frágil.",
+        "body": "Taiwan viu recentemente os servidores se tornarem seu principal item de exportação com o aumento da demanda por servidores de inteligência artificial. O avanço das encomendas de servidores de IA feitas por big techs elevou em 2,6 vezes a receita da fabricante taiwanesa Wiwynn, e o texto original citou escala de 44 trilhões de wones. Em contraste, a Coreia é apontada como um país sem uma empresa nacional relevante de servidores, com a fabricação concentrada em pequenas e médias empresas. À medida que a competição por infraestrutura de IA cresce, a capacidade de fabricar servidores é vista como base essencial do ecossistema de semicondutores e data centers. Por isso, surgem pedidos para que a Coreia desenvolva seus próprios fabricantes. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KI-Server machen Taiwan stark, Korea fehlt ein großer heimischer Anbieter",
+        "excerpt": "Durch mehr KI-Serveraufträge von Big Tech wurden Server Taiwans wichtigstes Exportgut, Wiwynn steigerte den Umsatz um das 2,6-Fache, während Korea bei eigener Serverfertigung schwach aufgestellt ist.",
+        "body": "In Taiwan sind Server zuletzt durch die stark wachsende Nachfrage nach KI-Servern zum wichtigsten Exportgut aufgestiegen. Mehr Bestellungen von KI-Servern durch Big-Tech-Unternehmen ließen den Umsatz des taiwanischen Serverherstellers Wiwynn um das 2,6-Fache steigen; der Originalbericht nennt eine Größenordnung von 44 Billionen Won. Korea hingegen wird dafür kritisiert, keinen starken einheimischen Serverhersteller zu haben, während die Produktion vor allem von kleinen und mittleren Unternehmen getragen wird. Mit dem wachsenden Wettbewerb um KI-Infrastruktur gilt Serverfertigung als zentrale Grundlage des Halbleiter- und Rechenzentrumsökosystems. Daher werden Stimmen laut, Korea müsse eigene Serverhersteller fördern. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Les serveurs IA dopent Taïwan, la Corée manque d’un fabricant national",
+        "excerpt": "Avec la hausse des commandes de serveurs IA par les grandes techs, les serveurs sont devenus le premier produit d’exportation de Taïwan et Wiwynn a vu son chiffre d’affaires multiplié par 2,6.",
+        "body": "À Taïwan, les serveurs sont récemment devenus le premier produit d’exportation grâce à la forte hausse de la demande de serveurs d’intelligence artificielle. L’augmentation des commandes de serveurs IA par les grandes entreprises technologiques a permis au fabricant taïwanais Wiwynn de multiplier son chiffre d’affaires par 2,6, le texte original évoquant une échelle de 44 billions de wons. À l’inverse, la Corée est décrite comme dépourvue d’un fabricant national de serveurs solide, la production étant surtout assurée par des petites et moyennes entreprises. Alors que la concurrence dans l’infrastructure IA s’intensifie, la capacité de fabrication de serveurs est considérée comme une base clé pour les semi-conducteurs et les centres de données. Des voix appellent donc la Corée à développer ses propres fabricants. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "خوادم الذكاء الاصطناعي تصعد بتايوان وتكشف فجوة التصنيع في كوريا",
+        "excerpt": "مع زيادة طلبات شركات التكنولوجيا الكبرى على خوادم الذكاء الاصطناعي، أصبحت الخوادم أكبر صادرات تايوان وارتفعت إيرادات Wiwynn 2.6 مرة، بينما تفتقر كوريا إلى قاعدة تصنيع محلية قوية.",
+        "body": "شهدت تايوان مؤخرا صعود الخوادم إلى المركز الأول بين صادراتها مع الزيادة السريعة في الطلب على خوادم الذكاء الاصطناعي. وقد ساعد ارتفاع طلبات شركات التكنولوجيا الكبرى على هذه الخوادم شركة Wiwynn التايوانية المصنعة للخوادم على زيادة إيراداتها 2.6 مرة، وذكر النص الأصلي أن الحجم بلغ 44 تريليون وون. في المقابل، يشار إلى أن كوريا لا تملك شركة محلية قوية لصناعة الخوادم، وأن التصنيع يتم أساسا عبر شركات صغيرة ومتوسطة. ومع اشتداد المنافسة في بنية الذكاء الاصطناعي التحتية، تعد قدرة تصنيع الخوادم أساسا مهما لمنظومة أشباه الموصلات ومراكز البيانات. لذلك تظهر دعوات إلى أن تطور كوريا شركات تصنيع خوادم خاصة بها. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI सर्वर से ताइवान निर्यात में आगे, कोरिया में घरेलू निर्माता की कमी उजागर",
+        "excerpt": "बिग टेक की AI सर्वर मांग बढ़ने से सर्वर ताइवान का शीर्ष निर्यात उत्पाद बने और Wiwynn का राजस्व 2.6 गुना बढ़ा, जबकि कोरिया में मजबूत घरेलू सर्वर निर्माण आधार की कमी बताई जा रही है।",
+        "body": "ताइवान में हाल में कृत्रिम बुद्धिमत्ता सर्वरों की मांग तेजी से बढ़ने के कारण सर्वर उसका शीर्ष निर्यात उत्पाद बन गए हैं। बिग टेक कंपनियों के AI सर्वर ऑर्डर बढ़ने से ताइवान की सर्वर निर्माता Wiwynn का राजस्व 2.6 गुना बढ़ा, और मूल रिपोर्ट ने इसका पैमाना 44 ट्रिलियन वॉन बताया। इसके विपरीत, कोरिया के बारे में कहा जा रहा है कि उसके पास कोई मजबूत घरेलू सर्वर कंपनी नहीं है और सर्वर निर्माण मुख्य रूप से छोटी और मध्यम कंपनियों द्वारा किया जाता है। AI अवसंरचना की प्रतिस्पर्धा बढ़ने के साथ सर्वर निर्माण क्षमता को सेमीकंडक्टर और डेटा सेंटर पारिस्थितिकी तंत्र का प्रमुख आधार माना जा रहा है। इसी कारण कोरिया में अपने सर्वर निर्माताओं को विकसित करने की मांग उठ रही है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Server AI Dorong Ekspor Taiwan, Korea Dinilai Kekurangan Produsen Lokal",
+        "excerpt": "Pesanan server AI dari Big Tech membuat server menjadi ekspor utama Taiwan dan pendapatan Wiwynn naik 2,6 kali, sementara Korea dinilai masih lemah dalam basis manufaktur server domestik.",
+        "body": "Taiwan baru-baru ini melihat server menjadi produk ekspor nomor satu seiring melonjaknya permintaan server kecerdasan buatan. Kenaikan pesanan server AI dari perusahaan Big Tech mendorong pendapatan produsen server Taiwan, Wiwynn, naik 2,6 kali, dengan laporan asli menyebut skala 44 triliun won. Sebaliknya, Korea dinilai belum memiliki perusahaan server domestik yang kuat, sementara manufaktur server terutama dilakukan oleh usaha kecil dan menengah. Ketika persaingan infrastruktur AI semakin besar, kemampuan memproduksi server dipandang sebagai fondasi penting bagi ekosistem semikonduktor dan pusat data. Karena itu, muncul seruan agar Korea membesarkan produsen servernya sendiri. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "10e33254f18c",
+    "slug": "오월의-꽃-오늘의-빛광주전남-곳곳서-518-46주년-기념행사-929214",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T05:16:24.618Z",
+    "updatedAt": "2026-05-08T05:16:24.618Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041024",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041024",
+    "titleFingerprint": "3ddfcffa6d5ffeed2a91110cb4c59e765403f22a",
+    "dedupKeys": [
+      "10e33254f18c49c3f6ec660db45bc2b9fefdf4b8",
+      "3ddfcffa6d5ffeed2a91110cb4c59e765403f22a",
+      "98fda23bcd27fd676926f98392d55758cf17692a"
+    ],
+    "imageUrl": "/images/articles/10e33254f18c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "5·18 46주년 기념행사, 광주·전남 곳곳서 오월 정신 잇는다",
+        "excerpt": "광주·전남은 5·18민주화운동 46주년을 맞아 전남도청과 빛가람 등에서 기념식·문화제, 기록관 특별 개관, 영화·VR 체험을 진행한다.",
+        "body": "광주와 전남 곳곳에서 5·18민주화운동 46주년을 기념하는 행사가 열린다. 전남도청과 빛가람 일대에서는 기념식과 문화제가 마련되고, 5·18 관련 기록관은 특별 개관을 통해 관람객을 맞는다. 행사에는 영화 상영과 VR 체험 등 체험형 프로그램이 확대돼 시민 참여 폭을 넓힌다. 국립아시아문화전당도 18일 임시 운영해 관람객 편의를 제공한다. 특히 청소년 참여를 늘려 오월 정신을 다음 세대에 계승하는 데 초점을 맞췄다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "May 18 46th anniversary events across Gwangju and Jeonnam honor democratic spirit",
+        "excerpt": "Gwangju and Jeonnam will mark the 46th anniversary of the May 18 Democratic Uprising with ceremonies, cultural events, archives access, films and VR programs.",
+        "body": "Events commemorating the 46th anniversary of the May 18 Democratic Uprising will be held across Gwangju and South Jeolla. Ceremonies and cultural festivals are planned at the former Jeonnam Provincial Office and in the Bitgaram area, while a related archive will open specially to visitors. Programs will expand to include film screenings and VR experiences, broadening public participation. The Asia Culture Center will also operate temporarily on May 18 to improve visitor convenience. Organizers are placing particular emphasis on youth participation to pass on the spirit of May to the next generation. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "5・18民主化運動46周年、光州・全南各地で五月精神を継承",
+        "excerpt": "光州・全南は5・18民主化運動46周年に合わせ、全南道庁やビッカラムで記念式典、文化祭、記録館特別開館、映画・VR体験を行う。",
+        "body": "光州と全羅南道の各地で、5・18民主化運動46周年を記念する行事が開かれる。全南道庁とビッカラム一帯では記念式典と文化祭が用意され、5・18関連の記録館は特別開館して来館者を迎える。行事では映画上映やVR体験など参加型プログラムを拡充し、市民が関わる機会を広げる。国立アジア文化殿堂も18日に臨時運営し、観覧客の利便性を高める。特に青少年の参加を増やし、五月精神を次世代へ継承することに重点を置く。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "五一八民主化运动46周年，光州全南多地延续五月精神",
+        "excerpt": "光州和全南将迎来五一八民主化运动46周年，在全南道厅、光之村等地举行纪念仪式、文化节，并开放记录馆和电影、VR体验。",
+        "body": "光州和全罗南道多地将举行五一八民主化运动46周年纪念活动。全南道厅和光之村一带将举办纪念仪式和文化节，五一八相关记录馆也将特别开放迎接参观者。活动还扩大电影放映和VR体验等参与型项目，拓宽市民参与渠道。国立亚洲文化殿堂也将在18日临时运营，为观众提供便利。此次活动尤其扩大青少年参与，重点在于把五月精神传承给下一代。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "46.º aniversario del 18 de Mayo: Gwangju y Jeonnam honran el espíritu democrático",
+        "excerpt": "Gwangju y Jeonnam conmemorarán el 46.º aniversario del Levantamiento Democrático del 18 de Mayo con ceremonias, festivales, archivos, cine y VR.",
+        "body": "Gwangju y la provincia de Jeolla del Sur celebrarán actos por el 46.º aniversario del Levantamiento Democrático del 18 de Mayo. En la antigua sede del Gobierno provincial de Jeonnam y en la zona de Bitgaram se preparan ceremonias y festivales culturales, mientras que un archivo relacionado abrirá de forma especial al público. El programa ampliará las proyecciones de cine y las experiencias de realidad virtual para facilitar una mayor participación ciudadana. El Centro Cultural de Asia también operará temporalmente el día 18 para comodidad de los visitantes. El énfasis estará en aumentar la participación juvenil y transmitir el espíritu de Mayo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "46º aniversário de 18 de Maio terá eventos em Gwangju e Jeonnam",
+        "excerpt": "Gwangju e Jeonnam marcam o 46º aniversário do Movimento Democrático de 18 de Maio com cerimônias, festivais, arquivo especial, filmes e VR.",
+        "body": "Gwangju e a província de Jeolla do Sul realizarão eventos pelo 46º aniversário do Movimento Democrático de 18 de Maio. Cerimônias e festivais culturais estão previstos no antigo Governo Provincial de Jeonnam e na área de Bitgaram, enquanto um arquivo relacionado ao 5·18 abrirá especialmente ao público. A programação ampliará exibições de filmes e experiências em VR, aumentando as formas de participação cidadã. O Centro Cultural da Ásia também funcionará temporariamente no dia 18 para atender melhor os visitantes. O foco inclui ampliar a participação de jovens e transmitir o espírito de Maio às próximas gerações. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "46. Jahrestag des 18. Mai: Gwangju und Jeonnam erinnern an Demokratiebewegung",
+        "excerpt": "Gwangju und Jeonnam begehen den 46. Jahrestag der Demokratisierungsbewegung vom 18. Mai mit Feiern, Kulturfesten, Sonderöffnung, Film und VR.",
+        "body": "In Gwangju und der Provinz Süd-Jeolla finden Veranstaltungen zum 46. Jahrestag der Demokratisierungsbewegung vom 18. Mai statt. Am ehemaligen Jeonnam-Provinzamt und im Gebiet Bitgaram sind Gedenkfeiern und Kulturfeste geplant; ein zu 5·18 gehörendes Archiv öffnet eigens für Besucher. Das Programm wird um Filmvorführungen und VR-Erlebnisse erweitert, um mehr Bürger einzubeziehen. Auch das Asia Culture Center wird am 18. vorübergehend geöffnet, um den Besuchern entgegenzukommen. Besonderes Gewicht liegt auf stärkerer Beteiligung junger Menschen und der Weitergabe des Geistes des Mai. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "46e anniversaire du 18 Mai: Gwangju et Jeonnam transmettent l’esprit démocratique",
+        "excerpt": "Gwangju et Jeonnam commémorent le 46e anniversaire du Mouvement démocratique du 18 Mai avec cérémonies, festivals, archives, films et VR.",
+        "body": "Des événements auront lieu à Gwangju et dans le Jeolla du Sud pour commémorer le 46e anniversaire du Mouvement démocratique du 18 Mai. Des cérémonies et festivals culturels sont prévus à l’ancien bureau provincial de Jeonnam et dans le secteur de Bitgaram, tandis qu’un centre d’archives lié au 5·18 ouvrira spécialement au public. Le programme élargit les projections de films et les expériences en VR afin d’accroître la participation citoyenne. Le Centre culturel asiatique fonctionnera aussi temporairement le 18 pour faciliter la visite. L’accent est mis sur la participation des jeunes et la transmission de l’esprit de Mai. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الذكرى 46 لانتفاضة 18 مايو: فعاليات في غوانغجو وجنوب جولا لإحياء الروح الديمقراطية",
+        "excerpt": "تحيي غوانغجو وجنوب جولا الذكرى 46 لحركة 18 مايو الديمقراطية عبر مراسم ومهرجانات وافتتاح خاص للأرشيف وعروض أفلام وتجارب واقع افتراضي.",
+        "body": "تقام في غوانغجو ومناطق من مقاطعة جنوب جولا فعاليات لإحياء الذكرى 46 لحركة 18 مايو الديمقراطية. وتشمل الفعاليات مراسم تذكارية ومهرجانات ثقافية في مقر حكومة جنوب جولا ومنطقة بيتغارام، مع افتتاح خاص لأرشيف مرتبط بالحركة لاستقبال الزوار. كما تتوسع البرامج لتشمل عروض أفلام وتجارب واقع افتراضي، بما يتيح مشاركة أوسع للمواطنين. وسيعمل مركز آسيا للثقافة مؤقتا في 18 مايو لتوفير راحة أكبر للزوار. وتركز الفعاليات خصوصا على زيادة مشاركة الشباب ونقل روح مايو إلى الجيل التالي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "18 मई आंदोलन की 46वीं वर्षगांठ, ग्वांगजू और जियोननाम में स्मृति कार्यक्रम",
+        "excerpt": "ग्वांगजू और जियोननाम 18 मई लोकतांत्रिक आंदोलन की 46वीं वर्षगांठ पर समारोह, सांस्कृतिक उत्सव, विशेष अभिलेखागार, फिल्म और VR अनुभव आयोजित करेंगे।",
+        "body": "ग्वांगजू और दक्षिण जियोला के कई स्थानों पर 18 मई लोकतांत्रिक आंदोलन की 46वीं वर्षगांठ के कार्यक्रम होंगे। जियोननाम प्रांतीय कार्यालय और बिटगराम क्षेत्र में स्मृति समारोह और सांस्कृतिक उत्सव आयोजित किए जाएंगे, जबकि 5·18 से जुड़ा अभिलेखागार विशेष रूप से आगंतुकों के लिए खुलेगा। कार्यक्रमों में फिल्म प्रदर्शन और VR अनुभव जैसे सहभागी कार्यक्रमों का विस्तार होगा, जिससे नागरिक भागीदारी बढ़ेगी। एशिया कल्चर सेंटर भी 18 मई को अस्थायी रूप से संचालित होगा ताकि दर्शकों को सुविधा मिल सके। खास जोर युवाओं की भागीदारी बढ़ाकर मई की भावना को अगली पीढ़ी तक पहुंचाने पर है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Peringatan 46 tahun 18 Mei, Gwangju dan Jeonnam lanjutkan semangat demokrasi",
+        "excerpt": "Gwangju dan Jeonnam memperingati 46 tahun Gerakan Demokrasi 18 Mei lewat upacara, festival budaya, pembukaan arsip khusus, film, dan VR.",
+        "body": "Berbagai acara peringatan 46 tahun Gerakan Demokrasi 18 Mei akan digelar di Gwangju dan Provinsi Jeolla Selatan. Upacara dan festival budaya disiapkan di Kantor Provinsi Jeonnam dan kawasan Bitgaram, sementara arsip terkait 5·18 akan dibuka khusus bagi pengunjung. Program juga diperluas dengan pemutaran film dan pengalaman VR untuk memperluas partisipasi warga. Asia Culture Center akan beroperasi sementara pada 18 Mei demi kenyamanan pengunjung. Penyelenggara menekankan peningkatan partisipasi remaja agar semangat Mei dapat diteruskan kepada generasi berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fbb1e2448db5",
+    "slug": "속보-우-의장-개헌안-본회의-상정-않겠다-597986",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T05:15:24.057Z",
+    "updatedAt": "2026-05-08T05:15:24.057Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12041025",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12041025",
+    "titleFingerprint": "8dde5eaea166657ba192da6f4946d6ad62522ebd",
+    "dedupKeys": [
+      "fbb1e2448db54b2e7505ecbbad83d56e00e2db1d",
+      "8dde5eaea166657ba192da6f4946d6ad62522ebd",
+      "189eefb04cd18c5d710cc3c00f2b36ec169b90e2"
+    ],
+    "imageUrl": "/images/articles/fbb1e2448db5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "우 의장, 개헌안 본회의 상정 않겠다…국회 절차 변수 부상",
+        "excerpt": "우 의장이 속보를 통해 개헌안을 국회 본회의에 상정하지 않겠다고 밝혔다. 구체적 배경과 후속 일정은 원문에 제시되지 않았다.",
+        "body": "우 의장이 개헌안을 국회 본회의에 상정하지 않겠다고 밝혔다. 이번 발언은 속보 형태로 전해졌으며, 누가 어떤 결정을 했는지는 명확하지만 구체적인 시점, 배경 설명, 후속 절차는 원문에 포함되지 않았다. 개헌안은 본회의 상정 여부가 국회 처리 과정의 핵심 절차인 만큼, 우 의장의 입장은 관련 논의의 진행 여부를 가르는 신호로 해석될 수 있다. 다만 원문에는 표결 계획, 여야 입장, 관련 수치가 제시되지 않아 추가 사실은 확인되지 않았다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "Speaker Woo Says Constitutional Amendment Bill Will Not Go to Plenary",
+        "excerpt": "Speaker Woo said in a breaking report that he would not submit the constitutional amendment bill to the National Assembly plenary. No detailed background or schedule was provided.",
+        "body": "Speaker Woo said he would not submit the constitutional amendment bill to the National Assembly plenary session. The statement was reported as breaking news, making clear who made the decision and what action would not be taken, while the original text did not provide a specific time, detailed background, or next procedural steps. Because plenary submission is a key stage in handling a constitutional amendment bill, Woo’s position may affect whether related discussions proceed. However, the original report did not include voting plans, party positions, or numerical data, so no additional facts are confirmed. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "禹議長、改憲案を本会議に上程せず…国会手続きに影響",
+        "excerpt": "禹議長は速報で、改憲案を国会本会議に上程しないと明らかにした。具体的な背景や今後の日程は原文に示されていない。",
+        "body": "禹議長は、改憲案を国会本会議に上程しないと明らかにした。この発言は速報として伝えられ、誰がどのような判断を示したのかは明確だが、具体的な時点、背景説明、今後の手続きは原文に含まれていない。改憲案は本会議への上程可否が国会での処理過程における重要な手続きとなるため、禹議長の立場は関連議論の進行に影響する可能性がある。ただし原文には採決計画、与野党の立場、関連数値は示されておらず、追加事実は確認されていない。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "禹议长称不将修宪案提交全体会议，国会程序受关注",
+        "excerpt": "禹议长在快讯中表示，不会将修宪案提交国会全体会议。原文未说明具体背景、后续日程或相关数字。",
+        "body": "禹议长表示，不会将修宪案提交国会全体会议。该消息以快讯形式发布，明确了由谁作出何种决定，但原文未包含具体时间、背景说明或后续程序。修宪案能否提交全体会议，是国会处理过程中的关键环节，因此禹议长的表态可能影响相关讨论是否继续推进。不过，原文没有提供表决计划、朝野立场或相关数字，因此无法确认更多事实。来源：引自 mk.co.kr。"
+      },
+      "es": {
+        "title": "Presidente Woo no llevará la reforma constitucional al pleno",
+        "excerpt": "El presidente Woo dijo en una alerta que no presentará la reforma constitucional al pleno de la Asamblea Nacional. El texto original no detalló motivos ni calendario.",
+        "body": "El presidente Woo afirmó que no presentará la propuesta de reforma constitucional al pleno de la Asamblea Nacional. La declaración fue difundida como noticia de última hora y deja claro quién tomó la decisión y qué trámite no se realizará, aunque el texto original no incluye una hora concreta, explicación de fondo ni pasos posteriores. La presentación al pleno es una fase clave para el tratamiento de una reforma constitucional, por lo que la postura de Woo puede incidir en el avance del debate. Sin embargo, el original no ofrece planes de votación, posiciones partidarias ni cifras relacionadas. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Presidente Woo não levará emenda constitucional ao plenário",
+        "excerpt": "O presidente Woo afirmou em notícia urgente que não apresentará a emenda constitucional ao plenário da Assembleia Nacional. O texto original não trouxe contexto ou agenda.",
+        "body": "O presidente Woo afirmou que não apresentará a proposta de emenda constitucional ao plenário da Assembleia Nacional. A declaração foi divulgada como notícia urgente, deixando claro quem tomou a decisão e qual medida não será adotada, mas o texto original não informa horário específico, contexto detalhado nem próximos procedimentos. Como a apresentação ao plenário é uma etapa central no tratamento de uma emenda constitucional, a posição de Woo pode influenciar o andamento das discussões relacionadas. Ainda assim, o original não traz plano de votação, posições partidárias ou números associados. Fonte: citado de mk.co.kr."
+      },
+      "de": {
+        "title": "Parlamentschef Woo bringt Verfassungsänderung nicht ins Plenum",
+        "excerpt": "Parlamentschef Woo erklärte in einer Eilmeldung, den Entwurf zur Verfassungsänderung nicht ins Plenum einzubringen. Gründe oder Termine nennt der Originaltext nicht.",
+        "body": "Parlamentschef Woo erklärte, er werde den Entwurf zur Verfassungsänderung nicht in die Plenarsitzung der Nationalversammlung einbringen. Die Aussage wurde als Eilmeldung verbreitet und macht klar, wer welche Entscheidung getroffen hat, doch der Originaltext nennt keinen genauen Zeitpunkt, keine Begründung und keine weiteren Verfahrensschritte. Da die Einbringung ins Plenum ein zentraler Schritt bei der Behandlung einer Verfassungsänderung ist, kann Woos Haltung den Fortgang der Debatte beeinflussen. Angaben zu Abstimmungsplänen, Positionen der Parteien oder Zahlen enthält der Originalbericht nicht. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "Woo refuse de soumettre la révision constitutionnelle en plénière",
+        "excerpt": "Woo a déclaré dans une alerte qu’il ne soumettrait pas le projet de révision constitutionnelle à la séance plénière de l’Assemblée nationale. Aucun détail n’est donné.",
+        "body": "Woo a déclaré qu’il ne soumettrait pas le projet de révision constitutionnelle à la séance plénière de l’Assemblée nationale. L’information a été diffusée sous forme d’alerte et précise clairement qui a pris position et quelle procédure ne sera pas engagée, mais le texte original ne fournit ni moment exact, ni contexte détaillé, ni étapes suivantes. La soumission en plénière étant une étape clé du traitement d’un projet de révision constitutionnelle, cette position peut peser sur la poursuite des discussions. Le texte original ne mentionne toutefois aucun plan de vote, position des partis ou chiffre associé. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "وو يعلن عدم طرح تعديل الدستور على الجلسة العامة للبرلمان",
+        "excerpt": "قال رئيس البرلمان وو في خبر عاجل إنه لن يطرح مشروع التعديل الدستوري على الجلسة العامة للجمعية الوطنية. ولم يورد النص الأصلي خلفيات أو جدولا لاحقا.",
+        "body": "أعلن رئيس البرلمان وو أنه لن يطرح مشروع التعديل الدستوري على الجلسة العامة للجمعية الوطنية. وجاء التصريح في صيغة خبر عاجل، موضحا من اتخذ الموقف وما الإجراء الذي لن يتم، بينما لم يتضمن النص الأصلي توقيتا محددا أو خلفية تفصيلية أو خطوات لاحقة. وبما أن طرح مشروع التعديل الدستوري على الجلسة العامة يعد مرحلة رئيسية في مسار التعامل معه داخل البرلمان، فقد يؤثر موقف وو في استمرار النقاشات ذات الصلة. لكن التقرير الأصلي لم يذكر خطط تصويت أو مواقف الأحزاب أو أرقاما مرتبطة بالموضوع. المصدر: نقلا عن mk.co.kr."
+      },
+      "hi": {
+        "title": "वू ने कहा, संवैधानिक संशोधन विधेयक पूर्ण सदन में नहीं लाएंगे",
+        "excerpt": "अध्यक्ष वू ने ब्रेकिंग रिपोर्ट में कहा कि वे संवैधानिक संशोधन विधेयक को नेशनल असेंबली के पूर्ण सदन में पेश नहीं करेंगे। कारण या आगे की तारीख नहीं दी गई।",
+        "body": "अध्यक्ष वू ने कहा कि वे संवैधानिक संशोधन विधेयक को नेशनल असेंबली के पूर्ण सदन में पेश नहीं करेंगे। यह बयान ब्रेकिंग न्यूज के रूप में आया, जिससे यह स्पष्ट है कि निर्णय किसने लिया और कौन-सी प्रक्रिया आगे नहीं बढ़ेगी, लेकिन मूल पाठ में कोई विशिष्ट समय, विस्तृत पृष्ठभूमि या आगे की प्रक्रिया शामिल नहीं है। संवैधानिक संशोधन विधेयक के लिए पूर्ण सदन में पेश होना एक प्रमुख संसदीय चरण है, इसलिए वू की स्थिति संबंधित चर्चा की दिशा को प्रभावित कर सकती है। हालांकि मूल रिपोर्ट में मतदान योजना, दलों की स्थिति या संबंधित आंकड़े नहीं दिए गए हैं। स्रोत: mk.co.kr से उद्धृत।"
+      },
+      "id": {
+        "title": "Ketua Woo Tak Akan Ajukan Amendemen Konstitusi ke Sidang Paripurna",
+        "excerpt": "Ketua Woo menyatakan dalam kabar terbaru bahwa ia tidak akan mengajukan amendemen konstitusi ke sidang paripurna Majelis Nasional. Rincian alasan dan jadwal tidak disebutkan.",
+        "body": "Ketua Woo menyatakan bahwa ia tidak akan mengajukan rancangan amendemen konstitusi ke sidang paripurna Majelis Nasional. Pernyataan ini disampaikan sebagai kabar terbaru, sehingga jelas siapa yang mengambil sikap dan langkah apa yang tidak akan dilakukan, tetapi teks asli tidak memuat waktu spesifik, latar belakang rinci, atau prosedur lanjutan. Karena pengajuan ke paripurna merupakan tahap penting dalam pembahasan amendemen konstitusi, sikap Woo dapat memengaruhi kelanjutan pembicaraan terkait. Namun, laporan asli tidak menyertakan rencana pemungutan suara, posisi partai, atau angka terkait. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "bcbab1e0bbf4",
     "slug": "박현경이예원배소현-등-후원-프로-총출동play-sweet-팝업-오픈-164084",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Pelaku Pesanan Makanan Tanpa Bayar di Hwaseong Ternyata Buron Denda Belum Dibayar",
         "excerpt": "Seorang pria usia 20-an di Byeongjeom-gu, Hwaseong, sedang diselidiki karena diduga menerima makanan pesan antar tanpa membayar saat sudah masuk daftar pencarian akibat denda yang belum dibayar.",
         "body": "Seorang pria usia 20-an yang masuk daftar pencarian karena tidak membayar denda ditangkap di Byeongjeom-gu, Hwaseong, Provinsi Gyeonggi, saat diduga melakukan aksi menerima pesanan makanan tanpa membayar. Kepolisian Hwaseong Dongtan pada tanggal 7 menyatakan sedang menyelidiki pria yang disebut A itu atas dugaan termasuk penipuan. A diduga menerima makanan pesan antar setelah mengatakan akan membayar saat bertemu, lalu tidak melunasi biayanya. Dalam proses pemeriksaan identitas, polisi juga memastikan bahwa ia telah dicari karena tidak membayar denda. Kasus ini kembali menunjukkan pentingnya verifikasi identitas dan pengelolaan pembayaran dalam transaksi pesan antar dengan pembayaran langsung. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "78c9930b9625",
-    "slug": "삼정kpmg영림원소프트랩-회계감사-환경-개선-mou-435259",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T16:33:40.924Z",
-    "updatedAt": "2026-05-07T16:33:40.924Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039937",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039937",
-    "titleFingerprint": "71c913940dfe33f1b3bc55baae9b848b51158ac3",
-    "dedupKeys": [
-      "78c9930b9625a3c6728dd402e34ba9f19b9e24af",
-      "71c913940dfe33f1b3bc55baae9b848b51158ac3",
-      "fd9e5392cee362f05a3f75be871db1d92d343aa5"
-    ],
-    "imageUrl": "/images/articles/78c9930b9625.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼정KPMG·영림원소프트랩, 회계감사 대응 환경 개선 MOU 체결",
-        "excerpt": "삼정KPMG와 영림원소프트랩은 7일 기업의 회계감사 대응 효율성과 정확성을 높이고 관련 시장 확대를 추진하기 위한 업무협약을 체결했다고 밝혔다.",
-        "body": "삼정KPMG와 영림원소프트랩은 7일 기업의 회계감사 대응 환경을 개선하고 관련 시장 확대를 추진하기 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 기업이 회계감사에 대응하는 과정에서 효율성과 정확성을 동시에 높이는 데 초점을 맞췄다. 협약식에는 양사 관계자들이 참석했으며, 양측은 회계감사 대응 업무의 체계화와 기업 고객의 실무 부담 완화를 위한 협력 기반을 마련했다. 이번 MOU를 통해 기업 감사 환경 개선과 관련 서비스 확장 가능성이 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samjong KPMG and Younglimwon Soft Lab Sign MOU to Improve Audit Response",
-        "excerpt": "Samjong KPMG and Younglimwon Soft Lab said on the 7th they signed an MOU to improve companies’ audit response efficiency and accuracy while expanding the market.",
-        "body": "Samjong KPMG and Younglimwon Soft Lab announced on the 7th that they signed a memorandum of understanding to improve companies’ accounting audit response environment and promote market expansion. The agreement focuses on helping companies raise both efficiency and accuracy when responding to accounting audits. Officials from both companies attended the signing ceremony, where the two sides laid the groundwork for cooperation to systematize audit response work and ease practical burdens on corporate clients. The MOU is expected to draw attention to improvements in corporate audit environments and the potential expansion of related services. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "三井KPMG・永林院ソフトラボ、会計監査対応環境改善でMOU締結",
-        "excerpt": "三井KPMGと永林院ソフトラボは7日、企業の会計監査対応の効率性と正確性を高め、関連市場の拡大を進めるためのMOUを締結したと発表した。",
-        "body": "三井KPMGと永林院ソフトラボは7日、企業の会計監査対応環境を改善し、関連市場の拡大を推進するための業務協約（MOU）を締結したと発表した。今回の協約は、企業が会計監査に対応する過程で効率性と正確性を同時に高めることに焦点を当てている。締結式には両社の関係者が出席し、双方は会計監査対応業務の体系化と企業顧客の実務負担軽減に向けた協力基盤を整えた。今回のMOUにより、企業の監査環境改善と関連サービス拡大の可能性が注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三正KPMG与永林院Soft Lab签署MOU，改善会计审计应对环境",
-        "excerpt": "三正KPMG与永林院Soft Lab 7日表示，双方签署业务协议，以提升企业会计审计应对效率和准确性，并推动相关市场扩大。",
-        "body": "三正KPMG与永林院Soft Lab于7日表示，双方已签署业务协议（MOU），旨在改善企业会计审计应对环境并推动相关市场扩大。此次协议的重点，是帮助企业在应对会计审计过程中同时提高效率和准确性。签约仪式上，两家公司相关人士出席，双方为会计审计应对工作的体系化以及减轻企业客户实际业务负担建立了合作基础。通过此次MOU，企业审计环境改善及相关服务扩展的可能性受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samjong KPMG y Younglimwon Soft Lab firman un MOU para mejorar auditorías",
-        "excerpt": "Samjong KPMG y Younglimwon Soft Lab anunciaron el día 7 un MOU para elevar la eficiencia y precisión de la respuesta de las empresas a auditorías contables.",
-        "body": "Samjong KPMG y Younglimwon Soft Lab anunciaron el día 7 que firmaron un memorando de entendimiento para mejorar el entorno de respuesta de las empresas a las auditorías contables y promover la expansión del mercado relacionado. El acuerdo se centra en aumentar al mismo tiempo la eficiencia y la precisión en el proceso con el que las compañías responden a las auditorías. En la ceremonia participaron representantes de ambas empresas, que establecieron una base de cooperación para sistematizar las tareas de respuesta a auditorías y aliviar la carga práctica de los clientes corporativos. El MOU pone el foco en la mejora del entorno de auditoría empresarial y en la posible ampliación de servicios relacionados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samjong KPMG e Younglimwon Soft Lab assinam MOU para melhorar auditorias",
-        "excerpt": "A Samjong KPMG e a Younglimwon Soft Lab anunciaram no dia 7 um MOU para elevar a eficiência e a precisão da resposta das empresas a auditorias contábeis.",
-        "body": "A Samjong KPMG e a Younglimwon Soft Lab anunciaram no dia 7 que assinaram um memorando de entendimento para melhorar o ambiente de resposta das empresas a auditorias contábeis e promover a expansão do mercado relacionado. O acordo tem como foco ajudar as empresas a aumentar, ao mesmo tempo, a eficiência e a precisão no processo de resposta às auditorias. A cerimônia contou com representantes das duas companhias, que estabeleceram uma base de cooperação para sistematizar o trabalho de resposta a auditorias e reduzir a carga prática dos clientes corporativos. O MOU chama atenção para a melhoria do ambiente de auditoria empresarial e para a possível ampliação de serviços relacionados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samjong KPMG und Younglimwon Soft Lab schließen MOU für bessere Audit-Prozesse",
-        "excerpt": "Samjong KPMG und Younglimwon Soft Lab teilten am 7. mit, dass sie ein MOU unterzeichnet haben, um Effizienz und Genauigkeit bei Audit-Reaktionen von Unternehmen zu erhöhen.",
-        "body": "Samjong KPMG und Younglimwon Soft Lab gaben am 7. bekannt, dass sie eine Absichtserklärung unterzeichnet haben, um das Umfeld für die Reaktion von Unternehmen auf Rechnungsprüfungen zu verbessern und die Ausweitung des entsprechenden Marktes voranzutreiben. Die Vereinbarung zielt darauf ab, Effizienz und Genauigkeit im Prozess der Audit-Reaktion gleichzeitig zu erhöhen. An der Unterzeichnungszeremonie nahmen Vertreter beider Unternehmen teil. Beide Seiten schufen eine Grundlage für die Zusammenarbeit, um Audit-Reaktionsaufgaben zu systematisieren und die praktische Belastung von Unternehmenskunden zu verringern. Das MOU lenkt den Blick auf Verbesserungen des Audit-Umfelds und mögliche Erweiterungen verwandter Dienstleistungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samjong KPMG et Younglimwon Soft Lab signent un MOU pour améliorer l’audit",
-        "excerpt": "Samjong KPMG et Younglimwon Soft Lab ont annoncé le 7 la signature d’un MOU visant à accroître l’efficacité et l’exactitude des réponses des entreprises aux audits comptables.",
-        "body": "Samjong KPMG et Younglimwon Soft Lab ont annoncé le 7 avoir signé un protocole d’accord afin d’améliorer l’environnement de réponse des entreprises aux audits comptables et de promouvoir l’expansion du marché concerné. L’accord vise à aider les entreprises à renforcer simultanément l’efficacité et l’exactitude dans leur processus de réponse aux audits. Des responsables des deux sociétés ont participé à la cérémonie de signature, où les parties ont posé les bases d’une coopération pour structurer les tâches liées aux audits et réduire la charge opérationnelle des clients entreprises. Ce MOU attire l’attention sur l’amélioration de l’environnement d’audit et l’élargissement possible des services associés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سامجونغ KPMG ويونغليم وون سوفت لاب توقعان مذكرة لتحسين بيئة التدقيق",
-        "excerpt": "أعلنت سامجونغ KPMG ويونغليم وون سوفت لاب في 7 من الشهر توقيع مذكرة تفاهم لرفع كفاءة ودقة استجابة الشركات للتدقيق المحاسبي وتوسيع السوق ذات الصلة.",
-        "body": "أعلنت سامجونغ KPMG ويونغليم وون سوفت لاب في 7 من الشهر أنهما وقعتا مذكرة تفاهم لتحسين بيئة استجابة الشركات للتدقيق المحاسبي ودفع توسع السوق ذات الصلة. وتركز الاتفاقية على مساعدة الشركات في رفع الكفاءة والدقة في الوقت نفسه أثناء التعامل مع عمليات التدقيق المحاسبي. وحضر مراسم التوقيع مسؤولون من الشركتين، حيث وضع الجانبان أساسا للتعاون من أجل تنظيم أعمال الاستجابة للتدقيق وتخفيف الأعباء العملية عن العملاء من الشركات. ومن خلال هذه المذكرة، يبرز الاهتمام بتحسين بيئة التدقيق لدى الشركات وإمكان توسيع الخدمات المرتبطة بها. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samjong KPMG और Younglimwon Soft Lab ने ऑडिट माहौल सुधारने को MOU किया",
-        "excerpt": "Samjong KPMG और Younglimwon Soft Lab ने 7 तारीख को कंपनियों की अकाउंटिंग ऑडिट प्रतिक्रिया की दक्षता और सटीकता बढ़ाने तथा बाजार विस्तार के लिए MOU किया।",
-        "body": "Samjong KPMG और Younglimwon Soft Lab ने 7 तारीख को बताया कि उन्होंने कंपनियों के अकाउंटिंग ऑडिट प्रतिक्रिया माहौल को बेहतर बनाने और संबंधित बाजार विस्तार को आगे बढ़ाने के लिए समझौता ज्ञापन पर हस्ताक्षर किए हैं। यह समझौता कंपनियों को अकाउंटिंग ऑडिट का जवाब देने की प्रक्रिया में दक्षता और सटीकता दोनों बढ़ाने में मदद करने पर केंद्रित है। हस्ताक्षर समारोह में दोनों कंपनियों के अधिकारी शामिल हुए, जहां दोनों पक्षों ने ऑडिट प्रतिक्रिया कार्यों को व्यवस्थित करने और कॉरपोरेट ग्राहकों के व्यावहारिक बोझ को कम करने के लिए सहयोग का आधार तैयार किया। इस MOU से कॉरपोरेट ऑडिट माहौल में सुधार और संबंधित सेवाओं के विस्तार की संभावना पर ध्यान गया है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Samjong KPMG dan Younglimwon Soft Lab Teken MOU Perbaiki Audit",
-        "excerpt": "Samjong KPMG dan Younglimwon Soft Lab pada tanggal 7 mengumumkan MOU untuk meningkatkan efisiensi dan akurasi respons audit akuntansi perusahaan serta memperluas pasar.",
-        "body": "Samjong KPMG dan Younglimwon Soft Lab mengumumkan pada tanggal 7 bahwa mereka menandatangani nota kesepahaman untuk memperbaiki lingkungan respons perusahaan terhadap audit akuntansi dan mendorong perluasan pasar terkait. Kesepakatan ini berfokus pada peningkatan efisiensi dan akurasi secara bersamaan dalam proses perusahaan menghadapi audit akuntansi. Upacara penandatanganan dihadiri perwakilan kedua perusahaan, yang membangun dasar kerja sama untuk menata proses respons audit dan mengurangi beban praktis pelanggan korporasi. Melalui MOU ini, perbaikan lingkungan audit perusahaan dan kemungkinan perluasan layanan terkait menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "41d8723bdd18",
-    "slug": "광주-도심-여고생-묻지마-살해-20대-범행-수일-전-스토킹-가해자-신고-당해-846785",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T16:32:42.187Z",
-    "updatedAt": "2026-05-07T16:32:42.187Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12039946",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12039946",
-    "titleFingerprint": "7aa5864f0f5fcd9bdda1e59daad1b88dc57c3180",
-    "dedupKeys": [
-      "41d8723bdd184d8614bfe0d316ffee95f3e6375e",
-      "7aa5864f0f5fcd9bdda1e59daad1b88dc57c3180",
-      "1bf44d1640275ed014193fd9e9f154818dacc66b"
-    ],
-    "imageUrl": "/images/articles/41d8723bdd18.jpg",
-    "i18n": {
-      "ko": {
-        "title": "광주 여고생 묻지마 살해 20대, 범행 전 스토킹 신고 정황",
-        "excerpt": "광주 도심에서 늦은 밤 일면식 없는 여고생을 흉기로 살해한 혐의로 구속된 20대가 범행 수일 전 스토킹 가해자로 신고된 사실이 알려졌다.",
-        "body": "광주 도심에서 늦은 밤 일면식도 없는 여고생을 흉기로 살해한 혐의로 구속된 20대가 범행 며칠 전 스토킹 가해자로 경찰 신고를 당한 것으로 알려졌다. 7일 광주경찰에 따르면 이 남성은 살인 혐의 등으로 구속된 상태다. 사건은 도심에서 무작위 범행으로 의심되는 형태로 발생해 지역사회 불안을 키우고 있다. 특히 범행 전 스토킹 관련 신고가 있었다는 점이 드러나면서 경찰의 사건 경위와 사전 대응 여부에 관심이 쏠린다. 향후 수사는 피의자의 범행 동기와 신고 이력, 사건 전후 행적을 확인하는 데 집중될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gwangju Teen Random Killing Suspect Was Reported for Stalking Days Before Attack",
-        "excerpt": "A man in his 20s arrested over the late-night stabbing death of an unknown high school girl in downtown Gwangju was reportedly reported to police for stalking days earlier.",
-        "body": "A man in his 20s, arrested on suspicion of killing a high school girl he did not know with a weapon late at night in downtown Gwangju, was reportedly reported to police as a stalking perpetrator several days before the crime. According to Gwangju police on the 7th, the man is in custody on charges including murder. The case, believed to have occurred in a random form in the city center, has heightened public concern in the local community. The reported stalking complaint before the killing is drawing attention to the circumstances of the case and prior police response. Investigators are expected to focus on the suspect’s motive, report history and movements before and after the incident. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "光州女子高生無差別殺害の20代、犯行前にストーカー加害者として通報",
-        "excerpt": "光州中心部で深夜、面識のない女子高生を凶器で殺害した疑いで拘束された20代男性が、犯行数日前にストーカー加害者として警察に通報されていた。",
-        "body": "光州の中心部で深夜、面識のない女子高生を凶器で殺害した疑いで拘束された20代男性が、犯行の数日前にストーカー加害者として警察に通報されていたことが分かった。7日、光州警察によると、この男性は殺人容疑などで拘束されている。事件は都心で無差別犯行とみられる形で発生し、地域社会の不安を高めている。特に犯行前にストーカー関連の通報があった点が明らかになり、事件の経緯と事前対応に関心が集まっている。今後の捜査は、容疑者の動機、通報履歴、事件前後の行動確認に集中するとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "光州女高中生无差别遇害案，20多岁嫌疑人案发前曾因跟踪被举报",
-        "excerpt": "一名20多岁男子涉嫌深夜在光州市中心持凶器杀害素不相识的女高中生并被拘留，案发数日前曾被作为跟踪加害者报警举报。",
-        "body": "一名20多岁男子涉嫌深夜在光州市中心持凶器杀害一名素不相识的女高中生并被拘留，据悉他在案发数日前曾被作为跟踪加害者向警方举报。据光州警方7日消息，该男子目前因涉嫌杀人等罪名被拘留。案件发生在市中心，疑似无差别犯罪，引发当地社会不安。尤其是案发前曾有跟踪相关报警的情况被披露后，案件经过及警方事前应对受到关注。后续调查预计将集中确认嫌疑人的作案动机、报警记录以及案发前后的行踪。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Sospechoso de matar al azar a estudiante en Gwangju fue denunciado por acoso días antes",
-        "excerpt": "Un hombre de unos 20 años, detenido por matar con arma blanca a una estudiante desconocida de secundaria en el centro de Gwangju, habría sido denunciado por acoso días antes.",
-        "body": "Un hombre de unos 20 años, detenido bajo sospecha de matar con un arma a una estudiante de secundaria a la que no conocía tarde en la noche en el centro de Gwangju, habría sido denunciado ante la policía como autor de acoso varios días antes del crimen. Según la policía de Gwangju el día 7, el hombre permanece detenido por cargos que incluyen asesinato. El caso, ocurrido en una zona céntrica y considerado de posible ataque aleatorio, ha aumentado la inquietud en la comunidad local. La denuncia previa relacionada con acoso centra ahora la atención en las circunstancias del caso y la respuesta previa de la policía. La investigación se enfocará en el motivo, el historial de denuncias y los movimientos del sospechoso antes y después del hecho. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Suspeito de matar estudante em Gwangju foi denunciado por stalking dias antes",
-        "excerpt": "Um homem na casa dos 20 anos, preso por matar à noite uma estudante desconhecida no centro de Gwangju com uma arma branca, teria sido denunciado por stalking dias antes.",
-        "body": "Um homem na casa dos 20 anos, preso sob suspeita de matar com uma arma uma estudante do ensino médio que não conhecia tarde da noite no centro de Gwangju, teria sido denunciado à polícia como autor de stalking alguns dias antes do crime. Segundo a polícia de Gwangju no dia 7, o homem está detido por acusações que incluem homicídio. O caso, ocorrido em área central e visto como possível ataque aleatório, aumentou a preocupação na comunidade local. A denúncia anterior relacionada a stalking chama atenção para as circunstâncias do caso e para a resposta prévia da polícia. A investigação deve se concentrar no motivo, no histórico de denúncias e nos movimentos do suspeito antes e depois do crime. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Gwangju: Verdächtiger nach Tötung von Schülerin zuvor wegen Stalking gemeldet",
-        "excerpt": "Ein Mann in den Zwanzigern, der wegen der nächtlichen Tötung einer unbekannten Oberschülerin in Gwangju festgenommen wurde, war Tage zuvor wegen Stalkings gemeldet worden.",
-        "body": "Ein Mann in den Zwanzigern, der verdächtigt wird, spätabends im Zentrum von Gwangju eine ihm unbekannte Oberschülerin mit einer Waffe getötet zu haben, soll wenige Tage vor der Tat bei der Polizei als Stalking-Täter gemeldet worden sein. Nach Angaben der Polizei von Gwangju vom 7. befindet sich der Mann wegen Vorwürfen einschließlich Mordes in Haft. Der Fall ereignete sich in der Innenstadt und wird als mutmaßlich wahllose Tat wahrgenommen, was in der lokalen Gemeinschaft Besorgnis auslöst. Besonders die vorherige Stalking-Meldung lenkt den Blick auf den Tathergang und eine mögliche frühere Reaktion der Polizei. Die Ermittlungen dürften sich auf Motiv, Meldeverlauf und Bewegungen des Verdächtigen vor und nach der Tat konzentrieren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Meurtre d’une lycéenne à Gwangju: le suspect signalé pour harcèlement avant les faits",
-        "excerpt": "Un homme d’une vingtaine d’années, arrêté pour avoir tué de nuit une lycéenne inconnue dans le centre de Gwangju, aurait été signalé pour harcèlement quelques jours avant.",
-        "body": "Un homme d’une vingtaine d’années, arrêté pour avoir tué avec une arme une lycéenne qu’il ne connaissait pas tard dans la nuit dans le centre de Gwangju, aurait été signalé à la police comme auteur de harcèlement quelques jours avant le crime. Selon la police de Gwangju le 7, l’homme est détenu pour des chefs incluant le meurtre. L’affaire, survenue en centre-ville et perçue comme une attaque possiblement aléatoire, accroît l’inquiétude dans la communauté locale. Le signalement préalable lié au harcèlement attire l’attention sur les circonstances de l’affaire et la réponse antérieure de la police. L’enquête devrait se concentrer sur le mobile, l’historique des signalements et les déplacements du suspect avant et après les faits. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مشتبه بقتل طالبة عشوائيا في غوانغجو أبلغ عنه كمتحرش قبل أيام",
-        "excerpt": "رجل في العشرينات موقوف للاشتباه بقتله طالبة ثانوية لا يعرفها بسلاح في وسط غوانغجو ليلا، تردد أنه أبلغ عنه للشرطة كمسبب مطاردة قبل أيام من الجريمة.",
-        "body": "أفادت تقارير بأن رجلا في العشرينات، أوقف للاشتباه بقتل طالبة ثانوية لا يعرفها بسلاح في وقت متأخر من الليل وسط مدينة غوانغجو، كان قد أبلغ عنه للشرطة باعتباره مرتكبا للمطاردة قبل عدة أيام من الجريمة. ووفقا لشرطة غوانغجو في السابع من الشهر، فإن الرجل موقوف بتهم تشمل القتل. وقد وقع الحادث في وسط المدينة وبصورة يشتبه بأنها عشوائية، ما زاد القلق في المجتمع المحلي. ويجذب البلاغ السابق المتعلق بالمطاردة الانتباه إلى ملابسات القضية ومدى الاستجابة المسبقة للشرطة. ومن المتوقع أن يركز التحقيق على دافع المشتبه به وسجل البلاغات وتحركاته قبل الحادث وبعده. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ग्वांगजू छात्रा हत्या का आरोपी वारदात से पहले स्टॉकिंग के लिए रिपोर्ट हुआ था",
-        "excerpt": "ग्वांगजू शहर के केंद्र में देर रात अनजान हाई स्कूल छात्रा की धारदार हथियार से हत्या के आरोप में गिरफ्तार 20 वर्षीय युवक को वारदात से कुछ दिन पहले स्टॉकिंग आरोपी के रूप में पुलिस में रिपोर्ट किया गया था।",
-        "body": "ग्वांगजू शहर के केंद्र में देर रात एक अनजान हाई स्कूल छात्रा की हथियार से हत्या करने के आरोप में गिरफ्तार 20 वर्षीय युवक के बारे में बताया गया है कि वारदात से कुछ दिन पहले उसे स्टॉकिंग के आरोपी के रूप में पुलिस में रिपोर्ट किया गया था। ग्वांगजू पुलिस के अनुसार 7 तारीख को यह व्यक्ति हत्या सहित आरोपों में हिरासत में है। यह मामला शहर के केंद्र में कथित रूप से बिना पहचान के किए गए हमले के रूप में सामने आया, जिससे स्थानीय समाज में चिंता बढ़ी है। हत्या से पहले स्टॉकिंग से जुड़ी रिपोर्ट होने की बात सामने आने के बाद मामले की परिस्थितियों और पुलिस की पूर्व प्रतिक्रिया पर ध्यान गया है। आगे की जांच आरोपी के मकसद, रिपोर्ट इतिहास और घटना से पहले व बाद की गतिविधियों पर केंद्रित रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pembunuhan Siswi di Gwangju: Tersangka Dilaporkan Stalking Beberapa Hari Sebelum Aksi",
-        "excerpt": "Pria berusia 20-an yang ditahan karena diduga membunuh siswi SMA tak dikenal dengan senjata di pusat Gwangju larut malam dilaporkan pernah diadukan sebagai pelaku stalking beberapa hari sebelumnya.",
-        "body": "Seorang pria berusia 20-an yang ditahan karena diduga membunuh siswi SMA yang tidak dikenalnya dengan senjata larut malam di pusat kota Gwangju dilaporkan pernah diadukan ke polisi sebagai pelaku stalking beberapa hari sebelum kejahatan itu. Menurut Kepolisian Gwangju pada tanggal 7, pria tersebut ditahan atas dakwaan termasuk pembunuhan. Kasus yang terjadi di pusat kota dan diduga berbentuk serangan acak ini meningkatkan kekhawatiran masyarakat setempat. Fakta adanya laporan terkait stalking sebelum kejadian membuat perhatian tertuju pada kronologi kasus dan respons awal polisi. Penyelidikan selanjutnya diperkirakan berfokus pada motif tersangka, riwayat laporan, serta pergerakannya sebelum dan sesudah kejadian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "97a2569f82e2",
-    "slug": "1시간-쉬고-올게요연차-시간-단위-사용-가능해진다-315224",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T16:31:31.692Z",
-    "updatedAt": "2026-05-07T16:31:31.692Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12039947",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12039947",
-    "titleFingerprint": "fed671eedf5d5c124dd468ee764f7013f21f4839",
-    "dedupKeys": [
-      "97a2569f82e2a84d93a85a8ba272833fb408296a",
-      "fed671eedf5d5c124dd468ee764f7013f21f4839",
-      "983fc8a3d3893a32954b27c537606c11eb08c61e"
-    ],
-    "imageUrl": "/images/articles/97a2569f82e2.png",
-    "i18n": {
-      "ko": {
-        "title": "연차휴가 시간 단위 사용 추진…4시간 근무자는 휴게 없이 퇴근 가능",
-        "excerpt": "고용노동부가 7일 연차휴가를 하루 단위가 아닌 시간 단위로 나눠 쓰고, 4시간 근무 노동자는 별도 휴게시간 없이 퇴근할 수 있도록 하는 방안을 밝혔다.",
-        "body": "고용노동부는 7일 앞으로 노동자가 연차휴가를 하루가 아닌 시간 단위로 나눠 사용할 수 있게 하는 내용을 밝혔다. 이에 따라 필요한 시간만큼 연차를 쓰는 방식이 가능해질 전망이다. 또 4시간 근무한 노동자는 별도 휴게시간을 두지 않고 바로 퇴근할 수 있게 된다. 기존에는 연차휴가가 주로 하루 단위로 쓰였지만, 이번 내용은 휴가 사용 방식과 짧은 근무일의 휴게시간 운영을 조정하는 데 초점이 있다. 노동 현장에서는 근무시간과 휴가 사용을 더 세분화해 운영할 수 있는 변화로 받아들여질 수 있다. 출처인 매일경제(mk.co.kr)는 고용노동부가 7일 이 같은 내용을 밝혔다고 전했다."
-      },
-      "en": {
-        "title": "Hourly annual leave plan: 4-hour workers may leave without a break",
-        "excerpt": "South Korea’s Ministry of Employment and Labor said on May 7 that annual leave could be used by the hour, while workers who complete four hours may leave without a separate break.",
-        "body": "South Korea’s Ministry of Employment and Labor said on May 7 that workers will be able to divide annual leave into hourly units rather than using it only by the day. The change would allow employees to take only the amount of leave time they need. The ministry also said workers who have worked four hours will be able to leave immediately without taking a separate rest break. Annual leave has generally been used in full-day units, but the announced measure focuses on adjusting how leave is used and how rest breaks are handled on shorter workdays. Workplaces may see this as a shift toward more detailed management of working time and leave. Maeil Business Newspaper (mk.co.kr), the source, reported that the ministry announced these details on May 7."
-      },
-      "ja": {
-        "title": "年次有給休暇を時間単位で使用へ、4時間勤務なら休憩なし退勤も可能",
-        "excerpt": "韓国雇用労働部は7日、年次有給休暇を1日単位ではなく時間単位で分けて使え、4時間勤務の労働者は別途休憩なしで退勤できる方針を明らかにした。",
-        "body": "韓国雇用労働部は7日、今後、労働者が年次有給休暇を1日単位ではなく時間単位に分けて使用できるようにする内容を明らかにした。これにより、必要な時間だけ有給休暇を使う方式が可能になる見通しだ。また、4時間勤務した労働者は別途の休憩時間を取らず、そのまま退勤できるようになる。従来、年次有給休暇は主に1日単位で使われてきたが、今回の内容は休暇の使い方と短時間勤務日の休憩時間運用を調整する点に焦点がある。職場では勤務時間と休暇使用をより細かく運用できる変化として受け止められる可能性がある。出典の毎日経済（mk.co.kr）は、雇用労働部が7日にこうした内容を明らかにしたと伝えた。"
-      },
-      "zh": {
-        "title": "年假可按小时使用，工作4小时者无需另设休息即可下班",
-        "excerpt": "韩国雇佣劳动部7日表示，今后年假可不再只按天使用，而是拆分为小时单位；工作4小时的劳动者也可无需另设休息时间直接下班。",
-        "body": "韩国雇佣劳动部7日表示，今后劳动者将可以把年假从按天使用改为按小时拆分使用。这意味着劳动者可根据需要只使用相应时长的年假。该部门还表示，工作满4小时的劳动者可不再另行安排休息时间，而是直接下班。过去年假主要以一天为单位使用，此次内容重点在于调整休假使用方式，以及短时工作日的休息时间安排。对用人单位和劳动现场而言，这可能意味着工作时间与休假使用将能够更细化地运营。消息来源《每日经济》（mk.co.kr）报道称，雇佣劳动部于7日公布了上述内容。"
-      },
-      "es": {
-        "title": "Vacaciones anuales por horas: empleados de 4 horas podrán irse sin pausa",
-        "excerpt": "El Ministerio de Empleo y Trabajo de Corea del Sur dijo el 7 de mayo que las vacaciones anuales podrán usarse por horas y que quienes trabajen 4 horas podrán salir sin descanso aparte.",
-        "body": "El Ministerio de Empleo y Trabajo de Corea del Sur informó el 7 de mayo que los trabajadores podrán dividir sus vacaciones anuales en unidades de hora, en lugar de usarlas solo por día completo. Con ello, será posible tomar únicamente el tiempo de licencia necesario. El ministerio también señaló que los trabajadores que hayan cumplido cuatro horas de labor podrán retirarse de inmediato sin tomar un descanso separado. Hasta ahora, las vacaciones anuales se usaban principalmente por días, pero la medida se centra en ajustar la forma de uso de la licencia y la gestión de descansos en jornadas cortas. En los lugares de trabajo, el cambio puede entenderse como una forma de operar con mayor detalle el tiempo laboral y las vacaciones. Maeil Business Newspaper (mk.co.kr), la fuente, informó que el ministerio anunció estos puntos el día 7."
-      },
-      "pt": {
-        "title": "Férias anuais por hora avançam; quem trabalha 4 horas poderá sair sem pausa",
-        "excerpt": "O Ministério do Emprego e Trabalho da Coreia do Sul disse em 7 de maio que as férias anuais poderão ser usadas por hora e que trabalhadores de 4 horas poderão sair sem pausa separada.",
-        "body": "O Ministério do Emprego e Trabalho da Coreia do Sul informou em 7 de maio que os trabalhadores poderão dividir as férias anuais em unidades de hora, em vez de usá-las apenas por dia inteiro. Assim, será possível utilizar somente o tempo de licença necessário. O ministério também afirmou que trabalhadores que cumprirem quatro horas de trabalho poderão sair imediatamente, sem um intervalo de descanso separado. Até agora, as férias anuais eram usadas principalmente por dia, mas a medida se concentra em ajustar a forma de uso da licença e a operação dos descansos em jornadas curtas. Nos locais de trabalho, a mudança pode ser vista como uma gestão mais detalhada do tempo de trabalho e das férias. O Maeil Business Newspaper (mk.co.kr), fonte da notícia, relatou que o ministério anunciou esses pontos no dia 7."
-      },
-      "de": {
-        "title": "Jahresurlaub stundenweise geplant: Nach 4 Stunden Arbeit ohne Pause gehen",
-        "excerpt": "Das südkoreanische Arbeitsministerium erklärte am 7. Mai, Jahresurlaub solle künftig stundenweise nutzbar sein; Beschäftigte mit 4 Stunden Arbeit könnten ohne gesonderte Pause gehen.",
-        "body": "Das südkoreanische Ministerium für Beschäftigung und Arbeit teilte am 7. Mai mit, dass Arbeitnehmer ihren Jahresurlaub künftig in Stundeneinheiten statt nur tageweise nutzen können. Damit würde es möglich, nur die jeweils benötigte Urlaubszeit zu nehmen. Außerdem sollen Beschäftigte, die vier Stunden gearbeitet haben, ohne gesonderte Ruhepause direkt nach Hause gehen können. Bisher wurde Jahresurlaub vor allem in ganzen Tagen genutzt. Die nun vorgestellten Inhalte zielen darauf, die Nutzung von Urlaub und die Handhabung von Ruhezeiten an kurzen Arbeitstagen anzupassen. In Betrieben könnte dies als Veränderung hin zu einer feineren Steuerung von Arbeitszeit und Urlaub verstanden werden. Die Quelle Maeil Business Newspaper (mk.co.kr) berichtete, das Ministerium habe diese Inhalte am 7. Mai bekanntgegeben."
-      },
-      "fr": {
-        "title": "Congés annuels à l’heure: départ possible sans pause après 4 heures",
-        "excerpt": "Le ministère sud-coréen de l’Emploi et du Travail a indiqué le 7 mai que les congés annuels pourront être pris à l’heure et que les salariés de 4 heures pourront partir sans pause séparée.",
-        "body": "Le ministère sud-coréen de l’Emploi et du Travail a indiqué le 7 mai que les travailleurs pourront désormais fractionner leurs congés annuels en unités horaires, au lieu de les utiliser uniquement par journée entière. Il deviendrait ainsi possible de prendre seulement le temps de congé nécessaire. Le ministère a aussi précisé qu’un travailleur ayant effectué quatre heures pourra quitter son poste immédiatement, sans temps de repos séparé. Jusqu’ici, les congés annuels étaient surtout utilisés à la journée, mais cette annonce porte sur l’ajustement du mode d’utilisation des congés et de la gestion des pauses lors des journées courtes. Dans les lieux de travail, ce changement peut être perçu comme une organisation plus fine du temps de travail et des congés. Le Maeil Business Newspaper (mk.co.kr), source de l’information, a rapporté que le ministère avait présenté ces éléments le 7 mai."
-      },
-      "ar": {
-        "title": "الإجازة السنوية بالساعة في كوريا: عامل 4 ساعات يغادر بلا استراحة",
-        "excerpt": "قالت وزارة العمل والتوظيف في كوريا الجنوبية في 7 مايو إن الإجازة السنوية ستتاح بوحدات ساعة، وإن من يعمل 4 ساعات يمكنه المغادرة من دون فترة راحة منفصلة.",
-        "body": "أعلنت وزارة العمل والتوظيف في كوريا الجنوبية في 7 مايو أن العمال سيتمكنون مستقبلا من استخدام الإجازة السنوية بوحدات ساعة، بدلا من استخدامها على أساس يوم كامل فقط. وبذلك سيكون ممكنا أخذ مقدار الوقت المطلوب من الإجازة فقط. كما أوضحت الوزارة أن العامل الذي يعمل أربع ساعات يمكنه المغادرة مباشرة من دون تخصيص فترة راحة منفصلة. وكانت الإجازة السنوية تستخدم غالبا بوحدة اليوم، لكن ما أعلن يركز على تعديل طريقة استخدام الإجازات وتشغيل أوقات الراحة في أيام العمل القصيرة. وقد تنظر أماكن العمل إلى ذلك باعتباره تغييرا يتيح إدارة أكثر تفصيلا لساعات العمل واستخدام الإجازات. وذكرت صحيفة Maeil Business Newspaper، وهي المصدر mk.co.kr، أن الوزارة أعلنت هذه التفاصيل في 7 مايو."
-      },
-      "hi": {
-        "title": "वार्षिक अवकाश अब घंटे के हिसाब से, 4 घंटे काम पर बिना ब्रेक छुट्टी",
-        "excerpt": "दक्षिण कोरिया के रोजगार और श्रम मंत्रालय ने 7 मई को कहा कि वार्षिक अवकाश घंटे के हिसाब से लिया जा सकेगा और 4 घंटे काम करने वाले कर्मचारी अलग विश्राम के बिना जा सकेंगे।",
-        "body": "दक्षिण कोरिया के रोजगार और श्रम मंत्रालय ने 7 मई को बताया कि आगे श्रमिक वार्षिक अवकाश को पूरे दिन के बजाय घंटे की इकाई में बांटकर इस्तेमाल कर सकेंगे। इससे कर्मचारी अपनी जरूरत के अनुसार केवल उतने समय का अवकाश ले पाएंगे। मंत्रालय ने यह भी कहा कि चार घंटे काम कर चुके श्रमिक अलग विश्राम समय लिए बिना सीधे घर जा सकेंगे। अब तक वार्षिक अवकाश मुख्य रूप से पूरे दिन की इकाई में इस्तेमाल होता था, लेकिन इस घोषणा का ध्यान अवकाश उपयोग के तरीके और छोटे कार्यदिवसों में विश्राम समय के संचालन को समायोजित करने पर है। कार्यस्थलों में इसे काम के समय और अवकाश उपयोग को अधिक सूक्ष्म रूप से संचालित करने वाले बदलाव के रूप में देखा जा सकता है। स्रोत Maeil Business Newspaper (mk.co.kr) ने बताया कि मंत्रालय ने ये बातें 7 मई को घोषित कीं।"
-      },
-      "id": {
-        "title": "Cuti tahunan per jam disiapkan; kerja 4 jam bisa pulang tanpa jeda",
-        "excerpt": "Kementerian Ketenagakerjaan Korea Selatan pada 7 Mei menyatakan cuti tahunan akan bisa dipakai per jam, dan pekerja 4 jam dapat langsung pulang tanpa waktu istirahat terpisah.",
-        "body": "Kementerian Ketenagakerjaan Korea Selatan pada 7 Mei menyatakan bahwa pekerja akan dapat membagi cuti tahunan ke dalam satuan jam, bukan hanya menggunakannya per hari penuh. Dengan demikian, pekerja dapat mengambil cuti hanya selama waktu yang dibutuhkan. Kementerian juga menyebut pekerja yang telah bekerja empat jam dapat langsung pulang tanpa waktu istirahat terpisah. Selama ini cuti tahunan umumnya digunakan dalam satuan hari, tetapi isi pengumuman ini berfokus pada penyesuaian cara penggunaan cuti serta pengelolaan waktu istirahat pada hari kerja pendek. Di tempat kerja, perubahan ini dapat dipandang sebagai cara mengatur jam kerja dan penggunaan cuti secara lebih rinci. Sumber Maeil Business Newspaper (mk.co.kr) melaporkan bahwa kementerian mengumumkan hal tersebut pada 7 Mei."
       }
     }
   }

@@ -1,0 +1,75 @@
+{
+  "id": "664532d5ef6b",
+  "slug": "대만-서버기업-하나-매출-44조원인데변변한-국산-서버-기업-하나-없는-한국-137133",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-08T05:17:24.348Z",
+  "updatedAt": "2026-05-08T05:17:24.348Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/business/12041022",
+  "canonicalUrl": "https://www.mk.co.kr/news/business/12041022",
+  "titleFingerprint": "c4eb9a12208df457d439ef79295ec39744e5d43a",
+  "dedupKeys": [
+    "664532d5ef6b2f9a0776f883b20ca5bf3d2e88dc",
+    "c4eb9a12208df457d439ef79295ec39744e5d43a",
+    "b6e88df34dcd25bb214270cfde7baa10d830e761"
+  ],
+  "imageUrl": "/images/articles/664532d5ef6b.png",
+  "i18n": {
+    "ko": {
+      "title": "AI 서버가 대만 수출 1위로 부상, 한국 서버 제조 공백 커졌다",
+      "excerpt": "최근 대만에서 빅테크의 AI 서버 주문이 늘며 서버가 수출 1위 품목으로 떠올랐고, 위윈 매출은 2.6배 증가한 반면 한국은 국산 서버 제조 기반이 취약하다는 지적이 나온다.",
+      "body": "최근 대만에서 인공지능(AI) 서버 수요가 급증하면서 서버가 대만 수출 1위 품목으로 부상했다. 빅테크 기업들의 AI 서버 주문이 늘어난 영향으로 대만 서버 제조사 위윈의 매출은 2.6배 증가했고, 원문은 이를 44조원 규모로 전했다. 반면 한국은 변변한 국산 서버 기업이 없고, 중소기업 중심으로 서버 제조가 이뤄지는 상황이라는 지적이 나온다. AI 인프라 경쟁이 커지는 가운데 서버 제조 역량은 반도체와 데이터센터 생태계의 핵심 기반으로 평가된다. 이에 한국도 자체 서버 제조사를 키워야 한다는 목소리가 제기된다. 출처: mk.co.kr."
+    },
+    "en": {
+      "title": "AI Servers Lift Taiwan Exports as Korea Lacks a Major Domestic Maker",
+      "excerpt": "As Big Tech AI server orders rise, servers have become Taiwan’s top export item and Wiwynn’s revenue grew 2.6 times, while Korea faces criticism over its weak domestic server manufacturing base.",
+      "body": "Taiwan has recently seen servers become its No. 1 export item as demand for artificial intelligence servers expands. The increase in AI server orders from Big Tech companies helped Taiwanese server maker Wiwynn raise revenue 2.6 times, with the original report citing a scale of 44 trillion won. In contrast, Korea is described as lacking a strong domestic server company, with server manufacturing mainly handled by small and midsize firms. As competition in AI infrastructure intensifies, server manufacturing capability is viewed as a key foundation for the semiconductor and data center ecosystem. This has led to calls for Korea to foster its own server manufacturers. Source: mk.co.kr."
+    },
+    "ja": {
+      "title": "AIサーバーで台湾輸出首位、韓国は国産サーバー企業不在が課題",
+      "excerpt": "ビッグテックのAIサーバー注文増加で台湾ではサーバーが輸出1位品目となり、ウィウィンの売上高は2.6倍に拡大した一方、韓国では国産サーバー製造基盤の弱さが指摘されている。",
+      "body": "台湾では最近、人工知能（AI）サーバー需要の急増により、サーバーが輸出1位品目に浮上した。ビッグテック企業によるAIサーバー注文の増加を受け、台湾のサーバーメーカーであるウィウィンの売上高は2.6倍に増え、原文はその規模を44兆ウォンと伝えた。一方、韓国には有力な国産サーバー企業がなく、中小企業を中心にサーバー製造が行われているとの指摘が出ている。AIインフラ競争が強まる中、サーバー製造力は半導体とデータセンター生態系の重要な基盤と評価される。韓国でも自国のサーバーメーカーを育成すべきだとの声が上がっている。出典: mk.co.kr."
+    },
+    "zh": {
+      "title": "AI服务器推高台湾出口，韩国缺少本土服务器龙头受关注",
+      "excerpt": "随着大型科技企业AI服务器订单增加，服务器成为台湾第一大出口品类，纬颖营收增长2.6倍；相比之下，韩国本土服务器制造基础薄弱引发讨论。",
+      "body": "近期，台湾因人工智能（AI）服务器需求快速增加，服务器已成为台湾第一大出口品类。大型科技企业AI服务器订单增加，推动台湾服务器制造商纬颖营收增长2.6倍，原文称其规模达到44万亿韩元。相比之下，韩国被指出缺少像样的本土服务器企业，服务器制造主要由中小企业承担。随着AI基础设施竞争加剧，服务器制造能力被视为半导体和数据中心生态系统的关键基础。因此，韩国也应培育本土服务器制造商的呼声正在出现。来源: mk.co.kr."
+    },
+    "es": {
+      "title": "Los servidores de IA impulsan a Taiwán mientras Corea carece de un gran fabricante",
+      "excerpt": "Con más pedidos de servidores de IA de las grandes tecnológicas, los servidores son el principal producto exportado de Taiwán y Wiwynn elevó sus ingresos 2,6 veces, mientras Corea muestra una base local débil.",
+      "body": "Taiwán ha visto recientemente cómo los servidores se convierten en su principal producto de exportación por el aumento de la demanda de servidores de inteligencia artificial. El crecimiento de los pedidos de servidores de IA por parte de grandes tecnológicas elevó 2,6 veces los ingresos del fabricante taiwanés Wiwynn, y el texto original menciona una escala de 44 billones de wones. En cambio, Corea es señalada por no contar con una empresa nacional sólida de servidores, ya que la fabricación recae principalmente en pequeñas y medianas compañías. En medio de la competencia por infraestructura de IA, la capacidad de fabricar servidores se considera una base clave para el ecosistema de semiconductores y centros de datos. Por ello surgen voces que piden a Corea impulsar fabricantes propios. Fuente: mk.co.kr."
+    },
+    "pt": {
+      "title": "Servidores de IA lideram exportações de Taiwan e expõem lacuna da Coreia",
+      "excerpt": "Com mais encomendas de servidores de IA pelas big techs, servidores viraram o principal item de exportação de Taiwan e a Wiwynn cresceu 2,6 vezes, enquanto a Coreia tem base local frágil.",
+      "body": "Taiwan viu recentemente os servidores se tornarem seu principal item de exportação com o aumento da demanda por servidores de inteligência artificial. O avanço das encomendas de servidores de IA feitas por big techs elevou em 2,6 vezes a receita da fabricante taiwanesa Wiwynn, e o texto original citou escala de 44 trilhões de wones. Em contraste, a Coreia é apontada como um país sem uma empresa nacional relevante de servidores, com a fabricação concentrada em pequenas e médias empresas. À medida que a competição por infraestrutura de IA cresce, a capacidade de fabricar servidores é vista como base essencial do ecossistema de semicondutores e data centers. Por isso, surgem pedidos para que a Coreia desenvolva seus próprios fabricantes. Fonte: mk.co.kr."
+    },
+    "de": {
+      "title": "KI-Server machen Taiwan stark, Korea fehlt ein großer heimischer Anbieter",
+      "excerpt": "Durch mehr KI-Serveraufträge von Big Tech wurden Server Taiwans wichtigstes Exportgut, Wiwynn steigerte den Umsatz um das 2,6-Fache, während Korea bei eigener Serverfertigung schwach aufgestellt ist.",
+      "body": "In Taiwan sind Server zuletzt durch die stark wachsende Nachfrage nach KI-Servern zum wichtigsten Exportgut aufgestiegen. Mehr Bestellungen von KI-Servern durch Big-Tech-Unternehmen ließen den Umsatz des taiwanischen Serverherstellers Wiwynn um das 2,6-Fache steigen; der Originalbericht nennt eine Größenordnung von 44 Billionen Won. Korea hingegen wird dafür kritisiert, keinen starken einheimischen Serverhersteller zu haben, während die Produktion vor allem von kleinen und mittleren Unternehmen getragen wird. Mit dem wachsenden Wettbewerb um KI-Infrastruktur gilt Serverfertigung als zentrale Grundlage des Halbleiter- und Rechenzentrumsökosystems. Daher werden Stimmen laut, Korea müsse eigene Serverhersteller fördern. Quelle: mk.co.kr."
+    },
+    "fr": {
+      "title": "Les serveurs IA dopent Taïwan, la Corée manque d’un fabricant national",
+      "excerpt": "Avec la hausse des commandes de serveurs IA par les grandes techs, les serveurs sont devenus le premier produit d’exportation de Taïwan et Wiwynn a vu son chiffre d’affaires multiplié par 2,6.",
+      "body": "À Taïwan, les serveurs sont récemment devenus le premier produit d’exportation grâce à la forte hausse de la demande de serveurs d’intelligence artificielle. L’augmentation des commandes de serveurs IA par les grandes entreprises technologiques a permis au fabricant taïwanais Wiwynn de multiplier son chiffre d’affaires par 2,6, le texte original évoquant une échelle de 44 billions de wons. À l’inverse, la Corée est décrite comme dépourvue d’un fabricant national de serveurs solide, la production étant surtout assurée par des petites et moyennes entreprises. Alors que la concurrence dans l’infrastructure IA s’intensifie, la capacité de fabrication de serveurs est considérée comme une base clé pour les semi-conducteurs et les centres de données. Des voix appellent donc la Corée à développer ses propres fabricants. Source: mk.co.kr."
+    },
+    "ar": {
+      "title": "خوادم الذكاء الاصطناعي تصعد بتايوان وتكشف فجوة التصنيع في كوريا",
+      "excerpt": "مع زيادة طلبات شركات التكنولوجيا الكبرى على خوادم الذكاء الاصطناعي، أصبحت الخوادم أكبر صادرات تايوان وارتفعت إيرادات Wiwynn 2.6 مرة، بينما تفتقر كوريا إلى قاعدة تصنيع محلية قوية.",
+      "body": "شهدت تايوان مؤخرا صعود الخوادم إلى المركز الأول بين صادراتها مع الزيادة السريعة في الطلب على خوادم الذكاء الاصطناعي. وقد ساعد ارتفاع طلبات شركات التكنولوجيا الكبرى على هذه الخوادم شركة Wiwynn التايوانية المصنعة للخوادم على زيادة إيراداتها 2.6 مرة، وذكر النص الأصلي أن الحجم بلغ 44 تريليون وون. في المقابل، يشار إلى أن كوريا لا تملك شركة محلية قوية لصناعة الخوادم، وأن التصنيع يتم أساسا عبر شركات صغيرة ومتوسطة. ومع اشتداد المنافسة في بنية الذكاء الاصطناعي التحتية، تعد قدرة تصنيع الخوادم أساسا مهما لمنظومة أشباه الموصلات ومراكز البيانات. لذلك تظهر دعوات إلى أن تطور كوريا شركات تصنيع خوادم خاصة بها. المصدر: mk.co.kr."
+    },
+    "hi": {
+      "title": "AI सर्वर से ताइवान निर्यात में आगे, कोरिया में घरेलू निर्माता की कमी उजागर",
+      "excerpt": "बिग टेक की AI सर्वर मांग बढ़ने से सर्वर ताइवान का शीर्ष निर्यात उत्पाद बने और Wiwynn का राजस्व 2.6 गुना बढ़ा, जबकि कोरिया में मजबूत घरेलू सर्वर निर्माण आधार की कमी बताई जा रही है।",
+      "body": "ताइवान में हाल में कृत्रिम बुद्धिमत्ता सर्वरों की मांग तेजी से बढ़ने के कारण सर्वर उसका शीर्ष निर्यात उत्पाद बन गए हैं। बिग टेक कंपनियों के AI सर्वर ऑर्डर बढ़ने से ताइवान की सर्वर निर्माता Wiwynn का राजस्व 2.6 गुना बढ़ा, और मूल रिपोर्ट ने इसका पैमाना 44 ट्रिलियन वॉन बताया। इसके विपरीत, कोरिया के बारे में कहा जा रहा है कि उसके पास कोई मजबूत घरेलू सर्वर कंपनी नहीं है और सर्वर निर्माण मुख्य रूप से छोटी और मध्यम कंपनियों द्वारा किया जाता है। AI अवसंरचना की प्रतिस्पर्धा बढ़ने के साथ सर्वर निर्माण क्षमता को सेमीकंडक्टर और डेटा सेंटर पारिस्थितिकी तंत्र का प्रमुख आधार माना जा रहा है। इसी कारण कोरिया में अपने सर्वर निर्माताओं को विकसित करने की मांग उठ रही है। स्रोत: mk.co.kr."
+    },
+    "id": {
+      "title": "Server AI Dorong Ekspor Taiwan, Korea Dinilai Kekurangan Produsen Lokal",
+      "excerpt": "Pesanan server AI dari Big Tech membuat server menjadi ekspor utama Taiwan dan pendapatan Wiwynn naik 2,6 kali, sementara Korea dinilai masih lemah dalam basis manufaktur server domestik.",
+      "body": "Taiwan baru-baru ini melihat server menjadi produk ekspor nomor satu seiring melonjaknya permintaan server kecerdasan buatan. Kenaikan pesanan server AI dari perusahaan Big Tech mendorong pendapatan produsen server Taiwan, Wiwynn, naik 2,6 kali, dengan laporan asli menyebut skala 44 triliun won. Sebaliknya, Korea dinilai belum memiliki perusahaan server domestik yang kuat, sementara manufaktur server terutama dilakukan oleh usaha kecil dan menengah. Ketika persaingan infrastruktur AI semakin besar, kemampuan memproduksi server dipandang sebagai fondasi penting bagi ekosistem semikonduktor dan pusat data. Karena itu, muncul seruan agar Korea membesarkan produsen servernya sendiri. Sumber: mk.co.kr."
+    }
+  }
+}
