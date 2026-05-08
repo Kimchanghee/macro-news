@@ -1,5 +1,230 @@
 [
   {
+    "id": "2e43bd55adca",
+    "slug": "원룸서-컵라면으로-버틴-기러기아빠아내는-미국서-골프파티-이혼할까요-754118",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T12:10:25.399Z",
+    "updatedAt": "2026-05-08T12:10:25.399Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041667",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041667",
+    "titleFingerprint": "6740b848ff4892b4fd30b9dbe1f463de6fdf1088",
+    "dedupKeys": [
+      "2e43bd55adca9cd8258c14368eef885918c8396d",
+      "6740b848ff4892b4fd30b9dbe1f463de6fdf1088",
+      "d0cedd690e83d55ecc9761cf6f4c629a1de771f0"
+    ],
+    "imageUrl": "/images/articles/2e43bd55adca.png",
+    "i18n": {
+      "ko": {
+        "title": "기러기아빠 10년 송금 8억원 사연, 아내 미국 호화생활에 이혼 결심",
+        "excerpt": "8일 YTN 라디오에서 딸과 아내의 미국 유학 생활을 10여 년간 약 8억원으로 지원한 기러기 아빠가 아내의 귀국 거부와 호화 생활 끝에 이혼을 고민한 사연이 전해졌다.",
+        "body": "8일 YTN 라디오에서 미국으로 유학 간 딸과 아내를 위해 10여 년간 약 8억원을 보낸 기러기 아빠의 사연이 소개됐다. 그는 국내 원룸에서 컵라면으로 생활비를 아끼며 송금을 이어왔지만, 아내가 미국에서 골프와 파티를 즐기고 귀국도 거부했다는 내용이 전해졌다. 장기간 경제적 부담을 감당해 온 남편은 결국 이혼을 결심한 것으로 알려졌다. 이번 사연은 해외 유학을 둘러싼 가족 분리, 생활비 부담, 부부 간 신뢰 문제를 다시 환기했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean ‘Goose Dad’ Weighs Divorce After Sending 800 Million Won for 10 Years",
+        "excerpt": "On May 8, YTN Radio shared the story of a Korean father who sent about 800 million won over more than a decade for his wife and daughter in the U.S., then considered divorce over his wife’s lavish life and refusal to return.",
+        "body": "On May 8, YTN Radio introduced the story of a Korean “goose dad” who had supported his daughter and wife in the United States for more than 10 years, sending about 800 million won. While he reportedly saved money by living in a studio apartment in Korea and eating cup noodles, his wife was said to be playing golf, attending parties, and refusing to return home. After bearing the financial burden for years, the husband ultimately decided to seek a divorce. The case has renewed attention on family separation, education costs abroad, and trust between spouses. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "10年で約8億ウォン送金の“キロギアッパ”、妻の米国豪華生活に離婚決意",
+        "excerpt": "8日、YTNラジオで、米国に留学した娘と妻を10年以上にわたり約8億ウォン支援した父親が、妻の帰国拒否と豪華な生活に疲れ離婚を考えた事例が紹介された。",
+        "body": "8日、YTNラジオで、米国に留学した娘と妻のために10年以上、約8億ウォンを送金してきた“キロギアッパ”の事例が紹介された。男性は韓国のワンルームでカップ麺を食べながら生活費を切り詰め、送金を続けていたという。一方、妻は米国でゴルフやパーティーを楽しみ、帰国も拒んだと伝えられた。長期にわたり経済的負担を背負ってきた夫は、最終的に離婚を決意したとされる。この事例は、海外留学による家族分離、生活費負担、夫婦間の信頼問題を改めて浮き彫りにした。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国“候鸟爸爸”10年汇款约8亿韩元，因妻子在美奢华生活决定离婚",
+        "excerpt": "5月8日，YTN广播报道，一名为在美国留学的女儿和妻子10多年汇款约8亿韩元的韩国父亲，因妻子拒绝回国并过着高消费生活而考虑离婚。",
+        "body": "5月8日，YTN广播介绍了一名韩国“候鸟爸爸”的故事。他为了在美国留学的女儿和妻子，10多年间汇款约8亿韩元。据称，他在韩国住在单间房里，靠杯面节省生活费并持续汇款，而妻子却在美国打高尔夫、参加派对，并拒绝回国。长期承担经济压力的丈夫最终决定离婚。该事件再次引发外界对海外留学导致的家庭分离、生活费负担以及夫妻信任问题的关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "‘Padre ganso’ coreano evalúa divorcio tras enviar 800 millones de wones en 10 años",
+        "excerpt": "El 8 de mayo, YTN Radio difundió la historia de un padre coreano que envió unos 800 millones de wones durante más de una década a su esposa e hija en EE. UU. y ahora considera divorciarse por la vida lujosa de su mujer y su negativa a volver.",
+        "body": "El 8 de mayo, YTN Radio presentó la historia de un “padre ganso” coreano que sostuvo durante más de 10 años a su hija y a su esposa en Estados Unidos, enviando alrededor de 800 millones de wones. Según el relato, él vivía en una habitación tipo estudio en Corea y ahorraba gastos comiendo fideos instantáneos, mientras su esposa jugaba golf, asistía a fiestas y se negaba a regresar. Tras años de carga económica, el marido decidió finalmente divorciarse. El caso volvió a poner sobre la mesa la separación familiar por estudios en el extranjero, el peso del costo de vida y la confianza conyugal. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "‘Pai ganso’ coreano pensa em divórcio após enviar 800 milhões de wons por 10 anos",
+        "excerpt": "Em 8 de maio, a YTN Radio contou a história de um pai coreano que enviou cerca de 800 milhões de wons por mais de uma década para a esposa e a filha nos EUA e passou a considerar o divórcio diante da vida luxuosa da mulher e da recusa em voltar.",
+        "body": "Em 8 de maio, a YTN Radio apresentou a história de um “pai ganso” coreano que sustentou por mais de 10 anos a filha e a esposa nos Estados Unidos, enviando cerca de 800 milhões de wons. Segundo o relato, ele vivia em um pequeno estúdio na Coreia e economizava comendo macarrão instantâneo, enquanto a esposa jogava golfe, participava de festas e se recusava a retornar. Depois de anos arcando com a carga financeira, o marido acabou decidindo se divorciar. O caso reacendeu discussões sobre separação familiar por estudos no exterior, custos de vida e confiança entre cônjuges. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreanischer ‘Goose Dad’ erwägt Scheidung nach 800 Mio. Won Überweisungen",
+        "excerpt": "Am 8. Mai berichtete YTN Radio über einen koreanischen Vater, der seiner Frau und Tochter in den USA über zehn Jahre rund 800 Millionen Won schickte und nun wegen Luxusleben und Rückkehrverweigerung der Ehefrau die Scheidung erwägt.",
+        "body": "Am 8. Mai stellte YTN Radio den Fall eines koreanischen “Goose Dad” vor, der seine Tochter und seine Frau in den USA mehr als zehn Jahre lang unterstützte und rund 800 Millionen Won überwies. Dem Bericht zufolge lebte er in Korea in einem Einzimmerapartment und sparte mit Bechernudeln, während seine Frau in den USA Golf spielte, Partys besuchte und die Rückkehr verweigerte. Nach Jahren finanzieller Belastung entschied sich der Ehemann schließlich zur Scheidung. Der Fall lenkt erneut den Blick auf Familientrennung durch Auslandsstudium, hohe Lebenshaltungskosten und Vertrauensfragen in der Ehe. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un ‘père oie sauvage’ coréen envisage le divorce après 800 millions de wons envoyés",
+        "excerpt": "Le 8 mai, YTN Radio a relayé l’histoire d’un père coréen ayant envoyé environ 800 millions de wons en plus de dix ans à sa femme et sa fille aux États-Unis, avant d’envisager le divorce face au train de vie de son épouse et à son refus de rentrer.",
+        "body": "Le 8 mai, YTN Radio a présenté l’histoire d’un “père oie sauvage” coréen qui a soutenu pendant plus de dix ans sa fille et son épouse parties aux États-Unis, en leur envoyant environ 800 millions de wons. Selon le récit, il vivait en Corée dans un studio et économisait en mangeant des nouilles instantanées, tandis que son épouse jouait au golf, participait à des fêtes et refusait de rentrer. Après avoir supporté cette charge financière pendant des années, le mari aurait finalement décidé de divorcer. L’affaire remet en lumière la séparation familiale liée aux études à l’étranger, le poids des frais de vie et la confiance dans le couple. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أب كوري مغترب يفكر بالطلاق بعد تحويل 800 مليون وون لعائلته في أميركا",
+        "excerpt": "في 8 مايو، عرضت إذاعة YTN قصة أب كوري أرسل نحو 800 مليون وون خلال أكثر من عقد لزوجته وابنته في الولايات المتحدة، قبل أن يفكر في الطلاق بسبب حياة زوجته المترفة ورفضها العودة.",
+        "body": "في 8 مايو، عرضت إذاعة YTN قصة أب كوري يعرف بنمط “الأب المقيم وحده” دعم ابنته وزوجته في الولايات المتحدة لأكثر من 10 سنوات، محولا نحو 800 مليون وون. ووفق القصة، كان يعيش في غرفة صغيرة في كوريا ويوفر نفقاته بتناول المعكرونة السريعة، بينما كانت زوجته تمارس الغولف وتحضر الحفلات وترفض العودة. وبعد سنوات من تحمل العبء المالي، قرر الزوج في النهاية السعي إلى الطلاق. أعادت القصة تسليط الضوء على انفصال الأسر بسبب الدراسة في الخارج، وأعباء المعيشة، ومشكلات الثقة بين الزوجين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "10 साल में 800 मिलियन वॉन भेजने वाले कोरियाई पिता ने तलाक का फैसला किया",
+        "excerpt": "8 मई को YTN रेडियो ने एक कोरियाई पिता की कहानी बताई, जिसने अमेरिका में पत्नी और बेटी के लिए 10 साल से अधिक समय तक करीब 800 मिलियन वॉन भेजे और पत्नी की आलीशान जीवनशैली व लौटने से इनकार के बाद तलाक पर विचार किया।",
+        "body": "8 मई को YTN रेडियो ने एक ऐसे कोरियाई ‘गूज डैड’ की कहानी पेश की, जिसने अमेरिका में पढ़ रही बेटी और वहां रह रही पत्नी के लिए 10 साल से अधिक समय तक करीब 800 मिलियन वॉन भेजे। बताया गया कि वह कोरिया में एक छोटे स्टूडियो कमरे में रहता था और कप नूडल्स खाकर खर्च बचाता था, जबकि पत्नी अमेरिका में गोल्फ और पार्टियों में शामिल होती थी तथा लौटने से इनकार कर रही थी। लंबे समय तक आर्थिक बोझ उठाने के बाद पति ने अंततः तलाक का फैसला किया। इस मामले ने विदेश में पढ़ाई से जुड़ी पारिवारिक दूरी, खर्च और दांपत्य विश्वास के सवालों को फिर सामने ला दिया है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "‘Ayah Angsa’ Korea Putuskan Cerai Usai Kirim 800 Juta Won Selama 10 Tahun",
+        "excerpt": "Pada 8 Mei, YTN Radio mengangkat kisah ayah Korea yang mengirim sekitar 800 juta won selama lebih dari satu dekade untuk istri dan anaknya di AS, lalu mempertimbangkan cerai karena gaya hidup mewah sang istri dan penolakannya pulang.",
+        "body": "Pada 8 Mei, YTN Radio memperkenalkan kisah seorang “ayah angsa” Korea yang selama lebih dari 10 tahun mendukung putri dan istrinya di Amerika Serikat dengan mengirim sekitar 800 juta won. Ia disebut tinggal di kamar studio di Korea dan menghemat biaya hidup dengan makan mi instan cup, sementara istrinya bermain golf, menghadiri pesta, dan menolak pulang. Setelah bertahun-tahun menanggung beban finansial, sang suami akhirnya memutuskan untuk bercerai. Kisah ini kembali menyoroti pemisahan keluarga akibat studi di luar negeri, beban biaya hidup, dan masalah kepercayaan dalam pernikahan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "da1c4284dfe0",
+    "slug": "1차-고유가-피해지원금-912-신청1조-6728억원-지급-257161",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T12:09:21.342Z",
+    "updatedAt": "2026-05-08T12:09:21.342Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041753",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041753",
+    "titleFingerprint": "6061572afd916ed45fad79e98f9f5f5f5f1d0e73",
+    "dedupKeys": [
+      "da1c4284dfe0fcf78c874eabb8f048ba025da48e",
+      "6061572afd916ed45fad79e98f9f5f5f5f1d0e73",
+      "ab275c3e877d69a6b90e481662a5562c46db61e7"
+    ],
+    "imageUrl": "/images/articles/da1c4284dfe0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고유가 피해지원금 1차 신청률 91.2%…총 1조6728억원 지급",
+        "excerpt": "행정안전부는 8일 ‘고유가 피해지원금’ 1차 지급 신청 마감 결과 지급 대상자의 91.2%가 신청했으며, 현재까지 총 1조6728억원이 지급됐다고 밝혔다.",
+        "body": "행정안전부는 8일 ‘고유가 피해지원금’ 1차 지급 신청 마감 결과, 지급 대상자의 91.2%가 지원금을 신청했다고 밝혔다. 이번 지원은 고유가로 피해를 본 대상자를 상대로 진행됐으며, 신청 마감 기준 지금까지 지급된 금액은 총 1조6728억원으로 집계됐다. 신청률이 91%를 넘어서면서 상당수 대상자가 1차 지급 절차에 참여한 것으로 나타났다. 향후 지원 흐름은 남은 대상자와 추가 절차에 따라 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "High Oil Price Relief First-Round Applications Reach 91.2%, Payments Hit 1.6728 Trillion Won",
+        "excerpt": "South Korea’s Ministry of the Interior and Safety said on the 8th that 91.2% of eligible recipients applied for the first round of high oil price relief, with 1.6728 trillion won paid so far.",
+        "body": "South Korea’s Ministry of the Interior and Safety said on the 8th that applications for the first round of the “high oil price relief payment” closed with 91.2% of eligible recipients applying. The support was aimed at people affected by high oil prices, and the total amount paid so far has reached 1.6728 trillion won. With the application rate exceeding 91%, a large share of eligible recipients participated in the first payment process. Future support will depend on remaining recipients and any additional procedures. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "高油価被害支援金、第1次申請率91.2%…計1兆6728億ウォン支給",
+        "excerpt": "行政安全部は8日、高油価被害支援金の第1次支給申請締め切りの結果、対象者の91.2%が申請し、これまでに計1兆6728億ウォンを支給したと明らかにした。",
+        "body": "行政安全部は8日、「高油価被害支援金」の第1次支給申請を締め切った結果、支給対象者の91.2%が支援金を申請したと明らかにした。今回の支援は高油価で被害を受けた対象者に向けて行われ、申請締め切り時点でこれまでに支給された金額は計1兆6728億ウォンと集計された。申請率が91%を超え、多くの対象者が第1次支給手続きに参加したことが示された。今後の支援の流れは、残る対象者と追加手続きに応じて続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "高油价受损补助首轮申请率达91.2%，已支付1.6728万亿韩元",
+        "excerpt": "韩国行政安全部8日表示，高油价受损补助首轮支付申请截止后，符合条件对象中91.2%已申请，迄今累计支付1.6728万亿韩元。",
+        "body": "韩国行政安全部8日表示，“高油价受损补助”首轮支付申请截止后，支付对象中已有91.2%申请补助。该项支持面向因高油价受到影响的对象，截至申请截止，目前累计支付金额为1.6728万亿韩元。申请率超过91%，显示相当多的对象参与了首轮支付程序。后续支持进展预计将根据剩余对象及追加程序继续推进。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ayuda por altos precios del petróleo: solicitudes llegan al 91,2% y pagos suman 1,6728 billones de wones",
+        "excerpt": "El Ministerio del Interior y Seguridad de Corea del Sur informó el día 8 que el 91,2% de los beneficiarios solicitó la primera ayuda por altos precios del petróleo, con 1,6728 billones de wones pagados.",
+        "body": "El Ministerio del Interior y Seguridad de Corea del Sur informó el día 8 que, tras el cierre de solicitudes para el primer pago de la “ayuda por daños por altos precios del petróleo”, el 91,2% de los beneficiarios elegibles presentó su solicitud. El apoyo se dirigió a personas afectadas por los altos precios del petróleo, y el monto pagado hasta ahora asciende a 1,6728 billones de wones. Al superar el 91%, la tasa muestra una amplia participación en el primer proceso de pago. El avance posterior dependerá de los beneficiarios restantes y de procedimientos adicionales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Auxílio por alta do petróleo tem 91,2% de adesão na 1ª rodada e paga 1,6728 trilhão de wones",
+        "excerpt": "O Ministério do Interior e Segurança da Coreia do Sul informou no dia 8 que 91,2% dos elegíveis solicitaram a primeira rodada do auxílio por alta do petróleo, com 1,6728 trilhão de wones pagos até agora.",
+        "body": "O Ministério do Interior e Segurança da Coreia do Sul informou no dia 8 que, após o encerramento dos pedidos da primeira rodada do “auxílio por danos causados pela alta do petróleo”, 91,2% dos beneficiários elegíveis fizeram a solicitação. O apoio foi destinado a pessoas afetadas pelos preços elevados do petróleo, e o total pago até agora soma 1,6728 trilhão de wones. Com a taxa acima de 91%, uma parcela significativa dos elegíveis participou do primeiro processo de pagamento. A continuidade dependerá dos beneficiários restantes e de procedimentos adicionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hilfen wegen hoher Ölpreise: Erste Antragsrunde erreicht 91,2%, 1,6728 Billionen Won ausgezahlt",
+        "excerpt": "Südkoreas Ministerium für Inneres und Sicherheit teilte am 8. mit, dass 91,2% der Berechtigten die erste Hilfszahlung wegen hoher Ölpreise beantragt haben; bisher wurden 1,6728 Billionen Won gezahlt.",
+        "body": "Südkoreas Ministerium für Inneres und Sicherheit teilte am 8. mit, dass nach Ablauf der ersten Antragsrunde für die „Hilfszahlung wegen Schäden durch hohe Ölpreise“ 91,2% der Berechtigten einen Antrag gestellt haben. Die Unterstützung richtet sich an Betroffene der hohen Ölpreise. Bis zum Antragsschluss wurden insgesamt 1,6728 Billionen Won ausgezahlt. Die Quote von mehr als 91% zeigt, dass ein großer Teil der Berechtigten am ersten Auszahlungsverfahren teilgenommen hat. Der weitere Verlauf hängt von verbleibenden Berechtigten und zusätzlichen Verfahren ab. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Aide liée aux prix élevés du pétrole: 91,2% de demandes au 1er tour, 1 672,8 milliards de wons versés",
+        "excerpt": "Le ministère sud-coréen de l’Intérieur et de la Sécurité a indiqué le 8 que 91,2% des bénéficiaires éligibles avaient demandé la première aide liée aux prix élevés du pétrole, pour 1 672,8 milliards de wons versés.",
+        "body": "Le ministère sud-coréen de l’Intérieur et de la Sécurité a indiqué le 8 qu’à la clôture des demandes pour le premier versement de l’« aide aux dommages liés aux prix élevés du pétrole », 91,2% des bénéficiaires éligibles avaient déposé une demande. Ce soutien vise les personnes touchées par la hausse des prix du pétrole, et le montant versé jusqu’à présent atteint 1 672,8 milliards de wons. Avec un taux supérieur à 91%, une grande partie des bénéficiaires a participé à la première procédure de paiement. La suite dépendra des bénéficiaires restants et des démarches supplémentaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طلبات دعم أضرار ارتفاع أسعار النفط في الجولة الأولى تبلغ 91.2% والمدفوعات تصل إلى 1.6728 تريليون وون",
+        "excerpt": "قالت وزارة الداخلية والسلامة في كوريا الجنوبية يوم 8 إن 91.2% من المستحقين تقدموا بطلبات الجولة الأولى من دعم أضرار ارتفاع أسعار النفط، وإن المدفوعات بلغت حتى الآن 1.6728 تريليون وون.",
+        "body": "قالت وزارة الداخلية والسلامة في كوريا الجنوبية يوم 8 إن طلبات الجولة الأولى من «دعم أضرار ارتفاع أسعار النفط» أُغلقت بعد أن تقدم 91.2% من المستحقين بطلباتهم. ويستهدف هذا الدعم المتضررين من ارتفاع أسعار النفط، وبلغ إجمالي ما صُرف حتى الآن 1.6728 تريليون وون. ومع تجاوز نسبة الطلبات 91%، يتضح أن شريحة كبيرة من المستحقين شاركت في إجراءات الصرف الأولى. ومن المتوقع أن يستمر مسار الدعم وفق ما يتبقى من مستحقين وأي إجراءات إضافية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ऊंचे तेल दाम राहत की पहली किस्त के लिए 91.2% आवेदन, 1.6728 ट्रिलियन वॉन भुगतान",
+        "excerpt": "दक्षिण कोरिया के आंतरिक और सुरक्षा मंत्रालय ने 8 तारीख को बताया कि ऊंचे तेल दामों से नुकसान राहत की पहली किस्त के लिए 91.2% पात्र लोगों ने आवेदन किया और अब तक 1.6728 ट्रिलियन वॉन दिए गए।",
+        "body": "दक्षिण कोरिया के आंतरिक और सुरक्षा मंत्रालय ने 8 तारीख को बताया कि “ऊंचे तेल दामों से नुकसान राहत” की पहली भुगतान आवेदन अवधि समाप्त होने पर 91.2% पात्र लोगों ने सहायता के लिए आवेदन किया। यह सहायता ऊंचे तेल दामों से प्रभावित लोगों के लिए थी, और आवेदन समाप्ति तक अब तक कुल 1.6728 ट्रिलियन वॉन का भुगतान किया जा चुका है। आवेदन दर 91% से ऊपर रहने से पता चलता है कि बड़ी संख्या में पात्र लोग पहली भुगतान प्रक्रिया में शामिल हुए। आगे की सहायता शेष पात्र लोगों और अतिरिक्त प्रक्रियाओं के अनुसार जारी रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Bantuan Dampak Harga Minyak Tinggi Tahap Pertama Diajukan 91,2%, Pembayaran Capai 1,6728 Triliun Won",
+        "excerpt": "Kementerian Dalam Negeri dan Keselamatan Korea Selatan menyatakan pada tanggal 8 bahwa 91,2% penerima berhak mengajukan bantuan dampak harga minyak tinggi tahap pertama, dengan total 1,6728 triliun won dibayarkan.",
+        "body": "Kementerian Dalam Negeri dan Keselamatan Korea Selatan menyatakan pada tanggal 8 bahwa setelah penutupan pengajuan pembayaran pertama “bantuan dampak harga minyak tinggi”, 91,2% penerima yang berhak telah mengajukan bantuan. Program ini ditujukan bagi pihak yang terdampak harga minyak tinggi, dan jumlah yang telah dibayarkan hingga kini mencapai 1,6728 triliun won. Dengan tingkat pengajuan melampaui 91%, sebagian besar penerima berhak ikut dalam proses pembayaran tahap pertama. Kelanjutan dukungan akan bergantung pada penerima yang tersisa dan prosedur tambahan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b941bbceaeda",
+    "slug": "한국은-혼자-여행하는-게-죄-같다외신이-폭로한-혼밥-거절-문화-762547",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T12:08:27.275Z",
+    "updatedAt": "2026-05-08T12:08:27.275Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041769",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041769",
+    "titleFingerprint": "cda7b7e1c1695027719be5ff8f34ac7d9be7281d",
+    "dedupKeys": [
+      "b941bbceaeda93ba388cbcaf32b494ea46ca42e9",
+      "cda7b7e1c1695027719be5ff8f34ac7d9be7281d",
+      "f40c4de66ff1a885d4e510c1ebfb1f568bfee966"
+    ],
+    "imageUrl": "/images/articles/b941bbceaeda.png",
+    "i18n": {
+      "ko": {
+        "title": "한국 혼밥 거절 문화 논란, CNN 기자가 전한 혼자 식사 경험",
+        "excerpt": "미국 CNN 여행 섹션이 지난 5일 한국에서 혼자 식사를 시도한 외신 기자가 두 차례 거절당한 경험을 보도하며 ‘혼밥’ 문화 논란이 국내외에서 주목받고 있다.",
+        "body": "미국 CNN 여행 전문 섹션은 지난 5일(현지 시각) 한국에서 ‘혼밥’, 즉 혼자 식사를 시도한 외신 기자가 음식점에서 두 차례 거절당한 경험을 조명했다. 보도는 한국에서 혼자 여행하는 일이 마치 죄처럼 느껴질 수 있다는 문제의식을 담아 국내외에서 화제가 됐다. 핵심은 일부 식당이 1인 손님보다 여러 명의 손님을 선호하는 관행이 혼자 식사하려는 여행자에게 장벽이 될 수 있다는 점이다. 이번 보도는 한국 여행 경험에서 식사 문화가 중요한 변수로 작용할 수 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea’s Solo Dining Refusals Draw Attention After CNN Reporter’s Account",
+        "excerpt": "CNN’s travel section reported on May 5 that a foreign reporter trying to eat alone in Korea was refused twice, drawing attention at home and abroad to the culture around solo dining.",
+        "body": "CNN’s travel section reported on May 5, local time, on a foreign reporter’s experience of trying to eat alone in Korea and being turned away twice at restaurants. The report drew attention in Korea and overseas by raising the idea that traveling alone in Korea can feel as if it is somehow wrong. The central issue is that some restaurants may prefer groups over single diners, creating a barrier for travelers who want to eat alone. The coverage shows that dining culture can become an important factor in the overall Korea travel experience. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国の一人飯拒否文化に注目、CNN記者が語った食事体験",
+        "excerpt": "CNNの旅行専門セクションは5日、韓国で一人で食事をしようとした外信記者が2度断られた経験を報じ、「一人飯」文化をめぐる議論が国内外で注目を集めている。",
+        "body": "CNNの旅行専門セクションは5日（現地時間）、韓国で「一人飯」、つまり一人で食事をしようとした外信記者が飲食店で2度断られた経験を取り上げた。報道は、韓国で一人旅をすることがまるで罪のように感じられる場合があるという問題意識を示し、国内外で話題になった。焦点は、一部の店が一人客より複数人の客を好む慣行が、一人で食事をしたい旅行者にとって障壁になり得る点だ。今回の報道は、韓国旅行の経験において食文化が重要な変数になり得ることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国独自用餐遭拒引争议，CNN记者讲述两次被拒经历",
+        "excerpt": "CNN旅行频道5日报道，一名外媒记者在韩国尝试独自用餐时两次遭拒，引发韩国国内外对“独自吃饭”文化的关注。",
+        "body": "CNN旅行专业栏目于5日（当地时间）报道了一名外媒记者在韩国尝试“独自吃饭”时，两次被餐馆拒绝的经历。报道提出，在韩国独自旅行有时可能让人感觉像是在做错事，这一内容在韩国国内外引发关注。问题核心在于，部分餐馆相较一人顾客更偏好多人顾客，这种惯例可能成为想独自用餐的旅行者面临的障碍。此次报道显示，饮食文化可能成为影响韩国旅行体验的重要因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Rechazos a comer solo en Corea: el relato de una periodista de CNN causa debate",
+        "excerpt": "La sección de viajes de CNN informó el 5 de mayo que una periodista extranjera fue rechazada dos veces al intentar comer sola en Corea, lo que puso bajo foco la cultura del “honbap”.",
+        "body": "La sección especializada en viajes de CNN informó el 5 de mayo, hora local, sobre la experiencia de una periodista extranjera que intentó practicar el “honbap”, es decir, comer sola en Corea, y fue rechazada dos veces en restaurantes. El reporte llamó la atención dentro y fuera del país al plantear que viajar sola en Corea puede sentirse casi como si fuera algo incorrecto. El punto central es que algunos restaurantes prefieren atender a grupos antes que a clientes individuales, una práctica que puede convertirse en una barrera para los viajeros que desean comer solos. La cobertura muestra que la cultura gastronómica puede ser un factor importante en la experiencia de viajar por Corea. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Recusa a quem come sozinho na Coreia ganha destaque após relato da CNN",
+        "excerpt": "A seção de viagens da CNN informou em 5 de maio que uma jornalista estrangeira tentou comer sozinha na Coreia e foi recusada duas vezes, reacendendo o debate sobre o “honbap”.",
+        "body": "A seção especializada em viagens da CNN noticiou em 5 de maio, no horário local, a experiência de uma jornalista estrangeira que tentou fazer “honbap”, ou seja, comer sozinha na Coreia, e foi recusada duas vezes em restaurantes. A reportagem ganhou atenção dentro e fora do país ao levantar a percepção de que viajar sozinha na Coreia pode parecer quase algo errado. O ponto central é que alguns restaurantes podem preferir grupos a clientes individuais, criando uma barreira para viajantes que desejam comer sozinhos. O caso mostra que a cultura de alimentação pode ser um fator importante na experiência de viagem pela Coreia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Allein essen in Korea abgelehnt: CNN-Bericht löst Debatte über Honbap aus",
+        "excerpt": "CNN Travel berichtete am 5. Mai, dass eine ausländische Reporterin in Korea beim Versuch, allein zu essen, zweimal abgewiesen wurde. Der Fall rückt die Honbap-Kultur in den Fokus.",
+        "body": "Die Reisesparte von CNN berichtete am 5. Mai Ortszeit über die Erfahrung einer ausländischen Reporterin, die in Korea „Honbap“, also allein essen, versuchen wollte und in Restaurants zweimal abgewiesen wurde. Der Bericht sorgte in Korea und im Ausland für Aufmerksamkeit, weil er die Frage aufwarf, ob sich Alleinreisen in Korea mitunter wie etwas Verbotenes anfühlen könne. Im Mittelpunkt steht, dass einige Restaurants Gruppen gegenüber Einzelgästen bevorzugen könnten. Diese Praxis kann für Reisende, die allein essen möchten, zu einer Hürde werden. Der Bericht zeigt, dass Esskultur ein wichtiger Faktor für das Reiseerlebnis in Korea sein kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Manger seul en Corée refusé: le récit d’une journaliste de CNN fait débat",
+        "excerpt": "La rubrique voyage de CNN a rapporté le 5 mai qu’une journaliste étrangère avait été refusée deux fois en tentant de manger seule en Corée, relançant le débat sur le “honbap”.",
+        "body": "La rubrique spécialisée voyage de CNN a rapporté le 5 mai, heure locale, l’expérience d’une journaliste étrangère qui a tenté de pratiquer le “honbap”, c’est-à-dire manger seule en Corée, et s’est vu refuser l’entrée à deux reprises dans des restaurants. Le reportage a attiré l’attention en Corée et à l’étranger en soulignant que voyager seul en Corée peut parfois donner l’impression de commettre une faute. Le point central est que certains restaurants peuvent préférer les groupes aux clients seuls, ce qui crée un obstacle pour les voyageurs souhaitant manger seuls. Cette couverture montre que la culture du repas peut peser dans l’expérience de voyage en Corée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رفض تناول الطعام منفردا في كوريا يثير الجدل بعد تقرير لمراسلة CNN",
+        "excerpt": "نشرت فقرة السفر في CNN في 5 مايو تقريرا عن مراسلة أجنبية حاولت تناول الطعام بمفردها في كوريا ورُفضت مرتين، ما أثار الاهتمام بثقافة الأكل الفردي داخليا وخارجيا.",
+        "body": "سلطت فقرة السفر المتخصصة في CNN الضوء في 5 مايو، بالتوقيت المحلي، على تجربة مراسلة أجنبية حاولت تناول الطعام بمفردها في كوريا، وهو ما يعرف بـ“هونباب”، لكنها رُفضت مرتين في مطاعم. أثار التقرير اهتماما داخل كوريا وخارجها لأنه طرح فكرة أن السفر منفردا في كوريا قد يبدو أحيانا كأنه أمر خاطئ. وتتمحور القضية حول أن بعض المطاعم قد تفضل استقبال الزبائن ضمن مجموعات بدلا من الزبون الفردي، ما يمكن أن يشكل عائقا أمام المسافرين الراغبين في الأكل بمفردهم. ويظهر التقرير أن ثقافة الطعام قد تكون عاملا مهما في تجربة السفر إلى كوريا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया में अकेले खाने से इनकार पर बहस, CNN रिपोर्टर का अनुभव चर्चा में",
+        "excerpt": "CNN के यात्रा अनुभाग ने 5 मई को बताया कि कोरिया में अकेले भोजन करने की कोशिश करने वाली एक विदेशी रिपोर्टर को दो बार मना किया गया, जिससे ‘होनबाप’ संस्कृति पर ध्यान गया।",
+        "body": "CNN के यात्रा विशेष अनुभाग ने 5 मई, स्थानीय समय के अनुसार, एक विदेशी रिपोर्टर के अनुभव को सामने रखा जिसने कोरिया में ‘होनबाप’, यानी अकेले भोजन करने की कोशिश की और रेस्तरां में दो बार मना कर दिया गया। रिपोर्ट ने यह सवाल उठाकर कोरिया और विदेशों में ध्यान खींचा कि कोरिया में अकेले यात्रा करना कभी-कभी जैसे कोई गलती हो, वैसा महसूस हो सकता है। मुख्य मुद्दा यह है कि कुछ रेस्तरां अकेले ग्राहक की तुलना में समूहों को प्राथमिकता दे सकते हैं, जिससे अकेले भोजन करना चाहने वाले यात्रियों के लिए बाधा बन सकती है। यह रिपोर्ट दिखाती है कि भोजन संस्कृति कोरिया यात्रा अनुभव में एक महत्वपूर्ण कारक हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Budaya Menolak Makan Sendiri di Korea Disorot Setelah Laporan CNN",
+        "excerpt": "Rubrik perjalanan CNN pada 5 Mei melaporkan pengalaman jurnalis asing yang dua kali ditolak saat mencoba makan sendiri di Korea, memicu perhatian pada budaya “honbap”.",
+        "body": "Rubrik perjalanan CNN pada 5 Mei waktu setempat menyoroti pengalaman seorang jurnalis asing yang mencoba “honbap”, yaitu makan sendiri di Korea, tetapi dua kali ditolak di restoran. Laporan itu menjadi perhatian di Korea dan luar negeri karena mengangkat kesan bahwa bepergian sendirian di Korea dapat terasa seolah-olah merupakan sesuatu yang salah. Inti persoalannya adalah sebagian restoran mungkin lebih memilih pelanggan dalam kelompok daripada pelanggan tunggal, sehingga menjadi hambatan bagi pelancong yang ingin makan sendiri. Laporan ini menunjukkan bahwa budaya makan dapat menjadi faktor penting dalam pengalaman perjalanan di Korea. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "55c7f083e576",
     "slug": "이란-매체-원유-수출-방해하는-유조선-나포-738695",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Juru Bicara Gedung Putih Caroline Leavitt Melahirkan Putri Kedua, ‘Vivi’",
         "excerpt": "Caroline Leavitt, juru bicara Presiden AS Donald Trump, mengumumkan pada 7 melalui media sosial bahwa ia melahirkan putri keduanya pada 1 dan menamainya Vivi.",
         "body": "Caroline Leavitt, juru bicara Gedung Putih yang dikenal sebagai suara Presiden Amerika Serikat Donald Trump, mengumumkan pada 7 melalui akun media sosialnya bahwa ia telah melahirkan anak keduanya. Menurut informasi yang dibagikan Leavitt, bayi tersebut adalah putri yang lahir pada 1, dan namanya ditetapkan sebagai ‘Vivi.’ Leavitt, 28 tahun, telah diperkenalkan sebagai juru bicara Gedung Putih termuda. Kabar ini menarik perhatian sebagai perkembangan pribadi dari juru bicara aktif yang memegang jabatan resmi untuk mewakili Presiden Trump. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e99e3a0278ca",
-    "slug": "안경-독특한-디자인-나오기-어려워젠몬-모방-논란-블루엘리펀트-정면승부-현장-312679",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T22:36:41.907Z",
-    "updatedAt": "2026-05-07T22:36:41.907Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12040677",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12040677",
-    "titleFingerprint": "3ab7009f621c5fefd1359e706fc5c3852b8f28fe",
-    "dedupKeys": [
-      "e99e3a0278ca87033e5de16afb1f41bc33e1664b",
-      "3ab7009f621c5fefd1359e706fc5c3852b8f28fe",
-      "4c72697364c6e6047721799d335be38a341431b7"
-    ],
-    "imageUrl": "/images/articles/e99e3a0278ca.jpg",
-    "i18n": {
-      "ko": {
-        "title": "블루엘리펀트, 젠틀몬스터 모방 논란에 정면 대응…첫 간담회서 입장 공개",
-        "excerpt": "블루엘리펀트가 론칭 후 첫 기자간담회에서 젠틀몬스터와의 법적 분쟁 이후 처음으로 모방 논란에 대한 입장을 밝히고 신제품 라인과 새 매장 콘셉트를 공개했다.",
-        "body": "블루엘리펀트는 론칭 이후 첫 기자간담회를 열고 젠틀몬스터와의 법적 분쟁 이후 처음으로 ‘모방 논란’에 대한 입장을 밝혔다. 고경민 대표는 안경 제품의 특성상 독특한 디자인이 나오기 어렵다며, 패션업계에서 레퍼런스를 활용하는 것은 일반적인 일이라고 설명했다. 이번 간담회는 법적 공방이 이어지는 상황에서 회사가 공식적으로 입장을 내놓은 자리라는 점에서 주목됐다. 블루엘리펀트는 논란에 대한 설명과 함께 신제품 라인과 새 매장 콘셉트도 공개했다. 향후 법적 분쟁의 전개와 브랜드 운영 방향이 업계의 관심사로 남을 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Blue Elephant Confronts Gentle Monster Copying Dispute at First Press Event",
-        "excerpt": "Blue Elephant held its first press conference since launch, addressing the Gentle Monster legal dispute for the first time while unveiling new product lines and a new store concept.",
-        "body": "Blue Elephant held its first press conference since its launch and, for the first time since its legal dispute with Gentle Monster, stated its position on the copying controversy. CEO Ko Kyung-min said that because of the nature of eyewear products, it is difficult to create highly distinctive designs, adding that using references is common in the fashion industry. The briefing drew attention because it marked the company’s formal response while the legal battle continues. Blue Elephant also introduced new product lines and a new store concept. The direction of the lawsuit and the brand’s future operations are expected to remain industry points of interest. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ブルーエレファント、ジェントルモンスター模倣論争に正面対応 初会見で説明",
-        "excerpt": "ブルーエレファントはローンチ後初の記者懇談会で、ジェントルモンスターとの法的紛争後初めて模倣論争への立場を示し、新製品ラインと新店舗コンセプトを公開した。",
-        "body": "ブルーエレファントはローンチ後初の記者懇談会を開き、ジェントルモンスターとの法的紛争後初めて「模倣論争」についての立場を明らかにした。コ・ギョンミン代表は、眼鏡製品の特性上、独特なデザインを生み出すことは難しく、ファッション業界でレファレンスを活用することは一般的だと説明した。今回の懇談会は、法的攻防が続く中で同社が公式に見解を示した場として注目された。ブルーエレファントは論争への説明とともに、新製品ラインと新店舗コンセプトも公開した。今後の法的紛争の展開とブランド運営の方向性が業界の関心事として残る見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Blue Elephant正面回应Gentle Monster模仿争议 首场发布会表态",
-        "excerpt": "Blue Elephant在品牌推出后的首场记者会上，首次就与Gentle Monster法律纠纷后的模仿争议表明立场，并公开新品系列和新门店概念。",
-        "body": "Blue Elephant在品牌推出后的首场记者会上，首次就与Gentle Monster发生法律纠纷后的“模仿争议”表明立场。代表高庚民表示，受眼镜产品特性影响，推出独特设计并不容易，并称在时尚行业使用参考资料是常见做法。此次记者会受到关注，是因为在法律攻防持续的情况下，公司正式公开了自身立场。Blue Elephant还在说明争议的同时，发布了新品系列和新门店概念。未来法律纠纷的进展以及品牌运营方向，预计仍将是业界关注焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Blue Elephant responde a la disputa con Gentle Monster en su primera rueda de prensa",
-        "excerpt": "Blue Elephant celebró su primera rueda de prensa desde el lanzamiento y abordó por primera vez la disputa legal con Gentle Monster, además de presentar nuevas líneas y un concepto de tienda.",
-        "body": "Blue Elephant celebró su primera rueda de prensa desde su lanzamiento y, por primera vez desde la disputa legal con Gentle Monster, expuso su postura sobre la controversia por presunta imitación. El CEO Ko Kyung-min dijo que, por la naturaleza de los productos de gafas, es difícil crear diseños totalmente distintivos, y añadió que el uso de referencias es habitual en la industria de la moda. El encuentro llamó la atención porque fue la respuesta oficial de la empresa mientras continúa el conflicto legal. Blue Elephant también presentó nuevas líneas de productos y un nuevo concepto de tienda. La evolución de la disputa y la dirección operativa de la marca seguirán siendo temas de interés para el sector. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Blue Elephant enfrenta disputa com Gentle Monster em sua primeira coletiva",
-        "excerpt": "A Blue Elephant realizou sua primeira coletiva desde o lançamento, comentou pela primeira vez a disputa legal com a Gentle Monster e apresentou novas linhas e um conceito de loja.",
-        "body": "A Blue Elephant realizou sua primeira coletiva de imprensa desde o lançamento e, pela primeira vez desde a disputa legal com a Gentle Monster, apresentou sua posição sobre a controvérsia de suposta imitação. O CEO Ko Kyung-min afirmou que, pela natureza dos óculos, é difícil criar designs muito distintos, acrescentando que o uso de referências é comum na indústria da moda. O encontro chamou atenção por marcar uma resposta oficial da empresa enquanto a disputa jurídica continua. A Blue Elephant também revelou novas linhas de produtos e um novo conceito de loja. O andamento do processo e a direção futura da marca devem seguir como pontos de interesse do setor. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Blue Elephant kontert Gentle-Monster-Kopierstreit bei erster Pressekonferenz",
-        "excerpt": "Blue Elephant äußerte sich bei der ersten Pressekonferenz seit dem Start erstmals zum Rechtsstreit mit Gentle Monster und stellte neue Produktlinien sowie ein neues Ladenkonzept vor.",
-        "body": "Blue Elephant hielt seine erste Pressekonferenz seit dem Start ab und äußerte sich erstmals seit dem Rechtsstreit mit Gentle Monster zur Kontroverse um angebliche Nachahmung. CEO Ko Kyung-min erklärte, dass es aufgrund der Eigenschaften von Brillenprodukten schwierig sei, besonders eigenständige Designs zu entwickeln; die Nutzung von Referenzen sei in der Modebranche üblich. Die Veranstaltung fand Beachtung, weil das Unternehmen damit während des laufenden juristischen Konflikts offiziell Stellung bezog. Blue Elephant präsentierte zudem neue Produktlinien und ein neues Ladenkonzept. Der weitere Verlauf des Rechtsstreits und die operative Ausrichtung der Marke dürften in der Branche aufmerksam verfolgt werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Blue Elephant répond au litige avec Gentle Monster lors de sa première conférence",
-        "excerpt": "Blue Elephant a tenu sa première conférence de presse depuis son lancement, abordant pour la première fois le litige avec Gentle Monster et dévoilant de nouvelles lignes et un concept de magasin.",
-        "body": "Blue Elephant a organisé sa première conférence de presse depuis son lancement et a, pour la première fois depuis le litige juridique avec Gentle Monster, présenté sa position sur la controverse liée à une possible imitation. Le PDG Ko Kyung-min a déclaré qu’en raison de la nature des produits de lunetterie, il est difficile de créer des designs très distinctifs, ajoutant que l’usage de références est courant dans la mode. Cette rencontre a attiré l’attention car elle marque une prise de position officielle alors que la bataille juridique se poursuit. Blue Elephant a aussi dévoilé de nouvelles lignes de produits et un nouveau concept de magasin. L’évolution du litige et l’orientation de la marque devraient rester suivies par le secteur. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بلو إليفانت ترد على جدل تقليد جنتل مونستر في أول مؤتمر صحفي لها",
-        "excerpt": "عقدت بلو إليفانت أول مؤتمر صحفي منذ إطلاقها، وكشفت للمرة الأولى موقفها من النزاع القانوني مع جنتل مونستر، إلى جانب عرض خطوط منتجات ومفهوم متجر جديد.",
-        "body": "عقدت بلو إليفانت أول مؤتمر صحفي منذ إطلاقها، وأعلنت للمرة الأولى منذ نزاعها القانوني مع جنتل مونستر موقفها من جدل التقليد. وقال الرئيس التنفيذي كو كيونغ مين إن طبيعة منتجات النظارات تجعل ابتكار تصاميم شديدة التفرد أمرا صعبا، مضيفا أن استخدام المراجع أمر شائع في صناعة الأزياء. وحظي المؤتمر بالاهتمام لأنه مثل ردا رسميا من الشركة في ظل استمرار المواجهة القانونية. كما كشفت بلو إليفانت عن خطوط منتجات جديدة ومفهوم جديد للمتاجر. ومن المتوقع أن يظل مسار النزاع القانوني واتجاه تشغيل العلامة محل اهتمام في القطاع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Blue Elephant ने Gentle Monster विवाद पर पहली प्रेस मीट में रखी सीधी बात",
-        "excerpt": "Blue Elephant ने लॉन्च के बाद अपनी पहली प्रेस मीट में Gentle Monster के साथ कानूनी विवाद के बाद पहली बार नकल विवाद पर रुख रखा और नई उत्पाद लाइन व स्टोर कॉन्सेप्ट दिखाए।",
-        "body": "Blue Elephant ने लॉन्च के बाद अपनी पहली प्रेस मीट आयोजित की और Gentle Monster के साथ कानूनी विवाद के बाद पहली बार ‘नकल विवाद’ पर अपना रुख बताया। सीईओ Ko Kyung-min ने कहा कि चश्मे जैसे उत्पादों की प्रकृति के कारण बेहद अलग डिजाइन बनाना कठिन होता है, और फैशन उद्योग में रेफरेंस का उपयोग सामान्य बात है। यह बैठक इसलिए ध्यान में रही क्योंकि जारी कानूनी टकराव के बीच कंपनी ने आधिकारिक रूप से अपनी स्थिति सामने रखी। Blue Elephant ने विवाद पर स्पष्टीकरण के साथ नई उत्पाद लाइन और नया स्टोर कॉन्सेप्ट भी पेश किया। आगे कानूनी विवाद की दिशा और ब्रांड संचालन की रणनीति उद्योग की रुचि का विषय बने रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Blue Elephant Hadapi Isu Meniru Gentle Monster dalam Jumpa Pers Pertama",
-        "excerpt": "Blue Elephant menggelar jumpa pers pertama sejak peluncuran, untuk pertama kalinya membahas sengketa hukum dengan Gentle Monster serta memperkenalkan lini produk dan konsep toko baru.",
-        "body": "Blue Elephant menggelar jumpa pers pertama sejak peluncurannya dan, untuk pertama kalinya setelah sengketa hukum dengan Gentle Monster, menyampaikan posisi terkait kontroversi dugaan peniruan. CEO Ko Kyung-min mengatakan bahwa karena karakter produk kacamata, sulit menghasilkan desain yang benar-benar unik, serta menyebut penggunaan referensi sebagai hal umum di industri mode. Acara ini menarik perhatian karena menjadi tanggapan resmi perusahaan saat proses hukum masih berlangsung. Blue Elephant juga memperkenalkan lini produk baru dan konsep toko baru. Perkembangan sengketa hukum serta arah operasional merek diperkirakan tetap menjadi perhatian industri. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "58ffbdbc95bc",
-    "slug": "트럼프-합의-가능성-크다더니이란-항구-공습한-미군-호르무즈-긴장-고조-117547",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T22:35:48.182Z",
-    "updatedAt": "2026-05-07T22:35:48.182Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12040680",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12040680",
-    "titleFingerprint": "d8154e591146b92aa90decf5e1cabab30be2ca2b",
-    "dedupKeys": [
-      "58ffbdbc95bc837428b1877aabd6ae3084e37639",
-      "d8154e591146b92aa90decf5e1cabab30be2ca2b",
-      "611d1f2fab0b71e555ad5461ce71b380c58a0bf6"
-    ],
-    "imageUrl": "/images/articles/58ffbdbc95bc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미군 이란 케슘항·반다르아바스 공습 보도, 호르무즈 긴장 다시 고조",
-        "excerpt": "미군이 7일 현지시간 이란 케슘 항구와 반다르아바스를 공습했다는 미국 매체 기자의 보도가 나오며 호르무즈 해협을 둘러싼 긴장이 커지고 있다.",
-        "body": "미군이 7일 현지시간 이란의 케슘 항구와 반다르아바스를 공습했다고 미국 매체 기자가 전했다. 로이터통신은 폭스뉴스 기자가 엑스, 옛 트위터에 올린 게시물에서 미국 고위 당국자를 인용해 이 같은 내용을 전했다고 보도했다. 원문 제목은 도널드 트럼프 미국 대통령이 이란과의 합의 가능성이 크다고 언급한 뒤 나온 공습 보도라는 점을 부각했다. 케슘 항구와 반다르아바스는 호르무즈 해협 인근 긴장과 직결되는 지역으로 거론된다. 이번 보도는 미국과 이란 간 협상 기대가 제기된 상황에서 군사적 긴장을 다시 키우는 변수로 해석된다. 다만 원문은 추가 피해 규모나 이란 측 반응은 전하지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "US Strike on Iran’s Qeshm Port and Bandar Abbas Reported as Hormuz Tensions Rise",
-        "excerpt": "A US media reporter said US forces struck Iran’s Qeshm port and Bandar Abbas on May 7 local time, raising tensions around the Strait of Hormuz.",
-        "body": "US forces struck Iran’s Qeshm port and Bandar Abbas on May 7 local time, according to a US media reporter. Reuters reported that a Fox News journalist posted on X, formerly Twitter, citing a senior US official. The original article highlighted that the report came after US President Donald Trump had said there was a strong possibility of a deal with Iran. Qeshm port and Bandar Abbas are areas closely linked to tensions near the Strait of Hormuz. The report is being viewed as a factor that could heighten military tension again while expectations for US-Iran talks had been raised. The original article did not provide additional details on damage or Iran’s response. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "米軍がイランのケシュム港・バンダルアバス空襲と報道、ホルムズ緊張高まる",
-        "excerpt": "米軍が現地時間7日、イランのケシュム港とバンダルアバスを空襲したとの米メディア記者の報道を受け、ホルムズ海峡周辺の緊張が高まっている。",
-        "body": "米軍が現地時間7日、イランのケシュム港とバンダルアバスを空襲したと米メディアの記者が伝えた。ロイター通信は、FOXニュースの記者がX、旧ツイッターへの投稿で米政府高官を引用し、この内容を伝えたと報じた。原文の見出しは、ドナルド・トランプ米大統領がイランとの合意の可能性は大きいと述べた後に出た空襲報道である点を強調している。ケシュム港とバンダルアバスは、ホルムズ海峡周辺の緊張と直結する地域として言及される。今回の報道は、米国とイランの協議への期待が出ていた状況で、軍事的緊張を再び高める要因と受け止められる。ただし原文は追加の被害規模やイラン側の反応を伝えていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "美军被曝空袭伊朗格什姆港和阿巴斯港，霍尔木兹紧张升温",
-        "excerpt": "美国媒体记者称，美军于当地时间7日空袭伊朗格什姆港和阿巴斯港，围绕霍尔木兹海峡的紧张局势随之加剧。",
-        "body": "美国媒体记者称，美军于当地时间7日空袭了伊朗的格什姆港和阿巴斯港。路透社报道称，福克斯新闻记者在X，即原推特上发布帖文，援引美国高级官员披露了这一消息。原文标题强调，这一空袭报道出现在美国总统唐纳德·特朗普表示与伊朗达成协议的可能性很大之后。格什姆港和阿巴斯港被视为与霍尔木兹海峡附近紧张局势直接相关的地区。该报道被认为可能在美伊谈判期待升温之际，再次推高军事紧张。不过，原文未提及进一步的损失规模或伊朗方面回应。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Reportan ataque de EE. UU. a Qeshm y Bandar Abbas en Irán; sube tensión en Ormuz",
-        "excerpt": "Un periodista de un medio estadounidense informó que fuerzas de EE. UU. atacaron el 7 de mayo, hora local, el puerto iraní de Qeshm y Bandar Abbas, elevando la tensión en Ormuz.",
-        "body": "Fuerzas estadounidenses atacaron el 7 de mayo, hora local, el puerto iraní de Qeshm y Bandar Abbas, informó un periodista de un medio de EE. UU. Reuters señaló que un periodista de Fox News publicó el dato en X, antes Twitter, citando a un alto funcionario estadounidense. El título original subrayó que el reporte del ataque llegó después de que el presidente Donald Trump dijera que había una alta posibilidad de acuerdo con Irán. Qeshm y Bandar Abbas son zonas vinculadas directamente a la tensión cerca del estrecho de Ormuz. La información se interpreta como un factor que podría volver a elevar la tensión militar en momentos en que habían surgido expectativas de diálogo entre Washington y Teherán. El texto original no informó daños adicionales ni una reacción iraní. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ataque dos EUA a Qeshm e Bandar Abbas no Irã é relatado; tensão sobe em Ormuz",
-        "excerpt": "Um jornalista de mídia dos EUA afirmou que forças americanas atacaram em 7 de maio, hora local, o porto iraniano de Qeshm e Bandar Abbas, ampliando a tensão em Ormuz.",
-        "body": "Forças dos EUA atacaram em 7 de maio, hora local, o porto iraniano de Qeshm e Bandar Abbas, segundo um jornalista de um veículo americano. A Reuters informou que um repórter da Fox News publicou a informação no X, antigo Twitter, citando uma autoridade sênior dos Estados Unidos. O título original destacou que o relato do ataque surgiu depois de o presidente Donald Trump afirmar que havia grande possibilidade de acordo com o Irã. Qeshm e Bandar Abbas são áreas diretamente associadas às tensões perto do estreito de Ormuz. A notícia é vista como um fator capaz de elevar novamente a tensão militar em meio a expectativas de negociação entre EUA e Irã. O texto original não trouxe detalhes adicionais sobre danos nem reação iraniana. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Bericht über US-Angriff auf Irans Qeschm und Bandar Abbas verschärft Hormus-Spannung",
-        "excerpt": "Ein US-Medienreporter meldete, US-Streitkräfte hätten am 7. Mai Ortszeit Irans Hafen Qeschm und Bandar Abbas angegriffen; die Spannung um Hormus nimmt zu.",
-        "body": "US-Streitkräfte haben am 7. Mai Ortszeit den iranischen Hafen Qeschm und Bandar Abbas angegriffen, berichtete ein Reporter eines US-Mediums. Reuters meldete, ein Journalist von Fox News habe dies auf X, früher Twitter, unter Berufung auf einen hochrangigen US-Regierungsvertreter geschrieben. Der ursprüngliche Artikel hob hervor, dass der Bericht nach Äußerungen von US-Präsident Donald Trump erschien, wonach die Möglichkeit einer Einigung mit Iran groß sei. Qeschm und Bandar Abbas gelten als Orte, die eng mit den Spannungen nahe der Straße von Hormus verbunden sind. Der Bericht wird als Faktor gesehen, der die militärische Spannung erneut erhöhen könnte, während Erwartungen an Gespräche zwischen den USA und Iran aufgekommen waren. Angaben zu weiteren Schäden oder einer iranischen Reaktion enthielt der Originaltext nicht. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Frappe américaine signalée sur Qeshm et Bandar Abbas en Iran, tension accrue à Ormuz",
-        "excerpt": "Un journaliste américain a rapporté que l’armée américaine avait frappé le 7 mai, heure locale, le port iranien de Qeshm et Bandar Abbas, ravivant la tension autour d’Ormuz.",
-        "body": "L’armée américaine a frappé le 7 mai, heure locale, le port iranien de Qeshm et Bandar Abbas, selon un journaliste d’un média américain. Reuters a rapporté qu’un journaliste de Fox News avait publié l’information sur X, anciennement Twitter, en citant un haut responsable américain. Le titre original soulignait que ce signalement intervenait après que le président Donald Trump eut déclaré qu’un accord avec l’Iran était très possible. Qeshm et Bandar Abbas sont des zones directement liées aux tensions près du détroit d’Ormuz. Cette information est perçue comme un facteur susceptible d’accroître de nouveau la tension militaire alors que des attentes de discussions entre Washington et Téhéran avaient émergé. Le texte original ne mentionnait pas de bilan supplémentaire ni de réaction iranienne. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تقرير عن قصف أميركي لميناء قشم وبندر عباس في إيران يرفع توتر هرمز",
-        "excerpt": "أفاد صحفي في وسيلة إعلام أميركية بأن القوات الأميركية قصفت في 7 مايو بالتوقيت المحلي ميناء قشم وبندر عباس في إيران، ما زاد التوتر حول مضيق هرمز.",
-        "body": "أفاد صحفي في وسيلة إعلام أميركية بأن القوات الأميركية قصفت في 7 مايو بالتوقيت المحلي ميناء قشم وبندر عباس في إيران. وذكرت رويترز أن صحفيا في فوكس نيوز نشر المعلومة على منصة إكس، تويتر سابقا، نقلا عن مسؤول أميركي كبير. وأبرز العنوان الأصلي أن تقرير القصف جاء بعد تصريح الرئيس الأميركي دونالد ترامب بأن احتمال التوصل إلى اتفاق مع إيران كبير. ويشار إلى ميناء قشم وبندر عباس باعتبارهما منطقتين مرتبطتين مباشرة بالتوتر قرب مضيق هرمز. ويُنظر إلى هذا التقرير كعامل قد يزيد التوتر العسكري مجددا في وقت ظهرت فيه توقعات بشأن محادثات بين الولايات المتحدة وإيران. ولم يورد النص الأصلي تفاصيل إضافية عن حجم الأضرار أو رد إيران. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ईरान के क़ेश्म बंदरगाह और बंदर अब्बास पर अमेरिकी हमले की रिपोर्ट, होर्मुज़ तनाव बढ़ा",
-        "excerpt": "अमेरिकी मीडिया के एक पत्रकार ने कहा कि अमेरिकी सेना ने 7 मई स्थानीय समय पर ईरान के क़ेश्म बंदरगाह और बंदर अब्बास पर हमला किया, जिससे होर्मुज़ क्षेत्र में तनाव बढ़ा।",
-        "body": "अमेरिकी मीडिया के एक पत्रकार के अनुसार, अमेरिकी सेना ने 7 मई स्थानीय समय पर ईरान के क़ेश्म बंदरगाह और बंदर अब्बास पर हमला किया। रॉयटर्स ने बताया कि फॉक्स न्यूज के एक पत्रकार ने एक्स, पूर्व ट्विटर, पर एक वरिष्ठ अमेरिकी अधिकारी के हवाले से यह जानकारी पोस्ट की। मूल शीर्षक में यह बात प्रमुखता से रखी गई कि यह हमले की रिपोर्ट अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के उस बयान के बाद आई, जिसमें उन्होंने ईरान के साथ समझौते की संभावना बड़ी बताई थी। क़ेश्म बंदरगाह और बंदर अब्बास को होर्मुज़ जलडमरूमध्य के पास तनाव से सीधे जुड़े क्षेत्रों के रूप में देखा जाता है। यह रिपोर्ट ऐसे समय सैन्य तनाव बढ़ाने वाला कारक मानी जा रही है जब अमेरिका और ईरान के बीच बातचीत की उम्मीद उठी थी। मूल लेख में अतिरिक्त नुकसान या ईरान की प्रतिक्रिया का विवरण नहीं दिया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "AS Dilaporkan Serang Pelabuhan Qeshm dan Bandar Abbas Iran, Ketegangan Hormuz Naik",
-        "excerpt": "Seorang jurnalis media AS melaporkan pasukan Amerika menyerang Pelabuhan Qeshm dan Bandar Abbas di Iran pada 7 Mei waktu setempat, memicu kenaikan ketegangan di Hormuz.",
-        "body": "Pasukan AS menyerang Pelabuhan Qeshm dan Bandar Abbas di Iran pada 7 Mei waktu setempat, menurut seorang jurnalis media Amerika. Reuters melaporkan bahwa jurnalis Fox News menyampaikan informasi itu dalam unggahan di X, sebelumnya Twitter, dengan mengutip seorang pejabat senior AS. Judul asli menyoroti bahwa laporan serangan ini muncul setelah Presiden AS Donald Trump mengatakan peluang kesepakatan dengan Iran cukup besar. Pelabuhan Qeshm dan Bandar Abbas disebut sebagai wilayah yang berkaitan langsung dengan ketegangan di sekitar Selat Hormuz. Laporan ini dipandang sebagai faktor yang dapat kembali meningkatkan ketegangan militer saat harapan pembicaraan AS-Iran sempat muncul. Teks asli tidak menyampaikan rincian tambahan mengenai kerusakan atau tanggapan Iran. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3d04df454756",
-    "slug": "hd현대중공업-데이터센터향-엔진-수주-중장기-성장-기대-목표가-415828",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T22:34:45.650Z",
-    "updatedAt": "2026-05-07T22:34:45.651Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12040681",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040681",
-    "titleFingerprint": "413fc0a186de4cb109aa8adcae45e981b810ed2b",
-    "dedupKeys": [
-      "3d04df454756fb92d1f52065237593151c0048eb",
-      "413fc0a186de4cb109aa8adcae45e981b810ed2b",
-      "2a2ce7709e35999eaefd8eb117926b6bdede60ff"
-    ],
-    "imageUrl": "/images/articles/3d04df454756.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HD현대중공업 목표가 90만원 상향, 데이터센터 엔진 수주 성장 기대",
-        "excerpt": "하나증권은 8일 HD현대중공업의 데이터센터향 엔진 공급 수주가 중장기 성장으로 이어질 수 있다며 목표주가를 74만원에서 90만원으로 올렸다.",
-        "body": "하나증권은 8일 HD현대중공업에 대해 데이터센터향 엔진 공급 수주를 통한 중장기 성장 가능성을 반영해 목표주가를 기존 74만원에서 90만원으로 상향 조정했다. 이번 조정은 HD현대중공업이 데이터센터용 엔진 공급 수주를 확보한 점이 성장 기대를 높인 데 따른 것이다. 데이터센터 관련 수요가 엔진 사업의 새로운 성장 축으로 평가되면서 증권가는 향후 실적 기여 가능성에 주목하고 있다. 다만 기사에 제시된 핵심 내용은 목표가 상향과 수주 기반의 중장기 성장 기대에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "HD Hyundai Heavy target raised to 900,000 won on data center engine orders",
-        "excerpt": "Hana Securities on the 8th raised its target price for HD Hyundai Heavy Industries from 740,000 won to 900,000 won, citing mid- to long-term growth from data center engine supply orders.",
-        "body": "Hana Securities said on the 8th that it raised its target price for HD Hyundai Heavy Industries from 740,000 won to 900,000 won, reflecting expectations for mid- to long-term growth through engine supply orders for data centers. The revision follows expectations that the company’s data center engine supply orders could strengthen its growth outlook. As data center-related demand is viewed as a potential new growth driver for the engine business, the market is watching its possible contribution to future earnings. The article’s core facts are limited to the target price increase and growth expectations based on the orders. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "HD現代重工業の目標株価90万ウォンに引き上げ、データセンター向けエンジン受注に期待",
-        "excerpt": "ハナ証券は8日、HD現代重工業のデータセンター向けエンジン供給受注による中長期成長を見込み、目標株価を74万ウォンから90万ウォンへ引き上げた。",
-        "body": "ハナ証券は8日、HD現代重工業について、データセンター向けエンジン供給受注を通じた中長期的な成長可能性を反映し、目標株価を従来の74万ウォンから90万ウォンへ引き上げた。今回の調整は、同社がデータセンター用エンジン供給受注を確保したことが成長期待を高めたためだ。データセンター関連需要がエンジン事業の新たな成長軸として評価される中、市場では今後の業績寄与の可能性に注目している。ただし、記事で示された核心内容は目標株価の引き上げと受注に基づく中長期成長期待に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "HD现代重工目标价上调至90万韩元，数据中心发动机订单受关注",
-        "excerpt": "韩亚证券8日表示，看好HD现代重工通过数据中心发动机供应订单实现中长期增长，将目标价从74万韩元上调至90万韩元。",
-        "body": "韩亚证券8日表示，已将HD现代重工的目标股价从此前的74万韩元上调至90万韩元，理由是反映了其通过数据中心发动机供应订单实现中长期增长的可能性。此次调整的背景是，HD现代重工获得数据中心用发动机供应订单，提升了市场对其成长性的期待。随着数据中心相关需求被视为发动机业务新的增长支点，市场正关注其未来对业绩的贡献可能。不过，报道所列核心事实仅限于目标价上调以及基于订单的中长期增长预期。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "HD Hyundai Heavy sube precio objetivo a 900.000 wones por pedidos de motores para centros de datos",
-        "excerpt": "Hana Securities elevó el día 8 el precio objetivo de HD Hyundai Heavy Industries de 740.000 a 900.000 wones por expectativas de crecimiento a medio y largo plazo ligadas a motores para centros de datos.",
-        "body": "Hana Securities informó el día 8 que elevó el precio objetivo de HD Hyundai Heavy Industries de 740.000 a 900.000 wones, al reflejar expectativas de crecimiento a medio y largo plazo mediante pedidos de suministro de motores para centros de datos. El ajuste responde a que esos pedidos han reforzado la perspectiva de crecimiento de la compañía. Mientras la demanda relacionada con centros de datos se evalúa como un posible nuevo eje de crecimiento para el negocio de motores, el mercado observa su eventual contribución a los resultados futuros. Los datos centrales del artículo se limitan al alza del precio objetivo y a la expectativa de crecimiento basada en los pedidos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "HD Hyundai Heavy tem preço-alvo elevado a 900 mil won por motores para data centers",
-        "excerpt": "A Hana Securities elevou no dia 8 o preço-alvo da HD Hyundai Heavy Industries de 740 mil para 900 mil won, citando crescimento de médio e longo prazo com pedidos de motores para data centers.",
-        "body": "A Hana Securities informou no dia 8 que elevou o preço-alvo da HD Hyundai Heavy Industries de 740 mil para 900 mil won, refletindo expectativas de crescimento de médio e longo prazo por meio de pedidos de fornecimento de motores para data centers. A revisão ocorre porque esses pedidos aumentaram a expectativa de crescimento da empresa. Com a demanda relacionada a data centers sendo vista como um possível novo eixo de crescimento para o negócio de motores, o mercado acompanha sua possível contribuição para os resultados futuros. Os fatos centrais do artigo se limitam à elevação do preço-alvo e à expectativa de crescimento baseada nos pedidos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "HD Hyundai Heavy: Kursziel auf 900.000 Won angehoben, Datenzentrum-Motoraufträge im Fokus",
-        "excerpt": "Hana Securities hob am 8. das Kursziel für HD Hyundai Heavy Industries von 740.000 auf 900.000 Won an und verwies auf mittelfristiges Wachstum durch Motorlieferungen für Datenzentren.",
-        "body": "Hana Securities teilte am 8. mit, das Kursziel für HD Hyundai Heavy Industries von bisher 740.000 Won auf 900.000 Won angehoben zu haben. Grundlage sind Erwartungen an mittel- bis langfristiges Wachstum durch Aufträge zur Lieferung von Motoren für Datenzentren. Die Anpassung spiegelt wider, dass solche Aufträge die Wachstumserwartungen für das Unternehmen erhöht haben. Da die Nachfrage rund um Datenzentren als möglicher neuer Wachstumstreiber für das Motorengeschäft gilt, richtet sich der Blick auf einen möglichen Beitrag zu künftigen Ergebnissen. Die Kernaussagen des Artikels beschränken sich auf die Kurszielanhebung und die auf den Aufträgen basierende Wachstumserwartung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "HD Hyundai Heavy voit son objectif relevé à 900 000 wons grâce aux moteurs pour data centers",
-        "excerpt": "Hana Securities a relevé le 8 son objectif de cours sur HD Hyundai Heavy Industries de 740 000 à 900 000 wons, citant la croissance attendue à moyen et long terme liée aux moteurs pour data centers.",
-        "body": "Hana Securities a indiqué le 8 avoir relevé son objectif de cours sur HD Hyundai Heavy Industries de 740 000 à 900 000 wons, en intégrant les perspectives de croissance à moyen et long terme liées aux commandes de fourniture de moteurs pour centres de données. Cette révision s’explique par le fait que ces commandes renforcent les attentes de croissance de l’entreprise. Alors que la demande liée aux centres de données est considérée comme un possible nouveau relais pour l’activité moteurs, le marché surveille sa contribution potentielle aux résultats futurs. Les faits essentiels de l’article se limitent à la hausse de l’objectif de cours et aux attentes de croissance fondées sur les commandes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لـ HD Hyundai Heavy إلى 900 ألف وون بدعم طلبات محركات مراكز البيانات",
-        "excerpt": "رفعت هانا للأوراق المالية في الثامن السعر المستهدف لسهم HD Hyundai Heavy Industries من 740 ألف وون إلى 900 ألف وون، مشيرة إلى نمو متوسط وطويل الأجل من طلبات محركات مراكز البيانات.",
-        "body": "قالت هانا للأوراق المالية في الثامن إنها رفعت السعر المستهدف لسهم HD Hyundai Heavy Industries من 740 ألف وون إلى 900 ألف وون، بعد احتساب توقعات نمو متوسط وطويل الأجل من خلال طلبات توريد محركات لمراكز البيانات. وجاء هذا التعديل لأن طلبات محركات مراكز البيانات عززت توقعات النمو للشركة. ومع اعتبار الطلب المرتبط بمراكز البيانات محورا محتملا جديدا للنمو في نشاط المحركات، يراقب السوق إمكانية مساهمته في الأرباح المستقبلية. وتقتصر الحقائق الأساسية في المقال على رفع السعر المستهدف وتوقعات النمو المستندة إلى الطلبات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "HD Hyundai Heavy का लक्ष्य मूल्य 900,000 वॉन, डेटा सेंटर इंजन ऑर्डर से वृद्धि की उम्मीद",
-        "excerpt": "हाना सिक्योरिटीज ने 8 तारीख को HD Hyundai Heavy Industries का लक्ष्य मूल्य 740,000 वॉन से बढ़ाकर 900,000 वॉन किया, डेटा सेंटर इंजन आपूर्ति ऑर्डर से मध्यम से दीर्घकालिक वृद्धि की उम्मीद जताई।",
-        "body": "हाना सिक्योरिटीज ने 8 तारीख को कहा कि उसने HD Hyundai Heavy Industries का लक्ष्य मूल्य मौजूदा 740,000 वॉन से बढ़ाकर 900,000 वॉन कर दिया है। यह बदलाव डेटा सेंटर के लिए इंजन आपूर्ति ऑर्डर से मध्यम से दीर्घकालिक वृद्धि की संभावना को दर्शाता है। कंपनी के डेटा सेंटर इंजन आपूर्ति ऑर्डर ने वृद्धि की उम्मीदों को मजबूत किया है। डेटा सेंटर से जुड़ी मांग को इंजन कारोबार के संभावित नए वृद्धि आधार के रूप में देखा जा रहा है, इसलिए बाजार भविष्य की आय में इसके योगदान पर नजर रख रहा है। लेख के मुख्य तथ्य लक्ष्य मूल्य वृद्धि और ऑर्डर आधारित वृद्धि अपेक्षा तक सीमित हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Target HD Hyundai Heavy naik ke 900.000 won berkat pesanan mesin pusat data",
-        "excerpt": "Hana Securities pada tanggal 8 menaikkan target harga HD Hyundai Heavy Industries dari 740.000 won menjadi 900.000 won, dengan alasan potensi pertumbuhan jangka menengah hingga panjang dari pesanan mesin untuk pusat data.",
-        "body": "Hana Securities pada tanggal 8 menyatakan telah menaikkan target harga HD Hyundai Heavy Industries dari 740.000 won menjadi 900.000 won, mencerminkan ekspektasi pertumbuhan jangka menengah hingga panjang melalui pesanan pasokan mesin untuk pusat data. Penyesuaian ini dilakukan karena pesanan mesin pusat data tersebut meningkatkan prospek pertumbuhan perusahaan. Ketika permintaan terkait pusat data dinilai sebagai kemungkinan poros pertumbuhan baru bagi bisnis mesin, pasar memperhatikan potensi kontribusinya terhadap kinerja mendatang. Fakta utama dalam artikel terbatas pada kenaikan target harga dan ekspektasi pertumbuhan berbasis pesanan tersebut. Sumber: mk.co.kr"
       }
     }
   }
