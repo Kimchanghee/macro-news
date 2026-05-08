@@ -1,5 +1,230 @@
 [
   {
+    "id": "5c7932c4c055",
+    "slug": "말馬-없는-마차를-현실로-만든-발명가무모한-도전이-만든-위대한-성공-928272",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T08:04:52.053Z",
+    "updatedAt": "2026-05-08T08:04:52.053Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12039652",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12039652",
+    "titleFingerprint": "dfde7be7d0dc397a685e5f73f933f45728d8d9d5",
+    "dedupKeys": [
+      "5c7932c4c05525ee06ca5cd5f3683ec1016a0a25",
+      "dfde7be7d0dc397a685e5f73f933f45728d8d9d5",
+      "e174965a4e0f65caf1aaad509b58ee964867ee12"
+    ],
+    "imageUrl": "/images/articles/5c7932c4c055.png",
+    "i18n": {
+      "ko": {
+        "title": "카를 벤츠, 세계 최초 자동차로 ‘말 없는 마차’ 시대를 열다",
+        "excerpt": "19세기 중반 유럽 산업혁명기, 카를 벤츠는 증기기관이 이동 개념을 바꾸던 흐름 속에서 세계 최초의 자동차를 만들며 ‘말 없는 마차’를 현실로 이끌었다.",
+        "body": "19세기 중반 유럽이 산업혁명으로 ‘속도의 전환기’를 맞던 시기, 발명가 카를 벤츠는 세계 최초의 자동차를 만들어 말에 의존하던 이동 방식을 바꾸는 도전에 나섰다. 증기기관은 당시 공장 생산뿐 아니라 이동의 개념까지 흔들며 새로운 도로의 시대를 열고 있었다. 벤츠의 시도는 ‘말 없는 마차’라는 발상을 현실로 옮긴 사례로, 이후 자동차가 교통과 산업의 방향을 바꾸는 출발점이 됐다. 무모해 보였던 도전이 위대한 성공으로 이어졌다는 점에서 그의 발명은 산업혁명기의 대표적 전환으로 평가된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Karl Benz Opened the Age of the Horseless Carriage With the First Car",
+        "excerpt": "In mid-19th-century Europe, as the Industrial Revolution and steam engines reshaped movement, Karl Benz built the world’s first automobile and made the horseless carriage real.",
+        "body": "In mid-19th-century Europe, when the Industrial Revolution was turning the continent into an era of speed, inventor Karl Benz took on the challenge of changing mobility by creating the world’s first automobile. Steam engines were transforming not only factory production but also the idea of movement, opening a new age of roads. Benz’s work turned the idea of a “horseless carriage” into reality and became a starting point for automobiles to alter transport and industry. What once looked like a reckless attempt is remembered as a great success and a symbolic shift of the Industrial Revolution. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "カール・ベンツ、世界初の自動車で「馬なし馬車」の時代を開く",
+        "excerpt": "19世紀半ばの欧州で、産業革命と蒸気機関が移動の概念を変える中、カール・ベンツは世界初の自動車を作り「馬なし馬車」を現実にした。",
+        "body": "19世紀半ばの欧州が産業革命によって「速度の転換期」を迎えていた時代、発明家カール・ベンツは世界初の自動車を作り、馬に頼っていた移動方式を変える挑戦に乗り出した。当時、蒸気機関は工場での生産だけでなく移動の概念まで揺さぶり、新しい道路の時代を開いていた。ベンツの試みは「馬なし馬車」という発想を現実に移した事例であり、その後、自動車が交通と産業の方向を変える出発点となった。無謀に見えた挑戦が偉大な成功につながった点で、彼の発明は産業革命期の代表的な転換と評価される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "卡尔·本茨以世界首辆汽车开启“无马马车”时代",
+        "excerpt": "19世纪中叶欧洲处于工业革命浪潮中，蒸汽机改变移动观念，卡尔·本茨制造出世界首辆汽车，让“无马马车”成为现实。",
+        "body": "19世纪中叶，欧洲在工业革命推动下进入“速度的转折期”，发明家卡尔·本茨制造出世界首辆汽车，挑战长期依赖马匹的移动方式。当时，蒸汽机不仅改变工厂生产，也动摇了人们对移动的理解，开启了新的道路时代。本茨的尝试把“无马马车”的构想变成现实，并成为后来汽车改变交通与产业方向的起点。看似鲁莽的挑战最终走向伟大成功，因此他的发明被视为工业革命时期具有代表性的转折。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Karl Benz abrió la era del carruaje sin caballos con el primer automóvil",
+        "excerpt": "En la Europa de mediados del siglo XIX, cuando la Revolución Industrial y la máquina de vapor cambiaban la movilidad, Karl Benz creó el primer automóvil del mundo.",
+        "body": "A mediados del siglo XIX, cuando Europa vivía una transición marcada por la velocidad gracias a la Revolución Industrial, el inventor Karl Benz asumió el desafío de cambiar una movilidad que dependía de los caballos al crear el primer automóvil del mundo. La máquina de vapor transformaba entonces no solo la producción en las fábricas, sino también el concepto de desplazamiento, abriendo una nueva era en los caminos. El intento de Benz convirtió en realidad la idea del “carruaje sin caballos” y fue el punto de partida para que el automóvil cambiara el transporte y la industria. Aquella apuesta, que parecía temeraria, terminó como un gran éxito. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Karl Benz abriu a era da carruagem sem cavalos com o primeiro automóvel",
+        "excerpt": "Na Europa de meados do século XIX, enquanto a Revolução Industrial e o motor a vapor mudavam a mobilidade, Karl Benz criou o primeiro automóvel do mundo.",
+        "body": "Em meados do século XIX, quando a Europa vivia uma transição de velocidade impulsionada pela Revolução Industrial, o inventor Karl Benz assumiu o desafio de mudar a mobilidade dependente dos cavalos ao criar o primeiro automóvel do mundo. O motor a vapor transformava não apenas a produção nas fábricas, mas também o conceito de deslocamento, abrindo uma nova era nas estradas. A tentativa de Benz levou à realidade a ideia da “carruagem sem cavalos” e se tornou o ponto de partida para que o automóvel mudasse o transporte e a indústria. O que parecia uma aposta imprudente terminou como um grande sucesso. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Karl Benz eröffnete mit dem ersten Auto die Ära der pferdelosen Kutsche",
+        "excerpt": "Im Europa der Mitte des 19. Jahrhunderts veränderten Industrialisierung und Dampfmaschine die Mobilität; Karl Benz baute das erste Automobil der Welt.",
+        "body": "Mitte des 19. Jahrhunderts, als Europa durch die Industrielle Revolution eine Wende zur Geschwindigkeit erlebte, stellte sich Erfinder Karl Benz der Aufgabe, die von Pferden abhängige Fortbewegung zu verändern, und baute das erste Automobil der Welt. Die Dampfmaschine veränderte damals nicht nur die Produktion in Fabriken, sondern auch das Verständnis von Mobilität und eröffnete eine neue Ära der Straßen. Benz machte die Idee der „pferdelosen Kutsche“ Wirklichkeit und schuf einen Ausgangspunkt dafür, dass das Automobil Verkehr und Industrie neu ausrichtete. Was zunächst waghalsig wirkte, wurde zu einem großen Erfolg. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Karl Benz a lancé l’ère de la voiture sans cheval avec la première automobile",
+        "excerpt": "Dans l’Europe du milieu du XIXe siècle, alors que la révolution industrielle et la vapeur transformaient la mobilité, Karl Benz a créé la première automobile.",
+        "body": "Au milieu du XIXe siècle, alors que l’Europe entrait dans une période de transition vers la vitesse sous l’effet de la révolution industrielle, l’inventeur Karl Benz a relevé le défi de changer une mobilité encore dépendante des chevaux en créant la première automobile au monde. La machine à vapeur transformait alors non seulement la production en usine, mais aussi l’idée même du déplacement, ouvrant une nouvelle époque pour les routes. L’essai de Benz a rendu réelle l’idée de la « voiture sans cheval » et a marqué le point de départ d’un changement du transport et de l’industrie par l’automobile. Ce défi, qui semblait téméraire, est devenu un grand succès. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كارل بنز يفتح عصر العربة بلا خيول بأول سيارة في العالم",
+        "excerpt": "في أوروبا منتصف القرن التاسع عشر، ومع تغيّر مفهوم الحركة بفعل الثورة الصناعية والمحرك البخاري، صنع كارل بنز أول سيارة في العالم وجعل العربة بلا خيول واقعا.",
+        "body": "في منتصف القرن التاسع عشر، وبينما كانت أوروبا تعيش مرحلة انتقالية في مفهوم السرعة بفعل الثورة الصناعية، خاض المخترع كارل بنز تحديا لتغيير أسلوب التنقل المعتمد على الخيول عبر صنع أول سيارة في العالم. في ذلك الوقت، لم يغير المحرك البخاري الإنتاج في المصانع فقط، بل هز أيضا مفهوم الحركة وفتح عصرا جديدا للطرق. حوّل بنز فكرة «العربة بلا خيول» إلى واقع، وأصبحت محاولته نقطة انطلاق لتغيير اتجاه النقل والصناعة عبر السيارة. وما بدا تحديا متهورا انتهى إلى نجاح كبير، لذلك تعد اختراعاته تحولا بارزا في زمن الثورة الصناعية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कार्ल बेंज ने पहली कार से ‘बिना घोड़े की गाड़ी’ का युग शुरू किया",
+        "excerpt": "19वीं सदी के मध्य यूरोप में, जब औद्योगिक क्रांति और भाप इंजन आवाजाही की अवधारणा बदल रहे थे, कार्ल बेंज ने दुनिया की पहली कार बनाकर बिना घोड़े की गाड़ी को वास्तविकता बनाया।",
+        "body": "19वीं सदी के मध्य में यूरोप औद्योगिक क्रांति के कारण ‘गति के बदलाव’ के दौर से गुजर रहा था। इसी समय आविष्कारक कार्ल बेंज ने दुनिया की पहली कार बनाकर घोड़ों पर निर्भर आवाजाही को बदलने की चुनौती ली। भाप इंजन उस समय केवल कारखानों के उत्पादन को नहीं, बल्कि चलने-फिरने की अवधारणा को भी बदल रहा था और सड़कों के नए युग की शुरुआत कर रहा था। बेंज का प्रयास ‘बिना घोड़े की गाड़ी’ की कल्पना को वास्तविकता में बदलने वाला उदाहरण बना। आगे चलकर यही ऑटोमोबाइल परिवहन और उद्योग की दिशा बदलने का शुरुआती बिंदु बना। जो चुनौती असावधान लगती थी, वह महान सफलता में बदली। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Karl Benz Membuka Era Kereta Tanpa Kuda Lewat Mobil Pertama Dunia",
+        "excerpt": "Di Eropa pertengahan abad ke-19, saat Revolusi Industri dan mesin uap mengubah konsep mobilitas, Karl Benz membuat mobil pertama dunia dan mewujudkan kereta tanpa kuda.",
+        "body": "Pada pertengahan abad ke-19, ketika Eropa memasuki masa peralihan menuju era kecepatan akibat Revolusi Industri, penemu Karl Benz mengambil tantangan untuk mengubah mobilitas yang bergantung pada kuda dengan membuat mobil pertama di dunia. Mesin uap saat itu tidak hanya mengubah produksi pabrik, tetapi juga mengguncang konsep berpindah tempat dan membuka era baru jalan raya. Upaya Benz mewujudkan gagasan “kereta tanpa kuda” dan menjadi titik awal bagi mobil untuk mengubah arah transportasi serta industri. Tantangan yang tampak nekat itu akhirnya dikenang sebagai keberhasilan besar dan perubahan penting pada masa Revolusi Industri. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f03f9e53faf5",
+    "slug": "퇴직연금-머니무브-한투는-연금자산-누적-1조원-넘어서-799096",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T08:03:48.581Z",
+    "updatedAt": "2026-05-08T08:03:48.581Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041243",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041243",
+    "titleFingerprint": "bd7b89c92660361488294654d0491788b6725f40",
+    "dedupKeys": [
+      "f03f9e53faf5ef8f2a7f1e5db167ab13bd7c2cf5",
+      "bd7b89c92660361488294654d0491788b6725f40",
+      "983688d15043a0f7ef46d96dc23069026abb2598"
+    ],
+    "imageUrl": "/images/articles/f03f9e53faf5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "퇴직연금 머니무브 본격화, 한국투자 연금자산 누적 1조원 돌파",
+        "excerpt": "증시 활황으로 퇴직연금의 실적배당형 상품 비중이 높아지는 가운데, 한국투자증권의 연금자산 누적액이 1조원을 넘어서며 머니무브 흐름이 주목받고 있다.",
+        "body": "증시 활황을 배경으로 퇴직연금 시장에서 실적배당형 상품 비중이 높아지고 있다. 2024년 10월부터 퇴직연금 가입자는 기존에 운용하던 상품을 해지하지 않고도 다른 금융사로 옮길 수 있게 됐다. 이 같은 제도 변화와 시장 흐름 속에서 한국투자증권은 연금자산 누적액이 1조원을 넘어섰다. 퇴직연금 가입자의 선택 폭이 넓어지면서 금융사 간 연금자산 유치 경쟁도 이어질 것으로 보인다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "Retirement pension money move grows as Korea Investment tops 1 trillion won",
+        "excerpt": "As the stock market strengthens, retirement pensions are shifting further toward performance-linked products, while Korea Investment Securities’ accumulated pension assets have surpassed 1 trillion won.",
+        "body": "Amid a strong stock market, the share of performance-linked products in the retirement pension market is rising. Since October 2024, retirement pension subscribers have been able to move their existing products to another financial firm without terminating them. Against this backdrop of regulatory change and market momentum, Korea Investment Securities has seen its accumulated pension assets exceed 1 trillion won. As subscribers gain more flexibility, competition among financial firms to attract pension assets is expected to continue. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "退職年金の資金移動が本格化、韓国投資の年金資産が累計1兆ウォン突破",
+        "excerpt": "株式市場の活況を受け、退職年金で実績配当型商品の比率が高まるなか、韓国投資証券の年金資産累計額が1兆ウォンを超えた。",
+        "body": "株式市場の活況を背景に、退職年金市場では実績配当型商品の比率が高まっている。2024年10月から、退職年金加入者は従来運用していた商品を解約せずに、別の金融会社へ移すことができるようになった。こうした制度変更と市場の流れのなかで、韓国投資証券の年金資産累計額は1兆ウォンを超えた。加入者の選択肢が広がることで、金融会社間の年金資産獲得競争も続くとみられる。出典はmk.co.kr。"
+      },
+      "zh": {
+        "title": "退休金资金转移升温，韩国投资证券养老金资产累计突破1万亿韩元",
+        "excerpt": "在股市活跃带动下，退休金中业绩分红型产品占比上升，韩国投资证券养老金资产累计规模已超过1万亿韩元。",
+        "body": "在股市活跃的背景下，退休金市场中业绩分红型产品的比重正在提高。自2024年10月起，退休金加入者无需解除原有运用产品，也可以将其转移至其他金融公司。在这一制度变化和市场趋势之下，韩国投资证券的养老金资产累计额已突破1万亿韩元。随着加入者选择范围扩大，金融公司之间围绕养老金资产的吸引竞争预计将持续。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "El movimiento de pensiones se acelera y Korea Investment supera 1 billón de wones",
+        "excerpt": "Con el auge bursátil, crece el peso de productos de rentabilidad variable en pensiones de jubilación, mientras Korea Investment supera 1 billón de wones en activos acumulados.",
+        "body": "En medio del dinamismo del mercado bursátil, aumenta la proporción de productos de rentabilidad variable dentro del mercado de pensiones de jubilación. Desde octubre de 2024, los afiliados pueden trasladar los productos que ya gestionaban a otra entidad financiera sin cancelarlos. En este contexto de cambio normativo y tendencia de mercado, Korea Investment Securities superó 1 billón de wones en activos de pensiones acumulados. A medida que se amplía la capacidad de elección de los afiliados, se prevé que continúe la competencia entre entidades financieras por atraer activos de pensiones. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Movimento em previdência cresce e Korea Investment passa de 1 trilhão de wones",
+        "excerpt": "Com o mercado acionário aquecido, aumenta a fatia de produtos de retorno variável na previdência, enquanto a Korea Investment supera 1 trilhão de wones em ativos acumulados.",
+        "body": "Com o aquecimento do mercado acionário, cresce a participação de produtos de retorno variável no mercado de previdência de aposentadoria. Desde outubro de 2024, os participantes podem transferir os produtos que já administravam para outra instituição financeira sem encerrá-los. Nesse cenário de mudança regulatória e tendência de mercado, a Korea Investment Securities ultrapassou 1 trilhão de wones em ativos previdenciários acumulados. Com mais opções para os participantes, a disputa entre instituições financeiras para atrair ativos de previdência deve continuar. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Pensionsgelder in Bewegung: Korea Investment überschreitet 1 Billion Won",
+        "excerpt": "Mit der starken Börsenlage steigt bei Betriebsrenten der Anteil ertragsabhängiger Produkte, während Korea Investment Securities mehr als 1 Billion Won an Pensionsvermögen erreicht.",
+        "body": "Vor dem Hintergrund einer starken Börsenentwicklung steigt im Markt für betriebliche Altersvorsorge der Anteil ertragsabhängiger Produkte. Seit Oktober 2024 können Teilnehmer ihre bisher verwalteten Produkte zu einem anderen Finanzunternehmen übertragen, ohne sie aufzulösen. In diesem Umfeld aus Regeländerung und Markttrend hat Korea Investment Securities beim kumulierten Pensionsvermögen die Marke von 1 Billion Won überschritten. Da die Auswahlmöglichkeiten der Teilnehmer wachsen, dürfte der Wettbewerb der Finanzunternehmen um Pensionsvermögen anhalten. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Le mouvement des retraites s’accélère, Korea Investment dépasse 1 000 milliards de wons",
+        "excerpt": "Avec la vigueur des marchés actions, les produits à rendement variable gagnent du terrain dans les retraites, tandis que Korea Investment dépasse 1 000 milliards de wons d’actifs.",
+        "body": "Dans un contexte de marché actions dynamique, la part des produits à rendement variable augmente sur le marché des retraites d’entreprise. Depuis octobre 2024, les souscripteurs peuvent transférer les produits qu’ils détenaient vers une autre institution financière sans les résilier. Dans ce contexte de changement réglementaire et de tendance de marché, Korea Investment Securities a dépassé 1 000 milliards de wons d’actifs de retraite cumulés. L’élargissement des choix pour les souscripteurs devrait prolonger la concurrence entre institutions financières pour attirer ces actifs. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "تحرك أموال التقاعد يتسارع وكوريا إنفستمنت تتجاوز تريليون وون",
+        "excerpt": "مع نشاط سوق الأسهم، ترتفع حصة المنتجات المرتبطة بالأداء في معاشات التقاعد، بينما تجاوزت أصول التقاعد المتراكمة لدى كوريا إنفستمنت تريليون وون.",
+        "body": "في ظل انتعاش سوق الأسهم، ترتفع حصة المنتجات المرتبطة بالأداء في سوق معاشات التقاعد. ومنذ أكتوبر 2024، أصبح بإمكان المشتركين في معاشات التقاعد نقل المنتجات التي كانوا يديرونها إلى شركة مالية أخرى من دون إنهائها. وفي هذا السياق من تغير النظام واتجاه السوق، تجاوزت الأصول التقاعدية المتراكمة لدى كوريا إنفستمنت سيكيوريتيز تريليون وون. ومع اتساع خيارات المشتركين، من المتوقع أن تستمر المنافسة بين الشركات المالية لجذب أصول التقاعد. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "रिटायरमेंट पेंशन मनी मूव तेज, Korea Investment की संपत्ति 1 ट्रिलियन वॉन पार",
+        "excerpt": "शेयर बाजार की तेजी से रिटायरमेंट पेंशन में प्रदर्शन-आधारित उत्पादों की हिस्सेदारी बढ़ रही है, जबकि Korea Investment की संचयी पेंशन संपत्ति 1 ट्रिलियन वॉन से ऊपर पहुंची।",
+        "body": "शेयर बाजार में तेजी के बीच रिटायरमेंट पेंशन बाजार में प्रदर्शन-आधारित उत्पादों की हिस्सेदारी बढ़ रही है। अक्टूबर 2024 से रिटायरमेंट पेंशन सदस्य अपने मौजूदा प्रबंधित उत्पादों को समाप्त किए बिना दूसरी वित्तीय कंपनी में स्थानांतरित कर सकते हैं। इसी नियामकीय बदलाव और बाजार प्रवृत्ति के बीच Korea Investment Securities की संचयी पेंशन संपत्ति 1 ट्रिलियन वॉन से अधिक हो गई। सदस्यों के विकल्प बढ़ने के साथ वित्तीय कंपनियों के बीच पेंशन संपत्ति आकर्षित करने की प्रतिस्पर्धा जारी रहने की संभावना है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Money move dana pensiun menguat, Korea Investment tembus 1 triliun won",
+        "excerpt": "Seiring pasar saham yang bergairah, porsi produk berbasis kinerja dalam dana pensiun meningkat, sementara aset pensiun akumulatif Korea Investment melampaui 1 triliun won.",
+        "body": "Dengan latar pasar saham yang bergairah, porsi produk berbasis kinerja di pasar dana pensiun terus meningkat. Sejak Oktober 2024, peserta dana pensiun dapat memindahkan produk yang sudah mereka kelola ke perusahaan keuangan lain tanpa harus menghentikannya. Dalam perubahan aturan dan arus pasar ini, aset pensiun akumulatif Korea Investment Securities telah melampaui 1 triliun won. Seiring pilihan peserta makin luas, persaingan antarperusahaan keuangan untuk menarik aset pensiun diperkirakan berlanjut. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "0f2ac4cbd009",
+    "slug": "외국인-없으면-이제-농사도-못-짓는다농업-외국인력-104만명-배정-역대급-554187",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T08:02:53.316Z",
+    "updatedAt": "2026-05-08T08:02:53.316Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041203",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041203",
+    "titleFingerprint": "c43c96bbaa8b23700e383e0bb80a36a78a668f85",
+    "dedupKeys": [
+      "0f2ac4cbd0093a6a01ad2d7a01676fb195b23662",
+      "c43c96bbaa8b23700e383e0bb80a36a78a668f85",
+      "935037761c07fee0c689ed0c326d277cc9aceab1"
+    ],
+    "imageUrl": "/images/articles/0f2ac4cbd009.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농업 외국인력 10.4만명 배정, 농번기 인력난 해소에 역대 최대 규모",
+        "excerpt": "농림축산식품부가 올해 농번기 인력난 완화를 위해 계절근로 9만4000명과 고용허가 1만명 등 농업 외국인력 10만4000명 배정을 확정했다.",
+        "body": "농림축산식품부가 올해 농번기 인력난을 완화하기 위해 농업 분야 외국인력 10만4000명 배정을 확정했다. 배정 규모는 계절근로 9만4000명, 고용허가 1만명으로 구성됐다. 정부는 외국인력 확대와 함께 국내인력 공급을 늘리는 방안도 내놨다. 농작업 참여자의 교통비 지원은 1만원에서 2만원으로, 숙박비 지원은 2만원에서 3만원으로 상향된다. 이번 조치는 농촌 고령화와 농번기 인력 부족이 이어지는 가운데 현장 수급 부담을 줄이기 위한 것이다. 외국인력 배정 확대와 국내인력 유인책이 병행되면서 올해 농번기 인력 확보에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "South Korea Allocates 104,000 Foreign Farm Workers to Ease Seasonal Labor Shortage",
+        "excerpt": "South Korea’s agriculture ministry confirmed 104,000 foreign farm workers this year, including 94,000 seasonal workers and 10,000 under the employment permit system.",
+        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs has confirmed the allocation of 104,000 foreign workers for agriculture this year to ease labor shortages during the busy farming season. The total includes 94,000 seasonal workers and 10,000 workers under the employment permit system. The government also announced measures to expand the supply of domestic labor. Transport support for farm work participants will rise from 10,000 won to 20,000 won, while lodging support will increase from 20,000 won to 30,000 won. The move comes as rural aging and seasonal labor shortages continue to weigh on farms. The combined expansion of foreign labor and incentives for domestic workers is expected to affect farm labor availability this year. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国、農業外国人材10.4万人を配分へ 農繁期の人手不足緩和狙う",
+        "excerpt": "韓国農林畜産食品部は今年、農繁期の人手不足に対応するため、季節労働9.4万人と雇用許可1万人の計10.4万人を確定した。",
+        "body": "韓国の農林畜産食品部は今年、農繁期の人手不足を緩和するため、農業分野の外国人材10万4000人の配分を確定した。内訳は季節労働者9万4000人、雇用許可制度による労働者1万人だ。政府は外国人材の拡大とあわせ、国内人材の供給を増やす対策も発表した。農作業参加者への交通費支援は1万ウォンから2万ウォンに、宿泊費支援は2万ウォンから3万ウォンに引き上げられる。農村の高齢化と農繁期の人手不足が続く中、現場の需給負担を軽減する措置となる。外国人材の配分拡大と国内人材の誘導策が並行し、今年の農繁期の人材確保に影響するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国农业外籍人力配额达10.4万人 缓解农忙季用工短缺",
+        "excerpt": "韩国农林畜产食品部确定今年农业外籍人力10.4万人，包括季节工9.4万人和雇佣许可制1万人，以应对农忙季人手不足。",
+        "body": "韩国农林畜产食品部为缓解今年农忙季用工短缺，确定农业领域外籍人力配额10.4万人。其中，季节工为9.4万人，雇佣许可制人力为1万人。政府还同时公布扩大本国人力供给的措施。参与农作业人员的交通费补贴将从1万韩元上调至2万韩元，住宿费补贴将从2万韩元上调至3万韩元。在农村老龄化和农忙季人手不足持续的背景下，此举旨在减轻一线供需压力。外籍人力配额扩大与吸引本国人力的措施并行，预计将影响今年农忙季劳动力保障。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Corea del Sur asigna 104.000 trabajadores extranjeros al campo por falta de mano de obra",
+        "excerpt": "El Ministerio de Agricultura surcoreano confirmó este año 104.000 trabajadores extranjeros para el sector agrícola: 94.000 temporales y 10.000 por permiso de empleo.",
+        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur confirmó para este año la asignación de 104.000 trabajadores extranjeros al sector agrícola con el fin de aliviar la escasez de mano de obra en la temporada de mayor actividad. La cifra incluye 94.000 trabajadores estacionales y 10.000 bajo el sistema de permiso de empleo. El gobierno también anunció medidas para ampliar la oferta de trabajadores nacionales. El apoyo para transporte a quienes participen en labores agrícolas subirá de 10.000 a 20.000 wones, y el de alojamiento de 20.000 a 30.000 wones. La medida busca reducir la presión sobre el suministro laboral en medio del envejecimiento rural y la falta de personal en temporada alta. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Coreia do Sul destina 104 mil estrangeiros à agricultura contra falta de mão de obra",
+        "excerpt": "O Ministério da Agricultura da Coreia do Sul confirmou neste ano 104 mil trabalhadores estrangeiros para a agricultura, com 94 mil sazonais e 10 mil por permissão de emprego.",
+        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul confirmou para este ano a alocação de 104 mil trabalhadores estrangeiros para a agricultura, a fim de aliviar a falta de mão de obra na alta temporada agrícola. O total inclui 94 mil trabalhadores sazonais e 10 mil pelo sistema de permissão de emprego. O governo também anunciou medidas para ampliar a oferta de mão de obra doméstica. O apoio ao transporte para participantes do trabalho agrícola subirá de 10 mil para 20 mil wones, enquanto o apoio à hospedagem aumentará de 20 mil para 30 mil wones. A medida ocorre em meio ao envelhecimento rural e à persistente escassez de trabalhadores no campo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Südkorea weist 104.000 ausländische Agrarkräfte gegen Erntesaison-Engpässe zu",
+        "excerpt": "Südkoreas Landwirtschaftsministerium bestätigte für dieses Jahr 104.000 ausländische Agrarkräfte, darunter 94.000 Saisonkräfte und 10.000 per Beschäftigungserlaubnis.",
+        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten hat für dieses Jahr die Zuweisung von 104.000 ausländischen Arbeitskräften in der Landwirtschaft bestätigt, um Engpässe in der arbeitsintensiven Saison zu lindern. Davon entfallen 94.000 auf Saisonarbeit und 10.000 auf das Beschäftigungserlaubnissystem. Zugleich kündigte die Regierung Maßnahmen an, um das inländische Arbeitskräfteangebot auszuweiten. Die Unterstützung für Fahrtkosten bei landwirtschaftlicher Arbeit steigt von 10.000 auf 20.000 Won, die Unterstützung für Unterkunft von 20.000 auf 30.000 Won. Hintergrund sind die alternde Landbevölkerung und anhaltende Personalengpässe in Spitzenzeiten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La Corée du Sud affecte 104 000 travailleurs étrangers à l’agriculture en saison haute",
+        "excerpt": "Le ministère sud-coréen de l’Agriculture a confirmé cette année 104 000 travailleurs étrangers agricoles, dont 94 000 saisonniers et 10 000 via permis d’emploi.",
+        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a confirmé pour cette année l’affectation de 104 000 travailleurs étrangers au secteur agricole afin d’atténuer la pénurie de main-d’œuvre pendant la saison des travaux. Ce total comprend 94 000 travailleurs saisonniers et 10 000 relevant du système de permis d’emploi. Le gouvernement a aussi annoncé des mesures pour accroître l’offre de main-d’œuvre nationale. L’aide au transport pour les participants aux travaux agricoles passera de 10 000 à 20 000 wons, et l’aide à l’hébergement de 20 000 à 30 000 wons. Cette décision intervient alors que le vieillissement rural et les pénuries saisonnières se poursuivent. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا الجنوبية تخصص 104 آلاف عامل أجنبي للزراعة لتخفيف نقص موسم الذروة",
+        "excerpt": "أكدت وزارة الزراعة الكورية الجنوبية هذا العام تخصيص 104 آلاف عامل أجنبي للقطاع الزراعي، بينهم 94 ألف عامل موسمي و10 آلاف عبر نظام تصاريح العمل.",
+        "body": "أكدت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية تخصيص 104 آلاف عامل أجنبي للقطاع الزراعي هذا العام بهدف تخفيف نقص العمالة خلال موسم الذروة الزراعية. ويتكون العدد من 94 ألف عامل موسمي و10 آلاف عامل بموجب نظام تصاريح العمل. كما أعلنت الحكومة إجراءات لتوسيع إمدادات العمالة المحلية. سترتفع مساعدة تكاليف النقل للمشاركين في الأعمال الزراعية من 10 آلاف وون إلى 20 ألف وون، كما سترتفع مساعدة الإقامة من 20 ألف وون إلى 30 ألف وون. تأتي الخطوة في ظل استمرار شيخوخة الريف ونقص العمالة الموسمي، وتهدف إلى تخفيف ضغط العرض والطلب في المزارع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया ने कृषि के लिए 1.04 लाख विदेशी श्रमिक तय किए, मौसमी कमी पर नजर",
+        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने इस वर्ष कृषि क्षेत्र के लिए 1.04 लाख विदेशी श्रमिकों की पुष्टि की, जिनमें 94,000 मौसमी और 10,000 रोजगार परमिट श्रमिक हैं।",
+        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने इस वर्ष व्यस्त कृषि मौसम में श्रमिकों की कमी कम करने के लिए कृषि क्षेत्र में 1.04 लाख विदेशी श्रमिकों का आवंटन तय किया है। इसमें 94,000 मौसमी श्रमिक और रोजगार परमिट प्रणाली के तहत 10,000 श्रमिक शामिल हैं। सरकार ने घरेलू श्रमिक आपूर्ति बढ़ाने के उपाय भी घोषित किए। कृषि कार्य में भाग लेने वालों के लिए परिवहन सहायता 10,000 वॉन से बढ़ाकर 20,000 वॉन की जाएगी, जबकि आवास सहायता 20,000 वॉन से बढ़ाकर 30,000 वॉन होगी। ग्रामीण क्षेत्रों में वृद्ध आबादी और मौसमी श्रमिक कमी जारी रहने के बीच यह कदम खेतों पर आपूर्ति दबाव घटाने के लिए है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea Selatan Alokasikan 104 Ribu Pekerja Asing Pertanian Saat Musim Sibuk",
+        "excerpt": "Kementerian Pertanian Korea Selatan menetapkan 104 ribu pekerja asing pertanian tahun ini, terdiri dari 94 ribu pekerja musiman dan 10 ribu izin kerja.",
+        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan menetapkan alokasi 104 ribu pekerja asing untuk sektor pertanian tahun ini guna meredakan kekurangan tenaga kerja pada musim sibuk. Jumlah itu terdiri dari 94 ribu pekerja musiman dan 10 ribu pekerja melalui sistem izin kerja. Pemerintah juga mengumumkan langkah untuk memperluas pasokan tenaga kerja domestik. Bantuan transportasi bagi peserta kerja pertanian akan naik dari 10 ribu won menjadi 20 ribu won, sedangkan bantuan penginapan naik dari 20 ribu won menjadi 30 ribu won. Kebijakan ini diambil saat penuaan pedesaan dan kekurangan tenaga kerja musiman masih berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "8b810a9a7403",
     "slug": "음악전시-함께하는-봉안당으로-추모-문화-바꿔-나갈것-995651",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Rekonstruksi dan Redevelopment Makin Terpolarisasi, Park Hap-soo Minta Hati-hati",
         "excerpt": "Park Hap-soo, profesor adjung Sekolah Pascasarjana Real Estat Universitas Konkuk, pada 7 Mei di Seoul Money Show 2026 menyoroti polarisasi pasar rekonstruksi dan redevelopment.",
         "body": "Dalam ‘2026 Seoul Money Show’ yang dibuka pada 7 Mei di COEX, Gangnam, Park Hap-soo, profesor adjung Sekolah Pascasarjana Real Estat Universitas Konkuk, menyampaikan kuliah bertema ‘Berhasil Memiliki Rumah lewat Rekonstruksi dan Redevelopment’. Park menyoroti bahwa polarisasi berdasarkan wilayah juga muncul di pasar rekonstruksi dan redevelopment, serta menyampaikan pesan bahwa pembelian di luar sebagian wilayah perlu dilakukan dengan hati-hati. Kuliah ini berlangsung ketika pencari hunian menilai proyek penataan kota sebagai dasar investasi dan pilihan tempat tinggal. Perhatian pasar tertuju pada wilayah dan proyek mana yang dapat menjadi pilihan sesuai permintaan riil. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8ee3c95de0d9",
-    "slug": "나눠-담은-계란-다-같이-깨졌다호르무즈가-무너뜨린-투자-공식-587668",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T19:17:38.477Z",
-    "updatedAt": "2026-05-07T19:17:38.477Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12039501",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12039501",
-    "titleFingerprint": "2a3406e4e2ab213eb20a2824a6e35b5f2556d9c0",
-    "dedupKeys": [
-      "8ee3c95de0d90fcff34876c4572fb4e20857dab7",
-      "2a3406e4e2ab213eb20a2824a6e35b5f2556d9c0",
-      "24d76a8f08f8c6eb39d9c56d076385bad8e266a7"
-    ],
-    "imageUrl": "/images/articles/8ee3c95de0d9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "호르무즈 변수에 흔들린 유가 공식, 공급 확대에도 가격이 안 꺾인 이유",
-        "excerpt": "5월 이후 산유국의 원유 증산 발표에도 국제유가가 통상적 공급 확대 효과와 달리 움직이며, 호르무즈 변수가 투자 공식의 균열을 드러냈다.",
-        "body": "5월 이후 국제유가는 산유국이 원유를 더 많이 팔겠다고 발표하면 가격이 내려간다는 통상적 공식과 다른 흐름을 보였다. 공급이 늘면 가격이 하락한다는 경제학의 기본 상식에도 맞지 않는 장면이다. 원문은 이를 ‘나눠 담은 계란 다 같이 깨졌다’는 표현으로 설명하며, 호르무즈 변수가 기존 투자 판단을 흔든 사례로 제시했다. 투자자들이 공급 증가만을 기준으로 유가 하락을 기대하기 어려워졌다는 점이 핵심이다. 향후 국제유가를 볼 때는 산유국의 판매 확대 발표뿐 아니라 호르무즈 관련 변수까지 함께 살펴야 한다는 메시지가 담겼다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Hormuz Shakes the Oil Price Rule as More Supply Fails to Push Prices Down",
-        "excerpt": "Since May, oil prices have moved against the usual effect of producers selling more crude, with the Hormuz factor exposing cracks in a familiar investment formula.",
-        "body": "Since May, international oil prices have not followed the usual rule that prices fall when oil-producing countries announce they will sell more crude. That pattern also runs against the basic economic idea that greater supply leads to lower prices. The original article describes the situation with the phrase that “eggs placed in separate baskets broke together,” presenting Hormuz as a factor that unsettled a familiar investment formula. The key point is that investors can no longer rely only on increased supply as a reason to expect lower oil prices. When watching crude markets, producer sales plans and Hormuz-related variables now need to be considered together. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ホルムズ要因で揺らぐ原油価格の法則、供給拡大でも下がらない理由",
-        "excerpt": "5月以降、産油国の原油販売拡大発表にもかかわらず国際原油価格は通常の供給増効果と異なる動きを見せ、ホルムズ要因が投資公式の揺らぎを示した。",
-        "body": "5月以降、国際原油価格は、産油国が原油をより多く売ると発表すれば価格が下がるという通常の法則とは異なる流れを見せた。供給が増えれば価格が下がるという経済学の基本的な常識にも合わない動きだ。原文はこの状況を「分けて入れた卵が一緒に割れた」という表現で説明し、ホルムズ要因が従来の投資判断を揺さぶった事例として示した。要点は、投資家が供給増だけを根拠に原油安を期待しにくくなったことにある。今後の原油市場を見る際は、産油国の販売拡大発表だけでなく、ホルムズ関連の変数も併せて確認する必要がある。出所: mk.co.kr."
-      },
-      "zh": {
-        "title": "霍尔木兹因素搅动油价公式，供给增加却未压低价格",
-        "excerpt": "5月以来，产油国宣布扩大原油销售后，国际油价却未按通常供给增加逻辑下跌，霍尔木兹因素暴露了投资公式的裂痕。",
-        "body": "5月以来，国际油价没有按照通常公式运行：产油国宣布将销售更多原油时，价格一般应当下跌。这也与供给增加会压低价格的经济学常识不一致。原文用“分开放的鸡蛋一起碎了”来形容这一局面，并将霍尔木兹因素作为动摇既有投资判断的案例提出。核心在于，投资者已难以仅凭供给增加就期待油价下跌。观察后续国际油价时，除了产油国扩大销售的消息，也需要同时关注霍尔木兹相关变量。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Hormuz sacude la fórmula del petróleo: más oferta no logra bajar los precios",
-        "excerpt": "Desde mayo, el precio internacional del crudo se movió contra el efecto habitual de mayor oferta tras anuncios de productores, y Hormuz evidenció fisuras en la fórmula inversora.",
-        "body": "Desde mayo, los precios internacionales del petróleo no han seguido la regla habitual según la cual bajan cuando los países productores anuncian que venderán más crudo. El movimiento tampoco encaja con la idea económica básica de que un aumento de la oferta reduce los precios. El texto original resume la situación con la imagen de que “los huevos repartidos en varias cestas se rompieron juntos” y presenta a Hormuz como un factor que alteró una fórmula de inversión conocida. El punto central es que los inversores ya no pueden esperar una caída del crudo basándose solo en el aumento de la oferta. Para seguir el mercado, deben observarse tanto los planes de venta de los productores como las variables vinculadas a Hormuz. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Hormuz abala a regra do petróleo: mais oferta não derruba os preços",
-        "excerpt": "Desde maio, o petróleo internacional contrariou o efeito usual de maior oferta após anúncios de produtores, enquanto Hormuz expôs falhas na fórmula de investimento.",
-        "body": "Desde maio, os preços internacionais do petróleo não seguiram a regra usual de queda quando países produtores anunciam que venderão mais óleo. O movimento também contraria a noção econômica básica de que maior oferta reduz preços. O texto original descreve o quadro com a imagem de que “ovos colocados em cestas separadas quebraram juntos” e apresenta Hormuz como um fator que abalou uma fórmula conhecida de investimento. O ponto principal é que investidores já não podem esperar queda do petróleo com base apenas no aumento da oferta. Para acompanhar o mercado, será necessário observar tanto os planos de venda dos produtores quanto as variáveis ligadas a Hormuz. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Hormus erschüttert die Ölpreisformel: Mehr Angebot drückt Preise nicht",
-        "excerpt": "Seit Mai reagieren die internationalen Ölpreise anders als üblich auf angekündigte Mehrverkäufe der Förderländer, während Hormus Risse in der Investmentformel zeigt.",
-        "body": "Seit Mai folgen die internationalen Ölpreise nicht der üblichen Regel, dass Preise fallen, wenn ölproduzierende Länder ankündigen, mehr Rohöl zu verkaufen. Das widerspricht auch der grundlegenden wirtschaftlichen Annahme, dass ein größeres Angebot die Preise senkt. Der Originaltext beschreibt die Lage mit dem Bild, dass „aufgeteilte Eier gemeinsam zerbrachen“, und nennt Hormus als Faktor, der eine vertraute Investmentformel ins Wanken brachte. Der Kernpunkt lautet: Anleger können eine sinkende Ölnotierung nicht mehr allein aus einem höheren Angebot ableiten. Wer den Ölmarkt beobachtet, muss neben Verkaufsplänen der Produzenten auch Hormus-bezogene Variablen berücksichtigen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Hormuz bouscule la règle du pétrole: plus d’offre ne fait pas baisser les prix",
-        "excerpt": "Depuis mai, les prix internationaux du pétrole évoluent à rebours de l’effet habituel d’une offre accrue, et le facteur Hormuz révèle les failles d’une formule d’investissement.",
-        "body": "Depuis mai, les prix internationaux du pétrole ne suivent pas la règle habituelle selon laquelle ils baissent lorsque les pays producteurs annoncent vouloir vendre davantage de brut. Cette évolution contredit aussi l’idée économique de base selon laquelle une offre plus abondante fait reculer les prix. Le texte original décrit la situation par l’image d’“œufs répartis qui se sont tous cassés ensemble” et présente Hormuz comme un facteur ayant ébranlé une formule d’investissement connue. L’essentiel est que les investisseurs ne peuvent plus compter uniquement sur l’augmentation de l’offre pour anticiper une baisse du pétrole. Pour suivre le marché, il faut désormais regarder à la fois les annonces des producteurs et les variables liées à Hormuz. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "هرمز يهز معادلة النفط: زيادة المعروض لا تكفي لخفض الأسعار",
-        "excerpt": "منذ مايو، تحركت أسعار النفط العالمية خلافا للأثر المعتاد لزيادة المعروض بعد إعلانات المنتجين، وكشف عامل هرمز عن تصدع في معادلة الاستثمار.",
-        "body": "منذ مايو، لم تتبع أسعار النفط العالمية القاعدة المعتادة التي تقول إن الأسعار تنخفض عندما تعلن الدول المنتجة أنها ستبيع مزيدا من الخام. وهذا يخالف أيضا الفكرة الاقتصادية الأساسية بأن زيادة المعروض تؤدي إلى تراجع السعر. النص الأصلي وصف المشهد بعبارة أن “البيض الذي وُزع في سلال مختلفة انكسر معا”، وقدم هرمز كعامل هز صيغة استثمارية مألوفة. الخلاصة أن المستثمرين لم يعد بإمكانهم الاعتماد على زيادة المعروض وحدها لتوقع انخفاض النفط. وعند متابعة السوق، يجب النظر إلى خطط البيع لدى المنتجين وإلى المتغيرات المرتبطة بهرمز في الوقت نفسه. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "हॉर्मुज ने तेल कीमतों का सूत्र हिलाया, अधिक आपूर्ति से भी भाव नहीं टूटे",
-        "excerpt": "मई के बाद उत्पादक देशों के अधिक कच्चा तेल बेचने के ऐलान के बावजूद अंतरराष्ट्रीय तेल कीमतें सामान्य आपूर्ति प्रभाव से अलग चलीं और हॉर्मुज ने निवेश सूत्र की दरार दिखा दी।",
-        "body": "मई के बाद अंतरराष्ट्रीय तेल कीमतों ने वह सामान्य नियम नहीं माना कि तेल उत्पादक देश अधिक कच्चा तेल बेचने की घोषणा करें तो कीमतें घटती हैं। यह आपूर्ति बढ़ने पर कीमत कम होने वाली अर्थशास्त्र की बुनियादी समझ से भी मेल नहीं खाता। मूल लेख ने इस स्थिति को “अलग-अलग रखे अंडे साथ में टूट गए” जैसी अभिव्यक्ति से समझाया और हॉर्मुज को ऐसे कारक के रूप में पेश किया जिसने पुराने निवेश निर्णय को हिला दिया। मुख्य बात यह है कि निवेशक अब केवल आपूर्ति बढ़ने के आधार पर तेल कीमतों में गिरावट की उम्मीद नहीं कर सकते। आगे बाजार देखते समय उत्पादक देशों की बिक्री बढ़ाने की घोषणा के साथ हॉर्मुज से जुड़े कारकों को भी देखना होगा। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Hormuz Mengguncang Rumus Harga Minyak Saat Pasokan Naik Tak Menekan Harga",
-        "excerpt": "Sejak Mei, harga minyak internasional bergerak tak sesuai efek umum kenaikan pasokan setelah pengumuman produsen, sementara faktor Hormuz menunjukkan retaknya rumus investasi.",
-        "body": "Sejak Mei, harga minyak internasional tidak mengikuti rumus umum bahwa harga turun ketika negara produsen minyak mengumumkan akan menjual lebih banyak minyak mentah. Pergerakan ini juga tidak sejalan dengan prinsip ekonomi dasar bahwa pasokan yang meningkat menekan harga. Artikel asli menggambarkan situasi itu dengan ungkapan bahwa “telur yang dibagi ke beberapa wadah pecah bersama” dan menempatkan Hormuz sebagai faktor yang mengguncang penilaian investasi lama. Intinya, investor tidak lagi dapat mengandalkan kenaikan pasokan saja untuk memperkirakan penurunan harga minyak. Ke depan, pasar perlu mencermati pengumuman penjualan produsen sekaligus variabel terkait Hormuz. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "896dede8c04c",
-    "slug": "더-오를-걸-아는데도삼성전자를-전부-팔아버린-그-남자-773877",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T19:16:35.879Z",
-    "updatedAt": "2026-05-07T19:16:35.879Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12037458",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12037458",
-    "titleFingerprint": "e9e7b79d3e479133838aa490ff7dda8859076ebd",
-    "dedupKeys": [
-      "896dede8c04c98686280734f7ef2c965bdfed700",
-      "e9e7b79d3e479133838aa490ff7dda8859076ebd",
-      "7a04e983c24691c424090297153f40dd4d345bea"
-    ],
-    "imageUrl": "/images/articles/896dede8c04c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 전량 매도한 김승호 회장, 실패 끝에 만든 투자 원칙",
-        "excerpt": "김승호 짐킴홀딩스 회장이 2026년 5월 6일 매일경제 인터뷰에서 미국 이주, 사업 실패, 스노우폭스 성공과 투자 철학을 밝혔다.",
-        "body": "김승호 짐킴홀딩스 회장은 2026년 5월 6일 공개된 매일경제 인터뷰에서 삼성전자를 전부 팔아버린 인물로 소개됐다. 그는 국내 대학교를 중퇴한 뒤 1987년 혈혈단신 미국으로 건너갔고, 당시에는 그의 결정을 지지하는 사람이 없었다. 미국에서는 최소 7번 이상의 사업 실패를 겪었지만 도시락·스시 업체 스노우폭스를 글로벌 체인으로 확장하며 전환점을 만들었다. 이후 미국 사업권을 일본 업체에 매각해 수천억원대 종잣돈을 마련했고 투자자로 나섰다. 그의 저서 ‘돈의 속성’은 100만부 이상 팔린 베스트셀러로, 돈을 인격체처럼 소중히 다루는 투자 태도를 강조한다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kim Seung-ho Sold All Samsung Electronics Shares After Building His Rules",
-        "excerpt": "In a May 6, 2026 Maeil Business interview, Jim Kim Holdings chairman Kim Seung-ho discussed moving to the U.S., repeated failures, Snowfox and his investing philosophy.",
-        "body": "Kim Seung-ho, chairman of Jim Kim Holdings, was introduced in a Maeil Business interview published on May 6, 2026 as the man who sold all of his Samsung Electronics shares. After dropping out of a Korean university, he moved alone to the United States in 1987, when no one supported his decision. In the U.S., he experienced at least seven business failures, but found a turning point by expanding the lunchbox and sushi company Snowfox into a global chain. He later sold the U.S. business rights to a Japanese company, securing seed capital worth hundreds of billions of won, and became an investor. His book The Attribute of Money has sold more than 1 million copies and stresses treating money with care, almost like a person. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子を全売却した金承浩会長、失敗から築いた投資原則",
-        "excerpt": "ジムキムホールディングスの金承浩会長は2026年5月6日の毎日経済インタビューで、渡米、事業失敗、スノーフォックス成功、投資哲学を語った。",
-        "body": "ジムキムホールディングスの金承浩会長は、2026年5月6日に公開された毎日経済のインタビューで、サムスン電子をすべて売却した人物として紹介された。韓国の大学を中退した後、1987年に単身で米国へ渡ったが、当時その決断を支持する人はいなかった。米国では少なくとも7回以上の事業失敗を経験したものの、弁当・すし企業スノーフォックスをグローバルチェーンへ拡大して転機をつかんだ。その後、米国事業権を日本企業に売却し、数千億ウォン規模の元手を得て投資家となった。著書『お金の属性』は100万部以上売れたベストセラーで、お金を人格体のように大切に扱う姿勢を強調している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "卖出全部三星电子持股的金承浩：失败后形成的投资原则",
-        "excerpt": "Jim Kim Holdings会长金承浩在2026年5月6日《每日经济》采访中谈到赴美、创业失败、Snowfox成功以及投资理念。",
-        "body": "Jim Kim Holdings会长金承浩在2026年5月6日发布的《每日经济》采访中，被介绍为卖出全部三星电子股票的人。他从韩国大学退学后，于1987年独自前往美国，当时没有人支持他的决定。在美国，他至少经历了7次以上创业失败，但通过把便当和寿司企业Snowfox扩展为全球连锁，迎来了转折。之后，他将美国经营权出售给一家日本企业，筹集了数千亿韩元规模的启动资金，并转向投资领域。他的著作《金钱的属性》销量超过100万册，强调像对待人格体一样珍惜金钱的投资态度。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kim Seung-ho vendió todo Samsung Electronics tras formar sus reglas",
-        "excerpt": "Kim Seung-ho, presidente de Jim Kim Holdings, habló el 6 de mayo de 2026 con Maeil Business sobre su mudanza a EE. UU., fracasos, Snowfox e inversión.",
-        "body": "Kim Seung-ho, presidente de Jim Kim Holdings, fue presentado en una entrevista de Maeil Business publicada el 6 de mayo de 2026 como el hombre que vendió todas sus acciones de Samsung Electronics. Tras abandonar una universidad en Corea, se mudó solo a Estados Unidos en 1987, cuando nadie apoyaba su decisión. Allí sufrió al menos siete fracasos empresariales, pero encontró un punto de inflexión al convertir la empresa de comida preparada y sushi Snowfox en una cadena global. Más tarde vendió los derechos del negocio estadounidense a una compañía japonesa, reunió capital semilla por cientos de miles de millones de wones y pasó a invertir. Su libro The Attribute of Money superó el millón de ejemplares vendidos y subraya tratar el dinero con cuidado, casi como una persona. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kim Seung-ho vendeu toda Samsung Electronics após criar suas regras",
-        "excerpt": "Kim Seung-ho, presidente da Jim Kim Holdings, falou em 6 de maio de 2026 ao Maeil Business sobre ida aos EUA, fracassos, Snowfox e filosofia de investimento.",
-        "body": "Kim Seung-ho, presidente da Jim Kim Holdings, foi apresentado em entrevista do Maeil Business publicada em 6 de maio de 2026 como o homem que vendeu todas as suas ações da Samsung Electronics. Depois de abandonar uma universidade na Coreia, mudou-se sozinho para os Estados Unidos em 1987, quando ninguém apoiava sua decisão. Nos EUA, passou por pelo menos sete fracassos empresariais, mas encontrou uma virada ao transformar a empresa de marmitas e sushi Snowfox em uma rede global. Mais tarde vendeu os direitos do negócio americano a uma companhia japonesa, levantou capital inicial de centenas de bilhões de won e tornou-se investidor. Seu livro The Attribute of Money vendeu mais de 1 milhão de cópias e enfatiza tratar o dinheiro com cuidado, quase como uma pessoa. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kim Seung-ho verkaufte alle Samsung-Electronics-Aktien nach klaren Regeln",
-        "excerpt": "Jim-Kim-Holdings-Chef Kim Seung-ho sprach am 6. Mai 2026 mit Maeil Business über seinen Umzug in die USA, Rückschläge, Snowfox und seine Anlagephilosophie.",
-        "body": "Kim Seung-ho, Vorsitzender von Jim Kim Holdings, wurde in einem am 6. Mai 2026 veröffentlichten Interview von Maeil Business als der Mann vorgestellt, der alle seine Samsung-Electronics-Aktien verkaufte. Nach dem Abbruch eines Studiums in Korea ging er 1987 allein in die USA; damals unterstützte niemand seine Entscheidung. Dort erlebte er mindestens sieben geschäftliche Fehlschläge, fand aber mit dem Ausbau des Bento- und Sushi-Unternehmens Snowfox zu einer globalen Kette die Wende. Später verkaufte er die US-Geschäftsrechte an ein japanisches Unternehmen, schuf Startkapital in Höhe von Hunderten Milliarden Won und wurde Investor. Sein Buch The Attribute of Money verkaufte sich mehr als 1 Million Mal und betont, Geld sorgsam wie eine eigene Persönlichkeit zu behandeln. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kim Seung-ho a vendu tout Samsung Electronics après ses règles d’investisseur",
-        "excerpt": "Kim Seung-ho, président de Jim Kim Holdings, a parlé le 6 mai 2026 à Maeil Business de son départ aux États-Unis, de ses échecs, de Snowfox et de sa philosophie.",
-        "body": "Kim Seung-ho, président de Jim Kim Holdings, a été présenté dans une interview de Maeil Business publiée le 6 mai 2026 comme l’homme qui a vendu toutes ses actions Samsung Electronics. Après avoir quitté une université coréenne, il est parti seul aux États-Unis en 1987, à une époque où personne ne soutenait sa décision. Sur place, il a connu au moins sept échecs d’entreprise, mais a trouvé un tournant en développant Snowfox, société de plats préparés et de sushis, en chaîne mondiale. Il a ensuite vendu les droits de l’activité américaine à une entreprise japonaise, réuni un capital de départ de plusieurs centaines de milliards de wons et est devenu investisseur. Son livre The Attribute of Money s’est vendu à plus de 1 million d’exemplaires et insiste sur le fait de traiter l’argent avec soin, presque comme une personne. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كيم سونغ-هو باع كل أسهم سامسونغ إلكترونيكس بعد بناء قواعده",
-        "excerpt": "تحدث كيم سونغ-هو، رئيس Jim Kim Holdings، في مقابلة مع Maeil Business يوم 6 مايو 2026 عن انتقاله إلى أميركا وإخفاقاته ونجاح Snowfox وفلسفته الاستثمارية.",
-        "body": "قُدم كيم سونغ-هو، رئيس Jim Kim Holdings، في مقابلة نشرتها Maeil Business في 6 مايو 2026 بوصفه الرجل الذي باع كل أسهمه في Samsung Electronics. بعد أن ترك جامعة كورية، انتقل وحده إلى الولايات المتحدة عام 1987، في وقت لم يؤيد فيه أحد قراره. في أميركا، مر بما لا يقل عن سبع إخفاقات في الأعمال، لكنه وجد نقطة تحول عندما وسع شركة الوجبات والسوشي Snowfox إلى سلسلة عالمية. لاحقا باع حقوق العمل في الولايات المتحدة إلى شركة يابانية، وجمع رأسمالا أوليا بمئات المليارات من الوون، ثم اتجه إلى الاستثمار. كتابه The Attribute of Money بيع منه أكثر من مليون نسخة، ويؤكد التعامل مع المال بعناية كما لو كان كيانا ذا شخصية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "किम स्युंग-हो ने Samsung Electronics पूरी बेची, असफलताओं से बने नियम",
-        "excerpt": "Jim Kim Holdings के चेयरमैन किम स्युंग-हो ने 6 मई 2026 को Maeil Business से अमेरिका जाने, असफलताओं, Snowfox की सफलता और निवेश दर्शन पर बात की।",
-        "body": "Jim Kim Holdings के चेयरमैन किम स्युंग-हो को 6 मई 2026 को प्रकाशित Maeil Business इंटरव्यू में उस व्यक्ति के रूप में पेश किया गया जिसने Samsung Electronics के अपने सभी शेयर बेच दिए। कोरिया की एक यूनिवर्सिटी छोड़ने के बाद वे 1987 में अकेले अमेरिका चले गए, जबकि उस समय किसी ने उनके फैसले का समर्थन नहीं किया था। अमेरिका में उन्हें कम से कम सात कारोबारी असफलताएं मिलीं, लेकिन लंचबॉक्स और सुशी कंपनी Snowfox को वैश्विक चेन में बदलकर उन्होंने मोड़ हासिल किया। बाद में उन्होंने अमेरिकी कारोबार के अधिकार एक जापानी कंपनी को बेचे, सैकड़ों अरब वॉन की शुरुआती पूंजी जुटाई और निवेशक बने। उनकी किताब The Attribute of Money की 10 लाख से अधिक प्रतियां बिकीं और यह पैसे को व्यक्ति की तरह सावधानी से संभालने पर जोर देती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kim Seung-ho Jual Semua Samsung Electronics Setelah Menyusun Prinsip",
-        "excerpt": "Ketua Jim Kim Holdings Kim Seung-ho dalam wawancara Maeil Business pada 6 Mei 2026 membahas pindah ke AS, kegagalan, Snowfox, dan filosofi investasinya.",
-        "body": "Kim Seung-ho, ketua Jim Kim Holdings, diperkenalkan dalam wawancara Maeil Business yang terbit pada 6 Mei 2026 sebagai sosok yang menjual seluruh saham Samsung Electronics miliknya. Setelah keluar dari universitas di Korea, ia berangkat sendirian ke Amerika Serikat pada 1987, saat tidak ada orang yang mendukung keputusannya. Di AS, ia mengalami sedikitnya tujuh kegagalan bisnis, tetapi menemukan titik balik dengan mengembangkan perusahaan bento dan sushi Snowfox menjadi jaringan global. Kemudian ia menjual hak bisnis AS kepada perusahaan Jepang, mengumpulkan modal awal bernilai ratusan miliar won, dan menjadi investor. Bukunya, The Attribute of Money, terjual lebih dari 1 juta eksemplar dan menekankan sikap memperlakukan uang dengan hati-hati, hampir seperti pribadi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f71a867091c6",
-    "slug": "샤킬-오닐에-1조-안겨준-그-주식ai-반도체-놈놈놈-정체-330321",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T19:15:29.649Z",
-    "updatedAt": "2026-05-07T19:15:29.649Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039475",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039475",
-    "titleFingerprint": "8eb6030c9e577ac28925bde4d12ffa4a29c00ae8",
-    "dedupKeys": [
-      "f71a867091c6ca971b2e3359af544995c0464017",
-      "8eb6030c9e577ac28925bde4d12ffa4a29c00ae8",
-      "ba5d3fe797822fef20f2ad3486c49762e15d4a74"
-    ],
-    "imageUrl": "/images/articles/f71a867091c6.png",
-    "i18n": {
-      "ko": {
-        "title": "AI 반도체 ‘놈놈놈’ 정체는 엔비디아·인텔·구글, 샤킬 오닐 주식도 주목",
-        "excerpt": "mk.co.kr은 AI 반도체 시장을 ‘좋은 놈, 나쁜 놈, 이상한 놈’에 빗대 엔비디아·인텔·구글의 상징성을 설명하고, 샤킬 오닐 관련 주식 일화도 함께 조명했다.",
-        "body": "mk.co.kr은 인공지능(AI) 반도체 시장을 영화 ‘좋은 놈, 나쁜 놈, 이상한 놈’에 비유하며 엔비디아·인텔·구글을 각각 핵심 사례로 제시했다. 기사 제목은 샤킬 오닐에게 1조 원을 안겨준 주식이라는 표현으로 AI 반도체 투자자들의 관심을 끌었다. 원문 요약에 따르면 제목 순서대로 엔비디아는 ‘좋은 놈’, 인텔은 ‘나쁜 놈’, 구글은 ‘이상한 놈’에 비유된다. AI 투자자들에게 엔비디아는 그래픽처리장치(GPU)를 중심으로 대표적 수혜주로 인식되는 흐름을 보여준다. 인텔과 구글은 같은 AI 반도체 판 안에서도 서로 다른 시장 평가와 역할을 드러내는 비교 대상으로 제시됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI chip ‘good, bad and strange’ stocks: Nvidia, Intel and Google in focus",
-        "excerpt": "mk.co.kr compared the AI semiconductor market to “The Good, the Bad, the Weird,” using Nvidia, Intel and Google to explain investor attention, alongside a Shaquille O’Neal stock reference.",
-        "body": "mk.co.kr described the artificial intelligence semiconductor market through the film metaphor “The Good, the Bad, the Weird,” presenting Nvidia, Intel and Google as the key examples. The headline drew attention with a reference to the stock that reportedly handed Shaquille O’Neal 1 trillion won. According to the original summary, Nvidia corresponds to the “good,” Intel to the “bad,” and Google to the “weird” in that order. For AI investors, Nvidia is shown as a representative beneficiary centered on graphics processing units, or GPUs. Intel and Google are presented as comparison points that reveal different market perceptions and roles within the same AI chip landscape. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AI半導体の「良い・悪い・奇妙」銘柄、エヌビディア・インテル・グーグルに注目",
-        "excerpt": "mk.co.krはAI半導体市場を「良い奴、悪い奴、変な奴」に例え、エヌビディア・インテル・グーグルの位置づけとシャキール・オニール関連株の話題を伝えた。",
-        "body": "mk.co.krは、人工知能（AI）半導体市場を映画「良い奴、悪い奴、変な奴」に例え、エヌビディア、インテル、グーグルを主要な事例として示した。記事の見出しは、シャキール・オニールに1兆ウォンをもたらした株という表現でAI半導体投資家の関心を集めた。原文の要約によると、見出しの順にエヌビディアは「良い奴」、インテルは「悪い奴」、グーグルは「変な奴」にたとえられる。AI投資家にとってエヌビディアは、GPUを中心とする代表的な恩恵銘柄として認識される流れを示している。インテルとグーグルは、同じAI半導体市場の中でも異なる市場評価と役割を示す比較対象として提示された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI半导体“好坏怪”股票曝光：英伟达、英特尔、谷歌成焦点",
-        "excerpt": "mk.co.kr将AI半导体市场比作“好家伙、坏家伙、怪家伙”，用英伟达、英特尔和谷歌说明市场定位，并提到沙奎尔·奥尼尔相关股票话题。",
-        "body": "mk.co.kr将人工智能（AI）半导体市场比作电影中的“好家伙、坏家伙、怪家伙”，并把英伟达、英特尔和谷歌作为核心案例。报道标题以“让沙奎尔·奥尼尔获得1万亿韩元的那只股票”这一表述吸引AI半导体投资者关注。根据原文摘要，按标题顺序，英伟达被比作“好家伙”，英特尔被比作“坏家伙”，谷歌被比作“怪家伙”。对AI投资者而言，英伟达体现出以图形处理器（GPU）为中心的代表性受益股形象。英特尔和谷歌则被作为比较对象，显示同一AI半导体格局中不同的市场评价和角色。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Chips de IA: Nvidia, Intel y Google como los ‘buenos, malos y raros’ del mercado",
-        "excerpt": "mk.co.kr comparó el mercado de semiconductores de IA con “El bueno, el malo y el raro”, usando Nvidia, Intel y Google para explicar su simbolismo, junto a una referencia bursátil sobre Shaquille O’Neal.",
-        "body": "mk.co.kr describió el mercado de semiconductores de inteligencia artificial (IA) con la metáfora cinematográfica de “el bueno, el malo y el raro”, presentando a Nvidia, Intel y Google como ejemplos centrales. El titular atrajo la atención al mencionar una acción que habría dado a Shaquille O’Neal 1 billón de wones. Según el resumen original, en ese orden Nvidia representa al “bueno”, Intel al “malo” y Google al “raro”. Para los inversores en IA, Nvidia aparece como una beneficiaria representativa gracias a las unidades de procesamiento gráfico, o GPU. Intel y Google se presentan como puntos de comparación que muestran distintas valoraciones de mercado y roles dentro del mismo tablero de chips de IA. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Chips de IA: Nvidia, Intel e Google como os ‘bons, maus e estranhos’ do mercado",
-        "excerpt": "O mk.co.kr comparou o mercado de semicondutores de IA a “O Bom, o Mau e o Estranho”, usando Nvidia, Intel e Google para explicar posições de mercado e uma referência a Shaquille O’Neal.",
-        "body": "O mk.co.kr descreveu o mercado de semicondutores de inteligência artificial (IA) pela metáfora do filme “O Bom, o Mau e o Estranho”, apresentando Nvidia, Intel e Google como os principais exemplos. O título chamou atenção ao mencionar uma ação que teria rendido 1 trilhão de wones a Shaquille O’Neal. Segundo o resumo original, na ordem do título, a Nvidia é comparada ao “bom”, a Intel ao “mau” e o Google ao “estranho”. Para investidores em IA, a Nvidia aparece como uma beneficiária representativa, centrada nas unidades de processamento gráfico, ou GPUs. Intel e Google são apresentados como pontos de comparação que revelam diferentes avaliações de mercado e papéis dentro do mesmo cenário de chips de IA. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KI-Chips im Fokus: Nvidia, Intel und Google als die Guten, Bösen und Seltsamen",
-        "excerpt": "mk.co.kr verglich den KI-Halbleitermarkt mit „The Good, the Bad, the Weird“ und erklärte damit Nvidia, Intel und Google, ergänzt um einen Aktienverweis zu Shaquille O’Neal.",
-        "body": "mk.co.kr beschrieb den Halbleitermarkt für künstliche Intelligenz (KI) mit der Filmmetapher „The Good, the Bad, the Weird“ und stellte Nvidia, Intel und Google als zentrale Beispiele vor. Die Überschrift lenkte mit dem Hinweis auf eine Aktie, die Shaquille O’Neal 1 Billion Won eingebracht haben soll, zusätzliche Aufmerksamkeit auf das Thema. Laut der ursprünglichen Zusammenfassung steht Nvidia in dieser Reihenfolge für den „Guten“, Intel für den „Bösen“ und Google für den „Seltsamen“. Für KI-Investoren erscheint Nvidia als repräsentativer Profiteur, vor allem rund um Grafikprozessoren, also GPUs. Intel und Google werden als Vergleichspunkte gezeigt, die unterschiedliche Marktbewertungen und Rollen im selben KI-Chipfeld verdeutlichen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Puces IA : Nvidia, Intel et Google vus comme les bons, les mauvais et les étranges",
-        "excerpt": "mk.co.kr a comparé le marché des semi-conducteurs d’IA à “Le Bon, la Brute et le Cinglé”, en utilisant Nvidia, Intel et Google, avec une référence boursière à Shaquille O’Neal.",
-        "body": "mk.co.kr a décrit le marché des semi-conducteurs liés à l’intelligence artificielle (IA) avec la métaphore du film “Le Bon, la Brute et le Cinglé”, en présentant Nvidia, Intel et Google comme exemples clés. Le titre a attiré l’attention avec la mention d’une action qui aurait rapporté 1 000 milliards de wons à Shaquille O’Neal. Selon le résumé original, dans cet ordre, Nvidia correspond au “bon”, Intel au “mauvais” et Google à “l’étrange”. Pour les investisseurs en IA, Nvidia apparaît comme un bénéficiaire représentatif grâce aux processeurs graphiques, ou GPU. Intel et Google sont présentés comme des points de comparaison révélant des perceptions de marché et des rôles différents dans le même paysage des puces IA. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رقائق الذكاء الاصطناعي: إنفيديا وإنتل وغوغل بين الجيد والسيئ والغريب",
-        "excerpt": "قارن mk.co.kr سوق أشباه موصلات الذكاء الاصطناعي بفيلم “الجيد والسيئ والغريب”، مستخدما إنفيديا وإنتل وغوغل لشرح الرمزية، مع إشارة إلى سهم مرتبط بشاكيل أونيل.",
-        "body": "وصف mk.co.kr سوق أشباه موصلات الذكاء الاصطناعي من خلال استعارة فيلم “الجيد والسيئ والغريب”، مقدما إنفيديا وإنتل وغوغل كأمثلة رئيسية. ولفت العنوان الانتباه بعبارة عن سهم منح شاكيل أونيل تريليون وون. ووفقا لملخص النص الأصلي، تأتي إنفيديا في موقع “الجيد”، وإنتل في موقع “السيئ”، وغوغل في موقع “الغريب” وفق ترتيب العنوان. بالنسبة لمستثمري الذكاء الاصطناعي، تظهر إنفيديا كمستفيد بارز يتمحور حول وحدات معالجة الرسوميات GPU. أما إنتل وغوغل فطُرحا كنقطتي مقارنة تكشفان اختلاف تقييمات السوق والأدوار داخل مشهد رقائق الذكاء الاصطناعي نفسه. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI चिप बाजार में Nvidia, Intel और Google: ‘अच्छे, बुरे और अजीब’ शेयरों की पहचान",
-        "excerpt": "mk.co.kr ने AI सेमीकंडक्टर बाजार की तुलना “द गुड, द बैड, द वीयर्ड” से की और Nvidia, Intel, Google की स्थिति के साथ शकील ओ’नील से जुड़े शेयर प्रसंग को रेखांकित किया।",
-        "body": "mk.co.kr ने कृत्रिम बुद्धिमत्ता (AI) सेमीकंडक्टर बाजार को फिल्म “द गुड, द बैड, द वीयर्ड” की उपमा से समझाते हुए Nvidia, Intel और Google को मुख्य उदाहरणों के रूप में रखा। लेख के शीर्षक ने उस शेयर का उल्लेख कर ध्यान खींचा जिसने शकील ओ’नील को 1 ट्रिलियन वॉन दिलाए। मूल सारांश के अनुसार, शीर्षक के क्रम में Nvidia को “अच्छा”, Intel को “बुरा” और Google को “अजीब” बताया गया है। AI निवेशकों के लिए Nvidia ग्राफिक्स प्रोसेसिंग यूनिट यानी GPU के केंद्र में रहने वाली प्रमुख लाभार्थी कंपनी के रूप में दिखाई देती है। Intel और Google उसी AI चिप परिदृश्य में अलग-अलग बाजार मूल्यांकन और भूमिकाओं को दिखाने वाले तुलनात्मक उदाहरण हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham chip AI ‘baik, buruk, aneh’: Nvidia, Intel dan Google jadi sorotan",
-        "excerpt": "mk.co.kr membandingkan pasar semikonduktor AI dengan “The Good, the Bad, the Weird”, memakai Nvidia, Intel dan Google untuk menjelaskan posisinya, serta menyinggung saham terkait Shaquille O’Neal.",
-        "body": "mk.co.kr menggambarkan pasar semikonduktor kecerdasan buatan (AI) dengan metafora film “The Good, the Bad, the Weird”, dan menampilkan Nvidia, Intel, serta Google sebagai contoh utama. Judul artikel menarik perhatian dengan ungkapan tentang saham yang memberi Shaquille O’Neal 1 triliun won. Menurut ringkasan asli, sesuai urutan judul, Nvidia diibaratkan sebagai “yang baik”, Intel sebagai “yang buruk”, dan Google sebagai “yang aneh”. Bagi investor AI, Nvidia terlihat sebagai penerima manfaat utama yang berpusat pada graphics processing unit atau GPU. Intel dan Google diposisikan sebagai pembanding yang menunjukkan penilaian pasar dan peran berbeda dalam lanskap chip AI yang sama. Sumber: mk.co.kr"
       }
     }
   }
