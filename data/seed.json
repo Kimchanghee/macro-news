@@ -1,5 +1,230 @@
 [
   {
+    "id": "33c2bf41ff27",
+    "slug": "삼성-반도체-노조-내분노노갈등-확산-545386",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T20:24:38.360Z",
+    "updatedAt": "2026-05-08T20:24:38.360Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848871",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848871",
+    "titleFingerprint": "ef6f3e08088e08ec9c7c01e1243ec5472b9c176c",
+    "dedupKeys": [
+      "33c2bf41ff273b11110c78043da5183aecba9787",
+      "ef6f3e08088e08ec9c7c01e1243ec5472b9c176c",
+      "d76e3849ba28f4afac9e0fa01cef94f7d44af835"
+    ],
+    "imageUrl": "/images/articles/33c2bf41ff27.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성 반도체 노조 내분 확산…노노갈등이 커지는 배경과 파장",
+        "excerpt": "hankyung.com 보도에 따르면 삼성 반도체 노동조합 내부에서 내분이 불거지며 노조 간 갈등, 이른바 노노갈등이 확산되고 있다.",
+        "body": "삼성 반도체 노동조합 내부에서 내분이 불거지며 노조 간 갈등, 이른바 노노갈등이 확산되고 있다고 hankyung.com이 보도했다. 이번 사안은 삼성 반도체 사업장 노동조합 내부의 갈등이 표면화된 사례로, 원문 제목은 ‘삼성 반도체 노조 내분’과 ‘노노갈등 확산’을 핵심 내용으로 제시했다. 제공된 원문 정보에는 구체적인 날짜, 갈등 당사자, 관련 수치, 세부 쟁점은 포함되지 않았다. 다만 노조 내부 갈등이 커질 경우 조합 운영과 대외 협상 구도에 영향을 줄 수 있어 향후 전개가 주목된다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Samsung Semiconductor Union Rift Widens as Labor-to-Labor Conflict Spreads",
+        "excerpt": "According to hankyung.com, an internal rift has emerged within Samsung’s semiconductor labor union, with labor-to-labor conflict spreading.",
+        "body": "An internal rift has emerged within Samsung’s semiconductor labor union, and labor-to-labor conflict is spreading, hankyung.com reported. The issue points to tensions inside the union at Samsung’s semiconductor operations, with the original headline highlighting “internal conflict” and the spread of “union-to-union conflict” as the central facts. The provided source information does not include a specific date, named parties, figures, or detailed points of dispute. Still, if internal union conflict grows, it could affect union operations and the structure of external negotiations. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "サムスン半導体労組で内紛拡大、労労対立の広がりに注目",
+        "excerpt": "hankyung.comによると、サムスン半導体労働組合の内部で内紛が表面化し、労組間の対立、いわゆる労労対立が広がっている。",
+        "body": "サムスン半導体労働組合の内部で内紛が表面化し、労組間の対立、いわゆる労労対立が広がっているとhankyung.comが報じた。今回の事案は、サムスン半導体事業場の労働組合内部にある対立が表面化したものといえる。原文の見出しは「サムスン半導体労組の内紛」と「労労対立の拡大」を核心として示している。提供された原文情報には、具体的な日付、対立する当事者、関連数値、詳細な争点は含まれていない。ただ、労組内部の対立が強まれば、組合運営や対外交渉の構図に影響する可能性があり、今後の展開が注目される。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "三星半导体工会内部分歧扩大，劳劳矛盾持续蔓延",
+        "excerpt": "据hankyung.com报道，三星半导体工会内部出现分歧，工会之间的矛盾即所谓劳劳矛盾正在扩大。",
+        "body": "据hankyung.com报道，三星半导体工会内部出现分歧，工会之间的矛盾，即所谓劳劳矛盾正在扩大。此事显示三星半导体业务相关工会内部矛盾已经表面化。原文标题将“三星半导体工会内讧”和“劳劳矛盾扩大”作为核心信息。所提供的原文信息未包含具体日期、冲突当事方、相关数据或详细争议点。不过，如果工会内部矛盾继续扩大，可能影响工会运作及对外谈判格局，后续发展值得关注。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Crece la división en el sindicato de semiconductores de Samsung",
+        "excerpt": "Según hankyung.com, surgió una disputa interna en el sindicato de semiconductores de Samsung y se expande el conflicto entre grupos laborales.",
+        "body": "Una disputa interna surgió dentro del sindicato de semiconductores de Samsung y el conflicto entre grupos laborales se está expandiendo, informó hankyung.com. El caso muestra que las tensiones internas del sindicato vinculado a las operaciones de semiconductores de Samsung salieron a la superficie. El título original destaca como hechos centrales la “división interna del sindicato de semiconductores de Samsung” y la expansión del “conflicto entre trabajadores”. La información proporcionada no incluye fecha concreta, partes identificadas, cifras ni detalles del desacuerdo. Aun así, si el conflicto interno crece, podría afectar la gestión sindical y el marco de negociación externa. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Divisão no sindicato de semicondutores da Samsung ganha força",
+        "excerpt": "Segundo o hankyung.com, uma disputa interna surgiu no sindicato de semicondutores da Samsung, ampliando o conflito entre grupos trabalhistas.",
+        "body": "Uma disputa interna surgiu dentro do sindicato de semicondutores da Samsung, e o conflito entre grupos trabalhistas está se ampliando, informou o hankyung.com. O caso mostra que tensões internas no sindicato ligado às operações de semicondutores da Samsung vieram à tona. O título original apresenta como pontos centrais a “divisão interna no sindicato de semicondutores da Samsung” e a expansão do “conflito entre trabalhadores”. As informações fornecidas não incluem data específica, partes envolvidas, números relacionados ou detalhes da disputa. Ainda assim, se o conflito interno avançar, poderá afetar a operação sindical e a estrutura das negociações externas. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Interner Streit bei Samsung-Halbleitergewerkschaft weitet sich aus",
+        "excerpt": "Laut hankyung.com ist in der Samsung-Halbleitergewerkschaft ein interner Streit ausgebrochen, während Konflikte zwischen Arbeitnehmergruppen zunehmen.",
+        "body": "In der Samsung-Halbleitergewerkschaft ist ein interner Streit ausgebrochen, und Konflikte zwischen Arbeitnehmergruppen weiten sich aus, berichtete hankyung.com. Der Fall zeigt, dass Spannungen innerhalb der Gewerkschaft bei Samsungs Halbleitergeschäft sichtbar geworden sind. Die ursprüngliche Überschrift nennt den “internen Streit in der Samsung-Halbleitergewerkschaft” und die Ausweitung von “Konflikten zwischen Arbeitnehmergruppen” als Kernpunkte. Die bereitgestellten Informationen enthalten kein konkretes Datum, keine benannten Konfliktparteien, keine Zahlen und keine detaillierten Streitpunkte. Sollte der interne Konflikt weiter wachsen, könnte dies die Gewerkschaftsarbeit und die Struktur externer Verhandlungen beeinflussen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Tensions internes au syndicat des semi-conducteurs de Samsung",
+        "excerpt": "Selon hankyung.com, une dissension interne est apparue au sein du syndicat des semi-conducteurs de Samsung et le conflit entre groupes de salariés s’étend.",
+        "body": "Une dissension interne est apparue au sein du syndicat des semi-conducteurs de Samsung, et le conflit entre groupes de salariés s’étend, a rapporté hankyung.com. L’affaire montre que des tensions internes dans le syndicat lié aux activités de semi-conducteurs de Samsung sont devenues visibles. Le titre original met en avant comme faits centraux la “dissension interne du syndicat des semi-conducteurs de Samsung” et l’extension du “conflit entre salariés”. Les informations fournies ne mentionnent ni date précise, ni parties nommées, ni chiffres, ni détails du différend. Si le conflit interne s’amplifie, il pourrait peser sur le fonctionnement syndical et sur la configuration des négociations externes. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "اتساع الخلاف داخل نقابة أشباه الموصلات في سامسونغ",
+        "excerpt": "بحسب hankyung.com، ظهر خلاف داخلي داخل نقابة أشباه الموصلات في سامسونغ، مع توسع النزاع بين المجموعات العمالية.",
+        "body": "ظهر خلاف داخلي داخل نقابة أشباه الموصلات في سامسونغ، ويتسع النزاع بين المجموعات العمالية، وفق ما أفاد به hankyung.com. وتظهر هذه القضية أن التوترات داخل النقابة المرتبطة بعمليات أشباه الموصلات في سامسونغ خرجت إلى السطح. ويعرض العنوان الأصلي “الخلاف الداخلي في نقابة أشباه الموصلات في سامسونغ” و“اتساع النزاع بين العمال” بوصفهما جوهر الخبر. ولا تتضمن المعلومات المقدمة تاريخا محددا أو أطرافا مسماة أو أرقاما أو تفاصيل عن نقاط الخلاف. ومع ذلك، فإن اتساع الخلاف الداخلي قد يؤثر في إدارة النقابة وفي شكل المفاوضات الخارجية. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Samsung सेमीकंडक्टर यूनियन में आंतरिक कलह, श्रमिक संघर्ष बढ़ा",
+        "excerpt": "hankyung.com के अनुसार, Samsung की सेमीकंडक्टर यूनियन के भीतर आंतरिक कलह सामने आई है और श्रमिक समूहों के बीच टकराव फैल रहा है।",
+        "body": "Samsung की सेमीकंडक्टर यूनियन के भीतर आंतरिक कलह सामने आई है और श्रमिक समूहों के बीच टकराव फैल रहा है, hankyung.com ने रिपोर्ट किया। यह मामला Samsung के सेमीकंडक्टर कारोबार से जुड़ी यूनियन के अंदर तनाव के सतह पर आने को दिखाता है। मूल शीर्षक में “Samsung सेमीकंडक्टर यूनियन की अंदरूनी कलह” और “श्रमिकों के बीच संघर्ष का विस्तार” मुख्य तथ्य के रूप में दिए गए हैं। उपलब्ध मूल जानकारी में कोई निश्चित तारीख, संबंधित पक्षों के नाम, आंकड़े या विवाद के विस्तृत मुद्दे शामिल नहीं हैं। फिर भी, यदि आंतरिक यूनियन संघर्ष बढ़ता है, तो यह यूनियन संचालन और बाहरी वार्ता की संरचना को प्रभावित कर सकता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Konflik Internal Serikat Semikonduktor Samsung Makin Meluas",
+        "excerpt": "Menurut hankyung.com, konflik internal muncul di serikat pekerja semikonduktor Samsung, sementara perselisihan antarkelompok pekerja meluas.",
+        "body": "Konflik internal muncul di dalam serikat pekerja semikonduktor Samsung, dan perselisihan antarkelompok pekerja meluas, lapor hankyung.com. Kasus ini menunjukkan bahwa ketegangan di dalam serikat yang terkait dengan operasi semikonduktor Samsung telah muncul ke permukaan. Judul asli menekankan “konflik internal serikat semikonduktor Samsung” dan meluasnya “konflik antarsesama pekerja” sebagai inti berita. Informasi sumber yang diberikan tidak mencakup tanggal tertentu, pihak yang disebutkan, angka terkait, atau rincian isu perselisihan. Namun, jika konflik internal serikat membesar, hal itu dapat memengaruhi operasi serikat dan struktur negosiasi eksternal. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "6105aff9fde5",
+    "slug": "eu-금호넥센-中생산-타이어에-299-관세-폭탄-408616",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T20:23:43.333Z",
+    "updatedAt": "2026-05-08T20:23:43.333Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848821",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848821",
+    "titleFingerprint": "e24d67a962fb80d6abd92b5a011d4d16801ecff9",
+    "dedupKeys": [
+      "6105aff9fde54e32a6d8dcb9dc7782fbf91831fc",
+      "e24d67a962fb80d6abd92b5a011d4d16801ecff9",
+      "0f78946db63efb2f9078ecd251476bf77e2998ff"
+    ],
+    "imageUrl": "/images/articles/6105aff9fde5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "EU, 금호·넥센 중국 생산 타이어에 29.9% 관세 부과…유럽 수출 부담 주목",
+        "excerpt": "EU가 금호타이어와 넥센타이어의 중국 생산 타이어에 29.9% 관세를 부과하면서 한국 타이어 업체의 유럽 수출 비용 부담이 부각됐다.",
+        "body": "EU가 금호타이어와 넥센타이어의 중국 생산 타이어에 29.9% 관세를 부과했다고 hankyung.com이 보도했다. 이번 조치는 중국에서 생산돼 유럽 시장으로 들어가는 해당 타이어 제품을 대상으로 한다. 핵심 수치는 29.9%로, 관세율 자체가 유럽 판매와 수출 채산성에 직접 영향을 줄 수 있는 변수다. 금호타이어와 넥센타이어는 한국 타이어 업체이지만, 이번 사안은 생산지가 중국인 물량에 적용된다는 점이 특징이다. 향후 유럽 시장에서 중국 생산 물량의 가격 경쟁력과 공급 전략이 관세 부담을 중심으로 재검토될 가능성이 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "EU Imposes 29.9% Tariff on Kumho and Nexen Tires Made in China",
+        "excerpt": "The EU has imposed a 29.9% tariff on China-made tires from Kumho Tire and Nexen Tire, highlighting new cost pressure on Korean tire exports to Europe.",
+        "body": "The European Union has imposed a 29.9% tariff on tires made in China by Kumho Tire and Nexen Tire, according to hankyung.com. The measure applies to the relevant tire products produced in China and shipped into the European market. The key figure is 29.9%, a tariff rate that can directly affect European sales costs and export profitability. Although Kumho Tire and Nexen Tire are Korean tire makers, the notable point is that the measure targets volume produced in China. In Europe, the price competitiveness and supply strategy of China-made tire shipments may now be reviewed around this tariff burden. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "EU、金湖・ネクセンの中国生産タイヤに29.9％関税を賦課",
+        "excerpt": "EUは金湖タイヤとネクセンタイヤの中国生産タイヤに29.9％の関税を課し、韓国タイヤ企業の欧州輸出コスト負担が浮き彫りになった。",
+        "body": "EUが金湖タイヤとネクセンタイヤの中国生産タイヤに29.9％の関税を課したと、hankyung.comが報じた。今回の措置は、中国で生産され欧州市場に入る該当タイヤ製品が対象となる。核心となる数値は29.9％で、この関税率は欧州販売と輸出採算性に直接影響し得る要因だ。金湖タイヤとネクセンタイヤは韓国のタイヤメーカーだが、今回の案件は生産地が中国である物量に適用される点が特徴である。今後、欧州市場では中国生産品の価格競争力と供給戦略が、関税負担を軸に見直される可能性がある。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "欧盟对锦湖和耐克森中国生产轮胎征收29.9%关税",
+        "excerpt": "欧盟对锦湖轮胎和耐克森轮胎在中国生产的轮胎征收29.9%关税，韩国轮胎企业对欧洲出口的成本压力受到关注。",
+        "body": "据hankyung.com报道，欧盟已对锦湖轮胎和耐克森轮胎在中国生产的轮胎征收29.9%关税。此次措施适用于在中国生产并进入欧洲市场的相关轮胎产品。核心数字是29.9%，这一关税税率本身可能直接影响欧洲销售成本和出口盈利能力。锦湖轮胎和耐克森轮胎虽是韩国轮胎企业，但此次事件的特点在于适用对象是生产地为中国的货量。今后，在欧洲市场上，中国生产轮胎的价格竞争力和供应策略可能围绕关税负担重新评估。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "La UE aplica un arancel del 29,9% a neumáticos de Kumho y Nexen hechos en China",
+        "excerpt": "La UE impuso un arancel del 29,9% a neumáticos fabricados en China por Kumho Tire y Nexen Tire, elevando la presión de costos sobre sus exportaciones a Europa.",
+        "body": "La Unión Europea impuso un arancel del 29,9% a los neumáticos fabricados en China por Kumho Tire y Nexen Tire, según informó hankyung.com. La medida se aplica a los productos de neumáticos correspondientes que se producen en China y entran al mercado europeo. La cifra clave es 29,9%, una tasa que puede afectar directamente los costos de venta en Europa y la rentabilidad exportadora. Aunque Kumho Tire y Nexen Tire son fabricantes coreanos, el punto central es que la medida alcanza a los volúmenes cuyo lugar de producción es China. En adelante, la competitividad de precios y la estrategia de suministro de esos neumáticos en Europa podrían revisarse en torno a esta carga arancelaria. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "UE impõe tarifa de 29,9% a pneus da Kumho e da Nexen feitos na China",
+        "excerpt": "A UE aplicou tarifa de 29,9% a pneus fabricados na China pela Kumho Tire e pela Nexen Tire, destacando pressão de custos nas exportações coreanas à Europa.",
+        "body": "A União Europeia impôs uma tarifa de 29,9% sobre pneus fabricados na China pela Kumho Tire e pela Nexen Tire, segundo o hankyung.com. A medida se aplica aos produtos de pneus correspondentes produzidos na China e destinados ao mercado europeu. O número central é 29,9%, taxa que pode afetar diretamente os custos de venda na Europa e a rentabilidade das exportações. Embora Kumho Tire e Nexen Tire sejam fabricantes coreanas, o ponto relevante é que a aplicação recai sobre volumes com produção na China. No mercado europeu, a competitividade de preços e a estratégia de fornecimento desses pneus podem ser reavaliadas em torno desse ônus tarifário. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "EU verhängt 29,9% Zoll auf China-Reifen von Kumho und Nexen",
+        "excerpt": "Die EU belegt in China produzierte Reifen von Kumho Tire und Nexen Tire mit 29,9% Zoll; damit rücken höhere Kosten für koreanische Reifenexporte nach Europa in den Fokus.",
+        "body": "Die Europäische Union hat auf in China produzierte Reifen von Kumho Tire und Nexen Tire einen Zoll von 29,9% verhängt, berichtete hankyung.com. Die Maßnahme gilt für die entsprechenden Reifenprodukte, die in China hergestellt und in den europäischen Markt geliefert werden. Die zentrale Zahl ist 29,9%; dieser Zollsatz kann Verkaufskosten in Europa und die Rentabilität von Exporten direkt beeinflussen. Kumho Tire und Nexen Tire sind koreanische Reifenhersteller, doch entscheidend ist hier, dass die Regelung auf Mengen mit Produktionsstandort China angewendet wird. Im europäischen Markt könnten Preiswettbewerbsfähigkeit und Lieferstrategie dieser China-Produktion nun unter dem Gesichtspunkt der Zollbelastung überprüft werden. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "L’UE impose un droit de 29,9% aux pneus Kumho et Nexen produits en Chine",
+        "excerpt": "L’UE a imposé un droit de 29,9% aux pneus fabriqués en Chine par Kumho Tire et Nexen Tire, mettant en avant la pression des coûts sur les exportations vers l’Europe.",
+        "body": "L’Union européenne a imposé un droit de douane de 29,9% aux pneus fabriqués en Chine par Kumho Tire et Nexen Tire, selon hankyung.com. La mesure vise les produits concernés fabriqués en Chine et entrant sur le marché européen. Le chiffre clé est 29,9%, un taux susceptible d’influer directement sur les coûts de vente en Europe et la rentabilité des exportations. Même si Kumho Tire et Nexen Tire sont des fabricants coréens, l’élément notable est que la mesure s’applique aux volumes dont le lieu de production est la Chine. Sur le marché européen, la compétitivité prix et la stratégie d’approvisionnement de ces pneus pourraient être réexaminées autour de cette charge douanière. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "الاتحاد الأوروبي يفرض رسوما 29.9% على إطارات كومهو ونكسن المصنوعة في الصين",
+        "excerpt": "فرض الاتحاد الأوروبي رسوما بنسبة 29.9% على إطارات تنتجها كومهو تاير ونكسن تاير في الصين، ما يبرز ضغط التكلفة على صادرات الإطارات الكورية إلى أوروبا.",
+        "body": "فرض الاتحاد الأوروبي رسوما جمركية بنسبة 29.9% على إطارات تصنعها كومهو تاير ونكسن تاير في الصين، بحسب ما أورد موقع hankyung.com. وتستهدف هذه الخطوة منتجات الإطارات المعنية التي تنتج في الصين وتدخل السوق الأوروبية. الرقم الأساسي هو 29.9%، وهي نسبة يمكن أن تؤثر مباشرة في تكاليف البيع في أوروبا وربحية التصدير. ورغم أن كومهو تاير ونكسن تاير شركتان كوريتان لصناعة الإطارات، فإن ما يميز هذه القضية هو أن الرسوم تطبق على الكميات التي يكون موقع إنتاجها في الصين. وقد يعاد النظر في السوق الأوروبية في تنافسية أسعار هذه الكميات واستراتيجية توريدها على أساس عبء الرسوم. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "EU ने चीन में बने Kumho और Nexen टायरों पर 29.9% शुल्क लगाया",
+        "excerpt": "EU ने Kumho Tire और Nexen Tire के चीन में बने टायरों पर 29.9% शुल्क लगाया, जिससे यूरोप को कोरियाई टायर निर्यात की लागत का दबाव सामने आया।",
+        "body": "यूरोपीय संघ ने Kumho Tire और Nexen Tire द्वारा चीन में बनाए गए टायरों पर 29.9% शुल्क लगाया है, यह जानकारी hankyung.com ने दी। यह कदम उन संबंधित टायर उत्पादों पर लागू होता है जो चीन में बनते हैं और यूरोपीय बाजार में प्रवेश करते हैं। मुख्य आंकड़ा 29.9% है, और यह शुल्क दर यूरोप में बिक्री लागत तथा निर्यात लाभप्रदता को सीधे प्रभावित कर सकती है। Kumho Tire और Nexen Tire कोरियाई टायर निर्माता हैं, लेकिन इस मामले की खास बात यह है कि शुल्क उन खेपों पर लागू है जिनका उत्पादन स्थल चीन है। यूरोपीय बाजार में चीन-निर्मित इन टायरों की मूल्य प्रतिस्पर्धा और आपूर्ति रणनीति अब शुल्क भार के आधार पर फिर से देखी जा सकती है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "UE Kenakan Tarif 29,9% pada Ban Kumho dan Nexen Produksi China",
+        "excerpt": "UE mengenakan tarif 29,9% pada ban buatan China dari Kumho Tire dan Nexen Tire, menyoroti tekanan biaya bagi ekspor ban Korea ke pasar Eropa.",
+        "body": "Uni Eropa mengenakan tarif 29,9% pada ban yang diproduksi di China oleh Kumho Tire dan Nexen Tire, menurut hankyung.com. Kebijakan ini berlaku untuk produk ban terkait yang dibuat di China dan masuk ke pasar Eropa. Angka utamanya adalah 29,9%, tingkat tarif yang dapat langsung memengaruhi biaya penjualan di Eropa dan profitabilitas ekspor. Meski Kumho Tire dan Nexen Tire adalah produsen ban Korea, hal penting dalam kasus ini adalah penerapannya pada volume dengan lokasi produksi di China. Di pasar Eropa, daya saing harga dan strategi pasokan ban produksi China tersebut dapat ditinjau kembali dengan mempertimbangkan beban tarif ini. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "f7dd71e5480d",
+    "slug": "여기가-천궁의-나라입니까k방산-아이돌-나오기까지-435809",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T20:22:40.452Z",
+    "updatedAt": "2026-05-08T20:22:40.452Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12040997",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12040997",
+    "titleFingerprint": "68a6aed36ca87d5cca82514977e8bed9b92cd7f8",
+    "dedupKeys": [
+      "f7dd71e5480df054b7982a71cf1b461259388c9e",
+      "68a6aed36ca87d5cca82514977e8bed9b92cd7f8",
+      "5693479ed50b4474088e775ab6f58dfb2a0baa62"
+    ],
+    "imageUrl": "/images/articles/f7dd71e5480d.png",
+    "i18n": {
+      "ko": {
+        "title": "천궁-II 조기 공급 요청…중동 위기 속 주목받는 K방산 방공무기",
+        "excerpt": "미국·이스라엘과 이란의 군사 충돌로 중동 국가들이 방공 전력 보강에 나서며 한국의 대표 방공무기 천궁-II 조기 공급 요청이 부각됐다.",
+        "body": "미국·이스라엘과 이란의 군사 충돌로 중동 국가들이 방공망 보강을 서두르면서 한국의 대표 방공무기 ‘천궁-II’가 다시 주목받고 있다. 원문은 “급하게 됐습니다, 천궁-II 좀 빨리 보내주세요”라는 요청을 통해 현지의 긴박한 수요를 전했다. 천궁은 국가대표 방공무기로 불리며, 개발 과정에는 피와 땀, 눈물이 있었다고 소개됐다. 이번 흐름은 중동 국가들이 공중 위협에 대응할 방공체계 확보를 중시하고 있음을 보여준다. 향후 K방산의 존재감은 천궁-II의 공급과 실전 수요에 따라 더 커질 수 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Cheongung-II Early Supply Request Highlights K-Defense Air Shield in Middle East Crisis",
+        "excerpt": "As the military clash involving the United States, Israel and Iran raises alarm in the Middle East, countries are seeking faster delivery of Korea’s Cheongung-II air-defense system.",
+        "body": "As the military clash involving the United States, Israel and Iran put Middle Eastern countries on alert, Korea’s representative air-defense weapon, Cheongung-II, is drawing renewed attention. The original report conveyed the urgency with the request, “Please send Cheongung-II quickly.” Cheongung is described as a national air-defense weapon, with its development carrying untold sweat, tears and effort. The situation shows that Middle Eastern countries are prioritizing air-defense systems to respond to aerial threats. The future presence of K-defense may grow further depending on Cheongung-II supply and real demand. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "天弓-IIの早期供給要請、中東危機で注目集める韓国防空兵器",
+        "excerpt": "米国・イスラエルとイランの軍事衝突を受け、中東諸国が防空戦力の強化を急ぐなか、韓国の天弓-II早期供給要請が浮上した。",
+        "body": "米国・イスラエルとイランの軍事衝突により中東諸国が防空網の強化を急ぐなか、韓国を代表する防空兵器「天弓-II」が改めて注目されている。原文は「急ぎになりました、天弓-IIを早く送ってください」という要請を通じ、現地の切迫した需要を伝えた。天弓は国家代表級の防空兵器とされ、開発の裏には血と汗と涙があったと紹介された。今回の動きは、中東諸国が空からの脅威に対応する防空体系の確保を重視していることを示す。今後、K防衛産業の存在感は天弓-IIの供給と実需要によりさらに高まる可能性がある。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "“天弓-II”提前供货请求升温，中东危机凸显韩国防空武器",
+        "excerpt": "随着美国、以色列与伊朗的军事冲突加剧中东紧张，多国加快补强防空力量，韩国“天弓-II”提前供货请求受到关注。",
+        "body": "由于美国、以色列与伊朗的军事冲突，中东国家正加快补强防空网，韩国代表性防空武器“天弓-II”再次受到关注。原文通过“情况很紧急，请尽快发送天弓-II”的请求，传达了当地迫切需求。天弓被称为韩国国家级防空武器，其背后有研发过程中的汗水、泪水与努力。此次动向显示，中东国家正在重视 확보能够应对空中威胁的防空体系。未来，K防务的存在感可能随着天弓-II的供应和实际需求进一步扩大。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Pedido urgente de Cheongung-II resalta el arma antiaérea coreana ante la crisis en Medio Oriente",
+        "excerpt": "La tensión militar entre Estados Unidos, Israel e Irán llevó a países de Medio Oriente a reforzar su defensa aérea y puso en foco el suministro anticipado del Cheongung-II coreano.",
+        "body": "La confrontación militar entre Estados Unidos, Israel e Irán llevó a países de Medio Oriente a acelerar el refuerzo de sus redes de defensa aérea, mientras el Cheongung-II, arma antiaérea representativa de Corea, vuelve a atraer atención. El texto original reflejó la urgencia con la petición: “Por favor, envíen pronto el Cheongung-II”. Cheongung es presentado como un sistema nacional de defensa aérea, desarrollado con esfuerzo, sacrificio y lágrimas. Este movimiento muestra que los países de la región dan prioridad a sistemas capaces de responder a amenazas aéreas. La presencia de la defensa coreana podría crecer según el suministro y la demanda real del Cheongung-II. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Pedido antecipado do Cheongung-II destaca arma aérea coreana em meio à crise no Oriente Médio",
+        "excerpt": "Com o confronto militar envolvendo Estados Unidos, Israel e Irã, países do Oriente Médio buscam reforçar a defesa aérea e pedem entrega mais rápida do Cheongung-II da Coreia.",
+        "body": "O confronto militar envolvendo Estados Unidos, Israel e Irã levou países do Oriente Médio a acelerar o reforço de suas redes de defesa aérea, colocando novamente em evidência o Cheongung-II, principal arma antiaérea da Coreia. O texto original mostrou a urgência com o pedido: “Por favor, enviem o Cheongung-II rapidamente”. O Cheongung é descrito como uma arma nacional de defesa aérea, desenvolvida com esforço, suor e lágrimas. O movimento indica que os países da região priorizam sistemas capazes de responder a ameaças vindas do ar. A presença da defesa coreana pode crescer conforme o fornecimento e a demanda real pelo Cheongung-II. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Frühe Lieferung von Cheongung-II gefragt: Koreas Luftabwehr rückt in Nahost-Krise in den Fokus",
+        "excerpt": "Der militärische Konflikt zwischen den USA, Israel und Iran erhöht den Druck auf Nahost-Staaten, ihre Luftabwehr zu stärken, und lenkt den Blick auf Koreas Cheongung-II.",
+        "body": "Der militärische Konflikt zwischen den USA, Israel und Iran veranlasst Staaten im Nahen Osten, ihre Luftabwehr rasch zu verstärken. Dadurch rückt Koreas repräsentatives Luftabwehrsystem Cheongung-II erneut in den Fokus. Der Originalbericht machte die Dringlichkeit mit der Bitte deutlich: “Bitte schicken Sie Cheongung-II schnell.” Cheongung wird als nationales Luftabwehrsystem beschrieben, dessen Entwicklung von großem Einsatz, Schweiß und Tränen geprägt war. Die Entwicklung zeigt, dass die Länder der Region Systeme zur Abwehr von Bedrohungen aus der Luft priorisieren. Die Bedeutung der koreanischen Verteidigungsindustrie könnte je nach Lieferung und realer Nachfrage weiter wachsen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Demande accélérée pour le Cheongung-II: la défense aérienne coréenne attire l’attention au Moyen-Orient",
+        "excerpt": "Le conflit militaire impliquant les États-Unis, Israël et l’Iran pousse les pays du Moyen-Orient à renforcer leur défense aérienne et met en avant le Cheongung-II coréen.",
+        "body": "Le conflit militaire impliquant les États-Unis, Israël et l’Iran pousse les pays du Moyen-Orient à accélérer le renforcement de leurs défenses aériennes, tandis que le Cheongung-II, arme antiaérienne représentative de la Corée, attire de nouveau l’attention. Le texte original illustre cette urgence par la demande: “Veuillez envoyer rapidement le Cheongung-II.” Cheongung est présenté comme une arme nationale de défense aérienne, née d’efforts, de sueur et de larmes. Cette évolution montre que les pays de la région accordent une priorité aux systèmes capables de répondre aux menaces aériennes. La présence de la défense coréenne pourrait encore grandir selon l’approvisionnement et la demande réelle. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "طلب عاجل على تشيونغونغ-II يبرز سلاح الدفاع الجوي الكوري وسط أزمة الشرق الأوسط",
+        "excerpt": "مع التصعيد العسكري بين الولايات المتحدة وإسرائيل وإيران، تسعى دول في الشرق الأوسط إلى تعزيز دفاعاتها الجوية، ما سلط الضوء على تسريع توريد تشيونغونغ-II الكوري.",
+        "body": "مع التصعيد العسكري بين الولايات المتحدة وإسرائيل وإيران، سارعت دول في الشرق الأوسط إلى تعزيز شبكات الدفاع الجوي، فعاد نظام تشيونغونغ-II، وهو سلاح دفاع جوي كوري بارز، إلى دائرة الاهتمام. ونقل النص الأصلي حجم الاستعجال عبر طلب مفاده: “لقد أصبح الأمر عاجلا، أرسلوا تشيونغونغ-II بسرعة”. ويعرض التقرير تشيونغونغ كسلاح دفاع جوي وطني، ووراء تطويره جهد وعرق ودموع. ويظهر هذا المسار أن دول المنطقة تركز على امتلاك أنظمة قادرة على مواجهة التهديدات الجوية. وقد يزداد حضور الصناعات الدفاعية الكورية تبعا لإمدادات تشيونغونغ-II والطلب الفعلي عليه. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "चेओंगुंग-II की जल्द आपूर्ति की मांग, मध्य पूर्व संकट में कोरियाई वायु रक्षा हथियार पर नजर",
+        "excerpt": "अमेरिका, इज़राइल और ईरान से जुड़े सैन्य टकराव के बाद मध्य पूर्वी देश वायु रक्षा मजबूत कर रहे हैं, जिससे कोरिया के चेओंगुंग-II की शीघ्र आपूर्ति पर ध्यान गया है।",
+        "body": "अमेरिका, इज़राइल और ईरान से जुड़े सैन्य टकराव के कारण मध्य पूर्वी देश अपनी वायु रक्षा व्यवस्था मजबूत करने में तेजी ला रहे हैं, और कोरिया का प्रमुख वायु रक्षा हथियार चेओंगुंग-II फिर से चर्चा में है। मूल रिपोर्ट ने “स्थिति जरूरी हो गई है, कृपया चेओंगुंग-II जल्दी भेजें” जैसे अनुरोध से स्थानीय मांग की तात्कालिकता दिखाई। चेओंगुंग को राष्ट्रीय प्रतिनिधि वायु रक्षा हथियार बताया गया है, जिसके विकास के पीछे मेहनत, पसीना और आंसू रहे। यह रुझान दिखाता है कि क्षेत्रीय देश हवाई खतरों से निपटने वाली प्रणालियों को प्राथमिकता दे रहे हैं। चेओंगुंग-II की आपूर्ति और वास्तविक मांग के आधार पर K-डिफेंस की उपस्थिति और बढ़ सकती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Permintaan Pasok Cepat Cheongung-II Soroti Senjata Pertahanan Udara Korea di Krisis Timur Tengah",
+        "excerpt": "Konflik militer yang melibatkan Amerika Serikat, Israel, dan Iran membuat negara Timur Tengah memperkuat pertahanan udara dan menyoroti pasokan cepat Cheongung-II Korea.",
+        "body": "Konflik militer yang melibatkan Amerika Serikat, Israel, dan Iran membuat negara-negara Timur Tengah mempercepat penguatan jaringan pertahanan udara, sehingga Cheongung-II, senjata pertahanan udara utama Korea, kembali menjadi sorotan. Teks asli menggambarkan urgensi itu lewat permintaan, “Situasinya mendesak, tolong kirim Cheongung-II lebih cepat.” Cheongung disebut sebagai senjata pertahanan udara nasional, dengan proses pengembangan yang menyimpan kerja keras, keringat, dan air mata. Perkembangan ini menunjukkan bahwa negara-negara kawasan memprioritaskan sistem untuk menghadapi ancaman udara. Keberadaan K-defense dapat makin besar bergantung pada pasokan dan permintaan nyata Cheongung-II. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "333179d58e9b",
     "slug": "반도체-이익-공유론에-담긴-위험한-논리-여기는-논설실-702925",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Kebakaran Gudang Material Dekat SD di Okcheon, Sekitar 10 Staf Sekolah Dievakuasi",
         "excerpt": "Pada 8 Mei sekitar pukul 15.48, kebakaran terjadi di gudang material bangunan yang berdekatan dengan sebuah SD di Seodae-ri, Okcheon-eup, sehingga sekitar 10 staf sekolah dievakuasi.",
         "body": "Pada 8 Mei sekitar pukul 15.48, kebakaran terjadi di sebuah gudang material bangunan yang berdekatan dengan sekolah dasar di Seodae-ri, Okcheon-eup, Kabupaten Okcheon, Provinsi Chungcheong Utara. Menurut otoritas pemadam kebakaran dan pihak terkait, api dilaporkan muncul di gudang di sekitar sekolah, dan sekitar 10 tenaga pendidik serta staf yang berada di dekat lokasi dievakuasi demi keselamatan. Karena lokasi kebakaran merupakan gudang material bangunan yang dekat dengan sekolah dasar, respons awal dan pengamanan area sekitar menjadi hal penting. Berdasarkan informasi yang tersedia dalam laporan asli, penyebab kebakaran, skala kerugian material, dan apakah ada korban tambahan belum dikonfirmasi. Artikel ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "eba6be99b3dc",
-    "slug": "보람그룹삼성전자-가전상조-제휴-신상품-공개실질-혜택-제공-739920",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T08:47:07.883Z",
-    "updatedAt": "2026-05-08T08:47:07.883Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12041321",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12041321",
-    "titleFingerprint": "9c6ed0779e43ea672a4094a6303a1c09a9f867b0",
-    "dedupKeys": [
-      "eba6be99b3dc3d6256517dbebc4b54fb75f8e431",
-      "9c6ed0779e43ea672a4094a6303a1c09a9f867b0",
-      "29e57f62fc50e523f63493d0bf67e781d7dfed61"
-    ],
-    "imageUrl": "/images/articles/eba6be99b3dc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "보람그룹·삼성전자, 가전·상조 결합 ‘B&케어팩’ 공개",
-        "excerpt": "보람그룹은 삼성전자와 협약을 맺고 삼성스토어 가전·모바일 구매와 상조 서비스를 연계한 ‘B&케어팩’을 출시해 실질 혜택 제공에 나섰다.",
-        "body": "보람그룹이 삼성전자와 손잡고 삼성스토어의 가전·모바일 구매 혜택과 상조 서비스를 결합한 신규 제휴 상품 ‘B&케어팩’을 공개했다. 이번 상품은 양사가 협약을 맺고 선보인 ‘상조 제휴상품 2.0버전’으로, 소비자가 삼성스토어에서 가전 및 모바일 제품을 구매하는 과정에서 상조 서비스와 연계된 혜택을 받을 수 있도록 설계됐다. 보람그룹은 이번 출시를 통해 상조 제휴 시장 재편에 나선다는 계획이다. 가전 구매와 상조 서비스를 함께 제공하는 방식은 고객 접점을 넓히고 실질적인 혜택을 강조하는 전략으로 풀이된다. 다만 공개된 원문 기준 구체적인 가격, 가입 조건, 혜택 규모는 별도로 제시되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Boram Group and Samsung Unveil B&Care Pack Tying Appliances to Funeral Services",
-        "excerpt": "Boram Group partnered with Samsung Electronics to launch B&Care Pack, linking Samsung Store appliance and mobile purchases with mutual-aid funeral services.",
-        "body": "Boram Group has unveiled B&Care Pack, a new partnership product developed with Samsung Electronics that links Samsung Store appliance and mobile purchases with mutual-aid funeral services. The product is described as version 2.0 of the companies’ mutual-aid partnership offering, created under an agreement between the two firms. It is designed so customers buying home appliances or mobile products at Samsung Store can receive benefits connected to Boram Group’s funeral service program. Boram Group said the launch is part of its move to reshape the mutual-aid partnership market. The model expands customer contact points by combining electronics purchases with service benefits. Based on the original report, specific prices, subscription terms, and benefit amounts were not disclosed. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ボラムグループとサムスン電子、家電・互助サービス連携のB&ケアパック公開",
-        "excerpt": "ボラムグループはサムスン電子と協約を結び、サムスンストアの家電・モバイル購入と互助サービスを連携したB&ケアパックを発売した。",
-        "body": "ボラムグループはサムスン電子と組み、サムスンストアでの家電・モバイル購入特典と互助サービスを結び付けた新たな提携商品「B&ケアパック」を公開した。今回の商品は、両社が協約を締結して披露した「互助提携商品2.0バージョン」と位置付けられている。消費者がサムスンストアで家電やモバイル製品を購入する際、互助サービスと連動した特典を受けられるよう設計された。ボラムグループは今回の発売を通じて、互助提携市場の再編に乗り出す計画だ。家電購入と互助サービスを組み合わせる方式は、顧客接点を広げ、実質的な利点を強調する戦略とみられる。原文基準では、具体的な価格、加入条件、特典規模は別途示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Boram集团携三星电子发布家电与互助服务联动B&Care Pack",
-        "excerpt": "Boram集团与三星电子签署协议，推出将三星Store家电、移动产品购买与互助服务相结合的B&Care Pack。",
-        "body": "Boram集团与三星电子合作，发布了将三星Store家电、移动产品购买权益与互助服务相结合的新联名商品“B&Care Pack”。该商品是两家公司签署协议后推出的“互助联名商品2.0版本”。其设计方向是让消费者在三星Store购买家电及移动产品时，可以获得与Boram集团互助服务相关联的权益。Boram集团计划借此次发布推动互助联名市场重塑。把家电购买与互助服务同时提供的模式，被视为扩大客户接触点并强调实际利益的策略。不过，按原文信息，具体价格、加入条件及权益规模并未另行披露。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Boram Group y Samsung presentan B&Care Pack, alianza de electrodomésticos y servicios",
-        "excerpt": "Boram Group firmó un acuerdo con Samsung Electronics para lanzar B&Care Pack, que vincula compras en Samsung Store con servicios mutuales funerarios.",
-        "body": "Boram Group presentó B&Care Pack, un nuevo producto de alianza desarrollado con Samsung Electronics que conecta la compra de electrodomésticos y móviles en Samsung Store con servicios mutuales funerarios. El producto fue lanzado bajo un acuerdo entre ambas compañías y se describe como la versión 2.0 de su oferta de asociación mutual. Está diseñado para que los consumidores que compren electrodomésticos o productos móviles en Samsung Store puedan recibir beneficios vinculados al servicio de Boram Group. La compañía busca reorganizar el mercado de alianzas de servicios mutuales con este lanzamiento. El modelo amplía los puntos de contacto con clientes al unir compras de electrónica y beneficios de servicio. Según el informe original, no se detallaron precios, condiciones de suscripción ni el alcance de los beneficios. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Boram Group e Samsung lançam B&Care Pack com eletrodomésticos e assistência",
-        "excerpt": "A Boram Group fechou acordo com a Samsung Electronics e lançou o B&Care Pack, que conecta compras na Samsung Store a serviços de assistência funeral.",
-        "body": "A Boram Group apresentou o B&Care Pack, novo produto de parceria com a Samsung Electronics que vincula compras de eletrodomésticos e dispositivos móveis na Samsung Store a serviços de assistência funeral. A oferta foi criada a partir de um acordo entre as empresas e é descrita como a versão 2.0 do produto de parceria de assistência. O objetivo é permitir que consumidores que comprem eletrodomésticos ou produtos móveis na Samsung Store recebam benefícios ligados ao serviço da Boram Group. A empresa pretende usar o lançamento para reorganizar o mercado de parcerias em assistência. O modelo combina compra de eletrônicos e benefícios de serviço, ampliando os pontos de contato com clientes. Pelo texto original, preços, condições de adesão e escala dos benefícios não foram informados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Boram Group und Samsung starten B&Care Pack für Geräte- und Vorsorgeleistungen",
-        "excerpt": "Boram Group hat mit Samsung Electronics ein B&Care Pack gestartet, das Käufe von Geräten und Mobilprodukten im Samsung Store mit Vorsorgeleistungen verbindet.",
-        "body": "Boram Group hat gemeinsam mit Samsung Electronics das neue Partnerprodukt B&Care Pack vorgestellt, das Käufe von Haushaltsgeräten und Mobilprodukten im Samsung Store mit gegenseitigen Vorsorge- beziehungsweise Bestattungsleistungen verbindet. Das Angebot entstand auf Basis einer Vereinbarung beider Unternehmen und wird als Version 2.0 ihres entsprechenden Partnerprodukts beschrieben. Verbraucher sollen beim Kauf von Geräten oder Mobilprodukten im Samsung Store Vorteile erhalten können, die mit den Services von Boram Group verbunden sind. Boram Group will mit der Einführung den Markt für solche Partnerschaftsmodelle neu ordnen. Die Kombination aus Gerätekauf und Serviceleistung erweitert Kundenkontaktpunkte und betont praktische Vorteile. Laut Originalbericht wurden konkrete Preise, Teilnahmebedingungen und der Umfang der Vorteile nicht genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Boram Group et Samsung dévoilent B&Care Pack, offre liée aux appareils et services",
-        "excerpt": "Boram Group s’est associé à Samsung Electronics pour lancer B&Care Pack, reliant les achats d’appareils et mobiles Samsung Store à des services funéraires mutualisés.",
-        "body": "Boram Group a dévoilé B&Care Pack, un nouveau produit de partenariat avec Samsung Electronics qui relie les achats d’électroménager et de produits mobiles dans les Samsung Store à des services funéraires mutualisés. L’offre, issue d’un accord entre les deux entreprises, est présentée comme la version 2.0 de leur produit de partenariat mutualisé. Elle vise à permettre aux consommateurs achetant des appareils ou des produits mobiles chez Samsung Store de recevoir des avantages associés aux services de Boram Group. L’entreprise entend, avec ce lancement, réorganiser le marché des partenariats de services mutualisés. Ce modèle élargit les points de contact avec les clients en combinant achat d’électronique et bénéfices de service. Selon l’article d’origine, les prix, conditions d’adhésion et montants des avantages n’ont pas été précisés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بورام غروب وسامسونغ تكشفان B&Care Pack لربط الأجهزة بخدمات التعاضد",
-        "excerpt": "أعلنت بورام غروب اتفاقا مع سامسونغ إلكترونيكس لإطلاق B&Care Pack، الذي يربط مشتريات الأجهزة والهواتف من Samsung Store بخدمات التعاضد الجنائزية.",
-        "body": "كشفت بورام غروب، بالتعاون مع سامسونغ إلكترونيكس، عن منتج شراكة جديد باسم B&Care Pack يربط مزايا شراء الأجهزة المنزلية والمنتجات المحمولة من Samsung Store بخدمات التعاضد الجنائزية. ويأتي المنتج في إطار اتفاق بين الشركتين، ويُوصف بأنه الإصدار 2.0 من منتج الشراكة التعاضدية. صُمم العرض بحيث يتمكن المستهلكون الذين يشترون أجهزة منزلية أو منتجات محمولة من Samsung Store من الحصول على مزايا مرتبطة بخدمات بورام غروب. وتخطط الشركة من خلال هذا الإطلاق لإعادة ترتيب سوق شراكات خدمات التعاضد. ويعتمد النموذج على الجمع بين شراء الإلكترونيات ومزايا الخدمة لتوسيع نقاط التواصل مع العملاء. ووفقا للنص الأصلي، لم تُذكر الأسعار أو شروط الاشتراك أو حجم المزايا بالتفصيل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Boram Group और Samsung ने उपकरणों व सेवा को जोड़ने वाला B&Care Pack पेश किया",
-        "excerpt": "Boram Group ने Samsung Electronics के साथ समझौते के तहत Samsung Store की उपकरण व मोबाइल खरीद को पारस्परिक अंतिम संस्कार सेवा से जोड़ने वाला B&Care Pack लॉन्च किया।",
-        "body": "Boram Group ने Samsung Electronics के साथ मिलकर नया साझेदारी उत्पाद B&Care Pack पेश किया है, जो Samsung Store में घरेलू उपकरणों और मोबाइल उत्पादों की खरीद को पारस्परिक अंतिम संस्कार सेवा से जोड़ता है। यह उत्पाद दोनों कंपनियों के समझौते के तहत पेश किए गए “सांगजो साझेदारी उत्पाद 2.0 संस्करण” के रूप में बताया गया है। इसे इस तरह बनाया गया है कि Samsung Store से उपकरण या मोबाइल उत्पाद खरीदने वाले उपभोक्ता Boram Group की सेवा से जुड़े लाभ प्राप्त कर सकें। Boram Group इस लॉन्च के जरिए सांगजो साझेदारी बाजार को पुनर्गठित करने की दिशा में बढ़ना चाहती है। इलेक्ट्रॉनिक्स खरीद और सेवा लाभ को जोड़ने वाला यह मॉडल ग्राहक संपर्क बढ़ाने और व्यावहारिक लाभ पर जोर देने की रणनीति माना जा सकता है। मूल रिपोर्ट के अनुसार कीमत, सदस्यता शर्तें और लाभ का आकार अलग से नहीं बताया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Boram Group dan Samsung Rilis B&Care Pack, Gabungkan Elektronik dan Layanan",
-        "excerpt": "Boram Group menjalin kesepakatan dengan Samsung Electronics untuk meluncurkan B&Care Pack, yang mengaitkan pembelian di Samsung Store dengan layanan duka mutual.",
-        "body": "Boram Group memperkenalkan B&Care Pack, produk kemitraan baru bersama Samsung Electronics yang menghubungkan pembelian perangkat elektronik rumah tangga dan produk mobile di Samsung Store dengan layanan duka berbasis mutual. Produk ini hadir melalui kesepakatan kedua perusahaan dan disebut sebagai versi 2.0 dari produk kemitraan layanan mutual. Skemanya dirancang agar konsumen yang membeli perangkat rumah tangga atau produk mobile di Samsung Store dapat menerima manfaat yang terkait dengan layanan Boram Group. Perusahaan berencana menggunakan peluncuran ini untuk menata ulang pasar kemitraan layanan mutual. Model yang menggabungkan pembelian elektronik dengan manfaat layanan ini memperluas titik kontak pelanggan dan menekankan manfaat praktis. Berdasarkan laporan asli, harga, syarat keanggotaan, dan besaran manfaat belum dijelaskan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d1cb933746b6",
-    "slug": "민관-협력으로-양양-남대천-되살린다-799795",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T08:46:00.229Z",
-    "updatedAt": "2026-05-08T08:46:00.229Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12041322",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12041322",
-    "titleFingerprint": "08e388da2e94614e5c237ff1210136a3838c470f",
-    "dedupKeys": [
-      "d1cb933746b60cc07921c7ecbfddfbe93198fc67",
-      "08e388da2e94614e5c237ff1210136a3838c470f",
-      "960a624732d4d2059cff9b5d88c532360c4635da"
-    ],
-    "imageUrl": "/images/articles/d1cb933746b6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "양양 남대천 수생태계 복원 본격화, 민관 협력으로 노후 보 철거·개선해 하천 흐름 회복",
-        "excerpt": "강원도와 기후에너지환경부, SK하이닉스 등이 양양 남대천의 수생태계 연속성을 되살리기 위해 노후 보 철거·개선 중심의 민관 협력사업을 추진한다.",
-        "body": "강원도는 기후에너지환경부, SK하이닉스 등과 함께 양양 남대천 수생태계 복원을 위한 민관 협력사업을 추진한다고 밝혔다. 이번 사업은 하천 곳곳의 노후 보를 철거하거나 개선해 물길 흐름을 회복하고, 단절된 수생태계의 연속성을 높이는 데 초점을 맞춘다. 양양 남대천은 지역 하천 생태와 물환경 관리 측면에서 복원 필요성이 제기돼 왔으며, 민간 기업과 중앙·지방정부가 함께 참여하는 방식으로 추진된다. 사업이 진행되면 하천 흐름 개선과 생물 이동성 회복에 도움이 될 것으로 기대된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Yangyang Namdaecheon restoration gains momentum as public-private partners target aging weirs",
-        "excerpt": "Gangwon Province, the climate and energy environment ministry, SK hynix and others will pursue a public-private project to restore aquatic ecosystem continuity in Yangyang Namdaecheon.",
-        "body": "Gangwon Province said it will work with the Ministry of Climate, Energy and Environment, SK hynix and others on a public-private project to restore the aquatic ecosystem of Yangyang Namdaecheon. The project focuses on removing or improving aging weirs along the stream to restore water flow and strengthen continuity in the aquatic ecosystem that has been disrupted. Yangyang Namdaecheon has been cited as needing restoration from the perspective of local river ecology and water environment management, and the effort will involve both a private company and central and local governments. If implemented, the project is expected to help improve stream flow and restore the mobility of aquatic life. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "襄陽南大川の水生態系復元が本格化、官民連携で老朽堰を撤去・改善へ",
-        "excerpt": "江原道と気候エネルギー環境部、SKハイニックスなどが、襄陽南大川の水生態系の連続性回復に向け、老朽堰の撤去・改善を進める官民連携事業に乗り出す。",
-        "body": "江原道は、気候エネルギー環境部、SKハイニックスなどとともに、襄陽南大川の水生態系復元に向けた官民連携事業を推進すると明らかにした。今回の事業は、河川各所にある老朽化した堰を撤去または改善し、水の流れを回復させ、分断された水生態系の連続性を高めることに重点を置く。襄陽南大川は、地域河川の生態と水環境管理の面で復元の必要性が指摘されてきた。民間企業と中央・地方政府がともに参加する形で進められる。事業が進めば、河川の流れの改善と水生生物の移動性回復に役立つと期待される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "襄阳南大川水生态修复提速，政企合作拆除和改造老旧堰坝恢复河流连通",
-        "excerpt": "江原道、气候能源环境部、SK海力士等将推进政企合作项目，通过拆除和改造老旧堰坝，恢复襄阳南大川水生态系统连续性。",
-        "body": "江原道表示，将与气候能源环境部、SK海力士等共同推进襄阳南大川水生态修复政企合作项目。该项目重点是拆除或改造河道各处老旧堰坝，恢复水流通畅，并提升被阻断的水生态系统连续性。襄阳南大川从区域河流生态和水环境管理角度一直被认为有修复必要，此次将以民营企业和中央、地方政府共同参与的方式推进。项目实施后，有望改善河流流动状况，并帮助恢复水生生物的移动性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La restauración del Namdaecheon de Yangyang avanza con cooperación público-privada y mejora de azudes antiguos",
-        "excerpt": "La provincia de Gangwon, el Ministerio de Clima, Energía y Medio Ambiente, SK hynix y otros impulsarán un proyecto público-privado para recuperar la continuidad del ecosistema acuático del Namdaecheon de Yangyang.",
-        "body": "La provincia de Gangwon informó que impulsará, junto con el Ministerio de Clima, Energía y Medio Ambiente, SK hynix y otros actores, un proyecto público-privado para restaurar el ecosistema acuático del Namdaecheon de Yangyang. La iniciativa se centra en retirar o mejorar azudes antiguos situados a lo largo del río para recuperar el flujo del agua y reforzar la continuidad de un ecosistema acuático fragmentado. El Namdaecheon de Yangyang ha sido señalado como un río que necesita restauración desde la perspectiva de la ecología fluvial local y la gestión del entorno hídrico. El proyecto contará con la participación de una empresa privada y de los gobiernos central y local. Se espera que ayude a mejorar el flujo del río y la movilidad de los organismos acuáticos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Restauração do Namdaecheon de Yangyang avança com parceria público-privada e melhoria de açudes antigos",
-        "excerpt": "A província de Gangwon, o Ministério do Clima, Energia e Meio Ambiente, a SK hynix e outros vão promover um projeto público-privado para recuperar a continuidade do ecossistema aquático do Namdaecheon de Yangyang.",
-        "body": "A província de Gangwon informou que promoverá, com o Ministério do Clima, Energia e Meio Ambiente, a SK hynix e outros parceiros, um projeto público-privado para restaurar o ecossistema aquático do Namdaecheon de Yangyang. A iniciativa se concentra na remoção ou melhoria de açudes antigos ao longo do rio para recuperar o fluxo da água e fortalecer a continuidade de um ecossistema aquático interrompido. O Namdaecheon de Yangyang vinha sendo apontado como uma área que precisa de restauração do ponto de vista da ecologia fluvial local e da gestão do ambiente hídrico. O projeto será realizado com participação de empresa privada e dos governos central e local. A expectativa é que contribua para melhorar o fluxo do rio e restaurar a mobilidade da vida aquática. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Renaturierung des Yangyang Namdaecheon startet mit öffentlich-privater Kooperation und Umbau alter Wehre",
-        "excerpt": "Die Provinz Gangwon, das Ministerium für Klima, Energie und Umwelt, SK hynix und weitere Partner treiben ein öffentlich-privates Projekt zur Wiederherstellung der aquatischen Durchgängigkeit des Yangyang Namdaecheon voran.",
-        "body": "Die Provinz Gangwon teilte mit, dass sie gemeinsam mit dem Ministerium für Klima, Energie und Umwelt, SK hynix und weiteren Beteiligten ein öffentlich-privates Projekt zur Wiederherstellung des aquatischen Ökosystems des Yangyang Namdaecheon vorantreibt. Im Mittelpunkt steht, alte Wehre entlang des Flusses zu entfernen oder zu verbessern, um den Wasserfluss wiederherzustellen und die unterbrochene Kontinuität des aquatischen Ökosystems zu stärken. Der Yangyang Namdaecheon gilt aus Sicht der lokalen Flussökologie und des Wassermanagements als renaturierungsbedürftig. Das Vorhaben wird unter Beteiligung eines privaten Unternehmens sowie der Zentral- und Lokalregierung umgesetzt. Erwartet werden Verbesserungen des Flusslaufs und der Beweglichkeit aquatischer Organismen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La restauration du Namdaecheon de Yangyang avance grâce à un partenariat public-privé sur les vieux seuils",
-        "excerpt": "La province de Gangwon, le ministère du Climat, de l’Énergie et de l’Environnement, SK hynix et d’autres acteurs lanceront un projet public-privé pour restaurer la continuité de l’écosystème aquatique du Namdaecheon de Yangyang.",
-        "body": "La province de Gangwon a annoncé qu’elle mènerait, avec le ministère du Climat, de l’Énergie et de l’Environnement, SK hynix et d’autres partenaires, un projet public-privé de restauration de l’écosystème aquatique du Namdaecheon de Yangyang. Le projet vise à retirer ou améliorer des seuils vieillissants le long du cours d’eau afin de rétablir l’écoulement et de renforcer la continuité d’un écosystème aquatique fragmenté. Le Namdaecheon de Yangyang a été identifié comme nécessitant une restauration du point de vue de l’écologie fluviale locale et de la gestion de l’environnement aquatique. L’opération associera une entreprise privée ainsi que les gouvernements central et local. Elle devrait contribuer à améliorer le débit du cours d’eau et la mobilité des espèces aquatiques. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "استعادة النظام المائي في نهر نامدايتشون بيانغيانغ تمضي بشراكة عامة وخاصة لإزالة السدود القديمة",
-        "excerpt": "تعتزم مقاطعة غانغوون ووزارة المناخ والطاقة والبيئة وSK hynix وجهات أخرى تنفيذ مشروع شراكة عامة وخاصة لاستعادة ترابط النظام البيئي المائي في نهر نامدايتشون بيانغيانغ.",
-        "body": "أعلنت مقاطعة غانغوون أنها ستعمل مع وزارة المناخ والطاقة والبيئة وSK hynix وجهات أخرى على تنفيذ مشروع شراكة عامة وخاصة لاستعادة النظام البيئي المائي في نهر نامدايتشون في يانغيانغ. يركز المشروع على إزالة أو تحسين السدود والحواجز القديمة المنتشرة في مجرى النهر من أجل استعادة تدفق المياه وتعزيز ترابط النظام البيئي المائي الذي تعرض للانقطاع. وقد طُرحت الحاجة إلى ترميم نامدايتشون بيانغيانغ من منظور بيئة الأنهار المحلية وإدارة البيئة المائية. وسيُنفذ المشروع بمشاركة شركة خاصة والحكومتين المركزية والمحلية. ومن المتوقع أن يساعد في تحسين تدفق النهر واستعادة قدرة الكائنات المائية على الحركة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "यांगयांग नामदाएचॉन की जलीय पारिस्थितिकी बहाली तेज, पुराने वीयर हटाने-सुधारने को सार्वजनिक-निजी सहयोग",
-        "excerpt": "गांगवोन प्रांत, जलवायु ऊर्जा पर्यावरण मंत्रालय, SK hynix और अन्य पक्ष यांगयांग नामदाएचॉन में जलीय पारिस्थितिकी की निरंतरता बहाल करने के लिए सार्वजनिक-निजी परियोजना आगे बढ़ाएंगे।",
-        "body": "गांगवोन प्रांत ने कहा कि वह जलवायु ऊर्जा पर्यावरण मंत्रालय, SK hynix और अन्य भागीदारों के साथ यांगयांग नामदाएचॉन की जलीय पारिस्थितिकी बहाल करने के लिए सार्वजनिक-निजी सहयोग परियोजना 추진 करेगा। इस परियोजना का मुख्य लक्ष्य नदी में मौजूद पुराने वीयर को हटाना या सुधारना है, ताकि जल प्रवाह बहाल हो और टूट चुकी जलीय पारिस्थितिकी की निरंतरता मजबूत हो सके। यांगयांग नामदाएचॉन को स्थानीय नदी पारिस्थितिकी और जल पर्यावरण प्रबंधन के दृष्टिकोण से बहाली की जरूरत वाला क्षेत्र माना गया है। परियोजना में निजी कंपनी तथा केंद्र और स्थानीय सरकारें साथ भाग लेंगी। इसके आगे बढ़ने पर नदी के प्रवाह में सुधार और जलीय जीवों की आवाजाही बहाल करने में मदद मिलने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Restorasi ekosistem Namdaecheon Yangyang dipacu lewat kolaborasi pemerintah-swasta dan perbaikan bendung tua",
-        "excerpt": "Provinsi Gangwon, Kementerian Iklim, Energi dan Lingkungan, SK hynix, serta pihak lain akan menjalankan proyek pemerintah-swasta untuk memulihkan kesinambungan ekosistem akuatik Namdaecheon Yangyang.",
-        "body": "Provinsi Gangwon menyatakan akan menjalankan proyek kerja sama pemerintah-swasta bersama Kementerian Iklim, Energi dan Lingkungan, SK hynix, dan pihak lain untuk memulihkan ekosistem akuatik Namdaecheon Yangyang. Proyek ini berfokus pada pembongkaran atau perbaikan bendung tua di sepanjang sungai guna memulihkan aliran air dan meningkatkan kesinambungan ekosistem akuatik yang terputus. Namdaecheon Yangyang selama ini dinilai membutuhkan restorasi dari sisi ekologi sungai lokal dan pengelolaan lingkungan air. Program tersebut akan melibatkan perusahaan swasta serta pemerintah pusat dan daerah. Jika berjalan, proyek ini diharapkan membantu memperbaiki aliran sungai dan memulihkan mobilitas biota air. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5c7932c4c055",
-    "slug": "말馬-없는-마차를-현실로-만든-발명가무모한-도전이-만든-위대한-성공-928272",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T08:04:52.053Z",
-    "updatedAt": "2026-05-08T08:04:52.053Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039652",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039652",
-    "titleFingerprint": "dfde7be7d0dc397a685e5f73f933f45728d8d9d5",
-    "dedupKeys": [
-      "5c7932c4c05525ee06ca5cd5f3683ec1016a0a25",
-      "dfde7be7d0dc397a685e5f73f933f45728d8d9d5",
-      "e174965a4e0f65caf1aaad509b58ee964867ee12"
-    ],
-    "imageUrl": "/images/articles/5c7932c4c055.png",
-    "i18n": {
-      "ko": {
-        "title": "카를 벤츠, 세계 최초 자동차로 ‘말 없는 마차’ 시대를 열다",
-        "excerpt": "19세기 중반 유럽 산업혁명기, 카를 벤츠는 증기기관이 이동 개념을 바꾸던 흐름 속에서 세계 최초의 자동차를 만들며 ‘말 없는 마차’를 현실로 이끌었다.",
-        "body": "19세기 중반 유럽이 산업혁명으로 ‘속도의 전환기’를 맞던 시기, 발명가 카를 벤츠는 세계 최초의 자동차를 만들어 말에 의존하던 이동 방식을 바꾸는 도전에 나섰다. 증기기관은 당시 공장 생산뿐 아니라 이동의 개념까지 흔들며 새로운 도로의 시대를 열고 있었다. 벤츠의 시도는 ‘말 없는 마차’라는 발상을 현실로 옮긴 사례로, 이후 자동차가 교통과 산업의 방향을 바꾸는 출발점이 됐다. 무모해 보였던 도전이 위대한 성공으로 이어졌다는 점에서 그의 발명은 산업혁명기의 대표적 전환으로 평가된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Karl Benz Opened the Age of the Horseless Carriage With the First Car",
-        "excerpt": "In mid-19th-century Europe, as the Industrial Revolution and steam engines reshaped movement, Karl Benz built the world’s first automobile and made the horseless carriage real.",
-        "body": "In mid-19th-century Europe, when the Industrial Revolution was turning the continent into an era of speed, inventor Karl Benz took on the challenge of changing mobility by creating the world’s first automobile. Steam engines were transforming not only factory production but also the idea of movement, opening a new age of roads. Benz’s work turned the idea of a “horseless carriage” into reality and became a starting point for automobiles to alter transport and industry. What once looked like a reckless attempt is remembered as a great success and a symbolic shift of the Industrial Revolution. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "カール・ベンツ、世界初の自動車で「馬なし馬車」の時代を開く",
-        "excerpt": "19世紀半ばの欧州で、産業革命と蒸気機関が移動の概念を変える中、カール・ベンツは世界初の自動車を作り「馬なし馬車」を現実にした。",
-        "body": "19世紀半ばの欧州が産業革命によって「速度の転換期」を迎えていた時代、発明家カール・ベンツは世界初の自動車を作り、馬に頼っていた移動方式を変える挑戦に乗り出した。当時、蒸気機関は工場での生産だけでなく移動の概念まで揺さぶり、新しい道路の時代を開いていた。ベンツの試みは「馬なし馬車」という発想を現実に移した事例であり、その後、自動車が交通と産業の方向を変える出発点となった。無謀に見えた挑戦が偉大な成功につながった点で、彼の発明は産業革命期の代表的な転換と評価される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "卡尔·本茨以世界首辆汽车开启“无马马车”时代",
-        "excerpt": "19世纪中叶欧洲处于工业革命浪潮中，蒸汽机改变移动观念，卡尔·本茨制造出世界首辆汽车，让“无马马车”成为现实。",
-        "body": "19世纪中叶，欧洲在工业革命推动下进入“速度的转折期”，发明家卡尔·本茨制造出世界首辆汽车，挑战长期依赖马匹的移动方式。当时，蒸汽机不仅改变工厂生产，也动摇了人们对移动的理解，开启了新的道路时代。本茨的尝试把“无马马车”的构想变成现实，并成为后来汽车改变交通与产业方向的起点。看似鲁莽的挑战最终走向伟大成功，因此他的发明被视为工业革命时期具有代表性的转折。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Karl Benz abrió la era del carruaje sin caballos con el primer automóvil",
-        "excerpt": "En la Europa de mediados del siglo XIX, cuando la Revolución Industrial y la máquina de vapor cambiaban la movilidad, Karl Benz creó el primer automóvil del mundo.",
-        "body": "A mediados del siglo XIX, cuando Europa vivía una transición marcada por la velocidad gracias a la Revolución Industrial, el inventor Karl Benz asumió el desafío de cambiar una movilidad que dependía de los caballos al crear el primer automóvil del mundo. La máquina de vapor transformaba entonces no solo la producción en las fábricas, sino también el concepto de desplazamiento, abriendo una nueva era en los caminos. El intento de Benz convirtió en realidad la idea del “carruaje sin caballos” y fue el punto de partida para que el automóvil cambiara el transporte y la industria. Aquella apuesta, que parecía temeraria, terminó como un gran éxito. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Karl Benz abriu a era da carruagem sem cavalos com o primeiro automóvel",
-        "excerpt": "Na Europa de meados do século XIX, enquanto a Revolução Industrial e o motor a vapor mudavam a mobilidade, Karl Benz criou o primeiro automóvel do mundo.",
-        "body": "Em meados do século XIX, quando a Europa vivia uma transição de velocidade impulsionada pela Revolução Industrial, o inventor Karl Benz assumiu o desafio de mudar a mobilidade dependente dos cavalos ao criar o primeiro automóvel do mundo. O motor a vapor transformava não apenas a produção nas fábricas, mas também o conceito de deslocamento, abrindo uma nova era nas estradas. A tentativa de Benz levou à realidade a ideia da “carruagem sem cavalos” e se tornou o ponto de partida para que o automóvel mudasse o transporte e a indústria. O que parecia uma aposta imprudente terminou como um grande sucesso. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Karl Benz eröffnete mit dem ersten Auto die Ära der pferdelosen Kutsche",
-        "excerpt": "Im Europa der Mitte des 19. Jahrhunderts veränderten Industrialisierung und Dampfmaschine die Mobilität; Karl Benz baute das erste Automobil der Welt.",
-        "body": "Mitte des 19. Jahrhunderts, als Europa durch die Industrielle Revolution eine Wende zur Geschwindigkeit erlebte, stellte sich Erfinder Karl Benz der Aufgabe, die von Pferden abhängige Fortbewegung zu verändern, und baute das erste Automobil der Welt. Die Dampfmaschine veränderte damals nicht nur die Produktion in Fabriken, sondern auch das Verständnis von Mobilität und eröffnete eine neue Ära der Straßen. Benz machte die Idee der „pferdelosen Kutsche“ Wirklichkeit und schuf einen Ausgangspunkt dafür, dass das Automobil Verkehr und Industrie neu ausrichtete. Was zunächst waghalsig wirkte, wurde zu einem großen Erfolg. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Karl Benz a lancé l’ère de la voiture sans cheval avec la première automobile",
-        "excerpt": "Dans l’Europe du milieu du XIXe siècle, alors que la révolution industrielle et la vapeur transformaient la mobilité, Karl Benz a créé la première automobile.",
-        "body": "Au milieu du XIXe siècle, alors que l’Europe entrait dans une période de transition vers la vitesse sous l’effet de la révolution industrielle, l’inventeur Karl Benz a relevé le défi de changer une mobilité encore dépendante des chevaux en créant la première automobile au monde. La machine à vapeur transformait alors non seulement la production en usine, mais aussi l’idée même du déplacement, ouvrant une nouvelle époque pour les routes. L’essai de Benz a rendu réelle l’idée de la « voiture sans cheval » et a marqué le point de départ d’un changement du transport et de l’industrie par l’automobile. Ce défi, qui semblait téméraire, est devenu un grand succès. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كارل بنز يفتح عصر العربة بلا خيول بأول سيارة في العالم",
-        "excerpt": "في أوروبا منتصف القرن التاسع عشر، ومع تغيّر مفهوم الحركة بفعل الثورة الصناعية والمحرك البخاري، صنع كارل بنز أول سيارة في العالم وجعل العربة بلا خيول واقعا.",
-        "body": "في منتصف القرن التاسع عشر، وبينما كانت أوروبا تعيش مرحلة انتقالية في مفهوم السرعة بفعل الثورة الصناعية، خاض المخترع كارل بنز تحديا لتغيير أسلوب التنقل المعتمد على الخيول عبر صنع أول سيارة في العالم. في ذلك الوقت، لم يغير المحرك البخاري الإنتاج في المصانع فقط، بل هز أيضا مفهوم الحركة وفتح عصرا جديدا للطرق. حوّل بنز فكرة «العربة بلا خيول» إلى واقع، وأصبحت محاولته نقطة انطلاق لتغيير اتجاه النقل والصناعة عبر السيارة. وما بدا تحديا متهورا انتهى إلى نجاح كبير، لذلك تعد اختراعاته تحولا بارزا في زمن الثورة الصناعية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कार्ल बेंज ने पहली कार से ‘बिना घोड़े की गाड़ी’ का युग शुरू किया",
-        "excerpt": "19वीं सदी के मध्य यूरोप में, जब औद्योगिक क्रांति और भाप इंजन आवाजाही की अवधारणा बदल रहे थे, कार्ल बेंज ने दुनिया की पहली कार बनाकर बिना घोड़े की गाड़ी को वास्तविकता बनाया।",
-        "body": "19वीं सदी के मध्य में यूरोप औद्योगिक क्रांति के कारण ‘गति के बदलाव’ के दौर से गुजर रहा था। इसी समय आविष्कारक कार्ल बेंज ने दुनिया की पहली कार बनाकर घोड़ों पर निर्भर आवाजाही को बदलने की चुनौती ली। भाप इंजन उस समय केवल कारखानों के उत्पादन को नहीं, बल्कि चलने-फिरने की अवधारणा को भी बदल रहा था और सड़कों के नए युग की शुरुआत कर रहा था। बेंज का प्रयास ‘बिना घोड़े की गाड़ी’ की कल्पना को वास्तविकता में बदलने वाला उदाहरण बना। आगे चलकर यही ऑटोमोबाइल परिवहन और उद्योग की दिशा बदलने का शुरुआती बिंदु बना। जो चुनौती असावधान लगती थी, वह महान सफलता में बदली। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Karl Benz Membuka Era Kereta Tanpa Kuda Lewat Mobil Pertama Dunia",
-        "excerpt": "Di Eropa pertengahan abad ke-19, saat Revolusi Industri dan mesin uap mengubah konsep mobilitas, Karl Benz membuat mobil pertama dunia dan mewujudkan kereta tanpa kuda.",
-        "body": "Pada pertengahan abad ke-19, ketika Eropa memasuki masa peralihan menuju era kecepatan akibat Revolusi Industri, penemu Karl Benz mengambil tantangan untuk mengubah mobilitas yang bergantung pada kuda dengan membuat mobil pertama di dunia. Mesin uap saat itu tidak hanya mengubah produksi pabrik, tetapi juga mengguncang konsep berpindah tempat dan membuka era baru jalan raya. Upaya Benz mewujudkan gagasan “kereta tanpa kuda” dan menjadi titik awal bagi mobil untuk mengubah arah transportasi serta industri. Tantangan yang tampak nekat itu akhirnya dikenang sebagai keberhasilan besar dan perubahan penting pada masa Revolusi Industri. Sumber: mk.co.kr"
       }
     }
   }
