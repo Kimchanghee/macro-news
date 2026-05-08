@@ -1,5 +1,230 @@
 [
   {
+    "id": "d95fad146960",
+    "slug": "반려동물-헬스케어-노즈워크-딥테크-팁스-최종-선정-338355",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T06:02:54.723Z",
+    "updatedAt": "2026-05-08T06:02:54.723Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12041084",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12041084",
+    "titleFingerprint": "2ef068dbbc0438287cb36a48c1251c46a22feb0e",
+    "dedupKeys": [
+      "d95fad146960d1f7dac58e9d1bb9448fa83b326b",
+      "2ef068dbbc0438287cb36a48c1251c46a22feb0e",
+      "34d99575cafec0137343efcdf2d467f4a88c3926"
+    ],
+    "imageUrl": "/images/articles/d95fad146960.jpg",
+    "i18n": {
+      "ko": {
+        "title": "노즈워크, 딥테크 팁스 최종 선정…반려동물 헬스케어 R&D 15억원 확보",
+        "excerpt": "반려동물 헬스케어 스타트업 노즈워크가 8일 중소벤처기업부 팁스 딥테크 트랙에 최종 선정돼 3년간 R&D 자금 15억원을 확보했다고 밝혔다.",
+        "body": "반려동물 헬스케어 스타트업 노즈워크가 8일 중소벤처기업부의 기술창업 지원 프로그램인 팁스 ‘딥테크 트랙’에 최종 선정됐다고 밝혔다. 이번 선정으로 노즈워크는 3년간 연구개발(R&D) 자금 15억원을 확보했다. 딥테크 팁스는 기술창업 기업을 지원하는 팁스 프로그램 내 심화 트랙으로, 딥테크 분야의 기술개발을 뒷받침하는 데 초점이 있다. 노즈워크는 이번 지원을 통해 반려동물 헬스케어 분야 연구개발 기반을 강화할 수 있게 됐다. 회사의 기술 고도화와 서비스 경쟁력 확보에도 도움이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nosework Selected for Deep Tech TIPS, Secures KRW 1.5 Billion for Pet Healthcare R&D",
+        "excerpt": "Pet healthcare startup Nosework said on May 8 it was finally selected for the Deep Tech Track of the Ministry of SMEs and Startups’ TIPS program, securing KRW 1.5 billion in R&D funding over three years.",
+        "body": "Pet healthcare startup Nosework said on May 8 that it has been finally selected for the Deep Tech Track of TIPS, a technology startup support program run by the Ministry of SMEs and Startups. Through the selection, Nosework secured KRW 1.5 billion in research and development funding over three years. Deep Tech TIPS is an advanced track within the TIPS program for technology startups, focused on supporting technology development in deep tech fields. With this support, Nosework will be able to strengthen its R&D foundation in pet healthcare. It is also expected to help the company advance its technology and improve service competitiveness. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ノーズワーク、ディープテックTIPSに最終選定…ペットヘルスケアR&Dで15億ウォン確保",
+        "excerpt": "ペットヘルスケアスタートアップのノーズワークは8日、中小ベンチャー企業部のTIPSディープテックトラックに最終選定され、3年間でR&D資金15億ウォンを確保したと発表した。",
+        "body": "ペットヘルスケアスタートアップのノーズワークは8日、中小ベンチャー企業部の技術創業支援プログラムであるTIPS「ディープテックトラック」に最終選定されたと発表した。今回の選定により、ノーズワークは3年間で研究開発（R&D）資金15億ウォンを確保した。ディープテックTIPSは、技術創業企業を支援するTIPSプログラム内の深化トラックで、ディープテック分野の技術開発を後押しすることに重点を置く。ノーズワークは今回の支援を通じて、ペットヘルスケア分野の研究開発基盤を強化できる。技術の高度化とサービス競争力の確保にも役立つ見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Nosework入选深科技TIPS，获15亿韩元宠物健康护理研发资金",
+        "excerpt": "宠物健康护理初创企业Nosework 8日表示，已最终入选韩国中小风险企业部TIPS深科技赛道，并将在三年内获得15亿韩元研发资金。",
+        "body": "宠物健康护理初创企业Nosework 8日表示，公司已最终入选韩国中小风险企业部技术创业支持项目TIPS的“深科技赛道”。通过此次入选，Nosework将在三年内获得15亿韩元研究开发（R&D）资金。深科技TIPS是支持技术创业企业的TIPS项目中的深化赛道，重点在于支持深科技领域的技术开发。借助此次支持，Nosework将能够强化其在宠物健康护理领域的研发基础。预计这也将有助于公司提升技术水平并增强服务竞争力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Nosework entra en Deep Tech TIPS y asegura 1.500 millones de wones para I+D en salud de mascotas",
+        "excerpt": "La startup de salud para mascotas Nosework dijo el día 8 que fue seleccionada para la vía Deep Tech del programa TIPS del Ministerio de Pymes y Startups, con 1.500 millones de wones para I+D en tres años.",
+        "body": "La startup de salud para mascotas Nosework informó el día 8 que fue seleccionada finalmente para la vía “Deep Tech Track” de TIPS, el programa de apoyo a emprendimientos tecnológicos del Ministerio de Pymes y Startups. Con esta selección, Nosework aseguró 1.500 millones de wones en fondos de investigación y desarrollo (I+D) durante tres años. Deep Tech TIPS es una vía avanzada dentro del programa TIPS, orientada a apoyar el desarrollo tecnológico en áreas de deep tech. Con este respaldo, Nosework podrá fortalecer su base de I+D en el sector de la salud para mascotas. También se espera que ayude a mejorar su tecnología y la competitividad de sus servicios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Nosework é escolhida para Deep Tech TIPS e garante 1,5 bilhão de won em P&D pet",
+        "excerpt": "A startup de saúde para pets Nosework informou no dia 8 que foi selecionada para a trilha Deep Tech do programa TIPS do Ministério das PMEs e Startups, garantindo 1,5 bilhão de won em P&D por três anos.",
+        "body": "A startup de saúde para animais de estimação Nosework informou no dia 8 que foi selecionada de forma final para a “Deep Tech Track” do TIPS, programa de apoio a startups tecnológicas do Ministério das PMEs e Startups. Com a seleção, a Nosework garantiu 1,5 bilhão de won em recursos de pesquisa e desenvolvimento (P&D) ao longo de três anos. O Deep Tech TIPS é uma trilha avançada dentro do programa TIPS, focada em apoiar o desenvolvimento tecnológico em áreas de deep tech. Com esse apoio, a Nosework poderá fortalecer sua base de P&D no setor de saúde pet. A medida também deve ajudar no avanço tecnológico e na competitividade dos serviços da empresa. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nosework für Deep Tech TIPS ausgewählt und sichert 1,5 Mrd. Won für Pet-Healthcare-F&E",
+        "excerpt": "Das Pet-Healthcare-Startup Nosework teilte am 8. mit, dass es für den Deep Tech Track des TIPS-Programms des Ministeriums für KMU und Startups ausgewählt wurde und über drei Jahre 1,5 Mrd. Won für F&E erhält.",
+        "body": "Das Pet-Healthcare-Startup Nosework teilte am 8. mit, dass es endgültig für den „Deep Tech Track“ von TIPS ausgewählt wurde, einem Technologiegründungsprogramm des Ministeriums für KMU und Startups. Durch die Auswahl sicherte sich Nosework über drei Jahre 1,5 Milliarden Won an Mitteln für Forschung und Entwicklung (F&E). Deep Tech TIPS ist ein vertiefender Track innerhalb des TIPS-Programms zur Unterstützung technologieorientierter Startups und konzentriert sich auf die Förderung technologischer Entwicklung in Deep-Tech-Bereichen. Mit dieser Unterstützung kann Nosework seine F&E-Basis im Bereich Pet Healthcare stärken. Sie dürfte auch zur Weiterentwicklung der Technologie und zur Wettbewerbsfähigkeit der Dienste beitragen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Nosework sélectionnée pour Deep Tech TIPS et obtient 1,5 milliard de wons pour la R&D animale",
+        "excerpt": "La startup de santé animale Nosework a annoncé le 8 avoir été sélectionnée pour le volet Deep Tech du programme TIPS du ministère des PME et des Startups, obtenant 1,5 milliard de wons de R&D sur trois ans.",
+        "body": "La startup de santé pour animaux de compagnie Nosework a annoncé le 8 avoir été sélectionnée définitivement pour le “Deep Tech Track” de TIPS, programme de soutien aux startups technologiques du ministère des PME et des Startups. Cette sélection permet à Nosework d’obtenir 1,5 milliard de wons de financement en recherche et développement (R&D) sur trois ans. Deep Tech TIPS est un volet renforcé du programme TIPS destiné aux entreprises technologiques, avec un accent sur le développement technologique dans les domaines deep tech. Grâce à ce soutien, Nosework pourra renforcer sa base de R&D dans la santé animale. Il devrait aussi contribuer à l’amélioration de sa technologie et de la compétitivité de ses services. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نوزوورك تنضم إلى Deep Tech TIPS وتحصل على 1.5 مليار وون لأبحاث رعاية الحيوانات الأليفة",
+        "excerpt": "أعلنت شركة نوزوورك الناشئة في رعاية صحة الحيوانات الأليفة يوم 8 مايو اختيارها النهائي ضمن مسار Deep Tech في برنامج TIPS التابع لوزارة الشركات الصغيرة والناشئة، مع تمويل بحث وتطوير قدره 1.5 مليار وون لثلاث سنوات.",
+        "body": "أعلنت شركة نوزوورك الناشئة في مجال رعاية صحة الحيوانات الأليفة يوم 8 مايو أنها اختيرت نهائيا ضمن مسار “Deep Tech Track” في برنامج TIPS، وهو برنامج دعم للشركات التقنية الناشئة تديره وزارة الشركات الصغيرة والمتوسطة والناشئة. وبموجب هذا الاختيار، حصلت نوزوورك على تمويل للبحث والتطوير بقيمة 1.5 مليار وون على مدى ثلاث سنوات. ويعد Deep Tech TIPS مسارا متقدما داخل برنامج TIPS، ويركز على دعم تطوير التقنيات في مجالات التقنية العميقة. ومن خلال هذا الدعم، ستتمكن نوزوورك من تعزيز قاعدة البحث والتطوير في قطاع رعاية صحة الحيوانات الأليفة. كما من المتوقع أن يساعد ذلك في تطوير تقنياتها وتحسين تنافسية خدماتها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Nosework Deep Tech TIPS में चयनित, पालतू हेल्थकेयर R&D के लिए 1.5 अरब वॉन सुरक्षित",
+        "excerpt": "पालतू हेल्थकेयर स्टार्टअप Nosework ने 8 मई को कहा कि उसे SMEs और Startups मंत्रालय के TIPS Deep Tech Track में अंतिम रूप से चुना गया है, जिससे तीन वर्षों में 1.5 अरब वॉन R&D फंड मिलेगा।",
+        "body": "पालतू जानवरों के हेल्थकेयर स्टार्टअप Nosework ने 8 मई को बताया कि उसे SMEs और Startups मंत्रालय के टेक्नोलॉजी स्टार्टअप समर्थन कार्यक्रम TIPS के “Deep Tech Track” में अंतिम रूप से चुना गया है। इस चयन के साथ Nosework ने तीन वर्षों के लिए अनुसंधान और विकास (R&D) फंड के रूप में 1.5 अरब वॉन सुरक्षित किए हैं। Deep Tech TIPS, तकनीकी स्टार्टअप्स को समर्थन देने वाले TIPS कार्यक्रम का एक उन्नत ट्रैक है, जिसका ध्यान डीप टेक क्षेत्रों में तकनीकी विकास को सहारा देने पर है। इस समर्थन से Nosework पालतू हेल्थकेयर क्षेत्र में अपनी R&D आधारशिला को मजबूत कर सकेगी। इससे कंपनी की तकनीक को उन्नत करने और सेवा प्रतिस्पर्धा बढ़ाने में भी मदद मिलने की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Nosework Terpilih di Deep Tech TIPS, Amankan 1,5 Miliar Won untuk R&D Kesehatan Hewan Peliharaan",
+        "excerpt": "Startup kesehatan hewan peliharaan Nosework mengatakan pada 8 Mei bahwa pihaknya terpilih dalam Deep Tech Track program TIPS Kementerian UKM dan Startup, memperoleh dana R&D 1,5 miliar won selama tiga tahun.",
+        "body": "Startup kesehatan hewan peliharaan Nosework mengatakan pada 8 Mei bahwa pihaknya telah terpilih secara final dalam “Deep Tech Track” TIPS, program dukungan startup teknologi dari Kementerian UKM dan Startup. Melalui seleksi ini, Nosework mengamankan dana penelitian dan pengembangan (R&D) sebesar 1,5 miliar won selama tiga tahun. Deep Tech TIPS adalah jalur lanjutan dalam program TIPS yang mendukung perusahaan rintisan teknologi, dengan fokus pada pengembangan teknologi di bidang deep tech. Dengan dukungan ini, Nosework dapat memperkuat fondasi R&D di sektor kesehatan hewan peliharaan. Hal ini juga diperkirakan membantu peningkatan teknologi perusahaan dan daya saing layanannya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0fc7772ebf0d",
+    "slug": "이승환-구미-공연-취소-손배소-일부-승소항소해-끝까지-정의-묻겠다-886624",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T06:01:43.543Z",
+    "updatedAt": "2026-05-08T06:01:43.543Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041086",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041086",
+    "titleFingerprint": "cb36019bf1d02c4995cf13dbb80f002cb911c9a5",
+    "dedupKeys": [
+      "0fc7772ebf0d2f497909a854bbc464b7cd4a721f",
+      "cb36019bf1d02c4995cf13dbb80f002cb911c9a5",
+      "5250eadb53bab1b716d9641c6905ba7a10783136"
+    ],
+    "imageUrl": "/images/articles/0fc7772ebf0d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이승환 구미 공연 취소 손배소 일부 승소…1심 1억2500만원 배상 판결",
+        "excerpt": "가수 이승환과 공연 예매자들이 구미 공연장 대관 취소를 둘러싼 손해배상 소송 1심에서 일부 승소하며 김장호 구미시장과 구미시에 총 1억2500만원 배상 판단이 나왔다.",
+        "body": "가수 이승환이 콘서트 이틀 전 공연장 대관을 취소한 김장호 구미시장과 구미시를 상대로 낸 손해배상 소송 1심에서 일부 승소했다. 서울중앙지법은 이승환과 공연 예매자들에게 총 1억2500만원을 배상하라는 판단을 내렸다. 이번 소송은 구미 공연을 앞두고 대관이 취소되면서 가수와 예매자들이 손해를 주장한 데서 비롯됐다. 이승환은 판결 뒤 항소해 끝까지 정의를 묻겠다는 뜻을 밝혔다. 1심 판단은 공연 취소 과정에서 발생한 책임을 일부 인정한 결과로, 향후 항소심에서 배상 범위와 책임 판단이 다시 다뤄질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lee Seung-hwan Partly Wins Gumi Concert Cancellation Suit, Court Orders 125 Million Won",
+        "excerpt": "Singer Lee Seung-hwan and ticket buyers partly won a first-trial damages case over Gumi’s venue rental cancellation, with the mayor and city ordered to pay 125 million won.",
+        "body": "Singer Lee Seung-hwan partly won a first-trial damages lawsuit against Gumi Mayor Kim Jang-ho and the city of Gumi after the venue rental for his concert was canceled two days before the show. The Seoul Central District Court ruled that Lee and concert ticket buyers should receive a total of 125 million won in compensation. The case stemmed from claims of losses by the singer and ticket holders after the Gumi concert venue booking was canceled shortly before the event. After the ruling, Lee said he would appeal and continue to seek justice to the end. The first-trial decision partially recognized responsibility for the cancellation, with the scope of damages and liability expected to be reviewed again on appeal. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "イ・スンファン、亀尾公演中止訴訟で一部勝訴…1審が1億2500万ウォン賠償命令",
+        "excerpt": "歌手イ・スンファンと公演予約者が亀尾公演の会場貸館取り消しをめぐる損害賠償訴訟の1審で一部勝訴し、市長と市に計1億2500万ウォンの賠償判断が出た。",
+        "body": "歌手イ・スンファンは、コンサートの2日前に公演会場の貸館を取り消した金長浩・亀尾市長と亀尾市を相手取った損害賠償訴訟の1審で一部勝訴した。ソウル中央地裁は、イ・スンファンと公演予約者に計1億2500万ウォンを賠償するよう判断した。今回の訴訟は、亀尾公演を前に貸館が取り消され、歌手と予約者が損害を主張したことから始まった。判決後、イ・スンファンは控訴し、最後まで正義を問う考えを示した。1審判断は公演中止過程の責任を一部認めたもので、控訴審で賠償範囲と責任判断が改めて争われる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "李承焕龟尾演出取消索赔案部分胜诉，一审判赔1.25亿韩元",
+        "excerpt": "歌手李承焕及演出购票者在龟尾演出场馆租用取消相关损害赔偿一审中部分胜诉，法院判定龟尾市长和龟尾市共赔偿1.25亿韩元。",
+        "body": "歌手李承焕就演唱会前两天场馆租用被取消一事，起诉龟尾市长金长镐和龟尾市的损害赔偿案一审部分胜诉。首尔中央地方法院判定，应向李承焕及演出购票者共赔偿1.25亿韩元。该案源于龟尾演出举行前场馆租用被取消，歌手和购票者主张因此遭受损失。判决后，李承焕表示将提出上诉，并称会追问正义到底。一审判决部分认定了演出取消过程中的责任，预计上诉审将再次审理赔偿范围和责任判断。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lee Seung-hwan gana parcialmente demanda por concierto cancelado en Gumi: 125 millones de wones",
+        "excerpt": "El cantante Lee Seung-hwan y compradores de entradas ganaron parcialmente en primera instancia una demanda por la cancelación del alquiler del recinto en Gumi, con indemnización de 125 millones de wones.",
+        "body": "El cantante Lee Seung-hwan ganó parcialmente en primera instancia una demanda por daños contra el alcalde de Gumi, Kim Jang-ho, y la ciudad de Gumi, después de que se cancelara el alquiler del recinto dos días antes de su concierto. El Tribunal del Distrito Central de Seúl determinó que Lee y los compradores de entradas debían recibir un total de 125 millones de wones en compensación. El caso surgió tras la cancelación del recinto antes del concierto de Gumi, lo que llevó al cantante y a los asistentes a reclamar daños. Tras el fallo, Lee dijo que apelará y seguirá exigiendo justicia hasta el final. La decisión reconoce parcialmente responsabilidad en el proceso de cancelación, y el alcance de la indemnización y la responsabilidad se revisarán en apelación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lee Seung-hwan vence em parte ação por show cancelado em Gumi; indenização de 125 milhões de wons",
+        "excerpt": "O cantor Lee Seung-hwan e compradores de ingressos venceram parcialmente, em primeira instância, ação por cancelamento do aluguel do local em Gumi, com indenização total de 125 milhões de wons.",
+        "body": "O cantor Lee Seung-hwan venceu parcialmente, em primeira instância, uma ação de indenização contra o prefeito de Gumi, Kim Jang-ho, e a cidade de Gumi, após o aluguel do local do concerto ser cancelado dois dias antes do evento. O Tribunal Distrital Central de Seul decidiu que Lee e os compradores de ingressos devem receber um total de 125 milhões de wons. O processo surgiu depois que a reserva do espaço para o show em Gumi foi cancelada, levando o cantor e os compradores a alegarem prejuízos. Após a decisão, Lee afirmou que recorrerá e continuará buscando justiça até o fim. A sentença reconheceu parcialmente a responsabilidade no cancelamento, e a extensão da indenização deverá ser reavaliada em recurso. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lee Seung-hwan gewinnt teilweise Klage um abgesagtes Gumi-Konzert: 125 Mio. Won Schadenersatz",
+        "excerpt": "Sänger Lee Seung-hwan und Ticketkäufer erzielten in erster Instanz einen Teilerfolg in der Schadenersatzklage zur abgesagten Hallenmiete in Gumi; Stadt und Bürgermeister sollen 125 Mio. Won zahlen.",
+        "body": "Sänger Lee Seung-hwan hat in erster Instanz teilweise eine Schadenersatzklage gegen Gumis Bürgermeister Kim Jang-ho und die Stadt Gumi gewonnen, nachdem die Miete des Veranstaltungsorts zwei Tage vor seinem Konzert storniert worden war. Das Bezirksgericht Seoul Central entschied, dass Lee und die Ticketkäufer insgesamt 125 Millionen Won erhalten sollen. Der Fall entstand, weil die Hallenbuchung vor dem Gumi-Konzert aufgehoben wurde und der Sänger sowie die Käufer Schäden geltend machten. Nach dem Urteil erklärte Lee, er werde Berufung einlegen und bis zum Ende Gerechtigkeit einfordern. Die Entscheidung erkennt eine Verantwortung im Zusammenhang mit der Absage teilweise an; Umfang der Entschädigung und Haftung dürften im Berufungsverfahren erneut geprüft werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lee Seung-hwan gagne en partie le procès du concert annulé à Gumi: 125 millions de wons",
+        "excerpt": "Le chanteur Lee Seung-hwan et des acheteurs de billets ont obtenu partiellement gain de cause en première instance après l’annulation de la location d’une salle à Gumi, avec 125 millions de wons à verser.",
+        "body": "Le chanteur Lee Seung-hwan a obtenu partiellement gain de cause en première instance dans une action en dommages et intérêts contre le maire de Gumi, Kim Jang-ho, et la ville de Gumi, après l’annulation de la location de la salle deux jours avant son concert. Le tribunal du district central de Séoul a jugé que Lee et les acheteurs de billets devaient recevoir au total 125 millions de wons. L’affaire est née de l’annulation de la réservation avant le concert de Gumi, le chanteur et les spectateurs invoquant des pertes. Après le jugement, Lee a déclaré qu’il ferait appel et continuerait à demander justice jusqu’au bout. La décision reconnaît partiellement une responsabilité dans l’annulation, et l’étendue de l’indemnisation devrait être réexaminée en appel. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لي سونغ هوان يربح جزئيا دعوى إلغاء حفل غومي والمحكمة تقضي بـ125 مليون وون",
+        "excerpt": "فاز المغني لي سونغ هوان ومشترون للتذاكر جزئيا في دعوى تعويض بالدرجة الأولى بشأن إلغاء تأجير قاعة حفل غومي، مع إلزام رئيس البلدية والمدينة بدفع 125 مليون وون.",
+        "body": "فاز المغني لي سونغ هوان جزئيا في محاكمة الدرجة الأولى بدعوى تعويض ضد رئيس بلدية غومي كيم جانغ هو ومدينة غومي، بعدما أُلغي تأجير قاعة حفله قبل يومين من الموعد. وقضت محكمة منطقة سيول المركزية بأن يحصل لي ومشترو تذاكر الحفل على تعويض إجمالي قدره 125 مليون وون. وجاءت القضية بعد إلغاء حجز مكان حفل غومي، ما دفع المغني وحاملي التذاكر إلى المطالبة بتعويض عن الأضرار. وبعد الحكم، قال لي إنه سيستأنف وسيواصل مساءلة العدالة حتى النهاية. ويعني حكم الدرجة الأولى اعترافا جزئيا بالمسؤولية في عملية الإلغاء، ومن المتوقع أن تُبحث قيمة التعويض والمسؤولية مجددا في الاستئناف. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ली स्युंग-ह्वान गुमी कॉन्सर्ट रद्द मामले में आंशिक विजयी, 12.5 करोड़ वॉन मुआवजा",
+        "excerpt": "गायक ली स्युंग-ह्वान और टिकट खरीदारों ने गुमी स्थल किराया रद्द होने पर प्रथम अदालत में आंशिक जीत हासिल की, जिसमें मेयर और शहर को कुल 12.5 करोड़ वॉन देने का फैसला हुआ।",
+        "body": "गायक ली स्युंग-ह्वान ने अपने कॉन्सर्ट से दो दिन पहले स्थल का किराया रद्द किए जाने को लेकर गुमी के मेयर किम जांग-हो और गुमी शहर के खिलाफ दायर क्षतिपूर्ति मुकदमे में प्रथम अदालत में आंशिक जीत हासिल की। सियोल सेंट्रल डिस्ट्रिक्ट कोर्ट ने फैसला दिया कि ली और कॉन्सर्ट टिकट खरीदारों को कुल 12.5 करोड़ वॉन का मुआवजा दिया जाए। यह मामला गुमी कॉन्सर्ट से पहले स्थल बुकिंग रद्द होने के बाद गायक और खरीदारों द्वारा नुकसान का दावा करने से शुरू हुआ। फैसले के बाद ली ने कहा कि वे अपील करेंगे और अंत तक न्याय का सवाल उठाएंगे। प्रथम अदालत ने रद्दीकरण प्रक्रिया में जिम्मेदारी को आंशिक रूप से माना है, और अपील में मुआवजे की सीमा व जिम्मेदारी पर फिर विचार होने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lee Seung-hwan Menang Sebagian Gugatan Konser Gumi Batal, Ganti Rugi 125 Juta Won",
+        "excerpt": "Penyanyi Lee Seung-hwan dan pembeli tiket menang sebagian di tingkat pertama atas gugatan pembatalan sewa gedung konser Gumi, dengan wali kota dan kota diperintahkan membayar 125 juta won.",
+        "body": "Penyanyi Lee Seung-hwan menang sebagian dalam gugatan ganti rugi tingkat pertama terhadap Wali Kota Gumi Kim Jang-ho dan Pemerintah Kota Gumi setelah penyewaan gedung konsernya dibatalkan dua hari sebelum acara. Pengadilan Distrik Pusat Seoul memutuskan bahwa Lee dan para pembeli tiket konser harus menerima total 125 juta won sebagai kompensasi. Perkara ini bermula dari pembatalan pemesanan tempat sebelum konser Gumi, yang membuat penyanyi dan pembeli tiket mengklaim kerugian. Setelah putusan, Lee menyatakan akan mengajukan banding dan terus menuntut keadilan sampai akhir. Putusan tingkat pertama ini mengakui sebagian tanggung jawab dalam proses pembatalan, sementara cakupan ganti rugi dan tanggung jawab diperkirakan akan dibahas kembali di tingkat banding. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d44820f1b7f0",
+    "slug": "피싱범-잡은-회사원-격투기-챔피언까지신임-경찰-졸업식-409494",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T06:00:29.040Z",
+    "updatedAt": "2026-05-08T06:00:29.041Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12041087",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12041087",
+    "titleFingerprint": "b1daf23f5926c2589a6e585628c7a95fdd55754a",
+    "dedupKeys": [
+      "d44820f1b7f0750cb53426a56a639b864e91e2bf",
+      "b1daf23f5926c2589a6e585628c7a95fdd55754a",
+      "d450955bacde2c1ac41dada99054866189e01dff"
+    ],
+    "imageUrl": "/images/articles/d44820f1b7f0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "신임 경찰 2191명 졸업식, 피싱범 잡은 회사원·격투기 챔피언도 새 출발",
+        "excerpt": "중앙경찰학교는 8일 충북 충주시 교내 대운동장에서 제319기 신임 경찰 2191명의 졸업식을 열고 현장 배치를 앞둔 새 경찰관들의 출발을 알렸다.",
+        "body": "중앙경찰학교가 8일 충북 충주시 교내 대운동장에서 신임 경찰 제319기 2191명의 졸업식을 열었다. 이번 졸업생은 남성 1746명, 여성 445명으로 구성됐으며, 이 가운데 순경 공채 출신은 2155명이다. 졸업생 가운데는 피싱범을 붙잡은 회사원과 격투기 챔피언 이력을 가진 인물도 포함돼 눈길을 끌었다. 중앙경찰학교 졸업식은 교육 과정을 마친 신임 경찰관들이 현장 근무를 앞두고 공식적으로 첫발을 내딛는 자리다. 대규모 신임 경찰 배출로 각 지역 치안 현장에 새 인력이 보강될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "2,191 New Police Officers Graduate, Including Phishing Catcher and Fight Champion",
+        "excerpt": "The Central Police Academy held the graduation ceremony for 2,191 new 319th class officers on May 8 at its main field in Chungju, North Chungcheong Province.",
+        "body": "The Central Police Academy held a graduation ceremony on May 8 for 2,191 new police officers of its 319th class at the school’s main field in Chungju, North Chungcheong Province. The graduates included 1,746 men and 445 women, with 2,155 entering through open recruitment for patrol officers. Among them were a former office worker who caught a phishing offender and a graduate with a martial arts champion background, drawing attention at the ceremony. The event marked the formal start for new officers who completed training and are preparing for field duty. The large graduating class is expected to add personnel to local policing sites. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "新人警察官2191人が卒業、フィッシング犯逮捕の会社員や格闘技王者も",
+        "excerpt": "中央警察学校は8日、忠清北道忠州市の校内大運動場で第319期新人警察官2191人の卒業式を開き、現場配属を控えた出発を知らせた。",
+        "body": "中央警察学校は8日、忠清北道忠州市の校内大運動場で新人警察官第319期2191人の卒業式を開いた。卒業生は男性1746人、女性445人で構成され、このうち巡査公開採用出身は2155人だった。卒業生の中にはフィッシング犯を捕まえた会社員や、格闘技チャンピオンの経歴を持つ人物も含まれ、注目を集めた。中央警察学校の卒業式は、教育課程を終えた新人警察官が現場勤務を前に公式に第一歩を踏み出す場だ。大規模な新人警察官の輩出により、各地域の治安現場に新たな人員が補強される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "2191名新任警察毕业，曾抓获钓鱼诈骗犯的职员和格斗冠军在列",
+        "excerpt": "中央警察学校8日在忠清北道忠州市校内大运动场举行第319期2191名新任警察毕业典礼，宣告新警员即将走向一线。",
+        "body": "中央警察学校8日在忠清北道忠州市校内大运动场举行了第319期2191名新任警察的毕业典礼。本届毕业生由1746名男性和445名女性组成，其中通过巡警公开招聘进入的有2155人。毕业生中还包括曾抓获钓鱼诈骗犯的公司职员，以及拥有格斗冠军经历的人物，因此受到关注。中央警察学校毕业典礼是完成教育课程的新任警察在投入现场工作前正式迈出第一步的场合。随着大批新任警察毕业，各地区治安一线预计将获得新人员补充。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Se gradúan 2.191 nuevos policías, entre ellos quien capturó a un phisher y un campeón",
+        "excerpt": "La Escuela Central de Policía celebró el 8 de mayo en Chungju la graduación de 2.191 nuevos agentes de la promoción 319, antes de su llegada al servicio de campo.",
+        "body": "La Escuela Central de Policía celebró el 8 de mayo la ceremonia de graduación de 2.191 nuevos agentes de la promoción 319 en el campo principal de su campus en Chungju, provincia de Chungcheong del Norte. Los graduados incluyen 1.746 hombres y 445 mujeres, y 2.155 proceden de la convocatoria abierta para policías rasos. Entre ellos figuran un ex empleado de oficina que atrapó a un delincuente de phishing y una persona con trayectoria de campeón de artes marciales, lo que atrajo atención. La ceremonia marca el inicio formal de los nuevos policías tras completar su formación y antes del trabajo en terreno. Esta promoción numerosa reforzará los puestos de seguridad locales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Formatura reúne 2.191 novos policiais, incluindo quem capturou phisher e campeão de luta",
+        "excerpt": "A Escola Central de Polícia realizou em 8 de maio, em Chungju, a formatura de 2.191 novos agentes da 319ª turma, antes da atuação nas ruas.",
+        "body": "A Escola Central de Polícia realizou em 8 de maio a cerimônia de formatura de 2.191 novos policiais da 319ª turma no campo principal do campus em Chungju, na província de Chungcheong do Norte. Os formandos incluem 1.746 homens e 445 mulheres, dos quais 2.155 ingressaram pela seleção pública para policiais de base. Entre eles estavam um ex-funcionário de empresa que capturou um criminoso de phishing e uma pessoa com histórico de campeã em artes marciais, chamando atenção. A formatura marca o início oficial dos novos policiais após a conclusão do treinamento e antes do serviço em campo. A turma numerosa deve reforçar a segurança nas regiões. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "2.191 neue Polizisten absolvieren Abschlussfeier, darunter Phishing-Fänger und Kampfsportchampion",
+        "excerpt": "Die Zentrale Polizeischule hielt am 8. Mai in Chungju die Abschlussfeier für 2.191 neue Beamte des 319. Jahrgangs vor ihrem Einsatz im Außendienst ab.",
+        "body": "Die Zentrale Polizeischule veranstaltete am 8. Mai auf dem Hauptsportplatz ihres Campus in Chungju, Provinz Nord-Chungcheong, die Abschlussfeier für 2.191 neue Polizeibeamte des 319. Jahrgangs. Unter den Absolventen waren 1.746 Männer und 445 Frauen; 2.155 kamen über die offene Rekrutierung für Streifenpolizisten. Aufmerksamkeit erhielten auch ein früherer Angestellter, der einen Phishing-Täter gefasst hatte, sowie eine Person mit dem Hintergrund eines Kampfsportchampions. Die Feier markiert den offiziellen Start der neuen Beamten nach ihrer Ausbildung und vor dem Dienst vor Ort. Mit dem großen Jahrgang sollen lokale Polizeistellen personell verstärkt werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "2 191 nouveaux policiers diplômés, dont un chasseur de hameçonneur et un champion d’arts martiaux",
+        "excerpt": "L’École centrale de police a organisé le 8 mai à Chungju la cérémonie de sortie de 2 191 nouveaux agents de la 319e promotion avant leur affectation sur le terrain.",
+        "body": "L’École centrale de police a organisé le 8 mai, sur le grand terrain de son campus à Chungju, dans la province du Chungcheong du Nord, la cérémonie de sortie de 2 191 nouveaux policiers de la 319e promotion. Les diplômés comptent 1 746 hommes et 445 femmes, dont 2 155 issus du recrutement ouvert de gardiens de la paix. Parmi eux figuraient un ancien employé de bureau ayant arrêté un auteur de hameçonnage et une personne au parcours de champion d’arts martiaux, ce qui a attiré l’attention. Cette cérémonie marque le premier pas officiel des nouveaux agents après leur formation et avant le service de terrain. Cette promotion nombreuse devrait renforcer les effectifs de sécurité locaux. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تخرج 2191 شرطيا جديدا بينهم موظف أمسك بمحتال تصيد وبطل فنون قتالية",
+        "excerpt": "أقامت مدرسة الشرطة المركزية في 8 مايو بمدينة تشونغجو حفل تخرج الدفعة 319 التي تضم 2191 شرطيا جديدا قبل بدء عملهم الميداني.",
+        "body": "أقامت مدرسة الشرطة المركزية في 8 مايو حفل تخرج 2191 شرطيا جديدا من الدفعة 319 في الملعب الكبير داخل حرمها بمدينة تشونغجو في مقاطعة تشونغتشونغ الشمالية. وتضم الدفعة 1746 رجلا و445 امرأة، ومن بينهم 2155 التحقوا عبر التوظيف العام لرتبة شرطي. ولفت الانتباه وجود موظف سابق أمسك بمجرم تصيد إلكتروني، وشخص لديه خلفية كبطل في الفنون القتالية. يمثل الحفل البداية الرسمية للشرطة الجدد بعد إكمال التدريب وقبل التوجه إلى العمل الميداني. ومن المتوقع أن تعزز هذه الدفعة الكبيرة القوى البشرية في مواقع الأمن المحلية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "2,191 नए पुलिसकर्मी पास आउट, फिशिंग अपराधी पकड़ने वाले कर्मचारी और फाइट चैंपियन भी शामिल",
+        "excerpt": "केंद्रीय पुलिस स्कूल ने 8 मई को चुंगजू परिसर के मुख्य मैदान में 319वें बैच के 2,191 नए पुलिसकर्मियों का स्नातक समारोह आयोजित किया।",
+        "body": "केंद्रीय पुलिस स्कूल ने 8 मई को उत्तर चुंगचोंग प्रांत के चुंगजू स्थित परिसर के मुख्य मैदान में 319वें बैच के 2,191 नए पुलिसकर्मियों का स्नातक समारोह आयोजित किया। स्नातकों में 1,746 पुरुष और 445 महिलाएं शामिल हैं, जिनमें से 2,155 कांस्टेबल खुली भर्ती से आए हैं। इनमें एक पूर्व कंपनी कर्मचारी भी शामिल है जिसने फिशिंग अपराधी को पकड़ा था, और एक ऐसा स्नातक भी है जिसकी पृष्ठभूमि मार्शल आर्ट्स चैंपियन की है। इस समारोह ने प्रशिक्षण पूरा कर चुके नए पुलिसकर्मियों के फील्ड ड्यूटी से पहले औपचारिक पहले कदम को चिह्नित किया। इस बड़े बैच से स्थानीय सुरक्षा स्थलों पर कर्मियों की मजबूती की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "2.191 Polisi Baru Lulus, Termasuk Penangkap Pelaku Phishing dan Juara Bela Diri",
+        "excerpt": "Sekolah Polisi Pusat menggelar wisuda 2.191 polisi baru angkatan ke-319 pada 8 Mei di lapangan utama kampus Chungju sebelum mereka bertugas di lapangan.",
+        "body": "Sekolah Polisi Pusat menggelar upacara kelulusan 2.191 polisi baru angkatan ke-319 pada 8 Mei di lapangan utama kampusnya di Chungju, Provinsi Chungcheong Utara. Para lulusan terdiri dari 1.746 pria dan 445 wanita, dengan 2.155 di antaranya berasal dari rekrutmen terbuka untuk polisi berpangkat awal. Di antara lulusan terdapat mantan pegawai perusahaan yang menangkap pelaku phishing dan seseorang dengan latar belakang juara bela diri, sehingga menarik perhatian. Upacara ini menjadi langkah resmi pertama bagi polisi baru yang telah menyelesaikan pendidikan sebelum bertugas di lapangan. Kelulusan dalam jumlah besar ini diperkirakan menambah personel di lokasi keamanan daerah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "664532d5ef6b",
     "slug": "대만-서버기업-하나-매출-44조원인데변변한-국산-서버-기업-하나-없는-한국-137133",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Ibu 40-an di Cheongju Diselidiki Usai Pukul Anak pada Hari Anak",
         "excerpt": "Polisi Cheongwon di Cheongju menyatakan sedang menyelidiki tanpa penahanan seorang ibu berusia 40-an yang diduga memukul bokong putranya sekali pada 5 Mei.",
         "body": "Polisi Cheongwon di Cheongju pada 7 Mei menyatakan telah menetapkan seorang ibu berusia 40-an, disebut A, untuk diselidiki tanpa penahanan atas dugaan pelanggaran Undang-Undang Kesejahteraan Anak karena memukul putranya yang masih duduk di sekolah dasar. Menurut polisi, A diduga memukul bokong anaknya satu kali sekitar pukul 23.00 pada 5 Mei, Hari Anak, di sebuah lokasi di Cheongju. Polisi sedang memeriksa isi laporan, situasi saat kejadian, dan kronologi tindakan tersebut. Kasus ini menjadi perhatian karena hukuman fisik di dalam rumah dapat menjadi objek penyelidikan terkait kesejahteraan anak. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "f24efaa19e20",
-    "slug": "구글코리아-1500억-법인세-소송-2심도-승소글로벌-빅테크-줄줄이-승소-829739",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T17:15:42.812Z",
-    "updatedAt": "2026-05-07T17:15:42.812Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12039788",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12039788",
-    "titleFingerprint": "370c655cf25c91a13f94cc056e23813ad466387a",
-    "dedupKeys": [
-      "f24efaa19e200c93f0c5aff9aca79d28c8372087",
-      "370c655cf25c91a13f94cc056e23813ad466387a",
-      "91b051aef7dafaa659ad8f36ef59bc6d7765d45f"
-    ],
-    "imageUrl": "/images/articles/f24efaa19e20.jpg",
-    "i18n": {
-      "ko": {
-        "title": "구글코리아, 1500억 법인세 소송 2심도 승소…빅테크 과세 분쟁 주목",
-        "excerpt": "구글코리아가 7일 서울고법에서 역삼세무서장 등을 상대로 낸 1500억 원 규모 법인세 소송 2심에서도 승소하며 빅테크 과세 분쟁이 다시 주목받고 있다.",
-        "body": "구글코리아가 국내 과세당국과 벌인 1500억 원 규모 법인세 소송에서 1심에 이어 2심도 승소했다. 서울고법 행정9-1부는 7일 구글코리아가 역삼세무서장 등을 상대로 제기한 법인세 관련 소송에서 구글코리아 측 손을 들어줬다. 이번 판결은 넷플릭스와 메타가 국내 과세당국과의 법인세 소송에서 승소한 데 이어 나온 결정이다. 글로벌 빅테크 기업들이 잇달아 유사한 과세 분쟁에서 승소하면서 국내 과세당국과 다국적 플랫폼 기업 간 법인세 쟁점에 관심이 커지고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Google Korea Wins Appeal in 150 Billion Won Corporate Tax Case, Spotlighting Big Tech Disputes",
-        "excerpt": "Google Korea won its second trial on May 7 in a 150 billion won corporate tax lawsuit against Korean tax authorities, following similar wins by Netflix and Meta.",
-        "body": "Google Korea has won the second trial in a 150 billion won corporate tax lawsuit against South Korean tax authorities, following its first-trial victory. On May 7, the Seoul High Court Administrative Division 9-1 ruled in favor of Google Korea in a corporate tax case it filed against the head of the Yeoksam Tax Office and others. The decision follows victories by Netflix and Meta in corporate tax lawsuits against Korean tax authorities. As global big tech companies continue to prevail in similar tax disputes, attention is growing on corporate tax issues between Korean authorities and multinational platform firms. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "グーグルコリア、1500億ウォン法人税訴訟で二審も勝訴　ビッグテック課税に注目",
-        "excerpt": "グーグルコリアは7日、韓国課税当局との1500億ウォン規模の法人税訴訟の二審でも勝訴し、ビッグテック課税紛争が再び注目されている。",
-        "body": "グーグルコリアが韓国の課税当局と争った1500億ウォン規模の法人税訴訟で、一審に続き二審でも勝訴した。ソウル高裁行政9-1部は7日、グーグルコリアが駅三税務署長らを相手に起こした法人税関連訴訟で、グーグルコリア側の主張を認めた。今回の判決は、ネットフリックスとメタが韓国課税当局との法人税訴訟で勝訴した後に出たものだ。グローバルなビッグテック企業が同様の課税紛争で相次いで勝訴したことで、韓国課税当局と多国籍プラットフォーム企業の法人税問題に関心が集まっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "谷歌韩国1500亿韩元法人税诉讼二审再胜诉，全球科技巨头税务争议受关注",
-        "excerpt": "谷歌韩国7日在首尔高等法院就1500亿韩元规模法人税诉讼二审胜诉，继奈飞和Meta之后，大型科技企业税务争议再受关注。",
-        "body": "谷歌韩国在与韩国税务机关围绕1500亿韩元规模法人税展开的诉讼中，继一审后在二审再次胜诉。首尔高等法院行政9-1部7日就谷歌韩国起诉驿三税务署长等的法人税相关案件作出判决，支持谷歌韩国一方。此次判决是在奈飞和Meta相继赢得与韩国税务机关的法人税诉讼之后作出的。随着全球大型科技企业在类似税务争议中接连胜诉，韩国税务机关与跨国平台企业之间的法人税问题正受到更多关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Google Korea gana en segunda instancia demanda fiscal de 150.000 millones de wones",
-        "excerpt": "Google Korea ganó el 7 de mayo en segunda instancia una demanda de impuesto corporativo por 150.000 millones de wones contra autoridades fiscales surcoreanas.",
-        "body": "Google Korea ganó también en segunda instancia una demanda de impuesto corporativo por 150.000 millones de wones contra las autoridades fiscales de Corea del Sur, tras imponerse en primera instancia. El 7 de mayo, la Sala Administrativa 9-1 del Tribunal Superior de Seúl falló a favor de Google Korea en el caso presentado contra el jefe de la oficina fiscal de Yeoksam y otros. La decisión llega después de que Netflix y Meta también ganaran demandas de impuesto corporativo frente a las autoridades fiscales coreanas. Con estas victorias sucesivas de grandes tecnológicas globales en disputas similares, aumenta la atención sobre los conflictos fiscales entre Corea del Sur y las plataformas multinacionales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Google Korea vence recurso em disputa fiscal de 150 bilhões de wones contra autoridades coreanas",
-        "excerpt": "A Google Korea venceu em 7 de maio a segunda instância de uma ação de imposto corporativo de 150 bilhões de wones contra autoridades fiscais da Coreia do Sul.",
-        "body": "A Google Korea venceu também em segunda instância uma ação de imposto corporativo de 150 bilhões de wones contra as autoridades fiscais da Coreia do Sul, após vitória na primeira instância. Em 7 de maio, a Divisão Administrativa 9-1 do Tribunal Superior de Seul decidiu a favor da Google Korea no processo movido contra o chefe da repartição fiscal de Yeoksam e outros. A decisão ocorre depois de Netflix e Meta também vencerem ações de imposto corporativo contra as autoridades coreanas. Com grandes empresas globais de tecnologia vencendo disputas fiscais semelhantes em sequência, cresce a atenção sobre as questões de imposto corporativo entre o fisco coreano e plataformas multinacionais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Google Korea gewinnt Berufung in Körperschaftsteuerstreit über 150 Milliarden Won",
-        "excerpt": "Google Korea gewann am 7. Mai auch die zweite Instanz in einem Körperschaftsteuerverfahren über 150 Milliarden Won gegen südkoreanische Steuerbehörden.",
-        "body": "Google Korea hat nach dem erstinstanzlichen Erfolg auch die zweite Instanz in einem Körperschaftsteuerverfahren über 150 Milliarden Won gegen südkoreanische Steuerbehörden gewonnen. Die Verwaltungsabteilung 9-1 des Seoul High Court entschied am 7. Mai zugunsten von Google Korea in dem Verfahren gegen den Leiter des Finanzamts Yeoksam und weitere Beteiligte. Das Urteil folgt auf Siege von Netflix und Meta in Körperschaftsteuerprozessen gegen koreanische Steuerbehörden. Da globale Big-Tech-Unternehmen in ähnlichen Steuerstreitigkeiten nacheinander gewinnen, rücken Körperschaftsteuerfragen zwischen koreanischen Behörden und multinationalen Plattformunternehmen stärker in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Google Korea gagne en appel un litige fiscal de 150 milliards de wons, après Netflix et Meta",
-        "excerpt": "Google Korea a remporté le 7 mai en appel un procès d’impôt sur les sociétés de 150 milliards de wons contre les autorités fiscales sud-coréennes.",
-        "body": "Google Korea a remporté en deuxième instance un procès d’impôt sur les sociétés de 150 milliards de wons contre les autorités fiscales sud-coréennes, après avoir déjà gagné en première instance. Le 7 mai, la division administrative 9-1 de la Haute Cour de Séoul a statué en faveur de Google Korea dans l’affaire engagée contre le chef du bureau fiscal de Yeoksam et d’autres parties. Cette décision intervient après les victoires de Netflix et de Meta dans des litiges d’impôt sur les sociétés contre les autorités coréennes. Alors que les grands groupes technologiques mondiaux gagnent successivement des contentieux fiscaux similaires, les questions d’impôt sur les sociétés entre le fisc coréen et les plateformes multinationales attirent davantage l’attention. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "غوغل كوريا تكسب استئناف نزاع ضريبي بقيمة 150 مليار وون بعد انتصارات شركات التقنية",
-        "excerpt": "كسبت غوغل كوريا في 7 مايو حكم الدرجة الثانية في دعوى ضريبة شركات بقيمة 150 مليار وون ضد سلطات الضرائب الكورية، بعد قضيتي نتفليكس وميتا.",
-        "body": "كسبت غوغل كوريا حكم الدرجة الثانية في دعوى ضريبة شركات بقيمة 150 مليار وون ضد سلطات الضرائب في كوريا الجنوبية، بعد أن فازت في الدرجة الأولى. وفي 7 مايو، قضت الدائرة الإدارية 9-1 في محكمة سول العليا لصالح غوغل كوريا في الدعوى التي رفعتها ضد رئيس مكتب ضرائب يوكسام وآخرين. وجاء هذا الحكم بعد فوز نتفليكس وميتا في دعاوى ضريبة شركات ضد سلطات الضرائب الكورية. ومع توالي انتصارات شركات التقنية العالمية الكبرى في نزاعات ضريبية مشابهة، يتزايد الاهتمام بقضايا ضريبة الشركات بين السلطات الكورية وشركات المنصات متعددة الجنسيات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Google Korea को 150 अरब वॉन कर मामले में अपील में भी जीत, बिग टेक विवाद फिर चर्चा में",
-        "excerpt": "Google Korea ने 7 मई को दक्षिण कोरियाई कर अधिकारियों के खिलाफ 150 अरब वॉन के कॉरपोरेट टैक्स मुकदमे की दूसरी सुनवाई में भी जीत हासिल की।",
-        "body": "Google Korea ने दक्षिण कोरियाई कर अधिकारियों के साथ 150 अरब वॉन के कॉरपोरेट टैक्स मुकदमे में पहली सुनवाई के बाद दूसरी सुनवाई में भी जीत हासिल की। 7 मई को Seoul High Court की Administrative Division 9-1 ने Yeoksam Tax Office के प्रमुख आदि के खिलाफ Google Korea द्वारा दायर कॉरपोरेट टैक्स मामले में Google Korea के पक्ष में फैसला दिया। यह फैसला Netflix और Meta के कोरियाई कर अधिकारियों के खिलाफ कॉरपोरेट टैक्स मुकदमों में जीत के बाद आया है। वैश्विक बिग टेक कंपनियों की समान कर विवादों में लगातार जीत से कोरियाई कर अधिकारियों और बहुराष्ट्रीय प्लेटफॉर्म कंपनियों के बीच कॉरपोरेट टैक्स मुद्दों पर ध्यान बढ़ रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Google Korea Menang Banding Sengketa Pajak 150 Miliar Won, Setelah Netflix dan Meta",
-        "excerpt": "Google Korea pada 7 Mei menang di tingkat kedua dalam gugatan pajak korporasi senilai 150 miliar won melawan otoritas pajak Korea Selatan.",
-        "body": "Google Korea kembali menang di tingkat kedua dalam gugatan pajak korporasi senilai 150 miliar won melawan otoritas pajak Korea Selatan, setelah sebelumnya menang di tingkat pertama. Pada 7 Mei, Divisi Administratif 9-1 Pengadilan Tinggi Seoul memutuskan mendukung Google Korea dalam perkara pajak korporasi yang diajukan terhadap kepala Kantor Pajak Yeoksam dan pihak lainnya. Putusan ini menyusul kemenangan Netflix dan Meta dalam gugatan pajak korporasi melawan otoritas pajak Korea. Dengan kemenangan beruntun perusahaan teknologi global dalam sengketa pajak serupa, perhatian terhadap isu pajak korporasi antara otoritas Korea dan perusahaan platform multinasional semakin meningkat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2dae39924a41",
-    "slug": "강북-300만원-월세-급증강남의-2배-속도로-많아져-957672",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T17:14:47.130Z",
-    "updatedAt": "2026-05-07T17:14:47.130Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039858",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039858",
-    "titleFingerprint": "b8d1f0925255e5b31b3e703355aaf2f3319550e4",
-    "dedupKeys": [
-      "2dae39924a41111f1e6631434d5f3963dc341076",
-      "b8d1f0925255e5b31b3e703355aaf2f3319550e4",
-      "0c31160aed38690234e6298f65eb18c565f2b233"
-    ],
-    "imageUrl": "/images/articles/2dae39924a41.jpg",
-    "i18n": {
-      "ko": {
-        "title": "강북 300만원 월세 급증, 강남보다 2배 빠른 확산세",
-        "excerpt": "서울 아파트 전세가격 상승률이 10여 년 만에 최고 수준을 기록한 가운데, 올해 1분기 강북의 300만원 이상 고액 월세가 53% 늘며 동대문·성북·은평으로 확산됐다.",
-        "body": "서울 아파트 전세가격 상승률이 10여 년 만에 최고치를 기록한 가운데, 강북권에서 월 300만원 이상 고액 월세가 빠르게 늘고 있다. 원문에 따르면 올해 1분기 강북의 고액 월세는 53% 증가했으며, 증가 속도는 강남의 2배 수준으로 나타났다. 고액 월세 지역은 기존 중심지를 넘어 동대문·성북·은평 등으로 확산되는 흐름을 보였다. 전세가격 상승이 월세 시장에도 영향을 주면서 강북 주거비 부담이 커지는 양상이다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Gangbuk Rents Over 3 Million Won Surge, Spreading Twice as Fast as Gangnam",
-        "excerpt": "As Seoul apartment jeonse prices posted their steepest weekly rise in about a decade, high monthly rents above 3 million won in Gangbuk jumped 53% in Q1 and spread to Dongdaemun, Seongbuk and Eunpyeong.",
-        "body": "Seoul’s apartment jeonse price growth has reached its highest level in more than 10 years, while high monthly rents in Gangbuk are rising quickly. According to the source article, monthly rents of 3 million won or more in Gangbuk increased 53% in the first quarter, expanding at roughly twice the pace seen in Gangnam. The trend is spreading beyond existing areas to Dongdaemun, Seongbuk and Eunpyeong. As higher jeonse prices affect the rental market, housing cost pressure in northern Seoul is increasing. This report cites mk.co.kr."
-      },
-      "ja": {
-        "title": "江北で300万ウォン月家賃が急増、江南の2倍ペースで拡大",
-        "excerpt": "ソウルのマンション週間チョンセ価格上昇率が約10年ぶりの高水準となる中、今年1四半期に江北の300万ウォン以上の高額月家賃が53%増え、東大門・城北・恩平へ広がった。",
-        "body": "ソウルのマンションのチョンセ価格上昇率が10年以上ぶりの高水準を記録する中、江北圏で月300万ウォン以上の高額家賃が急増している。原文によると、今年1四半期の江北の高額月家賃は53%増加し、その増加ペースは江南の約2倍だった。高額月家賃の地域は既存の中心地を越え、東大門・城北・恩平などへ拡大している。チョンセ価格の上昇が月家賃市場にも影響し、江北の住居費負担が強まっている。内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "江北300万韩元月租激增，扩散速度为江南两倍",
-        "excerpt": "首尔公寓每周全租价格涨幅创约10年来最高之际，今年一季度江北300万韩元以上高价月租增长53%，并扩散至东大门、城北、恩平。",
-        "body": "在首尔公寓全租价格周涨幅创10多年来最高水平的背景下，江北地区月租300万韩元以上的高价月租正在快速增加。原文称，今年第一季度江北高价月租增长53%，增速约为江南的两倍。高价月租区域也从既有中心地带扩散至东大门、城北、恩平等地。随着全租价格上涨影响月租市场，首尔江北的居住成本压力正在加大。本文引用mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Alquileres de 3 millones de wones suben en Gangbuk al doble del ritmo de Gangnam",
-        "excerpt": "Mientras el alza semanal del jeonse de apartamentos en Seúl llegó a su mayor nivel en unos 10 años, los alquileres mensuales altos en Gangbuk crecieron 53% en el primer trimestre y se extendieron a Dongdaemun, Seongbuk y Eunpyeong.",
-        "body": "El aumento semanal de los precios jeonse de apartamentos en Seúl alcanzó su nivel más alto en más de una década, mientras los alquileres mensuales elevados crecen con rapidez en Gangbuk. Según el texto original, los alquileres de 3 millones de wones o más en esa zona subieron 53% en el primer trimestre, a un ritmo aproximadamente dos veces mayor que en Gangnam. La tendencia se está extendiendo a Dongdaemun, Seongbuk y Eunpyeong. El avance del jeonse también afecta al mercado de alquiler mensual y eleva la presión sobre el costo de vivienda en el norte de Seúl. Se cita a mk.co.kr."
-      },
-      "pt": {
-        "title": "Aluguéis de 3 milhões de wons disparam em Gangbuk, ao dobro do ritmo de Gangnam",
-        "excerpt": "Com a maior alta semanal do jeonse de apartamentos em Seul em cerca de 10 anos, aluguéis mensais acima de 3 milhões de wons em Gangbuk cresceram 53% no 1º trimestre e avançaram para Dongdaemun, Seongbuk e Eunpyeong.",
-        "body": "A taxa semanal de alta dos preços de jeonse de apartamentos em Seul atingiu o maior nível em mais de uma década, enquanto aluguéis mensais elevados avançam rapidamente em Gangbuk. Segundo o texto original, os aluguéis de 3 milhões de wons ou mais na região cresceram 53% no primeiro trimestre, cerca de duas vezes o ritmo observado em Gangnam. A expansão chegou a áreas como Dongdaemun, Seongbuk e Eunpyeong. Com a alta do jeonse afetando também o mercado de aluguel mensal, aumenta a pressão sobre os custos de moradia no norte de Seul. A informação cita mk.co.kr."
-      },
-      "de": {
-        "title": "Gangbuk-Mieten über 3 Millionen Won steigen doppelt so schnell wie in Gangnam",
-        "excerpt": "Während Seouls wöchentlicher Jeonse-Anstieg bei Wohnungen den höchsten Stand seit rund zehn Jahren erreichte, legten hohe Monatsmieten über 3 Millionen Won in Gangbuk im ersten Quartal um 53% zu.",
-        "body": "Der wöchentliche Anstieg der Jeonse-Preise für Wohnungen in Seoul hat den höchsten Stand seit mehr als zehn Jahren erreicht. Gleichzeitig nehmen hohe Monatsmieten in Gangbuk rasch zu. Laut Ausgangstext stiegen Mieten von 3 Millionen Won oder mehr im ersten Quartal um 53% und damit etwa doppelt so schnell wie in Gangnam. Die Entwicklung breitet sich auf Dongdaemun, Seongbuk und Eunpyeong aus. Da steigende Jeonse-Preise auch den Monatsmietmarkt beeinflussen, wächst der Wohnkostendruck im Norden Seouls. Der Bericht zitiert mk.co.kr."
-      },
-      "fr": {
-        "title": "À Gangbuk, les loyers de 3 millions de wons bondissent deux fois plus vite qu’à Gangnam",
-        "excerpt": "Alors que la hausse hebdomadaire du jeonse des appartements à Séoul atteint un sommet d’environ dix ans, les loyers mensuels élevés à Gangbuk ont augmenté de 53% au premier trimestre.",
-        "body": "La hausse hebdomadaire des prix du jeonse pour les appartements à Séoul a atteint son plus haut niveau depuis plus de dix ans, tandis que les loyers mensuels élevés progressent rapidement à Gangbuk. Selon le texte original, les loyers de 3 millions de wons ou plus y ont augmenté de 53% au premier trimestre, soit environ deux fois le rythme observé à Gangnam. Le phénomène s’étend à Dongdaemun, Seongbuk et Eunpyeong. La montée du jeonse affecte aussi le marché des loyers mensuels, renforçant la pression sur le coût du logement dans le nord de Séoul. Information citée de mk.co.kr."
-      },
-      "ar": {
-        "title": "إيجارات غانغبوك فوق 3 ملايين وون تقفز بوتيرة تعادل ضعفي غانغنام",
-        "excerpt": "مع تسجيل ارتفاع أسعار الجونسِه الأسبوعية للشقق في سيول أعلى مستوى منذ نحو 10 سنوات، زادت الإيجارات الشهرية المرتفعة في غانغبوك 53% في الربع الأول وامتدت إلى دونغديمون وسونغبوك وأونبيونغ.",
-        "body": "سجلت أسعار الجونسِه الأسبوعية للشقق في سيول أعلى وتيرة ارتفاع منذ أكثر من 10 سنوات، في وقت تتزايد فيه الإيجارات الشهرية المرتفعة بسرعة في غانغبوك. وبحسب النص الأصلي، ارتفعت الإيجارات الشهرية البالغة 3 ملايين وون أو أكثر في غانغبوك بنسبة 53% خلال الربع الأول، وهي وتيرة تقارب ضعفي غانغنام. وامتد هذا الاتجاه إلى مناطق مثل دونغديمون وسونغبوك وأونبيونغ. ومع تأثير ارتفاع الجونسِه في سوق الإيجار الشهري، تتزايد ضغوط تكلفة السكن في شمال سيول. يستند التقرير إلى mk.co.kr."
-      },
-      "hi": {
-        "title": "गांगबुक में 30 लाख वॉन किराए तेज, गांगनाम से दोगुनी रफ्तार",
-        "excerpt": "सियोल अपार्टमेंट जोंसे कीमतों की साप्ताहिक वृद्धि करीब 10 साल के उच्च स्तर पर पहुंची, जबकि गांगबुक में 30 लाख वॉन से ऊपर मासिक किराए पहली तिमाही में 53% बढ़े और डोंगडेमुन, सोंगबुक, उनप्योंग तक फैले।",
-        "body": "सियोल में अपार्टमेंट जोंसे कीमतों की साप्ताहिक वृद्धि 10 साल से अधिक समय के उच्चतम स्तर पर पहुंच गई है, और गांगबुक क्षेत्र में 30 लाख वॉन या उससे अधिक के मासिक किराए तेजी से बढ़ रहे हैं। मूल खबर के अनुसार, इस वर्ष पहली तिमाही में गांगबुक के उच्च मासिक किराए 53% बढ़े, जिसकी रफ्तार गांगनाम की तुलना में लगभग दोगुनी रही। यह प्रवृत्ति डोंगडेमुन, सोंगबुक और उनप्योंग जैसे क्षेत्रों तक फैल रही है। जोंसे कीमतों की बढ़ोतरी मासिक किराया बाजार को भी प्रभावित कर रही है, जिससे उत्तरी सियोल में आवास लागत का बोझ बढ़ रहा है। यह विवरण mk.co.kr के हवाले से है।"
-      },
-      "id": {
-        "title": "Sewa 3 Juta Won di Gangbuk Melonjak, Dua Kali Lebih Cepat dari Gangnam",
-        "excerpt": "Saat kenaikan mingguan harga jeonse apartemen Seoul mencapai level tertinggi sekitar 10 tahun, sewa bulanan tinggi di Gangbuk naik 53% pada kuartal I dan menyebar ke Dongdaemun, Seongbuk, serta Eunpyeong.",
-        "body": "Kenaikan mingguan harga jeonse apartemen di Seoul mencapai level tertinggi dalam lebih dari 10 tahun, sementara sewa bulanan tinggi di Gangbuk meningkat cepat. Menurut teks sumber, sewa bulanan 3 juta won atau lebih di Gangbuk naik 53% pada kuartal pertama, dengan laju sekitar dua kali Gangnam. Tren ini meluas ke Dongdaemun, Seongbuk, dan Eunpyeong. Kenaikan harga jeonse turut memengaruhi pasar sewa bulanan, sehingga tekanan biaya hunian di Seoul bagian utara meningkat. Laporan ini mengutip mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "83f14c5ca4e5",
-    "slug": "만나서-결제할게요수시로-배달-먹튀-하던-20대-신원-확인하니-맙소사-520606",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-07T17:13:41.509Z",
-    "updatedAt": "2026-05-07T17:13:41.509Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12039933",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12039933",
-    "titleFingerprint": "a0d24b0a47af70763305da807946a460cddf7ecd",
-    "dedupKeys": [
-      "83f14c5ca4e5a3c23ca5aadb97311da1fbc58a63",
-      "a0d24b0a47af70763305da807946a460cddf7ecd",
-      "8f4664f5713f5a706a8cda61bb917cd6208919bf"
-    ],
-    "imageUrl": "/images/articles/83f14c5ca4e5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "화성 병점구 배달 먹튀 20대 검거, 신원 확인하니 벌금 수배자였다",
-        "excerpt": "경기 화성시 병점구에서 벌금을 내지 않아 수배 중이던 20대 A씨가 ‘만나서 결제하겠다’며 배달 음식을 먹고 결제하지 않은 혐의로 경찰 조사를 받고 있다.",
-        "body": "경기 화성시 병점구에서 벌금 미납으로 수배가 내려졌던 20대 A씨가 배달 음식을 주문한 뒤 결제하지 않는 이른바 ‘배달 먹튀’를 하다 경찰에 붙잡혔다. 화성동탄경찰서는 7일 A씨를 사기 등 혐의로 조사하고 있다고 밝혔다. A씨는 ‘만나서 결제하겠다’는 방식으로 배달 음식을 받은 뒤 대금을 치르지 않은 혐의를 받고 있다. 경찰은 A씨의 신원을 확인하는 과정에서 벌금을 내지 않아 수배 중인 사실도 확인했다. 이번 사건은 비대면·현장 결제 배달 거래에서 신원 확인과 결제 관리의 중요성을 다시 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hwaseong Delivery Dine-and-Dash Suspect Was Already Wanted Over Unpaid Fine",
-        "excerpt": "A man in his 20s in Byeongjeom-gu, Hwaseong, Gyeonggi Province, is under police investigation after allegedly taking delivered food without paying while already wanted for an unpaid fine.",
-        "body": "A man in his 20s who was wanted for failing to pay a fine was caught in Byeongjeom-gu, Hwaseong, Gyeonggi Province, while allegedly committing a delivery dine-and-dash. Hwaseong Dongtan Police said on the 7th that they are investigating the man, identified only as A, on fraud-related allegations. A is accused of receiving delivered food after saying he would pay in person, then not paying for it. During the identity check, police also confirmed that he had been wanted because he had not paid a fine. The case highlights the importance of identity checks and payment management in delivery transactions involving in-person payment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "華城・餅店区の配達無銭飲食、20代を摘発　身元確認で罰金未納の手配者と判明",
-        "excerpt": "京畿道華城市餅店区で、罰金を納めず手配されていた20代のA氏が、配達料理を受け取って代金を払わなかった疑いで警察の調べを受けている。",
-        "body": "京畿道華城市餅店区で、罰金未納により手配されていた20代のA氏が、配達料理を注文した後に代金を支払わない、いわゆる配達の無銭飲食をしていたところ警察に摘発された。華城東灘警察署は7日、A氏を詐欺などの疑いで調べていると明らかにした。A氏は「会って支払う」として配達料理を受け取った後、代金を払わなかった疑いが持たれている。警察は身元確認の過程で、A氏が罰金を納めず手配中だった事実も確認した。今回の事件は、対面決済を伴う配達取引で身元確認と決済管理が重要であることを改めて示した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "华城饼店区外卖逃单20多岁男子落网，核查身份发现其因未缴罚金被通缉",
-        "excerpt": "韩国京畿道华城市饼店区一名20多岁A某涉嫌以“见面付款”为由收取外卖后不付款，警方核查发现其还因未缴罚金被通缉。",
-        "body": "韩国京畿道华城市饼店区一名因未缴罚金而被通缉的20多岁男子A某，在涉嫌点外卖后不付款的“外卖逃单”过程中被警方抓获。华城东滩警察署7日表示，正在以诈骗等嫌疑调查A某。A某涉嫌以“见面后付款”的方式收取外卖食品后，没有支付相应费用。警方在确认其身份的过程中，还发现他因未缴纳罚金而处于被通缉状态。此案再次显示，在涉及现场付款的外卖交易中，身份确认和付款管理具有重要性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Detenido en Hwaseong por no pagar comida a domicilio; ya era buscado por una multa impaga",
-        "excerpt": "Un hombre de unos 20 años en Byeongjeom-gu, Hwaseong, está bajo investigación por presuntamente recibir comida a domicilio sin pagar mientras era buscado por no abonar una multa.",
-        "body": "Un hombre de unos 20 años que estaba buscado por no pagar una multa fue detenido en Byeongjeom-gu, Hwaseong, provincia de Gyeonggi, mientras presuntamente cometía un impago de comida a domicilio. La Policía de Hwaseong Dongtan informó el día 7 que investiga al hombre, identificado como A, por cargos como fraude. A está acusado de recibir comida tras decir que pagaría al encontrarse con el repartidor y luego no abonar el importe. Durante la verificación de identidad, la policía también confirmó que tenía una orden de búsqueda por la multa impaga. El caso subraya la importancia de verificar identidades y gestionar pagos en entregas con pago presencial. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Suspeito de golpe em delivery em Hwaseong já era procurado por multa não paga",
-        "excerpt": "Um homem na casa dos 20 anos em Byeongjeom-gu, Hwaseong, é investigado por receber comida por delivery sem pagar enquanto já era procurado por não quitar uma multa.",
-        "body": "Um homem na casa dos 20 anos, procurado por não pagar uma multa, foi detido em Byeongjeom-gu, Hwaseong, na província de Gyeonggi, enquanto supostamente aplicava um golpe em pedido de delivery. A Polícia de Hwaseong Dongtan informou no dia 7 que investiga o homem, identificado apenas como A, por suspeitas incluindo fraude. A é acusado de receber comida entregue após dizer que pagaria pessoalmente e, em seguida, não quitar o valor. Durante a checagem de identidade, a polícia também confirmou que ele era procurado por causa da multa não paga. O caso mostra novamente a importância da verificação de identidade e do controle de pagamento em entregas com pagamento presencial. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lieferessen nicht bezahlt: Mann in Hwaseong war bereits wegen unbezahlter Geldstrafe gesucht",
-        "excerpt": "Ein Mann in den Zwanzigern aus Byeongjeom-gu in Hwaseong wird untersucht, weil er Lieferessen erhalten und nicht bezahlt haben soll; er war bereits wegen einer unbezahlten Geldstrafe gesucht.",
-        "body": "Ein Mann in den Zwanzigern, der wegen einer nicht bezahlten Geldstrafe gesucht wurde, ist in Byeongjeom-gu in Hwaseong, Provinz Gyeonggi, nach einem mutmasslichen Betrug bei einer Essenslieferung gefasst worden. Die Polizei Hwaseong Dongtan teilte am 7. mit, dass sie den nur als A bezeichneten Mann wegen Verdachts auf Betrug und weiterer Vorwürfe untersucht. A soll Lieferessen erhalten haben, nachdem er angekündigt hatte, persönlich zu bezahlen, und den Betrag anschliessend nicht beglichen haben. Bei der Identitätsprüfung stellte die Polizei zudem fest, dass er wegen der unbezahlten Geldstrafe gesucht wurde. Der Fall zeigt die Bedeutung von Identitätsprüfung und Zahlungsmanagement bei Lieferungen mit Bar- oder Vor-Ort-Zahlung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "À Hwaseong, un suspect de repas livré non payé était déjà recherché pour une amende impayée",
-        "excerpt": "Un homme d’une vingtaine d’années à Byeongjeom-gu, Hwaseong, est visé par une enquête pour avoir reçu des repas livrés sans payer alors qu’il était déjà recherché pour une amende impayée.",
-        "body": "Un homme d’une vingtaine d’années, recherché pour ne pas avoir payé une amende, a été interpellé à Byeongjeom-gu, Hwaseong, dans la province de Gyeonggi, alors qu’il aurait commis un impayé de livraison alimentaire. La police de Hwaseong Dongtan a indiqué le 7 qu’elle enquêtait sur l’homme, identifié seulement comme A, pour des soupçons notamment de fraude. A est accusé d’avoir reçu des repas livrés après avoir dit qu’il paierait en personne, puis de ne pas avoir réglé la somme due. Lors du contrôle d’identité, la police a aussi confirmé qu’il était recherché en raison de l’amende non payée. L’affaire rappelle l’importance des contrôles d’identité et de la gestion des paiements dans les livraisons avec paiement sur place. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مشتبه به في عدم دفع ثمن طلبات توصيل بهواسونغ كان مطلوبا بسبب غرامة غير مسددة",
-        "excerpt": "تحقق شرطة هواسونغ دونغتان مع شاب في العشرينات من بيونغجيوم غو للاشتباه في تسلمه طعاما عبر التوصيل دون دفع ثمنه، بينما كان مطلوبا بسبب عدم سداد غرامة.",
-        "body": "ألقت الشرطة في بيونغجيوم غو بمدينة هواسونغ في مقاطعة غيونغي القبض على شاب في العشرينات كان مطلوبا لعدم دفع غرامة، وذلك أثناء الاشتباه في تنفيذه ما يعرف بعدم دفع ثمن طلب توصيل. وقالت شرطة هواسونغ دونغتان في اليوم السابع إنها تحقق مع الشخص، المشار إليه باسم A، بتهم تشمل الاحتيال. ويشتبه في أن A تسلم طعاما عبر التوصيل بعد أن قال إنه سيدفع عند اللقاء، ثم لم يسدد المبلغ. وخلال التحقق من هويته، أكدت الشرطة أيضا أنه كان مطلوبا بسبب عدم دفع الغرامة. وتبرز القضية أهمية التحقق من الهوية وإدارة الدفع في معاملات التوصيل التي تعتمد على الدفع عند الاستلام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ह्वासोंग में डिलीवरी खाना लेकर भुगतान न करने वाला युवक अवैतनिक जुर्माने में वांछित निकला",
-        "excerpt": "ग्योंगगी प्रांत के ह्वासोंग शहर के ब्योंगजेम-गु में 20 के दशक का A नामक युवक डिलीवरी खाना लेकर भुगतान न करने के आरोप में जांच के दायरे में है; वह जुर्माना न भरने पर पहले से वांछित था।",
-        "body": "ग्योंगगी प्रांत के ह्वासोंग शहर के ब्योंगजेम-गु में जुर्माना न भरने के कारण वांछित 20 के दशक का A नामक युवक कथित तौर पर डिलीवरी खाना लेकर भुगतान न करने के मामले में पकड़ा गया। ह्वासोंग डोंगतान पुलिस ने 7 तारीख को बताया कि वह A से धोखाधड़ी आदि के आरोपों में पूछताछ कर रही है। A पर आरोप है कि उसने ‘मिलकर भुगतान करूंगा’ कहकर डिलीवरी खाना प्राप्त किया और बाद में उसका पैसा नहीं चुकाया। पहचान सत्यापन के दौरान पुलिस ने यह भी पुष्टि की कि वह जुर्माना न भरने के कारण वांछित था। यह मामला आमने-सामने भुगतान वाली डिलीवरी लेनदेन में पहचान जांच और भुगतान प्रबंधन के महत्व को फिर दिखाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pelaku Pesanan Makanan Tanpa Bayar di Hwaseong Ternyata Buron Denda Belum Dibayar",
-        "excerpt": "Seorang pria usia 20-an di Byeongjeom-gu, Hwaseong, sedang diselidiki karena diduga menerima makanan pesan antar tanpa membayar saat sudah masuk daftar pencarian akibat denda yang belum dibayar.",
-        "body": "Seorang pria usia 20-an yang masuk daftar pencarian karena tidak membayar denda ditangkap di Byeongjeom-gu, Hwaseong, Provinsi Gyeonggi, saat diduga melakukan aksi menerima pesanan makanan tanpa membayar. Kepolisian Hwaseong Dongtan pada tanggal 7 menyatakan sedang menyelidiki pria yang disebut A itu atas dugaan termasuk penipuan. A diduga menerima makanan pesan antar setelah mengatakan akan membayar saat bertemu, lalu tidak melunasi biayanya. Dalam proses pemeriksaan identitas, polisi juga memastikan bahwa ia telah dicari karena tidak membayar denda. Kasus ini kembali menunjukkan pentingnya verifikasi identitas dan pengelolaan pembayaran dalam transaksi pesan antar dengan pembayaran langsung. Sumber: mk.co.kr"
       }
     }
   }
