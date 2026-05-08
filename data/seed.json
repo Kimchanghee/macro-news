@@ -1,5 +1,230 @@
 [
   {
+    "id": "008c0f6113e8",
+    "slug": "美-법원-글로벌-10-관세-위법-433155",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T22:32:26.235Z",
+    "updatedAt": "2026-05-08T22:32:26.235Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848171",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848171",
+    "titleFingerprint": "b16e77046b75f95622e40e4c68894e707c4689c8",
+    "dedupKeys": [
+      "008c0f6113e868f6c564e3c986b7263ea98c7d6d",
+      "b16e77046b75f95622e40e4c68894e707c4689c8",
+      "53b498aa58b8c822b01c55b51e7f1e4c5d59c0a4"
+    ],
+    "imageUrl": "/images/articles/008c0f6113e8.png",
+    "i18n": {
+      "ko": {
+        "title": "미 법원, 글로벌 10% 관세 위법 판단…통상정책 불확실성 확대",
+        "excerpt": "미국 법원이 글로벌 10% 관세에 대해 위법 판단을 내렸다고 한국경제가 보도했다. 판결은 관세 정책의 법적 근거와 향후 통상 대응에 관심을 모은다.",
+        "body": "미국 법원이 글로벌 10% 관세에 대해 위법하다는 판단을 내렸다고 한국경제가 전했다. 누가 어떤 절차에서 판결했는지, 관세가 적용된 구체적 대상과 시점은 제공된 원문 정보에 포함되지 않았다. 이번 판단의 핵심은 미국의 글로벌 10% 관세가 법적으로 문제 있다는 법원 판단이 나왔다는 점이다. 관세는 수입품 가격과 기업 비용, 국가 간 통상 관계에 직접 영향을 줄 수 있는 정책 수단인 만큼, 법원의 위법 판단은 향후 관세 집행과 관련 정책 논의에 변수로 작용할 수 있다. 다만 후속 조치나 항소 여부, 실제 관세 적용 변화는 원문 정보만으로 확인되지 않는다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "US court rules global 10% tariff illegal, raising trade policy uncertainty",
+        "excerpt": "A US court ruled that a global 10% tariff was illegal, according to Hankyung. The ruling draws attention to the legal basis of tariff policy and future trade responses.",
+        "body": "A US court ruled that a global 10% tariff was illegal, Hankyung reported. The provided source information does not specify which court issued the ruling, the exact procedure, the affected goods, or the timing of application. The central fact is that a US court found legal problems with the global 10% tariff. Because tariffs can directly affect import prices, corporate costs, and trade relations between countries, the ruling may become a variable in future discussions over tariff enforcement and related policy. However, follow-up measures, any appeal, and actual changes to tariff application cannot be confirmed from the provided source information alone. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "米裁判所、世界一律10％関税は違法と判断…通商政策に不確実性",
+        "excerpt": "米裁判所が世界一律10％関税について違法との判断を示したと韓国経済が報じた。関税政策の法的根拠と今後の通商対応に注目が集まる。",
+        "body": "米国の裁判所が世界一律10％関税について違法との判断を示したと、韓国経済が伝えた。どの裁判所がどの手続きで判断したのか、関税の具体的な対象や適用時期は、提供された原文情報には含まれていない。今回の核心は、米国の世界一律10％関税に法的問題があるとの裁判所判断が出た点にある。関税は輸入品価格、企業コスト、国家間の通商関係に直接影響し得る政策手段であるため、この違法判断は今後の関税執行や関連政策議論の変数となり得る。ただし、後続措置や控訴の有無、実際の関税適用の変化は原文情報だけでは確認できない。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "美国法院裁定全球10%关税违法，贸易政策不确定性上升",
+        "excerpt": "据韩国经济报道，美国法院裁定全球10%关税违法。该裁定使关税政策的法律依据以及后续贸易应对受到关注。",
+        "body": "据韩国经济报道，美国法院裁定全球10%关税违法。所提供的原文信息并未说明是哪一家法院、通过何种程序作出裁定，也未列明关税适用的具体对象和时间。此次消息的核心在于，美国法院认为全球10%关税存在法律问题。关税是可能直接影响进口商品价格、企业成本以及国家间贸易关系的政策工具，因此这一违法裁定可能成为今后关税执行和相关政策讨论中的变量。不过，后续措施、是否上诉以及实际关税适用是否发生变化，仅凭所提供的原文信息尚无法确认。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Tribunal de EE. UU. declara ilegal arancel global del 10% y eleva incertidumbre",
+        "excerpt": "Un tribunal de EE. UU. declaró ilegal un arancel global del 10%, según Hankyung. El fallo centra la atención en la base legal de la política arancelaria y sus próximos pasos.",
+        "body": "Un tribunal de Estados Unidos declaró ilegal un arancel global del 10%, informó Hankyung. La información original proporcionada no precisa qué tribunal emitió el fallo, bajo qué procedimiento, qué bienes estaban afectados ni el momento exacto de aplicación. El hecho central es que un tribunal estadounidense consideró que el arancel global del 10% tenía problemas legales. Como los aranceles pueden influir directamente en los precios de importación, los costes empresariales y las relaciones comerciales entre países, esta decisión puede convertirse en un factor para la futura aplicación de aranceles y el debate de políticas relacionadas. Sin embargo, las medidas posteriores, una posible apelación y cambios reales en la aplicación no pueden confirmarse solo con la información disponible. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Tribunal dos EUA considera tarifa global de 10% ilegal e amplia incerteza",
+        "excerpt": "Um tribunal dos EUA considerou ilegal uma tarifa global de 10%, segundo o Hankyung. A decisão chama atenção para a base legal da política tarifária e os próximos passos comerciais.",
+        "body": "Um tribunal dos Estados Unidos considerou ilegal uma tarifa global de 10%, informou o Hankyung. As informações originais fornecidas não especificam qual tribunal tomou a decisão, em que procedimento, quais produtos foram afetados nem o momento de aplicação. O ponto central é que uma corte americana identificou problema legal na tarifa global de 10%. Como tarifas podem afetar diretamente preços de importação, custos das empresas e relações comerciais entre países, a decisão pode se tornar um fator nas discussões futuras sobre aplicação tarifária e políticas relacionadas. No entanto, medidas posteriores, eventual recurso e mudanças reais na aplicação da tarifa não podem ser confirmados apenas com as informações fornecidas. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "US-Gericht erklärt globalen 10-Prozent-Zoll für rechtswidrig",
+        "excerpt": "Ein US-Gericht hat einen globalen Zoll von 10 Prozent für rechtswidrig erklärt, berichtet Hankyung. Das Urteil lenkt den Blick auf die Rechtsgrundlage der Zollpolitik.",
+        "body": "Ein Gericht in den USA hat einen globalen Zoll von 10 Prozent für rechtswidrig erklärt, berichtete Hankyung. Aus den bereitgestellten Originalinformationen geht nicht hervor, welches Gericht in welchem Verfahren entschieden hat, welche Waren betroffen waren oder wann der Zoll angewendet wurde. Der Kern der Meldung ist, dass ein US-Gericht rechtliche Probleme bei dem globalen 10-Prozent-Zoll festgestellt hat. Da Zölle Importpreise, Unternehmenskosten und Handelsbeziehungen zwischen Staaten direkt beeinflussen können, kann das Urteil zu einem Faktor für künftige Debatten über Zollvollzug und Handelspolitik werden. Folgemaßnahmen, eine mögliche Berufung oder tatsächliche Änderungen bei der Anwendung des Zolls lassen sich anhand der vorliegenden Informationen jedoch nicht bestätigen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Un tribunal américain juge illégal le tarif mondial de 10 %, incertitude accrue",
+        "excerpt": "Un tribunal américain a jugé illégal un tarif mondial de 10 %, selon Hankyung. La décision met l’accent sur la base juridique de la politique tarifaire et ses suites.",
+        "body": "Un tribunal des États-Unis a jugé illégal un tarif mondial de 10 %, a rapporté Hankyung. Les informations originales fournies ne précisent pas quel tribunal a rendu la décision, dans quelle procédure, quels produits étaient concernés ni la période d’application. Le fait central est qu’un tribunal américain a estimé que le tarif mondial de 10 % posait un problème juridique. Les droits de douane pouvant affecter directement les prix des importations, les coûts des entreprises et les relations commerciales entre pays, cette décision peut devenir un facteur dans les futures discussions sur l’application des tarifs et les politiques connexes. Toutefois, les mesures de suivi, un éventuel appel et les changements réels d’application ne peuvent pas être confirmés à partir des seules informations fournies. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "محكمة أمريكية تعتبر الرسوم العالمية 10% غير قانونية وتزيد غموض التجارة",
+        "excerpt": "قضت محكمة أمريكية بأن الرسوم العالمية البالغة 10% غير قانونية، بحسب هانكيونغ. يسلط الحكم الضوء على الأساس القانوني لسياسة الرسوم والخطوات التجارية المقبلة.",
+        "body": "أفادت هانكيونغ بأن محكمة في الولايات المتحدة قضت بأن الرسوم العالمية البالغة 10% غير قانونية. ولا توضح المعلومات الأصلية المتاحة أي محكمة أصدرت الحكم، أو الإجراء الذي صدر من خلاله، أو السلع المشمولة، أو توقيت التطبيق. الحقيقة الأساسية هي أن محكمة أمريكية رأت وجود مشكلة قانونية في الرسوم العالمية البالغة 10%. وبما أن الرسوم الجمركية قد تؤثر مباشرة في أسعار الواردات وتكاليف الشركات والعلاقات التجارية بين الدول، فقد يصبح هذا الحكم عاملا في النقاشات المقبلة حول تنفيذ الرسوم والسياسات المرتبطة بها. لكن الإجراءات اللاحقة، أو احتمال الاستئناف، أو أي تغيير فعلي في التطبيق لا يمكن تأكيدها من المعلومات المقدمة وحدها. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "अमेरिकी अदालत ने वैश्विक 10% टैरिफ को अवैध माना, व्यापार नीति पर अनिश्चितता",
+        "excerpt": "हैंक्युंग के अनुसार, एक अमेरिकी अदालत ने वैश्विक 10% टैरिफ को अवैध करार दिया। फैसला टैरिफ नीति के कानूनी आधार और आगे की व्यापारिक प्रतिक्रिया पर ध्यान खींचता है।",
+        "body": "हैंक्युंग ने बताया कि अमेरिका की एक अदालत ने वैश्विक 10% टैरिफ को अवैध माना। उपलब्ध मूल जानकारी में यह नहीं बताया गया है कि किस अदालत ने किस प्रक्रिया में फैसला दिया, टैरिफ किन वस्तुओं पर लागू था या इसके लागू होने का समय क्या था। मुख्य तथ्य यह है कि अमेरिकी अदालत ने वैश्विक 10% टैरिफ में कानूनी समस्या देखी। टैरिफ आयात कीमतों, कंपनियों की लागत और देशों के बीच व्यापारिक संबंधों को सीधे प्रभावित कर सकते हैं, इसलिए यह फैसला आगे टैरिफ लागू करने और संबंधित नीति चर्चा में एक कारक बन सकता है। हालांकि, आगे की कार्रवाई, अपील की संभावना या वास्तविक टैरिफ लागू करने में बदलाव उपलब्ध जानकारी से पुष्टि नहीं किए जा सकते। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Pengadilan AS nyatakan tarif global 10% ilegal, ketidakpastian dagang meningkat",
+        "excerpt": "Pengadilan AS menyatakan tarif global 10% ilegal, menurut Hankyung. Putusan ini menyoroti dasar hukum kebijakan tarif dan arah respons perdagangan berikutnya.",
+        "body": "Pengadilan di Amerika Serikat menyatakan tarif global 10% ilegal, lapor Hankyung. Informasi sumber yang diberikan tidak merinci pengadilan mana yang mengeluarkan putusan, melalui prosedur apa, barang apa yang terdampak, atau kapan tarif tersebut diterapkan. Fakta utamanya adalah bahwa pengadilan AS menilai tarif global 10% memiliki masalah hukum. Karena tarif dapat langsung memengaruhi harga impor, biaya perusahaan, dan hubungan dagang antarnegara, putusan ini dapat menjadi faktor dalam pembahasan lanjutan mengenai pelaksanaan tarif dan kebijakan terkait. Namun, langkah berikutnya, kemungkinan banding, atau perubahan nyata dalam penerapan tarif belum dapat dikonfirmasi hanya dari informasi yang tersedia. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "8714f21329f1",
+    "slug": "농번기-인력난에-외국인-근로자-104만명-배정-324579",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T22:31:26.342Z",
+    "updatedAt": "2026-05-08T22:31:26.342Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848381",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848381",
+    "titleFingerprint": "42ceb192ea0982e2ed3b7720f85fee3b635119b2",
+    "dedupKeys": [
+      "8714f21329f1ecef89cf41c81e167571ea287d39",
+      "42ceb192ea0982e2ed3b7720f85fee3b635119b2",
+      "07002342000841d15b1a2292e47e354d690655cc"
+    ],
+    "imageUrl": "/images/articles/8714f21329f1.png",
+    "i18n": {
+      "ko": {
+        "title": "농번기 인력난 대응, 외국인 근로자 10.4만명 배정 확정",
+        "excerpt": "농번기 인력난이 커지는 가운데 농업 현장 인력 수급을 위해 외국인 근로자 10.4만명이 배정됐다고 hankyung.com이 전했다.",
+        "body": "농번기 인력난에 대응하기 위해 외국인 근로자 10.4만명이 배정됐다. 이번 배정은 농업 현장에서 계절적으로 커지는 노동 수요와 인력 부족 문제를 완화하기 위한 조치로 전해졌다. 관련 수치로 제시된 규모는 10.4만명이며, 원문은 농번기 인력난과 외국인 근로자 배정을 핵심 내용으로 다뤘다. 배정 인력이 실제 현장에 투입되면 농번기 작업 지연 부담을 줄이는 데 초점이 맞춰질 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "104,000 Foreign Workers Allocated to Ease Farm Labor Shortage",
+        "excerpt": "Amid seasonal farm labor shortages, 104,000 foreign workers have been allocated to support agricultural workforce needs, according to hankyung.com.",
+        "body": "A total of 104,000 foreign workers has been allocated in response to labor shortages during the busy farming season. The allocation is aimed at easing workforce constraints in agricultural fields where labor demand rises seasonally. The key figure cited in the original report is 104,000 workers, with the focus placed on farm labor shortages and the assignment of foreign workers. If deployed to worksites, the allocated labor is expected to help reduce pressure from delayed seasonal farm work. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "農繁期の人手不足に対応、外国人労働者10.4万人を割り当て",
+        "excerpt": "農繁期の人手不足が深まるなか、農業現場の労働力確保に向け外国人労働者10.4万人が割り当てられたとhankyung.comが伝えた。",
+        "body": "農繁期の人手不足に対応するため、外国人労働者10.4万人が割り当てられた。今回の割り当ては、季節的に労働需要が高まる農業現場での人員不足を和らげるための措置と伝えられている。原文で示された主な数値は10.4万人で、農繁期の人手不足と外国人労働者の割り当てが中心内容となっている。割り当てられた人材が現場に入れば、農繁期作業の遅れによる負担軽減に焦点が当たる見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "农忙季用工短缺加剧，10.4万名外籍劳动者获分配",
+        "excerpt": "在农忙季劳动力短缺压力上升之际，为支持农业现场用工需求，10.4万名外籍劳动者已获分配，hankyung.com报道。",
+        "body": "为应对农忙季用工短缺，10.4万名外籍劳动者已获分配。此次分配旨在缓解农业现场因季节性劳动需求增加而出现的人力不足问题。原文提到的核心数字为10.4万人，报道重点是农忙季人手短缺以及外籍劳动者分配。若相关人员投入现场，预计将着眼于减轻农忙季作业延误带来的压力。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Asignan 104.000 trabajadores extranjeros por falta de mano de obra agrícola",
+        "excerpt": "Ante la escasez de personal en la temporada agrícola alta, se asignaron 104.000 trabajadores extranjeros para apoyar la demanda laboral del campo, según hankyung.com.",
+        "body": "Se asignaron 104.000 trabajadores extranjeros para responder a la falta de mano de obra durante la temporada agrícola de mayor actividad. La medida busca aliviar las limitaciones de personal en los campos, donde la demanda laboral aumenta de forma estacional. La cifra clave citada por el informe original es de 104.000 personas, con foco en la escasez de trabajadores agrícolas y la asignación de mano de obra extranjera. Si se incorporan a los sitios de trabajo, el objetivo será reducir la presión por posibles retrasos en las tareas del periodo agrícola. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "104 mil trabalhadores estrangeiros são alocados para suprir falta no campo",
+        "excerpt": "Com a escassez de mão de obra na alta temporada agrícola, 104 mil trabalhadores estrangeiros foram alocados para apoiar a demanda no campo, segundo hankyung.com.",
+        "body": "Um total de 104 mil trabalhadores estrangeiros foi alocado em resposta à falta de mão de obra durante a temporada agrícola de maior atividade. A medida busca aliviar as restrições de pessoal nas áreas agrícolas, onde a demanda por trabalho cresce sazonalmente. O principal número citado no relatório original é 104 mil trabalhadores, com foco na escassez de mão de obra no campo e na alocação de estrangeiros. Caso sejam enviados aos locais de trabalho, a expectativa é reduzir a pressão causada por atrasos nas atividades agrícolas sazonais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "104.000 ausländische Arbeitskräfte gegen Engpässe in der Landwirtschaft zugeteilt",
+        "excerpt": "Wegen Arbeitskräftemangels in der Hauptsaison der Landwirtschaft wurden 104.000 ausländische Beschäftigte zur Unterstützung der Betriebe zugeteilt, berichtet hankyung.com.",
+        "body": "Zur Reaktion auf den Arbeitskräftemangel während der arbeitsintensiven Landwirtschaftssaison wurden 104.000 ausländische Arbeitskräfte zugeteilt. Die Zuteilung soll Personalengpässe auf landwirtschaftlichen Flächen lindern, wo die Nachfrage nach Arbeitskräften saisonal steigt. Die zentrale Zahl des Originalberichts liegt bei 104.000 Personen; im Fokus stehen der Mangel an landwirtschaftlichen Arbeitskräften und die Zuweisung ausländischer Beschäftigter. Wenn sie vor Ort eingesetzt werden, dürfte die Maßnahme darauf abzielen, Belastungen durch verzögerte Saisonarbeiten zu verringern. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "104 000 travailleurs étrangers affectés face au manque de main-d’œuvre agricole",
+        "excerpt": "Face aux pénuries de main-d’œuvre pendant la haute saison agricole, 104 000 travailleurs étrangers ont été affectés pour soutenir les besoins des exploitations, selon hankyung.com.",
+        "body": "Un total de 104 000 travailleurs étrangers a été affecté pour répondre aux pénuries de main-d’œuvre durant la période agricole la plus chargée. Cette affectation vise à alléger les contraintes de personnel dans les exploitations, où la demande de travail augmente de façon saisonnière. Le chiffre clé mentionné dans le rapport original est de 104 000 personnes, avec un accent sur le manque de main-d’œuvre agricole et l’affectation de travailleurs étrangers. Une fois déployés sur le terrain, ils devraient contribuer à réduire la pression liée aux retards possibles des travaux saisonniers. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تخصيص 104 آلاف عامل أجنبي لمواجهة نقص العمالة في موسم الزراعة",
+        "excerpt": "وسط نقص العمالة في موسم الذروة الزراعي، جرى تخصيص 104 آلاف عامل أجنبي لدعم احتياجات القوى العاملة في الحقول، بحسب hankyung.com.",
+        "body": "جرى تخصيص 104 آلاف عامل أجنبي استجابة لنقص العمالة خلال موسم الزراعة المزدحم. ويهدف هذا التخصيص إلى تخفيف قيود القوى العاملة في المواقع الزراعية، حيث يرتفع الطلب على العمل بشكل موسمي. الرقم الرئيسي الوارد في التقرير الأصلي هو 104 آلاف عامل، مع تركيز على نقص العمالة في موسم الزراعة وتخصيص العمال الأجانب. وإذا دخلت هذه العمالة إلى مواقع العمل، فمن المتوقع أن يتركز الأثر على تقليل الضغط الناتج عن تأخر الأعمال الزراعية الموسمية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "खेती के व्यस्त मौसम में कमी दूर करने को 1.04 लाख विदेशी श्रमिक आवंटित",
+        "excerpt": "खेती के व्यस्त मौसम में श्रमिकों की कमी के बीच कृषि कार्यबल की जरूरतों को सहारा देने के लिए 1.04 लाख विदेशी श्रमिक आवंटित किए गए, hankyung.com के अनुसार।",
+        "body": "खेती के व्यस्त मौसम में श्रमिकों की कमी से निपटने के लिए 1.04 लाख विदेशी श्रमिक आवंटित किए गए हैं। यह आवंटन कृषि क्षेत्रों में मौसमी रूप से बढ़ने वाली श्रम मांग और जनशक्ति की कमी को कम करने के लिए बताया गया है। मूल रिपोर्ट में प्रमुख संख्या 1.04 लाख श्रमिकों की है, और केंद्र में खेती के मौसम की श्रमिक कमी तथा विदेशी श्रमिकों का आवंटन है। यदि ये श्रमिक कार्यस्थलों पर तैनात होते हैं, तो मौसमी कृषि कार्यों में देरी का दबाव घटाने पर ध्यान रहेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "104 Ribu Pekerja Asing Dialokasikan untuk Atasi Kekurangan Tenaga Tani",
+        "excerpt": "Di tengah kekurangan tenaga kerja pada musim sibuk pertanian, 104 ribu pekerja asing dialokasikan untuk mendukung kebutuhan tenaga di sektor pertanian, menurut hankyung.com.",
+        "body": "Sebanyak 104 ribu pekerja asing dialokasikan untuk merespons kekurangan tenaga kerja selama musim sibuk pertanian. Alokasi ini ditujukan untuk meredakan keterbatasan tenaga di lahan pertanian, ketika kebutuhan pekerja meningkat secara musiman. Angka utama dalam laporan asli adalah 104 ribu orang, dengan fokus pada kekurangan tenaga kerja pertanian dan alokasi pekerja asing. Jika masuk ke lokasi kerja, tenaga yang dialokasikan diharapkan membantu mengurangi tekanan akibat tertundanya pekerjaan pertanian musiman. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "a93df54edf2b",
+    "slug": "드디어-공개된-ufo-파일美-미확인-사진문서-대방출-847509",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-08T22:30:38.627Z",
+    "updatedAt": "2026-05-08T22:30:38.627Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042209",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042209",
+    "titleFingerprint": "fb71034290404f36e95681166fb3657cff2fae04",
+    "dedupKeys": [
+      "a93df54edf2b7b5478ba20ef780ffe79309cbb89",
+      "fb71034290404f36e95681166fb3657cff2fae04",
+      "1ff754cbdfd8d4f5d837720c38e128e76a1dab62"
+    ],
+    "imageUrl": "/images/articles/a93df54edf2b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "UFO 파일 공개한 미국 정부, 미확인 사진·문서 대거 풀었다",
+        "excerpt": "미국 정부가 수십 년간 축적한 UFO 관련 미확인 사진과 문서를 대거 공개했다. 다만 이번 공개가 UFO 존재를 공식 확인한 것은 아니라고 밝혔다.",
+        "body": "미국 정부가 수십 년 동안 축적해온 이른바 ‘미확인 비행물체(UFO) 파일’을 대거 공개했다. 공개 대상에는 그동안 확인되지 않았던 사진과 문서가 포함됐다. 이번 조치는 UFO 관련 기록을 공개해온 흐름의 연장선으로, 정부가 보유한 자료를 더 넓게 열어보인 사례다. 다만 공개된 자료가 UFO의 존재를 공식적으로 확인한다는 뜻은 아니다. 원문에 따르면 존재 여부를 최종적으로 판단할 수 없는 내용도 포함돼 있으며, 공개 자료는 미확인 상태의 기록으로 봐야 한다. 앞으로도 관련 자료 해석과 검증을 둘러싼 관심은 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "U.S. Opens UFO Files, Releasing Unidentified Photos and Documents",
+        "excerpt": "The U.S. government has released a large collection of UFO-related unidentified photos and documents built up over decades, while stressing this is not official confirmation of UFOs.",
+        "body": "The U.S. government has released a large batch of so-called unidentified flying object, or UFO, files accumulated over several decades. The disclosure includes photos and documents that had remained unidentified. The move extends a broader pattern of opening UFO-related records and makes more government-held material available to the public. However, the release does not mean the government has officially confirmed the existence of UFOs. According to the original report, some of the material still cannot be used to reach a final judgment on whether UFOs exist, and the files should be understood as unidentified records. Interest in interpretation and verification is expected to continue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米政府がUFOファイル公開、未確認写真と文書を大量開示",
+        "excerpt": "米政府は数十年にわたり蓄積してきたUFO関連の未確認写真や文書を大量に公開した。ただしUFOの存在を公式確認したものではない。",
+        "body": "米国政府は、数十年にわたって蓄積してきたいわゆる「未確認飛行物体（UFO）ファイル」を大量に公開した。公開対象には、これまで確認されていなかった写真や文書が含まれている。今回の措置は、UFO関連記録を公開してきた流れの延長であり、政府が保有する資料をより広く示した事例といえる。ただし、公開資料がUFOの存在を公式に確認するものではない。原文によると、存在の有無を最終的に判断できない内容も含まれており、資料は未確認状態の記録として見る必要がある。今後も解釈や検証をめぐる関心は続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国公开UFO档案，大量未确认照片和文件首次披露",
+        "excerpt": "美国政府公开了数十年来积累的大批UFO相关未确认照片和文件，但强调这并不代表官方确认UFO存在。",
+        "body": "美国政府公开了数十年来积累的所谓“未确认飞行物（UFO）档案”。此次公开的内容包括此前尚未确认的照片和文件。这一举措延续了公开UFO相关记录的趋势，也意味着政府持有的资料被更广泛地展示出来。不过，公开资料并不等于美国政府正式确认UFO存在。原文称，其中也包含无法最终判断存在与否的内容，因此这些资料应被视为仍处于未确认状态的记录。围绕相关资料的解读和验证，预计今后仍将持续受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "EE.UU. abre archivos OVNI y divulga fotos y documentos no identificados",
+        "excerpt": "El Gobierno de EE.UU. divulgó una amplia colección de fotos y documentos no identificados sobre OVNI acumulados durante décadas, sin confirmar oficialmente su existencia.",
+        "body": "El Gobierno de Estados Unidos divulgó un amplio volumen de los llamados archivos sobre objetos voladores no identificados, u OVNI, acumulados durante varias décadas. El material publicado incluye fotografías y documentos que hasta ahora no habían sido identificados. La medida forma parte de una tendencia de apertura de registros relacionados con OVNI y muestra de forma más amplia documentos en poder del Gobierno. Sin embargo, la publicación no significa que se haya confirmado oficialmente la existencia de OVNI. Según el informe original, parte del contenido no permite llegar a una conclusión definitiva sobre su existencia, por lo que debe entenderse como registro no identificado. El interés por su interpretación y verificación continuará. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "EUA abrem arquivos de OVNIs com fotos e documentos não identificados",
+        "excerpt": "O governo dos EUA divulgou uma grande coleção de fotos e documentos não identificados sobre OVNIs acumulados por décadas, sem confirmar oficialmente sua existência.",
+        "body": "O governo dos Estados Unidos divulgou um grande volume dos chamados arquivos sobre objetos voadores não identificados, ou OVNIs, acumulados ao longo de várias décadas. O material inclui fotos e documentos que permaneciam sem identificação. A medida segue a linha de abertura de registros relacionados a OVNIs e amplia o acesso a documentos mantidos pelo governo. No entanto, a divulgação não significa confirmação oficial da existência de OVNIs. Segundo o relato original, parte do conteúdo não permite uma conclusão final sobre a existência desses objetos, devendo ser vista como registro ainda não identificado. O interesse por análise e verificação deve continuar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "USA veröffentlichen UFO-Akten mit unbekannten Fotos und Dokumenten",
+        "excerpt": "Die US-Regierung hat zahlreiche über Jahrzehnte gesammelte UFO-bezogene Fotos und Dokumente veröffentlicht, betont aber, dass dies keine offizielle Bestätigung von UFOs ist.",
+        "body": "Die US-Regierung hat eine große Menge sogenannter Akten zu unidentifizierten Flugobjekten, kurz UFOs, veröffentlicht, die über mehrere Jahrzehnte gesammelt wurden. Dazu gehören Fotos und Dokumente, die bislang nicht eindeutig identifiziert waren. Der Schritt steht im Zusammenhang mit der fortgesetzten Offenlegung von UFO-bezogenen Unterlagen und macht staatlich gehaltenes Material breiter zugänglich. Er bedeutet jedoch nicht, dass die Existenz von UFOs offiziell bestätigt wurde. Dem Originalbericht zufolge enthält das Material auch Inhalte, mit denen sich die Existenz nicht abschließend beurteilen lässt. Die Akten sind daher als weiterhin unidentifizierte Aufzeichnungen zu verstehen. Interesse an Auswertung und Prüfung dürfte anhalten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les États-Unis publient des dossiers OVNI avec photos et documents inconnus",
+        "excerpt": "Le gouvernement américain a publié de nombreux documents et photos non identifiés liés aux OVNI, accumulés depuis des décennies, sans en confirmer officiellement l’existence.",
+        "body": "Le gouvernement des États-Unis a publié un important ensemble de dossiers dits liés aux objets volants non identifiés, ou OVNI, accumulés pendant plusieurs décennies. Les documents rendus publics comprennent des photos et des textes qui n’avaient pas été identifiés jusque-là. Cette publication s’inscrit dans la continuité de l’ouverture de dossiers relatifs aux OVNI et rend plus largement accessibles des archives détenues par l’État. Elle ne signifie toutefois pas que l’existence des OVNI a été officiellement confirmée. Selon le texte original, certains éléments ne permettent pas de trancher définitivement la question de leur existence et doivent être considérés comme des archives non identifiées. L’intérêt pour leur analyse et leur vérification devrait se poursuivre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الولايات المتحدة تكشف ملفات UFO وتنشر صورا ووثائق غير مؤكدة",
+        "excerpt": "كشفت الحكومة الأميركية عن مجموعة كبيرة من الصور والوثائق غير المؤكدة المتعلقة بملفات UFO المتراكمة منذ عقود، مع التأكيد أن ذلك لا يعني إثبات وجودها رسميا.",
+        "body": "كشفت الحكومة الأميركية عن كمية كبيرة مما يعرف بملفات الأجسام الطائرة غير المحددة، أو UFO، والتي جرى تجميعها على مدى عقود. وتشمل المواد المنشورة صورا ووثائق لم يتم التحقق منها سابقا. وتأتي هذه الخطوة امتدادا لمسار نشر السجلات المرتبطة بملفات UFO، وتفتح مساحة أوسع للاطلاع على مواد تحتفظ بها الحكومة. ومع ذلك، لا تعني عملية النشر أن الولايات المتحدة أكدت رسميا وجود هذه الأجسام. ووفقا للنص الأصلي، تتضمن المواد محتويات لا تسمح بإصدار حكم نهائي بشأن الوجود من عدمه، لذلك ينبغي التعامل معها كسجلات غير محددة. ومن المتوقع أن يستمر الاهتمام بتفسيرها والتحقق منها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिका ने UFO फाइलें खोलीं, अज्ञात तस्वीरें और दस्तावेज जारी",
+        "excerpt": "अमेरिकी सरकार ने दशकों से संचित UFO से जुड़ी अज्ञात तस्वीरों और दस्तावेजों का बड़ा संग्रह जारी किया, लेकिन इसे UFO के अस्तित्व की आधिकारिक पुष्टि नहीं बताया।",
+        "body": "अमेरिकी सरकार ने दशकों से संचित तथाकथित अज्ञात उड़न वस्तु, यानी UFO, फाइलों का बड़ा हिस्सा सार्वजनिक किया है। जारी सामग्री में वे तस्वीरें और दस्तावेज शामिल हैं जिनकी अब तक पहचान नहीं हो सकी थी। यह कदम UFO से जुड़े रिकॉर्ड सार्वजनिक करने की जारी प्रक्रिया का विस्तार है और सरकार के पास मौजूद सामग्री को अधिक व्यापक रूप से सामने लाता है। हालांकि, इस प्रकाशन का अर्थ UFO के अस्तित्व की आधिकारिक पुष्टि नहीं है। मूल रिपोर्ट के अनुसार, कुछ सामग्री ऐसी भी है जिससे अस्तित्व को लेकर अंतिम निर्णय नहीं दिया जा सकता। इसलिए इन फाइलों को अज्ञात स्थिति वाले रिकॉर्ड के रूप में देखा जाना चाहिए। इनके विश्लेषण और सत्यापन में रुचि आगे भी बनी रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "AS Buka File UFO, Rilis Foto dan Dokumen yang Belum Teridentifikasi",
+        "excerpt": "Pemerintah AS merilis banyak foto dan dokumen terkait UFO yang belum teridentifikasi dan dikumpulkan selama puluhan tahun, tetapi tidak mengonfirmasi keberadaan UFO secara resmi.",
+        "body": "Pemerintah Amerika Serikat merilis sejumlah besar berkas yang disebut sebagai file benda terbang tak dikenal, atau UFO, yang telah dikumpulkan selama beberapa dekade. Materi yang dibuka mencakup foto dan dokumen yang selama ini belum teridentifikasi. Langkah ini menjadi kelanjutan dari pembukaan catatan terkait UFO dan memperlihatkan lebih banyak materi yang dimiliki pemerintah kepada publik. Namun, rilis tersebut tidak berarti pemerintah secara resmi mengonfirmasi keberadaan UFO. Menurut laporan asli, sebagian materi tidak dapat digunakan untuk mengambil keputusan akhir tentang ada atau tidaknya UFO, sehingga harus dipahami sebagai catatan yang masih belum teridentifikasi. Minat terhadap penafsiran dan verifikasi diperkirakan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "b5c2a2b4d8c1",
     "slug": "주식-부자-쏟아진다는데불황-직격탄-맞은-서민은-비명-374360",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Iran Dilaporkan Sita Tanker yang Disebut Ganggu Ekspor Minyak",
         "excerpt": "Kantor berita semi-resmi Iran Tasnim pada 8 Mei waktu setempat menyebut pasukan khusus angkatan laut menyita satu tanker di perairan sekitar karena diduga mengganggu ekspor minyak Iran.",
         "body": "Media asing melaporkan bahwa pasukan Iran menyita satu kapal tanker di perairan sekitar. Kantor berita semi-resmi Iran Tasnim pada 8 Mei waktu setempat menyatakan bahwa “pasukan khusus angkatan laut militer Iran menyita kapal tanker yang berupaya mengganggu ekspor minyak dan kepentingan Iran”. Laporan itu menempatkan tindakan tersebut sebagai bagian dari aktivitas maritim terkait ekspor minyak mentah Iran. Namun, naskah asal tidak menyebutkan kebangsaan kapal, nama kapal, lokasi penyitaan, maupun jumlah orang di atas kapal. Pernyataan lanjutan dari otoritas terkait akan menentukan kejelasan latar belakang dan dampak insiden ini. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "93b18f035f43",
-    "slug": "급매-더-나온다-510-싼-집-노려라-219057",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T11:40:41.372Z",
-    "updatedAt": "2026-05-08T11:40:41.372Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12041688",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12041688",
-    "titleFingerprint": "13aa91a66a0c18e283907ebc3ecb20374b9b87db",
-    "dedupKeys": [
-      "93b18f035f433ca6b4fea17dfa502e9a8d975a70",
-      "13aa91a66a0c18e283907ebc3ecb20374b9b87db",
-      "9f110ce90a88cc2d431485a348ddc3b016ec71b6"
-    ],
-    "imageUrl": "/images/articles/93b18f035f43.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 아파트 급매물 전망, 무주택자는 5~10% 싼 매물 주목",
-        "excerpt": "서울머니쇼 부동산 전문가들은 양도세 중과 종료 이후에도 정부의 매물 유도 정책으로 서울 아파트 급매물 압박이 이어질 수 있다고 진단했다.",
-        "body": "서울머니쇼에서 부동산 전문가들은 서울 아파트 시장에서 급매물이 추가로 나올 가능성을 제기했다. 핵심 진단은 정부가 아파트 매물을 시장으로 끌어내는 정책을 계속 쓰고 있어, 양도세 중과가 끝난 뒤에도 매물 압박이 이어질 수 있다는 것이다. 전문가들은 무주택자라면 가격 동향을 살피며 시세보다 5~10% 싼 집을 노려볼 필요가 있다고 조언했다. 다만 원문은 급매 출현 가능성과 매물 압박을 중심으로 설명했으며, 구체적 지역별 가격 전망이나 거래 시점은 제시하지 않았다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Seoul Apartment Bargain Sales May Rise; Buyers Told to Watch 5-10% Discounts",
-        "excerpt": "Real estate experts at the Seoul Money Show said pressure for apartment listings may continue even after the capital gains tax surcharge ends, as policy keeps pushing homes onto the market.",
-        "body": "At the Seoul Money Show, real estate experts said more urgent-sale listings could appear in Seoul’s apartment market. Their diagnosis was that the government continues to use policies that bring apartment listings into the market, so listing pressure may persist even after the capital gains tax surcharge ends. They advised people without homes to monitor price trends and consider homes priced 5-10% below market levels. The source focused on the possibility of bargain listings and continued supply pressure, without presenting specific district-level price forecasts or timing for transactions. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ソウルのマンション急売増加観測、5～10%安い物件に注目",
-        "excerpt": "ソウルマネーショーの不動産専門家は、譲渡税重課終了後も政府の売り物件誘導策により、マンション売却圧力が続く可能性があると診断した。",
-        "body": "ソウルマネーショーで不動産専門家は、ソウルのマンション市場で急売物件がさらに出る可能性を示した。主な見方は、政府がマンションの売り物件を市場に引き出す政策を続けているため、譲渡税の重課が終わった後も売り物件の圧力が続き得るというものだ。専門家は、無住宅者であれば価格動向を確認しながら、相場より5～10%安い住宅を狙う必要があると助言した。ただし原文は急売発生の可能性と売り物件圧力を中心に説明しており、地域別の具体的な価格見通しや取引時期は示していない。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "首尔公寓急售房或继续增加，购房者可关注低5%至10%房源",
-        "excerpt": "首尔Money Show房地产专家认为，即使转让税重课结束，政府持续推动公寓房源入市，挂牌压力仍可能延续。",
-        "body": "在首尔Money Show上，房地产专家提出，首尔公寓市场可能继续出现急售房源。核心判断是，政府仍在使用把公寓房源引向市场的政策，因此即便转让税重课结束，房源挂牌压力也可能持续。专家建议，无房者应观察价格走势，并关注比市价低5%至10%的住宅。原文主要说明急售房源出现的可能性以及挂牌压力，并未提出具体分地区价格展望或交易时点。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Ventas urgentes de pisos en Seúl podrían aumentar: mirar descuentos del 5-10%",
-        "excerpt": "Expertos inmobiliarios del Seoul Money Show dijeron que la presión de oferta puede seguir aun tras el fin del recargo al impuesto por plusvalías, por políticas que llevan pisos al mercado.",
-        "body": "En el Seoul Money Show, expertos inmobiliarios señalaron que podrían aparecer más viviendas en venta urgente en el mercado de apartamentos de Seúl. Su diagnóstico central fue que el gobierno sigue usando políticas para sacar apartamentos al mercado, por lo que la presión de oferta podría continuar incluso después de que termine el recargo al impuesto sobre ganancias de capital. Aconsejaron a quienes no tienen vivienda observar la evolución de precios y considerar casas un 5-10% por debajo del mercado. La fuente se centró en la posibilidad de ventas urgentes y presión de oferta, sin dar previsiones por zona ni fechas de operación. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Vendas urgentes de apartamentos em Seul podem crescer; foco em 5-10% abaixo",
-        "excerpt": "Especialistas imobiliários do Seoul Money Show disseram que a pressão de oferta pode continuar após o fim da sobretaxa sobre ganhos de capital, com políticas que levam imóveis ao mercado.",
-        "body": "No Seoul Money Show, especialistas imobiliários disseram que mais anúncios de venda urgente podem surgir no mercado de apartamentos de Seul. A avaliação central é que o governo continua usando políticas para colocar apartamentos no mercado, de modo que a pressão de oferta pode persistir mesmo após o fim da sobretaxa sobre ganhos de capital. Eles aconselharam pessoas sem casa própria a acompanhar a tendência dos preços e considerar imóveis 5-10% abaixo do valor de mercado. A fonte tratou da possibilidade de vendas urgentes e da pressão de oferta, sem indicar previsões por região ou momento de compra. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Notverkäufe bei Wohnungen in Seoul erwartet: 5-10% günstigere Angebote im Blick",
-        "excerpt": "Immobilienexperten der Seoul Money Show sagten, der Angebotsdruck könne auch nach Ende des Kapitalgewinnsteuer-Aufschlags anhalten, da die Regierung Wohnungen weiter an den Markt bringt.",
-        "body": "Auf der Seoul Money Show erklärten Immobilienexperten, dass im Wohnungsmarkt von Seoul weitere Notverkaufsangebote auftauchen könnten. Ihre zentrale Einschätzung lautet, dass die Regierung weiterhin Maßnahmen nutzt, um Apartmentangebote in den Markt zu bringen; deshalb könne der Angebotsdruck auch nach dem Ende des Aufschlags auf die Kapitalgewinnsteuer bestehen bleiben. Menschen ohne Wohneigentum sollten Preisentwicklungen beobachten und Wohnungen prüfen, die 5-10% unter dem Marktpreis liegen. Die Quelle behandelt vor allem die Möglichkeit solcher Verkäufe und den Angebotsdruck, ohne konkrete Preisprognosen nach Bezirken oder Transaktionszeitpunkte zu nennen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Ventes urgentes d’appartements à Séoul: viser des biens 5-10% moins chers",
-        "excerpt": "Des experts immobiliers du Seoul Money Show estiment que la pression des mises en vente peut continuer après la fin de la surtaxe sur les plus-values, sous l’effet des politiques publiques.",
-        "body": "Lors du Seoul Money Show, des experts immobiliers ont indiqué que de nouvelles ventes urgentes pourraient apparaître sur le marché des appartements à Séoul. Leur diagnostic principal est que le gouvernement continue d’utiliser des politiques qui poussent les appartements vers le marché; la pression des mises en vente pourrait donc durer même après la fin de la surtaxe sur les plus-values. Ils conseillent aux ménages sans logement de suivre les prix et de regarder les biens 5-10% sous le marché. La source se concentre sur la possibilité de ventes urgentes et la pression d’offre, sans donner de prévisions par quartier ni de calendrier de transaction. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "عروض بيع عاجلة لشقق سول قد تزداد: التركيز على أسعار أقل 5-10%",
-        "excerpt": "قال خبراء عقاريون في Seoul Money Show إن ضغط المعروض قد يستمر حتى بعد انتهاء تشديد ضريبة الأرباح الرأسمالية، مع استمرار سياسات دفع الشقق إلى السوق.",
-        "body": "في Seoul Money Show، قال خبراء عقاريون إن سوق الشقق في سول قد يشهد مزيدا من عروض البيع العاجلة. ويرتكز التقييم على أن الحكومة تواصل استخدام سياسات تدفع شقق الملاك إلى السوق، لذلك قد يستمر ضغط المعروض حتى بعد انتهاء تشديد ضريبة الأرباح الرأسمالية. ونصح الخبراء من لا يملكون مسكنا بمتابعة اتجاهات الأسعار والنظر في المنازل المعروضة بسعر يقل 5-10% عن مستوى السوق. وركز النص الأصلي على احتمال ظهور عروض عاجلة واستمرار ضغط المعروض، من دون تقديم توقعات سعرية مفصلة حسب المناطق أو توقيت محدد للصفقات. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "सियोल अपार्टमेंट में जल्दबाजी बिक्री की संभावना, 5-10% सस्ते घरों पर नजर",
-        "excerpt": "Seoul Money Show के रियल एस्टेट विशेषज्ञों ने कहा कि कैपिटल गेन टैक्स सरचार्ज खत्म होने के बाद भी सरकारी नीतियों से अपार्टमेंट आपूर्ति का दबाव जारी रह सकता है।",
-        "body": "Seoul Money Show में रियल एस्टेट विशेषज्ञों ने कहा कि सियोल के अपार्टमेंट बाजार में और जल्दबाजी में बिकने वाली संपत्तियां आ सकती हैं। मुख्य आकलन यह है कि सरकार अपार्टमेंटों को बाजार में लाने वाली नीतियां जारी रख रही है, इसलिए कैपिटल गेन टैक्स सरचार्ज खत्म होने के बाद भी लिस्टिंग का दबाव बना रह सकता है। विशेषज्ञों ने सलाह दी कि जिनके पास घर नहीं है, वे कीमतों की दिशा देखें और बाजार भाव से 5-10% सस्ते घरों पर विचार करें। मूल रिपोर्ट ने急 बिक्री की संभावना और आपूर्ति दबाव पर ध्यान दिया, लेकिन क्षेत्रवार कीमतों या सौदे के समय का अनुमान नहीं दिया। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Obral Apartemen Seoul Bisa Bertambah; Pembeli Disarankan Incar Diskon 5-10%",
-        "excerpt": "Pakar properti di Seoul Money Show menilai tekanan listing apartemen dapat berlanjut meski pajak capital gain tambahan berakhir, karena kebijakan pemerintah terus mendorong pasokan ke pasar.",
-        "body": "Dalam Seoul Money Show, pakar properti menyebut kemungkinan lebih banyak listing jual cepat muncul di pasar apartemen Seoul. Inti penilaiannya, pemerintah terus memakai kebijakan yang menarik pasokan apartemen ke pasar, sehingga tekanan listing dapat berlanjut bahkan setelah pajak capital gain tambahan berakhir. Mereka menyarankan warga yang belum memiliki rumah untuk memantau tren harga dan mempertimbangkan rumah yang 5-10% lebih murah dari harga pasar. Sumber asli berfokus pada peluang munculnya jual cepat dan tekanan pasokan, tanpa menyajikan proyeksi harga per wilayah atau waktu transaksi tertentu. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "811453b04675",
-    "slug": "떡-비닐째로-손님-요리에-담가-해동-딱-걸렸다포장마차-위생-논란-113304",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T11:39:43.895Z",
-    "updatedAt": "2026-05-08T11:39:43.895Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12041727",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12041727",
-    "titleFingerprint": "db4014d802208d887cfdcb18d515ee36d60a24e3",
-    "dedupKeys": [
-      "811453b04675d758429c116e7631210676d3636d",
-      "db4014d802208d887cfdcb18d515ee36d60a24e3",
-      "b3ffdc465f59465d4f39e512ee24b2cebf66e4d8"
-    ],
-    "imageUrl": "/images/articles/811453b04675.png",
-    "i18n": {
-      "ko": {
-        "title": "포장마차 위생 논란, 비닐째 떡 해동 장면 포착에 온라인 확산",
-        "excerpt": "8일 온라인 커뮤니티와 SNS에서 포장마차가 비닐에 담긴 떡을 그대로 요리에 넣어 데우는 장면이 퍼지며 노점 위생 논란이 제기됐다.",
-        "body": "8일 온라인 커뮤니티와 사회관계망서비스(SNS) 등에 따르면 한 포장마차에서 비닐에 담긴 떡을 꺼내지 않은 채 손님 요리에 넣어 데우는 장면이 포착돼 위생 논란이 일고 있다. 공개된 장면은 최근 SNS를 통해 확산됐고, 비닐 포장 상태의 식재료가 조리 과정에 그대로 들어갔다는 점이 문제로 지적됐다. 포장마차와 노점 음식의 조리 위생에 대한 관심이 다시 커지는 가운데, 온라인에서는 해당 방식이 적절한지에 대한 반응이 이어지고 있다. 이번 논란은 소비자가 조리 과정을 직접 확인하기 어려운 노점 음식 위생 문제를 다시 부각시켰다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Street Stall Hygiene Row Grows After Rice Cakes Heated in Plastic Bag",
-        "excerpt": "On May 8, a video spread across online communities and social media showing a street stall heating rice cakes still sealed in plastic inside a customer's dish.",
-        "body": "According to online communities and social media posts on May 8, a hygiene controversy has emerged after footage showed a street food stall placing rice cakes still inside a plastic bag into a customer's dish to warm them. The scene recently spread on SNS, drawing attention because packaged ingredients appeared to enter the cooking process without being removed from the plastic. As public interest in hygiene at street stalls and food carts rises again, online users have continued to question whether the method was appropriate. The incident has renewed scrutiny of hygiene issues in street food, where customers often cannot fully observe preparation. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "屋台衛生論争、袋入り餅をそのまま料理で解凍する場面が拡散",
-        "excerpt": "8日、オンラインコミュニティやSNSで、屋台がビニール袋入りの餅を客の料理にそのまま入れて温める場面が広がり、衛生論争が起きた。",
-        "body": "8日、オンラインコミュニティやSNSなどによると、ある屋台でビニール袋に入った餅を取り出さず、客の料理にそのまま入れて温める場面が確認され、衛生をめぐる論争が起きている。公開された場面は最近SNSを通じて拡散し、包装された状態の食材が調理過程にそのまま入った点が問題視された。屋台や露店食品の調理衛生への関心が再び高まる中、オンラインではこの方法が適切だったのかを問う反応が続いている。今回の論争は、消費者が調理過程を直接確認しにくい露店食品の衛生問題を改めて浮き彫りにした。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "路边摊卫生争议升温，袋装年糕直接放入菜中加热画面曝光",
-        "excerpt": "5月8日，网络社区和社交媒体流传一段路边摊将仍装在塑料袋中的年糕直接放入顾客菜品中加热的画面，引发卫生争议。",
-        "body": "据5月8日网络社区和社交媒体消息，一处路边摊被拍到将装在塑料袋里的年糕未取出就直接放入顾客菜品中加热，引发卫生争议。相关画面近日在SNS上传播，问题焦点在于处于塑料包装状态的食材被直接放入烹饪过程中。随着外界对路边摊和小吃摊烹饪卫生的关注再次升温，网上围绕这种做法是否合适持续出现讨论。此次争议也再次凸显了消费者难以直接确认制作过程的摊贩食品卫生问题。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Polémica sanitaria en un puesto callejero por calentar tteok dentro de plástico",
-        "excerpt": "El 8 de mayo, comunidades en línea y redes sociales difundieron una escena de un puesto callejero calentando tteok aún dentro de una bolsa plástica en el plato de un cliente.",
-        "body": "Según comunidades en línea y redes sociales el 8 de mayo, surgió una polémica sanitaria después de que se captara a un puesto callejero colocando tteok, o pastel de arroz, aún dentro de una bolsa plástica en el plato de un cliente para calentarlo. La escena se difundió recientemente en SNS y fue cuestionada porque un ingrediente empaquetado parecía entrar directamente en el proceso de cocción. Mientras vuelve a crecer el interés por la higiene en puestos y comida callejera, usuarios en línea siguen debatiendo si el método era adecuado. El caso volvió a poner de relieve los problemas de higiene en alimentos de puestos donde el consumidor no siempre puede observar la preparación. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Higiene em barraca de rua vira polêmica após tteok ser aquecido no plástico",
-        "excerpt": "Em 8 de maio, comunidades online e redes sociais divulgaram uma cena de uma barraca aquecendo tteok ainda dentro de saco plástico no prato de um cliente.",
-        "body": "Segundo comunidades online e redes sociais em 8 de maio, surgiu uma controvérsia de higiene após imagens mostrarem uma barraca de comida de rua colocando tteok, bolo de arroz, ainda dentro de um saco plástico no prato de um cliente para aquecer. A cena se espalhou recentemente nas redes sociais e chamou atenção porque o ingrediente embalado teria entrado diretamente no processo de preparo. Com o interesse pela higiene de barracas e comida de rua voltando a crescer, usuários online continuam questionando se o método era adequado. O caso voltou a destacar problemas de higiene em alimentos de rua, cuja preparação nem sempre pode ser acompanhada pelo consumidor. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Hygienedebatte um Straßenstand nach Erhitzen von Reiskuchen in Plastik",
-        "excerpt": "Am 8. Mai verbreitete sich in Online-Communitys und sozialen Medien eine Szene, in der ein Straßenstand Reiskuchen samt Plastikbeutel in einem Kundengericht erhitzte.",
-        "body": "Laut Online-Communitys und sozialen Medien vom 8. Mai ist eine Hygienedebatte entstanden, nachdem Aufnahmen zeigten, wie ein Straßenimbiss Reiskuchen in einem Plastikbeutel direkt in ein Gericht eines Kunden legte, um sie zu erwärmen. Die Szene verbreitete sich zuletzt über SNS und wurde kritisiert, weil verpackte Zutaten offenbar unverändert in den Kochprozess gelangten. Während das Interesse an der Zubereitungshygiene von Straßenständen und mobilen Imbissen erneut wächst, diskutieren Nutzer online weiter, ob diese Methode angemessen war. Der Vorfall rückt Hygieneprobleme bei Straßenessen, dessen Zubereitung Kunden oft nicht vollständig verfolgen können, erneut in den Fokus. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Polémique hygiène dans un stand après du tteok chauffé dans son plastique",
-        "excerpt": "Le 8 mai, des communautés en ligne et les réseaux sociaux ont relayé une scène montrant un stand chauffant du tteok encore dans un sac plastique dans le plat d’un client.",
-        "body": "Selon des communautés en ligne et les réseaux sociaux le 8 mai, une polémique sur l’hygiène a éclaté après la diffusion d’images montrant un stand de rue placer du tteok, gâteau de riz, encore dans un sac plastique directement dans le plat d’un client pour le réchauffer. La scène s’est récemment propagée sur les SNS et a suscité des critiques, car un ingrédient emballé semblait entrer tel quel dans la préparation. Alors que l’attention portée à l’hygiène des stands et de la nourriture de rue augmente de nouveau, les internautes continuent de discuter du caractère approprié de cette méthode. L’affaire remet en lumière les questions d’hygiène lorsque les clients ne peuvent pas toujours vérifier le processus de cuisson. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "جدل صحي حول عربة طعام بعد تسخين كعك أرز داخل كيس بلاستيكي",
-        "excerpt": "في 8 مايو، انتشر على المجتمعات الإلكترونية ووسائل التواصل مشهد لعربة طعام تسخن كعك الأرز وهو داخل كيس بلاستيكي في طبق أحد الزبائن، ما أثار جدلا صحيا.",
-        "body": "وفقا لما ورد في المجتمعات الإلكترونية ووسائل التواصل الاجتماعي في 8 مايو، اندلع جدل حول النظافة بعد رصد عربة طعام تضع كعك أرز داخل كيس بلاستيكي مباشرة في طبق أحد الزبائن لتسخينه. وانتشر المشهد مؤخرا عبر منصات التواصل، وأثيرت المشكلة لأن مكونا غذائيا مغلفا بدا وكأنه دخل عملية الطهي من دون إخراجه من العبوة. ومع عودة الاهتمام بنظافة عربات الطعام والأطعمة الشارعية، واصل مستخدمون على الإنترنت التساؤل عما إذا كانت هذه الطريقة مناسبة. وأعاد الحادث إبراز مشكلات النظافة في أطعمة الشارع، حيث لا يستطيع المستهلك غالبا متابعة عملية التحضير بالكامل. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "स्ट्रीट स्टॉल स्वच्छता विवाद, प्लास्टिक में ही चावल केक गर्म करने का दृश्य वायरल",
-        "excerpt": "8 मई को ऑनलाइन समुदायों और सोशल मीडिया पर एक स्ट्रीट स्टॉल का दृश्य फैला, जिसमें प्लास्टिक बैग में बंद चावल केक ग्राहक के व्यंजन में रखकर गर्म किए गए।",
-        "body": "8 मई को ऑनलाइन समुदायों और सोशल मीडिया के अनुसार, एक स्ट्रीट फूड स्टॉल पर प्लास्टिक बैग में रखे चावल केक को निकाले बिना ग्राहक के व्यंजन में डालकर गर्म करने का दृश्य सामने आने के बाद स्वच्छता विवाद उठ खड़ा हुआ। यह दृश्य हाल में SNS पर फैला और सवाल इसलिए उठे क्योंकि पैक की हुई सामग्री सीधे पकाने की प्रक्रिया में जाती दिखी। स्ट्रीट स्टॉल और सड़क किनारे भोजन की तैयारी में स्वच्छता को लेकर रुचि फिर बढ़ने के बीच, ऑनलाइन उपयोगकर्ता इस तरीके की उपयुक्तता पर प्रतिक्रिया दे रहे हैं। इस घटना ने उन सड़क खाद्य पदार्थों की स्वच्छता समस्या को फिर उजागर किया है जिनकी तैयारी उपभोक्ता हमेशा सीधे नहीं देख पाते। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Kontroversi Higiene Tenda Makanan, Tteok Dipanaskan Masih dalam Plastik",
-        "excerpt": "Pada 8 Mei, komunitas online dan media sosial menyoroti adegan tenda makanan memanaskan tteok yang masih berada dalam kantong plastik di hidangan pelanggan.",
-        "body": "Menurut komunitas online dan media sosial pada 8 Mei, kontroversi higiene muncul setelah terlihat sebuah tenda makanan jalanan memasukkan tteok, atau kue beras, yang masih berada dalam kantong plastik ke hidangan pelanggan untuk dipanaskan. Adegan itu baru-baru ini menyebar di SNS dan dipersoalkan karena bahan makanan dalam kemasan tampak masuk langsung ke proses memasak. Saat perhatian terhadap kebersihan pengolahan makanan di tenda dan kaki lima kembali meningkat, warganet terus mempertanyakan apakah cara tersebut tepat. Peristiwa ini kembali menyoroti masalah higiene makanan jalanan, terutama ketika konsumen sulit melihat langsung proses memasaknya. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "c5be1d35d29c",
-    "slug": "내-딸-아직-학생이야미성년-자녀와-사귀는-20대-남자-둔기로-팬-엄마-263609",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T11:02:12.669Z",
-    "updatedAt": "2026-05-08T11:02:12.669Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12041586",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12041586",
-    "titleFingerprint": "0bf5b99131fd20317b9601a38ac417a978dd2c1e",
-    "dedupKeys": [
-      "c5be1d35d29c2cb5041f2ae44f5d8db3ec1152e6",
-      "0bf5b99131fd20317b9601a38ac417a978dd2c1e",
-      "31dbc4d02ab3b1b0024417e5f6f39cf6b1fa073f"
-    ],
-    "imageUrl": "/images/articles/c5be1d35d29c.png",
-    "i18n": {
-      "ko": {
-        "title": "미성년 딸 교제 20대 남성 폭행한 40대 엄마, 징역형 집행유예",
-        "excerpt": "8일 법조계에 따르면 대구지법은 미성년 딸과 교제하던 20대 남성을 둔기로 폭행한 40대 여성에게 특수상해 혐의로 징역형 집행유예를 선고했다.",
-        "body": "미성년자인 딸과 교제하던 20대 남성을 둔기로 폭행한 40대 여성이 징역형의 집행유예를 선고받았다. 8일 법조계에 따르면 대구지법 형사13부(부장판사 채희인)는 특수상해 혐의로 기소된 이 여성에게 징역형 집행유예를 선고했다. 사건은 딸이 아직 학생이라는 점을 문제 삼은 어머니가 교제 상대 남성을 폭행한 것으로 전해졌다. 법원 판단에 따라 피고인은 실형 집행은 유예됐지만, 특수상해 혐의에 대한 형사 책임은 인정됐다. 미성년 자녀의 교제 문제를 둘러싼 가족 갈등이 형사 사건으로 이어진 사례다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Mother Gets Suspended Prison Term for Attacking Man Dating Minor Daughter",
-        "excerpt": "According to legal sources on the 8th, a Daegu court gave a woman in her 40s a suspended prison sentence for injuring a man in his 20s who was dating her minor daughter.",
-        "body": "A woman in her 40s who attacked a man in his 20s with a blunt object because he was dating her minor daughter received a suspended prison sentence. According to legal sources on the 8th, the Daegu District Court Criminal Division 13, presided over by Judge Chae Hee-in, sentenced the woman, who was indicted on a charge of special injury, to a suspended prison term. The case reportedly began after the mother objected to the relationship, saying her daughter was still a student. Under the court’s ruling, the defendant avoided immediate imprisonment, but criminal responsibility for the special injury charge was recognized. The case shows how a family conflict over a minor child’s relationship led to criminal proceedings. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "未成年の娘と交際した20代男性を暴行、40代母に執行猶予付き懲役",
-        "excerpt": "8日、法曹界によると、大邱地裁は未成年の娘と交際していた20代男性を鈍器で暴行した40代女性に、特殊傷害罪で執行猶予付き懲役を言い渡した。",
-        "body": "未成年の娘と交際していた20代男性を鈍器で暴行した40代女性が、執行猶予付きの懲役刑を言い渡された。8日、法曹界によると、大邱地裁刑事13部（蔡熙寅部長判事）は、特殊傷害の罪で起訴されたこの女性に執行猶予付き懲役を宣告した。事件は、娘がまだ学生である点を問題視した母親が、交際相手の男性を暴行したものと伝えられている。裁判所の判断により、被告は実刑の執行を猶予されたが、特殊傷害罪に関する刑事責任は認められた。未成年の子どもの交際をめぐる家族間の対立が刑事事件につながった事例だ。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "女儿未成年仍交往20多岁男子，40多岁母亲持钝器伤人获缓刑",
-        "excerpt": "据8日法律界消息，大邱地方法院以特殊伤害罪判处一名40多岁女性有期徒刑并缓期执行，她曾用钝器殴打与其未成年女儿交往的20多岁男子。",
-        "body": "一名40多岁女性因用钝器殴打与其未成年女儿交往的20多岁男子，被判处有期徒刑并缓期执行。据8日法律界消息，大邱地方法院刑事13庭（审判长蔡熙仁）对这名以特殊伤害罪被起诉的女性作出缓刑判决。案件据称源于母亲认为女儿仍是学生，因而对其交往对象男子实施殴打。根据法院判断，被告虽被暂缓执行实刑，但其对特殊伤害罪的刑事责任获得认定。该案显示，围绕未成年子女交往问题的家庭矛盾可能演变为刑事案件。来源：引用自mk.co.kr。"
-      },
-      "es": {
-        "title": "Madre recibe prisión suspendida por atacar a hombre que salía con su hija menor",
-        "excerpt": "Según fuentes legales el día 8, un tribunal de Daegu impuso una pena de prisión suspendida a una mujer de 40 años por agredir con un objeto contundente a un hombre de 20 años que salía con su hija menor.",
-        "body": "Una mujer de unos 40 años que atacó con un objeto contundente a un hombre de unos 20 que mantenía una relación con su hija menor recibió una condena de prisión suspendida. Según fuentes legales el día 8, la Sala Penal 13 del Tribunal de Distrito de Daegu, presidida por el juez Chae Hee-in, dictó la pena contra la mujer, acusada de lesiones especiales. El caso habría comenzado cuando la madre cuestionó la relación al considerar que su hija aún era estudiante y agredió al hombre. Con la decisión judicial, la acusada evitó el cumplimiento inmediato de la prisión, pero se reconoció su responsabilidad penal por el cargo de lesiones especiales. Es un caso en el que un conflicto familiar por la relación de una menor terminó en un proceso penal. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Mãe recebe pena suspensa após atacar homem que namorava filha menor",
-        "excerpt": "Segundo fontes jurídicas no dia 8, um tribunal de Daegu condenou uma mulher de 40 anos a pena de prisão suspensa por agredir com objeto contundente um homem de 20 anos que namorava sua filha menor.",
-        "body": "Uma mulher na faixa dos 40 anos que atacou com um objeto contundente um homem na faixa dos 20 que namorava sua filha menor recebeu uma pena de prisão com execução suspensa. Segundo fontes jurídicas no dia 8, a 13ª Divisão Criminal do Tribunal Distrital de Daegu, presidida pelo juiz Chae Hee-in, sentenciou a mulher, acusada de lesão corporal especial, a prisão suspensa. O caso teria começado quando a mãe, alegando que a filha ainda era estudante, questionou o relacionamento e agrediu o homem. Pela decisão do tribunal, a ré não cumprirá imediatamente a pena em regime fechado, mas sua responsabilidade criminal pela acusação foi reconhecida. O episódio mostra um conflito familiar sobre o namoro de uma menor que chegou à esfera penal. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Mutter erhält Bewährungsstrafe nach Angriff auf Partner ihrer minderjährigen Tochter",
-        "excerpt": "Juristischen Kreisen zufolge verhängte ein Gericht in Daegu am 8. gegen eine Frau in den Vierzigern eine Bewährungsstrafe, weil sie einen Mann in den Zwanzigern angegriffen hatte, der ihre minderjährige Tochter datete.",
-        "body": "Eine Frau in den Vierzigern, die einen Mann in den Zwanzigern mit einem stumpfen Gegenstand angriff, weil er mit ihrer minderjährigen Tochter zusammen war, erhielt eine Freiheitsstrafe auf Bewährung. Juristischen Kreisen zufolge entschied die 13. Strafkammer des Bezirksgerichts Daegu unter dem Vorsitz von Richter Chae Hee-in am 8. in dem Verfahren wegen besonderer Körperverletzung. Der Fall soll damit begonnen haben, dass die Mutter die Beziehung beanstandete, weil ihre Tochter noch Schülerin sei, und den Mann angriff. Nach der Gerichtsentscheidung wurde die Vollstreckung der Freiheitsstrafe ausgesetzt, die strafrechtliche Verantwortung für die besondere Körperverletzung aber anerkannt. Der Fall zeigt, wie ein Familienkonflikt über die Beziehung eines minderjährigen Kindes zu einem Strafverfahren wurde. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Prison avec sursis pour une mère ayant attaqué l’homme fréquentant sa fille mineure",
-        "excerpt": "Selon des sources judiciaires le 8, un tribunal de Daegu a condamné avec sursis une femme d’une quarantaine d’années pour avoir frappé avec un objet contondant un homme d’une vingtaine d’années qui fréquentait sa fille mineure.",
-        "body": "Une femme d’une quarantaine d’années qui a attaqué avec un objet contondant un homme d’une vingtaine d’années parce qu’il fréquentait sa fille mineure a été condamnée à une peine de prison avec sursis. Selon des sources judiciaires le 8, la 13e chambre pénale du tribunal de district de Daegu, présidée par le juge Chae Hee-in, a rendu cette décision contre la femme poursuivie pour blessures spéciales. L’affaire aurait commencé lorsque la mère, estimant que sa fille était encore étudiante, s’est opposée à la relation et a agressé l’homme. Par cette décision, l’accusée évite l’exécution immédiate de la peine, mais sa responsabilité pénale pour blessures spéciales est reconnue. Ce dossier illustre un conflit familial autour de la relation d’une mineure devenu une affaire pénale. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "حكم مع وقف التنفيذ على أم اعتدت على رجل يواعد ابنتها القاصر",
-        "excerpt": "بحسب أوساط قانونية في اليوم الثامن، أصدرت محكمة في دايغو حكما بالسجن مع وقف التنفيذ على امرأة في الأربعينيات اعتدت بأداة غير حادة على رجل في العشرينيات كان يواعد ابنتها القاصر.",
-        "body": "تلقت امرأة في الأربعينيات حكما بالسجن مع وقف التنفيذ بعد اعتدائها بأداة غير حادة على رجل في العشرينيات كان يواعد ابنتها القاصر. ووفقا لأوساط قانونية في اليوم الثامن، أصدرت الدائرة الجنائية 13 في محكمة دايغو الجزئية، برئاسة القاضي تشاي هي-إن، الحكم على المرأة المتهمة بإحداث إصابة خاصة. وتفيد المعلومات بأن القضية بدأت عندما اعترضت الأم على العلاقة معتبرة أن ابنتها لا تزال طالبة، ثم اعتدت على الرجل. وبموجب قرار المحكمة، تم وقف تنفيذ العقوبة الفعلية بحق المتهمة، لكن مسؤوليتها الجنائية عن تهمة الإصابة الخاصة أُقرت. وتظهر القضية كيف تحول خلاف عائلي بشأن علاقة ابنة قاصر إلى ملف جنائي. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "नाबालिग बेटी से संबंध रखने वाले युवक पर हमला, मां को निलंबित जेल सजा",
-        "excerpt": "8 तारीख को कानूनी सूत्रों के अनुसार, डेगू की अदालत ने नाबालिग बेटी से संबंध रखने वाले 20 वर्षीय व्यक्ति पर कुंद वस्तु से हमला करने वाली 40 वर्षीय महिला को विशेष चोट के आरोप में निलंबित जेल सजा सुनाई।",
-        "body": "अपनी नाबालिग बेटी से संबंध रखने वाले 20 वर्ष की उम्र के एक व्यक्ति पर कुंद वस्तु से हमला करने वाली 40 वर्षीय महिला को जेल की सजा के साथ उसका निष्पादन निलंबित कर दिया गया। 8 तारीख को कानूनी सूत्रों के अनुसार, डेगू जिला अदालत की आपराधिक पीठ 13, जिसकी अध्यक्षता न्यायाधीश चाए ही-इन ने की, ने विशेष चोट के आरोप में अभियोजित महिला को निलंबित जेल सजा सुनाई। बताया गया कि मामला तब शुरू हुआ जब मां ने यह कहते हुए संबंध पर आपत्ति जताई कि उसकी बेटी अभी छात्रा है, और युवक पर हमला किया। अदालत के फैसले से आरोपी को तत्काल जेल नहीं जाना होगा, लेकिन विशेष चोट के आरोप में उसकी आपराधिक जिम्मेदारी मानी गई। यह नाबालिग संतान के संबंध को लेकर पारिवारिक विवाद के आपराधिक मामले में बदलने का उदाहरण है। स्रोत: mk.co.kr से उद्धृत."
-      },
-      "id": {
-        "title": "Ibu Dihukum Penjara Bersyarat Usai Serang Pria yang Pacari Putri di Bawah Umur",
-        "excerpt": "Menurut kalangan hukum pada tanggal 8, Pengadilan Daegu menjatuhkan hukuman penjara bersyarat kepada perempuan 40-an tahun yang memukul pria 20-an tahun dengan benda tumpul karena berpacaran dengan putrinya yang masih di bawah umur.",
-        "body": "Seorang perempuan berusia 40-an tahun yang menyerang pria berusia 20-an tahun dengan benda tumpul karena pria itu berpacaran dengan putrinya yang masih di bawah umur dijatuhi hukuman penjara dengan masa percobaan. Menurut kalangan hukum pada tanggal 8, Divisi Pidana 13 Pengadilan Distrik Daegu, dipimpin Hakim Chae Hee-in, menjatuhkan putusan terhadap perempuan yang didakwa atas luka khusus tersebut. Kasus ini disebut bermula ketika sang ibu mempermasalahkan hubungan itu karena putrinya masih berstatus pelajar, lalu menyerang pria tersebut. Berdasarkan putusan pengadilan, terdakwa tidak langsung menjalani hukuman penjara, tetapi tanggung jawab pidananya atas dakwaan luka khusus diakui. Perkara ini menjadi contoh konflik keluarga terkait hubungan anak di bawah umur yang berujung pada kasus pidana. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
