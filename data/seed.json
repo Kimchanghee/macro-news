@@ -1,5 +1,230 @@
 [
   {
+    "id": "ba15cdcf344f",
+    "slug": "포토-5차-석유-최고가격-동결-227195",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T18:12:48.171Z",
+    "updatedAt": "2026-05-09T18:12:48.171Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605084619i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605084619i",
+    "titleFingerprint": "10ef0adcdadb419a8ddabb178081c8426416a26d",
+    "dedupKeys": [
+      "ba15cdcf344f16b9fe8d7a8502976494322ce5ae",
+      "10ef0adcdadb419a8ddabb178081c8426416a26d",
+      "0a36ed6a962d4586155ba9ee1f888089c1322ef1"
+    ],
+    "imageUrl": "/images/articles/ba15cdcf344f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "5차 석유 최고가격 동결, 가격 상한 유지 소식에 시장 주목",
+        "excerpt": "한국경제는 5차 석유 최고가격이 동결됐다고 보도했다. 이번 보도는 석유 가격 상한이 유지됐다는 사실을 사진 기사 형식으로 전했다.",
+        "body": "한국경제는 5차 석유 최고가격이 동결됐다고 보도했다. 이번 소식은 석유 가격 상한이 새로 조정되지 않고 기존 수준으로 유지됐다는 내용을 담고 있다. 원문은 사진 기사 형식으로 해당 사실을 전했으며, 별도의 인상이나 인하 내용은 제시하지 않았다. 석유 최고가격 동결은 가격 관리 흐름을 확인하는 신호로 받아들여질 수 있으나, 기사에 구체적인 배경 수치나 향후 조치가 공개되지는 않았다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Fifth Oil Price Ceiling Frozen as Market Watches Cap Decision",
+        "excerpt": "Hankyung reported that the fifth oil maximum price was frozen. The photo article stated that the oil price ceiling remained unchanged.",
+        "body": "Hankyung reported that the fifth oil maximum price was frozen. The item says the oil price ceiling was not newly adjusted and remained at its existing level. The original was presented as a photo article and did not state any separate increase or decrease. The freeze in the oil maximum price can be read as a signal confirming the current price-control stance, but the article did not disclose detailed background figures or future measures. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "第5次石油最高価格を凍結、価格上限維持に市場が注目",
+        "excerpt": "韓国経済は、第5次石油最高価格が凍結されたと報じた。写真記事の形で、石油価格の上限が維持された事実を伝えた。",
+        "body": "韓国経済は、第5次石油最高価格が凍結されたと報じた。今回の内容は、石油価格の上限が新たに調整されず、従来の水準で維持されたというものだ。原文は写真記事の形式でこの事実を伝えており、別途の引き上げや引き下げについては示していない。石油最高価格の凍結は、価格管理の流れを確認する材料となり得るが、記事では具体的な背景数値や今後の措置は公開されていない。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "第五次石油最高价格冻结，价格上限维持引发关注",
+        "excerpt": "韩国经济报道称，第五次石油最高价格被冻结。该照片新闻传达了石油价格上限维持不变这一事实。",
+        "body": "韩国经济报道称，第五次石油最高价格被冻结。此次消息意味着石油价格上限没有进行新的调整，而是维持在原有水平。原文以照片新闻形式传达了这一事实，并未提出另行上调或下调的内容。石油最高价格冻结可被视为确认价格管理走势的信号，但报道中未公开具体背景数据或后续措施。来源为hankyung.com。"
+      },
+      "es": {
+        "title": "Congelado el quinto precio máximo del petróleo y se mantiene el tope",
+        "excerpt": "Hankyung informó que el quinto precio máximo del petróleo quedó congelado. La nota fotográfica indicó que el tope del precio del petróleo se mantuvo sin cambios.",
+        "body": "Hankyung informó que el quinto precio máximo del petróleo quedó congelado. La noticia señala que el tope del precio del petróleo no fue ajustado de nuevo y se mantuvo en su nivel existente. El original fue presentado como una nota fotográfica y no mencionó ningún aumento ni recorte separado. La congelación del precio máximo del petróleo puede entenderse como una señal sobre la continuidad del control de precios, pero el artículo no divulgó cifras de contexto ni medidas futuras. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Quinto preço máximo do petróleo é congelado e teto segue mantido",
+        "excerpt": "O Hankyung informou que o quinto preço máximo do petróleo foi congelado. A notícia em formato de foto afirmou que o teto do preço do petróleo permaneceu inalterado.",
+        "body": "O Hankyung informou que o quinto preço máximo do petróleo foi congelado. A informação indica que o teto do preço do petróleo não passou por novo ajuste e permaneceu no nível existente. O texto original foi apresentado como uma notícia fotográfica e não trouxe aumento ou redução separados. O congelamento do preço máximo do petróleo pode ser visto como um sinal da continuidade da gestão de preços, mas a matéria não divulgou números de contexto nem medidas futuras. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Fünfter Öl-Höchstpreis eingefroren, Preisdeckel bleibt unverändert",
+        "excerpt": "Hankyung berichtete, dass der fünfte Öl-Höchstpreis eingefroren wurde. Der Fotobeitrag meldete, dass die Preisobergrenze für Öl unverändert blieb.",
+        "body": "Hankyung berichtete, dass der fünfte Öl-Höchstpreis eingefroren wurde. Die Meldung besagt, dass die Preisobergrenze für Öl nicht neu angepasst wurde und auf dem bisherigen Niveau bleibt. Der Originalbeitrag erschien als Fotomeldung und nannte weder eine gesonderte Erhöhung noch eine Senkung. Das Einfrieren des Öl-Höchstpreises kann als Hinweis auf die Fortsetzung der Preissteuerung verstanden werden, doch konkrete Hintergrundzahlen oder künftige Maßnahmen wurden im Artikel nicht veröffentlicht. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Cinquième prix plafond du pétrole gelé, le seuil reste inchangé",
+        "excerpt": "Hankyung a rapporté que le cinquième prix maximum du pétrole avait été gelé. L’article photo indique que le plafond du prix du pétrole est resté inchangé.",
+        "body": "Hankyung a rapporté que le cinquième prix maximum du pétrole avait été gelé. L’information signifie que le plafond du prix du pétrole n’a pas été de nouveau ajusté et reste à son niveau existant. Le texte original a été publié sous forme d’article photo et ne mentionne ni hausse ni baisse distincte. Le gel du prix maximum du pétrole peut être interprété comme un signal de maintien de la gestion des prix, mais l’article ne fournit pas de chiffres de contexte ni de mesures futures. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "تجميد الحد الأقصى الخامس لسعر النفط مع بقاء السقف دون تغيير",
+        "excerpt": "أفادت هانكيونغ بأن الحد الأقصى الخامس لسعر النفط جرى تجميده. ونقلت المادة المصورة أن سقف سعر النفط بقي من دون تغيير.",
+        "body": "أفادت هانكيونغ بأن الحد الأقصى الخامس لسعر النفط جرى تجميده. وتوضح المعلومة أن سقف سعر النفط لم يخضع لتعديل جديد وبقي عند مستواه القائم. وقد نُشر النص الأصلي في صيغة خبر مصور، ولم يذكر أي زيادة أو خفض منفصل. ويمكن النظر إلى تجميد الحد الأقصى لسعر النفط بوصفه إشارة إلى استمرار مسار إدارة الأسعار، لكن المقال لم يكشف أرقاما تفصيلية للخلفية أو إجراءات لاحقة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "तेल की पांचवीं अधिकतम कीमत स्थिर, मूल्य सीमा यथावत बनी रही",
+        "excerpt": "हैंकयुंग ने बताया कि तेल की पांचवीं अधिकतम कीमत स्थिर रखी गई। फोटो समाचार में कहा गया कि तेल मूल्य सीमा में कोई बदलाव नहीं किया गया।",
+        "body": "हैंकयुंग ने बताया कि तेल की पांचवीं अधिकतम कीमत स्थिर रखी गई। इस सूचना का अर्थ है कि तेल की मूल्य सीमा में नया समायोजन नहीं हुआ और मौजूदा स्तर बरकरार रहा। मूल सामग्री फोटो समाचार के रूप में प्रस्तुत की गई थी और उसमें अलग से बढ़ोतरी या कटौती का उल्लेख नहीं था। तेल की अधिकतम कीमत स्थिर रखना मूल्य प्रबंधन की मौजूदा दिशा की पुष्टि करने वाला संकेत माना जा सकता है, लेकिन लेख में विस्तृत पृष्ठभूमि आंकड़े या आगे की कार्रवाई सार्वजनिक नहीं की गई। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Harga maksimum minyak kelima dibekukan, batas harga tetap berlaku",
+        "excerpt": "Hankyung melaporkan bahwa harga maksimum minyak kelima dibekukan. Artikel foto itu menyampaikan bahwa batas harga minyak tetap tidak berubah.",
+        "body": "Hankyung melaporkan bahwa harga maksimum minyak kelima dibekukan. Informasi ini berarti batas harga minyak tidak disesuaikan kembali dan tetap berada pada level yang sudah berlaku. Naskah asli disajikan dalam bentuk artikel foto dan tidak menyebutkan kenaikan atau penurunan terpisah. Pembekuan harga maksimum minyak dapat dibaca sebagai sinyal yang mengonfirmasi arah pengelolaan harga, tetapi artikel tersebut tidak memuat angka latar belakang rinci maupun langkah berikutnya. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "9cb019386e9e",
+    "slug": "동원그룹-고환율-부담에도-매출-2조5300억원-기록-958977",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T18:12:02.966Z",
+    "updatedAt": "2026-05-09T18:12:02.966Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605084621g",
+    "canonicalUrl": "https://www.hankyung.com/article/202605084621g",
+    "titleFingerprint": "11045013320d0886d6953c79ff50e2768b712a6e",
+    "dedupKeys": [
+      "9cb019386e9e7d4cfb1a537888e56aa8d49314a3",
+      "11045013320d0886d6953c79ff50e2768b712a6e",
+      "d0e6164002c30f60dfe35bb7fc027db86497f270"
+    ],
+    "imageUrl": "/images/articles/9cb019386e9e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "동원그룹 매출 2조5300억원, 고환율 부담 속 실적 방어 주목",
+        "excerpt": "동원그룹은 고환율 부담이 이어진 가운데 매출 2조5300억원을 기록했다. 이번 실적은 환율 압박 속에서도 매출 규모를 유지한 사례로 주목된다.",
+        "body": "동원그룹이 고환율 부담에도 매출 2조5300억원을 기록했다. 누가, 무엇을, 왜의 관점에서 보면 동원그룹은 환율 상승에 따른 비용 압박이 있는 상황에서도 매출 규모를 확보한 것으로 보도됐다. 이번 수치는 고환율이 기업 실적에 부담으로 작용하는 가운데 나온 매출 성과라는 점에서 의미가 있다. 다만 원문에 이익, 세부 사업별 실적, 향후 목표 등 추가 수치는 제시되지 않았다. 시장에서는 환율 흐름이 계속 실적 변수로 작용할 수 있는 만큼 매출 방어 여부가 향후 관전 포인트가 될 수 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Dongwon Group Posts KRW 2.53 Trillion Revenue Despite High FX Burden",
+        "excerpt": "Dongwon Group recorded revenue of KRW 2.53 trillion despite pressure from high exchange rates, drawing attention to its sales performance under cost headwinds.",
+        "body": "Dongwon Group recorded revenue of KRW 2.53 trillion despite the burden of high exchange rates. In terms of who, what and why, the report says Dongwon Group secured this sales figure while facing cost pressure linked to currency movements. The figure is notable because it came at a time when elevated exchange rates are weighing on corporate results. The original information did not provide additional figures on profit, business-unit performance or future targets. As exchange-rate conditions may remain an earnings variable, whether the company can continue defending revenue will be a key point to watch. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "東遠グループ、ウォン安負担の中で売上高2兆5300億ウォンを記録",
+        "excerpt": "東遠グループは高い為替負担が続く中、売上高2兆5300億ウォンを記録した。為替圧力下でも売上規模を確保した点が注目される。",
+        "body": "東遠グループが、高い為替負担にもかかわらず売上高2兆5300億ウォンを記録した。誰が、何を、なぜという観点では、同社は為替上昇に伴うコスト圧力がある状況でも売上規模を確保したと報じられた。今回の数値は、高為替が企業業績の負担要因となる中で示された売上実績という点で意味がある。ただし原文では、利益、事業別の詳細実績、今後の目標など追加の数値は示されていない。為替の流れが今後も業績変数となり得るため、売上を守れるかが注目点となる。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "东远集团营收达2.53万亿韩元，高汇率压力下仍受关注",
+        "excerpt": "东远集团在高汇率压力持续的情况下，实现营收2.53万亿韩元。该业绩显示其在汇率成本压力下仍维持了销售规模。",
+        "body": "东远集团在高汇率负担下仍实现营收2.53万亿韩元。从谁、做了什么、为何重要来看，报道显示，东远集团在汇率上升带来成本压力的情况下，仍确保了这一销售规模。该数据之所以受到关注，是因为它出现在高汇率继续对企业业绩形成压力的背景下。不过，原文未提供利润、各业务部门表现或未来目标等追加数据。由于汇率走势仍可能成为业绩变量，企业能否继续守住营收规模，将是后续观察重点。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Dongwon Group alcanza 2,53 billones de wones pese a la presión cambiaria",
+        "excerpt": "Dongwon Group registró ingresos de 2,53 billones de wones pese a la carga de un tipo de cambio elevado, un dato relevante bajo presión de costos.",
+        "body": "Dongwon Group registró ingresos de 2,53 billones de wones pese a la carga derivada de los altos tipos de cambio. Desde la perspectiva de quién, qué y por qué, el reporte indica que la compañía aseguró ese volumen de ventas en un contexto de presión de costos vinculada al tipo de cambio. La cifra destaca porque se produjo mientras el alto nivel cambiario sigue actuando como factor de presión para los resultados empresariales. El texto original no entregó datos adicionales sobre ganancias, desempeño por unidades de negocio ni objetivos futuros. Si el tipo de cambio continúa influyendo en los resultados, la defensa de los ingresos será un punto clave. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Dongwon Group registra 2,53 trilhões de won em receita apesar do câmbio",
+        "excerpt": "O Dongwon Group registrou receita de 2,53 trilhões de won mesmo com a pressão de câmbio elevado, destacando a manutenção das vendas no período.",
+        "body": "O Dongwon Group registrou receita de 2,53 trilhões de won apesar do peso de taxas de câmbio elevadas. Em termos de quem, o quê e por quê, a reportagem aponta que o grupo garantiu esse volume de vendas em um ambiente de pressão de custos ligada ao câmbio. O número chama atenção porque foi divulgado em um contexto no qual o câmbio alto pesa sobre os resultados corporativos. O texto original não apresentou dados adicionais sobre lucro, desempenho por área de negócio ou metas futuras. Como o câmbio pode seguir como variável para os resultados, a capacidade de preservar a receita será um ponto de acompanhamento. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Dongwon Group erzielt 2,53 Bio. Won Umsatz trotz hoher Wechselkurslast",
+        "excerpt": "Dongwon Group erzielte trotz Belastungen durch hohe Wechselkurse einen Umsatz von 2,53 Billionen Won. Der Umsatz steht im Fokus, da Kostendruck anhält.",
+        "body": "Dongwon Group hat trotz der Belastung durch hohe Wechselkurse einen Umsatz von 2,53 Billionen Won erzielt. Aus Sicht von wer, was und warum zeigt der Bericht, dass das Unternehmen dieses Umsatzvolumen in einer Lage sichern konnte, in der Wechselkursbewegungen Kostendruck verursachen. Die Zahl ist bemerkenswert, weil sie in einem Umfeld veröffentlicht wurde, in dem hohe Wechselkurse die Ergebnisse von Unternehmen belasten. Der Originaltext enthält keine weiteren Angaben zu Gewinn, einzelnen Geschäftsbereichen oder künftigen Zielen. Da Wechselkurse weiter ein Ergebnisfaktor bleiben können, wird die Stabilisierung des Umsatzes ein wichtiger Beobachtungspunkt sein. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Dongwon Group atteint 2 530 milliards de wons malgré la pression du change",
+        "excerpt": "Dongwon Group a enregistré un chiffre d’affaires de 2 530 milliards de wons malgré le poids d’un taux de change élevé, un signal suivi de près.",
+        "body": "Dongwon Group a enregistré un chiffre d’affaires de 2 530 milliards de wons malgré la charge liée à des taux de change élevés. Sous l’angle du qui, quoi et pourquoi, le reportage indique que le groupe a préservé ce niveau de ventes alors que les mouvements de change exerçaient une pression sur les coûts. Ce chiffre retient l’attention car il intervient dans un contexte où le change élevé pèse sur les performances des entreprises. Le texte d’origine ne fournit pas d’autres données sur le bénéfice, les résultats par activité ou les objectifs futurs. Si le change reste une variable de résultat, la capacité à défendre le chiffre d’affaires sera à suivre. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "مجموعة دونغوون تسجل إيرادات 2.53 تريليون وون رغم ضغط الصرف",
+        "excerpt": "سجلت مجموعة دونغوون إيرادات قدرها 2.53 تريليون وون رغم عبء أسعار الصرف المرتفعة، ما يسلط الضوء على قدرتها على الحفاظ على حجم المبيعات.",
+        "body": "سجلت مجموعة دونغوون إيرادات بلغت 2.53 تريليون وون رغم العبء الناتج عن ارتفاع أسعار الصرف. ومن زاوية من فعل ماذا ولماذا، يشير التقرير إلى أن المجموعة حافظت على هذا الحجم من المبيعات في ظل ضغوط تكلفة مرتبطة بتحركات العملة. وتكتسب هذه الأرقام أهمية لأنها جاءت في وقت يشكل فيه ارتفاع سعر الصرف عاملا ضاغطا على نتائج الشركات. ولم تقدم المادة الأصلية أرقاما إضافية عن الأرباح أو أداء وحدات الأعمال أو الأهداف المستقبلية. وبما أن حركة الصرف قد تبقى متغيرا مؤثرا في النتائج، فإن قدرة الشركة على الدفاع عن الإيرادات ستظل نقطة متابعة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Dongwon Group की आय 2.53 ट्रिलियन वॉन, ऊंची विनिमय दरों के बावजूद",
+        "excerpt": "Dongwon Group ने ऊंची विनिमय दरों के दबाव के बावजूद 2.53 ट्रिलियन वॉन की आय दर्ज की। लागत दबाव के बीच बिक्री स्तर बनाए रखना ध्यान में है।",
+        "body": "Dongwon Group ने ऊंची विनिमय दरों के बोझ के बावजूद 2.53 ट्रिलियन वॉन की आय दर्ज की। कौन, क्या और क्यों के संदर्भ में, रिपोर्ट बताती है कि कंपनी ने मुद्रा विनिमय से जुड़े लागत दबाव के माहौल में भी यह बिक्री स्तर सुरक्षित किया। यह आंकड़ा इसलिए महत्वपूर्ण है क्योंकि ऊंची विनिमय दरें कंपनियों के नतीजों पर दबाव डाल रही हैं। मूल जानकारी में लाभ, अलग-अलग कारोबार इकाइयों के प्रदर्शन या भविष्य के लक्ष्यों से जुड़े अतिरिक्त आंकड़े नहीं दिए गए। यदि विनिमय दरों की चाल आगे भी नतीजों को प्रभावित करती रही, तो आय को बनाए रखने की क्षमता प्रमुख निगरानी बिंदु रहेगी। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Dongwon Group Catat Pendapatan 2,53 Triliun Won di Tengah Beban Kurs",
+        "excerpt": "Dongwon Group mencatat pendapatan 2,53 triliun won meski terbebani kurs tinggi, sehingga kinerja penjualan di tengah tekanan biaya menjadi sorotan.",
+        "body": "Dongwon Group mencatat pendapatan sebesar 2,53 triliun won meski menghadapi beban kurs yang tinggi. Dari sisi siapa, apa, dan mengapa, laporan menyebut perusahaan tetap mengamankan skala penjualan tersebut di tengah tekanan biaya yang terkait pergerakan nilai tukar. Angka ini menjadi perhatian karena muncul saat kurs tinggi menjadi faktor yang membebani kinerja perusahaan. Informasi asli tidak menyebutkan angka tambahan mengenai laba, kinerja per lini bisnis, atau target ke depan. Karena arah kurs masih dapat menjadi variabel bagi hasil usaha, kemampuan mempertahankan pendapatan akan menjadi poin pengamatan berikutnya. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "a1650ee4be21",
+    "slug": "참치식품-부진했는데도동원그룹-영업익-17-늘어난-이유-293326",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T18:11:04.358Z",
+    "updatedAt": "2026-05-09T18:11:04.358Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605084703i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605084703i",
+    "titleFingerprint": "ad9f068e1422eaad79ac15f06f6c04e5d14602ae",
+    "dedupKeys": [
+      "a1650ee4be216fedd067ead9da9bd908540f4698",
+      "ad9f068e1422eaad79ac15f06f6c04e5d14602ae",
+      "c35bf931d63990d44fec58e4b184f677560dd633"
+    ],
+    "imageUrl": "/images/articles/a1650ee4be21.jpg",
+    "i18n": {
+      "ko": {
+        "title": "동원그룹 영업익 17% 증가, 참치·식품 부진 넘긴 B2B 효과",
+        "excerpt": "동원그룹 사업 지주사 동원산업은 2026년 1분기 매출 2조5300억원, 영업이익 1462억원을 기록하며 수산·식품 부진에도 B2B 성장으로 수익성을 방어했다.",
+        "body": "동원그룹 사업 지주사 동원산업은 8일 공시를 통해 2026년 1분기 연결 기준 매출 2조5300억원, 영업이익 1462억원을 기록했다고 밝혔다. 전년 동기 대비 매출은 9.1%, 영업이익은 17.1% 증가했다. 고환율과 원자재 수급 불안, 내수 침체로 수산·식품 부문 수익성은 약화됐다. 동원산업 별도 기준 매출은 2958억원으로 7.8% 줄고 영업이익은 666억원으로 35.7% 감소했다. 동원F&B도 매출은 소폭 늘었지만 원가 부담과 오프라인 경쟁 심화로 영업이익이 6% 이상 줄었다. 반면 동원홈푸드는 식자재·축산물 유통 신규 거래처와 조미사업 성장으로 전 부문이 성장했다. 동원시스템즈는 연포장재와 식품캔 등 고부가 제품 수출 확대로 매출 3378억원, 영업이익 130억원을 냈다. 동원로엑스와 동원건설산업도 신규 물량과 수주 효과로 두 자릿수 성장했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Dongwon Group Operating Profit Rises 17% as B2B Offsets Tuna and Food Weakness",
+        "excerpt": "Dongwon Industries, Dongwon Group’s holding company, posted Q1 2026 sales of 2.53 trillion won and operating profit of 146.2 billion won as B2B growth offset weaker fisheries and food units.",
+        "body": "Dongwon Industries, the business holding company of Dongwon Group, said in a May 8 filing that its consolidated sales reached 2.53 trillion won and operating profit 146.2 billion won in the first quarter of 2026. Sales rose 9.1% and operating profit increased 17.1% from a year earlier. Profitability in fisheries and food weakened because of the strong dollar, unstable raw-material supply and sluggish domestic demand. On a separate basis, Dongwon Industries’ sales fell 7.8% to 295.8 billion won and operating profit dropped 35.7% to 66.6 billion won. Dongwon F&B’s sales edged up, but operating profit fell more than 6% due to cost pressure and tougher offline competition. By contrast, Dongwon Home Food grew across all businesses, helped by new food-material and livestock distribution clients and seasoning growth. Dongwon Systems posted sales of 337.8 billion won and operating profit of 13.0 billion won on exports of higher-value flexible packaging and food cans. Dongwon LOEX and Dongwon Construction Industries also delivered double-digit growth on new volume and orders. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "東遠グループ営業益17％増、マグロ・食品不振をB2Bが補う",
+        "excerpt": "東遠グループの事業持株会社、東遠産業は2026年1〜3月期に売上高2兆5300億ウォン、営業利益1462億ウォンを記録し、水産・食品の不振をB2B成長で補った。",
+        "body": "東遠グループの事業持株会社である東遠産業は8日の公示で、2026年1〜3月期の連結売上高が2兆5300億ウォン、営業利益が1462億ウォンだったと発表した。前年同期比で売上高は9.1％、営業利益は17.1％増加した。高為替、原材料需給の不安、内需低迷により、水産・食品部門の収益性は弱まった。東遠産業単体では売上高が2958億ウォンで7.8％減、営業利益は666億ウォンで35.7％減少した。東遠F&Bも売上高は小幅に増えたが、原価負担とオフライン競争の激化で営業利益が6％超減った。一方、東遠ホームフードは食材・畜産物流通の新規取引先拡大と調味事業の成長で全事業が伸びた。東遠システムズは軟包装材や食品缶など高付加価値製品の輸出拡大により、売上高3378億ウォン、営業利益130億ウォンを計上した。東遠LOEXと東遠建設産業も新規物量と受注効果で二桁成長した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "东远集团营业利润增17%，B2B抵消金枪鱼与食品疲软",
+        "excerpt": "东远集团事业控股公司东远产业2026年一季度实现销售额2.53万亿韩元、营业利润1462亿韩元，B2B增长抵消了水产和食品业务走弱。",
+        "body": "东远集团事业控股公司东远产业在8日公告称，2026年第一季度合并口径销售额为2.53万亿韩元，营业利润为1462亿韩元。销售额同比增长9.1%，营业利润增长17.1%。受高汇率、原材料供应不稳和内需低迷影响，水产和食品板块盈利能力减弱。东远产业单体口径销售额为2958亿韩元，同比下降7.8%；营业利润为666亿韩元，下降35.7%。东远F&B销售额小幅增加，但因成本压力和线下竞争加剧，营业利润下降超过6%。相反，东远Home Food在食材和畜产品流通新增客户、调味业务增长带动下，全业务线实现增长。东远Systems受益于软包装材料、食品罐等高附加值产品出口扩大，录得销售额3378亿韩元、营业利润130亿韩元。东远LOEX和东远建设产业也因新增货量和工程订单实现两位数增长。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Dongwon gana 17% más pese a la debilidad del atún y alimentos por el impulso B2B",
+        "excerpt": "Dongwon Industries, holding operativo de Dongwon Group, registró en el primer trimestre de 2026 ventas de 2,53 billones de wones y beneficio operativo de 146.200 millones gracias al B2B.",
+        "body": "Dongwon Industries, holding operativo de Dongwon Group, informó en una comunicación del 8 de mayo que sus ventas consolidadas del primer trimestre de 2026 fueron de 2,53 billones de wones y su beneficio operativo de 146.200 millones de wones. Las ventas crecieron un 9,1% interanual y el beneficio operativo un 17,1%. La rentabilidad de pesca y alimentación se debilitó por el tipo de cambio elevado, la inestabilidad en materias primas y la floja demanda interna. En cifras separadas, Dongwon Industries facturó 295.800 millones de wones, un 7,8% menos, y su beneficio operativo bajó un 35,7% hasta 66.600 millones. Dongwon F&B elevó ligeramente las ventas, pero su beneficio operativo cayó más del 6% por costes y mayor competencia offline. En cambio, Dongwon Home Food creció en todas sus áreas por nuevos clientes en distribución de insumos alimentarios y ganado, además del negocio de condimentos. Dongwon Systems registró ventas de 337.800 millones de wones y beneficio operativo de 13.000 millones por exportaciones de envases flexibles y latas alimentarias de mayor valor. Dongwon LOEX y Dongwon Construction Industries también crecieron a doble dígito por nuevos volúmenes y pedidos. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Lucro operacional da Dongwon sobe 17% com B2B apesar de atum e alimentos fracos",
+        "excerpt": "A Dongwon Industries, holding operacional do Dongwon Group, registrou no 1º trimestre de 2026 receita de 2,53 trilhões de won e lucro operacional de 146,2 bilhões, apoiada pelo B2B.",
+        "body": "A Dongwon Industries, holding operacional do Dongwon Group, informou em comunicado de 8 de maio que registrou receita consolidada de 2,53 trilhões de won e lucro operacional de 146,2 bilhões de won no primeiro trimestre de 2026. A receita subiu 9,1% e o lucro operacional avançou 17,1% ante o ano anterior. A rentabilidade em pesca e alimentos enfraqueceu por causa do câmbio elevado, da instabilidade no fornecimento de matérias-primas e da demanda doméstica fraca. Em base individual, a receita da Dongwon Industries caiu 7,8%, para 295,8 bilhões de won, e o lucro operacional recuou 35,7%, para 66,6 bilhões. A Dongwon F&B teve leve alta de receita, mas o lucro operacional caiu mais de 6% por pressão de custos e competição offline mais intensa. Já a Dongwon Home Food cresceu em todos os negócios, com novos clientes em distribuição de insumos alimentares e carnes e avanço em temperos. A Dongwon Systems teve receita de 337,8 bilhões de won e lucro operacional de 13,0 bilhões com exportações de embalagens flexíveis e latas alimentícias de maior valor. Dongwon LOEX e Dongwon Construction Industries também cresceram dois dígitos com novos volumes e encomendas. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Dongwon steigert Betriebsgewinn um 17%, B2B gleicht Schwäche bei Thunfisch und Food aus",
+        "excerpt": "Dongwon Industries, die operative Holding der Dongwon Group, erzielte im ersten Quartal 2026 2,53 Billionen Won Umsatz und 146,2 Milliarden Won Betriebsgewinn dank B2B-Wachstum.",
+        "body": "Dongwon Industries, die operative Holding der Dongwon Group, teilte in einer Mitteilung vom 8. Mai mit, dass der Konzernumsatz im ersten Quartal 2026 bei 2,53 Billionen Won und der Betriebsgewinn bei 146,2 Milliarden Won lag. Der Umsatz stieg gegenüber dem Vorjahr um 9,1%, der Betriebsgewinn um 17,1%. Die Profitabilität in Fischerei und Lebensmitteln wurde durch hohe Wechselkurse, unsichere Rohstoffversorgung und schwache Inlandsnachfrage belastet. Auf Einzelbasis sank der Umsatz von Dongwon Industries um 7,8% auf 295,8 Milliarden Won, der Betriebsgewinn fiel um 35,7% auf 66,6 Milliarden Won. Dongwon F&B steigerte den Umsatz leicht, doch der Betriebsgewinn ging wegen Kostendrucks und stärkerem Offline-Wettbewerb um mehr als 6% zurück. Dagegen wuchs Dongwon Home Food in allen Bereichen, gestützt auf neue Kunden in Lebensmittel- und Viehdistribution sowie Wachstum bei Würzprodukten. Dongwon Systems erzielte mit Exporten höherwertiger flexibler Verpackungen und Lebensmitteldosen 337,8 Milliarden Won Umsatz und 13,0 Milliarden Won Betriebsgewinn. Auch Dongwon LOEX und Dongwon Construction Industries wuchsen dank neuer Volumina und Aufträge zweistellig. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Dongwon augmente son résultat opérationnel de 17%, le B2B compense l’atonie du thon et de l’alimentaire",
+        "excerpt": "Dongwon Industries, holding opérationnelle de Dongwon Group, a réalisé au T1 2026 un chiffre d’affaires de 2,53 billions de wons et un résultat opérationnel de 146,2 milliards grâce au B2B.",
+        "body": "Dongwon Industries, holding opérationnelle de Dongwon Group, a annoncé dans un dépôt du 8 mai un chiffre d’affaires consolidé de 2,53 billions de wons et un résultat opérationnel de 146,2 milliards de wons au premier trimestre 2026. Les ventes ont progressé de 9,1% sur un an et le résultat opérationnel de 17,1%. La rentabilité de la pêche et de l’alimentaire s’est affaiblie sous l’effet d’un taux de change élevé, de tensions sur les matières premières et d’une demande intérieure atone. En données séparées, les ventes de Dongwon Industries ont reculé de 7,8% à 295,8 milliards de wons et le résultat opérationnel de 35,7% à 66,6 milliards. Dongwon F&B a légèrement augmenté ses ventes, mais son résultat opérationnel a baissé de plus de 6% à cause des coûts et d’une concurrence offline plus forte. À l’inverse, Dongwon Home Food a progressé dans toutes ses activités grâce à de nouveaux clients dans la distribution alimentaire et de bétail, ainsi qu’à la croissance des assaisonnements. Dongwon Systems a réalisé 337,8 milliards de wons de ventes et 13,0 milliards de résultat opérationnel grâce aux exportations d’emballages souples et de boîtes alimentaires à forte valeur ajoutée. Dongwon LOEX et Dongwon Construction Industries ont aussi enregistré une croissance à deux chiffres grâce aux nouveaux volumes et commandes. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أرباح دونغ وون التشغيلية ترتفع 17% رغم ضعف التونة والأغذية بدعم B2B",
+        "excerpt": "سجلت دونغ وون إندستريز، شركة القابضة التشغيلية لمجموعة دونغ وون، في الربع الأول 2026 مبيعات 2.53 تريليون وون وأرباحا تشغيلية 146.2 مليار وون بدعم أعمال الشركات.",
+        "body": "أعلنت دونغ وون إندستريز، الشركة القابضة التشغيلية لمجموعة دونغ وون، في إفصاح بتاريخ 8 مايو أن مبيعاتها الموحدة في الربع الأول من 2026 بلغت 2.53 تريليون وون، وأن الأرباح التشغيلية بلغت 146.2 مليار وون. وارتفعت المبيعات 9.1% على أساس سنوي، وزادت الأرباح التشغيلية 17.1%. تراجعت ربحية قطاعي المصايد والأغذية بسبب ارتفاع سعر الصرف، واضطراب إمدادات المواد الخام، وضعف الطلب المحلي. وعلى أساس منفرد، انخفضت مبيعات دونغ وون إندستريز 7.8% إلى 295.8 مليار وون، وهبطت الأرباح التشغيلية 35.7% إلى 66.6 مليار وون. كما زادت مبيعات دونغ وون F&B بشكل طفيف، لكن أرباحها التشغيلية انخفضت بأكثر من 6% بفعل ضغوط التكلفة واحتدام المنافسة خارج الإنترنت. في المقابل، نمت دونغ وون هوم فود في جميع الأنشطة بفضل عملاء جدد في توزيع المواد الغذائية والماشية ونمو أعمال التوابل. وسجلت دونغ وون سيستمز مبيعات 337.8 مليار وون وأرباحا تشغيلية 13.0 مليار وون مع توسع صادرات العبوات المرنة وعلب الأغذية عالية القيمة. كما حققت دونغ وون LOEX ودونغ وون للإنشاءات نموا من رقمين بفضل أحجام وشحنات وطلبات جديدة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Dongwon का परिचालन लाभ 17% बढ़ा, ट्यूना और खाद्य कमजोरी की भरपाई B2B ने की",
+        "excerpt": "Dongwon Group की होल्डिंग कंपनी Dongwon Industries ने 2026 की पहली तिमाही में 2.53 ट्रिलियन वॉन बिक्री और 146.2 बिलियन वॉन परिचालन लाभ दर्ज किया, B2B वृद्धि सहारा बनी।",
+        "body": "Dongwon Group की बिजनेस होल्डिंग कंपनी Dongwon Industries ने 8 मई की फाइलिंग में बताया कि 2026 की पहली तिमाही में उसका समेकित राजस्व 2.53 ट्रिलियन वॉन और परिचालन लाभ 146.2 बिलियन वॉन रहा। सालाना आधार पर बिक्री 9.1% और परिचालन लाभ 17.1% बढ़ा। ऊंची विनिमय दर, कच्चे माल की आपूर्ति में अस्थिरता और कमजोर घरेलू मांग के कारण मत्स्य और खाद्य क्षेत्रों की लाभप्रदता घटी। अलग आधार पर Dongwon Industries की बिक्री 7.8% घटकर 295.8 बिलियन वॉन रही और परिचालन लाभ 35.7% गिरकर 66.6 बिलियन वॉन रह गया। Dongwon F&B की बिक्री थोड़ी बढ़ी, लेकिन लागत दबाव और ऑफलाइन प्रतिस्पर्धा तेज होने से परिचालन लाभ 6% से अधिक घटा। इसके उलट, Dongwon Home Food ने खाद्य सामग्री और पशुधन वितरण में नए ग्राहकों तथा सीजनिंग कारोबार की वृद्धि से सभी क्षेत्रों में विस्तार किया। Dongwon Systems ने उच्च मूल्य वाले फ्लेक्सिबल पैकेजिंग और फूड कैन निर्यात से 337.8 बिलियन वॉन बिक्री और 13.0 बिलियन वॉन परिचालन लाभ दर्ज किया। Dongwon LOEX और Dongwon Construction Industries ने भी नए वॉल्यूम और ऑर्डर के कारण दो अंकों की वृद्धि हासिल की। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Laba Operasi Dongwon Naik 17%, B2B Tutupi Lemahnya Tuna dan Pangan",
+        "excerpt": "Dongwon Industries, induk usaha Dongwon Group, mencatat penjualan kuartal I 2026 sebesar 2,53 triliun won dan laba operasi 146,2 miliar won karena pertumbuhan B2B menahan tekanan bisnis perikanan dan pangan.",
+        "body": "Dongwon Industries, perusahaan induk usaha Dongwon Group, menyatakan dalam keterbukaan pada 8 Mei bahwa penjualan konsolidasi kuartal pertama 2026 mencapai 2,53 triliun won dan laba operasi 146,2 miliar won. Penjualan naik 9,1% dan laba operasi meningkat 17,1% dibanding tahun sebelumnya. Profitabilitas sektor perikanan dan pangan melemah akibat kurs tinggi, ketidakpastian pasokan bahan baku, dan lesunya permintaan domestik. Secara terpisah, penjualan Dongwon Industries turun 7,8% menjadi 295,8 miliar won, sementara laba operasi merosot 35,7% menjadi 66,6 miliar won. Dongwon F&B mencatat sedikit kenaikan penjualan, tetapi laba operasi turun lebih dari 6% karena tekanan biaya dan persaingan offline yang makin ketat. Sebaliknya, Dongwon Home Food tumbuh di seluruh lini berkat pelanggan baru distribusi bahan pangan dan ternak serta pertumbuhan bisnis bumbu. Dongwon Systems membukukan penjualan 337,8 miliar won dan laba operasi 13,0 miliar won dari ekspor kemasan fleksibel dan kaleng pangan bernilai tambah tinggi. Dongwon LOEX dan Dongwon Construction Industries juga tumbuh dua digit berkat volume baru dan pesanan proyek. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "81aefa71cada",
     "slug": "bts-보러-왔어요외국인-지갑-열자-여행수지-11년만-흑자-337082",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Target harga Doosan Fuel Cell naik berkat kebutuhan listrik data center AI",
         "excerpt": "Doosan Fuel Cell mencatat rugi operasi 1,3 miliar won pada kuartal I, tetapi kerugiannya jauh lebih kecil dari perkiraan pasar dan menarik perhatian karena harapan pesanan PAFC data center Amerika Utara.",
         "body": "Doosan Fuel Cell membukukan rugi operasi 1,3 miliar won pada kuartal pertama tahun ini, namun angka tersebut jauh lebih kecil dari perkiraan pasar sehingga sejumlah target harga dinaikkan. Di tengah tren kecerdasan buatan global, perusahaan teknologi besar berupaya mengamankan listrik untuk data center, sementara harapan pesanan PAFC untuk data center di Amerika Utara meningkat. Meski perusahaan masih merugi, investor menyoroti perbaikan kinerja dan potensi manfaat dari kekurangan pasokan listrik. Fokus berikutnya adalah apakah pesanan terkait data center Amerika Utara benar-benar berubah menjadi kinerja keuangan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "641b546f40cc",
-    "slug": "전국-공동주택-공시가-40-서울-집중서울에선-이-지역이-단연-947882",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T09:37:44.816Z",
-    "updatedAt": "2026-05-09T09:37:44.816Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12042352",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042352",
-    "titleFingerprint": "63460457c8013dbc511a048e1b350b4a549a3c8c",
-    "dedupKeys": [
-      "641b546f40ccf6475cfb8bed9add8e156bbdbebf",
-      "63460457c8013dbc511a048e1b350b4a549a3c8c",
-      "307b4fa67f371ce3344522715500c250545b300b"
-    ],
-    "imageUrl": "/images/articles/641b546f40cc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전국 공동주택 공시가격 40% 서울 집중, 강남3구 아파트 비중 압도",
-        "excerpt": "올해 전국 공동주택 공시가격 총액은 4530조8419억원으로 집계됐고, 이 중 약 40%가 서울에 집중된 것으로 나타났다. 가구당 평균은 2억856만원 수준이다.",
-        "body": "올해 전국 공동주택 공시가격 총액이 4530조8419억원으로 집계되며 서울 집중 현상이 두드러진 것으로 나타났다. 전국 기준 1가구당 평균 공시가격은 2억856만원 수준이다. 원문에 따르면 전국 공동주택 공시총액의 약 40%가 서울에 몰려 있으며, 서울 안에서도 지역별 주택 유형 차이가 뚜렷했다. 강남3구는 공시총액의 89%가 아파트에서 나와 아파트 비중이 압도적으로 높았다. 반면 비강남권은 빌라 비율이 상대적으로 높은 것으로 제시됐다. 이 같은 공시가격 구조는 서울 내 자산 분포와 주택 유형별 격차를 보여주는 지표로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul Holds 40% of Korea’s Apartment Posted Value, Gangnam 3 Districts Lead",
-        "excerpt": "This year’s total posted value of apartment housing nationwide reached 4,530.8419 trillion won, with about 40% concentrated in Seoul and the average per household at 208.56 million won.",
-        "body": "This year, the total posted value of apartment housing nationwide was tallied at 4,530.8419 trillion won, showing a clear concentration in Seoul. The national average posted value per household stood at about 208.56 million won. According to the original report, roughly 40% of the nationwide total posted value was concentrated in Seoul, while differences by housing type were also evident within the capital. In the Gangnam 3 districts, apartments accounted for 89% of the posted value total, showing an overwhelming apartment share. In non-Gangnam areas, by contrast, the share of villas was relatively higher. This structure of posted values indicates differences in asset distribution and housing types across Seoul. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "全国共同住宅公示価格の40％がソウル集中、江南3区はマンション圧倒",
-        "excerpt": "今年の全国共同住宅の公示価格総額は4530兆8419億ウォンとなり、約40％がソウルに集中した。1世帯当たり平均は2億856万ウォン水準だった。",
-        "body": "今年の全国共同住宅の公示価格総額は4530兆8419億ウォンと集計され、ソウルへの集中が目立つ結果となった。全国基準の1世帯当たり平均公示価格は2億856万ウォン水準だ。原文によると、全国共同住宅の公示総額の約40％がソウルに集まっており、ソウル内でも地域別に住宅タイプの違いがはっきり表れた。江南3区では公示総額の89％がマンションで、マンション比率が圧倒的に高かった。一方、非江南圏ではヴィラの比率が相対的に高いと示された。こうした公示価格の構造は、ソウル内の資産分布と住宅タイプ別の差を示す指標といえる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国共同住宅公示价四成集中首尔，江南三区公寓占比突出",
-        "excerpt": "今年韩国全国共同住宅公示价格总额为4530万亿8419亿韩元，其中约40%集中在首尔，户均公示价约为2亿856万韩元。",
-        "body": "今年韩国全国共同住宅公示价格总额统计为4530万亿8419亿韩元，首尔集中现象明显。按全国口径计算，每户平均公示价格约为2亿856万韩元。原文显示，全国共同住宅公示总额中约40%集中在首尔，而首尔内部不同地区的住宅类型差异也十分清晰。江南三区公示总额的89%来自公寓，公寓占比具有压倒性优势。相比之下，非江南地区的多户住宅、别墅比例相对较高。这样的公示价格结构反映出首尔内部资产分布和不同住宅类型之间的差异。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Seúl concentra el 40% del valor fiscal de viviendas colectivas en Corea",
-        "excerpt": "El valor fiscal total de las viviendas colectivas en Corea alcanzó este año 4.530,8419 billones de wones; cerca del 40% se concentró en Seúl y el promedio por hogar fue de 208,56 millones.",
-        "body": "Este año, el valor fiscal total de las viviendas colectivas en Corea se situó en 4.530,8419 billones de wones, con una clara concentración en Seúl. El promedio nacional por hogar fue de unos 208,56 millones de wones. Según el informe original, alrededor del 40% del total nacional se concentró en Seúl, y dentro de la capital también se observaron diferencias claras por tipo de vivienda. En los tres distritos de Gangnam, los apartamentos representaron el 89% del valor fiscal total, una proporción dominante. En cambio, en las zonas fuera de Gangnam, la proporción de villas fue relativamente más alta. Esta estructura muestra diferencias en la distribución de activos y en los tipos de vivienda dentro de Seúl. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Seul concentra 40% do valor oficial de moradias coletivas da Coreia",
-        "excerpt": "O valor oficial total das moradias coletivas na Coreia somou 4.530,8419 trilhões de won neste ano; cerca de 40% ficou em Seul, com média de 208,56 milhões por domicílio.",
-        "body": "Neste ano, o valor oficial total das moradias coletivas na Coreia foi calculado em 4.530,8419 trilhões de won, evidenciando forte concentração em Seul. A média nacional por domicílio ficou em cerca de 208,56 milhões de won. Segundo o texto original, aproximadamente 40% do total nacional está concentrado em Seul, enquanto as diferenças por tipo de moradia dentro da capital também ficaram claras. Nos três distritos de Gangnam, os apartamentos responderam por 89% do valor oficial total, mostrando participação predominante. Já nas áreas fora de Gangnam, a proporção de vilas foi relativamente maior. Essa estrutura indica diferenças na distribuição de ativos e nos tipos de moradia em Seul. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Seoul bündelt 40% der amtlichen Wohnungswerte, Gangnam-3 dominiert",
-        "excerpt": "Der amtliche Gesamtwert gemeinschaftlicher Wohnimmobilien in Korea lag dieses Jahr bei 4.530,8419 Billionen Won; rund 40% entfielen auf Seoul, im Schnitt 208,56 Millionen Won je Haushalt.",
-        "body": "Der amtliche Gesamtwert gemeinschaftlicher Wohnimmobilien in Korea wurde in diesem Jahr auf 4.530,8419 Billionen Won beziffert, wobei sich eine deutliche Konzentration auf Seoul zeigt. Im landesweiten Durchschnitt lag der Wert je Haushalt bei rund 208,56 Millionen Won. Dem Originalbericht zufolge entfielen etwa 40% des nationalen Gesamtwerts auf Seoul, und auch innerhalb der Hauptstadt traten klare Unterschiede nach Wohnform hervor. In den drei Gangnam-Bezirken machten Apartments 89% des amtlichen Gesamtwerts aus und dominierten damit klar. In Nicht-Gangnam-Gebieten war der Anteil von Villen dagegen relativ höher. Diese Struktur zeigt Unterschiede bei Vermögensverteilung und Wohnformen innerhalb Seouls. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Séoul concentre 40% de la valeur cadastrale des logements collectifs coréens",
-        "excerpt": "La valeur cadastrale totale des logements collectifs en Corée a atteint cette année 4 530,8419 billions de wons, dont environ 40% à Séoul, avec une moyenne de 208,56 millions par foyer.",
-        "body": "Cette année, la valeur cadastrale totale des logements collectifs en Corée a été estimée à 4 530,8419 billions de wons, révélant une forte concentration à Séoul. La moyenne nationale par foyer s’établit à environ 208,56 millions de wons. Selon le texte original, près de 40% du total national est concentré dans la capitale, où les différences par type de logement sont également nettes. Dans les trois districts de Gangnam, les appartements représentent 89% de la valeur cadastrale totale, soit une part très dominante. À l’inverse, dans les zones hors Gangnam, la proportion de villas est relativement plus élevée. Cette structure met en évidence les écarts de répartition des actifs et de types de logements à Séoul. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سيول تستحوذ على 40% من القيمة المعلنة للمساكن المشتركة في كوريا",
-        "excerpt": "بلغ إجمالي السعر المعلن للمساكن المشتركة في كوريا هذا العام 4530.8419 تريليون وون، وتركز نحو 40% منه في سيول، بمتوسط 208.56 مليون وون لكل أسرة.",
-        "body": "سُجل إجمالي السعر المعلن للمساكن المشتركة في كوريا هذا العام عند 4530.8419 تريليون وون، ما يبرز تركّزاً واضحاً في سيول. وبلغ متوسط السعر المعلن لكل أسرة على المستوى الوطني نحو 208.56 مليون وون. ووفقاً للنص الأصلي، تركز حوالي 40% من إجمالي القيمة المعلنة للمساكن المشتركة في البلاد داخل سيول، كما ظهرت فروق واضحة في أنواع المساكن داخل العاصمة. ففي مناطق غانغنام الثلاث، شكّلت الشقق 89% من إجمالي القيمة المعلنة، وهي نسبة طاغية. أما في المناطق خارج غانغنام، فكانت نسبة الفيلات أعلى نسبياً. ويعكس هذا الهيكل فروقاً في توزيع الأصول وأنواع السكن داخل سيول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया के सामूहिक आवास घोषित मूल्य का 40% सियोल में केंद्रित",
-        "excerpt": "इस वर्ष कोरिया में सामूहिक आवासों का कुल घोषित मूल्य 4,530.8419 ट्रिलियन वॉन रहा, जिसमें करीब 40% सियोल में केंद्रित है और प्रति परिवार औसत 208.56 मिलियन वॉन है।",
-        "body": "इस वर्ष कोरिया में सामूहिक आवासों का कुल घोषित मूल्य 4,530.8419 ट्रिलियन वॉन आंका गया, जिससे सियोल में स्पष्ट केंद्रीकरण दिखा। राष्ट्रीय स्तर पर प्रति परिवार औसत घोषित मूल्य लगभग 208.56 मिलियन वॉन रहा। मूल रिपोर्ट के अनुसार, देश के सामूहिक आवासों के कुल घोषित मूल्य का करीब 40% सियोल में केंद्रित है, और राजधानी के भीतर भी आवास प्रकारों में क्षेत्रवार अंतर साफ दिखाई दिया। गंगनम के तीन जिलों में कुल घोषित मूल्य का 89% अपार्टमेंट से आया, जिससे अपार्टमेंट की हिस्सेदारी अत्यधिक रही। इसके विपरीत, गैर-गंगनम क्षेत्रों में विला का अनुपात अपेक्षाकृत अधिक बताया गया। यह संरचना सियोल में संपत्ति वितरण और आवास प्रकारों के अंतर को दिखाती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Seoul Menampung 40% Nilai Resmi Hunian Kolektif Korea, Gangnam Unggul",
-        "excerpt": "Total nilai resmi hunian kolektif Korea tahun ini mencapai 4.530,8419 triliun won; sekitar 40% terkonsentrasi di Seoul, dengan rata-rata 208,56 juta won per rumah tangga.",
-        "body": "Total nilai resmi hunian kolektif Korea tahun ini tercatat sebesar 4.530,8419 triliun won, menunjukkan konsentrasi yang kuat di Seoul. Rata-rata nasional per rumah tangga berada di kisaran 208,56 juta won. Menurut laporan asli, sekitar 40% dari total nilai resmi hunian kolektif nasional terkonsentrasi di Seoul, sementara perbedaan jenis hunian antarwilayah di ibu kota juga terlihat jelas. Di tiga distrik Gangnam, apartemen menyumbang 89% dari total nilai resmi, sehingga porsinya sangat dominan. Sebaliknya, di wilayah non-Gangnam, proporsi vila relatif lebih tinggi. Struktur nilai resmi ini menunjukkan perbedaan distribusi aset dan jenis hunian di Seoul. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ec7d071e73ee",
-    "slug": "만일-하늘-나라-간다면죽음문턱서-돌아온-유열이-공개한-유언장-647413",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T09:36:45.034Z",
-    "updatedAt": "2026-05-09T09:36:45.034Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12042354",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12042354",
-    "titleFingerprint": "9cd2e3ca61c809e96a5d60eb7243e90bd364431b",
-    "dedupKeys": [
-      "ec7d071e73ee4aa6bacda08d5aaaeb78f6e823d0",
-      "9cd2e3ca61c809e96a5d60eb7243e90bd364431b",
-      "2efcb59de70b4508a6a93ed50eca5af2d8d20148"
-    ],
-    "imageUrl": "/images/articles/ec7d071e73ee.jpg",
-    "i18n": {
-      "ko": {
-        "title": "유열 유언장 공개, 죽음 문턱서 남긴 마지막 글에 담긴 말",
-        "excerpt": "가수 유열이 2024년 8월 1일 새벽 죽음의 문턱에서 작성한 유언장이 tvN ‘유 퀴즈 온 더 블럭’ 9일 선공개 영상을 통해 공개됐다.",
-        "body": "가수 유열이 죽음의 문턱에서 남긴 마지막 글이 공개됐다. tvN ‘유 퀴즈 온 더 블럭’ 측은 9일 선공개 영상을 통해 유열이 2024년 8월 1일 새벽 작성한 유언장을 공개했다. 공개된 내용은 그가 위중한 순간에 남긴 글이라는 점에서 시청자들의 관심을 모았다. 이번 선공개 영상은 방송 전 유열의 사연과 당시 상황을 알리는 형식으로 소개됐다. 유언장이 작성된 시점은 2024년 8월 1일 새벽으로, 죽음의 문턱에서 마지막 글을 썼다는 설명이 함께 전해졌다. 유열의 고백은 방송 본편에서 더 자세히 다뤄질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Singer You Yeol’s Will Revealed, Final Words Written Near Death",
-        "excerpt": "Singer You Yeol’s will, written in the early hours of August 1, 2024 as he stood near death, was revealed in a May 9 preview clip for tvN’s ‘You Quiz on the Block.’",
-        "body": "Singer You Yeol’s final writing from the brink of death has been revealed. On May 9, tvN’s ‘You Quiz on the Block’ released a preview video showing the will You Yeol wrote in the early hours of August 1, 2024. The disclosed material drew attention because it was described as a message left during a critical moment. The preview introduced You Yeol’s story and the circumstances before the full broadcast. The will was written at dawn on August 1, 2024, with the program explaining that he wrote it while facing death. More of You Yeol’s account is expected to be covered in the main episode. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "歌手ユ・ヨルの遺言状公開、死の淵で残した最後の文章",
-        "excerpt": "歌手ユ・ヨルが2024年8月1日未明、死の淵で書いた遺言状が、9日に公開されたtvN『ユ・クイズ ON THE BLOCK』の先行映像で明かされた。",
-        "body": "歌手ユ・ヨルが死の淵で残した最後の文章が公開された。tvN『ユ・クイズ ON THE BLOCK』側は9日、先行公開映像を通じて、ユ・ヨルが2024年8月1日未明に作成した遺言状を公開した。公開された内容は、彼が危険な状況で残した文章と説明され、視聴者の関心を集めた。今回の先行映像は、本放送に先立ってユ・ヨルの事情と当時の状況を伝える形で紹介された。遺言状が書かれた時点は2024年8月1日未明で、死の淵で最後の文章を書いたという説明も添えられた。ユ・ヨルの告白は本編でさらに詳しく扱われる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "歌手柳烈遗书公开，死门关前写下的最后文字引关注",
-        "excerpt": "歌手柳烈在2024年8月1日凌晨、徘徊死亡边缘时写下的遗书，于9日通过tvN《刘Quiz On The Block》预公开视频公开。",
-        "body": "歌手柳烈在死亡边缘留下的最后文字被公开。tvN《刘Quiz On The Block》方面9日通过预公开视频，公开了柳烈于2024年8月1日凌晨写下的遗书。公开内容因被介绍为他在危急时刻留下的文字而受到观众关注。此次预热视频以正式播出前介绍柳烈的故事和当时情况的形式呈现。遗书的 작성 时间为2024年8月1日凌晨，节目同时说明他是在死亡门槛前写下最后文字。柳烈的告白预计将在正片中进一步展开。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Revelan el testamento de You Yeol, escrito al borde de la muerte",
-        "excerpt": "El testamento del cantante You Yeol, escrito en la madrugada del 1 de agosto de 2024 cuando se encontraba al borde de la muerte, fue revelado el día 9 en un avance de tvN.",
-        "body": "Se reveló el último escrito que el cantante You Yeol dejó al borde de la muerte. El día 9, el equipo de ‘You Quiz on the Block’ de tvN publicó un video previo en el que mostró el testamento que You Yeol escribió en la madrugada del 1 de agosto de 2024. El contenido despertó interés porque fue presentado como un texto dejado durante un momento crítico. El avance introdujo la historia de You Yeol y las circunstancias de aquel momento antes de la emisión completa. El testamento fue escrito al amanecer del 1 de agosto de 2024, junto con la explicación de que fue su último escrito ante la posibilidad de morir. Su relato se abordará con más detalle en el episodio principal. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Testamento de You Yeol é revelado após texto escrito perto da morte",
-        "excerpt": "O testamento do cantor You Yeol, escrito na madrugada de 1º de agosto de 2024 quando ele estava à beira da morte, foi divulgado no dia 9 em uma prévia da tvN.",
-        "body": "Foi revelado o último texto que o cantor You Yeol deixou à beira da morte. No dia 9, a equipe de ‘You Quiz on the Block’, da tvN, divulgou um vídeo prévio mostrando o testamento que You Yeol escreveu na madrugada de 1º de agosto de 2024. O conteúdo chamou atenção por ter sido apresentado como uma mensagem deixada em um momento crítico. A prévia introduziu a história de You Yeol e as circunstâncias daquele período antes da transmissão completa. O testamento foi escrito ao amanhecer de 1º de agosto de 2024, com a explicação de que ele escreveu suas últimas palavras diante da morte. O relato de You Yeol deve ser tratado com mais detalhes no episódio principal. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "You Yeols Testament enthüllt: Letzte Worte an der Schwelle zum Tod",
-        "excerpt": "Das Testament von Sänger You Yeol, das er am frühen Morgen des 1. August 2024 an der Schwelle zum Tod schrieb, wurde am 9. in einem Vorabvideo von tvN veröffentlicht.",
-        "body": "Das letzte Schreiben von Sänger You Yeol an der Schwelle zum Tod ist veröffentlicht worden. Am 9. zeigte tvN in einem Vorabvideo zu ‘You Quiz on the Block’ das Testament, das You Yeol am frühen Morgen des 1. August 2024 verfasst hatte. Der Inhalt erregte Aufmerksamkeit, weil er als Text aus einem kritischen Moment beschrieben wurde. Das Vorabvideo stellte vor der eigentlichen Sendung You Yeols Geschichte und die damaligen Umstände vor. Das Testament entstand in der Morgendämmerung des 1. August 2024, begleitet von der Erklärung, er habe damals seine letzten Worte geschrieben. You Yeols Bericht dürfte in der Hauptsendung ausführlicher behandelt werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le testament de You Yeol dévoilé, écrit aux portes de la mort",
-        "excerpt": "Le testament du chanteur You Yeol, rédigé à l’aube du 1er août 2024 alors qu’il était aux portes de la mort, a été dévoilé le 9 dans un extrait de tvN.",
-        "body": "Le dernier texte laissé par le chanteur You Yeol aux portes de la mort a été dévoilé. Le 9, l’équipe de ‘You Quiz on the Block’ de tvN a publié une vidéo en avant-première montrant le testament que You Yeol a écrit à l’aube du 1er août 2024. Ce contenu a attiré l’attention car il a été présenté comme un message rédigé lors d’un moment critique. L’extrait introduisait l’histoire de You Yeol et les circonstances de l’époque avant la diffusion complète. Le testament a été écrit à l’aube du 1er août 2024, avec l’explication qu’il s’agissait de ses derniers mots face à la mort. Son témoignage devrait être abordé plus en détail dans l’épisode principal. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الكشف عن وصية يو يول التي كتبها عند حافة الموت",
-        "excerpt": "كُشفت وصية المغني يو يول، التي كتبها فجر 1 أغسطس 2024 عندما كان على حافة الموت، في مقطع مسبق عرضه برنامج tvN ‘You Quiz on the Block’ يوم 9.",
-        "body": "كُشف عن آخر نص تركه المغني يو يول وهو على حافة الموت. فقد عرض فريق برنامج ‘You Quiz on the Block’ على قناة tvN يوم 9 مقطعا مسبقا تضمن الوصية التي كتبها يو يول فجر 1 أغسطس 2024. وجذب المحتوى الانتباه لأنه قُدم بوصفه كلمات تركها في لحظة حرجة. وجاء المقطع المسبق للتعريف بقصة يو يول والظروف التي مر بها قبل بث الحلقة الكاملة. وذُكر أن الوصية كُتبت فجر 1 أغسطس 2024، مع توضيح أنه كتب نصه الأخير عند عتبة الموت. ومن المتوقع أن تتناول الحلقة الرئيسية اعتراف يو يول بمزيد من التفصيل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "यू योल की वसीयत 공개, मौत की दहलीज पर लिखे आखिरी शब्द",
-        "excerpt": "गायक यू योल ने 1 अगस्त 2024 की भोर में मौत की दहलीज पर जो वसीयत लिखी थी, वह 9 तारीख को tvN के ‘You Quiz on the Block’ के प्रीव्यू वीडियो में 공개 हुई।",
-        "body": "गायक यू योल द्वारा मौत की दहलीज पर लिखा गया आखिरी लेख 공개 किया गया। tvN के ‘You Quiz on the Block’ ने 9 तारीख को जारी प्रीव्यू वीडियो में वह वसीयत दिखाई, जिसे यू योल ने 1 अगस्त 2024 की भोर में लिखा था। यह सामग्री इसलिए ध्यान में आई क्योंकि इसे एक गंभीर क्षण में छोड़े गए शब्दों के रूप में बताया गया। प्रीव्यू वीडियो ने मुख्य प्रसारण से पहले यू योल की कहानी और उस समय की परिस्थितियों को 소개 किया। वसीयत 1 अगस्त 2024 की भोर में लिखी गई थी, और बताया गया कि उन्होंने मौत की दहलीज पर अपना आखिरी लेख लिखा। यू योल की बात मुख्य एपिसोड में और विस्तार से आने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Surat Wasiat You Yeol Diungkap, Ditulis Saat Berada di Ambang Maut",
-        "excerpt": "Surat wasiat penyanyi You Yeol yang ditulis pada dini hari 1 Agustus 2024 saat berada di ambang maut diungkap dalam cuplikan awal tvN ‘You Quiz on the Block’ pada tanggal 9.",
-        "body": "Tulisan terakhir penyanyi You Yeol saat berada di ambang maut telah diungkap. Pada tanggal 9, pihak tvN ‘You Quiz on the Block’ merilis video cuplikan awal yang memperlihatkan surat wasiat yang ditulis You Yeol pada dini hari 1 Agustus 2024. Isi yang diungkap menarik perhatian karena dijelaskan sebagai tulisan yang ditinggalkan pada momen kritis. Cuplikan tersebut memperkenalkan kisah You Yeol dan situasi saat itu sebelum episode penuh ditayangkan. Surat wasiat itu ditulis pada dini hari 1 Agustus 2024, disertai penjelasan bahwa ia menulis pesan terakhirnya di ambang kematian. Pengakuan You Yeol diperkirakan akan dibahas lebih rinci dalam episode utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8bb09b8e88c6",
-    "slug": "무거운-이야기-하려-한다안타까운-소식-전한-배우-조정석-무슨일이-115693",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T09:35:42.744Z",
-    "updatedAt": "2026-05-09T09:35:42.744Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12042356",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12042356",
-    "titleFingerprint": "d9b6e035700bb0634cd2bd40a83075a1960a0147",
-    "dedupKeys": [
-      "8bb09b8e88c6ed1ff41a597bfe5ae197088cac8a",
-      "d9b6e035700bb0634cd2bd40a83075a1960a0147",
-      "44918b8fdab354d7fb5ff04218a3ab3aab0255c5"
-    ],
-    "imageUrl": "/images/articles/8bb09b8e88c6.png",
-    "i18n": {
-      "ko": {
-        "title": "조정석, 유튜브 ‘청계산댕이레코즈’ 중단 발표…“채널 내려놓기로”",
-        "excerpt": "배우 조정석이 8일 유튜브 채널 ‘청계산댕이레코즈’를 통해 부캐 ‘댕이 아빠’ 활동을 내려놓겠다고 밝히며 팬들에게 안타까운 소식을 전했다.",
-        "body": "배우 조정석이 8일 유튜브 채널 ‘청계산댕이레코즈’를 통해 채널 운영을 내려놓겠다고 밝혔다. 그는 부캐 ‘댕이 아빠’로 활동해왔으며, 이날 공개된 영상 제목은 “이 채널을 내려놓기로 결정했습니다”로 전해졌다. 원문에 따르면 조정석은 “무거운 이야기 하려 한다”는 취지로 안타까운 소식을 알렸다. ‘청계산댕이레코즈’는 조정석의 별도 캐릭터 활동 공간으로 알려져 있었던 만큼, 이번 결정은 해당 채널을 지켜봐온 팬들에게 아쉬움을 남길 전망이다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Cho Jung-seok Says He Will Step Away from YouTube Channel Cheonggyesandaengi Records",
-        "excerpt": "Actor Cho Jung-seok said on May 8 through the YouTube channel Cheonggyesandaengi Records that he would put down his alter-ego activity as ‘Daeng-i Appa.’",
-        "body": "Actor Cho Jung-seok announced on May 8 through the YouTube channel Cheonggyesandaengi Records that he had decided to step away from running the channel. He had been active there under the alter ego ‘Daeng-i Appa,’ and the video was reportedly titled “I have decided to put down this channel.” According to the original report, Cho introduced the news as a “heavy story,” delivering a regrettable update to viewers. As the channel had served as a space for his separate character activity, the decision is expected to leave fans who followed it disappointed. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "チョ・ジョンソク、YouTube『清渓山デンイレコーズ』終了を発表",
-        "excerpt": "俳優チョ・ジョンソクが8日、YouTubeチャンネル『清渓山デンイレコーズ』で、別キャラ『デンイパパ』の活動を下ろすと明らかにした。",
-        "body": "俳優チョ・ジョンソクが8日、YouTubeチャンネル『清渓山デンイレコーズ』を通じて、チャンネル運営を下ろすことを明らかにした。彼は別キャラクター『デンイパパ』として活動してきた。公開された映像のタイトルは「このチャンネルを下ろすことに決めました」と伝えられている。原文によると、チョ・ジョンソクは「重い話をしようと思う」という趣旨で残念な知らせを伝えた。同チャンネルは彼の別キャラ活動の場として知られていただけに、今回の決定は視聴してきたファンに惜しまれる見通しだ。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "曹政奭宣布停更YouTube频道“清溪山Daengi Records”",
-        "excerpt": "演员曹政奭8日通过YouTube频道“清溪山Daengi Records”表示，将放下以副角色“Daengi爸爸”进行的活动，引发粉丝惋惜。",
-        "body": "演员曹政奭8日通过YouTube频道“清溪山Daengi Records”宣布，决定放下该频道的运营。他此前一直以副角色“Daengi爸爸”的身份活动，当天公开的视频标题据传为“我决定放下这个频道”。据原文报道，曹政奭以“要讲一个沉重的话题”的语气传达了令人惋惜的消息。由于“清溪山Daengi Records”一直被视为曹政奭展开独立角色活动的空间，此次决定预计会让持续关注该频道的粉丝感到遗憾。来源：引用mk.co.kr。"
-      },
-      "es": {
-        "title": "Cho Jung-seok anuncia que deja el canal de YouTube Cheonggyesandaengi Records",
-        "excerpt": "El actor Cho Jung-seok comunicó el día 8 en YouTube que dejará el canal Cheonggyesandaengi Records y su actividad como el alter ego ‘Daeng-i Appa’.",
-        "body": "El actor Cho Jung-seok anunció el día 8, a través del canal de YouTube Cheonggyesandaengi Records, que decidió dejar la gestión del canal. Allí había estado activo con el alter ego ‘Daeng-i Appa’, y el video publicado llevó, según se informó, el título “He decidido dejar este canal”. De acuerdo con el reporte original, Cho presentó la noticia como una “historia pesada”, transmitiendo un aviso lamentable a los espectadores. Como el canal era conocido como un espacio para su actividad con ese personaje separado, la decisión podría dejar tristeza entre los fans que lo seguían. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Cho Jung-seok anuncia saída do canal Cheonggyesandaengi Records no YouTube",
-        "excerpt": "O ator Cho Jung-seok informou no dia 8, pelo YouTube Cheonggyesandaengi Records, que deixará a atividade de seu alter ego ‘Daeng-i Appa’.",
-        "body": "O ator Cho Jung-seok anunciou no dia 8, por meio do canal de YouTube Cheonggyesandaengi Records, que decidiu deixar a operação do canal. Ele vinha atuando ali como o alter ego ‘Daeng-i Appa’, e o vídeo divulgado teria recebido o título “Decidi deixar este canal”. Segundo a reportagem original, Cho apresentou a notícia como uma “história pesada”, comunicando uma informação triste aos espectadores. Como o canal era conhecido como espaço para sua atividade com esse personagem separado, a decisão deve deixar pesar entre os fãs que acompanhavam o conteúdo. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Cho Jung-seok kündigt Abschied von YouTube-Kanal Cheonggyesandaengi Records an",
-        "excerpt": "Schauspieler Cho Jung-seok teilte am 8. über den YouTube-Kanal Cheonggyesandaengi Records mit, dass er seine Alter-Ego-Aktivität als ‘Daeng-i Appa’ beendet.",
-        "body": "Schauspieler Cho Jung-seok gab am 8. über den YouTube-Kanal Cheonggyesandaengi Records bekannt, dass er beschlossen habe, den Kanal aufzugeben. Dort war er unter dem Alter Ego ‘Daeng-i Appa’ aktiv. Das veröffentlichte Video trug Berichten zufolge den Titel “Ich habe beschlossen, diesen Kanal niederzulegen”. Laut dem Originalbericht leitete Cho die Nachricht als “schwere Geschichte” ein und übermittelte den Zuschauern eine bedauerliche Mitteilung. Da der Kanal als Raum für seine separate Figurenaktivität bekannt war, dürfte die Entscheidung bei den Fans, die ihn verfolgt haben, Bedauern auslösen. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Cho Jung-seok annonce l’arrêt de sa chaîne YouTube Cheonggyesandaengi Records",
-        "excerpt": "L’acteur Cho Jung-seok a annoncé le 8, sur la chaîne YouTube Cheonggyesandaengi Records, qu’il mettait fin à son activité d’alter ego ‘Daeng-i Appa’.",
-        "body": "L’acteur Cho Jung-seok a annoncé le 8, via la chaîne YouTube Cheonggyesandaengi Records, qu’il avait décidé de laisser la chaîne de côté. Il y était actif sous l’alter ego ‘Daeng-i Appa’, et la vidéo publiée aurait eu pour titre “J’ai décidé de laisser cette chaîne”. Selon l’article original, Cho Jung-seok a présenté l’annonce comme une “histoire lourde”, livrant une nouvelle regrettable aux spectateurs. Comme la chaîne était connue comme l’espace de son activité de personnage distinct, cette décision devrait susciter de la déception chez les fans qui la suivaient. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "تشو جونغ سوك يعلن ترك قناة Cheonggyesandaengi Records على يوتيوب",
-        "excerpt": "أعلن الممثل تشو جونغ سوك في 8 من الشهر عبر قناة Cheonggyesandaengi Records على يوتيوب أنه سيضع حدا لنشاطه بشخصية ‘Daeng-i Appa’.",
-        "body": "أعلن الممثل تشو جونغ سوك في 8 من الشهر، عبر قناة Cheonggyesandaengi Records على يوتيوب، أنه قرر التخلي عن إدارة القناة. وكان قد نشط فيها بشخصية فرعية باسم ‘Daeng-i Appa’، وجاء عنوان الفيديو المنشور، بحسب ما ورد، “قررت أن أترك هذه القناة”. ووفقا للتقرير الأصلي، قدّم تشو الخبر بوصفه “حديثا ثقيلا”، ناقلا إلى المشاهدين نبأ مؤسفا. وبما أن القناة عرفت كمساحة لنشاطه بهذه الشخصية المنفصلة، فمن المتوقع أن يترك القرار شعورا بالأسف لدى المعجبين الذين تابعوها. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "Cho Jung-seok ने YouTube चैनल Cheonggyesandaengi Records छोड़ने की घोषणा की",
-        "excerpt": "अभिनेता Cho Jung-seok ने 8 तारीख को YouTube चैनल Cheonggyesandaengi Records पर बताया कि वह अपने alter ego ‘Daeng-i Appa’ की गतिविधि छोड़ेंगे।",
-        "body": "अभिनेता Cho Jung-seok ने 8 तारीख को YouTube चैनल Cheonggyesandaengi Records के जरिए घोषणा की कि उन्होंने चैनल संचालन से हटने का फैसला किया है। वह वहां alter ego ‘Daeng-i Appa’ के रूप में सक्रिय रहे थे, और जारी वीडियो का शीर्षक कथित तौर पर “मैंने इस चैनल को छोड़ने का निर्णय लिया है” था। मूल रिपोर्ट के अनुसार, Cho ने इसे “एक भारी बात” बताते हुए दर्शकों को दुखद समाचार दिया। चूंकि यह चैनल उनकी अलग किरदार गतिविधि की जगह के रूप में जाना जाता था, इसलिए यह निर्णय उसे देखने वाले प्रशंसकों के लिए निराशा छोड़ सकता है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Cho Jung-seok Umumkan Tinggalkan Kanal YouTube Cheonggyesandaengi Records",
-        "excerpt": "Aktor Cho Jung-seok pada tanggal 8 lewat YouTube Cheonggyesandaengi Records menyatakan akan melepas aktivitas alter ego ‘Daeng-i Appa’.",
-        "body": "Aktor Cho Jung-seok pada tanggal 8 mengumumkan melalui kanal YouTube Cheonggyesandaengi Records bahwa ia memutuskan untuk melepas pengelolaan kanal tersebut. Ia selama ini aktif sebagai alter ego ‘Daeng-i Appa’, dan video yang dirilis disebut berjudul “Saya memutuskan untuk melepas kanal ini”. Menurut laporan asli, Cho menyampaikan kabar itu sebagai “cerita yang berat”, memberi tahu penonton tentang kabar yang disayangkan. Karena kanal tersebut dikenal sebagai ruang aktivitas karakter terpisah miliknya, keputusan ini diperkirakan meninggalkan rasa kecewa bagi para penggemar yang mengikutinya. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
