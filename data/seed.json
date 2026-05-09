@@ -1,5 +1,230 @@
 [
   {
+    "id": "e3f013ae21b6",
+    "slug": "바이오사이언스-국산-신약-43호-시대개발-속도-빨라졌다-704087",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T19:59:16.172Z",
+    "updatedAt": "2026-05-09T19:59:16.172Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508099600017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508099600017",
+    "titleFingerprint": "516e0e2886f0ca857a8d9fef24fcb129dfa910a9",
+    "dedupKeys": [
+      "e3f013ae21b606d32f38e8dc1b631caf47893901",
+      "516e0e2886f0ca857a8d9fef24fcb129dfa910a9",
+      "670a2666d518537605115c28efaee0ea0112e76f"
+    ],
+    "imageUrl": "/images/articles/e3f013ae21b6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국산 신약 43호 시대, 1999년 1호 이후 개발 속도 빨라졌다",
+        "excerpt": "연합뉴스에 따르면 1999년 국내 개발 신약 1호가 나온 뒤 27년 동안 국산 신약은 모두 43호까지 늘었고, 국내 신약 개발 흐름이 이전보다 빨라진 것으로 나타났다.",
+        "body": "국내 개발 신약이 43호까지 늘어나며 국산 신약 개발의 흐름이 빨라지고 있다. 연합뉴스가 보도한 바이오사이언스 관련 소식에 따르면, 1999년 ‘국내 개발 신약 1호’가 나온 이후 27년 동안 국산 신약은 모두 43호까지 증가했다. 이는 국내 제약·바이오 분야에서 신약 개발 성과가 꾸준히 축적돼 왔다는 점을 보여준다. 특히 1호 신약 이후 장기간 이어진 개발 성과가 43호까지 확대되면서, 국내 신약 개발의 속도와 규모가 주목받고 있다. 앞으로 국산 신약 개발 흐름이 제약·바이오 산업의 경쟁력과 연구개발 성과를 가늠하는 지표로 활용될 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Korea Reaches 43 Homegrown New Drugs as Development Pace Accelerates",
+        "excerpt": "According to Yonhap, 27 years after Korea’s first domestically developed new drug appeared in 1999, the total has reached 43, showing a faster pace in local drug development.",
+        "body": "South Korea’s domestically developed new drugs have reached No. 43, highlighting a faster pace in local drug development. According to a Yonhap News report on bioscience, 27 years have passed since the first domestically developed new drug was introduced in 1999, and the total number has now grown to 43. The figure shows that achievements in Korea’s pharmaceutical and biotechnology sectors have continued to accumulate over time. As the record has expanded from the first new drug to the 43rd, both the speed and scale of domestic drug development are drawing attention. The trend may serve as an indicator for assessing the competitiveness and research-and-development outcomes of Korea’s pharmaceutical and biotech industries. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国産新薬43号時代へ、1999年の1号以降で開発速度が加速",
+        "excerpt": "聯合ニュースによると、1999年に韓国国内開発新薬1号が登場してから27年間で韓国産新薬は43号まで増え、開発の流れが速まった。",
+        "body": "韓国で国内開発された新薬が43号まで増え、国産新薬開発の流れが速まっている。聯合ニュースが報じたバイオサイエンス関連のニュースによると、1999年に「国内開発新薬1号」が登場してから27年間で、韓国産新薬は計43号まで増加した。これは韓国の製薬・バイオ分野で新薬開発の成果が着実に積み上がってきたことを示している。特に1号新薬以降、長期にわたって続いた開発成果が43号まで広がったことで、国内新薬開発の速度と規模が注目されている。今後、この流れは製薬・バイオ産業の競争力や研究開発成果を測る指標として活用され得る。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国国产新药进入第43号时代，1999年首个新药后开发提速",
+        "excerpt": "据韩联社报道，自1999年韩国首个国内开发新药问世以来，27年间国产新药已增至43个，显示本土新药开发步伐加快。",
+        "body": "韩国国内开发的新药已增至第43号，显示国产新药开发进程正在加快。据韩联社关于生物科学领域的报道，自1999年“国内开发新药1号”问世以来，27年间韩国国产新药总数已增加到43个。这一数字表明，韩国制药和生物技术领域的新药开发成果持续累积。从首个新药到第43号，长期延续的开发成果不断扩大，使国内新药开发的速度和规模受到关注。未来，国产新药开发趋势可作为衡量韩国制药和生物产业竞争力以及研发成果的重要参考。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Corea alcanza 43 nuevos fármacos propios desde 1999 y acelera su desarrollo",
+        "excerpt": "Según Yonhap, 27 años después del primer nuevo fármaco desarrollado en Corea en 1999, el total de medicamentos nacionales llegó a 43, reflejando un ritmo más rápido.",
+        "body": "Corea del Sur ha llegado a 43 nuevos fármacos desarrollados localmente, lo que muestra un avance más rápido en el desarrollo nacional de medicamentos. Según un reporte de Yonhap sobre biosciencias, desde que en 1999 apareció el primer nuevo fármaco desarrollado en el país, el total ha aumentado a 43 en 27 años. La cifra indica que los logros del sector farmacéutico y biotecnológico coreano se han acumulado de manera constante. La expansión desde el primer medicamento hasta el número 43 ha puesto atención en la velocidad y la escala del desarrollo local de nuevos fármacos. Esta tendencia puede servir como referencia para evaluar la competitividad y los resultados de I+D de las industrias farmacéutica y biotecnológica. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Coreia chega a 43 novos medicamentos nacionais desde 1999 e acelera ritmo",
+        "excerpt": "Segundo a Yonhap, 27 anos após o primeiro novo medicamento desenvolvido na Coreia em 1999, o total chegou a 43, indicando avanço mais rápido no setor local.",
+        "body": "A Coreia do Sul chegou a 43 novos medicamentos desenvolvidos internamente, destacando um ritmo mais rápido no desenvolvimento nacional de fármacos. Segundo uma reportagem da Yonhap sobre biosciência, desde que o primeiro novo medicamento desenvolvido no país surgiu em 1999, o total aumentou para 43 em 27 anos. O número mostra que os resultados no setor farmacêutico e de biotecnologia coreano vêm se acumulando de forma constante. À medida que os avanços se expandiram do primeiro medicamento ao 43º, a velocidade e a escala do desenvolvimento local passaram a chamar atenção. Essa tendência pode servir como indicador da competitividade e dos resultados de pesquisa e desenvolvimento das indústrias farmacêutica e biotecnológica. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkorea erreicht 43 heimische neue Arzneien seit 1999, Entwicklung schneller",
+        "excerpt": "Laut Yonhap ist die Zahl der in Südkorea entwickelten neuen Arzneimittel 27 Jahre nach dem ersten Präparat von 1999 auf 43 gestiegen und zeigt mehr Tempo.",
+        "body": "Südkorea hat inzwischen 43 im Inland entwickelte neue Arzneimittel erreicht und zeigt damit ein schnelleres Tempo bei der heimischen Medikamentenentwicklung. Laut einem Yonhap-Bericht aus dem Bereich Biowissenschaften sind seit der Einführung des ersten im Inland entwickelten neuen Arzneimittels im Jahr 1999 insgesamt 27 Jahre vergangen, in denen die Zahl auf 43 gestiegen ist. Diese Entwicklung zeigt, dass sich die Ergebnisse der koreanischen Pharma- und Biotechnologiebranche stetig angesammelt haben. Da sich die Bilanz vom ersten Präparat bis zur Nummer 43 ausgeweitet hat, rücken Geschwindigkeit und Umfang der heimischen Neuentwicklung stärker in den Fokus. Der Trend kann als Maßstab für Wettbewerbsfähigkeit sowie Forschungs- und Entwicklungsergebnisse der Pharma- und Biotechindustrie dienen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La Corée atteint 43 nouveaux médicaments nationaux depuis 1999, rythme accru",
+        "excerpt": "Selon Yonhap, 27 ans après le premier nouveau médicament développé en Corée en 1999, le total est passé à 43, signe d’un rythme de développement plus rapide.",
+        "body": "La Corée du Sud compte désormais 43 nouveaux médicaments développés localement, ce qui met en évidence une accélération du développement national. Selon un reportage de Yonhap consacré aux biosciences, 27 ans se sont écoulés depuis l’apparition en 1999 du premier nouveau médicament développé dans le pays, et le total atteint maintenant 43. Ce chiffre montre que les résultats du secteur pharmaceutique et biotechnologique coréen se sont accumulés de manière régulière. L’élargissement de ce bilan, du premier médicament au 43e, attire l’attention sur la vitesse et l’ampleur du développement national. Cette tendance peut servir d’indicateur pour évaluer la compétitivité et les résultats de recherche et développement des industries pharmaceutique et biotechnologique. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوريا تصل إلى 43 دواء جديدا محليا منذ 1999 وتسارع وتيرة التطوير",
+        "excerpt": "بحسب يونهاب، بعد 27 عاما على ظهور أول دواء جديد مطور محليا في كوريا عام 1999، ارتفع العدد إلى 43، ما يشير إلى تسارع تطوير الأدوية المحلية.",
+        "body": "بلغ عدد الأدوية الجديدة المطورة محليا في كوريا الجنوبية 43 دواء، في مؤشر على تسارع وتيرة تطوير الأدوية الوطنية. وبحسب تقرير لوكالة يونهاب في مجال العلوم الحيوية، مر 27 عاما منذ ظهور أول دواء جديد مطور داخل البلاد عام 1999، وارتفع العدد الإجمالي منذ ذلك الحين إلى 43. ويظهر هذا الرقم أن إنجازات قطاعي الأدوية والتكنولوجيا الحيوية في كوريا تراكمت بصورة مستمرة. ومع اتساع السجل من الدواء الأول إلى الدواء رقم 43، أصبحت سرعة وحجم تطوير الأدوية المحلية موضع اهتمام. ويمكن أن يشكل هذا الاتجاه مؤشرا لتقييم القدرة التنافسية ونتائج البحث والتطوير في صناعات الأدوية والتكنولوجيا الحيوية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया में घरेलू नई दवाएं 43 तक पहुंचीं, 1999 के बाद विकास तेज",
+        "excerpt": "योनहाप के अनुसार, 1999 में कोरिया की पहली घरेलू विकसित नई दवा आने के 27 साल बाद कुल संख्या 43 हो गई है, जिससे स्थानीय दवा विकास की गति तेज दिखती है।",
+        "body": "दक्षिण कोरिया में घरेलू रूप से विकसित नई दवाओं की संख्या 43 तक पहुंच गई है, जिससे स्थानीय दवा विकास की गति तेज होने का संकेत मिलता है। योनहाप की बायोसाइंस से जुड़ी रिपोर्ट के अनुसार, 1999 में ‘घरेलू विकसित नई दवा नंबर 1’ के आने के बाद 27 वर्षों में कोरियाई नई दवाओं की कुल संख्या 43 हो गई। यह आंकड़ा दिखाता है कि कोरिया के फार्मास्यूटिकल और बायोटेक क्षेत्रों में नई दवा विकास की उपलब्धियां लगातार जमा होती रही हैं। पहली दवा से लेकर 43वीं दवा तक विस्तार होने के साथ घरेलू नई दवा विकास की गति और पैमाना ध्यान खींच रहे हैं। आगे यह प्रवाह फार्मा और बायोटेक उद्योगों की प्रतिस्पर्धात्मकता तथा अनुसंधान-विकास परिणामों को आंकने का संकेतक बन सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Korea Capai 43 Obat Baru Lokal sejak 1999, Laju Pengembangan Meningkat",
+        "excerpt": "Menurut Yonhap, 27 tahun setelah obat baru pertama yang dikembangkan di Korea muncul pada 1999, jumlah obat baru lokal telah mencapai 43 dan lajunya makin cepat.",
+        "body": "Korea Selatan telah mencapai 43 obat baru yang dikembangkan di dalam negeri, menandai laju pengembangan obat lokal yang semakin cepat. Menurut laporan Yonhap terkait biosains, sejak ‘obat baru hasil pengembangan domestik pertama’ muncul pada 1999, jumlah obat baru Korea meningkat menjadi 43 dalam 27 tahun. Angka ini menunjukkan bahwa capaian di sektor farmasi dan bioteknologi Korea terus terakumulasi. Seiring bertambahnya hasil dari obat pertama hingga obat ke-43, kecepatan dan skala pengembangan obat baru domestik mendapat perhatian. Ke depan, tren ini dapat menjadi indikator untuk menilai daya saing serta hasil riset dan pengembangan industri farmasi dan bioteknologi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e822b3e1884f",
+    "slug": "생산-감소에-고유가판매-부진까지창원-미더덕-어민-삼중고-691729",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T19:58:11.950Z",
+    "updatedAt": "2026-05-09T19:58:11.950Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508105700052",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508105700052",
+    "titleFingerprint": "4b6e71ae72cdb1767d2f5618a520bf4a502d0bda",
+    "dedupKeys": [
+      "e822b3e1884f0c6d83f067e10c9ec523c500ed3b",
+      "4b6e71ae72cdb1767d2f5618a520bf4a502d0bda",
+      "dbf9b9f848368b6580619982dfd382b1482c1310"
+    ],
+    "imageUrl": "/images/articles/e822b3e1884f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "창원 미더덕 어민, 생산 감소·고유가·판매 부진에 삼중고",
+        "excerpt": "전국 미더덕 생산량의 약 70%를 차지하는 경남 창원 마산합포구 진동항 일대 어민들이 생산 감소와 고유가, 판매 부진으로 어려움을 겪고 있다.",
+        "body": "경남 창원시 마산합포구 진동항 일대 미더덕 어민들이 생산 감소와 고유가, 판매 부진이 겹치며 삼중고를 겪고 있다. 이 지역은 전국 미더덕 생산량의 약 70%를 차지하는 주요 산지다. 원문에 따르면 어민들은 고수온 피해와 생산비 부담 속에서 조업 여건 악화를 체감하고 있으며, 여기에 판매 부진까지 더해져 어려움이 커지고 있다. 생산량 감소는 산지 수급과 어민 소득에 직접적인 부담으로 작용할 수 있어 향후 조업 상황과 판매 흐름이 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Changwon Styela Farmers Hit by Lower Output, High Oil Prices and Weak Sales",
+        "excerpt": "Fishers around Jindong Port in Masanhappo-gu, Changwon, a hub for about 70% of South Korea’s styela output, are struggling with lower production, high oil prices and weak sales.",
+        "body": "Styela farmers around Jindong Port in Masanhappo-gu, Changwon, South Gyeongsang Province, are facing a triple burden as production declines, oil prices remain high and sales stay weak. The area accounts for about 70% of South Korea’s total styela production, making it a key production base. According to the original report, fishers are feeling worsening operating conditions amid high-water-temperature damage and rising production costs. Weak sales have added further pressure. The production drop could directly weigh on local supply and fishers’ income, putting attention on future harvesting conditions and sales trends. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "昌原のミドドク漁民、生産減・高油価・販売不振で三重苦",
+        "excerpt": "韓国のミドドク生産量の約70％を占める慶尚南道昌原市馬山合浦区鎮東港一帯の漁民が、生産減と高油価、販売不振で苦境にある。",
+        "body": "慶尚南道昌原市馬山合浦区の鎮東港一帯で、ミドドク漁民が生産減少、高油価、販売不振が重なり三重苦に直面している。この地域は韓国全体のミドドク生産量の約70％を占める主要産地だ。原文によると、漁民は高水温被害と生産費負担の中で操業環境の悪化を実感しており、そこに販売不振も加わって困難が大きくなっている。生産量の減少は産地の需給と漁民所得に直接負担となる可能性があり、今後の操業状況と販売動向が注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "昌原海鞘渔民遭遇减产、高油价与销售低迷三重压力",
+        "excerpt": "韩国约70%海鞘产量来自庆尚南道昌原市马山合浦区镇东港一带，当地渔民正因减产、高油价和销售低迷面临困难。",
+        "body": "庆尚南道昌原市马山合浦区镇东港一带的海鞘渔民正因产量减少、高油价和销售低迷叠加而承受三重压力。该地区约占韩国全国海鞘产量的70%，是主要产地。原文称，渔民在高水温受损和生产成本负担下，切身感受到作业条件恶化，销售不振又进一步加重了困难。产量下降可能直接影响产地供需和渔民收入，因此今后的作业情况与销售走势受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Productores de Styela en Changwon sufren menor producción, petróleo caro y ventas débiles",
+        "excerpt": "Pescadores de la zona del puerto de Jindong, en Masanhappo-gu, Changwon, que concentra cerca del 70% de la producción surcoreana de styela, afrontan menor producción, petróleo caro y bajas ventas.",
+        "body": "Los pescadores dedicados a la styela en torno al puerto de Jindong, en Masanhappo-gu, Changwon, provincia de Gyeongsang del Sur, enfrentan una triple dificultad por la caída de la producción, los altos precios del petróleo y la debilidad de las ventas. La zona representa cerca del 70% de la producción nacional de styela, por lo que es un centro clave. Según el reporte original, los pescadores perciben un deterioro de las condiciones de faena por daños relacionados con altas temperaturas del agua y mayores costos de producción. La baja demanda añade presión. La menor producción podría afectar directamente la oferta local y los ingresos de los pescadores. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Produtores de Styela em Changwon enfrentam queda na produção, petróleo caro e vendas fracas",
+        "excerpt": "Pescadores da área do porto de Jindong, em Masanhappo-gu, Changwon, responsável por cerca de 70% da produção sul-coreana de styela, sofrem com menor produção, petróleo caro e vendas fracas.",
+        "body": "Pescadores de styela na região do porto de Jindong, em Masanhappo-gu, Changwon, província de Gyeongsang do Sul, enfrentam uma tripla dificuldade com queda na produção, preços elevados do petróleo e vendas fracas. A área responde por cerca de 70% da produção nacional de styela, sendo um importante polo produtor. Segundo o texto original, os pescadores sentem a piora das condições de trabalho diante de danos por alta temperatura da água e maior peso dos custos de produção. A fraqueza nas vendas aumenta a pressão. A redução da produção pode afetar diretamente a oferta local e a renda dos pescadores. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Styela-Fischer in Changwon unter Druck durch Produktionsrückgang, hohe Ölpreise und schwache Verkäufe",
+        "excerpt": "Fischer rund um den Hafen Jindong in Masanhappo-gu, Changwon, wo rund 70% der südkoreanischen Styela-Produktion entstehen, kämpfen mit weniger Produktion, hohen Ölpreisen und schwachen Verkäufen.",
+        "body": "Styela-Fischer rund um den Hafen Jindong in Masanhappo-gu in Changwon, Provinz Süd-Gyeongsang, stehen wegen sinkender Produktion, hoher Ölpreise und schwacher Verkäufe unter dreifachem Druck. Die Region steht für etwa 70% der gesamten Styela-Produktion Südkoreas und ist damit ein wichtiger Produktionsstandort. Dem Originalbericht zufolge spüren die Fischer schlechtere Arbeitsbedingungen durch Schäden infolge hoher Wassertemperaturen und steigende Produktionskosten. Schwache Verkäufe verschärfen die Lage zusätzlich. Der Produktionsrückgang könnte Angebot vor Ort und Einkommen der Fischer direkt belasten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "À Changwon, les pêcheurs de Styela frappés par baisse de production, pétrole cher et ventes faibles",
+        "excerpt": "Les pêcheurs autour du port de Jindong, à Masanhappo-gu, Changwon, qui assure environ 70% de la production sud-coréenne de styela, subissent baisse de production, pétrole cher et ventes faibles.",
+        "body": "Les pêcheurs de styela autour du port de Jindong, à Masanhappo-gu, Changwon, dans la province du Gyeongsang du Sud, font face à une triple difficulté: baisse de la production, prix élevés du pétrole et ventes faibles. Cette zone représente environ 70% de la production nationale de styela, ce qui en fait un bassin majeur. Selon le texte original, les pêcheurs constatent une dégradation des conditions d’exploitation sous l’effet des dommages liés aux hautes températures de l’eau et du poids des coûts de production. La faiblesse des ventes ajoute une pression supplémentaire. La baisse de production pourrait peser directement sur l’offre locale et les revenus. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "صيادو الستايلَا في تشانغوون يواجهون تراجع الإنتاج وارتفاع النفط وضعف المبيعات",
+        "excerpt": "يعاني صيادو منطقة ميناء جيندونغ في ماسانهَبو-غو بمدينة تشانغوون، التي تمثل نحو 70% من إنتاج كوريا الجنوبية من الستايلَا، من تراجع الإنتاج وارتفاع النفط وضعف المبيعات.",
+        "body": "يواجه صيادو الستايلَا في محيط ميناء جيندونغ بمنطقة ماسانهَبو-غو في مدينة تشانغوون بإقليم غيونغسانغ الجنوبي صعوبات ثلاثية بسبب انخفاض الإنتاج وارتفاع أسعار النفط وضعف المبيعات. وتمثل هذه المنطقة نحو 70% من إجمالي إنتاج كوريا الجنوبية من الستايلَا، ما يجعلها مركزا رئيسيا للإنتاج. ووفق النص الأصلي، يشعر الصيادون بتدهور ظروف العمل وسط أضرار ناجمة عن ارتفاع حرارة المياه وزيادة أعباء تكاليف الإنتاج. كما زاد ضعف المبيعات من حجم الضغوط. وقد ينعكس تراجع الإنتاج مباشرة على المعروض المحلي ودخل الصيادين. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "चांगवोन के स्टाइला मछुआरे उत्पादन गिरावट, महंगे तेल और कमजोर बिक्री से दबाव में",
+        "excerpt": "दक्षिण कोरिया के लगभग 70% स्टाइला उत्पादन वाले चांगवोन के मासानहाप्पो-गु स्थित जिनडोंग बंदरगाह क्षेत्र के मछुआरे उत्पादन गिरावट, महंगे तेल और कमजोर बिक्री से जूझ रहे हैं।",
+        "body": "दक्षिण ग्योंगसांग प्रांत के चांगवोन शहर में मासानहाप्पो-गु के जिनडोंग बंदरगाह क्षेत्र के स्टाइला मछुआरे उत्पादन में कमी, तेल की ऊंची कीमतों और कमजोर बिक्री के कारण तिहरे दबाव का सामना कर रहे हैं। यह क्षेत्र दक्षिण कोरिया के कुल स्टाइला उत्पादन का लगभग 70% हिस्सा रखता है और प्रमुख उत्पादन केंद्र है। मूल रिपोर्ट के अनुसार, मछुआरे उच्च जल तापमान से हुए नुकसान और उत्पादन लागत के बोझ के बीच परिचालन स्थितियों के बिगड़ने को महसूस कर रहे हैं। बिक्री में सुस्ती ने कठिनाई और बढ़ा दी है। उत्पादन में कमी स्थानीय आपूर्ति और मछुआरों की आय पर सीधा दबाव डाल सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Nelayan Styela Changwon Tertekan Penurunan Produksi, Harga Minyak Tinggi dan Penjualan Lesu",
+        "excerpt": "Nelayan di sekitar Pelabuhan Jindong, Masanhappo-gu, Changwon, yang menyumbang sekitar 70% produksi styela Korea Selatan, menghadapi penurunan produksi, harga minyak tinggi dan penjualan lesu.",
+        "body": "Nelayan styela di sekitar Pelabuhan Jindong, Masanhappo-gu, Changwon, Provinsi Gyeongsang Selatan, menghadapi tiga tekanan sekaligus: penurunan produksi, harga minyak yang tinggi, dan penjualan yang lesu. Kawasan ini menyumbang sekitar 70% produksi styela nasional Korea Selatan, sehingga menjadi sentra utama. Menurut laporan asli, para nelayan merasakan memburuknya kondisi operasi di tengah kerusakan akibat suhu air tinggi dan beban biaya produksi. Lemahnya penjualan menambah tekanan. Penurunan produksi dapat langsung membebani pasokan daerah asal dan pendapatan nelayan, sehingga kondisi operasi dan tren penjualan ke depan menjadi perhatian. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fa6d1cb7fb1c",
+    "slug": "부산-아파트값-강보합세-유지전셋값은-22개월째-상승-741146",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T19:57:15.065Z",
+    "updatedAt": "2026-05-09T19:57:15.065Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
+    "titleFingerprint": "13797710c56151b1aa96b137534ae83a37554931",
+    "dedupKeys": [
+      "fa6d1cb7fb1c364a2a9512e2bf098f9799226816",
+      "13797710c56151b1aa96b137534ae83a37554931",
+      "48c09ae8a4c4b6294d04498d2ec979ab82f1bd2f"
+    ],
+    "imageUrl": "/images/articles/fa6d1cb7fb1c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부산 아파트값 강보합 유지, 전셋값 22개월 연속 상승세 주목",
+        "excerpt": "연합뉴스에 따르면 부산 아파트 매매가격은 강보합세를 이어가고 있으며, 전셋값은 22개월째 상승해 지역 주택시장의 가격 흐름에 관심이 모이고 있다.",
+        "body": "부산의 아파트 매매가격이 강보합세를 유지하고 있다고 연합뉴스가 보도했다. 보도에 따르면 부산 지역 아파트 시장에서는 매매가격이 뚜렷한 하락 없이 비교적 견조한 흐름을 이어가고 있다. 전세가격은 22개월째 상승세를 기록하며 매매시장과 함께 지역 주택가격 흐름의 주요 변수로 부각됐다. 매매가격이 강보합권을 유지하는 가운데 전셋값 상승이 장기간 이어지면서 부산 아파트 시장의 수급과 가격 움직임에 대한 관심도 커지고 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Busan Apartment Prices Stay Firm as Jeonse Rents Rise for 22 Months",
+        "excerpt": "According to Yonhap News, Busan apartment sale prices remain slightly firm, while jeonse rental prices have risen for 22 straight months, drawing attention to local housing trends.",
+        "body": "Busan apartment sale prices are maintaining a slightly firm trend, Yonhap News reported. According to the report, the city’s apartment market has continued to show relatively steady price movement without a clear decline in transaction prices. Jeonse rental prices have risen for 22 consecutive months, emerging as a key factor alongside sale prices in tracking the local housing market. With sale prices holding firm and rental prices continuing a prolonged rise, attention is growing on supply, demand and price movements in Busan’s apartment market. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "釜山のマンション価格は強含み維持、チョンセは22カ月連続上昇",
+        "excerpt": "聯合ニュースによると、釜山のマンション売買価格は強含みを維持しており、チョンセ価格は22カ月連続で上昇し、地域住宅市場の動向に関心が集まっている。",
+        "body": "釜山のマンション売買価格が強含みを維持していると、聯合ニュースが報じた。報道によれば、釜山地域のマンション市場では売買価格が明確な下落を示さず、比較的底堅い流れを続けている。チョンセ価格は22カ月連続で上昇し、売買市場とともに地域住宅価格の動きを見るうえで主要な要因として浮上している。売買価格が強含み圏を保つなか、チョンセ価格の上昇が長期化し、釜山マンション市場の需給と価格動向への関心も高まっている。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "釜山公寓价格维持偏强平稳，全租金连续22个月上涨",
+        "excerpt": "据韩联社报道，釜山公寓买卖价格维持偏强平稳走势，全租价格已连续22个月上涨，市场对当地住房价格动向的关注升温。",
+        "body": "韩联社报道称，釜山公寓买卖价格维持偏强平稳走势。报道显示，釜山地区公寓市场的买卖价格没有出现明显下跌，整体延续相对稳健的变化。全租价格已连续22个月上涨，成为观察当地住房价格走势时与买卖市场并列的重要因素。在买卖价格维持偏强区间的同时，全租价格长期上行，使外界对釜山公寓市场供需状况和价格变化的关注进一步增加。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Precios de apartamentos en Busan se mantienen firmes y el jeonse sube 22 meses",
+        "excerpt": "Según Yonhap News, los precios de venta de apartamentos en Busan siguen firmes, mientras que los alquileres jeonse acumulan 22 meses de alzas y atraen la atención del mercado local.",
+        "body": "Los precios de venta de apartamentos en Busan mantienen una tendencia firme, informó Yonhap News. Según el reporte, el mercado de apartamentos de la ciudad continúa mostrando un movimiento relativamente estable, sin una caída clara en los precios de compraventa. Los precios del jeonse han subido durante 22 meses consecutivos y se han convertido en un factor clave junto con el mercado de ventas para seguir la evolución de la vivienda local. Con los precios de venta aún firmes y los alquileres en aumento prolongado, crece la atención sobre la oferta, la demanda y los precios en Busan. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Apartamentos em Busan seguem firmes e jeonse sobe pelo 22º mês seguido",
+        "excerpt": "Segundo a Yonhap News, os preços de venda de apartamentos em Busan mantêm firmeza, enquanto os valores de jeonse sobem há 22 meses e chamam atenção para o mercado local.",
+        "body": "Os preços de venda de apartamentos em Busan mantêm uma tendência firme, informou a Yonhap News. De acordo com a reportagem, o mercado de apartamentos da cidade segue com movimento relativamente estável, sem queda clara nos preços de compra e venda. Os valores de jeonse subiram por 22 meses consecutivos, tornando-se um fator importante, junto com o mercado de vendas, para acompanhar os preços residenciais locais. Com os preços de venda ainda firmes e a alta do jeonse prolongada, aumenta o interesse sobre oferta, demanda e movimentos de preço no mercado de apartamentos de Busan. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Wohnungspreise in Busan bleiben fest, Jeonse-Mieten steigen seit 22 Monaten",
+        "excerpt": "Laut Yonhap News bleiben die Verkaufspreise für Apartments in Busan leicht fest, während Jeonse-Mieten seit 22 Monaten steigen und den lokalen Wohnungsmarkt in den Fokus rücken.",
+        "body": "Die Verkaufspreise für Apartments in Busan halten sich weiterhin leicht fest, berichtete Yonhap News. Dem Bericht zufolge zeigt der Apartmentmarkt der Stadt eine vergleichsweise stabile Entwicklung, ohne einen klaren Rückgang der Kaufpreise. Die Jeonse-Mieten steigen seit 22 Monaten in Folge und sind neben den Verkaufspreisen zu einem wichtigen Faktor für die Beobachtung des lokalen Wohnungsmarkts geworden. Da die Verkaufspreise fest bleiben und die Mietpreise über längere Zeit steigen, wächst das Interesse an Angebot, Nachfrage und Preisbewegungen auf dem Apartmentmarkt in Busan. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Les prix des appartements à Busan restent fermes, le jeonse monte depuis 22 mois",
+        "excerpt": "Selon Yonhap News, les prix de vente des appartements à Busan restent légèrement fermes, tandis que les loyers jeonse progressent depuis 22 mois, attirant l’attention sur le marché local.",
+        "body": "Les prix de vente des appartements à Busan maintiennent une tendance légèrement ferme, a rapporté Yonhap News. Selon l’article, le marché des appartements de la ville continue d’afficher une évolution relativement stable, sans baisse nette des prix de transaction. Les prix du jeonse ont augmenté pendant 22 mois consécutifs, devenant un facteur majeur avec le marché des ventes pour suivre l’évolution du logement local. Alors que les prix de vente restent fermes et que la hausse du jeonse se prolonge, l’attention grandit sur l’offre, la demande et les mouvements de prix à Busan. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسعار شقق بوسان تبقى مستقرة بقوة والجيونسي يرتفع للشهر 22",
+        "excerpt": "بحسب وكالة يونهاب، حافظت أسعار بيع الشقق في بوسان على اتجاه مستقر مائل للصعود، بينما واصلت أسعار الجيونسي الارتفاع للشهر الثاني والعشرين، ما يسلط الضوء على سوق الإسكان المحلي.",
+        "body": "أفادت وكالة يونهاب بأن أسعار بيع الشقق في بوسان تحافظ على اتجاه مستقر مائل للصعود. ووفق التقرير، يواصل سوق الشقق في المدينة حركة سعرية متماسكة نسبيا من دون تراجع واضح في أسعار البيع. كما ارتفعت أسعار الجيونسي، وهو نظام الإيجار بضمان كبير في كوريا، للشهر الثاني والعشرين على التوالي، لتصبح عاملا رئيسيا إلى جانب سوق البيع في متابعة أسعار السكن المحلية. ومع بقاء أسعار البيع قوية واستمرار ارتفاع الجيونسي لفترة طويلة، يزداد الاهتمام بحركة العرض والطلب والأسعار في سوق شقق بوسان. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "बुसान अपार्टमेंट कीमतें मजबूत स्थिर, जोंसे किराया 22 महीने से बढ़ा",
+        "excerpt": "योनहाप न्यूज के अनुसार, बुसान में अपार्टमेंट बिक्री कीमतें मजबूत स्थिर रुख बनाए हुए हैं, जबकि जोंसे किराया लगातार 22 महीनों से बढ़ रहा है, जिससे स्थानीय आवास बाजार पर ध्यान बढ़ा है।",
+        "body": "योनहाप न्यूज ने बताया कि बुसान में अपार्टमेंट की बिक्री कीमतें मजबूत स्थिर रुख बनाए हुए हैं। रिपोर्ट के अनुसार, शहर के अपार्टमेंट बाजार में बिक्री कीमतों में स्पष्ट गिरावट नहीं दिखी और कीमतों का प्रवाह अपेक्षाकृत स्थिर रहा। जोंसे किराया लगातार 22 महीनों से बढ़ा है और स्थानीय आवास कीमतों को देखने में बिक्री बाजार के साथ एक प्रमुख कारक बन गया है। बिक्री कीमतों के मजबूत स्थिर दायरे में रहने और जोंसे कीमतों की लंबी बढ़त जारी रहने से बुसान अपार्टमेंट बाजार की आपूर्ति, मांग और कीमतों की चाल पर ध्यान बढ़ रहा है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Harga Apartemen Busan Tetap Kuat, Jeonse Naik 22 Bulan Beruntun",
+        "excerpt": "Menurut Yonhap News, harga jual apartemen di Busan tetap kuat dan stabil, sementara harga sewa jeonse naik selama 22 bulan berturut-turut, menarik perhatian pada pasar hunian lokal.",
+        "body": "Harga jual apartemen di Busan mempertahankan tren kuat dan stabil, lapor Yonhap News. Menurut laporan tersebut, pasar apartemen di Busan terus menunjukkan pergerakan harga yang relatif kokoh tanpa penurunan jelas pada harga jual. Harga sewa jeonse telah naik selama 22 bulan berturut-turut dan menjadi faktor utama bersama pasar jual beli dalam melihat arah harga hunian lokal. Dengan harga jual tetap berada di zona kuat dan kenaikan jeonse berlangsung lama, perhatian terhadap pasokan, permintaan, dan pergerakan harga di pasar apartemen Busan meningkat. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "2385fbdd6c2d",
     "slug": "다음주-경제-4월-취업자-얼마나-늘었나kdi-경제전망도-관심-454800",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Perusahaan Kartu Perluas Keuangan Inklusif Saat Harga dan Minyak Tinggi",
         "excerpt": "Di tengah beban inflasi dan harga minyak akibat situasi Timur Tengah, Samsung Card, BC Card, dan Shinhan Card menawarkan diskon BBM, kartu transportasi, serta dukungan kesejahteraan prajurit.",
         "body": "Ketika beban harga tinggi dan minyak mahal berlanjut akibat situasi Timur Tengah, perusahaan kartu di Korea bergerak menawarkan produk dan dukungan keuangan inklusif yang disesuaikan untuk meringankan biaya hidup. Samsung Card meluncurkan kartu yang memberi diskon 10% saat mengisi BBM di perusahaan minyak mitra. BC Card menghapus biaya tahunan pada kartu khusus transportasi publik yang dikenal memberi manfaat besar bagi pengguna, sehingga memperkuat keuntungannya. Shinhan Card mendukung kesejahteraan prajurit, termasuk pembangunan perpustakaan. Dalam kondisi harga dan minyak tinggi, manfaat kartu meluas ke BBM, transportasi, dan kesejahteraan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0833f3d01031",
-    "slug": "어린이집서-한살배기-손-씻기다-뒤로-쿵전치-8주에-법원-판단은-129494",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T11:19:18.386Z",
-    "updatedAt": "2026-05-09T11:19:18.386Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042278",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042278",
-    "titleFingerprint": "bc7771ebeb87503f77f906092c9dde56ee7d9b9e",
-    "dedupKeys": [
-      "0833f3d01031467c841bd07b0cbf17b4a875f77b",
-      "bc7771ebeb87503f77f906092c9dde56ee7d9b9e",
-      "c6a1724e86b997f5d39eb6aa7d42f6d16382930c"
-    ],
-    "imageUrl": "/images/articles/0833f3d01031.jpg",
-    "i18n": {
-      "ko": {
-        "title": "청주 어린이집 한살배기 손 씻기 사고, 전치 8주 부상에 배상 판결",
-        "excerpt": "청주의 한 어린이집에서 보육교사가 한살배기 아이의 손을 씻기던 중 아이가 뒤로 넘어져 머리를 크게 다친 사고에 대해 법원이 어린이집 측 배상 책임을 인정했다.",
-        "body": "청주의 한 어린이집에서 보육교사가 한살배기 아이의 손을 씻기던 중 아이가 뒤로 넘어져 머리를 크게 다친 사고와 관련해 법원이 어린이집 측에 3300여 만원을 배상하라고 판결했다. 사고는 보육교사가 아이의 손을 씻기는 과정에서 발생했으며, 아이는 머리를 다쳐 전치 8주의 진단을 받은 것으로 전해졌다. 법원은 해당 사고에 대한 어린이집 측 책임을 인정하고 배상액을 정했다. 이번 판단은 영유아 보육 현장에서 안전 관리 책임이 얼마나 엄격하게 적용되는지를 보여주는 사례로 받아들여진다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Cheongju Daycare Fall During Handwashing Leads to 8-Week Injury Ruling",
-        "excerpt": "A court held a daycare center in Cheongju liable after a one-year-old child fell backward while a teacher was washing the child’s hands and suffered a serious head injury.",
-        "body": "A court has ordered a daycare center in Cheongju to pay about 33 million won in compensation after a one-year-old child fell backward and suffered a serious head injury while a childcare teacher was washing the child’s hands. The accident occurred during the handwashing process, and the child was reportedly diagnosed with injuries requiring eight weeks of treatment. The court recognized the daycare center’s responsibility for the incident and set the compensation amount accordingly. The ruling highlights how safety obligations can be applied in childcare settings involving infants and toddlers. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "清州の保育園で1歳児が手洗い中に転倒、全治8週で賠償判決",
-        "excerpt": "清州の保育園で保育士が1歳児の手を洗っていた際、子どもが後ろに倒れて頭に大けがをした事故について、裁判所が園側の賠償責任を認めた。",
-        "body": "清州のある保育園で、保育士が1歳児の手を洗っていた際に子どもが後ろに倒れ、頭に大けがをした事故をめぐり、裁判所は保育園側に約3300万ウォンの賠償を命じた。事故は手洗いの過程で発生し、子どもは頭を負傷して全治8週の診断を受けたとされる。裁判所はこの事故について保育園側の責任を認め、賠償額を定めた。今回の判断は、乳幼児保育の現場で安全管理責任がどのように問われるかを示す事例と受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "清州托儿所一岁幼儿洗手时后仰摔倒，伤情8周获赔判决",
-        "excerpt": "清州一家托儿所内，保育教师为一岁幼儿洗手时，孩子向后摔倒并头部严重受伤，法院认定托儿所方面需承担赔偿责任。",
-        "body": "清州一家托儿所发生一岁幼儿在洗手过程中向后摔倒、头部严重受伤的事故，法院判决托儿所方面赔偿约3300万韩元。事故发生时，保育教师正在为孩子洗手，孩子随后向后倒地。据报道，孩子头部受伤，被诊断为需8周治疗。法院认定托儿所方面对该事故负有责任，并据此确定赔偿金额。此案被视为显示婴幼儿保育现场安全管理责任如何适用的案例。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Guardería de Cheongju deberá indemnizar tras caída de bebé al lavarle las manos",
-        "excerpt": "Un tribunal responsabilizó a una guardería de Cheongju después de que un niño de un año cayera hacia atrás mientras una maestra le lavaba las manos y sufriera una lesión grave en la cabeza.",
-        "body": "Un tribunal ordenó a una guardería de Cheongju pagar unos 33 millones de wones en compensación después de que un niño de un año cayera hacia atrás y sufriera una lesión grave en la cabeza mientras una cuidadora le lavaba las manos. El accidente ocurrió durante el proceso de lavado, y se informó que el menor recibió un diagnóstico de lesiones que requerían ocho semanas de tratamiento. El tribunal reconoció la responsabilidad de la guardería en el incidente y fijó el monto de la indemnización. La decisión muestra cómo puede aplicarse la obligación de seguridad en centros de cuidado infantil. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Creche em Cheongju indenizará bebê que caiu ao lavar as mãos e se feriu",
-        "excerpt": "Um tribunal responsabilizou uma creche em Cheongju após uma criança de um ano cair para trás enquanto uma educadora lavava suas mãos e sofrer uma grave lesão na cabeça.",
-        "body": "Um tribunal determinou que uma creche em Cheongju pague cerca de 33 milhões de wons em indenização depois que uma criança de um ano caiu para trás e sofreu uma grave lesão na cabeça enquanto uma educadora lavava suas mãos. O acidente ocorreu durante o processo de lavagem, e a criança teria recebido diagnóstico de lesões com necessidade de oito semanas de tratamento. O tribunal reconheceu a responsabilidade da creche pelo caso e definiu o valor da compensação. A decisão evidencia como deveres de segurança podem ser aplicados em ambientes de cuidado infantil. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kita in Cheongju muss nach Sturz eines Einjährigen beim Händewaschen zahlen",
-        "excerpt": "Ein Gericht sah die Verantwortung einer Kita in Cheongju, nachdem ein einjähriges Kind beim Händewaschen durch eine Betreuungskraft nach hinten stürzte und eine schwere Kopfverletzung erlitt.",
-        "body": "Ein Gericht hat eine Kindertagesstätte in Cheongju dazu verurteilt, rund 33 Millionen Won Entschädigung zu zahlen, nachdem ein einjähriges Kind nach hinten gestürzt war und sich schwer am Kopf verletzt hatte, während eine Betreuungskraft ihm die Hände wusch. Der Unfall ereignete sich während des Händewaschens; das Kind soll eine Diagnose erhalten haben, die eine Behandlungsdauer von acht Wochen vorsah. Das Gericht erkannte die Verantwortung der Kita für den Vorfall an und legte die Entschädigungssumme fest. Die Entscheidung zeigt, wie Sicherheitsverantwortung in der Betreuung von Kleinkindern bewertet werden kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Une crèche de Cheongju condamnée après la chute d’un bébé au lavage des mains",
-        "excerpt": "Un tribunal a reconnu la responsabilité d’une crèche de Cheongju après qu’un enfant d’un an est tombé en arrière pendant qu’une éducatrice lui lavait les mains, causant une grave blessure à la tête.",
-        "body": "Un tribunal a ordonné à une crèche de Cheongju de verser environ 33 millions de wons d’indemnisation après qu’un enfant d’un an est tombé en arrière et a subi une grave blessure à la tête alors qu’une éducatrice lui lavait les mains. L’accident s’est produit pendant le lavage des mains, et l’enfant aurait reçu un diagnostic nécessitant huit semaines de traitement. Le tribunal a reconnu la responsabilité de la crèche dans l’incident et fixé le montant de l’indemnisation. Cette décision illustre la portée des obligations de sécurité dans les structures d’accueil de jeunes enfants. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "حضانة في تشونغجو تدفع تعويضا بعد سقوط طفل عام واحد أثناء غسل يديه",
-        "excerpt": "حمّلت محكمة حضانة في تشونغجو المسؤولية بعدما سقط طفل يبلغ عاما واحدا إلى الخلف بينما كانت مربية تغسل يديه، ما تسبب في إصابة خطيرة في الرأس.",
-        "body": "أمرت محكمة حضانة في تشونغجو بدفع نحو 33 مليون وون كتعويض، بعد سقوط طفل يبلغ عاما واحدا إلى الخلف وتعرضه لإصابة خطيرة في الرأس بينما كانت مربية تغسل يديه. وقع الحادث أثناء عملية غسل اليدين، وورد أن الطفل تلقى تشخيصا بإصابة تتطلب ثمانية أسابيع من العلاج. واعترفت المحكمة بمسؤولية الحضانة عن الحادث وحددت مبلغ التعويض بناء على ذلك. ويُنظر إلى الحكم بوصفه مثالا على كيفية تطبيق مسؤوليات السلامة في مرافق رعاية الرضع والأطفال الصغار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चोंगजू डेकेयर में हाथ धुलाते समय एक साल के बच्चे की गिरने से चोट, मुआवजे का आदेश",
-        "excerpt": "चोंगजू के एक डेकेयर में शिक्षिका द्वारा एक साल के बच्चे के हाथ धुलाते समय बच्चा पीछे गिर गया और सिर में गंभीर चोट आई, जिसके लिए अदालत ने डेकेयर की जिम्मेदारी मानी।",
-        "body": "चोंगजू के एक डेकेयर में एक साल के बच्चे के हाथ धुलाते समय उसके पीछे गिरने और सिर में गंभीर चोट लगने की घटना पर अदालत ने डेकेयर पक्ष को करीब 3.3 करोड़ वॉन मुआवजा देने का आदेश दिया। घटना उस समय हुई जब देखभाल शिक्षिका बच्चे के हाथ धुला रही थी। बताया गया कि बच्चे को सिर में चोट आई और आठ सप्ताह के उपचार की जरूरत बताने वाला निदान मिला। अदालत ने इस दुर्घटना में डेकेयर की जिम्मेदारी स्वीकार की और मुआवजे की राशि तय की। यह फैसला शिशु देखभाल स्थलों में सुरक्षा प्रबंधन की जिम्मेदारी के महत्व को रेखांकित करता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Tempat Penitipan Anak Cheongju Wajib Ganti Rugi Usai Balita Jatuh Saat Cuci Tangan",
-        "excerpt": "Pengadilan menyatakan tempat penitipan anak di Cheongju bertanggung jawab setelah anak berusia satu tahun jatuh ke belakang saat tangannya dicuci guru pengasuh dan mengalami cedera kepala serius.",
-        "body": "Pengadilan memerintahkan sebuah tempat penitipan anak di Cheongju membayar kompensasi sekitar 33 juta won setelah anak berusia satu tahun jatuh ke belakang dan mengalami cedera kepala serius saat seorang guru pengasuh mencuci tangannya. Kecelakaan itu terjadi dalam proses mencuci tangan, dan anak tersebut dilaporkan mendapat diagnosis cedera yang memerlukan perawatan selama delapan minggu. Pengadilan mengakui tanggung jawab pihak penitipan anak atas insiden itu dan menetapkan nilai ganti rugi. Putusan ini menunjukkan bagaimana kewajiban keselamatan dapat diterapkan di lingkungan pengasuhan bayi dan balita. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e35b5d645f2d",
-    "slug": "여야-대표-거취-민심에-물어보니정청래-연임-반대-45-장동혁-사퇴-42-260346",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T11:18:24.301Z",
-    "updatedAt": "2026-05-09T11:18:24.301Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042372",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042372",
-    "titleFingerprint": "00a7b3a4eeed69a9a262865f76c1123418d70494",
-    "dedupKeys": [
-      "e35b5d645f2d05cd858cd3a35cfdbd6cdd43496f",
-      "00a7b3a4eeed69a9a262865f76c1123418d70494",
-      "35fb0f3d7fc78e145f6fcd8058cbc5cac1ca83b4"
-    ],
-    "imageUrl": "/images/articles/e35b5d645f2d.png",
-    "i18n": {
-      "ko": {
-        "title": "정청래 연임 반대 45%·장동혁 사퇴 42%, 여야 대표 거취 여론 흔들",
-        "excerpt": "최근 여야 대표 거취를 둘러싼 민심 조사에서 정청래 더불어민주당 대표 연임 반대가 45%, 장동혁 국민의힘 대표 사퇴 의견이 42%로 나타났다.",
-        "body": "최근 여야 대표의 거취를 둘러싼 민심 조사에서 정청래 더불어민주당 대표와 장동혁 국민의힘 대표 모두 전체 여론에서 부담스러운 수치를 받아든 것으로 나타났다. 조사 결과 정 대표의 연임에 반대한다는 응답은 45%, 장 대표가 사퇴해야 한다는 응답은 42%로 집계됐다. 두 대표는 각 당 지지층 안에서는 일정 수준의 지지를 확보했지만, 전체 여론에서는 거취를 둘러싼 부정적 기류가 확인됐다. 이번 수치는 여야 지도부가 당내 결속과 외부 민심 사이의 간극을 동시에 관리해야 하는 상황임을 보여준다. 향후 당 운영과 대표직 유지 논의에도 영향을 줄 수 있다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Chung Reelection Opposition at 45%, Jang Resignation Calls at 42% in Party Leadership Poll",
-        "excerpt": "A recent public opinion survey on the futures of South Korea’s ruling and opposition party leaders found 45% opposed Chung Cheong-rae’s reelection and 42% favored Jang Dong-hyuk’s resignation.",
-        "body": "A recent public opinion survey on the political futures of rival party leaders showed difficult overall numbers for both Chung Cheong-rae, leader of the Democratic Party of Korea, and Jang Dong-hyuk, leader of the People Power Party. According to the results, 45% of respondents opposed Chung serving another term, while 42% said Jang should resign. Both leaders retained a certain level of support among their own party supporters, but the broader public mood showed negative pressure over their leadership positions. The figures suggest that both party leadership teams must manage the gap between internal party backing and wider public sentiment. They could also affect future debates over party management and leadership continuity. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "鄭清来代表の再任反対45%、張東赫代表の辞任要求42%　与野党代表に厳しい世論",
-        "excerpt": "最近の与野党代表の進退をめぐる世論調査で、鄭清来・共に民主党代表の再任反対は45%、張東赫・国民の力代表の辞任意見は42%だった。",
-        "body": "最近、与野党代表の進退をめぐる世論調査で、共に民主党の鄭清来代表と国民の力の張東赫代表はいずれも全体世論で重い数字を受け取った。調査結果によると、鄭代表の再任に反対する回答は45%、張代表が辞任すべきだという回答は42%だった。両代表はそれぞれの党支持層の中では一定水準の支持を得ているが、全体世論では進退をめぐる否定的な流れが確認された。今回の数字は、与野党指導部が党内結束と外部の民心との隔たりを同時に管理しなければならない状況を示している。今後の党運営や代表職維持をめぐる議論にも影響し得る。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "郑清来连任反对率45%、张东赫辞职支持率42%，朝野党首去留民意承压",
-        "excerpt": "近期围绕韩国朝野党首去留的民调显示，45%反对共同民主党代表郑清来连任，42%认为国民力量代表张东赫应辞职。",
-        "body": "近期一项围绕朝野党首去留的民意调查显示，共同民主党代表郑清来和国民力量代表张东赫在整体舆论中都面临不小压力。调查结果显示，反对郑清来连任的受访者占45%，认为张东赫应当辞职的受访者占42%。两位代表在各自政党支持层中仍获得一定程度支持，但从整体民意看，围绕其去留的负面气流已经显现。这一数字表明，朝野领导层需要同时处理党内凝聚力与外部民意之间的落差。相关结果也可能影响今后的党务运营和代表职位维持讨论。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Oposición a reelección de Chung llega al 45% y pedidos de dimisión de Jang al 42%",
-        "excerpt": "Una encuesta reciente sobre el futuro de los líderes partidarios surcoreanos mostró 45% de rechazo a la reelección de Chung Cheong-rae y 42% a favor de la dimisión de Jang Dong-hyuk.",
-        "body": "Una encuesta reciente sobre la continuidad de los líderes de los principales partidos mostró cifras incómodas para Chung Cheong-rae, líder del Partido Democrático de Corea, y Jang Dong-hyuk, líder del Partido del Poder Popular. Según los resultados, el 45% de los encuestados se opuso a que Chung continúe otro mandato, mientras que el 42% dijo que Jang debería dimitir. Ambos dirigentes mantienen cierto nivel de apoyo entre los simpatizantes de sus propios partidos, pero la opinión pública general revela una corriente negativa sobre su permanencia. Los datos muestran que las cúpulas de ambos partidos deben gestionar al mismo tiempo la cohesión interna y la distancia con el sentir ciudadano. También podrían influir en futuros debates sobre la conducción partidaria y la continuidad del liderazgo. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Rejeição à reeleição de Chung vai a 45% e pedidos de saída de Jang chegam a 42%",
-        "excerpt": "Uma pesquisa recente sobre o futuro dos líderes partidários da Coreia do Sul mostrou 45% contra a reeleição de Chung Cheong-rae e 42% favoráveis à renúncia de Jang Dong-hyuk.",
-        "body": "Uma pesquisa recente sobre a permanência dos líderes dos principais partidos mostrou números difíceis para Chung Cheong-rae, líder do Partido Democrático da Coreia, e Jang Dong-hyuk, líder do Partido do Poder Popular. Segundo os resultados, 45% dos entrevistados se opuseram a um novo mandato de Chung, enquanto 42% afirmaram que Jang deveria renunciar. Ambos mantêm certo nível de apoio entre os simpatizantes de seus próprios partidos, mas a opinião pública geral indicou pressão negativa em torno de seus cargos. Os números mostram que as lideranças de governo e oposição precisam administrar simultaneamente a coesão interna e a distância em relação ao sentimento público mais amplo. O resultado também pode afetar futuros debates sobre a condução partidária e a continuidade dos líderes. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "45% gegen Chungs Wiederwahl, 42% für Jangs Rücktritt: Parteichefs unter Druck",
-        "excerpt": "Eine aktuelle Umfrage zur Zukunft südkoreanischer Parteichefs zeigt: 45% lehnen eine weitere Amtszeit von Chung Cheong-rae ab, 42% befürworten Jang Dong-hyuks Rücktritt.",
-        "body": "Eine aktuelle Umfrage zur politischen Zukunft der Parteichefs zeigt für Chung Cheong-rae, den Vorsitzenden der Demokratischen Partei Koreas, und Jang Dong-hyuk, den Vorsitzenden der People Power Party, schwierige Werte in der Gesamtöffentlichkeit. Den Ergebnissen zufolge lehnten 45% der Befragten eine weitere Amtszeit Chungs ab, während 42% sagten, Jang solle zurücktreten. Beide Vorsitzende verfügen innerhalb ihrer eigenen Anhängerschaft über ein gewisses Maß an Unterstützung, doch in der breiteren öffentlichen Meinung ist negativer Druck auf ihre Positionen erkennbar. Die Zahlen zeigen, dass die Parteiführungen zugleich den innerparteilichen Zusammenhalt und die Distanz zur allgemeinen Stimmung steuern müssen. Sie könnten auch künftige Debatten über Parteiführung und den Verbleib im Amt beeinflussen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "45% contre la reconduction de Chung, 42% pour le départ de Jang: les chefs sous pression",
-        "excerpt": "Un récent sondage sur l’avenir des chefs de partis sud-coréens indique que 45% s’opposent à la reconduction de Chung Cheong-rae et 42% souhaitent la démission de Jang Dong-hyuk.",
-        "body": "Un récent sondage sur l’avenir politique des chefs des principaux partis sud-coréens fait apparaître des chiffres délicats pour Chung Cheong-rae, chef du Parti démocrate de Corée, et Jang Dong-hyuk, chef du Parti du pouvoir populaire. Selon les résultats, 45% des personnes interrogées s’opposent à un nouveau mandat de Chung, tandis que 42% estiment que Jang devrait démissionner. Les deux responsables conservent un certain niveau de soutien parmi les sympathisants de leur propre parti, mais l’opinion publique générale montre une pression négative autour de leur maintien. Ces chiffres indiquent que les directions des partis doivent gérer à la fois la cohésion interne et l’écart avec le sentiment public plus large. Ils pourraient aussi peser sur les prochains débats concernant la gestion des partis et la continuité du leadership. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "45% يعارضون تمديد ولاية تشونغ و42% يؤيدون استقالة جانغ وسط ضغط شعبي",
-        "excerpt": "أظهر استطلاع حديث حول مستقبل زعيمي الحزبين في كوريا الجنوبية أن 45% يعارضون بقاء تشونغ تشيونغ-راي لولاية جديدة، وأن 42% يرون أن على جانغ دونغ-هيوك الاستقالة.",
-        "body": "أظهر استطلاع حديث للرأي حول مستقبل زعيمي الحزبين الرئيسيين في كوريا الجنوبية أرقاما صعبة لكل من تشونغ تشيونغ-راي، زعيم الحزب الديمقراطي الكوري، وجانغ دونغ-هيوك، زعيم حزب قوة الشعب. ووفقا للنتائج، عارض 45% من المشاركين تولي تشونغ ولاية أخرى، بينما قال 42% إن على جانغ الاستقالة. ويحظى الزعيمان بمستوى معين من الدعم داخل قواعد حزبيهما، لكن الرأي العام الأوسع أظهر اتجاها سلبيا بشأن بقائهما في موقعيهما. وتشير هذه الأرقام إلى أن قيادتي الحزبين تحتاجان إلى إدارة الفجوة بين التماسك الداخلي ومزاج الناخبين العام. وقد تؤثر النتائج أيضا في النقاشات المقبلة حول إدارة الحزبين واستمرار القيادة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "चुंग के फिर कार्यकाल का 45% विरोध, जांग के इस्तीफे के पक्ष में 42% राय",
-        "excerpt": "दक्षिण कोरिया के दल प्रमुखों के भविष्य पर हालिया सर्वे में 45% ने चुंग चेओंग-रे के दोबारा कार्यकाल का विरोध किया, जबकि 42% ने जांग डोंग-ह्युक के इस्तीफे का समर्थन किया।",
-        "body": "दक्षिण कोरिया में प्रमुख दलों के नेताओं के भविष्य पर हालिया जनमत सर्वेक्षण ने डेमोक्रेटिक पार्टी ऑफ कोरिया के नेता चुंग चेओंग-रे और पीपल पावर पार्टी के नेता जांग डोंग-ह्युक, दोनों के लिए चुनौतीपूर्ण संकेत दिए। परिणामों के अनुसार, 45% उत्तरदाताओं ने चुंग के एक और कार्यकाल का विरोध किया, जबकि 42% ने कहा कि जांग को इस्तीफा देना चाहिए। दोनों नेताओं को अपने-अपने दलों के समर्थकों के बीच कुछ स्तर का समर्थन मिला, लेकिन व्यापक जनमत में उनके पद पर बने रहने को लेकर नकारात्मक रुझान दिखा। ये आंकड़े बताते हैं कि दोनों दलों के नेतृत्व को आंतरिक एकजुटता और बाहरी जनभावना के बीच की दूरी को साथ-साथ संभालना होगा। यह आगे पार्टी संचालन और नेतृत्व जारी रखने की बहस को भी प्रभावित कर सकता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Penolakan masa jabatan baru Chung 45%, desakan mundur Jang 42% dalam survei publik",
-        "excerpt": "Survei terbaru tentang nasib pemimpin partai di Korea Selatan menunjukkan 45% menolak Chung Cheong-rae menjabat lagi dan 42% mendukung Jang Dong-hyuk mundur.",
-        "body": "Survei opini publik terbaru mengenai masa depan para pemimpin partai utama di Korea Selatan menunjukkan angka yang berat bagi Chung Cheong-rae, pemimpin Partai Demokrat Korea, dan Jang Dong-hyuk, pemimpin Partai Kekuatan Rakyat. Menurut hasil survei, 45% responden menolak Chung menjabat untuk masa berikutnya, sementara 42% mengatakan Jang sebaiknya mengundurkan diri. Keduanya masih memperoleh tingkat dukungan tertentu dari pendukung partai masing-masing, tetapi opini publik secara keseluruhan memperlihatkan tekanan negatif terhadap posisi mereka. Angka ini menunjukkan bahwa pimpinan kedua partai perlu mengelola jarak antara soliditas internal dan sentimen publik yang lebih luas. Hasil tersebut juga dapat memengaruhi pembahasan mendatang soal pengelolaan partai dan kelanjutan kepemimpinan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "c23342de9f00",
-    "slug": "미국인인데-미스-필리핀에-뽑히다니미인대회-우승자-자격-논란-649129",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T11:17:15.127Z",
-    "updatedAt": "2026-05-09T11:17:15.127Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042374",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042374",
-    "titleFingerprint": "18f78b235357e5c6d77c1cab7816d1683da11854",
-    "dedupKeys": [
-      "c23342de9f006aecf164e434cfcb30de1b1c945b",
-      "18f78b235357e5c6d77c1cab7816d1683da11854",
-      "d4ecab3437e15f87fa345eb8c8c6a0a22ea830f9"
-    ],
-    "imageUrl": "/images/articles/c23342de9f00.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미스 필리핀 우승자 자격 논란, 미국인 비아 밀란-윈도스키 선정 파장",
-        "excerpt": "필리핀이 9일 새 미스 유니버스 후보로 미국인 비아 밀란-윈도스키를 선정하면서, 오는 11월 세계대회 출전을 앞두고 대표 자격 논란이 불거졌다.",
-        "body": "필리핀이 새 미스 유니버스 후보로 비아 밀란-윈도스키를 선정하면서 우승자 자격 논란이 제기됐다. 밀란-윈도스키는 미국인으로 알려졌으며, 이번 선정에 따라 오는 11월 열리는 세계 미스유니버스 대회에 필리핀 대표로 출전할 예정이다. 논란의 핵심은 필리핀 대표 자리를 미국인이 맡는 것이 적절한지를 둘러싼 자격 문제다. 미인대회는 국가 대표성을 앞세우는 행사인 만큼 참가자의 국적과 대표 자격은 대중의 관심을 받을 수밖에 없다. 이번 결정은 대회 본선 전까지 필리핀 안팎에서 계속 논의될 전망이다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Miss Philippines Eligibility Row Grows After American Via Milan-Windowski Wins",
-        "excerpt": "The Philippines selected American Via Milan-Windowski as its new Miss Universe candidate on May 9, sparking eligibility questions before the global pageant in November.",
-        "body": "The Philippines has selected Via Milan-Windowski as its new Miss Universe candidate, triggering debate over the winner’s eligibility. Milan-Windowski is known as an American, and the selection means she is expected to represent the Philippines at the global Miss Universe competition in November. The central issue is whether it is appropriate for an American to hold the Philippines’ representative title. Because beauty pageants emphasize national representation, a contestant’s nationality and qualification to represent a country naturally draw public attention. The decision is likely to remain under discussion in and outside the Philippines before the final contest. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "ミス・フィリピン代表資格に論争、米国人ビア・ミラン＝ウィンドスキー選出",
-        "excerpt": "フィリピンは9日、新たなミス・ユニバース候補に米国人ビア・ミラン＝ウィンドスキーを選び、11月の世界大会を前に代表資格を巡る論争が起きた。",
-        "body": "フィリピンが新たなミス・ユニバース候補にビア・ミラン＝ウィンドスキーを選出し、優勝者の資格を巡る論争が浮上した。ミラン＝ウィンドスキーは米国人として知られており、今回の選出により11月に開かれる世界ミス・ユニバース大会にフィリピン代表として出場する予定だ。論点は、フィリピン代表の座を米国人が担うことが適切かどうかという資格問題にある。美人コンテストは国家代表性を前面に出す行事であるため、出場者の国籍と代表資格は注目を集めやすい。今回の決定は本選までフィリピン内外で議論が続く見通しだ。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "美国人当选菲律宾小姐引发资格争议，维娅·米兰-温多斯基将参赛",
-        "excerpt": "菲律宾9日选定美国人维娅·米兰-温多斯基为新的环球小姐候选人，她将于11月代表菲律宾参赛，资格问题随之引发争议。",
-        "body": "菲律宾选定维娅·米兰-温多斯基为新的环球小姐候选人后，围绕获胜者资格的争议浮出水面。米兰-温多斯基被称为美国人，根据此次选定，她预计将在11月举行的环球小姐世界大赛中代表菲律宾出赛。争议的核心在于，由美国人担任菲律宾代表是否合适。由于选美比赛强调国家代表性，参赛者的国籍和代表资格自然会受到公众关注。此次决定预计在决赛前仍将在菲律宾内外持续引发讨论。出处：引用mk.co.kr。"
-      },
-      "es": {
-        "title": "Polémica por Miss Filipinas: la estadounidense Via Milan-Windowski irá a Miss Universo",
-        "excerpt": "Filipinas eligió el 9 de mayo a la estadounidense Via Milan-Windowski como nueva candidata a Miss Universo, lo que abrió un debate sobre su elegibilidad antes del certamen de noviembre.",
-        "body": "Filipinas eligió a Via Milan-Windowski como nueva candidata a Miss Universo, lo que generó una controversia sobre la elegibilidad de la ganadora. Milan-Windowski es conocida como estadounidense y, tras esta selección, está prevista su participación como representante de Filipinas en el concurso mundial de Miss Universo que se celebrará en noviembre. El punto central del debate es si resulta adecuado que una estadounidense ocupe el puesto de representante filipina. Como los concursos de belleza destacan la representación nacional, la nacionalidad y la legitimidad de una concursante para representar a un país atraen inevitablemente la atención pública. La decisión seguirá siendo discutida dentro y fuera de Filipinas hasta la final. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Miss Filipinas gera polêmica: americana Via Milan-Windowski representará o país",
-        "excerpt": "As Filipinas escolheram em 9 de maio a americana Via Milan-Windowski como nova candidata ao Miss Universo, provocando debate sobre sua elegibilidade antes do concurso de novembro.",
-        "body": "As Filipinas escolheram Via Milan-Windowski como sua nova candidata ao Miss Universo, o que levantou uma polêmica sobre a elegibilidade da vencedora. Milan-Windowski é conhecida como americana e, com a seleção, deverá representar as Filipinas no concurso mundial Miss Universo em novembro. O ponto central da discussão é se é adequado que uma americana ocupe a posição de representante filipina. Como concursos de beleza enfatizam a representação nacional, a nacionalidade da participante e sua qualificação para representar um país naturalmente atraem atenção pública. A decisão deve continuar em debate dentro e fora das Filipinas até a etapa final. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Miss-Philippinen-Streit: US-Amerikanerin Via Milan-Windowski soll Land vertreten",
-        "excerpt": "Die Philippinen wählten am 9. Mai die US-Amerikanerin Via Milan-Windowski zur neuen Miss-Universe-Kandidatin, was vor dem Wettbewerb im November eine Debatte über ihre Eignung auslöste.",
-        "body": "Die Philippinen haben Via Milan-Windowski als neue Kandidatin für Miss Universe ausgewählt und damit eine Debatte über die Teilnahmeberechtigung der Siegerin ausgelöst. Milan-Windowski gilt als US-Amerikanerin und soll nach dieser Auswahl im November die Philippinen beim weltweiten Miss-Universe-Wettbewerb vertreten. Im Mittelpunkt steht die Frage, ob es angemessen ist, dass eine Amerikanerin den philippinischen Vertretertitel trägt. Da Schönheitswettbewerbe nationale Repräsentation betonen, ziehen Staatsangehörigkeit und Vertretungsberechtigung einer Teilnehmerin zwangsläufig öffentliche Aufmerksamkeit auf sich. Die Entscheidung dürfte bis zum Finale innerhalb und außerhalb der Philippinen weiter diskutiert werden. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Miss Philippines contestée: l’Américaine Via Milan-Windowski choisie pour Miss Univers",
-        "excerpt": "Les Philippines ont choisi le 9 mai l’Américaine Via Milan-Windowski comme nouvelle candidate à Miss Univers, déclenchant un débat sur son éligibilité avant le concours de novembre.",
-        "body": "Les Philippines ont choisi Via Milan-Windowski comme nouvelle candidate à Miss Univers, ce qui a suscité une controverse sur l’éligibilité de la gagnante. Milan-Windowski est connue comme Américaine et, à la suite de cette sélection, elle doit représenter les Philippines au concours mondial de Miss Univers prévu en novembre. Le cœur du débat porte sur la pertinence de voir une Américaine occuper la place de représentante des Philippines. Les concours de beauté mettant en avant la représentation nationale, la nationalité d’une candidate et sa qualification pour représenter un pays attirent naturellement l’attention du public. Cette décision devrait continuer à être discutée aux Philippines et ailleurs jusqu’à la finale. Source: cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "جدل أهلية ملكة جمال الفلبين بعد اختيار الأميركية فيا ميلان-ويندوسكي",
-        "excerpt": "اختارت الفلبين في 9 مايو الأميركية فيا ميلان-ويندوسكي مرشحة جديدة لمسابقة ملكة جمال الكون، ما أثار جدلا بشأن أهليتها قبل المسابقة العالمية في نوفمبر.",
-        "body": "اختارت الفلبين فيا ميلان-ويندوسكي مرشحة جديدة لمسابقة ملكة جمال الكون، ما أثار جدلا حول أهلية الفائزة. وتُعرف ميلان-ويندوسكي بأنها أميركية، وبموجب هذا الاختيار من المقرر أن تمثل الفلبين في المسابقة العالمية لملكة جمال الكون المقررة في نوفمبر. وتتركز القضية على ما إذا كان من الملائم أن تشغل أميركية موقع ممثلة الفلبين. وبما أن مسابقات الجمال تقوم على إبراز التمثيل الوطني، فإن جنسية المتسابقة وأهليتها لتمثيل بلد ما تجذبان اهتمام الجمهور بطبيعة الحال. ومن المتوقع أن يستمر النقاش حول هذا القرار داخل الفلبين وخارجها حتى موعد المسابقة النهائية. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "मिस फिलीपींस पर पात्रता विवाद, अमेरिकी विया मिलान-विंडोस्की का चयन चर्चा में",
-        "excerpt": "फिलीपींस ने 9 मई को अमेरिकी विया मिलान-विंडोस्की को नया मिस यूनिवर्स उम्मीदवार चुना, जिसके बाद नवंबर की वैश्विक प्रतियोगिता से पहले प्रतिनिधित्व पात्रता पर विवाद उठा।",
-        "body": "फिलीपींस ने विया मिलान-विंडोस्की को नया मिस यूनिवर्स उम्मीदवार चुना है, जिससे विजेता की पात्रता पर विवाद खड़ा हो गया है। मिलान-विंडोस्की को अमेरिकी बताया गया है और इस चयन के बाद वह नवंबर में होने वाली वैश्विक मिस यूनिवर्स प्रतियोगिता में फिलीपींस का प्रतिनिधित्व करने वाली हैं। विवाद का मुख्य प्रश्न यह है कि क्या किसी अमेरिकी का फिलीपींस प्रतिनिधि बनना उचित है। सौंदर्य प्रतियोगिताएं राष्ट्रीय प्रतिनिधित्व को प्रमुखता देती हैं, इसलिए प्रतिभागी की नागरिकता और किसी देश का प्रतिनिधित्व करने की योग्यता स्वाभाविक रूप से सार्वजनिक ध्यान खींचती है। यह निर्णय अंतिम प्रतियोगिता तक फिलीपींस के भीतर और बाहर चर्चा में रह सकता है। स्रोत: mk.co.kr से उद्धृत."
-      },
-      "id": {
-        "title": "Kontroversi Miss Filipina: Warga AS Via Milan-Windowski Dipilih Jadi Wakil Negara",
-        "excerpt": "Filipina pada 9 Mei memilih warga AS Via Milan-Windowski sebagai kandidat baru Miss Universe, memicu perdebatan kelayakan sebelum ajang dunia pada November.",
-        "body": "Filipina memilih Via Milan-Windowski sebagai kandidat baru Miss Universe, sehingga muncul kontroversi mengenai kelayakan pemenang. Milan-Windowski dikenal sebagai warga Amerika Serikat, dan melalui pemilihan ini ia dijadwalkan mewakili Filipina dalam ajang Miss Universe dunia pada November. Pokok perdebatan adalah apakah tepat seorang warga AS memegang posisi wakil Filipina. Karena kontes kecantikan menonjolkan representasi nasional, kewarganegaraan peserta dan kelayakannya mewakili suatu negara wajar menjadi perhatian publik. Keputusan ini diperkirakan terus dibahas di dalam dan luar Filipina hingga babak final. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
