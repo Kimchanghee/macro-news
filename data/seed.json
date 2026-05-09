@@ -1,5 +1,230 @@
 [
   {
+    "id": "74c5b723bdfb",
+    "slug": "도급대금-안줘-임금체불고공농성노동부-부영주택-시정지시-590901",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T21:23:24.430Z",
+    "updatedAt": "2026-05-09T21:23:24.430Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "titleFingerprint": "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+    "dedupKeys": [
+      "74c5b723bdfb20ff5ad82c853a93c507cf954b7d",
+      "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+      "1e6a3d755483d53ed344770b6cc79e7956576453"
+    ],
+    "imageUrl": "/images/articles/74c5b723bdfb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부영주택 도급대금 미지급 논란에 노동부 시정지시, 임금체불·고공농성까지",
+        "excerpt": "고용노동부는 자체 감사 등을 이유로 하도급 업체 기성금 지급을 미루고 직원 수당을 적게 지급한 부영주택에 대해 시정지시를 내렸다.",
+        "body": "고용노동부가 하도급 업체에 도급대금 성격의 기성금 지급을 미루고 직원들에게 일부 수당을 적게 지급한 부영주택에 대해 시정지시를 내렸다. 원문에 따르면 부영주택은 자체 감사 등을 이유로 하도급 업체에 지급해야 할 기성금을 제때 지급하지 않았고, 이 과정에서 임금체불 문제가 불거졌다. 관련 갈등은 고공농성으로까지 이어진 것으로 전해졌다. 노동부의 이번 조치는 미지급 대금과 임금 관련 문제를 바로잡도록 요구한 것이다. 건설·하도급 현장에서 대금 지급 지연이 노동자 임금 문제로 연결될 수 있다는 점에서 후속 이행 여부가 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Booyoung Housing Ordered to Correct Delayed Subcontract Payments and Wage Issues",
+        "excerpt": "South Korea’s labor ministry issued a corrective order to Booyoung Housing for delaying progress payments to a subcontractor and underpaying some employee allowances.",
+        "body": "South Korea’s Ministry of Employment and Labor has issued a corrective order to Booyoung Housing after the company delayed progress payments owed to a subcontractor and paid some employee allowances below the required level. According to the original report, Booyoung Housing postponed payments to the subcontracting firm, citing reasons including an internal audit. The dispute led to wage arrears and escalated into a high-altitude protest. The ministry’s order requires the company to correct the unpaid payment and wage-related problems. The case draws attention because delayed subcontract payments at construction sites can directly affect workers’ wages. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "富栄住宅、下請代金遅延と賃金未払いで労働部が是正指示",
+        "excerpt": "韓国雇用労働部は、内部監査などを理由に下請け業者への出来高払いを遅らせ、職員手当を少なく支給した富栄住宅に是正指示を出した。",
+        "body": "韓国雇用労働部は、下請け業者に支払うべき出来高払いを遅らせ、職員の一部手当を少なく支給した富栄住宅に対し、是正指示を出した。原文によると、富栄住宅は内部監査などを理由に、下請け業者への支払いを期限どおり行わなかった。この過程で賃金未払い問題が表面化し、関連する対立は高所での抗議行動にまで発展したとされる。今回の措置は、未払い代金と賃金関連の問題を是正するよう求めるものだ。建設・下請け現場での支払い遅延が労働者賃金に影響し得る点から、今後の履行が注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "富荣住宅拖欠承包款引发欠薪与高空抗议，韩国劳动部下达整改令",
+        "excerpt": "韩国雇佣劳动部对富荣住宅下达整改指示，原因是其以内部审计等为由推迟向分包企业支付进度款，并少付员工津贴。",
+        "body": "韩国雇佣劳动部已对富荣住宅下达整改指示，原因是该公司推迟向分包企业支付具有承包款性质的进度款，并向员工少支付部分津贴。据原文报道，富荣住宅以内部审计等为由，未按时向分包企业支付应付进度款，由此引发欠薪问题。相关矛盾还发展为高空抗议。劳动部此次措施要求企业纠正未付款项和工资相关问题。该事件显示，在建筑和分包现场，工程款支付延迟可能直接影响劳动者工资，后续整改执行情况受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Booyoung Housing recibe orden laboral por pagos retrasados y salarios impagos",
+        "excerpt": "El Ministerio de Trabajo de Corea del Sur ordenó a Booyoung Housing corregir retrasos en pagos a una subcontratista y pagos insuficientes de asignaciones a empleados.",
+        "body": "El Ministerio de Empleo y Trabajo de Corea del Sur emitió una orden correctiva contra Booyoung Housing por retrasar pagos de avance adeudados a una empresa subcontratista y pagar de menos algunas asignaciones a sus empleados. Según el reporte original, la compañía aplazó esos pagos alegando, entre otros motivos, una auditoría interna. En el proceso surgió un problema de salarios impagos y el conflicto llegó a una protesta en altura. La medida del ministerio exige corregir los pagos pendientes y los asuntos salariales relacionados. El caso vuelve a poner el foco en cómo los retrasos de pago en obras y subcontratación pueden afectar directamente los salarios de los trabajadores. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Booyoung Housing recebe ordem trabalhista por atrasos a subcontratada e salários",
+        "excerpt": "O Ministério do Trabalho da Coreia do Sul emitiu ordem corretiva contra a Booyoung Housing por atrasar pagamentos a subcontratada e pagar menos benefícios a funcionários.",
+        "body": "O Ministério do Emprego e Trabalho da Coreia do Sul emitiu uma ordem corretiva contra a Booyoung Housing após a empresa atrasar pagamentos de progresso devidos a uma subcontratada e pagar abaixo do devido alguns adicionais a funcionários. Segundo a reportagem original, a Booyoung Housing adiou os pagamentos alegando motivos como uma auditoria interna. O caso gerou problema de salários em atraso e o conflito chegou a uma manifestação em local elevado. A ordem do ministério exige a correção dos valores não pagos e das questões salariais relacionadas. O episódio chama atenção porque atrasos em pagamentos de obras e subcontratações podem afetar diretamente os salários dos trabalhadores. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Booyoung Housing erhält Arbeitsanweisung wegen verzögerter Zahlungen und Löhnen",
+        "excerpt": "Südkoreas Arbeitsministerium wies Booyoung Housing zur Korrektur an, nachdem Zahlungen an einen Subunternehmer verzögert und Zulagen zu niedrig gezahlt wurden.",
+        "body": "Das südkoreanische Ministerium für Beschäftigung und Arbeit hat Booyoung Housing eine Korrekturanweisung erteilt. Das Unternehmen hatte fällige Abschlagszahlungen an einen Subunternehmer verzögert und einigen Beschäftigten Zulagen zu niedrig ausgezahlt. Dem Originalbericht zufolge begründete Booyoung Housing die aufgeschobenen Zahlungen unter anderem mit einer internen Prüfung. Dadurch entstand ein Problem unbezahlter Löhne, und der Konflikt eskalierte bis zu einem Protest in großer Höhe. Die Anweisung des Ministeriums verlangt, die ausstehenden Zahlungen und lohnbezogenen Probleme zu korrigieren. Der Fall zeigt, dass Zahlungsverzögerungen auf Bau- und Subunternehmerseiten unmittelbar Beschäftigtenlöhne treffen können. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Booyoung Housing visée par un ordre correctif pour retards de paiement et salaires",
+        "excerpt": "Le ministère sud-coréen du Travail a ordonné à Booyoung Housing de corriger des retards de paiement à un sous-traitant et des indemnités insuffisantes versées à des employés.",
+        "body": "Le ministère sud-coréen de l’Emploi et du Travail a émis un ordre correctif contre Booyoung Housing après des retards de paiement dus à une entreprise sous-traitante et le versement insuffisant de certaines indemnités à des employés. Selon l’article original, Booyoung Housing a différé les paiements d’avancement en invoquant notamment un audit interne. Le dossier a fait apparaître des arriérés de salaires et le conflit a été jusqu’à une protestation en hauteur. La mesure du ministère demande la correction des montants impayés et des problèmes liés aux salaires. L’affaire souligne que les retards de paiement dans la construction et la sous-traitance peuvent affecter directement la rémunération des travailleurs. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أمر تصحيحي ضد بويونغ هاوسنغ بسبب تأخر مدفوعات المقاولة والأجور",
+        "excerpt": "أصدرت وزارة العمل الكورية الجنوبية أمرا تصحيحيا بحق بويونغ هاوسنغ لتأخيرها دفعات مستحقة لمقاول فرعي ودفعها بعض بدلات الموظفين بأقل من المستحق.",
+        "body": "أصدرت وزارة التوظيف والعمل في كوريا الجنوبية أمرا تصحيحيا بحق شركة بويونغ هاوسنغ بعدما أخرت دفعات تقدم مستحقة لشركة مقاولات فرعية ودفعت بعض بدلات الموظفين بأقل من المستحق. ووفق التقرير الأصلي، أرجأت الشركة المدفوعات لأسباب من بينها تدقيق داخلي. وخلال ذلك برزت مشكلة تأخر الأجور، وتطور النزاع إلى احتجاج على ارتفاع. ويطلب أمر الوزارة تصحيح مبالغ الدفع غير المسددة والقضايا المرتبطة بالأجور. وتلفت القضية الانتباه إلى أن تأخير المدفوعات في مواقع البناء والتعاقد من الباطن قد ينعكس مباشرة على أجور العمال. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Booyoung Housing को ठेका भुगतान और वेतन बकाया पर श्रम मंत्रालय का सुधार आदेश",
+        "excerpt": "दक्षिण कोरिया के श्रम मंत्रालय ने Booyoung Housing को उपठेकेदार के भुगतान में देरी और कर्मचारियों को कुछ भत्ते कम देने पर सुधार निर्देश दिया।",
+        "body": "दक्षिण कोरिया के रोजगार और श्रम मंत्रालय ने Booyoung Housing को सुधार आदेश जारी किया है। कंपनी ने उपठेकेदार को देय प्रगति भुगतान में देरी की और कर्मचारियों को कुछ भत्ते निर्धारित से कम दिए। मूल रिपोर्ट के अनुसार, Booyoung Housing ने आंतरिक ऑडिट सहित कारणों का हवाला देकर भुगतान टाल दिया। इसी प्रक्रिया में वेतन बकाया का मुद्दा सामने आया और विवाद ऊंचाई पर किए गए प्रदर्शन तक पहुंच गया। मंत्रालय का आदेश अवैतनिक राशि और वेतन संबंधी समस्याओं को ठीक करने के लिए है। यह मामला दिखाता है कि निर्माण और उपठेका कार्यस्थलों में भुगतान देरी सीधे मजदूरों के वेतन को प्रभावित कर सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Booyoung Housing Diperintahkan Koreksi Pembayaran Subkontrak dan Tunggakan Upah",
+        "excerpt": "Kementerian Tenaga Kerja Korea Selatan memberi perintah korektif kepada Booyoung Housing karena menunda pembayaran kepada subkontraktor dan mengurangi tunjangan karyawan.",
+        "body": "Kementerian Ketenagakerjaan dan Tenaga Kerja Korea Selatan mengeluarkan perintah korektif kepada Booyoung Housing setelah perusahaan itu menunda pembayaran progres kepada perusahaan subkontraktor dan membayar sebagian tunjangan karyawan lebih rendah dari semestinya. Menurut laporan asli, Booyoung Housing menunda pembayaran tersebut dengan alasan termasuk audit internal. Dalam proses itu muncul masalah tunggakan upah, dan konflik berujung pada aksi protes di ketinggian. Perintah kementerian meminta perusahaan memperbaiki pembayaran yang belum diselesaikan serta masalah terkait upah. Kasus ini menarik perhatian karena keterlambatan pembayaran di proyek konstruksi dan subkontrak dapat berdampak langsung pada upah pekerja. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cfb5be7d479e",
+    "slug": "20대의-테슬라-기아-제치고-지난달-국내-전기차-첫-1위-720219",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T21:22:31.994Z",
+    "updatedAt": "2026-05-09T21:22:31.994Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
+    "titleFingerprint": "7896331f2884b3abc9c1971d827cba1f84d2321d",
+    "dedupKeys": [
+      "cfb5be7d479e3e2ef1fb0ed7f0f76abb3924bf52",
+      "7896331f2884b3abc9c1971d827cba1f84d2321d",
+      "d74d14b5e2011c527047156bb61999944588467f"
+    ],
+    "imageUrl": "/images/articles/cfb5be7d479e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "테슬라, 기아 제치고 지난달 국내 승용 전기차 판매 첫 1위",
+        "excerpt": "미국 테슬라가 지난달 국내 승용 전기차 시장에서 한국 기아를 처음으로 제치고 판매 1위 브랜드에 올랐다고 연합뉴스가 보도했다.",
+        "body": "미국 전기차 브랜드 테슬라가 지난달 국내 승용 전기차 판매에서 한국 기아를 처음으로 앞서며 1위 브랜드가 됐다. 연합뉴스에 따르면 테슬라는 국내 승용 전기차 분야에서 기아를 제치고 월간 판매 선두에 올랐다. 이번 결과는 국내 전기차 시장에서 수입 브랜드인 테슬라가 한국 완성차 브랜드를 넘어선 첫 사례라는 점에서 주목된다. 다만 원문은 구체적인 판매 대수나 차종별 실적은 제시하지 않았다. 국내 승용 전기차 브랜드 경쟁 구도에 변화가 생겼다는 점이 핵심이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Tesla Tops Kia to Take First Place in South Korea EV Sales Last Month",
+        "excerpt": "U.S. automaker Tesla became the top-selling passenger electric vehicle brand in South Korea last month, surpassing Kia for the first time, Yonhap reported.",
+        "body": "Tesla, the U.S. electric vehicle brand, became the No. 1 passenger EV brand in South Korea last month after overtaking South Korea’s Kia for the first time. According to Yonhap News Agency, Tesla led monthly sales in the domestic passenger electric vehicle segment by surpassing Kia. The result is notable because it marks the first time Tesla, an imported brand, has moved ahead of a Korean automaker in this category. The original report did not provide specific sales volumes or model-level figures. The key point is a shift in the competitive order of South Korea’s passenger EV market. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "テスラ、韓国乗用EV販売で起亜を初めて抜き先月1位に",
+        "excerpt": "米国のテスラが先月、韓国の乗用電気自動車市場で起亜を初めて上回り、販売首位ブランドになったと聯合ニュースが報じた。",
+        "body": "米国の電気自動車ブランド、テスラが先月、韓国国内の乗用EV販売で韓国の起亜を初めて上回り、1位ブランドとなった。聯合ニュースによると、テスラは国内乗用電気自動車分野で起亜を抜き、月間販売の首位に立った。今回の結果は、輸入ブランドであるテスラが韓国完成車ブランドをこの分野で上回った初の事例という点で注目される。ただし原文は具体的な販売台数や車種別実績を示していない。韓国の乗用EVブランド競争の構図に変化が生じたことが核心だ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "特斯拉上月在韩国乘用电动车销量首次超越起亚登顶",
+        "excerpt": "据韩联社报道，美国特斯拉上月在韩国乘用电动车市场首次超过韩国起亚，成为销量第一的品牌。",
+        "body": "美国电动车品牌特斯拉上月在韩国国内乘用电动车销量中首次超过韩国起亚，成为第一品牌。据韩联社报道，特斯拉在韩国乘用电动车领域超越起亚，登上月度销量榜首。这一结果受到关注，因为这是进口品牌特斯拉首次在该领域领先韩国整车品牌。原文未提供具体销量或按车型划分的成绩。核心信息是，韩国乘用电动车品牌竞争格局出现了变化。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Tesla supera a Kia y lidera por primera vez las ventas de EV en Corea",
+        "excerpt": "Tesla, de Estados Unidos, fue el mes pasado la marca más vendida de autos eléctricos de pasajeros en Corea del Sur tras superar por primera vez a Kia, informó Yonhap.",
+        "body": "Tesla, la marca estadounidense de vehículos eléctricos, se convirtió el mes pasado en la número uno en ventas de autos eléctricos de pasajeros en Corea del Sur tras superar por primera vez a la surcoreana Kia. Según la agencia Yonhap, Tesla encabezó las ventas mensuales en el segmento local de vehículos eléctricos de pasajeros al dejar atrás a Kia. El resultado destaca porque marca la primera vez que Tesla, una marca importada, supera a un fabricante coreano en esta categoría. El reporte original no incluyó cifras concretas de ventas ni datos por modelo. La clave es un cambio en la competencia de marcas de EV de pasajeros en Corea del Sur. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Tesla passa a Kia e lidera pela primeira vez vendas de EVs na Coreia",
+        "excerpt": "A Tesla, dos EUA, tornou-se no mês passado a marca mais vendida de carros elétricos de passeio na Coreia do Sul ao superar a Kia pela primeira vez, informou a Yonhap.",
+        "body": "A Tesla, marca norte-americana de veículos elétricos, tornou-se no mês passado a líder em vendas de carros elétricos de passeio na Coreia do Sul ao superar pela primeira vez a sul-coreana Kia. Segundo a agência Yonhap, a Tesla ficou no topo das vendas mensais no segmento doméstico de veículos elétricos de passeio ao ultrapassar a Kia. O resultado chama atenção por ser a primeira vez que a Tesla, uma marca importada, fica à frente de uma montadora coreana nessa categoria. A reportagem original não apresentou volumes específicos de venda nem dados por modelo. O ponto central é uma mudança na disputa entre marcas de EVs de passeio na Coreia do Sul. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Tesla überholt Kia und führt erstmals Südkoreas Pkw-EV-Verkäufe an",
+        "excerpt": "Tesla aus den USA wurde im vergangenen Monat erstmals die meistverkaufte Marke für elektrische Pkw in Südkorea und überholte Kia, berichtete Yonhap.",
+        "body": "Die US-Elektroautomarke Tesla wurde im vergangenen Monat in Südkorea erstmals die Nummer eins bei den Verkäufen von elektrischen Pkw und überholte die südkoreanische Marke Kia. Laut der Nachrichtenagentur Yonhap führte Tesla die monatlichen Verkäufe im heimischen Segment der elektrischen Pkw an, nachdem es Kia hinter sich gelassen hatte. Das Ergebnis ist bemerkenswert, weil Tesla als Importmarke in dieser Kategorie erstmals vor einem koreanischen Autohersteller lag. Der Originalbericht nannte keine konkreten Verkaufszahlen und keine Ergebnisse nach Modell. Entscheidend ist eine veränderte Wettbewerbsordnung im südkoreanischen Markt für elektrische Pkw. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Tesla dépasse Kia et devient numéro un des ventes de VE en Corée",
+        "excerpt": "Tesla, constructeur américain, est devenu le mois dernier la marque la plus vendue de voitures électriques particulières en Corée du Sud, devant Kia pour la première fois, selon Yonhap.",
+        "body": "Tesla, marque américaine de véhicules électriques, est devenue le mois dernier numéro un des ventes de voitures électriques particulières en Corée du Sud après avoir dépassé Kia pour la première fois. Selon l’agence Yonhap, Tesla a pris la tête des ventes mensuelles dans le segment national des véhicules électriques particuliers en devançant Kia. Ce résultat retient l’attention car il s’agit de la première fois qu’une marque importée, Tesla, passe devant un constructeur coréen dans cette catégorie. Le texte original ne fournit pas de volumes de ventes précis ni de chiffres par modèle. L’élément central est un changement dans la concurrence entre marques de VE particulières en Corée du Sud. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تسلا تتجاوز كيا وتتصدر مبيعات السيارات الكهربائية في كوريا لأول مرة",
+        "excerpt": "أصبحت تسلا الأميركية في الشهر الماضي العلامة الأكثر مبيعا لسيارات الركاب الكهربائية في كوريا الجنوبية بعد أن تجاوزت كيا لأول مرة، وفق يونهاب.",
+        "body": "أصبحت تسلا، العلامة الأميركية للسيارات الكهربائية، في الشهر الماضي العلامة الأولى في مبيعات سيارات الركاب الكهربائية داخل كوريا الجنوبية بعد أن سبقت كيا الكورية للمرة الأولى. وبحسب وكالة يونهاب للأنباء، تصدرت تسلا المبيعات الشهرية في قطاع سيارات الركاب الكهربائية المحلي متجاوزة كيا. وتحظى النتيجة بالاهتمام لأنها تمثل أول حالة تتقدم فيها تسلا، بوصفها علامة مستوردة، على شركة سيارات كورية في هذه الفئة. ولم يورد النص الأصلي أرقاما محددة للمبيعات أو نتائج بحسب الطراز. والخلاصة هي حدوث تغير في ترتيب المنافسة بين علامات سيارات الركاب الكهربائية في كوريا الجنوبية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "टेस्ला ने किआ को पीछे छोड़ा, कोरिया EV बिक्री में पहली बार शीर्ष पर",
+        "excerpt": "अमेरिका की टेस्ला पिछले महीने दक्षिण कोरिया में यात्री इलेक्ट्रिक वाहनों की सबसे अधिक बिकने वाली ब्रांड बनी और पहली बार किआ से आगे निकली, योनहाप ने बताया।",
+        "body": "अमेरिकी इलेक्ट्रिक वाहन ब्रांड टेस्ला पिछले महीने दक्षिण कोरिया में यात्री इलेक्ट्रिक वाहनों की बिक्री में पहली बार दक्षिण कोरिया की किआ से आगे निकलकर नंबर एक ब्रांड बन गई। योनहाप समाचार एजेंसी के अनुसार, टेस्ला ने घरेलू यात्री इलेक्ट्रिक वाहन क्षेत्र में किआ को पीछे छोड़ते हुए मासिक बिक्री में शीर्ष स्थान हासिल किया। यह परिणाम इसलिए उल्लेखनीय है क्योंकि आयातित ब्रांड टेस्ला ने इस श्रेणी में पहली बार किसी कोरियाई वाहन निर्माता को पीछे छोड़ा है। मूल रिपोर्ट में बिक्री की ठोस संख्या या मॉडलवार आंकड़े नहीं दिए गए। मुख्य बात दक्षिण कोरिया के यात्री EV ब्रांडों की प्रतिस्पर्धा में आया बदलाव है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Tesla Salip Kia dan Pimpin Penjualan EV Penumpang Korea Bulan Lalu",
+        "excerpt": "Tesla dari Amerika Serikat menjadi merek mobil listrik penumpang terlaris di Korea Selatan bulan lalu setelah untuk pertama kalinya melampaui Kia, lapor Yonhap.",
+        "body": "Tesla, merek kendaraan listrik asal Amerika Serikat, menjadi merek nomor satu dalam penjualan mobil listrik penumpang di Korea Selatan bulan lalu setelah untuk pertama kalinya melampaui Kia dari Korea Selatan. Menurut kantor berita Yonhap, Tesla memimpin penjualan bulanan di segmen kendaraan listrik penumpang domestik dengan menyalip Kia. Hasil ini menarik perhatian karena menjadi kali pertama Tesla, sebagai merek impor, berada di depan produsen mobil Korea dalam kategori tersebut. Laporan asli tidak menyebutkan angka penjualan spesifik atau capaian per model. Intinya adalah adanya perubahan dalam peta persaingan merek EV penumpang di Korea Selatan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "3a9ce91eed51",
+    "slug": "이건-ai가-절대-커버-못해현장의-감정-포착하는-사진-book-631355",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T21:21:41.398Z",
+    "updatedAt": "2026-05-09T21:21:41.398Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/culture/12042406",
+    "canonicalUrl": "https://www.mk.co.kr/news/culture/12042406",
+    "titleFingerprint": "a13f357e345fc8d590f43c822df91cb903e78fd6",
+    "dedupKeys": [
+      "3a9ce91eed51212184a481b93f38ced952efaf4a",
+      "a13f357e345fc8d590f43c822df91cb903e78fd6",
+      "48ffeba3b013ba1e77320dfd004facea537b12f5"
+    ],
+    "imageUrl": "/images/articles/3a9ce91eed51.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI가 못 찍는 사진의 조건, 퓰리처상 사진기자가 말한 현장의 감정",
+        "excerpt": "매일경제 보도에 따르면 퓰리처상 사진기자는 AI가 카메라 셔터를 누르지 못한다는 점을 들어, 현장의 감정을 포착하는 ‘좋은 사진’의 가치를 짚었다.",
+        "body": "매일경제는 퓰리처상 사진기자가 정의한 ‘좋은 사진’의 조건을 소개하며, AI 시대에도 사진이 대체되기 어려운 이유를 전했다. 보도에 따르면 AI는 이미지를 만들 수는 있어도 현장에서 카메라 셔터를 누르고 순간의 감정을 포착하는 행위는 할 수 없다. 기사에서는 19세기 다게레오타이프 등장 당시 “이제 회화는 끝났다”는 반응이 나왔던 역사적 맥락도 함께 언급됐다. 그러나 사진은 단순한 재현을 넘어 현장성과 감정, 사건의 공기를 담는 매체로 자리 잡았다. AI가 시각 이미지를 빠르게 생성하는 시대에도 사람이 현장에 서서 포착한 장면의 의미는 여전히 중요하다는 메시지다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "What AI Still Cannot Photograph, According to a Pulitzer Prize Photojournalist",
+        "excerpt": "According to Maeil Business Newspaper, a Pulitzer Prize photojournalist says AI cannot press a camera shutter, underscoring the value of photos that capture emotion on site.",
+        "body": "Maeil Business Newspaper reported on how a Pulitzer Prize photojournalist defines a “good photograph” and why photography remains hard to replace in the age of AI. According to the report, AI can create images, but it cannot stand at a scene, press a camera shutter, and capture the emotion of a specific moment. The article also recalled the historical context of the 19th-century daguerreotype, when some declared that painting was over. Yet photography became more than simple reproduction, carrying the immediacy, emotion, and atmosphere of real events. Even as AI rapidly generates visual images, the report stresses the continuing value of scenes captured by a person in the field. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AIが撮れない写真とは、ピュリツァー賞写真記者が語る現場の感情",
+        "excerpt": "毎日経済によると、ピュリツァー賞写真記者はAIがカメラのシャッターを押せない点を挙げ、現場の感情を捉える写真の価値を語った。",
+        "body": "毎日経済は、ピュリツァー賞写真記者が定義する「良い写真」の条件を紹介し、AI時代にも写真が代替されにくい理由を伝えた。報道によると、AIは画像を作ることはできても、現場に立ってカメラのシャッターを押し、その瞬間の感情を捉えることはできない。記事では、19世紀にダゲレオタイプが登場した際、「これで絵画は終わった」と受け止められた歴史的文脈にも触れている。しかし写真は単なる再現を超え、現場性、感情、事件の空気を伝えるメディアとして定着した。AIが視覚イメージを素早く生成する時代でも、人が現場で捉えた場面の意味はなお重要だという内容だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI仍无法拍到的照片，普利策摄影记者谈现场情感价值",
+        "excerpt": "据《每日经济》报道，普利策奖摄影记者指出，AI无法按下相机快门，因此凸显了捕捉现场情感的“好照片”价值。",
+        "body": "《每日经济》报道了普利策奖摄影记者对“好照片”的定义，并说明在AI时代摄影为何仍难以被取代。报道称，AI可以生成图像，却无法站在现场按下相机快门，也无法捕捉某一瞬间的真实情感。文章还提到19世纪达盖尔银版摄影术出现时，曾有人认为“绘画已经结束”的历史背景。但摄影并未停留在单纯再现，而是成为承载现场性、情感和事件氛围的媒介。即使AI能够快速生成视觉图像，人类在现场捕捉到的画面依然具有重要意义。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lo que la IA no puede fotografiar: emoción real según un Pulitzer",
+        "excerpt": "Según Maeil Business Newspaper, un fotoperiodista ganador del Pulitzer afirma que la IA no puede pulsar el obturador y destaca el valor de captar emociones en el lugar.",
+        "body": "Maeil Business Newspaper informó sobre la definición de “buena fotografía” de un fotoperiodista ganador del Pulitzer y por qué la fotografía sigue siendo difícil de sustituir en la era de la IA. Según el reporte, la IA puede crear imágenes, pero no puede estar en el lugar, pulsar el obturador de una cámara y captar la emoción de un momento concreto. El artículo también recordó el contexto histórico del daguerrotipo del siglo XIX, cuando se dijo que la pintura había llegado a su fin. Sin embargo, la fotografía se consolidó como algo más que una reproducción: un medio capaz de contener presencia, emoción y la atmósfera de los hechos. Aun cuando la IA genera imágenes con rapidez, las escenas captadas por una persona en el terreno conservan su importancia. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "O que a IA ainda não fotografa: emoção real segundo um Pulitzer",
+        "excerpt": "Segundo o Maeil Business Newspaper, um fotojornalista vencedor do Pulitzer diz que a IA não aperta o obturador e destaca o valor de captar emoções no local.",
+        "body": "O Maeil Business Newspaper apresentou a definição de “boa fotografia” dada por um fotojornalista vencedor do Pulitzer e explicou por que a fotografia continua difícil de substituir na era da IA. Segundo a reportagem, a IA pode criar imagens, mas não pode estar no local, apertar o obturador de uma câmera e captar a emoção de um momento específico. O texto também citou o contexto histórico do daguerreótipo no século XIX, quando houve quem dissesse que a pintura havia acabado. Ainda assim, a fotografia se firmou como mais do que simples reprodução, reunindo presença, emoção e a atmosfera dos acontecimentos. Mesmo com a geração rápida de imagens por IA, cenas captadas por uma pessoa no campo seguem relevantes. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Was KI nicht fotografieren kann: Pulitzer-Fotograf über echte Emotion",
+        "excerpt": "Laut Maeil Business Newspaper betont ein Pulitzer-prämierter Fotograf, dass KI keinen Kameraverschluss auslösen kann und damit den Wert von Emotionen vor Ort nicht ersetzt.",
+        "body": "Maeil Business Newspaper berichtete über die Definition eines Pulitzer-prämierten Fotografen von einem „guten Foto“ und darüber, warum Fotografie im KI-Zeitalter schwer zu ersetzen bleibt. Dem Bericht zufolge kann KI Bilder erzeugen, aber sie kann nicht am Ort des Geschehens stehen, den Kameraverschluss drücken und die Emotion eines bestimmten Moments festhalten. Der Artikel verweist auch auf den historischen Kontext der Daguerreotypie im 19. Jahrhundert, als manche erklärten, die Malerei sei nun am Ende. Doch Fotografie wurde mehr als bloße Wiedergabe: ein Medium für Gegenwärtigkeit, Emotion und die Atmosphäre von Ereignissen. Auch wenn KI visuelle Bilder schnell erzeugt, bleibt die Bedeutung menschlich vor Ort aufgenommener Szenen zentral. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Ce que l’IA ne peut pas photographier, selon un photographe Pulitzer",
+        "excerpt": "Selon Maeil Business Newspaper, un photographe lauréat du Pulitzer rappelle que l’IA ne peut pas appuyer sur l’obturateur et capter l’émotion du terrain.",
+        "body": "Maeil Business Newspaper a présenté la définition d’une « bonne photographie » donnée par un photographe lauréat du Pulitzer et expliqué pourquoi la photo reste difficile à remplacer à l’ère de l’IA. Selon l’article, l’IA peut créer des images, mais elle ne peut pas se tenir sur le terrain, appuyer sur l’obturateur d’un appareil et saisir l’émotion d’un instant précis. Le texte rappelle aussi le contexte historique du daguerréotype au XIXe siècle, lorsque certains ont affirmé que la peinture était terminée. Pourtant, la photographie s’est imposée comme plus qu’une simple reproduction, en portant la présence, l’émotion et l’atmosphère des événements. Même si l’IA génère rapidement des images, les scènes captées par une personne sur place gardent leur importance. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ما لا تستطيع الذكاء الاصطناعي تصويره: عاطفة الميدان بعدسة بوليتزر",
+        "excerpt": "بحسب صحيفة ماييل الاقتصادية، يؤكد مصور حائز على بوليتزر أن الذكاء الاصطناعي لا يستطيع ضغط زر الكاميرا، ما يبرز قيمة التقاط مشاعر الميدان.",
+        "body": "عرضت صحيفة ماييل الاقتصادية تعريف مصور صحفي حائز على جائزة بوليتزر لـ«الصورة الجيدة»، وشرحت لماذا يصعب استبدال التصوير في عصر الذكاء الاصطناعي. ووفق التقرير، يستطيع الذكاء الاصطناعي إنشاء الصور، لكنه لا يستطيع الوقوف في موقع الحدث، والضغط على زر الكاميرا، والتقاط شعور لحظة محددة. كما أشار المقال إلى سياق تاريخي يعود إلى ظهور الداجيروتايب في القرن التاسع عشر، حين قيل إن الرسم قد انتهى. لكن التصوير تجاوز مجرد إعادة إنتاج المشهد، وأصبح وسيطا يحمل الحضور الميداني والعاطفة وأجواء الحدث. وحتى مع قدرة الذكاء الاصطناعي على توليد الصور بسرعة، تبقى للمشاهد التي يلتقطها إنسان في الموقع أهمية واضحة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI जो तस्वीर नहीं ले सकता, पुलित्जर फोटोग्राफर ने बताई वजह",
+        "excerpt": "Maeil Business Newspaper के अनुसार, पुलित्जर विजेता फोटो पत्रकार ने कहा कि AI कैमरे का शटर नहीं दबा सकता, इसलिए现场 की भावना पकड़ने वाली तस्वीरों का मूल्य बना रहता है।",
+        "body": "Maeil Business Newspaper ने पुलित्जर पुरस्कार विजेता फोटो पत्रकार द्वारा बताई गई “अच्छी तस्वीर” की परिभाषा पेश की और बताया कि AI के युग में भी फोटोग्राफी को बदलना कठिन क्यों है। रिपोर्ट के अनुसार, AI छवियां बना सकता है, लेकिन वह घटना स्थल पर खड़ा होकर कैमरे का शटर नहीं दबा सकता और किसी खास क्षण की भावना को पकड़ नहीं सकता। लेख में 19वीं सदी के डागेरियोटाइप के आगमन का ऐतिहासिक संदर्भ भी दिया गया, जब कहा गया था कि अब चित्रकला समाप्त हो गई। फिर भी फोटोग्राफी केवल पुनरुत्पादन नहीं रही; यह现场 उपस्थिति, भावना और घटना के माहौल को दर्ज करने वाला माध्यम बनी। AI तेजी से दृश्य छवियां बना सकता है, लेकिन मनुष्य द्वारा现场 पर कैद दृश्य का महत्व अब भी बना हुआ है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Foto yang Tak Bisa Dibuat AI: Emosi Lapangan Menurut Peraih Pulitzer",
+        "excerpt": "Menurut Maeil Business Newspaper, fotografer peraih Pulitzer menilai AI tidak dapat menekan rana kamera, sehingga nilai foto yang menangkap emosi di lokasi tetap penting.",
+        "body": "Maeil Business Newspaper melaporkan definisi “foto yang baik” menurut seorang fotografer peraih Pulitzer dan alasan fotografi tetap sulit digantikan pada era AI. Menurut laporan itu, AI dapat membuat gambar, tetapi tidak dapat berdiri di lokasi, menekan rana kamera, dan menangkap emosi pada momen tertentu. Artikel tersebut juga menyinggung konteks sejarah daguerreotype pada abad ke-19, ketika muncul anggapan bahwa seni lukis telah berakhir. Namun fotografi berkembang melampaui reproduksi sederhana, menjadi medium yang memuat kehadiran lapangan, emosi, dan atmosfer peristiwa. Meski AI mampu menghasilkan citra visual dengan cepat, adegan yang ditangkap manusia di lokasi tetap memiliki makna penting. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "b215f29ac794",
     "slug": "불장-놓칠라-마통-쓰는-개미들5대銀-잔액-3년4개월-만에-최대-618025",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Belanja Supermarket Makin Berat, Bawa 10.000 Won Pun Ibu Rumah Tangga Mengeluh",
         "excerpt": "hankyung.com dalam “Shopping Basket+” melaporkan bahwa konsumen yang pergi ke supermarket dengan 10.000 won kini merasakan beban belanja harian yang lebih besar.",
         "body": "hankyung.com melaporkan dalam artikel “Shopping Basket+” bahwa konsumen yang pergi ke supermarket dengan 10.000 won merasa beban belanja kebutuhan harian jauh lebih besar daripada sebelumnya. Judul aslinya, “Pergi ke mart membawa 10.000 won… ‘Sekarang menakutkan’, ibu rumah tangga kacau,” menggambarkan reaksi lapangan terhadap naiknya harga yang dirasakan saat membeli kebutuhan pokok. Angka utama yang disebut adalah 10.000 won, menunjukkan bahwa biaya keranjang belanja supermarket memengaruhi sentimen belanja rumah tangga. Jika tekanan pada pembelian makanan dan barang rumah tangga berlanjut, konsumen kemungkinan akan meninjau daftar belanja dan rencana pengeluaran dengan lebih hati-hati. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "8583bee2366d",
-    "slug": "이번엔-23억17억-빌려-sk하닉-올인한-공무원에-들썩-680046",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T13:02:07.083Z",
-    "updatedAt": "2026-05-09T13:02:07.083Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050957207",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050957207",
-    "titleFingerprint": "2090b33922c9d3618683acc2ac88f87166656136",
-    "dedupKeys": [
-      "8583bee2366dd3f174fa6a3dc6190c1123cb4ad2",
-      "2090b33922c9d3618683acc2ac88f87166656136",
-      "a802593d7b56c43cf7caefbc5814e837466e2634"
-    ],
-    "imageUrl": "/images/articles/8583bee2366d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "SK하이닉스 17억 대출 올인 공무원, ‘이번엔 23억’ 소식에 관심 집중",
-        "excerpt": "한국경제는 17억원을 빌려 SK하이닉스에 집중 투자한 공무원이 다시 23억원 규모로 거론되며 투자자들의 관심을 모으고 있다고 보도했다.",
-        "body": "한국경제 보도에 따르면 17억원을 빌려 SK하이닉스에 집중 투자한 한 공무원이 ‘이번엔 23억’이라는 제목으로 다시 주목받고 있다. 원문 제목은 대규모 차입금과 특정 종목 집중 투자라는 점을 전면에 내세웠다. 확인된 정보는 공무원이 17억원을 빌렸고, 그 자금을 SK하이닉스에 올인했다는 내용이다. 이번 보도에서는 23억원이라는 금액이 함께 언급되며 온라인과 투자자 사이에서 관심이 커진 것으로 전해졌다. 다만 원문에 제시된 범위를 넘어 수익률, 보유 기간, 매매 시점 등은 확인되지 않았다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "SK Hynix Bet by Official Who Borrowed 1.7 Billion Won Draws Attention at 2.3 Billion Won",
-        "excerpt": "Hankyung reported that a public official who borrowed 1.7 billion won and concentrated the money in SK Hynix is drawing attention again as 2.3 billion won is mentioned.",
-        "body": "According to Hankyung, a public official who borrowed 1.7 billion won and invested it all in SK Hynix is again in the spotlight under the headline referring to “this time, 2.3 billion won.” The original headline highlights both the large borrowed amount and the concentrated bet on a single stock. The confirmed facts are that the official borrowed 1.7 billion won and put the funds into SK Hynix. The report also mentions 2.3 billion won, drawing attention among online readers and investors. Details such as return rate, holding period, and exact trading timing were not confirmed beyond the source text. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "SKハイニックスに17億ウォン借入で集中投資した公務員、今度は23億ウォンで注目",
-        "excerpt": "韓国経済新聞は、17億ウォンを借りてSKハイニックスに集中投資した公務員が、今度は23億ウォン規模で再び関心を集めていると報じた。",
-        "body": "韓国経済新聞によると、17億ウォンを借りてSKハイニックスに集中投資した公務員が、「今度は23億」という見出しで再び注目されている。原文の見出しは、多額の借入金と特定銘柄への集中投資を前面に出している。確認された事実は、この公務員が17億ウォンを借り、その資金をSKハイニックスに投じたという内容だ。今回の報道では23億ウォンという金額も言及され、オンラインや投資家の間で関心が高まったとされる。ただし、収益率、保有期間、売買時点などは原文の範囲を超えて確認されていない。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "借17亿韩元押注SK海力士的公务员，再因“这次23亿”引发关注",
-        "excerpt": "韩国经济报道称，一名借入17亿韩元并集中投资SK海力士的公务员，因报道中提到23亿韩元规模而再次受到投资者关注。",
-        "body": "据韩国经济报道，一名借入17亿韩元并将资金集中投入SK海力士的公务员，因“这次是23亿”的标题再次受到关注。原文标题突出了大额借款和对单一股票的集中投资。已确认的信息是，该公务员借入17亿韩元，并把这笔资金押注于SK海力士。此次报道还提到23亿韩元这一金额，因此在网络和投资者之间引发讨论。不过，原文范围之外的收益率、持有期限、具体买卖时间等信息并未得到确认。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Funcionario que pidió 1.700 millones de wones para apostar por SK Hynix vuelve a captar atención",
-        "excerpt": "Hankyung informó que un funcionario que pidió prestados 1.700 millones de wones e invirtió todo en SK Hynix vuelve a atraer miradas al mencionarse 2.300 millones de wones.",
-        "body": "Según Hankyung, un funcionario público que pidió prestados 1.700 millones de wones e invirtió todo el dinero en SK Hynix vuelve a estar en el foco con un titular que menciona “esta vez, 2.300 millones”. El titular original destaca tanto el gran monto financiado con deuda como la concentración en una sola acción. Los hechos confirmados son que el funcionario tomó prestados 1.700 millones de wones y destinó esos fondos a SK Hynix. El reporte también menciona 2.300 millones de wones, lo que despertó interés entre lectores e inversores. No se confirmaron datos adicionales sobre rentabilidad, periodo de tenencia o momento exacto de las operaciones. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Servidor que tomou 1,7 bilhão de wons para apostar na SK Hynix volta aos holofotes",
-        "excerpt": "O Hankyung informou que um servidor público que tomou 1,7 bilhão de wons emprestados e concentrou tudo na SK Hynix voltou a chamar atenção com menção a 2,3 bilhões de wons.",
-        "body": "Segundo o Hankyung, um servidor público que tomou 1,7 bilhão de wons emprestados e investiu todo o valor na SK Hynix voltou a ser destaque em uma chamada que menciona “desta vez, 2,3 bilhões”. O título original enfatiza o alto volume tomado em empréstimo e a concentração em uma única ação. Os fatos confirmados são que o servidor pegou 1,7 bilhão de wons emprestados e aplicou os recursos na SK Hynix. A reportagem também cita 2,3 bilhões de wons, ampliando o interesse entre leitores e investidores. Informações como rentabilidade, período de manutenção e momento exato das negociações não foram confirmadas além do texto original. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Beamter mit 1,7-Milliarden-Won-Kredit für SK Hynix rückt wegen 2,3 Milliarden Won in den Fokus",
-        "excerpt": "Hankyung berichtete, dass ein Beamter, der 1,7 Milliarden Won lieh und alles in SK Hynix investierte, wegen einer Nennung von 2,3 Milliarden Won erneut Aufmerksamkeit erhält.",
-        "body": "Laut Hankyung steht ein Beamter, der 1,7 Milliarden Won aufnahm und den Betrag vollständig in SK Hynix investierte, erneut im Fokus. Der ursprüngliche Titel verweist auf “diesmal 2,3 Milliarden Won” und hebt damit sowohl die hohe Kreditsumme als auch die Konzentration auf eine einzelne Aktie hervor. Bestätigt ist, dass der Beamte 1,7 Milliarden Won geliehen und die Mittel in SK Hynix gesteckt hat. In dem Bericht wird zudem ein Betrag von 2,3 Milliarden Won genannt, was online und unter Anlegern Aufmerksamkeit auslöste. Angaben zu Rendite, Haltedauer oder genauem Handelszeitpunkt wurden über den Quellentext hinaus nicht bestätigt. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Un fonctionnaire ayant emprunté 1,7 milliard de wons pour miser sur SK Hynix attire l’attention",
-        "excerpt": "Hankyung rapporte qu’un fonctionnaire ayant emprunté 1,7 milliard de wons pour investir massivement dans SK Hynix suscite de nouveau l’intérêt avec la mention de 2,3 milliards de wons.",
-        "body": "Selon Hankyung, un fonctionnaire qui a emprunté 1,7 milliard de wons et investi la totalité dans SK Hynix attire de nouveau l’attention avec un titre évoquant “cette fois, 2,3 milliards”. Le titre original met en avant le montant élevé emprunté et la concentration sur une seule action. Les faits confirmés sont que le fonctionnaire a emprunté 1,7 milliard de wons et placé ces fonds dans SK Hynix. Le reportage mentionne également 2,3 milliards de wons, ce qui a suscité l’intérêt des lecteurs en ligne et des investisseurs. Le rendement, la durée de détention et le moment exact des transactions ne sont pas confirmés au-delà du texte source. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "موظف حكومي اقترض 1.7 مليار وون للمراهنة على SK Hynix يعود للواجهة مع ذكر 2.3 مليار",
-        "excerpt": "ذكرت هانكيونغ أن موظفاً حكومياً اقترض 1.7 مليار وون واستثمرها بالكامل في SK Hynix عاد لجذب الاهتمام بعد الإشارة إلى 2.3 مليار وون.",
-        "body": "وفقاً لهانكيونغ، عاد موظف حكومي اقترض 1.7 مليار وون واستثمر المبلغ بالكامل في SK Hynix إلى دائرة الاهتمام تحت عنوان يشير إلى “هذه المرة 2.3 مليار وون”. يبرز العنوان الأصلي حجم الاقتراض الكبير والتركيز على سهم واحد. المعلومات المؤكدة هي أن الموظف اقترض 1.7 مليار وون ووضع هذه الأموال في SK Hynix. كما يذكر التقرير مبلغ 2.3 مليار وون، ما أثار اهتمام القراء والمستثمرين عبر الإنترنت. ولم يتم تأكيد تفاصيل مثل معدل العائد أو مدة الاحتفاظ أو توقيت التداول خارج ما ورد في النص الأصلي. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "SK Hynix में 1.7 अरब वॉन उधार लेकर निवेश करने वाला सरकारी कर्मचारी फिर चर्चा में",
-        "excerpt": "Hankyung ने बताया कि 1.7 अरब वॉन उधार लेकर पूरी रकम SK Hynix में लगाने वाला एक सरकारी कर्मचारी 2.3 अरब वॉन के उल्लेख के साथ फिर निवेशकों का ध्यान खींच रहा है।",
-        "body": "Hankyung के अनुसार, 1.7 अरब वॉन उधार लेकर पूरी राशि SK Hynix में निवेश करने वाला एक सरकारी कर्मचारी “इस बार 2.3 अरब वॉन” वाले शीर्षक के साथ फिर चर्चा में है। मूल शीर्षक में बड़े उधार और एक ही शेयर में केंद्रित निवेश को प्रमुखता दी गई है। पुष्टि की गई जानकारी यह है कि कर्मचारी ने 1.7 अरब वॉन उधार लिए और वह धन SK Hynix में लगाया। रिपोर्ट में 2.3 अरब वॉन की राशि का भी उल्लेख है, जिससे ऑनलाइन पाठकों और निवेशकों के बीच रुचि बढ़ी। हालांकि स्रोत पाठ से आगे लाभ दर, होल्डिंग अवधि या सटीक ट्रेडिंग समय की पुष्टि नहीं हुई है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "PNS yang Pinjam 1,7 Miliar Won untuk All-In SK Hynix Disorot Lagi karena 2,3 Miliar Won",
-        "excerpt": "Hankyung melaporkan seorang pegawai negeri yang meminjam 1,7 miliar won dan menaruh seluruhnya di SK Hynix kembali menarik perhatian setelah disebut terkait 2,3 miliar won.",
-        "body": "Menurut Hankyung, seorang pegawai negeri yang meminjam 1,7 miliar won dan menginvestasikan seluruh dana itu di SK Hynix kembali menjadi sorotan lewat judul yang menyebut “kali ini 2,3 miliar won”. Judul asli menonjolkan besarnya dana pinjaman dan konsentrasi pada satu saham. Fakta yang terkonfirmasi adalah pegawai tersebut meminjam 1,7 miliar won dan menaruh dana itu di SK Hynix. Laporan tersebut juga menyebut angka 2,3 miliar won, sehingga menarik perhatian pembaca online dan investor. Namun rincian seperti tingkat keuntungan, periode kepemilikan, dan waktu transaksi tidak terkonfirmasi di luar teks sumber. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "b6603e6475fc",
-    "slug": "아내-불륜에-분노한-남편에게-반했다선-넘은-페리카나-결국-사과-927680",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T13:01:03.811Z",
-    "updatedAt": "2026-05-09T13:01:03.811Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050957977",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050957977",
-    "titleFingerprint": "9bd27fc309d7879dfc77aa06279a658c7c5fc671",
-    "dedupKeys": [
-      "b6603e6475fca7d90c1ef632614571edcb30ccdd",
-      "9bd27fc309d7879dfc77aa06279a658c7c5fc671",
-      "8134eb6b6f0c9a161ff6effd525da619cd4a05a9"
-    ],
-    "imageUrl": "/images/articles/b6603e6475fc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "페리카나 SNS 논란, 불륜 사건 빗댄 홍보에 비판 커지자 사과",
-        "excerpt": "치킨 프랜차이즈 페리카나가 최근 공식 SNS에서 아내 불륜에 분노한 남편 사건을 연상시키는 문구를 사용했다가 부적절하다는 비판을 받고 사과했다.",
-        "body": "치킨 프랜차이즈 페리카나가 최근 공식 사회관계망서비스(SNS)에 올린 홍보성 표현이 논란이 되자 사과했다. 문제의 문구는 아내의 불륜에 분노한 남편 관련 사건을 떠올리게 하는 내용으로 알려졌고, 이를 두고 소비자들 사이에서 개인의 고통과 법적 사건을 마케팅 소재로 삼은 것 아니냐는 비판이 제기됐다. 관련 사건은 불륜 증거 확보와 폭로 과정에서 법적 판단까지 이어진 사안으로, 민감한 가족 문제와 범죄 혐의가 함께 다뤄졌다는 점에서 반발이 커졌다. 논란 이후 페리카나는 부적절한 표현이었다는 취지로 사과하며 신중한 콘텐츠 제작을 약속했다. 이번 사안은 브랜드 SNS 운영에서 유행어와 자극적 소재 활용의 한계를 다시 보여줬다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Pelicana apologizes after SNS ad evokes affair-related court case",
-        "excerpt": "Chicken franchise Pelicana apologized after criticism grew over a recent official SNS post that appeared to reference a husband angered by his wife's affair.",
-        "body": "Chicken franchise Pelicana apologized after a promotional expression posted on its official social media account sparked controversy. The wording was reported to evoke a case involving a husband angered by his wife's affair, prompting criticism that the brand had used personal suffering and a legal matter as marketing material. The related case involved efforts to secure evidence of an affair and subsequent disclosure, eventually leading to legal judgment. Because it touched on sensitive family issues and criminal allegations, public backlash intensified. After the controversy, Pelicana apologized, acknowledging the expression was inappropriate and pledging to create content more carefully. The incident highlights again the limits of using viral language and provocative subjects in brand social media. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ペリカナ、SNS投稿で不倫事件を連想させ批判受け謝罪",
-        "excerpt": "チキンチェーンのペリカナは最近、公式SNSで妻の不倫に怒った夫の事件を連想させる表現を使い、不適切だとの批判を受けて謝罪した。",
-        "body": "チキンチェーンのペリカナは最近、公式SNSに掲載した宣伝表現が物議を醸したことを受けて謝罪した。問題の文言は、妻の不倫に怒った夫に関する事件を想起させる内容だったとされ、消費者の間では個人の苦痛や法的事件をマーケティング素材にしたのではないかとの批判が出た。関連事件は、不倫の証拠確保と暴露の過程で法的判断にまで至った事案であり、敏感な家族問題と犯罪容疑が絡む点から反発が強まった。騒動後、ペリカナは不適切な表現だったとの趣旨で謝罪し、慎重なコンテンツ制作を約束した。今回の件は、ブランドSNSで流行語や刺激的な素材を使う際の限界を改めて示した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Pelicana因SNS宣传影射婚外情案件遭批后道歉",
-        "excerpt": "炸鸡连锁品牌Pelicana近日在官方SNS使用疑似联想到妻子出轨、丈夫愤怒案件的文案，引发不当营销批评后道歉。",
-        "body": "炸鸡连锁品牌Pelicana近日因官方社交媒体上的宣传性表达引发争议后作出道歉。相关文案被指让人联想到一宗妻子出轨后丈夫愤怒的案件，消费者批评其可能将个人痛苦和法律事件用作营销素材。该相关案件涉及为取得婚外情证据及之后的曝光过程，并最终进入法律判断阶段。由于其中包含敏感的家庭问题和刑事嫌疑，反弹进一步扩大。争议发生后，Pelicana以承认表达不当的方式道歉，并承诺今后更谨慎制作内容。此事再次显示，品牌SNS在使用流行语和刺激性素材时存在明确界限。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Pelicana se disculpa por aludir en redes a un caso de infidelidad",
-        "excerpt": "La cadena de pollo Pelicana pidió disculpas tras recibir críticas por una publicación reciente en redes que evocaba el caso de un marido enfadado por la infidelidad de su esposa.",
-        "body": "La cadena de pollo Pelicana se disculpó después de que una expresión promocional publicada en su cuenta oficial de redes sociales generara controversia. La frase fue señalada por evocar un caso relacionado con un marido enfadado por la infidelidad de su esposa, lo que llevó a críticas de consumidores que consideraron que la marca había usado sufrimiento personal y un asunto legal como material de marketing. El caso relacionado incluyó la obtención de pruebas de la infidelidad y su posterior revelación, hasta derivar en una decisión judicial. Al tratarse de un tema familiar sensible con acusaciones penales, la reacción negativa creció. Tras la polémica, Pelicana se disculpó por la expresión inapropiada y prometió crear contenidos con más cuidado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Pelicana pede desculpas após post lembrar caso de traição conjugal",
-        "excerpt": "A rede de frango Pelicana pediu desculpas após críticas a uma publicação recente em suas redes oficiais que remetia a um marido irritado pela traição da esposa.",
-        "body": "A rede de frango Pelicana pediu desculpas depois que uma expressão promocional publicada em sua conta oficial de mídia social gerou controvérsia. A frase foi apontada como uma referência a um caso envolvendo um marido irritado com a infidelidade da esposa, levando consumidores a criticar a possível utilização de sofrimento pessoal e de um assunto jurídico como material de marketing. O caso relacionado envolveu a obtenção de provas da traição e a posterior divulgação, chegando a uma avaliação judicial. Por tratar de uma questão familiar sensível e de acusações criminais, a reação negativa aumentou. Após a polêmica, a Pelicana reconheceu que a expressão foi inadequada, pediu desculpas e prometeu produzir conteúdo com mais cautela. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Pelicana entschuldigt sich für SNS-Post zu Affärenfall",
-        "excerpt": "Die Hähnchen-Franchisekette Pelicana hat sich entschuldigt, nachdem ein offizieller SNS-Beitrag Kritik auslöste, weil er an einen wegen der Affäre seiner Frau wütenden Ehemann erinnerte.",
-        "body": "Die Hähnchen-Franchisekette Pelicana hat sich entschuldigt, nachdem eine Werbeformulierung auf ihrem offiziellen Social-Media-Konto Kontroversen ausgelöst hatte. Die Formulierung soll an einen Fall erinnert haben, in dem ein Ehemann wegen der Affäre seiner Frau wütend wurde. Verbraucher kritisierten, die Marke habe persönliches Leid und einen Rechtsfall als Marketingmaterial genutzt. Der betreffende Fall umfasste die Sicherung von Beweisen für eine Affäre und deren spätere Offenlegung, was schließlich zu einer rechtlichen Bewertung führte. Da es um sensible Familienfragen und strafrechtliche Vorwürfe ging, wuchs die Gegenreaktion. Nach der Kontroverse entschuldigte sich Pelicana für die unangemessene Ausdrucksweise und versprach sorgfältigere Inhalte. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Pelicana s'excuse après une publication évoquant une affaire d'adultère",
-        "excerpt": "La chaîne de poulet Pelicana s'est excusée après des critiques visant une publication récente sur ses réseaux officiels, jugée proche d'une affaire de mari en colère après l'adultère de son épouse.",
-        "body": "La chaîne de poulet Pelicana s'est excusée après qu'une formule promotionnelle publiée sur son compte officiel de réseau social a suscité la controverse. Le texte aurait évoqué une affaire impliquant un mari en colère après l'infidélité de son épouse, ce qui a entraîné des critiques de consommateurs estimant que la marque utilisait une souffrance personnelle et une affaire judiciaire comme outil marketing. L'affaire liée portait sur la recherche de preuves d'adultère puis leur divulgation, jusqu'à une décision judiciaire. Comme elle touchait à des questions familiales sensibles et à des soupçons pénaux, la réaction négative s'est amplifiée. Après la polémique, Pelicana a reconnu le caractère inapproprié de l'expression, présenté ses excuses et promis davantage de prudence. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "بيليكانا تعتذر بعد منشور استحضر قضية خيانة زوجية",
-        "excerpt": "اعتذرت سلسلة الدجاج بيليكانا بعدما تعرضت لانتقادات بسبب منشور حديث على حسابها الرسمي في وسائل التواصل بدا وكأنه يشير إلى زوج غضب من خيانة زوجته.",
-        "body": "اعتذرت سلسلة الدجاج بيليكانا بعدما أثارت عبارة ترويجية نشرتها على حسابها الرسمي في وسائل التواصل الاجتماعي جدلا واسعا. وقيل إن العبارة استحضرت قضية تتعلق بزوج غضب بسبب خيانة زوجته، ما دفع مستهلكين إلى انتقاد استخدام معاناة شخصية وقضية قانونية كمادة تسويقية. وتعلقت القضية المشار إليها بمحاولة جمع أدلة على الخيانة ثم كشفها، قبل أن تصل إلى حكم قانوني. وبسبب ارتباطها بمسائل عائلية حساسة واتهامات جنائية، اتسعت ردود الفعل السلبية. وبعد الجدل، اعتذرت بيليكانا معتبرة أن التعبير كان غير مناسب، وتعهدت بمزيد من الحذر في صناعة المحتوى. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Pelicana ने अफेयर केस से जुड़ी SNS पोस्ट पर आलोचना के बाद माफी मांगी",
-        "excerpt": "चिकन फ्रेंचाइजी Pelicana ने हाल में आधिकारिक SNS पोस्ट में पत्नी के अफेयर से नाराज पति के मामले की याद दिलाने वाली पंक्ति पर आलोचना के बाद माफी मांगी।",
-        "body": "चिकन फ्रेंचाइजी Pelicana ने अपने आधिकारिक सोशल मीडिया खाते पर डाली गई प्रचारात्मक अभिव्यक्ति पर विवाद बढ़ने के बाद माफी मांगी। बताया गया कि यह पंक्ति पत्नी के अफेयर से नाराज पति से जुड़े एक मामले की याद दिलाती थी, जिसके बाद उपभोक्ताओं ने आलोचना की कि ब्रांड ने निजी पीड़ा और कानूनी मामले को मार्केटिंग सामग्री की तरह इस्तेमाल किया। संबंधित मामला अफेयर के सबूत जुटाने और बाद में उसे उजागर करने की प्रक्रिया से जुड़ा था, जो अंततः कानूनी 판단 तक पहुंचा। संवेदनशील पारिवारिक मुद्दे और आपराधिक आरोप जुड़े होने के कारण विरोध बढ़ा। विवाद के बाद Pelicana ने अभिव्यक्ति को अनुचित मानते हुए माफी मांगी और सामग्री निर्माण में सावधानी बरतने का वादा किया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Pelicana minta maaf setelah unggahan SNS singgung kasus perselingkuhan",
-        "excerpt": "Waralaba ayam Pelicana meminta maaf setelah unggahan resmi di media sosial yang mengingatkan pada kasus suami marah karena perselingkuhan istrinya menuai kritik.",
-        "body": "Waralaba ayam Pelicana meminta maaf setelah ekspresi promosi yang diunggah di akun media sosial resminya memicu kontroversi. Kalimat tersebut disebut mengingatkan pada kasus seorang suami yang marah karena perselingkuhan istrinya, sehingga konsumen mengkritik dugaan penggunaan penderitaan pribadi dan perkara hukum sebagai materi pemasaran. Kasus terkait mencakup upaya memperoleh bukti perselingkuhan dan pengungkapannya, hingga berujung pada penilaian hukum. Karena menyangkut persoalan keluarga yang sensitif dan dugaan pidana, reaksi negatif membesar. Setelah kontroversi itu, Pelicana meminta maaf atas ungkapan yang dinilai tidak pantas dan berjanji lebih berhati-hati dalam membuat konten. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e3ff369da6e9",
-    "slug": "누나도-좋아요키-큰-두부상-선호결정사-찾는-요즘-2030의-이상형-125891",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T12:59:11.775Z",
-    "updatedAt": "2026-05-09T12:59:11.775Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042382",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042382",
-    "titleFingerprint": "dcfe382c9eeb07139b3acd7c6dc57895789dac43",
-    "dedupKeys": [
-      "e3ff369da6e9d34db92007d6ec69aff7b69f76f4",
-      "dcfe382c9eeb07139b3acd7c6dc57895789dac43",
-      "675b6eada28ceacdf3d12718ea484d676711c15b"
-    ],
-    "imageUrl": "/images/articles/e3ff369da6e9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "2030 결정사 이상형 변화, 외모보다 검증·직업 보는 이유",
-        "excerpt": "최근 결혼정보회사를 찾는 2030세대가 늘며 남성은 만날 시간 부족, 여성은 검증된 상대 선호를 가입 이유로 꼽고 이상형 기준도 다양해지고 있다.",
-        "body": "최근 결혼정보회사를 찾는 2030세대의 이상형과 가입 이유가 달라지고 있다. mk.co.kr에 따르면 남성은 ‘이성을 만날 시간적 여유가 없어서’를, 여성은 ‘검증된 상대를 만나기 위해서’를 주요 이유로 꼽았다. 이상형에서도 “누나도 좋아요”, “키 큰 두부상 선호”처럼 연령과 인상에 대한 표현이 구체화됐다. 특히 “이젠 여성의 외모만 보지 않아요. 능력이나 직업도 매우 중요한 요소죠”라는 말처럼 외모 중심에서 능력과 직업까지 함께 보는 흐름이 나타났다. 이는 2030의 만남 방식과 배우자 선택 기준이 현실적 조건과 신뢰 확인을 중시하는 방향으로 이동하고 있음을 보여준다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Marriage Agencies See 20s and 30s Shift From Looks to Verified Matches",
-        "excerpt": "Young Koreans in their 20s and 30s are turning to matchmaking firms for different reasons, with men citing lack of time and women seeking verified partners.",
-        "body": "Young Koreans in their 20s and 30s are showing changing preferences and reasons for joining marriage information agencies. According to mk.co.kr, men mainly say they do not have enough time to meet potential partners, while women say they want to meet verified counterparts. Ideal-type descriptions have also become more specific, including openness to older women and a preference for a tall, soft-featured “dubu-sang” look. The report also notes that appearance is no longer the only factor considered for women; ability and occupation are becoming important as well. The trend shows that dating and spouse-selection standards among this age group are shifting toward practical conditions and trust. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "2030世代の結婚相談所利用、外見より検証済み相手と職業を重視",
-        "excerpt": "韓国の2030世代が結婚情報会社を利用する理由は男女で異なり、男性は出会う時間不足、女性は検証済みの相手を求めている。",
-        "body": "韓国で結婚情報会社を訪れる2030世代の理想像と加入理由に変化が見られる。mk.co.krによると、男性は「異性に会う時間的余裕がないため」を、女性は「検証された相手に会うため」を主な理由に挙げた。理想のタイプも「年上女性もよい」「背が高く柔らかい印象の豆腐顔が好み」など、年齢や印象に関する表現が具体化している。さらに「今は女性の外見だけを見ない。能力や職業も非常に重要な要素」という内容の通り、外見中心から能力や職業まで見る流れが示された。2030世代の出会い方と配偶者選択の基準が、現実的条件と信頼確認を重視する方向へ動いている。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "韩国20至30多岁相亲观变化：比外貌更看重验证与职业",
-        "excerpt": "韩国20至30多岁人群寻找婚恋机构的理由出现男女差异，男性多因没时间认识异性，女性则更希望见到经过验证的对象。",
-        "body": "韩国20至30多岁人群寻找婚恋信息公司的理想型和加入理由正在发生变化。据mk.co.kr报道，男性主要表示“没有时间和异性见面”，女性则称“为了见到经过验证的对象”。理想型描述也更具体，例如“姐姐也可以”“偏好个子高、豆腐相的人”等，年龄和外貌印象的表达更加细分。报道还提到，“现在不只看女性外貌，能力或职业也是非常重要的因素”，显示择偶标准从单看外貌转向同时关注能力和职业。这一现象反映出2030世代的相遇方式和伴侣选择标准，正朝着重视现实条件与信任确认的方向变化。来源：引自mk.co.kr。"
-      },
-      "es": {
-        "title": "Agencias matrimoniales: los jóvenes coreanos priorizan verificación y trabajo",
-        "excerpt": "En Corea, los jóvenes de 20 y 30 años acuden a agencias matrimoniales por motivos distintos: ellos por falta de tiempo y ellas por parejas verificadas.",
-        "body": "Entre los coreanos de 20 y 30 años que acuden a agencias de información matrimonial, cambian tanto las razones de inscripción como el ideal de pareja. Según mk.co.kr, los hombres citan principalmente la falta de tiempo para conocer a personas del sexo opuesto, mientras que las mujeres buscan conocer a alguien verificado. Las descripciones del ideal también se han vuelto más concretas, con frases como aceptar a una mujer mayor o preferir una imagen alta y de rasgos suaves, conocida como “dubu-sang”. El reporte indica además que ya no se mira solo la apariencia de las mujeres; la capacidad y la profesión también son factores importantes. La tendencia muestra un giro hacia condiciones prácticas y confianza comprobada. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Agências matrimoniais na Coreia: jovens buscam verificação, carreira e perfil",
-        "excerpt": "Na Coreia, pessoas na faixa dos 20 e 30 anos procuram agências matrimoniais por motivos diferentes: homens por falta de tempo e mulheres por segurança.",
-        "body": "Entre coreanos na faixa dos 20 e 30 anos que procuram agências de informação matrimonial, mudam os motivos de adesão e o tipo ideal de parceiro. Segundo o mk.co.kr, os homens apontam principalmente a falta de tempo para conhecer pessoas do sexo oposto, enquanto as mulheres dizem querer encontrar alguém verificado. As preferências também ficaram mais específicas, com expressões como aceitar uma mulher mais velha ou preferir alguém alto com aparência suave, chamada de “dubu-sang”. O relato destaca ainda que a aparência feminina já não é o único critério; capacidade e profissão também se tornaram fatores importantes. O movimento mostra maior peso para condições práticas e confirmação de confiança. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Koreas Heiratsagenturen: Junge Erwachsene achten stärker auf Beruf und Prüfung",
-        "excerpt": "In Korea wenden sich Menschen in ihren 20ern und 30ern aus unterschiedlichen Gründen an Partneragenturen: Männer wegen Zeitmangel, Frauen wegen geprüfter Kontakte.",
-        "body": "Bei Koreanern in ihren 20ern und 30ern, die Heiratsinformationsagenturen aufsuchen, verändern sich Wunschpartner und Beitrittsgründe. Laut mk.co.kr nennen Männer vor allem fehlende Zeit, um potenzielle Partnerinnen zu treffen, während Frauen geprüfte Gegenüber kennenlernen wollen. Auch die Beschreibungen des Idealtyps werden konkreter, etwa Offenheit gegenüber älteren Frauen oder die Vorliebe für eine große Person mit weichen Gesichtszügen, im Koreanischen „dubu-sang“ genannt. Der Bericht hält zudem fest, dass nicht mehr nur das Aussehen von Frauen zählt; Fähigkeiten und Beruf sind ebenfalls wichtige Faktoren. Damit verschieben sich Dating- und Partnerwahlkriterien hin zu praktischen Bedingungen und bestätigtem Vertrauen. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Agences matrimoniales en Corée : les 20-30 ans regardent vérification et métier",
-        "excerpt": "En Corée, les 20-30 ans se tournent vers les agences matrimoniales pour des raisons différentes: manque de temps chez les hommes, profils vérifiés chez les femmes.",
-        "body": "Chez les Coréens de 20 à 39 ans qui consultent des agences d’information matrimoniale, les raisons d’inscription et le type idéal évoluent. Selon mk.co.kr, les hommes évoquent surtout le manque de temps pour rencontrer des personnes du sexe opposé, tandis que les femmes veulent rencontrer des profils vérifiés. Les préférences deviennent aussi plus précises, avec des formules comme l’acceptation d’une femme plus âgée ou la préférence pour une personne grande au visage doux, appelée “dubu-sang”. Le rapport souligne également que l’apparence des femmes n’est plus le seul critère; les capacités et la profession comptent aussi beaucoup. Cette tendance montre un déplacement vers des conditions pratiques et une confiance confirmée. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "وكالات الزواج في كوريا: شباب العشرينات والثلاثينات يركزون على التحقق والعمل",
-        "excerpt": "يتجه كوريون في العشرينات والثلاثينات إلى شركات معلومات الزواج لأسباب مختلفة؛ فالرجال يذكرون ضيق الوقت، والنساء يفضلن مقابلة شريك موثوق.",
-        "body": "تتغير صورة الشريك المثالي وأسباب الانضمام إلى شركات معلومات الزواج لدى الكوريين في العشرينات والثلاثينات. وبحسب mk.co.kr، يقول الرجال إن السبب الرئيسي هو عدم امتلاك وقت كاف لمقابلة أشخاص من الجنس الآخر، بينما تقول النساء إنهن يرغبن في مقابلة طرف تم التحقق منه. كما أصبحت أوصاف الشريك المثالي أكثر تحديدا، مثل تقبل امرأة أكبر سنا أو تفضيل شخص طويل بملامح ناعمة يعرف في كوريا بتعبير “dubu-sang”. ويشير التقرير أيضا إلى أن مظهر المرأة لم يعد العامل الوحيد؛ فالقدرة والمهنة أصبحتا عنصرين مهمين كذلك. ويظهر ذلك انتقال معايير التعارف واختيار الشريك بين هذه الفئة إلى شروط عملية وتأكيد الثقة. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "कोरिया की मैरिज एजेंसियों में 20-30 आयु वर्ग अब सत्यापन और पेशे को तरजीह दे रहा",
-        "excerpt": "कोरिया में 20 और 30 की उम्र वाले लोग विवाह सूचना कंपनियों की ओर अलग कारणों से जा रहे हैं; पुरुष समय की कमी और महिलाएं सत्यापित साथी को कारण बताती हैं।",
-        "body": "कोरिया में विवाह सूचना कंपनियों की ओर जाने वाले 20 और 30 की उम्र के लोगों के आदर्श साथी और सदस्यता के कारण बदल रहे हैं। mk.co.kr के अनुसार, पुरुषों ने मुख्य कारण बताया कि उनके पास विपरीत लिंग से मिलने का समय नहीं है, जबकि महिलाओं ने कहा कि वे सत्यापित व्यक्ति से मिलना चाहती हैं। आदर्श साथी का वर्णन भी अधिक विशिष्ट हुआ है, जैसे उम्र में बड़ी महिला को स्वीकार करना या लंबे कद और नरम चेहरे वाले “dubu-sang” रूप को पसंद करना। रिपोर्ट में यह भी कहा गया कि अब केवल महिला की सुंदरता नहीं देखी जाती; क्षमता और पेशा भी बहुत महत्वपूर्ण तत्व हैं। यह रुझान दिखाता है कि 2030 पीढ़ी की मुलाकात और जीवनसाथी चुनने की कसौटी व्यावहारिक शर्तों और भरोसे की पुष्टि की ओर बढ़ रही है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Agensi Pernikahan Korea: Generasi 20-30 Kini Lihat Verifikasi, Karier, dan Profil",
-        "excerpt": "Di Korea, generasi usia 20-an dan 30-an mencari agensi pernikahan dengan alasan berbeda: pria kekurangan waktu, perempuan ingin bertemu pasangan terverifikasi.",
-        "body": "Di Korea, alasan generasi usia 20-an dan 30-an bergabung dengan perusahaan informasi pernikahan serta gambaran pasangan ideal mereka mulai berubah. Menurut mk.co.kr, pria terutama menyebut tidak punya cukup waktu untuk bertemu lawan jenis, sedangkan perempuan ingin bertemu calon pasangan yang sudah terverifikasi. Deskripsi tipe ideal juga makin spesifik, seperti terbuka pada perempuan yang lebih tua atau menyukai sosok tinggi dengan kesan wajah lembut yang disebut “dubu-sang”. Laporan itu juga menyatakan bahwa penampilan perempuan bukan lagi satu-satunya faktor; kemampuan dan pekerjaan juga menjadi unsur penting. Tren ini menunjukkan standar pertemuan dan pemilihan pasangan generasi 2030 bergerak ke arah kondisi praktis dan kepastian kepercayaan. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
