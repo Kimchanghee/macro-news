@@ -1,5 +1,230 @@
 [
   {
+    "id": "6f2ebea79fb3",
+    "slug": "생명보험협회-전세사기피해-청년-지원-123516",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T16:38:40.318Z",
+    "updatedAt": "2026-05-09T16:38:40.318Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050847791",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050847791",
+    "titleFingerprint": "be8b64d97ba16953b45a853dd746c3605ed1fe11",
+    "dedupKeys": [
+      "6f2ebea79fb3e2a64cc7a47b9a251d9afbc9fe91",
+      "be8b64d97ba16953b45a853dd746c3605ed1fe11",
+      "fb66ec7c7149028b5ed8b8cf4de53cab6cfd1a3a"
+    ],
+    "imageUrl": "/images/articles/6f2ebea79fb3.png",
+    "i18n": {
+      "ko": {
+        "title": "전세사기피해 청년 지원 나선 생명보험협회, 취약 청년 보호 위한 사회공헌 행보",
+        "excerpt": "생명보험협회가 전세사기 피해 청년 지원에 나섰다고 hankyung.com이 보도했다. 지원 대상은 피해 청년층이며, 제공된 원문 정보에는 지원 규모와 방식 등 세부 내용은 포함되지 않았다.",
+        "body": "생명보험협회가 전세사기피해 청년 지원에 나섰다고 hankyung.com이 보도했다. 이번 보도에서 확인되는 핵심은 지원 주체가 생명보험협회이고, 대상이 전세사기 피해를 입은 청년층이라는 점이다. 전세사기 피해는 주거 보증금과 거주 안정에 직접 영향을 주는 사안인 만큼, 협회의 지원은 피해 청년의 부담 완화와 사회공헌 활동의 연장선에서 다뤄졌다. 다만 제공된 원문 정보에는 지원 시점, 규모, 방식 등 세부 내용이 포함되지 않았다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Life Insurance Association Supports Young Victims of Jeonse Fraud in Social Aid Move",
+        "excerpt": "The Life Insurance Association has moved to support young victims of jeonse fraud, hankyung.com reported. The provided source identifies the target group but does not include details such as timing, scale or method.",
+        "body": "The Life Insurance Association has moved to support young people affected by jeonse fraud, according to hankyung.com. The confirmed points in the report are that the association is the supporting body and that the beneficiaries are young people who suffered damage from jeonse fraud. Because jeonse fraud directly affects housing deposits and residential stability, the support was presented in connection with easing burdens on affected youth and the association’s social contribution activity. The provided source information does not include details such as timing, scale or method of support. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "生命保険協会、チョンセ詐欺被害の若者を支援へ 社会貢献の動きに注目",
+        "excerpt": "生命保険協会がチョンセ詐欺被害を受けた若者の支援に乗り出したとhankyung.comが報じた。対象は被害青年層で、支援規模や方法などの詳細は提供情報に含まれていない。",
+        "body": "生命保険協会がチョンセ詐欺被害を受けた若者の支援に乗り出したと、hankyung.comが報じた。今回の報道で確認できる核心は、支援主体が生命保険協会であり、対象がチョンセ詐欺の被害を受けた青年層だという点だ。チョンセ詐欺被害は住宅保証金と居住の安定に直接影響する問題であるため、同協会の支援は被害青年の負担軽減と社会貢献活動の延長線上で扱われた。ただし、提供された原文情報には支援時期、規模、方法などの詳細は含まれていない。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "韩国生命保险协会支持全租房诈骗受害青年，社会贡献行动受关注",
+        "excerpt": "据hankyung.com报道，韩国生命保险协会开始支持全租房诈骗受害青年。已提供的信息显示对象为受害青年群体，但未包含支持规模、方式和时间等细节。",
+        "body": "据hankyung.com报道，韩国生命保险协会开始支持全租房诈骗受害青年。此次报道中可以确认的核心信息是，支持主体为生命保险协会，对象是遭受全租房诈骗损失的青年群体。全租房诈骗直接影响住房押金和居住稳定，因此该协会的支持被置于减轻受害青年负担和延续社会贡献活动的背景下。不过，所提供的原文信息未包含支持时间、规模、方式等具体内容。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Asociación de Seguros de Vida apoya a jóvenes víctimas del fraude jeonse",
+        "excerpt": "La Asociación de Seguros de Vida apoyará a jóvenes afectados por fraude jeonse, informó hankyung.com. La información disponible identifica al grupo beneficiario, pero no detalla fecha, escala ni método.",
+        "body": "La Asociación de Seguros de Vida ha puesto en marcha apoyo para jóvenes afectados por fraude jeonse, según informó hankyung.com. Los puntos confirmados son que la entidad de apoyo es la asociación y que los destinatarios son jóvenes que sufrieron daños por este tipo de fraude inmobiliario. Dado que el fraude jeonse afecta directamente los depósitos de vivienda y la estabilidad residencial, la medida se presentó como parte de la reducción de cargas para los jóvenes perjudicados y de las actividades de contribución social. La información original proporcionada no incluye detalles sobre fecha, escala o método de apoyo. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Associação de Seguros de Vida apoia jovens vítimas de fraude jeonse",
+        "excerpt": "A Associação de Seguros de Vida passou a apoiar jovens afetados por fraude jeonse, informou o hankyung.com. A informação disponível identifica o público-alvo, mas não traz data, escala ou forma de apoio.",
+        "body": "A Associação de Seguros de Vida passou a apoiar jovens afetados por fraude jeonse, segundo o hankyung.com. Os pontos confirmados no relato são que a entidade responsável pelo apoio é a associação e que os beneficiários são jovens que sofreram danos com esse tipo de fraude habitacional. Como a fraude jeonse afeta diretamente depósitos de moradia e estabilidade residencial, a iniciativa foi tratada no contexto de aliviar o peso sobre os jovens prejudicados e de ampliar atividades de contribuição social. A informação original fornecida não inclui detalhes sobre momento, escala ou forma do apoio. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Lebensversicherungsverband unterstützt junge Opfer von Jeonse-Betrug",
+        "excerpt": "Der Lebensversicherungsverband unterstützt junge Menschen, die von Jeonse-Betrug betroffen sind, berichtete hankyung.com. Die vorliegenden Angaben nennen die Zielgruppe, aber keine Details zu Zeitpunkt, Umfang oder Methode.",
+        "body": "Der Lebensversicherungsverband unterstützt junge Menschen, die von Jeonse-Betrug betroffen sind, wie hankyung.com berichtete. Gesichert ist, dass der Verband als unterstützende Stelle auftritt und dass sich die Hilfe an junge Betroffene dieses Betrugs richtet. Da Jeonse-Betrug Wohnkautionen und Wohnstabilität direkt beeinträchtigt, wurde die Unterstützung im Zusammenhang mit der Entlastung betroffener junger Menschen und den sozialen Beitragsaktivitäten des Verbands dargestellt. Die bereitgestellten Ausgangsinformationen enthalten jedoch keine Einzelheiten zu Zeitpunkt, Umfang oder Art der Unterstützung. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "L’Association d’assurance-vie soutient les jeunes victimes de fraude jeonse",
+        "excerpt": "L’Association d’assurance-vie va soutenir les jeunes touchés par la fraude jeonse, selon hankyung.com. Les informations fournies précisent le public visé, mais pas le calendrier, l’ampleur ni les modalités.",
+        "body": "L’Association d’assurance-vie va soutenir les jeunes touchés par la fraude jeonse, a rapporté hankyung.com. Les éléments confirmés sont que l’association est l’organisme de soutien et que les bénéficiaires sont des jeunes ayant subi des dommages liés à cette fraude. Comme la fraude jeonse affecte directement les dépôts de logement et la stabilité résidentielle, cette aide a été présentée dans le cadre de l’allègement du fardeau des jeunes victimes et des activités de contribution sociale de l’association. Les informations originales fournies ne précisent toutefois pas le calendrier, l’ampleur ni les modalités du soutien. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "جمعية التأمين على الحياة تدعم الشباب المتضررين من احتيال الجيونسي",
+        "excerpt": "أفاد hankyung.com بأن جمعية التأمين على الحياة بدأت دعم الشباب المتضررين من احتيال الجيونسي. وتحدد المعلومات المتاحة الفئة المستهدفة، لكنها لا تتضمن توقيت الدعم أو حجمه أو طريقته.",
+        "body": "بدأت جمعية التأمين على الحياة دعم الشباب المتضررين من احتيال الجيونسي، بحسب ما أفاد hankyung.com. وتتمثل النقاط المؤكدة في أن جهة الدعم هي الجمعية، وأن المستفيدين هم شباب تعرضوا لأضرار بسبب هذا الاحتيال المرتبط بالسكن. وبما أن احتيال الجيونسي يؤثر مباشرة في ودائع السكن والاستقرار السكني، فقد عُرض الدعم في سياق تخفيف العبء عن الشباب المتضررين وامتدادا لأنشطة المساهمة الاجتماعية للجمعية. ولا تتضمن معلومات المصدر المقدمة تفاصيل عن توقيت الدعم أو حجمه أو طريقته. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "जीवन बीमा संघ ने जोंसे धोखाधड़ी से प्रभावित युवाओं के समर्थन की पहल की",
+        "excerpt": "hankyung.com के अनुसार जीवन बीमा संघ ने जोंसे धोखाधड़ी से प्रभावित युवाओं को समर्थन देने की पहल की है। उपलब्ध जानकारी में लक्षित समूह बताया गया है, लेकिन समय, पैमाना और तरीका शामिल नहीं हैं।",
+        "body": "hankyung.com के अनुसार जीवन बीमा संघ ने जोंसे धोखाधड़ी से प्रभावित युवाओं को समर्थन देने की पहल की है। रिपोर्ट में पुष्टि योग्य मुख्य बातें यह हैं कि समर्थन देने वाली संस्था जीवन बीमा संघ है और लाभार्थी वे युवा हैं जिन्हें जोंसे धोखाधड़ी से नुकसान हुआ है। जोंसे धोखाधड़ी आवास जमा और निवास स्थिरता को सीधे प्रभावित करती है, इसलिए इस समर्थन को प्रभावित युवाओं का बोझ कम करने और संघ की सामाजिक योगदान गतिविधि के विस्तार के रूप में देखा गया। उपलब्ध मूल जानकारी में समर्थन के समय, पैमाने या तरीके जैसे विवरण शामिल नहीं हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Asosiasi Asuransi Jiwa Dukung Pemuda Korban Penipuan Jeonse",
+        "excerpt": "Asosiasi Asuransi Jiwa bergerak mendukung pemuda korban penipuan jeonse, lapor hankyung.com. Informasi yang tersedia menyebut kelompok sasaran, tetapi belum memuat waktu, skala, atau metode dukungan.",
+        "body": "Asosiasi Asuransi Jiwa bergerak mendukung pemuda yang terdampak penipuan jeonse, menurut laporan hankyung.com. Hal utama yang dapat dikonfirmasi adalah bahwa pihak pemberi dukungan adalah asosiasi tersebut dan sasarannya adalah kalangan muda yang mengalami kerugian akibat penipuan jeonse. Karena penipuan jeonse berdampak langsung pada uang jaminan hunian dan stabilitas tempat tinggal, dukungan ini dibahas dalam konteks meringankan beban pemuda terdampak serta melanjutkan kegiatan kontribusi sosial asosiasi. Informasi sumber yang diberikan tidak memuat rincian waktu, skala, atau metode dukungan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "7acc230e5354",
+    "slug": "ls-임직원-가족-초청행사-개최-598227",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T16:37:31.590Z",
+    "updatedAt": "2026-05-09T16:37:31.590Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050847781",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050847781",
+    "titleFingerprint": "f4703770810765645446985810131da6fa8ee7ca",
+    "dedupKeys": [
+      "7acc230e535423717cdc5fb16d7e577237425008",
+      "f4703770810765645446985810131da6fa8ee7ca",
+      "8d9ebb458b1a90d7252d739970ef6c7cd7ab75dd"
+    ],
+    "imageUrl": "/images/articles/7acc230e5354.png",
+    "i18n": {
+      "ko": {
+        "title": "LS, 임직원 가족 초청행사 개최…가족과 함께한 사내 소통의 자리",
+        "excerpt": "LS가 임직원 가족을 초청하는 행사를 개최했다고 한국경제가 보도했다. 이번 행사는 임직원과 가족이 함께하는 자리로 마련됐으며, 회사의 사내 소통 활동으로 소개됐다.",
+        "body": "LS가 임직원 가족을 초청하는 행사를 개최했다고 한국경제가 보도했다. 이번 행사는 LS 임직원과 가족이 함께 참여하는 자리로 마련된 것으로 전해졌다. 원문에는 행사 개최 사실과 주최 주체가 LS라는 점이 제시됐으며, 구체적인 일정, 장소, 참석 규모, 세부 프로그램은 별도로 언급되지 않았다. 임직원 가족 초청행사는 기업이 구성원과 가족을 대상으로 소통 기회를 마련하는 활동으로 소개될 수 있다. 이번 보도는 LS의 내부 소통 및 가족 초청 행사 개최 사실을 중심으로 전했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "LS Holds Employee Family Invitation Event, Highlighting Workplace Communication",
+        "excerpt": "LS held an event inviting employees’ families, Hankyung.com reported. The event was presented as a company gathering for employees and their families, centered on internal communication.",
+        "body": "LS held an event inviting the families of its employees, according to a report by Hankyung.com. The event was arranged as a gathering in which LS employees and their family members could take part together. The original report identified LS as the organizer and stated that the company held the family invitation event. It did not provide additional details such as the exact date, venue, number of participants, or specific programs. Employee family invitation events can be described as corporate activities that create opportunities for communication with staff and their families. The report focused on LS’s hosting of the event. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "LS、役職員家族の招待行事を開催…社内コミュニケーションの場に",
+        "excerpt": "LSが役職員の家族を招待する行事を開催したと韓国経済が報じた。今回の行事は役職員と家族が共に参加する場として設けられ、社内コミュニケーション活動として紹介された。",
+        "body": "LSが役職員の家族を招待する行事を開催したと、韓国経済が報じた。今回の行事はLSの役職員とその家族が共に参加する場として設けられたものと伝えられている。原文では、行事を開催した事実と主催主体がLSである点が示されており、具体的な日程、場所、参加規模、詳細プログラムについては別途言及されていない。役職員家族の招待行事は、企業が構成員と家族を対象にコミュニケーションの機会を設ける活動として紹介できる。今回の報道はLSの家族招待行事開催に焦点を当てた。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "LS举办员工家属邀请活动，聚焦企业内部沟通交流",
+        "excerpt": "据韩国经济报道，LS举办了邀请员工家属参加的活动。此次活动面向员工及其家属，被介绍为公司内部沟通活动的一部分。",
+        "body": "据韩国经济报道，LS举办了邀请员工家属参加的活动。该活动被安排为LS员工与家属共同参与的场合。原文说明了活动举办事实以及主办方为LS，但未另行提及具体日期、地点、参与规模或详细项目。员工家属邀请活动可被视为企业为员工及其家属提供沟通机会的活动。此次报道主要围绕LS举办员工家属邀请活动这一事实展开。来源: hankyung.com"
+      },
+      "es": {
+        "title": "LS celebra un evento para familias de empleados y refuerza la comunicación interna",
+        "excerpt": "LS celebró un evento para invitar a las familias de sus empleados, informó Hankyung.com. La actividad fue presentada como un encuentro para empleados y familiares dentro de la comunicación interna.",
+        "body": "LS celebró un evento para invitar a las familias de sus empleados, según informó Hankyung.com. La actividad fue organizada como un encuentro en el que empleados de LS y sus familiares pudieron participar juntos. El texto original indicó el hecho de la celebración y señaló a LS como organizador, pero no mencionó detalles adicionales como fecha, lugar, número de asistentes o programas específicos. Los eventos de invitación a familias de empleados pueden describirse como actividades corporativas que crean oportunidades de comunicación con el personal y sus familias. La nota se centró en la realización del evento por parte de LS. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "LS realiza evento para famílias de funcionários com foco em comunicação interna",
+        "excerpt": "A LS realizou um evento para convidar familiares de seus funcionários, informou o Hankyung.com. A iniciativa foi apresentada como um encontro para empregados e famílias no âmbito da comunicação interna.",
+        "body": "A LS realizou um evento para convidar familiares de seus funcionários, segundo informou o Hankyung.com. A ação foi organizada como um encontro em que empregados da LS e seus familiares puderam participar juntos. O texto original informou a realização do evento e identificou a LS como organizadora, mas não trouxe detalhes como data, local, número de participantes ou programação específica. Eventos de convite a familiares de funcionários podem ser descritos como iniciativas corporativas que criam oportunidades de comunicação com colaboradores e suas famílias. A reportagem concentrou-se na realização do evento pela LS. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "LS veranstaltet Familientag für Beschäftigte und stärkt interne Kommunikation",
+        "excerpt": "LS hat eine Veranstaltung für die Familien seiner Beschäftigten ausgerichtet, berichtete Hankyung.com. Das Treffen wurde als gemeinsamer Anlass für Mitarbeitende und Angehörige im Rahmen interner Kommunikation vorgestellt.",
+        "body": "LS hat eine Veranstaltung organisiert, zu der die Familien seiner Beschäftigten eingeladen wurden, wie Hankyung.com berichtete. Die Veranstaltung war als Treffen angelegt, an dem Mitarbeitende von LS und ihre Angehörigen gemeinsam teilnehmen konnten. Der Originalbericht nannte LS als Veranstalter und berichtete über die Durchführung des Familienevents. Weitere Angaben zu genauem Datum, Ort, Teilnehmerzahl oder einzelnen Programmpunkten wurden nicht gemacht. Solche Einladungen für Mitarbeiterfamilien können als Unternehmensaktivitäten beschrieben werden, die Kommunikationsmöglichkeiten für Beschäftigte und ihre Familien schaffen. Der Bericht konzentrierte sich auf die Durchführung der Veranstaltung durch LS. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "LS organise un événement pour les familles de ses salariés, axé sur l’échange interne",
+        "excerpt": "LS a organisé un événement invitant les familles de ses salariés, selon Hankyung.com. Cette rencontre a été présentée comme un moment réunissant employés et proches dans le cadre de la communication interne.",
+        "body": "LS a organisé un événement invitant les familles de ses salariés, a rapporté Hankyung.com. Cette initiative a été conçue comme une rencontre permettant aux employés de LS et à leurs proches de participer ensemble. L’article original mentionne la tenue de l’événement et identifie LS comme organisateur, sans préciser la date, le lieu, le nombre de participants ni le détail du programme. Les événements destinés aux familles des salariés peuvent être décrits comme des actions d’entreprise créant des occasions d’échange avec les collaborateurs et leurs proches. Le reportage s’est concentré sur l’organisation de cet événement par LS. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إل إس تقيم فعالية لدعوة عائلات الموظفين وتعزيز التواصل الداخلي",
+        "excerpt": "أقامت شركة إل إس فعالية دعت إليها عائلات موظفيها، بحسب ما أورد موقع هانكيونغ. وجاءت الفعالية كلقاء يجمع الموظفين وعائلاتهم ضمن أنشطة التواصل الداخلي للشركة.",
+        "body": "أقامت شركة إل إس فعالية دعت إليها عائلات موظفيها، وفق ما أورد موقع hankyung.com. ونُظمت الفعالية بوصفها مناسبة يشارك فيها موظفو إل إس وأفراد عائلاتهم معاً. وذكر النص الأصلي واقعة إقامة الفعالية وأن الجهة المنظمة هي إل إس، لكنه لم يورد تفاصيل إضافية مثل التاريخ المحدد أو المكان أو حجم الحضور أو البرامج التفصيلية. ويمكن وصف فعاليات دعوة عائلات الموظفين بأنها أنشطة مؤسسية تتيح فرصاً للتواصل مع العاملين وأسرهم. وركز التقرير على حقيقة أن إل إس أقامت هذه الفعالية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "LS ने कर्मचारियों के परिवारों के लिए आमंत्रण कार्यक्रम आयोजित किया",
+        "excerpt": "LS ने अपने कर्मचारियों के परिवारों को आमंत्रित करने वाला कार्यक्रम आयोजित किया, यह जानकारी Hankyung.com ने दी। यह आयोजन कर्मचारियों और परिवारों की साझा भागीदारी तथा आंतरिक संवाद से जुड़ा बताया गया।",
+        "body": "Hankyung.com के अनुसार, LS ने अपने कर्मचारियों के परिवारों को आमंत्रित करने वाला कार्यक्रम आयोजित किया। यह कार्यक्रम LS के कर्मचारियों और उनके परिवारों के साथ भाग लेने के लिए आयोजित किया गया था। मूल रिपोर्ट में कार्यक्रम आयोजित होने और आयोजक के रूप में LS का उल्लेख किया गया, लेकिन सटीक तारीख, स्थान, प्रतिभागियों की संख्या या विस्तृत कार्यक्रमों की जानकारी अलग से नहीं दी गई। कर्मचारियों के परिवारों को आमंत्रित करने वाले ऐसे आयोजन कंपनियों द्वारा कर्मचारियों और उनके परिवारों के साथ संवाद के अवसर बनाने वाली गतिविधियों के रूप में देखे जा सकते हैं। रिपोर्ट का केंद्र LS द्वारा इस कार्यक्रम का आयोजन था। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "LS Gelar Acara Undangan Keluarga Karyawan untuk Komunikasi Internal",
+        "excerpt": "LS menggelar acara yang mengundang keluarga karyawan, menurut laporan Hankyung.com. Acara ini disiapkan sebagai pertemuan bagi karyawan dan keluarga dalam kegiatan komunikasi internal perusahaan.",
+        "body": "LS menggelar acara yang mengundang keluarga karyawan, menurut laporan Hankyung.com. Acara tersebut disiapkan sebagai pertemuan yang memungkinkan karyawan LS dan anggota keluarga mereka ikut serta bersama. Laporan asli menyebutkan fakta penyelenggaraan acara dan LS sebagai pihak penyelenggara, tetapi tidak merinci tanggal, lokasi, jumlah peserta, atau program khusus. Acara undangan keluarga karyawan dapat digambarkan sebagai kegiatan perusahaan yang membuka peluang komunikasi dengan karyawan dan keluarga mereka. Laporan ini berfokus pada penyelenggaraan acara oleh LS. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "9cbfbd96dae5",
+    "slug": "인테리어-안해요욕실창호업체도-휘청-157851",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T16:36:21.119Z",
+    "updatedAt": "2026-05-09T16:36:21.119Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050849021",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050849021",
+    "titleFingerprint": "099b564fbcb344db2422b98b594b3ca8d4c61849",
+    "dedupKeys": [
+      "9cbfbd96dae5bfecbf728fbb5971d0885c348ac3",
+      "099b564fbcb344db2422b98b594b3ca8d4c61849",
+      "14d231abd9097a40b96554a8c7bdb519e26eeecf"
+    ],
+    "imageUrl": "/images/articles/9cbfbd96dae5.png",
+    "i18n": {
+      "ko": {
+        "title": "인테리어 수요 위축에 욕실·창호업체도 흔들린다",
+        "excerpt": "한국경제는 최근 소비자들이 인테리어 공사를 줄이면서 욕실·창호 업체까지 어려움을 겪고 있다고 보도했다.",
+        "body": "소비자들이 인테리어 공사를 꺼리는 흐름이 욕실과 창호 업체의 부담으로 이어지고 있다. 한국경제 보도에 따르면 ‘인테리어 안 해요’라는 분위기 속에서 관련 자재와 시공 수요가 약해지며 욕실·창호업체도 흔들리는 모습이다. 인테리어 업황은 주거 개선 수요와 밀접하게 움직이는 만큼, 소비자의 공사 보류는 업체 매출과 영업 환경에 직접적인 압박으로 작용한다. 관련 업계는 수요 회복 여부를 주시할 수밖에 없다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Interior Demand Slump Hits Bathroom and Window Firms",
+        "excerpt": "Hankyung reported that as consumers cut back on interior renovation work, bathroom and window companies are also facing pressure.",
+        "body": "A pullback in consumer interior renovation demand is weighing on bathroom and window companies. According to Hankyung, the mood of “not doing interiors” is weakening demand for related materials and installation work, leaving bathroom and window firms under strain. Because the interior market is closely tied to home improvement spending, delayed renovation decisions can directly pressure sales and operating conditions. Industry players are therefore watching whether demand can recover. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "内装需要の減速、浴室・窓関連企業にも波及",
+        "excerpt": "韓国経済新聞は、消費者が内装工事を控える動きにより、浴室・窓関連企業にも厳しさが広がっていると報じた。",
+        "body": "消費者が内装工事を控える流れが、浴室や窓関連企業の負担につながっている。韓国経済新聞によると、「内装はしない」という雰囲気の中で、関連資材や施工需要が弱まり、浴室・窓関連企業も揺らいでいる。内装市場は住宅改善需要と密接に動くため、消費者の工事延期は企業の売上や営業環境に直接的な圧力となる。業界は需要回復の有無を注視している。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "装修需求降温，卫浴和门窗企业也承压",
+        "excerpt": "韩国经济新闻报道称，随着消费者减少室内装修施工，卫浴和门窗企业也开始面临经营压力。",
+        "body": "消费者减少室内装修施工的趋势，正在给卫浴和门窗企业带来压力。据韩国经济新闻报道，在“不做装修”的氛围下，相关建材和施工需求走弱，卫浴、门窗企业也出现动摇。由于装修行业与住宅改善需求密切相关，消费者推迟施工会直接影响企业销售和经营环境。相关行业只能继续关注需求是否恢复。来源: hankyung.com"
+      },
+      "es": {
+        "title": "La caída en reformas golpea a firmas de baño y ventanas",
+        "excerpt": "Hankyung informó que, al reducirse las obras de interiorismo entre consumidores, también sufren presión las empresas de baños y ventanas.",
+        "body": "La menor disposición de los consumidores a realizar obras de interiorismo está afectando a las empresas de baños y ventanas. Según Hankyung, el ambiente de “no hacer reformas” debilita la demanda de materiales y trabajos relacionados, dejando bajo presión a estos proveedores. Como el mercado de interiorismo depende estrechamente del gasto en mejora de vivienda, aplazar obras puede presionar directamente las ventas y las condiciones operativas. El sector observa si la demanda se recupera. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Queda nas reformas pressiona empresas de banheiros e janelas",
+        "excerpt": "O Hankyung informou que, com consumidores reduzindo obras de interiores, empresas de banheiros e janelas também enfrentam dificuldades.",
+        "body": "A retração dos consumidores em realizar obras de interiores está pesando sobre empresas de banheiros e janelas. Segundo o Hankyung, o clima de “não fazer reforma” enfraquece a demanda por materiais e serviços relacionados, deixando essas companhias sob pressão. Como o mercado de interiores acompanha de perto os gastos com melhoria residencial, o adiamento de obras afeta diretamente vendas e condições operacionais. O setor acompanha a possível recuperação da demanda. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Schwache Renovierungsnachfrage belastet Bad- und Fensterfirmen",
+        "excerpt": "Hankyung berichtete, dass Verbraucher weniger Innenausbau beauftragen und dadurch auch Bad- und Fensteranbieter unter Druck geraten.",
+        "body": "Die Zurückhaltung der Verbraucher bei Innenausbau und Renovierung belastet Bad- und Fensterunternehmen. Laut Hankyung schwächt die Stimmung, keine Innenarbeiten durchführen zu lassen, die Nachfrage nach entsprechenden Materialien und Montageleistungen. Da der Innenausbaumarkt eng mit Ausgaben für Wohnungsverbesserungen verbunden ist, setzen verschobene Projekte Umsatz und Geschäftsbedingungen direkt unter Druck. Die Branche beobachtet daher, ob sich die Nachfrage erholt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le recul des travaux d’intérieur pèse sur salles de bain et fenêtres",
+        "excerpt": "Hankyung rapporte que la baisse des projets d’aménagement intérieur touche aussi les entreprises de salles de bain et de fenêtres.",
+        "body": "Le recul des travaux d’aménagement intérieur chez les consommateurs pèse sur les entreprises de salles de bain et de fenêtres. Selon Hankyung, l’idée de ne pas engager de travaux affaiblit la demande de matériaux et de services liés, fragilisant ces acteurs. Comme le marché de l’intérieur dépend étroitement des dépenses d’amélioration du logement, les reports de chantiers exercent une pression directe sur les ventes et les conditions d’activité. Le secteur surveille une éventuelle reprise. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تراجع الطلب على التشطيبات يضغط على شركات الحمامات والنوافذ",
+        "excerpt": "أفادت هانكيونغ بأن تقليص المستهلكين لأعمال التشطيب الداخلي يضع شركات الحمامات والنوافذ تحت ضغط متزايد.",
+        "body": "يتحول تراجع رغبة المستهلكين في تنفيذ أعمال التشطيب الداخلي إلى عبء على شركات الحمامات والنوافذ. ووفقا لما أوردته هانكيونغ، فإن أجواء الامتناع عن أعمال الديكور تضعف الطلب على المواد والخدمات المرتبطة بها، ما يجعل هذه الشركات تواجه ضغوطا واضحة. وبما أن سوق التشطيبات يرتبط مباشرة بطلب تحسين المساكن، فإن تأجيل الأعمال يضغط على المبيعات وظروف التشغيل. لذلك تراقب الصناعة ما إذا كان الطلب سيتعافى. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "इंटीरियर मांग घटने से बाथरूम और विंडो कंपनियों पर दबाव",
+        "excerpt": "हैंक्युंग ने बताया कि उपभोक्ताओं द्वारा इंटीरियर काम घटाने से बाथरूम और विंडो कंपनियां भी दबाव में हैं।",
+        "body": "उपभोक्ताओं के इंटीरियर काम से पीछे हटने का असर बाथरूम और विंडो कंपनियों पर पड़ रहा है। हैंक्युंग के अनुसार, “इंटीरियर नहीं कराना” जैसी प्रवृत्ति से संबंधित सामग्री और施工 सेवाओं की मांग कमजोर हुई है, जिससे ये कंपनियां दबाव में हैं। इंटीरियर बाजार आवास सुधार मांग से निकट रूप से जुड़ा होता है, इसलिए उपभोक्ताओं द्वारा काम टालना बिक्री और परिचालन माहौल पर सीधा असर डाल सकता है। उद्योग अब मांग में सुधार पर नजर रखे हुए है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Permintaan Interior Melemah, Perusahaan Kamar Mandi dan Jendela Tertekan",
+        "excerpt": "Hankyung melaporkan bahwa saat konsumen mengurangi pekerjaan interior, perusahaan kamar mandi dan jendela ikut menghadapi tekanan.",
+        "body": "Menurunnya minat konsumen untuk melakukan pekerjaan interior mulai membebani perusahaan kamar mandi dan jendela. Menurut Hankyung, suasana “tidak melakukan interior” melemahkan permintaan material dan jasa pemasangan terkait, sehingga perusahaan di sektor tersebut ikut goyah. Karena pasar interior sangat terkait dengan kebutuhan perbaikan hunian, penundaan proyek oleh konsumen dapat langsung menekan penjualan dan kondisi operasional. Pelaku industri kini memantau apakah permintaan akan pulih. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "e74880e30f60",
     "slug": "빚-못-갚는-기업-속출연체율-2배-넘게-올랐다-646930",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Cho Min Ikut Tren ‘Baseball Goddess AI’, Unggahan Fans Lotte Jadi Sorotan",
         "excerpt": "Cho Min, YouTuber sekaligus putri pemimpin Partai Inovasi Cho Kuk, mengunggah video dukungan untuk Lotte Giants di Instagram pada tanggal 9 dengan mengikuti tren ‘Baseball Goddess AI’.",
         "body": "Cho Min, YouTuber sekaligus putri Cho Kuk, pemimpin Partai Inovasi Cho Kuk, menarik perhatian online pada tanggal 9 lewat video terkait menonton bisbol. Di Instagram, Cho menulis bahwa ia ikut tren “Baseball Goddess AI” dan menambahkan, “Mari menang, meski dengan AI, Giants.” Unggahan itu menjadi sorotan karena menggabungkan dukungannya untuk Lotte Giants dengan tren gambar dan video AI yang belakangan menyebar di media sosial. Isi yang diberitakan didasarkan pada unggahan Instagram pribadinya dan menarik minat penggemar bisbol serta para pengikut. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "2198785aa573",
-    "slug": "더-간다-vs-과열-경보반도체-훈풍에-1년간-앞자리-다섯번-바뀐-코스피-532083",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T07:02:10.322Z",
-    "updatedAt": "2026-05-09T07:02:10.322Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042303",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042303",
-    "titleFingerprint": "a46e50388e41d54c775ef86e058a15221ca49fd5",
-    "dedupKeys": [
-      "2198785aa5731abb7c6b7dfefe82b6d0c1a3c2b6",
-      "a46e50388e41d54c775ef86e058a15221ca49fd5",
-      "c4d284bdb7f1abba4a45173753f38daca3c39ee0"
-    ],
-    "imageUrl": "/images/articles/2198785aa573.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 시대 개막, 반도체 훈풍에 1년 새 지수 앞자리 다섯 번 바뀌었다",
-        "excerpt": "코스피가 반도체 업황 개선 기대 속에 1년 동안 1000 단위 지수선을 다섯 차례 돌파하며 ‘박스피’ 오명을 벗고 7000선 시대를 열었다.",
-        "body": "코스피가 반도체 훈풍을 타고 ‘칠천피’로 불리는 코스피 7000 시대에 들어섰다. 한동안 ‘만년 박스피’, 즉 박스권에 갇힌 지수라는 평가를 받아왔지만, 최근 1년 사이 1000 단위 지수선을 다섯 차례나 넘어섰다. 시장에서는 상승세가 더 이어질 수 있다는 기대와 함께 단기 과열을 경계해야 한다는 목소리가 맞서고 있다. 반도체 업황 회복 기대가 지수 상승의 핵심 배경으로 거론되는 가운데, 빠른 지수 레벨 변화가 투자 심리에 어떤 영향을 줄지가 관건이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Opens the 7,000 Era as Chip Rally Lifts Index Through Five Milestones in a Year",
-        "excerpt": "The KOSPI has shed its long-running “boxed-in” image, breaking five 1,000-point index levels in one year as optimism over semiconductors fueled the move to 7,000.",
-        "body": "The KOSPI has entered what investors are calling the “7,000 KOSPI” era, supported by a favorable wind from the semiconductor sector. Long criticized as a permanently range-bound “Boxpi,” the index has crossed 1,000-point milestones five times in just one year. Market views are divided between expectations that the rally can continue and warnings that short-term overheating should be watched. With hopes for a semiconductor industry recovery cited as the key backdrop, investors are now focused on how the rapid change in index levels will affect market sentiment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが7000時代入り、半導体追い風で1年に節目を5回突破",
-        "excerpt": "KOSPIは半導体市況改善への期待を背景に、この1年で1000ポイント単位の節目を5回突破し、「ボックス相場」の汚名を脱して7000台に入った。",
-        "body": "KOSPIは半導体セクターの追い風を受け、「七千ピ」と呼ばれる7000時代に入った。長くレンジ内に閉じ込められた指数として「万年ボックスピ」と評されてきたが、直近1年で1000ポイント単位の節目を5回も突破した。市場では上昇がさらに続くとの期待と、短期的な過熱を警戒すべきだとの見方が交錯している。半導体市況回復への期待が指数上昇の主な背景とされるなか、急速な指数水準の変化が投資心理にどう影響するかが焦点だ。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI迈入7000点时代，半导体暖风推动一年五破千点关口",
-        "excerpt": "在半导体行业改善预期带动下，KOSPI一年内五次突破千点级指数关口，摆脱长期“箱体KOSPI”污名，进入7000点时代。",
-        "body": "KOSPI在半导体板块利好推动下，进入被称为“七千PI”的7000点时代。该指数长期被批评为困在区间内的“箱体KOSPI”，但在最近一年里五次突破以1000点为单位的指数关口。市场观点出现分化，一方面期待涨势还能延续，另一方面也提醒需警惕短期过热。随着半导体景气复苏预期被视为指数上涨的核心背景，快速变化的指数水平将如何影响投资情绪，成为后续关注重点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI entra en la era de 7.000 puntos impulsado por semiconductores",
-        "excerpt": "El KOSPI dejó atrás su fama de índice atrapado en rango al superar cinco niveles de 1.000 puntos en un año, apoyado por las expectativas sobre semiconductores.",
-        "body": "El KOSPI entró en la llamada era de los 7.000 puntos, impulsado por el viento favorable del sector de semiconductores. Durante mucho tiempo fue descrito como un índice atrapado en una caja, el “Boxpi”, pero en solo un año cruzó cinco hitos de 1.000 puntos. En el mercado conviven la expectativa de que la subida continúe y la advertencia de que debe vigilarse un posible sobrecalentamiento de corto plazo. Con la recuperación esperada de los semiconductores como principal telón de fondo, la atención se centra en cómo este rápido cambio de nivel afectará el ánimo inversor. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI chega aos 7.000 pontos com impulso dos chips e cinco marcos em um ano",
-        "excerpt": "O KOSPI deixou para trás a fama de índice preso em faixa ao romper cinco níveis de 1.000 pontos em um ano, apoiado pelo otimismo com semicondutores.",
-        "body": "O KOSPI entrou na chamada era dos 7.000 pontos, sustentado pelo vento favorável do setor de semicondutores. Por muito tempo, o índice foi visto como preso em uma faixa, o chamado “Boxpi”, mas em apenas um ano superou cinco marcos de 1.000 pontos. No mercado, há expectativa de que a alta possa continuar, ao mesmo tempo em que crescem alertas sobre possível superaquecimento de curto prazo. Com a recuperação esperada da indústria de chips apontada como pano de fundo central, o foco agora é como a rápida mudança de patamar afetará o sentimento dos investidores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI erreicht 7.000 Punkte, Halbleiter-Rally treibt fünf Indexsprünge in einem Jahr",
-        "excerpt": "Der KOSPI hat sein Image als dauerhaft feststeckender Markt abgelegt und binnen eines Jahres fünf 1.000-Punkte-Marken überschritten, getragen von Halbleiterhoffnungen.",
-        "body": "Der KOSPI ist, gestützt durch Rückenwind aus dem Halbleitersektor, in die sogenannte 7.000-Punkte-Ära eingetreten. Lange galt der Index als dauerhaft in einer Spanne gefangen und wurde als „Boxpi“ bezeichnet. In nur einem Jahr überschritt er jedoch fünf Indexmarken in Schritten von jeweils 1.000 Punkten. Am Markt stehen sich Erwartungen auf weitere Gewinne und Warnungen vor kurzfristiger Überhitzung gegenüber. Da Hoffnungen auf eine Erholung der Halbleiterbranche als zentraler Hintergrund der Rally gelten, rückt nun in den Fokus, wie der schnelle Niveauwechsel die Anlegerstimmung beeinflusst. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI entre dans l’ère des 7 000 points grâce à l’élan des semi-conducteurs",
-        "excerpt": "Porté par les attentes autour des semi-conducteurs, le KOSPI a franchi cinq seuils de 1 000 points en un an et quitté son image d’indice enfermé dans un couloir.",
-        "body": "Le KOSPI est entré dans l’ère dite des 7 000 points, soutenu par le vent favorable venu des semi-conducteurs. Longtemps critiqué comme un indice bloqué dans une fourchette, parfois surnommé “Boxpi”, il a franchi cinq seuils de 1 000 points en seulement un an. Sur le marché, l’espoir d’une poursuite de la hausse coexiste avec les appels à surveiller un possible emballement de court terme. Alors que les attentes de reprise du secteur des semi-conducteurs sont citées comme principal moteur, l’enjeu est désormais l’effet de cette rapide montée de niveau sur le sentiment des investisseurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يدخل عصر 7000 نقطة بدعم أشباه الموصلات وخمسة اختراقات خلال عام",
-        "excerpt": "تخلى مؤشر كوسبي عن صورته كمؤشر عالق في نطاق ضيق بعدما تجاوز خمسة مستويات من فئة ألف نقطة خلال عام، مدعوما بتوقعات تحسن قطاع أشباه الموصلات.",
-        "body": "دخل مؤشر كوسبي ما يطلق عليه المستثمرون عصر 7000 نقطة، بدعم من الزخم الإيجابي في قطاع أشباه الموصلات. وكان المؤشر يوصف لفترة طويلة بأنه عالق في نطاق محدد أو “بوكسبي”، لكنه خلال عام واحد فقط تجاوز خمسة حواجز من فئة 1000 نقطة. وتنقسم آراء السوق بين توقع استمرار الصعود والتحذير من ضرورة مراقبة مؤشرات السخونة الزائدة على المدى القصير. ومع اعتبار آمال تعافي قطاع أشباه الموصلات الخلفية الرئيسية لهذا الارتفاع، يتركز الاهتمام الآن على أثر هذا التغير السريع في مستويات المؤشر على معنويات المستثمرين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर तेजी से KOSPI 7,000 युग में, एक साल में पांच बड़े स्तर पार",
-        "excerpt": "सेमीकंडक्टर क्षेत्र में सुधार की उम्मीदों से KOSPI ने एक साल में 1,000 अंकों के पांच स्तर पार किए और लंबे समय की ‘बॉक्सपी’ छवि से बाहर निकला।",
-        "body": "सेमीकंडक्टर क्षेत्र से मिले सकारात्मक संकेतों के बीच KOSPI उस दौर में पहुंच गया है जिसे 7,000 KOSPI कहा जा रहा है। लंबे समय तक इसे सीमित दायरे में फंसा सूचकांक या ‘बॉक्सपी’ कहा जाता था, लेकिन सिर्फ एक साल में इसने 1,000 अंकों के पांच महत्वपूर्ण स्तर पार कर लिए। बाजार में एक ओर तेजी जारी रहने की उम्मीद है, वहीं दूसरी ओर अल्पकालिक ओवरहीटिंग को लेकर सतर्कता की आवाज भी उठ रही है। सेमीकंडक्टर उद्योग में सुधार की उम्मीद को इस उछाल की मुख्य पृष्ठभूमि माना जा रहा है और अब ध्यान इस बात पर है कि सूचकांक स्तर में तेज बदलाव निवेशक भावना को कैसे प्रभावित करेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Masuki Era 7.000, Dorongan Semikonduktor Ubah Level Lima Kali Setahun",
-        "excerpt": "KOSPI meninggalkan citra lama sebagai indeks yang terjebak di kisaran setelah menembus lima level 1.000 poin dalam setahun berkat optimisme semikonduktor.",
-        "body": "KOSPI memasuki era yang disebut “KOSPI 7.000” dengan dukungan sentimen positif dari sektor semikonduktor. Selama ini indeks tersebut kerap dijuluki “Boxpi” karena dianggap selalu terjebak dalam kisaran, tetapi dalam satu tahun terakhir berhasil menembus level indeks per 1.000 poin sebanyak lima kali. Di pasar, ekspektasi bahwa reli masih dapat berlanjut berdampingan dengan peringatan agar mewaspadai panas berlebih dalam jangka pendek. Dengan harapan pemulihan industri semikonduktor sebagai latar utama kenaikan, perhatian kini tertuju pada dampak perubahan level yang cepat terhadap sentimen investor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d2376e5d6aac",
-    "slug": "지역신문-결혼-소식-노렸다60대-빈집털이범의-치밀한-수법-651353",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T07:01:09.282Z",
-    "updatedAt": "2026-05-09T07:01:09.282Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042304",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042304",
-    "titleFingerprint": "57e80abf556178d4ca9278fbf0d3b9c026110822",
-    "dedupKeys": [
-      "d2376e5d6aac0ae8e27da0139891c32774fdb173",
-      "57e80abf556178d4ca9278fbf0d3b9c026110822",
-      "13d5aed50c2d4a8be487d34d366d181d229ebdb6"
-    ],
-    "imageUrl": "/images/articles/d2376e5d6aac.jpg",
-    "i18n": {
-      "ko": {
-        "title": "지역신문 결혼 소식 노린 빈집털이범, 혼주 주소 알아내 당일 절도 실형",
-        "excerpt": "지역 일간지 결혼식 소식을 단서로 혼주 주소를 확인한 뒤 결혼식 당일 빈집에 침입해 절도 행각을 벌인 60대 남성이 춘천지법에서 실형을 선고받았다.",
-        "body": "지역 일간지에 실린 결혼식 소식을 범행 단서로 삼아 혼주의 주소를 알아낸 뒤 결혼식 당일 빈집을 털어온 60대 남성이 실형을 선고받았다. 춘천지방법원 형사1단독 정종건 부장판사는 절도 및 주거침입 혐의로 기소된 이 남성에게 실형을 선고했다. 그는 신문에 공개된 결혼 소식을 보고 집이 비는 시점을 노린 것으로 전해졌다. 이번 사건은 지역사회에 공개되는 경조사 정보가 범죄에 악용될 수 있음을 보여준다. 결혼식 등 일정이 외부에 알려질 경우 주거 보안과 개인정보 노출에 대한 주의가 필요하다는 지적이 나온다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Burglar Targeted Local Newspaper Wedding Notices, Got Homeowners’ Addresses and Was Jailed",
-        "excerpt": "A man in his 60s was sentenced to prison by the Chuncheon District Court after using local daily wedding notices to find hosts’ addresses and burglarize empty homes on wedding days.",
-        "body": "A man in his 60s who used wedding announcements in a local daily newspaper as clues, identified the addresses of wedding hosts, and burglarized their empty homes on the wedding day has been sentenced to prison. Judge Jung Jong-geon of the Chuncheon District Court’s Criminal Division 1 handed down the prison term to the man, who was indicted on charges of theft and residential trespass. He was reported to have used publicly printed wedding notices to target moments when homes would be vacant. The case shows how family-event information disclosed in a local community can be exploited for crime. It also highlights the need for caution over home security and personal information exposure when wedding schedules or similar events become public. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "地方紙の結婚情報を狙った空き巣、婚主住所を調べ当日に窃盗で実刑",
-        "excerpt": "地方日刊紙に掲載された結婚式情報を手がかりに婚主の住所を調べ、式当日に空き家へ侵入して窃盗を繰り返した60代の男に春川地裁が実刑を言い渡した。",
-        "body": "地方日刊紙に掲載された結婚式情報を犯行の手がかりにし、婚主の住所を調べたうえで結婚式当日に空き家を狙っていた60代の男に実刑が言い渡された。春川地方裁判所刑事1単独のチョン・ジョンゴン部長判事は、窃盗および住居侵入の罪で起訴されたこの男に実刑を宣告した。男は新聞で公開された結婚情報を見て、家が留守になる時点を狙ったとされる。今回の事件は、地域社会で公開される慶弔情報が犯罪に悪用され得ることを示している。結婚式などの日程が外部に知られる場合、住宅の防犯と個人情報の露出に注意が必要だとの指摘が出ている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "盯上地方报婚礼消息，六旬入室盗窃者查出婚主地址当日作案获实刑",
-        "excerpt": "一名60多岁男子利用地方日报刊登的婚礼消息查找婚主住址，并在婚礼当天潜入空宅盗窃，春川地方法院已对其判处实刑。",
-        "body": "一名60多岁男子把地方日报刊登的婚礼消息作为作案线索，查出婚主住址后，在婚礼当天趁住宅空置实施盗窃，最终被判处实刑。春川地方法院刑事1单独郑钟建审判长对这名因盗窃及侵入住宅罪被起诉的男子宣判实刑。据悉，他通过报纸上公开的结婚消息，瞄准住户不在家的时间下手。该案显示，地方社会公开的婚丧喜庆信息可能被犯罪利用。婚礼等日程一旦对外公开，住宅安保和个人信息暴露问题需要格外注意。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Ladrón usó avisos de boda en un diario local para hallar direcciones y robar casas vacías",
-        "excerpt": "Un hombre de unos 60 años fue condenado a prisión por el Tribunal de Chuncheon tras usar anuncios de boda de un diario local para ubicar domicilios y robar casas vacías el día de la ceremonia.",
-        "body": "Un hombre de unos 60 años que utilizó anuncios de boda publicados en un diario local como pista para averiguar las direcciones de los anfitriones y robar viviendas vacías el día de la ceremonia fue condenado a prisión. El juez Jung Jong-geon, de la sala penal unipersonal 1 del Tribunal de Distrito de Chuncheon, dictó una pena efectiva contra el acusado por robo e invasión de domicilio. Según se informó, el hombre vio las noticias de boda publicadas en el periódico y apuntó al momento en que las casas quedarían desocupadas. El caso muestra que la información sobre eventos familiares divulgada en comunidades locales puede ser usada para cometer delitos. También subraya la necesidad de cuidar la seguridad del hogar y la exposición de datos personales cuando se hacen públicos horarios de bodas u otros eventos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ladrão mirou anúncios de casamento em jornal local, achou endereços e roubou casas vazias",
-        "excerpt": "Um homem de cerca de 60 anos foi condenado à prisão pelo Tribunal de Chuncheon após usar anúncios de casamento de um jornal local para encontrar endereços e furtar casas vazias no dia da cerimônia.",
-        "body": "Um homem de cerca de 60 anos que usou anúncios de casamento publicados em um jornal diário local como pista, descobriu os endereços dos anfitriões e furtou casas vazias no dia da cerimônia foi condenado à prisão. O juiz Jung Jong-geon, da 1ª Vara Criminal singular do Tribunal Distrital de Chuncheon, impôs pena efetiva ao homem, acusado de furto e invasão de residência. Segundo as informações, ele via as notícias de casamento divulgadas no jornal e mirava o momento em que as casas ficariam vazias. O caso mostra que dados sobre eventos familiares publicados em comunidades locais podem ser explorados para crimes. Também reforça a necessidade de atenção à segurança residencial e à exposição de informações pessoais quando datas de casamentos ou eventos semelhantes se tornam públicas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Einbrecher nutzte Hochzeitsanzeigen in Lokalzeitung, fand Adressen und erhielt Haftstrafe",
-        "excerpt": "Ein Mann in den Sechzigern wurde vom Bezirksgericht Chuncheon zu Haft verurteilt, nachdem er Hochzeitsmeldungen einer Lokalzeitung nutzte, Adressen ermittelte und am Hochzeitstag leere Häuser bestahl.",
-        "body": "Ein Mann in den Sechzigern, der Hochzeitsmeldungen in einer lokalen Tageszeitung als Hinweis nutzte, die Adressen der Hochzeitsfamilien ermittelte und am Tag der Feier leere Häuser bestahl, ist zu einer Haftstrafe verurteilt worden. Richter Jung Jong-geon von der Strafabteilung 1 des Bezirksgerichts Chuncheon sprach das Urteil gegen den wegen Diebstahls und Hausfriedensbruchs angeklagten Mann. Berichten zufolge sah er die in der Zeitung veröffentlichten Hochzeitsnachrichten und zielte auf den Zeitpunkt, an dem die Wohnungen leer standen. Der Fall zeigt, dass öffentlich gemachte Familienereignisse in lokalen Gemeinschaften für Straftaten missbraucht werden können. Er verweist zudem auf die Notwendigkeit, bei öffentlich bekannten Hochzeitsterminen auf Wohnungssicherheit und den Schutz persönlicher Daten zu achten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Un cambrioleur visait les annonces de mariage locales, trouvait les adresses et écope de prison",
-        "excerpt": "Un sexagénaire a été condamné à une peine de prison par le tribunal de Chuncheon après avoir utilisé des annonces de mariage d’un quotidien local pour trouver des adresses et cambrioler des logements vides le jour des noces.",
-        "body": "Un homme d’une soixantaine d’années, qui utilisait les annonces de mariage publiées dans un quotidien local pour identifier les adresses des familles concernées et cambrioler des logements vides le jour de la cérémonie, a été condamné à une peine de prison. Le juge Jung Jong-geon, de la 1re chambre pénale à juge unique du tribunal de district de Chuncheon, a prononcé cette peine contre l’homme poursuivi pour vol et violation de domicile. Selon les informations rapportées, il repérait dans le journal les annonces de mariage rendues publiques et visait le moment où les maisons seraient inoccupées. Cette affaire montre que des informations familiales diffusées dans une communauté locale peuvent être exploitées à des fins criminelles. Elle rappelle aussi la nécessité de veiller à la sécurité du domicile et à l’exposition des données personnelles lorsque des dates de mariage ou d’autres événements sont rendues publiques. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لص استهدف إعلانات الزواج في صحيفة محلية وحدد العناوين لسرقة منازل خالية",
-        "excerpt": "حكمت محكمة تشنتشون بالسجن الفعلي على رجل في الستينيات استخدم أخبار الزواج المنشورة في صحيفة يومية محلية لمعرفة عناوين أصحاب المناسبة وسرقة منازلهم يوم الزفاف.",
-        "body": "صدر حكم بالسجن الفعلي على رجل في الستينيات استخدم أخبار الزواج المنشورة في صحيفة يومية محلية كدليل لمعرفة عناوين أصحاب المناسبة، ثم سرق المنازل الخالية في يوم الزفاف. وأصدر القاضي جونغ جونغ غون من الدائرة الجنائية الأولى المنفردة في محكمة منطقة تشنتشون الحكم على الرجل المتهم بالسرقة واقتحام مسكن. وورد أنه كان يطلع على أخبار الزواج المنشورة في الصحيفة ويستهدف الوقت الذي تكون فيه المنازل خالية. وتظهر هذه القضية أن معلومات المناسبات العائلية المنشورة داخل المجتمع المحلي قد تستغل في جرائم. كما تبرز الحاجة إلى الانتباه لأمن المنازل وانكشاف المعلومات الشخصية عندما تصبح مواعيد الزفاف أو المناسبات المشابهة معروفة للآخرين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "स्थानीय अखबार की शादी की खबरों से पते ढूंढकर खाली घरों में चोरी, साठ वर्षीय को जेल",
-        "excerpt": "स्थानीय दैनिक में छपी शादी की खबरों से मेजबान परिवारों के पते पता कर शादी के दिन खाली घरों में चोरी करने वाले साठ वर्ष से अधिक आयु के व्यक्ति को चुनचोन जिला अदालत ने वास्तविक कारावास की सजा सुनाई।",
-        "body": "स्थानीय दैनिक अखबार में प्रकाशित शादी की खबरों को सुराग बनाकर मेजबान परिवारों के पते पता करने और शादी के दिन खाली घरों में चोरी करने वाले साठ वर्ष से अधिक आयु के एक व्यक्ति को वास्तविक कारावास की सजा सुनाई गई है। चुनचोन जिला अदालत की आपराधिक प्रथम एकल पीठ के मुख्य न्यायाधीश जंग जोंग-गोन ने चोरी और आवास में अवैध प्रवेश के आरोप में अभियुक्त इस व्यक्ति को सजा दी। बताया गया कि वह अखबार में सार्वजनिक हुई शादी की खबरों को देखकर उस समय को निशाना बनाता था जब घर खाली रहता था। यह मामला दिखाता है कि स्थानीय समाज में प्रकाशित पारिवारिक समारोहों की जानकारी अपराध में इस्तेमाल हो सकती है। शादी जैसी तिथियां बाहर ज्ञात होने पर घर की सुरक्षा और निजी जानकारी के उजागर होने को लेकर सावधानी जरूरी है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pencuri Targetkan Berita Pernikahan Koran Lokal, Cari Alamat Tuan Rumah dan Dibui",
-        "excerpt": "Seorang pria berusia 60-an dijatuhi hukuman penjara oleh Pengadilan Chuncheon setelah memakai berita pernikahan di harian lokal untuk mengetahui alamat tuan rumah dan mencuri di rumah kosong pada hari acara.",
-        "body": "Seorang pria berusia 60-an yang menggunakan berita pernikahan di surat kabar harian lokal sebagai petunjuk, mengetahui alamat tuan rumah, lalu mencuri di rumah kosong pada hari pernikahan dijatuhi hukuman penjara. Hakim Jung Jong-geon dari Pengadilan Distrik Chuncheon, pidana tunggal 1, menjatuhkan hukuman nyata kepada pria yang didakwa atas pencurian dan masuk tanpa izin ke tempat tinggal tersebut. Ia dilaporkan melihat berita pernikahan yang dipublikasikan di koran dan menargetkan waktu ketika rumah ditinggalkan kosong. Kasus ini menunjukkan bahwa informasi acara keluarga yang terbuka di komunitas lokal dapat disalahgunakan untuk kejahatan. Peristiwa ini juga menegaskan perlunya perhatian terhadap keamanan rumah dan paparan informasi pribadi ketika jadwal pernikahan atau acara serupa diketahui publik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4f613bd96d67",
-    "slug": "그런-고통은-나를-무너뜨리지-못했다中귀화-린샤오쥔에-난리난-팬들-837668",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T06:59:57.195Z",
-    "updatedAt": "2026-05-09T06:59:57.196Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042306",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042306",
-    "titleFingerprint": "cc26e1067edff2949d34c729b547382b61a4a077",
-    "dedupKeys": [
-      "4f613bd96d67902870dc939548388a012e3c350e",
-      "cc26e1067edff2949d34c729b547382b61a4a077",
-      "b8445fd6bc2943c6da7b5ed6b86708a39237f87d"
-    ],
-    "imageUrl": "/images/articles/4f613bd96d67.jpg",
-    "i18n": {
-      "ko": {
-        "title": "린샤오쥔, 귀화 후 과거 회고 글에 팬들 주목…“고통은 못 무너뜨렸다”",
-        "excerpt": "한국 쇼트트랙 대표팀 출신으로 중국에 귀화한 린샤오쥔이 8일 인스타그램에 과거의 어려움과 각오를 담은 글을 올리며 팬들의 관심을 받았다.",
-        "body": "한국 쇼트트랙 대표팀 출신으로 중국에 귀화한 린샤오쥔(임효준)이 8일 자신의 인스타그램에 과거를 돌아보고 앞으로의 각오를 다지는 글을 올려 팬들의 주목을 받았다. 그는 글에서 자신의 선수 경력이 극심한 어려움을 겪었다는 취지로 언급하며, 그런 고통이 자신을 무너뜨리지는 못했다고 밝혔다. 이번 게시물은 한국 대표팀 출신 선수가 중국으로 귀화한 이후 자신의 지난 시간을 직접 돌아봤다는 점에서 관심을 모았다. 팬들은 그의 메시지에 반응하며 향후 행보에도 시선을 보내고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lin Xiaojun’s Post After China Naturalization Draws Fans’ Attention",
-        "excerpt": "Lin Xiaojun, formerly Lim Hyo-jun of South Korea’s short track team, posted on Instagram on the 8th about past hardship and renewed resolve, drawing fan attention.",
-        "body": "Lin Xiaojun, formerly Lim Hyo-jun of South Korea’s short track speed skating team and now naturalized in China, drew attention after posting on Instagram on the 8th about looking back on his past and strengthening his resolve. In the post, he said his athletic career had faced severe difficulties and that such pain had not broken him. The message attracted notice because it was a direct reflection from a former Korean national team athlete after his move to China. Fans responded to the post and are watching his next steps. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "林孝埈、中国帰化後の回顧投稿にファン注目「苦痛は私を崩せなかった」",
-        "excerpt": "韓国ショートトラック代表出身で中国に帰化した林孝埈が8日、インスタグラムに過去の困難と決意をつづり、ファンの関心を集めた。",
-        "body": "韓国ショートトラック代表出身で中国に帰化した林孝埈（リン・シャオジュン、イム・ヒョジュン）が8日、自身のインスタグラムに過去を振り返り、今後への決意を固める文章を投稿し、ファンの注目を集めた。投稿では、自身の競技人生が極めて大きな困難を経験したという趣旨に触れ、そのような苦痛も自分を崩すことはできなかったと明かした。韓国代表出身の選手が中国帰化後に自らの時間を直接振り返った点で関心を呼んだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "林孝埈归化中国后发文回顾过去，称“痛苦没能击垮我”引关注",
-        "excerpt": "曾是韩国短道速滑队成员、后归化中国的林孝埈8日在Instagram发文回顾过往困难并表明决心，引发粉丝关注。",
-        "body": "曾是韩国短道速滑国家队成员、后归化中国的林孝埈（任孝埈）8日在个人Instagram上发布文字，回顾过去并表达今后的决心，引发粉丝关注。他在文中提到，自己的运动生涯经历了极其艰难的时期，并表示那样的痛苦并没有把自己击垮。此次发文之所以受到关注，是因为这位韩国队出身的选手在归化中国后，直接回顾了自己的过往。粉丝们对他的留言作出反应，也继续关注他的下一步动向。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lin Xiaojun recuerda su pasado tras naturalizarse chino y atrae la atención",
-        "excerpt": "Lin Xiaojun, exintegrante del equipo surcoreano de short track y naturalizado chino, publicó el día 8 en Instagram sobre sus dificultades y determinación.",
-        "body": "Lin Xiaojun, antes Lim Hyo-jun e integrante del equipo surcoreano de patinaje de velocidad en pista corta antes de naturalizarse chino, llamó la atención de los fans tras publicar el día 8 en Instagram un texto en el que miró atrás y reafirmó su determinación. En el mensaje señaló que su carrera deportiva atravesó dificultades extremas y que ese dolor no logró derribarlo. La publicación generó interés porque fue una reflexión directa de un exdeportista de la selección coreana después de su naturalización en China. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lin Xiaojun relembra passado após naturalização chinesa e chama atenção",
-        "excerpt": "Lin Xiaojun, ex-integrante da seleção sul-coreana de short track e naturalizado chinês, publicou no Instagram no dia 8 sobre dificuldades passadas e determinação.",
-        "body": "Lin Xiaojun, anteriormente Lim Hyo-jun, ex-atleta da seleção sul-coreana de patinação de velocidade em pista curta e hoje naturalizado chinês, chamou a atenção dos fãs ao publicar no Instagram, no dia 8, um texto em que relembra o passado e reforça sua determinação. Na mensagem, ele mencionou que sua carreira esportiva passou por dificuldades extremas e afirmou que essa dor não conseguiu derrubá-lo. A publicação ganhou destaque por trazer uma reflexão direta de um ex-representante da Coreia após sua naturalização na China. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lin Xiaojun blickt nach Einbürgerung in China zurück und bewegt Fans",
-        "excerpt": "Lin Xiaojun, früher Lim Hyo-jun aus Südkoreas Shorttrack-Team, schrieb am 8. auf Instagram über vergangene Härten und neue Entschlossenheit.",
-        "body": "Lin Xiaojun, früher Lim Hyo-jun aus der südkoreanischen Shorttrack-Nationalmannschaft und inzwischen in China eingebürgert, hat am 8. auf Instagram einen Beitrag veröffentlicht, in dem er auf die Vergangenheit zurückblickt und seine Entschlossenheit bekräftigt. Darin erwähnte er sinngemäß, dass seine sportliche Laufbahn extreme Schwierigkeiten erlebt habe, und erklärte, dieser Schmerz habe ihn nicht zerbrechen können. Aufmerksamkeit erhielt der Beitrag, weil ein früherer koreanischer Nationalteam-Athlet nach seiner Einbürgerung in China selbst auf seine Zeit zurückblickte. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lin Xiaojun revient sur son passé après sa naturalisation chinoise",
-        "excerpt": "Lin Xiaojun, ancien membre de l’équipe sud-coréenne de short-track naturalisé chinois, a publié le 8 sur Instagram un message sur ses épreuves et sa détermination.",
-        "body": "Lin Xiaojun, anciennement Lim Hyo-jun, ex-membre de l’équipe sud-coréenne de short-track et désormais naturalisé chinois, a attiré l’attention des fans après avoir publié le 8 sur Instagram un texte revenant sur son passé et affirmant sa détermination. Il y évoque une carrière sportive marquée par de très grandes difficultés et affirme que cette douleur ne l’a pas brisé. La publication a retenu l’intérêt car elle constitue une réflexion directe d’un ancien athlète de la sélection coréenne après sa naturalisation en Chine. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لين شياوجون يستعيد ماضيه بعد التجنيس الصيني ويجذب اهتمام المشجعين",
-        "excerpt": "لين شياوجون، لاعب الشورت تراك السابق في منتخب كوريا الجنوبية والمتجنس في الصين، نشر في 8 مايو على إنستغرام رسالة عن الصعوبات والعزيمة.",
-        "body": "جذب لين شياوجون، المعروف سابقا باسم ليم هيو جون، وهو لاعب سابق في منتخب كوريا الجنوبية للتزلج السريع على المضمار القصير وتجنس لاحقا في الصين، اهتمام المشجعين بعدما نشر في 8 مايو على حسابه في إنستغرام رسالة يستعيد فيها الماضي ويؤكد عزيمته. وذكر في المنشور أن مسيرته الرياضية مرت بصعوبات شديدة، موضحا أن ذلك الألم لم يستطع أن يحطمه. وأثار المنشور الاهتمام لأنه جاء كحديث مباشر من لاعب سابق في المنتخب الكوري بعد تجنسه في الصين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चीन में नागरिकता लेने के बाद लिन शियाओजुन की पोस्ट पर प्रशंसकों की नजर",
-        "excerpt": "दक्षिण कोरिया की शॉर्ट ट्रैक टीम के पूर्व खिलाड़ी और चीन में नागरिकता ले चुके लिन शियाओजुन ने 8 मई को इंस्टाग्राम पर कठिनाइयों और संकल्प पर पोस्ट किया।",
-        "body": "दक्षिण कोरिया की शॉर्ट ट्रैक स्पीड स्केटिंग टीम के पूर्व खिलाड़ी और चीन में नागरिकता ले चुके लिन शियाओजुन, जिनका पूर्व नाम लिम ह्यो-जुन है, ने 8 मई को अपने इंस्टाग्राम पर अतीत को याद करते हुए और आगे के संकल्प को जताते हुए पोस्ट किया, जिससे प्रशंसकों का ध्यान गया। उन्होंने लिखा कि उनके खेल करियर ने बेहद कठिन दौर देखे, लेकिन वैसी पीड़ा उन्हें तोड़ नहीं सकी। यह पोस्ट इसलिए चर्चा में रही क्योंकि कोरियाई राष्ट्रीय टीम से जुड़े रहे खिलाड़ी ने चीन में नागरिकता लेने के बाद अपने समय को सीधे शब्दों में याद किया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lin Xiaojun Unggah Refleksi Usai Naturalisasi China, Fans Menyorot",
-        "excerpt": "Lin Xiaojun, mantan atlet short track Korea Selatan yang menjadi warga negara China, mengunggah pesan di Instagram pada 8 Mei tentang kesulitan dan tekadnya.",
-        "body": "Lin Xiaojun, sebelumnya dikenal sebagai Lim Hyo-jun dan mantan atlet tim nasional short track Korea Selatan yang kini telah menjadi warga negara China, menarik perhatian penggemar setelah mengunggah tulisan di Instagram pada 8 Mei. Dalam unggahan itu, ia melihat kembali masa lalunya dan menegaskan tekadnya. Ia menyebut karier olahraganya mengalami kesulitan yang sangat berat, namun rasa sakit seperti itu tidak mampu menjatuhkannya. Unggahan ini menjadi sorotan karena ia secara langsung merefleksikan perjalanan setelah naturalisasi ke China. Sumber: mk.co.kr"
       }
     }
   }
