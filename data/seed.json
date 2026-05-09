@@ -1,5 +1,230 @@
 [
   {
+    "id": "2198785aa573",
+    "slug": "더-간다-vs-과열-경보반도체-훈풍에-1년간-앞자리-다섯번-바뀐-코스피-532083",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T07:02:10.322Z",
+    "updatedAt": "2026-05-09T07:02:10.322Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042303",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042303",
+    "titleFingerprint": "a46e50388e41d54c775ef86e058a15221ca49fd5",
+    "dedupKeys": [
+      "2198785aa5731abb7c6b7dfefe82b6d0c1a3c2b6",
+      "a46e50388e41d54c775ef86e058a15221ca49fd5",
+      "c4d284bdb7f1abba4a45173753f38daca3c39ee0"
+    ],
+    "imageUrl": "/images/articles/2198785aa573.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7000 시대 개막, 반도체 훈풍에 1년 새 지수 앞자리 다섯 번 바뀌었다",
+        "excerpt": "코스피가 반도체 업황 개선 기대 속에 1년 동안 1000 단위 지수선을 다섯 차례 돌파하며 ‘박스피’ 오명을 벗고 7000선 시대를 열었다.",
+        "body": "코스피가 반도체 훈풍을 타고 ‘칠천피’로 불리는 코스피 7000 시대에 들어섰다. 한동안 ‘만년 박스피’, 즉 박스권에 갇힌 지수라는 평가를 받아왔지만, 최근 1년 사이 1000 단위 지수선을 다섯 차례나 넘어섰다. 시장에서는 상승세가 더 이어질 수 있다는 기대와 함께 단기 과열을 경계해야 한다는 목소리가 맞서고 있다. 반도체 업황 회복 기대가 지수 상승의 핵심 배경으로 거론되는 가운데, 빠른 지수 레벨 변화가 투자 심리에 어떤 영향을 줄지가 관건이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Opens the 7,000 Era as Chip Rally Lifts Index Through Five Milestones in a Year",
+        "excerpt": "The KOSPI has shed its long-running “boxed-in” image, breaking five 1,000-point index levels in one year as optimism over semiconductors fueled the move to 7,000.",
+        "body": "The KOSPI has entered what investors are calling the “7,000 KOSPI” era, supported by a favorable wind from the semiconductor sector. Long criticized as a permanently range-bound “Boxpi,” the index has crossed 1,000-point milestones five times in just one year. Market views are divided between expectations that the rally can continue and warnings that short-term overheating should be watched. With hopes for a semiconductor industry recovery cited as the key backdrop, investors are now focused on how the rapid change in index levels will affect market sentiment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが7000時代入り、半導体追い風で1年に節目を5回突破",
+        "excerpt": "KOSPIは半導体市況改善への期待を背景に、この1年で1000ポイント単位の節目を5回突破し、「ボックス相場」の汚名を脱して7000台に入った。",
+        "body": "KOSPIは半導体セクターの追い風を受け、「七千ピ」と呼ばれる7000時代に入った。長くレンジ内に閉じ込められた指数として「万年ボックスピ」と評されてきたが、直近1年で1000ポイント単位の節目を5回も突破した。市場では上昇がさらに続くとの期待と、短期的な過熱を警戒すべきだとの見方が交錯している。半導体市況回復への期待が指数上昇の主な背景とされるなか、急速な指数水準の変化が投資心理にどう影響するかが焦点だ。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI迈入7000点时代，半导体暖风推动一年五破千点关口",
+        "excerpt": "在半导体行业改善预期带动下，KOSPI一年内五次突破千点级指数关口，摆脱长期“箱体KOSPI”污名，进入7000点时代。",
+        "body": "KOSPI在半导体板块利好推动下，进入被称为“七千PI”的7000点时代。该指数长期被批评为困在区间内的“箱体KOSPI”，但在最近一年里五次突破以1000点为单位的指数关口。市场观点出现分化，一方面期待涨势还能延续，另一方面也提醒需警惕短期过热。随着半导体景气复苏预期被视为指数上涨的核心背景，快速变化的指数水平将如何影响投资情绪，成为后续关注重点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El KOSPI entra en la era de 7.000 puntos impulsado por semiconductores",
+        "excerpt": "El KOSPI dejó atrás su fama de índice atrapado en rango al superar cinco niveles de 1.000 puntos en un año, apoyado por las expectativas sobre semiconductores.",
+        "body": "El KOSPI entró en la llamada era de los 7.000 puntos, impulsado por el viento favorable del sector de semiconductores. Durante mucho tiempo fue descrito como un índice atrapado en una caja, el “Boxpi”, pero en solo un año cruzó cinco hitos de 1.000 puntos. En el mercado conviven la expectativa de que la subida continúe y la advertencia de que debe vigilarse un posible sobrecalentamiento de corto plazo. Con la recuperación esperada de los semiconductores como principal telón de fondo, la atención se centra en cómo este rápido cambio de nivel afectará el ánimo inversor. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI chega aos 7.000 pontos com impulso dos chips e cinco marcos em um ano",
+        "excerpt": "O KOSPI deixou para trás a fama de índice preso em faixa ao romper cinco níveis de 1.000 pontos em um ano, apoiado pelo otimismo com semicondutores.",
+        "body": "O KOSPI entrou na chamada era dos 7.000 pontos, sustentado pelo vento favorável do setor de semicondutores. Por muito tempo, o índice foi visto como preso em uma faixa, o chamado “Boxpi”, mas em apenas um ano superou cinco marcos de 1.000 pontos. No mercado, há expectativa de que a alta possa continuar, ao mesmo tempo em que crescem alertas sobre possível superaquecimento de curto prazo. Com a recuperação esperada da indústria de chips apontada como pano de fundo central, o foco agora é como a rápida mudança de patamar afetará o sentimento dos investidores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI erreicht 7.000 Punkte, Halbleiter-Rally treibt fünf Indexsprünge in einem Jahr",
+        "excerpt": "Der KOSPI hat sein Image als dauerhaft feststeckender Markt abgelegt und binnen eines Jahres fünf 1.000-Punkte-Marken überschritten, getragen von Halbleiterhoffnungen.",
+        "body": "Der KOSPI ist, gestützt durch Rückenwind aus dem Halbleitersektor, in die sogenannte 7.000-Punkte-Ära eingetreten. Lange galt der Index als dauerhaft in einer Spanne gefangen und wurde als „Boxpi“ bezeichnet. In nur einem Jahr überschritt er jedoch fünf Indexmarken in Schritten von jeweils 1.000 Punkten. Am Markt stehen sich Erwartungen auf weitere Gewinne und Warnungen vor kurzfristiger Überhitzung gegenüber. Da Hoffnungen auf eine Erholung der Halbleiterbranche als zentraler Hintergrund der Rally gelten, rückt nun in den Fokus, wie der schnelle Niveauwechsel die Anlegerstimmung beeinflusst. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI entre dans l’ère des 7 000 points grâce à l’élan des semi-conducteurs",
+        "excerpt": "Porté par les attentes autour des semi-conducteurs, le KOSPI a franchi cinq seuils de 1 000 points en un an et quitté son image d’indice enfermé dans un couloir.",
+        "body": "Le KOSPI est entré dans l’ère dite des 7 000 points, soutenu par le vent favorable venu des semi-conducteurs. Longtemps critiqué comme un indice bloqué dans une fourchette, parfois surnommé “Boxpi”, il a franchi cinq seuils de 1 000 points en seulement un an. Sur le marché, l’espoir d’une poursuite de la hausse coexiste avec les appels à surveiller un possible emballement de court terme. Alors que les attentes de reprise du secteur des semi-conducteurs sont citées comme principal moteur, l’enjeu est désormais l’effet de cette rapide montée de niveau sur le sentiment des investisseurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يدخل عصر 7000 نقطة بدعم أشباه الموصلات وخمسة اختراقات خلال عام",
+        "excerpt": "تخلى مؤشر كوسبي عن صورته كمؤشر عالق في نطاق ضيق بعدما تجاوز خمسة مستويات من فئة ألف نقطة خلال عام، مدعوما بتوقعات تحسن قطاع أشباه الموصلات.",
+        "body": "دخل مؤشر كوسبي ما يطلق عليه المستثمرون عصر 7000 نقطة، بدعم من الزخم الإيجابي في قطاع أشباه الموصلات. وكان المؤشر يوصف لفترة طويلة بأنه عالق في نطاق محدد أو “بوكسبي”، لكنه خلال عام واحد فقط تجاوز خمسة حواجز من فئة 1000 نقطة. وتنقسم آراء السوق بين توقع استمرار الصعود والتحذير من ضرورة مراقبة مؤشرات السخونة الزائدة على المدى القصير. ومع اعتبار آمال تعافي قطاع أشباه الموصلات الخلفية الرئيسية لهذا الارتفاع، يتركز الاهتمام الآن على أثر هذا التغير السريع في مستويات المؤشر على معنويات المستثمرين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर तेजी से KOSPI 7,000 युग में, एक साल में पांच बड़े स्तर पार",
+        "excerpt": "सेमीकंडक्टर क्षेत्र में सुधार की उम्मीदों से KOSPI ने एक साल में 1,000 अंकों के पांच स्तर पार किए और लंबे समय की ‘बॉक्सपी’ छवि से बाहर निकला।",
+        "body": "सेमीकंडक्टर क्षेत्र से मिले सकारात्मक संकेतों के बीच KOSPI उस दौर में पहुंच गया है जिसे 7,000 KOSPI कहा जा रहा है। लंबे समय तक इसे सीमित दायरे में फंसा सूचकांक या ‘बॉक्सपी’ कहा जाता था, लेकिन सिर्फ एक साल में इसने 1,000 अंकों के पांच महत्वपूर्ण स्तर पार कर लिए। बाजार में एक ओर तेजी जारी रहने की उम्मीद है, वहीं दूसरी ओर अल्पकालिक ओवरहीटिंग को लेकर सतर्कता की आवाज भी उठ रही है। सेमीकंडक्टर उद्योग में सुधार की उम्मीद को इस उछाल की मुख्य पृष्ठभूमि माना जा रहा है और अब ध्यान इस बात पर है कि सूचकांक स्तर में तेज बदलाव निवेशक भावना को कैसे प्रभावित करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Masuki Era 7.000, Dorongan Semikonduktor Ubah Level Lima Kali Setahun",
+        "excerpt": "KOSPI meninggalkan citra lama sebagai indeks yang terjebak di kisaran setelah menembus lima level 1.000 poin dalam setahun berkat optimisme semikonduktor.",
+        "body": "KOSPI memasuki era yang disebut “KOSPI 7.000” dengan dukungan sentimen positif dari sektor semikonduktor. Selama ini indeks tersebut kerap dijuluki “Boxpi” karena dianggap selalu terjebak dalam kisaran, tetapi dalam satu tahun terakhir berhasil menembus level indeks per 1.000 poin sebanyak lima kali. Di pasar, ekspektasi bahwa reli masih dapat berlanjut berdampingan dengan peringatan agar mewaspadai panas berlebih dalam jangka pendek. Dengan harapan pemulihan industri semikonduktor sebagai latar utama kenaikan, perhatian kini tertuju pada dampak perubahan level yang cepat terhadap sentimen investor. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d2376e5d6aac",
+    "slug": "지역신문-결혼-소식-노렸다60대-빈집털이범의-치밀한-수법-651353",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T07:01:09.282Z",
+    "updatedAt": "2026-05-09T07:01:09.282Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042304",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042304",
+    "titleFingerprint": "57e80abf556178d4ca9278fbf0d3b9c026110822",
+    "dedupKeys": [
+      "d2376e5d6aac0ae8e27da0139891c32774fdb173",
+      "57e80abf556178d4ca9278fbf0d3b9c026110822",
+      "13d5aed50c2d4a8be487d34d366d181d229ebdb6"
+    ],
+    "imageUrl": "/images/articles/d2376e5d6aac.jpg",
+    "i18n": {
+      "ko": {
+        "title": "지역신문 결혼 소식 노린 빈집털이범, 혼주 주소 알아내 당일 절도 실형",
+        "excerpt": "지역 일간지 결혼식 소식을 단서로 혼주 주소를 확인한 뒤 결혼식 당일 빈집에 침입해 절도 행각을 벌인 60대 남성이 춘천지법에서 실형을 선고받았다.",
+        "body": "지역 일간지에 실린 결혼식 소식을 범행 단서로 삼아 혼주의 주소를 알아낸 뒤 결혼식 당일 빈집을 털어온 60대 남성이 실형을 선고받았다. 춘천지방법원 형사1단독 정종건 부장판사는 절도 및 주거침입 혐의로 기소된 이 남성에게 실형을 선고했다. 그는 신문에 공개된 결혼 소식을 보고 집이 비는 시점을 노린 것으로 전해졌다. 이번 사건은 지역사회에 공개되는 경조사 정보가 범죄에 악용될 수 있음을 보여준다. 결혼식 등 일정이 외부에 알려질 경우 주거 보안과 개인정보 노출에 대한 주의가 필요하다는 지적이 나온다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Burglar Targeted Local Newspaper Wedding Notices, Got Homeowners’ Addresses and Was Jailed",
+        "excerpt": "A man in his 60s was sentenced to prison by the Chuncheon District Court after using local daily wedding notices to find hosts’ addresses and burglarize empty homes on wedding days.",
+        "body": "A man in his 60s who used wedding announcements in a local daily newspaper as clues, identified the addresses of wedding hosts, and burglarized their empty homes on the wedding day has been sentenced to prison. Judge Jung Jong-geon of the Chuncheon District Court’s Criminal Division 1 handed down the prison term to the man, who was indicted on charges of theft and residential trespass. He was reported to have used publicly printed wedding notices to target moments when homes would be vacant. The case shows how family-event information disclosed in a local community can be exploited for crime. It also highlights the need for caution over home security and personal information exposure when wedding schedules or similar events become public. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "地方紙の結婚情報を狙った空き巣、婚主住所を調べ当日に窃盗で実刑",
+        "excerpt": "地方日刊紙に掲載された結婚式情報を手がかりに婚主の住所を調べ、式当日に空き家へ侵入して窃盗を繰り返した60代の男に春川地裁が実刑を言い渡した。",
+        "body": "地方日刊紙に掲載された結婚式情報を犯行の手がかりにし、婚主の住所を調べたうえで結婚式当日に空き家を狙っていた60代の男に実刑が言い渡された。春川地方裁判所刑事1単独のチョン・ジョンゴン部長判事は、窃盗および住居侵入の罪で起訴されたこの男に実刑を宣告した。男は新聞で公開された結婚情報を見て、家が留守になる時点を狙ったとされる。今回の事件は、地域社会で公開される慶弔情報が犯罪に悪用され得ることを示している。結婚式などの日程が外部に知られる場合、住宅の防犯と個人情報の露出に注意が必要だとの指摘が出ている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "盯上地方报婚礼消息，六旬入室盗窃者查出婚主地址当日作案获实刑",
+        "excerpt": "一名60多岁男子利用地方日报刊登的婚礼消息查找婚主住址，并在婚礼当天潜入空宅盗窃，春川地方法院已对其判处实刑。",
+        "body": "一名60多岁男子把地方日报刊登的婚礼消息作为作案线索，查出婚主住址后，在婚礼当天趁住宅空置实施盗窃，最终被判处实刑。春川地方法院刑事1单独郑钟建审判长对这名因盗窃及侵入住宅罪被起诉的男子宣判实刑。据悉，他通过报纸上公开的结婚消息，瞄准住户不在家的时间下手。该案显示，地方社会公开的婚丧喜庆信息可能被犯罪利用。婚礼等日程一旦对外公开，住宅安保和个人信息暴露问题需要格外注意。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ladrón usó avisos de boda en un diario local para hallar direcciones y robar casas vacías",
+        "excerpt": "Un hombre de unos 60 años fue condenado a prisión por el Tribunal de Chuncheon tras usar anuncios de boda de un diario local para ubicar domicilios y robar casas vacías el día de la ceremonia.",
+        "body": "Un hombre de unos 60 años que utilizó anuncios de boda publicados en un diario local como pista para averiguar las direcciones de los anfitriones y robar viviendas vacías el día de la ceremonia fue condenado a prisión. El juez Jung Jong-geon, de la sala penal unipersonal 1 del Tribunal de Distrito de Chuncheon, dictó una pena efectiva contra el acusado por robo e invasión de domicilio. Según se informó, el hombre vio las noticias de boda publicadas en el periódico y apuntó al momento en que las casas quedarían desocupadas. El caso muestra que la información sobre eventos familiares divulgada en comunidades locales puede ser usada para cometer delitos. También subraya la necesidad de cuidar la seguridad del hogar y la exposición de datos personales cuando se hacen públicos horarios de bodas u otros eventos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ladrão mirou anúncios de casamento em jornal local, achou endereços e roubou casas vazias",
+        "excerpt": "Um homem de cerca de 60 anos foi condenado à prisão pelo Tribunal de Chuncheon após usar anúncios de casamento de um jornal local para encontrar endereços e furtar casas vazias no dia da cerimônia.",
+        "body": "Um homem de cerca de 60 anos que usou anúncios de casamento publicados em um jornal diário local como pista, descobriu os endereços dos anfitriões e furtou casas vazias no dia da cerimônia foi condenado à prisão. O juiz Jung Jong-geon, da 1ª Vara Criminal singular do Tribunal Distrital de Chuncheon, impôs pena efetiva ao homem, acusado de furto e invasão de residência. Segundo as informações, ele via as notícias de casamento divulgadas no jornal e mirava o momento em que as casas ficariam vazias. O caso mostra que dados sobre eventos familiares publicados em comunidades locais podem ser explorados para crimes. Também reforça a necessidade de atenção à segurança residencial e à exposição de informações pessoais quando datas de casamentos ou eventos semelhantes se tornam públicas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Einbrecher nutzte Hochzeitsanzeigen in Lokalzeitung, fand Adressen und erhielt Haftstrafe",
+        "excerpt": "Ein Mann in den Sechzigern wurde vom Bezirksgericht Chuncheon zu Haft verurteilt, nachdem er Hochzeitsmeldungen einer Lokalzeitung nutzte, Adressen ermittelte und am Hochzeitstag leere Häuser bestahl.",
+        "body": "Ein Mann in den Sechzigern, der Hochzeitsmeldungen in einer lokalen Tageszeitung als Hinweis nutzte, die Adressen der Hochzeitsfamilien ermittelte und am Tag der Feier leere Häuser bestahl, ist zu einer Haftstrafe verurteilt worden. Richter Jung Jong-geon von der Strafabteilung 1 des Bezirksgerichts Chuncheon sprach das Urteil gegen den wegen Diebstahls und Hausfriedensbruchs angeklagten Mann. Berichten zufolge sah er die in der Zeitung veröffentlichten Hochzeitsnachrichten und zielte auf den Zeitpunkt, an dem die Wohnungen leer standen. Der Fall zeigt, dass öffentlich gemachte Familienereignisse in lokalen Gemeinschaften für Straftaten missbraucht werden können. Er verweist zudem auf die Notwendigkeit, bei öffentlich bekannten Hochzeitsterminen auf Wohnungssicherheit und den Schutz persönlicher Daten zu achten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un cambrioleur visait les annonces de mariage locales, trouvait les adresses et écope de prison",
+        "excerpt": "Un sexagénaire a été condamné à une peine de prison par le tribunal de Chuncheon après avoir utilisé des annonces de mariage d’un quotidien local pour trouver des adresses et cambrioler des logements vides le jour des noces.",
+        "body": "Un homme d’une soixantaine d’années, qui utilisait les annonces de mariage publiées dans un quotidien local pour identifier les adresses des familles concernées et cambrioler des logements vides le jour de la cérémonie, a été condamné à une peine de prison. Le juge Jung Jong-geon, de la 1re chambre pénale à juge unique du tribunal de district de Chuncheon, a prononcé cette peine contre l’homme poursuivi pour vol et violation de domicile. Selon les informations rapportées, il repérait dans le journal les annonces de mariage rendues publiques et visait le moment où les maisons seraient inoccupées. Cette affaire montre que des informations familiales diffusées dans une communauté locale peuvent être exploitées à des fins criminelles. Elle rappelle aussi la nécessité de veiller à la sécurité du domicile et à l’exposition des données personnelles lorsque des dates de mariage ou d’autres événements sont rendues publiques. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لص استهدف إعلانات الزواج في صحيفة محلية وحدد العناوين لسرقة منازل خالية",
+        "excerpt": "حكمت محكمة تشنتشون بالسجن الفعلي على رجل في الستينيات استخدم أخبار الزواج المنشورة في صحيفة يومية محلية لمعرفة عناوين أصحاب المناسبة وسرقة منازلهم يوم الزفاف.",
+        "body": "صدر حكم بالسجن الفعلي على رجل في الستينيات استخدم أخبار الزواج المنشورة في صحيفة يومية محلية كدليل لمعرفة عناوين أصحاب المناسبة، ثم سرق المنازل الخالية في يوم الزفاف. وأصدر القاضي جونغ جونغ غون من الدائرة الجنائية الأولى المنفردة في محكمة منطقة تشنتشون الحكم على الرجل المتهم بالسرقة واقتحام مسكن. وورد أنه كان يطلع على أخبار الزواج المنشورة في الصحيفة ويستهدف الوقت الذي تكون فيه المنازل خالية. وتظهر هذه القضية أن معلومات المناسبات العائلية المنشورة داخل المجتمع المحلي قد تستغل في جرائم. كما تبرز الحاجة إلى الانتباه لأمن المنازل وانكشاف المعلومات الشخصية عندما تصبح مواعيد الزفاف أو المناسبات المشابهة معروفة للآخرين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "स्थानीय अखबार की शादी की खबरों से पते ढूंढकर खाली घरों में चोरी, साठ वर्षीय को जेल",
+        "excerpt": "स्थानीय दैनिक में छपी शादी की खबरों से मेजबान परिवारों के पते पता कर शादी के दिन खाली घरों में चोरी करने वाले साठ वर्ष से अधिक आयु के व्यक्ति को चुनचोन जिला अदालत ने वास्तविक कारावास की सजा सुनाई।",
+        "body": "स्थानीय दैनिक अखबार में प्रकाशित शादी की खबरों को सुराग बनाकर मेजबान परिवारों के पते पता करने और शादी के दिन खाली घरों में चोरी करने वाले साठ वर्ष से अधिक आयु के एक व्यक्ति को वास्तविक कारावास की सजा सुनाई गई है। चुनचोन जिला अदालत की आपराधिक प्रथम एकल पीठ के मुख्य न्यायाधीश जंग जोंग-गोन ने चोरी और आवास में अवैध प्रवेश के आरोप में अभियुक्त इस व्यक्ति को सजा दी। बताया गया कि वह अखबार में सार्वजनिक हुई शादी की खबरों को देखकर उस समय को निशाना बनाता था जब घर खाली रहता था। यह मामला दिखाता है कि स्थानीय समाज में प्रकाशित पारिवारिक समारोहों की जानकारी अपराध में इस्तेमाल हो सकती है। शादी जैसी तिथियां बाहर ज्ञात होने पर घर की सुरक्षा और निजी जानकारी के उजागर होने को लेकर सावधानी जरूरी है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pencuri Targetkan Berita Pernikahan Koran Lokal, Cari Alamat Tuan Rumah dan Dibui",
+        "excerpt": "Seorang pria berusia 60-an dijatuhi hukuman penjara oleh Pengadilan Chuncheon setelah memakai berita pernikahan di harian lokal untuk mengetahui alamat tuan rumah dan mencuri di rumah kosong pada hari acara.",
+        "body": "Seorang pria berusia 60-an yang menggunakan berita pernikahan di surat kabar harian lokal sebagai petunjuk, mengetahui alamat tuan rumah, lalu mencuri di rumah kosong pada hari pernikahan dijatuhi hukuman penjara. Hakim Jung Jong-geon dari Pengadilan Distrik Chuncheon, pidana tunggal 1, menjatuhkan hukuman nyata kepada pria yang didakwa atas pencurian dan masuk tanpa izin ke tempat tinggal tersebut. Ia dilaporkan melihat berita pernikahan yang dipublikasikan di koran dan menargetkan waktu ketika rumah ditinggalkan kosong. Kasus ini menunjukkan bahwa informasi acara keluarga yang terbuka di komunitas lokal dapat disalahgunakan untuk kejahatan. Peristiwa ini juga menegaskan perlunya perhatian terhadap keamanan rumah dan paparan informasi pribadi ketika jadwal pernikahan atau acara serupa diketahui publik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4f613bd96d67",
+    "slug": "그런-고통은-나를-무너뜨리지-못했다中귀화-린샤오쥔에-난리난-팬들-837668",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T06:59:57.195Z",
+    "updatedAt": "2026-05-09T06:59:57.196Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042306",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042306",
+    "titleFingerprint": "cc26e1067edff2949d34c729b547382b61a4a077",
+    "dedupKeys": [
+      "4f613bd96d67902870dc939548388a012e3c350e",
+      "cc26e1067edff2949d34c729b547382b61a4a077",
+      "b8445fd6bc2943c6da7b5ed6b86708a39237f87d"
+    ],
+    "imageUrl": "/images/articles/4f613bd96d67.jpg",
+    "i18n": {
+      "ko": {
+        "title": "린샤오쥔, 귀화 후 과거 회고 글에 팬들 주목…“고통은 못 무너뜨렸다”",
+        "excerpt": "한국 쇼트트랙 대표팀 출신으로 중국에 귀화한 린샤오쥔이 8일 인스타그램에 과거의 어려움과 각오를 담은 글을 올리며 팬들의 관심을 받았다.",
+        "body": "한국 쇼트트랙 대표팀 출신으로 중국에 귀화한 린샤오쥔(임효준)이 8일 자신의 인스타그램에 과거를 돌아보고 앞으로의 각오를 다지는 글을 올려 팬들의 주목을 받았다. 그는 글에서 자신의 선수 경력이 극심한 어려움을 겪었다는 취지로 언급하며, 그런 고통이 자신을 무너뜨리지는 못했다고 밝혔다. 이번 게시물은 한국 대표팀 출신 선수가 중국으로 귀화한 이후 자신의 지난 시간을 직접 돌아봤다는 점에서 관심을 모았다. 팬들은 그의 메시지에 반응하며 향후 행보에도 시선을 보내고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lin Xiaojun’s Post After China Naturalization Draws Fans’ Attention",
+        "excerpt": "Lin Xiaojun, formerly Lim Hyo-jun of South Korea’s short track team, posted on Instagram on the 8th about past hardship and renewed resolve, drawing fan attention.",
+        "body": "Lin Xiaojun, formerly Lim Hyo-jun of South Korea’s short track speed skating team and now naturalized in China, drew attention after posting on Instagram on the 8th about looking back on his past and strengthening his resolve. In the post, he said his athletic career had faced severe difficulties and that such pain had not broken him. The message attracted notice because it was a direct reflection from a former Korean national team athlete after his move to China. Fans responded to the post and are watching his next steps. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "林孝埈、中国帰化後の回顧投稿にファン注目「苦痛は私を崩せなかった」",
+        "excerpt": "韓国ショートトラック代表出身で中国に帰化した林孝埈が8日、インスタグラムに過去の困難と決意をつづり、ファンの関心を集めた。",
+        "body": "韓国ショートトラック代表出身で中国に帰化した林孝埈（リン・シャオジュン、イム・ヒョジュン）が8日、自身のインスタグラムに過去を振り返り、今後への決意を固める文章を投稿し、ファンの注目を集めた。投稿では、自身の競技人生が極めて大きな困難を経験したという趣旨に触れ、そのような苦痛も自分を崩すことはできなかったと明かした。韓国代表出身の選手が中国帰化後に自らの時間を直接振り返った点で関心を呼んだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "林孝埈归化中国后发文回顾过去，称“痛苦没能击垮我”引关注",
+        "excerpt": "曾是韩国短道速滑队成员、后归化中国的林孝埈8日在Instagram发文回顾过往困难并表明决心，引发粉丝关注。",
+        "body": "曾是韩国短道速滑国家队成员、后归化中国的林孝埈（任孝埈）8日在个人Instagram上发布文字，回顾过去并表达今后的决心，引发粉丝关注。他在文中提到，自己的运动生涯经历了极其艰难的时期，并表示那样的痛苦并没有把自己击垮。此次发文之所以受到关注，是因为这位韩国队出身的选手在归化中国后，直接回顾了自己的过往。粉丝们对他的留言作出反应，也继续关注他的下一步动向。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lin Xiaojun recuerda su pasado tras naturalizarse chino y atrae la atención",
+        "excerpt": "Lin Xiaojun, exintegrante del equipo surcoreano de short track y naturalizado chino, publicó el día 8 en Instagram sobre sus dificultades y determinación.",
+        "body": "Lin Xiaojun, antes Lim Hyo-jun e integrante del equipo surcoreano de patinaje de velocidad en pista corta antes de naturalizarse chino, llamó la atención de los fans tras publicar el día 8 en Instagram un texto en el que miró atrás y reafirmó su determinación. En el mensaje señaló que su carrera deportiva atravesó dificultades extremas y que ese dolor no logró derribarlo. La publicación generó interés porque fue una reflexión directa de un exdeportista de la selección coreana después de su naturalización en China. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lin Xiaojun relembra passado após naturalização chinesa e chama atenção",
+        "excerpt": "Lin Xiaojun, ex-integrante da seleção sul-coreana de short track e naturalizado chinês, publicou no Instagram no dia 8 sobre dificuldades passadas e determinação.",
+        "body": "Lin Xiaojun, anteriormente Lim Hyo-jun, ex-atleta da seleção sul-coreana de patinação de velocidade em pista curta e hoje naturalizado chinês, chamou a atenção dos fãs ao publicar no Instagram, no dia 8, um texto em que relembra o passado e reforça sua determinação. Na mensagem, ele mencionou que sua carreira esportiva passou por dificuldades extremas e afirmou que essa dor não conseguiu derrubá-lo. A publicação ganhou destaque por trazer uma reflexão direta de um ex-representante da Coreia após sua naturalização na China. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lin Xiaojun blickt nach Einbürgerung in China zurück und bewegt Fans",
+        "excerpt": "Lin Xiaojun, früher Lim Hyo-jun aus Südkoreas Shorttrack-Team, schrieb am 8. auf Instagram über vergangene Härten und neue Entschlossenheit.",
+        "body": "Lin Xiaojun, früher Lim Hyo-jun aus der südkoreanischen Shorttrack-Nationalmannschaft und inzwischen in China eingebürgert, hat am 8. auf Instagram einen Beitrag veröffentlicht, in dem er auf die Vergangenheit zurückblickt und seine Entschlossenheit bekräftigt. Darin erwähnte er sinngemäß, dass seine sportliche Laufbahn extreme Schwierigkeiten erlebt habe, und erklärte, dieser Schmerz habe ihn nicht zerbrechen können. Aufmerksamkeit erhielt der Beitrag, weil ein früherer koreanischer Nationalteam-Athlet nach seiner Einbürgerung in China selbst auf seine Zeit zurückblickte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lin Xiaojun revient sur son passé après sa naturalisation chinoise",
+        "excerpt": "Lin Xiaojun, ancien membre de l’équipe sud-coréenne de short-track naturalisé chinois, a publié le 8 sur Instagram un message sur ses épreuves et sa détermination.",
+        "body": "Lin Xiaojun, anciennement Lim Hyo-jun, ex-membre de l’équipe sud-coréenne de short-track et désormais naturalisé chinois, a attiré l’attention des fans après avoir publié le 8 sur Instagram un texte revenant sur son passé et affirmant sa détermination. Il y évoque une carrière sportive marquée par de très grandes difficultés et affirme que cette douleur ne l’a pas brisé. La publication a retenu l’intérêt car elle constitue une réflexion directe d’un ancien athlète de la sélection coréenne après sa naturalisation en Chine. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لين شياوجون يستعيد ماضيه بعد التجنيس الصيني ويجذب اهتمام المشجعين",
+        "excerpt": "لين شياوجون، لاعب الشورت تراك السابق في منتخب كوريا الجنوبية والمتجنس في الصين، نشر في 8 مايو على إنستغرام رسالة عن الصعوبات والعزيمة.",
+        "body": "جذب لين شياوجون، المعروف سابقا باسم ليم هيو جون، وهو لاعب سابق في منتخب كوريا الجنوبية للتزلج السريع على المضمار القصير وتجنس لاحقا في الصين، اهتمام المشجعين بعدما نشر في 8 مايو على حسابه في إنستغرام رسالة يستعيد فيها الماضي ويؤكد عزيمته. وذكر في المنشور أن مسيرته الرياضية مرت بصعوبات شديدة، موضحا أن ذلك الألم لم يستطع أن يحطمه. وأثار المنشور الاهتمام لأنه جاء كحديث مباشر من لاعب سابق في المنتخب الكوري بعد تجنسه في الصين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चीन में नागरिकता लेने के बाद लिन शियाओजुन की पोस्ट पर प्रशंसकों की नजर",
+        "excerpt": "दक्षिण कोरिया की शॉर्ट ट्रैक टीम के पूर्व खिलाड़ी और चीन में नागरिकता ले चुके लिन शियाओजुन ने 8 मई को इंस्टाग्राम पर कठिनाइयों और संकल्प पर पोस्ट किया।",
+        "body": "दक्षिण कोरिया की शॉर्ट ट्रैक स्पीड स्केटिंग टीम के पूर्व खिलाड़ी और चीन में नागरिकता ले चुके लिन शियाओजुन, जिनका पूर्व नाम लिम ह्यो-जुन है, ने 8 मई को अपने इंस्टाग्राम पर अतीत को याद करते हुए और आगे के संकल्प को जताते हुए पोस्ट किया, जिससे प्रशंसकों का ध्यान गया। उन्होंने लिखा कि उनके खेल करियर ने बेहद कठिन दौर देखे, लेकिन वैसी पीड़ा उन्हें तोड़ नहीं सकी। यह पोस्ट इसलिए चर्चा में रही क्योंकि कोरियाई राष्ट्रीय टीम से जुड़े रहे खिलाड़ी ने चीन में नागरिकता लेने के बाद अपने समय को सीधे शब्दों में याद किया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lin Xiaojun Unggah Refleksi Usai Naturalisasi China, Fans Menyorot",
+        "excerpt": "Lin Xiaojun, mantan atlet short track Korea Selatan yang menjadi warga negara China, mengunggah pesan di Instagram pada 8 Mei tentang kesulitan dan tekadnya.",
+        "body": "Lin Xiaojun, sebelumnya dikenal sebagai Lim Hyo-jun dan mantan atlet tim nasional short track Korea Selatan yang kini telah menjadi warga negara China, menarik perhatian penggemar setelah mengunggah tulisan di Instagram pada 8 Mei. Dalam unggahan itu, ia melihat kembali masa lalunya dan menegaskan tekadnya. Ia menyebut karier olahraganya mengalami kesulitan yang sangat berat, namun rasa sakit seperti itu tidak mampu menjatuhkannya. Unggahan ini menjadi sorotan karena ia secara langsung merefleksikan perjalanan setelah naturalisasi ke China. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "1508a2511c60",
     "slug": "뉴진스-하우-스위트-미국서-저작권-소송어도어-표절-사실-없다-493005",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Trump Umumkan Gencatan Senjata Rusia-Ukraina 3 Hari dan Pertukaran 1.000 Tawanan per Pihak",
         "excerpt": "Presiden AS Donald Trump pada tanggal 8 menyatakan Rusia dan Ukraina akan gencatan senjata pada 9-11 Mei serta bertukar 1.000 tawanan masing-masing.",
         "body": "Presiden Amerika Serikat Donald Trump pada tanggal 8 waktu setempat menyatakan Rusia dan Ukraina akan menjalani gencatan senjata selama tiga hari, dari 9 hingga 11 Mei. Trump menjelaskan bahwa gencatan senjata ini terjadi setelah Presiden Rusia Vladimir Putin dan Presiden Ukraina Volodymyr Zelensky menyetujui usulannya. Pengumuman itu juga mencakup pertukaran 1.000 tawanan oleh masing-masing pihak. Langkah ini menjadi perhatian karena merupakan peredaan ketegangan sementara antara negara yang berperang sekaligus pertukaran kemanusiaan. Namun, masa gencatan senjata dibatasi tiga hari, sehingga perkembangan berikutnya bergantung pada pengumuman tambahan dan pelaksanaan oleh kedua pihak. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "445a4d0cc613",
-    "slug": "삼바는-강대강-대치-사측-법원결정-어긴-노조-집행부-고소-393627",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T18:18:16.115Z",
-    "updatedAt": "2026-05-08T18:18:16.115Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12041378",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12041378",
-    "titleFingerprint": "fce838db558579cee186e105545b3df9b8d94406",
-    "dedupKeys": [
-      "445a4d0cc6132091f40451e20afd6ee00d1b1ead",
-      "fce838db558579cee186e105545b3df9b8d94406",
-      "096ce060de430a7a7630361d59e81affdff5cd3e"
-    ],
-    "imageUrl": "/images/articles/445a4d0cc613.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성바이오로직스 노사 갈등 격화, 사측 노조 집행부 고소",
-        "excerpt": "삼성바이오로직스가 8일 법원 결정을 어겼다는 이유로 노조 지부장을 고소하면서 노사 갈등이 강대강 대치로 번지고 장기화 가능성이 커지고 있다.",
-        "body": "삼성바이오로직스 노사 갈등이 격화되고 있다. 8일 업계에 따르면 삼성바이오로직스는 이날 박재성 초기업 노동조합 삼성바이오로직스 상생지부 지부장을 법원 결정을 어겼다는 이유로 고소했다. 이번 조치는 노사 간 대치가 강대강 양상으로 흐르고 있음을 보여준다. 원문은 삼성바이오로직스와 노조 사이의 갈등이 커지면서 사태가 장기화할 가능성이 커지고 있다고 전했다. 법원 결정 위반 여부를 둘러싼 사측의 고소가 더해지며 향후 노사 관계와 협의 흐름에도 부담이 커질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Biologics Labor Conflict Escalates as Company Files Complaint",
-        "excerpt": "Samsung Biologics filed a complaint on the 8th against a union branch chief, citing an alleged violation of a court decision, raising concerns that the labor dispute may drag on.",
-        "body": "The labor dispute at Samsung Biologics is intensifying. According to industry sources on the 8th, Samsung Biologics filed a complaint that day against Park Jae-sung, head of the Samsung Biologics Win-Win Branch of a supra-enterprise labor union, alleging that he violated a court decision. The move shows the confrontation between management and labor taking a harder line. The original report said the conflict between Samsung Biologics and the union is growing, increasing the possibility that the situation could be prolonged. With the company’s complaint over the alleged breach of a court decision now added to the dispute, pressure on future labor-management relations and talks is expected to rise. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスンバイオロジクス労使対立激化、会社側が労組幹部を告訴",
-        "excerpt": "サムスンバイオロジクスは8日、裁判所の決定に違反したとして労組支部長を告訴し、労使対立が強硬な対峙へ広がり長期化する可能性が高まっている。",
-        "body": "サムスンバイオロジクスの労使対立が激化している。業界関係者によると、サムスンバイオロジクスは8日、超企業労働組合サムスンバイオロジクス共生支部の朴在成支部長を、裁判所の決定に違反したとして告訴した。今回の措置は、労使間の対立が強硬な対峙の様相を強めていることを示している。原文は、サムスンバイオロジクスと労組の間の葛藤が拡大し、事態が長期化する可能性が高まっていると伝えた。裁判所決定違反の有無をめぐる会社側の告訴が加わり、今後の労使関係や協議の流れにも負担が増す見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星生物劳资矛盾升级，公司起诉工会执行层负责人",
-        "excerpt": "三星生物制剂8日以违反法院决定为由起诉工会支部负责人，劳资冲突呈现强硬对峙态势，事态长期化的可能性正在上升。",
-        "body": "三星生物制剂劳资矛盾正在加剧。据业内8日消息，三星生物制剂当天以违反法院决定为由，起诉超企业工会三星生物制剂共生支部支部长朴宰成。此举显示，劳资双方的对立正朝着强硬对峙的方向发展。原文称，随着三星生物制剂与工会之间的矛盾扩大，事态长期化的可能性正在增加。围绕是否违反法院决定，公司方面提起诉讼，使今后的劳资关系和协商进程面临更大压力。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Escala el conflicto laboral en Samsung Biologics tras denuncia a dirigente sindical",
-        "excerpt": "Samsung Biologics denunció el día 8 a un jefe sindical por presuntamente incumplir una decisión judicial, elevando el pulso laboral y el riesgo de que el conflicto se prolongue.",
-        "body": "El conflicto laboral en Samsung Biologics se está intensificando. Según fuentes del sector citadas el día 8, Samsung Biologics presentó ese mismo día una denuncia contra Park Jae-sung, jefe de la rama Samsung Biologics Win-Win de un sindicato supraempresarial, alegando que incumplió una decisión judicial. La medida muestra que el enfrentamiento entre la empresa y el sindicato está adoptando un tono más duro. El texto original señaló que el conflicto entre Samsung Biologics y el sindicato está creciendo, lo que aumenta la posibilidad de que la situación se prolongue. Con la denuncia de la empresa por la supuesta violación de una decisión judicial, se prevé más presión sobre las relaciones laborales y las futuras conversaciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Conflito trabalhista na Samsung Biologics cresce após denúncia contra sindicato",
-        "excerpt": "A Samsung Biologics denunciou no dia 8 um líder sindical por supostamente descumprir decisão judicial, ampliando o confronto trabalhista e o risco de prolongamento.",
-        "body": "O conflito trabalhista na Samsung Biologics está se intensificando. Segundo fontes do setor no dia 8, a Samsung Biologics apresentou naquele dia uma denúncia contra Park Jae-sung, chefe da filial Samsung Biologics Win-Win de um sindicato supraempresarial, alegando descumprimento de uma decisão judicial. A medida mostra que o confronto entre empresa e sindicato assume um tom mais duro. O texto original informou que o conflito entre a Samsung Biologics e o sindicato está crescendo, aumentando a possibilidade de prolongamento da situação. Com a denúncia da empresa sobre a suposta violação de uma decisão judicial, as relações trabalhistas e o rumo das negociações devem enfrentar maior pressão. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Biologics: Arbeitskonflikt eskaliert nach Anzeige gegen Gewerkschaft",
-        "excerpt": "Samsung Biologics erstattete am 8. Anzeige gegen einen Gewerkschaftsleiter wegen angeblicher Missachtung einer Gerichtsentscheidung, wodurch der Konflikt länger dauern könnte.",
-        "body": "Der Arbeitskonflikt bei Samsung Biologics verschärft sich. Branchenangaben vom 8. zufolge erstattete Samsung Biologics an diesem Tag Anzeige gegen Park Jae-sung, Leiter der Samsung-Biologics-Win-Win-Zweigstelle einer überbetrieblichen Gewerkschaft, weil er eine Gerichtsentscheidung missachtet haben soll. Der Schritt zeigt, dass die Auseinandersetzung zwischen Management und Gewerkschaft härter wird. Der Originalbericht meldete, dass der Konflikt zwischen Samsung Biologics und der Gewerkschaft wächst und damit die Möglichkeit zunimmt, dass sich die Lage länger hinzieht. Durch die Anzeige des Unternehmens wegen des mutmaßlichen Verstoßes gegen eine Gerichtsentscheidung dürfte der Druck auf künftige Arbeitsbeziehungen und Gespräche steigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Biologics: conflit social durci après plainte contre un syndicaliste",
-        "excerpt": "Samsung Biologics a déposé le 8 une plainte contre un responsable syndical pour violation présumée d’une décision de justice, accentuant le risque d’un conflit prolongé.",
-        "body": "Le conflit social chez Samsung Biologics s’intensifie. Selon des sources du secteur le 8, Samsung Biologics a déposé ce jour-là une plainte contre Park Jae-sung, responsable de la branche Samsung Biologics Win-Win d’un syndicat supra-entreprise, l’accusant d’avoir violé une décision de justice. Cette mesure montre que l’affrontement entre la direction et le syndicat prend une tournure plus dure. Le texte original indique que le conflit entre Samsung Biologics et le syndicat s’aggrave, ce qui accroît la possibilité d’une situation prolongée. Avec la plainte de l’entreprise liée à la violation présumée d’une décision judiciaire, les relations sociales et les futures discussions devraient subir davantage de pression. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تصاعد نزاع العمل في سامسونغ بايولوجيكس بعد شكوى ضد قيادي نقابي",
-        "excerpt": "قدمت سامسونغ بايولوجيكس في 8 الشهر شكوى ضد رئيس فرع نقابي بدعوى مخالفة قرار قضائي، ما يزيد حدة المواجهة واحتمال إطالة النزاع العمالي.",
-        "body": "يتصاعد النزاع العمالي في سامسونغ بايولوجيكس. ووفق ما ذكرته مصادر في القطاع في 8 الشهر، قدمت سامسونغ بايولوجيكس في ذلك اليوم شكوى ضد بارك جاي-سونغ، رئيس فرع سامسونغ بايولوجيكس للتعايش التابع لنقابة عمالية فوق مؤسسية، بدعوى مخالفته قرارا قضائيا. وتظهر هذه الخطوة أن المواجهة بين الإدارة والنقابة تتجه إلى موقف أكثر تشددا. وذكر النص الأصلي أن الخلاف بين سامسونغ بايولوجيكس والنقابة يتسع، ما يزيد احتمال استمرار الأزمة لفترة أطول. ومع إضافة شكوى الشركة بشأن المخالفة المزعومة لقرار المحكمة، يتوقع أن يزداد الضغط على علاقات العمل ومسار المحادثات المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Biologics श्रम विवाद बढ़ा, कंपनी ने यूनियन नेता पर शिकायत की",
-        "excerpt": "Samsung Biologics ने 8 तारीख को अदालत के फैसले के कथित उल्लंघन पर यूनियन शाखा प्रमुख के खिलाफ शिकायत दर्ज की, जिससे विवाद लंबा खिंचने की आशंका बढ़ी।",
-        "body": "Samsung Biologics में श्रम विवाद तेज हो रहा है। उद्योग सूत्रों के अनुसार, 8 तारीख को Samsung Biologics ने Park Jae-sung के खिलाफ शिकायत दर्ज की, जो एक supra-enterprise labor union की Samsung Biologics Win-Win शाखा के प्रमुख हैं। कंपनी का आरोप है कि उन्होंने अदालत के फैसले का उल्लंघन किया। यह कदम दिखाता है कि प्रबंधन और यूनियन के बीच टकराव अधिक कठोर रुख ले रहा है। मूल रिपोर्ट में कहा गया कि Samsung Biologics और यूनियन के बीच विवाद बढ़ रहा है, जिससे स्थिति के लंबे समय तक चलने की संभावना बढ़ गई है। अदालत के फैसले के कथित उल्लंघन पर कंपनी की शिकायत जुड़ने से आगे के श्रम संबंधों और बातचीत पर दबाव बढ़ने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Konflik Buruh Samsung Biologics Memanas Usai Aduan terhadap Pengurus Serikat",
-        "excerpt": "Samsung Biologics pada tanggal 8 mengadukan seorang ketua cabang serikat atas dugaan melanggar putusan pengadilan, membuat konflik buruh berisiko berlarut.",
-        "body": "Konflik buruh di Samsung Biologics semakin memanas. Menurut sumber industri pada tanggal 8, Samsung Biologics pada hari itu mengajukan aduan terhadap Park Jae-sung, ketua Cabang Win-Win Samsung Biologics dari serikat buruh supra-perusahaan, dengan alasan ia melanggar putusan pengadilan. Langkah ini menunjukkan bahwa pertentangan antara manajemen dan serikat buruh bergerak ke arah konfrontasi yang lebih keras. Teks asli menyebut konflik antara Samsung Biologics dan serikat semakin membesar, sehingga kemungkinan situasi berlangsung lama ikut meningkat. Dengan aduan perusahaan terkait dugaan pelanggaran putusan pengadilan, hubungan buruh-manajemen dan jalannya pembicaraan ke depan diperkirakan menghadapi tekanan lebih besar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "66f3c84493b3",
-    "slug": "홈플러스-전국-대형점포-37곳-영업-중단-466755",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T18:17:17.428Z",
-    "updatedAt": "2026-05-08T18:17:17.428Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12041384",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12041384",
-    "titleFingerprint": "61a94e32d144e4c3fbde1db53eb94e70761180e4",
-    "dedupKeys": [
-      "66f3c84493b39d28bf8de768cdf213a6ffee1763",
-      "61a94e32d144e4c3fbde1db53eb94e70761180e4",
-      "44ceb815aa6b5d43a6d72886b0539bcfb97f2950"
-    ],
-    "imageUrl": "/images/articles/66f3c84493b3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "홈플러스 37개 대형마트 영업 중단, 104개 점포 중 핵심 매장 집중 운영 나선다",
-        "excerpt": "홈플러스가 기업회생 정상화에 속도를 내기 위해 오는 10일부터 7월 3일까지 전국 대형마트 104곳 중 37곳의 영업을 잠정 중단하고 67곳 중심 운영에 들어간다.",
-        "body": "홈플러스가 오는 10일부터 7월 3일까지 전국 대형마트 104개 매장 중 37곳의 영업을 잠정 중단한다. 대형마트와 온라인, 본사 조직을 포함한 잔존 사업 부문 구조조정의 일환으로, 기업회생 정상화에 속도를 내기 위한 조치다. 회사는 기여도가 낮은 매장 운영을 멈추고 나머지 67개 매장을 중심으로 집중 운영할 계획이다. 상당수 매장에서 상품 부족으로 고객 이탈이 발생했고 매출도 1년 전보다 50% 넘게 줄었다는 점이 배경이다. 영업 중단 점포 직원에게는 평균 임금의 70%에 해당하는 휴업수당이 지급되며, 근무 희망자는 영업을 지속하는 다른 매장으로 전환 배치된다. 영업 중단은 대형마트 부문에 국한되고 입점 사업자는 계속 영업할 수 있다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Homeplus to Suspend Operations at 37 Hypermarkets, Focus on 67 Core Stores",
-        "excerpt": "Homeplus will temporarily suspend 37 of its 104 hypermarkets nationwide from May 10 to July 3 as part of restructuring aimed at accelerating its corporate rehabilitation process.",
-        "body": "Homeplus will temporarily suspend operations at 37 of its 104 hypermarket stores nationwide from May 10 to July 3. The move is part of restructuring across the remaining business units, including hypermarkets, online operations and headquarters, as the company seeks to speed up normalization under corporate rehabilitation. Homeplus plans to halt lower-contribution stores and concentrate operations around the remaining 67 locations. The decision follows product shortages at many stores, customer outflow and sales that have fallen by more than 50% from a year earlier. Employees at the suspended stores will receive leave allowances equal to 70% of average wages, while those wishing to work may be reassigned to stores that remain open. The suspension is limited to the hypermarket business, and tenants inside affected stores may continue operating. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "ホームプラス、大型店37店を一時休業へ 104店中67店に運営を集中",
-        "excerpt": "ホームプラスは企業再生の正常化を急ぐため、5月10日から7月3日まで全国の大型マート104店のうち37店を一時休業し、67店中心の運営に移る。",
-        "body": "ホームプラスは5月10日から7月3日まで、全国の大型マート104店のうち37店の営業を一時中断する。大型マート、オンライン、本社組織を含む残存事業部門の構造調整の一環で、企業再生手続きの正常化を急ぐための措置だ。同社は貢献度の低い店舗の運営を止め、残る67店を中心に集中運営する計画だ。多くの店舗で商品不足により顧客離れが起き、売上も前年より50%以上減少したことが背景にある。営業を中断する店舗の従業員には平均賃金の70%に当たる休業手当を支給し、勤務を希望する従業員は営業を続ける他店舗へ配置転換する。営業中断は大型マート部門に限られ、入店事業者は営業を続けられる。出典: mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "Homeplus暂停37家大型卖场营业，将集中运营104家中的67家核心门店",
-        "excerpt": "Homeplus为加快企业重整正常化，将从5月10日至7月3日暂停全国104家大型卖场中37家的营业，并转向以67家门店为中心运营。",
-        "body": "Homeplus将于5月10日至7月3日暂时停止全国104家大型卖场中37家门店的营业。此举是包括大型卖场、线上业务和总部组织在内的剩余业务重组的一部分，目的是加快企业重整正常化。公司计划停止贡献度较低门店的运营，并集中运营其余67家门店。背景是多家门店因商品短缺出现顾客流失，销售额也较一年前下降超过50%。暂停营业门店的员工将获得相当于平均工资70%的停工津贴，愿意继续工作的员工可调配至仍在营业的其他门店。此次暂停营业仅限大型卖场部门，门店内入驻商户可继续经营。来源：引自mk.co.kr。"
-      },
-      "es": {
-        "title": "Homeplus suspenderá 37 hipermercados y concentrará operaciones en 67 tiendas",
-        "excerpt": "Homeplus suspenderá temporalmente 37 de sus 104 hipermercados del 10 de mayo al 3 de julio como parte de una reestructuración para acelerar su rehabilitación empresarial.",
-        "body": "Homeplus suspenderá temporalmente las operaciones de 37 de sus 104 hipermercados en todo el país entre el 10 de mayo y el 3 de julio. La medida forma parte de la reestructuración de las unidades restantes, incluidos hipermercados, operaciones en línea y la sede central, para acelerar la normalización bajo el proceso de rehabilitación empresarial. La compañía dejará de operar tiendas de menor contribución y concentrará la gestión en las 67 restantes. La decisión se produce después de que la escasez de productos en muchas tiendas provocara pérdida de clientes y una caída de ventas superior al 50% frente al año anterior. Los empleados de las tiendas suspendidas recibirán una compensación equivalente al 70% del salario promedio, y quienes deseen trabajar podrán ser reasignados a otras tiendas abiertas. La suspensión se limita al área de hipermercados y los arrendatarios internos podrán seguir operando. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Homeplus suspenderá 37 hipermercados e focará operação em 67 lojas principais",
-        "excerpt": "A Homeplus suspenderá temporariamente 37 de seus 104 hipermercados entre 10 de maio e 3 de julho, em uma reestruturação para acelerar sua recuperação empresarial.",
-        "body": "A Homeplus suspenderá temporariamente as operações de 37 de seus 104 hipermercados em todo o país de 10 de maio a 3 de julho. A medida integra a reestruturação das áreas remanescentes, incluindo hipermercados, operação online e sede, para acelerar a normalização no processo de recuperação empresarial. A empresa pretende parar lojas de menor contribuição e concentrar a operação nas 67 unidades restantes. A decisão ocorre após falta de produtos em muitas lojas, perda de clientes e queda de vendas superior a 50% em relação ao ano anterior. Funcionários das lojas suspensas receberão auxílio de afastamento equivalente a 70% do salário médio, e quem quiser trabalhar poderá ser transferido para outras lojas que seguem abertas. A suspensão se limita ao setor de hipermercados, e lojistas instalados nas unidades poderão continuar funcionando. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Homeplus stoppt Betrieb in 37 Großmärkten und bündelt ihn auf 67 Kernfilialen",
-        "excerpt": "Homeplus setzt vom 10. Mai bis 3. Juli den Betrieb in 37 von landesweit 104 Großmärkten vorübergehend aus, um die Restrukturierung im Rehabilitationsverfahren zu beschleunigen.",
-        "body": "Homeplus wird vom 10. Mai bis zum 3. Juli den Betrieb in 37 von landesweit 104 Großmärkten vorübergehend aussetzen. Der Schritt ist Teil der Restrukturierung der verbleibenden Geschäftsbereiche, darunter Großmärkte, Onlinegeschäft und Zentrale, und soll die Normalisierung im Unternehmensrehabilitationsverfahren beschleunigen. Das Unternehmen will Filialen mit geringerem Beitrag schließen und den Betrieb auf die übrigen 67 Standorte konzentrieren. Hintergrund sind Warenengpässe in vielen Märkten, dadurch ausgelöste Kundenabwanderung und ein Umsatzrückgang von mehr als 50% gegenüber dem Vorjahr. Beschäftigte der betroffenen Filialen erhalten eine Ausfallvergütung in Höhe von 70% des Durchschnittslohns; wer weiterarbeiten möchte, kann in geöffnete Märkte versetzt werden. Die Aussetzung betrifft nur den Großmarktbereich, eingemietete Betreiber können weiter öffnen. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Homeplus suspendra 37 hypermarchés et concentrera l’activité sur 67 magasins",
-        "excerpt": "Homeplus suspendra temporairement 37 de ses 104 hypermarchés du 10 mai au 3 juillet dans le cadre d’une restructuration destinée à accélérer sa procédure de redressement.",
-        "body": "Homeplus suspendra temporairement l’activité de 37 de ses 104 hypermarchés dans le pays du 10 mai au 3 juillet. Cette décision s’inscrit dans la restructuration des activités restantes, dont les hypermarchés, l’activité en ligne et le siège, afin d’accélérer la normalisation dans le cadre de la procédure de redressement de l’entreprise. Le groupe prévoit d’arrêter les magasins à faible contribution et de concentrer l’exploitation sur les 67 autres sites. Cette mesure intervient après des pénuries de produits dans de nombreux magasins, une perte de clients et une baisse des ventes de plus de 50% sur un an. Les salariés des magasins suspendus recevront une indemnité équivalente à 70% du salaire moyen, tandis que ceux qui souhaitent travailler pourront être réaffectés à d’autres magasins ouverts. La suspension se limite aux hypermarchés et les commerçants installés dans les sites concernés pourront continuer leur activité. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "هوم بلس تعلق تشغيل 37 متجرا كبيرا وتركز عملياتها على 67 فرعا رئيسيا",
-        "excerpt": "تعتزم هوم بلس تعليق تشغيل 37 من أصل 104 متاجر كبيرة في أنحاء كوريا مؤقتا من 10 مايو إلى 3 يوليو ضمن إعادة هيكلة لتسريع تطبيع مسار إنعاشها المؤسسي.",
-        "body": "ستعلق هوم بلس تشغيل 37 من أصل 104 متاجر كبيرة في أنحاء البلاد مؤقتا خلال الفترة من 10 مايو إلى 3 يوليو. وتأتي الخطوة ضمن إعادة هيكلة قطاعات الأعمال المتبقية، بما في ذلك المتاجر الكبيرة والعمليات الإلكترونية والمقر الرئيسي، بهدف تسريع تطبيع إجراءات إنعاش الشركة. وتخطط الشركة لإيقاف المتاجر الأقل مساهمة والتركيز على تشغيل المتاجر الـ67 المتبقية. ويأتي القرار بعد نقص السلع في عدد كبير من المتاجر، ما أدى إلى خروج عملاء وتراجع المبيعات بأكثر من 50% مقارنة بالعام السابق. وسيحصل موظفو المتاجر التي يتوقف تشغيلها على بدل توقف يعادل 70% من متوسط الأجر، ويمكن نقل الراغبين في العمل إلى متاجر أخرى تواصل نشاطها. ويقتصر التعليق على قطاع المتاجر الكبيرة، بينما يمكن للمستأجرين داخل تلك المواقع مواصلة العمل. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "Homeplus 37 हाइपरमार्केट बंद करेगा, 104 में से 67 प्रमुख स्टोर पर संचालन केंद्रित",
-        "excerpt": "Homeplus कॉरपोरेट पुनर्वास को तेज करने के लिए 10 मई से 3 जुलाई तक देशभर के 104 हाइपरमार्केट में से 37 का संचालन अस्थायी रूप से रोकेगा।",
-        "body": "Homeplus 10 मई से 3 जुलाई तक देशभर में अपने 104 हाइपरमार्केट स्टोर में से 37 का संचालन अस्थायी रूप से बंद करेगा। यह कदम हाइपरमार्केट, ऑनलाइन कारोबार और मुख्यालय संगठन सहित बचे हुए कारोबारी हिस्सों की पुनर्गठन प्रक्रिया का भाग है, जिसका उद्देश्य कॉरपोरेट पुनर्वास की सामान्यीकरण गति बढ़ाना है। कंपनी कम योगदान वाले स्टोर रोककर बाकी 67 स्टोर पर संचालन केंद्रित करेगी। कई स्टोर में उत्पादों की कमी से ग्राहक घटे और बिक्री एक साल पहले की तुलना में 50% से अधिक कम हुई, यही इसका कारण बताया गया। जिन स्टोर का संचालन रुकेगा, उनके कर्मचारियों को औसत वेतन के 70% के बराबर अवकाश भत्ता मिलेगा, और काम जारी रखना चाहने वालों को चालू स्टोर में स्थानांतरित किया जा सकेगा। यह रोक केवल हाइपरमार्केट खंड तक सीमित है, और प्रभावित स्टोरों में मौजूद किरायेदार कारोबारी अपना संचालन जारी रख सकेंगे। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Homeplus Hentikan 37 Hipermarket, Operasi Difokuskan ke 67 Toko Utama",
-        "excerpt": "Homeplus akan menghentikan sementara 37 dari 104 hipermarket nasional pada 10 Mei hingga 3 Juli sebagai bagian restrukturisasi untuk mempercepat normalisasi rehabilitasi perusahaan.",
-        "body": "Homeplus akan menghentikan sementara operasi 37 dari 104 gerai hipermarket di seluruh negeri mulai 10 Mei hingga 3 Juli. Langkah ini merupakan bagian dari restrukturisasi unit bisnis tersisa, termasuk hipermarket, operasional online, dan organisasi kantor pusat, untuk mempercepat normalisasi dalam proses rehabilitasi perusahaan. Perusahaan akan menghentikan gerai dengan kontribusi rendah dan memusatkan operasi pada 67 gerai lainnya. Keputusan ini dilatarbelakangi kekurangan produk di banyak gerai, perpindahan pelanggan, serta penurunan penjualan lebih dari 50% dibanding setahun sebelumnya. Karyawan di gerai yang dihentikan akan menerima tunjangan cuti sebesar 70% dari upah rata-rata, sementara yang ingin tetap bekerja dapat dipindahkan ke gerai lain yang masih beroperasi. Penghentian hanya berlaku untuk divisi hipermarket, dan penyewa di dalam gerai terdampak tetap dapat beroperasi. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "b22d0490d447",
-    "slug": "이란-자극-자제했나트럼프-연설서-이란-한번도-언급-안해-104054",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-08T18:15:56.734Z",
-    "updatedAt": "2026-05-08T18:15:56.734Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042115",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042115",
-    "titleFingerprint": "3da40028dcbe062590955770171f8e2e9e6a5b5c",
-    "dedupKeys": [
-      "b22d0490d4476852100d66d2e7b71c2b9a7d0a9d",
-      "3da40028dcbe062590955770171f8e2e9e6a5b5c",
-      "ed513dcbab9288d65fa4e02828552d647d4ed50f"
-    ],
-    "imageUrl": "/images/articles/b22d0490d447.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프 연설서 ‘이란’ 언급 빠져…민생경제 집중한 배경 주목",
-        "excerpt": "도널드 트럼프 미국 대통령이 8일 로즈가든 연설에서 이란을 한 차례도 언급하지 않고 민생경제에 집중해, 이란 답변을 앞둔 의도적 자제 여부가 주목된다.",
-        "body": "도널드 트럼프 미국 대통령은 8일 로즈가든 연설에서 관심을 모았던 이란 문제를 한 차례도 언급하지 않았다. 연설은 민생경제에 초점을 맞췄고, 이란전쟁 관련 언급은 의도적으로 피한 것으로 보인다. 미국 측은 이란의 답변이 8일 도착할 것으로 기대하고 있다. 마코 루비오 국무장관은 이란이 “진지한 제안”을 내놓길 희망한다고 밝혔다. 이번 연설에서 이란 언급이 빠지면서 향후 이란의 답변 내용과 미국의 후속 대응이 외교적 관심사로 떠올랐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trump Avoids Mentioning Iran in Rose Garden Speech, Focuses on Economy",
-        "excerpt": "U.S. President Donald Trump did not mention Iran during his May 8 Rose Garden speech, focusing instead on the cost-of-living economy as Washington awaited Iran’s reply.",
-        "body": "U.S. President Donald Trump did not mention Iran once in his May 8 Rose Garden speech, despite close attention on the issue. The address focused on the cost-of-living economy, and references to a possible Iran war appear to have been deliberately avoided. U.S. officials expected Iran’s response to arrive on May 8. Secretary of State Marco Rubio said he hoped Iran would put forward a “serious proposal.” With Iran absent from the speech, attention now turns to the content of Tehran’s reply and Washington’s next response. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トランプ氏、演説で「イラン」に触れず…民生経済重視に注目",
-        "excerpt": "ドナルド・トランプ米大統領は8日のローズガーデン演説でイランに一度も言及せず、民生経済に集中し、回答を待つ中で意図的な抑制か注目されている。",
-        "body": "ドナルド・トランプ米大統領は8日のローズガーデン演説で、関心を集めていたイラン問題に一度も言及しなかった。演説は民生経済に焦点を当て、イラン戦争に関する発言は意図的に避けたものとみられる。米国側はイランの回答が8日に届くと期待している。マルコ・ルビオ国務長官は、イランが「真剣な提案」を示すことを望むと述べた。今回の演説でイランへの言及がなかったことで、今後はイランの回答内容と米国の対応が外交上の焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特朗普演讲未提“伊朗” 聚焦民生经济引关注",
-        "excerpt": "美国总统特朗普8日在玫瑰园演讲中一次也未提及伊朗，而是聚焦民生经济；在等待伊朗答复之际，此举是否有意克制受到关注。",
-        "body": "美国总统唐纳德·特朗普8日在玫瑰园发表演讲时，没有一次提到备受关注的伊朗问题。演讲重点放在民生经济上，似乎有意避免谈及伊朗战争相关内容。美国方面期待伊朗的答复将在8日送达。国务卿马尔科·鲁比奥表示，希望伊朗提出“严肃的提议”。由于此次演讲中没有出现伊朗相关表述，接下来伊朗答复的内容以及美国的后续应对将成为外交关注焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Trump evita mencionar a Irán en su discurso y centra el foco en la economía",
-        "excerpt": "Donald Trump no mencionó a Irán en su discurso del 8 de mayo en el Rose Garden y se concentró en la economía doméstica mientras Washington esperaba la respuesta iraní.",
-        "body": "El presidente de Estados Unidos, Donald Trump, no mencionó ni una sola vez a Irán en su discurso del 8 de mayo en el Rose Garden, pese a la atención que generaba el asunto. La intervención se centró en la economía doméstica, y las referencias a una posible guerra con Irán parecen haber sido evitadas de forma deliberada. Washington esperaba que la respuesta de Irán llegara el mismo 8 de mayo. El secretario de Estado, Marco Rubio, dijo que esperaba que Irán presentara una “propuesta seria”. La ausencia de Irán en el discurso sitúa ahora el foco en la respuesta iraní y en los próximos pasos de Estados Unidos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Trump evita citar Irã em discurso e concentra mensagem na economia doméstica",
-        "excerpt": "Donald Trump não mencionou o Irã no discurso de 8 de maio no Rose Garden e focou a economia doméstica enquanto os EUA aguardavam a resposta iraniana.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, não mencionou o Irã nenhuma vez em seu discurso de 8 de maio no Rose Garden, apesar da atenção em torno do tema. A fala se concentrou na economia doméstica, e referências a uma possível guerra com o Irã parecem ter sido evitadas de forma deliberada. O governo americano esperava receber a resposta do Irã em 8 de maio. O secretário de Estado, Marco Rubio, afirmou esperar que Teerã apresente uma “proposta séria”. Com a ausência do Irã no discurso, o foco diplomático passa ao conteúdo da resposta iraniana e à reação dos EUA. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Trump erwähnt Iran in Rede nicht und stellt Wirtschaft der Bürger in den Fokus",
-        "excerpt": "US-Präsident Donald Trump erwähnte Iran in seiner Rede am 8. Mai im Rosengarten kein einziges Mal und konzentrierte sich auf die Alltagswirtschaft, während Washington Irans Antwort erwartete.",
-        "body": "US-Präsident Donald Trump erwähnte Iran in seiner Rede am 8. Mai im Rosengarten kein einziges Mal, obwohl das Thema große Aufmerksamkeit auf sich zog. Die Ansprache konzentrierte sich auf die Wirtschaft und die Lebenshaltung der Bürger; Hinweise auf einen Iran-Krieg wurden offenbar bewusst vermieden. Die US-Seite erwartete, dass Irans Antwort am 8. Mai eintreffen werde. Außenminister Marco Rubio sagte, er hoffe, Iran werde einen „ernsthaften Vorschlag“ vorlegen. Da Iran in der Rede ausgespart blieb, richtet sich der diplomatische Blick nun auf Teherans Antwort und die nächsten Schritte Washingtons. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Trump ne cite pas l’Iran dans son discours et privilégie l’économie du quotidien",
-        "excerpt": "Donald Trump n’a pas mentionné l’Iran dans son discours du 8 mai au Rose Garden, préférant l’économie du quotidien alors que Washington attendait la réponse iranienne.",
-        "body": "Le président américain Donald Trump n’a pas mentionné l’Iran une seule fois dans son discours du 8 mai au Rose Garden, malgré l’attention portée à ce dossier. Son intervention s’est concentrée sur l’économie du quotidien, et les références à une guerre avec l’Iran semblent avoir été volontairement évitées. Les États-Unis s’attendaient à recevoir la réponse de l’Iran le 8 mai. Le secrétaire d’État Marco Rubio a dit espérer que Téhéran présenterait une « proposition sérieuse ». L’absence de l’Iran dans le discours place désormais le contenu de la réponse iranienne et la réaction américaine au centre de l’attention diplomatique. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ترامب يتجنب ذكر إيران في خطابه ويركز على الاقتصاد المعيشي",
-        "excerpt": "لم يذكر الرئيس الأميركي دونالد ترامب إيران في خطاب حديقة الورود يوم 8 مايو، وركز على الاقتصاد المعيشي بينما كانت واشنطن تنتظر رد طهران.",
-        "body": "لم يذكر الرئيس الأميركي دونالد ترامب إيران ولو مرة واحدة في خطابه يوم 8 مايو في حديقة الورود، رغم الاهتمام الكبير بهذا الملف. وركز الخطاب على الاقتصاد المعيشي، ويبدو أن الإشارة إلى حرب مع إيران جرى تجنبها عمدا. وكانت الولايات المتحدة تتوقع وصول رد إيران في 8 مايو. وقال وزير الخارجية ماركو روبيو إنه يأمل أن تقدم إيران “اقتراحا جادا”. ومع غياب ذكر إيران عن الخطاب، يتجه الاهتمام الدبلوماسي الآن إلى مضمون رد طهران والخطوات الأميركية التالية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ट्रंप ने भाषण में ईरान का जिक्र नहीं किया, घरेलू अर्थव्यवस्था पर जोर",
-        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 8 मई को रोज गार्डन भाषण में ईरान का कोई उल्लेख नहीं किया और ईरान के जवाब की प्रतीक्षा के बीच घरेलू अर्थव्यवस्था पर ध्यान दिया।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 8 मई को रोज गार्डन में दिए भाषण में, जिस ईरान मुद्दे पर सबकी नजर थी, उसका एक बार भी उल्लेख नहीं किया। भाषण का केंद्र घरेलू अर्थव्यवस्था रहा और ऐसा प्रतीत हुआ कि ईरान युद्ध से जुड़ी बातों से जानबूझकर बचा गया। अमेरिकी पक्ष को उम्मीद थी कि ईरान का जवाब 8 मई को पहुंचेगा। विदेश मंत्री मार्को रुबियो ने कहा कि उन्हें उम्मीद है कि ईरान “गंभीर प्रस्ताव” रखेगा। भाषण में ईरान का उल्लेख न होने के बाद अब ध्यान ईरान के जवाब की सामग्री और अमेरिका की अगली प्रतिक्रिया पर है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Trump Tak Sebut Iran dalam Pidato, Fokus pada Ekonomi Warga",
-        "excerpt": "Presiden AS Donald Trump tidak menyebut Iran dalam pidato Rose Garden pada 8 Mei dan memilih fokus pada ekonomi warga saat Washington menunggu jawaban Teheran.",
-        "body": "Presiden Amerika Serikat Donald Trump tidak menyebut Iran satu kali pun dalam pidato Rose Garden pada 8 Mei, meski isu itu menjadi perhatian. Pidato tersebut berfokus pada ekonomi warga, dan pembahasan tentang perang Iran tampaknya sengaja dihindari. Pihak AS berharap jawaban Iran tiba pada 8 Mei. Menteri Luar Negeri Marco Rubio mengatakan ia berharap Iran mengajukan “proposal serius”. Dengan absennya penyebutan Iran dalam pidato itu, perhatian diplomatik kini tertuju pada isi jawaban Teheran dan respons lanjutan Washington. Sumber: mk.co.kr"
       }
     }
   }
