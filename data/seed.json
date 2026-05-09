@@ -1,5 +1,230 @@
 [
   {
+    "id": "690af12c582d",
+    "slug": "임차료-10-낮아졌지만-깊어진-롯데-고민-영등포점-지킬까-접을까-623898",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T23:53:46.537Z",
+    "updatedAt": "2026-05-09T23:53:46.537Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605105844i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605105844i",
+    "titleFingerprint": "23a8b1c2aebd94336f2a3fd21ea32c25e43c3912",
+    "dedupKeys": [
+      "690af12c582d38426f1efc7e9d9820259b63f1f8",
+      "23a8b1c2aebd94336f2a3fd21ea32c25e43c3912",
+      "3475109e68823c2fa4ad238d660ef665940af3c7"
+    ],
+    "imageUrl": "/images/articles/690af12c582d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "롯데백화점 영등포점 3차 입찰, 임차료 10% 인하에도 고민 깊어져",
+        "excerpt": "롯데백화점은 5월 7일 영등포역사 상업시설 3차 입찰에서 임차료가 10% 낮아졌지만 상권 경쟁력과 수익성을 이유로 참여 여부를 검토하고 있다.",
+        "body": "롯데백화점이 영등포점 운영을 두고 결정을 미루고 있다. 7일 관련 업계에 따르면 국가철도공단은 영등포역사 상업시설 사용허가 3차 입찰을 공고하며 임차료를 기존보다 약 10% 낮춘 258억3000만원으로 제시했다. 앞선 두 차례 입찰이 유찰되자 조건을 완화한 것이다. 영등포점은 1990년대 초 개점 이후 서남권 핵심 거점으로 한때 연 매출 5000억원 수준을 기록했다. 그러나 여의도 더현대와 신세계 타임스퀘어 등 체류형 상권이 커지며 기존 역세권 상업시설의 경쟁력은 약화됐다는 평가가 나온다. 롯데는 수익성 낮은 점포를 정리하고 핵심 점포 투자를 강화하는 전략 속에서 입찰 참여를 내부 검토 중이다. 사업제안서 제출 마감은 5월 28일 오후 6시다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Lotte Department Store Weighs Yeongdeungpo Bid Despite 10% Rent Cut",
+        "excerpt": "Lotte Department Store is reviewing whether to join the third Yeongdeungpo Station commercial facility bid after rent was cut by about 10%, with profitability and district appeal still in question.",
+        "body": "Lotte Department Store has yet to decide whether to keep operating its Yeongdeungpo branch. According to industry sources on May 7, the National Railroad Authority opened a third tender for the Yeongdeungpo Station commercial facility and proposed annual rent of 25.83 billion won, about 10% lower than before. The eased terms follow two failed bidding rounds. The branch, opened in the early 1990s, was once a key retail base in southwest Seoul and recorded annual sales near 500 billion won. But nearby destination-style shopping areas, including The Hyundai Seoul in Yeouido and Shinsegae Times Square, have shifted consumer traffic, weakening the competitiveness of a station-linked retail format. Lotte is reviewing the bid while pursuing a strategy of closing lower-profit stores and investing in core locations. Proposal submissions close at 6 p.m. on May 28. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ロッテ百貨店永登浦店、賃料10％下げでも3次入札参加に慎重",
+        "excerpt": "ロッテ百貨店は5月7日、永登浦駅商業施設の3次入札で賃料が約10％下がったものの、商圏競争力と収益性を理由に参加を検討している。",
+        "body": "ロッテ百貨店は永登浦店の運営継続をめぐり判断を保留している。業界関係者によると、国家鉄道公団は5月7日、永登浦駅商業施設の使用許可に関する3次入札を公告し、賃料を従来より約10％低い258億3000万ウォンに設定した。過去2回の入札が不調に終わったため条件を緩和した形だ。永登浦店は1990年代初めの開業後、ソウル西南圏の主要拠点として一時は年商5000億ウォン規模を記録した。しかし汝矣島のザ・ヒュンダイや新世界タイムズスクエアなど滞在型商圏が拡大し、駅直結型商業施設の競争力は相対的に弱まったとの見方がある。ロッテは低収益店を整理し中核店への投資を強める戦略の中で、入札参加を内部検討している。提案書の締め切りは5月28日午後6時。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "乐天百货永登浦店三次招标租金降10%，去留仍难定",
+        "excerpt": "乐天百货5月7日面对永登浦站商业设施第三次招标，租金虽下调约10%，但因商圈竞争力和盈利性仍在评估是否参与。",
+        "body": "乐天百货仍未决定是否继续运营永登浦店。据相关行业5月7日消息，韩国国家铁道公团发布永登浦站商业设施使用许可第三次招标公告，将租金降至258.3亿韩元，较此前约低10%。此前两次招标均流标，因此本次放宽了条件。永登浦店自20世纪90年代初开业以来，长期是首尔西南部的重要零售据点，年销售额一度达到约5000亿韩元。但近年汝矣岛The Hyundai Seoul、新世界Times Square等强调停留体验的商圈扩大，依赖车站客流的传统商业设施竞争力被认为有所下降。乐天正在推进整理低盈利门店、集中投资核心门店的战略，因此仍在内部评估是否投标。项目建议书提交截止时间为5月28日下午6点。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Lotte duda sobre Yeongdeungpo pese a rebaja del 10% en el alquiler",
+        "excerpt": "Lotte Department Store evalúa si participar en la tercera licitación del complejo comercial de la estación Yeongdeungpo tras una rebaja de renta del 10%, por dudas de rentabilidad.",
+        "body": "Lotte Department Store aún no decide si mantendrá la operación de su tienda Yeongdeungpo. Según fuentes del sector el 7 de mayo, la Autoridad Nacional de Ferrocarriles abrió una tercera licitación para el uso del complejo comercial de la estación Yeongdeungpo y fijó el alquiler en 25.830 millones de wones, cerca de un 10% menos que antes. La relajación de condiciones llega tras dos licitaciones fallidas. La tienda, abierta a comienzos de los años noventa, fue durante años un punto clave del consumo en el suroeste de Seúl y llegó a ventas anuales cercanas a 500.000 millones de wones. Sin embargo, el avance de zonas de compra de mayor permanencia, como The Hyundai Seoul en Yeouido y Shinsegae Times Square, ha reducido la competitividad del formato ligado al tránsito de la estación. Lotte revisa la oferta dentro de una estrategia de cerrar tiendas menos rentables e invertir en sedes principales. El plazo de propuestas vence el 28 de mayo a las 18:00. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Lotte avalia Yeongdeungpo mesmo com aluguel 10% menor na 3ª licitação",
+        "excerpt": "A Lotte Department Store analisa se participará da terceira licitação do complexo comercial da estação Yeongdeungpo após corte de cerca de 10% no aluguel, diante de dúvidas sobre rentabilidade.",
+        "body": "A Lotte Department Store ainda não decidiu se continuará operando sua loja Yeongdeungpo. Segundo fontes do setor em 7 de maio, a Autoridade Nacional Ferroviária abriu a terceira licitação para o uso do complexo comercial da estação Yeongdeungpo e propôs aluguel de 25,83 bilhões de won, cerca de 10% abaixo do valor anterior. A flexibilização veio após duas licitações sem vencedor. Aberta no início dos anos 1990, a loja foi por muito tempo um polo do consumo no sudoeste de Seul e chegou a registrar vendas anuais próximas de 500 bilhões de won. Mas a expansão de áreas de compras voltadas à permanência, como The Hyundai Seoul em Yeouido e Shinsegae Times Square, reduziu a força competitiva do modelo dependente do fluxo da estação. A Lotte avalia a participação enquanto reforça uma estratégia de encerrar lojas menos lucrativas e investir em unidades centrais. As propostas podem ser entregues até 28 de maio, às 18h. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Lotte prüft Yeongdeungpo trotz 10% niedrigerer Miete weiter kritisch",
+        "excerpt": "Lotte Department Store prüft nach der dritten Ausschreibung für die Gewerbeflächen am Bahnhof Yeongdeungpo weiter eine Teilnahme, obwohl die Miete um rund 10% gesenkt wurde.",
+        "body": "Lotte Department Store hat noch nicht entschieden, ob die Filiale Yeongdeungpo weiterbetrieben wird. Branchenangaben vom 7. Mai zufolge schrieb die Nationale Eisenbahnbehörde die Nutzung der Gewerbeflächen im Bahnhof Yeongdeungpo zum dritten Mal aus und setzte die Miete mit 25,83 Milliarden Won an, etwa 10% niedriger als zuvor. Die Konditionen wurden gelockert, nachdem zwei Ausschreibungen ohne Zuschlag geblieben waren. Die Filiale wurde Anfang der 1990er Jahre eröffnet, war lange ein wichtiger Einzelhandelsstandort im Südwesten Seouls und erzielte zeitweise Jahresumsätze von rund 500 Milliarden Won. Inzwischen haben jedoch Aufenthalts- und Erlebnisstandorte wie The Hyundai Seoul in Yeouido und Shinsegae Times Square die Konsumströme verändert, wodurch die Wettbewerbsfähigkeit eines bahnhofsgebundenen Formats nachgelassen hat. Lotte prüft die Teilnahme im Rahmen einer Strategie, weniger profitable Filialen zu schließen und Kernstandorte zu stärken. Die Frist für Vorschläge endet am 28. Mai um 18 Uhr. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Lotte hésite sur Yeongdeungpo malgré une baisse de loyer de 10%",
+        "excerpt": "Lotte Department Store examine sa participation au troisième appel d’offres du site commercial de la gare de Yeongdeungpo, malgré un loyer réduit d’environ 10%, en raison des enjeux de rentabilité.",
+        "body": "Lotte Department Store n’a pas encore tranché sur la poursuite de l’exploitation de son magasin de Yeongdeungpo. Selon des sources du secteur le 7 mai, l’Autorité nationale des chemins de fer a lancé un troisième appel d’offres pour les espaces commerciaux de la gare de Yeongdeungpo, avec un loyer fixé à 25,83 milliards de wons, soit environ 10% de moins qu’auparavant. Les conditions ont été assouplies après deux appels d’offres infructueux. Ouvert au début des années 1990, le magasin a longtemps été un pôle majeur du sud-ouest de Séoul et a déjà affiché près de 500 milliards de wons de ventes annuelles. Mais l’essor de zones commerciales axées sur l’expérience, comme The Hyundai Seoul à Yeouido et Shinsegae Times Square, a déplacé les flux de consommation et affaibli le modèle dépendant du passage en gare. Lotte étudie l’offre dans le cadre d’une stratégie de fermeture des magasins peu rentables et d’investissement dans les sites clés. Les propositions sont attendues jusqu’au 28 mai à 18 heures. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "لوتيه تدرس مصير فرع يونغدونغبو رغم خفض الإيجار 10%",
+        "excerpt": "تراجع لوتيه ديبارتمنت ستور قرار المشاركة في المناقصة الثالثة لمنشأة يونغدونغبو التجارية بعد خفض الإيجار بنحو 10%، وسط تساؤلات حول الربحية وقوة المنطقة التجارية.",
+        "body": "لم تحسم لوتيه ديبارتمنت ستور بعد ما إذا كانت ستواصل تشغيل فرع يونغدونغبو. ووفق مصادر في القطاع في 7 مايو، أعلنت هيئة السكك الحديدية الوطنية مناقصة ثالثة لاستخدام المنشأة التجارية في محطة يونغدونغبو، وحددت الإيجار عند 25.83 مليار وون، أي أقل بنحو 10% من السابق. وجاء تخفيف الشروط بعد فشل مناقصتين سابقتين. افتتح الفرع في أوائل التسعينيات وكان لفترة طويلة مركزا مهما للاستهلاك في جنوب غرب سيول، وسجل في وقت سابق مبيعات سنوية تقارب 500 مليار وون. لكن توسع مناطق تسوق تعتمد على البقاء والتجربة، مثل ذا هيونداي سول في يويدو وشينسيغيه تايمز سكوير، غيّر تدفقات المستهلكين وأضعف نسبيا نموذج المتاجر المعتمدة على حركة المحطة. تدرس لوتيه المشاركة ضمن استراتيجية إغلاق الفروع الأقل ربحية وتوجيه الاستثمار إلى المواقع الرئيسية. ينتهي تقديم المقترحات في 28 مايو الساعة 6 مساء. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "लोट्टे योंगदुंगपो पर उलझन में, किराया 10% घटा फिर भी फैसला अटका",
+        "excerpt": "लोट्टे डिपार्टमेंट स्टोर 7 मई को योंगदुंगपो स्टेशन वाणिज्यिक सुविधा की तीसरी बोली पर विचार कर रहा है, जहां किराया करीब 10% घटा है लेकिन लाभप्रदता अब भी सवाल है।",
+        "body": "लोट्टे डिपार्टमेंट स्टोर ने अभी यह तय नहीं किया है कि वह योंगदुंगपो शाखा का संचालन जारी रखेगा या नहीं। उद्योग सूत्रों के अनुसार 7 मई को राष्ट्रीय रेल प्राधिकरण ने योंगदुंगपो स्टेशन वाणिज्यिक सुविधा के उपयोग की तीसरी निविदा जारी की और किराया 25.83 अरब वॉन रखा, जो पहले से करीब 10% कम है। पिछली दो निविदाएं विफल रहने के बाद शर्तें नरम की गईं। 1990 के दशक की शुरुआत में खुली यह शाखा लंबे समय तक सियोल के दक्षिण-पश्चिम क्षेत्र का प्रमुख खुदरा केंद्र रही और कभी वार्षिक बिक्री लगभग 500 अरब वॉन तक पहुंची थी। लेकिन येओइदो के The Hyundai Seoul और Shinsegae Times Square जैसे ठहराव-आधारित शॉपिंग क्षेत्रों के बढ़ने से स्टेशन यातायात पर निर्भर पुराने मॉडल की प्रतिस्पर्धा कमजोर हुई है। लोट्टे कम लाभ वाली दुकानों को समेटने और मुख्य शाखाओं में निवेश बढ़ाने की रणनीति के बीच बोली पर आंतरिक समीक्षा कर रहा है। प्रस्ताव जमा करने की अंतिम समयसीमा 28 मई शाम 6 बजे है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Lotte Pertimbangkan Yeongdeungpo Meski Sewa Turun 10% di Tender Ketiga",
+        "excerpt": "Lotte Department Store masih mengkaji ikut tender ketiga fasilitas komersial Stasiun Yeongdeungpo setelah sewa turun sekitar 10%, karena daya saing kawasan dan profitabilitas tetap menjadi pertimbangan.",
+        "body": "Lotte Department Store belum memutuskan apakah akan terus mengoperasikan gerai Yeongdeungpo. Menurut sumber industri pada 7 Mei, Otoritas Kereta Api Nasional membuka tender ketiga untuk izin penggunaan fasilitas komersial Stasiun Yeongdeungpo dan menetapkan sewa 25,83 miliar won, sekitar 10% lebih rendah dari sebelumnya. Pelonggaran syarat dilakukan setelah dua tender sebelumnya gagal. Gerai yang dibuka pada awal 1990-an itu lama menjadi pusat konsumsi utama di barat daya Seoul dan pernah membukukan penjualan tahunan sekitar 500 miliar won. Namun, berkembangnya kawasan belanja berbasis pengalaman seperti The Hyundai Seoul di Yeouido dan Shinsegae Times Square telah mengubah arus konsumen, sehingga daya saing format yang bergantung pada lalu lintas stasiun melemah. Lotte meninjau tender ini sejalan dengan strategi menutup gerai berprofit rendah dan memperkuat investasi di lokasi inti. Batas pengajuan proposal adalah 28 Mei pukul 18.00. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "9fbf985e56dd",
+    "slug": "gdp가-반도체-호황-반영-못한다명목-gdp는-두자릿-수-성장할-듯-심성미의-매크로-백브리핑-859419",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T23:52:21.527Z",
+    "updatedAt": "2026-05-09T23:52:21.527Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605105994i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605105994i",
+    "titleFingerprint": "f9ba3ec7fd194d47b3582a01109cdbe1bbb55622",
+    "dedupKeys": [
+      "9fbf985e56dd9059443b2fbe894f105900456209",
+      "f9ba3ec7fd194d47b3582a01109cdbe1bbb55622",
+      "6d09129ebf2e933f69e5f585e3ae28243aea4420"
+    ],
+    "imageUrl": "/images/articles/9fbf985e56dd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "명목 GDP 두자릿수 성장 전망…반도체 호황, 실질 GDP엔 왜 덜 보이나",
+        "excerpt": "한국경제는 심성미의 매크로 백브리핑에서 반도체 호황이 GDP 통계에 어떻게 반영되는지 짚고, 명목 GDP가 두자릿수 성장할 가능성을 제기했다.",
+        "body": "한국경제는 ‘심성미의 매크로 백브리핑’을 통해 반도체 호황이 국내총생산(GDP)에 충분히 드러나지 않는다는 문제를 제기했다. 기사 제목은 GDP가 ‘반도체 호황’을 반영하지 못하는지 묻고, 명목 GDP는 두자릿수 성장할 듯하다고 짚었다. 핵심은 실질 GDP와 명목 GDP가 보여주는 경기 신호가 다를 수 있다는 점이다. 반도체 업황 개선이 체감 경기와 통계에 어떻게 잡히는지에 따라 경제 판단도 달라질 수 있다. 이에 따라 시장은 실질 성장률뿐 아니라 가격 변동을 포함한 명목 지표도 함께 볼 필요가 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Nominal GDP Seen Growing Double Digits as Chip Boom Raises GDP Question",
+        "excerpt": "Hankyung’s Macro Back Briefing by Shim Sung-mi examined whether Korea’s GDP fully captures the semiconductor boom and noted that nominal GDP may grow by double digits.",
+        "body": "Hankyung.com, in Shim Sung-mi’s Macro Back Briefing, raised the question of whether gross domestic product fully reflects the semiconductor boom. The article’s headline asks whether GDP is failing to capture the chip upswing and notes that nominal GDP is likely to post double-digit growth. The key point is that real GDP and nominal GDP can send different signals about the economy. Depending on how the semiconductor cycle is reflected in statistics and in perceived activity, the economic reading may differ. The article suggests that markets should look not only at real growth but also at nominal indicators that include price changes. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "名目GDPは二桁成長見通し、半導体好況はGDPに十分反映されるのか",
+        "excerpt": "韓国経済は「沈成美のマクロ・バックブリーフィング」で、半導体好況がGDP統計にどう反映されるかを点検し、名目GDPの二桁成長の可能性を示した。",
+        "body": "韓国経済は「沈成美のマクロ・バックブリーフィング」で、半導体好況が国内総生産（GDP）に十分表れていないのではないかという問題を提起した。記事の見出しは、GDPが「半導体好況」を反映できていないのかと問い、名目GDPは二桁成長しそうだと指摘した。焦点は、実質GDPと名目GDPが示す景気シグナルが異なり得る点にある。半導体市況の改善が体感景気と統計にどう表れるかによって、経済判断も変わり得る。そのため市場は実質成長率だけでなく、価格変動を含む名目指標も併せて見る必要がある。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "名义GDP或两位数增长，半导体景气为何未充分反映在GDP中",
+        "excerpt": "韩国经济在沈成美的宏观背景简报中讨论半导体景气如何反映到GDP统计，并指出名义GDP可能实现两位数增长。",
+        "body": "韩国经济在《沈成美的宏观背景简报》中提出，半导体景气是否没有充分体现在国内生产总值（GDP）中。文章标题追问GDP是否未能反映“半导体景气”，并指出名义GDP似乎将实现两位数增长。核心在于，实际GDP与名义GDP可能释放不同的经济信号。半导体行业改善如何体现在体感经济和统计数据中，会影响对经济形势的判断。因此，市场不仅需要关注实际增长率，也需要同时观察包含价格变动的名义指标。来源: hankyung.com."
+      },
+      "es": {
+        "title": "El PIB nominal crecería a doble dígito mientras el auge de chips cuestiona el PIB",
+        "excerpt": "Hankyung analizó en Macro Back Briefing de Shim Sung-mi si el PIB refleja plenamente el auge de los semiconductores y señaló que el PIB nominal podría crecer a doble dígito.",
+        "body": "Hankyung.com, en Macro Back Briefing de Shim Sung-mi, planteó si el producto interno bruto refleja plenamente el auge de los semiconductores. El titular pregunta si el PIB no está captando el “auge de los chips” y señala que el PIB nominal probablemente crecerá a doble dígito. El punto central es que el PIB real y el PIB nominal pueden enviar señales económicas distintas. Según cómo la mejora del ciclo de semiconductores aparezca en las estadísticas y en la actividad percibida, la lectura de la economía puede cambiar. Por ello, el mercado debe observar no solo el crecimiento real, sino también los indicadores nominales que incluyen variaciones de precios. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "PIB nominal pode crescer dois dígitos enquanto boom de chips desafia leitura do PIB",
+        "excerpt": "O Hankyung analisou no Macro Back Briefing de Shim Sung-mi se o PIB capta plenamente o boom dos semicondutores e destacou que o PIB nominal pode crescer dois dígitos.",
+        "body": "O Hankyung.com, no Macro Back Briefing de Shim Sung-mi, levantou a questão de saber se o produto interno bruto reflete plenamente o boom dos semicondutores. O título pergunta se o PIB não estaria captando a “alta dos chips” e observa que o PIB nominal deve crescer dois dígitos. O ponto central é que o PIB real e o PIB nominal podem transmitir sinais econômicos diferentes. Dependendo de como a melhora do setor de semicondutores aparece nas estatísticas e na percepção da atividade, a avaliação da economia pode mudar. Assim, o mercado precisa acompanhar não apenas o crescimento real, mas também indicadores nominais que incluem variações de preços. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Nominales BIP wohl zweistellig höher: Chipboom wirft Fragen zur BIP-Messung auf",
+        "excerpt": "Hankyung prüfte in Shim Sung-mis Macro Back Briefing, ob das BIP den Halbleiterboom vollständig abbildet, und verwies auf mögliches zweistelliges Wachstum des nominalen BIP.",
+        "body": "Hankyung.com stellte in Shim Sung-mis Macro Back Briefing die Frage, ob das Bruttoinlandsprodukt den Halbleiterboom vollständig widerspiegelt. Die Überschrift fragt, ob das BIP den „Halbleiterboom“ nicht erfasse, und weist darauf hin, dass das nominale BIP voraussichtlich zweistellig wachsen dürfte. Der Kernpunkt ist, dass reales und nominales BIP unterschiedliche Konjunktursignale senden können. Je nachdem, wie die Verbesserung der Halbleiterbranche in Statistik und gefühlter Wirtschaftslage erscheint, kann sich die wirtschaftliche Bewertung ändern. Daher sollte der Markt nicht nur das reale Wachstum, sondern auch nominale Kennzahlen mit Preisänderungen betrachten. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le PIB nominal pourrait bondir à deux chiffres, le boom des puces interroge le PIB",
+        "excerpt": "Hankyung a examiné dans le Macro Back Briefing de Shim Sung-mi si le PIB reflète pleinement le boom des semi-conducteurs et a évoqué une possible croissance à deux chiffres du PIB nominal.",
+        "body": "Hankyung.com, dans le Macro Back Briefing de Shim Sung-mi, a soulevé la question de savoir si le produit intérieur brut reflète pleinement le boom des semi-conducteurs. Le titre demande si le PIB ne parvient pas à intégrer cette « embellie des puces » et indique que le PIB nominal devrait probablement croître à deux chiffres. Le point clé est que le PIB réel et le PIB nominal peuvent envoyer des signaux économiques différents. Selon la manière dont l’amélioration du secteur des semi-conducteurs apparaît dans les statistiques et dans l’activité ressentie, l’interprétation économique peut varier. Le marché doit donc suivre non seulement la croissance réelle, mais aussi les indicateurs nominaux incluant les variations de prix. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "الناتج المحلي الاسمي مرشح لنمو من رقمين مع تساؤلات حول انعكاس طفرة الرقائق",
+        "excerpt": "ناقش موقع هانكيونغ في Macro Back Briefing لشيم سونغ-مي ما إذا كان الناتج المحلي يعكس طفرة أشباه الموصلات بالكامل، وأشار إلى احتمال نمو الناتج الاسمي برقمين.",
+        "body": "أثار موقع hankyung.com، في Macro Back Briefing لشيم سونغ-مي، سؤالا حول ما إذا كان الناتج المحلي الإجمالي يعكس بالكامل طفرة أشباه الموصلات. ويسأل عنوان المقال عما إذا كان الناتج المحلي لا يعكس «طفرة الرقائق»، مشيرا إلى أن الناتج المحلي الاسمي قد يسجل نموا من رقمين. النقطة الأساسية هي أن الناتج المحلي الحقيقي والناتج المحلي الاسمي قد يقدمان إشارات اقتصادية مختلفة. وبحسب طريقة ظهور تحسن قطاع أشباه الموصلات في الإحصاءات وفي الإحساس بالنشاط الاقتصادي، قد تختلف قراءة الاقتصاد. لذلك يحتاج السوق إلى متابعة النمو الحقيقي وكذلك المؤشرات الاسمية التي تشمل تغيرات الأسعار. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "नाममात्र GDP में दो अंकों की वृद्धि संभव, सेमीकंडक्टर तेजी पर GDP सवाल",
+        "excerpt": "हैंक्युंग ने शिम सुंग-मी के Macro Back Briefing में देखा कि क्या GDP सेमीकंडक्टर तेजी को पूरी तरह दिखाता है और नाममात्र GDP में दो अंकों की वृद्धि की संभावना बताई।",
+        "body": "hankyung.com ने शिम सुंग-मी के Macro Back Briefing में यह सवाल उठाया कि क्या सकल घरेलू उत्पाद सेमीकंडक्टर तेजी को पूरी तरह दर्शा रहा है। लेख का शीर्षक पूछता है कि क्या GDP “सेमीकंडक्टर बूम” को प्रतिबिंबित नहीं कर पा रहा, और बताता है कि नाममात्र GDP दो अंकों की वृद्धि दर्ज कर सकता है। मुख्य बात यह है कि वास्तविक GDP और नाममात्र GDP अर्थव्यवस्था के बारे में अलग संकेत दे सकते हैं। सेमीकंडक्टर क्षेत्र में सुधार आंकड़ों और महसूस की जाने वाली गतिविधि में कैसे दिखता है, इससे आर्थिक आकलन बदल सकता है। इसलिए बाजार को वास्तविक वृद्धि के साथ कीमतों में बदलाव शामिल करने वाले नाममात्र संकेतकों को भी देखना चाहिए। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "PDB nominal diperkirakan tumbuh dua digit saat boom chip pertanyakan data PDB",
+        "excerpt": "Hankyung dalam Macro Back Briefing oleh Shim Sung-mi membahas apakah PDB sepenuhnya mencerminkan boom semikonduktor dan menyoroti peluang pertumbuhan dua digit PDB nominal.",
+        "body": "Hankyung.com, dalam Macro Back Briefing oleh Shim Sung-mi, mengangkat pertanyaan apakah produk domestik bruto sepenuhnya mencerminkan boom semikonduktor. Judul artikel menanyakan apakah PDB gagal menangkap “boom semikonduktor” dan mencatat bahwa PDB nominal tampaknya akan tumbuh dua digit. Intinya, PDB riil dan PDB nominal dapat memberi sinyal ekonomi yang berbeda. Tergantung bagaimana perbaikan sektor semikonduktor tercermin dalam statistik dan aktivitas yang dirasakan, pembacaan ekonomi bisa berubah. Karena itu, pasar perlu melihat bukan hanya pertumbuhan riil, tetapi juga indikator nominal yang mencakup perubahan harga. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "c3074cb8de0d",
+    "slug": "코스피-7500과-세수-호황-청와대는-무엇을-보고-있나-여기는-논설실-236184",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T23:51:20.127Z",
+    "updatedAt": "2026-05-09T23:51:20.127Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605095486i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605095486i",
+    "titleFingerprint": "5f6d2e4d405568a43a898d57810b0a0fd27db697",
+    "dedupKeys": [
+      "c3074cb8de0dfa59f45c515e0400372999b194f4",
+      "5f6d2e4d405568a43a898d57810b0a0fd27db697",
+      "23366ac931e863a878ac69706d60e1da161b7364"
+    ],
+    "imageUrl": "/images/articles/c3074cb8de0d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7500과 세수 호황, 청와대가 주목한 반도체 변수",
+        "excerpt": "김용범 청와대 정책실장은 8일 반도체 호황과 코스피 7500 흐름을 언급하며 향후 2년간 역대급 세수 가능성과 재정정책의 유연성을 강조했다.",
+        "body": "김용범 청와대 정책실장은 8일 페이스북 글에서 코스피 7500과 1만 가능성, 반도체 호황에 따른 세수 변화를 함께 짚었다. 그는 앞으로 2년간 역대급 세수가 발생할 수 있다며 정부의 유연한 재정정책이 필요하다고 했다. 한국거래소 기준 코스피 상장사 영업이익은 반도체 혹한기였던 2023년 122조원에서 2024년 195조원으로 60% 늘었고, 2025년에는 245조원으로 25% 증가했다. 김 실장은 올 하반기 나올 2026년 수정 전망이 2027년 세입 추계와 예산 총량의 분기점이 될 수 있다고 봤다. 그는 2021~2022년 초과 세수와 2023~2024년 세수 부족 사례를 들어 산업 변화를 정책 시스템이 흡수해야 한다고 강조했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI 7500 and Tax Boom: Semiconductor Signal Watched by the Blue House",
+        "excerpt": "On May 8, policy chief Kim Yong-beom linked the semiconductor boom and KOSPI 7500 with possible record tax revenue over the next two years and flexible fiscal policy.",
+        "body": "Presidential policy chief Kim Yong-beom wrote on Facebook on May 8 about KOSPI 7500, the possibility of 10000, and tax changes tied to the semiconductor boom. He said record tax revenue could occur over the next two years and that the government needs flexible fiscal policy. According to Korea Exchange data, operating profit of KOSPI-listed companies rose from 122 trillion won in 2023, during the semiconductor downturn, to 195 trillion won in 2024, up 60%, and to 245 trillion won in 2025, up 25%. Kim said the revised 2026 outlook due in the second half of this year could become a turning point for 2027 revenue estimates and the total budget. Citing excess revenue in 2021-2022 and shortfalls in 2023-2024, he stressed that the policy system must absorb industrial change. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPI7500と税収好調、韓国大統領府が注目する半導体要因",
+        "excerpt": "金容範大統領府政策室長は8日、半導体好況とKOSPI7500の流れに触れ、今後2年間の過去最大級の税収可能性と柔軟な財政政策を強調した。",
+        "body": "金容範大統領府政策室長は8日、フェイスブックへの投稿で、KOSPI7500と1万の可能性、半導体好況に伴う税収変化をあわせて指摘した。今後2年間に過去最大級の税収が発生する可能性があり、政府には柔軟な財政政策が必要だと述べた。韓国取引所基準でKOSPI上場企業の営業利益は、半導体不況期だった2023年の122兆ウォンから2024年に195兆ウォンへ60%増え、2025年には245兆ウォンへ25%増加した。金氏は今年下半期に出る2026年修正見通しが、2027年の税収推計と予算総額の分岐点になり得ると見た。2021～2022年の超過税収と2023～2024年の税収不足を挙げ、産業変化を政策システムが吸収すべきだと強調した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI 7500与税收景气，韩国总统府关注半导体变量",
+        "excerpt": "韩国总统府政策室长金容范8日提到半导体景气和KOSPI 7500走势，强调未来两年可能出现创纪录税收及财政政策灵活性。",
+        "body": "韩国总统府政策室长金容范8日在脸书文章中同时谈到KOSPI 7500、迈向10000的可能性，以及半导体景气带来的税收变化。他表示，未来两年可能出现创纪录税收，政府需要更灵活的财政政策。按韩国交易所数据，KOSPI上市公司营业利润在半导体寒冬期的2023年为122万亿韩元，2024年增至195万亿韩元，增长60%，2025年又增至245万亿韩元，增长25%。金容范认为，今年下半年发布的2026年修正展望，可能成为2027年税收估算和预算总量方向的分水岭。他以2021至2022年超额税收、2023至2024年税收不足为例，强调政策体系应吸收产业变化。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSPI 7500 y Auge Fiscal: La Variable de Chips que Mira la Presidencia",
+        "excerpt": "El 8 de mayo, Kim Yong-beom vinculó el auge de semiconductores y el KOSPI 7500 con posibles ingresos fiscales récord en dos años y una política fiscal flexible.",
+        "body": "Kim Yong-beom, jefe de política de la Presidencia surcoreana, escribió el 8 de mayo en Facebook sobre el KOSPI 7500, la posibilidad de 10000 y los cambios fiscales ligados al auge de semiconductores. Dijo que en los próximos dos años podrían producirse ingresos fiscales récord y que el gobierno necesita una política fiscal flexible. Según la Bolsa de Corea, el beneficio operativo de las empresas del KOSPI pasó de 122 billones de wones en 2023, durante el invierno de los chips, a 195 billones en 2024, un 60% más, y a 245 billones en 2025, un 25% más. Kim señaló que la revisión de perspectivas de 2026 prevista para la segunda mitad de este año podría marcar el rumbo de la estimación de ingresos de 2027 y del presupuesto total. Citó el exceso de recaudación de 2021-2022 y el déficit de 2023-2024 para subrayar que el sistema de política debe absorber el cambio industrial. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI 7500 e Boom Fiscal: O Sinal dos Chips Visto pela Presidência",
+        "excerpt": "Em 8 de maio, Kim Yong-beom relacionou o boom dos semicondutores e o KOSPI 7500 à chance de receita fiscal recorde nos próximos dois anos e a uma política fiscal flexível.",
+        "body": "Kim Yong-beom, chefe de política da Presidência sul-coreana, escreveu em 8 de maio no Facebook sobre o KOSPI 7500, a possibilidade de 10000 e as mudanças de arrecadação ligadas ao boom dos semicondutores. Ele disse que receitas fiscais recordes podem surgir nos próximos dois anos e que o governo precisa de uma política fiscal flexível. Segundo a Bolsa da Coreia, o lucro operacional das empresas listadas no KOSPI saiu de 122 trilhões de won em 2023, no inverno dos chips, para 195 trilhões em 2024, alta de 60%, e para 245 trilhões em 2025, alta de 25%. Kim afirmou que a revisão da perspectiva de 2026, prevista para o segundo semestre deste ano, pode ser um divisor para a estimativa de receita de 2027 e o orçamento total. Ao citar o excesso de arrecadação em 2021-2022 e a falta de receita em 2023-2024, ressaltou que o sistema de políticas deve absorver a mudança industrial. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI 7500 und Steuerboom: Das Halbleitersignal für das Präsidialamt",
+        "excerpt": "Kim Yong-beom verwies am 8. Mai auf Halbleiterboom und KOSPI 7500 und betonte mögliche Rekordsteuern in zwei Jahren sowie eine flexible Fiskalpolitik.",
+        "body": "Kim Yong-beom, Politikchef des südkoreanischen Präsidialamts, schrieb am 8. Mai auf Facebook über KOSPI 7500, die Möglichkeit von 10000 und steuerliche Veränderungen durch den Halbleiterboom. Er sagte, in den kommenden zwei Jahren könnten Rekordsteuereinnahmen entstehen, weshalb die Regierung eine flexible Fiskalpolitik brauche. Nach Daten der Korea Exchange stieg der operative Gewinn der KOSPI-Unternehmen von 122 Billionen Won im Halbleiterabschwung 2023 auf 195 Billionen Won 2024, ein Plus von 60%, und 2025 auf 245 Billionen Won, ein Plus von 25%. Kim sagte, die im zweiten Halbjahr erwartete revidierte Prognose für 2026 könne zum Wendepunkt für die Einnahmenschätzung 2027 und das Gesamtbudget werden. Mit Verweis auf Mehreinnahmen 2021-2022 und Ausfälle 2023-2024 betonte er, das politische System müsse den industriellen Wandel aufnehmen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "KOSPI 7500 et Recettes Fiscales: Le Signal des Semi-conducteurs",
+        "excerpt": "Le 8 mai, Kim Yong-beom a lié le boom des semi-conducteurs et le KOSPI 7500 à de possibles recettes fiscales record sur deux ans et à une politique budgétaire flexible.",
+        "body": "Kim Yong-beom, chef de la politique de la présidence sud-coréenne, a écrit le 8 mai sur Facebook au sujet du KOSPI 7500, de la possibilité de 10000 et des changements fiscaux liés au boom des semi-conducteurs. Il a déclaré que des recettes fiscales record pourraient apparaître au cours des deux prochaines années et que le gouvernement avait besoin d'une politique budgétaire flexible. Selon Korea Exchange, le bénéfice d'exploitation des sociétés cotées au KOSPI est passé de 122 billions de wons en 2023, pendant le creux des semi-conducteurs, à 195 billions en 2024, soit +60%, puis à 245 billions en 2025, soit +25%. Kim a estimé que la prévision révisée de 2026 attendue au second semestre pourrait devenir un tournant pour l'estimation des recettes 2027 et le volume budgétaire. En citant les excédents de 2021-2022 et les manques de 2023-2024, il a souligné que le système politique devait absorber le changement industriel. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي 7500 وازدهار الضرائب: متغير الرقائق الذي تراقبه الرئاسة",
+        "excerpt": "في 8 مايو، ربط كيم يونغ بوم طفرة أشباه الموصلات ومستوى كوسبي 7500 باحتمال إيرادات ضريبية قياسية خلال عامين وبالحاجة إلى سياسة مالية مرنة.",
+        "body": "كتب كيم يونغ بوم، رئيس السياسات في الرئاسة الكورية الجنوبية، على فيسبوك في 8 مايو عن كوسبي 7500، وإمكان بلوغ 10000، وتغيرات الضرائب المرتبطة بطفرة أشباه الموصلات. وقال إن إيرادات ضريبية قياسية قد تتحقق خلال العامين المقبلين، وإن الحكومة تحتاج إلى سياسة مالية مرنة. وبحسب بيانات بورصة كوريا، ارتفع الربح التشغيلي لشركات كوسبي من 122 تريليون وون في 2023، خلال ركود أشباه الموصلات، إلى 195 تريليون وون في 2024، بزيادة 60%، ثم إلى 245 تريليون وون في 2025، بزيادة 25%. ورأى كيم أن التوقعات المعدلة لعام 2026، المنتظرة في النصف الثاني من هذا العام، قد تكون نقطة تحول لتقديرات إيرادات 2027 وحجم الميزانية. واستشهد بفائض إيرادات 2021-2022 ونقص 2023-2024 ليؤكد أن نظام السياسات يجب أن يستوعب التحول الصناعي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 7500 और कर उछाल: राष्ट्रपति कार्यालय की नजर चिप संकेत पर",
+        "excerpt": "8 मई को किम योंग-बोम ने सेमीकंडक्टर उछाल और KOSPI 7500 को अगले दो वर्षों में रिकॉर्ड कर राजस्व की संभावना और लचीली राजकोषीय नीति से जोड़ा।",
+        "body": "दक्षिण कोरिया के राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम ने 8 मई को फेसबुक पर KOSPI 7500, 10000 की संभावना और सेमीकंडक्टर उछाल से जुड़े कर बदलावों पर लिखा। उन्होंने कहा कि अगले दो वर्षों में रिकॉर्ड कर राजस्व आ सकता है और सरकार को लचीली राजकोषीय नीति की जरूरत है। Korea Exchange के अनुसार, KOSPI सूचीबद्ध कंपनियों का परिचालन लाभ सेमीकंडक्टर मंदी वाले 2023 में 122 ट्रिलियन वॉन से बढ़कर 2024 में 195 ट्रिलियन वॉन हुआ, यानी 60% वृद्धि, और 2025 में 245 ट्रिलियन वॉन पहुंचा, यानी 25% वृद्धि। किम ने कहा कि इस साल की दूसरी छमाही में आने वाला 2026 का संशोधित अनुमान 2027 के राजस्व आकलन और कुल बजट की दिशा के लिए मोड़ बन सकता है। उन्होंने 2021-2022 के अतिरिक्त कर राजस्व और 2023-2024 की कमी का हवाला देकर कहा कि नीति व्यवस्था को औद्योगिक बदलाव सोखना होगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI 7500 dan Boom Pajak: Sinyal Semikonduktor yang Dipantau Istana",
+        "excerpt": "Pada 8 Mei, Kim Yong-beom mengaitkan boom semikonduktor dan KOSPI 7500 dengan peluang penerimaan pajak rekor dua tahun ke depan serta kebijakan fiskal fleksibel.",
+        "body": "Kim Yong-beom, kepala kebijakan Kantor Presiden Korea Selatan, menulis di Facebook pada 8 Mei tentang KOSPI 7500, kemungkinan 10000, dan perubahan pajak akibat boom semikonduktor. Ia mengatakan penerimaan pajak rekor dapat terjadi dalam dua tahun ke depan dan pemerintah membutuhkan kebijakan fiskal yang fleksibel. Menurut data Korea Exchange, laba operasi perusahaan tercatat KOSPI naik dari 122 triliun won pada 2023, saat musim dingin semikonduktor, menjadi 195 triliun won pada 2024, naik 60%, lalu 245 triliun won pada 2025, naik 25%. Kim menilai revisi prospek 2026 yang akan keluar pada paruh kedua tahun ini dapat menjadi titik balik bagi estimasi penerimaan 2027 dan total anggaran. Dengan menyebut kelebihan penerimaan 2021-2022 dan kekurangan 2023-2024, ia menekankan sistem kebijakan harus mampu menyerap perubahan industri. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "1eaef05efd5d",
     "slug": "힘빠진다-더-가져갈까-팔까불장에-깊어진-개미들의-고민-409451",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Permintaan Interior Melemah, Perusahaan Kamar Mandi dan Jendela Tertekan",
         "excerpt": "Hankyung melaporkan bahwa saat konsumen mengurangi pekerjaan interior, perusahaan kamar mandi dan jendela ikut menghadapi tekanan.",
         "body": "Menurunnya minat konsumen untuk melakukan pekerjaan interior mulai membebani perusahaan kamar mandi dan jendela. Menurut Hankyung, suasana “tidak melakukan interior” melemahkan permintaan material dan jasa pemasangan terkait, sehingga perusahaan di sektor tersebut ikut goyah. Karena pasar interior sangat terkait dengan kebutuhan perbaikan hunian, penundaan proyek oleh konsumen dapat langsung menekan penjualan dan kondisi operasional. Pelaku industri kini memantau apakah permintaan akan pulih. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e74880e30f60",
-    "slug": "빚-못-갚는-기업-속출연체율-2배-넘게-올랐다-646930",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T16:16:17.034Z",
-    "updatedAt": "2026-05-09T16:16:17.034Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050849031",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050849031",
-    "titleFingerprint": "bcdac223b4216ea96a3930c0592a58a730065acd",
-    "dedupKeys": [
-      "e74880e30f60904c72d6bcdaa8ffca0106dd8d63",
-      "bcdac223b4216ea96a3930c0592a58a730065acd",
-      "95f50c5b1b53b1b44cd7478866ba795843bd3d98"
-    ],
-    "imageUrl": "/images/articles/e74880e30f60.jpg",
-    "i18n": {
-      "ko": {
-        "title": "기업 연체율 2배 넘게 급등…빚 못 갚는 기업 속출에 신용 경고음",
-        "excerpt": "hankyung.com은 빚을 제때 갚지 못하는 기업이 잇따르며 기업 연체율이 2배 넘게 올랐다고 보도했다. 상환 부담이 커진 기업 신용 상황이 주목된다.",
-        "body": "빚을 제때 갚지 못하는 기업이 잇따르면서 기업 연체율이 2배 넘게 오른 것으로 전해졌다. hankyung.com 보도에 따르면 기업 대출 부문에서 연체가 늘고 있으며, 이는 상환 능력이 약해진 기업이 많아졌다는 신호로 해석된다. 원문에 구체적인 기간과 세부 수치는 제시되지 않았지만, 제목상 핵심은 연체율 상승 폭이 2배를 넘었다는 점이다. 기업 연체 증가는 금융기관의 건전성 점검과 기업 자금 조달 여건에 영향을 줄 수 있어 향후 흐름이 주목된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Corporate delinquency rate more than doubles as firms struggle to repay debt",
-        "excerpt": "hankyung.com reported that more companies are failing to repay debt on time, with the corporate delinquency rate rising by more than twofold, putting credit conditions in focus.",
-        "body": "A growing number of companies are reportedly failing to repay debt on time, while the corporate delinquency rate has climbed by more than twofold. According to hankyung.com, arrears in corporate lending are increasing, a sign that repayment capacity has weakened for some firms. The original headline and summary do not provide a specific period or detailed figures, but the key point is that the delinquency rate has risen by more than double. The increase may draw attention to banks’ asset quality checks and corporate funding conditions. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "企業延滞率が2倍超に急上昇、債務返済できない企業が相次ぐ",
-        "excerpt": "hankyung.comは、借入金を期限通り返済できない企業が相次ぎ、企業の延滞率が2倍を超えて上昇したと報じた。信用状況への注目が高まる。",
-        "body": "借入金を期限通り返済できない企業が相次ぎ、企業の延滞率が2倍を超えて上昇したと伝えられた。hankyung.comの報道によると、企業向け融資で延滞が増えており、返済能力が弱まった企業が増えている可能性を示す。原文の見出しと要約には具体的な期間や詳細な数値は示されていないが、核心は延滞率の上昇幅が2倍を超えた点にある。企業延滞の増加は金融機関の健全性点検や企業の資金調達環境に影響し得るため、今後の推移が注目される。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "企业逾期率升幅超过两倍，无法偿债企业接连出现",
-        "excerpt": "hankyung.com报道称，未能按时偿还债务的企业接连出现，企业逾期率已上升超过两倍，企业信用状况受到关注。",
-        "body": "未能按时偿还债务的企业接连出现，企业逾期率据报已上升超过两倍。hankyung.com报道称，企业贷款领域的逾期正在增加，这被视为部分企业偿债能力转弱的信号。原文标题和摘要未列明具体期间或更详细数据，但核心信息是逾期率升幅超过两倍。企业逾期增加可能影响金融机构对资产质量的检查，也会使企业融资环境受到关注。来源: hankyung.com"
-      },
-      "es": {
-        "title": "La morosidad empresarial se duplica con creces ante más impagos de deuda",
-        "excerpt": "hankyung.com informó que aumentan las empresas que no pagan sus deudas a tiempo y que la tasa de morosidad corporativa subió más del doble, elevando la atención sobre el crédito.",
-        "body": "Cada vez más empresas no estarían pagando sus deudas a tiempo, mientras la tasa de morosidad corporativa ha aumentado más del doble. Según hankyung.com, los atrasos en los préstamos a empresas están creciendo, una señal de que la capacidad de pago de algunas compañías se ha debilitado. El titular y el resumen originales no ofrecen un periodo concreto ni cifras detalladas, pero el punto central es que la morosidad subió más de dos veces. Este aumento puede centrar la atención en la solidez de las entidades financieras y en las condiciones de financiación empresarial. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Inadimplência corporativa mais que dobra com empresas sem pagar dívidas",
-        "excerpt": "hankyung.com informou que cresce o número de empresas que não conseguem pagar dívidas em dia, enquanto a taxa de inadimplência corporativa subiu mais que o dobro.",
-        "body": "Mais empresas estariam deixando de pagar suas dívidas em dia, enquanto a taxa de inadimplência corporativa subiu mais que o dobro. Segundo o hankyung.com, os atrasos em empréstimos corporativos estão aumentando, sinal de que a capacidade de pagamento de parte das companhias enfraqueceu. O título e o resumo originais não informam um período específico nem números detalhados, mas o ponto central é que a inadimplência avançou mais de duas vezes. Esse aumento pode chamar atenção para a qualidade dos ativos das instituições financeiras e para as condições de financiamento das empresas. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Firmenausfälle nehmen zu: Unternehmensverzug steigt auf mehr als das Doppelte",
-        "excerpt": "hankyung.com berichtet, dass immer mehr Unternehmen ihre Schulden nicht fristgerecht bedienen und die Verzugsquote bei Firmenkrediten um mehr als das Doppelte gestiegen ist.",
-        "body": "Immer mehr Unternehmen können ihre Schulden offenbar nicht fristgerecht bedienen, während die Verzugsquote bei Firmenkrediten um mehr als das Doppelte gestiegen ist. Laut hankyung.com nehmen Zahlungsrückstände im Unternehmensgeschäft zu, was auf eine schwächere Rückzahlungsfähigkeit einiger Firmen hindeutet. Die ursprüngliche Überschrift und Zusammenfassung nennen keinen konkreten Zeitraum und keine detaillierten Zahlen, doch der Kernpunkt ist der Anstieg der Verzugsquote auf mehr als das Doppelte. Diese Entwicklung kann die Prüfung der Finanzstabilität und die Finanzierungsbedingungen von Unternehmen stärker in den Fokus rücken. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les retards de paiement des entreprises font plus que doubler face aux dettes",
-        "excerpt": "hankyung.com rapporte que de plus en plus d’entreprises ne remboursent pas leurs dettes à temps, tandis que le taux de défaut ou de retard a plus que doublé.",
-        "body": "De plus en plus d’entreprises ne parviendraient pas à rembourser leurs dettes à temps, tandis que le taux de retard de paiement des entreprises a plus que doublé. Selon hankyung.com, les impayés dans les prêts aux entreprises augmentent, signe d’un affaiblissement de la capacité de remboursement de certaines sociétés. Le titre et le résumé d’origine ne donnent pas de période précise ni de chiffres détaillés, mais l’information centrale est que le taux de retard a progressé de plus de deux fois. Cette hausse peut attirer l’attention sur la qualité des actifs financiers et les conditions de financement des entreprises. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تعثر الشركات في السداد يتزايد ومعدل التأخر يرتفع لأكثر من الضعف",
-        "excerpt": "أفاد hankyung.com بأن شركات أكثر لا تسدد ديونها في موعدها، بينما ارتفع معدل التأخر في السداد لدى الشركات بأكثر من الضعف، ما يسلط الضوء على أوضاع الائتمان.",
-        "body": "تتزايد الشركات التي لا تتمكن من سداد ديونها في موعدها، فيما ارتفع معدل التأخر في السداد لدى الشركات بأكثر من الضعف. وبحسب تقرير hankyung.com، فإن حالات التأخر في قروض الشركات آخذة في الزيادة، وهو ما يشير إلى ضعف قدرة بعض الشركات على السداد. لا يورد العنوان والملخص الأصليان فترة محددة أو أرقاما تفصيلية، لكن النقطة الأساسية هي أن معدل التأخر تجاوز ضعف مستواه السابق. وقد يدفع هذا الارتفاع إلى مزيد من التركيز على سلامة المؤسسات المالية وظروف تمويل الشركات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कर्ज न चुका पाने वाली कंपनियां बढ़ीं, कॉरपोरेट डिलिंक्वेंसी दोगुने से अधिक",
-        "excerpt": "hankyung.com ने बताया कि समय पर कर्ज नहीं चुका पाने वाली कंपनियां बढ़ रही हैं और कॉरपोरेट डिलिंक्वेंसी दर दोगुने से अधिक हो गई है, जिससे क्रेडिट स्थिति पर ध्यान है।",
-        "body": "समय पर कर्ज नहीं चुका पाने वाली कंपनियों की संख्या बढ़ रही है और कॉरपोरेट डिलिंक्वेंसी दर दोगुने से अधिक हो गई है। hankyung.com की रिपोर्ट के अनुसार, कॉरपोरेट लोन में बकाया भुगतान बढ़ रहे हैं, जिसे कुछ कंपनियों की कमजोर होती पुनर्भुगतान क्षमता का संकेत माना जा सकता है। मूल शीर्षक और सारांश में कोई विशिष्ट अवधि या विस्तृत आंकड़े नहीं दिए गए हैं, लेकिन मुख्य तथ्य यह है कि डिलिंक्वेंसी दर दो गुना से अधिक बढ़ी है। यह वृद्धि वित्तीय संस्थानों की संपत्ति गुणवत्ता समीक्षा और कंपनियों की फंडिंग स्थितियों पर ध्यान बढ़ा सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Rasio tunggakan korporasi melonjak lebih dari dua kali saat utang macet naik",
-        "excerpt": "hankyung.com melaporkan semakin banyak perusahaan gagal membayar utang tepat waktu, sementara rasio tunggakan korporasi naik lebih dari dua kali lipat.",
-        "body": "Semakin banyak perusahaan dilaporkan gagal membayar utang tepat waktu, sementara rasio tunggakan korporasi naik lebih dari dua kali lipat. Menurut hankyung.com, tunggakan pada pinjaman korporasi meningkat, menandakan kemampuan bayar sebagian perusahaan melemah. Judul dan ringkasan asli tidak memuat periode spesifik atau angka rinci, tetapi poin utamanya adalah kenaikan rasio tunggakan yang melebihi dua kali lipat. Peningkatan tunggakan perusahaan dapat membuat perhatian tertuju pada kualitas aset lembaga keuangan dan kondisi pendanaan korporasi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "67b74da1b42f",
-    "slug": "韓-갈래요큰손-외국인-몰리자-역대급-호황-맞은-k도시-507547",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T16:15:18.654Z",
-    "updatedAt": "2026-05-09T16:15:18.654Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848641",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848641",
-    "titleFingerprint": "12b992b09db913770ec3652a95a8fec61ff7653c",
-    "dedupKeys": [
-      "67b74da1b42f51aa6eb99f9d649cfee1f13ad273",
-      "12b992b09db913770ec3652a95a8fec61ff7653c",
-      "7c33d9e48779539df5c6214b14fed9e12f4d0f44"
-    ],
-    "imageUrl": "/images/articles/67b74da1b42f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "방한 관광객 서울·제주·부산으로 몰린다, 中日 연휴 수요에 1분기 역대 최대",
-        "excerpt": "일본 골든위크와 중국 노동절 연휴를 앞두고 서울이 일본인 인기 해외여행지 1위에 오르고 중국의 한국 검색량도 급증하며 올해 1분기 방한 외래객이 역대 최대를 기록했다.",
-        "body": "일본 골든위크와 중국 노동절 연휴가 겹치며 한국을 찾는 중국·일본 관광객 수요가 커지고 있다. hankyung.com에 따르면 4월 27일 여행업계는 서울을 중심으로 제주와 부산까지 관심이 확대되고 있다고 전했다. 일본 HIS의 4월 24일~5월 6일 해외여행 예약은 전년보다 26.7% 늘 전망이며, 서울이 인기 여행지 1위에 올랐다. 제주와 부산도 각각 5위, 6위였다. 중국에서는 5월 1~5일 노동절을 앞두고 에어비앤비 중국 기준 한국이 국가별 검색 1위였고, 한국 검색량은 전년 대비 5배, 서울은 6배 이상 늘었다. 한국관광공사 집계 올해 1분기 방한 외래객은 476만명으로 역대 1분기 최대였다."
-      },
-      "en": {
-        "title": "Korea travel demand surges as Seoul, Jeju and Busan draw Chinese and Japanese visitors",
-        "excerpt": "Ahead of Japan’s Golden Week and China’s Labor Day holidays, Seoul ranked as the top overseas destination for Japanese travelers while China’s Korea searches jumped sharply, pushing Q1 inbound tourism to a record high.",
-        "body": "Demand from Chinese and Japanese travelers to Korea is rising as Japan’s Golden Week overlaps with China’s Labor Day holiday. According to hankyung.com, the travel industry said on April 27 that interest is spreading from Seoul to Jeju and Busan. Japan’s HIS expects overseas travel bookings for April 24 to May 6 to rise 26.7% from a year earlier, with Seoul ranked No. 1. Jeju and Busan placed fifth and sixth. In China, ahead of the May 1-5 Labor Day break, Korea ranked first in Airbnb China’s country searches, with Korea searches up fivefold and Seoul searches up more than sixfold year on year. Korea Tourism Organization data showed 4.76 million foreign visitors in Q1, the highest first-quarter total on record."
-      },
-      "ja": {
-        "title": "韓国旅行需要が急増、ソウル・済州・釜山に中日観光客が集中",
-        "excerpt": "日本のゴールデンウィークと中国の労働節連休を前に、ソウルが日本人の海外旅行先1位となり、中国での韓国検索も急増し、1～3月期の訪韓外客は過去最高を記録した。",
-        "body": "日本のゴールデンウィークと中国の労働節連休が重なり、韓国を訪れる中国・日本観光客の需要が高まっている。hankyung.comによると、旅行業界は4月27日、関心がソウルを中心に済州、釜山へ広がっていると伝えた。日本のHISは4月24日～5月6日の海外旅行予約が前年比26.7%増えると見込み、ソウルが人気旅行先1位となった。済州と釜山もそれぞれ5位、6位だった。中国では5月1～5日の労働節を前に、Airbnb中国の国別検索で韓国が1位となり、韓国検索量は前年比5倍、ソウルは6倍以上増えた。韓国観光公社によると、今年1～3月期の訪韓外客は476万人で過去最高だった。"
-      },
-      "zh": {
-        "title": "韩国游需求升温，首尔、济州、釜山吸引中日游客涌入",
-        "excerpt": "在日本黄金周和中国劳动节假期到来前，首尔成为日本游客最热门海外目的地，中国用户对韩国的搜索量也大幅上升，今年一季度访韩外国游客创同期新高。",
-        "body": "随着日本黄金周与中国劳动节假期相近，中国和日本游客赴韩需求正在扩大。hankyung.com称，旅游业界4月27日表示，关注度正以首尔为中心延伸至济州和釜山。日本HIS预计4月24日至5月6日海外旅行预订人数同比增加26.7%，首尔位列最受欢迎目的地第一，济州和釜山分别排第五、第六。中国方面，在5月1日至5日劳动节假期前，Airbnb中国数据显示韩国位居国家搜索第一，韩国搜索量同比增至5倍，首尔增至6倍以上。韩国旅游发展局统计，今年一季度访韩外国游客为476万人，创历年一季度最高。"
-      },
-      "es": {
-        "title": "Corea atrae más turistas chinos y japoneses hacia Seúl, Jeju y Busan",
-        "excerpt": "Antes de la Golden Week japonesa y las vacaciones chinas del Día del Trabajo, Seúl lideró las preferencias de viaje al exterior en Japón y las búsquedas de Corea crecieron con fuerza en China, llevando el turismo entrante del primer trimestre a un récord.",
-        "body": "La demanda de viajes a Corea por parte de turistas chinos y japoneses aumenta al coincidir la Golden Week de Japón con las vacaciones chinas del Día del Trabajo. Según hankyung.com, el sector turístico dijo el 27 de abril que el interés se expande desde Seúl hacia Jeju y Busan. La japonesa HIS prevé que las reservas de viajes al exterior del 24 de abril al 6 de mayo suban un 26,7% interanual, con Seúl en primer lugar. Jeju y Busan ocuparon los puestos quinto y sexto. En China, antes del feriado del 1 al 5 de mayo, Corea fue el país más buscado en Airbnb China; las búsquedas de Corea crecieron cinco veces y las de Seúl más de seis. La Organización de Turismo de Corea registró 4,76 millones de visitantes extranjeros en el primer trimestre, máximo histórico para ese periodo."
-      },
-      "pt": {
-        "title": "Coreia ganha força no turismo com Seul, Jeju e Busan atraindo chineses e japoneses",
-        "excerpt": "Antes da Golden Week do Japão e do feriado chinês do Dia do Trabalho, Seul liderou as escolhas de viagem ao exterior entre japoneses e as buscas por Coreia dispararam na China, levando o turismo receptivo do 1º trimestre a recorde.",
-        "body": "A demanda de turistas chineses e japoneses por viagens à Coreia cresce com a sobreposição da Golden Week japonesa e do feriado chinês do Dia do Trabalho. Segundo o hankyung.com, o setor de turismo informou em 27 de abril que o interesse se amplia de Seul para Jeju e Busan. A japonesa HIS prevê alta de 26,7% nas reservas de viagens ao exterior entre 24 de abril e 6 de maio, com Seul em primeiro lugar. Jeju e Busan ficaram em quinto e sexto. Na China, antes do feriado de 1º a 5 de maio, a Coreia foi o país mais buscado no Airbnb China; as buscas por Coreia cresceram cinco vezes e por Seul mais de seis vezes. A Organização de Turismo da Coreia registrou 4,76 milhões de visitantes estrangeiros no 1º trimestre, recorde para o período."
-      },
-      "de": {
-        "title": "Korea-Reisen legen zu: Seoul, Jeju und Busan ziehen Besucher aus China und Japan an",
-        "excerpt": "Vor Japans Golden Week und Chinas Feiertagen zum Tag der Arbeit wurde Seoul bei japanischen Auslandsreisen zur Nummer eins, während Suchanfragen nach Korea in China stark stiegen und das erste Quartal einen Besucherrekord brachte.",
-        "body": "Die Nachfrage chinesischer und japanischer Reisender nach Korea steigt, weil Japans Golden Week und Chinas Feiertage zum Tag der Arbeit zusammenfallen. Laut hankyung.com teilte die Reisebranche am 27. April mit, dass sich das Interesse von Seoul aus auch auf Jeju und Busan ausweitet. Japans HIS erwartet für Auslandsreisebuchungen vom 24. April bis 6. Mai ein Plus von 26,7% gegenüber dem Vorjahr; Seoul lag auf Platz eins. Jeju und Busan belegten Platz fünf und sechs. In China lag Korea vor den Feiertagen vom 1. bis 5. Mai bei Airbnb China auf Platz eins der Ländersuchen; die Suchanfragen nach Korea stiegen auf das Fünffache, jene nach Seoul auf mehr als das Sechsfache. Die Korea Tourism Organization zählte im ersten Quartal 4,76 Millionen ausländische Besucher, ein Rekord für diesen Zeitraum."
-      },
-      "fr": {
-        "title": "La Corée attire davantage de touristes chinois et japonais vers Séoul, Jeju et Busan",
-        "excerpt": "Avant la Golden Week japonaise et les congés chinois de la fête du Travail, Séoul est devenue la première destination étrangère des Japonais, tandis que les recherches sur la Corée bondissaient en Chine, portant le tourisme entrant du premier trimestre à un record.",
-        "body": "La demande de voyages en Corée progresse chez les touristes chinois et japonais avec le chevauchement de la Golden Week japonaise et des congés chinois de la fête du Travail. Selon hankyung.com, le secteur du voyage a indiqué le 27 avril que l’intérêt s’étendait de Séoul à Jeju et Busan. L’agence japonaise HIS prévoit une hausse de 26,7% des réservations de voyages à l’étranger du 24 avril au 6 mai, Séoul arrivant en tête. Jeju et Busan se classent cinquième et sixième. En Chine, avant les congés du 1er au 5 mai, la Corée était le pays le plus recherché sur Airbnb China; les recherches sur la Corée ont été multipliées par cinq et celles sur Séoul par plus de six. L’Office coréen du tourisme a recensé 4,76 millions de visiteurs étrangers au premier trimestre, un record pour cette période."
-      },
-      "ar": {
-        "title": "الطلب على السفر إلى كوريا يرتفع مع جذب سيول وجيجو وبوسان زوار الصين واليابان",
-        "excerpt": "قبيل أسبوع اليابان الذهبي وعطلة عيد العمال في الصين، تصدرت سيول وجهات السفر الخارجية لدى اليابانيين، وقفزت عمليات البحث عن كوريا في الصين، ليسجل الربع الأول رقما قياسيا في الزوار الأجانب.",
-        "body": "يتزايد طلب السياح الصينيين واليابانيين على السفر إلى كوريا مع تزامن أسبوع اليابان الذهبي مع عطلة عيد العمال في الصين. وبحسب hankyung.com، قالت صناعة السفر في 27 أبريل إن الاهتمام يمتد من سيول إلى جيجو وبوسان. وتتوقع شركة HIS اليابانية أن ترتفع حجوزات السفر الخارجي بين 24 أبريل و6 مايو بنسبة 26.7% على أساس سنوي، وجاءت سيول في المركز الأول. وحلت جيجو وبوسان في المركزين الخامس والسادس. وفي الصين، قبل عطلة 1 إلى 5 مايو، تصدرت كوريا عمليات البحث حسب الدولة على Airbnb China، وزادت عمليات البحث عن كوريا خمسة أضعاف وعن سيول أكثر من ستة أضعاف. وأظهرت بيانات منظمة السياحة الكورية أن عدد الزوار الأجانب في الربع الأول بلغ 4.76 مليون، وهو أعلى مستوى تاريخي لهذه الفترة."
-      },
-      "hi": {
-        "title": "कोरिया यात्रा की मांग तेज, सियोल, जेजू और बुसान में चीन-जापान के पर्यटक बढ़े",
-        "excerpt": "जापान के गोल्डन वीक और चीन की लेबर डे छुट्टियों से पहले सियोल जापानी यात्रियों की शीर्ष विदेशी मंजिल बना, जबकि चीन में कोरिया की खोज तेजी से बढ़ी और पहली तिमाही में विदेशी आगंतुक रिकॉर्ड स्तर पर पहुंचे।",
-        "body": "जापान के गोल्डन वीक और चीन की लेबर डे छुट्टियां साथ आने से कोरिया जाने वाले चीनी और जापानी पर्यटकों की मांग बढ़ रही है। hankyung.com के अनुसार, यात्रा उद्योग ने 27 अप्रैल को बताया कि रुचि सियोल से आगे जेजू और बुसान तक फैल रही है। जापान की HIS को 24 अप्रैल से 6 मई के विदेशी यात्रा आरक्षण में पिछले साल से 26.7% वृद्धि की उम्मीद है, और सियोल पहले स्थान पर रहा। जेजू और बुसान पांचवें और छठे स्थान पर रहे। चीन में 1 से 5 मई की छुट्टी से पहले Airbnb China पर देशवार खोज में कोरिया पहले स्थान पर रहा; कोरिया की खोज पांच गुना और सियोल की खोज छह गुना से अधिक बढ़ी। कोरिया पर्यटन संगठन के अनुसार पहली तिमाही में विदेशी आगंतुक 47.6 लाख रहे, जो इस अवधि का रिकॉर्ड है।"
-      },
-      "id": {
-        "title": "Wisata Korea menguat, Seoul, Jeju dan Busan diburu turis China-Jepang",
-        "excerpt": "Menjelang Golden Week Jepang dan libur Hari Buruh China, Seoul menjadi destinasi luar negeri teratas bagi wisatawan Jepang, sementara pencarian Korea di China melonjak dan kunjungan asing kuartal I mencetak rekor.",
-        "body": "Permintaan wisatawan China dan Jepang ke Korea meningkat saat Golden Week Jepang berdekatan dengan libur Hari Buruh China. Menurut hankyung.com, industri perjalanan pada 27 April menyebut minat meluas dari Seoul ke Jeju dan Busan. HIS Jepang memperkirakan pemesanan perjalanan luar negeri pada 24 April-6 Mei naik 26,7% dari tahun sebelumnya, dengan Seoul di posisi pertama. Jeju dan Busan berada di peringkat kelima dan keenam. Di China, menjelang libur 1-5 Mei, Korea menjadi negara paling banyak dicari di Airbnb China; pencarian Korea naik lima kali lipat dan Seoul lebih dari enam kali lipat. Data Korea Tourism Organization menunjukkan 4,76 juta wisatawan asing datang pada kuartal I, tertinggi sepanjang sejarah untuk periode tersebut."
-      }
-    }
-  },
-  {
-    "id": "1a1f7a9966e7",
-    "slug": "장원영한가인도-먹는다더니공복-한잔-열풍에-난리난-제품-권-기자의-장바구니-494059",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T16:13:55.253Z",
-    "updatedAt": "2026-05-09T16:13:55.254Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605083509i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605083509i",
-    "titleFingerprint": "0d41bad46591d1ef103264f7036941eb590c8c15",
-    "dedupKeys": [
-      "1a1f7a9966e797239ef69de4f31d816e8dc8b02d",
-      "0d41bad46591d1ef103264f7036941eb590c8c15",
-      "d135efffb44484a7307e26ab3af91b14addde348"
-    ],
-    "imageUrl": "/images/articles/1a1f7a9966e7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "올레샷 열풍에 올리브오일 제품 주목…장원영·한가인 공복 루틴 확산",
-        "excerpt": "장원영·한가인 등이 섭취한다고 알려진 올레샷이 SNS와 2030 여성층을 중심으로 퍼지며 올리브오일·레몬즙 소포장 제품 수요를 키우고 있다.",
-        "body": "아이브 장원영과 배우 한가인 등이 섭취한다고 알려진 ‘올레샷’이 최근 SNS를 중심으로 확산되며 올리브오일 관련 제품이 주목받고 있다. 올레샷은 아침 공복에 올리브오일과 레몬즙을 섞어 마시는 방식으로 소개됐다. 관련 소비 흐름에 맞춰 식품·이너뷰티 업계에서는 스틱형, 캡슐형 등 간편 섭취 제품을 내놓고 있다. 특히 2030 여성 사이에서 웰니스 루틴으로 언급되며 검색과 구매 관심이 커지는 모습이다. 업계는 유명인의 루틴 공개와 소셜미디어 인증 문화가 제품 수요를 밀어올린 배경으로 보고 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Ole Shot Trend Lifts Olive Oil Products as Wonyoung and Han Ga-in Routine Spreads",
-        "excerpt": "Ole Shot, reportedly consumed by Jang Wonyoung and Han Ga-in, is spreading on social media and among women in their 20s and 30s, boosting demand for olive oil and lemon juice products.",
-        "body": "Ole Shot, reportedly consumed by IVE’s Jang Wonyoung and actor Han Ga-in, has recently spread through social media, drawing attention to olive oil-related products. The routine is introduced as drinking olive oil mixed with lemon juice on an empty stomach in the morning. In response, food and inner-beauty companies are releasing easy-to-take products such as stick packs and capsules. The trend is especially being discussed as a wellness routine among women in their 20s and 30s, raising search and purchase interest. Industry observers point to celebrity routines and social media posts as drivers of demand. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "オレショット人気でオリーブオイル製品に注目、ウォニョン・ハンガインの空腹習慣広がる",
-        "excerpt": "チャン・ウォニョンやハン・ガインらが摂取するとされるオレショットがSNSと20〜30代女性を中心に広がり、オリーブオイルとレモン汁製品の需要を押し上げている。",
-        "body": "IVEのチャン・ウォニョンや俳優ハン・ガインらが摂取するとされる「オレショット」が最近SNSを中心に広がり、オリーブオイル関連製品が注目されている。オレショットは朝の空腹時にオリーブオイルとレモン汁を混ぜて飲む方法として紹介された。こうした消費の流れを受け、食品・インナービューティー業界ではスティック型やカプセル型など手軽に摂取できる製品を発売している。特に20〜30代女性の間でウェルネス習慣として語られ、検索や購入への関心が高まっている。業界では、有名人の習慣公開とSNS投稿文化が需要を押し上げた背景とみている。出典: hankyung.com。"
-      },
-      "zh": {
-        "title": "Ole Shot热潮带动橄榄油产品走红，张元英与韩佳人空腹习惯扩散",
-        "excerpt": "据称张元英、韩佳人等人饮用的Ole Shot在社交媒体和20至30多岁女性中扩散，带动橄榄油与柠檬汁小包装产品需求上升。",
-        "body": "据称IVE成员张元英和演员韩佳人等人饮用的“Ole Shot”近期通过社交媒体扩散，使橄榄油相关产品受到关注。Ole Shot被介绍为早晨空腹时将橄榄油与柠檬汁混合饮用的方式。顺应这一消费趋势，食品和内在美容行业推出了条装、胶囊型等便于摄取的产品。尤其在20至30多岁女性中，它被提及为一种健康生活习惯，搜索和购买兴趣正在上升。业内认为，名人公开日常习惯以及社交媒体打卡文化，是推动产品需求增长的背景。来源: hankyung.com。"
-      },
-      "es": {
-        "title": "La moda del Ole Shot impulsa productos de aceite de oliva por la rutina de Wonyoung y Han Ga-in",
-        "excerpt": "El Ole Shot, asociado a Jang Wonyoung y Han Ga-in, se expande en redes sociales y entre mujeres de 20 y 30 años, elevando el interés por productos de aceite de oliva y limón.",
-        "body": "El “Ole Shot”, que se dice consumen Jang Wonyoung de IVE y la actriz Han Ga-in, se ha difundido recientemente en redes sociales y ha puesto el foco en productos relacionados con el aceite de oliva. La rutina se presenta como beber aceite de oliva mezclado con jugo de limón por la mañana en ayunas. Ante esta corriente de consumo, empresas de alimentación y belleza interior están lanzando productos fáciles de tomar, como formatos en stick y cápsulas. La tendencia se menciona especialmente como rutina de bienestar entre mujeres de 20 y 30 años, lo que aumenta las búsquedas y el interés de compra. El sector atribuye la demanda a la exposición de rutinas de celebridades y a la cultura de publicaciones en redes sociales. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Febre do Ole Shot destaca produtos de azeite com rotina de Wonyoung e Han Ga-in em jejum",
-        "excerpt": "O Ole Shot, associado a Jang Wonyoung e Han Ga-in, avança nas redes sociais e entre mulheres de 20 e 30 anos, ampliando a procura por azeite e suco de limão em formatos práticos.",
-        "body": "O “Ole Shot”, que teria sido adotado por Jang Wonyoung, do IVE, e pela atriz Han Ga-in, vem se espalhando recentemente pelas redes sociais e chamando atenção para produtos à base de azeite. A rotina é apresentada como o consumo, pela manhã e em jejum, de azeite misturado com suco de limão. Acompanhando esse movimento, empresas de alimentos e beleza de dentro para fora estão lançando opções fáceis de consumir, como sticks e cápsulas. A tendência é citada especialmente como rotina de bem-estar entre mulheres de 20 e 30 anos, elevando buscas e intenção de compra. O setor vê a divulgação de hábitos de celebridades e a cultura de posts em redes sociais como fatores que impulsionam a demanda. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Ole-Shot-Trend rückt Olivenölprodukte in den Fokus, Wonyoung- und Han-Ga-in-Routine verbreitet sich",
-        "excerpt": "Der Ole Shot, der mit Jang Wonyoung und Han Ga-in verbunden wird, verbreitet sich in sozialen Medien und bei Frauen in den Zwanzigern und Dreißigern und steigert die Nachfrage nach Olivenöl- und Zitronensaftprodukten.",
-        "body": "Der „Ole Shot“, den Berichten zufolge IVE-Mitglied Jang Wonyoung und Schauspielerin Han Ga-in einnehmen, verbreitet sich derzeit über soziale Medien und lenkt die Aufmerksamkeit auf Produkte rund um Olivenöl. Die Routine wird als morgendliches Trinken von Olivenöl gemischt mit Zitronensaft auf nüchternen Magen beschrieben. Passend zu diesem Konsumtrend bringen Lebensmittel- und Inner-Beauty-Unternehmen leicht einzunehmende Produkte wie Stickpacks und Kapseln auf den Markt. Besonders unter Frauen in den Zwanzigern und Dreißigern wird der Trend als Wellness-Routine erwähnt, wodurch Suchanfragen und Kaufinteresse steigen. Die Branche sieht Promi-Routinen und Social-Media-Beiträge als Hintergrund der wachsenden Nachfrage. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "La tendance Ole Shot met en avant les produits à l’huile d’olive avec la routine de Wonyoung et Han Ga-in",
-        "excerpt": "L’Ole Shot, associé à Jang Wonyoung et Han Ga-in, se diffuse sur les réseaux sociaux et chez les femmes de 20 à 30 ans, stimulant l’intérêt pour l’huile d’olive et le jus de citron.",
-        "body": "L’« Ole Shot », que Jang Wonyoung d’IVE et l’actrice Han Ga-in seraient connues pour consommer, se diffuse récemment sur les réseaux sociaux et attire l’attention sur les produits liés à l’huile d’olive. Cette routine consiste à boire le matin à jeun un mélange d’huile d’olive et de jus de citron. En réponse à ce courant de consommation, les entreprises de l’alimentation et de la beauté intérieure lancent des produits faciles à prendre, comme des sticks et des capsules. La tendance est surtout évoquée comme une routine bien-être chez les femmes de 20 à 30 ans, faisant monter les recherches et l’intérêt d’achat. Le secteur attribue cette demande à la publication des routines de célébrités et à la culture de partage sur les réseaux sociaux. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "رواج Ole Shot يسلط الضوء على منتجات زيت الزيتون مع انتشار روتين وونيونغ وهان غا إن",
-        "excerpt": "ينتشر Ole Shot، المعروف بأن جانغ وونيونغ وهان غا إن تتناولانه، عبر وسائل التواصل وبين النساء في العشرينات والثلاثينات، ما يعزز الطلب على منتجات زيت الزيتون وعصير الليمون.",
-        "body": "انتشر مؤخرا روتين “Ole Shot”، الذي يعرف أن جانغ وونيونغ من فرقة IVE والممثلة هان غا إن تتناولانه، عبر وسائل التواصل الاجتماعي، ما جذب الانتباه إلى المنتجات المرتبطة بزيت الزيتون. ويقدم هذا الروتين على أنه شرب زيت الزيتون ممزوجا بعصير الليمون صباحا على معدة فارغة. ومع هذا الاتجاه الاستهلاكي، تطرح شركات الأغذية والجمال الداخلي منتجات سهلة التناول مثل العبوات على شكل sticks والكبسولات. ويجري الحديث عنه خصوصا كروتين عافية بين النساء في العشرينات والثلاثينات، ما يزيد الاهتمام بالبحث والشراء. وترى الصناعة أن كشف المشاهير عن روتينهم وثقافة النشر على وسائل التواصل يدفعان الطلب. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Ole Shot ट्रेंड से ऑलिव ऑयल उत्पादों पर ध्यान, वोनयंग और हान गा-इन की खाली पेट रूटीन फैली",
-        "excerpt": "जांग वोनयंग और हान गा-इन द्वारा लिए जाने के लिए चर्चित Ole Shot सोशल मीडिया और 20-30 आयु वर्ग की महिलाओं में फैल रहा है, जिससे ऑलिव ऑयल और लेमन जूस उत्पादों की मांग बढ़ रही है।",
-        "body": "IVE की जांग वोनयंग और अभिनेत्री हान गा-इन द्वारा लिए जाने के लिए चर्चित “Ole Shot” हाल में सोशल मीडिया के जरिए फैल रहा है और ऑलिव ऑयल से जुड़े उत्पादों को ध्यान में ला रहा है। इसे सुबह खाली पेट ऑलिव ऑयल और लेमन जूस मिलाकर पीने की विधि के रूप में पेश किया गया है। इस उपभोक्ता रुझान को देखते हुए खाद्य और इनर-ब्यूटी कंपनियां स्टिक पैक और कैप्सूल जैसे आसान उत्पाद ला रही हैं। खासकर 20 और 30 की उम्र की महिलाओं के बीच इसे वेलनेस रूटीन के रूप में चर्चा मिल रही है, जिससे खोज और खरीदारी में रुचि बढ़ रही है। उद्योग जगत सेलिब्रिटी रूटीन के खुलासे और सोशल मीडिया पोस्ट संस्कृति को मांग बढ़ने की वजह मानता है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Tren Ole Shot Soroti Produk Minyak Zaitun saat Rutinitas Wonyoung dan Han Ga-in Meluas",
-        "excerpt": "Ole Shot, yang dikenal dikonsumsi Jang Wonyoung dan Han Ga-in, menyebar di media sosial serta kalangan perempuan usia 20-30-an, mendorong minat pada produk minyak zaitun dan perasan lemon.",
-        "body": "“Ole Shot”, yang disebut dikonsumsi Jang Wonyoung dari IVE dan aktris Han Ga-in, belakangan menyebar lewat media sosial dan membuat produk terkait minyak zaitun menjadi sorotan. Rutinitas ini diperkenalkan sebagai cara minum minyak zaitun yang dicampur perasan lemon pada pagi hari saat perut kosong. Mengikuti arus konsumsi tersebut, industri makanan dan inner beauty merilis produk yang mudah dikonsumsi, seperti bentuk stik dan kapsul. Tren ini terutama dibicarakan sebagai rutinitas wellness di kalangan perempuan usia 20 hingga 30-an, sehingga minat pencarian dan pembelian meningkat. Pelaku industri melihat pengungkapan rutinitas selebritas dan budaya unggahan media sosial sebagai faktor yang mendorong permintaan. Sumber: hankyung.com."
       }
     }
   }
