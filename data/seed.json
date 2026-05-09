@@ -1,5 +1,230 @@
 [
   {
+    "id": "9e0f8fca0cce",
+    "slug": "울진-택시요금-인상기본료-4천4천500원-조정-886837",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T19:02:52.463Z",
+    "updatedAt": "2026-05-09T19:02:52.463Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
+    "titleFingerprint": "8e514c7105a7780dda5397ca29a7c43db606fb1a",
+    "dedupKeys": [
+      "9e0f8fca0cce7ff3112ef4b55c00648bac41991b",
+      "8e514c7105a7780dda5397ca29a7c43db606fb1a",
+      "6e58a0a65e24ba440819721883f66a1876b2ac2e"
+    ],
+    "imageUrl": "/images/articles/9e0f8fca0cce.jpg",
+    "i18n": {
+      "ko": {
+        "title": "울진 택시요금 19일부터 인상, 기본료 4천원에서 4천500원으로 조정",
+        "excerpt": "경북 울진군은 9일 택시 요금 인상 방침을 밝히고, 오는 19일부터 기본요금을 4천원에서 4천500원으로 조정한다고 밝혔다.",
+        "body": "경북 울진군은 오는 19일부터 지역 택시 요금을 인상한다고 9일 밝혔다. 이번 조정에 따라 택시 기본요금은 기존 4천원에서 4천500원으로 오른다. 요금 인상은 울진군이 발표한 택시요금 조정 내용에 따른 것으로, 적용 시점은 19일부터다. 지역 주민과 울진을 찾는 이용객은 택시 이용 시 변경된 기본요금을 적용받게 된다. 울진군은 인상 사실과 시행일을 공지했으며, 구체적인 추가 요금 체계와 세부 조정 내용은 원문에 언급되지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Uljin Taxi Fare to Rise From May 19, Base Rate Set at 4,500 Won",
+        "excerpt": "Uljin County in North Gyeongsang Province said on May 9 that taxi fares will rise from May 19, with the base fare adjusted from 4,000 won to 4,500 won.",
+        "body": "Uljin County in North Gyeongsang Province announced on May 9 that local taxi fares will increase from May 19. Under the adjustment, the taxi base fare will rise from the current 4,000 won to 4,500 won. The change follows the fare revision announced by Uljin County, with the new rate taking effect on May 19. Local residents and visitors using taxis in Uljin will be charged the revised base fare from that date. The county disclosed the increase and its implementation date, while the original report did not mention further details on additional fare structures or other adjustments. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "蔚珍のタクシー料金、19日から値上げ 基本料金4,500ウォンに調整",
+        "excerpt": "慶尚北道蔚珍郡は9日、19日からタクシー料金を引き上げ、基本料金を4,000ウォンから4,500ウォンに調整すると発表した。",
+        "body": "慶尚北道蔚珍郡は9日、地域のタクシー料金を19日から引き上げると発表した。今回の調整により、タクシーの基本料金は従来の4,000ウォンから4,500ウォンに上がる。料金改定は蔚珍郡が明らかにしたタクシー料金調整の内容に基づくもので、適用開始日は19日となる。地域住民や蔚珍を訪れる利用者は、タクシー利用時に変更後の基本料金を適用される。蔚珍郡は値上げの事実と施行日を公表したが、追加料金体系や細部の調整内容は原文では言及されていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "蔚珍出租车费19日起上调，起步价由4000韩元调至4500韩元",
+        "excerpt": "庆尚北道蔚珍郡9日表示，将从19日起上调出租车费用，起步价由4000韩元调整为4500韩元。",
+        "body": "庆尚北道蔚珍郡9日表示，当地出租车费用将从19日起上调。根据此次调整，出租车起步价将由现行4000韩元提高至4500韩元。此次涨价依据蔚珍郡公布的出租车费用调整内容执行，适用时间为19日起。当地居民以及到访蔚珍的乘客在使用出租车时，将适用变更后的起步价。蔚珍郡已公布费用上调事实和施行日期，原文未提及追加收费体系或其他具体调整内容。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Uljin subirá la tarifa de taxi desde el día 19: bajada de bandera a 4.500 wones",
+        "excerpt": "El condado de Uljin, en Gyeongsang del Norte, informó el día 9 que elevará las tarifas de taxi desde el 19, con la tarifa básica de 4.000 a 4.500 wones.",
+        "body": "El condado de Uljin, en la provincia surcoreana de Gyeongsang del Norte, anunció el día 9 que aumentará las tarifas locales de taxi a partir del día 19. Con este ajuste, la tarifa básica pasará de los actuales 4.000 wones a 4.500 wones. La subida corresponde a la revisión de tarifas comunicada por el condado de Uljin y comenzará a aplicarse el día 19. Los residentes y visitantes que utilicen taxis en Uljin pagarán la nueva tarifa básica desde esa fecha. El condado informó del aumento y de su fecha de aplicación; el texto original no menciona detalles sobre cargos adicionales u otros ajustes. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Uljin aumenta tarifa de táxi no dia 19, com preço básico a 4.500 won",
+        "excerpt": "O condado de Uljin, em Gyeongsang do Norte, informou no dia 9 que elevará as tarifas de táxi a partir do dia 19, de 4.000 para 4.500 won na tarifa básica.",
+        "body": "O condado de Uljin, na província de Gyeongsang do Norte, anunciou no dia 9 que as tarifas locais de táxi serão aumentadas a partir do dia 19. Com o ajuste, a tarifa básica subirá dos atuais 4.000 won para 4.500 won. A mudança segue a revisão tarifária divulgada pelo condado de Uljin, com aplicação prevista para o dia 19. Moradores locais e visitantes que usarem táxis em Uljin passarão a pagar a tarifa básica revisada a partir dessa data. O condado informou o aumento e a data de início; o texto original não menciona detalhes sobre tarifas adicionais ou outros ajustes. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Uljin erhöht Taxitarife ab dem 19.: Grundpreis steigt auf 4.500 Won",
+        "excerpt": "Der Landkreis Uljin in Nord-Gyeongsang teilte am 9. mit, dass die Taxitarife ab dem 19. steigen und der Grundpreis von 4.000 auf 4.500 Won angepasst wird.",
+        "body": "Der Landkreis Uljin in der südkoreanischen Provinz Nord-Gyeongsang gab am 9. bekannt, dass die örtlichen Taxitarife ab dem 19. erhöht werden. Im Zuge der Anpassung steigt der Grundpreis von bisher 4.000 Won auf 4.500 Won. Die Erhöhung folgt der von Uljin veröffentlichten Tarifänderung und gilt ab dem 19. Einwohner der Region sowie Besucher, die in Uljin Taxis nutzen, zahlen ab diesem Datum den geänderten Grundpreis. Der Landkreis nannte die Erhöhung und den Beginn der Anwendung; weitere Einzelheiten zu Zusatzgebühren oder anderen Tarifpunkten werden im Original nicht erwähnt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Uljin relève les tarifs des taxis le 19, prix de base porté à 4 500 wons",
+        "excerpt": "Le comté d’Uljin, dans le Gyeongsang du Nord, a annoncé le 9 que les tarifs des taxis augmenteraient dès le 19, le prix de base passant de 4 000 à 4 500 wons.",
+        "body": "Le comté d’Uljin, dans la province sud-coréenne du Gyeongsang du Nord, a annoncé le 9 une hausse des tarifs locaux des taxis à partir du 19. Avec cet ajustement, le tarif de base passera de 4 000 wons actuellement à 4 500 wons. Cette hausse correspond à la révision tarifaire annoncée par le comté d’Uljin et s’appliquera à compter du 19. Les habitants et les visiteurs utilisant un taxi à Uljin se verront appliquer le nouveau tarif de base à partir de cette date. Le comté a communiqué la hausse et sa date d’entrée en vigueur; le texte original ne précise pas d’autres détails sur les frais additionnels ou les ajustements. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أولجين ترفع أجرة التاكسي من 19 مايو والتعرفة الأساسية إلى 4500 وون",
+        "excerpt": "أعلنت مقاطعة أولجين في إقليم غيونغسانغ الشمالي يوم 9 أن أجور التاكسي سترتفع اعتبارا من 19 مايو، مع تعديل التعرفة الأساسية من 4000 إلى 4500 وون.",
+        "body": "أعلنت مقاطعة أولجين في إقليم غيونغسانغ الشمالي بكوريا الجنوبية يوم 9 أن أجور سيارات التاكسي المحلية سترتفع اعتبارا من 19 مايو. وبموجب هذا التعديل، سترتفع التعرفة الأساسية من 4000 وون حاليا إلى 4500 وون. يأتي رفع الأجرة وفقا لما أعلنته مقاطعة أولجين بشأن تعديل أجور التاكسي، على أن يبدأ التطبيق في 19 مايو. وسيطبق السعر الأساسي الجديد على السكان المحليين والزوار عند استخدام سيارات التاكسي في أولجين من ذلك التاريخ. أعلنت المقاطعة واقعة الزيادة وموعد التنفيذ، ولم يذكر النص الأصلي تفاصيل إضافية عن هيكل الرسوم أو تعديلات أخرى. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "उलजिन में 19 मई से टैक्सी किराया बढ़ेगा, बेस फेयर 4,500 वोन होगा",
+        "excerpt": "उत्तर ग्योंगसांग के उलजिन काउंटी ने 9 मई को कहा कि 19 मई से टैक्सी किराया बढ़ेगा और मूल किराया 4,000 वोन से 4,500 वोन किया जाएगा।",
+        "body": "दक्षिण कोरिया के उत्तर ग्योंगसांग प्रांत के उलजिन काउंटी ने 9 मई को घोषणा की कि स्थानीय टैक्सी किराया 19 मई से बढ़ाया जाएगा। इस बदलाव के तहत टैक्सी का मूल किराया मौजूदा 4,000 वोन से बढ़कर 4,500 वोन हो जाएगा। यह वृद्धि उलजिन काउंटी द्वारा घोषित टैक्सी किराया समायोजन के अनुसार लागू होगी और इसकी प्रभावी तिथि 19 मई है। उलजिन के निवासी और वहां आने वाले यात्री उस दिन से टैक्सी उपयोग पर संशोधित मूल किराया देंगे। काउंटी ने वृद्धि और लागू होने की तारीख बताई है; मूल रिपोर्ट में अतिरिक्त शुल्क ढांचे या अन्य विस्तृत बदलावों का उल्लेख नहीं है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Tarif Taksi Uljin Naik Mulai 19 Mei, Tarif Dasar Jadi 4.500 Won",
+        "excerpt": "Uljin County di Gyeongsang Utara menyatakan pada 9 Mei bahwa tarif taksi akan naik mulai 19 Mei, dengan tarif dasar disesuaikan dari 4.000 menjadi 4.500 won.",
+        "body": "Uljin County di Provinsi Gyeongsang Utara, Korea Selatan, mengumumkan pada 9 Mei bahwa tarif taksi setempat akan naik mulai 19 Mei. Dalam penyesuaian ini, tarif dasar taksi naik dari 4.000 won menjadi 4.500 won. Kenaikan tersebut mengikuti penyesuaian tarif taksi yang diumumkan oleh Uljin County, dengan waktu penerapan mulai 19 Mei. Warga setempat dan pengunjung yang menggunakan taksi di Uljin akan dikenai tarif dasar baru sejak tanggal tersebut. Pemerintah county telah menyampaikan kenaikan dan tanggal berlakunya; laporan asli tidak menyebutkan rincian tentang tarif tambahan atau penyesuaian lain. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9d7da430158f",
+    "slug": "전남도-지역혁신-선도기업-육성사업-국비-71억-확보-678667",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T19:01:55.268Z",
+    "updatedAt": "2026-05-09T19:01:55.268Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
+    "titleFingerprint": "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
+    "dedupKeys": [
+      "9d7da430158f252b49df2b4f0ba8fb0655ed0c72",
+      "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
+      "79eb7626dcc77a8defcd5e21e6ca67ca3d26273f"
+    ],
+    "imageUrl": "/images/articles/9d7da430158f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전남도, 지역혁신 선도기업 육성사업 선정…국비 71억 확보",
+        "excerpt": "전남도는 중소벤처기업부의 2026년 지역혁신선도기업육성 R&D 사업에 선정돼 국비 71억원을 확보했다고 연합뉴스가 보도했다.",
+        "body": "전남도는 중소벤처기업부가 추진하는 ‘2026년 지역혁신선도기업육성(R&D)’ 사업에 선정돼 국비 71억원을 확보했다. 이번 소식은 무안발 연합뉴스 보도로 전해졌으며, 형민우 기자는 전남도가 해당 사업 선정으로 지역 혁신 선도기업 육성에 필요한 국가 재원을 확보했다고 밝혔다. 이 사업은 명칭상 지역 혁신을 이끌 선도기업 육성을 위한 R&D 사업으로 소개됐다. 전남도는 확보한 국비 71억원을 바탕으로 선정 사업을 추진하게 된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Jeonnam Secures 7.1 Billion Won for Regional Innovation Leader Firms",
+        "excerpt": "Jeonnam Province was selected for the Ministry of SMEs and Startups’ 2026 Regional Innovation Leading Firms R&D program, securing 7.1 billion won in state funding.",
+        "body": "Jeonnam Province has secured 7.1 billion won in national funding after being selected for the Ministry of SMEs and Startups’ “2026 Regional Innovation Leading Firms Development (R&D)” program. The news was reported by Yonhap News Agency from Muan, with reporter Hyung Min-woo stating that the province obtained state resources needed to foster regional innovation-leading companies. The program was introduced as an R&D initiative aimed at developing firms that can lead regional innovation. Jeonnam Province will proceed with the selected project based on the 7.1 billion won in secured funding. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "全羅南道、地域革新先導企業育成事業に選定…国費71億ウォン確保",
+        "excerpt": "全羅南道は中小ベンチャー企業部の2026年地域革新先導企業育成R&D事業に選定され、国費71億ウォンを確保したと聯合ニュースが報じた。",
+        "body": "全羅南道は、中小ベンチャー企業部が進める「2026年地域革新先導企業育成（R&D）」事業に選定され、国費71億ウォンを確保した。今回の内容は務安発の聯合ニュース報道で伝えられ、ヒョン・ミンウ記者は、全羅南道が同事業への選定により地域革新を先導する企業の育成に必要な国家財源を確保したと報じた。この事業は、名称の通り地域革新を導く先導企業を育成するためのR&D事業として紹介された。全羅南道は確保した国費71億ウォンを基に、選定された事業を進めることになる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "全南道入选地区创新领军企业培育项目，获71亿韩元国费",
+        "excerpt": "据韩联社报道，全南道入选中小风险企业部2026年地区创新领军企业培育R&D项目，获得71亿韩元国费支持。",
+        "body": "全南道入选中小风险企业部推进的“2026年地区创新领军企业培育（R&D）”项目，获得71亿韩元国费。该消息由韩联社从务安报道，记者形民宇称，全南道通过此次项目入选， 확보了培育地区创新领军企业所需的国家财政资源。该项目按名称介绍为面向培育引领地区创新企业的R&D项目。全南道将以已 확보的71亿韩元国费为基础推进入选项目。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Jeonnam logra 7.100 millones de wones para firmas líderes regionales",
+        "excerpt": "Jeonnam fue seleccionada para el programa R&D 2026 de empresas líderes en innovación regional del Ministerio de Pymes y Startups y obtuvo 7.100 millones de wones.",
+        "body": "La provincia de Jeonnam obtuvo 7.100 millones de wones en fondos estatales tras ser seleccionada para el programa “Desarrollo de Empresas Líderes en Innovación Regional 2026 (R&D)” del Ministerio de Pymes y Startups. La información fue difundida por Yonhap News Agency desde Muan, y el reportero Hyung Min-woo señaló que la provincia aseguró recursos nacionales necesarios para fomentar empresas que lideren la innovación regional. El programa fue presentado como una iniciativa de R&D para desarrollar compañías líderes en innovación regional. Jeonnam impulsará el proyecto seleccionado con base en los 7.100 millones de wones asegurados. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Jeonnam garante 7,1 bilhões de won para empresas líderes regionais",
+        "excerpt": "Jeonnam foi selecionada para o programa de P&D 2026 de empresas líderes em inovação regional do Ministério das PMEs e Startups e obteve 7,1 bilhões de won.",
+        "body": "A província de Jeonnam garantiu 7,1 bilhões de won em recursos nacionais após ser selecionada para o programa “Desenvolvimento de Empresas Líderes em Inovação Regional 2026 (P&D)” do Ministério das PMEs e Startups. A informação foi divulgada pela Yonhap News Agency a partir de Muan, com o repórter Hyung Min-woo afirmando que a província assegurou recursos estatais necessários para fomentar empresas líderes em inovação regional. O programa foi apresentado como uma iniciativa de P&D voltada ao desenvolvimento de companhias que liderem a inovação regional. Jeonnam dará andamento ao projeto selecionado com base nos 7,1 bilhões de won garantidos. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Jeonnam erhält 7,1 Mrd. Won für regionale Innovationsführer",
+        "excerpt": "Jeonnam wurde für das R&D-Programm 2026 zur Förderung regionaler Innovationsführer des Ministeriums für KMU und Startups ausgewählt und sicherte 7,1 Mrd. Won.",
+        "body": "Die Provinz Jeonnam hat 7,1 Milliarden Won an staatlichen Mitteln gesichert, nachdem sie für das Programm „Förderung regionaler Innovationsführer 2026 (R&D)“ des Ministeriums für KMU und Startups ausgewählt wurde. Die Nachricht wurde von der Nachrichtenagentur Yonhap aus Muan gemeldet. Reporter Hyung Min-woo berichtete, dass die Provinz damit nationale Mittel erhalten habe, die für die Förderung von Unternehmen benötigt werden, die regionale Innovation anführen. Das Programm wurde als R&D-Initiative zur Entwicklung solcher führenden Unternehmen vorgestellt. Jeonnam wird das ausgewählte Projekt auf Grundlage der gesicherten 7,1 Milliarden Won vorantreiben. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Jeonnam obtient 7,1 milliards de wons pour les leaders régionaux",
+        "excerpt": "Jeonnam a été sélectionnée pour le programme R&D 2026 de développement des entreprises leaders de l’innovation régionale et obtient 7,1 milliards de wons.",
+        "body": "La province de Jeonnam a obtenu 7,1 milliards de wons de financement national après avoir été sélectionnée pour le programme « Développement des entreprises leaders de l’innovation régionale 2026 (R&D) » du ministère des PME et des Startups. L’information a été rapportée par Yonhap News Agency depuis Muan, le journaliste Hyung Min-woo indiquant que la province avait sécurisé les ressources publiques nécessaires pour soutenir des entreprises capables de mener l’innovation régionale. Le programme a été présenté comme une initiative de R&D destinée à développer ces entreprises leaders. Jeonnam poursuivra le projet sélectionné sur la base des 7,1 milliards de wons obtenus. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "جولا الجنوبية تؤمن 7.1 مليار وون لمشروع شركات الابتكار الإقليمي",
+        "excerpt": "اختيرت مقاطعة جولا الجنوبية لبرنامج 2026 للبحث والتطوير الخاص بتنمية الشركات الرائدة في الابتكار الإقليمي، وحصلت على 7.1 مليار وون.",
+        "body": "حصلت مقاطعة جولا الجنوبية على 7.1 مليار وون من التمويل الحكومي بعد اختيارها لبرنامج “تنمية الشركات الرائدة في الابتكار الإقليمي لعام 2026 (R&D)” الذي تنفذه وزارة الشركات الصغيرة والمتوسطة والناشئة. ونقلت وكالة يونهاب للأنباء الخبر من موآن، حيث ذكر الصحفي هيونغ مين-وو أن المقاطعة أمنت موارد وطنية لازمة لتنمية الشركات التي تقود الابتكار الإقليمي. وقد عُرض البرنامج بوصفه مبادرة بحث وتطوير مخصصة لتطوير هذه الشركات الرائدة. وستواصل جولا الجنوبية تنفيذ المشروع المختار استنادا إلى التمويل البالغ 7.1 مليار وون. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "जिओननाम को क्षेत्रीय नवाचार अग्रणी कंपनियों के लिए 7.1 अरब वॉन",
+        "excerpt": "जिओननाम प्रांत को SMEs और Startups मंत्रालय के 2026 क्षेत्रीय नवाचार अग्रणी कंपनी विकास R&D कार्यक्रम में चुना गया और 7.1 अरब वॉन मिले।",
+        "body": "जिओननाम प्रांत को SMEs और Startups मंत्रालय के “2026 क्षेत्रीय नवाचार अग्रणी कंपनी विकास (R&D)” कार्यक्रम के लिए चुने जाने के बाद 7.1 अरब वॉन की राष्ट्रीय निधि मिली है। यह समाचार मुआन से Yonhap News Agency ने दिया, जिसमें रिपोर्टर Hyung Min-woo ने कहा कि प्रांत ने क्षेत्रीय नवाचार का नेतृत्व करने वाली कंपनियों को विकसित करने के लिए आवश्यक राष्ट्रीय संसाधन सुरक्षित किए। कार्यक्रम को क्षेत्रीय नवाचार का नेतृत्व करने वाली कंपनियों के विकास के लिए R&D पहल के रूप में बताया गया। जिओननाम प्रांत सुरक्षित 7.1 अरब वॉन के आधार पर चयनित परियोजना आगे बढ़ाएगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Jeonnam Raih 7,1 Miliar Won untuk Perusahaan Inovasi Regional",
+        "excerpt": "Provinsi Jeonnam terpilih dalam program R&D 2026 pengembangan perusahaan pemimpin inovasi regional Kementerian UKM dan Startup, meraih 7,1 miliar won.",
+        "body": "Provinsi Jeonnam memperoleh 7,1 miliar won dana nasional setelah terpilih dalam program “Pengembangan Perusahaan Pemimpin Inovasi Regional 2026 (R&D)” dari Kementerian UKM dan Startup. Kabar ini dilaporkan Yonhap News Agency dari Muan, dengan reporter Hyung Min-woo menyebut bahwa provinsi tersebut mengamankan sumber daya negara yang dibutuhkan untuk membina perusahaan pemimpin inovasi regional. Program ini diperkenalkan sebagai inisiatif R&D untuk mengembangkan perusahaan yang memimpin inovasi regional. Jeonnam akan menjalankan proyek terpilih berdasarkan dana 7,1 miliar won yang telah diamankan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ce43cc7e7b20",
+    "slug": "부고-길기완한국-딜로이트-그룹-총괄대표씨-부친상-382674",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T19:01:03.771Z",
+    "updatedAt": "2026-05-09T19:01:03.772Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509029100002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509029100002",
+    "titleFingerprint": "e3fbb5f32753e63982387de1dc89bc710e3a3165",
+    "dedupKeys": [
+      "ce43cc7e7b20c7b7ed4c1f258bed5f26d0731f66",
+      "e3fbb5f32753e63982387de1dc89bc710e3a3165",
+      "5320d5660a8fd7fb1e762cf8c3349d055399f417"
+    ],
+    "imageUrl": "/images/articles/ce43cc7e7b20.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국 딜로이트 그룹 길기완 총괄대표 부친상, 길명섭씨 별세",
+        "excerpt": "연합뉴스 부고에 따르면 길기완 한국 딜로이트 그룹 총괄대표와 길기철 여의도 성모병원 산부인과 교수가 부친상를 당했다. 고인은 길명섭씨로 향년 90세다.",
+        "body": "연합뉴스 부고에 따르면 길명섭씨가 향년 90세로 별세했다. 고인은 고영희씨의 남편이며, 길기완 한국 딜로이트 그룹 총괄대표와 길기철 여의도 성모병원 산부인과 교수의 부친이다. 이번 부고는 재계와 의료계에 함께 알려진 가족상 소식이다. 원문에 공개된 내용은 고인의 별세 사실, 배우자와 자녀 관계, 주요 유족의 직함에 한정된다. 장례 일정이나 빈소 등 추가 정보는 원문 요약에 포함되지 않았다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "Deloitte Korea CEO Gil Gi-wan Mourns Father Gil Myeong-seop",
+        "excerpt": "According to Yonhap News Agency, Gil Gi-wan, CEO of Deloitte Korea, and Gil Gi-cheol, professor of obstetrics and gynecology at Yeouido St. Mary’s Hospital, have lost their father. Gil Myeong-seop died at 90.",
+        "body": "According to an obituary from Yonhap News Agency, Gil Myeong-seop has died at the age of 90. He was the husband of Ko Young-hee and the father of Gil Gi-wan, CEO of Deloitte Korea, and Gil Gi-cheol, a professor of obstetrics and gynecology at Yeouido St. Mary’s Hospital. The notice is a family bereavement connected to figures in both business and medicine. The original summary states only the death, family relationships and the titles of the principal bereaved family members. Funeral schedule or mortuary details were not included in the provided summary. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "韓国デロイトのキル・ギワン総括代表、父キル・ミョンソプ氏が死去",
+        "excerpt": "聯合ニュースの訃報によると、韓国デロイトグループ総括代表のキル・ギワン氏と、汝矣島聖母病院産婦人科教授のキル・ギチョル氏が父を亡くした。故人はキル・ミョンソプ氏、享年90。",
+        "body": "聯合ニュースの訃報によると、キル・ミョンソプ氏が享年90で死去した。故人はコ・ヨンヒ氏の夫であり、韓国デロイトグループ総括代表のキル・ギワン氏、汝矣島聖母病院産婦人科教授のキル・ギチョル氏の父にあたる。今回の訃報は、財界と医療界の関係者に関わる家族の喪失として伝えられた。原文の要約で確認できる内容は、死去の事実、配偶者と子どもとの関係、主な遺族の肩書に限られる。葬儀日程や斎場などの追加情報は含まれていない。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "韩国德勤集团总负责人吉基完父亲吉明燮去世",
+        "excerpt": "据韩联社讣告，韩国德勤集团总负责人吉基完和汝矣岛圣母医院妇产科教授吉基哲遭遇父丧。逝者为吉明燮，享年90岁。",
+        "body": "据韩联社讣告，吉明燮去世，享年90岁。逝者是高英姬的丈夫，也是韩国德勤集团总负责人吉基完、汝矣岛圣母医院妇产科教授吉基哲的父亲。此次讣告涉及商界和医疗界人士的家庭丧事。原文摘要披露的信息限于逝者去世事实、配偶及子女关系，以及主要遗属的职务身份。关于葬礼日程、灵堂地点等进一步信息，所提供的原文摘要中未包含。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "Gil Gi-wan, CEO de Deloitte Corea, lamenta la muerte de su padre",
+        "excerpt": "Según una esquela de Yonhap, Gil Gi-wan, CEO de Deloitte Corea, y Gil Gi-cheol, profesor de obstetricia y ginecología en el Hospital St. Mary’s de Yeouido, perdieron a su padre. Gil Myeong-seop murió a los 90 años.",
+        "body": "Según una esquela de la agencia Yonhap, Gil Myeong-seop falleció a los 90 años. Era esposo de Ko Young-hee y padre de Gil Gi-wan, CEO de Deloitte Corea, y de Gil Gi-cheol, profesor de obstetricia y ginecología en el Hospital St. Mary’s de Yeouido. La noticia corresponde a un duelo familiar vinculado a figuras del ámbito empresarial y médico. El resumen original informa únicamente el fallecimiento, las relaciones familiares y los cargos de los principales deudos. No se incluyeron datos adicionales sobre el calendario funerario ni el lugar del velatorio. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Gil Gi-wan, CEO da Deloitte Coreia, perde o pai Gil Myeong-seop",
+        "excerpt": "Segundo obituário da Yonhap, Gil Gi-wan, CEO da Deloitte Coreia, e Gil Gi-cheol, professor de obstetrícia e ginecologia no Hospital St. Mary’s de Yeouido, perderam o pai. Gil Myeong-seop morreu aos 90 anos.",
+        "body": "Segundo obituário da agência Yonhap, Gil Myeong-seop morreu aos 90 anos. Ele era marido de Ko Young-hee e pai de Gil Gi-wan, CEO da Deloitte Coreia, e de Gil Gi-cheol, professor de obstetrícia e ginecologia no Hospital St. Mary’s de Yeouido. A nota trata de um luto familiar ligado a nomes dos setores empresarial e médico. O resumo original informa apenas o falecimento, as relações familiares e os cargos dos principais familiares enlutados. Detalhes sobre cerimônia, local do velório ou programação funerária não foram incluídos no resumo fornecido. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Deloitte-Korea-Chef Gil Gi-wan trauert um Vater Gil Myeong-seop",
+        "excerpt": "Laut einer Todesanzeige von Yonhap haben Gil Gi-wan, CEO von Deloitte Korea, und Gil Gi-cheol, Professor für Geburtshilfe und Gynäkologie am Yeouido St. Mary’s Hospital, ihren Vater verloren. Gil Myeong-seop starb im Alter von 90 Jahren.",
+        "body": "Laut einer Todesanzeige der Nachrichtenagentur Yonhap ist Gil Myeong-seop im Alter von 90 Jahren gestorben. Er war der Ehemann von Ko Young-hee und der Vater von Gil Gi-wan, CEO von Deloitte Korea, sowie von Gil Gi-cheol, Professor für Geburtshilfe und Gynäkologie am Yeouido St. Mary’s Hospital. Die Meldung betrifft einen familiären Trauerfall mit Bezug zu Persönlichkeiten aus Wirtschaft und Medizin. Die ursprüngliche Zusammenfassung nennt nur den Todesfall, die Familienbeziehungen und die Funktionen der wichtigsten Hinterbliebenen. Angaben zu Trauerfeier, Ort oder Zeitplan waren nicht enthalten. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Gil Gi-wan, patron de Deloitte Corée, endeuillé par la mort de son père",
+        "excerpt": "Selon un avis de décès de Yonhap, Gil Gi-wan, PDG de Deloitte Corée, et Gil Gi-cheol, professeur d’obstétrique-gynécologie à l’hôpital St. Mary’s de Yeouido, ont perdu leur père. Gil Myeong-seop est décédé à 90 ans.",
+        "body": "Selon un avis de décès de l’agence Yonhap, Gil Myeong-seop est décédé à l’âge de 90 ans. Il était l’époux de Ko Young-hee et le père de Gil Gi-wan, PDG de Deloitte Corée, ainsi que de Gil Gi-cheol, professeur d’obstétrique-gynécologie à l’hôpital St. Mary’s de Yeouido. Cette annonce concerne un deuil familial lié à des personnalités des milieux économique et médical. Le résumé original mentionne uniquement le décès, les liens familiaux et les fonctions des principaux proches endeuillés. Aucun détail sur les obsèques, le lieu de recueillement ou le calendrier funéraire n’y figure. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "غيل غي وان رئيس ديلويت كوريا ينعى والده غيل ميونغ سيوب",
+        "excerpt": "بحسب نعي نشرته وكالة يونهاب، فقد غيل غي وان، الرئيس التنفيذي لمجموعة ديلويت كوريا، وغيل غي تشول، أستاذ النساء والتوليد في مستشفى يويدو سانت ماري، والدهما. توفي غيل ميونغ سيوب عن 90 عاما.",
+        "body": "بحسب نعي وكالة يونهاب، توفي غيل ميونغ سيوب عن عمر ناهز 90 عاما. وكان الراحل زوج كو يونغ هي، ووالد غيل غي وان، الرئيس التنفيذي لمجموعة ديلويت كوريا، وغيل غي تشول، أستاذ النساء والتوليد في مستشفى يويدو سانت ماري. يتعلق الخبر بحالة وفاة عائلية مرتبطة بشخصيتين في مجالي الأعمال والطب. يقتصر ملخص النص الأصلي على ذكر الوفاة، وصلة القرابة بالزوجة والأبناء، والمناصب الرئيسية لأفراد الأسرة المفجوعة. ولم يتضمن الملخص معلومات إضافية عن موعد الجنازة أو مكان العزاء. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "डेलॉयट कोरिया प्रमुख गिल गी-वान के पिता गिल म्योंग-सोप का निधन",
+        "excerpt": "योनहाप की शोक सूचना के अनुसार, डेलॉयट कोरिया समूह के सीईओ गिल गी-वान और येओइदो सेंट मैरी अस्पताल के प्रसूति एवं स्त्री रोग प्रोफेसर गिल गी-चोल के पिता का निधन हो गया। गिल म्योंग-सोप 90 वर्ष के थे।",
+        "body": "योनहाप समाचार एजेंसी की शोक सूचना के अनुसार, गिल म्योंग-सोप का 90 वर्ष की आयु में निधन हो गया। वे को यंग-ही के पति और डेलॉयट कोरिया समूह के सीईओ गिल गी-वान तथा येओइदो सेंट मैरी अस्पताल के प्रसूति एवं स्त्री रोग प्रोफेसर गिल गी-चोल के पिता थे। यह सूचना व्यापार और चिकित्सा क्षेत्र से जुड़े परिवार के शोक का समाचार है। मूल सारांश में केवल निधन, पारिवारिक संबंधों और प्रमुख शोकाकुल परिजनों के पदों का उल्लेख है। अंतिम संस्कार की तिथि, स्थान या अन्य विवरण दिए गए सारांश में शामिल नहीं हैं। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "CEO Deloitte Korea Gil Gi-wan Berduka atas Wafatnya Sang Ayah",
+        "excerpt": "Menurut berita duka Yonhap, Gil Gi-wan, CEO Deloitte Korea, dan Gil Gi-cheol, profesor obstetri dan ginekologi di Rumah Sakit St. Mary’s Yeouido, kehilangan ayah mereka. Gil Myeong-seop wafat pada usia 90 tahun.",
+        "body": "Menurut berita duka dari Yonhap, Gil Myeong-seop wafat pada usia 90 tahun. Almarhum adalah suami Ko Young-hee serta ayah dari Gil Gi-wan, CEO Deloitte Korea, dan Gil Gi-cheol, profesor obstetri dan ginekologi di Rumah Sakit St. Mary’s Yeouido. Kabar ini merupakan duka keluarga yang berkaitan dengan tokoh di bidang bisnis dan medis. Ringkasan asli hanya memuat informasi tentang wafatnya almarhum, hubungan keluarga, serta jabatan anggota keluarga utama yang berduka. Rincian mengenai jadwal pemakaman atau tempat persemayaman tidak tercantum dalam ringkasan yang diberikan. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
     "id": "6086b471d518",
     "slug": "세계-식량가격지수-석-달-연속-올라곡물유지류육류-상승-385889",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Kasus Merkuri di Minuman China: Pelaku Bukan Gerai, Melainkan Pacar",
         "excerpt": "Seorang perempuan China yang menuding jaringan milk tea terkenal memasukkan merkuri ke minumannya kemudian mengetahui bahwa pelakunya adalah sang pacar, lapor mk.co.kr mengutip SCMP pada 9 Mei.",
         "body": "Seorang perempuan di China mengaku bahwa merkuri dimasukkan ke minumannya di sebuah jaringan milk tea terkenal, tetapi kemudian mengetahui bahwa pelakunya adalah pacarnya. Menurut South China Morning Post Hong Kong, yang dikutip mk.co.kr pada 9 Mei, perempuan itu awalnya mencurigai pihak gerai telah memasukkan merkuri ke minumannya. Namun perkembangan berikutnya menunjukkan bahwa tanggung jawab bukan berada pada toko, melainkan pada pacarnya. Kasus ini menarik perhatian karena semula tampak sebagai masalah keamanan minuman yang melibatkan waralaba besar, tetapi kemudian diketahui sebagai tindakan individu. Laporan tersebut diperkirakan kembali memicu perhatian terhadap keamanan konsumen dan kejahatan antarindividu di China. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "6cd4d92d1595",
-    "slug": "엘리베이터-안에서-위층-이웃-마주치자-20대가-한-짓-충격-558334",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T10:34:05.368Z",
-    "updatedAt": "2026-05-09T10:34:05.368Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042365",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042365",
-    "titleFingerprint": "69e9e6d3a762d81ae2ddbc1a72e16ca00bb75835",
-    "dedupKeys": [
-      "6cd4d92d1595c42ff1abab2b61fc25d64158a9b8",
-      "69e9e6d3a762d81ae2ddbc1a72e16ca00bb75835",
-      "d35de903b6c776fdc492ed4fc0694c489e1a095c"
-    ],
-    "imageUrl": "/images/articles/6cd4d92d1595.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대구 서구 엘리베이터서 위층 이웃 살해 혐의, 경찰 20대 체포해 층간소음 범행 추정",
-        "excerpt": "대구 서부경찰서는 9일 엘리베이터 안에서 위층 이웃을 흉기로 살해한 혐의로 20대 A씨를 붙잡아 조사 중이며, 층간소음 관련 범행으로 보고 구속영장을 신청할 방침이다.",
-        "body": "대구 서부경찰서는 9일 위층 이웃을 흉기로 살해한 혐의로 20대 A씨를 붙잡아 조사하고 있다고 밝혔다. 경찰에 따르면 A씨는 이날 오전 엘리베이터 안에서 위층에 사는 이웃과 마주친 뒤 흉기를 휘둘러 숨지게 한 혐의를 받는다. 경찰은 현재까지 파악한 정황을 토대로 층간소음 문제와 관련된 범행으로 추정하고 있다. 사건은 공동주택 내 이웃 간 갈등이 강력범죄로 이어진 사례로, 경찰 수사 결과에 따라 구체적인 범행 동기와 경위가 드러날 전망이다. 경찰은 조사를 이어간 뒤 A씨에 대해 구속영장을 신청할 방침이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Daegu Elevator Neighbor Killing: Police Arrest Man in 20s, Suspect Noise Dispute",
-        "excerpt": "Daegu Seobu Police said on the 9th they are questioning a man in his 20s accused of fatally stabbing an upstairs neighbor in an elevator, with an arrest warrant planned.",
-        "body": "Daegu Seobu Police said on the 9th that they had arrested and were questioning A, a man in his 20s, on suspicion of killing an upstairs neighbor with a weapon. According to police, A is accused of encountering the neighbor, who lived upstairs, inside an elevator that morning and attacking the person with a weapon, causing the victim’s death. Police believe, based on circumstances identified so far, that the case may be linked to an inter-floor noise dispute. The incident is being treated as a case in which conflict between residents of a shared housing building escalated into a violent crime. Further investigation is expected to clarify the motive and sequence of events. Police plan to seek an arrest warrant for A after questioning continues. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "大邱のエレベーターで上階住民殺害容疑、20代を逮捕し騒音トラブルと推定",
-        "excerpt": "大邱西部警察署は9日、エレベーター内で上階の住民を刃物で殺害した疑いで20代のA容疑者を逮捕し、階間騒音をめぐる犯行とみて調べている。",
-        "body": "大邱西部警察署は9日、上階の住民を刃物で殺害した疑いで20代のA容疑者を逮捕し、取り調べていると明らかにした。警察によると、A容疑者は同日午前、エレベーターの中で上階に住む隣人と遭遇した後、刃物を振るって死亡させた疑いが持たれている。警察はこれまでに把握した状況を基に、階間騒音問題に関連した犯行と推定している。この事件は集合住宅内の住民間トラブルが重大犯罪につながった事例として扱われており、今後の捜査で具体的な動機と経緯が明らかになる見通しだ。警察は取り調べを続けた後、A容疑者の逮捕状を請求する方針。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "大邱电梯内涉嫌杀害楼上邻居，警方逮捕20多岁男子并疑与楼层噪音有关",
-        "excerpt": "大邱西部警察署9日表示，已抓获并调查一名20多岁A某，其涉嫌在电梯内持凶器杀害楼上邻居，警方认为案件可能与楼层噪音纠纷有关。",
-        "body": "大邱西部警察署9日表示，已抓获一名20多岁的A某，并以涉嫌持凶器杀害楼上邻居对其展开调查。据警方称，A某涉嫌在当天上午于电梯内遇到住在楼上的邻居后，持凶器攻击对方并致其死亡。警方根据目前掌握的情况，推定该案可能与楼层噪音问题有关。该事件被视为共同住宅内邻里矛盾升级为严重暴力犯罪的案例，具体作案动机和经过有待后续调查进一步确认。警方表示，将继续调查，并计划对A某申请拘留令。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Crimen en ascensor en Daegu: detenido un joven por matar a vecino de arriba",
-        "excerpt": "La Policía de Daegu Seobu informó el día 9 que investiga a un hombre de unos 20 años acusado de matar con un arma blanca a un vecino del piso superior en un ascensor.",
-        "body": "La Policía de Daegu Seobu informó el día 9 que detuvo e investiga a A, un hombre de unos 20 años, bajo sospecha de matar con un arma blanca a un vecino que vivía en el piso superior. Según la policía, A se encontró esa mañana con el vecino dentro de un ascensor y presuntamente lo atacó con un arma, causándole la muerte. Los investigadores consideran, con base en las circunstancias conocidas hasta ahora, que el delito podría estar relacionado con un conflicto por ruido entre pisos. El caso se observa como un ejemplo de disputa vecinal en una vivienda colectiva que terminó en un delito grave. La investigación deberá aclarar el motivo concreto y la secuencia de los hechos. La policía planea solicitar una orden de arresto contra A tras continuar el interrogatorio. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Caso em elevador em Daegu: jovem é detido por suspeita de matar vizinho de cima",
-        "excerpt": "A Polícia de Daegu Seobu informou no dia 9 que investiga um homem na casa dos 20 anos suspeito de matar com arma branca um vizinho do andar superior dentro de um elevador.",
-        "body": "A Polícia de Daegu Seobu informou no dia 9 que deteve e está interrogando A, um homem na casa dos 20 anos, por suspeita de matar com uma arma branca um vizinho que morava no andar superior. Segundo a polícia, A teria encontrado o vizinho naquela manhã dentro de um elevador e o atacado com a arma, causando sua morte. Com base nas circunstâncias apuradas até agora, a polícia acredita que o crime possa estar ligado a um conflito por ruído entre andares. O caso é tratado como uma situação em que uma disputa entre moradores de um prédio residencial evoluiu para crime grave. A investigação deve esclarecer o motivo específico e a sequência dos fatos. A polícia pretende pedir um mandado de prisão contra A após dar continuidade ao interrogatório. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Tötung im Aufzug in Daegu: Polizei nimmt Mann in den 20ern nach Nachbarangriff fest",
-        "excerpt": "Die Polizei Daegu Seobu teilte am 9. mit, dass sie einen Mann in den 20ern wegen des Verdachts befragt, einen Nachbarn aus dem oberen Stockwerk im Aufzug erstochen zu haben.",
-        "body": "Die Polizei Daegu Seobu teilte am 9. mit, sie habe A, einen Mann in den 20ern, festgenommen und befrage ihn wegen des Verdachts, einen Nachbarn aus dem oberen Stockwerk mit einer Waffe getötet zu haben. Nach Angaben der Polizei traf A den Nachbarn am Morgen in einem Aufzug und soll ihn anschließend mit einer Waffe angegriffen haben, woraufhin das Opfer starb. Auf Grundlage der bisher bekannten Umstände vermutet die Polizei einen Zusammenhang mit einem Streit über Lärm zwischen Stockwerken. Der Fall gilt als Beispiel dafür, dass ein Konflikt zwischen Bewohnern eines Mehrfamilienhauses in ein schweres Gewaltverbrechen umschlug. Die weiteren Ermittlungen sollen Motiv und Ablauf klären. Die Polizei will nach der Befragung einen Haftbefehl gegen A beantragen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Meurtre dans un ascenseur à Daegu: un homme d’une vingtaine d’années arrêté",
-        "excerpt": "La police de Daegu Seobu a annoncé le 9 enquêter sur un homme d’une vingtaine d’années soupçonné d’avoir tué à l’arme blanche un voisin de l’étage supérieur dans un ascenseur.",
-        "body": "La police de Daegu Seobu a annoncé le 9 avoir arrêté et interroger A, un homme d’une vingtaine d’années, soupçonné d’avoir tué avec une arme blanche un voisin qui vivait à l’étage supérieur. Selon la police, A aurait croisé ce voisin le matin même dans un ascenseur, puis l’aurait attaqué avec l’arme, entraînant sa mort. D’après les circonstances établies à ce stade, les enquêteurs estiment que les faits pourraient être liés à un différend concernant le bruit entre étages. L’affaire est traitée comme un cas où un conflit entre résidents d’un immeuble collectif a dégénéré en crime violent. La suite de l’enquête doit préciser le mobile et le déroulement exact des faits. La police prévoit de demander un mandat d’arrêt contre A après la poursuite de l’interrogatoire. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جريمة داخل مصعد في دايغو: توقيف شاب بالعشرينات للاشتباه بقتل جار يسكن في الطابق الأعلى",
-        "excerpt": "قالت شرطة دايغو الغربية في 9 مايو إنها تحقق مع شاب في العشرينات يشتبه في قتله جاراً من الطابق الأعلى بسلاح أبيض داخل مصعد، وترى أن الحادث قد يرتبط بضوضاء بين الطوابق.",
-        "body": "أعلنت شرطة دايغو الغربية في 9 مايو أنها أوقفت شخصاً يدعى A في العشرينات من عمره وتحقق معه للاشتباه في قتله جاراً يسكن في الطابق الأعلى باستخدام سلاح أبيض. ووفقاً للشرطة، يشتبه في أن A التقى الجار صباح ذلك اليوم داخل مصعد، ثم هاجمه بالسلاح، ما أدى إلى وفاته. وترى الشرطة، استناداً إلى الملابسات التي تم التحقق منها حتى الآن، أن الجريمة قد تكون مرتبطة بمشكلة ضوضاء بين الطوابق. وتتعامل السلطات مع الحادثة بوصفها حالة تصاعد فيها خلاف بين سكان مبنى سكني مشترك إلى جريمة عنف خطيرة. ومن المتوقع أن توضح التحقيقات اللاحقة الدافع المحدد وتسلسل الوقائع. وتعتزم الشرطة طلب مذكرة توقيف بحق A بعد استكمال التحقيق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "डेगू के लिफ्ट हत्याकांड में 20 वर्षीय आरोपी गिरफ्तार, ऊपर रहने वाले पड़ोसी की हत्या का संदेह",
-        "excerpt": "डेगू सेओबू पुलिस ने 9 मई को बताया कि वह 20 वर्ष से अधिक उम्र के A से पूछताछ कर रही है, जिस पर लिफ्ट में ऊपर रहने वाले पड़ोसी की धारदार हथियार से हत्या का आरोप है।",
-        "body": "डेगू सेओबू पुलिस ने 9 मई को बताया कि उसने 20 वर्ष से अधिक उम्र के A को पकड़ा है और ऊपर रहने वाले पड़ोसी की धारदार हथियार से हत्या के संदेह में उससे पूछताछ कर रही है। पुलिस के अनुसार, A पर आरोप है कि उसने उसी सुबह लिफ्ट के अंदर ऊपर रहने वाले पड़ोसी से सामना होने के बाद हथियार से हमला किया, जिससे उसकी मौत हो गई। अब तक सामने आई परिस्थितियों के आधार पर पुलिस इसे मंजिलों के बीच शोर से जुड़े विवाद से संबंधित अपराध मान रही है। यह मामला साझा आवासीय इमारत में पड़ोसियों के बीच विवाद के गंभीर हिंसक अपराध में बदलने के रूप में देखा जा रहा है। आगे की जांच से घटना का ठोस कारण और क्रम स्पष्ट होने की उम्मीद है। पुलिस पूछताछ जारी रखने के बाद A के खिलाफ गिरफ्तारी वारंट के लिए आवेदन करने की योजना बना रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pembunuhan di Lift Daegu: Pria 20-an Ditangkap, Polisi Duga Terkait Kebisingan Antar-Lantai",
-        "excerpt": "Kepolisian Daegu Seobu pada 9 Mei menyatakan sedang memeriksa pria berusia 20-an, A, yang diduga membunuh tetangga lantai atas dengan senjata tajam di dalam lift.",
-        "body": "Kepolisian Daegu Seobu pada 9 Mei menyatakan telah menangkap dan memeriksa A, pria berusia 20-an, atas dugaan membunuh tetangga yang tinggal di lantai atas dengan senjata tajam. Menurut polisi, A diduga bertemu dengan tetangga tersebut di dalam lift pada pagi hari itu, lalu menyerangnya dengan senjata hingga korban meninggal. Berdasarkan keadaan yang telah diketahui sejauh ini, polisi menduga kasus tersebut berkaitan dengan masalah kebisingan antar-lantai. Peristiwa ini dipandang sebagai contoh konflik antartetangga di hunian bersama yang berkembang menjadi kejahatan berat. Penyelidikan lanjutan diperkirakan akan menjelaskan motif dan kronologi secara lebih rinci. Polisi berencana mengajukan surat perintah penahanan terhadap A setelah pemeriksaan berlanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d15367665bb7",
-    "slug": "충남이-무서워-기리고-살목지-흥행에-뜨는-호러-배경지-260331",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T10:32:46.587Z",
-    "updatedAt": "2026-05-09T10:32:46.587Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12042366",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12042366",
-    "titleFingerprint": "d7ae9702efa91412b2a7dd267f3b0adef1bcb8ee",
-    "dedupKeys": [
-      "d15367665bb77b7771e58fc7e189dafe76b3685c",
-      "d7ae9702efa91412b2a7dd267f3b0adef1bcb8ee",
-      "91ba72dbc75af1375c20dbcab64235a8229a7451"
-    ],
-    "imageUrl": "/images/articles/d15367665bb7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "충남 호러 촬영지 주목, ‘기리고’·‘살목지’ 흥행이 만든 스크린 투어리즘",
-        "excerpt": "최근 흥행한 영화 ‘기리고’와 ‘살목지’가 충남 홍성군 폐교와 예산군 살목지를 배경으로 알려지며 호러 팬들의 방문 관심을 키우고 있다.",
-        "body": "최근 흥행에 성공한 영화 ‘기리고’와 ‘살목지’가 충남 지역 호러 배경지에 대한 관심을 끌고 있다. ‘기리고’는 충남 홍성군의 폐교에서 촬영된 작품으로 알려졌고, ‘살목지’는 예산군 살목지를 따라가는 이른바 귀신 성지순례형 관심과 맞물려 주목받고 있다. 두 작품의 공통점은 영화 속 장소가 관객의 실제 방문 욕구로 이어지는 스크린 투어리즘 흐름을 보여준다는 점이다. 지역 공간이 공포 장르의 분위기와 결합하면서 충남의 새로운 영화 배경지 이미지도 부각되고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Chungnam Horror Locations Gain Attention as ‘Girigo’ and ‘Salmokji’ Draw Fans",
-        "excerpt": "The recent box-office success of ‘Girigo’ and ‘Salmokji’ is drawing attention to a closed school in Hongseong and Salmokji in Yesan as horror screen-tourism sites.",
-        "body": "The recent success of the films ‘Girigo’ and ‘Salmokji’ is putting horror filming locations in South Chungcheong Province in the spotlight. ‘Girigo’ is known to have been filmed at a closed school in Hongseong County, while ‘Salmokji’ is linked to visits following the site in Yesan County, drawing attention from fans interested in ghost-themed pilgrimages. What the two works share is a screen-tourism pattern in which places shown in films create a desire among viewers to visit them in person. As local spaces combine with the atmosphere of the horror genre, Chungnam is also emerging as a notable setting for horror films. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "忠南のホラー撮影地に注目、『キリゴ』と『サルモク池』ヒットで巡礼需要",
-        "excerpt": "最近ヒットした映画『キリゴ』と『サルモク池』により、忠南洪城郡の廃校と礼山郡のサルモク池がホラーのスクリーンツーリズム先として関心を集めている。",
-        "body": "最近ヒットした映画『キリゴ』と『サルモク池』が、忠清南道地域のホラー背景地への関心を高めている。『キリゴ』は忠南洪城郡の廃校で撮影された作品として知られ、『サルモク池』は礼山郡のサルモク池をたどる、いわゆる幽霊の聖地巡礼型の関心と結びついて注目されている。両作品に共通するのは、映画に登場した場所が観客の実際の訪問意欲につながるスクリーンツーリズムの流れを示している点だ。地域空間がホラーというジャンルの雰囲気と結びつき、忠南の新たな映画背景地としてのイメージも浮上している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "忠南恐怖片取景地受关注，《Girigo》《Salmokji》带动银幕旅游",
-        "excerpt": "近期走红的电影《Girigo》和《Salmokji》让忠南洪城郡废校与礼山郡Salmokji受到关注，成为恐怖片粉丝的银幕旅游目的地。",
-        "body": "近期取得票房成功的电影《Girigo》和《Salmokji》正在带动外界对忠清南道恐怖片背景地的关注。《Girigo》被认为是在忠南洪城郡一所废校拍摄的作品，而《Salmokji》则与前往礼山郡Salmokji的所谓“鬼怪圣地巡礼”式兴趣相连。两部作品的共同点在于，电影中的场所正在转化为观众现实中的到访意愿，呈现出银幕旅游的趋势。随着地方空间与恐怖类型片氛围结合，忠南作为新的电影背景地形象也逐渐凸显。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Chungnam gana foco como escenario de terror tras el éxito de ‘Girigo’ y ‘Salmokji’",
-        "excerpt": "El éxito reciente de ‘Girigo’ y ‘Salmokji’ dirige la atención a una escuela cerrada de Hongseong y a Salmokji, en Yesan, como destinos de turismo cinematográfico de terror.",
-        "body": "El reciente éxito de las películas ‘Girigo’ y ‘Salmokji’ está atrayendo interés hacia escenarios de terror en la provincia surcoreana de Chungcheong del Sur. ‘Girigo’ es conocida por haberse filmado en una escuela cerrada del condado de Hongseong, mientras que ‘Salmokji’ se vincula con visitas al lugar de Yesan, en una tendencia cercana a las peregrinaciones de temática fantasmal. Lo que comparten ambas obras es que los lugares mostrados en pantalla están despertando el deseo de los espectadores de visitarlos en persona. Al combinar espacios locales con la atmósfera del género de terror, Chungnam también gana presencia como nuevo escenario cinematográfico. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Chungnam vira foco do terror com ‘Girigo’ e ‘Salmokji’ impulsionando turismo de tela",
-        "excerpt": "O sucesso recente de ‘Girigo’ e ‘Salmokji’ chama atenção para uma escola fechada em Hongseong e para Salmokji, em Yesan, como destinos de turismo cinematográfico de terror.",
-        "body": "O sucesso recente dos filmes ‘Girigo’ e ‘Salmokji’ está aumentando o interesse por locações de terror na província sul-coreana de Chungcheong do Sul. ‘Girigo’ é conhecido por ter sido filmado em uma escola fechada no condado de Hongseong, enquanto ‘Salmokji’ está ligado a visitas ao local em Yesan, dentro de uma tendência de peregrinação a pontos associados a fantasmas. O ponto comum entre as duas obras é que os lugares vistos nos filmes estão levando espectadores a querer visitá-los pessoalmente. Ao unir espaços locais à atmosfera do gênero de terror, Chungnam também passa a se destacar como novo cenário cinematográfico. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Chungnam als Horror-Drehort im Fokus: ‘Girigo’ und ‘Salmokji’ befeuern Filmtourismus",
-        "excerpt": "Der jüngste Erfolg von ‘Girigo’ und ‘Salmokji’ lenkt den Blick auf eine geschlossene Schule in Hongseong und Salmokji in Yesan als Ziele für Horror-Filmtourismus.",
-        "body": "Der jüngste Erfolg der Filme ‘Girigo’ und ‘Salmokji’ rückt Horror-Schauplätze in der südkoreanischen Provinz Süd-Chungcheong in den Mittelpunkt. ‘Girigo’ ist dafür bekannt, in einer geschlossenen Schule im Kreis Hongseong gedreht worden zu sein, während ‘Salmokji’ mit Besuchen am gleichnamigen Ort im Kreis Yesan verbunden wird, die an eine Art Geister-Pilgerreise erinnern. Gemeinsam zeigen beide Werke einen Trend des Screen Tourism: Orte aus Filmen wecken bei Zuschauern den Wunsch, sie real zu besuchen. Durch die Verbindung lokaler Räume mit der Atmosphäre des Horrorgenres gewinnt Chungnam auch als neuer Filmschauplatz an Profil. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Chungnam attire les fans d’horreur avec ‘Girigo’ et ‘Salmokji’ en lieux de tournage",
-        "excerpt": "Le succès récent de ‘Girigo’ et ‘Salmokji’ met en lumière une école fermée de Hongseong et Salmokji, à Yesan, comme destinations de tourisme cinématographique d’horreur.",
-        "body": "Le succès récent des films ‘Girigo’ et ‘Salmokji’ attire l’attention sur des décors d’horreur situés dans la province sud-coréenne du Chungcheong du Sud. ‘Girigo’ est connu pour avoir été tourné dans une école fermée du district de Hongseong, tandis que ‘Salmokji’ est associé à des visites du site de Yesan, dans une logique proche d’un pèlerinage lié aux fantômes. Le point commun des deux œuvres est de montrer comment des lieux vus à l’écran peuvent susciter chez les spectateurs l’envie de s’y rendre réellement. En associant des espaces locaux à l’atmosphère du genre horrifique, Chungnam renforce aussi son image de nouveau décor de cinéma. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مواقع الرعب في تشونغنام تبرز بعد نجاح ‘Girigo’ و‘Salmokji’",
-        "excerpt": "يسلط النجاح الأخير لفيلمي ‘Girigo’ و‘Salmokji’ الضوء على مدرسة مغلقة في هونغسونغ وموقع سالموكجي في ييسان كوجهتين لسياحة الشاشة لمحبي الرعب.",
-        "body": "أدى النجاح الأخير لفيلمي ‘Girigo’ و‘Salmokji’ إلى زيادة الاهتمام بمواقع الرعب في مقاطعة تشونغتشيونغ الجنوبية في كوريا الجنوبية. ويُعرف أن ‘Girigo’ صُوّر في مدرسة مغلقة في مقاطعة هونغسونغ، بينما يرتبط ‘Salmokji’ بزيارات إلى موقع سالموكجي في مقاطعة ييسان، ضمن اهتمام يشبه رحلات زيارة أماكن مرتبطة بالأشباح. والقاسم المشترك بين العملين هو أن الأماكن التي تظهر في الفيلم تحفز رغبة الجمهور في زيارتها فعليا، بما يعكس اتجاه سياحة الشاشة. ومع امتزاج المساحات المحلية بأجواء نوع الرعب، تبرز تشونغنام أيضا كخلفية سينمائية جديدة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "‘Girigo’ और ‘Salmokji’ की सफलता से Chungnam के हॉरर लोकेशन चर्चा में",
-        "excerpt": "हालिया सफल फिल्मों ‘Girigo’ और ‘Salmokji’ ने Hongseong की बंद स्कूल लोकेशन और Yesan के Salmokji को हॉरर स्क्रीन टूरिज्म स्थलों के रूप में ध्यान में ला दिया है।",
-        "body": "हाल में सफल रहीं फिल्मों ‘Girigo’ और ‘Salmokji’ ने दक्षिण कोरिया के South Chungcheong Province में हॉरर पृष्ठभूमि वाले स्थानों को चर्चा में ला दिया है। ‘Girigo’ के बारे में बताया गया है कि इसकी शूटिंग Hongseong County के एक बंद स्कूल में हुई, जबकि ‘Salmokji’ Yesan County के Salmokji स्थल पर जाने की रुचि से जुड़ती है, जिसे भूत-थीम वाली तीर्थयात्रा जैसा ध्यान मिल रहा है। दोनों फिल्मों की समानता यह है कि पर्दे पर दिखे स्थान दर्शकों में वहां वास्तविक रूप से जाने की इच्छा पैदा कर रहे हैं। स्थानीय जगहों के हॉरर शैली के माहौल से जुड़ने के साथ Chungnam एक नए फिल्मी पृष्ठभूमि स्थल के रूप में भी उभर रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lokasi Horor Chungnam Disorot Berkat Sukses ‘Girigo’ dan ‘Salmokji’",
-        "excerpt": "Kesuksesan terbaru film ‘Girigo’ dan ‘Salmokji’ membuat sekolah terbengkalai di Hongseong dan Salmokji di Yesan menarik perhatian sebagai destinasi wisata layar bertema horor.",
-        "body": "Kesuksesan terbaru film ‘Girigo’ dan ‘Salmokji’ menarik perhatian pada lokasi berlatar horor di Provinsi Chungcheong Selatan, Korea Selatan. ‘Girigo’ diketahui difilmkan di sebuah sekolah yang sudah ditutup di Kabupaten Hongseong, sementara ‘Salmokji’ terkait dengan minat mengunjungi lokasi Salmokji di Kabupaten Yesan, menyerupai ziarah bertema hantu. Kesamaan kedua karya ini adalah tempat yang muncul di film mendorong keinginan penonton untuk datang langsung, menunjukkan tren screen tourism. Saat ruang lokal berpadu dengan atmosfer genre horor, Chungnam juga mulai menonjol sebagai latar film baru. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "358272502e16",
-    "slug": "美-서부-넘어-韓유럽까지-진출지역-항공사-꼬리표-뗀-알래스카항공-여행人터뷰-189202",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T10:31:42.288Z",
-    "updatedAt": "2026-05-09T10:31:42.289Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12042367",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12042367",
-    "titleFingerprint": "ca6b9e71997f6f0c3dcbd409ca7f7743c0cb8650",
-    "dedupKeys": [
-      "358272502e16aafb2d0fadd5a2b6d2da0c630c71",
-      "ca6b9e71997f6f0c3dcbd409ca7f7743c0cb8650",
-      "fa996a8f8e32cce990b967a17cb32201c57d9a38"
-    ],
-    "imageUrl": "/images/articles/358272502e16.jpg",
-    "i18n": {
-      "ko": {
-        "title": "알래스카항공 한국·유럽 확장 본격화…하와이안항공 합병으로 지역 항공사 꼬리표 뗀 전략",
-        "excerpt": "알렉스 저슨 알래스카항공 전무는 하와이안항공 합병과 국제선 운영 노하우를 바탕으로 한국·유럽 진출, 한식 기내식, 한국어 승무원 배치, 브랜드 인지도 제고에 집중한다고 밝혔다.",
-        "body": "알래스카항공이 미국 서부 중심의 지역 항공사 이미지를 넘어 한국과 유럽으로 네트워크를 넓히는 전략에 속도를 내고 있다. 알렉스 저슨 알래스카항공 전무는 인터뷰에서 하와이안항공 합병을 통해 국제선 운영 경험과 노하우를 확보했고, 이를 바탕으로 장거리 노선 경쟁력을 키우겠다고 설명했다. 한국 시장 공략을 위해서는 한식 기내식 도입과 한국어를 구사하는 승무원 배치를 진행하고 있다. 회사는 단순 노선 확대보다 네트워크 확장과 브랜드 인지도 제고를 핵심 과제로 보고 있다. 미 서부를 넘어 인천과 유럽까지 연결 범위를 넓히는 행보가 알래스카항공의 정체성 전환을 보여준다는 평가다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Alaska Airlines pushes Korea and Europe expansion after Hawaiian deal sheds regional label",
-        "excerpt": "Alaska Airlines executive Alex Judson said the carrier is using Hawaiian Airlines merger know-how to expand into Korea and Europe, add Korean meals and Korean-speaking crew, and raise brand awareness.",
-        "body": "Alaska Airlines is accelerating a strategy to move beyond its West Coast regional image and expand its network into Korea and Europe. In an interview, executive Alex Judson said the merger with Hawaiian Airlines gave the company international operating experience and know-how, which it plans to use to strengthen long-haul competitiveness. For the Korean market, Alaska Airlines is working on Korean in-flight meals and placing crew members who speak Korean. The company sees network expansion and stronger brand awareness as core priorities, not just route additions. Its move beyond the U.S. West to Incheon and Europe signals a shift in Alaska Airlines’ identity. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "アラスカ航空、韓国・欧州展開を本格化…ハワイアン航空統合で地域航空の枠を超える戦略",
-        "excerpt": "アラスカ航空のアレックス・ジャドソン上級幹部は、ハワイアン航空統合で得た国際線運航ノウハウを基に韓国・欧州へ拡大し、韓国食機内食や韓国語対応乗務員を進めると述べた。",
-        "body": "アラスカ航空は、米西部中心の地域航空会社というイメージを超え、韓国と欧州へネットワークを広げる戦略を加速している。アレックス・ジャドソン上級幹部はインタビューで、ハワイアン航空との統合により国際線運航の経験とノウハウを確保し、長距離路線の競争力強化に活用すると説明した。韓国市場に向けては、韓国料理の機内食導入と韓国語を話す客室乗務員の配置を進めている。同社は単なる路線拡大ではなく、ネットワーク拡張とブランド認知度向上を重点課題に据える。米西部を越え仁川や欧州へ広がる動きは、アラスカ航空の位置づけの変化を示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "阿拉斯加航空加速布局韩国和欧洲，借夏威夷航空合并摆脱区域航司标签",
-        "excerpt": "阿拉斯加航空高管亚历克斯·贾德森表示，公司将借助与夏威夷航空合并获得的国际线运营经验，推进韩国和欧洲布局，并引入韩餐机上餐与韩语乘务员。",
-        "body": "阿拉斯加航空正加快战略转型，试图摆脱以美国西部为中心的区域航空公司形象，将网络扩展至韩国和欧洲。公司高管亚历克斯·贾德森在采访中表示，与夏威夷航空合并让公司获得了国际航线运营经验和相关诀窍，并将以此提升长途航线竞争力。面向韩国市场，阿拉斯加航空正在推进韩式机上餐和会说韩语的乘务员配置。公司认为，重点不只是增加航线，而是扩大网络并提升品牌认知度。从美国西部延伸到仁川和欧洲的布局，显示阿拉斯加航空正在改变自身定位。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Alaska Airlines acelera expansión a Corea y Europa tras fusionarse con Hawaiian Airlines",
-        "excerpt": "Alex Judson, ejecutivo de Alaska Airlines, dijo que la aerolínea usará la experiencia internacional obtenida con Hawaiian Airlines para crecer en Corea y Europa, sumar comida coreana y tripulación en coreano.",
-        "body": "Alaska Airlines acelera una estrategia para dejar atrás su imagen de aerolínea regional centrada en el oeste de Estados Unidos y ampliar su red hacia Corea y Europa. En una entrevista, el ejecutivo Alex Judson explicó que la fusión con Hawaiian Airlines aportó experiencia y conocimiento en operaciones internacionales, recursos que la compañía quiere usar para reforzar su competitividad en rutas de largo radio. Para el mercado coreano, Alaska Airlines avanza en la incorporación de comida coreana a bordo y de tripulantes que hablan coreano. La empresa considera prioritario ampliar la red y elevar el reconocimiento de marca, más que solo añadir rutas. Su avance más allá del oeste estadounidense hacia Incheon y Europa marca un cambio de identidad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Alaska Airlines acelera expansão para Coreia e Europa após fusão com Hawaiian Airlines",
-        "excerpt": "Alex Judson, executivo da Alaska Airlines, disse que a empresa usará a experiência internacional obtida com a Hawaiian Airlines para avançar na Coreia e na Europa, com refeições coreanas e tripulação em coreano.",
-        "body": "A Alaska Airlines está acelerando uma estratégia para superar a imagem de companhia regional focada no oeste dos Estados Unidos e ampliar sua rede para a Coreia e a Europa. Em entrevista, o executivo Alex Judson afirmou que a fusão com a Hawaiian Airlines trouxe experiência e conhecimento em operações internacionais, que serão usados para fortalecer a competitividade em rotas de longa distância. Para o mercado coreano, a Alaska Airlines trabalha na oferta de refeições coreanas a bordo e na alocação de tripulantes que falam coreano. A companhia vê a expansão da rede e o aumento do reconhecimento da marca como prioridades centrais, além da simples abertura de rotas. O avanço para Incheon e Europa mostra uma mudança de identidade. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Alaska Airlines treibt Korea- und Europa-Expansion nach Hawaiian-Fusion voran",
-        "excerpt": "Alaska-Airlines-Manager Alex Judson sagte, die Airline nutze das internationale Know-how aus der Hawaiian-Fusion für Korea und Europa, koreanische Bordmenüs, koreanischsprachige Crews und mehr Markenbekanntheit.",
-        "body": "Alaska Airlines beschleunigt ihre Strategie, über das Image einer auf den Westen der USA konzentrierten Regionalfluggesellschaft hinauszuwachsen und das Netzwerk nach Korea und Europa auszudehnen. Manager Alex Judson sagte in einem Interview, die Fusion mit Hawaiian Airlines habe internationale Betriebserfahrung und Know-how gebracht, die nun die Wettbewerbsfähigkeit auf Langstrecken stärken sollen. Für den koreanischen Markt arbeitet Alaska Airlines an koreanischen Bordmahlzeiten und dem Einsatz koreanischsprachiger Flugbegleiter. Das Unternehmen sieht nicht nur neue Strecken, sondern vor allem Netzwerkausbau und höhere Markenbekanntheit als zentrale Aufgaben. Der Schritt über den US-Westen hinaus nach Incheon und Europa zeigt einen Identitätswandel. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Alaska Airlines accélère vers la Corée et l’Europe après la fusion avec Hawaiian",
-        "excerpt": "Alex Judson, dirigeant d’Alaska Airlines, a indiqué que la compagnie s’appuie sur le savoir-faire international issu de Hawaiian Airlines pour viser la Corée et l’Europe, avec repas coréens et équipages coréanophones.",
-        "body": "Alaska Airlines accélère une stratégie destinée à dépasser son image de compagnie régionale centrée sur l’ouest des États-Unis et à étendre son réseau vers la Corée et l’Europe. Dans une interview, le dirigeant Alex Judson a expliqué que la fusion avec Hawaiian Airlines avait apporté une expérience et un savoir-faire dans l’exploitation internationale, que la compagnie veut utiliser pour renforcer sa compétitivité sur les long-courriers. Pour le marché coréen, Alaska Airlines prépare des repas coréens à bord et le déploiement de personnels navigants parlant coréen. L’entreprise place l’expansion du réseau et la notoriété de marque au cœur de ses priorités. Son extension vers Incheon et l’Europe illustre un changement d’identité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ألاسكا إيرلاينز توسع حضورها نحو كوريا وأوروبا بعد صفقة هاوايian Airlines",
-        "excerpt": "قال أليكس جادسون، المسؤول التنفيذي في ألاسكا إيرلاينز، إن الشركة ستستفيد من خبرة التشغيل الدولي بعد الاندماج مع هاوايian Airlines للتوسع في كوريا وأوروبا وتقديم وجبات كورية وطاقم يتحدث الكورية.",
-        "body": "تسرع ألاسكا إيرلاينز استراتيجية تهدف إلى تجاوز صورتها كشركة طيران إقليمية تتركز في غرب الولايات المتحدة، وتوسيع شبكتها نحو كوريا وأوروبا. وقال المسؤول التنفيذي أليكس جادسون في مقابلة إن الاندماج مع هاوايian Airlines منح الشركة خبرة ومعرفة في تشغيل الرحلات الدولية، وستستخدم ذلك لتعزيز قدرتها التنافسية في الخطوط الطويلة. وبالنسبة إلى السوق الكورية، تعمل ألاسكا إيرلاينز على إدخال وجبات كورية على متن الطائرات وتعيين طواقم قادرة على التحدث بالكورية. وترى الشركة أن توسيع الشبكة ورفع الوعي بالعلامة التجارية هما أولوية، لا مجرد زيادة المسارات. ويظهر امتدادها من غرب الولايات المتحدة إلى إنتشون وأوروبا تحولا في هويتها. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अलास्का एयरलाइंस कोरिया और यूरोप विस्तार तेज, हवाईयन एयरलाइंस विलय से बदली रणनीति",
-        "excerpt": "अलास्का एयरलाइंस के अधिकारी एलेक्स जडसन ने कहा कि कंपनी हवाईयन एयरलाइंस विलय से मिली अंतरराष्ट्रीय संचालन विशेषज्ञता के आधार पर कोरिया और यूरोप में विस्तार, कोरियाई भोजन और कोरियाई बोलने वाले क्रू पर काम कर रही है।",
-        "body": "अलास्का एयरलाइंस अमेरिका के पश्चिमी क्षेत्र पर केंद्रित क्षेत्रीय एयरलाइन की छवि से आगे बढ़कर कोरिया और यूरोप तक अपना नेटवर्क फैलाने की रणनीति तेज कर रही है। एक साक्षात्कार में कार्यकारी एलेक्स जडसन ने कहा कि हवाईयन एयरलाइंस के साथ विलय से कंपनी को अंतरराष्ट्रीय मार्ग संचालन का अनुभव और जानकारी मिली है, जिसका उपयोग लंबी दूरी की उड़ानों की प्रतिस्पर्धा बढ़ाने में किया जाएगा। कोरियाई बाजार के लिए कंपनी कोरियाई इन-फ्लाइट भोजन और कोरियाई बोलने वाले केबिन क्रू की तैनाती पर काम कर रही है। कंपनी के लिए केवल मार्ग बढ़ाना नहीं, बल्कि नेटवर्क विस्तार और ब्रांड पहचान बढ़ाना मुख्य प्राथमिकता है। अमेरिका के पश्चिम से इंचियोन और यूरोप तक बढ़ता दायरा इसकी पहचान में बदलाव दिखाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Alaska Airlines perluas Korea dan Eropa usai merger Hawaiian, lepas label regional",
-        "excerpt": "Eksekutif Alaska Airlines Alex Judson mengatakan perusahaan memakai pengalaman internasional dari merger Hawaiian Airlines untuk ekspansi ke Korea dan Eropa, termasuk makanan Korea, kru berbahasa Korea, dan penguatan merek.",
-        "body": "Alaska Airlines mempercepat strategi untuk melampaui citra maskapai regional yang berpusat di wilayah barat Amerika Serikat dan memperluas jaringan ke Korea serta Eropa. Dalam wawancara, eksekutif Alex Judson menjelaskan bahwa merger dengan Hawaiian Airlines memberi pengalaman dan pengetahuan operasi internasional, yang akan digunakan untuk memperkuat daya saing rute jarak jauh. Untuk pasar Korea, Alaska Airlines sedang menyiapkan makanan Korea di dalam pesawat dan penempatan awak kabin yang dapat berbahasa Korea. Perusahaan menilai perluasan jaringan dan peningkatan pengenalan merek sebagai prioritas utama, bukan sekadar menambah rute. Langkah melampaui AS barat menuju Incheon dan Eropa menunjukkan perubahan identitas Alaska Airlines. Sumber: mk.co.kr"
       }
     }
   }
