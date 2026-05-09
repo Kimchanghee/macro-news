@@ -1,5 +1,230 @@
 [
   {
+    "id": "cde4c4b7742b",
+    "slug": "라벨갈이-신고했는데-포상금-3천만원-대리인에게행정심판-제기-753147",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T22:45:58.993Z",
+    "updatedAt": "2026-05-09T22:45:58.993Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508143200065",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508143200065",
+    "titleFingerprint": "ca5e978f52176c1ed525c40ed6d228c6ee225c60",
+    "dedupKeys": [
+      "cde4c4b7742bd51f13b4fc73ed42354587b09ecf",
+      "ca5e978f52176c1ed525c40ed6d228c6ee225c60",
+      "533160f84a2ca3f8ad6f7da6a2e363835c347c7f"
+    ],
+    "imageUrl": "/images/articles/cde4c4b7742b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "라벨갈이 신고 포상금 3천만원, 제보자 아닌 관세사에게 지급돼 논란",
+        "excerpt": "인천에서 원산지를 속여 판매하는 ‘라벨갈이’ 행위를 제보한 남성이 대리 신고를 맡은 관세사에게 포상금 3천만원이 지급되자 행정심판을 제기했다.",
+        "body": "인천에서 원산지를 속여 판매하는 이른바 ‘라벨갈이’ 행위를 제보한 남성이 자신이 아닌 대리 신고 관세사에게 포상금 3천만원이 지급됐다며 행정심판을 제기했다. 연합뉴스에 따르면 이 남성은 라벨갈이 정황을 제보했고, 실제 신고 업무는 관세사가 대신 맡았다. 이후 포상금 수령자가 관세사로 결정되면서 제보자는 포상금 지급 대상 판단에 이의를 제기한 것으로 전해졌다. 이번 사안은 원산지 허위 표시 제보와 대리 신고 과정에서 포상금 수령 주체를 둘러싼 분쟁으로 이어졌다. 출처: yna.co.kr 인용"
+      },
+      "en": {
+        "title": "Label-Switching Tip Reward of 30 Million Won Paid to Customs Broker Sparks Appeal",
+        "excerpt": "A man in Incheon who tipped off authorities about false country-of-origin labeling filed an administrative appeal after a 30 million won reward went to the customs broker who reported it for him.",
+        "body": "In Incheon, a man who reported alleged “label switching,” in which goods are sold with false country-of-origin information, has filed an administrative appeal after a 30 million won reward was paid not to him but to the customs broker who handled the report on his behalf. According to Yonhap News Agency, the man provided the tip on the suspected labeling violation, while the customs broker carried out the formal reporting process. When the reward recipient was determined to be the broker, the informant challenged the decision. The case has become a dispute over who should receive a reward when a tip is submitted through a representative. Source: yna.co.kr cited"
+      },
+      "ja": {
+        "title": "原産地偽装『ラベル替え』通報報奨金3000万ウォン、代行関税士に支給で審判",
+        "excerpt": "仁川で原産地を偽って販売する『ラベル替え』行為を情報提供した男性が、代行通報した関税士に報奨金3000万ウォンが支給され行政審判を起こした。",
+        "body": "仁川で原産地を偽って販売するいわゆる『ラベル替え』行為を情報提供した男性が、自分ではなく通報を代行した関税士に報奨金3000万ウォンが支給されたとして行政審判を申し立てた。聯合ニュースによると、この男性はラベル替えの疑いを情報提供し、実際の通報業務は関税士が代わりに行った。その後、報奨金の受取人が関税士と決定され、情報提供者は支給対象の判断に異議を唱えたという。今回の事案は、原産地虚偽表示の通報と代理手続きの過程で、報奨金の受給主体をめぐる争いとなった。出典: yna.co.kr 引用"
+      },
+      "zh": {
+        "title": "举报原产地“换标签”奖励3000万韩元给代理关税师引发申诉",
+        "excerpt": "仁川一名男子举报虚假标示原产地的“换标签”销售行为后，3000万韩元奖励金却支付给代为申报的关税师，遂提起行政审判。",
+        "body": "在仁川，一名男子举报将商品原产地虚假标示销售的所谓“换标签”行为后，因3000万韩元奖励金不是支付给本人，而是支付给代其申报的关税师，已提起行政审判。据韩联社报道，该男子提供了有关换标签嫌疑的线索，实际申报手续由关税师代为办理。随后奖励金领取人被认定为该关税师，举报人对奖励金支付对象的判断提出异议。此案围绕原产地虚假标示举报及代理申报过程中谁应领取奖励金产生争议。来源：yna.co.kr 引用"
+      },
+      "es": {
+        "title": "Recompensa por denunciar cambio de etiquetas fue pagada a agente aduanero",
+        "excerpt": "Un hombre de Incheon que informó sobre ventas con origen falso presentó un recurso administrativo después de que la recompensa de 30 millones de wones fuera al agente aduanero que denunció por él.",
+        "body": "En Incheon, un hombre que alertó sobre el llamado “cambio de etiquetas”, una práctica en la que se venden productos falseando su país de origen, presentó un recurso administrativo después de que una recompensa de 30 millones de wones fuera pagada no a él, sino al agente aduanero que tramitó la denuncia en su nombre. Según la agencia Yonhap, el hombre aportó la información sobre la presunta infracción y el agente aduanero realizó el procedimiento formal. Al determinarse que el beneficiario de la recompensa era el agente, el informante impugnó esa decisión. El caso derivó en una disputa sobre quién debe recibir el pago cuando la denuncia se presenta mediante un representante. Fuente: yna.co.kr citado"
+      },
+      "pt": {
+        "title": "Recompensa por denúncia de troca de rótulos vai a despachante e gera recurso",
+        "excerpt": "Um homem em Incheon que denunciou venda com falsa origem entrou com recurso administrativo após a recompensa de 30 milhões de wones ser paga ao despachante aduaneiro que fez a denúncia por ele.",
+        "body": "Em Incheon, um homem que informou autoridades sobre a chamada “troca de rótulos”, prática em que produtos são vendidos com falsa indicação de origem, entrou com recurso administrativo depois que uma recompensa de 30 milhões de wones foi paga não a ele, mas ao despachante aduaneiro que fez a denúncia em seu nome. Segundo a agência Yonhap, o homem forneceu a informação sobre a suspeita de irregularidade, enquanto o despachante realizou o procedimento formal. Quando o beneficiário da recompensa foi definido como o despachante, o informante contestou a decisão. O caso tornou-se uma disputa sobre quem deve receber a recompensa em denúncias feitas por representante. Fonte: yna.co.kr citado"
+      },
+      "de": {
+        "title": "30-Millionen-Won-Prämie für Etikettentausch-Hinweis geht an Zollagenten",
+        "excerpt": "Ein Mann aus Incheon, der falsche Herkunftskennzeichnung meldete, legte Verwaltungsbeschwerde ein, nachdem die Prämie von 30 Millionen Won an den Zollagenten gezahlt wurde, der für ihn meldete.",
+        "body": "In Incheon hat ein Mann Verwaltungsbeschwerde eingelegt, nachdem eine Prämie von 30 Millionen Won für seinen Hinweis auf sogenannten Etikettentausch nicht an ihn, sondern an den Zollagenten gezahlt wurde, der die Meldung in seinem Auftrag einreichte. Nach Angaben der Nachrichtenagentur Yonhap hatte der Mann den Verdacht auf Verkäufe mit falscher Herkunftsangabe gemeldet, während der Zollagent das formale Verfahren übernahm. Als der Agent als Empfänger der Prämie bestimmt wurde, focht der Hinweisgeber diese Entscheidung an. Der Fall entwickelte sich zu einem Streit darüber, wer bei einer über einen Vertreter eingereichten Meldung die Prämie erhalten soll. Quelle: yna.co.kr zitiert"
+      },
+      "fr": {
+        "title": "Prime de 30 millions de wons pour étiquetage frauduleux versée au mandataire",
+        "excerpt": "À Incheon, un homme ayant signalé une vente avec fausse origine a saisi la juridiction administrative après le versement de la prime de 30 millions de wons au courtier en douane mandaté.",
+        "body": "À Incheon, un homme qui avait signalé une pratique dite de “changement d’étiquette”, consistant à vendre des produits avec une fausse indication d’origine, a engagé une procédure administrative après qu’une prime de 30 millions de wons a été versée non pas à lui, mais au courtier en douane ayant déposé le signalement pour son compte. Selon l’agence Yonhap, l’homme a fourni l’information sur les soupçons d’infraction, tandis que le courtier a effectué la démarche officielle. Lorsque le bénéficiaire de la prime a été désigné comme étant le courtier, l’informateur a contesté cette décision. L’affaire porte sur l’attribution de la prime lorsqu’un signalement est déposé par un représentant. Source : yna.co.kr cité"
+      },
+      "ar": {
+        "title": "مكافأة بلاغ تغيير الملصقات البالغة 30 مليون وون تذهب إلى وسيط جمركي",
+        "excerpt": "في إنتشون، قدم رجل بلاغا عن بيع منتجات مع تزوير بلد المنشأ، ثم رفع طعنا إداريا بعدما صُرفت مكافأة قدرها 30 مليون وون للوسيط الجمركي الذي تولى البلاغ نيابة عنه.",
+        "body": "في إنتشون، رفع رجل أبلغ عن ما يعرف بتغيير الملصقات، أي بيع سلع مع تزوير بلد المنشأ، طعنا إداريا بعدما صُرفت مكافأة قدرها 30 مليون وون ليس له بل للوسيط الجمركي الذي تولى تقديم البلاغ نيابة عنه. ووفقا لوكالة يونهاب، قدم الرجل المعلومات عن الاشتباه في مخالفة تتعلق ببيان المنشأ، بينما نفذ الوسيط الجمركي إجراءات البلاغ الرسمية. وبعد تحديد الوسيط متلقيا للمكافأة، اعترض المبلغ على قرار جهة الصرف. وتحول الأمر إلى نزاع حول صاحب الحق في المكافأة عندما يتم تقديم البلاغ عبر ممثل. المصدر: yna.co.kr مقتبس"
+      },
+      "hi": {
+        "title": "लेबल बदलने की शिकायत पर 3 करोड़ वॉन इनाम एजेंट को, अपील दायर",
+        "excerpt": "इंचियोन में मूल देश छिपाकर बेचने की ‘लेबल बदलने’ की कार्रवाई की सूचना देने वाले व्यक्ति ने 3 करोड़ वॉन का इनाम अपनी जगह सीमा शुल्क एजेंट को मिलने पर प्रशासनिक अपील दायर की।",
+        "body": "इंचियोन में मूल देश को गलत बताकर सामान बेचने की कथित ‘लेबल बदलने’ की कार्रवाई की सूचना देने वाले एक व्यक्ति ने प्रशासनिक अपील दायर की है, क्योंकि 3 करोड़ वॉन का इनाम उसे नहीं बल्कि उसकी ओर से शिकायत दर्ज कराने वाले सीमा शुल्क एजेंट को दिया गया। योनहाप समाचार एजेंसी के अनुसार, व्यक्ति ने संदिग्ध लेबल बदलने की जानकारी दी थी और औपचारिक शिकायत प्रक्रिया एजेंट ने संभाली। बाद में इनाम पाने वाला व्यक्ति एजेंट तय किया गया, जिस पर मूल सूचना देने वाले ने आपत्ति जताई। यह मामला प्रतिनिधि के माध्यम से की गई शिकायत में इनाम पाने के अधिकार को लेकर विवाद बन गया है। स्रोत: yna.co.kr उद्धृत"
+      },
+      "id": {
+        "title": "Hadiah Laporan Ganti Label 30 Juta Won Dibayar ke Kuasa Pabean",
+        "excerpt": "Seorang pria di Incheon yang melaporkan penjualan dengan asal barang palsu mengajukan banding administratif setelah hadiah 30 juta won diberikan kepada kuasa pabean yang melapor atas namanya.",
+        "body": "Di Incheon, seorang pria yang memberi informasi tentang praktik “ganti label”, yaitu penjualan barang dengan keterangan negara asal yang dipalsukan, mengajukan banding administratif setelah hadiah 30 juta won dibayarkan bukan kepadanya, melainkan kepada kuasa pabean yang mengurus laporan atas namanya. Menurut Kantor Berita Yonhap, pria itu memberikan informasi mengenai dugaan pelanggaran label asal barang, sementara proses pelaporan formal dilakukan oleh kuasa pabean. Setelah penerima hadiah ditetapkan sebagai kuasa tersebut, pelapor mempersoalkan keputusan itu. Kasus ini menjadi sengketa mengenai siapa yang berhak menerima hadiah ketika laporan diajukan melalui perwakilan. Sumber: yna.co.kr dikutip"
+      }
+    }
+  },
+  {
+    "id": "e32bab33fc04",
+    "slug": "학회-갈-돈-없었다국제학회-발표-28-급감-736217",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T22:44:40.189Z",
+    "updatedAt": "2026-05-09T22:44:40.189Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508132600017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508132600017",
+    "titleFingerprint": "039c9bab1933a6fe593a127d41492ba7713c51d8",
+    "dedupKeys": [
+      "e32bab33fc0471d491827491bcb24f727074fba1",
+      "039c9bab1933a6fe593a127d41492ba7713c51d8",
+      "5f3d90824a9b8768670c96eb839e33eca23ad219"
+    ],
+    "imageUrl": "/images/articles/e32bab33fc04.jpg",
+    "i18n": {
+      "ko": {
+        "title": "R&D 예산 삭감 여파, 국제학회 발표 28% 급감…연구 현장 위축",
+        "excerpt": "R&D 예산 삭감 여파로 연구자들의 해외 학회 출장과 특허 활동이 줄고, 국제학회 발표가 28% 감소한 것으로 통계에서 나타났다.",
+        "body": "서울에서 연합뉴스가 보도한 통계에 따르면 R&D 예산 삭감 여파로 연구자들이 해외 학회 출장과 특허 활동 등을 실제로 줄인 것으로 나타났다. 특히 국제학회 발표는 28% 급감해 연구 현장의 대외 활동 위축이 수치로 확인됐다. 해외 학회 참여는 연구 성과 공유와 국제 교류의 주요 통로인 만큼, 발표 감소는 연구자들의 활동 범위 축소를 보여주는 지표로 해석된다. 예산 변화가 연구 현장의 출장, 발표, 특허 관련 활동에 직접 영향을 준 사례로 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "R&D Budget Cuts Hit Research: International Conference Presentations Drop 28%",
+        "excerpt": "Statistics show that after R&D budget cuts, researchers reduced overseas conference travel and patent activity, while international conference presentations fell 28%.",
+        "body": "According to statistics reported by Yonhap News Agency in Seoul, researchers reduced overseas conference travel, patent activity and related work in the aftermath of R&D budget cuts. International conference presentations fell sharply by 28%, confirming a contraction in researchers’ external activities. Overseas conferences are a key channel for sharing research results and maintaining international exchange, so the decline in presentations points to a narrower scope of activity for researchers. The figures highlight how budget changes affected travel, presentations and patent-related work in the research field. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "R&D予算削減の影響、国際学会発表が28%急減…研究現場に縮小感",
+        "excerpt": "R&D予算削減の影響で、研究者の海外学会出張や特許活動が減り、国際学会発表は28%減少したことが統計で示された。",
+        "body": "ソウル発の聯合ニュースが報じた統計によると、R&D予算削減の影響で、研究者は海外学会への出張や特許活動などを実際に減らしていた。特に国際学会での発表は28%急減し、研究現場の対外活動が縮小していることが数値で確認された。海外学会への参加は研究成果の共有と国際交流の主要な経路であるため、発表減少は研究者の活動範囲が狭まったことを示す指標といえる。予算変化が出張、発表、特許関連活動に直接影響した事例として注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "研发预算削减影响显现：国际学会发表减少28%，研究活动收缩",
+        "excerpt": "统计显示，受研发预算削减影响，研究人员减少海外学会出差和专利活动，国际学会发表数量下降28%。",
+        "body": "据韩联社首尔报道的统计，受研发预算削减影响，研究人员实际减少了海外学会出差、专利活动等。其中国际学会发表数量骤减28%，研究现场对外活动收缩已通过数据得到确认。海外学会参与是共享研究成果和开展国际交流的重要渠道，因此发表减少可被视为研究人员活动范围缩小的指标。相关数据表明，预算变化对研究领域的出差、发表以及专利相关活动产生了直接影响。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Recortes en I+D golpean la investigación: ponencias internacionales caen 28%",
+        "excerpt": "Las estadísticas muestran que, tras recortes en I+D, los investigadores redujeron viajes a congresos y actividades de patentes, y las ponencias internacionales bajaron 28%.",
+        "body": "Según estadísticas reportadas por Yonhap en Seúl, los recortes en el presupuesto de I+D llevaron a los investigadores a reducir viajes al extranjero para congresos, actividades de patentes y otras labores. En particular, las presentaciones en congresos internacionales cayeron un 28%, confirmando con cifras una contracción de la actividad externa del sector investigador. La participación en congresos internacionales es una vía clave para compartir resultados y sostener intercambios globales, por lo que la caída refleja un menor alcance de actividad. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Cortes em P&D afetam pesquisa: apresentações internacionais caem 28%",
+        "excerpt": "Estatísticas indicam que, após cortes no orçamento de P&D, pesquisadores reduziram viagens a conferências e atividades de patentes, enquanto apresentações internacionais caíram 28%.",
+        "body": "Segundo estatísticas divulgadas pela Yonhap em Seul, os cortes no orçamento de P&D levaram pesquisadores a reduzir viagens ao exterior para conferências, atividades de patentes e ações relacionadas. As apresentações em conferências internacionais caíram 28%, confirmando em números a retração das atividades externas no campo da pesquisa. A participação em eventos internacionais é um canal importante para compartilhar resultados e manter intercâmbio global, portanto a queda indica uma redução no alcance das atividades dos pesquisadores. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Forschungsbudget gekürzt: Internationale Konferenzbeiträge fallen um 28%",
+        "excerpt": "Statistiken zeigen: Nach Kürzungen im F&E-Budget reduzierten Forschende Auslandsreisen zu Konferenzen und Patentaktivitäten; internationale Beiträge sanken um 28%.",
+        "body": "Nach von Yonhap in Seoul berichteten Statistiken haben Forschende infolge von Kürzungen im F&E-Budget Auslandsreisen zu wissenschaftlichen Konferenzen, Patentaktivitäten und verwandte Tätigkeiten tatsächlich reduziert. Besonders deutlich war der Rückgang bei Präsentationen auf internationalen Konferenzen: Sie fielen um 28%. Damit wird die Einschränkung externer Forschungsaktivitäten zahlenmäßig sichtbar. Da internationale Konferenzen ein wichtiger Kanal für den Austausch von Forschungsergebnissen und globale Vernetzung sind, weist der Rückgang auf einen kleineren Aktionsradius hin. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Coupes dans la R&D: les présentations en congrès internationaux chutent de 28%",
+        "excerpt": "Des statistiques montrent qu’après les coupes budgétaires en R&D, les chercheurs ont réduit voyages à l’étranger et activités de brevets; les présentations internationales ont baissé de 28%.",
+        "body": "Selon des statistiques rapportées par Yonhap à Séoul, les coupes dans le budget de R&D ont conduit les chercheurs à réduire leurs déplacements à l’étranger pour des congrès, leurs activités liées aux brevets et d’autres démarches. Les présentations dans les congrès internationaux ont chuté de 28%, confirmant par les chiffres le recul des activités extérieures du milieu de la recherche. Les congrès internationaux étant un canal majeur de partage des résultats et d’échanges mondiaux, cette baisse indique un champ d’activité plus restreint pour les chercheurs. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "خفض ميزانيات البحث والتطوير يضغط على الباحثين: تراجع العروض الدولية 28%",
+        "excerpt": "أظهرت إحصاءات أن خفض ميزانيات البحث والتطوير دفع الباحثين إلى تقليص السفر للمؤتمرات والأنشطة المرتبطة بالبراءات، مع تراجع العروض الدولية 28%.",
+        "body": "بحسب إحصاءات نقلتها وكالة يونهاب من سيول، أدى خفض ميزانيات البحث والتطوير إلى تقليص الباحثين فعليا سفرهم إلى الخارج لحضور المؤتمرات، وأنشطتهم المتعلقة بالبراءات وغيرها من الأعمال. وتراجعت العروض في المؤتمرات الدولية بنسبة 28%، ما يؤكد بالأرقام انكماش النشاط الخارجي في ميدان البحث. وبما أن المؤتمرات الدولية قناة رئيسية لتبادل نتائج الأبحاث والتواصل العالمي، فإن هذا الانخفاض يشير إلى تضيق نطاق نشاط الباحثين. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "R&D बजट कटौती का असर: अंतरराष्ट्रीय सम्मेलन प्रस्तुतियां 28% घटीं",
+        "excerpt": "आंकड़ों के अनुसार R&D बजट कटौती के बाद शोधकर्ताओं ने विदेशी सम्मेलन यात्राएं और पेटेंट गतिविधियां घटाईं, जबकि अंतरराष्ट्रीय सम्मेलन प्रस्तुतियां 28% कम हुईं।",
+        "body": "सियोल से योनहाप की रिपोर्ट में दिए गए आंकड़ों के अनुसार, R&D बजट कटौती के असर से शोधकर्ताओं ने विदेशों में शैक्षणिक सम्मेलनों की यात्राएं, पेटेंट गतिविधियां और संबंधित काम वास्तव में कम किए। खास तौर पर अंतरराष्ट्रीय सम्मेलनों में प्रस्तुतियां 28% घट गईं, जिससे शोध क्षेत्र की बाहरी गतिविधियों में कमी आंकड़ों से स्पष्ट हुई। विदेशी सम्मेलन शोध परिणाम साझा करने और अंतरराष्ट्रीय आदान-प्रदान का प्रमुख माध्यम होते हैं, इसलिए प्रस्तुतियों में गिरावट शोधकर्ताओं की गतिविधि के दायरे के सिकुड़ने का संकेत देती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Pemangkasan Anggaran R&D Berdampak: Presentasi Konferensi Internasional Turun 28%",
+        "excerpt": "Statistik menunjukkan pemangkasan anggaran R&D membuat peneliti mengurangi perjalanan konferensi luar negeri dan aktivitas paten, sementara presentasi internasional turun 28%.",
+        "body": "Menurut statistik yang dilaporkan Yonhap dari Seoul, dampak pemangkasan anggaran R&D membuat para peneliti benar-benar mengurangi perjalanan ke luar negeri untuk konferensi, aktivitas paten, dan kegiatan terkait lainnya. Presentasi di konferensi internasional turun tajam 28%, sehingga penyusutan aktivitas eksternal di dunia riset terlihat jelas dalam angka. Partisipasi dalam konferensi luar negeri merupakan saluran utama untuk berbagi hasil penelitian dan pertukaran internasional, sehingga penurunan presentasi menunjukkan ruang gerak peneliti yang menyempit. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0ead9116bfe4",
+    "slug": "한글-표기가-곧-프리미엄-증표베트남-엄마들-지갑-열었다-권용훈의-직업불만족族-334340",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-09T22:43:48.991Z",
+    "updatedAt": "2026-05-09T22:43:48.991Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605083518i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605083518i",
+    "titleFingerprint": "f4222b220c73ec24a157212b2160f93c3b11854e",
+    "dedupKeys": [
+      "0ead9116bfe411f96f39450820e7d3b4659a2f96",
+      "f4222b220c73ec24a157212b2160f93c3b11854e",
+      "219f3f6f4679f8e47d1fe0d54e343f9c52728e7e"
+    ],
+    "imageUrl": "/images/articles/0ead9116bfe4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한글 표기 프리미엄 효과, 베트남 엄마 소비 움직인 이유",
+        "excerpt": "한국경제는 베트남 엄마들이 한글 표기를 프리미엄의 증표로 받아들이며 관련 제품 구매에 지갑을 열고 있다고 보도했다.",
+        "body": "한국경제 보도에 따르면 베트남의 엄마 소비자들은 제품에 적힌 한글 표기를 프리미엄의 증표로 받아들이며 구매에 나서고 있다. 기사 제목은 한글 표기가 현지 소비자에게 신뢰와 고급 이미지를 주는 요소로 작용하고 있음을 보여준다. 다만 제공된 원문 정보에는 구체적인 품목, 매출 수치, 조사 시점은 제시되지 않았다. 이번 보도는 한국어 표기와 한국 브랜드 이미지가 베트남 소비 시장에서 구매 판단에 영향을 줄 수 있음을 시사한다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Korean Labels Gain Premium Appeal as Vietnamese Mothers Spend",
+        "excerpt": "Hankyung reported that Vietnamese mothers are opening their wallets as Korean-language labels are viewed as a sign of premium value.",
+        "body": "According to Hankyung, Vietnamese mother consumers are buying products whose Korean-language labeling is perceived as a sign of premium quality. The headline indicates that Hangul on packaging is acting as a cue of trust and higher-end image among local consumers. The provided source information does not specify product categories, sales figures, or the exact reporting date. The report suggests that Korean wording and the image of Korean brands may influence purchase decisions in Vietnam’s consumer market. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ハングル表記がプレミアムの証しに、ベトナム母親層の財布動く",
+        "excerpt": "韓国経済は、ベトナムの母親層がハングル表記をプレミアムの証しと受け止め、関連商品の購入に動いていると報じた。",
+        "body": "韓国経済の報道によると、ベトナムの母親消費者は、商品に記されたハングル表記をプレミアムの証しと受け止め、購入に動いている。見出しは、ハングルが現地消費者に信頼感や高級なイメージを与える要素として働いていることを示している。ただし、提供された原文情報には具体的な品目、売上数値、調査時点は示されていない。今回の報道は、韓国語表記と韓国ブランドのイメージがベトナム消費市場の購買判断に影響し得ることを示唆する。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩文标识成高端信号，越南妈妈为何愿意买单",
+        "excerpt": "韩国经济报道称，越南妈妈群体将韩文标识视为高端品质的象征，并因此对相关产品打开钱包。",
+        "body": "据韩国经济报道，越南妈妈消费者正在购买带有韩文标识的产品，因为这些标识被视为高端品质的象征。标题显示，韩文在当地消费者眼中正成为传递信任感和高级形象的因素。不过，所提供的原文信息未列明具体品类、销售数据或报道时间。该报道表明，韩文标识与韩国品牌形象可能影响越南消费市场的购买判断。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Etiquetas en coreano atraen a madres vietnamitas como señal premium",
+        "excerpt": "Hankyung informó que las madres vietnamitas están comprando productos al ver las etiquetas en coreano como una señal de valor premium.",
+        "body": "Según Hankyung, las consumidoras vietnamitas que son madres están comprando productos cuya etiqueta en coreano se percibe como una señal de calidad premium. El titular muestra que el hangul funciona entre consumidores locales como un indicio de confianza y de imagen de gama alta. La información original proporcionada no precisa categorías de producto, cifras de ventas ni fecha exacta del reporte. La nota sugiere que el idioma coreano y la imagen de las marcas coreanas pueden influir en las decisiones de compra en Vietnam. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Rótulos em coreano viram sinal premium para mães vietnamitas",
+        "excerpt": "O Hankyung informou que mães vietnamitas estão comprando produtos ao associar rótulos em coreano a uma imagem de valor premium.",
+        "body": "Segundo o Hankyung, consumidoras vietnamitas que são mães estão comprando produtos com rótulos em coreano por percebê-los como sinal de qualidade premium. O título indica que o hangul atua, entre consumidores locais, como elemento de confiança e imagem mais sofisticada. As informações fornecidas do texto original não especificam categorias de produto, números de vendas nem a data exata da reportagem. A notícia sugere que a escrita coreana e a imagem das marcas coreanas podem influenciar decisões de compra no mercado consumidor do Vietnã. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Koreanische Schrift als Premiumsignal: Vietnams Mütter kaufen",
+        "excerpt": "Hankyung berichtete, dass vietnamesische Mütter Produkte mit koreanischer Beschriftung als Premiumsignal wahrnehmen und dafür Geld ausgeben.",
+        "body": "Laut Hankyung kaufen vietnamesische Mütter Produkte, deren koreanische Beschriftung als Zeichen für Premiumqualität wahrgenommen wird. Die Überschrift zeigt, dass Hangul bei lokalen Verbrauchern als Hinweis auf Vertrauen und ein höherwertiges Image wirkt. Die bereitgestellten Originalinformationen nennen jedoch keine konkreten Produktgruppen, Verkaufszahlen oder ein genaues Veröffentlichungsdatum. Der Bericht deutet darauf hin, dass koreanische Schrift und das Image koreanischer Marken Kaufentscheidungen im vietnamesischen Konsummarkt beeinflussen können. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le coréen sur les étiquettes séduit les mères vietnamiennes",
+        "excerpt": "Hankyung rapporte que des mères vietnamiennes achètent des produits dont l’étiquetage en coréen est perçu comme un signe premium.",
+        "body": "Selon Hankyung, des consommatrices vietnamiennes, en particulier des mères, achètent des produits dont l’étiquetage en coréen est perçu comme un signe de qualité premium. Le titre montre que le hangul agit auprès des consommateurs locaux comme un marqueur de confiance et d’image haut de gamme. Les informations fournies ne précisent toutefois ni les catégories de produits, ni les chiffres de ventes, ni la date exacte du reportage. Cette publication suggère que l’écriture coréenne et l’image des marques coréennes peuvent influencer les décisions d’achat au Vietnam. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الكتابة الكورية تصبح إشارة فاخرة تدفع أمهات فيتنام للشراء",
+        "excerpt": "ذكرت هانكيونغ أن أمهات فيتناميات يفتحن محافظهن لمنتجات تحمل كتابة كورية ينظرن إليها بوصفها علامة على القيمة الفاخرة.",
+        "body": "بحسب هانكيونغ، تتجه مستهلكات فيتناميات من الأمهات إلى شراء منتجات تحمل كتابة كورية، لأن هذه الكتابة تُعد لديهن إشارة إلى الجودة الفاخرة. ويظهر العنوان أن الهانغول يعمل لدى المستهلكين المحليين كعنصر يمنح الثقة والصورة الراقية. ولا تتضمن المعلومات الأصلية المقدمة تفاصيل عن نوع المنتجات أو أرقام المبيعات أو تاريخ النشر الدقيق. وتشير التغطية إلى أن اللغة الكورية وصورة العلامات الكورية قد تؤثران في قرارات الشراء داخل سوق الاستهلاك الفيتنامية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "कोरियाई लेबल बना प्रीमियम संकेत, वियतनामी माताओं ने खरीदा",
+        "excerpt": "Hankyung ने बताया कि वियतनाम की माताएं कोरियाई भाषा वाले लेबल को प्रीमियम संकेत मानकर संबंधित उत्पादों पर खर्च कर रही हैं।",
+        "body": "Hankyung के अनुसार, वियतनाम की मां उपभोक्ता उन उत्पादों को खरीद रही हैं जिन पर कोरियाई भाषा में लेबलिंग है, क्योंकि इसे प्रीमियम गुणवत्ता का संकेत माना जा रहा है। शीर्षक बताता है कि हंगुल स्थानीय उपभोक्ताओं के लिए भरोसे और उच्चस्तरीय छवि का संकेत बन रहा है। उपलब्ध मूल जानकारी में उत्पाद श्रेणी, बिक्री के आंकड़े या रिपोर्ट की सटीक तारीख नहीं दी गई है। यह रिपोर्ट संकेत देती है कि कोरियाई लिखावट और कोरियाई ब्रांड छवि वियतनाम के उपभोक्ता बाजार में खरीद निर्णयों को प्रभावित कर सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Label Korea Jadi Sinyal Premium, Ibu Vietnam Mulai Membeli",
+        "excerpt": "Hankyung melaporkan bahwa para ibu di Vietnam membuka dompet karena label berbahasa Korea dipandang sebagai tanda nilai premium.",
+        "body": "Menurut laporan Hankyung, konsumen ibu di Vietnam membeli produk yang mencantumkan label berbahasa Korea karena dianggap sebagai tanda kualitas premium. Judul tersebut menunjukkan bahwa Hangul berperan sebagai unsur yang memberi kesan tepercaya dan citra kelas atas bagi konsumen lokal. Informasi asli yang tersedia tidak menyebut kategori produk, angka penjualan, atau tanggal laporan secara rinci. Berita ini mengisyaratkan bahwa tulisan Korea dan citra merek Korea dapat memengaruhi keputusan pembelian di pasar konsumen Vietnam. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "fa215f28b4c6",
     "slug": "103억원어치-코인-팔아-집-산-30대연령대-중-최대-828473",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Strategi Penarikan Dana Pensiun Jadi Kunci Setelah Era Menabung",
         "excerpt": "Hankyung melaporkan bahwa pengelolaan aset setelah pensiun bergeser dari sekadar mengumpulkan dana ke cara dan waktu menarik aset.",
         "body": "Fokus pengelolaan aset setelah pensiun bergeser dari pertanyaan berapa banyak yang dikumpulkan menjadi bagaimana dana yang sudah terkumpul ditarik dan digunakan. Hankyung melaporkan dengan judul bahwa era mengumpulkan aset telah berakhir, dan keterampilan menarik dana setelah pensiun kini menjadi isu utama. Ringkasan asli tidak memuat angka khusus atau rincian produk, tetapi inti beritanya jelas: persiapan hari tua tidak hanya soal akumulasi aset, melainkan juga pengelolaan arus kas setelah pensiun. Pesannya, pensiunan dan calon pensiunan perlu mempertimbangkan biaya hidup, aset yang dimiliki, serta waktu penarikan secara bersamaan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "5765cee45ef5",
-    "slug": "주식-배울래요코스피-7000-넘자-불티나게-팔리는-게-600871",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T15:03:18.403Z",
-    "updatedAt": "2026-05-09T15:03:18.403Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050954597",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050954597",
-    "titleFingerprint": "48e6319c2d3d8f4da2fe0ab727b5f6b13129aedd",
-    "dedupKeys": [
-      "5765cee45ef58333d4aa9c3363b151edcfdade2c",
-      "48e6319c2d3d8f4da2fe0ab727b5f6b13129aedd",
-      "b56585b34a33e2d1f65833e046ff52bebf9f7889"
-    ],
-    "imageUrl": "/images/articles/5765cee45ef5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 돌파에 주식 학습 수요 급증, 입문 상품 판매 주목",
-        "excerpt": "한국경제 보도에 따르면 코스피가 7000선을 넘어서자 주식 투자를 배우려는 수요가 커지며 관련 입문 상품 판매가 빠르게 늘고 있다.",
-        "body": "코스피가 7000선을 넘어서면서 주식 투자를 새로 배우려는 관심이 커지고 있다. 한국경제는 \"주식 배울래요\"라는 반응과 함께 관련 입문 상품이 불티나게 팔리고 있다고 전했다. 이번 흐름은 증시 지수가 상징적 고점을 돌파한 뒤 투자 교육과 기초 학습 수요가 함께 부각된 사례다. 시장 참여자들의 관심이 단순 매매를 넘어 주식 공부로 확산되고 있다는 점에서 관련 소비 흐름도 주목된다. 다만 보도에 제시된 핵심 사실은 코스피 7000 돌파와 주식 학습 수요 증가, 관련 상품 판매 확대에 한정된다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KOSPI Tops 7,000 as Demand for Stock-Learning Products Surges",
-        "excerpt": "According to Hankyung, after the KOSPI moved above 7,000, more people sought to learn stock investing, lifting sales of related beginner products.",
-        "body": "As the KOSPI crossed the 7,000 mark, interest in learning how to invest in stocks increased. Hankyung reported rising demand under the phrase, \"I want to learn stocks,\" saying related beginner products were selling rapidly. The trend highlights how a symbolic market milestone can draw attention not only to trading but also to basic investment education. The report’s core facts are limited to the KOSPI exceeding 7,000, stronger demand for stock learning, and faster sales of related products. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KOSPI7000突破で株式学習需要が拡大、入門商品販売に注目",
-        "excerpt": "韓国経済によると、KOSPIが7000を超えた後、株式投資を学びたいという需要が高まり、関連する入門商品の販売が急増している。",
-        "body": "KOSPIが7000の節目を超え、株式投資を新たに学ぼうとする関心が高まっている。韓国経済は「株を学びたい」という反応とともに、関連する入門商品がよく売れていると報じた。今回の動きは、株価指数が象徴的な水準を突破した後、投資教育や基礎学習への需要も同時に浮上した事例だ。市場参加者の関心が単なる売買を超え、株式学習へ広がっている点で関連消費の流れも注目される。出典: hankyung.com。"
-      },
-      "zh": {
-        "title": "KOSPI突破7000点后股票学习需求升温，入门产品热销",
-        "excerpt": "据韩国经济报道，KOSPI突破7000点后，想学习股票投资的人增多，相关入门产品销售迅速上升。",
-        "body": "随着KOSPI突破7000点，重新学习股票投资的兴趣正在上升。韩国经济报道称，在“想学习股票”的反应下，相关入门产品出现热销。这一趋势显示，股指突破具有象征意义的高位后，投资教育和基础学习需求也同步受到关注。市场参与者的兴趣不只停留在交易本身，也扩展到股票学习，因此相关消费动向受到关注。不过报道的核心事实限于KOSPI突破7000点、股票学习需求增加以及相关产品销售扩大。来源: hankyung.com。"
-      },
-      "es": {
-        "title": "KOSPI supera los 7.000 puntos y crece la demanda para aprender bolsa",
-        "excerpt": "Según Hankyung, tras superar el KOSPI los 7.000 puntos, aumentó el interés por aprender inversión bursátil y se aceleraron las ventas de productos introductorios.",
-        "body": "El KOSPI superó la marca de 7.000 puntos y aumentó el interés por aprender a invertir en acciones. Hankyung informó que, bajo la reacción de “quiero aprender bolsa”, los productos introductorios relacionados se están vendiendo con rapidez. El movimiento muestra que, tras un hito simbólico del índice, también gana visibilidad la demanda de educación financiera básica. El interés de los participantes del mercado se extiende más allá de la compraventa hacia el aprendizaje bursátil. Los hechos centrales se limitan al KOSPI por encima de 7.000, mayor demanda de aprendizaje y ventas más fuertes de productos relacionados. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "KOSPI passa de 7.000 e impulsiona busca por aprender ações",
-        "excerpt": "Segundo o Hankyung, após o KOSPI superar 7.000 pontos, cresceu a procura por aprender investimento em ações e as vendas de produtos introdutórios avançaram rapidamente.",
-        "body": "Com o KOSPI acima de 7.000 pontos, aumentou o interesse de quem quer aprender a investir em ações. O Hankyung informou que, diante da reação “quero aprender ações”, produtos introdutórios relacionados estão vendendo rapidamente. O movimento mostra que a superação de um nível simbólico do índice também destacou a demanda por educação de investimento e aprendizado básico. A atenção dos participantes do mercado passa da simples negociação para o estudo sobre ações. Os fatos centrais do relato são KOSPI acima de 7.000, maior demanda por aprendizado e expansão das vendas relacionadas. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KOSPI über 7.000: Nachfrage nach Aktienwissen und Einsteigerprodukten steigt",
-        "excerpt": "Laut Hankyung wächst nach dem Anstieg des KOSPI über 7.000 Punkte das Interesse am Erlernen von Aktienanlage, wodurch verwandte Einsteigerprodukte schneller verkauft werden.",
-        "body": "Der KOSPI hat die Marke von 7.000 Punkten überschritten, und damit steigt das Interesse daran, Aktienanlage neu zu lernen. Hankyung berichtete, dass unter der Reaktion „Ich möchte Aktien lernen“ verwandte Einsteigerprodukte stark nachgefragt werden. Die Entwicklung zeigt, dass ein symbolischer Höchststand des Index nicht nur Handel, sondern auch Investmentbildung und Grundlagenwissen in den Fokus rückt. Das Interesse der Marktteilnehmer weitet sich damit auf Aktienlernen aus. Die zentralen Fakten bleiben: KOSPI über 7.000, steigende Lernnachfrage und höhere Verkäufe verwandter Produkte. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "KOSPI au-dessus de 7 000 : la demande pour apprendre la Bourse grimpe",
-        "excerpt": "Selon Hankyung, le passage du KOSPI au-dessus de 7 000 points a renforcé l’envie d’apprendre l’investissement en actions et stimulé les ventes de produits d’initiation.",
-        "body": "Le KOSPI a franchi le seuil des 7 000 points, faisant progresser l’intérêt pour l’apprentissage de l’investissement en actions. Hankyung rapporte que, face aux réactions du type « je veux apprendre la Bourse », les produits d’initiation liés se vendent rapidement. Ce mouvement montre qu’un niveau symbolique atteint par l’indice met aussi en avant la demande de formation et de connaissances de base en investissement. L’attention des acteurs du marché dépasse ainsi le simple trading. Les faits clés restent le KOSPI au-dessus de 7 000, la hausse de la demande d’apprentissage et l’augmentation des ventes associées. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "تجاوز كوسبي 7000 نقطة يرفع الطلب على تعلم الأسهم والمنتجات التمهيدية",
-        "excerpt": "بحسب هانكيونغ، أدى صعود مؤشر كوسبي فوق 7000 نقطة إلى زيادة الرغبة في تعلم الاستثمار في الأسهم وتسارع مبيعات المنتجات التمهيدية المرتبطة بذلك.",
-        "body": "بعد أن تجاوز مؤشر كوسبي مستوى 7000 نقطة، ازداد الاهتمام بتعلم الاستثمار في الأسهم. وذكرت هانكيونغ أن ردودا مثل \"أريد تعلم الأسهم\" ترافقت مع بيع سريع للمنتجات التمهيدية ذات الصلة. ويظهر هذا الاتجاه أن اختراق المؤشر مستوى رمزيا لا يلفت الانتباه إلى التداول فقط، بل يبرز أيضا الطلب على التعليم الاستثماري والمعرفة الأساسية. وبذلك يمتد اهتمام المشاركين في السوق إلى دراسة الأسهم. وتقتصر الحقائق الأساسية على تجاوز كوسبي 7000 نقطة، وزيادة الطلب على التعلم، وتوسع مبيعات المنتجات المرتبطة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KOSPI 7,000 के पार, शेयर सीखने की मांग और शुरुआती उत्पादों की बिक्री बढ़ी",
-        "excerpt": "Hankyung के अनुसार, KOSPI के 7,000 से ऊपर जाने के बाद शेयर निवेश सीखने की इच्छा बढ़ी और इससे जुड़े शुरुआती उत्पादों की बिक्री तेज हुई।",
-        "body": "KOSPI के 7,000 अंक के स्तर से ऊपर जाने के बाद शेयर निवेश सीखने में रुचि बढ़ी है। Hankyung ने बताया कि “मैं शेयर सीखना चाहता हूं” जैसी प्रतिक्रिया के साथ संबंधित शुरुआती उत्पाद तेजी से बिक रहे हैं। यह रुझान दिखाता है कि सूचकांक के प्रतीकात्मक स्तर पार करने के बाद ध्यान केवल खरीद-बिक्री पर नहीं, बल्कि निवेश शिक्षा और बुनियादी सीख पर भी गया है। बाजार प्रतिभागियों की रुचि शेयर अध्ययन तक फैल रही है। रिपोर्ट के मुख्य तथ्य KOSPI का 7,000 से ऊपर जाना, सीखने की मांग बढ़ना और संबंधित उत्पादों की बिक्री बढ़ना हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.000, Minat Belajar Saham dan Produk Pemula Melonjak",
-        "excerpt": "Menurut Hankyung, setelah KOSPI menembus 7.000, minat untuk belajar investasi saham meningkat dan penjualan produk pemula terkait ikut bergerak cepat.",
-        "body": "KOSPI menembus level 7.000, dan minat untuk belajar investasi saham ikut meningkat. Hankyung melaporkan bahwa respons seperti “saya ingin belajar saham” muncul bersamaan dengan larisnya produk pemula terkait. Tren ini menunjukkan bahwa setelah indeks melewati level simbolis, perhatian tidak hanya tertuju pada transaksi, tetapi juga pada pendidikan investasi dan pembelajaran dasar. Minat pelaku pasar meluas ke studi saham. Fakta utama dalam laporan ini terbatas pada KOSPI yang melewati 7.000, naiknya permintaan belajar saham, dan meningkatnya penjualan produk terkait. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "61a913ad006d",
-    "slug": "혈당-걱정에-단백질까지매일유업-셀렉스-당솔브-꺼냈다-323372",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T15:02:01.654Z",
-    "updatedAt": "2026-05-09T15:02:01.654Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605083080i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605083080i",
-    "titleFingerprint": "542226753c9b8bf19a072c829fae959632ddf8dc",
-    "dedupKeys": [
-      "61a913ad006d7e6d7e717363ad6670aa989c8c2e",
-      "542226753c9b8bf19a072c829fae959632ddf8dc",
-      "7abcd23c53bc68fc36c3c519e4497963d5e8cd11"
-    ],
-    "imageUrl": "/images/articles/61a913ad006d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "혈당 걱정과 단백질 수요 겨냥한 매일유업 셀렉스 ‘당솔브’ 출시",
-        "excerpt": "매일유업 셀렉스가 혈당 관리에 대한 소비자 관심과 단백질 섭취 수요를 함께 반영한 ‘당솔브’를 선보였다고 hankyung.com이 보도했다.",
-        "body": "매일유업 셀렉스가 혈당 걱정과 단백질 섭취 수요를 동시에 겨냥한 제품 ‘당솔브’를 내놨다. hankyung.com 보도 제목에 따르면 이번 제품은 혈당에 대한 소비자 관심이 커지는 흐름 속에서 단백질까지 함께 강조한 것이 핵심이다. 제공된 원문 요약에는 출시 시점, 성분, 가격, 판매 채널, 관련 수치 등 세부 정보가 제시되지 않았다. 따라서 이번 소식은 매일유업이 셀렉스 브랜드를 통해 혈당 관리 관심층과 단백질 보충 수요층을 함께 바라본 제품을 공개했다는 점에 초점을 둔다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Maeil Dairies’ Selex Targets Blood Sugar Concerns and Protein Demand With Dangsollve",
-        "excerpt": "Maeil Dairies’ Selex has introduced Dangsollve, a product reflecting consumer interest in blood sugar management and protein intake, hankyung.com reported.",
-        "body": "Maeil Dairies’ Selex has introduced Dangsollve, a product aimed at consumers concerned about blood sugar while also emphasizing protein. According to the headline reported by hankyung.com, the key point is that the product addresses rising interest in blood sugar concerns and adds a protein angle. The provided original summary does not include details such as launch timing, ingredients, price, sales channels, or related figures. This report therefore focuses only on the confirmed point that Maeil Dairies has presented a Selex product positioned around both blood sugar concern and protein demand. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "血糖値への不安とたんぱく質需要を狙う毎日乳業セレックス「ダンソルブ」",
-        "excerpt": "毎日乳業のセレックスが、血糖管理への関心とたんぱく質摂取需要を反映した「ダンソルブ」を投入したとhankyung.comが報じた。",
-        "body": "毎日乳業のセレックスが、血糖値への不安とたんぱく質摂取の需要を同時に意識した製品「ダンソルブ」を投入した。hankyung.comの報道見出しによると、今回の製品は血糖に対する消費者の関心が高まる流れの中で、たんぱく質まで前面に出した点が中心となる。提供された原文の要約には、発売時期、成分、価格、販売チャネル、関連数値などの詳細は示されていない。そのため本記事は、毎日乳業がセレックスブランドを通じて血糖管理への関心層とたんぱく質補給需要を見据えた製品を公開した点に絞る。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "每日乳业Selex推出“Dangsollve”，同时瞄准血糖担忧与蛋白需求",
-        "excerpt": "据hankyung.com报道，每日乳业Selex推出“Dangsollve”，反映消费者对血糖管理和蛋白质摄入的双重关注。",
-        "body": "每日乳业旗下Selex推出了面向血糖担忧和蛋白质摄入需求的产品“Dangsollve”。根据hankyung.com报道标题，此次产品的核心在于顺应消费者对血糖问题关注上升的趋势，同时强调蛋白质。所提供的原文摘要未列出上市时间、成分、价格、销售渠道或相关数据等细节。因此，本文仅聚焦已确认的信息：每日乳业通过Selex品牌公开了一款同时面向血糖管理关注人群和蛋白补充需求人群的产品。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Maeil Dairies Selex lanza Dangsollve para glucosa y demanda de proteína",
-        "excerpt": "Maeil Dairies Selex presentó Dangsollve, un producto que refleja el interés por el control de la glucosa y la ingesta de proteína, informó hankyung.com.",
-        "body": "Maeil Dairies Selex presentó Dangsollve, un producto orientado a consumidores preocupados por la glucosa en sangre y por la ingesta de proteína. Según el titular publicado por hankyung.com, el punto central es que el producto responde al creciente interés por la glucosa y, al mismo tiempo, pone el foco en la proteína. El resumen original proporcionado no incluye detalles sobre fecha de lanzamiento, ingredientes, precio, canales de venta ni cifras relacionadas. Por ello, esta nota se limita al dato confirmado: Maeil Dairies ha presentado, bajo la marca Selex, un producto posicionado para quienes buscan atender la preocupación por la glucosa y la demanda de proteína. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Maeil Dairies Selex lança Dangsollve para glicemia e demanda por proteína",
-        "excerpt": "A Selex, da Maeil Dairies, apresentou Dangsollve, produto ligado ao interesse por controle glicêmico e ingestão de proteína, informou hankyung.com.",
-        "body": "A Selex, da Maeil Dairies, apresentou Dangsollve, produto voltado a consumidores preocupados com a glicemia e também com a ingestão de proteína. Segundo o título publicado por hankyung.com, o ponto central é que o produto acompanha o aumento do interesse por questões de glicemia e acrescenta o apelo da proteína. O resumo original fornecido não traz detalhes sobre data de lançamento, ingredientes, preço, canais de venda ou números relacionados. Assim, esta notícia se concentra apenas no fato confirmado: a Maeil Dairies apresentou, por meio da marca Selex, um produto posicionado para públicos interessados em glicemia e suplementação de proteína. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Maeil Dairies Selex bringt Dangsollve für Blutzucker- und Proteinbedarf",
-        "excerpt": "Maeil Dairies Selex hat Dangsollve vorgestellt, ein Produkt für Interesse an Blutzuckerfragen und Proteinaufnahme, berichtete hankyung.com.",
-        "body": "Maeil Dairies Selex hat Dangsollve vorgestellt, ein Produkt, das sich an Verbraucher mit Blutzuckersorgen und Interesse an Proteinaufnahme richtet. Laut der von hankyung.com gemeldeten Überschrift liegt der Schwerpunkt darauf, dass das Produkt die wachsende Aufmerksamkeit für Blutzuckerfragen aufgreift und zugleich Protein betont. Die bereitgestellte Originalzusammenfassung enthält keine Details zu Einführungszeitpunkt, Inhaltsstoffen, Preis, Vertriebskanälen oder Kennzahlen. Daher konzentriert sich dieser Bericht auf den bestätigten Punkt: Maeil Dairies hat über die Marke Selex ein Produkt präsentiert, das sowohl Blutzuckerinteresse als auch Proteinnachfrage anspricht. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Maeil Dairies Selex lance Dangsollve pour glycémie et demande en protéines",
-        "excerpt": "Maeil Dairies Selex a présenté Dangsollve, un produit lié à l’intérêt pour la glycémie et l’apport en protéines, selon hankyung.com.",
-        "body": "Maeil Dairies Selex a présenté Dangsollve, un produit destiné aux consommateurs préoccupés par la glycémie tout en mettant l’accent sur les protéines. Selon le titre rapporté par hankyung.com, l’élément central est que le produit répond à l’intérêt croissant pour les questions de glycémie et ajoute une dimension liée aux protéines. Le résumé original fourni ne précise pas la date de lancement, les ingrédients, le prix, les canaux de vente ni les chiffres associés. Cet article se limite donc au fait confirmé: Maeil Dairies a présenté, via la marque Selex, un produit positionné à la fois sur la préoccupation glycémique et la demande en protéines. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ماييل ديريز سيليكس تطرح Dangsollve لمخاوف السكر وطلب البروتين",
-        "excerpt": "طرحت سيليكس التابعة لماييل ديريز منتج Dangsollve الذي يعكس الاهتمام بإدارة سكر الدم وتناول البروتين، وفق ما أورد hankyung.com.",
-        "body": "طرحت سيليكس التابعة لماييل ديريز منتج Dangsollve الموجه إلى المستهلكين المهتمين بمخاوف سكر الدم وبالحصول على البروتين. وبحسب عنوان التقرير المنشور في hankyung.com، فإن جوهر المنتج يتمثل في مواكبة الاهتمام المتزايد بسكر الدم مع إبراز جانب البروتين. ولا يتضمن الملخص الأصلي المقدم تفاصيل عن موعد الإطلاق أو المكونات أو السعر أو قنوات البيع أو أي أرقام ذات صلة. لذلك يركز هذا الخبر فقط على المعلومة المؤكدة: ماييل ديريز قدمت عبر علامة سيليكس منتجا يستهدف الاهتمام بإدارة سكر الدم والطلب على البروتين معا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Maeil Dairies Selex ने ब्लड शुगर चिंता और प्रोटीन मांग के लिए Dangsollve उतारा",
-        "excerpt": "hankyung.com के अनुसार Maeil Dairies Selex ने Dangsollve पेश किया, जो ब्लड शुगर प्रबंधन में रुचि और प्रोटीन सेवन की मांग को साथ रखता है।",
-        "body": "Maeil Dairies Selex ने Dangsollve पेश किया है, जो ब्लड शुगर को लेकर चिंतित उपभोक्ताओं और प्रोटीन सेवन की मांग को ध्यान में रखता है। hankyung.com की रिपोर्ट के शीर्षक के अनुसार, इस उत्पाद का मुख्य बिंदु ब्लड शुगर को लेकर बढ़ती उपभोक्ता रुचि के साथ प्रोटीन पर भी जोर देना है। उपलब्ध कराए गए मूल सारांश में लॉन्च का समय, सामग्री, कीमत, बिक्री चैनल या संबंधित आंकड़ों की जानकारी नहीं दी गई है। इसलिए यह खबर केवल पुष्टि की गई बात पर केंद्रित है: Maeil Dairies ने Selex ब्रांड के तहत ऐसा उत्पाद पेश किया है जो ब्लड शुगर प्रबंधन में रुचि रखने वालों और प्रोटीन की मांग रखने वालों, दोनों को संबोधित करता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Maeil Dairies Selex Hadirkan Dangsollve untuk Gula Darah dan Protein",
-        "excerpt": "Maeil Dairies Selex memperkenalkan Dangsollve, produk yang mencerminkan minat pada pengelolaan gula darah dan asupan protein, lapor hankyung.com.",
-        "body": "Maeil Dairies Selex memperkenalkan Dangsollve, produk yang ditujukan bagi konsumen yang memperhatikan gula darah sekaligus kebutuhan asupan protein. Menurut judul laporan hankyung.com, inti produk ini adalah menanggapi meningkatnya perhatian terhadap isu gula darah sambil menonjolkan unsur protein. Ringkasan asli yang diberikan tidak memuat rincian seperti waktu peluncuran, bahan, harga, kanal penjualan, atau angka terkait. Karena itu, berita ini berfokus pada informasi yang terkonfirmasi: Maeil Dairies melalui merek Selex telah memperkenalkan produk yang diposisikan untuk perhatian terhadap pengelolaan gula darah dan permintaan protein. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "f2de79756859",
-    "slug": "삼성-애플-공략에다급해진-소니-tsmc와-이미지센서-합작-499115",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T15:01:05.632Z",
-    "updatedAt": "2026-05-09T15:01:05.633Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050955237",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050955237",
-    "titleFingerprint": "5b0e634965970bc2b3d8c266947c9a85f378207d",
-    "dedupKeys": [
-      "f2de79756859da2bf9bff95298187ef0d505c4f6",
-      "5b0e634965970bc2b3d8c266947c9a85f378207d",
-      "327df21dfa674afc033afdcd619414ed5bb1d497"
-    ],
-    "imageUrl": "/images/articles/f2de79756859.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성 애플 이미지센서 공략에 소니·TSMC 합작 카드, 아이폰 공급망 판도 흔들리나",
-        "excerpt": "삼성전자가 애플 아이폰용 이미지센서 공급을 겨냥하자 기존 강자인 소니가 TSMC와 차세대 이미지센서 개발·생산 합작을 추진하며 대응에 나섰다.",
-        "body": "삼성전자가 애플 아이폰용 이미지센서 시장을 공략하면서 기존 공급망을 지켜온 소니가 대만 TSMC와 손잡고 대응에 나섰다. 소니와 TSMC는 일본에서 차세대 이미지센서 개발·생산을 위한 합작을 추진하는 것으로 전해졌다. 이미지센서는 스마트폰 카메라의 핵심 부품으로, 애플 공급망 진입 여부가 시장 지위에 큰 영향을 미친다. 삼성의 애플 공략은 소니의 기존 우위에 부담으로 작용하고, TSMC와의 협력은 제조 역량을 보강하려는 행보로 해석된다. 향후 아이폰 부품 공급 구도가 이미지센서 경쟁의 핵심 변수로 떠오를 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Samsung’s Apple image-sensor push drives Sony and TSMC toward a Japan joint venture",
-        "excerpt": "As Samsung targets Apple’s iPhone image-sensor supply chain, Sony is moving to respond by pursuing a next-generation image-sensor joint venture with TSMC in Japan.",
-        "body": "Samsung Electronics’ push into Apple’s iPhone image-sensor supply chain is prompting a response from Sony, the long-standing force in the market. Sony and Taiwan’s TSMC are reportedly pursuing a joint venture in Japan to develop and produce next-generation image sensors. Image sensors are core components of smartphone cameras, and entry into Apple’s supply chain can influence market standing. Samsung’s Apple campaign adds pressure on Sony’s existing position, while cooperation with TSMC is seen as a move to strengthen manufacturing capabilities. The future structure of iPhone component sourcing is likely to become a key variable in image-sensor competition. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスンのApple向け画像センサー攻勢でソニーとTSMCが日本合弁へ",
-        "excerpt": "サムスン電子がAppleのiPhone向け画像センサー供給を狙うなか、既存の有力企業ソニーはTSMCと次世代センサーの開発・生産合弁を進めている。",
-        "body": "サムスン電子がAppleのiPhone向け画像センサー市場を攻略しようとするなか、既存の供給網を守ってきたソニーが台湾TSMCと手を組む動きに出た。ソニーとTSMCは日本で次世代画像センサーの開発・生産を担う合弁会社の設立を進めていると伝えられている。画像センサーはスマートフォンカメラの中核部品で、Apple供給網への参入は市場での地位に大きく影響する。サムスンのApple攻略はソニーの従来の優位に負担となり、TSMCとの協力は製造力を補強する動きと受け止められる。今後、iPhone部品供給の構図が画像センサー競争の重要な変数になりそうだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三星进攻苹果图像传感器供应链，索尼联手TSMC筹建日本合资公司",
-        "excerpt": "三星电子瞄准苹果iPhone图像传感器供应链后，既有强者索尼正与TSMC推进下一代图像传感器开发和生产合资项目。",
-        "body": "随着三星电子进攻苹果iPhone用图像传感器市场，长期守住相关供应链的索尼开始与台湾TSMC联手应对。据悉，索尼和TSMC正计划在日本成立合资公司，开发并生产下一代图像传感器。图像传感器是智能手机摄像头的核心部件，能否进入苹果供应链会影响企业的市场地位。三星对苹果供应链的布局给索尼既有优势带来压力，而与TSMC合作则被视为强化制造能力的举措。未来iPhone零部件供应格局可能成为图像传感器竞争的关键变量。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Samsung presiona por sensores para Apple y Sony responde con una alianza con TSMC",
-        "excerpt": "Samsung apunta al suministro de sensores de imagen para el iPhone de Apple, mientras Sony busca responder con una empresa conjunta con TSMC para sensores de nueva generación.",
-        "body": "La ofensiva de Samsung Electronics para entrar en el suministro de sensores de imagen del iPhone de Apple está llevando a Sony, actor dominante en este mercado, a reforzar su respuesta junto a TSMC. Según se informó, Sony y la taiwanesa TSMC impulsan en Japón una empresa conjunta para desarrollar y producir sensores de imagen de nueva generación. Estos sensores son piezas clave de las cámaras de los teléfonos inteligentes, y entrar en la cadena de Apple puede influir en la posición competitiva. El avance de Samsung hacia Apple presiona la ventaja existente de Sony, mientras la cooperación con TSMC apunta a reforzar capacidad manufacturera. La estructura futura de suministro del iPhone será una variable clave en esta competencia. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Samsung mira sensores para Apple e Sony busca reação com joint venture da TSMC",
-        "excerpt": "Com a Samsung mirando o fornecimento de sensores de imagem para o iPhone da Apple, a Sony avança com a TSMC em uma joint venture para sensores de nova geração.",
-        "body": "A ofensiva da Samsung Electronics para entrar no mercado de sensores de imagem do iPhone da Apple levou a Sony, força tradicional nesse segmento, a buscar uma resposta com a taiwanesa TSMC. As duas empresas estariam promovendo no Japão uma joint venture voltada ao desenvolvimento e à produção de sensores de imagem de próxima geração. Esses sensores são componentes centrais das câmeras de smartphones, e a entrada na cadeia de fornecimento da Apple pode afetar a posição de mercado. A investida da Samsung sobre a Apple pressiona a vantagem existente da Sony, enquanto a cooperação com a TSMC é vista como reforço à capacidade de fabricação. A futura configuração de fornecimento do iPhone deve se tornar variável central nessa disputa. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Samsung zielt auf Apples Bildsensoren, Sony kontert mit TSMC-Joint-Venture",
-        "excerpt": "Samsung nimmt Apples iPhone-Bildsensorlieferkette ins Visier. Sony reagiert darauf mit Plänen für ein Joint Venture mit TSMC für Sensoren der nächsten Generation.",
-        "body": "Samsung Electronics greift den Markt für Bildsensoren an, die in Apples iPhones eingesetzt werden, und setzt damit Sony unter Druck, das die bestehende Lieferkette lange geprägt hat. Sony und TSMC aus Taiwan wollen Berichten zufolge in Japan ein Joint Venture für die Entwicklung und Produktion von Bildsensoren der nächsten Generation vorantreiben. Bildsensoren sind Schlüsselbauteile von Smartphone-Kameras, und ein Einstieg in Apples Lieferkette kann die Marktposition stark beeinflussen. Samsungs Vorstoß bei Apple belastet Sonys bisherige Stärke, während die Zusammenarbeit mit TSMC als Schritt zur Stärkung der Fertigung gilt. Die künftige Struktur der iPhone-Zulieferung dürfte zu einem zentralen Faktor im Bildsensor-Wettbewerb werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Samsung vise les capteurs d’Apple, Sony réplique avec un projet commun avec TSMC",
-        "excerpt": "Alors que Samsung cible les capteurs d’image destinés à l’iPhone d’Apple, Sony prépare avec TSMC une coentreprise au Japon pour les capteurs de nouvelle génération.",
-        "body": "L’offensive de Samsung Electronics sur les capteurs d’image destinés à l’iPhone d’Apple pousse Sony, acteur établi de ce marché, à réagir avec le taïwanais TSMC. Les deux groupes prépareraient au Japon une coentreprise consacrée au développement et à la production de capteurs d’image de nouvelle génération. Ces capteurs sont des composants essentiels des appareils photo de smartphones, et l’accès à la chaîne d’approvisionnement d’Apple peut peser sur la position concurrentielle. L’approche de Samsung auprès d’Apple met sous pression l’avantage existant de Sony, tandis que la coopération avec TSMC vise à renforcer les capacités de fabrication. La future organisation des fournisseurs de l’iPhone devrait devenir une variable clé de cette concurrence. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سامسونغ تستهدف مستشعرات آبل وسوني ترد بتحالف إنتاجي مع TSMC في اليابان",
-        "excerpt": "مع سعي سامسونغ لدخول سلسلة توريد مستشعرات الصور لهواتف آيفون، تتحرك سوني مع TSMC لإقامة مشروع مشترك يطور وينتج مستشعرات الجيل التالي.",
-        "body": "يدفع تحرك سامسونغ إلكترونيكس نحو سوق مستشعرات الصور الخاصة بهواتف آيفون من آبل شركة سوني، صاحبة الحضور القوي في هذا المجال، إلى الرد عبر التعاون مع TSMC التايوانية. وبحسب ما ورد، تعمل سوني وTSMC على مشروع مشترك في اليابان لتطوير وإنتاج مستشعرات صور من الجيل التالي. وتعد مستشعرات الصور مكونات أساسية في كاميرات الهواتف الذكية، كما أن دخول سلسلة توريد آبل قد يؤثر في مكانة الشركات داخل السوق. ضغط سامسونغ على ملف آبل يزيد العبء على تفوق سوني القائم، بينما ينظر إلى التعاون مع TSMC كخطوة لتعزيز قدرات التصنيع. ومن المتوقع أن تصبح خريطة توريد مكونات آيفون عاملا حاسما في منافسة مستشعرات الصور. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Apple इमेज सेंसर पर Samsung की नजर, Sony ने TSMC के साथ संयुक्त उद्यम चुना",
-        "excerpt": "Samsung के Apple iPhone इमेज सेंसर आपूर्ति लक्ष्य के बीच Sony जापान में TSMC के साथ अगली पीढ़ी के सेंसर विकास और उत्पादन संयुक्त उद्यम पर आगे बढ़ रही है।",
-        "body": "Samsung Electronics द्वारा Apple iPhone के लिए इमेज सेंसर आपूर्ति बाजार को निशाना बनाने के बाद Sony ने Taiwan की TSMC के साथ प्रतिक्रिया तेज की है। बताया गया है कि Sony और TSMC जापान में अगली पीढ़ी के इमेज सेंसर के विकास और उत्पादन के लिए संयुक्त उद्यम आगे बढ़ा रही हैं। इमेज सेंसर स्मार्टफोन कैमरे का प्रमुख घटक है, और Apple की आपूर्ति श्रृंखला में प्रवेश बाजार स्थिति को प्रभावित कर सकता है। Samsung की Apple रणनीति Sony की मौजूदा बढ़त पर दबाव डालती है, जबकि TSMC के साथ सहयोग निर्माण क्षमता मजबूत करने का कदम माना जा रहा है। आगे iPhone घटक आपूर्ति की संरचना इमेज सेंसर प्रतिस्पर्धा का अहम कारक बन सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Samsung incar sensor Apple, Sony gandeng TSMC lewat usaha patungan di Jepang",
-        "excerpt": "Saat Samsung membidik pasokan sensor gambar untuk iPhone Apple, Sony bergerak bersama TSMC membentuk usaha patungan sensor generasi baru di Jepang.",
-        "body": "Langkah Samsung Electronics membidik pasar sensor gambar untuk iPhone Apple membuat Sony, pemain kuat yang selama ini menjaga rantai pasok tersebut, bergerak menggandeng TSMC Taiwan. Sony dan TSMC dilaporkan mendorong usaha patungan di Jepang untuk mengembangkan dan memproduksi sensor gambar generasi berikutnya. Sensor gambar adalah komponen inti kamera ponsel pintar, dan masuk ke rantai pasok Apple dapat memengaruhi posisi pasar. Strategi Samsung terhadap Apple menekan keunggulan Sony yang sudah ada, sementara kerja sama dengan TSMC dipandang sebagai upaya memperkuat kemampuan manufaktur. Ke depan, susunan pemasok komponen iPhone berpotensi menjadi variabel utama dalam persaingan sensor gambar. Sumber: hankyung.com"
       }
     }
   }
