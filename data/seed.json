@@ -1,5 +1,230 @@
 [
   {
+    "id": "4e8128fc1c60",
+    "slug": "표-외국환율고시표-937262",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T16:01:46.015Z",
+    "updatedAt": "2026-05-10T16:01:46.015Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12042709",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042709",
+    "titleFingerprint": "b31bed6d6a96f2f89db55d844c4d29093ef8edc6",
+    "dedupKeys": [
+      "4e8128fc1c607936da9f6ec5d422fbb0844c0864",
+      "b31bed6d6a96f2f89db55d844c4d29093ef8edc6",
+      "64a62fd4d19627054d9c0d323715adcba8e848b0"
+    ],
+    "imageUrl": "/images/articles/4e8128fc1c60.jpg",
+    "i18n": {
+      "ko": {
+        "title": "외국환율고시표 공개, 주요 환율 확인 필요한 시장 참고자료",
+        "excerpt": "매일경제가 외국환율고시표를 공개했다. 이번 고시표는 외환시장 참여자와 금융 소비자가 통화별 고시 환율을 확인하는 데 쓰이는 참고자료다.",
+        "body": "매일경제는 ‘[표] 외국환율고시표’라는 제목으로 외국환율고시표를 보도했다. 원문은 표 형식의 환율 고시 자료로, 외환시장 참여자와 금융 소비자가 통화별 고시 환율을 확인할 때 참고할 수 있는 정보다. 다만 제공된 원문 요약에는 개별 통화명, 환율 수치, 변동 폭, 고시 시각 등 세부 항목이 포함되지 않았다. 외국환율고시표는 환전, 해외 송금, 수출입 결제 등 외환 관련 의사결정에서 기초 확인 자료로 활용된다. 구체적인 수치는 원문 표를 통해 확인해야 한다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Foreign Exchange Rate Table Released as Key Reference for Markets",
+        "excerpt": "Maeil Business Newspaper published a foreign exchange rate notice table, a reference for market participants and consumers checking posted rates by currency.",
+        "body": "Maeil Business Newspaper reported a foreign exchange rate notice table under the title “[Table] Foreign Exchange Rate Notice.” The original item is a table-format exchange-rate notice that can be used by foreign exchange market participants and financial consumers when checking posted rates by currency. The provided source summary does not include individual currency names, exchange-rate figures, changes, or the posting time. Such tables are used as basic reference material for currency exchange, overseas remittances, and import-export payments. Specific figures should be checked in the original table. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "外国為替レート告示表を公開、市場が確認する基本資料",
+        "excerpt": "毎日経済が外国為替レート告示表を公開した。通貨別の告示レートを確認する市場参加者や金融消費者向けの参考資料だ。",
+        "body": "毎日経済は「【表】外国為替レート告示表」という題名で外国為替レート告示表を報じた。原文は表形式の為替告示資料で、外国為替市場の参加者や金融消費者が通貨別の告示レートを確認する際に参考にできる情報である。ただし、提供された原文要約には個別の通貨名、為替レートの数値、変動幅、告示時刻などの詳細項目は含まれていない。外国為替レート告示表は両替、海外送金、輸出入決済など外為関連の意思決定で基礎確認資料として使われる。具体的な数値は原文表で確認する必要がある。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "外汇汇率公告表发布，市场查看主要汇率的参考资料",
+        "excerpt": "每日经济发布外汇汇率公告表。该表可供外汇市场参与者和金融消费者查看各币种公告汇率时参考。",
+        "body": "每日经济以“[表] 外汇汇率公告表”为题报道了外汇汇率公告表。原文为表格形式的汇率公告资料，可供外汇市场参与者和金融消费者在查看各币种公告汇率时参考。不过，所提供的原文摘要未包含具体币种名称、汇率数值、变动幅度或公告时间等详细项目。外汇汇率公告表通常用于换汇、海外汇款、进出口结算等外汇相关决策中的基础核对资料。具体数值需通过原文表格确认。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Tabla de tipos de cambio publicada como referencia clave del mercado",
+        "excerpt": "Maeil Business Newspaper publicó una tabla de tipos de cambio, útil para participantes del mercado y consumidores que revisan tasas por divisa.",
+        "body": "Maeil Business Newspaper informó sobre una tabla de tipos de cambio bajo el título “[Tabla] Aviso de tipos de cambio”. El texto original corresponde a un material en formato de tabla que puede servir de referencia a participantes del mercado cambiario y consumidores financieros al consultar tasas publicadas por divisa. Sin embargo, el resumen disponible no incluye nombres de monedas, cifras de tipos de cambio, variaciones ni hora de publicación. Estas tablas se usan como referencia básica para cambio de divisas, remesas internacionales y pagos de importación y exportación. Las cifras concretas deben verificarse en la tabla original. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Tabela de câmbio é divulgada como referência para o mercado",
+        "excerpt": "O Maeil Business Newspaper publicou uma tabela de câmbio, referência para participantes do mercado e consumidores que consultam taxas por moeda.",
+        "body": "O Maeil Business Newspaper informou uma tabela de câmbio com o título “[Tabela] Aviso de taxas de câmbio”. O item original é um material em formato de tabela que pode ser usado por participantes do mercado de câmbio e consumidores financeiros ao consultar taxas publicadas por moeda. No entanto, o resumo fornecido não inclui nomes de moedas, valores das taxas, variações ou horário de divulgação. Tabelas de câmbio são usadas como referência básica para troca de moeda, remessas internacionais e pagamentos de importação e exportação. Os números específicos devem ser verificados na tabela original. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Devisenkurstabelle veröffentlicht als zentrale Marktinformation",
+        "excerpt": "Maeil Business Newspaper veröffentlichte eine Devisenkurstabelle, die Marktteilnehmern und Verbrauchern beim Prüfen veröffentlichter Kurse dient.",
+        "body": "Maeil Business Newspaper berichtete unter dem Titel „[Tabelle] Bekanntgabe der Devisenkurse“ über eine Devisenkurstabelle. Der Originalbeitrag ist eine tabellarische Kursbekanntgabe, die Teilnehmer am Devisenmarkt und Finanzverbraucher beim Prüfen veröffentlichter Kurse nach Währung nutzen können. Die bereitgestellte Zusammenfassung enthält jedoch keine einzelnen Währungsnamen, Kurswerte, Veränderungen oder Veröffentlichungszeitpunkte. Solche Tabellen dienen als grundlegende Referenz für Währungsumtausch, Auslandsüberweisungen sowie Import- und Exportzahlungen. Konkrete Zahlen sind in der Originaltabelle zu prüfen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Table des taux de change publiée comme référence pour les marchés",
+        "excerpt": "Maeil Business Newspaper a publié une table des taux de change, référence pour les acteurs du marché et les consommateurs vérifiant les taux par devise.",
+        "body": "Maeil Business Newspaper a publié une information intitulée « [Tableau] Avis des taux de change ». Le contenu original est un document sous forme de tableau qui peut servir de référence aux participants du marché des changes et aux consommateurs financiers lorsqu’ils consultent les taux publiés par devise. Toutefois, le résumé fourni ne contient pas les noms des devises, les chiffres des taux, les variations ni l’heure de publication. Ces tableaux sont utilisés comme base de vérification pour le change, les transferts internationaux et les paiements d’import-export. Les chiffres précis doivent être consultés dans le tableau original. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "نشر جدول أسعار الصرف الأجنبية كمرجع رئيسي للأسواق",
+        "excerpt": "نشرت صحيفة ماييل الاقتصادية جدول أسعار الصرف الأجنبية، وهو مرجع للمشاركين في السوق والمستهلكين عند مراجعة الأسعار المعلنة حسب العملة.",
+        "body": "أفادت صحيفة ماييل الاقتصادية بجدول أسعار الصرف الأجنبية تحت عنوان «[جدول] نشرة أسعار الصرف الأجنبية». والمادة الأصلية هي بيانات منشورة في شكل جدول يمكن للمشاركين في سوق الصرف والمستهلكين الماليين استخدامها عند التحقق من الأسعار المعلنة لكل عملة. غير أن الملخص المتاح لا يتضمن أسماء العملات الفردية أو أرقام أسعار الصرف أو مقدار التغير أو وقت النشر. وتستخدم جداول أسعار الصرف كمرجع أساسي في تبديل العملات والتحويلات الخارجية ومدفوعات الاستيراد والتصدير. وينبغي التحقق من الأرقام المحددة في الجدول الأصلي. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "विदेशी विनिमय दर तालिका जारी, बाजार के लिए अहम संदर्भ",
+        "excerpt": "Maeil Business Newspaper ने विदेशी विनिमय दर तालिका प्रकाशित की, जो बाजार प्रतिभागियों और वित्तीय उपभोक्ताओं के लिए मुद्रा-दर संदर्भ है।",
+        "body": "Maeil Business Newspaper ने “[तालिका] विदेशी विनिमय दर सूचना” शीर्षक से विदेशी विनिमय दर तालिका प्रकाशित की। मूल सामग्री तालिका प्रारूप में विनिमय दर सूचना है, जिसका उपयोग विदेशी मुद्रा बाजार के प्रतिभागी और वित्तीय उपभोक्ता विभिन्न मुद्राओं की घोषित दरें देखने के लिए कर सकते हैं। हालांकि उपलब्ध सारांश में अलग-अलग मुद्राओं के नाम, विनिमय दरों के आंकड़े, बदलाव की मात्रा या घोषणा समय जैसे विवरण शामिल नहीं हैं। ऐसी तालिकाएं मुद्रा विनिमय, विदेशी प्रेषण और आयात-निर्यात भुगतान से जुड़े निर्णयों में आधारभूत संदर्भ के रूप में उपयोग होती हैं। सटीक आंकड़े मूल तालिका में देखे जाने चाहिए। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Tabel Kurs Valuta Asing Dirilis sebagai Rujukan Pasar Utama",
+        "excerpt": "Maeil Business Newspaper menerbitkan tabel kurs valuta asing, rujukan bagi pelaku pasar dan konsumen untuk memeriksa kurs per mata uang.",
+        "body": "Maeil Business Newspaper melaporkan tabel kurs valuta asing dengan judul “[Tabel] Pemberitahuan Kurs Valuta Asing”. Materi asli berbentuk tabel pemberitahuan kurs yang dapat digunakan pelaku pasar valuta asing dan konsumen keuangan saat memeriksa kurs yang diumumkan menurut mata uang. Namun, ringkasan sumber yang tersedia tidak memuat nama mata uang individual, angka kurs, perubahan, atau waktu pemberitahuan. Tabel kurs valuta asing digunakan sebagai bahan rujukan dasar untuk penukaran uang, remitansi luar negeri, serta pembayaran impor dan ekspor. Angka spesifik perlu diperiksa pada tabel asli. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "1d5f9a6dcd40",
+    "slug": "국가업종별-분산투자-ai-더-담아도-좋아-336214",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T16:00:52.547Z",
+    "updatedAt": "2026-05-10T16:00:52.547Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042712",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042712",
+    "titleFingerprint": "fd60b74a6812d04266e678c70046e060b5552fd3",
+    "dedupKeys": [
+      "1d5f9a6dcd40e23b475fd7290d06a4f408062136",
+      "fd60b74a6812d04266e678c70046e060b5552fd3",
+      "0fccaa10ef770241ab1efeb9b727079c8458044e"
+    ],
+    "imageUrl": "/images/articles/1d5f9a6dcd40.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 투자 확대해도 기본은 분산…서울머니쇼 전문가 조언",
+        "excerpt": "코스피가 연일 사상 최고치를 경신한 가운데 열린 2026 서울머니쇼에서 전문가들은 장기투자와 국가·업종별 분산, 리스크 관리의 중요성을 다시 강조했다.",
+        "body": "코스피가 연일 사상 최고치를 경신하는 주식시장 호황 속에서 열린 2026 서울머니쇼에서 전문가들은 투자자들에게 장기투자와 분산투자, 리스크 관리라는 기본 원칙을 다시 강조했다. 원문에 따르면 현장에서는 국가와 업종을 나눠 투자하는 접근이 중요하다는 조언이 제시됐고, 인공지능(AI) 관련 자산은 더 담아도 좋다는 의견도 함께 언급됐다. 시장이 강세를 보일수록 특정 지역이나 업종에 쏠리는 위험을 줄이고, 장기 관점에서 포트폴리오를 점검해야 한다는 메시지다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "AI Exposure Can Grow, but Diversification Still Comes First",
+        "excerpt": "At the 2026 Seoul Money Show, held as the Kospi kept setting record highs, experts again stressed long-term investing, country and sector diversification, and risk management.",
+        "body": "At the 2026 Seoul Money Show, held amid a strong stock market in which the Kospi continued to reach all-time highs, experts again urged investors to stick to the basics: long-term investing, diversification, and risk management. According to the original report, advisers at the event emphasized spreading investments across countries and sectors, while also saying investors could add more exposure to artificial intelligence-related assets. The message was that even in a rising market, investors should reduce concentration risk in any single region or industry and review portfolios from a long-term perspective. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "AI投資は増やしても基本は分散、ソウルマネーショーの助言",
+        "excerpt": "KOSPIが連日で過去最高値を更新する中で開かれた2026ソウルマネーショーで、専門家は長期投資、国・業種別分散、リスク管理の重要性を改めて強調した。",
+        "body": "KOSPIが連日で過去最高値を更新する株式市場の好況の中で開かれた2026ソウルマネーショーで、専門家は投資家に対し、長期投資、分散投資、リスク管理という基本原則を改めて強調した。原文によると、会場では国や業種を分けて投資する姿勢が重要だとの助言が示され、人工知能（AI）関連資産はさらに組み入れてもよいとの見方も言及された。相場が強い局面ほど、特定の地域や業種への偏りによるリスクを抑え、長期的な視点でポートフォリオを点検すべきだというメッセージだ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "AI配置可增加，但分散投资仍是首要原则",
+        "excerpt": "在Kospi连续刷新历史高点之际举行的2026首尔Money Show上，专家再次强调长期投资、按国家和行业分散配置以及风险管理的重要性。",
+        "body": "在Kospi连续刷新历史高点、股市气氛火热之际举行的2026首尔Money Show上，专家再次提醒投资者坚持长期投资、分散投资和风险管理等基本原则。根据原文，现场建议投资者按国家和行业分散配置资产，同时也提到人工智能（AI）相关资产可以进一步纳入组合。专家传递的信息是，市场越强势，越需要降低对单一地区或行业的集中风险，并从长期视角检查投资组合。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Más exposición a IA, pero con diversificación como regla central",
+        "excerpt": "En el Seoul Money Show 2026, celebrado mientras el Kospi marcaba máximos históricos consecutivos, los expertos subrayaron inversión de largo plazo, diversificación por país y sector, y gestión del riesgo.",
+        "body": "En el Seoul Money Show 2026, celebrado en medio de un mercado bursátil alcista en el que el Kospi seguía renovando máximos históricos, los expertos volvieron a pedir a los inversores que respeten los principios básicos: inversión de largo plazo, diversificación y gestión del riesgo. Según el texto original, en el evento se destacó la importancia de repartir las inversiones por países y sectores, y también se mencionó que puede aumentarse la exposición a activos relacionados con la inteligencia artificial (IA). El mensaje fue que, incluso en un mercado fuerte, conviene reducir el riesgo de concentración y revisar la cartera con una mirada de largo plazo. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "IA pode ganhar espaço, mas diversificação segue essencial",
+        "excerpt": "No Seoul Money Show 2026, realizado enquanto o Kospi renovava máximas históricas, especialistas reforçaram investimento de longo prazo, diversificação por país e setor, e gestão de risco.",
+        "body": "No Seoul Money Show 2026, realizado em meio ao forte desempenho do mercado acionário, com o Kospi renovando recordes históricos em sequência, especialistas voltaram a orientar investidores a manter os fundamentos: investimento de longo prazo, diversificação e gestão de risco. Segundo o texto original, o evento destacou a importância de distribuir aplicações entre países e setores, além de mencionar que a exposição a ativos ligados à inteligência artificial (IA) pode ser ampliada. A mensagem foi que, mesmo em um mercado em alta, é preciso reduzir a concentração em uma região ou setor e revisar a carteira com visão de longo prazo. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Mehr KI im Portfolio möglich, doch Streuung bleibt entscheidend",
+        "excerpt": "Auf der Seoul Money Show 2026, während der Kospi laufend Rekordstände erreichte, betonten Experten erneut langfristiges Investieren, Länder- und Branchenstreuung sowie Risikomanagement.",
+        "body": "Auf der Seoul Money Show 2026, die inmitten eines starken Aktienmarkts stattfand, während der Kospi wiederholt neue Rekordstände erreichte, mahnten Experten Anleger erneut zu den Grundregeln: langfristig investieren, diversifizieren und Risiken steuern. Dem Originalbericht zufolge wurde vor Ort betont, Anlagen nach Ländern und Branchen zu streuen. Zugleich hieß es, Engagements in Vermögenswerten mit Bezug zu künstlicher Intelligenz (KI) könnten weiter ausgebaut werden. Die Botschaft: Gerade in starken Märkten sollten Anleger Konzentrationsrisiken in einzelnen Regionen oder Branchen begrenzen und Portfolios langfristig überprüfen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Plus d’IA en portefeuille, mais la diversification reste prioritaire",
+        "excerpt": "Au Seoul Money Show 2026, organisé alors que le Kospi enchaînait les records, les experts ont rappelé l’importance de l’investissement long terme, de la diversification par pays et secteur, et de la gestion du risque.",
+        "body": "Au Seoul Money Show 2026, organisé dans un contexte de marché actions porteur où le Kospi battait record sur record, les experts ont de nouveau appelé les investisseurs à respecter les principes de base: investissement de long terme, diversification et gestion du risque. Selon le texte original, les intervenants ont souligné l’importance de répartir les placements entre pays et secteurs, tout en indiquant qu’une exposition accrue aux actifs liés à l’intelligence artificielle (IA) pouvait être envisagée. Le message était clair: même dans un marché haussier, il faut limiter le risque de concentration et revoir son portefeuille avec une perspective de long terme. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "زيادة الاستثمار في الذكاء الاصطناعي ممكنة لكن التنويع أساس",
+        "excerpt": "في معرض سيول ماني شو 2026، المنعقد بينما واصل مؤشر كوسبي تسجيل قمم تاريخية، شدد الخبراء مجددا على الاستثمار طويل الأجل والتنويع حسب الدول والقطاعات وإدارة المخاطر.",
+        "body": "في معرض سيول ماني شو 2026، الذي عُقد وسط ازدهار في سوق الأسهم مع مواصلة مؤشر كوسبي تسجيل مستويات قياسية تاريخية، أكد الخبراء للمستثمرين مجددا أهمية القواعد الأساسية: الاستثمار طويل الأجل، والتنويع، وإدارة المخاطر. ووفقا للنص الأصلي، طُرحت في الحدث نصائح بتوزيع الاستثمارات بين الدول والقطاعات، كما ذُكر أن الأصول المرتبطة بالذكاء الاصطناعي يمكن زيادة وزنها. وكانت الرسالة أن قوة السوق لا تلغي ضرورة تقليل مخاطر التركز في منطقة أو قطاع واحد، ومراجعة المحافظ من منظور طويل الأجل. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI में निवेश बढ़ सकता है, लेकिन विविधीकरण ही मुख्य आधार",
+        "excerpt": "कोस्पी के लगातार रिकॉर्ड ऊंचाई छूने के बीच आयोजित 2026 सियोल मनी शो में विशेषज्ञों ने दीर्घकालिक निवेश, देश और सेक्टर आधारित विविधीकरण तथा जोखिम प्रबंधन पर फिर जोर दिया।",
+        "body": "कोस्पी के लगातार सर्वकालिक उच्च स्तर छूने से बने मजबूत शेयर बाजार माहौल में आयोजित 2026 सियोल मनी शो में विशेषज्ञों ने निवेशकों को फिर बुनियादी सिद्धांतों की याद दिलाई: दीर्घकालिक निवेश, विविधीकरण और जोखिम प्रबंधन। मूल रिपोर्ट के अनुसार, कार्यक्रम में देशों और उद्योगों के आधार पर निवेश फैलाने की जरूरत पर सलाह दी गई। साथ ही यह भी कहा गया कि कृत्रिम बुद्धिमत्ता (AI) से जुड़े एसेट्स को पोर्टफोलियो में और जोड़ा जा सकता है। संदेश यह था कि बाजार में तेजी के दौरान भी किसी एक क्षेत्र या उद्योग पर अधिक निर्भरता का जोखिम घटाना और लंबी अवधि के नजरिए से पोर्टफोलियो की समीक्षा करना जरूरी है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Eksposur AI Boleh Ditambah, Diversifikasi Tetap Utama",
+        "excerpt": "Dalam Seoul Money Show 2026 saat Kospi terus mencetak rekor tertinggi, para ahli kembali menekankan investasi jangka panjang, diversifikasi negara dan sektor, serta manajemen risiko.",
+        "body": "Dalam Seoul Money Show 2026 yang digelar di tengah kuatnya pasar saham ketika Kospi terus mencetak rekor tertinggi sepanjang masa, para ahli kembali mengingatkan investor pada prinsip dasar: investasi jangka panjang, diversifikasi, dan manajemen risiko. Menurut teks asli, acara tersebut menyoroti pentingnya membagi investasi berdasarkan negara dan sektor, sekaligus menyebut bahwa aset terkait kecerdasan buatan (AI) dapat ditambah. Pesannya, bahkan saat pasar menguat, investor perlu mengurangi risiko konsentrasi pada satu wilayah atau sektor dan meninjau portofolio dengan perspektif jangka panjang. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "d6edabb519b9",
+    "slug": "진옥동-신한-회장-북중미로직접-기관투자설명회-나서-348213",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T15:59:55.644Z",
+    "updatedAt": "2026-05-10T15:59:55.645Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12042711",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042711",
+    "titleFingerprint": "0d60f2859a395d0669a86d1777958b0a03ca9c90",
+    "dedupKeys": [
+      "d6edabb519b94a0a0f9723b06dbce3f06be2a7b1",
+      "0d60f2859a395d0669a86d1777958b0a03ca9c90",
+      "de9348099b86e7ef68f3e4bf5c49202d7c9bbf3a"
+    ],
+    "imageUrl": "/images/articles/d6edabb519b9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "진옥동 신한금융 회장, 북중미 기관투자자 직접 만나는 밸류업 IR 돌입",
+        "excerpt": "진옥동 신한금융그룹 회장이 10일부터 약 2주간 미국·멕시코·캐나다를 방문해 해외 기관투자자들과 직접 만나 주주환원 강화와 밸류업 전략을 설명한다.",
+        "body": "진옥동 신한금융그룹 회장이 10일부터 약 2주간 미국, 멕시코, 캐나다 등 북중미 지역을 찾아 해외 기관투자자들을 만난다. 이번 일정은 진 회장이 직접 기관투자설명회에 나서 신한금융그룹의 주주환원 강화 방안과 기업가치, 즉 주가 상승을 겨냥한 ‘밸류업’ 전략을 설명하는 자리다. 원문에 따르면 방문 대상 국가는 미국·멕시코·캐나다이며, 일정은 약 2주간 이어진다. 신한금융은 강화된 주주환원책을 통해 기업가치 제고를 추진하고 있으며, 해외 기관투자자와의 직접 소통은 해당 전략을 알리는 핵심 일정으로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Shinhan Chairman Jin Ok-dong Begins North America IR Tour for Value-Up Strategy",
+        "excerpt": "Shinhan Financial Group Chairman Jin Ok-dong will visit the U.S., Mexico and Canada for about two weeks from the 10th to meet overseas institutional investors and explain shareholder returns.",
+        "body": "Shinhan Financial Group Chairman Jin Ok-dong will visit the United States, Mexico and Canada for about two weeks from the 10th to meet overseas institutional investors. The trip is an investor relations schedule in which Jin will personally explain Shinhan Financial Group’s strengthened shareholder return measures and its “value-up” strategy aimed at raising corporate value, or the share price. According to the original report, the destinations are the U.S., Mexico and Canada, and the schedule will last about two weeks. Shinhan is pursuing higher corporate value through enhanced shareholder returns, and direct communication with overseas institutional investors is presented as a key part of that effort. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "申韓金融の陳玉東会長、北中米で機関投資家向けIRを直接展開",
+        "excerpt": "申韓金融グループの陳玉東会長は10日から約2週間、米国・メキシコ・カナダを訪問し、海外機関投資家に株主還元強化とバリューアップ戦略を説明する。",
+        "body": "申韓金融グループの陳玉東会長は10日から約2週間、米国、メキシコ、カナダなど北中米地域を訪れ、海外の機関投資家と面会する。今回の日程は、陳会長が自ら機関投資家向け説明会に臨み、申韓金融グループの株主還元強化策と、企業価値、すなわち株価の上昇を目指す「バリューアップ」戦略を説明する場となる。原文によると、訪問先は米国・メキシコ・カナダで、日程は約2週間続く。申韓金融は強化した株主還元策を通じて企業価値の向上を進めており、海外機関投資家との直接対話はその戦略を伝える主要日程と位置づけられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "新韩金融会长陈玉东赴北中美，亲自开展机构投资者说明会",
+        "excerpt": "新韩金融集团会长陈玉东将从10日起约两周访问美国、墨西哥和加拿大，直接会见海外机构投资者，说明强化股东回报和价值提升战略。",
+        "body": "新韩金融集团会长陈玉东将从10日起约两周访问美国、墨西哥、加拿大等北中美地区，会见海外机构投资者。此次行程是陈会长亲自参加机构投资者说明会，介绍新韩金融集团强化股东回报的措施，以及旨在提升企业价值、也就是推动股价上升的“价值提升”战略。根据原文，访问国家为美国、墨西哥和加拿大，日程将持续约两周。新韩金融正通过强化股东回报政策推进企业价值提升，与海外机构投资者的直接沟通被视为宣传该战略的核心安排。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jin Ok-dong de Shinhan inicia gira IR en Norteamérica para explicar su value-up",
+        "excerpt": "El presidente de Shinhan Financial Group, Jin Ok-dong, visitará desde el día 10 EE. UU., México y Canadá durante unas dos semanas para reunirse con inversores institucionales extranjeros.",
+        "body": "El presidente de Shinhan Financial Group, Jin Ok-dong, visitará Estados Unidos, México y Canadá durante unas dos semanas a partir del día 10 para reunirse con inversores institucionales extranjeros. La agenda corresponde a una presentación directa para inversores en la que Jin explicará las medidas reforzadas de retorno al accionista de Shinhan Financial Group y su estrategia de “value-up”, orientada a elevar el valor corporativo, es decir, el precio de la acción. Según el texto original, los países visitados serán EE. UU., México y Canadá, y el itinerario durará cerca de dos semanas. Shinhan busca mejorar su valor corporativo mediante políticas reforzadas de retorno al accionista, y el contacto directo con inversores institucionales extranjeros forma parte central de esa comunicación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jin Ok-dong, da Shinhan, inicia IR na América do Norte para estratégia value-up",
+        "excerpt": "O presidente do Shinhan Financial Group, Jin Ok-dong, visitará por cerca de duas semanas, a partir do dia 10, EUA, México e Canadá para se reunir com investidores institucionais estrangeiros.",
+        "body": "O presidente do Shinhan Financial Group, Jin Ok-dong, visitará Estados Unidos, México e Canadá por cerca de duas semanas a partir do dia 10 para se reunir com investidores institucionais estrangeiros. A viagem é uma agenda de relações com investidores em que Jin explicará pessoalmente as medidas reforçadas de retorno aos acionistas do grupo e sua estratégia de “value-up”, voltada a elevar o valor corporativo, ou seja, o preço das ações. Segundo o texto original, os destinos são EUA, México e Canadá, e a programação seguirá por aproximadamente duas semanas. A Shinhan busca ampliar o valor corporativo por meio de políticas reforçadas de retorno aos acionistas, e a comunicação direta com investidores institucionais estrangeiros é apresentada como parte central dessa estratégia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Shinhan-Chef Jin Ok-dong startet Nordamerika-IR zur Value-up-Strategie",
+        "excerpt": "Jin Ok-dong, Chairman der Shinhan Financial Group, reist ab dem 10. rund zwei Wochen in die USA, nach Mexiko und Kanada, um ausländische institutionelle Investoren zu treffen.",
+        "body": "Jin Ok-dong, Chairman der Shinhan Financial Group, wird ab dem 10. für rund zwei Wochen die USA, Mexiko und Kanada besuchen, um ausländische institutionelle Investoren zu treffen. Die Reise ist eine Investor-Relations-Runde, bei der Jin persönlich die verstärkten Aktionärsrendite-Maßnahmen der Shinhan Financial Group und ihre „Value-up“-Strategie erläutert, die auf eine Steigerung des Unternehmenswerts, also des Aktienkurses, zielt. Dem Originalbericht zufolge sind die Besuchsländer die USA, Mexiko und Kanada; der Zeitplan umfasst etwa zwei Wochen. Shinhan verfolgt eine Erhöhung des Unternehmenswerts durch stärkere Aktionärsrückgaben, und der direkte Austausch mit ausländischen institutionellen Investoren gilt als zentraler Termin zur Vermittlung dieser Strategie. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Jin Ok-dong de Shinhan lance une tournée IR en Amérique du Nord sur le value-up",
+        "excerpt": "Jin Ok-dong, président de Shinhan Financial Group, se rendra dès le 10 aux États-Unis, au Mexique et au Canada pendant environ deux semaines pour rencontrer des investisseurs institutionnels étrangers.",
+        "body": "Jin Ok-dong, président de Shinhan Financial Group, se rendra aux États-Unis, au Mexique et au Canada pendant environ deux semaines à partir du 10 afin de rencontrer des investisseurs institutionnels étrangers. Cette tournée constitue une opération de relations investisseurs au cours de laquelle Jin expliquera directement les mesures renforcées de retour aux actionnaires de Shinhan Financial Group et sa stratégie de “value-up”, destinée à accroître la valeur de l’entreprise, c’est-à-dire le cours de l’action. Selon le texte original, les pays visités sont les États-Unis, le Mexique et le Canada, pour un calendrier d’environ deux semaines. Shinhan cherche à rehausser sa valeur d’entreprise grâce à un retour aux actionnaires renforcé, et le dialogue direct avec les investisseurs institutionnels étrangers est présenté comme un rendez-vous clé de cette stratégie. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رئيس شينهان جين أوك دونغ يبدأ جولة في أمريكا الشمالية لشرح استراتيجية رفع القيمة",
+        "excerpt": "يزور رئيس مجموعة شينهان المالية جين أوك دونغ، اعتبارا من اليوم العاشر ولمدة نحو أسبوعين، الولايات المتحدة والمكسيك وكندا للقاء مستثمرين مؤسسيين أجانب وشرح تعزيز عوائد المساهمين.",
+        "body": "يزور رئيس مجموعة شينهان المالية جين أوك دونغ الولايات المتحدة والمكسيك وكندا، بدءا من اليوم العاشر ولمدة تقارب أسبوعين، للقاء مستثمرين مؤسسيين أجانب. وتأتي الجولة كبرنامج مباشر لعلاقات المستثمرين يشرح فيه جين بنفسه إجراءات شينهان المعززة لعودة المساهمين واستراتيجية “رفع القيمة” الهادفة إلى زيادة قيمة الشركة، أي سعر السهم. ووفقا للنص الأصلي، تشمل الدول المستهدفة الولايات المتحدة والمكسيك وكندا، وتمتد الزيارة لنحو أسبوعين. وتسعى شينهان إلى رفع قيمة الشركة عبر سياسة أقوى لإعادة القيمة إلى المساهمين، ويعد التواصل المباشر مع المستثمرين المؤسسيين الأجانب جزءا رئيسيا من عرض هذه الاستراتيجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "शिनहान चेयरमैन जिन ओक-डोंग उत्तर अमेरिका में वैल्यू-अप IR शुरू करेंगे",
+        "excerpt": "शिनहान फाइनेंशियल ग्रुप के चेयरमैन जिन ओक-डोंग 10 तारीख से करीब दो सप्ताह तक अमेरिका, मेक्सिको और कनाडा जाकर विदेशी संस्थागत निवेशकों से मिलेंगे और शेयरधारक रिटर्न नीति बताएंगे।",
+        "body": "शिनहान फाइनेंशियल ग्रुप के चेयरमैन जिन ओक-डोंग 10 तारीख से लगभग दो सप्ताह तक अमेरिका, मेक्सिको और कनाडा सहित उत्तर और मध्य अमेरिका के क्षेत्रों का दौरा कर विदेशी संस्थागत निवेशकों से मिलेंगे। यह कार्यक्रम ऐसा निवेशक संबंध कार्यक्रम है जिसमें जिन स्वयं शिनहान फाइनेंशियल ग्रुप की मजबूत की गई शेयरधारक रिटर्न नीति और कंपनी मूल्य, यानी शेयर मूल्य बढ़ाने के उद्देश्य वाली “वैल्यू-अप” रणनीति की व्याख्या करेंगे। मूल रिपोर्ट के अनुसार, दौरे के देश अमेरिका, मेक्सिको और कनाडा हैं, और कार्यक्रम लगभग दो सप्ताह चलेगा। शिनहान मजबूत शेयरधारक रिटर्न के जरिये कंपनी मूल्य बढ़ाने पर काम कर रहा है, और विदेशी संस्थागत निवेशकों से सीधा संवाद इस रणनीति को बताने का प्रमुख कार्यक्रम है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Chairman Shinhan Jin Ok-dong Mulai IR Amerika Utara untuk Strategi Value-Up",
+        "excerpt": "Chairman Shinhan Financial Group Jin Ok-dong mulai tanggal 10 akan mengunjungi AS, Meksiko, dan Kanada selama sekitar dua pekan untuk bertemu investor institusi luar negeri.",
+        "body": "Chairman Shinhan Financial Group Jin Ok-dong akan mengunjungi Amerika Serikat, Meksiko, dan Kanada selama sekitar dua pekan mulai tanggal 10 untuk bertemu investor institusi luar negeri. Agenda ini merupakan kegiatan hubungan investor di mana Jin secara langsung menjelaskan langkah Shinhan Financial Group memperkuat imbal hasil bagi pemegang saham serta strategi “value-up” yang ditujukan untuk menaikkan nilai perusahaan, yakni harga saham. Menurut teks asli, negara tujuan adalah AS, Meksiko, dan Kanada, dengan jadwal sekitar dua pekan. Shinhan mendorong peningkatan nilai perusahaan melalui kebijakan pengembalian kepada pemegang saham yang diperkuat, dan komunikasi langsung dengan investor institusi luar negeri menjadi bagian utama untuk menyampaikan strategi tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "2d0ca53fe597",
     "slug": "불앤베어-위클리-엔비디아-이번에도-깜짝-실적-전망-중요한-건-2분기-가이던스-281923",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Penyebab Kebakaran Namuho: Blue House Tunggu Hasil Investigasi",
         "excerpt": "Blue House menyatakan akan menjawab soal penyebab kebakaran Namuho setelah meninjau dan mengevaluasi hasil investigasi di lokasi. Penyebab spesifik belum disampaikan.",
         "body": "Blue House menyatakan akan menjawab pertanyaan mengenai penyebab kebakaran Namuho setelah meninjau dan mengevaluasi hasil investigasi di lokasi. Pernyataan ini menunjukkan bahwa penyebab kebakaran tidak akan disimpulkan lebih dulu, melainkan dijelaskan secara resmi setelah hasil penyelidikan dikonfirmasi. Laporan asli tidak memuat waktu terjadinya kebakaran, skala kerusakan, pihak yang melakukan investigasi lapangan, atau penyebab konkret. Karena itu, penilaian lanjutan diperkirakan akan disampaikan setelah proses peninjauan dan evaluasi hasil investigasi lapangan selesai. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "e5b55a0acc62",
-    "slug": "lg유플러스-홈-개통as-비대면-처리-월-6만-건-돌파-157676",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T04:43:38.534Z",
-    "updatedAt": "2026-05-10T04:43:38.534Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12042490",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12042490",
-    "titleFingerprint": "3bcf2c402e43460d237b468446e4a73bac086873",
-    "dedupKeys": [
-      "e5b55a0acc62744bbb6f08b6ff586fa2d1bcc26e",
-      "3bcf2c402e43460d237b468446e4a73bac086873",
-      "076920634b7cb832d1d4c247f475130790fe0620"
-    ],
-    "imageUrl": "/images/articles/e5b55a0acc62.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG유플러스 홈 개통·A/S 비대면 처리 월 6만 건 돌파",
-        "excerpt": "LG유플러스는 홈 개통과 애프터서비스 전반에서 비대면 처리 범위를 넓혀 단말 회수, 셀프 개통, 단순 A/S까지 방문 부담을 줄이고 월 6만 건을 넘어섰다.",
-        "body": "LG유플러스는 홈 개통과 애프터서비스(A/S) 서비스 전반에서 비대면 처리 범위를 확대해 월 처리 건수가 6만 건을 돌파했다고 밝혔다. 회사는 단말 회수, 셀프 개통, 단순 A/S까지 방문을 최소화하는 방식으로 고객이 일정을 조율하거나 대기해야 하는 부담을 낮추고 있다. 이번 확대는 기존 방문 중심 서비스 구조를 비대면 중심으로 전환하는 흐름으로, 홈 서비스 이용 과정의 편의성을 높이는 데 초점이 맞춰졌다. LG유플러스는 비대면 처리 범위 확대를 통해 고객 접점 운영 방식을 바꾸고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Uplus Home Setup and A/S Remote Handling Tops 60,000 Monthly Cases",
-        "excerpt": "LG Uplus has expanded remote handling across home setup and after-sales service, reducing visits for device returns, self-activation and simple A/S while surpassing 60,000 monthly cases.",
-        "body": "LG Uplus said its monthly remote handling volume for home setup and after-sales service has exceeded 60,000 cases. The company is broadening non-face-to-face processing across device returns, self-activation and simple A/S, reducing the need for customer visits. The shift is aimed at lowering the burden of schedule coordination and waiting for customers. The expansion reflects a service structure moving away from visit-centered operations toward remote handling, with a focus on improving convenience in home service use. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LGユープラス、ホーム開通・A/Sの非対面処理が月6万件突破",
-        "excerpt": "LGユープラスはホーム開通とアフターサービス全般で非対面処理を拡大し、端末回収、セルフ開通、簡易A/Sまで訪問負担を減らして月6万件を超えた。",
-        "body": "LGユープラスは、ホーム開通とアフターサービス（A/S）全般で非対面処理の範囲を広げ、月間処理件数が6万件を突破したと明らかにした。同社は端末回収、セルフ開通、簡易A/Sまで訪問を最小化する方式を取り入れ、顧客が日程を調整したり待機したりする負担を軽減している。今回の拡大は、従来の訪問中心のサービス構造を非対面中心へ転換する流れであり、ホームサービス利用時の利便性向上に焦点を当てている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG Uplus家庭开通与售后非面对面处理月超6万件",
-        "excerpt": "LG Uplus扩大了家庭开通和售后服务中的非面对面处理范围，将设备回收、自助开通和简单售后纳入其中，减少上门负担，月处理量超过6万件。",
-        "body": "LG Uplus表示，在家庭开通和售后服务（A/S）整体流程中扩大非面对面处理范围后，月处理件数已突破6万件。公司将设备回收、自助开通、简单售后等环节纳入减少上门访问的方式，以降低客户协调时间和等待的负担。此次扩大意味着服务结构正从以访问为中心转向以非面对面处理为中心，重点在于提升家庭服务使用过程中的便利性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LG Uplus supera 60.000 gestiones remotas al mes en instalación y A/S del hogar",
-        "excerpt": "LG Uplus amplió la atención remota en instalación doméstica y servicio posventa, reduciendo visitas para recogida de equipos, autoactivación y A/S simple, con más de 60.000 casos mensuales.",
-        "body": "LG Uplus informó que las gestiones remotas mensuales en instalación de servicios del hogar y atención posventa (A/S) superaron las 60.000. La compañía está ampliando el procesamiento no presencial a la recogida de terminales, la autoactivación y el A/S simple, con el fin de minimizar las visitas. Con ello busca reducir la carga que supone para los clientes coordinar horarios y esperar atención. La medida refleja una transición desde una estructura centrada en visitas hacia un modelo de servicio remoto, enfocado en mejorar la comodidad del usuario. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LG Uplus passa de 60 mil atendimentos remotos mensais em instalação e A/S residencial",
-        "excerpt": "A LG Uplus ampliou o atendimento remoto em instalação residencial e pós-venda, reduzindo visitas para recolha de aparelhos, autoativação e A/S simples, e superou 60 mil casos por mês.",
-        "body": "A LG Uplus informou que o volume mensal de atendimentos remotos em instalação residencial e serviço pós-venda (A/S) ultrapassou 60 mil casos. A empresa está ampliando o processamento não presencial para recolha de aparelhos, autoativação e A/S simples, minimizando a necessidade de visitas. A iniciativa reduz a carga de ajustar agendas e aguardar atendimento para os clientes. A expansão mostra uma mudança da estrutura de serviço centrada em visitas para um modelo mais remoto, com foco em elevar a conveniência no uso dos serviços domésticos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG Uplus meldet über 60.000 Remote-Fälle pro Monat bei Home-Anschluss und A/S",
-        "excerpt": "LG Uplus weitet die kontaktlose Bearbeitung bei Home-Anschluss und After-Sales-Service aus, senkt Besuche für Geräteabholung, Selbstaktivierung und einfache A/S und überschreitet 60.000 Fälle monatlich.",
-        "body": "LG Uplus teilte mit, dass die monatliche Zahl der kontaktlos bearbeiteten Fälle bei Home-Anschluss und After-Sales-Service (A/S) die Marke von 60.000 überschritten hat. Das Unternehmen erweitert die nicht persönliche Abwicklung auf Geräteabholung, Selbstaktivierung und einfache A/S, um Besuche zu minimieren. Dadurch sollen Kunden weniger Aufwand bei Terminabstimmung und Wartezeiten haben. Die Ausweitung steht für einen Wandel von einer besuchsorientierten Servicestruktur hin zu stärker kontaktlosen Abläufen, mit Fokus auf mehr Komfort bei der Nutzung von Home-Services. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LG Uplus dépasse 60.000 traitements à distance par mois pour l’installation et l’A/S à domicile",
-        "excerpt": "LG Uplus élargit le traitement à distance de l’installation à domicile et du service après-vente, réduisant les visites pour récupération d’appareils, auto-activation et A/S simple, avec plus de 60.000 cas mensuels.",
-        "body": "LG Uplus a annoncé que le volume mensuel de traitements à distance pour l’installation à domicile et le service après-vente (A/S) avait dépassé 60.000 cas. L’entreprise étend le traitement non présentiel à la récupération des terminaux, à l’auto-activation et aux interventions A/S simples afin de limiter les visites. Cette évolution vise à réduire la charge liée à la coordination des horaires et à l’attente pour les clients. Elle traduit le passage d’une structure centrée sur les visites vers un modèle davantage axé sur le traitement à distance, afin d’améliorer la commodité des services à domicile. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "LG Uplus تتجاوز 60 ألف معالجة شهرية عن بُعد لفتح الخدمة المنزلية وA/S",
-        "excerpt": "وسعت LG Uplus نطاق المعالجة غير الحضورية في فتح الخدمات المنزلية وخدمة ما بعد البيع، لتشمل استرجاع الأجهزة والتفعيل الذاتي وطلبات A/S البسيطة، متجاوزة 60 ألف حالة شهريا.",
-        "body": "أعلنت LG Uplus أن عدد المعالجات الشهرية عن بُعد في فتح الخدمات المنزلية وخدمة ما بعد البيع (A/S) تجاوز 60 ألف حالة. وتوسع الشركة نطاق المعالجة غير الحضورية ليشمل استرجاع الأجهزة، والتفعيل الذاتي، وطلبات A/S البسيطة، بما يقلل الحاجة إلى الزيارات. وتهدف هذه الخطوة إلى تخفيف عبء تنسيق المواعيد والانتظار على العملاء. ويعكس التوسع تحولا في هيكل الخدمة من نموذج يرتكز على الزيارات إلى نموذج يركز على المعالجة عن بُعد، مع تحسين سهولة استخدام خدمات المنزل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG Uplus की होम ओपनिंग और A/S रिमोट प्रोसेसिंग 60,000 मासिक मामलों के पार",
-        "excerpt": "LG Uplus ने होम ओपनिंग और आफ्टर-सर्विस में गैर-आमने-सामने प्रोसेसिंग बढ़ाई, जिससे डिवाइस रिकवरी, सेल्फ ओपनिंग और सरल A/S में विजिट कम हुई और मासिक मामले 60,000 से ऊपर गए।",
-        "body": "LG Uplus ने बताया कि होम ओपनिंग और आफ्टर-सर्विस (A/S) में रिमोट प्रोसेसिंग का मासिक आंकड़ा 60,000 मामलों को पार कर गया है। कंपनी डिवाइस रिकवरी, सेल्फ ओपनिंग और सरल A/S तक गैर-आमने-सामने 처리 का दायरा बढ़ा रही है, ताकि ग्राहकों के लिए विजिट की जरूरत कम हो। इससे समय तय करने और प्रतीक्षा करने का बोझ घटता है। यह विस्तार विजिट-केंद्रित सेवा संरचना से रिमोट प्रोसेसिंग-केंद्रित मॉडल की ओर बदलाव दिखाता है, जिसका लक्ष्य होम सर्विस उपयोग की सुविधा बढ़ाना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LG Uplus Tembus 60.000 Penanganan Remote Bulanan untuk Pembukaan Home dan A/S",
-        "excerpt": "LG Uplus memperluas penanganan non-tatap muka di pembukaan layanan home dan purnajual, mengurangi kunjungan untuk penarikan perangkat, aktivasi mandiri, dan A/S sederhana hingga melampaui 60.000 kasus per bulan.",
-        "body": "LG Uplus menyatakan bahwa volume penanganan non-tatap muka bulanan untuk pembukaan layanan home dan layanan purnajual (A/S) telah melampaui 60.000 kasus. Perusahaan memperluas proses remote ke penarikan perangkat, aktivasi mandiri, dan A/S sederhana untuk meminimalkan kunjungan. Langkah ini menurunkan beban pelanggan dalam mengatur jadwal dan menunggu layanan. Perluasan tersebut menunjukkan perubahan struktur layanan dari model berbasis kunjungan menuju penanganan non-tatap muka, dengan fokus meningkatkan kenyamanan penggunaan layanan home. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "20aa8be3c710",
-    "slug": "단독-마크롱에-이력서-건넨-연세대-학생-프랑스-대사관-초청받았다-545132",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T04:42:50.669Z",
-    "updatedAt": "2026-05-10T04:42:50.669Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042492",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042492",
-    "titleFingerprint": "81f0f5fad4f957c38478b561e81332f26c83ec14",
-    "dedupKeys": [
-      "20aa8be3c7102cafd45a82b0e3639f1a8e79a666",
-      "81f0f5fad4f957c38478b561e81332f26c83ec14",
-      "e2075e57cd3c6af5c91b96f50ab052f86e19bff5"
-    ],
-    "imageUrl": "/images/articles/20aa8be3c710.png",
-    "i18n": {
-      "ko": {
-        "title": "마크롱에 이력서 건넨 연세대 학생, 프랑스 대사관 초청받아",
-        "excerpt": "마크롱 대통령의 지난 4월 연세대 강연 현장에서 이력서를 건넨 송예린씨가 오는 14일 프랑스 대사관 행사에 초청받았다.",
-        "body": "지난 4월 에마뉘엘 마크롱 프랑스 대통령이 연세대학교를 방문해 강연했을 때 현장에서 대통령에게 이력서를 건넨 연세대 학생 송예린씨가 오는 14일 프랑스 대사관 행사에 초청받았다. 원문에 따르면 송씨는 마크롱 대통령의 손에 직접 이력서를 전달한 인물로 소개됐다. 이번 초청은 당시 강연장에서 벌어진 이력서 전달 이후 이어진 후속 일정이라는 점에서 주목된다. 다만 행사 성격이나 송씨의 향후 진로와 관련한 추가 내용은 원문 요약에 제시되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Yonsei Student Who Handed Resume to Macron Invited to French Embassy Event",
-        "excerpt": "Song Ye-rin, the Yonsei student who handed her resume to President Emmanuel Macron during his April lecture, has been invited to a French Embassy event on the 14th.",
-        "body": "Song Ye-rin, a Yonsei University student who handed her resume to French President Emmanuel Macron during his visit and lecture at the university in April, has been invited to a French Embassy event on the 14th. According to the original report, Song was introduced as the student who directly placed her resume in Macron’s hands at the lecture venue. The invitation is drawing attention as a follow-up to that unexpected moment during the presidential visit. No further details about the nature of the embassy event or Song’s future career plans were included in the provided source summary. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "マクロン氏に履歴書を渡した延世大生、フランス大使館行事に招待",
-        "excerpt": "4月の延世大学講演でマクロン仏大統領に履歴書を渡したソン・イェリンさんが、14日のフランス大使館行事に招待された。",
-        "body": "4月、エマニュエル・マクロン仏大統領が延世大学を訪問して講演した際、現場で大統領に履歴書を渡した延世大学の学生ソン・イェリンさんが、14日に開かれるフランス大使館の行事に招待された。原文によると、ソンさんはマクロン大統領の手に直接履歴書を手渡した人物として紹介された。今回の招待は、講演会場で起きた履歴書提出の場面に続く動きとして注目される。ただし、行事の性格やソンさんの今後の進路に関する追加情報は、原文要約には示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "向马克龙递交简历的延世大学学生获法国大使馆邀请",
-        "excerpt": "4月马克龙总统在延世大学演讲时递交简历的学生宋艺潾，已获邀出席14日举行的法国大使馆活动。",
-        "body": "今年4月，法国总统埃马纽埃尔·马克龙访问延世大学并发表演讲时，现场向总统递交简历的延世大学学生宋艺潾，已获邀参加14日举行的法国大使馆活动。根据原文报道，宋艺潾被介绍为将简历直接交到马克龙总统手中的学生。此次邀请因发生在当时演讲现场递交简历之后，成为后续进展而受到关注。不过，原文摘要并未提供该活动的具体性质，也未说明宋艺潾未来职业规划的更多内容。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Estudiante de Yonsei que entregó su CV a Macron fue invitada por la Embajada francesa",
-        "excerpt": "Song Ye-rin, estudiante de Yonsei que entregó su currículum a Emmanuel Macron durante su conferencia de abril, fue invitada a un acto de la Embajada francesa el día 14.",
-        "body": "Song Ye-rin, estudiante de la Universidad Yonsei que entregó su currículum al presidente francés Emmanuel Macron durante la visita y conferencia que realizó en abril en la universidad, fue invitada a un evento de la Embajada de Francia el día 14. Según el reporte original, Song fue presentada como la estudiante que puso directamente su currículum en manos de Macron en el lugar de la conferencia. La invitación llama la atención como una continuación de aquel episodio ocurrido durante la visita presidencial. El resumen de la fuente no aporta más detalles sobre el carácter del acto ni sobre los planes profesionales de Song. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Estudante da Yonsei que entregou currículo a Macron é convidada pela Embaixada francesa",
-        "excerpt": "Song Ye-rin, estudante da Yonsei que entregou seu currículo a Emmanuel Macron durante palestra em abril, foi convidada para evento da Embaixada da França no dia 14.",
-        "body": "Song Ye-rin, estudante da Universidade Yonsei que entregou seu currículo ao presidente francês Emmanuel Macron durante a visita e palestra dele à instituição em abril, foi convidada para um evento da Embaixada da França no dia 14. Segundo a reportagem original, Song foi apresentada como a aluna que entregou diretamente o currículo nas mãos de Macron no local da palestra. O convite chama atenção por ser um desdobramento daquele momento ocorrido durante a visita presidencial. O resumo da fonte não traz detalhes adicionais sobre a natureza do evento nem sobre os planos de carreira de Song. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Yonsei-Studentin übergab Macron Lebenslauf und wird zur französischen Botschaft eingeladen",
-        "excerpt": "Song Ye-rin, die Macron bei seinem Yonsei-Vortrag im April ihren Lebenslauf übergab, wurde zu einer Veranstaltung der französischen Botschaft am 14. eingeladen.",
-        "body": "Song Ye-rin, eine Studentin der Yonsei University, die dem französischen Präsidenten Emmanuel Macron bei dessen Besuch und Vortrag an der Universität im April ihren Lebenslauf übergab, wurde zu einer Veranstaltung der französischen Botschaft am 14. eingeladen. Dem Originalbericht zufolge wurde Song als die Studentin vorgestellt, die Macron ihren Lebenslauf direkt in die Hand gab. Die Einladung sorgt für Aufmerksamkeit, weil sie als Folgetermin nach dieser Szene während des Präsidentenbesuchs gilt. Weitere Angaben zur Art der Botschaftsveranstaltung oder zu Songs künftigen beruflichen Plänen enthält die vorliegende Zusammenfassung nicht. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’étudiante de Yonsei qui a remis son CV à Macron invitée à l’ambassade de France",
-        "excerpt": "Song Ye-rin, étudiante de Yonsei qui a remis son CV à Emmanuel Macron lors de sa conférence d’avril, a été invitée à un événement de l’ambassade de France le 14.",
-        "body": "Song Ye-rin, étudiante de l’Université Yonsei qui a remis son CV au président français Emmanuel Macron lors de sa visite et de sa conférence sur le campus en avril, a été invitée à un événement de l’ambassade de France le 14. Selon l’article d’origine, Song est présentée comme l’étudiante ayant directement placé son CV entre les mains de Macron dans la salle de conférence. Cette invitation attire l’attention comme une suite à cet épisode survenu pendant la visite présidentielle. Le résumé fourni ne précise toutefois pas la nature de l’événement ni les projets de carrière de Song. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "طالبة من جامعة يونسي سلّمت سيرتها لماكرون تتلقى دعوة من السفارة الفرنسية",
-        "excerpt": "سونغ يي-رين، طالبة يونسي التي سلّمت سيرتها الذاتية للرئيس إيمانويل ماكرون خلال محاضرته في أبريل، دُعيت إلى فعالية بالسفارة الفرنسية يوم 14.",
-        "body": "تلقت سونغ يي-رين، الطالبة في جامعة يونسي التي سلّمت سيرتها الذاتية للرئيس الفرنسي إيمانويل ماكرون أثناء زيارته للجامعة وإلقائه محاضرة فيها في أبريل، دعوة لحضور فعالية في السفارة الفرنسية يوم 14. ووفقاً للتقرير الأصلي، قُدمت سونغ بوصفها الطالبة التي وضعت سيرتها مباشرة في يد ماكرون داخل قاعة المحاضرة. وتلفت هذه الدعوة الانتباه لأنها تأتي كمتابعة لذلك الموقف الذي حدث خلال الزيارة الرئاسية. ولم يتضمن ملخص المصدر تفاصيل إضافية عن طبيعة الفعالية أو خطط سونغ المهنية المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मैक्रों को रिज्यूमे देने वाली योनसेई छात्रा को फ्रांसीसी दूतावास ने बुलाया",
-        "excerpt": "अप्रैल में योनसेई विश्वविद्यालय के व्याख्यान के दौरान राष्ट्रपति इमैनुएल मैक्रों को रिज्यूमे देने वाली सॉन्ग ये-रिन को 14 तारीख के फ्रांसीसी दूतावास कार्यक्रम में आमंत्रित किया गया है।",
-        "body": "अप्रैल में फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने योनसेई विश्वविद्यालय का दौरा कर व्याख्यान दिया था। उसी दौरान उन्हें अपना रिज्यूमे सौंपने वाली योनसेई विश्वविद्यालय की छात्रा सॉन्ग ये-रिन को 14 तारीख को होने वाले फ्रांसीसी दूतावास के कार्यक्रम में आमंत्रित किया गया है। मूल रिपोर्ट के अनुसार, सॉन्ग को उस छात्रा के रूप में बताया गया जिसने व्याख्यान स्थल पर सीधे मैक्रों के हाथों में अपना रिज्यूमे दिया। यह निमंत्रण उस घटना के बाद की आगे की कड़ी के रूप में ध्यान खींच रहा है। स्रोत सारांश में कार्यक्रम की प्रकृति या सॉन्ग की आगे की करियर योजना पर अतिरिक्त जानकारी नहीं दी गई है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Mahasiswi Yonsei yang Serahkan CV ke Macron Diundang Kedutaan Prancis",
-        "excerpt": "Song Ye-rin, mahasiswi Yonsei yang menyerahkan CV kepada Presiden Emmanuel Macron saat kuliah umum April lalu, diundang ke acara Kedutaan Prancis pada tanggal 14.",
-        "body": "Song Ye-rin, mahasiswi Universitas Yonsei yang menyerahkan CV kepada Presiden Prancis Emmanuel Macron saat kunjungan dan kuliah umum Macron di kampus tersebut pada April, diundang ke acara Kedutaan Prancis pada tanggal 14. Menurut laporan asli, Song diperkenalkan sebagai mahasiswi yang langsung menyerahkan CV ke tangan Macron di lokasi kuliah umum. Undangan ini menarik perhatian karena menjadi kelanjutan dari momen penyerahan CV yang terjadi saat kunjungan presiden tersebut. Namun, ringkasan sumber tidak memuat detail tambahan mengenai jenis acara maupun rencana karier Song ke depan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5bb92df73698",
-    "slug": "국토장관-양도세-중과-매물-잠김-우려-크지만국민주권정부는-과거-정부와-달라-600935",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T04:41:59.182Z",
-    "updatedAt": "2026-05-10T04:41:59.182Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042493",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042493",
-    "titleFingerprint": "95575535bf307a2d1685d658be188b740b3a0406",
-    "dedupKeys": [
-      "5bb92df736983069230ba0ad69695d5f7a54c5e6",
-      "95575535bf307a2d1685d658be188b740b3a0406",
-      "986dc377270c19ce35f821f64cfd9947d33d78d1"
-    ],
-    "imageUrl": "/images/articles/5bb92df73698.jpg",
-    "i18n": {
-      "ko": {
-        "title": "양도세 중과 재개 우려에 국토장관 “매물 잠김 우려 크지만 정부는 다르다”",
-        "excerpt": "김윤덕 국토교통부 장관은 10일 SNS에서 양도세 중과 재개 후 매물 잠김 우려가 크다는 지적에 국민주권정부는 과거 정부와 다르다고 밝혔다.",
-        "body": "김윤덕 국토교통부 장관은 10일 사회관계망서비스(SNS)를 통해 양도세 중과 재개 이후 부동산 시장에서 매물 잠김이 커질 수 있다는 우려에 대해 입장을 밝혔다. 김 장관은 “양도세 중과 재개 후 매물 잠김 우려의 목소리가 크지만, 국민주권정부는 다를 것이고 다를 수밖에 없다”고 말했다. 양도세 중과는 주택 보유자의 매도 판단과 시장 매물 흐름에 직접 영향을 줄 수 있어 시장의 관심이 집중되고 있다. 김 장관의 발언은 정책 재개 과정에서 제기되는 공급 위축 우려를 의식한 메시지로 풀이된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Capital Gains Tax Surcharge Concern: Land Minister Says Government Will Be Different",
-        "excerpt": "Land Minister Kim Yoon-duk said on May 10 via SNS that although concerns over a property listing freeze after the tax surcharge restart are high, this government is different.",
-        "body": "Minister of Land, Infrastructure and Transport Kim Yoon-duk addressed concerns on May 10 through social media that restarting the capital gains tax surcharge could lead to a freeze in property listings. Kim said, “There are loud concerns about listings being locked up after the capital gains tax surcharge resumes, but the People’s Sovereignty Government will be different and must be different.” The surcharge is drawing market attention because it can directly affect homeowners’ selling decisions and the flow of listings. His remarks appear to respond to concerns that the policy restart could reduce available supply. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "譲渡税重課再開に懸念、国土相「売り控え懸念は大きいが政府は違う」",
-        "excerpt": "金潤徳国土交通部長官は10日、SNSで譲渡税重課再開後の売り控え懸念が大きいとの指摘に、国民主権政府は過去の政府と違うと述べた。",
-        "body": "金潤徳国土交通部長官は10日、SNSを通じて、譲渡税重課の再開後に不動産市場で売り控えが強まる可能性があるとの懸念について見解を示した。金長官は「譲渡税重課再開後、売り物件がロックされるとの懸念の声は大きいが、国民主権政府は違うだろうし、違わざるを得ない」と述べた。譲渡税重課は住宅保有者の売却判断や市場の物件供給の流れに直接影響し得るため、市場の関心が集まっている。今回の発言は、政策再開に伴う供給縮小懸念を意識したものとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "转让税重税重启引担忧，韩国国土部长称“政府将不同以往”",
-        "excerpt": "韩国国土交通部长官金润德10日在社交媒体表示，虽有转让税重税重启后房源被锁定的担忧，但国民主权政府不同于过去政府。",
-        "body": "韩国国土交通部长官金润德10日通过社交媒体，就转让税重税重启后房地产市场可能出现房源被锁定的担忧表明立场。金润德表示：“转让税重税重启后，关于房源被锁定的担忧声音很大，但国民主权政府会不同，也必然不同。”转让税重税可能直接影响住房持有者的出售判断和市场房源流动，因此受到市场关注。金部长的发言被视为回应政策重启过程中外界对供应收缩的担忧。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Recargo al impuesto de plusvalías preocupa: ministro dice que el Gobierno será distinto",
-        "excerpt": "El ministro Kim Yoon-duk dijo el 10 de mayo en redes sociales que, aunque preocupa el bloqueo de viviendas en venta tras reactivar el recargo, este Gobierno será diferente.",
-        "body": "El ministro de Tierra, Infraestructura y Transporte, Kim Yoon-duk, se pronunció el 10 de mayo en redes sociales sobre las preocupaciones de que la reactivación del recargo al impuesto sobre ganancias de capital pueda bloquear la salida de viviendas al mercado. Kim dijo: “Hay muchas voces preocupadas por el bloqueo de propiedades en venta tras la reanudación del recargo, pero el Gobierno de Soberanía Popular será diferente y no puede sino serlo”. La medida atrae atención porque puede influir directamente en la decisión de vender de los propietarios y en el flujo de oferta. Sus palabras responden a temores de contracción de la oferta. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Sobretaxa sobre ganhos de capital preocupa; ministro diz que governo será diferente",
-        "excerpt": "Kim Yoon-duk afirmou em 10 de maio nas redes sociais que, apesar do receio de travamento de imóveis à venda após a retomada da sobretaxa, o governo será diferente.",
-        "body": "O ministro da Terra, Infraestrutura e Transporte, Kim Yoon-duk, comentou em 10 de maio nas redes sociais as preocupações de que a retomada da sobretaxa sobre ganhos de capital possa travar a oferta de imóveis no mercado. Kim afirmou: “Há muitas vozes preocupadas com o bloqueio de imóveis à venda após a retomada da sobretaxa, mas o Governo de Soberania Popular será diferente e não poderá deixar de ser diferente”. A sobretaxa chama atenção porque pode afetar diretamente a decisão de venda dos proprietários e o fluxo de ofertas. A declaração busca responder aos receios de redução de oferta durante a retomada da política. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Sorge um Kapitalertragsteuer-Zuschlag: Minister sagt, Regierung werde anders handeln",
-        "excerpt": "Landminister Kim Yoon-duk sagte am 10. Mai in sozialen Medien, trotz großer Sorge vor eingefrorenen Immobilienangeboten nach Wiederaufnahme des Zuschlags werde die Regierung anders sein.",
-        "body": "Kim Yoon-duk, Minister für Land, Infrastruktur und Verkehr, äußerte sich am 10. Mai in sozialen Medien zu Sorgen, dass die Wiederaufnahme des Zuschlags auf die Kapitalertragsteuer zu einem Einfrieren von Immobilienangeboten führen könnte. Kim sagte: „Die Stimmen, die nach der Wiederaufnahme des Zuschlags eine Blockade von Angeboten befürchten, sind laut, aber die Regierung der Volkssouveränität wird anders sein und muss anders sein.“ Der Zuschlag steht im Fokus, weil er Verkaufsentscheidungen von Hauseigentümern und den Angebotsfluss direkt beeinflussen kann. Die Aussage reagiert auf Befürchtungen einer Angebotsverknappung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Surtaxe sur les plus-values: le ministre répond aux craintes de gel des ventes",
-        "excerpt": "Le ministre Kim Yoon-duk a déclaré le 10 mai sur les réseaux sociaux que, malgré les craintes de blocage des biens après la reprise de la surtaxe, le gouvernement sera différent.",
-        "body": "Le ministre du Territoire, des Infrastructures et des Transports, Kim Yoon-duk, a réagi le 10 mai sur les réseaux sociaux aux inquiétudes selon lesquelles la reprise de la surtaxe sur les plus-values pourrait bloquer les mises en vente immobilières. Kim a déclaré: “Les inquiétudes concernant un gel des biens à vendre après la reprise de la surtaxe sont fortes, mais le Gouvernement de souveraineté populaire sera différent et ne peut qu’être différent.” Cette surtaxe retient l’attention car elle peut influer directement sur la décision de vendre des propriétaires et sur le flux d’offres. Ses propos répondent aux craintes d’une contraction de l’offre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مخاوف من تشديد ضريبة الأرباح الرأسمالية ووزير الأراضي: الحكومة ستكون مختلفة",
-        "excerpt": "قال وزير الأراضي الكوري كيم يون دوك في 10 مايو عبر وسائل التواصل إن مخاوف تجميد المعروض بعد استئناف التشديد كبيرة، لكن حكومة السيادة الشعبية ستكون مختلفة.",
-        "body": "أوضح وزير الأراضي والبنية التحتية والنقل كيم يون دوك في 10 مايو عبر وسائل التواصل الاجتماعي موقفه من المخاوف من أن يؤدي استئناف تشديد ضريبة الأرباح الرأسمالية إلى تجميد المعروض في سوق العقارات. وقال كيم: “تتصاعد الأصوات القلقة من انحباس المعروض بعد استئناف تشديد ضريبة الأرباح الرأسمالية، لكن حكومة السيادة الشعبية ستكون مختلفة ولا بد أن تكون مختلفة.” وتحظى هذه الضريبة باهتمام السوق لأنها قد تؤثر مباشرة في قرارات مالكي المنازل بشأن البيع وفي تدفق المعروض. وتأتي تصريحاته ردا على مخاوف تقلص العرض مع استئناف السياسة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कैपिटल गेन टैक्स सरचार्ज पर चिंता, भूमि मंत्री बोले सरकार अलग होगी",
-        "excerpt": "भूमि मंत्री किम यून-डक ने 10 मई को SNS पर कहा कि टैक्स सरचार्ज फिर शुरू होने के बाद संपत्ति बिक्री रुकने की चिंता बड़ी है, लेकिन यह सरकार अलग होगी।",
-        "body": "भूमि, अवसंरचना और परिवहन मंत्री किम यून-डक ने 10 मई को सोशल मीडिया के जरिए उस चिंता पर प्रतिक्रिया दी कि कैपिटल गेन टैक्स सरचार्ज फिर शुरू होने के बाद रियल एस्टेट बाजार में बिक्री के लिए उपलब्ध संपत्तियां रुक सकती हैं। किम ने कहा, “सरचार्ज फिर शुरू होने के बाद बिक्री योग्य संपत्तियों के लॉक होने की चिंता की आवाजें बड़ी हैं, लेकिन पीपुल्स सॉवरेन्टी गवर्नमेंट अलग होगी और अलग होना ही होगा।” यह सरचार्ज बाजार के ध्यान में है क्योंकि यह घर मालिकों के बेचने के निर्णय और उपलब्ध संपत्तियों के प्रवाह को सीधे प्रभावित कर सकता है। उनका बयान नीति बहाली से जुड़ी आपूर्ति घटने की आशंका का जवाब माना जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kekhawatiran Pajak Capital Gain Diperberat, Menteri: Pemerintah Akan Berbeda",
-        "excerpt": "Menteri Kim Yoon-duk pada 10 Mei lewat media sosial mengatakan kekhawatiran pasokan properti terkunci setelah pemberlakuan kembali pajak berat memang besar, tetapi pemerintah akan berbeda.",
-        "body": "Menteri Pertanahan, Infrastruktur, dan Transportasi Kim Yoon-duk pada 10 Mei menyampaikan sikapnya melalui media sosial terkait kekhawatiran bahwa pemberlakuan kembali pajak capital gain yang diperberat dapat membuat pasokan properti di pasar terkunci. Kim mengatakan, “Suara kekhawatiran atas terkuncinya pasokan setelah pajak capital gain yang diperberat kembali diberlakukan memang besar, tetapi Pemerintah Kedaulatan Rakyat akan berbeda dan memang harus berbeda.” Kebijakan ini menjadi perhatian karena dapat langsung memengaruhi keputusan pemilik rumah untuk menjual dan arus pasokan di pasar. Pernyataan Kim dipandang sebagai respons atas kekhawatiran berkurangnya pasokan. Sumber: mk.co.kr"
       }
     }
   }
