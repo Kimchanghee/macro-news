@@ -1,5 +1,230 @@
 [
   {
+    "id": "6c46c3f1d23c",
+    "slug": "성과급-전직원에-나눠줘야지-왜-반도체가-다-먹나삼전-노조-내분-심화-819764",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T01:18:33.198Z",
+    "updatedAt": "2026-05-10T01:18:33.198Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12042443",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12042443",
+    "titleFingerprint": "bfd9a6d178761d313fd0ca34a5195895a24984b8",
+    "dedupKeys": [
+      "6c46c3f1d23cb37b6ea4eb5d1f40e469f235ef8c",
+      "bfd9a6d178761d313fd0ca34a5195895a24984b8",
+      "2d39ca4cec4b61818943743ad180dd98d4625063"
+    ],
+    "imageUrl": "/images/articles/6c46c3f1d23c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 성과급 배분 갈등 확산, 반도체 쏠림 논란에 노조 내분 심화",
+        "excerpt": "삼성전자 노조 내부에서 성과급 배분을 둘러싼 갈등이 커지고 있다. 최대 노조가 반도체 외 부문 이익 공유 요구를 받아들이지 않으면서 교섭권 논란까지 번지는 분위기다.",
+        "body": "삼성전자 노조 내부에서 성과급 배분을 둘러싼 갈등이 심화하고 있다. 원문에 따르면 교섭권을 위임받은 최대 노조가 반도체 부문 외 조직에 대한 이익 공유 요구를 받아들이지 않으면서, 일부 구성원 사이에서 “성과급을 전 직원에게 나눠야 한다”는 불만이 제기됐다. 논란의 핵심은 반도체 부문 성과가 전체 직원 보상에 어떻게 반영돼야 하는지다. 성과급 배분 방식은 노조 교섭의 주요 쟁점으로 떠올랐고, 요구가 받아들여지지 않자 교섭권을 둘러싼 내부 반발도 커지는 양상이다. 이번 갈등은 향후 삼성전자 노사 교섭 과정에서 보상 체계와 부문별 이익 공유 논의에 영향을 줄 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Bonus Dispute Deepens as Union Rift Grows Over Chip Profits",
+        "excerpt": "A dispute inside Samsung Electronics’ union is intensifying over bonus distribution, as the largest union declines demands to share semiconductor-related profits with other divisions.",
+        "body": "A dispute over bonus distribution is deepening within Samsung Electronics’ union. According to the original report, the largest union, which has been delegated bargaining rights, did not accept demands for profit sharing for divisions outside semiconductors. This has prompted complaints from some members that performance bonuses should be shared among all employees. The core issue is how earnings from the semiconductor division should be reflected in companywide employee compensation. Bonus allocation has emerged as a key labor negotiation issue, and resistance over bargaining rights is also growing internally after the demand was rejected. The conflict may affect future labor-management talks at Samsung Electronics on pay systems and profit sharing by division. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子の成果給配分対立が拡大、半導体偏重めぐり労組内紛深まる",
+        "excerpt": "サムスン電子の労組内部で成果給配分をめぐる対立が強まっている。最大労組が半導体以外の部門への利益共有要求を受け入れず、交渉権をめぐる不満も広がっている。",
+        "body": "サムスン電子の労組内部で、成果給の配分をめぐる対立が深まっている。原文によると、交渉権を委任された最大労組が、半導体部門以外の組織に対する利益共有要求を受け入れなかったことで、一部構成員から「成果給は全社員に分けるべきだ」との不満が出ている。争点は、半導体部門の成果を全社の従業員報酬にどう反映するかだ。成果給の配分方式は労組交渉の主要な論点となり、要求が受け入れられなかったことで交渉権をめぐる内部反発も強まっている。今回の対立は今後のサムスン電子の労使交渉で、報酬体系や部門別利益共有の議論に影響する可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子奖金分配矛盾升级，半导体独占收益争议加剧工会内部分裂",
+        "excerpt": "三星电子工会内部围绕绩效奖金分配的矛盾正在加深。最大工会未接受向半导体以外部门共享收益的要求，引发围绕谈判权的内部不满。",
+        "body": "三星电子工会内部围绕绩效奖金分配的矛盾正在加深。原文称，获得谈判权委托的最大工会未接受向半导体部门以外组织共享收益的要求，部分成员因此提出“绩效奖金应分给全体员工”的不满。争议核心在于，半导体部门的业绩应如何反映到全公司员工补偿中。绩效奖金分配方式已成为工会谈判的主要议题，在相关要求未被接受后，围绕谈判权的内部反弹也在扩大。此次矛盾可能影响三星电子今后的劳资谈判，并牵动薪酬体系及各部门收益共享讨论。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics enfrenta mayor disputa sindical por bonos y beneficios de chips",
+        "excerpt": "El conflicto interno del sindicato de Samsung Electronics por el reparto de bonos se intensifica, después de que el mayor sindicato rechazara compartir beneficios de semiconductores con otras áreas.",
+        "body": "El conflicto por la distribución de bonos de desempeño se está profundizando dentro del sindicato de Samsung Electronics. Según el informe original, el mayor sindicato, que recibió la delegación del derecho de negociación, no aceptó la demanda de compartir beneficios con divisiones fuera del área de semiconductores. Esto generó que algunos miembros reclamaran que los bonos deberían repartirse entre todos los empleados. El punto central es cómo deben reflejarse los resultados del negocio de semiconductores en la compensación de toda la plantilla. La fórmula de reparto de bonos se convirtió en un tema clave de negociación sindical, y el rechazo de la demanda elevó la resistencia interna sobre el derecho de negociación. El conflicto puede influir en futuras conversaciones laborales sobre el sistema salarial y el reparto de beneficios por división. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics vê disputa sindical crescer por bônus e lucros de semicondutores",
+        "excerpt": "O conflito dentro do sindicato da Samsung Electronics sobre a distribuição de bônus se intensifica, após o maior sindicato rejeitar a demanda de compartilhar lucros de semicondutores com outras áreas.",
+        "body": "A disputa sobre a distribuição de bônus por desempenho está se aprofundando dentro do sindicato da Samsung Electronics. Segundo o relato original, o maior sindicato, que recebeu a delegação do direito de negociação, não aceitou a demanda de compartilhamento de lucros com áreas fora do setor de semicondutores. Com isso, alguns membros passaram a reclamar que os bônus deveriam ser divididos entre todos os funcionários. O ponto central é como o desempenho da divisão de semicondutores deve ser refletido na remuneração de toda a empresa. A forma de distribuição dos bônus tornou-se um tema importante da negociação sindical, e a rejeição da demanda ampliou a resistência interna sobre o direito de negociação. O conflito pode afetar futuras conversas trabalhistas sobre remuneração e compartilhamento de lucros por divisão. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics: Bonusstreit spaltet Gewerkschaft wegen Chip-Gewinnen weiter",
+        "excerpt": "Bei Samsung Electronics verschärft sich ein interner Gewerkschaftsstreit über die Verteilung von Boni, nachdem die größte Gewerkschaft Forderungen nach Gewinnbeteiligung außerhalb der Halbleitersparte ablehnte.",
+        "body": "Innerhalb der Gewerkschaft von Samsung Electronics verschärft sich der Streit über die Verteilung von Leistungsboni. Dem Originalbericht zufolge akzeptierte die größte Gewerkschaft, der das Verhandlungsrecht übertragen wurde, Forderungen nach Gewinnbeteiligung für Bereiche außerhalb der Halbleitersparte nicht. Daraufhin äußerten einige Mitglieder die Kritik, Boni müssten an alle Beschäftigten verteilt werden. Kern der Auseinandersetzung ist, wie die Ergebnisse der Halbleitersparte in die Vergütung der gesamten Belegschaft einfließen sollen. Die Bonusverteilung ist zu einem wichtigen Thema der Gewerkschaftsverhandlungen geworden, und nach der Ablehnung der Forderung wächst auch der interne Widerstand gegen die Ausübung des Verhandlungsrechts. Der Konflikt könnte künftige Gespräche zwischen Samsung Electronics und der Arbeitnehmerseite über Vergütungssysteme und Gewinnbeteiligung nach Sparten beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics: le conflit syndical sur les primes et les profits des puces s’aggrave",
+        "excerpt": "Le conflit interne du syndicat de Samsung Electronics autour de la répartition des primes s’intensifie, le plus grand syndicat ayant refusé de partager les gains des semi-conducteurs avec d’autres divisions.",
+        "body": "Le conflit sur la répartition des primes de performance s’aggrave au sein du syndicat de Samsung Electronics. Selon l’article original, le plus grand syndicat, qui a reçu le droit de négociation, n’a pas accepté la demande de partage des bénéfices avec les divisions autres que les semi-conducteurs. Certains membres ont alors exprimé leur mécontentement, estimant que les primes devraient être distribuées à tous les employés. Le cœur du débat porte sur la manière dont les résultats de la division semi-conducteurs doivent être reflétés dans la rémunération de l’ensemble du personnel. La méthode de distribution des primes est devenue un sujet majeur des négociations syndicales, et le refus de la demande renforce aussi les tensions internes autour du droit de négociation. Ce conflit pourrait peser sur les futures discussions sociales de Samsung Electronics concernant le système de rémunération et le partage des bénéfices par division. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تواجه انقساماً نقابياً أعمق بسبب مكافآت أرباح الرقائق",
+        "excerpt": "يتصاعد الخلاف داخل نقابة سامسونغ إلكترونيكس حول توزيع مكافآت الأداء، بعدما رفضت أكبر نقابة مطلب مشاركة أرباح قطاع أشباه الموصلات مع الأقسام الأخرى.",
+        "body": "يتعمق الخلاف داخل نقابة سامسونغ إلكترونيكس بشأن توزيع مكافآت الأداء. وبحسب التقرير الأصلي، فإن أكبر نقابة، التي فُوضت بحق التفاوض، لم تقبل مطلب مشاركة الأرباح مع الأقسام خارج قطاع أشباه الموصلات. وأثار ذلك اعتراضات من بعض الأعضاء بأن مكافآت الأداء ينبغي أن تُوزع على جميع الموظفين. وتتمحور القضية حول كيفية انعكاس أداء قطاع أشباه الموصلات على تعويضات العاملين في الشركة كلها. أصبحت طريقة توزيع المكافآت بنداً رئيسياً في مفاوضات النقابة، كما يتزايد الاعتراض الداخلي على حق التفاوض بعد رفض المطلب. وقد يؤثر هذا الخلاف في مفاوضات العمل المقبلة لدى سامسونغ إلكترونيكس بشأن نظام التعويضات وتقاسم الأرباح بين الأقسام. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics में बोनस बंटवारे पर विवाद गहराया, चिप मुनाफे से यूनियन में दरार",
+        "excerpt": "Samsung Electronics की यूनियन में प्रदर्शन बोनस के बंटवारे को लेकर विवाद बढ़ रहा है। सबसे बड़ी यूनियन ने सेमीकंडक्टर के बाहर लाभ साझा करने की मांग नहीं मानी, जिससे वार्ता अधिकार पर असंतोष बढ़ा।",
+        "body": "Samsung Electronics की यूनियन के भीतर प्रदर्शन बोनस के वितरण को लेकर विवाद गहरा रहा है। मूल रिपोर्ट के अनुसार, वार्ता अधिकार प्राप्त सबसे बड़ी यूनियन ने सेमीकंडक्टर विभाग के अलावा अन्य संगठनों के लिए लाभ साझा करने की मांग स्वीकार नहीं की। इसके बाद कुछ सदस्यों ने शिकायत की कि प्रदर्शन बोनस सभी कर्मचारियों में बांटा जाना चाहिए। विवाद का मुख्य मुद्दा यह है कि सेमीकंडक्टर विभाग के परिणामों को पूरी कंपनी के कर्मचारियों के वेतन और प्रोत्साहन में कैसे दिखाया जाए। बोनस वितरण का तरीका यूनियन वार्ता का प्रमुख मुद्दा बन गया है, और मांग खारिज होने के बाद वार्ता अधिकार को लेकर आंतरिक विरोध भी बढ़ रहा है। यह विवाद Samsung Electronics की आगे की श्रम वार्ताओं में वेतन प्रणाली और विभागवार लाभ साझा करने की चर्चा को प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics Dilanda Konflik Bonus, Serikat Terbelah soal Laba Chip",
+        "excerpt": "Konflik internal serikat Samsung Electronics soal pembagian bonus kinerja makin dalam setelah serikat terbesar menolak tuntutan berbagi laba semikonduktor dengan divisi lain.",
+        "body": "Konflik mengenai pembagian bonus kinerja semakin dalam di internal serikat Samsung Electronics. Menurut laporan asli, serikat terbesar yang mendapat mandat hak perundingan tidak menerima tuntutan berbagi laba untuk organisasi di luar divisi semikonduktor. Hal ini memicu keluhan dari sebagian anggota bahwa bonus kinerja seharusnya dibagikan kepada seluruh karyawan. Inti persoalannya adalah bagaimana kinerja divisi semikonduktor harus tercermin dalam kompensasi karyawan secara keseluruhan. Skema pembagian bonus telah menjadi isu utama dalam perundingan serikat, dan setelah tuntutan itu tidak diterima, penolakan internal terkait hak perundingan juga meningkat. Konflik ini dapat memengaruhi perundingan ketenagakerjaan Samsung Electronics berikutnya mengenai sistem kompensasi dan pembagian laba per divisi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "826de06077f5",
+    "slug": "vvip-전용-상품에-넣어드릴게요고객-돈-5억-가로챈-은행원-879338",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T01:17:24.460Z",
+    "updatedAt": "2026-05-10T01:17:24.461Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042445",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042445",
+    "titleFingerprint": "b407429a6dec634145ef9ecb3f60a1c24515b5cb",
+    "dedupKeys": [
+      "826de06077f57831f86596f0e7d79789e088642d",
+      "b407429a6dec634145ef9ecb3f60a1c24515b5cb",
+      "7a334c4fbfd6af6583548cf71e38bd29459bb26a"
+    ],
+    "imageUrl": "/images/articles/826de06077f5.png",
+    "i18n": {
+      "ko": {
+        "title": "은행원 고객 돈 5억4000만원 사기, VVIP 상품 미끼로 실형 선고",
+        "excerpt": "인천지법은 10일 높은 수익률의 VVIP 전용 금융상품이 있다며 고객을 속여 5억4000만원을 가로챈 50대 은행원에게 사기 혐의로 실형을 선고했다.",
+        "body": "높은 수익률의 금융상품에 넣어주겠다고 고객을 속여 거액을 가로챈 50대 은행원이 실형을 선고받았다. 10일 연합뉴스에 따르면 인천지법 형사5단독 송종환 판사는 사기 혐의로 기소된 은행원에게 실형을 선고했다. 이 은행원은 “VVIP 전용 상품에 넣어드리겠다”는 취지로 고객을 속여 총 5억4000만원을 가로챈 혐의를 받았다. 사건은 은행 직원의 신뢰를 이용한 금융사기라는 점에서 고객 보호와 내부 통제의 중요성을 다시 부각시킨다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "Bank Employee Gets Prison Term Over 540 Million Won VVIP Product Fraud",
+        "excerpt": "A bank employee in his 50s was sentenced to prison on May 10 after deceiving customers with claims of a high-yield VVIP financial product and taking 540 million won.",
+        "body": "A bank employee in his 50s has been sentenced to prison for taking a large sum from customers by promising access to a high-yield financial product. According to Yonhap News on May 10, Judge Song Jong-hwan of the Incheon District Court’s Criminal Division 5 handed down a prison sentence to the employee on fraud charges. The employee was accused of deceiving customers by saying their money would be placed in a “VVIP-only product” and taking a total of 540 million won. The case highlights the risks of financial fraud that exploits trust in bank staff and the importance of customer protection and internal controls. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "銀行員が顧客資金5億4000万ウォン詐取、VVIP商品名目で実刑",
+        "excerpt": "仁川地裁は10日、高利回りのVVIP専用金融商品があると顧客を欺き、5億4000万ウォンをだまし取った50代銀行員に詐欺罪で実刑を言い渡した。",
+        "body": "高い収益率の金融商品に入れてあげるとして顧客を欺き、多額の金をだまし取った50代の銀行員に実刑が言い渡された。10日の聯合ニュースによると、仁川地裁刑事5単独の宋鍾煥判事は、詐欺罪で起訴された銀行員に実刑を宣告した。この銀行員は「VVIP専用商品に入れてあげる」という趣旨で顧客を欺き、計5億4000万ウォンを詐取した疑いが持たれている。銀行職員への信頼を利用した金融詐欺として、顧客保護と内部統制の重要性を改めて浮き彫りにした。出典はmk.co.kr。"
+      },
+      "zh": {
+        "title": "银行职员以VVIP专属产品为诱饵骗取客户5.4亿韩元获实刑",
+        "excerpt": "仁川地方法院10日以诈骗罪判处一名50多岁银行职员实刑，其谎称有高收益VVIP专属金融产品，骗取客户5.4亿韩元。",
+        "body": "一名50多岁的银行职员因谎称可投入高收益金融产品、骗取客户巨额资金而被判处实刑。据韩联社10日报道，仁川地方法院刑事第5单独审判部法官宋钟焕对这名因诈骗罪被起诉的银行职员作出实刑判决。该职员涉嫌以“为您加入VVIP专属产品”为由欺骗客户，共骗取5.4亿韩元。此案作为利用客户对银行职员信任的金融诈骗事件，再次凸显客户保护和内部控制的重要性。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Empleado bancario recibe prisión por fraude de 540 millones de wones con producto VVIP",
+        "excerpt": "Un empleado bancario de unos 50 años fue condenado el 10 de mayo por engañar a clientes con un supuesto producto financiero VVIP de alta rentabilidad y apropiarse de 540 millones de wones.",
+        "body": "Un empleado bancario de unos 50 años fue condenado a prisión por obtener una gran suma de clientes tras prometerles acceso a un producto financiero de alta rentabilidad. Según Yonhap News el 10 de mayo, el juez Song Jong-hwan, de la Sala Penal 5 unipersonal del Tribunal de Distrito de Incheon, dictó una pena de prisión contra el empleado acusado de fraude. El bancario habría engañado a clientes diciendo que colocaría su dinero en un “producto exclusivo para VVIP” y se habría apropiado de un total de 540 millones de wones. El caso subraya los riesgos del fraude financiero basado en la confianza en empleados bancarios y la importancia de la protección al cliente y los controles internos. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Bancário é condenado por fraude de 540 milhões de won com produto VVIP",
+        "excerpt": "Um bancário na faixa dos 50 anos foi condenado em 10 de maio por enganar clientes com a promessa de um produto financeiro VVIP de alto rendimento e desviar 540 milhões de won.",
+        "body": "Um bancário na faixa dos 50 anos foi condenado à prisão por obter uma grande quantia de clientes ao prometer acesso a um produto financeiro de alto rendimento. Segundo a Yonhap News em 10 de maio, o juiz Song Jong-hwan, da 5ª Vara Criminal singular do Tribunal Distrital de Incheon, impôs pena de prisão ao funcionário acusado de fraude. Ele é acusado de enganar clientes dizendo que aplicaria o dinheiro em um “produto exclusivo para VVIP” e de se apropriar de um total de 540 milhões de won. O caso destaca os riscos de fraudes financeiras que exploram a confiança em funcionários de bancos e a importância da proteção ao cliente e dos controles internos. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Bankmitarbeiter wegen 540-Millionen-Won-Betrugs mit VVIP-Produkt verurteilt",
+        "excerpt": "Ein Bankmitarbeiter in den Fünfzigern wurde am 10. Mai zu Haft verurteilt, nachdem er Kunden mit einem angeblich renditestarken VVIP-Finanzprodukt getäuscht und 540 Millionen Won erlangt hatte.",
+        "body": "Ein Bankmitarbeiter in den Fünfzigern ist zu einer Haftstrafe verurteilt worden, weil er Kunden mit dem Versprechen eines renditestarken Finanzprodukts um eine hohe Summe gebracht haben soll. Laut Yonhap News vom 10. Mai verhängte Richter Song Jong-hwan von der Strafabteilung 5 des Bezirksgerichts Incheon eine Haftstrafe gegen den wegen Betrugs angeklagten Mitarbeiter. Er soll Kunden mit der Aussage getäuscht haben, ihr Geld werde in ein „VVIP-exklusives Produkt“ investiert, und insgesamt 540 Millionen Won erlangt haben. Der Fall macht erneut deutlich, welche Risiken Finanzbetrug birgt, wenn Vertrauen in Bankpersonal ausgenutzt wird, und wie wichtig Kundenschutz und interne Kontrollen sind. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Un banquier condamné pour fraude de 540 millions de wons via un produit VVIP",
+        "excerpt": "Un employé de banque quinquagénaire a été condamné le 10 mai pour avoir trompé des clients avec un prétendu produit financier VVIP à haut rendement et détourné 540 millions de wons.",
+        "body": "Un employé de banque âgé d’une cinquantaine d’années a été condamné à une peine de prison pour avoir obtenu une forte somme auprès de clients en promettant un produit financier à haut rendement. Selon Yonhap News le 10 mai, le juge Song Jong-hwan, de la 5e chambre pénale à juge unique du tribunal de district d’Incheon, a prononcé une peine de prison contre l’employé poursuivi pour fraude. Il est accusé d’avoir trompé des clients en affirmant placer leur argent dans un « produit réservé aux VVIP » et d’avoir pris au total 540 millions de wons. L’affaire souligne les risques de fraude financière fondée sur la confiance accordée aux employés bancaires, ainsi que l’importance de la protection des clients et des contrôles internes. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "موظف بنك يُسجن بعد احتيال بـ540 مليون وون عبر منتج مالي لكبار العملاء",
+        "excerpt": "حكمت محكمة إنتشون في 10 مايو على موظف بنك في الخمسينيات بالسجن بتهمة خداع عملاء بمنتج مالي حصري عالي العائد لكبار العملاء والاستيلاء على 540 مليون وون.",
+        "body": "حُكم على موظف بنك في الخمسينيات بالسجن بعد اتهامه بخداع عملاء والاستيلاء على مبلغ كبير عبر وعدهم بمنتج مالي مرتفع العائد. ووفقاً لوكالة يونهاب في 10 مايو، أصدر القاضي سونغ جونغ هوان في الدائرة الجنائية الخامسة بمحكمة إنتشون الجزئية حكماً بالسجن على الموظف المتهم بالاحتيال. ويُشتبه في أنه خدع العملاء بالقول إنه سيضع أموالهم في «منتج حصري لكبار العملاء VVIP»، واستولى على ما مجموعه 540 مليون وون. وتبرز القضية مخاطر الاحتيال المالي الذي يستغل الثقة بموظفي البنوك، وأهمية حماية العملاء والرقابة الداخلية. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "VVIP उत्पाद के नाम पर 54 करोड़ वॉन की ठगी, बैंक कर्मचारी को जेल",
+        "excerpt": "इंचियोन जिला अदालत ने 10 मई को 50 वर्ष आयु वर्ग के एक बैंक कर्मचारी को जेल की सजा सुनाई, जिसने उच्च रिटर्न वाले VVIP वित्तीय उत्पाद का झांसा देकर ग्राहकों से 54 करोड़ वॉन लिए।",
+        "body": "उच्च रिटर्न वाले वित्तीय उत्पाद में पैसा लगाने का वादा कर ग्राहकों से बड़ी रकम लेने वाले 50 वर्ष आयु वर्ग के एक बैंक कर्मचारी को जेल की सजा सुनाई गई। 10 मई को योनहाप न्यूज के अनुसार, इंचियोन जिला अदालत की आपराधिक शाखा 5 के एकल न्यायाधीश सोंग जोंग-ह्वान ने धोखाधड़ी के आरोप में अभियुक्त बैंक कर्मचारी को कारावास की सजा दी। कर्मचारी पर आरोप है कि उसने ग्राहकों से कहा कि वह उनका पैसा “VVIP-विशेष उत्पाद” में लगाएगा और कुल 54 करोड़ वॉन हासिल किए। यह मामला बैंक कर्मचारियों पर भरोसे का दुरुपयोग कर होने वाली वित्तीय धोखाधड़ी और ग्राहक सुरक्षा तथा आंतरिक नियंत्रण के महत्व को रेखांकित करता है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Pegawai Bank Dipenjara atas Penipuan 540 Juta Won Berkedok Produk VVIP",
+        "excerpt": "Pengadilan Distrik Incheon pada 10 Mei menjatuhkan hukuman penjara kepada pegawai bank berusia 50-an yang menipu nasabah dengan produk keuangan VVIP berimbal hasil tinggi dan mengambil 540 juta won.",
+        "body": "Seorang pegawai bank berusia 50-an dijatuhi hukuman penjara setelah menipu nasabah dengan janji memasukkan dana ke produk keuangan berimbal hasil tinggi. Menurut Yonhap News pada 10 Mei, Hakim Song Jong-hwan dari Divisi Pidana 5 Pengadilan Distrik Incheon menjatuhkan hukuman penjara kepada pegawai tersebut atas dakwaan penipuan. Ia dituduh menipu nasabah dengan mengatakan akan menempatkan uang mereka dalam “produk khusus VVIP” dan mengambil total 540 juta won. Kasus ini menyoroti risiko penipuan keuangan yang memanfaatkan kepercayaan terhadap pegawai bank, serta pentingnya perlindungan nasabah dan pengendalian internal. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "f9c897b238ce",
+    "slug": "토요일-아침부터-구청-북적토지거래허가-막판-초치기-신청-봇물-514683",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T01:16:27.486Z",
+    "updatedAt": "2026-05-10T01:16:27.486Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042448",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042448",
+    "titleFingerprint": "5e855cdbca4a726abc3eb724353681e9ee9be84d",
+    "dedupKeys": [
+      "f9c897b238ce2346f4a827775aa45f55caf0ff41",
+      "5e855cdbca4a726abc3eb724353681e9ee9be84d",
+      "4c20649a76c82289b62387acd4d34510ba80d4c5"
+    ],
+    "imageUrl": "/images/articles/f9c897b238ce.jpg",
+    "i18n": {
+      "ko": {
+        "title": "토지거래허가 막판 신청 봇물, 다주택자 양도세 중과 부활 앞두고 구청 북적",
+        "excerpt": "다주택자 양도소득세 중과가 10일 부활하면서 중과 유예 마지막 날인 지난 9일까지 서울·경기 일부 구청에 토지거래허가 막판 신청이 몰렸다.",
+        "body": "다주택자 양도소득세 중과가 10일 부활한 가운데, 중과 유예 마지막 날이었던 지난 9일까지 토지거래허가 신청이 잇따랐다. 서울과 경기 일부 자치구 구청에는 토요일 아침부터 신청자들이 몰리며 막판 접수 움직임이 두드러졌다. 토지거래허가가 필요한 거래의 경우 허가 절차가 양도세 중과 적용 시점과 맞물리면서, 유예 종료 전 신청을 마치려는 수요가 집중된 것으로 전해졌다. 이번 신청 봇물은 다주택자 세 부담 변화가 부동산 거래 절차에도 즉각 영향을 준 사례로 풀이된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Land Transaction Permit Rush Hits District Offices Before Capital Gains Tax Surcharge Returns",
+        "excerpt": "As the capital gains tax surcharge for multiple-home owners returned on the 10th, last-minute land transaction permit applications poured into some Seoul and Gyeonggi district offices through the 9th.",
+        "body": "As the capital gains tax surcharge on multiple-home owners returned on the 10th, applications for land transaction permits continued until the 9th, the final day of the surcharge suspension. Some district offices in Seoul and Gyeonggi were crowded from Saturday morning as applicants moved to file at the last minute. For transactions requiring land transaction approval, the permit process overlapped with the timing of the tax surcharge’s reinstatement, concentrating demand before the grace period ended. The surge shows how changes in the tax burden for multiple-home owners can immediately affect real estate transaction procedures. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "土地取引許可の駆け込み申請が殺到、複数住宅保有者の譲渡税重課復活前に区役所混雑",
+        "excerpt": "複数住宅保有者への譲渡所得税重課が10日に復活し、猶予最終日の9日までソウルと京畿の一部自治体に土地取引許可の駆け込み申請が相次いだ。",
+        "body": "複数住宅保有者に対する譲渡所得税の重課が10日に復活する中、重課猶予の最終日だった9日まで土地取引許可の申請が相次いだ。ソウルと京畿の一部自治体の区役所には土曜日の朝から申請者が集まり、締め切り直前の受付の動きが目立った。土地取引許可が必要な取引では、許可手続きが譲渡税重課の適用時点と重なり、猶予終了前に申請を終えようとする需要が集中したとみられる。今回の申請集中は、複数住宅保有者の税負担の変化が不動産取引手続きにも即座に影響する例といえる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "土地交易许可最后申请潮涌现，多套房业主转让税重课恢复前区厅拥挤",
+        "excerpt": "多套房业主转让所得税重课于10日恢复，宽限最后一天9日之前，首尔和京畿部分区厅土地交易许可临时申请持续增加。",
+        "body": "在多套房业主转让所得税重课于10日恢复的背景下，截至重课宽限最后一天9日，土地交易许可申请接连不断。首尔和京畿部分自治地区的区厅从周六早晨起就聚集了申请人，最后阶段提交申请的动向明显。对于需要土地交易许可的交易，许可程序与转让税重课适用时间相互交叠，使得希望在宽限结束前完成申请的需求集中出现。此次申请潮显示，多套房业主税负变化会立即影响房地产交易程序。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Avalancha final de permisos de transacción de tierras antes del regreso del recargo fiscal",
+        "excerpt": "Con el recargo del impuesto a las ganancias de capital para multipropietarios restablecido el día 10, las solicitudes de permisos de tierras se acumularon hasta el día 9 en Seúl y Gyeonggi.",
+        "body": "Mientras el recargo del impuesto a las ganancias de capital para propietarios de varias viviendas volvió a aplicarse el día 10, las solicitudes de permisos de transacción de tierras continuaron hasta el día 9, último día de la suspensión. Algunas oficinas distritales de Seúl y Gyeonggi estuvieron concurridas desde la mañana del sábado por solicitantes que buscaban presentar sus trámites a último momento. En operaciones que requieren autorización de transacción de tierras, el proceso de permiso coincidió con el momento de aplicación del recargo, concentrando la demanda antes del fin del aplazamiento. El aumento muestra cómo el cambio en la carga fiscal incide de inmediato en los procedimientos inmobiliarios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Corrida final por licenças de transação de terrenos antes da volta da sobretaxa fiscal",
+        "excerpt": "Com a sobretaxa sobre ganhos de capital de múltiplos proprietários restabelecida no dia 10, pedidos de licença de terrenos se acumularam até o dia 9 em Seul e Gyeonggi.",
+        "body": "Com a retomada, no dia 10, da sobretaxa do imposto sobre ganhos de capital para proprietários de vários imóveis, os pedidos de licença para transação de terrenos seguiram até o dia 9, último dia da suspensão. Algumas repartições distritais de Seul e Gyeonggi ficaram movimentadas desde a manhã de sábado, com solicitantes tentando protocolar os pedidos no prazo final. Nas transações que exigem autorização de terrenos, o procedimento de licença coincidiu com o momento de aplicação da sobretaxa, concentrando a demanda antes do fim do período de carência. O movimento mostra que mudanças na carga tributária dos múltiplos proprietários afetam imediatamente os trâmites imobiliários. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Letzte Welle bei Genehmigungen für Grundstückstransaktionen vor Rückkehr der Steueraufschläge",
+        "excerpt": "Mit der Wiedereinführung des Kapitalertragsteuer-Aufschlags für Mehrfachhausbesitzer am 10. gingen bis zum 9. zahlreiche Genehmigungsanträge in Teilen von Seoul und Gyeonggi ein.",
+        "body": "Während der Aufschlag auf die Kapitalertragsteuer für Besitzer mehrerer Wohnungen am 10. wieder in Kraft trat, gingen bis zum 9., dem letzten Tag der Aussetzung, weiter Anträge auf Genehmigung von Grundstückstransaktionen ein. Einige Bezirksämter in Seoul und Gyeonggi waren bereits am Samstagmorgen stark besucht, da Antragsteller ihre Unterlagen in letzter Minute einreichen wollten. Bei Geschäften, die eine solche Genehmigung erfordern, fiel das Verfahren zeitlich mit der Wiedereinführung des Steueraufschlags zusammen, wodurch sich die Nachfrage vor Ende der Schonfrist bündelte. Die Antragswelle zeigt, wie Änderungen der Steuerlast unmittelbar auf Immobilienverfahren wirken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Afflux final de permis de transaction foncière avant le retour de la surtaxe immobilière",
+        "excerpt": "Avec le rétablissement le 10 de la surtaxe sur les plus-values des multipropriétaires, les demandes de permis foncier ont afflué jusqu’au 9 dans certains bureaux de Séoul et Gyeonggi.",
+        "body": "Alors que la surtaxe sur les plus-values immobilières des propriétaires de plusieurs logements a été rétablie le 10, les demandes de permis de transaction foncière se sont poursuivies jusqu’au 9, dernier jour de suspension. Certains bureaux d’arrondissement de Séoul et de Gyeonggi étaient fréquentés dès samedi matin par des demandeurs venus déposer leur dossier au dernier moment. Pour les transactions nécessitant une autorisation foncière, la procédure de permis coïncidait avec la date d’application de la surtaxe, concentrant la demande avant la fin du délai. Cette vague illustre l’effet immédiat d’un changement de charge fiscale sur les démarches immobilières. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تدافع أخير على تصاريح تداول الأراضي قبل عودة الضريبة الإضافية على مالكي عدة مساكن",
+        "excerpt": "مع عودة الضريبة الإضافية على أرباح بيع العقارات لمالكي عدة مساكن في اليوم العاشر، تواصلت طلبات تصاريح تداول الأراضي حتى اليوم التاسع في بعض مكاتب سيول وغييونغغي.",
+        "body": "مع عودة الضريبة الإضافية على أرباح بيع العقارات لمالكي عدة مساكن في اليوم العاشر، استمرت طلبات الحصول على تصاريح تداول الأراضي حتى اليوم التاسع، وهو اليوم الأخير من فترة تعليق الضريبة. وشهدت بعض مكاتب الأحياء في سيول وغييونغغي ازدحاما منذ صباح السبت مع توجه المتقدمين لتقديم طلباتهم في اللحظة الأخيرة. وفي الصفقات التي تتطلب تصريحا لتداول الأراضي، تزامن إجراء التصريح مع موعد تطبيق الضريبة الإضافية، ما ركز الطلب قبل انتهاء فترة الإعفاء. وتظهر موجة الطلبات كيف يمكن لتغير العبء الضريبي على مالكي عدة مساكن أن يؤثر فورا في إجراءات التعاملات العقارية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "भूमि लेनदेन परमिट के अंतिम आवेदन उमड़े, बहु-घर मालिकों पर कर अधिभार लौटने से पहले भीड़",
+        "excerpt": "बहु-घर मालिकों पर पूंजीगत लाभ कर अधिभार 10 तारीख को फिर लागू होने के साथ, 9 तारीख तक सियोल और ग्योंगगी के कुछ कार्यालयों में भूमि लेनदेन परमिट आवेदन बढ़े।",
+        "body": "बहु-घर मालिकों पर पूंजीगत लाभ कर अधिभार 10 तारीख को फिर लागू होने के बीच, अधिभार स्थगन के अंतिम दिन 9 तारीख तक भूमि लेनदेन परमिट के आवेदन लगातार आते रहे। सियोल और ग्योंगगी के कुछ स्थानीय जिला कार्यालयों में शनिवार सुबह से ही आवेदकों की भीड़ रही, क्योंकि लोग अंतिम समय में आवेदन जमा करना चाहते थे। जिन लेनदेन के लिए भूमि लेनदेन अनुमति जरूरी है, उनमें अनुमति प्रक्रिया कर अधिभार लागू होने के समय से जुड़ गई, जिससे स्थगन समाप्त होने से पहले मांग केंद्रित हुई। यह आवेदन लहर दिखाती है कि बहु-घर मालिकों के कर बोझ में बदलाव रियल एस्टेट प्रक्रियाओं को तुरंत प्रभावित करता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Permohonan Izin Transaksi Tanah Membludak Menjelang Kembalinya Pajak Pemilik Banyak Rumah",
+        "excerpt": "Saat pajak tambahan keuntungan modal bagi pemilik banyak rumah kembali berlaku pada tanggal 10, permohonan izin transaksi tanah menumpuk hingga tanggal 9 di sebagian kantor Seoul dan Gyeonggi.",
+        "body": "Ketika pajak tambahan atas keuntungan modal bagi pemilik beberapa rumah kembali berlaku pada tanggal 10, permohonan izin transaksi tanah terus masuk hingga tanggal 9, hari terakhir masa penangguhan. Sejumlah kantor distrik di Seoul dan Gyeonggi ramai sejak Sabtu pagi karena pemohon berupaya mengajukan berkas pada saat terakhir. Untuk transaksi yang membutuhkan izin transaksi tanah, proses perizinan bertepatan dengan waktu penerapan kembali pajak tambahan, sehingga permintaan terkonsentrasi sebelum masa penangguhan berakhir. Lonjakan ini menunjukkan bahwa perubahan beban pajak pemilik banyak rumah langsung memengaruhi prosedur transaksi properti. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "80beb091f8e8",
     "slug": "2년-만에-238억제니-1인-기획사-대박-났다-786483",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Reli Rekor KOSPI Dorong Pinjaman Margin Tembus 30 Triliun Won Pertama Kali, Akun Saham Lewati 100 Juta",
         "excerpt": "Saat pasar saham Korea Selatan terus mencetak rekor tertinggi, saldo pinjaman margin menembus 30 triliun won untuk pertama kali per 29 Januari dan akun perdagangan aktif melampaui 100 juta.",
         "body": "Pasar saham Korea Selatan terus mencetak rekor tertinggi dan disebut berada dalam reli kuat, sementara investasi saham dengan dana pinjaman juga meningkat. Menurut Korea Financial Investment Association pada 31 Januari, saldo pinjaman untuk perdagangan margin mencapai 30,0925 triliun won berdasarkan tanggal penyelesaian 29 Januari. Ini pertama kalinya saldo tersebut melampaui 30 triliun won. Berdasarkan pasar, saldo margin KOSPI mencapai rekor 19,5923 triliun won, sementara KOSDAQ sebesar 10,5730 triliun won, level tertinggi dalam sekitar empat tahun sejak 26 Januari 2022. Akun perdagangan saham aktif juga mencapai 100.002.450, naik sekitar 1,73 juta dari akhir tahun lalu. hankyung.com melaporkan bahwa kekhawatiran tertinggal dari reli tajam memperluas partisipasi investor."
-      }
-    }
-  },
-  {
-    "id": "d7cff01b8b48",
-    "slug": "말차빙수에-수박-스무디까지뚜레쥬르-여름-메뉴-나왔다-542631",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T17:03:02.523Z",
-    "updatedAt": "2026-05-09T17:03:02.523Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605083128i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605083128i",
-    "titleFingerprint": "97f19b288e84c4c393b1fe6213fb52e461075729",
-    "dedupKeys": [
-      "d7cff01b8b48758b68890292e8df59d6add22cfb",
-      "97f19b288e84c4c393b1fe6213fb52e461075729",
-      "6f975324b0e1ade7e160fb9491efdda1e44b4cb7"
-    ],
-    "imageUrl": "/images/articles/d7cff01b8b48.jpg",
-    "i18n": {
-      "ko": {
-        "title": "뚜레쥬르 여름 메뉴 출시, 말차빙수·수박 스무디로 시즌 공략",
-        "excerpt": "뚜레쥬르가 최근 여름철 수요를 겨냥해 말차빙수와 수박 스무디 등을 포함한 시즌 메뉴를 선보이며 더운 날씨에 맞춘 디저트·음료 라인업을 확대했다.",
-        "body": "뚜레쥬르가 최근 여름 시즌을 맞아 말차빙수와 수박 스무디 등을 포함한 ‘여름 메뉴’를 출시했다. 이번 메뉴는 더운 날씨에 찾는 차가운 디저트와 음료 수요를 겨냥한 구성으로, 빙수와 과일 음료를 앞세운 점이 특징이다. 말차빙수는 말차를 활용한 시즌 디저트로, 수박 스무디는 여름 대표 과일인 수박을 활용한 음료로 소개됐다. 베이커리 업계가 계절별 한정 메뉴로 매장 방문과 소비자 관심을 끌어내는 가운데, 뚜레쥬르도 여름철에 맞춘 제품군을 통해 시즌 경쟁에 나선 것으로 풀이된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Tous Les Jours Launches Summer Menu With Matcha Bingsu and Watermelon Smoothie",
-        "excerpt": "Tous Les Jours has introduced a seasonal summer menu featuring matcha bingsu and watermelon smoothie, expanding its cold dessert and drink lineup for hot-weather demand.",
-        "body": "Tous Les Jours has recently launched a summer menu that includes matcha bingsu and watermelon smoothie. The lineup is designed around demand for cold desserts and beverages during hot weather, with shaved ice and fruit drinks placed at the center. The matcha bingsu is presented as a seasonal dessert using matcha, while the watermelon smoothie highlights watermelon, a representative summer fruit. As bakeries use seasonal limited menus to draw store visits and consumer attention, Tous Les Jours is also moving into summer competition with products tailored to the season. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "トゥレジュール夏メニュー発売、抹茶かき氷とスイカスムージーを展開",
-        "excerpt": "トゥレジュールは最近、夏需要を狙い、抹茶かき氷やスイカスムージーなどの季節メニューを発売し、冷たいデザートと飲料の品ぞろえを広げた。",
-        "body": "トゥレジュールは最近、夏シーズンに合わせて抹茶かき氷とスイカスムージーなどを含む「夏メニュー」を発売した。今回のメニューは暑い時期に求められる冷たいデザートと飲料需要を意識した構成で、かき氷と果物飲料を前面に出している点が特徴だ。抹茶かき氷は抹茶を活用した季節デザートとして、スイカスムージーは夏を代表する果物であるスイカを使った飲料として紹介された。ベーカリー業界が季節限定メニューで来店と消費者の関心を促す中、トゥレジュールも夏向けの商品群でシーズン競争に乗り出した形だ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "多乐之日推出夏季菜单，主打抹茶刨冰与西瓜冰沙",
-        "excerpt": "多乐之日近日面向夏季消费需求，推出包含抹茶刨冰和西瓜冰沙在内的季节菜单，扩大适合炎热天气的冷饮甜品阵容。",
-        "body": "多乐之日近日配合夏季到来，推出包含抹茶刨冰和西瓜冰沙等产品的“夏季菜单”。此次菜单围绕炎热天气中对冰凉甜品和饮品的需求展开，以刨冰和水果饮品为主要特色。抹茶刨冰被介绍为使用抹茶的季节甜品，西瓜冰沙则是采用夏季代表水果西瓜制作的饮品。在烘焙行业通过季节限定菜单吸引到店消费和消费者关注的背景下，多乐之日也凭借面向夏季的产品组合加入季节竞争。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Tous Les Jours lanza menú de verano con bingsu de matcha y smoothie de sandía",
-        "excerpt": "Tous Les Jours presentó recientemente un menú estacional de verano con bingsu de matcha y smoothie de sandía, ampliando su oferta de postres fríos y bebidas.",
-        "body": "Tous Les Jours lanzó recientemente un “menú de verano” que incluye bingsu de matcha y smoothie de sandía. La propuesta responde a la demanda de postres fríos y bebidas durante los días calurosos, con el hielo raspado y las bebidas de fruta como ejes principales. El bingsu de matcha se presenta como un postre estacional elaborado con matcha, mientras que el smoothie de sandía utiliza una fruta representativa del verano. En un sector de panaderías que recurre a menús limitados de temporada para atraer visitas y atención del consumidor, Tous Les Jours entra también en la competencia veraniega con productos adaptados a la estación. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Tous Les Jours lança menu de verão com bingsu de matcha e smoothie de melancia",
-        "excerpt": "A Tous Les Jours lançou recentemente um menu sazonal de verão com bingsu de matcha e smoothie de melancia, ampliando a linha de sobremesas frias e bebidas.",
-        "body": "A Tous Les Jours lançou recentemente um “menu de verão” que inclui bingsu de matcha e smoothie de melancia. A seleção mira a demanda por sobremesas frias e bebidas em dias quentes, destacando raspadinha coreana e bebidas de frutas. O bingsu de matcha é apresentado como uma sobremesa sazonal feita com matcha, enquanto o smoothie de melancia usa uma fruta típica do verão. Em um setor de padarias que aposta em menus sazonais limitados para atrair visitas às lojas e atenção dos consumidores, a Tous Les Jours também entra na disputa da temporada com produtos voltados ao verão. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Tous Les Jours bringt Sommermenü mit Matcha-Bingsu und Wassermelonen-Smoothie",
-        "excerpt": "Tous Les Jours hat kürzlich ein Sommermenü mit Matcha-Bingsu und Wassermelonen-Smoothie vorgestellt und erweitert damit sein Angebot an kalten Desserts und Getränken.",
-        "body": "Tous Les Jours hat kürzlich zum Sommer ein Menü mit Matcha-Bingsu und Wassermelonen-Smoothie eingeführt. Die Auswahl zielt auf die Nachfrage nach kalten Desserts und Getränken bei heißem Wetter ab und stellt Bingsu sowie Fruchtgetränke in den Mittelpunkt. Das Matcha-Bingsu wird als saisonales Dessert mit Matcha vorgestellt, während der Wassermelonen-Smoothie auf Wassermelone als typischer Sommerfrucht basiert. Während Bäckereien mit saisonal begrenzten Menüs Ladenbesuche und Verbraucherinteresse fördern, tritt auch Tous Les Jours mit sommergerechten Produkten in den Wettbewerb der Saison ein. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Tous Les Jours lance un menu d’été avec bingsu au matcha et smoothie pastèque",
-        "excerpt": "Tous Les Jours a récemment lancé un menu estival comprenant bingsu au matcha et smoothie à la pastèque, élargissant son offre de desserts froids et boissons.",
-        "body": "Tous Les Jours a récemment lancé un « menu d’été » comprenant notamment un bingsu au matcha et un smoothie à la pastèque. Cette offre vise la demande de desserts froids et de boissons pendant les fortes chaleurs, avec la glace pilée et les boissons aux fruits au premier plan. Le bingsu au matcha est présenté comme un dessert saisonnier à base de matcha, tandis que le smoothie à la pastèque met en avant un fruit emblématique de l’été. Alors que les boulangeries misent sur des menus saisonniers limités pour attirer les visites en magasin et l’attention des consommateurs, Tous Les Jours s’inscrit aussi dans la concurrence estivale avec une gamme adaptée à la saison. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "توس لي جور تطلق قائمة صيفية تضم بينغسو الماتشا وسموذي البطيخ",
-        "excerpt": "أطلقت توس لي جور مؤخرا قائمة صيفية موسمية تشمل بينغسو الماتشا وسموذي البطيخ، لتوسيع تشكيلة الحلويات الباردة والمشروبات المناسبة للطقس الحار.",
-        "body": "أطلقت توس لي جور مؤخرا «قائمة صيفية» تشمل بينغسو الماتشا وسموذي البطيخ. وتستهدف هذه القائمة الطلب على الحلويات الباردة والمشروبات خلال الطقس الحار، مع التركيز على البينغسو ومشروبات الفاكهة. ويقدم بينغسو الماتشا كحلوى موسمية تعتمد على الماتشا، بينما يبرز سموذي البطيخ فاكهة البطيخ المرتبطة بفصل الصيف. وبينما تستخدم المخابز القوائم الموسمية المحدودة لجذب زيارات المتاجر واهتمام المستهلكين، تدخل توس لي جور أيضا منافسة الموسم بمنتجات ملائمة للصيف. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "टूस ले जूर ने माचा बिंग्सू और तरबूज स्मूदी वाला समर मेन्यू लॉन्च किया",
-        "excerpt": "टूस ले जूर ने हाल में गर्मी की मांग को ध्यान में रखते हुए माचा बिंग्सू और तरबूज स्मूदी सहित मौसमी मेन्यू पेश किया, जिससे ठंडे डेजर्ट और पेय विकल्प बढ़े।",
-        "body": "टूस ले जूर ने हाल ही में गर्मी के मौसम के लिए माचा बिंग्सू और तरबूज स्मूदी सहित ‘समर मेन्यू’ लॉन्च किया। यह मेन्यू गर्म मौसम में ठंडे डेजर्ट और पेय की मांग को ध्यान में रखकर तैयार किया गया है, जिसमें बिंग्सू और फलों वाले पेय प्रमुख हैं। माचा बिंग्सू को माचा से बने मौसमी डेजर्ट के रूप में पेश किया गया है, जबकि तरबूज स्मूदी गर्मियों के प्रतिनिधि फल तरबूज का उपयोग करने वाला पेय है। बेकरी उद्योग में मौसमी सीमित मेन्यू के जरिए स्टोर विजिट और उपभोक्ता रुचि बढ़ाने की प्रवृत्ति के बीच, टूस ले जूर भी गर्मियों के अनुकूल उत्पादों के साथ सीजनल प्रतिस्पर्धा में उतरा है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Tous Les Jours Rilis Menu Musim Panas, Ada Bingsu Matcha dan Smoothie Semangka",
-        "excerpt": "Tous Les Jours baru-baru ini meluncurkan menu musim panas berisi bingsu matcha dan smoothie semangka untuk memperluas pilihan dessert dingin dan minuman.",
-        "body": "Tous Les Jours baru-baru ini meluncurkan “menu musim panas” yang mencakup bingsu matcha dan smoothie semangka. Menu ini disusun untuk membidik permintaan terhadap dessert dingin dan minuman saat cuaca panas, dengan bingsu dan minuman buah sebagai daya tarik utama. Bingsu matcha diperkenalkan sebagai dessert musiman berbahan matcha, sementara smoothie semangka memanfaatkan semangka, buah yang identik dengan musim panas. Di tengah industri bakery yang memakai menu musiman terbatas untuk menarik kunjungan toko dan perhatian konsumen, Tous Les Jours juga masuk ke persaingan musim panas lewat rangkaian produk yang disesuaikan dengan musim. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "63aa1bee48d4",
-    "slug": "한경-premium9-today-899954",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T17:01:59.242Z",
-    "updatedAt": "2026-05-09T17:01:59.242Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848661",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848661",
-    "titleFingerprint": "48719f4a84a72b135e7ce741d771868ab25fe207",
-    "dedupKeys": [
-      "63aa1bee48d4aa82e2d040c116d037b84bf67f41",
-      "48719f4a84a72b135e7ce741d771868ab25fe207",
-      "9cbb499baf672d46859af8fdf72285cacd309816"
-    ],
-    "imageUrl": "/images/articles/63aa1bee48d4.png",
-    "i18n": {
-      "ko": {
-        "title": "한경 PREMIUM9 TODAY, hankyung.com 출처로 확인된 오늘의 매크로 뉴스",
-        "excerpt": "한경 PREMIUM9 TODAY는 hankyung.com을 출처로 제시한 오늘의 매크로시그널 뉴스 항목으로, 원문에는 제목과 출처만 공개됐다.",
-        "body": "한경 PREMIUM9 TODAY가 오늘의 매크로시그널 뉴스 항목으로 제시됐다. 원문에 확인되는 핵심 정보는 제목 ‘한경 PREMIUM9 TODAY’와 출처 ‘hankyung.com’이다. 별도 요약, 발표 주체, 구체적 수치, 시장 영향, 정책 배경은 제공되지 않았다. 따라서 현재 기사화할 수 있는 사실은 해당 항목이 hankyung.com 출처의 프리미엄 뉴스 제목으로 확인됐다는 점에 한정된다. 추가 본문이나 수치가 공개될 경우 경제·금융시장 영향과 전망을 보완해 해석할 수 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Hankyung PREMIUM9 TODAY Confirmed as Macro News From hankyung.com",
-        "excerpt": "Hankyung PREMIUM9 TODAY is listed as today’s macro-signal news item sourced from hankyung.com, with only the title and source provided in the original text.",
-        "body": "Hankyung PREMIUM9 TODAY was presented as today’s macro-signal news item. The only confirmed details in the original text are the title, “Hankyung PREMIUM9 TODAY,” and the source, “hankyung.com.” No separate summary, publishing entity, specific figures, market impact, or policy background was provided. Therefore, the reportable fact is limited to its identification as a premium news title sourced from hankyung.com. If additional text or data becomes available, its implications for the economy and financial markets can be assessed further. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "韓経PREMIUM9 TODAY、hankyung.com発のマクロニュースとして確認",
-        "excerpt": "韓経PREMIUM9 TODAYは、hankyung.comを出所とする本日のマクロシグナルニュース項目で、原文にはタイトルと出所のみが示された。",
-        "body": "韓経PREMIUM9 TODAYが、本日のマクロシグナルニュース項目として提示された。原文で確認できる主な情報は、タイトル「韓経PREMIUM9 TODAY」と出所「hankyung.com」である。別途の要約、発表主体、具体的な数値、市場への影響、政策背景は示されていない。したがって、現時点で記事化できる事実は、この項目がhankyung.comを出所とするプレミアムニュースのタイトルとして確認されたという点に限られる。追加本文や数値が公開されれば、経済・金融市場への影響と見通しを補足できる。出所: hankyung.com."
-      },
-      "zh": {
-        "title": "Hankyung PREMIUM9 TODAY确认为来自hankyung.com的宏观新闻",
-        "excerpt": "Hankyung PREMIUM9 TODAY被列为今日宏观信号新闻项目，来源为hankyung.com，原文仅提供标题和来源信息。",
-        "body": "Hankyung PREMIUM9 TODAY被列为今日的宏观信号新闻项目。原文中可确认的核心信息只有标题“Hankyung PREMIUM9 TODAY”和来源“hankyung.com”。原文未提供单独摘要、发布主体、具体数据、市场影响或政策背景。因此，目前可报道的事实仅限于该项目被确认为来源于hankyung.com的高级新闻标题。若后续公开更多正文或数据，才可进一步补充其对经济和金融市场的影响及展望。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Hankyung PREMIUM9 TODAY, noticia macro confirmada desde hankyung.com",
-        "excerpt": "Hankyung PREMIUM9 TODAY figura como noticia de señal macro del día con fuente hankyung.com; el texto original solo incluye título y procedencia.",
-        "body": "Hankyung PREMIUM9 TODAY fue presentado como un elemento de noticias de señal macro del día. La información confirmada en el texto original se limita al título, “Hankyung PREMIUM9 TODAY”, y a la fuente, “hankyung.com”. No se proporcionaron resumen adicional, entidad emisora, cifras concretas, impacto de mercado ni contexto de política económica. Por tanto, el hecho publicable se limita a que el elemento fue identificado como un título de noticias premium con fuente en hankyung.com. Si se divulgan más texto o datos, podrá evaluarse su efecto sobre la economía y los mercados financieros. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Hankyung PREMIUM9 TODAY é notícia macro confirmada via hankyung.com",
-        "excerpt": "Hankyung PREMIUM9 TODAY aparece como item de notícia de sinal macro do dia, com fonte hankyung.com; o original informa apenas título e origem.",
-        "body": "Hankyung PREMIUM9 TODAY foi apresentado como um item de notícia de sinal macro do dia. As únicas informações confirmadas no texto original são o título, “Hankyung PREMIUM9 TODAY”, e a fonte, “hankyung.com”. Não foram fornecidos resumo separado, entidade responsável, números específicos, impacto de mercado ou contexto de política econômica. Assim, o fato publicável limita-se à identificação do item como um título de notícia premium com origem em hankyung.com. Caso mais texto ou dados sejam divulgados, será possível avaliar seus efeitos sobre a economia e os mercados financeiros. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Hankyung PREMIUM9 TODAY als Makro-Nachricht von hankyung.com bestätigt",
-        "excerpt": "Hankyung PREMIUM9 TODAY ist als heutiger Makro-Signal-Newsbeitrag mit Quelle hankyung.com aufgeführt; der Originaltext nennt nur Titel und Quelle.",
-        "body": "Hankyung PREMIUM9 TODAY wurde als heutiger Makro-Signal-Newsbeitrag vorgestellt. Die im Originaltext bestätigten Kerninformationen beschränken sich auf den Titel „Hankyung PREMIUM9 TODAY“ und die Quelle „hankyung.com“. Eine separate Zusammenfassung, ein veröffentlichender Akteur, konkrete Zahlen, Marktauswirkungen oder ein politischer Hintergrund wurden nicht angegeben. Daher lässt sich derzeit nur berichten, dass der Beitrag als Premium-Nachrichtentitel mit Quelle hankyung.com identifiziert wurde. Sollten weitere Texte oder Daten veröffentlicht werden, können Auswirkungen auf Wirtschaft und Finanzmärkte ergänzt werden. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Hankyung PREMIUM9 TODAY confirmé comme actualité macro de hankyung.com",
-        "excerpt": "Hankyung PREMIUM9 TODAY est présenté comme une actualité de signal macro du jour provenant de hankyung.com; le texte original ne donne que le titre et la source.",
-        "body": "Hankyung PREMIUM9 TODAY a été présenté comme une actualité de signal macro du jour. Les seules informations confirmées dans le texte original sont le titre, « Hankyung PREMIUM9 TODAY », et la source, « hankyung.com ». Aucun résumé distinct, organisme émetteur, chiffre précis, impact de marché ni contexte de politique économique n’a été fourni. Le fait publiable se limite donc à l’identification de cet élément comme un titre d’actualité premium provenant de hankyung.com. Si un texte ou des données supplémentaires sont publiés, leurs effets sur l’économie et les marchés financiers pourront être analysés. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "تأكيد Hankyung PREMIUM9 TODAY كخبر ماكرو صادر عن hankyung.com",
-        "excerpt": "يُعرض Hankyung PREMIUM9 TODAY كبند إخباري لإشارات الاقتصاد الكلي اليوم، ومصدره hankyung.com، بينما يورد النص الأصلي العنوان والمصدر فقط.",
-        "body": "تم تقديم Hankyung PREMIUM9 TODAY كبند إخباري ضمن إشارات الاقتصاد الكلي لليوم. المعلومات المؤكدة في النص الأصلي تقتصر على العنوان “Hankyung PREMIUM9 TODAY” والمصدر “hankyung.com”. لم يرد ملخص منفصل أو جهة إصدار أو أرقام محددة أو أثر على السوق أو خلفية مرتبطة بالسياسات. لذلك فإن الحقيقة القابلة للنشر حاليا تقتصر على أن هذا البند مؤكد كعنوان خبر مميز صادر عن hankyung.com. وإذا نُشر نص إضافي أو بيانات لاحقة، يمكن عندها استكمال تقييم التأثير على الاقتصاد والأسواق المالية. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Hankyung PREMIUM9 TODAY, hankyung.com से मैक्रो समाचार के रूप में दर्ज",
-        "excerpt": "Hankyung PREMIUM9 TODAY को आज के मैक्रो-सिग्नल समाचार आइटम के रूप में सूचीबद्ध किया गया है, जिसका स्रोत hankyung.com है; मूल पाठ में केवल शीर्षक और स्रोत है।",
-        "body": "Hankyung PREMIUM9 TODAY को आज के मैक्रो-सिग्नल समाचार आइटम के रूप में प्रस्तुत किया गया। मूल पाठ में पुष्टि योग्य मुख्य जानकारी केवल शीर्षक “Hankyung PREMIUM9 TODAY” और स्रोत “hankyung.com” है। अलग सारांश, प्रकाशन संस्था, विशिष्ट आंकड़े, बाजार प्रभाव या नीतिगत पृष्ठभूमि उपलब्ध नहीं कराई गई। इसलिए फिलहाल प्रकाशित की जा सकने वाली बात इतनी ही है कि यह आइटम hankyung.com स्रोत वाले प्रीमियम समाचार शीर्षक के रूप में पहचाना गया है। यदि अतिरिक्त पाठ या आंकड़े जारी होते हैं, तो अर्थव्यवस्था और वित्तीय बाजारों पर प्रभाव व दृष्टिकोण जोड़े जा सकते हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Hankyung PREMIUM9 TODAY Dikonfirmasi sebagai Berita Makro hankyung.com",
-        "excerpt": "Hankyung PREMIUM9 TODAY tercatat sebagai item berita sinyal makro hari ini dengan sumber hankyung.com; teks asli hanya memuat judul dan sumber.",
-        "body": "Hankyung PREMIUM9 TODAY disajikan sebagai item berita sinyal makro hari ini. Informasi utama yang dapat dikonfirmasi dalam teks asli hanya judul “Hankyung PREMIUM9 TODAY” dan sumber “hankyung.com”. Tidak ada ringkasan terpisah, pihak penerbit, angka spesifik, dampak pasar, atau latar kebijakan yang diberikan. Karena itu, fakta yang dapat diberitakan saat ini terbatas pada identifikasi item tersebut sebagai judul berita premium yang bersumber dari hankyung.com. Jika teks atau data tambahan dipublikasikan, dampaknya terhadap ekonomi dan pasar keuangan dapat dilengkapi. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "a5b86ce27ead",
-    "slug": "bts-보러-외국인-몰려왔다3월-여행수지-11년여-만에-흑자-543265",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T17:01:11.681Z",
-    "updatedAt": "2026-05-09T17:01:11.681Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848681",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848681",
-    "titleFingerprint": "0c73aa72933208e644d42da78864eb703603a6a4",
-    "dedupKeys": [
-      "a5b86ce27ead874b8f6b69c94495f415679a6e95",
-      "0c73aa72933208e644d42da78864eb703603a6a4",
-      "acab7fb460a08ae12836881c298e67c6de97d9aa"
-    ],
-    "imageUrl": "/images/articles/a5b86ce27ead.jpg",
-    "i18n": {
-      "ko": {
-        "title": "BTS 효과에 외국인 관광객 몰렸다…3월 여행수지 11년여 만에 흑자",
-        "excerpt": "BTS를 보기 위해 한국을 찾은 외국인 관광객이 늘면서 3월 여행수지가 11년여 만에 흑자를 기록했다. 한류 콘텐츠가 서비스수지 흐름에 영향을 준 사례로 주목된다.",
-        "body": "3월 한국의 여행수지가 11년여 만에 흑자를 기록했다. 한국을 찾은 외국인 관광객이 BTS 관련 수요를 중심으로 늘어난 영향으로 전해졌다. 여행수지는 외국인이 국내에서 쓴 돈과 내국인이 해외에서 쓴 돈의 차이를 보여주는 지표다. 그동안 해외여행 지출이 더 커 적자가 이어졌지만, 3월에는 외국인 유입이 늘며 흑자로 돌아섰다. 한류 콘텐츠에 대한 관심이 실제 방한 수요와 여행수지 개선으로 연결된 점이 부각된다. 향후에도 K팝 등 문화 콘텐츠가 외국인 관광 흐름에 어떤 영향을 줄지 주목된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "BTS Tourism Boosts Korea as March Travel Balance Turns Surplus After 11 Years",
-        "excerpt": "Foreign visitors drawn to Korea by BTS helped the country’s March travel balance post a surplus for the first time in more than 11 years, highlighting the economic impact of Korean pop culture.",
-        "body": "South Korea’s travel balance recorded a surplus in March for the first time in more than 11 years. The shift was attributed to an increase in foreign tourists visiting Korea, with demand linked to BTS playing a central role. The travel balance measures the difference between money spent by foreign visitors in Korea and money spent by Korean residents overseas. For years, the account had remained in deficit because outbound travel spending was larger. In March, however, stronger inbound tourism helped turn the balance positive. The case underscores how interest in Korean cultural content can translate into actual travel demand and an improved services balance. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "BTS効果で訪韓外国人が増加、3月の旅行収支は11年余りぶり黒字",
-        "excerpt": "BTSを見るため韓国を訪れた外国人観光客が増え、3月の旅行収支は11年余りぶりに黒字となった。韓流コンテンツがサービス収支に与える影響が注目される。",
-        "body": "韓国の3月の旅行収支が11年余りぶりに黒字を記録した。BTS関連の需要を中心に、韓国を訪れる外国人観光客が増えたことが影響したと伝えられている。旅行収支は、外国人が韓国内で使ったお金と、韓国人が海外で使ったお金の差を示す指標だ。これまでは海外旅行支出の方が大きく、赤字が続いていたが、3月は外国人の流入増加により黒字へ転じた。韓流コンテンツへの関心が実際の訪韓需要と旅行収支の改善につながった点が浮き彫りになった。今後もKポップなど文化コンテンツが外国人観光の流れにどのような影響を与えるか注目される。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "BTS效应带动外国游客赴韩，3月旅游收支时隔11年多转为顺差",
-        "excerpt": "为观看BTS而访问韩国的外国游客增加，使韩国3月旅游收支时隔11年多录得顺差。韩流内容对服务收支走势的影响受到关注。",
-        "body": "韩国3月旅游收支时隔11年多录得顺差。据报道，这一变化主要受到外国游客赴韩增加的影响，其中与BTS相关的需求发挥了重要作用。旅游收支反映外国人在韩国消费的金额与韩国居民在海外消费金额之间的差额。过去由于海外旅行支出更大，韩国旅游收支长期处于逆差状态。但在3月，随着外国游客流入增加，收支转为顺差。这一情况显示，韩流内容的关注度能够转化为实际访韩需求，并推动旅游收支改善。未来K-pop等文化内容将如何影响外国游客流向，仍值得关注。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El efecto BTS atrae turistas a Corea y deja superávit viajero en marzo tras 11 años",
-        "excerpt": "El aumento de turistas extranjeros que viajaron a Corea por BTS hizo que la balanza de viajes de marzo registrara su primer superávit en más de 11 años, reflejando el peso económico del K-pop.",
-        "body": "La balanza de viajes de Corea del Sur registró en marzo un superávit por primera vez en más de 11 años. El cambio se atribuyó al aumento de turistas extranjeros que visitaron el país, con la demanda relacionada con BTS como uno de los factores centrales. La balanza de viajes mide la diferencia entre el dinero que gastan los visitantes extranjeros en Corea y el gasto de los residentes coreanos en el exterior. Durante años se mantuvo en déficit porque el gasto en viajes al extranjero era mayor. En marzo, sin embargo, la mayor llegada de visitantes extranjeros llevó el saldo a terreno positivo. El caso muestra cómo el interés por los contenidos culturales coreanos puede traducirse en demanda real de viajes y en una mejora de la balanza de servicios. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Efeito BTS leva turistas à Coreia e saldo de viagens vira superávit após 11 anos",
-        "excerpt": "O aumento de turistas estrangeiros que foram à Coreia por causa do BTS fez o saldo de viagens de março registrar superávit pela primeira vez em mais de 11 anos, destacando o impacto do K-pop.",
-        "body": "A balança de viagens da Coreia do Sul registrou superávit em março pela primeira vez em mais de 11 anos. A mudança foi atribuída ao aumento de turistas estrangeiros que visitaram o país, com a demanda ligada ao BTS no centro desse movimento. A balança de viagens mede a diferença entre o dinheiro gasto por estrangeiros na Coreia e o gasto de residentes coreanos no exterior. Durante anos, o indicador permaneceu em déficit porque as despesas com viagens ao exterior eram maiores. Em março, porém, a maior entrada de visitantes estrangeiros levou o saldo ao campo positivo. O caso mostra como o interesse por conteúdos culturais coreanos pode se transformar em demanda real de viagem e melhorar a balança de serviços. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "BTS-Effekt lockt Touristen nach Korea: Reisebilanz im März nach 11 Jahren im Plus",
-        "excerpt": "Mehr ausländische Besucher reisten wegen BTS nach Korea, wodurch die Reisebilanz im März erstmals seit mehr als 11 Jahren einen Überschuss erzielte und den Einfluss koreanischer Kulturinhalte zeigt.",
-        "body": "Südkoreas Reisebilanz hat im März erstmals seit mehr als 11 Jahren einen Überschuss verzeichnet. Als Grund gilt der Anstieg ausländischer Touristen, die Korea besuchten, wobei die Nachfrage im Zusammenhang mit BTS eine zentrale Rolle spielte. Die Reisebilanz zeigt die Differenz zwischen den Ausgaben ausländischer Besucher in Korea und den Ausgaben koreanischer Einwohner im Ausland. Über Jahre blieb sie im Defizit, weil die Ausgaben für Auslandsreisen höher waren. Im März führte der stärkere Zustrom ausländischer Besucher jedoch zu einem positiven Saldo. Der Fall macht deutlich, dass Interesse an koreanischen Kulturinhalten in konkrete Reisenachfrage und eine Verbesserung der Dienstleistungsbilanz münden kann. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’effet BTS attire les touristes en Corée et remet la balance voyages dans le vert",
-        "excerpt": "L’afflux de visiteurs étrangers venus en Corée pour BTS a permis à la balance des voyages de mars d’afficher un excédent pour la première fois depuis plus de 11 ans, signe de l’impact de la K-pop.",
-        "body": "La balance des voyages de la Corée du Sud a enregistré en mars un excédent pour la première fois depuis plus de 11 ans. Ce retournement est attribué à l’augmentation du nombre de touristes étrangers visitant le pays, avec une demande liée à BTS au centre du mouvement. La balance des voyages mesure l’écart entre les dépenses des visiteurs étrangers en Corée et celles des résidents coréens à l’étranger. Pendant des années, elle était restée déficitaire car les dépenses de voyages à l’étranger étaient plus élevées. En mars, toutefois, la hausse des arrivées étrangères a fait passer le solde dans le positif. Ce cas montre que l’intérêt pour les contenus culturels coréens peut se traduire par une demande réelle de voyages et améliorer la balance des services. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تأثير BTS يجذب السياح إلى كوريا وفائض في ميزان السفر لأول مرة منذ 11 عاما",
-        "excerpt": "زاد عدد السياح الأجانب الذين قصدوا كوريا لمتابعة BTS، ما دفع ميزان السفر في مارس إلى تسجيل فائض للمرة الأولى منذ أكثر من 11 عاما، مبرزا أثر المحتوى الثقافي الكوري.",
-        "body": "سجل ميزان السفر في كوريا الجنوبية فائضا في مارس للمرة الأولى منذ أكثر من 11 عاما. وجاء التحول مع زيادة عدد السياح الأجانب الذين زاروا كوريا، وكانت الطلبات المرتبطة بفرقة BTS في صلب هذا الارتفاع. ويقيس ميزان السفر الفرق بين ما ينفقه الزوار الأجانب داخل كوريا وما ينفقه المقيمون الكوريون في الخارج. وخلال سنوات، ظل الميزان في حالة عجز لأن الإنفاق على السفر الخارجي كان أكبر. لكن في مارس، ساعد ارتفاع تدفق الزوار الأجانب على انتقال الميزان إلى الفائض. وتبرز هذه الحالة كيف يمكن للاهتمام بالمحتوى الثقافي الكوري أن يتحول إلى طلب فعلي على زيارة البلاد وأن يحسن ميزان الخدمات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "BTS देखने पहुंचे विदेशी पर्यटक, मार्च यात्रा संतुलन 11 साल बाद अधिशेष में",
-        "excerpt": "BTS को देखने के लिए कोरिया आने वाले विदेशी पर्यटकों की संख्या बढ़ने से मार्च का यात्रा संतुलन 11 साल से अधिक समय बाद अधिशेष में पहुंचा, जिससे K-pop के आर्थिक प्रभाव पर ध्यान गया।",
-        "body": "दक्षिण कोरिया का मार्च यात्रा संतुलन 11 साल से अधिक समय बाद अधिशेष में दर्ज हुआ। बताया गया कि कोरिया आने वाले विदेशी पर्यटकों की संख्या बढ़ी, जिसमें BTS से जुड़ी मांग प्रमुख रही। यात्रा संतुलन वह संकेतक है जो कोरिया में विदेशी आगंतुकों द्वारा खर्च की गई राशि और विदेशों में कोरियाई निवासियों के खर्च के बीच अंतर दिखाता है। कई वर्षों से विदेश यात्रा पर खर्च अधिक रहने के कारण यह घाटे में था। लेकिन मार्च में विदेशी आगंतुकों की बढ़ी आमद से यह संतुलन सकारात्मक हो गया। यह मामला दिखाता है कि कोरियाई सांस्कृतिक सामग्री में रुचि वास्तविक यात्रा मांग और सेवा संतुलन में सुधार से जुड़ सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Efek BTS tarik turis asing ke Korea, neraca perjalanan Maret surplus setelah 11 tahun",
-        "excerpt": "Kenaikan turis asing yang datang ke Korea untuk BTS membuat neraca perjalanan Maret mencatat surplus pertama dalam lebih dari 11 tahun, menegaskan dampak konten budaya Korea pada ekonomi jasa.",
-        "body": "Neraca perjalanan Korea Selatan pada Maret mencatat surplus untuk pertama kalinya dalam lebih dari 11 tahun. Perubahan ini dikaitkan dengan meningkatnya jumlah turis asing yang berkunjung ke Korea, dengan permintaan terkait BTS menjadi faktor utama. Neraca perjalanan mengukur selisih antara uang yang dibelanjakan pengunjung asing di Korea dan uang yang dibelanjakan warga Korea di luar negeri. Selama bertahun-tahun, neraca ini defisit karena belanja perjalanan ke luar negeri lebih besar. Namun pada Maret, peningkatan arus masuk wisatawan asing membuat saldo berbalik positif. Kasus ini menunjukkan bahwa minat terhadap konten budaya Korea dapat berubah menjadi permintaan kunjungan nyata dan memperbaiki neraca jasa. Sumber: hankyung.com"
       }
     }
   }
