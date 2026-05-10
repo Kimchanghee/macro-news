@@ -1,5 +1,230 @@
 [
   {
+    "id": "7e9643aa6aee",
+    "slug": "단독-中-드론에-기밀-털릴-판美-경고에-k조선-초비상-787797",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T18:34:39.386Z",
+    "updatedAt": "2026-05-10T18:34:39.386Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051066531",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051066531",
+    "titleFingerprint": "10bf813cb95d5a6801dc865fc6b3af389f5d9ab6",
+    "dedupKeys": [
+      "7e9643aa6aee43d88967820915e743901682f4cd",
+      "10bf813cb95d5a6801dc865fc6b3af389f5d9ab6",
+      "086de190801191cfa55aa060576b679c89efea59"
+    ],
+    "imageUrl": "/images/articles/7e9643aa6aee.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중국 드론 통한 기밀 유출 우려에 K조선 초비상, 미국 경고 이후 조선업 보안 리스크 부상",
+        "excerpt": "한국경제 보도에 따르면 미국이 중국 드론을 통한 기밀 유출 가능성을 경고하면서 K조선 업계에 보안 리스크가 부상했다. 조선 현장의 정보 관리와 장비 운용 점검 필요성이 커지고 있다.",
+        "body": "미국의 경고로 K조선 업계가 중국 드론을 통한 기밀 유출 가능성에 긴장하고 있다. 한국경제(hankyung.com)는 중국 드론에 기밀이 털릴 수 있다는 우려가 제기되며 국내 조선업계가 초비상에 들어갔다고 보도했다. 이번 사안의 핵심은 조선 현장과 관련 업무에서 사용되는 장비가 민감한 정보를 외부로 노출할 수 있는지 여부다. 원문에서 구체적인 기업명, 피해 규모, 수치 등은 제시되지 않았지만, 미국의 경고가 국내 조선업 보안 점검 필요성을 키운 것으로 정리된다. 향후 업계는 드론 운용과 기밀 관리 체계를 재점검할 가능성이 크다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Chinese Drone Data-Leak Risk Puts K-Shipbuilding on Alert After U.S. Warning",
+        "excerpt": "According to Hankyung, a U.S. warning over possible confidential data leaks through Chinese drones has raised security concerns for South Korea’s shipbuilding industry and its site operations.",
+        "body": "South Korea’s shipbuilding industry is on alert after a U.S. warning over the possibility that confidential information could be exposed through Chinese drones. Hankyung.com reported that concerns about Chinese drones gaining access to sensitive information have put K-shipbuilding in an emergency posture. The core issue is whether equipment used at shipbuilding sites or in related work could transmit sensitive data outside controlled channels. The original information does not specify company names, damage estimates, or detailed figures, but it indicates that the U.S. warning has heightened the need for security checks across the sector. Industry players are expected to review drone use and confidential-information controls. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "中国ドローンによる機密流出懸念で韓国造船に緊張、米警告で保安リスク浮上",
+        "excerpt": "韓国経済新聞によると、米国が中国ドローンを通じた機密流出の可能性を警告し、韓国造船業界で現場の情報管理と装備運用を点検する必要性が高まっている。",
+        "body": "米国の警告を受け、韓国造船業界が中国ドローンを通じた機密流出の可能性に神経をとがらせている。韓国経済新聞（hankyung.com）は、中国ドローンによって機密が外部に流出する恐れが提起され、K造船が非常態勢に入ったと報じた。焦点は、造船現場や関連業務で使われる装備が、敏感な情報を外部へ露出させる可能性があるかどうかだ。原文では具体的な企業名、被害規模、数値は示されていないが、米国の警告が業界全体の保安点検の必要性を高めたと整理できる。今後、ドローン運用と機密管理体制の再確認が進む見通しだ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "中国无人机机密外泄风险引发韩国造船警戒，美国警告凸显安全隐患",
+        "excerpt": "据韩国经济新闻报道，美国警告中国无人机可能导致机密外泄，使韩国造船业面临安全风险，业内对现场信息管理和设备使用的检查需求正在上升。",
+        "body": "在美国发出警告后，韩国造船业正对中国无人机可能造成的机密外泄风险保持高度警惕。韩国经济新闻（hankyung.com）报道称，外界担忧中国无人机可能获取机密信息，韩国造船业因此进入紧急状态。问题核心在于，造船现场及相关业务中使用的设备，是否可能把敏感信息暴露到外部。原文未列出具体企业名称、损失规模或详细数据，但可以确认的是，美国警告提高了韩国造船业进行安全检查的必要性。未来，业内可能会重新审视无人机使用方式以及机密信息管理体系。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Drones chinos y riesgo de fuga de datos ponen en alerta al K-shipbuilding tras aviso de EE. UU.",
+        "excerpt": "Según Hankyung, una advertencia de Estados Unidos sobre posibles fugas de información confidencial mediante drones chinos elevó las preocupaciones de seguridad en la industria naval surcoreana.",
+        "body": "La industria naval surcoreana está en alerta tras una advertencia de Estados Unidos sobre la posibilidad de que información confidencial quede expuesta mediante drones chinos. Hankyung.com informó que la preocupación por una posible filtración de secretos a través de esos dispositivos ha puesto al K-shipbuilding en situación de emergencia. El punto central es si equipos utilizados en astilleros o trabajos relacionados pueden exponer datos sensibles hacia el exterior. La información original no detalla nombres de empresas, daños ni cifras concretas, pero señala que el aviso estadounidense aumentó la necesidad de revisar la seguridad del sector. La industria podría reforzar sus controles sobre drones y gestión de información confidencial. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Risco de vazamento por drones chineses deixa construção naval coreana em alerta após aviso dos EUA",
+        "excerpt": "Segundo o Hankyung, um alerta dos EUA sobre possível vazamento de informações confidenciais por drones chineses elevou a preocupação de segurança na indústria naval da Coreia do Sul.",
+        "body": "A indústria naval sul-coreana está em alerta depois de um aviso dos Estados Unidos sobre a possibilidade de informações confidenciais serem expostas por drones chineses. O Hankyung.com informou que a preocupação com a perda de dados sensíveis por meio desses drones colocou o K-shipbuilding em estado de emergência. O ponto central é saber se equipamentos usados em estaleiros ou atividades relacionadas podem transmitir informações sensíveis para fora dos canais controlados. O texto original não apresenta nomes de empresas, estimativas de prejuízo ou números específicos, mas indica que o alerta dos EUA elevou a necessidade de revisar a segurança do setor. A indústria deve reavaliar o uso de drones e os controles de informações confidenciais. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Chinesische Drohnen und Geheimnisrisiko setzen K-Schiffbau nach US-Warnung unter Druck",
+        "excerpt": "Laut Hankyung hat eine US-Warnung vor möglichen Lecks vertraulicher Informationen über chinesische Drohnen die Sicherheitsbedenken in Südkoreas Schiffbauindustrie verstärkt.",
+        "body": "Südkoreas Schiffbauindustrie ist nach einer US-Warnung wegen möglicher Lecks vertraulicher Informationen über chinesische Drohnen in erhöhter Alarmbereitschaft. Hankyung.com berichtete, dass die Sorge vor einem Abfluss sensibler Daten durch chinesische Drohnen den K-Schiffbau in eine Notlage versetzt habe. Im Mittelpunkt steht die Frage, ob Geräte, die auf Werften oder in damit verbundenen Arbeitsprozessen genutzt werden, sensible Informationen nach außen offenlegen könnten. Der Originaltext nennt keine konkreten Unternehmensnamen, Schadenssummen oder detaillierten Zahlen. Er zeigt jedoch, dass die US-Warnung den Bedarf an Sicherheitsprüfungen in der Branche erhöht hat. Künftig dürfte die Industrie Drohnennutzung und Geheimnisschutz genauer überprüfen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Drones chinois et risque de fuite de secrets: la construction navale coréenne en alerte après l’avertissement américain",
+        "excerpt": "Selon Hankyung, un avertissement des États-Unis sur de possibles fuites d’informations confidentielles via des drones chinois a accru les préoccupations de sécurité dans la construction navale sud-coréenne.",
+        "body": "L’industrie sud-coréenne de la construction navale est en alerte après un avertissement des États-Unis sur la possibilité que des informations confidentielles soient exposées par des drones chinois. Hankyung.com a rapporté que la crainte d’une fuite de secrets via ces drones a placé le K-shipbuilding en situation d’urgence. Le cœur du sujet est de savoir si des équipements utilisés sur les chantiers navals ou dans des activités connexes pourraient transmettre des données sensibles vers l’extérieur. Le texte d’origine ne précise pas de noms d’entreprises, de montants de dommages ni de chiffres détaillés. Il indique toutefois que l’avertissement américain renforce la nécessité de vérifier la sécurité du secteur. Les acteurs devraient revoir l’usage des drones et les systèmes de gestion des informations confidentielles. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "مخاطر تسرب الأسرار عبر مسيرات صينية تضع صناعة السفن الكورية في حالة تأهب بعد تحذير أميركي",
+        "excerpt": "وفق هانكيونغ، أدى تحذير أميركي من احتمال تسرب معلومات سرية عبر مسيرات صينية إلى زيادة مخاوف الأمن في صناعة بناء السفن الكورية الجنوبية ورفع الحاجة إلى مراجعة إدارة المعلومات.",
+        "body": "دخلت صناعة بناء السفن في كوريا الجنوبية حالة تأهب بعد تحذير أميركي من احتمال تعرض معلومات سرية للكشف عبر مسيرات صينية. وذكرت هانكيونغ دوت كوم أن المخاوف من تسرب أسرار من خلال هذه المسيرات وضعت قطاع K-shipbuilding في وضع طارئ. تتمحور القضية حول ما إذا كانت المعدات المستخدمة في مواقع بناء السفن أو في الأعمال المرتبطة بها قد تكشف بيانات حساسة إلى الخارج. لا يورد النص الأصلي أسماء شركات محددة أو حجم أضرار أو أرقاما تفصيلية، لكنه يشير إلى أن التحذير الأميركي زاد الحاجة إلى فحص أمن القطاع. ومن المرجح أن تراجع الشركات استخدام المسيرات وأنظمة إدارة المعلومات السرية. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "चीनी ड्रोन से गोपनीय जानकारी लीक होने के जोखिम पर K-शिपबिल्डिंग सतर्क, अमेरिकी चेतावनी से चिंता बढ़ी",
+        "excerpt": "Hankyung के अनुसार, अमेरिका ने चीनी ड्रोन के जरिए गोपनीय जानकारी लीक होने की आशंका पर चेतावनी दी, जिससे दक्षिण कोरिया के जहाज निर्माण उद्योग में सुरक्षा जांच की जरूरत बढ़ गई है।",
+        "body": "अमेरिका की चेतावनी के बाद दक्षिण कोरिया का जहाज निर्माण उद्योग चीनी ड्रोन के जरिए गोपनीय जानकारी लीक होने की संभावना को लेकर सतर्क हो गया है। Hankyung.com ने बताया कि चीनी ड्रोन से संवेदनशील जानकारी बाहर जाने की आशंका के कारण K-shipbuilding क्षेत्र में आपात स्थिति जैसी चिंता पैदा हुई है। मुख्य मुद्दा यह है कि जहाज निर्माण स्थलों या संबंधित काम में उपयोग होने वाले उपकरण कहीं संवेदनशील डेटा को नियंत्रित दायरे से बाहर तो नहीं भेज सकते। मूल जानकारी में किसी कंपनी का नाम, नुकसान का आकार या विस्तृत आंकड़े नहीं दिए गए हैं, लेकिन यह स्पष्ट है कि अमेरिकी चेतावनी ने पूरे क्षेत्र में सुरक्षा जांच की जरूरत बढ़ा दी है। आगे उद्योग ड्रोन उपयोग और गोपनीय सूचना प्रबंधन प्रणाली की समीक्षा कर सकता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Risiko Kebocoran Rahasia Lewat Drone China Bikin K-Shipbuilding Siaga Usai Peringatan AS",
+        "excerpt": "Menurut Hankyung, peringatan AS soal kemungkinan kebocoran informasi rahasia melalui drone China memicu kekhawatiran keamanan di industri galangan kapal Korea Selatan.",
+        "body": "Industri galangan kapal Korea Selatan berada dalam kewaspadaan setelah Amerika Serikat memperingatkan kemungkinan informasi rahasia terekspos melalui drone China. Hankyung.com melaporkan bahwa kekhawatiran atas potensi bocornya data sensitif lewat drone tersebut membuat sektor K-shipbuilding berada dalam kondisi darurat. Pokok persoalannya adalah apakah peralatan yang digunakan di lokasi galangan kapal atau pekerjaan terkait dapat membuka informasi sensitif ke pihak luar. Informasi asli tidak menyebut nama perusahaan, skala kerugian, atau angka terperinci, tetapi menunjukkan bahwa peringatan AS meningkatkan kebutuhan pemeriksaan keamanan di sektor ini. Ke depan, industri kemungkinan meninjau kembali penggunaan drone dan sistem pengelolaan informasi rahasia. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "bfb9096aa165",
+    "slug": "전쟁發-수입물가-상승세-계속됐나-694544",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T18:33:22.463Z",
+    "updatedAt": "2026-05-10T18:33:22.463Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051066041",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051066041",
+    "titleFingerprint": "6affd81724a9d7e7a1f0a1b25f48808e2352116a",
+    "dedupKeys": [
+      "bfb9096aa1650ece5a91c34ad06f254d1344baae",
+      "6affd81724a9d7e7a1f0a1b25f48808e2352116a",
+      "ef801de0a35556d8641786c2497503f9bf66b387"
+    ],
+    "imageUrl": "/images/articles/bfb9096aa165.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전쟁발 수입물가 상승세 계속됐나, 물가 부담 지속 여부에 시장 관심 집중되는 이유",
+        "excerpt": "hankyung.com은 전쟁 여파로 오른 수입물가 상승세가 계속됐는지에 주목했다. 원문은 제목과 출처 외 별도 요약·수치를 제시하지 않아 확인된 범위 안에서 쟁점을 정리한다.",
+        "body": "전쟁 여파로 높아진 수입물가 상승세가 계속됐는지가 시장의 관심사로 떠올랐다. hankyung.com이 제시한 원문 제목은 전쟁발 수입물가 상승 흐름의 지속 여부를 핵심 쟁점으로 다룬다. 다만 제공된 원문에는 제목과 출처 외에 구체적인 발표 시점, 수치, 품목별 변동, 기관 발언 등 추가 정보가 포함되지 않았다. 따라서 확인 가능한 사실은 전쟁과 수입물가 상승세가 연결된 이슈로 제기됐다는 점이다. 수입물가 흐름은 국내 물가 부담과 기업 비용 판단에 영향을 줄 수 있어 관련 지표 확인이 필요하다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "War-driven import price rise: markets watch whether inflation pressure persisted",
+        "excerpt": "hankyung.com focused on whether import prices, lifted by the effects of war, continued to rise. As the source provides only a title and outlet, this report summarizes only the verified issue.",
+        "body": "Whether the rise in import prices driven by the effects of war continued has emerged as a market concern. The original headline provided by hankyung.com frames the persistence of war-related import price increases as the central issue. However, the supplied source includes no additional summary, publication timing, figures, item-level changes, or official comments beyond the title and outlet. The verified fact is therefore limited to the issue being raised between war and import price inflation. Import price trends can affect domestic inflation pressure and corporate cost assessments, making related data worth monitoring. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "戦争発の輸入物価上昇は続いたのか、物価負担の行方に市場が注目",
+        "excerpt": "hankyung.comは、戦争の影響で上昇した輸入物価の伸びが続いたのかに注目した。原文は題名と出典以外の要約・数値を示していないため、確認できる範囲で整理する。",
+        "body": "戦争の影響で高まった輸入物価の上昇が続いたのかが、市場の関心事となっている。hankyung.comが示した原文の題名は、戦争発の輸入物価上昇の持続 여부を核心的な論点として扱っている。ただし、提供された原文には題名と出典以外に、発表時点、具体的な数値、品目別の変動、機関の発言などの追加情報は含まれていない。したがって確認できる事実は、戦争と輸入物価上昇が結び付いた問題として提起された点に限られる。輸入物価の動きは国内物価負担や企業のコスト判断に影響し得るため、関連指標の確認が必要だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "战争推高进口物价是否延续，市场关注通胀负担走向",
+        "excerpt": "hankyung.com关注战争影响下上涨的进口物价是否继续上行。原文除标题和来源外未提供摘要或具体数据，本文仅在已确认信息范围内梳理议题。",
+        "body": "战争影响下走高的进口物价涨势是否延续，成为市场关注的问题。hankyung.com提供的原文标题，将战争引发的进口物价上涨是否持续作为核心议题。不过，所给原文除标题和来源外，并未包含具体发布时间、数据、分品类变化或机构表态等补充信息。因此，可以确认的事实仅限于战争与进口物价上涨被作为相关议题提出。进口物价走势可能影响国内物价压力和企业成本判断，因此后续相关指标仍需关注。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Subida de precios de importación por la guerra: el mercado observa si continuó",
+        "excerpt": "hankyung.com centró la atención en si los precios de importación, elevados por los efectos de la guerra, siguieron subiendo. La fuente solo aporta título y medio, por lo que se resume lo verificado.",
+        "body": "La continuidad de la subida de los precios de importación causada por los efectos de la guerra se ha convertido en un punto de atención para el mercado. El título original presentado por hankyung.com plantea como tema central si el aumento de los precios de importación ligado a la guerra persistió. Sin embargo, el material suministrado no incluye, además del título y la fuente, fecha de publicación, cifras concretas, variaciones por producto ni declaraciones de instituciones. Por tanto, el hecho verificable se limita a que se planteó un vínculo entre la guerra y el aumento de los precios de importación. Esta evolución puede influir en la presión inflacionaria interna y en los costes empresariales. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Alta dos preços de importação ligada à guerra: mercado observa se pressão continuou",
+        "excerpt": "O hankyung.com destacou se os preços de importação, elevados pelos efeitos da guerra, continuaram subindo. Como a fonte traz apenas título e origem, o texto resume só o que foi confirmado.",
+        "body": "A continuidade da alta dos preços de importação provocada pelos efeitos da guerra tornou-se um ponto de atenção para o mercado. O título original apresentado pelo hankyung.com coloca como questão central se a elevação dos preços de importação ligada à guerra persistiu. No entanto, o material fornecido não inclui, além do título e da fonte, data de publicação, números específicos, variações por item ou comentários de instituições. Assim, o fato verificável se limita à apresentação da guerra e da alta dos preços de importação como temas relacionados. A trajetória desses preços pode afetar a pressão inflacionária doméstica e a avaliação de custos das empresas. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Kriegsbedingter Anstieg der Importpreise: Märkte blicken auf anhaltenden Druck",
+        "excerpt": "hankyung.com richtete den Fokus darauf, ob die durch den Krieg gestiegenen Importpreise weiter zulegten. Da nur Titel und Quelle vorliegen, fasst der Text ausschließlich den bestätigten Sachverhalt zusammen.",
+        "body": "Ob der durch die Folgen des Krieges ausgelöste Anstieg der Importpreise anhielt, ist zu einem Thema für die Märkte geworden. Die von hankyung.com angegebene Originalüberschrift stellt die Frage nach der Dauer des kriegsbedingten Importpreisanstiegs in den Mittelpunkt. Das bereitgestellte Material enthält jedoch neben Titel und Quelle keine Angaben zu Veröffentlichungszeitpunkt, konkreten Zahlen, Veränderungen nach Warengruppen oder Aussagen von Institutionen. Bestätigt ist daher nur, dass Krieg und steigende Importpreise als zusammenhängendes Thema aufgegriffen wurden. Die Entwicklung der Importpreise kann den inländischen Preisdruck und die Kostenbewertung von Unternehmen beeinflussen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Prix à l’importation tirés par la guerre: les marchés scrutent la poursuite de la hausse",
+        "excerpt": "hankyung.com s’est intéressé à la poursuite éventuelle de la hausse des prix à l’importation liée aux effets de la guerre. La source ne fournissant que le titre et l’origine, ce texte s’en tient aux faits confirmés.",
+        "body": "La question de savoir si la hausse des prix à l’importation provoquée par les effets de la guerre s’est poursuivie attire l’attention des marchés. Le titre original fourni par hankyung.com présente la persistance de cette hausse liée à la guerre comme l’enjeu central. Toutefois, le document transmis ne contient, en dehors du titre et de la source, ni date précise, ni chiffres, ni variations par poste, ni déclarations d’institutions. Le fait vérifiable se limite donc au lien posé entre la guerre et la progression des prix à l’importation. Cette évolution peut peser sur la pression inflationniste intérieure et sur l’évaluation des coûts des entreprises. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "ارتفاع أسعار الواردات بفعل الحرب: الأسواق تترقب استمرار ضغط التضخم",
+        "excerpt": "ركز موقع hankyung.com على ما إذا كانت أسعار الواردات، التي ارتفعت بفعل تداعيات الحرب، قد واصلت صعودها. وبما أن المصدر لا يقدم سوى العنوان والجهة، يلتزم النص بالمعلومات المؤكدة فقط.",
+        "body": "أصبحت مسألة استمرار ارتفاع أسعار الواردات الناتج عن تداعيات الحرب موضع اهتمام في الأسواق. فالعنوان الأصلي الذي أورده موقع hankyung.com يضع استمرار موجة صعود أسعار الواردات المرتبطة بالحرب في صلب النقاش. لكن النص المقدم لا يتضمن، إلى جانب العنوان والمصدر، أي موعد نشر محدد أو أرقام تفصيلية أو تغيرات حسب السلع أو تصريحات من مؤسسات. لذلك تقتصر الحقيقة المؤكدة على طرح العلاقة بين الحرب وارتفاع أسعار الواردات كقضية اقتصادية. ويمكن لاتجاه أسعار الواردات أن يؤثر في ضغوط الأسعار المحلية وفي تقييم الشركات لتكاليفها. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "युद्ध से बढ़ी आयात कीमतें जारी रहीं या नहीं, महंगाई दबाव पर बाजार की नजर",
+        "excerpt": "hankyung.com ने इस बात पर ध्यान दिया कि युद्ध के असर से बढ़ी आयात कीमतों की तेजी जारी रही या नहीं। स्रोत में केवल शीर्षक और प्रकाशन का नाम है, इसलिए यह लेख पुष्टि योग्य जानकारी तक सीमित है।",
+        "body": "युद्ध के प्रभाव से ऊंची हुई आयात कीमतों की बढ़त जारी रही या नहीं, यह बाजार के लिए अहम सवाल बन गया है। hankyung.com के मूल शीर्षक में युद्ध से जुड़ी आयात मूल्य वृद्धि की निरंतरता को मुख्य मुद्दे के रूप में रखा गया है। हालांकि उपलब्ध मूल सामग्री में शीर्षक और स्रोत के अलावा प्रकाशन समय, ठोस आंकड़े, वस्तु-वार बदलाव या किसी संस्था की टिप्पणी शामिल नहीं है। इसलिए पुष्टि योग्य तथ्य इतना ही है कि युद्ध और आयात कीमतों की बढ़त को जुड़े हुए मुद्दे के रूप में उठाया गया। आयात कीमतों का रुझान घरेलू महंगाई दबाव और कंपनियों की लागत संबंधी 판단 को प्रभावित कर सकता है, इसलिए संबंधित संकेतकों पर नजर जरूरी है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Harga impor akibat perang masih naik? Pasar mencermati tekanan biaya",
+        "excerpt": "hankyung.com menyoroti apakah harga impor yang naik akibat dampak perang terus meningkat. Karena sumber hanya memuat judul dan asal berita, artikel ini merangkum isu yang dapat diverifikasi.",
+        "body": "Apakah kenaikan harga impor akibat dampak perang terus berlanjut menjadi perhatian pasar. Judul asli dari hankyung.com menempatkan keberlanjutan kenaikan harga impor yang dipicu perang sebagai isu utama. Namun, materi yang diberikan tidak memuat informasi tambahan selain judul dan sumber, seperti waktu publikasi, angka rinci, perubahan per komoditas, atau pernyataan lembaga. Karena itu, fakta yang dapat dipastikan terbatas pada adanya isu yang menghubungkan perang dengan kenaikan harga impor. Pergerakan harga impor dapat memengaruhi tekanan inflasi domestik dan penilaian biaya perusahaan, sehingga indikator terkait perlu dicermati. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "c0b8ffb3c47d",
+    "slug": "경험소비-공략한-中-프리미엄-브랜드는-질주-194772",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T18:32:14.157Z",
+    "updatedAt": "2026-05-10T18:32:14.158Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051066671",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051066671",
+    "titleFingerprint": "63128ce727a1965d1d5be141ac1fbd9ba2210476",
+    "dedupKeys": [
+      "c0b8ffb3c47dc41c539e5c2c40f48ecd3032ba36",
+      "63128ce727a1965d1d5be141ac1fbd9ba2210476",
+      "e50ce1b5224c5a148a575736166fea1d361948e7"
+    ],
+    "imageUrl": "/images/articles/c0b8ffb3c47d.png",
+    "i18n": {
+      "ko": {
+        "title": "중국 프리미엄 브랜드, 경험소비 공략으로 글로벌 명품 시장 판도 흔든다",
+        "excerpt": "중국 프리미엄 브랜드가 경험소비와 애국 소비 흐름을 바탕으로 자국 명품 시장에서 빠르게 성장하며 라오푸골드, 보쓰덩 등 사례를 통해 서구 명품 브랜드의 부진과 대비되고 있다.",
+        "body": "중국 프리미엄 브랜드가 경험소비와 ‘궈차오’로 불리는 애국 소비 흐름을 공략하며 명품 시장에서 빠르게 성장하고 있다. 한국경제에 따르면 베르나르 아르노 LVMH 회장은 지난해 9월 중국 방문 때 루이비통·디올 매장이 아닌 중국 브랜드 송몬트와 라오푸골드를 찾았다. 라오푸골드의 지난해 매출은 전년 대비 221% 늘어난 273억위안, 약 5조9000억원으로 중국 내 에르메스 매출을 추월했다. 반면 케링그룹 매출은 13% 줄고 LVMH 영업이익도 9% 감소했다. 보쓰덩 등은 중국 성장 뒤 유럽으로 진출했다. 베인앤드컴퍼니는 중국 브랜드가 낮은 가격, 정교한 제조, 현지화 마케팅으로 고급 이미지를 쌓고 있다고 봤다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Chinese Premium Brands Ride Experience Consumption to Challenge Luxury Leaders",
+        "excerpt": "Chinese premium brands are growing fast by tapping experience consumption and guochao patriotic buying, with Laopu Gold and Bosideng highlighting pressure on traditional Western luxury houses.",
+        "body": "Chinese premium brands are accelerating in the luxury market by targeting experience consumption and the patriotic buying trend known as guochao. According to Hankyung, LVMH chairman Bernard Arnault visited Chinese brands Songmont and Laopu Gold during a China trip last September instead of focusing on Louis Vuitton and Dior stores. Laopu Gold’s revenue rose 221% last year to 27.3 billion yuan, about 5.9 trillion won, surpassing Hermès sales in China. By contrast, Kering’s global revenue fell 13%, while LVMH operating profit declined 9%. Brands such as Bosideng have expanded from rapid growth in China into Europe. Bain & Company said Chinese luxury brands are building premium images with lower prices, refined manufacturing and localized marketing. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "中国プレミアムブランド、体験消費を捉え高級品市場の構図を揺さぶる",
+        "excerpt": "中国のプレミアムブランドは体験消費と愛国消費「国潮」を追い風に急成長し、ラオプーゴールドやボシデンの事例が欧米高級ブランドの不振と対照をなしている。",
+        "body": "中国のプレミアムブランドが、体験消費と「国潮」と呼ばれる愛国消費の流れを捉え、高級品市場で急成長している。韓国経済によると、LVMHのベルナール・アルノー会長は昨年9月の中国訪問時、ルイ・ヴィトンやディオールではなく、中国ブランドのソンモントとラオプーゴールドを訪れた。ラオプーゴールドの昨年売上高は前年比221%増の273億元、約5兆9000億ウォンで、中国内のエルメス売上高を上回った。一方、ケリングの世界売上高は13%減少し、LVMHの営業利益も9%減った。ボシデンなどは中国で成長した後、欧州市場にも進出している。ベイン・アンド・カンパニーは、中国ブランドが低めの価格、精巧な製造、現地化マーケティングで高級イメージを築いていると分析した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "中国高端品牌借体验消费加速，正在改写全球奢侈品格局",
+        "excerpt": "中国高端品牌借助体验消费和国潮消费快速增长，老铺黄金、波司登等案例与西方传统奢侈品牌业绩承压形成鲜明对比。",
+        "body": "中国高端品牌正通过抓住体验消费和“国潮”爱国消费趋势，在奢侈品市场快速扩张。据韩国经济报道，LVMH董事长伯纳德·阿尔诺去年9月访问中国时，没有只考察路易威登和迪奥门店，而是到访了中国品牌Songmont和老铺黄金。老铺黄金去年销售额同比增长221%，达到273亿元人民币，约5.9万亿韩元，超过爱马仕在中国的销售额。相较之下，开云集团全球销售额下降13%，LVMH营业利润也减少9%。波司登等品牌在中国高速增长后进入欧洲市场。贝恩公司认为，中国奢侈品牌正在以较低价格、精细制造和本地化营销塑造高端形象。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Marcas premium chinas avanzan con consumo experiencial y desafían el lujo global",
+        "excerpt": "Las marcas premium chinas crecen al aprovechar el consumo experiencial y el guochao, con Laopu Gold y Bosideng como casos que contrastan con la debilidad de casas occidentales de lujo.",
+        "body": "Las marcas premium chinas están acelerando en el mercado del lujo al dirigirse al consumo experiencial y a la compra patriótica conocida como guochao. Según Hankyung, Bernard Arnault, presidente de LVMH, visitó en China el pasado septiembre las marcas locales Songmont y Laopu Gold, en lugar de centrarse en tiendas de Louis Vuitton y Dior. Laopu Gold elevó sus ingresos del año pasado un 221%, hasta 27.300 millones de yuanes, unos 5,9 billones de wones, y superó las ventas de Hermès en China. En contraste, los ingresos globales de Kering cayeron un 13% y el beneficio operativo de LVMH bajó un 9%. Marcas como Bosideng crecieron en China y luego entraron en Europa. Bain & Company señaló que las marcas chinas construyen imagen premium con precios más bajos, fabricación refinada y marketing localizado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Marcas premium chinesas avançam com consumo de experiência e pressionam luxo global",
+        "excerpt": "Marcas premium chinesas crescem ao explorar consumo de experiência e guochao, com Laopu Gold e Bosideng contrastando com a fraqueza de grupos tradicionais de luxo ocidentais.",
+        "body": "As marcas premium chinesas estão ganhando ritmo no mercado de luxo ao mirar o consumo de experiência e a compra patriótica conhecida como guochao. Segundo o Hankyung, Bernard Arnault, presidente da LVMH, visitou na China, em setembro passado, as marcas locais Songmont e Laopu Gold, em vez de se concentrar em lojas da Louis Vuitton e da Dior. A receita da Laopu Gold no ano passado subiu 221%, para 27,3 bilhões de yuans, cerca de 5,9 trilhões de won, superando as vendas da Hermès na China. Em contraste, a receita global da Kering caiu 13% e o lucro operacional da LVMH recuou 9%. Marcas como a Bosideng cresceram na China e entraram na Europa. A Bain & Company avaliou que marcas chinesas constroem imagem premium com preços mais baixos, fabricação refinada e marketing localizado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Chinesische Premiummarken wachsen mit Erlebniskonsum und fordern Luxuskonzerne heraus",
+        "excerpt": "Chinesische Premiummarken profitieren von Erlebniskonsum und Guochao-Käufen; Laopu Gold und Bosideng zeigen Wachstum, während westliche Luxuskonzerne schwächere Zahlen melden.",
+        "body": "Chinesische Premiummarken wachsen im Luxusmarkt schnell, indem sie Erlebniskonsum und den patriotischen Konsumtrend Guochao ansprechen. Laut Hankyung besuchte LVMH-Chef Bernard Arnault bei seiner China-Reise im vergangenen September die chinesischen Marken Songmont und Laopu Gold, statt sich auf Louis Vuitton und Dior zu konzentrieren. Der Umsatz von Laopu Gold stieg im vergangenen Jahr um 221% auf 27,3 Milliarden Yuan, rund 5,9 Billionen Won, und übertraf damit Hermès in China. Zugleich sank der weltweite Umsatz von Kering um 13%, während der operative Gewinn von LVMH um 9% zurückging. Marken wie Bosideng expandierten nach starkem Wachstum in China nach Europa. Bain & Company sieht chinesische Luxusmarken durch niedrigere Preise, präzise Fertigung und lokales Marketing im Premiumimage gestärkt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les marques premium chinoises accélèrent avec la consommation d’expérience",
+        "excerpt": "Les marques premium chinoises progressent grâce à la consommation d’expérience et au guochao, Laopu Gold et Bosideng contrastant avec le repli de maisons occidentales du luxe.",
+        "body": "Les marques premium chinoises accélèrent sur le marché du luxe en ciblant la consommation d’expérience et le courant d’achat patriotique appelé guochao. Selon Hankyung, Bernard Arnault, président de LVMH, a visité en Chine en septembre dernier les marques locales Songmont et Laopu Gold, plutôt que de se concentrer sur Louis Vuitton et Dior. Le chiffre d’affaires annuel de Laopu Gold a bondi de 221% à 27,3 milliards de yuans, soit environ 5.900 milliards de wons, dépassant les ventes d’Hermès en Chine. À l’inverse, les revenus mondiaux de Kering ont reculé de 13% et le résultat opérationnel de LVMH a baissé de 9%. Des marques comme Bosideng ont grandi en Chine avant d’entrer en Europe. Bain & Company estime que les marques chinoises bâtissent une image haut de gamme avec des prix plus bas, une fabrication fine et un marketing localisé. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "العلامات الصينية الفاخرة تنمو مع استهلاك التجربة وتضغط على قادة الرفاهية",
+        "excerpt": "تنمو العلامات الصينية الفاخرة عبر استهداف استهلاك التجربة وموجة الشراء الوطني، فيما تبرز لاوبو غولد وبوسيدنغ مقابل تراجع بعض دور الرفاهية الغربية.",
+        "body": "تتسارع العلامات الصينية الفاخرة في سوق الرفاهية عبر استهداف استهلاك التجربة واتجاه الشراء الوطني المعروف باسم غووتشاو. وبحسب هانكيونغ، زار برنار أرنو رئيس LVMH خلال رحلته إلى الصين في سبتمبر الماضي علامتي Songmont وLaopu Gold الصينيتين، بدلا من التركيز على متاجر لويس فويتون وديور. وارتفعت إيرادات Laopu Gold في العام الماضي 221% إلى 27.3 مليار يوان، أي نحو 5.9 تريليون وون، متجاوزة مبيعات هيرميس في الصين. في المقابل، انخفضت إيرادات كيرينغ العالمية 13%، وتراجع الربح التشغيلي لـ LVMH بنسبة 9%. كما توسعت علامات مثل Bosideng من النمو داخل الصين إلى أوروبا. وترى Bain & Company أن العلامات الصينية تبني صورة فاخرة عبر أسعار أدنى، وتصنيع دقيق، وتسويق محلي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "अनुभव-खपत के सहारे चीनी प्रीमियम ब्रांड लक्जरी बाजार को चुनौती दे रहे हैं",
+        "excerpt": "चीनी प्रीमियम ब्रांड अनुभव-खपत और गुओचाओ देशभक्ति खरीदारी के सहारे तेजी से बढ़ रहे हैं, जबकि Laopu Gold और Bosideng पश्चिमी लक्जरी कंपनियों पर दबाव दिखाते हैं।",
+        "body": "चीनी प्रीमियम ब्रांड अनुभव-खपत और गुओचाओ कहे जाने वाले देशभक्ति उपभोग रुझान को साधकर लक्जरी बाजार में तेजी से बढ़ रहे हैं। Hankyung के अनुसार, LVMH के चेयरमैन बर्नार्ड अर्नॉल्ट ने पिछले सितंबर चीन यात्रा के दौरान लुई वुइटन और डियोर दुकानों के बजाय चीनी ब्रांड Songmont और Laopu Gold का दौरा किया। Laopu Gold का पिछले साल राजस्व 221% बढ़कर 27.3 अरब युआन, यानी लगभग 5.9 ट्रिलियन वोन, हो गया और उसने चीन में Hermès की बिक्री को पीछे छोड़ दिया। इसके विपरीत Kering की वैश्विक बिक्री 13% घटी और LVMH का परिचालन लाभ 9% कम हुआ। Bosideng जैसे ब्रांड चीन में बढ़ने के बाद यूरोप में भी पहुँचे। Bain & Company के अनुसार चीनी लक्जरी ब्रांड कम कीमत, सटीक निर्माण और स्थानीयकृत मार्केटिंग से प्रीमियम छवि बना रहे हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Merek premium China melaju lewat konsumsi pengalaman dan mengguncang pasar mewah",
+        "excerpt": "Merek premium China tumbuh cepat dengan memanfaatkan konsumsi pengalaman dan tren guochao, sementara Laopu Gold dan Bosideng kontras dengan pelemahan merek mewah Barat.",
+        "body": "Merek premium China melaju di pasar barang mewah dengan membidik konsumsi pengalaman dan tren belanja patriotik yang dikenal sebagai guochao. Menurut Hankyung, Chairman LVMH Bernard Arnault saat berkunjung ke China pada September lalu mendatangi merek lokal Songmont dan Laopu Gold, bukan berfokus pada gerai Louis Vuitton dan Dior. Pendapatan Laopu Gold tahun lalu naik 221% menjadi 27,3 miliar yuan, sekitar 5,9 triliun won, melampaui penjualan Hermès di China. Sebaliknya, pendapatan global Kering turun 13% dan laba operasi LVMH turun 9%. Merek seperti Bosideng tumbuh di China lalu masuk ke pasar Eropa. Bain & Company menilai merek mewah China membangun citra premium lewat harga lebih rendah, manufaktur presisi, dan pemasaran lokal. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "c6577a33786d",
     "slug": "품질-논란에-무너졌다c커머스-5개월째-역성장-483132",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Jang Dong-hyuk kembali disorot jelang pilkada 3 Juni berkat Yeongnam",
         "excerpt": "Ketua Partai Kekuatan Rakyat Jang Dong-hyuk menunjukkan tanda pemulihan pada 10 Mei, sekitar 20 hari sebelum pilkada 3 Juni, di tengah konsolidasi konservatif di Yeongnam.",
         "body": "Ketua Partai Kekuatan Rakyat Jang Dong-hyuk kembali menjadi sorotan pada 10 Mei, sekitar 20 hari menjelang pemilihan daerah 3 Juni. Ia sebelumnya disebut sebagai sosok yang dihindari dalam pilkada setelah berulang kali terseret kontroversi “Yoon again” dan mendapat reaksi balik atas kunjungannya ke Amerika Serikat, bahkan menghadapi tuntutan agar menyelesaikan persoalan itu sendiri. Namun, konsolidasi konservatif di wilayah Yeongnam kini muncul sebagai faktor yang dapat memulihkan pijakan politiknya. Arus ini dapat memengaruhi mobilisasi pendukung konservatif dan strategi pemilu partai. Meski begitu, kontroversi belum sepenuhnya mereda, sehingga peran dan penilaian terhadap Jang diperkirakan tetap diuji selama kampanye. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ff50d27cb0da",
-    "slug": "28억-찍던-준강남두-달-내내-떨어지다-분위기-반전-429177",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T09:46:47.238Z",
-    "updatedAt": "2026-05-10T09:46:47.238Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042775",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042775",
-    "titleFingerprint": "e1c36f1b3604abdd09d67543fc159daa2d916c52",
-    "dedupKeys": [
-      "ff50d27cb0da92132da288098f765dd3f79b06f6",
-      "e1c36f1b3604abdd09d67543fc159daa2d916c52",
-      "eedb09d2c774c87ed3eab1bbaf163f22f0614412"
-    ],
-    "imageUrl": "/images/articles/ff50d27cb0da.jpg",
-    "i18n": {
-      "ko": {
-        "title": "과천 집값 11주 만에 보합 전환, ‘준강남’ 매물 감소가 분위기 바꿨다",
-        "excerpt": "경기도 과천시 집값 변동률이 2월 마지막 주 이후 이어진 하락세를 멈추고 11주 만에 보합세로 전환했다. 다주택자 양도세 중과를 앞두고 매물이 줄어든 영향이다.",
-        "body": "경기도 과천시 주택시장이 2월 마지막 주부터 이어진 하락 흐름을 11주 만에 멈추고 보합세에 들어섰다. ‘준강남’으로 불리며 고가 거래가 주목받던 과천은 최근 두 달가량 집값 변동률이 하락세를 보였지만, 매매 물건이 줄면서 분위기가 바뀌었다. 배경에는 다주택자에 대한 양도세 중과 시행을 앞두고 시장에 나온 매물이 크게 감소한 점이 있다. 매물이 줄자 가격 하방 압력이 완화되며 변동률이 보합으로 돌아섰다. 향후 흐름은 매물 감소세가 이어질지와 세제 시행 전후 거래 움직임에 달려 있다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Gwacheon Home Prices Turn Flat After 11 Weeks as Listings Shrink in ‘Semi-Gangnam’",
-        "excerpt": "Gwacheon in Gyeonggi Province stopped an 11-week decline in home price changes after late February, as listings fell sharply ahead of heavier capital gains taxes on multi-home owners.",
-        "body": "Gwacheon, Gyeonggi Province, has seen its housing price change rate turn flat after 11 weeks of declines that began in the final week of February. The city, often called “semi-Gangnam” because of its high-priced housing market, had been weakening for about two months, but the mood shifted as homes available for sale decreased. The key factor was a sharp drop in listings ahead of the implementation of heavier capital gains taxes on multi-home owners. With fewer properties on the market, downward pressure on prices eased and the rate moved to flat. The next trend depends on whether the listing shortage continues and how transactions move around the tax change. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "果川の住宅価格が11週ぶり横ばいへ、「準江南」で売り物件減少が転機に",
-        "excerpt": "京畿道果川市の住宅価格変動率は2月最終週以降の下落を止め、11週ぶりに横ばいへ転じた。多住宅所有者への譲渡税重課を前に売り物件が減ったためだ。",
-        "body": "京畿道果川市の住宅市場は、2月最終週から続いていた下落基調を11週ぶりに止め、横ばいに入った。「準江南」と呼ばれ高額取引で注目されてきた果川は、約2カ月にわたり住宅価格変動率が下落していたが、売買物件が減ったことで雰囲気が変わった。背景には、多住宅所有者に対する譲渡税重課の施行を前に、市場に出る物件が大きく減少したことがある。物件数が減ったことで価格の下押し圧力が和らぎ、変動率は横ばいに戻った。今後は物件減少が続くか、税制施行前後の取引動向が焦点となる。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "果川房价11周后转为持平，“准江南”挂牌减少改变市场气氛",
-        "excerpt": "京畿道果川市房价变动率自2月最后一周以来持续下跌，11周后转为持平。多套房持有者资本利得税加重实施前，挂牌房源大幅减少。",
-        "body": "京畿道果川市住房市场在2月最后一周以来连续下行后，时隔11周转为持平。果川因高价交易受到关注，被称为“准江南”，过去约两个月房价变动率一直走低，但随着可售房源减少，市场气氛出现变化。其背景是，在针对多套房持有者的资本利得税加重措施实施前，市场挂牌房源明显减少。房源减少使价格下行压力缓和，房价变动率回到持平状态。后续走势将取决于挂牌减少是否持续，以及税制实施前后的交易动向。来源: mk.co.kr。"
-      },
-      "es": {
-        "title": "La vivienda en Gwacheon se estabiliza tras 11 semanas por menos oferta en el ‘semi-Gangnam’",
-        "excerpt": "La variación de precios de la vivienda en Gwacheon, Gyeonggi, dejó de caer tras 11 semanas desde finales de febrero, por la fuerte reducción de inmuebles en venta antes de un recargo fiscal.",
-        "body": "El mercado residencial de Gwacheon, en la provincia de Gyeonggi, detuvo tras 11 semanas la caída iniciada en la última semana de febrero y pasó a una variación plana. La ciudad, conocida como “semi-Gangnam” por sus operaciones de alto precio, había mostrado descensos durante unos dos meses, pero el ambiente cambió al reducirse la oferta de viviendas en venta. El contexto es la fuerte caída de propiedades disponibles antes de la aplicación de un recargo en el impuesto a las ganancias de capital para propietarios de varias viviendas. Con menos inmuebles en el mercado, se alivió la presión bajista sobre los precios y la variación quedó estable. La evolución dependerá de si continúa la menor oferta y de las operaciones antes y después del cambio fiscal. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Preços de imóveis em Gwacheon ficam estáveis após 11 semanas com queda de ofertas",
-        "excerpt": "A variação dos preços residenciais em Gwacheon, Gyeonggi, parou de cair após 11 semanas desde o fim de fevereiro, com forte redução de imóveis à venda antes de imposto maior.",
-        "body": "O mercado imobiliário residencial de Gwacheon, na província de Gyeonggi, interrompeu após 11 semanas a queda iniciada na última semana de fevereiro e entrou em estabilidade. A cidade, chamada de “semi-Gangnam” por seus negócios de alto valor, vinha registrando recuo na variação de preços por cerca de dois meses, mas o clima mudou com a redução dos imóveis à venda. O pano de fundo é a forte queda de ofertas antes da aplicação de imposto mais pesado sobre ganhos de capital para proprietários de múltiplas casas. Com menos unidades no mercado, a pressão de baixa sobre os preços diminuiu e a variação ficou estável. O rumo dependerá de a escassez de ofertas continuar e do movimento das transações antes e depois da mudança tributária. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Gwacheon-Hauspreise nach 11 Wochen stabil, weniger Angebote drehen Stimmung",
-        "excerpt": "In Gwacheon in der Provinz Gyeonggi endete der seit der letzten Februarwoche laufende Rückgang der Preisveränderung nach 11 Wochen. Grund ist ein starker Rückgang der Verkaufsangebote.",
-        "body": "Der Wohnungsmarkt in Gwacheon, Provinz Gyeonggi, hat den seit der letzten Februarwoche anhaltenden Rückgang nach 11 Wochen gestoppt und ist in eine stabile Phase übergegangen. Die Stadt, wegen ihrer hohen Immobilienpreise oft als „Semi-Gangnam“ bezeichnet, verzeichnete rund zwei Monate lang fallende Preisveränderungsraten, doch die Stimmung drehte sich, als weniger Objekte zum Verkauf standen. Hintergrund ist ein deutlicher Rückgang der Angebote vor der Einführung einer höheren Kapitalertragsteuer für Eigentümer mehrerer Wohnungen. Mit weniger Angebot ließ der Abwärtsdruck auf die Preise nach, und die Veränderungsrate wurde unverändert. Entscheidend bleibt, ob der Angebotsrückgang anhält und wie sich Transaktionen rund um die Steueränderung entwickeln. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Gwacheon se stabilise après 11 semaines, la baisse des biens à vendre change le ton",
-        "excerpt": "À Gwacheon, dans le Gyeonggi, la variation des prix immobiliers a cessé de baisser après 11 semaines depuis fin février, sous l’effet d’une forte réduction des biens en vente.",
-        "body": "Le marché résidentiel de Gwacheon, dans la province de Gyeonggi, a mis fin après 11 semaines à la baisse commencée lors de la dernière semaine de février et est passé à une situation stable. La ville, souvent qualifiée de “semi-Gangnam” en raison de ses transactions élevées, affichait depuis environ deux mois un recul de la variation des prix, mais l’ambiance a changé avec la diminution des biens proposés à la vente. Le facteur principal est la forte baisse des offres avant l’application d’une taxation plus lourde des plus-values pour les propriétaires de plusieurs logements. Avec moins de biens sur le marché, la pression baissière sur les prix s’est atténuée et la variation est devenue stable. La suite dépendra du maintien de cette baisse de l’offre et des transactions autour du changement fiscal. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "أسعار مساكن غواتشون تستقر بعد 11 أسبوعا مع تراجع المعروض في «شبه غانغنام»",
-        "excerpt": "توقف معدل تغير أسعار المساكن في غواتشون بمقاطعة غيونغي عن الهبوط بعد 11 أسبوعا منذ الأسبوع الأخير من فبراير، مع انخفاض حاد في المعروض قبل تشديد ضريبة أرباح رأس المال.",
-        "body": "دخل سوق المساكن في غواتشون بمقاطعة غيونغي مرحلة استقرار بعد أن أوقف تراجعا استمر 11 أسبوعا منذ الأسبوع الأخير من فبراير. وكانت المدينة، التي يشار إليها باسم «شبه غانغنام» بسبب صفقاتها مرتفعة السعر، قد سجلت انخفاضا في معدل تغير أسعار المنازل لنحو شهرين، لكن المزاج تغير مع تقلص المعروض للبيع. ويعود ذلك إلى انخفاض كبير في العقارات المطروحة قبل تطبيق ضريبة أرباح رأسمالية مشددة على مالكي المنازل المتعددة. ومع قلة المعروض، خف الضغط النزولي على الأسعار وتحول معدل التغير إلى الاستقرار. وسيعتمد المسار المقبل على استمرار نقص المعروض وحركة الصفقات قبل وبعد تنفيذ الضريبة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "ग्वाचेओन मकान कीमतें 11 हफ्तों बाद स्थिर, ‘सेमी-गंगनम’ में बिक्री आपूर्ति घटी",
-        "excerpt": "ग्योंगगी प्रांत के ग्वाचेओन में मकान कीमत बदलाव दर फरवरी के अंतिम सप्ताह से चली गिरावट के बाद 11 हफ्तों में स्थिर हुई। बहु-घर मालिकों पर भारी पूंजीगत लाभ कर से पहले बिक्री आपूर्ति घटी।",
-        "body": "ग्योंगगी प्रांत के ग्वाचेओन आवास बाजार ने फरवरी के अंतिम सप्ताह से जारी गिरावट को 11 हफ्तों बाद रोका और कीमत बदलाव दर स्थिर हो गई। ऊंचे मूल्य के सौदों के कारण “सेमी-गंगनम” कहे जाने वाले ग्वाचेओन में करीब दो महीनों तक मकान कीमत बदलाव दर गिरती रही, लेकिन बिक्री के लिए उपलब्ध घर घटने से माहौल बदला। इसकी पृष्ठभूमि में बहु-घर मालिकों पर पूंजीगत लाभ कर की भारी दर लागू होने से पहले बाजार में बिक्री संपत्तियों की तेज कमी है। आपूर्ति घटने से कीमतों पर नीचे की ओर दबाव कम हुआ और बदलाव दर स्थिर हुई। आगे की दिशा इस पर निर्भर करेगी कि बिक्री आपूर्ति की कमी जारी रहती है या नहीं और कर लागू होने से पहले व बाद लेनदेन कैसे चलते हैं। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Harga Rumah Gwacheon Stabil Setelah 11 Pekan, Pasokan ‘Semi-Gangnam’ Menyusut",
-        "excerpt": "Tingkat perubahan harga rumah di Gwacheon, Gyeonggi, berhenti turun setelah 11 pekan sejak akhir Februari, karena pasokan jual menyusut tajam menjelang pajak lebih berat bagi pemilik banyak rumah.",
-        "body": "Pasar hunian Gwacheon di Provinsi Gyeonggi menghentikan tren penurunan yang berlangsung sejak pekan terakhir Februari dan memasuki fase stabil setelah 11 pekan. Gwacheon, yang disebut “semi-Gangnam” karena transaksi bernilai tinggi, mencatat pelemahan tingkat perubahan harga rumah selama sekitar dua bulan, tetapi suasana berubah ketika unit yang dijual berkurang. Latar belakangnya adalah penurunan tajam pasokan jual menjelang penerapan pajak keuntungan modal yang lebih berat bagi pemilik beberapa rumah. Dengan lebih sedikit properti di pasar, tekanan turun pada harga mereda dan tingkat perubahan menjadi stabil. Arah berikutnya bergantung pada apakah penurunan pasokan berlanjut serta pergerakan transaksi sebelum dan sesudah kebijakan pajak berlaku. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "f65e2428c7e1",
-    "slug": "올해-안-사면-10년-뒤-또-후회한다부동산-초고수의-집값-상승론-655949",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T09:45:41.995Z",
-    "updatedAt": "2026-05-10T09:45:41.995Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042777",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042777",
-    "titleFingerprint": "01fc5828d7b7457e585182a0b2737056a2d98179",
-    "dedupKeys": [
-      "f65e2428c7e1d10ca3baad187ace75a515c50f0d",
-      "01fc5828d7b7457e585182a0b2737056a2d98179",
-      "f7b4e80bb60189d91f1273e09fc8f8058634c8db"
-    ],
-    "imageUrl": "/images/articles/f65e2428c7e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부동산 가격 전망, 고준석 교수 “올해 안 사면 10년 뒤 후회”",
-        "excerpt": "고준석 연세대 상남경영원 교수가 9일 서울 삼성동 강남코엑스 2026 서울머니쇼에서 올해 부동산 가격 하락 전망에 선을 그으며 집값 상승론을 제시했다.",
-        "body": "고준석 연세대 상남경영원 교수는 9일 서울 삼성동 강남코엑스에서 열린 2026 서울머니쇼 마지막 날 강연에서 부동산 가격 상승론을 밝혔다. 그는 ‘올해 부동산 가격이 떨어질 것 같다’는 시각에 대해 “나가 주시면 됩니다”라고 말하며 강한 반대 입장을 드러냈다. 강연 주제는 ‘부동산 초고수의’ 관점에서 집값 흐름을 짚는 내용이었다. 고 교수는 “올해 안 사면 10년 뒤 또 후회한다”는 취지로 발언하며 매수 시점에 대한 판단을 강조했다. 이번 발언은 부동산 가격 방향을 둘러싼 시장의 관심 속에서 나왔다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Real Estate Outlook: Professor Ko Says Buyers May Regret Waiting",
-        "excerpt": "Yonsei Sangnam Institute professor Ko Joon-seok said at the 2026 Seoul Money Show on May 9 in COEX, Seoul, that he rejects expectations of a real estate price decline this year.",
-        "body": "Ko Joon-seok, a professor at Yonsei University’s Sangnam Institute of Management, presented a bullish view on real estate prices during a lecture on May 9, the final day of the 2026 Seoul Money Show at COEX in Samseong-dong, Seoul. Addressing those who believe property prices will fall this year, he said, “Please leave,” making clear his opposition to that view. The session focused on housing market trends from the perspective of a top real estate expert. Ko also said that those who do not buy within this year may regret it again in 10 years, emphasizing the timing of purchase decisions. The remarks came amid market attention over the direction of property prices. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "不動産価格見通し、コ・ジュンソク教授「今年買わなければ後悔」",
-        "excerpt": "延世大学サンナム経営院のコ・ジュンソク教授は5月9日、ソウルCOEXの2026ソウルマネーショーで、今年の不動産価格下落論に反対する見方を示した。",
-        "body": "延世大学サンナム経営院のコ・ジュンソク教授は5月9日、ソウル・三成洞のCOEXで開かれた2026ソウルマネーショー最終日の講演で、不動産価格の上昇論を示した。彼は「今年、不動産価格が下がると思う」という見方に対し、「出て行ってください」と述べ、強い反対姿勢を明らかにした。講演は「不動産の超上級者」の視点から住宅価格の流れを取り上げる内容だった。コ教授は「今年中に買わなければ10年後にまた後悔する」という趣旨で発言し、購入時期の判断を強調した。今回の発言は、不動産価格の方向を巡る市場の関心が高まる中で出た。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "房地产价格展望：高俊锡称“今年不买，10年后或再后悔”",
-        "excerpt": "延世大学上南经营院教授高俊锡5月9日在首尔COEX举行的2026首尔金钱秀上，反驳今年房地产价格将下跌的看法并提出上涨论。",
-        "body": "延世大学上南经营院教授高俊锡5月9日在首尔三成洞COEX举行的2026首尔金钱秀最后一天演讲中，提出了房地产价格上涨论。对于“今年房地产价格可能会下跌”的观点，他表示“请出去”，明确表达了强烈反对。该场演讲从“房地产高手”的视角讨论房价走势。高教授还以“今年不买，10年后会再次后悔”的意思发言，强调购房时点的判断。此番言论出现在市场高度关注房地产价格方向之际。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Precios inmobiliarios: Ko Joon-seok advierte sobre esperar para comprar",
-        "excerpt": "Ko Joon-seok, profesor del Instituto Sangnam de Yonsei, dijo el 9 de mayo en COEX durante el Seoul Money Show 2026 que rechaza la idea de una caída inmobiliaria este año.",
-        "body": "Ko Joon-seok, profesor del Instituto Sangnam de Gestión de la Universidad Yonsei, presentó una visión alcista sobre los precios inmobiliarios en una conferencia el 9 de mayo, último día del Seoul Money Show 2026 celebrado en COEX, Samseong-dong, Seúl. Al referirse a quienes creen que los precios de la vivienda caerán este año, dijo: “Pueden salir”, dejando clara su oposición a esa postura. La sesión abordó la evolución de los precios desde la perspectiva de un experto avanzado en bienes raíces. Ko afirmó también que quien no compre este año podría arrepentirse de nuevo dentro de 10 años, subrayando la importancia del momento de compra. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Preços de imóveis: Ko Joon-seok diz que esperar pode gerar arrependimento",
-        "excerpt": "Ko Joon-seok, professor do Instituto Sangnam da Yonsei, afirmou em 9 de maio no COEX, durante o Seoul Money Show 2026, que discorda da expectativa de queda dos imóveis neste ano.",
-        "body": "Ko Joon-seok, professor do Instituto Sangnam de Gestão da Universidade Yonsei, apresentou uma visão de alta para os preços dos imóveis em uma palestra em 9 de maio, último dia do Seoul Money Show 2026, realizado no COEX, em Samseong-dong, Seul. Ao comentar a opinião de que os preços imobiliários podem cair neste ano, ele disse: “Podem sair”, deixando clara sua forte oposição. A palestra tratou do rumo dos preços das casas sob a ótica de um especialista avançado em imóveis. Ko também afirmou, no sentido de que quem não comprar ainda este ano poderá se arrepender novamente em 10 anos, destacando a importância do momento de compra. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Immobilienpreise: Professor Ko warnt vor Reue bei abwartenden Käufern",
-        "excerpt": "Ko Joon-seok von der Yonsei Sangnam Management School sagte am 9. Mai auf der Seoul Money Show 2026 im COEX in Seoul, dass er fallende Immobilienpreise in diesem Jahr ablehnt.",
-        "body": "Ko Joon-seok, Professor an der Sangnam Management School der Yonsei University, vertrat am 9. Mai in einem Vortrag am letzten Tag der Seoul Money Show 2026 im COEX in Samseong-dong, Seoul, eine optimistische Sicht auf Immobilienpreise. Zur Einschätzung, dass die Immobilienpreise in diesem Jahr fallen könnten, sagte er: “Bitte gehen Sie hinaus”, und machte damit seine klare Ablehnung deutlich. Der Vortrag behandelte die Entwicklung der Hauspreise aus Sicht eines erfahrenen Immobilienexperten. Ko äußerte sinngemäß, wer dieses Jahr nicht kaufe, könne es in zehn Jahren erneut bereuen, und betonte damit die Bedeutung des Kaufzeitpunkts. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Prix immobiliers : Ko Joon-seok estime qu’attendre peut coûter cher",
-        "excerpt": "Ko Joon-seok, professeur à l’Institut Sangnam de Yonsei, a déclaré le 9 mai au COEX lors du Seoul Money Show 2026 qu’il rejetait l’idée d’une baisse immobilière cette année.",
-        "body": "Ko Joon-seok, professeur à l’Institut Sangnam de gestion de l’Université Yonsei, a défendu une thèse de hausse des prix immobiliers lors d’une conférence tenue le 9 mai, dernier jour du Seoul Money Show 2026 au COEX, à Samseong-dong, Séoul. À propos de ceux qui pensent que les prix de l’immobilier vont baisser cette année, il a déclaré : “Vous pouvez sortir”, exprimant clairement son désaccord. La conférence examinait l’évolution des prix des logements du point de vue d’un expert confirmé de l’immobilier. Ko a aussi indiqué que ne pas acheter cette année pourrait conduire à de nouveaux regrets dans 10 ans, en soulignant l’importance du moment d’achat. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "توقعات العقار: كو جون-سوك يحذر من الندم عند تأجيل الشراء هذا العام",
-        "excerpt": "قال كو جون-سوك، أستاذ معهد سانغنام بجامعة يونسي، في 9 مايو خلال معرض سيول للمال 2026 في COEX إنه يرفض توقعات تراجع أسعار العقارات هذا العام.",
-        "body": "عرض كو جون-سوك، أستاذ معهد سانغنام للإدارة في جامعة يونسي، رؤية صعودية لأسعار العقارات خلال محاضرة في 9 مايو، في اليوم الأخير من معرض سيول للمال 2026 الذي أقيم في COEX بمنطقة سامسونغ-دونغ في سيول. وبشأن من يعتقدون أن أسعار العقارات ستنخفض هذا العام، قال: “يمكنكم الخروج”، موضحا رفضه القوي لهذا الرأي. تناولت المحاضرة اتجاه أسعار المنازل من منظور خبير بارز في العقارات. كما قال كو إن من لا يشتري خلال هذا العام قد يندم مرة أخرى بعد 10 سنوات، مشددا على أهمية توقيت قرار الشراء. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "रियल एस्टेट कीमतों पर को जून-सोक बोले, इंतजार से हो सकता है पछतावा",
-        "excerpt": "योनसेई विश्वविद्यालय के सांगनाम प्रबंधन संस्थान के प्रोफेसर को जून-सोक ने 9 मई को COEX में 2026 सियोल मनी शो में इस साल संपत्ति कीमतों में गिरावट की धारणा को खारिज किया।",
-        "body": "योनसेई विश्वविद्यालय के सांगनाम प्रबंधन संस्थान के प्रोफेसर को जून-सोक ने 9 मई को सियोल के सैमसोंग-डोंग स्थित COEX में आयोजित 2026 सियोल मनी शो के अंतिम दिन व्याख्यान में रियल एस्टेट कीमतों में वृद्धि का दृष्टिकोण रखा। उन्होंने इस राय पर कि इस साल संपत्ति कीमतें गिर सकती हैं, कहा, “कृपया बाहर चले जाएं,” जिससे उनका स्पष्ट विरोध सामने आया। व्याख्यान में एक अनुभवी रियल एस्टेट विशेषज्ञ के नजरिए से घरों की कीमतों के रुझान पर चर्चा हुई। को ने यह भी कहा कि इस साल न खरीदने वाले लोग 10 साल बाद फिर पछता सकते हैं, और खरीद के समय के निर्णय पर जोर दिया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Prospek Harga Properti: Ko Joon-seok Sebut Menunda Bisa Disesali",
-        "excerpt": "Ko Joon-seok, profesor Institut Manajemen Sangnam Universitas Yonsei, pada 9 Mei di COEX Seoul Money Show 2026 menolak pandangan bahwa harga properti akan turun tahun ini.",
-        "body": "Ko Joon-seok, profesor di Institut Manajemen Sangnam Universitas Yonsei, menyampaikan pandangan bahwa harga properti akan naik dalam kuliah pada 9 Mei, hari terakhir Seoul Money Show 2026 di COEX, Samseong-dong, Seoul. Menanggapi pandangan bahwa harga properti tahun ini akan turun, ia berkata, “Silakan keluar,” yang menunjukkan penolakannya secara tegas. Sesi tersebut membahas arah harga rumah dari sudut pandang pakar properti tingkat tinggi. Ko juga menyatakan bahwa orang yang tidak membeli tahun ini dapat kembali menyesal 10 tahun kemudian, sambil menekankan pentingnya waktu pembelian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4cf5d540f827",
-    "slug": "영구복당-불허-민주당-김관영에-경고조국엔-대승정치-당부-535613",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T09:44:42.539Z",
-    "updatedAt": "2026-05-10T09:44:42.539Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042780",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042780",
-    "titleFingerprint": "87295349d48c8ef0d77c574da098fb83e6af8c3c",
-    "dedupKeys": [
-      "4cf5d540f82742f31619277955d0202977a798f4",
-      "87295349d48c8ef0d77c574da098fb83e6af8c3c",
-      "b164a0888e38739a42c316355a2595f0715fa942"
-    ],
-    "imageUrl": "/images/articles/4cf5d540f827.png",
-    "i18n": {
-      "ko": {
-        "title": "민주당, 김관영 ‘영구복당 불허’ 못 박아…조국엔 대승정치 당부하며 선거 변수 관리",
-        "excerpt": "더불어민주당은 5월 10일 ‘현금 살포’ 의혹으로 제명된 뒤 무소속 출마를 선언한 김관영 전북도지사에게 영구복당 불허 방침을 경고하고, 조국 전 대표 측에는 대승정치를 당부했다.",
-        "body": "더불어민주당은 5월 10일 ‘현금 살포’ 의혹으로 제명된 뒤 무소속 출마를 선언한 김관영 전북도지사를 향해 “영구 복당 불허 대상”이라고 경고했다. 민주당은 김 지사의 복귀 가능성을 원천 차단하는 메시지를 내며 6·3 지방선거를 앞둔 당내 질서 관리에 나섰다. 동시에 조국 전 대표 측에는 “대승정치”를 당부했다. 이번 입장은 무소속 출마가 선거 구도에 미칠 영향을 차단하고, 야권 내 갈등 확산을 억제하려는 정치적 메시지로 읽힌다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Democratic Party Bars Kim Kwan-young Return, Urges Cho Kuk to Practice ‘Big-Tent Politics’",
-        "excerpt": "On May 10, South Korea’s Democratic Party warned Jeonbuk Governor Kim Kwan-young, expelled over alleged cash handouts and running as an independent, that he would be permanently barred from rejoining.",
-        "body": "South Korea’s Democratic Party said on May 10 that Jeonbuk Governor Kim Kwan-young, who was expelled over allegations of cash handouts and then declared an independent run, would be subject to a permanent ban on rejoining the party. The party’s message effectively ruled out any path for Kim’s return as it moved to manage internal discipline ahead of the June 3 local elections. At the same time, it urged former leader Cho Kuk’s side to pursue “big-tent politics.” The stance signals an effort to limit the impact of Kim’s independent bid and contain broader opposition-side tensions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "民主党、金寛永氏の永久復党不許可を明言…曺国氏側には大勝政治を要請",
-        "excerpt": "韓国の共に民主党は5月10日、現金散布疑惑で除名後に無所属出馬を表明した金寛永・全北道知事に永久復党不許可を警告し、曺国氏側には大勝政治を求めた。",
-        "body": "韓国の共に民主党は5月10日、現金散布疑惑で除名された後、無所属での出馬を表明した金寛永・全北道知事について、「永久復党不許可の対象」だと警告した。党は金氏の復帰可能性を事実上遮断するメッセージを出し、6月3日の地方選挙を前に党内秩序の管理に乗り出した。同時に、曺国前代表側には「大勝政治」を求めた。今回の立場は、無所属出馬が選挙構図に与える影響を抑え、野党陣営内の対立拡大を防ぐ政治的メッセージと受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "民主党警告金宽永“永久不得复党” 同时敦促曹国展现大局政治",
-        "excerpt": "韩国共同民主党5月10日警告，因“现金散发”疑云被开除后宣布无党籍参选的全北道知事金宽永将被永久禁止复党，并呼吁曹国方面展现大局政治。",
-        "body": "韩国共同民主党5月10日表示，因“现金散发”疑云被开除后宣布以无党籍身份参选的全北道知事金宽永，将被列为“永久不得复党对象”。民主党借此从根本上阻断金宽永重返党内的可能性，并在6月3日地方选举前加强党内秩序管理。与此同时，民主党也呼吁曹国前代表方面展现“大局政治”。这一表态被视为意在限制无党籍参选对选举格局的影响，并抑制在野阵营内部矛盾扩大。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Partido Democrático veta el regreso de Kim Kwan-young y pide a Cho Kuk política de amplitud",
-        "excerpt": "El 10 de mayo, el Partido Democrático de Corea advirtió al gobernador de Jeonbuk, Kim Kwan-young, expulsado por sospechas de reparto de efectivo y ahora candidato independiente, que no podrá volver al partido.",
-        "body": "El Partido Democrático de Corea afirmó el 10 de mayo que el gobernador de Jeonbuk, Kim Kwan-young, expulsado por sospechas de reparto de efectivo y luego declarado candidato independiente, será considerado sujeto a una prohibición permanente de reincorporación. Con ese mensaje, el partido cerró de entrada la posibilidad de su retorno y buscó ordenar su disciplina interna antes de las elecciones locales del 3 de junio. Al mismo tiempo, pidió al sector del exlíder Cho Kuk practicar una “política de gran victoria”. La postura apunta a contener el efecto de la candidatura independiente y evitar una mayor tensión dentro del bloque opositor. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Partido Democrático veta retorno de Kim Kwan-young e pede política ampla a Cho Kuk",
-        "excerpt": "Em 10 de maio, o Partido Democrático da Coreia alertou o governador de Jeonbuk, Kim Kwan-young, expulso por suspeitas de distribuição de dinheiro e agora candidato independente, de que não poderá retornar ao partido.",
-        "body": "O Partido Democrático da Coreia declarou em 10 de maio que o governador de Jeonbuk, Kim Kwan-young, expulso por suspeitas de distribuição de dinheiro e depois anunciado como candidato independente, será alvo de uma proibição permanente de retorno ao partido. A mensagem fechou antecipadamente qualquer possibilidade de reintegração e buscou reforçar a disciplina interna antes das eleições locais de 3 de junho. Ao mesmo tempo, o partido pediu ao lado do ex-líder Cho Kuk que pratique uma “política de grande vitória”. A posição busca limitar o impacto da candidatura independente e conter tensões no campo oposicionista. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Demokratische Partei sperrt Kim Kwan-young dauerhaft aus und mahnt Cho Kuk zu breiter Politik",
-        "excerpt": "Am 10. Mai warnte Südkoreas Demokratische Partei Jeonbuk-Gouverneur Kim Kwan-young, der nach Vorwürfen zu Bargeldverteilung ausgeschlossen wurde und unabhängig antreten will, vor einem dauerhaften Rückkehrverbot.",
-        "body": "Südkoreas Demokratische Partei erklärte am 10. Mai, Jeonbuk-Gouverneur Kim Kwan-young, der nach Vorwürfen der Bargeldverteilung ausgeschlossen wurde und anschließend eine unabhängige Kandidatur ankündigte, falle unter ein dauerhaftes Verbot der Wiederaufnahme. Damit schnitt die Partei jede Rückkehrmöglichkeit ab und versuchte, vor den Kommunalwahlen am 3. Juni die innerparteiliche Ordnung zu sichern. Zugleich appellierte sie an das Lager des früheren Vorsitzenden Cho Kuk, eine Politik des größeren Sieges zu verfolgen. Die Haltung soll den Einfluss von Kims unabhängiger Kandidatur begrenzen und Spannungen im Oppositionslager eindämmen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le Parti démocrate ferme la porte à Kim Kwan-young et appelle Cho Kuk à une politique large",
-        "excerpt": "Le 10 mai, le Parti démocrate sud-coréen a averti le gouverneur du Jeonbuk Kim Kwan-young, exclu après des soupçons de distribution d’argent et candidat indépendant, qu’il ne pourrait pas réintégrer le parti.",
-        "body": "Le Parti démocrate sud-coréen a déclaré le 10 mai que le gouverneur du Jeonbuk, Kim Kwan-young, exclu après des soupçons de distribution d’argent puis engagé dans une candidature indépendante, serait visé par une interdiction permanente de réintégration. Le parti a ainsi fermé toute possibilité de retour et cherché à maintenir la discipline interne avant les élections locales du 3 juin. Dans le même temps, il a demandé au camp de l’ancien dirigeant Cho Kuk de pratiquer une “politique de grande victoire”. Cette position vise à limiter l’effet de la candidature indépendante et à contenir les tensions au sein de l’opposition. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الحزب الديمقراطي يغلق باب عودة كيم كوان يونغ ويدعو تشو كوك إلى سياسة أوسع",
-        "excerpt": "في 10 مايو، حذر الحزب الديمقراطي الكوري حاكم شمال جولا كيم كوان يونغ، المطرود على خلفية شبهات توزيع أموال والمرشح كمستقل، من أنه سيمنع نهائيا من العودة إلى الحزب.",
-        "body": "أعلن الحزب الديمقراطي الكوري في 10 مايو أن حاكم شمال جولا كيم كوان يونغ، الذي طرد على خلفية شبهات تتعلق بتوزيع أموال ثم أعلن ترشحه كمستقل، سيصنف ضمن من يمنعون نهائيا من العودة إلى الحزب. وبذلك أغلق الحزب أي احتمال لعودته، في إطار إدارة الانضباط الداخلي قبل الانتخابات المحلية المقررة في 3 يونيو. وفي الوقت نفسه، دعا الحزب جهة الزعيم السابق تشو كوك إلى تبني “سياسة انتصار واسع”. تعكس هذه الرسالة محاولة للحد من تأثير الترشح المستقل ومنع اتساع الخلافات داخل معسكر المعارضة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "डेमोक्रेटिक पार्टी ने किम क्वान-यंग की वापसी रोकी, चो कुक से व्यापक राजनीति की अपील",
-        "excerpt": "10 मई को दक्षिण कोरिया की डेमोक्रेटिक पार्टी ने नकद वितरण के आरोपों में निष्कासित और निर्दलीय चुनाव लड़ने वाले जियोनबुक गवर्नर किम क्वान-यंग को स्थायी रूप से वापसी न देने की चेतावनी दी।",
-        "body": "दक्षिण कोरिया की डेमोक्रेटिक पार्टी ने 10 मई को कहा कि जियोनबुक के गवर्नर किम क्वान-यंग, जिन्हें ‘नकद वितरण’ के आरोपों के बाद निष्कासित किया गया और जिन्होंने निर्दलीय चुनाव लड़ने की घोषणा की, पार्टी में स्थायी रूप से वापसी न पाने वालों में शामिल होंगे। पार्टी ने इस संदेश के जरिए उनकी वापसी की संभावना खत्म कर दी और 3 जून के स्थानीय चुनावों से पहले आंतरिक अनुशासन संभालने की कोशिश की। साथ ही, उसने पूर्व नेता चो कुक के पक्ष से “बड़ी जीत की राजनीति” अपनाने को कहा। यह रुख निर्दलीय उम्मीदवारी के असर और विपक्षी खेमे में तनाव को सीमित करने का संकेत है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Partai Demokrat Tutup Pintu Kim Kwan-young, Minta Cho Kuk Tempuh Politik Kemenangan Besar",
-        "excerpt": "Pada 10 Mei, Partai Demokrat Korea memperingatkan Gubernur Jeonbuk Kim Kwan-young, yang dipecat terkait dugaan pembagian uang tunai dan maju independen, bahwa ia dilarang permanen kembali ke partai.",
-        "body": "Partai Demokrat Korea pada 10 Mei menyatakan bahwa Gubernur Jeonbuk Kim Kwan-young, yang dipecat terkait dugaan pembagian uang tunai lalu menyatakan maju sebagai calon independen, termasuk pihak yang dilarang permanen kembali ke partai. Dengan pesan itu, partai menutup kemungkinan Kim kembali dan berupaya menjaga disiplin internal menjelang pemilihan lokal 3 Juni. Pada saat yang sama, partai meminta kubu mantan pemimpin Cho Kuk menjalankan “politik kemenangan besar”. Sikap ini dipandang sebagai upaya membatasi dampak pencalonan independen dan menahan meluasnya ketegangan di kubu oposisi. Sumber: mk.co.kr"
       }
     }
   }
