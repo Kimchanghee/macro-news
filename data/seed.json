@@ -1,5 +1,230 @@
 [
   {
+    "id": "5e36fee7ffd3",
+    "slug": "이대로-파업-가면-다-죽어삼성전자-내부서-흘러나오는-우려-이슈-234849",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T16:53:30.192Z",
+    "updatedAt": "2026-05-10T16:53:30.192Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605106723g",
+    "canonicalUrl": "https://www.hankyung.com/article/202605106723g",
+    "titleFingerprint": "7cef3431cab5ba4d7de438705f31927daeca3163",
+    "dedupKeys": [
+      "5e36fee7ffd3d8fdaaf373c31fc13baa26dfa755",
+      "7cef3431cab5ba4d7de438705f31927daeca3163",
+      "6f25716d5625c3d95756236a88d2c9c076f4cf61"
+    ],
+    "imageUrl": "/images/articles/5e36fee7ffd3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 파업 우려 확산…성과급 45조 요구에 내부·협력사 긴장 고조",
+        "excerpt": "삼성전자 노조의 총파업 움직임과 영업이익 15% 성과급 요구를 두고 경영진과 내부, 협력사, 주주 사이에서 생산 차질과 경쟁력 훼손 우려가 커지고 있다.",
+        "body": "삼성전자 노조의 총파업 움직임을 앞두고 회사 내부와 협력사, 주주 사이에서 우려가 커지고 있다. 한국경제에 따르면 노조는 영업이익의 15%, 약 45조원을 성과급 재원으로 요구하고 성과급 상한 폐지를 제시했다. 앞선 교섭에서는 10%를 요구했으나 1분기 실적 발표 이후 요구 수준을 높인 것으로 전해졌다. 경영진은 임직원에게 미래 경쟁력이 손실되지 않도록 각자 역할에 최선을 다해달라고 당부했다. 파업이 현실화하면 반도체 생산 차질, 협력사 부담, 해외 고객사 신뢰 저하가 쟁점이 될 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Samsung Electronics Strike Concerns Grow as 45 Trillion Won Bonus Demand Raises Tension",
+        "excerpt": "Concerns are rising inside Samsung Electronics and among suppliers and shareholders as the union pushes toward a strike while seeking 15% of operating profit for bonuses.",
+        "body": "Concerns are growing inside Samsung Electronics, among suppliers and among shareholders as the company’s union moves toward a general strike. According to Hankyung, the union has demanded 15% of operating profit, about 45 trillion won, as a bonus pool and has proposed removing the bonus cap. It had asked for 10% in earlier talks but reportedly raised the demand after first-quarter results were announced. Management urged employees to do their part so future competitiveness would not be lost. If the strike materializes, possible semiconductor production disruption, pressure on suppliers and weaker trust among overseas customers are expected to become key issues. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "サムスン電子スト懸念拡大、成果給45兆ウォン要求で社内と協力会社に緊張",
+        "excerpt": "サムスン電子労組の総ストの動きと営業利益15%の成果給要求を巡り、社内、協力会社、株主の間で生産支障と競争力低下への懸念が強まっている。",
+        "body": "サムスン電子労組の総ストの動きを前に、社内や協力会社、株主の間で懸念が広がっている。韓国経済によると、労組は営業利益の15%、約45兆ウォンを成果給の原資として求め、成果給上限の撤廃も提示した。以前の交渉では10%を要求していたが、第1四半期決算発表後に要求水準を引き上げたとされる。経営陣は従業員に対し、将来の競争力が損なわれないよう各自の役割に最善を尽くしてほしいと呼びかけた。ストが現実化すれば、半導体生産への支障、協力会社の負担、海外顧客の信頼低下が争点になる見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "三星电子罢工担忧升温，45万亿韩元奖金诉求牵动内部与供应链",
+        "excerpt": "三星电子工会推进总罢工并要求将营业利润15%作为奖金，引发管理层、内部员工、供应商和股东对生产受阻及竞争力受损的担忧。",
+        "body": "随着三星电子工会推进总罢工，公司内部、供应商和股东之间的担忧正在扩大。据韩国经济报道，工会要求将营业利润的15%、约45万亿韩元作为奖金资金，并提出取消奖金上限。此前谈判中工会要求10%，但据称在一季度业绩公布后上调了要求。管理层呼吁员工各尽其责，避免未来竞争力受损。如果罢工成为现实，半导体生产受阻、供应商负担加重以及海外客户信任下降，预计将成为主要争议点。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Crece la inquietud por huelga en Samsung Electronics tras exigir bonos por 45 billones de wones",
+        "excerpt": "La posible huelga del sindicato de Samsung Electronics y su demanda de destinar el 15% del beneficio operativo a bonos elevan la tensión entre dirección, empleados, proveedores y accionistas.",
+        "body": "La inquietud crece dentro de Samsung Electronics, entre sus proveedores y entre los accionistas ante el avance del sindicato hacia una huelga general. Según Hankyung, el sindicato exige destinar el 15% del beneficio operativo, unos 45 billones de wones, a un fondo de bonificaciones y propone eliminar el límite de esos pagos. En negociaciones anteriores pidió el 10%, pero habría elevado la demanda tras la publicación de los resultados del primer trimestre. La dirección pidió a los empleados cumplir sus funciones para que no se pierda competitividad futura. Si la huelga se concreta, la posible interrupción de la producción de semiconductores, la carga para proveedores y la pérdida de confianza de clientes extranjeros serán temas clave. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Temor de greve na Samsung Electronics cresce com pedido de bônus de 45 trilhões de won",
+        "excerpt": "A movimentação do sindicato da Samsung Electronics por uma greve geral e a exigência de 15% do lucro operacional para bônus elevam preocupações internas, de fornecedores e acionistas.",
+        "body": "As preocupações aumentam dentro da Samsung Electronics, entre fornecedores e acionistas, diante da movimentação do sindicato para uma greve geral. Segundo o Hankyung, o sindicato pediu 15% do lucro operacional, cerca de 45 trilhões de won, como fundo de bônus e propôs retirar o teto das bonificações. Em negociações anteriores, havia pedido 10%, mas teria elevado a demanda após a divulgação dos resultados do primeiro trimestre. A administração pediu aos funcionários que cumpram seus papéis para que a competitividade futura não seja perdida. Se a greve se concretizar, possíveis impactos na produção de semicondutores, pressão sobre fornecedores e queda de confiança de clientes estrangeiros devem virar pontos centrais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Sorge vor Samsung-Electronics-Streik wächst nach Bonusforderung über 45 Billionen Won",
+        "excerpt": "Die Streikpläne der Gewerkschaft von Samsung Electronics und ihre Forderung nach 15% des operativen Gewinns für Boni sorgen intern, bei Zulieferern und Aktionären für wachsende Unruhe.",
+        "body": "Vor dem möglichen Generalstreik der Gewerkschaft wachsen bei Samsung Electronics sowie unter Zulieferern und Aktionären die Sorgen. Laut Hankyung fordert die Gewerkschaft 15% des operativen Gewinns, rund 45 Billionen Won, als Bonusfonds und die Abschaffung der Bonusobergrenze. In früheren Verhandlungen hatte sie 10% verlangt, soll die Forderung aber nach Veröffentlichung der Ergebnisse des ersten Quartals erhöht haben. Das Management bat die Beschäftigten, ihre Aufgaben zu erfüllen, damit die künftige Wettbewerbsfähigkeit nicht verloren geht. Wird der Streik Realität, dürften mögliche Störungen der Halbleiterproduktion, Belastungen für Zulieferer und sinkendes Vertrauen ausländischer Kunden zentrale Themen werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Samsung Electronics face à l’inquiétude d’une grève après une demande de bonus de 45 000 milliards de wons",
+        "excerpt": "Le projet de grève générale du syndicat de Samsung Electronics et sa demande de 15% du bénéfice d’exploitation en primes suscitent des craintes chez la direction, les fournisseurs et les actionnaires.",
+        "body": "L’inquiétude monte chez Samsung Electronics, ainsi que parmi les fournisseurs et les actionnaires, alors que le syndicat se dirige vers une grève générale. Selon Hankyung, le syndicat demande que 15% du bénéfice d’exploitation, soit environ 45 000 milliards de wons, soient consacrés aux primes, et propose de supprimer leur plafond. Il réclamait 10% lors de précédentes négociations, mais aurait relevé sa demande après l’annonce des résultats du premier trimestre. La direction a demandé aux salariés de remplir leur rôle afin de ne pas perdre en compétitivité future. Si la grève se concrétise, les risques de perturbation de la production de semi-conducteurs, la pression sur les fournisseurs et la confiance des clients étrangers devraient devenir des enjeux majeurs. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "مخاوف إضراب سامسونغ إلكترونيكس تتصاعد مع طلب مكافآت بنحو 45 تريليون وون",
+        "excerpt": "تحركات نقابة سامسونغ إلكترونيكس نحو إضراب عام ومطالبتها بتخصيص 15% من الأرباح التشغيلية للمكافآت تثير قلق الإدارة والموظفين والموردين والمساهمين.",
+        "body": "تتزايد المخاوف داخل سامسونغ إلكترونيكس وبين الموردين والمساهمين مع تحرك النقابة نحو إضراب عام. ووفقاً لهانكيونغ، طالبت النقابة بتخصيص 15% من الأرباح التشغيلية، أي نحو 45 تريليون وون، لصندوق المكافآت، واقترحت إلغاء سقف المكافآت. وكانت قد طلبت 10% في مفاوضات سابقة، لكنها رفعت المطلب بعد إعلان نتائج الربع الأول، بحسب التقرير. ودعت الإدارة الموظفين إلى أداء أدوارهم حتى لا تتضرر القدرة التنافسية المستقبلية. وإذا تحقق الإضراب، فمن المتوقع أن تصبح احتمالات تعطل إنتاج أشباه الموصلات، والضغط على الموردين، وتراجع ثقة العملاء الأجانب قضايا رئيسية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Samsung Electronics में हड़ताल की चिंता बढ़ी, 45 ट्रिलियन वॉन बोनस मांग से तनाव",
+        "excerpt": "Samsung Electronics यूनियन की आम हड़ताल की तैयारी और परिचालन लाभ के 15% को बोनस में देने की मांग से प्रबंधन, कर्मचारियों, आपूर्तिकर्ताओं और शेयरधारकों में चिंता बढ़ रही है।",
+        "body": "Samsung Electronics यूनियन की आम हड़ताल की तैयारी के बीच कंपनी के भीतर, आपूर्तिकर्ताओं और शेयरधारकों में चिंता बढ़ रही है। Hankyung के अनुसार, यूनियन ने परिचालन लाभ का 15%, यानी करीब 45 ट्रिलियन वॉन, बोनस फंड के रूप में मांगा है और बोनस की ऊपरी सीमा हटाने का प्रस्ताव रखा है। पहले की वार्ता में उसने 10% की मांग की थी, लेकिन पहली तिमाही के नतीजों के बाद मांग बढ़ाई गई बताई गई। प्रबंधन ने कर्मचारियों से कहा कि वे भविष्य की प्रतिस्पर्धात्मकता को नुकसान से बचाने के लिए अपनी भूमिका पूरी करें। यदि हड़ताल वास्तविकता बनती है, तो सेमीकंडक्टर उत्पादन में व्यवधान, आपूर्तिकर्ताओं पर दबाव और विदेशी ग्राहकों के भरोसे में कमी प्रमुख मुद्दे बन सकते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Kekhawatiran Mogok Samsung Electronics Meluas, Tuntutan Bonus 45 Triliun Won Picu Tegang",
+        "excerpt": "Rencana mogok serikat Samsung Electronics dan tuntutan bonus 15% dari laba operasi memicu kekhawatiran manajemen, internal perusahaan, pemasok, dan pemegang saham.",
+        "body": "Kekhawatiran meningkat di internal Samsung Electronics, di kalangan pemasok, dan pemegang saham menjelang langkah serikat menuju mogok umum. Menurut Hankyung, serikat menuntut 15% dari laba operasi, sekitar 45 triliun won, sebagai dana bonus dan mengusulkan penghapusan batas atas bonus. Dalam perundingan sebelumnya serikat meminta 10%, tetapi dilaporkan menaikkan tuntutan setelah hasil kuartal pertama diumumkan. Manajemen meminta karyawan menjalankan peran masing-masing agar daya saing masa depan tidak hilang. Jika mogok terjadi, potensi gangguan produksi semikonduktor, beban bagi pemasok, dan turunnya kepercayaan pelanggan luar negeri diperkirakan menjadi isu utama. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "8c9229820f9e",
+    "slug": "포토-하이드로-플라스크-텀블러-팝업-790099",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T16:52:00.939Z",
+    "updatedAt": "2026-05-10T16:52:00.939Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051067501",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051067501",
+    "titleFingerprint": "ab8da75cb83b7796ccb4415801d43838a335b056",
+    "dedupKeys": [
+      "8c9229820f9eae36e949827b5168a5151c49e515",
+      "ab8da75cb83b7796ccb4415801d43838a335b056",
+      "c3c0ee5bd03bd08861004a8573643c753befa88d"
+    ],
+    "imageUrl": "/images/articles/8c9229820f9e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "하이드로 플라스크 텀블러 팝업, 사진으로 전한 현장 공개",
+        "excerpt": "하이드로 플라스크 텀블러 팝업 현장이 한국경제 사진 기사로 소개됐다. 구체적인 행사 일정과 장소, 운영 목적은 원문에 별도 요약 없이 제목과 출처 중심으로 전해졌다.",
+        "body": "하이드로 플라스크의 텀블러 팝업 현장이 사진 기사 형식으로 소개됐다. 원문 제목은 ‘[포토] ‘하이드로 플라스크’ 텀블러 팝업’이며, 요약 정보는 별도로 제공되지 않았다. 이번 보도는 브랜드명과 제품군인 텀블러, 그리고 팝업 현장이라는 사실을 중심으로 구성됐다. 기사에 행사 개최 시점, 장소, 참여 규모, 판매 품목, 운영 기간 등 추가 수치는 제시되지 않았다. 따라서 독자는 해당 보도를 통해 하이드로 플라스크 텀블러 팝업이 공개됐다는 사실을 확인할 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Hydro Flask Tumbler Pop-Up Featured in Photo Report",
+        "excerpt": "A Hydro Flask tumbler pop-up was introduced in a Korea Economic Daily photo article, with the original item centered on the title and source rather than added details on schedule or venue.",
+        "body": "A Hydro Flask tumbler pop-up was presented in the form of a photo news item. The original Korean headline reads, “[Photo] ‘Hydro Flask’ Tumbler Pop-Up,” and no separate summary was provided. The report focuses on the brand name, the tumbler product category, and the fact that a pop-up scene was shown. The original text did not provide additional figures or details such as date, location, visitor numbers, product lineup, or operating period. Readers can therefore confirm only that a Hydro Flask tumbler pop-up was featured. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ハイドロフラスクのタンブラーポップアップ、写真記事で紹介",
+        "excerpt": "ハイドロフラスクのタンブラーポップアップ現場が韓国経済新聞の写真記事で紹介された。日程や場所、運営目的などの詳細は原文に要約として示されていない。",
+        "body": "ハイドロフラスクのタンブラーポップアップ現場が写真記事の形式で紹介された。原文の見出しは「【フォト】『ハイドロフラスク』タンブラーポップアップ」で、別途の要約情報は提供されていない。記事はブランド名、製品群であるタンブラー、そしてポップアップ現場という事実を中心に構成されている。開催時期、場所、参加規模、販売品目、運営期間などの追加数値や詳細は原文に示されていない。読者は同記事を通じて、ハイドロフラスクのタンブラーポップアップが紹介された事実を確認できる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Hydro Flask随行杯快闪活动以图片新闻形式亮相",
+        "excerpt": "Hydro Flask随行杯快闪活动现场由《韩国经济》图片新闻介绍。原文未另附摘要，活动时间、地点和运营目的等细节未被说明。",
+        "body": "Hydro Flask随行杯快闪活动现场以图片新闻形式被介绍。原文标题为“[图片] ‘Hydro Flask’ 随行杯快闪”，未提供单独摘要信息。报道主要围绕品牌名称、随行杯这一产品类别，以及快闪活动现场这一事实展开。原文没有说明活动举办时间、地点、参与规模、销售品类或运营期间等追加数据和细节。因此，读者可从该报道中确认的事实是，Hydro Flask随行杯快闪活动被公开介绍。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Hydro Flask muestra su pop-up de vasos térmicos en una nota fotográfica",
+        "excerpt": "El pop-up de vasos térmicos de Hydro Flask fue presentado en una nota fotográfica de Korea Economic Daily, sin detalles adicionales en el texto original sobre fecha, lugar u objetivos.",
+        "body": "El pop-up de vasos térmicos de Hydro Flask fue presentado en formato de noticia fotográfica. El título original en coreano es “[Foto] Pop-up de vasos térmicos ‘Hydro Flask’”, y no se incluyó un resumen separado. La información disponible se centra en el nombre de la marca, la categoría de producto, los vasos térmicos, y el hecho de que se mostró un espacio pop-up. El texto original no ofrece datos adicionales como fecha, ubicación, número de visitantes, productos vendidos o periodo de operación. Por ello, solo puede confirmarse que el pop-up de Hydro Flask fue presentado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Hydro Flask destaca pop-up de tumblers em reportagem fotográfica",
+        "excerpt": "O pop-up de tumblers da Hydro Flask foi apresentado em uma reportagem fotográfica do Korea Economic Daily, sem detalhes adicionais no original sobre data, local ou período de operação.",
+        "body": "O pop-up de tumblers da Hydro Flask foi apresentado em formato de notícia fotográfica. O título original em coreano é “[Foto] Pop-up de tumbler ‘Hydro Flask’”, e não há resumo separado. A reportagem se concentra no nome da marca, na categoria de produto, os tumblers, e no fato de que um espaço pop-up foi mostrado. O texto original não informa dados adicionais como data, local, número de participantes, itens vendidos ou período de funcionamento. Assim, o que se pode confirmar é que o pop-up de tumblers da Hydro Flask foi apresentado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hydro Flask Tumbler-Pop-up in Foto-Bericht vorgestellt",
+        "excerpt": "Ein Tumbler-Pop-up von Hydro Flask wurde in einem Foto-Bericht der Korea Economic Daily vorgestellt. Angaben zu Datum, Ort, Zweck oder Laufzeit wurden im Original nicht ergänzt.",
+        "body": "Ein Tumbler-Pop-up von Hydro Flask wurde in Form eines Foto-Berichts vorgestellt. Die ursprüngliche koreanische Überschrift lautet „[Foto] ‘Hydro Flask’ Tumbler-Pop-up“, eine separate Zusammenfassung wurde nicht bereitgestellt. Der Bericht konzentriert sich auf den Markennamen, die Produktkategorie Tumbler und die Tatsache, dass ein Pop-up vor Ort gezeigt wurde. Weitere Angaben wie Zeitpunkt, Standort, Besucherzahl, Verkaufsartikel oder Betriebszeitraum enthält der Originaltext nicht. Leser können daher nur bestätigen, dass ein Hydro Flask Tumbler-Pop-up vorgestellt wurde. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Hydro Flask présente son pop-up de gourdes dans un article photo",
+        "excerpt": "Le pop-up de gourdes Hydro Flask a été présenté dans un article photo du Korea Economic Daily, sans précision supplémentaire dans le texte original sur la date, le lieu ou la durée.",
+        "body": "Le pop-up de gourdes Hydro Flask a été présenté sous la forme d’un article photo. Le titre original coréen est « [Photo] Pop-up de gourdes ‘Hydro Flask’ », et aucun résumé séparé n’a été fourni. Le contenu disponible met l’accent sur le nom de la marque, la catégorie de produit, les gourdes, et le fait qu’un espace pop-up a été montré. Le texte original ne donne pas d’informations supplémentaires telles que la date, le lieu, le nombre de participants, les articles vendus ou la période d’exploitation. On peut donc seulement confirmer que le pop-up Hydro Flask a été présenté. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "فعالية Hydro Flask المنبثقة للأكواب تظهر في تقرير مصور",
+        "excerpt": "تم عرض فعالية Hydro Flask المنبثقة الخاصة بالأكواب في خبر مصور لصحيفة كوريا الاقتصادية، من دون تفاصيل إضافية في النص الأصلي عن الموعد أو المكان أو مدة التشغيل.",
+        "body": "تم تقديم فعالية Hydro Flask المنبثقة الخاصة بالأكواب في صيغة خبر مصور. العنوان الكوري الأصلي هو: “[صورة] فعالية أكواب ‘Hydro Flask’ المنبثقة”، ولم يتم توفير ملخص منفصل. يركز الخبر على اسم العلامة التجارية، وفئة المنتج وهي الأكواب، وحقيقة عرض موقع الفعالية المنبثقة. لا يتضمن النص الأصلي معلومات إضافية مثل تاريخ الحدث، أو مكانه، أو عدد المشاركين، أو المنتجات المعروضة للبيع، أو فترة التشغيل. لذلك يمكن للقراء تأكيد أن فعالية Hydro Flask المنبثقة للأكواب قد عُرضت فقط. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Hydro Flask टम्बलर पॉप-अप फोटो रिपोर्ट में पेश किया गया",
+        "excerpt": "Hydro Flask टम्बलर पॉप-अप को Korea Economic Daily की फोटो रिपोर्ट में प्रस्तुत किया गया। मूल पाठ में तारीख, स्थान, संचालन अवधि या उद्देश्य की अतिरिक्त जानकारी नहीं दी गई।",
+        "body": "Hydro Flask के टम्बलर पॉप-अप को फोटो समाचार के रूप में प्रस्तुत किया गया। मूल कोरियाई शीर्षक है, “[फोटो] ‘Hydro Flask’ टम्बलर पॉप-अप,” और अलग से कोई सारांश उपलब्ध नहीं कराया गया। रिपोर्ट ब्रांड नाम, उत्पाद श्रेणी यानी टम्बलर, और पॉप-अप स्थल दिखाए जाने के तथ्य पर केंद्रित है। मूल पाठ में आयोजन की तारीख, स्थान, प्रतिभागियों की संख्या, बिक्री उत्पादों या संचालन अवधि जैसे अतिरिक्त आंकड़े या विवरण नहीं दिए गए। इसलिए पाठक केवल यह पुष्टि कर सकते हैं कि Hydro Flask टम्बलर पॉप-अप को पेश किया गया। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Pop-up Tumbler Hydro Flask Ditampilkan dalam Berita Foto",
+        "excerpt": "Pop-up tumbler Hydro Flask ditampilkan dalam berita foto Korea Economic Daily. Teks asli tidak memberi rincian tambahan tentang tanggal, lokasi, tujuan, atau periode operasional.",
+        "body": "Pop-up tumbler Hydro Flask ditampilkan dalam format berita foto. Judul asli berbahasa Korea adalah “[Foto] Pop-up Tumbler ‘Hydro Flask’,” dan tidak ada ringkasan terpisah yang disediakan. Laporan ini berfokus pada nama merek, kategori produk berupa tumbler, serta fakta bahwa lokasi pop-up ditampilkan. Teks asli tidak memuat informasi tambahan seperti waktu penyelenggaraan, lokasi, jumlah pengunjung, barang yang dijual, atau periode operasional. Karena itu, pembaca hanya dapat memastikan bahwa pop-up tumbler Hydro Flask telah diperkenalkan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "c14903873a47",
+    "slug": "빨라지는-검찰-엑소더스경력판사-지원-역대-최대-574139",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T16:51:06.878Z",
+    "updatedAt": "2026-05-10T16:51:06.878Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042704",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042704",
+    "titleFingerprint": "0da51a95d2d5971290728f554e2250f3cf9694bb",
+    "dedupKeys": [
+      "c14903873a47358f81d0b9843bd1749b28d1c253",
+      "0da51a95d2d5971290728f554e2250f3cf9694bb",
+      "030c845f8eee5f40da62aaa12380723c0c0b2cda"
+    ],
+    "imageUrl": "/images/articles/c14903873a47.jpg",
+    "i18n": {
+      "ko": {
+        "title": "검찰청 폐지 앞두고 검사 이탈 가속…경력판사 지원 역대 최대",
+        "excerpt": "검찰청 폐지를 약 5개월 앞두고 검사들의 사직·휴직·외부 파견이 잇따르며 조직 이탈 움직임이 빨라지고, 검사 출신 경력판사 지원자도 역대 최대를 기록했다.",
+        "body": "검찰청 폐지를 약 5개월 앞둔 시점에서 검사들의 조직 이탈 움직임이 빠르게 확산하고 있다. 사직과 휴직, 외부 파견이 잇따르는 가운데 올해 검사 출신 법조경력자의 법관 임용 지원도 역대 최대 규모로 나타났다. 검찰 조직의 향후 변화가 예고된 상황에서 일부 검사들이 새로운 진로를 모색하는 흐름이 뚜렷해진 것이다. 경력판사 지원 증가 역시 이 같은 분위기를 보여주는 지표로 해석된다. 검찰청 폐지를 앞둔 인력 이동이 계속될 경우 조직 운영과 법조 인력 재편에도 영향을 줄 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Prosecutor Exodus Speeds Up Before Office Abolition as Judge Applications Hit Record",
+        "excerpt": "About five months before the prosecution office is abolished, prosecutors are increasingly resigning, taking leave or moving to external posts, while applications for career judge roles hit a record.",
+        "body": "About five months before the abolition of the prosecution office, moves by prosecutors to leave the organization are accelerating. Resignations, leaves of absence and outside secondments are continuing, while applications this year from former prosecutors seeking appointment as career judges have reached a record high. With major changes to the prosecution organization ahead, some prosecutors are clearly looking for new career paths. The rise in applications for career judge positions is also being seen as a sign of this shift. If personnel movement continues before the abolition of the prosecution office, it could affect organizational operations and the reshaping of legal talent. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "検察庁廃止を前に検事の離脱加速、経歴判事志願は過去最多",
+        "excerpt": "検察庁廃止まで約5カ月となる中、検事の辞職・休職・外部派遣が相次ぎ、検事出身の法曹経歴者による判事任用志願も過去最多となった。",
+        "body": "検察庁廃止まで約5カ月となった時点で、検事による組織離脱の動きが加速している。辞職や休職、外部派遣が相次ぐ中、今年は検事出身の法曹経歴者による判事任用への志願者数も過去最多規模となった。検察組織の今後の変化が見込まれる状況で、一部の検事が新たな進路を模索する流れが鮮明になっている。経歴判事への志願増加も、こうした雰囲気を示す指標と受け止められる。検察庁廃止を前に人材移動が続けば、組織運営や法曹人材の再編にも影響を与える可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "检察厅废止前检察官离职加速，资历法官申请创历史新高",
+        "excerpt": "距检察厅废止约5个月之际，检察官辞职、休职和外派接连出现，检察官出身法律从业者申请资历法官任用人数也创下历史新高。",
+        "body": "在距离检察厅废止约5个月之际，检察官离开组织的动向正在加快。辞职、休职和外部派遣接连出现，同时今年检察官出身法律从业者申请法官任用的人数也达到历史最大规模。在检察组织未来变化已被预告的情况下，部分检察官寻求新职业路径的趋势更加明显。资历法官申请增加，也被视为反映这种氛围的指标。若检察厅废止前的人才流动持续，可能对组织运营和法律人才重组产生影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Se acelera la salida de fiscales antes de abolir la fiscalía y suben solicitudes de jueces",
+        "excerpt": "A unos cinco meses de la abolición de la fiscalía, aumentan renuncias, licencias y traslados externos de fiscales, mientras las solicitudes de jueces de carrera alcanzan un récord.",
+        "body": "A unos cinco meses de la abolición de la fiscalía, se acelera el movimiento de fiscales que buscan salir de la organización. Se suceden renuncias, licencias y envíos a puestos externos, mientras que este año las solicitudes de profesionales jurídicos procedentes de la fiscalía para ser nombrados jueces de carrera alcanzaron su mayor nivel histórico. Ante los cambios previstos en la organización fiscal, algunos fiscales parecen buscar nuevas trayectorias. El aumento de solicitudes para jueces de carrera también se interpreta como un indicador de ese clima. Si continúa el movimiento de personal antes de la abolición, podría influir en la gestión organizativa y en la recomposición del talento jurídico. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Êxodo de promotores acelera antes da extinção do órgão; vagas de juiz batem recorde",
+        "excerpt": "A cerca de cinco meses da extinção do órgão de promotoria, crescem demissões, licenças e cessões externas de promotores, enquanto candidaturas a juiz de carreira atingem recorde.",
+        "body": "A cerca de cinco meses da extinção do órgão de promotoria, acelera o movimento de promotores para deixar a organização. Demissões, licenças e designações externas vêm se sucedendo, enquanto neste ano as candidaturas de profissionais jurídicos com origem na promotoria para nomeação como juízes de carreira atingiram o maior patamar histórico. Com mudanças previstas na estrutura da promotoria, parte dos promotores demonstra buscar novos caminhos profissionais. O aumento das candidaturas a juiz de carreira também é visto como sinal desse ambiente. Se a movimentação de pessoal continuar antes da extinção, poderá afetar a operação da organização e a recomposição dos quadros jurídicos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Staatsanwälte verlassen Behörde schneller: Richterbewerbungen erreichen Rekord",
+        "excerpt": "Rund fünf Monate vor der Abschaffung der Staatsanwaltschaft nehmen Rücktritte, Beurlaubungen und externe Entsendungen zu; Bewerbungen ehemaliger Staatsanwälte als Berufsrichter erreichen Rekordniveau.",
+        "body": "Rund fünf Monate vor der Abschaffung der Staatsanwaltschaft beschleunigt sich die Bewegung von Staatsanwälten aus der Organisation heraus. Rücktritte, Beurlaubungen und externe Entsendungen häufen sich, während die Zahl der Bewerbungen ehemaliger Staatsanwälte für eine Ernennung zu Berufsrichtern in diesem Jahr einen historischen Höchststand erreicht hat. Angesichts der bevorstehenden Veränderungen in der Staatsanwaltschaft suchen einige Staatsanwälte offenbar neue Laufbahnen. Auch der Anstieg der Bewerbungen als Berufsrichter gilt als Hinweis auf diese Stimmung. Setzt sich die Personalbewegung vor der Abschaffung fort, könnte sie Betrieb und Neuordnung juristischer Fachkräfte beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Exode des procureurs avant la suppression du parquet, candidatures de juges au record",
+        "excerpt": "À environ cinq mois de la suppression du parquet, démissions, congés et détachements de procureurs se multiplient, tandis que les candidatures d’anciens procureurs comme juges atteignent un record.",
+        "body": "À environ cinq mois de la suppression du parquet, les mouvements de procureurs quittant l’organisation s’accélèrent. Démissions, congés et détachements externes se succèdent, tandis que les candidatures de juristes issus du parquet à une nomination comme juges de carrière ont atteint cette année un niveau historique. Alors que des changements majeurs sont annoncés pour l’organisation du parquet, certains procureurs semblent chercher de nouvelles voies professionnelles. La hausse des candidatures aux postes de juges de carrière est aussi perçue comme un indicateur de ce climat. Si ces mouvements de personnel se poursuivent avant la suppression, ils pourraient peser sur le fonctionnement de l’organisation et la recomposition des talents juridiques. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تسارع خروج المدعين قبل إلغاء مكتب الادعاء وطلبات قضاة الخبرة تبلغ رقما قياسيا",
+        "excerpt": "قبل نحو خمسة أشهر من إلغاء مكتب الادعاء، تتزايد استقالات المدعين وإجازاتهم وانتداباتهم الخارجية، فيما بلغت طلبات تعيين المدعين السابقين قضاة ذوي خبرة مستوى قياسيا.",
+        "body": "قبل نحو خمسة أشهر من إلغاء مكتب الادعاء، تتسارع حركة مغادرة المدعين للمنظمة. وتتوالى الاستقالات والإجازات والانتدابات الخارجية، بينما بلغت طلبات القانونيين القادمين من سلك الادعاء للتعيين كقضاة ذوي خبرة هذا العام أكبر مستوى في التاريخ. ومع ترقب تغييرات في جهاز الادعاء، يظهر أن بعض المدعين يبحثون عن مسارات مهنية جديدة. كما تعد زيادة طلبات التعيين في مناصب القضاة ذوي الخبرة مؤشرا على هذا المناخ. وإذا استمرت حركة انتقال الأفراد قبل إلغاء مكتب الادعاء، فقد تؤثر في تشغيل المنظمة وإعادة ترتيب الكوادر القانونية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अभियोजन कार्यालय खत्म होने से पहले अभियोजकों का पलायन तेज, जज आवेदन रिकॉर्ड पर",
+        "excerpt": "अभियोजन कार्यालय खत्म होने में करीब पांच महीने बाकी हैं और अभियोजकों के इस्तीफे, अवकाश व बाहरी प्रतिनियुक्ति बढ़ रहे हैं; करियर जज नियुक्ति के आवेदन रिकॉर्ड स्तर पर पहुंचे।",
+        "body": "अभियोजन कार्यालय खत्म होने में करीब पांच महीने बाकी रहते अभियोजकों का संगठन छोड़ने का रुझान तेज हो रहा है। इस्तीफे, अवकाश और बाहरी प्रतिनियुक्तियां लगातार सामने आ रही हैं, जबकि इस साल अभियोजक पृष्ठभूमि वाले कानूनी पेशेवरों के करियर जज नियुक्ति आवेदन अब तक के सबसे ऊंचे स्तर पर पहुंच गए। अभियोजन संगठन में आने वाले बदलावों के बीच कुछ अभियोजक नए करियर रास्ते तलाशते दिख रहे हैं। करियर जज पदों के लिए आवेदनों में बढ़ोतरी भी इसी माहौल का संकेत मानी जा रही है। यदि अभियोजन कार्यालय खत्म होने से पहले कर्मियों की आवाजाही जारी रहती है, तो संगठन संचालन और कानूनी प्रतिभा के पुनर्गठन पर असर पड़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Eksodus Jaksa Makin Cepat Jelang Penghapusan Kejaksaan, Lamaran Hakim Rekor",
+        "excerpt": "Sekitar lima bulan sebelum kejaksaan dihapus, pengunduran diri, cuti dan penugasan luar jaksa meningkat, sementara lamaran mantan jaksa untuk menjadi hakim karier mencapai rekor.",
+        "body": "Sekitar lima bulan sebelum penghapusan kejaksaan, pergerakan jaksa untuk meninggalkan organisasi semakin cepat. Pengunduran diri, cuti dan penugasan ke luar terus terjadi, sementara tahun ini lamaran dari praktisi hukum berlatar belakang jaksa untuk diangkat sebagai hakim karier mencapai jumlah terbesar sepanjang sejarah. Dengan perubahan organisasi kejaksaan yang sudah diperkirakan, sebagian jaksa terlihat mencari jalur karier baru. Kenaikan lamaran hakim karier juga dipandang sebagai indikator suasana tersebut. Jika mobilitas personel berlanjut sebelum penghapusan kejaksaan, hal itu dapat memengaruhi operasi organisasi dan penataan ulang tenaga hukum. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "0aa2f4504c6d",
     "slug": "내일-출근길-우산-챙기세요전국-비내리고-곳곳엔-강풍-860102",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Reli Semikonduktor Beda dari Bubble Dotcom, tetapi WSJ Ingatkan Risiko",
         "excerpt": "Wall Street Journal menilai reli semikonduktor global berbeda dari bubble dotcom sekitar 2000 karena ditopang laba, namun risiko pasar yang terlalu panas tetap perlu diwaspadai.",
         "body": "Wall Street Journal baru-baru ini menilai reli semikonduktor yang menyebar di pasar saham global. Menurut WSJ, euforia saat ini tampak berbeda dari bubble dotcom sekitar tahun 2000 karena bertumpu pada kinerja laba perusahaan. Pada masa itu, pasar lebih banyak membesar oleh ekspektasi dan arus spekulatif, sedangkan saham semikonduktor saat ini memiliki dasar berupa hasil laba. Namun, surat kabar itu juga mencatat bahwa kekhawatiran atas pasar yang terlalu panas ikut meningkat seiring reli yang meluas cepat. Karena penguatan saham semikonduktor telah menjadi pendorong utama bursa global, investor perlu melihat perbedaan berbasis laba tersebut sekaligus risiko optimisme berlebihan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "544f5b058c2c",
-    "slug": "연세대-13일부터-우주항공주간-행사-개최-ai시대-우주기술-발전-다룬다-630968",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T06:49:23.368Z",
-    "updatedAt": "2026-05-10T06:49:23.368Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042546",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042546",
-    "titleFingerprint": "cee2432ccc54baebe1a0ae77613798f9b7c0e2f7",
-    "dedupKeys": [
-      "544f5b058c2cb17deb703a755f0c47920fd56f1c",
-      "cee2432ccc54baebe1a0ae77613798f9b7c0e2f7",
-      "bd137fdcd39a6f488b2c66eca048b2956ce79e64"
-    ],
-    "imageUrl": "/images/articles/544f5b058c2c.png",
-    "i18n": {
-      "ko": {
-        "title": "연세대 우주항공주간 13일 개막, AI시대 우주기술 발전 의제 집중 조명",
-        "excerpt": "연세대학교 항공우주전략연구원은 13일부터 15일까지 백양누리 그랜드볼룸에서 우주항공주간을 열고 AI시대 우주기술 발전을 다룬다.",
-        "body": "연세대학교 항공우주전략연구원(ASTI)이 13일부터 15일까지 연세대학교 백양누리 그랜드볼룸에서 우주항공주간 행사를 개최한다. 이번 행사는 ‘AI시대 우주기술 발전’을 주요 의제로 삼아 우주항공 분야의 기술 변화와 관련 논의를 다루는 자리다. 장소는 연세대 백양누리관이며, 일정은 사흘간 이어진다. 대학 연구기관이 주관하는 행사인 만큼 우주항공 전략과 기술 발전 흐름을 공유하는 계기가 될 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Yonsei Space and Aerospace Week Opens on the 13th, Spotlighting Space Tech in the AI Era",
-        "excerpt": "Yonsei University’s Aerospace Strategy & Technology Institute will host Space and Aerospace Week from the 13th to the 15th at Baekyangnuri Grand Ballroom to discuss space technology in the AI era.",
-        "body": "Yonsei University’s Aerospace Strategy & Technology Institute (ASTI) will hold Space and Aerospace Week from the 13th to the 15th at the Baekyangnuri Grand Ballroom on the Yonsei University campus. The event will focus on the development of space technology in the AI era, covering discussions related to technological changes in the space and aerospace sector. The venue is Yonsei’s Baekyangnuri Hall, and the program will run for three days. As an event organized by a university research institute, it is expected to serve as an opportunity to share trends in aerospace strategy and technology development. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "延世大の宇宙航空週間が13日開幕、AI時代の宇宙技術発展を重点議論",
-        "excerpt": "延世大学航空宇宙戦略研究院は13日から15日まで白楊ヌリ・グランドボールルームで宇宙航空週間を開き、AI時代の宇宙技術発展を扱う。",
-        "body": "延世大学航空宇宙戦略研究院（ASTI）は13日から15日まで、延世大学白楊ヌリ・グランドボールルームで宇宙航空週間の行事を開催する。今回の行事は「AI時代の宇宙技術発展」を主要議題とし、宇宙航空分野の技術変化と関連する議論を扱う場となる。会場は延世大学の白楊ヌリ館で、日程は3日間続く。大学の研究機関が主催する行事として、宇宙航空戦略と技術発展の流れを共有する機会になるとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "延世大学宇宙航空周13日开幕，聚焦AI时代宇宙技术发展",
-        "excerpt": "延世大学航空宇宙战略研究院将于13日至15日在白杨路里大宴会厅举办宇宙航空周，讨论AI时代宇宙技术发展。",
-        "body": "延世大学航空宇宙战略研究院（ASTI）将于13日至15日在延世大学白杨路里大宴会厅举办宇宙航空周活动。本次活动以“AI时代宇宙技术发展”为主要议题，围绕宇宙航空领域的技术变化和相关讨论展开。活动地点为延世大学白杨路里馆，日程持续三天。作为由大学研究机构主办的活动，该活动预计将成为分享宇宙航空战略和技术发展趋势的机会。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Yonsei inaugura la Semana Aeroespacial el día 13 con foco en tecnología espacial e IA",
-        "excerpt": "El Instituto de Estrategia Aeroespacial de la Universidad Yonsei celebrará del 13 al 15 la Semana Aeroespacial en Baekyangnuri para tratar el desarrollo de la tecnología espacial en la era de la IA.",
-        "body": "El Instituto de Estrategia y Tecnología Aeroespacial de la Universidad Yonsei (ASTI) celebrará del 13 al 15 la Semana Aeroespacial en el Grand Ballroom de Baekyangnuri, dentro de la universidad. El encuentro tendrá como eje el desarrollo de la tecnología espacial en la era de la IA y abordará los cambios tecnológicos y los debates vinculados al sector espacial y aeroespacial. La sede será el edificio Baekyangnuri de Yonsei y el programa se extenderá durante tres días. Al estar organizado por un instituto universitario de investigación, se perfila como una ocasión para compartir tendencias de estrategia aeroespacial y avance tecnológico. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Yonsei abre Semana Aeroespacial no dia 13 com foco em tecnologia espacial na era da IA",
-        "excerpt": "O Instituto de Estratégia Aeroespacial da Universidade Yonsei realizará, de 13 a 15, a Semana Aeroespacial no Baekyangnuri Grand Ballroom para discutir tecnologia espacial na era da IA.",
-        "body": "O Instituto de Estratégia e Tecnologia Aeroespacial da Universidade Yonsei (ASTI) realizará, de 13 a 15, a Semana Aeroespacial no Baekyangnuri Grand Ballroom, no campus da universidade. O evento terá como tema central o desenvolvimento da tecnologia espacial na era da IA e tratará de mudanças tecnológicas e debates ligados ao setor espacial e aeroespacial. O local será o prédio Baekyangnuri da Yonsei, com programação ao longo de três dias. Por ser organizado por um instituto de pesquisa universitário, o encontro deve servir como oportunidade para compartilhar tendências de estratégia aeroespacial e desenvolvimento tecnológico. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Yonsei eröffnet Raumfahrtwoche am 13. und rückt Weltraumtechnik im KI-Zeitalter in den Fokus",
-        "excerpt": "Das Aerospace Strategy & Technology Institute der Yonsei University veranstaltet vom 13. bis 15. im Baekyangnuri Grand Ballroom eine Raumfahrtwoche zur Entwicklung von Weltraumtechnik im KI-Zeitalter.",
-        "body": "Das Aerospace Strategy & Technology Institute (ASTI) der Yonsei University veranstaltet vom 13. bis 15. im Baekyangnuri Grand Ballroom der Universität eine Raumfahrtwoche. Im Mittelpunkt steht die Entwicklung von Weltraumtechnik im KI-Zeitalter; behandelt werden technologische Veränderungen und damit verbundene Diskussionen im Raumfahrt- und Aerospace-Bereich. Austragungsort ist die Baekyangnuri Hall der Yonsei University, das Programm läuft über drei Tage. Als Veranstaltung eines universitären Forschungsinstituts dürfte sie Gelegenheit bieten, Trends in Raumfahrtstrategie und technologischer Entwicklung zu teilen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Yonsei ouvre sa Semaine aérospatiale le 13, centrée sur la technologie spatiale à l’ère de l’IA",
-        "excerpt": "L’Institut de stratégie aérospatiale de l’Université Yonsei organisera du 13 au 15 la Semaine aérospatiale au Baekyangnuri Grand Ballroom pour traiter du développement des technologies spatiales à l’ère de l’IA.",
-        "body": "L’Institut de stratégie et de technologie aérospatiales de l’Université Yonsei (ASTI) organisera du 13 au 15 la Semaine aérospatiale dans le Grand Ballroom de Baekyangnuri, sur le campus de Yonsei. L’événement aura pour thème principal le développement des technologies spatiales à l’ère de l’IA et abordera les changements technologiques ainsi que les discussions liées au secteur spatial et aérospatial. Le lieu retenu est le bâtiment Baekyangnuri de Yonsei, avec un programme sur trois jours. Organisé par un institut de recherche universitaire, il devrait offrir une occasion de partager les tendances en stratégie aérospatiale et en développement technologique. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جامعة يونسي تفتتح أسبوع الفضاء والطيران في 13 مع تركيز على تقنيات الفضاء بعصر الذكاء الاصطناعي",
-        "excerpt": "ينظم معهد استراتيجية الفضاء والطيران في جامعة يونسي أسبوع الفضاء والطيران من 13 إلى 15 في قاعة بايكيانغنوري الكبرى لبحث تطور تقنيات الفضاء في عصر الذكاء الاصطناعي.",
-        "body": "ينظم معهد استراتيجية وتقنية الفضاء والطيران في جامعة يونسي (ASTI) أسبوع الفضاء والطيران من 13 إلى 15 في قاعة بايكيانغنوري الكبرى داخل الجامعة. يركز الحدث على تطور تقنيات الفضاء في عصر الذكاء الاصطناعي، ويتناول التغيرات التقنية والنقاشات المرتبطة بقطاع الفضاء والطيران. ويقام البرنامج في مبنى بايكيانغنوري بجامعة يونسي على مدى ثلاثة أيام. وبصفته فعالية تنظمها مؤسسة بحثية جامعية، فمن المتوقع أن يوفر مناسبة لتبادل الاتجاهات المتعلقة باستراتيجية الفضاء والطيران وتطور التكنولوجيا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "योनसेई का स्पेस-एयरोस्पेस वीक 13 से, AI युग की अंतरिक्ष तकनीक पर मुख्य चर्चा",
-        "excerpt": "योनसेई विश्वविद्यालय का एयरोस्पेस स्ट्रैटेजी रिसर्च इंस्टीट्यूट 13 से 15 तक बैकयांगनुरी ग्रैंड बॉलरूम में स्पेस-एयरोस्पेस वीक आयोजित करेगा, जहां AI युग की अंतरिक्ष तकनीक पर चर्चा होगी।",
-        "body": "योनसेई विश्वविद्यालय का एयरोस्पेस स्ट्रैटेजी एंड टेक्नोलॉजी इंस्टीट्यूट (ASTI) 13 से 15 तक योनसेई विश्वविद्यालय के बैकयांगनुरी ग्रैंड बॉलरूम में स्पेस-एयरोस्पेस वीक आयोजित करेगा। इस कार्यक्रम का मुख्य विषय AI युग में अंतरिक्ष तकनीक का विकास है, जिसमें अंतरिक्ष और एयरोस्पेस क्षेत्र में तकनीकी बदलावों और संबंधित चर्चाओं को शामिल किया जाएगा। आयोजन स्थल योनसेई का बैकयांगनुरी भवन है और कार्यक्रम तीन दिनों तक चलेगा। विश्वविद्यालय के शोध संस्थान द्वारा आयोजित यह कार्यक्रम एयरोस्पेस रणनीति और तकनीकी विकास की प्रवृत्तियों को साझा करने का अवसर माना जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Yonsei Gelar Pekan Antariksa pada 13, Soroti Teknologi Ruang Angkasa di Era AI",
-        "excerpt": "Institut Strategi Dirgantara Universitas Yonsei akan menggelar Pekan Antariksa pada 13-15 di Baekyangnuri Grand Ballroom untuk membahas perkembangan teknologi ruang angkasa di era AI.",
-        "body": "Institut Strategi dan Teknologi Dirgantara Universitas Yonsei (ASTI) akan menggelar Pekan Antariksa dan Dirgantara pada 13-15 di Baekyangnuri Grand Ballroom, Universitas Yonsei. Acara ini mengangkat pengembangan teknologi ruang angkasa di era AI sebagai agenda utama, dengan pembahasan mengenai perubahan teknologi dan isu terkait di sektor antariksa serta dirgantara. Lokasinya berada di gedung Baekyangnuri Yonsei dan berlangsung selama tiga hari. Sebagai kegiatan yang diselenggarakan lembaga riset universitas, acara ini diperkirakan menjadi kesempatan untuk berbagi tren strategi dirgantara dan perkembangan teknologi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f0a06db43659",
-    "slug": "트럼프-만나야-해보석-중인-전광훈-미국방문-추진-323664",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T06:48:19.728Z",
-    "updatedAt": "2026-05-10T06:48:19.728Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042551",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042551",
-    "titleFingerprint": "f6c34850acd902fe514c9a193b99d1e98a14e3f4",
-    "dedupKeys": [
-      "f0a06db43659ea3bbda878522924574feced55a2",
-      "f6c34850acd902fe514c9a193b99d1e98a14e3f4",
-      "3663268352f9ae3be53a336ecd61e193839acc3d"
-    ],
-    "imageUrl": "/images/articles/f0a06db43659.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전광훈 미국 방문 추진 논란…보석 중 “트럼프 만나야 해” 발언",
-        "excerpt": "지병을 이유로 보석 석방된 전광훈 사랑제일교회 목사가 10일 광화문광장 예배에 화상으로 등장해 미국 방문 추진 의사를 밝혀 논란이 일고 있다.",
-        "body": "지병을 이유로 보석 석방된 전광훈 사랑제일교회 목사가 미국 방문을 추진한다고 밝혀 논란이 일고 있다. 10일 연합뉴스 보도를 인용한 mk.co.kr에 따르면 전 목사는 이날 서울 광화문광장에서 열린 예배에 화상으로 등장해 “트럼프 만나야 해”라는 취지로 발언하며 미국 방문 의사를 드러냈다. 전 목사는 현재 보석 상태로 알려져 있으며, 이번 발언은 보석 석방 사유와 해외 방문 추진이 맞물리면서 주목을 받고 있다. 향후 실제 방문 추진 여부와 관련 절차가 쟁점이 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Jeon Kwang-hoon Sparks Debate With U.S. Visit Plan While on Bail",
-        "excerpt": "Pastor Jeon Kwang-hoon, released on bail due to a chronic illness, appeared by video at a Gwanghwamun service on the 10th and said he was pursuing a U.S. visit.",
-        "body": "Pastor Jeon Kwang-hoon of Sarang Jeil Church, who was released on bail citing a chronic illness, has drawn controversy after saying he is seeking to visit the United States. According to mk.co.kr, citing Yonhap News on the 10th, Jeon appeared by video during a worship service held at Seoul’s Gwanghwamun Square and expressed his intention to travel to the U.S., saying in effect that he “must meet Trump.” Jeon is currently known to be on bail, and the remarks are drawing attention because the stated reason for his release and the planned overseas visit overlap. Whether the trip proceeds and what procedures follow are expected to become key issues. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "保釈中の全光焄氏、米国訪問推進で波紋「トランプ氏に会う」",
-        "excerpt": "持病を理由に保釈された愛第一教会の全光焄牧師が10日、光化門広場の礼拝に映像で登場し、米国訪問を進める考えを示して議論を呼んでいる。",
-        "body": "持病を理由に保釈された愛第一教会の全光焄牧師が、米国訪問を推進すると明らかにし、波紋が広がっている。mk.co.krが10日に聯合ニュースを引用して報じたところによると、全牧師は同日、ソウル・光化門広場で開かれた礼拝に映像で登場し、「トランプ氏に会わなければならない」という趣旨で発言し、米国訪問の意思を示した。全牧師は現在、保釈中とされており、保釈の理由と海外訪問の推進が重なったことで注目されている。今後、実際に訪問が進むかどうかや関連手続きが争点になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "全光焄保释期间拟访美引争议，称“必须见特朗普”",
-        "excerpt": "因疾病获准保释的爱第一教会牧师全光焄10日通过视频出现在光化门广场礼拜中，表示正推动访问美国，引发争议。",
-        "body": "因疾病原因获准保释的爱第一教会牧师全光焄表示正在推动访问美国，引发争议。据mk.co.kr援引韩联社10日报道，全牧师当天通过视频出现在首尔光化门广场举行的礼拜中，并以“必须见特朗普”的意思表达了赴美意向。全牧师目前被认为处于保释状态，因此其保释理由与推动海外访问同时出现，受到关注。今后，实际访问是否推进以及相关程序如何处理，预计将成为争议焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jeon Kwang-hoon busca viajar a EE. UU. estando en libertad bajo fianza",
-        "excerpt": "El pastor Jeon Kwang-hoon, liberado bajo fianza por una enfermedad crónica, apareció por video el día 10 en un culto en Gwanghwamun y dijo que impulsa una visita a EE. UU.",
-        "body": "El pastor Jeon Kwang-hoon, de la iglesia Sarang Jeil, liberado bajo fianza alegando una enfermedad crónica, generó controversia al afirmar que busca visitar Estados Unidos. Según mk.co.kr, citando a Yonhap News el día 10, Jeon apareció por video durante un culto celebrado en la plaza Gwanghwamun de Seúl y expresó su intención de viajar a EE. UU. con una frase en el sentido de que “debe reunirse con Trump”. Jeon se encuentra actualmente bajo fianza, y sus declaraciones llaman la atención porque coinciden la razón de su liberación y el impulso de un viaje al extranjero. Se espera que el avance real del viaje y los procedimientos relacionados sean el foco del debate. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Jeon Kwang-hoon quer visitar os EUA sob fiança e gera controvérsia",
-        "excerpt": "O pastor Jeon Kwang-hoon, libertado sob fiança por doença crônica, apareceu por vídeo no dia 10 em um culto em Gwanghwamun e disse que pretende visitar os EUA.",
-        "body": "O pastor Jeon Kwang-hoon, da Igreja Sarang Jeil, libertado sob fiança alegando doença crônica, causou controvérsia ao afirmar que pretende visitar os Estados Unidos. Segundo o mk.co.kr, citando a Yonhap News no dia 10, Jeon apareceu por vídeo durante um culto realizado na Praça Gwanghwamun, em Seul, e expressou sua intenção de viajar aos EUA, dizendo em essência que “precisa encontrar Trump”. Jeon é atualmente conhecido por estar em liberdade sob fiança, e a fala chama atenção porque a razão da libertação e a tentativa de viagem ao exterior se cruzam. A efetiva realização da visita e os procedimentos relacionados devem se tornar pontos de debate. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Jeon Kwang-hoon plant USA-Besuch auf Kaution und sorgt für Streit",
-        "excerpt": "Pastor Jeon Kwang-hoon, wegen einer chronischen Krankheit gegen Kaution freigelassen, erschien am 10. per Video bei einem Gottesdienst in Gwanghwamun und sprach von einem USA-Besuch.",
-        "body": "Pastor Jeon Kwang-hoon von der Sarang-Jeil-Kirche, der wegen einer chronischen Krankheit gegen Kaution freigelassen wurde, sorgt mit der Aussage für Kontroversen, er wolle in die USA reisen. Wie mk.co.kr unter Berufung auf Yonhap News am 10. berichtete, erschien Jeon per Video bei einem Gottesdienst auf dem Gwanghwamun-Platz in Seoul und äußerte seine Absicht, die Vereinigten Staaten zu besuchen, sinngemäß mit den Worten, er müsse „Trump treffen“. Jeon gilt derzeit als auf Kaution frei. Die Äußerung erhält Aufmerksamkeit, weil der Grund seiner Freilassung und der geplante Auslandsbesuch zusammenfallen. Ob der Besuch tatsächlich vorangetrieben wird und welche Verfahren folgen, dürfte zum Streitpunkt werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Jeon Kwang-hoon veut aller aux États-Unis malgré sa libération sous caution",
-        "excerpt": "Le pasteur Jeon Kwang-hoon, libéré sous caution pour maladie chronique, est apparu en vidéo le 10 lors d’un culte à Gwanghwamun et a dit préparer une visite aux États-Unis.",
-        "body": "Le pasteur Jeon Kwang-hoon, de l’église Sarang Jeil, libéré sous caution en raison d’une maladie chronique, suscite la controverse après avoir déclaré qu’il cherchait à se rendre aux États-Unis. Selon mk.co.kr, citant Yonhap News le 10, Jeon est apparu en vidéo lors d’un culte organisé sur la place Gwanghwamun à Séoul et a exprimé son intention de visiter les États-Unis, avec des propos signifiant qu’il « doit rencontrer Trump ». Jeon est actuellement connu comme étant en liberté sous caution, et cette déclaration attire l’attention car le motif de sa libération et le projet de voyage à l’étranger se recoupent. La réalisation effective du voyage et les procédures liées devraient devenir des points de débat. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جون كوانغ هون يعتزم زيارة أميركا وهو بكفالة ويثير الجدل",
-        "excerpt": "القس جون كوانغ هون، الذي أفرج عنه بكفالة بسبب مرض مزمن، ظهر عبر الفيديو في قداس بساحة غوانغهوامون يوم 10 وأعلن أنه يسعى لزيارة الولايات المتحدة.",
-        "body": "أثار القس جون كوانغ هون من كنيسة سارانغ جيل الجدل بعدما قال إنه يسعى لزيارة الولايات المتحدة، رغم أنه أفرج عنه بكفالة بسبب مرض مزمن. وبحسب mk.co.kr نقلا عن وكالة يونهاب في 10 من الشهر، ظهر جون عبر الفيديو خلال قداس أقيم في ساحة غوانغهوامون في سيول، وعبّر عن نيته زيارة الولايات المتحدة قائلا بمعنى إنه «يجب أن يلتقي ترامب». ويُعرف أن جون حاليا في حالة إفراج بكفالة، لذلك لفتت تصريحاته الانتباه لتزامن سبب الإفراج مع السعي إلى زيارة خارجية. ومن المتوقع أن تصبح مسألة تنفيذ الزيارة فعليا والإجراءات المرتبطة بها محور نقاش لاحق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जमानत पर रिहा जियोन क्वांग-हून की अमेरिका यात्रा योजना से विवाद",
-        "excerpt": "पुरानी बीमारी के आधार पर जमानत पर रिहा पादरी जियोन क्वांग-हून 10 तारीख को ग्वांगह्वामुन की प्रार्थना सभा में वीडियो से शामिल हुए और अमेरिका यात्रा की बात कही।",
-        "body": "पुरानी बीमारी का हवाला देकर जमानत पर रिहा हुए सारंग जईल चर्च के पादरी जियोन क्वांग-हून ने कहा कि वह अमेरिका जाने की कोशिश कर रहे हैं, जिससे विवाद खड़ा हो गया है। mk.co.kr ने 10 तारीख को योनहाप न्यूज के हवाले से बताया कि जियोन सियोल के ग्वांगह्वामुन स्क्वायर में आयोजित प्रार्थना सभा में वीडियो के माध्यम से शामिल हुए और इस आशय की बात कही कि उन्हें “ट्रंप से मिलना है”, साथ ही अमेरिका यात्रा की इच्छा जताई। जियोन फिलहाल जमानत पर बताए जाते हैं, इसलिए उनकी रिहाई के कारण और विदेश यात्रा की योजना साथ आने से मामला ध्यान खींच रहा है। आगे वास्तविक यात्रा और संबंधित प्रक्रियाएं प्रमुख मुद्दा बन सकती हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Jeon Kwang-hoon Dorong Kunjungan AS Saat Berstatus Jaminan",
-        "excerpt": "Pendeta Jeon Kwang-hoon, yang dibebaskan dengan jaminan karena penyakit kronis, muncul lewat video dalam ibadah di Gwanghwamun pada tanggal 10 dan menyatakan rencana ke AS.",
-        "body": "Pendeta Jeon Kwang-hoon dari Gereja Sarang Jeil, yang dibebaskan dengan jaminan karena alasan penyakit kronis, menuai kontroversi setelah menyatakan bahwa ia sedang mendorong kunjungan ke Amerika Serikat. Menurut mk.co.kr yang mengutip Yonhap News pada tanggal 10, Jeon muncul melalui video dalam ibadah yang digelar di Lapangan Gwanghwamun, Seoul, dan menyampaikan niatnya ke AS dengan pernyataan bernada bahwa ia “harus bertemu Trump”. Jeon diketahui saat ini berstatus jaminan, sehingga pernyataan tersebut menarik perhatian karena alasan pembebasan dan rencana perjalanan luar negeri saling berkaitan. Ke depan, apakah kunjungan itu benar-benar diproses dan bagaimana prosedurnya diperkirakan menjadi isu utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "54f437f23585",
-    "slug": "21년간-노무현-전-대통령-수행-盧의-운전사-최영-씨-별세-779640",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T06:47:17.956Z",
-    "updatedAt": "2026-05-10T06:47:17.956Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042552",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042552",
-    "titleFingerprint": "9726362631889f158b22be7e2028de8da212007f",
-    "dedupKeys": [
-      "54f437f235852f92b2270bed4fe5483b0187b41e",
-      "9726362631889f158b22be7e2028de8da212007f",
-      "3c24d31790f16d3f403a8551516fdae7a13c3566"
-    ],
-    "imageUrl": "/images/articles/54f437f23585.png",
-    "i18n": {
-      "ko": {
-        "title": "노무현 전 대통령 21년 수행한 ‘운전사’ 최영 씨 별세",
-        "excerpt": "1988년부터 2009년까지 21년간 노무현 전 대통령의 차량을 운전한 수행비서 최영 씨가 10일 오전 서울 국립중앙의료원에서 별세했다.",
-        "body": "노무현 전 대통령을 21년간 수행하며 차량을 운전한 최영 씨가 10일 오전 5시 24분쯤 서울 국립중앙의료원에서 세상을 떠났다. 최 씨는 1988년부터 2009년까지 노무현 전 대통령의 차를 운전한 수행비서로 알려졌다. 노 전 대통령은 1946년 태어나 2009년 별세했다. 최 씨의 별세 소식은 노 전 대통령과 오랜 기간 함께한 수행 인물의 부고라는 점에서 주목된다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Choi Young, Roh Moo-hyun’s Driver and Aide for 21 Years, Dies",
-        "excerpt": "Choi Young, the aide who drove former South Korean President Roh Moo-hyun from 1988 to 2009, died at Seoul’s National Medical Center at around 5:24 a.m. on the 10th.",
-        "body": "Choi Young, who served former South Korean President Roh Moo-hyun for 21 years as the driver of his car, died at around 5:24 a.m. on the 10th at the National Medical Center in Seoul. Choi was known as an aide who drove Roh’s vehicle from 1988 to 2009. Roh Moo-hyun was born in 1946 and died in 2009. The news draws attention as the obituary of a longtime aide who accompanied the former president over many years. This report cites mk.co.kr."
-      },
-      "ja": {
-        "title": "盧武鉉元大統領を21年間支えた運転手、崔永さん死去",
-        "excerpt": "1988年から2009年まで21年間、盧武鉉元大統領の車を運転した随行秘書の崔永さんが、10日午前にソウル国立中央医療院で死去した。",
-        "body": "盧武鉉元大統領に21年間随行し、車を運転していた崔永さんが、10日午前5時24分ごろ、ソウルの国立中央医療院で亡くなった。崔さんは1988年から2009年まで、盧元大統領の車を運転した随行秘書として知られている。盧元大統領は1946年に生まれ、2009年に死去した。長年にわたり元大統領と行動を共にした人物の訃報として注目される。内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "陪伴卢武铉前总统21年的司机崔永去世",
-        "excerpt": "1988年至2009年间为卢武铉前总统驾车、担任随行秘书的崔永，于10日上午在首尔国立中央医疗院去世。",
-        "body": "为卢武铉前总统随行21年并负责驾车的崔永，于10日上午5时24分左右在首尔国立中央医疗院去世。崔永以1988年至2009年间驾驶卢武铉前总统车辆的随行秘书身份为人所知。卢武铉前总统生于1946年，2009年去世。此次消息因其是长期陪伴前总统的人物讣闻而受到关注。相关内容引自mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Muere Choi Young, conductor de Roh Moo-hyun durante 21 años",
-        "excerpt": "Choi Young, asistente que condujo el vehículo del expresidente surcoreano Roh Moo-hyun entre 1988 y 2009, murió el día 10 por la mañana en Seúl.",
-        "body": "Choi Young, quien acompañó durante 21 años al expresidente surcoreano Roh Moo-hyun y condujo su vehículo, murió alrededor de las 5:24 de la mañana del día 10 en el Centro Médico Nacional de Seúl. Choi era conocido como asistente encargado de conducir el coche de Roh entre 1988 y 2009. Roh Moo-hyun nació en 1946 y falleció en 2009. La noticia destaca por tratarse del fallecimiento de una persona que estuvo junto al expresidente durante un largo periodo. La información cita a mk.co.kr."
-      },
-      "pt": {
-        "title": "Morre Choi Young, motorista de Roh Moo-hyun por 21 anos",
-        "excerpt": "Choi Young, assessor que dirigiu o carro do ex-presidente sul-coreano Roh Moo-hyun de 1988 a 2009, morreu na manhã do dia 10 em Seul.",
-        "body": "Choi Young, que acompanhou o ex-presidente sul-coreano Roh Moo-hyun por 21 anos e dirigiu seu carro, morreu por volta das 5h24 da manhã do dia 10 no Centro Médico Nacional, em Seul. Choi era conhecido como assessor que conduziu o veículo de Roh de 1988 a 2009. Roh Moo-hyun nasceu em 1946 e morreu em 2009. A notícia chama atenção por ser o obituário de uma pessoa que esteve ao lado do ex-presidente por muitos anos. O conteúdo cita reportagem do mk.co.kr."
-      },
-      "de": {
-        "title": "Choi Young, 21 Jahre Fahrer von Roh Moo-hyun, ist gestorben",
-        "excerpt": "Choi Young, der von 1988 bis 2009 als Begleiter das Auto des früheren südkoreanischen Präsidenten Roh Moo-hyun fuhr, starb am Morgen des 10. in Seoul.",
-        "body": "Choi Young, der den früheren südkoreanischen Präsidenten Roh Moo-hyun 21 Jahre lang begleitete und dessen Auto fuhr, ist am 10. gegen 5:24 Uhr im National Medical Center in Seoul gestorben. Choi war als Begleitsekretär bekannt, der von 1988 bis 2009 Rohs Wagen fuhr. Roh Moo-hyun wurde 1946 geboren und starb 2009. Die Nachricht findet Beachtung, weil es sich um den Tod einer Person handelt, die den früheren Präsidenten über lange Zeit begleitete. Grundlage ist ein Bericht von mk.co.kr."
-      },
-      "fr": {
-        "title": "Choi Young, chauffeur de Roh Moo-hyun pendant 21 ans, est mort",
-        "excerpt": "Choi Young, assistant qui a conduit la voiture de l’ancien président sud-coréen Roh Moo-hyun de 1988 à 2009, est mort le matin du 10 à Séoul.",
-        "body": "Choi Young, qui a accompagné pendant 21 ans l’ancien président sud-coréen Roh Moo-hyun en conduisant sa voiture, est mort vers 5 h 24 le matin du 10 au Centre médical national de Séoul. Il était connu comme secrétaire accompagnateur chargé de conduire le véhicule de Roh de 1988 à 2009. Roh Moo-hyun est né en 1946 et est décédé en 2009. Cette annonce retient l’attention car elle concerne une personne restée longtemps aux côtés de l’ancien président. Le contenu cite mk.co.kr."
-      },
-      "ar": {
-        "title": "وفاة تشوي يونغ سائق روه مو هيون ومرافقه طوال 21 عاما",
-        "excerpt": "توفي تشوي يونغ، المرافق الذي قاد سيارة الرئيس الكوري الجنوبي الأسبق روه مو هيون من 1988 إلى 2009، صباح يوم 10 في المركز الطبي الوطني بسيول.",
-        "body": "توفي تشوي يونغ، الذي رافق الرئيس الكوري الجنوبي الأسبق روه مو هيون لمدة 21 عاما وقاد سيارته، نحو الساعة 5:24 صباح يوم 10 في المركز الطبي الوطني في سيول. وكان تشوي معروفا كمرافق وسكرتير تولى قيادة سيارة روه من عام 1988 إلى عام 2009. وولد روه مو هيون عام 1946 وتوفي عام 2009. وتحظى الوفاة بالاهتمام لأنها تخص شخصية لازمت الرئيس الأسبق لفترة طويلة. يستند هذا النص إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "रोह मू-ह्युन के 21 साल तक चालक रहे चोई यंग का निधन",
-        "excerpt": "1988 से 2009 तक दक्षिण कोरिया के पूर्व राष्ट्रपति रोह मू-ह्युन की कार चलाने वाले सहयोगी चोई यंग का 10 तारीख की सुबह सियोल में निधन हो गया।",
-        "body": "दक्षिण कोरिया के पूर्व राष्ट्रपति रोह मू-ह्युन के साथ 21 वर्षों तक रहे और उनकी कार चलाने वाले चोई यंग का 10 तारीख की सुबह करीब 5:24 बजे सियोल के नेशनल मेडिकल सेंटर में निधन हो गया। चोई 1988 से 2009 तक रोह मू-ह्युन की कार चलाने वाले सहयोगी सचिव के रूप में जाने जाते थे। रोह मू-ह्युन का जन्म 1946 में हुआ था और 2009 में उनका निधन हुआ। यह खबर इसलिए ध्यान खींचती है क्योंकि यह लंबे समय तक पूर्व राष्ट्रपति के साथ रहे व्यक्ति का निधन है। जानकारी mk.co.kr की रिपोर्ट पर आधारित है।"
-      },
-      "id": {
-        "title": "Choi Young, Sopir Roh Moo-hyun Selama 21 Tahun, Meninggal",
-        "excerpt": "Choi Young, ajudan yang mengemudikan mobil mantan Presiden Korea Selatan Roh Moo-hyun dari 1988 hingga 2009, meninggal pagi tanggal 10 di Seoul.",
-        "body": "Choi Young, yang mendampingi mantan Presiden Korea Selatan Roh Moo-hyun selama 21 tahun sekaligus mengemudikan mobilnya, meninggal sekitar pukul 05.24 pagi tanggal 10 di National Medical Center, Seoul. Choi dikenal sebagai sekretaris pendamping yang mengemudikan kendaraan Roh dari 1988 hingga 2009. Roh Moo-hyun lahir pada 1946 dan meninggal pada 2009. Kabar ini menjadi perhatian karena merupakan berita duka tentang sosok yang lama berada bersama mantan presiden tersebut. Isi ini mengutip laporan mk.co.kr."
       }
     }
   }
