@@ -1,0 +1,75 @@
+{
+  "id": "544f5b058c2c",
+  "slug": "연세대-13일부터-우주항공주간-행사-개최-ai시대-우주기술-발전-다룬다-630968",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-10T06:49:23.368Z",
+  "updatedAt": "2026-05-10T06:49:23.368Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/society/12042546",
+  "canonicalUrl": "https://www.mk.co.kr/news/society/12042546",
+  "titleFingerprint": "cee2432ccc54baebe1a0ae77613798f9b7c0e2f7",
+  "dedupKeys": [
+    "544f5b058c2cb17deb703a755f0c47920fd56f1c",
+    "cee2432ccc54baebe1a0ae77613798f9b7c0e2f7",
+    "bd137fdcd39a6f488b2c66eca048b2956ce79e64"
+  ],
+  "imageUrl": "/images/articles/544f5b058c2c.png",
+  "i18n": {
+    "ko": {
+      "title": "연세대 우주항공주간 13일 개막, AI시대 우주기술 발전 의제 집중 조명",
+      "excerpt": "연세대학교 항공우주전략연구원은 13일부터 15일까지 백양누리 그랜드볼룸에서 우주항공주간을 열고 AI시대 우주기술 발전을 다룬다.",
+      "body": "연세대학교 항공우주전략연구원(ASTI)이 13일부터 15일까지 연세대학교 백양누리 그랜드볼룸에서 우주항공주간 행사를 개최한다. 이번 행사는 ‘AI시대 우주기술 발전’을 주요 의제로 삼아 우주항공 분야의 기술 변화와 관련 논의를 다루는 자리다. 장소는 연세대 백양누리관이며, 일정은 사흘간 이어진다. 대학 연구기관이 주관하는 행사인 만큼 우주항공 전략과 기술 발전 흐름을 공유하는 계기가 될 것으로 보인다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Yonsei Space and Aerospace Week Opens on the 13th, Spotlighting Space Tech in the AI Era",
+      "excerpt": "Yonsei University’s Aerospace Strategy & Technology Institute will host Space and Aerospace Week from the 13th to the 15th at Baekyangnuri Grand Ballroom to discuss space technology in the AI era.",
+      "body": "Yonsei University’s Aerospace Strategy & Technology Institute (ASTI) will hold Space and Aerospace Week from the 13th to the 15th at the Baekyangnuri Grand Ballroom on the Yonsei University campus. The event will focus on the development of space technology in the AI era, covering discussions related to technological changes in the space and aerospace sector. The venue is Yonsei’s Baekyangnuri Hall, and the program will run for three days. As an event organized by a university research institute, it is expected to serve as an opportunity to share trends in aerospace strategy and technology development. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "延世大の宇宙航空週間が13日開幕、AI時代の宇宙技術発展を重点議論",
+      "excerpt": "延世大学航空宇宙戦略研究院は13日から15日まで白楊ヌリ・グランドボールルームで宇宙航空週間を開き、AI時代の宇宙技術発展を扱う。",
+      "body": "延世大学航空宇宙戦略研究院（ASTI）は13日から15日まで、延世大学白楊ヌリ・グランドボールルームで宇宙航空週間の行事を開催する。今回の行事は「AI時代の宇宙技術発展」を主要議題とし、宇宙航空分野の技術変化と関連する議論を扱う場となる。会場は延世大学の白楊ヌリ館で、日程は3日間続く。大学の研究機関が主催する行事として、宇宙航空戦略と技術発展の流れを共有する機会になるとみられる。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "延世大学宇宙航空周13日开幕，聚焦AI时代宇宙技术发展",
+      "excerpt": "延世大学航空宇宙战略研究院将于13日至15日在白杨路里大宴会厅举办宇宙航空周，讨论AI时代宇宙技术发展。",
+      "body": "延世大学航空宇宙战略研究院（ASTI）将于13日至15日在延世大学白杨路里大宴会厅举办宇宙航空周活动。本次活动以“AI时代宇宙技术发展”为主要议题，围绕宇宙航空领域的技术变化和相关讨论展开。活动地点为延世大学白杨路里馆，日程持续三天。作为由大学研究机构主办的活动，该活动预计将成为分享宇宙航空战略和技术发展趋势的机会。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Yonsei inaugura la Semana Aeroespacial el día 13 con foco en tecnología espacial e IA",
+      "excerpt": "El Instituto de Estrategia Aeroespacial de la Universidad Yonsei celebrará del 13 al 15 la Semana Aeroespacial en Baekyangnuri para tratar el desarrollo de la tecnología espacial en la era de la IA.",
+      "body": "El Instituto de Estrategia y Tecnología Aeroespacial de la Universidad Yonsei (ASTI) celebrará del 13 al 15 la Semana Aeroespacial en el Grand Ballroom de Baekyangnuri, dentro de la universidad. El encuentro tendrá como eje el desarrollo de la tecnología espacial en la era de la IA y abordará los cambios tecnológicos y los debates vinculados al sector espacial y aeroespacial. La sede será el edificio Baekyangnuri de Yonsei y el programa se extenderá durante tres días. Al estar organizado por un instituto universitario de investigación, se perfila como una ocasión para compartir tendencias de estrategia aeroespacial y avance tecnológico. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Yonsei abre Semana Aeroespacial no dia 13 com foco em tecnologia espacial na era da IA",
+      "excerpt": "O Instituto de Estratégia Aeroespacial da Universidade Yonsei realizará, de 13 a 15, a Semana Aeroespacial no Baekyangnuri Grand Ballroom para discutir tecnologia espacial na era da IA.",
+      "body": "O Instituto de Estratégia e Tecnologia Aeroespacial da Universidade Yonsei (ASTI) realizará, de 13 a 15, a Semana Aeroespacial no Baekyangnuri Grand Ballroom, no campus da universidade. O evento terá como tema central o desenvolvimento da tecnologia espacial na era da IA e tratará de mudanças tecnológicas e debates ligados ao setor espacial e aeroespacial. O local será o prédio Baekyangnuri da Yonsei, com programação ao longo de três dias. Por ser organizado por um instituto de pesquisa universitário, o encontro deve servir como oportunidade para compartilhar tendências de estratégia aeroespacial e desenvolvimento tecnológico. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Yonsei eröffnet Raumfahrtwoche am 13. und rückt Weltraumtechnik im KI-Zeitalter in den Fokus",
+      "excerpt": "Das Aerospace Strategy & Technology Institute der Yonsei University veranstaltet vom 13. bis 15. im Baekyangnuri Grand Ballroom eine Raumfahrtwoche zur Entwicklung von Weltraumtechnik im KI-Zeitalter.",
+      "body": "Das Aerospace Strategy & Technology Institute (ASTI) der Yonsei University veranstaltet vom 13. bis 15. im Baekyangnuri Grand Ballroom der Universität eine Raumfahrtwoche. Im Mittelpunkt steht die Entwicklung von Weltraumtechnik im KI-Zeitalter; behandelt werden technologische Veränderungen und damit verbundene Diskussionen im Raumfahrt- und Aerospace-Bereich. Austragungsort ist die Baekyangnuri Hall der Yonsei University, das Programm läuft über drei Tage. Als Veranstaltung eines universitären Forschungsinstituts dürfte sie Gelegenheit bieten, Trends in Raumfahrtstrategie und technologischer Entwicklung zu teilen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Yonsei ouvre sa Semaine aérospatiale le 13, centrée sur la technologie spatiale à l’ère de l’IA",
+      "excerpt": "L’Institut de stratégie aérospatiale de l’Université Yonsei organisera du 13 au 15 la Semaine aérospatiale au Baekyangnuri Grand Ballroom pour traiter du développement des technologies spatiales à l’ère de l’IA.",
+      "body": "L’Institut de stratégie et de technologie aérospatiales de l’Université Yonsei (ASTI) organisera du 13 au 15 la Semaine aérospatiale dans le Grand Ballroom de Baekyangnuri, sur le campus de Yonsei. L’événement aura pour thème principal le développement des technologies spatiales à l’ère de l’IA et abordera les changements technologiques ainsi que les discussions liées au secteur spatial et aérospatial. Le lieu retenu est le bâtiment Baekyangnuri de Yonsei, avec un programme sur trois jours. Organisé par un institut de recherche universitaire, il devrait offrir une occasion de partager les tendances en stratégie aérospatiale et en développement technologique. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "جامعة يونسي تفتتح أسبوع الفضاء والطيران في 13 مع تركيز على تقنيات الفضاء بعصر الذكاء الاصطناعي",
+      "excerpt": "ينظم معهد استراتيجية الفضاء والطيران في جامعة يونسي أسبوع الفضاء والطيران من 13 إلى 15 في قاعة بايكيانغنوري الكبرى لبحث تطور تقنيات الفضاء في عصر الذكاء الاصطناعي.",
+      "body": "ينظم معهد استراتيجية وتقنية الفضاء والطيران في جامعة يونسي (ASTI) أسبوع الفضاء والطيران من 13 إلى 15 في قاعة بايكيانغنوري الكبرى داخل الجامعة. يركز الحدث على تطور تقنيات الفضاء في عصر الذكاء الاصطناعي، ويتناول التغيرات التقنية والنقاشات المرتبطة بقطاع الفضاء والطيران. ويقام البرنامج في مبنى بايكيانغنوري بجامعة يونسي على مدى ثلاثة أيام. وبصفته فعالية تنظمها مؤسسة بحثية جامعية، فمن المتوقع أن يوفر مناسبة لتبادل الاتجاهات المتعلقة باستراتيجية الفضاء والطيران وتطور التكنولوجيا. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "योनसेई का स्पेस-एयरोस्पेस वीक 13 से, AI युग की अंतरिक्ष तकनीक पर मुख्य चर्चा",
+      "excerpt": "योनसेई विश्वविद्यालय का एयरोस्पेस स्ट्रैटेजी रिसर्च इंस्टीट्यूट 13 से 15 तक बैकयांगनुरी ग्रैंड बॉलरूम में स्पेस-एयरोस्पेस वीक आयोजित करेगा, जहां AI युग की अंतरिक्ष तकनीक पर चर्चा होगी।",
+      "body": "योनसेई विश्वविद्यालय का एयरोस्पेस स्ट्रैटेजी एंड टेक्नोलॉजी इंस्टीट्यूट (ASTI) 13 से 15 तक योनसेई विश्वविद्यालय के बैकयांगनुरी ग्रैंड बॉलरूम में स्पेस-एयरोस्पेस वीक आयोजित करेगा। इस कार्यक्रम का मुख्य विषय AI युग में अंतरिक्ष तकनीक का विकास है, जिसमें अंतरिक्ष और एयरोस्पेस क्षेत्र में तकनीकी बदलावों और संबंधित चर्चाओं को शामिल किया जाएगा। आयोजन स्थल योनसेई का बैकयांगनुरी भवन है और कार्यक्रम तीन दिनों तक चलेगा। विश्वविद्यालय के शोध संस्थान द्वारा आयोजित यह कार्यक्रम एयरोस्पेस रणनीति और तकनीकी विकास की प्रवृत्तियों को साझा करने का अवसर माना जा रहा है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Yonsei Gelar Pekan Antariksa pada 13, Soroti Teknologi Ruang Angkasa di Era AI",
+      "excerpt": "Institut Strategi Dirgantara Universitas Yonsei akan menggelar Pekan Antariksa pada 13-15 di Baekyangnuri Grand Ballroom untuk membahas perkembangan teknologi ruang angkasa di era AI.",
+      "body": "Institut Strategi dan Teknologi Dirgantara Universitas Yonsei (ASTI) akan menggelar Pekan Antariksa dan Dirgantara pada 13-15 di Baekyangnuri Grand Ballroom, Universitas Yonsei. Acara ini mengangkat pengembangan teknologi ruang angkasa di era AI sebagai agenda utama, dengan pembahasan mengenai perubahan teknologi dan isu terkait di sektor antariksa serta dirgantara. Lokasinya berada di gedung Baekyangnuri Yonsei dan berlangsung selama tiga hari. Sebagai kegiatan yang diselenggarakan lembaga riset universitas, acara ini diperkirakan menjadi kesempatan untuk berbagi tren strategi dirgantara dan perkembangan teknologi. Sumber: mk.co.kr"
+    }
+  }
+}

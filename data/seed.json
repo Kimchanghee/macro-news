@@ -1,5 +1,230 @@
 [
   {
+    "id": "544f5b058c2c",
+    "slug": "연세대-13일부터-우주항공주간-행사-개최-ai시대-우주기술-발전-다룬다-630968",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T06:49:23.368Z",
+    "updatedAt": "2026-05-10T06:49:23.368Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042546",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042546",
+    "titleFingerprint": "cee2432ccc54baebe1a0ae77613798f9b7c0e2f7",
+    "dedupKeys": [
+      "544f5b058c2cb17deb703a755f0c47920fd56f1c",
+      "cee2432ccc54baebe1a0ae77613798f9b7c0e2f7",
+      "bd137fdcd39a6f488b2c66eca048b2956ce79e64"
+    ],
+    "imageUrl": "/images/articles/544f5b058c2c.png",
+    "i18n": {
+      "ko": {
+        "title": "연세대 우주항공주간 13일 개막, AI시대 우주기술 발전 의제 집중 조명",
+        "excerpt": "연세대학교 항공우주전략연구원은 13일부터 15일까지 백양누리 그랜드볼룸에서 우주항공주간을 열고 AI시대 우주기술 발전을 다룬다.",
+        "body": "연세대학교 항공우주전략연구원(ASTI)이 13일부터 15일까지 연세대학교 백양누리 그랜드볼룸에서 우주항공주간 행사를 개최한다. 이번 행사는 ‘AI시대 우주기술 발전’을 주요 의제로 삼아 우주항공 분야의 기술 변화와 관련 논의를 다루는 자리다. 장소는 연세대 백양누리관이며, 일정은 사흘간 이어진다. 대학 연구기관이 주관하는 행사인 만큼 우주항공 전략과 기술 발전 흐름을 공유하는 계기가 될 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Yonsei Space and Aerospace Week Opens on the 13th, Spotlighting Space Tech in the AI Era",
+        "excerpt": "Yonsei University’s Aerospace Strategy & Technology Institute will host Space and Aerospace Week from the 13th to the 15th at Baekyangnuri Grand Ballroom to discuss space technology in the AI era.",
+        "body": "Yonsei University’s Aerospace Strategy & Technology Institute (ASTI) will hold Space and Aerospace Week from the 13th to the 15th at the Baekyangnuri Grand Ballroom on the Yonsei University campus. The event will focus on the development of space technology in the AI era, covering discussions related to technological changes in the space and aerospace sector. The venue is Yonsei’s Baekyangnuri Hall, and the program will run for three days. As an event organized by a university research institute, it is expected to serve as an opportunity to share trends in aerospace strategy and technology development. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "延世大の宇宙航空週間が13日開幕、AI時代の宇宙技術発展を重点議論",
+        "excerpt": "延世大学航空宇宙戦略研究院は13日から15日まで白楊ヌリ・グランドボールルームで宇宙航空週間を開き、AI時代の宇宙技術発展を扱う。",
+        "body": "延世大学航空宇宙戦略研究院（ASTI）は13日から15日まで、延世大学白楊ヌリ・グランドボールルームで宇宙航空週間の行事を開催する。今回の行事は「AI時代の宇宙技術発展」を主要議題とし、宇宙航空分野の技術変化と関連する議論を扱う場となる。会場は延世大学の白楊ヌリ館で、日程は3日間続く。大学の研究機関が主催する行事として、宇宙航空戦略と技術発展の流れを共有する機会になるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "延世大学宇宙航空周13日开幕，聚焦AI时代宇宙技术发展",
+        "excerpt": "延世大学航空宇宙战略研究院将于13日至15日在白杨路里大宴会厅举办宇宙航空周，讨论AI时代宇宙技术发展。",
+        "body": "延世大学航空宇宙战略研究院（ASTI）将于13日至15日在延世大学白杨路里大宴会厅举办宇宙航空周活动。本次活动以“AI时代宇宙技术发展”为主要议题，围绕宇宙航空领域的技术变化和相关讨论展开。活动地点为延世大学白杨路里馆，日程持续三天。作为由大学研究机构主办的活动，该活动预计将成为分享宇宙航空战略和技术发展趋势的机会。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Yonsei inaugura la Semana Aeroespacial el día 13 con foco en tecnología espacial e IA",
+        "excerpt": "El Instituto de Estrategia Aeroespacial de la Universidad Yonsei celebrará del 13 al 15 la Semana Aeroespacial en Baekyangnuri para tratar el desarrollo de la tecnología espacial en la era de la IA.",
+        "body": "El Instituto de Estrategia y Tecnología Aeroespacial de la Universidad Yonsei (ASTI) celebrará del 13 al 15 la Semana Aeroespacial en el Grand Ballroom de Baekyangnuri, dentro de la universidad. El encuentro tendrá como eje el desarrollo de la tecnología espacial en la era de la IA y abordará los cambios tecnológicos y los debates vinculados al sector espacial y aeroespacial. La sede será el edificio Baekyangnuri de Yonsei y el programa se extenderá durante tres días. Al estar organizado por un instituto universitario de investigación, se perfila como una ocasión para compartir tendencias de estrategia aeroespacial y avance tecnológico. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Yonsei abre Semana Aeroespacial no dia 13 com foco em tecnologia espacial na era da IA",
+        "excerpt": "O Instituto de Estratégia Aeroespacial da Universidade Yonsei realizará, de 13 a 15, a Semana Aeroespacial no Baekyangnuri Grand Ballroom para discutir tecnologia espacial na era da IA.",
+        "body": "O Instituto de Estratégia e Tecnologia Aeroespacial da Universidade Yonsei (ASTI) realizará, de 13 a 15, a Semana Aeroespacial no Baekyangnuri Grand Ballroom, no campus da universidade. O evento terá como tema central o desenvolvimento da tecnologia espacial na era da IA e tratará de mudanças tecnológicas e debates ligados ao setor espacial e aeroespacial. O local será o prédio Baekyangnuri da Yonsei, com programação ao longo de três dias. Por ser organizado por um instituto de pesquisa universitário, o encontro deve servir como oportunidade para compartilhar tendências de estratégia aeroespacial e desenvolvimento tecnológico. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Yonsei eröffnet Raumfahrtwoche am 13. und rückt Weltraumtechnik im KI-Zeitalter in den Fokus",
+        "excerpt": "Das Aerospace Strategy & Technology Institute der Yonsei University veranstaltet vom 13. bis 15. im Baekyangnuri Grand Ballroom eine Raumfahrtwoche zur Entwicklung von Weltraumtechnik im KI-Zeitalter.",
+        "body": "Das Aerospace Strategy & Technology Institute (ASTI) der Yonsei University veranstaltet vom 13. bis 15. im Baekyangnuri Grand Ballroom der Universität eine Raumfahrtwoche. Im Mittelpunkt steht die Entwicklung von Weltraumtechnik im KI-Zeitalter; behandelt werden technologische Veränderungen und damit verbundene Diskussionen im Raumfahrt- und Aerospace-Bereich. Austragungsort ist die Baekyangnuri Hall der Yonsei University, das Programm läuft über drei Tage. Als Veranstaltung eines universitären Forschungsinstituts dürfte sie Gelegenheit bieten, Trends in Raumfahrtstrategie und technologischer Entwicklung zu teilen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Yonsei ouvre sa Semaine aérospatiale le 13, centrée sur la technologie spatiale à l’ère de l’IA",
+        "excerpt": "L’Institut de stratégie aérospatiale de l’Université Yonsei organisera du 13 au 15 la Semaine aérospatiale au Baekyangnuri Grand Ballroom pour traiter du développement des technologies spatiales à l’ère de l’IA.",
+        "body": "L’Institut de stratégie et de technologie aérospatiales de l’Université Yonsei (ASTI) organisera du 13 au 15 la Semaine aérospatiale dans le Grand Ballroom de Baekyangnuri, sur le campus de Yonsei. L’événement aura pour thème principal le développement des technologies spatiales à l’ère de l’IA et abordera les changements technologiques ainsi que les discussions liées au secteur spatial et aérospatial. Le lieu retenu est le bâtiment Baekyangnuri de Yonsei, avec un programme sur trois jours. Organisé par un institut de recherche universitaire, il devrait offrir une occasion de partager les tendances en stratégie aérospatiale et en développement technologique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جامعة يونسي تفتتح أسبوع الفضاء والطيران في 13 مع تركيز على تقنيات الفضاء بعصر الذكاء الاصطناعي",
+        "excerpt": "ينظم معهد استراتيجية الفضاء والطيران في جامعة يونسي أسبوع الفضاء والطيران من 13 إلى 15 في قاعة بايكيانغنوري الكبرى لبحث تطور تقنيات الفضاء في عصر الذكاء الاصطناعي.",
+        "body": "ينظم معهد استراتيجية وتقنية الفضاء والطيران في جامعة يونسي (ASTI) أسبوع الفضاء والطيران من 13 إلى 15 في قاعة بايكيانغنوري الكبرى داخل الجامعة. يركز الحدث على تطور تقنيات الفضاء في عصر الذكاء الاصطناعي، ويتناول التغيرات التقنية والنقاشات المرتبطة بقطاع الفضاء والطيران. ويقام البرنامج في مبنى بايكيانغنوري بجامعة يونسي على مدى ثلاثة أيام. وبصفته فعالية تنظمها مؤسسة بحثية جامعية، فمن المتوقع أن يوفر مناسبة لتبادل الاتجاهات المتعلقة باستراتيجية الفضاء والطيران وتطور التكنولوجيا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "योनसेई का स्पेस-एयरोस्पेस वीक 13 से, AI युग की अंतरिक्ष तकनीक पर मुख्य चर्चा",
+        "excerpt": "योनसेई विश्वविद्यालय का एयरोस्पेस स्ट्रैटेजी रिसर्च इंस्टीट्यूट 13 से 15 तक बैकयांगनुरी ग्रैंड बॉलरूम में स्पेस-एयरोस्पेस वीक आयोजित करेगा, जहां AI युग की अंतरिक्ष तकनीक पर चर्चा होगी।",
+        "body": "योनसेई विश्वविद्यालय का एयरोस्पेस स्ट्रैटेजी एंड टेक्नोलॉजी इंस्टीट्यूट (ASTI) 13 से 15 तक योनसेई विश्वविद्यालय के बैकयांगनुरी ग्रैंड बॉलरूम में स्पेस-एयरोस्पेस वीक आयोजित करेगा। इस कार्यक्रम का मुख्य विषय AI युग में अंतरिक्ष तकनीक का विकास है, जिसमें अंतरिक्ष और एयरोस्पेस क्षेत्र में तकनीकी बदलावों और संबंधित चर्चाओं को शामिल किया जाएगा। आयोजन स्थल योनसेई का बैकयांगनुरी भवन है और कार्यक्रम तीन दिनों तक चलेगा। विश्वविद्यालय के शोध संस्थान द्वारा आयोजित यह कार्यक्रम एयरोस्पेस रणनीति और तकनीकी विकास की प्रवृत्तियों को साझा करने का अवसर माना जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Yonsei Gelar Pekan Antariksa pada 13, Soroti Teknologi Ruang Angkasa di Era AI",
+        "excerpt": "Institut Strategi Dirgantara Universitas Yonsei akan menggelar Pekan Antariksa pada 13-15 di Baekyangnuri Grand Ballroom untuk membahas perkembangan teknologi ruang angkasa di era AI.",
+        "body": "Institut Strategi dan Teknologi Dirgantara Universitas Yonsei (ASTI) akan menggelar Pekan Antariksa dan Dirgantara pada 13-15 di Baekyangnuri Grand Ballroom, Universitas Yonsei. Acara ini mengangkat pengembangan teknologi ruang angkasa di era AI sebagai agenda utama, dengan pembahasan mengenai perubahan teknologi dan isu terkait di sektor antariksa serta dirgantara. Lokasinya berada di gedung Baekyangnuri Yonsei dan berlangsung selama tiga hari. Sebagai kegiatan yang diselenggarakan lembaga riset universitas, acara ini diperkirakan menjadi kesempatan untuk berbagi tren strategi dirgantara dan perkembangan teknologi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f0a06db43659",
+    "slug": "트럼프-만나야-해보석-중인-전광훈-미국방문-추진-323664",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T06:48:19.728Z",
+    "updatedAt": "2026-05-10T06:48:19.728Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042551",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042551",
+    "titleFingerprint": "f6c34850acd902fe514c9a193b99d1e98a14e3f4",
+    "dedupKeys": [
+      "f0a06db43659ea3bbda878522924574feced55a2",
+      "f6c34850acd902fe514c9a193b99d1e98a14e3f4",
+      "3663268352f9ae3be53a336ecd61e193839acc3d"
+    ],
+    "imageUrl": "/images/articles/f0a06db43659.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전광훈 미국 방문 추진 논란…보석 중 “트럼프 만나야 해” 발언",
+        "excerpt": "지병을 이유로 보석 석방된 전광훈 사랑제일교회 목사가 10일 광화문광장 예배에 화상으로 등장해 미국 방문 추진 의사를 밝혀 논란이 일고 있다.",
+        "body": "지병을 이유로 보석 석방된 전광훈 사랑제일교회 목사가 미국 방문을 추진한다고 밝혀 논란이 일고 있다. 10일 연합뉴스 보도를 인용한 mk.co.kr에 따르면 전 목사는 이날 서울 광화문광장에서 열린 예배에 화상으로 등장해 “트럼프 만나야 해”라는 취지로 발언하며 미국 방문 의사를 드러냈다. 전 목사는 현재 보석 상태로 알려져 있으며, 이번 발언은 보석 석방 사유와 해외 방문 추진이 맞물리면서 주목을 받고 있다. 향후 실제 방문 추진 여부와 관련 절차가 쟁점이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Jeon Kwang-hoon Sparks Debate With U.S. Visit Plan While on Bail",
+        "excerpt": "Pastor Jeon Kwang-hoon, released on bail due to a chronic illness, appeared by video at a Gwanghwamun service on the 10th and said he was pursuing a U.S. visit.",
+        "body": "Pastor Jeon Kwang-hoon of Sarang Jeil Church, who was released on bail citing a chronic illness, has drawn controversy after saying he is seeking to visit the United States. According to mk.co.kr, citing Yonhap News on the 10th, Jeon appeared by video during a worship service held at Seoul’s Gwanghwamun Square and expressed his intention to travel to the U.S., saying in effect that he “must meet Trump.” Jeon is currently known to be on bail, and the remarks are drawing attention because the stated reason for his release and the planned overseas visit overlap. Whether the trip proceeds and what procedures follow are expected to become key issues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "保釈中の全光焄氏、米国訪問推進で波紋「トランプ氏に会う」",
+        "excerpt": "持病を理由に保釈された愛第一教会の全光焄牧師が10日、光化門広場の礼拝に映像で登場し、米国訪問を進める考えを示して議論を呼んでいる。",
+        "body": "持病を理由に保釈された愛第一教会の全光焄牧師が、米国訪問を推進すると明らかにし、波紋が広がっている。mk.co.krが10日に聯合ニュースを引用して報じたところによると、全牧師は同日、ソウル・光化門広場で開かれた礼拝に映像で登場し、「トランプ氏に会わなければならない」という趣旨で発言し、米国訪問の意思を示した。全牧師は現在、保釈中とされており、保釈の理由と海外訪問の推進が重なったことで注目されている。今後、実際に訪問が進むかどうかや関連手続きが争点になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "全光焄保释期间拟访美引争议，称“必须见特朗普”",
+        "excerpt": "因疾病获准保释的爱第一教会牧师全光焄10日通过视频出现在光化门广场礼拜中，表示正推动访问美国，引发争议。",
+        "body": "因疾病原因获准保释的爱第一教会牧师全光焄表示正在推动访问美国，引发争议。据mk.co.kr援引韩联社10日报道，全牧师当天通过视频出现在首尔光化门广场举行的礼拜中，并以“必须见特朗普”的意思表达了赴美意向。全牧师目前被认为处于保释状态，因此其保释理由与推动海外访问同时出现，受到关注。今后，实际访问是否推进以及相关程序如何处理，预计将成为争议焦点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jeon Kwang-hoon busca viajar a EE. UU. estando en libertad bajo fianza",
+        "excerpt": "El pastor Jeon Kwang-hoon, liberado bajo fianza por una enfermedad crónica, apareció por video el día 10 en un culto en Gwanghwamun y dijo que impulsa una visita a EE. UU.",
+        "body": "El pastor Jeon Kwang-hoon, de la iglesia Sarang Jeil, liberado bajo fianza alegando una enfermedad crónica, generó controversia al afirmar que busca visitar Estados Unidos. Según mk.co.kr, citando a Yonhap News el día 10, Jeon apareció por video durante un culto celebrado en la plaza Gwanghwamun de Seúl y expresó su intención de viajar a EE. UU. con una frase en el sentido de que “debe reunirse con Trump”. Jeon se encuentra actualmente bajo fianza, y sus declaraciones llaman la atención porque coinciden la razón de su liberación y el impulso de un viaje al extranjero. Se espera que el avance real del viaje y los procedimientos relacionados sean el foco del debate. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jeon Kwang-hoon quer visitar os EUA sob fiança e gera controvérsia",
+        "excerpt": "O pastor Jeon Kwang-hoon, libertado sob fiança por doença crônica, apareceu por vídeo no dia 10 em um culto em Gwanghwamun e disse que pretende visitar os EUA.",
+        "body": "O pastor Jeon Kwang-hoon, da Igreja Sarang Jeil, libertado sob fiança alegando doença crônica, causou controvérsia ao afirmar que pretende visitar os Estados Unidos. Segundo o mk.co.kr, citando a Yonhap News no dia 10, Jeon apareceu por vídeo durante um culto realizado na Praça Gwanghwamun, em Seul, e expressou sua intenção de viajar aos EUA, dizendo em essência que “precisa encontrar Trump”. Jeon é atualmente conhecido por estar em liberdade sob fiança, e a fala chama atenção porque a razão da libertação e a tentativa de viagem ao exterior se cruzam. A efetiva realização da visita e os procedimentos relacionados devem se tornar pontos de debate. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jeon Kwang-hoon plant USA-Besuch auf Kaution und sorgt für Streit",
+        "excerpt": "Pastor Jeon Kwang-hoon, wegen einer chronischen Krankheit gegen Kaution freigelassen, erschien am 10. per Video bei einem Gottesdienst in Gwanghwamun und sprach von einem USA-Besuch.",
+        "body": "Pastor Jeon Kwang-hoon von der Sarang-Jeil-Kirche, der wegen einer chronischen Krankheit gegen Kaution freigelassen wurde, sorgt mit der Aussage für Kontroversen, er wolle in die USA reisen. Wie mk.co.kr unter Berufung auf Yonhap News am 10. berichtete, erschien Jeon per Video bei einem Gottesdienst auf dem Gwanghwamun-Platz in Seoul und äußerte seine Absicht, die Vereinigten Staaten zu besuchen, sinngemäß mit den Worten, er müsse „Trump treffen“. Jeon gilt derzeit als auf Kaution frei. Die Äußerung erhält Aufmerksamkeit, weil der Grund seiner Freilassung und der geplante Auslandsbesuch zusammenfallen. Ob der Besuch tatsächlich vorangetrieben wird und welche Verfahren folgen, dürfte zum Streitpunkt werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Jeon Kwang-hoon veut aller aux États-Unis malgré sa libération sous caution",
+        "excerpt": "Le pasteur Jeon Kwang-hoon, libéré sous caution pour maladie chronique, est apparu en vidéo le 10 lors d’un culte à Gwanghwamun et a dit préparer une visite aux États-Unis.",
+        "body": "Le pasteur Jeon Kwang-hoon, de l’église Sarang Jeil, libéré sous caution en raison d’une maladie chronique, suscite la controverse après avoir déclaré qu’il cherchait à se rendre aux États-Unis. Selon mk.co.kr, citant Yonhap News le 10, Jeon est apparu en vidéo lors d’un culte organisé sur la place Gwanghwamun à Séoul et a exprimé son intention de visiter les États-Unis, avec des propos signifiant qu’il « doit rencontrer Trump ». Jeon est actuellement connu comme étant en liberté sous caution, et cette déclaration attire l’attention car le motif de sa libération et le projet de voyage à l’étranger se recoupent. La réalisation effective du voyage et les procédures liées devraient devenir des points de débat. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جون كوانغ هون يعتزم زيارة أميركا وهو بكفالة ويثير الجدل",
+        "excerpt": "القس جون كوانغ هون، الذي أفرج عنه بكفالة بسبب مرض مزمن، ظهر عبر الفيديو في قداس بساحة غوانغهوامون يوم 10 وأعلن أنه يسعى لزيارة الولايات المتحدة.",
+        "body": "أثار القس جون كوانغ هون من كنيسة سارانغ جيل الجدل بعدما قال إنه يسعى لزيارة الولايات المتحدة، رغم أنه أفرج عنه بكفالة بسبب مرض مزمن. وبحسب mk.co.kr نقلا عن وكالة يونهاب في 10 من الشهر، ظهر جون عبر الفيديو خلال قداس أقيم في ساحة غوانغهوامون في سيول، وعبّر عن نيته زيارة الولايات المتحدة قائلا بمعنى إنه «يجب أن يلتقي ترامب». ويُعرف أن جون حاليا في حالة إفراج بكفالة، لذلك لفتت تصريحاته الانتباه لتزامن سبب الإفراج مع السعي إلى زيارة خارجية. ومن المتوقع أن تصبح مسألة تنفيذ الزيارة فعليا والإجراءات المرتبطة بها محور نقاش لاحق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "जमानत पर रिहा जियोन क्वांग-हून की अमेरिका यात्रा योजना से विवाद",
+        "excerpt": "पुरानी बीमारी के आधार पर जमानत पर रिहा पादरी जियोन क्वांग-हून 10 तारीख को ग्वांगह्वामुन की प्रार्थना सभा में वीडियो से शामिल हुए और अमेरिका यात्रा की बात कही।",
+        "body": "पुरानी बीमारी का हवाला देकर जमानत पर रिहा हुए सारंग जईल चर्च के पादरी जियोन क्वांग-हून ने कहा कि वह अमेरिका जाने की कोशिश कर रहे हैं, जिससे विवाद खड़ा हो गया है। mk.co.kr ने 10 तारीख को योनहाप न्यूज के हवाले से बताया कि जियोन सियोल के ग्वांगह्वामुन स्क्वायर में आयोजित प्रार्थना सभा में वीडियो के माध्यम से शामिल हुए और इस आशय की बात कही कि उन्हें “ट्रंप से मिलना है”, साथ ही अमेरिका यात्रा की इच्छा जताई। जियोन फिलहाल जमानत पर बताए जाते हैं, इसलिए उनकी रिहाई के कारण और विदेश यात्रा की योजना साथ आने से मामला ध्यान खींच रहा है। आगे वास्तविक यात्रा और संबंधित प्रक्रियाएं प्रमुख मुद्दा बन सकती हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jeon Kwang-hoon Dorong Kunjungan AS Saat Berstatus Jaminan",
+        "excerpt": "Pendeta Jeon Kwang-hoon, yang dibebaskan dengan jaminan karena penyakit kronis, muncul lewat video dalam ibadah di Gwanghwamun pada tanggal 10 dan menyatakan rencana ke AS.",
+        "body": "Pendeta Jeon Kwang-hoon dari Gereja Sarang Jeil, yang dibebaskan dengan jaminan karena alasan penyakit kronis, menuai kontroversi setelah menyatakan bahwa ia sedang mendorong kunjungan ke Amerika Serikat. Menurut mk.co.kr yang mengutip Yonhap News pada tanggal 10, Jeon muncul melalui video dalam ibadah yang digelar di Lapangan Gwanghwamun, Seoul, dan menyampaikan niatnya ke AS dengan pernyataan bernada bahwa ia “harus bertemu Trump”. Jeon diketahui saat ini berstatus jaminan, sehingga pernyataan tersebut menarik perhatian karena alasan pembebasan dan rencana perjalanan luar negeri saling berkaitan. Ke depan, apakah kunjungan itu benar-benar diproses dan bagaimana prosedurnya diperkirakan menjadi isu utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "54f437f23585",
+    "slug": "21년간-노무현-전-대통령-수행-盧의-운전사-최영-씨-별세-779640",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T06:47:17.956Z",
+    "updatedAt": "2026-05-10T06:47:17.956Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042552",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042552",
+    "titleFingerprint": "9726362631889f158b22be7e2028de8da212007f",
+    "dedupKeys": [
+      "54f437f235852f92b2270bed4fe5483b0187b41e",
+      "9726362631889f158b22be7e2028de8da212007f",
+      "3c24d31790f16d3f403a8551516fdae7a13c3566"
+    ],
+    "imageUrl": "/images/articles/54f437f23585.png",
+    "i18n": {
+      "ko": {
+        "title": "노무현 전 대통령 21년 수행한 ‘운전사’ 최영 씨 별세",
+        "excerpt": "1988년부터 2009년까지 21년간 노무현 전 대통령의 차량을 운전한 수행비서 최영 씨가 10일 오전 서울 국립중앙의료원에서 별세했다.",
+        "body": "노무현 전 대통령을 21년간 수행하며 차량을 운전한 최영 씨가 10일 오전 5시 24분쯤 서울 국립중앙의료원에서 세상을 떠났다. 최 씨는 1988년부터 2009년까지 노무현 전 대통령의 차를 운전한 수행비서로 알려졌다. 노 전 대통령은 1946년 태어나 2009년 별세했다. 최 씨의 별세 소식은 노 전 대통령과 오랜 기간 함께한 수행 인물의 부고라는 점에서 주목된다. 관련 내용은 mk.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "Choi Young, Roh Moo-hyun’s Driver and Aide for 21 Years, Dies",
+        "excerpt": "Choi Young, the aide who drove former South Korean President Roh Moo-hyun from 1988 to 2009, died at Seoul’s National Medical Center at around 5:24 a.m. on the 10th.",
+        "body": "Choi Young, who served former South Korean President Roh Moo-hyun for 21 years as the driver of his car, died at around 5:24 a.m. on the 10th at the National Medical Center in Seoul. Choi was known as an aide who drove Roh’s vehicle from 1988 to 2009. Roh Moo-hyun was born in 1946 and died in 2009. The news draws attention as the obituary of a longtime aide who accompanied the former president over many years. This report cites mk.co.kr."
+      },
+      "ja": {
+        "title": "盧武鉉元大統領を21年間支えた運転手、崔永さん死去",
+        "excerpt": "1988年から2009年まで21年間、盧武鉉元大統領の車を運転した随行秘書の崔永さんが、10日午前にソウル国立中央医療院で死去した。",
+        "body": "盧武鉉元大統領に21年間随行し、車を運転していた崔永さんが、10日午前5時24分ごろ、ソウルの国立中央医療院で亡くなった。崔さんは1988年から2009年まで、盧元大統領の車を運転した随行秘書として知られている。盧元大統領は1946年に生まれ、2009年に死去した。長年にわたり元大統領と行動を共にした人物の訃報として注目される。内容はmk.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "陪伴卢武铉前总统21年的司机崔永去世",
+        "excerpt": "1988年至2009年间为卢武铉前总统驾车、担任随行秘书的崔永，于10日上午在首尔国立中央医疗院去世。",
+        "body": "为卢武铉前总统随行21年并负责驾车的崔永，于10日上午5时24分左右在首尔国立中央医疗院去世。崔永以1988年至2009年间驾驶卢武铉前总统车辆的随行秘书身份为人所知。卢武铉前总统生于1946年，2009年去世。此次消息因其是长期陪伴前总统的人物讣闻而受到关注。相关内容引自mk.co.kr报道。"
+      },
+      "es": {
+        "title": "Muere Choi Young, conductor de Roh Moo-hyun durante 21 años",
+        "excerpt": "Choi Young, asistente que condujo el vehículo del expresidente surcoreano Roh Moo-hyun entre 1988 y 2009, murió el día 10 por la mañana en Seúl.",
+        "body": "Choi Young, quien acompañó durante 21 años al expresidente surcoreano Roh Moo-hyun y condujo su vehículo, murió alrededor de las 5:24 de la mañana del día 10 en el Centro Médico Nacional de Seúl. Choi era conocido como asistente encargado de conducir el coche de Roh entre 1988 y 2009. Roh Moo-hyun nació en 1946 y falleció en 2009. La noticia destaca por tratarse del fallecimiento de una persona que estuvo junto al expresidente durante un largo periodo. La información cita a mk.co.kr."
+      },
+      "pt": {
+        "title": "Morre Choi Young, motorista de Roh Moo-hyun por 21 anos",
+        "excerpt": "Choi Young, assessor que dirigiu o carro do ex-presidente sul-coreano Roh Moo-hyun de 1988 a 2009, morreu na manhã do dia 10 em Seul.",
+        "body": "Choi Young, que acompanhou o ex-presidente sul-coreano Roh Moo-hyun por 21 anos e dirigiu seu carro, morreu por volta das 5h24 da manhã do dia 10 no Centro Médico Nacional, em Seul. Choi era conhecido como assessor que conduziu o veículo de Roh de 1988 a 2009. Roh Moo-hyun nasceu em 1946 e morreu em 2009. A notícia chama atenção por ser o obituário de uma pessoa que esteve ao lado do ex-presidente por muitos anos. O conteúdo cita reportagem do mk.co.kr."
+      },
+      "de": {
+        "title": "Choi Young, 21 Jahre Fahrer von Roh Moo-hyun, ist gestorben",
+        "excerpt": "Choi Young, der von 1988 bis 2009 als Begleiter das Auto des früheren südkoreanischen Präsidenten Roh Moo-hyun fuhr, starb am Morgen des 10. in Seoul.",
+        "body": "Choi Young, der den früheren südkoreanischen Präsidenten Roh Moo-hyun 21 Jahre lang begleitete und dessen Auto fuhr, ist am 10. gegen 5:24 Uhr im National Medical Center in Seoul gestorben. Choi war als Begleitsekretär bekannt, der von 1988 bis 2009 Rohs Wagen fuhr. Roh Moo-hyun wurde 1946 geboren und starb 2009. Die Nachricht findet Beachtung, weil es sich um den Tod einer Person handelt, die den früheren Präsidenten über lange Zeit begleitete. Grundlage ist ein Bericht von mk.co.kr."
+      },
+      "fr": {
+        "title": "Choi Young, chauffeur de Roh Moo-hyun pendant 21 ans, est mort",
+        "excerpt": "Choi Young, assistant qui a conduit la voiture de l’ancien président sud-coréen Roh Moo-hyun de 1988 à 2009, est mort le matin du 10 à Séoul.",
+        "body": "Choi Young, qui a accompagné pendant 21 ans l’ancien président sud-coréen Roh Moo-hyun en conduisant sa voiture, est mort vers 5 h 24 le matin du 10 au Centre médical national de Séoul. Il était connu comme secrétaire accompagnateur chargé de conduire le véhicule de Roh de 1988 à 2009. Roh Moo-hyun est né en 1946 et est décédé en 2009. Cette annonce retient l’attention car elle concerne une personne restée longtemps aux côtés de l’ancien président. Le contenu cite mk.co.kr."
+      },
+      "ar": {
+        "title": "وفاة تشوي يونغ سائق روه مو هيون ومرافقه طوال 21 عاما",
+        "excerpt": "توفي تشوي يونغ، المرافق الذي قاد سيارة الرئيس الكوري الجنوبي الأسبق روه مو هيون من 1988 إلى 2009، صباح يوم 10 في المركز الطبي الوطني بسيول.",
+        "body": "توفي تشوي يونغ، الذي رافق الرئيس الكوري الجنوبي الأسبق روه مو هيون لمدة 21 عاما وقاد سيارته، نحو الساعة 5:24 صباح يوم 10 في المركز الطبي الوطني في سيول. وكان تشوي معروفا كمرافق وسكرتير تولى قيادة سيارة روه من عام 1988 إلى عام 2009. وولد روه مو هيون عام 1946 وتوفي عام 2009. وتحظى الوفاة بالاهتمام لأنها تخص شخصية لازمت الرئيس الأسبق لفترة طويلة. يستند هذا النص إلى تقرير mk.co.kr."
+      },
+      "hi": {
+        "title": "रोह मू-ह्युन के 21 साल तक चालक रहे चोई यंग का निधन",
+        "excerpt": "1988 से 2009 तक दक्षिण कोरिया के पूर्व राष्ट्रपति रोह मू-ह्युन की कार चलाने वाले सहयोगी चोई यंग का 10 तारीख की सुबह सियोल में निधन हो गया।",
+        "body": "दक्षिण कोरिया के पूर्व राष्ट्रपति रोह मू-ह्युन के साथ 21 वर्षों तक रहे और उनकी कार चलाने वाले चोई यंग का 10 तारीख की सुबह करीब 5:24 बजे सियोल के नेशनल मेडिकल सेंटर में निधन हो गया। चोई 1988 से 2009 तक रोह मू-ह्युन की कार चलाने वाले सहयोगी सचिव के रूप में जाने जाते थे। रोह मू-ह्युन का जन्म 1946 में हुआ था और 2009 में उनका निधन हुआ। यह खबर इसलिए ध्यान खींचती है क्योंकि यह लंबे समय तक पूर्व राष्ट्रपति के साथ रहे व्यक्ति का निधन है। जानकारी mk.co.kr की रिपोर्ट पर आधारित है।"
+      },
+      "id": {
+        "title": "Choi Young, Sopir Roh Moo-hyun Selama 21 Tahun, Meninggal",
+        "excerpt": "Choi Young, ajudan yang mengemudikan mobil mantan Presiden Korea Selatan Roh Moo-hyun dari 1988 hingga 2009, meninggal pagi tanggal 10 di Seoul.",
+        "body": "Choi Young, yang mendampingi mantan Presiden Korea Selatan Roh Moo-hyun selama 21 tahun sekaligus mengemudikan mobilnya, meninggal sekitar pukul 05.24 pagi tanggal 10 di National Medical Center, Seoul. Choi dikenal sebagai sekretaris pendamping yang mengemudikan kendaraan Roh dari 1988 hingga 2009. Roh Moo-hyun lahir pada 1946 dan meninggal pada 2009. Kabar ini menjadi perhatian karena merupakan berita duka tentang sosok yang lama berada bersama mantan presiden tersebut. Isi ini mengutip laporan mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "65023bdce727",
     "slug": "옆차-문콕할까봐만취상태로-3m-이동주차한-20대-선고유예-왜-502697",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Yonhap Rilis Headline 10:30, Detail Sumber dan Ringkasan Dikonfirmasi",
         "excerpt": "Yonhap merilis item “headline saat ini” pada 10:30. Teks sumber yang diberikan memuat judul dan ringkasan yang sama, tanpa rincian berita tambahan.",
         "body": "Yonhap News merilis pada 10:30 sebuah item berjudul “[Headline Yonhap Saat Ini] - 10:30”, yang ditampilkan sebagai rangkuman berita pada waktu tersebut. Dalam materi sumber yang diberikan, judul dan ringkasannya memakai rumusan yang sama. Tidak ada daftar artikel terpisah, detail peristiwa, angka terkait, tokoh, atau lokasi yang disertakan. Karena itu, informasi yang dapat diverifikasi dalam artikel ini terbatas pada format laporan, waktu yang tercantum, dan sumbernya. Pembaca yang ingin mengetahui headline spesifik serta isi lengkap tiap berita perlu memeriksa sumber asli. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9e0f8fca0cce",
-    "slug": "울진-택시요금-인상기본료-4천4천500원-조정-886837",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T19:02:52.463Z",
-    "updatedAt": "2026-05-09T19:02:52.463Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
-    "titleFingerprint": "8e514c7105a7780dda5397ca29a7c43db606fb1a",
-    "dedupKeys": [
-      "9e0f8fca0cce7ff3112ef4b55c00648bac41991b",
-      "8e514c7105a7780dda5397ca29a7c43db606fb1a",
-      "6e58a0a65e24ba440819721883f66a1876b2ac2e"
-    ],
-    "imageUrl": "/images/articles/9e0f8fca0cce.jpg",
-    "i18n": {
-      "ko": {
-        "title": "울진 택시요금 19일부터 인상, 기본료 4천원에서 4천500원으로 조정",
-        "excerpt": "경북 울진군은 9일 택시 요금 인상 방침을 밝히고, 오는 19일부터 기본요금을 4천원에서 4천500원으로 조정한다고 밝혔다.",
-        "body": "경북 울진군은 오는 19일부터 지역 택시 요금을 인상한다고 9일 밝혔다. 이번 조정에 따라 택시 기본요금은 기존 4천원에서 4천500원으로 오른다. 요금 인상은 울진군이 발표한 택시요금 조정 내용에 따른 것으로, 적용 시점은 19일부터다. 지역 주민과 울진을 찾는 이용객은 택시 이용 시 변경된 기본요금을 적용받게 된다. 울진군은 인상 사실과 시행일을 공지했으며, 구체적인 추가 요금 체계와 세부 조정 내용은 원문에 언급되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Uljin Taxi Fare to Rise From May 19, Base Rate Set at 4,500 Won",
-        "excerpt": "Uljin County in North Gyeongsang Province said on May 9 that taxi fares will rise from May 19, with the base fare adjusted from 4,000 won to 4,500 won.",
-        "body": "Uljin County in North Gyeongsang Province announced on May 9 that local taxi fares will increase from May 19. Under the adjustment, the taxi base fare will rise from the current 4,000 won to 4,500 won. The change follows the fare revision announced by Uljin County, with the new rate taking effect on May 19. Local residents and visitors using taxis in Uljin will be charged the revised base fare from that date. The county disclosed the increase and its implementation date, while the original report did not mention further details on additional fare structures or other adjustments. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "蔚珍のタクシー料金、19日から値上げ 基本料金4,500ウォンに調整",
-        "excerpt": "慶尚北道蔚珍郡は9日、19日からタクシー料金を引き上げ、基本料金を4,000ウォンから4,500ウォンに調整すると発表した。",
-        "body": "慶尚北道蔚珍郡は9日、地域のタクシー料金を19日から引き上げると発表した。今回の調整により、タクシーの基本料金は従来の4,000ウォンから4,500ウォンに上がる。料金改定は蔚珍郡が明らかにしたタクシー料金調整の内容に基づくもので、適用開始日は19日となる。地域住民や蔚珍を訪れる利用者は、タクシー利用時に変更後の基本料金を適用される。蔚珍郡は値上げの事実と施行日を公表したが、追加料金体系や細部の調整内容は原文では言及されていない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "蔚珍出租车费19日起上调，起步价由4000韩元调至4500韩元",
-        "excerpt": "庆尚北道蔚珍郡9日表示，将从19日起上调出租车费用，起步价由4000韩元调整为4500韩元。",
-        "body": "庆尚北道蔚珍郡9日表示，当地出租车费用将从19日起上调。根据此次调整，出租车起步价将由现行4000韩元提高至4500韩元。此次涨价依据蔚珍郡公布的出租车费用调整内容执行，适用时间为19日起。当地居民以及到访蔚珍的乘客在使用出租车时，将适用变更后的起步价。蔚珍郡已公布费用上调事实和施行日期，原文未提及追加收费体系或其他具体调整内容。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Uljin subirá la tarifa de taxi desde el día 19: bajada de bandera a 4.500 wones",
-        "excerpt": "El condado de Uljin, en Gyeongsang del Norte, informó el día 9 que elevará las tarifas de taxi desde el 19, con la tarifa básica de 4.000 a 4.500 wones.",
-        "body": "El condado de Uljin, en la provincia surcoreana de Gyeongsang del Norte, anunció el día 9 que aumentará las tarifas locales de taxi a partir del día 19. Con este ajuste, la tarifa básica pasará de los actuales 4.000 wones a 4.500 wones. La subida corresponde a la revisión de tarifas comunicada por el condado de Uljin y comenzará a aplicarse el día 19. Los residentes y visitantes que utilicen taxis en Uljin pagarán la nueva tarifa básica desde esa fecha. El condado informó del aumento y de su fecha de aplicación; el texto original no menciona detalles sobre cargos adicionales u otros ajustes. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Uljin aumenta tarifa de táxi no dia 19, com preço básico a 4.500 won",
-        "excerpt": "O condado de Uljin, em Gyeongsang do Norte, informou no dia 9 que elevará as tarifas de táxi a partir do dia 19, de 4.000 para 4.500 won na tarifa básica.",
-        "body": "O condado de Uljin, na província de Gyeongsang do Norte, anunciou no dia 9 que as tarifas locais de táxi serão aumentadas a partir do dia 19. Com o ajuste, a tarifa básica subirá dos atuais 4.000 won para 4.500 won. A mudança segue a revisão tarifária divulgada pelo condado de Uljin, com aplicação prevista para o dia 19. Moradores locais e visitantes que usarem táxis em Uljin passarão a pagar a tarifa básica revisada a partir dessa data. O condado informou o aumento e a data de início; o texto original não menciona detalhes sobre tarifas adicionais ou outros ajustes. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Uljin erhöht Taxitarife ab dem 19.: Grundpreis steigt auf 4.500 Won",
-        "excerpt": "Der Landkreis Uljin in Nord-Gyeongsang teilte am 9. mit, dass die Taxitarife ab dem 19. steigen und der Grundpreis von 4.000 auf 4.500 Won angepasst wird.",
-        "body": "Der Landkreis Uljin in der südkoreanischen Provinz Nord-Gyeongsang gab am 9. bekannt, dass die örtlichen Taxitarife ab dem 19. erhöht werden. Im Zuge der Anpassung steigt der Grundpreis von bisher 4.000 Won auf 4.500 Won. Die Erhöhung folgt der von Uljin veröffentlichten Tarifänderung und gilt ab dem 19. Einwohner der Region sowie Besucher, die in Uljin Taxis nutzen, zahlen ab diesem Datum den geänderten Grundpreis. Der Landkreis nannte die Erhöhung und den Beginn der Anwendung; weitere Einzelheiten zu Zusatzgebühren oder anderen Tarifpunkten werden im Original nicht erwähnt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Uljin relève les tarifs des taxis le 19, prix de base porté à 4 500 wons",
-        "excerpt": "Le comté d’Uljin, dans le Gyeongsang du Nord, a annoncé le 9 que les tarifs des taxis augmenteraient dès le 19, le prix de base passant de 4 000 à 4 500 wons.",
-        "body": "Le comté d’Uljin, dans la province sud-coréenne du Gyeongsang du Nord, a annoncé le 9 une hausse des tarifs locaux des taxis à partir du 19. Avec cet ajustement, le tarif de base passera de 4 000 wons actuellement à 4 500 wons. Cette hausse correspond à la révision tarifaire annoncée par le comté d’Uljin et s’appliquera à compter du 19. Les habitants et les visiteurs utilisant un taxi à Uljin se verront appliquer le nouveau tarif de base à partir de cette date. Le comté a communiqué la hausse et sa date d’entrée en vigueur; le texte original ne précise pas d’autres détails sur les frais additionnels ou les ajustements. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أولجين ترفع أجرة التاكسي من 19 مايو والتعرفة الأساسية إلى 4500 وون",
-        "excerpt": "أعلنت مقاطعة أولجين في إقليم غيونغسانغ الشمالي يوم 9 أن أجور التاكسي سترتفع اعتبارا من 19 مايو، مع تعديل التعرفة الأساسية من 4000 إلى 4500 وون.",
-        "body": "أعلنت مقاطعة أولجين في إقليم غيونغسانغ الشمالي بكوريا الجنوبية يوم 9 أن أجور سيارات التاكسي المحلية سترتفع اعتبارا من 19 مايو. وبموجب هذا التعديل، سترتفع التعرفة الأساسية من 4000 وون حاليا إلى 4500 وون. يأتي رفع الأجرة وفقا لما أعلنته مقاطعة أولجين بشأن تعديل أجور التاكسي، على أن يبدأ التطبيق في 19 مايو. وسيطبق السعر الأساسي الجديد على السكان المحليين والزوار عند استخدام سيارات التاكسي في أولجين من ذلك التاريخ. أعلنت المقاطعة واقعة الزيادة وموعد التنفيذ، ولم يذكر النص الأصلي تفاصيل إضافية عن هيكل الرسوم أو تعديلات أخرى. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "उलजिन में 19 मई से टैक्सी किराया बढ़ेगा, बेस फेयर 4,500 वोन होगा",
-        "excerpt": "उत्तर ग्योंगसांग के उलजिन काउंटी ने 9 मई को कहा कि 19 मई से टैक्सी किराया बढ़ेगा और मूल किराया 4,000 वोन से 4,500 वोन किया जाएगा।",
-        "body": "दक्षिण कोरिया के उत्तर ग्योंगसांग प्रांत के उलजिन काउंटी ने 9 मई को घोषणा की कि स्थानीय टैक्सी किराया 19 मई से बढ़ाया जाएगा। इस बदलाव के तहत टैक्सी का मूल किराया मौजूदा 4,000 वोन से बढ़कर 4,500 वोन हो जाएगा। यह वृद्धि उलजिन काउंटी द्वारा घोषित टैक्सी किराया समायोजन के अनुसार लागू होगी और इसकी प्रभावी तिथि 19 मई है। उलजिन के निवासी और वहां आने वाले यात्री उस दिन से टैक्सी उपयोग पर संशोधित मूल किराया देंगे। काउंटी ने वृद्धि और लागू होने की तारीख बताई है; मूल रिपोर्ट में अतिरिक्त शुल्क ढांचे या अन्य विस्तृत बदलावों का उल्लेख नहीं है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Tarif Taksi Uljin Naik Mulai 19 Mei, Tarif Dasar Jadi 4.500 Won",
-        "excerpt": "Uljin County di Gyeongsang Utara menyatakan pada 9 Mei bahwa tarif taksi akan naik mulai 19 Mei, dengan tarif dasar disesuaikan dari 4.000 menjadi 4.500 won.",
-        "body": "Uljin County di Provinsi Gyeongsang Utara, Korea Selatan, mengumumkan pada 9 Mei bahwa tarif taksi setempat akan naik mulai 19 Mei. Dalam penyesuaian ini, tarif dasar taksi naik dari 4.000 won menjadi 4.500 won. Kenaikan tersebut mengikuti penyesuaian tarif taksi yang diumumkan oleh Uljin County, dengan waktu penerapan mulai 19 Mei. Warga setempat dan pengunjung yang menggunakan taksi di Uljin akan dikenai tarif dasar baru sejak tanggal tersebut. Pemerintah county telah menyampaikan kenaikan dan tanggal berlakunya; laporan asli tidak menyebutkan rincian tentang tarif tambahan atau penyesuaian lain. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9d7da430158f",
-    "slug": "전남도-지역혁신-선도기업-육성사업-국비-71억-확보-678667",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T19:01:55.268Z",
-    "updatedAt": "2026-05-09T19:01:55.268Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
-    "titleFingerprint": "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
-    "dedupKeys": [
-      "9d7da430158f252b49df2b4f0ba8fb0655ed0c72",
-      "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
-      "79eb7626dcc77a8defcd5e21e6ca67ca3d26273f"
-    ],
-    "imageUrl": "/images/articles/9d7da430158f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전남도, 지역혁신 선도기업 육성사업 선정…국비 71억 확보",
-        "excerpt": "전남도는 중소벤처기업부의 2026년 지역혁신선도기업육성 R&D 사업에 선정돼 국비 71억원을 확보했다고 연합뉴스가 보도했다.",
-        "body": "전남도는 중소벤처기업부가 추진하는 ‘2026년 지역혁신선도기업육성(R&D)’ 사업에 선정돼 국비 71억원을 확보했다. 이번 소식은 무안발 연합뉴스 보도로 전해졌으며, 형민우 기자는 전남도가 해당 사업 선정으로 지역 혁신 선도기업 육성에 필요한 국가 재원을 확보했다고 밝혔다. 이 사업은 명칭상 지역 혁신을 이끌 선도기업 육성을 위한 R&D 사업으로 소개됐다. 전남도는 확보한 국비 71억원을 바탕으로 선정 사업을 추진하게 된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Jeonnam Secures 7.1 Billion Won for Regional Innovation Leader Firms",
-        "excerpt": "Jeonnam Province was selected for the Ministry of SMEs and Startups’ 2026 Regional Innovation Leading Firms R&D program, securing 7.1 billion won in state funding.",
-        "body": "Jeonnam Province has secured 7.1 billion won in national funding after being selected for the Ministry of SMEs and Startups’ “2026 Regional Innovation Leading Firms Development (R&D)” program. The news was reported by Yonhap News Agency from Muan, with reporter Hyung Min-woo stating that the province obtained state resources needed to foster regional innovation-leading companies. The program was introduced as an R&D initiative aimed at developing firms that can lead regional innovation. Jeonnam Province will proceed with the selected project based on the 7.1 billion won in secured funding. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "全羅南道、地域革新先導企業育成事業に選定…国費71億ウォン確保",
-        "excerpt": "全羅南道は中小ベンチャー企業部の2026年地域革新先導企業育成R&D事業に選定され、国費71億ウォンを確保したと聯合ニュースが報じた。",
-        "body": "全羅南道は、中小ベンチャー企業部が進める「2026年地域革新先導企業育成（R&D）」事業に選定され、国費71億ウォンを確保した。今回の内容は務安発の聯合ニュース報道で伝えられ、ヒョン・ミンウ記者は、全羅南道が同事業への選定により地域革新を先導する企業の育成に必要な国家財源を確保したと報じた。この事業は、名称の通り地域革新を導く先導企業を育成するためのR&D事業として紹介された。全羅南道は確保した国費71億ウォンを基に、選定された事業を進めることになる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "全南道入选地区创新领军企业培育项目，获71亿韩元国费",
-        "excerpt": "据韩联社报道，全南道入选中小风险企业部2026年地区创新领军企业培育R&D项目，获得71亿韩元国费支持。",
-        "body": "全南道入选中小风险企业部推进的“2026年地区创新领军企业培育（R&D）”项目，获得71亿韩元国费。该消息由韩联社从务安报道，记者形民宇称，全南道通过此次项目入选， 확보了培育地区创新领军企业所需的国家财政资源。该项目按名称介绍为面向培育引领地区创新企业的R&D项目。全南道将以已 확보的71亿韩元国费为基础推进入选项目。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Jeonnam logra 7.100 millones de wones para firmas líderes regionales",
-        "excerpt": "Jeonnam fue seleccionada para el programa R&D 2026 de empresas líderes en innovación regional del Ministerio de Pymes y Startups y obtuvo 7.100 millones de wones.",
-        "body": "La provincia de Jeonnam obtuvo 7.100 millones de wones en fondos estatales tras ser seleccionada para el programa “Desarrollo de Empresas Líderes en Innovación Regional 2026 (R&D)” del Ministerio de Pymes y Startups. La información fue difundida por Yonhap News Agency desde Muan, y el reportero Hyung Min-woo señaló que la provincia aseguró recursos nacionales necesarios para fomentar empresas que lideren la innovación regional. El programa fue presentado como una iniciativa de R&D para desarrollar compañías líderes en innovación regional. Jeonnam impulsará el proyecto seleccionado con base en los 7.100 millones de wones asegurados. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Jeonnam garante 7,1 bilhões de won para empresas líderes regionais",
-        "excerpt": "Jeonnam foi selecionada para o programa de P&D 2026 de empresas líderes em inovação regional do Ministério das PMEs e Startups e obteve 7,1 bilhões de won.",
-        "body": "A província de Jeonnam garantiu 7,1 bilhões de won em recursos nacionais após ser selecionada para o programa “Desenvolvimento de Empresas Líderes em Inovação Regional 2026 (P&D)” do Ministério das PMEs e Startups. A informação foi divulgada pela Yonhap News Agency a partir de Muan, com o repórter Hyung Min-woo afirmando que a província assegurou recursos estatais necessários para fomentar empresas líderes em inovação regional. O programa foi apresentado como uma iniciativa de P&D voltada ao desenvolvimento de companhias que liderem a inovação regional. Jeonnam dará andamento ao projeto selecionado com base nos 7,1 bilhões de won garantidos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Jeonnam erhält 7,1 Mrd. Won für regionale Innovationsführer",
-        "excerpt": "Jeonnam wurde für das R&D-Programm 2026 zur Förderung regionaler Innovationsführer des Ministeriums für KMU und Startups ausgewählt und sicherte 7,1 Mrd. Won.",
-        "body": "Die Provinz Jeonnam hat 7,1 Milliarden Won an staatlichen Mitteln gesichert, nachdem sie für das Programm „Förderung regionaler Innovationsführer 2026 (R&D)“ des Ministeriums für KMU und Startups ausgewählt wurde. Die Nachricht wurde von der Nachrichtenagentur Yonhap aus Muan gemeldet. Reporter Hyung Min-woo berichtete, dass die Provinz damit nationale Mittel erhalten habe, die für die Förderung von Unternehmen benötigt werden, die regionale Innovation anführen. Das Programm wurde als R&D-Initiative zur Entwicklung solcher führenden Unternehmen vorgestellt. Jeonnam wird das ausgewählte Projekt auf Grundlage der gesicherten 7,1 Milliarden Won vorantreiben. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Jeonnam obtient 7,1 milliards de wons pour les leaders régionaux",
-        "excerpt": "Jeonnam a été sélectionnée pour le programme R&D 2026 de développement des entreprises leaders de l’innovation régionale et obtient 7,1 milliards de wons.",
-        "body": "La province de Jeonnam a obtenu 7,1 milliards de wons de financement national après avoir été sélectionnée pour le programme « Développement des entreprises leaders de l’innovation régionale 2026 (R&D) » du ministère des PME et des Startups. L’information a été rapportée par Yonhap News Agency depuis Muan, le journaliste Hyung Min-woo indiquant que la province avait sécurisé les ressources publiques nécessaires pour soutenir des entreprises capables de mener l’innovation régionale. Le programme a été présenté comme une initiative de R&D destinée à développer ces entreprises leaders. Jeonnam poursuivra le projet sélectionné sur la base des 7,1 milliards de wons obtenus. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "جولا الجنوبية تؤمن 7.1 مليار وون لمشروع شركات الابتكار الإقليمي",
-        "excerpt": "اختيرت مقاطعة جولا الجنوبية لبرنامج 2026 للبحث والتطوير الخاص بتنمية الشركات الرائدة في الابتكار الإقليمي، وحصلت على 7.1 مليار وون.",
-        "body": "حصلت مقاطعة جولا الجنوبية على 7.1 مليار وون من التمويل الحكومي بعد اختيارها لبرنامج “تنمية الشركات الرائدة في الابتكار الإقليمي لعام 2026 (R&D)” الذي تنفذه وزارة الشركات الصغيرة والمتوسطة والناشئة. ونقلت وكالة يونهاب للأنباء الخبر من موآن، حيث ذكر الصحفي هيونغ مين-وو أن المقاطعة أمنت موارد وطنية لازمة لتنمية الشركات التي تقود الابتكار الإقليمي. وقد عُرض البرنامج بوصفه مبادرة بحث وتطوير مخصصة لتطوير هذه الشركات الرائدة. وستواصل جولا الجنوبية تنفيذ المشروع المختار استنادا إلى التمويل البالغ 7.1 مليار وون. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "जिओननाम को क्षेत्रीय नवाचार अग्रणी कंपनियों के लिए 7.1 अरब वॉन",
-        "excerpt": "जिओननाम प्रांत को SMEs और Startups मंत्रालय के 2026 क्षेत्रीय नवाचार अग्रणी कंपनी विकास R&D कार्यक्रम में चुना गया और 7.1 अरब वॉन मिले।",
-        "body": "जिओननाम प्रांत को SMEs और Startups मंत्रालय के “2026 क्षेत्रीय नवाचार अग्रणी कंपनी विकास (R&D)” कार्यक्रम के लिए चुने जाने के बाद 7.1 अरब वॉन की राष्ट्रीय निधि मिली है। यह समाचार मुआन से Yonhap News Agency ने दिया, जिसमें रिपोर्टर Hyung Min-woo ने कहा कि प्रांत ने क्षेत्रीय नवाचार का नेतृत्व करने वाली कंपनियों को विकसित करने के लिए आवश्यक राष्ट्रीय संसाधन सुरक्षित किए। कार्यक्रम को क्षेत्रीय नवाचार का नेतृत्व करने वाली कंपनियों के विकास के लिए R&D पहल के रूप में बताया गया। जिओननाम प्रांत सुरक्षित 7.1 अरब वॉन के आधार पर चयनित परियोजना आगे बढ़ाएगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Jeonnam Raih 7,1 Miliar Won untuk Perusahaan Inovasi Regional",
-        "excerpt": "Provinsi Jeonnam terpilih dalam program R&D 2026 pengembangan perusahaan pemimpin inovasi regional Kementerian UKM dan Startup, meraih 7,1 miliar won.",
-        "body": "Provinsi Jeonnam memperoleh 7,1 miliar won dana nasional setelah terpilih dalam program “Pengembangan Perusahaan Pemimpin Inovasi Regional 2026 (R&D)” dari Kementerian UKM dan Startup. Kabar ini dilaporkan Yonhap News Agency dari Muan, dengan reporter Hyung Min-woo menyebut bahwa provinsi tersebut mengamankan sumber daya negara yang dibutuhkan untuk membina perusahaan pemimpin inovasi regional. Program ini diperkenalkan sebagai inisiatif R&D untuk mengembangkan perusahaan yang memimpin inovasi regional. Jeonnam akan menjalankan proyek terpilih berdasarkan dana 7,1 miliar won yang telah diamankan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ce43cc7e7b20",
-    "slug": "부고-길기완한국-딜로이트-그룹-총괄대표씨-부친상-382674",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T19:01:03.771Z",
-    "updatedAt": "2026-05-09T19:01:03.772Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509029100002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509029100002",
-    "titleFingerprint": "e3fbb5f32753e63982387de1dc89bc710e3a3165",
-    "dedupKeys": [
-      "ce43cc7e7b20c7b7ed4c1f258bed5f26d0731f66",
-      "e3fbb5f32753e63982387de1dc89bc710e3a3165",
-      "5320d5660a8fd7fb1e762cf8c3349d055399f417"
-    ],
-    "imageUrl": "/images/articles/ce43cc7e7b20.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국 딜로이트 그룹 길기완 총괄대표 부친상, 길명섭씨 별세",
-        "excerpt": "연합뉴스 부고에 따르면 길기완 한국 딜로이트 그룹 총괄대표와 길기철 여의도 성모병원 산부인과 교수가 부친상를 당했다. 고인은 길명섭씨로 향년 90세다.",
-        "body": "연합뉴스 부고에 따르면 길명섭씨가 향년 90세로 별세했다. 고인은 고영희씨의 남편이며, 길기완 한국 딜로이트 그룹 총괄대표와 길기철 여의도 성모병원 산부인과 교수의 부친이다. 이번 부고는 재계와 의료계에 함께 알려진 가족상 소식이다. 원문에 공개된 내용은 고인의 별세 사실, 배우자와 자녀 관계, 주요 유족의 직함에 한정된다. 장례 일정이나 빈소 등 추가 정보는 원문 요약에 포함되지 않았다. 출처: yna.co.kr."
-      },
-      "en": {
-        "title": "Deloitte Korea CEO Gil Gi-wan Mourns Father Gil Myeong-seop",
-        "excerpt": "According to Yonhap News Agency, Gil Gi-wan, CEO of Deloitte Korea, and Gil Gi-cheol, professor of obstetrics and gynecology at Yeouido St. Mary’s Hospital, have lost their father. Gil Myeong-seop died at 90.",
-        "body": "According to an obituary from Yonhap News Agency, Gil Myeong-seop has died at the age of 90. He was the husband of Ko Young-hee and the father of Gil Gi-wan, CEO of Deloitte Korea, and Gil Gi-cheol, a professor of obstetrics and gynecology at Yeouido St. Mary’s Hospital. The notice is a family bereavement connected to figures in both business and medicine. The original summary states only the death, family relationships and the titles of the principal bereaved family members. Funeral schedule or mortuary details were not included in the provided summary. Source: yna.co.kr."
-      },
-      "ja": {
-        "title": "韓国デロイトのキル・ギワン総括代表、父キル・ミョンソプ氏が死去",
-        "excerpt": "聯合ニュースの訃報によると、韓国デロイトグループ総括代表のキル・ギワン氏と、汝矣島聖母病院産婦人科教授のキル・ギチョル氏が父を亡くした。故人はキル・ミョンソプ氏、享年90。",
-        "body": "聯合ニュースの訃報によると、キル・ミョンソプ氏が享年90で死去した。故人はコ・ヨンヒ氏の夫であり、韓国デロイトグループ総括代表のキル・ギワン氏、汝矣島聖母病院産婦人科教授のキル・ギチョル氏の父にあたる。今回の訃報は、財界と医療界の関係者に関わる家族の喪失として伝えられた。原文の要約で確認できる内容は、死去の事実、配偶者と子どもとの関係、主な遺族の肩書に限られる。葬儀日程や斎場などの追加情報は含まれていない。出典: yna.co.kr."
-      },
-      "zh": {
-        "title": "韩国德勤集团总负责人吉基完父亲吉明燮去世",
-        "excerpt": "据韩联社讣告，韩国德勤集团总负责人吉基完和汝矣岛圣母医院妇产科教授吉基哲遭遇父丧。逝者为吉明燮，享年90岁。",
-        "body": "据韩联社讣告，吉明燮去世，享年90岁。逝者是高英姬的丈夫，也是韩国德勤集团总负责人吉基完、汝矣岛圣母医院妇产科教授吉基哲的父亲。此次讣告涉及商界和医疗界人士的家庭丧事。原文摘要披露的信息限于逝者去世事实、配偶及子女关系，以及主要遗属的职务身份。关于葬礼日程、灵堂地点等进一步信息，所提供的原文摘要中未包含。来源: yna.co.kr."
-      },
-      "es": {
-        "title": "Gil Gi-wan, CEO de Deloitte Corea, lamenta la muerte de su padre",
-        "excerpt": "Según una esquela de Yonhap, Gil Gi-wan, CEO de Deloitte Corea, y Gil Gi-cheol, profesor de obstetricia y ginecología en el Hospital St. Mary’s de Yeouido, perdieron a su padre. Gil Myeong-seop murió a los 90 años.",
-        "body": "Según una esquela de la agencia Yonhap, Gil Myeong-seop falleció a los 90 años. Era esposo de Ko Young-hee y padre de Gil Gi-wan, CEO de Deloitte Corea, y de Gil Gi-cheol, profesor de obstetricia y ginecología en el Hospital St. Mary’s de Yeouido. La noticia corresponde a un duelo familiar vinculado a figuras del ámbito empresarial y médico. El resumen original informa únicamente el fallecimiento, las relaciones familiares y los cargos de los principales deudos. No se incluyeron datos adicionales sobre el calendario funerario ni el lugar del velatorio. Fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "Gil Gi-wan, CEO da Deloitte Coreia, perde o pai Gil Myeong-seop",
-        "excerpt": "Segundo obituário da Yonhap, Gil Gi-wan, CEO da Deloitte Coreia, e Gil Gi-cheol, professor de obstetrícia e ginecologia no Hospital St. Mary’s de Yeouido, perderam o pai. Gil Myeong-seop morreu aos 90 anos.",
-        "body": "Segundo obituário da agência Yonhap, Gil Myeong-seop morreu aos 90 anos. Ele era marido de Ko Young-hee e pai de Gil Gi-wan, CEO da Deloitte Coreia, e de Gil Gi-cheol, professor de obstetrícia e ginecologia no Hospital St. Mary’s de Yeouido. A nota trata de um luto familiar ligado a nomes dos setores empresarial e médico. O resumo original informa apenas o falecimento, as relações familiares e os cargos dos principais familiares enlutados. Detalhes sobre cerimônia, local do velório ou programação funerária não foram incluídos no resumo fornecido. Fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "Deloitte-Korea-Chef Gil Gi-wan trauert um Vater Gil Myeong-seop",
-        "excerpt": "Laut einer Todesanzeige von Yonhap haben Gil Gi-wan, CEO von Deloitte Korea, und Gil Gi-cheol, Professor für Geburtshilfe und Gynäkologie am Yeouido St. Mary’s Hospital, ihren Vater verloren. Gil Myeong-seop starb im Alter von 90 Jahren.",
-        "body": "Laut einer Todesanzeige der Nachrichtenagentur Yonhap ist Gil Myeong-seop im Alter von 90 Jahren gestorben. Er war der Ehemann von Ko Young-hee und der Vater von Gil Gi-wan, CEO von Deloitte Korea, sowie von Gil Gi-cheol, Professor für Geburtshilfe und Gynäkologie am Yeouido St. Mary’s Hospital. Die Meldung betrifft einen familiären Trauerfall mit Bezug zu Persönlichkeiten aus Wirtschaft und Medizin. Die ursprüngliche Zusammenfassung nennt nur den Todesfall, die Familienbeziehungen und die Funktionen der wichtigsten Hinterbliebenen. Angaben zu Trauerfeier, Ort oder Zeitplan waren nicht enthalten. Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Gil Gi-wan, patron de Deloitte Corée, endeuillé par la mort de son père",
-        "excerpt": "Selon un avis de décès de Yonhap, Gil Gi-wan, PDG de Deloitte Corée, et Gil Gi-cheol, professeur d’obstétrique-gynécologie à l’hôpital St. Mary’s de Yeouido, ont perdu leur père. Gil Myeong-seop est décédé à 90 ans.",
-        "body": "Selon un avis de décès de l’agence Yonhap, Gil Myeong-seop est décédé à l’âge de 90 ans. Il était l’époux de Ko Young-hee et le père de Gil Gi-wan, PDG de Deloitte Corée, ainsi que de Gil Gi-cheol, professeur d’obstétrique-gynécologie à l’hôpital St. Mary’s de Yeouido. Cette annonce concerne un deuil familial lié à des personnalités des milieux économique et médical. Le résumé original mentionne uniquement le décès, les liens familiaux et les fonctions des principaux proches endeuillés. Aucun détail sur les obsèques, le lieu de recueillement ou le calendrier funéraire n’y figure. Source: yna.co.kr."
-      },
-      "ar": {
-        "title": "غيل غي وان رئيس ديلويت كوريا ينعى والده غيل ميونغ سيوب",
-        "excerpt": "بحسب نعي نشرته وكالة يونهاب، فقد غيل غي وان، الرئيس التنفيذي لمجموعة ديلويت كوريا، وغيل غي تشول، أستاذ النساء والتوليد في مستشفى يويدو سانت ماري، والدهما. توفي غيل ميونغ سيوب عن 90 عاما.",
-        "body": "بحسب نعي وكالة يونهاب، توفي غيل ميونغ سيوب عن عمر ناهز 90 عاما. وكان الراحل زوج كو يونغ هي، ووالد غيل غي وان، الرئيس التنفيذي لمجموعة ديلويت كوريا، وغيل غي تشول، أستاذ النساء والتوليد في مستشفى يويدو سانت ماري. يتعلق الخبر بحالة وفاة عائلية مرتبطة بشخصيتين في مجالي الأعمال والطب. يقتصر ملخص النص الأصلي على ذكر الوفاة، وصلة القرابة بالزوجة والأبناء، والمناصب الرئيسية لأفراد الأسرة المفجوعة. ولم يتضمن الملخص معلومات إضافية عن موعد الجنازة أو مكان العزاء. المصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "डेलॉयट कोरिया प्रमुख गिल गी-वान के पिता गिल म्योंग-सोप का निधन",
-        "excerpt": "योनहाप की शोक सूचना के अनुसार, डेलॉयट कोरिया समूह के सीईओ गिल गी-वान और येओइदो सेंट मैरी अस्पताल के प्रसूति एवं स्त्री रोग प्रोफेसर गिल गी-चोल के पिता का निधन हो गया। गिल म्योंग-सोप 90 वर्ष के थे।",
-        "body": "योनहाप समाचार एजेंसी की शोक सूचना के अनुसार, गिल म्योंग-सोप का 90 वर्ष की आयु में निधन हो गया। वे को यंग-ही के पति और डेलॉयट कोरिया समूह के सीईओ गिल गी-वान तथा येओइदो सेंट मैरी अस्पताल के प्रसूति एवं स्त्री रोग प्रोफेसर गिल गी-चोल के पिता थे। यह सूचना व्यापार और चिकित्सा क्षेत्र से जुड़े परिवार के शोक का समाचार है। मूल सारांश में केवल निधन, पारिवारिक संबंधों और प्रमुख शोकाकुल परिजनों के पदों का उल्लेख है। अंतिम संस्कार की तिथि, स्थान या अन्य विवरण दिए गए सारांश में शामिल नहीं हैं। स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "CEO Deloitte Korea Gil Gi-wan Berduka atas Wafatnya Sang Ayah",
-        "excerpt": "Menurut berita duka Yonhap, Gil Gi-wan, CEO Deloitte Korea, dan Gil Gi-cheol, profesor obstetri dan ginekologi di Rumah Sakit St. Mary’s Yeouido, kehilangan ayah mereka. Gil Myeong-seop wafat pada usia 90 tahun.",
-        "body": "Menurut berita duka dari Yonhap, Gil Myeong-seop wafat pada usia 90 tahun. Almarhum adalah suami Ko Young-hee serta ayah dari Gil Gi-wan, CEO Deloitte Korea, dan Gil Gi-cheol, profesor obstetri dan ginekologi di Rumah Sakit St. Mary’s Yeouido. Kabar ini merupakan duka keluarga yang berkaitan dengan tokoh di bidang bisnis dan medis. Ringkasan asli hanya memuat informasi tentang wafatnya almarhum, hubungan keluarga, serta jabatan anggota keluarga utama yang berduka. Rincian mengenai jadwal pemakaman atau tempat persemayaman tidak tercantum dalam ringkasan yang diberikan. Sumber: yna.co.kr."
       }
     }
   }
