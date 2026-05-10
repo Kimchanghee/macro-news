@@ -1,5 +1,230 @@
 [
   {
+    "id": "166f4864c7a5",
+    "slug": "美협상안에-이란-무응답-교전-지속돼-종전도-위태-693400",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T11:13:41.066Z",
+    "updatedAt": "2026-05-10T11:13:41.066Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042762",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042762",
+    "titleFingerprint": "6190d11ecb872b3159b31404a2afe8b03a8e11fa",
+    "dedupKeys": [
+      "166f4864c7a57aca56b4b8df5aeb17ff1ee9b334",
+      "6190d11ecb872b3159b31404a2afe8b03a8e11fa",
+      "4702ca02af2d8d2ba72b4d92a85edbbcd40298ec"
+    ],
+    "imageUrl": "/images/articles/166f4864c7a5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 협상안에 이란 무응답, 교전 지속 속 종전 합의 위태",
+        "excerpt": "미국이 이란에 종전 협상안을 제안했지만 이란이 답변을 미루면서 합의가 돌파구를 찾지 못하고, 양국 간 국소적 교전도 이어지고 있다.",
+        "body": "미국이 이란에 종전 협상안을 제안했지만 이란이 답변을 미루면서 양국 간 합의가 돌파구를 찾지 못하고 있다. 원문에 따르면 미국과 이란은 협상안이 제시된 이후에도 국소적인 교전을 지속하고 있어 종전 가능성이 위태로운 상황이다. 이번 사안의 핵심은 이란의 무응답이 협상 진전을 늦추고 있다는 점이다. 배경에는 미국의 협상안 제안과 이에 대한 이란의 답변 지연이 있으며, 관련 수치는 원문에 제시되지 않았다. 교전이 계속될 경우 양측의 종전 논의는 추가 난항을 겪을 수 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Iran Stays Silent on US Ceasefire Proposal as Clashes Continue",
+        "excerpt": "The United States proposed a ceasefire plan to Iran, but Tehran has delayed its response, leaving talks without a breakthrough while localized clashes continue.",
+        "body": "The United States has proposed a ceasefire negotiation plan to Iran, but Tehran has delayed its response, leaving the two sides without a breakthrough. According to the original report, the United States and Iran have continued localized clashes even after the proposal was presented, putting the prospect of ending the conflict at risk. The key issue is that Iran’s lack of response is slowing progress in the negotiations. The context is Washington’s proposal and Tehran’s delayed reply; no related figures were provided in the source. If clashes continue, ceasefire discussions may face further difficulty. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "米国の終戦交渉案にイラン沈黙、交戦継続で合意は難航",
+        "excerpt": "米国がイランに終戦交渉案を提示したものの、イランが回答を先送りし、局地的な交戦も続くなか合意の突破口は見えていない。",
+        "body": "米国がイランに終戦交渉案を提示したが、イランが回答を先送りしており、両国間の合意は突破口を見いだせていない。原文によると、提案後も米国とイランは局地的な交戦を続けており、終戦の可能性は不安定な状況にある。今回の焦点は、イランの無回答が交渉の進展を遅らせている点だ。背景には米国の交渉案提示と、それに対するイランの回答遅延があり、関連数値は原文で示されていない。交戦が続けば、終戦協議はさらに難航する可能性がある。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "伊朗未回应美国停战方案，局部交火持续令协议承压",
+        "excerpt": "美国向伊朗提出停战谈判方案，但伊朗推迟回应，双方协议未能取得突破，同时局部交火仍在持续。",
+        "body": "美国已向伊朗提出停战谈判方案，但伊朗推迟作出回应，使双方协议仍未找到突破口。据原文报道，在方案提出后，美国和伊朗仍持续发生局部交火，停战前景处于不稳定状态。此次事件的核心在于，伊朗没有回应正在拖慢谈判进展。背景是美国提出谈判方案，而伊朗延迟答复；原文未提供相关数据。若交火持续，双方停战讨论可能面临进一步困难。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Irán no responde al plan de EE.UU. y los combates ponen en riesgo el fin del conflicto",
+        "excerpt": "Estados Unidos propuso a Irán un plan para negociar el fin del conflicto, pero Teherán retrasa su respuesta y continúan los combates localizados.",
+        "body": "Estados Unidos propuso a Irán un plan de negociación para poner fin al conflicto, pero Teherán ha retrasado su respuesta y las partes no han logrado un avance. Según el informe original, Estados Unidos e Irán siguen manteniendo combates localizados incluso después de presentada la propuesta, lo que deja en una situación frágil la posibilidad de terminar el conflicto. El punto central es que la falta de respuesta iraní está frenando el progreso de las negociaciones. El contexto es la propuesta estadounidense y la demora de Irán; la fuente no ofrece cifras relacionadas. Si los combates continúan, las conversaciones podrían enfrentar más dificultades. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Irã não responde a proposta dos EUA e combates ameaçam acordo de fim do conflito",
+        "excerpt": "Os Estados Unidos apresentaram ao Irã uma proposta para encerrar o conflito, mas Teerã adia a resposta enquanto confrontos localizados continuam.",
+        "body": "Os Estados Unidos apresentaram ao Irã uma proposta de negociação para encerrar o conflito, mas Teerã adiou sua resposta, impedindo um avanço entre os dois lados. Segundo o relato original, Estados Unidos e Irã continuam envolvidos em confrontos localizados mesmo após a apresentação da proposta, o que deixa em risco a possibilidade de fim do conflito. O ponto central é que a ausência de resposta do Irã atrasa o progresso das negociações. O contexto envolve a proposta americana e a demora iraniana; a fonte não apresentou números relacionados. Se os confrontos continuarem, as tratativas podem enfrentar novas dificuldades. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Iran reagiert nicht auf US-Vorschlag, Gefechte gefährden Einigung",
+        "excerpt": "Die USA haben Iran einen Vorschlag für Verhandlungen zur Beendigung des Konflikts gemacht, doch Teheran verzögert die Antwort und lokale Gefechte dauern an.",
+        "body": "Die Vereinigten Staaten haben Iran einen Vorschlag für Verhandlungen zur Beendigung des Konflikts unterbreitet, doch Teheran verzögert seine Antwort. Damit finden beide Seiten bislang keinen Durchbruch. Dem Originalbericht zufolge setzen die USA und Iran auch nach Vorlage des Vorschlags lokale Gefechte fort, wodurch die Aussicht auf ein Ende des Konflikts gefährdet ist. Entscheidend ist, dass Irans ausbleibende Antwort den Verhandlungsfortschritt bremst. Hintergrund sind der US-Vorschlag und die verspätete Reaktion Irans; konkrete Zahlen nennt die Quelle nicht. Halten die Gefechte an, könnten die Gespräche weiter erschwert werden. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "L’Iran reste sans réponse au plan américain, les combats menacent un accord",
+        "excerpt": "Les États-Unis ont proposé à l’Iran un plan de négociation pour mettre fin au conflit, mais Téhéran retarde sa réponse tandis que des combats localisés se poursuivent.",
+        "body": "Les États-Unis ont proposé à l’Iran un plan de négociation pour mettre fin au conflit, mais Téhéran retarde sa réponse, empêchant les deux parties de trouver une percée. Selon le rapport original, les États-Unis et l’Iran continuent des combats localisés même après la présentation de la proposition, ce qui fragilise la perspective d’une fin du conflit. Le point central est que l’absence de réponse iranienne ralentit les négociations. Le contexte repose sur la proposition américaine et le délai de réponse de l’Iran; aucune donnée chiffrée n’est fournie par la source. Si les combats se poursuivent, les discussions pourraient rencontrer de nouvelles difficultés. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "إيران لا ترد على مقترح أمريكي والاشتباكات تهدد اتفاق إنهاء القتال",
+        "excerpt": "قدمت الولايات المتحدة لإيران مقترحا للتفاوض على إنهاء القتال، لكن طهران تؤجل الرد بينما تستمر اشتباكات موضعية بين الجانبين.",
+        "body": "قدمت الولايات المتحدة إلى إيران مقترحا للتفاوض على إنهاء القتال، لكن طهران تؤجل الرد، ما جعل الاتفاق بين الجانبين بلا اختراق واضح. وبحسب التقرير الأصلي، تواصل الولايات المتحدة وإيران اشتباكات موضعية حتى بعد طرح المقترح، الأمر الذي يجعل احتمال إنهاء القتال في وضع هش. جوهر القضية أن عدم رد إيران يبطئ تقدم المفاوضات. وتتمثل الخلفية في المقترح الأمريكي وتأخر الرد الإيراني، فيما لم تورد المادة الأصلية أرقاما ذات صلة. إذا استمرت الاشتباكات، فقد تواجه محادثات إنهاء القتال مزيدا من الصعوبات. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "अमेरिकी प्रस्ताव पर ईरान चुप, जारी झड़पों से संघर्ष-विराम समझौता जोखिम में",
+        "excerpt": "अमेरिका ने ईरान को संघर्ष समाप्त करने के लिए वार्ता प्रस्ताव दिया, लेकिन तेहरान जवाब टाल रहा है और दोनों पक्षों के बीच स्थानीय झड़पें जारी हैं।",
+        "body": "अमेरिका ने ईरान को संघर्ष समाप्त करने के लिए वार्ता प्रस्ताव दिया है, लेकिन तेहरान ने जवाब टाल दिया है, जिससे दोनों पक्षों के बीच सहमति का रास्ता नहीं खुल पाया। मूल रिपोर्ट के अनुसार, प्रस्ताव पेश होने के बाद भी अमेरिका और ईरान के बीच स्थानीय स्तर पर झड़पें जारी हैं, जिससे संघर्ष समाप्त होने की संभावना अस्थिर बनी हुई है। मुख्य मुद्दा यह है कि ईरान की ओर से जवाब न आने से बातचीत की प्रगति धीमी हो रही है। पृष्ठभूमि में अमेरिकी प्रस्ताव और ईरान की देरी है; स्रोत में संबंधित आंकड़े नहीं दिए गए। झड़पें जारी रहीं तो वार्ता और कठिन हो सकती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Iran Belum Menjawab Proposal AS, Bentrokan Berlanjut Ancam Akhir Konflik",
+        "excerpt": "Amerika Serikat mengajukan proposal perundingan akhir konflik kepada Iran, tetapi Teheran menunda jawaban sementara bentrokan lokal terus berlangsung.",
+        "body": "Amerika Serikat telah mengajukan proposal perundingan untuk mengakhiri konflik kepada Iran, tetapi Teheran menunda jawabannya sehingga kedua pihak belum menemukan terobosan. Menurut laporan asli, Amerika Serikat dan Iran tetap melanjutkan bentrokan lokal setelah proposal itu diajukan, membuat peluang berakhirnya konflik berada dalam kondisi rawan. Inti persoalannya adalah tidak adanya respons Iran yang memperlambat kemajuan negosiasi. Latar belakangnya ialah proposal dari AS dan keterlambatan jawaban Iran; sumber tidak mencantumkan angka terkait. Jika bentrokan terus berlanjut, pembicaraan akhir konflik dapat menghadapi kesulitan tambahan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "7f35c0779783",
+    "slug": "이진숙-자유민주-위해-마지막-열정-바칠-것장동혁-국감-최고스타-예약-892511",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T11:12:48.600Z",
+    "updatedAt": "2026-05-10T11:12:48.600Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12042803",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042803",
+    "titleFingerprint": "ad10668e359abc48a43052c56aaf8e9c858b8230",
+    "dedupKeys": [
+      "7f35c0779783529fca1f9dab7c5d4f8e541c8f67",
+      "ad10668e359abc48a43052c56aaf8e9c858b8230",
+      "c017ccb56680c8f1c9d398a3dffc2412f79da9aa"
+    ],
+    "imageUrl": "/images/articles/7f35c0779783.png",
+    "i18n": {
+      "ko": {
+        "title": "이진숙, 대구 달성 보궐선거 사무소 개소…장동혁 지원사격",
+        "excerpt": "이진숙 국민의힘 대구 달성군 국회의원 보궐선거 예비후보가 10일 장동혁 대표 등 당 지도부 지원 속에 선거사무소 개소식을 열고 지지층 결집에 나섰다.",
+        "body": "이진숙 국민의힘 대구 달성군 국회의원 보궐선거 예비후보가 10일 선거사무소 개소식을 열고 본격적인 지지층 결집에 나섰다. 이날 개소식에는 국민의힘 장동혁 대표와 당 관계자들이 참석해 이 예비후보를 지원했다. 이 예비후보는 행사에서 “자유민주를 위해 마지막 열정을 바치겠다”는 뜻을 밝히며 선거전에 임하는 각오를 강조했다. 장 대표는 이 예비후보를 두고 “국감 최고스타 예약”이라고 언급하며 기대감을 드러냈다. 대구 달성군 보궐선거를 앞두고 당 지도부가 현장 지원에 나서면서 보수 지지층 결집 여부가 향후 선거 흐름의 관건으로 떠오를 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lee Jin-sook Opens Daegu Dalseong Campaign Office With Jang Dong-hyeok’s Backing",
+        "excerpt": "People Power Party preliminary candidate Lee Jin-sook opened her campaign office on the 10th for the Daegu Dalseong by-election, rallying supporters with backing from party leader Jang Dong-hyeok.",
+        "body": "Lee Jin-sook, a People Power Party preliminary candidate in the National Assembly by-election for Daegu’s Dalseong County, opened her campaign office on the 10th and moved to consolidate support. People Power Party leader Jang Dong-hyeok and party officials attended the event to back Lee. At the opening, Lee said she would devote her “last passion” to liberal democracy, emphasizing her resolve for the race. Jang expressed expectations for Lee, saying she was “reserved as the top star of the parliamentary audit.” With party leaders offering on-site support ahead of the Dalseong by-election, whether conservative supporters rally around the campaign is expected to be a key point in the race. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "李眞淑氏、大邱達城補選の事務所開所…張東赫代表が支援",
+        "excerpt": "国民の力の大邱達城郡国会議員補欠選挙予備候補、李眞淑氏が10日、張東赫代表ら党指導部の支援を受け選挙事務所開所式を開いた。",
+        "body": "国民の力の大邱達城郡国会議員補欠選挙予備候補である李眞淑氏は10日、選挙事務所の開所式を開き、支持層の結集に乗り出した。この日の開所式には国民の力の張東赫代表と党関係者が出席し、李氏を支援した。李氏は会場で「自由民主のために最後の情熱をささげる」と述べ、選挙戦に臨む決意を強調した。張代表は李氏について「国政監査の最高スター予約」と言及し、期待感を示した。大邱達城郡補欠選挙を前に党指導部が現場支援に乗り出したことで、保守支持層の結集が今後の選挙の流れを左右する焦点になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "李珍淑在大邱达城补选开设竞选办公室，张东赫到场支持",
+        "excerpt": "国民力量大邱达城郡国会议员补选预备候选人李珍淑10日在党领导层支持下举行竞选办公室开所仪式，着手凝聚支持层。",
+        "body": "国民力量大邱达城郡国会议员补选预备候选人李珍淑10日举行竞选办公室开所仪式，正式着手凝聚支持层。当天开所仪式上，国民力量党代表张东赫及党内相关人士出席，为李珍淑提供支持。李珍淑在活动中表示，将为自由民主献上“最后的热情”，强调投入选战的决心。张东赫谈及李珍淑时称其“预定成为国政监察最高明星”，表达期待。随着党领导层在大邱达城郡补选前展开现场支援，保守支持层能否集结预计将成为今后选情走向的关键。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lee Jin-sook abre oficina de campaña en Dalseong con apoyo de Jang Dong-hyeok",
+        "excerpt": "Lee Jin-sook, precandidata del Partido del Poder Popular en la elección parcial de Daegu Dalseong, abrió el día 10 su oficina de campaña con apoyo de la cúpula partidaria.",
+        "body": "Lee Jin-sook, precandidata del Partido del Poder Popular para la elección parcial a la Asamblea Nacional por el condado de Dalseong, en Daegu, abrió el día 10 su oficina de campaña y comenzó a reunir a sus bases de apoyo. Al acto asistieron el líder del partido, Jang Dong-hyeok, y otros funcionarios partidarios para respaldarla. Lee afirmó que dedicará su “última pasión” a la democracia liberal, subrayando su determinación ante la contienda. Jang expresó expectativas sobre Lee al decir que estaba “reservada como la máxima estrella de la auditoría parlamentaria”. De cara a la elección parcial en Dalseong, el apoyo sobre el terreno de la dirigencia partidaria coloca la movilización del voto conservador como un factor clave para el desarrollo de la carrera. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lee Jin-sook abre comitê em Dalseong com apoio de Jang Dong-hyeok",
+        "excerpt": "Lee Jin-sook, pré-candidata do Partido do Poder Popular na eleição suplementar de Daegu Dalseong, abriu no dia 10 seu comitê com apoio da liderança partidária.",
+        "body": "Lee Jin-sook, pré-candidata do Partido do Poder Popular à eleição suplementar para a Assembleia Nacional pelo condado de Dalseong, em Daegu, abriu no dia 10 seu comitê de campanha e iniciou a mobilização de seus apoiadores. O líder do partido, Jang Dong-hyeok, e dirigentes partidários participaram do evento para apoiá-la. Lee afirmou que dedicará sua “última paixão” à democracia liberal, destacando sua determinação na disputa. Jang demonstrou expectativa ao se referir a Lee como alguém “reservada para ser a maior estrela da auditoria parlamentar”. Antes da eleição suplementar em Dalseong, o apoio presencial da liderança partidária torna a mobilização da base conservadora um ponto central para os próximos rumos da disputa. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lee Jin-sook eröffnet Wahlbüro in Daegu-Dalseong mit Rückhalt von Jang Dong-hyeok",
+        "excerpt": "Lee Jin-sook, Vorwahlkandidatin der People Power Party für die Nachwahl in Daegu-Dalseong, eröffnete am 10. ihr Wahlbüro und sammelte mit Parteirückhalt Unterstützung.",
+        "body": "Lee Jin-sook, Vorwahlkandidatin der People Power Party für die Parlamentsnachwahl im Landkreis Dalseong in Daegu, eröffnete am 10. ihr Wahlbüro und begann, ihre Unterstützer zu mobilisieren. An der Eröffnung nahmen Parteichef Jang Dong-hyeok und weitere Parteivertreter teil, um Lee zu unterstützen. Lee sagte bei der Veranstaltung, sie werde ihre „letzte Leidenschaft“ der liberalen Demokratie widmen, und betonte damit ihre Entschlossenheit für den Wahlkampf. Jang äußerte Erwartungen an Lee und bezeichnete sie als „reservierten Topstar der parlamentarischen Prüfung“. Vor der Nachwahl in Dalseong dürfte die Frage, ob die konservative Anhängerschaft geschlossen mobilisiert werden kann, zu einem wichtigen Faktor für den weiteren Verlauf der Wahl werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lee Jin-sook ouvre son bureau à Daegu-Dalseong avec le soutien de Jang Dong-hyeok",
+        "excerpt": "Lee Jin-sook, précandidate du Parti du pouvoir au peuple à la législative partielle de Daegu-Dalseong, a ouvert son bureau de campagne le 10 avec l’appui de la direction du parti.",
+        "body": "Lee Jin-sook, précandidate du Parti du pouvoir au peuple à l’élection législative partielle dans le district de Dalseong à Daegu, a ouvert son bureau de campagne le 10 et a entrepris de rassembler ses soutiens. Le chef du parti, Jang Dong-hyeok, ainsi que des responsables du parti ont assisté à l’événement pour l’appuyer. Lee a déclaré qu’elle consacrerait sa “dernière passion” à la démocratie libérale, soulignant sa détermination dans la campagne. Jang a exprimé ses attentes en affirmant que Lee était “réservée comme la plus grande star de l’audit parlementaire”. À l’approche de la partielle à Dalseong, le soutien de terrain de la direction du parti place la mobilisation de l’électorat conservateur parmi les facteurs clés de la suite du scrutin. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لي جين سوك تفتتح مقر حملتها في دايغو دالسونغ بدعم جانغ دونغ هيوك",
+        "excerpt": "افتتحت لي جين سوك، المرشحة التمهيدية عن حزب قوة الشعب في انتخابات دايغو دالسونغ التكميلية، مقر حملتها في 10 الجاري بدعم من قيادة الحزب.",
+        "body": "افتتحت لي جين سوك، المرشحة التمهيدية عن حزب قوة الشعب في الانتخابات التكميلية لمقعد الجمعية الوطنية في مقاطعة دالسونغ بمدينة دايغو، مقر حملتها في 10 الجاري وبدأت العمل على حشد مؤيديها. وحضر الافتتاح زعيم الحزب جانغ دونغ هيوك ومسؤولون حزبيون لتقديم الدعم لها. وقالت لي في الفعالية إنها ستكرس “آخر شغفها” من أجل الديمقراطية الليبرالية، مؤكدة عزمها على خوض السباق. وأعرب جانغ عن توقعاته منها، واصفا إياها بأنها “محجوزة كأبرز نجمة في التفتيش البرلماني”. ومع توجه قيادة الحزب إلى الدعم الميداني قبل الانتخابات التكميلية في دالسونغ، يُتوقع أن يكون مدى حشد القاعدة المحافظة عاملا مهما في مسار الانتخابات المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ली जिन-सूक ने डेगू डालसियोंग में चुनाव कार्यालय खोला, जांग डोंग-ह्योक का समर्थन",
+        "excerpt": "पीपल पावर पार्टी की डेगू डालसियोंग उपचुनाव पूर्व-उम्मीदवार ली जिन-सूक ने 10 तारीख को पार्टी नेतृत्व के समर्थन में चुनाव कार्यालय खोला और समर्थकों को जुटाया।",
+        "body": "पीपल पावर पार्टी की डेगू के डालसियोंग काउंटी नेशनल असेंबली उपचुनाव की पूर्व-उम्मीदवार ली जिन-सूक ने 10 तारीख को अपना चुनाव कार्यालय खोला और समर्थक आधार को संगठित करने की शुरुआत की। उद्घाटन समारोह में पार्टी नेता जांग डोंग-ह्योक और पार्टी अधिकारी शामिल हुए और ली का समर्थन किया। ली ने कार्यक्रम में कहा कि वह उदार लोकतंत्र के लिए अपना “आखिरी जुनून” समर्पित करेंगी, जिससे उन्होंने चुनावी मुकाबले को लेकर अपना संकल्प व्यक्त किया। जांग ने ली के बारे में कहा कि वह “संसदीय ऑडिट की शीर्ष स्टार बनने के लिए आरक्षित” हैं, और उनसे अपेक्षा जताई। डालसियोंग उपचुनाव से पहले पार्टी नेतृत्व के स्थल पर समर्थन से रूढ़िवादी समर्थकों का जुटाव आगे की चुनावी दिशा का प्रमुख मुद्दा बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lee Jin-sook Buka Kantor Kampanye Dalseong, Didukung Jang Dong-hyeok",
+        "excerpt": "Lee Jin-sook, bakal calon Partai Kekuatan Rakyat dalam pemilu sela Majelis Nasional Daegu Dalseong, membuka kantor kampanye pada tanggal 10 dengan dukungan pimpinan partai.",
+        "body": "Lee Jin-sook, bakal calon Partai Kekuatan Rakyat untuk pemilu sela Majelis Nasional di Kabupaten Dalseong, Daegu, membuka kantor kampanye pada tanggal 10 dan mulai mengonsolidasikan para pendukungnya. Acara pembukaan itu dihadiri pemimpin partai Jang Dong-hyeok dan sejumlah pejabat partai yang memberikan dukungan kepada Lee. Dalam acara tersebut, Lee menyatakan akan mencurahkan “semangat terakhirnya” untuk demokrasi liberal, menegaskan tekadnya menghadapi pemilihan. Jang menyampaikan harapan terhadap Lee dengan menyebutnya “sudah dipesan sebagai bintang utama audit parlemen”. Menjelang pemilu sela Dalseong, dukungan langsung dari pimpinan partai membuat konsolidasi basis konservatif diperkirakan menjadi faktor penting dalam arah persaingan berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4bd6794294f5",
+    "slug": "단독-미분양됐다고-세금-수억-내라니-서민주택-빌라-공급감소-우려-444490",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T11:11:44.140Z",
+    "updatedAt": "2026-05-10T11:11:44.140Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042806",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042806",
+    "titleFingerprint": "ff0a6721962e878533c8889a6e0ff309d8128825",
+    "dedupKeys": [
+      "4bd6794294f5fe84ec191ba0b556bbdc7b51090a",
+      "ff0a6721962e878533c8889a6e0ff309d8128825",
+      "ab933a02d093bcfaa67777ea797e3719bfda0b19"
+    ],
+    "imageUrl": "/images/articles/4bd6794294f5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미분양 빌라 취득세 추징 위기, 서민주택 공급감소 우려 커진다",
+        "excerpt": "소규모 빌라 건축주들이 신축 빌라 분양 실패 뒤 수억 원대 취득세 추징 위기에 놓이면서 서민 주거의 징검다리였던 빌라 공급감소 우려가 커지고 있다.",
+        "body": "소규모 빌라 건축주들이 신축 빌라를 분양하지 못했다는 이유로 수억 원대 취득세를 추징받을 위기에 처했다. 분양 실패가 세 부담으로 이어지면서 빌라 공급을 맡아온 건축주들의 자금난이 가중되는 상황이다. 빌라는 그동안 아파트 진입 전 서민 주거의 ‘징검다리’ 역할을 해왔지만, 미분양 리스크에 세금 부담까지 겹치면 신규 공급이 줄어들 수 있다는 우려가 나온다. 특히 소규모 사업자는 자금 여력이 제한적인 만큼 추징 부담이 공급 위축으로 연결될 가능성이 제기된다. 이 내용은 mk.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "Unsold Villa Tax Bills Raise Fears of Shrinking Affordable Housing Supply",
+        "excerpt": "Small-scale villa builders face potential acquisition tax bills worth hundreds of millions of won after failing to sell new units, raising concerns over a fall in affordable housing supply.",
+        "body": "Small-scale builders of Korean multi-family villas are facing the risk of additional acquisition tax bills worth hundreds of millions of won because newly built units failed to sell. The failed sales are turning into a heavier tax burden, worsening financial strain on the builders who have supplied this segment of housing. Villas have long served as a stepping stone for ordinary households before entering the apartment market. If unsold-unit risk is combined with large tax claims, new supply could decline. Because small builders have limited funding capacity, the additional tax burden may further weaken villa construction. This report cites mk.co.kr."
+      },
+      "ja": {
+        "title": "未分譲ヴィラに取得税追徴の危機、庶民向け住宅供給減に懸念",
+        "excerpt": "小規模ヴィラ建築主が新築物件の分譲失敗後、数億ウォン規模の取得税追徴に直面し、庶民住宅の供給減少への懸念が高まっている。",
+        "body": "小規模なヴィラ建築主が、新築ヴィラを分譲できなかったことを理由に、数億ウォン規模の取得税を追徴される危機に直面している。分譲失敗が税負担につながり、供給主体である建築主の資金難がさらに重くなっている。ヴィラはこれまで、マンションに移る前の庶民住居の「橋渡し」の役割を果たしてきた。しかし未分譲リスクに税負担まで重なれば、新規供給が減少する可能性がある。特に小規模事業者は資金余力が限られるため、追徴負担が供給萎縮につながるとの懸念が出ている。本記事はmk.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "未售出别墅被追缴取得税，平民住房供应减少忧虑升温",
+        "excerpt": "小规模别墅建造商因新建别墅销售失败，面临数亿韩元取得税追缴风险，作为平民住房过渡选择的别墅供应或受影响。",
+        "body": "小规模别墅建造商正因新建别墅未能售出而面临被追缴数亿韩元取得税的风险。销售失败转化为税负，使承担供应角色的建造商资金压力进一步加重。别墅长期以来在韩国住房市场中扮演着普通家庭进入公寓市场前的“过渡台阶”角色。但如果未售出风险与高额税负叠加，新建供应可能减少。尤其是小规模业者资金余力有限，追缴负担可能直接导致供应收缩。本文引用mk.co.kr报道。"
+      },
+      "es": {
+        "title": "Impuesto a villas sin vender eleva temor por menor oferta de vivienda popular",
+        "excerpt": "Pequeños constructores de villas enfrentan posibles cobros de impuesto de adquisición por cientos de millones de won tras no vender unidades nuevas, lo que preocupa al mercado popular.",
+        "body": "Pequeños constructores de villas en Corea del Sur enfrentan el riesgo de recibir cobros adicionales de impuesto de adquisición por cientos de millones de won debido a que no lograron vender villas recién construidas. El fracaso de la venta se está convirtiendo en una carga fiscal que agrava la falta de liquidez de quienes sostienen esta oferta. Las villas han funcionado como un paso intermedio para hogares de ingresos modestos antes de acceder a apartamentos. Si el riesgo de unidades sin vender se combina con impuestos elevados, la nueva oferta podría disminuir. En especial, los operadores pequeños tienen margen financiero limitado. Este artículo cita a mk.co.kr."
+      },
+      "pt": {
+        "title": "Imposto sobre villas não vendidas ameaça oferta de moradia popular na Coreia",
+        "excerpt": "Pequenos construtores de villas podem receber cobranças de imposto de aquisição de centenas de milhões de won após fracasso nas vendas, elevando temores sobre a oferta popular.",
+        "body": "Pequenos construtores de villas na Coreia do Sul enfrentam o risco de cobranças adicionais de imposto de aquisição de centenas de milhões de won porque unidades recém-construídas não foram vendidas. A falha na venda está se transformando em carga tributária, ampliando as dificuldades financeiras dos responsáveis por esse tipo de oferta. As villas têm servido como etapa intermediária de moradia para famílias comuns antes da compra de apartamentos. Com risco de unidades encalhadas e impostos elevados, a nova oferta pode diminuir. Como pequenos operadores têm pouca folga financeira, a cobrança pode enfraquecer a construção. O texto cita reportagem do mk.co.kr."
+      },
+      "de": {
+        "title": "Steuer auf unverkaufte Villas schürt Sorge um weniger bezahlbaren Wohnraum",
+        "excerpt": "Kleine Villa-Bauherren in Südkorea drohen nach gescheiterten Verkäufen neuer Einheiten Erwerbsteuer-Nachforderungen in Milliarden-Won-Höhe, was die Wohnraumversorgung belastet.",
+        "body": "Kleine Bauherren von koreanischen Villas stehen vor dem Risiko zusätzlicher Erwerbsteuerforderungen in Höhe von mehreren hundert Millionen Won, weil neu gebaute Einheiten nicht verkauft wurden. Der Verkaufsfehlschlag wird damit zu einer Steuerlast und verschärft die Finanzprobleme jener Anbieter, die dieses Wohnsegment beliefern. Villas haben lange als Zwischenschritt für normale Haushalte gedient, bevor sie in den Apartmentmarkt wechseln. Wenn Leerstands- und Verkaufsrisiken mit hohen Steuerforderungen zusammentreffen, könnte das Neubauangebot sinken. Besonders kleine Anbieter verfügen nur über begrenzte finanzielle Spielräume. Dieser Bericht zitiert mk.co.kr."
+      },
+      "fr": {
+        "title": "Taxe sur villas invendues: crainte d’un recul du logement abordable",
+        "excerpt": "De petits constructeurs de villas risquent des rappels de taxe d’acquisition de plusieurs centaines de millions de wons après des ventes échouées, menaçant l’offre populaire.",
+        "body": "De petits constructeurs de villas en Corée du Sud risquent des rappels de taxe d’acquisition de plusieurs centaines de millions de wons parce que des logements nouvellement construits n’ont pas été vendus. L’échec de la commercialisation se transforme ainsi en charge fiscale et aggrave les difficultés de trésorerie des acteurs qui alimentent ce segment. Les villas ont longtemps servi d’étape intermédiaire pour les ménages ordinaires avant l’accès aux appartements. Si le risque d’invendus s’ajoute à une lourde fiscalité, l’offre nouvelle pourrait reculer. Les petits opérateurs ayant des moyens limités, cette charge peut freiner la construction. Cet article cite mk.co.kr."
+      },
+      "ar": {
+        "title": "ضرائب على الفلل غير المباعة تثير مخاوف تراجع مساكن ذوي الدخل المحدود",
+        "excerpt": "يواجه بناة فلل صغار في كوريا خطر تحصيل ضريبة اكتساب بمئات الملايين من الوون بعد فشل بيع وحدات جديدة، ما يثير القلق بشأن إمدادات السكن الشعبي.",
+        "body": "يواجه بناة فلل صغار في كوريا الجنوبية خطر فرض ضريبة اكتساب إضافية بمئات الملايين من الوون لأن فللا جديدة لم تُبع. ففشل البيع يتحول إلى عبء ضريبي يزيد الضائقة المالية لدى الجهات التي توفر هذا النوع من السكن. وقد أدت الفلل دورا وسيطا للأسر العادية قبل الانتقال إلى سوق الشقق. لكن اجتماع مخاطر عدم البيع مع مطالبات ضريبية كبيرة قد يؤدي إلى تراجع المعروض الجديد. وبما أن صغار المطورين يملكون قدرة تمويلية محدودة، فإن عبء التحصيل قد يضغط على البناء. يستند هذا النص إلى تقرير mk.co.kr."
+      },
+      "hi": {
+        "title": "बिना बिके विला पर अधिग्रहण कर का खतरा, सस्ती आवास आपूर्ति पर चिंता",
+        "excerpt": "छोटे विला बिल्डरों को नई इकाइयां न बिकने के बाद करोड़ों वॉन के अधिग्रहण कर की वसूली का खतरा है, जिससे आम लोगों के आवास की आपूर्ति घटने की चिंता बढ़ी है।",
+        "body": "दक्षिण कोरिया में छोटे विला बिल्डर इस जोखिम का सामना कर रहे हैं कि नई बनी विला इकाइयां न बिकने के कारण उनसे करोड़ों वॉन का अतिरिक्त अधिग्रहण कर वसूला जा सकता है। बिक्री विफल होने से कर बोझ बढ़ रहा है और इस आवास खंड की आपूर्ति करने वाले बिल्डरों की वित्तीय कठिनाई गहरी हो रही है। विला अब तक अपार्टमेंट बाजार में प्रवेश से पहले आम परिवारों के लिए एक मध्यवर्ती आवास विकल्प रहा है। यदि बिना बिके घरों का जोखिम भारी कर मांग से जुड़ता है, तो नई आपूर्ति घट सकती है। छोटे कारोबारियों की पूंजी सीमित होने से यह बोझ निर्माण को कमजोर कर सकता है। यह लेख mk.co.kr की रिपोर्ट पर आधारित है।"
+      },
+      "id": {
+        "title": "Pajak Vila Tak Terjual Picu Kekhawatiran Pasokan Hunian Rakyat Turun",
+        "excerpt": "Pengembang vila skala kecil terancam tagihan pajak akuisisi ratusan juta won setelah gagal menjual unit baru, memunculkan kekhawatiran atas pasokan hunian terjangkau.",
+        "body": "Pengembang vila skala kecil di Korea Selatan menghadapi risiko tagihan tambahan pajak akuisisi senilai ratusan juta won karena vila baru yang dibangun tidak terjual. Kegagalan penjualan itu berubah menjadi beban pajak dan memperberat kesulitan dana para pelaku yang selama ini memasok segmen hunian tersebut. Vila telah berperan sebagai pijakan bagi rumah tangga biasa sebelum masuk ke pasar apartemen. Jika risiko unit tak terjual bertemu dengan beban pajak besar, pasokan baru dapat menyusut. Karena pelaku kecil memiliki ruang pendanaan terbatas, tagihan ini berpotensi menekan pembangunan. Artikel ini mengutip laporan mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "37319faf0b84",
     "slug": "소니tsmc-이미지센서-합작생산-684082",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Konflik Keluar dari Proyek Klub Kampus Berujung Kebuntuan 7,5 Jam",
         "excerpt": "Yonhap melaporkan proyek klub kampus di Seoul mengalami kebuntuan 7,5 jam setelah seorang peserta menyatakan mundur karena harus melakukan perjalanan ke luar negeri.",
         "body": "Konflik soal pengunduran diri dari proyek klub kampus di Seoul berujung pada kebuntuan selama 7,5 jam, lapor Yonhap. Menurut laporan itu, seorang peserta menyampaikan bahwa ia akan keluar dari proyek karena harus melakukan perjalanan ke luar negeri. Setelah itu, muncul tanggapan bernada bahwa anggota tidak bisa keluar semaunya, sehingga ketegangan meningkat terkait partisipasi dan prosedur keluar dari proyek klub tersebut. Kasus ini menunjukkan bahwa dalam kegiatan klub kampus sekalipun, cara mengelola proyek, kesepakatan antaranggota, dan prosedur pengunduran diri dapat menjadi sumber konflik. Rincian kejadian dan perkembangan lanjutannya dibahas dalam laporan Yonhap. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "46bd6382695c",
-    "slug": "미국으로-쏠리고-유럽으로-확장k뷰티-해외-시장-재편-260896",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T21:42:15.612Z",
-    "updatedAt": "2026-05-09T21:42:15.612Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509030100030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509030100030",
-    "titleFingerprint": "1a1353ef92343ff8b897c6eb994473e44c1bb4ae",
-    "dedupKeys": [
-      "46bd6382695c941917e52a40c2aef6d254f57778",
-      "1a1353ef92343ff8b897c6eb994473e44c1bb4ae",
-      "4044cc09a9dfc81b4242af9e9b9583c6bb10ea24"
-    ],
-    "imageUrl": "/images/articles/46bd6382695c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "K뷰티 해외 매출, 미국 중심 재편 속 유럽 성장축 부상",
-        "excerpt": "국내 주요 뷰티 상장사 3사의 올해 1분기 해외 매출이 미국 시장 중심으로 재편되는 가운데 유럽이 새로운 성장 지역으로 떠오르고 있다.",
-        "body": "올해 1분기 국내 주요 뷰티 상장사 3사의 해외 매출 흐름이 미국을 중심으로 재편되고 있다. 연합뉴스 보도에 따르면 K뷰티 기업들의 해외 시장 구도는 미국으로 쏠리는 동시에 유럽으로 확장되는 모습이다. 기존 해외 매출의 무게중심이 미국 시장에 맞춰지는 가운데, 유럽 시장은 새로운 성장 지역으로 부상하고 있다. 이는 국내 뷰티 기업들이 해외 매출 기반을 다시 짜는 과정에서 미국과 유럽의 중요성이 함께 커지고 있음을 보여준다. 향후 K뷰티 해외 전략은 미국 중심의 매출 확대와 유럽 시장 성장 가능성을 동시에 고려하는 방향으로 전개될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "K-Beauty Overseas Sales Shift Toward U.S. as Europe Emerges",
-        "excerpt": "In the first quarter of this year, overseas sales at three major listed Korean beauty firms are being reshaped around the U.S., while Europe is emerging as a new growth market.",
-        "body": "In the first quarter of this year, overseas sales trends at three major listed Korean beauty companies are being reorganized around the U.S. market. According to Yonhap News, the overseas market structure for K-beauty companies is shifting toward the United States while also expanding into Europe. As the center of gravity for overseas revenue moves toward the U.S., Europe is emerging as a new growth region. This shows that both the U.S. and Europe are becoming more important as Korean beauty firms reshape their overseas sales base. Future K-beauty overseas strategies are expected to reflect both U.S.-centered sales growth and Europe’s growth potential. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "Kビューティー海外売上、米国中心に再編し欧州が成長軸に",
-        "excerpt": "韓国の主要上場ビューティー企業3社の今年1～3月期海外売上は米国中心に再編される一方、欧州市場が新たな成長地域として浮上している。",
-        "body": "今年1～3月期、韓国の主要上場ビューティー企業3社の海外売上の流れは米国市場を中心に再編されている。聯合ニュースによると、Kビューティー企業の海外市場構図は米国に集中すると同時に、欧州へ拡大する動きを見せている。海外売上の重心が米国市場に移るなか、欧州市場は新たな成長地域として浮上している。これは韓国ビューティー企業が海外売上基盤を組み直す過程で、米国と欧州の重要性がともに高まっていることを示す。今後のKビューティー海外戦略は、米国中心の売上拡大と欧州市場の成長可能性を同時に考慮する方向で進む見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "K美妆海外销售转向美国，欧洲成新增长市场",
-        "excerpt": "今年第一季度，韩国三家主要上市美妆企业的海外销售正在以美国市场为中心重组，同时欧洲正成为新的增长地区。",
-        "body": "今年第一季度，韩国三家主要上市美妆企业的海外销售走势正以美国市场为中心重新调整。据韩联社报道，K美妆企业的海外市场格局一方面向美国集中，另一方面也在向欧洲扩展。在海外销售重心转向美国市场的同时，欧洲市场正作为新的增长地区浮现。这表明韩国美妆企业在重塑海外销售基础的过程中，美国和欧洲的重要性正在同步上升。未来K美妆的海外战略预计将同时考虑以美国为中心的销售扩大，以及欧洲市场的增长可能性。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ventas globales de K-beauty giran a EE. UU. y crece Europa",
-        "excerpt": "En el primer trimestre de este año, las ventas exteriores de tres grandes firmas coreanas de belleza cotizadas se reordenan en torno a EE. UU., mientras Europa emerge como nuevo mercado de crecimiento.",
-        "body": "En el primer trimestre de este año, las ventas en el exterior de tres importantes compañías coreanas de belleza cotizadas se están reconfigurando alrededor del mercado estadounidense. Según Yonhap News, la estructura internacional de las empresas de K-beauty se inclina hacia Estados Unidos al mismo tiempo que se expande hacia Europa. Mientras el centro de gravedad de los ingresos exteriores se desplaza al mercado estadounidense, Europa aparece como una nueva región de crecimiento. Esto muestra que la importancia de Estados Unidos y Europa aumenta a la vez en el proceso de reorganización de la base de ventas internacionales de las firmas coreanas de belleza. Las futuras estrategias exteriores de K-beauty deberán considerar tanto la expansión centrada en EE. UU. como el potencial de crecimiento europeo. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "K-beauty reorganiza vendas externas nos EUA e avança na Europa",
-        "excerpt": "No primeiro trimestre deste ano, as vendas externas de três grandes empresas coreanas de beleza listadas estão se reorganizando em torno dos EUA, enquanto a Europa surge como novo mercado de crescimento.",
-        "body": "No primeiro trimestre deste ano, o fluxo de vendas externas de três importantes empresas coreanas de beleza listadas está sendo reorganizado em torno do mercado dos Estados Unidos. Segundo a Yonhap News, a estrutura internacional das companhias de K-beauty mostra concentração nos EUA ao mesmo tempo em que se expande para a Europa. Enquanto o centro de gravidade da receita externa se desloca para o mercado americano, a Europa surge como uma nova região de crescimento. Isso indica que a importância dos EUA e da Europa aumenta simultaneamente à medida que as empresas coreanas de beleza reestruturam sua base de vendas no exterior. As futuras estratégias globais de K-beauty devem considerar tanto a expansão centrada nos EUA quanto o potencial de crescimento europeu. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "K-Beauty-Auslandsumsätze verlagern sich in die USA, Europa wächst",
-        "excerpt": "Im ersten Quartal dieses Jahres richten sich die Auslandsumsätze von drei großen börsennotierten koreanischen Beautyfirmen stärker auf die USA aus, während Europa als neuer Wachstumsmarkt hervortritt.",
-        "body": "Im ersten Quartal dieses Jahres werden die Auslandsumsätze von drei großen börsennotierten koreanischen Beautyunternehmen zunehmend rund um den US-Markt neu geordnet. Nach Angaben von Yonhap News verschiebt sich die internationale Marktstruktur der K-Beauty-Firmen in Richtung USA und erweitert sich zugleich nach Europa. Während der Schwerpunkt der Auslandsumsätze stärker auf den Vereinigten Staaten liegt, tritt Europa als neue Wachstumsregion hervor. Das zeigt, dass die Bedeutung der USA und Europas zugleich zunimmt, während koreanische Beautyunternehmen ihre internationale Umsatzbasis neu ausrichten. Künftige Auslandsstrategien von K-Beauty dürften sowohl das US-zentrierte Umsatzwachstum als auch das Wachstumspotenzial Europas berücksichtigen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "La K-beauty recentre ses ventes sur les États-Unis, l’Europe émerge",
-        "excerpt": "Au premier trimestre de cette année, les ventes à l’étranger de trois grands groupes coréens de beauté cotés se réorganisent autour des États-Unis, tandis que l’Europe devient un nouveau marché de croissance.",
-        "body": "Au premier trimestre de cette année, les ventes à l’étranger de trois grands groupes coréens de beauté cotés se réorganisent autour du marché américain. Selon Yonhap News, la structure internationale des entreprises de K-beauty se concentre sur les États-Unis tout en s’étendant vers l’Europe. Alors que le centre de gravité des revenus à l’étranger se déplace vers le marché américain, l’Europe apparaît comme une nouvelle région de croissance. Cela montre que l’importance des États-Unis et de l’Europe augmente simultanément alors que les entreprises coréennes de beauté réorganisent leur base de ventes internationales. Les futures stratégies mondiales de la K-beauty devraient donc tenir compte à la fois de l’expansion centrée sur les États-Unis et du potentiel de croissance européen. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مبيعات K-Beauty الخارجية تتجه إلى أمريكا وأوروبا تبرز كسوق نمو",
-        "excerpt": "في الربع الأول من هذا العام، يعاد تشكيل مبيعات الخارج لدى ثلاث شركات تجميل كورية كبرى مدرجة حول السوق الأميركية، بينما تبرز أوروبا كمنطقة نمو جديدة.",
-        "body": "في الربع الأول من هذا العام، تتجه مبيعات الخارج لدى ثلاث شركات تجميل كورية كبرى مدرجة إلى إعادة التشكل حول السوق الأميركية. وبحسب وكالة يونهاب للأنباء، فإن خريطة الأسواق الخارجية لشركات K-Beauty تميل نحو الولايات المتحدة في الوقت نفسه الذي تتوسع فيه إلى أوروبا. وبينما ينتقل مركز ثقل الإيرادات الخارجية إلى السوق الأميركية، تبرز أوروبا كمنطقة نمو جديدة. ويظهر ذلك أن أهمية الولايات المتحدة وأوروبا تزداد معا في عملية إعادة بناء قاعدة المبيعات الخارجية لشركات التجميل الكورية. ومن المتوقع أن تراعي استراتيجيات K-Beauty الخارجية المقبلة توسيع المبيعات المرتكزة على الولايات المتحدة وإمكانات النمو في السوق الأوروبية في آن واحد. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "K-Beauty की विदेशी बिक्री अमेरिका केंद्रित, यूरोप नया विकास बाजार",
-        "excerpt": "इस साल की पहली तिमाही में कोरिया की तीन प्रमुख सूचीबद्ध ब्यूटी कंपनियों की विदेशी बिक्री अमेरिका केंद्रित हो रही है, जबकि यूरोप नए विकास क्षेत्र के रूप में उभर रहा है।",
-        "body": "इस साल की पहली तिमाही में कोरिया की तीन प्रमुख सूचीबद्ध ब्यूटी कंपनियों की विदेशी बिक्री का रुख अमेरिकी बाजार के इर्द-गिर्द फिर से व्यवस्थित हो रहा है। योनहाप न्यूज के अनुसार, K-Beauty कंपनियों का विदेशी बाजार ढांचा अमेरिका की ओर केंद्रित हो रहा है और साथ ही यूरोप की ओर विस्तार कर रहा है। जहां विदेशी राजस्व का केंद्र अमेरिकी बाजार की ओर बढ़ रहा है, वहीं यूरोप नया विकास क्षेत्र बनकर उभर रहा है। यह दिखाता है कि कोरियाई ब्यूटी कंपनियां अपनी विदेशी बिक्री का आधार फिर से बनाते समय अमेरिका और यूरोप दोनों के महत्व को बढ़ते हुए देख रही हैं। आगे K-Beauty की विदेशी रणनीति में अमेरिका केंद्रित बिक्री विस्तार और यूरोपीय बाजार की वृद्धि संभावना दोनों पर ध्यान रहने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Penjualan Global K-Beauty Bergeser ke AS, Eropa Jadi Pasar Tumbuh",
-        "excerpt": "Pada kuartal pertama tahun ini, penjualan luar negeri tiga perusahaan kecantikan besar Korea yang tercatat di bursa bergerak berpusat pada AS, sementara Eropa muncul sebagai wilayah pertumbuhan baru.",
-        "body": "Pada kuartal pertama tahun ini, tren penjualan luar negeri tiga perusahaan kecantikan besar Korea yang tercatat di bursa sedang ditata ulang dengan berpusat pada pasar Amerika Serikat. Menurut Yonhap News, struktur pasar luar negeri perusahaan K-beauty condong ke AS sekaligus meluas ke Eropa. Saat pusat gravitasi pendapatan luar negeri bergeser ke pasar AS, Eropa muncul sebagai wilayah pertumbuhan baru. Hal ini menunjukkan bahwa pentingnya AS dan Eropa sama-sama meningkat ketika perusahaan kecantikan Korea menyusun kembali basis penjualan luar negerinya. Ke depan, strategi global K-beauty diperkirakan akan mempertimbangkan perluasan penjualan yang berpusat pada AS dan potensi pertumbuhan pasar Eropa secara bersamaan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "85471f4688f1",
-    "slug": "강북-거래-활황-vs-강남-숨-고르기서울-집합건물-거래-판-바뀌나-207455",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T21:41:23.073Z",
-    "updatedAt": "2026-05-09T21:41:23.073Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042407",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042407",
-    "titleFingerprint": "de9692c1e67eff800ee4fb911fedfd241d75d0de",
-    "dedupKeys": [
-      "85471f4688f1cabde00ea3f33ea156a88d4aebdd",
-      "de9692c1e67eff800ee4fb911fedfd241d75d0de",
-      "524185f3bd7e7a4d1f092f2068233505b2031f31"
-    ],
-    "imageUrl": "/images/articles/85471f4688f1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 집합건물 거래 온도차 뚜렷…강북·동작 반등, 강남은 숨 고르기",
-        "excerpt": "서울 부동산 매매 시장에서 자치구별 거래 활성화가 엇갈리고 있다. 동작구와 강북권은 전년 대비 회전율이 크게 반등한 반면 강남권은 숨 고르기 흐름을 보이고 있다.",
-        "body": "서울 집합건물 매매 시장에서 지역별 거래 흐름이 자치구에 따라 뚜렷하게 갈리고 있다. 최근 서울 부동산 거래 활성화 정도를 보면 동작구와 강북권 등 일부 지역은 전년 대비 회전율이 큰 폭으로 반등하며 거래 활황을 보였다. 반면 강남권은 상대적으로 숨 고르기에 들어간 분위기다. 이는 같은 서울 안에서도 매수세와 거래 회전 속도가 지역별로 다르게 움직이고 있음을 보여준다. 향후 서울 집합건물 시장은 강북·동작 등 회전율이 살아난 지역과 강남권의 조정 흐름이 함께 관찰되는 구도로 전개될 가능성이 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul Collective-Building Deals Diverge as North and Dongjak Rebound While Gangnam Pauses",
-        "excerpt": "Seoul’s real estate sales market is showing a clear district-by-district split, with turnover rebounding sharply in Dongjak and northern Seoul while Gangnam shows signs of a pause.",
-        "body": "Seoul’s collective-building sales market is showing a clear regional divide by district. Recent activity in the city’s property transaction market indicates that some areas, including Dongjak District and northern Seoul, have seen turnover rebound sharply from a year earlier, pointing to lively trading. By contrast, Gangnam appears to be entering a relative pause. The trend shows that even within Seoul, buyer activity and transaction rotation are moving at different speeds depending on location. Going forward, the market may continue to show a split between areas where turnover has revived, such as northern Seoul and Dongjak, and the more restrained flow in Gangnam. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソウル集合建物取引に温度差、江北・銅雀は反発し江南は一服感",
-        "excerpt": "ソウル不動産売買市場では自治区ごとに取引活性度の差が鮮明になっている。銅雀区と江北圏は前年比で回転率が大きく反発する一方、江南圏は一服感を示している。",
-        "body": "ソウルの集合建物売買市場で、地域別の取引動向が自治区によって明確に分かれている。最近のソウル不動産取引の活性度を見ると、銅雀区や江北圏など一部地域では前年比で回転率が大きく反発し、取引が活発な様子を見せた。一方、江南圏は相対的に一服局面に入った雰囲気だ。これは同じソウル内でも買い需要と取引回転の速度が地域ごとに異なって動いていることを示す。今後のソウル集合建物市場は、江北・銅雀など回転率が回復した地域と、江南圏の調整気味の流れが併存する構図で推移する可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔集合建筑交易分化明显：江北、铜雀反弹，江南暂缓观望",
-        "excerpt": "首尔房地产买卖市场正呈现按自治区别分化的交易温差。铜雀区和江北圈周转率较上年大幅反弹，而江南圈则显现暂缓观望的走势。",
-        "body": "首尔集合建筑买卖市场的区域交易走势正按自治区别明显分化。近期首尔房地产交易活跃度显示，铜雀区和江北圈等部分地区的周转率较上年大幅反弹，交易呈现活跃态势。相比之下，江南圈则相对进入暂缓观望阶段。这表明，即使同在首尔，买盘力度和交易周转速度也会因地区不同而出现差异。展望后市，首尔集合建筑市场可能继续呈现两种走势并存的格局：江北、铜雀等周转率恢复的地区，以及江南圈相对调整的交易 흐름。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El mercado de edificios colectivos en Seúl se divide: repuntan Dongjak y el norte, Gangnam pausa",
-        "excerpt": "El mercado inmobiliario de Seúl muestra una clara diferencia por distrito: Dongjak y el norte de la ciudad registran un fuerte repunte interanual de rotación, mientras Gangnam modera su ritmo.",
-        "body": "El mercado de compraventa de edificios colectivos en Seúl está mostrando una división clara según el distrito. La actividad reciente indica que algunas zonas, como Dongjak y el norte de Seúl, registraron una fuerte recuperación interanual en la rotación, reflejando un mercado más activo. En cambio, Gangnam parece estar en una fase de pausa relativa. Esta diferencia muestra que, incluso dentro de Seúl, la demanda compradora y la velocidad de las transacciones avanzan de forma distinta según la zona. En adelante, el mercado podría seguir mostrando una coexistencia entre áreas donde la rotación se ha reactivado, como Dongjak y el norte, y el ritmo más contenido de Gangnam. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Negócios de edifícios coletivos em Seul se dividem: norte e Dongjak reagem, Gangnam pausa",
-        "excerpt": "O mercado imobiliário de Seul mostra diferenças claras entre distritos. Dongjak e o norte da cidade tiveram forte recuperação anual no giro, enquanto Gangnam apresenta um ritmo mais contido.",
-        "body": "O mercado de compra e venda de edifícios coletivos em Seul está exibindo uma divisão clara por distrito. A atividade recente mostra que algumas áreas, como Dongjak e o norte de Seul, registraram forte recuperação do giro em relação ao ano anterior, indicando negociações mais aquecidas. Já Gangnam parece estar em uma fase de pausa relativa. Esse movimento mostra que, mesmo dentro de Seul, a força compradora e a velocidade de rotação das transações variam conforme a região. Daqui em diante, o mercado pode seguir dividido entre áreas onde o giro voltou a crescer, como Dongjak e o norte, e o fluxo mais moderado em Gangnam. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Seouls Markt für Sammelgebäude spaltet sich: Norden und Dongjak erholen sich, Gangnam pausiert",
-        "excerpt": "Am Immobilienmarkt in Seoul zeigen sich deutliche Unterschiede nach Bezirken. Dongjak und der Norden verzeichnen eine starke Erholung der Umschlagrate, während Gangnam an Dynamik verliert.",
-        "body": "Der Markt für den Kauf und Verkauf von Sammelgebäuden in Seoul zeigt je nach Bezirk eine klare Spaltung. Die jüngste Aktivität am Immobilienmarkt deutet darauf hin, dass einige Gebiete, darunter Dongjak und der Norden Seouls, bei der Umschlagrate gegenüber dem Vorjahr stark zugelegt haben und lebhafte Transaktionen verzeichnen. Gangnam hingegen befindet sich offenbar in einer Phase relativer Zurückhaltung. Das zeigt, dass sich Kaufinteresse und Transaktionsgeschwindigkeit selbst innerhalb Seouls je nach Lage unterschiedlich entwickeln. Künftig könnte der Markt weiter zwischen erholten Regionen wie Dongjak und dem Norden sowie dem gebremsten Verlauf in Gangnam verlaufen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les ventes d’immeubles collectifs à Séoul divergent: rebond au nord et à Dongjak, pause à Gangnam",
-        "excerpt": "Le marché immobilier de Séoul montre un net écart selon les arrondissements. Dongjak et le nord de la ville voient leur rotation rebondir fortement sur un an, tandis que Gangnam marque une pause.",
-        "body": "Le marché des ventes d’immeubles collectifs à Séoul affiche une nette divergence selon les arrondissements. Les données récentes d’activité immobilière montrent que certaines zones, dont Dongjak et le nord de Séoul, ont enregistré un fort rebond de leur taux de rotation par rapport à l’an dernier, signe d’échanges plus dynamiques. À l’inverse, Gangnam semble entrer dans une phase de pause relative. Cette évolution montre que, même au sein de Séoul, la demande d’achat et la vitesse des transactions varient selon les quartiers. Le marché pourrait donc continuer à évoluer entre des zones où la rotation s’est redressée, comme Dongjak et le nord, et un flux plus modéré à Gangnam. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تباين صفقات المباني الجماعية في سول: انتعاش في الشمال ودونغجاك وتريث في غانغنام",
-        "excerpt": "يشهد سوق بيع العقارات في سول تباينا واضحا بين المناطق. فقد ارتفع معدل الدوران في دونغجاك وشمال سول بقوة مقارنة بالعام السابق، بينما تبدو غانغنام في مرحلة تريث.",
-        "body": "يشهد سوق بيع وشراء المباني الجماعية في سول تباينا واضحا بحسب الأحياء الإدارية. وتظهر حركة السوق الأخيرة أن بعض المناطق، مثل دونغجاك وشمال سول، سجلت ارتدادا كبيرا في معدل الدوران مقارنة بالعام السابق، ما يشير إلى نشاط أوضح في التداول. في المقابل، تبدو منطقة غانغنام وكأنها دخلت مرحلة تريث نسبي. ويعكس ذلك أن قوة الطلب وسرعة دوران الصفقات داخل سول نفسها تتحركان بشكل مختلف من منطقة إلى أخرى. وقد يستمر السوق لاحقا في إظهار مسارين متوازيين: مناطق تعافى فيها الدوران مثل شمال سول ودونغجاك، وتدفق أكثر هدوءا في غانغنام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल में सामूहिक इमारतों के सौदों में फर्क: उत्तर और डोंगजाक उछले, गंगनम ठहरा",
-        "excerpt": "सियोल के रियल एस्टेट बिक्री बाजार में जिलेवार सक्रियता का अंतर साफ दिख रहा है। डोंगजाक और उत्तरी सियोल में टर्नओवर दर सालाना आधार पर तेज लौटी, जबकि गंगनम में ठहराव दिखा।",
-        "body": "सियोल के सामूहिक इमारतों की खरीद-बिक्री बाजार में क्षेत्रवार रुझान जिले के अनुसार साफ अलग दिख रहे हैं। हाल की रियल एस्टेट गतिविधि बताती है कि डोंगजाक और उत्तरी सियोल जैसे कुछ इलाकों में टर्नओवर दर पिछले वर्ष की तुलना में काफी बढ़ी है, जिससे लेनदेन में तेजी दिखती है। इसके विपरीत, गंगनम अपेक्षाकृत ठहराव के दौर में दिख रहा है। यह संकेत देता है कि सियोल के भीतर भी खरीदार मांग और सौदों की गति क्षेत्र के अनुसार अलग-अलग चल रही है। आगे बाजार में उत्तरी सियोल और डोंगजाक जैसे सुधरे इलाकों तथा गंगनम के संयमित रुझान का मिश्रित ढांचा दिख सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Transaksi bangunan kolektif Seoul terbelah: utara dan Dongjak pulih, Gangnam menahan laju",
-        "excerpt": "Pasar jual beli properti Seoul menunjukkan perbedaan jelas antar-distrik. Dongjak dan wilayah utara mencatat lonjakan rasio perputaran tahunan, sementara Gangnam menunjukkan fase jeda.",
-        "body": "Pasar jual beli bangunan kolektif di Seoul menunjukkan perbedaan arah yang jelas menurut distrik. Aktivitas terbaru memperlihatkan bahwa beberapa wilayah, termasuk Distrik Dongjak dan kawasan utara Seoul, mencatat pemulihan besar rasio perputaran dibandingkan tahun sebelumnya, menandakan transaksi yang lebih aktif. Sebaliknya, Gangnam terlihat memasuki fase jeda relatif. Kondisi ini menunjukkan bahwa bahkan di dalam Seoul, minat beli dan kecepatan perputaran transaksi bergerak berbeda menurut lokasi. Ke depan, pasar bangunan kolektif Seoul dapat tetap terbagi antara wilayah yang perputarannya pulih, seperti utara Seoul dan Dongjak, serta arus yang lebih tertahan di Gangnam. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ba6c4b653d76",
-    "slug": "이젠-냉장고-대신-k뷰티가-주력-상품달라진-한국-수출지도-719096",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T21:40:25.946Z",
-    "updatedAt": "2026-05-09T21:40:25.947Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12042408",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042408",
-    "titleFingerprint": "a05838f1b800682b919c016d24b0811b97d02bdc",
-    "dedupKeys": [
-      "ba6c4b653d76b2d985275404ee05bb0bace9dc61",
-      "a05838f1b800682b919c016d24b0811b97d02bdc",
-      "8a7ee454953fd897b87f6159d307cb69c0c47c61"
-    ],
-    "imageUrl": "/images/articles/ba6c4b653d76.jpg",
-    "i18n": {
-      "ko": {
-        "title": "K뷰티·식품이 바꾼 한국 수출지도, 냉장고 대신 새 주력 부상",
-        "excerpt": "한국의 주요 수출품목 구성이 달라지고 있다. 현지 생산이 늘어난 자동차·가전 수출은 줄고, 화장품과 농수산식품은 크게 늘며 주력 관리 품목도 확대됐다.",
-        "body": "한국의 수출지도가 주요 품목 변화를 중심으로 달라지고 있다. 20대 주요 수출품목 수출액 추이에 따르면 현지 생산이 늘어난 자동차와 가전은 감소한 반면, 화장품과 농수산식품은 크게 늘었다. 과거 냉장고 등 가전이 대표 수출품으로 꼽혔다면 최근에는 K뷰티와 식품이 새 성장축으로 부상한 흐름이다. 정부와 업계는 주력 수출품목 관리 대상을 기존 15개에서 20개로 늘려 반도체, 화장품, 전자 등 핵심 품목을 함께 살피는 방향으로 대응하고 있다. 품목 다변화가 한국 수출 경쟁력의 새 과제가 된 셈이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "K-Beauty and Food Reshape Korea’s Export Map as Appliances Fade",
-        "excerpt": "Korea’s export mix is shifting as overseas production weighs on cars and home appliances, while cosmetics and agricultural and fisheries foods rise sharply among key export items.",
-        "body": "Korea’s export map is changing around its major product categories. Trends in export value for the top 20 export items show that cars and home appliances, where local production overseas has increased, have declined, while cosmetics and agricultural and fisheries foods have grown sharply. If refrigerators and other appliances once stood for Korea’s export strength, K-beauty and food are now emerging as new growth pillars. The government and industry are responding by expanding the list of key export items under management from 15 to 20, covering core areas such as semiconductors, cosmetics and electronics. Diversifying export items has become a new task for Korea’s trade competitiveness. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "Kビューティーと食品が変える韓国輸出地図、家電に代わる主力へ",
-        "excerpt": "韓国の主要輸出品目の構成が変化している。現地生産が増えた自動車・家電は減少し、化粧品や農水産食品は大きく伸びている。",
-        "body": "韓国の輸出地図が主要品目の変化を中心に塗り替えられている。20大主要輸出品目の輸出額推移によると、現地生産が増えた自動車と家電は減少した一方、化粧品と農水産食品は大きく増えた。かつて冷蔵庫などの家電が代表的な輸出品とされたなら、最近はKビューティーと食品が新たな成長軸として浮上している。政府と業界は主力輸出品目の管理対象を従来の15品目から20品目に増やし、半導体、化粧品、電子などの中核品目をあわせて点検する方向で対応している。品目の多角化が韓国輸出競争力の新たな課題となった。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "K美妆与食品改写韩国出口版图，家电主力地位减弱",
-        "excerpt": "韩国主要出口品类正在变化。随着汽车和家电海外本地生产增加，出口减少，而化妆品及农水产食品出口大幅增长。",
-        "body": "韩国出口版图正围绕主要品类变化而改写。20大主要出口品目出口额走势显示，海外本地生产增加的汽车和家电出口减少，而化妆品及农水产食品大幅增长。过去冰箱等家电曾被视为韩国代表性出口商品，如今K美妆和食品正成为新的增长轴。政府和业界将重点出口品目管理对象从原来的15个扩大到20个，并把半导体、化妆品、电子等核心品类纳入共同关注范围。出口品类多元化已成为韩国提升出口竞争力的新课题。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "K-beauty y alimentos cambian el mapa exportador de Corea",
-        "excerpt": "La composición de las exportaciones clave de Corea está cambiando: bajan autos y electrodomésticos por mayor producción local, mientras crecen cosméticos y alimentos agropecuarios y pesqueros.",
-        "body": "El mapa exportador de Corea está cambiando por la evolución de sus principales rubros. Según la tendencia del valor exportado de los 20 principales productos, los automóviles y electrodomésticos, afectados por el aumento de la producción local en el exterior, disminuyeron, mientras que los cosméticos y los alimentos agropecuarios y pesqueros crecieron con fuerza. Si antes refrigeradores y otros electrodomésticos representaban las exportaciones coreanas, ahora la K-beauty y los alimentos surgen como nuevos ejes de crecimiento. El gobierno y la industria ampliaron de 15 a 20 los productos clave bajo gestión, incluyendo semiconductores, cosméticos y electrónica. La diversificación se vuelve una nueva tarea para la competitividad exportadora de Corea. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "K-beauty e alimentos mudam o mapa das exportações da Coreia",
-        "excerpt": "A pauta exportadora da Coreia está mudando: carros e eletrodomésticos recuam com mais produção local no exterior, enquanto cosméticos e alimentos agropecuários e pesqueiros avançam.",
-        "body": "O mapa das exportações da Coreia está mudando com a transformação dos principais produtos. A evolução do valor exportado dos 20 maiores itens mostra queda em automóveis e eletrodomésticos, cuja produção local no exterior aumentou, enquanto cosméticos e alimentos agropecuários e pesqueiros cresceram fortemente. Se geladeiras e outros eletrodomésticos já foram símbolos das exportações coreanas, agora K-beauty e alimentos aparecem como novos eixos de crescimento. Governo e indústria ampliaram de 15 para 20 os itens principais monitorados, incluindo semicondutores, cosméticos e eletrônicos. A diversificação de produtos tornou-se uma nova tarefa para a competitividade exportadora da Coreia. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "K-Beauty und Lebensmittel verändern Koreas Exportlandkarte",
-        "excerpt": "Koreas wichtigste Exportgüter verschieben sich: Autos und Haushaltsgeräte gehen wegen mehr lokaler Produktion zurück, Kosmetik sowie Agrar- und Fischereiprodukte legen stark zu.",
-        "body": "Koreas Exportlandkarte verändert sich entlang seiner wichtigsten Produktgruppen. Die Entwicklung der Exportwerte der 20 führenden Ausfuhrgüter zeigt: Autos und Haushaltsgeräte, bei denen die lokale Produktion im Ausland zugenommen hat, gingen zurück, während Kosmetik sowie Agrar- und Fischereiprodukte deutlich zulegten. Galten früher Kühlschränke und andere Geräte als typische koreanische Exportwaren, rücken nun K-Beauty und Lebensmittel als neue Wachstumssäulen nach vorn. Regierung und Branche erweiterten die überwachten Kernexportgüter von 15 auf 20 und beziehen Halbleiter, Kosmetik und Elektronik ein. Die Diversifizierung der Exportgüter wird damit zu einer neuen Aufgabe für Koreas Wettbewerbsfähigkeit. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "K-beauty et aliments redessinent la carte des exportations coréennes",
-        "excerpt": "La structure des exportations coréennes évolue: autos et électroménager reculent avec la production locale accrue, tandis que cosmétiques et produits agroalimentaires et halieutiques progressent.",
-        "body": "La carte des exportations coréennes se transforme autour de ses principaux produits. L’évolution de la valeur des 20 grands postes d’exportation montre un recul des automobiles et de l’électroménager, dont la production locale à l’étranger a augmenté, tandis que les cosmétiques et les produits agricoles, alimentaires et halieutiques ont fortement progressé. Si les réfrigérateurs et autres appareils symbolisaient autrefois les exportations coréennes, la K-beauty et l’alimentaire deviennent désormais de nouveaux axes de croissance. Le gouvernement et les entreprises ont porté de 15 à 20 le nombre de produits clés suivis, incluant semi-conducteurs, cosmétiques et électronique. La diversification devient un nouvel enjeu de compétitivité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الجمال الكوري والأغذية يغيران خريطة صادرات كوريا مع تراجع الأجهزة",
-        "excerpt": "تتغير تركيبة الصادرات الكورية الرئيسية مع انخفاض السيارات والأجهزة المنزلية بفعل زيادة الإنتاج المحلي في الخارج، مقابل نمو كبير في مستحضرات التجميل والأغذية الزراعية والسمكية.",
-        "body": "تتغير خريطة صادرات كوريا حول أصنافها الرئيسية. وتظهر اتجاهات قيمة الصادرات لأكبر 20 سلعة أن السيارات والأجهزة المنزلية، التي زاد إنتاجها المحلي في الخارج، تراجعت، بينما ارتفعت مستحضرات التجميل والمنتجات الزراعية والسمكية الغذائية بشكل كبير. وإذا كانت الثلاجات وغيرها من الأجهزة تمثل سابقا صادرات كوريا البارزة، فإن الجمال الكوري والأغذية يبرزان الآن كمحورين جديدين للنمو. واستجابت الحكومة والقطاع بتوسيع قائمة السلع التصديرية الرئيسية الخاضعة للإدارة من 15 إلى 20، بما يشمل أشباه الموصلات ومستحضرات التجميل والإلكترونيات. وأصبح تنويع السلع مهمة جديدة لتعزيز تنافسية الصادرات الكورية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "K-ब्यूटी और खाद्य उत्पादों ने बदला कोरिया का निर्यात नक्शा",
-        "excerpt": "कोरिया के प्रमुख निर्यात उत्पादों की संरचना बदल रही है। विदेशों में स्थानीय उत्पादन बढ़ने से कार और घरेलू उपकरण घटे, जबकि कॉस्मेटिक्स और कृषि-मत्स्य खाद्य उत्पाद तेजी से बढ़े।",
-        "body": "कोरिया का निर्यात नक्शा प्रमुख उत्पादों में बदलाव के साथ बदल रहा है। शीर्ष 20 निर्यात वस्तुओं के निर्यात मूल्य के रुझान बताते हैं कि विदेशों में स्थानीय उत्पादन बढ़ने वाली कारों और घरेलू उपकरणों में कमी आई, जबकि कॉस्मेटिक्स और कृषि-मत्स्य खाद्य उत्पादों में बड़ा इजाफा हुआ। पहले रेफ्रिजरेटर जैसे घरेलू उपकरण कोरिया के प्रतिनिधि निर्यात उत्पाद माने जाते थे, लेकिन अब K-ब्यूटी और खाद्य उत्पाद नए विकास स्तंभ के रूप में उभर रहे हैं। सरकार और उद्योग ने प्रमुख निर्यात वस्तुओं की निगरानी सूची 15 से बढ़ाकर 20 कर दी है, जिसमें सेमीकंडक्टर, कॉस्मेटिक्स और इलेक्ट्रॉनिक्स जैसे मुख्य उत्पाद शामिल हैं। उत्पाद विविधीकरण कोरिया की निर्यात प्रतिस्पर्धा की नई चुनौती बन गया है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "K-beauty dan Pangan Mengubah Peta Ekspor Korea",
-        "excerpt": "Komposisi ekspor utama Korea berubah. Mobil dan peralatan rumah tangga turun karena produksi lokal di luar negeri meningkat, sementara kosmetik serta pangan pertanian dan perikanan melonjak.",
-        "body": "Peta ekspor Korea berubah seiring pergeseran produk utamanya. Tren nilai ekspor 20 komoditas utama menunjukkan mobil dan peralatan rumah tangga, yang produksinya semakin banyak dilakukan secara lokal di luar negeri, mengalami penurunan, sedangkan kosmetik serta produk pangan pertanian dan perikanan meningkat tajam. Jika dahulu kulkas dan peralatan rumah tangga menjadi simbol ekspor Korea, kini K-beauty dan pangan muncul sebagai poros pertumbuhan baru. Pemerintah dan industri memperluas daftar produk ekspor utama yang dikelola dari 15 menjadi 20, mencakup semikonduktor, kosmetik, dan elektronik. Diversifikasi produk menjadi tugas baru bagi daya saing ekspor Korea. Sumber: mk.co.kr"
       }
     }
   }
