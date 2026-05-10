@@ -1,5 +1,230 @@
 [
   {
+    "id": "b15a4937a58f",
+    "slug": "속보-이-대통령-지지율-597민주-487국힘-309-리얼미터-541508",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T23:45:44.087Z",
+    "updatedAt": "2026-05-10T23:45:44.087Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12042864",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042864",
+    "titleFingerprint": "97ab4b6db9fd9df0f80f9eebbb71337c0f5970c5",
+    "dedupKeys": [
+      "b15a4937a58fe51f2e2263c5bd8fc9955c5e2827",
+      "97ab4b6db9fd9df0f80f9eebbb71337c0f5970c5",
+      "4a6bfe709ec8b7c972fe0626f8f71ec2a3614a52"
+    ],
+    "imageUrl": "/images/articles/b15a4937a58f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이재명 대통령 지지율 59.7% 발표, 민주당 48.7%·국민의힘 30.9% [리얼미터]",
+        "excerpt": "리얼미터가 에너지경제신문 의뢰로 5월 4일부터 8일까지 전국 18세 이상 유권자를 조사한 결과, 이재명 대통령 국정수행 지지율은 59.7%로 집계됐다.",
+        "body": "이재명 대통령의 국정수행 지지율이 59.7%를 기록했다는 여론조사 결과가 11일 나왔다. 리얼미터가 에너지경제신문 의뢰로 지난 5월 4일부터 8일까지, 5월 1주 전국 18세 이상 유권자를 대상으로 조사한 결과다. 정당 지지도는 더불어민주당 48.7%, 국민의힘 30.9%로 집계됐다. 이번 조사는 대통령 국정수행 평가와 주요 정당 지지 흐름을 함께 보여주는 지표로 제시됐다. 향후 정치권은 대통령 지지율과 여야 정당 지지도 격차를 주요 여론 흐름으로 참고할 것으로 보인다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Lee Jae-myung Approval at 59.7%, Democratic Party 48.7% and PPP 30.9%: Realmeter",
+        "excerpt": "Realmeter, commissioned by Energy Economic News, surveyed voters aged 18 and older nationwide from May 4 to 8 and found President Lee Jae-myung’s approval rating at 59.7%.",
+        "body": "A poll released on the 11th showed President Lee Jae-myung’s approval rating for state affairs at 59.7%. The survey was conducted by Realmeter at the request of Energy Economic News from May 4 to 8, during the first week of May, among voters aged 18 and older across the country. Party support stood at 48.7% for the Democratic Party and 30.9% for the People Power Party. The figures were presented as a snapshot of both the president’s job approval and the support trend for major parties. Political circles are expected to refer to the president’s rating and the gap between ruling and opposition party support as key public opinion indicators. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "李在明大統領の支持率59.7%、民主党48.7%・国民の力30.9% リアルメーター",
+        "excerpt": "リアルメーターがエネルギー経済新聞の依頼で5月4日から8日まで全国18歳以上の有権者を調査し、李在明大統領の国政遂行支持率は59.7%となった。",
+        "body": "李在明大統領の国政遂行支持率が59.7%を記録したとの世論調査結果が11日に発表された。リアルメーターがエネルギー経済新聞の依頼を受け、5月4日から8日まで、5月第1週に全国18歳以上の有権者を対象に実施した調査の結果だ。政党支持率は共に民主党が48.7%、国民の力が30.9%と集計された。今回の調査は、大統領の国政遂行評価と主要政党への支持の流れを同時に示す指標として提示された。今後、政治圏では大統領支持率と与野党の支持率差を主要な世論動向として参考にするとみられる。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "李在明总统支持率59.7%，共同民主党48.7%·国民力量30.9%：Realmeter",
+        "excerpt": "Realmeter受《能源经济新闻》委托，于5月4日至8日调查全国18岁以上选民，结果显示李在明总统施政支持率为59.7%。",
+        "body": "11日公布的一项民调结果显示，李在明总统的施政支持率为59.7%。该调查由Realmeter受《能源经济新闻》委托，于5月4日至8日，即5月第一周，面向全国18岁以上选民进行。政党支持率方面，共同民主党为48.7%，国民力量为30.9%。此次调查同时呈现了总统施政评价和主要政党的支持 흐름。相关数据被作为观察舆论走向的指标提出。今后，韩国政界预计将把总统支持率以及朝野政党支持率差距作为主要民意 흐름加以参考。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Aprobación de Lee Jae-myung llega al 59,7%; Partido Demócrata 48,7% y PPP 30,9%",
+        "excerpt": "Realmeter, por encargo de Energy Economic News, encuestó del 4 al 8 de mayo a votantes mayores de 18 años en todo el país y situó la aprobación de Lee Jae-myung en 59,7%.",
+        "body": "Un sondeo publicado el día 11 mostró que la aprobación del desempeño del presidente Lee Jae-myung se situó en el 59,7%. La encuesta fue realizada por Realmeter a pedido de Energy Economic News entre el 4 y el 8 de mayo, durante la primera semana de mayo, entre votantes de 18 años o más en todo el país. El apoyo partidario fue del 48,7% para el Partido Demócrata y del 30,9% para el Partido del Poder Popular. Los datos se presentaron como un indicador conjunto de la evaluación presidencial y la tendencia de apoyo a los principales partidos. La política surcoreana tomará como referencia la aprobación presidencial y la brecha entre los partidos. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Aprovação de Lee Jae-myung marca 59,7%; Partido Democrata 48,7% e PPP 30,9%",
+        "excerpt": "A Realmeter, a pedido do Energy Economic News, ouviu eleitores de 18 anos ou mais em todo o país de 4 a 8 de maio e apontou aprovação de 59,7% para Lee Jae-myung.",
+        "body": "Uma pesquisa divulgada no dia 11 mostrou que a aprovação do desempenho do presidente Lee Jae-myung chegou a 59,7%. O levantamento foi feito pela Realmeter a pedido do Energy Economic News entre 4 e 8 de maio, na primeira semana de maio, com eleitores de 18 anos ou mais em todo o país. O apoio partidário foi de 48,7% para o Partido Democrata e 30,9% para o Partido do Poder Popular. Os números foram apresentados como um indicador da avaliação do governo presidencial e da tendência de apoio aos principais partidos. O cenário político deve observar a aprovação presidencial e a diferença entre governo e oposição como sinais de opinião pública. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Lee Jae-myung bei 59,7% Zustimmung; Demokratische Partei 48,7%, PPP 30,9%",
+        "excerpt": "Realmeter befragte im Auftrag von Energy Economic News vom 4. bis 8. Mai landesweit Wahlberechtigte ab 18 Jahren; Lee Jae-myungs Amtszustimmung lag bei 59,7%.",
+        "body": "Eine am 11. veröffentlichte Umfrage zeigt, dass die Zustimmung zur Amtsführung von Präsident Lee Jae-myung bei 59,7% liegt. Die Erhebung wurde von Realmeter im Auftrag von Energy Economic News vom 4. bis 8. Mai, in der ersten Maiwoche, unter Wahlberechtigten ab 18 Jahren im ganzen Land durchgeführt. Bei der Parteienunterstützung kam die Demokratische Partei auf 48,7%, die People Power Party auf 30,9%. Die Zahlen wurden als gemeinsamer Hinweis auf die Bewertung der Präsidentschaft und die Unterstützung wichtiger Parteien vorgestellt. Politische Akteure dürften die Präsidentenzustimmung und den Abstand zwischen Regierung und Opposition als zentrale Stimmungssignale heranziehen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Lee Jae-myung à 59,7% d’approbation; Parti démocrate 48,7%, PPP 30,9%",
+        "excerpt": "Realmeter, mandaté par Energy Economic News, a interrogé du 4 au 8 mai des électeurs de 18 ans et plus dans tout le pays; l’approbation de Lee Jae-myung atteint 59,7%.",
+        "body": "Un sondage publié le 11 indique que la cote d’approbation de l’action du président Lee Jae-myung s’établit à 59,7%. L’enquête a été menée par Realmeter à la demande d’Energy Economic News du 4 au 8 mai, lors de la première semaine de mai, auprès d’électeurs âgés de 18 ans et plus dans tout le pays. Le soutien aux partis ressort à 48,7% pour le Parti démocrate et à 30,9% pour le People Power Party. Ces chiffres ont été présentés comme un indicateur à la fois de l’évaluation de la présidence et de l’évolution du soutien aux principaux partis. Les milieux politiques devraient suivre la cote présidentielle et l’écart entre les partis comme repères d’opinion. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تأييد لي جاي ميونغ يبلغ 59.7% والديمقراطي 48.7% وقوة الشعب 30.9%",
+        "excerpt": "أظهر استطلاع أجرته Realmeter بتكليف من Energy Economic News بين 4 و8 مايو للناخبين فوق 18 عاما في أنحاء البلاد أن تأييد الرئيس لي جاي ميونغ بلغ 59.7%.",
+        "body": "أظهرت نتائج استطلاع نُشرت في اليوم 11 أن نسبة تأييد أداء الرئيس لي جاي ميونغ في إدارة شؤون الدولة بلغت 59.7%. وأجرت Realmeter الاستطلاع بتكليف من Energy Economic News بين 4 و8 مايو، خلال الأسبوع الأول من مايو، على ناخبين تبلغ أعمارهم 18 عاما فأكثر في أنحاء البلاد. وبلغ تأييد الأحزاب 48.7% للحزب الديمقراطي و30.9% لحزب قوة الشعب. وقدمت الأرقام بوصفها مؤشرا يجمع بين تقييم أداء الرئيس واتجاه الدعم للأحزاب الرئيسية. ومن المتوقع أن تتابع الأوساط السياسية نسبة تأييد الرئيس والفارق بين دعم الحزبين كإشارات رئيسية للرأي العام. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "ली जे-म्युंग की स्वीकृति 59.7%, डेमोक्रेटिक पार्टी 48.7% और PPP 30.9%",
+        "excerpt": "Realmeter ने Energy Economic News के अनुरोध पर 4 से 8 मई तक देशभर के 18 वर्ष से अधिक मतदाताओं का सर्वे किया, जिसमें ली जे-म्युंग की स्वीकृति 59.7% रही।",
+        "body": "11 तारीख को जारी एक जनमत सर्वेक्षण के अनुसार राष्ट्रपति ली जे-म्युंग के सरकारी कामकाज की स्वीकृति दर 59.7% दर्ज की गई। यह सर्वे Realmeter ने Energy Economic News के अनुरोध पर 4 से 8 मई, यानी मई के पहले सप्ताह में, देशभर के 18 वर्ष और उससे अधिक आयु के मतदाताओं के बीच किया। दलगत समर्थन में डेमोक्रेटिक पार्टी को 48.7% और पीपल पावर पार्टी को 30.9% समर्थन मिला। ये आंकड़े राष्ट्रपति के कामकाज के मूल्यांकन और प्रमुख दलों के समर्थन रुझान को साथ दिखाने वाले संकेतक के रूप में प्रस्तुत किए गए। राजनीतिक जगत राष्ट्रपति की स्वीकृति और दलों के समर्थन अंतर को जनमत के अहम संकेत के रूप में देखेगा। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Approval Lee Jae-myung 59,7%, Partai Demokrat 48,7% dan PPP 30,9%",
+        "excerpt": "Realmeter atas permintaan Energy Economic News mensurvei pemilih berusia 18 tahun ke atas di seluruh negeri pada 4-8 Mei, dan approval Presiden Lee Jae-myung tercatat 59,7%.",
+        "body": "Hasil survei yang dirilis pada tanggal 11 menunjukkan tingkat dukungan terhadap kinerja Presiden Lee Jae-myung sebesar 59,7%. Survei ini dilakukan Realmeter atas permintaan Energy Economic News pada 4-8 Mei, pekan pertama Mei, terhadap pemilih berusia 18 tahun ke atas di seluruh negeri. Dukungan partai tercatat 48,7% untuk Partai Demokrat dan 30,9% untuk Partai Kekuatan Rakyat. Angka tersebut disajikan sebagai indikator yang memperlihatkan penilaian terhadap kinerja presiden sekaligus tren dukungan bagi partai-partai utama. Kalangan politik diperkirakan akan merujuk pada approval presiden dan selisih dukungan antara partai pemerintah dan oposisi sebagai arus opini publik utama. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "38495740b16c",
+    "slug": "3분기부터는-관심-가질만와이지엔터-목표가-하향-310863",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T23:44:39.340Z",
+    "updatedAt": "2026-05-10T23:44:39.340Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042875",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042875",
+    "titleFingerprint": "65c1035c89e0a252dba73be051400de155c3f8cb",
+    "dedupKeys": [
+      "38495740b16cedc153aa204830b8ee351de84aa3",
+      "65c1035c89e0a252dba73be051400de155c3f8cb",
+      "779b4763b80c58e9da6cc4153db43e73bd501da7"
+    ],
+    "imageUrl": "/images/articles/38495740b16c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "와이지엔터 목표가 7만6000원 하향, 3분기 이후 모멘텀 주목",
+        "excerpt": "하나증권은 11일 와이지엔터테인먼트의 디레이팅 흐름을 반영해 목표주가를 8만원에서 7만6000원으로 낮추고, 하반기 빅뱅 투어와 신인 데뷔 모멘텀을 주목했다.",
+        "body": "하나증권은 11일 와이지엔터테인먼트에 대해 최근 디레이팅, 즉 가치 하락 흐름을 반영해 목표주가를 기존 8만원에서 7만6000원으로 하향 조정했다. 이번 조정은 엔터 업종과 개별 기업에 대한 시장 평가 변화가 주가 산정에 반영된 결과로 풀이된다. 다만 하나증권은 하반기 예정된 빅뱅 투어와 신인 데뷔 모멘텀이 남아 있어 3분기부터는 투자자들이 관심을 가질 만한 구간으로 봤다. 단기적으로는 낮아진 목표가가 부담이지만, 향후 실적과 모멘텀 확인 여부가 주가 흐름의 관건이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "YG Entertainment target cut to 76,000 won as Q3 momentum draws attention",
+        "excerpt": "Hana Securities on the 11th lowered its YG Entertainment target price from 80,000 won to 76,000 won, reflecting derating pressure, while pointing to BigBang’s second-half tour and a rookie debut.",
+        "body": "Hana Securities said on the 11th that it lowered its target price for YG Entertainment from 80,000 won to 76,000 won, reflecting the recent derating trend, or decline in valuation. The revision appears to incorporate changes in market assessment of the entertainment sector and the company. However, Hana Securities noted that BigBang’s tour scheduled for the second half and momentum from a rookie debut remain, making the period from the third quarter worth investor attention. In the near term, the lower target price is a burden, but future earnings and confirmation of momentum are expected to be key to the stock’s direction. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "YGエンタ目標株価を7万6000ウォンに下方修正、3Q以降に注目",
+        "excerpt": "ハナ証券は11日、YGエンターテインメントのディレーティングを反映し、目標株価を8万ウォンから7万6000ウォンへ引き下げた。下半期のBIGBANGツアーと新人デビューに注目した。",
+        "body": "ハナ証券は11日、YGエンターテインメントについて、最近のディレーティング、すなわちバリュエーション低下の流れを反映し、目標株価を従来の8万ウォンから7万6000ウォンへ引き下げた。今回の修正は、エンターテインメント業種と同社に対する市場評価の変化が株価算定に反映されたものとみられる。ただしハナ証券は、下半期に予定されているBIGBANGのツアーと新人デビューのモメンタムが残っており、第3四半期からは投資家が関心を持つに値する局面だとした。短期的には目標株価の引き下げが重荷となるが、今後の業績とモメンタム確認が株価の焦点になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "YG娱乐目标价下调至7.6万韩元，三季度后动能受关注",
+        "excerpt": "韩亚证券11日反映YG娱乐估值下行趋势，将目标价从8万韩元下调至7.6万韩元，同时关注下半年BigBang巡演和新人出道动能。",
+        "body": "韩亚证券11日表示，考虑到YG娱乐近期的去评级趋势，即估值下滑，将其目标股价由原先的8万韩元下调至7.6万韩元。此次调整被视为反映了市场对娱乐行业及该公司评价变化的结果。不过，韩亚证券认为，下半年预定的BigBang巡演以及新人出道动能仍然存在，因此从第三季度开始，YG娱乐进入值得投资者关注的区间。短期来看，下调后的目标价可能形成压力，但未来业绩以及相关动能能否得到确认，将成为股价走势的关键。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "YG Entertainment baja precio objetivo a 76.000 wones y mira al tercer trimestre",
+        "excerpt": "Hana Securities redujo el día 11 el precio objetivo de YG Entertainment de 80.000 a 76.000 wones por la desvalorización, aunque destacó la gira de BigBang y el debut de nuevos artistas en el segundo semestre.",
+        "body": "Hana Securities informó el día 11 que rebajó el precio objetivo de YG Entertainment de 80.000 a 76.000 wones, reflejando la reciente tendencia de derating, es decir, una caída en la valoración. El ajuste incorpora cambios en la evaluación del mercado sobre el sector del entretenimiento y sobre la compañía. Sin embargo, la firma señaló que aún quedan catalizadores en el segundo semestre, como la gira de BigBang y el debut de nuevos artistas, por lo que desde el tercer trimestre podría ser un periodo digno de atención para los inversores. A corto plazo, el menor precio objetivo pesa, pero la confirmación de resultados y de estos impulsos será clave para la acción. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "YG Entertainment tem preço-alvo cortado para 76 mil won e foco no 3º tri",
+        "excerpt": "A Hana Securities reduziu no dia 11 o preço-alvo da YG Entertainment de 80 mil para 76 mil won, refletindo a desvalorização, mas citou a turnê do BigBang e a estreia de novos artistas no segundo semestre.",
+        "body": "A Hana Securities informou no dia 11 que reduziu o preço-alvo da YG Entertainment de 80 mil para 76 mil won, refletindo a recente tendência de derating, ou queda de avaliação. A revisão parece incorporar mudanças na percepção do mercado sobre o setor de entretenimento e sobre a empresa. Ainda assim, a corretora destacou que permanecem catalisadores no segundo semestre, como a turnê do BigBang e a estreia de novos artistas, tornando o período a partir do terceiro trimestre digno de atenção dos investidores. No curto prazo, o preço-alvo menor é um fator de pressão, mas a confirmação de resultados e desses impulsos deve orientar a ação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "YG Entertainment Kursziel auf 76.000 Won gesenkt, Fokus auf Q3-Momentum",
+        "excerpt": "Hana Securities senkte am 11. das Kursziel für YG Entertainment von 80.000 auf 76.000 Won und verwies auf Derating, sieht aber Impulse durch BigBangs Tour und ein Rookie-Debüt im zweiten Halbjahr.",
+        "body": "Hana Securities teilte am 11. mit, das Kursziel für YG Entertainment von bisher 80.000 Won auf 76.000 Won gesenkt zu haben. Begründet wurde dies mit dem jüngsten Derating, also einer niedrigeren Bewertung. Die Anpassung spiegelt offenbar veränderte Markteinschätzungen zum Entertainment-Sektor und zum Unternehmen wider. Zugleich verwies Hana Securities darauf, dass im zweiten Halbjahr mit der BigBang-Tour und einem Rookie-Debüt weiterhin Momentum vorhanden sei. Ab dem dritten Quartal könne die Aktie daher für Investoren wieder beachtenswert werden. Kurzfristig belastet das niedrigere Kursziel, doch künftige Ergebnisse und bestätigte Impulse dürften für den Kursverlauf entscheidend sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "YG Entertainment objectif abaissé à 76 000 wons, le T3 attire l’attention",
+        "excerpt": "Hana Securities a abaissé le 11 son objectif de cours sur YG Entertainment de 80 000 à 76 000 wons, reflétant le derating, tout en citant la tournée de BigBang et le début de nouveaux artistes au second semestre.",
+        "body": "Hana Securities a indiqué le 11 avoir abaissé son objectif de cours sur YG Entertainment de 80 000 à 76 000 wons, afin de refléter la récente tendance de derating, c’est-à-dire une baisse de valorisation. Cette révision semble intégrer l’évolution de l’appréciation du marché envers le secteur du divertissement et l’entreprise. Toutefois, la société de courtage a souligné que la tournée de BigBang prévue au second semestre et le début de nouveaux artistes restent des moteurs potentiels. À partir du troisième trimestre, le titre pourrait donc mériter l’attention des investisseurs. À court terme, l’objectif réduit pèse, mais les résultats et la confirmation du momentum seront déterminants. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "خفض السعر المستهدف لسهم YG إلى 76 ألف وون مع ترقب زخم الربع الثالث",
+        "excerpt": "خفضت هانا للأوراق المالية في 11 من الشهر السعر المستهدف لـ YG Entertainment من 80 ألف وون إلى 76 ألف وون، عاكسة تراجع التقييم، مع الإشارة إلى جولة BigBang وظهور فنانين جدد في النصف الثاني.",
+        "body": "قالت هانا للأوراق المالية في 11 من الشهر إنها خفضت السعر المستهدف لسهم YG Entertainment من 80 ألف وون إلى 76 ألف وون، عاكسة اتجاه خفض التقييم الأخير، أي تراجع قيمة السهم المقدرة. ويبدو أن هذا التعديل يعكس تغير تقييم السوق لقطاع الترفيه وللشركة نفسها. مع ذلك، أوضحت هانا أن هناك زخما قائما في النصف الثاني من العام، يتمثل في جولة BigBang وظهور فنانين جدد، ما يجعل الفترة من الربع الثالث جديرة باهتمام المستثمرين. وعلى المدى القصير، يشكل السعر المستهدف الأقل عبئا، لكن تأكيد النتائج والزخم سيكونان عاملين حاسمين لاتجاه السهم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "YG Entertainment लक्ष्य मूल्य 76,000 वॉन हुआ, तीसरी तिमाही पर नजर",
+        "excerpt": "हाना सिक्योरिटीज ने 11 तारीख को YG Entertainment का लक्ष्य मूल्य 80,000 वॉन से घटाकर 76,000 वॉन कर दिया, जबकि दूसरी छमाही में BigBang टूर और नए कलाकारों की शुरुआत को अहम मोमेंटम बताया।",
+        "body": "हाना सिक्योरिटीज ने 11 तारीख को कहा कि उसने YG Entertainment के लिए लक्ष्य मूल्य 80,000 वॉन से घटाकर 76,000 वॉन कर दिया है। यह बदलाव हालिया डिरेटिंग, यानी मूल्यांकन में गिरावट, को ध्यान में रखकर किया गया। इस समायोजन में मनोरंजन क्षेत्र और कंपनी को लेकर बाजार के बदलते आकलन को शामिल माना जा रहा है। हालांकि, हाना सिक्योरिटीज ने कहा कि दूसरी छमाही में निर्धारित BigBang टूर और नए कलाकारों की शुरुआत का मोमेंटम अभी बाकी है, इसलिए तीसरी तिमाही से यह निवेशकों के लिए ध्यान देने योग्य चरण हो सकता है। निकट अवधि में घटा लक्ष्य मूल्य दबाव है, लेकिन आगे की आय और मोमेंटम की पुष्टि शेयर की दिशा तय करेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Target YG Entertainment turun ke 76.000 won, momentum kuartal III dicermati",
+        "excerpt": "Hana Securities pada tanggal 11 menurunkan target harga YG Entertainment dari 80.000 won menjadi 76.000 won karena derating, namun menyoroti tur BigBang dan debut artis baru pada semester kedua.",
+        "body": "Hana Securities pada tanggal 11 menyatakan telah menurunkan target harga YG Entertainment dari 80.000 won menjadi 76.000 won, mencerminkan tren derating terbaru atau penurunan valuasi. Revisi ini dinilai memasukkan perubahan penilaian pasar terhadap sektor hiburan dan perusahaan tersebut. Namun, Hana Securities mencatat masih ada momentum pada semester kedua, yaitu tur BigBang yang dijadwalkan serta debut artis baru, sehingga mulai kuartal ketiga saham ini dapat menjadi periode yang layak diperhatikan investor. Dalam jangka pendek, target yang lebih rendah menjadi beban, tetapi konfirmasi kinerja dan momentum ke depan akan menjadi kunci arah saham. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e79aa4de94d9",
+    "slug": "트럼프시진핑-14일-베이징서-정상회담톈탄공원도-함께-방문-401355",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T23:43:40.966Z",
+    "updatedAt": "2026-05-10T23:43:40.966Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042876",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042876",
+    "titleFingerprint": "1af73d444ab372cec5bf2006425968ed5330db25",
+    "dedupKeys": [
+      "e79aa4de94d9980f70cfb56033d68682cfe64373",
+      "1af73d444ab372cec5bf2006425968ed5330db25",
+      "ac392a7eee17fbbb5a98d734e77cff9fc2451a29"
+    ],
+    "imageUrl": "/images/articles/e79aa4de94d9.png",
+    "i18n": {
+      "ko": {
+        "title": "트럼프·시진핑 14일 베이징 정상회담, 톈탄공원 방문·국빈만찬 주목",
+        "excerpt": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 14일 베이징에서 정상회담을 열고 톈탄공원 시찰과 국빈만찬, 15일 티타임·업무 오찬 일정을 이어간다.",
+        "body": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 14일 중국 베이징에서 정상회담을 갖는다. 원문에 따르면 트럼프 대통령은 13일 저녁 베이징에 도착하며, 양 정상은 14일 톈탄공원을 함께 시찰하고 국빈만찬에 참석한다. 이어 15일에는 티타임과 업무 오찬 일정이 예정돼 있다. 이번 일정은 양국 정상이 베이징에서 공식 회동을 이어가는 형식으로 진행된다. 원문은 또 트럼프 대통령이 시진핑 주석의 연내 답방을 기대한다는 내용도 전했다. 향후 양 정상의 후속 일정과 답방 여부가 관심사로 남는다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Trump and Xi to Hold Beijing Summit on 14th, Visit Temple of Heaven",
+        "excerpt": "U.S. President Donald Trump and Chinese President Xi Jinping will meet in Beijing on the 14th, with a Temple of Heaven visit, state dinner, tea time and working lunch on the agenda.",
+        "body": "U.S. President Donald Trump and Chinese President Xi Jinping will hold a summit in Beijing, China, on the 14th. According to the original report, Trump is set to arrive in Beijing on the evening of the 13th, and the two leaders will visit the Temple of Heaven together and attend a state dinner on the 14th. Their schedule continues on the 15th with tea time and a working lunch. The meeting is arranged as an official sequence of events in Beijing between the two heads of state. The report also said Trump expects Xi to make a return visit within the year. Attention now turns to follow-up schedules and whether that visit takes place. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "トランプ氏と習近平氏、14日に北京で首脳会談 天壇公園も訪問へ",
+        "excerpt": "ドナルド・トランプ米大統領と習近平中国国家主席は14日に北京で首脳会談を行い、天壇公園視察や国賓夕食会、15日のティータイムと実務昼食に臨む。",
+        "body": "ドナルド・トランプ米大統領と習近平中国国家主席は14日、中国・北京で首脳会談を行う。原文によると、トランプ大統領は13日夜に北京へ到着し、両首脳は14日に天壇公園を共に視察し、国賓夕食会に出席する。続く15日にはティータイムと実務昼食の日程が予定されている。今回の日程は、米中首脳が北京で公式会合を続ける形で進められる。原文はまた、トランプ大統領が習主席の年内の答礼訪問を期待しているとも伝えた。今後は追加日程と答礼訪問の有無が注目される。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "特朗普与习近平14日在北京举行峰会，将共同参观天坛公园",
+        "excerpt": "美国总统唐纳德·特朗普与中国国家主席习近平将于14日在北京举行会晤，并共同参观天坛公园、出席国宴，15日还将安排茶叙和工作午餐。",
+        "body": "美国总统唐纳德·特朗普与中国国家主席习近平将于14日在中国北京举行首脑会谈。据原文报道，特朗普总统将于13日晚抵达北京，两国领导人将在14日共同参观天坛公园，并出席国宴。15日的日程还包括茶叙和工作午餐。此次安排以两国元首在北京进行正式会晤的形式展开。原文还提到，特朗普总统期待习近平主席年内进行回访。接下来，双方后续日程以及回访是否成行将受到关注。来源：mk.co.kr."
+      },
+      "es": {
+        "title": "Trump y Xi celebrarán cumbre en Pekín el día 14 y visitarán el Templo del Cielo",
+        "excerpt": "Donald Trump y Xi Jinping se reunirán el día 14 en Pekín, donde visitarán el Templo del Cielo y asistirán a una cena de Estado, antes de un té y almuerzo de trabajo el día 15.",
+        "body": "El presidente de Estados Unidos, Donald Trump, y el presidente de China, Xi Jinping, celebrarán una cumbre el día 14 en Pekín, China. Según el texto original, Trump llegará a Pekín la noche del día 13, y ambos líderes visitarán juntos el Templo del Cielo y asistirán a una cena de Estado el día 14. La agenda continuará el día 15 con un té y un almuerzo de trabajo. La visita se desarrolla como una serie de encuentros oficiales entre los dos jefes de Estado en Pekín. El informe también señaló que Trump espera una visita de reciprocidad de Xi dentro del año. La atención queda puesta en la agenda posterior y en si esa visita se concreta. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Trump e Xi farão cúpula em Pequim no dia 14 e visitarão o Templo do Céu",
+        "excerpt": "Donald Trump e Xi Jinping se reunirão em Pequim no dia 14, com visita ao Templo do Céu, jantar de Estado e, no dia 15, chá e almoço de trabalho na agenda oficial.",
+        "body": "O presidente dos Estados Unidos, Donald Trump, e o presidente da China, Xi Jinping, realizarão uma cúpula em Pequim, China, no dia 14. Segundo o texto original, Trump chegará a Pequim na noite do dia 13, e os dois líderes visitarão juntos o Templo do Céu e participarão de um jantar de Estado no dia 14. A programação seguirá no dia 15 com chá e almoço de trabalho. O encontro ocorre como uma sequência oficial de compromissos entre os dois chefes de Estado em Pequim. O relato também informou que Trump espera uma visita de retribuição de Xi ainda neste ano. As próximas agendas e a possível visita permanecem em foco. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Trump und Xi treffen sich am 14. in Peking und besuchen den Himmelstempel",
+        "excerpt": "Donald Trump und Xi Jinping kommen am 14. in Peking zu einem Gipfel zusammen, besuchen den Himmelstempel, nehmen an einem Staatsbankett teil und setzen die Gespräche am 15. fort.",
+        "body": "US-Präsident Donald Trump und Chinas Staatspräsident Xi Jinping werden am 14. in Peking, China, zu einem Gipfeltreffen zusammenkommen. Dem Originalbericht zufolge trifft Trump am Abend des 13. in Peking ein. Am 14. besuchen beide Staatschefs gemeinsam den Himmelstempel und nehmen an einem Staatsbankett teil. Für den 15. sind eine Teerunde und ein Arbeitsessen vorgesehen. Der Ablauf ist als offizielle Folge von Treffen der beiden Staatschefs in Peking angelegt. Der Bericht meldete außerdem, Trump erwarte noch in diesem Jahr einen Gegenbesuch von Xi. Im Fokus stehen nun mögliche Folgetermine und die Frage, ob dieser Besuch zustande kommt. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Trump et Xi tiendront un sommet à Pékin le 14 et visiteront le Temple du Ciel",
+        "excerpt": "Donald Trump et Xi Jinping se réuniront à Pékin le 14, avec une visite du Temple du Ciel, un dîner d’État, puis un thé et un déjeuner de travail prévus le 15.",
+        "body": "Le président américain Donald Trump et le président chinois Xi Jinping tiendront un sommet le 14 à Pékin, en Chine. Selon le texte original, Trump arrivera à Pékin dans la soirée du 13, puis les deux dirigeants visiteront ensemble le Temple du Ciel et assisteront à un dîner d’État le 14. Le programme se poursuivra le 15 avec un thé et un déjeuner de travail. Cette séquence constitue une série de rencontres officielles entre les deux chefs d’État à Pékin. Le texte indique également que Trump attend une visite de retour de Xi avant la fin de l’année. L’attention se porte désormais sur les suites du calendrier et sur la concrétisation de cette visite. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "ترامب وشي يعقدان قمة في بكين يوم 14 ويزوران معبد السماء معا",
+        "excerpt": "يعقد دونالد ترامب وشي جين بينغ قمة في بكين يوم 14، تشمل زيارة معبد السماء ومأدبة دولة، على أن تتواصل الأجندة يوم 15 بجلسة شاي وغداء عمل.",
+        "body": "يعقد الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ قمة في بكين بالصين يوم 14. ووفقا للنص الأصلي، يصل ترامب إلى بكين مساء يوم 13، ثم يزور الزعيمان معا معبد السماء ويحضوران مأدبة دولة يوم 14. وتتواصل الأجندة يوم 15 بجلسة شاي وغداء عمل. وتأتي هذه الترتيبات في إطار سلسلة لقاءات رسمية بين رئيسي الدولتين في بكين. كما ذكر النص أن ترامب يتوقع زيارة رد من شي خلال العام. ويبقى الاهتمام منصبا على المواعيد اللاحقة وما إذا كانت تلك الزيارة ستتم. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "ट्रंप और शी 14 को बीजिंग में करेंगे शिखर वार्ता, टेम्पल ऑफ हेवन भी जाएंगे",
+        "excerpt": "डोनाल्ड ट्रंप और शी जिनपिंग 14 तारीख को बीजिंग में शिखर बैठक करेंगे, जिसमें टेम्पल ऑफ हेवन का दौरा और राजकीय भोज शामिल है; 15 को चाय और कार्यकारी लंच होगा।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग 14 तारीख को चीन की राजधानी बीजिंग में शिखर वार्ता करेंगे। मूल रिपोर्ट के अनुसार, ट्रंप 13 तारीख की शाम बीजिंग पहुंचेंगे। दोनों नेता 14 तारीख को टेम्पल ऑफ हेवन का साथ में निरीक्षण करेंगे और राजकीय भोज में शामिल होंगे। 15 तारीख को चाय और कार्यकारी दोपहर भोज का कार्यक्रम तय है। यह कार्यक्रम बीजिंग में दोनों राष्ट्राध्यक्षों की आधिकारिक मुलाकातों की श्रृंखला के रूप में रखा गया है। रिपोर्ट में यह भी कहा गया कि ट्रंप इस वर्ष के भीतर शी की जवाबी यात्रा की उम्मीद कर रहे हैं। आगे की तारीखों और संभावित जवाबी यात्रा पर ध्यान रहेगा। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Trump dan Xi Gelar KTT di Beijing pada 14, Kunjungi Temple of Heaven",
+        "excerpt": "Donald Trump dan Xi Jinping akan bertemu di Beijing pada 14, dengan agenda kunjungan ke Temple of Heaven, jamuan kenegaraan, lalu minum teh dan makan siang kerja pada 15.",
+        "body": "Presiden Amerika Serikat Donald Trump dan Presiden China Xi Jinping akan menggelar pertemuan puncak di Beijing, China, pada 14. Menurut teks asli, Trump tiba di Beijing pada malam 13, lalu kedua pemimpin akan bersama-sama meninjau Temple of Heaven dan menghadiri jamuan kenegaraan pada 14. Agenda berlanjut pada 15 dengan acara minum teh dan makan siang kerja. Rangkaian ini berlangsung sebagai pertemuan resmi kedua kepala negara di Beijing. Teks asli juga menyebut Trump mengharapkan kunjungan balasan Xi dalam tahun ini. Perhatian berikutnya tertuju pada jadwal lanjutan dan apakah kunjungan balasan itu terlaksana. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "4ced3334c0bb",
     "slug": "미분양-무덤-대구까지-세-자릿수-경쟁률지방-부동산도-바닥쳤나-834817",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Otoritas Pajak Korsel Mulai Audit Khusus Hana Financial dan Hana Bank",
         "excerpt": "Layanan Pajak Nasional Korea Selatan dilaporkan memulai audit pajak khusus non-reguler terhadap Hana Financial Group dan Hana Bank, empat tahun setelah audit rutin pada 2022.",
         "body": "Layanan Pajak Nasional Korea Selatan dilaporkan telah memulai audit pajak khusus non-reguler terhadap Hana Financial Group dan Hana Bank. Audit ini dilakukan empat tahun setelah Hana Financial menjalani audit pajak rutin pada 2022, dan disebut sebagai pemeriksaan khusus yang tidak terjadwal, bukan audit rutin. Menurut laporan asli, belum ada rincian lain yang dikonfirmasi mengenai latar belakang khusus, cakupan, atau isu yang diperiksa. Karena audit khusus ini menyasar perusahaan induk keuangan dan bank, perkembangan pemeriksaan serta respons Hana Financial diperkirakan akan menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4e8128fc1c60",
-    "slug": "표-외국환율고시표-937262",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T16:01:46.015Z",
-    "updatedAt": "2026-05-10T16:01:46.015Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12042709",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042709",
-    "titleFingerprint": "b31bed6d6a96f2f89db55d844c4d29093ef8edc6",
-    "dedupKeys": [
-      "4e8128fc1c607936da9f6ec5d422fbb0844c0864",
-      "b31bed6d6a96f2f89db55d844c4d29093ef8edc6",
-      "64a62fd4d19627054d9c0d323715adcba8e848b0"
-    ],
-    "imageUrl": "/images/articles/4e8128fc1c60.jpg",
-    "i18n": {
-      "ko": {
-        "title": "외국환율고시표 공개, 주요 환율 확인 필요한 시장 참고자료",
-        "excerpt": "매일경제가 외국환율고시표를 공개했다. 이번 고시표는 외환시장 참여자와 금융 소비자가 통화별 고시 환율을 확인하는 데 쓰이는 참고자료다.",
-        "body": "매일경제는 ‘[표] 외국환율고시표’라는 제목으로 외국환율고시표를 보도했다. 원문은 표 형식의 환율 고시 자료로, 외환시장 참여자와 금융 소비자가 통화별 고시 환율을 확인할 때 참고할 수 있는 정보다. 다만 제공된 원문 요약에는 개별 통화명, 환율 수치, 변동 폭, 고시 시각 등 세부 항목이 포함되지 않았다. 외국환율고시표는 환전, 해외 송금, 수출입 결제 등 외환 관련 의사결정에서 기초 확인 자료로 활용된다. 구체적인 수치는 원문 표를 통해 확인해야 한다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Foreign Exchange Rate Table Released as Key Reference for Markets",
-        "excerpt": "Maeil Business Newspaper published a foreign exchange rate notice table, a reference for market participants and consumers checking posted rates by currency.",
-        "body": "Maeil Business Newspaper reported a foreign exchange rate notice table under the title “[Table] Foreign Exchange Rate Notice.” The original item is a table-format exchange-rate notice that can be used by foreign exchange market participants and financial consumers when checking posted rates by currency. The provided source summary does not include individual currency names, exchange-rate figures, changes, or the posting time. Such tables are used as basic reference material for currency exchange, overseas remittances, and import-export payments. Specific figures should be checked in the original table. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "外国為替レート告示表を公開、市場が確認する基本資料",
-        "excerpt": "毎日経済が外国為替レート告示表を公開した。通貨別の告示レートを確認する市場参加者や金融消費者向けの参考資料だ。",
-        "body": "毎日経済は「【表】外国為替レート告示表」という題名で外国為替レート告示表を報じた。原文は表形式の為替告示資料で、外国為替市場の参加者や金融消費者が通貨別の告示レートを確認する際に参考にできる情報である。ただし、提供された原文要約には個別の通貨名、為替レートの数値、変動幅、告示時刻などの詳細項目は含まれていない。外国為替レート告示表は両替、海外送金、輸出入決済など外為関連の意思決定で基礎確認資料として使われる。具体的な数値は原文表で確認する必要がある。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "外汇汇率公告表发布，市场查看主要汇率的参考资料",
-        "excerpt": "每日经济发布外汇汇率公告表。该表可供外汇市场参与者和金融消费者查看各币种公告汇率时参考。",
-        "body": "每日经济以“[表] 外汇汇率公告表”为题报道了外汇汇率公告表。原文为表格形式的汇率公告资料，可供外汇市场参与者和金融消费者在查看各币种公告汇率时参考。不过，所提供的原文摘要未包含具体币种名称、汇率数值、变动幅度或公告时间等详细项目。外汇汇率公告表通常用于换汇、海外汇款、进出口结算等外汇相关决策中的基础核对资料。具体数值需通过原文表格确认。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Tabla de tipos de cambio publicada como referencia clave del mercado",
-        "excerpt": "Maeil Business Newspaper publicó una tabla de tipos de cambio, útil para participantes del mercado y consumidores que revisan tasas por divisa.",
-        "body": "Maeil Business Newspaper informó sobre una tabla de tipos de cambio bajo el título “[Tabla] Aviso de tipos de cambio”. El texto original corresponde a un material en formato de tabla que puede servir de referencia a participantes del mercado cambiario y consumidores financieros al consultar tasas publicadas por divisa. Sin embargo, el resumen disponible no incluye nombres de monedas, cifras de tipos de cambio, variaciones ni hora de publicación. Estas tablas se usan como referencia básica para cambio de divisas, remesas internacionales y pagos de importación y exportación. Las cifras concretas deben verificarse en la tabla original. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Tabela de câmbio é divulgada como referência para o mercado",
-        "excerpt": "O Maeil Business Newspaper publicou uma tabela de câmbio, referência para participantes do mercado e consumidores que consultam taxas por moeda.",
-        "body": "O Maeil Business Newspaper informou uma tabela de câmbio com o título “[Tabela] Aviso de taxas de câmbio”. O item original é um material em formato de tabela que pode ser usado por participantes do mercado de câmbio e consumidores financeiros ao consultar taxas publicadas por moeda. No entanto, o resumo fornecido não inclui nomes de moedas, valores das taxas, variações ou horário de divulgação. Tabelas de câmbio são usadas como referência básica para troca de moeda, remessas internacionais e pagamentos de importação e exportação. Os números específicos devem ser verificados na tabela original. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Devisenkurstabelle veröffentlicht als zentrale Marktinformation",
-        "excerpt": "Maeil Business Newspaper veröffentlichte eine Devisenkurstabelle, die Marktteilnehmern und Verbrauchern beim Prüfen veröffentlichter Kurse dient.",
-        "body": "Maeil Business Newspaper berichtete unter dem Titel „[Tabelle] Bekanntgabe der Devisenkurse“ über eine Devisenkurstabelle. Der Originalbeitrag ist eine tabellarische Kursbekanntgabe, die Teilnehmer am Devisenmarkt und Finanzverbraucher beim Prüfen veröffentlichter Kurse nach Währung nutzen können. Die bereitgestellte Zusammenfassung enthält jedoch keine einzelnen Währungsnamen, Kurswerte, Veränderungen oder Veröffentlichungszeitpunkte. Solche Tabellen dienen als grundlegende Referenz für Währungsumtausch, Auslandsüberweisungen sowie Import- und Exportzahlungen. Konkrete Zahlen sind in der Originaltabelle zu prüfen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Table des taux de change publiée comme référence pour les marchés",
-        "excerpt": "Maeil Business Newspaper a publié une table des taux de change, référence pour les acteurs du marché et les consommateurs vérifiant les taux par devise.",
-        "body": "Maeil Business Newspaper a publié une information intitulée « [Tableau] Avis des taux de change ». Le contenu original est un document sous forme de tableau qui peut servir de référence aux participants du marché des changes et aux consommateurs financiers lorsqu’ils consultent les taux publiés par devise. Toutefois, le résumé fourni ne contient pas les noms des devises, les chiffres des taux, les variations ni l’heure de publication. Ces tableaux sont utilisés comme base de vérification pour le change, les transferts internationaux et les paiements d’import-export. Les chiffres précis doivent être consultés dans le tableau original. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "نشر جدول أسعار الصرف الأجنبية كمرجع رئيسي للأسواق",
-        "excerpt": "نشرت صحيفة ماييل الاقتصادية جدول أسعار الصرف الأجنبية، وهو مرجع للمشاركين في السوق والمستهلكين عند مراجعة الأسعار المعلنة حسب العملة.",
-        "body": "أفادت صحيفة ماييل الاقتصادية بجدول أسعار الصرف الأجنبية تحت عنوان «[جدول] نشرة أسعار الصرف الأجنبية». والمادة الأصلية هي بيانات منشورة في شكل جدول يمكن للمشاركين في سوق الصرف والمستهلكين الماليين استخدامها عند التحقق من الأسعار المعلنة لكل عملة. غير أن الملخص المتاح لا يتضمن أسماء العملات الفردية أو أرقام أسعار الصرف أو مقدار التغير أو وقت النشر. وتستخدم جداول أسعار الصرف كمرجع أساسي في تبديل العملات والتحويلات الخارجية ومدفوعات الاستيراد والتصدير. وينبغي التحقق من الأرقام المحددة في الجدول الأصلي. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "विदेशी विनिमय दर तालिका जारी, बाजार के लिए अहम संदर्भ",
-        "excerpt": "Maeil Business Newspaper ने विदेशी विनिमय दर तालिका प्रकाशित की, जो बाजार प्रतिभागियों और वित्तीय उपभोक्ताओं के लिए मुद्रा-दर संदर्भ है।",
-        "body": "Maeil Business Newspaper ने “[तालिका] विदेशी विनिमय दर सूचना” शीर्षक से विदेशी विनिमय दर तालिका प्रकाशित की। मूल सामग्री तालिका प्रारूप में विनिमय दर सूचना है, जिसका उपयोग विदेशी मुद्रा बाजार के प्रतिभागी और वित्तीय उपभोक्ता विभिन्न मुद्राओं की घोषित दरें देखने के लिए कर सकते हैं। हालांकि उपलब्ध सारांश में अलग-अलग मुद्राओं के नाम, विनिमय दरों के आंकड़े, बदलाव की मात्रा या घोषणा समय जैसे विवरण शामिल नहीं हैं। ऐसी तालिकाएं मुद्रा विनिमय, विदेशी प्रेषण और आयात-निर्यात भुगतान से जुड़े निर्णयों में आधारभूत संदर्भ के रूप में उपयोग होती हैं। सटीक आंकड़े मूल तालिका में देखे जाने चाहिए। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Tabel Kurs Valuta Asing Dirilis sebagai Rujukan Pasar Utama",
-        "excerpt": "Maeil Business Newspaper menerbitkan tabel kurs valuta asing, rujukan bagi pelaku pasar dan konsumen untuk memeriksa kurs per mata uang.",
-        "body": "Maeil Business Newspaper melaporkan tabel kurs valuta asing dengan judul “[Tabel] Pemberitahuan Kurs Valuta Asing”. Materi asli berbentuk tabel pemberitahuan kurs yang dapat digunakan pelaku pasar valuta asing dan konsumen keuangan saat memeriksa kurs yang diumumkan menurut mata uang. Namun, ringkasan sumber yang tersedia tidak memuat nama mata uang individual, angka kurs, perubahan, atau waktu pemberitahuan. Tabel kurs valuta asing digunakan sebagai bahan rujukan dasar untuk penukaran uang, remitansi luar negeri, serta pembayaran impor dan ekspor. Angka spesifik perlu diperiksa pada tabel asli. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "1d5f9a6dcd40",
-    "slug": "국가업종별-분산투자-ai-더-담아도-좋아-336214",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T16:00:52.547Z",
-    "updatedAt": "2026-05-10T16:00:52.547Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042712",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042712",
-    "titleFingerprint": "fd60b74a6812d04266e678c70046e060b5552fd3",
-    "dedupKeys": [
-      "1d5f9a6dcd40e23b475fd7290d06a4f408062136",
-      "fd60b74a6812d04266e678c70046e060b5552fd3",
-      "0fccaa10ef770241ab1efeb9b727079c8458044e"
-    ],
-    "imageUrl": "/images/articles/1d5f9a6dcd40.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 투자 확대해도 기본은 분산…서울머니쇼 전문가 조언",
-        "excerpt": "코스피가 연일 사상 최고치를 경신한 가운데 열린 2026 서울머니쇼에서 전문가들은 장기투자와 국가·업종별 분산, 리스크 관리의 중요성을 다시 강조했다.",
-        "body": "코스피가 연일 사상 최고치를 경신하는 주식시장 호황 속에서 열린 2026 서울머니쇼에서 전문가들은 투자자들에게 장기투자와 분산투자, 리스크 관리라는 기본 원칙을 다시 강조했다. 원문에 따르면 현장에서는 국가와 업종을 나눠 투자하는 접근이 중요하다는 조언이 제시됐고, 인공지능(AI) 관련 자산은 더 담아도 좋다는 의견도 함께 언급됐다. 시장이 강세를 보일수록 특정 지역이나 업종에 쏠리는 위험을 줄이고, 장기 관점에서 포트폴리오를 점검해야 한다는 메시지다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "AI Exposure Can Grow, but Diversification Still Comes First",
-        "excerpt": "At the 2026 Seoul Money Show, held as the Kospi kept setting record highs, experts again stressed long-term investing, country and sector diversification, and risk management.",
-        "body": "At the 2026 Seoul Money Show, held amid a strong stock market in which the Kospi continued to reach all-time highs, experts again urged investors to stick to the basics: long-term investing, diversification, and risk management. According to the original report, advisers at the event emphasized spreading investments across countries and sectors, while also saying investors could add more exposure to artificial intelligence-related assets. The message was that even in a rising market, investors should reduce concentration risk in any single region or industry and review portfolios from a long-term perspective. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "AI投資は増やしても基本は分散、ソウルマネーショーの助言",
-        "excerpt": "KOSPIが連日で過去最高値を更新する中で開かれた2026ソウルマネーショーで、専門家は長期投資、国・業種別分散、リスク管理の重要性を改めて強調した。",
-        "body": "KOSPIが連日で過去最高値を更新する株式市場の好況の中で開かれた2026ソウルマネーショーで、専門家は投資家に対し、長期投資、分散投資、リスク管理という基本原則を改めて強調した。原文によると、会場では国や業種を分けて投資する姿勢が重要だとの助言が示され、人工知能（AI）関連資産はさらに組み入れてもよいとの見方も言及された。相場が強い局面ほど、特定の地域や業種への偏りによるリスクを抑え、長期的な視点でポートフォリオを点検すべきだというメッセージだ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "AI配置可增加，但分散投资仍是首要原则",
-        "excerpt": "在Kospi连续刷新历史高点之际举行的2026首尔Money Show上，专家再次强调长期投资、按国家和行业分散配置以及风险管理的重要性。",
-        "body": "在Kospi连续刷新历史高点、股市气氛火热之际举行的2026首尔Money Show上，专家再次提醒投资者坚持长期投资、分散投资和风险管理等基本原则。根据原文，现场建议投资者按国家和行业分散配置资产，同时也提到人工智能（AI）相关资产可以进一步纳入组合。专家传递的信息是，市场越强势，越需要降低对单一地区或行业的集中风险，并从长期视角检查投资组合。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Más exposición a IA, pero con diversificación como regla central",
-        "excerpt": "En el Seoul Money Show 2026, celebrado mientras el Kospi marcaba máximos históricos consecutivos, los expertos subrayaron inversión de largo plazo, diversificación por país y sector, y gestión del riesgo.",
-        "body": "En el Seoul Money Show 2026, celebrado en medio de un mercado bursátil alcista en el que el Kospi seguía renovando máximos históricos, los expertos volvieron a pedir a los inversores que respeten los principios básicos: inversión de largo plazo, diversificación y gestión del riesgo. Según el texto original, en el evento se destacó la importancia de repartir las inversiones por países y sectores, y también se mencionó que puede aumentarse la exposición a activos relacionados con la inteligencia artificial (IA). El mensaje fue que, incluso en un mercado fuerte, conviene reducir el riesgo de concentración y revisar la cartera con una mirada de largo plazo. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "IA pode ganhar espaço, mas diversificação segue essencial",
-        "excerpt": "No Seoul Money Show 2026, realizado enquanto o Kospi renovava máximas históricas, especialistas reforçaram investimento de longo prazo, diversificação por país e setor, e gestão de risco.",
-        "body": "No Seoul Money Show 2026, realizado em meio ao forte desempenho do mercado acionário, com o Kospi renovando recordes históricos em sequência, especialistas voltaram a orientar investidores a manter os fundamentos: investimento de longo prazo, diversificação e gestão de risco. Segundo o texto original, o evento destacou a importância de distribuir aplicações entre países e setores, além de mencionar que a exposição a ativos ligados à inteligência artificial (IA) pode ser ampliada. A mensagem foi que, mesmo em um mercado em alta, é preciso reduzir a concentração em uma região ou setor e revisar a carteira com visão de longo prazo. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Mehr KI im Portfolio möglich, doch Streuung bleibt entscheidend",
-        "excerpt": "Auf der Seoul Money Show 2026, während der Kospi laufend Rekordstände erreichte, betonten Experten erneut langfristiges Investieren, Länder- und Branchenstreuung sowie Risikomanagement.",
-        "body": "Auf der Seoul Money Show 2026, die inmitten eines starken Aktienmarkts stattfand, während der Kospi wiederholt neue Rekordstände erreichte, mahnten Experten Anleger erneut zu den Grundregeln: langfristig investieren, diversifizieren und Risiken steuern. Dem Originalbericht zufolge wurde vor Ort betont, Anlagen nach Ländern und Branchen zu streuen. Zugleich hieß es, Engagements in Vermögenswerten mit Bezug zu künstlicher Intelligenz (KI) könnten weiter ausgebaut werden. Die Botschaft: Gerade in starken Märkten sollten Anleger Konzentrationsrisiken in einzelnen Regionen oder Branchen begrenzen und Portfolios langfristig überprüfen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Plus d’IA en portefeuille, mais la diversification reste prioritaire",
-        "excerpt": "Au Seoul Money Show 2026, organisé alors que le Kospi enchaînait les records, les experts ont rappelé l’importance de l’investissement long terme, de la diversification par pays et secteur, et de la gestion du risque.",
-        "body": "Au Seoul Money Show 2026, organisé dans un contexte de marché actions porteur où le Kospi battait record sur record, les experts ont de nouveau appelé les investisseurs à respecter les principes de base: investissement de long terme, diversification et gestion du risque. Selon le texte original, les intervenants ont souligné l’importance de répartir les placements entre pays et secteurs, tout en indiquant qu’une exposition accrue aux actifs liés à l’intelligence artificielle (IA) pouvait être envisagée. Le message était clair: même dans un marché haussier, il faut limiter le risque de concentration et revoir son portefeuille avec une perspective de long terme. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "زيادة الاستثمار في الذكاء الاصطناعي ممكنة لكن التنويع أساس",
-        "excerpt": "في معرض سيول ماني شو 2026، المنعقد بينما واصل مؤشر كوسبي تسجيل قمم تاريخية، شدد الخبراء مجددا على الاستثمار طويل الأجل والتنويع حسب الدول والقطاعات وإدارة المخاطر.",
-        "body": "في معرض سيول ماني شو 2026، الذي عُقد وسط ازدهار في سوق الأسهم مع مواصلة مؤشر كوسبي تسجيل مستويات قياسية تاريخية، أكد الخبراء للمستثمرين مجددا أهمية القواعد الأساسية: الاستثمار طويل الأجل، والتنويع، وإدارة المخاطر. ووفقا للنص الأصلي، طُرحت في الحدث نصائح بتوزيع الاستثمارات بين الدول والقطاعات، كما ذُكر أن الأصول المرتبطة بالذكاء الاصطناعي يمكن زيادة وزنها. وكانت الرسالة أن قوة السوق لا تلغي ضرورة تقليل مخاطر التركز في منطقة أو قطاع واحد، ومراجعة المحافظ من منظور طويل الأجل. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "AI में निवेश बढ़ सकता है, लेकिन विविधीकरण ही मुख्य आधार",
-        "excerpt": "कोस्पी के लगातार रिकॉर्ड ऊंचाई छूने के बीच आयोजित 2026 सियोल मनी शो में विशेषज्ञों ने दीर्घकालिक निवेश, देश और सेक्टर आधारित विविधीकरण तथा जोखिम प्रबंधन पर फिर जोर दिया।",
-        "body": "कोस्पी के लगातार सर्वकालिक उच्च स्तर छूने से बने मजबूत शेयर बाजार माहौल में आयोजित 2026 सियोल मनी शो में विशेषज्ञों ने निवेशकों को फिर बुनियादी सिद्धांतों की याद दिलाई: दीर्घकालिक निवेश, विविधीकरण और जोखिम प्रबंधन। मूल रिपोर्ट के अनुसार, कार्यक्रम में देशों और उद्योगों के आधार पर निवेश फैलाने की जरूरत पर सलाह दी गई। साथ ही यह भी कहा गया कि कृत्रिम बुद्धिमत्ता (AI) से जुड़े एसेट्स को पोर्टफोलियो में और जोड़ा जा सकता है। संदेश यह था कि बाजार में तेजी के दौरान भी किसी एक क्षेत्र या उद्योग पर अधिक निर्भरता का जोखिम घटाना और लंबी अवधि के नजरिए से पोर्टफोलियो की समीक्षा करना जरूरी है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Eksposur AI Boleh Ditambah, Diversifikasi Tetap Utama",
-        "excerpt": "Dalam Seoul Money Show 2026 saat Kospi terus mencetak rekor tertinggi, para ahli kembali menekankan investasi jangka panjang, diversifikasi negara dan sektor, serta manajemen risiko.",
-        "body": "Dalam Seoul Money Show 2026 yang digelar di tengah kuatnya pasar saham ketika Kospi terus mencetak rekor tertinggi sepanjang masa, para ahli kembali mengingatkan investor pada prinsip dasar: investasi jangka panjang, diversifikasi, dan manajemen risiko. Menurut teks asli, acara tersebut menyoroti pentingnya membagi investasi berdasarkan negara dan sektor, sekaligus menyebut bahwa aset terkait kecerdasan buatan (AI) dapat ditambah. Pesannya, bahkan saat pasar menguat, investor perlu mengurangi risiko konsentrasi pada satu wilayah atau sektor dan meninjau portofolio dengan perspektif jangka panjang. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "d6edabb519b9",
-    "slug": "진옥동-신한-회장-북중미로직접-기관투자설명회-나서-348213",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T15:59:55.644Z",
-    "updatedAt": "2026-05-10T15:59:55.645Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12042711",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042711",
-    "titleFingerprint": "0d60f2859a395d0669a86d1777958b0a03ca9c90",
-    "dedupKeys": [
-      "d6edabb519b94a0a0f9723b06dbce3f06be2a7b1",
-      "0d60f2859a395d0669a86d1777958b0a03ca9c90",
-      "de9348099b86e7ef68f3e4bf5c49202d7c9bbf3a"
-    ],
-    "imageUrl": "/images/articles/d6edabb519b9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "진옥동 신한금융 회장, 북중미 기관투자자 직접 만나는 밸류업 IR 돌입",
-        "excerpt": "진옥동 신한금융그룹 회장이 10일부터 약 2주간 미국·멕시코·캐나다를 방문해 해외 기관투자자들과 직접 만나 주주환원 강화와 밸류업 전략을 설명한다.",
-        "body": "진옥동 신한금융그룹 회장이 10일부터 약 2주간 미국, 멕시코, 캐나다 등 북중미 지역을 찾아 해외 기관투자자들을 만난다. 이번 일정은 진 회장이 직접 기관투자설명회에 나서 신한금융그룹의 주주환원 강화 방안과 기업가치, 즉 주가 상승을 겨냥한 ‘밸류업’ 전략을 설명하는 자리다. 원문에 따르면 방문 대상 국가는 미국·멕시코·캐나다이며, 일정은 약 2주간 이어진다. 신한금융은 강화된 주주환원책을 통해 기업가치 제고를 추진하고 있으며, 해외 기관투자자와의 직접 소통은 해당 전략을 알리는 핵심 일정으로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Shinhan Chairman Jin Ok-dong Begins North America IR Tour for Value-Up Strategy",
-        "excerpt": "Shinhan Financial Group Chairman Jin Ok-dong will visit the U.S., Mexico and Canada for about two weeks from the 10th to meet overseas institutional investors and explain shareholder returns.",
-        "body": "Shinhan Financial Group Chairman Jin Ok-dong will visit the United States, Mexico and Canada for about two weeks from the 10th to meet overseas institutional investors. The trip is an investor relations schedule in which Jin will personally explain Shinhan Financial Group’s strengthened shareholder return measures and its “value-up” strategy aimed at raising corporate value, or the share price. According to the original report, the destinations are the U.S., Mexico and Canada, and the schedule will last about two weeks. Shinhan is pursuing higher corporate value through enhanced shareholder returns, and direct communication with overseas institutional investors is presented as a key part of that effort. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "申韓金融の陳玉東会長、北中米で機関投資家向けIRを直接展開",
-        "excerpt": "申韓金融グループの陳玉東会長は10日から約2週間、米国・メキシコ・カナダを訪問し、海外機関投資家に株主還元強化とバリューアップ戦略を説明する。",
-        "body": "申韓金融グループの陳玉東会長は10日から約2週間、米国、メキシコ、カナダなど北中米地域を訪れ、海外の機関投資家と面会する。今回の日程は、陳会長が自ら機関投資家向け説明会に臨み、申韓金融グループの株主還元強化策と、企業価値、すなわち株価の上昇を目指す「バリューアップ」戦略を説明する場となる。原文によると、訪問先は米国・メキシコ・カナダで、日程は約2週間続く。申韓金融は強化した株主還元策を通じて企業価値の向上を進めており、海外機関投資家との直接対話はその戦略を伝える主要日程と位置づけられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "新韩金融会长陈玉东赴北中美，亲自开展机构投资者说明会",
-        "excerpt": "新韩金融集团会长陈玉东将从10日起约两周访问美国、墨西哥和加拿大，直接会见海外机构投资者，说明强化股东回报和价值提升战略。",
-        "body": "新韩金融集团会长陈玉东将从10日起约两周访问美国、墨西哥、加拿大等北中美地区，会见海外机构投资者。此次行程是陈会长亲自参加机构投资者说明会，介绍新韩金融集团强化股东回报的措施，以及旨在提升企业价值、也就是推动股价上升的“价值提升”战略。根据原文，访问国家为美国、墨西哥和加拿大，日程将持续约两周。新韩金融正通过强化股东回报政策推进企业价值提升，与海外机构投资者的直接沟通被视为宣传该战略的核心安排。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jin Ok-dong de Shinhan inicia gira IR en Norteamérica para explicar su value-up",
-        "excerpt": "El presidente de Shinhan Financial Group, Jin Ok-dong, visitará desde el día 10 EE. UU., México y Canadá durante unas dos semanas para reunirse con inversores institucionales extranjeros.",
-        "body": "El presidente de Shinhan Financial Group, Jin Ok-dong, visitará Estados Unidos, México y Canadá durante unas dos semanas a partir del día 10 para reunirse con inversores institucionales extranjeros. La agenda corresponde a una presentación directa para inversores en la que Jin explicará las medidas reforzadas de retorno al accionista de Shinhan Financial Group y su estrategia de “value-up”, orientada a elevar el valor corporativo, es decir, el precio de la acción. Según el texto original, los países visitados serán EE. UU., México y Canadá, y el itinerario durará cerca de dos semanas. Shinhan busca mejorar su valor corporativo mediante políticas reforzadas de retorno al accionista, y el contacto directo con inversores institucionales extranjeros forma parte central de esa comunicación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Jin Ok-dong, da Shinhan, inicia IR na América do Norte para estratégia value-up",
-        "excerpt": "O presidente do Shinhan Financial Group, Jin Ok-dong, visitará por cerca de duas semanas, a partir do dia 10, EUA, México e Canadá para se reunir com investidores institucionais estrangeiros.",
-        "body": "O presidente do Shinhan Financial Group, Jin Ok-dong, visitará Estados Unidos, México e Canadá por cerca de duas semanas a partir do dia 10 para se reunir com investidores institucionais estrangeiros. A viagem é uma agenda de relações com investidores em que Jin explicará pessoalmente as medidas reforçadas de retorno aos acionistas do grupo e sua estratégia de “value-up”, voltada a elevar o valor corporativo, ou seja, o preço das ações. Segundo o texto original, os destinos são EUA, México e Canadá, e a programação seguirá por aproximadamente duas semanas. A Shinhan busca ampliar o valor corporativo por meio de políticas reforçadas de retorno aos acionistas, e a comunicação direta com investidores institucionais estrangeiros é apresentada como parte central dessa estratégia. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Shinhan-Chef Jin Ok-dong startet Nordamerika-IR zur Value-up-Strategie",
-        "excerpt": "Jin Ok-dong, Chairman der Shinhan Financial Group, reist ab dem 10. rund zwei Wochen in die USA, nach Mexiko und Kanada, um ausländische institutionelle Investoren zu treffen.",
-        "body": "Jin Ok-dong, Chairman der Shinhan Financial Group, wird ab dem 10. für rund zwei Wochen die USA, Mexiko und Kanada besuchen, um ausländische institutionelle Investoren zu treffen. Die Reise ist eine Investor-Relations-Runde, bei der Jin persönlich die verstärkten Aktionärsrendite-Maßnahmen der Shinhan Financial Group und ihre „Value-up“-Strategie erläutert, die auf eine Steigerung des Unternehmenswerts, also des Aktienkurses, zielt. Dem Originalbericht zufolge sind die Besuchsländer die USA, Mexiko und Kanada; der Zeitplan umfasst etwa zwei Wochen. Shinhan verfolgt eine Erhöhung des Unternehmenswerts durch stärkere Aktionärsrückgaben, und der direkte Austausch mit ausländischen institutionellen Investoren gilt als zentraler Termin zur Vermittlung dieser Strategie. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Jin Ok-dong de Shinhan lance une tournée IR en Amérique du Nord sur le value-up",
-        "excerpt": "Jin Ok-dong, président de Shinhan Financial Group, se rendra dès le 10 aux États-Unis, au Mexique et au Canada pendant environ deux semaines pour rencontrer des investisseurs institutionnels étrangers.",
-        "body": "Jin Ok-dong, président de Shinhan Financial Group, se rendra aux États-Unis, au Mexique et au Canada pendant environ deux semaines à partir du 10 afin de rencontrer des investisseurs institutionnels étrangers. Cette tournée constitue une opération de relations investisseurs au cours de laquelle Jin expliquera directement les mesures renforcées de retour aux actionnaires de Shinhan Financial Group et sa stratégie de “value-up”, destinée à accroître la valeur de l’entreprise, c’est-à-dire le cours de l’action. Selon le texte original, les pays visités sont les États-Unis, le Mexique et le Canada, pour un calendrier d’environ deux semaines. Shinhan cherche à rehausser sa valeur d’entreprise grâce à un retour aux actionnaires renforcé, et le dialogue direct avec les investisseurs institutionnels étrangers est présenté comme un rendez-vous clé de cette stratégie. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رئيس شينهان جين أوك دونغ يبدأ جولة في أمريكا الشمالية لشرح استراتيجية رفع القيمة",
-        "excerpt": "يزور رئيس مجموعة شينهان المالية جين أوك دونغ، اعتبارا من اليوم العاشر ولمدة نحو أسبوعين، الولايات المتحدة والمكسيك وكندا للقاء مستثمرين مؤسسيين أجانب وشرح تعزيز عوائد المساهمين.",
-        "body": "يزور رئيس مجموعة شينهان المالية جين أوك دونغ الولايات المتحدة والمكسيك وكندا، بدءا من اليوم العاشر ولمدة تقارب أسبوعين، للقاء مستثمرين مؤسسيين أجانب. وتأتي الجولة كبرنامج مباشر لعلاقات المستثمرين يشرح فيه جين بنفسه إجراءات شينهان المعززة لعودة المساهمين واستراتيجية “رفع القيمة” الهادفة إلى زيادة قيمة الشركة، أي سعر السهم. ووفقا للنص الأصلي، تشمل الدول المستهدفة الولايات المتحدة والمكسيك وكندا، وتمتد الزيارة لنحو أسبوعين. وتسعى شينهان إلى رفع قيمة الشركة عبر سياسة أقوى لإعادة القيمة إلى المساهمين، ويعد التواصل المباشر مع المستثمرين المؤسسيين الأجانب جزءا رئيسيا من عرض هذه الاستراتيجية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "शिनहान चेयरमैन जिन ओक-डोंग उत्तर अमेरिका में वैल्यू-अप IR शुरू करेंगे",
-        "excerpt": "शिनहान फाइनेंशियल ग्रुप के चेयरमैन जिन ओक-डोंग 10 तारीख से करीब दो सप्ताह तक अमेरिका, मेक्सिको और कनाडा जाकर विदेशी संस्थागत निवेशकों से मिलेंगे और शेयरधारक रिटर्न नीति बताएंगे।",
-        "body": "शिनहान फाइनेंशियल ग्रुप के चेयरमैन जिन ओक-डोंग 10 तारीख से लगभग दो सप्ताह तक अमेरिका, मेक्सिको और कनाडा सहित उत्तर और मध्य अमेरिका के क्षेत्रों का दौरा कर विदेशी संस्थागत निवेशकों से मिलेंगे। यह कार्यक्रम ऐसा निवेशक संबंध कार्यक्रम है जिसमें जिन स्वयं शिनहान फाइनेंशियल ग्रुप की मजबूत की गई शेयरधारक रिटर्न नीति और कंपनी मूल्य, यानी शेयर मूल्य बढ़ाने के उद्देश्य वाली “वैल्यू-अप” रणनीति की व्याख्या करेंगे। मूल रिपोर्ट के अनुसार, दौरे के देश अमेरिका, मेक्सिको और कनाडा हैं, और कार्यक्रम लगभग दो सप्ताह चलेगा। शिनहान मजबूत शेयरधारक रिटर्न के जरिये कंपनी मूल्य बढ़ाने पर काम कर रहा है, और विदेशी संस्थागत निवेशकों से सीधा संवाद इस रणनीति को बताने का प्रमुख कार्यक्रम है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Chairman Shinhan Jin Ok-dong Mulai IR Amerika Utara untuk Strategi Value-Up",
-        "excerpt": "Chairman Shinhan Financial Group Jin Ok-dong mulai tanggal 10 akan mengunjungi AS, Meksiko, dan Kanada selama sekitar dua pekan untuk bertemu investor institusi luar negeri.",
-        "body": "Chairman Shinhan Financial Group Jin Ok-dong akan mengunjungi Amerika Serikat, Meksiko, dan Kanada selama sekitar dua pekan mulai tanggal 10 untuk bertemu investor institusi luar negeri. Agenda ini merupakan kegiatan hubungan investor di mana Jin secara langsung menjelaskan langkah Shinhan Financial Group memperkuat imbal hasil bagi pemegang saham serta strategi “value-up” yang ditujukan untuk menaikkan nilai perusahaan, yakni harga saham. Menurut teks asli, negara tujuan adalah AS, Meksiko, dan Kanada, dengan jadwal sekitar dua pekan. Shinhan mendorong peningkatan nilai perusahaan melalui kebijakan pengembalian kepada pemegang saham yang diperkuat, dan komunikasi langsung dengan investor institusi luar negeri menjadi bagian utama untuk menyampaikan strategi tersebut. Sumber: mk.co.kr"
       }
     }
   }
