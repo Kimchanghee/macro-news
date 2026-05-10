@@ -1,5 +1,230 @@
 [
   {
+    "id": "2d0ca53fe597",
+    "slug": "불앤베어-위클리-엔비디아-이번에도-깜짝-실적-전망-중요한-건-2분기-가이던스-281923",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T15:37:19.457Z",
+    "updatedAt": "2026-05-10T15:37:19.457Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042714",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042714",
+    "titleFingerprint": "dafa7a87cddfaeb85023fe10924b9eaf0e2a249a",
+    "dedupKeys": [
+      "2d0ca53fe5977c493e7082273d3c04e5a52731af",
+      "dafa7a87cddfaeb85023fe10924b9eaf0e2a249a",
+      "ef75d122ee9cdf1f7b3ba5f6ae79c2846595d84c"
+    ],
+    "imageUrl": "/images/articles/2d0ca53fe597.jpg",
+    "i18n": {
+      "ko": {
+        "title": "엔비디아 실적 전망 다시 주목…AI 반도체 랠리의 핵심은 2분기 가이던스",
+        "excerpt": "이번주 불앤베어 위클리는 엔비디아의 깜짝 실적 전망과 미국 AI 반도체 주가 흐름을 짚고, 반도체 사이클 형성 원인과 향후 관전 포인트를 다룬다.",
+        "body": "이번주 불앤베어 위클리는 엔비디아 실적 전망과 미국 인공지능(AI) 반도체 주가 흐름을 중심으로 반도체 시장의 방향성을 점검했다. 원문은 엔비디아가 이번에도 ‘깜짝 실적’을 낼 수 있다는 전망이 나오고 있지만, 투자자들이 더 주목해야 할 부분은 2분기 가이던스라고 짚었다. 최근 반도체 사이클이 형성되는 근본적 원인을 살펴보고, AI 반도체 관련 주가가 앞으로 어떤 흐름을 보일지 모색하는 내용도 포함됐다. 시장의 관심은 단기 실적뿐 아니라 향후 수요와 업황을 가늠할 수 있는 전망치에 맞춰질 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nvidia Earnings Outlook Back in Focus as AI Chip Rally Hinges on Q2 Guidance",
+        "excerpt": "This week’s Bull & Bear Weekly reviews Nvidia’s expected earnings surprise, U.S. AI semiconductor stocks, the forces behind the chip cycle, and key points ahead.",
+        "body": "This week’s Bull & Bear Weekly examined the direction of the semiconductor market through Nvidia’s earnings outlook and the share-price trend of U.S. artificial intelligence (AI) chip stocks. The original report noted that expectations are again forming for Nvidia to deliver a “surprise earnings” result, but said investors should focus more closely on second-quarter guidance. It also looked at the fundamental reasons behind the recent formation of a semiconductor cycle and explored how AI semiconductor-related stocks may move from here. Market attention is expected to center not only on near-term results but also on forecasts that can indicate future demand and industry conditions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "エヌビディア決算見通しに再注目、AI半導体株の焦点は第2四半期ガイダンス",
+        "excerpt": "今週のブル＆ベア・ウィークリーは、エヌビディアのサプライズ決算見通しと米AI半導体株、半導体サイクルの背景と今後の焦点を整理する。",
+        "body": "今週のブル＆ベア・ウィークリーは、エヌビディアの決算見通しと米国の人工知能（AI）半導体株の動きを中心に、半導体市場の方向性を点検した。原文は、エヌビディアが今回も「サプライズ決算」を出す可能性があるとの見方が出ている一方で、投資家がより注目すべき点は第2四半期のガイダンスだと指摘した。最近、半導体サイクルが形成されている根本的な理由を確認し、AI半導体関連株が今後どのような流れを見せるかを探る内容も含まれている。市場の関心は短期業績だけでなく、今後の需要と業況を測る見通しにも向かうとみられる。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "英伟达业绩预期再受关注，AI半导体行情关键在二季度指引",
+        "excerpt": "本周《Bull & Bear Weekly》聚焦英伟达意外业绩预期、美国AI半导体股走势，并梳理半导体周期形成原因与后续看点。",
+        "body": "本周《Bull & Bear Weekly》围绕英伟达业绩展望和美国人工智能（AI）半导体股价走势，检视半导体市场方向。原文指出，市场再次出现英伟达可能交出“意外业绩”的预期，但投资者更应关注的是第二季度指引。报道还梳理了近期半导体周期形成的根本原因，并探讨AI半导体相关股价今后可能呈现的走向。市场关注点预计不仅会停留在短期业绩，也会转向能够衡量未来需求和行业景气的预测数据。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Nvidia vuelve al centro: el rally de chips de IA mira la guía del segundo trimestre",
+        "excerpt": "Bull & Bear Weekly analiza esta semana la posible sorpresa de Nvidia, las acciones de chips de IA en EE. UU., las causas del ciclo semiconductor y sus claves futuras.",
+        "body": "Esta semana, Bull & Bear Weekly revisó la dirección del mercado de semiconductores a partir de las perspectivas de resultados de Nvidia y del comportamiento de las acciones estadounidenses vinculadas a semiconductores de inteligencia artificial (IA). El texto original señaló que vuelve a crecer la expectativa de que Nvidia presente unos resultados “sorpresa”, aunque subrayó que los inversores deberían prestar más atención a la guía del segundo trimestre. También abordó las razones fundamentales por las que se está formando el reciente ciclo de semiconductores y exploró cómo podrían evolucionar las acciones relacionadas con chips de IA. La atención del mercado se centrará no solo en los resultados de corto plazo, sino también en las previsiones que permitan medir demanda futura y condiciones del sector. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Nvidia volta ao foco: rali de chips de IA depende da orientação do 2º trimestre",
+        "excerpt": "O Bull & Bear Weekly desta semana analisa a possível surpresa da Nvidia, ações de semicondutores de IA nos EUA, causas do ciclo de chips e próximos pontos de atenção.",
+        "body": "Nesta semana, o Bull & Bear Weekly avaliou a direção do mercado de semicondutores a partir da perspectiva de resultados da Nvidia e do movimento das ações de chips de inteligência artificial (IA) nos Estados Unidos. O texto original destacou que há novamente expectativas de que a Nvidia apresente um “resultado surpresa”, mas apontou que os investidores devem observar com mais atenção a orientação para o segundo trimestre. A análise também examinou as razões fundamentais para a formação recente do ciclo de semicondutores e discutiu como as ações ligadas a chips de IA podem se comportar daqui em diante. O foco do mercado deve recair não apenas sobre os resultados de curto prazo, mas também sobre projeções capazes de indicar demanda futura e condições do setor. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nvidia-Ausblick rückt wieder in den Fokus: KI-Chip-Rally hängt an Q2-Prognose",
+        "excerpt": "Bull & Bear Weekly beleuchtet diese Woche Nvidias mögliche Ergebnisüberraschung, US-KI-Halbleiteraktien, Ursachen des Chipzyklus und wichtige Ausblicke.",
+        "body": "Bull & Bear Weekly hat diese Woche die Richtung des Halbleitermarktes anhand des Ergebnisausblicks von Nvidia und der Kursentwicklung von US-Aktien im Bereich künstliche Intelligenz (KI) und Halbleiter geprüft. Der Originalbericht stellte fest, dass erneut Erwartungen bestehen, Nvidia könne eine „Ergebnisüberraschung“ liefern, betonte jedoch, dass Anleger stärker auf die Prognose für das zweite Quartal achten sollten. Zudem wurden die grundlegenden Ursachen für die jüngste Bildung eines Halbleiterzyklus betrachtet und mögliche weitere Entwicklungen bei KI-Halbleiteraktien erörtert. Das Marktinteresse dürfte sich nicht nur auf kurzfristige Ergebnisse richten, sondern auch auf Prognosen, die künftige Nachfrage und Branchenlage erkennen lassen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Nvidia revient au premier plan: le rally des puces IA dépendra du guidage du T2",
+        "excerpt": "Bull & Bear Weekly examine cette semaine la possible surprise de Nvidia, les actions américaines de puces IA, les causes du cycle des semi-conducteurs et les perspectives.",
+        "body": "Cette semaine, Bull & Bear Weekly a examiné l’orientation du marché des semi-conducteurs à travers les perspectives de résultats de Nvidia et l’évolution des actions américaines liées aux puces d’intelligence artificielle (IA). Le texte original indique que l’idée d’une nouvelle « surprise » dans les résultats de Nvidia gagne du terrain, mais souligne que les investisseurs devraient surtout regarder le guidage du deuxième trimestre. Il analyse aussi les raisons fondamentales de la formation récente d’un cycle des semi-conducteurs et explore la trajectoire possible des actions liées aux puces IA. L’attention du marché devrait porter non seulement sur les résultats à court terme, mais aussi sur les prévisions permettant d’évaluer la demande future et l’état du secteur. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "توقعات نتائج إنفيديا تعود للواجهة ورهان أسهم رقائق الذكاء الاصطناعي على توجيهات الربع الثاني",
+        "excerpt": "يتناول عدد هذا الأسبوع من Bull & Bear Weekly توقعات مفاجأة إنفيديا، وأسهم رقائق الذكاء الاصطناعي الأميركية، وأسباب دورة أشباه الموصلات وآفاقها.",
+        "body": "راجع عدد هذا الأسبوع من Bull & Bear Weekly اتجاه سوق أشباه الموصلات من خلال توقعات نتائج إنفيديا وحركة أسهم أشباه الموصلات المرتبطة بالذكاء الاصطناعي في الولايات المتحدة. وأشار النص الأصلي إلى أن التوقعات تتجدد بأن تحقق إنفيديا مرة أخرى «نتائج مفاجئة»، لكنه أوضح أن ما ينبغي للمستثمرين التركيز عليه بدرجة أكبر هو توجيهات الربع الثاني. كما تناول الأسباب الأساسية التي تقف وراء تشكل دورة أشباه الموصلات مؤخرا، وبحث كيف قد تتحرك الأسهم المرتبطة برقاقات الذكاء الاصطناعي في المرحلة المقبلة. ومن المتوقع أن ينصب اهتمام السوق ليس فقط على النتائج القصيرة الأجل، بل أيضا على التوقعات التي تساعد في قياس الطلب المستقبلي وظروف القطاع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "एनवीडिया नतीजों पर फिर नजर, AI चिप शेयरों के लिए दूसरी तिमाही गाइडेंस अहम",
+        "excerpt": "इस सप्ताह Bull & Bear Weekly ने एनवीडिया की संभावित सरप्राइज आय, अमेरिकी AI सेमीकंडक्टर शेयरों, चिप चक्र के कारणों और आगे की दिशा पर चर्चा की।",
+        "body": "इस सप्ताह Bull & Bear Weekly ने एनवीडिया की आय संबंधी संभावनाओं और अमेरिका में कृत्रिम बुद्धिमत्ता (AI) से जुड़े सेमीकंडक्टर शेयरों की चाल के आधार पर सेमीकंडक्टर बाजार की दिशा की समीक्षा की। मूल रिपोर्ट में कहा गया कि एनवीडिया से फिर एक “सरप्राइज” परिणाम की उम्मीद बन रही है, लेकिन निवेशकों के लिए अधिक महत्वपूर्ण बिंदु दूसरी तिमाही का गाइडेंस है। इसमें हाल में बन रहे सेमीकंडक्टर चक्र के मूल कारणों को भी देखा गया और यह आंका गया कि AI सेमीकंडक्टर से जुड़े शेयर आगे कैसी दिशा ले सकते हैं। बाजार का ध्यान केवल निकट अवधि के नतीजों पर नहीं, बल्कि भविष्य की मांग और उद्योग की स्थिति बताने वाले अनुमानों पर भी रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Prospek Laba Nvidia Disorot Lagi, Reli Chip AI Bergantung pada Panduan Kuartal II",
+        "excerpt": "Bull & Bear Weekly pekan ini membahas peluang kejutan laba Nvidia, saham semikonduktor AI AS, penyebab siklus chip, serta poin penting untuk prospek berikutnya.",
+        "body": "Bull & Bear Weekly pekan ini meninjau arah pasar semikonduktor melalui prospek kinerja Nvidia dan pergerakan saham semikonduktor kecerdasan buatan (AI) di Amerika Serikat. Naskah asli menyebut bahwa ekspektasi kembali muncul bahwa Nvidia dapat mencatat “kinerja mengejutkan”, tetapi bagian yang lebih perlu diperhatikan investor adalah panduan kuartal kedua. Artikel itu juga menelaah alasan mendasar di balik terbentuknya siklus semikonduktor belakangan ini dan membahas kemungkinan arah saham terkait semikonduktor AI ke depan. Perhatian pasar diperkirakan tidak hanya tertuju pada kinerja jangka pendek, tetapi juga pada proyeksi yang dapat mengukur permintaan masa depan dan kondisi industri. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "adaa0de69455",
+    "slug": "ai가-불붙인-우주-인프라-전쟁-스페이스x보다-소재부품기업-주목-303433",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T15:36:18.651Z",
+    "updatedAt": "2026-05-10T15:36:18.651Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042713",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042713",
+    "titleFingerprint": "11fa11a266e870298bed4eddb9f858bbfd920ec7",
+    "dedupKeys": [
+      "adaa0de694552dd9b8abd77f27e28022a7346feb",
+      "11fa11a266e870298bed4eddb9f858bbfd920ec7",
+      "6fe5a9d94c5c2635d9b12697bf02da4df86c0b7d"
+    ],
+    "imageUrl": "/images/articles/adaa0de69455.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI발 우주 인프라 경쟁, 스페이스X보다 소재·부품기업에 쏠린 시선",
+        "excerpt": "AI와 로봇 산업 확산으로 우주 인프라 경쟁이 부각되는 가운데, 시장의 관심은 스페이스X 같은 완성 기업보다 소재·부품 기업으로 이동하고 있다.",
+        "body": "인공지능(AI)이 본격적으로 태동하고 이를 기반으로 작동하는 로봇 세상이 열리면서 우주 인프라 경쟁도 함께 주목받고 있다. 특히 로봇만 일하는 공장이 늘어나는 흐름이 두드러진다. 생산성이 탁월하다는 이유에서다. 원문은 미생물을 키우는 공장 사례를 언급하며, 자동화와 로봇 활용이 산업 현장에서 확대되고 있음을 짚었다. 이러한 변화 속에서 투자와 산업의 관심은 스페이스X 같은 대표 기업 자체보다 우주 인프라를 뒷받침하는 소재·부품 기업으로 향하고 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "AI-Driven Space Infrastructure Race Shifts Focus to Materials and Parts Firms",
+        "excerpt": "As AI and robotics spread, the space infrastructure race is gaining attention, with focus moving from finished players like SpaceX to materials and components companies.",
+        "body": "As artificial intelligence begins to take shape and a robot-powered world opens, competition over space infrastructure is also drawing attention. A notable trend is the rise of factories where only robots work. The reason cited is outstanding productivity. The original report mentions a factory that cultivates microorganisms as an example, pointing to the broader expansion of automation and robot use in industrial settings. In this environment, market and industry attention is turning less to flagship companies such as SpaceX itself and more to materials and components firms that support space infrastructure. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "AI発の宇宙インフラ競争、スペースXより素材・部品企業に注目",
+        "excerpt": "AIとロボット産業の広がりで宇宙インフラ競争が浮上するなか、関心はスペースXのような完成企業より素材・部品企業へ向かっている。",
+        "body": "人工知能（AI）が本格的に芽生え、それを基盤に動くロボットの世界が開かれるなか、宇宙インフラ競争も注目を集めている。特に、ロボットだけが働く工場が増えている流れが目立つ。理由は生産性が優れているためだ。原文は微生物を育てる工場の事例に触れ、自動化とロボット活用が産業現場で広がっている点を指摘した。こうした変化のなかで、投資と産業の関心はスペースXのような代表企業そのものより、宇宙インフラを支える素材・部品企業へ向かっている。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "AI点燃太空基础设施竞争，材料与零部件企业更受关注",
+        "excerpt": "随着AI和机器人产业扩散，太空基础设施竞争受到关注，市场焦点正从SpaceX等整机企业转向材料与零部件企业。",
+        "body": "随着人工智能（AI）开始兴起，并开启以其为基础运行的机器人世界，太空基础设施竞争也受到关注。尤其是只由机器人工作的工厂正在增加，这一趋势较为明显，原因在于其生产率出色。原文提到培养微生物的工厂案例，指出自动化和机器人应用正在产业现场扩大。在这种变化下，投资和产业关注点并非只集中在SpaceX这样的代表性企业本身，而是转向支撑太空基础设施的材料与零部件企业。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "La carrera espacial impulsada por la IA pone el foco en materiales y componentes",
+        "excerpt": "Con la expansión de la IA y la robótica, la infraestructura espacial gana atención y el interés se desplaza de firmas como SpaceX a empresas de materiales y componentes.",
+        "body": "A medida que la inteligencia artificial empieza a tomar forma y se abre un mundo operado por robots, también cobra atención la competencia por la infraestructura espacial. Destaca en particular el aumento de fábricas donde trabajan solo robots. La razón señalada es su elevada productividad. El texto original menciona como ejemplo una fábrica que cultiva microorganismos y subraya que la automatización y el uso de robots se están ampliando en los entornos industriales. En este contexto, el interés inversor e industrial se dirige menos a compañías emblemáticas como SpaceX y más a empresas de materiales y componentes que sostienen la infraestructura espacial. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Corrida por infraestrutura espacial movida por IA destaca materiais e componentes",
+        "excerpt": "Com a expansão da IA e da robótica, a infraestrutura espacial ganha atenção, enquanto o foco passa de empresas como a SpaceX para materiais e componentes.",
+        "body": "À medida que a inteligência artificial começa a ganhar forma e se abre um mundo operado por robôs, a competição por infraestrutura espacial também chama atenção. Um movimento marcante é o aumento de fábricas onde apenas robôs trabalham. O motivo citado é a produtividade elevada. O texto original menciona como exemplo uma fábrica que cultiva microrganismos, indicando a expansão da automação e do uso de robôs nos ambientes industriais. Nesse cenário, o interesse de investidores e da indústria se volta menos para empresas representativas como a SpaceX e mais para companhias de materiais e componentes que sustentam a infraestrutura espacial. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KI treibt Wettlauf um Weltrauminfrastruktur: Fokus auf Material- und Teilefirmen",
+        "excerpt": "Mit der Ausbreitung von KI und Robotik rückt Weltrauminfrastruktur in den Fokus, während sich das Interesse von SpaceX auf Material- und Komponentenfirmen verlagert.",
+        "body": "Während künstliche Intelligenz an Bedeutung gewinnt und eine von Robotern geprägte Welt entsteht, rückt auch der Wettbewerb um Weltrauminfrastruktur in den Blick. Besonders auffällig ist die Zunahme von Fabriken, in denen nur Roboter arbeiten. Als Grund wird die hohe Produktivität genannt. Der Originaltext verweist auf eine Fabrik zur Aufzucht von Mikroorganismen und zeigt damit, dass Automatisierung und Robotereinsatz in der Industrie breiter werden. In diesem Wandel richtet sich das Interesse von Investoren und Industrie weniger auf Vorzeigeunternehmen wie SpaceX selbst, sondern stärker auf Material- und Komponentenfirmen, die Weltrauminfrastruktur stützen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "La course aux infrastructures spatiales portée par l’IA braque les projecteurs sur les composants",
+        "excerpt": "Avec l’essor de l’IA et de la robotique, les infrastructures spatiales attirent l’attention, tandis que l’intérêt se déplace de SpaceX vers les matériaux et composants.",
+        "body": "Alors que l’intelligence artificielle commence à s’imposer et qu’un monde fonctionnant avec des robots s’ouvre, la concurrence autour des infrastructures spatiales attire aussi l’attention. La hausse des usines où seuls des robots travaillent est particulièrement notable. La raison avancée est leur productivité élevée. Le texte original cite l’exemple d’une usine qui cultive des micro-organismes et souligne l’expansion de l’automatisation et de l’usage des robots dans l’industrie. Dans ce contexte, l’intérêt des investisseurs et du secteur se porte moins sur des entreprises emblématiques comme SpaceX que sur les sociétés de matériaux et de composants qui soutiennent les infrastructures spatiales. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "سباق البنية التحتية الفضائية بفعل الذكاء الاصطناعي يبرز شركات المواد والمكونات",
+        "excerpt": "مع اتساع الذكاء الاصطناعي والروبوتات، يزداد الاهتمام بالبنية التحتية الفضائية ويتحول التركيز من شركات مثل سبيس إكس إلى المواد والمكونات.",
+        "body": "مع بدء الذكاء الاصطناعي في التشكل وظهور عالم تعمل فيه الروبوتات على أساسه، تحظى المنافسة في البنية التحتية الفضائية باهتمام متزايد. ويبرز خصوصا ازدياد المصانع التي تعمل فيها الروبوتات وحدها. والسبب المذكور هو الإنتاجية العالية. يشير النص الأصلي إلى مثال مصنع يزرع الكائنات الدقيقة، موضحا أن الأتمتة واستخدام الروبوتات يتوسعان في مواقع الصناعة. وفي ظل هذا التحول، يتجه اهتمام الاستثمار والصناعة بدرجة أقل إلى شركات بارزة مثل سبيس إكس نفسها، وبدرجة أكبر إلى شركات المواد والمكونات التي تدعم البنية التحتية الفضائية. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI से तेज अंतरिक्ष अवसंरचना दौड़, SpaceX से ज्यादा सामग्री-पुर्जों पर नजर",
+        "excerpt": "AI और रोबोटिक्स के विस्तार के बीच अंतरिक्ष अवसंरचना की होड़ उभर रही है, और ध्यान SpaceX जैसी कंपनियों से हटकर सामग्री व घटक कंपनियों पर जा रहा है।",
+        "body": "कृत्रिम बुद्धिमत्ता के आकार लेने और उस पर आधारित रोबोट संचालित दुनिया खुलने के साथ अंतरिक्ष अवसंरचना की प्रतिस्पर्धा भी ध्यान खींच रही है। खास तौर पर ऐसे कारखानों की संख्या बढ़ रही है जहां केवल रोबोट काम करते हैं। इसकी वजह उत्कृष्ट उत्पादकता बताई गई है। मूल लेख में सूक्ष्मजीवों को विकसित करने वाले कारखाने का उदाहरण दिया गया है और बताया गया है कि औद्योगिक स्थलों पर स्वचालन और रोबोट उपयोग बढ़ रहा है। इस बदलाव के बीच निवेश और उद्योग का ध्यान SpaceX जैसी प्रमुख कंपनी से अधिक उन सामग्री और घटक कंपनियों की ओर जा रहा है जो अंतरिक्ष अवसंरचना को सहारा देती हैं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Persaingan Infrastruktur Antariksa Dipicu AI, Fokus Beralih ke Material dan Komponen",
+        "excerpt": "Seiring meluasnya AI dan robotika, persaingan infrastruktur antariksa menonjol, dengan perhatian bergeser dari SpaceX ke perusahaan material dan komponen.",
+        "body": "Ketika kecerdasan buatan mulai berkembang dan dunia yang digerakkan robot terbuka, persaingan infrastruktur antariksa ikut menarik perhatian. Tren yang menonjol adalah bertambahnya pabrik yang hanya dioperasikan oleh robot. Alasannya adalah produktivitas yang unggul. Teks asli menyebut contoh pabrik yang menumbuhkan mikroorganisme, sekaligus menunjukkan bahwa otomatisasi dan penggunaan robot meluas di lokasi industri. Dalam perubahan ini, perhatian investasi dan industri tidak hanya tertuju pada perusahaan utama seperti SpaceX, tetapi bergeser ke perusahaan material dan komponen yang menopang infrastruktur antariksa. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "e6167c0a5e9f",
+    "slug": "동여의도-위클리-트럼프-1415일-방중-삼성전자-파업-여부도-변수-434139",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T15:35:20.419Z",
+    "updatedAt": "2026-05-10T15:35:20.419Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042715",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042715",
+    "titleFingerprint": "ca2d72d961fc968df2efff1f897dedef344631e2",
+    "dedupKeys": [
+      "e6167c0a5e9f9429eb3c57c078d776cf44cbe951",
+      "ca2d72d961fc968df2efff1f897dedef344631e2",
+      "921f0e5e0766ba57fe601bc18ee83801ef9c1a87"
+    ],
+    "imageUrl": "/images/articles/e6167c0a5e9f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 이번주 분기점, 트럼프 방중·삼성전자 파업 변수 부상",
+        "excerpt": "이번주 코스피는 지난주 13% 넘게 오른 뒤 7498에 마감한 흐름을 이어갈지, 트럼프의 14~15일 방중과 삼성전자 파업 여부 등 변수 속에서 숨 고르기에 들어갈지 주목된다.",
+        "body": "이번주 국내 증시는 코스피가 추가 상승세를 이어갈지, 단기 급등 뒤 숨 고르기에 들어갈지가 핵심 변수로 떠올랐다. 지난주 코스피는 한 주 동안 13% 넘게 뛰며 7498에 마감했다. 그러나 새 주에는 거시경제 부담과 지정학 변수가 동시에 부각된다. 특히 트럼프의 14~15일 방중 일정이 시장 심리에 영향을 줄 수 있고, 삼성전자 파업 여부도 투자자들이 지켜볼 변수로 꼽힌다. 급등 이후 차익 실현 압력과 대외 불확실성이 맞물리며 이번주 흐름은 변동성이 커질 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI at a Turning Point as Trump China Visit and Samsung Strike Loom",
+        "excerpt": "This week, investors are watching whether the KOSPI can extend last week’s more than 13% rally to 7,498, as Trump’s May 14-15 China visit and a possible Samsung Electronics strike emerge as variables.",
+        "body": "South Korea’s stock market enters the week with attention on whether the KOSPI can keep rising or pause after a sharp short-term rally. Last week, the index jumped more than 13% and closed at 7,498. But the new week brings macroeconomic pressure and geopolitical variables at the same time. Trump’s scheduled China visit on the 14th and 15th could affect market sentiment, while whether Samsung Electronics goes on strike is also being watched by investors. After the rapid rise, profit-taking pressure and external uncertainty may increase volatility this week. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI今週の分岐点、トランプ訪中とサムスン電子ストが焦点",
+        "excerpt": "今週のKOSPIは、先週13%超上昇して7498で終えた流れを続けるか、トランプ氏の14～15日訪中やサムスン電子のスト可否を受けて一服するかが注目される。",
+        "body": "今週の韓国株式市場では、KOSPIが上昇を続けるのか、短期急騰後に一服するのかが焦点となる。先週のKOSPIは1週間で13%超上昇し、7498で取引を終えた。ただ、新たな週にはマクロ経済上の負担と地政学的な変数が同時に浮上している。特にトランプ氏の14～15日の訪中日程が市場心理に影響する可能性があり、サムスン電子のスト実施 여부も投資家が注視する材料だ。急騰後の利益確定圧力と対外不確実性が重なり、今週の値動きは変動性が高まる可能性がある。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI本周迎关键考验，特朗普访华与三星罢工成变量",
+        "excerpt": "本周市场关注KOSPI能否延续上周逾13%的涨势并站在7498收盘后的动能，特朗普14日至15日访华以及三星电子是否罢工将成为重要变量。",
+        "body": "本周韩国股市的焦点在于，KOSPI能否继续上涨，还是在短期大涨后进入休整。上周KOSPI一周内上涨超过13%，收于7498。不过，新一周宏观经济压力与地缘政治变量同时显现。尤其是特朗普14日至15日访华的日程可能影响市场情绪，三星电子是否罢工也被投资者视为需要关注的变量。快速上涨之后，获利回吐压力与外部不确定性交织，本周走势可能出现更大波动。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI ante semana clave por visita de Trump a China y posible huelga de Samsung",
+        "excerpt": "Esta semana, el mercado sigue si el KOSPI extenderá el alza de más del 13% que lo llevó a cerrar en 7.498, mientras pesan la visita de Trump a China del 14 al 15 y una posible huelga en Samsung Electronics.",
+        "body": "El mercado bursátil surcoreano inicia la semana con la atención puesta en si el KOSPI mantendrá su avance o tomará una pausa tras una fuerte subida de corto plazo. La semana pasada, el índice ganó más de 13% y cerró en 7.498. Sin embargo, la nueva semana concentra presiones macroeconómicas y variables geopolíticas. La visita de Trump a China prevista para los días 14 y 15 podría influir en el ánimo del mercado, y los inversores también observan si habrá huelga en Samsung Electronics. Tras el rápido repunte, la toma de ganancias y la incertidumbre externa pueden elevar la volatilidad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI entra em semana decisiva com visita de Trump à China e greve da Samsung",
+        "excerpt": "Nesta semana, investidores avaliam se o KOSPI manterá a alta de mais de 13% da semana passada, quando fechou em 7.498, diante da visita de Trump à China nos dias 14 e 15 e da possível greve da Samsung Electronics.",
+        "body": "O mercado acionário sul-coreano começa a semana atento a se o KOSPI continuará subindo ou fará uma pausa após a forte alta de curto prazo. Na semana passada, o índice avançou mais de 13% e fechou em 7.498. Mas a nova semana reúne pressões macroeconômicas e variáveis geopolíticas. A visita de Trump à China marcada para os dias 14 e 15 pode afetar o sentimento do mercado, enquanto a possibilidade de greve na Samsung Electronics também é acompanhada pelos investidores. Depois da rápida valorização, realização de lucros e incerteza externa podem ampliar a volatilidade. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI vor Richtungswoche: Trump-Besuch in China und Samsung-Streik im Fokus",
+        "excerpt": "In dieser Woche steht im Blick, ob der KOSPI seine Rally von über 13% aus der Vorwoche nach dem Schluss bei 7.498 fortsetzt oder wegen Trumps China-Besuch am 14. und 15. sowie eines möglichen Samsung-Streiks pausiert.",
+        "body": "Der südkoreanische Aktienmarkt startet in die Woche mit der Frage, ob der KOSPI weiter steigen kann oder nach dem schnellen Anstieg eine Pause einlegt. In der Vorwoche legte der Index um mehr als 13% zu und schloss bei 7.498. Nun treffen makroökonomische Belastungen und geopolitische Faktoren gleichzeitig auf den Markt. Trumps geplanter China-Besuch am 14. und 15. könnte die Stimmung beeinflussen, zudem beobachten Anleger, ob es bei Samsung Electronics zu einem Streik kommt. Nach der starken Rally können Gewinnmitnahmen und externe Unsicherheit die Schwankungen in dieser Woche erhöhen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KOSPI sous pression avec la visite de Trump en Chine et le risque de grève chez Samsung",
+        "excerpt": "Cette semaine, les investisseurs surveillent si le KOSPI prolongera son bond de plus de 13% après une clôture à 7 498, alors que la visite de Trump en Chine les 14 et 15 et une possible grève chez Samsung Electronics pèsent.",
+        "body": "Le marché actions sud-coréen aborde la semaine avec une question centrale: le KOSPI poursuivra-t-il sa hausse ou marquera-t-il une pause après son bond rapide? La semaine dernière, l’indice a gagné plus de 13% et a clôturé à 7 498. Mais la nouvelle semaine concentre des pressions macroéconomiques et des variables géopolitiques. La visite de Trump en Chine prévue les 14 et 15 pourrait influencer le sentiment du marché, tandis que les investisseurs suivent aussi l’éventualité d’une grève chez Samsung Electronics. Après la forte progression, prises de bénéfices et incertitudes extérieures pourraient accroître la volatilité. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي أمام أسبوع حاسم مع زيارة ترامب للصين واحتمال إضراب سامسونغ",
+        "excerpt": "يراقب المستثمرون هذا الأسبوع ما إذا كان مؤشر كوسبي سيواصل صعوده الذي تجاوز 13% الأسبوع الماضي وأغلق عند 7498، وسط زيارة ترامب للصين يومي 14 و15 واحتمال إضراب سامسونغ إلكترونيكس.",
+        "body": "يدخل سوق الأسهم الكوري الجنوبي هذا الأسبوع مع سؤال رئيسي: هل يواصل مؤشر كوسبي الصعود أم يلتقط أنفاسه بعد الارتفاع السريع؟ في الأسبوع الماضي قفز المؤشر بأكثر من 13% وأغلق عند 7498. لكن الأسبوع الجديد يجمع ضغوطا اقتصادية كلية ومتغيرات جيوسياسية في وقت واحد. زيارة ترامب المقررة إلى الصين يومي 14 و15 قد تؤثر في معنويات السوق، كما يراقب المستثمرون ما إذا كانت سامسونغ إلكترونيكس ستنفذ إضرابا. وبعد الصعود الحاد، قد تزيد ضغوط جني الأرباح وحالة عدم اليقين الخارجية من التقلبات هذا الأسبوع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI के लिए अहम सप्ताह, ट्रंप की चीन यात्रा और Samsung हड़ताल पर नजर",
+        "excerpt": "इस सप्ताह निवेशक देखेंगे कि KOSPI पिछले सप्ताह 13% से अधिक चढ़कर 7498 पर बंद होने की रफ्तार बनाए रखता है या नहीं, क्योंकि 14-15 तारीख को ट्रंप की चीन यात्रा और Samsung Electronics की संभावित हड़ताल अहम कारक हैं।",
+        "body": "दक्षिण कोरिया का शेयर बाजार इस सप्ताह इस सवाल के साथ खुल रहा है कि KOSPI आगे बढ़ेगा या तेज अल्पकालिक उछाल के बाद ठहराव लेगा। पिछले सप्ताह सूचकांक 13% से अधिक चढ़ा और 7498 पर बंद हुआ। लेकिन नए सप्ताह में व्यापक आर्थिक दबाव और भू-राजनीतिक कारक एक साथ सामने हैं। ट्रंप की 14 और 15 तारीख को तय चीन यात्रा बाजार धारणा को प्रभावित कर सकती है, जबकि Samsung Electronics में हड़ताल होगी या नहीं, यह भी निवेशकों की नजर में है। तेज तेजी के बाद मुनाफावसूली का दबाव और बाहरी अनिश्चितता इस सप्ताह उतार-चढ़ाव बढ़ा सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Hadapi Pekan Penentu, Kunjungan Trump ke China dan Mogok Samsung Jadi Fokus",
+        "excerpt": "Pekan ini investor mencermati apakah KOSPI mampu melanjutkan reli lebih dari 13% pekan lalu setelah ditutup di 7.498, di tengah kunjungan Trump ke China pada 14-15 dan kemungkinan mogok Samsung Electronics.",
+        "body": "Pasar saham Korea Selatan memasuki pekan ini dengan fokus pada apakah KOSPI akan terus naik atau mulai jeda setelah reli tajam jangka pendek. Pekan lalu, indeks melonjak lebih dari 13% dan ditutup di 7.498. Namun, pekan baru membawa tekanan makroekonomi dan faktor geopolitik sekaligus. Jadwal kunjungan Trump ke China pada 14 dan 15 dapat memengaruhi sentimen pasar, sementara kemungkinan mogok di Samsung Electronics juga menjadi perhatian investor. Setelah kenaikan cepat, tekanan aksi ambil untung dan ketidakpastian eksternal dapat memperbesar volatilitas pekan ini. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4c17ca61d662",
     "slug": "표-오늘의-날씨-404857",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Kekhawatiran Pajak Capital Gain Diperberat, Menteri: Pemerintah Akan Berbeda",
         "excerpt": "Menteri Kim Yoon-duk pada 10 Mei lewat media sosial mengatakan kekhawatiran pasokan properti terkunci setelah pemberlakuan kembali pajak berat memang besar, tetapi pemerintah akan berbeda.",
         "body": "Menteri Pertanahan, Infrastruktur, dan Transportasi Kim Yoon-duk pada 10 Mei menyampaikan sikapnya melalui media sosial terkait kekhawatiran bahwa pemberlakuan kembali pajak capital gain yang diperberat dapat membuat pasokan properti di pasar terkunci. Kim mengatakan, “Suara kekhawatiran atas terkuncinya pasokan setelah pajak capital gain yang diperberat kembali diberlakukan memang besar, tetapi Pemerintah Kedaulatan Rakyat akan berbeda dan memang harus berbeda.” Kebijakan ini menjadi perhatian karena dapat langsung memengaruhi keputusan pemilik rumah untuk menjual dan arus pasokan di pasar. Pernyataan Kim dipandang sebagai respons atas kekhawatiran berkurangnya pasokan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e239cd255104",
-    "slug": "갑자기-공항-활주로-뛰어든-보행자여객기와-충돌해-숨져-153473",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T03:24:10.762Z",
-    "updatedAt": "2026-05-10T03:24:10.762Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042473",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042473",
-    "titleFingerprint": "47f985b34c4b33e6398b33cf1bfe16863fc4cf9e",
-    "dedupKeys": [
-      "e239cd255104b14cb8b41ec7dea6ec0c5539dede",
-      "47f985b34c4b33e6398b33cf1bfe16863fc4cf9e",
-      "49aa4dd98c2cf49369b2ec531ae87467991b2b5f"
-    ],
-    "imageUrl": "/images/articles/e239cd255104.png",
-    "i18n": {
-      "ko": {
-        "title": "덴버공항 활주로 보행자 사망 사고, 이륙 여객기와 갑작스러운 충돌",
-        "excerpt": "미국 덴버공항 활주로에서 9일 현지시간 갑자기 나타난 보행자가 이륙을 시도하던 여객기와 충돌해 숨졌다고 WSJ와 연합뉴스가 보도했다.",
-        "body": "미국 덴버공항 활주로에서 9일 현지시간 보행자가 갑자기 나타나 이륙을 시도하던 여객기와 충돌해 숨지는 사고가 발생했다. 보도에 따르면 사고는 공항 활주로에서 여객기가 이륙을 시도하던 과정에서 일어났으며, 보행자는 항공기와 부딪힌 뒤 사망했다. 공항 활주로는 항공기 이착륙이 이뤄지는 핵심 구역인 만큼 이번 사고는 공항 안전 관리와 활주로 접근 통제 문제에 관심을 모으고 있다. 관련 내용은 미국 일간 월스트리트저널과 연합뉴스 보도를 인용한 mk.co.kr에 근거했다."
-      },
-      "en": {
-        "title": "Denver Airport Runway Death: Pedestrian Struck by Passenger Jet During Takeoff",
-        "excerpt": "A pedestrian who suddenly appeared on a runway at Denver Airport on May 9 local time died after being struck by a passenger plane attempting takeoff, WSJ and Yonhap reported.",
-        "body": "A pedestrian suddenly appeared on a runway at Denver Airport in the United States on May 9 local time and died after being struck by a passenger aircraft that was attempting to take off. According to reports, the incident occurred on the airport runway during the aircraft’s takeoff attempt, and the pedestrian died after the collision. Because runways are core areas used for aircraft takeoffs and landings, the case is drawing attention to airport safety management and runway access control. This article is based on mk.co.kr, which cited reports from The Wall Street Journal and Yonhap News Agency."
-      },
-      "ja": {
-        "title": "デンバー空港滑走路で歩行者死亡、離陸中の旅客機と突然衝突",
-        "excerpt": "米デンバー空港の滑走路で現地時間9日、突然現れた歩行者が離陸を試みていた旅客機と衝突し死亡したとWSJと聯合ニュースが報じた。",
-        "body": "米国のデンバー空港の滑走路で現地時間9日、歩行者が突然現れ、離陸を試みていた旅客機と衝突して死亡する事故が発生した。報道によると、事故は空港の滑走路で旅客機が離陸を試みる過程で起き、歩行者は航空機と衝突した後に死亡した。滑走路は航空機の離着陸が行われる中核区域であるため、今回の事故は空港の安全管理と滑走路への接近管理に関心を集めている。内容は、米紙ウォール・ストリート・ジャーナルと聯合ニュースの報道を引用したmk.co.krに基づく。"
-      },
-      "zh": {
-        "title": "丹佛机场跑道行人死亡事故，突然闯入后与起飞客机相撞",
-        "excerpt": "据WSJ和韩联社报道，当地时间9日，美国丹佛机场跑道上突然出现一名行人，并与正试图起飞的客机相撞后死亡。",
-        "body": "当地时间9日，美国丹佛机场跑道上突然出现一名行人，并与一架正试图起飞的客机相撞后死亡。报道称，事故发生在机场跑道上，涉事客机当时正在尝试起飞，行人与飞机发生碰撞后身亡。由于跑道是飞机起降的核心区域，此次事故使机场安全管理和跑道出入管控问题受到关注。本文内容依据mk.co.kr报道，该报道引用了美国《华尔街日报》和韩联社的相关消息。"
-      },
-      "es": {
-        "title": "Muere peatón en pista del aeropuerto de Denver tras choque con avión al despegar",
-        "excerpt": "Un peatón que apareció de repente en una pista del aeropuerto de Denver murió el 9 de mayo, hora local, al ser golpeado por un avión de pasajeros que intentaba despegar.",
-        "body": "Un peatón apareció repentinamente en una pista del aeropuerto de Denver, en Estados Unidos, el 9 de mayo, hora local, y murió tras ser golpeado por un avión de pasajeros que intentaba despegar. Según los reportes, el accidente ocurrió en la pista del aeropuerto durante el intento de despegue de la aeronave, y el peatón falleció después de la colisión. Dado que las pistas son zonas esenciales para los despegues y aterrizajes, el caso ha centrado la atención en la gestión de seguridad aeroportuaria y el control de acceso a las pistas. La información se basa en mk.co.kr, que citó a The Wall Street Journal y a Yonhap."
-      },
-      "pt": {
-        "title": "Pedestre morre em pista do aeroporto de Denver após colisão com avião",
-        "excerpt": "Um pedestre que apareceu de repente em uma pista do aeroporto de Denver morreu em 9 de maio, hora local, após ser atingido por um avião de passageiros que tentava decolar.",
-        "body": "Um pedestre apareceu repentinamente em uma pista do aeroporto de Denver, nos Estados Unidos, em 9 de maio, hora local, e morreu depois de ser atingido por um avião de passageiros que tentava decolar. Segundo as reportagens, o acidente ocorreu na pista do aeroporto durante a tentativa de decolagem da aeronave, e o pedestre morreu após a colisão. Como pistas são áreas centrais para pousos e decolagens, o caso chama atenção para a gestão de segurança aeroportuária e o controle de acesso às pistas. O conteúdo se baseia no mk.co.kr, que citou reportagens do The Wall Street Journal e da Yonhap."
-      },
-      "de": {
-        "title": "Tödlicher Unfall auf Denver-Flughafen: Fußgänger von startendem Jet erfasst",
-        "excerpt": "Ein Fußgänger, der am 9. Mai Ortszeit plötzlich auf einer Startbahn des Flughafens Denver auftauchte, starb nach einer Kollision mit einem Passagierflugzeug beim Startversuch.",
-        "body": "Auf einer Startbahn des Flughafens Denver in den USA ist am 9. Mai Ortszeit plötzlich ein Fußgänger aufgetaucht und nach einer Kollision mit einem Passagierflugzeug gestorben, das gerade den Start versuchte. Berichten zufolge ereignete sich der Unfall auf der Flughafenpiste während des Startvorgangs; der Fußgänger kam nach dem Zusammenstoß mit der Maschine ums Leben. Da Start- und Landebahnen zentrale Bereiche des Flugbetriebs sind, lenkt der Vorfall Aufmerksamkeit auf Sicherheitsmanagement und Zugangskontrollen an Flughäfen. Die Angaben stützen sich auf mk.co.kr, das The Wall Street Journal und Yonhap zitierte."
-      },
-      "fr": {
-        "title": "Mort sur une piste de l’aéroport de Denver après choc avec un avion au décollage",
-        "excerpt": "Un piéton apparu soudainement sur une piste de l’aéroport de Denver est mort le 9 mai, heure locale, après avoir été percuté par un avion de passagers qui tentait de décoller.",
-        "body": "Un piéton est apparu soudainement sur une piste de l’aéroport de Denver, aux États-Unis, le 9 mai, heure locale, et est mort après avoir été percuté par un avion de passagers qui tentait de décoller. Selon les informations rapportées, l’accident s’est produit sur la piste pendant la tentative de décollage de l’appareil, et le piéton est décédé après la collision. Les pistes étant des zones essentielles aux décollages et atterrissages, cet accident attire l’attention sur la gestion de la sécurité aéroportuaire et le contrôle de l’accès aux pistes. L’article s’appuie sur mk.co.kr, qui cite The Wall Street Journal et Yonhap."
-      },
-      "ar": {
-        "title": "وفاة شخص على مدرج مطار دنفر بعد اصطدامه بطائرة ركاب أثناء محاولة الإقلاع",
-        "excerpt": "ذكرت وول ستريت جورنال ويونهاب أن شخصا ظهر فجأة على مدرج مطار دنفر في 9 مايو بالتوقيت المحلي، وتوفي بعد اصطدامه بطائرة ركاب كانت تحاول الإقلاع.",
-        "body": "ظهر شخص فجأة على مدرج مطار دنفر في الولايات المتحدة في 9 مايو بالتوقيت المحلي، وتوفي بعد اصطدامه بطائرة ركاب كانت تحاول الإقلاع. ووفقا للتقارير، وقع الحادث على مدرج المطار أثناء محاولة الطائرة الإقلاع، وتوفي الشخص بعد الاصطدام بالطائرة. وبما أن المدرجات مناطق أساسية لعمليات الإقلاع والهبوط، فقد سلط الحادث الضوء على إدارة السلامة في المطارات وضوابط الوصول إلى المدارج. تستند هذه المعلومات إلى تقرير mk.co.kr الذي نقل عن صحيفة وول ستريت جورنال ووكالة يونهاب للأنباء."
-      },
-      "hi": {
-        "title": "डेनवर एयरपोर्ट रनवे पर मौत, उड़ान भरते यात्री विमान से टकराया पैदल व्यक्ति",
-        "excerpt": "स्थानीय समयानुसार 9 मई को डेनवर एयरपोर्ट के रनवे पर अचानक आए एक पैदल व्यक्ति की उड़ान भरने की कोशिश कर रहे यात्री विमान से टक्कर के बाद मौत हो गई।",
-        "body": "अमेरिका के डेनवर एयरपोर्ट के रनवे पर स्थानीय समयानुसार 9 मई को एक पैदल व्यक्ति अचानक आ गया और उड़ान भरने की कोशिश कर रहे यात्री विमान से टकराने के बाद उसकी मौत हो गई। रिपोर्टों के अनुसार, यह हादसा एयरपोर्ट रनवे पर उस समय हुआ जब विमान टेकऑफ की कोशिश कर रहा था, और टक्कर के बाद पैदल व्यक्ति की मृत्यु हो गई। रनवे विमान के टेकऑफ और लैंडिंग के प्रमुख क्षेत्र होते हैं, इसलिए इस घटना ने एयरपोर्ट सुरक्षा प्रबंधन और रनवे पहुंच नियंत्रण पर ध्यान खींचा है। यह जानकारी mk.co.kr पर आधारित है, जिसने वॉल स्ट्रीट जर्नल और योनहाप की रिपोर्टों का हवाला दिया।"
-      },
-      "id": {
-        "title": "Pejalan Kaki Tewas di Runway Bandara Denver, Tertabrak Pesawat Saat Lepas Landas",
-        "excerpt": "Seorang pejalan kaki yang tiba-tiba muncul di runway Bandara Denver pada 9 Mei waktu setempat tewas setelah tertabrak pesawat penumpang yang mencoba lepas landas.",
-        "body": "Seorang pejalan kaki tiba-tiba muncul di runway Bandara Denver, Amerika Serikat, pada 9 Mei waktu setempat dan tewas setelah tertabrak pesawat penumpang yang sedang mencoba lepas landas. Menurut laporan, insiden terjadi di runway bandara saat pesawat berupaya lepas landas, dan pejalan kaki tersebut meninggal setelah benturan dengan pesawat. Karena runway merupakan area inti untuk lepas landas dan pendaratan pesawat, kejadian ini menarik perhatian pada manajemen keselamatan bandara dan pengendalian akses runway. Informasi ini berdasarkan mk.co.kr, yang mengutip laporan The Wall Street Journal dan Yonhap."
-      }
-    }
-  },
-  {
-    "id": "5fad208487cd",
-    "slug": "에어프레미아-지역-아동과-함께하는-장애-이해-퀴즈쇼-912914",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T03:23:15.005Z",
-    "updatedAt": "2026-05-10T03:23:15.005Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042475",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042475",
-    "titleFingerprint": "74039a7c169fb69cc2ac303c41193f31da6530e3",
-    "dedupKeys": [
-      "5fad208487cd85cf9f6435f0a1843fd4e7333463",
-      "74039a7c169fb69cc2ac303c41193f31da6530e3",
-      "5872ffd00ce75935aefa7b24c8eb7f05e549bbbd"
-    ],
-    "imageUrl": "/images/articles/5fad208487cd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "에어프레미아, 지역 아동과 ‘장애 이해 퀴즈쇼’ 참여",
-        "excerpt": "에어프레미아 객실승무원 봉사동아리 엔젤프레미아가 9일 서울 강동구 서울장애인종합복지관에서 열린 장애 이해 퀴즈쇼에 참여했다.",
-        "body": "에어프레미아는 객실승무원 봉사동아리 ‘엔젤프레미아’가 지난 9일 서울 강동구 서울장애인종합복지관에서 열린 ‘장애 이해 퀴즈쇼’에 참여했다고 10일 밝혔다. 이번 행사는 지역 아동과 함께 장애 이해를 주제로 진행된 프로그램이다. 엔젤프레미아는 에어프레미아 객실승무원들이 참여하는 봉사동아리로, 이번 활동을 통해 지역 아동 대상 행사에 함께했다. 회사가 공개한 내용은 행사 참여 사실과 장소, 일정에 초점이 맞춰졌다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Air Premia Joins Local Children for Disability Awareness Quiz Show",
-        "excerpt": "Air Premia said on May 10 that its cabin crew volunteer club Angel Premia joined a disability awareness quiz show in Gangdong-gu, Seoul, on May 9.",
-        "body": "Air Premia said on May 10 that Angel Premia, its cabin crew volunteer club, participated on May 9 in a “Disability Awareness Quiz Show” held at the Seoul Community Rehabilitation Center in Gangdong-gu, Seoul. The program was conducted with local children under the theme of understanding disabilities. Angel Premia is a volunteer group made up of Air Premia cabin crew members, and through this activity it joined an event for children in the local community. The company’s announcement focused on the fact of participation, the venue, and the schedule. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "エアプレミア、地域の子どもと障害理解クイズショーに参加",
-        "excerpt": "エアプレミアは10日、客室乗務員のボランティア同好会エンジェルプレミアが9日にソウル江東区で開かれた障害理解クイズショーに参加したと明らかにした。",
-        "body": "エアプレミアは10日、客室乗務員のボランティア同好会「エンジェルプレミア」が9日、ソウル市江東区のソウル障害人総合福祉館で開かれた「障害理解クイズショー」に参加したと発表した。今回の行事は、地域の子どもたちとともに障害理解をテーマに進められたプログラムだ。エンジェルプレミアはエアプレミアの客室乗務員が参加するボランティア同好会で、今回の活動を通じて地域児童向け行事に加わった。会社が公開した内容は、参加事実と場所、日程に焦点を当てている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Air Premia与地区儿童参加“理解残障”问答活动",
-        "excerpt": "Air Premia 10日表示，客舱乘务员志愿社团Angel Premia于9日参加了在首尔江东区举行的“理解残障问答秀”。",
-        "body": "Air Premia于10日表示，其客舱乘务员志愿社团“Angel Premia”于9日参加了在首尔江东区首尔残障人综合福利馆举行的“理解残障问答秀”。此次活动是与地区儿童一起围绕理解残障主题进行的项目。Angel Premia是由Air Premia客舱乘务员参与的志愿社团，并通过此次活动参与了面向地区儿童的活动。公司公开的信息主要集中在参与事实、活动地点和日期。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Air Premia participa con niños locales en un quiz sobre discapacidad",
-        "excerpt": "Air Premia informó el día 10 que su club voluntario de tripulantes Angel Premia participó el 9 en Seúl en un quiz show sobre comprensión de la discapacidad.",
-        "body": "Air Premia informó el día 10 que “Angel Premia”, su club de voluntariado formado por tripulantes de cabina, participó el día 9 en el “Quiz Show sobre comprensión de la discapacidad” celebrado en el Centro Integral de Bienestar para Personas con Discapacidad de Seúl, en Gangdong-gu. El programa se realizó con niños de la comunidad bajo el tema de la comprensión de la discapacidad. Angel Premia es un grupo voluntario integrado por tripulantes de cabina de Air Premia y, mediante esta actividad, se sumó a un evento dirigido a niños locales. La información difundida por la compañía se centró en la participación, el lugar y la fecha. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Air Premia participa com crianças locais de quiz sobre deficiência",
-        "excerpt": "A Air Premia informou no dia 10 que o clube voluntário de tripulantes Angel Premia participou, no dia 9, de um quiz sobre compreensão da deficiência em Seul.",
-        "body": "A Air Premia informou no dia 10 que o “Angel Premia”, clube de voluntariado formado por comissários de bordo, participou no dia 9 do “Quiz Show de Compreensão da Deficiência”, realizado no Centro Integral de Bem-Estar para Pessoas com Deficiência de Seul, em Gangdong-gu. O programa foi conduzido com crianças da comunidade sob o tema da compreensão da deficiência. O Angel Premia é um grupo voluntário integrado por tripulantes de cabine da Air Premia e, por meio desta atividade, participou de um evento voltado a crianças locais. A divulgação da empresa se concentrou na participação, no local e na data. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Air Premia nimmt mit Kindern an Quizshow zu Behinderungsverständnis teil",
-        "excerpt": "Air Premia teilte am 10. mit, dass der Kabinencrew-Freiwilligenclub Angel Premia am 9. an einer Quizshow zum Verständnis von Behinderung in Seoul teilnahm.",
-        "body": "Air Premia teilte am 10. mit, dass „Angel Premia“, der Freiwilligenclub seiner Kabinencrew, am 9. an der „Quizshow zum Verständnis von Behinderung“ im Seoul Community Rehabilitation Center im Bezirk Gangdong-gu in Seoul teilgenommen hat. Die Veranstaltung wurde mit Kindern aus der Region unter dem Thema des Verständnisses von Behinderung durchgeführt. Angel Premia ist ein Freiwilligenclub, an dem Kabinencrew-Mitglieder von Air Premia teilnehmen, und schloss sich mit dieser Aktivität einer Veranstaltung für lokale Kinder an. Die vom Unternehmen veröffentlichten Angaben konzentrierten sich auf Teilnahme, Ort und Termin. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Air Premia rejoint des enfants pour un quiz sur le handicap",
-        "excerpt": "Air Premia a annoncé le 10 que le club bénévole de son personnel de cabine, Angel Premia, avait participé le 9 à Séoul à un quiz sur la compréhension du handicap.",
-        "body": "Air Premia a annoncé le 10 que « Angel Premia », le club de bénévolat de son personnel de cabine, avait participé le 9 au « Quiz Show sur la compréhension du handicap » organisé au Centre global de bien-être pour personnes handicapées de Séoul, dans l’arrondissement de Gangdong-gu. Le programme s’est déroulé avec des enfants de la région autour du thème de la compréhension du handicap. Angel Premia est un club bénévole composé de membres du personnel de cabine d’Air Premia et a pris part, par cette activité, à un événement destiné aux enfants locaux. Les informations communiquées par l’entreprise portent sur la participation, le lieu et la date. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إير بريميا تشارك أطفال المنطقة في مسابقة لفهم الإعاقة",
-        "excerpt": "أعلنت إير بريميا في 10 مايو أن نادي التطوع لمضيفيها Angel Premia شارك في 9 مايو في مسابقة لفهم الإعاقة في حي غانغدونغ بسيول.",
-        "body": "أعلنت إير بريميا في 10 مايو أن “Angel Premia”، نادي التطوع التابع لطاقم الضيافة الجوية لديها، شارك في 9 مايو في “مسابقة فهم الإعاقة” التي أقيمت في مركز سيول الشامل لرعاية ذوي الإعاقة في حي غانغدونغ بسيول. ونُظم البرنامج مع أطفال من المنطقة تحت موضوع فهم الإعاقة. Angel Premia هو ناد تطوعي يشارك فيه أفراد طاقم الضيافة الجوية في إير بريميا، ومن خلال هذا النشاط انضم إلى فعالية موجهة للأطفال المحليين. وتركز ما أعلنته الشركة على واقعة المشاركة والمكان والموعد. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Air Premia ने स्थानीय बच्चों के साथ दिव्यांगता समझ क्विज शो में भाग लिया",
-        "excerpt": "Air Premia ने 10 मई को बताया कि उसके केबिन क्रू स्वयंसेवी क्लब Angel Premia ने 9 मई को सियोल के गांगडोंग-गु में दिव्यांगता समझ क्विज शो में भाग लिया।",
-        "body": "Air Premia ने 10 मई को बताया कि उसके केबिन क्रू स्वयंसेवी क्लब “Angel Premia” ने 9 मई को सियोल के गांगडोंग-गु स्थित Seoul Community Rehabilitation Center में आयोजित “दिव्यांगता समझ क्विज शो” में भाग लिया। यह कार्यक्रम स्थानीय बच्चों के साथ दिव्यांगता को समझने के विषय पर आयोजित किया गया था। Angel Premia Air Premia के केबिन क्रू सदस्यों का स्वयंसेवी क्लब है, और इस गतिविधि के माध्यम से उसने स्थानीय बच्चों के लिए आयोजित कार्यक्रम में हिस्सा लिया। कंपनी द्वारा जारी जानकारी भागीदारी, स्थान और तारीख पर केंद्रित थी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Air Premia Ikut Kuis Pemahaman Disabilitas Bersama Anak Lokal",
-        "excerpt": "Air Premia menyatakan pada 10 Mei bahwa klub relawan awak kabin Angel Premia ikut dalam kuis pemahaman disabilitas pada 9 Mei di Gangdong-gu, Seoul.",
-        "body": "Air Premia menyatakan pada 10 Mei bahwa “Angel Premia”, klub relawan awak kabinnya, berpartisipasi pada 9 Mei dalam “Kuis Pemahaman Disabilitas” yang digelar di Seoul Community Rehabilitation Center di Gangdong-gu, Seoul. Program ini berlangsung bersama anak-anak setempat dengan tema pemahaman terhadap disabilitas. Angel Premia adalah klub relawan yang diikuti oleh awak kabin Air Premia, dan melalui kegiatan ini mereka ikut dalam acara yang ditujukan bagi anak-anak di komunitas lokal. Informasi yang disampaikan perusahaan berfokus pada fakta partisipasi, lokasi, dan jadwal acara. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7a8666ca5007",
-    "slug": "러닝-열풍-올라탄-식품업계러닝족-겨냥한-협찬-경쟁-치열-758282",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T03:22:24.976Z",
-    "updatedAt": "2026-05-10T03:22:24.976Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042476",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042476",
-    "titleFingerprint": "d8711f8559adaef0d4008c4f6eb6efafaf765a28",
-    "dedupKeys": [
-      "7a8666ca50078afeefef1d4aea2c7afb58f6b17a",
-      "d8711f8559adaef0d4008c4f6eb6efafaf765a28",
-      "ac8ea637abd4909fd374ecb865fde50100bbb108"
-    ],
-    "imageUrl": "/images/articles/7a8666ca5007.jpg",
-    "i18n": {
-      "ko": {
-        "title": "러닝 열풍에 식품업계 협찬 경쟁 가열…하이뮨 ‘나는 솔로런’ 후원",
-        "excerpt": "최근 러닝 열풍이 이어지자 식품업계가 러닝족 접점 확대에 나섰고, 일동후디스 하이뮨은 ‘나는 솔로런’ 공식 후원과 대회 부스 운영으로 경쟁에 합류했다.",
-        "body": "최근 러닝 열풍이 확산되면서 식품업계가 러닝족을 겨냥한 협찬 경쟁에 속도를 내고 있다. 일동후디스의 단백질 브랜드 하이뮨은 ‘나는 솔로런’ 공식 후원사로 참여하고, 대회 당일 하이뮨 부스를 운영해 참가자와의 접점을 넓혔다. 업계는 러닝을 즐기는 소비자층이 늘어나는 흐름에 맞춰 스포츠 행사 후원과 현장 부스 운영을 통해 브랜드 경험을 강화하는 모습이다. 이번 움직임은 식품 브랜드가 러닝 문화와 결합해 소비자와 직접 만나는 마케팅을 확대하고 있음을 보여준다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Food Brands Chase Running Boom as Hi-Mune Sponsors ‘I Am Solo Run’",
-        "excerpt": "As the recent running boom grows, food companies are expanding touchpoints with runners, with Ildong Foodis Hi-Mune joining through official sponsorship and an event booth.",
-        "body": "As the recent running boom spreads, food companies are moving faster in their sponsorship competition for runners. Ildong Foodis’ protein brand Hi-Mune joined as an official sponsor of ‘I Am Solo Run’ and operated a Hi-Mune booth on race day to expand contact with participants. The industry is responding to the growing base of consumers who enjoy running by strengthening brand experiences through sports event sponsorships and on-site booths. This move shows food brands expanding marketing that connects directly with consumers by linking with running culture. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ランニングブームで食品業界の協賛競争加熱、ハイミューンが大会後援",
-        "excerpt": "最近のランニングブームを受け、食品業界はランナーとの接点拡大に動き、日東フーディスのハイミューンは『私はソロラン』公式後援とブース運営に参加した。",
-        "body": "最近のランニングブームが広がるなか、食品業界ではランナーを狙った協賛競争が加速している。日東フーディスのたんぱく質ブランド、ハイミューンは『私はソロラン』の公式スポンサーとして参加し、大会当日にハイミューンブースを運営して参加者との接点を広げた。業界はランニングを楽しむ消費者層が増える流れに合わせ、スポーツイベントの後援や現場ブース運営を通じてブランド体験を強化している。今回の動きは、食品ブランドがランニング文化と結びつき、消費者と直接出会うマーケティングを拡大していることを示す。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "跑步热带动食品业赞助竞争，Hi-Mune冠名支持“I Am Solo Run”",
-        "excerpt": "近期跑步热升温，食品行业加快扩大与跑者的接触，Ildong Foodis旗下Hi-Mune通过官方赞助和赛事展位参与其中。",
-        "body": "随着近期跑步热潮扩散，食品行业围绕跑步人群的赞助竞争正在加速。Ildong Foodis旗下蛋白质品牌Hi-Mune作为“I Am Solo Run”官方赞助商参与，并在比赛当天运营Hi-Mune展位，以扩大与参赛者的接触。行业正顺应喜欢跑步的消费者增加这一趋势，通过赞助体育活动和现场展位运营来强化品牌体验。此次动向显示，食品品牌正在把营销与跑步文化结合，扩大与消费者直接见面的机会。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Boom del running impulsa patrocinios de alimentos: Hi-Mune apoya ‘I Am Solo Run’",
-        "excerpt": "Ante el reciente auge del running, la industria alimentaria amplía el contacto con corredores; Hi-Mune de Ildong Foodis participa con patrocinio oficial y un estand en carrera.",
-        "body": "A medida que se extiende el reciente auge del running, la industria alimentaria acelera la competencia por patrocinios dirigidos a corredores. Hi-Mune, la marca de proteína de Ildong Foodis, participó como patrocinador oficial de ‘I Am Solo Run’ y operó un estand de Hi-Mune el día de la carrera para ampliar el contacto con los participantes. El sector responde al crecimiento de consumidores que disfrutan correr reforzando la experiencia de marca mediante patrocinios deportivos y presencia en eventos. Este movimiento muestra que las marcas de alimentos amplían el marketing directo al consumidor al vincularse con la cultura running. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Febre da corrida aquece patrocínios de alimentos; Hi-Mune apoia ‘I Am Solo Run’",
-        "excerpt": "Com a recente febre da corrida, o setor de alimentos amplia contato com corredores; a Hi-Mune, da Ildong Foodis, entrou com patrocínio oficial e estande no evento.",
-        "body": "Com a expansão recente da febre da corrida, o setor de alimentos acelera a disputa por patrocínios voltados aos corredores. A Hi-Mune, marca de proteína da Ildong Foodis, participou como patrocinadora oficial da ‘I Am Solo Run’ e operou um estande da Hi-Mune no dia da prova para ampliar o contato com os participantes. A indústria acompanha o aumento de consumidores que praticam corrida, reforçando experiências de marca por meio de apoio a eventos esportivos e operação de estandes no local. O movimento mostra marcas de alimentos ampliando o marketing direto ao consumidor ao se conectar com a cultura da corrida. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Running-Boom verschärft Sponsoring-Wettlauf: Hi-Mune unterstützt ‘I Am Solo Run’",
-        "excerpt": "Der jüngste Running-Boom bringt Lebensmittelmarken näher an Läufer heran; Ildong Foodis Hi-Mune beteiligt sich mit offiziellem Sponsoring und einem Stand am Renntag.",
-        "body": "Mit der Ausbreitung des jüngsten Running-Booms beschleunigt die Lebensmittelbranche ihren Sponsoring-Wettbewerb um Läufer. Hi-Mune, die Proteinmarke von Ildong Foodis, trat als offizieller Sponsor von ‘I Am Solo Run’ auf und betrieb am Wettkampftag einen Hi-Mune-Stand, um den Kontakt zu Teilnehmern auszubauen. Die Branche reagiert auf die wachsende Zahl laufbegeisterter Verbraucher, indem sie Markenerlebnisse über Sportsponsoring und Vor-Ort-Stände stärkt. Die Entwicklung zeigt, dass Lebensmittelmarken ihr Marketing ausweiten, indem sie sich mit der Laufkultur verbinden und Verbraucher direkt erreichen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "L’essor du running intensifie les sponsorings alimentaires, Hi-Mune soutient ‘I Am Solo Run’",
-        "excerpt": "Face au récent essor du running, l’industrie alimentaire élargit ses contacts avec les coureurs; Hi-Mune d’Ildong Foodis participe comme sponsor officiel avec un stand.",
-        "body": "Alors que le récent essor du running se diffuse, l’industrie alimentaire accélère la concurrence des sponsorings ciblant les coureurs. Hi-Mune, marque de protéines d’Ildong Foodis, a participé comme sponsor officiel de ‘I Am Solo Run’ et a tenu un stand Hi-Mune le jour de la course afin d’élargir le contact avec les participants. Le secteur répond à la hausse des consommateurs qui pratiquent la course en renforçant l’expérience de marque par le sponsoring d’événements sportifs et des stands sur site. Ce mouvement montre que les marques alimentaires développent un marketing direct en s’associant à la culture running. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "طفرة الجري تشعل تنافس رعايات الأغذية وهاي ميون تدعم ‘I Am Solo Run’",
-        "excerpt": "مع اتساع طفرة الجري مؤخرا، توسع شركات الأغذية نقاط التواصل مع العدائين، وشاركت Hi-Mune من Ildong Foodis برعاية رسمية وجناح في يوم السباق.",
-        "body": "مع انتشار طفرة الجري مؤخرا، تسرع صناعة الأغذية منافستها في الرعايات الموجهة إلى محبي الجري. شاركت Hi-Mune، علامة البروتين التابعة لشركة Ildong Foodis، بصفتها راعيا رسميا لفعالية ‘I Am Solo Run’، وشغلت جناح Hi-Mune في يوم السباق لتوسيع نقاط التواصل مع المشاركين. وتواكب الصناعة زيادة المستهلكين الذين يستمتعون بالجري عبر تعزيز تجربة العلامة من خلال رعاية الفعاليات الرياضية وتشغيل الأجنحة في الموقع. وتظهر هذه الخطوة أن علامات الأغذية توسع تسويقها المباشر للمستهلكين عبر الارتباط بثقافة الجري. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "रनिंग बूम से खाद्य कंपनियों की स्पॉन्सरशिप होड़ तेज, Hi-Mune ने ‘I Am Solo Run’ को समर्थन दिया",
-        "excerpt": "हालिया रनिंग बूम के बीच खाद्य उद्योग धावकों से संपर्क बढ़ा रहा है; Ildong Foodis की Hi-Mune ने आधिकारिक प्रायोजन और रेस डे बूथ के साथ भागीदारी की।",
-        "body": "हालिया रनिंग बूम के फैलने के साथ खाद्य उद्योग धावकों को लक्षित स्पॉन्सरशिप प्रतिस्पर्धा तेज कर रहा है। Ildong Foodis के प्रोटीन ब्रांड Hi-Mune ने ‘I Am Solo Run’ के आधिकारिक प्रायोजक के रूप में भाग लिया और रेस के दिन Hi-Mune बूथ चलाकर प्रतिभागियों से संपर्क बढ़ाया। उद्योग दौड़ का आनंद लेने वाले उपभोक्ताओं की बढ़ती धारा के अनुरूप खेल आयोजनों के प्रायोजन और ऑन-साइट बूथ संचालन के जरिए ब्रांड अनुभव मजबूत कर रहा है। यह कदम दिखाता है कि खाद्य ब्रांड रनिंग संस्कृति से जुड़कर उपभोक्ताओं से सीधे मिलने वाली मार्केटिंग बढ़ा रहे हैं। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Tren Lari Panaskan Sponsor Industri Makanan, Hi-Mune Dukung ‘I Am Solo Run’",
-        "excerpt": "Saat tren lari terbaru meluas, industri makanan memperbesar kontak dengan pelari; Hi-Mune dari Ildong Foodis ikut lewat sponsor resmi dan booth pada hari lomba.",
-        "body": "Seiring meluasnya tren lari terbaru, industri makanan mempercepat persaingan sponsor yang menyasar para pelari. Hi-Mune, merek protein dari Ildong Foodis, berpartisipasi sebagai sponsor resmi ‘I Am Solo Run’ dan mengoperasikan booth Hi-Mune pada hari lomba untuk memperluas kontak dengan peserta. Industri menyesuaikan diri dengan bertambahnya konsumen yang menikmati lari melalui sponsor acara olahraga dan pengoperasian booth di lokasi guna memperkuat pengalaman merek. Langkah ini menunjukkan merek makanan memperluas pemasaran yang bertemu langsung dengan konsumen melalui keterkaitan dengan budaya lari. Sumber: mk.co.kr."
       }
     }
   }
