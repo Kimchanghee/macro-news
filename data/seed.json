@@ -1,5 +1,230 @@
 [
   {
+    "id": "96a046df2083",
+    "slug": "양향자-경기도민-1인당-grdp-1억원-시대로-461813",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T11:59:14.450Z",
+    "updatedAt": "2026-05-10T11:59:14.450Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042743",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042743",
+    "titleFingerprint": "440faf8a6240616b387d35fa8fadfa90fd193eba",
+    "dedupKeys": [
+      "96a046df2083a597b21de4d13b0ba45e75e7a71c",
+      "440faf8a6240616b387d35fa8fadfa90fd193eba",
+      "4db3e7da075d93c97891a2bbc724453dcc50cd68"
+    ],
+    "imageUrl": "/images/articles/96a046df2083.jpg",
+    "i18n": {
+      "ko": {
+        "title": "양향자, 경기도민 1인당 GRDP 1억원 목표 제시…첨단산업 성장 강조",
+        "excerpt": "양향자 국민의힘 경기도지사 후보는 10일 첨단산업 발전을 통해 경기도민 1인당 GRDP를 1억원으로 끌어올리겠다는 목표를 밝혔다.",
+        "body": "양향자 국민의힘 경기도지사 후보는 10일 경기도민 1인당 지역내총생산(GRDP)을 1억원 수준으로 끌어올리겠다는 구상을 밝혔다. 양 후보는 비약적인 첨단산업 발전을 목표 달성의 핵심 동력으로 제시했다. GRDP는 특정 지역에서 생산된 부가가치의 총액을 뜻하는 지표로, 1인당 GRDP는 지역 경제 규모와 생산성을 가늠하는 수치로 활용된다. 이번 발언은 경기도 경제 성장 전략에서 첨단산업 육성을 전면에 놓겠다는 메시지로 해석된다. 향후 선거 과정에서는 목표 달성을 위한 세부 산업 정책과 실행 방안이 주요 검증 대상이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Yang Hyang-ja Sets GRDP Goal of 100 Million Won Per Gyeonggi Resident",
+        "excerpt": "People Power Party Gyeonggi governor candidate Yang Hyang-ja said on the 10th she aims to raise GRDP per resident to 100 million won through advanced industry growth.",
+        "body": "Yang Hyang-ja, the People Power Party candidate for Gyeonggi governor, said on the 10th that she would seek to raise gross regional domestic product, or GRDP, per Gyeonggi resident to 100 million won. Yang presented rapid development of advanced industries as the key driver for reaching that goal. GRDP measures the total value added produced within a region, while GRDP per capita is used to gauge the scale and productivity of a local economy. Her remarks signal that fostering advanced industries would stand at the center of her economic growth strategy for Gyeonggi Province. During the election, detailed industrial policies and execution plans for achieving the target are expected to face scrutiny. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "梁香子氏、京畿道民1人当たりGRDP1億ウォン目標を提示",
+        "excerpt": "国民の力の京畿道知事候補、梁香子氏は10日、先端産業の発展を通じて道民1人当たりGRDPを1億ウォンに引き上げる考えを示した。",
+        "body": "国民の力の京畿道知事候補である梁香子氏は10日、京畿道民1人当たりの地域内総生産（GRDP）を1億ウォン水準に引き上げる構想を明らかにした。梁氏は、飛躍的な先端産業の発展を目標達成の核心的な原動力として提示した。GRDPは特定地域で生産された付加価値の総額を示す指標で、1人当たりGRDPは地域経済の規模と生産性を測る数値として使われる。今回の発言は、京畿道の経済成長戦略で先端産業育成を前面に掲げるメッセージと受け止められる。今後の選挙過程では、目標達成に向けた具体的な産業政策と実行策が主な検証対象になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "梁香子提出京畿道居民人均GRDP达1亿韩元目标",
+        "excerpt": "韩国国民力量京畿道知事候选人梁香子10日表示，将通过尖端产业发展，把京畿道居民人均GRDP提升至1亿韩元。",
+        "body": "韩国国民力量京畿道知事候选人梁香子10日表示，她将推动京畿道居民人均地区生产总值（GRDP）提高至1亿韩元水平。梁香子把尖端产业的跨越式发展列为实现这一目标的核心动力。GRDP是指特定地区创造的增加值总额，人均GRDP则常被用来衡量地区经济规模和生产率。此次表态显示，她在京畿道经济增长战略中将把培育尖端产业置于前列。随着选举进程推进，实现该目标所需的具体产业政策和执行方案预计将成为主要检验重点。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "Yang Hyang-ja propone elevar el GRDP per cápita de Gyeonggi a 100 millones de wones",
+        "excerpt": "Yang Hyang-ja, candidata del Partido del Poder Popular a gobernadora de Gyeonggi, dijo el día 10 que busca elevar el GRDP per cápita mediante industrias avanzadas.",
+        "body": "Yang Hyang-ja, candidata del Partido del Poder Popular a gobernadora de Gyeonggi, afirmó el día 10 que buscará elevar el producto regional bruto, o GRDP, por residente de la provincia a 100 millones de wones. Yang presentó el desarrollo acelerado de las industrias avanzadas como el motor central para alcanzar esa meta. El GRDP mide el valor agregado total producido en una región, y el GRDP per cápita se utiliza para evaluar el tamaño y la productividad de una economía local. Sus declaraciones indican que el fomento de industrias avanzadas ocuparía un lugar central en su estrategia de crecimiento económico para Gyeonggi. En la campaña, las políticas industriales concretas y los planes de ejecución para cumplir el objetivo serán objeto de revisión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Yang Hyang-ja quer GRDP per capita de 100 milhões de wons em Gyeonggi",
+        "excerpt": "Yang Hyang-ja, candidata do Partido do Poder Popular ao governo de Gyeonggi, disse no dia 10 que pretende elevar o GRDP per capita com indústrias avançadas.",
+        "body": "Yang Hyang-ja, candidata do Partido do Poder Popular ao governo da província de Gyeonggi, afirmou no dia 10 que pretende elevar o produto regional bruto, ou GRDP, por morador de Gyeonggi para 100 milhões de wons. Yang apontou o desenvolvimento acelerado de indústrias avançadas como o principal motor para alcançar a meta. O GRDP mede o valor agregado total produzido em uma região, enquanto o GRDP per capita é usado para avaliar o tamanho e a produtividade de uma economia local. A declaração indica que a promoção de indústrias avançadas ficaria no centro de sua estratégia de crescimento econômico para Gyeonggi. Durante a eleição, políticas industriais detalhadas e planos de execução para atingir o objetivo devem ser examinados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Yang Hyang-ja nennt Ziel von 100 Millionen Won GRDP je Einwohner in Gyeonggi",
+        "excerpt": "Yang Hyang-ja, Gouverneurskandidatin der People Power Party in Gyeonggi, sagte am 10., sie wolle das GRDP je Einwohner durch Hightech-Industrien erhöhen.",
+        "body": "Yang Hyang-ja, Gouverneurskandidatin der People Power Party für die Provinz Gyeonggi, erklärte am 10., sie wolle das regionale Bruttoinlandsprodukt, GRDP, je Einwohner von Gyeonggi auf 100 Millionen Won anheben. Als zentralen Antrieb für dieses Ziel nannte sie die sprunghafte Entwicklung fortgeschrittener Industrien. Das GRDP misst die gesamte in einer Region geschaffene Wertschöpfung; das GRDP pro Kopf dient als Kennzahl für Größe und Produktivität einer regionalen Wirtschaft. Die Äußerung zeigt, dass die Förderung von Hightech-Industrien im Mittelpunkt ihrer Wachstumsstrategie für Gyeonggi stehen soll. Im Wahlverlauf dürften konkrete Industriepolitik und Umsetzungspläne zur Zielerreichung besonders geprüft werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Yang Hyang-ja vise un GRDP de 100 millions de wons par habitant du Gyeonggi",
+        "excerpt": "Yang Hyang-ja, candidate du Parti du pouvoir au poste de gouverneure du Gyeonggi, a dit le 10 vouloir porter le GRDP par habitant à 100 millions de wons.",
+        "body": "Yang Hyang-ja, candidate du Parti du pouvoir populaire au poste de gouverneure de la province du Gyeonggi, a déclaré le 10 qu’elle chercherait à porter le produit régional brut, ou GRDP, par habitant du Gyeonggi à 100 millions de wons. Elle a présenté le développement rapide des industries avancées comme le principal moteur de cet objectif. Le GRDP mesure la valeur ajoutée totale produite dans une région, tandis que le GRDP par habitant sert à évaluer la taille et la productivité d’une économie locale. Cette déclaration indique que le soutien aux industries avancées serait au centre de sa stratégie de croissance économique pour le Gyeonggi. Durant la campagne, les politiques industrielles détaillées et les plans d’exécution devraient être examinés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "يانغ هيانغ جا تطرح هدف رفع GRDP للفرد في غيونغي إلى 100 مليون وون",
+        "excerpt": "قالت يانغ هيانغ جا، مرشحة حزب قوة الشعب لمنصب حاكم غيونغي، في العاشر إنها تستهدف رفع GRDP للفرد عبر تطوير الصناعات المتقدمة.",
+        "body": "قالت يانغ هيانغ جا، مرشحة حزب قوة الشعب لمنصب حاكم مقاطعة غيونغي، في العاشر إنها ستسعى إلى رفع الناتج المحلي الإقليمي الإجمالي، أو GRDP، لكل مقيم في غيونغي إلى مستوى 100 مليون وون. وقدمت يانغ التطور السريع في الصناعات المتقدمة باعتباره المحرك الأساسي لتحقيق هذا الهدف. ويقيس GRDP إجمالي القيمة المضافة المنتجة داخل منطقة معينة، بينما يستخدم GRDP للفرد كمؤشر على حجم الاقتصاد المحلي وإنتاجيته. وتشير تصريحاتها إلى أن تنمية الصناعات المتقدمة ستكون في صدارة استراتيجية النمو الاقتصادي للمقاطعة. وخلال مسار الانتخابات، من المتوقع أن تخضع السياسات الصناعية التفصيلية وخطط التنفيذ لتحقيق الهدف للتدقيق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "यांग ह्यांग-जा ने ग्योंगगी में प्रति निवासी GRDP 10 करोड़ वोन का लक्ष्य रखा",
+        "excerpt": "पीपल पावर पार्टी की ग्योंगगी गवर्नर उम्मीदवार यांग ह्यांग-जा ने 10 तारीख को उन्नत उद्योगों के विकास से प्रति निवासी GRDP बढ़ाने का लक्ष्य बताया।",
+        "body": "पीपल पावर पार्टी की ग्योंगगी गवर्नर पद की उम्मीदवार यांग ह्यांग-जा ने 10 तारीख को कहा कि वह ग्योंगगी के प्रति निवासी सकल क्षेत्रीय घरेलू उत्पाद, यानी GRDP, को 10 करोड़ वोन के स्तर तक बढ़ाने का लक्ष्य रखेंगी। यांग ने इस लक्ष्य को हासिल करने के लिए उन्नत उद्योगों के तेज विकास को मुख्य प्रेरक शक्ति बताया। GRDP किसी क्षेत्र में उत्पादित कुल मूल्यवर्धन को मापता है, जबकि प्रति व्यक्ति GRDP स्थानीय अर्थव्यवस्था के आकार और उत्पादकता को समझने का सूचक है। उनके बयान से संकेत मिलता है कि ग्योंगगी की आर्थिक वृद्धि रणनीति में उन्नत उद्योगों का प्रोत्साहन प्रमुख स्थान लेगा। चुनावी प्रक्रिया में लक्ष्य हासिल करने की विस्तृत औद्योगिक नीतियों और क्रियान्वयन योजनाओं की जांच होने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Yang Hyang-ja Targetkan GRDP per Warga Gyeonggi Capai 100 Juta Won",
+        "excerpt": "Yang Hyang-ja, calon gubernur Gyeonggi dari People Power Party, pada tanggal 10 menyatakan target menaikkan GRDP per warga lewat industri maju.",
+        "body": "Yang Hyang-ja, calon gubernur Provinsi Gyeonggi dari People Power Party, pada tanggal 10 menyatakan akan berupaya menaikkan produk domestik regional bruto, atau GRDP, per warga Gyeonggi ke tingkat 100 juta won. Yang menyebut perkembangan pesat industri maju sebagai pendorong utama untuk mencapai target tersebut. GRDP mengukur total nilai tambah yang dihasilkan di suatu wilayah, sedangkan GRDP per kapita digunakan untuk menilai skala dan produktivitas ekonomi lokal. Pernyataan ini menunjukkan bahwa pengembangan industri maju akan ditempatkan di pusat strategi pertumbuhan ekonomi Gyeonggi. Dalam proses pemilihan, kebijakan industri terperinci dan rencana pelaksanaan untuk mencapai target itu diperkirakan menjadi fokus verifikasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "07863bde41fe",
+    "slug": "반도체민생은-속도-중요-취임-즉시-tf-만들어-변화-보여줄-것-319585",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T11:58:11.470Z",
+    "updatedAt": "2026-05-10T11:58:11.470Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12042745",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042745",
+    "titleFingerprint": "1dbef6117255d11e616778279014c4e9fc34fcd2",
+    "dedupKeys": [
+      "07863bde41fec5e0fb60b3a97cc03e2a45049a5c",
+      "1dbef6117255d11e616778279014c4e9fc34fcd2",
+      "d96ca31b0fb8065698da707a158b19f0d9c89912"
+    ],
+    "imageUrl": "/images/articles/07863bde41fe.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 인프라·민생 경제 속도전 강조한 추미애, 취임 즉시 TF 예고",
+        "excerpt": "추미애 더불어민주당 경기도지사 후보는 반도체 인프라와 민생 경제 대응의 속도를 강조하며 취임 즉시 민생·교통·산업 점검 TF를 구성하겠다고 밝혔다.",
+        "body": "추미애 더불어민주당 경기도지사 후보는 경기도의 반도체 인프라스트럭처와 민생 경제 현안에 대해 속도감 있는 대응이 필요하다고 밝혔다. 그는 취임 즉시 ‘민생·교통·산업 점검 태스크포스(TF)’를 구성해 도민이 체감할 수 있는 변화를 보여주겠다는 구상을 제시했다. 이번 발언은 반도체 산업 기반 확충과 생활경제 안정, 교통 문제 점검을 함께 다루겠다는 취지로 해석된다. 추 후보는 행정 출범 초기부터 관련 현안을 점검하고 실행 속도를 높이겠다는 메시지를 강조했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Choo Mi-ae Stresses Speed on Semiconductors and Livelihoods, Pledges TF on Day One",
+        "excerpt": "Democratic Party Gyeonggi governor candidate Choo Mi-ae said speed matters for semiconductor infrastructure and the livelihood economy, pledging a task force immediately after taking office.",
+        "body": "Choo Mi-ae, the Democratic Party candidate for governor of Gyeonggi Province, said rapid action is needed on semiconductor infrastructure and livelihood-related economic issues. She said she would form a “livelihood, transportation and industry inspection task force” immediately after taking office to show changes residents can feel. The remarks point to a plan to address semiconductor industry foundations, economic stability for daily life, and transportation checks together. Choo emphasized that her administration would review key issues from the start and accelerate implementation. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "半導体インフラと民生経済で速度重視、秋美愛氏が就任直後のTF設置を予告",
+        "excerpt": "共に民主党の京畿道知事候補、秋美愛氏は半導体インフラと民生経済には速度が重要だとし、就任直後に点検TFを設置すると述べた。",
+        "body": "共に民主党の京畿道知事候補である秋美愛氏は、京畿道の半導体インフラストラクチャーと民生経済の懸案について、迅速な対応が必要だと述べた。秋氏は就任直後に「民生・交通・産業点検タスクフォース（TF）」を構成し、道民が実感できる変化を示す考えを明らかにした。今回の発言は、半導体産業基盤の拡充、生活経済の安定、交通問題の点検をあわせて扱う趣旨と受け止められる。秋氏は行政発足初期から関連懸案を点検し、実行の速度を高めるとのメッセージを強調した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "秋美爱强调半导体基础设施与民生经济速度，上任即组建专项TF",
+        "excerpt": "共同民主党京畿道知事候选人秋美爱表示，半导体基础设施和民生经济重在速度，并称上任后将立即组建民生、交通、产业检查TF。",
+        "body": "共同民主党京畿道知事候选人秋美爱表示，京畿道在半导体基础设施和民生经济相关问题上需要快速应对。她提出，上任后将立即组建“民生、交通、产业检查任务组（TF）”，展现道民能够切身感受到的变化。此番发言意在同时处理半导体产业基础扩充、生活经济稳定以及交通问题检查。秋候选人强调，将从行政启动初期起检查相关悬案，并提高执行速度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Choo Mi-ae promete rapidez en semiconductores y economía diaria con un TF inmediato",
+        "excerpt": "La candidata demócrata a gobernadora de Gyeonggi, Choo Mi-ae, dijo que la velocidad es clave en infraestructura de semiconductores y economía diaria, y prometió crear un TF al asumir.",
+        "body": "Choo Mi-ae, candidata del Partido Democrático a gobernadora de la provincia de Gyeonggi, afirmó que se necesita una respuesta rápida ante los asuntos de infraestructura de semiconductores y economía de subsistencia. Señaló que, inmediatamente después de asumir el cargo, formaría un “grupo de trabajo de revisión de subsistencia, transporte e industria” para mostrar cambios que los residentes puedan percibir. Sus declaraciones apuntan a abordar en conjunto la base de la industria de semiconductores, la estabilidad de la economía cotidiana y la revisión de los problemas de transporte. Choo subrayó que revisaría los asuntos desde el inicio de la administración y aceleraría la ejecución. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Choo Mi-ae defende rapidez em semicondutores e vida cotidiana com TF ao assumir",
+        "excerpt": "A candidata democrata ao governo de Gyeonggi, Choo Mi-ae, afirmou que infraestrutura de semicondutores e economia cotidiana exigem rapidez e prometeu criar um TF ao tomar posse.",
+        "body": "Choo Mi-ae, candidata do Partido Democrático ao governo da província de Gyeonggi, afirmou que é necessária uma resposta rápida às questões de infraestrutura de semicondutores e da economia ligada ao custo de vida. Ela disse que formaria, imediatamente após tomar posse, uma “força-tarefa de verificação de subsistência, transporte e indústria” para mostrar mudanças perceptíveis aos moradores. A declaração indica a intenção de tratar conjuntamente a ampliação da base da indústria de semicondutores, a estabilidade da economia cotidiana e a revisão dos problemas de transporte. Choo enfatizou que verificaria os temas desde o início da administração e aumentaria a velocidade de execução. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Choo Mi-ae betont Tempo bei Halbleitern und Alltagwirtschaft, TF direkt nach Amtsantritt",
+        "excerpt": "Choo Mi-ae, Kandidatin der Demokratischen Partei für das Gouverneursamt in Gyeonggi, betonte Tempo bei Halbleiterinfrastruktur und Lebenshaltung und kündigte eine sofortige TF an.",
+        "body": "Choo Mi-ae, Kandidatin der Demokratischen Partei für das Gouverneursamt der Provinz Gyeonggi, erklärte, bei der Halbleiterinfrastruktur und wirtschaftlichen Fragen des täglichen Lebens sei schnelles Handeln nötig. Sie kündigte an, unmittelbar nach Amtsantritt eine „Taskforce zur Prüfung von Lebensunterhalt, Verkehr und Industrie“ einzurichten, um Veränderungen zu zeigen, die die Bürger spüren können. Die Äußerung zielt darauf, den Ausbau der Grundlage der Halbleiterindustrie, die Stabilisierung der Alltagswirtschaft und die Prüfung von Verkehrsfragen gemeinsam anzugehen. Choo betonte, sie werde relevante Themen von Beginn der Verwaltung an prüfen und die Umsetzung beschleunigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Choo Mi-ae mise sur la rapidité pour les semi-conducteurs et le quotidien, TF dès l’entrée en fonction",
+        "excerpt": "Choo Mi-ae, candidate démocrate au poste de gouverneure de Gyeonggi, a souligné l’urgence pour les infrastructures de semi-conducteurs et l’économie du quotidien, promettant une TF immédiate.",
+        "body": "Choo Mi-ae, candidate du Parti démocrate au poste de gouverneure de la province de Gyeonggi, a déclaré qu’une réponse rapide était nécessaire pour les infrastructures de semi-conducteurs et les questions économiques liées au quotidien. Elle a indiqué qu’elle formerait, dès son entrée en fonction, une « task force de contrôle du quotidien, des transports et de l’industrie » afin de montrer des changements perceptibles par les habitants. Cette déclaration traduit l’intention de traiter ensemble le renforcement de la base industrielle des semi-conducteurs, la stabilité de l’économie quotidienne et l’examen des problèmes de transport. Choo a souligné qu’elle vérifierait ces dossiers dès le début de l’administration et accélérerait l’exécution. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تشو مي-آي تشدد على سرعة أشباه الموصلات ومعيشة السكان وتتعهد بفريق عمل فور توليها",
+        "excerpt": "قالت تشو مي-آي مرشحة الحزب الديمقراطي لمنصب حاكم غيونغي إن السرعة مهمة في بنية أشباه الموصلات واقتصاد المعيشة، متعهدة بتشكيل فريق عمل فور توليها المنصب.",
+        "body": "قالت تشو مي-آي، مرشحة الحزب الديمقراطي لمنصب حاكم مقاطعة غيونغي، إن قضايا البنية التحتية لأشباه الموصلات واقتصاد المعيشة في غيونغي تحتاج إلى استجابة سريعة. وذكرت أنها ستشكل فور توليها المنصب «فريق عمل لفحص المعيشة والنقل والصناعة» لإظهار تغييرات يمكن للسكان الشعور بها. وتشير التصريحات إلى توجه لمعالجة توسيع قاعدة صناعة أشباه الموصلات، واستقرار اقتصاد الحياة اليومية، وفحص مشكلات النقل معا. وشددت تشو على أنها ستراجع القضايا ذات الصلة منذ بداية الإدارة وتزيد سرعة التنفيذ. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर ढांचे और जनजीवन अर्थव्यवस्था पर तेजी, चू मी-ए ने पद संभालते ही TF का वादा किया",
+        "excerpt": "डेमोक्रेटिक पार्टी की ग्योंगी गवर्नर उम्मीदवार चू मी-ए ने कहा कि सेमीकंडक्टर इंफ्रास्ट्रक्चर और जनजीवन अर्थव्यवस्था में गति अहम है और पद संभालते ही TF बनाएंगी।",
+        "body": "डेमोक्रेटिक पार्टी की ग्योंगी प्रांत गवर्नर उम्मीदवार चू मी-ए ने कहा कि ग्योंगी के सेमीकंडक्टर इंफ्रास्ट्रक्चर और जनजीवन से जुड़े आर्थिक मुद्दों पर तेज प्रतिक्रिया की जरूरत है। उन्होंने कहा कि पद संभालते ही वह “जनजीवन, परिवहन और उद्योग जांच टास्क फोर्स (TF)” बनाएंगी, ताकि निवासियों को महसूस होने वाला बदलाव दिखाया जा सके। यह बयान सेमीकंडक्टर उद्योग के आधार के विस्तार, दैनिक अर्थव्यवस्था की स्थिरता और परिवहन समस्याओं की समीक्षा को साथ लेकर चलने की दिशा दिखाता है। चू ने जोर दिया कि प्रशासन की शुरुआत से ही संबंधित मुद्दों की जांच कर क्रियान्वयन की गति बढ़ाई जाएगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Choo Mi-ae Tekankan Kecepatan Semikonduktor dan Ekonomi Warga, Janji TF Saat Menjabat",
+        "excerpt": "Calon gubernur Gyeonggi dari Partai Demokrat, Choo Mi-ae, menilai infrastruktur semikonduktor dan ekonomi warga membutuhkan kecepatan, lalu berjanji membentuk TF segera setelah menjabat.",
+        "body": "Choo Mi-ae, calon gubernur Provinsi Gyeonggi dari Partai Demokrat, mengatakan bahwa isu infrastruktur semikonduktor dan ekonomi kehidupan warga membutuhkan respons cepat. Ia menyatakan akan segera membentuk “satuan tugas pemeriksaan kehidupan warga, transportasi, dan industri” setelah menjabat untuk menunjukkan perubahan yang dapat dirasakan penduduk. Pernyataan ini mengarah pada rencana menangani perluasan basis industri semikonduktor, stabilitas ekonomi sehari-hari, dan pemeriksaan masalah transportasi secara bersamaan. Choo menegaskan akan meninjau isu terkait sejak awal pemerintahan dan mempercepat pelaksanaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9169a95f01c4",
+    "slug": "전한길-장동혁-내가-당대표-만들어줬는데나-수갑-찰-때-뭐-했나-236869",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T11:57:12.943Z",
+    "updatedAt": "2026-05-10T11:57:12.943Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12042814",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042814",
+    "titleFingerprint": "e74c5af8f52c2e442828426857ffee1e8b960476",
+    "dedupKeys": [
+      "9169a95f01c43880e73060d0c0d5f5062bf7794f",
+      "e74c5af8f52c2e442828426857ffee1e8b960476",
+      "0115901925224880a2af83b047eee53e17c5b327"
+    ],
+    "imageUrl": "/images/articles/9169a95f01c4.png",
+    "i18n": {
+      "ko": {
+        "title": "전한길, 장동혁 국민의힘 대표에 공개 질의…“윤어게인 믿고 밀었는데 뭐 했나”",
+        "excerpt": "한국사 강사 출신 유튜버 전한길씨가 장동혁 국민의힘 대표를 향해 당대표 선출 지원과 ‘윤어게인’ 발언을 거론하며 공개 질의에 나섰다.",
+        "body": "한국사 강사 출신 유튜버 전한길씨(본명 전유관)가 국민의힘 장동혁 대표를 향해 공개 질의에 나섰다. 전씨는 장 대표가 “‘윤어게인’하겠다고 해서 당대표 만들어줬는데, 내가 수갑 찰 때 뭘 했느냐”고 물었다. 이번 발언은 장 대표의 당대표 선출 과정과 전씨가 언급한 ‘윤어게인’ 입장을 함께 겨냥한 것으로 전해졌다. 원문에 따르면 전씨는 자신이 장 대표를 당대표로 만드는 데 역할을 했다는 취지로 말하며, 이후 상황에서 장 대표가 어떤 대응을 했는지 문제를 제기했다. 공개 질의 형식으로 나온 발언인 만큼 국민의힘 내부와 보수 성향 지지층 사이에서 장 대표의 답변 여부가 주목될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Jeon Han-gil Questions People Power Party Leader Jang Dong-hyeok Over ‘Yoon Again’ Support",
+        "excerpt": "Former Korean history instructor and YouTuber Jeon Han-gil publicly questioned PPP leader Jang Dong-hyeok, citing his support in the leadership race and the phrase “Yoon Again.”",
+        "body": "Jeon Han-gil, a YouTuber and former Korean history instructor whose legal name is Jeon Yu-gwan, publicly questioned People Power Party leader Jang Dong-hyeok. Jeon asked, “You said you would do ‘Yoon Again,’ so I helped make you party leader. What did you do when I was put in handcuffs?” The remarks were aimed at both Jang’s party leadership campaign and the “Yoon Again” position mentioned by Jeon. According to the original report, Jeon spoke as if he had played a role in helping Jang become party leader, while raising questions about how Jang responded afterward. Because the comments were framed as a public question, attention may turn to whether Jang responds within the party and among conservative supporters. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "チョン・ハンギル氏、国民の力の張東赫代表に公開質問…「代表にしたのに何をしたのか」",
+        "excerpt": "韓国史講師出身のユーチューバー、チョン・ハンギル氏が国民の力の張東赫代表に対し、党代表選支援と「ユン・アゲイン」発言を挙げて公開質問した。",
+        "body": "韓国史講師出身のユーチューバー、チョン・ハンギル氏（本名チョン・ユグァン）が、国民の力の張東赫代表に向けて公開質問を行った。チョン氏は、張代表が「『ユン・アゲイン』をやると言ったから党代表にしてやったのに、私が手錠をかけられた時に何をしたのか」と問いかけた。今回の発言は、張代表の党代表選出過程と、チョン氏が言及した「ユン・アゲイン」の立場を同時に念頭に置いたものと伝えられている。原文によると、チョン氏は自分が張代表を党代表にするうえで役割を果たしたという趣旨で述べ、その後の状況で張代表がどう対応したのかを問題提起した。公開質問の形で出た発言だけに、党内や保守系支持層の間で張代表の回答の有無が注目される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "全韩吉公开质问国民力量党首张东赫：称曾助其当选却质疑其作为",
+        "excerpt": "韩国史讲师出身的YouTuber全韩吉公开质问国民力量党首张东赫，提及党首选举支持以及“Yoon Again”相关表态。",
+        "body": "韩国史讲师出身的YouTuber全韩吉（本名全有官）向国民力量党首张东赫提出公开质问。全氏表示，张东赫曾称要进行“Yoon Again”，因此自己帮助其成为党首，并追问“我戴上手铐的时候，你做了什么”。这番话被认为同时指向张东赫的党首选举过程，以及全氏所提到的“Yoon Again”立场。原文称，全氏以自己曾在张东赫成为党首过程中发挥作用的语气发言，并对之后相关情形中张东赫作出何种回应提出问题。由于该言论以公开质问形式出现，国民力量党内以及保守倾向支持层是否会关注张东赫的回应，预计将成为焦点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jeon Han-gil cuestiona a Jang Dong-hyeok: “Lo hice líder del partido, ¿qué hizo usted?”",
+        "excerpt": "El exprofesor de historia coreana y YouTuber Jeon Han-gil cuestionó públicamente al líder del PPP Jang Dong-hyeok, citando su apoyo electoral y la frase “Yoon Again.”",
+        "body": "Jeon Han-gil, YouTuber y exprofesor de historia coreana cuyo nombre real es Jeon Yu-gwan, lanzó una pregunta pública al líder del Partido del Poder Popular, Jang Dong-hyeok. Jeon dijo: “Usted afirmó que haría ‘Yoon Again’, así que lo ayudé a convertirse en líder del partido. ¿Qué hizo cuando me pusieron esposas?” La declaración apunta tanto al proceso por el que Jang llegó al liderazgo del partido como a la postura de “Yoon Again” mencionada por Jeon. Según el texto original, Jeon habló en el sentido de que había desempeñado un papel en convertir a Jang en líder, y cuestionó cómo respondió Jang después. Al tratarse de una pregunta pública, la atención podría centrarse en si Jang responde dentro del partido y entre los simpatizantes conservadores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jeon Han-gil questiona Jang Dong-hyeok: “Ajudei você a virar líder, o que fez por mim?”",
+        "excerpt": "O ex-professor de história coreana e YouTuber Jeon Han-gil questionou publicamente Jang Dong-hyeok, citando apoio à liderança do partido e a frase “Yoon Again.”",
+        "body": "Jeon Han-gil, YouTuber e ex-professor de história coreana cujo nome legal é Jeon Yu-gwan, fez uma pergunta pública ao líder do Partido do Poder Popular, Jang Dong-hyeok. Jeon afirmou: “Você disse que faria ‘Yoon Again’, então ajudei você a se tornar líder do partido. O que você fez quando me colocaram algemas?” A fala mira tanto o processo que levou Jang à liderança do partido quanto a posição “Yoon Again” mencionada por Jeon. Segundo o texto original, Jeon falou no sentido de que teve papel em ajudar Jang a se tornar líder e questionou como Jang respondeu depois. Como a declaração veio em forma de pergunta pública, a atenção pode se voltar para uma eventual resposta de Jang dentro do partido e entre apoiadores conservadores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jeon Han-gil stellt Parteichef Jang Dong-hyeok öffentlich zur Rede: „Was haben Sie getan?“",
+        "excerpt": "Der frühere Koreanisch-Geschichtslehrer und YouTuber Jeon Han-gil stellte PPP-Chef Jang Dong-hyeok öffentlich Fragen zu seiner Unterstützung und zu „Yoon Again“.",
+        "body": "Jeon Han-gil, ein YouTuber und ehemaliger Lehrer für koreanische Geschichte mit dem bürgerlichen Namen Jeon Yu-gwan, hat den Vorsitzenden der People Power Party, Jang Dong-hyeok, öffentlich befragt. Jeon sagte: „Sie sagten, Sie würden ‘Yoon Again’ machen, also half ich Ihnen, Parteichef zu werden. Was haben Sie getan, als mir Handschellen angelegt wurden?“ Die Äußerung zielt zugleich auf Jangs Weg zum Parteivorsitz und auf die von Jeon erwähnte Haltung zu „Yoon Again“. Dem Originalbericht zufolge sprach Jeon so, als habe er eine Rolle dabei gespielt, Jang zum Parteichef zu machen, und fragte, wie Jang danach reagiert habe. Da die Bemerkung als öffentliche Frage formuliert wurde, dürfte sich die Aufmerksamkeit darauf richten, ob Jang innerhalb der Partei und unter konservativen Unterstützern antwortet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Jeon Han-gil interpelle Jang Dong-hyeok : « Je vous ai aidé à devenir chef, qu’avez-vous fait ? »",
+        "excerpt": "L’ancien professeur d’histoire coréenne et YouTubeur Jeon Han-gil a publiquement questionné Jang Dong-hyeok, évoquant son soutien à la direction du parti et “Yoon Again”.",
+        "body": "Jeon Han-gil, YouTubeur et ancien professeur d’histoire coréenne dont le vrai nom est Jeon Yu-gwan, a adressé une question publique au chef du Parti du pouvoir au peuple, Jang Dong-hyeok. Jeon a déclaré : « Vous avez dit que vous feriez ‘Yoon Again’, alors je vous ai aidé à devenir chef du parti. Qu’avez-vous fait quand on m’a passé les menottes ? » Ces propos visent à la fois le processus qui a mené Jang à la direction du parti et la position “Yoon Again” mentionnée par Jeon. Selon le texte original, Jeon a parlé comme s’il avait joué un rôle dans l’accession de Jang à la tête du parti, tout en mettant en cause la réaction de Jang par la suite. Comme il s’agit d’une question publique, l’attention pourrait se porter sur une éventuelle réponse de Jang au sein du parti et parmi les soutiens conservateurs. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "جون هان-غيل يوجه سؤالا علنيا إلى جانغ دونغ-هيوك: دعمته للزعامة فماذا فعل؟",
+        "excerpt": "وجه اليوتيوبر والمدرس السابق للتاريخ الكوري جون هان-غيل سؤالا علنيا إلى زعيم حزب قوة الشعب جانغ دونغ-هيوك، مشيرا إلى دعمه وعبارة “Yoon Again”.",
+        "body": "وجه جون هان-غيل، وهو يوتيوبر ومدرس سابق للتاريخ الكوري واسمه الحقيقي جون يو-غوان، سؤالا علنيا إلى زعيم حزب قوة الشعب جانغ دونغ-هيوك. وقال جون إن جانغ قال إنه سيقوم بـ“Yoon Again”، ولذلك ساعده على أن يصبح زعيما للحزب، ثم سأله: “ماذا فعلت عندما وُضعت الأصفاد في يدي؟” وجاءت هذه التصريحات موجهة في الوقت نفسه إلى مسار انتخاب جانغ زعيما للحزب وإلى موقف “Yoon Again” الذي ذكره جون. ووفقا للنص الأصلي، تحدث جون بمعنى أنه أدى دورا في جعل جانغ زعيما للحزب، وطرح سؤالا حول كيفية استجابة جانغ بعد ذلك. وبما أن التصريح جاء في صيغة سؤال علني، فمن المتوقع أن يتجه الاهتمام إلى ما إذا كان جانغ سيرد داخل الحزب وبين المؤيدين المحافظين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "जॉन हान-गिल ने जांग डोंग-ह्योक से पूछा: “नेता बनवाया, फिर आपने क्या किया?”",
+        "excerpt": "कोरियाई इतिहास के पूर्व शिक्षक और YouTuber जॉन हान-गिल ने पीपीपी नेता जांग डोंग-ह्योक से सार्वजनिक सवाल किया, नेतृत्व समर्थन और “Yoon Again” का हवाला दिया।",
+        "body": "कोरियाई इतिहास के पूर्व शिक्षक और YouTuber जॉन हान-गिल, जिनका वास्तविक नाम जॉन यू-ग्वान है, ने पीपुल पावर पार्टी के नेता जांग डोंग-ह्योक से सार्वजनिक सवाल किया। जॉन ने कहा कि जांग ने “‘Yoon Again’ करने” की बात कही थी, इसलिए उन्होंने उन्हें पार्टी नेता बनने में मदद की, और पूछा, “जब मुझे हथकड़ी लगाई जा रही थी, तब आपने क्या किया?” यह बयान जांग के पार्टी नेता चुने जाने की प्रक्रिया और जॉन द्वारा बताए गए “Yoon Again” रुख, दोनों को संबोधित करता है। मूल रिपोर्ट के अनुसार, जॉन ने इस आशय से बात की कि जांग को पार्टी नेता बनाने में उनकी भूमिका थी, और बाद की स्थिति में जांग की प्रतिक्रिया पर सवाल उठाया। चूंकि यह टिप्पणी सार्वजनिक प्रश्न के रूप में आई है, इसलिए पार्टी के भीतर और रूढ़िवादी समर्थकों के बीच जांग के जवाब पर ध्यान जा सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jeon Han-gil Pertanyakan Jang Dong-hyeok: “Saya Bantu Jadi Ketua, Apa yang Anda Lakukan?”",
+        "excerpt": "Mantan pengajar sejarah Korea sekaligus YouTuber Jeon Han-gil mempertanyakan Ketua PPP Jang Dong-hyeok secara terbuka, menyinggung dukungan dan frasa “Yoon Again.”",
+        "body": "Jeon Han-gil, YouTuber dan mantan pengajar sejarah Korea dengan nama asli Jeon Yu-gwan, mengajukan pertanyaan terbuka kepada Ketua Partai Kekuatan Rakyat, Jang Dong-hyeok. Jeon mengatakan Jang pernah menyatakan akan melakukan “Yoon Again”, sehingga ia membantu Jang menjadi ketua partai, lalu bertanya, “Apa yang Anda lakukan saat saya diborgol?” Pernyataan itu ditujukan pada proses Jang menjadi ketua partai sekaligus posisi “Yoon Again” yang disebut Jeon. Menurut teks asli, Jeon berbicara dengan maksud bahwa dirinya berperan dalam menjadikan Jang sebagai ketua partai, dan mempertanyakan bagaimana Jang merespons setelah itu. Karena pernyataan tersebut muncul sebagai pertanyaan terbuka, perhatian dapat tertuju pada apakah Jang akan menjawab di internal partai dan di kalangan pendukung konservatif. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "87f762541398",
     "slug": "단독-미분양됐다고-세금-수억-내라니서민주택-빌라-공급-감소-우려-569626",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Label Korea Jadi Sinyal Premium, Ibu Vietnam Mulai Membeli",
         "excerpt": "Hankyung melaporkan bahwa para ibu di Vietnam membuka dompet karena label berbahasa Korea dipandang sebagai tanda nilai premium.",
         "body": "Menurut laporan Hankyung, konsumen ibu di Vietnam membeli produk yang mencantumkan label berbahasa Korea karena dianggap sebagai tanda kualitas premium. Judul tersebut menunjukkan bahwa Hangul berperan sebagai unsur yang memberi kesan tepercaya dan citra kelas atas bagi konsumen lokal. Informasi asli yang tersedia tidak menyebut kategori produk, angka penjualan, atau tanggal laporan secara rinci. Berita ini mengisyaratkan bahwa tulisan Korea dan citra merek Korea dapat memengaruhi keputusan pembelian di pasar konsumen Vietnam. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "fa215f28b4c6",
-    "slug": "103억원어치-코인-팔아-집-산-30대연령대-중-최대-828473",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T22:26:03.818Z",
-    "updatedAt": "2026-05-09T22:26:03.818Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509047600003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509047600003",
-    "titleFingerprint": "25dc6f1fe5bf68eee46a8413f485724798b5c510",
-    "dedupKeys": [
-      "fa215f28b4c627078e7a726aedd8a09dd3ca8541",
-      "25dc6f1fe5bf68eee46a8413f485724798b5c510",
-      "b0a71663e14d7efa84586d97cc5add9f9c45bdc2"
-    ],
-    "imageUrl": "/images/articles/fa215f28b4c6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "30대, 주택 구입용 코인 매각대금 최대…103억원어치 팔아 집 샀다",
-        "excerpt": "연합뉴스에 따르면 주택 구입에 활용된 가상화폐 매각대금 규모가 연령대별로 30대에서 가장 컸으며, 해당 금액은 103억원어치로 파악됐다.",
-        "body": "주택 구입에 활용된 가상화폐, 이른바 코인 매각대금 규모가 연령대별로 30대에서 가장 큰 것으로 나타났다. 연합뉴스가 전한 내용에 따르면 30대는 집을 사는 과정에서 103억원어치의 코인을 매각한 것으로 파악됐다. 이는 주택 구입 자금으로 활용된 코인 매각대금을 연령대별로 살펴본 결과에서 나온 수치다. 가상화폐가 자산 형성과 주택 매입 자금 조달 과정에 일부 활용되고 있음을 보여주는 사례로, 연령대별 자금 흐름을 확인할 수 있는 지표로 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "People in Their 30s Sold the Most Crypto for Home Purchases, Worth 10.3 Billion Won",
-        "excerpt": "According to Yonhap News Agency, people in their 30s recorded the largest amount of cryptocurrency sale proceeds used for home purchases, totaling 10.3 billion won.",
-        "body": "The amount of cryptocurrency, or coin, sale proceeds used to buy homes was the largest among people in their 30s by age group. According to Yonhap News Agency, people in their 30s sold crypto worth 10.3 billion won in the process of purchasing homes. The figure comes from data that reviewed crypto sale proceeds used as housing purchase funds by age group. It shows that virtual assets are being used in part for asset formation and home financing, and it is drawing attention as an indicator of fund flows by age group. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "30代、住宅購入向け暗号資産売却額が最大…103億ウォン相当を売却",
-        "excerpt": "聯合ニュースによると、住宅購入に使われた暗号資産の売却代金は年代別で30代が最も大きく、その規模は103億ウォン相当だった。",
-        "body": "住宅購入に活用された暗号資産、いわゆるコインの売却代金の規模は、年代別で30代が最も大きいことが分かった。聯合ニュースによると、30代は住宅を購入する過程で103億ウォン相当のコインを売却したと把握された。これは住宅購入資金として使われたコイン売却代金を年代別に調べた結果から出た数値だ。暗号資産が資産形成や住宅購入資金の調達過程で一部活用されていることを示す事例であり、年代別の資金の流れを確認できる指標として注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "30多岁人群购房用加密货币变现额最高，卖出价值103亿韩元",
-        "excerpt": "据韩联社报道，用于购房的加密货币出售所得按年龄段统计，30多岁人群规模最大，金额达103亿韩元。",
-        "body": "用于购买住房的加密货币，即所谓“虚拟币”出售所得规模，按年龄段来看以30多岁人群最大。据韩联社报道，30多岁人群在购房过程中出售了价值103亿韩元的加密货币。该数字来自对作为购房资金使用的加密货币出售所得按年龄段进行统计的结果。这一情况显示，虚拟资产在资产形成和住房购买资金筹措过程中被部分使用，也因此成为观察不同年龄段资金流向的一项指标。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Treintañeros lideran ventas de cripto para comprar vivienda: 10.300 millones de wones",
-        "excerpt": "Según Yonhap, las personas de 30 a 39 años registraron el mayor monto de venta de criptomonedas usado para comprar vivienda, con 10.300 millones de wones.",
-        "body": "El monto de los ingresos por venta de criptomonedas utilizados para comprar viviendas fue el mayor entre las personas de 30 a 39 años, según el desglose por edad. De acuerdo con Yonhap News Agency, este grupo vendió criptoactivos por valor de 10.300 millones de wones durante el proceso de compra de vivienda. La cifra procede de una revisión de los fondos obtenidos por venta de criptomonedas y usados como dinero para adquirir casas por grupo etario. El caso muestra que los activos virtuales se utilizan en parte en la formación de patrimonio y la financiación de viviendas, y sirve como indicador de los flujos de fondos por edad. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Pessoas na faixa dos 30 lideram venda de cripto para comprar casa: 10,3 bi de wones",
-        "excerpt": "Segundo a Yonhap, pessoas na faixa dos 30 anos registraram o maior valor em vendas de criptomoedas usado na compra de imóveis, somando 10,3 bilhões de wones.",
-        "body": "O valor obtido com a venda de criptomoedas usado para comprar imóveis foi o maior entre pessoas na faixa dos 30 anos, na comparação por idade. Segundo a Yonhap News Agency, esse grupo vendeu criptoativos no valor de 10,3 bilhões de wones durante o processo de compra de casas. O número vem de dados que analisaram, por faixa etária, os recursos de vendas de criptomoedas usados como dinheiro para aquisição de moradia. O caso mostra que ativos virtuais estão sendo usados parcialmente na formação de patrimônio e no financiamento habitacional, servindo como indicador dos fluxos de recursos por idade. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Dreißiger verkauften am meisten Krypto für Hauskäufe: 10,3 Mrd. Won",
-        "excerpt": "Laut Yonhap war der Betrag aus Kryptowährungsverkäufen für Wohnungskäufe bei Menschen in den Dreißigern am größten und erreichte 10,3 Milliarden Won.",
-        "body": "Der Umfang der Erlöse aus dem Verkauf von Kryptowährungen, die für den Kauf von Wohnraum genutzt wurden, war nach Altersgruppen bei Menschen in den Dreißigern am größten. Laut Yonhap News Agency verkaufte diese Gruppe im Zuge von Hauskäufen Kryptowährungen im Wert von 10,3 Milliarden Won. Die Zahl stammt aus einer Auswertung der Krypto-Verkaufserlöse, die nach Altersgruppen als Mittel für Wohnungskäufe verwendet wurden. Der Fall zeigt, dass virtuelle Vermögenswerte teilweise bei Vermögensbildung und Wohnungsfinanzierung eingesetzt werden, und gilt als Indikator für altersbezogene Geldflüsse. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Les trentenaires en tête des ventes de crypto pour acheter un logement: 10,3 mds de wons",
-        "excerpt": "Selon Yonhap, les trentenaires ont enregistré le plus gros montant de ventes de cryptomonnaies utilisées pour acheter un logement, avec 10,3 milliards de wons.",
-        "body": "Le montant des produits de vente de cryptomonnaies utilisés pour acheter un logement est le plus élevé chez les personnes dans la trentaine, selon la répartition par âge. D’après Yonhap News Agency, ce groupe a vendu des cryptoactifs d’une valeur de 10,3 milliards de wons lors de l’achat de logements. Ce chiffre provient de données examinant par tranche d’âge les ventes de cryptomonnaies utilisées comme fonds d’acquisition immobilière. Il montre que les actifs virtuels sont en partie utilisés dans la constitution de patrimoine et le financement du logement, et attire l’attention comme indicateur des flux de fonds par âge. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "الأشخاص في الثلاثينيات يتصدرون بيع العملات المشفرة لشراء المنازل بقيمة 10.3 مليار وون",
-        "excerpt": "وفق وكالة يونهاب، سجل الأشخاص في الثلاثينيات أكبر حجم من عائدات بيع العملات المشفرة المستخدمة في شراء المنازل، بإجمالي 10.3 مليار وون.",
-        "body": "ظهر أن حجم عائدات بيع العملات المشفرة، أو ما يعرف بالعملات الرقمية، المستخدمة في شراء المنازل كان الأكبر بين الأشخاص في الثلاثينيات عند التقسيم حسب الفئة العمرية. وبحسب وكالة يونهاب للأنباء، باع هؤلاء عملات مشفرة بقيمة 10.3 مليار وون أثناء عملية شراء منازل. ويأتي هذا الرقم من بيانات راجعت عائدات بيع العملات المشفرة المستخدمة كأموال لشراء المساكن حسب الفئة العمرية. وتظهر الحالة أن الأصول الافتراضية تُستخدم جزئيا في تكوين الثروة وتمويل شراء المنازل، كما تلفت الانتباه كمؤشر على تدفقات الأموال حسب العمر. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "घर खरीदने के लिए क्रिप्टो बेचने में 30 की उम्र वाले सबसे आगे, 10.3 अरब वॉन की बिक्री",
-        "excerpt": "योनहाप के अनुसार, घर खरीदने में इस्तेमाल की गई क्रिप्टोकरेंसी बिक्री राशि आयु समूहों में 30 की उम्र वाले लोगों में सबसे अधिक रही और कुल 10.3 अरब वॉन थी।",
-        "body": "घर खरीदने के लिए इस्तेमाल की गई क्रिप्टोकरेंसी, यानी कॉइन, की बिक्री से मिली राशि आयु समूहों के आधार पर 30 की उम्र वाले लोगों में सबसे अधिक रही। योनहाप न्यूज एजेंसी के अनुसार, इस समूह ने घर खरीदने की प्रक्रिया में 10.3 अरब वॉन मूल्य की क्रिप्टो बेची। यह आंकड़ा उन क्रिप्टो बिक्री आय की आयु समूहवार समीक्षा से आया है जिन्हें आवास खरीदने की रकम के रूप में इस्तेमाल किया गया। यह मामला दिखाता है कि वर्चुअल एसेट्स का उपयोग संपत्ति निर्माण और घर खरीदने के वित्तपोषण में आंशिक रूप से हो रहा है, और आयु के अनुसार धन प्रवाह का संकेतक माना जा रहा है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Usia 30-an Terbesar Jual Kripto untuk Beli Rumah, Nilainya 10,3 Miliar Won",
-        "excerpt": "Menurut Yonhap, dana hasil penjualan kripto yang digunakan untuk membeli rumah paling besar tercatat pada kelompok usia 30-an, dengan nilai 10,3 miliar won.",
-        "body": "Jumlah dana hasil penjualan mata uang kripto, atau koin, yang digunakan untuk membeli rumah tercatat paling besar pada kelompok usia 30-an. Menurut Yonhap News Agency, kelompok ini menjual kripto senilai 10,3 miliar won dalam proses pembelian rumah. Angka tersebut berasal dari data yang meninjau hasil penjualan kripto yang digunakan sebagai dana pembelian hunian berdasarkan kelompok usia. Kasus ini menunjukkan bahwa aset virtual digunakan sebagian dalam pembentukan aset dan pembiayaan pembelian rumah, serta menjadi indikator arus dana menurut kelompok umur. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c3fc16570bfa",
-    "slug": "ict-中企-985-2024년-채용-안해7년-내-기업-6만-손익분기-900965",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T22:25:09.798Z",
-    "updatedAt": "2026-05-09T22:25:09.798Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508136100030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508136100030",
-    "titleFingerprint": "e002586e43557ca00f27d415dad2fce23916e200",
-    "dedupKeys": [
-      "c3fc16570bfa78ca66813a4709d650eb6d6ade5f",
-      "e002586e43557ca00f27d415dad2fce23916e200",
-      "f0fdbcda69b3bbb9d24fa7ab8b5e6c67f51f49bd"
-    ],
-    "imageUrl": "/images/articles/c3fc16570bfa.jpg",
-    "i18n": {
-      "ko": {
-        "title": "ICT 중소기업 채용 한파, 2024년 98.5% 신규 채용 없었다",
-        "excerpt": "국내 ICT 분야 중소기업을 대상으로 한 조사에서 2024년 신규 채용을 하지 않은 기업이 98.5%에 달했고, 7년 내 손익분기 도달 기업은 6%에 그쳤다.",
-        "body": "국내 정보통신기술(ICT) 분야 중소기업 대부분이 2024년에 신규 채용을 하지 않았다는 조사 결과가 나왔다. 조사에 따르면 ICT 중소기업의 98.5%가 해당 기간 신규 인력을 뽑지 않은 것으로 나타났다. 기업 성장의 핵심 지표인 손익분기 도달도 제한적이었다. 7년 내 손익분기에 도달한 기업은 6%에 그친 것으로 제시됐다. 이번 수치는 ICT 중소기업의 고용 여력과 수익성 확보가 모두 어려운 상황임을 보여준다. 향후 업계의 채용 회복과 재무 안정성 개선 여부가 주요 관건으로 남는다. 출처: yna.co.kr."
-      },
-      "en": {
-        "title": "ICT SMEs Face Hiring Freeze as 98.5% Made No New Hires in 2024",
-        "excerpt": "A survey of South Korean ICT small and midsize firms found that 98.5% made no new hires in 2024, while only 6% reached breakeven within seven years.",
-        "body": "Nearly all small and midsize enterprises in South Korea's information and communications technology sector made no new hires in 2024, according to a survey. The findings showed that 98.5% of ICT SMEs did not recruit new staff during the year. Profitability also appeared limited. Only 6% of companies were reported to have reached breakeven within seven years. The figures point to pressure on both hiring capacity and the ability to secure stable earnings among ICT SMEs. Whether employment recovers and financial conditions improve remains a key issue for the sector. Source: yna.co.kr."
-      },
-      "ja": {
-        "title": "ICT中小企業に採用寒波、2024年は98.5%が新規採用なし",
-        "excerpt": "韓国のICT分野の中小企業を対象にした調査で、2024年に新規採用を行わなかった企業は98.5%に達し、7年以内に損益分岐点へ到達した企業は6%にとどまった。",
-        "body": "韓国の情報通信技術（ICT）分野の中小企業のほとんどが、2024年に新規採用を行わなかったとの調査結果が示された。調査によると、ICT中小企業の98.5%が同期間に新たな人材を採用しなかった。企業成長の重要指標である損益分岐点への到達も限定的だった。7年以内に損益分岐点に達した企業は6%にとどまった。今回の数値は、ICT中小企業が雇用余力と収益性の確保の両面で厳しい状況にあることを示している。今後、採用の回復と財務安定性の改善が焦点となる。出典: yna.co.kr."
-      },
-      "zh": {
-        "title": "ICT中小企业招聘遇冷，2024年98.5%未新增用工",
-        "excerpt": "针对韩国ICT领域中小企业的调查显示，2024年未进行新招聘的企业占98.5%，而7年内达到盈亏平衡的企业仅为6%。",
-        "body": "一项调查显示，韩国信息通信技术（ICT）领域的中小企业几乎全部在2024年没有进行新招聘。调查结果显示，98.5%的ICT中小企业在该年度未招聘新员工。盈利能力方面同样受限。数据显示，7年内达到盈亏平衡的企业仅占6%。这些数字表明，ICT中小企业在就业吸纳能力和稳定盈利能力方面均面临压力。未来该行业招聘是否恢复、财务稳定性能否改善，将成为重要关注点。来源: yna.co.kr."
-      },
-      "es": {
-        "title": "Pymes TIC sin contratación: el 98,5% no incorporó personal en 2024",
-        "excerpt": "Una encuesta a pymes surcoreanas del sector TIC mostró que el 98,5% no realizó nuevas contrataciones en 2024 y que solo el 6% alcanzó el punto de equilibrio en siete años.",
-        "body": "Casi todas las pequeñas y medianas empresas surcoreanas del sector de tecnologías de la información y la comunicación no realizaron nuevas contrataciones en 2024, según una encuesta. Los resultados indican que el 98,5% de las pymes TIC no incorporó nuevo personal durante ese año. La rentabilidad también fue limitada. Solo el 6% de las empresas habría alcanzado el punto de equilibrio en un plazo de siete años. Las cifras muestran dificultades tanto en la capacidad de contratación como en la obtención de ingresos estables dentro del sector. La recuperación del empleo y la mejora financiera seguirán siendo temas clave. Fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "PMEs de TIC freiam contratações: 98,5% não admitiram em 2024",
-        "excerpt": "Uma pesquisa com pequenas e médias empresas sul-coreanas de TIC mostrou que 98,5% não fizeram novas contratações em 2024, e apenas 6% atingiram o ponto de equilíbrio em sete anos.",
-        "body": "Quase todas as pequenas e médias empresas sul-coreanas do setor de tecnologia da informação e comunicação não realizaram novas contratações em 2024, segundo uma pesquisa. Os dados mostram que 98,5% das PMEs de TIC não admitiram novos funcionários no período. A rentabilidade também apareceu restrita. Apenas 6% das empresas teriam alcançado o ponto de equilíbrio em até sete anos. Os números indicam pressão tanto sobre a capacidade de contratação quanto sobre a obtenção de receitas estáveis entre as PMEs de TIC. A recuperação do emprego e a melhora da estabilidade financeira seguem como pontos centrais para o setor. Fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "IKT-Mittelstand stoppt Einstellungen: 98,5% ohne Neueinstellungen 2024",
-        "excerpt": "Eine Umfrage unter südkoreanischen IKT-KMU zeigt: 98,5% stellten 2024 keine neuen Mitarbeiter ein, während nur 6% binnen sieben Jahren die Gewinnschwelle erreichten.",
-        "body": "Fast alle kleinen und mittleren Unternehmen im südkoreanischen Bereich der Informations- und Kommunikationstechnologie haben 2024 keine neuen Mitarbeiter eingestellt, wie eine Umfrage ergab. Demnach nahmen 98,5% der IKT-KMU in diesem Zeitraum keine Neueinstellungen vor. Auch die Profitabilität blieb begrenzt. Nur 6% der Unternehmen erreichten den Angaben zufolge innerhalb von sieben Jahren die Gewinnschwelle. Die Zahlen verdeutlichen, dass IKT-KMU sowohl bei ihrer Beschäftigungskraft als auch bei der Sicherung stabiler Erträge unter Druck stehen. Ob sich Einstellungen erholen und die finanzielle Stabilität verbessert, bleibt eine zentrale Frage. Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "PME TIC sous tension: 98,5% sans nouvelle embauche en 2024",
-        "excerpt": "Une enquête auprès des PME sud-coréennes des TIC indique que 98,5% n’ont procédé à aucune nouvelle embauche en 2024, tandis que seules 6% ont atteint l’équilibre en sept ans.",
-        "body": "La quasi-totalité des petites et moyennes entreprises sud-coréennes du secteur des technologies de l'information et de la communication n'ont procédé à aucune nouvelle embauche en 2024, selon une enquête. Les résultats montrent que 98,5% des PME TIC n'ont pas recruté de nouveaux employés durant l'année. La rentabilité apparaît également limitée. Seules 6% des entreprises auraient atteint le seuil de rentabilité dans un délai de sept ans. Ces chiffres soulignent les difficultés des PME TIC à la fois en matière de capacité d'embauche et de sécurisation de revenus stables. La reprise de l'emploi et l'amélioration de la stabilité financière resteront des enjeux majeurs. Source: yna.co.kr."
-      },
-      "ar": {
-        "title": "شركات تكنولوجيا المعلومات الصغيرة تتوقف عن التوظيف: 98.5% بلا تعيينات في 2024",
-        "excerpt": "أظهر مسح لشركات كورية جنوبية صغيرة ومتوسطة في قطاع تكنولوجيا المعلومات والاتصالات أن 98.5% لم توظف عمالة جديدة في 2024، وأن 6% فقط بلغت نقطة التعادل خلال سبع سنوات.",
-        "body": "أظهر مسح أن معظم الشركات الصغيرة والمتوسطة في قطاع تكنولوجيا المعلومات والاتصالات في كوريا الجنوبية لم تقم بأي توظيف جديد في عام 2024. ووفق النتائج، فإن 98.5% من هذه الشركات لم تستقطب موظفين جددا خلال ذلك العام. كما بدت القدرة على تحقيق الربحية محدودة. فقد بلغت نسبة الشركات التي وصلت إلى نقطة التعادل خلال سبع سنوات 6% فقط. وتشير هذه الأرقام إلى ضغوط على قدرة شركات تكنولوجيا المعلومات والاتصالات الصغيرة والمتوسطة على التوظيف وعلى تأمين أرباح مستقرة. ويبقى تعافي التوظيف وتحسن الاستقرار المالي من أبرز القضايا المطروحة للقطاع. المصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "ICT SMEs में भर्ती ठप, 2024 में 98.5% कंपनियों ने नई नियुक्ति नहीं की",
-        "excerpt": "दक्षिण कोरिया की ICT छोटी और मध्यम कंपनियों पर हुए सर्वे में 2024 में 98.5% ने नई भर्ती नहीं की, जबकि सात साल में ब्रेकईवन तक पहुंचने वाली कंपनियां केवल 6% रहीं।",
-        "body": "दक्षिण कोरिया के सूचना और संचार प्रौद्योगिकी क्षेत्र की लगभग सभी छोटी और मध्यम कंपनियों ने 2024 में नई भर्ती नहीं की, ऐसा एक सर्वेक्षण में सामने आया। निष्कर्षों के अनुसार, ICT SMEs में 98.5% कंपनियों ने उस वर्ष नए कर्मचारियों को नियुक्त नहीं किया। लाभप्रदता की स्थिति भी सीमित दिखी। सात साल के भीतर ब्रेकईवन तक पहुंचने वाली कंपनियों की हिस्सेदारी केवल 6% बताई गई। ये आंकड़े दिखाते हैं कि ICT SMEs पर भर्ती क्षमता और स्थिर आय हासिल करने, दोनों मोर्चों पर दबाव है। आगे रोजगार में सुधार और वित्तीय स्थिरता की स्थिति इस क्षेत्र के लिए अहम मुद्दा रहेगी। स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "UKM TIK Menahan Rekrutmen, 98,5% Tanpa Perekrutan Baru pada 2024",
-        "excerpt": "Survei terhadap UKM TIK di Korea Selatan menunjukkan 98,5% tidak melakukan perekrutan baru pada 2024, sementara hanya 6% perusahaan mencapai titik impas dalam tujuh tahun.",
-        "body": "Hampir seluruh usaha kecil dan menengah di sektor teknologi informasi dan komunikasi Korea Selatan tidak melakukan perekrutan baru pada 2024, menurut sebuah survei. Temuan itu menunjukkan 98,5% UKM TIK tidak merekrut tenaga kerja baru sepanjang tahun tersebut. Profitabilitas juga tampak terbatas. Hanya 6% perusahaan yang dilaporkan mencapai titik impas dalam kurun tujuh tahun. Angka ini menunjukkan tekanan pada kemampuan perekrutan sekaligus upaya memperoleh pendapatan yang stabil di kalangan UKM TIK. Pemulihan lapangan kerja dan perbaikan stabilitas keuangan akan tetap menjadi isu utama bagi sektor ini. Sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "42beff3c8463",
-    "slug": "엄마-나-내년엔-꼭-취업해서-효도할게금융권에-목매는-청년들-캥거루족-탈출기⑰-811077",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T22:24:16.245Z",
-    "updatedAt": "2026-05-09T22:24:16.245Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12042411",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042411",
-    "titleFingerprint": "290199a9c49e2cbfccb9262ec6970e7b4a7f90f3",
-    "dedupKeys": [
-      "42beff3c846325438e08d381f71c5adcd8cdc5a9",
-      "290199a9c49e2cbfccb9262ec6970e7b4a7f90f3",
-      "17a244b3b0e0273d12c43617ab73df7060471eb3"
-    ],
-    "imageUrl": "/images/articles/42beff3c8463.png",
-    "i18n": {
-      "ko": {
-        "title": "금융권 취업에 몰리는 청년들, 고물가·취업난 속 ‘중산층 생존 전략’",
-        "excerpt": "고물가와 취업난이 이어지는 가운데 청년들이 고연봉·복지·안정성을 이유로 금융권 취업에 집중하며 불안정한 환경 속 중산층 삶을 지키려는 흐름이 커지고 있다.",
-        "body": "고물가와 취업난이 겹치면서 청년층 사이에서 금융권 취업 열기가 높아지고 있다. 매일경제가 보도한 ‘캥거루족 탈출기’에 따르면 지원자들이 금융권을 선택하는 주요 이유는 고연봉, 복지, 안정성이다. 불안정한 노동시장과 생활비 부담 속에서 금융권 입사는 단순한 직장 선택을 넘어 중산층의 삶을 유지하기 위한 생존 전략으로 받아들여지고 있다. 기업 인사팀은 과거처럼 스펙만 보는 방식에서 벗어나 AI 환경에 적응하는 능력과 개인의 성장 서사를 중요하게 본다고 설명했다. 다만 채용 문턱은 여전히 높아 청년들의 경쟁은 계속될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Young Job Seekers Crowd Into Finance as Inflation and Hiring Slump Raise Pressure",
-        "excerpt": "Amid high prices and a tough job market, young Koreans are targeting finance jobs for pay, benefits and stability, seeing the sector as a way to protect a middle-class life.",
-        "body": "Young job seekers in South Korea are showing strong interest in finance as high inflation and a difficult hiring market persist. According to Maeil Business Newspaper’s “Kangaroo Tribe Escape” series, applicants cite three main reasons for choosing finance: high salaries, welfare benefits and job stability. In an unstable labor market with rising living costs, entering the financial sector is seen not just as a career choice but as a survival strategy for maintaining a middle-class life. Human resources teams say they now value the ability to adapt to AI and a clear growth story, rather than credentials alone. Still, the hiring threshold remains high, and competition among young applicants is expected to continue. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "金融業界に若者が集中、物価高と就職難で強まる安定志向",
-        "excerpt": "物価高と就職難が続くなか、韓国の若者は高年収・福利厚生・安定性を理由に金融業界を志望し、中産層の生活を守る選択肢として見ている。",
-        "body": "物価高と就職難が重なり、韓国の若者の間で金融業界への就職熱が高まっている。毎日経済の「カンガルー族脱出記」によると、志望者が金融業界を選ぶ主な理由は高年収、福利厚生、安定性の三つだ。不安定な労働市場と生活費負担のなかで、金融業界への入社は単なる職業選択ではなく、中産層の生活を維持するための生存戦略として受け止められている。企業の人事担当者は、従来のようにスペックだけを見るのではなく、AI環境への適応力や個人の成長ストーリーを重視すると説明している。ただし採用の門は依然として高く、若者の競争は続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "年轻人涌向金融业：高物价与就业难下的“中产生存策略”",
-        "excerpt": "在高物价和就业困难持续的背景下，韩国年轻人因高薪、福利和稳定性集中求职金融业，将其视为维持中产生活的重要路径。",
-        "body": "随着高物价与就业困难叠加，韩国年轻人对金融业就业的热情正在升温。据《每日经济》“袋鼠族逃脱记”报道，求职者选择金融业的主要原因是高薪、福利和稳定性。在劳动力市场不稳定、生活成本上升的环境下，进入金融业不再只是职业选择，而被视为维持中产生活的生存策略。企业人事团队表示，招聘不再像过去那样只看履历条件，而是更加重视适应AI环境的能力以及个人成长叙事。不过，金融业招聘门槛仍然较高，年轻求职者之间的竞争预计还将持续。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jóvenes apuntan a la banca por salarios, beneficios y estabilidad ante la crisis laboral",
-        "excerpt": "Con precios altos y dificultades para encontrar empleo, jóvenes coreanos buscan entrar al sector financiero por salario, bienestar y estabilidad para sostener una vida de clase media.",
-        "body": "El interés de los jóvenes surcoreanos por trabajar en el sector financiero aumenta mientras persisten la inflación y las dificultades para conseguir empleo. Según la serie “Escape de la generación canguro” de Maeil Business Newspaper, los aspirantes eligen las finanzas por tres razones principales: salarios altos, beneficios y estabilidad. En un mercado laboral inestable y con mayores costos de vida, entrar a una entidad financiera se percibe no solo como una opción profesional, sino como una estrategia de supervivencia para mantener una vida de clase media. Los equipos de recursos humanos señalan que ahora valoran la adaptación a la IA y una historia de crecimiento personal, más que las credenciales por sí solas. Aun así, la barrera de entrada sigue siendo alta y la competencia continuará. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Jovens miram o setor financeiro por salário, benefícios e estabilidade em meio à pressão",
-        "excerpt": "Com inflação elevada e dificuldade para conseguir emprego, jovens coreanos buscam vagas no setor financeiro por salário, benefícios e estabilidade para preservar uma vida de classe média.",
-        "body": "O interesse de jovens sul-coreanos por empregos no setor financeiro cresce em meio à combinação de preços altos e mercado de trabalho difícil. Segundo a série “Fuga da geração canguru” do Maeil Business Newspaper, os candidatos apontam três motivos principais para escolher o setor: salários elevados, benefícios e estabilidade. Em um ambiente laboral instável e com maior custo de vida, entrar no setor financeiro é visto não apenas como uma escolha de carreira, mas como uma estratégia de sobrevivência para manter uma vida de classe média. Equipes de recursos humanos afirmam que agora valorizam a capacidade de adaptação à IA e a narrativa de crescimento pessoal, além das credenciais. Ainda assim, a barreira de contratação segue alta e a disputa deve continuar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Junge Bewerber drängen in die Finanzbranche: Stabilität als Antwort auf Krise",
-        "excerpt": "Bei hohen Preisen und schwachem Arbeitsmarkt setzen junge Koreaner auf Finanzjobs, weil sie Gehalt, Sozialleistungen und Stabilität als Schutz eines Mittelschichtslebens sehen.",
-        "body": "In Südkorea wächst unter jungen Arbeitssuchenden das Interesse an Jobs in der Finanzbranche, während hohe Preise und schwierige Beschäftigungsaussichten anhalten. Laut der Maeil-Business-Newspaper-Serie „Kangaroo Tribe Escape“ nennen Bewerber drei Hauptgründe für ihre Wahl: hohes Gehalt, Sozialleistungen und Stabilität. In einem unsicheren Arbeitsmarkt mit steigenden Lebenshaltungskosten gilt der Einstieg in die Finanzbranche nicht nur als berufliche Entscheidung, sondern als Überlebensstrategie, um ein Leben in der Mittelschicht zu sichern. Personalabteilungen erklären, dass sie heute stärker auf Anpassungsfähigkeit an KI und eine persönliche Wachstumsgeschichte achten, nicht nur auf formale Qualifikationen. Die Einstiegshürden bleiben jedoch hoch, sodass der Wettbewerb weitergehen dürfte. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les jeunes visent la finance pour salaire, avantages et stabilité face au marché tendu",
-        "excerpt": "Avec la hausse des prix et les difficultés d’emploi, les jeunes Coréens ciblent la finance pour ses salaires, avantages et stabilité afin de préserver une vie de classe moyenne.",
-        "body": "En Corée du Sud, l’intérêt des jeunes demandeurs d’emploi pour le secteur financier augmente alors que les prix élevés et les difficultés de recrutement persistent. Selon la série “Kangaroo Tribe Escape” du Maeil Business Newspaper, les candidats choisissent la finance pour trois raisons principales: salaires élevés, avantages sociaux et stabilité. Dans un marché du travail instable et face au poids du coût de la vie, entrer dans la finance est perçu non seulement comme un choix professionnel, mais aussi comme une stratégie de survie pour maintenir une vie de classe moyenne. Les équipes RH indiquent qu’elles valorisent désormais l’adaptation à l’IA et le récit de progression personnelle, au-delà des simples qualifications. Le seuil d’entrée reste toutefois élevé et la concurrence devrait se poursuivre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الشباب يتجهون إلى القطاع المالي بحثا عن الراتب والاستقرار وسط التضخم وصعوبة التوظيف",
-        "excerpt": "مع استمرار ارتفاع الأسعار وصعوبة الحصول على وظائف، يركز شباب كوريا على القطاع المالي بسبب الأجور والمزايا والاستقرار بوصفه طريقا لحماية حياة الطبقة المتوسطة.",
-        "body": "يتزايد اهتمام الشباب في كوريا الجنوبية بالعمل في القطاع المالي مع استمرار ارتفاع الأسعار وصعوبة سوق التوظيف. ووفق سلسلة “الخروج من جيل الكنغر” في صحيفة Maeil Business Newspaper، يختار المتقدمون هذا القطاع لثلاثة أسباب رئيسية: الرواتب المرتفعة، والمزايا الاجتماعية، والاستقرار الوظيفي. وفي ظل سوق عمل غير مستقر وارتفاع تكاليف المعيشة، لم يعد دخول القطاع المالي مجرد اختيار مهني، بل أصبح ينظر إليه كاستراتيجية للبقاء والحفاظ على حياة الطبقة المتوسطة. وتقول فرق الموارد البشرية إن التقييم لم يعد يعتمد على المؤهلات وحدها، بل يركز أيضا على القدرة على التكيف مع بيئة الذكاء الاصطناعي وسردية النمو الشخصي. ومع ذلك تبقى عتبة التوظيف مرتفعة، ومن المتوقع استمرار المنافسة بين الشباب. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "महंगाई और नौकरी संकट के बीच वित्त क्षेत्र की ओर युवाओं की दौड़ तेज",
-        "excerpt": "ऊंची कीमतों और रोजगार संकट के बीच कोरियाई युवा बेहतर वेतन, कल्याण सुविधाओं और स्थिरता के लिए वित्त क्षेत्र को मध्यमवर्गीय जीवन बचाने की रणनीति मान रहे हैं।",
-        "body": "दक्षिण कोरिया में ऊंची महंगाई और कठिन रोजगार बाजार के बीच युवाओं में वित्त क्षेत्र में नौकरी पाने की रुचि बढ़ रही है। Maeil Business Newspaper की “Kangaroo Tribe Escape” श्रृंखला के अनुसार, उम्मीदवार वित्त क्षेत्र को तीन मुख्य कारणों से चुन रहे हैं: ऊंचा वेतन, कल्याण सुविधाएं और स्थिरता। अस्थिर श्रम बाजार और बढ़ती जीवन-यापन लागत के माहौल में वित्त क्षेत्र में प्रवेश केवल करियर विकल्प नहीं, बल्कि मध्यमवर्गीय जीवन बनाए रखने की जीवित रहने की रणनीति के रूप में देखा जा रहा है। मानव संसाधन टीमों का कहना है कि वे अब केवल योग्यता-सूची नहीं, बल्कि AI वातावरण के अनुकूल ढलने की क्षमता और व्यक्तिगत विकास की कहानी को भी महत्व देते हैं। फिर भी भर्ती की दहलीज ऊंची है और युवाओं के बीच प्रतिस्पर्धा जारी रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Anak Muda Memburu Kerja Finansial Saat Harga Tinggi dan Pasar Kerja Sulit",
-        "excerpt": "Di tengah harga tinggi dan sulitnya mencari kerja, anak muda Korea menargetkan sektor finansial karena gaji, tunjangan, dan stabilitas untuk menjaga hidup kelas menengah.",
-        "body": "Minat anak muda Korea Selatan terhadap pekerjaan di sektor finansial meningkat seiring berlanjutnya harga tinggi dan sulitnya pasar kerja. Menurut seri “Kangaroo Tribe Escape” dari Maeil Business Newspaper, pelamar memilih sektor finansial karena tiga alasan utama: gaji tinggi, tunjangan kesejahteraan, dan stabilitas kerja. Dalam pasar tenaga kerja yang tidak stabil dan biaya hidup yang meningkat, masuk ke sektor finansial dipandang bukan sekadar pilihan karier, melainkan strategi bertahan untuk menjaga kehidupan kelas menengah. Tim sumber daya manusia menyatakan bahwa penilaian kini tidak hanya berfokus pada kualifikasi, tetapi juga kemampuan beradaptasi dengan lingkungan AI dan narasi pertumbuhan pribadi. Namun, ambang perekrutan tetap tinggi dan persaingan di kalangan anak muda diperkirakan terus berlanjut. Sumber: mk.co.kr"
       }
     }
   }
