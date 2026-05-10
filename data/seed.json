@@ -1,5 +1,230 @@
 [
   {
+    "id": "a76a7b3038cd",
+    "slug": "이-대통령-세입자-있는-1주택자-매도기회갭투자허용-주장-억까-112693",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T22:18:44.181Z",
+    "updatedAt": "2026-05-10T22:18:44.181Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042850",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042850",
+    "titleFingerprint": "555611e0ff6e09e77424d61cdf5d84f954e2571d",
+    "dedupKeys": [
+      "a76a7b3038cdefbf85ab0be14cecf8bd8e7bab80",
+      "555611e0ff6e09e77424d61cdf5d84f954e2571d",
+      "bee72dd1b1b4d158271dd20fb30e4f5e6b14aa7c"
+    ],
+    "imageUrl": "/images/articles/a76a7b3038cd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "토지거래허가구역 1주택 매도기회 논란에 이 대통령 “갭투자 허용 아냐”",
+        "excerpt": "이재명 대통령은 토지거래허가구역 내 세입자 있는 비거주 1주택 매수 때 실거주 의무 유예 검토를 두고 갭투자 허용 주장은 ‘억까’라고 밝혔다.",
+        "body": "이재명 대통령은 정부가 토지거래허가구역 안에서 세입자가 있는 비거주 1주택자의 주택을 매수할 때 매수자의 실거주 의무를 유예하는 방안을 검토하는 데 대해, 이를 ‘갭투자 허용’으로 보는 주장은 과도하다는 취지로 말했다. 해당 방안은 세입자가 이미 거주 중인 1주택을 가진 집주인에게 매도 기회를 열어주는 조치로 설명됐다. 토지거래허가구역에서는 주택 매수 뒤 실거주 의무가 핵심 규제로 작동해 왔고, 세입자가 있는 주택 거래에서는 이 의무와 기존 임대차 관계가 충돌할 수 있다는 문제가 제기돼 왔다. 정부 검토가 현실화되면 세입자가 낀 비거주 1주택 매물의 거래 여지가 생길 수 있지만, 대통령은 이를 갭투자 허용으로 단정하는 해석에는 선을 그었다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lee Says Tenant-Occupied One-Home Sales Are Not Gap-Investment Approval",
+        "excerpt": "President Lee Jae-myung said criticism that a reviewed deferral of residency duties for buyers of tenant-occupied homes in permit zones allows gap investment is unfair.",
+        "body": "President Lee Jae-myung said it is excessive to describe the government’s review of deferring buyers’ actual-residency obligation as permission for gap investment. The measure under review would apply when a buyer purchases a non-resident one-home owner’s house with an existing tenant inside a land transaction permit zone. Lee framed the step as a way to give such one-home owners an opportunity to sell. In land transaction permit zones, the requirement that buyers live in the purchased home has been a core restriction, and tenant-occupied homes can create friction between that duty and existing lease contracts. If implemented, the review could open room for transactions of tenant-occupied homes held by non-resident one-home owners, but Lee drew a line against calling it gap-investment approval. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "土地取引許可区域の賃借人付き1住宅、李大統領「ギャップ投資容認ではない」",
+        "excerpt": "李在明大統領は、土地取引許可区域で賃借人付き非居住1住宅の購入時に実居住義務を猶予する検討をめぐり、ギャップ投資容認との批判は過度だと述べた。",
+        "body": "李在明大統領は、政府が土地取引許可区域内で賃借人がいる非居住の1住宅所有者の住宅を購入する際、買い手の実居住義務を猶予する案を検討していることについて、これを「ギャップ投資容認」とみなす主張は行き過ぎだとの趣旨を示した。対象案は、すでに賃借人が住んでいる1住宅を持つ所有者に売却機会を与える措置として説明された。土地取引許可区域では購入後の実居住義務が主要規制として機能しており、賃借人付き住宅の取引ではこの義務と既存賃貸借関係が衝突し得るとの問題があった。検討が実現すれば、賃借人付き非居住1住宅の取引余地が生じる可能性があるが、大統領はギャップ投資容認との断定には一線を引いた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "土地交易许可区带租约一套房出售争议，李总统称并非允许差价投资",
+        "excerpt": "李在明总统表示，政府研究在土地交易许可区购买带租约非自住一套房时暂缓买方实住义务，并不等于允许差价投资。",
+        "body": "李在明总统就政府研究在土地交易许可区内购买带有租户的非自住一套房时，暂缓买方实际居住义务的方案表示，将其视为“允许差价投资”的说法过于牵强。该方案被说明为给已有租户居住的一套房房东提供出售机会的措施。在土地交易许可区，购房后的实际居住义务一直是核心监管要求，而带租约住宅交易中，这一义务可能与既有租赁关系发生冲突。若政府的研究方案落地，带租户的非自住一套房交易空间可能扩大，但总统明确不认同将其断定为允许差价投资的解读。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lee niega que aplazar residencia en viviendas con inquilino permita inversión gap",
+        "excerpt": "El presidente Lee Jae-myung dijo que es injusto afirmar que revisar el aplazamiento de residencia obligatoria para comprar viviendas con inquilino en zonas reguladas permite inversión gap.",
+        "body": "El presidente Lee Jae-myung afirmó que es excesivo considerar como permiso para inversión gap la revisión del Gobierno de aplazar la obligación de residencia efectiva del comprador. La medida se estudia para casos en que se compra, dentro de una zona de permiso de transacciones de suelo, una vivienda de un propietario con una sola casa no residente y con inquilino. Lee la presentó como una vía para ofrecer una oportunidad de venta a esos propietarios. En dichas zonas, la obligación de residir tras la compra ha sido una regulación clave, y las viviendas con inquilinos pueden generar conflicto entre esa obligación y los contratos de alquiler existentes. Si se aplica, podría abrir margen de transacción para esas viviendas, pero Lee rechazó definirlo como autorización de inversión gap. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lee rejeita que venda de imóvel com inquilino em zona regulada permita gap investment",
+        "excerpt": "O presidente Lee Jae-myung disse que é injusto chamar de permissão para gap investment a revisão de adiar a obrigação de moradia real em compras de imóveis com inquilino.",
+        "body": "O presidente Lee Jae-myung afirmou que é excessivo interpretar como permissão para gap investment a revisão do governo sobre adiar a obrigação de residência real do comprador. A medida em análise se aplicaria à compra, em zona de permissão para transações de terras, de uma casa de proprietário de único imóvel não residente com inquilino. Lee explicou a proposta como uma forma de dar oportunidade de venda a esses proprietários. Nessas zonas, a obrigação de morar no imóvel comprado tem sido uma regra central, e imóveis com inquilinos podem criar conflito entre essa exigência e contratos de locação existentes. Se adotada, a medida pode abrir espaço para negociações desses imóveis, mas Lee afastou a leitura de que seria autorização para gap investment. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lee: Verkauf vermieteter Ein-Wohnungs-Objekte ist keine Gap-Investment-Erlaubnis",
+        "excerpt": "Präsident Lee Jae-myung wies Kritik zurück, wonach ein geprüftes Aufschieben der Wohnpflicht beim Kauf vermieteter Häuser in Genehmigungszonen Gap-Investments erlaube.",
+        "body": "Präsident Lee Jae-myung erklärte, es sei überzogen, die Regierungsprüfung zur Aufschiebung der tatsächlichen Wohnpflicht für Käufer als Erlaubnis für Gap-Investments zu bezeichnen. Geprüft wird dies für den Kauf eines vermieteten Hauses eines nicht dort wohnenden Eigentümers mit nur einer Wohnung innerhalb einer Landtransaktions-Genehmigungszone. Lee beschrieb den Schritt als Möglichkeit, solchen Eigentümern eine Verkaufschance zu geben. In diesen Zonen gilt die Pflicht, nach dem Kauf selbst einzuziehen, als zentrale Regulierung. Bei vermieteten Wohnungen kann sie jedoch mit bestehenden Mietverhältnissen kollidieren. Sollte die Prüfung umgesetzt werden, könnten Verkäufe solcher Objekte eher möglich werden, doch Lee grenzte sich klar von der Deutung als Gap-Investment-Freigabe ab. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lee nie que la vente de logements loués en zone réglementée autorise le gap investment",
+        "excerpt": "Le président Lee Jae-myung a jugé excessive l’idée qu’un report étudié de l’obligation de résidence pour acheter un logement loué en zone autorisée permette le gap investment.",
+        "body": "Le président Lee Jae-myung a déclaré qu’il était excessif de présenter comme une autorisation du gap investment l’examen par le gouvernement d’un report de l’obligation de résidence effective de l’acheteur. La mesure viserait l’achat, dans une zone soumise à autorisation de transaction foncière, d’un logement détenu par un propriétaire non résident ne possédant qu’un bien et déjà occupé par un locataire. Lee l’a décrite comme une façon d’offrir à ces propriétaires une occasion de vendre. Dans ces zones, l’obligation d’habiter le logement après l’achat constitue une règle clé, mais elle peut entrer en conflit avec les baux existants. Si elle est adoptée, la mesure pourrait faciliter certaines transactions, mais Lee a rejeté l’idée d’y voir une autorisation du gap investment. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لي: بيع المسكن الوحيد المؤجر في مناطق التصريح ليس سماحا باستثمار الفجوة",
+        "excerpt": "قال الرئيس لي جاي ميونغ إن وصف بحث تأجيل إلزام السكن الفعلي عند شراء منزل مؤجر في مناطق تصريح تداول الأراضي بأنه سماح باستثمار الفجوة وصف غير منصف.",
+        "body": "قال الرئيس لي جاي ميونغ إن اعتبار مراجعة الحكومة لتأجيل إلزام المشتري بالسكن الفعلي بمثابة سماح باستثمار الفجوة هو تفسير مبالغ فيه. ويجري بحث الإجراء عند شراء منزل يملكه شخص غير مقيم ولا يملك سوى مسكن واحد، وفيه مستأجر قائم، داخل منطقة تخضع لتصريح تداول الأراضي. وقدم لي الإجراء باعتباره وسيلة لمنح هؤلاء الملاك فرصة للبيع. في هذه المناطق، كان الالتزام بالسكن في المنزل بعد شرائه قاعدة تنظيمية أساسية، لكن المنازل المشغولة بمستأجرين قد تخلق تعارضا بين هذا الالتزام وعقود الإيجار القائمة. وإذا طُبق الإجراء فقد يفتح مجالا لتداول هذه المنازل، إلا أن الرئيس رفض الجزم بأنه سماح باستثمار الفجوة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ली बोले, किरायेदार वाले एकमात्र घर की बिक्री गैप निवेश की अनुमति नहीं",
+        "excerpt": "राष्ट्रपति ली जे-म्युंग ने कहा कि परमिट क्षेत्रों में किरायेदार वाले गैर-निवासी एक-घर मालिक की संपत्ति खरीद पर वास्तविक निवास दायित्व टालने की समीक्षा को गैप निवेश अनुमति कहना अनुचित है।",
+        "body": "राष्ट्रपति ली जे-म्युंग ने कहा कि सरकार द्वारा खरीदार के वास्तविक निवास दायित्व को टालने की समीक्षा को गैप निवेश की अनुमति बताना अतिशयोक्ति है। यह समीक्षा भूमि लेनदेन परमिट क्षेत्र में ऐसे घर की खरीद पर लागू हो सकती है, जो गैर-निवासी एक-घर मालिक का है और जिसमें पहले से किरायेदार रहता है। ली ने इसे ऐसे मालिकों को बेचने का अवसर देने वाला कदम बताया। इन परमिट क्षेत्रों में खरीद के बाद वास्तविक निवास की शर्त मुख्य नियमन रही है, लेकिन किरायेदार वाले घरों में यह शर्त मौजूदा किराया संबंधों से टकरा सकती है। यदि समीक्षा लागू होती है तो ऐसे घरों के लेनदेन की गुंजाइश बन सकती है, लेकिन राष्ट्रपति ने इसे गैप निवेश की अनुमति मानने से स्पष्ट दूरी रखी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lee Tegaskan Penjualan Rumah Tunggal Berpenyewa Bukan Izin Investasi Gap",
+        "excerpt": "Presiden Lee Jae-myung menilai tidak tepat menyebut kajian penundaan kewajiban tinggal bagi pembeli rumah berpenyewa di zona izin transaksi tanah sebagai izin investasi gap.",
+        "body": "Presiden Lee Jae-myung mengatakan berlebihan jika kajian pemerintah untuk menunda kewajiban tinggal nyata bagi pembeli disebut sebagai izin investasi gap. Kajian itu berlaku saat seseorang membeli rumah milik pemilik satu rumah yang tidak tinggal di sana dan sudah memiliki penyewa, di dalam zona izin transaksi tanah. Lee menjelaskan langkah tersebut sebagai cara memberi kesempatan menjual bagi pemilik satu rumah dengan penyewa. Di zona izin transaksi tanah, kewajiban tinggal setelah membeli rumah menjadi aturan utama, sementara rumah berpenyewa dapat menimbulkan benturan antara kewajiban itu dan hubungan sewa yang sudah ada. Jika diterapkan, kajian ini dapat membuka ruang transaksi untuk rumah semacam itu, tetapi Lee menolak penyebutan sebagai izin investasi gap. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0d14a3584010",
+    "slug": "너도-성공하고-싶어-그럼-벤츠-대신한국인-특별대우-아우디-킬러車-최기성의-허브車-639585",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T22:17:45.258Z",
+    "updatedAt": "2026-05-10T22:17:45.258Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12041451",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12041451",
+    "titleFingerprint": "35430538ef4b3b6d5f984b91963a1d313f1b861f",
+    "dedupKeys": [
+      "0d14a3584010fe895466b80724eafffdab71556d",
+      "35430538ef4b3b6d5f984b91963a1d313f1b861f",
+      "c4b9ab0a1f6ec1b9e3e8494ca31a1645fa63ee44"
+    ],
+    "imageUrl": "/images/articles/0d14a3584010.jpg",
+    "i18n": {
+      "ko": {
+        "title": "아우디코리아 신형 A6, 한국 고객 신뢰 회복 내건 ‘성공 동반자’",
+        "excerpt": "아우디코리아가 한국 시장에서 신형 A6를 앞세워 고객 신뢰 회복을 약속했다. 제품 이슈와 판매 중단을 겪은 뒤 ‘성공을 위한 동반자’로 다시 자리매김하려는 전략이다.",
+        "body": "아우디코리아는 한국 시장에서 신형 A6를 내세워 고객 신뢰 회복에 나섰다. 원문에 따르면 회사는 “한국인에게 진짜 더 잘하겠다”는 취지의 약속을 강조했고, 신형 A6를 ‘성공을 위한 동반자’로 제시했다. 배경에는 제품 이슈와 판매 중단 등으로 한국에서 고객 신뢰를 쌓는 데 어려움이 있었다는 설명이 있다. 이번 신형 A6는 한국 고객에 대한 특별한 대응과 약속 이행을 부각하는 모델로 소개됐다. 향후 관건은 신뢰 회복 약속이 실제 구매 경험과 서비스 만족으로 이어지는지다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Audi Korea’s New A6 Targets Trust Recovery With ‘Success Partner’ Pitch",
+        "excerpt": "Audi Korea is using the new A6 to rebuild customer trust in South Korea after product issues and sales suspensions, positioning the sedan as a partner for success.",
+        "body": "Audi Korea is moving to restore customer trust in South Korea with the new A6. According to the original report, the company stressed a pledge to do better for Korean customers and presented the new A6 as a “partner for success.” The context is that Audi Korea had faced difficulties building customer confidence in the market because of product issues and sales suspensions. The new A6 was introduced as a model highlighting special attention to Korean customers and the fulfillment of earlier promises. The key question ahead is whether that trust-building message translates into actual purchase experience and service satisfaction. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "アウディコリア新型A6、韓国顧客の信頼回復へ『成功の相棒』訴求",
+        "excerpt": "アウディコリアは新型A6を前面に出し、韓国市場で顧客信頼の回復を約束した。製品問題や販売中断を経て、成功のためのパートナーとして再訴求する狙いだ。",
+        "body": "アウディコリアは韓国市場で新型A6を掲げ、顧客信頼の回復に乗り出した。原文によると、同社は韓国の顧客に本当により良く対応するという趣旨の約束を強調し、新型A6を「成功のためのパートナー」として提示した。背景には、製品問題や販売中断などにより、韓国で顧客の信頼を築くのに困難があったという説明がある。今回の新型A6は、韓国顧客への特別な対応と約束の履行を打ち出すモデルとして紹介された。今後の焦点は、その信頼回復の約束が実際の購入体験とサービス満足につながるかどうかだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "奥迪韩国推新A6重建信任，以“成功伙伴”定位争取客户",
+        "excerpt": "奥迪韩国在韩国市场以新款A6为核心承诺恢复客户信任。经历产品问题和停售后，该车型被定位为面向成功的伙伴。",
+        "body": "奥迪韩国正以新款A6在韩国市场推进客户信任恢复。根据原文，该公司强调将真正更好地对待韩国客户，并把新款A6称为“成功的伙伴”。这一表态的背景是，奥迪韩国曾因产品问题、销售中断等因素，在韩国积累客户信任时面临困难。此次新款A6被介绍为突出对韩国客户特别回应以及履行承诺的车型。接下来的关键在于，这一信任恢复承诺能否转化为实际购车体验和服务满意度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Audi Korea lanza el nuevo A6 para recuperar confianza como ‘socio del éxito’",
+        "excerpt": "Audi Korea apuesta por el nuevo A6 para recuperar la confianza de los clientes en Corea del Sur tras problemas de producto y suspensión de ventas, con un mensaje centrado en el éxito.",
+        "body": "Audi Korea avanza en Corea del Sur con el nuevo A6 para recuperar la confianza de sus clientes. Según el texto original, la compañía subrayó su promesa de tratar mejor a los consumidores coreanos y presentó el nuevo A6 como un “compañero para el éxito”. El contexto es que la marca había tenido dificultades para construir confianza en el mercado coreano debido a problemas de producto y suspensiones de ventas. El nuevo A6 fue presentado como un modelo que destaca una atención especial a los clientes coreanos y el cumplimiento de compromisos previos. La cuestión será si ese mensaje se traduce en experiencia de compra y satisfacción de servicio. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Audi Korea aposta no novo A6 para recuperar confiança como ‘parceiro do sucesso’",
+        "excerpt": "A Audi Korea usa o novo A6 para reconstruir a confiança dos clientes na Coreia do Sul após questões de produto e interrupções nas vendas, posicionando o sedã como parceiro do sucesso.",
+        "body": "A Audi Korea está tentando recuperar a confiança dos clientes na Coreia do Sul com o novo A6. Segundo o texto original, a empresa reforçou a promessa de atender melhor os consumidores coreanos e apresentou o novo A6 como um “parceiro para o sucesso”. O pano de fundo é que a marca enfrentou dificuldades para construir confiança no mercado coreano por causa de questões de produto e interrupções nas vendas. O novo A6 foi apresentado como um modelo que destaca atenção especial aos clientes coreanos e cumprimento de promessas. O ponto decisivo será se essa mensagem se refletirá na experiência de compra e na satisfação com o serviço. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Audi Korea setzt mit neuem A6 auf Vertrauensaufbau als ‘Partner des Erfolgs’",
+        "excerpt": "Audi Korea will mit dem neuen A6 in Südkorea Kundenvertrauen zurückgewinnen. Nach Produktproblemen und Verkaufsstopps wird das Modell als Begleiter zum Erfolg positioniert.",
+        "body": "Audi Korea will in Südkorea mit dem neuen A6 Kundenvertrauen zurückgewinnen. Dem Originalbericht zufolge betonte das Unternehmen das Versprechen, koreanische Kunden wirklich besser zu behandeln, und stellte den neuen A6 als „Partner für Erfolg“ vor. Hintergrund ist, dass Audi Korea wegen Produktproblemen und Verkaufsunterbrechungen Schwierigkeiten hatte, im koreanischen Markt Vertrauen aufzubauen. Der neue A6 wurde als Modell präsentiert, das besondere Aufmerksamkeit für koreanische Kunden und die Einhaltung von Zusagen hervorhebt. Entscheidend wird sein, ob diese Vertrauensbotschaft in tatsächliche Kauferfahrung und Servicezufriedenheit mündet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Audi Korea mise sur la nouvelle A6 pour regagner la confiance des clients",
+        "excerpt": "Audi Korea met en avant la nouvelle A6 pour restaurer la confiance en Corée du Sud après des problèmes produit et des suspensions de vente, avec un positionnement de partenaire de réussite.",
+        "body": "Audi Korea cherche à restaurer la confiance des clients en Corée du Sud avec la nouvelle A6. Selon le texte original, l’entreprise a souligné sa promesse de mieux traiter les clients coréens et a présenté la nouvelle A6 comme un « partenaire pour réussir ». Le contexte est celui de difficultés à construire la confiance sur le marché coréen, liées à des problèmes de produit et à des interruptions de vente. La nouvelle A6 a été décrite comme un modèle mettant en avant une attention particulière portée aux clients coréens et le respect des engagements. L’enjeu sera de savoir si ce message se traduit par une meilleure expérience d’achat et une satisfaction de service. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أودي كوريا تراهن على A6 الجديدة لاستعادة الثقة كشريك للنجاح",
+        "excerpt": "تسعى أودي كوريا عبر A6 الجديدة إلى استعادة ثقة العملاء في كوريا الجنوبية بعد مشكلات في المنتجات وتوقفات في البيع، مع تقديمها كرفيق للنجاح.",
+        "body": "تتحرك أودي كوريا في السوق الكورية الجنوبية لاستعادة ثقة العملاء من خلال A6 الجديدة. وبحسب النص الأصلي، شددت الشركة على وعدها بالتعامل بشكل أفضل فعليا مع العملاء الكوريين، وقدمت A6 الجديدة بوصفها “شريكا للنجاح”. وتأتي هذه الخطوة في سياق صعوبات واجهتها الشركة في بناء الثقة داخل كوريا بسبب مشكلات في المنتجات وتوقفات في البيع. وقد عُرض الطراز الجديد كنموذج يبرز اهتماما خاصا بالعملاء الكوريين والوفاء بالوعود السابقة. ويبقى السؤال ما إذا كان هذا الوعد سيظهر في تجربة الشراء ورضا الخدمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Audi Korea नई A6 के साथ भरोसा लौटाने निकली, ‘सफलता साथी’ पर जोर",
+        "excerpt": "Audi Korea दक्षिण कोरिया में नई A6 के जरिए ग्राहकों का भरोसा दोबारा हासिल करना चाहती है। उत्पाद मुद्दों और बिक्री रुकने के बाद इसे सफलता का साथी बताया गया है।",
+        "body": "Audi Korea दक्षिण कोरियाई बाजार में नई A6 के साथ ग्राहकों का भरोसा वापस पाने की कोशिश कर रही है। मूल रिपोर्ट के अनुसार, कंपनी ने कोरियाई ग्राहकों के लिए वास्तव में बेहतर करने के वादे पर जोर दिया और नई A6 को “सफलता के लिए साथी” के रूप में पेश किया। इसकी पृष्ठभूमि में उत्पाद संबंधी मुद्दे और बिक्री रुकने जैसी घटनाएं हैं, जिनसे कोरिया में ग्राहक विश्वास बनाने में कठिनाई हुई। नई A6 को कोरियाई ग्राहकों के प्रति विशेष प्रतिक्रिया और वादों को निभाने वाले मॉडल के रूप में पेश किया गया। आगे अहम बात यह होगी कि यह भरोसा खरीद अनुभव और सेवा संतुष्टि में बदलता है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Audi Korea Andalkan A6 Baru untuk Pulihkan Kepercayaan Pelanggan Korea",
+        "excerpt": "Audi Korea memakai A6 baru untuk memulihkan kepercayaan pelanggan di Korea Selatan setelah isu produk dan penghentian penjualan, dengan posisi sebagai mitra menuju sukses.",
+        "body": "Audi Korea bergerak memulihkan kepercayaan pelanggan di pasar Korea Selatan melalui A6 baru. Menurut teks asli, perusahaan menegaskan janji untuk benar-benar berbuat lebih baik bagi pelanggan Korea dan memperkenalkan A6 baru sebagai “mitra untuk sukses”. Latar belakangnya adalah Audi Korea sempat menghadapi kesulitan membangun kepercayaan pelanggan di Korea akibat isu produk dan penghentian penjualan. A6 baru ini diperkenalkan sebagai model yang menonjolkan perhatian khusus kepada pelanggan Korea serta pemenuhan janji. Ke depan, hal pentingnya adalah apakah pesan pemulihan kepercayaan itu terlihat dalam pengalaman membeli dan kepuasan layanan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "729e7b919b30",
+    "slug": "코로나-종식-3년-지났는데일상-마비된-롱코비드-환자-27만명-266276",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T22:16:51.585Z",
+    "updatedAt": "2026-05-10T22:16:51.585Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12042852",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12042852",
+    "titleFingerprint": "28ae7cc571ceb16cd00827548fb86c8c86171439",
+    "dedupKeys": [
+      "729e7b919b30f4c53198481bef12f8dca074408a",
+      "28ae7cc571ceb16cd00827548fb86c8c86171439",
+      "0f05c9905640a071e4beff08e88941e81d929a1a"
+    ],
+    "imageUrl": "/images/articles/729e7b919b30.png",
+    "i18n": {
+      "ko": {
+        "title": "롱코비드 환자 27만명, 코로나 종식 3년 뒤에도 일상 마비된 후유증 현실",
+        "excerpt": "코로나19가 종식된 지 3년이 지났지만 전북의 26세 장희선 씨처럼 감염 뒤 극심한 후유증으로 일상이 멈춘 롱코비드 환자가 27만명에 이르는 것으로 전해졌다.",
+        "body": "코로나19 종식 3년이 지난 지금도 장기 후유증인 ‘롱코비드’로 일상이 마비된 환자가 27만명에 이르는 것으로 전해졌다. 전라북도에 사는 장희선 씨(26)는 2021년 코로나19에 감염됐고, 감염 자체는 한 달 만에 완치됐지만 이후 극심한 후유증에 시달리며 일상이 멈췄다. 코로나19 유행이 끝난 뒤 사회는 대부분 일상으로 돌아왔지만, 일부 완치자는 감염 이후 장기간 이어지는 증상 때문에 정상적인 생활을 회복하지 못하고 있다. 장 씨의 사례와 27만명이라는 수치는 롱코비드가 여전히 개인의 삶과 보건 대응에서 남은 과제임을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "270,000 Long Covid Patients Still Face Disrupted Lives Three Years After Pandemic’s End",
+        "excerpt": "Three years after the end of COVID-19, about 270,000 Long Covid patients, including 26-year-old Jang Hee-sun in Jeonbuk, are still reported to be struggling with severe aftereffects.",
+        "body": "Three years after COVID-19 was declared effectively over, about 270,000 people are still reported to be living with Long Covid severe enough to disrupt daily life. Jang Hee-sun, 26, who lives in North Jeolla Province, contracted COVID-19 in 2021. The infection itself cleared within a month, but severe aftereffects followed and her normal life came to a halt. While much of society has returned to daily routines after the pandemic, some recovered patients have not regained normal life because symptoms have continued long after infection. Jang’s case and the figure of 270,000 patients show that Long Covid remains an unresolved issue for individuals and public health response. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ロングコビッド患者27万人、コロナ終息3年後も日常が止まる後遺症の現実",
+        "excerpt": "新型コロナ終息から3年が過ぎたが、全羅北道の26歳チャン・ヒソンさんのように感染後の重い後遺症で日常が止まったロングコビッド患者は27万人に上るとされる。",
+        "body": "新型コロナ終息から3年が過ぎた現在も、長期後遺症である「ロングコビッド」により日常生活がまひした患者は27万人に上ると伝えられている。全羅北道に住むチャン・ヒソンさん（26）は2021年に新型コロナに感染した。感染そのものは1カ月で治ったが、その後、重い後遺症に苦しみ、日常が止まった。社会の多くは流行後に日常へ戻った一方、一部の回復者は感染後も長く続く症状のため、通常の生活を取り戻せていない。チャンさんの事例と27万人という数字は、ロングコビッドが個人の生活と保健対応に残された課題であることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "长新冠患者达27万人，疫情结束3年后仍有人日常生活停摆",
+        "excerpt": "新冠疫情结束已过去3年，但据报道，像居住在全罗北道的26岁张熙善一样，感染后因严重后遗症导致日常生活停摆的长新冠患者达27万人。",
+        "body": "在新冠疫情结束3年后的今天，据报道，仍有约27万人因长期后遗症“长新冠”而日常生活受阻。居住在全罗北道的张熙善（音）今年26岁，她在2021年感染新冠。感染本身在一个月内痊愈，但此后她一直遭受严重后遗症，日常生活随之停摆。疫情结束后，社会大多已恢复正常，但部分康复者因感染后长期持续的症状，仍未能回到原本的生活。张熙善的案例和27万人的数字显示，长新冠仍是个人生活和公共卫生应对中尚未解决的课题。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "270.000 pacientes con covid prolongado siguen con la vida paralizada tres años después",
+        "excerpt": "Tres años después del fin de la covid-19, unas 270.000 personas, incluida Jang Hee-sun, de 26 años y residente en Jeonbuk, seguirían sufriendo secuelas graves que frenan su vida diaria.",
+        "body": "Tres años después del fin de la covid-19, se informa que unas 270.000 personas siguen con la vida diaria paralizada por el covid prolongado. Jang Hee-sun, de 26 años y residente en la provincia de Jeolla del Norte, contrajo covid-19 en 2021. La infección se curó en un mes, pero después comenzó a sufrir secuelas graves y su vida cotidiana quedó detenida. Aunque gran parte de la sociedad volvió a la normalidad tras la pandemia, algunos pacientes recuperados no han podido retomar una vida normal por síntomas que persisten mucho tiempo después de la infección. El caso de Jang y la cifra de 270.000 pacientes muestran que el covid prolongado sigue siendo una tarea pendiente para la vida individual y la respuesta sanitaria. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "270 mil pacientes com Covid longa ainda têm rotina paralisada três anos após o fim",
+        "excerpt": "Três anos após o fim da Covid-19, cerca de 270 mil pacientes, incluindo Jang Hee-sun, de 26 anos, em Jeonbuk, ainda enfrentam sequelas graves que interrompem a vida diária.",
+        "body": "Três anos após o fim da Covid-19, cerca de 270 mil pessoas ainda estariam com a rotina paralisada pela Covid longa, uma sequela prolongada da infecção. Jang Hee-sun, de 26 anos, moradora da província de Jeolla do Norte, foi infectada pelo coronavírus em 2021. A infecção em si foi curada em um mês, mas depois disso ela passou a sofrer sequelas graves e sua vida cotidiana parou. Embora boa parte da sociedade tenha voltado à normalidade após a pandemia, alguns recuperados não conseguiram retomar a vida comum por sintomas que continuam por longo período após a infecção. O caso de Jang e o número de 270 mil pacientes mostram que a Covid longa ainda é um desafio para indivíduos e para a resposta de saúde. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "270.000 Long-Covid-Patienten: Drei Jahre nach Corona-Ende bleibt der Alltag blockiert",
+        "excerpt": "Drei Jahre nach dem Ende von COVID-19 leiden Berichten zufolge rund 270.000 Long-Covid-Patienten, darunter die 26-jährige Jang Hee-sun aus Jeonbuk, weiter unter schweren Folgen.",
+        "body": "Drei Jahre nach dem Ende von COVID-19 sind Berichten zufolge weiterhin rund 270.000 Menschen durch Long Covid in ihrem Alltag stark eingeschränkt. Jang Hee-sun, 26, aus der Provinz Nord-Jeolla, infizierte sich 2021 mit dem Coronavirus. Die Infektion selbst war nach einem Monat ausgeheilt, doch danach litt sie unter schweren Nachwirkungen, und ihr Alltag kam zum Stillstand. Während ein großer Teil der Gesellschaft nach der Pandemie zur Normalität zurückgekehrt ist, konnten einige Genesene wegen lang anhaltender Symptome nach der Infektion ihr normales Leben nicht wieder aufnehmen. Der Fall Jang und die Zahl von 270.000 Patienten zeigen, dass Long Covid für Betroffene und das Gesundheitswesen weiter eine offene Aufgabe bleibt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "270 000 patients atteints de Covid long voient encore leur quotidien paralysé trois ans après",
+        "excerpt": "Trois ans après la fin du Covid-19, environ 270 000 patients, dont Jang Hee-sun, 26 ans, vivant à Jeonbuk, souffriraient encore de séquelles graves qui bloquent leur vie quotidienne.",
+        "body": "Trois ans après la fin du Covid-19, environ 270 000 personnes seraient encore touchées par un Covid long au point de voir leur vie quotidienne paralysée. Jang Hee-sun, 26 ans, qui vit dans la province du Jeolla du Nord, a été infectée par le Covid-19 en 2021. L’infection elle-même a été guérie en un mois, mais elle a ensuite souffert de séquelles graves et son quotidien s’est arrêté. Alors que la société a largement retrouvé ses habitudes après la pandémie, certains patients guéris n’ont pas pu reprendre une vie normale en raison de symptômes persistants longtemps après l’infection. Le cas de Jang et le chiffre de 270 000 patients montrent que le Covid long reste un enjeu pour les individus et la réponse sanitaire. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "270 ألف مريض بكوفيد طويل ما زالوا يعانون تعطل الحياة بعد 3 سنوات من نهاية الجائحة",
+        "excerpt": "بعد ثلاث سنوات من انتهاء كوفيد-19، تشير التقارير إلى أن نحو 270 ألف مريض، بينهم جانغ هي-سون البالغة 26 عاما في جونبوك، ما زالوا يعانون آثارا شديدة تعطل حياتهم اليومية.",
+        "body": "بعد مرور ثلاث سنوات على انتهاء كوفيد-19، تشير التقارير إلى أن نحو 270 ألف شخص ما زالوا يعانون من «كوفيد طويل» يعرقل حياتهم اليومية. جانغ هي-سون، البالغة 26 عاما والمقيمة في مقاطعة جولا الشمالية، أصيبت بكوفيد-19 في عام 2021. وقد شفيت العدوى نفسها خلال شهر، لكنها عانت بعد ذلك آثارا شديدة جعلت حياتها اليومية تتوقف. وبينما عاد معظم المجتمع إلى روتينه بعد الجائحة، لم يتمكن بعض المتعافين من استعادة حياتهم الطبيعية بسبب أعراض استمرت طويلا بعد الإصابة. وتظهر حالة جانغ ورقم 270 ألف مريض أن كوفيد الطويل لا يزال قضية عالقة في حياة الأفراد وفي الاستجابة الصحية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "लॉन्ग कोविड के 2.7 लाख मरीज, महामारी खत्म होने के 3 साल बाद भी रोजमर्रा की जिंदगी ठप",
+        "excerpt": "कोविड-19 समाप्ति के तीन साल बाद भी जिओनबुक की 26 वर्षीय जंग ही-सन जैसे करीब 2.7 लाख लॉन्ग कोविड मरीज गंभीर दुष्प्रभावों से जूझ रहे हैं, जिनसे उनकी दैनिक जिंदगी रुक गई है।",
+        "body": "कोविड-19 के समाप्त माने जाने के तीन साल बाद भी लॉन्ग कोविड के कारण दैनिक जीवन बाधित होने वाले मरीजों की संख्या करीब 2.7 लाख बताई गई है। उत्तरी जिओला प्रांत में रहने वाली 26 वर्षीय जंग ही-सन 2021 में कोविड-19 से संक्रमित हुई थीं। संक्रमण एक महीने में ठीक हो गया, लेकिन उसके बाद वे गंभीर दुष्प्रभावों से जूझती रहीं और उनकी रोजमर्रा की जिंदगी थम गई। महामारी के बाद समाज का बड़ा हिस्सा सामान्य जीवन में लौट चुका है, लेकिन कुछ स्वस्थ घोषित मरीज संक्रमण के बाद लंबे समय तक जारी लक्षणों के कारण सामान्य जीवन वापस नहीं पा सके हैं। जंग का मामला और 2.7 लाख मरीजों का आंकड़ा दिखाता है कि लॉन्ग कोविड अब भी व्यक्तिगत जीवन और स्वास्थ्य प्रतिक्रिया के लिए बची हुई चुनौती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "270 Ribu Pasien Long Covid, Tiga Tahun Setelah Pandemi Berakhir Hidup Masih Terganggu",
+        "excerpt": "Tiga tahun setelah Covid-19 dinyatakan berakhir, sekitar 270 ribu pasien Long Covid, termasuk Jang Hee-sun, 26 tahun, di Jeonbuk, masih dilaporkan mengalami dampak berat yang menghentikan keseharian.",
+        "body": "Tiga tahun setelah Covid-19 berakhir, sekitar 270 ribu orang dilaporkan masih mengalami Long Covid hingga kehidupan sehari-hari mereka terganggu. Jang Hee-sun, 26 tahun, warga Provinsi Jeolla Utara, terinfeksi Covid-19 pada 2021. Infeksinya sendiri sembuh dalam satu bulan, tetapi setelah itu ia menderita dampak lanjutan yang berat dan kehidupan hariannya terhenti. Meski sebagian besar masyarakat telah kembali ke rutinitas setelah pandemi, sebagian pasien yang dinyatakan pulih belum dapat kembali hidup normal karena gejala yang berlangsung lama setelah infeksi. Kasus Jang dan angka 270 ribu pasien menunjukkan bahwa Long Covid masih menjadi persoalan tersisa bagi kehidupan individu dan respons kesehatan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "b697dc7c5b17",
     "slug": "구형-반도체-끝난줄-알았는데-공장-풀가동파운드리-주가-동반-반등-745623",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Kerja Sama Galangan Korea-AS Dimulai, Pusat Washington Dibuka Tahun Ini",
         "excerpt": "Pemerintah Korea Selatan dan AS akan memadukan teknologi galangan Korea dengan kebutuhan pembangunan kembali industri AS melalui pusat kerja sama di Washington tahun ini.",
         "body": "Pemerintah Korea Selatan dan Amerika Serikat mulai mendorong kerja sama galangan kapal yang menggabungkan kekuatan teknologi Korea dengan kebutuhan AS untuk membangun kembali basis industrinya. Kedua negara berencana mendirikan pusat kerja sama di Washington pada tahun ini dan menyusun kerangka yang berfokus pada penelitian dan pengembangan bersama. Kerja sama ini berlangsung ketika daya saing teknologi industri galangan Korea bertemu dengan kebutuhan pemulihan basis industri di Amerika Serikat. Setelah berdiri, pusat tersebut diperkirakan menjadi basis lokal bagi pemerintah dan lembaga terkait untuk mengoordinasikan agenda kerja sama. mk.co.kr melaporkan bahwa kerja sama galangan Korea-AS telah resmi berlayar."
-      }
-    }
-  },
-  {
-    "id": "087dab103135",
-    "slug": "단독-정부-쌀-사들일-때-민간-재고량까지-본다-143656",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T14:26:10.810Z",
-    "updatedAt": "2026-05-10T14:26:10.810Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12042729",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042729",
-    "titleFingerprint": "e65f0978809c898d5328680f3f79538a3e3b25ef",
-    "dedupKeys": [
-      "087dab1031357d460c015c0ffc3287e2883aaf5f",
-      "e65f0978809c898d5328680f3f79538a3e3b25ef",
-      "6a663ec0f0dd260c0bd9c0dadb489a5802719322"
-    ],
-    "imageUrl": "/images/articles/087dab103135.jpg",
-    "i18n": {
-      "ko": {
-        "title": "쌀 의무매입 기준 바뀌나…정부, 민간 재고량까지 함께 본다",
-        "excerpt": "정부가 8월 시행되는 개정 양곡관리법에 맞춰 쌀 의무매입 기준을 초과생산량·가격뿐 아니라 민간 재고량까지 반영하는 다층 구조로 검토 중인 것으로 확인됐다.",
-        "body": "정부가 오는 8월 시행되는 개정 양곡관리법에 맞춰 쌀을 의무적으로 사들일 때 적용할 기준을 새로 설계하는 방안을 검토 중인 것으로 확인됐다. 핵심은 단일 수치에 따라 매입 여부를 정하는 방식이 아니라, 여러 지표를 함께 보는 다층 판단 구조다. 기존에는 초과생산량이나 가격 흐름이 주요 판단 기준으로 거론됐지만, 개정 법 시행을 앞두고 민간이 보유한 쌀 재고량까지 함께 살피는 방안이 검토되고 있다. 이는 정부 매입 결정이 시장 수급 상황을 더 넓게 반영하도록 하려는 취지로 해석된다. 다만 구체적인 기준과 적용 방식은 아직 검토 단계다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Rice purchase rules may shift as government weighs private stocks too",
-        "excerpt": "The government is reviewing a multi-layer standard for mandatory rice purchases under the revised Grain Management Act taking effect in August, including private inventories as well as surplus output and prices.",
-        "body": "The government is reviewing a new framework for deciding when it must purchase rice under the revised Grain Management Act, which takes effect in August. The key point is a multi-layer judgment structure rather than a single numerical trigger. Until now, surplus production and price trends have been discussed as major criteria. Ahead of the amended law’s implementation, however, officials are also considering whether to factor in the amount of rice held in private inventories. The approach would allow purchase decisions to reflect broader market supply conditions. Specific thresholds and application methods remain under review. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "コメ義務買い入れ基準に変化か、政府が民間在庫量も判断材料に",
-        "excerpt": "政府は8月施行の改正穀物管理法に合わせ、コメ義務買い入れ基準を過剰生産量や価格だけでなく民間在庫量も反映する多層構造で検討している。",
-        "body": "政府が、8月に施行される改正穀物管理法に合わせ、コメを義務的に買い入れる際の基準を新たに設計する案を検討していることが確認された。焦点は、単一の数値で買い入れの可否を決める方式ではなく、複数の指標を合わせて見る多層的な判断構造だ。従来は過剰生産量や価格動向が主な判断基準として挙げられてきたが、改正法の施行を控え、民間が保有するコメ在庫量まで考慮する案が検討されている。政府の買い入れ判断に市場の需給状況をより広く反映させる狙いとみられる。ただし、具体的な基準や適用方法はまだ検討段階にある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "大米强制收购标准或调整，政府拟纳入民间库存量",
-        "excerpt": "韩国政府正配合8月实施的修订《粮谷管理法》，研究以多层判断结构制定大米强制收购标准，除过剩产量和价格外还将参考民间库存。",
-        "body": "韩国政府被确认正在研究一项新方案，以配合将于8月实施的修订《粮谷管理法》，重新设计政府强制收购大米时适用的标准。核心并非用单一数值决定是否收购，而是同时参考多项指标的多层判断结构。过去，过剩产量或价格走势一直被视为主要判断标准；但在修订法实施前，政府正考虑把民间持有的大米库存量也纳入考量。这一做法被解读为让政府收购决定更广泛反映市场供需状况。不过，具体标准和适用方式仍处于研究阶段。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Compra obligatoria de arroz podría cambiar: gobierno miraría inventarios privados",
-        "excerpt": "El gobierno estudia un estándar de varios niveles para la compra obligatoria de arroz bajo la ley revisada que rige desde agosto, incorporando inventarios privados junto con excedentes y precios.",
-        "body": "El gobierno está revisando una nueva forma de definir cuándo debe comprar arroz de manera obligatoria conforme a la Ley de Gestión de Granos revisada, que entrará en vigor en agosto. El punto central es pasar de un único número de referencia a una estructura de evaluación con varios indicadores. Hasta ahora, el exceso de producción y la evolución de los precios eran los criterios principales mencionados. Antes de la aplicación de la ley modificada, también se analiza incluir la cantidad de arroz en inventarios privados. La medida buscaría que las decisiones de compra reflejen de forma más amplia la situación de oferta y demanda del mercado. Los criterios concretos y su aplicación siguen en revisión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Compra obrigatória de arroz pode mudar com estoques privados no cálculo",
-        "excerpt": "O governo avalia um critério em múltiplas camadas para compras obrigatórias de arroz sob a lei revisada que entra em vigor em agosto, incluindo estoques privados além de excedente e preços.",
-        "body": "O governo está avaliando uma nova estrutura para decidir quando deve comprar arroz obrigatoriamente, em linha com a Lei de Gestão de Grãos revisada, que entra em vigor em agosto. O ponto central é abandonar um gatilho baseado em um único número e adotar uma análise com vários indicadores. Até agora, o excedente de produção e a trajetória dos preços eram citados como critérios principais. Antes da implementação da lei alterada, também está em análise considerar o volume de arroz mantido em estoques privados. A medida permitiria que a decisão de compra refletisse de forma mais ampla as condições de oferta e demanda do mercado. Os critérios específicos e a forma de aplicação ainda estão em estudo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Pflichtkauf von Reis vor Änderung: Regierung prüft auch private Lagerbestände",
-        "excerpt": "Die Regierung prüft für das im August wirksame geänderte Getreideverwaltungsgesetz mehrstufige Kriterien für Pflichtkäufe von Reis, darunter private Bestände neben Überschussmenge und Preisen.",
-        "body": "Die Regierung prüft einen neuen Rahmen für die Frage, wann sie Reis verpflichtend aufkaufen muss. Hintergrund ist das geänderte Getreideverwaltungsgesetz, das im August in Kraft tritt. Im Mittelpunkt steht kein einzelner Zahlenwert als Auslöser, sondern eine mehrstufige Bewertung mit mehreren Indikatoren. Bisher wurden vor allem Überproduktion und Preisentwicklung als maßgebliche Kriterien genannt. Vor der Umsetzung des geänderten Gesetzes wird nun auch erwogen, die Menge an Reis in privaten Lagerbeständen einzubeziehen. Damit könnten staatliche Kaufentscheidungen die Angebots- und Nachfragelage am Markt breiter abbilden. Konkrete Schwellenwerte und Anwendungsregeln befinden sich noch in Prüfung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Achat obligatoire de riz: le gouvernement pourrait intégrer les stocks privés",
-        "excerpt": "Le gouvernement étudie un critère à plusieurs niveaux pour l’achat obligatoire de riz prévu par la loi révisée en août, incluant les stocks privés en plus des excédents et des prix.",
-        "body": "Le gouvernement examine un nouveau cadre pour déterminer quand il devra acheter du riz de manière obligatoire, conformément à la loi révisée sur la gestion des céréales qui entrera en vigueur en août. L’enjeu est de ne pas s’appuyer sur un seul chiffre, mais sur une structure d’évaluation à plusieurs indicateurs. Jusqu’ici, les volumes de surproduction et l’évolution des prix étaient évoqués comme critères majeurs. Avant l’application de la loi amendée, les autorités envisagent aussi de prendre en compte la quantité de riz détenue dans les stocks privés. Cette approche permettrait aux décisions d’achat public de refléter plus largement l’état de l’offre et de la demande sur le marché. Les seuils précis et les modalités restent à l’étude. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "معايير شراء الأرز الإلزامي قد تتغير مع احتساب مخزونات القطاع الخاص",
-        "excerpt": "تدرس الحكومة إطارا متعدد المستويات لمعايير شراء الأرز الإلزامي بموجب قانون إدارة الحبوب المعدل الذي يبدأ في أغسطس، مع إدراج مخزونات القطاع الخاص إلى جانب الفائض والأسعار.",
-        "body": "تراجع الحكومة إطارا جديدا لتحديد متى يجب عليها شراء الأرز إلزاميا بموجب قانون إدارة الحبوب المعدل، المقرر أن يدخل حيز التنفيذ في أغسطس. الفكرة الأساسية هي اعتماد هيكل حكم متعدد المستويات بدلا من رقم واحد يحدد قرار الشراء. حتى الآن، كان فائض الإنتاج واتجاهات الأسعار من أبرز المعايير المطروحة. ومع اقتراب تطبيق القانون المعدل، يجري أيضا بحث إدراج كمية الأرز الموجودة في مخزونات القطاع الخاص ضمن التقييم. ومن شأن ذلك أن يجعل قرارات الشراء الحكومية تعكس وضع العرض والطلب في السوق على نطاق أوسع. أما المعايير التفصيلية وطريقة التطبيق فما زالت قيد الدراسة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चावल अनिवार्य खरीद नियम बदल सकते हैं, निजी भंडार भी देखेगी सरकार",
-        "excerpt": "सरकार अगस्त से लागू संशोधित अनाज प्रबंधन कानून के तहत चावल की अनिवार्य खरीद के लिए बहुस्तरीय मानक पर विचार कर रही है, जिसमें अधिशेष उत्पादन और कीमतों के साथ निजी भंडार भी शामिल होगा।",
-        "body": "सरकार अगस्त में लागू होने वाले संशोधित अनाज प्रबंधन कानून के अनुरूप यह तय करने के लिए नया ढांचा देख रही है कि चावल कब अनिवार्य रूप से खरीदा जाए। मुख्य बात यह है कि फैसला किसी एक संख्या पर आधारित न होकर कई संकेतकों को साथ देखने वाली बहुस्तरीय संरचना पर आधारित हो सकता है। अब तक अधिशेष उत्पादन और कीमतों की दिशा को प्रमुख मानक माना जाता रहा है। लेकिन संशोधित कानून लागू होने से पहले निजी क्षेत्र के पास मौजूद चावल भंडार की मात्रा को भी मानक में शामिल करने पर विचार हो रहा है। इससे सरकारी खरीद निर्णय बाजार की आपूर्ति और मांग की स्थिति को अधिक व्यापक रूप से प्रतिबिंबित कर सकेगा। हालांकि, ठोस सीमा और लागू करने की पद्धति अभी समीक्षा चरण में है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Aturan wajib beli beras bisa berubah, pemerintah ikut lihat stok swasta",
-        "excerpt": "Pemerintah mengkaji standar berlapis untuk pembelian wajib beras sesuai revisi UU Manajemen Gabah yang berlaku Agustus, dengan memasukkan stok swasta selain surplus produksi dan harga.",
-        "body": "Pemerintah diketahui sedang mengkaji rancangan baru untuk menentukan kapan beras harus dibeli secara wajib sesuai revisi UU Manajemen Gabah yang mulai berlaku pada Agustus. Intinya, keputusan tidak hanya bertumpu pada satu angka, melainkan pada struktur penilaian berlapis dengan beberapa indikator. Selama ini, kelebihan produksi dan pergerakan harga disebut sebagai acuan utama. Menjelang penerapan undang-undang revisi tersebut, pemerintah juga mempertimbangkan untuk memasukkan jumlah beras yang tersimpan di stok swasta. Langkah ini akan membuat keputusan pembelian pemerintah lebih luas mencerminkan kondisi pasokan dan permintaan pasar. Namun, standar rinci dan cara penerapannya masih dalam tahap kajian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "979dfdcf885d",
-    "slug": "조경태조배숙박덕흠-야당몫-국회부의장-3파전-404799",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T14:25:10.314Z",
-    "updatedAt": "2026-05-10T14:25:10.314Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042735",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042735",
-    "titleFingerprint": "238f441319a102711710f9f71ebefb4b369c7e6e",
-    "dedupKeys": [
-      "979dfdcf885d80e442a46a9e5d0092e5d5efdb9d",
-      "238f441319a102711710f9f71ebefb4b369c7e6e",
-      "b2b430b673475a405eeb0e3bcbe6d0098b873f71"
-    ],
-    "imageUrl": "/images/articles/979dfdcf885d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "야당 몫 국회부의장 선거, 조경태·조배숙·박덕흠 3파전 확정",
-        "excerpt": "22대 국회 후반기 야당 몫 국회부의장 선거가 국민의힘 조경태·조배숙·박덕흠 의원의 3파전으로 치러지며, 당은 오는 13일 의원총회에서 후보를 선출한다.",
-        "body": "22대 국회 후반기 야당 몫 국회부의장 선거가 국민의힘 조경태·조배숙·박덕흠 의원의 3파전 구도로 치러진다. 국민의힘은 오는 13일 의원총회를 열고 당 몫 국회부의장을 선출할 예정이다. 국회부의장은 국회 운영에서 의장단을 구성하는 핵심 자리로, 후반기 원 구성 과정에서 여야 몫 배분에 따라 선출된다. 이번 선거는 국민의힘 내부 경선 성격으로 진행되며, 세 의원이 경쟁하는 구도가 확정됐다. 결과에 따라 22대 국회 후반기 야당 몫 의장단 구성이 정해질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Opposition Deputy Speaker Race Narrows to Cho Kyung-tae, Cho Bae-sook and Park Deok-heum",
-        "excerpt": "The opposition-held deputy speaker post for the latter half of South Korea’s 22nd National Assembly will be contested by People Power Party lawmakers Cho Kyung-tae, Cho Bae-sook and Park Deok-heum on the 13th.",
-        "body": "The race for the opposition-held deputy speaker position in the latter half of South Korea’s 22nd National Assembly will be a three-way contest among People Power Party lawmakers Cho Kyung-tae, Cho Bae-sook and Park Deok-heum. The People Power Party plans to hold a general meeting of lawmakers on the 13th to select its nominee for the deputy speaker post. The deputy speaker is a key member of the Assembly’s leadership, chosen according to the distribution of posts between the ruling and opposition blocs during the latter-half organization process. This vote will proceed as an internal People Power Party contest, with the three lawmakers now confirmed as contenders. The result will determine the opposition share of the Assembly leadership for the latter half of the 22nd Assembly. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "野党枠の国会副議長選、趙慶泰・趙培淑・朴徳欽氏の三つ巴に",
-        "excerpt": "第22代国会後半期の野党枠国会副議長選は、国民の力の趙慶泰、趙培淑、朴徳欽各議員による三つ巴となり、同党は13日の議員総会で選出する。",
-        "body": "第22代国会後半期の野党枠となる国会副議長選は、国民の力の趙慶泰、趙培淑、朴徳欽各議員による三つ巴の構図で行われる。国民の力は13日に議員総会を開き、同党枠の国会副議長を選出する予定だ。国会副議長は国会運営で議長団を構成する主要ポストで、後半期の院構成の過程で与野党の配分に基づき選ばれる。今回の選挙は国民の力内部の選出手続きとして進み、3人の議員が競う構図が固まった。結果により、第22代国会後半期の野党枠議長団の構成が決まる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "在野党份额国会副议长选举形成赵庆泰、赵培淑、朴德钦三方竞争",
-        "excerpt": "韩国第22届国会后半期在野党份额国会副议长选举，将由国民力量议员赵庆泰、赵培淑、朴德钦三人竞争，党内将于13日举行议员总会选出人选。",
-        "body": "韩国第22届国会后半期在野党份额的国会副议长选举，将以国民力量议员赵庆泰、赵培淑、朴德钦三方竞争的格局进行。国民力量计划于13日召开议员总会，选出该党份额的国会副议长。国会副议长是组成国会议长团、参与国会运作的重要职位，在后半期院构成过程中按照朝野份额分配选出。此次选举将作为国民力量内部竞争程序进行，三名议员参选的格局已经确定。选举结果将决定第22届国会后半期在野党份额议长团的构成。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Vicepresidencia opositora de la Asamblea coreana queda en disputa entre tres legisladores",
-        "excerpt": "La vicepresidencia de la Asamblea Nacional asignada a la oposición en la segunda mitad de la 22.ª legislatura será disputada por Cho Kyung-tae, Cho Bae-sook y Park Deok-heum el día 13.",
-        "body": "La elección para la vicepresidencia de la Asamblea Nacional asignada a la oposición en la segunda mitad de la 22.ª legislatura de Corea del Sur se celebrará como una contienda a tres entre los diputados del Partido del Poder Popular Cho Kyung-tae, Cho Bae-sook y Park Deok-heum. El partido prevé celebrar una reunión general de sus legisladores el día 13 para elegir al titular de su cuota. La vicepresidencia forma parte de la mesa directiva de la Asamblea y se decide según la distribución de cargos entre oficialismo y oposición durante la organización de la segunda mitad del mandato. La votación tendrá carácter interno dentro del partido, con los tres legisladores ya confirmados como contendientes. El resultado definirá la representación opositora en la dirección parlamentaria. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Vice-presidência da oposição na Assembleia sul-coreana terá disputa entre três deputados",
-        "excerpt": "A vice-presidência da Assembleia Nacional reservada à oposição na segunda metade da 22.ª legislatura será disputada por Cho Kyung-tae, Cho Bae-sook e Park Deok-heum no dia 13.",
-        "body": "A eleição para a vice-presidência da Assembleia Nacional reservada à oposição na segunda metade da 22.ª legislatura da Coreia do Sul será uma disputa entre três deputados do Partido do Poder Popular: Cho Kyung-tae, Cho Bae-sook e Park Deok-heum. O partido pretende realizar uma reunião geral de parlamentares no dia 13 para escolher o ocupante de sua cota. A vice-presidência integra a liderança da Assembleia e é definida conforme a divisão de cargos entre governo e oposição no processo de organização da segunda metade da legislatura. A votação ocorrerá como uma disputa interna do Partido do Poder Popular, com os três nomes já confirmados. O resultado definirá a composição da liderança parlamentar destinada à oposição. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Oppositionsposten des Parlamentsvizepräsidenten in Südkorea wird zum Dreikampf",
-        "excerpt": "Der Oppositionsposten des Vizepräsidenten der 22. Nationalversammlung Südkoreas wird in der zweiten Hälfte zwischen Cho Kyung-tae, Cho Bae-sook und Park Deok-heum entschieden.",
-        "body": "Die Wahl um den der Opposition zustehenden Vizepräsidentenposten in der zweiten Hälfte der 22. Nationalversammlung Südkoreas wird als Dreikampf zwischen den Abgeordneten der People Power Party Cho Kyung-tae, Cho Bae-sook und Park Deok-heum ausgetragen. Die People Power Party will am 13. eine Vollversammlung ihrer Abgeordneten abhalten und den Kandidaten für ihren Anteil am Amt wählen. Der Vizepräsident gehört zur Führung der Nationalversammlung und wird im Zuge der Neuordnung für die zweite Hälfte der Legislaturperiode nach der Verteilung zwischen Regierungs- und Oppositionslager bestimmt. Die Abstimmung findet als parteiinterner Wettbewerb statt, bei dem die drei Abgeordneten nun als Bewerber feststehen. Das Ergebnis bestimmt die Besetzung des Oppositionsanteils in der Parlamentsführung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Vice-présidence d’opposition de l’Assemblée sud-coréenne: duel à trois au PPP",
-        "excerpt": "Le poste de vice-président de l’Assemblée nationale réservé à l’opposition pour la seconde moitié de la 22e législature sera disputé par Cho Kyung-tae, Cho Bae-sook et Park Deok-heum le 13.",
-        "body": "L’élection au poste de vice-président de l’Assemblée nationale réservé à l’opposition pour la seconde moitié de la 22e législature sud-coréenne se déroulera entre trois députés du Parti du pouvoir au peuple: Cho Kyung-tae, Cho Bae-sook et Park Deok-heum. Le parti prévoit de tenir une assemblée générale de ses députés le 13 afin de choisir le titulaire de son quota. Le vice-président fait partie de la direction de l’Assemblée et est désigné selon la répartition des postes entre majorité et opposition lors de l’organisation de la seconde moitié de la législature. Ce scrutin prendra la forme d’une compétition interne au parti, les trois parlementaires étant désormais confirmés comme candidats. Le résultat fixera la composition de la direction parlementaire attribuée à l’opposition. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سباق ثلاثي على منصب نائب رئيس البرلمان الكوري المخصص للمعارضة",
-        "excerpt": "منصب نائب رئيس الجمعية الوطنية الكورية المخصص للمعارضة في النصف الثاني من الدورة البرلمانية الثانية والعشرين سيشهد منافسة بين تشو كيونغ-تيه وتشو باي-سوك وبارك ديوك-هيوم في اليوم الثالث عشر.",
-        "body": "ستجري انتخابات منصب نائب رئيس الجمعية الوطنية الكورية المخصص للمعارضة في النصف الثاني من البرلمان الثاني والعشرين على شكل سباق ثلاثي بين نواب حزب قوة الشعب تشو كيونغ-تيه وتشو باي-سوك وبارك ديوك-هيوم. ويعتزم حزب قوة الشعب عقد اجتماع عام لنوابه في اليوم الثالث عشر لاختيار نائب رئيس البرلمان من حصته. ويعد منصب نائب الرئيس جزءا رئيسيا من هيئة رئاسة الجمعية الوطنية، ويتم اختياره وفق توزيع المناصب بين الكتلتين الحاكمة والمعارضة خلال ترتيب النصف الثاني من الدورة. وستكون هذه الانتخابات منافسة داخلية في حزب قوة الشعب، بعدما تأكدت مشاركة النواب الثلاثة. وستحدد النتيجة تشكيل حصة المعارضة في هيئة الرئاسة للنصف الثاني من البرلمان الثاني والعشرين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई संसद के विपक्षी उपाध्यक्ष पद पर चो क्युंग-ते, चो बे-सूक और पार्क देओक-ह्यूम में त्रिकोणीय मुकाबला",
-        "excerpt": "दक्षिण कोरिया की 22वीं नेशनल असेंबली के उत्तरार्ध में विपक्ष के हिस्से वाले उपाध्यक्ष पद के लिए पीपल पावर पार्टी के चो क्युंग-ते, चो बे-सूक और पार्क देओक-ह्यूम 13 तारीख को मुकाबले में होंगे।",
-        "body": "दक्षिण कोरिया की 22वीं नेशनल असेंबली के उत्तरार्ध में विपक्ष के हिस्से वाले उपाध्यक्ष पद का चुनाव पीपल पावर पार्टी के सांसद चो क्युंग-ते, चो बे-सूक और पार्क देओक-ह्यूम के बीच त्रिकोणीय मुकाबले के रूप में होगा। पीपल पावर पार्टी 13 तारीख को सांसदों की आम बैठक बुलाकर अपने हिस्से के उपाध्यक्ष का चयन करने की योजना में है। नेशनल असेंबली का उपाध्यक्ष संसदीय संचालन में अध्यक्ष मंडल का अहम पद है और उत्तरार्ध की संरचना तय करते समय सत्ता पक्ष और विपक्ष के हिस्से के अनुसार चुना जाता है। यह चुनाव पीपल पावर पार्टी की आंतरिक प्रतिस्पर्धा के रूप में होगा, जिसमें तीनों सांसद दावेदार तय हो चुके हैं। परिणाम से 22वीं असेंबली के उत्तरार्ध में विपक्षी हिस्से के अध्यक्ष मंडल की संरचना तय होगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kursi Wakil Ketua Parlemen Jatah Oposisi Korsel Diperebutkan Tiga Legislator",
-        "excerpt": "Pemilihan wakil ketua Majelis Nasional Korea Selatan jatah oposisi untuk paruh kedua parlemen ke-22 akan diikuti Cho Kyung-tae, Cho Bae-sook, dan Park Deok-heum pada tanggal 13.",
-        "body": "Pemilihan wakil ketua Majelis Nasional Korea Selatan jatah oposisi untuk paruh kedua parlemen ke-22 akan berlangsung sebagai persaingan tiga arah antara anggota Partai Kekuatan Rakyat Cho Kyung-tae, Cho Bae-sook, dan Park Deok-heum. Partai Kekuatan Rakyat berencana menggelar rapat umum anggota parlemen pada tanggal 13 untuk memilih wakil ketua parlemen dari jatahnya. Wakil ketua merupakan bagian penting dari pimpinan Majelis Nasional dan dipilih berdasarkan pembagian posisi antara kubu pemerintah dan oposisi dalam proses penyusunan paruh kedua masa parlemen. Pemilihan ini berjalan sebagai kontestasi internal Partai Kekuatan Rakyat, dengan tiga legislator tersebut telah dipastikan bersaing. Hasilnya akan menentukan komposisi pimpinan parlemen jatah oposisi pada paruh kedua Majelis Nasional ke-22. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c704b32e5a21",
-    "slug": "이란-美-협상안에-답변-중재국-파키스탄에-전달-468252",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T14:23:54.339Z",
-    "updatedAt": "2026-05-10T14:23:54.339Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042832",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042832",
-    "titleFingerprint": "29976e0f6b2e6243e24428f4867b860e0b9507c5",
-    "dedupKeys": [
-      "c704b32e5a21bb23fa5903893d8a681454636791",
-      "29976e0f6b2e6243e24428f4867b860e0b9507c5",
-      "271b329833bf41e52dbc699598145038eca1a0c6"
-    ],
-    "imageUrl": "/images/articles/c704b32e5a21.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이란, 미국 종전 협상안 답변 파키스탄에 전달…휴전 국면 새 변수",
-        "excerpt": "이란이 10일 현지시간 미국의 종전 협상안에 대한 답변을 중재국 파키스탄에 전달했다는 보도가 나왔다. 위태로운 휴전 속 협상 흐름에 변화가 주목된다.",
-        "body": "이란이 10일 현지시간 미국의 종전 협상안에 대한 답변을 중재국인 파키스탄 측에 전달했다는 보도가 나왔다. 양국 사이에서는 위태로운 휴전 상태가 이어져 왔고, 이번 답변 전달로 협상이 새로운 국면에 들어설 가능성이 거론된다. 원문은 구체적인 답변 내용이나 미국 측 반응, 향후 회담 일정은 전하지 않았다. 다만 중재국을 통한 공식적인 의사 전달이 확인됐다는 점에서 휴전 유지와 협상 재개 여부가 향후 관전 포인트로 떠올랐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Iran Sends Reply to U.S. Ceasefire Proposal via Pakistan, Talks Enter New Phase",
-        "excerpt": "Iran reportedly delivered its response to a U.S. proposal to end the conflict to mediator Pakistan on May 10 local time, drawing attention to talks amid a fragile ceasefire.",
-        "body": "Iran reportedly delivered its response to a U.S. proposal to end the conflict to Pakistan, the mediator, on May 10 local time. A fragile ceasefire had continued between the two sides, and the move is expected to place negotiations in a new phase. The original report did not provide details of Iran’s response, the U.S. reaction, or any schedule for future talks. Still, the confirmed delivery of a response through a mediator makes the maintenance of the ceasefire and the possible resumption of negotiations key points to watch. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "イラン、米国の終戦交渉案への回答をパキスタンに伝達…協議は新局面へ",
-        "excerpt": "イランが現地時間10日、米国の終戦交渉案への回答を仲介国パキスタンに伝えたと報じられた。危うい停戦が続く中、協議の行方が注目される。",
-        "body": "イランが現地時間10日、米国の終戦交渉案に対する回答を仲介国であるパキスタン側に伝えたと報じられた。両国の間では危うい停戦状態が続いており、今回の回答伝達により交渉が新たな局面に入る可能性が指摘されている。原文は回答の具体的な内容、米国側の反応、今後の協議日程については伝えていない。ただ、仲介国を通じた公式な意思伝達が確認されたことで、停戦維持と交渉再開の可否が今後の焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "伊朗经巴基斯坦转交对美国停战谈判方案的答复，局势或进入新阶段",
-        "excerpt": "据报道，伊朗于当地时间10日把对美国停战谈判方案的答复交给调解国巴基斯坦。在脆弱停火持续之际，谈判走向受到关注。",
-        "body": "据报道，伊朗于当地时间10日把对美国停战谈判方案的答复交给调解国巴基斯坦。两国之间脆弱的停火状态此前一直持续，此次答复转交使谈判可能进入新的阶段。原文未披露答复的具体内容、美国方面的反应，也未提及今后会谈日程。不过，通过调解国进行正式意见传达这一点已被报道，停火能否维持以及谈判是否重启，将成为接下来的关注重点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Irán entrega a Pakistán su respuesta a la propuesta de EE. UU. para poner fin al conflicto",
-        "excerpt": "Irán habría enviado el 10 de mayo, hora local, a Pakistán, país mediador, su respuesta a la propuesta de EE. UU. para terminar el conflicto, en medio de una frágil tregua.",
-        "body": "Irán habría entregado el 10 de mayo, hora local, a Pakistán, país mediador, su respuesta a la propuesta de Estados Unidos para poner fin al conflicto. Entre ambas partes se mantenía una tregua frágil, y este envío podría llevar las negociaciones a una nueva fase. El reporte original no detalló el contenido de la respuesta, la reacción de Estados Unidos ni un calendario para futuras conversaciones. Aun así, la comunicación formal a través del mediador coloca la continuidad de la tregua y la posible reanudación del diálogo como puntos centrales a observar. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Irã entrega ao Paquistão resposta à proposta dos EUA para encerrar conflito",
-        "excerpt": "O Irã teria enviado em 10 de maio, no horário local, ao mediador Paquistão sua resposta à proposta dos EUA para encerrar o conflito, em meio a uma trégua frágil.",
-        "body": "O Irã teria entregue em 10 de maio, no horário local, ao Paquistão, país mediador, sua resposta à proposta dos Estados Unidos para encerrar o conflito. As duas partes vinham mantendo uma trégua frágil, e o envio da resposta pode colocar as negociações em uma nova fase. A reportagem original não informou o conteúdo específico da resposta, a reação dos EUA nem o calendário de futuras conversas. Ainda assim, a confirmação de uma comunicação formal por meio do mediador torna a manutenção da trégua e a possível retomada das negociações pontos centrais de atenção. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Iran übermittelt Pakistan Antwort auf US-Vorschlag zur Beendigung des Konflikts",
-        "excerpt": "Iran hat Berichten zufolge am 10. Mai Ortszeit seine Antwort auf den US-Vorschlag zur Beendigung des Konflikts an Vermittler Pakistan übermittelt.",
-        "body": "Iran hat Berichten zufolge am 10. Mai Ortszeit seine Antwort auf den Vorschlag der USA zur Beendigung des Konflikts an Pakistan als Vermittler übermittelt. Zwischen beiden Seiten hielt bislang ein fragiler Waffenstillstand an, und die Übergabe der Antwort könnte die Verhandlungen in eine neue Phase führen. Der Originalbericht nannte weder konkrete Inhalte der Antwort noch eine Reaktion der USA oder Termine für weitere Gespräche. Dennoch rückt die formelle Kommunikation über den Vermittler die Frage in den Fokus, ob der Waffenstillstand hält und Gespräche wieder aufgenommen werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’Iran remet au Pakistan sa réponse à la proposition américaine de fin de conflit",
-        "excerpt": "L’Iran aurait transmis le 10 mai, heure locale, au Pakistan médiateur sa réponse à la proposition américaine visant à mettre fin au conflit, sur fond de cessez-le-feu fragile.",
-        "body": "L’Iran aurait transmis le 10 mai, heure locale, au Pakistan, pays médiateur, sa réponse à la proposition des États-Unis visant à mettre fin au conflit. Un cessez-le-feu fragile se maintenait entre les deux parties, et cette transmission pourrait faire entrer les négociations dans une nouvelle phase. Le rapport original ne précise pas le contenu de la réponse, la réaction américaine ni le calendrier d’éventuelles discussions à venir. Toutefois, la confirmation d’un message officiel par l’intermédiaire du médiateur place le maintien du cessez-le-feu et une possible reprise des négociations au centre de l’attention. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إيران تسلم باكستان ردها على مقترح أميركي لإنهاء الصراع وسط هدنة هشة",
-        "excerpt": "أفادت تقارير بأن إيران سلمت في 10 مايو بالتوقيت المحلي ردها على مقترح أميركي لإنهاء الصراع إلى باكستان، الدولة الوسيطة، وسط استمرار هدنة هشة.",
-        "body": "أفادت تقارير بأن إيران سلمت في 10 مايو بالتوقيت المحلي ردها على مقترح الولايات المتحدة لإنهاء الصراع إلى باكستان، الدولة الوسيطة. وكانت حالة هدنة هشة مستمرة بين الجانبين، وقد يضع تسليم الرد المفاوضات في مرحلة جديدة. ولم يورد التقرير الأصلي تفاصيل مضمون الرد أو رد فعل الجانب الأميركي أو جدول أي محادثات لاحقة. ومع ذلك، فإن تأكيد نقل موقف رسمي عبر دولة وسيطة يجعل الحفاظ على الهدنة وإمكان استئناف المفاوضات من أبرز النقاط التي ستخضع للمتابعة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ईरान ने अमेरिकी संघर्ष-समापन प्रस्ताव पर जवाब पाकिस्तान को सौंपा",
-        "excerpt": "ईरान ने 10 मई स्थानीय समय पर अमेरिकी संघर्ष-समापन वार्ता प्रस्ताव पर अपना जवाब मध्यस्थ पाकिस्तान को सौंपा, ऐसी रिपोर्ट आई है। नाजुक युद्धविराम के बीच बातचीत पर नजर है।",
-        "body": "ईरान ने 10 मई स्थानीय समय पर अमेरिकी संघर्ष-समापन वार्ता प्रस्ताव पर अपना जवाब मध्यस्थ देश पाकिस्तान को सौंपा, ऐसी रिपोर्ट आई है। दोनों पक्षों के बीच नाजुक युद्धविराम की स्थिति बनी हुई थी, और इस जवाब के सौंपे जाने से वार्ता नए चरण में प्रवेश कर सकती है। मूल रिपोर्ट में जवाब की ठोस सामग्री, अमेरिकी पक्ष की प्रतिक्रिया या आगे की बैठकों का कार्यक्रम नहीं बताया गया। फिर भी मध्यस्थ देश के माध्यम से आधिकारिक रुख पहुंचाए जाने की पुष्टि के बाद युद्धविराम बनाए रखने और वार्ता फिर शुरू होने की संभावना प्रमुख मुद्दे बन गए हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Iran Serahkan Jawaban atas Usulan AS untuk Akhiri Konflik kepada Pakistan",
-        "excerpt": "Iran dilaporkan menyerahkan jawaban atas usulan AS untuk mengakhiri konflik kepada Pakistan sebagai mediator pada 10 Mei waktu setempat, di tengah gencatan senjata yang rapuh.",
-        "body": "Iran dilaporkan menyerahkan jawaban atas usulan Amerika Serikat untuk mengakhiri konflik kepada Pakistan, negara mediator, pada 10 Mei waktu setempat. Kedua pihak selama ini berada dalam kondisi gencatan senjata yang rapuh, dan penyerahan jawaban tersebut dapat membawa negosiasi ke fase baru. Laporan asli tidak memuat rincian isi jawaban, tanggapan pihak AS, atau jadwal pembicaraan berikutnya. Namun, konfirmasi penyampaian sikap resmi melalui mediator membuat keberlanjutan gencatan senjata dan kemungkinan dimulainya kembali negosiasi menjadi perhatian utama. Sumber: mk.co.kr"
       }
     }
   }
