@@ -1,5 +1,230 @@
 [
   {
+    "id": "d52720395c81",
+    "slug": "산업-특화-ai-솔루션사마키나락스-일반-청약-907218",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T20:31:37.217Z",
+    "updatedAt": "2026-05-10T20:31:37.217Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051065971",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051065971",
+    "titleFingerprint": "bf25b14fb3a0c1b941c68cc3b2bafc06c6d774ce",
+    "dedupKeys": [
+      "d52720395c81b17c11ed1a772ccad3daad3d76a7",
+      "bf25b14fb3a0c1b941c68cc3b2bafc06c6d774ce",
+      "a10c7cbed31b2a6fa80b649d47614f9f611191c2"
+    ],
+    "imageUrl": "/images/articles/d52720395c81.png",
+    "i18n": {
+      "ko": {
+        "title": "마키나락스 일반 청약 돌입…산업 특화 AI 솔루션사 코스닥 주목",
+        "excerpt": "산업 특화 AI 솔루션 기업 마키나락스가 한국경제 5월 11일 지면에서 일반 청약 기업으로 소개되며 코스닥 상장 절차와 성장 전략이 주목받고 있다.",
+        "body": "산업 특화 인공지능(AI) 솔루션 기업 마키나락스가 일반 투자자 대상 청약에 나선다. 한국경제는 5월 11일 지면 ‘위클리 마켓’에서 마키나락스의 일반 청약 소식을 전했다. 마키나락스는 2017년 설립된 기업으로 반도체, 자동차 등 제조업과 국방 분야에 특화된 AI 솔루션을 공급한다. 핵심 제품은 엔터프라이즈 AI 운영체제(OS) ‘런웨이’로, 네트워크가 단절된 폐쇄망 환경에서도 개발·배포·운영 전 주기를 통합 관리하는 플랫폼이다. 회사는 코스닥 상장 이후 산업 현장의 피지컬 AI 수요를 기반으로 성장 전략을 제시했다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "MakinaRocks Public Subscription Opens as Industrial AI IPO Draws Attention",
+        "excerpt": "MakinaRocks, an industrial AI solutions company, was featured in The Korea Economic Daily’s May 11 market section as it proceeds with a public subscription tied to its Kosdaq listing process.",
+        "body": "MakinaRocks, a company specializing in industrial artificial intelligence solutions, is moving ahead with a public subscription for retail investors. The Korea Economic Daily reported the subscription in its May 11 “Weekly Market” section. Founded in 2017, MakinaRocks supplies AI solutions tailored to manufacturing sectors such as semiconductors and automobiles, as well as defense. Its core product is “Runway,” an enterprise AI operating system that manages the full cycle of development, deployment and operation even in closed network environments. After its Kosdaq listing, the company has presented a growth strategy based on demand for physical AI in industrial sites. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "マキナロックス一般公募へ、産業特化AIソリューション企業に注目",
+        "excerpt": "産業特化AIソリューション企業のマキナロックスが、韓国経済新聞の5月11日紙面で一般公募銘柄として紹介され、KOSDAQ上場手続きが注目されている。",
+        "body": "産業特化型人工知能（AI）ソリューション企業のマキナロックスが、一般投資家向けの公募手続きに入る。韓国経済新聞は5月11日付紙面の「ウィークリーマーケット」で同社の一般公募を伝えた。マキナロックスは2017年設立の企業で、半導体や自動車などの製造業、国防分野に特化したAIソリューションを提供している。中核製品はエンタープライズAI OS「Runway」で、ネットワークが遮断された閉域環境でも開発、配備、運用の全周期を統合管理できる。KOSDAQ上場後は産業現場のフィジカルAI需要を基盤に成長戦略を示している。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "MakinaRocks启动公众认购，产业特化AI方案商受关注",
+        "excerpt": "产业特化AI解决方案企业MakinaRocks被《韩国经济新闻》5月11日版面列为公众认购企业，其KOSDAQ上市进程和增长战略受到关注。",
+        "body": "产业特化人工智能（AI）解决方案企业MakinaRocks将面向普通投资者进行公众认购。《韩国经济新闻》在5月11日“Weekly Market”版面报道了该公司的公众认购消息。MakinaRocks成立于2017年，向半导体、汽车等制造业以及国防领域提供专用AI解决方案。其核心产品是企业级AI操作系统“Runway”，即使在网络隔离的封闭环境中，也能统一管理开发、部署和运营全周期。公司在推进KOSDAQ上市后，提出了以产业现场Physical AI需求为基础的增长战略。来源: hankyung.com."
+      },
+      "es": {
+        "title": "MakinaRocks abre suscripción pública y enfoca el interés del IPO de IA industrial",
+        "excerpt": "MakinaRocks, firma de soluciones de IA especializada por industria, fue presentada por The Korea Economic Daily el 11 de mayo como empresa en suscripción pública rumbo al Kosdaq.",
+        "body": "MakinaRocks, empresa de soluciones de inteligencia artificial especializadas para la industria, avanza con una suscripción pública dirigida a inversionistas minoristas. The Korea Economic Daily informó la noticia en su sección “Weekly Market” del 11 de mayo. Fundada en 2017, MakinaRocks suministra soluciones de IA para sectores manufactureros como semiconductores y automóviles, además del área de defensa. Su producto central es “Runway”, un sistema operativo de IA empresarial que integra el ciclo completo de desarrollo, despliegue y operación incluso en redes cerradas. Tras su salida al Kosdaq, la compañía plantea una estrategia de crecimiento basada en la demanda de IA física en plantas industriales. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "MakinaRocks inicia subscrição pública e atrai atenção no IPO de IA industrial",
+        "excerpt": "A MakinaRocks, empresa de soluções de IA especializadas por setor, foi destacada pelo The Korea Economic Daily em 11 de maio ao avançar na subscrição pública ligada ao Kosdaq.",
+        "body": "A MakinaRocks, empresa de soluções de inteligência artificial voltadas à indústria, está avançando com uma subscrição pública para investidores de varejo. O The Korea Economic Daily noticiou o movimento na seção “Weekly Market” de 11 de maio. Fundada em 2017, a MakinaRocks fornece soluções de IA para manufatura, incluindo semicondutores e automóveis, além do setor de defesa. Seu principal produto é o “Runway”, um sistema operacional de IA empresarial que gerencia desenvolvimento, implantação e operação mesmo em ambientes de rede fechada. Após a listagem no Kosdaq, a empresa apresenta uma estratégia de crescimento apoiada na demanda por IA física em ambientes industriais. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "MakinaRocks startet öffentliche Zeichnung, Industrie-KI-IPO rückt in den Fokus",
+        "excerpt": "MakinaRocks, ein Anbieter spezialisierter Industrie-KI-Lösungen, wurde in der Ausgabe von The Korea Economic Daily vom 11. Mai als Unternehmen mit öffentlicher Zeichnung vorgestellt.",
+        "body": "MakinaRocks, ein Anbieter von auf Industrieanwendungen spezialisierten KI-Lösungen, geht mit einer öffentlichen Zeichnung für Privatanleger voran. The Korea Economic Daily berichtete darüber am 11. Mai in der Rubrik „Weekly Market“. Das 2017 gegründete Unternehmen liefert KI-Lösungen für Fertigungsbereiche wie Halbleiter und Automobile sowie für den Verteidigungssektor. Kernprodukt ist „Runway“, ein Enterprise-KI-Betriebssystem, das Entwicklung, Bereitstellung und Betrieb auch in abgeschotteten Netzwerkumgebungen über den gesamten Zyklus integriert verwaltet. Nach der Kosdaq-Notierung will das Unternehmen seine Wachstumsstrategie auf die Nachfrage nach Physical AI in Industrieanlagen stützen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "MakinaRocks lance sa souscription publique, l’IA industrielle attire l’attention",
+        "excerpt": "MakinaRocks, spécialiste des solutions d’IA pour l’industrie, a été présenté par The Korea Economic Daily le 11 mai comme une société en souscription publique liée au Kosdaq.",
+        "body": "MakinaRocks, société spécialisée dans les solutions d’intelligence artificielle pour l’industrie, avance dans sa souscription publique destinée aux investisseurs particuliers. The Korea Economic Daily a rapporté cette information dans sa rubrique « Weekly Market » du 11 mai. Fondée en 2017, MakinaRocks fournit des solutions d’IA adaptées aux secteurs manufacturiers comme les semi-conducteurs et l’automobile, ainsi qu’à la défense. Son produit clé est « Runway », un système d’exploitation d’IA d’entreprise qui gère de façon intégrée le développement, le déploiement et l’exploitation, même dans des réseaux fermés. Après son introduction au Kosdaq, l’entreprise met en avant une stratégie fondée sur la demande d’IA physique dans les sites industriels. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "ماكينا روكس تبدأ الاكتتاب العام وسط اهتمام بحلول الذكاء الاصطناعي الصناعي",
+        "excerpt": "سلطت صحيفة كوريا الاقتصادية في عدد 11 مايو الضوء على ماكينا روكس، شركة حلول الذكاء الاصطناعي المتخصصة للصناعة، مع تقدمها في الاكتتاب العام المرتبط بكوسداك.",
+        "body": "تتجه شركة ماكينا روكس، المتخصصة في حلول الذكاء الاصطناعي الصناعية، إلى الاكتتاب العام للمستثمرين الأفراد. وذكرت صحيفة كوريا الاقتصادية الخبر في قسم «ويكلي ماركت» بتاريخ 11 مايو. تأسست ماكينا روكس في عام 2017، وتوفر حلول ذكاء اصطناعي موجهة لقطاعات التصنيع مثل أشباه الموصلات والسيارات، إضافة إلى قطاع الدفاع. منتجها الرئيسي هو «Runway»، وهو نظام تشغيل للذكاء الاصطناعي المؤسسي يدير دورة التطوير والنشر والتشغيل بشكل متكامل حتى في بيئات الشبكات المغلقة. وبعد إدراجها في كوسداك، تعرض الشركة استراتيجية نمو تستند إلى الطلب على الذكاء الاصطناعي الفيزيائي في المواقع الصناعية. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "MakinaRocks का सार्वजनिक सब्सक्रिप्शन शुरू, औद्योगिक AI IPO पर ध्यान",
+        "excerpt": "औद्योगिक क्षेत्र के लिए AI समाधान देने वाली MakinaRocks को The Korea Economic Daily ने 11 मई के बाजार पृष्ठ में सार्वजनिक सब्सक्रिप्शन वाली कंपनी के रूप में पेश किया।",
+        "body": "औद्योगिक कृत्रिम बुद्धिमत्ता समाधान कंपनी MakinaRocks खुदरा निवेशकों के लिए सार्वजनिक सब्सक्रिप्शन प्रक्रिया आगे बढ़ा रही है। The Korea Economic Daily ने 11 मई के “Weekly Market” खंड में इसकी जानकारी दी। 2017 में स्थापित MakinaRocks सेमीकंडक्टर और ऑटोमोबाइल जैसे विनिर्माण क्षेत्रों तथा रक्षा क्षेत्र के लिए विशेष AI समाधान प्रदान करती है। इसका मुख्य उत्पाद “Runway” है, जो एक एंटरप्राइज AI ऑपरेटिंग सिस्टम है और बंद नेटवर्क वातावरण में भी विकास, तैनाती और संचालन के पूरे चक्र को एकीकृत रूप से प्रबंधित करता है। Kosdaq सूचीबद्धता के बाद कंपनी औद्योगिक स्थलों में फिजिकल AI मांग के आधार पर वृद्धि रणनीति पेश कर रही है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "MakinaRocks Masuk Masa Penawaran Umum, IPO AI Industri Jadi Sorotan",
+        "excerpt": "MakinaRocks, perusahaan solusi AI khusus industri, disorot The Korea Economic Daily edisi 11 Mei saat menjalani penawaran umum terkait proses pencatatan di Kosdaq.",
+        "body": "MakinaRocks, perusahaan solusi kecerdasan buatan khusus industri, melanjutkan penawaran umum untuk investor ritel. The Korea Economic Daily melaporkan kabar ini dalam rubrik “Weekly Market” edisi 11 Mei. Didirikan pada 2017, MakinaRocks menyediakan solusi AI untuk sektor manufaktur seperti semikonduktor dan otomotif, serta bidang pertahanan. Produk utamanya adalah “Runway”, sistem operasi AI enterprise yang mengelola seluruh siklus pengembangan, penerapan, dan operasi bahkan di lingkungan jaringan tertutup. Setelah pencatatan di Kosdaq, perusahaan memaparkan strategi pertumbuhan berbasis permintaan physical AI di lokasi industri. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "76d7732d88c9",
+    "slug": "단독-현대차그룹-로봇-軍-최전방-투입-666439",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T20:30:19.163Z",
+    "updatedAt": "2026-05-10T20:30:19.163Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051066751",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051066751",
+    "titleFingerprint": "20dca9306cfd62cda91b62c235c3b1ea50d5915d",
+    "dedupKeys": [
+      "76d7732d88c9d74262e70ed57dbd7ae7c83165d1",
+      "20dca9306cfd62cda91b62c235c3b1ea50d5915d",
+      "12b52818b6fbeb447b0d6b662abf280fe1323e98"
+    ],
+    "imageUrl": "/images/articles/76d7732d88c9.png",
+    "i18n": {
+      "ko": {
+        "title": "현대차그룹 로봇, 군 최전방 투입 단독 보도…방산 활용 주목",
+        "excerpt": "한국경제 단독 보도에 따르면 현대차그룹 로봇이 군 최전방에 투입된다. 로봇 기술의 국방 현장 적용이 확인되며 향후 활용 범위에 관심이 쏠린다.",
+        "body": "한국경제(hankyung.com) 단독 보도에 따르면 현대차그룹 로봇이 군 최전방에 투입된다. 이번 보도는 현대차그룹의 로봇 기술이 군 현장, 특히 최전방 영역에서 활용된다는 점을 핵심으로 한다. 원문에는 별도 요약이나 세부 수치가 제시되지 않았으나, 자동차·로봇 기술을 보유한 현대차그룹의 장비가 국방 분야에 적용된다는 사실 자체가 주목된다. 로봇 투입은 군 작전 환경에서 기술 활용의 폭을 넓히는 사례로 해석될 수 있다. 다만 구체적인 투입 규모, 시기, 운용 방식은 원문 정보만으로 확인되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Hyundai Motor Group Robots Set for Frontline Military Deployment, Report Says",
+        "excerpt": "According to an exclusive Hankyung report, Hyundai Motor Group robots will be deployed to frontline military areas, highlighting defense use of robotics technology.",
+        "body": "According to an exclusive report by Hankyung.com, robots from Hyundai Motor Group will be deployed to frontline military areas. The report centers on the use of Hyundai Motor Group’s robotics technology in military settings, particularly at the front line. The original text does not provide a separate summary or detailed figures, but the fact that equipment from a group with automotive and robotics capabilities is being applied in defense is notable. The deployment may be viewed as an example of broader technology use in military operations. However, the original information does not confirm the scale, timing, or operating method of the deployment. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "現代自動車グループのロボット、軍最前線投入へ 独自報道",
+        "excerpt": "韓国経済新聞の独自報道によると、現代自動車グループのロボットが軍の最前線に投入される。ロボット技術の国防現場での活用が注目される。",
+        "body": "韓国経済新聞（hankyung.com）の独自報道によると、現代自動車グループのロボットが軍の最前線に投入される。今回の報道は、同グループのロボット技術が軍の現場、とりわけ最前線の領域で活用される点を核心としている。原文には別途の要約や詳細な数値は示されていないが、自動車とロボット技術を持つ同グループの装備が国防分野に適用される事実自体が注目される。ロボット投入は、軍の作戦環境で技術活用の幅を広げる事例と解釈できる。ただし、具体的な投入規模、時期、運用方式は原文情報だけでは確認されていない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "现代汽车集团机器人将投入军方最前线，独家报道引关注",
+        "excerpt": "据韩国经济新闻独家报道，现代汽车集团机器人将被投入军方最前线。机器人技术在国防现场的应用因此受到关注。",
+        "body": "据韩国经济新闻（hankyung.com）独家报道，现代汽车集团机器人将被投入军方最前线。该报道的核心在于，现代汽车集团的机器人技术将在军事现场，尤其是最前线区域得到应用。原文未提供单独摘要或详细数据，但拥有汽车与机器人技术的现代汽车集团相关装备被用于国防领域，这一事实本身值得关注。机器人投入可被视为军事作战环境中扩大技术应用范围的案例。不过，具体投入规模、时间和运用方式，仅凭原文信息尚无法确认。来源：hankyung.com"
+      },
+      "es": {
+        "title": "Robots de Hyundai Motor Group irán al frente militar, según exclusiva",
+        "excerpt": "Según una exclusiva de Hankyung, robots de Hyundai Motor Group serán desplegados en la primera línea militar, lo que destaca el uso defensivo de su tecnología robótica.",
+        "body": "Según una exclusiva de Hankyung.com, robots de Hyundai Motor Group serán desplegados en zonas militares de primera línea. El punto central del reporte es que la tecnología robótica del grupo se utilizará en el terreno militar, especialmente en áreas del frente. El texto original no ofrece un resumen separado ni cifras detalladas, pero resulta relevante que equipos de un grupo con capacidades automotrices y robóticas se apliquen al sector de defensa. El despliegue puede interpretarse como un caso de ampliación del uso tecnológico en operaciones militares. Sin embargo, la información original no confirma escala, calendario ni forma de operación. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Robôs do Hyundai Motor Group serão enviados à linha de frente militar",
+        "excerpt": "Segundo reportagem exclusiva do Hankyung, robôs do Hyundai Motor Group serão empregados na linha de frente militar, destacando a aplicação de robótica na defesa.",
+        "body": "Segundo reportagem exclusiva do Hankyung.com, robôs do Hyundai Motor Group serão empregados em áreas militares de linha de frente. A notícia destaca o uso da tecnologia robótica do grupo no ambiente militar, especialmente na linha de frente. O texto original não apresenta resumo separado nem números detalhados, mas é relevante o fato de equipamentos de um grupo com capacidades automotivas e robóticas serem aplicados ao setor de defesa. A entrada dos robôs pode ser vista como um exemplo de ampliação do uso de tecnologia em operações militares. Contudo, a informação original não confirma escala, prazo ou método de operação. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hyundai-Motor-Group-Roboter sollen an Militärfront eingesetzt werden",
+        "excerpt": "Laut einem exklusiven Bericht von Hankyung werden Roboter der Hyundai Motor Group an militärischen Frontlinien eingesetzt und rücken den Verteidigungseinsatz von Robotik in den Fokus.",
+        "body": "Laut einem exklusiven Bericht von Hankyung.com werden Roboter der Hyundai Motor Group in militärischen Frontbereichen eingesetzt. Im Kern geht es darum, dass die Robotiktechnologie des Konzerns im militärischen Umfeld, insbesondere an der Frontlinie, genutzt wird. Der Originaltext enthält keine gesonderte Zusammenfassung und keine detaillierten Zahlen. Dennoch ist bemerkenswert, dass Ausrüstung eines Konzerns mit Auto- und Robotikkompetenz im Verteidigungsbereich Anwendung findet. Der Einsatz der Roboter kann als Beispiel für eine breitere Nutzung von Technologie in militärischen Operationen gesehen werden. Konkrete Angaben zu Umfang, Zeitpunkt oder Betriebsweise bestätigt der Originaltext jedoch nicht. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Des robots de Hyundai Motor Group déployés sur le front militaire",
+        "excerpt": "Selon une information exclusive de Hankyung, des robots de Hyundai Motor Group seront déployés sur la ligne de front militaire, illustrant l’usage de la robotique dans la défense.",
+        "body": "Selon une information exclusive de Hankyung.com, des robots de Hyundai Motor Group seront déployés dans des zones militaires de première ligne. Le point central du reportage est l’utilisation de la technologie robotique du groupe sur le terrain militaire, en particulier au front. Le texte original ne fournit ni résumé séparé ni chiffres détaillés, mais l’application à la défense d’équipements issus d’un groupe doté de capacités automobiles et robotiques retient l’attention. Ce déploiement peut être vu comme un exemple d’élargissement de l’usage des technologies dans les opérations militaires. Toutefois, les informations originales ne confirment pas l’ampleur, le calendrier ni le mode d’exploitation. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "روبوتات هيونداي موتور غروب تتجه إلى الخطوط العسكرية الأمامية",
+        "excerpt": "وفق تقرير حصري لهانكيونغ، ستُستخدم روبوتات هيونداي موتور غروب في الخطوط العسكرية الأمامية، ما يسلط الضوء على تطبيقات الروبوتات في الدفاع.",
+        "body": "وفق تقرير حصري نشره موقع Hankyung.com، ستُستخدم روبوتات تابعة لـ Hyundai Motor Group في مناطق عسكرية أمامية. يركز التقرير على أن تقنية الروبوتات لدى المجموعة ستُطبق في الميدان العسكري، ولا سيما في مناطق الخطوط الأمامية. لا يقدم النص الأصلي ملخصا منفصلا أو أرقاما تفصيلية، لكن استخدام معدات من مجموعة تمتلك قدرات في السيارات والروبوتات داخل مجال الدفاع يعد أمرا لافتا. ويمكن النظر إلى إدخال الروبوتات بوصفه مثالا على توسيع نطاق استخدام التقنية في بيئات العمليات العسكرية. ومع ذلك، لا تؤكد معلومات النص الأصلي حجم النشر أو توقيته أو طريقة التشغيل. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Hyundai Motor Group के रोबोट सैन्य अग्रिम मोर्चे पर तैनात होंगे",
+        "excerpt": "Hankyung की विशेष रिपोर्ट के अनुसार Hyundai Motor Group के रोबोट सैन्य अग्रिम मोर्चे पर लगाए जाएंगे, जिससे रक्षा क्षेत्र में रोबोट तकनीक के उपयोग पर ध्यान गया है।",
+        "body": "Hankyung.com की विशेष रिपोर्ट के अनुसार Hyundai Motor Group के रोबोट सैन्य अग्रिम मोर्चे वाले क्षेत्रों में तैनात किए जाएंगे। रिपोर्ट का मुख्य बिंदु यह है कि समूह की रोबोट तकनीक सैन्य स्थल पर, खासकर अग्रिम मोर्चे में, उपयोग की जाएगी। मूल पाठ में अलग सारांश या विस्तृत आंकड़े नहीं दिए गए हैं, लेकिन ऑटोमोबाइल और रोबोट तकनीक वाली कंपनी के उपकरणों का रक्षा क्षेत्र में लागू होना अपने आप में ध्यान देने योग्य है। रोबोट की तैनाती को सैन्य संचालन वातावरण में तकनीक के उपयोग का दायरा बढ़ाने के उदाहरण के रूप में देखा जा सकता है। हालांकि, मूल जानकारी से तैनाती का पैमाना, समय या संचालन पद्धति पुष्टि नहीं होती। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Robot Hyundai Motor Group Akan Dikerahkan ke Garis Depan Militer",
+        "excerpt": "Menurut laporan eksklusif Hankyung, robot Hyundai Motor Group akan dikerahkan ke garis depan militer, menyoroti penerapan teknologi robotik di bidang pertahanan.",
+        "body": "Menurut laporan eksklusif Hankyung.com, robot Hyundai Motor Group akan dikerahkan ke wilayah garis depan militer. Pokok laporan ini adalah pemanfaatan teknologi robotik Hyundai Motor Group di lapangan militer, khususnya area garis depan. Teks asli tidak memuat ringkasan terpisah atau angka rinci, tetapi fakta bahwa peralatan dari grup dengan kemampuan otomotif dan robotik diterapkan di bidang pertahanan menjadi perhatian. Pengerahan robot dapat dilihat sebagai contoh perluasan penggunaan teknologi dalam lingkungan operasi militer. Namun, informasi asli belum mengonfirmasi skala, waktu, maupun cara pengoperasiannya. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "913742dc67fc",
+    "slug": "백악관-트럼프-방중서-미중투자위-설립이란-문제도-논의-929184",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T20:29:23.314Z",
+    "updatedAt": "2026-05-10T20:29:23.314Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042839",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042839",
+    "titleFingerprint": "d1f4537d6ac02211df3eb70dac2c3ca91d9be382",
+    "dedupKeys": [
+      "913742dc67fc129c8c43055d0b8b0326e6c2f1f9",
+      "d1f4537d6ac02211df3eb70dac2c3ca91d9be382",
+      "3b45b8e61687882ad09625274385983cc7c886fb"
+    ],
+    "imageUrl": "/images/articles/913742dc67fc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "백악관, 트럼프 방중서 미중투자위 설립 발표…이란 문제도 정상회담 의제로",
+        "excerpt": "백악관은 트럼프 미국 대통령과 시진핑 중국 국가주석이 14일 오전 베이징 정상회담에서 미중투자위 설립과 이란 문제를 논의한다고 밝혔다.",
+        "body": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 중국 현지시간 14일 오전 베이징에서 정상회담을 진행한다. 백악관은 이번 방중 일정에서 미중투자위원회 설립이 발표되고, 이란 문제도 의제로 다뤄질 예정이라고 밝혔다. 원문에 따르면 무역위원회는 양국 무역을 관리하는 구조가 될 것으로 보이며, 투자위원회는 관련 현안을 논의하는 포럼 성격을 띨 전망이다. 이번 회담은 미중 간 무역 관리와 투자 현안 조율의 틀을 마련하는 계기로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "White House says Trump China visit to launch U.S.-China investment panel and discuss Iran",
+        "excerpt": "The White House said President Donald Trump and President Xi Jinping will meet in Beijing on the morning of the 14th to discuss a U.S.-China investment panel and Iran.",
+        "body": "U.S. President Donald Trump and Chinese President Xi Jinping will hold a summit in Beijing on the morning of the 14th, China local time. The White House said the visit will include the establishment of a U.S.-China investment committee, while Iran will also be discussed as an agenda item. According to the original report, a trade committee is expected to serve as a structure for managing bilateral trade, and the investment committee is expected to function as a forum for related issues. The meeting is drawing attention as a step toward setting up a framework for U.S.-China trade management and investment coordination. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ホワイトハウス、トランプ氏訪中で米中投資委設立へ…イラン問題も協議",
+        "excerpt": "ホワイトハウスは、トランプ米大統領と習近平中国国家主席が14日午前に北京で会談し、米中投資委設立とイラン問題を協議すると明らかにした。",
+        "body": "ドナルド・トランプ米大統領と習近平中国国家主席は、中国現地時間14日午前、北京で首脳会談を行う。ホワイトハウスは今回の訪中日程で米中投資委員会の設立が発表され、イラン問題も議題として扱われる予定だと明らかにした。原文によると、貿易委員会は両国の貿易を管理する仕組みになる見通しで、投資委員会は関連懸案を協議するフォーラムの性格を持つとみられる。今回の会談は、米中間の貿易管理と投資懸案の調整枠組みを整える契機として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "白宫称特朗普访华将设美中投资委员会，伊朗问题也列入会谈议题",
+        "excerpt": "白宫表示，美国总统特朗普与中国国家主席习近平将于14日上午在北京举行会谈，讨论设立美中投资委员会及伊朗问题。",
+        "body": "美国总统唐纳德·特朗普与中国国家主席习近平将于中国当地时间14日上午在北京举行首脑会谈。白宫表示，此次访华行程中将宣布设立美中投资委员会，伊朗问题也将作为议题进行讨论。根据原文，贸易委员会预计将成为管理两国贸易的结构，投资委员会则预计具有讨论相关事项的论坛性质。此次会谈因可能为美中贸易管理和投资议题协调搭建框架而受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La Casa Blanca anuncia comité de inversión EE.UU.-China en visita de Trump y diálogo sobre Irán",
+        "excerpt": "La Casa Blanca dijo que Donald Trump y Xi Jinping se reunirán la mañana del día 14 en Pekín para tratar un comité de inversión EE.UU.-China y el tema de Irán.",
+        "body": "El presidente estadounidense Donald Trump y el presidente chino Xi Jinping celebrarán una cumbre en Pekín la mañana del día 14, hora local de China. La Casa Blanca señaló que durante la visita se anunciará la creación de un comité de inversión entre Estados Unidos y China, y que el tema de Irán también estará en la agenda. Según el informe original, el comité de comercio se perfila como una estructura para gestionar el comercio bilateral, mientras que el comité de inversión tendría el carácter de foro para discutir asuntos relacionados. La reunión atrae atención como paso para fijar un marco de gestión comercial y coordinación de inversiones entre ambos países. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Casa Branca anuncia comitê de investimento EUA-China na visita de Trump e debate sobre Irã",
+        "excerpt": "A Casa Branca disse que Donald Trump e Xi Jinping se reunirão na manhã do dia 14 em Pequim para discutir um comitê de investimento EUA-China e a questão do Irã.",
+        "body": "O presidente dos Estados Unidos, Donald Trump, e o presidente da China, Xi Jinping, realizarão uma cúpula em Pequim na manhã do dia 14, no horário local chinês. A Casa Branca afirmou que a visita incluirá o anúncio da criação de um comitê de investimento entre EUA e China, e que a questão do Irã também será tratada como pauta. Segundo o texto original, o comitê de comércio deve funcionar como uma estrutura para administrar o comércio bilateral, enquanto o comitê de investimento deve ter caráter de fórum para discutir temas relacionados. A reunião chama atenção por criar um possível marco de gestão comercial e coordenação de investimentos entre os dois países. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Weißes Haus: Trumps China-Besuch bringt US-China-Investitionsausschuss und Iran-Gespräche",
+        "excerpt": "Das Weiße Haus teilte mit, Donald Trump und Xi Jinping würden am Morgen des 14. in Peking über einen US-China-Investitionsausschuss und Iran sprechen.",
+        "body": "US-Präsident Donald Trump und Chinas Staatspräsident Xi Jinping werden am Morgen des 14. nach chinesischer Ortszeit in Peking ein Gipfeltreffen abhalten. Das Weiße Haus erklärte, bei dem China-Besuch werde die Einrichtung eines US-chinesischen Investitionsausschusses angekündigt; auch die Iran-Frage solle auf der Tagesordnung stehen. Dem Originalbericht zufolge dürfte ein Handelsausschuss als Struktur zur Verwaltung des bilateralen Handels dienen, während der Investitionsausschuss den Charakter eines Forums für einschlägige Fragen haben soll. Das Treffen wird als Schritt zur Schaffung eines Rahmens für Handelsmanagement und Investitionsabstimmung zwischen den USA und China beachtet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La Maison-Blanche annonce un comité d’investissement États-Unis-Chine lors de la visite de Trump",
+        "excerpt": "La Maison-Blanche a indiqué que Donald Trump et Xi Jinping se réuniront le matin du 14 à Pékin pour discuter d’un comité d’investissement États-Unis-Chine et de l’Iran.",
+        "body": "Le président américain Donald Trump et le président chinois Xi Jinping tiendront un sommet à Pékin le matin du 14, heure locale chinoise. La Maison-Blanche a indiqué que cette visite en Chine donnera lieu à l’annonce de la création d’un comité d’investissement États-Unis-Chine, tandis que la question iranienne figurera aussi à l’ordre du jour. Selon le texte original, un comité commercial devrait servir de structure de gestion du commerce bilatéral, et le comité d’investissement devrait fonctionner comme un forum de discussion sur les questions liées. Cette rencontre retient l’attention comme une étape vers un cadre de gestion commerciale et de coordination des investissements entre les deux pays. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "البيت الأبيض: زيارة ترامب للصين ستشهد إنشاء لجنة استثمار أميركية صينية وبحث إيران",
+        "excerpt": "قال البيت الأبيض إن دونالد ترامب وشي جين بينغ سيعقدان قمة في بكين صباح يوم 14 لبحث إنشاء لجنة استثمار أميركية صينية وقضية إيران.",
+        "body": "سيعقد الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ قمة في بكين صباح يوم 14 بالتوقيت المحلي الصيني. وقال البيت الأبيض إن برنامج الزيارة إلى الصين سيتضمن إعلان إنشاء لجنة استثمار أميركية صينية، كما ستُطرح قضية إيران على جدول الأعمال. ووفق النص الأصلي، من المتوقع أن تكون لجنة التجارة هيكلا لإدارة التجارة بين البلدين، بينما ستكون لجنة الاستثمار أقرب إلى منتدى لمناقشة القضايا ذات الصلة. وتلفت القمة الانتباه بوصفها خطوة نحو وضع إطار لإدارة التجارة وتنسيق قضايا الاستثمار بين الولايات المتحدة والصين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "व्हाइट हाउस: ट्रंप की चीन यात्रा में अमेरिका-चीन निवेश समिति बनेगी, ईरान पर भी चर्चा",
+        "excerpt": "व्हाइट हाउस ने कहा कि डोनाल्ड ट्रंप और शी जिनपिंग 14 तारीख की सुबह बीजिंग में शिखर वार्ता करेंगे, जिसमें अमेरिका-चीन निवेश समिति और ईरान मुद्दा शामिल होगा।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग चीन के स्थानीय समयानुसार 14 तारीख की सुबह बीजिंग में शिखर वार्ता करेंगे। व्हाइट हाउस ने कहा कि इस चीन यात्रा के दौरान अमेरिका-चीन निवेश समिति की स्थापना की घोषणा होगी और ईरान मुद्दे पर भी चर्चा की जाएगी। मूल रिपोर्ट के अनुसार, व्यापार समिति दोनों देशों के व्यापार को प्रबंधित करने वाली संरचना बन सकती है, जबकि निवेश समिति संबंधित मुद्दों पर चर्चा के लिए एक मंच जैसी भूमिका निभा सकती है। यह बैठक अमेरिका-चीन व्यापार प्रबंधन और निवेश मुद्दों के समन्वय के लिए ढांचा बनाने के अवसर के रूप में देखी जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Gedung Putih: Kunjungan Trump ke China bentuk komite investasi AS-China dan bahas Iran",
+        "excerpt": "Gedung Putih menyatakan Donald Trump dan Xi Jinping akan bertemu di Beijing pada pagi tanggal 14 untuk membahas komite investasi AS-China dan isu Iran.",
+        "body": "Presiden Amerika Serikat Donald Trump dan Presiden China Xi Jinping akan menggelar pertemuan puncak di Beijing pada pagi tanggal 14 waktu setempat China. Gedung Putih menyatakan bahwa dalam kunjungan ke China ini akan diumumkan pembentukan komite investasi AS-China, sementara isu Iran juga akan dibahas sebagai agenda. Menurut laporan asli, komite perdagangan diperkirakan menjadi struktur untuk mengelola perdagangan kedua negara, sedangkan komite investasi diperkirakan berfungsi sebagai forum pembahasan isu terkait. Pertemuan ini mendapat perhatian sebagai langkah untuk membangun kerangka pengelolaan perdagangan dan koordinasi isu investasi antara AS dan China. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "8016ccfadbc2",
     "slug": "게임이-키운-oled-모니터-시장-2032년-천만-시대-열린다-509279",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Blue House Gelar Rapat Kerja NSC dengan Kementerian Kelautan",
         "excerpt": "Blue House menyatakan akan menggelar rapat kerja NSC dengan kementerian terkait, termasuk Kementerian Kelautan dan Perikanan, menurut mk.co.kr.",
         "body": "Blue House menyatakan akan menggelar rapat kerja Dewan Keamanan Nasional (NSC) dengan kementerian terkait, termasuk Kementerian Kelautan dan Perikanan. Pengumuman ini disampaikan sebagai berita kilat dan hanya mengonfirmasi rencana pertemuan tingkat kerja yang melibatkan instansi pemerintah terkait. Laporan asli tidak mencantumkan agenda khusus atau rincian materi pembahasan. Dengan disebutnya Kementerian Kelautan dan Perikanan serta instansi lain, perkara ini terkait koordinasi antarbagian pemerintah. Dampak dan prospek selanjutnya akan bergantung pada apakah ada pernyataan tambahan setelah rapat. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "96a046df2083",
-    "slug": "양향자-경기도민-1인당-grdp-1억원-시대로-461813",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T11:59:14.450Z",
-    "updatedAt": "2026-05-10T11:59:14.450Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042743",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042743",
-    "titleFingerprint": "440faf8a6240616b387d35fa8fadfa90fd193eba",
-    "dedupKeys": [
-      "96a046df2083a597b21de4d13b0ba45e75e7a71c",
-      "440faf8a6240616b387d35fa8fadfa90fd193eba",
-      "4db3e7da075d93c97891a2bbc724453dcc50cd68"
-    ],
-    "imageUrl": "/images/articles/96a046df2083.jpg",
-    "i18n": {
-      "ko": {
-        "title": "양향자, 경기도민 1인당 GRDP 1억원 목표 제시…첨단산업 성장 강조",
-        "excerpt": "양향자 국민의힘 경기도지사 후보는 10일 첨단산업 발전을 통해 경기도민 1인당 GRDP를 1억원으로 끌어올리겠다는 목표를 밝혔다.",
-        "body": "양향자 국민의힘 경기도지사 후보는 10일 경기도민 1인당 지역내총생산(GRDP)을 1억원 수준으로 끌어올리겠다는 구상을 밝혔다. 양 후보는 비약적인 첨단산업 발전을 목표 달성의 핵심 동력으로 제시했다. GRDP는 특정 지역에서 생산된 부가가치의 총액을 뜻하는 지표로, 1인당 GRDP는 지역 경제 규모와 생산성을 가늠하는 수치로 활용된다. 이번 발언은 경기도 경제 성장 전략에서 첨단산업 육성을 전면에 놓겠다는 메시지로 해석된다. 향후 선거 과정에서는 목표 달성을 위한 세부 산업 정책과 실행 방안이 주요 검증 대상이 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Yang Hyang-ja Sets GRDP Goal of 100 Million Won Per Gyeonggi Resident",
-        "excerpt": "People Power Party Gyeonggi governor candidate Yang Hyang-ja said on the 10th she aims to raise GRDP per resident to 100 million won through advanced industry growth.",
-        "body": "Yang Hyang-ja, the People Power Party candidate for Gyeonggi governor, said on the 10th that she would seek to raise gross regional domestic product, or GRDP, per Gyeonggi resident to 100 million won. Yang presented rapid development of advanced industries as the key driver for reaching that goal. GRDP measures the total value added produced within a region, while GRDP per capita is used to gauge the scale and productivity of a local economy. Her remarks signal that fostering advanced industries would stand at the center of her economic growth strategy for Gyeonggi Province. During the election, detailed industrial policies and execution plans for achieving the target are expected to face scrutiny. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "梁香子氏、京畿道民1人当たりGRDP1億ウォン目標を提示",
-        "excerpt": "国民の力の京畿道知事候補、梁香子氏は10日、先端産業の発展を通じて道民1人当たりGRDPを1億ウォンに引き上げる考えを示した。",
-        "body": "国民の力の京畿道知事候補である梁香子氏は10日、京畿道民1人当たりの地域内総生産（GRDP）を1億ウォン水準に引き上げる構想を明らかにした。梁氏は、飛躍的な先端産業の発展を目標達成の核心的な原動力として提示した。GRDPは特定地域で生産された付加価値の総額を示す指標で、1人当たりGRDPは地域経済の規模と生産性を測る数値として使われる。今回の発言は、京畿道の経済成長戦略で先端産業育成を前面に掲げるメッセージと受け止められる。今後の選挙過程では、目標達成に向けた具体的な産業政策と実行策が主な検証対象になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "梁香子提出京畿道居民人均GRDP达1亿韩元目标",
-        "excerpt": "韩国国民力量京畿道知事候选人梁香子10日表示，将通过尖端产业发展，把京畿道居民人均GRDP提升至1亿韩元。",
-        "body": "韩国国民力量京畿道知事候选人梁香子10日表示，她将推动京畿道居民人均地区生产总值（GRDP）提高至1亿韩元水平。梁香子把尖端产业的跨越式发展列为实现这一目标的核心动力。GRDP是指特定地区创造的增加值总额，人均GRDP则常被用来衡量地区经济规模和生产率。此次表态显示，她在京畿道经济增长战略中将把培育尖端产业置于前列。随着选举进程推进，实现该目标所需的具体产业政策和执行方案预计将成为主要检验重点。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Yang Hyang-ja propone elevar el GRDP per cápita de Gyeonggi a 100 millones de wones",
-        "excerpt": "Yang Hyang-ja, candidata del Partido del Poder Popular a gobernadora de Gyeonggi, dijo el día 10 que busca elevar el GRDP per cápita mediante industrias avanzadas.",
-        "body": "Yang Hyang-ja, candidata del Partido del Poder Popular a gobernadora de Gyeonggi, afirmó el día 10 que buscará elevar el producto regional bruto, o GRDP, por residente de la provincia a 100 millones de wones. Yang presentó el desarrollo acelerado de las industrias avanzadas como el motor central para alcanzar esa meta. El GRDP mide el valor agregado total producido en una región, y el GRDP per cápita se utiliza para evaluar el tamaño y la productividad de una economía local. Sus declaraciones indican que el fomento de industrias avanzadas ocuparía un lugar central en su estrategia de crecimiento económico para Gyeonggi. En la campaña, las políticas industriales concretas y los planes de ejecución para cumplir el objetivo serán objeto de revisión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Yang Hyang-ja quer GRDP per capita de 100 milhões de wons em Gyeonggi",
-        "excerpt": "Yang Hyang-ja, candidata do Partido do Poder Popular ao governo de Gyeonggi, disse no dia 10 que pretende elevar o GRDP per capita com indústrias avançadas.",
-        "body": "Yang Hyang-ja, candidata do Partido do Poder Popular ao governo da província de Gyeonggi, afirmou no dia 10 que pretende elevar o produto regional bruto, ou GRDP, por morador de Gyeonggi para 100 milhões de wons. Yang apontou o desenvolvimento acelerado de indústrias avançadas como o principal motor para alcançar a meta. O GRDP mede o valor agregado total produzido em uma região, enquanto o GRDP per capita é usado para avaliar o tamanho e a produtividade de uma economia local. A declaração indica que a promoção de indústrias avançadas ficaria no centro de sua estratégia de crescimento econômico para Gyeonggi. Durante a eleição, políticas industriais detalhadas e planos de execução para atingir o objetivo devem ser examinados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Yang Hyang-ja nennt Ziel von 100 Millionen Won GRDP je Einwohner in Gyeonggi",
-        "excerpt": "Yang Hyang-ja, Gouverneurskandidatin der People Power Party in Gyeonggi, sagte am 10., sie wolle das GRDP je Einwohner durch Hightech-Industrien erhöhen.",
-        "body": "Yang Hyang-ja, Gouverneurskandidatin der People Power Party für die Provinz Gyeonggi, erklärte am 10., sie wolle das regionale Bruttoinlandsprodukt, GRDP, je Einwohner von Gyeonggi auf 100 Millionen Won anheben. Als zentralen Antrieb für dieses Ziel nannte sie die sprunghafte Entwicklung fortgeschrittener Industrien. Das GRDP misst die gesamte in einer Region geschaffene Wertschöpfung; das GRDP pro Kopf dient als Kennzahl für Größe und Produktivität einer regionalen Wirtschaft. Die Äußerung zeigt, dass die Förderung von Hightech-Industrien im Mittelpunkt ihrer Wachstumsstrategie für Gyeonggi stehen soll. Im Wahlverlauf dürften konkrete Industriepolitik und Umsetzungspläne zur Zielerreichung besonders geprüft werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Yang Hyang-ja vise un GRDP de 100 millions de wons par habitant du Gyeonggi",
-        "excerpt": "Yang Hyang-ja, candidate du Parti du pouvoir au poste de gouverneure du Gyeonggi, a dit le 10 vouloir porter le GRDP par habitant à 100 millions de wons.",
-        "body": "Yang Hyang-ja, candidate du Parti du pouvoir populaire au poste de gouverneure de la province du Gyeonggi, a déclaré le 10 qu’elle chercherait à porter le produit régional brut, ou GRDP, par habitant du Gyeonggi à 100 millions de wons. Elle a présenté le développement rapide des industries avancées comme le principal moteur de cet objectif. Le GRDP mesure la valeur ajoutée totale produite dans une région, tandis que le GRDP par habitant sert à évaluer la taille et la productivité d’une économie locale. Cette déclaration indique que le soutien aux industries avancées serait au centre de sa stratégie de croissance économique pour le Gyeonggi. Durant la campagne, les politiques industrielles détaillées et les plans d’exécution devraient être examinés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "يانغ هيانغ جا تطرح هدف رفع GRDP للفرد في غيونغي إلى 100 مليون وون",
-        "excerpt": "قالت يانغ هيانغ جا، مرشحة حزب قوة الشعب لمنصب حاكم غيونغي، في العاشر إنها تستهدف رفع GRDP للفرد عبر تطوير الصناعات المتقدمة.",
-        "body": "قالت يانغ هيانغ جا، مرشحة حزب قوة الشعب لمنصب حاكم مقاطعة غيونغي، في العاشر إنها ستسعى إلى رفع الناتج المحلي الإقليمي الإجمالي، أو GRDP، لكل مقيم في غيونغي إلى مستوى 100 مليون وون. وقدمت يانغ التطور السريع في الصناعات المتقدمة باعتباره المحرك الأساسي لتحقيق هذا الهدف. ويقيس GRDP إجمالي القيمة المضافة المنتجة داخل منطقة معينة، بينما يستخدم GRDP للفرد كمؤشر على حجم الاقتصاد المحلي وإنتاجيته. وتشير تصريحاتها إلى أن تنمية الصناعات المتقدمة ستكون في صدارة استراتيجية النمو الاقتصادي للمقاطعة. وخلال مسار الانتخابات، من المتوقع أن تخضع السياسات الصناعية التفصيلية وخطط التنفيذ لتحقيق الهدف للتدقيق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "यांग ह्यांग-जा ने ग्योंगगी में प्रति निवासी GRDP 10 करोड़ वोन का लक्ष्य रखा",
-        "excerpt": "पीपल पावर पार्टी की ग्योंगगी गवर्नर उम्मीदवार यांग ह्यांग-जा ने 10 तारीख को उन्नत उद्योगों के विकास से प्रति निवासी GRDP बढ़ाने का लक्ष्य बताया।",
-        "body": "पीपल पावर पार्टी की ग्योंगगी गवर्नर पद की उम्मीदवार यांग ह्यांग-जा ने 10 तारीख को कहा कि वह ग्योंगगी के प्रति निवासी सकल क्षेत्रीय घरेलू उत्पाद, यानी GRDP, को 10 करोड़ वोन के स्तर तक बढ़ाने का लक्ष्य रखेंगी। यांग ने इस लक्ष्य को हासिल करने के लिए उन्नत उद्योगों के तेज विकास को मुख्य प्रेरक शक्ति बताया। GRDP किसी क्षेत्र में उत्पादित कुल मूल्यवर्धन को मापता है, जबकि प्रति व्यक्ति GRDP स्थानीय अर्थव्यवस्था के आकार और उत्पादकता को समझने का सूचक है। उनके बयान से संकेत मिलता है कि ग्योंगगी की आर्थिक वृद्धि रणनीति में उन्नत उद्योगों का प्रोत्साहन प्रमुख स्थान लेगा। चुनावी प्रक्रिया में लक्ष्य हासिल करने की विस्तृत औद्योगिक नीतियों और क्रियान्वयन योजनाओं की जांच होने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Yang Hyang-ja Targetkan GRDP per Warga Gyeonggi Capai 100 Juta Won",
-        "excerpt": "Yang Hyang-ja, calon gubernur Gyeonggi dari People Power Party, pada tanggal 10 menyatakan target menaikkan GRDP per warga lewat industri maju.",
-        "body": "Yang Hyang-ja, calon gubernur Provinsi Gyeonggi dari People Power Party, pada tanggal 10 menyatakan akan berupaya menaikkan produk domestik regional bruto, atau GRDP, per warga Gyeonggi ke tingkat 100 juta won. Yang menyebut perkembangan pesat industri maju sebagai pendorong utama untuk mencapai target tersebut. GRDP mengukur total nilai tambah yang dihasilkan di suatu wilayah, sedangkan GRDP per kapita digunakan untuk menilai skala dan produktivitas ekonomi lokal. Pernyataan ini menunjukkan bahwa pengembangan industri maju akan ditempatkan di pusat strategi pertumbuhan ekonomi Gyeonggi. Dalam proses pemilihan, kebijakan industri terperinci dan rencana pelaksanaan untuk mencapai target itu diperkirakan menjadi fokus verifikasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "07863bde41fe",
-    "slug": "반도체민생은-속도-중요-취임-즉시-tf-만들어-변화-보여줄-것-319585",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T11:58:11.470Z",
-    "updatedAt": "2026-05-10T11:58:11.470Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042745",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042745",
-    "titleFingerprint": "1dbef6117255d11e616778279014c4e9fc34fcd2",
-    "dedupKeys": [
-      "07863bde41fec5e0fb60b3a97cc03e2a45049a5c",
-      "1dbef6117255d11e616778279014c4e9fc34fcd2",
-      "d96ca31b0fb8065698da707a158b19f0d9c89912"
-    ],
-    "imageUrl": "/images/articles/07863bde41fe.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 인프라·민생 경제 속도전 강조한 추미애, 취임 즉시 TF 예고",
-        "excerpt": "추미애 더불어민주당 경기도지사 후보는 반도체 인프라와 민생 경제 대응의 속도를 강조하며 취임 즉시 민생·교통·산업 점검 TF를 구성하겠다고 밝혔다.",
-        "body": "추미애 더불어민주당 경기도지사 후보는 경기도의 반도체 인프라스트럭처와 민생 경제 현안에 대해 속도감 있는 대응이 필요하다고 밝혔다. 그는 취임 즉시 ‘민생·교통·산업 점검 태스크포스(TF)’를 구성해 도민이 체감할 수 있는 변화를 보여주겠다는 구상을 제시했다. 이번 발언은 반도체 산업 기반 확충과 생활경제 안정, 교통 문제 점검을 함께 다루겠다는 취지로 해석된다. 추 후보는 행정 출범 초기부터 관련 현안을 점검하고 실행 속도를 높이겠다는 메시지를 강조했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Choo Mi-ae Stresses Speed on Semiconductors and Livelihoods, Pledges TF on Day One",
-        "excerpt": "Democratic Party Gyeonggi governor candidate Choo Mi-ae said speed matters for semiconductor infrastructure and the livelihood economy, pledging a task force immediately after taking office.",
-        "body": "Choo Mi-ae, the Democratic Party candidate for governor of Gyeonggi Province, said rapid action is needed on semiconductor infrastructure and livelihood-related economic issues. She said she would form a “livelihood, transportation and industry inspection task force” immediately after taking office to show changes residents can feel. The remarks point to a plan to address semiconductor industry foundations, economic stability for daily life, and transportation checks together. Choo emphasized that her administration would review key issues from the start and accelerate implementation. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "半導体インフラと民生経済で速度重視、秋美愛氏が就任直後のTF設置を予告",
-        "excerpt": "共に民主党の京畿道知事候補、秋美愛氏は半導体インフラと民生経済には速度が重要だとし、就任直後に点検TFを設置すると述べた。",
-        "body": "共に民主党の京畿道知事候補である秋美愛氏は、京畿道の半導体インフラストラクチャーと民生経済の懸案について、迅速な対応が必要だと述べた。秋氏は就任直後に「民生・交通・産業点検タスクフォース（TF）」を構成し、道民が実感できる変化を示す考えを明らかにした。今回の発言は、半導体産業基盤の拡充、生活経済の安定、交通問題の点検をあわせて扱う趣旨と受け止められる。秋氏は行政発足初期から関連懸案を点検し、実行の速度を高めるとのメッセージを強調した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "秋美爱强调半导体基础设施与民生经济速度，上任即组建专项TF",
-        "excerpt": "共同民主党京畿道知事候选人秋美爱表示，半导体基础设施和民生经济重在速度，并称上任后将立即组建民生、交通、产业检查TF。",
-        "body": "共同民主党京畿道知事候选人秋美爱表示，京畿道在半导体基础设施和民生经济相关问题上需要快速应对。她提出，上任后将立即组建“民生、交通、产业检查任务组（TF）”，展现道民能够切身感受到的变化。此番发言意在同时处理半导体产业基础扩充、生活经济稳定以及交通问题检查。秋候选人强调，将从行政启动初期起检查相关悬案，并提高执行速度。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Choo Mi-ae promete rapidez en semiconductores y economía diaria con un TF inmediato",
-        "excerpt": "La candidata demócrata a gobernadora de Gyeonggi, Choo Mi-ae, dijo que la velocidad es clave en infraestructura de semiconductores y economía diaria, y prometió crear un TF al asumir.",
-        "body": "Choo Mi-ae, candidata del Partido Democrático a gobernadora de la provincia de Gyeonggi, afirmó que se necesita una respuesta rápida ante los asuntos de infraestructura de semiconductores y economía de subsistencia. Señaló que, inmediatamente después de asumir el cargo, formaría un “grupo de trabajo de revisión de subsistencia, transporte e industria” para mostrar cambios que los residentes puedan percibir. Sus declaraciones apuntan a abordar en conjunto la base de la industria de semiconductores, la estabilidad de la economía cotidiana y la revisión de los problemas de transporte. Choo subrayó que revisaría los asuntos desde el inicio de la administración y aceleraría la ejecución. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Choo Mi-ae defende rapidez em semicondutores e vida cotidiana com TF ao assumir",
-        "excerpt": "A candidata democrata ao governo de Gyeonggi, Choo Mi-ae, afirmou que infraestrutura de semicondutores e economia cotidiana exigem rapidez e prometeu criar um TF ao tomar posse.",
-        "body": "Choo Mi-ae, candidata do Partido Democrático ao governo da província de Gyeonggi, afirmou que é necessária uma resposta rápida às questões de infraestrutura de semicondutores e da economia ligada ao custo de vida. Ela disse que formaria, imediatamente após tomar posse, uma “força-tarefa de verificação de subsistência, transporte e indústria” para mostrar mudanças perceptíveis aos moradores. A declaração indica a intenção de tratar conjuntamente a ampliação da base da indústria de semicondutores, a estabilidade da economia cotidiana e a revisão dos problemas de transporte. Choo enfatizou que verificaria os temas desde o início da administração e aumentaria a velocidade de execução. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Choo Mi-ae betont Tempo bei Halbleitern und Alltagwirtschaft, TF direkt nach Amtsantritt",
-        "excerpt": "Choo Mi-ae, Kandidatin der Demokratischen Partei für das Gouverneursamt in Gyeonggi, betonte Tempo bei Halbleiterinfrastruktur und Lebenshaltung und kündigte eine sofortige TF an.",
-        "body": "Choo Mi-ae, Kandidatin der Demokratischen Partei für das Gouverneursamt der Provinz Gyeonggi, erklärte, bei der Halbleiterinfrastruktur und wirtschaftlichen Fragen des täglichen Lebens sei schnelles Handeln nötig. Sie kündigte an, unmittelbar nach Amtsantritt eine „Taskforce zur Prüfung von Lebensunterhalt, Verkehr und Industrie“ einzurichten, um Veränderungen zu zeigen, die die Bürger spüren können. Die Äußerung zielt darauf, den Ausbau der Grundlage der Halbleiterindustrie, die Stabilisierung der Alltagswirtschaft und die Prüfung von Verkehrsfragen gemeinsam anzugehen. Choo betonte, sie werde relevante Themen von Beginn der Verwaltung an prüfen und die Umsetzung beschleunigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Choo Mi-ae mise sur la rapidité pour les semi-conducteurs et le quotidien, TF dès l’entrée en fonction",
-        "excerpt": "Choo Mi-ae, candidate démocrate au poste de gouverneure de Gyeonggi, a souligné l’urgence pour les infrastructures de semi-conducteurs et l’économie du quotidien, promettant une TF immédiate.",
-        "body": "Choo Mi-ae, candidate du Parti démocrate au poste de gouverneure de la province de Gyeonggi, a déclaré qu’une réponse rapide était nécessaire pour les infrastructures de semi-conducteurs et les questions économiques liées au quotidien. Elle a indiqué qu’elle formerait, dès son entrée en fonction, une « task force de contrôle du quotidien, des transports et de l’industrie » afin de montrer des changements perceptibles par les habitants. Cette déclaration traduit l’intention de traiter ensemble le renforcement de la base industrielle des semi-conducteurs, la stabilité de l’économie quotidienne et l’examen des problèmes de transport. Choo a souligné qu’elle vérifierait ces dossiers dès le début de l’administration et accélérerait l’exécution. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تشو مي-آي تشدد على سرعة أشباه الموصلات ومعيشة السكان وتتعهد بفريق عمل فور توليها",
-        "excerpt": "قالت تشو مي-آي مرشحة الحزب الديمقراطي لمنصب حاكم غيونغي إن السرعة مهمة في بنية أشباه الموصلات واقتصاد المعيشة، متعهدة بتشكيل فريق عمل فور توليها المنصب.",
-        "body": "قالت تشو مي-آي، مرشحة الحزب الديمقراطي لمنصب حاكم مقاطعة غيونغي، إن قضايا البنية التحتية لأشباه الموصلات واقتصاد المعيشة في غيونغي تحتاج إلى استجابة سريعة. وذكرت أنها ستشكل فور توليها المنصب «فريق عمل لفحص المعيشة والنقل والصناعة» لإظهار تغييرات يمكن للسكان الشعور بها. وتشير التصريحات إلى توجه لمعالجة توسيع قاعدة صناعة أشباه الموصلات، واستقرار اقتصاد الحياة اليومية، وفحص مشكلات النقل معا. وشددت تشو على أنها ستراجع القضايا ذات الصلة منذ بداية الإدارة وتزيد سرعة التنفيذ. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर ढांचे और जनजीवन अर्थव्यवस्था पर तेजी, चू मी-ए ने पद संभालते ही TF का वादा किया",
-        "excerpt": "डेमोक्रेटिक पार्टी की ग्योंगी गवर्नर उम्मीदवार चू मी-ए ने कहा कि सेमीकंडक्टर इंफ्रास्ट्रक्चर और जनजीवन अर्थव्यवस्था में गति अहम है और पद संभालते ही TF बनाएंगी।",
-        "body": "डेमोक्रेटिक पार्टी की ग्योंगी प्रांत गवर्नर उम्मीदवार चू मी-ए ने कहा कि ग्योंगी के सेमीकंडक्टर इंफ्रास्ट्रक्चर और जनजीवन से जुड़े आर्थिक मुद्दों पर तेज प्रतिक्रिया की जरूरत है। उन्होंने कहा कि पद संभालते ही वह “जनजीवन, परिवहन और उद्योग जांच टास्क फोर्स (TF)” बनाएंगी, ताकि निवासियों को महसूस होने वाला बदलाव दिखाया जा सके। यह बयान सेमीकंडक्टर उद्योग के आधार के विस्तार, दैनिक अर्थव्यवस्था की स्थिरता और परिवहन समस्याओं की समीक्षा को साथ लेकर चलने की दिशा दिखाता है। चू ने जोर दिया कि प्रशासन की शुरुआत से ही संबंधित मुद्दों की जांच कर क्रियान्वयन की गति बढ़ाई जाएगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Choo Mi-ae Tekankan Kecepatan Semikonduktor dan Ekonomi Warga, Janji TF Saat Menjabat",
-        "excerpt": "Calon gubernur Gyeonggi dari Partai Demokrat, Choo Mi-ae, menilai infrastruktur semikonduktor dan ekonomi warga membutuhkan kecepatan, lalu berjanji membentuk TF segera setelah menjabat.",
-        "body": "Choo Mi-ae, calon gubernur Provinsi Gyeonggi dari Partai Demokrat, mengatakan bahwa isu infrastruktur semikonduktor dan ekonomi kehidupan warga membutuhkan respons cepat. Ia menyatakan akan segera membentuk “satuan tugas pemeriksaan kehidupan warga, transportasi, dan industri” setelah menjabat untuk menunjukkan perubahan yang dapat dirasakan penduduk. Pernyataan ini mengarah pada rencana menangani perluasan basis industri semikonduktor, stabilitas ekonomi sehari-hari, dan pemeriksaan masalah transportasi secara bersamaan. Choo menegaskan akan meninjau isu terkait sejak awal pemerintahan dan mempercepat pelaksanaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9169a95f01c4",
-    "slug": "전한길-장동혁-내가-당대표-만들어줬는데나-수갑-찰-때-뭐-했나-236869",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T11:57:12.943Z",
-    "updatedAt": "2026-05-10T11:57:12.943Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042814",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042814",
-    "titleFingerprint": "e74c5af8f52c2e442828426857ffee1e8b960476",
-    "dedupKeys": [
-      "9169a95f01c43880e73060d0c0d5f5062bf7794f",
-      "e74c5af8f52c2e442828426857ffee1e8b960476",
-      "0115901925224880a2af83b047eee53e17c5b327"
-    ],
-    "imageUrl": "/images/articles/9169a95f01c4.png",
-    "i18n": {
-      "ko": {
-        "title": "전한길, 장동혁 국민의힘 대표에 공개 질의…“윤어게인 믿고 밀었는데 뭐 했나”",
-        "excerpt": "한국사 강사 출신 유튜버 전한길씨가 장동혁 국민의힘 대표를 향해 당대표 선출 지원과 ‘윤어게인’ 발언을 거론하며 공개 질의에 나섰다.",
-        "body": "한국사 강사 출신 유튜버 전한길씨(본명 전유관)가 국민의힘 장동혁 대표를 향해 공개 질의에 나섰다. 전씨는 장 대표가 “‘윤어게인’하겠다고 해서 당대표 만들어줬는데, 내가 수갑 찰 때 뭘 했느냐”고 물었다. 이번 발언은 장 대표의 당대표 선출 과정과 전씨가 언급한 ‘윤어게인’ 입장을 함께 겨냥한 것으로 전해졌다. 원문에 따르면 전씨는 자신이 장 대표를 당대표로 만드는 데 역할을 했다는 취지로 말하며, 이후 상황에서 장 대표가 어떤 대응을 했는지 문제를 제기했다. 공개 질의 형식으로 나온 발언인 만큼 국민의힘 내부와 보수 성향 지지층 사이에서 장 대표의 답변 여부가 주목될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Jeon Han-gil Questions People Power Party Leader Jang Dong-hyeok Over ‘Yoon Again’ Support",
-        "excerpt": "Former Korean history instructor and YouTuber Jeon Han-gil publicly questioned PPP leader Jang Dong-hyeok, citing his support in the leadership race and the phrase “Yoon Again.”",
-        "body": "Jeon Han-gil, a YouTuber and former Korean history instructor whose legal name is Jeon Yu-gwan, publicly questioned People Power Party leader Jang Dong-hyeok. Jeon asked, “You said you would do ‘Yoon Again,’ so I helped make you party leader. What did you do when I was put in handcuffs?” The remarks were aimed at both Jang’s party leadership campaign and the “Yoon Again” position mentioned by Jeon. According to the original report, Jeon spoke as if he had played a role in helping Jang become party leader, while raising questions about how Jang responded afterward. Because the comments were framed as a public question, attention may turn to whether Jang responds within the party and among conservative supporters. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "チョン・ハンギル氏、国民の力の張東赫代表に公開質問…「代表にしたのに何をしたのか」",
-        "excerpt": "韓国史講師出身のユーチューバー、チョン・ハンギル氏が国民の力の張東赫代表に対し、党代表選支援と「ユン・アゲイン」発言を挙げて公開質問した。",
-        "body": "韓国史講師出身のユーチューバー、チョン・ハンギル氏（本名チョン・ユグァン）が、国民の力の張東赫代表に向けて公開質問を行った。チョン氏は、張代表が「『ユン・アゲイン』をやると言ったから党代表にしてやったのに、私が手錠をかけられた時に何をしたのか」と問いかけた。今回の発言は、張代表の党代表選出過程と、チョン氏が言及した「ユン・アゲイン」の立場を同時に念頭に置いたものと伝えられている。原文によると、チョン氏は自分が張代表を党代表にするうえで役割を果たしたという趣旨で述べ、その後の状況で張代表がどう対応したのかを問題提起した。公開質問の形で出た発言だけに、党内や保守系支持層の間で張代表の回答の有無が注目される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "全韩吉公开质问国民力量党首张东赫：称曾助其当选却质疑其作为",
-        "excerpt": "韩国史讲师出身的YouTuber全韩吉公开质问国民力量党首张东赫，提及党首选举支持以及“Yoon Again”相关表态。",
-        "body": "韩国史讲师出身的YouTuber全韩吉（本名全有官）向国民力量党首张东赫提出公开质问。全氏表示，张东赫曾称要进行“Yoon Again”，因此自己帮助其成为党首，并追问“我戴上手铐的时候，你做了什么”。这番话被认为同时指向张东赫的党首选举过程，以及全氏所提到的“Yoon Again”立场。原文称，全氏以自己曾在张东赫成为党首过程中发挥作用的语气发言，并对之后相关情形中张东赫作出何种回应提出问题。由于该言论以公开质问形式出现，国民力量党内以及保守倾向支持层是否会关注张东赫的回应，预计将成为焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jeon Han-gil cuestiona a Jang Dong-hyeok: “Lo hice líder del partido, ¿qué hizo usted?”",
-        "excerpt": "El exprofesor de historia coreana y YouTuber Jeon Han-gil cuestionó públicamente al líder del PPP Jang Dong-hyeok, citando su apoyo electoral y la frase “Yoon Again.”",
-        "body": "Jeon Han-gil, YouTuber y exprofesor de historia coreana cuyo nombre real es Jeon Yu-gwan, lanzó una pregunta pública al líder del Partido del Poder Popular, Jang Dong-hyeok. Jeon dijo: “Usted afirmó que haría ‘Yoon Again’, así que lo ayudé a convertirse en líder del partido. ¿Qué hizo cuando me pusieron esposas?” La declaración apunta tanto al proceso por el que Jang llegó al liderazgo del partido como a la postura de “Yoon Again” mencionada por Jeon. Según el texto original, Jeon habló en el sentido de que había desempeñado un papel en convertir a Jang en líder, y cuestionó cómo respondió Jang después. Al tratarse de una pregunta pública, la atención podría centrarse en si Jang responde dentro del partido y entre los simpatizantes conservadores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Jeon Han-gil questiona Jang Dong-hyeok: “Ajudei você a virar líder, o que fez por mim?”",
-        "excerpt": "O ex-professor de história coreana e YouTuber Jeon Han-gil questionou publicamente Jang Dong-hyeok, citando apoio à liderança do partido e a frase “Yoon Again.”",
-        "body": "Jeon Han-gil, YouTuber e ex-professor de história coreana cujo nome legal é Jeon Yu-gwan, fez uma pergunta pública ao líder do Partido do Poder Popular, Jang Dong-hyeok. Jeon afirmou: “Você disse que faria ‘Yoon Again’, então ajudei você a se tornar líder do partido. O que você fez quando me colocaram algemas?” A fala mira tanto o processo que levou Jang à liderança do partido quanto a posição “Yoon Again” mencionada por Jeon. Segundo o texto original, Jeon falou no sentido de que teve papel em ajudar Jang a se tornar líder e questionou como Jang respondeu depois. Como a declaração veio em forma de pergunta pública, a atenção pode se voltar para uma eventual resposta de Jang dentro do partido e entre apoiadores conservadores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Jeon Han-gil stellt Parteichef Jang Dong-hyeok öffentlich zur Rede: „Was haben Sie getan?“",
-        "excerpt": "Der frühere Koreanisch-Geschichtslehrer und YouTuber Jeon Han-gil stellte PPP-Chef Jang Dong-hyeok öffentlich Fragen zu seiner Unterstützung und zu „Yoon Again“.",
-        "body": "Jeon Han-gil, ein YouTuber und ehemaliger Lehrer für koreanische Geschichte mit dem bürgerlichen Namen Jeon Yu-gwan, hat den Vorsitzenden der People Power Party, Jang Dong-hyeok, öffentlich befragt. Jeon sagte: „Sie sagten, Sie würden ‘Yoon Again’ machen, also half ich Ihnen, Parteichef zu werden. Was haben Sie getan, als mir Handschellen angelegt wurden?“ Die Äußerung zielt zugleich auf Jangs Weg zum Parteivorsitz und auf die von Jeon erwähnte Haltung zu „Yoon Again“. Dem Originalbericht zufolge sprach Jeon so, als habe er eine Rolle dabei gespielt, Jang zum Parteichef zu machen, und fragte, wie Jang danach reagiert habe. Da die Bemerkung als öffentliche Frage formuliert wurde, dürfte sich die Aufmerksamkeit darauf richten, ob Jang innerhalb der Partei und unter konservativen Unterstützern antwortet. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Jeon Han-gil interpelle Jang Dong-hyeok : « Je vous ai aidé à devenir chef, qu’avez-vous fait ? »",
-        "excerpt": "L’ancien professeur d’histoire coréenne et YouTubeur Jeon Han-gil a publiquement questionné Jang Dong-hyeok, évoquant son soutien à la direction du parti et “Yoon Again”.",
-        "body": "Jeon Han-gil, YouTubeur et ancien professeur d’histoire coréenne dont le vrai nom est Jeon Yu-gwan, a adressé une question publique au chef du Parti du pouvoir au peuple, Jang Dong-hyeok. Jeon a déclaré : « Vous avez dit que vous feriez ‘Yoon Again’, alors je vous ai aidé à devenir chef du parti. Qu’avez-vous fait quand on m’a passé les menottes ? » Ces propos visent à la fois le processus qui a mené Jang à la direction du parti et la position “Yoon Again” mentionnée par Jeon. Selon le texte original, Jeon a parlé comme s’il avait joué un rôle dans l’accession de Jang à la tête du parti, tout en mettant en cause la réaction de Jang par la suite. Comme il s’agit d’une question publique, l’attention pourrait se porter sur une éventuelle réponse de Jang au sein du parti et parmi les soutiens conservateurs. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "جون هان-غيل يوجه سؤالا علنيا إلى جانغ دونغ-هيوك: دعمته للزعامة فماذا فعل؟",
-        "excerpt": "وجه اليوتيوبر والمدرس السابق للتاريخ الكوري جون هان-غيل سؤالا علنيا إلى زعيم حزب قوة الشعب جانغ دونغ-هيوك، مشيرا إلى دعمه وعبارة “Yoon Again”.",
-        "body": "وجه جون هان-غيل، وهو يوتيوبر ومدرس سابق للتاريخ الكوري واسمه الحقيقي جون يو-غوان، سؤالا علنيا إلى زعيم حزب قوة الشعب جانغ دونغ-هيوك. وقال جون إن جانغ قال إنه سيقوم بـ“Yoon Again”، ولذلك ساعده على أن يصبح زعيما للحزب، ثم سأله: “ماذا فعلت عندما وُضعت الأصفاد في يدي؟” وجاءت هذه التصريحات موجهة في الوقت نفسه إلى مسار انتخاب جانغ زعيما للحزب وإلى موقف “Yoon Again” الذي ذكره جون. ووفقا للنص الأصلي، تحدث جون بمعنى أنه أدى دورا في جعل جانغ زعيما للحزب، وطرح سؤالا حول كيفية استجابة جانغ بعد ذلك. وبما أن التصريح جاء في صيغة سؤال علني، فمن المتوقع أن يتجه الاهتمام إلى ما إذا كان جانغ سيرد داخل الحزب وبين المؤيدين المحافظين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जॉन हान-गिल ने जांग डोंग-ह्योक से पूछा: “नेता बनवाया, फिर आपने क्या किया?”",
-        "excerpt": "कोरियाई इतिहास के पूर्व शिक्षक और YouTuber जॉन हान-गिल ने पीपीपी नेता जांग डोंग-ह्योक से सार्वजनिक सवाल किया, नेतृत्व समर्थन और “Yoon Again” का हवाला दिया।",
-        "body": "कोरियाई इतिहास के पूर्व शिक्षक और YouTuber जॉन हान-गिल, जिनका वास्तविक नाम जॉन यू-ग्वान है, ने पीपुल पावर पार्टी के नेता जांग डोंग-ह्योक से सार्वजनिक सवाल किया। जॉन ने कहा कि जांग ने “‘Yoon Again’ करने” की बात कही थी, इसलिए उन्होंने उन्हें पार्टी नेता बनने में मदद की, और पूछा, “जब मुझे हथकड़ी लगाई जा रही थी, तब आपने क्या किया?” यह बयान जांग के पार्टी नेता चुने जाने की प्रक्रिया और जॉन द्वारा बताए गए “Yoon Again” रुख, दोनों को संबोधित करता है। मूल रिपोर्ट के अनुसार, जॉन ने इस आशय से बात की कि जांग को पार्टी नेता बनाने में उनकी भूमिका थी, और बाद की स्थिति में जांग की प्रतिक्रिया पर सवाल उठाया। चूंकि यह टिप्पणी सार्वजनिक प्रश्न के रूप में आई है, इसलिए पार्टी के भीतर और रूढ़िवादी समर्थकों के बीच जांग के जवाब पर ध्यान जा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Jeon Han-gil Pertanyakan Jang Dong-hyeok: “Saya Bantu Jadi Ketua, Apa yang Anda Lakukan?”",
-        "excerpt": "Mantan pengajar sejarah Korea sekaligus YouTuber Jeon Han-gil mempertanyakan Ketua PPP Jang Dong-hyeok secara terbuka, menyinggung dukungan dan frasa “Yoon Again.”",
-        "body": "Jeon Han-gil, YouTuber dan mantan pengajar sejarah Korea dengan nama asli Jeon Yu-gwan, mengajukan pertanyaan terbuka kepada Ketua Partai Kekuatan Rakyat, Jang Dong-hyeok. Jeon mengatakan Jang pernah menyatakan akan melakukan “Yoon Again”, sehingga ia membantu Jang menjadi ketua partai, lalu bertanya, “Apa yang Anda lakukan saat saya diborgol?” Pernyataan itu ditujukan pada proses Jang menjadi ketua partai sekaligus posisi “Yoon Again” yang disebut Jeon. Menurut teks asli, Jeon berbicara dengan maksud bahwa dirinya berperan dalam menjadikan Jang sebagai ketua partai, dan mempertanyakan bagaimana Jang merespons setelah itu. Karena pernyataan tersebut muncul sebagai pertanyaan terbuka, perhatian dapat tertuju pada apakah Jang akan menjawab di internal partai dan di kalangan pendukung konservatif. Sumber: mk.co.kr"
       }
     }
   }
