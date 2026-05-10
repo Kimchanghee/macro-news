@@ -1,5 +1,230 @@
 [
   {
+    "id": "e5b55a0acc62",
+    "slug": "lg유플러스-홈-개통as-비대면-처리-월-6만-건-돌파-157676",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T04:43:38.534Z",
+    "updatedAt": "2026-05-10T04:43:38.534Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12042490",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12042490",
+    "titleFingerprint": "3bcf2c402e43460d237b468446e4a73bac086873",
+    "dedupKeys": [
+      "e5b55a0acc62744bbb6f08b6ff586fa2d1bcc26e",
+      "3bcf2c402e43460d237b468446e4a73bac086873",
+      "076920634b7cb832d1d4c247f475130790fe0620"
+    ],
+    "imageUrl": "/images/articles/e5b55a0acc62.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG유플러스 홈 개통·A/S 비대면 처리 월 6만 건 돌파",
+        "excerpt": "LG유플러스는 홈 개통과 애프터서비스 전반에서 비대면 처리 범위를 넓혀 단말 회수, 셀프 개통, 단순 A/S까지 방문 부담을 줄이고 월 6만 건을 넘어섰다.",
+        "body": "LG유플러스는 홈 개통과 애프터서비스(A/S) 서비스 전반에서 비대면 처리 범위를 확대해 월 처리 건수가 6만 건을 돌파했다고 밝혔다. 회사는 단말 회수, 셀프 개통, 단순 A/S까지 방문을 최소화하는 방식으로 고객이 일정을 조율하거나 대기해야 하는 부담을 낮추고 있다. 이번 확대는 기존 방문 중심 서비스 구조를 비대면 중심으로 전환하는 흐름으로, 홈 서비스 이용 과정의 편의성을 높이는 데 초점이 맞춰졌다. LG유플러스는 비대면 처리 범위 확대를 통해 고객 접점 운영 방식을 바꾸고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Uplus Home Setup and A/S Remote Handling Tops 60,000 Monthly Cases",
+        "excerpt": "LG Uplus has expanded remote handling across home setup and after-sales service, reducing visits for device returns, self-activation and simple A/S while surpassing 60,000 monthly cases.",
+        "body": "LG Uplus said its monthly remote handling volume for home setup and after-sales service has exceeded 60,000 cases. The company is broadening non-face-to-face processing across device returns, self-activation and simple A/S, reducing the need for customer visits. The shift is aimed at lowering the burden of schedule coordination and waiting for customers. The expansion reflects a service structure moving away from visit-centered operations toward remote handling, with a focus on improving convenience in home service use. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LGユープラス、ホーム開通・A/Sの非対面処理が月6万件突破",
+        "excerpt": "LGユープラスはホーム開通とアフターサービス全般で非対面処理を拡大し、端末回収、セルフ開通、簡易A/Sまで訪問負担を減らして月6万件を超えた。",
+        "body": "LGユープラスは、ホーム開通とアフターサービス（A/S）全般で非対面処理の範囲を広げ、月間処理件数が6万件を突破したと明らかにした。同社は端末回収、セルフ開通、簡易A/Sまで訪問を最小化する方式を取り入れ、顧客が日程を調整したり待機したりする負担を軽減している。今回の拡大は、従来の訪問中心のサービス構造を非対面中心へ転換する流れであり、ホームサービス利用時の利便性向上に焦点を当てている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG Uplus家庭开通与售后非面对面处理月超6万件",
+        "excerpt": "LG Uplus扩大了家庭开通和售后服务中的非面对面处理范围，将设备回收、自助开通和简单售后纳入其中，减少上门负担，月处理量超过6万件。",
+        "body": "LG Uplus表示，在家庭开通和售后服务（A/S）整体流程中扩大非面对面处理范围后，月处理件数已突破6万件。公司将设备回收、自助开通、简单售后等环节纳入减少上门访问的方式，以降低客户协调时间和等待的负担。此次扩大意味着服务结构正从以访问为中心转向以非面对面处理为中心，重点在于提升家庭服务使用过程中的便利性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LG Uplus supera 60.000 gestiones remotas al mes en instalación y A/S del hogar",
+        "excerpt": "LG Uplus amplió la atención remota en instalación doméstica y servicio posventa, reduciendo visitas para recogida de equipos, autoactivación y A/S simple, con más de 60.000 casos mensuales.",
+        "body": "LG Uplus informó que las gestiones remotas mensuales en instalación de servicios del hogar y atención posventa (A/S) superaron las 60.000. La compañía está ampliando el procesamiento no presencial a la recogida de terminales, la autoactivación y el A/S simple, con el fin de minimizar las visitas. Con ello busca reducir la carga que supone para los clientes coordinar horarios y esperar atención. La medida refleja una transición desde una estructura centrada en visitas hacia un modelo de servicio remoto, enfocado en mejorar la comodidad del usuario. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "LG Uplus passa de 60 mil atendimentos remotos mensais em instalação e A/S residencial",
+        "excerpt": "A LG Uplus ampliou o atendimento remoto em instalação residencial e pós-venda, reduzindo visitas para recolha de aparelhos, autoativação e A/S simples, e superou 60 mil casos por mês.",
+        "body": "A LG Uplus informou que o volume mensal de atendimentos remotos em instalação residencial e serviço pós-venda (A/S) ultrapassou 60 mil casos. A empresa está ampliando o processamento não presencial para recolha de aparelhos, autoativação e A/S simples, minimizando a necessidade de visitas. A iniciativa reduz a carga de ajustar agendas e aguardar atendimento para os clientes. A expansão mostra uma mudança da estrutura de serviço centrada em visitas para um modelo mais remoto, com foco em elevar a conveniência no uso dos serviços domésticos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LG Uplus meldet über 60.000 Remote-Fälle pro Monat bei Home-Anschluss und A/S",
+        "excerpt": "LG Uplus weitet die kontaktlose Bearbeitung bei Home-Anschluss und After-Sales-Service aus, senkt Besuche für Geräteabholung, Selbstaktivierung und einfache A/S und überschreitet 60.000 Fälle monatlich.",
+        "body": "LG Uplus teilte mit, dass die monatliche Zahl der kontaktlos bearbeiteten Fälle bei Home-Anschluss und After-Sales-Service (A/S) die Marke von 60.000 überschritten hat. Das Unternehmen erweitert die nicht persönliche Abwicklung auf Geräteabholung, Selbstaktivierung und einfache A/S, um Besuche zu minimieren. Dadurch sollen Kunden weniger Aufwand bei Terminabstimmung und Wartezeiten haben. Die Ausweitung steht für einen Wandel von einer besuchsorientierten Servicestruktur hin zu stärker kontaktlosen Abläufen, mit Fokus auf mehr Komfort bei der Nutzung von Home-Services. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LG Uplus dépasse 60.000 traitements à distance par mois pour l’installation et l’A/S à domicile",
+        "excerpt": "LG Uplus élargit le traitement à distance de l’installation à domicile et du service après-vente, réduisant les visites pour récupération d’appareils, auto-activation et A/S simple, avec plus de 60.000 cas mensuels.",
+        "body": "LG Uplus a annoncé que le volume mensuel de traitements à distance pour l’installation à domicile et le service après-vente (A/S) avait dépassé 60.000 cas. L’entreprise étend le traitement non présentiel à la récupération des terminaux, à l’auto-activation et aux interventions A/S simples afin de limiter les visites. Cette évolution vise à réduire la charge liée à la coordination des horaires et à l’attente pour les clients. Elle traduit le passage d’une structure centrée sur les visites vers un modèle davantage axé sur le traitement à distance, afin d’améliorer la commodité des services à domicile. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "LG Uplus تتجاوز 60 ألف معالجة شهرية عن بُعد لفتح الخدمة المنزلية وA/S",
+        "excerpt": "وسعت LG Uplus نطاق المعالجة غير الحضورية في فتح الخدمات المنزلية وخدمة ما بعد البيع، لتشمل استرجاع الأجهزة والتفعيل الذاتي وطلبات A/S البسيطة، متجاوزة 60 ألف حالة شهريا.",
+        "body": "أعلنت LG Uplus أن عدد المعالجات الشهرية عن بُعد في فتح الخدمات المنزلية وخدمة ما بعد البيع (A/S) تجاوز 60 ألف حالة. وتوسع الشركة نطاق المعالجة غير الحضورية ليشمل استرجاع الأجهزة، والتفعيل الذاتي، وطلبات A/S البسيطة، بما يقلل الحاجة إلى الزيارات. وتهدف هذه الخطوة إلى تخفيف عبء تنسيق المواعيد والانتظار على العملاء. ويعكس التوسع تحولا في هيكل الخدمة من نموذج يرتكز على الزيارات إلى نموذج يركز على المعالجة عن بُعد، مع تحسين سهولة استخدام خدمات المنزل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG Uplus की होम ओपनिंग और A/S रिमोट प्रोसेसिंग 60,000 मासिक मामलों के पार",
+        "excerpt": "LG Uplus ने होम ओपनिंग और आफ्टर-सर्विस में गैर-आमने-सामने प्रोसेसिंग बढ़ाई, जिससे डिवाइस रिकवरी, सेल्फ ओपनिंग और सरल A/S में विजिट कम हुई और मासिक मामले 60,000 से ऊपर गए।",
+        "body": "LG Uplus ने बताया कि होम ओपनिंग और आफ्टर-सर्विस (A/S) में रिमोट प्रोसेसिंग का मासिक आंकड़ा 60,000 मामलों को पार कर गया है। कंपनी डिवाइस रिकवरी, सेल्फ ओपनिंग और सरल A/S तक गैर-आमने-सामने 처리 का दायरा बढ़ा रही है, ताकि ग्राहकों के लिए विजिट की जरूरत कम हो। इससे समय तय करने और प्रतीक्षा करने का बोझ घटता है। यह विस्तार विजिट-केंद्रित सेवा संरचना से रिमोट प्रोसेसिंग-केंद्रित मॉडल की ओर बदलाव दिखाता है, जिसका लक्ष्य होम सर्विस उपयोग की सुविधा बढ़ाना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "LG Uplus Tembus 60.000 Penanganan Remote Bulanan untuk Pembukaan Home dan A/S",
+        "excerpt": "LG Uplus memperluas penanganan non-tatap muka di pembukaan layanan home dan purnajual, mengurangi kunjungan untuk penarikan perangkat, aktivasi mandiri, dan A/S sederhana hingga melampaui 60.000 kasus per bulan.",
+        "body": "LG Uplus menyatakan bahwa volume penanganan non-tatap muka bulanan untuk pembukaan layanan home dan layanan purnajual (A/S) telah melampaui 60.000 kasus. Perusahaan memperluas proses remote ke penarikan perangkat, aktivasi mandiri, dan A/S sederhana untuk meminimalkan kunjungan. Langkah ini menurunkan beban pelanggan dalam mengatur jadwal dan menunggu layanan. Perluasan tersebut menunjukkan perubahan struktur layanan dari model berbasis kunjungan menuju penanganan non-tatap muka, dengan fokus meningkatkan kenyamanan penggunaan layanan home. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "20aa8be3c710",
+    "slug": "단독-마크롱에-이력서-건넨-연세대-학생-프랑스-대사관-초청받았다-545132",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T04:42:50.669Z",
+    "updatedAt": "2026-05-10T04:42:50.669Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042492",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042492",
+    "titleFingerprint": "81f0f5fad4f957c38478b561e81332f26c83ec14",
+    "dedupKeys": [
+      "20aa8be3c7102cafd45a82b0e3639f1a8e79a666",
+      "81f0f5fad4f957c38478b561e81332f26c83ec14",
+      "e2075e57cd3c6af5c91b96f50ab052f86e19bff5"
+    ],
+    "imageUrl": "/images/articles/20aa8be3c710.png",
+    "i18n": {
+      "ko": {
+        "title": "마크롱에 이력서 건넨 연세대 학생, 프랑스 대사관 초청받아",
+        "excerpt": "마크롱 대통령의 지난 4월 연세대 강연 현장에서 이력서를 건넨 송예린씨가 오는 14일 프랑스 대사관 행사에 초청받았다.",
+        "body": "지난 4월 에마뉘엘 마크롱 프랑스 대통령이 연세대학교를 방문해 강연했을 때 현장에서 대통령에게 이력서를 건넨 연세대 학생 송예린씨가 오는 14일 프랑스 대사관 행사에 초청받았다. 원문에 따르면 송씨는 마크롱 대통령의 손에 직접 이력서를 전달한 인물로 소개됐다. 이번 초청은 당시 강연장에서 벌어진 이력서 전달 이후 이어진 후속 일정이라는 점에서 주목된다. 다만 행사 성격이나 송씨의 향후 진로와 관련한 추가 내용은 원문 요약에 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Yonsei Student Who Handed Resume to Macron Invited to French Embassy Event",
+        "excerpt": "Song Ye-rin, the Yonsei student who handed her resume to President Emmanuel Macron during his April lecture, has been invited to a French Embassy event on the 14th.",
+        "body": "Song Ye-rin, a Yonsei University student who handed her resume to French President Emmanuel Macron during his visit and lecture at the university in April, has been invited to a French Embassy event on the 14th. According to the original report, Song was introduced as the student who directly placed her resume in Macron’s hands at the lecture venue. The invitation is drawing attention as a follow-up to that unexpected moment during the presidential visit. No further details about the nature of the embassy event or Song’s future career plans were included in the provided source summary. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "マクロン氏に履歴書を渡した延世大生、フランス大使館行事に招待",
+        "excerpt": "4月の延世大学講演でマクロン仏大統領に履歴書を渡したソン・イェリンさんが、14日のフランス大使館行事に招待された。",
+        "body": "4月、エマニュエル・マクロン仏大統領が延世大学を訪問して講演した際、現場で大統領に履歴書を渡した延世大学の学生ソン・イェリンさんが、14日に開かれるフランス大使館の行事に招待された。原文によると、ソンさんはマクロン大統領の手に直接履歴書を手渡した人物として紹介された。今回の招待は、講演会場で起きた履歴書提出の場面に続く動きとして注目される。ただし、行事の性格やソンさんの今後の進路に関する追加情報は、原文要約には示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "向马克龙递交简历的延世大学学生获法国大使馆邀请",
+        "excerpt": "4月马克龙总统在延世大学演讲时递交简历的学生宋艺潾，已获邀出席14日举行的法国大使馆活动。",
+        "body": "今年4月，法国总统埃马纽埃尔·马克龙访问延世大学并发表演讲时，现场向总统递交简历的延世大学学生宋艺潾，已获邀参加14日举行的法国大使馆活动。根据原文报道，宋艺潾被介绍为将简历直接交到马克龙总统手中的学生。此次邀请因发生在当时演讲现场递交简历之后，成为后续进展而受到关注。不过，原文摘要并未提供该活动的具体性质，也未说明宋艺潾未来职业规划的更多内容。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Estudiante de Yonsei que entregó su CV a Macron fue invitada por la Embajada francesa",
+        "excerpt": "Song Ye-rin, estudiante de Yonsei que entregó su currículum a Emmanuel Macron durante su conferencia de abril, fue invitada a un acto de la Embajada francesa el día 14.",
+        "body": "Song Ye-rin, estudiante de la Universidad Yonsei que entregó su currículum al presidente francés Emmanuel Macron durante la visita y conferencia que realizó en abril en la universidad, fue invitada a un evento de la Embajada de Francia el día 14. Según el reporte original, Song fue presentada como la estudiante que puso directamente su currículum en manos de Macron en el lugar de la conferencia. La invitación llama la atención como una continuación de aquel episodio ocurrido durante la visita presidencial. El resumen de la fuente no aporta más detalles sobre el carácter del acto ni sobre los planes profesionales de Song. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Estudante da Yonsei que entregou currículo a Macron é convidada pela Embaixada francesa",
+        "excerpt": "Song Ye-rin, estudante da Yonsei que entregou seu currículo a Emmanuel Macron durante palestra em abril, foi convidada para evento da Embaixada da França no dia 14.",
+        "body": "Song Ye-rin, estudante da Universidade Yonsei que entregou seu currículo ao presidente francês Emmanuel Macron durante a visita e palestra dele à instituição em abril, foi convidada para um evento da Embaixada da França no dia 14. Segundo a reportagem original, Song foi apresentada como a aluna que entregou diretamente o currículo nas mãos de Macron no local da palestra. O convite chama atenção por ser um desdobramento daquele momento ocorrido durante a visita presidencial. O resumo da fonte não traz detalhes adicionais sobre a natureza do evento nem sobre os planos de carreira de Song. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Yonsei-Studentin übergab Macron Lebenslauf und wird zur französischen Botschaft eingeladen",
+        "excerpt": "Song Ye-rin, die Macron bei seinem Yonsei-Vortrag im April ihren Lebenslauf übergab, wurde zu einer Veranstaltung der französischen Botschaft am 14. eingeladen.",
+        "body": "Song Ye-rin, eine Studentin der Yonsei University, die dem französischen Präsidenten Emmanuel Macron bei dessen Besuch und Vortrag an der Universität im April ihren Lebenslauf übergab, wurde zu einer Veranstaltung der französischen Botschaft am 14. eingeladen. Dem Originalbericht zufolge wurde Song als die Studentin vorgestellt, die Macron ihren Lebenslauf direkt in die Hand gab. Die Einladung sorgt für Aufmerksamkeit, weil sie als Folgetermin nach dieser Szene während des Präsidentenbesuchs gilt. Weitere Angaben zur Art der Botschaftsveranstaltung oder zu Songs künftigen beruflichen Plänen enthält die vorliegende Zusammenfassung nicht. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’étudiante de Yonsei qui a remis son CV à Macron invitée à l’ambassade de France",
+        "excerpt": "Song Ye-rin, étudiante de Yonsei qui a remis son CV à Emmanuel Macron lors de sa conférence d’avril, a été invitée à un événement de l’ambassade de France le 14.",
+        "body": "Song Ye-rin, étudiante de l’Université Yonsei qui a remis son CV au président français Emmanuel Macron lors de sa visite et de sa conférence sur le campus en avril, a été invitée à un événement de l’ambassade de France le 14. Selon l’article d’origine, Song est présentée comme l’étudiante ayant directement placé son CV entre les mains de Macron dans la salle de conférence. Cette invitation attire l’attention comme une suite à cet épisode survenu pendant la visite présidentielle. Le résumé fourni ne précise toutefois pas la nature de l’événement ni les projets de carrière de Song. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طالبة من جامعة يونسي سلّمت سيرتها لماكرون تتلقى دعوة من السفارة الفرنسية",
+        "excerpt": "سونغ يي-رين، طالبة يونسي التي سلّمت سيرتها الذاتية للرئيس إيمانويل ماكرون خلال محاضرته في أبريل، دُعيت إلى فعالية بالسفارة الفرنسية يوم 14.",
+        "body": "تلقت سونغ يي-رين، الطالبة في جامعة يونسي التي سلّمت سيرتها الذاتية للرئيس الفرنسي إيمانويل ماكرون أثناء زيارته للجامعة وإلقائه محاضرة فيها في أبريل، دعوة لحضور فعالية في السفارة الفرنسية يوم 14. ووفقاً للتقرير الأصلي، قُدمت سونغ بوصفها الطالبة التي وضعت سيرتها مباشرة في يد ماكرون داخل قاعة المحاضرة. وتلفت هذه الدعوة الانتباه لأنها تأتي كمتابعة لذلك الموقف الذي حدث خلال الزيارة الرئاسية. ولم يتضمن ملخص المصدر تفاصيل إضافية عن طبيعة الفعالية أو خطط سونغ المهنية المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मैक्रों को रिज्यूमे देने वाली योनसेई छात्रा को फ्रांसीसी दूतावास ने बुलाया",
+        "excerpt": "अप्रैल में योनसेई विश्वविद्यालय के व्याख्यान के दौरान राष्ट्रपति इमैनुएल मैक्रों को रिज्यूमे देने वाली सॉन्ग ये-रिन को 14 तारीख के फ्रांसीसी दूतावास कार्यक्रम में आमंत्रित किया गया है।",
+        "body": "अप्रैल में फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने योनसेई विश्वविद्यालय का दौरा कर व्याख्यान दिया था। उसी दौरान उन्हें अपना रिज्यूमे सौंपने वाली योनसेई विश्वविद्यालय की छात्रा सॉन्ग ये-रिन को 14 तारीख को होने वाले फ्रांसीसी दूतावास के कार्यक्रम में आमंत्रित किया गया है। मूल रिपोर्ट के अनुसार, सॉन्ग को उस छात्रा के रूप में बताया गया जिसने व्याख्यान स्थल पर सीधे मैक्रों के हाथों में अपना रिज्यूमे दिया। यह निमंत्रण उस घटना के बाद की आगे की कड़ी के रूप में ध्यान खींच रहा है। स्रोत सारांश में कार्यक्रम की प्रकृति या सॉन्ग की आगे की करियर योजना पर अतिरिक्त जानकारी नहीं दी गई है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Mahasiswi Yonsei yang Serahkan CV ke Macron Diundang Kedutaan Prancis",
+        "excerpt": "Song Ye-rin, mahasiswi Yonsei yang menyerahkan CV kepada Presiden Emmanuel Macron saat kuliah umum April lalu, diundang ke acara Kedutaan Prancis pada tanggal 14.",
+        "body": "Song Ye-rin, mahasiswi Universitas Yonsei yang menyerahkan CV kepada Presiden Prancis Emmanuel Macron saat kunjungan dan kuliah umum Macron di kampus tersebut pada April, diundang ke acara Kedutaan Prancis pada tanggal 14. Menurut laporan asli, Song diperkenalkan sebagai mahasiswi yang langsung menyerahkan CV ke tangan Macron di lokasi kuliah umum. Undangan ini menarik perhatian karena menjadi kelanjutan dari momen penyerahan CV yang terjadi saat kunjungan presiden tersebut. Namun, ringkasan sumber tidak memuat detail tambahan mengenai jenis acara maupun rencana karier Song ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5bb92df73698",
+    "slug": "국토장관-양도세-중과-매물-잠김-우려-크지만국민주권정부는-과거-정부와-달라-600935",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T04:41:59.182Z",
+    "updatedAt": "2026-05-10T04:41:59.182Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042493",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042493",
+    "titleFingerprint": "95575535bf307a2d1685d658be188b740b3a0406",
+    "dedupKeys": [
+      "5bb92df736983069230ba0ad69695d5f7a54c5e6",
+      "95575535bf307a2d1685d658be188b740b3a0406",
+      "986dc377270c19ce35f821f64cfd9947d33d78d1"
+    ],
+    "imageUrl": "/images/articles/5bb92df73698.jpg",
+    "i18n": {
+      "ko": {
+        "title": "양도세 중과 재개 우려에 국토장관 “매물 잠김 우려 크지만 정부는 다르다”",
+        "excerpt": "김윤덕 국토교통부 장관은 10일 SNS에서 양도세 중과 재개 후 매물 잠김 우려가 크다는 지적에 국민주권정부는 과거 정부와 다르다고 밝혔다.",
+        "body": "김윤덕 국토교통부 장관은 10일 사회관계망서비스(SNS)를 통해 양도세 중과 재개 이후 부동산 시장에서 매물 잠김이 커질 수 있다는 우려에 대해 입장을 밝혔다. 김 장관은 “양도세 중과 재개 후 매물 잠김 우려의 목소리가 크지만, 국민주권정부는 다를 것이고 다를 수밖에 없다”고 말했다. 양도세 중과는 주택 보유자의 매도 판단과 시장 매물 흐름에 직접 영향을 줄 수 있어 시장의 관심이 집중되고 있다. 김 장관의 발언은 정책 재개 과정에서 제기되는 공급 위축 우려를 의식한 메시지로 풀이된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Capital Gains Tax Surcharge Concern: Land Minister Says Government Will Be Different",
+        "excerpt": "Land Minister Kim Yoon-duk said on May 10 via SNS that although concerns over a property listing freeze after the tax surcharge restart are high, this government is different.",
+        "body": "Minister of Land, Infrastructure and Transport Kim Yoon-duk addressed concerns on May 10 through social media that restarting the capital gains tax surcharge could lead to a freeze in property listings. Kim said, “There are loud concerns about listings being locked up after the capital gains tax surcharge resumes, but the People’s Sovereignty Government will be different and must be different.” The surcharge is drawing market attention because it can directly affect homeowners’ selling decisions and the flow of listings. His remarks appear to respond to concerns that the policy restart could reduce available supply. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "譲渡税重課再開に懸念、国土相「売り控え懸念は大きいが政府は違う」",
+        "excerpt": "金潤徳国土交通部長官は10日、SNSで譲渡税重課再開後の売り控え懸念が大きいとの指摘に、国民主権政府は過去の政府と違うと述べた。",
+        "body": "金潤徳国土交通部長官は10日、SNSを通じて、譲渡税重課の再開後に不動産市場で売り控えが強まる可能性があるとの懸念について見解を示した。金長官は「譲渡税重課再開後、売り物件がロックされるとの懸念の声は大きいが、国民主権政府は違うだろうし、違わざるを得ない」と述べた。譲渡税重課は住宅保有者の売却判断や市場の物件供給の流れに直接影響し得るため、市場の関心が集まっている。今回の発言は、政策再開に伴う供給縮小懸念を意識したものとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "转让税重税重启引担忧，韩国国土部长称“政府将不同以往”",
+        "excerpt": "韩国国土交通部长官金润德10日在社交媒体表示，虽有转让税重税重启后房源被锁定的担忧，但国民主权政府不同于过去政府。",
+        "body": "韩国国土交通部长官金润德10日通过社交媒体，就转让税重税重启后房地产市场可能出现房源被锁定的担忧表明立场。金润德表示：“转让税重税重启后，关于房源被锁定的担忧声音很大，但国民主权政府会不同，也必然不同。”转让税重税可能直接影响住房持有者的出售判断和市场房源流动，因此受到市场关注。金部长的发言被视为回应政策重启过程中外界对供应收缩的担忧。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Recargo al impuesto de plusvalías preocupa: ministro dice que el Gobierno será distinto",
+        "excerpt": "El ministro Kim Yoon-duk dijo el 10 de mayo en redes sociales que, aunque preocupa el bloqueo de viviendas en venta tras reactivar el recargo, este Gobierno será diferente.",
+        "body": "El ministro de Tierra, Infraestructura y Transporte, Kim Yoon-duk, se pronunció el 10 de mayo en redes sociales sobre las preocupaciones de que la reactivación del recargo al impuesto sobre ganancias de capital pueda bloquear la salida de viviendas al mercado. Kim dijo: “Hay muchas voces preocupadas por el bloqueo de propiedades en venta tras la reanudación del recargo, pero el Gobierno de Soberanía Popular será diferente y no puede sino serlo”. La medida atrae atención porque puede influir directamente en la decisión de vender de los propietarios y en el flujo de oferta. Sus palabras responden a temores de contracción de la oferta. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sobretaxa sobre ganhos de capital preocupa; ministro diz que governo será diferente",
+        "excerpt": "Kim Yoon-duk afirmou em 10 de maio nas redes sociais que, apesar do receio de travamento de imóveis à venda após a retomada da sobretaxa, o governo será diferente.",
+        "body": "O ministro da Terra, Infraestrutura e Transporte, Kim Yoon-duk, comentou em 10 de maio nas redes sociais as preocupações de que a retomada da sobretaxa sobre ganhos de capital possa travar a oferta de imóveis no mercado. Kim afirmou: “Há muitas vozes preocupadas com o bloqueio de imóveis à venda após a retomada da sobretaxa, mas o Governo de Soberania Popular será diferente e não poderá deixar de ser diferente”. A sobretaxa chama atenção porque pode afetar diretamente a decisão de venda dos proprietários e o fluxo de ofertas. A declaração busca responder aos receios de redução de oferta durante a retomada da política. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Sorge um Kapitalertragsteuer-Zuschlag: Minister sagt, Regierung werde anders handeln",
+        "excerpt": "Landminister Kim Yoon-duk sagte am 10. Mai in sozialen Medien, trotz großer Sorge vor eingefrorenen Immobilienangeboten nach Wiederaufnahme des Zuschlags werde die Regierung anders sein.",
+        "body": "Kim Yoon-duk, Minister für Land, Infrastruktur und Verkehr, äußerte sich am 10. Mai in sozialen Medien zu Sorgen, dass die Wiederaufnahme des Zuschlags auf die Kapitalertragsteuer zu einem Einfrieren von Immobilienangeboten führen könnte. Kim sagte: „Die Stimmen, die nach der Wiederaufnahme des Zuschlags eine Blockade von Angeboten befürchten, sind laut, aber die Regierung der Volkssouveränität wird anders sein und muss anders sein.“ Der Zuschlag steht im Fokus, weil er Verkaufsentscheidungen von Hauseigentümern und den Angebotsfluss direkt beeinflussen kann. Die Aussage reagiert auf Befürchtungen einer Angebotsverknappung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Surtaxe sur les plus-values: le ministre répond aux craintes de gel des ventes",
+        "excerpt": "Le ministre Kim Yoon-duk a déclaré le 10 mai sur les réseaux sociaux que, malgré les craintes de blocage des biens après la reprise de la surtaxe, le gouvernement sera différent.",
+        "body": "Le ministre du Territoire, des Infrastructures et des Transports, Kim Yoon-duk, a réagi le 10 mai sur les réseaux sociaux aux inquiétudes selon lesquelles la reprise de la surtaxe sur les plus-values pourrait bloquer les mises en vente immobilières. Kim a déclaré: “Les inquiétudes concernant un gel des biens à vendre après la reprise de la surtaxe sont fortes, mais le Gouvernement de souveraineté populaire sera différent et ne peut qu’être différent.” Cette surtaxe retient l’attention car elle peut influer directement sur la décision de vendre des propriétaires et sur le flux d’offres. Ses propos répondent aux craintes d’une contraction de l’offre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مخاوف من تشديد ضريبة الأرباح الرأسمالية ووزير الأراضي: الحكومة ستكون مختلفة",
+        "excerpt": "قال وزير الأراضي الكوري كيم يون دوك في 10 مايو عبر وسائل التواصل إن مخاوف تجميد المعروض بعد استئناف التشديد كبيرة، لكن حكومة السيادة الشعبية ستكون مختلفة.",
+        "body": "أوضح وزير الأراضي والبنية التحتية والنقل كيم يون دوك في 10 مايو عبر وسائل التواصل الاجتماعي موقفه من المخاوف من أن يؤدي استئناف تشديد ضريبة الأرباح الرأسمالية إلى تجميد المعروض في سوق العقارات. وقال كيم: “تتصاعد الأصوات القلقة من انحباس المعروض بعد استئناف تشديد ضريبة الأرباح الرأسمالية، لكن حكومة السيادة الشعبية ستكون مختلفة ولا بد أن تكون مختلفة.” وتحظى هذه الضريبة باهتمام السوق لأنها قد تؤثر مباشرة في قرارات مالكي المنازل بشأن البيع وفي تدفق المعروض. وتأتي تصريحاته ردا على مخاوف تقلص العرض مع استئناف السياسة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कैपिटल गेन टैक्स सरचार्ज पर चिंता, भूमि मंत्री बोले सरकार अलग होगी",
+        "excerpt": "भूमि मंत्री किम यून-डक ने 10 मई को SNS पर कहा कि टैक्स सरचार्ज फिर शुरू होने के बाद संपत्ति बिक्री रुकने की चिंता बड़ी है, लेकिन यह सरकार अलग होगी।",
+        "body": "भूमि, अवसंरचना और परिवहन मंत्री किम यून-डक ने 10 मई को सोशल मीडिया के जरिए उस चिंता पर प्रतिक्रिया दी कि कैपिटल गेन टैक्स सरचार्ज फिर शुरू होने के बाद रियल एस्टेट बाजार में बिक्री के लिए उपलब्ध संपत्तियां रुक सकती हैं। किम ने कहा, “सरचार्ज फिर शुरू होने के बाद बिक्री योग्य संपत्तियों के लॉक होने की चिंता की आवाजें बड़ी हैं, लेकिन पीपुल्स सॉवरेन्टी गवर्नमेंट अलग होगी और अलग होना ही होगा।” यह सरचार्ज बाजार के ध्यान में है क्योंकि यह घर मालिकों के बेचने के निर्णय और उपलब्ध संपत्तियों के प्रवाह को सीधे प्रभावित कर सकता है। उनका बयान नीति बहाली से जुड़ी आपूर्ति घटने की आशंका का जवाब माना जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kekhawatiran Pajak Capital Gain Diperberat, Menteri: Pemerintah Akan Berbeda",
+        "excerpt": "Menteri Kim Yoon-duk pada 10 Mei lewat media sosial mengatakan kekhawatiran pasokan properti terkunci setelah pemberlakuan kembali pajak berat memang besar, tetapi pemerintah akan berbeda.",
+        "body": "Menteri Pertanahan, Infrastruktur, dan Transportasi Kim Yoon-duk pada 10 Mei menyampaikan sikapnya melalui media sosial terkait kekhawatiran bahwa pemberlakuan kembali pajak capital gain yang diperberat dapat membuat pasokan properti di pasar terkunci. Kim mengatakan, “Suara kekhawatiran atas terkuncinya pasokan setelah pajak capital gain yang diperberat kembali diberlakukan memang besar, tetapi Pemerintah Kedaulatan Rakyat akan berbeda dan memang harus berbeda.” Kebijakan ini menjadi perhatian karena dapat langsung memengaruhi keputusan pemilik rumah untuk menjual dan arus pasokan di pasar. Pernyataan Kim dipandang sebagai respons atas kekhawatiran berkurangnya pasokan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "e239cd255104",
     "slug": "갑자기-공항-활주로-뛰어든-보행자여객기와-충돌해-숨져-153473",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Song Ja-hwa, Ibu Lee Bang-woo Kepala Tim Humas FSS, Meninggal Dunia",
         "excerpt": "Song Ja-hwa meninggal pada tanggal 9 pukul 14.00 dalam usia 84 tahun. Ia adalah ibu Lee Bang-woo, kepala tim perencanaan humas di Financial Supervisory Service Korea.",
         "body": "Song Ja-hwa meninggal pada tanggal 9 pukul 14.00. Ia berusia 84 tahun. Almarhumah adalah ibu Lee Bang-woo, kepala tim perencanaan humas di Kantor Humas Financial Supervisory Service Korea. Rumah duka disiapkan di Balai Kesejahteraan Seogwangseori, Andeok-myeon, Kota Seogwipo, Jeju. Kabar duka ini menyampaikan wafatnya ibu seorang pejabat humas FSS dan memuat informasi dasar yang diperlukan untuk pemberitahuan pemakaman, yaitu nama almarhumah, waktu wafat, usia, hubungan keluarga, dan lokasi rumah duka. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ba15cdcf344f",
-    "slug": "포토-5차-석유-최고가격-동결-227195",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T18:12:48.171Z",
-    "updatedAt": "2026-05-09T18:12:48.171Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084619i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084619i",
-    "titleFingerprint": "10ef0adcdadb419a8ddabb178081c8426416a26d",
-    "dedupKeys": [
-      "ba15cdcf344f16b9fe8d7a8502976494322ce5ae",
-      "10ef0adcdadb419a8ddabb178081c8426416a26d",
-      "0a36ed6a962d4586155ba9ee1f888089c1322ef1"
-    ],
-    "imageUrl": "/images/articles/ba15cdcf344f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "5차 석유 최고가격 동결, 가격 상한 유지 소식에 시장 주목",
-        "excerpt": "한국경제는 5차 석유 최고가격이 동결됐다고 보도했다. 이번 보도는 석유 가격 상한이 유지됐다는 사실을 사진 기사 형식으로 전했다.",
-        "body": "한국경제는 5차 석유 최고가격이 동결됐다고 보도했다. 이번 소식은 석유 가격 상한이 새로 조정되지 않고 기존 수준으로 유지됐다는 내용을 담고 있다. 원문은 사진 기사 형식으로 해당 사실을 전했으며, 별도의 인상이나 인하 내용은 제시하지 않았다. 석유 최고가격 동결은 가격 관리 흐름을 확인하는 신호로 받아들여질 수 있으나, 기사에 구체적인 배경 수치나 향후 조치가 공개되지는 않았다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "Fifth Oil Price Ceiling Frozen as Market Watches Cap Decision",
-        "excerpt": "Hankyung reported that the fifth oil maximum price was frozen. The photo article stated that the oil price ceiling remained unchanged.",
-        "body": "Hankyung reported that the fifth oil maximum price was frozen. The item says the oil price ceiling was not newly adjusted and remained at its existing level. The original was presented as a photo article and did not state any separate increase or decrease. The freeze in the oil maximum price can be read as a signal confirming the current price-control stance, but the article did not disclose detailed background figures or future measures. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "第5次石油最高価格を凍結、価格上限維持に市場が注目",
-        "excerpt": "韓国経済は、第5次石油最高価格が凍結されたと報じた。写真記事の形で、石油価格の上限が維持された事実を伝えた。",
-        "body": "韓国経済は、第5次石油最高価格が凍結されたと報じた。今回の内容は、石油価格の上限が新たに調整されず、従来の水準で維持されたというものだ。原文は写真記事の形式でこの事実を伝えており、別途の引き上げや引き下げについては示していない。石油最高価格の凍結は、価格管理の流れを確認する材料となり得るが、記事では具体的な背景数値や今後の措置は公開されていない。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "第五次石油最高价格冻结，价格上限维持引发关注",
-        "excerpt": "韩国经济报道称，第五次石油最高价格被冻结。该照片新闻传达了石油价格上限维持不变这一事实。",
-        "body": "韩国经济报道称，第五次石油最高价格被冻结。此次消息意味着石油价格上限没有进行新的调整，而是维持在原有水平。原文以照片新闻形式传达了这一事实，并未提出另行上调或下调的内容。石油最高价格冻结可被视为确认价格管理走势的信号，但报道中未公开具体背景数据或后续措施。来源为hankyung.com。"
-      },
-      "es": {
-        "title": "Congelado el quinto precio máximo del petróleo y se mantiene el tope",
-        "excerpt": "Hankyung informó que el quinto precio máximo del petróleo quedó congelado. La nota fotográfica indicó que el tope del precio del petróleo se mantuvo sin cambios.",
-        "body": "Hankyung informó que el quinto precio máximo del petróleo quedó congelado. La noticia señala que el tope del precio del petróleo no fue ajustado de nuevo y se mantuvo en su nivel existente. El original fue presentado como una nota fotográfica y no mencionó ningún aumento ni recorte separado. La congelación del precio máximo del petróleo puede entenderse como una señal sobre la continuidad del control de precios, pero el artículo no divulgó cifras de contexto ni medidas futuras. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Quinto preço máximo do petróleo é congelado e teto segue mantido",
-        "excerpt": "O Hankyung informou que o quinto preço máximo do petróleo foi congelado. A notícia em formato de foto afirmou que o teto do preço do petróleo permaneceu inalterado.",
-        "body": "O Hankyung informou que o quinto preço máximo do petróleo foi congelado. A informação indica que o teto do preço do petróleo não passou por novo ajuste e permaneceu no nível existente. O texto original foi apresentado como uma notícia fotográfica e não trouxe aumento ou redução separados. O congelamento do preço máximo do petróleo pode ser visto como um sinal da continuidade da gestão de preços, mas a matéria não divulgou números de contexto nem medidas futuras. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Fünfter Öl-Höchstpreis eingefroren, Preisdeckel bleibt unverändert",
-        "excerpt": "Hankyung berichtete, dass der fünfte Öl-Höchstpreis eingefroren wurde. Der Fotobeitrag meldete, dass die Preisobergrenze für Öl unverändert blieb.",
-        "body": "Hankyung berichtete, dass der fünfte Öl-Höchstpreis eingefroren wurde. Die Meldung besagt, dass die Preisobergrenze für Öl nicht neu angepasst wurde und auf dem bisherigen Niveau bleibt. Der Originalbeitrag erschien als Fotomeldung und nannte weder eine gesonderte Erhöhung noch eine Senkung. Das Einfrieren des Öl-Höchstpreises kann als Hinweis auf die Fortsetzung der Preissteuerung verstanden werden, doch konkrete Hintergrundzahlen oder künftige Maßnahmen wurden im Artikel nicht veröffentlicht. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Cinquième prix plafond du pétrole gelé, le seuil reste inchangé",
-        "excerpt": "Hankyung a rapporté que le cinquième prix maximum du pétrole avait été gelé. L’article photo indique que le plafond du prix du pétrole est resté inchangé.",
-        "body": "Hankyung a rapporté que le cinquième prix maximum du pétrole avait été gelé. L’information signifie que le plafond du prix du pétrole n’a pas été de nouveau ajusté et reste à son niveau existant. Le texte original a été publié sous forme d’article photo et ne mentionne ni hausse ni baisse distincte. Le gel du prix maximum du pétrole peut être interprété comme un signal de maintien de la gestion des prix, mais l’article ne fournit pas de chiffres de contexte ni de mesures futures. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "تجميد الحد الأقصى الخامس لسعر النفط مع بقاء السقف دون تغيير",
-        "excerpt": "أفادت هانكيونغ بأن الحد الأقصى الخامس لسعر النفط جرى تجميده. ونقلت المادة المصورة أن سقف سعر النفط بقي من دون تغيير.",
-        "body": "أفادت هانكيونغ بأن الحد الأقصى الخامس لسعر النفط جرى تجميده. وتوضح المعلومة أن سقف سعر النفط لم يخضع لتعديل جديد وبقي عند مستواه القائم. وقد نُشر النص الأصلي في صيغة خبر مصور، ولم يذكر أي زيادة أو خفض منفصل. ويمكن النظر إلى تجميد الحد الأقصى لسعر النفط بوصفه إشارة إلى استمرار مسار إدارة الأسعار، لكن المقال لم يكشف أرقاما تفصيلية للخلفية أو إجراءات لاحقة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "तेल की पांचवीं अधिकतम कीमत स्थिर, मूल्य सीमा यथावत बनी रही",
-        "excerpt": "हैंकयुंग ने बताया कि तेल की पांचवीं अधिकतम कीमत स्थिर रखी गई। फोटो समाचार में कहा गया कि तेल मूल्य सीमा में कोई बदलाव नहीं किया गया।",
-        "body": "हैंकयुंग ने बताया कि तेल की पांचवीं अधिकतम कीमत स्थिर रखी गई। इस सूचना का अर्थ है कि तेल की मूल्य सीमा में नया समायोजन नहीं हुआ और मौजूदा स्तर बरकरार रहा। मूल सामग्री फोटो समाचार के रूप में प्रस्तुत की गई थी और उसमें अलग से बढ़ोतरी या कटौती का उल्लेख नहीं था। तेल की अधिकतम कीमत स्थिर रखना मूल्य प्रबंधन की मौजूदा दिशा की पुष्टि करने वाला संकेत माना जा सकता है, लेकिन लेख में विस्तृत पृष्ठभूमि आंकड़े या आगे की कार्रवाई सार्वजनिक नहीं की गई। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Harga maksimum minyak kelima dibekukan, batas harga tetap berlaku",
-        "excerpt": "Hankyung melaporkan bahwa harga maksimum minyak kelima dibekukan. Artikel foto itu menyampaikan bahwa batas harga minyak tetap tidak berubah.",
-        "body": "Hankyung melaporkan bahwa harga maksimum minyak kelima dibekukan. Informasi ini berarti batas harga minyak tidak disesuaikan kembali dan tetap berada pada level yang sudah berlaku. Naskah asli disajikan dalam bentuk artikel foto dan tidak menyebutkan kenaikan atau penurunan terpisah. Pembekuan harga maksimum minyak dapat dibaca sebagai sinyal yang mengonfirmasi arah pengelolaan harga, tetapi artikel tersebut tidak memuat angka latar belakang rinci maupun langkah berikutnya. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "9cb019386e9e",
-    "slug": "동원그룹-고환율-부담에도-매출-2조5300억원-기록-958977",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T18:12:02.966Z",
-    "updatedAt": "2026-05-09T18:12:02.966Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084621g",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084621g",
-    "titleFingerprint": "11045013320d0886d6953c79ff50e2768b712a6e",
-    "dedupKeys": [
-      "9cb019386e9e7d4cfb1a537888e56aa8d49314a3",
-      "11045013320d0886d6953c79ff50e2768b712a6e",
-      "d0e6164002c30f60dfe35bb7fc027db86497f270"
-    ],
-    "imageUrl": "/images/articles/9cb019386e9e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "동원그룹 매출 2조5300억원, 고환율 부담 속 실적 방어 주목",
-        "excerpt": "동원그룹은 고환율 부담이 이어진 가운데 매출 2조5300억원을 기록했다. 이번 실적은 환율 압박 속에서도 매출 규모를 유지한 사례로 주목된다.",
-        "body": "동원그룹이 고환율 부담에도 매출 2조5300억원을 기록했다. 누가, 무엇을, 왜의 관점에서 보면 동원그룹은 환율 상승에 따른 비용 압박이 있는 상황에서도 매출 규모를 확보한 것으로 보도됐다. 이번 수치는 고환율이 기업 실적에 부담으로 작용하는 가운데 나온 매출 성과라는 점에서 의미가 있다. 다만 원문에 이익, 세부 사업별 실적, 향후 목표 등 추가 수치는 제시되지 않았다. 시장에서는 환율 흐름이 계속 실적 변수로 작용할 수 있는 만큼 매출 방어 여부가 향후 관전 포인트가 될 수 있다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "Dongwon Group Posts KRW 2.53 Trillion Revenue Despite High FX Burden",
-        "excerpt": "Dongwon Group recorded revenue of KRW 2.53 trillion despite pressure from high exchange rates, drawing attention to its sales performance under cost headwinds.",
-        "body": "Dongwon Group recorded revenue of KRW 2.53 trillion despite the burden of high exchange rates. In terms of who, what and why, the report says Dongwon Group secured this sales figure while facing cost pressure linked to currency movements. The figure is notable because it came at a time when elevated exchange rates are weighing on corporate results. The original information did not provide additional figures on profit, business-unit performance or future targets. As exchange-rate conditions may remain an earnings variable, whether the company can continue defending revenue will be a key point to watch. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "東遠グループ、ウォン安負担の中で売上高2兆5300億ウォンを記録",
-        "excerpt": "東遠グループは高い為替負担が続く中、売上高2兆5300億ウォンを記録した。為替圧力下でも売上規模を確保した点が注目される。",
-        "body": "東遠グループが、高い為替負担にもかかわらず売上高2兆5300億ウォンを記録した。誰が、何を、なぜという観点では、同社は為替上昇に伴うコスト圧力がある状況でも売上規模を確保したと報じられた。今回の数値は、高為替が企業業績の負担要因となる中で示された売上実績という点で意味がある。ただし原文では、利益、事業別の詳細実績、今後の目標など追加の数値は示されていない。為替の流れが今後も業績変数となり得るため、売上を守れるかが注目点となる。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "东远集团营收达2.53万亿韩元，高汇率压力下仍受关注",
-        "excerpt": "东远集团在高汇率压力持续的情况下，实现营收2.53万亿韩元。该业绩显示其在汇率成本压力下仍维持了销售规模。",
-        "body": "东远集团在高汇率负担下仍实现营收2.53万亿韩元。从谁、做了什么、为何重要来看，报道显示，东远集团在汇率上升带来成本压力的情况下，仍确保了这一销售规模。该数据之所以受到关注，是因为它出现在高汇率继续对企业业绩形成压力的背景下。不过，原文未提供利润、各业务部门表现或未来目标等追加数据。由于汇率走势仍可能成为业绩变量，企业能否继续守住营收规模，将是后续观察重点。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "Dongwon Group alcanza 2,53 billones de wones pese a la presión cambiaria",
-        "excerpt": "Dongwon Group registró ingresos de 2,53 billones de wones pese a la carga de un tipo de cambio elevado, un dato relevante bajo presión de costos.",
-        "body": "Dongwon Group registró ingresos de 2,53 billones de wones pese a la carga derivada de los altos tipos de cambio. Desde la perspectiva de quién, qué y por qué, el reporte indica que la compañía aseguró ese volumen de ventas en un contexto de presión de costos vinculada al tipo de cambio. La cifra destaca porque se produjo mientras el alto nivel cambiario sigue actuando como factor de presión para los resultados empresariales. El texto original no entregó datos adicionales sobre ganancias, desempeño por unidades de negocio ni objetivos futuros. Si el tipo de cambio continúa influyendo en los resultados, la defensa de los ingresos será un punto clave. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Dongwon Group registra 2,53 trilhões de won em receita apesar do câmbio",
-        "excerpt": "O Dongwon Group registrou receita de 2,53 trilhões de won mesmo com a pressão de câmbio elevado, destacando a manutenção das vendas no período.",
-        "body": "O Dongwon Group registrou receita de 2,53 trilhões de won apesar do peso de taxas de câmbio elevadas. Em termos de quem, o quê e por quê, a reportagem aponta que o grupo garantiu esse volume de vendas em um ambiente de pressão de custos ligada ao câmbio. O número chama atenção porque foi divulgado em um contexto no qual o câmbio alto pesa sobre os resultados corporativos. O texto original não apresentou dados adicionais sobre lucro, desempenho por área de negócio ou metas futuras. Como o câmbio pode seguir como variável para os resultados, a capacidade de preservar a receita será um ponto de acompanhamento. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Dongwon Group erzielt 2,53 Bio. Won Umsatz trotz hoher Wechselkurslast",
-        "excerpt": "Dongwon Group erzielte trotz Belastungen durch hohe Wechselkurse einen Umsatz von 2,53 Billionen Won. Der Umsatz steht im Fokus, da Kostendruck anhält.",
-        "body": "Dongwon Group hat trotz der Belastung durch hohe Wechselkurse einen Umsatz von 2,53 Billionen Won erzielt. Aus Sicht von wer, was und warum zeigt der Bericht, dass das Unternehmen dieses Umsatzvolumen in einer Lage sichern konnte, in der Wechselkursbewegungen Kostendruck verursachen. Die Zahl ist bemerkenswert, weil sie in einem Umfeld veröffentlicht wurde, in dem hohe Wechselkurse die Ergebnisse von Unternehmen belasten. Der Originaltext enthält keine weiteren Angaben zu Gewinn, einzelnen Geschäftsbereichen oder künftigen Zielen. Da Wechselkurse weiter ein Ergebnisfaktor bleiben können, wird die Stabilisierung des Umsatzes ein wichtiger Beobachtungspunkt sein. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Dongwon Group atteint 2 530 milliards de wons malgré la pression du change",
-        "excerpt": "Dongwon Group a enregistré un chiffre d’affaires de 2 530 milliards de wons malgré le poids d’un taux de change élevé, un signal suivi de près.",
-        "body": "Dongwon Group a enregistré un chiffre d’affaires de 2 530 milliards de wons malgré la charge liée à des taux de change élevés. Sous l’angle du qui, quoi et pourquoi, le reportage indique que le groupe a préservé ce niveau de ventes alors que les mouvements de change exerçaient une pression sur les coûts. Ce chiffre retient l’attention car il intervient dans un contexte où le change élevé pèse sur les performances des entreprises. Le texte d’origine ne fournit pas d’autres données sur le bénéfice, les résultats par activité ou les objectifs futurs. Si le change reste une variable de résultat, la capacité à défendre le chiffre d’affaires sera à suivre. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "مجموعة دونغوون تسجل إيرادات 2.53 تريليون وون رغم ضغط الصرف",
-        "excerpt": "سجلت مجموعة دونغوون إيرادات قدرها 2.53 تريليون وون رغم عبء أسعار الصرف المرتفعة، ما يسلط الضوء على قدرتها على الحفاظ على حجم المبيعات.",
-        "body": "سجلت مجموعة دونغوون إيرادات بلغت 2.53 تريليون وون رغم العبء الناتج عن ارتفاع أسعار الصرف. ومن زاوية من فعل ماذا ولماذا، يشير التقرير إلى أن المجموعة حافظت على هذا الحجم من المبيعات في ظل ضغوط تكلفة مرتبطة بتحركات العملة. وتكتسب هذه الأرقام أهمية لأنها جاءت في وقت يشكل فيه ارتفاع سعر الصرف عاملا ضاغطا على نتائج الشركات. ولم تقدم المادة الأصلية أرقاما إضافية عن الأرباح أو أداء وحدات الأعمال أو الأهداف المستقبلية. وبما أن حركة الصرف قد تبقى متغيرا مؤثرا في النتائج، فإن قدرة الشركة على الدفاع عن الإيرادات ستظل نقطة متابعة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Dongwon Group की आय 2.53 ट्रिलियन वॉन, ऊंची विनिमय दरों के बावजूद",
-        "excerpt": "Dongwon Group ने ऊंची विनिमय दरों के दबाव के बावजूद 2.53 ट्रिलियन वॉन की आय दर्ज की। लागत दबाव के बीच बिक्री स्तर बनाए रखना ध्यान में है।",
-        "body": "Dongwon Group ने ऊंची विनिमय दरों के बोझ के बावजूद 2.53 ट्रिलियन वॉन की आय दर्ज की। कौन, क्या और क्यों के संदर्भ में, रिपोर्ट बताती है कि कंपनी ने मुद्रा विनिमय से जुड़े लागत दबाव के माहौल में भी यह बिक्री स्तर सुरक्षित किया। यह आंकड़ा इसलिए महत्वपूर्ण है क्योंकि ऊंची विनिमय दरें कंपनियों के नतीजों पर दबाव डाल रही हैं। मूल जानकारी में लाभ, अलग-अलग कारोबार इकाइयों के प्रदर्शन या भविष्य के लक्ष्यों से जुड़े अतिरिक्त आंकड़े नहीं दिए गए। यदि विनिमय दरों की चाल आगे भी नतीजों को प्रभावित करती रही, तो आय को बनाए रखने की क्षमता प्रमुख निगरानी बिंदु रहेगी। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Dongwon Group Catat Pendapatan 2,53 Triliun Won di Tengah Beban Kurs",
-        "excerpt": "Dongwon Group mencatat pendapatan 2,53 triliun won meski terbebani kurs tinggi, sehingga kinerja penjualan di tengah tekanan biaya menjadi sorotan.",
-        "body": "Dongwon Group mencatat pendapatan sebesar 2,53 triliun won meski menghadapi beban kurs yang tinggi. Dari sisi siapa, apa, dan mengapa, laporan menyebut perusahaan tetap mengamankan skala penjualan tersebut di tengah tekanan biaya yang terkait pergerakan nilai tukar. Angka ini menjadi perhatian karena muncul saat kurs tinggi menjadi faktor yang membebani kinerja perusahaan. Informasi asli tidak menyebutkan angka tambahan mengenai laba, kinerja per lini bisnis, atau target ke depan. Karena arah kurs masih dapat menjadi variabel bagi hasil usaha, kemampuan mempertahankan pendapatan akan menjadi poin pengamatan berikutnya. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "a1650ee4be21",
-    "slug": "참치식품-부진했는데도동원그룹-영업익-17-늘어난-이유-293326",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T18:11:04.358Z",
-    "updatedAt": "2026-05-09T18:11:04.358Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084703i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084703i",
-    "titleFingerprint": "ad9f068e1422eaad79ac15f06f6c04e5d14602ae",
-    "dedupKeys": [
-      "a1650ee4be216fedd067ead9da9bd908540f4698",
-      "ad9f068e1422eaad79ac15f06f6c04e5d14602ae",
-      "c35bf931d63990d44fec58e4b184f677560dd633"
-    ],
-    "imageUrl": "/images/articles/a1650ee4be21.jpg",
-    "i18n": {
-      "ko": {
-        "title": "동원그룹 영업익 17% 증가, 참치·식품 부진 넘긴 B2B 효과",
-        "excerpt": "동원그룹 사업 지주사 동원산업은 2026년 1분기 매출 2조5300억원, 영업이익 1462억원을 기록하며 수산·식품 부진에도 B2B 성장으로 수익성을 방어했다.",
-        "body": "동원그룹 사업 지주사 동원산업은 8일 공시를 통해 2026년 1분기 연결 기준 매출 2조5300억원, 영업이익 1462억원을 기록했다고 밝혔다. 전년 동기 대비 매출은 9.1%, 영업이익은 17.1% 증가했다. 고환율과 원자재 수급 불안, 내수 침체로 수산·식품 부문 수익성은 약화됐다. 동원산업 별도 기준 매출은 2958억원으로 7.8% 줄고 영업이익은 666억원으로 35.7% 감소했다. 동원F&B도 매출은 소폭 늘었지만 원가 부담과 오프라인 경쟁 심화로 영업이익이 6% 이상 줄었다. 반면 동원홈푸드는 식자재·축산물 유통 신규 거래처와 조미사업 성장으로 전 부문이 성장했다. 동원시스템즈는 연포장재와 식품캔 등 고부가 제품 수출 확대로 매출 3378억원, 영업이익 130억원을 냈다. 동원로엑스와 동원건설산업도 신규 물량과 수주 효과로 두 자릿수 성장했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Dongwon Group Operating Profit Rises 17% as B2B Offsets Tuna and Food Weakness",
-        "excerpt": "Dongwon Industries, Dongwon Group’s holding company, posted Q1 2026 sales of 2.53 trillion won and operating profit of 146.2 billion won as B2B growth offset weaker fisheries and food units.",
-        "body": "Dongwon Industries, the business holding company of Dongwon Group, said in a May 8 filing that its consolidated sales reached 2.53 trillion won and operating profit 146.2 billion won in the first quarter of 2026. Sales rose 9.1% and operating profit increased 17.1% from a year earlier. Profitability in fisheries and food weakened because of the strong dollar, unstable raw-material supply and sluggish domestic demand. On a separate basis, Dongwon Industries’ sales fell 7.8% to 295.8 billion won and operating profit dropped 35.7% to 66.6 billion won. Dongwon F&B’s sales edged up, but operating profit fell more than 6% due to cost pressure and tougher offline competition. By contrast, Dongwon Home Food grew across all businesses, helped by new food-material and livestock distribution clients and seasoning growth. Dongwon Systems posted sales of 337.8 billion won and operating profit of 13.0 billion won on exports of higher-value flexible packaging and food cans. Dongwon LOEX and Dongwon Construction Industries also delivered double-digit growth on new volume and orders. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "東遠グループ営業益17％増、マグロ・食品不振をB2Bが補う",
-        "excerpt": "東遠グループの事業持株会社、東遠産業は2026年1〜3月期に売上高2兆5300億ウォン、営業利益1462億ウォンを記録し、水産・食品の不振をB2B成長で補った。",
-        "body": "東遠グループの事業持株会社である東遠産業は8日の公示で、2026年1〜3月期の連結売上高が2兆5300億ウォン、営業利益が1462億ウォンだったと発表した。前年同期比で売上高は9.1％、営業利益は17.1％増加した。高為替、原材料需給の不安、内需低迷により、水産・食品部門の収益性は弱まった。東遠産業単体では売上高が2958億ウォンで7.8％減、営業利益は666億ウォンで35.7％減少した。東遠F&Bも売上高は小幅に増えたが、原価負担とオフライン競争の激化で営業利益が6％超減った。一方、東遠ホームフードは食材・畜産物流通の新規取引先拡大と調味事業の成長で全事業が伸びた。東遠システムズは軟包装材や食品缶など高付加価値製品の輸出拡大により、売上高3378億ウォン、営業利益130億ウォンを計上した。東遠LOEXと東遠建設産業も新規物量と受注効果で二桁成長した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "东远集团营业利润增17%，B2B抵消金枪鱼与食品疲软",
-        "excerpt": "东远集团事业控股公司东远产业2026年一季度实现销售额2.53万亿韩元、营业利润1462亿韩元，B2B增长抵消了水产和食品业务走弱。",
-        "body": "东远集团事业控股公司东远产业在8日公告称，2026年第一季度合并口径销售额为2.53万亿韩元，营业利润为1462亿韩元。销售额同比增长9.1%，营业利润增长17.1%。受高汇率、原材料供应不稳和内需低迷影响，水产和食品板块盈利能力减弱。东远产业单体口径销售额为2958亿韩元，同比下降7.8%；营业利润为666亿韩元，下降35.7%。东远F&B销售额小幅增加，但因成本压力和线下竞争加剧，营业利润下降超过6%。相反，东远Home Food在食材和畜产品流通新增客户、调味业务增长带动下，全业务线实现增长。东远Systems受益于软包装材料、食品罐等高附加值产品出口扩大，录得销售额3378亿韩元、营业利润130亿韩元。东远LOEX和东远建设产业也因新增货量和工程订单实现两位数增长。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Dongwon gana 17% más pese a la debilidad del atún y alimentos por el impulso B2B",
-        "excerpt": "Dongwon Industries, holding operativo de Dongwon Group, registró en el primer trimestre de 2026 ventas de 2,53 billones de wones y beneficio operativo de 146.200 millones gracias al B2B.",
-        "body": "Dongwon Industries, holding operativo de Dongwon Group, informó en una comunicación del 8 de mayo que sus ventas consolidadas del primer trimestre de 2026 fueron de 2,53 billones de wones y su beneficio operativo de 146.200 millones de wones. Las ventas crecieron un 9,1% interanual y el beneficio operativo un 17,1%. La rentabilidad de pesca y alimentación se debilitó por el tipo de cambio elevado, la inestabilidad en materias primas y la floja demanda interna. En cifras separadas, Dongwon Industries facturó 295.800 millones de wones, un 7,8% menos, y su beneficio operativo bajó un 35,7% hasta 66.600 millones. Dongwon F&B elevó ligeramente las ventas, pero su beneficio operativo cayó más del 6% por costes y mayor competencia offline. En cambio, Dongwon Home Food creció en todas sus áreas por nuevos clientes en distribución de insumos alimentarios y ganado, además del negocio de condimentos. Dongwon Systems registró ventas de 337.800 millones de wones y beneficio operativo de 13.000 millones por exportaciones de envases flexibles y latas alimentarias de mayor valor. Dongwon LOEX y Dongwon Construction Industries también crecieron a doble dígito por nuevos volúmenes y pedidos. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Lucro operacional da Dongwon sobe 17% com B2B apesar de atum e alimentos fracos",
-        "excerpt": "A Dongwon Industries, holding operacional do Dongwon Group, registrou no 1º trimestre de 2026 receita de 2,53 trilhões de won e lucro operacional de 146,2 bilhões, apoiada pelo B2B.",
-        "body": "A Dongwon Industries, holding operacional do Dongwon Group, informou em comunicado de 8 de maio que registrou receita consolidada de 2,53 trilhões de won e lucro operacional de 146,2 bilhões de won no primeiro trimestre de 2026. A receita subiu 9,1% e o lucro operacional avançou 17,1% ante o ano anterior. A rentabilidade em pesca e alimentos enfraqueceu por causa do câmbio elevado, da instabilidade no fornecimento de matérias-primas e da demanda doméstica fraca. Em base individual, a receita da Dongwon Industries caiu 7,8%, para 295,8 bilhões de won, e o lucro operacional recuou 35,7%, para 66,6 bilhões. A Dongwon F&B teve leve alta de receita, mas o lucro operacional caiu mais de 6% por pressão de custos e competição offline mais intensa. Já a Dongwon Home Food cresceu em todos os negócios, com novos clientes em distribuição de insumos alimentares e carnes e avanço em temperos. A Dongwon Systems teve receita de 337,8 bilhões de won e lucro operacional de 13,0 bilhões com exportações de embalagens flexíveis e latas alimentícias de maior valor. Dongwon LOEX e Dongwon Construction Industries também cresceram dois dígitos com novos volumes e encomendas. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Dongwon steigert Betriebsgewinn um 17%, B2B gleicht Schwäche bei Thunfisch und Food aus",
-        "excerpt": "Dongwon Industries, die operative Holding der Dongwon Group, erzielte im ersten Quartal 2026 2,53 Billionen Won Umsatz und 146,2 Milliarden Won Betriebsgewinn dank B2B-Wachstum.",
-        "body": "Dongwon Industries, die operative Holding der Dongwon Group, teilte in einer Mitteilung vom 8. Mai mit, dass der Konzernumsatz im ersten Quartal 2026 bei 2,53 Billionen Won und der Betriebsgewinn bei 146,2 Milliarden Won lag. Der Umsatz stieg gegenüber dem Vorjahr um 9,1%, der Betriebsgewinn um 17,1%. Die Profitabilität in Fischerei und Lebensmitteln wurde durch hohe Wechselkurse, unsichere Rohstoffversorgung und schwache Inlandsnachfrage belastet. Auf Einzelbasis sank der Umsatz von Dongwon Industries um 7,8% auf 295,8 Milliarden Won, der Betriebsgewinn fiel um 35,7% auf 66,6 Milliarden Won. Dongwon F&B steigerte den Umsatz leicht, doch der Betriebsgewinn ging wegen Kostendrucks und stärkerem Offline-Wettbewerb um mehr als 6% zurück. Dagegen wuchs Dongwon Home Food in allen Bereichen, gestützt auf neue Kunden in Lebensmittel- und Viehdistribution sowie Wachstum bei Würzprodukten. Dongwon Systems erzielte mit Exporten höherwertiger flexibler Verpackungen und Lebensmitteldosen 337,8 Milliarden Won Umsatz und 13,0 Milliarden Won Betriebsgewinn. Auch Dongwon LOEX und Dongwon Construction Industries wuchsen dank neuer Volumina und Aufträge zweistellig. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Dongwon augmente son résultat opérationnel de 17%, le B2B compense l’atonie du thon et de l’alimentaire",
-        "excerpt": "Dongwon Industries, holding opérationnelle de Dongwon Group, a réalisé au T1 2026 un chiffre d’affaires de 2,53 billions de wons et un résultat opérationnel de 146,2 milliards grâce au B2B.",
-        "body": "Dongwon Industries, holding opérationnelle de Dongwon Group, a annoncé dans un dépôt du 8 mai un chiffre d’affaires consolidé de 2,53 billions de wons et un résultat opérationnel de 146,2 milliards de wons au premier trimestre 2026. Les ventes ont progressé de 9,1% sur un an et le résultat opérationnel de 17,1%. La rentabilité de la pêche et de l’alimentaire s’est affaiblie sous l’effet d’un taux de change élevé, de tensions sur les matières premières et d’une demande intérieure atone. En données séparées, les ventes de Dongwon Industries ont reculé de 7,8% à 295,8 milliards de wons et le résultat opérationnel de 35,7% à 66,6 milliards. Dongwon F&B a légèrement augmenté ses ventes, mais son résultat opérationnel a baissé de plus de 6% à cause des coûts et d’une concurrence offline plus forte. À l’inverse, Dongwon Home Food a progressé dans toutes ses activités grâce à de nouveaux clients dans la distribution alimentaire et de bétail, ainsi qu’à la croissance des assaisonnements. Dongwon Systems a réalisé 337,8 milliards de wons de ventes et 13,0 milliards de résultat opérationnel grâce aux exportations d’emballages souples et de boîtes alimentaires à forte valeur ajoutée. Dongwon LOEX et Dongwon Construction Industries ont aussi enregistré une croissance à deux chiffres grâce aux nouveaux volumes et commandes. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أرباح دونغ وون التشغيلية ترتفع 17% رغم ضعف التونة والأغذية بدعم B2B",
-        "excerpt": "سجلت دونغ وون إندستريز، شركة القابضة التشغيلية لمجموعة دونغ وون، في الربع الأول 2026 مبيعات 2.53 تريليون وون وأرباحا تشغيلية 146.2 مليار وون بدعم أعمال الشركات.",
-        "body": "أعلنت دونغ وون إندستريز، الشركة القابضة التشغيلية لمجموعة دونغ وون، في إفصاح بتاريخ 8 مايو أن مبيعاتها الموحدة في الربع الأول من 2026 بلغت 2.53 تريليون وون، وأن الأرباح التشغيلية بلغت 146.2 مليار وون. وارتفعت المبيعات 9.1% على أساس سنوي، وزادت الأرباح التشغيلية 17.1%. تراجعت ربحية قطاعي المصايد والأغذية بسبب ارتفاع سعر الصرف، واضطراب إمدادات المواد الخام، وضعف الطلب المحلي. وعلى أساس منفرد، انخفضت مبيعات دونغ وون إندستريز 7.8% إلى 295.8 مليار وون، وهبطت الأرباح التشغيلية 35.7% إلى 66.6 مليار وون. كما زادت مبيعات دونغ وون F&B بشكل طفيف، لكن أرباحها التشغيلية انخفضت بأكثر من 6% بفعل ضغوط التكلفة واحتدام المنافسة خارج الإنترنت. في المقابل، نمت دونغ وون هوم فود في جميع الأنشطة بفضل عملاء جدد في توزيع المواد الغذائية والماشية ونمو أعمال التوابل. وسجلت دونغ وون سيستمز مبيعات 337.8 مليار وون وأرباحا تشغيلية 13.0 مليار وون مع توسع صادرات العبوات المرنة وعلب الأغذية عالية القيمة. كما حققت دونغ وون LOEX ودونغ وون للإنشاءات نموا من رقمين بفضل أحجام وشحنات وطلبات جديدة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Dongwon का परिचालन लाभ 17% बढ़ा, ट्यूना और खाद्य कमजोरी की भरपाई B2B ने की",
-        "excerpt": "Dongwon Group की होल्डिंग कंपनी Dongwon Industries ने 2026 की पहली तिमाही में 2.53 ट्रिलियन वॉन बिक्री और 146.2 बिलियन वॉन परिचालन लाभ दर्ज किया, B2B वृद्धि सहारा बनी।",
-        "body": "Dongwon Group की बिजनेस होल्डिंग कंपनी Dongwon Industries ने 8 मई की फाइलिंग में बताया कि 2026 की पहली तिमाही में उसका समेकित राजस्व 2.53 ट्रिलियन वॉन और परिचालन लाभ 146.2 बिलियन वॉन रहा। सालाना आधार पर बिक्री 9.1% और परिचालन लाभ 17.1% बढ़ा। ऊंची विनिमय दर, कच्चे माल की आपूर्ति में अस्थिरता और कमजोर घरेलू मांग के कारण मत्स्य और खाद्य क्षेत्रों की लाभप्रदता घटी। अलग आधार पर Dongwon Industries की बिक्री 7.8% घटकर 295.8 बिलियन वॉन रही और परिचालन लाभ 35.7% गिरकर 66.6 बिलियन वॉन रह गया। Dongwon F&B की बिक्री थोड़ी बढ़ी, लेकिन लागत दबाव और ऑफलाइन प्रतिस्पर्धा तेज होने से परिचालन लाभ 6% से अधिक घटा। इसके उलट, Dongwon Home Food ने खाद्य सामग्री और पशुधन वितरण में नए ग्राहकों तथा सीजनिंग कारोबार की वृद्धि से सभी क्षेत्रों में विस्तार किया। Dongwon Systems ने उच्च मूल्य वाले फ्लेक्सिबल पैकेजिंग और फूड कैन निर्यात से 337.8 बिलियन वॉन बिक्री और 13.0 बिलियन वॉन परिचालन लाभ दर्ज किया। Dongwon LOEX और Dongwon Construction Industries ने भी नए वॉल्यूम और ऑर्डर के कारण दो अंकों की वृद्धि हासिल की। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Laba Operasi Dongwon Naik 17%, B2B Tutupi Lemahnya Tuna dan Pangan",
-        "excerpt": "Dongwon Industries, induk usaha Dongwon Group, mencatat penjualan kuartal I 2026 sebesar 2,53 triliun won dan laba operasi 146,2 miliar won karena pertumbuhan B2B menahan tekanan bisnis perikanan dan pangan.",
-        "body": "Dongwon Industries, perusahaan induk usaha Dongwon Group, menyatakan dalam keterbukaan pada 8 Mei bahwa penjualan konsolidasi kuartal pertama 2026 mencapai 2,53 triliun won dan laba operasi 146,2 miliar won. Penjualan naik 9,1% dan laba operasi meningkat 17,1% dibanding tahun sebelumnya. Profitabilitas sektor perikanan dan pangan melemah akibat kurs tinggi, ketidakpastian pasokan bahan baku, dan lesunya permintaan domestik. Secara terpisah, penjualan Dongwon Industries turun 7,8% menjadi 295,8 miliar won, sementara laba operasi merosot 35,7% menjadi 66,6 miliar won. Dongwon F&B mencatat sedikit kenaikan penjualan, tetapi laba operasi turun lebih dari 6% karena tekanan biaya dan persaingan offline yang makin ketat. Sebaliknya, Dongwon Home Food tumbuh di seluruh lini berkat pelanggan baru distribusi bahan pangan dan ternak serta pertumbuhan bisnis bumbu. Dongwon Systems membukukan penjualan 337,8 miliar won dan laba operasi 13,0 miliar won dari ekspor kemasan fleksibel dan kaleng pangan bernilai tambah tinggi. Dongwon LOEX dan Dongwon Construction Industries juga tumbuh dua digit berkat volume baru dan pesanan proyek. Sumber: hankyung.com"
       }
     }
   }
