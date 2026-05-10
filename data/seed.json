@@ -1,5 +1,230 @@
 [
   {
+    "id": "0aa2f4504c6d",
+    "slug": "내일-출근길-우산-챙기세요전국-비내리고-곳곳엔-강풍-860102",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T16:30:25.420Z",
+    "updatedAt": "2026-05-10T16:30:25.420Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042706",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042706",
+    "titleFingerprint": "e5ea92cf429a80f70cdeab1919e1ec7849a84b8d",
+    "dedupKeys": [
+      "0aa2f4504c6d07f319eb4a1480c47565ce97841f",
+      "e5ea92cf429a80f70cdeab1919e1ec7849a84b8d",
+      "5e12eac11cf194adef4c4d08dd687e60aa2946c9"
+    ],
+    "imageUrl": "/images/articles/0aa2f4504c6d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "11일 전국 비·곳곳 강풍 예보, 월요일 출근길 우산 챙겨야",
+        "excerpt": "기상청과 연합뉴스에 따르면 월요일인 11일 중국 산둥반도 부근에서 다가오는 기압골 영향으로 전국이 흐려지고 비가 내리며 곳곳에는 강풍이 예상된다.",
+        "body": "월요일인 11일에는 전국이 차차 흐려지며 비가 내리겠다. 10일 기상청과 연합뉴스에 따르면 중국 산둥반도 부근에서 다가오는 기압골의 영향으로 오전부터 중부지방에 비가 시작되고, 오후부터 전국으로 비가 확대될 것으로 보인다. 곳곳에는 강풍도 예보돼 출근길과 이동 시 우산을 챙기고 시설물 관리에 유의할 필요가 있다. 이번 비는 주 초반 날씨 흐름에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Rain Across Korea on May 11 With Strong Winds in Places, Umbrellas Needed for Monday Commute",
+        "excerpt": "According to the Korea Meteorological Administration and Yonhap, a trough approaching from near China’s Shandong Peninsula will bring cloudy skies, rain nationwide and strong winds in some areas on Monday, May 11.",
+        "body": "On Monday, May 11, skies across South Korea are expected to gradually turn cloudy, with rain falling nationwide. According to the Korea Meteorological Administration and Yonhap, as cited by mk.co.kr, the weather will be affected by a trough approaching from near China’s Shandong Peninsula. Rain is expected to begin in the central region from the morning and spread nationwide from the afternoon. Strong winds are also forecast in some areas, so commuters and travelers should carry umbrellas and take care around outdoor facilities. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "11日は韓国全国で雨、各地で強風も　月曜の通勤時は傘の準備を",
+        "excerpt": "気象庁と聯合ニュースによると、11日月曜日は中国・山東半島付近から近づく気圧の谷の影響で韓国全域が次第に曇り、雨と一部地域の強風が予想される。",
+        "body": "11日月曜日、韓国では全国的に次第に雲が広がり、雨が降る見通しだ。mk.co.krが気象庁と聯合ニュースを引用して伝えたところによると、中国・山東半島付近から近づく気圧の谷の影響で、午前から中部地方で雨が降り始め、午後には全国へ広がるとみられる。各地では強風も予想されており、通勤や移動の際は傘を用意し、屋外施設物の管理にも注意が必要だ。週明けの天気に影響を与える雨となりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "5月11日韩国全国有雨局地强风，周一通勤请带伞",
+        "excerpt": "据韩国气象厅和韩联社消息，5月11日周一受中国山东半岛附近东移气压槽影响，韩国全国将逐渐转阴并降雨，部分地区还可能出现强风。",
+        "body": "5月11日周一，韩国全国天气将逐渐转阴，并出现降雨。mk.co.kr援引韩国气象厅和韩联社报道称，受中国山东半岛附近移来的气压槽影响，降雨预计上午先从中部地区开始，下午起扩大到全国。部分地区还预报有强风，因此通勤和外出时需携带雨伞，并注意户外设施安全。此次降雨预计将影响本周初的天气走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lluvia en toda Corea el 11 de mayo y vientos fuertes en zonas: paraguas para el lunes",
+        "excerpt": "Según la agencia meteorológica surcoreana y Yonhap, el lunes 11 de mayo una vaguada procedente de la zona de Shandong, China, nublará el país, dejará lluvia generalizada y vientos fuertes puntuales.",
+        "body": "El lunes 11 de mayo, Corea del Sur verá cómo el cielo se nubla de forma gradual y se registran lluvias en todo el país. Según la Administración Meteorológica de Corea y Yonhap, citadas por mk.co.kr, el tiempo estará influido por una vaguada que se aproxima desde las cercanías de la península china de Shandong. La lluvia comenzará por la mañana en la región central y se extenderá por la tarde al conjunto del país. También se prevén vientos fuertes en algunos puntos, por lo que conviene llevar paraguas en los desplazamientos y vigilar las instalaciones exteriores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Chuva em toda a Coreia em 11 de maio e ventos fortes em áreas: leve guarda-chuva na segunda",
+        "excerpt": "Segundo a agência meteorológica sul-coreana e a Yonhap, uma cavado vindo da região de Shandong, na China, deixará o país nublado na segunda, 11 de maio, com chuva nacional e ventos fortes pontuais.",
+        "body": "Na segunda-feira, 11 de maio, o tempo na Coreia do Sul deve ficar gradualmente nublado, com chuva em todo o país. Segundo a Administração Meteorológica da Coreia e a Yonhap, citadas pelo mk.co.kr, a condição será influenciada por um cavado que se aproxima da região da península de Shandong, na China. A chuva deve começar pela manhã na região central e se espalhar para todo o território à tarde. Também há previsão de ventos fortes em alguns locais, o que exige guarda-chuva nos deslocamentos e atenção a estruturas externas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Regen in ganz Korea am 11. Mai, örtlich starke Winde: Schirm für den Montagmorgen",
+        "excerpt": "Nach Angaben des koreanischen Wetterdienstes und von Yonhap bringt ein Tiefdrucktrog aus der Nähe der chinesischen Shandong-Halbinsel am Montag, 11. Mai, landesweit Wolken, Regen und teils starke Winde.",
+        "body": "Am Montag, dem 11. Mai, soll es in Südkorea landesweit zunehmend bewölkt werden und regnen. Wie mk.co.kr unter Berufung auf den koreanischen Wetterdienst und Yonhap berichtet, wirkt ein Tiefdrucktrog, der sich aus der Nähe der chinesischen Shandong-Halbinsel nähert. Der Regen dürfte am Morgen in der Zentralregion beginnen und sich am Nachmittag auf das ganze Land ausweiten. In einigen Gebieten werden zudem starke Winde erwartet. Pendler und Reisende sollten daher einen Schirm mitnehmen und bei Außenanlagen vorsichtig sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Pluie sur toute la Corée le 11 mai et vents forts par endroits: parapluie conseillé lundi",
+        "excerpt": "Selon l’agence météorologique coréenne et Yonhap, un creux dépressionnaire venant de la région du Shandong, en Chine, rendra le pays nuageux lundi 11 mai, avec pluie généralisée et vents forts localisés.",
+        "body": "Lundi 11 mai, le ciel devrait progressivement se couvrir sur l’ensemble de la Corée du Sud et la pluie est attendue dans tout le pays. Selon l’Administration météorologique de Corée et Yonhap, cités par mk.co.kr, la situation sera influencée par un creux dépressionnaire approchant depuis les environs de la péninsule chinoise du Shandong. La pluie devrait commencer le matin dans la région centrale, puis s’étendre au pays dans l’après-midi. Des vents forts sont aussi prévus par endroits; il est donc recommandé de prendre un parapluie et de faire attention aux installations extérieures. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أمطار في كوريا كلها يوم 11 مايو ورياح قوية بمناطق عدة: لا تنسوا المظلة صباح الاثنين",
+        "excerpt": "بحسب إدارة الأرصاد الكورية ويونهاب، سيؤثر أخدود جوي قادم من قرب شبه جزيرة شاندونغ الصينية يوم الاثنين 11 مايو، فتزداد الغيوم وتهطل أمطار في أنحاء البلاد مع رياح قوية محلية.",
+        "body": "يوم الاثنين 11 مايو، من المتوقع أن تزداد الغيوم تدريجيا في كوريا الجنوبية وأن تهطل الأمطار في أنحاء البلاد. ووفقا لإدارة الأرصاد الجوية الكورية ووكالة يونهاب، كما نقل موقع mk.co.kr، فإن الطقس سيتأثر بأخدود جوي يقترب من منطقة شبه جزيرة شاندونغ في الصين. ومن المنتظر أن تبدأ الأمطار صباحا في المناطق الوسطى، ثم تمتد بعد الظهر إلى مختلف أنحاء البلاد. كما حذرت التوقعات من رياح قوية في بعض المناطق، لذلك ينصح بحمل المظلات أثناء التنقل والانتباه إلى المنشآت الخارجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "11 मई को पूरे कोरिया में बारिश, कई जगह तेज हवा; सोमवार की यात्रा में छाता रखें",
+        "excerpt": "कोरिया मौसम प्रशासन और योनहाप के अनुसार, चीन के शानदोंग प्रायद्वीप के पास से आ रही द्रोणी के असर से सोमवार 11 मई को देशभर में बादल, बारिश और कुछ जगह तेज हवा की संभावना है।",
+        "body": "सोमवार, 11 मई को दक्षिण कोरिया में आसमान धीरे-धीरे बादलों से घिरेगा और देशभर में बारिश होने की संभावना है। mk.co.kr के अनुसार, कोरिया मौसम प्रशासन और योनहाप ने बताया कि चीन के शानदोंग प्रायद्वीप के पास से आ रही द्रोणी का असर मौसम पर पड़ेगा। बारिश सुबह मध्य क्षेत्र से शुरू होने और दोपहर से पूरे देश में फैलने की उम्मीद है। कुछ स्थानों पर तेज हवा का भी पूर्वानुमान है, इसलिए काम पर जाते समय और यात्रा के दौरान छाता रखना तथा बाहरी ढांचों को लेकर सावधानी बरतना जरूरी होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hujan Meluas di Korea pada 11 Mei, Angin Kencang di Sejumlah Wilayah: Bawa Payung Senin",
+        "excerpt": "Menurut badan meteorologi Korea dan Yonhap, palung tekanan dari dekat Semenanjung Shandong, China, akan membuat Senin 11 Mei berawan, hujan di seluruh negeri, dan angin kencang di beberapa tempat.",
+        "body": "Pada Senin, 11 Mei, cuaca di Korea Selatan diperkirakan berangsur mendung dan hujan turun di seluruh negeri. Menurut Administrasi Meteorologi Korea dan Yonhap, seperti dikutip mk.co.kr, kondisi ini dipengaruhi palung tekanan yang mendekat dari sekitar Semenanjung Shandong, China. Hujan diperkirakan mulai turun di wilayah tengah pada pagi hari dan meluas ke seluruh negeri pada sore hari. Angin kencang juga diprakirakan terjadi di sejumlah lokasi, sehingga warga yang berangkat kerja atau bepergian perlu membawa payung dan memperhatikan keamanan fasilitas luar ruang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "68e7dc2b0ab8",
+    "slug": "주식-20-수익-났다고-팔지마라-5년-이상-보유를-309107",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T16:29:22.833Z",
+    "updatedAt": "2026-05-10T16:29:22.833Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042708",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042708",
+    "titleFingerprint": "ff75480c133a220aef37e845e77c2e9aa16b851d",
+    "dedupKeys": [
+      "68e7dc2b0ab86299eb1943c2e7e859e8a041a6ff",
+      "ff75480c133a220aef37e845e77c2e9aa16b851d",
+      "0c13d17dc020ed3e0879608e7a1d47718c9295d8"
+    ],
+    "imageUrl": "/images/articles/68e7dc2b0ab8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "주식 20% 수익에도 팔지 말라는 조언, 5년 이상 보유가 핵심",
+        "excerpt": "지난 9일 서울 강남구 코엑스 ‘2026 서울머니쇼’에서 장기 보유와 복리 효과를 강조하며, 주식이 20% 올라도 성급히 팔지 말라는 투자 조언이 나왔다.",
+        "body": "지난 9일 서울 강남구 코엑스에서 열린 ‘2026 서울머니쇼’에서 주식 투자와 자산 형성을 둘러싼 장기 보유 조언이 제시됐다. 핵심 메시지는 주식에서 20% 수익이 났다고 곧바로 팔기보다 5년 이상 보유하며 복리 효과를 경험하라는 것이다. 발표자는 “부자들은 복리의 마법을 경험한 이들”이라며 한번 복리를 경험하면 투자자도 부자가 될 수 있다고 강조했다. 단기 수익 실현보다 시간이 누적되는 구조를 중시한 발언으로, 변동성 속에서도 장기 투자 원칙을 다시 환기했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Don’t Sell Stocks After a 20% Gain: The Case for Holding 5 Years",
+        "excerpt": "At the 2026 Seoul Money Show held May 9 at COEX in Gangnam, Seoul, speakers emphasized long-term holding and compounding over selling stocks after a 20% gain.",
+        "body": "At the 2026 Seoul Money Show held on May 9 at COEX in Gangnam, Seoul, a message on stock investing and wealth building focused on long-term holding. The core advice was not to sell simply because a stock has gained 20%, but to hold for five years or longer and experience the effect of compounding. The speaker said wealthy people are those who have experienced the “magic of compounding,” adding that once investors experience it, they too can build wealth. The remarks highlighted the importance of time and disciplined holding rather than short-term profit-taking. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "株式20％上昇でも売らない選択、5年以上保有が重要との助言",
+        "excerpt": "5月9日にソウル江南区COEXで開かれた「2026ソウルマネーショー」で、20％の株式利益より長期保有と複利効果を重視する助言が示された。",
+        "body": "5月9日、ソウル江南区COEXで開かれた「2026ソウルマネーショー」で、株式投資と資産形成をめぐる長期保有の助言が示された。中心となったメッセージは、株式で20％の利益が出たからといってすぐ売るのではなく、5年以上保有して複利効果を経験すべきだというものだった。発言者は「富裕層は複利の魔法を経験した人たち」だとし、一度複利を経験すれば投資家も富を築けると強調した。短期の利益確定より、時間を積み重ねる投資姿勢を重視した内容だった。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "股票赚20%也别急着卖，长期持有5年以上成关键建议",
+        "excerpt": "5月9日在首尔江南区COEX举行的“2026首尔理财展”上，有观点强调长期持有与复利效应，不应因股票上涨20%就急于卖出。",
+        "body": "5月9日，在首尔江南区COEX举行的“2026首尔理财展”上，围绕股票投资和财富积累提出了长期持有的建议。核心信息是，股票获得20%收益后不应立刻卖出，而应持有5年以上，体验复利效果。发言者表示，“富人是体验过复利魔法的人”，并强调一旦投资者体验到复利，也有机会积累财富。这一观点重申了在市场波动中，比起短期获利了结，更应重视时间累积和长期投资原则。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "No vender acciones tras ganar 20%: recomiendan mantener 5 años",
+        "excerpt": "En el Seoul Money Show 2026, celebrado el 9 de mayo en COEX, Gangnam, se destacó la importancia de mantener acciones a largo plazo y aprovechar el interés compuesto.",
+        "body": "En el Seoul Money Show 2026, celebrado el 9 de mayo en COEX, en Gangnam, Seúl, se presentó un consejo centrado en la inversión bursátil y la formación de patrimonio. El mensaje principal fue no vender una acción solo porque haya subido 20%, sino mantenerla durante cinco años o más para experimentar el efecto del interés compuesto. El ponente afirmó que los ricos son personas que han vivido la “magia del interés compuesto” y subrayó que, una vez experimentada, los inversores también pueden construir riqueza. La intervención puso el foco en la disciplina y el tiempo frente a la toma rápida de ganancias. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Não venda ações após ganho de 20%: manter por 5 anos é o foco",
+        "excerpt": "No Seoul Money Show 2026, realizado em 9 de maio no COEX, em Gangnam, especialistas destacaram a posse de longo prazo e o poder dos juros compostos.",
+        "body": "No Seoul Money Show 2026, realizado em 9 de maio no COEX, em Gangnam, Seul, foi apresentada uma orientação sobre investimento em ações e formação de patrimônio com foco no longo prazo. A mensagem central foi não vender uma ação apenas porque ela subiu 20%, mas mantê-la por cinco anos ou mais para experimentar o efeito dos juros compostos. O palestrante afirmou que os ricos são aqueles que já viveram a “magia dos juros compostos” e ressaltou que, ao vivenciá-la, investidores também podem construir riqueza. A fala priorizou tempo e disciplina em vez de realização rápida de lucros. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Aktien nach 20% Gewinn nicht verkaufen: 5 Jahre Halten im Fokus",
+        "excerpt": "Auf der Seoul Money Show 2026 am 9. Mai im COEX in Gangnam wurde betont, Aktien trotz 20% Gewinn langfristig zu halten und den Zinseszinseffekt zu nutzen.",
+        "body": "Auf der Seoul Money Show 2026, die am 9. Mai im COEX in Gangnam, Seoul, stattfand, stand eine Anlagebotschaft zu Aktien und Vermögensaufbau im Mittelpunkt. Der zentrale Rat lautete, eine Aktie nicht sofort zu verkaufen, nur weil sie 20% Gewinn erzielt hat, sondern sie mindestens fünf Jahre zu halten und den Effekt des Zinseszinses zu erfahren. Der Redner sagte, Reiche seien Menschen, die die „Magie des Zinseszinses“ erlebt hätten, und betonte, dass auch Anleger dadurch Vermögen aufbauen könnten. Die Aussage lenkte den Blick weg von kurzfristiger Gewinnmitnahme hin zu Zeit, Geduld und langfristiger Disziplin. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Ne pas vendre une action après 20% de gain: cap sur 5 ans",
+        "excerpt": "Au Seoul Money Show 2026, organisé le 9 mai au COEX de Gangnam, l’accent a été mis sur la détention longue et l’effet des intérêts composés.",
+        "body": "Lors du Seoul Money Show 2026, organisé le 9 mai au COEX, dans le quartier de Gangnam à Séoul, un conseil d’investissement axé sur les actions et la constitution de patrimoine a été présenté. Le message central était de ne pas vendre une action simplement parce qu’elle a gagné 20%, mais de la conserver pendant cinq ans ou plus afin de ressentir l’effet des intérêts composés. L’intervenant a déclaré que les personnes riches sont celles qui ont expérimenté la « magie des intérêts composés » et a souligné qu’une fois cette expérience acquise, les investisseurs peuvent aussi bâtir leur richesse. La priorité a été donnée au temps plutôt qu’à la prise rapide de bénéfices. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لا تبيع الأسهم بعد ربح 20%: الاحتفاظ لخمس سنوات هو الأساس",
+        "excerpt": "في معرض سيول للمال 2026 الذي عُقد في 9 مايو في كويكس بمنطقة غانغنام، برزت نصيحة تركز على الاحتفاظ الطويل بالأسهم وقوة العائد المركب.",
+        "body": "في 9 مايو، خلال معرض سيول للمال 2026 الذي عُقد في كويكس بمنطقة غانغنام في سيول، طُرحت نصيحة استثمارية تتعلق بالأسهم وبناء الثروة على المدى الطويل. كانت الرسالة الأساسية هي عدم بيع السهم لمجرد تحقيق ربح بنسبة 20%، بل الاحتفاظ به لخمس سنوات أو أكثر من أجل اختبار أثر العائد المركب. وقال المتحدث إن الأثرياء هم من اختبروا “سحر العائد المركب”، مؤكدا أن المستثمرين يمكنهم أيضا بناء الثروة إذا مروا بهذه التجربة. ركزت الرسالة على الزمن والانضباط بدلا من جني الأرباح السريع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "शेयर में 20% लाभ पर भी न बेचें, 5 साल से अधिक होल्ड करने की सलाह",
+        "excerpt": "9 मई को सियोल के गंगनम स्थित COEX में आयोजित 2026 Seoul Money Show में शेयरों की लंबी अवधि की होल्डिंग और कंपाउंडिंग के असर पर जोर दिया गया।",
+        "body": "9 मई को सियोल के गंगनम स्थित COEX में आयोजित 2026 Seoul Money Show में शेयर निवेश और संपत्ति निर्माण को लेकर लंबी अवधि की होल्डिंग पर सलाह दी गई। मुख्य संदेश यह था कि किसी शेयर में 20% लाभ होने पर तुरंत बेचने के बजाय उसे पांच साल या उससे अधिक समय तक रखा जाए, ताकि कंपाउंडिंग का प्रभाव अनुभव किया जा सके। वक्ता ने कहा कि अमीर वे लोग हैं जिन्होंने “कंपाउंडिंग का जादू” अनुभव किया है, और एक बार यह अनुभव होने पर निवेशक भी संपत्ति बना सकते हैं। यह बात अल्पकालिक मुनाफावसूली की जगह समय और अनुशासन के महत्व को रेखांकित करती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jangan jual saham saat untung 20%, simpan 5 tahun jadi kunci",
+        "excerpt": "Pada Seoul Money Show 2026 yang digelar 9 Mei di COEX, Gangnam, pesan investasi menekankan kepemilikan jangka panjang dan efek bunga majemuk.",
+        "body": "Pada 9 Mei, dalam Seoul Money Show 2026 yang digelar di COEX, Gangnam, Seoul, disampaikan nasihat investasi saham dan pembentukan kekayaan yang berfokus pada kepemilikan jangka panjang. Pesan utamanya adalah tidak menjual saham hanya karena sudah naik 20%, melainkan menahannya selama lima tahun atau lebih agar dapat merasakan efek bunga majemuk. Pembicara menyebut orang kaya sebagai mereka yang telah mengalami “keajaiban bunga majemuk” dan menekankan bahwa investor juga dapat membangun kekayaan setelah mengalaminya. Pernyataan ini menyoroti pentingnya waktu dan disiplin dibanding realisasi keuntungan jangka pendek. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9b2bea316500",
+    "slug": "국세청-하나금융-특별세무조사-898804",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T16:28:25.064Z",
+    "updatedAt": "2026-05-10T16:28:25.064Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12042710",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042710",
+    "titleFingerprint": "aafef39b94c54c4ae4d3a2b292bef5d0f78dc97b",
+    "dedupKeys": [
+      "9b2bea3165007e92085e9a9ff2b35898e9286cc6",
+      "aafef39b94c54c4ae4d3a2b292bef5d0f78dc97b",
+      "c04f2d9b2c863f923bdfc69353cf38275997e895"
+    ],
+    "imageUrl": "/images/articles/9b2bea316500.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국세청, 하나금융·하나은행 특별세무조사 착수…4년 만의 비정기 조사",
+        "excerpt": "국세청이 하나금융지주와 하나은행을 대상으로 비정기 특별 세무조사에 착수한 것으로 알려졌다. 2022년 정기 조사 이후 4년 만에 이뤄지는 조사다.",
+        "body": "국세청이 하나금융지주와 하나은행에 대한 비정기 특별 세무조사에 착수한 것으로 알려졌다. 이번 조사는 하나금융이 2022년 정기 세무조사를 받은 뒤 4년 만에 이뤄지는 세무조사로, 정기 조사 성격이 아닌 비정기 특별 조사로 전해졌다. 원문에 따르면 조사 착수 사실 외에 구체적인 조사 배경이나 대상 범위, 쟁점은 확인되지 않았다. 금융지주와 은행을 대상으로 한 특별 세무조사라는 점에서 향후 조사 진행 상황과 하나금융 측 대응이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "National Tax Service Begins Special Tax Audit of Hana Financial and Hana Bank",
+        "excerpt": "South Korea’s National Tax Service has reportedly begun a non-regular special tax audit of Hana Financial Group and Hana Bank, four years after their 2022 regular audit.",
+        "body": "South Korea’s National Tax Service has reportedly begun a non-regular special tax audit of Hana Financial Group and Hana Bank. The audit comes four years after Hana Financial underwent a regular tax audit in 2022 and is described as a special, non-scheduled investigation rather than a routine review. According to the original report, no further details have been confirmed regarding the specific background, scope, or issues under examination. As the audit targets both a financial holding company and a bank, attention is expected to focus on how the investigation proceeds and how Hana Financial responds. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国国税庁、ハナ金融・ハナ銀行に特別税務調査へ…4年ぶり非定期調査",
+        "excerpt": "韓国国税庁がハナ金融持株とハナ銀行を対象に非定期の特別税務調査に着手したと報じられた。2022年の定期調査以来4年ぶりの調査となる。",
+        "body": "韓国国税庁がハナ金融持株とハナ銀行に対する非定期の特別税務調査に着手したと報じられた。今回の調査は、ハナ金融が2022年に定期税務調査を受けてから4年ぶりに行われる税務調査であり、定期調査ではなく非定期の特別調査とされている。原文によると、調査着手の事実以外に、具体的な背景や対象範囲、争点は確認されていない。金融持株会社と銀行を対象とする特別税務調査であるため、今後の調査の進展とハナ金融側の対応が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国国税厅对韩亚金融和韩亚银行启动特别税务调查",
+        "excerpt": "据悉，韩国国税厅已对韩亚金融控股和韩亚银行启动非定期特别税务调查。这是其2022年接受定期税务调查后，时隔4年的调查。",
+        "body": "据报道，韩国国税厅已对韩亚金融控股和韩亚银行启动非定期特别税务调查。本次调查是在韩亚金融于2022年接受定期税务调查后，时隔4年进行的税务调查，并被称为非定期特别调查，而非例行调查。根据原文，除已启动调查这一事实外，具体调查背景、对象范围和争议焦点尚未得到确认。由于此次特别税务调查涉及金融控股公司和银行，后续调查进展以及韩亚金融方面的应对将受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El fisco surcoreano inicia auditoría especial a Hana Financial y Hana Bank",
+        "excerpt": "El Servicio Nacional de Impuestos de Corea del Sur habría iniciado una auditoría fiscal especial no periódica a Hana Financial Group y Hana Bank, cuatro años después de la revisión regular de 2022.",
+        "body": "El Servicio Nacional de Impuestos de Corea del Sur habría iniciado una auditoría fiscal especial no periódica a Hana Financial Group y Hana Bank. La revisión llega cuatro años después de que Hana Financial recibiera una auditoría fiscal regular en 2022, y se describe como una investigación especial no programada, no como una revisión ordinaria. Según el informe original, no se han confirmado detalles adicionales sobre el contexto concreto, el alcance o los temas bajo examen. Al tratarse de una auditoría especial dirigida a una sociedad financiera holding y a un banco, la atención se centrará en el avance de la investigación y en la respuesta de Hana Financial. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Fisco sul-coreano inicia auditoria especial sobre Hana Financial e Hana Bank",
+        "excerpt": "O Serviço Nacional de Impostos da Coreia do Sul teria iniciado uma auditoria fiscal especial não periódica sobre Hana Financial Group e Hana Bank, quatro anos após a auditoria regular de 2022.",
+        "body": "O Serviço Nacional de Impostos da Coreia do Sul teria iniciado uma auditoria fiscal especial não periódica sobre Hana Financial Group e Hana Bank. A investigação ocorre quatro anos depois de a Hana Financial ter passado por uma auditoria fiscal regular em 2022 e é descrita como uma apuração especial não agendada, não como uma revisão de rotina. Segundo a reportagem original, não foram confirmados detalhes adicionais sobre o contexto específico, o escopo ou os pontos em análise. Como a auditoria especial envolve uma holding financeira e um banco, a evolução da investigação e a resposta da Hana Financial devem receber atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Steuerbehörde startet Sonderprüfung bei Hana Financial und Hana Bank",
+        "excerpt": "Südkoreas Nationale Steuerbehörde hat Berichten zufolge eine außerplanmäßige Sondersteuerprüfung bei Hana Financial Group und Hana Bank begonnen, vier Jahre nach der regulären Prüfung 2022.",
+        "body": "Südkoreas Nationale Steuerbehörde hat Berichten zufolge eine außerplanmäßige Sondersteuerprüfung bei Hana Financial Group und Hana Bank eingeleitet. Die Prüfung erfolgt vier Jahre nachdem Hana Financial 2022 einer regulären Steuerprüfung unterzogen wurde, und wird als nicht regelmäßige Sonderprüfung beschrieben, nicht als Routineprüfung. Dem ursprünglichen Bericht zufolge wurden außer dem Beginn der Prüfung keine weiteren Details zum konkreten Hintergrund, Umfang oder zu möglichen Streitpunkten bestätigt. Da die Sonderprüfung sowohl eine Finanzholding als auch eine Bank betrifft, dürfte sich die Aufmerksamkeit auf den weiteren Verlauf und die Reaktion von Hana Financial richten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le fisc sud-coréen lance un contrôle spécial de Hana Financial et Hana Bank",
+        "excerpt": "Le Service national des impôts sud-coréen aurait lancé un contrôle fiscal spécial non périodique visant Hana Financial Group et Hana Bank, quatre ans après le contrôle régulier de 2022.",
+        "body": "Le Service national des impôts sud-coréen aurait lancé un contrôle fiscal spécial non périodique visant Hana Financial Group et Hana Bank. Ce contrôle intervient quatre ans après le contrôle fiscal régulier subi par Hana Financial en 2022 et serait une enquête spéciale non programmée, et non un contrôle de routine. Selon l’article original, aucun autre détail n’a été confirmé concernant le contexte précis, le périmètre ou les points examinés. Comme ce contrôle spécial vise à la fois une holding financière et une banque, l’évolution de l’enquête et la réponse de Hana Financial devraient attirer l’attention. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مصلحة الضرائب الكورية تبدأ تحقيقا ضريبيا خاصا مع هانا فايننشال وبنك هانا",
+        "excerpt": "أفادت تقارير بأن مصلحة الضرائب الوطنية في كوريا الجنوبية بدأت تحقيقا ضريبيا خاصا غير دوري مع هانا فايننشال غروب وبنك هانا، بعد أربعة أعوام من فحص 2022 الدوري.",
+        "body": "أفادت تقارير بأن مصلحة الضرائب الوطنية في كوريا الجنوبية بدأت تحقيقا ضريبيا خاصا غير دوري مع هانا فايننشال غروب وبنك هانا. ويأتي هذا الفحص بعد أربعة أعوام من خضوع هانا فايننشال لفحص ضريبي دوري في عام 2022، ويُوصف بأنه تحقيق خاص غير مجدول وليس مراجعة روتينية. ووفقا للتقرير الأصلي، لم تُؤكد تفاصيل إضافية بشأن الخلفية المحددة للتحقيق أو نطاقه أو القضايا محل الفحص. وبما أن التحقيق الضريبي الخاص يستهدف شركة قابضة مالية وبنكا، فمن المتوقع أن يتركز الاهتمام على مسار التحقيق ورد هانا فايننشال. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया के कर विभाग ने Hana Financial और Hana Bank पर विशेष जांच शुरू की",
+        "excerpt": "दक्षिण कोरिया की राष्ट्रीय कर सेवा ने कथित तौर पर Hana Financial Group और Hana Bank के खिलाफ गैर-नियमित विशेष कर जांच शुरू की है, जो 2022 की नियमित जांच के चार साल बाद हो रही है।",
+        "body": "दक्षिण कोरिया की राष्ट्रीय कर सेवा ने कथित तौर पर Hana Financial Group और Hana Bank के खिलाफ गैर-नियमित विशेष कर जांच शुरू की है। यह जांच Hana Financial की 2022 में हुई नियमित कर जांच के चार साल बाद हो रही है और इसे नियमित समीक्षा के बजाय गैर-निर्धारित विशेष जांच बताया गया है। मूल रिपोर्ट के अनुसार, जांच शुरू होने के तथ्य के अलावा इसके विशिष्ट कारण, दायरे या जांच के मुद्दों पर कोई अतिरिक्त जानकारी पुष्ट नहीं हुई है। चूंकि यह विशेष कर जांच एक वित्तीय होल्डिंग कंपनी और बैंक को लक्षित करती है, इसलिए आगे की प्रक्रिया और Hana Financial की प्रतिक्रिया पर ध्यान रहेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Otoritas Pajak Korsel Mulai Audit Khusus Hana Financial dan Hana Bank",
+        "excerpt": "Layanan Pajak Nasional Korea Selatan dilaporkan memulai audit pajak khusus non-reguler terhadap Hana Financial Group dan Hana Bank, empat tahun setelah audit rutin pada 2022.",
+        "body": "Layanan Pajak Nasional Korea Selatan dilaporkan telah memulai audit pajak khusus non-reguler terhadap Hana Financial Group dan Hana Bank. Audit ini dilakukan empat tahun setelah Hana Financial menjalani audit pajak rutin pada 2022, dan disebut sebagai pemeriksaan khusus yang tidak terjadwal, bukan audit rutin. Menurut laporan asli, belum ada rincian lain yang dikonfirmasi mengenai latar belakang khusus, cakupan, atau isu yang diperiksa. Karena audit khusus ini menyasar perusahaan induk keuangan dan bank, perkembangan pemeriksaan serta respons Hana Financial diperkirakan akan menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4e8128fc1c60",
     "slug": "표-외국환율고시표-937262",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Choi Young, Sopir Roh Moo-hyun Selama 21 Tahun, Meninggal",
         "excerpt": "Choi Young, ajudan yang mengemudikan mobil mantan Presiden Korea Selatan Roh Moo-hyun dari 1988 hingga 2009, meninggal pagi tanggal 10 di Seoul.",
         "body": "Choi Young, yang mendampingi mantan Presiden Korea Selatan Roh Moo-hyun selama 21 tahun sekaligus mengemudikan mobilnya, meninggal sekitar pukul 05.24 pagi tanggal 10 di National Medical Center, Seoul. Choi dikenal sebagai sekretaris pendamping yang mengemudikan kendaraan Roh dari 1988 hingga 2009. Roh Moo-hyun lahir pada 1946 dan meninggal pada 2009. Kabar ini menjadi perhatian karena merupakan berita duka tentang sosok yang lama berada bersama mantan presiden tersebut. Isi ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "65023bdce727",
-    "slug": "옆차-문콕할까봐만취상태로-3m-이동주차한-20대-선고유예-왜-502697",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T05:54:25.063Z",
-    "updatedAt": "2026-05-10T05:54:25.063Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042523",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042523",
-    "titleFingerprint": "95205ba24e4b994d72a0c965137582e6d54fcbcd",
-    "dedupKeys": [
-      "65023bdce7276ce0adb3ed60dd08ca650579ebfa",
-      "95205ba24e4b994d72a0c965137582e6d54fcbcd",
-      "9590474934e35109e28f1f0172da0f5c74782022"
-    ],
-    "imageUrl": "/images/articles/65023bdce727.png",
-    "i18n": {
-      "ko": {
-        "title": "음주운전 3m 이동주차한 20대 선고유예, ‘문콕 우려’ 정황 주목",
-        "excerpt": "만취 상태에서 옆 차량 문콕을 우려해 약 3m 이동주차한 29세 남성이 도로교통법상 음주운전 혐의로 기소됐지만 춘천지법에서 선고유예를 받았다.",
-        "body": "만취 상태에서 차량을 약 3m 이동주차한 20대 남성이 음주운전 혐의 재판에서 선처를 받았다. 10일 연합뉴스 보도에 따르면 춘천지법 형사1단독 정종건 부장판사는 도로교통법상 음주운전 혐의로 기소된 A씨(29)에게 선고유예 판단을 내렸다. A씨는 술에 취한 상태에서 옆 차량에 문콕 피해를 줄 수 있다는 우려로 차량을 짧게 이동주차한 것으로 전해졌다. 사건의 핵심은 만취 상태 운전이라는 위법성과 실제 운전 거리가 약 3m에 그쳤다는 정황이 함께 다뤄졌다는 점이다. 음주운전은 거리와 무관하게 처벌 대상이 될 수 있어 유사 사례에도 경각심이 요구된다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Drunk Driving Case: Man Given Deferred Sentence After Moving Car Just 3 Meters",
-        "excerpt": "A 29-year-old man who drove about 3 meters while intoxicated to reposition his parked car over concerns about hitting a nearby door received a deferred sentence in Chuncheon court.",
-        "body": "A man in his 20s received leniency after driving about 3 meters while heavily intoxicated to move his parked car. According to Yonhap News on the 10th, Judge Jeong Jong-geon of the Chuncheon District Court’s Criminal Division 1 issued a deferred sentence for A, 29, who had been indicted on a drunk driving charge under the Road Traffic Act. A reportedly moved the car a short distance because he was concerned about causing a door ding to a neighboring vehicle. The case drew attention because it involved both the illegality of drunk driving and the circumstance that the actual driving distance was about 3 meters. Drunk driving can be punishable regardless of distance, making the case a reminder for similar situations. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "飲酒運転で3m移動駐車の20代に宣告猶予、ドア接触懸念が焦点",
-        "excerpt": "泥酔状態で隣の車へのドア接触を心配し、約3mだけ車を移動駐車した29歳男性が、道路交通法上の飲酒運転罪で起訴されたが宣告猶予を受けた。",
-        "body": "泥酔状態で車を約3m移動駐車した20代男性が、飲酒運転事件の裁判で寛大な判断を受けた。10日の聯合ニュースによると、春川地裁刑事1単独のチョン・ジョンゴン部長判事は、道路交通法上の飲酒運転容疑で起訴されたA氏（29）に宣告猶予を言い渡した。A氏は酒に酔った状態で、隣の車にドア接触被害を与えるおそれがあるとして車を短く動かしたと伝えられている。事件の焦点は、泥酔状態での運転という違法性と、実際の運転距離が約3mだった事情が併せて扱われた点にある。飲酒運転は距離に関係なく処罰対象となり得るため、類似事例にも注意が必要だ。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "醉酒驾车挪车3米获宣告缓刑，20多岁男子“怕碰邻车门”受关注",
-        "excerpt": "一名29岁男子因担心车门碰到旁边车辆，在醉酒状态下驾驶约3米挪车，被控违反道路交通法酒驾罪，但在春川地方法院获宣告缓刑。",
-        "body": "一名20多岁男子在醉酒状态下驾车约3米挪车，在酒驾案件审判中获得从宽处理。据韩联社10日报道，春川地方法院刑事1单独审判部部长法官郑钟健，对因涉嫌违反道路交通法酒驾规定而被起诉的A某（29岁）作出宣告缓刑判决。据悉，A某当时饮酒后因担心自己的车门可能碰到旁边车辆，短距离移动了车辆。该案受到关注的核心在于，醉酒驾驶的违法性与实际驾驶距离仅约3米这一情节被同时审理。酒驾不因距离短而当然免于处罚，类似情形仍需保持警惕。出处：引自mk.co.kr。"
-      },
-      "es": {
-        "title": "Conductor ebrio movió el auto 3 metros y recibió suspensión de sentencia",
-        "excerpt": "Un hombre de 29 años condujo unos 3 metros en estado de ebriedad para reubicar su auto por temor a golpear la puerta de otro vehículo y recibió suspensión de sentencia en Chuncheon.",
-        "body": "Un hombre de unos 20 años recibió trato indulgente tras conducir unos 3 metros en estado de fuerte ebriedad para mover su vehículo estacionado. Según informó Yonhap el día 10, el juez Jeong Jong-geon, de la Sala Penal Unipersonal 1 del Tribunal de Distrito de Chuncheon, dictó suspensión de sentencia para A, de 29 años, acusado de conducir bajo los efectos del alcohol conforme a la Ley de Tráfico Vial. A habría movido el auto una corta distancia por temor a causar un golpe de puerta al vehículo contiguo. El punto central del caso fue que se analizaron tanto la ilegalidad de conducir ebrio como la circunstancia de que la distancia real recorrida fue de unos 3 metros. La conducción bajo alcohol puede ser sancionada sin importar la distancia, por lo que el caso exige cautela en situaciones similares. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Homem bêbado moveu carro por 3 metros e recebeu suspensão da sentença",
-        "excerpt": "Um homem de 29 anos dirigiu cerca de 3 metros alcoolizado para reposicionar o carro por receio de bater a porta em outro veículo e recebeu suspensão da sentença em Chuncheon.",
-        "body": "Um homem na faixa dos 20 anos recebeu clemência após dirigir cerca de 3 metros em estado de embriaguez para mover o carro estacionado. Segundo a Yonhap no dia 10, o juiz Jeong Jong-geon, da 1ª Vara Criminal de julgamento singular do Tribunal Distrital de Chuncheon, concedeu suspensão da sentença a A, de 29 anos, acusado de dirigir sob efeito de álcool pela Lei de Trânsito Rodoviário. A teria deslocado o veículo por curta distância por temer causar dano de porta no carro ao lado. O ponto central do caso foi a análise conjunta da ilegalidade de dirigir embriagado e da circunstância de que a distância efetiva foi de aproximadamente 3 metros. Dirigir alcoolizado pode ser punido independentemente da distância, o que exige atenção em situações semelhantes. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Betrunken nur 3 Meter umgeparkt: Mann erhält Aufschub der Verurteilung",
-        "excerpt": "Ein 29-jähriger Mann fuhr betrunken etwa 3 Meter, um sein Auto wegen Sorge vor einem Türschaden am Nachbarwagen umzuparken, und erhielt vor dem Bezirksgericht Chuncheon Strafaufschub.",
-        "body": "Ein Mann in den Zwanzigern erhielt Nachsicht, nachdem er stark alkoholisiert etwa 3 Meter gefahren war, um sein geparktes Auto zu versetzen. Wie Yonhap am 10. berichtete, gewährte Richter Jeong Jong-geon von der Strafabteilung 1 des Bezirksgerichts Chuncheon dem 29-jährigen A, der wegen Trunkenheit am Steuer nach dem Straßenverkehrsgesetz angeklagt war, einen Aufschub der Verurteilung. A soll das Fahrzeug eine kurze Strecke bewegt haben, weil er befürchtete, am benachbarten Auto einen Türschaden zu verursachen. Im Mittelpunkt stand damit sowohl die Rechtswidrigkeit des Fahrens im Rauschzustand als auch der Umstand, dass die tatsächliche Strecke nur etwa 3 Meter betrug. Trunkenheit am Steuer kann unabhängig von der Entfernung strafbar sein, weshalb ähnliche Fälle Vorsicht erfordern. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Ivre, il déplace sa voiture de 3 mètres et obtient un sursis au prononcé",
-        "excerpt": "Un homme de 29 ans a conduit environ 3 mètres en état d’ivresse pour déplacer sa voiture par crainte d’abîmer la portière voisine, puis a obtenu un sursis au prononcé à Chuncheon.",
-        "body": "Un homme d’une vingtaine d’années a bénéficié d’une mesure de clémence après avoir conduit environ 3 mètres en état d’ivresse avancée pour déplacer sa voiture stationnée. Selon Yonhap le 10, le juge Jeong Jong-geon, de la chambre pénale à juge unique n°1 du tribunal de district de Chuncheon, a accordé un sursis au prononcé à A, 29 ans, poursuivi pour conduite en état d’ivresse au titre de la loi sur la circulation routière. A aurait déplacé brièvement son véhicule par crainte de causer un choc de portière au véhicule voisin. Le cœur de l’affaire tient à l’examen conjoint de l’illégalité de la conduite en état d’ivresse et du fait que la distance parcourue était d’environ 3 mètres. La conduite sous alcool peut être sanctionnée quelle que soit la distance, ce qui appelle à la prudence dans les cas similaires. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "قاد ثملا 3 أمتار فقط لنقل سيارته فحصل على إرجاء النطق بالحكم",
-        "excerpt": "رجل يبلغ 29 عاما قاد نحو 3 أمتار وهو في حالة سكر لنقل سيارته خشية إلحاق ضرر بباب مركبة مجاورة، لكنه حصل على إرجاء النطق بالحكم في محكمة تشنتشون.",
-        "body": "حصل رجل في العشرينات من عمره على معاملة مخففة بعدما قاد سيارته نحو 3 أمتار وهو في حالة سكر شديد لنقلها من مكان وقوفها. ووفقا لما نقلته يونهاب في العاشر من الشهر، أصدر القاضي جونغ جونغ غون، رئيس الدائرة الجنائية المنفردة الأولى في محكمة منطقة تشنتشون، قرارا بإرجاء النطق بالحكم بحق A البالغ 29 عاما، والمتهم بالقيادة تحت تأثير الكحول بموجب قانون المرور على الطرق. وذكرت التقارير أن A حرك السيارة لمسافة قصيرة لأنه كان يخشى التسبب بضرر في باب المركبة المجاورة. وتركزت القضية على الجمع بين عدم قانونية القيادة في حالة السكر وظرف أن المسافة الفعلية كانت نحو 3 أمتار فقط. فالقيادة تحت تأثير الكحول قد تكون محلا للعقوبة بغض النظر عن المسافة، ما يستدعي الحذر في الحالات المماثلة. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "नशे में कार 3 मीटर हटाने वाले युवक को सजा सुनाने में छूट मिली",
-        "excerpt": "29 वर्षीय व्यक्ति ने बगल की कार को दरवाजे से नुकसान पहुंचने की आशंका में नशे की हालत में लगभग 3 मीटर कार चलाई, लेकिन चुनचोन अदालत से उसे सजा सुनाने में छूट मिली।",
-        "body": "नशे की हालत में अपनी खड़ी कार को लगभग 3 मीटर हटाने वाले 20वें दशक के एक व्यक्ति को शराब पीकर वाहन चलाने के मामले में राहत मिली। 10 तारीख को योनहाप की रिपोर्ट के अनुसार, चुनचोन जिला अदालत की आपराधिक एकल पीठ के न्यायाधीश जियोंग जोंग-गॉन ने सड़क यातायात कानून के तहत नशे में ड्राइविंग के आरोप में अभियुक्त A, उम्र 29 वर्ष, को सजा सुनाने में छूट दी। बताया गया कि A ने शराब के नशे में बगल की कार को दरवाजे से नुकसान पहुंचने की आशंका के कारण वाहन को थोड़ी दूरी तक हटाया। इस मामले का मुख्य बिंदु नशे में ड्राइविंग की अवैधता और वास्तविक दूरी केवल लगभग 3 मीटर रहने की परिस्थिति का साथ-साथ विचार किया जाना है। शराब पीकर वाहन चलाना दूरी से परे दंडनीय हो सकता है, इसलिए ऐसे मामलों में सावधानी जरूरी है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Mabuk Lalu Pindahkan Mobil 3 Meter, Pria 20-an Dapat Penundaan Vonis",
-        "excerpt": "Seorang pria 29 tahun mengemudi sekitar 3 meter saat mabuk untuk memindahkan mobil karena khawatir mengenai pintu kendaraan sebelah, lalu mendapat penundaan vonis di Chuncheon.",
-        "body": "Seorang pria berusia 20-an mendapat keringanan setelah mengemudi sekitar 3 meter dalam kondisi mabuk berat untuk memindahkan mobil yang diparkir. Menurut laporan Yonhap pada tanggal 10, Hakim Ketua Jeong Jong-geon dari Pengadilan Distrik Chuncheon, pidana tunggal 1, memberikan penundaan vonis kepada A, 29 tahun, yang didakwa mengemudi dalam keadaan mabuk berdasarkan Undang-Undang Lalu Lintas Jalan. A disebut memindahkan kendaraan dalam jarak pendek karena khawatir dapat menyebabkan kerusakan pintu pada mobil di sebelahnya. Inti perkara ini adalah bahwa unsur pelanggaran mengemudi saat mabuk dan keadaan bahwa jarak tempuh nyata hanya sekitar 3 meter dibahas bersama. Mengemudi dalam pengaruh alkohol dapat dikenai hukuman tanpa melihat jarak, sehingga kasus serupa tetap perlu diwaspadai. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "ae7ba3f3e99b",
-    "slug": "자동차-5천만원-할부로-살게제미나이는-928만원-날아가요라고-말렸다-295874",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T05:53:08.044Z",
-    "updatedAt": "2026-05-10T05:53:08.044Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12042526",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12042526",
-    "titleFingerprint": "63f425da457d2bb9190047f57c4da3d9e0cb767e",
-    "dedupKeys": [
-      "ae7ba3f3e99bec98b05fccf1040eaceced4258df",
-      "63f425da457d2bb9190047f57c4da3d9e0cb767e",
-      "af25f26d8a26138a56b427ee420e235f8e6e0971"
-    ],
-    "imageUrl": "/images/articles/ae7ba3f3e99b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "자동차 5천만원 할부 구매 고민, 제미나이가 경고한 928만원 손실의 의미",
-        "excerpt": "매일경제는 5천만원짜리 자동차를 할부로 사려는 상황에서 제미나이가 928만원 손실 가능성을 지적한 사례를 통해 금융 공부와 재테크 판단의 중요성을 짚었다.",
-        "body": "5천만원짜리 자동차를 할부로 사려는 상황에서 제미나이가 “928만원이 날아간다”고 말린 사례가 소개됐다. 매일경제에 따르면 이 내용은 사람들이 일상에서 경제적 자유와 재테크를 자주 말하지만, 막상 금융 공부를 시작하면 오래 지속하지 못하는 현실과 연결된다. 이유는 개인마다 다르지만, 금융 판단을 어렵게 느끼거나 중도에 포기하는 경험이 반복된다는 점이 핵심이다. 이번 사례는 고가 소비와 할부 선택이 단순한 구매 문제가 아니라 비용과 기회비용을 함께 따져야 하는 재무 판단임을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "A 50 Million Won Car Loan Question and Gemini’s Warning of a 9.28 Million Won Loss",
-        "excerpt": "Maeil Business highlighted a case in which Gemini warned that buying a 50 million won car on installments could cost 9.28 million won, underscoring the need for financial learning.",
-        "body": "A case was introduced in which someone considered buying a 50 million won car on installments, and Gemini cautioned that “9.28 million won would disappear.” According to Maeil Business, the example connects to a familiar reality: people often talk about financial freedom and investing, but many give up soon after trying to study finance. The reasons differ, yet the recurring issue is that financial decisions feel difficult and are often abandoned halfway. The case shows that buying an expensive car with installment payments is not just a purchase decision, but a financial judgment that requires weighing costs and opportunity costs. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "5,000万ウォンの車を分割購入、Geminiが警告した928万ウォン損失",
-        "excerpt": "毎日経済は、5,000万ウォンの車を分割で買おうとする場面でGeminiが928万ウォンの損失可能性を指摘した事例を通じ、金融学習と資産形成判断の重要性を伝えた。",
-        "body": "5,000万ウォンの車を分割で購入しようとする状況で、Geminiが「928万ウォンが消える」と止めた事例が紹介された。毎日経済によると、この内容は、人々が日常的に経済的自由や資産形成を語る一方で、いざ金融の勉強を始めると長続きせず諦めてしまう現実とつながっている。理由は人それぞれだが、金融判断を難しく感じ、途中でやめてしまう経験が繰り返される点が核心だ。今回の事例は、高額消費と分割払いの選択が単なる購入ではなく、費用と機会費用を合わせて考えるべき財務判断であることを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "5000万韩元汽车分期购买，Gemini为何警告将损失928万韩元",
-        "excerpt": "每日经济通过一则案例指出，在考虑分期购买5000万韩元汽车时，Gemini提示可能损失928万韩元，凸显金融学习和理财判断的重要性。",
-        "body": "一则案例显示，有人打算以分期方式购买5000万韩元汽车时，Gemini劝阻称“928万韩元会飞走”。据《每日经济》报道，这一内容与现实中的普遍现象相连：人们经常谈论经济自由和理财，但真正开始学习金融后，往往坚持不了多久便放弃。原因因人而异，但核心在于许多人觉得金融判断困难，并反复经历中途放弃。该案例表明，高价消费和分期选择并不只是购买问题，而是需要同时衡量成本与机会成本的财务判断。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Comprar un coche de 50 millones de wones a plazos: la advertencia de Gemini",
-        "excerpt": "Maeil Business presentó un caso en el que Gemini advirtió que comprar a plazos un coche de 50 millones de wones podía implicar una pérdida de 9,28 millones, destacando la educación financiera.",
-        "body": "Se presentó un caso en el que una persona pensaba comprar a plazos un automóvil de 50 millones de wones, y Gemini le advirtió que “se perderían 9,28 millones de wones”. Según Maeil Business, el ejemplo se vincula con una realidad habitual: las personas hablan constantemente de libertad financiera e inversión, pero cuando intentan estudiar finanzas suelen abandonar pronto. Las razones varían, aunque el punto central es que muchas decisiones financieras se perciben como difíciles y se dejan a medias. El caso muestra que un consumo elevado y la elección de pagos a plazos no son solo una compra, sino una decisión financiera que exige comparar costos y costos de oportunidad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Carro de 50 milhões de wons parcelado: o alerta do Gemini sobre 9,28 milhões",
-        "excerpt": "O Maeil Business mostrou um caso em que o Gemini alertou que comprar um carro de 50 milhões de wons parcelado poderia levar a uma perda de 9,28 milhões, reforçando a importância da educação financeira.",
-        "body": "Foi apresentado um caso em que alguém cogitava comprar um carro de 50 milhões de wons em parcelas, e o Gemini alertou que “9,28 milhões de wons desapareceriam”. Segundo o Maeil Business, o episódio se conecta a uma realidade comum: as pessoas falam com frequência sobre liberdade financeira e investimentos, mas muitas desistem pouco depois de começar a estudar finanças. Os motivos variam, porém o ponto central é que decisões financeiras parecem difíceis e acabam sendo abandonadas no meio do caminho. O caso mostra que consumo de alto valor e parcelamento não são apenas uma compra, mas uma decisão financeira que exige avaliar custos e custos de oportunidade. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Auto für 50 Millionen Won auf Raten: Geminis Warnung vor 9,28 Millionen Verlust",
-        "excerpt": "Maeil Business schilderte einen Fall, in dem Gemini beim Ratenkauf eines Autos für 50 Millionen Won vor einem möglichen Verlust von 9,28 Millionen Won warnte und damit Finanzbildung betonte.",
-        "body": "Vorgestellt wurde ein Fall, in dem jemand ein Auto für 50 Millionen Won auf Raten kaufen wollte und Gemini warnte, dass “9,28 Millionen Won verschwinden” könnten. Laut Maeil Business steht dieses Beispiel im Zusammenhang mit einer vertrauten Realität: Menschen sprechen ständig über finanzielle Freiheit und Geldanlage, geben aber oft bald auf, wenn sie tatsächlich mit Finanzbildung beginnen. Die Gründe unterscheiden sich, doch zentral ist, dass finanzielle Entscheidungen als schwierig empfunden und häufig abgebrochen werden. Der Fall zeigt, dass ein teurer Kauf auf Raten nicht nur eine Konsumentscheidung ist, sondern eine finanzielle Abwägung von Kosten und Opportunitätskosten verlangt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Voiture à 50 millions de wons à crédit : l’alerte de Gemini sur 9,28 millions",
-        "excerpt": "Maeil Business a présenté un cas où Gemini avertit qu’acheter une voiture de 50 millions de wons à tempérament pourrait coûter 9,28 millions, rappelant l’importance de l’éducation financière.",
-        "body": "Un cas a été présenté dans lequel une personne envisageait d’acheter une voiture de 50 millions de wons à tempérament, et Gemini l’a mise en garde en disant que “9,28 millions de wons disparaîtraient”. Selon Maeil Business, cet exemple rejoint une réalité courante : les gens parlent souvent de liberté financière et d’investissement, mais abandonnent rapidement lorsqu’ils commencent réellement à étudier la finance. Les raisons varient, mais le point essentiel est que les décisions financières sont perçues comme difficiles et souvent laissées en cours de route. Ce cas montre qu’un achat coûteux à crédit n’est pas une simple consommation, mais une décision financière qui exige d’évaluer coûts et coûts d’opportunité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "شراء سيارة بـ50 مليون وون بالتقسيط: تحذير Gemini من خسارة 9.28 مليون وون",
-        "excerpt": "عرضت Maeil Business حالة حذر فيها Gemini من أن شراء سيارة قيمتها 50 مليون وون بالتقسيط قد يؤدي إلى خسارة 9.28 مليون وون، مسلطة الضوء على أهمية الثقافة المالية.",
-        "body": "عُرضت حالة كان فيها شخص يفكر في شراء سيارة بقيمة 50 مليون وون بالتقسيط، فحذر Gemini من أن “9.28 مليون وون ستتبخر”. ووفق Maeil Business، ترتبط هذه القصة بواقع مألوف: يتحدث الناس باستمرار عن الحرية المالية والاستثمار، لكنهم غالبا ما يتوقفون بعد وقت قصير من بدء دراسة الشؤون المالية. تختلف الأسباب من شخص إلى آخر، إلا أن جوهر المسألة هو أن القرارات المالية تبدو صعبة لكثيرين، فيتكرر التخلي عنها في منتصف الطريق. وتوضح الحالة أن الاستهلاك مرتفع القيمة وخيار التقسيط ليسا مجرد عملية شراء، بل قرار مالي يتطلب حساب التكلفة وتكلفة الفرصة البديلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "5 करोड़ वॉन की कार किस्तों पर खरीदना: Gemini ने 92.8 लाख वॉन नुकसान बताया",
-        "excerpt": "Maeil Business ने एक मामला बताया जिसमें 5 करोड़ वॉन की कार किस्तों पर खरीदने की योजना पर Gemini ने 92.8 लाख वॉन के नुकसान की चेतावनी दी और वित्तीय शिक्षा की जरूरत रेखांकित की।",
-        "body": "एक मामला सामने आया जिसमें कोई व्यक्ति 5 करोड़ वॉन की कार किस्तों पर खरीदने पर विचार कर रहा था, और Gemini ने चेताया कि “92.8 लाख वॉन चले जाएंगे।” Maeil Business के अनुसार, यह उदाहरण उस वास्तविकता से जुड़ता है जिसमें लोग आर्थिक स्वतंत्रता और निवेश की बात तो लगातार करते हैं, लेकिन वित्तीय पढ़ाई शुरू करने के बाद जल्दी हार मान लेते हैं। कारण अलग-अलग हो सकते हैं, पर मुख्य बात यह है कि वित्तीय निर्णय कठिन लगते हैं और लोग अक्सर बीच में रुक जाते हैं। यह मामला दिखाता है कि महंगी खरीद और किस्त का विकल्प सिर्फ खरीदारी नहीं, बल्कि लागत और अवसर लागत को साथ देखकर लिया जाने वाला वित्तीय निर्णय है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Beli Mobil 50 Juta Won dengan Cicilan: Peringatan Gemini soal 9,28 Juta Won",
-        "excerpt": "Maeil Business mengangkat kasus ketika Gemini memperingatkan bahwa membeli mobil 50 juta won dengan cicilan bisa membuat 9,28 juta won hilang, menekankan pentingnya literasi finansial.",
-        "body": "Sebuah kasus diperkenalkan ketika seseorang mempertimbangkan membeli mobil senilai 50 juta won dengan cicilan, dan Gemini memperingatkan bahwa “9,28 juta won akan hilang”. Menurut Maeil Business, contoh ini terkait dengan kenyataan sehari-hari: orang sering membicarakan kebebasan finansial dan investasi, tetapi saat mulai belajar keuangan, banyak yang tidak bertahan lama dan menyerah. Alasannya berbeda-beda, namun intinya keputusan finansial kerap terasa sulit dan akhirnya ditinggalkan di tengah jalan. Kasus ini menunjukkan bahwa konsumsi bernilai tinggi dan pilihan cicilan bukan sekadar pembelian, melainkan keputusan keuangan yang perlu menimbang biaya dan biaya peluang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f2537d01424b",
-    "slug": "속보-청와대-나무호-화재-원인-현장조사-결과-검토평가-거쳐-답변-503491",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T05:52:05.511Z",
-    "updatedAt": "2026-05-10T05:52:05.511Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042528",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042528",
-    "titleFingerprint": "3c3cae78e3dd2ee9faec0c223cf8f1dd4dfbf162",
-    "dedupKeys": [
-      "f2537d01424b5b47bdb097439ce6eddeb48f7755",
-      "3c3cae78e3dd2ee9faec0c223cf8f1dd4dfbf162",
-      "77e100d4523a918872a8109e58a60295c96fc457"
-    ],
-    "imageUrl": "/images/articles/f2537d01424b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "나무호 화재 원인, 청와대 “현장조사 검토 뒤 답변”",
-        "excerpt": "청와대는 나무호 화재 원인과 관련해 현장조사 결과를 먼저 검토·평가한 뒤 답변하겠다고 밝혔다. 구체적 원인이나 추가 판단은 아직 제시되지 않았다.",
-        "body": "청와대는 나무호 화재 원인에 대한 입장을 묻는 사안에 대해 현장조사 결과를 검토하고 평가한 뒤 답변하겠다고 밝혔다. 이번 발표는 화재 원인을 단정하기보다 조사 결과 확인 절차를 거친 뒤 공식적으로 설명하겠다는 취지다. 원문에는 화재 발생 시점, 피해 규모, 현장조사 주체나 구체적 원인에 대한 추가 정보는 포함되지 않았다. 이에 따라 향후 판단은 현장조사 결과의 검토·평가가 마무리된 뒤 나올 전망이다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Namuho Fire Cause: Blue House to Respond After Site Review",
-        "excerpt": "The Blue House said it will answer questions on the cause of the Namuho fire after reviewing and evaluating the results of the on-site investigation. No specific cause has been stated yet.",
-        "body": "The Blue House said it would respond to questions about the cause of the Namuho fire after reviewing and evaluating the results of the on-site investigation. The statement indicates that officials are not determining the cause in advance, but will give an official explanation after confirming the investigation results. The original report did not include the time of the fire, the scale of damage, the agency conducting the site investigation, or any detailed cause. Further judgment is therefore expected after the review and evaluation of the field findings are completed. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ナムホ火災原因、青瓦台「現場調査を検討後に回答」",
-        "excerpt": "青瓦台はナムホ火災の原因について、現場調査結果を検討・評価したうえで回答すると明らかにした。具体的な原因や追加判断はまだ示されていない。",
-        "body": "青瓦台は、ナムホ火災の原因に関する質問について、現場調査の結果を検討し評価した後に回答すると明らかにした。今回の説明は、火災原因をあらかじめ断定するのではなく、調査結果を確認する手続きを経て公式に説明するという趣旨だ。原文には、火災の発生時点、被害規模、現場調査の主体、具体的な原因に関する追加情報は含まれていない。そのため今後の判断は、現場調査結果の検討・評価が終わった後に示される見通しだ。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "“木号”火灾原因，青瓦台称将审查现场调查后答复",
-        "excerpt": "青瓦台表示，关于“木号”火灾原因，将先审查并评估现场调查结果后再作答复。目前尚未提出具体原因或进一步判断。",
-        "body": "青瓦台就“木号”火灾原因相关问题表示，将在审查并评估现场调查结果后作出答复。该表态意味着，相关方面并未预先断定火灾原因，而是将经过确认调查结果的程序后再作正式说明。原文未包含火灾发生时间、损失规模、现场调查主体或具体原因等进一步信息。因此，后续判断预计将在现场调查结果的审查和评估完成后公布。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Incendio del Namuho: Casa Azul responderá tras revisar pesquisa",
-        "excerpt": "La Casa Azul dijo que responderá sobre la causa del incendio del Namuho después de revisar y evaluar los resultados de la investigación en el lugar. Aún no se informó una causa concreta.",
-        "body": "La Casa Azul afirmó que responderá a las preguntas sobre la causa del incendio del Namuho después de revisar y evaluar los resultados de la investigación realizada en el lugar. La declaración apunta a que no se dará por establecida la causa del fuego antes de completar el proceso de verificación de los resultados. El reporte original no incluye la hora del incendio, la magnitud de los daños, el organismo a cargo de la inspección ni una causa específica. Por ello, se espera que cualquier evaluación posterior llegue una vez concluida la revisión y valoración de la investigación de campo. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Causa do incêndio no Namuho será respondida após análise local",
-        "excerpt": "A Casa Azul disse que responderá sobre a causa do incêndio no Namuho depois de revisar e avaliar os resultados da investigação no local. Nenhuma causa específica foi apresentada até agora.",
-        "body": "A Casa Azul informou que responderá às questões sobre a causa do incêndio no Namuho após revisar e avaliar os resultados da investigação realizada no local. A declaração indica que a causa do incêndio não será definida antes da confirmação dos resultados apurados em campo. O texto original não traz o momento do incêndio, a dimensão dos danos, o órgão responsável pela investigação local nem uma causa concreta. Assim, a avaliação futura deve ser apresentada depois que a revisão e a análise dos resultados da investigação forem concluídas. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Brandursache der Namuho: Blaues Haus antwortet nach Prüfung",
-        "excerpt": "Das Blaue Haus erklärte, es werde zur Ursache des Namuho-Brandes erst nach Prüfung und Bewertung der Ergebnisse der Vor-Ort-Untersuchung Stellung nehmen. Eine konkrete Ursache wurde noch nicht genannt.",
-        "body": "Das Blaue Haus teilte mit, es werde Fragen zur Ursache des Brandes auf der Namuho nach Prüfung und Bewertung der Ergebnisse der Vor-Ort-Untersuchung beantworten. Die Aussage deutet darauf hin, dass die Brandursache nicht vorab festgelegt, sondern erst nach Bestätigung der Untersuchungsergebnisse offiziell erläutert werden soll. Der ursprüngliche Bericht enthält keine Angaben zum Zeitpunkt des Brandes, zum Schadensumfang, zur zuständigen Untersuchungsstelle oder zu einer konkreten Ursache. Weitere Einschätzungen werden daher nach Abschluss der Prüfung und Bewertung der Feldergebnisse erwartet. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Cause de l’incendie du Namuho : réponse après examen du site",
-        "excerpt": "La Maison Bleue a indiqué qu’elle répondrait sur la cause de l’incendie du Namuho après examen et évaluation des résultats de l’enquête sur place. Aucune cause précise n’a encore été donnée.",
-        "body": "La Maison Bleue a déclaré qu’elle répondrait aux questions sur la cause de l’incendie du Namuho après avoir examiné et évalué les résultats de l’enquête menée sur place. Cette position signifie que la cause ne sera pas affirmée avant la vérification des résultats de l’investigation. Le texte original ne précise pas le moment de l’incendie, l’ampleur des dégâts, l’entité chargée de l’enquête sur le terrain ni une cause concrète. Les prochaines conclusions devraient donc être présentées après la fin de l’examen et de l’évaluation des résultats de terrain. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "سبب حريق ناموهو: البيت الأزرق يرد بعد تقييم التحقيق الميداني",
-        "excerpt": "قال البيت الأزرق إنه سيرد على الأسئلة المتعلقة بسبب حريق ناموهو بعد مراجعة وتقييم نتائج التحقيق الميداني. ولم يتم حتى الآن عرض سبب محدد أو حكم إضافي.",
-        "body": "أعلن البيت الأزرق أنه سيرد على ما يتعلق بسبب حريق ناموهو بعد مراجعة وتقييم نتائج التحقيق الميداني. وتشير هذه الصياغة إلى أن السبب لن يُحسم مسبقا، بل سيجري تقديم توضيح رسمي بعد التحقق من نتائج التحقيق. ولم يتضمن النص الأصلي معلومات إضافية عن وقت وقوع الحريق أو حجم الأضرار أو الجهة التي أجرت التحقيق الميداني أو السبب المحدد. لذلك من المتوقع أن يصدر أي تقييم لاحق بعد اكتمال مراجعة نتائج التحقيق الميداني وتقييمها. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "नामुहो आग का कारण: स्थल जांच की समीक्षा के बाद जवाब देगा ब्लू हाउस",
-        "excerpt": "ब्लू हाउस ने कहा कि नामुहो आग के कारण पर वह स्थल जांच के परिणामों की समीक्षा और मूल्यांकन के बाद जवाब देगा। अभी कोई ठोस कारण या अतिरिक्त निष्कर्ष नहीं बताया गया है।",
-        "body": "ब्लू हाउस ने नामुहो आग के कारण से जुड़े सवाल पर कहा कि वह स्थल जांच के परिणामों की समीक्षा और मूल्यांकन के बाद जवाब देगा। इस बयान का आशय यह है कि आग के कारण को पहले से तय नहीं किया जाएगा, बल्कि जांच परिणामों की पुष्टि की प्रक्रिया के बाद आधिकारिक स्पष्टीकरण दिया जाएगा। मूल रिपोर्ट में आग लगने का समय, नुकसान का पैमाना, स्थल जांच करने वाली इकाई या किसी विशिष्ट कारण की अतिरिक्त जानकारी शामिल नहीं है। इसलिए आगे का आकलन स्थल जांच परिणामों की समीक्षा और मूल्यांकन पूरा होने के बाद आने की संभावना है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Penyebab Kebakaran Namuho: Blue House Tunggu Hasil Investigasi",
-        "excerpt": "Blue House menyatakan akan menjawab soal penyebab kebakaran Namuho setelah meninjau dan mengevaluasi hasil investigasi di lokasi. Penyebab spesifik belum disampaikan.",
-        "body": "Blue House menyatakan akan menjawab pertanyaan mengenai penyebab kebakaran Namuho setelah meninjau dan mengevaluasi hasil investigasi di lokasi. Pernyataan ini menunjukkan bahwa penyebab kebakaran tidak akan disimpulkan lebih dulu, melainkan dijelaskan secara resmi setelah hasil penyelidikan dikonfirmasi. Laporan asli tidak memuat waktu terjadinya kebakaran, skala kerusakan, pihak yang melakukan investigasi lapangan, atau penyebab konkret. Karena itu, penilaian lanjutan diperkirakan akan disampaikan setelah proses peninjauan dan evaluasi hasil investigasi lapangan selesai. Sumber: mk.co.kr."
       }
     }
   }
