@@ -1,5 +1,230 @@
 [
   {
+    "id": "1bc61f072f5b",
+    "slug": "전삼노-나서서-끝내달라파업-대신-타결-원한다는-삼성맨들-무슨-일-608463",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T12:22:54.663Z",
+    "updatedAt": "2026-05-10T12:22:54.663Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12042818",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12042818",
+    "titleFingerprint": "3abb78d370b8acf82088f1f0b7edbc11ade69a05",
+    "dedupKeys": [
+      "1bc61f072f5bba85261fb1d7f4d3bd54ec488d8a",
+      "3abb78d370b8acf82088f1f0b7edbc11ade69a05",
+      "a57db53482af45f93829887c334a654f712b7507"
+    ],
+    "imageUrl": "/images/articles/1bc61f072f5b.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 임금협상 막판 진통, 직원들 사이 ‘파업 대신 타결’ 목소리 확산",
+        "excerpt": "삼성전자 임금 협상이 사후조정 절차를 하루 앞두고 막바지 진통을 겪는 가운데, 직원들 사이에서 파업을 피하고 실리적으로 타결해야 한다는 목소리가 커지고 있다.",
+        "body": "삼성전자의 임금 협상이 사후조정 절차를 하루 앞두고 막바지 진통을 겪는 가운데, 직원들 사이에서 “파업만은 막아야 한다”는 실리적 타결 요구가 빠르게 확산되고 있다. 원문에 따르면 강경 투쟁보다 협상 마무리를 바라는 분위기가 삼성전자 직원들 사이에서 커지고 있으며, 전국삼성전자노동조합이 나서 협상을 끝내 달라는 취지의 목소리도 제기되고 있다. 임금 협상은 최종 국면에서 진통을 이어가고 있고, 사후조정 절차를 앞둔 상황이 변수로 거론된다. 향후 노조와 회사가 파업을 피하고 접점을 찾을 수 있을지가 임금 협상 향방을 가를 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics wage talks near deadline as staff push for deal over strike",
+        "excerpt": "As Samsung Electronics’ wage negotiations face last-minute strain one day before post-mediation, employees are increasingly calling for a practical settlement to avoid a strike.",
+        "body": "Samsung Electronics’ wage negotiations are facing last-minute strain one day before the post-mediation process, while calls among employees to avoid a strike and reach a practical settlement are spreading quickly. According to the original report, more Samsung Electronics employees appear to prefer wrapping up negotiations rather than pursuing a hard-line struggle, with some voices urging the National Samsung Electronics Union to step in and bring the talks to a close. The wage talks remain in a difficult final phase, and the upcoming post-mediation procedure is being watched as a key factor. Whether the union and company can avoid a strike and find common ground will shape the next stage of the negotiations. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子の賃金交渉が最終局面、社員に広がる「ストより妥結」論",
+        "excerpt": "サムスン電子の賃金交渉が事後調整手続きを翌日に控えて難航する中、社員の間でストを避け実利的に妥結すべきだとの声が急速に広がっている。",
+        "body": "サムスン電子の賃金交渉が事後調整手続きを翌日に控えて最終局面で難航する中、社員の間では「ストだけは避けるべきだ」という実利的な妥結要求が急速に広がっている。原文によると、強硬闘争よりも交渉の終結を望む雰囲気がサムスン電子の社員の間で強まっており、全国サムスン電子労働組合が前面に出て交渉を終わらせてほしいという趣旨の声も出ている。賃金交渉は最終局面でなお痛みを伴っており、事後調整手続きを控えた状況が変数として注目される。今後、労組と会社がストを避けて接点を見いだせるかが交渉の行方を左右する見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子薪资谈判进入最后阵痛，员工呼吁“避免罢工、促成协议”",
+        "excerpt": "三星电子薪资谈判在事后调解程序前一天陷入最后阵痛，员工之间要求避免罢工、以务实方式达成协议的声音迅速扩散。",
+        "body": "三星电子的薪资谈判在事后调解程序前一天仍经历最后阶段的阵痛，员工之间“无论如何要避免罢工”的务实性达成协议呼声正在迅速扩散。根据原文报道，三星电子员工中希望结束谈判而非采取强硬斗争的氛围正在扩大，也有人呼吁全国三星电子工会出面推动谈判收尾。薪资谈判目前仍处于最终阶段的拉锯之中，事后调解程序在即也被视为重要变量。今后，工会与公司能否避免罢工并找到交集，将影响薪资谈判的走向。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics encara tensión salarial final con empleados pidiendo acuerdo, no huelga",
+        "excerpt": "Las negociaciones salariales de Samsung Electronics sufren tensión de última hora un día antes de la posmediación, mientras empleados piden evitar la huelga y cerrar un acuerdo práctico.",
+        "body": "Las negociaciones salariales de Samsung Electronics atraviesan tensiones de última hora un día antes del procedimiento de posmediación, mientras entre los empleados se extiende con rapidez la petición de evitar una huelga y alcanzar un acuerdo práctico. Según el reporte original, entre trabajadores de Samsung Electronics crece el ambiente favorable a cerrar la negociación antes que mantener una lucha dura, e incluso surgen voces que piden al Sindicato Nacional de Samsung Electronics que intervenga para terminar las conversaciones. La negociación salarial continúa con dificultades en su fase final, y el proceso de posmediación se perfila como una variable clave. La dirección dependerá de si sindicato y empresa logran evitar la huelga y encontrar un punto común. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics vê impasse salarial final enquanto funcionários preferem acordo a greve",
+        "excerpt": "A negociação salarial da Samsung Electronics enfrenta tensão final um dia antes da pós-mediação, enquanto funcionários defendem evitar greve e buscar um acordo pragmático.",
+        "body": "A negociação salarial da Samsung Electronics enfrenta tensão de última hora um dia antes do procedimento de pós-mediação, enquanto entre os funcionários cresce rapidamente a defesa de evitar uma greve e alcançar um acordo pragmático. Segundo a reportagem original, aumenta entre os empregados da Samsung Electronics o clima de preferência pelo encerramento das negociações em vez de uma luta mais dura, com vozes pedindo que o Sindicato Nacional da Samsung Electronics atue para concluir o processo. A negociação salarial segue em uma fase final difícil, e a pós-mediação é vista como uma variável relevante. Daqui em diante, a direção das conversas dependerá de sindicato e empresa conseguirem evitar a greve e encontrar um ponto de convergência. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics bei Lohnverhandlungen unter Druck: Beschäftigte wollen Einigung statt Streik",
+        "excerpt": "Die Lohnverhandlungen bei Samsung Electronics stehen einen Tag vor der Nachschlichtung unter Druck, während Beschäftigte zunehmend eine pragmatische Einigung ohne Streik fordern.",
+        "body": "Die Lohnverhandlungen bei Samsung Electronics geraten einen Tag vor dem Nachschlichtungsverfahren in eine schwierige Schlussphase, während sich unter den Beschäftigten rasch der Ruf nach einer pragmatischen Einigung statt eines Streiks ausbreitet. Dem Originalbericht zufolge wächst unter Mitarbeitern von Samsung Electronics die Stimmung, die Verhandlungen abzuschließen, anstatt auf einen harten Arbeitskampf zu setzen. Auch Stimmen, die die Nationale Samsung-Electronics-Gewerkschaft auffordern, die Gespräche zu Ende zu bringen, werden genannt. Die Lohnverhandlungen bleiben in der finalen Phase angespannt, und das bevorstehende Nachschlichtungsverfahren gilt als wichtiger Faktor. Ob Gewerkschaft und Unternehmen einen Streik vermeiden und eine Schnittmenge finden, dürfte den weiteren Verlauf bestimmen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics: négociations salariales sous tension, les salariés préfèrent un accord à la grève",
+        "excerpt": "Les négociations salariales de Samsung Electronics connaissent des tensions finales à la veille de la post-médiation, tandis que les salariés appellent à éviter la grève et à conclure un accord pragmatique.",
+        "body": "Les négociations salariales de Samsung Electronics traversent une phase finale tendue à la veille de la procédure de post-médiation, tandis que l’appel à éviter une grève et à conclure un accord pragmatique se propage rapidement parmi les salariés. Selon l’article original, de plus en plus d’employés de Samsung Electronics semblent préférer la clôture des discussions à une lutte dure, et certaines voix demandent au Syndicat national de Samsung Electronics d’intervenir pour mettre fin aux négociations. Les discussions salariales restent difficiles dans leur dernière phase, et la procédure de post-médiation à venir est considérée comme un facteur important. La suite dépendra de la capacité du syndicat et de l’entreprise à éviter la grève et à trouver un terrain d’entente. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مفاوضات أجور سامسونغ إلكترونيكس تبلغ مرحلة حاسمة والموظفون يفضلون التسوية على الإضراب",
+        "excerpt": "تواجه مفاوضات الأجور في سامسونغ إلكترونيكس توترا في اللحظات الأخيرة قبل يوم من إجراءات ما بعد الوساطة، وسط اتساع دعوات الموظفين لتجنب الإضراب والتوصل إلى تسوية عملية.",
+        "body": "تواجه مفاوضات الأجور في سامسونغ إلكترونيكس مرحلة أخيرة صعبة قبل يوم واحد من إجراءات ما بعد الوساطة، بينما تنتشر بسرعة بين الموظفين دعوات عملية لتجنب الإضراب والتوصل إلى تسوية. ووفقا للتقرير الأصلي، تتزايد بين موظفي سامسونغ إلكترونيكس أجواء تفضل إنهاء المفاوضات بدلا من المضي في مواجهة متشددة، كما ظهرت أصوات تطالب النقابة الوطنية لسامسونغ إلكترونيكس بالتدخل لإنهاء المحادثات. ولا تزال مفاوضات الأجور تمر بمخاضها النهائي، فيما تعد إجراءات ما بعد الوساطة المقبلة عاملا مهما. وسيعتمد مسار المفاوضات على قدرة النقابة والشركة على تجنب الإضراب والعثور على نقطة التقاء. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics वेतन वार्ता अंतिम दौर में, कर्मचारी हड़ताल नहीं समझौता चाहते हैं",
+        "excerpt": "Samsung Electronics की वेतन वार्ता पोस्ट-मीडिएशन प्रक्रिया से एक दिन पहले अंतिम तनाव से गुजर रही है, जबकि कर्मचारियों में हड़ताल टालकर व्यावहारिक समझौता करने की मांग तेज हो रही है।",
+        "body": "Samsung Electronics की वेतन वार्ता पोस्ट-मीडिएशन प्रक्रिया से एक दिन पहले अंतिम दौर की खींचतान से गुजर रही है, और कर्मचारियों के बीच “हड़ताल हर हाल में रोकनी चाहिए” वाली व्यावहारिक समझौते की मांग तेजी से फैल रही है। मूल रिपोर्ट के अनुसार, Samsung Electronics के कर्मचारियों में कड़े संघर्ष के बजाय बातचीत समाप्त करने की इच्छा बढ़ रही है, और कुछ आवाजें National Samsung Electronics Union से आगे आकर वार्ता खत्म कराने की मांग भी कर रही हैं। वेतन वार्ता अभी अंतिम चरण में कठिनाई झेल रही है, जबकि आगामी पोस्ट-मीडिएशन प्रक्रिया को एक महत्वपूर्ण कारक माना जा रहा है। आगे वार्ता की दिशा इस पर निर्भर करेगी कि यूनियन और कंपनी हड़ताल से बचते हुए साझा बिंदु खोज पाते हैं या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Negosiasi gaji Samsung Electronics memanas, karyawan dorong kesepakatan bukan mogok",
+        "excerpt": "Negosiasi gaji Samsung Electronics menghadapi ketegangan akhir sehari sebelum prosedur pascamediasi, sementara karyawan makin menyerukan penyelesaian praktis untuk mencegah mogok.",
+        "body": "Negosiasi gaji Samsung Electronics menghadapi ketegangan tahap akhir sehari sebelum prosedur pascamediasi, sementara seruan karyawan agar mogok kerja dicegah dan kesepakatan praktis dicapai menyebar cepat. Menurut laporan asli, di antara karyawan Samsung Electronics makin kuat suasana yang menginginkan negosiasi segera ditutup daripada melanjutkan perjuangan keras, dan ada pula suara yang meminta Serikat Pekerja Nasional Samsung Electronics turun tangan untuk mengakhiri perundingan. Negosiasi gaji masih mengalami tarik-ulur di fase akhir, sedangkan prosedur pascamediasi yang segera dimulai menjadi variabel penting. Arah perundingan akan ditentukan oleh apakah serikat dan perusahaan dapat menghindari mogok serta menemukan titik temu. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4a2ea0199249",
+    "slug": "주식은-장기분산투자해야-성공부동산은-실거주-위주로-접근-763345",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T12:21:48.186Z",
+    "updatedAt": "2026-05-10T12:21:48.186Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042819",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042819",
+    "titleFingerprint": "8f7db6386b4684caa8395e92015312065a30909d",
+    "dedupKeys": [
+      "4a2ea01992492584b57decdd816b9d99cf21bdd8",
+      "8f7db6386b4684caa8395e92015312065a30909d",
+      "8c3ede70a8a489bdc00310244db8e5b57bac2a56"
+    ],
+    "imageUrl": "/images/articles/4a2ea0199249.png",
+    "i18n": {
+      "ko": {
+        "title": "장기·분산 주식투자와 실거주 부동산, 서울머니쇼가 전한 부의 원칙",
+        "excerpt": "지난 9일 서울 강남구 코엑스에서 열린 2026 서울머니쇼에서 부자들의 투자 원칙으로 주식은 장기·분산투자, 부동산은 실거주 중심 접근이 제시됐다.",
+        "body": "지난 9일 서울 강남구 코엑스에서 열린 ‘2026 서울머니쇼’에서 부자들의 자산 형성 원칙으로 주식은 장기·분산투자, 부동산은 실거주 위주 접근이 강조됐다. 현장에서는 “부자들은 복리의 마법을 경험한 이들입니다. 한 번 복리를 경험하면, 여러분도 부자가 될 수 있습니다”라는 메시지가 소개됐다. 이는 단기 수익보다 시간이 만든 복리 효과와 위험 분산을 중시하라는 취지다. 부동산은 투자 대상보다 실제 거주 필요를 중심으로 판단해야 한다는 조언이 함께 제시됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Long-Term Diversified Stock Investing and Owner-Occupied Real Estate Advice",
+        "excerpt": "At the 2026 Seoul Money Show held May 9 at COEX in Gangnam, Seoul, speakers highlighted long-term diversified stock investing and owner-occupied real estate as wealth principles.",
+        "body": "At the 2026 Seoul Money Show held on May 9 at COEX in Gangnam, Seoul, the key wealth-building message was that stocks should be approached through long-term, diversified investing, while real estate should be considered mainly for actual residence. The event introduced the idea: “The wealthy are people who have experienced the magic of compound interest. Once you experience compounding, you too can become wealthy.” The point was to focus on the compounding effect created by time and on risk diversification rather than short-term gains. For real estate, the advice was to judge decisions around genuine housing needs. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "株式は長期・分散投資、不動産は実需重視　ソウルマネーショーの助言",
+        "excerpt": "5月9日にソウル江南区COEXで開かれた2026ソウルマネーショーで、株式は長期・分散投資、不動産は実居住中心という資産形成原則が示された。",
+        "body": "5月9日、ソウル江南区のCOEXで開かれた「2026ソウルマネーショー」では、富裕層の資産形成原則として、株式は長期・分散投資で臨み、不動産は実際の居住を中心に考えるべきだという点が強調された。会場では「富裕層は複利の魔法を経験した人たちです。一度複利を経験すれば、皆さんも富裕層になれます」というメッセージが紹介された。短期収益よりも時間が生む複利効果とリスク分散を重視する趣旨だ。不動産については、投資対象としてだけでなく実居住の必要性を基準に判断すべきだとの助言が示された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "股票宜长期分散投资，房地产应以自住需求为主",
+        "excerpt": "5月9日在首尔江南区COEX举行的2026首尔Money Show上，嘉宾提出股票应长期分散投资，房地产应围绕实际居住需求来判断。",
+        "body": "5月9日，在首尔江南区COEX举行的“2026首尔Money Show”上，关于财富形成的核心原则被概括为：股票要坚持长期、分散投资，房地产则应以实际居住需求为中心。现场介绍了这样一句话：“富人是体验过复利魔法的人。只要体验过一次复利，大家也可以成为富人。”这一信息强调，相比短期收益，更应重视时间带来的复利效应以及风险分散。对于房地产，建议不要只把它看作投资标的，而应结合真实居住需要作出判断。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Acciones a largo plazo y diversificadas; vivienda para uso propio, la clave",
+        "excerpt": "En el Seoul Money Show 2026, celebrado el 9 de mayo en COEX, Gangnam, se planteó que las acciones requieren inversión diversificada a largo plazo y la vivienda debe centrarse en residencia real.",
+        "body": "En el “Seoul Money Show 2026”, celebrado el 9 de mayo en COEX, en el distrito de Gangnam de Seúl, se destacó como principio de formación de riqueza que las acciones deben abordarse con inversión diversificada y de largo plazo, mientras que los bienes raíces deben evaluarse principalmente desde la necesidad de residencia propia. En el evento se presentó el mensaje: “Los ricos son quienes han experimentado la magia del interés compuesto. Una vez que experimenten el interés compuesto, ustedes también pueden hacerse ricos.” La idea subraya el efecto del tiempo y la diversificación del riesgo por encima de las ganancias de corto plazo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ações de longo prazo e diversificadas; imóvel focado em moradia própria",
+        "excerpt": "No Seoul Money Show 2026, realizado em 9 de maio no COEX, em Gangnam, foi defendido que ações exigem investimento diversificado de longo prazo e imóveis devem priorizar moradia real.",
+        "body": "No “Seoul Money Show 2026”, realizado em 9 de maio no COEX, no distrito de Gangnam, em Seul, a orientação central para formação de patrimônio foi que ações devem ser tratadas como investimento de longo prazo e diversificado, enquanto imóveis devem ser avaliados principalmente pela necessidade de moradia própria. No evento, foi apresentada a mensagem: “Os ricos são pessoas que experimentaram a magia dos juros compostos. Depois de experimentar os juros compostos, vocês também podem se tornar ricos.” O foco está menos no ganho de curto prazo e mais no efeito do tempo e na diversificação de riscos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Aktien langfristig und breit streuen, Immobilien vor allem zum Wohnen kaufen",
+        "excerpt": "Auf der Seoul Money Show 2026 am 9. Mai im COEX in Gangnam wurde betont: Aktien langfristig und diversifiziert halten, Immobilien vor allem nach eigenem Wohnbedarf beurteilen.",
+        "body": "Auf der „Seoul Money Show 2026“, die am 9. Mai im COEX im Seouler Bezirk Gangnam stattfand, wurde als Grundsatz des Vermögensaufbaus hervorgehoben, Aktien langfristig und breit gestreut anzulegen und Immobilien vor allem unter dem Gesichtspunkt der Eigennutzung zu betrachten. Vorgestellt wurde die Botschaft: „Reiche sind Menschen, die die Magie des Zinseszinses erlebt haben. Wenn Sie den Zinseszinseffekt einmal erfahren, können auch Sie reich werden.“ Gemeint ist, stärker auf den durch Zeit entstehenden Zinseszinseffekt und Risikostreuung zu achten als auf kurzfristige Gewinne. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Actions à long terme et diversifiées, immobilier centré sur la résidence",
+        "excerpt": "Au Seoul Money Show 2026, tenu le 9 mai au COEX de Gangnam, les intervenants ont mis en avant l’investissement boursier long terme diversifié et l’immobilier pour se loger.",
+        "body": "Lors du « Seoul Money Show 2026 », organisé le 9 mai au COEX, dans l’arrondissement de Gangnam à Séoul, le principe mis en avant pour constituer un patrimoine a été clair : les actions doivent être abordées par l’investissement à long terme et diversifié, tandis que l’immobilier doit être envisagé principalement autour du besoin de résidence réelle. Le message présenté sur place disait : « Les riches sont ceux qui ont connu la magie des intérêts composés. Une fois que vous en faites l’expérience, vous pouvez aussi devenir riche. » L’accent porte donc sur l’effet du temps et la diversification du risque plutôt que sur le gain rapide. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "الأسهم للاستثمار الطويل والمتنوع والعقار للسكن الفعلي أساسا",
+        "excerpt": "في معرض سيول للمال 2026 المنعقد في 9 مايو في مركز COEX بمنطقة غانغنام، طُرحت قاعدة مفادها أن الأسهم تحتاج استثمارا طويلا ومتنوعا والعقار يرتبط بالسكن الفعلي.",
+        "body": "في “معرض سيول للمال 2026” الذي عُقد في 9 مايو في مركز COEX بمنطقة غانغنام في سيول، جرى التأكيد على أن بناء الثروة يقوم على التعامل مع الأسهم عبر استثمار طويل الأجل ومتنوع، بينما ينبغي النظر إلى العقار أساسا من زاوية السكن الفعلي. ووردت في الفعالية رسالة تقول: “الأثرياء هم من اختبروا سحر الفائدة المركبة. وعندما تختبرون الفائدة المركبة مرة واحدة، يمكنكم أن تصبحوا أثرياء أيضا.” ويعني ذلك التركيز على أثر الزمن وتنويع المخاطر بدلا من السعي وراء أرباح قصيرة الأجل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "शेयरों में लंबी अवधि का विविध निवेश, रियल एस्टेट में रहने की जरूरत अहम",
+        "excerpt": "9 मई को सियोल के गंगनम स्थित COEX में हुए 2026 Seoul Money Show में शेयरों के लिए लंबी अवधि का विविध निवेश और रियल एस्टेट के लिए वास्तविक निवास को प्रमुख सिद्धांत बताया गया।",
+        "body": "9 मई को सियोल के गंगनम स्थित COEX में आयोजित “2026 Seoul Money Show” में संपत्ति बनाने के सिद्धांत के रूप में यह बात रखी गई कि शेयरों में लंबी अवधि और विविधीकरण के साथ निवेश करना चाहिए, जबकि रियल एस्टेट को मुख्य रूप से वास्तविक निवास की जरूरत के आधार पर देखना चाहिए। कार्यक्रम में संदेश दिया गया: “अमीर वे लोग हैं जिन्होंने चक्रवृद्धि का जादू अनुभव किया है। एक बार आप चक्रवृद्धि को अनुभव कर लें, तो आप भी अमीर बन सकते हैं।” इसका आशय अल्पकालिक लाभ से अधिक समय के साथ बनने वाले चक्रवृद्धि प्रभाव और जोखिम-विविधीकरण पर जोर देना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Jangka Panjang dan Terdiversifikasi, Properti untuk Hunian Nyata",
+        "excerpt": "Pada Seoul Money Show 2026 yang digelar 9 Mei di COEX, Gangnam, Seoul, prinsip kekayaan yang ditekankan ialah saham jangka panjang terdiversifikasi dan properti berbasis hunian.",
+        "body": "Pada “Seoul Money Show 2026” yang digelar 9 Mei di COEX, Gangnam, Seoul, prinsip pembentukan kekayaan yang disorot adalah bahwa saham sebaiknya didekati melalui investasi jangka panjang dan terdiversifikasi, sementara properti perlu dinilai terutama berdasarkan kebutuhan tempat tinggal nyata. Dalam acara itu disampaikan pesan: “Orang kaya adalah mereka yang pernah merasakan keajaiban bunga majemuk. Setelah merasakan bunga majemuk, Anda juga bisa menjadi kaya.” Intinya adalah menekankan efek waktu dan penyebaran risiko, bukan keuntungan jangka pendek. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ec734d69ba8e",
+    "slug": "속보-청와대-해수부-등-관계부처와-nsc-실무위-개최-612810",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T12:20:53.812Z",
+    "updatedAt": "2026-05-10T12:20:53.812Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12042820",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042820",
+    "titleFingerprint": "4adb4a87b5d60cf582f67999bbefaf3f5b088e85",
+    "dedupKeys": [
+      "ec734d69ba8ef19e8319d38c1fb512038b81a368",
+      "4adb4a87b5d60cf582f67999bbefaf3f5b088e85",
+      "05ee0486f525c612fc91b3345f133e8973e58518"
+    ],
+    "imageUrl": "/images/articles/ec734d69ba8e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "청와대, 해수부 등 관계부처와 NSC 실무위 개최 속보",
+        "excerpt": "청와대가 해양수산부 등 관계부처와 NSC 실무위원회를 개최한다고 밝혔다. 관계부처 간 대응 논의가 이뤄지는 사안으로, 발표 내용은 mk.co.kr 보도를 통해 전해졌다.",
+        "body": "청와대는 해양수산부 등 관계부처와 국가안전보장회의(NSC) 실무위원회를 개최한다고 밝혔다. 이번 발표는 관계부처가 함께 참여하는 실무위 개최 사실을 알린 속보로, 구체적인 회의 의제나 논의 내용은 원문에 제시되지 않았다. 해수부 등 관련 부처가 언급된 만큼 정부 차원의 부처 간 협의 절차가 진행되는 것으로 확인된다. 향후 영향과 전망은 회의 이후 공개되는 추가 발표 여부에 따라 달라질 수 있다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "Blue House to Hold NSC Working-Level Meeting With Oceans Ministry",
+        "excerpt": "The Blue House said it will hold an NSC working-level meeting with related ministries, including the Ministry of Oceans and Fisheries, according to a report from mk.co.kr.",
+        "body": "The Blue House said it will hold a working-level meeting of the National Security Council (NSC) with related ministries, including the Ministry of Oceans and Fisheries. The announcement was reported as breaking news and confirmed only that the interministerial working-level meeting would take place. The original report did not provide a specific agenda or details of the discussions. As the Oceans Ministry and other agencies were named, the matter involves coordination among relevant government bodies. Further impact and outlook will depend on whether additional statements are released after the meeting. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "青瓦台、海洋水産部など関係省庁とNSC実務委開催へ",
+        "excerpt": "青瓦台は、海洋水産部など関係省庁とNSC実務委員会を開催すると明らかにした。発表内容はmk.co.krの速報で伝えられた。",
+        "body": "青瓦台は、海洋水産部など関係省庁と国家安全保障会議（NSC）の実務委員会を開催すると明らかにした。今回の発表は、関係省庁が参加する実務委の開催事実を伝える速報であり、具体的な議題や協議内容は原文では示されていない。海洋水産部など関連省庁が言及されたことから、政府内の省庁間協議が進められる事案であることが確認される。今後の影響や見通しは、会議後に追加発表が行われるかどうかに左右される。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "青瓦台将与海洋水产部等相关部门召开NSC工作会议",
+        "excerpt": "青瓦台表示，将与海洋水产部等相关部门召开NSC工作层级会议。该消息由mk.co.kr以快讯形式报道。",
+        "body": "青瓦台表示，将与海洋水产部等相关部门召开国家安全保障会议（NSC）工作层级会议。此次发布为快讯，确认了相关部门共同参加工作会议的事实，但原文未说明具体议题或讨论内容。由于海洋水产部等部门被提及，可以确认该事项涉及政府相关部门之间的协调程序。后续影响和前景将取决于会议结束后是否公布进一步说明。来源：引用mk.co.kr。"
+      },
+      "es": {
+        "title": "Casa Azul convocará reunión técnica del NSC con ministerios clave",
+        "excerpt": "La Casa Azul dijo que celebrará una reunión técnica del NSC con ministerios relacionados, incluido el de Océanos y Pesca, según informó mk.co.kr.",
+        "body": "La Casa Azul anunció que celebrará una reunión técnica del Consejo de Seguridad Nacional (NSC) con ministerios relacionados, incluido el Ministerio de Océanos y Pesca. El anuncio fue difundido como noticia de última hora y confirma únicamente la convocatoria de una reunión de trabajo interministerial. El reporte original no presentó una agenda concreta ni detalles sobre los temas de discusión. Al mencionarse el Ministerio de Océanos y Pesca y otros organismos, se confirma que el asunto implica coordinación entre dependencias del Gobierno. El impacto y las perspectivas dependerán de si se publican comunicados adicionales después de la reunión. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Casa Azul fará reunião técnica do NSC com Ministério dos Oceanos",
+        "excerpt": "A Casa Azul informou que realizará uma reunião técnica do NSC com ministérios relacionados, incluindo o Ministério dos Oceanos e Pesca, segundo o mk.co.kr.",
+        "body": "A Casa Azul informou que realizará uma reunião técnica do Conselho de Segurança Nacional (NSC) com ministérios relacionados, incluindo o Ministério dos Oceanos e Pesca. O anúncio foi divulgado como notícia urgente e confirma apenas a realização de uma reunião de trabalho entre órgãos do governo. O texto original não apresentou pauta específica nem detalhes sobre o conteúdo das discussões. Como o Ministério dos Oceanos e Pesca e outros órgãos foram mencionados, trata-se de um processo de coordenação entre ministérios relevantes. Os impactos e perspectivas dependerão de eventuais comunicados adicionais após a reunião. Fonte: citado de mk.co.kr."
+      },
+      "de": {
+        "title": "Blaues Haus plant NSC-Arbeitssitzung mit Meeresministerium",
+        "excerpt": "Das Blaue Haus teilte mit, dass es eine NSC-Arbeitssitzung mit zuständigen Ministerien, darunter dem Ministerium für Ozeane und Fischerei, abhalten wird.",
+        "body": "Das Blaue Haus teilte mit, dass es eine Arbeitssitzung des Nationalen Sicherheitsrats (NSC) mit zuständigen Ministerien, darunter dem Ministerium für Ozeane und Fischerei, abhalten wird. Die Meldung wurde als Eilmeldung verbreitet und bestätigt lediglich die geplante Sitzung auf Arbeitsebene mit beteiligten Regierungsstellen. Konkrete Tagesordnungspunkte oder Inhalte der Beratungen wurden im Originalbericht nicht genannt. Da das Ministerium für Ozeane und Fischerei sowie weitere Behörden erwähnt werden, handelt es sich um eine ressortübergreifende Abstimmung. Auswirkungen und Ausblick hängen davon ab, ob nach der Sitzung weitere Erklärungen veröffentlicht werden. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "La Maison Bleue tiendra une réunion de travail du NSC avec les ministères",
+        "excerpt": "La Maison Bleue a annoncé une réunion de travail du NSC avec les ministères concernés, dont celui des Océans et de la Pêche, selon mk.co.kr.",
+        "body": "La Maison Bleue a annoncé qu’elle tiendrait une réunion de travail du Conseil de sécurité nationale (NSC) avec les ministères concernés, dont le ministère des Océans et de la Pêche. L’information, publiée comme une alerte, confirme seulement la tenue d’une réunion interministerielle au niveau opérationnel. Le texte d’origine ne précise ni ordre du jour ni détails sur les discussions prévues. La mention du ministère des Océans et de la Pêche et d’autres services indique une coordination entre organismes gouvernementaux concernés. Les effets et perspectives dépendront d’éventuelles annonces supplémentaires après la réunion. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "البيت الأزرق يعقد اجتماعا عمليا لمجلس الأمن مع وزارات معنية",
+        "excerpt": "قال البيت الأزرق إنه سيعقد اجتماعا عمليا لمجلس الأمن القومي مع وزارات معنية، بينها وزارة المحيطات والثروة السمكية، بحسب mk.co.kr.",
+        "body": "أعلن البيت الأزرق أنه سيعقد اجتماعا عمليا لمجلس الأمن القومي مع وزارات معنية، من بينها وزارة المحيطات والثروة السمكية. وجاء الإعلان في خبر عاجل يؤكد فقط عقد اجتماع على مستوى العمل بمشاركة جهات حكومية ذات صلة. ولم يورد النص الأصلي جدول أعمال محددا أو تفاصيل بشأن ما ستتم مناقشته. وبما أن وزارة المحيطات والثروة السمكية وجهات أخرى ذُكرت في الخبر، فإن الأمر يتعلق بتنسيق بين الإدارات الحكومية المعنية. وستتوقف الآثار والتوقعات اللاحقة على ما إذا كانت ستصدر بيانات إضافية بعد الاجتماع. المصدر: نقلا عن mk.co.kr."
+      },
+      "hi": {
+        "title": "ब्लू हाउस समुद्री मंत्रालय सहित विभागों संग NSC कार्य बैठक करेगा",
+        "excerpt": "ब्लू हाउस ने कहा कि वह समुद्री और मत्स्य मंत्रालय सहित संबंधित मंत्रालयों के साथ NSC की कार्यस्तरीय बैठक करेगा, जैसा कि mk.co.kr ने बताया।",
+        "body": "ब्लू हाउस ने कहा कि वह समुद्री और मत्स्य मंत्रालय सहित संबंधित मंत्रालयों के साथ राष्ट्रीय सुरक्षा परिषद (NSC) की कार्यस्तरीय बैठक आयोजित करेगा। यह घोषणा ब्रेकिंग न्यूज के रूप में सामने आई और इसमें केवल संबंधित विभागों की भागीदारी वाली कार्य बैठक की पुष्टि की गई। मूल रिपोर्ट में बैठक का ठोस एजेंडा या चर्चा के विषयों का विवरण नहीं दिया गया। समुद्री और मत्स्य मंत्रालय तथा अन्य संबंधित विभागों का उल्लेख होने से यह स्पष्ट है कि मामला सरकारी विभागों के बीच समन्वय से जुड़ा है। आगे का प्रभाव और परिदृश्य बैठक के बाद जारी होने वाली अतिरिक्त जानकारी पर निर्भर करेगा। स्रोत: mk.co.kr से उद्धृत।"
+      },
+      "id": {
+        "title": "Blue House Gelar Rapat Kerja NSC dengan Kementerian Kelautan",
+        "excerpt": "Blue House menyatakan akan menggelar rapat kerja NSC dengan kementerian terkait, termasuk Kementerian Kelautan dan Perikanan, menurut mk.co.kr.",
+        "body": "Blue House menyatakan akan menggelar rapat kerja Dewan Keamanan Nasional (NSC) dengan kementerian terkait, termasuk Kementerian Kelautan dan Perikanan. Pengumuman ini disampaikan sebagai berita kilat dan hanya mengonfirmasi rencana pertemuan tingkat kerja yang melibatkan instansi pemerintah terkait. Laporan asli tidak mencantumkan agenda khusus atau rincian materi pembahasan. Dengan disebutnya Kementerian Kelautan dan Perikanan serta instansi lain, perkara ini terkait koordinasi antarbagian pemerintah. Dampak dan prospek selanjutnya akan bergantung pada apakah ada pernyataan tambahan setelah rapat. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "96a046df2083",
     "slug": "양향자-경기도민-1인당-grdp-1억원-시대로-461813",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Mobil impor bekas sekitar 1 juta won: waspadai godaan Mercedes dan BMW murah",
         "excerpt": "Pengemudi minim pengalaman, seperti pekerja 27 tahun yang masuk perusahaan kecil tahun lalu, melirik mobil bekas impor murah untuk latihan atau mobil pertama, tetapi iklan palsu perlu diwaspadai.",
         "body": "Pekerja dengan pengalaman mengemudi nyata yang minim, seperti Kang Ki-myeong, nama samaran pekerja 27 tahun yang bergabung dengan perusahaan kecil tahun lalu, mencari mobil bekas murah untuk perjalanan akhir pekan dan latihan mengemudi. Maeil Business Newspaper melaporkan bahwa model impor bekas seperti Mercedes-Benz dan BMW bisa muncul di kisaran 1 juta won, sehingga terlihat lebih murah daripada smartphone dan menggoda sebagai mobil pertama. Dibanding mobil baru, mobil bekas dapat menekan biaya pembelian, pajak, dan premi asuransi, sehingga menarik bagi pekerja muda. Namun kendaraan tua atau punya riwayat kecelakaan bisa membutuhkan biaya perbaikan yang melebihi harga mobil. Jika harga terlalu rendah, iklan itu mungkin palsu atau umpan; pemeriksaan, diagnosis, dan pendampingan ahli disarankan. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "cde4c4b7742b",
-    "slug": "라벨갈이-신고했는데-포상금-3천만원-대리인에게행정심판-제기-753147",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T22:45:58.993Z",
-    "updatedAt": "2026-05-09T22:45:58.993Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508143200065",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508143200065",
-    "titleFingerprint": "ca5e978f52176c1ed525c40ed6d228c6ee225c60",
-    "dedupKeys": [
-      "cde4c4b7742bd51f13b4fc73ed42354587b09ecf",
-      "ca5e978f52176c1ed525c40ed6d228c6ee225c60",
-      "533160f84a2ca3f8ad6f7da6a2e363835c347c7f"
-    ],
-    "imageUrl": "/images/articles/cde4c4b7742b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "라벨갈이 신고 포상금 3천만원, 제보자 아닌 관세사에게 지급돼 논란",
-        "excerpt": "인천에서 원산지를 속여 판매하는 ‘라벨갈이’ 행위를 제보한 남성이 대리 신고를 맡은 관세사에게 포상금 3천만원이 지급되자 행정심판을 제기했다.",
-        "body": "인천에서 원산지를 속여 판매하는 이른바 ‘라벨갈이’ 행위를 제보한 남성이 자신이 아닌 대리 신고 관세사에게 포상금 3천만원이 지급됐다며 행정심판을 제기했다. 연합뉴스에 따르면 이 남성은 라벨갈이 정황을 제보했고, 실제 신고 업무는 관세사가 대신 맡았다. 이후 포상금 수령자가 관세사로 결정되면서 제보자는 포상금 지급 대상 판단에 이의를 제기한 것으로 전해졌다. 이번 사안은 원산지 허위 표시 제보와 대리 신고 과정에서 포상금 수령 주체를 둘러싼 분쟁으로 이어졌다. 출처: yna.co.kr 인용"
-      },
-      "en": {
-        "title": "Label-Switching Tip Reward of 30 Million Won Paid to Customs Broker Sparks Appeal",
-        "excerpt": "A man in Incheon who tipped off authorities about false country-of-origin labeling filed an administrative appeal after a 30 million won reward went to the customs broker who reported it for him.",
-        "body": "In Incheon, a man who reported alleged “label switching,” in which goods are sold with false country-of-origin information, has filed an administrative appeal after a 30 million won reward was paid not to him but to the customs broker who handled the report on his behalf. According to Yonhap News Agency, the man provided the tip on the suspected labeling violation, while the customs broker carried out the formal reporting process. When the reward recipient was determined to be the broker, the informant challenged the decision. The case has become a dispute over who should receive a reward when a tip is submitted through a representative. Source: yna.co.kr cited"
-      },
-      "ja": {
-        "title": "原産地偽装『ラベル替え』通報報奨金3000万ウォン、代行関税士に支給で審判",
-        "excerpt": "仁川で原産地を偽って販売する『ラベル替え』行為を情報提供した男性が、代行通報した関税士に報奨金3000万ウォンが支給され行政審判を起こした。",
-        "body": "仁川で原産地を偽って販売するいわゆる『ラベル替え』行為を情報提供した男性が、自分ではなく通報を代行した関税士に報奨金3000万ウォンが支給されたとして行政審判を申し立てた。聯合ニュースによると、この男性はラベル替えの疑いを情報提供し、実際の通報業務は関税士が代わりに行った。その後、報奨金の受取人が関税士と決定され、情報提供者は支給対象の判断に異議を唱えたという。今回の事案は、原産地虚偽表示の通報と代理手続きの過程で、報奨金の受給主体をめぐる争いとなった。出典: yna.co.kr 引用"
-      },
-      "zh": {
-        "title": "举报原产地“换标签”奖励3000万韩元给代理关税师引发申诉",
-        "excerpt": "仁川一名男子举报虚假标示原产地的“换标签”销售行为后，3000万韩元奖励金却支付给代为申报的关税师，遂提起行政审判。",
-        "body": "在仁川，一名男子举报将商品原产地虚假标示销售的所谓“换标签”行为后，因3000万韩元奖励金不是支付给本人，而是支付给代其申报的关税师，已提起行政审判。据韩联社报道，该男子提供了有关换标签嫌疑的线索，实际申报手续由关税师代为办理。随后奖励金领取人被认定为该关税师，举报人对奖励金支付对象的判断提出异议。此案围绕原产地虚假标示举报及代理申报过程中谁应领取奖励金产生争议。来源：yna.co.kr 引用"
-      },
-      "es": {
-        "title": "Recompensa por denunciar cambio de etiquetas fue pagada a agente aduanero",
-        "excerpt": "Un hombre de Incheon que informó sobre ventas con origen falso presentó un recurso administrativo después de que la recompensa de 30 millones de wones fuera al agente aduanero que denunció por él.",
-        "body": "En Incheon, un hombre que alertó sobre el llamado “cambio de etiquetas”, una práctica en la que se venden productos falseando su país de origen, presentó un recurso administrativo después de que una recompensa de 30 millones de wones fuera pagada no a él, sino al agente aduanero que tramitó la denuncia en su nombre. Según la agencia Yonhap, el hombre aportó la información sobre la presunta infracción y el agente aduanero realizó el procedimiento formal. Al determinarse que el beneficiario de la recompensa era el agente, el informante impugnó esa decisión. El caso derivó en una disputa sobre quién debe recibir el pago cuando la denuncia se presenta mediante un representante. Fuente: yna.co.kr citado"
-      },
-      "pt": {
-        "title": "Recompensa por denúncia de troca de rótulos vai a despachante e gera recurso",
-        "excerpt": "Um homem em Incheon que denunciou venda com falsa origem entrou com recurso administrativo após a recompensa de 30 milhões de wones ser paga ao despachante aduaneiro que fez a denúncia por ele.",
-        "body": "Em Incheon, um homem que informou autoridades sobre a chamada “troca de rótulos”, prática em que produtos são vendidos com falsa indicação de origem, entrou com recurso administrativo depois que uma recompensa de 30 milhões de wones foi paga não a ele, mas ao despachante aduaneiro que fez a denúncia em seu nome. Segundo a agência Yonhap, o homem forneceu a informação sobre a suspeita de irregularidade, enquanto o despachante realizou o procedimento formal. Quando o beneficiário da recompensa foi definido como o despachante, o informante contestou a decisão. O caso tornou-se uma disputa sobre quem deve receber a recompensa em denúncias feitas por representante. Fonte: yna.co.kr citado"
-      },
-      "de": {
-        "title": "30-Millionen-Won-Prämie für Etikettentausch-Hinweis geht an Zollagenten",
-        "excerpt": "Ein Mann aus Incheon, der falsche Herkunftskennzeichnung meldete, legte Verwaltungsbeschwerde ein, nachdem die Prämie von 30 Millionen Won an den Zollagenten gezahlt wurde, der für ihn meldete.",
-        "body": "In Incheon hat ein Mann Verwaltungsbeschwerde eingelegt, nachdem eine Prämie von 30 Millionen Won für seinen Hinweis auf sogenannten Etikettentausch nicht an ihn, sondern an den Zollagenten gezahlt wurde, der die Meldung in seinem Auftrag einreichte. Nach Angaben der Nachrichtenagentur Yonhap hatte der Mann den Verdacht auf Verkäufe mit falscher Herkunftsangabe gemeldet, während der Zollagent das formale Verfahren übernahm. Als der Agent als Empfänger der Prämie bestimmt wurde, focht der Hinweisgeber diese Entscheidung an. Der Fall entwickelte sich zu einem Streit darüber, wer bei einer über einen Vertreter eingereichten Meldung die Prämie erhalten soll. Quelle: yna.co.kr zitiert"
-      },
-      "fr": {
-        "title": "Prime de 30 millions de wons pour étiquetage frauduleux versée au mandataire",
-        "excerpt": "À Incheon, un homme ayant signalé une vente avec fausse origine a saisi la juridiction administrative après le versement de la prime de 30 millions de wons au courtier en douane mandaté.",
-        "body": "À Incheon, un homme qui avait signalé une pratique dite de “changement d’étiquette”, consistant à vendre des produits avec une fausse indication d’origine, a engagé une procédure administrative après qu’une prime de 30 millions de wons a été versée non pas à lui, mais au courtier en douane ayant déposé le signalement pour son compte. Selon l’agence Yonhap, l’homme a fourni l’information sur les soupçons d’infraction, tandis que le courtier a effectué la démarche officielle. Lorsque le bénéficiaire de la prime a été désigné comme étant le courtier, l’informateur a contesté cette décision. L’affaire porte sur l’attribution de la prime lorsqu’un signalement est déposé par un représentant. Source : yna.co.kr cité"
-      },
-      "ar": {
-        "title": "مكافأة بلاغ تغيير الملصقات البالغة 30 مليون وون تذهب إلى وسيط جمركي",
-        "excerpt": "في إنتشون، قدم رجل بلاغا عن بيع منتجات مع تزوير بلد المنشأ، ثم رفع طعنا إداريا بعدما صُرفت مكافأة قدرها 30 مليون وون للوسيط الجمركي الذي تولى البلاغ نيابة عنه.",
-        "body": "في إنتشون، رفع رجل أبلغ عن ما يعرف بتغيير الملصقات، أي بيع سلع مع تزوير بلد المنشأ، طعنا إداريا بعدما صُرفت مكافأة قدرها 30 مليون وون ليس له بل للوسيط الجمركي الذي تولى تقديم البلاغ نيابة عنه. ووفقا لوكالة يونهاب، قدم الرجل المعلومات عن الاشتباه في مخالفة تتعلق ببيان المنشأ، بينما نفذ الوسيط الجمركي إجراءات البلاغ الرسمية. وبعد تحديد الوسيط متلقيا للمكافأة، اعترض المبلغ على قرار جهة الصرف. وتحول الأمر إلى نزاع حول صاحب الحق في المكافأة عندما يتم تقديم البلاغ عبر ممثل. المصدر: yna.co.kr مقتبس"
-      },
-      "hi": {
-        "title": "लेबल बदलने की शिकायत पर 3 करोड़ वॉन इनाम एजेंट को, अपील दायर",
-        "excerpt": "इंचियोन में मूल देश छिपाकर बेचने की ‘लेबल बदलने’ की कार्रवाई की सूचना देने वाले व्यक्ति ने 3 करोड़ वॉन का इनाम अपनी जगह सीमा शुल्क एजेंट को मिलने पर प्रशासनिक अपील दायर की।",
-        "body": "इंचियोन में मूल देश को गलत बताकर सामान बेचने की कथित ‘लेबल बदलने’ की कार्रवाई की सूचना देने वाले एक व्यक्ति ने प्रशासनिक अपील दायर की है, क्योंकि 3 करोड़ वॉन का इनाम उसे नहीं बल्कि उसकी ओर से शिकायत दर्ज कराने वाले सीमा शुल्क एजेंट को दिया गया। योनहाप समाचार एजेंसी के अनुसार, व्यक्ति ने संदिग्ध लेबल बदलने की जानकारी दी थी और औपचारिक शिकायत प्रक्रिया एजेंट ने संभाली। बाद में इनाम पाने वाला व्यक्ति एजेंट तय किया गया, जिस पर मूल सूचना देने वाले ने आपत्ति जताई। यह मामला प्रतिनिधि के माध्यम से की गई शिकायत में इनाम पाने के अधिकार को लेकर विवाद बन गया है। स्रोत: yna.co.kr उद्धृत"
-      },
-      "id": {
-        "title": "Hadiah Laporan Ganti Label 30 Juta Won Dibayar ke Kuasa Pabean",
-        "excerpt": "Seorang pria di Incheon yang melaporkan penjualan dengan asal barang palsu mengajukan banding administratif setelah hadiah 30 juta won diberikan kepada kuasa pabean yang melapor atas namanya.",
-        "body": "Di Incheon, seorang pria yang memberi informasi tentang praktik “ganti label”, yaitu penjualan barang dengan keterangan negara asal yang dipalsukan, mengajukan banding administratif setelah hadiah 30 juta won dibayarkan bukan kepadanya, melainkan kepada kuasa pabean yang mengurus laporan atas namanya. Menurut Kantor Berita Yonhap, pria itu memberikan informasi mengenai dugaan pelanggaran label asal barang, sementara proses pelaporan formal dilakukan oleh kuasa pabean. Setelah penerima hadiah ditetapkan sebagai kuasa tersebut, pelapor mempersoalkan keputusan itu. Kasus ini menjadi sengketa mengenai siapa yang berhak menerima hadiah ketika laporan diajukan melalui perwakilan. Sumber: yna.co.kr dikutip"
-      }
-    }
-  },
-  {
-    "id": "e32bab33fc04",
-    "slug": "학회-갈-돈-없었다국제학회-발표-28-급감-736217",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T22:44:40.189Z",
-    "updatedAt": "2026-05-09T22:44:40.189Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508132600017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508132600017",
-    "titleFingerprint": "039c9bab1933a6fe593a127d41492ba7713c51d8",
-    "dedupKeys": [
-      "e32bab33fc0471d491827491bcb24f727074fba1",
-      "039c9bab1933a6fe593a127d41492ba7713c51d8",
-      "5f3d90824a9b8768670c96eb839e33eca23ad219"
-    ],
-    "imageUrl": "/images/articles/e32bab33fc04.jpg",
-    "i18n": {
-      "ko": {
-        "title": "R&D 예산 삭감 여파, 국제학회 발표 28% 급감…연구 현장 위축",
-        "excerpt": "R&D 예산 삭감 여파로 연구자들의 해외 학회 출장과 특허 활동이 줄고, 국제학회 발표가 28% 감소한 것으로 통계에서 나타났다.",
-        "body": "서울에서 연합뉴스가 보도한 통계에 따르면 R&D 예산 삭감 여파로 연구자들이 해외 학회 출장과 특허 활동 등을 실제로 줄인 것으로 나타났다. 특히 국제학회 발표는 28% 급감해 연구 현장의 대외 활동 위축이 수치로 확인됐다. 해외 학회 참여는 연구 성과 공유와 국제 교류의 주요 통로인 만큼, 발표 감소는 연구자들의 활동 범위 축소를 보여주는 지표로 해석된다. 예산 변화가 연구 현장의 출장, 발표, 특허 관련 활동에 직접 영향을 준 사례로 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "R&D Budget Cuts Hit Research: International Conference Presentations Drop 28%",
-        "excerpt": "Statistics show that after R&D budget cuts, researchers reduced overseas conference travel and patent activity, while international conference presentations fell 28%.",
-        "body": "According to statistics reported by Yonhap News Agency in Seoul, researchers reduced overseas conference travel, patent activity and related work in the aftermath of R&D budget cuts. International conference presentations fell sharply by 28%, confirming a contraction in researchers’ external activities. Overseas conferences are a key channel for sharing research results and maintaining international exchange, so the decline in presentations points to a narrower scope of activity for researchers. The figures highlight how budget changes affected travel, presentations and patent-related work in the research field. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "R&D予算削減の影響、国際学会発表が28%急減…研究現場に縮小感",
-        "excerpt": "R&D予算削減の影響で、研究者の海外学会出張や特許活動が減り、国際学会発表は28%減少したことが統計で示された。",
-        "body": "ソウル発の聯合ニュースが報じた統計によると、R&D予算削減の影響で、研究者は海外学会への出張や特許活動などを実際に減らしていた。特に国際学会での発表は28%急減し、研究現場の対外活動が縮小していることが数値で確認された。海外学会への参加は研究成果の共有と国際交流の主要な経路であるため、発表減少は研究者の活動範囲が狭まったことを示す指標といえる。予算変化が出張、発表、特許関連活動に直接影響した事例として注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "研发预算削减影响显现：国际学会发表减少28%，研究活动收缩",
-        "excerpt": "统计显示，受研发预算削减影响，研究人员减少海外学会出差和专利活动，国际学会发表数量下降28%。",
-        "body": "据韩联社首尔报道的统计，受研发预算削减影响，研究人员实际减少了海外学会出差、专利活动等。其中国际学会发表数量骤减28%，研究现场对外活动收缩已通过数据得到确认。海外学会参与是共享研究成果和开展国际交流的重要渠道，因此发表减少可被视为研究人员活动范围缩小的指标。相关数据表明，预算变化对研究领域的出差、发表以及专利相关活动产生了直接影响。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Recortes en I+D golpean la investigación: ponencias internacionales caen 28%",
-        "excerpt": "Las estadísticas muestran que, tras recortes en I+D, los investigadores redujeron viajes a congresos y actividades de patentes, y las ponencias internacionales bajaron 28%.",
-        "body": "Según estadísticas reportadas por Yonhap en Seúl, los recortes en el presupuesto de I+D llevaron a los investigadores a reducir viajes al extranjero para congresos, actividades de patentes y otras labores. En particular, las presentaciones en congresos internacionales cayeron un 28%, confirmando con cifras una contracción de la actividad externa del sector investigador. La participación en congresos internacionales es una vía clave para compartir resultados y sostener intercambios globales, por lo que la caída refleja un menor alcance de actividad. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Cortes em P&D afetam pesquisa: apresentações internacionais caem 28%",
-        "excerpt": "Estatísticas indicam que, após cortes no orçamento de P&D, pesquisadores reduziram viagens a conferências e atividades de patentes, enquanto apresentações internacionais caíram 28%.",
-        "body": "Segundo estatísticas divulgadas pela Yonhap em Seul, os cortes no orçamento de P&D levaram pesquisadores a reduzir viagens ao exterior para conferências, atividades de patentes e ações relacionadas. As apresentações em conferências internacionais caíram 28%, confirmando em números a retração das atividades externas no campo da pesquisa. A participação em eventos internacionais é um canal importante para compartilhar resultados e manter intercâmbio global, portanto a queda indica uma redução no alcance das atividades dos pesquisadores. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Forschungsbudget gekürzt: Internationale Konferenzbeiträge fallen um 28%",
-        "excerpt": "Statistiken zeigen: Nach Kürzungen im F&E-Budget reduzierten Forschende Auslandsreisen zu Konferenzen und Patentaktivitäten; internationale Beiträge sanken um 28%.",
-        "body": "Nach von Yonhap in Seoul berichteten Statistiken haben Forschende infolge von Kürzungen im F&E-Budget Auslandsreisen zu wissenschaftlichen Konferenzen, Patentaktivitäten und verwandte Tätigkeiten tatsächlich reduziert. Besonders deutlich war der Rückgang bei Präsentationen auf internationalen Konferenzen: Sie fielen um 28%. Damit wird die Einschränkung externer Forschungsaktivitäten zahlenmäßig sichtbar. Da internationale Konferenzen ein wichtiger Kanal für den Austausch von Forschungsergebnissen und globale Vernetzung sind, weist der Rückgang auf einen kleineren Aktionsradius hin. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Coupes dans la R&D: les présentations en congrès internationaux chutent de 28%",
-        "excerpt": "Des statistiques montrent qu’après les coupes budgétaires en R&D, les chercheurs ont réduit voyages à l’étranger et activités de brevets; les présentations internationales ont baissé de 28%.",
-        "body": "Selon des statistiques rapportées par Yonhap à Séoul, les coupes dans le budget de R&D ont conduit les chercheurs à réduire leurs déplacements à l’étranger pour des congrès, leurs activités liées aux brevets et d’autres démarches. Les présentations dans les congrès internationaux ont chuté de 28%, confirmant par les chiffres le recul des activités extérieures du milieu de la recherche. Les congrès internationaux étant un canal majeur de partage des résultats et d’échanges mondiaux, cette baisse indique un champ d’activité plus restreint pour les chercheurs. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "خفض ميزانيات البحث والتطوير يضغط على الباحثين: تراجع العروض الدولية 28%",
-        "excerpt": "أظهرت إحصاءات أن خفض ميزانيات البحث والتطوير دفع الباحثين إلى تقليص السفر للمؤتمرات والأنشطة المرتبطة بالبراءات، مع تراجع العروض الدولية 28%.",
-        "body": "بحسب إحصاءات نقلتها وكالة يونهاب من سيول، أدى خفض ميزانيات البحث والتطوير إلى تقليص الباحثين فعليا سفرهم إلى الخارج لحضور المؤتمرات، وأنشطتهم المتعلقة بالبراءات وغيرها من الأعمال. وتراجعت العروض في المؤتمرات الدولية بنسبة 28%، ما يؤكد بالأرقام انكماش النشاط الخارجي في ميدان البحث. وبما أن المؤتمرات الدولية قناة رئيسية لتبادل نتائج الأبحاث والتواصل العالمي، فإن هذا الانخفاض يشير إلى تضيق نطاق نشاط الباحثين. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "R&D बजट कटौती का असर: अंतरराष्ट्रीय सम्मेलन प्रस्तुतियां 28% घटीं",
-        "excerpt": "आंकड़ों के अनुसार R&D बजट कटौती के बाद शोधकर्ताओं ने विदेशी सम्मेलन यात्राएं और पेटेंट गतिविधियां घटाईं, जबकि अंतरराष्ट्रीय सम्मेलन प्रस्तुतियां 28% कम हुईं।",
-        "body": "सियोल से योनहाप की रिपोर्ट में दिए गए आंकड़ों के अनुसार, R&D बजट कटौती के असर से शोधकर्ताओं ने विदेशों में शैक्षणिक सम्मेलनों की यात्राएं, पेटेंट गतिविधियां और संबंधित काम वास्तव में कम किए। खास तौर पर अंतरराष्ट्रीय सम्मेलनों में प्रस्तुतियां 28% घट गईं, जिससे शोध क्षेत्र की बाहरी गतिविधियों में कमी आंकड़ों से स्पष्ट हुई। विदेशी सम्मेलन शोध परिणाम साझा करने और अंतरराष्ट्रीय आदान-प्रदान का प्रमुख माध्यम होते हैं, इसलिए प्रस्तुतियों में गिरावट शोधकर्ताओं की गतिविधि के दायरे के सिकुड़ने का संकेत देती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Pemangkasan Anggaran R&D Berdampak: Presentasi Konferensi Internasional Turun 28%",
-        "excerpt": "Statistik menunjukkan pemangkasan anggaran R&D membuat peneliti mengurangi perjalanan konferensi luar negeri dan aktivitas paten, sementara presentasi internasional turun 28%.",
-        "body": "Menurut statistik yang dilaporkan Yonhap dari Seoul, dampak pemangkasan anggaran R&D membuat para peneliti benar-benar mengurangi perjalanan ke luar negeri untuk konferensi, aktivitas paten, dan kegiatan terkait lainnya. Presentasi di konferensi internasional turun tajam 28%, sehingga penyusutan aktivitas eksternal di dunia riset terlihat jelas dalam angka. Partisipasi dalam konferensi luar negeri merupakan saluran utama untuk berbagi hasil penelitian dan pertukaran internasional, sehingga penurunan presentasi menunjukkan ruang gerak peneliti yang menyempit. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0ead9116bfe4",
-    "slug": "한글-표기가-곧-프리미엄-증표베트남-엄마들-지갑-열었다-권용훈의-직업불만족族-334340",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T22:43:48.991Z",
-    "updatedAt": "2026-05-09T22:43:48.991Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605083518i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605083518i",
-    "titleFingerprint": "f4222b220c73ec24a157212b2160f93c3b11854e",
-    "dedupKeys": [
-      "0ead9116bfe411f96f39450820e7d3b4659a2f96",
-      "f4222b220c73ec24a157212b2160f93c3b11854e",
-      "219f3f6f4679f8e47d1fe0d54e343f9c52728e7e"
-    ],
-    "imageUrl": "/images/articles/0ead9116bfe4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한글 표기 프리미엄 효과, 베트남 엄마 소비 움직인 이유",
-        "excerpt": "한국경제는 베트남 엄마들이 한글 표기를 프리미엄의 증표로 받아들이며 관련 제품 구매에 지갑을 열고 있다고 보도했다.",
-        "body": "한국경제 보도에 따르면 베트남의 엄마 소비자들은 제품에 적힌 한글 표기를 프리미엄의 증표로 받아들이며 구매에 나서고 있다. 기사 제목은 한글 표기가 현지 소비자에게 신뢰와 고급 이미지를 주는 요소로 작용하고 있음을 보여준다. 다만 제공된 원문 정보에는 구체적인 품목, 매출 수치, 조사 시점은 제시되지 않았다. 이번 보도는 한국어 표기와 한국 브랜드 이미지가 베트남 소비 시장에서 구매 판단에 영향을 줄 수 있음을 시사한다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Korean Labels Gain Premium Appeal as Vietnamese Mothers Spend",
-        "excerpt": "Hankyung reported that Vietnamese mothers are opening their wallets as Korean-language labels are viewed as a sign of premium value.",
-        "body": "According to Hankyung, Vietnamese mother consumers are buying products whose Korean-language labeling is perceived as a sign of premium quality. The headline indicates that Hangul on packaging is acting as a cue of trust and higher-end image among local consumers. The provided source information does not specify product categories, sales figures, or the exact reporting date. The report suggests that Korean wording and the image of Korean brands may influence purchase decisions in Vietnam’s consumer market. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ハングル表記がプレミアムの証しに、ベトナム母親層の財布動く",
-        "excerpt": "韓国経済は、ベトナムの母親層がハングル表記をプレミアムの証しと受け止め、関連商品の購入に動いていると報じた。",
-        "body": "韓国経済の報道によると、ベトナムの母親消費者は、商品に記されたハングル表記をプレミアムの証しと受け止め、購入に動いている。見出しは、ハングルが現地消費者に信頼感や高級なイメージを与える要素として働いていることを示している。ただし、提供された原文情報には具体的な品目、売上数値、調査時点は示されていない。今回の報道は、韓国語表記と韓国ブランドのイメージがベトナム消費市場の購買判断に影響し得ることを示唆する。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩文标识成高端信号，越南妈妈为何愿意买单",
-        "excerpt": "韩国经济报道称，越南妈妈群体将韩文标识视为高端品质的象征，并因此对相关产品打开钱包。",
-        "body": "据韩国经济报道，越南妈妈消费者正在购买带有韩文标识的产品，因为这些标识被视为高端品质的象征。标题显示，韩文在当地消费者眼中正成为传递信任感和高级形象的因素。不过，所提供的原文信息未列明具体品类、销售数据或报道时间。该报道表明，韩文标识与韩国品牌形象可能影响越南消费市场的购买判断。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Etiquetas en coreano atraen a madres vietnamitas como señal premium",
-        "excerpt": "Hankyung informó que las madres vietnamitas están comprando productos al ver las etiquetas en coreano como una señal de valor premium.",
-        "body": "Según Hankyung, las consumidoras vietnamitas que son madres están comprando productos cuya etiqueta en coreano se percibe como una señal de calidad premium. El titular muestra que el hangul funciona entre consumidores locales como un indicio de confianza y de imagen de gama alta. La información original proporcionada no precisa categorías de producto, cifras de ventas ni fecha exacta del reporte. La nota sugiere que el idioma coreano y la imagen de las marcas coreanas pueden influir en las decisiones de compra en Vietnam. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Rótulos em coreano viram sinal premium para mães vietnamitas",
-        "excerpt": "O Hankyung informou que mães vietnamitas estão comprando produtos ao associar rótulos em coreano a uma imagem de valor premium.",
-        "body": "Segundo o Hankyung, consumidoras vietnamitas que são mães estão comprando produtos com rótulos em coreano por percebê-los como sinal de qualidade premium. O título indica que o hangul atua, entre consumidores locais, como elemento de confiança e imagem mais sofisticada. As informações fornecidas do texto original não especificam categorias de produto, números de vendas nem a data exata da reportagem. A notícia sugere que a escrita coreana e a imagem das marcas coreanas podem influenciar decisões de compra no mercado consumidor do Vietnã. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Koreanische Schrift als Premiumsignal: Vietnams Mütter kaufen",
-        "excerpt": "Hankyung berichtete, dass vietnamesische Mütter Produkte mit koreanischer Beschriftung als Premiumsignal wahrnehmen und dafür Geld ausgeben.",
-        "body": "Laut Hankyung kaufen vietnamesische Mütter Produkte, deren koreanische Beschriftung als Zeichen für Premiumqualität wahrgenommen wird. Die Überschrift zeigt, dass Hangul bei lokalen Verbrauchern als Hinweis auf Vertrauen und ein höherwertiges Image wirkt. Die bereitgestellten Originalinformationen nennen jedoch keine konkreten Produktgruppen, Verkaufszahlen oder ein genaues Veröffentlichungsdatum. Der Bericht deutet darauf hin, dass koreanische Schrift und das Image koreanischer Marken Kaufentscheidungen im vietnamesischen Konsummarkt beeinflussen können. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le coréen sur les étiquettes séduit les mères vietnamiennes",
-        "excerpt": "Hankyung rapporte que des mères vietnamiennes achètent des produits dont l’étiquetage en coréen est perçu comme un signe premium.",
-        "body": "Selon Hankyung, des consommatrices vietnamiennes, en particulier des mères, achètent des produits dont l’étiquetage en coréen est perçu comme un signe de qualité premium. Le titre montre que le hangul agit auprès des consommateurs locaux comme un marqueur de confiance et d’image haut de gamme. Les informations fournies ne précisent toutefois ni les catégories de produits, ni les chiffres de ventes, ni la date exacte du reportage. Cette publication suggère que l’écriture coréenne et l’image des marques coréennes peuvent influencer les décisions d’achat au Vietnam. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "الكتابة الكورية تصبح إشارة فاخرة تدفع أمهات فيتنام للشراء",
-        "excerpt": "ذكرت هانكيونغ أن أمهات فيتناميات يفتحن محافظهن لمنتجات تحمل كتابة كورية ينظرن إليها بوصفها علامة على القيمة الفاخرة.",
-        "body": "بحسب هانكيونغ، تتجه مستهلكات فيتناميات من الأمهات إلى شراء منتجات تحمل كتابة كورية، لأن هذه الكتابة تُعد لديهن إشارة إلى الجودة الفاخرة. ويظهر العنوان أن الهانغول يعمل لدى المستهلكين المحليين كعنصر يمنح الثقة والصورة الراقية. ولا تتضمن المعلومات الأصلية المقدمة تفاصيل عن نوع المنتجات أو أرقام المبيعات أو تاريخ النشر الدقيق. وتشير التغطية إلى أن اللغة الكورية وصورة العلامات الكورية قد تؤثران في قرارات الشراء داخل سوق الاستهلاك الفيتنامية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कोरियाई लेबल बना प्रीमियम संकेत, वियतनामी माताओं ने खरीदा",
-        "excerpt": "Hankyung ने बताया कि वियतनाम की माताएं कोरियाई भाषा वाले लेबल को प्रीमियम संकेत मानकर संबंधित उत्पादों पर खर्च कर रही हैं।",
-        "body": "Hankyung के अनुसार, वियतनाम की मां उपभोक्ता उन उत्पादों को खरीद रही हैं जिन पर कोरियाई भाषा में लेबलिंग है, क्योंकि इसे प्रीमियम गुणवत्ता का संकेत माना जा रहा है। शीर्षक बताता है कि हंगुल स्थानीय उपभोक्ताओं के लिए भरोसे और उच्चस्तरीय छवि का संकेत बन रहा है। उपलब्ध मूल जानकारी में उत्पाद श्रेणी, बिक्री के आंकड़े या रिपोर्ट की सटीक तारीख नहीं दी गई है। यह रिपोर्ट संकेत देती है कि कोरियाई लिखावट और कोरियाई ब्रांड छवि वियतनाम के उपभोक्ता बाजार में खरीद निर्णयों को प्रभावित कर सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Label Korea Jadi Sinyal Premium, Ibu Vietnam Mulai Membeli",
-        "excerpt": "Hankyung melaporkan bahwa para ibu di Vietnam membuka dompet karena label berbahasa Korea dipandang sebagai tanda nilai premium.",
-        "body": "Menurut laporan Hankyung, konsumen ibu di Vietnam membeli produk yang mencantumkan label berbahasa Korea karena dianggap sebagai tanda kualitas premium. Judul tersebut menunjukkan bahwa Hangul berperan sebagai unsur yang memberi kesan tepercaya dan citra kelas atas bagi konsumen lokal. Informasi asli yang tersedia tidak menyebut kategori produk, angka penjualan, atau tanggal laporan secara rinci. Berita ini mengisyaratkan bahwa tulisan Korea dan citra merek Korea dapat memengaruhi keputusan pembelian di pasar konsumen Vietnam. Sumber: hankyung.com"
       }
     }
   }
