@@ -1,5 +1,230 @@
 [
   {
+    "id": "4c17ca61d662",
+    "slug": "표-오늘의-날씨-404857",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T15:13:04.781Z",
+    "updatedAt": "2026-05-10T15:13:04.781Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042717",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042717",
+    "titleFingerprint": "fca7b1fd225c4b1c13cc9bd4b41db8fecce03189",
+    "dedupKeys": [
+      "4c17ca61d66220596f9bf3aef7128e1a8b43efa1",
+      "fca7b1fd225c4b1c13cc9bd4b41db8fecce03189",
+      "afa2ae3516754f9f5ff183b333c5ff66ed85ff9e"
+    ],
+    "imageUrl": "/images/articles/4c17ca61d662.jpg",
+    "i18n": {
+      "ko": {
+        "title": "오늘의 날씨 표로 확인하는 지역별 기상 정보와 일일 생활 참고",
+        "excerpt": "mk.co.kr이 전한 ‘오늘의 날씨’ 표는 오늘 지역별 기상 정보를 한눈에 확인할 수 있도록 정리한 자료로, 일상 이동과 생활 계획에 참고할 수 있다.",
+        "body": "오늘의 날씨는 mk.co.kr이 표 형식으로 전한 기상 정보다. 해당 자료는 오늘 하루의 날씨를 지역별로 확인할 수 있도록 정리한 것으로, 독자가 출근·등교·외출 등 일상 일정을 준비할 때 참고할 수 있는 기본 정보에 해당한다. 원문은 구체적인 수치나 지역별 상세 설명 대신 ‘[표] 오늘의 날씨’라는 제목으로 제공됐다. 이에 따라 본 기사는 추가 해석이나 전망을 덧붙이지 않고, 공개된 원문 범위 안에서 오늘 날씨 표가 일일 생활 정보로 활용될 수 있다는 점만 전한다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Today’s Weather Table Highlights Daily Regional Forecast Information",
+        "excerpt": "The ‘Today’s Weather’ table from mk.co.kr summarizes daily weather information in a format readers can use when planning commuting, school, travel, and other routines.",
+        "body": "Today’s weather was presented by mk.co.kr in a table format. The material is designed to let readers check the day’s weather by region and serves as basic information for preparing daily schedules such as commuting, going to school, or going out. The original item was provided under the title ‘[Table] Today’s Weather’ without additional detailed figures or region-by-region explanations in the supplied text. Therefore, this article does not add interpretation or forecasts beyond the original information and reports only that the weather table can be used as daily life information. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "今日の天気を表で確認、地域別の気象情報と生活の参考資料",
+        "excerpt": "mk.co.krが伝えた「今日の天気」の表は、地域別の気象情報を確認できる資料で、通勤・通学・外出など日々の予定に役立つ内容です。",
+        "body": "今日の天気は、mk.co.krが表形式で伝えた気象情報です。この資料は、今日一日の天気を地域別に確認できるよう整理されたもので、通勤、通学、外出など日常の予定を立てる際の基本情報になります。原文は具体的な数値や地域別の詳しい説明ではなく、「[表] 今日の天気」という題名で提供されました。そのため、本記事では追加の解釈や予測を加えず、公開された原文の範囲内で、今日の天気表が日々の生活情報として活用できる点だけを伝えます。出典: mk.co.kr。"
+      },
+      "zh": {
+        "title": "今日天气表汇总地区气象信息，提供日常出行参考",
+        "excerpt": "mk.co.kr发布的“今日天气”表格整理了当天各地区天气信息，可供读者在通勤、上学、外出等日常安排中参考。",
+        "body": "今日天气由mk.co.kr以表格形式发布。这份资料用于帮助读者按地区查看当天的天气情况，属于准备通勤、上学、外出等日常安排时可参考的基础信息。原文以“[表] 今日天气”为题提供，在所给内容中未包含具体数值或各地区详细说明。因此，本文不添加额外解读或预测，仅在原文信息范围内说明，该天气表可作为今日生活信息参考。来源: mk.co.kr。"
+      },
+      "es": {
+        "title": "Tabla del tiempo de hoy reúne información meteorológica regional diaria",
+        "excerpt": "La tabla ‘El tiempo de hoy’ de mk.co.kr resume información meteorológica diaria por región y sirve como referencia para desplazamientos, clases y salidas cotidianas.",
+        "body": "El tiempo de hoy fue presentado por mk.co.kr en formato de tabla. El material está organizado para que los lectores puedan revisar la información meteorológica del día por región y funciona como referencia básica al preparar rutinas como ir al trabajo, asistir a clases o salir. El texto original fue ofrecido bajo el título ‘[Tabla] El tiempo de hoy’, sin cifras concretas ni explicaciones regionales detalladas en la información proporcionada. Por ello, este artículo no añade interpretaciones ni previsiones y solo informa, dentro del alcance del original, que la tabla puede utilizarse como información diaria de vida. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Tabela do tempo de hoje reúne informações meteorológicas regionais",
+        "excerpt": "A tabela ‘Tempo de hoje’ do mk.co.kr organiza informações meteorológicas diárias por região e pode apoiar planos de deslocamento, escola e atividades externas.",
+        "body": "O tempo de hoje foi apresentado pelo mk.co.kr em formato de tabela. O material foi organizado para permitir que os leitores consultem as condições do dia por região, servindo como informação básica para preparar deslocamentos ao trabalho, ida à escola ou saídas cotidianas. O item original foi divulgado com o título ‘[Tabela] Tempo de hoje’, sem números específicos ou explicações regionais detalhadas no conteúdo fornecido. Assim, este artigo não acrescenta interpretações nem previsões e informa apenas, dentro do escopo do original, que a tabela pode ser usada como referência diária. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Wetter heute als Tabelle: Regionale Informationen für den Alltag",
+        "excerpt": "Die von mk.co.kr veröffentlichte Tabelle ‘Wetter heute’ bündelt tägliche Wetterinformationen nach Regionen und hilft bei Arbeitsweg, Schule und alltäglichen Wegen.",
+        "body": "Das heutige Wetter wurde von mk.co.kr in Tabellenform veröffentlicht. Das Material ist darauf ausgelegt, die Wetterinformationen des Tages nach Regionen überprüfbar zu machen, und dient als Basisinformation für die Planung von Arbeitsweg, Schulweg oder anderen täglichen Wegen. Der Originalbeitrag wurde unter dem Titel ‘[Tabelle] Wetter heute’ bereitgestellt; konkrete Zahlen oder ausführliche regionale Erläuterungen sind im gelieferten Text nicht enthalten. Deshalb fügt dieser Artikel keine zusätzliche Deutung oder Prognose hinzu und berichtet nur im Rahmen der Originalangaben, dass die Wettertabelle als tägliche Lebensinformation genutzt werden kann. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Météo du jour en tableau: informations régionales pour s’organiser",
+        "excerpt": "Le tableau ‘Météo du jour’ publié par mk.co.kr rassemble les informations météo quotidiennes par région, utiles pour les trajets, l’école et les sorties.",
+        "body": "La météo du jour a été présentée par mk.co.kr sous forme de tableau. Ce document permet aux lecteurs de consulter les informations météorologiques de la journée par région et constitue une base pour organiser les trajets domicile-travail, l’école ou les sorties quotidiennes. L’élément original a été fourni sous le titre ‘[Tableau] Météo du jour’, sans chiffres précis ni explications régionales détaillées dans le texte transmis. Cet article n’ajoute donc ni interprétation ni prévision et indique seulement, dans les limites de l’information originale, que ce tableau peut servir de référence pratique du jour. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "جدول طقس اليوم يعرض معلومات إقليمية موجزة للاستخدام اليومي",
+        "excerpt": "نشر mk.co.kr جدول “طقس اليوم” لتلخيص معلومات الطقس اليومية حسب المناطق، بما يساعد القراء في التخطيط للتنقل والعمل والدراسة والخروج.",
+        "body": "قُدم طقس اليوم عبر mk.co.kr في شكل جدول. وتهدف هذه المادة إلى تمكين القراء من مراجعة معلومات الطقس اليومية حسب المناطق، باعتبارها معلومات أساسية يمكن الاستفادة منها عند ترتيب التنقل إلى العمل أو الدراسة أو الخروج اليومي. وقد ورد النص الأصلي بعنوان “[جدول] طقس اليوم”، من دون أرقام محددة أو شروح تفصيلية لكل منطقة في المعلومات المتاحة. لذلك لا يضيف هذا المقال أي تفسير أو توقعات إضافية، بل يكتفي ضمن حدود النص الأصلي بالإشارة إلى أن جدول الطقس يمكن استخدامه كمرجع يومي للحياة العامة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "आज के मौसम की तालिका में क्षेत्रीय जानकारी, दैनिक योजना में सहायक",
+        "excerpt": "mk.co.kr की ‘आज का मौसम’ तालिका क्षेत्रवार दैनिक मौसम जानकारी को संक्षेप में देती है, जिससे आवागमन, स्कूल, काम और बाहर जाने की योजना में मदद मिल सकती है।",
+        "body": "आज का मौसम mk.co.kr ने तालिका के रूप में प्रस्तुत किया। यह सामग्री पाठकों को दिनभर के मौसम को क्षेत्रवार देखने में मदद करने के लिए व्यवस्थित की गई है और काम पर जाने, स्कूल जाने या बाहर निकलने जैसी दैनिक योजनाओं की तैयारी में बुनियादी जानकारी के रूप में उपयोगी हो सकती है। मूल सामग्री ‘[तालिका] आज का मौसम’ शीर्षक से दी गई थी। उपलब्ध पाठ में कोई विशिष्ट आंकड़े या क्षेत्रवार विस्तृत विवरण शामिल नहीं हैं। इसलिए यह लेख मूल जानकारी से आगे कोई अतिरिक्त व्याख्या या पूर्वानुमान नहीं जोड़ता और केवल यह बताता है कि मौसम तालिका दैनिक जीवन की सूचना के रूप में इस्तेमाल की जा सकती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Tabel Cuaca Hari Ini Sajikan Informasi Regional untuk Aktivitas Harian",
+        "excerpt": "Tabel ‘Cuaca Hari Ini’ dari mk.co.kr merangkum informasi cuaca harian menurut wilayah dan dapat menjadi rujukan untuk perjalanan, sekolah, kerja, dan kegiatan luar.",
+        "body": "Cuaca hari ini disampaikan oleh mk.co.kr dalam bentuk tabel. Materi tersebut disusun agar pembaca dapat memeriksa informasi cuaca hari ini menurut wilayah dan menjadi informasi dasar untuk menyiapkan jadwal harian seperti berangkat kerja, sekolah, atau keluar rumah. Naskah asli diberikan dengan judul ‘[Tabel] Cuaca Hari Ini’, tanpa angka khusus atau penjelasan rinci per wilayah dalam informasi yang tersedia. Karena itu, artikel ini tidak menambahkan penafsiran atau prakiraan di luar sumber asli dan hanya menyampaikan bahwa tabel cuaca tersebut dapat digunakan sebagai rujukan informasi harian. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "7f3b17f0aa19",
+    "slug": "국내는-좁다-中-시장-공략-나선-제주삼다수-594508",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T15:12:14.643Z",
+    "updatedAt": "2026-05-10T15:12:14.643Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042721",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042721",
+    "titleFingerprint": "e199835061385017036e62e77abc16d01efd168c",
+    "dedupKeys": [
+      "7f3b17f0aa19540602a791e3dd0fffef6150f016",
+      "e199835061385017036e62e77abc16d01efd168c",
+      "acc281298af989d1d628617d9c3ec5009d54cd3c"
+    ],
+    "imageUrl": "/images/articles/7f3b17f0aa19.jpg",
+    "i18n": {
+      "ko": {
+        "title": "제주삼다수, 중국 생수 시장 본격 공략…아시아 프리미엄 브랜드 도전",
+        "excerpt": "제주삼다수가 국내 시장을 넘어 중국 생수 시장 공략에 본격 나서며 아시아 프리미엄 생수 브랜드로 자리 잡을 수 있을지 주목받고 있다.",
+        "body": "제주삼다수가 국내 시장을 넘어 중국 생수 시장 공략에 본격 나섰다. 제주삼다수를 생산하는 제주특별자치도 관련 주체는 중국 소비 시장에서 브랜드 입지를 넓히는 데 초점을 맞추고 있다. 이번 행보는 ‘국내는 좁다’는 판단 아래 해외 시장, 특히 중국 생수 시장을 겨냥한 전략으로 풀이된다. 관심은 제주삼다수가 중국 소비자에게 ‘아시아 프리미엄 생수 브랜드’로 인식될 수 있는지에 모인다. 중국 시장에서의 성과는 향후 브랜드 확장성과 해외 사업 방향을 가늠하는 기준이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Jeju Samdasoo Targets China Bottled Water Market as Premium Asia Brand",
+        "excerpt": "Jeju Samdasoo is moving beyond South Korea to target China’s bottled water market, drawing attention to whether it can become a premium Asian water brand.",
+        "body": "Jeju Samdasoo has begun a full-scale push into China’s bottled water market, moving beyond its domestic base in South Korea. The Jeju Special Self-Governing Province-related producer of Jeju Samdasoo is focusing on expanding the brand’s position in China’s consumer market. The move reflects a strategy aimed at overseas growth, especially in China, under the view that the domestic market alone is limited. Attention is now on whether Jeju Samdasoo can be recognized by Chinese consumers as a premium Asian bottled water brand. Its performance in China is expected to serve as a gauge for future brand expansion and overseas business direction. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "済州三多水、中国ミネラルウォーター市場を本格攻略へ",
+        "excerpt": "済州三多水が韓国国内市場を越えて中国のミネラルウォーター市場に本格進出し、アジアのプレミアムブランドとなれるか注目されている。",
+        "body": "済州三多水が韓国国内市場を越え、中国のミネラルウォーター市場の攻略に本格的に乗り出した。済州三多水を生産する済州特別自治道関連の主体は、中国消費市場でブランドの存在感を広げることに焦点を当てている。今回の動きは「国内市場だけでは狭い」との判断の下、海外市場、とりわけ中国の飲料水市場を狙う戦略と受け止められる。関心は、済州三多水が中国の消費者に「アジアのプレミアムミネラルウォーターブランド」として認識されるかに集まっている。中国市場での成果は、今後のブランド拡張性と海外事業の方向性を測る基準になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "济州三多水发力中国瓶装水市场，冲刺亚洲高端品牌",
+        "excerpt": "济州三多水正走出韩国本土，正式发力中国瓶装水市场，能否成长为亚洲高端瓶装水品牌受到关注。",
+        "body": "济州三多水已正式开始进军中国瓶装水市场，试图突破韩国国内市场的边界。生产济州三多水的济州特别自治道相关主体，正把重点放在扩大其在中国消费市场的品牌地位上。此次行动被解读为在“国内市场有限”的判断下，面向海外市场，尤其是中国瓶装水市场的战略布局。外界关注的焦点在于，济州三多水能否被中国消费者认知为“亚洲高端瓶装水品牌”。其在中国市场的表现，预计将成为衡量未来品牌扩张能力和海外业务方向的重要依据。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jeju Samdasoo apunta al mercado chino de agua embotellada premium",
+        "excerpt": "Jeju Samdasoo sale del mercado surcoreano y acelera su entrada en el mercado chino de agua embotellada, con la meta de ganar presencia como marca premium asiática.",
+        "body": "Jeju Samdasoo ha iniciado una ofensiva más decidida en el mercado chino de agua embotellada, más allá de su base en Corea del Sur. La entidad vinculada a la Provincia Autónoma Especial de Jeju que produce Jeju Samdasoo está enfocada en ampliar la posición de la marca en el mercado de consumo chino. El movimiento responde a una estrategia de crecimiento exterior, especialmente hacia China, bajo la lectura de que el mercado interno es limitado. La atención se centra ahora en si Jeju Samdasoo podrá ser percibida por los consumidores chinos como una marca asiática premium de agua embotellada. Su desempeño en China servirá como referencia para evaluar la expansión de la marca y la dirección futura del negocio internacional. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jeju Samdasoo mira mercado chinês de água engarrafada premium",
+        "excerpt": "A Jeju Samdasoo avança além da Coreia do Sul e passa a mirar com força o mercado chinês de água engarrafada, buscando espaço como marca premium asiática.",
+        "body": "A Jeju Samdasoo iniciou uma ofensiva mais ampla no mercado chinês de água engarrafada, indo além de sua base doméstica na Coreia do Sul. A entidade ligada à Província Autônoma Especial de Jeju que produz a Jeju Samdasoo está concentrada em ampliar a posição da marca no mercado consumidor chinês. O movimento é visto como uma estratégia voltada ao exterior, especialmente à China, diante da avaliação de que o mercado doméstico é limitado. A atenção agora recai sobre a possibilidade de a Jeju Samdasoo ser reconhecida pelos consumidores chineses como uma marca asiática premium de água engarrafada. O desempenho na China deve servir como referência para a expansão da marca e para os rumos futuros dos negócios internacionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jeju Samdasoo nimmt Chinas Markt für Premium-Wasser ins Visier",
+        "excerpt": "Jeju Samdasoo richtet den Blick über Südkorea hinaus auf Chinas Markt für Flaschenwasser und will dort als asiatische Premiummarke wahrgenommen werden.",
+        "body": "Jeju Samdasoo hat seine Offensive auf dem chinesischen Markt für Flaschenwasser verstärkt und richtet den Blick über den südkoreanischen Heimatmarkt hinaus. Die mit der Sonderautonomen Provinz Jeju verbundene Stelle, die Jeju Samdasoo produziert, konzentriert sich darauf, die Markenposition im chinesischen Konsummarkt auszubauen. Der Schritt gilt als Auslandsstrategie, insbesondere mit Ziel China, nachdem der heimische Markt als begrenzt eingeschätzt wird. Im Mittelpunkt steht die Frage, ob Jeju Samdasoo von chinesischen Verbrauchern als asiatische Premium-Marke für Flaschenwasser wahrgenommen werden kann. Die Ergebnisse in China dürften als Maßstab für die künftige Markenexpansion und die Richtung des Auslandsgeschäfts dienen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Jeju Samdasoo vise le marché chinois de l’eau embouteillée premium",
+        "excerpt": "Jeju Samdasoo dépasse le marché sud-coréen et accélère son offensive en Chine, avec l’ambition d’être reconnue comme marque asiatique premium d’eau embouteillée.",
+        "body": "Jeju Samdasoo a engagé une offensive plus nette sur le marché chinois de l’eau embouteillée, au-delà de sa base sud-coréenne. L’entité liée à la Province autonome spéciale de Jeju, qui produit Jeju Samdasoo, se concentre sur le renforcement de la position de la marque sur le marché de consommation chinois. Cette démarche s’inscrit dans une stratégie tournée vers l’étranger, en particulier vers la Chine, sur fond de constat que le marché intérieur est limité. L’attention porte désormais sur la capacité de Jeju Samdasoo à être perçue par les consommateurs chinois comme une marque asiatique premium d’eau embouteillée. Ses résultats en Chine devraient servir d’indicateur pour l’expansion future de la marque et l’orientation de ses activités à l’international. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جيجو سامداسو تستهدف سوق المياه المعبأة في الصين كعلامة آسيوية فاخرة",
+        "excerpt": "بدأت جيجو سامداسو التحرك خارج السوق الكورية نحو سوق المياه المعبأة في الصين، وسط اهتمام بقدرتها على ترسيخ موقعها كعلامة آسيوية فاخرة.",
+        "body": "بدأت جيجو سامداسو تحركا أوسع لاستهداف سوق المياه المعبأة في الصين، متجاوزة نطاقها المحلي في كوريا الجنوبية. وتركز الجهة المرتبطة بمقاطعة جيجو ذاتية الحكم الخاصة، التي تنتج جيجو سامداسو، على توسيع مكانة العلامة في سوق الاستهلاك الصيني. وتأتي هذه الخطوة ضمن استراتيجية للتوجه إلى الأسواق الخارجية، ولا سيما الصين، بناء على رؤية أن السوق المحلية محدودة. وينصب الاهتمام الآن على ما إذا كانت جيجو سامداسو ستتمكن من أن تُعرف لدى المستهلكين الصينيين كعلامة آسيوية فاخرة للمياه المعبأة. ومن المتوقع أن يشكل أداؤها في الصين معيارا لتقدير فرص توسع العلامة واتجاه أعمالها الخارجية مستقبلا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Jeju Samdasoo की चीन बोतलबंद पानी बाजार में प्रीमियम ब्रांड बनने की कोशिश",
+        "excerpt": "Jeju Samdasoo दक्षिण कोरिया से आगे बढ़कर चीन के बोतलबंद पानी बाजार पर ध्यान दे रही है, जहां उसके एशियाई प्रीमियम ब्रांड बनने पर नजर है।",
+        "body": "Jeju Samdasoo ने दक्षिण कोरिया के घरेलू बाजार से आगे बढ़ते हुए चीन के बोतलबंद पानी बाजार में अपनी पहल तेज कर दी है। Jeju Samdasoo का उत्पादन करने वाली Jeju Special Self-Governing Province से संबंधित इकाई चीन के उपभोक्ता बाजार में ब्रांड की स्थिति मजबूत करने पर ध्यान दे रही है। यह कदम इस आकलन के तहत देखा जा रहा है कि घरेलू बाजार सीमित है और विदेशी बाजार, खासकर चीन, आगे की रणनीति का केंद्र है। अब ध्यान इस बात पर है कि क्या Jeju Samdasoo चीनी उपभोक्ताओं के बीच “एशियाई प्रीमियम बोतलबंद पानी ब्रांड” के रूप में पहचान बना पाएगी। चीन में उसका प्रदर्शन भविष्य के ब्रांड विस्तार और विदेशी कारोबार की दिशा को परखने का आधार बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jeju Samdasoo Bidik Pasar Air Minum Kemasan China sebagai Merek Premium Asia",
+        "excerpt": "Jeju Samdasoo mulai bergerak melampaui pasar Korea Selatan dan membidik pasar air minum kemasan China, dengan perhatian pada peluangnya menjadi merek premium Asia.",
+        "body": "Jeju Samdasoo mulai secara serius membidik pasar air minum kemasan China, melampaui basis domestiknya di Korea Selatan. Pihak terkait Provinsi Otonomi Khusus Jeju yang memproduksi Jeju Samdasoo berfokus memperluas posisi merek di pasar konsumen China. Langkah ini dipandang sebagai strategi menuju pasar luar negeri, terutama China, dengan pertimbangan bahwa pasar domestik saja terbatas. Perhatian kini tertuju pada apakah Jeju Samdasoo dapat dikenal oleh konsumen China sebagai merek air minum kemasan premium Asia. Kinerja di China diperkirakan menjadi tolok ukur bagi perluasan merek dan arah bisnis luar negeri ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0b89b848f0f8",
+    "slug": "싱그러운-5월-경남으로-오세요-802941",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T15:11:13.675Z",
+    "updatedAt": "2026-05-10T15:11:13.675Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042723",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042723",
+    "titleFingerprint": "c8152cd4284104ff3d20884dd29ccea23c0eeac2",
+    "dedupKeys": [
+      "0b89b848f0f8e4c67979a730d9566d733e5b4b35",
+      "c8152cd4284104ff3d20884dd29ccea23c0eeac2",
+      "3e277e651ffc5f7066f7b17c9e19583956ce700c"
+    ],
+    "imageUrl": "/images/articles/0b89b848f0f8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "5월 경남 여행지 추천, 창원 미더덕부터 거제 이수도까지 봄 코스 주목",
+        "excerpt": "5월을 맞아 경남의 바다 먹거리와 지역 특산 콘텐츠, 새 단장 문화공간, 철쭉 명소, ‘1박 3식’ 섬 여행지가 봄 여행지로 소개됐다.",
+        "body": "5월 봄 여행철을 맞아 경남의 주요 먹거리·문화·휴양 명소가 여행지로 소개됐다. 창원에서는 바다향이 가득한 미더덕이, 거제에서는 아열대 농산물로 만든 정글빵이 지역 특색을 보여준다. 하동 박경리기념관은 새롭게 단장한 공간으로 방문객을 맞고, 함양 대봉산휴양밸리는 철쭉 명소로 주목된다. 거제 이수도는 ‘1박 3식’ 힐링 여행지로 언급됐다. 이번 소개는 5월에 경남을 찾는 여행객에게 먹거리, 문학, 꽃길, 섬 휴식을 함께 고려할 수 있는 선택지를 제시한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "May Travel in Gyeongnam: From Changwon Sea Squirt to Geoje Isudo Island",
+        "excerpt": "For May, Gyeongnam’s seafood, local specialty bread, renewed literary museum, royal azalea site and “one night, three meals” island trip were introduced as spring options.",
+        "body": "As the May spring travel season begins, key food, cultural and leisure destinations in Gyeongnam have been introduced for visitors. In Changwon, sea-scented mideodeok, or sea squirt, represents a local seafood draw, while Geoje highlights jungle bread made with subtropical agricultural products. The Park Kyongni Memorial Hall in Hadong welcomes visitors after a renewal, and Daebongsan Recreation Valley in Hamyang is noted as a royal azalea spot. Isudo Island in Geoje was also mentioned as a healing trip destination offering “one night and three meals.” The list gives May travelers to Gyeongnam options spanning food, literature, flowers and island rest. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "5月の慶南旅行、昌原のミドドクから巨済・利水島まで春の注目コース",
+        "excerpt": "5月を迎え、慶南の海の味覚、地域特産パン、新装の文学記念館、ツツジの名所、「1泊3食」の島旅が春の旅行先として紹介された。",
+        "body": "5月の春の旅行シーズンを迎え、慶南の主なグルメ、文化、休養スポットが旅行先として紹介された。昌原では海の香りが豊かなミドドクが、巨済では亜熱帯農産物で作ったジャングルパンが地域色を示している。河東の朴景利記念館は新しく整備された空間で来館者を迎え、咸陽の大鳳山休養バレーはツツジの名所として注目される。巨済の利水島は「1泊3食」の癒やしの旅行先として言及された。今回の紹介は、5月に慶南を訪れる旅行者に、食、文学、花の名所、島での休息を合わせて検討できる選択肢を示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "5月庆南旅行推荐：从昌原海鞘到巨济利水岛的春日路线",
+        "excerpt": "进入5月，庆南的海味美食、地方特色面包、重新整修的文学纪念馆、杜鹃名所和“住一晚吃三餐”海岛游被介绍为春季目的地。",
+        "body": "随着5月春季旅行季到来，庆南主要美食、文化与休养景点被介绍给游客。昌原以充满海味的海鞘展现地方海产特色，巨济则推出用亚热带农产品制作的丛林面包。河东朴景利纪念馆以重新整修后的空间迎接访客，咸阳大凤山休养谷作为杜鹃名所受到关注。巨济利水岛也被提及为提供“住一晚吃三餐”的疗愈旅行地。此次介绍为5月前往庆南的游客提供了可同时考虑美食、文学、花景和海岛休息的选择。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Viajes de mayo en Gyeongnam: de la ascidia de Changwon a la isla Isudo",
+        "excerpt": "Para mayo, Gyeongnam presentó como opciones de primavera su comida marina, pan local, un museo literario renovado, un sitio de azaleas y una isla con “una noche, tres comidas”.",
+        "body": "Con la temporada de viajes de primavera de mayo, se presentaron los principales destinos gastronómicos, culturales y de descanso de Gyeongnam. En Changwon destaca el mideodeok, una ascidia con aroma a mar, mientras que Geoje muestra su identidad local con el pan jungla elaborado con productos agrícolas subtropicales. El Memorial Park Kyongni de Hadong recibe visitantes tras su renovación, y el valle recreativo Daebongsan de Hamyang llama la atención como lugar de azaleas. La isla Isudo de Geoje también fue mencionada como destino de sanación con “una noche y tres comidas”. La selección ofrece a quienes visiten Gyeongnam en mayo opciones de comida, literatura, flores y descanso isleño. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Viagem de maio em Gyeongnam: de Changwon a Geoje Isudo em roteiro de primavera",
+        "excerpt": "Em maio, Gyeongnam destacou frutos do mar, pão regional, museu literário renovado, ponto de azaleias e a ilha com “uma noite, três refeições” como opções de primavera.",
+        "body": "Com a temporada de viagens de primavera em maio, foram apresentados importantes destinos gastronômicos, culturais e de descanso em Gyeongnam. Em Changwon, o mideodeok, uma ascídia com aroma de mar, representa a atração local de frutos do mar; em Geoje, o pão jungla feito com produtos agrícolas subtropicais mostra a identidade regional. O Memorial Park Kyongni, em Hadong, recebe visitantes em espaço renovado, e o Vale Recreativo Daebongsan, em Hamyang, chama atenção como ponto de azaleias. A ilha Isudo, em Geoje, também foi citada como destino de cura com “uma noite e três refeições”. A lista oferece a viajantes de maio opções de comida, literatura, flores e descanso em ilha. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gyeongnam-Reisen im Mai: Von Changwon-Meeresaroma bis Geoje Isudo",
+        "excerpt": "Zum Mai wurden in Gyeongnam Meeresdelikatessen, regionales Brot, ein erneuertes Literaturmuseum, ein Azaleenort und eine Inselreise mit “eine Nacht, drei Mahlzeiten” vorgestellt.",
+        "body": "Zur Frühjahrsreisesaison im Mai wurden wichtige Genuss-, Kultur- und Erholungsziele in Gyeongnam vorgestellt. In Changwon steht die nach Meer duftende Seescheide Mideodeok im Mittelpunkt, während Geoje mit Jungle Bread aus subtropischen Agrarprodukten regionale Eigenart zeigt. Die Park-Kyongni-Gedenkhalle in Hadong empfängt Besucher nach einer Neugestaltung, und das Daebongsan Recreation Valley in Hamyang wird als Azaleenstandort beachtet. Isudo in Geoje wurde zudem als erholsames Reiseziel mit “eine Nacht, drei Mahlzeiten” genannt. Die Auswahl bietet Mai-Reisenden nach Gyeongnam Optionen für Essen, Literatur, Blütenwege und Inselruhe. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Voyage de mai à Gyeongnam : de l’ascidie de Changwon à l’île Isudo",
+        "excerpt": "En mai, Gyeongnam met en avant produits de la mer, pain local, musée littéraire rénové, site d’azalées et île avec “une nuit, trois repas” pour les voyages de printemps.",
+        "body": "Avec la saison des voyages de printemps en mai, plusieurs destinations de gastronomie, de culture et de repos à Gyeongnam ont été présentées. À Changwon, le mideodeok, une ascidie au parfum marin, illustre l’attrait des produits de la mer, tandis que Geoje met en avant un pain jungle préparé avec des produits agricoles subtropicaux. Le mémorial Park Kyongni de Hadong accueille les visiteurs dans un espace rénové, et la vallée de loisirs Daebongsan à Hamyang attire l’attention comme site d’azalées. L’île Isudo de Geoje est aussi citée comme destination de détente avec “une nuit, trois repas”. Cette sélection propose aux voyageurs de mai des choix mêlant cuisine, littérature, fleurs et repos insulaire. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رحلات مايو في غيونغنام: من مأكولات تشانغوون البحرية إلى جزيرة إيسودو",
+        "excerpt": "مع حلول مايو، عُرضت في غيونغنام مأكولات بحرية وخبز محلي ومتحف أدبي مجدد وموقع أزاليا ورحلة جزيرة بنظام “ليلة واحدة وثلاث وجبات” كخيارات ربيعية.",
+        "body": "مع بدء موسم السفر الربيعي في مايو، جرى تقديم أبرز وجهات الطعام والثقافة والاستجمام في غيونغنام للزوار. في تشانغوون يبرز الميدوديوك، وهو كائن بحري تفوح منه رائحة البحر، كوجهة غذائية محلية، بينما تعرض غوجي خبز الغابة المصنوع من منتجات زراعية شبه استوائية. ويستقبل متحف بارك كيونغني التذكاري في هادونغ الزوار بعد تجديده، فيما تلفت وادي دايبونغسان للاستجمام في هاميانغ الانتباه كموقع للأزاليا. كما ذُكرت جزيرة إيسودو في غوجي كوجهة شفاء تقدم “ليلة واحدة وثلاث وجبات”. وتمنح هذه القائمة زوار غيونغنام في مايو خيارات تشمل الطعام والأدب والزهور وراحة الجزر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मई में ग्योंगनाम यात्रा: चांगवोन मिडोडोक से जियोजे इसुदो तक वसंत विकल्प",
+        "excerpt": "मई के लिए ग्योंगनाम में समुद्री स्वाद, स्थानीय जंगल ब्रेड, नया सजा साहित्य स्मारक, अज़ेलिया स्थल और “एक रात, तीन भोजन” वाली द्वीप यात्रा पेश की गई।",
+        "body": "मई के वसंत यात्रा मौसम में ग्योंगनाम के प्रमुख भोजन, संस्कृति और विश्राम स्थलों को यात्रियों के लिए紹介 किया गया। चांगवोन में समुद्री सुगंध से भरा मिडोडोक स्थानीय समुद्री भोजन का आकर्षण है, जबकि जियोजे में उपोष्णकटिबंधीय कृषि उत्पादों से बना जंगल ब्रेड क्षेत्रीय विशेषता दिखाता है। हादोंग का पार्क क्यॉन्गनी मेमोरियल हॉल नए सजे स्थान के रूप में आगंतुकों का स्वागत करता है, और हमयांग का डेबोंगसान रिक्रिएशन वैली अज़ेलिया स्थल के रूप में ध्यान खींचता है। जियोजे का इसुदो “एक रात, तीन भोजन” वाले हीलिंग गंतव्य के रूप में उल्लेखित है। यह सूची मई में ग्योंगनाम आने वालों को भोजन, साहित्य, फूलों और द्वीप विश्राम के विकल्प देती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Wisata Mei di Gyeongnam: dari Mideodeok Changwon hingga Pulau Isudo Geoje",
+        "excerpt": "Memasuki Mei, Gyeongnam memperkenalkan kuliner laut, roti khas lokal, museum sastra yang diperbarui, lokasi azalea, dan wisata pulau “satu malam, tiga kali makan”.",
+        "body": "Menjelang musim wisata musim semi pada Mei, sejumlah destinasi kuliner, budaya, dan rekreasi utama di Gyeongnam diperkenalkan kepada wisatawan. Di Changwon, mideodeok yang sarat aroma laut menjadi daya tarik makanan laut lokal, sementara Geoje menampilkan roti junggle yang dibuat dari hasil pertanian subtropis. Museum Memorial Park Kyongni di Hadong menyambut pengunjung setelah diperbarui, dan Daebongsan Recreation Valley di Hamyang menarik perhatian sebagai lokasi azalea. Pulau Isudo di Geoje juga disebut sebagai destinasi pemulihan dengan konsep “satu malam, tiga kali makan”. Daftar ini memberi pilihan bagi wisatawan Mei ke Gyeongnam untuk menikmati makanan, sastra, bunga, dan istirahat di pulau. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d06050c0bedd",
     "slug": "달라진-韓-에너지-지도-석유lng-중동-의존-줄어-968872",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Tren Lari Panaskan Sponsor Industri Makanan, Hi-Mune Dukung ‘I Am Solo Run’",
         "excerpt": "Saat tren lari terbaru meluas, industri makanan memperbesar kontak dengan pelari; Hi-Mune dari Ildong Foodis ikut lewat sponsor resmi dan booth pada hari lomba.",
         "body": "Seiring meluasnya tren lari terbaru, industri makanan mempercepat persaingan sponsor yang menyasar para pelari. Hi-Mune, merek protein dari Ildong Foodis, berpartisipasi sebagai sponsor resmi ‘I Am Solo Run’ dan mengoperasikan booth Hi-Mune pada hari lomba untuk memperluas kontak dengan peserta. Industri menyesuaikan diri dengan bertambahnya konsumen yang menikmati lari melalui sponsor acara olahraga dan pengoperasian booth di lokasi guna memperkuat pengalaman merek. Langkah ini menunjukkan merek makanan memperluas pemasaran yang bertemu langsung dengan konsumen melalui keterkaitan dengan budaya lari. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "38c7c908035f",
-    "slug": "수사재판받는-중에도-루이비통-짝퉁-계속-팔았다남자의-계산은-873632",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T02:05:39.645Z",
-    "updatedAt": "2026-05-10T02:05:39.645Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042454",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042454",
-    "titleFingerprint": "1b1c5fc1a2348ed74c16a97c90f50161b6c279b8",
-    "dedupKeys": [
-      "38c7c908035f3221a0976ae115ca3e4ae06cc6e3",
-      "1b1c5fc1a2348ed74c16a97c90f50161b6c279b8",
-      "7ba2f436e710793087315796a84997f5f7358253"
-    ],
-    "imageUrl": "/images/articles/38c7c908035f.png",
-    "i18n": {
-      "ko": {
-        "title": "위조 명품 90억원 유통한 남성, 수사·재판 중에도 짝퉁 판매 계속",
-        "excerpt": "위조 명품을 대량 유통한 남성이 수사와 재판을 받는 동안에도 네이버밴드·카카오톡 등 폐쇄형 SNS에서 회원제로 짝퉁 판매를 이어간 것으로 전해졌다.",
-        "body": "시가 90억원 상당의 위조 명품을 유통한 남성이 수사와 재판을 받는 중에도 판매를 계속한 것으로 알려졌다. 그는 네이버밴드와 카카오톡 등 폐쇄형 SNS를 활용해 회원제 방식으로 이른바 ‘짝퉁 제국’을 운영한 것으로 전해졌다. 원문에 따르면 유통된 위조품 규모는 시가 90억원 상당이며, 추징금은 3000만원대에 그쳐 남는 장사를 노린 계산이 깔린 것으로 보인다. 폐쇄형 SNS 기반 판매 방식은 단속을 피하고 구매자를 선별하는 데 활용될 수 있어 위조품 유통 관리의 허점을 드러낸다. 이번 사건은 위조 명품 거래가 온라인 사적 채널을 통해 조직화될 수 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Man Kept Selling Fake Luxury Goods During Probe and Trial, 9 Billion Won Case",
-        "excerpt": "A man accused of distributing large volumes of counterfeit luxury goods reportedly continued selling them through closed SNS channels such as Naver Band and KakaoTalk while under investigation and trial.",
-        "body": "A man who distributed counterfeit luxury goods worth about 9 billion won at market value reportedly continued selling them even while under investigation and trial. He is said to have used closed social platforms such as Naver Band and KakaoTalk to run a membership-based “fake goods empire.” According to the original report, the counterfeit products involved were valued at about 9 billion won, while the surcharge to be collected was in the 30 million won range, suggesting a calculation that the business could still remain profitable. The use of closed SNS channels can help sellers avoid detection and screen buyers, exposing gaps in controlling counterfeit distribution. The case shows how fake luxury trading can become organized through private online channels. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "捜査・裁判中も偽ルイ・ヴィトン販売、90億ウォン相当を流通",
-        "excerpt": "高級ブランドの偽造品を大量流通させた男が、捜査と裁判を受けている間もネイバーバンドやカカオトークなど閉鎖型SNSで会員制販売を続けていたとされる。",
-        "body": "時価90億ウォン相当の偽造高級ブランド品を流通させた男が、捜査と裁判を受けている最中にも販売を続けていたと伝えられた。男はネイバーバンドやカカオトークなどの閉鎖型SNSを使い、会員制方式でいわゆる「偽物帝国」を運営していたという。原文によると、流通した偽造品の規模は時価90億ウォン相当で、追徴金は3000万ウォン台にとどまり、利益が残る商売を狙った計算があったとみられる。閉鎖型SNSでの販売は摘発を避け、購入者を選別する手段になり得るため、偽造品流通管理の隙を示している。今回の事件は、偽ブランド取引がオンラインの私的チャンネルを通じて組織化され得ることを示した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "男子涉90亿韩元假名牌案，调查审判期间仍继续售假",
-        "excerpt": "一名大量流通假冒奢侈品的男子据称在接受调查和审判期间，仍通过Naver Band、KakaoTalk等封闭式社交平台以会员制继续销售假货。",
-        "body": "一名流通市价约90亿韩元假冒奢侈品的男子，据称在接受调查和审判期间仍继续销售。报道称，他利用Naver Band、KakaoTalk等封闭式社交平台，以会员制方式经营所谓“假货帝国”。根据原文，涉案假冒商品规模按市价约为90亿韩元，而追缴金额仅为3000万韩元左右，显示其可能盘算即使被追缴仍有利可图。封闭式社交平台销售方式可用于躲避查处并筛选买家，暴露出假冒商品流通监管的漏洞。此案显示，假名牌交易可能通过线上私人渠道被组织化运作。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Vendía falsos de lujo durante investigación y juicio: caso de 9.000 millones de wones",
-        "excerpt": "Un hombre acusado de distribuir grandes volúmenes de artículos de lujo falsificados habría seguido vendiéndolos por canales cerrados como Naver Band y KakaoTalk durante la investigación y el juicio.",
-        "body": "Un hombre que distribuyó artículos de lujo falsificados por un valor de mercado aproximado de 9.000 millones de wones habría continuado vendiéndolos incluso mientras era investigado y juzgado. Según se informó, usó redes sociales cerradas como Naver Band y KakaoTalk para operar, mediante membresía, un supuesto “imperio de falsificaciones”. De acuerdo con el texto original, los productos falsificados distribuidos alcanzaban unos 9.000 millones de wones, mientras que el recargo a recuperar quedaba en el rango de 30 millones de wones, lo que sugiere que buscaba un negocio aún rentable. La venta por canales cerrados puede servir para evitar controles y seleccionar compradores, dejando ver brechas en la gestión de la distribución de falsificaciones. El caso muestra cómo el comercio de falsos de lujo puede organizarse por canales privados en línea. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Homem manteve venda de luxo falsificado durante investigação e julgamento",
-        "excerpt": "Um homem acusado de distribuir grande volume de produtos de luxo falsificados teria continuado vendendo por redes fechadas como Naver Band e KakaoTalk enquanto era investigado e julgado.",
-        "body": "Um homem que distribuiu produtos de luxo falsificados avaliados em cerca de 9 bilhões de wones a preço de mercado teria continuado vendendo mesmo durante investigação e julgamento. Ele teria usado redes sociais fechadas, como Naver Band e KakaoTalk, para operar um chamado “império das falsificações” em modelo de associação. Segundo o texto original, os falsificados distribuídos somavam cerca de 9 bilhões de wones, enquanto o valor de cobrança adicional ficava na faixa de 30 milhões de wones, indicando um cálculo de que o negócio ainda poderia dar lucro. A venda por canais fechados pode ajudar a evitar fiscalização e selecionar compradores, expondo falhas no controle da circulação de falsificados. O caso mostra que o comércio de luxo falso pode se organizar por canais privados online. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Mann verkaufte trotz Ermittlungen weiter Luxusfälschungen im Wert von 9 Mrd. Won",
-        "excerpt": "Ein Mann, der große Mengen gefälschter Luxuswaren verbreitet haben soll, verkaufte sie offenbar während Ermittlungen und Prozess weiter über geschlossene Kanäle wie Naver Band und KakaoTalk.",
-        "body": "Ein Mann, der gefälschte Luxuswaren mit einem Marktwert von rund 9 Milliarden Won verbreitete, soll den Verkauf selbst während Ermittlungen und Gerichtsverfahren fortgesetzt haben. Berichten zufolge nutzte er geschlossene soziale Plattformen wie Naver Band und KakaoTalk, um nach einem Mitgliedschaftsmodell ein sogenanntes „Fälschungsimperium“ zu betreiben. Laut dem Ausgangstext betrug der Umfang der vertriebenen Fälschungen etwa 9 Milliarden Won, während die einzuziehende Summe im Bereich von 30 Millionen Won lag. Das deutet auf die Kalkulation hin, dass das Geschäft dennoch profitabel bleiben könnte. Geschlossene SNS-Vertriebskanäle können helfen, Kontrollen zu umgehen und Käufer auszuwählen, und zeigen Lücken bei der Kontrolle des Fälschungshandels. Der Fall macht deutlich, wie sich der Handel mit gefälschten Luxuswaren über private Onlinekanäle organisieren kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Il vendait encore de faux produits de luxe pendant l’enquête et le procès",
-        "excerpt": "Un homme accusé d’avoir écoulé de nombreux produits de luxe contrefaits aurait continué ses ventes via des réseaux fermés comme Naver Band et KakaoTalk pendant l’enquête et le procès.",
-        "body": "Un homme ayant distribué des produits de luxe contrefaits d’une valeur de marché d’environ 9 milliards de wons aurait continué à les vendre même pendant l’enquête et le procès. Il aurait utilisé des réseaux sociaux fermés comme Naver Band et KakaoTalk pour exploiter, sur adhésion, un prétendu « empire de la contrefaçon ». Selon le texte original, les contrefaçons écoulées représentaient environ 9 milliards de wons, tandis que le montant du recouvrement se situait dans la tranche des 30 millions de wons, ce qui suggère un calcul visant une activité encore rentable. La vente par canaux fermés peut aider à éviter les contrôles et à sélectionner les acheteurs, révélant des failles dans la gestion de la distribution des contrefaçons. Cette affaire montre que le commerce de faux produits de luxe peut s’organiser via des canaux privés en ligne. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رجل واصل بيع السلع الفاخرة المقلدة أثناء التحقيق والمحاكمة بقيمة 9 مليارات وون",
-        "excerpt": "يُقال إن رجلاً متهمًا بتوزيع كميات كبيرة من السلع الفاخرة المقلدة واصل بيعها عبر قنوات مغلقة مثل Naver Band وKakaoTalk أثناء خضوعه للتحقيق والمحاكمة.",
-        "body": "يُقال إن رجلاً وزع سلعًا فاخرة مقلدة بقيمة سوقية تقارب 9 مليارات وون واصل البيع حتى أثناء التحقيق معه ومحاكمته. وبحسب التقرير، استخدم منصات اجتماعية مغلقة مثل Naver Band وKakaoTalk لتشغيل ما وُصف بأنه «إمبراطورية للسلع المقلدة» بنظام العضوية. ووفق النص الأصلي، بلغت قيمة المنتجات المقلدة المتداولة نحو 9 مليارات وون، بينما كان مبلغ التحصيل الإضافي في حدود 30 مليون وون، ما يشير إلى حسابات قائمة على بقاء النشاط مربحًا. ويمكن أن تساعد قنوات البيع المغلقة على تفادي الرقابة وانتقاء المشترين، ما يكشف ثغرات في ضبط توزيع السلع المقلدة. وتوضح القضية كيف يمكن أن ينتظم تداول السلع الفاخرة المزيفة عبر قنوات خاصة على الإنترنت. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जांच और मुकदमे के दौरान भी नकली लग्जरी सामान बेचता रहा व्यक्ति",
-        "excerpt": "नकली लग्जरी सामान बड़े पैमाने पर बेचने का आरोपी व्यक्ति जांच और मुकदमे के दौरान भी Naver Band और KakaoTalk जैसे बंद SNS चैनलों पर सदस्यता आधारित बिक्री जारी रखे हुए था।",
-        "body": "लगभग 9 अरब वोन के बाजार मूल्य वाले नकली लग्जरी सामान का वितरण करने वाला एक व्यक्ति जांच और मुकदमे के दौरान भी बिक्री जारी रखे हुए था। बताया गया कि उसने Naver Band और KakaoTalk जैसे बंद सोशल प्लेटफॉर्म का उपयोग कर सदस्यता आधारित तरीके से तथाकथित “नकली सामान का साम्राज्य” चलाया। मूल रिपोर्ट के अनुसार, वितरित नकली उत्पादों का मूल्य करीब 9 अरब वोन था, जबकि वसूली योग्य अतिरिक्त राशि 3 करोड़ वोन के स्तर पर थी, जिससे संकेत मिलता है कि उसने लाभ बचे रहने का हिसाब लगाया था। बंद SNS चैनलों के जरिए बिक्री जांच से बचने और खरीदारों को छांटने में मदद कर सकती है, जिससे नकली सामान वितरण नियंत्रण की खामियां सामने आती हैं। यह मामला दिखाता है कि नकली लग्जरी व्यापार निजी ऑनलाइन चैनलों के माध्यम से संगठित हो सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pria Tetap Jual Barang Mewah Palsu Saat Diselidiki dan Diadili",
-        "excerpt": "Seorang pria yang dituduh mengedarkan barang mewah palsu dalam jumlah besar dilaporkan tetap menjualnya lewat SNS tertutup seperti Naver Band dan KakaoTalk selama penyelidikan dan persidangan.",
-        "body": "Seorang pria yang mengedarkan barang mewah palsu senilai sekitar 9 miliar won berdasarkan harga pasar dilaporkan tetap berjualan meski sedang menjalani penyelidikan dan persidangan. Ia disebut menggunakan platform sosial tertutup seperti Naver Band dan KakaoTalk untuk menjalankan apa yang disebut “kerajaan barang palsu” dengan sistem keanggotaan. Menurut teks asli, nilai barang palsu yang diedarkan mencapai sekitar 9 miliar won, sementara uang tambahan yang ditagih kembali berada di kisaran 30 juta won, menunjukkan adanya perhitungan bahwa bisnis itu tetap menguntungkan. Penjualan melalui kanal SNS tertutup dapat membantu menghindari penindakan dan menyaring pembeli, sehingga memperlihatkan celah dalam pengawasan distribusi barang palsu. Kasus ini menunjukkan bahwa perdagangan barang mewah palsu dapat terorganisasi melalui kanal privat daring. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a1b561a87e18",
-    "slug": "이러다-나만-거지-먹은-돈-토해낼라7천피에-더-불안해진-개미들-661264",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T02:04:40.495Z",
-    "updatedAt": "2026-05-10T02:04:40.495Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042456",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042456",
-    "titleFingerprint": "7e203fd072afd1ed56d1f6eebec5761095413894",
-    "dedupKeys": [
-      "a1b561a87e18acba19d8bd24d59217d393d42f37",
-      "7e203fd072afd1ed56d1f6eebec5761095413894",
-      "9efd33da44609a5020bec190f64a4110c408f976"
-    ],
-    "imageUrl": "/images/articles/a1b561a87e18.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 돌파에 개미 불안 확산, 수익에도 커지는 박탈감",
-        "excerpt": "코스피가 사상 처음 7000선을 넘고 연초 대비 70% 이상 급등하자 개인투자자들 사이에서 매수 기회를 놓친 박탈감과 수익 반납 우려가 동시에 커지고 있다.",
-        "body": "코스피가 사상 처음 7000선을 돌파하며 연초 대비 70% 넘게 급등하자 개인투자자들의 불안감이 커지고 있다. 원문에 따르면 일부 투자자는 “80만닉스에 고민하다 못사”라며 고점 우려로 매수하지 못한 데 따른 박탈감을 드러냈다. 이미 수익을 낸 투자자도 “수익 30% 나도 마음 졸여”라고 말하며 상승장에서조차 수익을 토해낼 수 있다는 불안을 보였다. 시장이 빠르게 오르면서 ‘이러다 나만 거지’라는 소외감과 “도박판 따로 없다”는 경계심도 함께 커졌다. 사상 최고 수준의 지수 상승은 투자 심리를 자극하지만, 급등 속도에 대한 부담도 높이고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,000 as Retail Investors Grow Uneasy Despite Gains",
-        "excerpt": "As the KOSPI crossed 7,000 for the first time and rose more than 70% from the start of the year, retail investors are feeling both regret over missed buying chances and fear of giving back profits.",
-        "body": "Retail investors are becoming more anxious after the KOSPI broke above 7,000 for the first time in history, rising more than 70% from the beginning of the year. According to the original report, one investor expressed frustration after hesitating and failing to buy, saying they “couldn’t buy while worrying at 800,000 Nix.” Even investors already in profit remain nervous, with one saying, “Even with a 30% gain, I’m on edge,” reflecting fear that gains could be lost. As the market rises quickly, feelings of being left behind and warnings that it resembles a gambling arena are also growing. The record-level index rally is boosting investor sentiment, but it is also increasing concern about the pace of the surge. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI7000突破で個人投資家に不安拡大、利益でも焦り強まる",
-        "excerpt": "KOSPIが史上初めて7000台を突破し年初比70％超上昇したことで、個人投資家の間では買い逃しの喪失感と利益を失う不安が同時に広がっている。",
-        "body": "KOSPIが史上初めて7000台を突破し、年初比で70％を超えて急騰したことで、個人投資家の不安が高まっている。原文によると、一部の投資家は「80万ニックスで悩んで買えなかった」と述べ、高値への警戒から買えなかったことへの喪失感を示した。すでに利益を得ている投資家も「利益が30％出ても気が休まらない」と話し、上昇相場の中でも利益を吐き出すのではないかという不安を見せた。市場が急速に上がる中、「このまま自分だけ貧しくなる」という疎外感や「まるで賭博場だ」という警戒心も強まっている。史上最高水準の指数上昇は投資心理を刺激する一方、急騰ペースへの負担も高めている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI突破7000点，散户在盈利中也愈发不安",
-        "excerpt": "KOSPI史上首次突破7000点，较年初上涨逾70%，个人投资者中错失买入机会的失落感与担心利润回吐的不安同时升温。",
-        "body": "KOSPI史上首次突破7000点，较年初上涨超过70%，个人投资者的不安情绪正在扩大。原文称，一些投资者表示“在80万Nix时犹豫后没能买入”，流露出因担心高位而错过买入机会的失落感。已经获得收益的投资者也称“即使收益有30%，心里也很紧张”，反映出在上涨行情中仍担心利润被吐回去。随着市场快速上涨，“再这样下去只有我变穷”的被抛下感，以及“简直就是赌场”的警惕心理也同步增强。处于历史高位的指数上涨刺激投资情绪，但急涨速度带来的负担也在加重。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI supera 7.000 y crece la ansiedad de minoristas pese a ganancias",
-        "excerpt": "El KOSPI superó por primera vez los 7.000 puntos y subió más de 70% desde comienzos de año, elevando entre minoristas el pesar por no comprar y el temor a devolver beneficios.",
-        "body": "La ansiedad de los inversores minoristas aumenta después de que el KOSPI superara por primera vez los 7.000 puntos, con un alza de más del 70% desde comienzos de año. Según el texto original, algunos inversores expresaron frustración por no haber comprado tras dudar, diciendo que “no pudieron comprar mientras se preocupaban en 800.000 Nix”. Incluso quienes ya tienen ganancias siguen inquietos: uno afirmó que “aunque llevo un 30% de beneficio, estoy nervioso”, reflejando el temor a devolver lo ganado. A medida que el mercado sube con rapidez, también crecen la sensación de quedarse atrás y la cautela de quienes dicen que “no hay diferencia con una mesa de apuestas”. El avance del índice a niveles récord impulsa el ánimo inversor, pero también eleva la preocupación por la velocidad de la subida. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI passa de 7.000 e pequenos investidores ficam mais ansiosos",
-        "excerpt": "Com o KOSPI acima de 7.000 pela primeira vez e alta superior a 70% no ano, investidores pessoa física sentem frustração por não comprar e medo de devolver ganhos.",
-        "body": "A ansiedade dos investidores pessoa física aumentou depois que o KOSPI rompeu pela primeira vez a marca de 7.000 pontos, acumulando alta de mais de 70% desde o início do ano. Segundo o texto original, alguns investidores demonstraram frustração por não terem comprado após hesitar, dizendo que “não conseguiram comprar enquanto se preocupavam nos 800.000 Nix”. Mesmo quem já lucrou segue apreensivo: um investidor afirmou que “mesmo com ganho de 30%, fico nervoso”, refletindo o medo de devolver os ganhos. Com a rápida alta do mercado, também cresceram a sensação de ficar para trás e o alerta de que “parece um jogo de azar”. A valorização recorde do índice estimula o sentimento dos investidores, mas também aumenta a preocupação com o ritmo da disparada. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI über 7.000: Privatanleger werden trotz Gewinnen nervöser",
-        "excerpt": "Der KOSPI überschritt erstmals 7.000 Punkte und liegt seit Jahresbeginn mehr als 70% im Plus; Privatanleger fürchten verpasste Käufe und mögliche Gewinnrückgaben.",
-        "body": "Die Nervosität unter Privatanlegern nimmt zu, nachdem der KOSPI erstmals in seiner Geschichte die Marke von 7.000 Punkten überschritten hat und seit Jahresbeginn um mehr als 70% gestiegen ist. Dem Originalbericht zufolge äußerten einige Anleger Frust, weil sie nach langem Zögern nicht gekauft hatten; einer sagte, er habe “bei 800.000 Nix gezögert und nicht kaufen können”. Selbst Anleger mit Gewinnen bleiben angespannt: Einer erklärte, “selbst bei 30% Gewinn bin ich nervös”, was die Sorge zeigt, erzielte Gewinne wieder abgeben zu müssen. Mit dem schnellen Marktanstieg wachsen zugleich das Gefühl, abgehängt zu werden, und die Warnung, es sei “kaum anders als ein Glücksspiel”. Der Rekordstand des Index befeuert die Stimmung, erhöht aber auch die Belastung durch das Tempo der Rally. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KOSPI au-dessus de 7 000: les particuliers inquiets malgré les gains",
-        "excerpt": "Le KOSPI a franchi pour la première fois les 7 000 points et gagne plus de 70% depuis le début de l’année, nourrissant regret d’achat manqué et peur de perdre les profits.",
-        "body": "L’inquiétude des investisseurs particuliers grandit après le franchissement historique des 7 000 points par le KOSPI, en hausse de plus de 70% depuis le début de l’année. Selon le texte original, certains investisseurs disent leur frustration de ne pas avoir acheté après avoir hésité, l’un affirmant qu’il “n’a pas pu acheter en s’inquiétant à 800 000 Nix”. Même ceux qui ont déjà gagné restent nerveux: un investisseur dit être “sur les nerfs malgré 30% de gain”, signe de la crainte de rendre les profits réalisés. Avec la montée rapide du marché, le sentiment d’être laissé de côté et la prudence face à un marché décrit comme “pas différent d’un jeu d’argent” se renforcent aussi. La progression record de l’indice stimule le moral des investisseurs, mais accroît également les inquiétudes liées à la vitesse de la hausse. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7000 نقطة وقلق الأفراد يتصاعد رغم الأرباح",
-        "excerpt": "مع تجاوز كوسبي مستوى 7000 نقطة لأول مرة وصعوده بأكثر من 70% منذ بداية العام، يتزايد بين المستثمرين الأفراد شعور فوات الفرصة والخوف من فقدان الأرباح.",
-        "body": "يتزايد قلق المستثمرين الأفراد بعدما تجاوز مؤشر كوسبي مستوى 7000 نقطة للمرة الأولى في تاريخه، مرتفعا بأكثر من 70% منذ بداية العام. ووفق النص الأصلي، عبّر بعض المستثمرين عن شعور بالحرمان لأنهم لم يشتروا بعد التردد، إذ قال أحدهم إنه “لم يستطع الشراء وهو قلق عند 800 ألف نيكس”. وحتى من حققوا أرباحا لا يزالون متوترين؛ فقد قال مستثمر إن “ربحا بنسبة 30% لا يمنعني من القلق”، في إشارة إلى الخوف من إعادة الأرباح إلى السوق. ومع صعود السوق بسرعة، يزداد أيضا الإحساس بالتخلف عن الركب والتحذير من أن الوضع “لا يختلف عن ساحة قمار”. الارتفاع القياسي للمؤشر يحفز معنويات المستثمرين، لكنه يزيد أيضا القلق من سرعة الصعود. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,000 के पार, मुनाफे के बावजूद खुदरा निवेशकों की चिंता बढ़ी",
-        "excerpt": "KOSPI पहली बार 7,000 के स्तर से ऊपर गया और साल की शुरुआत से 70% से अधिक चढ़ा, जिससे खुदरा निवेशकों में खरीद चूकने की हताशा और मुनाफा गंवाने का डर बढ़ा।",
-        "body": "KOSPI के इतिहास में पहली बार 7,000 के स्तर को पार करने और साल की शुरुआत से 70% से अधिक चढ़ने के बाद खुदरा निवेशकों की बेचैनी बढ़ रही है। मूल रिपोर्ट के अनुसार, कुछ निवेशकों ने ऊंचे भाव की चिंता में खरीद न कर पाने की हताशा जताई; एक ने कहा कि वह “800,000 Nix पर सोचते-सोचते खरीद नहीं पाया।” जिन निवेशकों को पहले से लाभ है, वे भी निश्चिंत नहीं हैं। एक निवेशक ने कहा, “30% मुनाफा होने पर भी मन घबराता है,” जिससे तेजी के बाजार में भी लाभ वापस गंवाने का डर दिखता है। बाजार के तेजी से चढ़ने के साथ “कहीं सिर्फ मैं ही गरीब न रह जाऊं” जैसी छूट जाने की भावना और “यह जुए के मैदान से अलग नहीं” जैसी सावधानी भी बढ़ी है। रिकॉर्ड स्तर की तेजी निवेश भावना को बढ़ाती है, लेकिन चढ़ाई की रफ्तार को लेकर दबाव भी बढ़ा रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.000, Investor Ritel Makin Cemas Meski Untung",
-        "excerpt": "KOSPI menembus 7.000 untuk pertama kalinya dan naik lebih dari 70% sejak awal tahun, membuat investor ritel merasa tertinggal sekaligus takut keuntungan mereka berbalik hilang.",
-        "body": "Kecemasan investor ritel meningkat setelah KOSPI untuk pertama kalinya menembus level 7.000, dengan kenaikan lebih dari 70% sejak awal tahun. Menurut teks asli, sebagian investor mengungkapkan rasa tertinggal karena gagal membeli setelah ragu; salah satunya mengatakan “tidak jadi membeli saat khawatir di 800.000 Nix”. Investor yang sudah mencatat untung pun tetap gelisah. Ada yang berkata, “Meski untung 30%, hati tetap berdebar,” mencerminkan kekhawatiran bahwa laba bisa kembali hilang. Seiring pasar naik cepat, muncul pula perasaan “jangan-jangan hanya saya yang jadi miskin” dan kewaspadaan bahwa kondisi ini “tak berbeda dari arena judi”. Kenaikan indeks ke rekor tertinggi mendorong sentimen investasi, tetapi juga menambah beban karena laju kenaikannya yang cepat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d8e6a7aec7b0",
-    "slug": "인천시-지역업체-쓰면-용적률-최대-20-높인다-353978",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T02:03:40.702Z",
-    "updatedAt": "2026-05-10T02:03:40.702Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042459",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042459",
-    "titleFingerprint": "86f069588c97d119ec7949200703e60899e664f2",
-    "dedupKeys": [
-      "d8e6a7aec7b0a68828c0c83c7eec79b0f0110c51",
-      "86f069588c97d119ec7949200703e60899e664f2",
-      "d31046c904c0001c7cd565d5cee488ed8b71b11a"
-    ],
-    "imageUrl": "/images/articles/d8e6a7aec7b0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천시 지역업체 활용 땐 용적률 최대 20% 상향, 건설 수주 경쟁력 높인다",
-        "excerpt": "인천시가 지역건설산업 활성화 계획을 시행해 정비사업 수주 건설사의 지역업체 활용을 유도하고, 하도급 협력 관리와 부적격업체 퇴출을 강화한다.",
-        "body": "인천시는 도시·주거환경정비사업을 수주한 건설사를 대상으로 지역업체 활용을 늘리면 용적률을 최대 20%까지 높이는 내용의 ‘지역건설산업 활성화 계획’을 시행한다. 이번 계획은 지역 건설업체의 참여 기회를 넓히고 수주 경쟁력을 개선하기 위한 조치다. 인천시는 하도급 상생협력 계획에 대한 관리를 강화하고, 부적격업체 퇴출을 통해 건설시장 질서를 확립한다는 방침이다. 지역기업 활용에 따른 인센티브와 관리 강화가 함께 추진되면서 정비사업 현장에서 지역업체 참여가 확대될지 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Incheon Offers Up to 20% FAR Bonus for Using Local Contractors in Projects",
-        "excerpt": "Incheon is implementing a local construction industry plan to encourage builders that win redevelopment projects to use local firms and strengthen subcontracting oversight.",
-        "body": "Incheon City will implement a “local construction industry revitalization plan” that allows builders winning urban and residential environment improvement projects to receive up to a 20% increase in floor area ratio when they expand the use of local companies. The measure is intended to widen participation opportunities for regional construction firms and improve their competitiveness in winning orders. The city also plans to strengthen management of subcontracting win-win cooperation plans and establish market order by removing unqualified companies. The combined incentives and tighter oversight are expected to draw attention to whether local firms gain a larger role at redevelopment sites. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "仁川市、地元企業活用で容積率最大20％上乗せへ 建設受注力を強化",
-        "excerpt": "仁川市は地域建設産業活性化計画を施行し、整備事業を受注した建設会社の地元企業活用を促し、下請け協力管理を強化する。",
-        "body": "仁川市は、都市・住居環境整備事業を受注した建設会社が地元企業の活用を増やした場合、容積率を最大20％引き上げる「地域建設産業活性化計画」を施行する。今回の計画は、地域建設会社の参加機会を広げ、受注競争力を改善するための措置だ。仁川市は下請けの相生協力計画に対する管理を強化し、不適格業者の退出を通じて建設市場の秩序を確立する方針だ。地元企業活用へのインセンティブと管理強化が同時に進むことで、整備事業の現場で地域企業の参加が広がるか注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "仁川市鼓励使用本地企业，容积率最高上调20%以提升中标竞争力",
-        "excerpt": "仁川市实施地方建设产业振兴计划，鼓励承接整治项目的建筑企业使用本地企业，并加强分包合作计划管理。",
-        "body": "仁川市将实施“地方建设产业振兴计划”，对承接城市及居住环境整治项目的建筑企业，如扩大使用本地企业，可将容积率最高提高20%。该措施旨在扩大地方建设企业的参与机会，并改善其承接项目的竞争力。仁川市还将加强对分包共赢合作计划的管理，并通过淘汰不合格企业来确立建设市场秩序。随着本地企业使用激励和管理强化同步推进，整治项目现场中地方企业参与是否扩大受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Incheon subirá hasta 20% la edificabilidad si se usan empresas locales",
-        "excerpt": "Incheon aplicará un plan de impulso a la construcción local para incentivar el uso de firmas regionales en proyectos de renovación y reforzar la gestión de subcontratos.",
-        "body": "La ciudad de Incheon implementará un “plan de revitalización de la industria de la construcción local” que permite elevar hasta un 20% el coeficiente de edificabilidad a las constructoras que ganen proyectos de mejora urbana y residencial y aumenten el uso de empresas locales. La medida busca ampliar las oportunidades de participación de las constructoras regionales y mejorar su competitividad en la adjudicación de contratos. Incheon también reforzará la gestión de los planes de cooperación mutuamente beneficiosa en subcontratación y establecerá orden en el mercado retirando a empresas no calificadas. La combinación de incentivos y mayor supervisión centrará la atención en la participación local. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Incheon elevará FAR em até 20% para obras que usem empresas locais",
-        "excerpt": "Incheon vai aplicar um plano de ativação da construção regional para incentivar construtoras de projetos de requalificação a usar empresas locais e reforçar a gestão de subcontratos.",
-        "body": "A cidade de Incheon implementará um “plano de revitalização da indústria da construção local” que permite aumentar em até 20% o índice de aproveitamento para construtoras que vencerem projetos de melhoria urbana e residencial e ampliarem o uso de empresas locais. A medida busca ampliar as oportunidades de participação das construtoras regionais e melhorar sua competitividade na obtenção de contratos. Incheon também reforçará a gestão dos planos de cooperação ganha-ganha em subcontratação e estabelecerá ordem no mercado ao retirar empresas inadequadas. Incentivos e fiscalização mais forte devem chamar atenção para a participação local nas obras. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Incheon erhöht Bauausnutzung um bis zu 20% bei Einsatz lokaler Firmen",
-        "excerpt": "Incheon setzt einen Plan zur Belebung der regionalen Bauwirtschaft um, um lokale Firmen in Sanierungsprojekten stärker einzubinden und Nachunternehmerpläne strenger zu überwachen.",
-        "body": "Die Stadt Incheon führt einen „Plan zur Belebung der lokalen Bauindustrie“ ein. Bauunternehmen, die Projekte zur Verbesserung städtischer und wohnungsbezogener Umwelt gewinnen und mehr lokale Firmen einsetzen, können demnach eine um bis zu 20% höhere Geschossflächenzahl erhalten. Die Maßnahme soll regionalen Bauunternehmen mehr Beteiligungschancen eröffnen und ihre Wettbewerbsfähigkeit bei Aufträgen verbessern. Incheon will zudem die Verwaltung von Plänen für faire Zusammenarbeit bei Unteraufträgen stärken und durch den Ausschluss ungeeigneter Firmen Ordnung im Baumarkt schaffen. Die Kombination aus Anreizen und Kontrolle rückt die Rolle lokaler Unternehmen in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Incheon relève jusqu’à 20% le COS pour les chantiers avec entreprises locales",
-        "excerpt": "Incheon met en œuvre un plan de relance du BTP local afin d’encourager les constructeurs de projets de rénovation à recourir aux entreprises régionales et de mieux encadrer la sous-traitance.",
-        "body": "La ville d’Incheon appliquera un « plan de revitalisation de l’industrie locale de la construction » permettant aux constructeurs lauréats de projets d’amélioration urbaine et résidentielle d’obtenir une hausse allant jusqu’à 20% du coefficient d’occupation des sols s’ils accroissent le recours aux entreprises locales. Cette mesure vise à élargir les possibilités de participation des sociétés régionales du BTP et à améliorer leur compétitivité dans l’obtention de contrats. Incheon renforcera aussi la gestion des plans de coopération gagnant-gagnant en sous-traitance et rétablira l’ordre du marché en écartant les entreprises non qualifiées. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إنتشون ترفع نسبة البناء حتى 20% عند استخدام شركات محلية في المشاريع",
-        "excerpt": "تطبق إنتشون خطة لتنشيط قطاع البناء المحلي لتشجيع شركات المقاولات الفائزة بمشاريع التطوير على استخدام شركات محلية وتعزيز إدارة التعاون في التعاقدات الفرعية.",
-        "body": "تعتزم مدينة إنتشون تنفيذ «خطة تنشيط صناعة البناء المحلية»، التي تتيح لشركات البناء الفائزة بمشاريع تحسين البيئة الحضرية والسكنية الحصول على زيادة في نسبة المساحة الطابقية تصل إلى 20% إذا وسعت استخدام الشركات المحلية. وتهدف الخطة إلى توسيع فرص مشاركة شركات البناء الإقليمية وتحسين قدرتها التنافسية في الفوز بالعقود. كما ستعزز إنتشون إدارة خطط التعاون المتبادل في التعاقدات الفرعية، وتعمل على ترسيخ نظام السوق عبر إخراج الشركات غير المؤهلة. ومن المتوقع أن يلفت الجمع بين الحوافز والرقابة الانتباه إلى مدى توسع مشاركة الشركات المحلية في مواقع التطوير. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "इंचियोन में स्थानीय कंपनियों के उपयोग पर FAR 20% तक बढ़ेगा",
-        "excerpt": "इंचियोन स्थानीय निर्माण उद्योग सक्रियण योजना लागू कर रहा है, जिससे पुनर्विकास परियोजनाओं में स्थानीय कंपनियों के उपयोग को बढ़ावा और उपठेका सहयोग प्रबंधन को मजबूती मिलेगी।",
-        "body": "इंचियोन शहर “स्थानीय निर्माण उद्योग सक्रियण योजना” लागू करेगा, जिसके तहत शहरी और आवासीय पर्यावरण सुधार परियोजनाएं जीतने वाली निर्माण कंपनियां यदि स्थानीय कंपनियों का उपयोग बढ़ाती हैं, तो उन्हें फ्लोर एरिया रेशियो में अधिकतम 20% तक वृद्धि मिल सकती है। यह कदम क्षेत्रीय निर्माण कंपनियों की भागीदारी के अवसर बढ़ाने और उनकी ऑर्डर हासिल करने की प्रतिस्पर्धी क्षमता सुधारने के लिए है। इंचियोन उपठेका पारस्परिक सहयोग योजनाओं के प्रबंधन को भी मजबूत करेगा और अयोग्य कंपनियों को बाहर कर बाजार व्यवस्था स्थापित करेगा। प्रोत्साहन और कड़ी निगरानी के साथ स्थानीय भागीदारी पर ध्यान रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Incheon Naikkan KDB hingga 20% bila Proyek Pakai Perusahaan Lokal",
-        "excerpt": "Incheon menerapkan rencana aktivasi industri konstruksi lokal untuk mendorong kontraktor proyek penataan memakai perusahaan daerah dan memperkuat pengelolaan kerja sama subkontrak.",
-        "body": "Kota Incheon akan menerapkan “rencana aktivasi industri konstruksi lokal” yang memungkinkan kontraktor pemenang proyek penataan lingkungan perkotaan dan perumahan memperoleh kenaikan koefisien dasar bangunan hingga 20% jika memperluas penggunaan perusahaan lokal. Kebijakan ini bertujuan memperbesar peluang partisipasi perusahaan konstruksi daerah dan meningkatkan daya saing mereka dalam memperoleh proyek. Incheon juga akan memperkuat pengelolaan rencana kerja sama saling menguntungkan dalam subkontrak dan menegakkan ketertiban pasar dengan mengeluarkan perusahaan yang tidak memenuhi syarat. Insentif dan pengawasan ini membuat peran perusahaan lokal dalam proyek penataan menjadi sorotan. Sumber: mk.co.kr"
       }
     }
   }
