@@ -1,5 +1,230 @@
 [
   {
+    "id": "37319faf0b84",
+    "slug": "소니tsmc-이미지센서-합작생산-684082",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T10:47:04.325Z",
+    "updatedAt": "2026-05-10T10:47:04.325Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042763",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042763",
+    "titleFingerprint": "41de45e1a2d480892908fa9ba2f857d1a0e95050",
+    "dedupKeys": [
+      "37319faf0b8414d7514809082ce20299e94b15b1",
+      "41de45e1a2d480892908fa9ba2f857d1a0e95050",
+      "f583117d1d44fd7f324a6524ee98370104f07558"
+    ],
+    "imageUrl": "/images/articles/37319faf0b84.jpg",
+    "i18n": {
+      "ko": {
+        "title": "소니·TSMC 이미지센서 합작생산 첫 추진, 차세대 개발 경쟁 본격화",
+        "excerpt": "이미지 센서 글로벌 1위 소니그룹이 대만 TSMC와 손잡고 차세대 이미지 센서 제품 공동 개발에 나선다. 양사의 이미지 센서 공동 개발은 이번이 처음이다.",
+        "body": "일본 소니그룹이 대만 TSMC와 협력해 차세대 이미지 센서 제품 개발에 나선다. 이미지 센서 분야 글로벌 1위로 알려진 소니가 TSMC와 이미지 센서 제품을 공동 개발하는 것은 이번이 처음이다. 이번 협력은 첨단 반도체 제조 역량을 보유한 TSMC와 이미지 센서 시장에서 강점을 가진 소니가 차세대 제품 경쟁력 확보를 위해 손을 잡았다는 점에서 주목된다. 구체적인 제품 일정이나 생산 규모는 원문에 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Sony and TSMC Move Into First Joint Image Sensor Development Push",
+        "excerpt": "Sony Group, the global leader in image sensors, is joining forces with Taiwan’s TSMC to develop next-generation image sensor products, marking their first such joint effort.",
+        "body": "Japan’s Sony Group is working with Taiwan’s TSMC to develop next-generation image sensor products. According to the original report, this is the first time the two companies have jointly developed image sensor products. The move draws attention because Sony holds a leading position in the global image sensor market, while TSMC is known for advanced semiconductor manufacturing capabilities. The report did not provide a specific product schedule or production scale. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソニーとTSMC、画像センサー初の共同開発へ 次世代製品で連携",
+        "excerpt": "画像センサー分野で世界首位のソニーグループが台湾TSMCと組み、次世代画像センサー製品の共同開発に乗り出す。両社の共同開発は初めてとなる。",
+        "body": "日本のソニーグループが台湾TSMCと協力し、次世代画像センサー製品の開発に乗り出す。原文によると、画像センサー分野で世界首位とされるソニーがTSMCと画像センサー製品を共同開発するのは今回が初めてだ。先端半導体製造の力を持つTSMCと、画像センサー市場で強みを持つソニーが次世代製品の競争力確保に向けて連携する点が注目される。具体的な製品日程や生産規模は示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "索尼与台积电首次联手开发图像传感器，布局下一代产品",
+        "excerpt": "全球图像传感器领域领先的日本索尼集团将与台湾台积电合作，推进下一代图像传感器产品共同开发，这是双方首次在该领域合作。",
+        "body": "日本索尼集团将与台湾台积电合作，开发下一代图像传感器产品。原文称，在图像传感器领域位居全球领先地位的索尼，与台积电共同开发图像传感器产品尚属首次。此次合作受到关注，是因为台积电具备先进半导体制造能力，而索尼在图像传感器市场拥有优势，双方将围绕下一代产品竞争力展开合作。报道未提及具体产品时间表或生产规模。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Sony y TSMC impulsan su primera alianza en sensores de imagen",
+        "excerpt": "Sony Group, líder mundial en sensores de imagen, se une a TSMC de Taiwán para desarrollar productos de próxima generación, en su primera colaboración conjunta en este campo.",
+        "body": "El grupo japonés Sony trabajará con la taiwanesa TSMC en el desarrollo de productos de sensores de imagen de próxima generación. Según el informe original, es la primera vez que ambas compañías desarrollan conjuntamente productos de sensores de imagen. La cooperación llama la atención porque Sony ocupa una posición líder en el mercado global de sensores de imagen, mientras que TSMC cuenta con capacidades avanzadas de fabricación de semiconductores. El texto original no detalla calendario de producto ni escala de producción. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sony e TSMC avançam na primeira parceria em sensores de imagem",
+        "excerpt": "A Sony Group, líder global em sensores de imagem, fará parceria com a taiwanesa TSMC para desenvolver produtos de nova geração, na primeira iniciativa conjunta das duas empresas.",
+        "body": "O grupo japonês Sony vai colaborar com a taiwanesa TSMC no desenvolvimento de produtos de sensores de imagem de próxima geração. Segundo o relatório original, esta é a primeira vez que as duas empresas desenvolvem conjuntamente produtos de sensores de imagem. A parceria chama atenção porque a Sony lidera o mercado global de sensores de imagem, enquanto a TSMC possui capacidades avançadas de fabricação de semicondutores. O texto não informa cronograma específico de produtos nem escala de produção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Sony und TSMC starten erste gemeinsame Entwicklung von Bildsensoren",
+        "excerpt": "Sony Group, weltweit führend bei Bildsensoren, arbeitet mit Taiwans TSMC an Bildsensorprodukten der nächsten Generation. Es ist die erste gemeinsame Entwicklung beider Unternehmen.",
+        "body": "Die japanische Sony Group arbeitet mit Taiwans TSMC an der Entwicklung von Bildsensorprodukten der nächsten Generation. Dem ursprünglichen Bericht zufolge ist es das erste Mal, dass die beiden Unternehmen Bildsensorprodukte gemeinsam entwickeln. Die Zusammenarbeit ist bemerkenswert, weil Sony im globalen Bildsensormarkt eine führende Position innehat, während TSMC über fortschrittliche Halbleiterfertigung verfügt. Konkrete Produkttermine oder Produktionsmengen wurden im Original nicht genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Sony et TSMC lancent leur première coopération sur les capteurs d’image",
+        "excerpt": "Sony Group, numéro un mondial des capteurs d’image, s’associe au taïwanais TSMC pour développer des produits de nouvelle génération, une première entre les deux entreprises.",
+        "body": "Le groupe japonais Sony va collaborer avec le taïwanais TSMC au développement de capteurs d’image de nouvelle génération. Selon le texte original, c’est la première fois que les deux entreprises développent conjointement des produits de capteurs d’image. Cette coopération retient l’attention car Sony occupe une position de leader sur le marché mondial des capteurs d’image, tandis que TSMC dispose de capacités avancées de fabrication de semi-conducteurs. Aucun calendrier produit ni volume de production précis n’a été indiqué. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سوني وTSMC تبدآن أول تعاون لتطوير مستشعرات صور من الجيل التالي",
+        "excerpt": "تتعاون مجموعة سوني اليابانية، الرائدة عالميا في مستشعرات الصور، مع شركة TSMC التايوانية لتطوير منتجات من الجيل التالي، في أول تعاون مشترك بينهما بهذا المجال.",
+        "body": "تتجه مجموعة سوني اليابانية إلى التعاون مع شركة TSMC التايوانية لتطوير منتجات مستشعرات صور من الجيل التالي. ووفق النص الأصلي، تعد هذه المرة الأولى التي تعمل فيها الشركتان معا على تطوير منتجات مستشعرات الصور. يلفت التعاون الانتباه لأن سوني تتمتع بموقع متقدم في سوق مستشعرات الصور عالميا، بينما تمتلك TSMC قدرات متقدمة في تصنيع أشباه الموصلات. ولم يذكر التقرير جدولا زمنيا محددا للمنتجات أو حجم الإنتاج. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सोनी और TSMC पहली बार इमेज सेंसर के संयुक्त विकास में उतरेंगे",
+        "excerpt": "वैश्विक इमेज सेंसर बाजार में अग्रणी जापान का सोनी ग्रुप ताइवान की TSMC के साथ अगली पीढ़ी के इमेज सेंसर उत्पाद विकसित करेगा। यह दोनों की पहली संयुक्त पहल है।",
+        "body": "जापान का सोनी ग्रुप ताइवान की TSMC के साथ मिलकर अगली पीढ़ी के इमेज सेंसर उत्पादों के विकास पर काम करेगा। मूल रिपोर्ट के अनुसार, इमेज सेंसर उत्पादों के संयुक्त विकास में दोनों कंपनियों की यह पहली पहल है। यह सहयोग इसलिए ध्यान खींचता है क्योंकि सोनी वैश्विक इमेज सेंसर बाजार में अग्रणी मानी जाती है, जबकि TSMC उन्नत सेमीकंडक्टर निर्माण क्षमता रखती है। रिपोर्ट में किसी विशिष्ट उत्पाद समयसीमा या उत्पादन पैमाने का उल्लेख नहीं है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Sony dan TSMC Garap Pengembangan Sensor Gambar Bersama untuk Pertama Kali",
+        "excerpt": "Sony Group Jepang, pemimpin global di bidang sensor gambar, menggandeng TSMC Taiwan untuk mengembangkan produk generasi berikutnya. Ini menjadi kolaborasi pertama keduanya di bidang tersebut.",
+        "body": "Sony Group dari Jepang akan bekerja sama dengan TSMC Taiwan untuk mengembangkan produk sensor gambar generasi berikutnya. Menurut laporan asli, ini adalah pertama kalinya kedua perusahaan mengembangkan produk sensor gambar secara bersama. Kerja sama ini menarik perhatian karena Sony memiliki posisi kuat di pasar sensor gambar global, sementara TSMC dikenal memiliki kemampuan manufaktur semikonduktor canggih. Laporan tersebut tidak menyebut jadwal produk tertentu atau skala produksi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5892ac21b1dc",
+    "slug": "부산-사하구-lng-화력발전소서-불대응-1단계-발령-103108",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T10:46:15.904Z",
+    "updatedAt": "2026-05-10T10:46:15.904Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12042769",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12042769",
+    "titleFingerprint": "d3c44903cd6b7d59150aed9930160ea06e649986",
+    "dedupKeys": [
+      "5892ac21b1dcdd0dc17c169ee8563958b59acf5f",
+      "d3c44903cd6b7d59150aed9930160ea06e649986",
+      "0650ef02888ef4ecd5723a0f44c8e6cb49001edc"
+    ],
+    "imageUrl": "/images/articles/5892ac21b1dc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부산 사하구 LNG 화력발전소 화재, 빛드림본부 ‘대응 1단계’ 발령",
+        "excerpt": "10일 오후 3시53분께 부산 사하구 LNG 화력발전소가 있는 한국남부발전 빛드림본부에서 화재가 발생해 소방당국이 대응 1단계를 발령했다.",
+        "body": "10일 오후 3시53분께 부산 사하구에 있는 LNG 화력발전소, 한국남부발전 빛드림본부에서 화재가 발생했다. 부산소방재난본부 등에 따르면 이날 현장에서 연기가 많이 보인다는 신고가 접수됐고, 소방당국은 화재 대응을 위해 ‘대응 1단계’를 발령했다. 이번 화재는 LNG 화력발전소가 있는 시설에서 발생했다는 점에서 지역 안전과 설비 운영 상황에 관심이 모인다. 현재 원문에서 확인된 내용은 화재 발생 시각, 신고 내용, 대응 단계 발령까지다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Fire at LNG Thermal Power Plant in Busan’s Saha District Triggers Level 1 Response",
+        "excerpt": "A fire broke out at Korea Southern Power’s Bitdream headquarters, home to an LNG thermal power plant in Busan’s Saha District, at around 3:53 p.m. on May 10.",
+        "body": "At around 3:53 p.m. on May 10, a fire broke out at Korea Southern Power’s Bitdream headquarters, where an LNG thermal power plant is located in Busan’s Saha District. According to the Busan Fire and Disaster Headquarters and related authorities, a report was received that heavy smoke was visible at the site. Fire authorities issued a Level 1 response to address the blaze. Because the fire occurred at a facility housing an LNG thermal power plant, attention is focused on local safety and plant operation conditions. The original report confirms the time of the fire, the smoke report, and the response level issued. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "釜山沙下区のLNG火力発電所で火災、ビットドリーム本部に対応1段階",
+        "excerpt": "10日午後3時53分ごろ、釜山沙下区のLNG火力発電所がある韓国南部発電ビットドリーム本部で火災が発生し、消防が対応1段階を発令した。",
+        "body": "10日午後3時53分ごろ、釜山沙下区にあるLNG火力発電所、韓国南部発電ビットドリーム本部で火災が発生した。釜山消防災難本部などによると、同日、現場で煙が多く見えるとの通報が寄せられ、消防当局は火災対応のため「対応1段階」を発令した。今回の火災はLNG火力発電所がある施設で発生したため、地域の安全や設備運営状況に関心が集まっている。原文で確認された内容は、火災発生時刻、通報内容、対応段階の発令までである。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "釜山沙下区LNG火力发电厂起火，光梦想本部启动一级响应",
+        "excerpt": "5月10日下午3时53分许，位于釜山沙下区LNG火力发电厂的韩国南部发电光梦想本部发生火灾，消防部门发布一级响应。",
+        "body": "5月10日下午3时53分许，釜山沙下区一处LNG火力发电厂所在的韩国南部发电光梦想本部发生火灾。据釜山消防灾难本部等方面消息，当天接到报警称现场可见大量烟雾，消防部门随后为应对火情发布了“一级响应”。此次火灾发生在设有LNG火力发电厂的设施内，因此当地安全和设备运行情况受到关注。原文已确认的信息包括火灾发生时间、报警内容以及响应级别的发布。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Incendio en planta térmica de GNL en Saha, Busan, activa respuesta de nivel 1",
+        "excerpt": "El 10 de mayo, hacia las 15:53, se declaró un incendio en la sede Bitdream de Korea Southern Power, donde hay una planta térmica de GNL en Saha, Busan.",
+        "body": "El 10 de mayo, alrededor de las 15:53, se produjo un incendio en la sede Bitdream de Korea Southern Power, donde se encuentra una planta térmica de GNL en el distrito de Saha, Busan. Según la Jefatura de Bomberos y Desastres de Busan y otras autoridades, se recibió un aviso de que se veía mucho humo en el lugar. Los bomberos emitieron una respuesta de nivel 1 para atender el incendio. Al tratarse de una instalación con una planta térmica de GNL, la atención se centra en la seguridad local y en el estado operativo del complejo. La información original confirma la hora, el aviso por humo y el nivel de respuesta. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Incêndio em usina térmica de GNL em Saha, Busan, aciona resposta nível 1",
+        "excerpt": "Em 10 de maio, por volta das 15h53, houve um incêndio na sede Bitdream da Korea Southern Power, onde fica uma usina térmica de GNL em Saha, Busan.",
+        "body": "Em 10 de maio, por volta das 15h53, ocorreu um incêndio na sede Bitdream da Korea Southern Power, onde está localizada uma usina térmica de GNL no distrito de Saha, em Busan. Segundo o Corpo de Bombeiros e Desastres de Busan e outras autoridades, foi recebido um chamado informando que havia muita fumaça visível no local. As autoridades de combate a incêndio emitiram uma resposta de nível 1 para lidar com a ocorrência. Como o fogo atingiu uma instalação com usina térmica de GNL, há atenção sobre a segurança local e as condições de operação. O relato original confirma o horário, o chamado por fumaça e o nível de resposta. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Brand in LNG-Wärmekraftwerk in Busan-Saha löst Einsatzstufe 1 aus",
+        "excerpt": "Am 10. Mai gegen 15:53 Uhr brach in der Bitdream-Zentrale von Korea Southern Power, wo sich ein LNG-Wärmekraftwerk im Bezirk Saha in Busan befindet, ein Feuer aus.",
+        "body": "Am 10. Mai gegen 15:53 Uhr brach in der Bitdream-Zentrale von Korea Southern Power ein Feuer aus, wo sich im Bezirk Saha in Busan ein LNG-Wärmekraftwerk befindet. Nach Angaben der Feuerwehr- und Katastrophenzentrale Busan und weiterer Stellen ging eine Meldung ein, wonach vor Ort starker Rauch zu sehen sei. Die Feuerwehr rief zur Brandbekämpfung die Einsatzstufe 1 aus. Da der Brand in einer Anlage mit LNG-Wärmekraftwerk ausbrach, richtet sich die Aufmerksamkeit auf die lokale Sicherheit und den Betriebszustand der Einrichtung. Der Originalbericht bestätigt Zeitpunkt, Rauchmeldung und ausgerufene Einsatzstufe. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Incendie dans une centrale GNL à Saha, Busan, réponse de niveau 1 déclenchée",
+        "excerpt": "Le 10 mai vers 15 h 53, un incendie s’est déclaré au siège Bitdream de Korea Southern Power, qui abrite une centrale thermique au GNL dans le district de Saha à Busan.",
+        "body": "Le 10 mai vers 15 h 53, un incendie s’est déclaré au siège Bitdream de Korea Southern Power, où se trouve une centrale thermique au GNL dans le district de Saha, à Busan. Selon le quartier général des pompiers et des secours de Busan et d’autres autorités, un signalement a été reçu indiquant qu’une importante fumée était visible sur place. Les pompiers ont déclenché une réponse de niveau 1 pour faire face à l’incendie. Comme le feu s’est produit dans une installation abritant une centrale au GNL, l’attention se porte sur la sécurité locale et l’état d’exploitation du site. Le rapport original confirme l’heure, le signalement de fumée et le niveau de réponse. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "حريق في محطة طاقة تعمل بالغاز المسال في ساها ببوسان وإعلان استجابة من المستوى الأول",
+        "excerpt": "اندلع حريق في 10 مايو نحو الساعة 3:53 مساء في مقر بيت دريم التابع لشركة كوريا ساوثرن باور، حيث توجد محطة طاقة حرارية بالغاز المسال في ساها ببوسان.",
+        "body": "في 10 مايو نحو الساعة 3:53 مساء، اندلع حريق في مقر بيت دريم التابع لشركة كوريا ساوثرن باور، حيث تقع محطة طاقة حرارية تعمل بالغاز الطبيعي المسال في منطقة ساها بمدينة بوسان. ووفقا لمقر الإطفاء والكوارث في بوسان وجهات أخرى، ورد بلاغ يفيد بظهور كمية كبيرة من الدخان في الموقع. وأعلنت سلطات الإطفاء استجابة من المستوى الأول للتعامل مع الحريق. ونظرا إلى أن الحريق وقع في منشأة تضم محطة طاقة تعمل بالغاز المسال، تتركز المتابعة على السلامة المحلية وحالة تشغيل المنشأة. يؤكد التقرير الأصلي وقت الحريق ومضمون البلاغ ومستوى الاستجابة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "बुसान के साहा में LNG ताप बिजली संयंत्र में आग, स्तर 1 प्रतिक्रिया जारी",
+        "excerpt": "10 मई को दोपहर करीब 3:53 बजे बुसान के साहा जिले में LNG ताप बिजली संयंत्र वाले Korea Southern Power के Bitdream मुख्यालय में आग लगी और स्तर 1 प्रतिक्रिया जारी की गई।",
+        "body": "10 मई को दोपहर करीब 3:53 बजे बुसान के साहा जिले में स्थित LNG ताप बिजली संयंत्र वाले Korea Southern Power के Bitdream मुख्यालय में आग लग गई। बुसान फायर एंड डिजास्टर हेडक्वार्टर और अन्य संबंधित पक्षों के अनुसार, उसी दिन मौके पर बहुत अधिक धुआं दिखाई देने की सूचना मिली थी। अग्निशमन अधिकारियों ने आग से निपटने के लिए स्तर 1 प्रतिक्रिया जारी की। चूंकि आग उस सुविधा में लगी जहां LNG ताप बिजली संयंत्र है, इसलिए स्थानीय सुरक्षा और संयंत्र संचालन की स्थिति पर ध्यान गया है। मूल रिपोर्ट में आग लगने का समय, धुएं की सूचना और जारी प्रतिक्रिया स्तर की पुष्टि की गई है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Kebakaran di PLT GNL Saha, Busan, Picu Respons Tingkat 1 Pemadam",
+        "excerpt": "Pada 10 Mei sekitar pukul 15.53, kebakaran terjadi di kantor pusat Bitdream Korea Southern Power, lokasi PLT GNL di Distrik Saha, Busan, dan pemadam menerbitkan respons tingkat 1.",
+        "body": "Pada 10 Mei sekitar pukul 15.53, kebakaran terjadi di kantor pusat Bitdream milik Korea Southern Power, tempat sebuah pembangkit listrik termal berbahan bakar GNL berada di Distrik Saha, Busan. Menurut Markas Pemadam Kebakaran dan Bencana Busan serta pihak terkait, laporan masuk bahwa asap tebal terlihat di lokasi. Otoritas pemadam kebakaran menerbitkan respons tingkat 1 untuk menangani api. Karena kebakaran terjadi di fasilitas yang memiliki PLT GNL, perhatian tertuju pada keselamatan setempat dan kondisi operasi fasilitas. Informasi asli mengonfirmasi waktu kejadian, laporan asap, dan tingkat respons yang diterbitkan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "d7a770d27010",
+    "slug": "속보-외교부-이란-등-관련국과-소통-중필요한-조치할-것-543016",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T10:45:17.465Z",
+    "updatedAt": "2026-05-10T10:45:17.465Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12042800",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042800",
+    "titleFingerprint": "24cf6cb86237e8fbb0525c2088fc17d28806b013",
+    "dedupKeys": [
+      "d7a770d27010947859af0fae108c3021ff4b2666",
+      "24cf6cb86237e8fbb0525c2088fc17d28806b013",
+      "20f2a51018a36fe284175385fdfa5638e3b0a350"
+    ],
+    "imageUrl": "/images/articles/d7a770d27010.jpg",
+    "i18n": {
+      "ko": {
+        "title": "외교부, 이란 등 관련국과 소통 중…“필요한 조치할 것”",
+        "excerpt": "외교부는 이란 등 관련국과 소통하고 있으며 상황에 따라 필요한 조치를 하겠다고 밝혔다. 구체적 배경과 후속 조치 내용은 원문에 제시되지 않았다.",
+        "body": "외교부는 이란 등 관련국과 소통 중이며 필요한 조치를 하겠다고 밝혔다. 이번 발언은 매일경제(mk.co.kr)가 전한 속보를 통해 알려졌다. 원문에는 구체적인 사안의 배경, 협의 대상의 범위, 조치의 내용이나 시행 시점은 제시되지 않았다. 현재 확인된 핵심 내용은 외교부가 관련국과 연락을 이어가고 있으며, 상황에 따라 필요한 대응을 하겠다는 입장을 냈다는 점이다. 향후 추가 발표가 나오면 세부 조치와 영향이 확인될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "South Korea Foreign Ministry Says It Is in Contact With Iran and Others",
+        "excerpt": "South Korea’s Foreign Ministry said it is communicating with Iran and other related countries and will take necessary measures, according to a breaking report from mk.co.kr.",
+        "body": "South Korea’s Foreign Ministry said it is in communication with Iran and other related countries and will take necessary measures. The statement was reported as breaking news by Maeil Business Newspaper, mk.co.kr. The original report did not provide specific details on the background of the matter, the full scope of countries involved, the nature of the measures, or when they may be taken. The confirmed point is that the ministry is maintaining contact with relevant countries and has stated it will respond as needed. Further details are expected only if additional announcements are made. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国外務省、イランなど関係国と意思疎通中「必要な措置を取る」",
+        "excerpt": "韓国外務省は、イランなど関係国と意思疎通しており、必要な措置を取ると明らかにした。具体的な背景や措置内容は原文で示されていない。",
+        "body": "韓国外務省は、イランなど関係国と意思疎通を続けており、必要な措置を取ると明らかにした。この発言は、毎日経済新聞のmk.co.krが速報として伝えたものだ。原文では、具体的な事案の背景、協議対象となる国の範囲、措置の内容や実施時期は示されていない。現時点で確認できる核心は、外務省が関係国との連絡を続け、状況に応じて必要な対応を行う立場を示したという点だ。今後、追加発表があれば詳細な措置や影響が確認される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国外交部称正与伊朗等相关国家沟通，将采取必要措施",
+        "excerpt": "韩国外交部表示，正与伊朗等相关国家保持沟通，并将采取必要措施。原文未说明具体背景、相关范围及后续措施内容。",
+        "body": "韩国外交部表示，正与伊朗等相关国家保持沟通，并将采取必要措施。该消息由《每日经济》网站mk.co.kr以快讯形式报道。原文没有提供具体事件背景、协商对象范围、措施内容或实施时间等细节。目前可以确认的核心信息是，外交部正在与相关国家继续联系，并表明将根据情况采取必要应对。若后续发布更多说明，相关措施及其影响才有望进一步确认。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Cancillería surcoreana dice que dialoga con Irán y países relacionados",
+        "excerpt": "La Cancillería de Corea del Sur dijo que se comunica con Irán y otros países relacionados y que tomará las medidas necesarias, según una alerta de mk.co.kr.",
+        "body": "La Cancillería de Corea del Sur dijo que mantiene comunicación con Irán y otros países relacionados y que tomará las medidas necesarias. La declaración fue difundida como noticia de última hora por Maeil Business Newspaper, mk.co.kr. El texto original no entregó detalles concretos sobre el trasfondo del asunto, el alcance de los países involucrados, el contenido de las medidas ni el momento de su aplicación. Lo confirmado es que el ministerio sigue en contacto con los países pertinentes y expresó que responderá según sea necesario. Más detalles dependerán de nuevos anuncios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Chancelaria sul-coreana diz manter contato com Irã e países relacionados",
+        "excerpt": "A Chancelaria da Coreia do Sul afirmou que está em contato com o Irã e outros países relacionados e que tomará as medidas necessárias, segundo o mk.co.kr.",
+        "body": "A Chancelaria da Coreia do Sul afirmou que mantém comunicação com o Irã e outros países relacionados e que tomará as medidas necessárias. A declaração foi divulgada como notícia urgente pelo Maeil Business Newspaper, mk.co.kr. O texto original não apresentou detalhes específicos sobre o contexto do caso, o alcance dos países envolvidos, o conteúdo das medidas ou o momento de sua implementação. O ponto confirmado é que o ministério continua em contato com os países pertinentes e declarou que responderá conforme necessário. Novas informações dependerão de anúncios adicionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Außenministerium: Kontakt mit Iran und weiteren Staaten läuft",
+        "excerpt": "Südkoreas Außenministerium erklärte, es stehe mit Iran und weiteren betroffenen Staaten in Kontakt und werde notwendige Maßnahmen ergreifen, meldet mk.co.kr.",
+        "body": "Südkoreas Außenministerium erklärte, es stehe mit Iran und weiteren betroffenen Staaten in Kontakt und werde notwendige Maßnahmen ergreifen. Die Aussage wurde von Maeil Business Newspaper, mk.co.kr, als Eilmeldung veröffentlicht. Der ursprüngliche Bericht nannte keine konkreten Details zum Hintergrund des Falls, zum Umfang der beteiligten Staaten, zum Inhalt der Maßnahmen oder zu ihrem möglichen Zeitpunkt. Bestätigt ist damit nur, dass das Ministerium den Austausch mit relevanten Ländern fortsetzt und bei Bedarf reagieren will. Weitere Einzelheiten dürften erst durch zusätzliche Mitteilungen klar werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Séoul dit communiquer avec l’Iran et d’autres pays concernés",
+        "excerpt": "Le ministère sud-coréen des Affaires étrangères a déclaré communiquer avec l’Iran et d’autres pays concernés et prendre les mesures nécessaires, selon mk.co.kr.",
+        "body": "Le ministère sud-coréen des Affaires étrangères a déclaré être en communication avec l’Iran et d’autres pays concernés et qu’il prendrait les mesures nécessaires. Cette déclaration a été rapportée en urgence par Maeil Business Newspaper, mk.co.kr. Le texte original ne donne pas de détails précis sur le contexte de l’affaire, l’étendue des pays concernés, la nature des mesures ni leur calendrier. Le point confirmé est que le ministère maintient le contact avec les pays pertinents et indique qu’il répondra si nécessaire. De nouveaux éléments dépendront d’éventuelles annonces supplémentaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "خارجية كوريا الجنوبية: نتواصل مع إيران ودول معنية وسنتخذ اللازم",
+        "excerpt": "قالت وزارة الخارجية الكورية الجنوبية إنها تتواصل مع إيران ودول معنية أخرى وستتخذ الإجراءات اللازمة، وفق خبر عاجل نشره موقع mk.co.kr.",
+        "body": "قالت وزارة الخارجية الكورية الجنوبية إنها تتواصل مع إيران ودول معنية أخرى وستتخذ الإجراءات اللازمة. ونقل موقع صحيفة ماييل الاقتصادية mk.co.kr التصريح في خبر عاجل. ولم يورد النص الأصلي تفاصيل محددة عن خلفية المسألة، أو نطاق الدول التي يجري التواصل معها، أو طبيعة الإجراءات، أو توقيت تنفيذها. والمعلومة المؤكدة حتى الآن هي أن الوزارة تواصل الاتصال بالدول ذات الصلة، وأعلنت أنها سترد بما يلزم وفق تطورات الوضع. ومن المتوقع أن تتضح التفاصيل فقط إذا صدرت بيانات إضافية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरियाई विदेश मंत्रालय: ईरान समेत संबंधित देशों से संपर्क जारी",
+        "excerpt": "दक्षिण कोरिया के विदेश मंत्रालय ने कहा कि वह ईरान और अन्य संबंधित देशों से संपर्क में है तथा आवश्यक कदम उठाएगा, यह जानकारी mk.co.kr की त्वरित खबर में दी गई।",
+        "body": "दक्षिण कोरिया के विदेश मंत्रालय ने कहा कि वह ईरान और अन्य संबंधित देशों से संपर्क में है और आवश्यक कदम उठाएगा। यह बयान Maeil Business Newspaper की वेबसाइट mk.co.kr ने त्वरित खबर के रूप में प्रकाशित किया। मूल रिपोर्ट में मामले की ठोस पृष्ठभूमि, संबंधित देशों की पूरी सीमा, उठाए जाने वाले कदमों की प्रकृति या उनके समय के बारे में विवरण नहीं दिया गया। अभी पुष्टि योग्य मुख्य बात यह है कि मंत्रालय संबंधित देशों से संपर्क बनाए हुए है और स्थिति के अनुसार आवश्यक प्रतिक्रिया देने की बात कह रहा है। आगे की जानकारी अतिरिक्त घोषणा पर निर्भर करेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kemenlu Korea Selatan Berkomunikasi dengan Iran dan Negara Terkait",
+        "excerpt": "Kementerian Luar Negeri Korea Selatan menyatakan sedang berkomunikasi dengan Iran dan negara terkait lain serta akan mengambil langkah yang diperlukan, menurut mk.co.kr.",
+        "body": "Kementerian Luar Negeri Korea Selatan menyatakan sedang berkomunikasi dengan Iran dan negara-negara terkait lainnya serta akan mengambil langkah yang diperlukan. Pernyataan ini dilaporkan sebagai berita kilat oleh Maeil Business Newspaper, mk.co.kr. Naskah asli tidak memuat rincian khusus mengenai latar belakang masalah, cakupan negara yang diajak berkomunikasi, bentuk langkah yang akan diambil, atau waktu pelaksanaannya. Informasi yang terkonfirmasi adalah kementerian terus menjalin kontak dengan negara terkait dan menyatakan akan merespons sesuai kebutuhan. Detail lanjutan bergantung pada pengumuman tambahan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "c97997fa4968",
     "slug": "호르무즈에-페르시아-만의-돌고래-푼다이란-잠수함-증강-배치-공개-778074",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "K-beauty dan Pangan Mengubah Peta Ekspor Korea",
         "excerpt": "Komposisi ekspor utama Korea berubah. Mobil dan peralatan rumah tangga turun karena produksi lokal di luar negeri meningkat, sementara kosmetik serta pangan pertanian dan perikanan melonjak.",
         "body": "Peta ekspor Korea berubah seiring pergeseran produk utamanya. Tren nilai ekspor 20 komoditas utama menunjukkan mobil dan peralatan rumah tangga, yang produksinya semakin banyak dilakukan secara lokal di luar negeri, mengalami penurunan, sedangkan kosmetik serta produk pangan pertanian dan perikanan meningkat tajam. Jika dahulu kulkas dan peralatan rumah tangga menjadi simbol ekspor Korea, kini K-beauty dan pangan muncul sebagai poros pertumbuhan baru. Pemerintah dan industri memperluas daftar produk ekspor utama yang dikelola dari 15 menjadi 20, mencakup semikonduktor, kosmetik, dan elektronik. Diversifikasi produk menjadi tugas baru bagi daya saing ekspor Korea. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "74c5b723bdfb",
-    "slug": "도급대금-안줘-임금체불고공농성노동부-부영주택-시정지시-590901",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T21:23:24.430Z",
-    "updatedAt": "2026-05-09T21:23:24.430Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
-    "titleFingerprint": "4e32161ff112b3bd79926f2c41e4bd277a86f863",
-    "dedupKeys": [
-      "74c5b723bdfb20ff5ad82c853a93c507cf954b7d",
-      "4e32161ff112b3bd79926f2c41e4bd277a86f863",
-      "1e6a3d755483d53ed344770b6cc79e7956576453"
-    ],
-    "imageUrl": "/images/articles/74c5b723bdfb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부영주택 도급대금 미지급 논란에 노동부 시정지시, 임금체불·고공농성까지",
-        "excerpt": "고용노동부는 자체 감사 등을 이유로 하도급 업체 기성금 지급을 미루고 직원 수당을 적게 지급한 부영주택에 대해 시정지시를 내렸다.",
-        "body": "고용노동부가 하도급 업체에 도급대금 성격의 기성금 지급을 미루고 직원들에게 일부 수당을 적게 지급한 부영주택에 대해 시정지시를 내렸다. 원문에 따르면 부영주택은 자체 감사 등을 이유로 하도급 업체에 지급해야 할 기성금을 제때 지급하지 않았고, 이 과정에서 임금체불 문제가 불거졌다. 관련 갈등은 고공농성으로까지 이어진 것으로 전해졌다. 노동부의 이번 조치는 미지급 대금과 임금 관련 문제를 바로잡도록 요구한 것이다. 건설·하도급 현장에서 대금 지급 지연이 노동자 임금 문제로 연결될 수 있다는 점에서 후속 이행 여부가 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Booyoung Housing Ordered to Correct Delayed Subcontract Payments and Wage Issues",
-        "excerpt": "South Korea’s labor ministry issued a corrective order to Booyoung Housing for delaying progress payments to a subcontractor and underpaying some employee allowances.",
-        "body": "South Korea’s Ministry of Employment and Labor has issued a corrective order to Booyoung Housing after the company delayed progress payments owed to a subcontractor and paid some employee allowances below the required level. According to the original report, Booyoung Housing postponed payments to the subcontracting firm, citing reasons including an internal audit. The dispute led to wage arrears and escalated into a high-altitude protest. The ministry’s order requires the company to correct the unpaid payment and wage-related problems. The case draws attention because delayed subcontract payments at construction sites can directly affect workers’ wages. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "富栄住宅、下請代金遅延と賃金未払いで労働部が是正指示",
-        "excerpt": "韓国雇用労働部は、内部監査などを理由に下請け業者への出来高払いを遅らせ、職員手当を少なく支給した富栄住宅に是正指示を出した。",
-        "body": "韓国雇用労働部は、下請け業者に支払うべき出来高払いを遅らせ、職員の一部手当を少なく支給した富栄住宅に対し、是正指示を出した。原文によると、富栄住宅は内部監査などを理由に、下請け業者への支払いを期限どおり行わなかった。この過程で賃金未払い問題が表面化し、関連する対立は高所での抗議行動にまで発展したとされる。今回の措置は、未払い代金と賃金関連の問題を是正するよう求めるものだ。建設・下請け現場での支払い遅延が労働者賃金に影響し得る点から、今後の履行が注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "富荣住宅拖欠承包款引发欠薪与高空抗议，韩国劳动部下达整改令",
-        "excerpt": "韩国雇佣劳动部对富荣住宅下达整改指示，原因是其以内部审计等为由推迟向分包企业支付进度款，并少付员工津贴。",
-        "body": "韩国雇佣劳动部已对富荣住宅下达整改指示，原因是该公司推迟向分包企业支付具有承包款性质的进度款，并向员工少支付部分津贴。据原文报道，富荣住宅以内部审计等为由，未按时向分包企业支付应付进度款，由此引发欠薪问题。相关矛盾还发展为高空抗议。劳动部此次措施要求企业纠正未付款项和工资相关问题。该事件显示，在建筑和分包现场，工程款支付延迟可能直接影响劳动者工资，后续整改执行情况受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Booyoung Housing recibe orden laboral por pagos retrasados y salarios impagos",
-        "excerpt": "El Ministerio de Trabajo de Corea del Sur ordenó a Booyoung Housing corregir retrasos en pagos a una subcontratista y pagos insuficientes de asignaciones a empleados.",
-        "body": "El Ministerio de Empleo y Trabajo de Corea del Sur emitió una orden correctiva contra Booyoung Housing por retrasar pagos de avance adeudados a una empresa subcontratista y pagar de menos algunas asignaciones a sus empleados. Según el reporte original, la compañía aplazó esos pagos alegando, entre otros motivos, una auditoría interna. En el proceso surgió un problema de salarios impagos y el conflicto llegó a una protesta en altura. La medida del ministerio exige corregir los pagos pendientes y los asuntos salariales relacionados. El caso vuelve a poner el foco en cómo los retrasos de pago en obras y subcontratación pueden afectar directamente los salarios de los trabajadores. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Booyoung Housing recebe ordem trabalhista por atrasos a subcontratada e salários",
-        "excerpt": "O Ministério do Trabalho da Coreia do Sul emitiu ordem corretiva contra a Booyoung Housing por atrasar pagamentos a subcontratada e pagar menos benefícios a funcionários.",
-        "body": "O Ministério do Emprego e Trabalho da Coreia do Sul emitiu uma ordem corretiva contra a Booyoung Housing após a empresa atrasar pagamentos de progresso devidos a uma subcontratada e pagar abaixo do devido alguns adicionais a funcionários. Segundo a reportagem original, a Booyoung Housing adiou os pagamentos alegando motivos como uma auditoria interna. O caso gerou problema de salários em atraso e o conflito chegou a uma manifestação em local elevado. A ordem do ministério exige a correção dos valores não pagos e das questões salariais relacionadas. O episódio chama atenção porque atrasos em pagamentos de obras e subcontratações podem afetar diretamente os salários dos trabalhadores. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Booyoung Housing erhält Arbeitsanweisung wegen verzögerter Zahlungen und Löhnen",
-        "excerpt": "Südkoreas Arbeitsministerium wies Booyoung Housing zur Korrektur an, nachdem Zahlungen an einen Subunternehmer verzögert und Zulagen zu niedrig gezahlt wurden.",
-        "body": "Das südkoreanische Ministerium für Beschäftigung und Arbeit hat Booyoung Housing eine Korrekturanweisung erteilt. Das Unternehmen hatte fällige Abschlagszahlungen an einen Subunternehmer verzögert und einigen Beschäftigten Zulagen zu niedrig ausgezahlt. Dem Originalbericht zufolge begründete Booyoung Housing die aufgeschobenen Zahlungen unter anderem mit einer internen Prüfung. Dadurch entstand ein Problem unbezahlter Löhne, und der Konflikt eskalierte bis zu einem Protest in großer Höhe. Die Anweisung des Ministeriums verlangt, die ausstehenden Zahlungen und lohnbezogenen Probleme zu korrigieren. Der Fall zeigt, dass Zahlungsverzögerungen auf Bau- und Subunternehmerseiten unmittelbar Beschäftigtenlöhne treffen können. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Booyoung Housing visée par un ordre correctif pour retards de paiement et salaires",
-        "excerpt": "Le ministère sud-coréen du Travail a ordonné à Booyoung Housing de corriger des retards de paiement à un sous-traitant et des indemnités insuffisantes versées à des employés.",
-        "body": "Le ministère sud-coréen de l’Emploi et du Travail a émis un ordre correctif contre Booyoung Housing après des retards de paiement dus à une entreprise sous-traitante et le versement insuffisant de certaines indemnités à des employés. Selon l’article original, Booyoung Housing a différé les paiements d’avancement en invoquant notamment un audit interne. Le dossier a fait apparaître des arriérés de salaires et le conflit a été jusqu’à une protestation en hauteur. La mesure du ministère demande la correction des montants impayés et des problèmes liés aux salaires. L’affaire souligne que les retards de paiement dans la construction et la sous-traitance peuvent affecter directement la rémunération des travailleurs. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أمر تصحيحي ضد بويونغ هاوسنغ بسبب تأخر مدفوعات المقاولة والأجور",
-        "excerpt": "أصدرت وزارة العمل الكورية الجنوبية أمرا تصحيحيا بحق بويونغ هاوسنغ لتأخيرها دفعات مستحقة لمقاول فرعي ودفعها بعض بدلات الموظفين بأقل من المستحق.",
-        "body": "أصدرت وزارة التوظيف والعمل في كوريا الجنوبية أمرا تصحيحيا بحق شركة بويونغ هاوسنغ بعدما أخرت دفعات تقدم مستحقة لشركة مقاولات فرعية ودفعت بعض بدلات الموظفين بأقل من المستحق. ووفق التقرير الأصلي، أرجأت الشركة المدفوعات لأسباب من بينها تدقيق داخلي. وخلال ذلك برزت مشكلة تأخر الأجور، وتطور النزاع إلى احتجاج على ارتفاع. ويطلب أمر الوزارة تصحيح مبالغ الدفع غير المسددة والقضايا المرتبطة بالأجور. وتلفت القضية الانتباه إلى أن تأخير المدفوعات في مواقع البناء والتعاقد من الباطن قد ينعكس مباشرة على أجور العمال. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Booyoung Housing को ठेका भुगतान और वेतन बकाया पर श्रम मंत्रालय का सुधार आदेश",
-        "excerpt": "दक्षिण कोरिया के श्रम मंत्रालय ने Booyoung Housing को उपठेकेदार के भुगतान में देरी और कर्मचारियों को कुछ भत्ते कम देने पर सुधार निर्देश दिया।",
-        "body": "दक्षिण कोरिया के रोजगार और श्रम मंत्रालय ने Booyoung Housing को सुधार आदेश जारी किया है। कंपनी ने उपठेकेदार को देय प्रगति भुगतान में देरी की और कर्मचारियों को कुछ भत्ते निर्धारित से कम दिए। मूल रिपोर्ट के अनुसार, Booyoung Housing ने आंतरिक ऑडिट सहित कारणों का हवाला देकर भुगतान टाल दिया। इसी प्रक्रिया में वेतन बकाया का मुद्दा सामने आया और विवाद ऊंचाई पर किए गए प्रदर्शन तक पहुंच गया। मंत्रालय का आदेश अवैतनिक राशि और वेतन संबंधी समस्याओं को ठीक करने के लिए है। यह मामला दिखाता है कि निर्माण और उपठेका कार्यस्थलों में भुगतान देरी सीधे मजदूरों के वेतन को प्रभावित कर सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Booyoung Housing Diperintahkan Koreksi Pembayaran Subkontrak dan Tunggakan Upah",
-        "excerpt": "Kementerian Tenaga Kerja Korea Selatan memberi perintah korektif kepada Booyoung Housing karena menunda pembayaran kepada subkontraktor dan mengurangi tunjangan karyawan.",
-        "body": "Kementerian Ketenagakerjaan dan Tenaga Kerja Korea Selatan mengeluarkan perintah korektif kepada Booyoung Housing setelah perusahaan itu menunda pembayaran progres kepada perusahaan subkontraktor dan membayar sebagian tunjangan karyawan lebih rendah dari semestinya. Menurut laporan asli, Booyoung Housing menunda pembayaran tersebut dengan alasan termasuk audit internal. Dalam proses itu muncul masalah tunggakan upah, dan konflik berujung pada aksi protes di ketinggian. Perintah kementerian meminta perusahaan memperbaiki pembayaran yang belum diselesaikan serta masalah terkait upah. Kasus ini menarik perhatian karena keterlambatan pembayaran di proyek konstruksi dan subkontrak dapat berdampak langsung pada upah pekerja. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cfb5be7d479e",
-    "slug": "20대의-테슬라-기아-제치고-지난달-국내-전기차-첫-1위-720219",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T21:22:31.994Z",
-    "updatedAt": "2026-05-09T21:22:31.994Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
-    "titleFingerprint": "7896331f2884b3abc9c1971d827cba1f84d2321d",
-    "dedupKeys": [
-      "cfb5be7d479e3e2ef1fb0ed7f0f76abb3924bf52",
-      "7896331f2884b3abc9c1971d827cba1f84d2321d",
-      "d74d14b5e2011c527047156bb61999944588467f"
-    ],
-    "imageUrl": "/images/articles/cfb5be7d479e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "테슬라, 기아 제치고 지난달 국내 승용 전기차 판매 첫 1위",
-        "excerpt": "미국 테슬라가 지난달 국내 승용 전기차 시장에서 한국 기아를 처음으로 제치고 판매 1위 브랜드에 올랐다고 연합뉴스가 보도했다.",
-        "body": "미국 전기차 브랜드 테슬라가 지난달 국내 승용 전기차 판매에서 한국 기아를 처음으로 앞서며 1위 브랜드가 됐다. 연합뉴스에 따르면 테슬라는 국내 승용 전기차 분야에서 기아를 제치고 월간 판매 선두에 올랐다. 이번 결과는 국내 전기차 시장에서 수입 브랜드인 테슬라가 한국 완성차 브랜드를 넘어선 첫 사례라는 점에서 주목된다. 다만 원문은 구체적인 판매 대수나 차종별 실적은 제시하지 않았다. 국내 승용 전기차 브랜드 경쟁 구도에 변화가 생겼다는 점이 핵심이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Tesla Tops Kia to Take First Place in South Korea EV Sales Last Month",
-        "excerpt": "U.S. automaker Tesla became the top-selling passenger electric vehicle brand in South Korea last month, surpassing Kia for the first time, Yonhap reported.",
-        "body": "Tesla, the U.S. electric vehicle brand, became the No. 1 passenger EV brand in South Korea last month after overtaking South Korea’s Kia for the first time. According to Yonhap News Agency, Tesla led monthly sales in the domestic passenger electric vehicle segment by surpassing Kia. The result is notable because it marks the first time Tesla, an imported brand, has moved ahead of a Korean automaker in this category. The original report did not provide specific sales volumes or model-level figures. The key point is a shift in the competitive order of South Korea’s passenger EV market. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "テスラ、韓国乗用EV販売で起亜を初めて抜き先月1位に",
-        "excerpt": "米国のテスラが先月、韓国の乗用電気自動車市場で起亜を初めて上回り、販売首位ブランドになったと聯合ニュースが報じた。",
-        "body": "米国の電気自動車ブランド、テスラが先月、韓国国内の乗用EV販売で韓国の起亜を初めて上回り、1位ブランドとなった。聯合ニュースによると、テスラは国内乗用電気自動車分野で起亜を抜き、月間販売の首位に立った。今回の結果は、輸入ブランドであるテスラが韓国完成車ブランドをこの分野で上回った初の事例という点で注目される。ただし原文は具体的な販売台数や車種別実績を示していない。韓国の乗用EVブランド競争の構図に変化が生じたことが核心だ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "特斯拉上月在韩国乘用电动车销量首次超越起亚登顶",
-        "excerpt": "据韩联社报道，美国特斯拉上月在韩国乘用电动车市场首次超过韩国起亚，成为销量第一的品牌。",
-        "body": "美国电动车品牌特斯拉上月在韩国国内乘用电动车销量中首次超过韩国起亚，成为第一品牌。据韩联社报道，特斯拉在韩国乘用电动车领域超越起亚，登上月度销量榜首。这一结果受到关注，因为这是进口品牌特斯拉首次在该领域领先韩国整车品牌。原文未提供具体销量或按车型划分的成绩。核心信息是，韩国乘用电动车品牌竞争格局出现了变化。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Tesla supera a Kia y lidera por primera vez las ventas de EV en Corea",
-        "excerpt": "Tesla, de Estados Unidos, fue el mes pasado la marca más vendida de autos eléctricos de pasajeros en Corea del Sur tras superar por primera vez a Kia, informó Yonhap.",
-        "body": "Tesla, la marca estadounidense de vehículos eléctricos, se convirtió el mes pasado en la número uno en ventas de autos eléctricos de pasajeros en Corea del Sur tras superar por primera vez a la surcoreana Kia. Según la agencia Yonhap, Tesla encabezó las ventas mensuales en el segmento local de vehículos eléctricos de pasajeros al dejar atrás a Kia. El resultado destaca porque marca la primera vez que Tesla, una marca importada, supera a un fabricante coreano en esta categoría. El reporte original no incluyó cifras concretas de ventas ni datos por modelo. La clave es un cambio en la competencia de marcas de EV de pasajeros en Corea del Sur. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Tesla passa a Kia e lidera pela primeira vez vendas de EVs na Coreia",
-        "excerpt": "A Tesla, dos EUA, tornou-se no mês passado a marca mais vendida de carros elétricos de passeio na Coreia do Sul ao superar a Kia pela primeira vez, informou a Yonhap.",
-        "body": "A Tesla, marca norte-americana de veículos elétricos, tornou-se no mês passado a líder em vendas de carros elétricos de passeio na Coreia do Sul ao superar pela primeira vez a sul-coreana Kia. Segundo a agência Yonhap, a Tesla ficou no topo das vendas mensais no segmento doméstico de veículos elétricos de passeio ao ultrapassar a Kia. O resultado chama atenção por ser a primeira vez que a Tesla, uma marca importada, fica à frente de uma montadora coreana nessa categoria. A reportagem original não apresentou volumes específicos de venda nem dados por modelo. O ponto central é uma mudança na disputa entre marcas de EVs de passeio na Coreia do Sul. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Tesla überholt Kia und führt erstmals Südkoreas Pkw-EV-Verkäufe an",
-        "excerpt": "Tesla aus den USA wurde im vergangenen Monat erstmals die meistverkaufte Marke für elektrische Pkw in Südkorea und überholte Kia, berichtete Yonhap.",
-        "body": "Die US-Elektroautomarke Tesla wurde im vergangenen Monat in Südkorea erstmals die Nummer eins bei den Verkäufen von elektrischen Pkw und überholte die südkoreanische Marke Kia. Laut der Nachrichtenagentur Yonhap führte Tesla die monatlichen Verkäufe im heimischen Segment der elektrischen Pkw an, nachdem es Kia hinter sich gelassen hatte. Das Ergebnis ist bemerkenswert, weil Tesla als Importmarke in dieser Kategorie erstmals vor einem koreanischen Autohersteller lag. Der Originalbericht nannte keine konkreten Verkaufszahlen und keine Ergebnisse nach Modell. Entscheidend ist eine veränderte Wettbewerbsordnung im südkoreanischen Markt für elektrische Pkw. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Tesla dépasse Kia et devient numéro un des ventes de VE en Corée",
-        "excerpt": "Tesla, constructeur américain, est devenu le mois dernier la marque la plus vendue de voitures électriques particulières en Corée du Sud, devant Kia pour la première fois, selon Yonhap.",
-        "body": "Tesla, marque américaine de véhicules électriques, est devenue le mois dernier numéro un des ventes de voitures électriques particulières en Corée du Sud après avoir dépassé Kia pour la première fois. Selon l’agence Yonhap, Tesla a pris la tête des ventes mensuelles dans le segment national des véhicules électriques particuliers en devançant Kia. Ce résultat retient l’attention car il s’agit de la première fois qu’une marque importée, Tesla, passe devant un constructeur coréen dans cette catégorie. Le texte original ne fournit pas de volumes de ventes précis ni de chiffres par modèle. L’élément central est un changement dans la concurrence entre marques de VE particulières en Corée du Sud. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "تسلا تتجاوز كيا وتتصدر مبيعات السيارات الكهربائية في كوريا لأول مرة",
-        "excerpt": "أصبحت تسلا الأميركية في الشهر الماضي العلامة الأكثر مبيعا لسيارات الركاب الكهربائية في كوريا الجنوبية بعد أن تجاوزت كيا لأول مرة، وفق يونهاب.",
-        "body": "أصبحت تسلا، العلامة الأميركية للسيارات الكهربائية، في الشهر الماضي العلامة الأولى في مبيعات سيارات الركاب الكهربائية داخل كوريا الجنوبية بعد أن سبقت كيا الكورية للمرة الأولى. وبحسب وكالة يونهاب للأنباء، تصدرت تسلا المبيعات الشهرية في قطاع سيارات الركاب الكهربائية المحلي متجاوزة كيا. وتحظى النتيجة بالاهتمام لأنها تمثل أول حالة تتقدم فيها تسلا، بوصفها علامة مستوردة، على شركة سيارات كورية في هذه الفئة. ولم يورد النص الأصلي أرقاما محددة للمبيعات أو نتائج بحسب الطراز. والخلاصة هي حدوث تغير في ترتيب المنافسة بين علامات سيارات الركاب الكهربائية في كوريا الجنوبية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "टेस्ला ने किआ को पीछे छोड़ा, कोरिया EV बिक्री में पहली बार शीर्ष पर",
-        "excerpt": "अमेरिका की टेस्ला पिछले महीने दक्षिण कोरिया में यात्री इलेक्ट्रिक वाहनों की सबसे अधिक बिकने वाली ब्रांड बनी और पहली बार किआ से आगे निकली, योनहाप ने बताया।",
-        "body": "अमेरिकी इलेक्ट्रिक वाहन ब्रांड टेस्ला पिछले महीने दक्षिण कोरिया में यात्री इलेक्ट्रिक वाहनों की बिक्री में पहली बार दक्षिण कोरिया की किआ से आगे निकलकर नंबर एक ब्रांड बन गई। योनहाप समाचार एजेंसी के अनुसार, टेस्ला ने घरेलू यात्री इलेक्ट्रिक वाहन क्षेत्र में किआ को पीछे छोड़ते हुए मासिक बिक्री में शीर्ष स्थान हासिल किया। यह परिणाम इसलिए उल्लेखनीय है क्योंकि आयातित ब्रांड टेस्ला ने इस श्रेणी में पहली बार किसी कोरियाई वाहन निर्माता को पीछे छोड़ा है। मूल रिपोर्ट में बिक्री की ठोस संख्या या मॉडलवार आंकड़े नहीं दिए गए। मुख्य बात दक्षिण कोरिया के यात्री EV ब्रांडों की प्रतिस्पर्धा में आया बदलाव है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Tesla Salip Kia dan Pimpin Penjualan EV Penumpang Korea Bulan Lalu",
-        "excerpt": "Tesla dari Amerika Serikat menjadi merek mobil listrik penumpang terlaris di Korea Selatan bulan lalu setelah untuk pertama kalinya melampaui Kia, lapor Yonhap.",
-        "body": "Tesla, merek kendaraan listrik asal Amerika Serikat, menjadi merek nomor satu dalam penjualan mobil listrik penumpang di Korea Selatan bulan lalu setelah untuk pertama kalinya melampaui Kia dari Korea Selatan. Menurut kantor berita Yonhap, Tesla memimpin penjualan bulanan di segmen kendaraan listrik penumpang domestik dengan menyalip Kia. Hasil ini menarik perhatian karena menjadi kali pertama Tesla, sebagai merek impor, berada di depan produsen mobil Korea dalam kategori tersebut. Laporan asli tidak menyebutkan angka penjualan spesifik atau capaian per model. Intinya adalah adanya perubahan dalam peta persaingan merek EV penumpang di Korea Selatan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3a9ce91eed51",
-    "slug": "이건-ai가-절대-커버-못해현장의-감정-포착하는-사진-book-631355",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T21:21:41.398Z",
-    "updatedAt": "2026-05-09T21:21:41.398Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12042406",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12042406",
-    "titleFingerprint": "a13f357e345fc8d590f43c822df91cb903e78fd6",
-    "dedupKeys": [
-      "3a9ce91eed51212184a481b93f38ced952efaf4a",
-      "a13f357e345fc8d590f43c822df91cb903e78fd6",
-      "48ffeba3b013ba1e77320dfd004facea537b12f5"
-    ],
-    "imageUrl": "/images/articles/3a9ce91eed51.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI가 못 찍는 사진의 조건, 퓰리처상 사진기자가 말한 현장의 감정",
-        "excerpt": "매일경제 보도에 따르면 퓰리처상 사진기자는 AI가 카메라 셔터를 누르지 못한다는 점을 들어, 현장의 감정을 포착하는 ‘좋은 사진’의 가치를 짚었다.",
-        "body": "매일경제는 퓰리처상 사진기자가 정의한 ‘좋은 사진’의 조건을 소개하며, AI 시대에도 사진이 대체되기 어려운 이유를 전했다. 보도에 따르면 AI는 이미지를 만들 수는 있어도 현장에서 카메라 셔터를 누르고 순간의 감정을 포착하는 행위는 할 수 없다. 기사에서는 19세기 다게레오타이프 등장 당시 “이제 회화는 끝났다”는 반응이 나왔던 역사적 맥락도 함께 언급됐다. 그러나 사진은 단순한 재현을 넘어 현장성과 감정, 사건의 공기를 담는 매체로 자리 잡았다. AI가 시각 이미지를 빠르게 생성하는 시대에도 사람이 현장에 서서 포착한 장면의 의미는 여전히 중요하다는 메시지다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "What AI Still Cannot Photograph, According to a Pulitzer Prize Photojournalist",
-        "excerpt": "According to Maeil Business Newspaper, a Pulitzer Prize photojournalist says AI cannot press a camera shutter, underscoring the value of photos that capture emotion on site.",
-        "body": "Maeil Business Newspaper reported on how a Pulitzer Prize photojournalist defines a “good photograph” and why photography remains hard to replace in the age of AI. According to the report, AI can create images, but it cannot stand at a scene, press a camera shutter, and capture the emotion of a specific moment. The article also recalled the historical context of the 19th-century daguerreotype, when some declared that painting was over. Yet photography became more than simple reproduction, carrying the immediacy, emotion, and atmosphere of real events. Even as AI rapidly generates visual images, the report stresses the continuing value of scenes captured by a person in the field. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AIが撮れない写真とは、ピュリツァー賞写真記者が語る現場の感情",
-        "excerpt": "毎日経済によると、ピュリツァー賞写真記者はAIがカメラのシャッターを押せない点を挙げ、現場の感情を捉える写真の価値を語った。",
-        "body": "毎日経済は、ピュリツァー賞写真記者が定義する「良い写真」の条件を紹介し、AI時代にも写真が代替されにくい理由を伝えた。報道によると、AIは画像を作ることはできても、現場に立ってカメラのシャッターを押し、その瞬間の感情を捉えることはできない。記事では、19世紀にダゲレオタイプが登場した際、「これで絵画は終わった」と受け止められた歴史的文脈にも触れている。しかし写真は単なる再現を超え、現場性、感情、事件の空気を伝えるメディアとして定着した。AIが視覚イメージを素早く生成する時代でも、人が現場で捉えた場面の意味はなお重要だという内容だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI仍无法拍到的照片，普利策摄影记者谈现场情感价值",
-        "excerpt": "据《每日经济》报道，普利策奖摄影记者指出，AI无法按下相机快门，因此凸显了捕捉现场情感的“好照片”价值。",
-        "body": "《每日经济》报道了普利策奖摄影记者对“好照片”的定义，并说明在AI时代摄影为何仍难以被取代。报道称，AI可以生成图像，却无法站在现场按下相机快门，也无法捕捉某一瞬间的真实情感。文章还提到19世纪达盖尔银版摄影术出现时，曾有人认为“绘画已经结束”的历史背景。但摄影并未停留在单纯再现，而是成为承载现场性、情感和事件氛围的媒介。即使AI能够快速生成视觉图像，人类在现场捕捉到的画面依然具有重要意义。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lo que la IA no puede fotografiar: emoción real según un Pulitzer",
-        "excerpt": "Según Maeil Business Newspaper, un fotoperiodista ganador del Pulitzer afirma que la IA no puede pulsar el obturador y destaca el valor de captar emociones en el lugar.",
-        "body": "Maeil Business Newspaper informó sobre la definición de “buena fotografía” de un fotoperiodista ganador del Pulitzer y por qué la fotografía sigue siendo difícil de sustituir en la era de la IA. Según el reporte, la IA puede crear imágenes, pero no puede estar en el lugar, pulsar el obturador de una cámara y captar la emoción de un momento concreto. El artículo también recordó el contexto histórico del daguerrotipo del siglo XIX, cuando se dijo que la pintura había llegado a su fin. Sin embargo, la fotografía se consolidó como algo más que una reproducción: un medio capaz de contener presencia, emoción y la atmósfera de los hechos. Aun cuando la IA genera imágenes con rapidez, las escenas captadas por una persona en el terreno conservan su importancia. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "O que a IA ainda não fotografa: emoção real segundo um Pulitzer",
-        "excerpt": "Segundo o Maeil Business Newspaper, um fotojornalista vencedor do Pulitzer diz que a IA não aperta o obturador e destaca o valor de captar emoções no local.",
-        "body": "O Maeil Business Newspaper apresentou a definição de “boa fotografia” dada por um fotojornalista vencedor do Pulitzer e explicou por que a fotografia continua difícil de substituir na era da IA. Segundo a reportagem, a IA pode criar imagens, mas não pode estar no local, apertar o obturador de uma câmera e captar a emoção de um momento específico. O texto também citou o contexto histórico do daguerreótipo no século XIX, quando houve quem dissesse que a pintura havia acabado. Ainda assim, a fotografia se firmou como mais do que simples reprodução, reunindo presença, emoção e a atmosfera dos acontecimentos. Mesmo com a geração rápida de imagens por IA, cenas captadas por uma pessoa no campo seguem relevantes. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Was KI nicht fotografieren kann: Pulitzer-Fotograf über echte Emotion",
-        "excerpt": "Laut Maeil Business Newspaper betont ein Pulitzer-prämierter Fotograf, dass KI keinen Kameraverschluss auslösen kann und damit den Wert von Emotionen vor Ort nicht ersetzt.",
-        "body": "Maeil Business Newspaper berichtete über die Definition eines Pulitzer-prämierten Fotografen von einem „guten Foto“ und darüber, warum Fotografie im KI-Zeitalter schwer zu ersetzen bleibt. Dem Bericht zufolge kann KI Bilder erzeugen, aber sie kann nicht am Ort des Geschehens stehen, den Kameraverschluss drücken und die Emotion eines bestimmten Moments festhalten. Der Artikel verweist auch auf den historischen Kontext der Daguerreotypie im 19. Jahrhundert, als manche erklärten, die Malerei sei nun am Ende. Doch Fotografie wurde mehr als bloße Wiedergabe: ein Medium für Gegenwärtigkeit, Emotion und die Atmosphäre von Ereignissen. Auch wenn KI visuelle Bilder schnell erzeugt, bleibt die Bedeutung menschlich vor Ort aufgenommener Szenen zentral. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Ce que l’IA ne peut pas photographier, selon un photographe Pulitzer",
-        "excerpt": "Selon Maeil Business Newspaper, un photographe lauréat du Pulitzer rappelle que l’IA ne peut pas appuyer sur l’obturateur et capter l’émotion du terrain.",
-        "body": "Maeil Business Newspaper a présenté la définition d’une « bonne photographie » donnée par un photographe lauréat du Pulitzer et expliqué pourquoi la photo reste difficile à remplacer à l’ère de l’IA. Selon l’article, l’IA peut créer des images, mais elle ne peut pas se tenir sur le terrain, appuyer sur l’obturateur d’un appareil et saisir l’émotion d’un instant précis. Le texte rappelle aussi le contexte historique du daguerréotype au XIXe siècle, lorsque certains ont affirmé que la peinture était terminée. Pourtant, la photographie s’est imposée comme plus qu’une simple reproduction, en portant la présence, l’émotion et l’atmosphère des événements. Même si l’IA génère rapidement des images, les scènes captées par une personne sur place gardent leur importance. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ما لا تستطيع الذكاء الاصطناعي تصويره: عاطفة الميدان بعدسة بوليتزر",
-        "excerpt": "بحسب صحيفة ماييل الاقتصادية، يؤكد مصور حائز على بوليتزر أن الذكاء الاصطناعي لا يستطيع ضغط زر الكاميرا، ما يبرز قيمة التقاط مشاعر الميدان.",
-        "body": "عرضت صحيفة ماييل الاقتصادية تعريف مصور صحفي حائز على جائزة بوليتزر لـ«الصورة الجيدة»، وشرحت لماذا يصعب استبدال التصوير في عصر الذكاء الاصطناعي. ووفق التقرير، يستطيع الذكاء الاصطناعي إنشاء الصور، لكنه لا يستطيع الوقوف في موقع الحدث، والضغط على زر الكاميرا، والتقاط شعور لحظة محددة. كما أشار المقال إلى سياق تاريخي يعود إلى ظهور الداجيروتايب في القرن التاسع عشر، حين قيل إن الرسم قد انتهى. لكن التصوير تجاوز مجرد إعادة إنتاج المشهد، وأصبح وسيطا يحمل الحضور الميداني والعاطفة وأجواء الحدث. وحتى مع قدرة الذكاء الاصطناعي على توليد الصور بسرعة، تبقى للمشاهد التي يلتقطها إنسان في الموقع أهمية واضحة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI जो तस्वीर नहीं ले सकता, पुलित्जर फोटोग्राफर ने बताई वजह",
-        "excerpt": "Maeil Business Newspaper के अनुसार, पुलित्जर विजेता फोटो पत्रकार ने कहा कि AI कैमरे का शटर नहीं दबा सकता, इसलिए现场 की भावना पकड़ने वाली तस्वीरों का मूल्य बना रहता है।",
-        "body": "Maeil Business Newspaper ने पुलित्जर पुरस्कार विजेता फोटो पत्रकार द्वारा बताई गई “अच्छी तस्वीर” की परिभाषा पेश की और बताया कि AI के युग में भी फोटोग्राफी को बदलना कठिन क्यों है। रिपोर्ट के अनुसार, AI छवियां बना सकता है, लेकिन वह घटना स्थल पर खड़ा होकर कैमरे का शटर नहीं दबा सकता और किसी खास क्षण की भावना को पकड़ नहीं सकता। लेख में 19वीं सदी के डागेरियोटाइप के आगमन का ऐतिहासिक संदर्भ भी दिया गया, जब कहा गया था कि अब चित्रकला समाप्त हो गई। फिर भी फोटोग्राफी केवल पुनरुत्पादन नहीं रही; यह现场 उपस्थिति, भावना और घटना के माहौल को दर्ज करने वाला माध्यम बनी। AI तेजी से दृश्य छवियां बना सकता है, लेकिन मनुष्य द्वारा现场 पर कैद दृश्य का महत्व अब भी बना हुआ है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Foto yang Tak Bisa Dibuat AI: Emosi Lapangan Menurut Peraih Pulitzer",
-        "excerpt": "Menurut Maeil Business Newspaper, fotografer peraih Pulitzer menilai AI tidak dapat menekan rana kamera, sehingga nilai foto yang menangkap emosi di lokasi tetap penting.",
-        "body": "Maeil Business Newspaper melaporkan definisi “foto yang baik” menurut seorang fotografer peraih Pulitzer dan alasan fotografi tetap sulit digantikan pada era AI. Menurut laporan itu, AI dapat membuat gambar, tetapi tidak dapat berdiri di lokasi, menekan rana kamera, dan menangkap emosi pada momen tertentu. Artikel tersebut juga menyinggung konteks sejarah daguerreotype pada abad ke-19, ketika muncul anggapan bahwa seni lukis telah berakhir. Namun fotografi berkembang melampaui reproduksi sederhana, menjadi medium yang memuat kehadiran lapangan, emosi, dan atmosfer peristiwa. Meski AI mampu menghasilkan citra visual dengan cepat, adegan yang ditangkap manusia di lokasi tetap memiliki makna penting. Sumber: mk.co.kr"
       }
     }
   }
