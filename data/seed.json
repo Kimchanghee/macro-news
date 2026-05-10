@@ -1,5 +1,230 @@
 [
   {
+    "id": "b697dc7c5b17",
+    "slug": "구형-반도체-끝난줄-알았는데-공장-풀가동파운드리-주가-동반-반등-745623",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T21:58:11.692Z",
+    "updatedAt": "2026-05-10T21:58:11.692Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042846",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042846",
+    "titleFingerprint": "5a8c5461c8ca10a49769b0831e8aa73eea2ae9d0",
+    "dedupKeys": [
+      "b697dc7c5b17dc9f8977fc25b94f0dca0e29ddb3",
+      "5a8c5461c8ca10a49769b0831e8aa73eea2ae9d0",
+      "606fd5e99a1296fcb080653f8b367cd1f3e46e0b"
+    ],
+    "imageUrl": "/images/articles/b697dc7c5b17.jpg",
+    "i18n": {
+      "ko": {
+        "title": "범용 반도체 수요 급증에 파운드리株 반등…UMC 한달 62% 상승",
+        "excerpt": "AI 데이터센터 투자 확대가 최첨단 공정을 넘어 범용 반도체 수요까지 끌어올리며 대만 UMC와 미국 글로벌파운드리 등 파운드리 주가가 한 달 새 동반 반등했다.",
+        "body": "AI 데이터센터 투자가 확대되면서 최첨단 공정뿐 아니라 범용 반도체 수요도 빠르게 늘고 있다. 그동안 TSMC와 삼성전자 중심의 첨단 반도체에 관심이 집중됐지만, 최근에는 구형·범용 공정 제품까지 주문이 회복되며 파운드리 공장 가동률 개선 기대가 커졌다. 관련 주가도 반응했다. 대만 UMC 주가는 한 달 사이 62% 올랐고, 미국 글로벌파운드리도 50% 상승했다. 시장은 AI 인프라 확장이 다양한 반도체 수요로 번지는 흐름에 주목하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Foundry Stocks Rebound as Mainstream Chip Demand Surges, UMC Up 62%",
+        "excerpt": "Rising investment in AI data centers is lifting demand beyond cutting-edge chips to mainstream semiconductors, sending UMC and GlobalFoundries shares sharply higher over the past month.",
+        "body": "As investment in AI data centers expands, demand is rising not only for cutting-edge processes but also for mainstream semiconductors. Attention had been concentrated on advanced chips led by TSMC and Samsung, but recent order recovery for older and general-purpose process products has raised expectations for improved foundry utilization. Share prices have reflected that shift. Taiwan’s UMC rose 62% in a month, while U.S.-based GlobalFoundries gained 50%. The market is watching whether AI infrastructure expansion continues to spread into broader semiconductor demand. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "汎用半導体需要が急増、ファウンドリー株反発…UMCは1カ月で62％高",
+        "excerpt": "AIデータセンター投資の拡大が最先端工程を越えて汎用半導体需要まで押し上げ、台湾UMCや米グローバルファウンドリーズの株価がこの1カ月で反発した。",
+        "body": "AIデータセンター投資の拡大により、最先端工程だけでなく汎用半導体の需要も急速に増えている。これまで関心はTSMCやサムスン電子が主導する先端半導体に集中していたが、最近は旧世代・汎用工程製品の注文も回復し、ファウンドリー工場の稼働率改善への期待が高まった。株価も反応している。台湾UMCの株価は1カ月で62％上昇し、米グローバルファウンドリーズも50％上がった。市場はAIインフラ拡大が多様な半導体需要へ広がる流れに注目している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "通用芯片需求激增带动晶圆代工股反弹，UMC一个月涨62%",
+        "excerpt": "AI数据中心投资扩大，不仅推高先进制程需求，也带动通用半导体需求回升，台湾UMC和美国格芯等晶圆代工股一个月内同步反弹。",
+        "body": "随着AI数据中心投资扩大，需求不只集中在先进制程，也快速延伸至通用半导体。此前市场关注点主要放在由台积电和三星主导的先进芯片，但近期旧制程和通用制程产品订单恢复，带动晶圆代工厂产能利用率改善预期升温。股价也随之反应。台湾UMC股价一个月内上涨62%，美国GlobalFoundries上涨50%。市场正关注AI基础设施扩张是否继续带动更广泛的半导体需求。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Demanda de chips maduros impulsa a las fundiciones: UMC sube 62% en un mes",
+        "excerpt": "La expansión de la inversión en centros de datos de IA está elevando la demanda más allá de los procesos avanzados y ha impulsado las acciones de UMC y GlobalFoundries en el último mes.",
+        "body": "La inversión en centros de datos de IA está aumentando la demanda no solo de procesos de vanguardia, sino también de semiconductores de uso general. Hasta ahora la atención se concentraba en chips avanzados liderados por TSMC y Samsung, pero la recuperación reciente de pedidos de productos de procesos maduros y generales elevó las expectativas de mejora en la utilización de las fundiciones. Las acciones reaccionaron. UMC de Taiwán subió 62% en un mes, mientras que GlobalFoundries de Estados Unidos avanzó 50%. El mercado observa cómo la expansión de la infraestructura de IA se extiende a una demanda más amplia de semiconductores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Demanda por chips maduros reanima fundições; UMC salta 62% em um mês",
+        "excerpt": "A ampliação dos investimentos em data centers de IA está elevando a demanda além dos chips de ponta, impulsionando em um mês as ações da UMC e da GlobalFoundries.",
+        "body": "Com a expansão dos investimentos em data centers de IA, a demanda cresce não apenas por processos de ponta, mas também por semicondutores de uso geral. A atenção vinha concentrada nos chips avançados liderados por TSMC e Samsung, mas a recente recuperação de pedidos para produtos de processos maduros e gerais elevou as expectativas de melhora na utilização das fundições. As ações refletiram esse movimento. A UMC de Taiwan subiu 62% em um mês, enquanto a norte-americana GlobalFoundries avançou 50%. O mercado acompanha a expansão da infraestrutura de IA para uma demanda mais ampla por semicondutores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Standardchip-Nachfrage treibt Foundry-Aktien: UMC steigt in einem Monat 62%",
+        "excerpt": "Der Ausbau von KI-Rechenzentren erhöht nicht nur die Nachfrage nach Spitzenprozessen, sondern auch nach Standardhalbleitern, wodurch UMC und GlobalFoundries zuletzt deutlich zulegten.",
+        "body": "Mit den steigenden Investitionen in KI-Rechenzentren wächst die Nachfrage nicht nur nach modernsten Prozessen, sondern auch nach Standardhalbleitern schnell. Bisher lag der Fokus auf fortschrittlichen Chips von TSMC und Samsung, doch zuletzt erholen sich auch Aufträge für ältere und allgemeine Prozessprodukte. Dadurch steigen die Erwartungen an eine bessere Auslastung der Foundry-Werke. Die Aktien reagierten entsprechend: Taiwans UMC legte innerhalb eines Monats um 62% zu, die US-Firma GlobalFoundries um 50%. Der Markt beobachtet, wie sich der KI-Infrastrukturausbau auf breitere Halbleiternachfrage auswirkt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La demande de puces matures relance les fondeurs, UMC gagne 62% en un mois",
+        "excerpt": "L’essor des investissements dans les centres de données d’IA soutient la demande au-delà des procédés de pointe et fait rebondir UMC et GlobalFoundries en Bourse.",
+        "body": "Avec l’expansion des investissements dans les centres de données d’IA, la demande augmente non seulement pour les procédés de pointe, mais aussi pour les semi-conducteurs généralistes. L’attention se concentrait jusque-là sur les puces avancées dominées par TSMC et Samsung, mais la reprise récente des commandes de produits issus de procédés plus anciens et généralistes renforce les attentes d’une meilleure utilisation des usines de fonderie. Les actions ont réagi: UMC à Taïwan a gagné 62% en un mois, tandis que l’américain GlobalFoundries a progressé de 50%. Le marché suit l’élargissement de la demande lié aux infrastructures d’IA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طلب الرقائق التقليدية ينعش أسهم المسابك وUMC تقفز 62% خلال شهر",
+        "excerpt": "توسع الاستثمار في مراكز بيانات الذكاء الاصطناعي يرفع الطلب ليس فقط على الرقائق المتقدمة بل أيضا على أشباه الموصلات العامة، ما دعم أسهم UMC وGlobalFoundries خلال شهر.",
+        "body": "مع توسع الاستثمار في مراكز بيانات الذكاء الاصطناعي، يرتفع الطلب بسرعة ليس فقط على العمليات المتقدمة بل أيضا على أشباه الموصلات العامة. كان التركيز منصبا على الرقائق المتقدمة التي تقودها TSMC وسامسونغ، لكن تعافي الطلبات على منتجات العمليات الأقدم والعامة رفع التوقعات بتحسن تشغيل مصانع المسابك. وانعكس ذلك على الأسهم؛ فقد ارتفع سهم UMC التايوانية 62% خلال شهر، بينما صعدت GlobalFoundries الأميركية 50%. يراقب السوق امتداد توسع بنية الذكاء الاصطناعي إلى طلب أوسع على أشباه الموصلات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सामान्य चिप मांग बढ़ी, फाउंड्री शेयर उछले; UMC एक महीने में 62% ऊपर",
+        "excerpt": "AI डेटा सेंटर निवेश बढ़ने से मांग उन्नत चिप प्रक्रियाओं से आगे बढ़कर सामान्य सेमीकंडक्टर तक पहुंची, जिससे UMC और GlobalFoundries के शेयर एक महीने में चढ़े।",
+        "body": "AI डेटा सेंटर में निवेश बढ़ने के साथ मांग केवल अत्याधुनिक प्रक्रियाओं तक सीमित नहीं रही, बल्कि सामान्य सेमीकंडक्टर में भी तेजी से बढ़ रही है। अब तक ध्यान TSMC और Samsung के नेतृत्व वाली उन्नत चिपों पर था, लेकिन हाल में पुराने और सामान्य प्रोसेस उत्पादों के ऑर्डर सुधरने से फाउंड्री कारखानों की उपयोग दर बेहतर होने की उम्मीद बढ़ी है। शेयरों ने भी प्रतिक्रिया दी। ताइवान की UMC एक महीने में 62% बढ़ी, जबकि अमेरिका की GlobalFoundries 50% चढ़ी। बाजार AI अवसंरचना विस्तार से व्यापक सेमीकंडक्टर मांग फैलने के रुझान पर नजर रख रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Permintaan chip umum melonjak, saham foundry rebound; UMC naik 62% sebulan",
+        "excerpt": "Investasi pusat data AI yang meningkat mendorong permintaan bukan hanya pada proses tercanggih, tetapi juga semikonduktor umum, sehingga saham UMC dan GlobalFoundries ikut menguat.",
+        "body": "Seiring meningkatnya investasi pusat data AI, permintaan tidak hanya tumbuh untuk proses tercanggih, tetapi juga untuk semikonduktor umum. Selama ini perhatian tertuju pada chip canggih yang dipimpin TSMC dan Samsung, namun pemulihan pesanan untuk produk proses lama dan umum belakangan ini meningkatkan ekspektasi perbaikan utilisasi pabrik foundry. Harga saham ikut merespons. UMC Taiwan naik 62% dalam satu bulan, sementara GlobalFoundries AS menguat 50%. Pasar mencermati bagaimana ekspansi infrastruktur AI menyebar ke permintaan semikonduktor yang lebih luas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e3a5a9940826",
+    "slug": "511-mk-추천매물-동탄신도시-98대-본사-직영-슈퍼-30억7천만원-등-480899",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T21:57:19.659Z",
+    "updatedAt": "2026-05-10T21:57:19.659Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042847",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042847",
+    "titleFingerprint": "d9ca37d7e7fb53d72f3be97f308108c970f70dd3",
+    "dedupKeys": [
+      "e3a5a99408266d3d14789fe8ac443be649a76452",
+      "d9ca37d7e7fb53d72f3be97f308108c970f70dd3",
+      "5004536512bc06dac6542affd2dfb2b3a1a21012"
+    ],
+    "imageUrl": "/images/articles/e3a5a9940826.jpg",
+    "i18n": {
+      "ko": {
+        "title": "동탄신도시 9.8%대 슈퍼·아산 산업단지 대형 공장, 5월 11일 MK 추천매물",
+        "excerpt": "매일경제는 5월 11일 MK 추천매물로 동탄2신도시 본사 직영 슈퍼와 아산시 인주면 산업단지 내 대형 공장 등 주요 부동산 매물을 소개했다.",
+        "body": "매일경제는 5월 11일자 MK 추천매물에서 동탄2신도시의 9.8%대 본사 직영 슈퍼와 충남 아산시 인주면 산업단지 내 대형 공장 등을 소개했다. 동탄2신도시 매물은 본사 직영 슈퍼로 제시됐으며 가격은 30억7000만원이다. 아산시 인주면 산업단지 내 대형 공장은 공장용지 2만5330㎡, 연면적 1만7865㎡ 규모로, 210m*80m 대형 단층 공장과 지상 3층 사무동으로 구성됐다. 제시 가격은 260억원이다. 이번 목록은 수익형 상업시설과 산업단지 공장 매물을 함께 다뤄 투자자와 실수요자가 입지, 규모, 가격 조건을 비교할 수 있는 자료로 제시됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dongtan 9.8% Supermarket and Asan Industrial Factory Lead MK Picks for May 11",
+        "excerpt": "Maeil Business Newspaper listed a headquarters-operated supermarket in Dongtan 2 New Town and a large factory in Asan’s Inju industrial complex among its May 11 recommended properties.",
+        "body": "Maeil Business Newspaper presented its MK recommended properties for May 11, including a headquarters-operated supermarket in Dongtan 2 New Town with a yield in the 9.8% range and a large factory in the industrial complex of Inju-myeon, Asan, Chungnam. The Dongtan 2 New Town property was introduced as a headquarters-operated supermarket priced at 3.07 billion won. The Asan factory sits on 25,330 square meters of factory land with a total floor area of 17,865 square meters. It consists of a large single-story factory measuring 210m by 80m and a three-story office building above ground. The listed price is 26 billion won. The list presents both income-producing retail property and an industrial complex factory for comparison by location, scale and price. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "東灘新都市9.8％台スーパーと牙山産業団地の大型工場、5月11日MK推薦物件",
+        "excerpt": "毎日経済は5月11日のMK推薦物件として、東灘2新都市の本社直営スーパーと牙山市仁州面産業団地内の大型工場などを紹介した。",
+        "body": "毎日経済は5月11日付のMK推薦物件で、東灘2新都市の9.8％台の本社直営スーパーと、忠清南道牙山市仁州面の産業団地内にある大型工場などを紹介した。東灘2新都市の物件は本社直営スーパーとして提示され、価格は30億7000万ウォン。牙山市仁州面産業団地内の大型工場は、工場用地2万5330㎡、延べ床面積1万7865㎡の規模で、210m*80mの大型平屋工場と地上3階建ての事務棟で構成される。提示価格は260億ウォン。今回の一覧は、収益型商業施設と産業団地の工場物件を並べ、立地、規模、価格条件を比較できる資料として示された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "东滩新城9.8%档超市与牙山产业园大型工厂入选5月11日MK推荐房源",
+        "excerpt": "每日经济在5月11日MK推荐房源中介绍了东滩2新城总部直营超市、牙山市仁州面产业园内大型工厂等主要房地产标的。",
+        "body": "每日经济在5月11日的MK推荐房源中，介绍了东滩2新城收益率约9.8%档的总部直营超市，以及忠南牙山市仁州面产业园内的大型工厂等标的。东滩2新城房源为总部直营超市，报价为30.7亿韩元。牙山市仁州面产业园内大型工厂的工厂用地面积为25,330㎡，总建筑面积为17,865㎡，由一座210m*80m的大型单层工厂和地上3层办公楼组成，报价为260亿韩元。该清单同时涵盖收益型商业设施和产业园工厂房源，为投资者和实际需求方比较区位、规模和价格条件提供资料。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Supermercado en Dongtan al 9,8% y gran fábrica en Asan destacan en selecciones MK del 11 de mayo",
+        "excerpt": "Maeil Business Newspaper presentó el 11 de mayo propiedades recomendadas por MK, entre ellas un supermercado operado por la sede en Dongtan 2 y una gran fábrica en Asan.",
+        "body": "Maeil Business Newspaper presentó en sus propiedades recomendadas por MK del 11 de mayo un supermercado operado directamente por la sede en Dongtan 2 New Town, con rentabilidad en el rango del 9,8%, y una gran fábrica en el complejo industrial de Inju-myeon, Asan, Chungnam. La propiedad de Dongtan 2 fue presentada como un supermercado operado por la sede, con un precio de 3.070 millones de wones. La fábrica de Asan ocupa un terreno industrial de 25.330 m² y tiene una superficie construida total de 17.865 m². Está compuesta por una gran nave de una planta de 210m*80m y un edificio de oficinas de tres plantas sobre rasante. El precio indicado es de 26.000 millones de wones. La lista reúne un activo comercial de renta y una fábrica en parque industrial para comparar ubicación, escala y precio. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Supermercado em Dongtan com 9,8% e grande fábrica em Asan lideram indicações MK de 11 de maio",
+        "excerpt": "O Maeil Business Newspaper destacou em 11 de maio, nas recomendações MK, um supermercado operado pela matriz em Dongtan 2 e uma grande fábrica no complexo industrial de Asan.",
+        "body": "O Maeil Business Newspaper apresentou, nas recomendações MK de 11 de maio, um supermercado operado diretamente pela matriz em Dongtan 2 New Town, com rendimento na faixa de 9,8%, e uma grande fábrica no complexo industrial de Inju-myeon, em Asan, Chungnam. O imóvel de Dongtan 2 foi apresentado como supermercado operado pela matriz, com preço de 3,07 bilhões de won. A fábrica de Asan fica em terreno industrial de 25.330 m² e tem área total construída de 17.865 m². A estrutura inclui uma grande fábrica térrea de 210m*80m e um prédio administrativo de três pavimentos acima do solo. O preço indicado é de 26 bilhões de won. A lista reúne imóvel comercial gerador de renda e fábrica em complexo industrial para comparação de localização, escala e preço. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dongtan-Supermarkt mit 9,8% und große Asan-Fabrik in MK-Empfehlungen vom 11. Mai",
+        "excerpt": "Maeil Business Newspaper stellte am 11. Mai in den MK-Empfehlungen einen von der Zentrale betriebenen Supermarkt in Dongtan 2 und eine große Fabrik im Industriegebiet Asan vor.",
+        "body": "Maeil Business Newspaper stellte in den MK-Empfehlungen vom 11. Mai unter anderem einen von der Zentrale betriebenen Supermarkt in Dongtan 2 New Town mit einer Rendite im Bereich von 9,8% sowie eine große Fabrik im Industriekomplex Inju-myeon in Asan, Chungnam, vor. Das Objekt in Dongtan 2 wurde als direkt von der Zentrale betriebener Supermarkt mit einem Preis von 3,07 Milliarden Won genannt. Die Fabrik in Asan umfasst ein Fabrikgrundstück von 25.330 m² und eine Gesamtfläche von 17.865 m². Sie besteht aus einer großen eingeschossigen Fabrik mit 210m*80m und einem dreigeschossigen Bürogebäude. Der angegebene Preis beträgt 26 Milliarden Won. Die Liste stellt ein ertragsorientiertes Handelsobjekt und eine Fabrik in einem Industriegebiet gegenüber, sodass Lage, Größe und Preisbedingungen vergleichbar sind. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Supermarché à Dongtan à 9,8 % et grande usine à Asan dans les biens MK du 11 mai",
+        "excerpt": "Maeil Business Newspaper a présenté le 11 mai, dans ses biens recommandés MK, un supermarché exploité par le siège à Dongtan 2 et une grande usine dans le complexe industriel d’Asan.",
+        "body": "Maeil Business Newspaper a présenté, dans les biens recommandés MK du 11 mai, un supermarché exploité directement par le siège à Dongtan 2 New Town, avec un rendement dans la zone de 9,8 %, ainsi qu’une grande usine située dans le complexe industriel d’Inju-myeon, à Asan, dans le Chungnam. Le bien de Dongtan 2 est présenté comme un supermarché exploité par le siège, au prix de 3,07 milliards de wons. L’usine d’Asan occupe un terrain industriel de 25 330 m² et affiche une surface totale de plancher de 17 865 m². Elle comprend une grande usine de plain-pied de 210m*80m et un bâtiment de bureaux de trois étages hors sol. Le prix indiqué est de 26 milliards de wons. Cette sélection réunit un actif commercial générateur de revenus et une usine en zone industrielle pour comparer emplacement, taille et prix. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سوبرماركت دونغتان بعائد 9.8% ومصنع كبير في آسان ضمن عقارات MK الموصى بها في 11 مايو",
+        "excerpt": "عرضت صحيفة Maeil Business Newspaper في 11 مايو ضمن عقارات MK الموصى بها سوبرماركت تديره الشركة في دونغتان 2 ومصنعا كبيرا في مجمع آسان الصناعي.",
+        "body": "عرضت صحيفة Maeil Business Newspaper في قائمة عقارات MK الموصى بها ليوم 11 مايو سوبرماركت تديره الشركة مباشرة في مدينة دونغتان 2 الجديدة بعائد في نطاق 9.8%، إلى جانب مصنع كبير داخل المجمع الصناعي في إنجو-ميون بمدينة آسان في تشونغنام. وقدم عقار دونغتان 2 كسوبرماركت تديره الشركة، بسعر 3.07 مليار وون. أما مصنع آسان فيقع على أرض صناعية مساحتها 25,330 متر مربع، وتبلغ مساحته الإجمالية 17,865 متر مربع. ويتكون من مصنع كبير بطابق واحد بقياس 210m*80m ومبنى مكاتب من ثلاثة طوابق فوق الأرض. السعر المعروض هو 26 مليار وون. وتجمع القائمة بين منشأة تجارية مدرة للدخل ومصنع في مجمع صناعي للمقارنة بين الموقع والحجم والسعر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डोंगटन 9.8% सुपरमार्केट और आसान औद्योगिक फैक्टरी 11 मई की MK अनुशंसित संपत्तियों में",
+        "excerpt": "Maeil Business Newspaper ने 11 मई की MK अनुशंसित संपत्तियों में डोंगटन 2 न्यू टाउन के मुख्यालय संचालित सुपरमार्केट और आसान के इंजू औद्योगिक परिसर की बड़ी फैक्टरी को शामिल किया।",
+        "body": "Maeil Business Newspaper ने 11 मई की MK अनुशंसित संपत्तियों में डोंगटन 2 न्यू टाउन के 9.8% श्रेणी वाले मुख्यालय संचालित सुपरमार्केट और चुंगनाम के आसान शहर के इंजू-म्योन औद्योगिक परिसर में स्थित बड़ी फैक्टरी सहित कई संपत्तियां पेश कीं। डोंगटन 2 न्यू टाउन की संपत्ति मुख्यालय द्वारा सीधे संचालित सुपरमार्केट के रूप में दी गई है, जिसकी कीमत 3.07 अरब वॉन है। आसान के इंजू-म्योन औद्योगिक परिसर की बड़ी फैक्टरी 25,330 वर्ग मीटर फैक्टरी भूमि और 17,865 वर्ग मीटर कुल फ्लोर एरिया पर बनी है। इसमें 210m*80m की बड़ी एकमंजिला फैक्टरी और जमीन के ऊपर तीन मंजिलों वाला कार्यालय भवन शामिल है। इसकी बताई गई कीमत 26 अरब वॉन है। यह सूची आय देने वाली वाणिज्यिक सुविधा और औद्योगिक परिसर की फैक्टरी को स्थान, आकार और कीमत की तुलना के लिए प्रस्तुत करती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Supermarket Dongtan 9,8% dan Pabrik Besar Asan Masuk Rekomendasi MK 11 Mei",
+        "excerpt": "Maeil Business Newspaper pada 11 Mei menampilkan properti rekomendasi MK, termasuk supermarket yang dioperasikan kantor pusat di Dongtan 2 dan pabrik besar di kawasan industri Asan.",
+        "body": "Maeil Business Newspaper dalam rekomendasi properti MK tanggal 11 Mei memperkenalkan supermarket yang dioperasikan langsung oleh kantor pusat di Dongtan 2 New Town dengan kisaran imbal hasil 9,8%, serta pabrik besar di kawasan industri Inju-myeon, Asan, Chungnam. Properti Dongtan 2 disajikan sebagai supermarket yang dioperasikan kantor pusat dengan harga 3,07 miliar won. Pabrik besar di kawasan industri Inju-myeon, Asan, memiliki lahan pabrik 25.330 m² dan luas lantai total 17.865 m². Bangunannya terdiri dari pabrik besar satu lantai berukuran 210m*80m dan gedung kantor tiga lantai di atas tanah. Harga yang ditawarkan adalah 26 miliar won. Daftar ini menyandingkan fasilitas komersial penghasil pendapatan dan pabrik kawasan industri agar lokasi, skala, dan harga dapat dibandingkan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ce17cc0ed359",
+    "slug": "엔비디아랑-구글-어느-쪽이-유망하죠장단기-투자전략-들어보니-442168",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T21:56:13.389Z",
+    "updatedAt": "2026-05-10T21:56:13.389Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042849",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042849",
+    "titleFingerprint": "9d7463a3c4691f66814b4467742f25e4ac19e184",
+    "dedupKeys": [
+      "ce17cc0ed3596fec2935c72cdde6f48d26b8fe67",
+      "9d7463a3c4691f66814b4467742f25e4ac19e184",
+      "f35883dfce028b668a925b9b8002bf5be4647c75"
+    ],
+    "imageUrl": "/images/articles/ce17cc0ed359.jpg",
+    "i18n": {
+      "ko": {
+        "title": "엔비디아·구글 AI 패권 경쟁, 단기 GPU와 장기 데이터센터 전략은",
+        "excerpt": "AI 패권을 두고 맞붙은 엔비디아와 구글 투자전략이 주목받는다. GPU와 메모리, 하이퍼스케일러 데이터센터 수요가 반도체·컴퓨팅 투자 판단의 핵심으로 떠올랐다.",
+        "body": "엔비디아와 구글을 둘러싼 투자전략 논의가 AI 패권 경쟁 속에서 주목받고 있다. 원문은 시가총액 1, 2위 기업이 맞붙는 구도에서 단기적으로는 AI 반도체 투자 수혜가 엔비디아에 집중됐다고 전했다. GPU 수요가 엔비디아를 시총 왕좌에 올렸고, 마이크론의 메모리 사업도 급성장 흐름을 보였다는 설명이다. 장기적으로는 AI 시대의 ‘금광’으로 불리는 하이퍼스케일러 컴퓨팅과 데이터센터 수요가 급증하며 알파벳 등 대형 기술주의 전략적 의미가 커지고 있다. 투자자는 GPU와 메모리의 단기 모멘텀, 데이터센터 인프라의 장기 수요를 함께 살펴야 한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nvidia vs Google in the AI race: GPU momentum and data center strategy",
+        "excerpt": "Investment strategies for Nvidia and Google are drawing attention as the AI leadership race intensifies, with GPUs, memory and hyperscaler data center demand shaping semiconductor and computing views.",
+        "body": "Investment strategies around Nvidia and Google are in focus as the two compete for AI leadership. The original report said that, in a contest involving the No. 1 and No. 2 companies by market value, the short-term benefits of AI semiconductor investment have been concentrated in Nvidia. Strong GPU demand lifted Nvidia to the top of the market-cap rankings, while Micron’s memory business also showed rapid growth. Over the longer term, demand for hyperscaler computing and data centers, described as a gold mine of the AI era, is rising sharply, increasing the strategic relevance of Alphabet and other major tech stocks. Investors need to weigh short-term GPU and memory momentum alongside long-term demand for data center infrastructure. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "エヌビディア対グーグルのAI競争、GPUとデータセンター戦略に注目",
+        "excerpt": "AI覇権を争うエヌビディアとグーグルの投資戦略が注目される。GPU、メモリー、ハイパースケーラーのデータセンター需要が判断材料になっている。",
+        "body": "AI覇権競争の中で、エヌビディアとグーグルをめぐる投資戦略が注目されている。原文は、時価総額1、2位企業が競う構図で、短期的にはAI半導体投資の恩恵がエヌビディアに集中していると伝えた。GPU需要がエヌビディアを時価総額首位に押し上げ、マイクロンのメモリー事業も急成長の流れを見せたという。長期的には、AI時代の「金鉱」とされるハイパースケーラー向けコンピューティングとデータセンター需要が急増し、アルファベットなど大型テック株の戦略的意味が高まっている。投資家はGPUとメモリーの短期モメンタム、データセンターインフラの長期需要をあわせて見る必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "英伟达与谷歌AI竞逐：GPU短期动能和数据中心长期策略受关注",
+        "excerpt": "英伟达与谷歌围绕AI主导权的投资策略受到关注。GPU、存储器以及超大规模计算和数据中心需求，成为半导体与计算投资判断的核心。",
+        "body": "在AI主导权竞争加剧之际，围绕英伟达和谷歌的投资策略受到关注。原文称，在市值排名前两位企业交锋的格局下，短期内AI半导体投资的最大受益集中在英伟达。GPU需求把英伟达推上了市值王座，镁光的存储器业务也呈现快速增长。长期来看，被称为AI时代“金矿”的超大规模计算和数据中心需求正在激增，Alphabet等大型科技股的战略意义随之上升。投资者需要同时关注GPU与存储器的短期动能，以及数据中心基础设施的长期需求。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Nvidia y Google en la carrera de IA: GPU a corto plazo y centros de datos",
+        "excerpt": "Las estrategias de inversión en Nvidia y Google ganan atención en la pugna por la IA, mientras GPU, memoria y demanda de centros de datos de hiperescaladores guían el análisis.",
+        "body": "Las estrategias de inversión en torno a Nvidia y Google están bajo la lupa en medio de la competencia por el liderazgo en IA. El texto original señaló que, en una disputa entre las compañías número 1 y 2 por capitalización bursátil, el beneficio de corto plazo de la inversión en semiconductores de IA se ha concentrado en Nvidia. La demanda de GPU llevó a Nvidia al primer lugar por valor de mercado, mientras el negocio de memoria de Micron también mostró rápido crecimiento. A más largo plazo, la demanda de computación de hiperescaladores y centros de datos, descrita como una mina de oro de la era de la IA, crece con fuerza y eleva la relevancia estratégica de Alphabet y otras grandes tecnológicas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Nvidia e Google na disputa de IA: GPUs no curto prazo e data centers no longo",
+        "excerpt": "As estratégias de investimento em Nvidia e Google chamam atenção na corrida pela IA, com GPUs, memória e demanda de data centers de hiperescaladores no centro da análise.",
+        "body": "As estratégias de investimento ligadas a Nvidia e Google ganham destaque em meio à disputa pela liderança em IA. O texto original afirmou que, em uma competição entre as empresas de maior valor de mercado, os ganhos de curto prazo do investimento em semicondutores de IA se concentraram na Nvidia. A demanda por GPUs levou a Nvidia ao topo em valor de mercado, enquanto o negócio de memória da Micron também mostrou rápido crescimento. No longo prazo, a demanda por computação de hiperescaladores e data centers, descrita como a mina de ouro da era da IA, cresce rapidamente e aumenta a importância estratégica da Alphabet e de outras grandes empresas de tecnologia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nvidia gegen Google im KI-Rennen: GPUs kurzfristig, Rechenzentren langfristig",
+        "excerpt": "Anlagestrategien für Nvidia und Google rücken im KI-Machtkampf in den Fokus. GPUs, Speicher und die Nachfrage nach Hyperscaler-Rechenzentren prägen die Bewertung.",
+        "body": "Die Anlagestrategien rund um Nvidia und Google stehen im Fokus, während der Wettbewerb um die KI-Führungsrolle an Schärfe gewinnt. Der Originalbericht erklärte, dass in der Konstellation der nach Börsenwert führenden Unternehmen die kurzfristigen Vorteile von Investitionen in KI-Halbleiter vor allem Nvidia zugutekamen. Die Nachfrage nach GPUs brachte Nvidia an die Spitze der Marktkapitalisierung, während auch Microns Speichergeschäft stark wuchs. Langfristig steigt die Nachfrage nach Hyperscaler-Computing und Rechenzentren, die als Goldmine des KI-Zeitalters beschrieben wird, deutlich an. Dadurch nimmt die strategische Bedeutung von Alphabet und anderen großen Technologiewerten zu. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Nvidia et Google dans la course à l’IA : GPU à court terme, data centers ensuite",
+        "excerpt": "Les stratégies d’investissement autour de Nvidia et Google attirent l’attention dans la course à l’IA, avec les GPU, la mémoire et les data centers d’hyperscalers comme axes clés.",
+        "body": "Les stratégies d’investissement autour de Nvidia et Google sont observées de près dans la compétition pour la domination de l’IA. Le texte original indique que, dans une rivalité entre les entreprises classées première et deuxième par capitalisation, les bénéfices à court terme de l’investissement dans les semi-conducteurs d’IA se sont concentrés sur Nvidia. La demande de GPU a porté Nvidia au sommet de la capitalisation boursière, tandis que l’activité mémoire de Micron a aussi connu une forte croissance. À plus long terme, la demande de calcul des hyperscalers et de data centers, présentée comme une mine d’or de l’ère de l’IA, augmente rapidement, renforçant l’importance stratégique d’Alphabet et des grandes valeurs technologiques. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إنفيديا وغوغل في سباق الذكاء الاصطناعي: زخم GPU ومراكز البيانات",
+        "excerpt": "تجذب استراتيجيات الاستثمار في إنفيديا وغوغل الاهتمام مع احتدام سباق الذكاء الاصطناعي، إذ تحدد وحدات GPU والذاكرة وطلب مراكز بيانات الشركات الضخمة اتجاه التقييم.",
+        "body": "تتركز الأنظار على استراتيجيات الاستثمار المرتبطة بإنفيديا وغوغل مع تصاعد المنافسة على قيادة الذكاء الاصطناعي. وذكر النص الأصلي أنه في مواجهة بين الشركتين الأولى والثانية من حيث القيمة السوقية، تتركز الفوائد القصيرة الأجل لاستثمارات أشباه موصلات الذكاء الاصطناعي في إنفيديا. فقد رفع الطلب على وحدات GPU إنفيديا إلى صدارة القيمة السوقية، كما أظهر نشاط الذاكرة لدى ميكرون نموا سريعا. وعلى المدى الطويل، يرتفع الطلب على حوسبة الشركات فائقة النطاق ومراكز البيانات، التي توصف بأنها منجم ذهب عصر الذكاء الاصطناعي، ما يعزز الأهمية الاستراتيجية لألفابت وشركات التكنولوجيا الكبرى. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Nvidia बनाम Google AI दौड़: GPU की तेजी और डेटा सेंटर रणनीति पर नजर",
+        "excerpt": "AI वर्चस्व की दौड़ में Nvidia और Google की निवेश रणनीति चर्चा में है। GPU, मेमोरी और हाइपरस्केलर डेटा सेंटर मांग से सेमीकंडक्टर और कंप्यूटिंग निवेश का आकलन तय हो रहा है।",
+        "body": "AI वर्चस्व की प्रतिस्पर्धा के बीच Nvidia और Google से जुड़ी निवेश रणनीति पर ध्यान बढ़ा है। मूल लेख के अनुसार, बाजार पूंजीकरण में शीर्ष कंपनियों की इस टक्कर में अल्पकालिक रूप से AI सेमीकंडक्टर निवेश का लाभ Nvidia पर केंद्रित रहा है। GPU मांग ने Nvidia को बाजार पूंजीकरण के शीर्ष पर पहुंचाया, जबकि Micron का मेमोरी कारोबार भी तेज वृद्धि दिखा रहा है। लंबी अवधि में, AI युग की ‘सोने की खान’ कहे जाने वाले हाइपरस्केलर कंप्यूटिंग और डेटा सेंटर की मांग तेजी से बढ़ रही है, जिससे Alphabet जैसी बड़ी टेक कंपनियों का रणनीतिक महत्व बढ़ता है। निवेशकों को GPU और मेमोरी की अल्पकालिक गति के साथ डेटा सेंटर इन्फ्रास्ट्रक्चर की दीर्घकालिक मांग भी देखनी होगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Nvidia vs Google dalam AI: momentum GPU dan strategi pusat data jadi fokus",
+        "excerpt": "Strategi investasi Nvidia dan Google menjadi sorotan dalam perebutan dominasi AI, saat GPU, memori, serta permintaan pusat data hyperscaler menjadi faktor utama penilaian.",
+        "body": "Strategi investasi terkait Nvidia dan Google menjadi perhatian di tengah persaingan dominasi AI. Naskah asli menyebut, dalam persaingan perusahaan bernilai pasar peringkat 1 dan 2, manfaat jangka pendek dari investasi semikonduktor AI terkonsentrasi pada Nvidia. Permintaan GPU mengangkat Nvidia ke posisi puncak kapitalisasi pasar, sementara bisnis memori Micron juga menunjukkan pertumbuhan cepat. Dalam jangka panjang, permintaan komputasi hyperscaler dan pusat data, yang disebut sebagai tambang emas era AI, meningkat tajam dan memperbesar makna strategis Alphabet serta saham teknologi besar lain. Investor perlu mencermati momentum jangka pendek GPU dan memori bersama permintaan jangka panjang infrastruktur pusat data. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d5cb6b9b54e6",
     "slug": "점주-90가-당했다명륜진사갈비-돈놀이에-칼-빼든-정부-980474",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Iran Serahkan Jawaban atas Usulan AS untuk Akhiri Konflik kepada Pakistan",
         "excerpt": "Iran dilaporkan menyerahkan jawaban atas usulan AS untuk mengakhiri konflik kepada Pakistan sebagai mediator pada 10 Mei waktu setempat, di tengah gencatan senjata yang rapuh.",
         "body": "Iran dilaporkan menyerahkan jawaban atas usulan Amerika Serikat untuk mengakhiri konflik kepada Pakistan, negara mediator, pada 10 Mei waktu setempat. Kedua pihak selama ini berada dalam kondisi gencatan senjata yang rapuh, dan penyerahan jawaban tersebut dapat membawa negosiasi ke fase baru. Laporan asli tidak memuat rincian isi jawaban, tanggapan pihak AS, atau jadwal pembicaraan berikutnya. Namun, konfirmasi penyampaian sikap resmi melalui mediator membuat keberlanjutan gencatan senjata dan kemungkinan dimulainya kembali negosiasi menjadi perhatian utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f5a6a5394cba",
-    "slug": "123개-국정과제-입법완수일하는-국회의장-되겠다-908851",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T13:57:05.954Z",
-    "updatedAt": "2026-05-10T13:57:05.954Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042730",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042730",
-    "titleFingerprint": "24f7e4cc17912333098b70a5af6cd93b3f9d631b",
-    "dedupKeys": [
-      "f5a6a5394cbadb7e8695fd29a3bf10dcb25a48ed",
-      "24f7e4cc17912333098b70a5af6cd93b3f9d631b",
-      "017e695fcdf1d7f3bddf9aee6a75bc9264c84b23"
-    ],
-    "imageUrl": "/images/articles/f5a6a5394cba.jpg",
-    "i18n": {
-      "ko": {
-        "title": "김태년, 국회의장 출마 선언…123개 국정과제 입법완수 강조",
-        "excerpt": "22대 국회 후반기 국회의장 선거에 출마한 김태년 더불어민주당 의원은 국민이 부여한 개혁 과제를 성과로 만들겠다며 ‘일하는 의장’을 약속했다.",
-        "body": "김태년 더불어민주당 의원이 22대 국회 후반기 국회의장 선거에 출마하며 123개 국정과제의 입법 완수를 강조했다. 5선 의원인 김 의원은 국민이 부여한 개혁 과제를 실질적인 성과로 만들어내는 ‘일하는 국회의장’이 되겠다고 밝혔다. 이번 발언은 후반기 의장 선거 국면에서 국회의 역할과 입법 성과를 전면에 내세운 메시지다. 그는 개혁 과제의 완수와 국정과제 입법을 핵심 목표로 제시했다. 향후 의장 선거 과정에서 입법 추진력과 성과 중심 운영이 주요 쟁점으로 부각될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kim Tae-nyeon Runs for Assembly Speaker, Vows to Finish 123 Bills",
-        "excerpt": "Kim Tae-nyeon, a five-term Democratic Party lawmaker running for speaker in the latter half of South Korea’s 22nd National Assembly, pledged to become a “working speaker.”",
-        "body": "Kim Tae-nyeon of the Democratic Party of Korea has entered the race for speaker in the latter half of the 22nd National Assembly, stressing completion of legislation tied to 123 national agenda items. The five-term lawmaker said he would become a “working National Assembly speaker” who turns reform tasks entrusted by the public into concrete results. His message puts the Assembly’s role and legislative performance at the center of the speaker race. Kim presented completion of reform tasks and passage of national agenda legislation as key goals. Legislative drive and results-focused management are expected to become major points in the contest. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "金太年氏が国会議長選に出馬、123国政課題の立法完遂を強調",
-        "excerpt": "第22代国会後半期の国会議長選に出馬した共に民主党の金太年議員は、国民が託した改革課題を成果にする「働く議長」を約束した。",
-        "body": "共に民主党の金太年議員が、第22代国会後半期の国会議長選に出馬し、123の国政課題に関する立法完遂を強調した。5選の金議員は、国民が託した改革課題を実質的な成果に結びつける「働く国会議長」になると述べた。今回の発言は、後半期議長選の局面で国会の役割と立法成果を前面に出すメッセージだ。金氏は改革課題の完遂と国政課題の立法を核心目標として提示した。今後の議長選では、立法推進力と成果中心の運営が主要な争点になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "金太年宣布竞选国会议长，强调完成123项国政课题立法",
-        "excerpt": "韩国共同民主党五届议员金太年参选第22届国会后半期议长选举，承诺把国民赋予的改革课题转化为实际成果。",
-        "body": "韩国共同民主党议员金太年宣布参选第22届国会后半期国会议长选举，并强调完成123项国政课题的立法。作为五届议员，金太年表示，将成为把国民赋予的改革课题转化为实际成果的“工作的国会议长”。这一表态是在后半期议长选举局面中，将国会作用和立法成果置于前台的信息。金太年把完成改革课题和推进国政课题立法列为核心目标。今后的议长选举过程中，立法推动力和以成果为中心的运营预计将成为主要焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kim Tae-nyeon aspira a presidir la Asamblea y promete 123 reformas",
-        "excerpt": "Kim Tae-nyeon, diputado de cinco mandatos del Partido Democrático, se presentó a la elección de presidente de la segunda mitad de la 22.ª Asamblea Nacional surcoreana.",
-        "body": "Kim Tae-nyeon, diputado del Partido Democrático de Corea, se presentó a la elección de presidente de la segunda mitad de la 22.ª Asamblea Nacional y subrayó la finalización legislativa de 123 tareas de gobierno. El legislador de cinco mandatos dijo que será un “presidente de la Asamblea que trabaja” para convertir las tareas de reforma otorgadas por la ciudadanía en resultados concretos. Su mensaje sitúa el papel de la Asamblea y los logros legislativos en el centro de la contienda. Kim planteó como objetivos clave completar las reformas y legislar las tareas nacionales. La capacidad de impulsar leyes y una gestión centrada en resultados serán temas principales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kim Tae-nyeon disputa presidência da Assembleia e promete 123 leis",
-        "excerpt": "Kim Tae-nyeon, deputado de cinco mandatos do Partido Democrático, entrou na disputa pela presidência da segunda metade da 22ª Assembleia Nacional da Coreia do Sul.",
-        "body": "Kim Tae-nyeon, deputado do Partido Democrático da Coreia, entrou na disputa pela presidência da segunda metade da 22ª Assembleia Nacional e destacou a conclusão legislativa de 123 tarefas de governo. O parlamentar de cinco mandatos afirmou que será um “presidente da Assembleia que trabalha”, capaz de transformar as tarefas de reforma confiadas pelo povo em resultados concretos. A declaração coloca o papel da Assembleia e o desempenho legislativo no centro da eleição. Kim apresentou como metas principais concluir as reformas e aprovar a legislação das tarefas nacionais. O impulso legislativo e a gestão focada em resultados devem ganhar destaque. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kim Tae-nyeon kandidiert als Parlamentschef und verspricht 123 Reformen",
-        "excerpt": "Kim Tae-nyeon, fünffacher Abgeordneter der Demokratischen Partei Koreas, tritt bei der Wahl zum Sprecher der zweiten Hälfte der 22. Nationalversammlung an.",
-        "body": "Kim Tae-nyeon von der Demokratischen Partei Koreas kandidiert bei der Wahl zum Sprecher der zweiten Hälfte der 22. Nationalversammlung und betont den Abschluss der Gesetzgebung zu 123 Regierungsaufgaben. Der fünffache Abgeordnete sagte, er wolle ein „arbeitender Sprecher der Nationalversammlung“ sein, der die vom Volk übertragenen Reformaufgaben in konkrete Ergebnisse umsetzt. Seine Botschaft rückt die Rolle des Parlaments und legislative Erfolge in den Mittelpunkt der Wahl. Kim nannte den Abschluss der Reformaufgaben und die Gesetzgebung zu den Regierungsaufgaben als Kernziele. Gesetzgeberischer Antrieb und ergebnisorientierte Führung dürften wichtige Themen werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kim Tae-nyeon candidat à la présidence de l’Assemblée, cap sur 123 textes",
-        "excerpt": "Kim Tae-nyeon, député démocrate sud-coréen élu cinq fois, s’est lancé dans la course à la présidence de la seconde moitié de la 22e Assemblée nationale.",
-        "body": "Kim Tae-nyeon, député du Parti démocrate de Corée, s’est porté candidat à la présidence de la seconde moitié de la 22e Assemblée nationale et a mis l’accent sur l’achèvement législatif de 123 tâches gouvernementales. L’élu, qui en est à son cinquième mandat, a déclaré vouloir être un « président de l’Assemblée qui travaille », capable de transformer les réformes confiées par le public en résultats concrets. Son message place le rôle de l’Assemblée et les résultats législatifs au centre de la course. Kim a présenté l’achèvement des réformes et l’adoption des textes liés aux priorités nationales comme objectifs clés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كيم تاي نيون يترشح لرئاسة البرلمان ويتعهد بإنجاز 123 تشريعا",
-        "excerpt": "أعلن كيم تاي نيون، النائب لخمسة دورات عن الحزب الديمقراطي الكوري، خوضه انتخابات رئاسة النصف الثاني من الجمعية الوطنية الـ22 متعهدا بأن يكون «رئيسا عاملا».",
-        "body": "أعلن كيم تاي نيون، النائب عن الحزب الديمقراطي الكوري، ترشحه لانتخابات رئاسة النصف الثاني من الجمعية الوطنية الـ22، مؤكدا إنجاز التشريعات المرتبطة بـ123 مهمة حكومية. وقال النائب المنتخب لخمس دورات إنه سيصبح «رئيسا عاملا للجمعية الوطنية» يحول مهام الإصلاح التي منحها الشعب إلى نتائج ملموسة. وتضع هذه الرسالة دور البرلمان والإنجاز التشريعي في صدارة سباق الرئاسة. وقدم كيم استكمال مهام الإصلاح وتشريع الأولويات الحكومية كهدفين أساسيين. ومن المتوقع أن تبرز القدرة على دفع التشريعات والإدارة القائمة على النتائج كقضيتين رئيسيتين في الانتخابات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "किम ताए-न्योन स्पीकर चुनाव में, 123 राष्ट्रीय कार्यों पर जोर",
-        "excerpt": "डेमोक्रेटिक पार्टी के पांच बार के सांसद किम ताए-न्योन ने दक्षिण कोरिया की 22वीं नेशनल असेंबली के उत्तरार्ध के स्पीकर चुनाव में उतरते हुए ‘काम करने वाला स्पीकर’ बनने का वादा किया।",
-        "body": "डेमोक्रेटिक पार्टी ऑफ कोरिया के सांसद किम ताए-न्योन ने 22वीं नेशनल असेंबली के उत्तरार्ध के स्पीकर चुनाव में उतरते हुए 123 राष्ट्रीय कार्यों से जुड़े कानूनों को पूरा करने पर जोर दिया। पांच बार के सांसद किम ने कहा कि वह ऐसे “काम करने वाले नेशनल असेंबली स्पीकर” बनेंगे जो जनता द्वारा सौंपे गए सुधार कार्यों को ठोस परिणामों में बदलेंगे। यह बयान स्पीकर चुनाव में असेंबली की भूमिका और विधायी उपलब्धियों को केंद्र में रखता है। किम ने सुधार कार्यों की पूर्ति और राष्ट्रीय एजेंडा से जुड़े कानूनों को मुख्य लक्ष्य बताया। आगे विधायी गति और परिणाम-केंद्रित संचालन प्रमुख मुद्दे बन सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kim Tae-nyeon Maju Jadi Ketua Majelis, Tekankan 123 Agenda Legislasi",
-        "excerpt": "Kim Tae-nyeon, anggota parlemen lima periode dari Partai Demokrat Korea, maju dalam pemilihan ketua paruh kedua Majelis Nasional ke-22 dan menjanjikan ketua yang bekerja.",
-        "body": "Kim Tae-nyeon dari Partai Demokrat Korea maju dalam pemilihan ketua paruh kedua Majelis Nasional ke-22 dan menekankan penyelesaian legislasi untuk 123 agenda nasional. Anggota parlemen lima periode itu mengatakan akan menjadi “ketua Majelis Nasional yang bekerja” dengan mengubah tugas reformasi yang diberikan rakyat menjadi hasil nyata. Pernyataan ini menempatkan peran Majelis dan capaian legislasi di pusat kontestasi ketua. Kim menyajikan penyelesaian tugas reformasi dan legislasi agenda nasional sebagai tujuan utama. Dalam proses pemilihan mendatang, dorongan legislasi dan pengelolaan berbasis hasil diperkirakan menjadi isu penting. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1c0ecea27102",
-    "slug": "달성-출신도-국힘-대구-당원-1300명-탈당-후-김부겸-지지-선언-535413",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T13:56:04.294Z",
-    "updatedAt": "2026-05-10T13:56:04.294Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042827",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042827",
-    "titleFingerprint": "f46e971af3e28218c661cdb7c0a81d4eb24c29f1",
-    "dedupKeys": [
-      "1c0ecea27102c8290b93e0d7fbfd08997586af77",
-      "f46e971af3e28218c661cdb7c0a81d4eb24c29f1",
-      "9ab9d6fd1dfff4546370d13a406936c68d0a836c"
-    ],
-    "imageUrl": "/images/articles/1c0ecea27102.png",
-    "i18n": {
-      "ko": {
-        "title": "국민의힘 대구 당원 1300명 탈당, 김부겸 지지 선언 파장",
-        "excerpt": "국민의힘 대구 책임당원과 평당원 등 1300여명이 10일 집단 탈당한 뒤 김부겸 더불어민주당 대구시장 후보 지지를 선언했다고 김 후보 캠프가 밝혔다.",
-        "body": "국민의힘 대구 당원 1300여명이 10일 집단 탈당한 뒤 김부겸 더불어민주당 대구시장 후보 지지를 선언했다. 김 후보 캠프에 따르면 이날 대구에서 활동하는 국민의힘 책임당원과 평당원들이 탈당 후 김 후보 지지 의사를 공개했다. 원문 제목은 “달성 출신도…?”라는 표현으로 지역 내 파장을 전했다. 이번 움직임은 대구시장 선거 국면에서 여야 지지층 이동 사례로 주목된다. 다만 캠프가 밝힌 내용 외 추가 배경이나 향후 선거 영향은 원문에 제시되지 않았다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "1,300 People Power Party Members in Daegu Quit, Back Kim Boo-kyum",
-        "excerpt": "About 1,300 People Power Party members in Daegu, including regular and dues-paying members, left the party on the 10th and declared support for Democratic Party mayoral candidate Kim Boo-kyum, his camp said.",
-        "body": "About 1,300 People Power Party members in Daegu collectively left the party on the 10th and declared support for Kim Boo-kyum, the Democratic Party candidate for Daegu mayor. According to Kim’s campaign, dues-paying and regular party members active in Daegu publicly announced their backing after leaving the party. The original headline noted local attention with the phrase, “Even from Dalseong…?” The move is drawing notice as a case of voter-base movement during the Daegu mayoral race. No further background or election impact beyond the campaign’s statement was provided in the original report. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "大邱の国民の力党員1300人が離党、金富謙氏支持を表明",
-        "excerpt": "金富謙氏陣営によると、10日に大邱で活動する国民の力の責任党員や一般党員ら約1300人が集団離党し、民主党大邱市長候補の金氏支持を表明した。",
-        "body": "大邱の国民の力党員約1300人が10日、集団で離党した後、共に民主党の大邱市長候補である金富謙氏への支持を表明した。金氏陣営によれば、この日、大邱で活動する国民の力の責任党員と一般党員が離党後、金氏支持の意思を公にした。原文の見出しは「達城出身も…？」という表現で地域内の波紋を伝えた。今回の動きは大邱市長選の局面で、与野党支持層の移動事例として注目される。ただし、陣営が明らかにした内容以外の背景や今後の選挙への影響は原文で示されていない。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "大邱1300名国民力量党员退党，宣布支持金富谦",
-        "excerpt": "金富谦竞选阵营表示，约1300名在大邱活动的国民力量责任党员和普通党员于10日集体退党，并宣布支持共同民主党大邱市长候选人金富谦。",
-        "body": "约1300名大邱国民力量党员于10日集体退党，随后宣布支持共同民主党大邱市长候选人金富谦。据金富谦竞选阵营称，当天在大邱活动的国民力量责任党员和普通党员在退党后公开表达了支持金富谦的意向。原文标题以“达城出身也……？”的表述传达了当地反响。此次动向在大邱市长选举阶段被视为朝野支持层移动的一个案例而受到关注。不过，除竞选阵营公布的内容外，原文未提出更多背景或对今后选举影响的说明。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "1.300 afiliados del PPP en Daegu dejan el partido y apoyan a Kim Boo-kyum",
-        "excerpt": "El equipo de Kim Boo-kyum dijo que unos 1.300 miembros del People Power Party en Daegu abandonaron el partido el día 10 y declararon su apoyo al candidato demócrata a la alcaldía.",
-        "body": "Unos 1.300 miembros del People Power Party en Daegu abandonaron colectivamente el partido el día 10 y declararon su apoyo a Kim Boo-kyum, candidato del Partido Democrático a la alcaldía de Daegu. Según la campaña de Kim, miembros responsables y afiliados ordinarios activos en Daegu hicieron pública su intención de respaldarlo tras la salida. El titular original aludió al impacto local con la frase “¿También de Dalseong…?”. El movimiento llama la atención como un caso de desplazamiento de apoyos durante la carrera por la alcaldía de Daegu. El reporte original no ofreció más antecedentes ni evaluaciones sobre efectos electorales futuros aparte de lo señalado por la campaña. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "1.300 membros do PPP em Daegu deixam partido e apoiam Kim Boo-kyum",
-        "excerpt": "A campanha de Kim Boo-kyum afirmou que cerca de 1.300 membros do People Power Party em Daegu deixaram a legenda no dia 10 e declararam apoio ao candidato democrata à prefeitura.",
-        "body": "Cerca de 1.300 membros do People Power Party em Daegu deixaram coletivamente o partido no dia 10 e declararam apoio a Kim Boo-kyum, candidato do Partido Democrático à prefeitura de Daegu. Segundo a campanha de Kim, membros responsáveis e filiados comuns ativos em Daegu tornaram pública a intenção de apoiá-lo após a saída. A manchete original destacou a repercussão local com a expressão “Até de Dalseong…?”. O movimento chama atenção como um caso de deslocamento de base de apoio na disputa pela prefeitura de Daegu. O texto original não apresentou outros antecedentes nem efeitos eleitorais futuros além do informado pela campanha. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "1.300 PPP-Mitglieder in Daegu treten aus und unterstützen Kim Boo-kyum",
-        "excerpt": "Nach Angaben des Wahlkampfteams von Kim Boo-kyum traten am 10. rund 1.300 Mitglieder der People Power Party in Daegu aus und erklärten ihre Unterstützung für den demokratischen Bürgermeisterkandidaten.",
-        "body": "Rund 1.300 Mitglieder der People Power Party in Daegu sind am 10. gemeinsam aus der Partei ausgetreten und haben ihre Unterstützung für Kim Boo-kyum, den Kandidaten der Demokratischen Partei für das Bürgermeisteramt in Daegu, erklärt. Nach Angaben von Kims Wahlkampflager machten verantwortliche Parteimitglieder und einfache Mitglieder, die in Daegu aktiv sind, ihre Unterstützung nach dem Austritt öffentlich. Die ursprüngliche Überschrift verwies mit der Formulierung „Auch aus Dalseong…?“ auf die lokale Wirkung. Der Schritt gilt im Rennen um das Bürgermeisteramt von Daegu als beachteter Fall einer Verschiebung von Unterstützergruppen. Weitere Hintergründe oder mögliche Wahlauswirkungen nannte der Originalbericht nicht. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "1 300 membres du PPP à Daegu quittent le parti et soutiennent Kim Boo-kyum",
-        "excerpt": "Le camp de Kim Boo-kyum a indiqué qu’environ 1 300 membres du People Power Party à Daegu ont quitté collectivement le parti le 10 avant de soutenir le candidat démocrate à la mairie.",
-        "body": "Environ 1 300 membres du People Power Party à Daegu ont quitté collectivement le parti le 10, puis ont déclaré leur soutien à Kim Boo-kyum, candidat du Parti démocrate à la mairie de Daegu. Selon l’équipe de campagne de Kim, des membres responsables et des adhérents ordinaires actifs à Daegu ont rendu publique leur intention de le soutenir après leur départ. Le titre original évoquait l’écho local avec la formule « Même de Dalseong… ? ». Ce mouvement attire l’attention comme un cas de déplacement de soutiens dans la course municipale de Daegu. Le texte d’origine ne donne pas d’autres éléments de contexte ni d’évaluation sur l’impact électoral à venir. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "1300 عضو من حزب قوة الشعب في دايغو يستقيلون ويدعمون كيم بو-كيوم",
-        "excerpt": "قال معسكر كيم بو-كيوم إن نحو 1300 عضو من حزب قوة الشعب في دايغو، بينهم أعضاء مسؤولون وعاديون، استقالوا جماعيا في العاشر وأعلنوا دعمهم لمرشح الحزب الديمقراطي لمنصب عمدة دايغو.",
-        "body": "استقال نحو 1300 عضو من حزب قوة الشعب في دايغو جماعيا في العاشر، ثم أعلنوا دعمهم لكيم بو-كيوم، مرشح الحزب الديمقراطي لمنصب عمدة دايغو. ووفقا لمعسكر كيم، فإن أعضاء مسؤولين وأعضاء عاديين ينشطون في دايغو كشفوا علنا عن نيتهم دعمه بعد مغادرة الحزب. وأشار العنوان الأصلي إلى الصدى المحلي بعبارة “حتى من دالسونغ…؟”. وتحظى هذه الخطوة بالاهتمام بوصفها حالة انتقال في قاعدة التأييد خلال سباق عمدة دايغو. ولم يورد التقرير الأصلي خلفيات إضافية أو تقديرا لتأثيرها الانتخابي المقبل خارج ما أعلنه المعسكر. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "डेगू में PPP के 1,300 सदस्यों ने पार्टी छोड़ी, किम बू-क्यूम को समर्थन",
-        "excerpt": "किम बू-क्यूम के अभियान ने कहा कि डेगू में सक्रिय People Power Party के जिम्मेदार और सामान्य सदस्यों सहित करीब 1,300 लोगों ने 10 तारीख को सामूहिक रूप से पार्टी छोड़कर डेमोक्रेटिक मेयर उम्मीदवार का समर्थन किया।",
-        "body": "डेगू में People Power Party के करीब 1,300 सदस्यों ने 10 तारीख को सामूहिक रूप से पार्टी छोड़ दी और डेमोक्रेटिक पार्टी के डेगू मेयर उम्मीदवार किम बू-क्यूम के समर्थन की घोषणा की। किम के अभियान के अनुसार, डेगू में सक्रिय जिम्मेदार पार्टी सदस्यों और सामान्य सदस्यों ने पार्टी छोड़ने के बाद सार्वजनिक रूप से किम का समर्थन जताया। मूल शीर्षक ने “दालसोंग से भी…?” वाक्यांश के साथ स्थानीय असर को बताया। यह कदम डेगू मेयर चुनाव के दौरान समर्थक आधार में बदलाव के उदाहरण के रूप में ध्यान खींच रहा है। अभियान के बयान से अलग कोई अतिरिक्त पृष्ठभूमि या आगामी चुनावी प्रभाव मूल रिपोर्ट में नहीं दिया गया। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "1.300 Anggota PPP di Daegu Keluar Partai, Dukung Kim Boo-kyum",
-        "excerpt": "Kubu Kim Boo-kyum menyatakan sekitar 1.300 anggota People Power Party di Daegu, termasuk anggota penuh dan biasa, keluar massal pada tanggal 10 lalu menyatakan dukungan kepada calon wali kota dari Partai Demokrat.",
-        "body": "Sekitar 1.300 anggota People Power Party di Daegu keluar secara massal dari partai pada tanggal 10, lalu menyatakan dukungan kepada Kim Boo-kyum, calon wali kota Daegu dari Partai Demokrat. Menurut kubu Kim, anggota penuh dan anggota biasa yang aktif di Daegu secara terbuka menyampaikan dukungan setelah keluar dari partai. Judul asli menyoroti dampak lokal dengan frasa “Bahkan dari Dalseong…?”. Langkah ini menarik perhatian sebagai contoh pergeseran basis dukungan dalam pemilihan wali kota Daegu. Namun, laporan asli tidak memuat latar tambahan atau dampak pemilu mendatang selain keterangan dari kubu kampanye. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "d5d413688f7e",
-    "slug": "속보-베선트-미국-재무장관-13일-한국-방문-예정-564087",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T13:55:00.733Z",
-    "updatedAt": "2026-05-10T13:55:00.733Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042828",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042828",
-    "titleFingerprint": "763fc6e33b1728b1ce2582f0231bffdd0f47d0e4",
-    "dedupKeys": [
-      "d5d413688f7eb94fdf6bdd373b4869c26c3c40c5",
-      "763fc6e33b1728b1ce2582f0231bffdd0f47d0e4",
-      "25d60284bda67125e083d1b31e29ee04de28d8f5"
-    ],
-    "imageUrl": "/images/articles/d5d413688f7e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "베선트 미국 재무장관 13일 한국 방문 예정, 일정 발표 주목",
-        "excerpt": "베선트 미국 재무장관이 13일 한국을 방문할 예정이라고 밝혔다. 구체적인 방문 목적과 세부 일정은 원문에서 추가로 제시되지 않았다.",
-        "body": "베선트 미국 재무장관이 13일 한국을 방문할 예정이라고 밝혔다. 이번 소식은 미국 재무장관의 방한 일정이 언급됐다는 점에서 시장과 정책 당국의 관심을 끌 수 있다. 다만 원문에는 방문 목적, 체류 기간, 면담 대상, 논의 의제 등 구체적인 내용은 포함되지 않았다. 따라서 현재 확인된 사실은 베선트 장관이 13일 한국 방문을 예정하고 있다는 발표에 한정된다. 향후 공식 일정과 추가 발언이 나오면 방한의 배경과 의미가 더 분명해질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "US Treasury Secretary Bessent Plans Korea Visit on 13th, Schedule Draws Attention",
-        "excerpt": "US Treasury Secretary Bessent said he is scheduled to visit South Korea on the 13th. The original report did not provide further details on the purpose or itinerary.",
-        "body": "US Treasury Secretary Bessent said he is scheduled to visit South Korea on the 13th. The news may draw attention from markets and policy officials because it refers to a planned visit by the head of the US Treasury. However, the original report did not include specific details such as the purpose of the trip, length of stay, people to be met, or agenda items. The confirmed information is therefore limited to Bessent’s statement that he plans to visit South Korea on the 13th. Further official schedules or remarks may clarify the background and meaning of the visit. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ベッセント米財務長官、13日に韓国訪問予定と発言",
-        "excerpt": "ベッセント米財務長官は13日に韓国を訪問する予定だと明らかにした。訪問目的や詳しい日程は原文では追加提示されていない。",
-        "body": "ベッセント米財務長官は13日に韓国を訪問する予定だと明らかにした。米財務長官の訪韓日程が言及された点で、市場や政策当局の関心を集める可能性がある。ただし原文には、訪問目的、滞在期間、面会相手、協議議題などの具体的な内容は含まれていない。現時点で確認された事実は、ベッセント長官が13日に韓国訪問を予定しているという発表に限られる。今後、公式日程や追加発言が出れば、訪韓の背景と意味がより明確になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "美国财政部长贝森特称13日将访问韩国，行程受关注",
-        "excerpt": "美国财政部长贝森特表示，计划于13日访问韩国。原文未进一步说明访问目的、停留时间或具体日程安排。",
-        "body": "美国财政部长贝森特表示，计划于13日访问韩国。由于这一消息涉及美国财政部长访韩安排，可能引起市场和政策部门关注。不过，原文并未包含访问目的、停留时间、会见对象或讨论议题等具体内容。因此，目前已确认的事实仅限于贝森特部长称其计划于13日访问韩国。若后续公布正式日程或补充发言，外界将能更清楚了解此次访韩的背景和意义。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Bessent, secretario del Tesoro de EE. UU., prevé visitar Corea el día 13",
-        "excerpt": "El secretario del Tesoro de EE. UU., Bessent, dijo que tiene previsto visitar Corea del Sur el día 13. El reporte original no detalló objetivo ni agenda.",
-        "body": "El secretario del Tesoro de Estados Unidos, Bessent, dijo que tiene previsto visitar Corea del Sur el día 13. La noticia puede atraer la atención de los mercados y de las autoridades de política económica porque menciona una visita del titular del Tesoro estadounidense. Sin embargo, el reporte original no incluyó detalles concretos sobre el propósito del viaje, la duración de la estancia, los interlocutores o los temas de la agenda. Por ahora, el hecho confirmado se limita a que Bessent planea visitar Corea del Sur el día 13. Nuevos anuncios oficiales podrían aclarar el contexto y el significado de la visita. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Bessent, secretário do Tesouro dos EUA, planeja visitar a Coreia no dia 13",
-        "excerpt": "O secretário do Tesouro dos EUA, Bessent, disse que deve visitar a Coreia do Sul no dia 13. O texto original não detalhou objetivo ou agenda.",
-        "body": "O secretário do Tesouro dos Estados Unidos, Bessent, disse que deve visitar a Coreia do Sul no dia 13. A notícia pode chamar a atenção de mercados e autoridades de política econômica por mencionar uma visita do chefe do Tesouro americano. No entanto, o texto original não incluiu detalhes específicos sobre o objetivo da viagem, duração da estadia, pessoas a serem encontradas ou temas de discussão. Assim, a informação confirmada se limita à declaração de que Bessent planeja visitar a Coreia do Sul no dia 13. Novas agendas oficiais ou declarações adicionais poderão esclarecer o contexto e o significado da visita. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "US-Finanzminister Bessent plant Korea-Besuch am 13., Termin im Fokus",
-        "excerpt": "US-Finanzminister Bessent sagte, er plane am 13. einen Besuch in Südkorea. Der Originalbericht nannte keine weiteren Details zu Zweck oder Ablauf.",
-        "body": "US-Finanzminister Bessent sagte, er plane am 13. einen Besuch in Südkorea. Die Meldung könnte Aufmerksamkeit an Märkten und bei politischen Entscheidungsträgern wecken, da sie einen geplanten Besuch des US-Finanzministers in Korea betrifft. Der Originalbericht enthielt jedoch keine konkreten Angaben zum Zweck der Reise, zur Aufenthaltsdauer, zu Gesprächspartnern oder zu möglichen Themen. Damit beschränkt sich die derzeit bestätigte Information auf Bessents Aussage, dass er am 13. Südkorea besuchen will. Weitere offizielle Termine oder zusätzliche Äußerungen könnten den Hintergrund und die Bedeutung des Besuchs klarer machen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Bessent, secrétaire au Trésor américain, prévoit une visite en Corée le 13",
-        "excerpt": "Le secrétaire américain au Trésor, Bessent, a indiqué qu’il prévoit de se rendre en Corée du Sud le 13. Le rapport initial ne précise ni objet ni agenda.",
-        "body": "Le secrétaire américain au Trésor, Bessent, a indiqué qu’il prévoit de se rendre en Corée du Sud le 13. Cette information peut retenir l’attention des marchés et des responsables publics, car elle concerne le calendrier d’une visite du chef du Trésor américain. Toutefois, le rapport initial ne contient pas de détails précis sur l’objectif du déplacement, la durée du séjour, les personnes rencontrées ou les sujets de discussion. À ce stade, le fait confirmé se limite donc à l’annonce selon laquelle Bessent prévoit de visiter la Corée du Sud le 13. Des calendriers officiels ou déclarations supplémentaires pourraient éclairer le contexte et la portée de cette visite. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "وزير الخزانة الأميركي بيسنت يعتزم زيارة كوريا في 13 من الشهر",
-        "excerpt": "قال وزير الخزانة الأميركي بيسنت إنه من المقرر أن يزور كوريا الجنوبية في 13 من الشهر. ولم يورد التقرير الأصلي تفاصيل عن الهدف أو الجدول.",
-        "body": "قال وزير الخزانة الأميركي بيسنت إنه من المقرر أن يزور كوريا الجنوبية في 13 من الشهر. وقد تجذب هذه الأنباء اهتمام الأسواق والجهات المعنية بالسياسات لأنها تشير إلى جدول زيارة لرئيس وزارة الخزانة الأميركية إلى كوريا. لكن التقرير الأصلي لم يتضمن تفاصيل محددة عن هدف الزيارة أو مدة الإقامة أو الأطراف التي سيلتقيها أو الموضوعات المطروحة للنقاش. لذلك تقتصر المعلومات المؤكدة حاليا على أن بيسنت أعلن أنه يخطط لزيارة كوريا الجنوبية في 13 من الشهر. وقد توضح الجداول الرسمية أو التصريحات اللاحقة خلفية الزيارة ومعناها. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अमेरिकी ट्रेजरी सचिव बेसेंट 13 तारीख को कोरिया दौरे पर जाने वाले हैं",
-        "excerpt": "अमेरिकी ट्रेजरी सचिव बेसेंट ने कहा कि वह 13 तारीख को दक्षिण कोरिया जाने वाले हैं। मूल रिपोर्ट में उद्देश्य या विस्तृत कार्यक्रम नहीं दिया गया।",
-        "body": "अमेरिकी ट्रेजरी सचिव बेसेंट ने कहा कि वह 13 तारीख को दक्षिण कोरिया जाने वाले हैं। यह खबर बाजारों और नीति अधिकारियों का ध्यान खींच सकती है, क्योंकि इसमें अमेरिकी ट्रेजरी प्रमुख के कोरिया दौरे का उल्लेख है। हालांकि मूल रिपोर्ट में यात्रा के उद्देश्य, ठहरने की अवधि, मुलाकात करने वाले लोगों या चर्चा के एजेंडे जैसी ठोस जानकारी शामिल नहीं थी। इसलिए अभी पुष्टि की गई जानकारी केवल इतनी है कि बेसेंट ने 13 तारीख को दक्षिण कोरिया जाने की योजना बताई है। आगे आधिकारिक कार्यक्रम या अतिरिक्त बयान आने पर इस दौरे की पृष्ठभूमि और अर्थ अधिक स्पष्ट हो सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Menteri Keuangan AS Bessent Dijadwalkan Kunjungi Korea pada 13",
-        "excerpt": "Menteri Keuangan AS Bessent mengatakan ia dijadwalkan mengunjungi Korea Selatan pada tanggal 13. Laporan asli tidak memuat tujuan atau agenda rinci.",
-        "body": "Menteri Keuangan Amerika Serikat Bessent mengatakan ia dijadwalkan mengunjungi Korea Selatan pada tanggal 13. Kabar ini dapat menarik perhatian pasar dan otoritas kebijakan karena menyebut rencana kunjungan kepala Departemen Keuangan AS ke Korea. Namun, laporan asli tidak memuat rincian seperti tujuan perjalanan, lama kunjungan, pihak yang akan ditemui, atau agenda pembahasan. Karena itu, fakta yang terkonfirmasi saat ini terbatas pada pernyataan bahwa Bessent berencana mengunjungi Korea Selatan pada tanggal 13. Jadwal resmi atau pernyataan tambahan ke depan dapat memperjelas latar belakang dan makna kunjungan tersebut. Sumber: mk.co.kr"
       }
     }
   }
