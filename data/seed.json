@@ -1,5 +1,230 @@
 [
   {
+    "id": "b36b0f50eb72",
+    "slug": "이기는-실행으로-1등-lg전자-만들자-104070",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T07:40:36.878Z",
+    "updatedAt": "2026-05-10T07:40:36.878Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12042621",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12042621",
+    "titleFingerprint": "ff00530b348c87e324c5e119414167455e12e635",
+    "dedupKeys": [
+      "b36b0f50eb723b84781282ad4b7a931970b6f0f5",
+      "ff00530b348c87e324c5e119414167455e12e635",
+      "9d1af29514f1cd932f4e74e30021c1530d141768"
+    ],
+    "imageUrl": "/images/articles/b36b0f50eb72.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG전자 류재철 사장 첫 타운홀, ‘이기는 실행’으로 1등 도약 강조",
+        "excerpt": "류재철 LG전자 사장이 취임 후 처음 주재한 전체 구성원 대상 타운홀 미팅에서 문제를 드러내고 이기는 실행에 집중해 구성원과 함께 성장하는 1등 LG전자를 만들자고 강조했다.",
+        "body": "류재철 LG전자 사장이 취임 후 처음으로 전체 구성원을 대상으로 한 타운홀 미팅을 주재하고 ‘이기는 실행’을 핵심 메시지로 제시했다. 류 사장은 구성원들에게 문제를 숨기지 않고 드러내는 태도와 실행 중심의 업무 방식을 강조하며, 이를 바탕으로 함께 성장하는 조직을 만들자고 말했다. 이번 발언은 LG전자가 내부 소통을 통해 실행력을 높이고 조직의 방향성을 공유하려는 자리에서 나왔다. 류 사장은 “문제를 드러내고 이기는 실행에 집중해 구성원과 함께 성장하는 1등 LG전자를 만들어나가자”고 강조했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Electronics CEO Ryu Jae-cheol Urges ‘Winning Execution’ at First Town Hall",
+        "excerpt": "LG Electronics President Ryu Jae-cheol held his first companywide town hall since taking office, urging employees to surface problems and focus on winning execution to build a No. 1 LG Electronics together.",
+        "body": "LG Electronics President Ryu Jae-cheol presided over his first town hall meeting for all employees since taking office and presented “winning execution” as the central message. Ryu urged employees to avoid hiding problems, bring issues into the open, and focus on execution-oriented work. He said this approach would help build an organization that grows together with its people. The remarks came at a companywide communication event aimed at sharing direction and strengthening execution within LG Electronics. Ryu emphasized, “Let’s reveal problems and focus on winning execution to build a No. 1 LG Electronics that grows together with its employees.” Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LG電子の柳在哲社長、初のタウンホールで「勝つ実行」を強調",
+        "excerpt": "LG電子の柳在哲社長は就任後初めて全構成員を対象にタウンホールミーティングを主宰し、問題を明らかにして勝つ実行に集中し、共に成長する1等LG電子をつくろうと強調した。",
+        "body": "LG電子の柳在哲社長は、就任後初めて全構成員を対象にしたタウンホールミーティングを主宰し、「勝つ実行」を核心メッセージとして示した。柳社長は構成員に対し、問題を隠さず明らかにする姿勢と、実行中心の業務方式を強調した。そのうえで、こうした取り組みを通じて構成員と共に成長する組織をつくろうと述べた。今回の発言は、LG電子が社内コミュニケーションを通じて実行力を高め、組織の方向性を共有する場で出た。柳社長は「問題を明らかにし、勝つ実行に集中して、構成員と共に成長する1等LG電子をつくっていこう」と強調した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG电子柳在哲首次全员沟通会强调以“制胜执行”打造第一",
+        "excerpt": "LG电子社长柳在哲就任后首次主持面向全体成员的Town Hall会议，强调要暴露问题、专注制胜执行，与成员共同成长，打造第一LG电子。",
+        "body": "LG电子社长柳在哲在就任后首次主持面向全体成员的Town Hall会议，并将“制胜执行”作为核心信息提出。柳在哲要求成员不要掩盖问题，而是将问题暴露出来，并强调以执行为中心的工作方式。他表示，应以此为基础，打造一个与成员共同成长的组织。此次发言出现在LG电子通过内部沟通提升执行力、共享组织方向的场合。柳在哲强调：“要暴露问题，专注于制胜执行，打造与成员共同成长的第一LG电子。”来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LG Electronics: Ryu Jae-cheol pide ‘ejecución ganadora’ en su primer town hall",
+        "excerpt": "Ryu Jae-cheol, presidente de LG Electronics, presidió su primer town hall con todos los empleados desde que asumió el cargo y pidió exponer los problemas y centrarse en una ejecución ganadora.",
+        "body": "Ryu Jae-cheol, presidente de LG Electronics, presidió por primera vez desde su toma de posesión una reunión town hall dirigida a todos los integrantes de la compañía y presentó la “ejecución ganadora” como mensaje central. Ryu pidió no ocultar los problemas, sino sacarlos a la luz, y subrayó una forma de trabajo centrada en la ejecución. Dijo que, sobre esa base, la empresa debe construir una organización que crezca junto con sus empleados. Sus palabras se produjeron en un encuentro destinado a reforzar la comunicación interna, elevar la capacidad de ejecución y compartir la dirección organizativa de LG Electronics. Ryu afirmó: “Revelemos los problemas y centrémonos en una ejecución ganadora para construir una LG Electronics número uno que crezca con sus empleados.” Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "LG Electronics: Ryu Jae-cheol defende ‘execução vencedora’ em primeiro town hall",
+        "excerpt": "Ryu Jae-cheol, presidente da LG Electronics, conduziu seu primeiro town hall com todos os colaboradores desde que assumiu o cargo e pediu foco em revelar problemas e executar para vencer.",
+        "body": "Ryu Jae-cheol, presidente da LG Electronics, presidiu pela primeira vez desde sua posse uma reunião town hall voltada a todos os integrantes da empresa e apresentou a “execução vencedora” como mensagem central. Ryu pediu que os colaboradores não escondam problemas, mas os tragam à tona, e destacou uma forma de trabalho centrada na execução. Segundo ele, essa postura deve servir de base para construir uma organização que cresça junto com seus integrantes. A declaração ocorreu em um encontro de comunicação interna destinado a fortalecer a execução e compartilhar a direção da LG Electronics. Ryu enfatizou: “Vamos revelar os problemas e nos concentrar na execução vencedora para criar uma LG Electronics número um que cresça junto com seus colaboradores.” Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LG Electronics: Ryu Jae-cheol setzt bei erstem Townhall auf „Winning Execution“",
+        "excerpt": "LG-Electronics-Präsident Ryu Jae-cheol leitete sein erstes Townhall-Meeting mit allen Mitarbeitenden seit Amtsantritt und rief dazu auf, Probleme offenzulegen und sich auf erfolgreiche Umsetzung zu konzentrieren.",
+        "body": "Ryu Jae-cheol, Präsident von LG Electronics, leitete seit seinem Amtsantritt erstmals ein Townhall-Meeting für alle Mitarbeitenden und stellte „Winning Execution“ als zentrale Botschaft heraus. Ryu forderte die Beschäftigten auf, Probleme nicht zu verbergen, sondern offenzulegen, und betonte eine arbeitsweise, die auf Umsetzung ausgerichtet ist. Auf dieser Grundlage solle eine Organisation entstehen, die gemeinsam mit ihren Mitarbeitenden wächst. Die Aussagen fielen bei einer internen Kommunikationsveranstaltung, mit der LG Electronics die Umsetzungskraft stärken und die organisatorische Richtung teilen wollte. Ryu betonte: „Lasst uns Probleme offenlegen und uns auf Winning Execution konzentrieren, um ein LG Electronics Nummer eins aufzubauen, das gemeinsam mit seinen Mitarbeitenden wächst.“ Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LG Electronics : Ryu Jae-cheol mise sur l’« exécution gagnante » au town hall",
+        "excerpt": "Ryu Jae-cheol, président de LG Electronics, a tenu son premier town hall avec l’ensemble des collaborateurs depuis sa prise de fonctions et a appelé à révéler les problèmes et à se concentrer sur l’exécution gagnante.",
+        "body": "Ryu Jae-cheol, président de LG Electronics, a présidé pour la première fois depuis sa prise de fonctions une réunion town hall destinée à l’ensemble des collaborateurs et a présenté l’« exécution gagnante » comme message central. Il a demandé aux équipes de ne pas cacher les problèmes, mais de les faire apparaître, tout en soulignant une méthode de travail centrée sur l’exécution. Selon lui, cette approche doit permettre de bâtir une organisation qui grandit avec ses collaborateurs. Ces propos ont été tenus lors d’un rendez-vous de communication interne visant à renforcer la capacité d’exécution et à partager l’orientation de LG Electronics. Ryu a déclaré : « Révélons les problèmes et concentrons-nous sur l’exécution gagnante afin de construire un LG Electronics numéro un qui grandit avec ses collaborateurs. » Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "رئيس LG Electronics ريو جاي تشول يؤكد «التنفيذ الرابح» في أول لقاء عام",
+        "excerpt": "ترأس ريو جاي تشول، رئيس LG Electronics، أول اجتماع تاون هول لجميع العاملين منذ توليه المنصب، داعيا إلى كشف المشكلات والتركيز على التنفيذ الرابح لبناء شركة أولى تنمو مع موظفيها.",
+        "body": "ترأس ريو جاي تشول، رئيس LG Electronics، أول اجتماع تاون هول موجه إلى جميع العاملين منذ توليه المنصب، وطرح «التنفيذ الرابح» بوصفه الرسالة الأساسية. ودعا ريو العاملين إلى عدم إخفاء المشكلات، بل إظهارها بوضوح، وشدد على أسلوب عمل يركز على التنفيذ. وقال إن هذا النهج يجب أن يكون أساسا لبناء منظمة تنمو مع أفرادها. وجاءت هذه التصريحات في مناسبة للتواصل الداخلي هدفت إلى تعزيز القدرة على التنفيذ ومشاركة اتجاه LG Electronics التنظيمي. وأكد ريو: «لنكشف المشكلات ونركز على التنفيذ الرابح لبناء LG Electronics رقم واحد تنمو مع العاملين فيها». المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG Electronics के र्यू जे-चोल ने पहले टाउनहॉल में ‘जीतने वाले अमल’ पर जोर दिया",
+        "excerpt": "LG Electronics के अध्यक्ष र्यू जे-चोल ने पद संभालने के बाद पहली बार सभी कर्मचारियों के लिए टाउनहॉल बैठक की अध्यक्षता की और समस्याओं को सामने लाकर जीतने वाले अमल पर ध्यान देने को कहा।",
+        "body": "LG Electronics के अध्यक्ष र्यू जे-चोल ने पद संभालने के बाद पहली बार सभी सदस्यों के लिए टाउनहॉल बैठक की अध्यक्षता की और “जीतने वाला अमल” को मुख्य संदेश के रूप में रखा। र्यू ने कर्मचारियों से कहा कि वे समस्याओं को छिपाएं नहीं, बल्कि उन्हें सामने लाएं, और काम करने के ऐसे तरीके पर जोर दिया जो अमल पर केंद्रित हो। उन्होंने कहा कि इसी आधार पर कर्मचारियों के साथ मिलकर बढ़ने वाला संगठन बनाया जाना चाहिए। यह टिप्पणी LG Electronics में आंतरिक संवाद के जरिए क्रियान्वयन क्षमता बढ़ाने और संगठन की दिशा साझा करने के अवसर पर की गई। र्यू ने जोर देकर कहा, “समस्याओं को सामने लाएं और जीतने वाले अमल पर ध्यान दें, ताकि कर्मचारियों के साथ बढ़ने वाली नंबर एक LG Electronics बनाई जा सके।” स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "LG Electronics: Ryu Jae-cheol Tekankan ‘Eksekusi Menang’ di Town Hall Pertama",
+        "excerpt": "Presiden LG Electronics Ryu Jae-cheol memimpin town hall pertamanya untuk seluruh karyawan sejak menjabat, menyerukan agar masalah diungkap dan fokus diarahkan pada eksekusi menang.",
+        "body": "Presiden LG Electronics Ryu Jae-cheol untuk pertama kalinya sejak menjabat memimpin town hall meeting bagi seluruh anggota perusahaan dan menyampaikan “eksekusi menang” sebagai pesan utama. Ryu meminta karyawan tidak menyembunyikan masalah, melainkan mengungkapkannya, serta menekankan cara kerja yang berpusat pada eksekusi. Ia mengatakan pendekatan itu menjadi dasar untuk membangun organisasi yang tumbuh bersama para anggotanya. Pernyataan tersebut disampaikan dalam forum komunikasi internal yang bertujuan memperkuat daya eksekusi dan berbagi arah organisasi LG Electronics. Ryu menegaskan, “Mari ungkap masalah dan fokus pada eksekusi menang untuk membangun LG Electronics nomor satu yang tumbuh bersama para karyawannya.” Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "41d08713dfe5",
+    "slug": "정부중재-막판-협상-앞두고-勞勞갈등-커지는-삼성전자-984487",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T07:39:38.582Z",
+    "updatedAt": "2026-05-10T07:39:38.582Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12042622",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12042622",
+    "titleFingerprint": "50002a33844f6b94af2d19d1d9ecc2d53aee53e4",
+    "dedupKeys": [
+      "41d08713dfe59134d796bbf2c45006c3c9512209",
+      "50002a33844f6b94af2d19d1d9ecc2d53aee53e4",
+      "1cf0a6c68a8fd20ff14821432a6c56a19afe971b"
+    ],
+    "imageUrl": "/images/articles/41d08713dfe5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노사 사후조정 앞두고 노조 간 갈등 변수 부상",
+        "excerpt": "삼성전자의 사후조정이 11일부터 이틀간 중앙노동위원회 주재로 열리는 가운데, 교섭권을 위임받은 초기업노조 삼성전자 지부와 관련한 노조 간 갈등이 막판 협상의 변수로 떠올랐다.",
+        "body": "삼성전자 노사 사후조정이 11일부터 이틀간 중앙노동위원회 주재로 진행된다. 막판 정부 중재 협상을 앞두고 노조 간 갈등이 커지면서 협상 흐름에 영향을 줄 새 변수로 부상했다. 원문에 따르면 교섭권을 위임받은 초기업노동조합 삼성전자 지부를 둘러싼 갈등이 심화되고 있다. 사후조정은 노사 간 쟁점을 조정하기 위한 절차로, 이번 협의 결과에 따라 삼성전자 노사 교섭의 향방이 달라질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics labor talks face new risk as union rift widens",
+        "excerpt": "Samsung Electronics will enter two days of post-mediation talks led by the National Labor Relations Commission from the 11th, while a growing conflict among unions has emerged as a key variable in the final negotiations.",
+        "body": "Samsung Electronics’ labor-management post-mediation process will be held for two days from the 11th under the supervision of the National Labor Relations Commission. Ahead of the final government-mediated talks, intensifying conflict among unions has emerged as a new factor that could affect the course of negotiations. According to the original report, the dispute centers on the Samsung Electronics branch of a supra-enterprise labor union that has been delegated bargaining rights. The outcome of the post-mediation process could influence the direction of future labor talks at Samsung Electronics. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子、事後調整前に労組間対立が交渉の新たな変数に",
+        "excerpt": "サムスン電子の事後調整が11日から2日間、中央労働委員会の主宰で行われるなか、交渉権を委任された超企業労組サムスン電子支部をめぐる労組間対立が終盤交渉の変数となっている。",
+        "body": "サムスン電子の労使事後調整が11日から2日間、中央労働委員会の主宰で進められる。政府仲裁による終盤交渉を前に、労組間の対立が強まり、交渉の流れに影響し得る新たな変数として浮上した。原文によると、交渉権を委任された超企業労働組合サムスン電子支部をめぐる対立が深まっている。事後調整は労使間の争点を調整する手続きであり、今回の協議結果によってサムスン電子の労使交渉の方向が変わる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子劳资事后调解在即，工会间矛盾成谈判新变量",
+        "excerpt": "三星电子事后调解将从11日起由中央劳动委员会主持进行两天，围绕被委托交涉权的超企业工会三星电子支部，工会间矛盾加深，成为最后谈判的变量。",
+        "body": "三星电子劳资事后调解将从11日起连续两天在中央劳动委员会主持下进行。在政府中介的最后谈判前，工会之间的矛盾扩大，成为可能影响谈判走向的新变量。原文称，围绕被委托交涉权的超企业劳动组合三星电子支部，相关矛盾正在加深。事后调解是协调劳资争议事项的程序，此次协商结果可能影响三星电子后续劳资谈判方向。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics afronta mediación con conflicto sindical como nueva variable",
+        "excerpt": "La mediación posterior de Samsung Electronics se realizará durante dos días desde el 11 bajo la Comisión Nacional de Relaciones Laborales, mientras crece el conflicto entre sindicatos antes de la negociación final.",
+        "body": "El proceso de mediación posterior entre Samsung Electronics y sus trabajadores se celebrará durante dos días a partir del 11, bajo la supervisión de la Comisión Nacional de Relaciones Laborales. Antes de la negociación final mediada por el Gobierno, el creciente conflicto entre sindicatos surgió como un nuevo factor que puede influir en el curso de las conversaciones. Según el texto original, la tensión se relaciona con la filial de Samsung Electronics de un sindicato supraempresarial que recibió la delegación del derecho de negociación. El resultado de esta mediación podría incidir en la dirección de las negociaciones laborales de Samsung Electronics. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics vê conflito sindical virar variável antes da mediação",
+        "excerpt": "A mediação posterior da Samsung Electronics ocorrerá por dois dias a partir do dia 11, sob a Comissão Nacional de Relações Trabalhistas, enquanto cresce o conflito entre sindicatos antes da negociação final.",
+        "body": "O processo de mediação posterior entre a Samsung Electronics e seus trabalhadores será realizado por dois dias a partir do dia 11, sob a supervisão da Comissão Nacional de Relações Trabalhistas. Antes da negociação final mediada pelo governo, o agravamento do conflito entre sindicatos surgiu como uma nova variável capaz de afetar o rumo das conversas. Segundo o texto original, a disputa envolve a filial da Samsung Electronics de um sindicato supraempresarial que recebeu a delegação do direito de negociação. O resultado da mediação pode influenciar a direção das negociações trabalhistas da Samsung Electronics. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics: Gewerkschaftskonflikt wird vor Schlichtung zum Faktor",
+        "excerpt": "Die nachträgliche Schlichtung bei Samsung Electronics läuft ab dem 11. zwei Tage lang unter Leitung der Nationalen Arbeitskommission, während ein wachsender Konflikt zwischen Gewerkschaften die Schlussverhandlungen belastet.",
+        "body": "Die nachträgliche Schlichtung zwischen Samsung Electronics und der Arbeitnehmerseite findet ab dem 11. zwei Tage lang unter Leitung der Nationalen Arbeitskommission statt. Vor den abschließenden, staatlich vermittelten Gesprächen ist der zunehmende Konflikt zwischen Gewerkschaften zu einem neuen Faktor geworden, der den Verlauf der Verhandlungen beeinflussen kann. Dem Originalbericht zufolge geht es um die Samsung-Electronics-Zweigstelle einer überbetrieblichen Gewerkschaft, der das Verhandlungsrecht übertragen wurde. Das Ergebnis der Schlichtung könnte die Richtung der weiteren Tarifgespräche bei Samsung Electronics beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics: le conflit entre syndicats pèse avant la médiation",
+        "excerpt": "La médiation postérieure de Samsung Electronics se tiendra pendant deux jours à partir du 11 sous l’égide de la Commission nationale du travail, alors qu’un conflit entre syndicats devient une variable des négociations finales.",
+        "body": "La procédure de médiation postérieure entre Samsung Electronics et les représentants des salariés se tiendra pendant deux jours à partir du 11, sous la direction de la Commission nationale du travail. À l’approche des dernières discussions arbitrées par le gouvernement, l’intensification du conflit entre syndicats apparaît comme un nouveau facteur susceptible d’influencer les négociations. Selon le texte original, les tensions concernent la branche Samsung Electronics d’un syndicat supra-entreprise auquel le droit de négociation a été délégué. Le résultat de cette médiation pourrait peser sur l’orientation des discussions sociales chez Samsung Electronics. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تواجه متغيرا جديدا مع اتساع خلاف النقابات قبل الوساطة",
+        "excerpt": "تبدأ عملية ما بعد الوساطة في سامسونغ إلكترونيكس يوم 11 وتستمر يومين بإشراف لجنة علاقات العمل المركزية، فيما يبرز تصاعد الخلاف بين النقابات كعامل مؤثر في المفاوضات النهائية.",
+        "body": "تجري عملية ما بعد الوساطة بين إدارة سامسونغ إلكترونيكس والعمال لمدة يومين ابتداء من يوم 11، تحت إشراف لجنة علاقات العمل المركزية. وقبل المفاوضات النهائية بوساطة حكومية، برز تصاعد الخلاف بين النقابات كمتغير جديد قد يؤثر في مسار التفاوض. ووفقا للنص الأصلي، يتمحور الخلاف حول فرع سامسونغ إلكترونيكس التابع لنقابة عمالية فوق مؤسسية فوضت إليها حقوق التفاوض. وتعد ما بعد الوساطة إجراء لتنسيق القضايا العالقة بين الإدارة والعمال، وقد يؤثر ما تسفر عنه على اتجاه مفاوضات العمل في سامسونغ إلكترونيكس. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics में मध्यस्थता से पहले यूनियनों का टकराव नया कारक",
+        "excerpt": "Samsung Electronics की पोस्ट-मीडिएशन प्रक्रिया 11 तारीख से दो दिन तक केंद्रीय श्रम संबंध आयोग की अध्यक्षता में होगी, जबकि बातचीत के अधिकार वाली यूनियन शाखा से जुड़ा बढ़ता विवाद अंतिम वार्ता का नया कारक बन गया है।",
+        "body": "Samsung Electronics में प्रबंधन और श्रमिक पक्ष की पोस्ट-मीडिएशन प्रक्रिया 11 तारीख से दो दिन तक केंद्रीय श्रम संबंध आयोग की अध्यक्षता में चलेगी। सरकार की मध्यस्थता वाली अंतिम बातचीत से पहले यूनियनों के बीच बढ़ता टकराव वार्ता की दिशा को प्रभावित कर सकने वाला नया कारक बनकर उभरा है। मूल पाठ के अनुसार, विवाद उस सुप्रा-एंटरप्राइज श्रमिक संघ की Samsung Electronics शाखा से जुड़ा है, जिसे बातचीत का अधिकार सौंपा गया है। पोस्ट-मीडिएशन श्रम और प्रबंधन के बीच मुद्दों को समायोजित करने की प्रक्रिया है, और इसके परिणाम से Samsung Electronics की आगे की श्रम वार्ता की दिशा प्रभावित हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics hadapi variabel baru saat konflik antarsindikasi membesar",
+        "excerpt": "Post-mediasi Samsung Electronics akan berlangsung dua hari mulai tanggal 11 di bawah Komisi Hubungan Perburuhan Pusat, sementara konflik antarsindikasi terkait hak perundingan menjadi variabel baru menjelang negosiasi akhir.",
+        "body": "Proses post-mediasi antara manajemen dan pekerja Samsung Electronics akan berlangsung selama dua hari mulai tanggal 11 di bawah supervisi Komisi Hubungan Perburuhan Pusat. Menjelang negosiasi akhir yang dimediasi pemerintah, konflik antarsindikasi yang semakin dalam muncul sebagai faktor baru yang dapat memengaruhi arah perundingan. Menurut teks asli, sengketa ini berkaitan dengan cabang Samsung Electronics dari serikat pekerja supra-perusahaan yang telah menerima pelimpahan hak perundingan. Post-mediasi adalah prosedur untuk menyesuaikan isu antara pekerja dan manajemen, dan hasilnya dapat memengaruhi arah perundingan ketenagakerjaan Samsung Electronics. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e9e64096547d",
+    "slug": "이번-반도체랠리-닷컴버블과-다르다-하지만-wsj의-진단-끝엔-763408",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-10T07:38:41.128Z",
+    "updatedAt": "2026-05-10T07:38:41.128Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12042623",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12042623",
+    "titleFingerprint": "ca577fa4337957544112eb191e8ca781b1bdb0a8",
+    "dedupKeys": [
+      "e9e64096547d56e5f24f5ce6c8df67a76fd5fd68",
+      "ca577fa4337957544112eb191e8ca781b1bdb0a8",
+      "4c35d153ed27d43c8819cfdb279245c8772fb4ec"
+    ],
+    "imageUrl": "/images/articles/e9e64096547d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 랠리, 닷컴버블과 다르지만 과열 경계한 WSJ 진단",
+        "excerpt": "월스트리트저널은 글로벌 증시를 휩쓰는 반도체 랠리가 이익 실적에 기반해 2000년 전후 닷컴버블과 달라 보이지만 과열 가능성은 경계해야 한다고 진단했다.",
+        "body": "미국 일간 월스트리트저널(WSJ)은 글로벌 증시 전반으로 확산한 반도체 랠리에 대해 최근 진단을 내놨다. WSJ는 이번 열기가 기업의 이익 실적에 기반하고 있다는 점에서 2000년 안팎의 닷컴버블과는 다른 모습이라고 봤다. 당시에는 기대가 앞선 투기적 흐름이 시장을 키웠지만, 현재 반도체주는 실적이라는 근거를 갖고 있다는 설명이다. 다만 랠리가 빠르게 확산되며 과열 우려도 함께 커지고 있다고 짚었다. 반도체주 강세가 글로벌 증시를 이끄는 핵심 동력이 된 만큼, 투자자들은 실적 기반이라는 차이와 동시에 과도한 낙관의 위험을 함께 봐야 한다는 의미다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Semiconductor Rally Looks Unlike Dot-Com Bubble, but WSJ Warns of Heat",
+        "excerpt": "The Wall Street Journal said the global semiconductor rally appears different from the dot-com bubble around 2000 because it is backed by earnings, but overheating risks remain.",
+        "body": "The Wall Street Journal recently assessed the semiconductor rally spreading across global stock markets. According to the WSJ, the current surge appears different from the dot-com bubble around 2000 because it is based on corporate earnings performance. In that earlier period, market momentum was driven more by expectations and speculation, while today’s semiconductor shares have an earnings foundation. Still, the newspaper noted that concerns about overheating are rising as the rally expands quickly. Since semiconductor stocks have become a key force behind global equity gains, investors need to weigh the earnings-based difference against the risk of excessive optimism. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "半導体ラリーはドットコムバブルと違うが、WSJが過熱を警戒",
+        "excerpt": "ウォール・ストリート・ジャーナルは、世界株を動かす半導体ラリーについて、利益実績に基づく点で2000年前後のドットコムバブルとは異なるが過熱には注意が必要だと診断した。",
+        "body": "米紙ウォール・ストリート・ジャーナル（WSJ）は、世界の株式市場に広がる半導体ラリーについて最近分析を示した。WSJは、今回の熱気が企業の利益実績に基づいている点で、2000年前後のドットコムバブルとは異なる様相だと見ている。当時は期待先行の投機的な流れが市場を膨らませたが、現在の半導体株には業績という根拠があるという説明だ。ただし、ラリーが急速に広がる中で過熱への懸念も高まっていると指摘した。半導体株の強さが世界株をけん引する主要な力となっているだけに、投資家は業績に支えられている違いと、過度な楽観のリスクを同時に見る必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "半导体行情不同于互联网泡沫，但WSJ提示过热风险",
+        "excerpt": "《华尔街日报》认为，席卷全球股市的半导体行情因有盈利表现支撑，看似不同于2000年前后的互联网泡沫，但仍需警惕过热。",
+        "body": "美国《华尔街日报》（WSJ）近日对席卷全球股市的半导体行情作出诊断。WSJ认为，本轮热潮建立在企业盈利表现之上，因此看起来不同于2000年前后的互联网泡沫。当时市场更多由预期先行和投机情绪推动，而当前半导体股具备业绩依据。不过，报道也指出，随着行情快速扩散，市场对过热的担忧正在上升。由于半导体股的强势已成为推动全球股市的重要力量，投资者既要看到其以盈利为基础的差异，也要关注过度乐观带来的风险。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Rally de semiconductores no parece burbuja puntocom, pero WSJ alerta",
+        "excerpt": "The Wall Street Journal señaló que el rally global de semiconductores se diferencia de la burbuja puntocom de 2000 por estar respaldado por beneficios, aunque persiste el riesgo de sobrecalentamiento.",
+        "body": "The Wall Street Journal evaluó recientemente el rally de semiconductores que se extiende por los mercados bursátiles globales. Según el WSJ, el actual entusiasmo parece distinto de la burbuja puntocom de alrededor de 2000 porque se apoya en los resultados de beneficios de las empresas. En aquel periodo, el mercado creció impulsado más por expectativas y flujos especulativos, mientras que las acciones de semiconductores actuales cuentan con una base de ganancias. Aun así, el diario advirtió que las preocupaciones por sobrecalentamiento aumentan a medida que el rally se expande con rapidez. Como la fortaleza del sector se ha convertido en un motor clave de las bolsas globales, los inversores deben considerar tanto esa diferencia basada en resultados como el riesgo de optimismo excesivo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Rali de semicondutores difere da bolha pontocom, mas WSJ vê alerta",
+        "excerpt": "O Wall Street Journal avaliou que o rali global de semicondutores parece diferente da bolha pontocom de 2000 por se apoiar em lucros, mas o risco de superaquecimento cresce.",
+        "body": "O Wall Street Journal analisou recentemente o rali de semicondutores que se espalha pelos mercados acionários globais. Segundo o WSJ, a atual onda parece diferente da bolha pontocom por volta de 2000 porque se baseia nos resultados de lucro das empresas. Naquele período, o mercado foi ampliado sobretudo por expectativas e movimentos especulativos, enquanto as ações de semicondutores hoje têm uma base em desempenho financeiro. Ainda assim, o jornal observou que as preocupações com superaquecimento aumentam à medida que o rali avança rapidamente. Como a força dos semicondutores se tornou um motor central das bolsas globais, investidores precisam avaliar tanto essa diferença sustentada por lucros quanto o risco de otimismo excessivo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Halbleiter-Rally wirkt anders als Dotcom-Blase, doch WSJ warnt vor Hitze",
+        "excerpt": "Das Wall Street Journal sieht die globale Halbleiter-Rally wegen ihrer Gewinnbasis anders als die Dotcom-Blase um 2000, warnt aber vor zunehmenden Überhitzungsrisiken.",
+        "body": "Das Wall Street Journal hat die Halbleiter-Rally, die sich über die globalen Aktienmärkte ausbreitet, zuletzt eingeordnet. Nach Einschätzung des WSJ unterscheidet sich der aktuelle Aufschwung von der Dotcom-Blase um das Jahr 2000, weil er auf Unternehmensgewinnen beruht. Damals wurde der Markt stärker von Erwartungen und spekulativen Strömungen aufgebläht, während heutige Halbleiteraktien eine Grundlage in den Ergebnissen haben. Zugleich verwies die Zeitung darauf, dass mit der schnellen Ausbreitung der Rally auch Sorgen vor Überhitzung wachsen. Da Halbleiterwerte zu einem zentralen Treiber der globalen Börsen geworden sind, sollten Anleger sowohl den gewinnbasierten Unterschied als auch das Risiko übermäßigen Optimismus beachten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le rally des semi-conducteurs diffère de la bulle internet, mais le WSJ alerte",
+        "excerpt": "Le Wall Street Journal estime que le rally mondial des semi-conducteurs se distingue de la bulle internet de 2000 car il repose sur les bénéfices, tout en signalant un risque de surchauffe.",
+        "body": "Le Wall Street Journal a récemment analysé le rally des semi-conducteurs qui gagne les marchés boursiers mondiaux. Selon le WSJ, l’engouement actuel semble différent de la bulle internet autour de 2000, car il s’appuie sur les résultats bénéficiaires des entreprises. À l’époque, le marché avait été porté surtout par des anticipations et des mouvements spéculatifs, alors que les actions de semi-conducteurs disposent aujourd’hui d’un fondement lié aux bénéfices. Le journal souligne toutefois que les craintes de surchauffe augmentent à mesure que le rally s’étend rapidement. La vigueur du secteur étant devenue un moteur clé des actions mondiales, les investisseurs doivent considérer à la fois cette différence fondée sur les résultats et le risque d’un optimisme excessif. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صعود أشباه الموصلات يختلف عن فقاعة الدوت كوم لكن WSJ تحذر",
+        "excerpt": "قالت وول ستريت جورنال إن صعود أسهم أشباه الموصلات عالميا يبدو مختلفا عن فقاعة الدوت كوم حول عام 2000 لأنه يستند إلى الأرباح، مع بقاء مخاطر السخونة الزائدة.",
+        "body": "قدمت صحيفة وول ستريت جورنال تقييما حديثا لصعود أسهم أشباه الموصلات الذي يمتد عبر أسواق الأسهم العالمية. وبحسب الصحيفة، تبدو الموجة الحالية مختلفة عن فقاعة الدوت كوم حول عام 2000 لأنها قائمة على أداء أرباح الشركات. ففي تلك الفترة، كان السوق مدفوعا بدرجة أكبر بالتوقعات والتدفقات المضاربية، بينما تستند أسهم أشباه الموصلات اليوم إلى أساس من النتائج المالية. ومع ذلك، أشارت الصحيفة إلى أن المخاوف من السخونة الزائدة تتزايد مع اتساع الصعود بسرعة. وبما أن قوة أسهم أشباه الموصلات أصبحت محركا رئيسيا للأسواق العالمية، فعلى المستثمرين موازنة الفارق القائم على الأرباح مع خطر التفاؤل المفرط. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर रैली डॉटकॉम बुलबुले से अलग, पर WSJ ने दी चेतावनी",
+        "excerpt": "वॉल स्ट्रीट जर्नल ने कहा कि वैश्विक सेमीकंडक्टर रैली कमाई पर आधारित होने से 2000 के आसपास के डॉटकॉम बुलबुले से अलग दिखती है, लेकिन ओवरहीटिंग का जोखिम बना है।",
+        "body": "अमेरिकी दैनिक वॉल स्ट्रीट जर्नल (WSJ) ने वैश्विक शेयर बाजारों में फैल रही सेमीकंडक्टर रैली पर हाल में आकलन पेश किया। WSJ के अनुसार, मौजूदा तेजी कंपनियों की कमाई के प्रदर्शन पर आधारित है, इसलिए यह 2000 के आसपास के डॉटकॉम बुलबुले से अलग दिखती है। उस समय बाजार को अपेक्षाओं और सट्टा प्रवाह ने अधिक बढ़ाया था, जबकि आज सेमीकंडक्टर शेयरों के पास आय का आधार है। फिर भी अखबार ने कहा कि रैली के तेजी से फैलने के साथ ओवरहीटिंग की चिंता भी बढ़ रही है। चूंकि सेमीकंडक्टर शेयरों की मजबूती वैश्विक बाजारों की प्रमुख चालक बन गई है, निवेशकों को कमाई-आधारित अंतर और अत्यधिक आशावाद के जोखिम दोनों पर ध्यान देना चाहिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Reli Semikonduktor Beda dari Bubble Dotcom, tetapi WSJ Ingatkan Risiko",
+        "excerpt": "Wall Street Journal menilai reli semikonduktor global berbeda dari bubble dotcom sekitar 2000 karena ditopang laba, namun risiko pasar yang terlalu panas tetap perlu diwaspadai.",
+        "body": "Wall Street Journal baru-baru ini menilai reli semikonduktor yang menyebar di pasar saham global. Menurut WSJ, euforia saat ini tampak berbeda dari bubble dotcom sekitar tahun 2000 karena bertumpu pada kinerja laba perusahaan. Pada masa itu, pasar lebih banyak membesar oleh ekspektasi dan arus spekulatif, sedangkan saham semikonduktor saat ini memiliki dasar berupa hasil laba. Namun, surat kabar itu juga mencatat bahwa kekhawatiran atas pasar yang terlalu panas ikut meningkat seiring reli yang meluas cepat. Karena penguatan saham semikonduktor telah menjadi pendorong utama bursa global, investor perlu melihat perbedaan berbasis laba tersebut sekaligus risiko optimisme berlebihan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "544f5b058c2c",
     "slug": "연세대-13일부터-우주항공주간-행사-개최-ai시대-우주기술-발전-다룬다-630968",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Harga Apartemen Busan Tetap Kuat, Jeonse Naik 22 Bulan Beruntun",
         "excerpt": "Menurut Yonhap News, harga jual apartemen di Busan tetap kuat dan stabil, sementara harga sewa jeonse naik selama 22 bulan berturut-turut, menarik perhatian pada pasar hunian lokal.",
         "body": "Harga jual apartemen di Busan mempertahankan tren kuat dan stabil, lapor Yonhap News. Menurut laporan tersebut, pasar apartemen di Busan terus menunjukkan pergerakan harga yang relatif kokoh tanpa penurunan jelas pada harga jual. Harga sewa jeonse telah naik selama 22 bulan berturut-turut dan menjadi faktor utama bersama pasar jual beli dalam melihat arah harga hunian lokal. Dengan harga jual tetap berada di zona kuat dan kenaikan jeonse berlangsung lama, perhatian terhadap pasokan, permintaan, dan pergerakan harga di pasar apartemen Busan meningkat. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2385fbdd6c2d",
-    "slug": "다음주-경제-4월-취업자-얼마나-늘었나kdi-경제전망도-관심-454800",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T19:34:47.124Z",
-    "updatedAt": "2026-05-09T19:34:47.124Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509014400002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509014400002",
-    "titleFingerprint": "e8dc6af9af3f61ae883236deb704235c2ba0c475",
-    "dedupKeys": [
-      "2385fbdd6c2dd1be270715469993f113e01863c1",
-      "e8dc6af9af3f61ae883236deb704235c2ba0c475",
-      "4a7e5403ae83abf6a4fcdd11f7527757c9bacd2d"
-    ],
-    "imageUrl": "/images/articles/2385fbdd6c2d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "4월 취업자 증가폭 주목…다음주 KDI 경제전망·가계대출도 확인",
-        "excerpt": "다음 주 11∼15일 통계와 전망 발표를 통해 4월 취업자 증가폭, 수출입 물가, 가계대출 흐름, KDI 경제전망이 한국 경제 점검의 핵심 변수로 부상한다.",
-        "body": "다음 주 11∼15일에는 한국의 최근 고용 상황과 물가·금융 흐름을 가늠할 주요 경제 지표가 잇따라 확인된다. 핵심 관심은 4월 취업자가 얼마나 늘었는지다. 고용 지표는 내수와 기업 활동, 가계 소득 여건을 함께 보여주는 자료로 시장의 주목을 받는다. 같은 기간 수출입 물가와 가계대출 추이도 공개돼 대외 가격 압력과 가계 금융 부담을 판단하는 근거가 된다. KDI 경제전망 역시 향후 경기 진단과 정책 논의의 참고 자료로 관심을 모은다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "April Jobs Growth in Focus as KDI Outlook and Household Loans Loom",
-        "excerpt": "From May 11 to 15, Korea’s April employment gain, import and export prices, household loan trends and KDI economic outlook will be key indicators for assessing the economy.",
-        "body": "From May 11 to 15, a series of Korean economic indicators will offer a fresh look at employment, prices and financial conditions. The main focus is how much the number of employed people increased in April. Employment data is closely watched because it reflects domestic demand, business activity and household income conditions. Import and export prices and household loan trends will also be checked during the same period, providing clues on external price pressure and the financial burden on households. The KDI economic outlook is also expected to draw attention as a reference point for assessing the economy and policy debate. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "4月就業者の増加幅に注目、来週はKDI経済見通しと家計融資も焦点",
-        "excerpt": "5月11日から15日にかけて、韓国の4月就業者増加幅、輸出入物価、家計融資の動向、KDI経済見通しが景気点検の重要材料となる。",
-        "body": "来週11日から15日にかけて、韓国の雇用状況や物価、金融の流れを確認できる主要経済指標が相次いで示される。最大の関心は4月の就業者数がどれだけ増えたかだ。雇用指標は内需、企業活動、家計所得の状況をあわせて映す資料として市場の注目を集める。同じ期間に輸出入物価と家計融資の推移も確認され、対外的な価格圧力と家計の金融負担を判断する手がかりになる。KDIの経済見通しも今後の景気診断と政策論議の参考資料として関心を集める。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "4月就业人数增幅受关注，下周KDI经济展望和家庭贷款也成焦点",
-        "excerpt": "5月11日至15日，韩国4月就业人数增幅、进出口物价、家庭贷款走势以及KDI经济展望将成为观察经济形势的关键指标。",
-        "body": "下周11日至15日，韩国将陆续公布可观察近期就业、物价和金融状况的主要经济指标。核心焦点是4月就业人数增加了多少。就业数据受到市场关注，因为它同时反映内需、企业活动和家庭收入条件。同期还将确认进出口物价和家庭贷款走势，为判断外部价格压力和家庭金融负担提供依据。KDI经济展望也将受到关注，作为评估未来经济形势和政策讨论的参考资料。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Empleo de abril en Corea, foco junto al panorama del KDI y préstamos familiares",
-        "excerpt": "Entre el 11 y el 15 de mayo, el aumento del empleo de abril en Corea, los precios de importación y exportación, la deuda familiar y el panorama del KDI serán claves.",
-        "body": "Entre el 11 y el 15 de mayo se conocerán en Corea varios indicadores económicos que permitirán evaluar la situación reciente del empleo, los precios y las finanzas. El principal foco será cuánto aumentó el número de ocupados en abril. El dato laboral concentra la atención del mercado porque refleja la demanda interna, la actividad empresarial y las condiciones de ingresos de los hogares. En el mismo período también se revisarán los precios de importación y exportación y la tendencia de los préstamos a los hogares, claves para medir la presión externa sobre los precios y la carga financiera familiar. El panorama económico del KDI también atraerá interés como referencia para el diagnóstico económico y el debate de políticas. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Emprego de abril na Coreia ganha foco com projeção do KDI e crédito familiar",
-        "excerpt": "De 11 a 15 de maio, alta do emprego em abril, preços de importação e exportação, empréstimos às famílias e projeção do KDI serão sinais-chave da economia coreana.",
-        "body": "Entre 11 e 15 de maio, a Coreia divulgará uma série de indicadores econômicos que ajudam a avaliar o quadro recente de emprego, preços e condições financeiras. O principal ponto de atenção é quanto cresceu o número de pessoas empregadas em abril. O dado de emprego é observado pelo mercado porque reflete demanda interna, atividade empresarial e condições de renda das famílias. No mesmo período, também serão acompanhados os preços de importação e exportação e a tendência dos empréstimos às famílias, que ajudam a medir pressões externas de preços e o peso financeiro sobre os lares. A projeção econômica do KDI também deve atrair atenção como referência para o diagnóstico da economia e o debate de políticas. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Beschäftigung im April im Fokus: KDI-Ausblick und Haushaltskredite folgen",
-        "excerpt": "Vom 11. bis 15. Mai rücken Koreas Beschäftigungszuwachs im April, Import- und Exportpreise, Haushaltskredite und der KDI-Wirtschaftsausblick in den Mittelpunkt.",
-        "body": "Vom 11. bis 15. Mai werden in Korea mehrere wichtige Wirtschaftsindikatoren veröffentlicht, die Hinweise auf die jüngste Lage am Arbeitsmarkt sowie auf Preis- und Finanzentwicklungen geben. Im Zentrum steht die Frage, wie stark die Zahl der Beschäftigten im April gestiegen ist. Arbeitsmarktdaten gelten als wichtig, weil sie Binnennachfrage, Unternehmensaktivität und Einkommensbedingungen der Haushalte widerspiegeln. Im selben Zeitraum werden auch Import- und Exportpreise sowie die Entwicklung der Haushaltskredite beobachtet, um externen Preisdruck und finanzielle Belastungen der Haushalte einzuschätzen. Auch der KDI-Wirtschaftsausblick stößt auf Interesse, da er als Bezugspunkt für Konjunkturdiagnosen und politische Debatten dient. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Emploi d’avril en Corée: perspectives KDI et prêts aux ménages attendus",
-        "excerpt": "Du 11 au 15 mai, la hausse de l’emploi en avril, les prix à l’import-export, les prêts aux ménages et les perspectives du KDI seront des repères clés pour l’économie coréenne.",
-        "body": "Du 11 au 15 mai, plusieurs indicateurs économiques coréens permettront d’évaluer la situation récente de l’emploi, des prix et des conditions financières. La principale question sera de savoir dans quelle mesure le nombre de personnes employées a augmenté en avril. Les données de l’emploi retiennent l’attention du marché car elles reflètent la demande intérieure, l’activité des entreprises et les conditions de revenu des ménages. Sur la même période, les prix à l’importation et à l’exportation ainsi que l’évolution des prêts aux ménages seront aussi examinés afin d’apprécier les pressions extérieures sur les prix et la charge financière des foyers. Les perspectives économiques du KDI seront également suivies comme référence pour le diagnostic conjoncturel et le débat de politique économique. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "وظائف أبريل في كوريا تحت المجهر مع توقعات KDI وقروض الأسر الأسبوع المقبل",
-        "excerpt": "بين 11 و15 مايو، ستبرز زيادة التوظيف في أبريل وأسعار الصادرات والواردات واتجاه قروض الأسر وتوقعات KDI كمؤشرات رئيسية لتقييم الاقتصاد الكوري.",
-        "body": "بين 11 و15 مايو، ستصدر في كوريا مؤشرات اقتصادية رئيسية تساعد على تقييم وضع التوظيف الأخير واتجاهات الأسعار والتمويل. ينصب الاهتمام الأساسي على مقدار زيادة عدد العاملين في أبريل. وتحظى بيانات التوظيف بمتابعة السوق لأنها تعكس الطلب المحلي ونشاط الشركات وظروف دخل الأسر. وخلال الفترة نفسها ستتم متابعة أسعار الصادرات والواردات واتجاه قروض الأسر، بما يوفر أساسا لتقدير ضغوط الأسعار الخارجية والعبء المالي على الأسر. كما ستجذب توقعات KDI الاقتصادية الاهتمام بوصفها مرجعا لتشخيص مسار الاقتصاد ومناقشات السياسة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "अप्रैल रोजगार वृद्धि पर नजर, KDI आउटलुक और घरेलू कर्ज भी अहम",
-        "excerpt": "11 से 15 मई के बीच कोरिया में अप्रैल रोजगार वृद्धि, आयात-निर्यात कीमतें, घरेलू कर्ज की दिशा और KDI आर्थिक आउटलुक अर्थव्यवस्था के आकलन के प्रमुख संकेतक होंगे।",
-        "body": "11 से 15 मई के बीच कोरिया में कई प्रमुख आर्थिक संकेतक सामने आएंगे, जिनसे हालिया रोजगार, कीमतों और वित्तीय स्थितियों का आकलन किया जाएगा। मुख्य ध्यान इस बात पर रहेगा कि अप्रैल में रोजगार पाने वालों की संख्या कितनी बढ़ी। रोजगार आंकड़े बाजार के लिए अहम हैं क्योंकि वे घरेलू मांग, कारोबारी गतिविधि और परिवारों की आय स्थितियों को साथ दिखाते हैं। इसी अवधि में आयात और निर्यात कीमतों तथा घरेलू कर्ज की प्रवृत्ति भी देखी जाएगी, जिससे बाहरी मूल्य दबाव और परिवारों पर वित्तीय बोझ का अंदाजा लगेगा। KDI का आर्थिक आउटलुक भी भविष्य की आर्थिक स्थिति और नीति चर्चा के संदर्भ बिंदु के रूप में ध्यान खींचेगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kenaikan Pekerja April Jadi Sorotan, Outlook KDI dan Utang Rumah Tangga Menyusul",
-        "excerpt": "Pada 11-15 Mei, kenaikan pekerja April, harga ekspor-impor, tren pinjaman rumah tangga, dan outlook ekonomi KDI menjadi indikator utama untuk menilai ekonomi Korea.",
-        "body": "Pada 11 hingga 15 Mei, Korea akan mencermati sejumlah indikator ekonomi utama yang menggambarkan kondisi terbaru ketenagakerjaan, harga, dan keuangan. Fokus utama adalah seberapa besar jumlah pekerja bertambah pada April. Data ketenagakerjaan menjadi perhatian pasar karena mencerminkan permintaan domestik, aktivitas perusahaan, dan kondisi pendapatan rumah tangga. Pada periode yang sama, harga ekspor-impor serta tren pinjaman rumah tangga juga akan diperiksa sebagai dasar untuk menilai tekanan harga eksternal dan beban keuangan keluarga. Outlook ekonomi KDI turut menarik perhatian sebagai acuan untuk membaca arah ekonomi dan diskusi kebijakan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1cc149575e68",
-    "slug": "부고-오준일대원제약-이사씨-장인상-861260",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T19:33:46.157Z",
-    "updatedAt": "2026-05-09T19:33:46.157Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509020800017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509020800017",
-    "titleFingerprint": "bb800a3c9cb8c8adc3b1f4d8e5d668468e162a20",
-    "dedupKeys": [
-      "1cc149575e685582801abd71c5db41552c777659",
-      "bb800a3c9cb8c8adc3b1f4d8e5d668468e162a20",
-      "686e9008b5e672ba5e912c5ec81416a0276485f9"
-    ],
-    "imageUrl": "/images/articles/1cc149575e68.jpg",
-    "i18n": {
-      "ko": {
-        "title": "오준일 대원제약 이사 장인상, 신동석씨 8일 별세·발인 11일",
-        "excerpt": "신동석씨가 8일 별세했으며 오준일 대원제약 ICT지원부 이사의 장인상으로 빈소는 서울 동작구 중앙대병원 장례식장 2호실에 마련됐다.",
-        "body": "신동석씨가 8일 별세했다. 고인은 오준일 대원제약 ICT지원부 이사의 장인으로, 빈소는 서울 동작구 중앙대병원 장례식장 2호실에 마련됐다. 발인은 11일 오전 5시로 공지됐다. 이번 부고는 유족과 지인, 관련 업계 관계자들에게 장례 일정과 장소를 알리기 위한 내용이다. 별세 일시, 빈소 위치, 발인 시간이 함께 전해지면서 조문과 일정 확인이 필요한 이들이 참고할 수 있다. 장례 절차와 관련한 추가 문의는 공지된 연락처를 통해 확인할 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Oh Jun-il of Daewon Pharmaceutical Mourns Father-in-Law Shin Dong-seok",
-        "excerpt": "Shin Dong-seok died on the 8th, and the funeral hall for the father-in-law of Oh Jun-il, ICT Support Department director at Daewon Pharmaceutical, is at Chung-Ang University Hospital in Seoul.",
-        "body": "Shin Dong-seok died on the 8th. He was the father-in-law of Oh Jun-il, director of the ICT Support Department at Daewon Pharmaceutical. The funeral room has been arranged at Room 2 of the funeral hall at Chung-Ang University Hospital in Dongjak District, Seoul. The funeral procession is scheduled for 5 a.m. on the 11th. The notice provides the time of death, funeral location and procession schedule for relatives, acquaintances and related industry contacts who need to pay respects or confirm arrangements. Further details about the funeral may be checked through the listed contact number. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "大元製薬オ・ジュンイル理事の義父、シン・ドンソク氏が8日に死去",
-        "excerpt": "シン・ドンソク氏が8日に死去し、大元製薬ICT支援部理事のオ・ジュンイル氏の義父として、斎場はソウル銅雀区の中央大学病院葬儀場2号室に設けられた。",
-        "body": "シン・ドンソク氏が8日に死去した。故人は大元製薬ICT支援部理事のオ・ジュンイル氏の義父で、斎場はソウル市銅雀区の中央大学病院葬儀場2号室に設けられた。出棺は11日午前5時と案内されている。今回の訃報は、遺族や知人、関連業界の関係者に葬儀の日程と場所を知らせる内容だ。死亡日、斎場の位置、出棺時刻が併せて伝えられ、弔問や日程確認が必要な人が参照できる。葬儀手続きに関する追加の問い合わせは、案内された連絡先で確認できる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "大元制药理事吴俊日岳父申东锡8日去世，11日凌晨出殡",
-        "excerpt": "申东锡先生8日去世，作为大元制药ICT支援部理事吴俊日的岳父，其灵堂设在首尔铜雀区中央大学医院殡仪馆2号室。",
-        "body": "申东锡先生于8日去世。逝者为大元制药ICT支援部理事吴俊日的岳父，灵堂设在首尔市铜雀区中央大学医院殡仪馆2号室。出殡时间公告为11日上午5时。此次讣告旨在向遗属、亲友及相关行业人士告知葬礼日程和地点。去世日期、灵堂位置和出殡时间一并公布，便于需要吊唁或确认日程的人士参考。有关葬礼程序的进一步咨询，可通过公告中的联系电话确认。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Fallece Shin Dong-seok, suegro de Oh Jun-il, director en Daewon Pharmaceutical",
-        "excerpt": "Shin Dong-seok falleció el día 8; era suegro de Oh Jun-il, director del Departamento de Soporte ICT de Daewon Pharmaceutical, y el velatorio está en el Hospital Chung-Ang de Seúl.",
-        "body": "Shin Dong-seok falleció el día 8. Era suegro de Oh Jun-il, director del Departamento de Soporte ICT de Daewon Pharmaceutical. La sala funeraria fue dispuesta en la sala 2 del tanatorio del Hospital Chung-Ang, en el distrito de Dongjak, Seúl. La salida del cortejo fúnebre está programada para las 5:00 de la mañana del día 11. El aviso informa a familiares, conocidos y personas relacionadas con el sector sobre la fecha, el lugar del velatorio y el horario del funeral. Estos datos permiten confirmar la agenda y organizar visitas de condolencia. Las consultas adicionales pueden realizarse mediante el número indicado. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Morre Shin Dong-seok, sogro de Oh Jun-il, diretor da Daewon Pharmaceutical",
-        "excerpt": "Shin Dong-seok morreu no dia 8; ele era sogro de Oh Jun-il, diretor do Departamento de Suporte ICT da Daewon Pharmaceutical, e o velório ocorre no Hospital Chung-Ang, em Seul.",
-        "body": "Shin Dong-seok morreu no dia 8. Ele era sogro de Oh Jun-il, diretor do Departamento de Suporte ICT da Daewon Pharmaceutical. A sala funerária foi organizada na sala 2 do funeral hall do Hospital Chung-Ang, no distrito de Dongjak, em Seul. A cerimônia de saída está marcada para as 5h do dia 11. O comunicado informa familiares, conhecidos e contatos do setor sobre a data do falecimento, o local do velório e o horário do funeral. As informações ajudam quem precisa prestar condolências ou confirmar a programação. Detalhes adicionais podem ser verificados pelo telefone divulgado. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Shin Dong-seok, Schwiegervater von Daewon-Pharmaceutical-Direktor Oh Jun-il, gestorben",
-        "excerpt": "Shin Dong-seok starb am 8.; er war der Schwiegervater von Oh Jun-il, Direktor der ICT-Supportabteilung bei Daewon Pharmaceutical, die Trauerhalle befindet sich im Chung-Ang University Hospital in Seoul.",
-        "body": "Shin Dong-seok ist am 8. gestorben. Er war der Schwiegervater von Oh Jun-il, Direktor der ICT-Supportabteilung bei Daewon Pharmaceutical. Die Trauerhalle wurde in Raum 2 des Bestattungshauses des Chung-Ang University Hospital im Bezirk Dongjak in Seoul eingerichtet. Die Trauerfeier mit Auszug ist für den 11. um 5 Uhr morgens angekündigt. Die Mitteilung nennt Todesdatum, Ort der Aufbahrung und Zeitplan, damit Angehörige, Bekannte und Personen aus dem Umfeld die Kondolenzbesuche und Termine prüfen können. Weitere Auskünfte können über die angegebene Telefonnummer eingeholt werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Décès de Shin Dong-seok, beau-père d’Oh Jun-il de Daewon Pharmaceutical",
-        "excerpt": "Shin Dong-seok est décédé le 8; il était le beau-père d’Oh Jun-il, directeur du département de soutien ICT de Daewon Pharmaceutical, et la chambre funéraire est à l’hôpital Chung-Ang de Séoul.",
-        "body": "Shin Dong-seok est décédé le 8. Il était le beau-père d’Oh Jun-il, directeur du département de soutien ICT de Daewon Pharmaceutical. La chambre funéraire a été installée dans la salle 2 du funérarium de l’hôpital Chung-Ang, dans l’arrondissement de Dongjak à Séoul. Le départ du cortège funéraire est prévu le 11 à 5 h du matin. L’avis vise à informer la famille, les connaissances et les personnes liées au secteur du lieu et du calendrier des obsèques. La date du décès, l’emplacement de la chambre funéraire et l’heure du départ permettent aux personnes concernées d’organiser leurs condoléances. Les renseignements complémentaires sont disponibles via le numéro indiqué. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "وفاة شين دونغ-سوك، والد زوجة أوه جون-إيل مدير دايوون فارماسوتيكال",
-        "excerpt": "توفي شين دونغ-سوك في الثامن، وهو والد زوجة أوه جون-إيل مدير قسم دعم تكنولوجيا المعلومات والاتصالات في دايوون فارماسوتيكال، وتقع قاعة العزاء في مستشفى جامعة تشونغ-آنغ بسيول.",
-        "body": "توفي شين دونغ-سوك في الثامن. وكان الراحل والد زوجة أوه جون-إيل، مدير قسم دعم تكنولوجيا المعلومات والاتصالات في دايوون فارماسوتيكال. أُعدت قاعة العزاء في الغرفة رقم 2 بقاعة الجنازات في مستشفى جامعة تشونغ-آنغ بمنطقة دونغجاك في سيول. ومن المقرر أن يكون التشييع في الساعة الخامسة صباحا من يوم 11. يهدف النعي إلى إبلاغ الأسرة والمعارف والجهات ذات الصلة بموعد الجنازة ومكانها. وتتيح المعلومات المعلنة، وهي تاريخ الوفاة وموقع القاعة وموعد التشييع، لمن يحتاج إلى تقديم التعازي أو تأكيد الجدول الرجوع إليها. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "डेवॉन फार्मास्युटिकल के निदेशक ओह जुन-इल के ससुर शिन डोंग-सोक का निधन",
-        "excerpt": "शिन डोंग-सोक का 8 तारीख को निधन हुआ; वे डेवॉन फार्मास्युटिकल के ICT सपोर्ट विभाग के निदेशक ओह जुन-इल के ससुर थे और पार्थिव स्थल सियोल के चुंग-आंग यूनिवर्सिटी अस्पताल में है।",
-        "body": "शिन डोंग-सोक का 8 तारीख को निधन हो गया। वे डेवॉन फार्मास्युटिकल के ICT सपोर्ट विभाग के निदेशक ओह जुन-इल के ससुर थे। अंतिम दर्शन की व्यवस्था सियोल के डोंगजाक जिले स्थित चुंग-आंग यूनिवर्सिटी अस्पताल के अंतिम संस्कार गृह के कक्ष 2 में की गई है। अंतिम यात्रा 11 तारीख सुबह 5 बजे निर्धारित है। यह शोक सूचना परिजनों, परिचितों और संबंधित उद्योग के लोगों को अंतिम संस्कार के समय और स्थान की जानकारी देने के लिए जारी की गई है। निधन की तारीख, स्थान और समय के विवरण से संवेदना देने या कार्यक्रम की पुष्टि करने वालों को सहायता मिलेगी। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Shin Dong-seok Wafat, Mertua Oh Jun-il Direktur Daewon Pharmaceutical",
-        "excerpt": "Shin Dong-seok wafat pada tanggal 8; ia adalah mertua Oh Jun-il, direktur Departemen Dukungan ICT Daewon Pharmaceutical, dan rumah duka berada di Rumah Sakit Universitas Chung-Ang, Seoul.",
-        "body": "Shin Dong-seok wafat pada tanggal 8. Almarhum adalah mertua Oh Jun-il, direktur Departemen Dukungan ICT Daewon Pharmaceutical. Ruang duka disiapkan di ruang 2 rumah duka Rumah Sakit Universitas Chung-Ang, Distrik Dongjak, Seoul. Prosesi pemberangkatan jenazah dijadwalkan pada tanggal 11 pukul 05.00. Pengumuman duka ini menyampaikan waktu wafat, lokasi ruang duka, dan jadwal prosesi kepada keluarga, kerabat, serta pihak terkait di industri. Informasi tersebut dapat menjadi rujukan bagi mereka yang perlu melayat atau memastikan jadwal. Pertanyaan tambahan terkait prosesi dapat dikonfirmasi melalui nomor kontak yang diumumkan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5145141d5a59",
-    "slug": "연합뉴스-이-시각-헤드라인---1030-899304",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-09T19:32:40.388Z",
-    "updatedAt": "2026-05-09T19:32:40.389Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509022700011",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509022700011",
-    "titleFingerprint": "64a3a78e24c6543c26fa5d64aa0072cce47a4c29",
-    "dedupKeys": [
-      "5145141d5a599ae27bee2877ba653f288dcf2c11",
-      "64a3a78e24c6543c26fa5d64aa0072cce47a4c29",
-      "2006ec74eacea2cec595227b10ba824a74ce429c"
-    ],
-    "imageUrl": "/images/articles/5145141d5a59.jpg",
-    "i18n": {
-      "ko": {
-        "title": "연합뉴스 10:30 이 시각 헤드라인 공개, 주요 뉴스 요약 기준 확인",
-        "excerpt": "연합뉴스는 10:30 기준 ‘이 시각 헤드라인’을 공개했다. 제공된 원문은 제목과 요약이 동일하며, 세부 항목 없이 yna.co.kr 출처만 확인된다.",
-        "body": "연합뉴스는 10:30 기준 ‘이 시각 헤드라인’을 통해 현재 시점의 주요 뉴스 묶음을 공개했다. 제공된 원문에는 제목이 ‘[연합뉴스 이 시각 헤드라인] - 10:30’으로 제시됐고, 요약 역시 같은 문구로 표기됐다. 별도의 개별 기사 목록, 사건 내용, 관련 수치, 인물, 장소 등 추가 정보는 포함되지 않았다. 따라서 이번 기사에서 확인 가능한 핵심 사실은 보도 형식, 공개 시각, 출처에 한정된다. 독자는 세부 헤드라인과 개별 뉴스 내용은 원 출처에서 확인해야 한다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Yonhap 10:30 Current Headlines Published, Source Details Confirmed",
-        "excerpt": "Yonhap released its “Current Headlines” item at 10:30. The provided source text contains the same title and summary, with no detailed news items beyond yna.co.kr.",
-        "body": "Yonhap News released a 10:30 item titled “[Yonhap Current Headlines] - 10:30,” presenting a current headline roundup at that time. In the provided source material, the title and summary are identical, and no separate list of articles, event details, figures, people, or locations is included. Therefore, the verifiable information in this article is limited to the format of the report, the stated publication time, and the source. Readers seeking the individual headlines or full news details should check the original source directly. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "聯合ニュース10時30分の時刻別ヘッドライン公開、出典情報を確認",
-        "excerpt": "聯合ニュースは10時30分基準の「この時刻のヘッドライン」を公開した。提供原文ではタイトルと要約が同一で、詳細項目は示されていない。",
-        "body": "聯合ニュースは10時30分基準で「[聯合ニュース この時刻のヘッドライン] - 10:30」というヘッドラインまとめを公開した。提供された原文では、タイトルと要約が同じ文言で記載されている。個別記事の一覧、事件の内容、関連する数値、人物、場所などの追加情報は含まれていない。そのため、本記事で確認できる事実は、報道形式、表示された時刻、出典に限られる。詳細なヘッドラインや各ニュースの内容は、原出典で確認する必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩联社10:30即时头条发布，来源与摘要信息已确认",
-        "excerpt": "韩联社发布10:30“即时头条”。所给原文中标题与摘要内容相同，未包含具体新闻条目，仅确认来源为yna.co.kr。",
-        "body": "韩联社在10:30发布题为“[韩联社即时头条] - 10:30”的当前新闻头条汇总。根据所提供原文，标题和摘要使用相同表述，未列出单独新闻条目、事件内容、相关数据、人物或地点等进一步信息。因此，本文能够确认的事实仅限于报道形式、标注时间和来源。读者如需了解具体头条及各项新闻内容，应直接查看原始来源。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Yonhap publica titulares de las 10:30 y confirma datos de fuente",
-        "excerpt": "Yonhap publicó su bloque de “titulares de este momento” a las 10:30. El texto original dado repite título y resumen, sin detalles adicionales de noticias.",
-        "body": "Yonhap News publicó a las 10:30 un bloque titulado “[Titulares de Yonhap en este momento] - 10:30”, presentado como un resumen de noticias actuales. En el material original proporcionado, el título y el resumen son idénticos. No se incluyen una lista separada de artículos, detalles de hechos, cifras relacionadas, personas o lugares. Por ello, la información verificable en esta nota se limita al formato del reporte, la hora indicada y la fuente. Para conocer los titulares concretos y el contenido completo de cada noticia, los lectores deben consultar la fuente original. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Yonhap divulga manchetes das 10h30 e confirma dados da fonte",
-        "excerpt": "A Yonhap publicou às 10h30 seu item de “manchetes do momento”. O texto fornecido traz título e resumo iguais, sem detalhes adicionais de notícias.",
-        "body": "A Yonhap News divulgou às 10h30 um item intitulado “[Manchetes da Yonhap neste momento] - 10:30”, apresentado como um resumo de notícias atuais. No material original fornecido, o título e o resumo aparecem com a mesma formulação. Não há lista separada de reportagens, detalhes de acontecimentos, números relacionados, pessoas ou locais. Assim, as informações verificáveis nesta nota se limitam ao formato da publicação, ao horário indicado e à fonte. Para ver as manchetes específicas e o conteúdo completo das notícias, os leitores devem consultar a fonte original. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Yonhap veröffentlicht 10:30-Uhr-Schlagzeilen, Quelle bestätigt",
-        "excerpt": "Yonhap veröffentlichte um 10:30 Uhr aktuelle Schlagzeilen. Der bereitgestellte Originaltext enthält denselben Titel und dieselbe Zusammenfassung ohne Details.",
-        "body": "Yonhap News veröffentlichte um 10:30 Uhr einen Beitrag mit dem Titel „[Yonhap aktuelle Schlagzeilen] - 10:30“, der als Zusammenstellung aktueller Meldungen gekennzeichnet ist. Im bereitgestellten Ausgangstext sind Titel und Zusammenfassung identisch. Eine separate Liste einzelner Artikel, Angaben zu Ereignissen, Zahlen, Personen oder Orten ist nicht enthalten. Damit beschränkt sich die überprüfbare Information in diesem Artikel auf das Berichtsformat, die angegebene Uhrzeit und die Quelle. Wer konkrete Schlagzeilen und vollständige Nachrichtendetails lesen möchte, sollte die Originalquelle aufrufen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Yonhap publie les titres de 10h30, source et résumé confirmés",
-        "excerpt": "Yonhap a publié ses “titres de l’instant” à 10h30. Le texte fourni reprend le même titre et le même résumé, sans détails supplémentaires d’actualité.",
-        "body": "Yonhap News a publié à 10h30 un élément intitulé « [Titres de Yonhap à cet instant] - 10:30 », présenté comme un regroupement de nouvelles actuelles. Dans le texte source fourni, le titre et le résumé sont identiques. Aucune liste séparée d’articles, aucun détail d’événement, chiffre associé, personne ou lieu n’est inclus. Les informations vérifiables dans cet article se limitent donc au format de publication, à l’heure indiquée et à la source. Pour consulter les titres précis et le contenu complet des nouvelles, les lecteurs doivent se reporter à la source originale. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "يونهاب تنشر عناوين الساعة 10:30 وتؤكد بيانات المصدر",
-        "excerpt": "نشرت يونهاب بند “عناوين هذه الساعة” عند 10:30. النص الأصلي المقدم يكرر العنوان والملخص نفسيهما، ولا يتضمن تفاصيل إخبارية إضافية.",
-        "body": "نشرت وكالة يونهاب عند الساعة 10:30 بندا بعنوان “[عناوين يونهاب في هذه الساعة] - 10:30”، بوصفه موجزا للعناوين الإخبارية الراهنة. في النص الأصلي المقدم، يظهر العنوان والملخص بالصياغة نفسها. ولا تتوافر قائمة منفصلة بالأخبار، أو تفاصيل عن أحداث، أو أرقام مرتبطة، أو أسماء أشخاص، أو أماكن. لذلك تقتصر المعلومات التي يمكن التحقق منها في هذا الخبر على شكل النشر، والوقت المذكور، والمصدر. وللاطلاع على العناوين المحددة ومحتوى الأخبار الكامل، ينبغي الرجوع إلى المصدر الأصلي. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "योनहाप ने 10:30 के ताजा हेडलाइन जारी किए, स्रोत विवरण पुष्ट",
-        "excerpt": "योनहाप ने 10:30 पर “इस समय के हेडलाइन” जारी किए। दिए गए मूल पाठ में शीर्षक और सार समान हैं, अलग समाचार विवरण शामिल नहीं हैं।",
-        "body": "योनहाप न्यूज ने 10:30 पर “[योनहाप इस समय के हेडलाइन] - 10:30” शीर्षक से मौजूदा समाचार शीर्षकों का संक्षिप्त समूह जारी किया। उपलब्ध कराए गए मूल पाठ में शीर्षक और सार एक ही वाक्यांश के रूप में दिए गए हैं। इसमें अलग-अलग खबरों की सूची, घटना का विवरण, संबंधित आंकड़े, व्यक्ति या स्थान जैसी अतिरिक्त जानकारी शामिल नहीं है। इसलिए इस लेख में सत्यापित की जा सकने वाली जानकारी रिपोर्ट के स्वरूप, बताए गए समय और स्रोत तक सीमित है। विशिष्ट हेडलाइन और पूर्ण समाचार सामग्री के लिए पाठकों को मूल स्रोत देखना चाहिए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Yonhap Rilis Headline 10:30, Detail Sumber dan Ringkasan Dikonfirmasi",
-        "excerpt": "Yonhap merilis item “headline saat ini” pada 10:30. Teks sumber yang diberikan memuat judul dan ringkasan yang sama, tanpa rincian berita tambahan.",
-        "body": "Yonhap News merilis pada 10:30 sebuah item berjudul “[Headline Yonhap Saat Ini] - 10:30”, yang ditampilkan sebagai rangkuman berita pada waktu tersebut. Dalam materi sumber yang diberikan, judul dan ringkasannya memakai rumusan yang sama. Tidak ada daftar artikel terpisah, detail peristiwa, angka terkait, tokoh, atau lokasi yang disertakan. Karena itu, informasi yang dapat diverifikasi dalam artikel ini terbatas pada format laporan, waktu yang tercantum, dan sumbernya. Pembaca yang ingin mengetahui headline spesifik serta isi lengkap tiap berita perlu memeriksa sumber asli. Sumber: yna.co.kr"
       }
     }
   }
