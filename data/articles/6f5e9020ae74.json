@@ -1,0 +1,75 @@
+{
+  "id": "6f5e9020ae74",
+  "slug": "한국서-돈-벌면서-세금은-못-내겠다빅테크-꼼수-못막나-안막나-561275",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-11T18:09:30.880Z",
+  "updatedAt": "2026-05-11T18:09:30.880Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/world/12043677",
+  "canonicalUrl": "https://www.mk.co.kr/news/world/12043677",
+  "titleFingerprint": "ade6285db5833cf7b3632fc44d72c123a68bf706",
+  "dedupKeys": [
+    "6f5e9020ae7478407b29ca9396fc5dc8b8d11a8b",
+    "ade6285db5833cf7b3632fc44d72c123a68bf706",
+    "1fafc152c984de44ef8ec89aecb8387c80e2f96a"
+  ],
+  "imageUrl": "/images/articles/6f5e9020ae74.png",
+  "i18n": {
+    "ko": {
+      "title": "빅테크 법인세 소송 잇단 승소, 한국 과세망 허점 다시 도마에",
+      "excerpt": "넷플릭스·메타에 이어 구글도 한국 과세당국과의 법인세 불복 소송에서 승소하며, 디지털세 지연과 서버 위치 기준을 둘러싼 과세 공백 논란이 커지고 있다.",
+      "body": "글로벌 빅테크 기업들이 한국에서 벌어들인 수익에 대한 법인세 부과에 불복해 제기한 소송에서 연이어 승소하고 있다. 넷플릭스와 메타에 이어 구글까지 과세당국과의 소송전에서 이기면서, 국내 매출을 올리는 해외 플랫폼 기업에 대한 과세 체계의 한계가 다시 부각됐다. 배경에는 지지부진한 디지털세 도입과 서버 위치를 과세 근거로 삼는 현행 기준이 있다. 서버가 국내에 없으면 과세 근거를 확보하기 어렵다는 점이 쟁점으로 남아 있다. 이 같은 판결 흐름은 향후 글로벌 빅테크 과세 정책과 디지털세 논의에 영향을 줄 전망이다. 출처: mk.co.kr."
+    },
+    "en": {
+      "title": "Big Tech Wins Korea Corporate Tax Cases, Exposing Digital Tax Gaps",
+      "excerpt": "After Netflix and Meta, Google has also won a corporate tax dispute against Korean tax authorities, intensifying debate over delayed digital tax rules and server-location standards.",
+      "body": "Global Big Tech companies are continuing to win lawsuits challenging corporate tax assessments on revenue earned in Korea. After Netflix and Meta, Google has also prevailed in its legal battle with Korean tax authorities, putting the limits of Korea’s tax framework for foreign platform companies back in focus. The dispute centers on the slow rollout of digital tax rules and the current reliance on server location as a basis for taxation. If servers are not located in Korea, securing a tax basis remains difficult. This series of rulings is expected to affect future policy discussions on taxing global Big Tech and advancing digital tax rules. Source: mk.co.kr."
+    },
+    "ja": {
+      "title": "ビッグテック法人税訴訟で相次ぎ勝訴、韓国課税網の穴が再浮上",
+      "excerpt": "ネットフリックス、メタに続きグーグルも韓国税務当局との法人税不服訴訟で勝訴し、デジタル税の遅れとサーバー所在地基準を巡る課税空白論争が強まっている。",
+      "body": "グローバル・ビッグテック企業が、韓国で得た収益への法人税課税に不服を申し立てた訴訟で相次いで勝訴している。ネットフリックスとメタに続き、グーグルも韓国税務当局との訴訟で勝ったことで、国内売上を上げる海外プラットフォーム企業への課税制度の限界が再び浮き彫りになった。背景には、進まないデジタル税導入と、サーバー所在地を課税根拠とする現行基準がある。サーバーが韓国内になければ課税根拠の確保が難しい点が争点として残る。こうした判決の流れは、今後のビッグテック課税政策とデジタル税議論に影響を与える見通しだ。出典: mk.co.kr."
+    },
+    "zh": {
+      "title": "大型科技公司接连赢得韩国法人税诉讼，税收漏洞再受关注",
+      "excerpt": "继Netflix和Meta之后，谷歌也在与韩国税务机关的法人税不服诉讼中胜诉，围绕数字税迟迟未落地和服务器所在地标准的争议正在扩大。",
+      "body": "全球大型科技公司在韩国收入相关法人税征收不服诉讼中接连胜诉。继Netflix和Meta之后，谷歌也在与韩国税务机关的诉讼中获胜，使韩国针对在本土取得销售收入的海外平台企业征税制度的局限再次凸显。其背景在于数字税引入进展缓慢，以及现行制度将服务器所在地作为征税依据。若服务器不在韩国境内，税务机关难以 확보充分征税依据，这一点仍是核心争议。此类判决趋势预计将影响今后全球大型科技公司征税政策和数字税讨论。来源: mk.co.kr."
+    },
+    "es": {
+      "title": "Big Tech gana pleitos fiscales en Corea y reabre dudas sobre el impuesto digital",
+      "excerpt": "Tras Netflix y Meta, Google también ganó una demanda contra la autoridad fiscal coreana por impuesto corporativo, elevando el debate sobre el retraso del impuesto digital y el criterio de servidores.",
+      "body": "Las grandes tecnológicas globales están ganando una serie de demandas contra la imposición del impuesto corporativo sobre ingresos obtenidos en Corea. Después de Netflix y Meta, Google también venció en su disputa judicial con la autoridad fiscal coreana, lo que vuelve a exponer los límites del sistema para gravar a plataformas extranjeras con ventas en el país. El trasfondo es la lenta adopción del impuesto digital y el criterio vigente que usa la ubicación del servidor como base fiscal. Si los servidores no están en Corea, resulta difícil asegurar fundamento para cobrar impuestos. Esta línea de fallos podría influir en la política futura sobre Big Tech y en el debate del impuesto digital. Fuente: mk.co.kr."
+    },
+    "pt": {
+      "title": "Big Tech vence ações fiscais na Coreia e expõe brechas no imposto digital",
+      "excerpt": "Depois de Netflix e Meta, o Google também venceu uma disputa de imposto corporativo contra o fisco coreano, ampliando o debate sobre o atraso do imposto digital e o critério de servidores.",
+      "body": "Grandes empresas globais de tecnologia vêm vencendo ações que contestam a cobrança de imposto corporativo sobre receitas obtidas na Coreia. Depois de Netflix e Meta, o Google também derrotou a autoridade fiscal coreana na Justiça, recolocando em evidência os limites do sistema de tributação de plataformas estrangeiras que registram vendas no país. O contexto envolve a lenta implementação do imposto digital e o atual critério baseado na localização dos servidores. Quando os servidores não estão na Coreia, torna-se difícil estabelecer a base para a tributação. Essa sequência de decisões deve influenciar futuras políticas de tributação da Big Tech e o debate sobre imposto digital. Fonte: mk.co.kr."
+    },
+    "de": {
+      "title": "Big Tech gewinnt Steuerklagen in Korea, Lücken bei Digitalsteuer im Fokus",
+      "excerpt": "Nach Netflix und Meta hat auch Google einen Körperschaftsteuerstreit gegen Koreas Steuerbehörden gewonnen, wodurch die Debatte über verzögerte Digitalsteuer und Serverstandorte wächst.",
+      "body": "Globale Big-Tech-Unternehmen gewinnen in Korea weiter Klagen gegen Körperschaftsteuerbescheide auf dort erzielte Erlöse. Nach Netflix und Meta setzte sich nun auch Google im Rechtsstreit mit den koreanischen Steuerbehörden durch. Damit rücken die Grenzen des Systems zur Besteuerung ausländischer Plattformunternehmen mit Umsätzen in Korea erneut in den Vordergrund. Hintergrund sind die schleppende Einführung einer Digitalsteuer und der geltende Maßstab, der den Serverstandort als Besteuerungsgrundlage heranzieht. Befinden sich Server nicht in Korea, bleibt es schwierig, eine Steuergrundlage zu sichern. Diese Urteilsserie dürfte künftige Politik zur Big-Tech-Besteuerung und Digitalsteuerdebatten beeinflussen. Quelle: mk.co.kr."
+    },
+    "fr": {
+      "title": "Big Tech gagne ses procès fiscaux en Corée, les failles de la taxe numérique exposées",
+      "excerpt": "Après Netflix et Meta, Google a aussi gagné un litige d’impôt sur les sociétés contre le fisc coréen, relançant le débat sur la taxe numérique retardée et le critère des serveurs.",
+      "body": "Les géants mondiaux de la technologie remportent coup sur coup des procès contestant l’imposition de l’impôt sur les sociétés sur des revenus gagnés en Corée. Après Netflix et Meta, Google a également gagné son bras de fer judiciaire avec l’administration fiscale coréenne, remettant en lumière les limites du système visant les plateformes étrangères réalisant des ventes dans le pays. Le contexte tient au retard de la taxe numérique et au critère actuel fondé sur l’emplacement des serveurs. Lorsque les serveurs ne sont pas situés en Corée, il reste difficile d’établir une base d’imposition. Cette série de décisions devrait peser sur la future politique fiscale concernant Big Tech et sur les discussions autour de la taxe numérique. Source: mk.co.kr."
+    },
+    "ar": {
+      "title": "شركات التكنولوجيا الكبرى تكسب قضايا ضريبية في كوريا وتكشف ثغرات الضريبة الرقمية",
+      "excerpt": "بعد نتفليكس وميتا، فازت غوغل أيضا في نزاع على ضريبة الشركات مع سلطات الضرائب الكورية، ما زاد الجدل حول تأخر الضريبة الرقمية ومعيار موقع الخوادم.",
+      "body": "تواصل شركات التكنولوجيا العالمية الكبرى الفوز بدعاوى تعترض على فرض ضريبة الشركات على إيرادات حققتها في كوريا. فبعد نتفليكس وميتا، كسبت غوغل أيضا معركتها القضائية مع سلطات الضرائب الكورية، ما أعاد إبراز حدود النظام الضريبي تجاه منصات أجنبية تحقق مبيعات داخل البلاد. وتكمن الخلفية في بطء تطبيق الضريبة الرقمية واعتماد المعيار الحالي على موقع الخادم كأساس للضريبة. وعندما لا تكون الخوادم موجودة داخل كوريا، يبقى من الصعب تأمين سند ضريبي واضح. ومن المتوقع أن تؤثر هذه الأحكام المتتالية في سياسات فرض الضرائب على شركات التكنولوجيا الكبرى وفي نقاشات الضريبة الرقمية مستقبلا. المصدر: mk.co.kr."
+    },
+    "hi": {
+      "title": "कोरिया में बिग टेक ने जीते कॉरपोरेट टैक्स केस, डिजिटल टैक्स की खामियां उजागर",
+      "excerpt": "नेटफ्लिक्स और मेटा के बाद गूगल ने भी कोरियाई कर प्राधिकरण के खिलाफ कॉरपोरेट टैक्स विवाद जीता, जिससे डिजिटल टैक्स में देरी और सर्वर लोकेशन मानक पर बहस तेज हुई।",
+      "body": "वैश्विक बिग टेक कंपनियां कोरिया में अर्जित आय पर लगाए गए कॉरपोरेट टैक्स के खिलाफ दायर मुकदमों में लगातार जीत रही हैं। नेटफ्लिक्स और मेटा के बाद गूगल ने भी कोरियाई कर प्राधिकरण के साथ कानूनी विवाद में जीत हासिल की, जिससे देश में बिक्री करने वाली विदेशी प्लेटफॉर्म कंपनियों पर कर लगाने की व्यवस्था की सीमाएं फिर सामने आईं। इसकी पृष्ठभूमि में डिजिटल टैक्स लागू करने में देरी और सर्वर लोकेशन को कराधान का आधार मानने वाला मौजूदा मानक है। यदि सर्वर कोरिया में नहीं हैं, तो कर आधार सुनिश्चित करना कठिन रहता है। इन फैसलों की श्रृंखला से बिग टेक कर नीति और डिजिटल टैक्स चर्चा पर असर पड़ने की उम्मीद है। स्रोत: mk.co.kr."
+    },
+    "id": {
+      "title": "Big Tech Menang Gugatan Pajak di Korea, Celah Pajak Digital Kembali Disorot",
+      "excerpt": "Setelah Netflix dan Meta, Google juga menang dalam sengketa pajak badan melawan otoritas pajak Korea, memperbesar debat soal lambannya pajak digital dan standar lokasi server.",
+      "body": "Perusahaan Big Tech global terus memenangkan gugatan yang menolak pengenaan pajak badan atas pendapatan yang diperoleh di Korea. Setelah Netflix dan Meta, Google juga menang dalam perselisihan hukum dengan otoritas pajak Korea, sehingga batas sistem pajak terhadap platform asing yang mencatat penjualan di dalam negeri kembali menjadi sorotan. Latar belakangnya adalah penerapan pajak digital yang berjalan lambat dan standar saat ini yang menjadikan lokasi server sebagai dasar perpajakan. Jika server tidak berada di Korea, dasar pemajakan sulit dipastikan. Rangkaian putusan ini diperkirakan memengaruhi kebijakan pajak Big Tech dan pembahasan pajak digital ke depan. Sumber: mk.co.kr."
+    }
+  }
+}
