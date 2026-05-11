@@ -1,5 +1,230 @@
 [
   {
+    "id": "da272d38acb1",
+    "slug": "현금이-얼마나-많길래58조어치-쇼핑-엔비디아가-투자한-기업은-633514",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-11T20:52:30.831Z",
+    "updatedAt": "2026-05-11T20:52:30.831Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043646",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043646",
+    "titleFingerprint": "3bc928b49144b39ba8202a3595f94a18fee8b695",
+    "dedupKeys": [
+      "da272d38acb1f056e6671b77df44a13460593c3f",
+      "3bc928b49144b39ba8202a3595f94a18fee8b695",
+      "0aaa43bec6a97872a4062ef2d5aadfcf196ee32b"
+    ],
+    "imageUrl": "/images/articles/da272d38acb1.png",
+    "i18n": {
+      "ko": {
+        "title": "엔비디아 58조원 투자 행보, AI 생태계 주도권 확대 나선 이유",
+        "excerpt": "AI 칩 시장 1위 엔비디아가 막대한 현금 창출력을 바탕으로 글로벌 AI 생태계 전반에 약 58조원 규모의 투자를 단행하며 하드웨어를 넘어 영향력 확대에 나섰다.",
+        "body": "인공지능(AI) 칩 시장 1위 기업인 엔비디아가 막대한 현금 창출력을 바탕으로 글로벌 AI 생태계 전반에 대규모 투자를 이어가고 있다. mk.co.kr에 따르면 엔비디아는 약 58조원어치 투자 행보를 보이며 하드웨어 공급 기업을 넘어 AI 생태계 전반의 주도권을 강화하려는 움직임을 보이고 있다. 이는 AI 칩 수요 확대와 함께 축적된 현금 창출력이 투자 여력으로 이어진 결과로 풀이된다. 엔비디아의 투자 확대는 관련 기업과 AI 인프라 시장에 영향을 줄 수 있으며, 향후 글로벌 AI 경쟁 구도에서도 중요한 변수로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nvidia’s 58 Trillion Won AI Investment Push Signals Wider Ecosystem Ambitions",
+        "excerpt": "Nvidia, the No. 1 company in the AI chip market, is using its strong cash generation to invest about 58 trillion won across the global AI ecosystem and expand beyond hardware supply.",
+        "body": "Nvidia, the leading company in the artificial intelligence chip market, is continuing large-scale investments across the global AI ecosystem based on its powerful cash generation. According to mk.co.kr, Nvidia has made investment moves worth about 58 trillion won, signaling an effort to strengthen its influence across the AI ecosystem beyond simply supplying hardware. The move is seen as a result of cash created amid rising demand for AI chips. Nvidia’s expanding investments could affect related companies and the AI infrastructure market, while also becoming an important factor in the global AI competition ahead. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "エヌビディア58兆ウォン投資、AI生態系の主導権拡大へ",
+        "excerpt": "AIチップ市場首位のエヌビディアが、強力な現金創出力を背景に世界のAI生態系全体へ約58兆ウォン規模の投資を進め、ハード供給を超えた影響力拡大に動いている。",
+        "body": "人工知能（AI）チップ市場で首位に立つエヌビディアが、莫大な現金創出力を背景に、世界のAI生態系全体への大規模投資を続けている。mk.co.krによると、エヌビディアは約58兆ウォン規模の投資を進めており、ハードウェア供給企業にとどまらず、AI生態系全般で主導権を強化しようとする動きを見せている。これはAIチップ需要の拡大とともに蓄積された現金創出力が投資余力につながった結果とみられる。投資拡大は関連企業やAIインフラ市場に影響を与える可能性があり、今後の世界的なAI競争構図でも重要な変数として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "英伟达58万亿韩元投资行动，意在扩大AI生态主导权",
+        "excerpt": "AI芯片市场第一的英伟达正凭借强大的现金创造能力，在全球AI生态系统推进约58万亿韩元规模投资，影响力从硬件供应延伸至生态全局。",
+        "body": "人工智能（AI）芯片市场排名第一的英伟达，正凭借庞大的现金创造能力，持续在全球AI生态系统进行大规模投资。据mk.co.kr报道，英伟达的投资行动规模约达58万亿韩元，显示其正从硬件供应商进一步转向强化对AI生态系统整体主导权。随着AI芯片需求扩大，公司积累的现金创造能力被认为转化为投资空间。英伟达扩大投资可能影响相关企业和AI基础设施市场，也将在未来全球AI竞争格局中成为值得关注的重要变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Nvidia invierte 58 billones de wones y busca más control del ecosistema de IA",
+        "excerpt": "Nvidia, líder del mercado de chips de IA, usa su fuerte generación de efectivo para invertir unos 58 billones de wones en el ecosistema global de IA y ampliar su influencia más allá del hardware.",
+        "body": "Nvidia, la empresa número uno en el mercado de chips de inteligencia artificial, continúa realizando inversiones de gran escala en todo el ecosistema global de IA gracias a su fuerte capacidad de generar efectivo. Según mk.co.kr, Nvidia ha llevado adelante inversiones por unos 58 billones de wones, en una señal de que busca reforzar su liderazgo en el ecosistema de IA más allá del suministro de hardware. Este movimiento se interpreta como resultado de la liquidez acumulada junto con el aumento de la demanda de chips de IA. La expansión inversora de Nvidia puede influir en empresas relacionadas y en el mercado de infraestructura de IA, y será una variable relevante en la competencia global de IA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Nvidia investe 58 trilhões de wons e amplia disputa pelo ecossistema de IA",
+        "excerpt": "A Nvidia, líder no mercado de chips de IA, usa sua forte geração de caixa para investir cerca de 58 trilhões de wons no ecossistema global de IA e ampliar sua influência além do hardware.",
+        "body": "A Nvidia, empresa líder no mercado de chips de inteligência artificial, segue realizando investimentos de grande escala em todo o ecossistema global de IA com base em sua forte capacidade de geração de caixa. Segundo o mk.co.kr, a Nvidia tem feito movimentos de investimento de cerca de 58 trilhões de wons, indicando uma tentativa de fortalecer sua liderança em todo o ecossistema de IA, além do fornecimento de hardware. O movimento é visto como resultado da geração de caixa acumulada com a expansão da demanda por chips de IA. A ampliação dos investimentos pode impactar empresas relacionadas e o mercado de infraestrutura de IA, tornando-se uma variável importante na competição global de IA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nvidia investiert 58 Billionen Won und baut Macht im KI-Ökosystem aus",
+        "excerpt": "Nvidia, Marktführer bei KI-Chips, nutzt seine starke Cash-Generierung für Investitionen von rund 58 Billionen Won in das globale KI-Ökosystem und erweitert den Einfluss über Hardware hinaus.",
+        "body": "Nvidia, die Nummer eins im Markt für Chips für künstliche Intelligenz, setzt auf Basis seiner starken Cash-Generierung große Investitionen im globalen KI-Ökosystem fort. Laut mk.co.kr belaufen sich Nvidias Investitionsaktivitäten auf rund 58 Billionen Won. Damit zeigt das Unternehmen, dass es über die Rolle als Hardwarelieferant hinaus die Führungsposition im gesamten KI-Ökosystem stärken will. Dies wird als Ergebnis der durch die steigende Nachfrage nach KI-Chips aufgebauten Finanzkraft gesehen. Die wachsenden Investitionen von Nvidia könnten verbundene Unternehmen und den Markt für KI-Infrastruktur beeinflussen und künftig ein wichtiger Faktor im globalen KI-Wettbewerb sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Nvidia investit 58 billions de wons pour renforcer son emprise sur l’IA",
+        "excerpt": "Nvidia, numéro un du marché des puces d’IA, mobilise sa forte génération de trésorerie pour investir environ 58 billions de wons dans l’écosystème mondial de l’IA et dépasser le seul matériel.",
+        "body": "Nvidia, leader du marché des puces d’intelligence artificielle, poursuit des investissements massifs dans l’ensemble de l’écosystème mondial de l’IA grâce à sa forte capacité de génération de trésorerie. Selon mk.co.kr, Nvidia mène des investissements d’environ 58 billions de wons, signe d’une volonté de renforcer son influence sur l’écosystème de l’IA au-delà de la fourniture de matériel. Ce mouvement s’explique par la puissance financière accumulée avec l’essor de la demande en puces d’IA. L’expansion des investissements de Nvidia pourrait peser sur les entreprises liées et le marché des infrastructures d’IA, tout en devenant un facteur important dans la concurrence mondiale de l’IA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إنفيديا تستثمر 58 تريليون وون لتعزيز نفوذها في منظومة الذكاء الاصطناعي",
+        "excerpt": "إنفيديا، الشركة الأولى في سوق رقائق الذكاء الاصطناعي، تستند إلى قدرتها الكبيرة على توليد النقد لتنفيذ استثمارات بنحو 58 تريليون وون في منظومة الذكاء الاصطناعي العالمية.",
+        "body": "تواصل إنفيديا، الشركة الأولى في سوق رقائق الذكاء الاصطناعي، تنفيذ استثمارات واسعة في منظومة الذكاء الاصطناعي العالمية اعتمادا على قدرتها الكبيرة على توليد النقد. ووفقا لـ mk.co.kr، أظهرت إنفيديا تحركات استثمارية تبلغ نحو 58 تريليون وون، بما يشير إلى سعيها لتعزيز موقعها القيادي في منظومة الذكاء الاصطناعي بأكملها، لا الاكتفاء بدور مورّد العتاد. ويُنظر إلى ذلك بوصفه نتيجة لتراكم القدرة النقدية مع توسع الطلب على رقائق الذكاء الاصطناعي. وقد تؤثر زيادة استثمارات إنفيديا في الشركات ذات الصلة وسوق بنية الذكاء الاصطناعي التحتية، كما قد تصبح عاملا مهما في المنافسة العالمية المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "एनवीडिया का 58 ट्रिलियन वॉन निवेश, AI इकोसिस्टम पर पकड़ बढ़ाने की चाल",
+        "excerpt": "AI चिप बाजार की शीर्ष कंपनी एनवीडिया अपनी मजबूत नकदी सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में करीब 58 ट्रिलियन वॉन का निवेश कर हार्डवेयर से आगे प्रभाव बढ़ा रही है।",
+        "body": "कृत्रिम बुद्धिमत्ता यानी AI चिप बाजार की नंबर एक कंपनी एनवीडिया अपनी भारी नकदी सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में बड़े पैमाने पर निवेश जारी रखे हुए है। mk.co.kr के अनुसार, एनवीडिया ने करीब 58 ट्रिलियन वॉन के निवेश कदम उठाए हैं, जिससे संकेत मिलता है कि कंपनी हार्डवेयर आपूर्ति से आगे बढ़कर पूरे AI इकोसिस्टम में अपनी नेतृत्वकारी स्थिति मजबूत करना चाहती है। AI चिप की मांग बढ़ने के साथ जमा हुई नकदी क्षमता को इस निवेश की पृष्ठभूमि माना जा रहा है। एनवीडिया का निवेश विस्तार संबंधित कंपनियों और AI इन्फ्रास्ट्रक्चर बाजार को प्रभावित कर सकता है तथा आगे वैश्विक AI प्रतिस्पर्धा में अहम कारक बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Nvidia Investasi 58 Triliun Won, Perluas Kendali di Ekosistem AI Global",
+        "excerpt": "Nvidia, pemimpin pasar chip AI, memakai kekuatan arus kasnya untuk berinvestasi sekitar 58 triliun won di ekosistem AI global dan memperluas pengaruhnya melampaui pasokan perangkat keras.",
+        "body": "Nvidia, perusahaan nomor satu di pasar chip kecerdasan buatan, terus melakukan investasi besar di seluruh ekosistem AI global berdasarkan kemampuan menghasilkan kas yang sangat kuat. Menurut mk.co.kr, Nvidia menunjukkan langkah investasi senilai sekitar 58 triliun won, menandakan upaya memperkuat kepemimpinan di ekosistem AI secara luas, bukan hanya sebagai pemasok perangkat keras. Langkah ini dipandang sebagai hasil dari kemampuan kas yang terbentuk seiring meningkatnya permintaan chip AI. Perluasan investasi Nvidia dapat memengaruhi perusahaan terkait dan pasar infrastruktur AI, sekaligus menjadi variabel penting dalam persaingan AI global ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f6d4362084ad",
+    "slug": "세미나-발표-준비-안-돼서호텔-폭파-협박-전화한-30대-962422",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-11T20:51:28.930Z",
+    "updatedAt": "2026-05-11T20:51:28.930Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12043651",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12043651",
+    "titleFingerprint": "37542975fb370c25f635acfea6137f5ca62dd0d8",
+    "dedupKeys": [
+      "f6d4362084ad3be8698265bc50ef0e01d3c684e5",
+      "37542975fb370c25f635acfea6137f5ca62dd0d8",
+      "c9a89fc803a367d4b4055b34f32a9728a75fa8c8"
+    ],
+    "imageUrl": "/images/articles/f6d4362084ad.jpg",
+    "i18n": {
+      "ko": {
+        "title": "호텔 폭파 협박 허위신고 30대, 발표 준비 부족 이유로 항소심도 실형",
+        "excerpt": "발표 준비가 부족했던 30대가 자신이 맡은 세미나가 열릴 호텔을 폭파하겠다고 허위 신고해 재판에 넘겨졌고, 광주지법 항소심에서도 실형을 선고받았다.",
+        "body": "발표 준비가 부족하다는 이유로 자신이 발표를 맡은 세미나장이 있는 호텔을 폭파하겠다고 허위 신고한 30대가 항소심에서도 실형을 선고받았다. 광주지법 형사2부 김종석 부장판사는 숙박시설에 폭발 관련 협박 전화를 한 혐의로 재판에 넘겨진 피고인에게 원심과 마찬가지로 실형을 선고했다. 사건은 개인의 발표 준비 부족이 공공 안전을 위협하는 허위 신고로 이어졌다는 점에서 법원이 엄정한 판단을 유지한 사례다. 허위 폭파 협박은 숙박시설과 세미나 참석자, 수사·안전 대응 체계에 불필요한 혼란을 초래할 수 있어 향후 유사 사건에도 경고가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hotel Bomb Threat Hoax Over Seminar Prep Ends in Prison Again on Appeal",
+        "excerpt": "A person in their 30s who falsely threatened to blow up the hotel hosting their seminar because they were unprepared for a presentation received a prison sentence again on appeal at Gwangju District Court.",
+        "body": "A defendant in their 30s who falsely reported that they would blow up a hotel where they were scheduled to give a seminar presentation because they had not prepared enough was sentenced to prison again on appeal. The Criminal Division 2 of Gwangju District Court, presided over by Judge Kim Jong-seok, upheld a real prison sentence for the defendant accused of making an explosive-related threat call to a lodging facility. The case shows the court maintaining a strict view when a personal lack of preparation leads to a false report that threatens public safety. Such hoax bomb threats can cause unnecessary disruption for lodging facilities, seminar participants, and emergency response systems, making the ruling a warning for similar cases. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ホテル爆破予告の虚偽通報、発表準備不足の30代に控訴審も実刑",
+        "excerpt": "発表準備が不足していた30代が、自分が担当するセミナー会場のホテルを爆破すると虚偽通報し、光州地裁の控訴審でも実刑を言い渡された。",
+        "body": "発表準備が足りないという理由で、自分が発表を担当するセミナー会場のあるホテルを爆破すると虚偽通報した30代の被告に、控訴審でも実刑が言い渡された。光州地裁刑事2部の金鍾錫裁判長は、宿泊施設に爆発関連の脅迫電話をした容疑で裁判にかけられた被告に対し、原審と同じく実刑を宣告した。今回の事件は、個人的な準備不足が公共の安全を脅かす虚偽通報につながった点で、裁判所が厳格な判断を維持した事例だ。虚偽の爆破予告は宿泊施設やセミナー参加者、捜査・安全対応体制に不要な混乱を招く恐れがあり、類似事件への警告になるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "因研讨会发表未准备好谎称炸酒店，30多岁被告二审仍获实刑",
+        "excerpt": "一名30多岁人士因发表准备不足，虚假报警称要炸毁自己负责发表的研讨会所在酒店，被移交审判后在光州地方法院二审仍被判实刑。",
+        "body": "一名30多岁被告因发表准备不足，虚假报警称要炸毁自己负责发表的研讨会所在酒店，在二审中仍被判处实刑。光州地方法院刑事第2部审判长金钟锡对因向住宿设施拨打与爆炸有关的威胁电话而受审的被告，维持了与一审相同的实刑判决。该案显示，个人发表准备不足最终演变为威胁公共安全的虚假报警，法院对此维持了严格判断。虚假爆炸威胁可能给住宿设施、研讨会参加者以及调查和安全应对体系造成不必要混乱，此次判决也将对类似案件形成警示。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Amenaza falsa de bomba en hotel por no preparar seminario: prisión confirmada",
+        "excerpt": "Una persona de unos 30 años que llamó falsamente para amenazar con volar el hotel donde debía presentar un seminario por falta de preparación recibió de nuevo prisión en apelación en Gwangju.",
+        "body": "Una persona de unos 30 años que denunció falsamente que haría estallar el hotel donde debía realizar una presentación de seminario, alegando falta de preparación, volvió a recibir una pena de prisión en apelación. La Sala Penal 2 del Tribunal de Distrito de Gwangju, presidida por el juez Kim Jong-seok, mantuvo una condena efectiva contra el acusado de realizar una llamada de amenaza relacionada con explosivos a un establecimiento de alojamiento. El caso muestra que el tribunal mantuvo una postura estricta cuando una falta personal de preparación derivó en una denuncia falsa que amenazó la seguridad pública. Las falsas amenazas de bomba pueden causar confusión innecesaria en hoteles, asistentes al seminario y sistemas de investigación y respuesta de seguridad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Falsa ameaça de bomba em hotel por seminário sem preparo mantém prisão",
+        "excerpt": "Uma pessoa na casa dos 30 anos, sem preparo para uma apresentação, fez denúncia falsa dizendo que explodiria o hotel do seminário e voltou a receber pena de prisão em recurso em Gwangju.",
+        "body": "Uma pessoa na casa dos 30 anos que fez uma denúncia falsa dizendo que explodiria o hotel onde deveria apresentar um seminário, por não estar suficientemente preparada, voltou a ser condenada a prisão em grau de recurso. A 2ª Divisão Criminal do Tribunal Distrital de Gwangju, presidida pelo juiz Kim Jong-seok, manteve a pena efetiva contra o réu acusado de fazer uma ligação de ameaça relacionada a explosão contra uma instalação de hospedagem. O caso mostra a manutenção de uma avaliação rigorosa quando a falta de preparo individual se transforma em uma falsa denúncia que ameaça a segurança pública. Ameaças falsas de bomba podem gerar confusão desnecessária para hotéis, participantes e sistemas de resposta. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Falsche Bombendrohung gegen Hotel wegen Seminar: Berufung bestätigt Haft",
+        "excerpt": "Eine Person in den 30ern drohte fälschlich, das Hotel des eigenen Seminars zu sprengen, weil die Präsentation nicht vorbereitet war; auch vor dem Bezirksgericht Gwangju blieb es bei Haft.",
+        "body": "Eine angeklagte Person in den 30ern, die wegen unzureichender Vorbereitung der eigenen Seminarpräsentation fälschlich meldete, ein Hotel mit dem Seminarort sprengen zu wollen, ist auch in der Berufung zu einer Freiheitsstrafe verurteilt worden. Die Strafkammer 2 des Bezirksgerichts Gwangju unter Vorsitz von Richter Kim Jong-seok bestätigte eine tatsächliche Haftstrafe für die Person, der ein explosionsbezogener Drohanruf bei einer Unterkunft vorgeworfen wurde. Der Fall zeigt, dass das Gericht streng blieb, als persönliche Vorbereitungsmängel zu einer Falschmeldung wurden, die die öffentliche Sicherheit bedrohte. Falsche Bombendrohungen können Hotels, Seminarteilnehmer sowie Ermittlungs- und Sicherheitsabläufe unnötig belasten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Fausse alerte à la bombe dans un hôtel faute de préparation: prison confirmée",
+        "excerpt": "Une personne trentenaire, insuffisamment préparée pour son exposé, a faussement menacé de faire exploser l’hôtel du séminaire et a de nouveau été condamnée à de la prison en appel à Gwangju.",
+        "body": "Une personne dans la trentaine, qui avait faussement signalé vouloir faire exploser l’hôtel où elle devait présenter un séminaire parce que sa préparation était insuffisante, a de nouveau été condamnée à une peine de prison en appel. La 2e chambre pénale du tribunal de district de Gwangju, présidée par le juge Kim Jong-seok, a maintenu une peine ferme contre l’accusé poursuivi pour un appel de menace lié à une explosion visant un établissement d’hébergement. L’affaire montre que le tribunal a conservé une position stricte lorsqu’un manque de préparation personnel s’est transformé en fausse alerte menaçant la sécurité publique. De telles menaces peuvent perturber inutilement les hôtels, les participants et les dispositifs d’enquête et de sécurité. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تهديد كاذب بتفجير فندق بسبب عدم التحضير لندوة ينتهي بالسجن في الاستئناف",
+        "excerpt": "شخص في الثلاثينات أبلغ كذبا بأنه سيفجر الفندق الذي يستضيف الندوة التي كان سيقدم فيها عرضا بسبب ضعف التحضير، وحكم عليه بالسجن مجددا في الاستئناف بمحكمة غوانغجو.",
+        "body": "حكم على متهم في الثلاثينات بالسجن مجددا في مرحلة الاستئناف بعدما أبلغ كذبا بأنه سيفجر الفندق الذي تقع فيه قاعة الندوة التي كان مكلفا بتقديم عرض فيها، وذلك بسبب عدم كفاية تحضيره. وأبقت الدائرة الجنائية الثانية في محكمة غوانغجو الجزئية، برئاسة القاضي كيم جونغ سوك، على عقوبة السجن الفعلية بحق المتهم الذي حوكم بتهمة إجراء مكالمة تهديد مرتبطة بانفجار ضد منشأة إقامة. وتظهر القضية أن المحكمة حافظت على موقف صارم عندما تحول نقص التحضير الشخصي إلى بلاغ كاذب يهدد السلامة العامة. فالتهديدات الكاذبة بالتفجير قد تسبب ارتباكا غير ضروري للفنادق والمشاركين في الندوات وأنظمة التحقيق والاستجابة الأمنية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सेमिनार तैयारी न होने पर होटल बम धमकी की झूठी कॉल, अपील में भी जेल",
+        "excerpt": "प्रस्तुति की तैयारी कम होने के कारण अपने सेमिनार स्थल वाले होटल को उड़ाने की झूठी धमकी देने वाले 30 वर्ष के आसपास के व्यक्ति को ग्वांगजू जिला अदालत की अपील में भी जेल की सजा मिली।",
+        "body": "प्रस्तुति की पर्याप्त तैयारी न होने के कारण जिस होटल में वह सेमिनार प्रस्तुति देने वाला था, उसे उड़ाने की झूठी सूचना देने वाले 30 वर्ष के आसपास के आरोपी को अपील में भी वास्तविक कारावास की सजा सुनाई गई। ग्वांगजू जिला अदालत की आपराधिक पीठ 2 के प्रधान न्यायाधीश किम जोंग-सोक ने आवासीय सुविधा को विस्फोट से जुड़ी धमकी भरी कॉल करने के आरोप में मुकदमे का सामना कर रहे आरोपी के खिलाफ निचली अदालत की तरह जेल की सजा बरकरार रखी। यह मामला दिखाता है कि व्यक्तिगत तैयारी की कमी जब सार्वजनिक सुरक्षा को खतरे में डालने वाली झूठी रिपोर्ट में बदलती है, तो अदालत सख्त रुख बनाए रखती है। ऐसी झूठी बम धमकियां होटल, सेमिनार प्रतिभागियों और सुरक्षा प्रतिक्रिया तंत्र में अनावश्यक भ्रम पैदा कर सकती हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Ancaman Bom Palsu di Hotel karena Tak Siap Seminar, Banding Tetap Penjara",
+        "excerpt": "Seseorang berusia 30-an yang kurang siap presentasi membuat laporan palsu akan meledakkan hotel tempat seminarnya digelar, dan kembali dijatuhi hukuman penjara di tingkat banding Pengadilan Gwangju.",
+        "body": "Seseorang berusia 30-an yang membuat laporan palsu bahwa ia akan meledakkan hotel tempat seminar yang harus ia presentasikan digelar, dengan alasan kurang siap, kembali dijatuhi hukuman penjara di tingkat banding. Divisi Pidana 2 Pengadilan Distrik Gwangju, dipimpin Hakim Kim Jong-seok, mempertahankan hukuman penjara nyata terhadap terdakwa yang diadili karena melakukan panggilan ancaman terkait ledakan terhadap fasilitas penginapan. Perkara ini menunjukkan pengadilan mempertahankan penilaian tegas ketika kurangnya persiapan pribadi berubah menjadi laporan palsu yang mengancam keselamatan publik. Ancaman bom palsu dapat menimbulkan kekacauan yang tidak perlu bagi hotel, peserta seminar, serta sistem penyelidikan dan respons keamanan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b041792ceedb",
+    "slug": "전쟁피로-속-美증시-질주sp나스닥-최고치월가월부-265120",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-11T20:50:15.089Z",
+    "updatedAt": "2026-05-11T20:50:15.090Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12044105",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12044105",
+    "titleFingerprint": "ba6d54859909419f79a3ac506750000d52938c21",
+    "dedupKeys": [
+      "b041792ceedbc16b6c6c4b6e708aa8609290e7fa",
+      "ba6d54859909419f79a3ac506750000d52938c21",
+      "a1bd793f1b6d5db4159e2d6953e63338bda0779d"
+    ],
+    "imageUrl": "/images/articles/b041792ceedb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 열풍에 전쟁 리스크 눌린 뉴욕증시, S&P·나스닥 최고치 질주",
+        "excerpt": "이란전쟁 종전 불확실성이 커지는 가운데 AI 열풍과 트럼프 전 대통령의 휴전 유지 발언이 전쟁 우려를 완화하며 뉴욕증시 상승세를 이끌었다.",
+        "body": "이란전쟁의 종전을 둘러싼 불확실성이 커지는 상황에서도 뉴욕증시는 인공지능(AI) 열풍에 힘입어 상승세를 이어갔다. 전쟁 피로와 지정학적 리스크가 시장 부담으로 남아 있었지만, AI 관련 기대가 투자심리를 지지하며 S&P500과 나스닥은 최고치를 기록했다. 트럼프 전 대통령이 “휴전은 유지”된다고 밝히면서 전쟁 확산 우려도 일부 완화됐다. 시장은 전쟁 리스크보다 AI 성장 기대에 더 민감하게 반응하는 모습이다. 다만 이란전쟁 종전 관련 불확실성이 남아 있어 향후 증시 흐름은 휴전 유지 여부와 AI 투자 열기의 지속성에 좌우될 전망이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "AI Boom Lifts Wall Street as War Risks Fade, S&P 500 and Nasdaq Hit Highs",
+        "excerpt": "Amid uncertainty over the end of the Iran war, AI enthusiasm and Trump’s comment that the ceasefire is holding helped ease war concerns and pushed U.S. stocks higher.",
+        "body": "U.S. stocks continued to rise despite growing uncertainty over how the Iran war will end, supported by strong enthusiasm for artificial intelligence. War fatigue and geopolitical risks remained a burden for markets, but expectations tied to AI helped sustain investor sentiment, sending the S&P 500 and Nasdaq to record highs. Concerns over a wider conflict also eased after former President Trump said the “ceasefire is holding.” Investors appeared to react more strongly to expectations for AI growth than to war-related risks. Still, uncertainty over the end of the Iran war remains, leaving future market direction dependent on whether the ceasefire holds and whether AI-driven investment momentum continues. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "AIブームが戦争リスクを抑え米株上昇、S&P500とナスダック最高値",
+        "excerpt": "イラン戦争終結を巡る不確実性が高まる中、AIブームとトランプ氏の休戦維持発言が懸念を和らげ、米株上昇を支えた。",
+        "body": "イラン戦争の終結を巡る不確実性が高まる状況でも、ニューヨーク株式市場は人工知能（AI）ブームに支えられて上昇を続けた。戦争疲れと地政学リスクは市場の重荷として残ったが、AI関連の期待が投資家心理を支え、S&P500とナスダックは最高値を記録した。トランプ前大統領が「休戦は維持されている」と述べたことで、戦争拡大への懸念も一部和らいだ。市場は戦争リスクよりもAI成長への期待に敏感に反応している。ただし、イラン戦争終結を巡る不確実性は残っており、今後の株価動向は休戦維持とAI投資熱の持続に左右される見通しだ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "AI热潮压过战争风险，美股走强，标普与纳指创最高点",
+        "excerpt": "在伊朗战争结束前景不确定性上升之际，AI热潮和特朗普关于停火维持的表态缓解担忧，推动纽约股市继续上涨。",
+        "body": "尽管围绕伊朗战争结束的不确定性正在加大，纽约股市仍在人工智能（AI）热潮支撑下延续涨势。战争疲劳和地缘政治风险仍是市场负担，但AI相关预期支撑了投资情绪，推动标普500指数和纳斯达克指数创下最高点。特朗普前总统表示“停火仍在维持”，也在一定程度上缓解了对战争扩大的担忧。市场表现显示，投资者对AI增长预期的反应强于对战争风险的担忧。不过，伊朗战争结束仍存在不确定性，后续股市走势将取决于停火能否维持以及AI投资热度能否延续。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "El auge de la IA impulsa Wall Street pese al riesgo bélico; S&P y Nasdaq en máximos",
+        "excerpt": "En medio de la incertidumbre por el fin de la guerra con Irán, el entusiasmo por la IA y el mensaje de Trump sobre el alto el fuego impulsaron las acciones de EE. UU.",
+        "body": "La Bolsa de Nueva York mantuvo su avance pese al aumento de la incertidumbre sobre el desenlace de la guerra con Irán, apoyada por el entusiasmo en torno a la inteligencia artificial (IA). El cansancio bélico y los riesgos geopolíticos seguían pesando sobre el mercado, pero las expectativas vinculadas a la IA sostuvieron el ánimo inversor y llevaron al S&P 500 y al Nasdaq a máximos históricos. La preocupación por una expansión del conflicto también se moderó después de que el expresidente Trump afirmara que “el alto el fuego se mantiene”. El mercado pareció responder con más fuerza a las expectativas de crecimiento de la IA que a los riesgos de guerra. Aun así, la incertidumbre sobre el fin de la guerra con Irán persiste, por lo que la dirección futura dependerá de la continuidad del alto el fuego y del impulso inversor en IA. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Alta da IA supera risco de guerra em Wall Street; S&P e Nasdaq batem recordes",
+        "excerpt": "Com a incerteza sobre o fim da guerra no Irã, o entusiasmo com IA e a fala de Trump de que o cessar-fogo se mantém aliviaram temores e elevaram as ações dos EUA.",
+        "body": "A Bolsa de Nova York continuou em alta apesar da crescente incerteza sobre o desfecho da guerra no Irã, sustentada pelo entusiasmo em torno da inteligência artificial (IA). O cansaço com a guerra e os riscos geopolíticos ainda pesavam sobre o mercado, mas as expectativas ligadas à IA apoiaram o sentimento dos investidores e levaram o S&P 500 e o Nasdaq a máximas históricas. As preocupações com uma ampliação do conflito também diminuíram após o ex-presidente Trump afirmar que “o cessar-fogo se mantém”. O mercado mostrou reação mais forte às expectativas de crescimento da IA do que aos riscos de guerra. Ainda assim, a incerteza sobre o fim da guerra no Irã permanece, e a trajetória das bolsas dependerá da manutenção do cessar-fogo e da continuidade do apetite por investimentos em IA. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KI-Boom stützt Wall Street trotz Kriegsrisiken; S&P 500 und Nasdaq auf Rekordhoch",
+        "excerpt": "Trotz Unsicherheit über das Ende des Iran-Kriegs dämpften KI-Euphorie und Trumps Aussage zum fortbestehenden Waffenstillstand die Sorgen und trieben US-Aktien an.",
+        "body": "Die New Yorker Aktienmärkte setzten ihren Anstieg fort, obwohl die Unsicherheit über das Ende des Iran-Kriegs zunahm. Gestützt wurde die Entwicklung vor allem durch die Begeisterung für künstliche Intelligenz (KI). Kriegsmüdigkeit und geopolitische Risiken blieben zwar Belastungsfaktoren, doch KI-Erwartungen stützten die Anlegerstimmung und trieben den S&P 500 sowie den Nasdaq auf Rekordstände. Auch die Sorge vor einer Ausweitung des Konflikts ließ nach, nachdem der frühere Präsident Trump erklärt hatte, der „Waffenstillstand hält“. Der Markt reagierte damit stärker auf die Wachstumserwartungen rund um KI als auf Kriegsrisiken. Dennoch bleibt die Unsicherheit über das Ende des Iran-Kriegs bestehen, sodass der weitere Börsenverlauf von der Stabilität des Waffenstillstands und der Dauer des KI-Investitionsbooms abhängen dürfte. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "L’essor de l’IA soutient Wall Street malgré la guerre; S&P 500 et Nasdaq au plus haut",
+        "excerpt": "Alors que l’issue de la guerre en Iran reste incertaine, l’enthousiasme pour l’IA et les propos de Trump sur le cessez-le-feu ont apaisé les craintes et soutenu les actions américaines.",
+        "body": "La Bourse de New York a poursuivi sa hausse malgré l’incertitude croissante autour de la fin de la guerre en Iran, portée par l’enthousiasme pour l’intelligence artificielle (IA). La fatigue liée à la guerre et les risques géopolitiques restaient des facteurs de pression, mais les attentes autour de l’IA ont soutenu le sentiment des investisseurs et permis au S&P 500 et au Nasdaq d’atteindre des records. Les craintes d’une extension du conflit se sont aussi en partie atténuées après que l’ancien président Trump a déclaré que « le cessez-le-feu se maintient ». Le marché semble réagir davantage aux perspectives de croissance de l’IA qu’aux risques liés à la guerre. L’incertitude sur l’issue de la guerre en Iran demeure toutefois, et l’évolution des marchés dépendra du maintien du cessez-le-feu et de la poursuite de l’élan d’investissement dans l’IA. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "طفرة الذكاء الاصطناعي تدفع وول ستريت رغم مخاطر الحرب وناسداك عند قمة",
+        "excerpt": "وسط غموض نهاية حرب إيران، ساعدت طفرة الذكاء الاصطناعي وتصريح ترامب بأن وقف إطلاق النار مستمر في تهدئة المخاوف ودعم صعود الأسهم الأميركية.",
+        "body": "واصلت بورصة نيويورك صعودها رغم تزايد عدم اليقين بشأن نهاية حرب إيران، مدعومة بالحماس المتعلق بالذكاء الاصطناعي. ظل الإرهاق من الحرب والمخاطر الجيوسياسية عبئا على السوق، لكن التوقعات المرتبطة بالذكاء الاصطناعي دعمت معنويات المستثمرين، ليدفع ذلك مؤشري S&P 500 وناسداك إلى مستويات قياسية. كما تراجعت بعض المخاوف من اتساع الحرب بعدما قال الرئيس السابق ترامب إن “وقف إطلاق النار مستمر”. ويظهر أداء السوق أن المستثمرين يتفاعلون بقوة أكبر مع توقعات نمو الذكاء الاصطناعي مقارنة بمخاطر الحرب. ومع ذلك، لا يزال الغموض قائما حول نهاية حرب إيران، ما يجعل اتجاه الأسهم لاحقا مرتبطا باستمرار وقف إطلاق النار وبقاء زخم الاستثمار في الذكاء الاصطناعي. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI तेजी से युद्ध जोखिम दबा, वॉल स्ट्रीट चढ़ी; S&P और Nasdaq रिकॉर्ड ऊंचाई पर",
+        "excerpt": "ईरान युद्ध के अंत को लेकर अनिश्चितता बढ़ने के बीच AI उत्साह और ट्रंप के युद्धविराम जारी रहने वाले बयान ने चिंता घटाई और अमेरिकी शेयरों को ऊपर उठाया।",
+        "body": "ईरान युद्ध के अंत को लेकर अनिश्चितता बढ़ने के बावजूद न्यूयॉर्क शेयर बाजार कृत्रिम बुद्धिमत्ता (AI) के उत्साह के सहारे चढ़ता रहा। युद्ध से थकान और भू-राजनीतिक जोखिम बाजार पर दबाव बने हुए थे, लेकिन AI से जुड़ी उम्मीदों ने निवेशकों की धारणा को सहारा दिया और S&P 500 तथा Nasdaq रिकॉर्ड ऊंचाई पर पहुंचे। पूर्व राष्ट्रपति ट्रंप के यह कहने के बाद कि “युद्धविराम जारी है”, युद्ध फैलने की आशंका भी कुछ कम हुई। बाजार का रुझान दिखाता है कि निवेशक युद्ध जोखिमों की तुलना में AI वृद्धि की उम्मीदों पर अधिक प्रतिक्रिया दे रहे हैं। फिर भी ईरान युद्ध के अंत को लेकर अनिश्चितता बनी हुई है, इसलिए आगे शेयर बाजार की दिशा युद्धविराम के बने रहने और AI निवेश उत्साह की निरंतरता पर निर्भर करेगी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Demam AI Dorong Wall Street Meski Risiko Perang; S&P dan Nasdaq Cetak Rekor",
+        "excerpt": "Di tengah ketidakpastian akhir perang Iran, euforia AI dan pernyataan Trump bahwa gencatan senjata bertahan meredakan kekhawatiran dan menopang saham AS.",
+        "body": "Bursa New York terus menguat meski ketidakpastian mengenai akhir perang Iran meningkat, ditopang oleh antusiasme terhadap kecerdasan buatan (AI). Kelelahan perang dan risiko geopolitik masih menjadi beban pasar, tetapi ekspektasi terkait AI mendukung sentimen investor dan membawa S&P 500 serta Nasdaq ke level tertinggi. Kekhawatiran atas meluasnya konflik juga mereda sebagian setelah mantan Presiden Trump menyatakan bahwa “gencatan senjata tetap bertahan”. Pasar tampak lebih sensitif terhadap harapan pertumbuhan AI dibandingkan risiko perang. Namun, ketidakpastian atas akhir perang Iran masih ada, sehingga arah pasar saham ke depan akan bergantung pada keberlanjutan gencatan senjata dan apakah momentum investasi AI dapat bertahan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "59a482130ebf",
     "slug": "엄마-이거-화산-돌이지아이-머릿속에-오래-남는-독서의-비밀-127769",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Konferensi Pengembang Nexon Dibuka 16 Juni dengan 51 Sesi dan Lebih Banyak Bahasan AI",
         "excerpt": "Nexon akan menggelar Nexon Developer Conference mulai 16 Juni selama tiga hari, menghadirkan pembicara game dan IT, 51 sesi, serta perluasan kuliah AI.",
         "body": "Nexon akan menggelar Nexon Developer Conference (NDC), acara berbagi pengetahuan di industri game, selama tiga hari mulai 16 Juni. Acara ini menghadirkan pembicara dari perusahaan game besar dan sektor IT, dengan total 51 sesi yang dijalankan. Secara khusus, kuliah di bidang AI akan diperluas secara besar-besaran, mencerminkan perhatian pada pengembangan game dan tren teknologi. Pendaftaran pengunjung mulai diterima pada tanggal 19. NDC, yang diperkenalkan sebagai acara berbagi pengetahuan terbesar di industri, disiapkan sebagai tempat bagi pengembang dan pelaku industri untuk berbagi pengalaman pengembangan terbaru serta isu teknologi. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "fbf8f7fdd436",
-    "slug": "충주맨-김선태-63-지방선거-개표방송-뜬다지역-소멸-논의-646356",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-11T00:09:26.084Z",
-    "updatedAt": "2026-05-11T00:09:26.084Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12042878",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12042878",
-    "titleFingerprint": "2fb623ebaedf37e791fee437ff710bc5b17aca8e",
-    "dedupKeys": [
-      "fbf8f7fdd436ba06f857279946e1483bc8fa9180",
-      "2fb623ebaedf37e791fee437ff710bc5b17aca8e",
-      "29796f65f445b9a1479438ba72ff5dc24b340685"
-    ],
-    "imageUrl": "/images/articles/fbf8f7fdd436.jpg",
-    "i18n": {
-      "ko": {
-        "title": "‘충주맨’ 김선태, 6·3 지방선거 개표방송 출연…지역 소멸 논의 주목",
-        "excerpt": "전 충주시 공무원으로 알려진 ‘충주맨’ 김선태가 6월 3일 MBC ‘선택 2026’ 개표방송에 출연해 지방선거와 지역 소멸 논의에 참여한다.",
-        "body": "전 충주시 공무원 출신으로 ‘충주맨’으로 불린 김선태가 6월 3일 방송되는 MBC ‘선택 2026’ 개표방송에 출연한다. 11일 방송가에 따르면 김선태는 6·3 지방선거 개표방송에 나서 지방선거 국면에서 주목되는 지역 현안과 지역 소멸 문제를 논의할 예정이다. 김선태는 충주시 공무원으로 재직하며 대중에게 알려진 인물로, 이번 출연은 선거 결과를 전하는 방송에서 지역 문제를 함께 다루는 흐름과 맞물린다. 지방선거 개표방송이 단순한 득표 상황 전달을 넘어 지역의 미래와 현안을 짚는 무대가 될지 주목된다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "‘Chungju Man’ Kim Sun-tae to Join June 3 Vote Count Broadcast on Local Extinction",
-        "excerpt": "Former Chungju city official Kim Sun-tae, known as ‘Chungju Man,’ will appear on MBC’s ‘Choice 2026’ on June 3 to discuss the local elections and regional extinction.",
-        "body": "Kim Sun-tae, a former Chungju city official known as ‘Chungju Man,’ will appear on MBC’s ‘Choice 2026,’ the vote-count broadcast airing on June 3. According to broadcasting sources on the 11th, Kim will take part in the June 3 local election coverage and discuss local issues, including the topic of regional extinction. Kim became widely known while serving as a public official in Chungju, and his appearance comes as election broadcasts also address regional challenges beyond vote totals. Attention is on whether the broadcast will become a venue for examining local futures and key concerns. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "「忠州マン」キム・ソンテ、6月3日地方選開票番組に出演へ…地域消滅を議論",
-        "excerpt": "元忠州市公務員の「忠州マン」キム・ソンテが6月3日放送のMBC「選択2026」に出演し、地方選挙と地域消滅の議論に参加する。",
-        "body": "元忠州市公務員で「忠州マン」として知られるキム・ソンテが、6月3日に放送されるMBC「選択2026」の開票番組に出演する。11日の放送関係者によると、キム・ソンテは6・3地方選挙の開票放送に登場し、地方選挙の局面で注目される地域課題と地域消滅問題について議論する予定だ。キム・ソンテは忠州市公務員として在職中に広く知られるようになった人物で、今回の出演は選挙結果を伝える番組が地域問題も扱う流れと重なる。開票放送が得票状況の伝達にとどまらず、地域の未来と懸案を点検する場となるか注目される。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "“忠州男”金善泰将亮相6月3日地方选举开票节目，讨论地方消失",
-        "excerpt": "前忠州市公务员、“忠州男”金善泰将于6月3日出演MBC《选择2026》开票节目，参与地方选举和地方消失议题讨论。",
-        "body": "曾任忠州市公务员、被称为“忠州男”的金善泰将出演6月3日播出的MBC《选择2026》开票节目。据11日广播界消息，金善泰将参加6·3地方选举开票直播，并讨论地方选举背景下受到关注的地方议题和地方消失问题。金善泰是在忠州市公务员任内为大众所熟知的人物，此次出演也与开票节目不只传达选票结果、同时关注地方问题的趋势相呼应。外界关注该节目是否会成为审视地方未来和现实议题的平台。出处：引用mk.co.kr。"
-      },
-      "es": {
-        "title": "‘Chungju Man’ Kim Sun-tae estará en el recuento electoral del 3 de junio y hablará de despoblación",
-        "excerpt": "Kim Sun-tae, exfuncionario de la ciudad de Chungju conocido como ‘Chungju Man’, participará el 3 de junio en ‘Choice 2026’ de MBC para debatir las elecciones locales y la desaparición regional.",
-        "body": "Kim Sun-tae, exfuncionario de la ciudad de Chungju conocido como ‘Chungju Man’, aparecerá en ‘Choice 2026’ de MBC, el programa de recuento electoral que se emitirá el 3 de junio. Según fuentes del sector televisivo citadas el día 11, Kim participará en la cobertura de las elecciones locales del 3 de junio y abordará temas regionales, incluida la desaparición de comunidades locales. Kim se dio a conocer mientras trabajaba como funcionario en Chungju, y su presencia llega en un contexto en el que los programas electorales también tratan problemas locales más allá de los resultados. La atención se centra en si la emisión servirá para revisar el futuro y los desafíos de las regiones. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "‘Chungju Man’ Kim Sun-tae participará da apuração de 3 de junho e debaterá extinção regional",
-        "excerpt": "Kim Sun-tae, ex-funcionário da cidade de Chungju conhecido como ‘Chungju Man’, aparecerá em 3 de junho no ‘Choice 2026’ da MBC para discutir eleições locais e extinção regional.",
-        "body": "Kim Sun-tae, ex-funcionário da cidade de Chungju conhecido como ‘Chungju Man’, participará do ‘Choice 2026’ da MBC, programa de apuração eleitoral que será exibido em 3 de junho. Segundo fontes do setor de radiodifusão no dia 11, Kim aparecerá na cobertura das eleições locais de 3 de junho e discutirá questões regionais, incluindo o problema da extinção regional. Kim tornou-se conhecido pelo público enquanto atuava como funcionário público em Chungju, e sua participação acompanha a tendência de transmissões eleitorais que abordam não apenas resultados, mas também desafios locais. A expectativa é saber se o programa servirá como espaço para examinar o futuro das regiões e suas principais preocupações. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "‘Chungju Man’ Kim Sun-tae bei Stimmauszählung am 3. Juni, Debatte über regionale Verödung",
-        "excerpt": "Der frühere Chungju-Beamte Kim Sun-tae, bekannt als ‘Chungju Man’, tritt am 3. Juni in MBCs ‘Choice 2026’ auf und spricht über Lokalwahlen und regionale Verödung.",
-        "body": "Kim Sun-tae, ein ehemaliger Beamter der Stadt Chungju, der als ‘Chungju Man’ bekannt wurde, wird in MBCs ‘Choice 2026’ auftreten, der Sendung zur Stimmauszählung am 3. Juni. Nach Angaben aus Rundfunkkreisen vom 11. wird Kim an der Berichterstattung zu den Lokalwahlen vom 3. Juni teilnehmen und regionale Themen erörtern, darunter die Frage regionaler Verödung. Kim wurde während seiner Tätigkeit als öffentlicher Bediensteter in Chungju einer breiteren Öffentlichkeit bekannt. Sein Auftritt passt zu einem Format, in dem Wahlprogramme neben Ergebnissen auch lokale Herausforderungen behandeln. Beobachtet wird, ob die Sendung zu einem Ort wird, an dem die Zukunft der Regionen und ihre aktuellen Probleme beleuchtet werden. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "‘Chungju Man’ Kim Sun-tae invité du dépouillement du 3 juin sur la disparition régionale",
-        "excerpt": "Kim Sun-tae, ancien fonctionnaire de Chungju connu comme ‘Chungju Man’, participera le 3 juin à ‘Choice 2026’ sur MBC pour évoquer les élections locales et la disparition régionale.",
-        "body": "Kim Sun-tae, ancien fonctionnaire de la ville de Chungju connu sous le nom de ‘Chungju Man’, participera à ‘Choice 2026’ sur MBC, l’émission de dépouillement diffusée le 3 juin. Selon des sources du secteur audiovisuel citées le 11, Kim interviendra dans la couverture des élections locales du 3 juin et abordera les enjeux régionaux, dont la question de la disparition régionale. Kim s’est fait connaître du public lorsqu’il travaillait comme fonctionnaire à Chungju, et sa présence s’inscrit dans une émission électorale qui ne se limite pas aux résultats mais traite aussi des problèmes locaux. L’attention porte sur la capacité du programme à examiner l’avenir des régions et leurs préoccupations majeures. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "«رجل تشونغجو» كيم سون تاي يظهر في بث فرز انتخابات 3 يونيو ويناقش اندثار المناطق",
-        "excerpt": "كيم سون تاي، الموظف السابق في مدينة تشونغجو والمعروف باسم «رجل تشونغجو»، سيظهر في 3 يونيو على برنامج MBC «Choice 2026» لمناقشة الانتخابات المحلية واندثار المناطق.",
-        "body": "سيظهر كيم سون تاي، الموظف السابق في مدينة تشونغجو والمعروف باسم «رجل تشونغجو»، في برنامج MBC «Choice 2026» الخاص ببث فرز الأصوات في 3 يونيو. ووفقاً لمصادر في قطاع البث في اليوم الحادي عشر، سيشارك كيم في تغطية انتخابات 3 يونيو المحلية وسيناقش قضايا محلية بارزة، من بينها مسألة اندثار المناطق. وقد أصبح كيم معروفاً لدى الجمهور أثناء عمله موظفاً عاماً في تشونغجو، وتأتي مشاركته في سياق برامج انتخابية تتناول إلى جانب النتائج تحديات المناطق. ويتجه الاهتمام إلى ما إذا كان البث سيصبح مساحة لبحث مستقبل المناطق وقضاياها الأساسية. المصدر: نقلاً عن mk.co.kr."
-      },
-      "hi": {
-        "title": "‘Chungju Man’ किम सुन-ते 3 जून की मतगणना प्रसारण में, क्षेत्रीय लुप्तता पर चर्चा",
-        "excerpt": "चुंगजू शहर के पूर्व अधिकारी और ‘Chungju Man’ के नाम से पहचाने जाने वाले किम सुन-ते 3 जून को MBC के ‘Choice 2026’ में स्थानीय चुनाव और क्षेत्रीय लुप्तता पर चर्चा करेंगे।",
-        "body": "चुंगजू शहर के पूर्व सरकारी अधिकारी और ‘Chungju Man’ के रूप में पहचाने जाने वाले किम सुन-ते 3 जून को प्रसारित होने वाले MBC के ‘Choice 2026’ मतगणना कार्यक्रम में दिखाई देंगे। 11 तारीख को प्रसारण जगत से मिली जानकारी के अनुसार, किम 6·3 स्थानीय चुनाव की मतगणना कवरेज में भाग लेंगे और चुनावी परिप्रेक्ष्य में ध्यान खींच रहे स्थानीय मुद्दों तथा क्षेत्रीय लुप्तता की समस्या पर चर्चा करेंगे। किम चुंगजू में सरकारी अधिकारी रहते हुए जनता के बीच जाने गए थे, और उनकी यह उपस्थिति ऐसे चुनावी प्रसारण से जुड़ती है जो केवल मतों की स्थिति नहीं, बल्कि स्थानीय समस्याओं को भी सामने रखता है। ध्यान इस पर है कि क्या यह प्रसारण क्षेत्रों के भविष्य और प्रमुख चिंताओं की समीक्षा का मंच बनेगा। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "‘Chungju Man’ Kim Sun-tae Tampil di Siaran Hitung Suara 3 Juni, Bahas Kepunahan Daerah",
-        "excerpt": "Kim Sun-tae, mantan pegawai Kota Chungju yang dikenal sebagai ‘Chungju Man’, akan tampil pada 3 Juni di MBC ‘Choice 2026’ untuk membahas pemilu lokal dan kepunahan daerah.",
-        "body": "Kim Sun-tae, mantan pegawai pemerintah Kota Chungju yang dikenal sebagai ‘Chungju Man’, akan tampil dalam siaran penghitungan suara MBC ‘Choice 2026’ pada 3 Juni. Menurut kalangan penyiaran pada tanggal 11, Kim akan hadir dalam liputan pemilu lokal 6·3 dan membahas isu-isu daerah yang menjadi perhatian, termasuk masalah kepunahan daerah. Kim dikenal publik saat bertugas sebagai pegawai pemerintah di Chungju, dan kehadirannya sejalan dengan siaran pemilu yang tidak hanya menyampaikan hasil suara, tetapi juga menyoroti persoalan lokal. Perhatian tertuju pada apakah siaran ini akan menjadi ruang untuk meninjau masa depan daerah dan isu-isu utamanya. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "2b0488cdd4e1",
-    "slug": "속보-5월-110일-수출-184억-달러-437일평균-437-355787",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-11T00:08:16.251Z",
-    "updatedAt": "2026-05-11T00:08:16.251Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12042888",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042888",
-    "titleFingerprint": "021dd2739f15d108b094c46a9f0ced4aa87984e1",
-    "dedupKeys": [
-      "2b0488cdd4e13ec7c6b0146a84e4664c8ce81534",
-      "021dd2739f15d108b094c46a9f0ced4aa87984e1",
-      "9b1458072574fa5cf0e110faabfb9cee95dde6ac"
-    ],
-    "imageUrl": "/images/articles/2b0488cdd4e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "5월 1∼10일 한국 수출 184억 달러, 전년 대비 43.7% 증가",
-        "excerpt": "5월 1∼10일 한국 수출이 184억 달러로 전년 같은 기간보다 43.7% 늘었고, 조업일수를 반영한 일평균 수출도 43.7% 증가했다.",
-        "body": "5월 1∼10일 한국 수출액이 184억 달러로 집계되며 전년 같은 기간보다 43.7% 증가했다. 조업일수 영향을 반영한 일평균 수출도 같은 폭인 43.7% 늘었다. 이번 수치는 5월 초순 수출 흐름을 보여주는 단기 지표로, 총수출과 일평균 수출이 모두 동일한 증가율을 기록했다는 점이 핵심이다. 다만 원문에는 품목별, 지역별 세부 내역이나 월간 전망은 제시되지 않았다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "South Korea Exports Hit $18.4 Billion May 1-10, Up 43.7%",
-        "excerpt": "South Korea’s exports reached $18.4 billion from May 1 to 10, rising 43.7% from a year earlier, while average daily exports also increased 43.7%.",
-        "body": "South Korea’s exports totaled $18.4 billion during May 1-10, up 43.7% from the same period a year earlier. Average daily exports, adjusted for working days, also rose by the same 43.7%. The figures offer a short-term snapshot of export activity in early May, with both total exports and daily average exports showing identical growth rates. The original report did not provide details by product, destination, or a full-month outlook. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "韓国の5月1～10日輸出184億ドル、前年比43.7％増",
-        "excerpt": "韓国の5月1～10日の輸出額は184億ドルとなり、前年同期比43.7％増加した。操業日数を反映した1日平均輸出も43.7％増えた。",
-        "body": "韓国の5月1～10日の輸出額は184億ドルと集計され、前年同期に比べて43.7％増加した。操業日数の影響を反映した1日平均輸出も同じく43.7％増となった。今回の数値は5月上旬の輸出動向を示す短期指標であり、総輸出と1日平均輸出がともに同じ伸び率を記録した点が中心となる。原文では品目別、地域別の詳細や月間見通しは示されていない。出典：mk.co.kr。"
-      },
-      "zh": {
-        "title": "韩国5月1日至10日出口184亿美元，同比增43.7%",
-        "excerpt": "韩国5月1日至10日出口额为184亿美元，较去年同期增长43.7%；按工作日计算的日均出口也增长43.7%。",
-        "body": "韩国5月1日至10日出口额统计为184亿美元，较去年同期增长43.7%。反映工作日因素后的日均出口同样增长43.7%。这一数据是观察5月上旬出口走势的短期指标，重点在于总出口和日均出口均录得相同增幅。原文未提供按品类、地区划分的详细数据，也未给出整月展望。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Exportaciones de Corea del Sur suman US$18.400 millones del 1 al 10 de mayo",
-        "excerpt": "Las exportaciones de Corea del Sur alcanzaron US$18.400 millones entre el 1 y el 10 de mayo, un aumento interanual del 43,7%; el promedio diario también subió 43,7%.",
-        "body": "Las exportaciones de Corea del Sur totalizaron US$18.400 millones entre el 1 y el 10 de mayo, un 43,7% más que en el mismo periodo del año anterior. El promedio diario de exportaciones, que refleja el efecto de los días laborables, también aumentó 43,7%. La cifra muestra una lectura de corto plazo sobre el comportamiento exportador de comienzos de mayo, con el mismo ritmo de crecimiento tanto en el total como en el promedio diario. El texto original no incluyó detalles por producto, región ni una previsión mensual. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Exportações da Coreia do Sul somam US$18,4 bi de 1 a 10 de maio",
-        "excerpt": "As exportações da Coreia do Sul chegaram a US$18,4 bilhões entre 1 e 10 de maio, alta anual de 43,7%; a média diária também avançou 43,7%.",
-        "body": "As exportações da Coreia do Sul somaram US$18,4 bilhões entre 1 e 10 de maio, um aumento de 43,7% em relação ao mesmo período do ano anterior. A média diária de exportações, ajustada pelo número de dias úteis, também subiu 43,7%. O dado oferece um retrato de curto prazo do movimento exportador no início de maio, com crescimento idêntico no total exportado e na média diária. O texto original não trouxe detalhes por produto, região ou projeção para o mês completo. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Südkoreas Exporte vom 1. bis 10. Mai bei 18,4 Mrd. Dollar, plus 43,7%",
-        "excerpt": "Südkoreas Exporte erreichten vom 1. bis 10. Mai 18,4 Mrd. Dollar und lagen 43,7% über dem Vorjahr; auch der Tagesdurchschnitt stieg um 43,7%.",
-        "body": "Südkoreas Exporte beliefen sich vom 1. bis 10. Mai auf 18,4 Milliarden Dollar und lagen damit 43,7% über dem entsprechenden Vorjahreszeitraum. Auch die durchschnittlichen Tagesexporte, bereinigt um die Zahl der Arbeitstage, stiegen um 43,7%. Die Daten liefern einen kurzfristigen Blick auf die Exportentwicklung Anfang Mai, wobei Gesamtwert und Tagesdurchschnitt dieselbe Wachstumsrate auswiesen. Der Originalbericht enthielt keine Angaben nach Produkten, Regionen oder zur Monatsprognose. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Exportations sud-coréennes à 18,4 milliards de dollars du 1er au 10 mai",
-        "excerpt": "Les exportations sud-coréennes ont atteint 18,4 milliards de dollars du 1er au 10 mai, en hausse de 43,7% sur un an; la moyenne quotidienne a aussi progressé de 43,7%.",
-        "body": "Les exportations de la Corée du Sud ont totalisé 18,4 milliards de dollars entre le 1er et le 10 mai, soit une hausse de 43,7% par rapport à la même période de l’an dernier. Les exportations quotidiennes moyennes, qui tiennent compte des jours ouvrés, ont également augmenté de 43,7%. Ces chiffres donnent un aperçu de court terme de l’activité exportatrice au début de mai, avec un même taux de progression pour le total et la moyenne quotidienne. Le texte original ne fournit pas de détails par produit, région ni de prévision mensuelle. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "صادرات كوريا الجنوبية تبلغ 18.4 مليار دولار من 1 إلى 10 مايو بزيادة 43.7%",
-        "excerpt": "بلغت صادرات كوريا الجنوبية 18.4 مليار دولار بين 1 و10 مايو، بارتفاع 43.7% على أساس سنوي، كما زاد متوسط الصادرات اليومية 43.7%.",
-        "body": "بلغت صادرات كوريا الجنوبية خلال الفترة من 1 إلى 10 مايو 18.4 مليار دولار، بزيادة قدرها 43.7% مقارنة بالفترة نفسها من العام السابق. كما ارتفع متوسط الصادرات اليومية، بعد احتساب أثر أيام العمل، بالنسبة نفسها البالغة 43.7%. وتقدم هذه الأرقام مؤشرا قصير الأجل على حركة الصادرات في أوائل مايو، مع تسجيل إجمالي الصادرات ومتوسطها اليومي معدل نمو متطابقا. ولم يتضمن النص الأصلي تفاصيل حسب السلع أو المناطق أو توقعات للشهر كاملا. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया का 1-10 मई निर्यात 18.4 अरब डॉलर, 43.7% बढ़ा",
-        "excerpt": "दक्षिण कोरिया का 1 से 10 मई तक निर्यात 18.4 अरब डॉलर रहा, जो सालाना आधार पर 43.7% अधिक है; दैनिक औसत निर्यात भी 43.7% बढ़ा।",
-        "body": "दक्षिण कोरिया का 1 से 10 मई तक निर्यात 18.4 अरब डॉलर दर्ज किया गया, जो पिछले वर्ष की समान अवधि से 43.7% अधिक है। कार्य दिवसों के प्रभाव को ध्यान में रखने वाला दैनिक औसत निर्यात भी 43.7% बढ़ा। यह आंकड़ा मई की शुरुआत में निर्यात की अल्पकालिक स्थिति दिखाता है, जिसमें कुल निर्यात और दैनिक औसत निर्यात दोनों की वृद्धि दर समान रही। मूल रिपोर्ट में उत्पाद, क्षेत्र या पूरे महीने के अनुमान से जुड़ी विस्तृत जानकारी नहीं दी गई। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Ekspor Korea Selatan 1-10 Mei Capai US$18,4 Miliar, Naik 43,7%",
-        "excerpt": "Ekspor Korea Selatan pada 1-10 Mei mencapai US$18,4 miliar, naik 43,7% dari tahun sebelumnya; rata-rata ekspor harian juga meningkat 43,7%.",
-        "body": "Ekspor Korea Selatan pada 1-10 Mei tercatat sebesar US$18,4 miliar, meningkat 43,7% dibanding periode yang sama tahun sebelumnya. Rata-rata ekspor harian, yang mencerminkan pengaruh jumlah hari kerja, juga naik 43,7%. Angka ini menjadi indikator jangka pendek untuk melihat pergerakan ekspor pada awal Mei, dengan total ekspor dan rata-rata harian sama-sama mencatat laju kenaikan yang identik. Naskah asli tidak memuat rincian menurut produk, wilayah, atau proyeksi satu bulan penuh. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "3585c48e98a5",
-    "slug": "속보-코스피-370-오른-777531로-출발사상-최고-경신-335476",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-11T00:07:24.574Z",
-    "updatedAt": "2026-05-11T00:07:24.574Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042889",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042889",
-    "titleFingerprint": "9c241011e56720470690027c5049bd73deccd533",
-    "dedupKeys": [
-      "3585c48e98a5ffc264f1da0ac5992f0a19096fdb",
-      "9c241011e56720470690027c5049bd73deccd533",
-      "252e9d49d92842b7cf7eebccc62ccea4c5d5a83f"
-    ],
-    "imageUrl": "/images/articles/3585c48e98a5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 3.70% 급등 출발, 7775.31로 사상 최고치 경신",
-        "excerpt": "코스피가 이날 장 초반 3.70% 오른 7775.31로 출발하며 사상 최고치를 새로 썼다고 mk.co.kr이 속보로 전했다.",
-        "body": "코스피가 이날 장 시작과 함께 3.70% 오른 7775.31로 출발하며 사상 최고치를 경신했다. 원문에 따르면 지수는 개장 시점부터 큰 폭의 상승률을 보이며 7775.31을 기록했다. 이번 보도에서 확인된 핵심 수치는 코스피 상승률 3.70%, 출발 지수 7775.31, 그리고 사상 최고 경신 여부다. 요약 정보는 별도로 제시되지 않았으며, 구체적인 상승 배경이나 업종별 흐름도 원문에는 포함되지 않았다. 시장 영향과 향후 흐름은 추가 거래 상황과 후속 보도를 통해 확인될 필요가 있다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "KOSPI Opens 3.70% Higher at 7,775.31, Sets Record High",
-        "excerpt": "The KOSPI opened 3.70% higher at 7,775.31, setting a new all-time high, according to a breaking report from mk.co.kr.",
-        "body": "The KOSPI opened the session 3.70% higher at 7,775.31, setting a new all-time high. According to the original report, the index posted a sharp gain from the opening point and reached 7,775.31. The confirmed figures in the report are the KOSPI’s 3.70% rise, its opening level of 7,775.31, and the fact that it renewed its record high. No separate summary was provided, and the original text did not include details on the reason for the rise or sector-by-sector movements. Market impact and the next direction will need to be checked through further trading and follow-up reports. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "KOSPIが3.70％高の7775.31で開始、史上最高値を更新",
-        "excerpt": "KOSPIはこの日の取引開始時に3.70％上昇し7775.31で出発、史上最高値を更新したとmk.co.krが速報で伝えた。",
-        "body": "KOSPIはこの日の取引開始と同時に3.70％上昇し、7775.31で始まり、史上最高値を更新した。原文によると、指数は寄り付き時点から大幅な上昇率を示し、7775.31を記録した。今回の報道で確認された主要数値は、KOSPIの上昇率3.70％、開始水準7775.31、そして史上最高値更新の事実である。要約情報は別途示されておらず、具体的な上昇背景や業種別の動きも原文には含まれていない。市場への影響と今後の流れは、追加の取引状況と続報で確認する必要がある。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "KOSPI开盘上涨3.70%至7775.31点，刷新历史高位",
-        "excerpt": "据mk.co.kr快讯，KOSPI当日开盘上涨3.70%，报7775.31点，并刷新历史最高纪录。",
-        "body": "KOSPI当日开盘即上涨3.70%，报7775.31点，刷新历史最高纪录。根据原文，指数在开盘时便显示出较大涨幅，并记录7775.31点。本次报道中确认的核心数据包括KOSPI涨幅3.70%、开盘点位7775.31，以及刷新历史最高点这一事实。原文未另附摘要，也未包含具体上涨背景或各行业板块走势。市场影响和后续方向仍需通过进一步交易情况及后续报道确认。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "KOSPI abre con alza del 3,70% en 7.775,31 y marca récord",
-        "excerpt": "El KOSPI abrió con una subida del 3,70% hasta 7.775,31 puntos y renovó su máximo histórico, informó mk.co.kr en una alerta.",
-        "body": "El KOSPI abrió la sesión con una subida del 3,70% hasta 7.775,31 puntos y renovó su máximo histórico. Según el reporte original, el índice mostró un avance fuerte desde el inicio de la negociación y registró 7.775,31 puntos. Las cifras confirmadas en la nota son el alza del 3,70% del KOSPI, el nivel de apertura de 7.775,31 y la actualización de su récord histórico. No se presentó un resumen separado, y el texto original no incluyó detalles sobre la causa del avance ni sobre movimientos por sectores. El impacto en el mercado y la dirección posterior deberán confirmarse con nuevas operaciones y reportes de seguimiento. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI abre em alta de 3,70%, a 7.775,31, e renova recorde",
-        "excerpt": "O KOSPI abriu em alta de 3,70%, aos 7.775,31 pontos, renovando sua máxima histórica, segundo alerta publicado pelo mk.co.kr.",
-        "body": "O KOSPI abriu a sessão em alta de 3,70%, aos 7.775,31 pontos, e renovou sua máxima histórica. De acordo com o relato original, o índice mostrou forte avanço já no momento da abertura e registrou 7.775,31 pontos. Os principais números confirmados na notícia são a alta de 3,70% do KOSPI, o nível inicial de 7.775,31 e a renovação do recorde histórico. Não foi apresentado um resumo separado, e o texto original não incluiu detalhes sobre o motivo da alta nem sobre movimentos por setor. O impacto no mercado e a trajetória seguinte deverão ser verificados por meio das negociações posteriores e de novas notícias. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPI startet 3,70% höher bei 7.775,31 und erreicht Rekord",
-        "excerpt": "Der KOSPI startete 3,70% höher bei 7.775,31 Punkten und markierte laut einer Eilmeldung von mk.co.kr ein neues Allzeithoch.",
-        "body": "Der KOSPI ist zum Handelsbeginn um 3,70% auf 7.775,31 Punkte gestiegen und hat damit ein neues Allzeithoch erreicht. Laut dem Originalbericht zeigte der Index bereits zur Eröffnung einen deutlichen Anstieg und notierte bei 7.775,31 Punkten. Die in der Meldung bestätigten Kerndaten sind der KOSPI-Anstieg von 3,70%, der Eröffnungsstand von 7.775,31 und die Tatsache, dass ein historischer Höchststand erneuert wurde. Eine separate Zusammenfassung lag nicht vor, und der Originaltext enthielt keine Angaben zu den konkreten Gründen des Anstiegs oder zu Bewegungen einzelner Branchen. Marktauswirkungen und weiterer Verlauf müssen durch den fortlaufenden Handel und Folgeberichte bestätigt werden. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le KOSPI ouvre en hausse de 3,70% à 7 775,31, nouveau record",
-        "excerpt": "Le KOSPI a ouvert en hausse de 3,70% à 7 775,31 points, établissant un nouveau plus haut historique, selon mk.co.kr.",
-        "body": "Le KOSPI a ouvert la séance en hausse de 3,70% à 7 775,31 points, établissant un nouveau plus haut historique. Selon l’article original, l’indice a affiché une forte progression dès l’ouverture et a atteint 7 775,31 points. Les chiffres confirmés dans cette information sont la hausse de 3,70% du KOSPI, son niveau d’ouverture de 7 775,31 et le renouvellement de son record historique. Aucun résumé séparé n’a été fourni, et le texte original ne précise pas la raison de la hausse ni les mouvements par secteur. L’impact sur le marché et l’évolution à venir devront être vérifiés à travers la suite des échanges et de nouveaux articles. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "كوسبي يفتتح مرتفعا 3.70% عند 7775.31 ويسجل قمة تاريخية",
-        "excerpt": "افتتح مؤشر كوسبي مرتفعا 3.70% عند 7775.31 نقطة، مسجلا أعلى مستوى تاريخي جديد، وفق خبر عاجل نشره mk.co.kr.",
-        "body": "افتتح مؤشر كوسبي جلسة التداول مرتفعا 3.70% عند 7775.31 نقطة، مسجلا أعلى مستوى تاريخي جديد. وبحسب النص الأصلي، أظهر المؤشر ارتفاعا كبيرا منذ لحظة الافتتاح وسجل مستوى 7775.31 نقطة. الأرقام الأساسية المؤكدة في الخبر هي ارتفاع كوسبي بنسبة 3.70%، ومستوى الافتتاح عند 7775.31، وحقيقة تجديد القمة التاريخية. لم يتم تقديم ملخص منفصل، كما لم يتضمن النص الأصلي تفاصيل عن خلفية الصعود أو تحركات القطاعات. وسيحتاج تأثير ذلك على السوق والاتجاه اللاحق إلى تأكيد عبر التداولات التالية والتقارير اللاحقة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPI 3.70% चढ़कर 7775.31 पर खुला, नया ऐतिहासिक उच्च स्तर",
-        "excerpt": "KOSPI आज 3.70% बढ़कर 7775.31 पर खुला और नया सर्वकालिक उच्च स्तर बना, mk.co.kr ने ब्रेकिंग रिपोर्ट में बताया।",
-        "body": "KOSPI ने आज कारोबार की शुरुआत 3.70% की बढ़त के साथ 7775.31 पर की और नया सर्वकालिक उच्च स्तर दर्ज किया। मूल रिपोर्ट के अनुसार, सूचकांक ने खुलते ही बड़ा उछाल दिखाया और 7775.31 का स्तर दर्ज किया। इस रिपोर्ट में पुष्टि किए गए मुख्य आंकड़े KOSPI की 3.70% बढ़त, 7775.31 का शुरुआती स्तर और ऐतिहासिक उच्च स्तर का नया रिकॉर्ड हैं। अलग से कोई सारांश नहीं दिया गया था, और मूल पाठ में बढ़त की वजह या क्षेत्रवार चाल का विवरण शामिल नहीं था। बाजार पर असर और आगे की दिशा की पुष्टि बाद के कारोबार और आगे की रिपोर्टों से करनी होगी। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KOSPI Dibuka Naik 3,70% ke 7.775,31, Cetak Rekor Tertinggi",
-        "excerpt": "KOSPI dibuka naik 3,70% ke level 7.775,31 dan memperbarui rekor tertinggi sepanjang masa, menurut laporan kilat mk.co.kr.",
-        "body": "KOSPI membuka perdagangan hari ini dengan kenaikan 3,70% ke level 7.775,31 dan memperbarui rekor tertinggi sepanjang masa. Menurut laporan asli, indeks menunjukkan kenaikan besar sejak pembukaan dan mencatat level 7.775,31. Angka utama yang dikonfirmasi dalam berita ini adalah kenaikan KOSPI sebesar 3,70%, level pembukaan 7.775,31, serta fakta bahwa rekor tertinggi sepanjang masa diperbarui. Tidak ada ringkasan terpisah yang disajikan, dan teks asli tidak memuat rincian penyebab kenaikan atau pergerakan per sektor. Dampak pasar dan arah berikutnya perlu dikonfirmasi melalui perdagangan lanjutan dan laporan susulan. Sumber: mk.co.kr."
       }
     }
   }
