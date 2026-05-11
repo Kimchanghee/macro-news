@@ -1,5 +1,230 @@
 [
   {
+    "id": "31a7489a3579",
+    "slug": "금방-돌아올-줄-알았는데주왕산서-사라진-초등생-야간-수색-돌입-377778",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-11T13:30:44.361Z",
+    "updatedAt": "2026-05-11T13:30:44.361Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12043858",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12043858",
+    "titleFingerprint": "c44a9c8aaafee93e773cb140e4a58bc005bc91c0",
+    "dedupKeys": [
+      "31a7489a3579a266ccbba05947501de0c9588d80",
+      "c44a9c8aaafee93e773cb140e4a58bc005bc91c0",
+      "454278c08389e8c0c8dce0bfa40d777c97d8af62"
+    ],
+    "imageUrl": "/images/articles/31a7489a3579.jpg",
+    "i18n": {
+      "ko": {
+        "title": "주왕산 실종 초등생 수색 밤샘 전환…열화상 드론·구조견 투입",
+        "excerpt": "경북 청송군 주왕산국립공원에서 사라진 초등학생을 찾기 위해 수색 당국이 야간 수색 체제로 전환하고 열화상 드론과 구조견을 추가 투입했다.",
+        "body": "경북 청송군 주왕산국립공원에서 실종된 초등학생을 찾기 위한 수색 작업이 야간 체제로 전환됐다. 수색 당국은 아이가 금방 돌아올 것으로 여겨졌던 상황에서 실종 사실이 확인되자 밤샘 수색에 들어갔다. 현장에는 열화상 카메라가 탑재된 드론과 구조견이 추가로 투입됐고, 수색 범위는 주왕산 전역으로 확대됐다. 산악 지형과 야간 시야 제한으로 수색 난도가 높아진 가운데, 당국은 가용 장비와 인력을 동원해 실종 아동 발견에 집중하고 있다. 이번 수색은 경북 청송 지역 주민과 등산객의 안전 우려로도 이어지고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Search for Missing Child in Juwangsan Turns Overnight With Drones, Dogs",
+        "excerpt": "Authorities shifted to an overnight search for an elementary school student missing in Juwangsan National Park in Cheongsong, adding thermal drones and rescue dogs.",
+        "body": "A search for an elementary school student who went missing in Juwangsan National Park in Cheongsong County, North Gyeongsang Province, has shifted into an overnight operation. Search authorities began night efforts after the child, initially expected to return soon, was confirmed missing. Drones equipped with thermal imaging cameras and rescue dogs have been added at the scene, while the search area has expanded across Juwangsan. With mountain terrain and limited nighttime visibility raising the difficulty, officials are focusing available personnel and equipment on finding the child. The case has also heightened safety concerns among local residents and hikers in the Cheongsong area. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "周王山で行方不明の小学生、夜通し捜索へ 熱感知ドローンと救助犬投入",
+        "excerpt": "慶尚北道青松郡の周王山国立公園で行方不明になった小学生を捜すため、当局は夜間捜索に切り替え、熱感知ドローンと救助犬を追加投入した。",
+        "body": "慶尚北道青松郡の周王山国立公園で行方不明になった小学生を捜す作業が、夜間体制に切り替えられた。捜索当局は、児童がすぐ戻ると思われていた状況から行方不明が確認されたため、夜通しの捜索に入った。現場には熱画像カメラを搭載したドローンと救助犬が追加投入され、捜索範囲は周王山全域へ広げられた。山岳地形と夜間の視界制限で捜索の難度が高まるなか、当局は利用可能な装備と人員を動員し、児童の発見に集中している。今回の捜索は、青松地域の住民や登山客の安全不安にもつながっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "周王山失踪小学生搜救转入通宵 热成像无人机和搜救犬投入",
+        "excerpt": "韩国庆北青松郡周王山国立公园一名小学生失踪后，搜救部门转入夜间搜索，并追加投入热成像无人机和搜救犬。",
+        "body": "韩国庆尚北道青松郡周王山国立公园内，一名小学生失踪后的搜救工作已转入夜间模式。搜救部门在原本认为孩子很快会返回、随后确认失踪后，启动通宵搜索。现场追加投入搭载热成像摄像头的无人机和搜救犬，搜索范围也扩大到周王山全域。由于山区地形复杂，加上夜间视野受限，搜索难度上升，当局正调动可用设备和人员，集中寻找失踪儿童。此次搜救也引发青松地区居民和登山游客对安全的关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Búsqueda de menor perdido en Juwangsan pasa a la noche con drones y perros",
+        "excerpt": "En el Parque Nacional Juwangsan, en Cheongsong, las autoridades pasaron a una búsqueda nocturna de un alumno desaparecido y añadieron drones térmicos y perros.",
+        "body": "La búsqueda de un alumno de primaria desaparecido en el Parque Nacional Juwangsan, en el condado de Cheongsong, provincia de Gyeongsang del Norte, pasó a un operativo nocturno. Las autoridades iniciaron la búsqueda durante toda la noche después de confirmar la desaparición del menor, a quien inicialmente se esperaba de regreso pronto. En el lugar se añadieron drones con cámaras térmicas y perros de rescate, y el área de búsqueda se amplió a todo Juwangsan. La geografía montañosa y la visibilidad limitada de la noche elevan la dificultad, por lo que las autoridades concentran personal y equipos disponibles en hallar al niño. El caso también genera preocupación por la seguridad entre residentes y excursionistas de Cheongsong. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Busca por aluno desaparecido em Juwangsan vira operação noturna com drones",
+        "excerpt": "No Parque Nacional Juwangsan, em Cheongsong, autoridades passaram a busca por um aluno desaparecido para o período noturno e acionaram drones térmicos e cães.",
+        "body": "A busca por um aluno do ensino fundamental desaparecido no Parque Nacional Juwangsan, no condado de Cheongsong, província de Gyeongsang do Norte, foi convertida em operação noturna. As autoridades iniciaram os trabalhos durante a noite após confirmarem o desaparecimento da criança, que inicialmente era esperada de volta em pouco tempo. Drones equipados com câmeras térmicas e cães de resgate foram adicionados no local, e a área de busca foi ampliada para todo o Juwangsan. O terreno montanhoso e a baixa visibilidade noturna aumentam a dificuldade, enquanto as equipes concentram recursos e pessoal disponíveis para encontrar a criança. O caso também provoca preocupação com a segurança de moradores e caminhantes em Cheongsong. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Suche nach vermisstem Kind im Juwangsan läuft nachts mit Drohnen und Hunden",
+        "excerpt": "Im Juwangsan-Nationalpark in Cheongsong suchen Behörden nachts nach einem vermissten Grundschüler und setzen zusätzliche Wärmebilddrohnen und Rettungshunde ein.",
+        "body": "Die Suche nach einem vermissten Grundschüler im Juwangsan-Nationalpark im Landkreis Cheongsong in der Provinz Nord-Gyeongsang ist in einen Nachteinsatz übergegangen. Die Behörden begannen mit der Suche über Nacht, nachdem das Kind, das zunächst bald zurückerwartet worden war, als vermisst bestätigt wurde. Vor Ort wurden Drohnen mit Wärmebildkameras und Rettungshunde zusätzlich eingesetzt, das Suchgebiet wurde auf den gesamten Juwangsan ausgeweitet. Das bergige Gelände und die eingeschränkte Sicht bei Nacht erhöhen die Schwierigkeit, während die Einsatzkräfte verfügbare Ausrüstung und Personal auf das Finden des Kindes konzentrieren. Der Fall sorgt auch bei Bewohnern und Wanderern in Cheongsong für Sicherheitsbedenken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Enfant disparu à Juwangsan: recherches de nuit avec drones thermiques et chiens",
+        "excerpt": "Dans le parc national de Juwangsan, à Cheongsong, les autorités recherchent de nuit un écolier disparu avec des drones thermiques et des chiens de secours.",
+        "body": "La recherche d’un élève du primaire disparu dans le parc national de Juwangsan, dans le comté de Cheongsong, province du Gyeongsang du Nord, est passée en dispositif nocturne. Les autorités ont lancé des recherches toute la nuit après avoir confirmé la disparition de l’enfant, d’abord attendu de retour rapidement. Des drones équipés de caméras thermiques et des chiens de secours ont été ajoutés sur place, tandis que la zone de recherche a été étendue à l’ensemble de Juwangsan. Le relief montagneux et la visibilité réduite de nuit compliquent les opérations, et les équipes concentrent les moyens et le personnel disponibles pour retrouver l’enfant. Cette recherche suscite aussi des inquiétudes de sécurité chez les habitants et randonneurs de Cheongsong. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "البحث عن تلميذ مفقود في جوانغسان يتحول إلى الليل بمسيّرات وكلاب إنقاذ",
+        "excerpt": "في متنزه جوانغسان الوطني بتشيونغسونغ، حوّلت السلطات البحث عن تلميذ ابتدائي مفقود إلى عملية ليلية مع مسيّرات حرارية وكلاب إنقاذ.",
+        "body": "تحولت عملية البحث عن تلميذ في المرحلة الابتدائية فُقد في متنزه جوانغسان الوطني بمقاطعة تشيونغسونغ في إقليم غيونغسانغ الشمالي إلى نظام بحث ليلي. وبدأت السلطات البحث طوال الليل بعد تأكيد فقدان الطفل، بعدما كان يُعتقد في البداية أنه سيعود قريبا. وتمت إضافة مسيّرات مزودة بكاميرات تصوير حراري وكلاب إنقاذ في الموقع، كما توسع نطاق البحث ليشمل كامل منطقة جوانغسان. ومع صعوبة التضاريس الجبلية ومحدودية الرؤية ليلا، تركز السلطات المعدات والأفراد المتاحين على العثور على الطفل. وأثارت العملية أيضا مخاوف تتعلق بالسلامة بين سكان تشيونغسونغ والمتنزهين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "जुवांगसान में लापता छात्र की रातभर तलाश, थर्मल ड्रोन और रेस्क्यू डॉग तैनात",
+        "excerpt": "चियोंगसोंग के जुवांगसान नेशनल पार्क में लापता प्राथमिक छात्र की खोज रात में जारी है; अधिकारियों ने थर्मल कैमरा ड्रोन और रेस्क्यू डॉग लगाए हैं।",
+        "body": "उत्तर ग्योंगसांग प्रांत के चियोंगसोंग काउंटी स्थित जुवांगसान नेशनल पार्क में लापता हुए एक प्राथमिक स्कूल छात्र की तलाश रात के अभियान में बदल दी गई है। अधिकारियों ने बच्चे के लापता होने की पुष्टि के बाद रातभर खोज शुरू की, जबकि शुरुआत में उसके जल्द लौट आने की उम्मीद थी। मौके पर थर्मल इमेजिंग कैमरों से लैस ड्रोन और रेस्क्यू डॉग अतिरिक्त रूप से लगाए गए हैं, और खोज क्षेत्र पूरे जुवांगसान तक बढ़ा दिया गया है। पहाड़ी भूभाग और रात में सीमित दृश्यता से खोज कठिन हुई है, इसलिए अधिकारी उपलब्ध उपकरणों और कर्मियों को बच्चे को खोजने पर केंद्रित कर रहे हैं। इस घटना से चियोंगसोंग क्षेत्र के निवासियों और पर्वतारोहियों में सुरक्षा चिंता भी बढ़ी है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pencarian Siswa Hilang di Juwangsan Berlanjut Malam, Drone Termal Dikerahkan",
+        "excerpt": "Di Taman Nasional Juwangsan, Cheongsong, otoritas mengubah pencarian siswa SD yang hilang menjadi operasi malam dengan drone termal dan anjing penyelamat.",
+        "body": "Pencarian seorang siswa sekolah dasar yang hilang di Taman Nasional Juwangsan, Kabupaten Cheongsong, Provinsi Gyeongsang Utara, telah beralih menjadi operasi malam. Otoritas memulai pencarian sepanjang malam setelah anak itu dipastikan hilang, meski awalnya diperkirakan akan segera kembali. Drone yang dilengkapi kamera pencitraan termal dan anjing penyelamat tambahan dikerahkan di lokasi, sementara area pencarian diperluas ke seluruh Juwangsan. Medan pegunungan dan terbatasnya jarak pandang pada malam hari meningkatkan kesulitan pencarian, sehingga petugas memusatkan peralatan dan personel yang tersedia untuk menemukan anak tersebut. Pencarian ini juga memicu kekhawatiran keselamatan di kalangan warga dan pendaki di Cheongsong. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7ec2c443d54d",
+    "slug": "새벽-층간소음-지적에-1층이거든요김빈우-결국-사과-400359",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-11T13:29:30.046Z",
+    "updatedAt": "2026-05-11T13:29:30.046Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12043866",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12043866",
+    "titleFingerprint": "b544e7b14d4253a3abdb6b004a630b61a7ca5fc3",
+    "dedupKeys": [
+      "7ec2c443d54df6614f25fe457fcc2a3101bb291a",
+      "b544e7b14d4253a3abdb6b004a630b61a7ca5fc3",
+      "8de7331411b7c9294ab952896de39de9dfc30530"
+    ],
+    "imageUrl": "/images/articles/7ec2c443d54d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김빈우 층간소음 논란 사과, 새벽 라이브 방송 지적에 “깊이 반성”",
+        "excerpt": "방송인 김빈우가 11일 SNS를 통해 새벽 시간대 라이브 방송으로 불거진 층간소음 논란에 대해 “짧은 생각으로 깊이 반성 중”이라며 사과했다.",
+        "body": "방송인 김빈우(43)가 11일 자신의 SNS를 통해 새벽 시간대 라이브 방송 이후 제기된 층간소음 논란에 사과했다. 원문에 따르면 김빈우는 층간소음 지적에 “1층이거든요?”라는 반응을 보인 뒤 논란이 커지자 “짧은 생각으로 깊이 반성 중”이라고 밝혔다. 이번 사안은 늦은 시간대 온라인 방송이 주변 생활환경에 미칠 수 있는 영향을 둘러싼 문제로 확산됐다. 김빈우는 앞으로 더 조심하겠다는 뜻을 전한 것으로 알려졌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kim Bin-woo Apologizes Over Late-Night Noise Dispute After Live Broadcast",
+        "excerpt": "Broadcaster Kim Bin-woo apologized on May 11 through her SNS after criticism arose over alleged noise from a late-night live broadcast, saying she is “deeply reflecting.”",
+        "body": "Broadcaster Kim Bin-woo, 43, apologized on May 11 through her SNS over a noise controversy that arose after a live broadcast during the early-morning hours. According to the original report, after responding to a complaint by saying, “I’m on the first floor,” Kim later said she was “deeply reflecting on my short-sighted thinking” as the issue grew. The matter drew attention to how late-night online broadcasts can affect nearby living environments. Kim reportedly said she would be more careful going forward. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "キム・ビンウ、深夜ライブ配信の騒音騒動を謝罪「深く反省」",
+        "excerpt": "タレントのキム・ビンウが11日、未明のライブ配信をめぐる騒音騒動についてSNSで「浅はかな考えを深く反省している」と謝罪した。",
+        "body": "タレントのキム・ビンウ（43）が11日、自身のSNSを通じ、未明の時間帯に行ったライブ配信後に浮上した騒音騒動について謝罪した。原文によると、キム・ビンウは騒音を指摘され「1階なんですけど？」と反応した後、議論が広がると「浅はかな考えを深く反省している」と明らかにした。今回の件は、深夜のオンライン配信が周辺の生活環境に与え得る影響をめぐる問題として注目された。今後はさらに注意する意向を示したという。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "金彬雨就凌晨直播噪音争议道歉，称“正深刻反省”",
+        "excerpt": "艺人金彬雨11日通过个人社交媒体，就凌晨直播引发的楼层噪音争议道歉，表示因“考虑不周”正在深刻反省。",
+        "body": "艺人金彬雨（43岁）11日通过个人社交媒体，就凌晨时段直播后引发的楼层噪音争议作出道歉。据原文报道，金彬雨在被指出噪音问题时曾回应“我住一楼啊？”，随后争议扩大，她表示“因考虑不周，正在深刻反省”。此次事件引发外界关注深夜线上直播可能对周边居住环境造成的影响。报道称，金彬雨表达了今后会更加谨慎的态度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kim Bin-woo se disculpa por polémica de ruido tras directo de madrugada",
+        "excerpt": "La presentadora Kim Bin-woo se disculpó el 11 de mayo en sus redes sociales por la polémica de ruido causada por una transmisión en vivo de madrugada.",
+        "body": "La presentadora Kim Bin-woo, de 43 años, se disculpó el 11 de mayo a través de sus redes sociales por la polémica de ruido surgida tras una transmisión en vivo realizada de madrugada. Según el texto original, después de que se le señalara el problema, Kim respondió: “Estoy en el primer piso”, y cuando la controversia creció afirmó que estaba “reflexionando profundamente por haber pensado de forma breve”. El caso puso el foco en el impacto que las emisiones nocturnas en línea pueden tener en el entorno residencial. Kim habría dicho que será más cuidadosa en adelante. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kim Bin-woo pede desculpas por polêmica de barulho após live de madrugada",
+        "excerpt": "A apresentadora Kim Bin-woo pediu desculpas em 11 de maio nas redes sociais pela controvérsia de barulho causada por uma transmissão ao vivo de madrugada.",
+        "body": "A apresentadora Kim Bin-woo, de 43 anos, pediu desculpas em 11 de maio por meio de suas redes sociais pela controvérsia de barulho levantada após uma transmissão ao vivo durante a madrugada. Segundo o texto original, ao receber a reclamação, Kim respondeu: “Eu moro no primeiro andar”, mas, com a repercussão, afirmou estar “refletindo profundamente por ter pensado de forma curta”. O caso chamou atenção para o impacto que transmissões online em horário tardio podem causar no ambiente residencial ao redor. Kim teria dito que será mais cuidadosa daqui em diante. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kim Bin-woo entschuldigt sich nach Lärmstreit um nächtlichen Livestream",
+        "excerpt": "Moderatorin Kim Bin-woo entschuldigte sich am 11. Mai über SNS für die Lärmkontroverse nach einem Livestream in den frühen Morgenstunden.",
+        "body": "Die Moderatorin Kim Bin-woo, 43, entschuldigte sich am 11. Mai über ihre sozialen Medien für eine Lärmkontroverse, die nach einem Livestream in den frühen Morgenstunden entstanden war. Dem Originalbericht zufolge reagierte Kim auf den Hinweis auf Ruhestörung zunächst mit den Worten: „Ich wohne doch im ersten Stock“, erklärte später aber, sie sei wegen ihres „kurzsichtigen Denkens tief in Reflexion“. Der Fall lenkte die Aufmerksamkeit auf mögliche Auswirkungen nächtlicher Onlineübertragungen auf das Wohnumfeld. Kim soll angekündigt haben, künftig vorsichtiger zu sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Kim Bin-woo s’excuse après une polémique de bruit liée à un live nocturne",
+        "excerpt": "L’animatrice Kim Bin-woo a présenté ses excuses le 11 mai sur ses réseaux sociaux après une controverse de bruit provoquée par un live diffusé à l’aube.",
+        "body": "L’animatrice Kim Bin-woo, 43 ans, a présenté ses excuses le 11 mai sur ses réseaux sociaux après une controverse de bruit née d’une diffusion en direct aux premières heures du matin. Selon le texte original, lorsqu’une remarque sur le bruit lui a été adressée, Kim a répondu: « Je suis au premier étage », avant d’indiquer, face à l’ampleur de la polémique, qu’elle « réfléchissait profondément à son manque de recul ». L’affaire a mis en lumière l’effet possible des lives tardifs sur l’environnement résidentiel voisin. Kim aurait fait savoir qu’elle serait plus prudente à l’avenir. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كيم بين وو تعتذر عن جدل الضوضاء بعد بث مباشر في الفجر",
+        "excerpt": "اعتذرت المذيعة كيم بين وو في 11 مايو عبر حساباتها الاجتماعية عن جدل الضوضاء الذي أثير بسبب بث مباشر في ساعات الفجر، مؤكدة أنها “تراجع نفسها بعمق”.",
+        "body": "قدمت المذيعة كيم بين وو، البالغة 43 عاما، اعتذارا في 11 مايو عبر حساباتها على مواقع التواصل الاجتماعي بعد جدل حول الضوضاء أثير عقب بث مباشر في ساعات الفجر. وبحسب النص الأصلي، ردت كيم على ملاحظة بشأن الضوضاء بقولها: “أنا في الطابق الأول”، ثم قالت بعد اتساع الجدل إنها “تراجع نفسها بعمق بسبب تفكير قصير”. وسلطت الواقعة الضوء على تأثير البث online في ساعات متأخرة في البيئة السكنية المحيطة. وذكرت أنها ستكون أكثر حذرا مستقبلا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "किम बिन-वू ने तड़के लाइव प्रसारण से उठे शोर विवाद पर माफी मांगी",
+        "excerpt": "ब्रॉडकास्टर किम बिन-वू ने 11 मई को SNS पर तड़के लाइव प्रसारण से उठे शोर विवाद के लिए माफी मांगी और कहा कि वह “गहराई से आत्मचिंतन” कर रही हैं।",
+        "body": "ब्रॉडकास्टर किम बिन-वू, 43, ने 11 मई को अपने SNS के जरिए तड़के किए गए लाइव प्रसारण के बाद उठे शोर विवाद पर माफी मांगी। मूल रिपोर्ट के अनुसार, शोर को लेकर आपत्ति जताए जाने पर किम ने पहले कहा, “मैं तो पहली मंजिल पर हूं,” लेकिन विवाद बढ़ने के बाद उन्होंने कहा कि वह “छोटी सोच के लिए गहराई से आत्मचिंतन कर रही हैं।” यह मामला देर रात ऑनलाइन प्रसारणों के आसपास के आवासीय वातावरण पर पड़ने वाले प्रभाव को लेकर चर्चा में आया। बताया गया कि किम ने आगे अधिक सावधान रहने की बात कही। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kim Bin-woo Minta Maaf atas Kontroversi Kebisingan Live Dini Hari",
+        "excerpt": "Penyiar Kim Bin-woo meminta maaf pada 11 Mei lewat SNS setelah muncul kontroversi kebisingan akibat siaran langsung pada dini hari.",
+        "body": "Penyiar Kim Bin-woo, 43 tahun, meminta maaf pada 11 Mei melalui SNS pribadinya terkait kontroversi kebisingan yang muncul setelah siaran langsung pada dini hari. Menurut teks asli, saat mendapat teguran soal kebisingan, Kim sempat menanggapi, “Saya kan di lantai satu,” lalu setelah kontroversi meluas ia mengatakan sedang “sangat merenung karena berpikir pendek.” Kasus ini menyoroti dampak siaran online larut malam terhadap lingkungan tempat tinggal sekitar. Kim disebut menyampaikan bahwa ia akan lebih berhati-hati ke depannya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "150101ffe10f",
+    "slug": "여름-불청객-또-온다6월-중순-러브버그-집중-출몰-예고-220082",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-11T13:28:26.775Z",
+    "updatedAt": "2026-05-11T13:28:26.775Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12043874",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12043874",
+    "titleFingerprint": "f9906e2d741317dd5f12c79b08004f5036f33303",
+    "dedupKeys": [
+      "150101ffe10f157f051e56cd27116b0effabd8de",
+      "f9906e2d741317dd5f12c79b08004f5036f33303",
+      "d1ffde0b6111d839298230ec933b9c6d86e20a29"
+    ],
+    "imageUrl": "/images/articles/150101ffe10f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "러브버그 6월 중순 집중 출몰 예고, 평년보다 이른 여름 불청객",
+        "excerpt": "지난해 여름 시민 불편을 키웠던 붉은등우단털파리, 이른바 러브버그가 봄철 고온 영향으로 올해 6월 중순부터 더 일찍 집중 출몰할 전망이다.",
+        "body": "지난해 여름 대량 출몰해 시민 불편을 키웠던 붉은등우단털파리, 이른바 러브버그가 올해는 6월 중순부터 집중적으로 나타날 전망이다. 원문에 따르면 올해 봄 기온이 평년보다 높았던 영향으로 출몰 시기가 예년보다 앞당겨질 가능성이 제기됐다. 러브버그는 여름철 갑작스러운 대량 출현으로 생활 불편을 일으켜 왔으며, 올해는 출현 개체 수도 예년보다 더 많을 것으로 예상된다. 이에 따라 6월 중순 이후 도심과 주거지 주변에서 시민 체감 불편이 다시 커질 수 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Lovebugs Expected to Swarm in Mid-June as Summer Pest Arrives Earlier",
+        "excerpt": "The red-backed lovebug, which caused public inconvenience during last summer’s mass outbreak, is expected to appear earlier from mid-June due to warmer-than-average spring temperatures.",
+        "body": "The red-backed velvet fly, widely known as the lovebug, is expected to appear in concentrated numbers from mid-June this year after causing public inconvenience through mass outbreaks last summer. According to the original report, warmer-than-average spring temperatures are likely to bring forward the timing of its emergence. Lovebugs have become a summer nuisance when they appear suddenly in large numbers, and this year the number of individuals is also expected to be higher than in previous years. As a result, inconvenience felt by residents in cities and residential areas may rise again after mid-June. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "ラブバグ、6月中旬に集中発生予告 平年より早い夏の厄介者",
+        "excerpt": "昨年夏に大量発生し市民の不便を招いた赤い背のラブバグが、春の高温の影響で今年は6月中旬から例年より早く集中発生する見通しです。",
+        "body": "昨年夏に大量発生して市民の不便を大きくした赤い背の毛ばえ、いわゆるラブバグが、今年は6月中旬から集中的に現れる見通しです。原文によると、今年の春の気温が平年より高かった影響で、発生時期が例年より早まる可能性が示されました。ラブバグは夏に突然大量発生し、生活上の不便を引き起こしてきました。今年は出現する個体数も例年より多いと予想されています。このため、6月中旬以降、都市部や住宅地周辺で市民が感じる不便が再び大きくなる可能性があります。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "爱虫预计6月中旬集中出现，夏季不速之客或提前来袭",
+        "excerpt": "去年夏季大量出现并造成市民不便的红背绒毛蝇，即“爱虫”，受春季气温高于常年影响，预计今年将从6月中旬起更早集中出现。",
+        "body": "去年夏季曾大量出现并加重市民不便的红背绒毛蝇，也就是俗称的“爱虫”，预计今年将从6月中旬起集中出现。根据原文，今年春季气温高于常年，可能导致其出现时间较往年提前。爱虫在夏季突然大量出现时，会给日常生活带来不便；今年预计出现个体数量也将比往年更多。因此，6月中旬以后，城市和住宅区周边居民感受到的不便可能再次增加。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Lovebugs se concentrarían a mediados de junio por una llegada más temprana",
+        "excerpt": "La mosca de lomo rojizo conocida como lovebug, que causó molestias ciudadanas el verano pasado, aparecería antes desde mediados de junio por temperaturas primaverales superiores al promedio.",
+        "body": "La mosca de lomo rojizo conocida como lovebug, que el verano pasado apareció en grandes cantidades y aumentó las molestias para los ciudadanos, se prevé que este año se concentre desde mediados de junio. Según el texto original, las temperaturas de primavera, más altas que el promedio, podrían adelantar su aparición frente a años anteriores. Los lovebugs han provocado incomodidad en verano cuando surgen de forma repentina y masiva, y este año también se espera que el número de ejemplares sea mayor que en temporadas previas. Por ello, desde mediados de junio podrían volver a sentirse molestias en zonas urbanas y residenciales. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Lovebugs devem surgir em massa em meados de junho, mais cedo que o habitual",
+        "excerpt": "A mosca de dorso avermelhado conhecida como lovebug, que causou incômodo no verão passado, deve aparecer mais cedo a partir de meados de junho devido à primavera mais quente que a média.",
+        "body": "A mosca de dorso avermelhado conhecida como lovebug, que apareceu em grande quantidade no verão passado e aumentou o desconforto dos cidadãos, deve se concentrar a partir de meados de junho deste ano. Segundo o texto original, as temperaturas da primavera ficaram acima da média, o que pode antecipar o período de surgimento em relação a anos anteriores. Os lovebugs costumam causar incômodo quando aparecem de repente em grandes números no verão, e neste ano a quantidade de indivíduos também deve ser maior que a de temporadas passadas. Assim, após meados de junho, áreas urbanas e residenciais podem voltar a sentir esse impacto. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Lovebugs werden ab Mitte Juni in großer Zahl erwartet, früher als üblich",
+        "excerpt": "Die rotrückige Haarmücke, bekannt als Lovebug, die im vergangenen Sommer viele Menschen störte, dürfte wegen überdurchschnittlich warmer Frühlingstemperaturen ab Mitte Juni früher auftreten.",
+        "body": "Die rotrückige Haarmücke, besser bekannt als Lovebug, wird in diesem Jahr voraussichtlich ab Mitte Juni gehäuft auftreten, nachdem sie im vergangenen Sommer durch massenhaftes Erscheinen viele Bürger belastet hatte. Dem Originalbericht zufolge könnten die im Frühling über dem Durchschnitt liegenden Temperaturen den Zeitpunkt des Auftretens gegenüber früheren Jahren vorziehen. Lovebugs verursachen im Sommer Unannehmlichkeiten, wenn sie plötzlich in großer Zahl erscheinen. Für dieses Jahr wird zudem erwartet, dass die Zahl der Exemplare höher ausfällt als in den Vorjahren. Daher könnten sich ab Mitte Juni in Städten und Wohngebieten erneut spürbare Belastungen ergeben. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Les lovebugs attendus en masse mi-juin, une arrivée estivale plus précoce",
+        "excerpt": "La mouche à dos rouge appelée lovebug, qui avait gêné les habitants l’été dernier, devrait apparaître plus tôt dès la mi-juin sous l’effet d’un printemps plus chaud que la normale.",
+        "body": "La mouche à dos rouge, communément appelée lovebug, devrait apparaître en nombre concentré à partir de la mi-juin cette année, après avoir causé des désagréments aux habitants lors de pullulations massives l’été dernier. Selon le texte original, les températures printanières supérieures à la normale pourraient avancer sa période d’apparition par rapport aux années précédentes. Les lovebugs provoquent des gênes lorsqu’ils surgissent soudainement en grand nombre durant l’été, et le nombre d’individus attendu cette année pourrait aussi dépasser celui des années passées. Ainsi, après la mi-juin, les zones urbaines et résidentielles pourraient de nouveau ressentir ces désagréments. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "حشرات لاف باغ متوقعة بكثافة منتصف يونيو مع قدوم مبكر لإزعاج الصيف",
+        "excerpt": "من المتوقع أن تظهر ذبابة الظهر الأحمر المعروفة باسم لاف باغ مبكرا وبكثافة من منتصف يونيو، بعد أن سببت إزعاجا للسكان الصيف الماضي، بسبب دفء الربيع فوق المعدل.",
+        "body": "من المتوقع أن تظهر ذبابة الظهر الأحمر، المعروفة باسم لاف باغ، بكثافة اعتبارا من منتصف يونيو هذا العام، بعدما تسببت في إزعاج المواطنين عند ظهورها بأعداد كبيرة في الصيف الماضي. ووفقا للنص الأصلي، فإن درجات حرارة الربيع التي كانت أعلى من المعدل قد تؤدي إلى تبكير موعد ظهورها مقارنة بالسنوات السابقة. وقد اعتادت هذه الحشرات أن تسبب إزعاجا صيفيا عندما تظهر فجأة بأعداد كبيرة، كما يتوقع أن يكون عددها هذا العام أكبر من المعتاد في الأعوام السابقة. لذلك قد يزداد الإزعاج الذي يشعر به السكان في المدن والمناطق السكنية بعد منتصف يونيو. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "लवबग जून मध्य में अधिक संख्या में दिख सकते हैं, गर्मी की परेशानी पहले आएगी",
+        "excerpt": "पिछली गर्मियों में नागरिकों को असुविधा देने वाला लाल पीठ वाला लवबग इस साल औसत से अधिक गर्म वसंत के कारण जून मध्य से पहले और अधिक संख्या में दिखने की संभावना है।",
+        "body": "पिछली गर्मियों में बड़ी संख्या में निकलकर नागरिकों की असुविधा बढ़ाने वाला लाल पीठ वाला कीट, जिसे लवबग कहा जाता है, इस साल जून मध्य से अधिक केंद्रित रूप में दिखाई देने का अनुमान है। मूल रिपोर्ट के अनुसार, इस साल वसंत का तापमान सामान्य से अधिक रहा, जिससे इसके निकलने का समय पिछले वर्षों की तुलना में पहले हो सकता है। लवबग गर्मियों में अचानक बड़ी संख्या में दिखने पर दैनिक जीवन में परेशानी पैदा करते रहे हैं। इस साल इनकी संख्या भी पिछले वर्षों से अधिक होने की उम्मीद है। इसलिए जून मध्य के बाद शहरों और आवासीय इलाकों में नागरिकों को महसूस होने वाली असुविधा फिर बढ़ सकती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Lovebug Diperkirakan Muncul Massal Pertengahan Juni, Lebih Awal dari Biasa",
+        "excerpt": "Lalat punggung merah yang dikenal sebagai lovebug, penyebab ketidaknyamanan warga pada musim panas lalu, diperkirakan muncul lebih awal mulai pertengahan Juni karena musim semi lebih hangat dari normal.",
+        "body": "Lalat punggung merah yang dikenal sebagai lovebug diperkirakan muncul secara terkonsentrasi mulai pertengahan Juni tahun ini, setelah pada musim panas lalu muncul dalam jumlah besar dan menambah ketidaknyamanan warga. Menurut teks asli, suhu musim semi tahun ini lebih tinggi dari rata-rata, sehingga waktu kemunculannya dapat maju dibandingkan tahun-tahun sebelumnya. Lovebug kerap menimbulkan gangguan saat muncul tiba-tiba dalam jumlah besar pada musim panas, dan tahun ini jumlah individunya juga diperkirakan lebih banyak daripada tahun-tahun lalu. Karena itu, setelah pertengahan Juni, ketidaknyamanan di wilayah perkotaan dan permukiman dapat kembali meningkat. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "57151c4baf74",
     "slug": "제발-금-좀-사지-말아주세요인도-모디-총리-호소한-이유는-130271",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Trump Sebut Jawaban Iran ‘Tak Dapat Diterima’, Perundingan Terancam Buntu",
         "excerpt": "Presiden AS Donald Trump pada 10 Mei waktu setempat menyatakan di Truth Social bahwa jawaban Iran atas proposal AS tidak dapat diterima.",
         "body": "Presiden Amerika Serikat Donald Trump pada 10 Mei waktu setempat menyatakan bahwa jawaban Iran atas proposal AS untuk mengakhiri perang “sama sekali tidak dapat diterima”. Trump menyampaikan pernyataan itu melalui media sosial Truth Social, dengan maksud bahwa jawaban Iran berada di luar batas yang dapat diterima Washington dalam proposal tersebut. Menurut laporan asli, isi rinci jawaban Iran maupun jadwal negosiasi lanjutan belum diungkap. Pernyataan ini membuat perundingan antara Amerika Serikat dan Iran mengenai proposal tersebut terancam menemui jalan buntu. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "82e1ced7cf57",
-    "slug": "k방산-질주에-로펌도-달린다불붙은-별-모시기-경쟁-693261",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T20:53:26.315Z",
-    "updatedAt": "2026-05-10T20:53:26.315Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065191",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065191",
-    "titleFingerprint": "c1848b0e85559bf6df31963946790c69ff99c58f",
-    "dedupKeys": [
-      "82e1ced7cf57bdf3a444117d5d51c15921a9dc95",
-      "c1848b0e85559bf6df31963946790c69ff99c58f",
-      "f3caccd0cbd375ec16800d6385a317ec0b27aedd"
-    ],
-    "imageUrl": "/images/articles/82e1ced7cf57.jpg",
-    "i18n": {
-      "ko": {
-        "title": "K방산 질주에 로펌도 달린다…예비역 장성 ‘별’ 모시기 경쟁 확산",
-        "excerpt": "한국경제는 2026년 5월 11일 K방산 성장 흐름 속에서 로펌들이 방산 관련 대응력을 높이기 위해 예비역 장성 영입 경쟁에 나서고 있다고 보도했다.",
-        "body": "한국경제는 2026년 5월 11일자 로&비즈 지면에서 K방산의 질주가 법률시장으로도 번지고 있다고 전했다. 기사에 따르면 로펌들은 방위산업 관련 자문과 분쟁 대응 수요에 맞춰 예비역 장성, 이른바 ‘별’ 출신 인재를 모시는 경쟁에 나서고 있다. K방산의 성장세가 기업뿐 아니라 법률서비스 영역에도 영향을 주며, 군과 방산 분야를 이해하는 전문 인력의 중요성이 커진 흐름이다. 향후 로펌 간 방산 전문성 경쟁은 인재 영입과 자문 역량 강화로 이어질 가능성이 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "K-Defense Boom Pulls Law Firms Into Race to Recruit Retired Generals",
-        "excerpt": "The Korea Economic Daily reported on May 11, 2026 that law firms are competing to recruit retired generals as K-defense growth lifts demand for defense-related legal expertise.",
-        "body": "The Korea Economic Daily reported in its Law & Biz section on May 11, 2026 that the rapid rise of Korea’s defense industry is spreading into the legal market. According to the article, law firms are competing to recruit retired generals, often referred to as “stars,” to strengthen their ability to advise on defense-industry matters and handle related disputes. The K-defense boom is affecting not only manufacturers but also legal services, increasing the value of professionals who understand the military and defense sectors. Competition among law firms may continue through talent recruitment and stronger advisory capabilities. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "K防衛産業の疾走で法律事務所も動く、退役将官の獲得競争が拡大",
-        "excerpt": "韓国経済新聞は2026年5月11日、K防衛産業の成長を背景に、法律事務所が防衛関連対応力を高めるため退役将官の獲得競争に乗り出していると報じた。",
-        "body": "韓国経済新聞は2026年5月11日付のロ&ビズ面で、K防衛産業の勢いが法律市場にも広がっていると伝えた。記事によると、法律事務所は防衛産業関連の助言や紛争対応の需要に合わせ、退役将官、いわゆる「星」出身の人材を迎える競争を進めている。K防衛産業の成長は企業だけでなく法律サービス分野にも影響を及ぼし、軍と防衛分野を理解する専門人材の重要性が高まっている。今後、法律事務所間の防衛専門性競争は人材確保と助言力強化につながる可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "K防务高速增长带动律所跟进，退役将领“星级”人才争夺升温",
-        "excerpt": "《韩国经济新闻》2026年5月11日报道，随着K防务产业增长，律所正为提升防务相关法律服务能力而争夺退役将领人才。",
-        "body": "《韩国经济新闻》在2026年5月11日的Law & Biz版面报道称，K防务产业的高速增长正延伸至法律市场。报道指出，律所为应对防务产业相关咨询和争议处理需求，正在竞争招揽退役将领，也就是被称为“星”的人才。K防务的增长不仅影响企业，也影响法律服务领域，使熟悉军队和防务行业的专业人才更受重视。未来，律所之间围绕防务专业能力的竞争，可能继续体现在人才引进和咨询能力强化上。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El auge de K-defense llega a los bufetes: crece la pugna por generales retirados",
-        "excerpt": "The Korea Economic Daily informó el 11 de mayo de 2026 que los bufetes compiten por contratar generales retirados para reforzar su capacidad legal en defensa.",
-        "body": "The Korea Economic Daily informó en su sección Law & Biz del 11 de mayo de 2026 que el avance de la industria de defensa coreana también se extiende al mercado legal. Según el artículo, los bufetes compiten por incorporar generales retirados, conocidos como “estrellas”, para responder a la demanda de asesoría y gestión de disputas vinculadas a la industria de defensa. El crecimiento de K-defense influye no solo en las empresas, sino también en los servicios jurídicos, elevando el valor de profesionales que entienden el ámbito militar y de defensa. La competencia entre bufetes podría seguir mediante contratación de talento y refuerzo de asesoría. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Avanço da K-defense chega aos escritórios, que disputam generais da reserva",
-        "excerpt": "O The Korea Economic Daily informou em 11 de maio de 2026 que escritórios de advocacia disputam generais da reserva para reforçar atuação jurídica em defesa.",
-        "body": "O The Korea Economic Daily informou na seção Law & Biz de 11 de maio de 2026 que o avanço da indústria de defesa da Coreia também está chegando ao mercado jurídico. Segundo a reportagem, escritórios de advocacia competem para recrutar generais da reserva, chamados de “estrelas”, a fim de responder à demanda por consultoria e disputas ligadas ao setor de defesa. O crescimento da K-defense afeta não apenas empresas, mas também serviços jurídicos, aumentando a importância de profissionais que entendem os campos militar e de defesa. A disputa entre escritórios pode continuar por meio de contratações e reforço da capacidade consultiva. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "K-Defense-Boom erreicht Kanzleien: Wettbewerb um pensionierte Generäle nimmt zu",
-        "excerpt": "The Korea Economic Daily berichtete am 11. Mai 2026, dass Kanzleien pensionierte Generäle umwerben, um ihre Expertise bei Rechtsfragen der Verteidigungsindustrie auszubauen.",
-        "body": "The Korea Economic Daily berichtete am 11. Mai 2026 in der Rubrik Law & Biz, dass der Aufschwung der koreanischen Verteidigungsindustrie auch den Rechtsmarkt erreicht. Dem Artikel zufolge konkurrieren Kanzleien um pensionierte Generäle, sogenannte „Sterne“, um Beratung und Streitfallarbeit im Verteidigungssektor zu stärken. Das Wachstum von K-Defense wirkt damit nicht nur auf Unternehmen, sondern auch auf juristische Dienstleistungen. Fachleute mit Verständnis für Militär und Verteidigungsindustrie gewinnen an Bedeutung. Der Wettbewerb der Kanzleien dürfte sich über Personalgewinnung und stärkere Beratungskompetenz fortsetzen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’essor de la K-defense gagne les cabinets, en quête de généraux retraités",
-        "excerpt": "The Korea Economic Daily a rapporté le 11 mai 2026 que les cabinets d’avocats rivalisent pour recruter des généraux retraités et renforcer leur expertise défense.",
-        "body": "The Korea Economic Daily a rapporté dans sa rubrique Law & Biz du 11 mai 2026 que l’essor de l’industrie de défense coréenne s’étend aussi au marché juridique. Selon l’article, les cabinets d’avocats rivalisent pour recruter des généraux retraités, appelés « étoiles », afin de répondre aux besoins de conseil et de gestion des litiges liés à la défense. La croissance de la K-defense touche donc non seulement les entreprises, mais aussi les services juridiques, où les profils connaissant l’armée et le secteur de la défense prennent de la valeur. La concurrence entre cabinets pourrait se poursuivre par le recrutement et le renforcement du conseil. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "طفرة الدفاع الكوري تجذب مكاتب المحاماة إلى سباق استقطاب الجنرالات المتقاعدين",
-        "excerpt": "ذكرت صحيفة كوريا الاقتصادية في 11 مايو 2026 أن مكاتب المحاماة تتنافس على توظيف جنرالات متقاعدين لتعزيز خبرتها القانونية في قطاع الدفاع.",
-        "body": "ذكرت صحيفة كوريا الاقتصادية في قسم Law & Biz بتاريخ 11 مايو 2026 أن صعود صناعة الدفاع الكورية يمتد أيضا إلى سوق الخدمات القانونية. ووفقا للتقرير، تتنافس مكاتب المحاماة على استقطاب جنرالات متقاعدين، يشار إليهم باسم «النجوم»، لتعزيز قدرتها على تقديم المشورة ومعالجة النزاعات المرتبطة بصناعة الدفاع. ولا يقتصر تأثير نمو K-defense على الشركات، بل يشمل الخدمات القانونية أيضا، ما يزيد أهمية المتخصصين الذين يفهمون المجالين العسكري والدفاعي. وقد تستمر المنافسة بين المكاتب عبر جذب المواهب وتقوية القدرات الاستشارية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "K-डिफेंस की तेजी से लॉ फर्मों में भी दौड़, सेवानिवृत्त जनरलों की मांग बढ़ी",
-        "excerpt": "द कोरिया इकोनॉमिक डेली ने 11 मई 2026 को बताया कि K-डिफेंस की वृद्धि के बीच लॉ फर्में रक्षा क्षेत्र की कानूनी क्षमता बढ़ाने के लिए सेवानिवृत्त जनरलों को ला रही हैं।",
-        "body": "द कोरिया इकोनॉमिक डेली ने 11 मई 2026 के Law & Biz खंड में बताया कि कोरिया के रक्षा उद्योग की तेज वृद्धि अब कानूनी बाजार तक पहुंच रही है। रिपोर्ट के अनुसार, लॉ फर्में रक्षा उद्योग से जुड़ी सलाह और विवादों से निपटने की मांग के अनुरूप सेवानिवृत्त जनरलों, जिन्हें “स्टार” कहा जाता है, को भर्ती करने की प्रतिस्पर्धा में हैं। K-डिफेंस की वृद्धि केवल कंपनियों को नहीं, बल्कि कानूनी सेवाओं को भी प्रभावित कर रही है। सेना और रक्षा क्षेत्र को समझने वाले विशेषज्ञों का महत्व बढ़ रहा है। आगे यह प्रतिस्पर्धा प्रतिभा भर्ती और सलाह क्षमता मजबूत करने में दिख सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Laju K-defense Seret Firma Hukum ke Persaingan Merekrut Jenderal Purnawirawan",
-        "excerpt": "The Korea Economic Daily melaporkan pada 11 Mei 2026 bahwa firma hukum bersaing merekrut jenderal purnawirawan untuk memperkuat layanan hukum terkait pertahanan.",
-        "body": "The Korea Economic Daily melaporkan di rubrik Law & Biz pada 11 Mei 2026 bahwa laju industri pertahanan Korea juga merambah pasar hukum. Menurut artikel tersebut, firma hukum bersaing merekrut jenderal purnawirawan, yang kerap disebut “bintang”, untuk memperkuat kemampuan memberi nasihat dan menangani sengketa terkait industri pertahanan. Pertumbuhan K-defense memengaruhi bukan hanya perusahaan, tetapi juga layanan hukum, sehingga tenaga ahli yang memahami sektor militer dan pertahanan makin penting. Ke depan, persaingan antar firma dapat berlanjut melalui perekrutan talenta dan penguatan kapasitas konsultasi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "2eb7b11fb2e3",
-    "slug": "ai-데이터센터로-광통신-특수국방드론-등-방산-영토-확장-169811",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T20:52:12.349Z",
-    "updatedAt": "2026-05-10T20:52:12.349Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065601",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065601",
-    "titleFingerprint": "3a4456d62437e7225e89430da2128ab74e23b0bd",
-    "dedupKeys": [
-      "2eb7b11fb2e3e28e60530dd47f9aa32f33f26a4f",
-      "3a4456d62437e7225e89430da2128ab74e23b0bd",
-      "9765f68b3da6f183c37553e599e290fbf2469530"
-    ],
-    "imageUrl": "/images/articles/2eb7b11fb2e3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 데이터센터 광통신 수요 확대, 국방·드론 방산 영역까지 주목",
-        "excerpt": "한국경제는 최근 AI 데이터센터 확대로 광통신 수요가 부각되고, 관련 기업들이 국방·드론 등 방산 분야로 사업 영역을 넓히고 있다고 전했다.",
-        "body": "AI 데이터센터 확산으로 대용량 데이터를 빠르게 처리할 광통신 인프라 수요가 주목받고 있다. 한국경제는 관련 기업들이 데이터센터용 광통신 수요에 대응하는 한편 국방, 드론 등 방산 분야로 사업 범위를 넓히고 있다고 보도했다. AI 연산과 클라우드 서비스 확대는 고속·대용량 전송 장비의 필요성을 키우는 배경으로 꼽힌다. 동시에 드론 대응과 국방 기술 수요가 맞물리며 광통신·광소재 기술의 활용처가 넓어지는 흐름이다. 다만 기사에서 확인된 범위는 광통신 특수와 방산 영역 확장에 한정된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "AI Data Centers Lift Optical Communications Demand as Defense and Drone Markets Expand",
-        "excerpt": "Hankyung reported that rising AI data-center demand is putting optical communications in focus, while related companies expand into defense areas such as national security and drones.",
-        "body": "Demand for optical communications infrastructure is drawing attention as AI data centers require faster handling of large volumes of data. Hankyung reported that related companies are responding to data-center demand while expanding their business scope into defense fields, including national defense and drones. Growth in AI computing and cloud services is cited as a backdrop for greater need for high-speed, high-capacity transmission equipment. At the same time, demand tied to drone response and defense technology is widening the use cases for optical communications and optical materials. The confirmed scope of the article is limited to optical-communications demand and defense expansion. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "AIデータセンターで光通信需要拡大、防衛・ドローン分野にも領域拡張",
-        "excerpt": "韓国経済新聞は、AIデータセンターの拡大で光通信需要が注目され、関連企業が国防やドローンなど防衛分野へ事業領域を広げていると伝えた。",
-        "body": "AIデータセンターの広がりにより、大容量データを高速に処理する光通信インフラ需要が注目されている。韓国経済新聞は、関連企業がデータセンター向け光通信需要に対応する一方、国防やドローンなど防衛分野へ事業範囲を広げていると報じた。AI演算とクラウドサービスの拡大は、高速・大容量伝送装置の必要性を高める背景とされる。同時に、ドローン対応や防衛技術需要が重なり、光通信・光素材技術の用途が広がる流れだ。ただし記事で確認された範囲は、光通信特需と防衛領域の拡張に限られる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "AI数据中心推高光通信需求，国防与无人机等军工领域加速扩展",
-        "excerpt": "韩国经济报道称，随着AI数据中心扩张，光通信需求受到关注，相关企业正把业务范围扩大到国防、无人机等军工领域。",
-        "body": "随着AI数据中心扩散，能够快速处理海量数据的光通信基础设施需求正受到关注。韩国经济报道称，相关企业一方面应对数据中心用光通信需求，另一方面把业务范围扩大到国防、无人机等军工领域。AI计算和云服务扩大，被视为高速、大容量传输设备需求上升的背景。同时，无人机应对和国防技术需求叠加，使光通信和光材料技术的应用场景进一步拓宽。不过，报道中确认的范围仅限于光通信特殊需求和军工领域扩展。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Centros de datos de IA impulsan la comunicación óptica y abren espacio en defensa y drones",
-        "excerpt": "Hankyung informó que la expansión de los centros de datos de IA destaca la demanda de comunicación óptica, mientras empresas relacionadas avanzan hacia defensa y drones.",
-        "body": "La expansión de los centros de datos de IA está poniendo en foco la demanda de infraestructura de comunicación óptica capaz de procesar grandes volúmenes de datos con rapidez. Hankyung informó que empresas relacionadas responden a la demanda para centros de datos mientras amplían su alcance hacia áreas de defensa, incluidos seguridad nacional y drones. El crecimiento del cómputo de IA y de los servicios en la nube se cita como contexto para una mayor necesidad de equipos de transmisión rápidos y de alta capacidad. A la vez, la demanda vinculada a respuesta ante drones y tecnología de defensa amplía los usos de la comunicación óptica y los materiales ópticos. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Data centers de IA elevam demanda por comunicação óptica e ampliam foco em defesa e drones",
-        "excerpt": "O Hankyung informou que a expansão dos data centers de IA destaca a demanda por comunicação óptica, enquanto empresas relacionadas avançam para defesa e drones.",
-        "body": "A expansão dos data centers de IA está chamando atenção para a demanda por infraestrutura de comunicação óptica capaz de processar rapidamente grandes volumes de dados. O Hankyung informou que empresas relacionadas atendem à demanda voltada a data centers enquanto ampliam sua atuação para áreas de defesa, incluindo segurança nacional e drones. O avanço da computação de IA e dos serviços em nuvem é citado como pano de fundo para a necessidade maior de equipamentos de transmissão rápidos e de alta capacidade. Ao mesmo tempo, demandas ligadas à resposta a drones e à tecnologia de defesa ampliam os usos de comunicação óptica e materiais ópticos. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KI-Rechenzentren treiben optische Kommunikation, Verteidigung und Drohnen rücken in den Fokus",
-        "excerpt": "Hankyung berichtete, dass wachsende KI-Rechenzentren die Nachfrage nach optischer Kommunikation hervorheben, während Unternehmen in Verteidigung und Drohnen expandieren.",
-        "body": "Die Ausbreitung von KI-Rechenzentren lenkt den Blick auf Infrastruktur für optische Kommunikation, die große Datenmengen schnell verarbeiten kann. Hankyung berichtete, dass entsprechende Unternehmen die Nachfrage aus Rechenzentren bedienen und zugleich ihre Geschäftsfelder auf Verteidigung, nationale Sicherheit und Drohnen ausweiten. Das Wachstum von KI-Rechenleistung und Cloud-Diensten gilt als Hintergrund für den steigenden Bedarf an schnellen Übertragungsanlagen mit hoher Kapazität. Gleichzeitig erweitern Anforderungen an Drohnenabwehr und Verteidigungstechnologie die Einsatzfelder optischer Kommunikation und optischer Materialien. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les data centers IA dopent la communication optique, avec défense et drones en relais",
-        "excerpt": "Hankyung rapporte que l’essor des data centers IA met en avant la demande de communication optique, tandis que des entreprises s’étendent vers la défense et les drones.",
-        "body": "L’expansion des data centers d’IA attire l’attention sur la demande d’infrastructures de communication optique capables de traiter rapidement de grands volumes de données. Hankyung rapporte que les entreprises concernées répondent à la demande des data centers tout en élargissant leur périmètre aux secteurs de la défense, dont la sécurité nationale et les drones. La croissance du calcul IA et des services cloud est présentée comme un facteur de besoin accru en équipements de transmission rapides et à haute capacité. En parallèle, les besoins liés à la réponse aux drones et aux technologies de défense élargissent les usages de la communication optique et des matériaux optiques. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "مراكز بيانات الذكاء الاصطناعي تعزز الاتصالات البصرية وتفتح مجال الدفاع والمسيرات",
-        "excerpt": "أفادت هانكيونغ بأن توسع مراكز بيانات الذكاء الاصطناعي يبرز الطلب على الاتصالات البصرية، بينما تتوسع شركات مرتبطة بها نحو الدفاع والطائرات المسيرة.",
-        "body": "يجذب انتشار مراكز بيانات الذكاء الاصطناعي الانتباه إلى الطلب على بنية اتصالات بصرية قادرة على معالجة كميات كبيرة من البيانات بسرعة. وذكرت هانكيونغ أن الشركات ذات الصلة تستجيب لطلب مراكز البيانات على الاتصالات البصرية، وفي الوقت نفسه توسع نطاق أعمالها إلى مجالات الدفاع، بما في ذلك الأمن الوطني والطائرات المسيرة. ويعد نمو حوسبة الذكاء الاصطناعي والخدمات السحابية خلفية لزيادة الحاجة إلى معدات نقل عالية السرعة والسعة. كما أن الطلب المرتبط بمواجهة المسيرات وتقنيات الدفاع يوسع استخدامات الاتصالات والمواد البصرية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "AI डेटा सेंटर से ऑप्टिकल कम्युनिकेशन मांग बढ़ी, रक्षा और ड्रोन क्षेत्र में विस्तार",
-        "excerpt": "Hankyung ने बताया कि AI डेटा सेंटर के विस्तार से ऑप्टिकल कम्युनिकेशन मांग उभर रही है और संबंधित कंपनियां रक्षा व ड्रोन क्षेत्रों तक कारोबार बढ़ा रही हैं।",
-        "body": "AI डेटा सेंटर के विस्तार से बड़े डेटा को तेज़ी से संभालने वाली ऑप्टिकल कम्युनिकेशन अवसंरचना की मांग ध्यान में आ रही है। Hankyung ने बताया कि संबंधित कंपनियां डेटा सेंटर के लिए ऑप्टिकल कम्युनिकेशन मांग का जवाब दे रही हैं और साथ ही राष्ट्रीय रक्षा, ड्रोन जैसे रक्षा क्षेत्रों में अपना दायरा बढ़ा रही हैं। AI कंप्यूटिंग और क्लाउड सेवाओं की वृद्धि को तेज़ और उच्च क्षमता वाले ट्रांसमिशन उपकरणों की जरूरत बढ़ने की पृष्ठभूमि माना जा रहा है। साथ ही ड्रोन प्रतिक्रिया और रक्षा तकनीक की मांग ऑप्टिकल कम्युनिकेशन व ऑप्टिकल सामग्री तकनीक के उपयोग को व्यापक बना रही है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Data center AI dongkrak komunikasi optik, ekspansi pertahanan dan drone ikut disorot",
-        "excerpt": "Hankyung melaporkan perluasan data center AI menyorot permintaan komunikasi optik, sementara perusahaan terkait memperluas bisnis ke pertahanan dan drone.",
-        "body": "Perluasan data center AI membuat permintaan infrastruktur komunikasi optik yang mampu memproses data besar secara cepat semakin diperhatikan. Hankyung melaporkan bahwa perusahaan terkait merespons kebutuhan komunikasi optik untuk data center sekaligus memperluas cakupan bisnis ke bidang pertahanan, termasuk keamanan nasional dan drone. Pertumbuhan komputasi AI serta layanan cloud disebut sebagai latar meningkatnya kebutuhan perangkat transmisi berkecepatan tinggi dan berkapasitas besar. Pada saat yang sama, kebutuhan respons terhadap drone dan teknologi pertahanan memperluas penggunaan komunikasi optik serta material optik. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "747ebe01410d",
-    "slug": "트럼프-이란-답변-완전-용납불가종전협상-좌초위기-528606",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T20:51:06.358Z",
-    "updatedAt": "2026-05-10T20:51:06.358Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12042840",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12042840",
-    "titleFingerprint": "ef8087a2504ba0b60cff8bb89f337e8aa07cc3a5",
-    "dedupKeys": [
-      "747ebe01410dc8d5458546cd03cea0c9cb973be1",
-      "ef8087a2504ba0b60cff8bb89f337e8aa07cc3a5",
-      "1dc46d49ab42b6ffc235342180eccf0391933549"
-    ],
-    "imageUrl": "/images/articles/747ebe01410d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프, 이란 답변 ‘완전 용납불가’…종전협상 좌초 위기",
-        "excerpt": "도널드 트럼프 미국 대통령이 미국의 종전 제안에 대한 이란의 답변을 “마음에 들지 않는다”고 공개 비판하며 협상 좌초 우려가 커지고 있다.",
-        "body": "도널드 트럼프 미국 대통령은 미국의 종전 제안에 대한 이란의 답변을 두고 SNS에서 “마음에 들지 않는다”며 “완전 용납불가”라는 취지로 강하게 비판했다. 보도에 따르면 트럼프 대통령은 이란이 지난 47년간 미국을 갖고 놀았다고 주장하며 버락 오바마·조 바이든 전 대통령을 향해서도 독설을 쏟아냈다. 이번 발언은 미국이 제시한 종전 구상에 대한 이란의 반응을 공개적으로 문제 삼은 것으로, 양측 협상이 중대 고비를 맞았다는 신호로 해석된다. 이란의 답변을 둘러싼 불만이 커지면서 종전협상은 좌초 위기에 놓였다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trump Calls Iran’s Reply ‘Totally Unacceptable’ as End-War Talks Face Risk",
-        "excerpt": "U.S. President Donald Trump publicly criticized Iran’s response to a U.S. end-war proposal, saying on social media that he “did not like” the reply.",
-        "body": "U.S. President Donald Trump sharply criticized Iran’s response to Washington’s end-war proposal, saying on social media that he “did not like” it and describing the reply as effectively “totally unacceptable.” According to the report, Trump claimed Iran had been playing the United States for 47 years and also directed harsh remarks at former Presidents Barack Obama and Joe Biden. The comments publicly challenged Iran’s reaction to the U.S. proposal and signaled that negotiations between the two sides had reached a critical point. With Trump expressing strong dissatisfaction, the end-war talks now face the risk of collapse. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トランプ氏、イラン回答を「完全に容認不可」終戦交渉に暗雲",
-        "excerpt": "ドナルド・トランプ米大統領は、米国の終戦提案に対するイランの回答についてSNSで「気に入らない」と批判し、交渉停滞への懸念が強まっている。",
-        "body": "ドナルド・トランプ米大統領は、米国の終戦提案に対するイランの回答について、SNSで「気に入らない」と述べ、「完全に容認できない」との趣旨で強く批判した。報道によると、トランプ氏はイランが47年間にわたり米国を翻弄してきたと主張し、バラク・オバマ氏とジョー・バイデン氏の両元大統領にも厳しい言葉を向けた。今回の発言は、米国が示した終戦構想へのイランの反応を公に問題視したもので、双方の交渉が重大な局面を迎えたことを示している。不満の表面化により、終戦交渉は頓挫の危機にある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特朗普称伊朗答复“完全不可接受”，停战谈判面临破裂风险",
-        "excerpt": "美国总统唐纳德·特朗普在社交媒体上批评伊朗对美国停战提议的答复称“不喜欢”，令谈判受挫担忧升温。",
-        "body": "美国总统唐纳德·特朗普就伊朗对美国停战提议的答复在社交媒体上表示“不喜欢”，并以“完全不可接受”的语气强烈批评。报道称，特朗普还声称伊朗47年来一直在戏弄美国，并对前总统奥巴马和拜登发表尖锐言论。此次表态意味着他公开质疑伊朗对美国停战构想的回应，也显示双方谈判已来到关键关口。随着特朗普对伊朗答复的不满加剧，停战谈判正面临破裂风险。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Trump califica de “totalmente inaceptable” la respuesta de Irán",
-        "excerpt": "El presidente de EE. UU., Donald Trump, criticó en redes la respuesta iraní a la propuesta estadounidense para poner fin al conflicto y dijo que “no le gustó”.",
-        "body": "El presidente de Estados Unidos, Donald Trump, criticó con dureza la respuesta de Irán a la propuesta estadounidense para poner fin al conflicto. En redes sociales dijo que “no le gustó” y la describió en términos de “totalmente inaceptable”. Según el reporte, Trump afirmó que Irán había jugado con Estados Unidos durante 47 años y también lanzó comentarios duros contra los expresidentes Barack Obama y Joe Biden. Sus declaraciones cuestionan públicamente la reacción iraní al planteamiento de Washington y muestran que las negociaciones atraviesan un momento crítico. El desacuerdo eleva el riesgo de que las conversaciones queden bloqueadas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Trump chama resposta do Irã de “totalmente inaceitável” e negociações tremem",
-        "excerpt": "O presidente dos EUA, Donald Trump, criticou nas redes a resposta do Irã à proposta americana para encerrar o conflito, dizendo que “não gostou”.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, criticou duramente a resposta do Irã à proposta americana para encerrar o conflito. Em uma publicação nas redes sociais, afirmou que “não gostou” da posição iraniana e a classificou como “totalmente inaceitável”. Segundo a reportagem, Trump disse que o Irã brincou com os Estados Unidos por 47 anos e também dirigiu ataques verbais aos ex-presidentes Barack Obama e Joe Biden. A declaração expõe publicamente a insatisfação de Washington com a reação iraniana e indica que as negociações chegaram a um ponto crítico. Com o impasse, as conversas correm risco de fracassar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Trump nennt Irans Antwort „völlig inakzeptabel“: Gespräche in Gefahr",
-        "excerpt": "US-Präsident Donald Trump kritisierte Irans Antwort auf den amerikanischen Vorschlag zur Beendigung des Konflikts in sozialen Medien als nicht akzeptabel.",
-        "body": "US-Präsident Donald Trump hat Irans Antwort auf den amerikanischen Vorschlag zur Beendigung des Konflikts scharf kritisiert. In sozialen Medien erklärte er, sie gefalle ihm nicht, und bezeichnete sie sinngemäß als „völlig inakzeptabel“. Dem Bericht zufolge behauptete Trump zudem, Iran habe die Vereinigten Staaten 47 Jahre lang hingehalten, und griff auch die früheren Präsidenten Barack Obama und Joe Biden verbal an. Die Äußerung stellt Irans Reaktion auf den US-Vorschlag öffentlich infrage und zeigt, dass die Gespräche einen kritischen Punkt erreicht haben. Die wachsende Unzufriedenheit erhöht das Risiko eines Scheiterns der Verhandlungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Trump juge la réponse de l’Iran « totalement inacceptable »",
-        "excerpt": "Le président américain Donald Trump a critiqué sur les réseaux la réponse iranienne à la proposition américaine de fin du conflit, disant qu’elle ne lui plaisait pas.",
-        "body": "Le président américain Donald Trump a vivement critiqué la réponse de l’Iran à la proposition des États-Unis visant à mettre fin au conflit. Sur les réseaux sociaux, il a déclaré qu’elle ne lui plaisait pas et l’a qualifiée, en substance, de « totalement inacceptable ». Selon le reportage, Trump a affirmé que l’Iran s’était joué des États-Unis pendant 47 ans et a aussi tenu des propos acerbes contre les anciens présidents Barack Obama et Joe Biden. Cette déclaration met publiquement en cause la réaction iranienne à l’offre américaine et montre que les négociations arrivent à un moment critique. Le risque d’un blocage des discussions s’accroît. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ترامب يصف رد إيران بأنه «غير مقبول إطلاقا» ومحادثات إنهاء الحرب مهددة",
-        "excerpt": "انتقد الرئيس الأميركي دونالد ترامب رد إيران على مقترح أميركي لإنهاء الحرب، وقال عبر وسائل التواصل إنه «لم يعجبه»، ما زاد مخاوف تعثر المفاوضات.",
-        "body": "انتقد الرئيس الأميركي دونالد ترامب بشدة رد إيران على المقترح الأميركي لإنهاء الحرب، قائلا عبر وسائل التواصل الاجتماعي إنه «لم يعجبه» ووصفه بمعنى أنه «غير مقبول إطلاقا». وبحسب التقرير، زعم ترامب أن إيران ظلت تعبث بالولايات المتحدة طوال 47 عاما، كما وجه انتقادات قاسية إلى الرئيسين السابقين باراك أوباما وجو بايدن. وتضع هذه التصريحات رد طهران على الطرح الأميركي موضع اعتراض علني، وتشير إلى أن المفاوضات بين الجانبين وصلت إلى مرحلة حرجة. ومع تصاعد عدم الرضا عن الرد الإيراني، باتت محادثات إنهاء الحرب مهددة بالتعثر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ट्रंप ने ईरान के जवाब को ‘पूरी तरह अस्वीकार्य’ कहा, वार्ता पर संकट",
-        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने युद्ध समाप्ति के अमेरिकी प्रस्ताव पर ईरान के जवाब की सोशल मीडिया पर आलोचना की और कहा कि यह उन्हें “पसंद नहीं” आया।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने युद्ध समाप्ति के अमेरिकी प्रस्ताव पर ईरान के जवाब की तीखी आलोचना की। उन्होंने सोशल मीडिया पर कहा कि यह जवाब उन्हें “पसंद नहीं” आया और इसे “पूरी तरह अस्वीकार्य” बताया। रिपोर्ट के अनुसार, ट्रंप ने दावा किया कि ईरान 47 वर्षों से अमेरिका के साथ खेलता रहा है और उन्होंने पूर्व राष्ट्रपति बराक ओबामा तथा जो बाइडन पर भी कठोर टिप्पणी की। यह बयान अमेरिकी प्रस्ताव पर ईरान की प्रतिक्रिया को सार्वजनिक रूप से चुनौती देता है और संकेत देता है कि दोनों पक्षों की वार्ता अहम मोड़ पर पहुंच गई है। असंतोष बढ़ने से युद्ध समाप्ति की बातचीत पटरी से उतरने के खतरे में है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Trump Sebut Jawaban Iran ‘Sepenuhnya Tak Dapat Diterima’",
-        "excerpt": "Presiden AS Donald Trump mengkritik jawaban Iran atas usulan Amerika untuk mengakhiri perang lewat media sosial, dengan mengatakan ia “tidak menyukainya”.",
-        "body": "Presiden Amerika Serikat Donald Trump mengecam jawaban Iran atas usulan Washington untuk mengakhiri perang. Melalui media sosial, ia mengatakan bahwa jawaban itu “tidak disukainya” dan menyebutnya sebagai hal yang “sepenuhnya tidak dapat diterima”. Menurut laporan tersebut, Trump juga mengklaim Iran telah mempermainkan Amerika Serikat selama 47 tahun, serta melontarkan kritik keras kepada mantan Presiden Barack Obama dan Joe Biden. Pernyataan ini secara terbuka mempersoalkan respons Iran terhadap gagasan AS dan menunjukkan bahwa perundingan kedua pihak berada di titik kritis. Ketidakpuasan tersebut membuat pembicaraan terancam kandas. Sumber: mk.co.kr"
       }
     }
   }
