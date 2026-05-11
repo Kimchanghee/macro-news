@@ -1,5 +1,230 @@
 [
   {
+    "id": "7dee9182ae20",
+    "slug": "합의-위반-네-탓러우크라-또-휴전-공방-264597",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-11T15:38:31.238Z",
+    "updatedAt": "2026-05-11T15:38:31.238Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12043784",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12043784",
+    "titleFingerprint": "50cf342bdcf6bfb0d8d97e14c82baa7edb8f558f",
+    "dedupKeys": [
+      "7dee9182ae203f2bf6a26e7e9eb31d5b88650844",
+      "50cf342bdcf6bfb0d8d97e14c82baa7edb8f558f",
+      "0575870c79a8a99503cae32664d297c28d43e3ce"
+    ],
+    "imageUrl": "/images/articles/7dee9182ae20.jpg",
+    "i18n": {
+      "ko": {
+        "title": "러·우크라 휴전 공방 격화, 합의 위반 책임 두고 양측 정면 충돌",
+        "excerpt": "러시아와 우크라이나가 도널드 트럼프 미국 대통령 중재로 성사된 휴전 기간 중 합의 위반 책임을 놓고 맞섰다. 러시아는 우크라이나의 2만3000여건 위반을, 젤렌스키는 러시아의 자폭드론 등 공격 지속을 주장했다.",
+        "body": "러시아와 우크라이나가 도널드 트럼프 미국 대통령의 중재로 성사된 휴전 기간에 서로 상대방이 합의를 위반했다며 공방을 벌였다. 러시아는 우크라이나가 휴전 합의를 2만3000여건 어겼다고 주장했고, 볼로디미르 젤렌스키 우크라이나 대통령은 러시아가 자폭드론 등을 동원한 공격을 계속했다고 맞섰다. 양측은 휴전 이행 여부를 두고 상반된 입장을 내놓으며 책임 소재를 상대에게 돌리고 있다. 이번 공방은 휴전 합의의 신뢰성과 향후 이행 가능성을 둘러싼 긴장을 다시 부각했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Russia-Ukraine ceasefire dispute deepens as both sides trade blame",
+        "excerpt": "Russia and Ukraine clashed over alleged violations during a ceasefire brokered by U.S. President Donald Trump. Moscow claimed more than 23,000 Ukrainian breaches, while Zelensky said Russia kept attacking with suicide drones and other weapons.",
+        "body": "Russia and Ukraine exchanged accusations that the other side violated a ceasefire brokered by U.S. President Donald Trump. Russia claimed Ukraine broke the ceasefire agreement more than 23,000 times. Ukrainian President Volodymyr Zelensky countered that Russia continued attacks using suicide drones and other means. The two sides presented sharply different accounts of whether the ceasefire was being observed and each placed responsibility on the other. The dispute has again highlighted tensions over the credibility of the ceasefire agreement and the prospects for its implementation. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ロシア・ウクライナ停戦違反めぐり応酬、責任転嫁で対立激化",
+        "excerpt": "ロシアとウクライナは、ドナルド・トランプ米大統領の仲介で成立した停戦期間中の合意違反をめぐり対立した。ロシアはウクライナの2万3000件超の違反を主張し、ゼレンスキー氏はロシアの自爆ドローン攻撃継続を訴えた。",
+        "body": "ロシアとウクライナは、ドナルド・トランプ米大統領の仲介で成立した停戦期間中、相手側が合意に違反したとして非難を交わした。ロシアは、ウクライナが停戦合意に2万3000件以上違反したと主張した。一方、ウクライナのウォロディミル・ゼレンスキー大統領は、ロシアが自爆ドローンなどを使った攻撃を続けたと反論した。双方は停戦履行をめぐって食い違う見解を示し、責任を相手に向けている。今回の応酬は、停戦合意の信頼性と今後の履行可能性をめぐる緊張を改めて浮き彫りにした。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "俄乌围绕停火违规互相指责，协议执行争议再度升级",
+        "excerpt": "俄罗斯和乌克兰就美国总统唐纳德·特朗普斡旋达成的停火期间是否违反协议相互指责。俄方称乌方违规逾2.3万次，泽连斯基则称俄方继续使用自杀式无人机等发动攻击。",
+        "body": "俄罗斯和乌克兰围绕美国总统唐纳德·特朗普斡旋达成的停火期间是否违反协议展开相互指责。俄罗斯称，乌克兰违反停火协议超过2.3万次。乌克兰总统弗拉基米尔·泽连斯基则反驳称，俄罗斯继续使用自杀式无人机等手段发动攻击。双方就停火是否得到履行提出截然不同的说法，并将责任归咎于对方。此次争论再次凸显围绕停火协议可信度及今后执行可能性的紧张。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Rusia y Ucrania se culpan por violar la tregua mediada por Trump",
+        "excerpt": "Rusia y Ucrania chocaron por presuntas violaciones durante una tregua lograda con mediación del presidente estadounidense Donald Trump. Moscú afirmó que Ucrania incumplió más de 23.000 veces, mientras Zelenski dijo que Rusia siguió atacando con drones suicidas y otros medios.",
+        "body": "Rusia y Ucrania se acusaron mutuamente de violar la tregua alcanzada con mediación del presidente de Estados Unidos, Donald Trump. Rusia afirmó que Ucrania incumplió el acuerdo de alto el fuego en más de 23.000 ocasiones. El presidente ucraniano, Volodímir Zelenski, respondió que Rusia continuó sus ataques con drones suicidas y otros medios. Las dos partes ofrecieron versiones opuestas sobre el cumplimiento de la tregua y atribuyeron la responsabilidad a la otra. La disputa volvió a poner de relieve la tensión sobre la credibilidad del acuerdo y sus posibilidades de aplicación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Rússia e Ucrânia trocam acusações sobre violações da trégua",
+        "excerpt": "Rússia e Ucrânia entraram em confronto verbal sobre supostas violações durante uma trégua mediada pelo presidente dos EUA, Donald Trump. Moscou alegou mais de 23 mil violações ucranianas, enquanto Zelensky disse que a Rússia seguiu atacando com drones suicidas e outros meios.",
+        "body": "Rússia e Ucrânia trocaram acusações de que o outro lado violou a trégua alcançada com mediação do presidente dos Estados Unidos, Donald Trump. A Rússia afirmou que a Ucrânia descumpriu o acordo de cessar-fogo mais de 23 mil vezes. O presidente ucraniano, Volodymyr Zelensky, rebateu dizendo que a Rússia continuou ataques com drones suicidas e outros meios. Os dois lados apresentaram versões opostas sobre o cumprimento da trégua e atribuíram a responsabilidade ao adversário. A disputa voltou a destacar a tensão sobre a credibilidade do acordo e sua possível implementação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Russland und Ukraine streiten über Verstöße gegen Trump-Waffenruhe",
+        "excerpt": "Russland und die Ukraine warfen einander Verstöße während einer von US-Präsident Donald Trump vermittelten Waffenruhe vor. Moskau sprach von mehr als 23.000 ukrainischen Verstößen, während Selenskyj sagte, Russland habe Angriffe mit Selbstmorddrohnen und anderen Mitteln fortgesetzt.",
+        "body": "Russland und die Ukraine haben sich gegenseitig vorgeworfen, eine von US-Präsident Donald Trump vermittelte Waffenruhe verletzt zu haben. Russland erklärte, die Ukraine habe die Vereinbarung mehr als 23.000 Mal gebrochen. Der ukrainische Präsident Wolodymyr Selenskyj hielt dagegen, Russland habe Angriffe mit Selbstmorddrohnen und anderen Mitteln fortgesetzt. Beide Seiten legten gegensätzliche Darstellungen zur Einhaltung der Waffenruhe vor und schoben die Verantwortung jeweils der Gegenseite zu. Der Streit rückt erneut die Spannungen um Glaubwürdigkeit und Umsetzung der Vereinbarung in den Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Russie et Ukraine s’accusent de violations de la trêve négociée",
+        "excerpt": "La Russie et l’Ukraine se sont opposées sur des violations présumées durant une trêve obtenue par médiation du président américain Donald Trump. Moscou évoque plus de 23 000 manquements ukrainiens, tandis que Zelensky affirme que la Russie a poursuivi ses attaques avec des drones suicides et autres moyens.",
+        "body": "La Russie et l’Ukraine se sont mutuellement accusées d’avoir violé la trêve conclue avec la médiation du président américain Donald Trump. La Russie a affirmé que l’Ukraine avait enfreint l’accord de cessez-le-feu plus de 23 000 fois. Le président ukrainien Volodymyr Zelensky a répliqué que la Russie avait continué ses attaques avec des drones suicides et d’autres moyens. Les deux parties ont présenté des versions opposées sur le respect de la trêve et ont rejeté la responsabilité sur l’autre camp. Cette controverse remet en lumière les tensions autour de la crédibilité de l’accord et de sa mise en œuvre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "روسيا وأوكرانيا تتبادلان الاتهامات بشأن خرق الهدنة بوساطة ترامب",
+        "excerpt": "تبادلت روسيا وأوكرانيا الاتهامات بشأن انتهاكات مزعومة خلال هدنة تم التوصل إليها بوساطة الرئيس الأميركي دونالد ترامب. قالت موسكو إن كييف خرقت الاتفاق أكثر من 23 ألف مرة، بينما أكد زيلينسكي أن روسيا واصلت الهجمات بطائرات انتحارية مسيرة وغيرها.",
+        "body": "تبادلت روسيا وأوكرانيا الاتهامات بانتهاك هدنة تم التوصل إليها بوساطة الرئيس الأميركي دونالد ترامب. وقالت روسيا إن أوكرانيا خرقت اتفاق وقف إطلاق النار أكثر من 23 ألف مرة. في المقابل، قال الرئيس الأوكراني فولوديمير زيلينسكي إن روسيا واصلت تنفيذ هجمات باستخدام طائرات انتحارية مسيرة ووسائل أخرى. وقدم الجانبان روايتين متعارضتين بشأن الالتزام بالهدنة، وحمّل كل طرف المسؤولية للطرف الآخر. وأبرز هذا الجدل مجددا التوتر المحيط بمصداقية اتفاق الهدنة وإمكانية تنفيذه لاحقا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ट्रंप की मध्यस्थता वाली युद्धविराम संधि पर रूस-यूक्रेन में आरोप-प्रत्यारोप",
+        "excerpt": "रूस और यूक्रेन ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की मध्यस्थता से हुए युद्धविराम के दौरान उल्लंघन को लेकर एक-दूसरे पर आरोप लगाए। रूस ने यूक्रेन पर 23,000 से अधिक उल्लंघनों का दावा किया, जबकि जेलेंस्की ने कहा कि रूस ने आत्मघाती ड्रोन सहित हमले जारी रखे।",
+        "body": "रूस और यूक्रेन ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की मध्यस्थता से हुए युद्धविराम के दौरान एक-दूसरे पर समझौते का उल्लंघन करने का आरोप लगाया। रूस ने दावा किया कि यूक्रेन ने युद्धविराम समझौते का 23,000 से अधिक बार उल्लंघन किया। यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने जवाब दिया कि रूस ने आत्मघाती ड्रोन और अन्य साधनों से हमले जारी रखे। दोनों पक्षों ने युद्धविराम के पालन पर विपरीत दावे किए और जिम्मेदारी एक-दूसरे पर डाली। यह विवाद समझौते की विश्वसनीयता और आगे उसके पालन को लेकर तनाव को फिर सामने लाता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Rusia-Ukraina saling tuding soal pelanggaran gencatan senjata",
+        "excerpt": "Rusia dan Ukraina saling menuduh melanggar gencatan senjata yang dimediasi Presiden AS Donald Trump. Moskow mengklaim Ukraina melanggar lebih dari 23.000 kali, sementara Zelensky mengatakan Rusia terus menyerang dengan drone bunuh diri dan sarana lain.",
+        "body": "Rusia dan Ukraina saling menuduh pihak lain melanggar gencatan senjata yang tercapai melalui mediasi Presiden Amerika Serikat Donald Trump. Rusia menyatakan Ukraina melanggar kesepakatan gencatan senjata lebih dari 23.000 kali. Presiden Ukraina Volodymyr Zelensky membalas bahwa Rusia terus melakukan serangan menggunakan drone bunuh diri dan sarana lain. Kedua pihak menyampaikan versi yang bertentangan mengenai pelaksanaan gencatan senjata dan saling melempar tanggung jawab. Perdebatan ini kembali menyoroti ketegangan atas kredibilitas kesepakatan dan kemungkinan penerapannya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "908d88b93bc5",
+    "slug": "저-여학생-몸매-ㅇㅇㅇ경북대-학생회-단톡방-성희롱-논란-821740",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-11T15:37:03.514Z",
+    "updatedAt": "2026-05-11T15:37:03.514Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12043786",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12043786",
+    "titleFingerprint": "8ab19cd35f3a8a9434e73a326eaea60bf12e3d5c",
+    "dedupKeys": [
+      "908d88b93bc5eb6e9a447504ae1672df18a4d12c",
+      "8ab19cd35f3a8a9434e73a326eaea60bf12e3d5c",
+      "79a591ea2863ac700f18bf711d8a6d8293183a0e"
+    ],
+    "imageUrl": "/images/articles/908d88b93bc5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "경북대 학생회 단톡방 성희롱 논란, 여학생 대상 발언 드러나 임원 사퇴",
+        "excerpt": "경북대 한 학부 학생회 임원들이 온라인 단체 대화방에서 같은 학부 여학생들을 향해 성희롱성 발언을 한 사실이 11일 알려지며 논란 끝에 사퇴했다.",
+        "body": "경북대 한 학부 학생회 임원들이 온라인 단체 대화방에서 같은 학부 여학생들을 상대로 성희롱성 발언을 한 사실이 드러나 논란 끝에 사퇴했다. 11일 경북대에 따르면 문제가 된 대화는 카카오톡 단체방에서 이뤄진 것으로 알려졌다. 이번 사안은 학생 자치 조직 임원들이 같은 학부 구성원을 대상으로 부적절한 발언을 했다는 점에서 학내 논란으로 번졌다. 논란이 커지자 관련 임원들은 자리에서 물러났고, 대학 내 학생회 운영과 온라인 대화방 윤리에 대한 문제 제기가 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kyungpook National University student council chat sexual harassment controversy leads to resignations",
+        "excerpt": "Student council officers in a department at Kyungpook National University resigned after sexually harassing remarks about female classmates in an online group chat were revealed on May 11.",
+        "body": "Student council officers in a department at Kyungpook National University resigned after it emerged that they had made sexually harassing remarks about female students in the same department in an online group chat. According to the university on May 11, the disputed conversation took place in a KakaoTalk group chat. The case drew controversy on campus because members of a student self-governing body made inappropriate comments targeting fellow department members. As criticism grew, the officers involved stepped down, and questions are expected to continue over student council conduct and ethics in online group chats. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "慶北大の学生会グループチャットでセクハラ発言、女子学生対象で幹部辞任",
+        "excerpt": "慶北大のある学部学生会幹部が、オンライン団体チャットで同じ学部の女子学生にセクハラ性発言をしていたことが11日に明らかになり、辞任した。",
+        "body": "慶北大のある学部学生会幹部が、オンライン団体チャットで同じ学部の女子学生を対象にセクハラ性の発言をしていた事実が明らかになり、論争の末に辞任した。11日、慶北大によると、問題となった会話はカカオトークの団体チャットで行われたとされる。今回の事案は、学生自治組織の幹部が同じ学部の構成員に不適切な発言をした点で学内論争に広がった。批判が強まる中、関係幹部は職を退き、学生会運営とオンラインチャットでの倫理をめぐる問題提起が続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "庆北大学学生会群聊性骚扰争议曝光，针对女学生言论致干部辞职",
+        "excerpt": "庆北大学某院系学生会干部被曝在网络群聊中对同院系女学生发表性骚扰言论，消息于11日传出后引发争议，相关人员已辞职。",
+        "body": "庆北大学某院系学生会干部被曝在网络群聊中，对同一院系女学生发表带有性骚扰性质的言论，最终在争议中辞职。据庆北大学11日消息，涉事对话发生在KakaoTalk群聊中。此事因学生自治组织干部针对同院系成员作出不当发言而在校内引发争议。随着批评扩大，相关干部已离任，围绕学生会运营以及网络群聊伦理的问题预计仍将持续受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Controversia en Kyungpook por acoso sexual en chat grupal del consejo estudiantil",
+        "excerpt": "Directivos del consejo estudiantil de una facultad de la Universidad Nacional de Kyungpook renunciaron tras revelarse el 11 de mayo comentarios sexuales sobre alumnas en un chat grupal.",
+        "body": "Directivos del consejo estudiantil de una facultad de la Universidad Nacional de Kyungpook renunciaron después de que se revelara que hicieron comentarios de carácter sexual contra alumnas de la misma facultad en un chat grupal en línea. Según informó la universidad el 11 de mayo, la conversación cuestionada tuvo lugar en un grupo de KakaoTalk. El caso generó controversia dentro del campus porque integrantes de un órgano de autogobierno estudiantil dirigieron comentarios inapropiados a miembros de su propia facultad. Tras crecer la polémica, los implicados dejaron sus cargos y se prevé que continúe el debate sobre la gestión del consejo estudiantil y la ética en chats grupales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Conselho estudantil da Kyungpook enfrenta polêmica por assédio em chat e dirigentes renunciam",
+        "excerpt": "Dirigentes de um conselho estudantil da Universidade Nacional de Kyungpook renunciaram após comentários de assédio sexual contra alunas em um chat online serem revelados em 11 de maio.",
+        "body": "Dirigentes do conselho estudantil de um departamento da Universidade Nacional de Kyungpook renunciaram depois que veio à tona que fizeram comentários de teor sexual contra alunas do mesmo departamento em um chat coletivo online. Segundo a universidade informou em 11 de maio, a conversa questionada ocorreu em um grupo do KakaoTalk. O caso gerou controvérsia no campus porque membros de uma organização estudantil fizeram comentários inadequados direcionados a colegas do próprio departamento. Com a ampliação das críticas, os envolvidos deixaram os cargos, e devem continuar os questionamentos sobre a atuação do conselho estudantil e a ética em conversas online. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kyungpook-Studentenrat unter Druck: Sexuelle Belästigung im Gruppenchat führt zu Rücktritten",
+        "excerpt": "Funktionäre eines Fachbereichs-Studentenrats der Kyungpook National University traten zurück, nachdem am 11. Mai sexuell belästigende Äußerungen über Studentinnen in einem Online-Gruppenchat bekannt wurden.",
+        "body": "Funktionäre eines Fachbereichs-Studentenrats der Kyungpook National University sind zurückgetreten, nachdem bekannt wurde, dass sie in einem Online-Gruppenchat sexuell belästigende Äußerungen über Studentinnen desselben Fachbereichs gemacht hatten. Nach Angaben der Universität vom 11. Mai fand die beanstandete Unterhaltung in einem KakaoTalk-Gruppenchat statt. Der Fall löste auf dem Campus Kontroversen aus, weil Vertreter einer studentischen Selbstverwaltung unangemessene Kommentare über Mitglieder des eigenen Fachbereichs machten. Nach wachsender Kritik legten die Beteiligten ihre Ämter nieder; Fragen zur Führung von Studentenräten und zur Ethik in Online-Chats dürften weiter diskutiert werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "À Kyungpook, des élus étudiants démissionnent après des propos de harcèlement dans un chat",
+        "excerpt": "Des responsables d’un conseil étudiant de l’Université nationale de Kyungpook ont démissionné après la révélation, le 11 mai, de propos à caractère sexuel visant des étudiantes dans un groupe en ligne.",
+        "body": "Des responsables du conseil étudiant d’un département de l’Université nationale de Kyungpook ont démissionné après la révélation de propos à caractère sexuel visant des étudiantes du même département dans un groupe de discussion en ligne. Selon l’université le 11 mai, la conversation mise en cause s’est déroulée dans un groupe KakaoTalk. L’affaire a suscité une controverse sur le campus, car des membres d’une organisation d’autonomie étudiante ont tenu des propos inappropriés visant des camarades de leur propre département. Face à l’ampleur des critiques, les responsables concernés ont quitté leurs fonctions, tandis que les questions sur la gestion du conseil étudiant et l’éthique des échanges en ligne devraient se poursuivre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جدل في جامعة كيونغبوك بسبب تحرش لفظي في دردشة طلابية جماعية واستقالة مسؤولين",
+        "excerpt": "استقال مسؤولون في مجلس طلابي بأحد أقسام جامعة كيونغبوك بعدما كُشف في 11 مايو عن تعليقات ذات طابع تحرش جنسي استهدفت طالبات من القسم نفسه داخل دردشة جماعية إلكترونية.",
+        "body": "استقال مسؤولون في مجلس طلابي تابع لأحد أقسام جامعة كيونغبوك الوطنية بعد انكشاف أنهم أدلوا بتعليقات ذات طابع تحرش جنسي استهدفت طالبات من القسم نفسه داخل دردشة جماعية إلكترونية. ووفق ما أفادت به الجامعة في 11 مايو، فإن المحادثة محل الجدل جرت في مجموعة على تطبيق كاكاوتوك. وأثارت القضية جدلا داخل الحرم الجامعي لأن أعضاء في هيئة طلابية ذاتية الإدارة وجهوا تعليقات غير لائقة إلى زميلات من القسم نفسه. ومع اتساع الانتقادات، تنحى المسؤولون المعنيون عن مناصبهم، ومن المتوقع استمرار طرح الأسئلة حول إدارة المجالس الطلابية وأخلاقيات الدردشات الجماعية عبر الإنترنت. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "क्यूंगपुक विश्वविद्यालय छात्र परिषद चैट में यौन उत्पीड़न विवाद, महिला छात्रों पर टिप्पणियों के बाद इस्तीफे",
+        "excerpt": "क्यूंगपुक नेशनल यूनिवर्सिटी के एक विभाग की छात्र परिषद के पदाधिकारियों ने 11 मई को ऑनलाइन समूह चैट में महिला सहपाठियों पर यौन उत्पीड़न वाली टिप्पणियां सामने आने के बाद इस्तीफा दिया।",
+        "body": "क्यूंगपुक नेशनल यूनिवर्सिटी के एक विभाग की छात्र परिषद के पदाधिकारियों ने ऑनलाइन समूह चैट में उसी विभाग की महिला छात्रों को निशाना बनाकर यौन उत्पीड़न वाली टिप्पणियां करने की बात सामने आने के बाद विवाद के बीच इस्तीफा दे दिया। विश्वविद्यालय के अनुसार, 11 मई को बताया गया कि विवादित बातचीत काकाओटॉक समूह चैट में हुई थी। यह मामला परिसर में इसलिए विवाद बना क्योंकि छात्र स्वशासन संगठन के पदाधिकारियों ने अपने ही विभाग के सदस्यों के बारे में अनुचित टिप्पणियां कीं। आलोचना बढ़ने के बाद संबंधित पदाधिकारी पद से हट गए, और छात्र परिषद संचालन तथा ऑनलाइन समूह चैट की नैतिकता पर सवाल आगे भी उठने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kontroversi pelecehan seksual di grup chat dewan mahasiswa Kyungpook berujung pengunduran diri",
+        "excerpt": "Pengurus dewan mahasiswa di salah satu jurusan Universitas Nasional Kyungpook mengundurkan diri setelah pada 11 Mei terungkap komentar bernuansa pelecehan seksual terhadap mahasiswi dalam grup chat online.",
+        "body": "Pengurus dewan mahasiswa di salah satu jurusan Universitas Nasional Kyungpook mengundurkan diri setelah terungkap bahwa mereka membuat komentar bernuansa pelecehan seksual terhadap mahasiswi di jurusan yang sama dalam grup chat online. Menurut keterangan universitas pada 11 Mei, percakapan yang dipersoalkan terjadi di grup KakaoTalk. Kasus ini memicu kontroversi di kampus karena anggota organisasi otonom mahasiswa melontarkan komentar tidak pantas kepada sesama anggota jurusan. Setelah kritik meluas, para pengurus terkait mundur dari jabatan mereka, dan sorotan terhadap tata kelola dewan mahasiswa serta etika percakapan di grup online diperkirakan akan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6e12fb8418da",
+    "slug": "우린-너희와-달라인터넷-막힌-이란-국민-특권층은-자유롭게-접속-110126",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-11T15:35:49.582Z",
+    "updatedAt": "2026-05-11T15:35:49.582Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12043857",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12043857",
+    "titleFingerprint": "39869fdcf72ea2d291ab05beef77775dc6d19434",
+    "dedupKeys": [
+      "6e12fb8418da8cfb3fab64f92a1acf0205b62527",
+      "39869fdcf72ea2d291ab05beef77775dc6d19434",
+      "8fc314c4ca7c6297c604181b268134dbf8df2202"
+    ],
+    "imageUrl": "/images/articles/6e12fb8418da.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이란 ‘차별 인터넷’ 논란 확산…일반 국민은 차단, 특권층은 접속",
+        "excerpt": "이란에서 일반 국민의 글로벌 인터넷 접속은 막히는 반면 일부 특권층은 자유롭게 이용하는 ‘차별 인터넷’ 체계에 대한 불만이 커지고 있다.",
+        "body": "이란 국민 사이에서 인터넷 사용을 둘러싼 불만이 커지고 있다. 이란 당국이 일반인에게는 글로벌 인터넷 접속을 차단하면서도 일부 특권층에는 접속을 허용하는 ‘차별 인터넷’ 체계를 유지하고 있다는 지적이 제기됐기 때문이다. 원문에 따르면 이 같은 구조는 국민에게는 제한된 인터넷 환경을 강요하고, 특정 계층에는 상대적으로 자유로운 접속을 보장하는 방식으로 받아들여지고 있다. 이에 따라 인터넷 접근권을 둘러싼 형평성 논란은 더 커질 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Iran’s ‘tiered internet’ stirs anger as public is blocked, elites get access",
+        "excerpt": "In Iran, frustration is growing as ordinary people face blocked global internet access while some privileged groups are reportedly allowed freer connections.",
+        "body": "Frustration over internet use is growing among people in Iran. The concern centers on what critics describe as a “tiered internet” system, in which Iranian authorities block ordinary users from accessing the global internet while allowing some privileged groups to connect. According to the original report, this structure is being seen as one that forces the public into a restricted online environment while giving certain groups relatively freer access. The issue may further intensify debate over fairness in internet access. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "イランの「差別的インターネット」に不満拡大、一般国民は遮断・特権層は接続",
+        "excerpt": "イランでは、一般国民のグローバルインターネット接続が遮断される一方、一部特権層には利用が認められる仕組みへの不満が強まっている。",
+        "body": "イラン国民の間で、インターネット利用をめぐる不満が高まっている。イラン当局が一般利用者にはグローバルインターネットへの接続を遮断する一方、一部の特権層には接続を認める「差別的インターネット」体制を維持しているとの指摘が出ているためだ。原文によると、この構造は国民には制限されたネット環境を強い、特定の層には相対的に自由な接続を保障するものとして受け止められている。ネット接続の公平性をめぐる議論はさらに広がる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "伊朗“差别化互联网”引发不满：普通民众被封锁，特权阶层可接入",
+        "excerpt": "伊朗普通民众无法接入全球互联网，而部分特权阶层被允许自由使用，这一“差别化互联网”体系正引发越来越多不满。",
+        "body": "伊朗民众对互联网使用的 dissatisfaction 正在加剧。争议焦点在于，伊朗当局被指维持一种“差别化互联网”体系：普通用户被阻断全球互联网接入，而部分特权阶层则被允许连接。根据原文报道，这一结构被视为让普通民众承受受限的网络环境，同时让特定群体获得相对自由的接入条件。因此，围绕互联网接入权公平性的争议可能进一步扩大。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El ‘internet diferenciado’ de Irán provoca enojo: bloqueo al público y acceso a élites",
+        "excerpt": "En Irán crece el malestar porque la población común tiene bloqueado el acceso a internet global, mientras algunos grupos privilegiados pueden conectarse con más libertad.",
+        "body": "El malestar por el uso de internet está aumentando entre la población de Irán. La crítica se centra en un sistema descrito como “internet diferenciado”, bajo el cual las autoridades iraníes bloquean el acceso de los usuarios comunes a la red global, pero permiten la conexión a algunos grupos privilegiados. Según el reporte original, esta estructura se percibe como una imposición de un entorno digital restringido para la ciudadanía y un acceso relativamente libre para ciertos sectores. La controversia sobre la equidad en el acceso a internet podría intensificarse. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "‘Internet diferenciada’ no Irã gera revolta: público bloqueado e elites conectadas",
+        "excerpt": "No Irã, cresce a insatisfação porque cidadãos comuns têm o acesso à internet global bloqueado, enquanto alguns grupos privilegiados podem se conectar com mais liberdade.",
+        "body": "A insatisfação com o uso da internet está crescendo entre os iranianos. A questão envolve um sistema descrito como “internet diferenciada”, no qual as autoridades do Irã bloqueiam o acesso de usuários comuns à internet global, mas permitem a conexão de alguns grupos privilegiados. Segundo a reportagem original, essa estrutura é vista como a imposição de um ambiente online restrito à população, enquanto certos setores recebem acesso relativamente livre. O debate sobre a igualdade no acesso à internet pode ganhar força. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Irans ‘ungleicher Internetzugang’ sorgt für Ärger: Bürger blockiert, Eliten online",
+        "excerpt": "Im Iran wächst der Unmut, weil normale Bürger keinen Zugang zum globalen Internet haben, während einige privilegierte Gruppen offenbar freier online gehen können.",
+        "body": "Im Iran wächst die Unzufriedenheit über die Nutzung des Internets. Im Mittelpunkt steht ein System, das als „ungleicher Internetzugang“ beschrieben wird: Die iranischen Behörden blockieren gewöhnlichen Nutzern den Zugang zum globalen Internet, erlauben ihn aber einigen privilegierten Gruppen. Dem Originalbericht zufolge wird diese Struktur als Modell wahrgenommen, das der Bevölkerung eine eingeschränkte Online-Umgebung aufzwingt und bestimmten Gruppen relativ freien Zugang gewährt. Die Debatte über Fairness beim Internetzugang könnte sich weiter verschärfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "En Iran, l’‘internet à deux vitesses’ irrite: public bloqué, élites connectées",
+        "excerpt": "En Iran, la colère monte alors que les citoyens ordinaires sont privés d’accès à l’internet mondial, tandis que certains groupes privilégiés peuvent se connecter plus librement.",
+        "body": "Le mécontentement lié à l’usage d’internet grandit parmi les Iraniens. La controverse porte sur un système décrit comme un « internet à deux vitesses », dans lequel les autorités iraniennes bloquent l’accès des utilisateurs ordinaires à l’internet mondial tout en l’autorisant pour certains groupes privilégiés. Selon le reportage original, cette structure est perçue comme imposant à la population un environnement en ligne restreint, tout en garantissant à certains groupes un accès relativement libre. Le débat sur l’équité de l’accès à internet pourrait encore s’intensifier. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "غضب في إيران من ‘إنترنت تمييزي’: حجب عن المواطنين واتصال للطبقات المحظية",
+        "excerpt": "يتزايد الاستياء في إيران مع حجب الوصول إلى الإنترنت العالمي عن المواطنين العاديين، مقابل السماح لبعض الفئات المحظية باستخدامه بحرية أكبر.",
+        "body": "يتزايد استياء الإيرانيين من طريقة استخدام الإنترنت في البلاد. وتتركز الانتقادات على نظام يوصف بأنه «إنترنت تمييزي»، إذ تحجب السلطات الإيرانية وصول المستخدمين العاديين إلى الإنترنت العالمي، بينما تسمح لبعض الفئات المحظية بالاتصال. ووفق التقرير الأصلي، يُنظر إلى هذا الهيكل على أنه يفرض بيئة إنترنت مقيدة على المواطنين، مع منح فئات محددة وصولا أكثر حرية نسبيا. لذلك قد يتسع الجدل حول العدالة في حق الوصول إلى الإنترنت. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ईरान में ‘भेदभावपूर्ण इंटरनेट’ पर गुस्सा: आम जनता पर रोक, विशेष वर्ग को पहुंच",
+        "excerpt": "ईरान में आम नागरिकों के लिए वैश्विक इंटरनेट पहुंच रोके जाने और कुछ विशेषाधिकार प्राप्त वर्गों को अपेक्षाकृत स्वतंत्र पहुंच मिलने से असंतोष बढ़ रहा है।",
+        "body": "ईरान में इंटरनेट उपयोग को लेकर लोगों में असंतोष बढ़ रहा है। विवाद उस व्यवस्था पर केंद्रित है जिसे “भेदभावपूर्ण इंटरनेट” कहा जा रहा है, जहां ईरानी अधिकारी आम उपयोगकर्ताओं की वैश्विक इंटरनेट तक पहुंच रोकते हैं, जबकि कुछ विशेषाधिकार प्राप्त समूहों को कनेक्शन की अनुमति देते हैं। मूल रिपोर्ट के अनुसार, यह ढांचा आम जनता पर सीमित ऑनलाइन वातावरण थोपने और कुछ वर्गों को अपेक्षाकृत स्वतंत्र पहुंच देने के रूप में देखा जा रहा है। इससे इंटरनेट पहुंच में समानता पर बहस और तेज हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "‘Internet diskriminatif’ Iran memicu marah: warga diblokir, elite tetap tersambung",
+        "excerpt": "Di Iran, ketidakpuasan meningkat karena warga biasa diblokir dari internet global, sementara sebagian kelompok istimewa disebut masih bisa mengaksesnya lebih bebas.",
+        "body": "Ketidakpuasan warga Iran terhadap penggunaan internet terus meningkat. Sorotan tertuju pada sistem yang disebut “internet diskriminatif”, ketika otoritas Iran memblokir akses pengguna biasa ke internet global tetapi mengizinkan sebagian kelompok istimewa untuk tersambung. Menurut laporan asli, struktur ini dipandang memaksa masyarakat berada dalam lingkungan internet yang terbatas, sementara kelompok tertentu mendapat akses yang relatif lebih bebas. Perdebatan tentang keadilan akses internet berpotensi semakin membesar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "7c974e983f4b",
     "slug": "너무-예의-없다강연-중단하더니-청중-질타한-마크롱-265177",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Nvidia vs Google dalam AI: momentum GPU dan strategi pusat data jadi fokus",
         "excerpt": "Strategi investasi Nvidia dan Google menjadi sorotan dalam perebutan dominasi AI, saat GPU, memori, serta permintaan pusat data hyperscaler menjadi faktor utama penilaian.",
         "body": "Strategi investasi terkait Nvidia dan Google menjadi perhatian di tengah persaingan dominasi AI. Naskah asli menyebut, dalam persaingan perusahaan bernilai pasar peringkat 1 dan 2, manfaat jangka pendek dari investasi semikonduktor AI terkonsentrasi pada Nvidia. Permintaan GPU mengangkat Nvidia ke posisi puncak kapitalisasi pasar, sementara bisnis memori Micron juga menunjukkan pertumbuhan cepat. Dalam jangka panjang, permintaan komputasi hyperscaler dan pusat data, yang disebut sebagai tambang emas era AI, meningkat tajam dan memperbesar makna strategis Alphabet serta saham teknologi besar lain. Investor perlu mencermati momentum jangka pendek GPU dan memori bersama permintaan jangka panjang infrastruktur pusat data. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d5cb6b9b54e6",
-    "slug": "점주-90가-당했다명륜진사갈비-돈놀이에-칼-빼든-정부-980474",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T21:36:05.292Z",
-    "updatedAt": "2026-05-10T21:36:05.292Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051064387",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051064387",
-    "titleFingerprint": "2c7e5fb8997fad2251422085419d16b5dfe46214",
-    "dedupKeys": [
-      "d5cb6b9b54e6f46401f1742a202f1cd085185c5f",
-      "2c7e5fb8997fad2251422085419d16b5dfe46214",
-      "68beed81bcf3d5ff26efaee8d806aa8bd36beeb8"
-    ],
-    "imageUrl": "/images/articles/d5cb6b9b54e6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "명륜진사갈비 점주 90% 대출 논란…정부, ‘돈놀이’ 조사 착수",
-        "excerpt": "정부가 명륜진사갈비 운영사 명륜당의 가맹점주 대상 고금리 대출 논란과 국책은행 자금 활용 의혹을 조사하며 프랜차이즈 대부업 규제 보완에 나섰다.",
-        "body": "정부가 명륜진사갈비 운영사 명륜당의 가맹점주 대상 대출 논란에 칼을 빼 들었다. 한국경제에 따르면 명륜당은 산업은행 등에서 낮은 금리로 조달한 자금을 대주주 측 대부업체를 거쳐 창업 자금이 필요한 점주에게 10%대 중반 금리로 빌려준 의혹을 받고 있다. 점주 90%가 이 구조의 영향을 받았다는 지적도 제기됐다. 관련 보도에서는 이종근 회장 부부가 12개 대부업체 지분을 보유한 사실도 드러났다. 정부는 프랜차이즈 본사의 국책은행 대출 부당 이용과 ‘쪼개기 대부업’ 여부를 조사하고, 금감원 직권조사 권한과 대부업법 보완을 검토한다. 조사가 확대되면 가맹본부의 자금 지원 관행과 정책자금 관리 기준이 바뀔 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Myungryun Jinsa Galbi Loan Row: Government Probes Franchise Lending",
-        "excerpt": "The government is examining allegations that Myungryun Jinsa Galbi operator Myungryundang used policy-bank funds for high-interest loans to franchisees.",
-        "body": "The government has moved to investigate a lending controversy involving Myungryundang, operator of Myungryun Jinsa Galbi. According to hankyung.com, the company is suspected of borrowing funds at low rates from institutions including Korea Development Bank, then channeling them through lender firms linked to major shareholders and lending to franchisees needing startup capital at mid-10% interest rates. Reports also raised concerns that 90% of store owners were affected by the structure. Separate coverage said Chairman Lee Jong-geun and his wife held stakes in 12 lender companies. Authorities plan to examine misuse of policy-bank loans and possible split registration of lending businesses, while considering stronger Financial Supervisory Service probe powers and revisions to lending laws. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "明倫進士カルビ加盟店90％の融資問題、政府が本部調査へ",
-        "excerpt": "政府は明倫進士カルビ運営会社の明倫堂を巡り、政策金融資金を加盟店向け高金利融資に使った疑惑を調査し、規制補完を進める。",
-        "body": "政府は、明倫進士カルビを運営する明倫堂の加盟店向け融資問題について調査に乗り出した。hankyung.comによると、明倫堂は産業銀行などから低金利で調達した資金を、大株主側の貸金業者を通じて、開業資金が必要な加盟店主に年10％台半ばの金利で貸し付けた疑いがある。加盟店主の90％がこの構造の影響を受けたとの指摘も出ている。関連報道では、李鍾根会長夫妻が12の貸金業者の持ち分を保有していた事実も明らかになった。政府は政策銀行融資の不当利用と分割型貸金業の有無を調べ、金融監督院の職権調査権限や貸金業法の補完を検討する。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "明伦进士排骨加盟店贷款争议升级，政府调查“放贷生意”",
-        "excerpt": "韩国政府正调查明伦进士排骨运营方明伦堂涉嫌利用政策性银行低息资金，向加盟店主提供高息贷款的争议。",
-        "body": "韩国政府已就明伦进士排骨运营方明伦堂面向加盟店主的贷款争议展开行动。据 hankyung.com 报道，明伦堂涉嫌从产业银行等机构以较低利率取得资金，再通过大股东相关放贷公司，向需要创业资金的加盟店主以年化10%多的中段利率放款。报道还指出，约90%的店主受到这一结构影响。相关报道显示，李钟根会长夫妇持有12家放贷公司的股权。政府将调查加盟总部是否不当使用政策性银行贷款，以及是否存在“拆分式放贷”规避监管，并考虑赋予金融监督院职权调查权限及完善放贷业法规。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Myungryun Jinsa Galbi bajo pesquisa por préstamos a franquiciados",
-        "excerpt": "El Gobierno investiga si Myungryundang, operadora de Myungryun Jinsa Galbi, usó fondos públicos baratos para prestar a franquiciados a tasas altas.",
-        "body": "El Gobierno abrió una investigación sobre la polémica de préstamos a franquiciados de Myungryundang, operadora de Myungryun Jinsa Galbi. Según hankyung.com, la compañía es sospechosa de haber obtenido fondos a bajo interés de entidades como Korea Development Bank y de canalizarlos por prestamistas vinculados a grandes accionistas para prestar a dueños de tiendas que necesitaban capital inicial con tasas en el rango medio del 10%. También se señaló que el 90% de los franquiciados habría quedado afectado por esta estructura. Otros reportes indicaron que el presidente Lee Jong-geun y su esposa tenían participaciones en 12 prestamistas. El Gobierno revisará el uso indebido de préstamos públicos y posibles registros fragmentados de prestamistas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Myungryun Jinsa Galbi vira alvo do governo por empréstimos a franqueados",
-        "excerpt": "O governo investiga se a Myungryundang usou recursos baratos de bancos públicos para conceder empréstimos caros a franqueados da Myungryun Jinsa Galbi.",
-        "body": "O governo passou a investigar a controvérsia de empréstimos a franqueados envolvendo a Myungryundang, operadora da Myungryun Jinsa Galbi. Segundo o hankyung.com, a empresa é suspeita de captar recursos a juros baixos em instituições como o Korea Development Bank e repassá-los, por meio de financeiras ligadas aos principais acionistas, a franqueados que precisavam de capital inicial, com taxas na faixa média dos 10% ao ano. Também houve apontamento de que 90% dos lojistas foram afetados por essa estrutura. Reportagens relacionadas disseram que o presidente Lee Jong-geun e sua esposa tinham participação em 12 financeiras. O governo examinará uso indevido de crédito público e possível fragmentação de empresas de crédito. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Myungryun-Jinsa-Galbi-Kreditstreit: Regierung prüft Franchise-Darlehen",
-        "excerpt": "Die Regierung untersucht, ob Myungryundang günstige Mittel staatlicher Banken nutzte, um Franchisenehmern von Myungryun Jinsa Galbi teure Kredite zu geben.",
-        "body": "Die Regierung hat eine Untersuchung zur Kreditkontroverse um Myungryundang, Betreiber von Myungryun Jinsa Galbi, eingeleitet. Laut hankyung.com steht das Unternehmen im Verdacht, Mittel zu niedrigen Zinsen von Instituten wie der Korea Development Bank aufgenommen und sie über mit Großaktionären verbundene Kreditfirmen an Franchisenehmer mit Kapitalbedarf zu Zinssätzen im mittleren Zehn-Prozent-Bereich weiterverliehen zu haben. Es wurde auch berichtet, dass 90% der Ladenbetreiber von dieser Struktur betroffen waren. Weitere Berichte nannten Beteiligungen von Chairman Lee Jong-geun und seiner Frau an 12 Kreditfirmen. Die Behörden prüfen nun Missbrauch staatlicher Bankkredite und mögliche aufgespaltene Kreditregistrierungen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Myungryun Jinsa Galbi visé par l’État pour ses prêts aux franchisés",
-        "excerpt": "Le gouvernement examine si Myungryundang a utilisé des fonds bon marché de banques publiques pour prêter à taux élevés aux franchisés de Myungryun Jinsa Galbi.",
-        "body": "Le gouvernement a lancé une enquête sur la controverse des prêts aux franchisés impliquant Myungryundang, opérateur de Myungryun Jinsa Galbi. Selon hankyung.com, l’entreprise est soupçonnée d’avoir emprunté à bas coût auprès d’institutions comme la Korea Development Bank, puis d’avoir fait transiter ces fonds par des sociétés de crédit liées aux principaux actionnaires pour prêter à des franchisés ayant besoin de capital de départ à des taux dans le milieu de la tranche des 10%. Des critiques indiquent aussi que 90% des exploitants auraient été touchés par cette structure. D’autres articles ont rapporté que le président Lee Jong-geun et son épouse détenaient des parts dans 12 sociétés de crédit. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تحقيق حكومي في قروض Myungryun Jinsa Galbi لأصحاب الامتياز",
-        "excerpt": "تبحث الحكومة ما إذا كانت Myungryundang استخدمت أموالا منخفضة التكلفة من بنوك سياساتية لإقراض أصحاب امتياز Myungryun Jinsa Galbi بفوائد مرتفعة.",
-        "body": "بدأت الحكومة التحقيق في جدل القروض الموجهة لأصحاب الامتياز لدى Myungryundang، مشغلة Myungryun Jinsa Galbi. ووفقا لـ hankyung.com، تشتبه السلطات في أن الشركة حصلت على أموال بفوائد منخفضة من مؤسسات مثل بنك التنمية الكوري، ثم مررتها عبر شركات إقراض مرتبطة بالمساهمين الرئيسيين، لتقرض أصحاب متاجر يحتاجون إلى رأس مال تأسيسي بفوائد في منتصف نطاق 10%. كما أثيرت ملاحظات بأن 90% من أصحاب المتاجر تأثروا بهذا الهيكل. وذكرت تقارير مرتبطة أن الرئيس Lee Jong-geun وزوجته امتلكا حصصا في 12 شركة إقراض. وستفحص الحكومة إساءة استخدام قروض البنوك السياساتية واحتمال تجزئة شركات الإقراض لتفادي الرقابة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Myungryun Jinsa Galbi ऋण विवाद पर सरकार की जांच तेज",
-        "excerpt": "सरकार जांच कर रही है कि Myungryundang ने नीति-बैंक से कम ब्याज पर लिए धन को Myungryun Jinsa Galbi फ्रेंचाइजी मालिकों को ऊंचे ब्याज पर कर्ज देने में लगाया या नहीं।",
-        "body": "सरकार ने Myungryun Jinsa Galbi की संचालक Myungryundang से जुड़े फ्रेंचाइजी ऋण विवाद की जांच शुरू की है। hankyung.com के अनुसार, कंपनी पर संदेह है कि उसने Korea Development Bank जैसे संस्थानों से कम ब्याज दर पर धन जुटाया और उसे बड़े शेयरधारकों से जुड़ी ऋण कंपनियों के जरिए उन फ्रेंचाइजी मालिकों को दिया जिन्हें शुरुआती पूंजी चाहिए थी, जबकि ब्याज दर 10% के मध्य स्तर में थी। यह भी बताया गया कि 90% स्टोर मालिक इस ढांचे से प्रभावित हुए। संबंधित रिपोर्टों में कहा गया कि चेयरमैन Lee Jong-geun और उनकी पत्नी के पास 12 ऋण कंपनियों में हिस्सेदारी थी। सरकार नीति-बैंक ऋणों के दुरुपयोग और ‘स्प्लिट’ ऋण कारोबार की जांच करेगी तथा नियमों में सुधार पर विचार करेगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Myungryun Jinsa Galbi Diselidiki Pemerintah soal Pinjaman Franchise",
-        "excerpt": "Pemerintah menyelidiki dugaan Myungryundang memakai dana murah bank kebijakan untuk memberi pinjaman berbunga tinggi kepada pewaralaba Myungryun Jinsa Galbi.",
-        "body": "Pemerintah mulai menyelidiki kontroversi pinjaman kepada pewaralaba yang melibatkan Myungryundang, operator Myungryun Jinsa Galbi. Menurut hankyung.com, perusahaan diduga memperoleh dana berbunga rendah dari lembaga seperti Korea Development Bank, lalu menyalurkannya melalui perusahaan pinjaman yang terkait dengan pemegang saham utama kepada pemilik gerai yang membutuhkan modal awal dengan bunga di kisaran pertengahan 10%. Ada pula sorotan bahwa 90% pemilik gerai terdampak struktur ini. Laporan terkait menyebut Chairman Lee Jong-geun dan istrinya memiliki saham di 12 perusahaan pinjaman. Pemerintah akan memeriksa penyalahgunaan pinjaman bank kebijakan dan dugaan pendaftaran bisnis pinjaman yang dipecah, serta meninjau penguatan aturan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "cb26c238d2a2",
-    "slug": "lvmh-회장-3년-만에-방한-678463",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T21:34:31.074Z",
-    "updatedAt": "2026-05-10T21:34:31.074Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065121",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065121",
-    "titleFingerprint": "0f42d57851c848c532243831b9539d3df4b4f04e",
-    "dedupKeys": [
-      "cb26c238d2a24eb8e34cce5c27df59d2f3cec357",
-      "0f42d57851c848c532243831b9539d3df4b4f04e",
-      "9b2492348cafd8f53488145722cf8d6145524ecd"
-    ],
-    "imageUrl": "/images/articles/cb26c238d2a2.png",
-    "i18n": {
-      "ko": {
-        "title": "LVMH 아르노 회장 3년 만에 방한, 신세계 본점 방문 예정",
-        "excerpt": "베르나르 아르노 LVMH 회장이 5월 11일 서울 신세계백화점 본점을 찾을 예정으로, 3년 만의 방한에서 주요 명품 매장 운영 상황을 점검한다.",
-        "body": "베르나르 아르노 루이뷔통모에헤네시(LVMH) 회장이 3년 만에 한국을 방문한다. 한국경제에 따르면 아르노 회장은 5월 11일 서울 중구 소공동 신세계백화점 본점을 찾을 예정이다. 신세계 본점 더 리저브에는 지난해 12월 문을 연 ‘루이비통 비저너리 저니 서울’ 매장이 있다. 이 매장은 세계 최대 규모의 루이비통 매장으로, 6개 층에 제품과 브랜드 역사·문화·장인정신 체험 공간, 레스토랑과 카페가 조성돼 있다. 방문일은 신세계 본점 정기 휴무일로, 아르노 회장은 비교적 한산한 환경에서 매장을 둘러보고 내부 관계자들과 운영 상황을 점검할 것으로 알려졌다. 롯데백화점 본점과 잠실점, 신세계백화점 강남점 방문 계획도 전해졌다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "LVMH Chairman Bernard Arnault to Visit Korea After Three Years",
-        "excerpt": "LVMH Chairman Bernard Arnault is expected to visit Shinsegae Department Store’s main branch in Seoul on May 11, checking key luxury store operations during his first Korea trip in three years.",
-        "body": "Bernard Arnault, chairman of Louis Vuitton Moet Hennessy (LVMH), is set to visit Korea after three years. According to hankyung.com, Arnault is expected to visit Shinsegae Department Store’s main branch in Sogong-dong, Jung-gu, Seoul, on May 11. The branch’s The Reserve houses Louis Vuitton Visionary Journeys Seoul, which opened last December. It is described as the world’s largest Louis Vuitton store, spanning six floors with products, spaces to experience the brand’s history, culture and craftsmanship, plus a restaurant and cafe. The visit falls on the store’s regular closing day, allowing Arnault to inspect the site and review operations with internal officials in a quieter setting. Visits to Lotte Department Store’s main and Jamsil branches and Shinsegae Gangnam are also planned. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "LVMHのベルナール・アルノー会長、3年ぶりに韓国訪問へ",
-        "excerpt": "LVMHのベルナール・アルノー会長は5月11日、ソウルの新世界百貨店本店を訪れる予定で、3年ぶりの訪韓で主要高級ブランド売り場の運営状況を点検する。",
-        "body": "ルイ・ヴィトン モエ ヘネシー（LVMH）のベルナール・アルノー会長が、3年ぶりに韓国を訪問する。hankyung.comによると、アルノー会長は5月11日、ソウル市中区小公洞にある新世界百貨店本店を訪れる予定だ。同本店の「ザ・リザーブ」には、昨年12月に開業した「ルイ・ヴィトン ビジョナリー・ジャーニー ソウル」が入っている。同店は世界最大規模のルイ・ヴィトン店舗とされ、6フロアに商品、ブランドの歴史・文化・職人精神を体験できる空間、レストラン、カフェを備える。訪問日は本店の定休日で、比較的静かな環境で店舗を見て、関係者と運営状況を点検するとされる。ロッテ百貨店本店と蚕室店、新世界百貨店江南店の訪問計画も伝えられた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "LVMH董事长阿尔诺时隔三年访韩，拟到访新世界本店",
-        "excerpt": "LVMH董事长伯纳德·阿尔诺预计5月11日到访首尔新世界百货本店，此次时隔三年访韩将检查主要奢侈品门店运营情况。",
-        "body": "路易威登酩悦轩尼诗（LVMH）董事长伯纳德·阿尔诺将时隔三年访问韩国。据hankyung.com报道，阿尔诺预计5月11日到访位于首尔中区小公洞的新世界百货本店。该店The Reserve内设有去年12月开业的“Louis Vuitton Visionary Journeys Seoul”。报道称，这是全球最大规模的路易威登门店，六层空间涵盖品牌产品、历史与文化及工艺体验区，并设有餐厅和咖啡馆。到访当天是新世界本店的例行休息日，阿尔诺预计将在较为安静的环境中查看门店，并与内部相关人士检查运营情况。报道还称，他计划访问乐天百货本店、蚕室店以及新世界百货江南店。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Bernard Arnault, presidente de LVMH, visitará Corea tras tres años",
-        "excerpt": "Bernard Arnault, presidente de LVMH, prevé visitar el 11 de mayo la tienda principal de Shinsegae en Seúl para revisar operaciones clave de lujo en su primera visita a Corea en tres años.",
-        "body": "Bernard Arnault, presidente de Louis Vuitton Moet Hennessy (LVMH), visitará Corea tras tres años. Según hankyung.com, Arnault tiene previsto acudir el 11 de mayo a la tienda principal de Shinsegae Department Store, en Sogong-dong, Jung-gu, Seúl. En The Reserve de esa sede se encuentra Louis Vuitton Visionary Journeys Seoul, inaugurada en diciembre pasado. La tienda es descrita como la mayor Louis Vuitton del mundo, con seis plantas que incluyen productos, espacios para experimentar la historia, la cultura y la artesanía de la marca, además de restaurante y cafetería. La visita coincide con el día regular de cierre de la tienda, por lo que Arnault revisaría el local y las operaciones con responsables internos en un entorno más tranquilo. También se informó de planes para visitar las sedes principal y Jamsil de Lotte Department Store y Shinsegae Gangnam. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Bernard Arnault, presidente da LVMH, visitará a Coreia após três anos",
-        "excerpt": "Bernard Arnault, presidente da LVMH, deve visitar em 11 de maio a loja principal da Shinsegae em Seul para verificar operações de luxo em sua primeira viagem à Coreia em três anos.",
-        "body": "Bernard Arnault, presidente da Louis Vuitton Moet Hennessy (LVMH), visitará a Coreia após três anos. Segundo o hankyung.com, Arnault deve ir em 11 de maio à loja principal da Shinsegae Department Store, em Sogong-dong, Jung-gu, Seul. No espaço The Reserve dessa unidade fica a Louis Vuitton Visionary Journeys Seoul, aberta em dezembro passado. A loja é descrita como a maior Louis Vuitton do mundo, com seis andares dedicados a produtos, experiências sobre história, cultura e artesanato da marca, além de restaurante e café. A data da visita coincide com o fechamento regular da loja, permitindo que Arnault veja o espaço e revise as operações com responsáveis internos em ambiente mais tranquilo. Também foram relatados planos de visita à loja principal e à unidade Jamsil da Lotte Department Store e à Shinsegae Gangnam. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "LVMH-Chef Bernard Arnault reist nach drei Jahren wieder nach Korea",
-        "excerpt": "LVMH-Chef Bernard Arnault soll am 11. Mai die Hauptfiliale von Shinsegae Department Store in Seoul besuchen und bei seiner ersten Koreareise seit drei Jahren wichtige Luxusstandorte prüfen.",
-        "body": "Bernard Arnault, Chairman von Louis Vuitton Moet Hennessy (LVMH), reist nach drei Jahren wieder nach Korea. Laut hankyung.com soll Arnault am 11. Mai die Hauptfiliale von Shinsegae Department Store in Sogong-dong, Jung-gu, Seoul, besuchen. Im Bereich The Reserve der Filiale befindet sich Louis Vuitton Visionary Journeys Seoul, das im vergangenen Dezember eröffnet wurde. Der Standort gilt als weltweit größte Louis-Vuitton-Filiale und erstreckt sich über sechs Etagen mit Produkten, Bereichen zur Geschichte, Kultur und Handwerkskunst der Marke sowie Restaurant und Cafe. Der Besuch fällt auf den regulären Ruhetag der Filiale, sodass Arnault den Standort in ruhigerer Atmosphäre besichtigen und mit internen Verantwortlichen den Betrieb prüfen dürfte. Auch Besuche der Haupt- und Jamsil-Filialen von Lotte Department Store sowie von Shinsegae Gangnam sind geplant. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Bernard Arnault, président de LVMH, attendu en Corée après trois ans",
-        "excerpt": "Bernard Arnault, président de LVMH, doit visiter le 11 mai le grand magasin Shinsegae principal à Séoul afin d’examiner des opérations clés du luxe lors de sa première venue en Corée depuis trois ans.",
-        "body": "Bernard Arnault, président de Louis Vuitton Moet Hennessy (LVMH), doit se rendre en Corée après trois ans. Selon hankyung.com, il est attendu le 11 mai au magasin principal de Shinsegae Department Store, à Sogong-dong, Jung-gu, Séoul. L’espace The Reserve de ce site accueille Louis Vuitton Visionary Journeys Seoul, ouvert en décembre dernier. Ce magasin est présenté comme le plus grand Louis Vuitton au monde, avec six étages réunissant produits, espaces d’expérience autour de l’histoire, de la culture et du savoir-faire de la marque, ainsi qu’un restaurant et un café. La visite tombe le jour de fermeture régulière du magasin, ce qui permettrait à Arnault d’inspecter les lieux et d’examiner l’exploitation avec des responsables internes dans une atmosphère plus calme. Des visites aux magasins principal et de Jamsil de Lotte Department Store ainsi qu’à Shinsegae Gangnam sont aussi prévues. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "برنار أرنو رئيس LVMH يزور كوريا بعد ثلاث سنوات ويتجه إلى شينسيغي",
-        "excerpt": "من المتوقع أن يزور برنار أرنو رئيس LVMH الفرع الرئيسي لمتجر شينسيغي في سيول في 11 مايو، لمراجعة تشغيل متاجر فاخرة رئيسية خلال أول زيارة له إلى كوريا منذ ثلاث سنوات.",
-        "body": "يزور برنار أرنو، رئيس لويس فويتون مويت هينيسي (LVMH)، كوريا بعد ثلاث سنوات. وبحسب hankyung.com، من المتوقع أن يتوجه أرنو في 11 مايو إلى الفرع الرئيسي لمتجر شينسيغي في سوغونغ-دونغ، جونغ-غو، سيول. يضم قسم The Reserve في هذا الفرع متجر Louis Vuitton Visionary Journeys Seoul الذي افتتح في ديسمبر الماضي. ويوصف بأنه أكبر متجر للويس فويتون في العالم، ويمتد على ستة طوابق تشمل المنتجات ومساحات لتجربة تاريخ العلامة وثقافتها وحرفيتها، إضافة إلى مطعم ومقهى. ويصادف يوم الزيارة يوم الإغلاق الدوري للفرع، ما يتيح لأرنو تفقد المتجر ومراجعة التشغيل مع مسؤولين داخليين في أجواء أكثر هدوءا. كما وردت خطط لزيارة الفرع الرئيسي وفرع جامسيل لمتجر لوتيه، إضافة إلى شينسيغي غانغنام. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "LVMH चेयरमैन बर्नार्ड अर्नो तीन साल बाद कोरिया दौरे पर जाएंगे",
-        "excerpt": "LVMH चेयरमैन बर्नार्ड अर्नो 11 मई को सियोल में शिनसेगे डिपार्टमेंट स्टोर के मुख्य स्टोर का दौरा कर सकते हैं, जहां वे तीन साल बाद कोरिया यात्रा में प्रमुख लक्जरी स्टोर संचालन देखेंगे।",
-        "body": "लुई वितों मोए हेनेसी (LVMH) के चेयरमैन बर्नार्ड अर्नो तीन साल बाद कोरिया का दौरा करेंगे। hankyung.com के अनुसार, अर्नो 11 मई को सियोल के जंग-गु, सोगोंग-डोंग स्थित शिनसेगे डिपार्टमेंट स्टोर के मुख्य स्टोर पर जाने वाले हैं। इस स्टोर के The Reserve में पिछले दिसंबर खुले Louis Vuitton Visionary Journeys Seoul की मौजूदगी है। इसे दुनिया का सबसे बड़ा लुई वितों स्टोर बताया गया है, जिसमें छह मंजिलों पर उत्पाद, ब्रांड के इतिहास, संस्कृति और शिल्प कौशल का अनुभव कराने वाली जगहें, रेस्तरां और कैफे हैं। दौरे का दिन स्टोर की नियमित छुट्टी है, इसलिए अर्नो अपेक्षाकृत शांत माहौल में स्टोर देखेंगे और आंतरिक अधिकारियों के साथ संचालन की स्थिति की समीक्षा करेंगे। लोट्टे डिपार्टमेंट स्टोर के मुख्य और जमसिल स्टोर तथा शिनसेगे गंगनम जाने की योजना भी बताई गई है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Ketua LVMH Bernard Arnault Kunjungi Korea Setelah Tiga Tahun",
-        "excerpt": "Ketua LVMH Bernard Arnault diperkirakan mengunjungi gerai utama Shinsegae Department Store di Seoul pada 11 Mei untuk meninjau operasi toko mewah utama dalam kunjungan pertamanya ke Korea setelah tiga tahun.",
-        "body": "Bernard Arnault, ketua Louis Vuitton Moet Hennessy (LVMH), akan mengunjungi Korea setelah tiga tahun. Menurut hankyung.com, Arnault diperkirakan datang pada 11 Mei ke gerai utama Shinsegae Department Store di Sogong-dong, Jung-gu, Seoul. Di area The Reserve gerai itu terdapat Louis Vuitton Visionary Journeys Seoul, yang dibuka Desember lalu. Gerai tersebut disebut sebagai toko Louis Vuitton terbesar di dunia, mencakup enam lantai berisi produk, ruang pengalaman sejarah, budaya dan keahlian merek, serta restoran dan kafe. Tanggal kunjungan bertepatan dengan hari libur rutin gerai, sehingga Arnault dapat meninjau toko dan memeriksa operasi bersama pejabat internal dalam suasana lebih sepi. Rencana kunjungan ke gerai utama dan Jamsil Lotte Department Store serta Shinsegae Gangnam juga dilaporkan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "061a168047a7",
-    "slug": "고유가-지원금-2차-지급기준-오늘-공개소득-하위-70-대상-478954",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-10T21:33:19.841Z",
-    "updatedAt": "2026-05-10T21:33:19.841Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12042842",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12042842",
-    "titleFingerprint": "cd289253845267618dc9e2e4e7fa6a78070b1f96",
-    "dedupKeys": [
-      "061a168047a7c12e3af97d3fc2efbf8a8aa42336",
-      "cd289253845267618dc9e2e4e7fa6a78070b1f96",
-      "7c369e4e9c2a7a56bf870aedcd715796341cb012"
-    ],
-    "imageUrl": "/images/articles/061a168047a7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고유가 지원금 2차 지급기준 11일 공개…소득 하위 70% 대상",
-        "excerpt": "정부가 고유가 피해지원금 2차 지급 기준을 11일 공개한다. 행정안전부 장관 브리핑을 통해 소득 하위 70% 대상 기준과 지급 관련 내용이 안내될 예정이다.",
-        "body": "정부는 고유가 피해지원금 2차 지급 기준을 11일 공개할 예정이다. 행정안전부에 따르면 윤호중 행정안전부 장관은 이날 오전 정부서울청사에서 브리핑을 열고 2차 지원금 지급 대상과 기준을 설명한다. 이번 지원은 고유가로 인한 부담을 덜기 위한 조치로, 소득 하위 70%가 지급 대상에 포함되는 것으로 알려졌다. 구체적인 판단 기준과 지급 절차는 브리핑에서 제시될 전망이다. 고유가 부담이 계속되는 가운데 대상 가구의 지원 여부에 관심이 모인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Second High Oil Price Relief Criteria to Be Unveiled on May 11 for Bottom 70% Income Group",
-        "excerpt": "The government will announce criteria for the second high oil price relief payment on May 11, with the Ministry of the Interior set to brief on eligibility for the lower 70% income group.",
-        "body": "The government is expected to unveil the criteria for the second round of high oil price damage relief payments on May 11. According to the Ministry of the Interior and Safety, Minister Yoon Ho-jung will hold a briefing that morning at the Government Complex Seoul to explain who will qualify and how the standards will apply. The measure is intended to ease the burden caused by high oil prices, and the lower 70% income group is known to be included among eligible recipients. Detailed assessment criteria and payment procedures are expected to be presented during the briefing. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "高油価支援金の第2次支給基準を11日公開へ…所得下位70％が対象",
-        "excerpt": "政府は高油価被害支援金の第2次支給基準を11日に公開する。行政安全部長官の会見で、所得下位70％を対象とする基準が説明される予定だ。",
-        "body": "政府は高油価被害支援金の第2次支給基準を11日に公開する予定だ。行政安全部によると、尹昊重行政安全部長官は同日午前、政府ソウル庁舎で会見を開き、第2次支援金の支給対象と基準を説明する。今回の支援は高油価による負担を和らげるための措置で、所得下位70％が支給対象に含まれるとされている。具体的な判定基準や支給手続きは会見で示される見通しだ。高油価の負担が続く中、対象世帯への支援内容に関心が集まる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "高油价补助第二轮发放标准11日公布…收入后70%人群为对象",
-        "excerpt": "韩国政府将于11日公布高油价受损补助第二轮发放标准。行政安全部长官将在发布会上说明面向收入后70%人群的对象和标准。",
-        "body": "韩国政府预计将于11日公布高油价受损补助第二轮发放标准。据行政安全部消息，行政安全部长官尹昊重当天上午将在政府首尔办公楼举行发布会，说明第二轮补助的发放对象和标准。此次补助旨在缓解高油价带来的负担，收入后70%人群据悉将被纳入发放对象。具体判断标准和发放程序预计将在发布会上提出。在高油价负担持续的背景下，相关家庭能否获得支持备受关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El segundo subsidio por altos precios del petróleo revelará criterios el 11 de mayo para el 70% de menores ingresos",
-        "excerpt": "El Gobierno anunciará el 11 de mayo los criterios del segundo pago de apoyo por altos precios del petróleo, con una sesión informativa sobre beneficiarios del 70% de menores ingresos.",
-        "body": "El Gobierno tiene previsto revelar el 11 de mayo los criterios para el segundo pago de apoyo por daños derivados de los altos precios del petróleo. Según el Ministerio del Interior y Seguridad, el ministro Yoon Ho-jung ofrecerá esa mañana una rueda de prensa en el Complejo Gubernamental de Seúl para explicar los beneficiarios y las normas de la segunda ayuda. La medida busca aliviar la carga causada por los altos precios del petróleo, y se sabe que el 70% de menores ingresos estará incluido entre los destinatarios. Los criterios concretos y el procedimiento de pago se presentarán en la rueda de prensa. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Critérios do 2º auxílio por alta do petróleo serão divulgados em 11 de maio para 70% de menor renda",
-        "excerpt": "O governo divulgará em 11 de maio os critérios do segundo pagamento de apoio por alta do petróleo, com briefing sobre elegibilidade para os 70% de menor renda.",
-        "body": "O governo deve divulgar em 11 de maio os critérios para a segunda rodada do auxílio por danos causados pelos altos preços do petróleo. Segundo o Ministério do Interior e Segurança, o ministro Yoon Ho-jung fará um briefing naquela manhã no Complexo do Governo em Seul para explicar os beneficiários e os critérios do segundo pagamento. A medida busca reduzir o peso provocado pela alta do petróleo, e os 70% de menor renda devem estar entre os contemplados. Os critérios detalhados de avaliação e os procedimentos de pagamento devem ser apresentados no briefing. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Zweite Hilfe wegen hoher Ölpreise: Kriterien am 11. Mai für untere 70% der Einkommen",
-        "excerpt": "Die Regierung will am 11. Mai die Kriterien für die zweite Entlastungszahlung wegen hoher Ölpreise vorstellen. Das Innenministerium informiert über Empfänger in den unteren 70% der Einkommen.",
-        "body": "Die Regierung wird voraussichtlich am 11. Mai die Kriterien für die zweite Runde der Hilfszahlungen wegen Schäden durch hohe Ölpreise bekannt geben. Nach Angaben des Ministeriums für Inneres und Sicherheit wird Minister Yoon Ho-jung am Vormittag im Regierungskomplex Seoul eine Presseunterrichtung abhalten und die Empfänger sowie die Maßstäbe der zweiten Zahlung erläutern. Die Maßnahme soll die Belastung durch hohe Ölpreise verringern; die unteren 70% der Einkommensgruppen sollen einbezogen werden. Konkrete Prüfkriterien und Zahlungsabläufe werden bei der Unterrichtung erwartet. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Deuxième aide face aux prix élevés du pétrole: critères dévoilés le 11 mai pour les 70% de revenus les plus bas",
-        "excerpt": "Le gouvernement annoncera le 11 mai les critères du deuxième versement d’aide lié aux prix élevés du pétrole, avec un briefing sur les ménages des 70% de revenus les plus bas.",
-        "body": "Le gouvernement doit dévoiler le 11 mai les critères du deuxième versement de l’aide destinée à compenser les dommages liés aux prix élevés du pétrole. Selon le ministère de l’Intérieur et de la Sécurité, le ministre Yoon Ho-jung tiendra ce matin-là un briefing au complexe gouvernemental de Séoul afin d’expliquer les bénéficiaires et les règles de cette deuxième aide. La mesure vise à alléger la charge provoquée par les prix élevés du pétrole, et les 70% de revenus les plus bas devraient être inclus. Les critères précis et les procédures de versement seront présentés lors du briefing. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "معايير الدفعة الثانية من دعم ارتفاع أسعار النفط تُعلن في 11 مايو للفئة الأدنى دخلا بنسبة 70%",
-        "excerpt": "تعتزم الحكومة إعلان معايير الدفعة الثانية من دعم أضرار ارتفاع أسعار النفط في 11 مايو، مع إحاطة توضح استهداف الفئة الأدنى دخلا بنسبة 70%.",
-        "body": "من المتوقع أن تعلن الحكومة في 11 مايو معايير الدفعة الثانية من دعم أضرار ارتفاع أسعار النفط. وبحسب وزارة الداخلية والسلامة، سيعقد الوزير يون هو-جونغ إحاطة صباح ذلك اليوم في مجمع الحكومة في سيول لشرح المستفيدين ومعايير الدفعة الثانية. يهدف هذا الإجراء إلى تخفيف العبء الناتج عن ارتفاع أسعار النفط، ومن المعروف أن الفئة الأدنى دخلا بنسبة 70% ستكون ضمن المستهدفين. ومن المنتظر عرض معايير التقييم التفصيلية وإجراءات الدفع خلال الإحاطة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ऊंचे तेल दाम राहत की दूसरी किस्त के मानदंड 11 मई को जारी, निचले 70% आय वर्ग को लक्ष्य",
-        "excerpt": "सरकार ऊंचे तेल दामों से नुकसान के लिए राहत भुगतान की दूसरी किस्त के मानदंड 11 मई को बताएगी। गृह मंत्रालय की ब्रीफिंग में निचले 70% आय वर्ग की पात्रता स्पष्ट होगी।",
-        "body": "सरकार ऊंचे तेल दामों से हुए नुकसान के लिए राहत भुगतान की दूसरी किस्त के मानदंड 11 मई को जारी करने वाली है। गृह और सुरक्षा मंत्रालय के अनुसार, मंत्री यून हो-जुंग उस सुबह सियोल स्थित सरकारी परिसर में ब्रीफिंग करेंगे और दूसरी राहत राशि के पात्रों तथा मानकों की व्याख्या करेंगे। यह कदम ऊंचे तेल दामों से बढ़े बोझ को कम करने के लिए है, और निचले 70% आय वर्ग को पात्रों में शामिल माना जा रहा है। विस्तृत आकलन मानदंड और भुगतान प्रक्रिया ब्रीफिंग में सामने आने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kriteria Tahap Kedua Bantuan Harga Minyak Tinggi Diumumkan 11 Mei untuk 70% Pendapatan Terbawah",
-        "excerpt": "Pemerintah akan mengumumkan kriteria pembayaran tahap kedua bantuan dampak harga minyak tinggi pada 11 Mei, dengan pengarahan mengenai sasaran 70% kelompok pendapatan terbawah.",
-        "body": "Pemerintah dijadwalkan mengumumkan kriteria pembayaran tahap kedua bantuan kerugian akibat harga minyak tinggi pada 11 Mei. Menurut Kementerian Dalam Negeri dan Keselamatan, Menteri Yoon Ho-jung akan menggelar pengarahan pagi itu di Kompleks Pemerintah Seoul untuk menjelaskan penerima dan standar pembayaran tahap kedua. Bantuan ini bertujuan meringankan beban akibat harga minyak tinggi, dan 70% kelompok pendapatan terbawah diketahui termasuk dalam sasaran. Kriteria penilaian rinci serta prosedur pembayaran diperkirakan akan disampaikan dalam pengarahan tersebut. Sumber: mk.co.kr"
       }
     }
   }
