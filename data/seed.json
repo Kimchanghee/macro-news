@@ -1,5 +1,230 @@
 [
   {
+    "id": "5c30a03ed0ee",
+    "slug": "우리-아이-생기부-고쳐악성-민원-학부모-안면마비-온-교감에-배상-판결-109604",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T22:08:38.940Z",
+    "updatedAt": "2026-05-12T22:08:38.940Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12045716",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12045716",
+    "titleFingerprint": "7595fef2ef000018e7e7479d4ce8c451d93e7080",
+    "dedupKeys": [
+      "5c30a03ed0ee2c08e180646269a6385f9e26c9c5",
+      "7595fef2ef000018e7e7479d4ce8c451d93e7080",
+      "99d811af7523fa98f54ebc9e740183a0e52bfe3b"
+    ],
+    "imageUrl": "/images/articles/5c30a03ed0ee.png",
+    "i18n": {
+      "ko": {
+        "title": "악성 민원 학부모 배상 판결…‘생기부 수정’ 요구에 시달린 교감, 우울증·안면마비",
+        "excerpt": "전주지법 민사부는 12일 자녀 생활기록부 수정을 요구하는 학부모의 악성 민원에 시달리다 우울증과 안면마비를 앓은 교감에게 정신적 피해를 배상해야 한다고 판단했다.",
+        "body": "전주지법 민사부(황정수 부장판사)는 자녀의 생활기록부를 고쳐 달라는 학부모의 악성 민원에 시달린 뒤 우울증과 안면마비를 앓게 된 교감에게 정신적 피해를 배상해야 한다고 판단했다. 12일 법조계에 따르면 이번 판결은 학부모 민원이 교원에게 신체적·정신적 피해로 이어진 사안에서 배상 책임을 인정한 사례다. 사건의 핵심은 반복적 민원과 그로 인한 교원의 건강 악화 사이의 책임 문제다. 판결은 학교 현장에서 교원을 상대로 한 악성 민원 대응과 피해 구제 논의에 영향을 줄 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Court Orders Parent to Pay Damages After Malicious School Complaints Left Vice Principal Ill",
+        "excerpt": "The Jeonju District Court’s civil division ruled on the 12th that a parent must compensate a vice principal who developed depression and facial paralysis after malicious complaints over school records.",
+        "body": "The civil division of the Jeonju District Court, presided over by Judge Hwang Jung-soo, ruled that a parent must compensate a vice principal for emotional damage after repeated malicious complaints demanding changes to a child’s school life record. According to the legal community on the 12th, the vice principal suffered depression and facial paralysis after being subjected to the complaints. The ruling recognizes liability in a case where parental complaints led to physical and mental harm to an educator. It is expected to affect discussions on responding to malicious complaints and providing relief for teachers in schools. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "悪質な保護者クレームに賠償判決、生活記録簿の修正要求で教頭がうつ・顔面まひ",
+        "excerpt": "全州地裁民事部は12日、子どもの生活記録簿修正を求める保護者の悪質な苦情に苦しみ、うつ病と顔面まひを患った教頭への精神的損害賠償を認めた。",
+        "body": "全州地裁民事部（黄正洙部長判事）は、子どもの生活記録簿を直すよう求める保護者の悪質な苦情に苦しんだ後、うつ病と顔面まひを患った教頭に対し、精神的被害を賠償すべきだと判断した。12日、法曹界によると、今回の判決は保護者の苦情が教員の身体的・精神的被害につながった事案で賠償責任を認めたものだ。争点は、反復的な苦情と教員の健康悪化との責任関係にあった。学校現場での悪質な苦情対応と被害救済の議論に影響を与えるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "家长恶性投诉被判赔偿：要求修改学生记录，副校长患抑郁和面瘫",
+        "excerpt": "全州地方法院民事部12日认定，一名家长因要求修改子女生活记录簿而持续恶性投诉，导致副校长患上抑郁症和面瘫，应赔偿精神损害。",
+        "body": "全州地方法院民事部（审判长黄正洙）裁定，一名家长因要求修改子女生活记录簿而进行恶性投诉，导致一名副校长随后患上抑郁症和面瘫，须赔偿其精神损害。据法律界12日消息，该判决是在家长投诉造成教师身心伤害的案件中确认赔偿责任的案例。案件核心在于反复投诉与教师健康恶化之间的责任问题。该裁判预计将影响学校现场关于应对恶性投诉以及教师受害救济的讨论。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Padre deberá indemnizar por quejas maliciosas que causaron depresión y parálisis facial a vicedirector",
+        "excerpt": "La división civil del Tribunal de Distrito de Jeonju resolvió el día 12 que un padre debe indemnizar el daño moral causado a un vicedirector tras quejas maliciosas para cambiar el expediente escolar.",
+        "body": "La división civil del Tribunal de Distrito de Jeonju, presidida por el juez Hwang Jung-soo, determinó que un padre debe indemnizar el daño moral sufrido por un vicedirector que desarrolló depresión y parálisis facial después de quejas maliciosas para modificar el registro escolar de su hijo. Según fuentes jurídicas citadas el día 12, el fallo reconoce responsabilidad en un caso donde las quejas de un padre derivaron en daños físicos y mentales a un educador. El punto central fue la relación entre las reclamaciones repetidas y el deterioro de la salud del docente. La decisión podría influir en el debate sobre la respuesta a quejas maliciosas y la reparación de daños en las escuelas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Pai deve indenizar vice-diretor após queixas maliciosas por histórico escolar causarem depressão e paralisia facial",
+        "excerpt": "A divisão cível do Tribunal Distrital de Jeonju decidiu no dia 12 que um pai deve indenizar o dano moral sofrido por um vice-diretor após queixas maliciosas para alterar registros escolares.",
+        "body": "A divisão cível do Tribunal Distrital de Jeonju, presidida pelo juiz Hwang Jung-soo, decidiu que um pai deve indenizar um vice-diretor por danos morais depois que queixas maliciosas exigindo a alteração do registro escolar de seu filho levaram o educador a sofrer depressão e paralisia facial. Segundo a comunidade jurídica no dia 12, a decisão reconhece responsabilidade em um caso em que reclamações de pais resultaram em danos físicos e mentais a um professor. O ponto central foi a relação entre as queixas repetidas e a piora da saúde do educador. O julgamento deve influenciar discussões sobre resposta a queixas maliciosas e reparação de danos nas escolas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Elternteil muss zahlen: Böswillige Beschwerden wegen Schülerakte führten zu Depression und Gesichtslähmung",
+        "excerpt": "Die Zivilkammer des Bezirksgerichts Jeonju entschied am 12., dass ein Elternteil einem stellvertretenden Schulleiter Schmerzensgeld zahlen muss, nachdem Beschwerden zur Änderung der Schülerakte gesundheitliche Schäden auslösten.",
+        "body": "Die Zivilkammer des Bezirksgerichts Jeonju unter Vorsitz von Richter Hwang Jung-soo entschied, dass ein Elternteil einem stellvertretenden Schulleiter immateriellen Schaden ersetzen muss. Der Elternteil hatte böswillige Beschwerden eingereicht und Änderungen an der Schulakte des Kindes verlangt; danach litt der Pädagoge an Depressionen und Gesichtslähmung. Nach Angaben juristischer Kreise vom 12. erkennt das Urteil Haftung in einem Fall an, in dem Beschwerden von Eltern zu körperlichen und seelischen Schäden bei einer Lehrkraft führten. Im Mittelpunkt stand die Verantwortung für wiederholte Beschwerden und die Verschlechterung der Gesundheit. Die Entscheidung dürfte Debatten über den Umgang mit böswilligen Beschwerden an Schulen beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un parent condamné à indemniser un proviseur adjoint après des plaintes malveillantes sur le dossier scolaire",
+        "excerpt": "La chambre civile du tribunal de district de Jeonju a jugé le 12 qu’un parent devait indemniser un proviseur adjoint atteint de dépression et de paralysie faciale après des plaintes malveillantes.",
+        "body": "La chambre civile du tribunal de district de Jeonju, présidée par le juge Hwang Jung-soo, a estimé qu’un parent devait indemniser le préjudice moral subi par un proviseur adjoint après des plaintes malveillantes exigeant la modification du dossier scolaire de son enfant. Selon les milieux juridiques le 12, le proviseur adjoint a souffert de dépression et de paralysie faciale après ces plaintes. Le jugement reconnaît une responsabilité dans une affaire où des réclamations parentales ont entraîné des dommages physiques et psychologiques chez un enseignant. Le point central portait sur le lien entre les plaintes répétées et la détérioration de sa santé. La décision devrait peser sur les discussions relatives aux plaintes abusives à l’école et à l’indemnisation des enseignants. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "حكم بتعويض ضد ولي أمر بسبب شكاوى كيدية لتعديل سجل طالب أصابت نائب مدير باكتئاب وشلل وجهي",
+        "excerpt": "قضت الدائرة المدنية في محكمة جيونجو الجزئية في 12 من الشهر بأن ولي أمر يجب أن يعوض نائب مدير أصيب بالاكتئاب والشلل الوجهي بعد شكاوى كيدية طلبت تعديل السجل المدرسي لابنه.",
+        "body": "قضت الدائرة المدنية في محكمة جيونجو الجزئية، برئاسة القاضي هوانغ جونغ سو، بأن ولي أمر يجب أن يدفع تعويضا عن الضرر النفسي لنائب مدير تعرض لشكاوى كيدية تطالب بتعديل سجل الحياة المدرسية لابنه، ثم أصيب بالاكتئاب والشلل الوجهي. وبحسب الأوساط القانونية في 12 من الشهر، فإن الحكم يعترف بالمسؤولية في قضية أدت فيها شكاوى أحد أولياء الأمور إلى ضرر جسدي ونفسي لمعلم. ويتمحور النزاع حول الصلة بين الشكاوى المتكررة وتدهور صحة التربوي. ومن المتوقع أن يؤثر الحكم في نقاشات المدارس بشأن التعامل مع الشكاوى الكيدية وتعويض المتضررين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "स्कूल रिकॉर्ड बदलने की मांग पर दुर्भावनापूर्ण शिकायतें, उपप्रधानाचार्य को अवसाद व चेहरे का पक्षाघात; अभिभावक पर हर्जाना",
+        "excerpt": "जोंजू जिला अदालत की दीवानी पीठ ने 12 तारीख को कहा कि बच्चे का जीवन रिकॉर्ड बदलवाने के लिए दुर्भावनापूर्ण शिकायतों से अवसाद और चेहरे के पक्षाघात का शिकार हुए उपप्रधानाचार्य को मानसिक क्षति का मुआवजा मिलना चाहिए।",
+        "body": "जोंजू जिला अदालत की दीवानी पीठ, जिसकी अध्यक्षता न्यायाधीश ह्वांग जंग-सू ने की, ने फैसला दिया कि अपने बच्चे का स्कूल जीवन रिकॉर्ड बदलने की मांग करते हुए दुर्भावनापूर्ण शिकायतें करने वाले अभिभावक को उस उपप्रधानाचार्य को मानसिक क्षति का मुआवजा देना होगा, जो बाद में अवसाद और चेहरे के पक्षाघात से पीड़ित हुआ। कानूनी जगत के अनुसार 12 तारीख को सामने आया यह फैसला ऐसे मामले में जिम्मेदारी मानता है जहां अभिभावक की शिकायतें शिक्षक को शारीरिक और मानसिक नुकसान तक ले गईं। मुद्दा दोहराई गई शिकायतों और स्वास्थ्य बिगड़ने के बीच जिम्मेदारी का था। यह फैसला स्कूलों में दुर्भावनापूर्ण शिकायतों से निपटने और 피해 राहत पर चर्चा को प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Orang Tua Wajib Ganti Rugi Setelah Keluhan Jahat soal Catatan Siswa Bikin Wakil Kepala Sekolah Sakit",
+        "excerpt": "Majelis perdata Pengadilan Distrik Jeonju pada tanggal 12 memutuskan orang tua harus mengganti kerugian mental wakil kepala sekolah yang mengalami depresi dan kelumpuhan wajah setelah keluhan jahat soal catatan sekolah anaknya.",
+        "body": "Majelis perdata Pengadilan Distrik Jeonju, dipimpin Hakim Hwang Jung-soo, memutuskan bahwa seorang orang tua harus mengganti kerugian mental kepada wakil kepala sekolah yang mengalami depresi dan kelumpuhan wajah setelah menghadapi keluhan jahat yang menuntut perubahan catatan kehidupan sekolah anaknya. Menurut kalangan hukum pada tanggal 12, putusan ini mengakui tanggung jawab dalam kasus ketika keluhan orang tua berujung pada kerugian fisik dan mental bagi pendidik. Inti perkara adalah hubungan tanggung jawab antara keluhan berulang dan memburuknya kesehatan guru. Putusan ini diperkirakan memengaruhi pembahasan di sekolah mengenai penanganan keluhan jahat dan pemulihan kerugian bagi guru. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "3d567c7dbf0b",
+    "slug": "매경이-전하는-세상의-지식-매-세-지-5월-13일-477725",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T22:07:29.673Z",
+    "updatedAt": "2026-05-12T22:07:29.673Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12044889",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12044889",
+    "titleFingerprint": "e150452485fa1608dcdf97cfbe63cee38dd63a00",
+    "dedupKeys": [
+      "3d567c7dbf0b6536b65af406dd0d579ef38aa12b",
+      "e150452485fa1608dcdf97cfbe63cee38dd63a00",
+      "2d2d454f2590379381de9348aace6b014153a0a1"
+    ],
+    "imageUrl": "/images/articles/3d567c7dbf0b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "민생회복 소비쿠폰 경제효과, 100만원당 43만원 추가 효과 언급",
+        "excerpt": "이재명 대통령은 5월 13일 매경이 전한 비상경제회의 발언에서 지난해 지급한 민생회복 소비쿠폰이 100만원당 43만원의 추가 경제효과를 냈다고 밝혔습니다.",
+        "body": "이재명 대통령은 5월 13일 매경이 전한 비상경제회의 발언에서 지난해 지급한 민생회복 소비쿠폰의 경제효과를 언급했습니다. 이 대통령은 해당 소비쿠폰이 100만원당 43만원의 추가 경제효과를 거뒀다고 말했습니다. 이 발언은 민생 지원과 재정 운용을 둘러싼 논의가 이어지는 가운데 나왔습니다. 원문 요약에 따르면 이 대통령은 이어 ‘포퓰리즘적 긴축재정 논의’에 대해서도 언급했습니다. 관련 내용은 매경의 ‘매경이 전하는 세상의 지식’ 5월 13일자에 포함됐습니다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Livelihood Recovery Coupons Added 430,000 Won per 1 Million Won, Lee Says",
+        "excerpt": "President Lee Jae-myung said at an emergency economic meeting reported by Maeil Business on May 13 that last year’s livelihood recovery coupons generated an extra 430,000 won per 1 million won.",
+        "body": "President Lee Jae-myung referred to the economic impact of last year’s livelihood recovery consumption coupons during an emergency economic meeting reported by Maeil Business on May 13. Lee said the coupons produced an additional economic effect of 430,000 won for every 1 million won distributed. The remark came as discussions continued over support for households and fiscal management. According to the original summary, Lee also mentioned debate over “populist fiscal austerity.” The item appeared in Maeil Business’s May 13 “Knowledge of the World” briefing. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "民生回復消費クーポン、100万ウォン当たり43万ウォンの追加効果",
+        "excerpt": "李在明大統領は5月13日に毎経が伝えた非常経済会議で、昨年支給した民生回復消費クーポンが100万ウォン当たり43万ウォンの追加経済効果を生んだと述べました。",
+        "body": "李在明大統領は、5月13日に毎経が伝えた非常経済会議で、昨年支給した民生回復消費クーポンの経済効果に言及しました。李大統領は、この消費クーポンが100万ウォン当たり43万ウォンの追加経済効果を上げたと述べました。この発言は、民生支援と財政運営をめぐる議論が続く中で出されました。原文要約によると、李大統領は続いて「ポピュリズム的な緊縮財政論議」にも触れました。関連内容は毎経の5月13日付「毎経が伝える世の中の知識」に含まれています。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "民生恢复消费券经济效果：每100万韩元增加43万韩元",
+        "excerpt": "据每日经济5月13日报道，李在明总统在紧急经济会议上表示，去年发放的民生恢复消费券每100万韩元带来43万韩元的追加经济效果。",
+        "body": "据每日经济5月13日报道，李在明总统在紧急经济会议上谈及去年发放的民生恢复消费券的经济效果。李总统表示，该消费券每100万韩元产生了43万韩元的追加经济效果。这一发言出现在围绕民生支持和财政运用的讨论持续进行之际。根据原文摘要，李总统随后还提到了“民粹主义式紧缩财政讨论”。相关内容收录于每日经济5月13日的“每日经济传递的世间知识”栏目。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Cupones de recuperación agregaron 430.000 wones por cada millón",
+        "excerpt": "El presidente Lee Jae-myung dijo en una reunión económica de emergencia reportada por Maeil Business el 13 de mayo que los cupones de consumo entregados el año pasado añadieron 430.000 wones por cada millón.",
+        "body": "El presidente Lee Jae-myung mencionó el impacto económico de los cupones de consumo para la recuperación del sustento durante una reunión económica de emergencia reportada por Maeil Business el 13 de mayo. Lee afirmó que esos cupones, entregados el año pasado, generaron un efecto económico adicional de 430.000 wones por cada millón de wones. La declaración se produjo mientras seguían las discusiones sobre apoyo a la población y gestión fiscal. Según el resumen original, Lee también se refirió al debate sobre “austeridad fiscal populista”. El contenido apareció en la edición del 13 de mayo de “El conocimiento del mundo que transmite Maeil Business”. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Cupons de recuperação somaram 430 mil won por cada 1 milhão",
+        "excerpt": "O presidente Lee Jae-myung afirmou em reunião econômica de emergência relatada pelo Maeil Business em 13 de maio que os cupons de consumo do ano passado geraram 430 mil won adicionais por 1 milhão.",
+        "body": "O presidente Lee Jae-myung mencionou o impacto econômico dos cupons de consumo para recuperação do sustento em uma reunião econômica de emergência relatada pelo Maeil Business em 13 de maio. Segundo Lee, os cupons distribuídos no ano passado geraram um efeito econômico adicional de 430 mil won para cada 1 milhão de won. A declaração ocorreu enquanto continuavam as discussões sobre apoio à população e gestão fiscal. De acordo com o resumo original, Lee também comentou o debate sobre “austeridade fiscal populista”. O conteúdo foi incluído na edição de 13 de maio de “Conhecimento do mundo transmitido pelo Maeil Business”. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Konsumgutscheine brachten 430.000 Won je 1 Million zusätzlich",
+        "excerpt": "Präsident Lee Jae-myung sagte laut Maeil Business am 13. Mai bei einer Notwirtschaftssitzung, die im Vorjahr ausgegebenen Konsumgutscheine hätten je 1 Million Won zusätzliche Effekte von 430.000 Won erzielt.",
+        "body": "Präsident Lee Jae-myung sprach bei einer von Maeil Business am 13. Mai berichteten Notwirtschaftssitzung über die wirtschaftliche Wirkung der im Vorjahr ausgegebenen Konsumgutscheine zur Unterstützung der Lebenshaltung. Lee sagte, die Gutscheine hätten pro 1 Million Won einen zusätzlichen wirtschaftlichen Effekt von 430.000 Won erzielt. Die Äußerung fiel, während die Debatte über Hilfen für Bürger und fiskalische Steuerung anhielt. Laut der ursprünglichen Zusammenfassung erwähnte Lee anschließend auch die Diskussion über „populistische Sparpolitik“. Der Beitrag erschien in der Maeil-Business-Rubrik „Wissen der Welt“ vom 13. Mai. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Coupons de relance: 430.000 wons ajoutés par million distribué",
+        "excerpt": "Le président Lee Jae-myung a déclaré lors d’une réunion économique d’urgence rapportée par Maeil Business le 13 mai que les coupons de consommation versés l’an dernier avaient généré 430.000 wons supplémentaires par million.",
+        "body": "Le président Lee Jae-myung a évoqué l’effet économique des coupons de consommation destinés à la reprise du pouvoir d’achat lors d’une réunion économique d’urgence rapportée par Maeil Business le 13 mai. Il a indiqué que ces coupons, versés l’an dernier, avaient produit un effet économique supplémentaire de 430.000 wons pour chaque million de wons. Cette déclaration intervient alors que les discussions se poursuivent sur le soutien aux ménages et la gestion budgétaire. Selon le résumé original, Lee a aussi mentionné le débat sur une « austérité budgétaire populiste ». Le sujet figure dans l’édition du 13 mai de « La connaissance du monde transmise par Maeil Business ». Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "قسائم إنعاش المعيشة تضيف 430 ألف وون لكل مليون وون",
+        "excerpt": "قال الرئيس لي جاي ميونغ في اجتماع اقتصادي طارئ نقلته صحيفة ماييل بيزنس في 13 مايو إن قسائم الاستهلاك التي صُرفت العام الماضي حققت أثرا اقتصاديا إضافيا قدره 430 ألف وون لكل مليون وون.",
+        "body": "تحدث الرئيس لي جاي ميونغ في اجتماع اقتصادي طارئ نقلته صحيفة ماييل بيزنس في 13 مايو عن الأثر الاقتصادي لقسائم الاستهلاك المخصصة لإنعاش المعيشة والتي صُرفت العام الماضي. وقال إن هذه القسائم حققت أثرا اقتصاديا إضافيا قدره 430 ألف وون لكل مليون وون. وجاء التصريح وسط استمرار النقاشات بشأن دعم معيشة المواطنين وإدارة المالية العامة. ووفق ملخص النص الأصلي، أشار لي أيضا إلى نقاش حول «التقشف المالي الشعبوي». وردت هذه التفاصيل في عدد 13 مايو من فقرة «معارف العالم التي تنقلها ماييل بيزنس». المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "जीविका रिकवरी कूपन से प्रति 10 लाख वॉन 4.3 लाख वॉन अतिरिक्त प्रभाव",
+        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 13 मई को माएइल बिजनेस द्वारा रिपोर्ट की गई आपात आर्थिक बैठक में कहा कि पिछले साल दिए गए जीविका रिकवरी उपभोग कूपन ने प्रति 10 लाख वॉन 4.3 लाख वॉन का अतिरिक्त आर्थिक प्रभाव पैदा किया।",
+        "body": "राष्ट्रपति ली जे-म्युंग ने 13 मई को माएइल बिजनेस द्वारा रिपोर्ट की गई आपात आर्थिक बैठक में पिछले साल दिए गए जीविका रिकवरी उपभोग कूपन के आर्थिक प्रभाव का उल्लेख किया। उन्होंने कहा कि इन कूपनों ने प्रति 10 लाख वॉन 4.3 लाख वॉन का अतिरिक्त आर्थिक प्रभाव हासिल किया। यह टिप्पणी नागरिकों के जीवनयापन समर्थन और राजकोषीय प्रबंधन पर जारी चर्चा के बीच आई। मूल सारांश के अनुसार, ली ने इसके बाद “लोकलुभावन मितव्ययी राजकोषीय नीति” से जुड़ी चर्चा का भी उल्लेख किया। यह सामग्री माएइल बिजनेस के 13 मई के “दुनिया का ज्ञान” खंड में शामिल थी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Kupon Pemulihan Hidup Beri Efek Tambahan 430 Ribu Won per 1 Juta",
+        "excerpt": "Presiden Lee Jae-myung mengatakan dalam rapat ekonomi darurat yang dilaporkan Maeil Business pada 13 Mei bahwa kupon konsumsi pemulihan hidup tahun lalu memberi efek ekonomi tambahan 430 ribu won per 1 juta won.",
+        "body": "Presiden Lee Jae-myung menyinggung dampak ekonomi kupon konsumsi pemulihan hidup dalam rapat ekonomi darurat yang dilaporkan Maeil Business pada 13 Mei. Lee mengatakan kupon yang dibagikan tahun lalu itu menghasilkan efek ekonomi tambahan sebesar 430 ribu won untuk setiap 1 juta won. Pernyataan ini muncul saat pembahasan mengenai dukungan bagi kehidupan masyarakat dan pengelolaan fiskal terus berlangsung. Menurut ringkasan asli, Lee juga menyebut perdebatan tentang “pengetatan fiskal populistis”. Isi tersebut dimuat dalam edisi 13 Mei “Pengetahuan Dunia yang Disampaikan Maeil Business”. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "f766d7bdeef2",
+    "slug": "규칙의-시대에서-원칙의-시대로-금융보안의-패러다임-시프트-김앤장-핀테크가상자산-인사이트-269686",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T22:06:27.616Z",
+    "updatedAt": "2026-05-12T22:06:27.616Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12045121",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12045121",
+    "titleFingerprint": "fbffc165c59f54adc0247545d1ab3d59e89ae09e",
+    "dedupKeys": [
+      "f766d7bdeef2a3ad8e3572ee512065fc8770c5ef",
+      "fbffc165c59f54adc0247545d1ab3d59e89ae09e",
+      "26a58e2a3659df160d29ea35908a80a09bfeef55"
+    ],
+    "imageUrl": "/images/articles/f766d7bdeef2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "금융보안, 규칙에서 원칙으로 전환…금감원 패러다임 변화 주목",
+        "excerpt": "김동일 김앤장 법률사무소 변호사는 최근 금융권 IT·보안사고 이후 금융감독원이 4월 7일 제시한 금융보안 패러다임 전환을 짚었다.",
+        "body": "최근 금융권에서 잇따른 IT·보안사고가 발생하면서 금융회사와 규제당국 모두 금융보안 체계에 대한 긴장감을 높이고 있다. 김동일 김앤장 법률사무소 변호사는 이 같은 흐름 속에서 금융감독원이 지난 4월 7일 발표한 ‘금융보안 패러다임’ 관련 논의를 주목했다. 핵심은 세부 규칙 중심의 관리에서 원칙 중심의 보안 체계로 무게가 이동하고 있다는 점이다. 이는 금융회사가 사고 예방과 대응 역량을 스스로 점검하고, 규제당국 역시 보안 관리 방식의 변화를 검토하는 계기가 될 수 있다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "Financial Security Shifts From Rules to Principles as FSS Move Draws Attention",
+        "excerpt": "Kim Dong-il, attorney at Kim & Chang, reviewed the financial security paradigm shift presented by the Financial Supervisory Service on April 7 after recent IT and security incidents.",
+        "body": "A series of recent IT and security incidents in South Korea’s financial sector has heightened concern among both financial companies and regulators. Against this backdrop, Kim Dong-il, attorney at Kim & Chang, focused on the discussion around the “financial security paradigm” announced by the Financial Supervisory Service on April 7. The key point is a shift in emphasis from detailed rule-based management toward a principles-based security framework. This could prompt financial firms to reassess their own prevention and response capabilities, while also giving regulators an opportunity to review changes in security oversight. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "金融セキュリティ、規則から原則へ転換…金融監督院の動きに注目",
+        "excerpt": "金・張法律事務所のキム・ドンイル弁護士は、最近の金融圏IT・セキュリティ事故を受け、金融監督院が4月7日に示した金融セキュリティのパラダイム転換を取り上げた。",
+        "body": "最近、金融圏で相次いだIT・セキュリティ事故により、金融会社だけでなく規制当局も金融セキュリティ体制への緊張感を高めている。金・張法律事務所のキム・ドンイル弁護士は、こうした流れの中で金融監督院が4月7日に発表した「金融セキュリティのパラダイム」に関する議論に注目した。核心は、細かな規則中心の管理から原則中心のセキュリティ体制へ重心が移っている点だ。これは金融会社が事故予防と対応能力を自ら点検し、規制当局もセキュリティ管理方式の変化を検討する契機になり得る。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "金融安全从规则走向原则：金融监督院范式转变受关注",
+        "excerpt": "金·张律师事务所律师金东一指出，近期金融业IT和安全事故后，金融监督院于4月7日提出的金融安全范式转变值得关注。",
+        "body": "近期金融业接连发生IT和安全事故，使金融公司以及监管机构都提高了对金融安全体系的警觉。金·张律师事务所律师金东一在这一背景下，关注了金融监督院4月7日发布的有关“金融安全范式”的讨论。其核心在于，管理重点正从以细化规则为中心，转向以原则为中心的安全体系。这可能促使金融公司自行检查事故预防和应对能力，也可能成为监管机构审视安全管理方式变化的契机。出处：引用mk.co.kr。"
+      },
+      "es": {
+        "title": "Seguridad financiera pasa de reglas a principios: atención al giro del supervisor",
+        "excerpt": "Kim Dong-il, abogado de Kim & Chang, analizó el cambio de paradigma en seguridad financiera presentado el 7 de abril por el supervisor tras recientes incidentes de TI y seguridad.",
+        "body": "Una serie de recientes incidentes de TI y seguridad en el sector financiero ha elevado la tensión tanto entre las entidades financieras como entre los reguladores. En este contexto, Kim Dong-il, abogado de Kim & Chang, puso el foco en el debate sobre el “paradigma de seguridad financiera” anunciado por el Servicio de Supervisión Financiera el 7 de abril. El punto central es el desplazamiento desde una gestión basada en reglas detalladas hacia un marco de seguridad basado en principios. Esto puede llevar a las entidades financieras a revisar por sí mismas su capacidad de prevención y respuesta, y dar a los reguladores una base para considerar cambios en la supervisión de la seguridad. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Segurança financeira passa de regras a princípios em mudança observada pelo regulador",
+        "excerpt": "Kim Dong-il, advogado da Kim & Chang, analisou a mudança de paradigma em segurança financeira apresentada em 7 de abril pelo supervisor após recentes incidentes de TI e segurança.",
+        "body": "Uma série recente de incidentes de TI e segurança no setor financeiro elevou a atenção de empresas financeiras e autoridades reguladoras sobre os sistemas de segurança. Nesse contexto, Kim Dong-il, advogado da Kim & Chang, destacou a discussão sobre o “paradigma de segurança financeira” anunciada pelo Serviço de Supervisão Financeira em 7 de abril. O ponto central é a passagem de uma gestão baseada em regras detalhadas para uma estrutura de segurança baseada em princípios. Isso pode levar as instituições financeiras a revisar suas capacidades de prevenção e resposta, ao mesmo tempo em que oferece aos reguladores uma oportunidade de avaliar mudanças na forma de gestão da segurança. Fonte: citado de mk.co.kr."
+      },
+      "de": {
+        "title": "Finanzsicherheit wechselt von Regeln zu Prinzipien: Aufsicht rückt in den Fokus",
+        "excerpt": "Kim Dong-il, Anwalt bei Kim & Chang, beleuchtete den Paradigmenwechsel der Finanzsicherheit, den die Aufsicht am 7. April nach jüngsten IT- und Sicherheitsvorfällen vorstellte.",
+        "body": "Eine Reihe jüngster IT- und Sicherheitsvorfälle im Finanzsektor hat sowohl Finanzunternehmen als auch Regulierungsbehörden in erhöhte Aufmerksamkeit versetzt. Vor diesem Hintergrund befasste sich Kim Dong-il, Anwalt bei Kim & Chang, mit der Diskussion über das am 7. April von der Finanzaufsicht angekündigte „Paradigma der Finanzsicherheit“. Im Kern geht es um eine Verlagerung von einer Verwaltung nach detaillierten Regeln hin zu einem prinzipienbasierten Sicherheitsrahmen. Dies kann Finanzunternehmen dazu veranlassen, ihre Fähigkeiten zur Vorbeugung und Reaktion selbst zu überprüfen, und den Aufsichtsbehörden Anlass geben, Änderungen im Sicherheitsmanagement zu prüfen. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "Sécurité financière : des règles aux principes, le virage du superviseur scruté",
+        "excerpt": "Kim Dong-il, avocat chez Kim & Chang, a analysé le changement de paradigme en sécurité financière présenté le 7 avril par le superviseur après de récents incidents informatiques et de sécurité.",
+        "body": "Une série récente d’incidents informatiques et de sécurité dans le secteur financier a accru la vigilance des sociétés financières comme des autorités de régulation. Dans ce contexte, Kim Dong-il, avocat chez Kim & Chang, a mis l’accent sur la discussion autour du « paradigme de sécurité financière » annoncé le 7 avril par le Service de supervision financière. Le point clé est le déplacement d’une gestion centrée sur des règles détaillées vers un cadre de sécurité fondé sur des principes. Cela pourrait conduire les sociétés financières à réexaminer elles-mêmes leurs capacités de prévention et de réponse, tout en offrant aux régulateurs l’occasion d’envisager une évolution de la gestion de la sécurité. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "الأمن المالي ينتقل من القواعد إلى المبادئ مع تركيز على خطوة الرقابة",
+        "excerpt": "تناول المحامي كيم دونغ-إيل من مكتب كيم آند تشانغ تحول نموذج الأمن المالي الذي طرحته هيئة الرقابة المالية في 7 أبريل بعد حوادث تقنية وأمنية حديثة.",
+        "body": "أدت سلسلة من حوادث تقنية المعلومات والأمن التي وقعت مؤخرا في القطاع المالي إلى رفع مستوى القلق لدى الشركات المالية والجهات التنظيمية على حد سواء. وفي هذا السياق، ركز المحامي كيم دونغ-إيل من مكتب كيم آند تشانغ على النقاش المتعلق بـ«نموذج الأمن المالي» الذي أعلنته هيئة الرقابة المالية في 7 أبريل. وتتمثل النقطة الأساسية في انتقال الثقل من إدارة قائمة على قواعد تفصيلية إلى إطار أمني قائم على المبادئ. وقد يدفع ذلك الشركات المالية إلى مراجعة قدراتها الذاتية في الوقاية من الحوادث والاستجابة لها، كما يمنح الجهات التنظيمية فرصة للنظر في تغييرات أسلوب إدارة الأمن. المصدر: نقلا عن mk.co.kr."
+      },
+      "hi": {
+        "title": "वित्तीय सुरक्षा नियमों से सिद्धांतों की ओर, नियामक बदलाव पर ध्यान",
+        "excerpt": "किम एंड चांग के वकील किम डोंग-इल ने हालिया आईटी और सुरक्षा घटनाओं के बाद वित्तीय पर्यवेक्षण सेवा द्वारा 7 अप्रैल को रखे गए वित्तीय सुरक्षा प्रतिमान बदलाव पर प्रकाश डाला।",
+        "body": "वित्तीय क्षेत्र में हाल में हुई आईटी और सुरक्षा घटनाओं की श्रृंखला ने वित्तीय कंपनियों और नियामक अधिकारियों, दोनों की चिंता बढ़ा दी है। इसी पृष्ठभूमि में किम एंड चांग लॉ ऑफिस के वकील किम डोंग-इल ने वित्तीय पर्यवेक्षण सेवा द्वारा 7 अप्रैल को घोषित “वित्तीय सुरक्षा प्रतिमान” से जुड़ी चर्चा पर ध्यान दिया। मुख्य बात यह है कि जोर विस्तृत नियमों पर आधारित प्रबंधन से हटकर सिद्धांत-आधारित सुरक्षा ढांचे की ओर जा रहा है। इससे वित्तीय कंपनियां दुर्घटना रोकथाम और प्रतिक्रिया क्षमता की स्वयं समीक्षा कर सकती हैं, और नियामकों को भी सुरक्षा प्रबंधन के तरीके में बदलाव पर विचार करने का अवसर मिल सकता है। स्रोत: mk.co.kr से उद्धृत।"
+      },
+      "id": {
+        "title": "Keamanan Keuangan Bergeser dari Aturan ke Prinsip, Langkah FSS Disorot",
+        "excerpt": "Kim Dong-il, pengacara Kim & Chang, menyoroti perubahan paradigma keamanan keuangan yang disampaikan regulator pada 7 April setelah insiden TI dan keamanan terbaru.",
+        "body": "Serangkaian insiden TI dan keamanan yang baru-baru ini terjadi di sektor keuangan telah meningkatkan kewaspadaan perusahaan keuangan maupun otoritas regulasi. Dalam konteks ini, Kim Dong-il, pengacara di Kim & Chang, menyoroti pembahasan mengenai “paradigma keamanan keuangan” yang diumumkan oleh Layanan Pengawas Keuangan pada 7 April. Intinya adalah pergeseran dari pengelolaan berbasis aturan rinci menuju kerangka keamanan berbasis prinsip. Hal ini dapat mendorong perusahaan keuangan untuk memeriksa sendiri kemampuan pencegahan dan respons terhadap insiden, sekaligus memberi regulator kesempatan meninjau perubahan dalam cara pengelolaan keamanan. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "f298d6ea0a03",
     "slug": "10대-여성-환자-사지-묵고-얼굴-폭행가혹행위-정신병원-보호사들-결국-657671",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Sekolah khusus di Xuzhou China menuai kontroversi karena wajib bawa boneka",
         "excerpt": "Sekolah Pendidikan Khusus Yuanzhong di Xuzhou, Jiangsu, China, menjadi sorotan setelah mewajibkan siswa membawa boneka sepanjang waktu sekolah.",
         "body": "Sekolah Pendidikan Khusus Yuanzhong di Xuzhou, Provinsi Jiangsu, China timur, menuai kontroversi setelah diketahui mewajibkan siswa membawa boneka sepanjang waktu mereka berada di sekolah. Sekolah ini disebut sebagai lembaga pendidikan khusus yang mengajar siswa yang di masyarakat disebut sebagai “anak bermasalah”. Metode tersebut dilaporkan berkaitan dengan gagasan bahwa seseorang baru memahami hati orang tua setelah membesarkan anak. Namun, muncul pertanyaan apakah meminta siswa terus membawa boneka merupakan cara pendidikan yang tepat. Kontroversi ini memicu perhatian pada batas antara tujuan pendidikan, hak siswa, dan metode pembinaan dalam pendidikan khusus. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "70639606db01",
-    "slug": "포토-장미터널-보러오세요-736303",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T06:00:50.285Z",
-    "updatedAt": "2026-05-12T06:00:50.285Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12044655",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12044655",
-    "titleFingerprint": "aad440a2ef48b3adb0c8fe38227e230c8a5441ba",
-    "dedupKeys": [
-      "70639606db019cfd426852547fe63bf8923ee8ee",
-      "aad440a2ef48b3adb0c8fe38227e230c8a5441ba",
-      "6463c03d429803fd2861cba426aac143118c1782"
-    ],
-    "imageUrl": "/images/articles/70639606db01.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중랑 서울장미축제 앞두고 장미터널 찾은 시민들",
-        "excerpt": "제18회 중랑 서울장미축제 개막을 앞둔 2026년 5월 12일, 서울 중랑구 중랑장미카페 인근 장미터널에서 시민들이 꽃구경을 즐겼다.",
-        "body": "제18회 중랑 서울장미축제 개막을 앞둔 2026년 5월 12일, 서울 중랑구 중랑장미카페 인근 장미터널에서 시민들이 장미를 감상하며 꽃구경을 하고 있다. 현장은 축제 개막 전부터 장미터널을 찾은 방문객들의 발길이 이어지는 모습이었다. 중랑 서울장미축제는 올해 18회를 맞는 행사로, 개막을 앞둔 시점에 장미가 핀 공간이 시민들의 관심을 끌고 있다. 사진은 이승환 기자가 촬영했으며, 해당 장면은 mk.co.kr 보도에 실렸다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Jungnang Seoul Rose Festival Nears as Visitors Enjoy Rose Tunnel",
-        "excerpt": "On May 12, 2026, ahead of the 18th Jungnang Seoul Rose Festival, citizens viewed flowers at the rose tunnel near Jungnang Rose Cafe in Jungnang-gu, Seoul.",
-        "body": "On May 12, 2026, ahead of the opening of the 18th Jungnang Seoul Rose Festival, citizens were seen enjoying flowers at the rose tunnel near Jungnang Rose Cafe in Jungnang-gu, Seoul. The scene showed visitors arriving before the festival opening to view the blooming roses. The Jungnang Seoul Rose Festival marks its 18th edition this year, and the rose-filled tunnel is drawing public attention in advance of the event. The photo was taken by reporter Lee Seung-hwan and published by mk.co.kr. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "中浪ソウルバラ祭り開幕前、バラトンネルに市民の姿",
-        "excerpt": "第18回中浪ソウルバラ祭りの開幕を控えた2026年5月12日、ソウル中浪区の中浪バラカフェ付近のバラトンネルで市民が花見を楽しんだ。",
-        "body": "第18回中浪ソウルバラ祭りの開幕を控えた2026年5月12日、ソウル中浪区の中浪バラカフェ付近にあるバラトンネルで、市民がバラを眺めながら花見をしている。現場では、祭りの開幕前からバラトンネルを訪れる人々の姿が見られた。中浪ソウルバラ祭りは今年で18回目を迎える行事で、開幕を前にバラが咲いた空間が市民の関心を集めている。写真はイ・スンファン記者が撮影し、mk.co.krで報じられた。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "中浪首尔玫瑰节开幕在即 市民走进玫瑰隧道赏花",
-        "excerpt": "2026年5月12日，在第18届中浪首尔玫瑰节开幕前，市民来到首尔中浪区中浪玫瑰咖啡馆附近的玫瑰隧道赏花。",
-        "body": "2026年5月12日，在第18届中浪首尔玫瑰节开幕前，市民在首尔中浪区中浪玫瑰咖啡馆附近的玫瑰隧道中观赏盛开的玫瑰。现场可见，节日尚未开幕，已有游客前来玫瑰隧道赏花。中浪首尔玫瑰节今年迎来第18届，开幕前盛放的玫瑰空间吸引了市民关注。该照片由记者李承焕拍摄，并刊登于mk.co.kr。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Festival de Rosas de Jungnang: vecinos visitan el túnel floral",
-        "excerpt": "El 12 de mayo de 2026, antes de la apertura del 18.º Festival de Rosas de Jungnang en Seúl, ciudadanos observaron flores en el túnel de rosas de Jungnang-gu.",
-        "body": "El 12 de mayo de 2026, antes de la apertura del 18.º Festival de Rosas de Jungnang en Seúl, ciudadanos disfrutaron de las flores en el túnel de rosas situado cerca del Jungnang Rose Cafe, en Jungnang-gu, Seúl. La escena mostró a visitantes acercándose al lugar incluso antes del inicio del festival para contemplar las rosas. El Festival de Rosas de Jungnang en Seúl celebra este año su 18.ª edición, y el túnel cubierto de rosas atrae la atención de los ciudadanos antes de la inauguración. La fotografía fue tomada por el reportero Lee Seung-hwan y publicada por mk.co.kr. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Festival das Rosas de Jungnang se aproxima com visitas ao túnel",
-        "excerpt": "Em 12 de maio de 2026, antes da abertura do 18.º Festival das Rosas de Jungnang em Seul, cidadãos observaram flores no túnel de rosas em Jungnang-gu.",
-        "body": "Em 12 de maio de 2026, antes da abertura do 18.º Festival das Rosas de Jungnang em Seul, cidadãos foram vistos apreciando flores no túnel de rosas perto do Jungnang Rose Cafe, em Jungnang-gu, Seul. A cena mostrou visitantes chegando ao local antes mesmo da abertura do festival para ver as rosas. O Festival das Rosas de Jungnang em Seul chega neste ano à sua 18.ª edição, e o espaço florido do túnel vem chamando a atenção dos cidadãos antes do evento. A foto foi registrada pelo repórter Lee Seung-hwan e publicada por mk.co.kr. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Jungnang Seoul Rose Festival naht: Bürger besuchen Rosentunnel",
-        "excerpt": "Am 12. Mai 2026, vor der Eröffnung des 18. Jungnang Seoul Rose Festival, betrachteten Bürger Blumen im Rosentunnel nahe dem Jungnang Rose Cafe in Seoul.",
-        "body": "Am 12. Mai 2026, vor der Eröffnung des 18. Jungnang Seoul Rose Festival, betrachteten Bürger Rosen im Rosentunnel nahe dem Jungnang Rose Cafe im Seouler Bezirk Jungnang-gu. Die Szene zeigte Besucher, die bereits vor dem Festivalstart zum Rosentunnel kamen, um die Blüten zu sehen. Das Jungnang Seoul Rose Festival findet in diesem Jahr zum 18. Mal statt, und der mit Rosen gefüllte Bereich zieht vor der Eröffnung die Aufmerksamkeit der Bürger auf sich. Das Foto wurde von Reporter Lee Seung-hwan aufgenommen und von mk.co.kr veröffentlicht. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Festival des roses de Jungnang: le tunnel attire déjà les visiteurs",
-        "excerpt": "Le 12 mai 2026, avant l’ouverture du 18e Festival des roses de Jungnang à Séoul, des citoyens ont admiré les fleurs dans le tunnel de roses de Jungnang-gu.",
-        "body": "Le 12 mai 2026, avant l’ouverture du 18e Festival des roses de Jungnang à Séoul, des citoyens ont admiré les fleurs dans le tunnel de roses situé près du Jungnang Rose Cafe, dans l’arrondissement de Jungnang-gu à Séoul. La scène montre des visiteurs venus avant même le lancement du festival pour observer les roses. Le Festival des roses de Jungnang à Séoul célèbre cette année sa 18e édition, et l’espace fleuri du tunnel retient l’attention des citoyens à l’approche de l’ouverture. La photo a été prise par le journaliste Lee Seung-hwan et publiée par mk.co.kr. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "مهرجان الورود في جونغنانغ يقترب والزوار يتوافدون إلى النفق",
-        "excerpt": "في 12 مايو 2026، وقبل افتتاح الدورة الـ18 من مهرجان جونغنانغ للورود في سول، شاهد مواطنون الزهور في نفق الورود قرب مقهى جونغنانغ روز.",
-        "body": "في 12 مايو 2026، وقبل افتتاح الدورة الثامنة عشرة من مهرجان جونغنانغ للورود في سول، شوهد مواطنون يستمتعون بمشاهدة الورود في نفق الورود القريب من مقهى جونغنانغ روز في حي جونغنانغ بسول. ويظهر المشهد توافد زوار إلى النفق قبل انطلاق المهرجان لمشاهدة الزهور. ويقام مهرجان جونغنانغ للورود في سول هذا العام في دورته الثامنة عشرة، فيما يجذب النفق المليء بالورود اهتمام المواطنين قبيل الافتتاح. التقط الصورة المراسل لي سونغ هوان ونشرتها mk.co.kr. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "जुंगनांग सियोल रोज फेस्टिवल से पहले रोज टनल में पहुंचे नागरिक",
-        "excerpt": "18वें जुंगनांग सियोल रोज फेस्टिवल के उद्घाटन से पहले 12 मई 2026 को सियोल के जुंगनांग-गु में रोज कैफे के पास नागरिकों ने रोज टनल में फूल देखे।",
-        "body": "18वें जुंगनांग सियोल रोज फेस्टिवल के उद्घाटन से पहले 12 मई 2026 को सियोल के जुंगनांग-गु स्थित जुंगनांग रोज कैफे के पास रोज टनल में नागरिक गुलाबों को देखते हुए फूलों का आनंद लेते नजर आए। दृश्य में festival शुरू होने से पहले ही रोज टनल में आने वाले आगंतुकों की मौजूदगी दिखाई दी। जुंगनांग सियोल रोज फेस्टिवल इस वर्ष अपनी 18वीं कड़ी में है, और उद्घाटन से पहले गुलाबों से भरा यह स्थान नागरिकों का ध्यान खींच रहा है। तस्वीर रिपोर्टर ली सेउंग-ह्वान ने ली और mk.co.kr पर प्रकाशित हुई। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Festival Mawar Jungnang Seoul Menjelang Dibuka, Warga Kunjungi Terowongan",
-        "excerpt": "Pada 12 Mei 2026, menjelang pembukaan Festival Mawar Jungnang Seoul ke-18, warga menikmati bunga di terowongan mawar dekat Jungnang Rose Cafe, Jungnang-gu.",
-        "body": "Pada 12 Mei 2026, menjelang pembukaan Festival Mawar Jungnang Seoul ke-18, warga terlihat menikmati bunga di terowongan mawar dekat Jungnang Rose Cafe di Jungnang-gu, Seoul. Suasana tersebut menunjukkan pengunjung datang ke terowongan mawar bahkan sebelum festival dibuka untuk melihat bunga yang bermekaran. Festival Mawar Jungnang Seoul tahun ini memasuki penyelenggaraan ke-18, dan area terowongan yang dipenuhi mawar menarik perhatian warga menjelang acara. Foto diambil oleh reporter Lee Seung-hwan dan dimuat oleh mk.co.kr. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "b63e314397dc",
-    "slug": "lg전자-나이지리아에-무료-세탁시설-선물-912288",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T05:59:45.231Z",
-    "updatedAt": "2026-05-12T05:59:45.231Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044664",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044664",
-    "titleFingerprint": "8a7f49adb67cdadc9d4eb6c1dd1484ef560f53c9",
-    "dedupKeys": [
-      "b63e314397dceceb82233f36b8337d3dcca214e4",
-      "8a7f49adb67cdadc9d4eb6c1dd1484ef560f53c9",
-      "868138e4706836bd7c9594adc2007bfa62f9a8c4"
-    ],
-    "imageUrl": "/images/articles/b63e314397dc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG전자 나이지리아 무료 세탁시설 지원, 태양광 식수 시설도 구축",
-        "excerpt": "LG전자가 최근 나이지리아 아비아주 아바와 이모주 오웨리 지역에 이동식 무료 세탁시설과 태양광 기반 식수 시설을 마련하며 지역 밀착 사회공헌을 확대했다.",
-        "body": "LG전자가 최근 나이지리아 아비아주 아바 지역과 이모주 오웨리 지역에 이동식 무료 세탁시설을 선물하고 태양광 기반 식수 시설을 구축했다. 이번 지원은 현지 주민의 생활 편의를 높이고 기본적인 위생·식수 환경을 돕기 위한 지역 밀착형 사회공헌 활동이다. 원문에 따르면 LG전자는 나이지리아에서 무료 세탁 지원과 식수 시설 구축을 함께 추진하며 사회공헌 범위를 넓히고 있다. 이동식 세탁시설은 세탁 접근성을 높이고, 태양광 기반 식수 시설은 전력 여건과 생활 인프라가 제한된 지역에서 활용될 수 있다. 이번 활동은 현지 주민을 직접 지원하는 방식의 기업 사회공헌 사례로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Electronics Supports Free Laundry Facilities in Nigeria and Solar Water Access",
-        "excerpt": "LG Electronics recently provided mobile free laundry facilities and solar-powered drinking water systems in Aba, Abia State, and Owerri, Imo State, expanding local community support.",
-        "body": "LG Electronics recently donated mobile free laundry facilities and built solar-powered drinking water systems in Aba, Abia State, and Owerri, Imo State, Nigeria. The support is a community-focused social contribution aimed at improving daily convenience for local residents and helping basic hygiene and drinking water conditions. According to the source, LG Electronics is expanding its social contribution activities in Nigeria by combining free laundry support with drinking water facility construction. The mobile laundry facilities can improve access to washing services, while the solar-based water systems can be used in areas with limited power and living infrastructure. The initiative draws attention as a corporate social responsibility effort that directly supports local residents. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LG電子、ナイジェリアで無料洗濯施設を支援し太陽光飲料水設備も構築",
-        "excerpt": "LG電子は最近、ナイジェリアのアビア州アバ地域とイモ州オウェリ地域に移動式無料洗濯施設と太陽光基盤の飲料水設備を整備した。",
-        "body": "LG電子は最近、ナイジェリアのアビア州アバ地域とイモ州オウェリ地域に移動式無料洗濯施設を寄贈し、太陽光基盤の飲料水設備を構築した。今回の支援は、現地住民の生活利便性を高め、基本的な衛生環境と飲料水環境を助けるための地域密着型の社会貢献活動だ。原文によると、LG電子はナイジェリアで無料洗濯支援と飲料水設備の構築を同時に進め、社会貢献の範囲を広げている。移動式洗濯施設は洗濯サービスへのアクセスを高め、太陽光基盤の飲料水設備は電力事情や生活インフラが限られた地域で活用できる。今回の活動は、現地住民を直接支援する企業の社会貢献事例として注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG电子在尼日利亚援建免费洗衣设施，并建设太阳能饮水设施",
-        "excerpt": "LG电子近日在尼日利亚阿比亚州阿巴地区和伊莫州奥韦里地区设置移动式免费洗衣设施，并建设太阳能饮水设施，扩大本地化公益活动。",
-        "body": "LG电子近日向尼日利亚阿比亚州阿巴地区和伊莫州奥韦里地区捐赠移动式免费洗衣设施，并建设太阳能饮水设施。此次支持是贴近当地社区的社会贡献活动，旨在提升当地居民生活便利，并帮助改善基本卫生和饮用水环境。据原文称，LG电子在尼日利亚同时推进免费洗衣支持和饮水设施建设，扩大社会贡献范围。移动式洗衣设施可提高居民获得洗衣服务的便利性，太阳能饮水设施则可在电力条件和生活基础设施有限的地区使用。此次活动作为直接支持当地居民的企业社会责任案例受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LG Electronics apoya lavanderías gratuitas en Nigeria y agua con energía solar",
-        "excerpt": "LG Electronics instaló recientemente lavanderías móviles gratuitas y sistemas de agua potable con energía solar en Aba, estado de Abia, y Owerri, estado de Imo, Nigeria.",
-        "body": "LG Electronics donó recientemente instalaciones móviles de lavandería gratuita y construyó sistemas de agua potable basados en energía solar en Aba, estado de Abia, y Owerri, estado de Imo, Nigeria. El apoyo forma parte de una acción social cercana a la comunidad local para mejorar la comodidad diaria de los residentes y ayudar en condiciones básicas de higiene y agua potable. Según el texto original, LG Electronics está ampliando sus actividades de contribución social en Nigeria al impulsar al mismo tiempo apoyo de lavandería gratuita y construcción de instalaciones de agua. Las lavanderías móviles pueden mejorar el acceso al lavado, mientras que los sistemas solares de agua pueden utilizarse en zonas con suministro eléctrico e infraestructura limitados. La iniciativa destaca como un caso de responsabilidad social empresarial con apoyo directo a residentes locales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LG Electronics leva lavanderia gratuita à Nigéria e instala água solar",
-        "excerpt": "A LG Electronics instalou recentemente lavanderias móveis gratuitas e sistemas de água potável movidos a energia solar em Aba, no estado de Abia, e Owerri, no estado de Imo.",
-        "body": "A LG Electronics doou recentemente lavanderias móveis gratuitas e construiu sistemas de água potável baseados em energia solar em Aba, no estado de Abia, e em Owerri, no estado de Imo, na Nigéria. O apoio faz parte de uma ação social próxima das comunidades locais, voltada a melhorar a conveniência diária dos moradores e ajudar nas condições básicas de higiene e acesso à água potável. Segundo o texto original, a LG Electronics está ampliando suas atividades de contribuição social na Nigéria ao promover, em conjunto, apoio gratuito à lavagem de roupas e construção de instalações de água. As lavanderias móveis podem ampliar o acesso ao serviço de lavagem, enquanto os sistemas solares de água podem ser usados em áreas com energia e infraestrutura limitadas. A iniciativa chama atenção como exemplo de responsabilidade social empresarial com apoio direto aos moradores locais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG Electronics unterstützt Gratis-Wäschereien in Nigeria und Solar-Trinkwasser",
-        "excerpt": "LG Electronics hat jüngst in Aba im Bundesstaat Abia und Owerri im Bundesstaat Imo mobile kostenlose Wäschereien sowie solarbetriebene Trinkwasseranlagen eingerichtet.",
-        "body": "LG Electronics hat jüngst in Aba im Bundesstaat Abia und in Owerri im Bundesstaat Imo in Nigeria mobile kostenlose Wäschereien gespendet und solarbetriebene Trinkwasseranlagen gebaut. Die Unterstützung ist eine lokal ausgerichtete soziale Maßnahme, die den Alltag der Anwohner erleichtern und grundlegende Hygiene- sowie Trinkwasserbedingungen verbessern soll. Laut Ausgangstext erweitert LG Electronics in Nigeria seine gesellschaftlichen Beiträge, indem kostenlose Wäschehilfe und der Bau von Wasseranlagen gemeinsam vorangetrieben werden. Die mobilen Wäschereien können den Zugang zu Waschmöglichkeiten verbessern, während die solarbasierten Trinkwasseranlagen in Regionen mit begrenzter Stromversorgung und Infrastruktur genutzt werden können. Die Aktion gilt als Beispiel unternehmerischer Sozialverantwortung mit direkter Unterstützung für lokale Bewohner. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LG Electronics soutient des laveries gratuites au Nigeria et l’eau solaire",
-        "excerpt": "LG Electronics a récemment installé des laveries mobiles gratuites et des systèmes d’eau potable à énergie solaire à Aba, dans l’État d’Abia, et à Owerri, dans l’État d’Imo.",
-        "body": "LG Electronics a récemment offert des laveries mobiles gratuites et construit des systèmes d’eau potable à énergie solaire à Aba, dans l’État d’Abia, et à Owerri, dans l’État d’Imo, au Nigeria. Ce soutien relève d’une action sociale de proximité destinée à améliorer le confort quotidien des habitants et à aider les conditions de base en matière d’hygiène et d’eau potable. Selon le texte original, LG Electronics élargit ses activités de contribution sociale au Nigeria en menant à la fois un soutien gratuit au lavage du linge et la construction d’installations d’eau. Les laveries mobiles peuvent améliorer l’accès au lavage, tandis que les systèmes d’eau solaires peuvent être utilisés dans des zones où l’électricité et les infrastructures de vie sont limitées. Cette initiative retient l’attention comme un exemple de responsabilité sociale d’entreprise apportant un soutien direct aux résidents locaux. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إل جي تدعم مرافق غسيل مجانية في نيجيريا وتبني مياه شرب بالطاقة الشمسية",
-        "excerpt": "قدمت إل جي إلكترونيكس مؤخرا مرافق غسيل متنقلة مجانية وأنظمة مياه شرب تعمل بالطاقة الشمسية في أبا بولاية أبيا وأويري بولاية إيمو في نيجيريا.",
-        "body": "قدمت إل جي إلكترونيكس مؤخرا مرافق غسيل متنقلة مجانية وبنت أنظمة مياه شرب تعتمد على الطاقة الشمسية في منطقة أبا بولاية أبيا ومنطقة أويري بولاية إيمو في نيجيريا. ويأتي هذا الدعم ضمن نشاط للمسؤولية الاجتماعية قريب من المجتمع المحلي، بهدف تحسين راحة السكان اليومية والمساعدة في ظروف النظافة الأساسية ومياه الشرب. ووفقا للنص الأصلي، توسع إل جي إلكترونيكس نطاق مساهماتها الاجتماعية في نيجيريا من خلال الجمع بين دعم الغسيل المجاني وبناء مرافق مياه الشرب. ويمكن لمرافق الغسيل المتنقلة تحسين الوصول إلى خدمات الغسيل، بينما يمكن استخدام أنظمة المياه الشمسية في المناطق التي تعاني محدودية الكهرباء والبنية التحتية المعيشية. وتلفت هذه المبادرة الانتباه بوصفها مثالا على مسؤولية الشركات الاجتماعية التي تدعم السكان المحليين مباشرة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG Electronics ने नाइजीरिया में मुफ्त लॉन्ड्री और सौर पेयजल सुविधा दी",
-        "excerpt": "LG Electronics ने हाल में नाइजीरिया के अबिया राज्य के आबा और इमो राज्य के ओवेरी क्षेत्रों में मोबाइल मुफ्त लॉन्ड्री और सौर ऊर्जा आधारित पेयजल सुविधाएं स्थापित कीं।",
-        "body": "LG Electronics ने हाल में नाइजीरिया के अबिया राज्य के आबा क्षेत्र और इमो राज्य के ओवेरी क्षेत्र में मोबाइल मुफ्त लॉन्ड्री सुविधाएं दीं और सौर ऊर्जा आधारित पेयजल सुविधाएं बनाईं। यह सहायता स्थानीय समुदाय से जुड़ी सामाजिक योगदान गतिविधि है, जिसका उद्देश्य निवासियों की दैनिक सुविधा बढ़ाना और बुनियादी स्वच्छता तथा पेयजल परिस्थितियों में मदद करना है। मूल पाठ के अनुसार, LG Electronics नाइजीरिया में मुफ्त लॉन्ड्री सहायता और पेयजल सुविधा निर्माण को साथ आगे बढ़ाते हुए अपने सामाजिक योगदान का दायरा बढ़ा रही है। मोबाइल लॉन्ड्री सुविधाएं कपड़े धोने की सेवाओं तक पहुंच बढ़ा सकती हैं, जबकि सौर पेयजल सुविधाएं सीमित बिजली और जीवन आधारभूत संरचना वाले क्षेत्रों में उपयोगी हो सकती हैं। यह पहल स्थानीय निवासियों को सीधे समर्थन देने वाली कॉरपोरेट सामाजिक जिम्मेदारी का उदाहरण मानी जा रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LG Electronics Dukung Laundry Gratis di Nigeria dan Air Minum Tenaga Surya",
-        "excerpt": "LG Electronics baru-baru ini menyediakan fasilitas laundry gratis bergerak dan sistem air minum berbasis tenaga surya di Aba, Negara Bagian Abia, dan Owerri, Negara Bagian Imo.",
-        "body": "LG Electronics baru-baru ini menyumbangkan fasilitas laundry gratis bergerak dan membangun sistem air minum berbasis tenaga surya di wilayah Aba, Negara Bagian Abia, serta Owerri, Negara Bagian Imo, Nigeria. Dukungan ini merupakan kegiatan kontribusi sosial yang dekat dengan komunitas lokal untuk meningkatkan kenyamanan hidup warga dan membantu kondisi dasar kebersihan serta air minum. Menurut teks asli, LG Electronics memperluas kegiatan kontribusi sosialnya di Nigeria dengan menjalankan dukungan laundry gratis dan pembangunan fasilitas air minum secara bersamaan. Fasilitas laundry bergerak dapat meningkatkan akses terhadap layanan mencuci, sementara sistem air minum berbasis tenaga surya dapat digunakan di wilayah dengan keterbatasan listrik dan infrastruktur kehidupan. Kegiatan ini menarik perhatian sebagai contoh tanggung jawab sosial perusahaan yang mendukung warga lokal secara langsung. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "46b39071b65a",
-    "slug": "집값-올랐으니-웃돈-더-내놔-싸우다-자폭24억-특공-불법-전매-일당-검찰행-647404",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T05:58:24.021Z",
-    "updatedAt": "2026-05-12T05:58:24.022Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12044667",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12044667",
-    "titleFingerprint": "d7c6fbb6a3d37216fd46345e7e081d7077c6ae49",
-    "dedupKeys": [
-      "46b39071b65aee199e42aea9b33a0ad62cd7b84f",
-      "d7c6fbb6a3d37216fd46345e7e081d7077c6ae49",
-      "6936c2253fbfd1e053a0b90753ca96cc316873ba"
-    ],
-    "imageUrl": "/images/articles/46b39071b65a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 아파트 ‘24억 특공’ 불법 전매 일당, 오른 집값 웃돈 배분 다투다 검찰행",
-        "excerpt": "서울시 민생사법경찰국이 다자녀 특별공급 제도를 악용해 서울 아파트 분양권을 불법 전매한 일당을 적발해 검찰에 넘겼다.",
-        "body": "서울시 민생사법경찰국은 다자녀 특별공급 제도를 악용해 서울 아파트 분양권을 불법 전매한 일당을 적발해 검찰에 송치했다. 이들은 특별공급으로 확보한 이른바 ‘24억 특공’ 아파트 분양권을 전매하는 과정에서 부당 수익을 얻은 것으로 파악됐다. 사건은 집값 상승으로 웃돈이 커지자 추가 수익 배분을 놓고 내부 갈등이 벌어지면서 드러났다. 부정 청약과 전매가 실수요자 보호를 위한 특별공급 제도의 신뢰를 훼손할 수 있다는 점에서 관련 단속은 이어질 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Seoul ‘2.4 Billion Won Special Supply’ Illegal Resale Group Sent to Prosecutors After Profit Fight",
-        "excerpt": "Seoul’s civil judicial police found a group that abused the multi-child special supply system to illegally resell Seoul apartment presale rights.",
-        "body": "Seoul’s Civil Judicial Police Bureau has referred to prosecutors a group accused of abusing the multi-child special supply system to illegally resell presale rights for a Seoul apartment. The group is understood to have gained improper profits while reselling rights to what was described as a ‘2.4 billion won special supply’ apartment. The case surfaced after housing prices rose and members clashed internally over how to divide additional premiums. The incident highlights how fraudulent subscriptions and resales can damage trust in a special supply system designed to protect genuine end-users, and related enforcement is expected to continue. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ソウルの「24億ウォン特別供給」違法転売、上乗せ利益争いで摘発され検察へ",
-        "excerpt": "ソウル市民生司法警察局が、多子女特別供給制度を悪用しソウルのマンション分譲権を違法転売した一団を摘発した。",
-        "body": "ソウル市民生司法警察局は、多子女特別供給制度を悪用してソウルのマンション分譲権を違法に転売した一団を摘発し、検察に送致した。彼らは特別供給で確保した、いわゆる「24億ウォン特別供給」マンションの分譲権を転売する過程で不当な利益を得たとみられている。事件は住宅価格の上昇で上乗せ金が膨らみ、追加利益の配分を巡って内部対立が起きたことで表面化した。不正な申込みや転売は、実需要者を守るための特別供給制度への信頼を損ない得るため、関連取り締まりは続く見通しだ。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "首尔“24亿韩元特供”购房权非法转卖团伙，因溢价分配内讧被移送检方",
-        "excerpt": "首尔市民生司法警察局查获一伙滥用多子女特别供应制度、非法转卖首尔公寓预售权的人员，并移送检方。",
-        "body": "首尔市民生司法警察局查获一伙涉嫌滥用多子女特别供应制度、非法转卖首尔公寓预售权的人员，并将其移送检方。该团伙被认为在转卖通过特别供应取得的所谓“24亿韩元特供”公寓预售权过程中获取不当收益。随着房价上涨，转卖溢价扩大，成员之间围绕追加收益分配发生内部矛盾，案件因此曝光。不正当申购和转卖可能损害旨在保护真实购房需求者的特别供应制度信任，相关执法预计将继续。来源: mk.co.kr。"
-      },
-      "es": {
-        "title": "Reventa ilegal de un piso especial de 2.400 millones de wones en Seúl acaba en fiscalía tras disputa por plusvalías",
-        "excerpt": "La policía judicial civil de Seúl detectó a un grupo que abusó del sistema especial para familias numerosas y revendió ilegalmente derechos de compra.",
-        "body": "La Oficina de Policía Judicial Civil de Seúl envió a la fiscalía a un grupo acusado de abusar del sistema de suministro especial para familias con varios hijos para revender ilegalmente derechos de preventa de un apartamento en Seúl. Según lo detectado, el grupo obtuvo ganancias indebidas al transferir los derechos de un apartamento conocido como de ‘suministro especial de 2.400 millones de wones’. El caso salió a la luz cuando el alza de los precios de la vivienda aumentó la prima y provocó una disputa interna por el reparto de beneficios adicionales. La suscripción fraudulenta y la reventa pueden dañar la confianza en un sistema creado para proteger a compradores reales, por lo que se espera que continúen los controles. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Revenda ilegal de apartamento especial de 2,4 bi de won em Seul vai ao Ministério Público após briga por ágio",
-        "excerpt": "A polícia judicial civil de Seul descobriu um grupo que abusou do sistema especial para famílias numerosas e revendeu ilegalmente direitos de compra.",
-        "body": "A Agência de Polícia Judicial Civil de Seul encaminhou ao Ministério Público um grupo acusado de abusar do sistema de oferta especial para famílias com vários filhos para revender ilegalmente direitos de pré-venda de um apartamento em Seul. O grupo teria obtido ganhos indevidos ao transferir direitos de um apartamento chamado de ‘oferta especial de 2,4 bilhões de won’. O caso veio à tona quando a alta dos preços dos imóveis ampliou o ágio e gerou conflito interno sobre a divisão dos lucros adicionais. Fraudes em inscrições e revendas podem prejudicar a confiança em um sistema voltado a proteger compradores reais, e a fiscalização relacionada deve continuar. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Illegale Weiterverkäufe bei Seouls „2,4-Mrd.-Won-Sonderzuteilung“ nach Streit um Aufpreis bei Staatsanwaltschaft",
-        "excerpt": "Seouls zivile Justizpolizei deckte eine Gruppe auf, die die Sonderzuteilung für kinderreiche Familien ausnutzte und Bezugsrechte illegal weiterverkaufte.",
-        "body": "Das Amt für zivile Justizpolizei der Stadt Seoul hat eine Gruppe an die Staatsanwaltschaft übergeben, die das Sonderzuteilungssystem für Familien mit mehreren Kindern missbraucht haben soll, um Bezugsrechte für eine Wohnung in Seoul illegal weiterzuverkaufen. Die Gruppe soll beim Verkauf der Rechte an einer sogenannten ‘2,4-Milliarden-Won-Sonderzuteilung’ unzulässige Gewinne erzielt haben. Der Fall wurde bekannt, nachdem steigende Immobilienpreise den Aufpreis erhöht hatten und intern Streit über die Verteilung zusätzlicher Gewinne entstand. Betrügerische Bewerbungen und Weiterverkäufe können das Vertrauen in ein System beschädigen, das echte Eigennutzer schützen soll; weitere Kontrollen werden erwartet. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Revente illégale d’un logement spécial à 2,4 milliards de wons à Séoul: le groupe transmis au parquet après une querelle de prime",
-        "excerpt": "La police judiciaire civile de Séoul a découvert un groupe ayant abusé du dispositif spécial pour familles nombreuses afin de revendre illégalement des droits.",
-        "body": "Le Bureau de la police judiciaire civile de Séoul a transmis au parquet un groupe soupçonné d’avoir abusé du système d’attribution spéciale pour familles avec plusieurs enfants afin de revendre illégalement des droits de prévente d’un appartement à Séoul. Le groupe aurait tiré des profits indus de la revente des droits d’un appartement présenté comme une ‘attribution spéciale à 2,4 milliards de wons’. L’affaire a émergé lorsque la hausse des prix immobiliers a accru la prime et déclenché un conflit interne sur le partage des gains supplémentaires. Les souscriptions frauduleuses et les reventes peuvent miner la confiance dans un dispositif destiné aux acheteurs réels, et les contrôles devraient se poursuivre. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "إحالة مجموعة باعت حق شقة خاصة في سول بقيمة 2.4 مليار وون بشكل غير قانوني بعد خلاف على الأرباح",
-        "excerpt": "كشفت شرطة سول القضائية المدنية مجموعة استغلت نظام التخصيص الخاص للأسر متعددة الأطفال لإعادة بيع حقوق شقة في سول بشكل غير قانوني.",
-        "body": "أحالت شرطة سول القضائية المدنية إلى الادعاء مجموعة متهمة باستغلال نظام التخصيص الخاص للأسر التي لديها عدة أطفال لإعادة بيع حقوق شراء شقة في سول بشكل غير قانوني. ويُعتقد أن المجموعة حققت أرباحا غير مشروعة أثناء بيع حقوق ما وصف بشقة ‘تخصيص خاص بقيمة 2.4 مليار وون’. وظهر الملف بعدما أدى ارتفاع أسعار المساكن إلى زيادة المبلغ الإضافي، ثم نشب خلاف داخلي حول توزيع الأرباح الإضافية. وتوضح القضية أن طلبات الاكتتاب غير النظامية وإعادة البيع قد تضر بالثقة في نظام يهدف إلى حماية المشترين الفعليين، ومن المتوقع استمرار إجراءات الرقابة ذات الصلة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "सियोल में 2.4 अरब वॉन की ‘स्पेशल सप्लाई’ अवैध रीसेल, प्रीमियम बंटवारे की लड़ाई के बाद अभियोजन को भेजी गई",
-        "excerpt": "सियोल की सिविल ज्यूडिशियल पुलिस ने बहु-संतान विशेष आपूर्ति प्रणाली का दुरुपयोग कर अपार्टमेंट प्रीसेल अधिकार अवैध रूप से बेचने वाले समूह को पकड़ा।",
-        "body": "सियोल सिटी सिविल ज्यूडिशियल पुलिस ब्यूरो ने एक समूह को अभियोजन के पास भेजा है, जिस पर बहु-संतान परिवारों के लिए बनी विशेष आपूर्ति प्रणाली का दुरुपयोग कर सियोल अपार्टमेंट के प्रीसेल अधिकार अवैध रूप से दोबारा बेचने का आरोप है। माना जा रहा है कि समूह ने तथाकथित ‘2.4 अरब वॉन स्पेशल सप्लाई’ अपार्टमेंट के अधिकार बेचते समय अनुचित लाभ कमाया। मकान कीमतें बढ़ने के बाद प्रीमियम बड़ा हुआ और अतिरिक्त कमाई के बंटवारे पर आंतरिक विवाद शुरू हुआ, जिससे मामला सामने आया। फर्जी आवेदन और अवैध रीसेल वास्तविक खरीदारों की रक्षा के लिए बने सिस्टम पर भरोसा घटा सकते हैं, इसलिए संबंधित कार्रवाई जारी रहने की संभावना है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Resale Ilegal Apartemen ‘Special Supply’ 2,4 Miliar Won di Seoul Terbongkar Setelah Ribut Bagi Premi",
-        "excerpt": "Biro Polisi Yudisial Sipil Seoul mengungkap kelompok yang menyalahgunakan sistem khusus keluarga banyak anak untuk menjual ilegal hak presale apartemen.",
-        "body": "Biro Polisi Yudisial Sipil Kota Seoul telah menyerahkan ke kejaksaan kelompok yang diduga menyalahgunakan sistem pasokan khusus untuk keluarga dengan banyak anak guna menjual kembali secara ilegal hak presale apartemen di Seoul. Kelompok itu disebut memperoleh keuntungan tidak sah saat mengalihkan hak atas apartemen yang disebut ‘special supply 2,4 miliar won’. Kasus ini terungkap setelah kenaikan harga rumah memperbesar premi dan memicu konflik internal mengenai pembagian keuntungan tambahan. Pendaftaran curang dan resale ilegal dapat merusak kepercayaan pada sistem yang ditujukan untuk melindungi pembeli nyata, sehingga penindakan terkait diperkirakan berlanjut. Sumber: mk.co.kr."
       }
     }
   }
