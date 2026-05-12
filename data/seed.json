@@ -1,5 +1,230 @@
 [
   {
+    "id": "0ea3ec2058a9",
+    "slug": "bts-공연-보고-8일간-쇼핑-350만원-썼다관광수지-11년4개월-만에-흑자-200888",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T23:35:47.239Z",
+    "updatedAt": "2026-05-12T23:35:47.239Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12045756",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12045756",
+    "titleFingerprint": "26ba7a49a85575457bc51185368bcf1bc832b22a",
+    "dedupKeys": [
+      "0ea3ec2058a9d6446c951eea30b20979b627a3e9",
+      "26ba7a49a85575457bc51185368bcf1bc832b22a",
+      "db9c0ae9a066bd6a20df0dd63172dca66cf0e0fa"
+    ],
+    "imageUrl": "/images/articles/0ea3ec2058a9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "관광수지 11년4개월 만에 흑자, 3월 외래객 204만명 유입 효과",
+        "excerpt": "지난 3월 한국 관광수지가 11년4개월 만에 월간 흑자로 돌아섰다. 외래객 204만명 유입과 내국인 출국 둔화가 맞물리며 관광수입은 26억4880만달러를 기록했다.",
+        "body": "한국의 관광수지가 지난 3월 월간 기준 흑자로 전환됐다. 외래객 204만명이 한국을 찾으며 역대급 유입을 보였고, 내국인 출국 증가세가 둔화된 영향이 함께 작용했다. 3월 관광수입은 26억4880만달러로 집계됐다. 월간 관광수지 흑자는 11년4개월 만이다. 원문은 BTS 공연을 보고 8일간 쇼핑하며 350만원을 쓴 외래 관광객 사례를 통해 방한 소비 흐름을 전했다. 외래객 유입 확대와 출국 둔화가 겹치며 관광수지가 흑자로 돌아선 만큼, 향후 방한 관광 수요와 소비 흐름이 관광수지 개선의 핵심 변수로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Tourism Balance Turns Surplus After 11 Years as March Arrivals Hit 2.04 Million",
+        "excerpt": "South Korea’s tourism balance returned to a monthly surplus in March after 11 years and four months, as 2.04 million foreign visitors arrived and outbound travel by Koreans slowed.",
+        "body": "South Korea’s tourism balance shifted to a monthly surplus in March. The change came as 2.04 million foreign visitors entered the country, an unusually large inflow, while growth in overseas departures by Korean residents slowed. Tourism revenue in March was tallied at $2.6488 billion. It was the first monthly tourism balance surplus in 11 years and four months. The original report cited a foreign visitor who watched a BTS performance, shopped for eight days, and spent 3.5 million won as an example of inbound consumption. With stronger foreign arrivals and slower outbound travel combining to lift the balance, future inbound tourism demand and spending trends will be key indicators for further improvement. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国の観光収支が11年4カ月ぶり黒字、3月の訪韓客204万人が押し上げ",
+        "excerpt": "韓国の観光収支は3月、11年4カ月ぶりに月次黒字へ転換した。訪韓外国人204万人の流入と韓国人の出国鈍化が重なり、観光収入は26億4880万ドルとなった。",
+        "body": "韓国の観光収支は3月、月次ベースで黒字に転換した。訪韓外国人は204万人に達し、過去最高水準の流入となった一方、韓国人の海外出国の伸びが鈍化したことも影響した。3月の観光収入は26億4880万ドルと集計された。月間の観光収支黒字は11年4カ月ぶりとなる。原文は、BTS公演を見て8日間買い物をし、350万ウォンを使った外国人観光客の事例を通じて訪韓消費の流れを伝えた。外国人客の流入拡大と出国鈍化が重なって黒字化しただけに、今後の訪韓需要と消費動向が観光収支改善の重要な変数として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国旅游收支11年4个月来转为顺差，3月入境游客达204万人",
+        "excerpt": "今年3月，韩国旅游收支时隔11年4个月按月转为顺差。外来游客达204万人，加上本国居民出境放缓，旅游收入为26.488亿美元。",
+        "body": "韩国旅游收支在今年3月按月转为顺差。外来游客204万人到访韩国，呈现创纪录级别的流入，同时韩国居民出境增长放缓也共同发挥作用。3月旅游收入统计为26.488亿美元。这是韩国月度旅游收支时隔11年4个月再次出现顺差。原文通过一名外来游客观看BTS演出、购物8天并花费350万韩元的案例，展现了访韩消费趋势。随着外来游客增加和出境放缓共同推动旅游收支转正，今后访韩旅游需求和消费走势将成为观察旅游收支改善的关键变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Balanza turística de Corea vuelve a superávit tras 11 años con 2,04 millones de visitantes",
+        "excerpt": "En marzo, la balanza turística de Corea del Sur volvió al superávit mensual tras 11 años y cuatro meses, impulsada por 2,04 millones de visitantes extranjeros y una salida más lenta de residentes.",
+        "body": "La balanza turística de Corea del Sur pasó a superávit mensual en marzo. El giro se produjo por la llegada de 2,04 millones de visitantes extranjeros, un flujo de escala récord, junto con una desaceleración en los viajes al exterior de los residentes coreanos. Los ingresos turísticos de marzo se situaron en 2.648,8 millones de dólares. Fue el primer superávit mensual de la balanza turística en 11 años y cuatro meses. El reporte original citó el caso de una turista extranjera que vio un concierto de BTS, compró durante ocho días y gastó 3,5 millones de wones. Con más visitantes entrantes y menor ritmo de salidas, la demanda de viajes a Corea y el gasto turístico serán variables clave para la mejora futura. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Balança turística da Coreia tem superávit após 11 anos com 2,04 milhões de visitantes",
+        "excerpt": "Em março, a balança turística da Coreia do Sul voltou ao superávit mensal após 11 anos e quatro meses, com 2,04 milhões de visitantes estrangeiros e desaceleração das viagens ao exterior.",
+        "body": "A balança turística da Coreia do Sul voltou ao superávit mensal em março. A mudança ocorreu com a entrada de 2,04 milhões de visitantes estrangeiros, um fluxo em nível recorde, enquanto as saídas de residentes coreanos para o exterior desaceleraram. A receita turística de março foi estimada em US$ 2,6488 bilhões. Foi o primeiro superávit mensal da balança turística em 11 anos e quatro meses. A reportagem original citou uma visitante estrangeira que assistiu a uma apresentação do BTS, fez compras por oito dias e gastou 3,5 milhões de wones. Com a combinação de maior entrada de turistas e menor ritmo de saídas, a demanda por viagens à Coreia e o consumo dos visitantes serão variáveis centrais para novas melhoras. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Tourismusbilanz nach 11 Jahren im Plus, 2,04 Millionen Besucher im März",
+        "excerpt": "Südkoreas Tourismusbilanz wechselte im März nach 11 Jahren und vier Monaten monatlich in den Überschuss. 2,04 Millionen ausländische Besucher und langsamere Auslandsreisen stützten die Einnahmen.",
+        "body": "Südkoreas Tourismusbilanz ist im März auf Monatsbasis in den Überschuss gewechselt. Ausschlaggebend waren 2,04 Millionen ausländische Besucher, ein Zustrom auf Rekordniveau, während sich zugleich die Ausreisen koreanischer Einwohner verlangsamten. Die Tourismuseinnahmen im März beliefen sich auf 2,6488 Milliarden US-Dollar. Es war der erste monatliche Überschuss der Tourismusbilanz seit 11 Jahren und vier Monaten. Der Originalbericht nannte als Beispiel eine ausländische Besucherin, die ein BTS-Konzert sah, acht Tage lang einkaufte und 3,5 Millionen Won ausgab. Da stärkere Einreisen und langsamere Ausreisen zusammenwirkten, werden künftige Korea-Reisen und Konsumausgaben zentrale Faktoren für die weitere Verbesserung sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La balance touristique coréenne repasse en excédent après 11 ans avec 2,04 millions de visiteurs",
+        "excerpt": "En mars, la balance touristique de la Corée du Sud est redevenue excédentaire sur un mois après 11 ans et quatre mois, portée par 2,04 millions de visiteurs étrangers et le ralentissement des départs.",
+        "body": "La balance touristique de la Corée du Sud est repassée en excédent mensuel en mars. Ce basculement s’explique par l’arrivée de 2,04 millions de visiteurs étrangers, un afflux de niveau record, tandis que les départs à l’étranger des résidents coréens ralentissaient. Les recettes touristiques de mars ont atteint 2,6488 milliards de dollars. Il s’agit du premier excédent mensuel en 11 ans et quatre mois. L’article original cite le cas d’une visiteuse étrangère ayant assisté à un concert de BTS, fait du shopping pendant huit jours et dépensé 3,5 millions de wons. Avec la hausse des arrivées et le ralentissement des sorties, la demande de voyages vers la Corée et les dépenses des visiteurs seront des variables clés pour la suite. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "فائض ميزان السياحة في كوريا بعد 11 عاما مع وصول 2.04 مليون زائر في مارس",
+        "excerpt": "تحول ميزان السياحة في كوريا الجنوبية إلى فائض شهري في مارس بعد 11 عاما وأربعة أشهر، مع وصول 2.04 مليون زائر أجنبي وتباطؤ سفر الكوريين إلى الخارج.",
+        "body": "تحول ميزان السياحة في كوريا الجنوبية إلى فائض على أساس شهري في مارس. وجاء ذلك مع دخول 2.04 مليون زائر أجنبي إلى البلاد، وهو تدفق بمستوى قياسي، بالتزامن مع تباطؤ نمو سفر المقيمين الكوريين إلى الخارج. وبلغت إيرادات السياحة في مارس 2.6488 مليار دولار. وهذا أول فائض شهري في ميزان السياحة منذ 11 عاما وأربعة أشهر. وذكر التقرير الأصلي مثال زائرة أجنبية شاهدت عرضا لفرقة BTS وتسوقت لمدة ثمانية أيام وأنفقت 3.5 مليون وون. ومع اجتماع زيادة الوافدين وتباطؤ المغادرين، ستبقى قوة الطلب على زيارة كوريا واتجاهات إنفاق السياح من العوامل الرئيسية لتحسن الميزان السياحي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया का पर्यटन संतुलन 11 साल बाद सरप्लस में, मार्च में 20.4 लाख विदेशी पर्यटक",
+        "excerpt": "मार्च में दक्षिण कोरिया का पर्यटन संतुलन 11 साल चार महीने बाद मासिक सरप्लस में लौटा। 20.4 लाख विदेशी आगंतुकों और स्थानीय लोगों की धीमी विदेश यात्राओं ने आय बढ़ाई।",
+        "body": "दक्षिण कोरिया का पर्यटन संतुलन मार्च में मासिक आधार पर सरप्लस में बदल गया। 20.4 लाख विदेशी आगंतुकों के देश में आने से, जो रिकॉर्ड स्तर का प्रवाह था, और कोरियाई निवासियों की विदेश यात्रा की रफ्तार धीमी पड़ने से यह बदलाव हुआ। मार्च में पर्यटन आय 2.6488 अरब डॉलर दर्ज की गई। मासिक पर्यटन संतुलन का यह सरप्लस 11 साल और चार महीने बाद आया है। मूल रिपोर्ट ने एक विदेशी पर्यटक का उदाहरण दिया, जिसने BTS का प्रदर्शन देखा, आठ दिन खरीदारी की और 35 लाख वॉन खर्च किए। विदेशी आगंतुकों की बढ़ती आवक और बाहर जाने की धीमी गति के बीच, कोरिया यात्रा की मांग और पर्यटक खर्च आगे सुधार के प्रमुख संकेतक होंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Neraca Pariwisata Korea Surplus Setelah 11 Tahun, Kunjungan Maret Capai 2,04 Juta",
+        "excerpt": "Pada Maret, neraca pariwisata Korea Selatan kembali surplus bulanan setelah 11 tahun empat bulan, didorong 2,04 juta wisatawan asing dan perlambatan perjalanan warga Korea ke luar negeri.",
+        "body": "Neraca pariwisata Korea Selatan beralih menjadi surplus bulanan pada Maret. Perubahan ini terjadi saat 2,04 juta wisatawan asing datang ke Korea, arus masuk yang sangat tinggi, sementara keberangkatan warga Korea ke luar negeri melambat. Pendapatan pariwisata Maret tercatat sebesar 2,6488 miliar dolar AS. Ini merupakan surplus bulanan pertama dalam 11 tahun empat bulan. Laporan asli mencontohkan wisatawan asing yang menonton pertunjukan BTS, berbelanja selama delapan hari, dan menghabiskan 3,5 juta won. Dengan naiknya kedatangan wisatawan dan melambatnya perjalanan keluar negeri, permintaan wisata ke Korea serta pola belanja pengunjung akan menjadi faktor utama bagi perbaikan neraca pariwisata ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "437b3dac8cdc",
+    "slug": "민주당-오늘-국회의장-후보-선출박지원조정식김태년-3파전-302462",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T23:34:45.647Z",
+    "updatedAt": "2026-05-12T23:34:45.647Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12045758",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12045758",
+    "titleFingerprint": "e48d0a5d167388e8e4dcb7954d6c6b800cb2c297",
+    "dedupKeys": [
+      "437b3dac8cdc13fbca2b29b38359daf3140bce30",
+      "e48d0a5d167388e8e4dcb7954d6c6b800cb2c297",
+      "d43bc57d620fc3056b2a2e358877a035c9ed740f"
+    ],
+    "imageUrl": "/images/articles/437b3dac8cdc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "민주당 국회의장 후보 오늘 선출, 박지원·조정식·김태년 3파전",
+        "excerpt": "더불어민주당은 13일 의원총회를 열어 제22대 국회 후반기 국회의장 후보와 여당 몫 국회부의장 후보를 선출하고, 권리당원 투표를 처음 반영한다.",
+        "body": "더불어민주당은 13일 의원총회를 열고 제22대 국회 후반기 국회의장 후보와 여당 몫 국회부의장 후보를 선출한다. 국회의장 후보 선출은 박지원·조정식·김태년 의원의 3파전으로 진행된다. 이번 절차의 핵심 변화는 권리당원 투표가 처음으로 반영된다는 점이다. 민주당은 지난 절차를 거쳐 후보군을 확정했고, 의원총회에서 최종 후보를 가릴 예정이다. 국회의장 후보는 향후 국회 운영 방향과 원내 주도권 구도에 영향을 줄 수 있어 당내 관심이 집중된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Democratic Party to Pick Speaker Candidate Today in Three-Way Race",
+        "excerpt": "The Democratic Party will hold a general meeting of lawmakers on May 13 to choose its candidate for speaker of the second half of the 22nd National Assembly and a ruling-party vice speaker nominee.",
+        "body": "The Democratic Party of Korea will hold a general meeting of lawmakers on May 13 to select its candidate for speaker of the second half of the 22nd National Assembly and the ruling-party nominee for deputy speaker. The speaker race is a three-way contest among Park Jie-won, Cho Jung-sik and Kim Tae-nyeon. A key change in this process is that votes from rights-holding party members will be reflected for the first time. The party has finalized the candidate pool through prior procedures and will decide the final nominee at the meeting. The outcome is drawing attention because it may affect parliamentary operations and the party’s floor leadership dynamics. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "民主党、国会議長候補をきょう選出　朴智元・趙正湜・金太年の三つどもえ",
+        "excerpt": "共に民主党は13日、議員総会を開き、第22代国会後半期の国会議長候補と与党枠の国会副議長候補を選出し、初めて権利党員投票を反映する。",
+        "body": "共に民主党は13日、議員総会を開き、第22代国会後半期の国会議長候補と与党枠の国会副議長候補を選出する。国会議長候補の選出は、朴智元、趙正湜、金太年の3氏による三つどもえで進む。今回の手続きで注目される変化は、権利党員の投票が初めて反映される点だ。民主党はこれまでの手続きを経て候補群を確定し、議員総会で最終候補を決める予定だ。国会議長候補は今後の国会運営の方向や院内主導権の構図に影響し得るため、党内の関心が集まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "共同民主党今日选出国会议长候选人，朴智元赵正湜金太年三方竞争",
+        "excerpt": "共同民主党将于13日召开议员总会，选出第22届国会后半期议长候选人及执政党份额副议长候选人，并首次反映权利党员投票。",
+        "body": "韩国共同民主党将于13日召开议员总会，选出第22届国会后半期国会议长候选人以及执政党份额的国会副议长候选人。国会议长候选人之争将在朴智元、赵正湜、金太年三人之间展开。此次程序的关键变化是首次反映权利党员投票。共同民主党已通过此前程序确定候选人范围，并将在议员总会上决定最终候选人。国会议长候选人可能影响今后国会运作方向和院内主导权格局，因此党内关注度较高。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Partido Democrático elige hoy candidato a presidente parlamentario en carrera a tres",
+        "excerpt": "El Partido Democrático celebrará el 13 una reunión de legisladores para elegir al candidato a presidir la segunda mitad de la 22.ª Asamblea Nacional y al vicepresidente correspondiente al oficialismo.",
+        "body": "El Partido Democrático de Corea celebrará el 13 una reunión general de legisladores para elegir a su candidato a presidente de la segunda mitad de la 22.ª Asamblea Nacional y al candidato a vicepresidente parlamentario correspondiente al oficialismo. La contienda por la presidencia será a tres bandas entre Park Jie-won, Cho Jung-sik y Kim Tae-nyeon. El principal cambio del proceso es que por primera vez se reflejará el voto de los miembros del partido con derechos. El partido ya definió el grupo de candidatos mediante los procedimientos previos y decidirá el nombre final en la reunión. El resultado atrae atención interna porque puede influir en la gestión parlamentaria y el equilibrio de liderazgo en la Asamblea. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Partido Democrático escolhe hoje candidato a presidente da Assembleia em disputa tripla",
+        "excerpt": "O Partido Democrático realizará no dia 13 uma reunião de parlamentares para escolher o candidato à presidência da segunda metade da 22ª Assembleia Nacional e o vice-presidente indicado pelo governismo.",
+        "body": "O Partido Democrático da Coreia realizará no dia 13 uma reunião geral de parlamentares para escolher seu candidato à presidência da segunda metade da 22ª Assembleia Nacional e o candidato a vice-presidente da Assembleia correspondente ao governismo. A disputa pela presidência ocorre entre Park Jie-won, Cho Jung-sik e Kim Tae-nyeon. A principal mudança deste processo é que, pela primeira vez, serão refletidos os votos de membros do partido com direito de participação. O partido confirmou o grupo de candidatos por meio de procedimentos anteriores e decidirá o nome final na reunião. O resultado chama atenção interna porque pode influenciar a condução da Assembleia e a dinâmica de liderança parlamentar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Demokratische Partei wählt heute Parlamentspräsident-Kandidaten im Dreikampf",
+        "excerpt": "Die Demokratische Partei hält am 13. eine Abgeordnetenversammlung ab, um den Kandidaten für den Vorsitz in der zweiten Hälfte der 22. Nationalversammlung und einen Vizepräsidenten zu wählen.",
+        "body": "Die Demokratische Partei Koreas hält am 13. eine Generalversammlung ihrer Abgeordneten ab, um den Kandidaten für den Vorsitz in der zweiten Hälfte der 22. Nationalversammlung sowie den Kandidaten für den dem Regierungslager zustehenden Vizevorsitz zu bestimmen. Das Rennen um den Vorsitz ist ein Dreikampf zwischen Park Jie-won, Cho Jung-sik und Kim Tae-nyeon. Die zentrale Neuerung des Verfahrens ist, dass erstmals Stimmen der stimmberechtigten Parteimitglieder berücksichtigt werden. Die Partei hat die Kandidatengruppe nach vorangegangenen Verfahren festgelegt und will den endgültigen Kandidaten in der Versammlung bestimmen. Das Ergebnis findet parteiintern Beachtung, da es die künftige Parlamentsführung und die Kräfteverhältnisse im Plenum beeinflussen kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le Parti démocrate choisit aujourd’hui son candidat à la présidence de l’Assemblée",
+        "excerpt": "Le Parti démocrate réunit ses députés le 13 pour désigner son candidat à la présidence de la seconde moitié de la 22e Assemblée nationale et le vice-président revenant au camp au pouvoir.",
+        "body": "Le Parti démocrate de Corée tient le 13 une assemblée générale de ses députés afin de choisir son candidat à la présidence de la seconde moitié de la 22e Assemblée nationale ainsi que le candidat au poste de vice-président revenant au camp au pouvoir. La course à la présidence oppose trois élus: Park Jie-won, Cho Jung-sik et Kim Tae-nyeon. Le principal changement de cette procédure est la prise en compte, pour la première fois, du vote des membres du parti disposant de droits. Le parti a arrêté la liste des candidats après les étapes précédentes et désignera le candidat final lors de la réunion. Le résultat suscite l’attention en interne, car il peut influer sur la conduite de l’Assemblée et les équilibres de leadership parlementaire. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الحزب الديمقراطي يختار اليوم مرشحه لرئاسة البرلمان في سباق ثلاثي",
+        "excerpt": "يعقد الحزب الديمقراطي الكوري في 13 اجتماعا عاما لنوابه لاختيار مرشح رئاسة النصف الثاني من الجمعية الوطنية الـ22 ومرشح منصب نائب الرئيس المخصص للحزب الحاكم.",
+        "body": "يعقد الحزب الديمقراطي الكوري في 13 اجتماعا عاما للنواب لاختيار مرشحه لرئاسة النصف الثاني من الجمعية الوطنية الـ22، إضافة إلى مرشح منصب نائب رئيس الجمعية المخصص للحزب الحاكم. ويتنافس على ترشيح رئاسة البرلمان ثلاثة نواب هم بارك جي وون، وتشوه جونغ سيك، وكيم تاي نيون. ويكمن التغيير الأبرز في هذه العملية في احتساب أصوات أعضاء الحزب أصحاب الحقوق للمرة الأولى. وقد حدد الحزب قائمة المرشحين عبر الإجراءات السابقة، على أن يحسم المرشح النهائي في اجتماع النواب. ويحظى الاختيار باهتمام داخل الحزب لأنه قد يؤثر في اتجاه إدارة البرلمان وتوازنات القيادة داخله. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डेमोक्रेटिक पार्टी आज चुनेगी संसद अध्यक्ष उम्मीदवार, तीन नेताओं में मुकाबला",
+        "excerpt": "डेमोक्रेटिक पार्टी 13 तारीख को सांसदों की आम बैठक कर 22वीं नेशनल असेंबली के उत्तरार्ध के अध्यक्ष उम्मीदवार और सत्तारूढ़ दल कोटे के उपाध्यक्ष उम्मीदवार का चयन करेगी।",
+        "body": "कोरिया की डेमोक्रेटिक पार्टी 13 तारीख को सांसदों की आम बैठक आयोजित कर 22वीं नेशनल असेंबली के उत्तरार्ध के अध्यक्ष पद के उम्मीदवार और सत्तारूढ़ दल के हिस्से वाले उपाध्यक्ष पद के उम्मीदवार का चयन करेगी। अध्यक्ष पद की उम्मीदवारी के लिए मुकाबला पार्क जी-वोन, चो जंग-सिक और किम ताए-न्योन के बीच तीनतरफा है। इस प्रक्रिया में मुख्य बदलाव यह है कि पहली बार अधिकार प्राप्त पार्टी सदस्यों के वोटों को शामिल किया जाएगा। पार्टी ने पूर्व प्रक्रियाओं के जरिए उम्मीदवारों की सूची तय कर ली है और आम बैठक में अंतिम उम्मीदवार चुना जाएगा। इस चयन पर पार्टी के भीतर ध्यान है क्योंकि यह आगे संसद संचालन की दिशा और सदन में नेतृत्व संतुलन को प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Partai Demokrat Pilih Calon Ketua Parlemen Hari Ini, Tiga Nama Bersaing",
+        "excerpt": "Partai Demokrat Korea pada 13 hari ini menggelar rapat umum anggota parlemen untuk memilih calon ketua paruh kedua Majelis Nasional ke-22 dan calon wakil ketua jatah partai berkuasa.",
+        "body": "Partai Demokrat Korea pada 13 hari ini menggelar rapat umum anggota parlemen untuk memilih calon ketua paruh kedua Majelis Nasional ke-22 serta calon wakil ketua parlemen jatah partai berkuasa. Pemilihan calon ketua berlangsung sebagai persaingan tiga nama, yaitu Park Jie-won, Cho Jung-sik, dan Kim Tae-nyeon. Perubahan utama dalam proses kali ini adalah suara anggota partai pemegang hak untuk pertama kalinya akan diperhitungkan. Partai telah menetapkan kelompok calon melalui prosedur sebelumnya dan akan menentukan kandidat akhir dalam rapat umum tersebut. Hasil pemilihan menarik perhatian internal karena dapat memengaruhi arah pengelolaan parlemen dan peta kepemimpinan di majelis. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e46e4976a96d",
+    "slug": "천년고도-경주의-밤하늘에-오색-연등이경주-형산강-연등문화축제-제철축제-514463",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T23:33:50.905Z",
+    "updatedAt": "2026-05-12T23:33:50.906Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/culture/12044853",
+    "canonicalUrl": "https://www.mk.co.kr/news/culture/12044853",
+    "titleFingerprint": "58321a23cfe76c33964cc3112aea9f9ba8b69118",
+    "dedupKeys": [
+      "e46e4976a96d6d09567ac07983166c807c7b7134",
+      "58321a23cfe76c33964cc3112aea9f9ba8b69118",
+      "ca52339414bc7318232eba1daf866aa5e508cebd"
+    ],
+    "imageUrl": "/images/articles/e46e4976a96d.png",
+    "i18n": {
+      "ko": {
+        "title": "경주 형산강 연등문화축제 14일 개막…오색 연등과 2000명 제등행렬",
+        "excerpt": "2026 형산강 연등문화축제가 14일 경북 경주 형산강 금장대 일원에서 열려 신라 연등회 전통을 잇고 오색 연등과 2000명 제등행렬로 도심을 밝힌다.",
+        "body": "신라 연등회의 전통을 계승한 ‘2026 형산강 연등문화축제’가 오는 14일 경북 경주 형산강 금장대 일원에서 열린다. 천년고도 경주의 밤하늘과 형산강 주변에는 오색 연등이 이어지고, 형산강을 따라 흐르는 연등 물결이 축제의 중심 장면을 만든다. 행사에서는 2000명이 참여하는 제등행렬이 경주 도심을 밝힐 예정이다. 이번 축제는 지역의 역사적 전통을 현대 축제 형식으로 잇는 자리로 소개됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Gyeongju Hyeongsan River Lantern Festival Opens May 14 With 2,000-Person Parade",
+        "excerpt": "The 2026 Hyeongsan River Lantern Culture Festival opens May 14 near Geumjangdae in Gyeongju, carrying on Silla’s lantern tradition with colorful lights and a 2,000-person parade.",
+        "body": "The 2026 Hyeongsan River Lantern Culture Festival, which continues the tradition of Silla’s Yeondeunghoe lantern ceremony, will be held on May 14 near Geumjangdae along the Hyeongsan River in Gyeongju, North Gyeongsang Province. Colorful lanterns will light the night sky of the ancient capital and the riverside, creating waves of light along the Hyeongsan River. A lantern parade with 2,000 participants is also scheduled to brighten downtown Gyeongju. The festival is presented as an event that links the region’s historic tradition with a modern festival format. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "慶州・兄山江燃灯文化祭が14日開幕、五色の灯りと2000人の提灯行列",
+        "excerpt": "2026兄山江燃灯文化祭が14日、慶州の兄山江・金丈台一帯で開かれ、新羅の燃灯会の伝統を受け継ぎ、五色の灯りと2000人の提灯行列で都心を照らす。",
+        "body": "新羅の燃灯会の伝統を受け継ぐ「2026兄山江燃灯文化祭」が14日、慶尚北道慶州市の兄山江・金丈台一帯で開かれる。千年古都・慶州の夜空と兄山江周辺には五色の灯りが連なり、川に沿って流れるような燃灯の波が祭りの中心的な光景となる。行事では2000人が参加する提灯行列が慶州の都心を明るく照らす予定だ。今回の祭りは、地域の歴史的伝統を現代の祭りの形で受け継ぐ場として紹介された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "庆州兄山江燃灯文化节14日开幕，五色灯海与2000人提灯巡游登场",
+        "excerpt": "2026兄山江燃灯文化节将于14日在庆州兄山江金丈台一带举行，延续新罗燃灯会传统，以五色燃灯和2000人提灯巡游点亮市中心。",
+        "body": "延续新罗燃灯会传统的“2026兄山江燃灯文化节”将于14日在庆尚北道庆州市兄山江金丈台一带举行。千年古都庆州的夜空和兄山江周边将布满五色燃灯，沿着兄山江流动的灯光波浪将成为节日的核心景象。活动还安排了2000人参与的提灯巡游，预计将照亮庆州市中心。本次节日被介绍为以现代庆典形式传承地区历史传统的活动。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Festival de Faroles del río Hyeongsan en Gyeongju abre el 14 con desfile de 2.000 personas",
+        "excerpt": "El Festival Cultural de Faroles del río Hyeongsan 2026 se celebrará el 14 cerca de Geumjangdae, en Gyeongju, con faroles multicolores y un desfile de 2.000 personas.",
+        "body": "El Festival Cultural de Faroles del río Hyeongsan 2026, que continúa la tradición del Yeondeunghoe de Silla, se celebrará el día 14 en la zona de Geumjangdae, junto al río Hyeongsan, en Gyeongju, provincia de Gyeongsang del Norte. El cielo nocturno de la antigua capital y los alrededores del río se llenarán de faroles multicolores, formando una corriente de luces a lo largo del Hyeongsan. El programa incluye un desfile de faroles con 2.000 participantes que iluminará el centro de Gyeongju. El festival fue presentado como una forma de conectar la tradición histórica local con un formato festivo moderno. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Festival das Lanternas do rio Hyeongsan em Gyeongju começa dia 14 com desfile de 2 mil",
+        "excerpt": "O Festival Cultural das Lanternas do rio Hyeongsan 2026 será realizado no dia 14 perto de Geumjangdae, em Gyeongju, com lanternas coloridas e desfile de 2 mil pessoas.",
+        "body": "O Festival Cultural das Lanternas do rio Hyeongsan 2026, que dá continuidade à tradição do Yeondeunghoe de Silla, será realizado no dia 14 na área de Geumjangdae, às margens do rio Hyeongsan, em Gyeongju, na província de Gyeongsang do Norte. O céu noturno da antiga capital e os arredores do rio serão iluminados por lanternas multicoloridas, formando ondas de luz ao longo do Hyeongsan. O evento terá ainda um desfile de lanternas com 2 mil participantes, que deve iluminar o centro de Gyeongju. O festival foi apresentado como uma celebração que conecta a tradição histórica local a um formato moderno. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Laternenfestival am Hyeongsan-Fluss in Gyeongju startet am 14. mit 2.000 Teilnehmern",
+        "excerpt": "Das Hyeongsan-Fluss-Laternenkulturfestival 2026 findet am 14. nahe Geumjangdae in Gyeongju statt und führt Sillas Laternen-Tradition mit bunten Lichtern und einem 2.000-Personen-Umzug fort.",
+        "body": "Das Hyeongsan-Fluss-Laternenkulturfestival 2026, das die Tradition des Yeondeunghoe aus der Silla-Zeit fortführt, wird am 14. im Bereich Geumjangdae am Hyeongsan-Fluss in Gyeongju, Provinz Nord-Gyeongsang, veranstaltet. Der Nachthimmel der tausendjährigen Hauptstadt und die Umgebung des Flusses werden von bunten Laternen erhellt, während entlang des Hyeongsan ein Strom aus Lichtern entsteht. Geplant ist außerdem ein Laternenumzug mit 2.000 Teilnehmenden, der die Innenstadt von Gyeongju beleuchten soll. Das Festival wurde als Veranstaltung vorgestellt, die regionale historische Tradition in moderner Festivalform weiterträgt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le festival des lanternes de la rivière Hyeongsan à Gyeongju s’ouvre le 14 avec 2 000 participants",
+        "excerpt": "Le Festival culturel des lanternes de la rivière Hyeongsan 2026 aura lieu le 14 près de Geumjangdae, à Gyeongju, avec des lanternes colorées et un défilé de 2 000 personnes.",
+        "body": "Le Festival culturel des lanternes de la rivière Hyeongsan 2026, qui perpétue la tradition du Yeondeunghoe de Silla, se tiendra le 14 dans le secteur de Geumjangdae, le long de la rivière Hyeongsan, à Gyeongju, dans la province du Gyeongsang du Nord. Le ciel nocturne de l’ancienne capitale et les abords de la rivière seront illuminés par des lanternes multicolores, formant une vague de lumières le long du Hyeongsan. Un défilé de lanternes réunissant 2 000 participants doit aussi éclairer le centre-ville de Gyeongju. Le festival est présenté comme un événement reliant la tradition historique locale à une forme festive moderne. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مهرجان فوانيس نهر هيونغسان في غيونغجو ينطلق في 14 مايو بموكب يضم 2000 مشارك",
+        "excerpt": "يقام مهرجان ثقافة فوانيس نهر هيونغسان 2026 في 14 مايو قرب غومجانغداي في غيونغجو، مواصلا تقليد فوانيس شيلا بأضواء ملونة وموكب يضم 2000 شخص.",
+        "body": "يقام «مهرجان ثقافة فوانيس نهر هيونغسان 2026»، الذي يواصل تقليد يونديونغهوي لفوانيس مملكة شيلا، في 14 مايو في منطقة غومجانغداي على نهر هيونغسان بمدينة غيونغجو في مقاطعة غيونغسانغ الشمالية. ستضيء الفوانيس الملونة سماء الليل في العاصمة القديمة ومحيط النهر، لتشكل موجة من الأضواء على امتداد نهر هيونغسان. ويتضمن الحدث موكبا للفوانيس يشارك فيه 2000 شخص ومن المقرر أن يضيء وسط غيونغجو. وقد عُرض المهرجان بوصفه مناسبة تربط التقليد التاريخي المحلي بشكل احتفالي حديث. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ग्योंगजू ह्योंगसान नदी लालटेन उत्सव 14 मई से, 2000 लोगों की लालटेन परेड होगी",
+        "excerpt": "2026 ह्योंगसान नदी लालटेन संस्कृति उत्सव 14 मई को ग्योंगजू के ह्योंगसान नदी गुमजांगदे क्षेत्र में होगा, जहां शिला की परंपरा, रंगीन लालटेन और 2000 लोगों की परेड दिखेगी।",
+        "body": "शिला के योंदुंगहोए लालटेन समारोह की परंपरा को आगे बढ़ाने वाला “2026 ह्योंगसान नदी लालटेन संस्कृति उत्सव” 14 मई को उत्तर ग्योंगसांग प्रांत के ग्योंगजू में ह्योंगसान नदी के गुमजांगदे क्षेत्र में आयोजित होगा। हजार वर्ष पुराने शहर ग्योंगजू के रात के आकाश और नदी किनारे रंग-बिरंगी लालटेन जगमगाएंगी, और ह्योंगसान नदी के साथ बहती रोशनी की लहर उत्सव का मुख्य दृश्य बनेगी। कार्यक्रम में 2000 प्रतिभागियों की लालटेन परेड भी होगी, जो ग्योंगजू के शहर केंद्र को रोशन करेगी। इस उत्सव को स्थानीय ऐतिहासिक परंपरा को आधुनिक उत्सव रूप में आगे बढ़ाने वाले आयोजन के रूप में पेश किया गया है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Festival Lentera Sungai Hyeongsan Gyeongju Dibuka 14 Mei dengan Parade 2.000 Orang",
+        "excerpt": "Festival Budaya Lentera Sungai Hyeongsan 2026 digelar 14 Mei di sekitar Geumjangdae, Gyeongju, meneruskan tradisi lentera Silla lewat lampu warna-warni dan parade 2.000 orang.",
+        "body": "Festival Budaya Lentera Sungai Hyeongsan 2026, yang meneruskan tradisi Yeondeunghoe dari Silla, akan digelar pada 14 Mei di kawasan Geumjangdae, Sungai Hyeongsan, Gyeongju, Provinsi Gyeongsang Utara. Langit malam ibu kota kuno itu dan sekitar sungai akan diterangi lentera warna-warni, sementara aliran cahaya di sepanjang Sungai Hyeongsan menjadi pemandangan utama festival. Acara ini juga dijadwalkan menghadirkan parade lentera dengan 2.000 peserta yang akan menerangi pusat kota Gyeongju. Festival tersebut diperkenalkan sebagai ajang yang menghubungkan tradisi sejarah daerah dengan format perayaan modern. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "66577a85886d",
     "slug": "bts-정국도-노렸다380억대-해킹조직-공범-태국서-송환-568663",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Replika Patung Buddha Goryeo yang Dijarah Akan Disemayamkan di Buseoksa",
         "excerpt": "Replika patung Buddha Goryeo yang dijarah bajak laut Jepang, kembali ke Korea, lalu dikirim ke Jepang setelah sengketa kepemilikan akan disemayamkan di Buseoksa.",
         "body": "Replika patung Buddha era Goryeo yang pernah dijarah bajak laut Jepang, kembali ke Korea, tetapi kemudian dikirim kembali ke Jepang setelah sengketa kepemilikan akan disemayamkan di Kuil Buseoksa, Seosan, Provinsi Chungcheong Selatan. Menurut Kyodo News dan Yonhap pada 12 Mei, replika patung Avalokitesvara Bodhisattva perunggu berlapis emas yang baru selesai dibuat akan ditempatkan di kuil tersebut. Patung ini menarik perhatian di Korea dan Jepang karena perdebatan tentang penjarahan, pengembalian, dan kepemilikan. Karena patung asli kembali ke Jepang, Buseoksa akan menjaga ingatan terkait melalui replika. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ac5eeb808b9d",
-    "slug": "타이거일렉-300억-원-규모-전환사채-발행-628732",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T09:20:51.538Z",
-    "updatedAt": "2026-05-12T09:20:51.538Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045094",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045094",
-    "titleFingerprint": "d92e9f20c65acb855070cf79c99a7e3a9d882bcc",
-    "dedupKeys": [
-      "ac5eeb808b9d7500aa8ae4a7e4fece9b9603088e",
-      "d92e9f20c65acb855070cf79c99a7e3a9d882bcc",
-      "dae19bcbbf9ee857194d830c14a7773b3423bbc1"
-    ],
-    "imageUrl": "/images/articles/ac5eeb808b9d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "타이거일렉 300억 원 전환사채 발행 공시, 전환가액 5만8879원",
-        "excerpt": "코스닥 상장사 타이거일렉은 2026년 5월 12일 제1회 300억 원 규모 전환사채 발행을 공시했다. 전환가액은 5만8879원이며 전환 청구는 2027년 5월 20일부터 가능하다.",
-        "body": "코스닥 상장사 타이거일렉이 2026년 5월 12일 제1회 300억 원 규모의 전환사채 발행을 공시했다. 이번 공시에 따르면 전환가액은 5만8879원으로 정해졌다. 전환사채는 일정 조건에 따라 주식으로 전환할 수 있는 채권으로, 투자자는 정해진 기간에 전환권을 행사할 수 있다. 타이거일렉이 밝힌 전환 청구 기간은 2027년 5월 20일부터 시작된다. 이번 발행은 공시 기준으로 회사의 자금 조달 관련 주요 일정과 전환 조건을 확인할 수 있는 사안이다. 향후 시장에서는 전환가액과 전환 청구 개시 시점이 주요 참고 지표가 될 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Tiger Elec Discloses 30 Billion Won Convertible Bond Issue, Conversion Price Set",
-        "excerpt": "Kosdaq-listed Tiger Elec disclosed on May 12, 2026, that it will issue its first convertible bonds worth 30 billion won, with the conversion price set at 58,879 won and conversion claims starting May 20, 2027.",
-        "body": "Kosdaq-listed Tiger Elec disclosed on May 12, 2026, that it will issue its first convertible bonds totaling 30 billion won. According to the disclosure, the conversion price has been set at 58,879 won. A convertible bond is a bond that can be converted into shares under specified conditions, and investors may exercise the conversion right during the designated period. Tiger Elec stated that the conversion claim period will begin on May 20, 2027. The issuance is a key disclosure item for confirming the company’s financing schedule and conversion terms. The conversion price and the start date for conversion claims are expected to serve as major reference points for the market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "タイガーエレック、300億ウォン転換社債発行を公示 転換価額は5万8879ウォン",
-        "excerpt": "コスダック上場企業タイガーエレックは2026年5月12日、第1回300億ウォン規模の転換社債発行を公示した。転換価額は5万8879ウォンで、転換請求は2027年5月20日から始まる。",
-        "body": "コスダック上場企業のタイガーエレックは2026年5月12日、第1回300億ウォン規模の転換社債を発行すると公示した。今回の公示によると、転換価額は5万8879ウォンに設定された。転換社債は、一定の条件に基づき株式へ転換できる債券で、投資家は定められた期間に転換権を行使できる。タイガーエレックが明らかにした転換請求期間は2027年5月20日から始まる。今回の発行は、公示基準で同社の資金調達に関する主要日程と転換条件を確認できる事項だ。今後、市場では転換価額と転換請求開始時点が主な参考指標になるとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Tiger Elec公告发行300亿韩元可转债 转换价定为58879韩元",
-        "excerpt": "科斯达克上市公司Tiger Elec于2026年5月12日公告，将发行第一期规模300亿韩元的可转换债券，转换价格为58879韩元，转股申请期自2027年5月20日开始。",
-        "body": "科斯达克上市公司Tiger Elec于2026年5月12日公告称，将发行第一期规模300亿韩元的可转换债券。根据此次公告，转换价格确定为58879韩元。可转换债券是在特定条件下可转换为股票的债券，投资者可在规定期间内行使转换权。Tiger Elec披露的转股申请期将从2027年5月20日开始。此次发行是从公告层面确认公司融资相关主要日程和转换条件的重要事项。今后，市场预计将把转换价格和转股申请起始时间作为主要参考指标。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Tiger Elec anuncia bonos convertibles por 30.000 millones de wones y fija precio",
-        "excerpt": "Tiger Elec, cotizada en Kosdaq, informó el 12 de mayo de 2026 que emitirá su primera serie de bonos convertibles por 30.000 millones de wones, con precio de conversión de 58.879 wones y periodo desde el 20 de mayo de 2027.",
-        "body": "Tiger Elec, empresa cotizada en Kosdaq, informó el 12 de mayo de 2026 que emitirá su primera serie de bonos convertibles por un total de 30.000 millones de wones. Según la comunicación, el precio de conversión se fijó en 58.879 wones. Un bono convertible es un título de deuda que puede convertirse en acciones bajo determinadas condiciones, y los inversores pueden ejercer ese derecho durante el periodo establecido. Tiger Elec indicó que el periodo de solicitud de conversión comenzará el 20 de mayo de 2027. La emisión permite verificar, según la información divulgada, el calendario de financiación y las condiciones de conversión de la compañía. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Tiger Elec anuncia debêntures conversíveis de 30 bilhões de won e preço definido",
-        "excerpt": "A Tiger Elec, listada na Kosdaq, informou em 12 de maio de 2026 que emitirá sua primeira série de debêntures conversíveis de 30 bilhões de won, com preço de conversão de 58.879 won e pedidos a partir de 20 de maio de 2027.",
-        "body": "A Tiger Elec, companhia listada na Kosdaq, informou em 12 de maio de 2026 que emitirá sua primeira série de debêntures conversíveis no valor de 30 bilhões de won. Segundo o comunicado, o preço de conversão foi definido em 58.879 won. Uma debênture conversível é um título que pode ser convertido em ações sob condições determinadas, e os investidores podem exercer esse direito durante o período estabelecido. A Tiger Elec afirmou que o período para solicitação de conversão começará em 20 de maio de 2027. A emissão permite confirmar, pelo comunicado, o cronograma de captação e as condições de conversão da empresa. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Tiger Elec kündigt Wandelanleihe über 30 Mrd. Won an, Wandlungspreis festgelegt",
-        "excerpt": "Das an der Kosdaq notierte Unternehmen Tiger Elec gab am 12. Mai 2026 die Ausgabe seiner ersten Wandelanleihe über 30 Milliarden Won bekannt. Der Wandlungspreis liegt bei 58.879 Won, Anträge sind ab 20. Mai 2027 möglich.",
-        "body": "Das an der Kosdaq notierte Unternehmen Tiger Elec gab am 12. Mai 2026 bekannt, seine erste Wandelanleihe im Umfang von 30 Milliarden Won auszugeben. Laut Mitteilung wurde der Wandlungspreis auf 58.879 Won festgelegt. Eine Wandelanleihe ist eine Anleihe, die unter bestimmten Bedingungen in Aktien umgewandelt werden kann; Anleger können dieses Recht innerhalb des festgelegten Zeitraums ausüben. Tiger Elec teilte mit, dass die Frist für Wandlungsanträge am 20. Mai 2027 beginnt. Die Emission macht nach der Veröffentlichung wichtige Eckdaten zur Finanzierung und zu den Wandlungsbedingungen des Unternehmens sichtbar. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Tiger Elec annonce 30 milliards de wons d’obligations convertibles, prix fixé",
-        "excerpt": "Tiger Elec, cotée au Kosdaq, a annoncé le 12 mai 2026 l’émission de sa première série d’obligations convertibles de 30 milliards de wons, avec un prix de conversion de 58 879 wons et une période ouverte le 20 mai 2027.",
-        "body": "Tiger Elec, société cotée au Kosdaq, a annoncé le 12 mai 2026 l’émission de sa première série d’obligations convertibles pour un montant de 30 milliards de wons. Selon l’avis publié, le prix de conversion a été fixé à 58 879 wons. Une obligation convertible est un titre de dette pouvant être converti en actions sous certaines conditions, et les investisseurs peuvent exercer ce droit pendant la période définie. Tiger Elec a indiqué que la période de demande de conversion commencera le 20 mai 2027. Cette émission permet de confirmer, sur la base de l’annonce, les principales dates de financement et les conditions de conversion de l’entreprise. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تايغر إلك تعلن إصدار سندات قابلة للتحويل بـ30 مليار وون وسعر تحويل محدد",
-        "excerpt": "أعلنت شركة تايغر إلك المدرجة في كوسداك في 12 مايو 2026 إصدار أول سندات قابلة للتحويل بقيمة 30 مليار وون، مع تحديد سعر التحويل عند 58,879 وون وبدء طلبات التحويل في 20 مايو 2027.",
-        "body": "أعلنت شركة تايغر إلك المدرجة في كوسداك في 12 مايو 2026 أنها ستصدر أول سندات قابلة للتحويل بقيمة إجمالية تبلغ 30 مليار وون. ووفقاً للإفصاح، تم تحديد سعر التحويل عند 58,879 وون. والسند القابل للتحويل هو أداة دين يمكن تحويلها إلى أسهم وفق شروط محددة، ويمكن للمستثمرين ممارسة حق التحويل خلال الفترة المقررة. وذكرت تايغر إلك أن فترة طلب التحويل ستبدأ في 20 مايو 2027. ويعد هذا الإصدار بنداً مهماً في الإفصاح يوضح جدول التمويل وشروط التحويل الخاصة بالشركة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Tiger Elec ने 30 अरब वॉन के परिवर्तनीय बॉन्ड की घोषणा की, मूल्य तय",
-        "excerpt": "Kosdaq-सूचीबद्ध Tiger Elec ने 12 मई 2026 को 30 अरब वॉन के पहले परिवर्तनीय बॉन्ड जारी करने की सूचना दी। रूपांतरण मूल्य 58,879 वॉन है और रूपांतरण दावा अवधि 20 मई 2027 से शुरू होगी।",
-        "body": "Kosdaq-सूचीबद्ध Tiger Elec ने 12 मई 2026 को घोषणा की कि वह 30 अरब वॉन के अपने पहले परिवर्तनीय बॉन्ड जारी करेगी। प्रकटीकरण के अनुसार, रूपांतरण मूल्य 58,879 वॉन तय किया गया है। परिवर्तनीय बॉन्ड ऐसा ऋण साधन है जिसे निर्धारित शर्तों के तहत शेयरों में बदला जा सकता है, और निवेशक तय अवधि में रूपांतरण अधिकार का उपयोग कर सकते हैं। Tiger Elec ने बताया कि रूपांतरण दावा अवधि 20 मई 2027 से शुरू होगी। यह जारीकरण कंपनी की वित्तपोषण संबंधी प्रमुख समय-सारिणी और रूपांतरण शर्तों की पुष्टि करने वाला महत्वपूर्ण प्रकटीकरण है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Tiger Elec Umumkan Obligasi Konversi 30 Miliar Won, Harga Konversi Ditetapkan",
-        "excerpt": "Tiger Elec, emiten Kosdaq, mengumumkan pada 12 Mei 2026 penerbitan obligasi konversi pertama senilai 30 miliar won. Harga konversi ditetapkan 58.879 won, dengan periode klaim mulai 20 Mei 2027.",
-        "body": "Tiger Elec, perusahaan yang tercatat di Kosdaq, mengumumkan pada 12 Mei 2026 bahwa akan menerbitkan obligasi konversi pertama senilai total 30 miliar won. Berdasarkan pengumuman tersebut, harga konversi ditetapkan sebesar 58.879 won. Obligasi konversi adalah surat utang yang dapat dikonversi menjadi saham berdasarkan ketentuan tertentu, dan investor dapat menggunakan hak konversi selama periode yang ditetapkan. Tiger Elec menyatakan bahwa periode klaim konversi akan dimulai pada 20 Mei 2027. Penerbitan ini menjadi informasi penting untuk melihat jadwal pendanaan dan syarat konversi perusahaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fc1ce9845b7b",
-    "slug": "판타지오-50억원-규모-유상증자-실시-240156",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T09:18:59.269Z",
-    "updatedAt": "2026-05-12T09:18:59.269Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045092",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045092",
-    "titleFingerprint": "3310744561b56d567854910470c8f4499d0e1116",
-    "dedupKeys": [
-      "fc1ce9845b7b6a8a84bf1a3a93138528c6be1cee",
-      "3310744561b56d567854910470c8f4499d0e1116",
-      "e832132e9ac4cb1d39dc854e7916404010dbddf0"
-    ],
-    "imageUrl": "/images/articles/fc1ce9845b7b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "판타지오, 50억원 규모 제3자배정 유상증자 공시",
-        "excerpt": "코스닥 상장사 판타지오는 2026년 5월 12일 49억9999만9719원 규모의 제3자배정 유상증자를 실시한다고 공시했다.",
-        "body": "코스닥 상장사 판타지오는 2026년 5월 12일 제3자배정 방식의 유상증자를 실시한다고 공시했다. 공시된 증자 규모는 49억9999만9719원이다. 이번 유상증자는 회사가 외부 대상자에게 신주를 배정하는 방식으로 진행되는 자금 조달 절차다. 원문에 따르면 신주 발행 주식 수는 보통주 327만1천주대로 제시됐다. 시장에서는 상장사의 유상증자 공시가 자금 조달 계획과 주식 수 변화에 관한 핵심 정보로 받아들여진다. 다만 공시에서 확인된 내용 외의 사용 목적이나 추가 조건은 원문 요약에 포함되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Fantagio Discloses 5 Billion Won Third-Party Capital Increase",
-        "excerpt": "KOSDAQ-listed Fantagio disclosed on May 12, 2026 that it will carry out a third-party allotment capital increase worth 4,999,999,719 won.",
-        "body": "Fantagio, a KOSDAQ-listed company, disclosed on May 12, 2026 that it will conduct a paid-in capital increase through a third-party allotment. The announced size of the capital increase is 4,999,999,719 won. The transaction is a financing procedure in which the company allocates new shares to outside parties. According to the source summary, the number of new shares to be issued was presented as common shares in the range of 3.271 million shares. For listed companies, such disclosures are regarded as key information about financing plans and changes in share count. However, the original summary did not include additional details such as the use of proceeds or other conditions beyond the disclosed facts. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ファンタジオ、約50億ウォン規模の第三者割当増資を公示",
-        "excerpt": "KOSDAQ上場企業のファンタジオは2026年5月12日、49億9999万9719ウォン規模の第三者割当増資を実施すると公示した。",
-        "body": "KOSDAQ上場企業のファンタジオは2026年5月12日、第三者割当方式による有償増資を実施すると公示した。公示された増資規模は49億9999万9719ウォン。今回の有償増資は、会社が外部の対象者に新株を割り当てる形で進める資金調達手続きだ。原文によると、新株発行株式数は普通株327万1000株台と示された。市場では、上場企業の有償増資公示は資金調達計画と株式数の変化に関する重要情報として受け止められる。ただし、公示で確認された内容以外の資金使途や追加条件は原文要約に含まれていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Fantagio披露约50亿韩元第三方配售增资计划",
-        "excerpt": "KOSDAQ上市公司Fantagio于2026年5月12日公告称，将实施规模为49亿9999万9719韩元的第三方配售增资。",
-        "body": "KOSDAQ上市公司Fantagio于2026年5月12日公告称，将以第三方配售方式实施有偿增资。公告显示，本次增资规模为49亿9999万9719韩元。此次有偿增资是公司向外部对象分配新股的融资程序。根据原文摘要，新发行股份数量为普通股327.1万股左右。对于上市公司而言，有偿增资公告通常被视为有关融资计划和股本变化的重要信息。不过，除已披露内容外，原文摘要未包含资金用途或其他附加条件等细节。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fantagio anuncia ampliación de capital de unos 5.000 millones de wones",
-        "excerpt": "La empresa Fantagio, cotizada en KOSDAQ, informó el 12 de mayo de 2026 que realizará una ampliación de capital por asignación a terceros de 4.999.999.719 wones.",
-        "body": "Fantagio, empresa cotizada en KOSDAQ, informó el 12 de mayo de 2026 que realizará una ampliación de capital pagada mediante asignación a terceros. El importe anunciado asciende a 4.999.999.719 wones. Esta operación es un procedimiento de financiación en el que la compañía asigna nuevas acciones a destinatarios externos. Según el resumen original, el número de nuevas acciones a emitir se presentó como acciones ordinarias en el rango de 3,271 millones. En el mercado, este tipo de anuncios de una empresa cotizada se considera información clave sobre planes de financiación y cambios en el número de acciones. No obstante, el resumen original no incluyó otros detalles, como el uso de los fondos o condiciones adicionales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fantagio anuncia aumento de capital de quase 5 bilhões de wones",
-        "excerpt": "A Fantagio, listada na KOSDAQ, informou em 12 de maio de 2026 que fará aumento de capital por alocação a terceiros no valor de 4.999.999.719 wones.",
-        "body": "A Fantagio, empresa listada na KOSDAQ, informou em 12 de maio de 2026 que realizará um aumento de capital pago por meio de alocação a terceiros. O valor divulgado é de 4.999.999.719 wones. A operação é um procedimento de captação de recursos no qual a companhia distribui novas ações a destinatários externos. Segundo o resumo original, o número de novas ações a serem emitidas foi apresentado como ações ordinárias na faixa de 3,271 milhões. Para empresas listadas, esse tipo de comunicado é visto como informação relevante sobre planos de financiamento e mudanças no número de ações. No entanto, o resumo original não trouxe detalhes adicionais, como uso dos recursos ou outras condições. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Fantagio meldet Kapitalerhöhung über fast 5 Milliarden Won",
-        "excerpt": "Das KOSDAQ-Unternehmen Fantagio teilte am 12. Mai 2026 mit, eine Kapitalerhöhung durch Drittzuteilung im Umfang von 4.999.999.719 Won durchzuführen.",
-        "body": "Fantagio, ein an der KOSDAQ notiertes Unternehmen, gab am 12. Mai 2026 bekannt, eine bezahlte Kapitalerhöhung im Wege einer Drittzuteilung durchzuführen. Das veröffentlichte Volumen beträgt 4.999.999.719 Won. Bei diesem Verfahren weist das Unternehmen neuen Aktien externen Adressaten zu, um Kapital aufzunehmen. Laut der ursprünglichen Zusammenfassung wurde die Zahl der neu auszugebenden Aktien als Stammaktien im Bereich von 3,271 Millionen angegeben. Für börsennotierte Unternehmen gelten solche Mitteilungen als zentrale Informationen zu Finanzierungsplänen und Veränderungen der Aktienzahl. Weitere Angaben, etwa zur Mittelverwendung oder zu zusätzlichen Bedingungen, enthielt die ursprüngliche Zusammenfassung nicht. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Fantagio annonce une augmentation de capital de près de 5 milliards de wons",
-        "excerpt": "La société Fantagio, cotée au KOSDAQ, a annoncé le 12 mai 2026 une augmentation de capital par attribution à des tiers d’un montant de 4 999 999 719 wons.",
-        "body": "Fantagio, société cotée au KOSDAQ, a annoncé le 12 mai 2026 qu’elle procéderait à une augmentation de capital payée par attribution à des tiers. Le montant communiqué atteint 4 999 999 719 wons. Cette opération correspond à une procédure de financement dans laquelle l’entreprise attribue de nouvelles actions à des bénéficiaires externes. Selon le résumé original, le nombre de nouvelles actions à émettre a été présenté comme des actions ordinaires autour de 3,271 millions. Pour une société cotée, ce type d’annonce est considéré comme une information importante sur le plan de financement et l’évolution du nombre d’actions. Le résumé original ne mentionne toutefois pas d’autres éléments, comme l’utilisation des fonds ou des conditions supplémentaires. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "فانتاجيو تعلن زيادة رأسمال بنحو 5 مليارات وون عبر تخصيص لطرف ثالث",
-        "excerpt": "أعلنت شركة فانتاجيو المدرجة في كوسداك في 12 مايو 2026 أنها ستنفذ زيادة رأسمال بتخصيص لطرف ثالث بقيمة 4,999,999,719 وون.",
-        "body": "أعلنت شركة فانتاجيو المدرجة في كوسداك في 12 مايو 2026 أنها ستنفذ زيادة رأسمال مدفوعة بطريقة التخصيص لطرف ثالث. وبلغ حجم الزيادة المعلن 4,999,999,719 وون. وتعد هذه العملية إجراء تمويليا تخصص فيه الشركة أسهما جديدة لأطراف خارجية. ووفقا للملخص الأصلي، فقد عُرض عدد الأسهم الجديدة المزمع إصدارها كأسهم عادية في حدود 3.271 مليون سهم. وفي السوق، تُعد إفصاحات زيادة رأس المال للشركات المدرجة معلومات أساسية بشأن خطط التمويل والتغير في عدد الأسهم. ولم يتضمن الملخص الأصلي تفاصيل إضافية مثل استخدام الحصيلة أو شروط أخرى خارج ما تم الإفصاح عنه. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Fantagio ने करीब 5 अरब वॉन की थर्ड-पार्टी पूंजी वृद्धि घोषित की",
-        "excerpt": "KOSDAQ-सूचीबद्ध Fantagio ने 12 मई 2026 को बताया कि वह 4,999,999,719 वॉन की थर्ड-पार्टी अलॉटमेंट वाली पेड-इन कैपिटल वृद्धि करेगी।",
-        "body": "KOSDAQ-सूचीबद्ध कंपनी Fantagio ने 12 मई 2026 को खुलासा किया कि वह थर्ड-पार्टी अलॉटमेंट पद्धति से पेड-इन कैपिटल वृद्धि करेगी। घोषित वृद्धि का आकार 4,999,999,719 वॉन है। यह पूंजी जुटाने की प्रक्रिया है, जिसमें कंपनी बाहरी प्राप्तकर्ताओं को नए शेयर आवंटित करती है। मूल सारांश के अनुसार, जारी किए जाने वाले नए शेयरों की संख्या सामान्य शेयरों के रूप में लगभग 3.271 मिलियन के दायरे में बताई गई। सूचीबद्ध कंपनियों के लिए ऐसी सूचना वित्तपोषण योजना और शेयरों की संख्या में बदलाव से जुड़ी अहम जानकारी मानी जाती है। हालांकि, मूल सारांश में आय के उपयोग या अतिरिक्त शर्तों जैसे अन्य विवरण शामिल नहीं थे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Fantagio Umumkan Rights Issue Pihak Ketiga Hampir 5 Miliar Won",
-        "excerpt": "Fantagio, emiten KOSDAQ, pada 12 Mei 2026 mengumumkan akan melakukan penambahan modal melalui penjatahan pihak ketiga senilai 4.999.999.719 won.",
-        "body": "Fantagio, perusahaan yang tercatat di KOSDAQ, pada 12 Mei 2026 mengumumkan akan melakukan penambahan modal disetor melalui penjatahan kepada pihak ketiga. Nilai yang diumumkan mencapai 4.999.999.719 won. Aksi ini merupakan prosedur pendanaan dengan cara perusahaan mengalokasikan saham baru kepada pihak eksternal. Menurut ringkasan sumber, jumlah saham baru yang akan diterbitkan disajikan sebagai saham biasa di kisaran 3,271 juta saham. Di pasar, pengumuman penambahan modal oleh emiten dipandang sebagai informasi penting mengenai rencana pendanaan dan perubahan jumlah saham. Namun, ringkasan asli tidak memuat rincian tambahan seperti penggunaan dana atau syarat lain di luar informasi yang diungkapkan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4f31a2a3672a",
-    "slug": "tcc스틸-210억-원-규모-전환사채-발행-448627",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T09:16:05.484Z",
-    "updatedAt": "2026-05-12T09:16:05.484Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045093",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045093",
-    "titleFingerprint": "ec06609348e45f5c403c3f13f6a98f2233079f04",
-    "dedupKeys": [
-      "4f31a2a3672acba03a529454ae6910bf23fbb50e",
-      "ec06609348e45f5c403c3f13f6a98f2233079f04",
-      "0b0b882d6ec741830efb7649a9e5f802f2e4212e"
-    ],
-    "imageUrl": "/images/articles/4f31a2a3672a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "TCC스틸, 210억 원 전환사채 발행 공시…전환가액 1만9150원",
-        "excerpt": "유가증권시장 상장사 TCC스틸은 2026년 5월 12일 제42회 210억 원 규모 전환사채 발행을 공시했으며 전환가액은 1만9150원으로 제시됐다.",
-        "body": "유가증권시장 상장사 TCC스틸이 2026년 5월 12일 제42회 전환사채 발행을 공시했다. 발행 규모는 210억 원이며, 공시에 제시된 전환가액은 1만9150원이다. 전환 청구 기간은 2027년 5월부터로 언급됐다. 이번 공시는 회사의 자금 조달 수단이 전환사채 형태라는 점과 전환 조건의 핵심 수치가 공개됐다는 점에서 투자자가 확인할 주요 공시 사안이다. 향후 확인 항목은 발행 규모, 전환가액, 전환 청구 가능 시점 등 공시 조건에 집중된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "TCC Steel Announces 21 Billion Won Convertible Bond Issue, Conversion Price Set",
-        "excerpt": "KOSPI-listed TCC Steel disclosed on May 12, 2026 that it will issue its 42nd convertible bond worth 21 billion won, with the conversion price set at 19,150 won.",
-        "body": "TCC Steel, a company listed on the Korea Composite Stock Price Index market, disclosed on May 12, 2026 that it will issue its 42nd convertible bond. The issue size is 21 billion won, and the disclosed conversion price is 19,150 won. The conversion claim period was mentioned as beginning in May 2027. The filing is a key item for investors because it identifies convertible bonds as the financing instrument and provides the main conversion terms. Follow-up attention is limited to the disclosed conditions, including the issue size, conversion price and the timing from which conversion claims may be made. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "TCCスチール、210億ウォン規模の転換社債発行を公示",
-        "excerpt": "有価証券市場上場のTCCスチールは2026年5月12日、第42回210億ウォン規模の転換社債発行を公示し、転換価額は1万9150ウォンとした。",
-        "body": "有価証券市場に上場するTCCスチールは2026年5月12日、第42回転換社債の発行を公示した。発行規模は210億ウォンで、公示された転換価額は1万9150ウォン。転換請求期間は2027年5月からとされている。今回の公示は、同社の資金調達手段が転換社債であること、また転換条件の主要数値が示された点で投資家が確認すべき情報となる。今後の確認事項は、発行規模、転換価額、転換請求が可能となる時点など、公示された条件に限られる。出所: mk.co.kr."
-      },
-      "zh": {
-        "title": "TCC Steel公告发行210亿韩元可转债，转股价19150韩元",
-        "excerpt": "韩国有价证券市场上市公司TCC Steel于2026年5月12日公告，将发行第42次、规模210亿韩元的可转换债券，转股价为19150韩元。",
-        "body": "韩国有价证券市场上市公司TCC Steel于2026年5月12日公告发行第42次可转换债券。此次发行规模为210亿韩元，公告中列明的转股价格为19150韩元。转股请求期被提及为自2027年5月开始。该公告的重点在于，公司以可转换债券形式进行融资，并披露了主要转股条件。后续可关注的内容限于公告条件本身，包括发行规模、转股价格以及可提出转股请求的时间等。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "TCC Steel anuncia bonos convertibles por 21.000 millones de wones",
-        "excerpt": "TCC Steel, cotizada en el mercado de valores de Corea, informó el 12 de mayo de 2026 la emisión de su 42.º bono convertible por 21.000 millones de wones.",
-        "body": "TCC Steel, empresa cotizada en el mercado de valores de Corea, informó el 12 de mayo de 2026 la emisión de su 42.º bono convertible. El tamaño de la emisión es de 21.000 millones de wones y el precio de conversión indicado en la comunicación es de 19.150 wones. El periodo para solicitar la conversión fue mencionado como a partir de mayo de 2027. La comunicación es relevante porque identifica el bono convertible como instrumento de financiación y presenta las principales condiciones de conversión. La atención posterior se limita a los términos divulgados: tamaño de la emisión, precio de conversión y momento desde el que puede solicitarse la conversión. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "TCC Steel anuncia emissão de bônus conversíveis de 21 bilhões de wones",
-        "excerpt": "A TCC Steel, listada no mercado de valores coreano, divulgou em 12 de maio de 2026 a emissão de sua 42ª debênture conversível, no valor de 21 bilhões de wones.",
-        "body": "A TCC Steel, companhia listada no mercado de valores da Coreia, divulgou em 12 de maio de 2026 a emissão de sua 42ª debênture conversível. O valor da emissão é de 21 bilhões de wones, e o preço de conversão informado é de 19.150 wones. O período de solicitação de conversão foi mencionado como tendo início em maio de 2027. O comunicado é um ponto de atenção porque mostra que o instrumento de financiamento é uma debênture conversível e apresenta os principais termos de conversão. A análise posterior fica restrita às condições divulgadas, como valor da emissão, preço de conversão e início do período de solicitação. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "TCC Steel meldet Wandelanleihe über 21 Milliarden Won mit Wandlungspreis",
-        "excerpt": "Das am koreanischen Aktienmarkt notierte Unternehmen TCC Steel gab am 12. Mai 2026 die Ausgabe seiner 42. Wandelanleihe über 21 Milliarden Won bekannt.",
-        "body": "TCC Steel, ein am koreanischen Wertpapiermarkt notiertes Unternehmen, gab am 12. Mai 2026 die Ausgabe seiner 42. Wandelanleihe bekannt. Das Emissionsvolumen beträgt 21 Milliarden Won, der in der Mitteilung genannte Wandlungspreis liegt bei 19.150 Won. Der Zeitraum für Wandlungsanträge wurde ab Mai 2027 erwähnt. Die Meldung ist relevant, weil sie die Wandelanleihe als Finanzierungsinstrument nennt und zentrale Wandlungsbedingungen offenlegt. Weitere Aufmerksamkeit richtet sich auf die veröffentlichten Bedingungen selbst, darunter Emissionsvolumen, Wandlungspreis und der Zeitpunkt, ab dem Wandlungsanträge möglich sind. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "TCC Steel annonce une obligation convertible de 21 milliards de wons",
-        "excerpt": "TCC Steel, société cotée sur le marché coréen, a annoncé le 12 mai 2026 l’émission de sa 42e obligation convertible, d’un montant de 21 milliards de wons.",
-        "body": "TCC Steel, société cotée sur le marché coréen des valeurs mobilières, a annoncé le 12 mai 2026 l’émission de sa 42e obligation convertible. Le montant de l’émission est de 21 milliards de wons et le prix de conversion indiqué est de 19 150 wons. La période de demande de conversion est mentionnée comme commençant en mai 2027. Cette annonce constitue une information à suivre, car elle précise que le financement prend la forme d’une obligation convertible et présente les principales conditions de conversion. Les éléments à surveiller restent les conditions publiées, notamment le montant, le prix de conversion et le calendrier de demande. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "TCC Steel تعلن إصدار سندات قابلة للتحويل بقيمة 21 مليار وون",
-        "excerpt": "أعلنت شركة TCC Steel المدرجة في سوق الأوراق المالية الكوري في 12 مايو 2026 إصدار سنداتها القابلة للتحويل رقم 42 بقيمة 21 مليار وون وبسعر تحويل 19150 وون.",
-        "body": "أعلنت شركة TCC Steel، المدرجة في سوق الأوراق المالية الكوري، في 12 مايو 2026 إصدار سنداتها القابلة للتحويل رقم 42. يبلغ حجم الإصدار 21 مليار وون، بينما حدد الإفصاح سعر التحويل عند 19150 وون. وذُكر أن فترة طلب التحويل تبدأ في مايو 2027. يكتسب الإفصاح أهميته لأنه يوضح أن أداة التمويل هي سندات قابلة للتحويل، ويعرض الأرقام الأساسية لشروط التحويل. وتبقى نقاط المتابعة محصورة في الشروط المعلنة، مثل حجم الإصدار وسعر التحويل وموعد إمكانية تقديم طلب التحويل. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "TCC Steel ने 21 अरब वॉन के कन्वर्टिबल बॉन्ड जारी करने की सूचना दी",
-        "excerpt": "कोरियाई प्रतिभूति बाजार में सूचीबद्ध TCC Steel ने 12 मई 2026 को 21 अरब वॉन के 42वें कन्वर्टिबल बॉन्ड जारी करने की घोषणा की, जिसका रूपांतरण मूल्य 19,150 वॉन है।",
-        "body": "कोरियाई प्रतिभूति बाजार में सूचीबद्ध TCC Steel ने 12 मई 2026 को अपने 42वें कन्वर्टिबल बॉन्ड जारी करने की सूचना दी। निर्गम का आकार 21 अरब वॉन है और सूचना में रूपांतरण मूल्य 19,150 वॉन बताया गया है। रूपांतरण दावा अवधि मई 2027 से शुरू होने के रूप में उल्लेखित है। यह सूचना इसलिए महत्वपूर्ण है क्योंकि कंपनी ने वित्तपोषण के साधन के रूप में कन्वर्टिबल बॉन्ड को चुना है और रूपांतरण से जुड़ी प्रमुख शर्तें बताई हैं। आगे ध्यान निर्गम आकार, रूपांतरण मूल्य और रूपांतरण दावा करने की संभावित शुरुआत जैसे घोषित बिंदुओं तक सीमित रहेगा। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "TCC Steel Umumkan Obligasi Konversi 21 Miliar Won, Harga Konversi Ditetapkan",
-        "excerpt": "TCC Steel, emiten di pasar saham Korea, pada 12 Mei 2026 mengumumkan penerbitan obligasi konversi ke-42 senilai 21 miliar won dengan harga konversi 19.150 won.",
-        "body": "TCC Steel, perusahaan yang tercatat di pasar efek Korea, pada 12 Mei 2026 mengumumkan penerbitan obligasi konversi ke-42. Nilai penerbitan mencapai 21 miliar won, sementara harga konversi yang disebutkan dalam pengumuman adalah 19.150 won. Periode pengajuan konversi disebut mulai Mei 2027. Pengumuman ini menjadi informasi penting karena menunjukkan instrumen pendanaan yang digunakan adalah obligasi konversi dan memuat angka utama terkait syarat konversi. Perhatian berikutnya terbatas pada ketentuan yang diumumkan, termasuk nilai penerbitan, harga konversi, dan waktu mulai pengajuan konversi. Sumber: mk.co.kr."
       }
     }
   }
