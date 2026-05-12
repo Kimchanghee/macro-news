@@ -1,5 +1,230 @@
 [
   {
+    "id": "138f85de18a0",
+    "slug": "8천피-코앞서-잡주처럼-널뛴-증시뭐가-끌어내렸나-살펴보니-563983",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T12:34:18.461Z",
+    "updatedAt": "2026-05-12T12:34:18.461Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045327",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045327",
+    "titleFingerprint": "67d4fd0b251ee5f1a1f43d9f793541d403f3bb5f",
+    "dedupKeys": [
+      "138f85de18a0de83e354af5948c2af4e438cee4f",
+      "67d4fd0b251ee5f1a1f43d9f793541d403f3bb5f",
+      "ea0932c7d9a1ddb9b594900084622b1fa66b46ba"
+    ],
+    "imageUrl": "/images/articles/138f85de18a0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000선 앞두고 6거래일 만에 하락, AI 배당금·마이크론 약세가 흔든 장세",
+        "excerpt": "가파르게 오르던 코스피가 8000선을 앞두고 6거래일 만에 하락 전환했다. AI 국민배당금 소식과 마이크론 시간외 약세가 장중 변동성을 키웠다.",
+        "body": "코스피가 8000선을 눈앞에 둔 시점에서 6거래일 만에 하락 전환하며 장중 큰 변동성을 보였다. 원문에 따르면 가파르게 오르던 증시는 ‘AI 국민배당금’ 관련 소식이 전해진 뒤 장중 5% 급락하는 등 급격히 흔들렸다. 여기에 마이크론 등 주요 종목의 시간외거래 약세도 투자심리에 부담으로 작용한 것으로 제시됐다. 최근 상승 흐름이 이어졌던 만큼 지수 8000선 접근을 앞두고 차익 실현과 외부 변수에 민감하게 반응한 장세로 풀이된다. 시장의 관심은 급락 요인이 일시적 충격에 그칠지, 추가 조정으로 이어질지에 모인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Falls After Six Sessions Near 8,000 as AI Dividend News and Micron Weakness Hit Sentiment",
+        "excerpt": "The KOSPI turned lower after six sessions as it neared 8,000, with AI public dividend news and weakness in Micron’s after-hours trading amplifying intraday volatility.",
+        "body": "The KOSPI shifted lower after six trading sessions just as it approached the 8,000 mark, showing sharp intraday volatility. According to the original report, the rapidly rising market was shaken after news related to an “AI public dividend” emerged, with the index plunging as much as 5% during the session. Weakness in after-hours trading by Micron and other major names was also cited as a drag on investor sentiment. After a steep recent advance, the market appeared sensitive to profit-taking and external variables near the symbolic 8,000 level. Investors are now focused on whether the drop remains a temporary shock or leads to further correction. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、8000目前で6営業日ぶり下落　AI配当金報道とマイクロン安が重し",
+        "excerpt": "急騰していたKOSPIは8000を目前に6営業日ぶりに下落へ転じた。AI国民配当金の報道とマイクロンの時間外安が日中の変動性を高めた。",
+        "body": "KOSPIは8000目前の局面で6営業日ぶりに下落へ転じ、取引時間中に大きな変動性を示した。原文によると、急ピッチで上昇していた相場は「AI国民配当金」に関するニュースが伝わった後、日中に5%急落するなど大きく揺れた。さらにマイクロンなど主要銘柄の時間外取引での弱さも投資家心理の重荷になったとされる。最近の上昇基調が続いていたため、8000接近を前に利益確定や外部要因に敏感に反応した相場とみられる。市場の関心は、この急落が一時的な衝撃にとどまるのか、追加調整につながるのかに集まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI逼近8000点后六个交易日来首次下跌，AI分红消息与美光走弱冲击市场",
+        "excerpt": "快速上涨的KOSPI在逼近8000点之际六个交易日来首次转跌。AI国民分红消息和美光盘后走弱加剧了盘中波动。",
+        "body": "KOSPI在逼近8000点时六个交易日来首次转为下跌，盘中波动明显加剧。根据原文，快速上涨的股市在传出“AI国民分红”相关消息后大幅震荡，盘中一度急跌5%。同时，美光等主要个股盘后交易走弱，也被认为对投资情绪形成压力。由于近期指数持续上行，市场在接近8000点关口前对获利了结和外部变量反应更加敏感。投资者目前关注的是，此次急跌是否只是短暂冲击，还是会进一步演变为追加调整。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El KOSPI cae tras seis sesiones cerca de 8.000 por dividendo de IA y debilidad de Micron",
+        "excerpt": "El KOSPI giró a la baja tras seis sesiones al acercarse a 8.000 puntos, mientras la noticia del dividendo público de IA y la debilidad de Micron elevaron la volatilidad.",
+        "body": "El KOSPI pasó a terreno negativo tras seis sesiones justo cuando se acercaba al nivel de 8.000 puntos, con una fuerte volatilidad intradía. Según el informe original, el mercado, que venía subiendo con rapidez, se vio sacudido después de conocerse una noticia relacionada con el “dividendo público de IA”, y llegó a caer un 5% durante la sesión. La debilidad en la negociación fuera de horario de Micron y otros valores importantes también fue señalada como un factor de presión sobre el ánimo inversor. Tras el reciente avance, el mercado reaccionó con sensibilidad a la toma de beneficios y a variables externas cerca del umbral de 8.000. La atención se centra ahora en si la caída será un shock temporal o dará paso a una corrección adicional. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI cai após seis sessões perto dos 8.000 com dividendo de IA e fraqueza da Micron",
+        "excerpt": "O KOSPI virou para queda após seis pregões ao se aproximar dos 8.000 pontos, com notícia sobre dividendo público de IA e fraqueza da Micron elevando a volatilidade.",
+        "body": "O KOSPI passou a cair após seis pregões justamente quando se aproximava dos 8.000 pontos, exibindo forte volatilidade intradiária. Segundo o relato original, o mercado, que vinha subindo de forma acentuada, foi abalado após a notícia relacionada ao “dividendo público de IA”, chegando a recuar 5% durante a sessão. A fraqueza nas negociações after-hours da Micron e de outros nomes importantes também foi apontada como peso sobre o sentimento dos investidores. Depois da alta recente, o índice pareceu reagir de forma sensível à realização de lucros e a fatores externos perto do nível de 8.000. O mercado agora observa se a queda ficará como choque temporário ou levará a uma correção adicional. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI fällt nach sechs Sitzungen nahe 8.000, KI-Dividendenmeldung und Micron-Schwäche belasten",
+        "excerpt": "Der KOSPI drehte nach sechs Handelstagen nahe der Marke von 8.000 ins Minus. Meldungen zur KI-Volksdividende und Microns Schwäche im nachbörslichen Handel erhöhten die Volatilität.",
+        "body": "Der KOSPI drehte nach sechs Handelstagen ins Minus, als er kurz vor der Marke von 8.000 stand, und zeigte im Tagesverlauf starke Schwankungen. Dem Originalbericht zufolge geriet der zuvor steil gestiegene Markt nach Nachrichten zur sogenannten “KI-Volksdividende” unter Druck und fiel intraday zeitweise um 5%. Zudem wurde die Schwäche von Micron und anderen wichtigen Titeln im nachbörslichen Handel als Belastung für die Anlegerstimmung genannt. Nach der jüngsten Aufwärtsbewegung reagierte der Markt nahe der 8.000er-Marke empfindlich auf Gewinnmitnahmen und externe Faktoren. Im Fokus steht nun, ob der Rückgang ein vorübergehender Schock bleibt oder in eine weitere Korrektur mündet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI recule après six séances près de 8 000, freiné par l’IA et la faiblesse de Micron",
+        "excerpt": "Le KOSPI a basculé en baisse après six séances alors qu’il approchait 8 000 points, la nouvelle sur le dividende public lié à l’IA et Micron amplifiant la volatilité.",
+        "body": "Le KOSPI est passé en baisse après six séances de hausse alors qu’il approchait le seuil des 8 000 points, avec une forte volatilité en séance. Selon l’article original, le marché, qui progressait rapidement, a été secoué après une information liée au “dividende public de l’IA”, chutant jusqu’à 5% pendant la séance. La faiblesse de Micron et d’autres grandes valeurs dans les échanges après clôture a également été citée comme un facteur pesant sur le sentiment des investisseurs. Après la récente progression, le marché a semblé réagir vivement aux prises de bénéfices et aux variables externes près du seuil de 8 000. L’attention porte désormais sur le caractère temporaire de cette chute ou sur le risque d’une correction supplémentaire. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتراجع قرب 8000 بعد ست جلسات مع ضغط أخبار توزيعات الذكاء الاصطناعي وضعف ميكرون",
+        "excerpt": "تحول مؤشر كوسبي إلى الهبوط بعد ست جلسات مع اقترابه من 8000 نقطة، إذ زادت أخبار توزيعات الذكاء الاصطناعي وضعف ميكرون بعد الإغلاق من تقلبات الجلسة.",
+        "body": "تحول مؤشر كوسبي إلى الهبوط بعد ست جلسات تداول مع اقترابه من مستوى 8000 نقطة، مسجلا تقلبات حادة خلال الجلسة. وبحسب التقرير الأصلي، اهتز السوق الذي كان يصعد بوتيرة قوية بعد ورود أخبار مرتبطة بـ“توزيعات عامة للذكاء الاصطناعي”، ليتراجع خلال الجلسة بما يصل إلى 5%. كما أشار التقرير إلى أن ضعف تداولات ما بعد الإغلاق لسهم ميكرون وأسماء رئيسية أخرى ضغط على معنويات المستثمرين. وبعد موجة الصعود الأخيرة، بدا السوق حساسا لجني الأرباح والعوامل الخارجية قرب مستوى 8000. وينصب اهتمام المستثمرين الآن على ما إذا كان الهبوط صدمة مؤقتة أم مقدمة لتصحيح إضافي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "8,000 के करीब KOSPI छह सत्र बाद गिरा, AI डिविडेंड खबर और Micron कमजोरी से झटका",
+        "excerpt": "KOSPI 8,000 अंक के करीब पहुंचकर छह कारोबारी सत्र बाद गिरावट में आया। AI सार्वजनिक डिविडेंड की खबर और Micron की आफ्टर-आवर्स कमजोरी ने उतार-चढ़ाव बढ़ाया।",
+        "body": "KOSPI 8,000 अंक के करीब पहुंचते ही छह कारोबारी सत्रों के बाद गिरावट में बदल गया और सत्र के दौरान तेज उतार-चढ़ाव दिखा। मूल रिपोर्ट के अनुसार, तेजी से चढ़ रहा बाजार “AI सार्वजनिक डिविडेंड” से जुड़ी खबर के बाद हिल गया और सत्र के दौरान 5% तक फिसल गया। Micron समेत प्रमुख शेयरों की आफ्टर-आवर्स ट्रेडिंग में कमजोरी को भी निवेशक धारणा पर दबाव का कारण बताया गया। हालिया तेज बढ़त के बाद 8,000 के स्तर के पास बाजार मुनाफावसूली और बाहरी कारकों के प्रति संवेदनशील दिखा। अब ध्यान इस पर है कि यह गिरावट अस्थायी झटका रहेगी या आगे अतिरिक्त करेक्शन में बदलेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Turun Setelah Enam Sesi Dekati 8.000, Kabar Dividen AI dan Micron Menekan",
+        "excerpt": "KOSPI berbalik turun setelah enam sesi saat mendekati 8.000, dengan kabar dividen publik AI dan pelemahan Micron di perdagangan after-hours memperbesar volatilitas.",
+        "body": "KOSPI berbalik turun setelah enam sesi perdagangan ketika mendekati level 8.000, menunjukkan volatilitas tajam sepanjang sesi. Menurut laporan asli, pasar yang sebelumnya naik cepat terguncang setelah muncul kabar terkait “dividen publik AI”, hingga sempat anjlok 5% intraday. Pelemahan Micron dan sejumlah saham utama lain dalam perdagangan after-hours juga disebut menekan sentimen investor. Setelah reli terbaru, pasar tampak sensitif terhadap aksi ambil untung dan faktor eksternal di dekat level 8.000. Perhatian kini tertuju pada apakah penurunan ini hanya menjadi guncangan sementara atau berlanjut menjadi koreksi tambahan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "bba6a9718488",
+    "slug": "군사작전-재개-적극-검토하겠다트럼프-방중-앞두고-이란-압박-864264",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T12:32:23.825Z",
+    "updatedAt": "2026-05-12T12:32:23.825Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12045349",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12045349",
+    "titleFingerprint": "4a290b345292d90679c76ed406fff29687fcc1b4",
+    "dedupKeys": [
+      "bba6a97184880d9d0b847777152032430ed8fe2d",
+      "4a290b345292d90679c76ed406fff29687fcc1b4",
+      "44e3ea8083a7cc45e47138d191015c8071942483"
+    ],
+    "imageUrl": "/images/articles/bba6a9718488.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프, 방중 앞두고 이란 압박 수위 높여…군사작전 재개 검토 시사",
+        "excerpt": "트럼프가 중국 방문을 앞두고 이란의 우라늄 미국 반출 입장 번복을 강하게 비판하며 군사작전 재개 가능성까지 거론해 압박 수위를 높였다.",
+        "body": "트럼프가 중국 방문을 앞두고 이란을 향한 압박 수위를 연일 높이고 있다. 원문에 따르면 그는 이란이 우라늄의 미국 반출 문제를 거듭 번복하자 이를 “쓰레기”, “시간 낭비”라고 비난하며 군사작전 재개를 적극 검토하겠다고 밝혔다. 해방작전 재가동 가능성도 시사됐다. 배경에는 이란 핵 관련 협상이 교착된 상황과 휴전이 “연명장치로 겨우 유지”되고 있다는 평가가 있다. 향후 표적타격 등 제한적 군사작전 가능성이 거론되지만, 기사에 제시된 범위에서는 실제 실행 여부보다 압박 메시지 강화에 초점이 맞춰져 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Trump Raises Pressure on Iran Before China Visit, Signals Military Option Review",
+        "excerpt": "Ahead of his visit to China, Trump sharply criticized Iran’s repeated reversals on uranium transfer to the U.S. and raised the possibility of restarting military operations.",
+        "body": "Trump is increasing pressure on Iran ahead of his visit to China. According to the original report, he denounced Iran’s repeated reversals over transferring uranium to the United States as “garbage” and a “waste of time,” saying he would actively consider resuming military operations. The report also said he hinted at restarting Operation Liberation. The backdrop is a stalled nuclear-related negotiation process and an assessment that the ceasefire is being maintained only “on life support.” Possible limited military moves, including targeted strikes, are being discussed, but within the report’s scope the focus is on a stronger pressure message rather than a confirmed operation. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "トランプ氏、中国訪問前にイラン圧力強化…軍事作戦再開の検討も示唆",
+        "excerpt": "トランプ氏は中国訪問を前に、ウランの米国搬出をめぐるイランの相次ぐ方針転換を批判し、軍事作戦再開の可能性にも言及した。",
+        "body": "トランプ氏が中国訪問を前に、イランへの圧力を連日強めている。原文によると、同氏はイランがウランの米国搬出問題で繰り返し立場を変えたことについて「ごみ」「時間の無駄」と非難し、軍事作戦の再開を積極的に検討すると述べた。解放作戦の再稼働を示唆したとも伝えられている。背景には、イラン核関連協議の停滞と、停戦が「生命維持装置で辛うじて維持されている」との評価がある。今後、標的攻撃など限定的な軍事作戦の可能性も取り沙汰されるが、記事の範囲では実行確定よりも圧力メッセージの強化に焦点が置かれている。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "特朗普访华前加大对伊朗施压，暗示考虑重启军事行动",
+        "excerpt": "特朗普在访华前批评伊朗反复改变铀运往美国的立场，并表示将积极考虑重启军事行动，进一步提高对伊朗压力。",
+        "body": "特朗普在访问中国前持续提高对伊朗的施压力度。据原文报道，伊朗在铀运往美国问题上多次反复，特朗普对此斥为“垃圾”和“浪费时间”，并表示将积极考虑恢复军事行动。报道还称，他暗示可能重启“解放行动”。这一表态的背景是伊朗核相关谈判陷入僵局，以及停火被认为只是靠“生命维持装置”勉强维持。外界也提到未来可能出现定点打击等有限军事行动，但就报道内容而言，重点仍在于强化对伊朗的压力信号，而非确认行动已经实施。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Trump eleva la presión sobre Irán antes de visitar China y apunta a opción militar",
+        "excerpt": "Antes de su visita a China, Trump criticó los cambios de postura de Irán sobre el traslado de uranio a EE. UU. y mencionó la posibilidad de reanudar operaciones militares.",
+        "body": "Trump está elevando la presión sobre Irán antes de su visita a China. Según el reporte original, criticó los reiterados cambios de postura de Irán sobre el traslado de uranio a Estados Unidos, calificándolos de “basura” y “pérdida de tiempo”, y dijo que consideraría activamente reanudar operaciones militares. También insinuó una posible reactivación de la Operación Liberación. El contexto es el estancamiento de las negociaciones vinculadas al programa nuclear iraní y la evaluación de que el alto el fuego apenas se mantiene “con soporte vital”. Se mencionan posibles operaciones limitadas, incluidos ataques selectivos, pero el foco del artículo está en el refuerzo del mensaje de presión, no en una acción confirmada. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Trump aumenta pressão sobre Irã antes de visita à China e cita opção militar",
+        "excerpt": "Antes de viajar à China, Trump criticou as reversões do Irã sobre o envio de urânio aos EUA e afirmou que pode considerar a retomada de operações militares.",
+        "body": "Trump está aumentando a pressão sobre o Irã antes de sua visita à China. Segundo a reportagem original, ele criticou as repetidas mudanças de posição do Irã sobre o envio de urânio aos Estados Unidos, chamando-as de “lixo” e “perda de tempo”, e disse que consideraria ativamente retomar operações militares. O texto também afirma que ele sugeriu a possível reativação da Operação Libertação. O pano de fundo é o impasse nas negociações ligadas ao tema nuclear iraniano e a avaliação de que o cessar-fogo se mantém apenas “por aparelhos”. Possíveis ações limitadas, como ataques direcionados, são mencionadas, mas o foco da reportagem está no reforço da pressão, não na confirmação de uma operação. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Trump erhöht vor China-Reise Druck auf Iran und deutet Prüfung militärischer Optionen an",
+        "excerpt": "Vor seiner China-Reise kritisierte Trump Irans wiederholte Kehrtwenden beim Uran-Transfer in die USA scharf und brachte eine Wiederaufnahme militärischer Operationen ins Spiel.",
+        "body": "Trump erhöht vor seiner Reise nach China den Druck auf Iran. Dem Originalbericht zufolge kritisierte er Irans wiederholte Kehrtwenden in der Frage eines Uran-Transfers in die Vereinigten Staaten als “Müll” und “Zeitverschwendung” und erklärte, er werde eine Wiederaufnahme militärischer Operationen aktiv prüfen. Auch eine erneute Aktivierung der Operation Liberation wurde angedeutet. Hintergrund sind festgefahrene Verhandlungen im Zusammenhang mit Irans Nuklearfrage und die Einschätzung, dass die Waffenruhe nur noch “an lebenserhaltenden Geräten” aufrechterhalten werde. Begrenzte militärische Schritte wie Zielangriffe werden genannt, doch im Bericht liegt der Schwerpunkt auf einer verschärften Druckbotschaft, nicht auf einer bestätigten Umsetzung. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Trump accentue la pression sur l’Iran avant sa visite en Chine et évoque l’option militaire",
+        "excerpt": "Avant sa visite en Chine, Trump a vivement critiqué les revirements de l’Iran sur le transfert d’uranium vers les États-Unis et évoqué une reprise d’opérations militaires.",
+        "body": "Trump accentue la pression sur l’Iran avant sa visite en Chine. Selon l’article original, il a dénoncé les revirements répétés de l’Iran au sujet du transfert d’uranium vers les États-Unis, les qualifiant de “déchets” et de “perte de temps”, et a déclaré qu’il examinerait activement une reprise des opérations militaires. Le texte indique aussi qu’il a laissé entendre une possible relance de l’Opération Libération. Le contexte est celui de négociations liées au dossier nucléaire iranien dans l’impasse et d’un cessez-le-feu décrit comme maintenu de justesse “sous assistance vitale”. Des actions limitées, dont des frappes ciblées, sont évoquées, mais l’article met surtout l’accent sur le durcissement du message de pression, sans confirmer d’opération. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "ترامب يصعّد الضغط على إيران قبل زيارة الصين ويلمح إلى مراجعة الخيار العسكري",
+        "excerpt": "قبل زيارته إلى الصين، انتقد ترامب تراجع إيران المتكرر بشأن نقل اليورانيوم إلى الولايات المتحدة، وطرح احتمال استئناف العمليات العسكرية.",
+        "body": "يصعّد ترامب الضغط على إيران قبل زيارته إلى الصين. ووفق التقرير الأصلي، هاجم تراجع إيران المتكرر بشأن مسألة نقل اليورانيوم إلى الولايات المتحدة، واصفا ذلك بأنه “قمامة” و“إضاعة للوقت”، وقال إنه سيدرس بجدية استئناف العمليات العسكرية. كما أشار التقرير إلى أنه لمّح إلى احتمال إعادة تشغيل عملية التحرير. تأتي هذه التصريحات في ظل تعثر المفاوضات المرتبطة بالملف النووي الإيراني، وتقييم يفيد بأن وقف إطلاق النار لا يزال قائما بالكاد عبر “أجهزة الإبقاء على الحياة”. وتُطرح احتمالات عمليات محدودة مثل الضربات الموجهة، لكن نطاق المقال يركز على تشديد رسالة الضغط لا على تأكيد تنفيذ عمل عسكري. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "चीन यात्रा से पहले ट्रंप ने ईरान पर दबाव बढ़ाया, सैन्य कार्रवाई की समीक्षा का संकेत",
+        "excerpt": "चीन यात्रा से पहले ट्रंप ने यूरेनियम को अमेरिका भेजने पर ईरान के बार-बार बदले रुख की आलोचना की और सैन्य अभियान फिर शुरू करने की संभावना उठाई।",
+        "body": "चीन यात्रा से पहले ट्रंप ईरान पर दबाव लगातार बढ़ा रहे हैं। मूल रिपोर्ट के अनुसार, उन्होंने यूरेनियम को अमेरिका भेजने के मुद्दे पर ईरान के बार-बार बदले रुख को “कचरा” और “समय की बर्बादी” कहा और सैन्य अभियान फिर शुरू करने पर सक्रिय रूप से विचार करने की बात कही। रिपोर्ट में यह भी कहा गया कि उन्होंने ऑपरेशन लिबरेशन को फिर चलाने का संकेत दिया। पृष्ठभूमि में ईरान के परमाणु मुद्दे से जुड़ी वार्ताओं का ठहराव और यह आकलन है कि युद्धविराम केवल “लाइफ सपोर्ट” पर मुश्किल से कायम है। लक्षित हमलों जैसे सीमित सैन्य कदमों की संभावना का उल्लेख है, लेकिन लेख के दायरे में जोर किसी पुष्टि की गई कार्रवाई से अधिक दबाव के संदेश को मजबूत करने पर है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Trump Tingkatkan Tekanan ke Iran Jelang Kunjungan ke China, Isyaratkan Opsi Militer",
+        "excerpt": "Menjelang kunjungan ke China, Trump mengecam sikap Iran yang berulang kali berubah soal pengiriman uranium ke AS dan membuka kemungkinan melanjutkan operasi militer.",
+        "body": "Trump meningkatkan tekanan terhadap Iran menjelang kunjungannya ke China. Menurut laporan asli, ia mengecam Iran yang berulang kali mengubah sikap terkait pengiriman uranium ke Amerika Serikat, menyebutnya “sampah” dan “buang-buang waktu”, serta mengatakan akan secara aktif mempertimbangkan dimulainya kembali operasi militer. Laporan itu juga menyebut ia mengisyaratkan kemungkinan mengaktifkan kembali Operasi Pembebasan. Latar belakangnya adalah mandeknya perundingan terkait isu nuklir Iran dan penilaian bahwa gencatan senjata hanya bertahan dengan “alat penopang hidup”. Kemungkinan operasi terbatas seperti serangan terarah disebut, tetapi fokus artikel berada pada penguatan pesan tekanan, bukan kepastian pelaksanaan operasi. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "228b43524a9e",
+    "slug": "민음사-진심으로-사죄회원-142명-전화번호-4천명에-전송-881108",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T12:30:25.710Z",
+    "updatedAt": "2026-05-12T12:30:25.710Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12045354",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12045354",
+    "titleFingerprint": "760c8e824f71690771744d8bec8f88bd9bae5e65",
+    "dedupKeys": [
+      "228b43524a9e728cc70b36315cde119178a5daba",
+      "760c8e824f71690771744d8bec8f88bd9bae5e65",
+      "1d1cf3bfbf05507f53db46ac2ec89783d764d974"
+    ],
+    "imageUrl": "/images/articles/228b43524a9e.png",
+    "i18n": {
+      "ko": {
+        "title": "민음사 회원 전화번호 유출 사고…142명 번호 4000여 명에게 전송",
+        "excerpt": "출판사 민음사가 일부 회원에게 단체 문자를 보내는 과정에서 12일 회원 142명의 휴대전화 번호가 4000여 명에게 함께 전송되는 사고가 발생했다고 사과했다.",
+        "body": "출판사 민음사가 일부 회원들에게 단체 문자 메시지를 발송하는 과정에서 회원 142명의 휴대전화 번호를 4000여 명에게 전송하는 사고가 발생했다. 민음사는 12일 공식 홈페이지를 통해 “진심으로 사죄”한다는 입장을 밝혔다. 이번 사고는 단체 문자 발송 과정에서 일부 회원의 휴대전화 번호가 다수 수신자에게 함께 전달된 사안이다. 확인된 규모는 전화번호가 노출된 회원 142명, 문자를 받은 인원 4000여 명이다. 개인정보가 포함된 연락처가 대량 수신자에게 전달된 만큼 해당 회원들의 불편과 우려가 이어질 수 있다. 민음사는 공식 홈페이지에 사과문을 게시했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Minumsa apologizes after 142 member phone numbers sent to 4,000 recipients",
+        "excerpt": "Publisher Minumsa apologized on May 12 after a group text message sent to some members included the mobile phone numbers of 142 members and reached more than 4,000 recipients.",
+        "body": "Publisher Minumsa had an incident in which the mobile phone numbers of 142 members were sent to more than 4,000 people during the process of sending a group text message to some members. On May 12, Minumsa posted a statement on its official website saying it “sincerely apologizes.” The case involved some members’ phone numbers being delivered together to a large number of recipients during a mass text distribution. The confirmed scale was 142 members whose numbers were exposed and more than 4,000 people who received the message. Because contact information containing personal data was sent to many recipients, affected members may face inconvenience and concern. Minumsa published the apology on its official website. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "民音社が謝罪、会員142人の電話番号を4000人超に送信",
+        "excerpt": "出版社の民音社は5月12日、一部会員への一斉SMS送信の過程で会員142人の携帯電話番号が4000人余りに送られた事故について謝罪した。",
+        "body": "出版社の民音社は、一部会員に団体文字メッセージを送る過程で、会員142人の携帯電話番号を4000人余りに送信する事故が発生した。民音社は5月12日、公式ホームページで「心よりお詫びする」との立場を明らかにした。今回の事故は、一斉メッセージ送信の過程で一部会員の携帯電話番号が多数の受信者に一緒に伝わった事案だ。確認された規模は、電話番号が露出した会員142人、メッセージを受け取った人4000人余り。個人情報を含む連絡先が大量の受信者に渡ったため、該当会員の不便や懸念が続く可能性がある。民音社は公式サイトに謝罪文を掲載した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "民音社致歉：142名会员手机号被发送给4000多人",
+        "excerpt": "韩国出版社民音社5月12日道歉称，在向部分会员群发短信过程中，142名会员的手机号码被一并发送给4000多人。",
+        "body": "韩国出版社民音社在向部分会员发送群体短信的过程中，发生了将142名会员手机号码发送给4000多人的事故。民音社5月12日在官方网站上表示“真诚道歉”。此次事故是在群发短信过程中，部分会员的手机号码被一同传递给大量收件人的事件。已确认的规模为，电话号码被曝光的会员142人，收到短信的人数为4000多人。由于包含个人信息的联系方式被发送给大量收件人，相关会员可能继续感到不便和担忧。民音社已在官方网站发布道歉文。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Minumsa se disculpa: teléfonos de 142 socios enviados a más de 4.000 personas",
+        "excerpt": "La editorial Minumsa se disculpó el 12 de mayo tras enviar, durante un mensaje colectivo a algunos socios, los números móviles de 142 miembros a más de 4.000 destinatarios.",
+        "body": "La editorial Minumsa sufrió un incidente durante el envío de un mensaje de texto colectivo a algunos de sus miembros: los números de teléfono móvil de 142 socios fueron enviados a más de 4.000 personas. El 12 de mayo, Minumsa publicó en su sitio web oficial una declaración en la que expresó sus “sinceras disculpas”. El caso ocurrió cuando, en el proceso de distribución del mensaje masivo, los números de algunos miembros fueron compartidos junto con el texto con numerosos destinatarios. La escala confirmada es de 142 miembros cuyos números quedaron expuestos y más de 4.000 personas que recibieron el mensaje. Al tratarse de datos de contacto personales enviados a una amplia lista de receptores, los afectados podrían experimentar molestias y preocupación. Minumsa publicó la disculpa en su web oficial. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Minumsa pede desculpas após telefones de 142 membros irem a mais de 4.000 pessoas",
+        "excerpt": "A editora Minumsa pediu desculpas em 12 de maio depois que, ao enviar SMS em massa a alguns membros, números de celular de 142 associados foram enviados a mais de 4.000 destinatários.",
+        "body": "A editora Minumsa registrou um incidente ao enviar uma mensagem de texto coletiva a alguns membros: os números de celular de 142 associados foram enviados a mais de 4.000 pessoas. Em 12 de maio, a Minumsa publicou em seu site oficial uma nota dizendo que “pede sinceras desculpas”. O caso ocorreu durante o processo de envio em massa, quando os números de telefone de alguns membros foram transmitidos junto com a mensagem a muitos destinatários. A escala confirmada é de 142 membros com números expostos e mais de 4.000 pessoas que receberam o SMS. Como contatos com informações pessoais foram enviados a um grande número de receptores, os membros afetados podem enfrentar incômodo e preocupação. A Minumsa publicou o pedido de desculpas em seu site oficial. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Minumsa entschuldigt sich: Telefonnummern von 142 Mitgliedern an über 4.000 Empfänger gesendet",
+        "excerpt": "Der Verlag Minumsa entschuldigte sich am 12. Mai, nachdem bei einer Sammel-SMS an einige Mitglieder die Mobilnummern von 142 Mitgliedern an mehr als 4.000 Personen gesendet wurden.",
+        "body": "Beim Verlag Minumsa kam es beim Versand einer Sammel-SMS an einige Mitglieder zu einem Vorfall: Die Mobiltelefonnummern von 142 Mitgliedern wurden an mehr als 4.000 Personen gesendet. Minumsa erklärte am 12. Mai auf seiner offiziellen Website, man entschuldige sich „aufrichtig“. Der Vorfall ereignete sich im Zuge des Massenversands, bei dem die Telefonnummern einiger Mitglieder zusammen mit der Nachricht an zahlreiche Empfänger weitergeleitet wurden. Bestätigt ist ein Umfang von 142 Mitgliedern, deren Nummern offengelegt wurden, sowie mehr als 4.000 Empfängern der Nachricht. Da Kontaktdaten mit personenbezogenen Informationen an eine große Zahl von Empfängern gingen, können für die betroffenen Mitglieder Unannehmlichkeiten und Sorgen entstehen. Minumsa veröffentlichte die Entschuldigung auf der offiziellen Website. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Minumsa s’excuse après l’envoi des numéros de 142 membres à plus de 4 000 personnes",
+        "excerpt": "L’éditeur Minumsa s’est excusé le 12 mai après qu’un SMS groupé envoyé à certains membres a inclus les numéros de mobile de 142 adhérents et atteint plus de 4 000 destinataires.",
+        "body": "L’éditeur Minumsa a connu un incident lors de l’envoi d’un SMS groupé à certains de ses membres: les numéros de téléphone mobile de 142 adhérents ont été transmis à plus de 4 000 personnes. Le 12 mai, Minumsa a publié sur son site officiel un message indiquant qu’il présentait ses “sincères excuses”. L’affaire s’est produite pendant le processus d’envoi massif, lorsque les numéros de certains membres ont été envoyés avec le message à de nombreux destinataires. L’ampleur confirmée est de 142 membres dont les numéros ont été exposés et de plus de 4 000 personnes ayant reçu le SMS. Comme des coordonnées contenant des données personnelles ont été transmises à un grand nombre de destinataires, les membres concernés peuvent subir des désagréments et exprimer des inquiétudes. Minumsa a publié ses excuses sur son site officiel. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مينومسا تعتذر بعد إرسال أرقام 142 عضوا إلى أكثر من 4000 شخص",
+        "excerpt": "اعتذرت دار النشر مينومسا في 12 مايو بعدما تضمن إرسال رسالة جماعية إلى بعض الأعضاء أرقام هواتف 142 عضوا محمولا ووصلت إلى أكثر من 4000 مستلم.",
+        "body": "وقعت دار النشر مينومسا في حادث أثناء إرسال رسالة نصية جماعية إلى بعض الأعضاء، إذ تم إرسال أرقام الهواتف المحمولة لـ142 عضوا إلى أكثر من 4000 شخص. وفي 12 مايو، نشرت مينومسا على موقعها الرسمي موقفا قالت فيه إنها “تعتذر بصدق”. وحدثت الواقعة خلال عملية الإرسال الجماعي، عندما أُرسلت أرقام هواتف بعض الأعضاء مع الرسالة إلى عدد كبير من المستلمين. والحجم المؤكد للحادث هو 142 عضوا كُشفت أرقامهم، وأكثر من 4000 شخص تلقوا الرسالة. ونظرا لأن معلومات اتصال تتضمن بيانات شخصية وصلت إلى عدد كبير من المستلمين، فقد يستمر انزعاج الأعضاء المعنيين وقلقهم. ونشرت مينومسا رسالة الاعتذار على موقعها الرسمي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Minumsa ने माफी मांगी: 142 सदस्यों के फोन नंबर 4,000 से अधिक लोगों को भेजे गए",
+        "excerpt": "प्रकाशक Minumsa ने 12 मई को माफी मांगी, जब कुछ सदस्यों को भेजे गए समूह संदेश में 142 सदस्यों के मोबाइल नंबर शामिल होकर 4,000 से अधिक प्राप्तकर्ताओं तक पहुंच गए।",
+        "body": "प्रकाशक Minumsa के कुछ सदस्यों को समूह टेक्स्ट संदेश भेजने की प्रक्रिया में एक घटना हुई, जिसमें 142 सदस्यों के मोबाइल फोन नंबर 4,000 से अधिक लोगों को भेज दिए गए। Minumsa ने 12 मई को अपनी आधिकारिक वेबसाइट पर कहा कि वह “सच्चे मन से माफी” मांगता है। यह मामला सामूहिक संदेश भेजने के दौरान हुआ, जब कुछ सदस्यों के फोन नंबर संदेश के साथ बड़ी संख्या में प्राप्तकर्ताओं तक पहुंच गए। पुष्टि किए गए पैमाने के अनुसार, 142 सदस्यों के नंबर उजागर हुए और 4,000 से अधिक लोगों ने संदेश प्राप्त किया। चूंकि व्यक्तिगत जानकारी वाले संपर्क विवरण बड़ी संख्या में लोगों तक भेजे गए, प्रभावित सदस्यों को असुविधा और चिंता हो सकती है। Minumsa ने अपनी आधिकारिक वेबसाइट पर माफीनामा प्रकाशित किया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Minumsa minta maaf: nomor telepon 142 anggota terkirim ke lebih dari 4.000 orang",
+        "excerpt": "Penerbit Minumsa meminta maaf pada 12 Mei setelah pesan massal kepada sebagian anggota turut mengirim nomor ponsel 142 anggota kepada lebih dari 4.000 penerima.",
+        "body": "Penerbit Minumsa mengalami insiden saat mengirim pesan teks massal kepada sebagian anggotanya: nomor ponsel 142 anggota terkirim kepada lebih dari 4.000 orang. Pada 12 Mei, Minumsa menyampaikan di situs resminya bahwa pihaknya “meminta maaf dengan tulus”. Peristiwa ini terjadi dalam proses pengiriman pesan massal, ketika nomor telepon sebagian anggota ikut diteruskan kepada banyak penerima. Skala yang telah dikonfirmasi adalah 142 anggota yang nomornya terekspos dan lebih dari 4.000 orang yang menerima pesan tersebut. Karena informasi kontak yang memuat data pribadi terkirim ke banyak penerima, anggota terdampak dapat mengalami ketidaknyamanan dan kekhawatiran. Minumsa menerbitkan permintaan maaf di situs resminya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "bf6e336308de",
     "slug": "18-나홀로-불기둥-찍은-lg전자폰-대신-잡은-이-사업-덕봤다-182824",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Reli Semikonduktor Dorong 1.331 Kenaikan Target Harga Saham",
         "excerpt": "Saat Kospi mendekati level 8.000 karena reli saham semikonduktor, laporan kenaikan target harga dari sekuritas mencapai 1.331 dan estimasi laba membaik.",
         "body": "Reli saham semikonduktor yang membawa Kospi mendekati level 8.000 membuat perusahaan sekuritas bergerak cepat menaikkan target harga saham. Menurut naskah asli, laporan kenaikan target harga baru-baru ini mencapai 1.331, jumlah yang tidak biasa karena melebihi rekomendasi mempertahankan. Latar utamanya adalah lonjakan estimasi laba pada saham semikonduktor unggulan. Sentimen positif ini juga menyebar ke saham sekuritas dan pertahanan. Di pasar, gelombang kenaikan target harga dipandang sebagai sinyal yang mencerminkan perubahan estimasi laba dan kekuatan sektor-sektor pemimpin. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "da272d38acb1",
-    "slug": "현금이-얼마나-많길래58조어치-쇼핑-엔비디아가-투자한-기업은-633514",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-11T20:52:30.831Z",
-    "updatedAt": "2026-05-11T20:52:30.831Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12043646",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12043646",
-    "titleFingerprint": "3bc928b49144b39ba8202a3595f94a18fee8b695",
-    "dedupKeys": [
-      "da272d38acb1f056e6671b77df44a13460593c3f",
-      "3bc928b49144b39ba8202a3595f94a18fee8b695",
-      "0aaa43bec6a97872a4062ef2d5aadfcf196ee32b"
-    ],
-    "imageUrl": "/images/articles/da272d38acb1.png",
-    "i18n": {
-      "ko": {
-        "title": "엔비디아 58조원 투자 행보, AI 생태계 주도권 확대 나선 이유",
-        "excerpt": "AI 칩 시장 1위 엔비디아가 막대한 현금 창출력을 바탕으로 글로벌 AI 생태계 전반에 약 58조원 규모의 투자를 단행하며 하드웨어를 넘어 영향력 확대에 나섰다.",
-        "body": "인공지능(AI) 칩 시장 1위 기업인 엔비디아가 막대한 현금 창출력을 바탕으로 글로벌 AI 생태계 전반에 대규모 투자를 이어가고 있다. mk.co.kr에 따르면 엔비디아는 약 58조원어치 투자 행보를 보이며 하드웨어 공급 기업을 넘어 AI 생태계 전반의 주도권을 강화하려는 움직임을 보이고 있다. 이는 AI 칩 수요 확대와 함께 축적된 현금 창출력이 투자 여력으로 이어진 결과로 풀이된다. 엔비디아의 투자 확대는 관련 기업과 AI 인프라 시장에 영향을 줄 수 있으며, 향후 글로벌 AI 경쟁 구도에서도 중요한 변수로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Nvidia’s 58 Trillion Won AI Investment Push Signals Wider Ecosystem Ambitions",
-        "excerpt": "Nvidia, the No. 1 company in the AI chip market, is using its strong cash generation to invest about 58 trillion won across the global AI ecosystem and expand beyond hardware supply.",
-        "body": "Nvidia, the leading company in the artificial intelligence chip market, is continuing large-scale investments across the global AI ecosystem based on its powerful cash generation. According to mk.co.kr, Nvidia has made investment moves worth about 58 trillion won, signaling an effort to strengthen its influence across the AI ecosystem beyond simply supplying hardware. The move is seen as a result of cash created amid rising demand for AI chips. Nvidia’s expanding investments could affect related companies and the AI infrastructure market, while also becoming an important factor in the global AI competition ahead. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "エヌビディア58兆ウォン投資、AI生態系の主導権拡大へ",
-        "excerpt": "AIチップ市場首位のエヌビディアが、強力な現金創出力を背景に世界のAI生態系全体へ約58兆ウォン規模の投資を進め、ハード供給を超えた影響力拡大に動いている。",
-        "body": "人工知能（AI）チップ市場で首位に立つエヌビディアが、莫大な現金創出力を背景に、世界のAI生態系全体への大規模投資を続けている。mk.co.krによると、エヌビディアは約58兆ウォン規模の投資を進めており、ハードウェア供給企業にとどまらず、AI生態系全般で主導権を強化しようとする動きを見せている。これはAIチップ需要の拡大とともに蓄積された現金創出力が投資余力につながった結果とみられる。投資拡大は関連企業やAIインフラ市場に影響を与える可能性があり、今後の世界的なAI競争構図でも重要な変数として注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "英伟达58万亿韩元投资行动，意在扩大AI生态主导权",
-        "excerpt": "AI芯片市场第一的英伟达正凭借强大的现金创造能力，在全球AI生态系统推进约58万亿韩元规模投资，影响力从硬件供应延伸至生态全局。",
-        "body": "人工智能（AI）芯片市场排名第一的英伟达，正凭借庞大的现金创造能力，持续在全球AI生态系统进行大规模投资。据mk.co.kr报道，英伟达的投资行动规模约达58万亿韩元，显示其正从硬件供应商进一步转向强化对AI生态系统整体主导权。随着AI芯片需求扩大，公司积累的现金创造能力被认为转化为投资空间。英伟达扩大投资可能影响相关企业和AI基础设施市场，也将在未来全球AI竞争格局中成为值得关注的重要变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Nvidia invierte 58 billones de wones y busca más control del ecosistema de IA",
-        "excerpt": "Nvidia, líder del mercado de chips de IA, usa su fuerte generación de efectivo para invertir unos 58 billones de wones en el ecosistema global de IA y ampliar su influencia más allá del hardware.",
-        "body": "Nvidia, la empresa número uno en el mercado de chips de inteligencia artificial, continúa realizando inversiones de gran escala en todo el ecosistema global de IA gracias a su fuerte capacidad de generar efectivo. Según mk.co.kr, Nvidia ha llevado adelante inversiones por unos 58 billones de wones, en una señal de que busca reforzar su liderazgo en el ecosistema de IA más allá del suministro de hardware. Este movimiento se interpreta como resultado de la liquidez acumulada junto con el aumento de la demanda de chips de IA. La expansión inversora de Nvidia puede influir en empresas relacionadas y en el mercado de infraestructura de IA, y será una variable relevante en la competencia global de IA. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Nvidia investe 58 trilhões de wons e amplia disputa pelo ecossistema de IA",
-        "excerpt": "A Nvidia, líder no mercado de chips de IA, usa sua forte geração de caixa para investir cerca de 58 trilhões de wons no ecossistema global de IA e ampliar sua influência além do hardware.",
-        "body": "A Nvidia, empresa líder no mercado de chips de inteligência artificial, segue realizando investimentos de grande escala em todo o ecossistema global de IA com base em sua forte capacidade de geração de caixa. Segundo o mk.co.kr, a Nvidia tem feito movimentos de investimento de cerca de 58 trilhões de wons, indicando uma tentativa de fortalecer sua liderança em todo o ecossistema de IA, além do fornecimento de hardware. O movimento é visto como resultado da geração de caixa acumulada com a expansão da demanda por chips de IA. A ampliação dos investimentos pode impactar empresas relacionadas e o mercado de infraestrutura de IA, tornando-se uma variável importante na competição global de IA. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Nvidia investiert 58 Billionen Won und baut Macht im KI-Ökosystem aus",
-        "excerpt": "Nvidia, Marktführer bei KI-Chips, nutzt seine starke Cash-Generierung für Investitionen von rund 58 Billionen Won in das globale KI-Ökosystem und erweitert den Einfluss über Hardware hinaus.",
-        "body": "Nvidia, die Nummer eins im Markt für Chips für künstliche Intelligenz, setzt auf Basis seiner starken Cash-Generierung große Investitionen im globalen KI-Ökosystem fort. Laut mk.co.kr belaufen sich Nvidias Investitionsaktivitäten auf rund 58 Billionen Won. Damit zeigt das Unternehmen, dass es über die Rolle als Hardwarelieferant hinaus die Führungsposition im gesamten KI-Ökosystem stärken will. Dies wird als Ergebnis der durch die steigende Nachfrage nach KI-Chips aufgebauten Finanzkraft gesehen. Die wachsenden Investitionen von Nvidia könnten verbundene Unternehmen und den Markt für KI-Infrastruktur beeinflussen und künftig ein wichtiger Faktor im globalen KI-Wettbewerb sein. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Nvidia investit 58 billions de wons pour renforcer son emprise sur l’IA",
-        "excerpt": "Nvidia, numéro un du marché des puces d’IA, mobilise sa forte génération de trésorerie pour investir environ 58 billions de wons dans l’écosystème mondial de l’IA et dépasser le seul matériel.",
-        "body": "Nvidia, leader du marché des puces d’intelligence artificielle, poursuit des investissements massifs dans l’ensemble de l’écosystème mondial de l’IA grâce à sa forte capacité de génération de trésorerie. Selon mk.co.kr, Nvidia mène des investissements d’environ 58 billions de wons, signe d’une volonté de renforcer son influence sur l’écosystème de l’IA au-delà de la fourniture de matériel. Ce mouvement s’explique par la puissance financière accumulée avec l’essor de la demande en puces d’IA. L’expansion des investissements de Nvidia pourrait peser sur les entreprises liées et le marché des infrastructures d’IA, tout en devenant un facteur important dans la concurrence mondiale de l’IA. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إنفيديا تستثمر 58 تريليون وون لتعزيز نفوذها في منظومة الذكاء الاصطناعي",
-        "excerpt": "إنفيديا، الشركة الأولى في سوق رقائق الذكاء الاصطناعي، تستند إلى قدرتها الكبيرة على توليد النقد لتنفيذ استثمارات بنحو 58 تريليون وون في منظومة الذكاء الاصطناعي العالمية.",
-        "body": "تواصل إنفيديا، الشركة الأولى في سوق رقائق الذكاء الاصطناعي، تنفيذ استثمارات واسعة في منظومة الذكاء الاصطناعي العالمية اعتمادا على قدرتها الكبيرة على توليد النقد. ووفقا لـ mk.co.kr، أظهرت إنفيديا تحركات استثمارية تبلغ نحو 58 تريليون وون، بما يشير إلى سعيها لتعزيز موقعها القيادي في منظومة الذكاء الاصطناعي بأكملها، لا الاكتفاء بدور مورّد العتاد. ويُنظر إلى ذلك بوصفه نتيجة لتراكم القدرة النقدية مع توسع الطلب على رقائق الذكاء الاصطناعي. وقد تؤثر زيادة استثمارات إنفيديا في الشركات ذات الصلة وسوق بنية الذكاء الاصطناعي التحتية، كما قد تصبح عاملا مهما في المنافسة العالمية المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "एनवीडिया का 58 ट्रिलियन वॉन निवेश, AI इकोसिस्टम पर पकड़ बढ़ाने की चाल",
-        "excerpt": "AI चिप बाजार की शीर्ष कंपनी एनवीडिया अपनी मजबूत नकदी सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में करीब 58 ट्रिलियन वॉन का निवेश कर हार्डवेयर से आगे प्रभाव बढ़ा रही है।",
-        "body": "कृत्रिम बुद्धिमत्ता यानी AI चिप बाजार की नंबर एक कंपनी एनवीडिया अपनी भारी नकदी सृजन क्षमता के आधार पर वैश्विक AI इकोसिस्टम में बड़े पैमाने पर निवेश जारी रखे हुए है। mk.co.kr के अनुसार, एनवीडिया ने करीब 58 ट्रिलियन वॉन के निवेश कदम उठाए हैं, जिससे संकेत मिलता है कि कंपनी हार्डवेयर आपूर्ति से आगे बढ़कर पूरे AI इकोसिस्टम में अपनी नेतृत्वकारी स्थिति मजबूत करना चाहती है। AI चिप की मांग बढ़ने के साथ जमा हुई नकदी क्षमता को इस निवेश की पृष्ठभूमि माना जा रहा है। एनवीडिया का निवेश विस्तार संबंधित कंपनियों और AI इन्फ्रास्ट्रक्चर बाजार को प्रभावित कर सकता है तथा आगे वैश्विक AI प्रतिस्पर्धा में अहम कारक बन सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Nvidia Investasi 58 Triliun Won, Perluas Kendali di Ekosistem AI Global",
-        "excerpt": "Nvidia, pemimpin pasar chip AI, memakai kekuatan arus kasnya untuk berinvestasi sekitar 58 triliun won di ekosistem AI global dan memperluas pengaruhnya melampaui pasokan perangkat keras.",
-        "body": "Nvidia, perusahaan nomor satu di pasar chip kecerdasan buatan, terus melakukan investasi besar di seluruh ekosistem AI global berdasarkan kemampuan menghasilkan kas yang sangat kuat. Menurut mk.co.kr, Nvidia menunjukkan langkah investasi senilai sekitar 58 triliun won, menandakan upaya memperkuat kepemimpinan di ekosistem AI secara luas, bukan hanya sebagai pemasok perangkat keras. Langkah ini dipandang sebagai hasil dari kemampuan kas yang terbentuk seiring meningkatnya permintaan chip AI. Perluasan investasi Nvidia dapat memengaruhi perusahaan terkait dan pasar infrastruktur AI, sekaligus menjadi variabel penting dalam persaingan AI global ke depan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f6d4362084ad",
-    "slug": "세미나-발표-준비-안-돼서호텔-폭파-협박-전화한-30대-962422",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-11T20:51:28.930Z",
-    "updatedAt": "2026-05-11T20:51:28.930Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12043651",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12043651",
-    "titleFingerprint": "37542975fb370c25f635acfea6137f5ca62dd0d8",
-    "dedupKeys": [
-      "f6d4362084ad3be8698265bc50ef0e01d3c684e5",
-      "37542975fb370c25f635acfea6137f5ca62dd0d8",
-      "c9a89fc803a367d4b4055b34f32a9728a75fa8c8"
-    ],
-    "imageUrl": "/images/articles/f6d4362084ad.jpg",
-    "i18n": {
-      "ko": {
-        "title": "호텔 폭파 협박 허위신고 30대, 발표 준비 부족 이유로 항소심도 실형",
-        "excerpt": "발표 준비가 부족했던 30대가 자신이 맡은 세미나가 열릴 호텔을 폭파하겠다고 허위 신고해 재판에 넘겨졌고, 광주지법 항소심에서도 실형을 선고받았다.",
-        "body": "발표 준비가 부족하다는 이유로 자신이 발표를 맡은 세미나장이 있는 호텔을 폭파하겠다고 허위 신고한 30대가 항소심에서도 실형을 선고받았다. 광주지법 형사2부 김종석 부장판사는 숙박시설에 폭발 관련 협박 전화를 한 혐의로 재판에 넘겨진 피고인에게 원심과 마찬가지로 실형을 선고했다. 사건은 개인의 발표 준비 부족이 공공 안전을 위협하는 허위 신고로 이어졌다는 점에서 법원이 엄정한 판단을 유지한 사례다. 허위 폭파 협박은 숙박시설과 세미나 참석자, 수사·안전 대응 체계에 불필요한 혼란을 초래할 수 있어 향후 유사 사건에도 경고가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hotel Bomb Threat Hoax Over Seminar Prep Ends in Prison Again on Appeal",
-        "excerpt": "A person in their 30s who falsely threatened to blow up the hotel hosting their seminar because they were unprepared for a presentation received a prison sentence again on appeal at Gwangju District Court.",
-        "body": "A defendant in their 30s who falsely reported that they would blow up a hotel where they were scheduled to give a seminar presentation because they had not prepared enough was sentenced to prison again on appeal. The Criminal Division 2 of Gwangju District Court, presided over by Judge Kim Jong-seok, upheld a real prison sentence for the defendant accused of making an explosive-related threat call to a lodging facility. The case shows the court maintaining a strict view when a personal lack of preparation leads to a false report that threatens public safety. Such hoax bomb threats can cause unnecessary disruption for lodging facilities, seminar participants, and emergency response systems, making the ruling a warning for similar cases. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ホテル爆破予告の虚偽通報、発表準備不足の30代に控訴審も実刑",
-        "excerpt": "発表準備が不足していた30代が、自分が担当するセミナー会場のホテルを爆破すると虚偽通報し、光州地裁の控訴審でも実刑を言い渡された。",
-        "body": "発表準備が足りないという理由で、自分が発表を担当するセミナー会場のあるホテルを爆破すると虚偽通報した30代の被告に、控訴審でも実刑が言い渡された。光州地裁刑事2部の金鍾錫裁判長は、宿泊施設に爆発関連の脅迫電話をした容疑で裁判にかけられた被告に対し、原審と同じく実刑を宣告した。今回の事件は、個人的な準備不足が公共の安全を脅かす虚偽通報につながった点で、裁判所が厳格な判断を維持した事例だ。虚偽の爆破予告は宿泊施設やセミナー参加者、捜査・安全対応体制に不要な混乱を招く恐れがあり、類似事件への警告になるとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "因研讨会发表未准备好谎称炸酒店，30多岁被告二审仍获实刑",
-        "excerpt": "一名30多岁人士因发表准备不足，虚假报警称要炸毁自己负责发表的研讨会所在酒店，被移交审判后在光州地方法院二审仍被判实刑。",
-        "body": "一名30多岁被告因发表准备不足，虚假报警称要炸毁自己负责发表的研讨会所在酒店，在二审中仍被判处实刑。光州地方法院刑事第2部审判长金钟锡对因向住宿设施拨打与爆炸有关的威胁电话而受审的被告，维持了与一审相同的实刑判决。该案显示，个人发表准备不足最终演变为威胁公共安全的虚假报警，法院对此维持了严格判断。虚假爆炸威胁可能给住宿设施、研讨会参加者以及调查和安全应对体系造成不必要混乱，此次判决也将对类似案件形成警示。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Amenaza falsa de bomba en hotel por no preparar seminario: prisión confirmada",
-        "excerpt": "Una persona de unos 30 años que llamó falsamente para amenazar con volar el hotel donde debía presentar un seminario por falta de preparación recibió de nuevo prisión en apelación en Gwangju.",
-        "body": "Una persona de unos 30 años que denunció falsamente que haría estallar el hotel donde debía realizar una presentación de seminario, alegando falta de preparación, volvió a recibir una pena de prisión en apelación. La Sala Penal 2 del Tribunal de Distrito de Gwangju, presidida por el juez Kim Jong-seok, mantuvo una condena efectiva contra el acusado de realizar una llamada de amenaza relacionada con explosivos a un establecimiento de alojamiento. El caso muestra que el tribunal mantuvo una postura estricta cuando una falta personal de preparación derivó en una denuncia falsa que amenazó la seguridad pública. Las falsas amenazas de bomba pueden causar confusión innecesaria en hoteles, asistentes al seminario y sistemas de investigación y respuesta de seguridad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Falsa ameaça de bomba em hotel por seminário sem preparo mantém prisão",
-        "excerpt": "Uma pessoa na casa dos 30 anos, sem preparo para uma apresentação, fez denúncia falsa dizendo que explodiria o hotel do seminário e voltou a receber pena de prisão em recurso em Gwangju.",
-        "body": "Uma pessoa na casa dos 30 anos que fez uma denúncia falsa dizendo que explodiria o hotel onde deveria apresentar um seminário, por não estar suficientemente preparada, voltou a ser condenada a prisão em grau de recurso. A 2ª Divisão Criminal do Tribunal Distrital de Gwangju, presidida pelo juiz Kim Jong-seok, manteve a pena efetiva contra o réu acusado de fazer uma ligação de ameaça relacionada a explosão contra uma instalação de hospedagem. O caso mostra a manutenção de uma avaliação rigorosa quando a falta de preparo individual se transforma em uma falsa denúncia que ameaça a segurança pública. Ameaças falsas de bomba podem gerar confusão desnecessária para hotéis, participantes e sistemas de resposta. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Falsche Bombendrohung gegen Hotel wegen Seminar: Berufung bestätigt Haft",
-        "excerpt": "Eine Person in den 30ern drohte fälschlich, das Hotel des eigenen Seminars zu sprengen, weil die Präsentation nicht vorbereitet war; auch vor dem Bezirksgericht Gwangju blieb es bei Haft.",
-        "body": "Eine angeklagte Person in den 30ern, die wegen unzureichender Vorbereitung der eigenen Seminarpräsentation fälschlich meldete, ein Hotel mit dem Seminarort sprengen zu wollen, ist auch in der Berufung zu einer Freiheitsstrafe verurteilt worden. Die Strafkammer 2 des Bezirksgerichts Gwangju unter Vorsitz von Richter Kim Jong-seok bestätigte eine tatsächliche Haftstrafe für die Person, der ein explosionsbezogener Drohanruf bei einer Unterkunft vorgeworfen wurde. Der Fall zeigt, dass das Gericht streng blieb, als persönliche Vorbereitungsmängel zu einer Falschmeldung wurden, die die öffentliche Sicherheit bedrohte. Falsche Bombendrohungen können Hotels, Seminarteilnehmer sowie Ermittlungs- und Sicherheitsabläufe unnötig belasten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Fausse alerte à la bombe dans un hôtel faute de préparation: prison confirmée",
-        "excerpt": "Une personne trentenaire, insuffisamment préparée pour son exposé, a faussement menacé de faire exploser l’hôtel du séminaire et a de nouveau été condamnée à de la prison en appel à Gwangju.",
-        "body": "Une personne dans la trentaine, qui avait faussement signalé vouloir faire exploser l’hôtel où elle devait présenter un séminaire parce que sa préparation était insuffisante, a de nouveau été condamnée à une peine de prison en appel. La 2e chambre pénale du tribunal de district de Gwangju, présidée par le juge Kim Jong-seok, a maintenu une peine ferme contre l’accusé poursuivi pour un appel de menace lié à une explosion visant un établissement d’hébergement. L’affaire montre que le tribunal a conservé une position stricte lorsqu’un manque de préparation personnel s’est transformé en fausse alerte menaçant la sécurité publique. De telles menaces peuvent perturber inutilement les hôtels, les participants et les dispositifs d’enquête et de sécurité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تهديد كاذب بتفجير فندق بسبب عدم التحضير لندوة ينتهي بالسجن في الاستئناف",
-        "excerpt": "شخص في الثلاثينات أبلغ كذبا بأنه سيفجر الفندق الذي يستضيف الندوة التي كان سيقدم فيها عرضا بسبب ضعف التحضير، وحكم عليه بالسجن مجددا في الاستئناف بمحكمة غوانغجو.",
-        "body": "حكم على متهم في الثلاثينات بالسجن مجددا في مرحلة الاستئناف بعدما أبلغ كذبا بأنه سيفجر الفندق الذي تقع فيه قاعة الندوة التي كان مكلفا بتقديم عرض فيها، وذلك بسبب عدم كفاية تحضيره. وأبقت الدائرة الجنائية الثانية في محكمة غوانغجو الجزئية، برئاسة القاضي كيم جونغ سوك، على عقوبة السجن الفعلية بحق المتهم الذي حوكم بتهمة إجراء مكالمة تهديد مرتبطة بانفجار ضد منشأة إقامة. وتظهر القضية أن المحكمة حافظت على موقف صارم عندما تحول نقص التحضير الشخصي إلى بلاغ كاذب يهدد السلامة العامة. فالتهديدات الكاذبة بالتفجير قد تسبب ارتباكا غير ضروري للفنادق والمشاركين في الندوات وأنظمة التحقيق والاستجابة الأمنية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सेमिनार तैयारी न होने पर होटल बम धमकी की झूठी कॉल, अपील में भी जेल",
-        "excerpt": "प्रस्तुति की तैयारी कम होने के कारण अपने सेमिनार स्थल वाले होटल को उड़ाने की झूठी धमकी देने वाले 30 वर्ष के आसपास के व्यक्ति को ग्वांगजू जिला अदालत की अपील में भी जेल की सजा मिली।",
-        "body": "प्रस्तुति की पर्याप्त तैयारी न होने के कारण जिस होटल में वह सेमिनार प्रस्तुति देने वाला था, उसे उड़ाने की झूठी सूचना देने वाले 30 वर्ष के आसपास के आरोपी को अपील में भी वास्तविक कारावास की सजा सुनाई गई। ग्वांगजू जिला अदालत की आपराधिक पीठ 2 के प्रधान न्यायाधीश किम जोंग-सोक ने आवासीय सुविधा को विस्फोट से जुड़ी धमकी भरी कॉल करने के आरोप में मुकदमे का सामना कर रहे आरोपी के खिलाफ निचली अदालत की तरह जेल की सजा बरकरार रखी। यह मामला दिखाता है कि व्यक्तिगत तैयारी की कमी जब सार्वजनिक सुरक्षा को खतरे में डालने वाली झूठी रिपोर्ट में बदलती है, तो अदालत सख्त रुख बनाए रखती है। ऐसी झूठी बम धमकियां होटल, सेमिनार प्रतिभागियों और सुरक्षा प्रतिक्रिया तंत्र में अनावश्यक भ्रम पैदा कर सकती हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Ancaman Bom Palsu di Hotel karena Tak Siap Seminar, Banding Tetap Penjara",
-        "excerpt": "Seseorang berusia 30-an yang kurang siap presentasi membuat laporan palsu akan meledakkan hotel tempat seminarnya digelar, dan kembali dijatuhi hukuman penjara di tingkat banding Pengadilan Gwangju.",
-        "body": "Seseorang berusia 30-an yang membuat laporan palsu bahwa ia akan meledakkan hotel tempat seminar yang harus ia presentasikan digelar, dengan alasan kurang siap, kembali dijatuhi hukuman penjara di tingkat banding. Divisi Pidana 2 Pengadilan Distrik Gwangju, dipimpin Hakim Kim Jong-seok, mempertahankan hukuman penjara nyata terhadap terdakwa yang diadili karena melakukan panggilan ancaman terkait ledakan terhadap fasilitas penginapan. Perkara ini menunjukkan pengadilan mempertahankan penilaian tegas ketika kurangnya persiapan pribadi berubah menjadi laporan palsu yang mengancam keselamatan publik. Ancaman bom palsu dapat menimbulkan kekacauan yang tidak perlu bagi hotel, peserta seminar, serta sistem penyelidikan dan respons keamanan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b041792ceedb",
-    "slug": "전쟁피로-속-美증시-질주sp나스닥-최고치월가월부-265120",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-11T20:50:15.089Z",
-    "updatedAt": "2026-05-11T20:50:15.090Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12044105",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12044105",
-    "titleFingerprint": "ba6d54859909419f79a3ac506750000d52938c21",
-    "dedupKeys": [
-      "b041792ceedbc16b6c6c4b6e708aa8609290e7fa",
-      "ba6d54859909419f79a3ac506750000d52938c21",
-      "a1bd793f1b6d5db4159e2d6953e63338bda0779d"
-    ],
-    "imageUrl": "/images/articles/b041792ceedb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 열풍에 전쟁 리스크 눌린 뉴욕증시, S&P·나스닥 최고치 질주",
-        "excerpt": "이란전쟁 종전 불확실성이 커지는 가운데 AI 열풍과 트럼프 전 대통령의 휴전 유지 발언이 전쟁 우려를 완화하며 뉴욕증시 상승세를 이끌었다.",
-        "body": "이란전쟁의 종전을 둘러싼 불확실성이 커지는 상황에서도 뉴욕증시는 인공지능(AI) 열풍에 힘입어 상승세를 이어갔다. 전쟁 피로와 지정학적 리스크가 시장 부담으로 남아 있었지만, AI 관련 기대가 투자심리를 지지하며 S&P500과 나스닥은 최고치를 기록했다. 트럼프 전 대통령이 “휴전은 유지”된다고 밝히면서 전쟁 확산 우려도 일부 완화됐다. 시장은 전쟁 리스크보다 AI 성장 기대에 더 민감하게 반응하는 모습이다. 다만 이란전쟁 종전 관련 불확실성이 남아 있어 향후 증시 흐름은 휴전 유지 여부와 AI 투자 열기의 지속성에 좌우될 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "AI Boom Lifts Wall Street as War Risks Fade, S&P 500 and Nasdaq Hit Highs",
-        "excerpt": "Amid uncertainty over the end of the Iran war, AI enthusiasm and Trump’s comment that the ceasefire is holding helped ease war concerns and pushed U.S. stocks higher.",
-        "body": "U.S. stocks continued to rise despite growing uncertainty over how the Iran war will end, supported by strong enthusiasm for artificial intelligence. War fatigue and geopolitical risks remained a burden for markets, but expectations tied to AI helped sustain investor sentiment, sending the S&P 500 and Nasdaq to record highs. Concerns over a wider conflict also eased after former President Trump said the “ceasefire is holding.” Investors appeared to react more strongly to expectations for AI growth than to war-related risks. Still, uncertainty over the end of the Iran war remains, leaving future market direction dependent on whether the ceasefire holds and whether AI-driven investment momentum continues. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "AIブームが戦争リスクを抑え米株上昇、S&P500とナスダック最高値",
-        "excerpt": "イラン戦争終結を巡る不確実性が高まる中、AIブームとトランプ氏の休戦維持発言が懸念を和らげ、米株上昇を支えた。",
-        "body": "イラン戦争の終結を巡る不確実性が高まる状況でも、ニューヨーク株式市場は人工知能（AI）ブームに支えられて上昇を続けた。戦争疲れと地政学リスクは市場の重荷として残ったが、AI関連の期待が投資家心理を支え、S&P500とナスダックは最高値を記録した。トランプ前大統領が「休戦は維持されている」と述べたことで、戦争拡大への懸念も一部和らいだ。市場は戦争リスクよりもAI成長への期待に敏感に反応している。ただし、イラン戦争終結を巡る不確実性は残っており、今後の株価動向は休戦維持とAI投資熱の持続に左右される見通しだ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "AI热潮压过战争风险，美股走强，标普与纳指创最高点",
-        "excerpt": "在伊朗战争结束前景不确定性上升之际，AI热潮和特朗普关于停火维持的表态缓解担忧，推动纽约股市继续上涨。",
-        "body": "尽管围绕伊朗战争结束的不确定性正在加大，纽约股市仍在人工智能（AI）热潮支撑下延续涨势。战争疲劳和地缘政治风险仍是市场负担，但AI相关预期支撑了投资情绪，推动标普500指数和纳斯达克指数创下最高点。特朗普前总统表示“停火仍在维持”，也在一定程度上缓解了对战争扩大的担忧。市场表现显示，投资者对AI增长预期的反应强于对战争风险的担忧。不过，伊朗战争结束仍存在不确定性，后续股市走势将取决于停火能否维持以及AI投资热度能否延续。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "El auge de la IA impulsa Wall Street pese al riesgo bélico; S&P y Nasdaq en máximos",
-        "excerpt": "En medio de la incertidumbre por el fin de la guerra con Irán, el entusiasmo por la IA y el mensaje de Trump sobre el alto el fuego impulsaron las acciones de EE. UU.",
-        "body": "La Bolsa de Nueva York mantuvo su avance pese al aumento de la incertidumbre sobre el desenlace de la guerra con Irán, apoyada por el entusiasmo en torno a la inteligencia artificial (IA). El cansancio bélico y los riesgos geopolíticos seguían pesando sobre el mercado, pero las expectativas vinculadas a la IA sostuvieron el ánimo inversor y llevaron al S&P 500 y al Nasdaq a máximos históricos. La preocupación por una expansión del conflicto también se moderó después de que el expresidente Trump afirmara que “el alto el fuego se mantiene”. El mercado pareció responder con más fuerza a las expectativas de crecimiento de la IA que a los riesgos de guerra. Aun así, la incertidumbre sobre el fin de la guerra con Irán persiste, por lo que la dirección futura dependerá de la continuidad del alto el fuego y del impulso inversor en IA. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Alta da IA supera risco de guerra em Wall Street; S&P e Nasdaq batem recordes",
-        "excerpt": "Com a incerteza sobre o fim da guerra no Irã, o entusiasmo com IA e a fala de Trump de que o cessar-fogo se mantém aliviaram temores e elevaram as ações dos EUA.",
-        "body": "A Bolsa de Nova York continuou em alta apesar da crescente incerteza sobre o desfecho da guerra no Irã, sustentada pelo entusiasmo em torno da inteligência artificial (IA). O cansaço com a guerra e os riscos geopolíticos ainda pesavam sobre o mercado, mas as expectativas ligadas à IA apoiaram o sentimento dos investidores e levaram o S&P 500 e o Nasdaq a máximas históricas. As preocupações com uma ampliação do conflito também diminuíram após o ex-presidente Trump afirmar que “o cessar-fogo se mantém”. O mercado mostrou reação mais forte às expectativas de crescimento da IA do que aos riscos de guerra. Ainda assim, a incerteza sobre o fim da guerra no Irã permanece, e a trajetória das bolsas dependerá da manutenção do cessar-fogo e da continuidade do apetite por investimentos em IA. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KI-Boom stützt Wall Street trotz Kriegsrisiken; S&P 500 und Nasdaq auf Rekordhoch",
-        "excerpt": "Trotz Unsicherheit über das Ende des Iran-Kriegs dämpften KI-Euphorie und Trumps Aussage zum fortbestehenden Waffenstillstand die Sorgen und trieben US-Aktien an.",
-        "body": "Die New Yorker Aktienmärkte setzten ihren Anstieg fort, obwohl die Unsicherheit über das Ende des Iran-Kriegs zunahm. Gestützt wurde die Entwicklung vor allem durch die Begeisterung für künstliche Intelligenz (KI). Kriegsmüdigkeit und geopolitische Risiken blieben zwar Belastungsfaktoren, doch KI-Erwartungen stützten die Anlegerstimmung und trieben den S&P 500 sowie den Nasdaq auf Rekordstände. Auch die Sorge vor einer Ausweitung des Konflikts ließ nach, nachdem der frühere Präsident Trump erklärt hatte, der „Waffenstillstand hält“. Der Markt reagierte damit stärker auf die Wachstumserwartungen rund um KI als auf Kriegsrisiken. Dennoch bleibt die Unsicherheit über das Ende des Iran-Kriegs bestehen, sodass der weitere Börsenverlauf von der Stabilität des Waffenstillstands und der Dauer des KI-Investitionsbooms abhängen dürfte. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "L’essor de l’IA soutient Wall Street malgré la guerre; S&P 500 et Nasdaq au plus haut",
-        "excerpt": "Alors que l’issue de la guerre en Iran reste incertaine, l’enthousiasme pour l’IA et les propos de Trump sur le cessez-le-feu ont apaisé les craintes et soutenu les actions américaines.",
-        "body": "La Bourse de New York a poursuivi sa hausse malgré l’incertitude croissante autour de la fin de la guerre en Iran, portée par l’enthousiasme pour l’intelligence artificielle (IA). La fatigue liée à la guerre et les risques géopolitiques restaient des facteurs de pression, mais les attentes autour de l’IA ont soutenu le sentiment des investisseurs et permis au S&P 500 et au Nasdaq d’atteindre des records. Les craintes d’une extension du conflit se sont aussi en partie atténuées après que l’ancien président Trump a déclaré que « le cessez-le-feu se maintient ». Le marché semble réagir davantage aux perspectives de croissance de l’IA qu’aux risques liés à la guerre. L’incertitude sur l’issue de la guerre en Iran demeure toutefois, et l’évolution des marchés dépendra du maintien du cessez-le-feu et de la poursuite de l’élan d’investissement dans l’IA. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "طفرة الذكاء الاصطناعي تدفع وول ستريت رغم مخاطر الحرب وناسداك عند قمة",
-        "excerpt": "وسط غموض نهاية حرب إيران، ساعدت طفرة الذكاء الاصطناعي وتصريح ترامب بأن وقف إطلاق النار مستمر في تهدئة المخاوف ودعم صعود الأسهم الأميركية.",
-        "body": "واصلت بورصة نيويورك صعودها رغم تزايد عدم اليقين بشأن نهاية حرب إيران، مدعومة بالحماس المتعلق بالذكاء الاصطناعي. ظل الإرهاق من الحرب والمخاطر الجيوسياسية عبئا على السوق، لكن التوقعات المرتبطة بالذكاء الاصطناعي دعمت معنويات المستثمرين، ليدفع ذلك مؤشري S&P 500 وناسداك إلى مستويات قياسية. كما تراجعت بعض المخاوف من اتساع الحرب بعدما قال الرئيس السابق ترامب إن “وقف إطلاق النار مستمر”. ويظهر أداء السوق أن المستثمرين يتفاعلون بقوة أكبر مع توقعات نمو الذكاء الاصطناعي مقارنة بمخاطر الحرب. ومع ذلك، لا يزال الغموض قائما حول نهاية حرب إيران، ما يجعل اتجاه الأسهم لاحقا مرتبطا باستمرار وقف إطلاق النار وبقاء زخم الاستثمار في الذكاء الاصطناعي. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "AI तेजी से युद्ध जोखिम दबा, वॉल स्ट्रीट चढ़ी; S&P और Nasdaq रिकॉर्ड ऊंचाई पर",
-        "excerpt": "ईरान युद्ध के अंत को लेकर अनिश्चितता बढ़ने के बीच AI उत्साह और ट्रंप के युद्धविराम जारी रहने वाले बयान ने चिंता घटाई और अमेरिकी शेयरों को ऊपर उठाया।",
-        "body": "ईरान युद्ध के अंत को लेकर अनिश्चितता बढ़ने के बावजूद न्यूयॉर्क शेयर बाजार कृत्रिम बुद्धिमत्ता (AI) के उत्साह के सहारे चढ़ता रहा। युद्ध से थकान और भू-राजनीतिक जोखिम बाजार पर दबाव बने हुए थे, लेकिन AI से जुड़ी उम्मीदों ने निवेशकों की धारणा को सहारा दिया और S&P 500 तथा Nasdaq रिकॉर्ड ऊंचाई पर पहुंचे। पूर्व राष्ट्रपति ट्रंप के यह कहने के बाद कि “युद्धविराम जारी है”, युद्ध फैलने की आशंका भी कुछ कम हुई। बाजार का रुझान दिखाता है कि निवेशक युद्ध जोखिमों की तुलना में AI वृद्धि की उम्मीदों पर अधिक प्रतिक्रिया दे रहे हैं। फिर भी ईरान युद्ध के अंत को लेकर अनिश्चितता बनी हुई है, इसलिए आगे शेयर बाजार की दिशा युद्धविराम के बने रहने और AI निवेश उत्साह की निरंतरता पर निर्भर करेगी। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Demam AI Dorong Wall Street Meski Risiko Perang; S&P dan Nasdaq Cetak Rekor",
-        "excerpt": "Di tengah ketidakpastian akhir perang Iran, euforia AI dan pernyataan Trump bahwa gencatan senjata bertahan meredakan kekhawatiran dan menopang saham AS.",
-        "body": "Bursa New York terus menguat meski ketidakpastian mengenai akhir perang Iran meningkat, ditopang oleh antusiasme terhadap kecerdasan buatan (AI). Kelelahan perang dan risiko geopolitik masih menjadi beban pasar, tetapi ekspektasi terkait AI mendukung sentimen investor dan membawa S&P 500 serta Nasdaq ke level tertinggi. Kekhawatiran atas meluasnya konflik juga mereda sebagian setelah mantan Presiden Trump menyatakan bahwa “gencatan senjata tetap bertahan”. Pasar tampak lebih sensitif terhadap harapan pertumbuhan AI dibandingkan risiko perang. Namun, ketidakpastian atas akhir perang Iran masih ada, sehingga arah pasar saham ke depan akan bergantung pada keberlanjutan gencatan senjata dan apakah momentum investasi AI dapat bertahan. Sumber: mk.co.kr."
       }
     }
   }
