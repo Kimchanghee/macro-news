@@ -1,5 +1,230 @@
 [
   {
+    "id": "dae3e6d1f135",
+    "slug": "사진-찍을-때-v-그러다-싹-털린다지문복제-ai에-개인정보-유출-주의보-815208",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T17:01:03.524Z",
+    "updatedAt": "2026-05-12T17:01:03.524Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12045306",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12045306",
+    "titleFingerprint": "823b05c2c7f9af56cc8a27c73a0002020b788646",
+    "dedupKeys": [
+      "dae3e6d1f13594f8be29bf02fe0a589679c18a1a",
+      "823b05c2c7f9af56cc8a27c73a0002020b788646",
+      "f44ea4552cff423a5fe85b3197acf89cae2af0bb"
+    ],
+    "imageUrl": "/images/articles/dae3e6d1f135.png",
+    "i18n": {
+      "ko": {
+        "title": "지문복제 AI 경고, 사진 속 ‘V’ 포즈도 개인정보 유출 통로 된다",
+        "excerpt": "12일 SCMP 보도에 따르면 사진 촬영 때 흔히 하는 ‘브이(V)’ 포즈가 지문복제 AI를 통한 개인정보 유출로 이어질 수 있어 이용자 주의가 요구된다.",
+        "body": "사진을 찍을 때 손가락으로 ‘브이(V)’를 만드는 익숙한 포즈가 개인정보 유출 위험으로 지목됐다. 12일 홍콩 매체 사우스차이나모닝포스트(SCMP)에 따르면 최근 지문복제 AI와 관련해 사진 속 손가락 정보가 악용될 수 있다는 주의보가 나왔다. 배경은 온라인에 올린 사진에서도 손가락 지문이 노출될 수 있다는 점이다. 특히 인증 수단으로 지문을 쓰는 환경이 넓어진 만큼, 무심코 공개한 이미지가 개인정보 보호의 취약 지점이 될 수 있다. 이용자는 사진 게시 전 손가락 노출 여부를 확인할 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Fingerprint-Cloning AI Warning: ‘V’ Photo Pose May Expose Personal Data",
+        "excerpt": "According to SCMP reporting on May 12, the common ‘V’ sign pose in photos may lead to personal data exposure through fingerprint-cloning AI, prompting caution for users.",
+        "body": "A familiar pose of making a ‘V’ sign with the fingers when taking photos has been flagged as a potential personal data risk. According to Hong Kong media outlet South China Morning Post on May 12, a recent warning said finger information visible in photos could be misused in connection with fingerprint-cloning AI. The concern is that fingerprints may be exposed even in images uploaded online. As fingerprint authentication is widely used, casually shared photos could become a weak point for personal information protection. Users are advised to check whether fingers are clearly shown before posting images. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "指紋複製AIに警告、写真の「V」ポーズも個人情報流出の恐れ",
+        "excerpt": "12日のSCMP報道によると、写真撮影でよく使われる「V」サインのポーズが、指紋複製AIを通じた個人情報流出につながる恐れがあるとして注意が呼びかけられている。",
+        "body": "写真を撮る際に指で「V」サインを作るおなじみのポーズが、個人情報流出のリスクとして指摘された。12日、香港メディアのサウスチャイナ・モーニング・ポスト（SCMP）によると、最近、指紋複製AIに関連し、写真に写った指の情報が悪用される可能性があるとの注意喚起が出た。背景には、オンラインに投稿した写真でも指紋が露出し得る点がある。指紋認証の利用が広がるなか、何気なく公開した画像が個人情報保護の弱点になり得る。投稿前に指の写り方を確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "指纹复制AI警报：拍照比“V”也可能成为个人信息泄露入口",
+        "excerpt": "据SCMP 12日报道，拍照时常见的“V”字手势可能通过指纹复制AI导致个人信息泄露，相关风险引发用户注意。",
+        "body": "拍照时用手指比出“V”字的常见姿势，被指出可能带来个人信息泄露风险。据香港媒体《南华早报》（SCMP）12日报道，近期有警示称，与指纹复制AI相关，照片中可见的手指信息可能被滥用。其背景在于，即使是上传到网络的照片，也可能暴露指纹。随着指纹认证作为身份验证方式被广泛使用，随手公开的图片可能成为个人信息保护的薄弱环节。用户在发布照片前，有必要确认手指是否清晰露出。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Alerta por IA que clona huellas: la pose de ‘V’ en fotos puede filtrar datos",
+        "excerpt": "Según informó SCMP el 12 de mayo, la popular pose de ‘V’ al tomar fotografías podría derivar en exposición de datos personales mediante IA de clonación de huellas.",
+        "body": "La conocida pose de hacer una ‘V’ con los dedos al tomar fotografías fue señalada como un posible riesgo para la privacidad. Según el medio de Hong Kong South China Morning Post el 12 de mayo, una advertencia reciente indicó que la información de los dedos visible en fotos podría ser utilizada indebidamente en relación con IA de clonación de huellas. El contexto es que las huellas pueden quedar expuestas incluso en imágenes subidas a internet. Dado el uso extendido de la autenticación por huella, una foto compartida sin cuidado puede convertirse en un punto débil para proteger datos personales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Alerta sobre IA que clona digitais: pose de ‘V’ em fotos pode expor dados",
+        "excerpt": "Segundo o SCMP em 12 de maio, a pose comum de ‘V’ em fotografias pode levar à exposição de dados pessoais por meio de IA de clonagem de impressões digitais.",
+        "body": "A pose familiar de fazer um ‘V’ com os dedos ao tirar fotos foi apontada como possível risco de vazamento de dados pessoais. Segundo o South China Morning Post, de Hong Kong, em 12 de maio, um alerta recente afirmou que informações dos dedos visíveis em fotos podem ser usadas indevidamente em conexão com IA de clonagem de impressões digitais. A preocupação é que digitais possam ficar expostas mesmo em imagens publicadas online. Com a ampla adoção da autenticação por impressão digital, fotos compartilhadas sem atenção podem se tornar um ponto vulnerável na proteção de dados pessoais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Warnung vor Fingerabdruck-KI: ‘V’-Pose auf Fotos kann Daten preisgeben",
+        "excerpt": "Laut SCMP-Bericht vom 12. Mai kann die gängige ‘V’-Pose beim Fotografieren durch Fingerabdruck-klonende KI zur Offenlegung persönlicher Daten führen.",
+        "body": "Die vertraute Geste, beim Fotografieren mit den Fingern ein ‘V’ zu zeigen, wird als mögliches Risiko für persönliche Daten genannt. Wie die Hongkonger Zeitung South China Morning Post am 12. Mai berichtete, warnte ein aktueller Hinweis davor, dass sichtbare Fingerinformationen auf Fotos im Zusammenhang mit Fingerabdruck-klonender KI missbraucht werden könnten. Hintergrund ist, dass Fingerabdrücke selbst auf online hochgeladenen Bildern sichtbar sein können. Da Fingerabdruck-Authentifizierung weit verbreitet ist, können beiläufig veröffentlichte Fotos zu einer Schwachstelle beim Datenschutz werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Alerte à l’IA de copie d’empreintes: le signe ‘V’ en photo peut exposer vos données",
+        "excerpt": "Selon le SCMP le 12 mai, le geste ‘V’ souvent fait sur les photos pourrait entraîner une fuite de données personnelles via l’IA de copie d’empreintes digitales.",
+        "body": "Le geste familier consistant à former un ‘V’ avec les doigts lors d’une photo est présenté comme un risque potentiel pour les données personnelles. Selon le média hongkongais South China Morning Post le 12 mai, une alerte récente indique que les informations des doigts visibles sur les photos pourraient être détournées en lien avec l’IA de copie d’empreintes digitales. Le contexte tient au fait que des empreintes peuvent être exposées même dans des images mises en ligne. Avec l’usage répandu de l’authentification par empreinte, une photo partagée sans attention peut devenir un point faible pour la protection des données. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تحذير من ذكاء اصطناعي ينسخ البصمات: إشارة V في الصور قد تكشف بياناتك",
+        "excerpt": "بحسب تقرير SCMP في 12 مايو، قد تؤدي إشارة V الشائعة عند التقاط الصور إلى تسرب بيانات شخصية عبر ذكاء اصطناعي قادر على نسخ البصمات، ما يستدعي الحذر.",
+        "body": "أُشير إلى وضعية مألوفة عند التقاط الصور، وهي صنع إشارة V بالأصابع، باعتبارها خطرا محتملا على البيانات الشخصية. ووفقا لصحيفة ساوث تشاينا مورنينغ بوست في هونغ كونغ في 12 مايو، صدر تحذير حديث من أن معلومات الأصابع الظاهرة في الصور قد تُساء استخدامها في سياق الذكاء الاصطناعي القادر على نسخ البصمات. وتكمن الخلفية في أن البصمات قد تظهر حتى في الصور المنشورة على الإنترنت. ومع اتساع استخدام البصمة كوسيلة تحقق، قد تصبح الصور المنشورة بلا انتباه نقطة ضعف في حماية الخصوصية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "फिंगरप्रिंट-क्लोनिंग AI चेतावनी: फोटो में ‘V’ पोज से डेटा लीक का खतरा",
+        "excerpt": "12 मई की SCMP रिपोर्ट के अनुसार, फोटो लेते समय आम ‘V’ पोज फिंगरप्रिंट-क्लोनिंग AI के जरिए निजी जानकारी के खुलासे का कारण बन सकता है, इसलिए सावधानी जरूरी है।",
+        "body": "फोटो लेते समय उंगलियों से ‘V’ बनाना एक आम पोज है, लेकिन इसे निजी जानकारी के जोखिम के रूप में चिन्हित किया गया है। 12 मई को हांगकांग मीडिया साउथ चाइना मॉर्निंग पोस्ट के अनुसार, हाल में चेतावनी दी गई कि तस्वीरों में दिख रही उंगलियों की जानकारी फिंगरप्रिंट-क्लोनिंग AI से जुड़े दुरुपयोग का कारण बन सकती है। चिंता यह है कि ऑनलाइन डाली गई तस्वीरों में भी फिंगरप्रिंट उजागर हो सकते हैं। जब फिंगरप्रिंट प्रमाणीकरण व्यापक रूप से इस्तेमाल हो रहा है, तो बिना सोचे साझा की गई तस्वीर निजी डेटा सुरक्षा की कमजोर कड़ी बन सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Peringatan AI Penyalin Sidik Jari: Pose ‘V’ di Foto Bisa Bocorkan Data",
+        "excerpt": "Menurut laporan SCMP pada 12 Mei, pose ‘V’ yang umum saat berfoto dapat memicu kebocoran data pribadi melalui AI penyalin sidik jari, sehingga pengguna diminta berhati-hati.",
+        "body": "Pose akrab membuat tanda ‘V’ dengan jari saat berfoto disebut sebagai potensi risiko kebocoran data pribadi. Menurut media Hong Kong South China Morning Post pada 12 Mei, peringatan terbaru menyebut informasi jari yang terlihat dalam foto dapat disalahgunakan terkait AI penyalin sidik jari. Kekhawatirannya, sidik jari bisa terekspos bahkan dalam foto yang diunggah secara online. Karena autentikasi sidik jari makin luas digunakan, gambar yang dibagikan tanpa perhatian dapat menjadi titik lemah perlindungan data pribadi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9e8c817075c4",
+    "slug": "쿠웨이트-해안-침투한-이란-혁명수비대와-교전4명-체포-746291",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T16:59:23.222Z",
+    "updatedAt": "2026-05-12T16:59:23.222Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12045396",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12045396",
+    "titleFingerprint": "9b431ab839d296eb5850a18319cfc4ded197966c",
+    "dedupKeys": [
+      "9e8c817075c4a4a810a28049ce1ef6fabf0195a5",
+      "9b431ab839d296eb5850a18319cfc4ded197966c",
+      "48d5e8aa75e852aafc9316ec68c58e7b4b225449"
+    ],
+    "imageUrl": "/images/articles/9e8c817075c4.png",
+    "i18n": {
+      "ko": {
+        "title": "쿠웨이트, 해안 침투 이란 혁명수비대와 교전…4명 체포 발표",
+        "excerpt": "쿠웨이트군은 12일 현지 국영 KUNA통신 보도에 따라 이달 1일 해안 국경을 침입한 이란 이슬람혁명수비대 4명을 교전 끝에 체포했다고 밝혔다.",
+        "body": "쿠웨이트군이 해안으로 침투한 이란 이슬람혁명수비대 4명을 체포했다고 12일 현지 국영 KUNA통신이 보도했다. 쿠웨이트 내무부와 국방부는 이달 1일 국경을 침입한 이란 이슬람혁명수비대 인원들과 교전이 있었으며, 이후 4명을 붙잡았다고 밝혔다. 보도에 따르면 이번 사안은 해안 국경을 통한 침투와 관련된 사건으로, 쿠웨이트 당국은 체포 사실을 공식 확인했다. 다만 원문에는 체포된 인원들의 구체적 신원, 침투 목적, 추가 피해 여부 등은 제시되지 않았다. 이번 발표는 쿠웨이트의 해안 및 국경 경계와 관련한 안보 사안으로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kuwait Says It Clashed With IRGC Members on Coast, Arrested Four",
+        "excerpt": "Kuwait’s military said, according to state KUNA on May 12, that it arrested four Iranian Revolutionary Guard members after a clash over a May 1 coastal border intrusion.",
+        "body": "Kuwait’s military arrested four members of Iran’s Islamic Revolutionary Guard Corps who had infiltrated the coast, state-run KUNA reported on May 12 local time. Kuwait’s Interior Ministry and Defense Ministry said IRGC personnel crossed the border on May 1 and that a clash took place before four people were detained. According to the report, the case involved an infiltration through the coastal border, and Kuwaiti authorities officially confirmed the arrests. The original report did not provide the detainees’ detailed identities, the purpose of the intrusion, or whether there were additional damages. The announcement draws attention as a security matter involving Kuwait’s coastal and border surveillance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "クウェート、海岸侵入のイラン革命防衛隊と交戦…4人拘束",
+        "excerpt": "クウェート軍は12日、国営KUNA通信の報道として、今月1日に海岸国境へ侵入したイラン革命防衛隊員4人を交戦後に拘束したと明らかにした。",
+        "body": "クウェート軍が海岸から侵入したイラン・イスラム革命防衛隊の4人を拘束したと、現地時間12日に国営KUNA通信が報じた。クウェート内務省と国防省は、今月1日に国境を侵犯したイラン革命防衛隊員らとの交戦があり、その後4人を拘束したと明らかにした。報道によれば、今回の事案は海岸国境を通じた侵入に関連するもので、クウェート当局は拘束の事実を公式に確認した。ただし原文では、拘束された人物の詳しい身元、侵入目的、追加被害の有無などは示されていない。今回の発表は、クウェートの海岸および国境警備に関わる安全保障上の事案として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "科威特称与海岸渗入的伊朗革命卫队交火，逮捕4人",
+        "excerpt": "据科威特国营KUNA通讯社12日报道，科威特军方称其逮捕了4名本月1日从海岸边境渗入的伊朗伊斯兰革命卫队成员。",
+        "body": "科威特军方逮捕了4名从海岸渗入的伊朗伊斯兰革命卫队成员，科威特国营KUNA通讯社当地时间12日报道。科威特内政部和国防部表示，本月1日有伊朗伊斯兰革命卫队人员侵犯边境，双方发生交火，随后4人被逮捕。报道称，该事件与通过海岸边境渗入有关，科威特当局已正式确认逮捕事实。不过，原文未说明被捕人员的具体身份、渗入目的以及是否造成其他损失。此次通报作为涉及科威特海岸和边境警戒的安全事件受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kuwait dice que chocó con miembros de la Guardia Revolucionaria iraní y arrestó a cuatro",
+        "excerpt": "El Ejército de Kuwait afirmó, según KUNA el 12 de mayo, que arrestó a cuatro miembros de la Guardia Revolucionaria iraní tras una incursión costera del 1 de mayo.",
+        "body": "El Ejército de Kuwait arrestó a cuatro miembros del Cuerpo de la Guardia Revolucionaria Islámica de Irán que se habían infiltrado por la costa, informó el 12 de mayo, hora local, la agencia estatal KUNA. Los ministerios kuwaitíes del Interior y Defensa dijeron que personal de la Guardia Revolucionaria iraní cruzó la frontera el 1 de mayo y que hubo un enfrentamiento antes de que cuatro personas fueran detenidas. Según el reporte, el caso está relacionado con una infiltración por la frontera costera, y las autoridades kuwaitíes confirmaron oficialmente los arrestos. El texto original no detalló la identidad de los detenidos, el propósito de la incursión ni si hubo daños adicionales. La declaración destaca como un asunto de seguridad ligado a la vigilancia costera y fronteriza de Kuwait. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kuwait diz ter confrontado Guarda Revolucionária do Irã na costa e prendido quatro",
+        "excerpt": "O Exército do Kuwait afirmou, segundo a KUNA em 12 de maio, que prendeu quatro membros da Guarda Revolucionária iraniana após uma incursão costeira em 1º de maio.",
+        "body": "O Exército do Kuwait prendeu quatro membros do Corpo da Guarda Revolucionária Islâmica do Irã que haviam se infiltrado pela costa, informou em 12 de maio, horário local, a agência estatal KUNA. Os ministérios do Interior e da Defesa do Kuwait disseram que integrantes da Guarda Revolucionária iraniana cruzaram a fronteira em 1º de maio e que houve um confronto antes da detenção de quatro pessoas. Segundo a reportagem, o caso está ligado a uma infiltração pela fronteira costeira, e as autoridades kuwaitianas confirmaram oficialmente as prisões. O texto original não informou a identidade detalhada dos detidos, o objetivo da incursão nem se houve danos adicionais. O anúncio chama atenção como questão de segurança relacionada à vigilância costeira e fronteiriça do Kuwait. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kuwait meldet Gefecht mit Irans Revolutionsgarde an Küste, vier Festnahmen",
+        "excerpt": "Kuwaits Militär erklärte laut KUNA am 12. Mai, es habe vier Mitglieder der iranischen Revolutionsgarde nach einem Küstengrenzübertritt am 1. Mai festgenommen.",
+        "body": "Kuwaits Militär hat vier Mitglieder der Islamischen Revolutionsgarde Irans festgenommen, die über die Küste eingedrungen seien, berichtete die staatliche Nachrichtenagentur KUNA am 12. Mai Ortszeit. Das Innen- und das Verteidigungsministerium Kuwaits erklärten, Personal der iranischen Revolutionsgarde habe am 1. Mai die Grenze verletzt, worauf es zu einem Gefecht gekommen sei; anschließend seien vier Personen festgenommen worden. Dem Bericht zufolge steht der Vorfall im Zusammenhang mit einem Eindringen über die Küstengrenze, und die kuwaitischen Behörden bestätigten die Festnahmen offiziell. Der Originalbericht nannte keine genauen Identitäten der Festgenommenen, keinen Zweck des Eindringens und keine Angaben zu weiteren Schäden. Die Mitteilung rückt als Sicherheitsfall zur Küsten- und Grenzüberwachung Kuwaits in den Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le Koweït dit avoir affronté des Gardiens de la révolution iraniens et arrêté quatre hommes",
+        "excerpt": "L’armée koweïtienne a déclaré, selon KUNA le 12 mai, avoir arrêté quatre membres des Gardiens de la révolution iraniens après une intrusion côtière le 1er mai.",
+        "body": "L’armée koweïtienne a arrêté quatre membres du Corps des Gardiens de la révolution islamique d’Iran qui s’étaient infiltrés par la côte, a rapporté le 12 mai, heure locale, l’agence publique KUNA. Les ministères koweïtiens de l’Intérieur et de la Défense ont indiqué que des membres des Gardiens de la révolution iraniens avaient franchi la frontière le 1er mai et qu’un affrontement avait eu lieu avant l’arrestation de quatre personnes. Selon le reportage, l’affaire concerne une infiltration par la frontière côtière, et les autorités koweïtiennes ont officiellement confirmé les arrestations. Le texte original ne précise pas l’identité détaillée des personnes arrêtées, le but de l’intrusion ni l’existence d’éventuels dommages supplémentaires. Cette annonce attire l’attention comme un dossier de sécurité lié à la surveillance côtière et frontalière du Koweït. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الكويت تعلن اشتباكا مع عناصر من الحرس الثوري الإيراني على الساحل واعتقال أربعة",
+        "excerpt": "قال الجيش الكويتي، وفق ما نقلته كونا في 12 مايو، إنه اعتقل أربعة من الحرس الثوري الإيراني بعد اشتباك أعقب تسللهم عبر الحدود الساحلية في 1 مايو.",
+        "body": "اعتقل الجيش الكويتي أربعة من عناصر الحرس الثوري الإسلامي الإيراني تسللوا عبر الساحل، بحسب ما أفادت وكالة الأنباء الكويتية الرسمية كونا في 12 مايو بالتوقيت المحلي. وقالت وزارتا الداخلية والدفاع في الكويت إن عناصر من الحرس الثوري الإيراني اخترقوا الحدود في 1 مايو، ووقع اشتباك قبل إلقاء القبض على أربعة منهم. ووفقا للتقرير، ترتبط القضية بتسلل عبر الحدود الساحلية، وقد أكدت السلطات الكويتية رسميا واقعة الاعتقال. ولم يورد النص الأصلي تفاصيل عن هويات المعتقلين أو هدف التسلل أو ما إذا كانت هناك أضرار إضافية. ويحظى الإعلان باهتمام بوصفه قضية أمنية تتعلق بمراقبة السواحل والحدود في الكويت. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कुवैत का दावा: तट से घुसे ईरानी रिवोल्यूशनरी गार्ड से झड़प, चार गिरफ्तार",
+        "excerpt": "कुवैती सेना ने 12 मई को सरकारी KUNA के हवाले से कहा कि उसने 1 मई को तटीय सीमा में घुसे ईरान के इस्लामिक रिवोल्यूशनरी गार्ड के चार सदस्यों को गिरफ्तार किया।",
+        "body": "कुवैती सेना ने तट के रास्ते घुसे ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के चार सदस्यों को गिरफ्तार किया, यह जानकारी 12 मई को स्थानीय समयानुसार सरकारी KUNA समाचार एजेंसी ने दी। कुवैत के आंतरिक मंत्रालय और रक्षा मंत्रालय ने कहा कि 1 मई को ईरानी रिवोल्यूशनरी गार्ड के कर्मियों ने सीमा का उल्लंघन किया और झड़प के बाद चार लोगों को पकड़ा गया। रिपोर्ट के अनुसार यह मामला तटीय सीमा के जरिये घुसपैठ से जुड़ा है, और कुवैती अधिकारियों ने गिरफ्तारी की पुष्टि की। मूल रिपोर्ट में गिरफ्तार लोगों की विस्तृत पहचान, घुसपैठ का उद्देश्य या किसी अतिरिक्त नुकसान की जानकारी नहीं दी गई। यह घोषणा कुवैत की तटीय और सीमा सुरक्षा से जुड़े मुद्दे के रूप में ध्यान खींचती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kuwait Sebut Bentrok dengan Garda Revolusi Iran di Pesisir, Empat Ditangkap",
+        "excerpt": "Militer Kuwait, menurut laporan KUNA pada 12 Mei, menyatakan telah menangkap empat anggota Garda Revolusi Iran setelah penyusupan lewat perbatasan pesisir pada 1 Mei.",
+        "body": "Militer Kuwait menangkap empat anggota Korps Garda Revolusi Islam Iran yang menyusup lewat pesisir, demikian dilaporkan kantor berita negara KUNA pada 12 Mei waktu setempat. Kementerian Dalam Negeri dan Kementerian Pertahanan Kuwait mengatakan personel Garda Revolusi Iran melanggar perbatasan pada 1 Mei, terjadi bentrokan, lalu empat orang ditangkap. Menurut laporan tersebut, kasus ini terkait penyusupan melalui perbatasan pesisir, dan otoritas Kuwait secara resmi mengonfirmasi penangkapan itu. Naskah asli tidak memuat identitas rinci para tahanan, tujuan penyusupan, atau apakah ada kerusakan tambahan. Pengumuman ini menjadi perhatian sebagai isu keamanan yang terkait dengan pengawasan pesisir dan perbatasan Kuwait. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "41f5b84e17b3",
+    "slug": "버닝썬-논란-이후-최대폭비위-논란-강남경찰서-물갈이-백해룡은-유임종합-912412",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-12T16:57:30.368Z",
+    "updatedAt": "2026-05-12T16:57:30.369Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12045397",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12045397",
+    "titleFingerprint": "6976be59a66941a2a5b66163a9d062490402de79",
+    "dedupKeys": [
+      "41f5b84e17b3a12ac52969b70ec3f6c0f8d43843",
+      "6976be59a66941a2a5b66163a9d062490402de79",
+      "2d7076d86b1803516bca5017d2cff8583861713e"
+    ],
+    "imageUrl": "/images/articles/41f5b84e17b3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "강남경찰서 수사·형사 책임자 전격 교체…백해룡은 유임",
+        "excerpt": "방송인 양정원 씨 관련 고소 사건을 담당한 서울 강남경찰서에서 12일 수사·형사 실무 책임자들이 비위 논란 속에 전격 교체됐고, 백해룡은 유임됐다.",
+        "body": "서울 강남경찰서에서 수사·형사 실무 책임자들이 12일 전격 교체됐다. 방송인 양정원 씨가 프랜차이즈 필라테스 학원 가맹점주들로부터 사기 등 혐의로 고소당한 사건을 담당했던 경찰서에서 비위 논란이 제기된 데 따른 인사로 전해졌다. 이번 교체는 버닝썬 논란 이후 최대폭의 물갈이로 언급됐다. 다만 백해룡은 유임됐다. 사건 담당 부서의 책임자 교체가 이뤄지면서 향후 수사 관리와 조직 내부 점검에 관심이 모인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Gangnam Police Shake-Up Replaces Investigation Chiefs; Baek Hae-ryong Stays",
+        "excerpt": "On May 12, Seoul Gangnam Police Station replaced key investigation and criminal affairs officials amid misconduct controversy tied to a complaint case involving broadcaster Yang Jung-won.",
+        "body": "Seoul Gangnam Police Station abruptly replaced working-level heads of investigation and criminal affairs on May 12. The move came at the station that handled a case in which broadcaster Yang Jung-won was accused by franchise Pilates studio owners of fraud and other allegations. It was reported as a personnel change linked to misconduct controversy and described as the largest reshuffle since the Burning Sun scandal. Baek Hae-ryong, however, remained in place. The change is drawing attention to future investigation management and internal checks. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "江南警察署の捜査・刑事責任者を電撃交代、白海龍氏は留任",
+        "excerpt": "放送人ヤン・ジョンウォン氏関連の告訴事件を担当したソウル江南警察署で12日、不祥事論議の中、捜査・刑事実務責任者が交代した。",
+        "body": "ソウル江南警察署で12日、捜査・刑事の実務責任者が電撃的に交代した。放送人ヤン・ジョンウォン氏がフランチャイズのピラティス教室加盟店主らから詐欺などの疑いで告訴された事件を担当していた警察署で、不祥事論議が提起されたことに伴う人事と伝えられている。今回の交代はバーニングサン論議以降で最大規模の刷新とされる。一方、白海龍氏は留任した。担当部門の責任者交代により、今後の捜査管理と内部点検に関心が集まる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "江南警察署调查与刑事负责人突遭更换，白海龙留任",
+        "excerpt": "5月12日，负责处理播音人杨贞媛相关投诉案的首尔江南警察署，在不当行为争议中更换了调查与刑事实务负责人。",
+        "body": "首尔江南警察署5月12日突然更换了调查与刑事实务负责人。该警署曾负责处理播音人杨贞媛被连锁普拉提学院加盟店主以诈骗等嫌疑起诉的案件。此次人事调整被认为与不当行为争议有关，并被提及为“Burning Sun”争议以来最大幅度的换血。不过，白海龙仍获留任。随着案件负责部门负责人更替，外界关注今后的调查管理和组织内部检查。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Relevo en la Policía de Gangnam: cambian jefes de investigación y Baek sigue",
+        "excerpt": "El 12 de mayo, la comisaría de Gangnam en Seúl cambió a responsables de investigación y asuntos penales tras una controversia ligada al caso de Yang Jung-won.",
+        "body": "La comisaría de Gangnam, en Seúl, reemplazó de forma repentina el 12 de mayo a responsables operativos de investigación y asuntos penales. La medida se produjo en la dependencia que gestionó una denuncia contra la presentadora Yang Jung-won, acusada por propietarios de franquicias de estudios de pilates de fraude y otros cargos. El cambio fue vinculado a una controversia por conductas indebidas y descrito como el relevo más amplio desde el caso Burning Sun. Baek Hae-ryong, sin embargo, permaneció en su cargo. La atención se centra ahora en la gestión de las investigaciones y la revisión interna. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Polícia de Gangnam troca chefes de investigação; Baek Hae-ryong permanece",
+        "excerpt": "Em 12 de maio, a delegacia de Gangnam, em Seul, substituiu responsáveis de investigação e área criminal em meio a controvérsia ligada ao caso de Yang Jung-won.",
+        "body": "A Delegacia de Polícia de Gangnam, em Seul, substituiu de forma repentina, em 12 de maio, responsáveis operacionais das áreas de investigação e criminal. A medida ocorreu na unidade que tratou de uma denúncia contra a apresentadora Yang Jung-won, acusada por franqueados de uma rede de estúdios de pilates de fraude e outras suspeitas. A mudança foi associada a uma controvérsia sobre má conduta e descrita como a maior reformulação desde o caso Burning Sun. Baek Hae-ryong, porém, foi mantido. A troca dos responsáveis deve ampliar a atenção sobre a gestão das investigações e a revisão interna. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gangnam-Polizei tauscht Ermittlungschefs aus; Baek Hae-ryong bleibt im Amt",
+        "excerpt": "Am 12. Mai ersetzte die Polizeistation Gangnam in Seoul leitende Ermittlungs- und Kriminalbeamte im Zusammenhang mit einer Kontroverse um den Fall Yang Jung-won.",
+        "body": "Die Polizeistation Gangnam in Seoul hat am 12. Mai überraschend praktische Leiter der Ermittlungs- und Kriminalabteilungen ersetzt. Die Dienststelle hatte einen Fall bearbeitet, in dem Moderatorin Yang Jung-won von Franchisenehmern einer Pilates-Schulkette wegen Betrugs und weiterer Vorwürfe angezeigt worden war. Die Personalmaßnahme wurde mit einer Kontroverse um Fehlverhalten in Verbindung gebracht und als größte Umstrukturierung seit dem Burning-Sun-Skandal bezeichnet. Baek Hae-ryong blieb jedoch im Amt. Nach dem Austausch der zuständigen Verantwortlichen richtet sich der Blick auf künftiges Ermittlungsmanagement und interne Prüfungen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Police de Gangnam: chefs d’enquête remplacés, Baek Hae-ryong maintenu",
+        "excerpt": "Le 12 mai, le commissariat de Gangnam à Séoul a remplacé des responsables d’enquête et des affaires criminelles après une controverse liée au dossier Yang Jung-won.",
+        "body": "Le commissariat de Gangnam, à Séoul, a remplacé brusquement le 12 mai des responsables opérationnels des enquêtes et des affaires criminelles. Cette décision concerne le service qui avait traité une plainte visant l’animatrice Yang Jung-won, accusée par des franchisés d’écoles de pilates de fraude et d’autres faits présumés. Le mouvement a été associé à une controverse sur des manquements et présenté comme le remaniement le plus important depuis l’affaire Burning Sun. Baek Hae-ryong a toutefois été maintenu. Le changement des responsables du dossier attire l’attention sur la gestion future des enquêtes et les contrôles internes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تغيير مسؤولي التحقيق والجنائيات في شرطة غانغنام وبايك هاي ريونغ يبقى",
+        "excerpt": "في 12 مايو، بدلت شرطة غانغنام في سول مسؤولي التحقيق والشؤون الجنائية وسط جدل بشأن مخالفات مرتبط بقضية المذيعة يانغ جونغ وون.",
+        "body": "أجرت شرطة غانغنام في سول في 12 مايو تغييرا مفاجئا شمل المسؤولين العمليين عن التحقيقات والشؤون الجنائية. وجاءت الخطوة في المركز الذي تولى قضية اتهم فيها مالكو فروع معاهد بيلاتس بنظام الامتياز المذيعة يانغ جونغ وون بالاحتيال واتهامات أخرى. وارتبط التغيير بجدل حول مخالفات، ووصف بأنه أوسع عملية تبديل منذ قضية برنينغ صن. ومع ذلك، بقي بايك هاي ريونغ في منصبه. ويتركز الاهتمام الآن على إدارة التحقيقات المقبلة والمراجعة الداخلية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "गंगनम पुलिस में जांच और आपराधिक मामलों के प्रभारी बदले, बैक हे-रयोंग बरकरार",
+        "excerpt": "12 मई को सियोल गंगनम पुलिस स्टेशन ने यांग जंग-वोन से जुड़े शिकायत मामले के बीच विवादों के चलते जांच और आपराधिक मामलों के कार्यकारी प्रभारी बदले।",
+        "body": "सियोल गंगनम पुलिस स्टेशन में 12 मई को जांच और आपराधिक मामलों के कार्यकारी प्रभारी अचानक बदल दिए गए। यह वही थाना है जिसने प्रसारक यांग जंग-वोन से जुड़ा मामला संभाला था, जिसमें फ्रेंचाइजी पिलाटेस अकादमी के शाखा मालिकों ने उन पर धोखाधड़ी सहित आरोपों में शिकायत की थी। इस बदलाव को कथित अनियमितताओं से जुड़े विवाद के बाद की कार्रवाई बताया गया और बर्निंग सन विवाद के बाद सबसे बड़े फेरबदल के रूप में उल्लेखित किया गया। हालांकि बैक हे-रयोंग पद पर बने रहे। अब जांच प्रबंधन और आंतरिक समीक्षा पर ध्यान रहेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Polisi Gangnam Ganti Pejabat Investigasi dan Kriminal; Baek Hae-ryong Tetap",
+        "excerpt": "Pada 12 Mei, Kantor Polisi Gangnam Seoul mengganti pejabat investigasi dan kriminal di tengah kontroversi pelanggaran terkait kasus penyiar Yang Jung-won.",
+        "body": "Kantor Polisi Gangnam di Seoul pada 12 Mei mendadak mengganti pejabat pelaksana bidang investigasi dan kriminal. Langkah itu terjadi di kantor polisi yang menangani kasus ketika penyiar Yang Jung-won dilaporkan oleh pemilik cabang waralaba studio pilates atas dugaan penipuan dan tuduhan lainnya. Pergantian ini disebut terkait kontroversi pelanggaran dan disebut sebagai perombakan terbesar sejak skandal Burning Sun. Namun, Baek Hae-ryong tetap dipertahankan. Pergantian penanggung jawab unit kasus membuat perhatian tertuju pada pengelolaan investigasi dan pemeriksaan internal ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "5df45540e196",
     "slug": "속보-미국-4월-소비자물가-상승률-06예상치-부합-191294",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Lee Jae-myung Soroti Keuangan Predator, Kritik Perusahaan Swasta Pengelola Kredit Macet",
         "excerpt": "Presiden Lee Jae-myung pada tanggal 12 mengkritik perusahaan swasta pengelola kredit macet yang dibuat sektor keuangan dan menilai praktik itu menjadi titik buta kebijakan yang menekan warga biasa.",
         "body": "Presiden Lee Jae-myung pada tanggal 12 secara terbuka mengkritik kasus “perusahaan swasta pengelola kredit macet” yang dibuat oleh sektor keuangan. Lee mengatakan bahwa ia “tidak tahu keuangan predator yang primitif seperti ini masih bertahan secara terang-terangan dan mencekik warga biasa,” sambil menunjuk titik buta kebijakan di lapangan keuangan. Pernyataan ini menunjukkan pandangan bahwa struktur penanganan kredit bermasalah berkaitan dengan beban keuangan masyarakat. Ke depan, kebutuhan untuk memeriksa sistem terkait dan praktik sektor keuangan diperkirakan meningkat. Sumber: dikutip dari mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ff8764436bc8",
-    "slug": "코스피만-뛴-게-아니었다한국-1분기-성장률-압도적-세계-1위-297721",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-11T23:11:37.865Z",
-    "updatedAt": "2026-05-11T23:11:37.865Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12044207",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12044207",
-    "titleFingerprint": "deff324e8a24ab6febbad6b9e5a6b17bccd01c67",
-    "dedupKeys": [
-      "ff8764436bc8cf41fac91c956fea8a8777209a12",
-      "deff324e8a24ab6febbad6b9e5a6b17bccd01c67",
-      "08f79270e209ca21c15dd811f14636c594a3a219"
-    ],
-    "imageUrl": "/images/articles/ff8764436bc8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국 1분기 성장률 1.69%, 속보치 발표 22개국 중 세계 1위",
-        "excerpt": "올해 1분기 한국 경제가 1.69% 성장률을 기록하며 속보치를 발표한 22개국 중 인도네시아와 중국을 제치고 가장 높은 성장세를 보였다.",
-        "body": "올해 1분기 한국 경제가 주요국 가운데 가장 높은 성장률을 기록한 것으로 나타났다. mk.co.kr에 따르면 한국의 1분기 성장률은 1.69%로, 속보치를 발표한 22개국 중 선두에 올랐다. 이는 인도네시아와 중국을 제친 수치다. 한국 경제는 지난해 4분기에는 최하위권에 머물렀지만, 올해 1분기에는 급반등하며 주요국 비교에서 가장 높은 성장률을 보였다. 코스피 상승만이 아니라 실물 경제 지표에서도 회복 흐름이 확인된 셈이다. 다만 원문은 1분기 속보치 기준의 비교라고 설명했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "South Korea Q1 Growth Hits 1.69%, Highest Among 22 Early-Reporting Economies",
-        "excerpt": "South Korea’s economy grew 1.69% in the first quarter, ranking first among 22 countries that released preliminary figures and surpassing Indonesia and China.",
-        "body": "South Korea posted the highest first-quarter growth rate among major economies, according to mk.co.kr. The country’s economy expanded 1.69% in Q1, placing first among 22 countries that had released preliminary growth figures. The result put South Korea ahead of Indonesia and China. After ranking near the bottom in the fourth quarter of last year, Korea’s economy rebounded sharply in the first quarter. The data suggest that momentum was not limited to the Kospi stock market but also appeared in real economic indicators. The original report noted that the comparison is based on preliminary Q1 figures. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国1～3月期成長率1.69%、速報値公表22カ国で世界首位",
-        "excerpt": "韓国経済は今年1～3月期に1.69%成長し、速報値を公表した22カ国の中でインドネシアや中国を上回り首位となった。",
-        "body": "韓国経済が今年1～3月期、主要国の中で最も高い成長率を記録したことが分かった。mk.co.krによると、韓国の1～3月期成長率は1.69%で、速報値を公表した22カ国の中で首位に立った。これはインドネシアや中国を上回る水準だ。韓国経済は昨年10～12月期には最下位圏にとどまっていたが、今年1～3月期には急反発し、主要国比較で最も高い成長率を示した。コスピ上昇だけでなく、実体経済指標でも回復の流れが確認された形だ。ただし原文は、1～3月期速報値に基づく比較だと説明している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国一季度增长率达1.69%，在已公布初值的22国中居首",
-        "excerpt": "今年一季度，韩国经济增长1.69%，在已公布初步数据的22个国家中超过印度尼西亚和中国，录得最高增速。",
-        "body": "韩国经济今年一季度在主要经济体中录得最高增长率。根据mk.co.kr报道，韩国一季度增长率为1.69%，在已公布初步增长数据的22个国家中位居第一。这一增速超过了印度尼西亚和中国。韩国经济去年四季度曾处于排名靠后位置，但今年一季度迅速反弹，在主要国家比较中显示出最高增长表现。这意味着上升势头并不只体现在韩国综合股价指数，也反映在实体经济指标中。不过原文说明，该比较基于一季度初步数据。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Corea del Sur crece 1,69% en el primer trimestre y lidera entre 22 países",
-        "excerpt": "La economía surcoreana creció 1,69% en el primer trimestre y ocupó el primer lugar entre 22 países con datos preliminares, por delante de Indonesia y China.",
-        "body": "La economía de Corea del Sur registró en el primer trimestre la tasa de crecimiento más alta entre las principales economías, según mk.co.kr. El PIB surcoreano creció 1,69%, lo que colocó al país en primer lugar entre 22 economías que publicaron cifras preliminares. El dato superó los registros de Indonesia y China. Tras quedar en la parte baja de la clasificación en el cuarto trimestre del año pasado, la economía coreana repuntó con fuerza en el primer trimestre. El resultado muestra que el impulso no se limitó al Kospi, sino que también apareció en indicadores de la economía real. El informe original aclara que la comparación se basa en cifras preliminares del primer trimestre. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Coreia do Sul cresce 1,69% no 1º trimestre e lidera entre 22 países",
-        "excerpt": "A economia sul-coreana cresceu 1,69% no primeiro trimestre e ficou em primeiro lugar entre 22 países com dados preliminares, superando Indonésia e China.",
-        "body": "A economia da Coreia do Sul registrou no primeiro trimestre a maior taxa de crescimento entre as principais economias, segundo o mk.co.kr. O crescimento sul-coreano foi de 1,69%, colocando o país na liderança entre 22 economias que divulgaram números preliminares. O resultado superou Indonésia e China. Depois de ficar entre as últimas posições no quarto trimestre do ano passado, a economia coreana teve forte recuperação no primeiro trimestre. O dado indica que o avanço não se limitou ao Kospi, mas também apareceu em indicadores da economia real. A reportagem original observa que a comparação se baseia nos dados preliminares do primeiro trimestre. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Südkoreas Wachstum erreicht im ersten Quartal 1,69% und führt 22 Länder an",
-        "excerpt": "Südkoreas Wirtschaft wuchs im ersten Quartal um 1,69% und lag damit unter 22 Ländern mit vorläufigen Daten vor Indonesien und China.",
-        "body": "Südkoreas Wirtschaft hat im ersten Quartal unter den großen Volkswirtschaften die höchste Wachstumsrate erzielt, berichtet mk.co.kr. Das Wachstum lag bei 1,69% und brachte Südkorea unter 22 Ländern, die vorläufige Zahlen veröffentlicht hatten, auf Platz eins. Damit lag das Land vor Indonesien und China. Nachdem Südkorea im vierten Quartal des Vorjahres noch im unteren Bereich rangiert hatte, folgte im ersten Quartal eine deutliche Erholung. Die Entwicklung zeigt, dass der Auftrieb nicht nur beim Kospi zu sehen war, sondern auch in realwirtschaftlichen Kennzahlen. Der Originalbericht weist darauf hin, dass der Vergleich auf vorläufigen Daten zum ersten Quartal basiert. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La Corée du Sud croît de 1,69% au premier trimestre et mène 22 pays",
-        "excerpt": "L’économie sud-coréenne a progressé de 1,69% au premier trimestre, se classant première parmi 22 pays aux données préliminaires, devant l’Indonésie et la Chine.",
-        "body": "L’économie sud-coréenne a enregistré au premier trimestre le taux de croissance le plus élevé parmi les grandes économies, selon mk.co.kr. Sa croissance a atteint 1,69%, plaçant le pays en tête des 22 pays ayant publié des chiffres préliminaires. Ce résultat dépasse ceux de l’Indonésie et de la Chine. Après avoir figuré dans le bas du classement au quatrième trimestre de l’an dernier, l’économie coréenne a fortement rebondi au premier trimestre. Les données montrent que la dynamique ne s’est pas limitée au Kospi, mais s’est aussi reflétée dans les indicateurs de l’économie réelle. Le rapport original précise que la comparaison repose sur les chiffres préliminaires du premier trimestre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نمو كوريا الجنوبية 1.69% في الربع الأول يتصدر 22 دولة أعلنت بيانات أولية",
-        "excerpt": "سجل اقتصاد كوريا الجنوبية نموا قدره 1.69% في الربع الأول، ليتصدر 22 دولة أعلنت أرقاما أولية ويتجاوز إندونيسيا والصين.",
-        "body": "سجل اقتصاد كوريا الجنوبية في الربع الأول أعلى معدل نمو بين الاقتصادات الكبرى، بحسب mk.co.kr. وبلغ معدل النمو الكوري 1.69%، ليحتل المركز الأول بين 22 دولة أعلنت أرقاما أولية للنمو. وتجاوز هذا المعدل كلا من إندونيسيا والصين. وبعدما كانت كوريا الجنوبية ضمن المراتب الأدنى في الربع الرابع من العام الماضي، حقق اقتصادها ارتدادا قويا في الربع الأول من هذا العام. وتشير البيانات إلى أن الزخم لم يقتصر على ارتفاع مؤشر كوسبي، بل ظهر أيضا في مؤشرات الاقتصاد الحقيقي. وأوضح التقرير الأصلي أن المقارنة تستند إلى الأرقام الأولية للربع الأول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया की पहली तिमाही वृद्धि 1.69%, शुरुआती आंकड़ों वाले 22 देशों में शीर्ष",
-        "excerpt": "दक्षिण कोरिया की अर्थव्यवस्था पहली तिमाही में 1.69% बढ़ी और शुरुआती आंकड़े जारी करने वाले 22 देशों में इंडोनेशिया व चीन से आगे रही।",
-        "body": "दक्षिण कोरिया की अर्थव्यवस्था ने इस वर्ष पहली तिमाही में प्रमुख देशों के बीच सबसे ऊंची वृद्धि दर दर्ज की। mk.co.kr के अनुसार, दक्षिण कोरिया की पहली तिमाही वृद्धि 1.69% रही, जिससे वह शुरुआती आंकड़े जारी करने वाले 22 देशों में पहले स्थान पर पहुंच गया। यह दर इंडोनेशिया और चीन से अधिक रही। पिछले वर्ष की चौथी तिमाही में दक्षिण कोरिया निचले पायदानों पर था, लेकिन इस वर्ष पहली तिमाही में उसने तेज वापसी की। इससे संकेत मिलता है कि सुधार केवल कोस्पी शेयर बाजार तक सीमित नहीं रहा, बल्कि वास्तविक अर्थव्यवस्था के संकेतकों में भी दिखा। मूल रिपोर्ट ने बताया कि तुलना पहली तिमाही के शुरुआती आंकड़ों पर आधारित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pertumbuhan Korea Selatan 1,69% di Kuartal I, Tertinggi dari 22 Negara",
-        "excerpt": "Ekonomi Korea Selatan tumbuh 1,69% pada kuartal pertama dan menempati posisi pertama dari 22 negara yang merilis angka awal, mengungguli Indonesia dan China.",
-        "body": "Ekonomi Korea Selatan mencatat pertumbuhan tertinggi di antara negara-negara utama pada kuartal pertama tahun ini, menurut mk.co.kr. Pertumbuhan Korea Selatan mencapai 1,69%, menempatkannya di posisi pertama dari 22 negara yang telah merilis angka awal. Angka itu melampaui Indonesia dan China. Setelah berada di kelompok terbawah pada kuartal keempat tahun lalu, ekonomi Korea Selatan berbalik naik tajam pada kuartal pertama. Data tersebut menunjukkan bahwa momentum tidak hanya terlihat pada kenaikan Kospi, tetapi juga pada indikator ekonomi riil. Laporan asli menjelaskan bahwa perbandingan ini didasarkan pada angka awal kuartal pertama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "368e6778ef1a",
-    "slug": "빚-보증으로-청담동-아파트-날려윤정수-200억-벌다-망한-사연-163017",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-11T23:10:39.624Z",
-    "updatedAt": "2026-05-11T23:10:39.624Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12044213",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12044213",
-    "titleFingerprint": "8ec4e436bde7ccc7248d547bbcc554d9e6ec1f64",
-    "dedupKeys": [
-      "368e6778ef1a34c2c8c9b44d712249d175b3e491",
-      "8ec4e436bde7ccc7248d547bbcc554d9e6ec1f64",
-      "74b7f1c9380a6ff519e757761f3091305d958e57"
-    ],
-    "imageUrl": "/images/articles/368e6778ef1a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "윤정수, 빚 보증으로 청담동 아파트 잃은 사연 공개…200억 수입 뒤 위기",
-        "excerpt": "방송인 윤정수가 11일 tvN STORY ‘남겨서 뭐하게’에 출연해 과거 빚 보증 문제로 청담동 아파트를 잃게 된 사연을 전했다.",
-        "body": "방송인 윤정수가 11일 방송된 tvN STORY ‘남겨서 뭐하게’에 게스트로 출연해 과거 빚 보증으로 청담동 아파트를 잃게 된 사연을 밝혔다. 원문 제목에 따르면 윤정수는 한때 200억 원을 벌었지만, 빚 보증 문제가 이어지며 큰 재산상 손실을 겪었다. 이날 방송에서 그는 개인적 위기와 경제적 타격을 돌아보며 당시 상황을 전한 것으로 소개됐다. 이번 발언은 연예인의 보증 피해와 재산 관리 위험을 다시 떠올리게 했다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Yoon Jung-soo reveals losing Cheongdam apartment after debt guarantee crisis",
-        "excerpt": "Broadcaster Yoon Jung-soo appeared on tvN STORY’s “What’s the Point of Leaving It?” on the 11th and described how a debt guarantee cost him his Cheongdam apartment.",
-        "body": "Broadcaster Yoon Jung-soo appeared as a guest on tvN STORY’s “What’s the Point of Leaving It?” aired on the 11th and shared how he once lost his Cheongdam-dong apartment because of a debt guarantee. According to the original headline, Yoon had once earned 20 billion won, but a debt guarantee issue led to major personal financial losses. During the program, he was introduced as looking back on that personal crisis and the economic damage it caused. His remarks again highlighted the risks of guaranteeing others’ debts and managing celebrity wealth. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ユン・ジョンス、借金保証で清潭洞マンション失った過去を告白",
-        "excerpt": "タレントのユン・ジョンスが11日放送のtvN STORY『残してどうする』に出演し、過去に借金保証で清潭洞のマンションを失った経緯を語った。",
-        "body": "タレントのユン・ジョンスは11日に放送されたtvN STORY『残してどうする』にゲスト出演し、過去に借金保証が原因で清潭洞のマンションを失うことになった事情を明かした。原文の見出しによると、ユン・ジョンスはかつて200億ウォンを稼いだものの、借金保証問題が続き大きな財産上の損失を経験した。この日の番組では、個人的な危機と経済的打撃を振り返り、当時の状況を伝えたと紹介された。今回の発言は、芸能人の保証被害と資産管理リスクを改めて想起させた。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "尹正秀自曝因债务担保失去清潭洞公寓，曾赚200亿后陷危机",
-        "excerpt": "艺人尹正秀在11日播出的tvN STORY《留下来做什么》中作为嘉宾出演，讲述过去因债务担保失去清潭洞公寓的经历。",
-        "body": "艺人尹正秀在11日播出的tvN STORY《留下来做什么》中作为嘉宾出演，公开了过去因债务担保而失去清潭洞公寓的经历。根据原文标题，尹正秀曾一度赚到200亿韩元，但债务担保问题接连发生，使他遭受了重大的财产损失。节目中介绍称，他回顾了当时的个人危机和经济打击，并讲述相关情况。此次发言也再次提醒外界，担保他人债务以及艺人资产管理都可能伴随较高风险。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Yoon Jung-soo cuenta cómo perdió su apartamento en Cheongdam por avalar deudas",
-        "excerpt": "El presentador Yoon Jung-soo apareció el día 11 en “What’s the Point of Leaving It?” de tvN STORY y relató cómo un aval de deuda le hizo perder su apartamento en Cheongdam.",
-        "body": "El presentador Yoon Jung-soo participó como invitado en “What’s the Point of Leaving It?” de tvN STORY, emitido el día 11, y reveló cómo en el pasado perdió su apartamento en Cheongdam-dong debido a un aval de deuda. Según el titular original, Yoon llegó a ganar 20.000 millones de wones, pero los problemas derivados de ese aval provocaron una fuerte pérdida patrimonial. En el programa, fue presentado repasando aquella crisis personal y el golpe económico sufrido. Sus declaraciones volvieron a poner sobre la mesa los riesgos de avalar deudas ajenas y de gestionar grandes ingresos en el mundo del entretenimiento. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Yoon Jung-soo relata perda de apartamento em Cheongdam após garantia de dívida",
-        "excerpt": "O apresentador Yoon Jung-soo participou no dia 11 do programa “What’s the Point of Leaving It?”, da tvN STORY, e contou como uma garantia de dívida o levou a perder seu apartamento em Cheongdam.",
-        "body": "O apresentador Yoon Jung-soo participou como convidado do programa “What’s the Point of Leaving It?”, da tvN STORY, exibido no dia 11, e revelou que perdeu seu apartamento em Cheongdam-dong no passado por causa de uma garantia de dívida. Segundo o título original, Yoon chegou a ganhar 20 bilhões de wones, mas a questão da garantia de dívida acabou resultando em grande perda patrimonial. No programa, ele foi apresentado relembrando a crise pessoal e o impacto econômico daquele período. A fala reacendeu a atenção para os riscos de garantir dívidas de terceiros e de administrar patrimônio no meio artístico. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Yoon Jung-soo spricht über verlorene Cheongdam-Wohnung nach Bürgschaft",
-        "excerpt": "Der Entertainer Yoon Jung-soo trat am 11. in tvN STORYs „What’s the Point of Leaving It?“ auf und schilderte, wie ihn eine Schuldbürgschaft seine Wohnung in Cheongdam kostete.",
-        "body": "Der Entertainer Yoon Jung-soo war in der am 11. ausgestrahlten tvN-STORY-Sendung „What’s the Point of Leaving It?“ zu Gast und erzählte, wie er in der Vergangenheit wegen einer Schuldbürgschaft seine Wohnung in Cheongdam-dong verlor. Laut Originalüberschrift hatte Yoon einst 20 Milliarden Won verdient, erlitt aber durch die Bürgschaftsprobleme erhebliche Vermögensverluste. In der Sendung wurde er damit vorgestellt, auf seine persönliche Krise und den wirtschaftlichen Schaden zurückzublicken. Seine Aussagen lenkten erneut den Blick auf die Risiken von Bürgschaften für fremde Schulden und der Vermögensverwaltung von Prominenten. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Yoon Jung-soo raconte la perte de son appartement à Cheongdam après une garantie de dette",
-        "excerpt": "L’animateur Yoon Jung-soo est apparu le 11 dans “What’s the Point of Leaving It?” sur tvN STORY et a expliqué comment une garantie de dette lui a coûté son appartement à Cheongdam.",
-        "body": "L’animateur Yoon Jung-soo était invité dans l’émission “What’s the Point of Leaving It?” de tvN STORY, diffusée le 11, et a révélé avoir perdu par le passé son appartement de Cheongdam-dong à cause d’une garantie de dette. Selon le titre original, Yoon avait un temps gagné 20 milliards de wons, mais les problèmes liés à cette garantie ont entraîné une lourde perte patrimoniale. Dans l’émission, il est présenté comme revenant sur cette crise personnelle et sur le choc économique subi à l’époque. Ses propos rappellent les risques liés au fait de garantir les dettes d’autrui et à la gestion de patrimoine dans le milieu du divertissement. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "يون جونغ سو يكشف خسارة شقته في تشونغدام بسبب ضمان ديون بعد أرباح ضخمة",
-        "excerpt": "ظهر المذيع يون جونغ سو يوم 11 في برنامج tvN STORY “What’s the Point of Leaving It?” وروى كيف أدى ضمان ديون في الماضي إلى خسارته شقته في تشونغدام.",
-        "body": "ظهر المذيع يون جونغ سو ضيفا في حلقة يوم 11 من برنامج tvN STORY “What’s the Point of Leaving It?” وكشف أنه خسر في الماضي شقته في تشونغدام دونغ بسبب ضمان ديون. ووفقا لعنوان النص الأصلي، كان يون قد جنى في وقت سابق 20 مليار وون، لكن مشكلة ضمان الدين أدت إلى خسائر مالية كبيرة في ممتلكاته. وقدم البرنامج حديثه بوصفه استعادة لأزمة شخصية وضربة اقتصادية عاشها في ذلك الوقت. وأعادت تصريحاته التذكير بمخاطر ضمان ديون الآخرين وبحساسية إدارة الثروات لدى العاملين في مجال الترفيه. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "यून जंग-सू ने कर्ज गारंटी से चोंगदम अपार्टमेंट गंवाने की कहानी बताई",
-        "excerpt": "ब्रॉडकास्टर यून जंग-सू 11 तारीख को tvN STORY के “What’s the Point of Leaving It?” में अतिथि बने और बताया कि कर्ज गारंटी के कारण उन्होंने चोंगदम का अपार्टमेंट गंवाया था।",
-        "body": "ब्रॉडकास्टर यून जंग-सू 11 तारीख को प्रसारित tvN STORY के “What’s the Point of Leaving It?” में अतिथि के रूप में शामिल हुए और बताया कि अतीत में कर्ज गारंटी के कारण उन्हें चोंगदम-डोंग का अपार्टमेंट खोना पड़ा। मूल शीर्षक के अनुसार, यून ने कभी 20 अरब वॉन कमाए थे, लेकिन कर्ज गारंटी से जुड़ी समस्या के चलते उन्हें बड़ी संपत्ति हानि का सामना करना पड़ा। कार्यक्रम में उन्हें उस निजी संकट और आर्थिक चोट को याद करते हुए पेश किया गया। उनके बयान ने दूसरों के कर्ज की गारंटी देने और मनोरंजन जगत में संपत्ति प्रबंधन के जोखिमों को फिर सामने ला दिया। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Yoon Jung-soo ungkap kehilangan apartemen Cheongdam akibat jaminan utang",
-        "excerpt": "Penyiar Yoon Jung-soo tampil pada 11 di “What’s the Point of Leaving It?” tvN STORY dan menceritakan bagaimana jaminan utang membuatnya kehilangan apartemen di Cheongdam.",
-        "body": "Penyiar Yoon Jung-soo tampil sebagai tamu dalam “What’s the Point of Leaving It?” tvN STORY yang tayang pada 11, dan mengungkap bahwa ia pernah kehilangan apartemen di Cheongdam-dong karena jaminan utang. Menurut judul asli, Yoon sempat menghasilkan 20 miliar won, tetapi masalah jaminan utang membuatnya mengalami kerugian aset yang besar. Dalam program tersebut, ia diperkenalkan sedang menengok kembali krisis pribadi dan pukulan ekonomi pada masa itu. Pernyataannya kembali menyoroti risiko menjamin utang orang lain serta pentingnya pengelolaan aset bagi figur hiburan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "9121a0b45717",
-    "slug": "딸-시집-갈-때-초대할게요결혼-앞둔-최준희-엄마-나온-돌잔치-영상공개-337612",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-11T23:08:52.340Z",
-    "updatedAt": "2026-05-11T23:08:52.340Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12044216",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12044216",
-    "titleFingerprint": "4d4314d520e3cbfee7b71502957e17fc0a66657b",
-    "dedupKeys": [
-      "9121a0b4571793fa4aa13415d9518432bdaa3a14",
-      "4d4314d520e3cbfee7b71502957e17fc0a66657b",
-      "443de969f8d94c82ac23983bf41e7ce4ae3b4149"
-    ],
-    "imageUrl": "/images/articles/9121a0b45717.jpg",
-    "i18n": {
-      "ko": {
-        "title": "결혼 앞둔 최준희, 엄마 담긴 돌잔치 영상 공개로 관심 집중",
-        "excerpt": "결혼을 앞둔 최준희가 11일 인스타그램에 할머니가 보관해 온 자신의 돌잔치 복구 영상을 공개하며, 엄마가 등장한 과거 장면이 주목받고 있다.",
-        "body": "결혼을 앞둔 최준희가 11일 자신의 인스타그램을 통해 어린 시절 돌잔치 영상을 공개했다. 그는 할머니가 오랫동안 간직해 온 자신의 돌잔치 비디오를 복구했다는 글과 함께 영상을 올렸고, 영상에는 엄마가 나온 장면이 담겨 눈길을 끌었다. 이번 공개는 결혼을 앞둔 시점과 맞물려 가족의 과거 기록을 다시 꺼낸 사례로 관심을 모았다. 최준희가 직접 공개한 개인 기록인 만큼, 온라인에서는 과거 가족 영상과 결혼을 앞둔 현재 상황이 함께 주목되는 분위기다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Choi Jun-hee Shares First Birthday Video Featuring Her Mother Before Marriage",
-        "excerpt": "Choi Jun-hee, who is preparing for marriage, posted a restored video of her first birthday party on Instagram on May 11, drawing attention to scenes featuring her mother.",
-        "body": "Choi Jun-hee, who is preparing for marriage, shared a childhood video on her Instagram account on May 11. She wrote that a video of her first birthday party, long kept by her grandmother, had been restored and uploaded the clip. The footage drew attention because it included scenes featuring her mother. The post attracted interest as it came ahead of her marriage and brought back a family record from the past. Since the video was released directly by Choi Jun-hee, attention has focused on both the old family footage and her current situation before marriage. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "結婚控えるチェ・ジュンヒ、母が映るトルジャンチ映像を公開",
-        "excerpt": "結婚を控えるチェ・ジュンヒが11日、祖母が保管していた自身のトルジャンチ復元映像をインスタグラムで公開し、母が登場する場面が注目された。",
-        "body": "結婚を控えているチェ・ジュンヒが11日、自身のインスタグラムで幼い頃のトルジャンチ映像を公開した。彼女は、祖母が長い間保管していた自身のトルジャンチビデオを復元したという内容の文章とともに映像を投稿した。映像には母が登場する場面も含まれており、関心を集めた。今回の公開は結婚を前にした時期と重なり、過去の家族記録を改めて共有したものとして受け止められている。本人が直接公開した映像であるため、過去の家族映像と現在の結婚前の状況がともに注目されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "崔俊熙婚前公开周岁宴旧视频，母亲出镜画面引关注",
-        "excerpt": "即将结婚的崔俊熙11日在Instagram公开由奶奶保存并修复的自己周岁宴视频，其中母亲出镜的旧画面受到关注。",
-        "body": "即将结婚的崔俊熙于11日在自己的Instagram上公开了一段童年时期的周岁宴视频。她发文称，奶奶一直保存着自己的周岁宴录像，如今已将其修复，并一同上传了视频。画面中出现了母亲的身影，因此引发关注。此次公开发生在她婚前这一时间点，也让这段过去的家庭记录重新受到外界注意。由于视频由崔俊熙本人直接发布，网友的关注点集中在旧日家庭影像以及她即将结婚的近况上。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Choi Jun-hee revela antes de casarse un video de su primer cumpleaños con su madre",
-        "excerpt": "Choi Jun-hee, próxima a casarse, publicó el 11 de mayo en Instagram un video restaurado de su primer cumpleaños que su abuela conservaba, con imágenes de su madre.",
-        "body": "Choi Jun-hee, quien se prepara para casarse, compartió el 11 de mayo en su cuenta de Instagram un video de su infancia. Según escribió, se restauró una grabación de su fiesta de primer cumpleaños que su abuela había conservado durante mucho tiempo, y junto al mensaje publicó el video. La atención se centró en que el material incluye escenas en las que aparece su madre. La publicación despertó interés porque llega en la etapa previa a su matrimonio y recupera un registro familiar del pasado. Al tratarse de un video difundido directamente por Choi Jun-hee, se observan tanto las imágenes familiares antiguas como su situación actual antes de la boda. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Choi Jun-hee mostra vídeo de aniversário de 1 ano com a mãe antes do casamento",
-        "excerpt": "Prestes a se casar, Choi Jun-hee publicou em 11 de maio no Instagram um vídeo restaurado de seu primeiro aniversário, guardado pela avó, com cenas de sua mãe.",
-        "body": "Choi Jun-hee, que está prestes a se casar, compartilhou em 11 de maio, em seu Instagram, um vídeo de sua infância. Ela escreveu que uma gravação de sua festa de primeiro aniversário, mantida por sua avó por muito tempo, havia sido restaurada e publicou o vídeo junto com a mensagem. O material chamou atenção por incluir cenas em que sua mãe aparece. A divulgação ganhou interesse por ocorrer antes do casamento e por trazer de volta um registro familiar do passado. Como o vídeo foi publicado diretamente por Choi Jun-hee, a atenção se voltou tanto para as antigas imagens da família quanto para sua atual fase pré-casamento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Choi Jun-hee zeigt vor der Hochzeit altes Geburtstagsvideo mit ihrer Mutter",
-        "excerpt": "Choi Jun-hee, die vor ihrer Hochzeit steht, veröffentlichte am 11. Mai auf Instagram ein restauriertes Video ihrer ersten Geburtstagsfeier, das ihre Großmutter aufbewahrt hatte.",
-        "body": "Choi Jun-hee, die vor ihrer Hochzeit steht, veröffentlichte am 11. Mai auf ihrem Instagram-Konto ein Video aus ihrer Kindheit. Sie schrieb, dass ein Video ihrer ersten Geburtstagsfeier, das ihre Großmutter lange aufbewahrt hatte, restauriert worden sei, und lud den Clip dazu hoch. Aufmerksamkeit erregte das Material, weil darin auch Szenen mit ihrer Mutter zu sehen sind. Die Veröffentlichung stieß auf Interesse, da sie in die Zeit vor ihrer Hochzeit fällt und eine frühere Familienaufnahme erneut sichtbar macht. Da Choi Jun-hee das Video selbst teilte, richtet sich der Blick auf die alten Familienbilder und ihre aktuelle Situation vor der Ehe. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Choi Jun-hee partage avant son mariage une vidéo d’enfance avec sa mère",
-        "excerpt": "Avant son mariage, Choi Jun-hee a publié le 11 mai sur Instagram une vidéo restaurée de sa fête de premier anniversaire, conservée par sa grand-mère, où apparaît sa mère.",
-        "body": "Choi Jun-hee, qui s’apprête à se marier, a publié le 11 mai sur son compte Instagram une vidéo de son enfance. Elle a expliqué qu’une vidéo de sa fête de premier anniversaire, conservée depuis longtemps par sa grand-mère, avait été restaurée, puis a partagé les images. La séquence a attiré l’attention car sa mère y apparaît. Cette publication suscite de l’intérêt parce qu’elle intervient avant son mariage et remet en lumière un souvenir familial ancien. Comme la vidéo a été diffusée directement par Choi Jun-hee, l’attention porte à la fois sur ces images de famille du passé et sur sa situation actuelle à l’approche du mariage. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تشوي جون هي تنشر قبل زواجها فيديو عيد ميلادها الأول وفيه والدتها",
-        "excerpt": "نشرت تشوي جون هي، المقبلة على الزواج، في 11 مايو عبر إنستغرام مقطعاً مرمماً من حفل عيد ميلادها الأول كانت جدتها تحتفظ به، ولفت ظهور والدتها الأنظار.",
-        "body": "نشرت تشوي جون هي، التي تستعد للزواج، في 11 مايو عبر حسابها على إنستغرام مقطع فيديو من طفولتها. وكتبت أن فيديو حفل عيد ميلادها الأول، الذي احتفظت به جدتها لفترة طويلة، جرى ترميمه، ثم شاركت المقطع. وحظي الفيديو بالاهتمام لأنه يتضمن مشاهد تظهر فيها والدتها. وجاءت المشاركة في وقت يسبق زواجها، ما جعل سجل العائلة القديم يعود إلى دائرة الاهتمام. وبما أن تشوي جون هي نشرت الفيديو بنفسها، فقد تركز الاهتمام على اللقطات العائلية القديمة وعلى وضعها الحالي قبل الزواج. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "शादी से पहले चोई जुन-ही ने मां वाली पहली जन्मदिन पार्टी का वीडियो साझा किया",
-        "excerpt": "शादी की तैयारी कर रहीं चोई जुन-ही ने 11 मई को इंस्टाग्राम पर अपना बहाल किया गया पहला जन्मदिन वीडियो साझा किया, जिसे उनकी दादी ने संभालकर रखा था।",
-        "body": "शादी की तैयारी कर रहीं चोई जुन-ही ने 11 मई को अपने इंस्टाग्राम पर बचपन का एक वीडियो साझा किया। उन्होंने लिखा कि उनकी दादी ने लंबे समय तक उनके पहले जन्मदिन समारोह का वीडियो संभालकर रखा था और उसे बहाल किया गया है। इसी संदेश के साथ उन्होंने वीडियो पोस्ट किया। इस फुटेज ने ध्यान खींचा क्योंकि इसमें उनकी मां दिखाई देती हैं। यह साझा करना उनके विवाह से पहले के समय में हुआ, इसलिए पुराने पारिवारिक रिकॉर्ड पर फिर से रुचि बढ़ी। चूंकि वीडियो चोई जुन-ही ने खुद जारी किया, ध्यान पुराने पारिवारिक दृश्य और शादी से पहले उनकी वर्तमान स्थिति दोनों पर गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Choi Jun-hee Unggah Video Ulang Tahun Pertama dengan Sosok Ibu Jelang Menikah",
-        "excerpt": "Choi Jun-hee yang akan menikah mengunggah pada 11 Mei video ulang tahun pertamanya yang telah dipulihkan dan selama ini disimpan oleh sang nenek, dengan adegan ibunya.",
-        "body": "Choi Jun-hee, yang tengah bersiap menikah, membagikan video masa kecilnya di Instagram pada 11 Mei. Ia menulis bahwa video pesta ulang tahun pertamanya, yang selama ini disimpan oleh neneknya, telah dipulihkan, lalu mengunggah rekaman tersebut. Video itu menarik perhatian karena memuat adegan yang menampilkan ibunya. Unggahan ini mendapat sorotan karena muncul menjelang pernikahannya dan kembali memperlihatkan catatan keluarga dari masa lalu. Karena video tersebut dirilis langsung oleh Choi Jun-hee, perhatian tertuju pada rekaman keluarga lama sekaligus situasinya saat ini sebelum menikah. Sumber: mk.co.kr"
       }
     }
   }
