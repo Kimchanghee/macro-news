@@ -1,0 +1,75 @@
+{
+  "id": "93e67c09a0d7",
+  "slug": "이제-ai-없으면-바보되잖아슬슬-쓰는-만큼-받겠다는-기업들-955848",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-12T22:39:30.129Z",
+  "updatedAt": "2026-05-12T22:39:30.129Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/it/12045727",
+  "canonicalUrl": "https://www.mk.co.kr/news/it/12045727",
+  "titleFingerprint": "64235b8ad0deca4310bb2211cb84c45c119915c2",
+  "dedupKeys": [
+    "93e67c09a0d71ff1319381edbbe94cbca563c704",
+    "64235b8ad0deca4310bb2211cb84c45c119915c2",
+    "2519e4b669d25ae5a0a9e240dfc8b44eeb993b42"
+  ],
+  "imageUrl": "/images/articles/93e67c09a0d7.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 사용량 기반 요금제 확산, 노션·두레이·네이버웍스 정액제 전환 움직임",
+      "excerpt": "AI 기능 사용이 급증하며 서버 부담이 커지자 노션·두레이·네이버웍스 등 기업용 협업 도구 업체들이 정액제에서 사용량 기반 요금제로 전환하고 있다.",
+      "body": "기업용 협업 도구 시장에서 AI 기능 요금 체계가 정액제에서 사용량 기반으로 바뀌고 있다. mk.co.kr에 따르면 AI 사용량이 급증하면서 서버 과부하 부담이 커졌고, 노션·두레이·네이버웍스 등은 잇따라 ‘쓴 만큼 내는’ 종량제 방식으로 전환하고 있다. 과거처럼 직원에게 AI 토큰을 무료로 지급하던 방식은 줄어드는 흐름이다. 기업들은 AI 사용량을 단순 부가 기능이 아니라 업무 생산성을 가늠하는 핵심 지표로 보기 시작했다. 이에 따라 기업 고객은 AI 활용 규모에 맞춰 비용을 관리해야 하는 환경을 맞고 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Usage-Based AI Pricing Spreads as Notion, Dooray and NAVER WORKS Shift Plans",
+      "excerpt": "As AI feature use surges and server loads grow, enterprise collaboration tools including Notion, Dooray and NAVER WORKS are moving from flat-rate plans to usage-based pricing.",
+      "body": "AI pricing in enterprise collaboration tools is shifting from flat-rate subscriptions to usage-based models. According to mk.co.kr, rapidly rising AI use has increased server overload pressure, prompting Notion, Dooray, NAVER WORKS and others to move toward pay-as-you-use pricing. The earlier practice of giving employees free AI tokens is becoming less common. Companies are beginning to treat AI usage not as a simple add-on, but as a core indicator of workplace productivity. As a result, enterprise customers now face a need to manage costs according to the scale of their AI adoption. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "AI利用量課金が拡大、Notion・Dooray・NAVER WORKSが定額制見直し",
+      "excerpt": "AI機能の利用急増でサーバー負荷が高まる中、Notion、Dooray、NAVER WORKSなどの企業向け協業ツールが定額制から利用量ベースの料金へ移行している。",
+      "body": "企業向け協業ツール市場で、AI機能の料金体系が定額制から利用量ベースへ変わりつつある。mk.co.krによると、AI利用の急増でサーバー過負荷の負担が大きくなり、Notion、Dooray、NAVER WORKSなどが相次いで「使った分だけ払う」従量課金方式へ移行している。かつてのように従業員へAIトークンを無料配布する形は減少傾向だ。企業はAI利用量を単なる追加機能ではなく、業務生産性を測る主要指標として見始めている。企業顧客は今後、AI活用規模に応じた費用管理を求められる。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "AI按量计费扩大，Notion、Dooray、NAVER WORKS转向用多少付多少",
+      "excerpt": "随着AI功能使用量激增、服务器负载加重，Notion、Dooray、NAVER WORKS等企业协作工具正从固定收费转向按使用量计费。",
+      "body": "企业协作工具市场中，AI功能的收费方式正从固定订阅转向按使用量计费。据mk.co.kr报道，AI使用量快速增长导致服务器过载压力上升，Notion、Dooray、NAVER WORKS等相继改用“用多少付多少”的计费模式。过去向员工免费发放AI token的做法正在减少。企业开始把AI使用量视为衡量工作生产率的核心指标，而不只是附加功能。因此，企业客户需要根据AI应用规模管理相关成本。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "La tarifa por uso de IA avanza con Notion, Dooray y NAVER WORKS dejando planes fijos",
+      "excerpt": "El fuerte aumento del uso de funciones de IA eleva la carga de servidores y lleva a herramientas empresariales como Notion, Dooray y NAVER WORKS a cobrar según consumo.",
+      "body": "En el mercado de herramientas de colaboración empresarial, la tarificación de funciones de IA está pasando de planes fijos a modelos basados en uso. Según mk.co.kr, el rápido aumento del uso de IA ha incrementado la presión por sobrecarga de servidores, y Notion, Dooray, NAVER WORKS y otros servicios están adoptando esquemas de pago por consumo. La práctica anterior de entregar tokens de IA gratuitos a empleados empieza a quedar atrás. Las empresas comienzan a ver el uso de IA no como una función adicional, sino como un indicador clave de productividad laboral. Los clientes corporativos deberán gestionar costos según su escala de uso de IA. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Cobrança por uso de IA cresce com Notion, Dooray e NAVER WORKS revendo planos fixos",
+      "excerpt": "Com o salto no uso de recursos de IA e maior carga nos servidores, ferramentas corporativas como Notion, Dooray e NAVER WORKS migram de mensalidades fixas para cobrança por uso.",
+      "body": "No mercado de ferramentas de colaboração corporativa, a cobrança por recursos de IA está migrando de planos fixos para modelos baseados em uso. Segundo mk.co.kr, o aumento acelerado do uso de IA elevou a pressão sobre os servidores, levando Notion, Dooray, NAVER WORKS e outras empresas a adotar o pagamento conforme o consumo. A prática de oferecer tokens de IA gratuitos aos funcionários está perdendo espaço. As empresas passam a tratar o uso de IA não como um recurso adicional, mas como um indicador central de produtividade. Assim, clientes corporativos terão de controlar custos conforme a escala de adoção da IA. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Nutzungsbasierte KI-Preise nehmen zu: Notion, Dooray und NAVER WORKS ändern Tarife",
+      "excerpt": "Der stark steigende Einsatz von KI-Funktionen belastet Server zunehmend, weshalb Unternehmen wie Notion, Dooray und NAVER WORKS von Pauschaltarifen auf nutzungsbasierte Modelle umstellen.",
+      "body": "Im Markt für Collaboration-Tools für Unternehmen verschiebt sich die Preisstruktur für KI-Funktionen von Pauschalabos zu nutzungsbasierten Modellen. Laut mk.co.kr hat der rasch steigende KI-Einsatz die Serverbelastung erhöht, sodass Notion, Dooray, NAVER WORKS und andere Anbieter auf ein Modell umstellen, bei dem nach Nutzung gezahlt wird. Die frühere Praxis, Mitarbeitenden kostenlose KI-Token bereitzustellen, nimmt ab. Unternehmen betrachten KI-Nutzung zunehmend nicht mehr nur als Zusatzfunktion, sondern als zentralen Indikator für Produktivität. Firmenkunden müssen ihre Kosten daher künftig stärker an der tatsächlichen KI-Nutzung ausrichten. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "La tarification IA à l’usage progresse avec Notion, Dooray et NAVER WORKS",
+      "excerpt": "Face à l’explosion de l’usage des fonctions d’IA et à la surcharge des serveurs, Notion, Dooray, NAVER WORKS et d’autres outils collaboratifs d’entreprise passent du forfait fixe au paiement à l’usage.",
+      "body": "Sur le marché des outils collaboratifs d’entreprise, la tarification des fonctions d’IA évolue du forfait fixe vers un modèle fondé sur l’usage. Selon mk.co.kr, la forte hausse de l’utilisation de l’IA accroît la pression sur les serveurs, poussant Notion, Dooray, NAVER WORKS et d’autres acteurs à adopter une logique de paiement selon la consommation. L’ancienne pratique consistant à fournir gratuitement des tokens d’IA aux employés recule. Les entreprises commencent à considérer l’usage de l’IA non comme une simple option, mais comme un indicateur clé de productivité. Les clients professionnels devront donc gérer leurs coûts selon l’ampleur de leur recours à l’IA. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "تسعير الذكاء الاصطناعي حسب الاستخدام يتوسع مع Notion وDooray وNAVER WORKS",
+      "excerpt": "مع الارتفاع الكبير في استخدام ميزات الذكاء الاصطناعي وزيادة الضغط على الخوادم، تنتقل أدوات تعاون مؤسسية مثل Notion وDooray وNAVER WORKS من الاشتراك الثابت إلى الدفع حسب الاستخدام.",
+      "body": "يشهد سوق أدوات التعاون المؤسسية تحولا في تسعير ميزات الذكاء الاصطناعي من الاشتراك الثابت إلى نموذج قائم على حجم الاستخدام. وبحسب mk.co.kr، أدى الارتفاع السريع في استخدام الذكاء الاصطناعي إلى زيادة عبء الخوادم، ما دفع Notion وDooray وNAVER WORKS وغيرها إلى اعتماد مبدأ الدفع مقابل ما يتم استخدامه. كما تتراجع ممارسة منح الموظفين رموز ذكاء اصطناعي مجانية كما كان يحدث سابقا. وبدأت الشركات تنظر إلى حجم استخدام الذكاء الاصطناعي كمؤشر أساسي للإنتاجية، وليس كميزة إضافية فقط. لذلك سيحتاج العملاء من الشركات إلى إدارة التكاليف وفقا لحجم اعتمادهم على الذكاء الاصطناعي. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "AI उपयोग आधारित शुल्क बढ़ा, Notion, Dooray और NAVER WORKS बदल रहे फिक्स्ड प्लान",
+      "excerpt": "AI सुविधाओं का उपयोग तेजी से बढ़ने और सर्वर पर भार बढ़ने के कारण Notion, Dooray और NAVER WORKS जैसे एंटरप्राइज सहयोग टूल फिक्स्ड शुल्क से उपयोग आधारित शुल्क की ओर बढ़ रहे हैं।",
+      "body": "एंटरप्राइज सहयोग टूल बाजार में AI सुविधाओं की कीमत तय करने का तरीका फिक्स्ड सब्सक्रिप्शन से उपयोग आधारित मॉडल की ओर बदल रहा है। mk.co.kr के अनुसार, AI उपयोग तेजी से बढ़ने से सर्वर ओवरलोड का दबाव बढ़ा है और Notion, Dooray, NAVER WORKS जैसे प्लेटफॉर्म ‘जितना उपयोग, उतना भुगतान’ मॉडल अपना रहे हैं। कर्मचारियों को मुफ्त AI टोकन देने की पुरानी प्रथा अब घट रही है। कंपनियां AI उपयोग को केवल अतिरिक्त सुविधा नहीं, बल्कि कार्यस्थल उत्पादकता का मुख्य संकेतक मानने लगी हैं। इसलिए कॉरपोरेट ग्राहकों को AI अपनाने के पैमाने के अनुसार लागत प्रबंधन करना होगा। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Biaya AI Berbasis Pemakaian Meluas, Notion, Dooray dan NAVER WORKS Ubah Paket",
+      "excerpt": "Lonjakan penggunaan fitur AI membuat beban server meningkat, sehingga alat kolaborasi bisnis seperti Notion, Dooray dan NAVER WORKS beralih dari tarif tetap ke biaya berbasis pemakaian.",
+      "body": "Di pasar alat kolaborasi perusahaan, skema harga fitur AI bergeser dari langganan tetap ke model berbasis pemakaian. Menurut mk.co.kr, penggunaan AI yang meningkat tajam menambah tekanan pada server, sehingga Notion, Dooray, NAVER WORKS dan layanan lain mulai menerapkan pembayaran sesuai penggunaan. Praktik lama berupa pemberian token AI gratis kepada karyawan mulai berkurang. Perusahaan kini melihat penggunaan AI bukan sekadar fitur tambahan, melainkan indikator utama produktivitas kerja. Dengan demikian, pelanggan korporasi perlu mengelola biaya sesuai skala pemanfaatan AI mereka. Sumber: mk.co.kr"
+    }
+  }
+}
