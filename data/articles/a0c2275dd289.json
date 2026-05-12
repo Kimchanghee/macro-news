@@ -1,0 +1,75 @@
+{
+  "id": "a0c2275dd289",
+  "slug": "모바일-os-넘어-ai-플랫폼구글-안드로이드의-대변신-471776",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-12T17:42:34.602Z",
+  "updatedAt": "2026-05-12T17:42:34.602Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/it/12045441",
+  "canonicalUrl": "https://www.mk.co.kr/news/it/12045441",
+  "titleFingerprint": "c09435f35e3e06e3ae9e1aa125cb70de65e7d5ec",
+  "dedupKeys": [
+    "a0c2275dd28996b5dc611cebee1f6313ad20ea2d",
+    "c09435f35e3e06e3ae9e1aa125cb70de65e7d5ec",
+    "5c0d0845158bc5395ebddb2b2d42b2a7dd44f03b"
+  ],
+  "imageUrl": "/images/articles/a0c2275dd289.jpg",
+  "i18n": {
+    "ko": {
+      "title": "구글 안드로이드, 모바일 OS 넘어 행동형 AI 플랫폼으로 대전환",
+      "excerpt": "구글이 안드로이드에 AI를 보조 기능이 아닌 핵심 운영 기반으로 끌어올려 스마트폰 전체를 행동형 AI 플랫폼으로 전환하겠다는 청사진을 공개했다.",
+      "body": "구글이 인공지능(AI)을 스마트폰의 보조 기능 수준에서 끌어올려 안드로이드 전체를 하나의 ‘행동형 AI 플랫폼’으로 전환하겠다는 구상을 공개했다. 이번 청사진은 모바일 운영체제(OS) 중심의 안드로이드를 단순한 앱 실행 환경이 아니라 사용자의 요청을 이해하고 실행까지 돕는 AI 기반 플랫폼으로 바꾸는 데 초점이 맞춰졌다. 배경에는 질문에 답하는 챗봇을 넘어 실제 행동을 지원하는 AI로 모바일 경험을 재편하려는 흐름이 있다. 구글의 전략은 스마트폰에서 AI의 역할을 주변 기능에서 운영체제 전반의 핵심 기능으로 확대하는 방향으로 해석된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Google Android Shifts Beyond Mobile OS Toward Agentic AI Platform",
+      "excerpt": "Google unveiled a blueprint to elevate AI from a smartphone assistant feature to the core of Android, turning the system into an action-oriented AI platform.",
+      "body": "Google has unveiled a plan to raise artificial intelligence from the level of a smartphone support feature and transform Android as a whole into an “action-oriented AI platform.” The blueprint focuses on moving Android beyond a mobile operating system for running apps and toward an AI-based platform that can understand user requests and help carry them out. The context is a broader shift from chatbots that simply answer questions to AI that supports real actions. Google’s strategy suggests AI will expand from a peripheral smartphone function into a core capability across the operating system. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "グーグルAndroid、モバイルOS超え行動型AI基盤へ大転換",
+      "excerpt": "グーグルは、AIをスマートフォンの補助機能にとどめずAndroid全体の中核に据え、行動型AIプラットフォームへ転換する構想を示した。",
+      "body": "グーグルは、人工知能（AI）をスマートフォンの補助機能の段階から引き上げ、Android全体を一つの「行動型AIプラットフォーム」に転換する構想を公開した。今回の青写真は、モバイルOSとしてのAndroidを単なるアプリ実行環境ではなく、利用者の要請を理解し実行まで支援するAI基盤へ変えることに焦点を当てている。背景には、質問に答えるチャットボットを超え、実際の行動を支援するAIへモバイル体験を再編しようとする流れがある。グーグルの戦略は、スマートフォンにおけるAIの役割を周辺機能からOS全体の中核機能へ広げる方向と受け止められる。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "谷歌Android大转型：从移动OS迈向行动型AI平台",
+      "excerpt": "谷歌公布蓝图，将AI从智能手机辅助功能提升为Android核心基础，推动整个系统转向行动型AI平台。",
+      "body": "谷歌公布了一项构想，计划把人工智能（AI）从智能手机辅助功能层面提升起来，将整个Android转变为一个“行动型AI平台”。这一蓝图的重点，是让以移动操作系统（OS）为中心的Android不再只是应用运行环境，而是成为能够理解用户请求并协助执行的AI基础平台。其背景在于，移动体验正从只回答问题的聊天机器人，转向支持实际行动的AI。谷歌的战略可被解读为，将AI在智能手机中的角色从周边功能扩大为贯穿操作系统的核心功能。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Google transforma Android: de sistema móvil a plataforma de IA activa",
+      "excerpt": "Google presentó una hoja de ruta para elevar la IA de función auxiliar del smartphone a base central de Android y convertirlo en una plataforma de IA orientada a acciones.",
+      "body": "Google presentó un plan para elevar la inteligencia artificial (IA) desde el nivel de función auxiliar del smartphone y convertir todo Android en una “plataforma de IA orientada a acciones”. La hoja de ruta se centra en transformar Android, hasta ahora visto como un sistema operativo móvil para ejecutar aplicaciones, en una plataforma basada en IA capaz de comprender solicitudes del usuario y ayudar a realizarlas. El contexto es el paso de chatbots que solo responden preguntas a una IA que apoya acciones concretas. La estrategia de Google apunta a ampliar el papel de la IA en el smartphone, de una función periférica a una capacidad central de todo el sistema operativo. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Google leva Android além do sistema móvel rumo a plataforma de IA ativa",
+      "excerpt": "O Google apresentou um plano para elevar a IA de recurso auxiliar do smartphone ao núcleo do Android, transformando o sistema em uma plataforma de IA orientada a ações.",
+      "body": "O Google apresentou um plano para elevar a inteligência artificial (IA) do nível de recurso auxiliar do smartphone e transformar todo o Android em uma “plataforma de IA orientada a ações”. A proposta concentra-se em mudar o Android, tradicionalmente visto como um sistema operacional móvel para executar aplicativos, para uma plataforma baseada em IA capaz de compreender pedidos do usuário e ajudar a executá-los. O contexto é a passagem de chatbots que apenas respondem perguntas para uma IA que apoia ações reais. A estratégia do Google indica a ampliação do papel da IA no smartphone, de função periférica para capacidade central de todo o sistema operacional. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Google Android wird vom mobilen OS zur handlungsorientierten KI-Plattform",
+      "excerpt": "Google hat einen Plan vorgestellt, KI von einer Smartphone-Hilfsfunktion zum Kern von Android zu machen und das System in eine handlungsorientierte KI-Plattform zu verwandeln.",
+      "body": "Google hat einen Plan vorgestellt, künstliche Intelligenz (KI) über die Ebene einer unterstützenden Smartphone-Funktion hinauszuheben und Android insgesamt in eine „handlungsorientierte KI-Plattform“ zu verwandeln. Der Entwurf zielt darauf, Android nicht nur als mobiles Betriebssystem zum Ausführen von Apps zu verstehen, sondern als KI-basierte Plattform, die Nutzeranfragen erfassen und bei der Umsetzung helfen kann. Hintergrund ist der Wandel von Chatbots, die lediglich Fragen beantworten, hin zu KI, die konkrete Handlungen unterstützt. Googles Strategie deutet darauf hin, dass KI im Smartphone vom Randbereich zu einer Kernfunktion des gesamten Betriebssystems ausgebaut wird. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Google fait évoluer Android du système mobile vers une plateforme d’IA active",
+      "excerpt": "Google a présenté une feuille de route visant à faire passer l’IA d’une fonction d’assistance du smartphone au cœur d’Android, pour en faire une plateforme d’IA orientée action.",
+      "body": "Google a présenté un projet visant à faire passer l’intelligence artificielle (IA) du rang de fonction d’assistance du smartphone à celui de base centrale d’Android, transformé en « plateforme d’IA orientée action ». Cette feuille de route vise à faire d’Android non plus seulement un système d’exploitation mobile servant à lancer des applications, mais une plateforme fondée sur l’IA capable de comprendre les demandes des utilisateurs et d’aider à les exécuter. Le contexte est celui d’un passage des chatbots qui répondent simplement aux questions vers une IA soutenant des actions concrètes. La stratégie de Google traduit l’élargissement du rôle de l’IA dans le smartphone, d’une fonction périphérique à une capacité centrale du système. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "غوغل تحول أندرويد من نظام تشغيل محمول إلى منصة ذكاء اصطناعي تنفيذية",
+      "excerpt": "كشفت غوغل عن تصور يرفع الذكاء الاصطناعي من وظيفة مساعدة في الهاتف إلى أساس محوري في أندرويد، لتحويله إلى منصة ذكاء اصطناعي موجهة للأفعال.",
+      "body": "كشفت غوغل عن خطة لرفع الذكاء الاصطناعي من مستوى وظيفة مساعدة في الهواتف الذكية إلى مستوى يحول أندرويد بالكامل إلى «منصة ذكاء اصطناعي موجهة للأفعال». وتركز الخطة على نقل أندرويد من كونه نظام تشغيل محمولا لتشغيل التطبيقات فقط إلى منصة قائمة على الذكاء الاصطناعي تستطيع فهم طلبات المستخدم والمساعدة في تنفيذها. ويأتي ذلك في سياق تحول من روبوتات محادثة تكتفي بالإجابة عن الأسئلة إلى ذكاء اصطناعي يدعم الأفعال الفعلية. وتشير استراتيجية غوغل إلى توسيع دور الذكاء الاصطناعي في الهاتف من وظيفة هامشية إلى قدرة أساسية عبر نظام التشغيل. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "Google Android मोबाइल OS से आगे बढ़कर एक्शन-आधारित AI प्लेटफॉर्म बनेगा",
+      "excerpt": "Google ने AI को स्मार्टफोन की सहायक सुविधा से ऊपर उठाकर Android के मुख्य आधार में बदलने और पूरे सिस्टम को एक्शन-आधारित AI प्लेटफॉर्म बनाने की रूपरेखा पेश की।",
+      "body": "Google ने कृत्रिम बुद्धिमत्ता (AI) को स्मार्टफोन की सहायक सुविधा के स्तर से ऊपर उठाकर पूरे Android को एक “एक्शन-आधारित AI प्लेटफॉर्म” में बदलने की योजना पेश की है। इस रूपरेखा का केंद्र Android को केवल ऐप चलाने वाले मोबाइल ऑपरेटिंग सिस्टम के रूप में नहीं, बल्कि उपयोगकर्ता के अनुरोध को समझने और उसे पूरा करने में मदद करने वाले AI-आधारित प्लेटफॉर्म में बदलना है। पृष्ठभूमि में सवालों का जवाब देने वाले चैटबॉट से आगे बढ़कर वास्तविक कार्यों में सहायता करने वाली AI की दिशा में मोबाइल अनुभव को पुनर्गठित करने की प्रवृत्ति है। Google की रणनीति स्मार्टफोन में AI की भूमिका को सहायक सुविधा से ऑपरेटिंग सिस्टम की मुख्य क्षमता तक बढ़ाने का संकेत देती है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Google Ubah Android dari OS Mobile Menjadi Platform AI Bertindak",
+      "excerpt": "Google memaparkan cetak biru untuk menaikkan AI dari fitur pendukung smartphone menjadi inti Android, sehingga seluruh sistem berubah menjadi platform AI berorientasi tindakan.",
+      "body": "Google mengungkap rencana untuk menaikkan kecerdasan buatan (AI) dari tingkat fitur pendukung smartphone dan mengubah seluruh Android menjadi “platform AI berorientasi tindakan”. Cetak biru ini berfokus pada perubahan Android dari sistem operasi mobile yang sekadar menjalankan aplikasi menjadi platform berbasis AI yang dapat memahami permintaan pengguna dan membantu menjalankannya. Latar belakangnya adalah pergeseran dari chatbot yang hanya menjawab pertanyaan menuju AI yang mendukung tindakan nyata. Strategi Google menunjukkan perluasan peran AI di smartphone, dari fungsi pinggiran menjadi kemampuan inti di seluruh sistem operasi. Sumber: mk.co.kr"
+    }
+  }
+}
