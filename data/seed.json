@@ -1,5 +1,230 @@
 [
   {
+    "id": "71663e9145b3",
+    "slug": "걔는-왜-자기밖에-모를까이기심-뒤에-숨겨진-결핍의-정체-435303",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T01:48:59.589Z",
+    "updatedAt": "2026-05-13T01:48:59.589Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12045936",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12045936",
+    "titleFingerprint": "3db6a20c2f5c1017dc956243ff3085e88c22c81a",
+    "dedupKeys": [
+      "71663e9145b3b36bc22ac70e3db252efd8a4cb24",
+      "3db6a20c2f5c1017dc956243ff3085e88c22c81a",
+      "2827500bd9469441c9459ddc960ee28f2d7070fa"
+    ],
+    "imageUrl": "/images/articles/71663e9145b3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "나르시시즘을 관계 단절로 본 IPA 아태학회, 이기심 뒤 결핍 조명",
+        "excerpt": "제5차 IPA 아태학회가 서울에서 성료하며 나르시시즘을 관계 단절의 문제로 재정의하고, 사랑을 회복하는 정서적 재건을 해법으로 제시했다.",
+        "body": "제5차 IPA 아태학회가 서울에서 성료했다. 이번 학회에서는 현대 사회에서 흔히 이기심으로 읽히는 나르시시즘을 개인의 성격 결함이 아니라 관계 단절과 결핍의 문제로 재정의했다. 발표와 논의의 핵심은 나르시시즘 뒤에 숨은 정서적 결핍을 이해하고, 사랑을 회복하는 정서적 재건을 통해 해법을 찾는 데 있었다. 이창동 감독의 영화 ‘밀양’을 다룬 세미나도 주목받았다. 예술을 통해 인간의 고통과 애도를 읽어내며 정신분석적 논의를 확장했다. 이번 학회는 현대 사회의 고립과 관계 회복 문제를 다시 묻는 계기가 됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "IPA Asia-Pacific Meeting Reframes Narcissism as Relational Disconnection",
+        "excerpt": "The 5th IPA Asia-Pacific Conference concluded in Seoul, redefining narcissism as relational disconnection and pointing to emotional reconstruction through restored love.",
+        "body": "The 5th IPA Asia-Pacific Conference concluded in Seoul. The event reframed narcissism, often read in modern society as selfishness, not simply as a flaw in individual character but as a problem of relational disconnection and deprivation. The central discussion focused on understanding the emotional lack hidden behind narcissism and seeking a solution through emotional reconstruction that restores love. A seminar on director Lee Chang-dong’s film Secret Sunshine also drew attention. By reading human suffering and mourning through art, it expanded the psychoanalytic discussion. The conference became an occasion to revisit isolation and the recovery of relationships in contemporary society. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "IPAアジア太平洋学会、ナルシシズムを関係断絶として再定義",
+        "excerpt": "第5回IPAアジア太平洋学会がソウルで閉幕し、ナルシシズムを関係断絶の問題として捉え直し、愛を回復する情緒的再建を解決策に示した。",
+        "body": "第5回IPAアジア太平洋学会がソウルで閉幕した。今回の学会では、現代社会でしばしば利己心として読まれるナルシシズムを、個人の性格的欠陥ではなく、関係の断絶と欠如の問題として再定義した。議論の中心は、ナルシシズムの背後に隠れた情緒的欠乏を理解し、愛を回復する情緒的再建を通じて解決策を探ることにあった。イ・チャンドン監督の映画『シークレット・サンシャイン』を扱ったセミナーも注目を集めた。芸術を通じて人間の苦痛と哀悼を読み解き、精神分析的議論を広げた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "IPA亚太学会重新定义自恋：从自私走向关系断裂",
+        "excerpt": "第五届IPA亚太学会在首尔落幕，会议将自恋重新界定为关系断裂问题，并提出通过恢复爱的情感重建寻找出路。",
+        "body": "第五届IPA亚太学会在首尔圆满结束。本次学会将现代社会中常被解读为自私的自恋，重新定义为并非单纯的个人性格缺陷，而是关系断裂与匮乏的问题。讨论的核心在于理解隐藏在自恋背后的情感缺失，并通过恢复爱的情感重建寻找解决路径。围绕李沧东导演电影《密阳》的研讨会也受到关注。会议借由艺术解读人的痛苦与哀悼，拓展了精神分析层面的讨论。此次学会也成为重新追问现代社会孤立与关系修复的契机。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La IPA Asia-Pacífico redefine el narcisismo como ruptura de vínculos",
+        "excerpt": "La 5ª Conferencia Asia-Pacífico de la IPA concluyó en Seúl y replanteó el narcisismo como desconexión relacional, con la reconstrucción afectiva como salida.",
+        "body": "La 5ª Conferencia Asia-Pacífico de la IPA concluyó en Seúl. El encuentro redefinió el narcisismo, que en la sociedad moderna suele leerse como egoísmo, no como un simple defecto de carácter individual, sino como un problema de ruptura relacional y carencia. El eje de las discusiones fue comprender la falta emocional oculta detrás del narcisismo y buscar una salida mediante una reconstrucción afectiva que recupere el amor. También llamó la atención un seminario sobre la película Secret Sunshine, del director Lee Chang-dong. A través del arte, se leyó el dolor humano y el duelo, ampliando el debate psicoanalítico. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "IPA Ásia-Pacífico redefine narcisismo como ruptura nas relações",
+        "excerpt": "A 5ª Conferência Ásia-Pacífico da IPA terminou em Seul ao redefinir o narcisismo como desconexão relacional e apontar a reconstrução emocional pelo amor.",
+        "body": "A 5ª Conferência Ásia-Pacífico da IPA foi concluída em Seul. O encontro redefiniu o narcisismo, frequentemente lido na sociedade moderna como egoísmo, não como uma simples falha de caráter individual, mas como um problema de ruptura relacional e carência. O centro das discussões foi compreender a falta emocional escondida por trás do narcisismo e buscar uma solução por meio de uma reconstrução emocional que recupere o amor. Um seminário sobre o filme Secret Sunshine, do diretor Lee Chang-dong, também chamou atenção. Pela arte, o evento leu o sofrimento humano e o luto, ampliando o debate psicanalítico. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "IPA-Asien-Pazifik-Tagung deutet Narzissmus als Beziehungsabbruch",
+        "excerpt": "Die 5. IPA-Asien-Pazifik-Tagung endete in Seoul und definierte Narzissmus als Problem gestörter Beziehungen, mit emotionalem Wiederaufbau als Lösungsweg.",
+        "body": "Die 5. IPA-Asien-Pazifik-Tagung ist in Seoul zu Ende gegangen. Die Konferenz definierte Narzissmus, der in der modernen Gesellschaft häufig als Egoismus gelesen wird, nicht einfach als individuellen Charakterfehler, sondern als Problem von Beziehungsabbruch und Mangel. Im Mittelpunkt stand das Verständnis des emotionalen Mangels hinter dem Narzissmus sowie die Suche nach einer Lösung durch einen emotionalen Wiederaufbau, der Liebe wiederherstellt. Aufmerksamkeit erhielt auch ein Seminar zu Lee Chang-dongs Film Secret Sunshine. Über die Kunst wurden menschliches Leid und Trauer gelesen und die psychoanalytische Debatte erweitert. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’IPA Asie-Pacifique redéfinit le narcissisme comme rupture relationnelle",
+        "excerpt": "La 5e conférence Asie-Pacifique de l’IPA s’est achevée à Séoul en présentant le narcissisme comme une rupture du lien et la reconstruction affective comme issue.",
+        "body": "La 5e conférence Asie-Pacifique de l’IPA s’est achevée à Séoul. L’événement a redéfini le narcissisme, souvent perçu dans la société moderne comme de l’égoïsme, non comme un simple défaut de caractère individuel, mais comme un problème de rupture relationnelle et de manque. Le cœur des discussions portait sur la compréhension du déficit émotionnel caché derrière le narcissisme et sur la recherche d’une solution par une reconstruction affective restaurant l’amour. Un séminaire consacré au film Secret Sunshine du réalisateur Lee Chang-dong a aussi retenu l’attention. Par l’art, il a éclairé la souffrance humaine et le deuil. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مؤتمر IPA آسيا والمحيط الهادئ يعيد تعريف النرجسية كقطيعة علاقية",
+        "excerpt": "اختتم المؤتمر الخامس لـIPA آسيا والمحيط الهادئ في سيول، مع إعادة تعريف النرجسية بوصفها انقطاعا في العلاقات وطرح إعادة البناء العاطفي حلا.",
+        "body": "اختتم المؤتمر الخامس لـIPA آسيا والمحيط الهادئ أعماله في سيول. أعاد المؤتمر تعريف النرجسية، التي تقرأ غالبا في المجتمع الحديث بوصفها أنانية، لا كخلل فردي بسيط في الشخصية، بل كمشكلة انقطاع في العلاقات ونقص عاطفي. وتمحور النقاش حول فهم الحرمان العاطفي المختبئ خلف النرجسية، والبحث عن حل عبر إعادة بناء عاطفية تستعيد الحب. كما لفتت ندوة تناولت فيلم Secret Sunshine للمخرج لي تشانغ دونغ الانتباه. ومن خلال الفن، قرأت الندوة ألم الإنسان وحداده ووسعت النقاش التحليلي النفسي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "IPA एशिया-प्रशांत सम्मेलन ने आत्ममुग्धता को संबंध-विच्छेद से जोड़ा",
+        "excerpt": "सियोल में 5वां IPA एशिया-प्रशांत सम्मेलन संपन्न हुआ, जहां आत्ममुग्धता को संबंध-विच्छेद के रूप में पुनर्परिभाषित कर प्रेम बहाली को समाधान बताया गया।",
+        "body": "5वां IPA एशिया-प्रशांत सम्मेलन सियोल में संपन्न हुआ। इस सम्मेलन में आधुनिक समाज में अक्सर स्वार्थ के रूप में देखी जाने वाली आत्ममुग्धता को व्यक्ति के चरित्र दोष के बजाय संबंध-विच्छेद और कमी की समस्या के रूप में पुनर्परिभाषित किया गया। चर्चा का केंद्र आत्ममुग्धता के पीछे छिपी भावनात्मक कमी को समझना और प्रेम को पुनर्स्थापित करने वाले भावनात्मक पुनर्निर्माण के जरिए समाधान खोजना था। निर्देशक ली चांग-डोंग की फिल्म Secret Sunshine पर आयोजित सेमिनार भी चर्चा में रहा। कला के माध्यम से मानवीय पीड़ा और शोक को पढ़ते हुए मनोविश्लेषणात्मक विमर्श का विस्तार किया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Konferensi IPA Asia-Pasifik Membaca Narsisisme sebagai Putus Relasi",
+        "excerpt": "Konferensi IPA Asia-Pasifik ke-5 ditutup di Seoul dengan mendefinisikan ulang narsisisme sebagai keterputusan relasi dan menawarkan rekonstruksi emosi.",
+        "body": "Konferensi IPA Asia-Pasifik ke-5 telah ditutup di Seoul. Dalam konferensi ini, narsisisme yang di masyarakat modern kerap dibaca sebagai keegoisan didefinisikan ulang bukan sekadar cacat karakter individu, melainkan sebagai masalah keterputusan relasi dan kekurangan emosional. Inti pembahasannya adalah memahami kekosongan emosional yang tersembunyi di balik narsisisme dan mencari solusi melalui rekonstruksi emosi yang memulihkan cinta. Seminar tentang film Secret Sunshine karya sutradara Lee Chang-dong juga menarik perhatian. Melalui seni, penderitaan manusia dan duka dibaca untuk memperluas diskusi psikoanalitik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "39b18bc8eb0a",
+    "slug": "불닭마라탕-중독됐는데한국인-장에서-뜻밖의-변화-117407",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T01:47:57.878Z",
+    "updatedAt": "2026-05-13T01:47:57.878Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12045937",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12045937",
+    "titleFingerprint": "43b19d7a86ff0999b92c2a1fcc5774b42eb70b6f",
+    "dedupKeys": [
+      "39b18bc8eb0a83b4c59615bdc82ba883f5b9f9f1",
+      "43b19d7a86ff0999b92c2a1fcc5774b42eb70b6f",
+      "abb6186becaad8f95cfa92dbc7d409fa9861e10e"
+    ],
+    "imageUrl": "/images/articles/39b18bc8eb0a.png",
+    "i18n": {
+      "ko": {
+        "title": "캡사이신 섭취와 장내 유익균 변화, 불닭·마라탕 열풍 속 주목",
+        "excerpt": "불닭볶음면과 마라탕 등 초매운 음식이 식문화로 자리 잡은 가운데, 캡사이신 섭취가 장내 유익균 증가 가능성과 관련 있다는 내용이 주목받고 있다.",
+        "body": "불닭볶음면과 마라탕처럼 강한 매운맛을 내는 음식이 한국인의 일상 식문화로 확산되는 가운데, 매운맛 성분인 캡사이신이 장내 유익균 증가 가능성과 관련 있다는 내용이 전해졌다. 최근 초매운 음식은 젊은 층을 중심으로 꾸준히 소비되며 하나의 취향과 문화로 자리 잡았다. 다만 매운 음식이 모든 사람에게 같은 영향을 주는 것은 아니다. 과민성대장증후군 환자 등 장이 민감한 사람은 섭취에 유의할 필요가 있다는 점도 함께 제시됐다. 이번 내용은 매운 음식 소비가 장 건강과 연결될 수 있다는 점에서 관심을 끌지만, 개인의 건강 상태에 따른 주의가 중요하다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Capsaicin and Gut Beneficial Bacteria Draw Attention Amid Buldak and Malatang Trend",
+        "excerpt": "As ultra-spicy foods such as Buldak noodles and malatang become part of food culture, capsaicin intake is drawing attention for its possible link to increased beneficial gut bacteria.",
+        "body": "As foods with intense spiciness, such as Buldak stir-fried noodles and malatang, spread through everyday Korean food culture, reports say capsaicin, the compound behind spicy heat, may be linked to an increase in beneficial gut bacteria. Recently, ultra-spicy foods have been consumed steadily, especially among younger people, becoming a matter of taste and culture. However, spicy food does not affect everyone in the same way. People with sensitive intestines, including patients with irritable bowel syndrome, need to be careful about intake. The report is drawing interest because spicy food consumption may be connected to gut health, but attention to individual health conditions remains important. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "カプサイシンと腸内善玉菌の変化、ブルダック・麻辣湯ブームで注目",
+        "excerpt": "ブルダック炒め麺や麻辣湯など激辛料理が食文化として定着するなか、カプサイシン摂取が腸内善玉菌の増加可能性と関連する点が注目されている。",
+        "body": "ブルダック炒め麺や麻辣湯のように強い辛味を持つ食品が韓国人の日常の食文化に広がるなか、辛味成分であるカプサイシンが腸内の善玉菌増加の可能性と関連するという内容が伝えられた。最近、激辛食品は若い層を中心に継続的に消費され、一つの好みや文化として定着している。ただし、辛い食品がすべての人に同じ影響を与えるわけではない。過敏性腸症候群の患者など、腸が敏感な人は摂取に注意する必要がある点も示された。今回の内容は、辛い食品の消費が腸の健康と結び付く可能性がある点で関心を集めているが、個人の健康状態に応じた注意が重要だ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "辣椒素与肠道有益菌变化受关注，火鸡面和麻辣烫热潮下的新发现",
+        "excerpt": "随着火鸡面、麻辣烫等超辣食品成为饮食文化的一部分，辣椒素摄入可能与肠道有益菌增加有关的内容受到关注。",
+        "body": "随着火鸡面和麻辣烫等具有强烈辣味的食品在韩国人的日常饮食文化中扩散，有消息称，辣味成分辣椒素可能与肠道有益菌增加有关。近来，超辣食品以年轻群体为中心持续消费，并逐渐成为一种口味偏好和文化。不过，辛辣食品并不会对所有人产生相同影响。报道也提示，肠道敏感人群，包括肠易激综合征患者，在摄入时需要注意。此次内容之所以受到关注，是因为辛辣食品消费可能与肠道健康相联系，但根据个人健康状况保持谨慎仍然重要。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Capsaicina y bacterias beneficiosas del intestino ganan atención con el auge del buldak y el malatang",
+        "excerpt": "Mientras alimentos muy picantes como los fideos buldak y el malatang se consolidan como cultura gastronómica, se observa una posible relación entre capsaicina y aumento de bacterias intestinales beneficiosas.",
+        "body": "Mientras alimentos de sabor extremadamente picante, como los fideos buldak y el malatang, se expanden en la vida gastronómica cotidiana de los coreanos, se informó que la capsaicina, el componente responsable del picante, podría estar relacionada con un aumento de bacterias beneficiosas en el intestino. En los últimos tiempos, los alimentos ultra picantes se consumen de forma constante, especialmente entre los jóvenes, y se han asentado como gusto y cultura. Sin embargo, la comida picante no afecta por igual a todas las personas. Quienes tienen intestinos sensibles, incluidos pacientes con síndrome de intestino irritable, deben tener cuidado con su consumo. El tema genera interés porque el consumo de picante podría vincularse con la salud intestinal, aunque sigue siendo importante considerar el estado de salud individual. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Capsaicina e bactérias benéficas no intestino chamam atenção com febre de buldak e malatang",
+        "excerpt": "Enquanto comidas superpicantes como macarrão buldak e malatang se firmam como cultura alimentar, a ingestão de capsaicina chama atenção por possível relação com aumento de bactérias benéficas no intestino.",
+        "body": "Enquanto alimentos de sabor muito picante, como o macarrão buldak e o malatang, se espalham pela cultura alimentar cotidiana dos coreanos, foi divulgado que a capsaicina, componente responsável pela ardência, pode estar relacionada ao aumento de bactérias benéficas no intestino. Recentemente, comidas superpicantes vêm sendo consumidas de forma constante, sobretudo entre os jovens, tornando-se uma preferência e uma cultura. No entanto, alimentos picantes não afetam todas as pessoas da mesma maneira. Pessoas com intestino sensível, incluindo pacientes com síndrome do intestino irritável, precisam ter cautela no consumo. O tema chama atenção porque o consumo de comidas picantes pode estar ligado à saúde intestinal, mas é importante considerar a condição de saúde de cada pessoa. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Capsaicin und nützliche Darmbakterien rücken durch Buldak- und Malatang-Trend in den Fokus",
+        "excerpt": "Während extrem scharfe Speisen wie Buldak-Nudeln und Malatang Teil der Esskultur werden, sorgt Capsaicin wegen eines möglichen Zusammenhangs mit mehr nützlichen Darmbakterien für Aufmerksamkeit.",
+        "body": "Während stark scharfe Speisen wie Buldak-Bratnudeln und Malatang in der alltäglichen Esskultur der Koreaner immer verbreiteter werden, wurde berichtet, dass Capsaicin, der Stoff hinter der Schärfe, mit einer möglichen Zunahme nützlicher Darmbakterien verbunden sein könnte. Zuletzt wurden extrem scharfe Lebensmittel vor allem von jüngeren Menschen kontinuierlich konsumiert und haben sich als Geschmacksvorliebe und Kultur etabliert. Allerdings wirkt scharfes Essen nicht bei allen Menschen gleich. Personen mit empfindlichem Darm, darunter Patienten mit Reizdarmsyndrom, sollten beim Verzehr vorsichtig sein. Die Meldung stößt auf Interesse, weil der Konsum scharfer Speisen mit Darmgesundheit verbunden sein könnte, doch die individuelle gesundheitliche Verfassung bleibt entscheidend. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Capsaïcine et bactéries intestinales bénéfiques attirent l’attention avec la mode du buldak et du malatang",
+        "excerpt": "Alors que les aliments très épicés comme les nouilles buldak et le malatang s’installent dans la culture alimentaire, la capsaïcine est remarquée pour son lien possible avec les bonnes bactéries intestinales.",
+        "body": "Alors que des aliments au piquant intense, comme les nouilles sautées buldak et le malatang, se répandent dans la culture alimentaire quotidienne des Coréens, il a été rapporté que la capsaïcine, composant responsable du piquant, pourrait être liée à une augmentation des bactéries bénéfiques dans l’intestin. Récemment, les aliments très épicés sont consommés de façon régulière, surtout par les jeunes, et sont devenus une préférence ainsi qu’une culture. Toutefois, les aliments épicés n’ont pas le même effet sur tout le monde. Les personnes ayant un intestin sensible, notamment les patients atteints du syndrome de l’intestin irritable, doivent faire preuve de prudence. Ce sujet suscite l’intérêt parce que la consommation d’aliments épicés pourrait être liée à la santé intestinale, mais l’état de santé individuel reste important. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "الكابسيسين وبكتيريا الأمعاء النافعة تحت الضوء مع رواج بولداك ومالاتانغ",
+        "excerpt": "مع تحول أطعمة شديدة الحدة مثل نودلز بولداك ومالاتانغ إلى جزء من الثقافة الغذائية، يلفت الكابسيسين الانتباه لاحتمال ارتباطه بزيادة البكتيريا النافعة في الأمعاء.",
+        "body": "مع انتشار أطعمة ذات مذاق حار قوي مثل نودلز بولداك المقلية ومالاتانغ في الثقافة الغذائية اليومية للكوريين، ورد أن الكابسيسين، وهو مكوّن الطعم الحار، قد يكون مرتبطا باحتمال زيادة البكتيريا النافعة في الأمعاء. في الآونة الأخيرة، تُستهلك الأطعمة فائقة الحدة بانتظام، خصوصا بين الشباب، وأصبحت ذوقا وثقافة قائمة. لكن الطعام الحار لا يؤثر في الجميع بالطريقة نفسها. فالأشخاص ذوو الأمعاء الحساسة، ومنهم مرضى متلازمة القولون العصبي، يحتاجون إلى الحذر عند تناوله. يثير هذا الموضوع الاهتمام لأنه قد يربط استهلاك الأطعمة الحارة بصحة الأمعاء، لكن مراعاة الحالة الصحية الفردية تبقى مهمة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "बुलडक और मालाटांग के चलन के बीच कैप्साइसिन और आंतों के लाभकारी बैक्टीरिया पर ध्यान",
+        "excerpt": "बुलडक नूडल्स और मालाटांग जैसे बेहद तीखे खाद्य पदार्थों के खाद्य संस्कृति का हिस्सा बनने के बीच, कैप्साइसिन सेवन का आंतों के लाभकारी बैक्टीरिया बढ़ने की संभावना से संबंध चर्चा में है।",
+        "body": "बुलडक स्टर-फ्राइड नूडल्स और मालाटांग जैसे तेज तीखे स्वाद वाले खाद्य पदार्थ कोरियाई लोगों की रोजमर्रा की खाद्य संस्कृति में फैल रहे हैं। इसी बीच बताया गया है कि तीखेपन का घटक कैप्साइसिन आंतों में लाभकारी बैक्टीरिया बढ़ने की संभावना से जुड़ा हो सकता है। हाल में बेहद तीखे खाद्य पदार्थ खासकर युवाओं के बीच लगातार खाए जा रहे हैं और एक पसंद तथा संस्कृति के रूप में 자리 बना चुके हैं। हालांकि, तीखा भोजन हर व्यक्ति पर समान असर नहीं डालता। इरिटेबल बाउल सिंड्रोम के मरीजों सहित संवेदनशील आंतों वाले लोगों को इसके सेवन में सावधानी बरतने की जरूरत है। यह विषय इसलिए ध्यान खींच रहा है क्योंकि तीखे भोजन का सेवन आंतों के स्वास्थ्य से जुड़ सकता है, लेकिन व्यक्तिगत स्वास्थ्य स्थिति के अनुसार सावधानी महत्वपूर्ण है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Capsaicin dan Bakteri Baik Usus Jadi Sorotan di Tengah Tren Buldak dan Malatang",
+        "excerpt": "Saat makanan superpedas seperti mi buldak dan malatang menjadi bagian budaya makan, konsumsi capsaicin disorot karena kemungkinan terkait peningkatan bakteri baik di usus.",
+        "body": "Saat makanan dengan rasa pedas kuat seperti mi goreng buldak dan malatang menyebar dalam budaya makan sehari-hari masyarakat Korea, dilaporkan bahwa capsaicin, komponen yang menimbulkan rasa pedas, mungkin berkaitan dengan peningkatan bakteri baik di usus. Belakangan, makanan superpedas terus dikonsumsi, terutama oleh kalangan muda, dan telah menjadi bagian dari selera serta budaya. Namun, makanan pedas tidak memberi dampak yang sama pada semua orang. Orang dengan usus sensitif, termasuk pasien sindrom iritasi usus besar, perlu berhati-hati dalam mengonsumsinya. Topik ini menarik perhatian karena konsumsi makanan pedas dapat terkait dengan kesehatan usus, tetapi kondisi kesehatan masing-masing tetap perlu diperhatikan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "3d159d40b772",
+    "slug": "살-빼기보다-힘든-유지하기-요요-현상-막을-과학적-돌파구-열렸다-366674",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T01:46:47.257Z",
+    "updatedAt": "2026-05-13T01:46:47.257Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12045938",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12045938",
+    "titleFingerprint": "cf4e0d3d07a94a23bcf85758de9b3e29d6bde594",
+    "dedupKeys": [
+      "3d159d40b7720ae588de2fd3ba919475c72f168f",
+      "cf4e0d3d07a94a23bcf85758de9b3e29d6bde594",
+      "6c2c9b64138e8777f06b363ba9afcf4b046e0645"
+    ],
+    "imageUrl": "/images/articles/3d159d40b772.png",
+    "i18n": {
+      "ko": {
+        "title": "체중 유지 난제에 새 단서… 먹는 GLP-1·유익균 연구 주목",
+        "excerpt": "네이처 메디신이 체중 유지 전략 논문 2편을 발표하며, 감량 후 요요 현상을 줄일 가능성이 있는 먹는 GLP-1 전환과 유익균 섭취 효과를 제시했다.",
+        "body": "비만 치료에서 감량보다 더 어려운 과제로 꼽히는 체중 유지에 대해 네이처 메디신이 관련 전략을 다룬 논문 2편을 발표했다. 보도에 따르면 한 연구는 감량 이후 ‘먹는 GLP-1’로 전환했을 때 감량분의 80%를 유지할 수 있음을 제시했다. 또 다른 연구는 유익균 섭취가 지방 조직의 ‘체질 개선’과 관련된 변화를 확인했다. 비만 치료의 핵심 난제가 요요 현상인 만큼, 이번 결과는 감량 이후 관리 전략을 세우는 데 과학적 근거를 더할 수 있다. 다만 원문은 연구 결과의 의미를 체중 유지 가능성에 둔다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Weight Maintenance Breakthrough: Oral GLP-1 and Beneficial Bacteria Draw Attention",
+        "excerpt": "Nature Medicine published two papers on weight maintenance strategies, pointing to oral GLP-1 transition and beneficial bacteria intake as possible ways to reduce rebound weight gain.",
+        "body": "Nature Medicine has published two papers on strategies for maintaining weight, a challenge often considered harder than weight loss itself in obesity treatment. According to the report, one study found that switching to an oral GLP-1 after weight reduction helped preserve 80% of the lost weight. Another study confirmed changes linked to an improvement in the “constitution” of fat tissue after intake of beneficial bacteria. Because rebound weight gain is a central obstacle in obesity care, these findings may add scientific grounds for post-loss management strategies. The original report frames the significance around weight maintenance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "体重維持の難題に新たな手がかり、経口GLP-1と有益菌研究に注目",
+        "excerpt": "ネイチャー・メディシンが体重維持戦略に関する論文2本を発表し、経口GLP-1への切り替えと有益菌摂取によるリバウンド抑制の可能性を示した。",
+        "body": "肥満治療で減量より難しい課題とされる体重維持について、ネイチャー・メディシンが関連戦略を扱った論文2本を発表した。報道によると、ある研究では減量後に「経口GLP-1」へ切り替えた場合、減量分の80％を維持できることが示された。別の研究では、有益菌の摂取が脂肪組織の「体質改善」に関連する変化を確認した。リバウンド現象が肥満治療の核心的な難題であるだけに、今回の結果は減量後の管理戦略に科学的根拠を加える可能性がある。原文は体重維持の可能性に意義を置いている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "体重维持迎来新线索：口服GLP-1与有益菌研究受关注",
+        "excerpt": "《自然医学》发表两篇体重维持策略论文，提出减重后转用口服GLP-1及摄入有益菌，或有助于减少体重反弹。",
+        "body": "在肥胖治疗中，比减重更难的课题被认为是体重维持。《自然医学》近日发表了两篇涉及相关策略的论文。据报道，其中一项研究显示，减重后转用“口服GLP-1”时，可维持减重成果的80%。另一项研究确认，摄入有益菌与脂肪组织“体质改善”相关变化有关。由于体重反弹是肥胖治疗的最大难题之一，这些结果可能为减重后的管理策略增加科学依据。不过，原文强调的重点是体重维持的可能性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Mantener el peso gana nuevas pistas: GLP-1 oral y bacterias beneficiosas",
+        "excerpt": "Nature Medicine publicó dos estudios sobre estrategias de mantenimiento del peso, con datos sobre el cambio a GLP-1 oral y la ingesta de bacterias beneficiosas contra el rebote.",
+        "body": "Nature Medicine publicó dos artículos sobre estrategias para mantener el peso, un reto considerado más difícil que adelgazar dentro del tratamiento de la obesidad. Según el reporte, un estudio mostró que, tras la pérdida de peso, cambiar a un GLP-1 oral permitió conservar el 80% del peso perdido. Otro estudio confirmó cambios relacionados con una “mejora de la constitución” del tejido adiposo tras la ingesta de bacterias beneficiosas. Dado que el efecto rebote es uno de los principales problemas del tratamiento de la obesidad, estos resultados pueden aportar base científica a las estrategias de control después de adelgazar. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Manter o peso ganha novas pistas com GLP-1 oral e bactérias benéficas",
+        "excerpt": "A Nature Medicine publicou dois estudos sobre manutenção do peso, apontando a troca para GLP-1 oral e a ingestão de bactérias benéficas como caminhos contra o efeito sanfona.",
+        "body": "A Nature Medicine publicou dois artigos sobre estratégias de manutenção do peso, uma etapa considerada mais difícil do que emagrecer no tratamento da obesidade. Segundo a reportagem, um estudo mostrou que, após a perda de peso, a transição para um GLP-1 oral permitiu preservar 80% do peso perdido. Outro estudo confirmou mudanças associadas a uma “melhora da constituição” do tecido adiposo após a ingestão de bactérias benéficas. Como o efeito sanfona é um dos maiores desafios no tratamento da obesidade, os resultados podem acrescentar base científica às estratégias de controle após o emagrecimento. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gewicht halten im Fokus: Orales GLP-1 und nützliche Bakterien liefern Hinweise",
+        "excerpt": "Nature Medicine veröffentlichte zwei Arbeiten zu Strategien der Gewichtserhaltung und zeigt Hinweise auf orales GLP-1 sowie nützliche Bakterien gegen erneute Gewichtszunahme.",
+        "body": "Nature Medicine hat zwei Facharbeiten zu Strategien der Gewichtserhaltung veröffentlicht, einem Problem, das in der Adipositasbehandlung oft als schwieriger gilt als das Abnehmen selbst. Dem Bericht zufolge zeigte eine Studie, dass nach einer Gewichtsreduktion der Wechsel zu einem oralen GLP-1 80% des verlorenen Gewichts erhalten konnte. Eine weitere Studie bestätigte Veränderungen, die mit einer „Verbesserung der Beschaffenheit“ von Fettgewebe nach der Einnahme nützlicher Bakterien verbunden sind. Da der Jo-Jo-Effekt zu den größten Hürden der Adipositastherapie zählt, können die Ergebnisse wissenschaftliche Grundlage für Strategien nach der Gewichtsabnahme liefern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Maintien du poids: GLP-1 oral et bactéries bénéfiques ouvrent une nouvelle piste",
+        "excerpt": "Nature Medicine a publié deux études sur le maintien du poids, avec des données sur le passage au GLP-1 oral et l’effet de bactéries bénéfiques contre la reprise pondérale.",
+        "body": "Nature Medicine a publié deux articles sur les stratégies de maintien du poids, un défi souvent jugé plus difficile que la perte de poids dans le traitement de l’obésité. Selon le reportage, une étude indique qu’après un amaigrissement, le passage à un GLP-1 oral a permis de conserver 80% du poids perdu. Une autre étude a confirmé des changements liés à une « amélioration de la constitution » du tissu adipeux après la prise de bactéries bénéfiques. Comme l’effet yo-yo reste l’un des principaux obstacles du traitement de l’obésité, ces résultats peuvent apporter une base scientifique aux stratégies de suivi après la perte de poids. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الحفاظ على الوزن يقترب من حل جديد: GLP-1 فموي وبكتيريا نافعة تحت المجهر",
+        "excerpt": "نشرت Nature Medicine ورقتين عن استراتيجيات الحفاظ على الوزن، مع مؤشرات على أن التحول إلى GLP-1 فموي وتناول بكتيريا نافعة قد يحدان من استعادة الوزن.",
+        "body": "نشرت Nature Medicine ورقتين بحثيتين عن استراتيجيات الحفاظ على الوزن، وهو تحد يعد في علاج السمنة أصعب من فقدان الوزن نفسه. وبحسب التقرير، أظهرت إحدى الدراستين أن الانتقال بعد خفض الوزن إلى دواء GLP-1 يؤخذ عن طريق الفم ساعد في الحفاظ على 80% من الوزن المفقود. وأكدت دراسة أخرى تغيرات مرتبطة بتحسين “طبيعة” النسيج الدهني بعد تناول بكتيريا نافعة. وبما أن ظاهرة استعادة الوزن تمثل عقبة رئيسية في علاج السمنة، فقد تضيف هذه النتائج أساسا علميا لاستراتيجيات المتابعة بعد التخسيس. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "वजन बनाए रखने की चुनौती पर नई राह: ओरल GLP-1 और लाभकारी बैक्टीरिया पर ध्यान",
+        "excerpt": "Nature Medicine ने वजन बनाए रखने की रणनीतियों पर दो शोधपत्र प्रकाशित किए, जिनमें ओरल GLP-1 में बदलाव और लाभकारी बैक्टीरिया सेवन से वजन वापसी घटाने के संकेत मिले।",
+        "body": "मोटापा उपचार में वजन घटाने से भी कठिन मानी जाने वाली चुनौती, यानी वजन बनाए रखने पर Nature Medicine ने दो शोधपत्र प्रकाशित किए हैं। रिपोर्ट के अनुसार, एक अध्ययन ने दिखाया कि वजन घटाने के बाद ‘ओरल GLP-1’ पर स्विच करने से घटे हुए वजन का 80% बनाए रखा जा सका। दूसरे अध्ययन ने लाभकारी बैक्टीरिया के सेवन के बाद वसा ऊतक की “प्रकृति में सुधार” से जुड़े बदलावों की पुष्टि की। चूंकि यो-यो प्रभाव मोटापा उपचार की बड़ी बाधा है, ये नतीजे वजन घटाने के बाद प्रबंधन रणनीतियों को वैज्ञानिक आधार दे सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Menjaga Berat Badan Dapat Petunjuk Baru: GLP-1 Oral dan Bakteri Baik Disorot",
+        "excerpt": "Nature Medicine menerbitkan dua makalah strategi menjaga berat badan, menyoroti peralihan ke GLP-1 oral dan konsumsi bakteri baik untuk menekan kenaikan ulang.",
+        "body": "Nature Medicine menerbitkan dua makalah tentang strategi mempertahankan berat badan, tantangan yang dalam terapi obesitas kerap dinilai lebih sulit daripada menurunkan berat badan. Menurut laporan tersebut, satu studi menunjukkan bahwa setelah penurunan berat badan, peralihan ke GLP-1 oral dapat mempertahankan 80% dari bobot yang telah turun. Studi lain mengonfirmasi perubahan yang terkait dengan “perbaikan karakter” jaringan lemak setelah konsumsi bakteri baik. Karena efek yo-yo menjadi hambatan utama dalam terapi obesitas, hasil ini dapat menambah dasar ilmiah bagi strategi pengelolaan setelah penurunan berat badan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "39ff5223160f",
     "slug": "올해-성과로-받은-주식-2100억이네요역대급-매출에도-연봉-깎인-남자-383288",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Minumsa minta maaf: nomor telepon 142 anggota terkirim ke lebih dari 4.000 orang",
         "excerpt": "Penerbit Minumsa meminta maaf pada 12 Mei setelah pesan massal kepada sebagian anggota turut mengirim nomor ponsel 142 anggota kepada lebih dari 4.000 penerima.",
         "body": "Penerbit Minumsa mengalami insiden saat mengirim pesan teks massal kepada sebagian anggotanya: nomor ponsel 142 anggota terkirim kepada lebih dari 4.000 orang. Pada 12 Mei, Minumsa menyampaikan di situs resminya bahwa pihaknya “meminta maaf dengan tulus”. Peristiwa ini terjadi dalam proses pengiriman pesan massal, ketika nomor telepon sebagian anggota ikut diteruskan kepada banyak penerima. Skala yang telah dikonfirmasi adalah 142 anggota yang nomornya terekspos dan lebih dari 4.000 orang yang menerima pesan tersebut. Karena informasi kontak yang memuat data pribadi terkirim ke banyak penerima, anggota terdampak dapat mengalami ketidaknyamanan dan kekhawatiran. Minumsa menerbitkan permintaan maaf di situs resminya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bf6e336308de",
-    "slug": "18-나홀로-불기둥-찍은-lg전자폰-대신-잡은-이-사업-덕봤다-182824",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T11:51:32.504Z",
-    "updatedAt": "2026-05-12T11:51:32.504Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045260",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045260",
-    "titleFingerprint": "379d260d8295359cb413a43447dedee3ff52ffcb",
-    "dedupKeys": [
-      "bf6e336308de18e9a28bafd1949314194a3a610a",
-      "379d260d8295359cb413a43447dedee3ff52ffcb",
-      "566ad3443dac302f8a271413d6078b2e3c6a2e40"
-    ],
-    "imageUrl": "/images/articles/bf6e336308de.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG전자 주가 18% 급등, 로봇사업 신성장동력 부각에 목표가 19만원대",
-        "excerpt": "LG전자는 12일 한국거래소 기준 주가가 하루 새 두 자릿수 급등했다. 로봇사업이 신성장동력으로 주목받고 증권가 목표주가가 19만원대로 올라간 영향이다.",
-        "body": "LG전자가 12일 한국거래소 기준 하루 새 두 자릿수대 주가 급등세를 보였다. 시장에서 주목한 배경은 로봇사업이다. 스마트폰을 대신해 새 성장축으로 거론되는 로봇사업이 신성장동력으로 부각되면서 투자심리가 움직였다는 해석이다. 증권가에서는 LG전자 목표주가를 19만원대로 상향하며 관련 기대를 반영했다. 이번 급등은 로봇사업의 성장 가능성이 주가 재평가 요인으로 작용하고 있음을 보여준다. 다만 기사에서 확인된 범위는 주가 급등, 로봇사업 주목, 목표주가 상향에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Electronics Shares Jump 18% as Robotics Growth Story Lifts Target Prices",
-        "excerpt": "LG Electronics shares surged by double digits on May 12, according to the Korea Exchange, as its robotics business drew attention as a new growth driver and broker targets moved into the 190,000 won range.",
-        "body": "LG Electronics posted a double-digit share-price surge on May 12, according to the Korea Exchange. The key factor drawing market attention was its robotics business. As robotics emerged as a new growth engine replacing the role once associated with smartphones, investor sentiment strengthened. Securities firms reflected that expectation by raising target prices for LG Electronics into the 190,000 won range. The move shows that the growth potential of the robotics business is being viewed as a factor in the stock’s revaluation. The confirmed details are limited to the share surge, rising focus on robotics, and higher target prices. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LG電子株が18%急騰、ロボット事業の成長期待で目標株価19万ウォン台に",
-        "excerpt": "LG電子は12日、韓国取引所基準で株価が1日で二桁急騰した。ロボット事業が新成長動力として注目され、証券業界の目標株価が19万ウォン台へ上がったためだ。",
-        "body": "LG電子は12日、韓国取引所基準で1日で二桁台の株価急騰を記録した。市場が注目した背景はロボット事業だ。スマートフォンに代わる新たな成長軸としてロボット事業が浮上し、投資心理を押し上げたとの見方が出ている。証券業界ではLG電子の目標株価を19万ウォン台に引き上げ、関連期待を反映した。今回の急騰は、ロボット事業の成長可能性が株価再評価の要因として働いていることを示す。ただし確認された内容は、株価急騰、ロボット事業への注目、目標株価引き上げに限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG电子股价大涨18%，机器人业务受关注推动目标价升至19万韩元区间",
-        "excerpt": "据韩国交易所12日消息，LG电子股价单日出现两位数上涨。机器人业务被视为新增长动力，券商将目标价上调至19万韩元区间。",
-        "body": "据韩国交易所12日消息，LG电子股价单日出现两位数涨幅。市场关注的核心背景是机器人业务。随着机器人业务被视为取代手机业务后的新增长轴，其作为新增长动力受到关注，投资情绪随之升温。证券行业将LG电子目标股价上调至19万韩元区间，反映了相关期待。此次股价急涨显示，机器人业务的增长可能性正成为股价重新评估的因素。不过，报道可确认的信息仅限于股价急涨、机器人业务受关注以及目标价上调。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LG Electronics sube 18% en bolsa por el impulso de robótica y metas de 190.000 wones",
-        "excerpt": "LG Electronics registró el 12 de mayo una subida bursátil de dos dígitos, según la Bolsa de Corea, por el foco en robótica como nuevo motor de crecimiento y objetivos en torno a 190.000 wones.",
-        "body": "LG Electronics registró el 12 de mayo una fuerte subida bursátil de dos dígitos, según la Bolsa de Corea. El factor que atrajo la atención del mercado fue su negocio de robótica. Al perfilarse como un nuevo eje de crecimiento en lugar del negocio de teléfonos, la robótica fue destacada como motor emergente y mejoró el ánimo inversor. Las firmas de valores elevaron sus precios objetivo para LG Electronics al rango de 190.000 wones, reflejando esas expectativas. El avance muestra que el potencial de crecimiento de robótica actúa como factor de revaloración de la acción. La información confirmada se limita a la subida, el foco en robótica y el alza de objetivos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LG Electronics salta 18% com robótica em foco e preço-alvo na faixa de 190 mil won",
-        "excerpt": "A LG Electronics subiu dois dígitos em 12 de maio, segundo a Bolsa da Coreia, com a robótica vista como novo motor de crescimento e preços-alvo elevados para a faixa de 190 mil won.",
-        "body": "A LG Electronics registrou em 12 de maio uma alta de dois dígitos em suas ações, segundo a Bolsa da Coreia. O ponto que chamou a atenção do mercado foi o negócio de robótica. Vista como um novo eixo de crescimento no lugar dos celulares, a robótica passou a ser destacada como motor de expansão, influenciando o sentimento dos investidores. Corretoras elevaram o preço-alvo da LG Electronics para a faixa de 190 mil won, refletindo essa expectativa. A alta mostra que o potencial de crescimento da robótica está sendo considerado um fator de reavaliação da ação. As informações confirmadas se limitam à alta, ao foco em robótica e à elevação dos preços-alvo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG Electronics springt 18%: Robotik rückt als Wachstumstreiber in den Fokus",
-        "excerpt": "LG Electronics legte am 12. Mai laut Korea Exchange zweistellig zu. Auslöser war die Aufmerksamkeit für Robotik als neuer Wachstumsmotor sowie höhere Kursziele im Bereich von 190.000 Won.",
-        "body": "LG Electronics verzeichnete am 12. Mai laut Korea Exchange einen zweistelligen Kurssprung an einem Tag. Im Mittelpunkt des Marktes stand das Robotikgeschäft. Da Robotik als neuer Wachstumspfeiler anstelle des Smartphone-Geschäfts wahrgenommen wird, rückte sie als Wachstumstreiber in den Fokus und stärkte die Anlegerstimmung. Wertpapierhäuser hoben ihre Kursziele für LG Electronics in den Bereich von 190.000 Won an und spiegelten damit diese Erwartungen wider. Der Anstieg zeigt, dass das Wachstumspotenzial der Robotik als Faktor für eine Neubewertung der Aktie gesehen wird. Bestätigt sind der Kurssprung, der Fokus auf Robotik und höhere Kursziele. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LG Electronics bondit de 18% en Bourse, porté par la robotique et des objectifs relevés",
-        "excerpt": "LG Electronics a gagné deux chiffres le 12 mai selon la Korea Exchange, la robotique étant mise en avant comme nouveau moteur de croissance et les objectifs de cours relevés vers 190.000 wons.",
-        "body": "LG Electronics a enregistré le 12 mai une hausse boursière à deux chiffres en une seule séance, selon la Korea Exchange. Le facteur central est son activité robotique. Présentée comme un nouvel axe de croissance à la place des téléphones, la robotique attire l’attention du marché et soutient le sentiment des investisseurs. Les sociétés de courtage ont relevé leurs objectifs de cours pour LG Electronics dans la zone des 190.000 wons, intégrant ces attentes. Cette progression montre que le potentiel de croissance de la robotique est considéré comme un élément de revalorisation du titre. Les faits confirmés portent sur la hausse de l’action, l’intérêt pour la robotique et le relèvement des objectifs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم إل جي إلكترونيكس يقفز 18% مع صعود الروبوتات كمحرك نمو جديد",
-        "excerpt": "قفز سهم إل جي إلكترونيكس بنسبة من خانتين في 12 مايو وفق بورصة كوريا، مع بروز أعمال الروبوتات كمحرك نمو جديد ورفع شركات الوساطة السعر المستهدف إلى نطاق 190 ألف وون.",
-        "body": "سجل سهم إل جي إلكترونيكس في 12 مايو ارتفاعا من خانتين خلال يوم واحد، وفق بيانات بورصة كوريا. وكان محور اهتمام السوق هو أعمال الروبوتات. فمع بروز هذا النشاط كركيزة نمو جديدة بدلا من الهواتف، تحسنت شهية المستثمرين تجاه السهم. ورفعت شركات الأوراق المالية السعر المستهدف لإل جي إلكترونيكس إلى نطاق 190 ألف وون، بما يعكس هذه التوقعات. وتظهر القفزة أن إمكانات نمو الروبوتات تُعد عاملا في إعادة تقييم السهم. وتقتصر المعلومات المؤكدة في الخبر على ارتفاع السهم، وتركيز السوق على الروبوتات، ورفع الأسعار المستهدفة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG Electronics शेयर 18% उछला, रोबोटिक्स ग्रोथ इंजन से लक्ष्य भाव 190,000 वॉन",
-        "excerpt": "कोरिया एक्सचेंज के अनुसार 12 मई को LG Electronics का शेयर एक दिन में दो अंकों में चढ़ा। रोबोटिक्स कारोबार नए ग्रोथ इंजन के रूप में उभरा और ब्रोकरेज ने लक्ष्य भाव 190,000 वॉन रेंज में बढ़ाया।",
-        "body": "कोरिया एक्सचेंज के अनुसार LG Electronics के शेयर ने 12 मई को एक ही दिन में दो अंकों की तेज बढ़त दर्ज की। बाजार का ध्यान कंपनी के रोबोटिक्स कारोबार पर रहा। स्मार्टफोन की जगह नए विकास स्तंभ के रूप में रोबोटिक्स कारोबार के उभरने से निवेशक धारणा मजबूत हुई। प्रतिभूति कंपनियों ने LG Electronics के लक्ष्य भाव को 190,000 वॉन की रेंज में बढ़ाकर इन उम्मीदों को शामिल किया। यह तेजी दिखाती है कि रोबोटिक्स कारोबार की वृद्धि संभावना शेयर के पुनर्मूल्यांकन का कारक बन रही है। पुष्टि की गई जानकारी शेयर तेजी, रोबोटिक्स पर ध्यान और लक्ष्य भाव बढ़ाने तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham LG Electronics Melonjak 18%, Bisnis Robotik Dorong Target ke 190.000 Won",
-        "excerpt": "Saham LG Electronics naik dua digit pada 12 Mei menurut Bursa Korea, setelah bisnis robotik disorot sebagai mesin pertumbuhan baru dan target harga dinaikkan ke kisaran 190.000 won.",
-        "body": "LG Electronics mencatat lonjakan harga saham dua digit dalam satu hari pada 12 Mei, menurut Bursa Korea. Faktor yang menjadi perhatian pasar adalah bisnis robotik. Ketika robotik dipandang sebagai poros pertumbuhan baru menggantikan peran ponsel, sentimen investor ikut menguat. Kalangan sekuritas menaikkan target harga LG Electronics ke kisaran 190.000 won, mencerminkan ekspektasi tersebut. Kenaikan ini menunjukkan bahwa potensi pertumbuhan bisnis robotik menjadi faktor penilaian ulang saham. Informasi yang terkonfirmasi terbatas pada lonjakan saham, perhatian terhadap robotik, dan kenaikan target harga. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c0b78f03be01",
-    "slug": "삼성전자-주식-8만에-사서-6만에-팔아장성규-투자-실패담-공개-490409",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T11:49:46.686Z",
-    "updatedAt": "2026-05-12T11:49:46.686Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12045267",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12045267",
-    "titleFingerprint": "81f38e4237ed63bdb0e317b08f2191b54d6bd545",
-    "dedupKeys": [
-      "c0b78f03be01256fc3bde81d82b8370523f612b9",
-      "81f38e4237ed63bdb0e317b08f2191b54d6bd545",
-      "1113760d56fa15aebef74de7635223f0270c0238"
-    ],
-    "imageUrl": "/images/articles/c0b78f03be01.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 주식 8만 매수·6만 매도…장성규가 공개한 투자 실패담",
-        "excerpt": "방송인 장성규가 12일 자신의 SNS에 누리꾼과 나눈 대화를 공개하며 삼성전자 주식을 8만원에 사서 6만원에 팔았던 투자 실패담을 전해 화제를 모았다.",
-        "body": "방송인 장성규가 12일 자신의 사회관계망서비스(SNS) 계정에 누리꾼과 나눈 대화를 공개하며 주식 투자 실패담을 전했다. 공개된 내용에 따르면 장성규는 삼성전자 주식을 8만원에 매수한 뒤 6만원에 매도했다고 밝혔다. 이 발언은 유명 방송인이 직접 자신의 투자 손실 경험을 언급했다는 점에서 온라인상에서 관심을 모았다. 원문에 제시된 구체적 수치는 매수가 8만원, 매도가 6만원이며, 추가 투자 배경이나 보유 기간 등은 공개되지 않았다. 이번 사례는 개인 투자 경험이 SNS 대화를 통해 확산된 사례로 주목된다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Samsung Electronics Stock Bought at 80,000 Won, Sold at 60,000: Jang Sung-kyu Shares Loss",
-        "excerpt": "Broadcaster Jang Sung-kyu drew attention on the 12th after posting an SNS conversation in which he said he bought Samsung Electronics shares at 80,000 won and sold them at 60,000 won.",
-        "body": "Broadcaster Jang Sung-kyu revealed a failed stock investment story on the 12th by posting a conversation with a netizen on his social media account. According to the disclosed exchange, Jang said he bought Samsung Electronics shares at 80,000 won and later sold them at 60,000 won. The comment attracted online attention because a well-known broadcaster directly mentioned his own investment loss. The specific figures provided in the original report were a purchase price of 80,000 won and a sale price of 60,000 won; no additional details such as the investment background or holding period were disclosed. The case drew notice as a personal investment experience spreading through an SNS conversation. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "サムスン電子株を8万ウォンで買い6万ウォンで売却、チャン・ソンギュが失敗談公開",
-        "excerpt": "放送人チャン・ソンギュが12日、自身のSNSでネットユーザーとの会話を公開し、サムスン電子株を8万ウォンで買い6万ウォンで売った投資失敗談を明かして話題になった。",
-        "body": "放送人チャン・ソンギュが12日、自身のSNSアカウントにネットユーザーとの会話を公開し、株式投資の失敗談を伝えた。公開された内容によると、チャン・ソンギュはサムスン電子株を8万ウォンで買い、その後6万ウォンで売却したと明かした。この発言は、有名放送人が自身の投資損失経験を直接語った点でオンライン上の関心を集めた。原文で示された具体的な数値は買値8万ウォン、売値6万ウォンであり、追加の投資背景や保有期間などは公開されていない。今回の事例は、個人の投資経験がSNS上の会話を通じて広がったケースとして注目される。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "三星电子股票8万韩元买入、6万韩元卖出：张圣圭公开投资失利经历",
-        "excerpt": "韩国主持人张圣圭12日在个人社交媒体公开与网友的对话，称自己曾以8万韩元买入三星电子股票、以6万韩元卖出，引发关注。",
-        "body": "韩国主持人张圣圭12日在自己的社交媒体账号上公开了与一名网友的对话，并透露了一段股票投资失利经历。根据公开内容，张圣圭表示，他曾以8万韩元买入三星电子股票，随后以6万韩元卖出。这一发言因知名主持人直接提及自己的投资亏损经历而在网络上受到关注。原文中给出的具体数字为买入价8万韩元、卖出价6万韩元；至于投资背景、持有时间等其他细节并未公开。此次事件被视为个人投资经历通过社交媒体对话扩散并引发讨论的案例。出处：引用mk.co.kr。"
-      },
-      "es": {
-        "title": "Acciones de Samsung compradas a 80.000 wones y vendidas a 60.000: Jang Sung-kyu revela pérdida",
-        "excerpt": "El presentador Jang Sung-kyu llamó la atención el día 12 al publicar en SNS una conversación en la que dijo que compró acciones de Samsung Electronics a 80.000 wones y las vendió a 60.000.",
-        "body": "El presentador Jang Sung-kyu reveló el día 12 una experiencia fallida de inversión bursátil al publicar en su cuenta de redes sociales una conversación con un internauta. Según el contenido divulgado, Jang afirmó que compró acciones de Samsung Electronics a 80.000 wones y luego las vendió a 60.000 wones. El comentario atrajo atención en línea porque una figura conocida de la televisión mencionó directamente su propia pérdida de inversión. Las cifras concretas indicadas en el texto original fueron un precio de compra de 80.000 wones y un precio de venta de 60.000 wones; no se divulgaron otros detalles como el contexto de la inversión o el periodo de tenencia. El caso destaca como una experiencia personal de inversión difundida a través de una conversación en SNS. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Ações da Samsung compradas a 80 mil won e vendidas a 60 mil: Jang Sung-kyu relata perda",
-        "excerpt": "O apresentador Jang Sung-kyu chamou atenção no dia 12 ao publicar em sua rede social uma conversa em que disse ter comprado ações da Samsung Electronics a 80 mil won e vendido a 60 mil.",
-        "body": "O apresentador Jang Sung-kyu revelou no dia 12 uma experiência malsucedida de investimento em ações ao publicar, em sua conta de rede social, uma conversa com um internauta. De acordo com o conteúdo divulgado, Jang disse que comprou ações da Samsung Electronics a 80 mil won e depois as vendeu a 60 mil won. A declaração ganhou atenção online por envolver uma personalidade conhecida comentando diretamente sua própria perda em investimento. Os números específicos apresentados no texto original foram preço de compra de 80 mil won e preço de venda de 60 mil won; outros detalhes, como o contexto do investimento ou o período de posse, não foram divulgados. O caso chama atenção como uma experiência pessoal de investimento que se espalhou por meio de uma conversa em SNS. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Samsung-Aktien bei 80.000 Won gekauft, bei 60.000 verkauft: Jang Sung-kyu berichtet Verlust",
-        "excerpt": "Moderator Jang Sung-kyu sorgte am 12. für Aufmerksamkeit, nachdem er auf SNS ein Gespräch veröffentlichte, in dem er sagte, er habe Samsung-Electronics-Aktien zu 80.000 Won gekauft und zu 60.000 Won verkauft.",
-        "body": "Moderator Jang Sung-kyu machte am 12. eine gescheiterte Aktienanlage öffentlich, indem er auf seinem Social-Media-Konto ein Gespräch mit einem Internetnutzer veröffentlichte. Dem veröffentlichten Inhalt zufolge sagte Jang, er habe Aktien von Samsung Electronics zu 80.000 Won gekauft und später zu 60.000 Won verkauft. Die Aussage fand online Beachtung, weil ein bekannter Moderator seine eigene Anlageverlust-Erfahrung direkt erwähnte. Die im Original genannten konkreten Zahlen sind ein Kaufpreis von 80.000 Won und ein Verkaufspreis von 60.000 Won; weitere Angaben wie Anlagehintergrund oder Haltedauer wurden nicht veröffentlicht. Der Fall wird als Beispiel dafür wahrgenommen, wie eine persönliche Investmenterfahrung über ein SNS-Gespräch Verbreitung findet. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Actions Samsung achetées à 80 000 wons, revendues à 60 000 : Jang Sung-kyu raconte son échec",
-        "excerpt": "L’animateur Jang Sung-kyu a attiré l’attention le 12 en publiant sur SNS une conversation dans laquelle il dit avoir acheté des actions Samsung Electronics à 80 000 wons et les avoir vendues à 60 000.",
-        "body": "L’animateur Jang Sung-kyu a révélé le 12 une expérience d’investissement boursier ratée en publiant, sur son compte de réseau social, une conversation avec un internaute. Selon le contenu rendu public, Jang a déclaré avoir acheté des actions Samsung Electronics à 80 000 wons, puis les avoir revendues à 60 000 wons. Cette remarque a suscité l’attention en ligne, car une personnalité connue de la télévision évoquait directement sa propre perte d’investissement. Les chiffres précis mentionnés dans le texte original sont un prix d’achat de 80 000 wons et un prix de vente de 60 000 wons; aucun autre détail, comme le contexte de l’investissement ou la durée de détention, n’a été divulgué. Ce cas retient l’attention comme une expérience personnelle d’investissement diffusée via une conversation sur SNS. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "أسهم سامسونغ إلكترونيكس: شراء بـ80 ألف وون وبيع بـ60 ألفا، جانغ سونغ كيو يكشف خسارته",
-        "excerpt": "أثار المذيع جانغ سونغ كيو الاهتمام في اليوم الـ12 بعدما نشر على حسابه في وسائل التواصل محادثة قال فيها إنه اشترى أسهم سامسونغ إلكترونيكس بـ80 ألف وون وباعها بـ60 ألفا.",
-        "body": "كشف المذيع جانغ سونغ كيو في اليوم الـ12 عن تجربة فاشلة في الاستثمار بالأسهم، وذلك بعدما نشر على حسابه في وسائل التواصل الاجتماعي محادثة مع أحد مستخدمي الإنترنت. وبحسب المحتوى المنشور، قال جانغ إنه اشترى أسهم سامسونغ إلكترونيكس بسعر 80 ألف وون ثم باعها بسعر 60 ألف وون. وقد لفت التصريح الانتباه على الإنترنت لأن شخصية إعلامية معروفة تحدثت مباشرة عن تجربة خسارة استثمارية شخصية. الأرقام المحددة الواردة في النص الأصلي هي سعر شراء 80 ألف وون وسعر بيع 60 ألف وون، ولم تُكشف تفاصيل إضافية مثل خلفية الاستثمار أو مدة الاحتفاظ بالأسهم. وتبرز هذه الحالة كمثال على انتشار تجربة استثمار شخصية عبر محادثة في وسائل التواصل. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "Samsung Electronics शेयर 80,000 वॉन में खरीदे, 60,000 में बेचे: Jang Sung-kyu ने बताई निवेश विफलता",
-        "excerpt": "प्रसारक Jang Sung-kyu ने 12 तारीख को अपने SNS पर एक नेटिजन से हुई बातचीत साझा की, जिसमें उन्होंने कहा कि उन्होंने Samsung Electronics के शेयर 80,000 वॉन में खरीदे और 60,000 वॉन में बेच दिए।",
-        "body": "प्रसारक Jang Sung-kyu ने 12 तारीख को अपने सोशल मीडिया खाते पर एक नेटिजन के साथ हुई बातचीत साझा करते हुए शेयर निवेश में विफलता का अनुभव बताया। प्रकाशित बातचीत के अनुसार, Jang ने कहा कि उन्होंने Samsung Electronics के शेयर 80,000 वॉन में खरीदे और बाद में 60,000 वॉन में बेच दिए। यह टिप्पणी ऑनलाइन इसलिए चर्चा में आई क्योंकि एक प्रसिद्ध प्रसारक ने अपने निवेश नुकसान के अनुभव का सीधे उल्लेख किया। मूल रिपोर्ट में दिए गए ठोस आंकड़े खरीद मूल्य 80,000 वॉन और बिक्री मूल्य 60,000 वॉन हैं; निवेश की पृष्ठभूमि या होल्डिंग अवधि जैसी अतिरिक्त जानकारी सार्वजनिक नहीं की गई। यह मामला SNS बातचीत के जरिए व्यक्तिगत निवेश अनुभव के फैलने के उदाहरण के रूप में ध्यान खींचता है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Saham Samsung Dibeli 80.000 Won, Dijual 60.000: Jang Sung-kyu Ungkap Gagal Investasi",
-        "excerpt": "Penyiar Jang Sung-kyu menarik perhatian pada tanggal 12 setelah mengunggah percakapan di SNS yang menyebut ia membeli saham Samsung Electronics seharga 80.000 won dan menjualnya 60.000 won.",
-        "body": "Penyiar Jang Sung-kyu mengungkap pengalaman gagal berinvestasi saham pada tanggal 12 dengan mengunggah percakapan bersama seorang warganet di akun media sosialnya. Berdasarkan isi yang dipublikasikan, Jang mengatakan ia membeli saham Samsung Electronics seharga 80.000 won dan kemudian menjualnya seharga 60.000 won. Pernyataan itu menarik perhatian online karena seorang figur penyiaran terkenal secara langsung menyebut pengalaman kerugian investasinya sendiri. Angka spesifik dalam teks asli adalah harga beli 80.000 won dan harga jual 60.000 won; rincian lain seperti latar belakang investasi atau periode kepemilikan tidak diungkapkan. Kasus ini menjadi perhatian sebagai contoh pengalaman investasi pribadi yang menyebar melalui percakapan di SNS. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "ecb738a71357",
-    "slug": "속보-국힘-충남-공주부여청양-보선-후보에-윤용근-200882",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T11:47:46.704Z",
-    "updatedAt": "2026-05-12T11:47:46.704Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12045272",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12045272",
-    "titleFingerprint": "5989788c141f932f128f4a61b15bf0590fab33d7",
-    "dedupKeys": [
-      "ecb738a7135706c5ce8cbd31fd2f217034e83667",
-      "5989788c141f932f128f4a61b15bf0590fab33d7",
-      "9ca91b9a71a50b1696a651c2c363825d2c13116b"
-    ],
-    "imageUrl": "/images/articles/ecb738a71357.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국힘 충남 공주·부여·청양 보선 후보 윤용근 확정, 지역 선거 구도 주목",
-        "excerpt": "국민의힘이 충남 공주·부여·청양 보궐선거 후보로 윤용근을 정했다고 mk.co.kr이 보도했다. 지역 보선의 여야 경쟁 구도에 관심이 모인다.",
-        "body": "국민의힘이 충남 공주·부여·청양 보궐선거 후보로 윤용근을 확정했다고 mk.co.kr이 보도했다. 이번 보도는 해당 지역 보선에 나설 여당 후보가 누구인지에 대한 핵심 정보를 전한 속보다. 충남 공주·부여·청양은 하나의 선거구로 묶여 보궐선거가 치러지는 지역이며, 국민의힘 후보 결정은 향후 선거전의 기본 구도를 형성하는 주요 변수다. 원문에는 윤용근 후보 확정 사실 외에 세부 경선 과정이나 추가 배경 설명은 제시되지 않았다. 이에 따라 향후 공식 일정, 경쟁 후보, 선거 전략 등 후속 발표가 이어질지 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "People Power Party Picks Yoon Yong-geun for Gongju, Buyeo and Cheongyang By-Election",
-        "excerpt": "The People Power Party has selected Yoon Yong-geun as its candidate for the Chungnam Gongju, Buyeo and Cheongyang by-election, mk.co.kr reported.",
-        "body": "The People Power Party has confirmed Yoon Yong-geun as its candidate for the by-election in Gongju, Buyeo and Cheongyang, South Chungcheong Province, according to mk.co.kr. The report delivers the key breaking-news fact of who will represent the ruling party in the local by-election. Gongju, Buyeo and Cheongyang form one constituency for this contest, and the party’s candidate decision is a central element in shaping the election framework. The original report did not provide further details on the nomination process or additional background beyond Yoon’s selection. Attention is therefore expected to turn to later announcements on the official schedule, rival candidates and campaign strategy. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民の力、忠南公州・扶余・青陽補選候補に尹容根氏を選出",
-        "excerpt": "国民の力が忠南の公州・扶余・青陽補欠選挙候補に尹容根氏を決めたとmk.co.krが報じた。地域補選の構図に関心が集まる。",
-        "body": "国民の力が忠南公州・扶余・青陽の補欠選挙候補として尹容根氏を確定したと、mk.co.krが報じた。今回の報道は、この地域の補選に出る与党候補が誰になるのかという核心情報を伝える速報だ。公州・扶余・青陽は一つの選挙区として補欠選挙が行われる地域であり、国民の力の候補決定は今後の選挙戦の基本構図を形づくる重要な要素となる。原文では尹容根氏の候補確定以外に、詳しい選考過程や追加の背景説明は示されていない。今後、公式日程、対立候補、選挙戦略に関する後続発表があるかが注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "国民力量确定尹容根为忠南公州·扶余·青阳补选候选人",
-        "excerpt": "据mk.co.kr报道，国民力量已确定尹容根为忠南公州、扶余、青阳补选候选人。该地区补选格局受到关注。",
-        "body": "据mk.co.kr报道，国民力量已确定尹容根为忠南公州、扶余、青阳补选候选人。这一消息以快讯形式传达了该地区补选中执政党候选人是谁的核心信息。公州、扶余、青阳作为同一选区举行补选，国民力量的候选人决定将成为形成后续选战基本格局的重要因素。原文除尹容根候选人确定这一事实外，未提供具体提名过程或更多背景说明。因此，外界将关注后续是否公布正式日程、竞争候选人以及选举战略等信息。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "People Power Party elige a Yoon Yong-geun para la parcial de Gongju, Buyeo y Cheongyang",
-        "excerpt": "El People Power Party eligió a Yoon Yong-geun como candidato para la elección parcial de Gongju, Buyeo y Cheongyang, en Chungnam, informó mk.co.kr.",
-        "body": "El People Power Party confirmó a Yoon Yong-geun como candidato para la elección parcial de Gongju, Buyeo y Cheongyang, en la provincia de Chungnam, según informó mk.co.kr. La nota transmite el dato central de última hora: quién representará al partido gobernante en esa contienda local. Gongju, Buyeo y Cheongyang integran una misma circunscripción para esta elección parcial, y la decisión del partido es un elemento clave para definir el marco inicial de la competencia. El texto original no ofrece más detalles sobre el proceso de nominación ni antecedentes adicionales aparte de la designación de Yoon. La atención se centrará ahora en posibles anuncios posteriores sobre calendario oficial, rivales y estrategia electoral. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "People Power Party escolhe Yoon Yong-geun para eleição parcial em Gongju, Buyeo e Cheongyang",
-        "excerpt": "O People Power Party escolheu Yoon Yong-geun como candidato à eleição parcial de Gongju, Buyeo e Cheongyang, em Chungnam, informou o mk.co.kr.",
-        "body": "O People Power Party confirmou Yoon Yong-geun como candidato à eleição parcial em Gongju, Buyeo e Cheongyang, na província de Chungnam, segundo informou o mk.co.kr. A notícia traz o principal dado de última hora: quem representará o partido governista nessa disputa local. Gongju, Buyeo e Cheongyang formam uma única circunscrição para a eleição parcial, e a definição do candidato pelo partido é um fator central para estruturar o cenário eleitoral. O texto original não apresentou detalhes sobre o processo de indicação nem contexto adicional além da confirmação de Yoon. A atenção deve se voltar agora para possíveis anúncios sobre calendário oficial, candidatos adversários e estratégia de campanha. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "People Power Party nominiert Yoon Yong-geun für Nachwahl in Gongju, Buyeo und Cheongyang",
-        "excerpt": "Die People Power Party hat Yoon Yong-geun als Kandidaten für die Nachwahl in Gongju, Buyeo und Cheongyang in Chungnam bestimmt, berichtet mk.co.kr.",
-        "body": "Die People Power Party hat Yoon Yong-geun als Kandidaten für die Nachwahl in Gongju, Buyeo und Cheongyang in der Provinz Chungnam bestätigt, wie mk.co.kr berichtet. Die Meldung liefert die zentrale Eilinformation, wer die Regierungspartei in dieser lokalen Nachwahl vertreten wird. Gongju, Buyeo und Cheongyang bilden für diese Wahl einen gemeinsamen Wahlkreis, und die Kandidatenentscheidung der Partei ist ein wichtiger Faktor für die Grundstruktur des Wahlkampfs. Der Originalbericht enthält über die Bestätigung Yoons hinaus keine weiteren Angaben zum Auswahlverfahren oder zu zusätzlichem Hintergrund. Nun richtet sich der Blick auf mögliche spätere Mitteilungen zu offiziellem Zeitplan, Gegenkandidaten und Wahlstrategie. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "People Power Party désigne Yoon Yong-geun pour la partielle de Gongju, Buyeo et Cheongyang",
-        "excerpt": "Le People Power Party a choisi Yoon Yong-geun comme candidat à la partielle de Gongju, Buyeo et Cheongyang, dans le Chungnam, selon mk.co.kr.",
-        "body": "Le People Power Party a confirmé Yoon Yong-geun comme candidat à l’élection partielle de Gongju, Buyeo et Cheongyang, dans la province du Chungnam, rapporte mk.co.kr. Cette dépêche donne l’information centrale: l’identité du candidat du parti au pouvoir dans cette course locale. Gongju, Buyeo et Cheongyang constituent une même circonscription pour cette élection partielle, et la décision du parti est un élément important pour définir la configuration de la campagne. Le texte original ne fournit pas d’autres détails sur le processus de désignation ni de contexte supplémentaire au-delà de la confirmation de Yoon. L’attention se portera donc sur d’éventuelles annonces concernant le calendrier officiel, les candidats concurrents et la stratégie électorale. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "حزب قوة الشعب يختار يون يونغ-غن لانتخابات غونغجو وبويو وتشونغيانغ الفرعية",
-        "excerpt": "أفاد mk.co.kr بأن حزب قوة الشعب اختار يون يونغ-غن مرشحا للانتخابات الفرعية في غونغجو وبويو وتشونغيانغ بإقليم تشونغنام.",
-        "body": "أفاد موقع mk.co.kr بأن حزب قوة الشعب أكد اختيار يون يونغ-غن مرشحا للانتخابات الفرعية في غونغجو وبويو وتشونغيانغ في إقليم تشونغنام. وينقل الخبر المعلومة الأساسية العاجلة حول هوية من سيمثل الحزب الحاكم في هذه المنافسة المحلية. وتشكل غونغجو وبويو وتشونغيانغ دائرة انتخابية واحدة لهذه الانتخابات الفرعية، لذلك يعد قرار الحزب بشأن المرشح عاملا رئيسيا في رسم الإطار الأولي للسباق الانتخابي. ولم يقدم النص الأصلي تفاصيل إضافية عن عملية الاختيار أو خلفيات أخرى غير تأكيد ترشيح يون. ومن ثم ستتجه الأنظار إلى أي إعلانات لاحقة عن الجدول الرسمي أو المرشحين المنافسين أو استراتيجية الحملة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "पीपल पावर पार्टी ने गोंगजू, बुएयो और चेओंगयांग उपचुनाव के लिए यून योंग-ग्यून चुना",
-        "excerpt": "mk.co.kr के अनुसार पीपल पावर पार्टी ने चुंगनाम के गोंगजू, बुएयो और चेओंगयांग उपचुनाव के लिए यून योंग-ग्यून को उम्मीदवार बनाया है।",
-        "body": "mk.co.kr के अनुसार पीपल पावर पार्टी ने दक्षिण चुंगचेओंग प्रांत के गोंगजू, बुएयो और चेओंगयांग उपचुनाव के लिए यून योंग-ग्यून को उम्मीदवार के रूप में पुष्टि की है। यह खबर स्थानीय उपचुनाव में सत्तारूढ़ पार्टी का प्रतिनिधित्व कौन करेगा, इस मुख्य तथ्य को सामने रखती है। गोंगजू, बुएयो और चेओंगयांग इस उपचुनाव के लिए एक ही निर्वाचन क्षेत्र बनाते हैं, इसलिए पार्टी का उम्मीदवार तय करना चुनावी मुकाबले की प्रारंभिक रूपरेखा के लिए महत्वपूर्ण है। मूल रिपोर्ट में यून की पुष्टि के अलावा चयन प्रक्रिया या अतिरिक्त पृष्ठभूमि पर कोई विवरण नहीं दिया गया। अब आधिकारिक कार्यक्रम, प्रतिद्वंद्वी उम्मीदवारों और प्रचार रणनीति से जुड़ी आगे की घोषणाओं पर ध्यान रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "People Power Party Pilih Yoon Yong-geun untuk Pilkada Sela Gongju, Buyeo dan Cheongyang",
-        "excerpt": "People Power Party menetapkan Yoon Yong-geun sebagai kandidat pilkada sela Gongju, Buyeo dan Cheongyang di Chungnam, menurut mk.co.kr.",
-        "body": "People Power Party telah menetapkan Yoon Yong-geun sebagai kandidat untuk pemilihan sela di Gongju, Buyeo dan Cheongyang, Provinsi Chungnam, menurut laporan mk.co.kr. Kabar ini menyampaikan fakta utama secara cepat: siapa yang akan mewakili partai berkuasa dalam kontestasi lokal tersebut. Gongju, Buyeo dan Cheongyang tergabung dalam satu daerah pemilihan untuk pemilihan sela ini, sehingga keputusan partai soal kandidat menjadi faktor penting dalam membentuk kerangka awal persaingan. Laporan asli tidak memberikan rincian tambahan mengenai proses pencalonan atau latar belakang lain di luar penetapan Yoon. Perhatian berikutnya akan tertuju pada kemungkinan pengumuman jadwal resmi, kandidat pesaing dan strategi kampanye. Sumber: mk.co.kr"
       }
     }
   }
