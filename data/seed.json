@@ -1,5 +1,230 @@
 [
   {
+    "id": "238aca0fc060",
+    "slug": "韓성장률-전망-1925-대폭-상향kdi-재정정책-필요성-크지-않아-658461",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T21:15:08.707Z",
+    "updatedAt": "2026-05-13T21:15:08.707Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12047018",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12047018",
+    "titleFingerprint": "ce4d4bb400512407ec823efe6296f042c884d2f8",
+    "dedupKeys": [
+      "238aca0fc060f5583a746b6f6987d0548b3b3acf",
+      "ce4d4bb400512407ec823efe6296f042c884d2f8",
+      "eceb004015fca4825d0c99ecc619e42ce483d7ba"
+    ],
+    "imageUrl": "/images/articles/238aca0fc060.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국 성장률 전망 2.5%로 상향, KDI “재정정책 필요성 크지 않다”",
+        "excerpt": "한국개발연구원(KDI)이 올해 한국 경제성장률 전망치를 1.9%에서 2.5%로 대폭 올리고, 경기 확장국면 진입과 반도체 호황을 주요 배경으로 제시했다.",
+        "body": "한국개발연구원(KDI)은 올해 한국 경제성장률 전망치를 기존 1.9%에서 2.5%로 대폭 상향했다. KDI는 한국 경제가 경기 확장국면에 들어섰다고 진단하며, 반도체 경기 호황이 중동전쟁의 부정적 영향을 상쇄하고 있다고 설명했다. 다만 고용 지표는 둔화됐다. 4월 취업자 증가폭은 7만4000명으로, 1년 4개월 만에 가장 작은 수준을 기록했다. 성장률 전망이 크게 올라가면서 KDI는 현재로서는 재정정책 필요성이 크지 않다고 봤다. 반도체 중심의 경기 회복세가 이어지는 가운데 고용 둔화 흐름은 향후 경제 판단의 주요 변수로 남을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "South Korea growth outlook raised to 2.5%, KDI sees limited fiscal need",
+        "excerpt": "The Korea Development Institute raised its 2024 growth forecast for South Korea from 1.9% to 2.5%, citing an expansion phase and a semiconductor boom offsetting Middle East war risks.",
+        "body": "The Korea Development Institute raised its forecast for South Korea’s economic growth this year from 1.9% to 2.5%. KDI said the Korean economy has entered an expansion phase and explained that the semiconductor boom is offsetting the negative impact of the Middle East war. Employment data, however, showed signs of slowing. The number of employed people in April increased by 74,000, the smallest gain in one year and four months. With the growth outlook sharply upgraded, KDI assessed that the need for fiscal policy is not large at present. While the semiconductor-led recovery continues, the slowdown in employment is expected to remain a key variable in judging the economy ahead. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国成長率見通し2.5%へ上方修正、KDI「財政政策の必要性大きくない」",
+        "excerpt": "韓国開発研究院（KDI）は今年の韓国経済成長率見通しを1.9%から2.5%へ大幅に引き上げ、景気拡張局面入りと半導体好況を背景に挙げた。",
+        "body": "韓国開発研究院（KDI）は、今年の韓国経済成長率見通しを従来の1.9%から2.5%へ大幅に上方修正した。KDIは韓国経済が景気拡張局面に入ったと診断し、半導体市況の好況が中東戦争による悪影響を相殺していると説明した。一方で雇用指標は鈍化した。4月の就業者増加幅は7万4000人にとどまり、1年4カ月ぶりの低水準となった。成長率見通しが大きく引き上げられたことで、KDIは現時点で財政政策の必要性は大きくないと見ている。半導体を中心とした景気回復が続くなか、雇用鈍化の流れは今後の経済判断における主要な変数として残る見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国增长预期上调至2.5%，KDI称财政政策必要性不大",
+        "excerpt": "韩国开发研究院（KDI）将今年韩国经济增长率预期从1.9%大幅上调至2.5%，认为经济进入扩张阶段，半导体景气抵消中东战争影响。",
+        "body": "韩国开发研究院（KDI）将今年韩国经济增长率预期从原先的1.9%大幅上调至2.5%。KDI判断韩国经济已进入景气扩张阶段，并说明半导体行业的繁荣正在抵消中东战争带来的负面影响。不过，就业指标出现放缓。4月就业人数增加7.4万人，创下1年零4个月以来的最小增幅。随着增长率预期大幅上调，KDI认为目前财政政策的必要性并不大。在以半导体为中心的经济复苏延续之际，就业放缓趋势预计仍将是今后判断经济形势的重要变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Corea del Sur eleva previsión de crecimiento al 2,5%; KDI ve poca necesidad fiscal",
+        "excerpt": "El KDI elevó la previsión de crecimiento de Corea del Sur del 1,9% al 2,5% para este año, al citar una fase expansiva y el auge de semiconductores pese a la guerra en Oriente Medio.",
+        "body": "El Instituto de Desarrollo de Corea (KDI) elevó la previsión de crecimiento económico de Corea del Sur para este año del 1,9% al 2,5%. El KDI afirmó que la economía coreana ha entrado en una fase de expansión y explicó que el auge de los semiconductores está compensando el impacto negativo de la guerra en Oriente Medio. Sin embargo, los datos de empleo mostraron una desaceleración. En abril, el número de ocupados aumentó en 74.000 personas, el menor incremento en un año y cuatro meses. Con la fuerte mejora de la previsión de crecimiento, el KDI consideró que por ahora no hay una gran necesidad de política fiscal. Mientras continúa la recuperación liderada por semiconductores, la ralentización del empleo seguirá siendo una variable clave para evaluar la economía. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Coreia do Sul eleva crescimento a 2,5%; KDI vê pouca necessidade fiscal",
+        "excerpt": "O KDI elevou a previsão de crescimento da Coreia do Sul de 1,9% para 2,5% neste ano, citando entrada em fase de expansão e boom dos semicondutores apesar da guerra no Oriente Médio.",
+        "body": "O Instituto de Desenvolvimento da Coreia (KDI) elevou a previsão de crescimento econômico da Coreia do Sul neste ano de 1,9% para 2,5%. O KDI avaliou que a economia coreana entrou em uma fase de expansão e explicou que o boom dos semicondutores está compensando o impacto negativo da guerra no Oriente Médio. Ainda assim, os indicadores de emprego desaceleraram. Em abril, o número de empregados aumentou em 74 mil pessoas, o menor avanço em um ano e quatro meses. Com a forte revisão para cima da previsão de crescimento, o KDI considerou que, no momento, a necessidade de política fiscal não é grande. Enquanto a recuperação liderada por semicondutores continua, a desaceleração do emprego deve permanecer como variável importante na avaliação econômica. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Wachstumsprognose auf 2,5% erhöht, KDI sieht wenig Fiskalbedarf",
+        "excerpt": "Das KDI hob die Wachstumsprognose für Südkorea von 1,9% auf 2,5% an und verwies auf eine Expansionsphase sowie den Halbleiterboom trotz Nahostkrieg.",
+        "body": "Das Korea Development Institute (KDI) hat seine Prognose für das Wirtschaftswachstum Südkoreas in diesem Jahr deutlich von 1,9% auf 2,5% angehoben. Das KDI erklärte, die koreanische Wirtschaft sei in eine Expansionsphase eingetreten, und der Halbleiterboom gleiche die negativen Auswirkungen des Nahostkriegs aus. Die Beschäftigungsdaten schwächten sich jedoch ab. Im April stieg die Zahl der Erwerbstätigen um 74.000, der geringste Zuwachs seit einem Jahr und vier Monaten. Nach der deutlichen Anhebung der Wachstumsprognose sieht das KDI derzeit keinen großen Bedarf an fiskalpolitischen Maßnahmen. Während die von Halbleitern getragene Erholung anhält, dürfte die schwächere Beschäftigungsentwicklung ein wichtiger Faktor für die weitere Konjunkturbewertung bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La croissance sud-coréenne relevée à 2,5%, le KDI juge l’aide budgétaire limitée",
+        "excerpt": "Le KDI a relevé la prévision de croissance de la Corée du Sud de 1,9% à 2,5% cette année, citant une phase d’expansion et l’essor des semi-conducteurs malgré la guerre au Moyen-Orient.",
+        "body": "Le Korea Development Institute (KDI) a fortement relevé sa prévision de croissance économique pour la Corée du Sud cette année, de 1,9% à 2,5%. Le KDI estime que l’économie coréenne est entrée dans une phase d’expansion et explique que l’essor des semi-conducteurs compense l’impact négatif de la guerre au Moyen-Orient. Les indicateurs de l’emploi ont toutefois ralenti. En avril, le nombre de personnes employées a augmenté de 74 000, soit la plus faible hausse en un an et quatre mois. Avec cette forte révision à la hausse, le KDI juge que le besoin de politique budgétaire n’est pas important pour l’instant. Alors que la reprise tirée par les semi-conducteurs se poursuit, le ralentissement de l’emploi devrait rester une variable clé pour évaluer l’économie. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رفع توقعات نمو كوريا الجنوبية إلى 2.5% وKDI يرى حاجة محدودة للسياسة المالية",
+        "excerpt": "رفع معهد التنمية الكوري توقعاته لنمو اقتصاد كوريا الجنوبية هذا العام من 1.9% إلى 2.5%، مستندا إلى دخول الاقتصاد مرحلة توسع وازدهار أشباه الموصلات.",
+        "body": "رفع معهد التنمية الكوري (KDI) توقعاته لنمو اقتصاد كوريا الجنوبية هذا العام من 1.9% إلى 2.5%. وقال المعهد إن الاقتصاد الكوري دخل مرحلة توسع، موضحا أن ازدهار قطاع أشباه الموصلات يعوض الأثر السلبي لحرب الشرق الأوسط. لكن مؤشرات التوظيف أظهرت تباطؤا. فقد زاد عدد العاملين في أبريل بمقدار 74 ألف شخص، وهو أقل ارتفاع خلال عام وأربعة أشهر. ومع الرفع الكبير لتوقعات النمو، رأى KDI أن الحاجة إلى سياسة مالية ليست كبيرة في الوقت الحالي. وبينما يستمر التعافي المدفوع بأشباه الموصلات، من المتوقع أن يبقى تباطؤ التوظيف عاملا رئيسيا في تقييم مسار الاقتصاد لاحقا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया की वृद्धि संभावना 2.5% हुई, KDI ने कम राजकोषीय जरूरत बताई",
+        "excerpt": "KDI ने इस वर्ष दक्षिण कोरिया की आर्थिक वृद्धि दर का अनुमान 1.9% से बढ़ाकर 2.5% किया, अर्थव्यवस्था के विस्तार चरण और सेमीकंडक्टर उछाल को प्रमुख कारण बताया।",
+        "body": "कोरिया डेवलपमेंट इंस्टीट्यूट (KDI) ने इस वर्ष दक्षिण कोरिया की आर्थिक वृद्धि दर का अनुमान 1.9% से बढ़ाकर 2.5% कर दिया। KDI ने आकलन किया कि कोरियाई अर्थव्यवस्था विस्तार के चरण में प्रवेश कर चुकी है और सेमीकंडक्टर क्षेत्र की तेजी मध्य पूर्व युद्ध के नकारात्मक प्रभाव की भरपाई कर रही है। हालांकि रोजगार संकेतक कमजोर रहे। अप्रैल में रोजगार पाने वालों की संख्या 74,000 बढ़ी, जो एक वर्ष और चार महीनों में सबसे कम वृद्धि है। वृद्धि अनुमान में बड़े संशोधन के बाद KDI ने कहा कि फिलहाल राजकोषीय नीति की जरूरत अधिक नहीं है। सेमीकंडक्टर आधारित सुधार जारी रहने के बीच रोजगार में सुस्ती आगे आर्थिक आकलन का अहम कारक बनी रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Prospek pertumbuhan Korea Selatan naik ke 2,5%, KDI nilai stimulus fiskal tak mendesak",
+        "excerpt": "KDI menaikkan proyeksi pertumbuhan ekonomi Korea Selatan tahun ini dari 1,9% menjadi 2,5%, dengan alasan fase ekspansi dan boom semikonduktor yang menahan dampak perang Timur Tengah.",
+        "body": "Korea Development Institute (KDI) menaikkan proyeksi pertumbuhan ekonomi Korea Selatan tahun ini dari 1,9% menjadi 2,5%. KDI menilai ekonomi Korea telah memasuki fase ekspansi dan menjelaskan bahwa boom semikonduktor mengimbangi dampak negatif perang di Timur Tengah. Namun, data ketenagakerjaan menunjukkan perlambatan. Pada April, jumlah pekerja bertambah 74.000 orang, kenaikan terkecil dalam satu tahun empat bulan. Dengan proyeksi pertumbuhan yang dinaikkan tajam, KDI menilai kebutuhan kebijakan fiskal saat ini tidak besar. Sementara pemulihan yang dipimpin semikonduktor berlanjut, perlambatan lapangan kerja diperkirakan tetap menjadi variabel utama dalam menilai ekonomi ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a84a906ce775",
+    "slug": "갤럭시-못만들텐데삼성에-갑질한-기업-과징금-불복도-패소-731468",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T21:14:10.622Z",
+    "updatedAt": "2026-05-13T21:14:10.622Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12047021",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12047021",
+    "titleFingerprint": "378e05f178d6fa80f0980c8466baf2e39d70da92",
+    "dedupKeys": [
+      "a84a906ce775c574065c3be5006aea3714c86f93",
+      "378e05f178d6fa80f0980c8466baf2e39d70da92",
+      "8f312820a689c64173f9f7fc1ffb747c41db16a4"
+    ],
+    "imageUrl": "/images/articles/a84a906ce775.jpg",
+    "i18n": {
+      "ko": {
+        "title": "브로드컴, 삼성전자 ‘갑질’ 과징금 불복소송 패소…191억 제재 유지",
+        "excerpt": "미국 반도체 기업 브로드컴이 삼성전자에 장기계약 체결을 종용했다는 공정위 제재에 불복했지만 소송에서 패소하며 191억 원 과징금 처분이 유지됐다.",
+        "body": "미국 반도체 기업 브로드컴이 삼성전자를 상대로 핵심부품 시장지배적 지위를 악용했다는 공정거래위원회 제재에 불복해 소송을 냈지만 패소했다. 원문에 따르면 브로드컴은 삼성전자에 “갤럭시를 못 만들 수 있다”는 취지로 압박하며 3년간 1조달러 규모의 장기계약 체결을 종용한 것으로 지적됐다. 공정위는 2023년 브로드컴에 191억 원의 과징금을 부과했다. 이번 패소로 브로드컴의 불복 주장은 받아들여지지 않았고, 삼성전자와 핵심 반도체 부품 거래에서 우월적 지위 남용을 둘러싼 제재가 유지되는 흐름이 됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Broadcom Loses Appeal Over Samsung Pressure Case, W19.1bn Fine Stands",
+        "excerpt": "U.S. chipmaker Broadcom lost its lawsuit challenging Korea’s antitrust penalty over pressuring Samsung Electronics into a long-term supply contract using its market power.",
+        "body": "U.S. semiconductor company Broadcom has lost its lawsuit challenging the Korea Fair Trade Commission’s sanctions over claims that it abused its dominant position in key component markets against Samsung Electronics. According to the original report, Broadcom was accused of pressuring Samsung by suggesting it might be unable to make Galaxy devices, while urging a three-year long-term contract worth $1 trillion. In 2023, the KFTC imposed a 19.1 billion won fine on Broadcom. With the loss, Broadcom’s objection was not accepted, leaving the penalty in place over alleged abuse of superior bargaining power in core semiconductor component transactions with Samsung. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ブロードコム、サムスン圧力巡る課徴金訴訟で敗訴…191億ウォン維持",
+        "excerpt": "米半導体企業ブロードコムは、サムスン電子に長期契約を迫ったとする韓国公取委の制裁に不服を申し立てたが、訴訟で敗訴した。",
+        "body": "米半導体企業ブロードコムは、サムスン電子に対して核心部品市場での支配的地位を乱用したとする韓国公正取引委員会の制裁に不服を申し立てたが、訴訟で敗訴した。原文によると、ブロードコムは「ギャラクシーを作れなくなる可能性がある」との趣旨で圧力をかけ、3年間で1兆ドル規模の長期契約締結を促したと指摘された。公取委は2023年、ブロードコムに191億ウォンの課徴金を科した。今回の敗訴により同社の不服主張は認められず、サムスンとの核心半導体部品取引を巡る優越的地位乱用への制裁が維持される流れとなった。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "博通就三星“施压”罚款败诉，191亿韩元处罚维持",
+        "excerpt": "美国半导体企业博通不服韩国公正交易委员会关于其向三星电子施压签订长期合同的处罚，但在诉讼中败诉。",
+        "body": "美国半导体企业博通因被指在核心零部件市场滥用支配地位、对三星电子施压，而对韩国公正交易委员会的制裁提起不服诉讼，但最终败诉。据原文报道，博通被指以三星可能无法生产Galaxy设备为由施压，并促使其签订为期3年、规模达1万亿美元的长期合同。韩国公正交易委员会于2023年对博通处以191亿韩元罚款。此次败诉意味着博通的不服主张未获采纳，围绕其在与三星核心半导体零部件交易中滥用优势地位的处罚得以维持。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Broadcom pierde demanda por presión a Samsung y sigue multa de 19.100 millones",
+        "excerpt": "Broadcom, firma estadounidense de semiconductores, perdió su demanda contra la sanción surcoreana por presionar a Samsung Electronics a firmar un contrato a largo plazo.",
+        "body": "La empresa estadounidense de semiconductores Broadcom perdió la demanda con la que impugnaba las sanciones de la Comisión de Comercio Justo de Corea por presunto abuso de posición dominante en componentes clave frente a Samsung Electronics. Según el informe original, Broadcom fue señalada por presionar a Samsung con el argumento de que podría no fabricar dispositivos Galaxy y por inducirla a firmar un contrato de largo plazo por tres años y 1 billón de dólares. En 2023, la autoridad impuso a Broadcom una multa de 19.100 millones de wones. Con este fallo, no prosperó la objeción de Broadcom y se mantiene la sanción vinculada al abuso de posición superior en transacciones de componentes semiconductores clave con Samsung. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Broadcom perde ação sobre pressão à Samsung e multa de W19,1 bi é mantida",
+        "excerpt": "A Broadcom, empresa americana de semicondutores, perdeu ação contra sanção sul-coreana por pressionar a Samsung Electronics a firmar contrato de longo prazo.",
+        "body": "A americana Broadcom perdeu a ação em que contestava sanções da Comissão de Comércio Justo da Coreia por suposto abuso de posição dominante em componentes essenciais contra a Samsung Electronics. Segundo a reportagem original, a Broadcom foi apontada por pressionar a Samsung ao sugerir que ela poderia não conseguir fabricar aparelhos Galaxy, enquanto induzia a assinatura de um contrato de longo prazo por três anos no valor de US$ 1 trilhão. Em 2023, a autoridade aplicou à Broadcom multa de 19,1 bilhões de wones. Com a derrota, a contestação da empresa não foi aceita, mantendo-se a punição ligada ao abuso de posição superior em transações de componentes semicondutores essenciais com a Samsung. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Broadcom verliert Klage zu Druck auf Samsung, 19,1-Mrd.-Won-Strafe bleibt",
+        "excerpt": "Der US-Chiphersteller Broadcom scheiterte mit seiner Klage gegen eine südkoreanische Kartellstrafe wegen Drucks auf Samsung Electronics zu einem Langfristvertrag.",
+        "body": "Der US-Halbleiterkonzern Broadcom hat seine Klage gegen Sanktionen der koreanischen Fair Trade Commission verloren. Die Behörde hatte dem Unternehmen vorgeworfen, seine marktbeherrschende Stellung bei Schlüsselkomponenten gegenüber Samsung Electronics missbraucht zu haben. Dem Originalbericht zufolge soll Broadcom Samsung mit dem Hinweis unter Druck gesetzt haben, Galaxy-Geräte möglicherweise nicht herstellen zu können, und zugleich auf einen dreijährigen Langfristvertrag im Umfang von 1 Billion US-Dollar gedrängt haben. 2023 verhängte die Behörde gegen Broadcom eine Geldbuße von 19,1 Milliarden Won. Mit der Niederlage wurde Broadcoms Einspruch nicht anerkannt; die Sanktion wegen des Missbrauchs einer überlegenen Position im Handel mit zentralen Halbleiterkomponenten für Samsung bleibt bestehen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Broadcom perd son recours lié à Samsung, l’amende de 19,1 mds de wons reste",
+        "excerpt": "Le groupe américain Broadcom a perdu son recours contre une sanction sud-coréenne l’accusant d’avoir poussé Samsung Electronics à signer un contrat de long terme.",
+        "body": "Le fabricant américain de semi-conducteurs Broadcom a perdu le procès par lequel il contestait les sanctions de la Korea Fair Trade Commission, qui l’accusait d’avoir abusé de sa position dominante sur des composants clés face à Samsung Electronics. Selon l’article original, Broadcom aurait fait pression sur Samsung en laissant entendre que l’entreprise pourrait ne pas pouvoir produire des appareils Galaxy, tout en l’incitant à conclure un contrat de long terme sur trois ans d’un montant de 1 000 milliards de dollars. En 2023, l’autorité a infligé à Broadcom une amende de 19,1 milliards de wons. Avec cette défaite, le recours de Broadcom n’a pas été retenu et la sanction liée à l’abus de position supérieure dans les transactions de composants semi-conducteurs essentiels avec Samsung est maintenue. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "برودكوم تخسر طعنها في قضية الضغط على سامسونغ وغرامة 19.1 مليار وون تبقى",
+        "excerpt": "خسرت شركة برودكوم الأميركية لأشباه الموصلات دعوى الاعتراض على عقوبة كورية جنوبية اتهمتها بالضغط على سامسونغ إلكترونيكس لتوقيع عقد طويل الأجل.",
+        "body": "خسرت شركة برودكوم الأميركية لأشباه الموصلات الدعوى التي رفعتها للاعتراض على عقوبات لجنة التجارة العادلة الكورية، بعد اتهامها بإساءة استخدام موقعها المهيمن في سوق المكونات الأساسية تجاه سامسونغ إلكترونيكس. ووفق التقرير الأصلي، اتُّهمت برودكوم بالضغط على سامسونغ من خلال الإيحاء بأنها قد لا تتمكن من تصنيع أجهزة غالاكسي، وبحثها على توقيع عقد طويل الأجل لمدة ثلاث سنوات بقيمة تريليون دولار. وفي عام 2023 فرضت اللجنة على برودكوم غرامة قدرها 19.1 مليار وون. وبخسارة الدعوى، لم يُقبل اعتراض برودكوم، وبقيت العقوبة المتعلقة بإساءة استغلال المركز المتفوق في معاملات مكونات أشباه الموصلات الأساسية مع سامسونغ قائمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग दबाव मामले में ब्रॉडकॉम हारा, 19.1 अरब वॉन जुर्माना बरकरार",
+        "excerpt": "अमेरिकी सेमीकंडक्टर कंपनी ब्रॉडकॉम ने सैमसंग इलेक्ट्रॉनिक्स पर दीर्घकालिक अनुबंध के लिए दबाव डालने से जुड़ी कोरियाई कार्रवाई को चुनौती दी, लेकिन मुकदमा हार गई।",
+        "body": "अमेरिकी सेमीकंडक्टर कंपनी ब्रॉडकॉम सैमसंग इलेक्ट्रॉनिक्स के खिलाफ प्रमुख पुर्जों के बाजार में प्रभुत्वशाली स्थिति के दुरुपयोग से जुड़ी कोरिया फेयर ट्रेड कमीशन की कार्रवाई को चुनौती देने वाले मुकदमे में हार गई। मूल रिपोर्ट के अनुसार, ब्रॉडकॉम पर आरोप था कि उसने सैमसंग पर यह कहते हुए दबाव डाला कि वह गैलेक्सी उपकरण नहीं बना पाएगी, और तीन साल के 1 ट्रिलियन डॉलर के दीर्घकालिक अनुबंध के लिए प्रेरित किया। 2023 में आयोग ने ब्रॉडकॉम पर 19.1 अरब वॉन का जुर्माना लगाया था। इस हार के साथ ब्रॉडकॉम की आपत्ति स्वीकार नहीं हुई और सैमसंग के साथ प्रमुख सेमीकंडक्टर पुर्जों के लेनदेन में श्रेष्ठ स्थिति के दुरुपयोग से जुड़ी सजा बरकरार रही। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Broadcom Kalah Gugatan soal Tekanan ke Samsung, Denda W19,1 Miliar Bertahan",
+        "excerpt": "Perusahaan semikonduktor AS Broadcom kalah dalam gugatan terhadap sanksi Korea Selatan atas tuduhan menekan Samsung Electronics menandatangani kontrak jangka panjang.",
+        "body": "Perusahaan semikonduktor Amerika Serikat, Broadcom, kalah dalam gugatan yang diajukannya untuk menolak sanksi Komisi Perdagangan Adil Korea terkait dugaan penyalahgunaan posisi dominan di pasar komponen utama terhadap Samsung Electronics. Menurut laporan asli, Broadcom disebut menekan Samsung dengan menyiratkan bahwa perusahaan itu mungkin tidak dapat membuat perangkat Galaxy, sambil mendorong penandatanganan kontrak jangka panjang selama tiga tahun senilai US$1 triliun. Pada 2023, otoritas tersebut menjatuhkan denda 19,1 miliar won kepada Broadcom. Dengan kekalahan ini, keberatan Broadcom tidak diterima, sehingga sanksi terkait penyalahgunaan posisi unggul dalam transaksi komponen semikonduktor inti dengan Samsung tetap berlaku. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "efdf5027c2c5",
+    "slug": "여기-졸업증-억대연봉-보증수표였는데인기급감에-학비-반값세일-886165",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T21:13:05.171Z",
+    "updatedAt": "2026-05-13T21:13:05.171Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12047030",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12047030",
+    "titleFingerprint": "70b5942b9c9fd15f46d6abb0aa6182bb26700c39",
+    "dedupKeys": [
+      "efdf5027c2c5e6ec0e8a46b8d861bc4eeb9e9b9a",
+      "70b5942b9c9fd15f46d6abb0aa6182bb26700c39",
+      "9401e99a1f48c3c96b7872212f926733430a7633"
+    ],
+    "imageUrl": "/images/articles/efdf5027c2c5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 명문 MBA 지원 급감, 억대연봉 보증수표도 학비 반값세일",
+        "excerpt": "미국 명문대 MBA 과정이 지원자 급감으로 학생 유치에 비상이 걸리며 학비 할인과 AI 특화과정 신설 등으로 인기 회복에 나서고 있다.",
+        "body": "한때 억대 연봉의 보증수표로 불리던 미국 명문대 경영학 석사(MBA) 과정이 지원자 급감으로 학생 유치에 사활을 걸고 있다. 인기 하락이 뚜렷해지자 일부 과정은 ‘학비 반값세일’로 불릴 만큼 파격적인 할인에 나섰고, AI 특화과정 신설 등 커리큘럼 변화도 추진하고 있다. MBA가 고소득 직장으로 이어지는 대표 학위라는 인식이 흔들리면서 대학들은 지원자 확보 경쟁을 강화하는 모습이다. 향후 MBA 과정의 매력은 비용 부담 완화와 인공지능 등 새 수요에 맞춘 교육 경쟁력에 좌우될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Top U.S. MBA Demand Slumps as Former High-Salary Ticket Cuts Tuition",
+        "excerpt": "Top U.S. MBA programs are trying to regain applicants after a sharp drop in demand, offering steep tuition discounts and adding AI-focused courses.",
+        "body": "Top U.S. MBA programs, once seen as a reliable path to six-figure salaries, are fighting to attract students as applications fall sharply. As their popularity declines, some programs are moving to steep tuition discounts described as a “half-price sale,” while also launching AI-focused courses and revising curricula. The perception of the MBA as a direct route to high-paying jobs is weakening, pushing universities to compete harder for applicants. The appeal of MBA programs is likely to depend on lower cost burdens and education aligned with new demand such as artificial intelligence. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米名門MBAの志願者急減、高年収への切符も学費半額セールへ",
+        "excerpt": "米国の名門大学MBA課程は志願者の急減を受け、学生確保のため学費割引やAI特化課程の新設などで人気回復を図っている。",
+        "body": "かつて高年収への確かな切符と見なされていた米国名門大学の経営学修士（MBA）課程が、志願者の急減により学生確保に力を入れている。人気低下が鮮明になるなか、一部課程は「学費半額セール」と呼ばれるほど大幅な割引に踏み切り、AI特化課程の新設などカリキュラム改革も進めている。MBAが高収入の職につながる代表的な学位だという認識が揺らぎ、大学間の志願者獲得競争は強まっている。今後の魅力は費用負担の軽減と人工知能など新需要に合う教育力に左右されそうだ。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国名校MBA申请骤降，昔日高薪通行证也开始学费半价促销",
+        "excerpt": "美国名校MBA项目因申请人数急剧减少而加紧争夺学生，通过学费优惠和新设AI专项课程等方式试图恢复吸引力。",
+        "body": "曾被视为通往高薪工作的美国名校工商管理硕士（MBA）项目，正因申请人数急剧减少而全力争取学生。随着人气下滑变得明显，部分项目推出被形容为“学费半价促销”的大幅优惠，同时新设AI专项课程并调整课程体系。MBA作为高收入岗位代表性学历的认知正在动摇，大学之间围绕申请者的竞争也随之加剧。未来MBA项目的吸引力，预计将取决于能否降低费用负担，并提供符合人工智能等新需求的教育竞争力。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Caen las solicitudes a MBA de élite en EE. UU. y bajan matrículas a mitad de precio",
+        "excerpt": "Los MBA de universidades prestigiosas de EE. UU. buscan recuperar alumnos ante el desplome de solicitudes con descuentos de matrícula y cursos centrados en IA.",
+        "body": "Los programas MBA de universidades prestigiosas de Estados Unidos, antes vistos como un pasaporte a salarios de seis cifras, están luchando por atraer estudiantes ante una fuerte caída de solicitudes. Con la pérdida de popularidad, algunos cursos ofrecen descuentos tan agresivos que se describen como una “venta a mitad de precio” de la matrícula, además de crear programas especializados en IA y ajustar sus planes de estudio. La idea del MBA como vía directa a empleos de altos ingresos se debilita, y las universidades intensifican la competencia por postulantes. Su atractivo dependerá de reducir la carga de costos y adaptarse a nuevas demandas como la inteligencia artificial. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "MBA de elite dos EUA perde procura e corta mensalidades em promoção agressiva",
+        "excerpt": "Programas de MBA de universidades renomadas dos EUA tentam atrair alunos após queda nas candidaturas, com descontos de matrícula e cursos focados em IA.",
+        "body": "Programas de MBA de universidades renomadas dos Estados Unidos, antes vistos como um caminho seguro para salários elevados, estão lutando para atrair estudantes diante da forte queda nas candidaturas. Com a perda de popularidade, alguns cursos passaram a oferecer descontos tão grandes que são descritos como “mensalidade pela metade”, além de criar formações especializadas em IA e rever currículos. A percepção do MBA como diploma que leva diretamente a empregos de alta renda está enfraquecendo, ampliando a disputa entre universidades por candidatos. O apelo desses programas deve depender da redução do custo e da adaptação a novas demandas, como inteligência artificial. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-Elite-MBAs verlieren Bewerber und senken Gebühren teils drastisch",
+        "excerpt": "Renommierte MBA-Programme in den USA reagieren auf stark sinkende Bewerberzahlen mit hohen Studiengebührenrabatten und neuen KI-Spezialisierungen.",
+        "body": "Renommierte MBA-Programme in den USA, einst als verlässlicher Weg zu sehr hohen Gehältern angesehen, kämpfen wegen stark sinkender Bewerberzahlen um Studierende. Mit dem nachlassenden Interesse bieten einige Programme so deutliche Nachlässe, dass von einer Art „Halbpreisaktion“ bei den Studiengebühren die Rede ist. Zugleich werden KI-spezialisierte Kurse eingeführt und Lehrpläne angepasst. Das Bild des MBA als direkter Zugang zu gut bezahlten Jobs gerät ins Wanken, wodurch der Wettbewerb der Universitäten um Bewerber schärfer wird. Die künftige Attraktivität dürfte davon abhängen, ob Kosten gesenkt und Bildungsangebote auf neue Nachfrage wie künstliche Intelligenz ausgerichtet werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les MBA d’élite américains perdent des candidats et bradent leurs frais",
+        "excerpt": "Face à la chute des candidatures, les MBA de grandes universités américaines cherchent à attirer les étudiants avec des réductions et des cursus axés IA.",
+        "body": "Les MBA de grandes universités américaines, autrefois considérés comme un passeport vers des salaires très élevés, peinent à attirer les étudiants en raison d’une forte baisse des candidatures. Avec le recul de leur popularité, certains programmes proposent des remises si importantes qu’elles sont décrites comme une “vente à moitié prix” des frais de scolarité, tout en créant des cursus spécialisés en IA et en adaptant leurs programmes. L’idée du MBA comme voie directe vers des emplois bien rémunérés s’affaiblit, poussant les universités à renforcer la concurrence pour recruter. Leur attractivité dépendra de la baisse du coût et de l’adaptation à de nouvelles demandes comme l’intelligence artificielle. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "تراجع طلبات MBA النخبوية في أميركا يدفعها إلى تخفيضات كبيرة بالرسوم",
+        "excerpt": "تسعى برامج MBA في الجامعات الأميركية المرموقة إلى جذب الطلاب بعد هبوط الطلبات عبر خفض الرسوم وإطلاق مسارات متخصصة في الذكاء الاصطناعي.",
+        "body": "تواجه برامج ماجستير إدارة الأعمال MBA في الجامعات الأميركية المرموقة، التي كانت تُعد طريقا موثوقا إلى رواتب مرتفعة، تراجعا حادا في طلبات الالتحاق يدفعها إلى القتال من أجل جذب الطلاب. ومع تراجع الشعبية، اتجهت بعض البرامج إلى خصومات كبيرة في الرسوم توصف بأنها أشبه بـ«نصف السعر»، إلى جانب إنشاء مسارات متخصصة في الذكاء الاصطناعي وتعديل المناهج. وتضعف صورة MBA كدرجة تقود مباشرة إلى وظائف عالية الدخل، ما يزيد المنافسة بين الجامعات على المتقدمين. ومن المتوقع أن يعتمد جاذب هذه البرامج على تخفيف عبء التكلفة وتقديم تعليم يواكب طلبا جديدا مثل الذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिकी शीर्ष MBA में आवेदन घटे, ऊंची वेतन गारंटी वाली डिग्री पर फीस छूट",
+        "excerpt": "अमेरिका के प्रतिष्ठित MBA कार्यक्रम आवेदन घटने के बाद छात्रों को आकर्षित करने के लिए फीस में बड़ी छूट और AI-केंद्रित पाठ्यक्रम शुरू कर रहे हैं।",
+        "body": "कभी ऊंचे वेतन की भरोसेमंद राह माने जाने वाले अमेरिका के प्रतिष्ठित विश्वविद्यालयों के MBA कार्यक्रम अब आवेदनों में तेज गिरावट के कारण छात्रों को आकर्षित करने की कोशिश में जुटे हैं। लोकप्रियता घटने के बीच कुछ कार्यक्रमों ने ऐसी बड़ी फीस छूट शुरू की है जिसे “आधी कीमत” जैसी पेशकश कहा जा रहा है, साथ ही AI-केंद्रित पाठ्यक्रम जोड़ने और पाठ्यक्रम संरचना बदलने के प्रयास भी हो रहे हैं। MBA को उच्च आय वाली नौकरियों तक ले जाने वाली प्रतिनिधि डिग्री मानने की धारणा कमजोर पड़ रही है, इसलिए विश्वविद्यालय आवेदकों के लिए प्रतिस्पर्धा बढ़ा रहे हैं। आगे इन कार्यक्रमों का आकर्षण लागत बोझ कम करने और कृत्रिम बुद्धिमत्ता जैसी नई मांगों के अनुरूप शिक्षा देने पर निर्भर करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Peminat MBA Elite AS Anjlok, Gelar Bergaji Tinggi Kini Obral Biaya Kuliah",
+        "excerpt": "Program MBA universitas ternama AS berupaya menarik mahasiswa setelah pendaftar turun tajam, lewat diskon biaya kuliah dan pembukaan kelas khusus AI.",
+        "body": "Program MBA di universitas ternama Amerika Serikat, yang dulu dianggap sebagai jalan pasti menuju gaji tinggi, kini berjuang menarik mahasiswa karena jumlah pendaftar turun tajam. Saat popularitasnya melemah, sebagian program menawarkan diskon besar yang disebut seperti “obral setengah harga” untuk biaya kuliah, sekaligus membuka program khusus AI dan menyesuaikan kurikulum. Pandangan bahwa MBA adalah gelar utama menuju pekerjaan berpenghasilan tinggi mulai goyah, sehingga universitas memperketat persaingan mendapatkan pendaftar. Daya tarik MBA ke depan diperkirakan bergantung pada pengurangan beban biaya dan kemampuan pendidikan yang sesuai dengan kebutuhan baru seperti kecerdasan buatan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "2251a3c9c3c3",
     "slug": "k콘텐츠-기업에-금융지원-kb국민은행-신보-특별출연-235735",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Morgan Stanley Pasang Target KOSPI 9.500 Tahun Ini, Sebut 10.000 Mungkin",
         "excerpt": "Morgan Stanley pada 13 Mei menetapkan prospek KOSPI tahun ini di 9.500 dan dalam laporan sebelumnya menyebut peluang 10.000 karena potensi pertumbuhan struktural.",
         "body": "Bank investasi global Morgan Stanley pada 13 Mei menyatakan menetapkan proyeksi KOSPI tahun ini di 9.500 dan menyebut level 10.000 juga mungkin dicapai. Dalam laporan yang dirilis sehari sebelumnya, Morgan Stanley menilai KOSPI dapat memasuki fase pertumbuhan struktural. Proyeksi ini meningkatkan perhatian pasar terhadap sejauh mana indeks saham utama Korea Selatan dapat naik tahun ini. Target 9.500 merupakan angka yang sangat tinggi bagi ekspektasi pasar, sementara penyebutan peluang 10.000 mencerminkan pandangan optimistis terhadap saham Korea. Informasi yang tersedia dalam teks asli terbatas pada proyeksi Morgan Stanley dan pernyataan dalam laporan tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "978f9b145b51",
-    "slug": "망고는-기본-토마토애사비까지-올렸다카페업계-이색-컵빙수-경쟁-163278",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T02:50:23.853Z",
-    "updatedAt": "2026-05-13T02:50:23.853Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12046016",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046016",
-    "titleFingerprint": "ec18ba67b68626541d35d0418418481a0abd49c5",
-    "dedupKeys": [
-      "978f9b145b51a3abc63aa35de155ca957217dd73",
-      "ec18ba67b68626541d35d0418418481a0abd49c5",
-      "5370bbeb28ba3618b0af872edd0a212db16b3028"
-    ],
-    "imageUrl": "/images/articles/978f9b145b51.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이색 컵빙수 경쟁 본격화…망고 넘어 토마토·애사비까지",
-        "excerpt": "카페업계가 여름 시즌을 맞아 혼디저트 수요를 겨냥해 망고는 물론 토마토와 애사비 등 이색 식재료를 활용한 1인용 컵빙수를 잇달아 선보이고 있다.",
-        "body": "카페업계가 여름 시즌을 맞아 1인용 컵빙수 경쟁에 나섰다. 혼자 디저트를 즐기는 ‘혼디저트’ 트렌드가 확산되면서, 여러 명이 나눠 먹는 전통 빙수보다 간편하게 즐길 수 있는 컵빙수 수요가 커진 데 따른 움직임이다. 제품 구성도 망고 같은 익숙한 과일을 넘어 토마토와 애사비 등 이색 식재료로 넓어지고 있다. 업계는 전통 빙수의 틀을 벗어나 건강 이미지와 시각적 차별성을 강화하는 방식으로 소비자 관심을 끌고 있다. 여름 성수기를 앞두고 카페들의 컵빙수 메뉴 경쟁은 더 다양해질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Unusual Cup Bingsu Race Heats Up With Mango, Tomato and ACV",
-        "excerpt": "Ahead of the summer season, cafe operators are targeting solo dessert demand with single-serving cup bingsu made with mango, tomato and apple cider vinegar.",
-        "body": "Cafe operators are entering a new round of competition over single-serving cup bingsu for the summer season. The move reflects the spread of the “solo dessert” trend, as demand grows for bingsu that can be enjoyed easily by one person rather than traditional shaved ice shared by several people. Ingredients are also expanding beyond familiar fruits such as mango to more unusual choices including tomato and apple cider vinegar. The industry is trying to draw consumer attention by moving beyond conventional bingsu and strengthening both health-oriented appeal and visual differentiation. Cup bingsu menu competition is expected to become more varied ahead of the summer peak. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "個性派カップピンス競争が本格化、マンゴーからトマト・リンゴ酢まで",
-        "excerpt": "カフェ業界は夏シーズンを迎え、ひとりデザート需要を狙い、マンゴーに加えてトマトやリンゴ酢などを使った1人用カップピンスを相次ぎ投入している。",
-        "body": "カフェ業界が夏シーズンを迎え、1人用カップピンスの競争に乗り出している。ひとりでデザートを楽しむ「ひとりデザート」トレンドが広がり、複数人で分け合う従来型のピンスより、手軽に楽しめるカップピンスへの需要が高まっているためだ。商品構成もマンゴーのような定番果物を超え、トマトやリンゴ酢など個性的な食材へ広がっている。業界は従来のピンスの枠を越え、健康イメージと見た目の差別化を強めることで消費者の関心を引こうとしている。夏の最盛期を前に、カフェ各社のカップピンス競争はさらに多様化する見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特色杯装刨冰竞争升温，芒果之外还有番茄和苹果醋",
-        "excerpt": "咖啡行业迎来夏季，瞄准单人甜品需求，陆续推出使用芒果、番茄和苹果醋等食材的一人份杯装刨冰。",
-        "body": "咖啡行业在夏季到来之际，开始加大一人份杯装刨冰竞争。随着独自享用甜品的“单人甜品”趋势扩散，相比多人分享的传统刨冰，便于一个人轻松食用的杯装刨冰需求正在增加。产品食材也从芒果等熟悉水果，扩展到番茄和苹果醋等更具特色的选择。业内正通过跳出传统刨冰框架、强化健康形象和视觉差异化来吸引消费者关注。随着夏季旺季临近，咖啡品牌之间的杯装刨冰菜单竞争预计将更加多样。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La batalla del cup bingsu se amplía: mango, tomate y vinagre de manzana",
-        "excerpt": "De cara al verano, las cafeterías apuntan al consumo de postres en solitario con cup bingsu individuales elaborados con mango, tomate y vinagre de manzana.",
-        "body": "El sector de las cafeterías ha iniciado una competencia por el cup bingsu individual ante la temporada de verano. El movimiento responde a la expansión de la tendencia de consumir postres en solitario, que eleva la demanda de formatos fáciles de disfrutar por una persona frente al bingsu tradicional compartido entre varios. La oferta también se amplía más allá de frutas conocidas como el mango e incorpora ingredientes inusuales como tomate y vinagre de manzana. La industria busca atraer al consumidor saliendo del marco del bingsu tradicional y reforzando tanto la imagen saludable como la diferenciación visual. La competencia de menús de cup bingsu podría volverse más diversa antes del pico estival. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Disputa por cup bingsu cresce com manga, tomate e vinagre de maçã",
-        "excerpt": "Para a temporada de verão, cafeterias miram a demanda por sobremesas individuais com cup bingsu de uma porção feito com manga, tomate e vinagre de maçã.",
-        "body": "O setor de cafeterias entrou na disputa por cup bingsu individual para a temporada de verão. A iniciativa acompanha a expansão da tendência de consumir sobremesas sozinho, que aumenta a demanda por versões fáceis de comer por uma pessoa, em vez do bingsu tradicional compartilhado por vários consumidores. Os ingredientes também avançam além de frutas familiares como manga e passam a incluir opções incomuns, como tomate e vinagre de maçã. A indústria tenta atrair atenção ao sair do formato tradicional de bingsu e reforçar a imagem de saúde e a diferenciação visual. A competição entre menus de cup bingsu deve ficar mais variada antes do auge do verão. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Cup-Bingsu-Wettbewerb wächst mit Mango, Tomate und Apfelessig",
-        "excerpt": "Zur Sommersaison setzen Cafés auf den Trend zum Solo-Dessert und bringen einzelne Cup-Bingsu-Portionen mit Mango, Tomate und Apfelessig auf den Markt.",
-        "body": "Die Cafébranche startet zur Sommersaison einen Wettbewerb um Cup-Bingsu in Einzelportionen. Hintergrund ist der wachsende Trend zum Solo-Dessert: Die Nachfrage nach Bingsu, das eine Person bequem essen kann, steigt gegenüber traditionellem Schabeeis, das von mehreren geteilt wird. Auch die Zutatenpalette erweitert sich von vertrauten Früchten wie Mango zu ungewöhnlicheren Optionen wie Tomate und Apfelessig. Die Branche versucht, Verbraucher anzusprechen, indem sie den Rahmen des traditionellen Bingsu verlässt und Gesundheitsimage sowie visuelle Differenzierung stärkt. Vor der sommerlichen Hochsaison dürfte der Wettbewerb um Cup-Bingsu-Menüs vielfältiger werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La bataille du cup bingsu s’élargit à la mangue, tomate et vinaigre de cidre",
-        "excerpt": "À l’approche de l’été, les cafés ciblent la demande de desserts en solo avec des cup bingsu individuels à la mangue, à la tomate et au vinaigre de cidre.",
-        "body": "Le secteur des cafés entre dans une nouvelle concurrence autour du cup bingsu individuel pour la saison estivale. Cette évolution suit la progression de la tendance des desserts consommés en solo, qui stimule la demande pour des formats faciles à déguster seul plutôt que pour le bingsu traditionnel partagé à plusieurs. Les ingrédients s’étendent aussi au-delà des fruits familiers comme la mangue, avec des choix plus originaux tels que la tomate et le vinaigre de cidre. Les professionnels cherchent à attirer l’attention en dépassant le cadre du bingsu classique et en renforçant l’image de santé ainsi que la différenciation visuelle. La concurrence des menus de cup bingsu devrait se diversifier avant le pic de l’été. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "منافسة كَب بينغسو تتسع من المانجو إلى الطماطم وخل التفاح",
-        "excerpt": "مع موسم الصيف، تستهدف المقاهي طلب الحلويات الفردية عبر كَب بينغسو لشخص واحد بمكونات مثل المانجو والطماطم وخل التفاح.",
-        "body": "دخلت صناعة المقاهي منافسة جديدة على كَب بينغسو المخصص لشخص واحد مع حلول موسم الصيف. وتأتي هذه الخطوة مع انتشار توجه تناول الحلويات بشكل فردي، ما يزيد الطلب على منتجات يمكن لشخص واحد الاستمتاع بها بسهولة بدلا من البينغسو التقليدي الذي يتشاركه عدة أشخاص. كما تتوسع المكونات من فواكه مألوفة مثل المانجو إلى خيارات غير تقليدية مثل الطماطم وخل التفاح. وتسعى المقاهي إلى جذب المستهلكين عبر تجاوز شكل البينغسو التقليدي وتعزيز صورة الصحة والتميّز البصري. ومن المتوقع أن تصبح منافسة قوائم كَب بينغسو أكثر تنوعا قبل ذروة الصيف. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कप बिंगसू की होड़ तेज, आम से आगे टमाटर और एप्पल साइडर विनेगर तक",
-        "excerpt": "गर्मी के मौसम में कैफे उद्योग अकेले डेजर्ट खाने की मांग को देखते हुए आम, टमाटर और एप्पल साइडर विनेगर वाले सिंगल-सर्व कप बिंगसू पेश कर रहा है।",
-        "body": "गर्मी के मौसम को देखते हुए कैफे उद्योग सिंगल-सर्व कप बिंगसू की प्रतिस्पर्धा में उतर गया है। अकेले डेजर्ट का आनंद लेने वाले “सोलो डेजर्ट” ट्रेंड के फैलने से ऐसे बिंगसू की मांग बढ़ रही है जिसे कई लोगों द्वारा साझा किए जाने वाले पारंपरिक बिंगसू की जगह एक व्यक्ति आसानी से खा सके। उत्पादों में आम जैसे परिचित फलों से आगे बढ़कर टमाटर और एप्पल साइडर विनेगर जैसी अलग सामग्री भी शामिल हो रही है। उद्योग पारंपरिक बिंगसू से अलग होकर स्वास्थ्य छवि और दृश्य आकर्षण को मजबूत करते हुए उपभोक्ताओं का ध्यान खींचना चाहता है। गर्मियों की पीक अवधि से पहले कप बिंगसू मेनू की प्रतिस्पर्धा और विविध होने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Persaingan Cup Bingsu Makin Unik, dari Mangga ke Tomat dan Cuka Apel",
-        "excerpt": "Memasuki musim panas, industri kafe membidik tren dessert solo dengan cup bingsu porsi individu berbahan mangga, tomat, hingga cuka apel.",
-        "body": "Industri kafe memasuki persaingan cup bingsu porsi individu untuk musim panas. Langkah ini muncul seiring meluasnya tren menikmati dessert sendirian, yang mendorong permintaan bingsu praktis untuk satu orang dibanding bingsu tradisional yang biasanya dibagi bersama. Pilihan bahan juga melebar dari buah yang sudah akrab seperti mangga ke bahan yang lebih unik, termasuk tomat dan cuka apel. Pelaku industri berupaya menarik perhatian konsumen dengan keluar dari bentuk bingsu tradisional serta memperkuat citra sehat dan diferensiasi visual. Menjelang puncak musim panas, persaingan menu cup bingsu di kafe diperkirakan makin beragam. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c2905eb1df6f",
-    "slug": "이원택-중심으로與-텃밭-초접전-비상에-또-전북-찾은-한병도-942545",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T02:49:17.591Z",
-    "updatedAt": "2026-05-13T02:49:17.591Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12046019",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12046019",
-    "titleFingerprint": "2c35cdc5bad53ff0fe170b25d7483e5035c5c08a",
-    "dedupKeys": [
-      "c2905eb1df6f4aa1af2fc5ccee35f40a6253b46b",
-      "2c35cdc5bad53ff0fe170b25d7483e5035c5c08a",
-      "71f5f60e362cfa354fa6a37fb96b8b8276122410"
-    ],
-    "imageUrl": "/images/articles/c2905eb1df6f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전북 초접전 속 한병도 재방문, 민주당 ‘이원택 중심’ 지지 호소",
-        "excerpt": "더불어민주당 한병도 의원은 11일 일정을 변경해 이원택 의원 지원을 위해 이틀 만에 다시 전북을 찾아, 김관영-이원택 여론조사 초접전 속 지지를 호소했다.",
-        "body": "더불어민주당 한병도 의원이 11일 일정을 변경해 이원택 의원 지원을 위해 이틀 만에 다시 전북을 찾았다. 민주당은 ‘텃밭’으로 불리는 전북에서 김관영-이원택 여론조사가 초접전 양상을 보이자 지역 사수에 비상이 걸린 분위기다. 한 의원은 현장에서 ‘이원택 중심’의 결집을 호소하며 지원사격에 나섰다. 정청래 의원도 “이원택이 돼야 새만금이 효율적”이라는 취지로 힘을 보탰다. 초접전 흐름이 이어지는 만큼 민주당의 전북 민심 공략은 당분간 집중될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Han Byeong-do Returns to Jeonbuk as Democrats Rally Behind Lee Won-taek",
-        "excerpt": "On the 11th, Democratic Party lawmaker Han Byeong-do changed his schedule and returned to Jeonbuk after two days to support Lee Won-taek amid a neck-and-neck poll with Kim Kwan-young.",
-        "body": "Democratic Party lawmaker Han Byeong-do changed his schedule on the 11th and returned to Jeonbuk just two days later to support Rep. Lee Won-taek. The party is on alert in Jeonbuk, often described as its stronghold, after polling between Kim Kwan-young and Lee Won-taek showed an extremely close race. Han appealed for voters to rally around Lee, adding further support on the ground. Rep. Chung Cheong-rae also backed Lee, saying that Saemangeum would be more efficiently handled if Lee prevailed. With the race remaining tight, the Democrats are expected to keep focusing on Jeonbuk sentiment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "全北で接戦、韓秉道氏が再訪問し民主党は李元沢氏支持を訴え",
-        "excerpt": "共に民主党の韓秉道議員は11日、日程を変更して李元沢議員を支援するため2日ぶりに全北を再訪し、金寛永氏との世論調査接戦の中で支持を呼びかけた。",
-        "body": "共に民主党の韓秉道議員は11日、日程を変更し、李元沢議員を支援するため2日ぶりに全北を訪れた。民主党は「地盤」とされる全北で、金寛永氏と李元沢氏の世論調査がきわめて接戦となったことを受け、地域の維持に危機感を強めている。韓氏は現地で「李元沢中心」の結集を訴え、支援に乗り出した。鄭清来議員も「李元沢氏でなければセマングムを効率的に進められない」という趣旨で後押しした。接戦が続く中、民主党は当面、全北の民心攻略に力を入れる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "全北陷入胶着战，韩秉道再赴当地力挺李元泽",
-        "excerpt": "共同民主党议员韩秉道11日调整日程，在两天后再次前往全北支援李元泽；在金宽永与李元泽民调胶着之际，他呼吁选民支持李元泽。",
-        "body": "共同民主党议员韩秉道11日调整日程，为支援李元泽议员在两天后再次前往全北。全北被视为民主党的“票仓”，但金宽永与李元泽的民调呈现极其胶着的局面，使党内对守住该地区感到紧迫。韩秉道在现场呼吁以“李元泽为中心”凝聚支持，并展开助选。郑清来也表示，只有李元泽胜出，才能更有效推进新万金相关事务。随着胶着态势持续，民主党预计将继续集中争取全北民心。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Han Byeong-do vuelve a Jeonbuk ante empate ajustado y apoya a Lee Won-taek",
-        "excerpt": "El día 11, el diputado demócrata Han Byeong-do cambió su agenda y regresó a Jeonbuk dos días después para apoyar a Lee Won-taek, en medio de una encuesta muy reñida frente a Kim Kwan-young.",
-        "body": "El diputado Han Byeong-do, del Partido Democrático, cambió su agenda el día 11 y volvió a Jeonbuk apenas dos días después para apoyar al legislador Lee Won-taek. El partido está en alerta en Jeonbuk, considerada su bastión, después de que una encuesta entre Kim Kwan-young y Lee Won-taek mostrara una contienda extremadamente ajustada. Han pidió en el terreno reunir apoyos “en torno a Lee Won-taek” y reforzó la campaña. El diputado Chung Cheong-rae también respaldó a Lee al afirmar que Saemangeum sería gestionado con mayor eficiencia si Lee resultaba elegido. Mientras continúe el empate técnico, los demócratas seguirán centrando esfuerzos en Jeonbuk. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Han Byeong-do volta a Jeonbuk em disputa apertada e reforça Lee Won-taek",
-        "excerpt": "No dia 11, o deputado democrata Han Byeong-do alterou sua agenda e retornou a Jeonbuk dois dias depois para apoiar Lee Won-taek, em meio a uma pesquisa muito acirrada contra Kim Kwan-young.",
-        "body": "O deputado Han Byeong-do, do Partido Democrático, mudou sua agenda no dia 11 e voltou a Jeonbuk apenas dois dias depois para apoiar o deputado Lee Won-taek. O partido entrou em alerta em Jeonbuk, considerada sua base tradicional, após uma pesquisa entre Kim Kwan-young e Lee Won-taek mostrar uma disputa extremamente apertada. Han pediu no local uma mobilização “em torno de Lee Won-taek” e reforçou o apoio. O deputado Chung Cheong-rae também endossou Lee, dizendo que Saemangeum seria conduzido de forma mais eficiente se Lee prevalecesse. Com a disputa ainda acirrada, os democratas devem seguir concentrando esforços no eleitorado de Jeonbuk. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Han Byeong-do reist erneut nach Jeonbuk und stärkt Lee Won-taek",
-        "excerpt": "Am 11. änderte der demokratische Abgeordnete Han Byeong-do seinen Terminplan und kehrte nach zwei Tagen nach Jeonbuk zurück, um Lee Won-taek in einem sehr engen Umfragefeld gegen Kim Kwan-young zu unterstützen.",
-        "body": "Der Abgeordnete Han Byeong-do von der Demokratischen Partei änderte am 11. seinen Terminplan und reiste nach nur zwei Tagen erneut nach Jeonbuk, um den Abgeordneten Lee Won-taek zu unterstützen. Die Partei ist in Jeonbuk, das als ihre Hochburg gilt, alarmiert, nachdem Umfragen zwischen Kim Kwan-young und Lee Won-taek ein äußerst knappes Rennen zeigten. Han warb vor Ort dafür, die Unterstützung um Lee zu bündeln. Auch der Abgeordnete Chung Cheong-rae stellte sich hinter Lee und sagte sinngemäß, Saemangeum könne mit Lee effizienter vorangebracht werden. Solange das Kopf-an-Kopf-Rennen anhält, dürfte die Partei ihre Bemühungen in Jeonbuk fortsetzen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Han Byeong-do retourne au Jeonbuk face au duel serré et soutient Lee Won-taek",
-        "excerpt": "Le 11, le député démocrate Han Byeong-do a modifié son agenda et est retourné au Jeonbuk deux jours plus tard pour soutenir Lee Won-taek, alors qu’un sondage le donne au coude-à-coude avec Kim Kwan-young.",
-        "body": "Le député Han Byeong-do, du Parti démocrate, a modifié son agenda le 11 et s’est rendu de nouveau au Jeonbuk seulement deux jours plus tard pour soutenir le député Lee Won-taek. Le parti est en alerte dans cette région considérée comme son bastion, après qu’un sondage entre Kim Kwan-young et Lee Won-taek a montré un duel extrêmement serré. Sur place, Han a appelé à se rassembler « autour de Lee Won-taek » et a renforcé son soutien. Le député Chung Cheong-rae a également appuyé Lee, estimant que Saemangeum serait géré plus efficacement si Lee l’emportait. Tant que l’écart restera mince, les démocrates devraient concentrer leurs efforts sur l’opinion du Jeonbuk. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هان بيونغ-دو يعود إلى جونبوك وسط سباق محتدم لدعم لي وون-تيك",
-        "excerpt": "في الحادي عشر، غيّر النائب الديمقراطي هان بيونغ-دو جدول أعماله وعاد إلى جونبوك بعد يومين لدعم لي وون-تيك، وسط تقارب شديد في استطلاع بين كيم كوان-يونغ ولي.",
-        "body": "غيّر النائب هان بيونغ-دو من الحزب الديمقراطي جدول أعماله في الحادي عشر، وعاد إلى جونبوك بعد يومين فقط لدعم النائب لي وون-تيك. ويعيش الحزب حالة تأهب في جونبوك، التي توصف بأنها معقله، بعدما أظهر استطلاع للرأي بين كيم كوان-يونغ ولي وون-تيك منافسة شديدة التقارب. ودعا هان في الميدان إلى الالتفاف حول «لي وون-تيك» وتعزيز الدعم له. كما أيد النائب تشونغ تشونغ-راي لي، قائلا بمعنى إن سايمانغوم سيكون أكثر كفاءة إذا فاز لي. ومع استمرار السباق المحتدم، يتوقع أن يركز الحزب الديمقراطي جهوده على كسب الرأي العام في جونبوك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जियोनबुक में कांटे की टक्कर, हान ब्योंग-दो ने ली वोन-टेक को समर्थन दिया",
-        "excerpt": "11 तारीख को डेमोक्रेटिक पार्टी सांसद हान ब्योंग-दो ने अपना कार्यक्रम बदला और दो दिन बाद फिर जियोनबुक पहुंचे, जहां किम क्वान-यंग और ली वोन-टेक के बीच सर्वेक्षण में कड़ी टक्कर दिखी।",
-        "body": "डेमोक्रेटिक पार्टी के सांसद हान ब्योंग-दो ने 11 तारीख को अपना कार्यक्रम बदलकर सांसद ली वोन-टेक के समर्थन में दो दिन बाद फिर जियोनबुक का दौरा किया। पार्टी के लिए गढ़ माने जाने वाले जियोनबुक में किम क्वान-यंग और ली वोन-टेक के बीच जनमत सर्वेक्षण बेहद कड़ा दिखने के बाद सतर्कता बढ़ गई है। हान ने मौके पर “ली वोन-टेक के केंद्र” में समर्थन जुटाने की अपील की। सांसद चुंग चोंग-रे ने भी यह कहते हुए ली का समर्थन किया कि ली के होने पर सेमांगुम को अधिक दक्षता से आगे बढ़ाया जा सकेगा। कड़ी टक्कर जारी रहने से डेमोक्रेटिक पार्टी का ध्यान फिलहाल जियोनबुक की जनभावना पर रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Han Byeong-do Kembali ke Jeonbuk Saat Demokrat Dorong Dukungan Lee Won-taek",
-        "excerpt": "Pada 11 hari bulan, anggota parlemen Demokrat Han Byeong-do mengubah jadwal dan kembali ke Jeonbuk dua hari kemudian untuk mendukung Lee Won-taek, di tengah survei ketat melawan Kim Kwan-young.",
-        "body": "Anggota parlemen Partai Demokrat Han Byeong-do mengubah jadwal pada tanggal 11 dan kembali ke Jeonbuk hanya dua hari kemudian untuk mendukung anggota parlemen Lee Won-taek. Partai berada dalam kewaspadaan di Jeonbuk, yang disebut sebagai basis kuatnya, setelah survei antara Kim Kwan-young dan Lee Won-taek menunjukkan persaingan sangat ketat. Di lapangan, Han menyerukan konsolidasi dukungan “berpusat pada Lee Won-taek” dan memperkuat dukungan. Anggota parlemen Chung Cheong-rae juga mendukung Lee dengan menyatakan bahwa Saemangeum akan lebih efisien jika Lee terpilih. Selama persaingan ketat berlanjut, Demokrat diperkirakan tetap memusatkan upaya pada sentimen publik Jeonbuk. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e096f9b358d3",
-    "slug": "한국-불장서-96억-대박-하이닉스-생큐일본인-계좌-인증에-술렁-935823",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T02:47:59.111Z",
-    "updatedAt": "2026-05-13T02:47:59.111Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046026",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046026",
-    "titleFingerprint": "8a4ff905f390d933d1b8360956ca6b22fbf06dc2",
-    "dedupKeys": [
-      "e096f9b358d38e00f3a4ceb2f9436232440b2c94",
-      "8a4ff905f390d933d1b8360956ca6b22fbf06dc2",
-      "0b7d2a95a327c96c5f81fb953aa587428a9e6ca7"
-    ],
-    "imageUrl": "/images/articles/e096f9b358d3.png",
-    "i18n": {
-      "ko": {
-        "title": "SK하이닉스 집중투자 일본인, 2년 만에 720% 수익 계좌 인증 화제",
-        "excerpt": "일본 투자자가 2024년 6월부터 자산 90% 이상을 SK하이닉스에 집중 투자해 약 10억엔, 한화 약 96억원 규모 수익을 냈다고 계좌를 인증하며 관심이 커졌다.",
-        "body": "일본인 투자자가 2024년 6월부터 자산의 90% 이상을 SK하이닉스에 집중 투자해 약 10억엔, 한화 약 96억원 규모의 수익을 거뒀다고 밝히며 온라인에서 주목받고 있다. 원문에 따르면 이 투자자는 SK하이닉스 투자로 2년 만에 720% 수익률을 기록했고, 중국 SNS에는 한국 계좌 개설 방법을 공유한 것으로 전해졌다. 한국 증시의 강세 흐름 속에서 특정 반도체 종목에 집중한 해외 개인투자자의 사례가 알려지며 투자자들 사이에서 관심이 확산됐다. 다만 보도에 담긴 내용은 해당 투자자의 계좌 인증과 공유 사례에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Japanese Investor’s SK Hynix Bet Draws Attention After 720% Gain in Two Years",
-        "excerpt": "A Japanese investor said he put over 90% of his assets into SK Hynix from June 2024 and made about 1 billion yen, roughly 9.6 billion won, drawing attention after sharing account proof.",
-        "body": "A Japanese investor is drawing attention online after saying he invested more than 90% of his assets in SK Hynix from June 2024 and earned about 1 billion yen, or roughly 9.6 billion won. According to the original report, the investor recorded a 720% return from SK Hynix in two years and shared information on how to open a Korean account on Chinese social media. The case has attracted interest among investors as an example of an overseas retail investor concentrating heavily on one Korean semiconductor stock during a strong Korean market. The report is limited to the investor’s account verification and shared account-opening information. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "SKハイニックス集中投資の日本人、2年で720%利益の口座認証が話題",
-        "excerpt": "日本人投資家が2024年6月から資産の90%以上をSKハイニックスに集中投資し、約10億円、韓国ウォンで約96億ウォン規模の利益を得たと口座を認証して注目を集めている。",
-        "body": "日本人投資家が2024年6月から資産の90%以上をSKハイニックスに集中投資し、約10億円、韓国ウォンで約96億ウォン規模の利益を得たと明かし、オンラインで注目されている。原文によると、この投資家はSKハイニックス投資で2年ぶりに720%の収益率を記録し、中国SNSでは韓国口座の開設方法も共有したという。韓国株式市場の強い流れの中で、特定の半導体銘柄に集中した海外個人投資家の事例として投資家の関心が広がった。ただし、報道内容は同投資家の口座認証と共有事例に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "日本投资者重仓SK海力士两年收益720%，晒韩国账户引关注",
-        "excerpt": "一名日本投资者称，自2024年6月起将90%以上资产集中投资SK海力士，获得约10亿日元、约合96亿韩元收益，并晒出账户引发关注。",
-        "body": "一名日本投资者称，自2024年6月起将90%以上资产集中投资SK海力士，获得约10亿日元、约合96亿韩元规模收益，此事在网上受到关注。原文称，该投资者通过投资SK海力士在两年内取得720%的收益率，并在中国社交平台分享了开设韩国账户的方法。在韩国股市走强的背景下，这一海外个人投资者集中押注韩国半导体个股的案例，引发投资者兴趣。不过，报道内容仅限于该投资者的账户认证及相关分享。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Inversor japonés gana 720% con SK Hynix y muestra cuenta coreana",
-        "excerpt": "Un inversor japonés dijo que desde junio de 2024 concentró más del 90% de sus activos en SK Hynix y obtuvo unos 1.000 millones de yenes, cerca de 9.600 millones de wones, según su cuenta verificada.",
-        "body": "Un inversor japonés llamó la atención en internet tras afirmar que desde junio de 2024 invirtió más del 90% de sus activos en SK Hynix y obtuvo unos 1.000 millones de yenes, aproximadamente 9.600 millones de wones. Según el reporte original, el inversor registró una rentabilidad del 720% en dos años con SK Hynix y compartió en redes sociales chinas cómo abrir una cuenta coreana. En medio de la fortaleza del mercado bursátil coreano, el caso de un inversor minorista extranjero concentrado en una acción coreana de semiconductores despertó interés. El reporte se limita a la verificación de la cuenta y a la información compartida. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Japonês aposta em SK Hynix, ganha 720% em dois anos e mostra conta",
-        "excerpt": "Um investidor japonês afirmou que desde junho de 2024 aplicou mais de 90% dos ativos em SK Hynix e ganhou cerca de 1 bilhão de ienes, aproximadamente 9,6 bilhões de wones, após verificar a conta.",
-        "body": "Um investidor japonês ganhou destaque online ao afirmar que desde junho de 2024 concentrou mais de 90% de seus ativos em SK Hynix e obteve cerca de 1 bilhão de ienes, ou aproximadamente 9,6 bilhões de wones. Segundo a reportagem original, ele registrou retorno de 720% em dois anos com SK Hynix e compartilhou em redes sociais chinesas como abrir uma conta na Coreia. Em meio ao avanço do mercado acionário coreano, o caso de um investidor estrangeiro pessoa física concentrado em uma ação coreana de semicondutores atraiu interesse. A reportagem se limita à verificação da conta e ao compartilhamento citado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Japanischer Anleger erzielt mit SK Hynix 720% Gewinn und zeigt Konto",
-        "excerpt": "Ein japanischer Anleger erklärte, seit Juni 2024 mehr als 90% seines Vermögens in SK Hynix investiert und rund 1 Milliarde Yen, etwa 9,6 Milliarden Won, verdient zu haben.",
-        "body": "Ein japanischer Anleger sorgt online für Aufmerksamkeit, nachdem er erklärte, seit Juni 2024 mehr als 90% seines Vermögens in SK Hynix investiert und rund 1 Milliarde Yen, umgerechnet etwa 9,6 Milliarden Won, erzielt zu haben. Dem Originalbericht zufolge erreichte der Anleger mit SK Hynix in zwei Jahren eine Rendite von 720% und teilte in chinesischen sozialen Netzwerken Informationen zur Eröffnung eines koreanischen Kontos. Vor dem Hintergrund eines starken koreanischen Aktienmarkts fand der Fall eines ausländischen Privatanlegers, der sich auf eine koreanische Halbleiteraktie konzentrierte, Beachtung. Der Bericht beschränkt sich auf die Konto-Bestätigung und die geteilten Informationen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Un Japonais mise sur SK Hynix, gagne 720% en deux ans et montre son compte",
-        "excerpt": "Un investisseur japonais affirme avoir placé plus de 90% de ses actifs dans SK Hynix depuis juin 2024 et gagné environ 1 milliard de yens, soit près de 9,6 milliards de wons.",
-        "body": "Un investisseur japonais attire l’attention en ligne après avoir déclaré avoir investi plus de 90% de ses actifs dans SK Hynix depuis juin 2024 et réalisé environ 1 milliard de yens, soit près de 9,6 milliards de wons. Selon l’article d’origine, il a enregistré un rendement de 720% en deux ans avec SK Hynix et a partagé sur les réseaux sociaux chinois la méthode pour ouvrir un compte coréen. Dans un marché boursier coréen vigoureux, ce cas d’investisseur particulier étranger concentré sur une valeur coréenne des semi-conducteurs a suscité l’intérêt. Le reportage se limite à la certification du compte et au partage mentionné. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مستثمر ياباني يحقق 720% من SK Hynix ويعرض حسابه الكوري",
-        "excerpt": "قال مستثمر ياباني إنه ركز أكثر من 90% من أصوله في SK Hynix منذ يونيو 2024 وحقق نحو مليار ين، أي حوالي 9.6 مليار وون، بعدما نشر ما يثبت حسابه.",
-        "body": "أثار مستثمر ياباني اهتماما واسعا على الإنترنت بعدما قال إنه استثمر أكثر من 90% من أصوله في SK Hynix منذ يونيو 2024 وحقق أرباحا بنحو مليار ين، أي ما يقارب 9.6 مليار وون. ووفقا للتقرير الأصلي، سجل المستثمر عائدا بلغ 720% خلال عامين من استثماره في SK Hynix، كما شارك على وسائل تواصل صينية طريقة فتح حساب كوري. وفي ظل قوة سوق الأسهم الكورية، لفتت حالة مستثمر فردي أجنبي ركز على سهم كوري في قطاع أشباه الموصلات انتباه المستثمرين. ويقتصر التقرير على توثيق الحساب والمعلومات التي شاركها المستثمر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "SK Hynix पर जापानी निवेशक का दांव, दो साल में 720% रिटर्न से चर्चा",
-        "excerpt": "एक जापानी निवेशक ने कहा कि उसने जून 2024 से अपनी 90% से अधिक संपत्ति SK Hynix में लगाई और करीब 1 अरब येन, यानी लगभग 9.6 अरब वॉन, का लाभ कमाया।",
-        "body": "एक जापानी निवेशक ऑनलाइन चर्चा में है, जिसने कहा कि उसने जून 2024 से अपनी 90% से अधिक संपत्ति SK Hynix में केंद्रित रूप से निवेश की और करीब 1 अरब येन, यानी लगभग 9.6 अरब वॉन, का लाभ कमाया। मूल रिपोर्ट के अनुसार, इस निवेशक ने SK Hynix में निवेश से दो वर्षों में 720% रिटर्न दर्ज किया और चीनी सोशल मीडिया पर कोरियाई खाता खोलने का तरीका भी साझा किया। कोरियाई शेयर बाजार की मजबूती के बीच, किसी विदेशी खुदरा निवेशक द्वारा एक कोरियाई सेमीकंडक्टर शेयर पर केंद्रित निवेश का यह मामला निवेशकों का ध्यान खींच रहा है। रिपोर्ट केवल खाते के प्रमाण और साझा जानकारी तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Investor Jepang Raup 720% dari SK Hynix, Verifikasi Rekening Jadi Sorotan",
-        "excerpt": "Seorang investor Jepang mengatakan sejak Juni 2024 menempatkan lebih dari 90% asetnya di SK Hynix dan meraih sekitar 1 miliar yen, atau kira-kira 9,6 miliar won.",
-        "body": "Seorang investor Jepang menjadi perhatian online setelah mengatakan bahwa sejak Juni 2024 ia memusatkan lebih dari 90% asetnya di SK Hynix dan memperoleh sekitar 1 miliar yen, atau kira-kira 9,6 miliar won. Menurut laporan asli, investor tersebut mencatat imbal hasil 720% dalam dua tahun dari investasi SK Hynix dan membagikan cara membuka rekening Korea di media sosial China. Di tengah kuatnya pasar saham Korea, kasus investor ritel asing yang terkonsentrasi pada satu saham semikonduktor Korea ini menarik minat investor. Laporan tersebut terbatas pada verifikasi rekening dan informasi yang dibagikan. Sumber: mk.co.kr"
       }
     }
   }
