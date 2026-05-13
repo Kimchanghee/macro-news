@@ -1,5 +1,230 @@
 [
   {
+    "id": "8ffa1a075741",
+    "slug": "ai-시대-변화-인터넷-시대-보고-배우라전문가들-전망은-128490",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T08:48:50.042Z",
+    "updatedAt": "2026-05-13T08:48:50.042Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12046373",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12046373",
+    "titleFingerprint": "7a8ce5a2a06c2b0b168a9f61b8d9f4aa05b0ccca",
+    "dedupKeys": [
+      "8ffa1a0757414a51ab0339e1a60c8b1cd8fd4ff6",
+      "7a8ce5a2a06c2b0b168a9f61b8d9f4aa05b0ccca",
+      "28293781a2347ba14ec4f0136a90a5faa428c46f"
+    ],
+    "imageUrl": "/images/articles/8ffa1a075741.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 시대 변화 전망, 인터넷 시대 경험에서 배울 핵심 과제",
+        "excerpt": "과학기술정보통신부는 정부 부처 전반이 AI 전략을 내세우는 가운데 과학기술·인공지능 미래전략회의를 출범시키고 AI 전략 재검토와 아젠다 정리에 나섰다.",
+        "body": "정부 부처 전반이 인공지능(AI) 전략을 앞세우는 가운데 과학기술정보통신부가 과학기술·인공지능 미래전략회의를 출범시키고 AI 전략을 다시 점검하는 작업에 들어갔다. 회의의 핵심은 AI 시대의 변화 방향을 짚고, 인터넷 시대의 전환 경험을 참고해 정책 아젠다를 정리하는 데 있다. 배경에는 각 부처가 AI를 주요 전략으로 내세우면서 국가 차원의 방향성과 우선순위를 재정비할 필요가 커진 흐름이 있다. 전문가들은 AI 확산이 산업과 행정 전반의 변화를 동반할 수 있는 만큼, 과거 인터넷 보급기에서 나타난 변화와 대응을 살펴볼 필요가 있다고 봤다. 향후 논의는 정부 AI 전략의 재검토와 주요 과제 정리에 초점이 맞춰질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Era Outlook: Key Policy Tasks Draw Lessons From Internet Age",
+        "excerpt": "South Korea’s science ministry launched a science, technology and AI future strategy meeting to review AI strategy and organize policy agendas as ministries promote AI plans.",
+        "body": "As government ministries across South Korea put forward artificial intelligence strategies, the Ministry of Science and ICT has launched a science, technology and AI future strategy meeting and begun reviewing its AI strategy. The meeting focuses on assessing the direction of change in the AI era and organizing policy agendas by referring to the transition seen during the internet age. The background is a growing need to reset national direction and priorities as each ministry presents AI as a key strategy. Experts said the spread of AI could bring changes across industry and public administration, making it necessary to examine the shifts and responses seen when the internet expanded. Future discussions are expected to focus on reviewing government AI strategy and defining major tasks. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AI時代の変化展望、インターネット時代の経験に学ぶ課題",
+        "excerpt": "韓国科学技術情報通信部は各省庁がAI戦略を掲げる中、科学技術・人工知能未来戦略会議を発足させ、AI戦略の再点検と議題整理に着手した。",
+        "body": "韓国の政府省庁全体が人工知能（AI）戦略を打ち出す中、科学技術情報通信部は科学技術・人工知能未来戦略会議を発足させ、AI戦略を改めて点検する作業に入った。会議の焦点は、AI時代の変化の方向を見極め、インターネット時代の転換経験を参考に政策議題を整理することにある。背景には、各省庁がAIを主要戦略として掲げる中で、国家レベルの方向性と優先順位を再整理する必要性が高まっている流れがある。専門家は、AIの普及が産業と行政全般の変化を伴う可能性があるため、過去のインターネット普及期に見られた変化と対応を検討する必要があると見ている。今後の議論は政府のAI戦略の再検討と主要課題の整理に重点が置かれる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI时代变革展望：从互联网时代经验中寻找政策重点",
+        "excerpt": "韩国科学技术信息通信部在各政府部门推进AI战略之际，启动科学技术与人工智能未来战略会议，着手重新审视AI战略并梳理议题。",
+        "body": "在韩国各政府部门相继提出人工智能（AI）战略的背景下，科学技术信息通信部启动了科学技术与人工智能未来战略会议，并开始重新检查AI战略。会议的重点在于判断AI时代的变化方向，并参考互联网时代的转型经验来整理政策议题。其背景是，随着各部门将AI作为主要战略，国家层面的方向和优先顺序需要重新调整。专家认为，AI扩散可能带来产业和行政整体变化，因此有必要回顾过去互联网普及时期出现的变化及应对方式。今后的讨论预计将集中在重新审视政府AI战略和梳理主要课题上。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Era de la IA: lecciones de internet para definir nuevas prioridades",
+        "excerpt": "El Ministerio de Ciencia y TIC de Corea del Sur lanzó una reunión de estrategia futura en ciencia, tecnología e IA para revisar su estrategia y ordenar agendas públicas.",
+        "body": "Mientras los ministerios del Gobierno surcoreano presentan estrategias de inteligencia artificial (IA), el Ministerio de Ciencia y TIC puso en marcha una reunión de estrategia futura sobre ciencia, tecnología e IA y comenzó a revisar su estrategia de IA. El foco del encuentro es examinar la dirección de los cambios en la era de la IA y ordenar la agenda de políticas tomando como referencia la transición vivida durante la era de internet. El contexto es la creciente necesidad de reajustar la dirección nacional y las prioridades, ya que cada ministerio sitúa la IA como estrategia clave. Expertos señalaron que la expansión de la IA puede implicar cambios en la industria y la administración, por lo que conviene observar las transformaciones y respuestas del periodo de difusión de internet. Las próximas discusiones se centrarán en revisar la estrategia gubernamental de IA y definir tareas principales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Era da IA: lições da internet orientam novas prioridades públicas",
+        "excerpt": "O Ministério da Ciência e TIC da Coreia do Sul lançou uma reunião de estratégia futura em ciência, tecnologia e IA para revisar sua estratégia e organizar agendas.",
+        "body": "Enquanto ministérios do governo sul-coreano apresentam estratégias de inteligência artificial (IA), o Ministério da Ciência e TIC lançou uma reunião de estratégia futura em ciência, tecnologia e IA e iniciou uma revisão de sua estratégia para a área. O foco é avaliar a direção das mudanças na era da IA e organizar agendas de política pública com base na experiência de transição da era da internet. O contexto é a necessidade crescente de reajustar a direção nacional e as prioridades, já que cada ministério coloca a IA como estratégia central. Especialistas afirmam que a disseminação da IA pode trazer mudanças para a indústria e a administração pública, tornando necessário observar as transformações e respostas vistas durante a expansão da internet. As próximas discussões devem se concentrar na revisão da estratégia governamental de IA e na definição das principais tarefas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Zeitalter im Blick: Was die Politik aus der Internetära lernen soll",
+        "excerpt": "Südkoreas Wissenschaftsministerium startete ein Zukunftsstrategietreffen zu Wissenschaft, Technologie und KI, um die KI-Strategie zu prüfen und Agenden zu ordnen.",
+        "body": "Während südkoreanische Ministerien Strategien für künstliche Intelligenz (KI) vorlegen, hat das Ministerium für Wissenschaft und IKT ein Zukunftsstrategietreffen zu Wissenschaft, Technologie und KI gestartet und mit einer Überprüfung seiner KI-Strategie begonnen. Im Mittelpunkt steht, die Richtung der Veränderungen im KI-Zeitalter zu erfassen und politische Agenden anhand der Erfahrungen aus der Internetära zu ordnen. Hintergrund ist der wachsende Bedarf, nationale Richtung und Prioritäten neu zu justieren, da jedes Ministerium KI als zentrale Strategie hervorhebt. Experten erklärten, die Verbreitung von KI könne Veränderungen in Industrie und Verwaltung mit sich bringen, weshalb die Entwicklungen und Reaktionen während der Ausbreitung des Internets betrachtet werden müssten. Künftige Diskussionen dürften sich auf die Überprüfung der staatlichen KI-Strategie und die Festlegung wichtiger Aufgaben konzentrieren. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Ère de l’IA : les leçons d’internet pour fixer les priorités publiques",
+        "excerpt": "Le ministère sud-coréen des Sciences et des TIC a lancé une réunion de stratégie future sur la science, la technologie et l’IA afin de réexaminer sa stratégie IA.",
+        "body": "Alors que les ministères sud-coréens mettent en avant des stratégies d’intelligence artificielle (IA), le ministère des Sciences et des TIC a lancé une réunion de stratégie future sur la science, la technologie et l’IA et commencé à réexaminer sa stratégie. L’objectif est d’évaluer la direction des changements à l’ère de l’IA et d’organiser les priorités publiques en s’appuyant sur l’expérience de la transition liée à internet. Cette démarche répond au besoin croissant de redéfinir l’orientation nationale et les priorités, chaque ministère présentant l’IA comme une stratégie majeure. Des experts estiment que la diffusion de l’IA peut entraîner des changements dans l’industrie et l’administration, ce qui rend utile l’étude des transformations et réponses observées lors de l’essor d’internet. Les prochaines discussions devraient porter sur la révision de la stratégie gouvernementale en matière d’IA et la définition des principaux chantiers. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "عصر الذكاء الاصطناعي: دروس من زمن الإنترنت لترتيب الأولويات",
+        "excerpt": "أطلقت وزارة العلوم وتكنولوجيا المعلومات والاتصالات في كوريا الجنوبية اجتماع استراتيجية مستقبلية للعلوم والتكنولوجيا والذكاء الاصطناعي لمراجعة الاستراتيجية وتنظيم الأجندة.",
+        "body": "في وقت تطرح فيه الوزارات الحكومية في كوريا الجنوبية استراتيجيات للذكاء الاصطناعي، أطلقت وزارة العلوم وتكنولوجيا المعلومات والاتصالات اجتماع استراتيجية مستقبلية للعلوم والتكنولوجيا والذكاء الاصطناعي وبدأت مراجعة استراتيجية الذكاء الاصطناعي. يركز الاجتماع على تحديد اتجاه التغير في عصر الذكاء الاصطناعي وتنظيم أجندات السياسات بالاستناد إلى تجربة التحول في عصر الإنترنت. ويأتي ذلك مع تزايد الحاجة إلى إعادة ترتيب الاتجاه الوطني والأولويات، بعدما أصبح الذكاء الاصطناعي استراتيجية رئيسية لدى مختلف الوزارات. ويرى خبراء أن انتشار الذكاء الاصطناعي قد يرافقه تغير في الصناعة والإدارة العامة، ما يجعل دراسة التحولات والاستجابات التي ظهرت خلال انتشار الإنترنت أمرا ضروريا. ومن المتوقع أن تتركز النقاشات المقبلة على مراجعة استراتيجية الحكومة للذكاء الاصطناعي وتحديد المهام الرئيسية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI युग की दिशा: इंटरनेट दौर से सीखकर नीति एजेंडा तय करने की पहल",
+        "excerpt": "दक्षिण कोरिया के विज्ञान और ICT मंत्रालय ने AI रणनीति की समीक्षा और एजेंडा तय करने के लिए विज्ञान, प्रौद्योगिकी और AI भविष्य रणनीति बैठक शुरू की।",
+        "body": "दक्षिण कोरिया में सरकारी मंत्रालयों द्वारा कृत्रिम बुद्धिमत्ता (AI) रणनीतियां आगे बढ़ाने के बीच विज्ञान और ICT मंत्रालय ने विज्ञान, प्रौद्योगिकी और AI भविष्य रणनीति बैठक शुरू की है और अपनी AI रणनीति की समीक्षा पर काम शुरू किया है। बैठक का केंद्र AI युग में बदलाव की दिशा को देखना और इंटरनेट युग के संक्रमण अनुभवों के आधार पर नीति एजेंडा व्यवस्थित करना है। इसकी पृष्ठभूमि में यह जरूरत है कि जब हर मंत्रालय AI को प्रमुख रणनीति के रूप में पेश कर रहा है, तब राष्ट्रीय दिशा और प्राथमिकताओं को फिर से व्यवस्थित किया जाए। विशेषज्ञों के अनुसार AI का प्रसार उद्योग और प्रशासन में व्यापक बदलाव ला सकता है, इसलिए इंटरनेट प्रसार के दौर में दिखे बदलावों और प्रतिक्रियाओं को देखना जरूरी है। आगे की चर्चा सरकारी AI रणनीति की समीक्षा और प्रमुख कार्यों को तय करने पर केंद्रित रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Era AI Berubah Cepat, Pelajaran dari Masa Internet Jadi Fokus Kebijakan",
+        "excerpt": "Kementerian Sains dan TIK Korea Selatan meluncurkan rapat strategi masa depan sains, teknologi, dan AI untuk meninjau strategi AI serta menyusun agenda kebijakan.",
+        "body": "Saat berbagai kementerian pemerintah Korea Selatan mengedepankan strategi kecerdasan buatan (AI), Kementerian Sains dan TIK meluncurkan rapat strategi masa depan sains, teknologi, dan AI serta mulai meninjau kembali strategi AI. Fokus rapat ini adalah membaca arah perubahan pada era AI dan menyusun agenda kebijakan dengan merujuk pengalaman transisi pada era internet. Latar belakangnya adalah meningkatnya kebutuhan untuk menata ulang arah nasional dan prioritas, karena setiap kementerian menjadikan AI sebagai strategi utama. Para ahli menilai penyebaran AI dapat membawa perubahan di sektor industri dan administrasi, sehingga pengalaman perubahan dan respons saat internet berkembang perlu dikaji. Pembahasan berikutnya diperkirakan berfokus pada peninjauan strategi AI pemerintah dan perumusan tugas-tugas utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "60827c8c523a",
+    "slug": "단독-8조-정도에-배민-주인-찾습니다48조에-샀던-독일-자본-매각-착수-787233",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T08:46:57.484Z",
+    "updatedAt": "2026-05-13T08:46:57.484Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046376",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046376",
+    "titleFingerprint": "1b540c16134f4564ebf54d541105728f1d70add8",
+    "dedupKeys": [
+      "60827c8c523a1fb09a9c9ce22524a6174ea6bfd0",
+      "1b540c16134f4564ebf54d541105728f1d70add8",
+      "73fa440b5dda55dd70ae8f6bae2c4c795e3b5ba2"
+    ],
+    "imageUrl": "/images/articles/60827c8c523a.png",
+    "i18n": {
+      "ko": {
+        "title": "배달의민족 매각 착수, 독일 DH 8조원대 새 주인 찾는다",
+        "excerpt": "독일 딜리버리히어로가 배달의민족 인수 7년 만에 매각 절차에 착수하고 글로벌 빅테크와 사모펀드에 투자안내서를 보낸 것으로 전해졌다.",
+        "body": "독일 딜리버리히어로(DH)가 배달의민족을 인수한 지 7년 만에 매각 절차에 착수한 것으로 전해졌다. 매일경제에 따르면 DH는 글로벌 빅테크와 사모펀드 등에 배달의민족 투자안내서를 발송했다. 배달의민족은 DH가 약 4조8000억원에 인수했던 국내 배달 플랫폼으로, 이번 매각 희망가는 약 8조원 수준으로 거론된다. 후보군으로는 아시아 플랫폼 확장을 노리는 메이퇀, 신세계와 손잡은 알리바바 등 중국 기업들이 유력하게 꼽힌다. 거래가 성사되면 국내 배달 플랫폼 시장과 아시아 플랫폼 경쟁 구도에 영향을 줄 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Baemin Sale Begins as Germany’s DH Seeks New Owner at Around 8 Trillion Won",
+        "excerpt": "Germany’s Delivery Hero has reportedly begun the sale process for Baemin seven years after acquiring it, sending investment memorandums to global big tech firms and private equity funds.",
+        "body": "Germany’s Delivery Hero (DH) has reportedly begun the process of selling Baemin seven years after acquiring the Korean delivery platform. According to Maeil Business Newspaper, DH has sent investment memorandums for Baemin to global big tech companies and private equity funds. Baemin was acquired by DH for about 4.8 trillion won, while the current asking price is being discussed at around 8 trillion won. Likely candidates are said to include Chinese companies such as Meituan, which is seeking to expand its Asian platform presence, and Alibaba, which has partnered with Shinsegae. If completed, the deal could affect South Korea’s delivery platform market and the competitive landscape for Asian platforms. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "配達の民族売却に着手、独DHが約8兆ウォンで新たな買い手探す",
+        "excerpt": "ドイツのデリバリーヒーローが買収から7年で配達の民族の売却手続きに入り、世界のビッグテックやPEファンドに投資案内書を送ったと伝えられた。",
+        "body": "ドイツのデリバリーヒーロー（DH）が、韓国の配達アプリ「配達の民族」を買収してから7年で売却手続きに着手したと伝えられた。毎日経済によると、DHは世界のビッグテック企業やプライベートエクイティファンドなどに、配達の民族の投資案内書を送付した。配達の民族はDHが約4兆8000億ウォンで買収した国内配達プラットフォームで、今回の売却希望額は約8兆ウォン水準とされる。有力候補には、アジアでのプラットフォーム拡大を狙う美団や、新世界と提携したアリババなど中国企業が挙げられている。取引が成立すれば、韓国の配達プラットフォーム市場とアジアの競争構図に影響を与える可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "外卖民族启动出售，德国DH寻求约8万亿韩元新买家",
+        "excerpt": "德国Delivery Hero据称在收购外卖民族7年后启动出售程序，并已向全球大型科技公司和私募基金发送投资说明书。",
+        "body": "德国Delivery Hero（DH）据称在收购韩国外卖平台“外卖民族”7年后，已启动出售程序。据《每日经济》报道，DH已向全球大型科技公司和私募基金等发送外卖民族的投资说明书。外卖民族是DH曾以约4.8万亿韩元收购的韩国配送平台，此次出售意向价格被提及为约8万亿韩元。有力候选方包括寻求扩大亚洲平台业务的美团，以及与新世界合作的阿里巴巴等中国企业。如果交易达成，可能影响韩国外卖平台市场以及亚洲平台竞争格局。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Baemin sale al inicio: la alemana DH busca comprador por unos 8 billones de wones",
+        "excerpt": "Delivery Hero de Alemania habría iniciado la venta de Baemin siete años después de comprarla, enviando memorandos de inversión a big tech globales y fondos de capital privado.",
+        "body": "Delivery Hero (DH) de Alemania habría iniciado el proceso para vender Baemin siete años después de adquirir la plataforma coreana de reparto. Según Maeil Business Newspaper, DH envió memorandos de inversión sobre Baemin a grandes tecnológicas globales y fondos de capital privado. Baemin fue comprada por DH por unos 4,8 billones de wones, mientras que el precio esperado para esta venta se menciona en torno a 8 billones de wones. Entre los posibles candidatos figuran empresas chinas como Meituan, que busca expandir sus plataformas en Asia, y Alibaba, asociada con Shinsegae. Si la operación se concreta, podría influir en el mercado coreano de plataformas de reparto y en la competencia de plataformas en Asia. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Venda da Baemin avança, e alemã DH busca novo dono por cerca de 8 trilhões de won",
+        "excerpt": "A alemã Delivery Hero teria iniciado a venda da Baemin sete anos após a aquisição, enviando memorandos de investimento a big techs globais e fundos de private equity.",
+        "body": "A alemã Delivery Hero (DH) teria iniciado o processo de venda da Baemin sete anos depois de adquirir a plataforma coreana de entregas. Segundo o Maeil Business Newspaper, a DH enviou memorandos de investimento sobre a Baemin a big techs globais e fundos de private equity. A Baemin foi comprada pela DH por cerca de 4,8 trilhões de won, enquanto o preço pretendido nesta venda é citado em torno de 8 trilhões de won. Entre os candidatos prováveis estão empresas chinesas como a Meituan, que busca expandir plataformas na Ásia, e a Alibaba, que se aliou à Shinsegae. Se concluído, o negócio pode afetar o mercado coreano de plataformas de entrega e a disputa entre plataformas asiáticas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Baemin-Verkauf startet: Deutschlands DH sucht Käufer für rund 8 Billionen Won",
+        "excerpt": "Delivery Hero aus Deutschland soll sieben Jahre nach der Übernahme den Verkauf von Baemin eingeleitet und Investmentunterlagen an globale Big-Tech-Konzerne und Private-Equity-Fonds verschickt haben.",
+        "body": "Delivery Hero (DH) aus Deutschland soll sieben Jahre nach der Übernahme der koreanischen Lieferplattform Baemin den Verkaufsprozess eingeleitet haben. Laut Maeil Business Newspaper hat DH Investmentunterlagen zu Baemin an globale Big-Tech-Unternehmen und Private-Equity-Fonds versandt. DH hatte Baemin für rund 4,8 Billionen Won übernommen; der nun genannte angestrebte Verkaufspreis liegt bei etwa 8 Billionen Won. Als wahrscheinliche Kandidaten gelten chinesische Unternehmen wie Meituan, das seine Plattformpräsenz in Asien ausbauen will, sowie Alibaba, das mit Shinsegae kooperiert. Kommt die Transaktion zustande, könnte sie den koreanischen Lieferplattformmarkt und den Wettbewerb asiatischer Plattformen beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Baemin mis en vente: l’allemand DH cherche un repreneur autour de 8 billions de wons",
+        "excerpt": "L’allemand Delivery Hero aurait lancé la vente de Baemin sept ans après son acquisition, en envoyant des mémorandums d’investissement à de grandes tech mondiales et à des fonds de private equity.",
+        "body": "Delivery Hero (DH), groupe allemand, aurait lancé le processus de vente de Baemin sept ans après avoir acquis la plateforme coréenne de livraison. Selon le Maeil Business Newspaper, DH a envoyé des mémorandums d’investissement sur Baemin à de grandes entreprises technologiques mondiales et à des fonds de private equity. Baemin avait été acquis par DH pour environ 4,8 billions de wons, tandis que le prix souhaité pour cette vente est évoqué autour de 8 billions de wons. Parmi les candidats probables figurent des entreprises chinoises comme Meituan, qui vise une expansion de ses plateformes en Asie, et Alibaba, partenaire de Shinsegae. Si elle aboutit, l’opération pourrait peser sur le marché coréen des plateformes de livraison et sur la concurrence en Asie. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بدء بيع Baemin: الألمانية DH تبحث عن مالك جديد بنحو 8 تريليونات وون",
+        "excerpt": "أفادت تقارير بأن دليفري هيرو الألمانية بدأت بيع Baemin بعد سبع سنوات من الاستحواذ عليها، وأرسلت مذكرات استثمار إلى شركات تقنية عالمية وصناديق ملكية خاصة.",
+        "body": "أفادت تقارير بأن شركة دليفري هيرو الألمانية (DH) بدأت إجراءات بيع منصة Baemin الكورية للتوصيل بعد سبع سنوات من الاستحواذ عليها. وبحسب صحيفة Maeil Business Newspaper، أرسلت DH مذكرات استثمار خاصة بـ Baemin إلى شركات تقنية عالمية كبرى وصناديق ملكية خاصة. وكانت DH قد استحوذت على Baemin بنحو 4.8 تريليونات وون، بينما يدور سعر البيع المطلوب حاليا حول 8 تريليونات وون. ومن بين المرشحين المحتملين شركات صينية مثل ميتوان، التي تسعى إلى توسيع منصاتها في آسيا، وعلي بابا التي تعاونت مع شينسيغيه. وإذا اكتملت الصفقة، فقد تؤثر في سوق منصات التوصيل الكورية وفي خريطة المنافسة بين المنصات الآسيوية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Baemin बिक्री प्रक्रिया शुरू, जर्मनी की DH करीब 8 ट्रिलियन वॉन में खरीदार तलाश रही",
+        "excerpt": "जर्मनी की Delivery Hero ने Baemin के अधिग्रहण के सात साल बाद इसकी बिक्री प्रक्रिया शुरू की बताई जाती है और वैश्विक बिग टेक व निजी इक्विटी फंडों को निवेश ज्ञापन भेजे हैं।",
+        "body": "जर्मनी की Delivery Hero (DH) ने कोरियाई डिलीवरी प्लेटफॉर्म Baemin को खरीदने के सात साल बाद इसकी बिक्री प्रक्रिया शुरू की है, ऐसी रिपोर्ट है। Maeil Business Newspaper के अनुसार, DH ने Baemin के लिए वैश्विक बिग टेक कंपनियों और निजी इक्विटी फंडों को निवेश ज्ञापन भेजे हैं। DH ने Baemin को लगभग 4.8 ट्रिलियन वॉन में खरीदा था, जबकि इस बिक्री में अपेक्षित कीमत करीब 8 ट्रिलियन वॉन बताई जा रही है। संभावित दावेदारों में एशिया में प्लेटफॉर्म विस्तार चाहने वाली Meituan और Shinsegae के साथ हाथ मिलाने वाली Alibaba जैसी चीनी कंपनियां शामिल मानी जा रही हैं। सौदा पूरा हुआ तो यह कोरिया के डिलीवरी प्लेटफॉर्म बाजार और एशियाई प्लेटफॉर्म प्रतिस्पर्धा पर असर डाल सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Penjualan Baemin Dimulai, DH Jerman Cari Pemilik Baru Sekitar 8 Triliun Won",
+        "excerpt": "Delivery Hero asal Jerman dilaporkan mulai menjual Baemin tujuh tahun setelah akuisisi, dengan mengirim memorandum investasi ke big tech global dan dana ekuitas swasta.",
+        "body": "Delivery Hero (DH) asal Jerman dilaporkan telah memulai proses penjualan Baemin tujuh tahun setelah mengakuisisi platform pengantaran Korea tersebut. Menurut Maeil Business Newspaper, DH telah mengirim memorandum investasi Baemin kepada perusahaan big tech global dan dana ekuitas swasta. Baemin sebelumnya diakuisisi DH sekitar 4,8 triliun won, sementara harga yang diharapkan dalam penjualan kali ini disebut berada di kisaran 8 triliun won. Kandidat kuat yang disebut termasuk perusahaan China seperti Meituan, yang ingin memperluas platformnya di Asia, serta Alibaba yang telah bermitra dengan Shinsegae. Jika transaksi selesai, hal ini dapat memengaruhi pasar platform pengantaran Korea dan peta persaingan platform Asia. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "969ae89e6c46",
+    "slug": "hoooever-무니코틴-신제품-hooo25-공개-927925",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T08:45:08.620Z",
+    "updatedAt": "2026-05-13T08:45:08.620Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046377",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046377",
+    "titleFingerprint": "6963aff12d99cdf5b2afd358f6e6f455715de129",
+    "dedupKeys": [
+      "969ae89e6c468e3deff30d90313117d5db847804",
+      "6963aff12d99cdf5b2afd358f6e6f455715de129",
+      "d6abf8bc366b7361049adb888a4f75d2ed925c40"
+    ],
+    "imageUrl": "/images/articles/969ae89e6c46.jpg",
+    "i18n": {
+      "ko": {
+        "title": "HOOOEVER, 무니코틴 전자 디바이스 HOOO25 5월 18일 공식 출시",
+        "excerpt": "대한민국 고유 브랜드 HOOO를 출원한 글로벌 디바이스 브랜드 HOOOEVER가 무니코틴 신제품 HOOO25를 2026년 5월 18일 공식 출시한다고 밝혔다.",
+        "body": "글로벌 디바이스 브랜드 HOOOEVER가 새로운 무니코틴 전자 디바이스 ‘HOOO25’를 오는 2026년 5월 18일 공식 출시한다고 밝혔다. HOOOEVER는 대한민국 고유 브랜드 HOOO를 출원한 브랜드로, 이번 신제품 공개를 통해 HOOO 라인업을 알렸다. 공개된 내용에 따르면 HOOO25는 무니코틴 신제품으로 소개됐으며, 공식 출시 일정은 2026년 5월 18일로 제시됐다. 이번 발표는 국내 고유 브랜드 출원과 신제품 출시 계획을 함께 알린 사례로, 향후 시장 반응은 출시 이후 확인될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HOOOEVER to Launch Nicotine-Free HOOO25 Device on May 18, 2026",
+        "excerpt": "Global device brand HOOOEVER, which filed Korea-origin brand HOOO, said it will officially launch its nicotine-free HOOO25 device on May 18, 2026.",
+        "body": "Global device brand HOOOEVER announced that it will officially launch its new nicotine-free electronic device, ‘HOOO25,’ on May 18, 2026. HOOOEVER is described as a brand that filed the Korea-origin brand HOOO, and the new product reveal introduces the HOOO lineup. According to the disclosed information, HOOO25 is presented as a nicotine-free new product, with the official launch date set for May 18, 2026. The announcement highlights both the Korean brand filing and the planned product release, while market response will become clearer after launch. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "HOOOEVER、ニコチンなし新製品HOOO25を2026年5月18日発売",
+        "excerpt": "韓国固有ブランドHOOOを出願したグローバルデバイスブランドHOOOEVERが、ニコチンなし新製品HOOO25を2026年5月18日に正式発売すると明らかにした。",
+        "body": "グローバルデバイスブランドHOOOEVERは、新しいニコチンなし電子デバイス『HOOO25』を2026年5月18日に正式発売すると明らかにした。HOOOEVERは韓国固有ブランドHOOOを出願したブランドで、今回の新製品公開を通じてHOOOラインアップを知らせた。公開内容によると、HOOO25はニコチンなしの新製品として紹介され、正式発売日は2026年5月18日と示された。今回の発表は、韓国固有ブランドの出願と新製品発売計画を同時に伝えるもので、市場の反応は発売後に確認される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "HOOOEVER将于2026年5月18日发布无尼古丁新品HOOO25",
+        "excerpt": "申请韩国本土品牌HOOO的全球设备品牌HOOOEVER表示，将于2026年5月18日正式推出无尼古丁电子设备新品HOOO25。",
+        "body": "全球设备品牌HOOOEVER表示，将于2026年5月18日正式推出新的无尼古丁电子设备“HOOO25”。HOOOEVER是申请韩国本土品牌HOOO的品牌，此次新品公开也对外介绍了HOOO产品线。根据已公开内容，HOOO25被介绍为无尼古丁新品，正式上市日期定为2026年5月18日。此次发布同时传达了韩国本土品牌申请和新品上市计划，市场反应预计将在产品推出后进一步确认。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "HOOOEVER lanzará el dispositivo sin nicotina HOOO25 el 18 de mayo de 2026",
+        "excerpt": "La marca global de dispositivos HOOOEVER, que registró la marca coreana HOOO, anunció el lanzamiento oficial de su nuevo HOOO25 sin nicotina el 18 de mayo de 2026.",
+        "body": "La marca global de dispositivos HOOOEVER anunció que lanzará oficialmente su nuevo dispositivo electrónico sin nicotina, ‘HOOO25’, el 18 de mayo de 2026. HOOOEVER es presentada como la marca que solicitó el registro de la marca coreana HOOO, y con esta presentación dio a conocer la línea HOOO. Según la información divulgada, HOOO25 se describe como un nuevo producto sin nicotina, con fecha oficial de lanzamiento fijada para el 18 de mayo de 2026. El anuncio comunica tanto la solicitud de la marca coreana como el plan de lanzamiento, mientras que la respuesta del mercado se confirmará tras su salida. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "HOOOEVER lança dispositivo sem nicotina HOOO25 em 18 de maio de 2026",
+        "excerpt": "A marca global de dispositivos HOOOEVER, que registrou a marca coreana HOOO, anunciou o lançamento oficial do novo HOOO25 sem nicotina em 18 de maio de 2026.",
+        "body": "A marca global de dispositivos HOOOEVER anunciou que lançará oficialmente seu novo dispositivo eletrônico sem nicotina, ‘HOOO25’, em 18 de maio de 2026. A HOOOEVER é apresentada como a marca que solicitou o registro da marca coreana HOOO, e a revelação do novo produto apresenta a linha HOOO. Segundo as informações divulgadas, o HOOO25 é descrito como um novo produto sem nicotina, com lançamento oficial marcado para 18 de maio de 2026. O anúncio reúne a solicitação da marca coreana e o plano de lançamento do produto, enquanto a reação do mercado deverá ser verificada após a estreia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HOOOEVER bringt nikotinfreies Gerät HOOO25 am 18. Mai 2026 offiziell auf den Markt",
+        "excerpt": "Die globale Gerätemarke HOOOEVER, die die koreanische Marke HOOO angemeldet hat, kündigte den offiziellen Start des nikotinfreien HOOO25 am 18. Mai 2026 an.",
+        "body": "Die globale Gerätemarke HOOOEVER gab bekannt, dass sie ihr neues nikotinfreies elektronisches Gerät ‘HOOO25’ am 18. Mai 2026 offiziell auf den Markt bringen wird. HOOOEVER wird als Marke beschrieben, die die koreanische Eigenmarke HOOO angemeldet hat, und stellte mit der Produktankündigung die HOOO-Linie vor. Den veröffentlichten Angaben zufolge wird HOOO25 als nikotinfreies neues Produkt präsentiert; der offizielle Starttermin ist der 18. Mai 2026. Die Mitteilung verbindet die Anmeldung der koreanischen Marke mit dem geplanten Produktstart. Die Marktreaktion dürfte sich nach der Einführung zeigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "HOOOEVER lancera l’appareil sans nicotine HOOO25 le 18 mai 2026",
+        "excerpt": "La marque mondiale de dispositifs HOOOEVER, qui a déposé la marque coréenne HOOO, a annoncé le lancement officiel du nouveau HOOO25 sans nicotine le 18 mai 2026.",
+        "body": "La marque mondiale de dispositifs HOOOEVER a annoncé qu’elle lancera officiellement son nouveau dispositif électronique sans nicotine, ‘HOOO25’, le 18 mai 2026. HOOOEVER est présentée comme la marque ayant déposé la marque coréenne HOOO, et cette présentation dévoile la gamme HOOO. Selon les informations communiquées, HOOO25 est décrit comme un nouveau produit sans nicotine, avec une date de lancement officiel fixée au 18 mai 2026. L’annonce met en avant à la fois le dépôt de la marque coréenne et le plan de lancement du produit, tandis que la réaction du marché sera observable après la sortie. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "HOOOEVER تطلق جهاز HOOO25 الخالي من النيكوتين في 18 مايو 2026",
+        "excerpt": "أعلنت علامة الأجهزة العالمية HOOOEVER، التي تقدمت بطلب تسجيل العلامة الكورية HOOO، أنها ستطلق رسميا جهازها الإلكتروني الجديد HOOO25 الخالي من النيكوتين في 18 مايو 2026.",
+        "body": "أعلنت علامة الأجهزة العالمية HOOOEVER أنها ستطلق رسميا جهازها الإلكتروني الجديد الخالي من النيكوتين ‘HOOO25’ في 18 مايو 2026. وتوصف HOOOEVER بأنها العلامة التي تقدمت بطلب تسجيل العلامة الكورية HOOO، وقد عرّف الكشف عن المنتج الجديد بخط HOOO. ووفقا للمعلومات المعلنة، قُدم HOOO25 كمنتج جديد خال من النيكوتين، مع تحديد موعد الإطلاق الرسمي في 18 مايو 2026. يجمع الإعلان بين طلب تسجيل العلامة الكورية وخطة طرح المنتج، فيما سيتضح رد فعل السوق بعد الإطلاق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "HOOOEVER 18 मई 2026 को निकोटीन-रहित HOOO25 डिवाइस लॉन्च करेगी",
+        "excerpt": "कोरिया-आधारित ब्रांड HOOO के लिए आवेदन करने वाली वैश्विक डिवाइस ब्रांड HOOOEVER ने कहा कि वह 18 मई 2026 को निकोटीन-रहित HOOO25 आधिकारिक रूप से लॉन्च करेगी।",
+        "body": "वैश्विक डिवाइस ब्रांड HOOOEVER ने घोषणा की कि वह अपना नया निकोटीन-रहित इलेक्ट्रॉनिक डिवाइस ‘HOOO25’ 18 मई 2026 को आधिकारिक रूप से लॉन्च करेगी। HOOOEVER को कोरिया के स्वदेशी ब्रांड HOOO के लिए आवेदन करने वाली ब्रांड के रूप में बताया गया है, और इस नए उत्पाद के खुलासे के साथ HOOO लाइनअप को पेश किया गया। उपलब्ध जानकारी के अनुसार, HOOO25 को निकोटीन-रहित नए उत्पाद के रूप में प्रस्तुत किया गया है और इसकी आधिकारिक लॉन्च तिथि 18 मई 2026 तय की गई है। यह घोषणा कोरियाई ब्रांड आवेदन और उत्पाद लॉन्च योजना दोनों को सामने रखती है; बाजार की प्रतिक्रिया लॉन्च के बाद स्पष्ट होगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "HOOOEVER Luncurkan Perangkat Bebas Nikotin HOOO25 pada 18 Mei 2026",
+        "excerpt": "Merek perangkat global HOOOEVER, yang mengajukan merek Korea HOOO, menyatakan akan resmi meluncurkan perangkat elektronik bebas nikotin HOOO25 pada 18 Mei 2026.",
+        "body": "Merek perangkat global HOOOEVER mengumumkan akan resmi meluncurkan perangkat elektronik bebas nikotin terbaru, ‘HOOO25’, pada 18 Mei 2026. HOOOEVER disebut sebagai merek yang mengajukan merek khas Korea HOOO, dan pengungkapan produk baru ini memperkenalkan lini HOOO. Berdasarkan informasi yang dirilis, HOOO25 diperkenalkan sebagai produk baru bebas nikotin, dengan jadwal peluncuran resmi pada 18 Mei 2026. Pengumuman ini menyampaikan pengajuan merek Korea sekaligus rencana peluncuran produk, sementara respons pasar akan terlihat setelah peluncuran. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "fec97760bec9",
     "slug": "조국-유세-중-부상-눈두덩이-붓고-멍들어뚜벅이는-계속된다-762246",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Google Ubah Android dari OS Mobile Menjadi Platform AI Bertindak",
         "excerpt": "Google memaparkan cetak biru untuk menaikkan AI dari fitur pendukung smartphone menjadi inti Android, sehingga seluruh sistem berubah menjadi platform AI berorientasi tindakan.",
         "body": "Google mengungkap rencana untuk menaikkan kecerdasan buatan (AI) dari tingkat fitur pendukung smartphone dan mengubah seluruh Android menjadi “platform AI berorientasi tindakan”. Cetak biru ini berfokus pada perubahan Android dari sistem operasi mobile yang sekadar menjalankan aplikasi menjadi platform berbasis AI yang dapat memahami permintaan pengguna dan membantu menjalankannya. Latar belakangnya adalah pergeseran dari chatbot yang hanya menjawab pertanyaan menuju AI yang mendukung tindakan nyata. Strategi Google menunjukkan perluasan peran AI di smartphone, dari fungsi pinggiran menjadi kemampuan inti di seluruh sistem operasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "dae3e6d1f135",
-    "slug": "사진-찍을-때-v-그러다-싹-털린다지문복제-ai에-개인정보-유출-주의보-815208",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T17:01:03.524Z",
-    "updatedAt": "2026-05-12T17:01:03.524Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12045306",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12045306",
-    "titleFingerprint": "823b05c2c7f9af56cc8a27c73a0002020b788646",
-    "dedupKeys": [
-      "dae3e6d1f13594f8be29bf02fe0a589679c18a1a",
-      "823b05c2c7f9af56cc8a27c73a0002020b788646",
-      "f44ea4552cff423a5fe85b3197acf89cae2af0bb"
-    ],
-    "imageUrl": "/images/articles/dae3e6d1f135.png",
-    "i18n": {
-      "ko": {
-        "title": "지문복제 AI 경고, 사진 속 ‘V’ 포즈도 개인정보 유출 통로 된다",
-        "excerpt": "12일 SCMP 보도에 따르면 사진 촬영 때 흔히 하는 ‘브이(V)’ 포즈가 지문복제 AI를 통한 개인정보 유출로 이어질 수 있어 이용자 주의가 요구된다.",
-        "body": "사진을 찍을 때 손가락으로 ‘브이(V)’를 만드는 익숙한 포즈가 개인정보 유출 위험으로 지목됐다. 12일 홍콩 매체 사우스차이나모닝포스트(SCMP)에 따르면 최근 지문복제 AI와 관련해 사진 속 손가락 정보가 악용될 수 있다는 주의보가 나왔다. 배경은 온라인에 올린 사진에서도 손가락 지문이 노출될 수 있다는 점이다. 특히 인증 수단으로 지문을 쓰는 환경이 넓어진 만큼, 무심코 공개한 이미지가 개인정보 보호의 취약 지점이 될 수 있다. 이용자는 사진 게시 전 손가락 노출 여부를 확인할 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Fingerprint-Cloning AI Warning: ‘V’ Photo Pose May Expose Personal Data",
-        "excerpt": "According to SCMP reporting on May 12, the common ‘V’ sign pose in photos may lead to personal data exposure through fingerprint-cloning AI, prompting caution for users.",
-        "body": "A familiar pose of making a ‘V’ sign with the fingers when taking photos has been flagged as a potential personal data risk. According to Hong Kong media outlet South China Morning Post on May 12, a recent warning said finger information visible in photos could be misused in connection with fingerprint-cloning AI. The concern is that fingerprints may be exposed even in images uploaded online. As fingerprint authentication is widely used, casually shared photos could become a weak point for personal information protection. Users are advised to check whether fingers are clearly shown before posting images. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "指紋複製AIに警告、写真の「V」ポーズも個人情報流出の恐れ",
-        "excerpt": "12日のSCMP報道によると、写真撮影でよく使われる「V」サインのポーズが、指紋複製AIを通じた個人情報流出につながる恐れがあるとして注意が呼びかけられている。",
-        "body": "写真を撮る際に指で「V」サインを作るおなじみのポーズが、個人情報流出のリスクとして指摘された。12日、香港メディアのサウスチャイナ・モーニング・ポスト（SCMP）によると、最近、指紋複製AIに関連し、写真に写った指の情報が悪用される可能性があるとの注意喚起が出た。背景には、オンラインに投稿した写真でも指紋が露出し得る点がある。指紋認証の利用が広がるなか、何気なく公開した画像が個人情報保護の弱点になり得る。投稿前に指の写り方を確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "指纹复制AI警报：拍照比“V”也可能成为个人信息泄露入口",
-        "excerpt": "据SCMP 12日报道，拍照时常见的“V”字手势可能通过指纹复制AI导致个人信息泄露，相关风险引发用户注意。",
-        "body": "拍照时用手指比出“V”字的常见姿势，被指出可能带来个人信息泄露风险。据香港媒体《南华早报》（SCMP）12日报道，近期有警示称，与指纹复制AI相关，照片中可见的手指信息可能被滥用。其背景在于，即使是上传到网络的照片，也可能暴露指纹。随着指纹认证作为身份验证方式被广泛使用，随手公开的图片可能成为个人信息保护的薄弱环节。用户在发布照片前，有必要确认手指是否清晰露出。来源：mk.co.kr"
-      },
-      "es": {
-        "title": "Alerta por IA que clona huellas: la pose de ‘V’ en fotos puede filtrar datos",
-        "excerpt": "Según informó SCMP el 12 de mayo, la popular pose de ‘V’ al tomar fotografías podría derivar en exposición de datos personales mediante IA de clonación de huellas.",
-        "body": "La conocida pose de hacer una ‘V’ con los dedos al tomar fotografías fue señalada como un posible riesgo para la privacidad. Según el medio de Hong Kong South China Morning Post el 12 de mayo, una advertencia reciente indicó que la información de los dedos visible en fotos podría ser utilizada indebidamente en relación con IA de clonación de huellas. El contexto es que las huellas pueden quedar expuestas incluso en imágenes subidas a internet. Dado el uso extendido de la autenticación por huella, una foto compartida sin cuidado puede convertirse en un punto débil para proteger datos personales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Alerta sobre IA que clona digitais: pose de ‘V’ em fotos pode expor dados",
-        "excerpt": "Segundo o SCMP em 12 de maio, a pose comum de ‘V’ em fotografias pode levar à exposição de dados pessoais por meio de IA de clonagem de impressões digitais.",
-        "body": "A pose familiar de fazer um ‘V’ com os dedos ao tirar fotos foi apontada como possível risco de vazamento de dados pessoais. Segundo o South China Morning Post, de Hong Kong, em 12 de maio, um alerta recente afirmou que informações dos dedos visíveis em fotos podem ser usadas indevidamente em conexão com IA de clonagem de impressões digitais. A preocupação é que digitais possam ficar expostas mesmo em imagens publicadas online. Com a ampla adoção da autenticação por impressão digital, fotos compartilhadas sem atenção podem se tornar um ponto vulnerável na proteção de dados pessoais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Warnung vor Fingerabdruck-KI: ‘V’-Pose auf Fotos kann Daten preisgeben",
-        "excerpt": "Laut SCMP-Bericht vom 12. Mai kann die gängige ‘V’-Pose beim Fotografieren durch Fingerabdruck-klonende KI zur Offenlegung persönlicher Daten führen.",
-        "body": "Die vertraute Geste, beim Fotografieren mit den Fingern ein ‘V’ zu zeigen, wird als mögliches Risiko für persönliche Daten genannt. Wie die Hongkonger Zeitung South China Morning Post am 12. Mai berichtete, warnte ein aktueller Hinweis davor, dass sichtbare Fingerinformationen auf Fotos im Zusammenhang mit Fingerabdruck-klonender KI missbraucht werden könnten. Hintergrund ist, dass Fingerabdrücke selbst auf online hochgeladenen Bildern sichtbar sein können. Da Fingerabdruck-Authentifizierung weit verbreitet ist, können beiläufig veröffentlichte Fotos zu einer Schwachstelle beim Datenschutz werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Alerte à l’IA de copie d’empreintes: le signe ‘V’ en photo peut exposer vos données",
-        "excerpt": "Selon le SCMP le 12 mai, le geste ‘V’ souvent fait sur les photos pourrait entraîner une fuite de données personnelles via l’IA de copie d’empreintes digitales.",
-        "body": "Le geste familier consistant à former un ‘V’ avec les doigts lors d’une photo est présenté comme un risque potentiel pour les données personnelles. Selon le média hongkongais South China Morning Post le 12 mai, une alerte récente indique que les informations des doigts visibles sur les photos pourraient être détournées en lien avec l’IA de copie d’empreintes digitales. Le contexte tient au fait que des empreintes peuvent être exposées même dans des images mises en ligne. Avec l’usage répandu de l’authentification par empreinte, une photo partagée sans attention peut devenir un point faible pour la protection des données. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تحذير من ذكاء اصطناعي ينسخ البصمات: إشارة V في الصور قد تكشف بياناتك",
-        "excerpt": "بحسب تقرير SCMP في 12 مايو، قد تؤدي إشارة V الشائعة عند التقاط الصور إلى تسرب بيانات شخصية عبر ذكاء اصطناعي قادر على نسخ البصمات، ما يستدعي الحذر.",
-        "body": "أُشير إلى وضعية مألوفة عند التقاط الصور، وهي صنع إشارة V بالأصابع، باعتبارها خطرا محتملا على البيانات الشخصية. ووفقا لصحيفة ساوث تشاينا مورنينغ بوست في هونغ كونغ في 12 مايو، صدر تحذير حديث من أن معلومات الأصابع الظاهرة في الصور قد تُساء استخدامها في سياق الذكاء الاصطناعي القادر على نسخ البصمات. وتكمن الخلفية في أن البصمات قد تظهر حتى في الصور المنشورة على الإنترنت. ومع اتساع استخدام البصمة كوسيلة تحقق، قد تصبح الصور المنشورة بلا انتباه نقطة ضعف في حماية الخصوصية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "फिंगरप्रिंट-क्लोनिंग AI चेतावनी: फोटो में ‘V’ पोज से डेटा लीक का खतरा",
-        "excerpt": "12 मई की SCMP रिपोर्ट के अनुसार, फोटो लेते समय आम ‘V’ पोज फिंगरप्रिंट-क्लोनिंग AI के जरिए निजी जानकारी के खुलासे का कारण बन सकता है, इसलिए सावधानी जरूरी है।",
-        "body": "फोटो लेते समय उंगलियों से ‘V’ बनाना एक आम पोज है, लेकिन इसे निजी जानकारी के जोखिम के रूप में चिन्हित किया गया है। 12 मई को हांगकांग मीडिया साउथ चाइना मॉर्निंग पोस्ट के अनुसार, हाल में चेतावनी दी गई कि तस्वीरों में दिख रही उंगलियों की जानकारी फिंगरप्रिंट-क्लोनिंग AI से जुड़े दुरुपयोग का कारण बन सकती है। चिंता यह है कि ऑनलाइन डाली गई तस्वीरों में भी फिंगरप्रिंट उजागर हो सकते हैं। जब फिंगरप्रिंट प्रमाणीकरण व्यापक रूप से इस्तेमाल हो रहा है, तो बिना सोचे साझा की गई तस्वीर निजी डेटा सुरक्षा की कमजोर कड़ी बन सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Peringatan AI Penyalin Sidik Jari: Pose ‘V’ di Foto Bisa Bocorkan Data",
-        "excerpt": "Menurut laporan SCMP pada 12 Mei, pose ‘V’ yang umum saat berfoto dapat memicu kebocoran data pribadi melalui AI penyalin sidik jari, sehingga pengguna diminta berhati-hati.",
-        "body": "Pose akrab membuat tanda ‘V’ dengan jari saat berfoto disebut sebagai potensi risiko kebocoran data pribadi. Menurut media Hong Kong South China Morning Post pada 12 Mei, peringatan terbaru menyebut informasi jari yang terlihat dalam foto dapat disalahgunakan terkait AI penyalin sidik jari. Kekhawatirannya, sidik jari bisa terekspos bahkan dalam foto yang diunggah secara online. Karena autentikasi sidik jari makin luas digunakan, gambar yang dibagikan tanpa perhatian dapat menjadi titik lemah perlindungan data pribadi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9e8c817075c4",
-    "slug": "쿠웨이트-해안-침투한-이란-혁명수비대와-교전4명-체포-746291",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T16:59:23.222Z",
-    "updatedAt": "2026-05-12T16:59:23.222Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12045396",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12045396",
-    "titleFingerprint": "9b431ab839d296eb5850a18319cfc4ded197966c",
-    "dedupKeys": [
-      "9e8c817075c4a4a810a28049ce1ef6fabf0195a5",
-      "9b431ab839d296eb5850a18319cfc4ded197966c",
-      "48d5e8aa75e852aafc9316ec68c58e7b4b225449"
-    ],
-    "imageUrl": "/images/articles/9e8c817075c4.png",
-    "i18n": {
-      "ko": {
-        "title": "쿠웨이트, 해안 침투 이란 혁명수비대와 교전…4명 체포 발표",
-        "excerpt": "쿠웨이트군은 12일 현지 국영 KUNA통신 보도에 따라 이달 1일 해안 국경을 침입한 이란 이슬람혁명수비대 4명을 교전 끝에 체포했다고 밝혔다.",
-        "body": "쿠웨이트군이 해안으로 침투한 이란 이슬람혁명수비대 4명을 체포했다고 12일 현지 국영 KUNA통신이 보도했다. 쿠웨이트 내무부와 국방부는 이달 1일 국경을 침입한 이란 이슬람혁명수비대 인원들과 교전이 있었으며, 이후 4명을 붙잡았다고 밝혔다. 보도에 따르면 이번 사안은 해안 국경을 통한 침투와 관련된 사건으로, 쿠웨이트 당국은 체포 사실을 공식 확인했다. 다만 원문에는 체포된 인원들의 구체적 신원, 침투 목적, 추가 피해 여부 등은 제시되지 않았다. 이번 발표는 쿠웨이트의 해안 및 국경 경계와 관련한 안보 사안으로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kuwait Says It Clashed With IRGC Members on Coast, Arrested Four",
-        "excerpt": "Kuwait’s military said, according to state KUNA on May 12, that it arrested four Iranian Revolutionary Guard members after a clash over a May 1 coastal border intrusion.",
-        "body": "Kuwait’s military arrested four members of Iran’s Islamic Revolutionary Guard Corps who had infiltrated the coast, state-run KUNA reported on May 12 local time. Kuwait’s Interior Ministry and Defense Ministry said IRGC personnel crossed the border on May 1 and that a clash took place before four people were detained. According to the report, the case involved an infiltration through the coastal border, and Kuwaiti authorities officially confirmed the arrests. The original report did not provide the detainees’ detailed identities, the purpose of the intrusion, or whether there were additional damages. The announcement draws attention as a security matter involving Kuwait’s coastal and border surveillance. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "クウェート、海岸侵入のイラン革命防衛隊と交戦…4人拘束",
-        "excerpt": "クウェート軍は12日、国営KUNA通信の報道として、今月1日に海岸国境へ侵入したイラン革命防衛隊員4人を交戦後に拘束したと明らかにした。",
-        "body": "クウェート軍が海岸から侵入したイラン・イスラム革命防衛隊の4人を拘束したと、現地時間12日に国営KUNA通信が報じた。クウェート内務省と国防省は、今月1日に国境を侵犯したイラン革命防衛隊員らとの交戦があり、その後4人を拘束したと明らかにした。報道によれば、今回の事案は海岸国境を通じた侵入に関連するもので、クウェート当局は拘束の事実を公式に確認した。ただし原文では、拘束された人物の詳しい身元、侵入目的、追加被害の有無などは示されていない。今回の発表は、クウェートの海岸および国境警備に関わる安全保障上の事案として注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "科威特称与海岸渗入的伊朗革命卫队交火，逮捕4人",
-        "excerpt": "据科威特国营KUNA通讯社12日报道，科威特军方称其逮捕了4名本月1日从海岸边境渗入的伊朗伊斯兰革命卫队成员。",
-        "body": "科威特军方逮捕了4名从海岸渗入的伊朗伊斯兰革命卫队成员，科威特国营KUNA通讯社当地时间12日报道。科威特内政部和国防部表示，本月1日有伊朗伊斯兰革命卫队人员侵犯边境，双方发生交火，随后4人被逮捕。报道称，该事件与通过海岸边境渗入有关，科威特当局已正式确认逮捕事实。不过，原文未说明被捕人员的具体身份、渗入目的以及是否造成其他损失。此次通报作为涉及科威特海岸和边境警戒的安全事件受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kuwait dice que chocó con miembros de la Guardia Revolucionaria iraní y arrestó a cuatro",
-        "excerpt": "El Ejército de Kuwait afirmó, según KUNA el 12 de mayo, que arrestó a cuatro miembros de la Guardia Revolucionaria iraní tras una incursión costera del 1 de mayo.",
-        "body": "El Ejército de Kuwait arrestó a cuatro miembros del Cuerpo de la Guardia Revolucionaria Islámica de Irán que se habían infiltrado por la costa, informó el 12 de mayo, hora local, la agencia estatal KUNA. Los ministerios kuwaitíes del Interior y Defensa dijeron que personal de la Guardia Revolucionaria iraní cruzó la frontera el 1 de mayo y que hubo un enfrentamiento antes de que cuatro personas fueran detenidas. Según el reporte, el caso está relacionado con una infiltración por la frontera costera, y las autoridades kuwaitíes confirmaron oficialmente los arrestos. El texto original no detalló la identidad de los detenidos, el propósito de la incursión ni si hubo daños adicionales. La declaración destaca como un asunto de seguridad ligado a la vigilancia costera y fronteriza de Kuwait. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kuwait diz ter confrontado Guarda Revolucionária do Irã na costa e prendido quatro",
-        "excerpt": "O Exército do Kuwait afirmou, segundo a KUNA em 12 de maio, que prendeu quatro membros da Guarda Revolucionária iraniana após uma incursão costeira em 1º de maio.",
-        "body": "O Exército do Kuwait prendeu quatro membros do Corpo da Guarda Revolucionária Islâmica do Irã que haviam se infiltrado pela costa, informou em 12 de maio, horário local, a agência estatal KUNA. Os ministérios do Interior e da Defesa do Kuwait disseram que integrantes da Guarda Revolucionária iraniana cruzaram a fronteira em 1º de maio e que houve um confronto antes da detenção de quatro pessoas. Segundo a reportagem, o caso está ligado a uma infiltração pela fronteira costeira, e as autoridades kuwaitianas confirmaram oficialmente as prisões. O texto original não informou a identidade detalhada dos detidos, o objetivo da incursão nem se houve danos adicionais. O anúncio chama atenção como questão de segurança relacionada à vigilância costeira e fronteiriça do Kuwait. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kuwait meldet Gefecht mit Irans Revolutionsgarde an Küste, vier Festnahmen",
-        "excerpt": "Kuwaits Militär erklärte laut KUNA am 12. Mai, es habe vier Mitglieder der iranischen Revolutionsgarde nach einem Küstengrenzübertritt am 1. Mai festgenommen.",
-        "body": "Kuwaits Militär hat vier Mitglieder der Islamischen Revolutionsgarde Irans festgenommen, die über die Küste eingedrungen seien, berichtete die staatliche Nachrichtenagentur KUNA am 12. Mai Ortszeit. Das Innen- und das Verteidigungsministerium Kuwaits erklärten, Personal der iranischen Revolutionsgarde habe am 1. Mai die Grenze verletzt, worauf es zu einem Gefecht gekommen sei; anschließend seien vier Personen festgenommen worden. Dem Bericht zufolge steht der Vorfall im Zusammenhang mit einem Eindringen über die Küstengrenze, und die kuwaitischen Behörden bestätigten die Festnahmen offiziell. Der Originalbericht nannte keine genauen Identitäten der Festgenommenen, keinen Zweck des Eindringens und keine Angaben zu weiteren Schäden. Die Mitteilung rückt als Sicherheitsfall zur Küsten- und Grenzüberwachung Kuwaits in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le Koweït dit avoir affronté des Gardiens de la révolution iraniens et arrêté quatre hommes",
-        "excerpt": "L’armée koweïtienne a déclaré, selon KUNA le 12 mai, avoir arrêté quatre membres des Gardiens de la révolution iraniens après une intrusion côtière le 1er mai.",
-        "body": "L’armée koweïtienne a arrêté quatre membres du Corps des Gardiens de la révolution islamique d’Iran qui s’étaient infiltrés par la côte, a rapporté le 12 mai, heure locale, l’agence publique KUNA. Les ministères koweïtiens de l’Intérieur et de la Défense ont indiqué que des membres des Gardiens de la révolution iraniens avaient franchi la frontière le 1er mai et qu’un affrontement avait eu lieu avant l’arrestation de quatre personnes. Selon le reportage, l’affaire concerne une infiltration par la frontière côtière, et les autorités koweïtiennes ont officiellement confirmé les arrestations. Le texte original ne précise pas l’identité détaillée des personnes arrêtées, le but de l’intrusion ni l’existence d’éventuels dommages supplémentaires. Cette annonce attire l’attention comme un dossier de sécurité lié à la surveillance côtière et frontalière du Koweït. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الكويت تعلن اشتباكا مع عناصر من الحرس الثوري الإيراني على الساحل واعتقال أربعة",
-        "excerpt": "قال الجيش الكويتي، وفق ما نقلته كونا في 12 مايو، إنه اعتقل أربعة من الحرس الثوري الإيراني بعد اشتباك أعقب تسللهم عبر الحدود الساحلية في 1 مايو.",
-        "body": "اعتقل الجيش الكويتي أربعة من عناصر الحرس الثوري الإسلامي الإيراني تسللوا عبر الساحل، بحسب ما أفادت وكالة الأنباء الكويتية الرسمية كونا في 12 مايو بالتوقيت المحلي. وقالت وزارتا الداخلية والدفاع في الكويت إن عناصر من الحرس الثوري الإيراني اخترقوا الحدود في 1 مايو، ووقع اشتباك قبل إلقاء القبض على أربعة منهم. ووفقا للتقرير، ترتبط القضية بتسلل عبر الحدود الساحلية، وقد أكدت السلطات الكويتية رسميا واقعة الاعتقال. ولم يورد النص الأصلي تفاصيل عن هويات المعتقلين أو هدف التسلل أو ما إذا كانت هناك أضرار إضافية. ويحظى الإعلان باهتمام بوصفه قضية أمنية تتعلق بمراقبة السواحل والحدود في الكويت. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कुवैत का दावा: तट से घुसे ईरानी रिवोल्यूशनरी गार्ड से झड़प, चार गिरफ्तार",
-        "excerpt": "कुवैती सेना ने 12 मई को सरकारी KUNA के हवाले से कहा कि उसने 1 मई को तटीय सीमा में घुसे ईरान के इस्लामिक रिवोल्यूशनरी गार्ड के चार सदस्यों को गिरफ्तार किया।",
-        "body": "कुवैती सेना ने तट के रास्ते घुसे ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के चार सदस्यों को गिरफ्तार किया, यह जानकारी 12 मई को स्थानीय समयानुसार सरकारी KUNA समाचार एजेंसी ने दी। कुवैत के आंतरिक मंत्रालय और रक्षा मंत्रालय ने कहा कि 1 मई को ईरानी रिवोल्यूशनरी गार्ड के कर्मियों ने सीमा का उल्लंघन किया और झड़प के बाद चार लोगों को पकड़ा गया। रिपोर्ट के अनुसार यह मामला तटीय सीमा के जरिये घुसपैठ से जुड़ा है, और कुवैती अधिकारियों ने गिरफ्तारी की पुष्टि की। मूल रिपोर्ट में गिरफ्तार लोगों की विस्तृत पहचान, घुसपैठ का उद्देश्य या किसी अतिरिक्त नुकसान की जानकारी नहीं दी गई। यह घोषणा कुवैत की तटीय और सीमा सुरक्षा से जुड़े मुद्दे के रूप में ध्यान खींचती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kuwait Sebut Bentrok dengan Garda Revolusi Iran di Pesisir, Empat Ditangkap",
-        "excerpt": "Militer Kuwait, menurut laporan KUNA pada 12 Mei, menyatakan telah menangkap empat anggota Garda Revolusi Iran setelah penyusupan lewat perbatasan pesisir pada 1 Mei.",
-        "body": "Militer Kuwait menangkap empat anggota Korps Garda Revolusi Islam Iran yang menyusup lewat pesisir, demikian dilaporkan kantor berita negara KUNA pada 12 Mei waktu setempat. Kementerian Dalam Negeri dan Kementerian Pertahanan Kuwait mengatakan personel Garda Revolusi Iran melanggar perbatasan pada 1 Mei, terjadi bentrokan, lalu empat orang ditangkap. Menurut laporan tersebut, kasus ini terkait penyusupan melalui perbatasan pesisir, dan otoritas Kuwait secara resmi mengonfirmasi penangkapan itu. Naskah asli tidak memuat identitas rinci para tahanan, tujuan penyusupan, atau apakah ada kerusakan tambahan. Pengumuman ini menjadi perhatian sebagai isu keamanan yang terkait dengan pengawasan pesisir dan perbatasan Kuwait. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "41f5b84e17b3",
-    "slug": "버닝썬-논란-이후-최대폭비위-논란-강남경찰서-물갈이-백해룡은-유임종합-912412",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T16:57:30.368Z",
-    "updatedAt": "2026-05-12T16:57:30.369Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12045397",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12045397",
-    "titleFingerprint": "6976be59a66941a2a5b66163a9d062490402de79",
-    "dedupKeys": [
-      "41f5b84e17b3a12ac52969b70ec3f6c0f8d43843",
-      "6976be59a66941a2a5b66163a9d062490402de79",
-      "2d7076d86b1803516bca5017d2cff8583861713e"
-    ],
-    "imageUrl": "/images/articles/41f5b84e17b3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "강남경찰서 수사·형사 책임자 전격 교체…백해룡은 유임",
-        "excerpt": "방송인 양정원 씨 관련 고소 사건을 담당한 서울 강남경찰서에서 12일 수사·형사 실무 책임자들이 비위 논란 속에 전격 교체됐고, 백해룡은 유임됐다.",
-        "body": "서울 강남경찰서에서 수사·형사 실무 책임자들이 12일 전격 교체됐다. 방송인 양정원 씨가 프랜차이즈 필라테스 학원 가맹점주들로부터 사기 등 혐의로 고소당한 사건을 담당했던 경찰서에서 비위 논란이 제기된 데 따른 인사로 전해졌다. 이번 교체는 버닝썬 논란 이후 최대폭의 물갈이로 언급됐다. 다만 백해룡은 유임됐다. 사건 담당 부서의 책임자 교체가 이뤄지면서 향후 수사 관리와 조직 내부 점검에 관심이 모인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gangnam Police Shake-Up Replaces Investigation Chiefs; Baek Hae-ryong Stays",
-        "excerpt": "On May 12, Seoul Gangnam Police Station replaced key investigation and criminal affairs officials amid misconduct controversy tied to a complaint case involving broadcaster Yang Jung-won.",
-        "body": "Seoul Gangnam Police Station abruptly replaced working-level heads of investigation and criminal affairs on May 12. The move came at the station that handled a case in which broadcaster Yang Jung-won was accused by franchise Pilates studio owners of fraud and other allegations. It was reported as a personnel change linked to misconduct controversy and described as the largest reshuffle since the Burning Sun scandal. Baek Hae-ryong, however, remained in place. The change is drawing attention to future investigation management and internal checks. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "江南警察署の捜査・刑事責任者を電撃交代、白海龍氏は留任",
-        "excerpt": "放送人ヤン・ジョンウォン氏関連の告訴事件を担当したソウル江南警察署で12日、不祥事論議の中、捜査・刑事実務責任者が交代した。",
-        "body": "ソウル江南警察署で12日、捜査・刑事の実務責任者が電撃的に交代した。放送人ヤン・ジョンウォン氏がフランチャイズのピラティス教室加盟店主らから詐欺などの疑いで告訴された事件を担当していた警察署で、不祥事論議が提起されたことに伴う人事と伝えられている。今回の交代はバーニングサン論議以降で最大規模の刷新とされる。一方、白海龍氏は留任した。担当部門の責任者交代により、今後の捜査管理と内部点検に関心が集まる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "江南警察署调查与刑事负责人突遭更换，白海龙留任",
-        "excerpt": "5月12日，负责处理播音人杨贞媛相关投诉案的首尔江南警察署，在不当行为争议中更换了调查与刑事实务负责人。",
-        "body": "首尔江南警察署5月12日突然更换了调查与刑事实务负责人。该警署曾负责处理播音人杨贞媛被连锁普拉提学院加盟店主以诈骗等嫌疑起诉的案件。此次人事调整被认为与不当行为争议有关，并被提及为“Burning Sun”争议以来最大幅度的换血。不过，白海龙仍获留任。随着案件负责部门负责人更替，外界关注今后的调查管理和组织内部检查。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Relevo en la Policía de Gangnam: cambian jefes de investigación y Baek sigue",
-        "excerpt": "El 12 de mayo, la comisaría de Gangnam en Seúl cambió a responsables de investigación y asuntos penales tras una controversia ligada al caso de Yang Jung-won.",
-        "body": "La comisaría de Gangnam, en Seúl, reemplazó de forma repentina el 12 de mayo a responsables operativos de investigación y asuntos penales. La medida se produjo en la dependencia que gestionó una denuncia contra la presentadora Yang Jung-won, acusada por propietarios de franquicias de estudios de pilates de fraude y otros cargos. El cambio fue vinculado a una controversia por conductas indebidas y descrito como el relevo más amplio desde el caso Burning Sun. Baek Hae-ryong, sin embargo, permaneció en su cargo. La atención se centra ahora en la gestión de las investigaciones y la revisión interna. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Polícia de Gangnam troca chefes de investigação; Baek Hae-ryong permanece",
-        "excerpt": "Em 12 de maio, a delegacia de Gangnam, em Seul, substituiu responsáveis de investigação e área criminal em meio a controvérsia ligada ao caso de Yang Jung-won.",
-        "body": "A Delegacia de Polícia de Gangnam, em Seul, substituiu de forma repentina, em 12 de maio, responsáveis operacionais das áreas de investigação e criminal. A medida ocorreu na unidade que tratou de uma denúncia contra a apresentadora Yang Jung-won, acusada por franqueados de uma rede de estúdios de pilates de fraude e outras suspeitas. A mudança foi associada a uma controvérsia sobre má conduta e descrita como a maior reformulação desde o caso Burning Sun. Baek Hae-ryong, porém, foi mantido. A troca dos responsáveis deve ampliar a atenção sobre a gestão das investigações e a revisão interna. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Gangnam-Polizei tauscht Ermittlungschefs aus; Baek Hae-ryong bleibt im Amt",
-        "excerpt": "Am 12. Mai ersetzte die Polizeistation Gangnam in Seoul leitende Ermittlungs- und Kriminalbeamte im Zusammenhang mit einer Kontroverse um den Fall Yang Jung-won.",
-        "body": "Die Polizeistation Gangnam in Seoul hat am 12. Mai überraschend praktische Leiter der Ermittlungs- und Kriminalabteilungen ersetzt. Die Dienststelle hatte einen Fall bearbeitet, in dem Moderatorin Yang Jung-won von Franchisenehmern einer Pilates-Schulkette wegen Betrugs und weiterer Vorwürfe angezeigt worden war. Die Personalmaßnahme wurde mit einer Kontroverse um Fehlverhalten in Verbindung gebracht und als größte Umstrukturierung seit dem Burning-Sun-Skandal bezeichnet. Baek Hae-ryong blieb jedoch im Amt. Nach dem Austausch der zuständigen Verantwortlichen richtet sich der Blick auf künftiges Ermittlungsmanagement und interne Prüfungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Police de Gangnam: chefs d’enquête remplacés, Baek Hae-ryong maintenu",
-        "excerpt": "Le 12 mai, le commissariat de Gangnam à Séoul a remplacé des responsables d’enquête et des affaires criminelles après une controverse liée au dossier Yang Jung-won.",
-        "body": "Le commissariat de Gangnam, à Séoul, a remplacé brusquement le 12 mai des responsables opérationnels des enquêtes et des affaires criminelles. Cette décision concerne le service qui avait traité une plainte visant l’animatrice Yang Jung-won, accusée par des franchisés d’écoles de pilates de fraude et d’autres faits présumés. Le mouvement a été associé à une controverse sur des manquements et présenté comme le remaniement le plus important depuis l’affaire Burning Sun. Baek Hae-ryong a toutefois été maintenu. Le changement des responsables du dossier attire l’attention sur la gestion future des enquêtes et les contrôles internes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تغيير مسؤولي التحقيق والجنائيات في شرطة غانغنام وبايك هاي ريونغ يبقى",
-        "excerpt": "في 12 مايو، بدلت شرطة غانغنام في سول مسؤولي التحقيق والشؤون الجنائية وسط جدل بشأن مخالفات مرتبط بقضية المذيعة يانغ جونغ وون.",
-        "body": "أجرت شرطة غانغنام في سول في 12 مايو تغييرا مفاجئا شمل المسؤولين العمليين عن التحقيقات والشؤون الجنائية. وجاءت الخطوة في المركز الذي تولى قضية اتهم فيها مالكو فروع معاهد بيلاتس بنظام الامتياز المذيعة يانغ جونغ وون بالاحتيال واتهامات أخرى. وارتبط التغيير بجدل حول مخالفات، ووصف بأنه أوسع عملية تبديل منذ قضية برنينغ صن. ومع ذلك، بقي بايك هاي ريونغ في منصبه. ويتركز الاهتمام الآن على إدارة التحقيقات المقبلة والمراجعة الداخلية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "गंगनम पुलिस में जांच और आपराधिक मामलों के प्रभारी बदले, बैक हे-रयोंग बरकरार",
-        "excerpt": "12 मई को सियोल गंगनम पुलिस स्टेशन ने यांग जंग-वोन से जुड़े शिकायत मामले के बीच विवादों के चलते जांच और आपराधिक मामलों के कार्यकारी प्रभारी बदले।",
-        "body": "सियोल गंगनम पुलिस स्टेशन में 12 मई को जांच और आपराधिक मामलों के कार्यकारी प्रभारी अचानक बदल दिए गए। यह वही थाना है जिसने प्रसारक यांग जंग-वोन से जुड़ा मामला संभाला था, जिसमें फ्रेंचाइजी पिलाटेस अकादमी के शाखा मालिकों ने उन पर धोखाधड़ी सहित आरोपों में शिकायत की थी। इस बदलाव को कथित अनियमितताओं से जुड़े विवाद के बाद की कार्रवाई बताया गया और बर्निंग सन विवाद के बाद सबसे बड़े फेरबदल के रूप में उल्लेखित किया गया। हालांकि बैक हे-रयोंग पद पर बने रहे। अब जांच प्रबंधन और आंतरिक समीक्षा पर ध्यान रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Polisi Gangnam Ganti Pejabat Investigasi dan Kriminal; Baek Hae-ryong Tetap",
-        "excerpt": "Pada 12 Mei, Kantor Polisi Gangnam Seoul mengganti pejabat investigasi dan kriminal di tengah kontroversi pelanggaran terkait kasus penyiar Yang Jung-won.",
-        "body": "Kantor Polisi Gangnam di Seoul pada 12 Mei mendadak mengganti pejabat pelaksana bidang investigasi dan kriminal. Langkah itu terjadi di kantor polisi yang menangani kasus ketika penyiar Yang Jung-won dilaporkan oleh pemilik cabang waralaba studio pilates atas dugaan penipuan dan tuduhan lainnya. Pergantian ini disebut terkait kontroversi pelanggaran dan disebut sebagai perombakan terbesar sejak skandal Burning Sun. Namun, Baek Hae-ryong tetap dipertahankan. Pergantian penanggung jawab unit kasus membuat perhatian tertuju pada pengelolaan investigasi dan pemeriksaan internal ke depan. Sumber: mk.co.kr"
       }
     }
   }
