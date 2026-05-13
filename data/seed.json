@@ -1,5 +1,230 @@
 [
   {
+    "id": "7298bfbac21b",
+    "slug": "매경이-전하는-세상의-지식-매-세-지-5월-14일-512446",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T22:20:44.142Z",
+    "updatedAt": "2026-05-13T22:20:44.142Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12046380",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12046380",
+    "titleFingerprint": "80497facda603d1577d2f9bc64587e05bb2f9eb9",
+    "dedupKeys": [
+      "7298bfbac21b978d720b48471e6e50b6d16c7708",
+      "80497facda603d1577d2f9bc64587e05bb2f9eb9",
+      "ee35d0e3e04fbc92b0f5fcacabaa8b2ec866f14c"
+    ],
+    "imageUrl": "/images/articles/7298bfbac21b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국민연금 국내 주식 비중 27% 돌파, 목표치 14.9% 크게 상회",
+        "excerpt": "매일경제가 5월 14일 전한 ‘매-세-지’에 따르면 국민연금 포트폴리오의 국내 주식 비중이 27%를 넘어 올해 목표치 14.9%를 크게 웃돌았다.",
+        "body": "매일경제가 5월 14일 전한 ‘매경이 전하는 세상의 지식’에 따르면 국민연금 포트폴리오에서 국내 주식 비중이 27%를 넘어섰다. 이는 올해 목표치인 14.9%를 훌쩍 웃도는 수준이다. 원칙적으로는 목표 비중과 실제 비중의 차이를 맞추기 위해 약 150조원어치 국내 주식을 기계적으로 매도해야 하는 상황으로 제시됐다. 이번 수치는 국민연금의 자산 배분과 국내 증시 수급에 직접 연결되는 사안으로, 목표 비중 관리 방식과 매도 압력 여부가 시장의 관심사가 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "National Pension’s Korean stock share tops 27%, far above 14.9% target",
+        "excerpt": "According to Maeil Business Newspaper’s May 14 digest, domestic stocks exceeded 27% of the National Pension portfolio, far above this year’s 14.9% target.",
+        "body": "According to Maeil Business Newspaper’s May 14 “Knowledge of the World” digest, domestic stocks accounted for more than 27% of the National Pension portfolio. That is well above this year’s target of 14.9%. In principle, the report presented a situation in which about 150 trillion won in Korean stocks would have to be mechanically sold to bring the actual share back in line with the target. The figure is directly tied to the National Pension’s asset allocation and supply-demand conditions in the local stock market, making its target-weight management and possible selling pressure a point of market attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "国民年金の韓国株比率27％超、目標14.9％を大幅上回る",
+        "excerpt": "毎日経済が5月14日に伝えた「メ・セ・ジ」によると、国民年金ポートフォリオの国内株式比率は27％を超え、今年の目標14.9％を大きく上回った。",
+        "body": "毎日経済が5月14日に伝えた「毎経が伝える世の中の知識」によると、国民年金のポートフォリオで国内株式の比率が27％を超えた。これは今年の目標値である14.9％を大きく上回る水準だ。原則としては、目標比率と実際の比率との差を調整するため、約150兆ウォン相当の国内株式を機械的に売却しなければならない状況として示された。この数値は国民年金の資産配分と韓国株式市場の需給に直接関わるため、目標比率の管理方法と売却圧力の有無が市場の関心事となり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国国民年金本土股票占比超27%，远高于14.9%目标",
+        "excerpt": "据《每日经济》5月14日“每日经济传递的世界知识”报道，韩国国民年金投资组合中本土股票占比超过27%，大幅高于今年14.9%的目标。",
+        "body": "据《每日经济》5月14日“每日经济传递的世界知识”报道，韩国国民年金投资组合中本土股票占比已超过27%。这一水平明显高于今年14.9%的目标值。报道指出，原则上，为使实际占比与目标占比相匹配，需机械性卖出约150万亿韩元规模的韩国本土股票。该数据直接关系到国民年金的资产配置以及韩国股市供需，因此目标比重管理方式和潜在卖压可能成为市场关注焦点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La pensión nacional supera 27% en acciones coreanas, muy por encima del 14,9%",
+        "excerpt": "Según el resumen de Maeil Business Newspaper del 14 de mayo, las acciones locales superaron el 27% de la cartera del Fondo Nacional de Pensiones, frente a una meta anual del 14,9%.",
+        "body": "Según el resumen “Conocimiento del mundo” publicado por Maeil Business Newspaper el 14 de mayo, las acciones nacionales superaron el 27% de la cartera del Fondo Nacional de Pensiones. La cifra está muy por encima del objetivo de este año, fijado en 14,9%. En principio, el informe señaló que, para ajustar la proporción real al objetivo, habría que vender mecánicamente unos 150 billones de wones en acciones coreanas. El dato está directamente relacionado con la asignación de activos del fondo y con la oferta y demanda del mercado bursátil local, por lo que la gestión del peso objetivo y la posible presión vendedora pueden atraer la atención del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Pensão nacional passa de 27% em ações coreanas, acima da meta de 14,9%",
+        "excerpt": "Segundo o resumo do Maeil Business Newspaper de 14 de maio, ações domésticas passaram de 27% da carteira do Fundo Nacional de Pensões, bem acima da meta anual de 14,9%.",
+        "body": "Segundo o resumo “Conhecimento do Mundo”, publicado pelo Maeil Business Newspaper em 14 de maio, as ações domésticas passaram de 27% da carteira do Fundo Nacional de Pensões. Esse nível fica muito acima da meta deste ano, de 14,9%. Em princípio, o relatório apresentou uma situação em que cerca de 150 trilhões de wones em ações coreanas teriam de ser vendidos mecanicamente para alinhar a participação real ao alvo. O dado está diretamente ligado à alocação de ativos do fundo e às condições de oferta e demanda no mercado acionário local, tornando a gestão da meta e a possível pressão vendedora pontos de atenção do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "National Pension hält über 27% in Korea-Aktien, deutlich über 14,9%-Ziel",
+        "excerpt": "Laut dem Maeil-Business-Newspaper-Überblick vom 14. Mai lag der Anteil heimischer Aktien im Portfolio des National Pension Service über 27% und damit klar über dem Jahresziel von 14,9%.",
+        "body": "Laut dem am 14. Mai veröffentlichten Überblick „Wissen der Welt“ von Maeil Business Newspaper lag der Anteil heimischer Aktien im Portfolio des National Pension Service bei über 27%. Damit wurde das diesjährige Ziel von 14,9% deutlich überschritten. Grundsätzlich beschrieb der Bericht eine Lage, in der rund 150 Billionen Won an koreanischen Aktien mechanisch verkauft werden müssten, um den tatsächlichen Anteil wieder an die Zielquote anzupassen. Die Zahl betrifft unmittelbar die Vermögensallokation des Fonds und die Angebots-Nachfrage-Lage am heimischen Aktienmarkt. Daher können die Steuerung der Zielquote und möglicher Verkaufsdruck in den Fokus des Marktes rücken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La part d’actions coréennes du fonds national dépasse 27%, au-dessus de 14,9%",
+        "excerpt": "Selon la synthèse du Maeil Business Newspaper du 14 mai, les actions locales représentaient plus de 27% du portefeuille du fonds national de pension, bien au-dessus de l’objectif annuel de 14,9%.",
+        "body": "Selon la synthèse « Connaissance du monde » publiée le 14 mai par Maeil Business Newspaper, les actions nationales représentaient plus de 27% du portefeuille du fonds national de pension. Ce niveau dépasse largement l’objectif fixé cette année à 14,9%. En principe, le rapport présente une situation dans laquelle environ 150 000 milliards de wons d’actions coréennes devraient être vendus mécaniquement afin de ramener la part réelle vers la cible. Ce chiffre touche directement l’allocation d’actifs du fonds et l’équilibre offre-demande sur le marché boursier local. La gestion de la pondération cible et une éventuelle pression vendeuse peuvent donc retenir l’attention du marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "حصة الأسهم الكورية في صندوق التقاعد تتجاوز 27% فوق هدف 14.9%",
+        "excerpt": "بحسب موجز صحيفة Maeil Business Newspaper في 14 مايو، تجاوزت الأسهم المحلية 27% من محفظة صندوق التقاعد الوطني الكوري، متخطية بوضوح هدف هذا العام البالغ 14.9%.",
+        "body": "بحسب موجز «معرفة العالم» الذي نشرته صحيفة Maeil Business Newspaper في 14 مايو، تجاوزت حصة الأسهم المحلية 27% من محفظة صندوق التقاعد الوطني الكوري. وهذا مستوى أعلى بكثير من هدف هذا العام البالغ 14.9%. ووفق ما عرضه التقرير، فإن القاعدة المبدئية تعني ضرورة بيع أسهم كورية محلية بقيمة تقارب 150 تريليون وون بصورة آلية لمواءمة الحصة الفعلية مع الحصة المستهدفة. ويرتبط هذا الرقم مباشرة بتوزيع أصول الصندوق وبظروف العرض والطلب في سوق الأسهم المحلية، ما يجعل طريقة إدارة الوزن المستهدف واحتمال ضغط البيع محل اهتمام في السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "राष्ट्रीय पेंशन में कोरियाई शेयर 27% से ऊपर, 14.9% लक्ष्य से काफी अधिक",
+        "excerpt": "Maeil Business Newspaper के 14 मई के सारांश के अनुसार, राष्ट्रीय पेंशन पोर्टफोलियो में घरेलू शेयरों की हिस्सेदारी 27% से ऊपर पहुंची, जो इस वर्ष के 14.9% लक्ष्य से काफी अधिक है।",
+        "body": "Maeil Business Newspaper के 14 मई के “दुनिया का ज्ञान” सारांश के अनुसार, राष्ट्रीय पेंशन पोर्टफोलियो में घरेलू शेयरों की हिस्सेदारी 27% से अधिक हो गई। यह इस वर्ष के 14.9% लक्ष्य से काफी ऊपर है। रिपोर्ट में स्थिति इस रूप में बताई गई कि सिद्धांततः वास्तविक हिस्सेदारी को लक्ष्य अनुपात के अनुरूप लाने के लिए लगभग 150 ट्रिलियन वॉन मूल्य के कोरियाई घरेलू शेयरों की यांत्रिक बिक्री करनी होगी। यह आंकड़ा राष्ट्रीय पेंशन की परिसंपत्ति आवंटन नीति और स्थानीय शेयर बाजार की आपूर्ति-मांग स्थिति से सीधे जुड़ा है। इसलिए लक्ष्य अनुपात का प्रबंधन और संभावित बिकवाली दबाव बाजार की निगाह में रह सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Porsi saham Korea di dana pensiun nasional tembus 27%, jauh di atas target 14,9%",
+        "excerpt": "Menurut ringkasan Maeil Business Newspaper pada 14 Mei, porsi saham domestik dalam portofolio Dana Pensiun Nasional Korea melampaui 27%, jauh di atas target tahun ini sebesar 14,9%.",
+        "body": "Menurut ringkasan “Pengetahuan Dunia” yang disampaikan Maeil Business Newspaper pada 14 Mei, porsi saham domestik dalam portofolio Dana Pensiun Nasional Korea telah melampaui 27%. Angka ini jauh di atas target tahun ini sebesar 14,9%. Secara prinsip, laporan tersebut menggambarkan situasi di mana sekitar 150 triliun won saham domestik Korea harus dijual secara mekanis agar porsi aktual kembali sesuai dengan target. Data ini terkait langsung dengan alokasi aset dana pensiun dan kondisi penawaran-permintaan di pasar saham lokal. Karena itu, cara pengelolaan bobot target dan kemungkinan tekanan jual dapat menjadi perhatian pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f7e7f1c335f1",
+    "slug": "ai-학습을-위해-사용되는-저작물-어디까지가-공정이용일까-지평-테크레이더-844821",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T22:19:48.284Z",
+    "updatedAt": "2026-05-13T22:19:48.284Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12045381",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12045381",
+    "titleFingerprint": "bed7e88fb89325e293e0ac6054aa4360073b8e46",
+    "dedupKeys": [
+      "f7e7f1c335f1fc123f1fe6a7a40c8f388fb8de7e",
+      "bed7e88fb89325e293e0ac6054aa4360073b8e46",
+      "207e9629c4d6974af5ec47a2f427555fcf9c5ed7"
+    ],
+    "imageUrl": "/images/articles/f7e7f1c335f1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 학습 저작물 공정이용 논쟁, 어디까지 허용될까",
+        "excerpt": "매일경제 지평 테크레이더는 허종 법무법인 지평 변호사의 글을 통해 AI 학습에 쓰이는 저작물이 공정이용에 해당하는지 핵심 쟁점을 짚었다.",
+        "body": "매일경제 지평 테크레이더는 허종 법무법인 지평 변호사의 글을 통해 AI 학습에 사용되는 저작물이 어디까지 ‘공정이용’으로 볼 수 있는지 조명했다. AI 기술의 발전 속도가 놀라운 수준에 이른 가운데, 그 발전의 기반이 되는 학습 데이터와 저작물 이용 문제가 핵심 법적 쟁점으로 떠올랐다는 내용이다. 글은 AI 학습 과정에서 저작물이 활용될 때 권리 보호와 기술 발전 사이의 균형이 중요하다는 문제의식을 담고 있다. 특히 AI 학습의 핵심 쟁점으로 공정이용 논의가 부상하고 있다는 점을 강조했다. 향후 AI 산업과 저작권 분쟁에서 해당 기준이 중요한 판단 요소가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Training and Copyrighted Works: How Far Can Fair Use Go?",
+        "excerpt": "Maeil Business Newspaper’s Jipyong Tech Radar, citing attorney Heo Jong of Jipyong, examined whether copyrighted works used for AI training may qualify as fair use.",
+        "body": "Maeil Business Newspaper’s Jipyong Tech Radar highlighted an article by Heo Jong, an attorney at Jipyong, on how far the use of copyrighted works for AI training can be considered “fair use.” As the pace of AI development has reached a remarkable level, the use of training data and copyrighted works has emerged as a central legal issue behind that progress. The article raises the need to balance rights protection with technological development when works are used in AI training. It especially stresses that fair use has become a core issue in AI learning. The standard is expected to remain an important factor in future AI industry and copyright disputes. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AI学習に使われる著作物、公正利用はどこまで認められるか",
+        "excerpt": "毎日経済の「地平テックレーダー」は、法務法人地平の許鍾弁護士の寄稿を通じ、AI学習に使われる著作物が公正利用に当たるかを整理した。",
+        "body": "毎日経済の「地平テックレーダー」は、法務法人地平の許鍾弁護士の寄稿を通じ、AI学習に使われる著作物をどこまで「公正利用」と見なせるのかを取り上げた。AI技術の発展速度が驚くべき水準に達するなか、その発展の基盤となる学習データと著作物利用の問題が重要な法的争点として浮上しているという内容だ。記事は、AI学習過程で著作物が活用される際、権利保護と技術発展の均衡が重要だという問題意識を示している。特にAI学習の核心争点として公正利用の議論が台頭している点を強調した。今後、AI産業と著作権紛争でこの基準が重要な判断要素になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI训练使用著作物，合理使用边界究竟在哪里",
+        "excerpt": "《每日经济》“Jipyong Tech Radar”通过法务法人Jipyong律师许钟的文章，梳理AI训练所用著作物是否属于合理使用的核心争议。",
+        "body": "《每日经济》“Jipyong Tech Radar”通过法务法人Jipyong律师许钟的文章，关注AI训练中使用的著作物在多大范围内可被视为“合理使用”。文章指出，AI技术发展速度已达到惊人水平，而支撑这一发展的训练数据与著作物使用问题，正成为核心法律争议。该文提出，在AI训练过程中使用著作物时，权利保护与技术发展之间的平衡十分重要。文章尤其强调，合理使用讨论已上升为AI训练的核心议题。未来在AI产业和著作权纠纷中，相关标准预计将成为重要判断因素。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "Obras usadas para entrenar IA: hasta dónde llega el uso justo",
+        "excerpt": "Maeil Business Newspaper, en Jipyong Tech Radar, analizó con el abogado Heo Jong de Jipyong si las obras usadas para entrenar IA pueden considerarse uso justo.",
+        "body": "Maeil Business Newspaper, en Jipyong Tech Radar, abordó mediante un texto del abogado Heo Jong, de la firma Jipyong, hasta dónde puede considerarse “uso justo” el empleo de obras protegidas para entrenar IA. En un momento en que el avance de la IA ha alcanzado un ritmo notable, el uso de datos de entrenamiento y obras con derechos se ha convertido en una cuestión legal central detrás de ese desarrollo. El artículo plantea la importancia de equilibrar la protección de derechos y el progreso tecnológico cuando se utilizan obras en el aprendizaje de IA. También subraya que el debate sobre uso justo emerge como un eje clave. Ese criterio será relevante en futuras disputas de IA y derechos de autor. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Obras usadas no treino de IA: até onde vai o uso justo",
+        "excerpt": "O Maeil Business Newspaper, no Jipyong Tech Radar, analisou com o advogado Heo Jong, da Jipyong, se obras usadas no treino de IA podem ser uso justo.",
+        "body": "O Maeil Business Newspaper, no Jipyong Tech Radar, destacou um texto do advogado Heo Jong, da Jipyong, sobre até que ponto o uso de obras protegidas no treino de IA pode ser considerado “uso justo”. Com o avanço da tecnologia de IA em ritmo impressionante, o uso de dados de treinamento e de obras autorais tornou-se uma questão jurídica central por trás desse progresso. O artigo aponta a necessidade de equilibrar a proteção de direitos e o desenvolvimento tecnológico quando obras são utilizadas no aprendizado de IA. Também enfatiza que o debate sobre uso justo ganhou destaque como tema essencial. Esse critério tende a ser importante em futuras disputas sobre IA e direitos autorais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Training mit urheberrechtlichen Werken: Wie weit reicht Fair Use?",
+        "excerpt": "Maeil Business Newspaper beleuchtete in Jipyong Tech Radar mit Anwalt Heo Jong von Jipyong, ob für KI-Training genutzte Werke als Fair Use gelten können.",
+        "body": "Maeil Business Newspaper hat in Jipyong Tech Radar einen Beitrag von Heo Jong, Anwalt bei Jipyong, aufgegriffen und die Frage beleuchtet, wie weit die Nutzung urheberrechtlich geschützter Werke für KI-Training als „Fair Use“ gelten kann. Da sich KI-Technologie in bemerkenswertem Tempo entwickelt, rücken Trainingsdaten und die Nutzung geschützter Werke als zentrale rechtliche Fragen hinter diesem Fortschritt in den Fokus. Der Beitrag betont, dass beim Einsatz von Werken im KI-Lernprozess ein Gleichgewicht zwischen Rechteschutz und technologischer Entwicklung wichtig ist. Besonders hervorgehoben wird, dass Fair Use zu einem Kernthema des KI-Trainings geworden ist. Dieser Maßstab dürfte künftig bei KI-Industrie und Urheberrechtsstreitigkeiten wichtig bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Œuvres utilisées pour entraîner l’IA : jusqu’où va l’usage équitable",
+        "excerpt": "Maeil Business Newspaper, dans Jipyong Tech Radar, a examiné avec l’avocat Heo Jong de Jipyong si les œuvres utilisées pour l’IA relèvent de l’usage équitable.",
+        "body": "Maeil Business Newspaper, dans Jipyong Tech Radar, a présenté un article de Heo Jong, avocat chez Jipyong, sur la mesure dans laquelle l’utilisation d’œuvres protégées pour entraîner l’IA peut être considérée comme un « usage équitable ». Alors que le rythme de développement de l’IA atteint un niveau remarquable, l’usage des données d’entraînement et des œuvres protégées devient une question juridique centrale de ce progrès. L’article souligne la nécessité d’un équilibre entre protection des droits et développement technologique lorsque des œuvres sont utilisées dans l’apprentissage de l’IA. Il insiste surtout sur l’émergence de l’usage équitable comme enjeu clé. Ce critère devrait peser dans les futurs litiges liés à l’IA et au droit d’auteur. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مصنفات تدريب الذكاء الاصطناعي: إلى أين يمتد الاستخدام العادل؟",
+        "excerpt": "تناول قسم Jipyong Tech Radar في صحيفة ماييل الاقتصادية، عبر مقال للمحامي هيو جونغ من Jipyong، ما إذا كانت المصنفات المستخدمة لتدريب الذكاء الاصطناعي تندرج ضمن الاستخدام العادل.",
+        "body": "سلط قسم Jipyong Tech Radar في صحيفة ماييل الاقتصادية الضوء على مقال للمحامي هيو جونغ من مكتب Jipyong حول المدى الذي يمكن فيه اعتبار استخدام المصنفات المحمية في تدريب الذكاء الاصطناعي «استخداما عادلا». ومع بلوغ تطور تقنيات الذكاء الاصطناعي وتيرة لافتة، برزت مسألة بيانات التدريب واستخدام المصنفات المحمية كقضية قانونية محورية وراء هذا التطور. ويطرح المقال أهمية تحقيق توازن بين حماية الحقوق والتقدم التقني عند استخدام المصنفات في عملية تعلم الذكاء الاصطناعي. كما يؤكد أن نقاش الاستخدام العادل أصبح من القضايا الأساسية في تدريب الذكاء الاصطناعي. ومن المتوقع أن يظل هذا المعيار عاملا مهما في نزاعات الصناعة وحقوق النشر مستقبلا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI प्रशिक्षण में कॉपीराइट कृतियां: फेयर यूज की सीमा कहां तक",
+        "excerpt": "Maeil Business Newspaper के Jipyong Tech Radar ने Jipyong के वकील Heo Jong के लेख के जरिए देखा कि AI प्रशिक्षण में प्रयुक्त कृतियां फेयर यूज मानी जा सकती हैं या नहीं।",
+        "body": "Maeil Business Newspaper के Jipyong Tech Radar ने Jipyong के वकील Heo Jong के लेख के माध्यम से यह मुद्दा उठाया कि AI प्रशिक्षण में इस्तेमाल होने वाली कॉपीराइट कृतियों को किस सीमा तक “फेयर यूज” माना जा सकता है। AI तकनीक की प्रगति अब अत्यंत तेज स्तर पर पहुंच चुकी है, और इस विकास के आधार माने जाने वाले प्रशिक्षण डेटा तथा कृतियों के उपयोग का प्रश्न प्रमुख कानूनी मुद्दा बन गया है। लेख में कहा गया है कि AI सीखने की प्रक्रिया में कृतियों के उपयोग के समय अधिकारों की रक्षा और तकनीकी विकास के बीच संतुलन महत्वपूर्ण है। इसमें खास तौर पर बताया गया कि फेयर यूज की चर्चा AI प्रशिक्षण का केंद्रीय मुद्दा बन रही है। भविष्य में AI उद्योग और कॉपीराइट विवादों में यह मानक अहम निर्णय तत्व हो सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Karya untuk Pelatihan AI: Sejauh Mana Masuk Penggunaan Wajar",
+        "excerpt": "Maeil Business Newspaper melalui Jipyong Tech Radar mengulas tulisan pengacara Heo Jong dari Jipyong tentang apakah karya untuk pelatihan AI termasuk penggunaan wajar.",
+        "body": "Maeil Business Newspaper melalui Jipyong Tech Radar menyoroti tulisan Heo Jong, pengacara di Jipyong, mengenai sejauh mana karya berhak cipta yang digunakan untuk pelatihan AI dapat dianggap sebagai “penggunaan wajar”. Ketika laju perkembangan teknologi AI telah mencapai tingkat yang mengesankan, penggunaan data pelatihan dan karya berhak cipta yang menopang perkembangan itu muncul sebagai isu hukum utama. Tulisan tersebut memuat kesadaran bahwa keseimbangan antara perlindungan hak dan kemajuan teknologi penting saat karya digunakan dalam proses pembelajaran AI. Artikel itu juga menekankan bahwa pembahasan penggunaan wajar mengemuka sebagai isu inti pelatihan AI. Ke depan, standar ini diperkirakan menjadi faktor penting dalam industri AI dan sengketa hak cipta. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "63997238ea7c",
+    "slug": "윤석열-내란-우두머리-2심-재판-시작법관-기피-변수-929491",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T22:18:53.948Z",
+    "updatedAt": "2026-05-13T22:18:53.948Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12047073",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12047073",
+    "titleFingerprint": "0511db8b2dfe8c30316e1b786b9bbdb53ad8078c",
+    "dedupKeys": [
+      "63997238ea7cc1168ea2434541622fa9767af328",
+      "0511db8b2dfe8c30316e1b786b9bbdb53ad8078c",
+      "c9212189ad674b12215de821543658a281e8fff3"
+    ],
+    "imageUrl": "/images/articles/63997238ea7c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "윤석열 내란 우두머리 항소심 14일 시작, 법관 기피 변수 주목",
+        "excerpt": "12·3 비상계엄 사태의 본류로 꼽히는 윤석열 전 대통령의 내란 우두머리 혐의 항소심 첫 공판이 14일 시작되며, 법관 기피 문제가 변수로 떠올랐다.",
+        "body": "윤석열 전 대통령의 내란 우두머리 혐의 항소심 재판이 14일 본격적으로 시작된다. 이번 사건은 12·3 비상계엄 사태의 ‘본류’로 꼽히는 재판으로, 1심 선고가 나온 지 약 3개월 만에 첫 공판이 열리는 것이다. 핵심 쟁점은 윤 전 대통령에게 적용된 내란 우두머리 혐의이며, 항소심 절차가 본격화되면서 재판부 판단과 향후 일정에 관심이 모인다. 다만 법관 기피 문제가 재판 진행의 변수로 거론되고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Yoon Suk Yeol Insurrection Appeal Opens May 14 as Judge Challenge Looms",
+        "excerpt": "Former President Yoon Suk Yeol’s appeal trial on an alleged insurrection leadership charge tied to the Dec. 3 martial law crisis begins May 14, with a judge challenge emerging as a variable.",
+        "body": "The appeal trial of former President Yoon Suk Yeol on the charge of leading an insurrection is set to begin in earnest on May 14. The case is regarded as the main track of the Dec. 3 emergency martial law crisis, and the first hearing comes about three months after the first-instance ruling. The central issue is the insurrection leadership charge applied to Yoon. As the appellate process moves forward, attention is turning to the court’s judgment and the future trial schedule. A request to challenge a judge, however, is being cited as a variable in how the proceedings unfold. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "尹錫悦前大統領の内乱首謀控訴審、14日開始へ 法官忌避が焦点",
+        "excerpt": "12・3非常戒厳事態の本流とされる尹錫悦前大統領の内乱首謀容疑をめぐる控訴審初公判が14日に始まり、法官忌避問題が変数として浮上している。",
+        "body": "尹錫悦前大統領の内乱首謀容疑をめぐる控訴審裁判が14日、本格的に始まる。今回の事件は12・3非常戒厳事態の「本流」と位置づけられる裁判で、一審判決から約3カ月ぶりに初公判が開かれる。核心争点は尹前大統領に適用された内乱首謀容疑であり、控訴審手続きが進むにつれ、裁判部の判断と今後の日程に関心が集まっている。ただし、法官忌避の問題が裁判進行の変数として取り上げられている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "尹锡悦“内乱首谋”二审14日开庭，法官回避成审理变量",
+        "excerpt": "围绕12月3日紧急戒严事件核心案件，尹锡悦前总统涉嫌内乱首谋的上诉审首场公判将于14日开始，法官回避问题成为审理变量。",
+        "body": "尹锡悦前总统涉嫌内乱首谋的上诉审将于14日正式开始。该案被视为12月3日紧急戒严事件的“主线”审判，距离一审宣判约3个月后迎来首场公判。案件核心在于尹前总统所涉内乱首谋指控。随着二审程序启动，外界关注审判庭的判断以及后续审理日程。不过，法官回避问题被提及为可能影响审判推进的变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Apelación de Yoon por presunto liderazgo de insurrección empieza el 14",
+        "excerpt": "El juicio de apelación del expresidente Yoon Suk Yeol por el cargo de presunto liderazgo de insurrección vinculado a la ley marcial del 3 de diciembre comenzará el día 14.",
+        "body": "El juicio de apelación del expresidente Yoon Suk Yeol por el cargo de liderar una insurrección comenzará formalmente el día 14. El caso es considerado la línea principal de la crisis de ley marcial de emergencia del 3 de diciembre, y la primera audiencia llega unos tres meses después del fallo de primera instancia. El punto central es el cargo de liderazgo de insurrección aplicado a Yoon. Con el avance del proceso de apelación, la atención se centra en el criterio del tribunal y en el calendario posterior. Sin embargo, la recusación de un juez se perfila como una variable para el desarrollo del juicio. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Recurso de Yoon por suposta liderança de insurreição começa no dia 14",
+        "excerpt": "O julgamento de apelação do ex-presidente Yoon Suk Yeol por suposta liderança de insurreição, ligado à lei marcial de 3 de dezembro, começa no dia 14.",
+        "body": "O julgamento de apelação do ex-presidente Yoon Suk Yeol pela acusação de liderar uma insurreição deve começar de forma efetiva no dia 14. O caso é visto como a linha principal da crise de lei marcial de emergência de 3 de dezembro, e a primeira audiência ocorre cerca de três meses após a decisão em primeira instância. O ponto central é a acusação de liderança de insurreição aplicada a Yoon. Com o avanço da apelação, crescem as atenções sobre a avaliação do tribunal e o calendário futuro. Ainda assim, a contestação de um juiz é apontada como uma variável no andamento do processo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Yoons Berufung wegen mutmaßlicher Aufstandsführung startet am 14. Mai",
+        "excerpt": "Der Berufungsprozess gegen Ex-Präsident Yoon Suk Yeol wegen mutmaßlicher Führung eines Aufstands im Zusammenhang mit dem Kriegsrecht vom 3. Dezember beginnt am 14. Mai.",
+        "body": "Der Berufungsprozess gegen den früheren Präsidenten Yoon Suk Yeol wegen des Vorwurfs, einen Aufstand angeführt zu haben, beginnt am 14. Mai. Das Verfahren gilt als zentraler Strang der Krise um das Not-Kriegsrecht vom 3. Dezember; die erste Verhandlung findet rund drei Monate nach dem Urteil der ersten Instanz statt. Im Mittelpunkt steht der gegen Yoon erhobene Vorwurf der Aufstandsführung. Mit dem Beginn des Berufungsverfahrens richtet sich der Blick auf die Entscheidung des Gerichts und den weiteren Zeitplan. Ein Antrag auf Ablehnung eines Richters wird jedoch als möglicher Faktor für den Prozessverlauf genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’appel de Yoon pour direction présumée d’insurrection s’ouvre le 14",
+        "excerpt": "Le procès en appel de l’ancien président Yoon Suk Yeol pour direction présumée d’insurrection liée à la loi martiale du 3 décembre commence le 14.",
+        "body": "Le procès en appel de l’ancien président Yoon Suk Yeol pour l’accusation de direction d’une insurrection doit commencer effectivement le 14. Cette affaire est considérée comme le volet principal de la crise de la loi martiale d’urgence du 3 décembre, et la première audience intervient environ trois mois après le jugement de première instance. L’enjeu central est l’accusation de direction d’insurrection visant Yoon. À mesure que la procédure d’appel s’ouvre, l’attention se porte sur l’appréciation du tribunal et le calendrier à venir. Toutefois, une demande de récusation d’un juge est citée comme une variable dans le déroulement du procès. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "استئناف يون بتهمة قيادة تمرد يبدأ في 14 مايو وسط متغير تنحي القاضي",
+        "excerpt": "تبدأ في 14 مايو محاكمة الاستئناف للرئيس السابق يون سوك يول بتهمة قيادة تمرد مرتبطة بأزمة الأحكام العرفية الطارئة في 3 ديسمبر، مع بروز مسألة تنحي القاضي كعامل مؤثر.",
+        "body": "تبدأ محاكمة الاستئناف للرئيس السابق يون سوك يول بتهمة قيادة تمرد بشكل فعلي في 14 مايو. وتعد القضية المسار الرئيسي لأزمة الأحكام العرفية الطارئة في 3 ديسمبر، إذ تأتي أول جلسة بعد نحو ثلاثة أشهر من حكم الدرجة الأولى. يتمحور النزاع حول تهمة قيادة التمرد الموجهة إلى يون. ومع بدء إجراءات الاستئناف، يتجه الاهتمام إلى تقدير هيئة المحكمة والجدول اللاحق للمحاكمة. غير أن مسألة طلب تنحي قاض تبرز كمتغير قد يؤثر في سير الإجراءات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "यून सुक येओल के कथित विद्रोह नेतृत्व मामले की अपील 14 मई से शुरू",
+        "excerpt": "3 दिसंबर की आपात मार्शल लॉ घटना से जुड़े कथित विद्रोह नेतृत्व आरोप में पूर्व राष्ट्रपति यून सुक येओल की अपील सुनवाई 14 मई से शुरू होगी, जबकि न्यायाधीश पर आपत्ति मुद्दा बना है।",
+        "body": "पूर्व राष्ट्रपति यून सुक येओल के खिलाफ कथित विद्रोह नेतृत्व आरोप की अपील सुनवाई 14 मई से औपचारिक रूप से शुरू होगी। यह मामला 3 दिसंबर की आपात मार्शल लॉ घटना की मुख्य धारा से जुड़ा माना जा रहा है, और पहली सुनवाई निचली अदालत के फैसले के करीब तीन महीने बाद हो रही है। मुख्य मुद्दा यून पर लगाया गया विद्रोह नेतृत्व का आरोप है। अपील प्रक्रिया शुरू होने के साथ अदालत के निर्णय और आगे की सुनवाई अनुसूची पर ध्यान केंद्रित है। हालांकि, न्यायाधीश को लेकर आपत्ति का मुद्दा कार्यवाही की दिशा में एक महत्वपूर्ण चर के रूप में देखा जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Banding Yoon atas Tuduhan Pemimpin Pemberontakan Dimulai 14 Mei",
+        "excerpt": "Sidang banding mantan Presiden Yoon Suk Yeol atas tuduhan sebagai pemimpin pemberontakan terkait darurat militer 3 Desember dimulai 14 Mei, dengan isu penolakan hakim menjadi variabel.",
+        "body": "Sidang banding mantan Presiden Yoon Suk Yeol atas tuduhan sebagai pemimpin pemberontakan akan dimulai secara resmi pada 14 Mei. Perkara ini disebut sebagai jalur utama dari krisis darurat militer 3 Desember, dan sidang pertama digelar sekitar tiga bulan setelah putusan tingkat pertama. Isu utama adalah tuduhan kepemimpinan pemberontakan yang dikenakan kepada Yoon. Saat proses banding mulai berjalan, perhatian tertuju pada penilaian majelis hakim dan jadwal persidangan berikutnya. Namun, persoalan penolakan terhadap hakim disebut sebagai variabel yang dapat memengaruhi jalannya persidangan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "002d0a95c9cc",
     "slug": "어도어-다니엘민희진-상대-430억-소송-첫-변론대리인단-전면-교체-832805",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Berbalik Naik dalam Sehari, Ditutup Rekor di 7.844",
         "excerpt": "KOSPI kembali menguat setelah satu hari dan ditutup pada rekor tertinggi baru di 7.844, menegaskan lagi pergerakan pencetak rekor di pasar saham Korea Selatan.",
         "body": "KOSPI berbalik naik setelah satu hari dan kembali mencatat penutupan tertinggi sepanjang sejarah. Menurut mk.co.kr, indeks tersebut mengakhiri perdagangan di level 7.844. Angka utama yang dikonfirmasi dalam laporan ini adalah level penutupan 7.844, disertai fakta bahwa indeks kembali ke jalur kenaikan hanya dalam satu hari. Istilah penutupan tertinggi sepanjang sejarah berarti indeks melampaui puncak sebelumnya di pasar saham Korea Selatan. Namun, naskah asli tidak memuat rincian seperti besaran kenaikan, pergerakan sektoral, atau transaksi berdasarkan kelompok investor. Pelaku pasar perlu terus memantau apakah KOSPI akan melanjutkan tren pencetakan rekor ini. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "7257979ae285",
-    "slug": "금호석화-최경주재단에-이공계-장학금-3천만원-기부-552967",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T05:38:11.678Z",
-    "updatedAt": "2026-05-13T05:38:11.678Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046128",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046128",
-    "titleFingerprint": "ecd01789991c7b5e9d5928be3b9bb2140bddb555",
-    "dedupKeys": [
-      "7257979ae285cacc51c76c5363be4547216fec60",
-      "ecd01789991c7b5e9d5928be3b9bb2140bddb555",
-      "be0ace5071f1afa46bea907f1b885eb7e1db2bb4"
-    ],
-    "imageUrl": "/images/articles/7257979ae285.jpg",
-    "i18n": {
-      "ko": {
-        "title": "금호석화, 최경주재단에 이공계 장학금 3000만원 기부",
-        "excerpt": "금호석유화학그룹은 13일 최경주재단에 이공계 인재 육성을 위한 장학금 3000만원을 기부했으며, 장학금은 학부생과 대학원생 5명에게 전달된다.",
-        "body": "금호석유화학그룹은 13일 최경주재단에 이공계 인재 육성을 위한 장학금 3000만원을 기부했다고 밝혔다. 이번 장학금은 학부생과 대학원생 5명에게 전달된다. 지원 대상은 화학공학을 비롯해 로봇공학, 컴퓨터공학 등 이공계 분야에서 학업을 이어가는 학생들이다. 회사의 기부는 이공계 인재가 안정적으로 학업을 지속할 수 있도록 돕는 데 초점을 맞췄다. 장학금 전달을 통해 관련 전공 학생들의 학업 지원과 인재 육성 기반 마련에 보탬이 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kumho Petrochemical Donates 30 Million Won STEM Scholarship Fund",
-        "excerpt": "Kumho Petrochemical Group said on the 13th it donated 30 million won to the Choi Kyung-Ju Foundation to support STEM talent, with scholarships going to five undergraduate and graduate students.",
-        "body": "Kumho Petrochemical Group said on the 13th that it donated 30 million won to the Choi Kyung-Ju Foundation to help foster talent in science and engineering fields. The scholarship fund will be delivered to five undergraduate and graduate students. Recipients are students continuing their studies in STEM areas, including chemical engineering, robotics and computer engineering. The donation is focused on helping science and engineering students maintain stable academic progress. Through the scholarship, the company is expected to support students in related majors and contribute to building a foundation for talent development. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "錦湖石化、崔京周財団に理工系奨学金3000万ウォン寄付",
-        "excerpt": "錦湖石油化学グループは13日、理工系人材育成のため崔京周財団に奨学金3000万ウォンを寄付し、学部生・大学院生5人に支給されると明らかにした。",
-        "body": "錦湖石油化学グループは13日、理工系人材の育成を目的に、崔京周財団へ奨学金3000万ウォンを寄付したと発表した。今回の奨学金は学部生と大学院生の計5人に支給される。対象は化学工学をはじめ、ロボット工学、コンピューター工学など理工系分野で学業を続ける学生だ。同社の寄付は、理工系人材が安定して学業を継続できるよう支援することに重点を置いている。奨学金の支給により、関連専攻の学生支援と人材育成基盤の整備に役立つ見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "锦湖石化向崔京周财团捐赠3000万韩元理工科奖学金",
-        "excerpt": "锦湖石油化学集团13日表示，已向崔京周财团捐赠3000万韩元，用于培养理工科人才，奖学金将发放给5名本科生和研究生。",
-        "body": "锦湖石油化学集团13日表示，已向崔京周财团捐赠3000万韩元奖学金，用于培养理工科人才。本次奖学金将发放给5名本科生和研究生。资助对象为在化学工程、机器人工程、计算机工程等理工科领域继续学业的学生。该公司的捐赠重点在于帮助理工科人才稳定完成学业。通过此次奖学金发放，预计将为相关专业学生提供学业支持，并为人才培养基础建设作出贡献。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kumho Petrochemical dona 30 millones de wones para becas STEM",
-        "excerpt": "Kumho Petrochemical Group informó el día 13 que donó 30 millones de wones a la Fundación Choi Kyung-Ju para formar talento STEM; la ayuda llegará a cinco estudiantes de grado y posgrado.",
-        "body": "Kumho Petrochemical Group informó el día 13 que donó 30 millones de wones a la Fundación Choi Kyung-Ju para apoyar la formación de talento en ciencia e ingeniería. La beca será entregada a cinco estudiantes de grado y posgrado. Los beneficiarios cursan estudios en áreas STEM, entre ellas ingeniería química, robótica e ingeniería informática. La donación de la compañía se centra en ayudar a que los estudiantes de ciencia e ingeniería continúen sus estudios de forma estable. Con esta entrega, se espera respaldar a alumnos de carreras relacionadas y contribuir a la base de desarrollo de talento. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kumho Petrochemical doa 30 milhões de wons para bolsas STEM",
-        "excerpt": "O Kumho Petrochemical Group informou no dia 13 que doou 30 milhões de wons à Fundação Choi Kyung-Ju para apoiar talentos STEM, com bolsas para cinco alunos de graduação e pós-graduação.",
-        "body": "O Kumho Petrochemical Group informou no dia 13 que doou 30 milhões de wons à Fundação Choi Kyung-Ju para ajudar a formar talentos nas áreas de ciência e engenharia. A bolsa será entregue a cinco estudantes de graduação e pós-graduação. Os beneficiários seguem estudos em campos STEM, incluindo engenharia química, robótica e engenharia da computação. A doação da empresa tem como foco apoiar a continuidade acadêmica estável de estudantes de ciência e engenharia. Com a concessão das bolsas, espera-se oferecer suporte aos alunos de áreas relacionadas e contribuir para a base de formação de talentos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kumho Petrochemical spendet 30 Mio. Won für MINT-Stipendien",
-        "excerpt": "Die Kumho Petrochemical Group teilte am 13. mit, 30 Millionen Won an die Choi Kyung-Ju Foundation zur Förderung von MINT-Talenten gespendet zu haben; fünf Studierende erhalten Stipendien.",
-        "body": "Die Kumho Petrochemical Group teilte am 13. mit, dass sie 30 Millionen Won an die Choi Kyung-Ju Foundation gespendet hat, um Talente in Naturwissenschaften und Technik zu fördern. Die Stipendien werden an fünf Studierende im Bachelor- und Masterbereich vergeben. Gefördert werden Studierende in MINT-Fächern, darunter Chemieingenieurwesen, Robotik und Informatik. Die Spende des Unternehmens zielt darauf ab, Studierenden in naturwissenschaftlich-technischen Bereichen ein stabiles Fortsetzen ihres Studiums zu ermöglichen. Die Vergabe der Stipendien dürfte die akademische Unterstützung in relevanten Studiengängen stärken und zur Talentförderung beitragen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kumho Petrochemical donne 30 millions de wons pour des bourses STEM",
-        "excerpt": "Kumho Petrochemical Group a annoncé le 13 avoir donné 30 millions de wons à la Fondation Choi Kyung-Ju pour former des talents STEM, avec des bourses destinées à cinq étudiants.",
-        "body": "Kumho Petrochemical Group a annoncé le 13 avoir donné 30 millions de wons à la Fondation Choi Kyung-Ju afin de soutenir la formation de talents dans les sciences et l’ingénierie. Les bourses seront remises à cinq étudiants de premier cycle et de cycles supérieurs. Les bénéficiaires poursuivent des études dans des domaines STEM, notamment le génie chimique, la robotique et l’informatique. Le don de l’entreprise vise à aider les étudiants en sciences et ingénierie à poursuivre leurs études dans des conditions stables. Cette remise de bourses devrait soutenir les étudiants des filières concernées et contribuer à la base de développement des talents. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كومهو بتروكيميكال تتبرع بـ30 مليون وون لمنح علوم وهندسة",
-        "excerpt": "أعلنت مجموعة كومهو للبتروكيماويات في 13 من الشهر أنها تبرعت بـ30 مليون وون لمؤسسة تشوي كيونغ-جو لدعم مواهب العلوم والهندسة، وستمنح لخمس طلاب جامعيين ودراسات عليا.",
-        "body": "أعلنت مجموعة كومهو للبتروكيماويات في 13 من الشهر أنها تبرعت بـ30 مليون وون لمؤسسة تشوي كيونغ-جو بهدف دعم تنمية المواهب في مجالات العلوم والهندسة. وستُقدَّم المنح إلى خمسة طلاب من مرحلة البكالوريوس والدراسات العليا. ويشمل المستفيدون طلابا يواصلون دراستهم في مجالات علمية وهندسية مثل الهندسة الكيميائية والروبوتات وهندسة الحاسوب. وتركز مساهمة الشركة على مساعدة طلاب العلوم والهندسة على مواصلة دراستهم بشكل مستقر. ومن المتوقع أن تسهم هذه المنح في دعم الطلاب في التخصصات ذات الصلة وتعزيز قاعدة تنمية المواهب. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कुम्हो पेट्रोकेमिकल ने STEM छात्रवृत्ति के लिए 3 करोड़ वॉन दान दिए",
-        "excerpt": "कुम्हो पेट्रोकेमिकल ग्रुप ने 13 तारीख को बताया कि उसने STEM प्रतिभा को बढ़ावा देने के लिए चोई क्यंग-जू फाउंडेशन को 3 करोड़ वॉन दान दिए, जो पांच स्नातक और स्नातकोत्तर छात्रों को मिलेंगे।",
-        "body": "कुम्हो पेट्रोकेमिकल ग्रुप ने 13 तारीख को कहा कि उसने विज्ञान और इंजीनियरिंग क्षेत्रों की प्रतिभा को विकसित करने के लिए चोई क्यंग-जू फाउंडेशन को 3 करोड़ वॉन की छात्रवृत्ति राशि दान की है। यह छात्रवृत्ति पांच स्नातक और स्नातकोत्तर छात्रों को दी जाएगी। लाभार्थी रासायनिक इंजीनियरिंग, रोबोटिक्स और कंप्यूटर इंजीनियरिंग सहित STEM क्षेत्रों में पढ़ाई जारी रखने वाले छात्र हैं। कंपनी का दान विज्ञान और इंजीनियरिंग छात्रों को स्थिर रूप से अपनी पढ़ाई जारी रखने में मदद करने पर केंद्रित है। छात्रवृत्ति से संबंधित विषयों के छात्रों को शैक्षणिक सहायता मिलेगी और प्रतिभा विकास की आधारशिला मजबूत होने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kumho Petrochemical Donasikan 30 Juta Won untuk Beasiswa STEM",
-        "excerpt": "Kumho Petrochemical Group menyatakan pada 13 bahwa pihaknya mendonasikan 30 juta won kepada Choi Kyung-Ju Foundation untuk membina talenta STEM, dengan beasiswa bagi lima mahasiswa sarjana dan pascasarjana.",
-        "body": "Kumho Petrochemical Group menyatakan pada 13 bahwa pihaknya mendonasikan 30 juta won kepada Choi Kyung-Ju Foundation untuk mendukung pembinaan talenta di bidang sains dan teknik. Beasiswa ini akan diberikan kepada lima mahasiswa sarjana dan pascasarjana. Penerimanya adalah mahasiswa yang melanjutkan studi di bidang STEM, termasuk teknik kimia, robotika, dan teknik komputer. Donasi perusahaan berfokus membantu mahasiswa sains dan teknik agar dapat melanjutkan studi secara stabil. Melalui penyaluran beasiswa ini, dukungan akademik bagi mahasiswa jurusan terkait dan dasar pengembangan talenta diharapkan semakin terbantu. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d396f3e6c33c",
-    "slug": "공익-외면-대장동-개발은-창의적인-성공-사례-아니다-유정복-박찬대에-대시민-사과-요구-291176",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T05:37:07.636Z",
-    "updatedAt": "2026-05-13T05:37:07.636Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12046131",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12046131",
-    "titleFingerprint": "b669edebb62ae121d34bef62edba91cd2199e78f",
-    "dedupKeys": [
-      "d396f3e6c33cbf1e9ed23c207058baf94288db85",
-      "b669edebb62ae121d34bef62edba91cd2199e78f",
-      "f4a57fa4880f7fce7f4692bdb0409b2669c13560"
-    ],
-    "imageUrl": "/images/articles/d396f3e6c33c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대장동 개발 논란 재점화…유정복, 박찬대에 대시민 사과 요구",
-        "excerpt": "유정복 인천시장이 박찬대 더불어민주당 인천시장 후보의 대장동 모델 벤치마킹 취지 발언을 문제 삼고, 공익을 외면한 개발을 성공 사례로 볼 수 없다며 사과를 요구했다.",
-        "body": "유정복 인천시장은 박찬대 더불어민주당 인천시장 후보가 지역언론 인터뷰에서 대장동 모델을 벤치마킹하겠다는 취지로 언급한 데 대해 대시민 사과를 요구했다. 유 시장은 이재명 대통령이 성남시장 시절 추진한 대장동 개발을 두고 “공익을 외면한 대장동 개발은 창의적인 성공 사례가 아니다”라고 비판했다. 그는 박 후보의 발언을 겨냥해 “대통령 뒤만 보니 이런 망언이 나온다”고도 말했다. 이번 공방은 인천시장 선거 국면에서 개발 방식과 공익성 논란으로 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Daejang-dong Development Dispute Flares Again as Yoo Demands Park Apologize",
-        "excerpt": "Incheon Mayor Yoo Jeong-bok demanded a public apology from Democratic Party Incheon mayoral candidate Park Chan-dae after Park referred in a local media interview to benchmarking the Daejang-dong model.",
-        "body": "Incheon Mayor Yoo Jeong-bok demanded that Park Chan-dae, the Democratic Party’s candidate for Incheon mayor, apologize to citizens after Park mentioned in a local media interview the idea of benchmarking the Daejang-dong model. Yoo criticized the development project, promoted when President Lee Jae-myung was mayor of Seongnam, saying that “Daejang-dong development that ignored the public interest is not a creative success story.” He also said Park’s remark showed that he was “only looking behind the president.” The exchange is expected to feed debate in the Incheon mayoral race over development models and public interest. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "大庄洞開発論争が再燃…柳正福氏、朴贊大氏に市民への謝罪要求",
-        "excerpt": "柳正福仁川市長は、朴贊大・共に民主党仁川市長候補が地域メディアのインタビューで大庄洞モデルのベンチマークに言及したことを問題視し、謝罪を求めた。",
-        "body": "柳正福仁川市長は、朴贊大・共に民主党仁川市長候補が地域メディアのインタビューで大庄洞モデルをベンチマークする趣旨の発言をしたとして、市民への謝罪を求めた。柳市長は、李在明大統領が城南市長時代に進めた大庄洞開発について、「公益を無視した大庄洞開発は創意的な成功事例ではない」と批判した。また、朴候補の発言を念頭に「大統領の背中ばかり見ているから、このような妄言が出る」と述べた。今回の応酬は、仁川市長選で開発方式と公益性をめぐる論争につながる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "大庄洞开发争议再起…刘正福要求朴赞大向市民道歉",
-        "excerpt": "仁川市长刘正福针对共同民主党仁川市长候选人朴赞大在地方媒体采访中提及借鉴大庄洞模式一事，批评该开发忽视公共利益，并要求道歉。",
-        "body": "仁川市长刘正福要求共同民主党仁川市长候选人朴赞大向市民道歉，原因是朴赞大在地方媒体采访中提到有意借鉴大庄洞模式。刘正福批评说，李在明总统任城南市长时推动的大庄洞开发，“并不是忽视公共利益的创意性成功案例”。他还针对朴赞大的发言表示，“只盯着总统身后看，才会说出这种妄言”。这场交锋预计将在仁川市长选举中引发围绕开发方式与公共利益的争议。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Reaviva la polémica por Daejang-dong: Yoo exige disculpa pública a Park",
-        "excerpt": "El alcalde de Incheon, Yoo Jeong-bok, exigió una disculpa al candidato Park Chan-dae tras sus comentarios en una entrevista local sobre tomar como referencia el modelo de Daejang-dong.",
-        "body": "El alcalde de Incheon, Yoo Jeong-bok, exigió que Park Chan-dae, candidato del Partido Democrático a la alcaldía de Incheon, se disculpe ante la ciudadanía después de que mencionara en una entrevista con medios locales la idea de tomar como referencia el modelo de Daejang-dong. Yoo criticó el desarrollo impulsado cuando el presidente Lee Jae-myung era alcalde de Seongnam y dijo que “un desarrollo de Daejang-dong que ignoró el interés público no es un caso creativo de éxito”. También afirmó que las palabras de Park surgen por “mirar solo detrás del presidente”. La disputa apunta a alimentar el debate electoral sobre desarrollo e interés público. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Polêmica de Daejang-dong volta à tona; Yoo exige desculpas públicas de Park",
-        "excerpt": "O prefeito de Incheon, Yoo Jeong-bok, pediu desculpas públicas de Park Chan-dae após o candidato mencionar em entrevista local a ideia de usar o modelo de Daejang-dong como referência.",
-        "body": "O prefeito de Incheon, Yoo Jeong-bok, exigiu que Park Chan-dae, candidato do Partido Democrático à prefeitura de Incheon, peça desculpas aos cidadãos depois de mencionar em uma entrevista à imprensa local a intenção de tomar o modelo de Daejang-dong como referência. Yoo criticou o projeto promovido quando o presidente Lee Jae-myung era prefeito de Seongnam, afirmando que “o desenvolvimento de Daejang-dong, que ignorou o interesse público, não é um caso criativo de sucesso”. Ele também disse que a fala de Park ocorreu por “olhar apenas para trás do presidente”. A troca deve ampliar o debate eleitoral sobre desenvolvimento e interesse público. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Daejang-dong-Streit flammt auf: Yoo fordert öffentliche Entschuldigung von Park",
-        "excerpt": "Incheons Bürgermeister Yoo Jeong-bok verlangte von Park Chan-dae eine Entschuldigung, nachdem der Kandidat in einem Lokalinterview das Benchmarking des Daejang-dong-Modells angesprochen hatte.",
-        "body": "Incheons Bürgermeister Yoo Jeong-bok forderte Park Chan-dae, den Bürgermeisterkandidaten der Demokratischen Partei in Incheon, zu einer Entschuldigung gegenüber den Bürgern auf. Park hatte in einem Interview mit lokalen Medien sinngemäß erwähnt, das Daejang-dong-Modell als Benchmark nutzen zu wollen. Yoo kritisierte das Projekt, das Präsident Lee Jae-myung während seiner Zeit als Bürgermeister von Seongnam vorangetrieben hatte, und sagte: “Eine Daejang-dong-Entwicklung, die das öffentliche Interesse ignoriert, ist kein kreativer Erfolgsfall.” Zudem warf er Park vor, nur “hinter den Präsidenten zu schauen”. Der Streit dürfte die Debatte über Entwicklungsmodelle und Gemeinwohl im Wahlkampf in Incheon verstärken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La controverse Daejang-dong relancée; Yoo exige des excuses publiques de Park",
-        "excerpt": "Le maire d’Incheon Yoo Jeong-bok a demandé des excuses à Park Chan-dae après que le candidat a évoqué, dans un entretien local, l’idée de s’inspirer du modèle de Daejang-dong.",
-        "body": "Le maire d’Incheon, Yoo Jeong-bok, a demandé à Park Chan-dae, candidat du Parti démocrate à la mairie d’Incheon, de présenter des excuses aux citoyens. Park avait évoqué dans un entretien avec un média local l’idée de prendre pour référence le modèle de Daejang-dong. Yoo a critiqué ce projet, mené lorsque le président Lee Jae-myung était maire de Seongnam, en déclarant qu’“un développement de Daejang-dong qui ignore l’intérêt public n’est pas un exemple de réussite créative”. Il a aussi estimé que ces propos venaient du fait de “ne regarder que derrière le président”. L’échange devrait nourrir le débat électoral sur les modes de développement et l’intérêt public. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جدل دايجانغ-دونغ يتجدد… يو يطالب بارك باعتذار علني للمواطنين",
-        "excerpt": "طالب عمدة إنتشون يو جونغ-بوك المرشح بارك تشان-داي بالاعتذار بعد أن أشار في مقابلة مع إعلام محلي إلى نية الاستفادة من نموذج دايجانغ-دونغ كمرجع للتطوير.",
-        "body": "طالب عمدة إنتشون يو جونغ-بوك بارك تشان-داي، مرشح الحزب الديمقراطي لمنصب عمدة إنتشون، بتقديم اعتذار للمواطنين بعدما تحدث في مقابلة مع وسيلة إعلام محلية عن فكرة الاسترشاد بنموذج دايجانغ-دونغ. وانتقد يو المشروع الذي دُفع به عندما كان الرئيس لي جاي-ميونغ عمدة لمدينة سونغنام، قائلا إن “تطوير دايجانغ-دونغ الذي تجاهل المصلحة العامة ليس حالة نجاح إبداعية”. كما قال إن تصريح بارك جاء لأنه “لا ينظر إلا إلى ما وراء الرئيس”. ومن المتوقع أن يزيد هذا السجال النقاش في سباق عمدة إنتشون حول أساليب التطوير والمصلحة العامة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "देजांग-डोंग विकास विवाद फिर उभरा, यू ने पार्क से सार्वजनिक माफी मांगी",
-        "excerpt": "इंचियोन के मेयर यू जोंग-बोक ने पार्क चान-डे से माफी की मांग की, जब पार्क ने स्थानीय मीडिया साक्षात्कार में देजांग-डोंग मॉडल को संदर्भ बनाने की बात कही।",
-        "body": "इंचियोन के मेयर यू जोंग-बोक ने डेमोक्रेटिक पार्टी के इंचियोन मेयर प्रत्याशी पार्क चान-डे से नागरिकों के सामने माफी मांगने को कहा। पार्क ने स्थानीय मीडिया को दिए साक्षात्कार में देजांग-डोंग मॉडल को बेंचमार्क करने के आशय से बात की थी। यू ने उस परियोजना की आलोचना की, जिसे राष्ट्रपति ली जे-म्योंग ने सोंगनाम के मेयर रहते आगे बढ़ाया था, और कहा कि “जनहित की अनदेखी करने वाला देजांग-डोंग विकास कोई रचनात्मक सफलता का उदाहरण नहीं है।” उन्होंने यह भी कहा कि पार्क की टिप्पणी इसलिए आई क्योंकि वह “सिर्फ राष्ट्रपति के पीछे देख रहे हैं।” यह विवाद इंचियोन मेयर चुनाव में विकास मॉडल और जनहित पर बहस को बढ़ा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kontroversi Daejang-dong Mencuat Lagi; Yoo Tuntut Park Minta Maaf",
-        "excerpt": "Wali Kota Incheon Yoo Jeong-bok meminta Park Chan-dae meminta maaf kepada warga setelah kandidat itu menyebut dalam wawancara media lokal soal mencontoh model Daejang-dong.",
-        "body": "Wali Kota Incheon Yoo Jeong-bok menuntut Park Chan-dae, kandidat wali kota Incheon dari Partai Demokrat, meminta maaf kepada warga setelah Park menyebut dalam wawancara media lokal gagasan untuk menjadikan model Daejang-dong sebagai acuan. Yoo mengkritik proyek yang didorong saat Presiden Lee Jae-myung menjabat wali kota Seongnam, dengan mengatakan bahwa “pengembangan Daejang-dong yang mengabaikan kepentingan publik bukanlah contoh keberhasilan kreatif.” Ia juga menyindir bahwa pernyataan Park muncul karena ia “hanya melihat ke belakang presiden.” Polemik ini diperkirakan memperkuat perdebatan dalam pemilihan wali kota Incheon soal model pembangunan dan kepentingan publik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "292016fa2eb6",
-    "slug": "미국식-패권-모델-한계한국-실용외교-넘는-비전-가져야-604314",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T05:36:01.575Z",
-    "updatedAt": "2026-05-13T05:36:01.576Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12046134",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046134",
-    "titleFingerprint": "7935b1d7c3db41e759e2d71539d68ca5bd4476cd",
-    "dedupKeys": [
-      "292016fa2eb6a83ff9d7592ef2b36be482ac478b",
-      "7935b1d7c3db41e759e2d71539d68ca5bd4476cd",
-      "cad98668b293be7b1f465b4ef09252bb29656a33"
-    ],
-    "imageUrl": "/images/articles/292016fa2eb6.png",
-    "i18n": {
-      "ko": {
-        "title": "미국식 패권 모델 한계 지적…한국 외교, 실용 넘어 비전 필요",
-        "excerpt": "전재성 서울대 정치외교학과 교수는 경제금융협력연구위원회 공개세미나에서 미국식 패권 모델의 한계와 한국 외교가 직면한 미·중 사이 선택 압박을 짚었다.",
-        "body": "전재성 서울대 정치외교학과 교수는 경제금융협력연구위원회 공개세미나 발제에서 미국 홀로 세계질서를 떠받치는 패권 모델이 한계에 이르렀다고 진단했다. 그는 ‘패키지 압박’이 새로운 외교 현실이 되면서 한국이 미국과 중국 사이에서 어려운 선택에 직면하고 있다고 설명했다. 이번 발제는 한국 외교가 단순한 실용외교를 넘어 장기적 비전과 전략적 방향을 갖춰야 한다는 문제의식을 담았다. 미·중 경쟁 속에서 한국의 외교 선택은 경제·금융 협력과 대외 전략 전반에 영향을 줄 수 있다는 점이 강조됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Limits of U.S.-Style Hegemony Highlighted as Korea Faces Diplomatic Choice",
-        "excerpt": "At a public seminar of the Economic and Financial Cooperation Research Committee, Seoul National University professor Chun Jae-sung discussed limits of U.S.-style hegemony and Korea’s pressure between the U.S. and China.",
-        "body": "Chun Jae-sung, professor of political science and international relations at Seoul National University, said in a presentation at a public seminar of the Economic and Financial Cooperation Research Committee that the model in which the United States alone upholds the world order has reached its limits. He explained that “package pressure” has become a new diplomatic reality, placing Korea before difficult choices between the United States and China. The presentation stressed that Korean diplomacy needs a long-term vision and strategic direction beyond practical diplomacy. In the context of U.S.-China competition, Korea’s choices could affect economic and financial cooperation as well as broader external strategy. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "米国型覇権モデルの限界指摘…韓国外交に実用超えるビジョン必要",
-        "excerpt": "ソウル大学の全宰晟教授は経済金融協力研究委員会の公開セミナーで、米国型覇権モデルの限界と韓国が直面する米中間の選択圧力を論じた。",
-        "body": "ソウル大学政治外交学科の全宰晟教授は、経済金融協力研究委員会の公開セミナーでの発表で、米国が単独で世界秩序を支える覇権モデルは限界に達していると診断した。教授は「パッケージ圧力」が新たな外交の現実となり、韓国が米国と中国の間で難しい選択に直面していると説明した。今回の発表は、韓国外交が単なる実用外交を超え、長期的なビジョンと戦略的方向を備える必要があるという問題意識を示した。米中競争の中で韓国の外交的選択は、経済・金融協力と対外戦略全般に影響し得る点が強調された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "美式霸权模式局限凸显：韩国外交需超越实用主义愿景",
-        "excerpt": "首尔大学政治外交学教授全在晟在经济金融合作研究委员会公开研讨会上指出，美式霸权模式面临局限，韩国正承受美中之间的艰难选择压力。",
-        "body": "首尔大学政治外交学教授全在晟在经济金融合作研究委员会公开研讨会的发言中判断，由美国单独支撑世界秩序的霸权模式已走到局限。他说明，“打包式压力”正成为新的外交现实，使韩国在美国和中国之间面临艰难选择。此次发言体现出一种问题意识，即韩国外交不能停留在单纯的实用外交层面，而应具备长期愿景和战略方向。在美中竞争背景下，韩国的外交选择可能影响经济、金融合作以及整体对外战略，这一点受到强调。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Límites del modelo hegemónico de EE. UU.: Corea necesita más visión diplomática",
-        "excerpt": "Chun Jae-sung, profesor de la Universidad Nacional de Seúl, afirmó en un seminario público que el modelo hegemónico de EE. UU. muestra límites y Corea enfrenta presión entre Washington y Pekín.",
-        "body": "Chun Jae-sung, profesor de Ciencia Política y Relaciones Internacionales de la Universidad Nacional de Seúl, señaló en una ponencia del seminario público del Comité de Investigación sobre Cooperación Económica y Financiera que el modelo en el que Estados Unidos sostiene por sí solo el orden mundial ha llegado a sus límites. Explicó que la “presión en paquete” se ha convertido en una nueva realidad diplomática, dejando a Corea ante decisiones difíciles entre Estados Unidos y China. La ponencia subrayó que la diplomacia coreana necesita una visión de largo plazo y una dirección estratégica que vayan más allá del pragmatismo. En la competencia entre Washington y Pekín, esas decisiones pueden influir en la cooperación económica y financiera y en la estrategia exterior general. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Limites da hegemonia dos EUA: Coreia precisa ir além da diplomacia prática",
-        "excerpt": "Chun Jae-sung, professor da Universidade Nacional de Seul, afirmou em seminário público que o modelo hegemônico dos EUA mostra limites e que a Coreia enfrenta pressão entre Washington e Pequim.",
-        "body": "Chun Jae-sung, professor de Ciência Política e Relações Internacionais da Universidade Nacional de Seul, afirmou em apresentação no seminário público do Comitê de Pesquisa sobre Cooperação Econômica e Financeira que o modelo em que os Estados Unidos sustentam sozinhos a ordem mundial chegou a seus limites. Ele explicou que a “pressão em pacote” se tornou uma nova realidade diplomática, colocando a Coreia diante de escolhas difíceis entre Estados Unidos e China. A apresentação destacou que a diplomacia coreana precisa de uma visão de longo prazo e de direção estratégica além da diplomacia prática. Em meio à competição EUA-China, as escolhas diplomáticas da Coreia podem afetar a cooperação econômica e financeira e a estratégia externa mais ampla. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Grenzen US-geprägter Hegemonie: Korea braucht mehr als Pragmatismus",
-        "excerpt": "Chun Jae-sung von der Seoul National University sagte auf einem öffentlichen Seminar, das US-geprägte Hegemoniemodell stoße an Grenzen und Korea stehe unter Entscheidungsdruck zwischen den USA und China.",
-        "body": "Chun Jae-sung, Professor für Politikwissenschaft und Internationale Beziehungen an der Seoul National University, erklärte in einem Vortrag beim öffentlichen Seminar des Forschungsausschusses für Wirtschafts- und Finanzkooperation, das Modell, in dem die USA allein die Weltordnung tragen, sei an seine Grenzen gelangt. Er erläuterte, dass „Paketdruck“ zu einer neuen diplomatischen Realität geworden sei und Korea vor schwierige Entscheidungen zwischen den USA und China stelle. Der Vortrag betonte, dass Koreas Diplomatie über bloßen Pragmatismus hinaus eine langfristige Vision und strategische Richtung brauche. Im Wettbewerb zwischen den USA und China könnten Koreas Entscheidungen die Wirtschafts- und Finanzkooperation sowie die gesamte Außenstrategie beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Limites de l’hégémonie américaine : la Corée appelée à dépasser le pragmatisme",
-        "excerpt": "Chun Jae-sung, professeur à l’Université nationale de Séoul, a déclaré lors d’un séminaire public que le modèle hégémonique américain atteint ses limites et que la Corée subit la pression du choix entre Washington et Pékin.",
-        "body": "Chun Jae-sung, professeur de science politique et de relations internationales à l’Université nationale de Séoul, a estimé lors d’une intervention au séminaire public du Comité de recherche sur la coopération économique et financière que le modèle dans lequel les États-Unis soutiennent seuls l’ordre mondial atteint ses limites. Il a expliqué que la « pression par paquet » est devenue une nouvelle réalité diplomatique, plaçant la Corée face à des choix difficiles entre les États-Unis et la Chine. L’intervention a souligné que la diplomatie coréenne doit se doter d’une vision de long terme et d’une orientation stratégique au-delà du simple pragmatisme. Dans la rivalité sino-américaine, ces choix peuvent influer sur la coopération économique et financière et sur la stratégie extérieure globale. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "حدود نموذج الهيمنة الأميركية تبرز وكوريا مطالبة برؤية دبلوماسية أوسع",
-        "excerpt": "قال تشون جاي سونغ، أستاذ العلوم السياسية والعلاقات الدولية في جامعة سيول الوطنية، في ندوة عامة إن نموذج الهيمنة الأميركية يواجه حدودا وإن كوريا تحت ضغط الاختيار بين واشنطن وبكين.",
-        "body": "قال تشون جاي سونغ، أستاذ العلوم السياسية والعلاقات الدولية في جامعة سيول الوطنية، في عرض خلال الندوة العامة للجنة أبحاث التعاون الاقتصادي والمالي إن النموذج الذي تقوم فيه الولايات المتحدة وحدها بحمل النظام العالمي بلغ حدوده. وأوضح أن «الضغط الحزمي» أصبح واقعا دبلوماسيا جديدا، ما يضع كوريا أمام خيارات صعبة بين الولايات المتحدة والصين. وشدد العرض على أن الدبلوماسية الكورية تحتاج إلى رؤية طويلة المدى واتجاه استراتيجي يتجاوزان الدبلوماسية العملية وحدها. وفي ظل التنافس الأميركي الصيني، قد تؤثر خيارات كوريا الدبلوماسية في التعاون الاقتصادي والمالي وفي الاستراتيجية الخارجية الأوسع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अमेरिकी प्रभुत्व मॉडल की सीमा उजागर, कोरिया को कूटनीति में व्यापक दृष्टि चाहिए",
-        "excerpt": "सियोल नेशनल यूनिवर्सिटी के प्रोफेसर चुन जे-सुंग ने सार्वजनिक सेमिनार में कहा कि अमेरिकी प्रभुत्व मॉडल सीमाओं पर पहुंचा है और कोरिया अमेरिका-चीन के बीच कठिन दबाव झेल रहा है।",
-        "body": "सियोल नेशनल यूनिवर्सिटी के राजनीति विज्ञान और अंतरराष्ट्रीय संबंधों के प्रोफेसर चुन जे-सुंग ने आर्थिक और वित्तीय सहयोग अनुसंधान समिति के सार्वजनिक सेमिनार में कहा कि वह मॉडल, जिसमें अमेरिका अकेले विश्व व्यवस्था को संभालता है, अपनी सीमा पर पहुंच गया है। उन्होंने बताया कि “पैकेज दबाव” नई कूटनीतिक वास्तविकता बन गया है, जिससे कोरिया अमेरिका और चीन के बीच कठिन विकल्पों के सामने है। प्रस्तुति में जोर दिया गया कि कोरियाई कूटनीति को केवल व्यावहारिक कूटनीति से आगे बढ़कर दीर्घकालिक दृष्टि और रणनीतिक दिशा चाहिए। अमेरिका-चीन प्रतिस्पर्धा के बीच कोरिया के कूटनीतिक विकल्प आर्थिक और वित्तीय सहयोग तथा व्यापक विदेश रणनीति को प्रभावित कर सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Batas Model Hegemoni AS Disorot, Diplomasi Korea Perlu Visi Lebih Jauh",
-        "excerpt": "Chun Jae-sung, profesor Universitas Nasional Seoul, dalam seminar publik menyebut model hegemoni AS mulai mencapai batas dan Korea menghadapi tekanan pilihan sulit di antara AS dan China.",
-        "body": "Chun Jae-sung, profesor ilmu politik dan hubungan internasional di Universitas Nasional Seoul, dalam paparan di seminar publik Komite Riset Kerja Sama Ekonomi dan Keuangan menilai model ketika Amerika Serikat sendirian menopang tatanan dunia telah mencapai batasnya. Ia menjelaskan bahwa “tekanan paket” menjadi realitas diplomasi baru, sehingga Korea menghadapi pilihan sulit di antara Amerika Serikat dan China. Paparan itu menekankan bahwa diplomasi Korea perlu memiliki visi jangka panjang dan arah strategis yang melampaui diplomasi praktis semata. Di tengah persaingan AS-China, pilihan diplomatik Korea dapat memengaruhi kerja sama ekonomi dan keuangan serta strategi luar negeri secara keseluruhan. Sumber: mk.co.kr"
       }
     }
   }

@@ -1,0 +1,75 @@
+{
+  "id": "7298bfbac21b",
+  "slug": "매경이-전하는-세상의-지식-매-세-지-5월-14일-512446",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-13T22:20:44.142Z",
+  "updatedAt": "2026-05-13T22:20:44.142Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/society/12046380",
+  "canonicalUrl": "https://www.mk.co.kr/news/society/12046380",
+  "titleFingerprint": "80497facda603d1577d2f9bc64587e05bb2f9eb9",
+  "dedupKeys": [
+    "7298bfbac21b978d720b48471e6e50b6d16c7708",
+    "80497facda603d1577d2f9bc64587e05bb2f9eb9",
+    "ee35d0e3e04fbc92b0f5fcacabaa8b2ec866f14c"
+  ],
+  "imageUrl": "/images/articles/7298bfbac21b.jpg",
+  "i18n": {
+    "ko": {
+      "title": "국민연금 국내 주식 비중 27% 돌파, 목표치 14.9% 크게 상회",
+      "excerpt": "매일경제가 5월 14일 전한 ‘매-세-지’에 따르면 국민연금 포트폴리오의 국내 주식 비중이 27%를 넘어 올해 목표치 14.9%를 크게 웃돌았다.",
+      "body": "매일경제가 5월 14일 전한 ‘매경이 전하는 세상의 지식’에 따르면 국민연금 포트폴리오에서 국내 주식 비중이 27%를 넘어섰다. 이는 올해 목표치인 14.9%를 훌쩍 웃도는 수준이다. 원칙적으로는 목표 비중과 실제 비중의 차이를 맞추기 위해 약 150조원어치 국내 주식을 기계적으로 매도해야 하는 상황으로 제시됐다. 이번 수치는 국민연금의 자산 배분과 국내 증시 수급에 직접 연결되는 사안으로, 목표 비중 관리 방식과 매도 압력 여부가 시장의 관심사가 될 수 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "National Pension’s Korean stock share tops 27%, far above 14.9% target",
+      "excerpt": "According to Maeil Business Newspaper’s May 14 digest, domestic stocks exceeded 27% of the National Pension portfolio, far above this year’s 14.9% target.",
+      "body": "According to Maeil Business Newspaper’s May 14 “Knowledge of the World” digest, domestic stocks accounted for more than 27% of the National Pension portfolio. That is well above this year’s target of 14.9%. In principle, the report presented a situation in which about 150 trillion won in Korean stocks would have to be mechanically sold to bring the actual share back in line with the target. The figure is directly tied to the National Pension’s asset allocation and supply-demand conditions in the local stock market, making its target-weight management and possible selling pressure a point of market attention. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "国民年金の韓国株比率27％超、目標14.9％を大幅上回る",
+      "excerpt": "毎日経済が5月14日に伝えた「メ・セ・ジ」によると、国民年金ポートフォリオの国内株式比率は27％を超え、今年の目標14.9％を大きく上回った。",
+      "body": "毎日経済が5月14日に伝えた「毎経が伝える世の中の知識」によると、国民年金のポートフォリオで国内株式の比率が27％を超えた。これは今年の目標値である14.9％を大きく上回る水準だ。原則としては、目標比率と実際の比率との差を調整するため、約150兆ウォン相当の国内株式を機械的に売却しなければならない状況として示された。この数値は国民年金の資産配分と韓国株式市場の需給に直接関わるため、目標比率の管理方法と売却圧力の有無が市場の関心事となり得る。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "韩国国民年金本土股票占比超27%，远高于14.9%目标",
+      "excerpt": "据《每日经济》5月14日“每日经济传递的世界知识”报道，韩国国民年金投资组合中本土股票占比超过27%，大幅高于今年14.9%的目标。",
+      "body": "据《每日经济》5月14日“每日经济传递的世界知识”报道，韩国国民年金投资组合中本土股票占比已超过27%。这一水平明显高于今年14.9%的目标值。报道指出，原则上，为使实际占比与目标占比相匹配，需机械性卖出约150万亿韩元规模的韩国本土股票。该数据直接关系到国民年金的资产配置以及韩国股市供需，因此目标比重管理方式和潜在卖压可能成为市场关注焦点。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "La pensión nacional supera 27% en acciones coreanas, muy por encima del 14,9%",
+      "excerpt": "Según el resumen de Maeil Business Newspaper del 14 de mayo, las acciones locales superaron el 27% de la cartera del Fondo Nacional de Pensiones, frente a una meta anual del 14,9%.",
+      "body": "Según el resumen “Conocimiento del mundo” publicado por Maeil Business Newspaper el 14 de mayo, las acciones nacionales superaron el 27% de la cartera del Fondo Nacional de Pensiones. La cifra está muy por encima del objetivo de este año, fijado en 14,9%. En principio, el informe señaló que, para ajustar la proporción real al objetivo, habría que vender mecánicamente unos 150 billones de wones en acciones coreanas. El dato está directamente relacionado con la asignación de activos del fondo y con la oferta y demanda del mercado bursátil local, por lo que la gestión del peso objetivo y la posible presión vendedora pueden atraer la atención del mercado. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Pensão nacional passa de 27% em ações coreanas, acima da meta de 14,9%",
+      "excerpt": "Segundo o resumo do Maeil Business Newspaper de 14 de maio, ações domésticas passaram de 27% da carteira do Fundo Nacional de Pensões, bem acima da meta anual de 14,9%.",
+      "body": "Segundo o resumo “Conhecimento do Mundo”, publicado pelo Maeil Business Newspaper em 14 de maio, as ações domésticas passaram de 27% da carteira do Fundo Nacional de Pensões. Esse nível fica muito acima da meta deste ano, de 14,9%. Em princípio, o relatório apresentou uma situação em que cerca de 150 trilhões de wones em ações coreanas teriam de ser vendidos mecanicamente para alinhar a participação real ao alvo. O dado está diretamente ligado à alocação de ativos do fundo e às condições de oferta e demanda no mercado acionário local, tornando a gestão da meta e a possível pressão vendedora pontos de atenção do mercado. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "National Pension hält über 27% in Korea-Aktien, deutlich über 14,9%-Ziel",
+      "excerpt": "Laut dem Maeil-Business-Newspaper-Überblick vom 14. Mai lag der Anteil heimischer Aktien im Portfolio des National Pension Service über 27% und damit klar über dem Jahresziel von 14,9%.",
+      "body": "Laut dem am 14. Mai veröffentlichten Überblick „Wissen der Welt“ von Maeil Business Newspaper lag der Anteil heimischer Aktien im Portfolio des National Pension Service bei über 27%. Damit wurde das diesjährige Ziel von 14,9% deutlich überschritten. Grundsätzlich beschrieb der Bericht eine Lage, in der rund 150 Billionen Won an koreanischen Aktien mechanisch verkauft werden müssten, um den tatsächlichen Anteil wieder an die Zielquote anzupassen. Die Zahl betrifft unmittelbar die Vermögensallokation des Fonds und die Angebots-Nachfrage-Lage am heimischen Aktienmarkt. Daher können die Steuerung der Zielquote und möglicher Verkaufsdruck in den Fokus des Marktes rücken. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "La part d’actions coréennes du fonds national dépasse 27%, au-dessus de 14,9%",
+      "excerpt": "Selon la synthèse du Maeil Business Newspaper du 14 mai, les actions locales représentaient plus de 27% du portefeuille du fonds national de pension, bien au-dessus de l’objectif annuel de 14,9%.",
+      "body": "Selon la synthèse « Connaissance du monde » publiée le 14 mai par Maeil Business Newspaper, les actions nationales représentaient plus de 27% du portefeuille du fonds national de pension. Ce niveau dépasse largement l’objectif fixé cette année à 14,9%. En principe, le rapport présente une situation dans laquelle environ 150 000 milliards de wons d’actions coréennes devraient être vendus mécaniquement afin de ramener la part réelle vers la cible. Ce chiffre touche directement l’allocation d’actifs du fonds et l’équilibre offre-demande sur le marché boursier local. La gestion de la pondération cible et une éventuelle pression vendeuse peuvent donc retenir l’attention du marché. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "حصة الأسهم الكورية في صندوق التقاعد تتجاوز 27% فوق هدف 14.9%",
+      "excerpt": "بحسب موجز صحيفة Maeil Business Newspaper في 14 مايو، تجاوزت الأسهم المحلية 27% من محفظة صندوق التقاعد الوطني الكوري، متخطية بوضوح هدف هذا العام البالغ 14.9%.",
+      "body": "بحسب موجز «معرفة العالم» الذي نشرته صحيفة Maeil Business Newspaper في 14 مايو، تجاوزت حصة الأسهم المحلية 27% من محفظة صندوق التقاعد الوطني الكوري. وهذا مستوى أعلى بكثير من هدف هذا العام البالغ 14.9%. ووفق ما عرضه التقرير، فإن القاعدة المبدئية تعني ضرورة بيع أسهم كورية محلية بقيمة تقارب 150 تريليون وون بصورة آلية لمواءمة الحصة الفعلية مع الحصة المستهدفة. ويرتبط هذا الرقم مباشرة بتوزيع أصول الصندوق وبظروف العرض والطلب في سوق الأسهم المحلية، ما يجعل طريقة إدارة الوزن المستهدف واحتمال ضغط البيع محل اهتمام في السوق. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "राष्ट्रीय पेंशन में कोरियाई शेयर 27% से ऊपर, 14.9% लक्ष्य से काफी अधिक",
+      "excerpt": "Maeil Business Newspaper के 14 मई के सारांश के अनुसार, राष्ट्रीय पेंशन पोर्टफोलियो में घरेलू शेयरों की हिस्सेदारी 27% से ऊपर पहुंची, जो इस वर्ष के 14.9% लक्ष्य से काफी अधिक है।",
+      "body": "Maeil Business Newspaper के 14 मई के “दुनिया का ज्ञान” सारांश के अनुसार, राष्ट्रीय पेंशन पोर्टफोलियो में घरेलू शेयरों की हिस्सेदारी 27% से अधिक हो गई। यह इस वर्ष के 14.9% लक्ष्य से काफी ऊपर है। रिपोर्ट में स्थिति इस रूप में बताई गई कि सिद्धांततः वास्तविक हिस्सेदारी को लक्ष्य अनुपात के अनुरूप लाने के लिए लगभग 150 ट्रिलियन वॉन मूल्य के कोरियाई घरेलू शेयरों की यांत्रिक बिक्री करनी होगी। यह आंकड़ा राष्ट्रीय पेंशन की परिसंपत्ति आवंटन नीति और स्थानीय शेयर बाजार की आपूर्ति-मांग स्थिति से सीधे जुड़ा है। इसलिए लक्ष्य अनुपात का प्रबंधन और संभावित बिकवाली दबाव बाजार की निगाह में रह सकता है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Porsi saham Korea di dana pensiun nasional tembus 27%, jauh di atas target 14,9%",
+      "excerpt": "Menurut ringkasan Maeil Business Newspaper pada 14 Mei, porsi saham domestik dalam portofolio Dana Pensiun Nasional Korea melampaui 27%, jauh di atas target tahun ini sebesar 14,9%.",
+      "body": "Menurut ringkasan “Pengetahuan Dunia” yang disampaikan Maeil Business Newspaper pada 14 Mei, porsi saham domestik dalam portofolio Dana Pensiun Nasional Korea telah melampaui 27%. Angka ini jauh di atas target tahun ini sebesar 14,9%. Secara prinsip, laporan tersebut menggambarkan situasi di mana sekitar 150 triliun won saham domestik Korea harus dijual secara mekanis agar porsi aktual kembali sesuai dengan target. Data ini terkait langsung dengan alokasi aset dana pensiun dan kondisi penawaran-permintaan di pasar saham lokal. Karena itu, cara pengelolaan bobot target dan kemungkinan tekanan jual dapat menjadi perhatian pasar. Sumber: mk.co.kr"
+    }
+  }
+}
