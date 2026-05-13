@@ -1,5 +1,230 @@
 [
   {
+    "id": "f2b00d7a3780",
+    "slug": "나랏빚-상환이냐-재분배냐반도체-호황이-부른-초과세수-논쟁-574145",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T14:05:56.827Z",
+    "updatedAt": "2026-05-13T14:05:56.827Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12046749",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046749",
+    "titleFingerprint": "1c2168518f8a2bdfb80e7400bae974e0b90e488e",
+    "dedupKeys": [
+      "f2b00d7a3780638dfc22805e097084b8f2bf3683",
+      "1c2168518f8a2bdfb80e7400bae974e0b90e488e",
+      "41c25c37a7a8af05a3cedde8cfabc3f1794d08a3"
+    ],
+    "imageUrl": "/images/articles/f2b00d7a3780.jpg",
+    "i18n": {
+      "ko": {
+        "title": "초과세수 논쟁 격화, 반도체 호황 세수는 채무상환인가 재분배인가",
+        "excerpt": "반도체 호황으로 대규모 초과세수가 발생하자 경제 전문가 5인은 국가재정법상 채무상환 우선 원칙과 양극화 해소 재원 활용론을 두고 엇갈린 진단을 내놨다.",
+        "body": "반도체 호황에 힘입어 대규모 초과세수가 발생하면서 이를 나랏빚 상환에 먼저 써야 하는지, 재분배 재원으로 활용해야 하는지를 둘러싼 논쟁이 커지고 있다. 경제 전문가 5인은 국가재정법이 초과세수의 채무상환 우선 원칙을 두고 있다는 점을 들어 “미래 빚을 갚아야 한다”는 신중론과, 양극화 해소를 위한 재원으로 써야 한다는 견해가 팽팽히 맞선다고 진단했다. 이와 관련해 李는 초과세수가 “기업이윤 배당이 아니다”라고 반박했다. 반도체 경기 개선이 세수 확대로 이어진 만큼 재정 운용 방향을 둘러싼 정치·정책 논쟁은 당분간 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Surplus Tax Revenue Debate: Chip Boom Fuels Debt Repayment vs Redistribution Clash",
+        "excerpt": "As a semiconductor boom generates large surplus tax revenue, five economists are divided over whether fiscal law’s debt-repayment priority should prevail or funds should address inequality.",
+        "body": "A major surplus in tax revenue driven by the semiconductor boom has intensified debate over whether the money should first be used to repay national debt or redirected toward redistribution. Five economic experts said views are sharply split between a cautious position that cites the National Finance Act’s priority on debt repayment and argues that future liabilities should be reduced, and another that calls for using the funds to ease polarization. In response, Lee rejected the idea that surplus revenue is a “dividend from corporate profits.” As stronger chip conditions translate into higher tax receipts, the policy and political debate over fiscal management is expected to continue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "超過税収論争が激化、半導体好況の税収は債務返済か再分配か",
+        "excerpt": "半導体好況で大規模な超過税収が生じ、経済専門家5人は国家財政法上の債務返済優先と格差是正財源としての活用をめぐり見解を分けた。",
+        "body": "半導体好況に支えられて大規模な超過税収が発生し、その資金を国の債務返済にまず充てるべきか、再分配財源として活用すべきかをめぐる論争が広がっている。経済専門家5人は、国家財政法が超過税収について債務返済を優先する原則を置いている点を踏まえ、「将来の借金を返すべきだ」とする慎重論と、格差解消の財源にすべきだという見方が拮抗していると診断した。これに関連し、李氏は超過税収は「企業利益の配当ではない」と反論した。半導体市況の改善が税収拡大につながっただけに、財政運営の方向をめぐる政治・政策論争は当面続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "超额税收争议升温：半导体景气带来的收入该还债还是再分配",
+        "excerpt": "半导体景气带来大规模超额税收后，5名经济专家围绕国家财政法的优先偿债原则与用于缓解两极分化的主张给出不同判断。",
+        "body": "在半导体景气带动下出现大规模超额税收后，这笔资金应优先用于偿还国家债务，还是作为再分配财源使用，相关争论正在扩大。5名经济专家指出，围绕国家财政法规定的超额税收优先偿债原则，主张“应偿还未来债务”的谨慎论，与主张将其用于缓解两极分化的观点形成对峙。对此，李氏反驳称，超额税收并不是“企业利润分红”。由于半导体行情改善带动税收增加，围绕财政运用方向的政治和政策争论预计将持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Debate por excedente fiscal: auge de chips enfrenta pago de deuda y redistribución",
+        "excerpt": "El auge de los semiconductores generó un gran excedente fiscal y cinco expertos económicos discrepan sobre priorizar el pago de deuda o usarlo contra la polarización social.",
+        "body": "El auge de los semiconductores ha generado un gran excedente de ingresos fiscales y ha abierto un debate sobre si esos recursos deben destinarse primero al pago de la deuda nacional o utilizarse como fuente de redistribución. Cinco expertos económicos señalaron que las posturas están muy divididas: una posición prudente invoca la Ley de Finanzas Nacionales, que prioriza el pago de deuda, y sostiene que deben reducirse obligaciones futuras; la otra pide usar los fondos para aliviar la polarización. Lee respondió que el excedente fiscal no es un “dividendo de beneficios empresariales”. Como la mejora del sector de chips se traduce en más recaudación, la disputa política y de política fiscal continuará. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Excedente fiscal em debate: boom dos chips opõe pagamento da dívida e redistribuição",
+        "excerpt": "Com o boom dos semicondutores gerando grande excedente de receita, cinco economistas divergem entre priorizar a dívida pública ou financiar medidas contra a polarização.",
+        "body": "O boom dos semicondutores gerou um grande excedente de arrecadação e ampliou o debate sobre se esses recursos devem ser usados primeiro para pagar a dívida pública ou como fonte de redistribuição. Cinco especialistas em economia avaliaram que há um impasse entre a posição cautelosa, que cita a Lei de Finanças Nacionais e sua prioridade ao pagamento de dívida, defendendo quitar obrigações futuras, e a visão de usar os recursos para reduzir a polarização. Lee rebateu que o excedente fiscal não é um “dividendo de lucros empresariais”. Como a melhora do setor de chips elevou a receita tributária, a disputa política e fiscal deve continuar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Streit um Steuerüberschuss: Chipboom stellt Schuldentilgung gegen Umverteilung",
+        "excerpt": "Der Halbleiterboom sorgt für hohe Steuermehreinnahmen; fünf Ökonomen sehen einen Konflikt zwischen gesetzlicher Schuldentilgung und Mitteln gegen Polarisierung.",
+        "body": "Der Halbleiterboom hat hohe zusätzliche Steuereinnahmen ausgelöst und damit die Debatte verschärft, ob das Geld zuerst zur Rückzahlung staatlicher Schulden oder für Umverteilung eingesetzt werden soll. Fünf Wirtschaftsexperten sehen die Positionen eng beieinander: Die vorsichtige Seite verweist auf das nationale Finanzgesetz, das Schuldentilgung priorisiert, und argumentiert, künftige Verbindlichkeiten müssten reduziert werden. Die andere Seite fordert, die Mittel zur Verringerung der sozialen Polarisierung zu nutzen. Lee wies zurück, dass der Steuerüberschuss eine „Dividende aus Unternehmensgewinnen“ sei. Da die Erholung der Chipbranche die Steuereinnahmen erhöht, dürfte die finanzpolitische Debatte anhalten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Excédent fiscal en débat : le boom des puces oppose dette et redistribution",
+        "excerpt": "Le boom des semi-conducteurs a généré un important excédent fiscal; cinq économistes divergent entre priorité au remboursement de la dette et lutte contre la polarisation.",
+        "body": "Le boom des semi-conducteurs a entraîné un important excédent de recettes fiscales, ravivant le débat sur son usage: rembourser d’abord la dette publique ou financer la redistribution. Cinq experts économiques estiment que deux positions s’opposent nettement. La première, prudente, invoque la loi sur les finances nationales, qui donne priorité au remboursement de la dette, et défend la réduction des engagements futurs. La seconde propose d’utiliser ces ressources pour atténuer la polarisation. Lee a répliqué que l’excédent fiscal n’était pas un « dividende des bénéfices des entreprises ». La hausse des recettes liée à l’amélioration du secteur des puces devrait prolonger le débat politique et budgétaire. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جدل فائض الضرائب: طفرة الرقائق تضع سداد الدين في مواجهة إعادة التوزيع",
+        "excerpt": "مع تحقيق طفرة أشباه الموصلات فائضا ضريبيا كبيرا، انقسم خمسة خبراء اقتصاد بين أولوية سداد الدين بموجب قانون المالية واستخدامه لتخفيف الاستقطاب.",
+        "body": "أدت طفرة أشباه الموصلات إلى فائض كبير في الإيرادات الضريبية، ما وسع الجدل حول ما إذا كان ينبغي استخدامه أولا لسداد الدين العام أم كمورد لإعادة التوزيع. ورأى خمسة خبراء اقتصاديين أن المواقف متقاربة الحدة بين طرح حذر يستند إلى قانون المالية الوطنية الذي يعطي أولوية لسداد الدين ويقول بضرورة خفض ديون المستقبل، وطرح يدعو إلى توظيف الأموال لمعالجة الاستقطاب. وفي هذا السياق، رد لي بأن فائض الضرائب ليس «توزيعا لأرباح الشركات». ومع تحول تحسن سوق الرقائق إلى زيادة في الحصيلة الضريبية، من المتوقع استمرار النقاش السياسي والمالي حول إدارة الميزانية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अतिरिक्त कर राजस्व पर बहस: चिप उछाल से कर्ज चुकाने या पुनर्वितरण का सवाल",
+        "excerpt": "सेमीकंडक्टर उछाल से बड़े अतिरिक्त कर राजस्व के बाद पांच आर्थिक विशेषज्ञ राष्ट्रीय वित्त कानून की कर्ज चुकाने की प्राथमिकता और असमानता घटाने के उपयोग पर बंटे।",
+        "body": "सेमीकंडक्टर उद्योग की तेजी से बड़े पैमाने पर अतिरिक्त कर राजस्व आया है, जिससे यह बहस तेज हुई है कि इस राशि का उपयोग पहले सरकारी कर्ज चुकाने में हो या पुनर्वितरण के स्रोत के रूप में। पांच आर्थिक विशेषज्ञों ने कहा कि मत दो हिस्सों में बंटे हैं। एक सतर्क पक्ष राष्ट्रीय वित्त कानून में अतिरिक्त राजस्व से कर्ज चुकाने की प्राथमिकता का हवाला देकर कहता है कि भविष्य का कर्ज घटाना चाहिए। दूसरा पक्ष इसे ध्रुवीकरण कम करने के संसाधन के रूप में इस्तेमाल करने की बात करता है। ली ने जवाब दिया कि अतिरिक्त कर राजस्व “कंपनी मुनाफे का लाभांश” नहीं है। चिप बाजार में सुधार से कर आय बढ़ी है, इसलिए राजकोषीय नीति पर बहस जारी रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Debat Surplus Pajak: Boom Semikonduktor Picu Pilihan Bayar Utang atau Redistribusi",
+        "excerpt": "Boom semikonduktor memicu surplus pajak besar; lima ekonom berbeda pandangan antara prioritas pelunasan utang menurut hukum fiskal dan dana untuk mengurangi polarisasi.",
+        "body": "Boom semikonduktor menghasilkan surplus penerimaan pajak dalam jumlah besar dan memicu perdebatan apakah dana itu harus lebih dulu digunakan untuk membayar utang negara atau dijadikan sumber redistribusi. Lima pakar ekonomi menilai pandangan terbelah antara sikap hati-hati yang merujuk pada Undang-Undang Keuangan Negara, yang memprioritaskan pelunasan utang, serta menekankan perlunya membayar kewajiban masa depan, dan pandangan yang ingin memakai dana tersebut untuk mengurangi polarisasi. Lee membantah bahwa surplus pajak merupakan “dividen dari laba perusahaan”. Karena membaiknya sektor chip meningkatkan penerimaan pajak, debat politik dan kebijakan fiskal diperkirakan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "33daa131612e",
+    "slug": "평균-277-체중-감량-효과고용량-위고비-근육은-그대로-유지한다는데-607686",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T14:04:43.648Z",
+    "updatedAt": "2026-05-13T14:04:43.648Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12046764",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12046764",
+    "titleFingerprint": "a24bc1d700d1feb77bd0538b5852ce936f6f1eb1",
+    "dedupKeys": [
+      "33daa131612e8875573982b3eaf7755196c5c869",
+      "a24bc1d700d1feb77bd0538b5852ce936f6f1eb1",
+      "7eae9dd0cc8fdd04e5e7c3d847772a6c0efda443"
+    ],
+    "imageUrl": "/images/articles/33daa131612e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고용량 위고비 평균 27.7% 감량, 근육 유지 임상 결과 주목",
+        "excerpt": "노보 노디스크가 고용량 위고비 임상 결과를 발표하며 평균 27.7% 체중 감량과 근육 유지 가능성을 제시해 비만 치료 효과에 관심이 커졌다.",
+        "body": "노보 노디스크가 발표한 임상 결과에서 고용량 위고비 제품이 평균 27.7%의 체중 감량 효과를 보였고, 근육은 그대로 유지한다는 분석이 나왔다. 이번 내용은 덴마크 제약사 노보 노디스크의 위고비 고용량 제품 관련 임상 결과를 바탕으로 한다. 원문에 따르면 초반 감량 속도가 늦더라도 치료를 지속하면 체중 감량 효과가 나타날 수 있다는 점도 함께 제시됐다. 비만 치료제 시장에서 체중 감량 폭뿐 아니라 근육 유지 여부가 중요한 평가 기준으로 부각되는 가운데, 이번 결과는 고용량 위고비의 효과를 설명하는 자료로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "High-Dose Wegovy Shows 27.7% Average Weight Loss While Maintaining Muscle",
+        "excerpt": "Novo Nordisk reported clinical results for high-dose Wegovy, showing an average 27.7% weight loss while suggesting muscle mass was maintained during treatment.",
+        "body": "Novo Nordisk reported clinical findings showing that a high-dose Wegovy product delivered an average 27.7% weight loss while maintaining muscle, according to the analysis. The results are based on clinical data announced by the Danish pharmaceutical company for its higher-dose Wegovy product. The original report also noted that even when weight loss is slow in the early stage, continued treatment may still lead to meaningful effects. As the obesity treatment market increasingly weighs not only total weight loss but also muscle preservation, the data draws attention as evidence describing the effect of high-dose Wegovy. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "高用量ウゴービ、平均27.7%減量と筋肉維持を示した臨床結果",
+        "excerpt": "ノボ ノルディスクは高用量ウゴービの臨床結果を発表し、平均27.7%の体重減少と筋肉維持の可能性を示した。",
+        "body": "ノボ ノルディスクが発表した臨床結果で、高用量ウゴービ製品が平均27.7%の体重減少効果を示し、筋肉は維持されたとの分析が示された。今回の内容は、デンマークの製薬会社ノボ ノルディスクが発表した高用量ウゴービに関する臨床結果に基づく。原文によると、初期の減量ペースが遅くても治療を続ければ体重減少効果が現れる可能性がある点も示された。肥満治療薬市場で体重減少幅だけでなく筋肉維持の有無も重要な評価基準となる中、今回の結果は高用量ウゴービの効果を説明する資料として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "高剂量Wegovy平均减重27.7%，临床结果显示肌肉可维持",
+        "excerpt": "诺和诺德公布高剂量Wegovy临床结果，显示平均减重27.7%，同时提出治疗期间肌肉维持的可能性。",
+        "body": "诺和诺德公布的临床结果显示，高剂量Wegovy产品平均带来27.7%的体重下降，并有分析称肌肉得以维持。相关内容基于这家丹麦制药公司发布的高剂量Wegovy临床结果。原文还指出，即使早期减重速度较慢，只要持续治疗，也可能出现体重下降效果。在肥胖治疗药物市场中，减重幅度之外，肌肉是否维持也正成为重要评价标准，因此这一结果作为说明高剂量Wegovy效果的资料受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Wegovy de alta dosis logra una pérdida media del 27,7% y mantiene músculo",
+        "excerpt": "Novo Nordisk presentó resultados clínicos de Wegovy en alta dosis, con una pérdida media de peso del 27,7% y señales de mantenimiento muscular.",
+        "body": "Novo Nordisk presentó resultados clínicos en los que Wegovy de alta dosis mostró una pérdida media de peso del 27,7% y, según el análisis, mantuvo la masa muscular. La información se basa en datos clínicos anunciados por la farmacéutica danesa sobre su producto Wegovy de dosis alta. El informe original también señaló que, aunque la reducción de peso sea lenta al inicio, continuar el tratamiento puede generar efecto. En un mercado de tratamientos contra la obesidad donde no solo importa cuánto peso se pierde, sino también si se conserva el músculo, estos resultados atraen atención como referencia sobre la eficacia de Wegovy de alta dosis. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Wegovy em alta dose reduz 27,7% em média e mantém músculo, diz estudo",
+        "excerpt": "A Novo Nordisk divulgou resultados clínicos do Wegovy em alta dose, com perda média de peso de 27,7% e indicação de preservação muscular.",
+        "body": "A Novo Nordisk divulgou resultados clínicos indicando que o Wegovy em alta dose teve perda média de peso de 27,7% e, segundo a análise, manteve a massa muscular. As informações se baseiam em dados clínicos anunciados pela farmacêutica dinamarquesa sobre a versão de alta dose do Wegovy. O texto original também apontou que, mesmo quando a perda de peso inicial é lenta, a continuidade do tratamento pode gerar efeito. No mercado de medicamentos contra obesidade, em que a preservação muscular ganha peso junto ao volume de perda de peso, o resultado chama atenção como dado sobre a eficácia do Wegovy em alta dose. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hochdosiertes Wegovy senkt Gewicht im Schnitt um 27,7% und erhält Muskeln",
+        "excerpt": "Novo Nordisk meldete klinische Ergebnisse zu hochdosiertem Wegovy mit durchschnittlich 27,7% Gewichtsverlust und Hinweisen auf Muskelerhalt.",
+        "body": "Novo Nordisk hat klinische Ergebnisse vorgestellt, wonach hochdosiertes Wegovy im Durchschnitt zu 27,7% Gewichtsverlust führte und laut Analyse die Muskulatur erhalten blieb. Die Angaben beruhen auf klinischen Daten des dänischen Pharmakonzerns zu seinem hochdosierten Wegovy-Produkt. Der Originalbericht wies zudem darauf hin, dass auch bei langsamer Gewichtsabnahme zu Beginn eine fortgesetzte Behandlung Wirkung zeigen kann. Da im Markt für Adipositasmedikamente neben der Höhe des Gewichtsverlusts auch der Muskelerhalt wichtiger wird, ziehen diese Ergebnisse als Daten zur Wirkung von hochdosiertem Wegovy Aufmerksamkeit auf sich. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Wegovy à forte dose: 27,7% de perte de poids moyenne et muscles préservés",
+        "excerpt": "Novo Nordisk a publié des résultats cliniques sur Wegovy à forte dose, montrant 27,7% de perte de poids moyenne et une préservation musculaire.",
+        "body": "Novo Nordisk a présenté des résultats cliniques indiquant que Wegovy à forte dose a entraîné une perte de poids moyenne de 27,7% tout en préservant les muscles, selon l’analyse. Ces informations reposent sur les données cliniques annoncées par le laboratoire danois pour son produit Wegovy à dosage élevé. Le texte original précise aussi que, même si la perte de poids est lente au début, la poursuite du traitement peut produire un effet. Alors que le marché des traitements contre l’obésité évalue de plus en plus la préservation musculaire en plus de l’ampleur de la perte de poids, ces résultats retiennent l’attention. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ويغوفي بجرعة عالية يحقق خفض وزن 27.7% مع الحفاظ على العضلات",
+        "excerpt": "أعلنت نوفو نورديسك نتائج سريرية لويغوفي بجرعة عالية، أظهرت متوسط خفض وزن 27.7% مع طرح إمكانية الحفاظ على العضلات أثناء العلاج.",
+        "body": "أظهرت نتائج سريرية أعلنتها نوفو نورديسك أن منتج ويغوفي بجرعة عالية حقق متوسط خفض في الوزن بلغ 27.7%، مع تحليل يشير إلى الحفاظ على العضلات. وتستند هذه المعلومات إلى نتائج سريرية أعلنتها شركة الأدوية الدنماركية بشأن منتج ويغوفي عالي الجرعة. وذكر التقرير الأصلي أيضا أن بطء فقدان الوزن في المرحلة الأولى لا يمنع ظهور الأثر إذا استمر العلاج. وفي سوق أدوية السمنة، حيث لا يقتصر التقييم على حجم خفض الوزن بل يشمل أيضا الحفاظ على العضلات، تحظى هذه النتائج باهتمام بوصفها بيانات تشرح أثر ويغوفي عالي الجرعة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हाई-डोज Wegovy में औसत 27.7% वजन घटा, मांसपेशियां बनी रहीं",
+        "excerpt": "Novo Nordisk ने हाई-डोज Wegovy के क्लिनिकल नतीजे जारी किए, जिनमें औसतन 27.7% वजन घटने और मांसपेशियां सुरक्षित रहने की संभावना दिखी।",
+        "body": "Novo Nordisk के घोषित क्लिनिकल नतीजों में हाई-डोज Wegovy उत्पाद ने औसतन 27.7% वजन घटाने का असर दिखाया और विश्लेषण के अनुसार मांसपेशियां बनी रहीं। यह जानकारी डेनमार्क की दवा कंपनी Novo Nordisk के हाई-डोज Wegovy से जुड़े क्लिनिकल परिणामों पर आधारित है। मूल रिपोर्ट के अनुसार, शुरुआती दौर में वजन घटने की गति धीमी हो तब भी इलाज जारी रखने पर असर दिख सकता है। मोटापा उपचार दवाओं के बाजार में अब केवल वजन घटाने की मात्रा ही नहीं, बल्कि मांसपेशियों को बनाए रखना भी अहम मानक बन रहा है, इसलिए ये नतीजे हाई-डोज Wegovy के प्रभाव को बताने वाले डेटा के रूप में ध्यान खींचते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Wegovy Dosis Tinggi Turunkan Berat 27,7% Rata-Rata dan Jaga Otot",
+        "excerpt": "Novo Nordisk merilis hasil klinis Wegovy dosis tinggi yang menunjukkan penurunan berat rata-rata 27,7% serta kemungkinan massa otot tetap terjaga.",
+        "body": "Novo Nordisk mengumumkan hasil klinis yang menunjukkan produk Wegovy dosis tinggi memberi penurunan berat badan rata-rata 27,7% dan, menurut analisis, otot tetap terjaga. Informasi ini didasarkan pada hasil klinis yang diumumkan perusahaan farmasi Denmark tersebut terkait Wegovy dosis tinggi. Laporan asli juga menyebutkan bahwa meski penurunan berat pada awal terapi berjalan lambat, efeknya dapat muncul bila pengobatan diteruskan. Di pasar obat obesitas, bukan hanya besarnya penurunan berat yang dinilai, tetapi juga apakah otot tetap terjaga, sehingga hasil ini menarik perhatian sebagai data tentang efek Wegovy dosis tinggi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b16609620eed",
+    "slug": "美-생산자물가-4년來-최대-상승-524855",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T14:03:41.504Z",
+    "updatedAt": "2026-05-13T14:03:41.504Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12046768",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12046768",
+    "titleFingerprint": "c1da9958348d7e182996d466811e49ca7cc065fb",
+    "dedupKeys": [
+      "b16609620eed52fa1e841d1763a4f62c9e5ed0d1",
+      "c1da9958348d7e182996d466811e49ca7cc065fb",
+      "9049d7b72aaee04d039c69f048bf0dcebb9b278d"
+    ],
+    "imageUrl": "/images/articles/b16609620eed.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 4월 생산자물가 4년 만에 최대 상승, 에너지·운송비 급등 영향",
+        "excerpt": "미국의 4월 생산자물가 상승률이 2022년 이후 최고치를 기록했다. 미국·이란 전쟁에 따른 국제유가 등 에너지 가격 상승과 화물 운송 비용 증가가 배경으로 꼽혔다.",
+        "body": "미국의 4월 생산자물가 상승률이 13일 현지시간 발표 기준 2022년 이후 최고치를 기록했다. 생산자물가는 기업이 상품과 서비스를 생산·공급하는 단계에서 부담하는 가격 흐름을 보여주는 지표로, 이번 상승은 미국·이란 전쟁에 따른 국제유가 등 에너지 가격 상승과 화물 운송 비용 증가가 작용한 결과로 전해졌다. 에너지와 운송비 부담이 커지면 기업 비용이 높아질 수 있어 향후 물가 흐름을 가늠하는 변수로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "US April Producer Prices Post Biggest Rise in Four Years as Energy, Freight Costs Jump",
+        "excerpt": "US producer price inflation for April reached its highest level since 2022, driven by rising energy prices, including global oil, and higher freight transport costs linked to the US-Iran war.",
+        "body": "US producer price inflation for April, announced on the 13th local time, reached its highest level since 2022. The producer price index shows price pressures faced by companies when producing and supplying goods and services. The increase was attributed to higher energy prices, including global oil prices, following the US-Iran war, as well as rising freight transport costs. Greater energy and logistics costs can raise business expenses, making the data a key signal for future inflation trends. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米4月生産者物価が4年ぶり最大上昇、エネルギー・貨物輸送費が押し上げ",
+        "excerpt": "米国の4月生産者物価上昇率は2022年以来の高水準となった。米国・イラン戦争に伴う国際原油などエネルギー価格上昇と貨物輸送費増加が背景だ。",
+        "body": "米国の4月生産者物価上昇率は、現地時間13日の発表基準で2022年以来の最高水準を記録した。生産者物価は、企業が商品やサービスを生産・供給する段階で負担する価格の動きを示す指標だ。今回の上昇は、米国・イラン戦争による国際原油などエネルギー価格の上昇と、貨物輸送費の増加が作用した結果と伝えられている。エネルギーと輸送費の負担拡大は企業コストを押し上げる可能性があり、今後の物価動向を見極める材料として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国4月生产者价格创四年来最大涨幅，能源与货运成本上升推高压力",
+        "excerpt": "美国4月生产者价格涨幅达到2022年以来最高水平。美国与伊朗战争导致国际油价等能源价格上涨，加上货物运输成本增加，成为主要背景。",
+        "body": "当地时间13日公布的数据显示，美国4月生产者价格涨幅达到2022年以来最高水平。生产者价格反映企业在生产和供应商品、服务环节所承受的价格变化。此次上涨被认为与美国与伊朗战争引发的国际油价等能源价格上升，以及货物运输成本增加有关。能源和运输费用负担加重，可能推高企业成本，因此这一数据被视为观察未来通胀走势的重要信号。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Precios al productor de EE. UU. suben al mayor ritmo en cuatro años por energía y fletes",
+        "excerpt": "La inflación de precios al productor de abril en EE. UU. marcó su nivel más alto desde 2022, impulsada por el alza de la energía, incluido el petróleo, y mayores costos de transporte de carga.",
+        "body": "La inflación de precios al productor de abril en Estados Unidos, anunciada el día 13 hora local, alcanzó su nivel más alto desde 2022. Este indicador muestra las presiones de precios que enfrentan las empresas al producir y suministrar bienes y servicios. El aumento se atribuyó al encarecimiento de la energía, incluidos los precios internacionales del petróleo, por la guerra entre Estados Unidos e Irán, junto con mayores costos de transporte de carga. El peso de la energía y la logística puede elevar los costos empresariales, por lo que el dato queda bajo atención para evaluar la trayectoria de la inflación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Preços ao produtor dos EUA têm maior alta em quatro anos com energia e fretes em avanço",
+        "excerpt": "A inflação dos preços ao produtor dos EUA em abril atingiu o maior nível desde 2022, puxada pela alta da energia, incluindo petróleo, e pelo aumento dos custos de transporte de cargas.",
+        "body": "A inflação dos preços ao produtor dos Estados Unidos em abril, divulgada no dia 13 no horário local, atingiu o nível mais alto desde 2022. O indicador mostra as pressões de preços enfrentadas pelas empresas na produção e oferta de bens e serviços. A alta foi atribuída ao aumento dos preços de energia, incluindo o petróleo internacional, em meio à guerra entre Estados Unidos e Irã, além da elevação dos custos de transporte de cargas. Energia e logística mais caras podem ampliar os custos das empresas, tornando o dado relevante para acompanhar a tendência futura da inflação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-Erzeugerpreise im April mit stärkstem Anstieg seit vier Jahren durch Energie und Fracht",
+        "excerpt": "Die US-Erzeugerpreisinflation im April erreichte den höchsten Stand seit 2022. Gründe waren steigende Energiepreise, darunter Öl, infolge des US-Iran-Kriegs sowie höhere Frachtkosten.",
+        "body": "Die US-Erzeugerpreisinflation für April erreichte nach der Veröffentlichung am 13. Ortszeit den höchsten Stand seit 2022. Der Erzeugerpreisindex zeigt den Preisdruck, dem Unternehmen bei der Herstellung und Lieferung von Waren und Dienstleistungen ausgesetzt sind. Der Anstieg wurde auf höhere Energiepreise, darunter internationale Ölpreise, im Zusammenhang mit dem US-Iran-Krieg sowie auf gestiegene Kosten im Gütertransport zurückgeführt. Höhere Energie- und Logistikkosten können die Unternehmensausgaben erhöhen, weshalb die Daten als Signal für den weiteren Inflationsverlauf gelten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Prix à la production américains: plus forte hausse en quatre ans avec énergie et fret",
+        "excerpt": "L’inflation des prix à la production aux États-Unis en avril a atteint son plus haut niveau depuis 2022, portée par la hausse de l’énergie, dont le pétrole, et des coûts de transport de fret.",
+        "body": "L’inflation des prix à la production aux États-Unis en avril, annoncée le 13 heure locale, a atteint son niveau le plus élevé depuis 2022. Cet indicateur mesure les pressions de prix supportées par les entreprises lorsqu’elles produisent et fournissent des biens et services. La hausse a été attribuée à l’augmentation des prix de l’énergie, notamment du pétrole international, liée à la guerre entre les États-Unis et l’Iran, ainsi qu’à la progression des coûts de transport de fret. Des charges accrues en énergie et logistique peuvent relever les coûts des entreprises, faisant de cette donnée un signal suivi pour l’évolution de l’inflation. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسعار المنتجين في أمريكا تسجل أكبر ارتفاع في أربع سنوات بفعل الطاقة والشحن",
+        "excerpt": "بلغ معدل ارتفاع أسعار المنتجين في الولايات المتحدة خلال أبريل أعلى مستوى منذ 2022، مدفوعا بصعود أسعار الطاقة ومنها النفط العالمي وزيادة تكاليف نقل البضائع.",
+        "body": "سجل معدل ارتفاع أسعار المنتجين في الولايات المتحدة خلال أبريل، وفق ما أُعلن في 13 بالتوقيت المحلي، أعلى مستوى منذ عام 2022. ويعكس هذا المؤشر ضغوط الأسعار التي تتحملها الشركات عند إنتاج السلع والخدمات وتوريدها. وجاء الارتفاع نتيجة صعود أسعار الطاقة، بما في ذلك أسعار النفط العالمية، على خلفية الحرب بين الولايات المتحدة وإيران، إضافة إلى زيادة تكاليف نقل البضائع. وقد يؤدي ارتفاع أعباء الطاقة والخدمات اللوجستية إلى زيادة تكاليف الشركات، لذلك يحظى المؤشر بمتابعة بوصفه إشارة لاتجاهات التضخم المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिका में अप्रैल उत्पादक कीमतें चार साल की सबसे बड़ी तेजी पर, ऊर्जा और माल ढुलाई महंगी",
+        "excerpt": "अमेरिका में अप्रैल की उत्पादक मूल्य वृद्धि दर 2022 के बाद सबसे ऊंचे स्तर पर पहुंची। अमेरिका-ईरान युद्ध से तेल समेत ऊर्जा कीमतों और माल ढुलाई लागत में वृद्धि इसका कारण रही।",
+        "body": "अमेरिका में अप्रैल की उत्पादक मूल्य वृद्धि दर, स्थानीय समयानुसार 13 तारीख को जारी आंकड़ों के अनुसार, 2022 के बाद सबसे ऊंचे स्तर पर पहुंच गई। उत्पादक मूल्य सूचकांक यह दिखाता है कि वस्तुओं और सेवाओं के उत्पादन व आपूर्ति के चरण में कंपनियों पर कीमतों का कितना दबाव है। इस वृद्धि के पीछे अमेरिका-ईरान युद्ध के कारण अंतरराष्ट्रीय तेल सहित ऊर्जा कीमतों में बढ़ोतरी और माल ढुलाई लागत में वृद्धि बताई गई। ऊर्जा और परिवहन खर्च बढ़ने से कंपनियों की लागत ऊपर जा सकती है, इसलिए यह आंकड़ा आगे की महंगाई दिशा समझने के लिए अहम संकेत माना जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Harga Produsen AS April Naik Terbesar dalam Empat Tahun Dipicu Energi dan Ongkos Kargo",
+        "excerpt": "Inflasi harga produsen AS pada April mencapai level tertinggi sejak 2022, didorong kenaikan harga energi termasuk minyak global serta meningkatnya biaya transportasi kargo akibat perang AS-Iran.",
+        "body": "Inflasi harga produsen Amerika Serikat pada April, yang diumumkan pada tanggal 13 waktu setempat, mencapai level tertinggi sejak 2022. Indeks harga produsen menunjukkan tekanan harga yang ditanggung perusahaan saat memproduksi dan memasok barang serta jasa. Kenaikan ini dikaitkan dengan meningkatnya harga energi, termasuk harga minyak internasional, akibat perang AS-Iran, serta bertambahnya biaya transportasi kargo. Beban energi dan logistik yang lebih tinggi dapat menaikkan biaya perusahaan, sehingga data ini menjadi sinyal penting untuk melihat arah inflasi ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "93f96f02cb4f",
     "slug": "반가움에-밥-짓다가-뛰어-왔다이-대통령-울산-전통시장-깜짝-방문-177091",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Ekspor Mobil Korea Tembus 76,55 Juta Unit, dari Enam Pony ke Tiga Besar Dunia",
         "excerpt": "Asosiasi Otomotif dan Mobilitas Korea pada tanggal 12 menyebut ekspor mobil yang dimulai dari enam Pony pada 1976 mencapai 76,55 juta unit dalam 50 tahun dan masuk tiga besar dunia.",
         "body": "Industri otomotif Korea Selatan mencatat ekspor kumulatif 76,55 juta kendaraan selama 50 tahun sejak pertama kali mengirim enam unit “Pony” ke luar negeri pada 1976. Asosiasi Otomotif dan Mobilitas Korea merilis analisis itu pada tanggal 12 dan menyatakan bahwa mobil telah tumbuh menjadi salah satu sektor ekspor utama Korea. Berawal dari skala kecil, volume ekspor terus meningkat selama setengah abad hingga mobil Korea menempati posisi yang dinilai sebagai “tiga besar dunia” di pasar otomotif global. Catatan ini menunjukkan pertumbuhan jangka panjang dan daya saing ekspor industri otomotif Korea, serta dapat memengaruhi posisinya di pasar global. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cb3129ff2574",
-    "slug": "2031년까지-서울에-주택-36만호-착공정원오-부동산으로-오세훈에-역공-829474",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T21:05:14.984Z",
-    "updatedAt": "2026-05-12T21:05:14.984Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12045189",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12045189",
-    "titleFingerprint": "0b627de2411499bc1a56cb6a671934e5757e6227",
-    "dedupKeys": [
-      "cb3129ff2574985baadc44e57aa530068768e223",
-      "0b627de2411499bc1a56cb6a671934e5757e6227",
-      "deceb6b88c0eb9be963bc9a0a4254c3856503f89"
-    ],
-    "imageUrl": "/images/articles/cb3129ff2574.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 주택 36만호 착공 공약, 정원오가 부동산 이슈로 오세훈에 맞불",
-        "excerpt": "더불어민주당 정원오 서울시장 후보가 국민의힘 오세훈 후보의 부동산 공세에 대응해 2031년까지 서울 주택 36만호 착공을 내세우며 대규모 공급 구상으로 역공에 나섰다.",
-        "body": "더불어민주당 정원오 서울시장 후보는 국민의힘 오세훈 후보가 민주당 후보의 약점으로 보는 부동산 문제를 앞세워 공세에 나서자, 2031년까지 서울에 주택 36만호를 착공하겠다는 대규모 공급 구상으로 맞섰다. 원문에 따르면 오 후보가 부동산 이슈를 전면에 내세운 상황에서 정 후보는 주택 공급 확대를 핵심 대응 카드로 제시했다. 관련 수치로 제시된 목표는 서울 내 주택 36만호 착공이다. 이 공약은 서울시장 선거에서 부동산 정책 경쟁이 주요 쟁점으로 부각될 가능성을 보여준다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Seoul 360,000-home construction pledge puts Jeong Won-oh on offense against Oh Se-hoon",
-        "excerpt": "Democratic Party Seoul mayoral candidate Jeong Won-oh responded to People Power Party candidate Oh Se-hoon’s real estate attack with a plan to start construction on 360,000 homes in Seoul by 2031.",
-        "body": "Democratic Party Seoul mayoral candidate Jeong Won-oh countered People Power Party candidate Oh Se-hoon’s offensive on real estate by presenting a large-scale housing supply plan to start construction on 360,000 homes in Seoul by 2031. According to the original report, Oh had focused on real estate, an issue he views as a weakness for the Democratic candidate. Jeong responded by making expanded housing supply his central countermeasure. The key figure in the proposal is 360,000 housing starts within Seoul. The pledge shows that real estate policy could become a major point of competition in the Seoul mayoral race. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ソウルで36万戸着工へ、鄭愿伍氏が不動産争点で呉世勲氏に反撃",
-        "excerpt": "共に民主党の鄭愿伍ソウル市長候補は、国民の力の呉世勲候補による不動産攻勢に対し、2031年までにソウルで36万戸を着工する大規模供給構想で反撃した。",
-        "body": "共に民主党の鄭愿伍ソウル市長候補は、国民の力の呉世勲候補が民主党候補の弱点とみる不動産問題を前面に出して攻勢をかけたことを受け、2031年までにソウルで住宅36万戸を着工するという大規模な住宅供給構想で対抗した。原文によると、呉候補が不動産争点を前面に掲げた状況で、鄭候補は住宅供給拡大を核心的な対応策として示した。提示された主な数値は、ソウル市内での住宅36万戸着工だ。この公約は、ソウル市長選で不動産政策競争が主要争点となる可能性を示している。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "首尔36万套住房开工承诺，郑愿伍以房地产议题反击吴世勋",
-        "excerpt": "共同民主党首尔市长候选人郑愿伍面对国民力量候选人吴世勋的房地产攻势，提出到2031年在首尔开工36万套住房的大规模供应构想。",
-        "body": "共同民主党首尔市长候选人郑愿伍在国民力量候选人吴世勋以其认为民主党候选人的弱点即房地产问题发起攻势后，提出到2031年在首尔开工建设36万套住房的大规模供应构想作为反击。原文称，在吴候选人将房地产议题置于前台的情况下，郑候选人把扩大住房供应作为核心应对方案。相关数字是首尔市内住房36万套开工。这一承诺显示，房地产政策竞争可能成为首尔市长选举中的主要焦点。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Promesa de 360.000 viviendas en Seúl: Jeong Won-oh responde a Oh Se-hoon",
-        "excerpt": "Jeong Won-oh, candidato demócrata a la alcaldía de Seúl, respondió a la ofensiva inmobiliaria de Oh Se-hoon con un plan para iniciar 360.000 viviendas en la ciudad antes de 2031.",
-        "body": "Jeong Won-oh, candidato del Partido Democrático a la alcaldía de Seúl, respondió a la ofensiva de Oh Se-hoon, candidato del Partido del Poder Popular, sobre el sector inmobiliario con un plan de gran escala para iniciar la construcción de 360.000 viviendas en Seúl antes de 2031. Según el informe original, Oh puso en primer plano el problema inmobiliario, que considera una debilidad del candidato demócrata. Jeong presentó la ampliación de la oferta de vivienda como su principal respuesta. La cifra clave del plan es el inicio de 360.000 viviendas dentro de Seúl. La promesa apunta a que la política inmobiliaria puede convertirse en un eje central de la contienda por la alcaldía. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Promessa de 360 mil moradias em Seul põe Jeong Won-oh contra Oh Se-hoon",
-        "excerpt": "Jeong Won-oh, candidato democrata à prefeitura de Seul, respondeu à ofensiva imobiliária de Oh Se-hoon com um plano para iniciar 360 mil moradias na capital até 2031.",
-        "body": "Jeong Won-oh, candidato do Partido Democrático à prefeitura de Seul, respondeu à ofensiva de Oh Se-hoon, candidato do Partido do Poder Popular, sobre o setor imobiliário com um plano de grande escala para iniciar a construção de 360 mil moradias em Seul até 2031. Segundo o relatório original, Oh colocou em destaque o tema imobiliário, que considera uma fraqueza do candidato democrata. Jeong apresentou a ampliação da oferta habitacional como sua principal resposta. O número central da proposta é o início de 360 mil moradias dentro de Seul. A promessa indica que a política imobiliária pode ganhar peso central na disputa pela prefeitura. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "360.000 Wohnungsstarts in Seoul: Jeong Won-oh kontert Oh Se-hoons Immobilienangriff",
-        "excerpt": "Jeong Won-oh, Bürgermeisterkandidat der Demokratischen Partei in Seoul, reagierte auf Oh Se-hoons Immobilienoffensive mit dem Plan, bis 2031 den Bau von 360.000 Wohnungen in Seoul zu starten.",
-        "body": "Jeong Won-oh, Bürgermeisterkandidat der Demokratischen Partei in Seoul, hat auf die Immobilienoffensive von Oh Se-hoon, Kandidat der People Power Party, mit einem groß angelegten Wohnungsangebot reagiert: Bis 2031 sollen in Seoul 360.000 Wohnungen in Bau gehen. Dem Originalbericht zufolge stellte Oh das Immobilienthema in den Vordergrund, weil er es als Schwäche des demokratischen Kandidaten sieht. Jeong machte die Ausweitung des Wohnungsangebots zu seiner zentralen Antwort. Die maßgebliche Zahl des Plans sind 360.000 Wohnungsstarts innerhalb Seouls. Das Versprechen zeigt, dass Immobilienpolitik im Rennen um das Bürgermeisteramt zu einem wichtigen Streitpunkt werden kann. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "360 000 logements à Séoul: Jeong Won-oh réplique à Oh Se-hoon sur l’immobilier",
-        "excerpt": "Jeong Won-oh, candidat démocrate à la mairie de Séoul, a répondu à l’offensive immobilière d’Oh Se-hoon par un projet de lancement de 360 000 logements dans la ville d’ici 2031.",
-        "body": "Jeong Won-oh, candidat du Parti démocrate à la mairie de Séoul, a répondu à l’offensive d’Oh Se-hoon, candidat du People Power Party, sur l’immobilier en présentant un vaste projet d’offre de logements: lancer la construction de 360 000 logements à Séoul d’ici 2031. Selon l’article d’origine, Oh a mis en avant l’immobilier, qu’il considère comme une faiblesse du candidat démocrate. Jeong a placé l’expansion de l’offre de logements au cœur de sa réponse. Le chiffre clé de la proposition est le lancement de 360 000 logements dans Séoul. Cette promesse montre que la politique immobilière pourrait devenir un enjeu majeur de la course à la mairie. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "تعهد ببناء 360 ألف منزل في سيول يضع جونغ وون أوه في مواجهة أوه سي هون",
-        "excerpt": "رد مرشح الحزب الديمقراطي لمنصب عمدة سيول جونغ وون أوه على هجوم مرشح حزب قوة الشعب أوه سي هون بشأن العقارات بخطة لبدء بناء 360 ألف منزل في سيول بحلول 2031.",
-        "body": "رد مرشح الحزب الديمقراطي لمنصب عمدة سيول جونغ وون أوه على هجوم مرشح حزب قوة الشعب أوه سي هون في ملف العقارات بطرح خطة واسعة لزيادة المعروض السكني، تقضي ببدء بناء 360 ألف منزل في سيول بحلول عام 2031. ووفق التقرير الأصلي، ركز أوه على قضية العقارات التي يراها نقطة ضعف لدى مرشح الحزب الديمقراطي. في المقابل، قدم جونغ توسيع المعروض من المساكن باعتباره بطاقة الرد الأساسية. الرقم المحوري في الخطة هو بدء بناء 360 ألف وحدة سكنية داخل سيول. ويشير هذا التعهد إلى أن سياسة الإسكان قد تصبح قضية رئيسية في سباق رئاسة بلدية سيول. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "सियोल में 3.6 लाख घरों का निर्माण वादा, जोंग वोन-ओह ने ओह से-हून को जवाब दिया",
-        "excerpt": "डेमोक्रेटिक पार्टी के सियोल मेयर उम्मीदवार जोंग वोन-ओह ने पीपुल पावर पार्टी के ओह से-हून के रियल एस्टेट हमले का जवाब 2031 तक 3.6 लाख घरों का निर्माण शुरू करने की योजना से दिया।",
-        "body": "डेमोक्रेटिक पार्टी के सियोल मेयर उम्मीदवार जोंग वोन-ओह ने पीपुल पावर पार्टी के उम्मीदवार ओह से-हून की रियल एस्टेट मुद्दे पर की गई आक्रामकता का जवाब बड़े आवास आपूर्ति प्रस्ताव से दिया। योजना के तहत 2031 तक सियोल में 3.6 लाख घरों का निर्माण शुरू करने की बात कही गई है। मूल रिपोर्ट के अनुसार, ओह ने रियल एस्टेट को आगे रखा क्योंकि वे इसे डेमोक्रेटिक उम्मीदवार की कमजोरी मानते हैं। जोंग ने आवास आपूर्ति बढ़ाने को अपनी मुख्य प्रतिक्रिया बनाया। प्रस्ताव का प्रमुख आंकड़ा सियोल में 3.6 लाख आवासीय इकाइयों का निर्माण शुरू करना है। यह वादा दिखाता है कि सियोल मेयर चुनाव में रियल एस्टेट नीति बड़ा मुद्दा बन सकती है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Janji 360.000 rumah di Seoul, Jeong Won-oh balas serangan properti Oh Se-hoon",
-        "excerpt": "Kandidat wali kota Seoul dari Partai Demokrat, Jeong Won-oh, menanggapi serangan isu properti dari Oh Se-hoon dengan rencana memulai pembangunan 360.000 rumah di Seoul hingga 2031.",
-        "body": "Kandidat wali kota Seoul dari Partai Demokrat, Jeong Won-oh, membalas ofensif kandidat Partai Kekuatan Rakyat, Oh Se-hoon, terkait isu properti dengan gagasan pasokan perumahan berskala besar: memulai pembangunan 360.000 rumah di Seoul hingga 2031. Menurut laporan asli, Oh mengedepankan isu properti karena melihatnya sebagai kelemahan kandidat Demokrat. Jeong kemudian menjadikan perluasan pasokan rumah sebagai kartu respons utama. Angka kunci dalam rencana tersebut adalah 360.000 unit rumah yang mulai dibangun di Seoul. Janji ini menunjukkan bahwa kebijakan properti dapat menjadi isu penting dalam pemilihan wali kota Seoul. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "baac796a169b",
-    "slug": "대검-박상용-검사-정직-징계청구이화영-수사때-회유있었다-판단-448845",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T21:04:12.549Z",
-    "updatedAt": "2026-05-12T21:04:12.549Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12045202",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12045202",
-    "titleFingerprint": "5c62d4b0126bafaabb56c06177ef6062506a10ec",
-    "dedupKeys": [
-      "baac796a169b4953d992217a62c6daebeb2ac5aa",
-      "5c62d4b0126bafaabb56c06177ef6062506a10ec",
-      "c845633eb6392c507eb7c1ddcbdc941c84e15a89"
-    ],
-    "imageUrl": "/images/articles/baac796a169b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대검, 박상용 검사 정직 징계청구…이화영 수사 회유 판단",
-        "excerpt": "대검찰청은 쌍방울 대북송금 사건 수사 과정에서 회유성 자백 요구와 절차 위반이 있었다는 서울고검 감찰 결과를 바탕으로 박상용 부부장검사 징계를 청구했다.",
-        "body": "대검찰청이 쌍방울 대북송금 사건 수사 과정에서 부적절한 수사 관행이 있었다는 감찰 결과를 근거로 박상용 부부장검사에 대해 ‘정직’ 징계를 청구했다. 서울고검 감찰은 이화영 전 경기도 평화부지사 수사 과정에서 회유성 자백 요구와 절차 위반이 있었다고 판단한 것으로 전해졌다. 이번 징계 청구는 해당 사건 수사 방식의 적정성을 둘러싼 논란이 검찰 내부 감찰 결과로 이어진 사례다. 향후 징계 절차에서 감찰 판단의 구체적 근거와 박 검사 측 소명이 함께 검토될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Supreme Prosecutors Seek Suspension for Prosecutor Park Sang-yong Over Lee Hwa-young Probe",
-        "excerpt": "South Korea’s Supreme Prosecutors’ Office sought disciplinary action against prosecutor Park Sang-yong after an inspection found alleged inducement and procedural violations in the Ssangbangwool remittance probe.",
-        "body": "South Korea’s Supreme Prosecutors’ Office has requested a suspension-level disciplinary action against Deputy Chief Prosecutor Park Sang-yong, citing an inspection that found improper investigative practices during the Ssangbangwool remittance-to-North Korea case. The Seoul High Prosecutors’ Office inspection reportedly concluded that investigators made inducement-like demands for confession and violated procedures while questioning former Gyeonggi Vice Governor Lee Hwa-young. The request marks a formal internal response to controversy over the investigation’s methods. The disciplinary process is expected to review the inspection findings and Park’s explanation. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "大検、朴相容検事に停職懲戒請求…李華泳捜査で懐柔判断",
-        "excerpt": "韓国大検察庁は、サンバンウル対北送金事件の捜査で懐柔的な自白要求と手続き違反があったとの監察結果を基に、朴相容検事の懲戒を請求した。",
-        "body": "韓国大検察庁は、サンバンウル対北送金事件の捜査過程で不適切な捜査慣行があったとの監察結果を根拠に、朴相容副部長検事に対する「停職」懲戒を請求した。ソウル高検の監察は、李華泳元京畿道平和副知事の捜査過程で、懐柔的な自白要求や手続き違反があったと判断したとされる。今回の懲戒請求は、同事件の捜査方法の適正性をめぐる議論が検察内部の監察結果につながった事例だ。今後の懲戒手続きでは、監察判断の具体的根拠と朴検事側の説明が検討される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国大检察厅请求停职处分朴相容检察官，认定李华泳调查中存在劝诱",
-        "excerpt": "韩国大检察厅依据首尔高检监察结果，认为双铃集团对朝汇款案调查中存在劝诱性认罪要求和程序违规，已请求处分朴相容检察官。",
-        "body": "韩国大检察厅依据监察结果，认定双铃集团对朝汇款案调查过程中存在不当侦查做法，并请求对副部长检察官朴相容作出“停职”纪律处分。首尔高等检察厅监察据称判断，在调查前京畿道和平副知事李华泳的过程中，存在带有劝诱性质的认罪要求和程序违规。此次处分请求显示，围绕该案侦查方式是否适当的争议已进入检方内部纪律程序。后续处分程序预计将审查监察判断的具体依据以及朴检察官方面的说明。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fiscalía Suprema pide suspender a Park Sang-yong por la investigación a Lee Hwa-young",
-        "excerpt": "La Fiscalía Suprema de Corea del Sur solicitó sancionar a Park Sang-yong tras una inspección que detectó presunta inducción a confesar y violaciones de procedimiento en el caso Ssangbangwool.",
-        "body": "La Fiscalía Suprema de Corea del Sur solicitó una sanción disciplinaria de suspensión contra el fiscal adjunto Park Sang-yong, basándose en una inspección que señaló prácticas investigativas inapropiadas durante el caso de remesas de Ssangbangwool a Corea del Norte. La inspección de la Fiscalía Superior de Seúl habría concluido que, durante la investigación al ex vicegobernador de Paz de Gyeonggi Lee Hwa-young, hubo exigencias de confesión de carácter persuasivo y violaciones de procedimiento. La solicitud lleva la controversia sobre los métodos de investigación a un proceso disciplinario interno. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Procuradoria pede suspensão de Park Sang-yong por investigação de Lee Hwa-young",
-        "excerpt": "A Suprema Procuradoria da Coreia do Sul pediu punição a Park Sang-yong após inspeção apontar pedido de confissão por persuasão e violações de procedimento no caso Ssangbangwool.",
-        "body": "A Suprema Procuradoria da Coreia do Sul solicitou uma medida disciplinar de suspensão contra o procurador adjunto Park Sang-yong, com base em uma inspeção que apontou práticas investigativas inadequadas no caso de remessas da Ssangbangwool para a Coreia do Norte. A inspeção da Alta Procuradoria de Seul teria concluído que, durante a investigação do ex-vice-governador de Paz de Gyeonggi Lee Hwa-young, houve pedidos de confissão com caráter de persuasão e violações processuais. O pedido transforma a controvérsia sobre os métodos de investigação em procedimento disciplinar interno. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Oberste Staatsanwaltschaft beantragt Suspendierung von Park Sang-yong im Fall Lee Hwa-young",
-        "excerpt": "Die Oberste Staatsanwaltschaft Südkoreas beantragte Disziplinarmaßnahmen gegen Park Sang-yong, nachdem eine Prüfung im Ssangbangwool-Verfahren mögliche Überredung und Verfahrensverstöße festgestellt hatte.",
-        "body": "Die Oberste Staatsanwaltschaft Südkoreas hat gegen den stellvertretenden Leitenden Staatsanwalt Park Sang-yong eine Disziplinarmaßnahme in Form einer Suspendierung beantragt. Grundlage ist eine Prüfung, die im Ermittlungsverfahren zu Ssangbangwool-Überweisungen nach Nordkorea unangemessene Ermittlungspraktiken festgestellt haben soll. Die Oberstaatsanwaltschaft Seoul kam demnach zu dem Schluss, dass bei der Untersuchung des früheren Friedens-Vizegouverneurs der Provinz Gyeonggi, Lee Hwa-young, überredungsähnliche Geständnisforderungen und Verfahrensverstöße vorlagen. Nun folgt ein internes Disziplinarverfahren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le parquet suprême demande la suspension de Park Sang-yong dans l’enquête Lee Hwa-young",
-        "excerpt": "Le parquet suprême sud-coréen a demandé une sanction contre Park Sang-yong après une inspection relevant une demande d’aveux incitative et des violations de procédure dans l’affaire Ssangbangwool.",
-        "body": "Le parquet suprême sud-coréen a demandé une sanction disciplinaire de suspension contre le procureur adjoint Park Sang-yong, sur la base d’une inspection ayant relevé des pratiques d’enquête inappropriées dans l’affaire des transferts de fonds de Ssangbangwool vers la Corée du Nord. L’inspection du parquet supérieur de Séoul aurait estimé que, lors de l’enquête visant l’ancien vice-gouverneur à la paix de la province de Gyeonggi, Lee Hwa-young, des demandes d’aveux à caractère incitatif et des violations de procédure avaient eu lieu. La procédure disciplinaire devra examiner ces constats et les explications de Park. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "النيابة العليا تطلب إيقاف المدعي بارك سانغ-يونغ بسبب تحقيق لي هوا-يونغ",
-        "excerpt": "طلبت النيابة العليا في كوريا الجنوبية معاقبة بارك سانغ-يونغ بعد تفتيش خلص إلى وجود طلبات اعتراف ذات طابع إغرائي ومخالفات إجرائية في قضية تحويلات سانغبانغوول.",
-        "body": "طلبت النيابة العليا في كوريا الجنوبية فرض عقوبة تأديبية بمستوى الإيقاف على نائب رئيس النيابة بارك سانغ-يونغ، استنادا إلى نتائج تفتيش أشارت إلى ممارسات تحقيق غير مناسبة في قضية تحويلات سانغبانغوول إلى كوريا الشمالية. وخلص تفتيش النيابة العليا في سيول، بحسب ما ورد، إلى أن التحقيق مع لي هوا-يونغ، نائب حاكم مقاطعة غيونغي السابق لشؤون السلام، شهد طلبات اعتراف ذات طابع إغرائي ومخالفات في الإجراءات. ويمثل الطلب انتقال الجدل حول أساليب التحقيق إلى مسار تأديبي داخلي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ली ह्वा-यंग जांच में कथित मनुहार पर पार्क सांग-योंग के निलंबन की मांग",
-        "excerpt": "दक्षिण कोरिया के सुप्रीम प्रॉसिक्यूटर्स ऑफिस ने सियोल हाई प्रॉसिक्यूटर्स ऑफिस की निरीक्षण रिपोर्ट के आधार पर पार्क सांग-योंग के खिलाफ अनुशासनात्मक कार्रवाई मांगी है।",
-        "body": "दक्षिण कोरिया के सुप्रीम प्रॉसिक्यूटर्स ऑफिस ने स्सांगबांगवूल उत्तर कोरिया प्रेषण मामले की जांच में अनुचित जांच पद्धतियां पाए जाने के आधार पर उप मुख्य अभियोजक पार्क सांग-योंग के खिलाफ ‘निलंबन’ स्तर की अनुशासनात्मक कार्रवाई मांगी है। सियोल हाई प्रॉसिक्यूटर्स ऑफिस के निरीक्षण ने कथित रूप से निष्कर्ष निकाला कि पूर्व ग्योंगगी शांति उप गवर्नर ली ह्वा-यंग से पूछताछ के दौरान स्वीकारोक्ति के लिए मनुहार जैसी मांगें और प्रक्रियात्मक उल्लंघन हुए। अब अनुशासन प्रक्रिया में निरीक्षण के आधार और पार्क पक्ष की सफाई की समीक्षा होने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kejaksaan Agung Minta Park Sang-yong Diskors Terkait Penyelidikan Lee Hwa-young",
-        "excerpt": "Kejaksaan Agung Korea Selatan meminta sanksi terhadap Park Sang-yong setelah inspeksi menemukan permintaan pengakuan bernuansa bujukan dan pelanggaran prosedur dalam kasus Ssangbangwool.",
-        "body": "Kejaksaan Agung Korea Selatan meminta sanksi disiplin berupa skorsing terhadap Wakil Kepala Jaksa Park Sang-yong, berdasarkan hasil inspeksi yang menyebut adanya praktik penyelidikan tidak patut dalam kasus pengiriman dana Ssangbangwool ke Korea Utara. Inspeksi Kejaksaan Tinggi Seoul dilaporkan menilai bahwa dalam penyelidikan terhadap mantan Wakil Gubernur Perdamaian Gyeonggi Lee Hwa-young terdapat permintaan pengakuan bernuansa bujukan serta pelanggaran prosedur. Permintaan sanksi ini membawa kontroversi metode penyelidikan ke proses disiplin internal. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9aea9c25e3b6",
-    "slug": "서울경찰청-수사-무마-의혹-강남서-수사형사과장-전격교체-627349",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-12T21:02:47.117Z",
-    "updatedAt": "2026-05-12T21:02:47.117Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12045204",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12045204",
-    "titleFingerprint": "f7fa283b46c47aaec4d71d3617e9935b012d4b50",
-    "dedupKeys": [
-      "9aea9c25e3b69d24215fed04d5bcc82ca258cd95",
-      "f7fa283b46c47aaec4d71d3617e9935b012d4b50",
-      "0a53103beafd4b3a905afcd6f60125410a15c2fa"
-    ],
-    "imageUrl": "/images/articles/9aea9c25e3b6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울경찰청, 강남서 수사·형사과장 전격 교체…수사 무마 의혹 여파",
-        "excerpt": "서울경찰청은 12일 경정급 정기인사를 통해 금품 수수와 유명 인플루언서 연루 사기 사건 수사 무마 의혹을 받는 강남경찰서 수사·형사과장급 인사를 전원 교체했다.",
-        "body": "서울경찰청이 12일 경정급 정기인사를 통해 서울 강남경찰서 수사과와 형사과의 과장급 인사를 전격 교체했다. 이번 인사는 금품을 받고 유명 인플루언서가 연루된 사기 사건의 수사를 무마했다는 의혹이 제기된 가운데 이뤄졌다. 원문에 따르면 강남경찰서 수사과 과장급 인사가 전원 교체됐으며, 서울경찰청은 이날 정기인사 내용을 발표했다. 의혹의 핵심은 사건 처리 과정에서 금품 수수와 수사 무마가 있었는지 여부다. 과장급 지휘라인 교체로 해당 사건을 둘러싼 경찰 내부 대응과 후속 확인 절차에 관심이 모인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul Police Replaces Gangnam Investigation Chiefs Amid Case-Coverup Allegations",
-        "excerpt": "On May 12, the Seoul Metropolitan Police reshuffled all chief-level investigation and detective posts at Gangnam Police Station amid allegations of bribery and a coverup in a fraud case involving a well-known influencer.",
-        "body": "The Seoul Metropolitan Police Agency on May 12 abruptly replaced chief-level personnel in the investigation and detective divisions of Seoul’s Gangnam Police Station as part of a regular superintendent-level reshuffle. The move came after allegations that money had been accepted to suppress an investigation into a fraud case involving a well-known influencer. According to the original report, all chief-level officials in Gangnam Police Station’s investigation division were replaced, and the agency announced the regular personnel changes that day. The core issue is whether bribery and interference occurred during the handling of the case. The leadership changes are expected to draw attention to the police response and any follow-up review. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソウル警察庁、江南署の捜査・刑事課長を電撃交代…捜査もみ消し疑惑で",
-        "excerpt": "ソウル警察庁は12日、警正級の定期人事で、金品授受と有名インフルエンサー絡みの詐欺事件の捜査もみ消し疑惑を受ける江南警察署の課長級人事を全面交代した。",
-        "body": "ソウル警察庁は12日、警正級の定期人事を通じ、ソウル江南警察署の捜査課と刑事課の課長級人事を電撃的に交代させた。今回の人事は、金品を受け取り、有名インフルエンサーが関与した詐欺事件の捜査をもみ消したとの疑惑が浮上する中で行われた。原文によると、江南警察署捜査課の課長級人事は全員交代となり、ソウル警察庁は同日、定期人事の内容を発表した。焦点は事件処理の過程で金品授受と捜査もみ消しがあったかどうかだ。課長級の指揮ライン交代により、警察内部の対応と今後の確認手続きに関心が集まる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔警察厅突换江南署侦查与刑事科长，涉调查摆平疑云",
-        "excerpt": "首尔警察厅12日通过警正级定期人事调整，全面更换江南警察署涉收受财物、疑似摆平知名网红相关诈骗案调查的科长级人员。",
-        "body": "首尔警察厅12日通过警正级定期人事调整，突然更换了首尔江南警察署侦查科和刑事科的科长级人员。此次人事变动发生在有关人员被指收受财物，并涉嫌摆平一起知名网红卷入的诈骗案件调查之际。据原文报道，江南警察署侦查科科长级人员已全部更换，首尔警察厅当天公布了定期人事内容。事件焦点在于案件处理过程中是否存在收受财物和干预、压下调查的情况。随着科长级指挥线调整，警方内部应对及后续确认程序预计将受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Policía de Seúl sustituye jefes de Gangnam por sospechas de frenar una investigación",
-        "excerpt": "La Policía Metropolitana de Seúl reemplazó el 12 de mayo a todos los mandos de investigación y delitos de la comisaría de Gangnam por sospechas de soborno y encubrimiento en un fraude ligado a un influencer.",
-        "body": "La Agencia de Policía Metropolitana de Seúl sustituyó el 12 de mayo, dentro de una ronda regular de nombramientos de nivel superintendente, a los jefes de las divisiones de investigación y delitos de la comisaría de Gangnam, en Seúl. La medida se produjo después de que surgieran sospechas de que se recibió dinero para frenar la investigación de un caso de fraude en el que estaba implicado un conocido influencer. Según el informe original, todos los cargos de nivel jefe en la división de investigación de Gangnam fueron reemplazados y la agencia anunció ese día los cambios regulares. El punto central es si hubo sobornos y bloqueo de la investigación durante la gestión del caso. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Polícia de Seul troca chefes de Gangnam após suspeita de abafar investigação",
-        "excerpt": "A Polícia Metropolitana de Seul substituiu em 12 de maio todos os chefes de investigação e crimes da delegacia de Gangnam em meio a suspeitas de suborno e abafamento de caso de fraude ligado a influenciador.",
-        "body": "A Agência de Polícia Metropolitana de Seul substituiu em 12 de maio, dentro de uma rodada regular de nomeações de nível superintendente, os chefes das divisões de investigação e criminal da delegacia de Gangnam, em Seul. A mudança ocorreu após suspeitas de que dinheiro teria sido recebido para abafar a investigação de um caso de fraude envolvendo um influenciador conhecido. Segundo a reportagem original, todos os cargos de chefia da divisão de investigação da delegacia de Gangnam foram trocados, e a agência anunciou no mesmo dia o conteúdo da movimentação regular. O ponto central é se houve recebimento de valores e interferência na investigação durante o tratamento do caso. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Seouler Polizei tauscht Gangnam-Ermittlungschefs nach Vertuschungsvorwürfen aus",
-        "excerpt": "Die Seouler Polizeibehörde ersetzte am 12. Mai im Rahmen regulärer Personalwechsel alle Chefposten der Ermittlungs- und Kriminalabteilungen in Gangnam, nachdem Bestechungs- und Vertuschungsvorwürfe in einem Influencer-Betrugsfall aufgekommen waren.",
-        "body": "Die Seouler Metropolitan Police Agency hat am 12. Mai im Zuge regulärer Personalmaßnahmen auf Superintendentenebene die leitenden Posten der Ermittlungs- und Kriminalabteilungen der Polizeistation Gangnam in Seoul kurzfristig ersetzt. Der Schritt erfolgte, nachdem Vorwürfe laut wurden, Geld sei angenommen worden, um Ermittlungen in einem Betrugsfall mit Beteiligung eines bekannten Influencers zu unterdrücken. Dem Originalbericht zufolge wurden alle Führungskräfte der Ermittlungsabteilung in Gangnam ausgetauscht; die Behörde gab die regulären Personalentscheidungen am selben Tag bekannt. Im Mittelpunkt steht, ob es bei der Fallbearbeitung zu Bestechung und Ermittlungsbehinderung kam. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La police de Séoul remplace des chefs à Gangnam après des soupçons d’étouffement d’enquête",
-        "excerpt": "La police métropolitaine de Séoul a remplacé le 12 mai tous les responsables d’enquête et de police judiciaire du commissariat de Gangnam, sur fond de soupçons de pots-de-vin et d’étouffement d’une affaire de fraude liée à un influenceur.",
-        "body": "L’Agence de police métropolitaine de Séoul a remplacé le 12 mai, dans le cadre d’une rotation régulière de niveau commissaire, les responsables des divisions d’enquête et de police judiciaire du commissariat de Gangnam, à Séoul. Cette décision intervient après des soupçons selon lesquels de l’argent aurait été reçu pour étouffer l’enquête sur une affaire de fraude impliquant un influenceur connu. Selon l’article original, tous les responsables de niveau chef de la division d’enquête de Gangnam ont été remplacés, et l’agence a annoncé le même jour les changements de personnel. L’enjeu central est de savoir s’il y a eu pots-de-vin et intervention dans le traitement de l’affaire. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "شرطة سيول تبدّل قادة التحقيق في غانغنام وسط شبهات طمس قضية احتيال",
-        "excerpt": "أعلنت شرطة سيول في 12 مايو تبديل جميع المناصب القيادية في قسمي التحقيق والجنائيات بمركز غانغنام، وسط شبهات بتلقي أموال لطمس تحقيق في قضية احتيال مرتبطة بمؤثر معروف.",
-        "body": "أجرت وكالة شرطة سيول في 12 مايو تغييرا مفاجئا في المناصب القيادية بقسمي التحقيق والجنائيات في مركز شرطة غانغنام في سيول، ضمن حركة دورية على مستوى رتبة كيونغجونغ. وجاءت الخطوة بعد ظهور شبهات بتلقي أموال مقابل طمس تحقيق في قضية احتيال تورط فيها مؤثر معروف. ووفقا للتقرير الأصلي، تم استبدال جميع المسؤولين على مستوى رؤساء الأقسام في قسم التحقيق بمركز غانغنام، وأعلنت شرطة سيول تفاصيل الحركة في اليوم نفسه. ويتمحور الأمر حول ما إذا كان قد حدث تلقي أموال أو تدخل في مسار معالجة القضية. ومن المتوقع أن يتركز الاهتمام على استجابة الشرطة الداخلية وإجراءات المتابعة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल पुलिस ने गंगनम थाने के जांच व अपराध प्रमुख बदले, जांच दबाने के आरोप",
-        "excerpt": "सियोल मेट्रोपॉलिटन पुलिस ने 12 मई को नियमित तबादलों में गंगनम थाने के जांच और अपराध शाखा के सभी प्रमुख-स्तर अधिकारियों को बदला, जिन पर एक प्रसिद्ध इन्फ्लुएंसर से जुड़े धोखाधड़ी मामले की जांच दबाने के आरोप हैं।",
-        "body": "सियोल मेट्रोपॉलिटन पुलिस एजेंसी ने 12 मई को क्यॉन्गजॉन्ग स्तर की नियमित नियुक्ति प्रक्रिया के तहत सियोल के गंगनम पुलिस स्टेशन की जांच और अपराध शाखाओं के प्रमुख-स्तर अधिकारियों को अचानक बदल दिया। यह कदम उन आरोपों के बीच उठाया गया कि धन लेकर एक प्रसिद्ध इन्फ्लुएंसर से जुड़े धोखाधड़ी मामले की जांच को दबाया गया। मूल रिपोर्ट के अनुसार, गंगनम पुलिस स्टेशन की जांच शाखा के सभी प्रमुख-स्तर अधिकारी बदले गए और सियोल पुलिस ने उसी दिन नियमित तबादलों की जानकारी दी। मुख्य सवाल यह है कि मामले की प्रक्रिया में धन स्वीकार करने और जांच रोकने जैसी बात हुई या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Polisi Seoul Ganti Kepala Investigasi Gangnam di Tengah Dugaan Peredaman Kasus",
-        "excerpt": "Kepolisian Metropolitan Seoul pada 12 Mei mengganti seluruh pejabat setingkat kepala di divisi investigasi dan kriminal Polsek Gangnam, di tengah dugaan suap dan peredaman penyelidikan kasus penipuan yang melibatkan influencer terkenal.",
-        "body": "Kepolisian Metropolitan Seoul pada 12 Mei mendadak mengganti pejabat setingkat kepala di divisi investigasi dan kriminal Polsek Gangnam, Seoul, melalui rotasi rutin tingkat superintendent. Langkah ini dilakukan setelah muncul dugaan bahwa uang diterima untuk meredam penyelidikan kasus penipuan yang melibatkan seorang influencer terkenal. Menurut laporan asli, seluruh pejabat setingkat kepala di divisi investigasi Polsek Gangnam diganti, dan Kepolisian Seoul mengumumkan isi rotasi rutin tersebut pada hari yang sama. Inti persoalannya adalah apakah ada penerimaan uang dan peredaman penyelidikan dalam penanganan kasus itu. Sumber: mk.co.kr"
       }
     }
   }
