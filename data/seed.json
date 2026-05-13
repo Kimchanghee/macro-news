@@ -1,5 +1,230 @@
 [
   {
+    "id": "36d0bec3cd8a",
+    "slug": "위치-평점보다-이것-한국인이-숙소-고를-때-가장-따지는-요소-297035",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T23:45:25.108Z",
+    "updatedAt": "2026-05-13T23:45:25.108Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/culture/12047071",
+    "canonicalUrl": "https://www.mk.co.kr/news/culture/12047071",
+    "titleFingerprint": "f3dbd35402f4561879ecaba39d4547c1011194cd",
+    "dedupKeys": [
+      "36d0bec3cd8aa53b6ea427a7af666ba49b7082ec",
+      "f3dbd35402f4561879ecaba39d4547c1011194cd",
+      "b670747af4318f52ec77eb52f8cb6b9327cb99dc"
+    ],
+    "imageUrl": "/images/articles/36d0bec3cd8a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "숙소 종류가 1위, 한국인이 여행 숙소 고를 때 가장 먼저 보는 조건",
+        "excerpt": "아고다가 한국 여행객의 숙소 검색 필터 순위를 발표하며, 위치나 평점보다 ‘숙소 종류’가 선택 과정에서 가장 중요한 조건으로 나타났다고 밝혔다.",
+        "body": "한국 여행객들이 숙소를 고를 때 가장 먼저 따지는 요소는 ‘숙소 종류’인 것으로 나타났다. 디지털 여행 플랫폼 아고다는 한국 여행객의 숙소 검색 필터 이용 순위를 발표하고, 숙소 종류가 1위를 차지했다고 밝혔다. 투숙객 평가와 조식 여부도 상위권에 올랐다. 이는 여행객들이 단순히 위치나 평점만 보는 것이 아니라, 호텔·리조트 등 원하는 숙박 형태와 실제 이용 경험, 식사 조건까지 함께 비교한다는 점을 보여준다. 숙박업계는 검색 필터에서 드러난 선호를 반영해 상품 노출과 안내 정보를 더 세분화할 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Accommodation Type Tops Korean Travelers’ Lodging Search Priorities",
+        "excerpt": "Agoda released a ranking of accommodation search filters used by Korean travelers, showing that accommodation type ranked ahead as the most important selection factor.",
+        "body": "Korean travelers appear to consider “accommodation type” first when choosing where to stay. Digital travel platform Agoda released a ranking of accommodation search filter use among Korean travelers and said accommodation type took the top spot. Guest reviews and breakfast availability also ranked among the leading filters. The results show that travelers are not looking only at location or ratings, but also comparing the kind of lodging they want, actual guest experiences and meal conditions. For the lodging industry, the filter rankings suggest a need to present property information and search exposure in more detailed ways. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国人旅行者、宿選びで最重視するのは立地や評価より「宿泊施設の種類」",
+        "excerpt": "アゴダは韓国人旅行者の宿泊検索フィルター順位を発表し、宿泊施設の種類が宿選びで最も重視される条件だったと明らかにした。",
+        "body": "韓国人旅行者が宿泊先を選ぶ際、最も重視する要素は「宿泊施設の種類」であることが分かった。デジタル旅行プラットフォームのアゴダは、韓国人旅行者の宿泊検索フィルター利用順位を発表し、宿泊施設の種類が1位になったと明らかにした。宿泊客の評価や朝食の有無も上位に入った。これは、旅行者が立地や評価だけでなく、ホテルやリゾートなど希望する宿泊形態、実際の利用経験、食事条件まで比較していることを示す。宿泊業界には、こうした選好を反映した情報提供と露出の細分化が求められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国旅客选住宿最看重什么？住宿类型排名第一",
+        "excerpt": "Agoda发布韩国旅客住宿搜索筛选项排名，显示“住宿类型”成为最受重视的选择因素，住客评价和早餐也位居前列。",
+        "body": "韩国旅客在选择住宿时，最先考虑的因素是“住宿类型”。数字旅行平台Agoda发布了韩国旅客住宿搜索筛选项使用排名，并表示住宿类型位居第一。住客评价和是否提供早餐也进入前列。结果显示，旅客并不只是查看位置或评分，还会同时比较酒店、度假村等想要的住宿形态、实际入住体验以及餐食条件。对住宿行业而言，搜索筛选项反映出的偏好意味着需要更细致地呈现房源信息和调整曝光方式。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Tipo de alojamiento, el factor que más miran los coreanos al reservar",
+        "excerpt": "Agoda publicó el ranking de filtros de búsqueda de alojamiento de viajeros coreanos y reveló que el tipo de alojamiento fue el criterio más importante.",
+        "body": "Los viajeros coreanos priorizan el “tipo de alojamiento” al elegir dónde hospedarse. La plataforma digital de viajes Agoda publicó un ranking de los filtros de búsqueda de alojamiento usados por viajeros de Corea y señaló que el tipo de alojamiento ocupó el primer lugar. Las evaluaciones de huéspedes y la disponibilidad de desayuno también figuraron entre los filtros principales. El resultado muestra que los viajeros no se fijan solo en la ubicación o la puntuación, sino que comparan la forma de hospedaje que desean, las experiencias reales de otros usuarios y las condiciones de comida. Para el sector hotelero, estos filtros sugieren la necesidad de detallar mejor la información de los alojamientos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Tipo de acomodação lidera escolhas de hospedagem dos viajantes coreanos",
+        "excerpt": "A Agoda divulgou o ranking de filtros de busca de hospedagem usados por viajantes coreanos e mostrou que o tipo de acomodação ficou em primeiro lugar.",
+        "body": "Os viajantes coreanos consideram primeiro o “tipo de acomodação” ao escolher onde ficar. A plataforma digital de viagens Agoda divulgou o ranking de uso dos filtros de busca de hospedagem entre viajantes da Coreia e informou que o tipo de acomodação ficou em primeiro lugar. Avaliações de hóspedes e disponibilidade de café da manhã também apareceram entre os principais filtros. O resultado mostra que os viajantes não observam apenas localização ou nota, mas comparam o formato de hospedagem desejado, experiências reais de usuários e condições de refeição. Para o setor de hospedagem, a preferência revelada pelos filtros indica a necessidade de informações mais detalhadas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Unterkunftsart ist Koreas wichtigster Filter bei der Hotelsuche",
+        "excerpt": "Agoda veröffentlichte eine Rangliste der Unterkunftsfilter koreanischer Reisender und zeigte, dass die Unterkunftsart bei der Auswahl an erster Stelle steht.",
+        "body": "Koreanische Reisende achten bei der Wahl einer Unterkunft zuerst auf die “Unterkunftsart”. Die digitale Reiseplattform Agoda veröffentlichte eine Rangliste der von koreanischen Reisenden genutzten Suchfilter und erklärte, dass die Unterkunftsart den ersten Platz belegte. Gästebewertungen und Frühstück gehörten ebenfalls zu den oberen Filtern. Das Ergebnis zeigt, dass Reisende nicht nur Lage oder Bewertung prüfen, sondern auch die gewünschte Form der Unterkunft, tatsächliche Erfahrungen anderer Gäste und Essensbedingungen vergleichen. Für die Unterkunftsbranche bedeutet dies, dass Informationen und Sichtbarkeit in Suchfiltern genauer auf diese Präferenzen abgestimmt werden sollten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le type d’hébergement arrive en tête des critères des voyageurs coréens",
+        "excerpt": "Agoda a publié le classement des filtres de recherche d’hébergement utilisés par les voyageurs coréens, où le type d’hébergement arrive au premier rang.",
+        "body": "Les voyageurs coréens regardent d’abord le “type d’hébergement” lorsqu’ils choisissent où séjourner. La plateforme de voyage numérique Agoda a publié le classement des filtres de recherche d’hébergement utilisés par les voyageurs coréens et a indiqué que le type d’hébergement occupait la première place. Les avis des clients et la disponibilité du petit-déjeuner figurent aussi parmi les principaux critères. Ce résultat montre que les voyageurs ne se limitent pas à l’emplacement ou à la note, mais comparent aussi la forme d’hébergement souhaitée, les expériences réelles des clients et les conditions de repas. Pour le secteur, ces préférences appellent une information plus détaillée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نوع مكان الإقامة يتصدر معايير الكوريين عند اختيار السكن للسفر",
+        "excerpt": "أعلنت أجودا ترتيب مرشحات البحث عن أماكن الإقامة لدى المسافرين الكوريين، موضحة أن نوع مكان الإقامة جاء في المرتبة الأولى.",
+        "body": "يتبين أن المسافرين الكوريين ينظرون أولا إلى “نوع مكان الإقامة” عند اختيار مكان السكن أثناء السفر. فقد أعلنت منصة السفر الرقمية أجودا ترتيب استخدام مرشحات البحث عن أماكن الإقامة لدى المسافرين الكوريين، وقالت إن نوع مكان الإقامة احتل المركز الأول. كما جاءت تقييمات النزلاء وتوافر الإفطار ضمن المراتب المتقدمة. وتوضح النتيجة أن المسافرين لا يعتمدون فقط على الموقع أو التقييم، بل يقارنون أيضا شكل الإقامة المطلوب، وتجارب المستخدمين الفعلية، وشروط الوجبات. وبالنسبة لقطاع الإقامة، تشير هذه التفضيلات إلى الحاجة لتقديم معلومات أكثر تفصيلا في نتائج البحث. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई यात्री ठहरने की जगह चुनते समय सबसे पहले आवास का प्रकार देखते हैं",
+        "excerpt": "Agoda ने कोरियाई यात्रियों के आवास खोज फिल्टर की रैंकिंग जारी की, जिसमें आवास का प्रकार सबसे महत्वपूर्ण चयन मानदंड के रूप में पहले स्थान पर रहा।",
+        "body": "कोरियाई यात्री ठहरने की जगह चुनते समय सबसे पहले “आवास का प्रकार” देखते हैं। डिजिटल ट्रैवल प्लेटफॉर्म Agoda ने कोरियाई यात्रियों द्वारा इस्तेमाल किए गए आवास खोज फिल्टर की रैंकिंग जारी की और बताया कि आवास का प्रकार पहले स्थान पर रहा। मेहमानों की समीक्षा और नाश्ते की उपलब्धता भी शीर्ष फिल्टरों में शामिल रहे। यह परिणाम दिखाता है कि यात्री केवल स्थान या रेटिंग नहीं देखते, बल्कि होटल या रिसॉर्ट जैसे पसंदीदा ठहराव के रूप, वास्तविक उपयोग अनुभव और भोजन की शर्तों की भी तुलना करते हैं। आवास उद्योग के लिए यह संकेत है कि खोज जानकारी और प्रस्तुति को अधिक विस्तृत बनाया जाए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jenis Akomodasi Jadi Faktor Utama Wisatawan Korea Saat Memilih Penginapan",
+        "excerpt": "Agoda merilis peringkat filter pencarian akomodasi wisatawan Korea dan menunjukkan bahwa jenis akomodasi menjadi faktor paling penting dalam memilih tempat menginap.",
+        "body": "Wisatawan Korea diketahui paling dulu mempertimbangkan “jenis akomodasi” saat memilih tempat menginap. Platform perjalanan digital Agoda merilis peringkat penggunaan filter pencarian akomodasi oleh wisatawan Korea dan menyatakan bahwa jenis akomodasi menempati posisi pertama. Ulasan tamu dan ketersediaan sarapan juga masuk jajaran teratas. Hasil ini menunjukkan bahwa wisatawan tidak hanya melihat lokasi atau rating, tetapi juga membandingkan bentuk penginapan yang diinginkan, pengalaman nyata pengguna lain, dan kondisi makan. Bagi industri akomodasi, preferensi yang terlihat dari filter pencarian ini menandakan perlunya informasi properti yang lebih rinci. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "698224a4d3a0",
+    "slug": "그랜저-진짜-망했다-비웃다-충격벌써-대박예감-아직-배고픈-신형-세상만車-871345",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T23:44:29.901Z",
+    "updatedAt": "2026-05-13T23:44:29.901Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046800",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046800",
+    "titleFingerprint": "6324a747beef2bcd44e947f8f4bfa4e4c558af0f",
+    "dedupKeys": [
+      "698224a4d3a041922d4f0eac18355033d28167a2",
+      "6324a747beef2bcd44e947f8f4bfa4e4c558af0f",
+      "5bbe48c88c5400b45c61296669e89d96b10c90f7"
+    ],
+    "imageUrl": "/images/articles/698224a4d3a0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "신형 그랜저, 사전알림 3만명 돌파…4천만원대 아빠차로 흥행 조짐",
+        "excerpt": "신형 그랜저가 플레오스 커넥트를 앞세워 SDV 시대 대응 모델로 돌아왔다. 4천만원대 완성형 아빠차를 표방하며 사전알림 신청 3만명을 넘겨 초기 흥행 기대를 키우고 있다.",
+        "body": "신형 그랜저가 플레오스 커넥트를 적용한 모델로 돌아오며 국내 세단 시장에서 초기 관심을 모으고 있다. 원문에 따르면 신형 그랜저는 SDV 시대 본격화를 겨냥한 기술 구성을 앞세우고, 4천만원대 ‘완성형 아빠차’로 거듭난 점을 내세웠다. 사전알림 신청자는 이미 3만명을 돌파해 출시 전부터 흥행 조짐을 보이고 있다. 기존 평가와 달리 수요가 빠르게 확인되면서 신형 그랜저의 시장 반응과 판매 흐름이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "New Grandeur Tops 30,000 Alerts, Signals Demand as 40 Million-Won Family Sedan",
+        "excerpt": "The new Hyundai Grandeur returns with Pleos Connect for the SDV era, positioning itself as a complete family sedan in the 40 million-won range after topping 30,000 pre-alert sign-ups.",
+        "body": "The new Hyundai Grandeur is drawing early attention in the domestic sedan market as it returns with Pleos Connect. According to the original report, the model highlights technology aimed at the SDV era and presents itself as a ‘complete dad car’ in the 40 million-won range. Pre-alert sign-ups have already exceeded 30,000, pointing to signs of strong interest before launch. As demand is being confirmed faster than earlier criticism suggested, the market response and sales trajectory of the new Grandeur are now in focus. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "新型グレンジャー、事前通知3万人突破…4000万ウォン台の父親車に関心",
+        "excerpt": "新型グレンジャーはプレオスコネクトを搭載し、SDV時代に対応するモデルとして復帰した。4000万ウォン台の完成型ファミリーセダンを掲げ、事前通知申請が3万人を超えた。",
+        "body": "新型グレンジャーがプレオスコネクトを適用したモデルとして戻り、韓国セダン市場で初期の関心を集めている。原文によると、新型グレンジャーはSDV時代の本格化を見据えた技術構成を前面に出し、4000万ウォン台の「完成型パパ車」として生まれ変わった点を打ち出した。事前通知の申請者はすでに3万人を突破し、発売前からヒットの兆しを見せている。従来の評価とは異なり需要が早く確認され、市場反応と販売動向が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "新款Grandeur预告申请破3万，4000万韩元级家用轿车显热度",
+        "excerpt": "新款Grandeur搭载Pleos Connect回归，面向SDV时代强化技术配置，并以4000万韩元级完整型家庭轿车定位，预告申请人数已突破3万人。",
+        "body": "新款Grandeur以搭载Pleos Connect的车型回归，在韩国轿车市场获得早期关注。原文称，新款Grandeur主打面向SDV时代的技术配置，并强调其已升级为4000万韩元级的“完整型爸爸车”。预告通知申请人数已经突破3万人，显示出上市前的热销迹象。与此前部分评价不同，需求正在快速得到确认，因此新款Grandeur的市场反应和后续销售走势受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Nuevo Grandeur supera 30.000 avisos y gana tracción como sedán familiar de 40 millones",
+        "excerpt": "El nuevo Grandeur vuelve con Pleos Connect para la era SDV y se presenta como un sedán familiar completo en la franja de 40 millones de wones, tras superar 30.000 solicitudes de aviso previo.",
+        "body": "El nuevo Grandeur está captando atención inicial en el mercado coreano de sedanes al regresar con Pleos Connect. Según el texto original, el modelo destaca una configuración tecnológica orientada a la era SDV y se presenta como un “auto de papá completo” en la franja de 40 millones de wones. Las solicitudes de aviso previo ya superaron las 30.000, lo que apunta a señales de buena recepción antes del lanzamiento. Con una demanda que se confirma más rápido de lo que sugerían algunas críticas previas, la respuesta del mercado y el ritmo de ventas quedan bajo observación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Novo Grandeur passa 30 mil alertas e mira sucesso como sedã familiar de 40 milhões",
+        "excerpt": "O novo Grandeur retorna com Pleos Connect para a era SDV e se posiciona como um sedã familiar completo na faixa de 40 milhões de wons, após superar 30 mil pedidos de alerta prévio.",
+        "body": "O novo Grandeur está atraindo atenção inicial no mercado coreano de sedãs ao retornar com Pleos Connect. Segundo o texto original, o modelo destaca uma configuração tecnológica voltada à era SDV e se apresenta como um “carro de pai completo” na faixa de 40 milhões de wons. Os pedidos de alerta prévio já passaram de 30 mil, indicando sinais de forte interesse antes do lançamento. Com a demanda sendo confirmada rapidamente, em contraste com avaliações anteriores, a reação do mercado e o fluxo de vendas do novo Grandeur passam a ser observados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Neuer Grandeur über 30.000 Vormerkungen, 40-Millionen-Won-Familienlimousine im Fokus",
+        "excerpt": "Der neue Grandeur kehrt mit Pleos Connect für das SDV-Zeitalter zurück und positioniert sich als vollständige Familienlimousine in der 40-Millionen-Won-Klasse, nachdem mehr als 30.000 Vorabmeldungen eingingen.",
+        "body": "Der neue Grandeur sorgt im koreanischen Limousinenmarkt für frühe Aufmerksamkeit, da er mit Pleos Connect zurückkehrt. Dem Originalbericht zufolge stellt das Modell eine technische Ausrichtung auf das SDV-Zeitalter heraus und präsentiert sich als „vollständiges Papa-Auto“ in der 40-Millionen-Won-Klasse. Die Zahl der Vorabbenachrichtigungen hat bereits 30.000 überschritten, was vor dem Marktstart auf starkes Interesse hindeutet. Da die Nachfrage schneller sichtbar wird als frühere Kritik erwarten ließ, rücken Marktreaktion und Verkaufsentwicklung des neuen Grandeur in den Blick. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Nouveau Grandeur au-delà de 30 000 alertes, intérêt fort pour la berline familiale",
+        "excerpt": "Le nouveau Grandeur revient avec Pleos Connect pour l’ère SDV et se positionne comme une berline familiale complète autour de 40 millions de wons, après plus de 30 000 demandes d’alerte préalable.",
+        "body": "Le nouveau Grandeur attire déjà l’attention sur le marché coréen des berlines avec son retour équipé de Pleos Connect. Selon le texte original, le modèle met en avant une configuration technologique pensée pour l’ère SDV et se présente comme une « voiture de père complète » dans la tranche des 40 millions de wons. Les demandes d’alerte préalable ont déjà dépassé 30 000, signe d’un intérêt marqué avant le lancement. Alors que la demande se confirme plus vite que ne le suggéraient certaines critiques, la réaction du marché et l’évolution des ventes du nouveau Grandeur seront suivies de près. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "غراندور الجديدة تتجاوز 30 ألف طلب تنبيه وتبرز كسيارة عائلية بفئة 40 مليون وون",
+        "excerpt": "تعود غراندور الجديدة مع Pleos Connect استعدادا لعصر SDV، وتطرح نفسها كسيارة عائلية مكتملة في فئة 40 مليون وون بعد تجاوز طلبات التنبيه المسبق 30 ألفا.",
+        "body": "تجذب غراندور الجديدة اهتماما مبكرا في سوق السيدان الكوري بعد عودتها مزودة بتقنية Pleos Connect. وبحسب النص الأصلي، تركز السيارة على تجهيزات تقنية تستهدف عصر SDV، وتقدم نفسها كـ«سيارة أب مكتملة» في فئة 40 مليون وون. وقد تجاوز عدد طلبات التنبيه المسبق 30 ألفا، ما يشير إلى بوادر اهتمام قوي قبل الإطلاق. ومع تأكد الطلب بسرعة خلافا لبعض التقييمات السابقة، تتركز الأنظار على رد فعل السوق ومسار مبيعات غراندور الجديدة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "नई Grandeur ने 30,000 अलर्ट पार किए, 4 करोड़ वॉन श्रेणी की फैमिली सेडान पर नजर",
+        "excerpt": "नई Grandeur Pleos Connect के साथ SDV युग के लिए लौटी है। 4 करोड़ वॉन श्रेणी की पूर्ण फैमिली सेडान के रूप में पेश इस मॉडल ने प्री-अलर्ट आवेदन 30,000 से अधिक कर लिए हैं।",
+        "body": "नई Grandeur Pleos Connect के साथ लौटते हुए कोरियाई सेडान बाजार में शुरुआती ध्यान खींच रही है। मूल रिपोर्ट के अनुसार, यह मॉडल SDV युग को ध्यान में रखकर तैयार तकनीकी संरचना को आगे रखता है और 4 करोड़ वॉन श्रेणी की ‘पूर्ण डैड कार’ के रूप में पेश किया गया है। प्री-अलर्ट आवेदन पहले ही 30,000 से अधिक हो चुके हैं, जिससे लॉन्च से पहले मजबूत रुचि के संकेत मिल रहे हैं। पहले की आलोचनाओं के विपरीत मांग तेजी से दिख रही है, इसलिए नई Grandeur की बाजार प्रतिक्रिया और बिक्री प्रवाह पर नजर रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Grandeur Baru Tembus 30.000 Peminat, Sedan Keluarga 40 Juta Won Mulai Disorot",
+        "excerpt": "Grandeur baru hadir kembali dengan Pleos Connect untuk era SDV dan diposisikan sebagai sedan keluarga lengkap di kisaran 40 juta won, setelah pendaftaran notifikasi awal melampaui 30.000 orang.",
+        "body": "Grandeur baru mulai menarik perhatian di pasar sedan Korea setelah kembali dengan Pleos Connect. Menurut teks asli, model ini menonjolkan konfigurasi teknologi untuk memasuki era SDV dan diposisikan sebagai “mobil ayah lengkap” di kisaran 40 juta won. Pendaftaran notifikasi awal sudah melampaui 30.000 orang, menunjukkan tanda minat kuat sebelum peluncuran. Berbeda dari sebagian penilaian sebelumnya, permintaan cepat terlihat, sehingga respons pasar dan laju penjualan Grandeur baru kini menjadi sorotan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9b7f5660b88f",
+    "slug": "종전안-쓰레기라는-트럼프부통령은-이란과-진전-있다-329839",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-13T23:43:36.340Z",
+    "updatedAt": "2026-05-13T23:43:36.340Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12047135",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12047135",
+    "titleFingerprint": "814c328b202ed9d77d6a330fbd48e46311de8a36",
+    "dedupKeys": [
+      "9b7f5660b88f0e2f19ff309e4304578937d4c82e",
+      "814c328b202ed9d77d6a330fbd48e46311de8a36",
+      "6218457734886b50bfdc1ad6c91cd531b8c8ef38"
+    ],
+    "imageUrl": "/images/articles/9b7f5660b88f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 ‘이란 종전안 쓰레기’ 비판 속 밴스 “협상 진전 있다”",
+        "excerpt": "JD 밴스 미국 부통령은 이란과의 종전협상에서 진전이 있다고 밝혔지만, 도널드 트럼프 대통령은 이란의 수정 종전안을 ‘용납불가’이자 ‘쓰레기’라고 비판했다.",
+        "body": "JD 밴스 미국 부통령이 이란과의 종전협상에서 진전이 이뤄지고 있다고 주장했다. 이는 도널드 트럼프 미국 대통령이 이란이 내놓은 수정 종전안에 대해 ‘용납불가’, ‘쓰레기’라고 강하게 비난한 가운데 나온 발언이다. 원문에 따르면 양측의 협상 상황을 두고 미국 행정부 내부에서 상반된 메시지가 동시에 제기된 셈이다. 트럼프 대통령의 공개 비판은 이란 측 제안에 대한 수용 가능성이 낮다는 신호로 읽히지만, 밴스 부통령은 협상 자체가 완전히 멈춘 것은 아니라는 점을 강조했다. 향후 종전협상의 향방은 이란 수정안에 대한 미국 측 평가와 추가 조율 여부에 달려 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Trump Slams Iran Ceasefire Plan as “Trash” While Vance Says Talks Progress",
+        "excerpt": "U.S. Vice President JD Vance said progress is being made in ceasefire talks with Iran, even as President Donald Trump rejected Iran’s revised proposal as unacceptable and “trash.”",
+        "body": "U.S. Vice President JD Vance said there has been progress in ceasefire negotiations with Iran. His remarks came as President Donald Trump sharply criticized Iran’s revised ceasefire proposal, calling it unacceptable and “trash.” According to the original report, the two comments show conflicting signals from within the U.S. administration over the state of the talks. Trump’s public rejection suggests limited room to accept Iran’s latest offer, while Vance emphasized that negotiations themselves have not fully stopped. The next phase of the talks will depend on Washington’s assessment of Iran’s revised plan and whether further adjustments are made. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "トランプ氏はイラン終戦案を「ごみ」と批判、バンス副大統領は進展強調",
+        "excerpt": "JD・バンス米副大統領はイランとの終戦交渉で進展があると述べた一方、トランプ大統領はイランの修正案を「容認不可」「ごみ」と批判した。",
+        "body": "JD・バンス米副大統領は、イランとの終戦交渉で進展が出ていると主張した。この発言は、ドナルド・トランプ米大統領がイランの修正終戦案について「容認不可」「ごみ」と強く批判した中で出たものだ。原文によると、交渉状況をめぐり米政権内から相反するメッセージが同時に示された形となる。トランプ氏の公開批判は、イラン側提案を受け入れる可能性が低いとの信号と読める。一方でバンス氏は、交渉そのものが完全に止まったわけではない点を強調した。今後の行方は、米側による修正案の評価と追加調整の有無に左右される。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "特朗普批伊朗停战方案是“垃圾”，万斯称谈判仍有进展",
+        "excerpt": "美国副总统JD·万斯称与伊朗的停战谈判取得进展，但总统特朗普批评伊朗修订方案“不可接受”且是“垃圾”。",
+        "body": "美国副总统JD·万斯表示，与伊朗的停战谈判正在取得进展。此番表态出现在美国总统唐纳德·特朗普强烈批评伊朗提出的修订停战方案之后，特朗普称该方案“不可接受”，并称其为“垃圾”。据原文报道，围绕谈判现状，美国政府内部同时释放出不同信号。特朗普的公开批评显示，美国接受伊朗最新提案的可能性较低；而万斯则强调，谈判本身并未完全停止。未来停战谈判的走向，将取决于美方对伊朗修订方案的评估，以及双方是否继续进行调整。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Trump llama “basura” al plan de Irán, mientras Vance ve avances en las negociaciones",
+        "excerpt": "El vicepresidente estadounidense JD Vance afirmó que hay avances en las negociaciones con Irán, aunque Donald Trump calificó la propuesta revisada iraní de inaceptable y “basura”.",
+        "body": "El vicepresidente de Estados Unidos, JD Vance, afirmó que se están logrando avances en las negociaciones de fin del conflicto con Irán. Sus declaraciones se produjeron después de que el presidente Donald Trump criticara con dureza la propuesta revisada presentada por Irán, calificándola de inaceptable y de “basura”. Según el informe original, las dos posturas reflejan señales contrapuestas dentro de la administración estadounidense sobre el estado de las conversaciones. La crítica pública de Trump sugiere poca disposición a aceptar la última oferta iraní, mientras Vance subrayó que la negociación no se ha detenido por completo. El rumbo dependerá de la evaluación estadounidense y de posibles ajustes adicionales. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Trump chama plano do Irã de “lixo”, mas Vance diz que há avanço nas negociações",
+        "excerpt": "O vice-presidente dos EUA, JD Vance, disse que há progresso nas negociações com o Irã, enquanto Donald Trump chamou a proposta revisada iraniana de inaceitável e “lixo”.",
+        "body": "O vice-presidente dos Estados Unidos, JD Vance, afirmou que há progresso nas negociações para encerrar o conflito com o Irã. A declaração veio após o presidente Donald Trump criticar duramente a proposta revisada apresentada por Teerã, classificando-a como inaceitável e “lixo”. Segundo a reportagem original, as falas revelam sinais divergentes dentro do governo americano sobre a situação das conversas. A crítica pública de Trump indica baixa possibilidade de aceitação da oferta iraniana, enquanto Vance destacou que a negociação em si não foi totalmente interrompida. O futuro das tratativas dependerá da avaliação dos EUA sobre a proposta revisada e de eventuais novos ajustes. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Trump nennt Irans Friedensplan „Müll“, doch Vance sieht Fortschritte bei Gesprächen",
+        "excerpt": "US-Vizepräsident JD Vance sieht Fortschritte in den Verhandlungen mit Iran, während Donald Trump den überarbeiteten iranischen Vorschlag als inakzeptabel und „Müll“ kritisierte.",
+        "body": "US-Vizepräsident JD Vance erklärte, in den Verhandlungen mit Iran über ein Ende des Konflikts gebe es Fortschritte. Die Aussage fiel, nachdem Präsident Donald Trump den von Iran vorgelegten überarbeiteten Vorschlag scharf kritisiert und als inakzeptabel sowie als „Müll“ bezeichnet hatte. Dem Originalbericht zufolge senden Vertreter der US-Regierung damit unterschiedliche Signale zum Stand der Gespräche. Trumps öffentliche Kritik deutet auf eine geringe Bereitschaft hin, den jüngsten iranischen Vorschlag anzunehmen. Vance betonte dagegen, dass die Verhandlungen selbst nicht vollständig zum Stillstand gekommen seien. Der weitere Verlauf hängt von der US-Bewertung des Vorschlags und möglichen Nachbesserungen ab. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Trump qualifie le plan iranien de « déchet », Vance évoque des progrès dans les discussions",
+        "excerpt": "Le vice-président américain JD Vance affirme que les négociations avec l’Iran progressent, tandis que Donald Trump juge la proposition iranienne révisée inacceptable et la qualifie de « déchet ».",
+        "body": "Le vice-président américain JD Vance a affirmé que des progrès étaient réalisés dans les négociations avec l’Iran sur la fin du conflit. Cette déclaration intervient alors que le président Donald Trump a vivement critiqué la proposition révisée présentée par l’Iran, la jugeant inacceptable et la qualifiant de « déchet ». Selon le rapport original, ces prises de position montrent des signaux divergents au sein de l’administration américaine sur l’état des discussions. La critique publique de Trump suggère une faible possibilité d’acceptation de l’offre iranienne, tandis que Vance souligne que les pourparlers ne sont pas totalement arrêtés. La suite dépendra de l’évaluation américaine et d’éventuels ajustements. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "ترامب يصف خطة إيران بأنها «قمامة» وفانس يؤكد تقدما في المفاوضات",
+        "excerpt": "قال نائب الرئيس الأميركي جي دي فانس إن مفاوضات إنهاء النزاع مع إيران تحقق تقدما، بينما وصف دونالد ترامب المقترح الإيراني المعدل بأنه غير مقبول و«قمامة».",
+        "body": "قال نائب الرئيس الأميركي جي دي فانس إن تقدما يتحقق في المفاوضات مع إيران بشأن إنهاء النزاع. وجاء تصريحه في وقت انتقد فيه الرئيس دونالد ترامب بشدة المقترح المعدل الذي قدمته إيران، واصفا إياه بأنه غير مقبول و«قمامة». وبحسب التقرير الأصلي، تعكس التصريحات رسائل متباينة داخل الإدارة الأميركية بشأن وضع المحادثات. فانتقاد ترامب العلني يشير إلى ضعف احتمال قبول العرض الإيراني الأخير، بينما شدد فانس على أن المفاوضات نفسها لم تتوقف بالكامل. وسيتوقف مسار المحادثات المقبلة على تقييم واشنطن للمقترح الإيراني المعدل وما إذا كانت ستجري تعديلات إضافية. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "ट्रंप ने ईरान के प्रस्ताव को “कचरा” कहा, वेंस बोले बातचीत में प्रगति है",
+        "excerpt": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने कहा कि ईरान के साथ युद्ध समाप्ति वार्ता में प्रगति हो रही है, जबकि डोनाल्ड ट्रंप ने ईरान के संशोधित प्रस्ताव को अस्वीकार्य और “कचरा” बताया।",
+        "body": "अमेरिकी उपराष्ट्रपति जेडी वेंस ने दावा किया कि ईरान के साथ युद्ध समाप्ति से जुड़ी वार्ता में प्रगति हो रही है। उनका बयान ऐसे समय आया जब राष्ट्रपति डोनाल्ड ट्रंप ने ईरान की ओर से पेश संशोधित प्रस्ताव की कड़ी आलोचना की और उसे अस्वीकार्य तथा “कचरा” बताया। मूल रिपोर्ट के अनुसार, बातचीत की स्थिति को लेकर अमेरिकी प्रशासन के भीतर एक साथ अलग-अलग संकेत सामने आए हैं। ट्रंप की सार्वजनिक आलोचना से ईरान के ताजा प्रस्ताव को स्वीकार किए जाने की संभावना कम दिखती है, जबकि वेंस ने जोर दिया कि वार्ता पूरी तरह रुकी नहीं है। आगे की दिशा अमेरिकी मूल्यांकन और अतिरिक्त समायोजन पर निर्भर करेगी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Trump Sebut Rencana Iran “Sampah”, Vance Klaim Negosiasi Masih Maju",
+        "excerpt": "Wakil Presiden AS JD Vance menyebut ada kemajuan dalam perundingan dengan Iran, sementara Donald Trump mengecam proposal revisi Iran sebagai tidak dapat diterima dan “sampah”.",
+        "body": "Wakil Presiden Amerika Serikat JD Vance menyatakan bahwa ada kemajuan dalam perundingan untuk mengakhiri konflik dengan Iran. Pernyataan itu muncul setelah Presiden Donald Trump mengecam keras proposal revisi yang diajukan Iran, menyebutnya tidak dapat diterima dan “sampah”. Menurut laporan asli, dua pernyataan tersebut menunjukkan sinyal yang berbeda dari dalam pemerintahan AS mengenai kondisi negosiasi. Kritik terbuka Trump mengisyaratkan kecilnya peluang menerima tawaran terbaru Iran, sementara Vance menekankan bahwa proses perundingan belum sepenuhnya berhenti. Arah pembicaraan berikutnya akan bergantung pada penilaian AS atas proposal revisi Iran dan kemungkinan penyesuaian lanjutan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "d8d09f8485f3",
     "slug": "2028학년도-지역의사전형-94-수시로-뽑는다정시는-단-3곳-891598",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Kwak Sang-eon Akan Ajukan Aduan Pidana atas Postingan Palsu tentang Roh Moo-hyun",
         "excerpt": "Kwak Sang-eon, anggota parlemen Partai Demokrat dan menantu mantan Presiden Roh Moo-hyun, menyatakan akan menanggapi postingan palsu yang jahat tentang Roh dengan aduan pidana.",
         "body": "Kwak Sang-eon, anggota parlemen Partai Demokrat Korea sekaligus menantu mantan Presiden Roh Moo-hyun, memutuskan untuk menanggapi postingan jahat berisi informasi palsu tentang Roh dengan aduan pidana. Kwak menilai penyebaran postingan palsu yang menargetkan Roh sebagai masalah dan menyatakan akan menempuh prosedur hukum. Ia menyampaikan bahwa masyarakat setidaknya harus menjaga sopan santun dasar. Langkah ini diperkirakan kembali menyoroti masalah penyebaran fakta palsu dan postingan jahat terhadap mantan presiden yang telah wafat. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "8ffa1a075741",
-    "slug": "ai-시대-변화-인터넷-시대-보고-배우라전문가들-전망은-128490",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T08:48:50.042Z",
-    "updatedAt": "2026-05-13T08:48:50.042Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12046373",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12046373",
-    "titleFingerprint": "7a8ce5a2a06c2b0b168a9f61b8d9f4aa05b0ccca",
-    "dedupKeys": [
-      "8ffa1a0757414a51ab0339e1a60c8b1cd8fd4ff6",
-      "7a8ce5a2a06c2b0b168a9f61b8d9f4aa05b0ccca",
-      "28293781a2347ba14ec4f0136a90a5faa428c46f"
-    ],
-    "imageUrl": "/images/articles/8ffa1a075741.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 시대 변화 전망, 인터넷 시대 경험에서 배울 핵심 과제",
-        "excerpt": "과학기술정보통신부는 정부 부처 전반이 AI 전략을 내세우는 가운데 과학기술·인공지능 미래전략회의를 출범시키고 AI 전략 재검토와 아젠다 정리에 나섰다.",
-        "body": "정부 부처 전반이 인공지능(AI) 전략을 앞세우는 가운데 과학기술정보통신부가 과학기술·인공지능 미래전략회의를 출범시키고 AI 전략을 다시 점검하는 작업에 들어갔다. 회의의 핵심은 AI 시대의 변화 방향을 짚고, 인터넷 시대의 전환 경험을 참고해 정책 아젠다를 정리하는 데 있다. 배경에는 각 부처가 AI를 주요 전략으로 내세우면서 국가 차원의 방향성과 우선순위를 재정비할 필요가 커진 흐름이 있다. 전문가들은 AI 확산이 산업과 행정 전반의 변화를 동반할 수 있는 만큼, 과거 인터넷 보급기에서 나타난 변화와 대응을 살펴볼 필요가 있다고 봤다. 향후 논의는 정부 AI 전략의 재검토와 주요 과제 정리에 초점이 맞춰질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI Era Outlook: Key Policy Tasks Draw Lessons From Internet Age",
-        "excerpt": "South Korea’s science ministry launched a science, technology and AI future strategy meeting to review AI strategy and organize policy agendas as ministries promote AI plans.",
-        "body": "As government ministries across South Korea put forward artificial intelligence strategies, the Ministry of Science and ICT has launched a science, technology and AI future strategy meeting and begun reviewing its AI strategy. The meeting focuses on assessing the direction of change in the AI era and organizing policy agendas by referring to the transition seen during the internet age. The background is a growing need to reset national direction and priorities as each ministry presents AI as a key strategy. Experts said the spread of AI could bring changes across industry and public administration, making it necessary to examine the shifts and responses seen when the internet expanded. Future discussions are expected to focus on reviewing government AI strategy and defining major tasks. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AI時代の変化展望、インターネット時代の経験に学ぶ課題",
-        "excerpt": "韓国科学技術情報通信部は各省庁がAI戦略を掲げる中、科学技術・人工知能未来戦略会議を発足させ、AI戦略の再点検と議題整理に着手した。",
-        "body": "韓国の政府省庁全体が人工知能（AI）戦略を打ち出す中、科学技術情報通信部は科学技術・人工知能未来戦略会議を発足させ、AI戦略を改めて点検する作業に入った。会議の焦点は、AI時代の変化の方向を見極め、インターネット時代の転換経験を参考に政策議題を整理することにある。背景には、各省庁がAIを主要戦略として掲げる中で、国家レベルの方向性と優先順位を再整理する必要性が高まっている流れがある。専門家は、AIの普及が産業と行政全般の変化を伴う可能性があるため、過去のインターネット普及期に見られた変化と対応を検討する必要があると見ている。今後の議論は政府のAI戦略の再検討と主要課題の整理に重点が置かれる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI时代变革展望：从互联网时代经验中寻找政策重点",
-        "excerpt": "韩国科学技术信息通信部在各政府部门推进AI战略之际，启动科学技术与人工智能未来战略会议，着手重新审视AI战略并梳理议题。",
-        "body": "在韩国各政府部门相继提出人工智能（AI）战略的背景下，科学技术信息通信部启动了科学技术与人工智能未来战略会议，并开始重新检查AI战略。会议的重点在于判断AI时代的变化方向，并参考互联网时代的转型经验来整理政策议题。其背景是，随着各部门将AI作为主要战略，国家层面的方向和优先顺序需要重新调整。专家认为，AI扩散可能带来产业和行政整体变化，因此有必要回顾过去互联网普及时期出现的变化及应对方式。今后的讨论预计将集中在重新审视政府AI战略和梳理主要课题上。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Era de la IA: lecciones de internet para definir nuevas prioridades",
-        "excerpt": "El Ministerio de Ciencia y TIC de Corea del Sur lanzó una reunión de estrategia futura en ciencia, tecnología e IA para revisar su estrategia y ordenar agendas públicas.",
-        "body": "Mientras los ministerios del Gobierno surcoreano presentan estrategias de inteligencia artificial (IA), el Ministerio de Ciencia y TIC puso en marcha una reunión de estrategia futura sobre ciencia, tecnología e IA y comenzó a revisar su estrategia de IA. El foco del encuentro es examinar la dirección de los cambios en la era de la IA y ordenar la agenda de políticas tomando como referencia la transición vivida durante la era de internet. El contexto es la creciente necesidad de reajustar la dirección nacional y las prioridades, ya que cada ministerio sitúa la IA como estrategia clave. Expertos señalaron que la expansión de la IA puede implicar cambios en la industria y la administración, por lo que conviene observar las transformaciones y respuestas del periodo de difusión de internet. Las próximas discusiones se centrarán en revisar la estrategia gubernamental de IA y definir tareas principales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Era da IA: lições da internet orientam novas prioridades públicas",
-        "excerpt": "O Ministério da Ciência e TIC da Coreia do Sul lançou uma reunião de estratégia futura em ciência, tecnologia e IA para revisar sua estratégia e organizar agendas.",
-        "body": "Enquanto ministérios do governo sul-coreano apresentam estratégias de inteligência artificial (IA), o Ministério da Ciência e TIC lançou uma reunião de estratégia futura em ciência, tecnologia e IA e iniciou uma revisão de sua estratégia para a área. O foco é avaliar a direção das mudanças na era da IA e organizar agendas de política pública com base na experiência de transição da era da internet. O contexto é a necessidade crescente de reajustar a direção nacional e as prioridades, já que cada ministério coloca a IA como estratégia central. Especialistas afirmam que a disseminação da IA pode trazer mudanças para a indústria e a administração pública, tornando necessário observar as transformações e respostas vistas durante a expansão da internet. As próximas discussões devem se concentrar na revisão da estratégia governamental de IA e na definição das principais tarefas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KI-Zeitalter im Blick: Was die Politik aus der Internetära lernen soll",
-        "excerpt": "Südkoreas Wissenschaftsministerium startete ein Zukunftsstrategietreffen zu Wissenschaft, Technologie und KI, um die KI-Strategie zu prüfen und Agenden zu ordnen.",
-        "body": "Während südkoreanische Ministerien Strategien für künstliche Intelligenz (KI) vorlegen, hat das Ministerium für Wissenschaft und IKT ein Zukunftsstrategietreffen zu Wissenschaft, Technologie und KI gestartet und mit einer Überprüfung seiner KI-Strategie begonnen. Im Mittelpunkt steht, die Richtung der Veränderungen im KI-Zeitalter zu erfassen und politische Agenden anhand der Erfahrungen aus der Internetära zu ordnen. Hintergrund ist der wachsende Bedarf, nationale Richtung und Prioritäten neu zu justieren, da jedes Ministerium KI als zentrale Strategie hervorhebt. Experten erklärten, die Verbreitung von KI könne Veränderungen in Industrie und Verwaltung mit sich bringen, weshalb die Entwicklungen und Reaktionen während der Ausbreitung des Internets betrachtet werden müssten. Künftige Diskussionen dürften sich auf die Überprüfung der staatlichen KI-Strategie und die Festlegung wichtiger Aufgaben konzentrieren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Ère de l’IA : les leçons d’internet pour fixer les priorités publiques",
-        "excerpt": "Le ministère sud-coréen des Sciences et des TIC a lancé une réunion de stratégie future sur la science, la technologie et l’IA afin de réexaminer sa stratégie IA.",
-        "body": "Alors que les ministères sud-coréens mettent en avant des stratégies d’intelligence artificielle (IA), le ministère des Sciences et des TIC a lancé une réunion de stratégie future sur la science, la technologie et l’IA et commencé à réexaminer sa stratégie. L’objectif est d’évaluer la direction des changements à l’ère de l’IA et d’organiser les priorités publiques en s’appuyant sur l’expérience de la transition liée à internet. Cette démarche répond au besoin croissant de redéfinir l’orientation nationale et les priorités, chaque ministère présentant l’IA comme une stratégie majeure. Des experts estiment que la diffusion de l’IA peut entraîner des changements dans l’industrie et l’administration, ce qui rend utile l’étude des transformations et réponses observées lors de l’essor d’internet. Les prochaines discussions devraient porter sur la révision de la stratégie gouvernementale en matière d’IA et la définition des principaux chantiers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "عصر الذكاء الاصطناعي: دروس من زمن الإنترنت لترتيب الأولويات",
-        "excerpt": "أطلقت وزارة العلوم وتكنولوجيا المعلومات والاتصالات في كوريا الجنوبية اجتماع استراتيجية مستقبلية للعلوم والتكنولوجيا والذكاء الاصطناعي لمراجعة الاستراتيجية وتنظيم الأجندة.",
-        "body": "في وقت تطرح فيه الوزارات الحكومية في كوريا الجنوبية استراتيجيات للذكاء الاصطناعي، أطلقت وزارة العلوم وتكنولوجيا المعلومات والاتصالات اجتماع استراتيجية مستقبلية للعلوم والتكنولوجيا والذكاء الاصطناعي وبدأت مراجعة استراتيجية الذكاء الاصطناعي. يركز الاجتماع على تحديد اتجاه التغير في عصر الذكاء الاصطناعي وتنظيم أجندات السياسات بالاستناد إلى تجربة التحول في عصر الإنترنت. ويأتي ذلك مع تزايد الحاجة إلى إعادة ترتيب الاتجاه الوطني والأولويات، بعدما أصبح الذكاء الاصطناعي استراتيجية رئيسية لدى مختلف الوزارات. ويرى خبراء أن انتشار الذكاء الاصطناعي قد يرافقه تغير في الصناعة والإدارة العامة، ما يجعل دراسة التحولات والاستجابات التي ظهرت خلال انتشار الإنترنت أمرا ضروريا. ومن المتوقع أن تتركز النقاشات المقبلة على مراجعة استراتيجية الحكومة للذكاء الاصطناعي وتحديد المهام الرئيسية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI युग की दिशा: इंटरनेट दौर से सीखकर नीति एजेंडा तय करने की पहल",
-        "excerpt": "दक्षिण कोरिया के विज्ञान और ICT मंत्रालय ने AI रणनीति की समीक्षा और एजेंडा तय करने के लिए विज्ञान, प्रौद्योगिकी और AI भविष्य रणनीति बैठक शुरू की।",
-        "body": "दक्षिण कोरिया में सरकारी मंत्रालयों द्वारा कृत्रिम बुद्धिमत्ता (AI) रणनीतियां आगे बढ़ाने के बीच विज्ञान और ICT मंत्रालय ने विज्ञान, प्रौद्योगिकी और AI भविष्य रणनीति बैठक शुरू की है और अपनी AI रणनीति की समीक्षा पर काम शुरू किया है। बैठक का केंद्र AI युग में बदलाव की दिशा को देखना और इंटरनेट युग के संक्रमण अनुभवों के आधार पर नीति एजेंडा व्यवस्थित करना है। इसकी पृष्ठभूमि में यह जरूरत है कि जब हर मंत्रालय AI को प्रमुख रणनीति के रूप में पेश कर रहा है, तब राष्ट्रीय दिशा और प्राथमिकताओं को फिर से व्यवस्थित किया जाए। विशेषज्ञों के अनुसार AI का प्रसार उद्योग और प्रशासन में व्यापक बदलाव ला सकता है, इसलिए इंटरनेट प्रसार के दौर में दिखे बदलावों और प्रतिक्रियाओं को देखना जरूरी है। आगे की चर्चा सरकारी AI रणनीति की समीक्षा और प्रमुख कार्यों को तय करने पर केंद्रित रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Era AI Berubah Cepat, Pelajaran dari Masa Internet Jadi Fokus Kebijakan",
-        "excerpt": "Kementerian Sains dan TIK Korea Selatan meluncurkan rapat strategi masa depan sains, teknologi, dan AI untuk meninjau strategi AI serta menyusun agenda kebijakan.",
-        "body": "Saat berbagai kementerian pemerintah Korea Selatan mengedepankan strategi kecerdasan buatan (AI), Kementerian Sains dan TIK meluncurkan rapat strategi masa depan sains, teknologi, dan AI serta mulai meninjau kembali strategi AI. Fokus rapat ini adalah membaca arah perubahan pada era AI dan menyusun agenda kebijakan dengan merujuk pengalaman transisi pada era internet. Latar belakangnya adalah meningkatnya kebutuhan untuk menata ulang arah nasional dan prioritas, karena setiap kementerian menjadikan AI sebagai strategi utama. Para ahli menilai penyebaran AI dapat membawa perubahan di sektor industri dan administrasi, sehingga pengalaman perubahan dan respons saat internet berkembang perlu dikaji. Pembahasan berikutnya diperkirakan berfokus pada peninjauan strategi AI pemerintah dan perumusan tugas-tugas utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "60827c8c523a",
-    "slug": "단독-8조-정도에-배민-주인-찾습니다48조에-샀던-독일-자본-매각-착수-787233",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T08:46:57.484Z",
-    "updatedAt": "2026-05-13T08:46:57.484Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046376",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046376",
-    "titleFingerprint": "1b540c16134f4564ebf54d541105728f1d70add8",
-    "dedupKeys": [
-      "60827c8c523a1fb09a9c9ce22524a6174ea6bfd0",
-      "1b540c16134f4564ebf54d541105728f1d70add8",
-      "73fa440b5dda55dd70ae8f6bae2c4c795e3b5ba2"
-    ],
-    "imageUrl": "/images/articles/60827c8c523a.png",
-    "i18n": {
-      "ko": {
-        "title": "배달의민족 매각 착수, 독일 DH 8조원대 새 주인 찾는다",
-        "excerpt": "독일 딜리버리히어로가 배달의민족 인수 7년 만에 매각 절차에 착수하고 글로벌 빅테크와 사모펀드에 투자안내서를 보낸 것으로 전해졌다.",
-        "body": "독일 딜리버리히어로(DH)가 배달의민족을 인수한 지 7년 만에 매각 절차에 착수한 것으로 전해졌다. 매일경제에 따르면 DH는 글로벌 빅테크와 사모펀드 등에 배달의민족 투자안내서를 발송했다. 배달의민족은 DH가 약 4조8000억원에 인수했던 국내 배달 플랫폼으로, 이번 매각 희망가는 약 8조원 수준으로 거론된다. 후보군으로는 아시아 플랫폼 확장을 노리는 메이퇀, 신세계와 손잡은 알리바바 등 중국 기업들이 유력하게 꼽힌다. 거래가 성사되면 국내 배달 플랫폼 시장과 아시아 플랫폼 경쟁 구도에 영향을 줄 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Baemin Sale Begins as Germany’s DH Seeks New Owner at Around 8 Trillion Won",
-        "excerpt": "Germany’s Delivery Hero has reportedly begun the sale process for Baemin seven years after acquiring it, sending investment memorandums to global big tech firms and private equity funds.",
-        "body": "Germany’s Delivery Hero (DH) has reportedly begun the process of selling Baemin seven years after acquiring the Korean delivery platform. According to Maeil Business Newspaper, DH has sent investment memorandums for Baemin to global big tech companies and private equity funds. Baemin was acquired by DH for about 4.8 trillion won, while the current asking price is being discussed at around 8 trillion won. Likely candidates are said to include Chinese companies such as Meituan, which is seeking to expand its Asian platform presence, and Alibaba, which has partnered with Shinsegae. If completed, the deal could affect South Korea’s delivery platform market and the competitive landscape for Asian platforms. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "配達の民族売却に着手、独DHが約8兆ウォンで新たな買い手探す",
-        "excerpt": "ドイツのデリバリーヒーローが買収から7年で配達の民族の売却手続きに入り、世界のビッグテックやPEファンドに投資案内書を送ったと伝えられた。",
-        "body": "ドイツのデリバリーヒーロー（DH）が、韓国の配達アプリ「配達の民族」を買収してから7年で売却手続きに着手したと伝えられた。毎日経済によると、DHは世界のビッグテック企業やプライベートエクイティファンドなどに、配達の民族の投資案内書を送付した。配達の民族はDHが約4兆8000億ウォンで買収した国内配達プラットフォームで、今回の売却希望額は約8兆ウォン水準とされる。有力候補には、アジアでのプラットフォーム拡大を狙う美団や、新世界と提携したアリババなど中国企業が挙げられている。取引が成立すれば、韓国の配達プラットフォーム市場とアジアの競争構図に影響を与える可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "外卖民族启动出售，德国DH寻求约8万亿韩元新买家",
-        "excerpt": "德国Delivery Hero据称在收购外卖民族7年后启动出售程序，并已向全球大型科技公司和私募基金发送投资说明书。",
-        "body": "德国Delivery Hero（DH）据称在收购韩国外卖平台“外卖民族”7年后，已启动出售程序。据《每日经济》报道，DH已向全球大型科技公司和私募基金等发送外卖民族的投资说明书。外卖民族是DH曾以约4.8万亿韩元收购的韩国配送平台，此次出售意向价格被提及为约8万亿韩元。有力候选方包括寻求扩大亚洲平台业务的美团，以及与新世界合作的阿里巴巴等中国企业。如果交易达成，可能影响韩国外卖平台市场以及亚洲平台竞争格局。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Baemin sale al inicio: la alemana DH busca comprador por unos 8 billones de wones",
-        "excerpt": "Delivery Hero de Alemania habría iniciado la venta de Baemin siete años después de comprarla, enviando memorandos de inversión a big tech globales y fondos de capital privado.",
-        "body": "Delivery Hero (DH) de Alemania habría iniciado el proceso para vender Baemin siete años después de adquirir la plataforma coreana de reparto. Según Maeil Business Newspaper, DH envió memorandos de inversión sobre Baemin a grandes tecnológicas globales y fondos de capital privado. Baemin fue comprada por DH por unos 4,8 billones de wones, mientras que el precio esperado para esta venta se menciona en torno a 8 billones de wones. Entre los posibles candidatos figuran empresas chinas como Meituan, que busca expandir sus plataformas en Asia, y Alibaba, asociada con Shinsegae. Si la operación se concreta, podría influir en el mercado coreano de plataformas de reparto y en la competencia de plataformas en Asia. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Venda da Baemin avança, e alemã DH busca novo dono por cerca de 8 trilhões de won",
-        "excerpt": "A alemã Delivery Hero teria iniciado a venda da Baemin sete anos após a aquisição, enviando memorandos de investimento a big techs globais e fundos de private equity.",
-        "body": "A alemã Delivery Hero (DH) teria iniciado o processo de venda da Baemin sete anos depois de adquirir a plataforma coreana de entregas. Segundo o Maeil Business Newspaper, a DH enviou memorandos de investimento sobre a Baemin a big techs globais e fundos de private equity. A Baemin foi comprada pela DH por cerca de 4,8 trilhões de won, enquanto o preço pretendido nesta venda é citado em torno de 8 trilhões de won. Entre os candidatos prováveis estão empresas chinesas como a Meituan, que busca expandir plataformas na Ásia, e a Alibaba, que se aliou à Shinsegae. Se concluído, o negócio pode afetar o mercado coreano de plataformas de entrega e a disputa entre plataformas asiáticas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Baemin-Verkauf startet: Deutschlands DH sucht Käufer für rund 8 Billionen Won",
-        "excerpt": "Delivery Hero aus Deutschland soll sieben Jahre nach der Übernahme den Verkauf von Baemin eingeleitet und Investmentunterlagen an globale Big-Tech-Konzerne und Private-Equity-Fonds verschickt haben.",
-        "body": "Delivery Hero (DH) aus Deutschland soll sieben Jahre nach der Übernahme der koreanischen Lieferplattform Baemin den Verkaufsprozess eingeleitet haben. Laut Maeil Business Newspaper hat DH Investmentunterlagen zu Baemin an globale Big-Tech-Unternehmen und Private-Equity-Fonds versandt. DH hatte Baemin für rund 4,8 Billionen Won übernommen; der nun genannte angestrebte Verkaufspreis liegt bei etwa 8 Billionen Won. Als wahrscheinliche Kandidaten gelten chinesische Unternehmen wie Meituan, das seine Plattformpräsenz in Asien ausbauen will, sowie Alibaba, das mit Shinsegae kooperiert. Kommt die Transaktion zustande, könnte sie den koreanischen Lieferplattformmarkt und den Wettbewerb asiatischer Plattformen beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Baemin mis en vente: l’allemand DH cherche un repreneur autour de 8 billions de wons",
-        "excerpt": "L’allemand Delivery Hero aurait lancé la vente de Baemin sept ans après son acquisition, en envoyant des mémorandums d’investissement à de grandes tech mondiales et à des fonds de private equity.",
-        "body": "Delivery Hero (DH), groupe allemand, aurait lancé le processus de vente de Baemin sept ans après avoir acquis la plateforme coréenne de livraison. Selon le Maeil Business Newspaper, DH a envoyé des mémorandums d’investissement sur Baemin à de grandes entreprises technologiques mondiales et à des fonds de private equity. Baemin avait été acquis par DH pour environ 4,8 billions de wons, tandis que le prix souhaité pour cette vente est évoqué autour de 8 billions de wons. Parmi les candidats probables figurent des entreprises chinoises comme Meituan, qui vise une expansion de ses plateformes en Asie, et Alibaba, partenaire de Shinsegae. Si elle aboutit, l’opération pourrait peser sur le marché coréen des plateformes de livraison et sur la concurrence en Asie. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بدء بيع Baemin: الألمانية DH تبحث عن مالك جديد بنحو 8 تريليونات وون",
-        "excerpt": "أفادت تقارير بأن دليفري هيرو الألمانية بدأت بيع Baemin بعد سبع سنوات من الاستحواذ عليها، وأرسلت مذكرات استثمار إلى شركات تقنية عالمية وصناديق ملكية خاصة.",
-        "body": "أفادت تقارير بأن شركة دليفري هيرو الألمانية (DH) بدأت إجراءات بيع منصة Baemin الكورية للتوصيل بعد سبع سنوات من الاستحواذ عليها. وبحسب صحيفة Maeil Business Newspaper، أرسلت DH مذكرات استثمار خاصة بـ Baemin إلى شركات تقنية عالمية كبرى وصناديق ملكية خاصة. وكانت DH قد استحوذت على Baemin بنحو 4.8 تريليونات وون، بينما يدور سعر البيع المطلوب حاليا حول 8 تريليونات وون. ومن بين المرشحين المحتملين شركات صينية مثل ميتوان، التي تسعى إلى توسيع منصاتها في آسيا، وعلي بابا التي تعاونت مع شينسيغيه. وإذا اكتملت الصفقة، فقد تؤثر في سوق منصات التوصيل الكورية وفي خريطة المنافسة بين المنصات الآسيوية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Baemin बिक्री प्रक्रिया शुरू, जर्मनी की DH करीब 8 ट्रिलियन वॉन में खरीदार तलाश रही",
-        "excerpt": "जर्मनी की Delivery Hero ने Baemin के अधिग्रहण के सात साल बाद इसकी बिक्री प्रक्रिया शुरू की बताई जाती है और वैश्विक बिग टेक व निजी इक्विटी फंडों को निवेश ज्ञापन भेजे हैं।",
-        "body": "जर्मनी की Delivery Hero (DH) ने कोरियाई डिलीवरी प्लेटफॉर्म Baemin को खरीदने के सात साल बाद इसकी बिक्री प्रक्रिया शुरू की है, ऐसी रिपोर्ट है। Maeil Business Newspaper के अनुसार, DH ने Baemin के लिए वैश्विक बिग टेक कंपनियों और निजी इक्विटी फंडों को निवेश ज्ञापन भेजे हैं। DH ने Baemin को लगभग 4.8 ट्रिलियन वॉन में खरीदा था, जबकि इस बिक्री में अपेक्षित कीमत करीब 8 ट्रिलियन वॉन बताई जा रही है। संभावित दावेदारों में एशिया में प्लेटफॉर्म विस्तार चाहने वाली Meituan और Shinsegae के साथ हाथ मिलाने वाली Alibaba जैसी चीनी कंपनियां शामिल मानी जा रही हैं। सौदा पूरा हुआ तो यह कोरिया के डिलीवरी प्लेटफॉर्म बाजार और एशियाई प्लेटफॉर्म प्रतिस्पर्धा पर असर डाल सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Penjualan Baemin Dimulai, DH Jerman Cari Pemilik Baru Sekitar 8 Triliun Won",
-        "excerpt": "Delivery Hero asal Jerman dilaporkan mulai menjual Baemin tujuh tahun setelah akuisisi, dengan mengirim memorandum investasi ke big tech global dan dana ekuitas swasta.",
-        "body": "Delivery Hero (DH) asal Jerman dilaporkan telah memulai proses penjualan Baemin tujuh tahun setelah mengakuisisi platform pengantaran Korea tersebut. Menurut Maeil Business Newspaper, DH telah mengirim memorandum investasi Baemin kepada perusahaan big tech global dan dana ekuitas swasta. Baemin sebelumnya diakuisisi DH sekitar 4,8 triliun won, sementara harga yang diharapkan dalam penjualan kali ini disebut berada di kisaran 8 triliun won. Kandidat kuat yang disebut termasuk perusahaan China seperti Meituan, yang ingin memperluas platformnya di Asia, serta Alibaba yang telah bermitra dengan Shinsegae. Jika transaksi selesai, hal ini dapat memengaruhi pasar platform pengantaran Korea dan peta persaingan platform Asia. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "969ae89e6c46",
-    "slug": "hoooever-무니코틴-신제품-hooo25-공개-927925",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T08:45:08.620Z",
-    "updatedAt": "2026-05-13T08:45:08.620Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046377",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046377",
-    "titleFingerprint": "6963aff12d99cdf5b2afd358f6e6f455715de129",
-    "dedupKeys": [
-      "969ae89e6c468e3deff30d90313117d5db847804",
-      "6963aff12d99cdf5b2afd358f6e6f455715de129",
-      "d6abf8bc366b7361049adb888a4f75d2ed925c40"
-    ],
-    "imageUrl": "/images/articles/969ae89e6c46.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HOOOEVER, 무니코틴 전자 디바이스 HOOO25 5월 18일 공식 출시",
-        "excerpt": "대한민국 고유 브랜드 HOOO를 출원한 글로벌 디바이스 브랜드 HOOOEVER가 무니코틴 신제품 HOOO25를 2026년 5월 18일 공식 출시한다고 밝혔다.",
-        "body": "글로벌 디바이스 브랜드 HOOOEVER가 새로운 무니코틴 전자 디바이스 ‘HOOO25’를 오는 2026년 5월 18일 공식 출시한다고 밝혔다. HOOOEVER는 대한민국 고유 브랜드 HOOO를 출원한 브랜드로, 이번 신제품 공개를 통해 HOOO 라인업을 알렸다. 공개된 내용에 따르면 HOOO25는 무니코틴 신제품으로 소개됐으며, 공식 출시 일정은 2026년 5월 18일로 제시됐다. 이번 발표는 국내 고유 브랜드 출원과 신제품 출시 계획을 함께 알린 사례로, 향후 시장 반응은 출시 이후 확인될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "HOOOEVER to Launch Nicotine-Free HOOO25 Device on May 18, 2026",
-        "excerpt": "Global device brand HOOOEVER, which filed Korea-origin brand HOOO, said it will officially launch its nicotine-free HOOO25 device on May 18, 2026.",
-        "body": "Global device brand HOOOEVER announced that it will officially launch its new nicotine-free electronic device, ‘HOOO25,’ on May 18, 2026. HOOOEVER is described as a brand that filed the Korea-origin brand HOOO, and the new product reveal introduces the HOOO lineup. According to the disclosed information, HOOO25 is presented as a nicotine-free new product, with the official launch date set for May 18, 2026. The announcement highlights both the Korean brand filing and the planned product release, while market response will become clearer after launch. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "HOOOEVER、ニコチンなし新製品HOOO25を2026年5月18日発売",
-        "excerpt": "韓国固有ブランドHOOOを出願したグローバルデバイスブランドHOOOEVERが、ニコチンなし新製品HOOO25を2026年5月18日に正式発売すると明らかにした。",
-        "body": "グローバルデバイスブランドHOOOEVERは、新しいニコチンなし電子デバイス『HOOO25』を2026年5月18日に正式発売すると明らかにした。HOOOEVERは韓国固有ブランドHOOOを出願したブランドで、今回の新製品公開を通じてHOOOラインアップを知らせた。公開内容によると、HOOO25はニコチンなしの新製品として紹介され、正式発売日は2026年5月18日と示された。今回の発表は、韓国固有ブランドの出願と新製品発売計画を同時に伝えるもので、市場の反応は発売後に確認される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "HOOOEVER将于2026年5月18日发布无尼古丁新品HOOO25",
-        "excerpt": "申请韩国本土品牌HOOO的全球设备品牌HOOOEVER表示，将于2026年5月18日正式推出无尼古丁电子设备新品HOOO25。",
-        "body": "全球设备品牌HOOOEVER表示，将于2026年5月18日正式推出新的无尼古丁电子设备“HOOO25”。HOOOEVER是申请韩国本土品牌HOOO的品牌，此次新品公开也对外介绍了HOOO产品线。根据已公开内容，HOOO25被介绍为无尼古丁新品，正式上市日期定为2026年5月18日。此次发布同时传达了韩国本土品牌申请和新品上市计划，市场反应预计将在产品推出后进一步确认。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "HOOOEVER lanzará el dispositivo sin nicotina HOOO25 el 18 de mayo de 2026",
-        "excerpt": "La marca global de dispositivos HOOOEVER, que registró la marca coreana HOOO, anunció el lanzamiento oficial de su nuevo HOOO25 sin nicotina el 18 de mayo de 2026.",
-        "body": "La marca global de dispositivos HOOOEVER anunció que lanzará oficialmente su nuevo dispositivo electrónico sin nicotina, ‘HOOO25’, el 18 de mayo de 2026. HOOOEVER es presentada como la marca que solicitó el registro de la marca coreana HOOO, y con esta presentación dio a conocer la línea HOOO. Según la información divulgada, HOOO25 se describe como un nuevo producto sin nicotina, con fecha oficial de lanzamiento fijada para el 18 de mayo de 2026. El anuncio comunica tanto la solicitud de la marca coreana como el plan de lanzamiento, mientras que la respuesta del mercado se confirmará tras su salida. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "HOOOEVER lança dispositivo sem nicotina HOOO25 em 18 de maio de 2026",
-        "excerpt": "A marca global de dispositivos HOOOEVER, que registrou a marca coreana HOOO, anunciou o lançamento oficial do novo HOOO25 sem nicotina em 18 de maio de 2026.",
-        "body": "A marca global de dispositivos HOOOEVER anunciou que lançará oficialmente seu novo dispositivo eletrônico sem nicotina, ‘HOOO25’, em 18 de maio de 2026. A HOOOEVER é apresentada como a marca que solicitou o registro da marca coreana HOOO, e a revelação do novo produto apresenta a linha HOOO. Segundo as informações divulgadas, o HOOO25 é descrito como um novo produto sem nicotina, com lançamento oficial marcado para 18 de maio de 2026. O anúncio reúne a solicitação da marca coreana e o plano de lançamento do produto, enquanto a reação do mercado deverá ser verificada após a estreia. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "HOOOEVER bringt nikotinfreies Gerät HOOO25 am 18. Mai 2026 offiziell auf den Markt",
-        "excerpt": "Die globale Gerätemarke HOOOEVER, die die koreanische Marke HOOO angemeldet hat, kündigte den offiziellen Start des nikotinfreien HOOO25 am 18. Mai 2026 an.",
-        "body": "Die globale Gerätemarke HOOOEVER gab bekannt, dass sie ihr neues nikotinfreies elektronisches Gerät ‘HOOO25’ am 18. Mai 2026 offiziell auf den Markt bringen wird. HOOOEVER wird als Marke beschrieben, die die koreanische Eigenmarke HOOO angemeldet hat, und stellte mit der Produktankündigung die HOOO-Linie vor. Den veröffentlichten Angaben zufolge wird HOOO25 als nikotinfreies neues Produkt präsentiert; der offizielle Starttermin ist der 18. Mai 2026. Die Mitteilung verbindet die Anmeldung der koreanischen Marke mit dem geplanten Produktstart. Die Marktreaktion dürfte sich nach der Einführung zeigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "HOOOEVER lancera l’appareil sans nicotine HOOO25 le 18 mai 2026",
-        "excerpt": "La marque mondiale de dispositifs HOOOEVER, qui a déposé la marque coréenne HOOO, a annoncé le lancement officiel du nouveau HOOO25 sans nicotine le 18 mai 2026.",
-        "body": "La marque mondiale de dispositifs HOOOEVER a annoncé qu’elle lancera officiellement son nouveau dispositif électronique sans nicotine, ‘HOOO25’, le 18 mai 2026. HOOOEVER est présentée comme la marque ayant déposé la marque coréenne HOOO, et cette présentation dévoile la gamme HOOO. Selon les informations communiquées, HOOO25 est décrit comme un nouveau produit sans nicotine, avec une date de lancement officiel fixée au 18 mai 2026. L’annonce met en avant à la fois le dépôt de la marque coréenne et le plan de lancement du produit, tandis que la réaction du marché sera observable après la sortie. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "HOOOEVER تطلق جهاز HOOO25 الخالي من النيكوتين في 18 مايو 2026",
-        "excerpt": "أعلنت علامة الأجهزة العالمية HOOOEVER، التي تقدمت بطلب تسجيل العلامة الكورية HOOO، أنها ستطلق رسميا جهازها الإلكتروني الجديد HOOO25 الخالي من النيكوتين في 18 مايو 2026.",
-        "body": "أعلنت علامة الأجهزة العالمية HOOOEVER أنها ستطلق رسميا جهازها الإلكتروني الجديد الخالي من النيكوتين ‘HOOO25’ في 18 مايو 2026. وتوصف HOOOEVER بأنها العلامة التي تقدمت بطلب تسجيل العلامة الكورية HOOO، وقد عرّف الكشف عن المنتج الجديد بخط HOOO. ووفقا للمعلومات المعلنة، قُدم HOOO25 كمنتج جديد خال من النيكوتين، مع تحديد موعد الإطلاق الرسمي في 18 مايو 2026. يجمع الإعلان بين طلب تسجيل العلامة الكورية وخطة طرح المنتج، فيما سيتضح رد فعل السوق بعد الإطلاق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "HOOOEVER 18 मई 2026 को निकोटीन-रहित HOOO25 डिवाइस लॉन्च करेगी",
-        "excerpt": "कोरिया-आधारित ब्रांड HOOO के लिए आवेदन करने वाली वैश्विक डिवाइस ब्रांड HOOOEVER ने कहा कि वह 18 मई 2026 को निकोटीन-रहित HOOO25 आधिकारिक रूप से लॉन्च करेगी।",
-        "body": "वैश्विक डिवाइस ब्रांड HOOOEVER ने घोषणा की कि वह अपना नया निकोटीन-रहित इलेक्ट्रॉनिक डिवाइस ‘HOOO25’ 18 मई 2026 को आधिकारिक रूप से लॉन्च करेगी। HOOOEVER को कोरिया के स्वदेशी ब्रांड HOOO के लिए आवेदन करने वाली ब्रांड के रूप में बताया गया है, और इस नए उत्पाद के खुलासे के साथ HOOO लाइनअप को पेश किया गया। उपलब्ध जानकारी के अनुसार, HOOO25 को निकोटीन-रहित नए उत्पाद के रूप में प्रस्तुत किया गया है और इसकी आधिकारिक लॉन्च तिथि 18 मई 2026 तय की गई है। यह घोषणा कोरियाई ब्रांड आवेदन और उत्पाद लॉन्च योजना दोनों को सामने रखती है; बाजार की प्रतिक्रिया लॉन्च के बाद स्पष्ट होगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "HOOOEVER Luncurkan Perangkat Bebas Nikotin HOOO25 pada 18 Mei 2026",
-        "excerpt": "Merek perangkat global HOOOEVER, yang mengajukan merek Korea HOOO, menyatakan akan resmi meluncurkan perangkat elektronik bebas nikotin HOOO25 pada 18 Mei 2026.",
-        "body": "Merek perangkat global HOOOEVER mengumumkan akan resmi meluncurkan perangkat elektronik bebas nikotin terbaru, ‘HOOO25’, pada 18 Mei 2026. HOOOEVER disebut sebagai merek yang mengajukan merek khas Korea HOOO, dan pengungkapan produk baru ini memperkenalkan lini HOOO. Berdasarkan informasi yang dirilis, HOOO25 diperkenalkan sebagai produk baru bebas nikotin, dengan jadwal peluncuran resmi pada 18 Mei 2026. Pengumuman ini menyampaikan pengajuan merek Korea sekaligus rencana peluncuran produk, sementara respons pasar akan terlihat setelah peluncuran. Sumber: mk.co.kr"
       }
     }
   }
