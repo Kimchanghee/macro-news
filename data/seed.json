@@ -1,5 +1,230 @@
 [
   {
+    "id": "12009adb024a",
+    "slug": "치킨-배달부터-재난-대응까지-드론-띄우는-지자체들-157374",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T11:01:04.936Z",
+    "updatedAt": "2026-05-14T11:01:04.936Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12048054",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12048054",
+    "titleFingerprint": "d95113d62f9eaecb4343db527be36ab3dccb96c2",
+    "dedupKeys": [
+      "12009adb024a2b9ce78cd40f677ef69ebade2a59",
+      "d95113d62f9eaecb4343db527be36ab3dccb96c2",
+      "7fb1ec6b604d41e3f8d9035bdb156e95989e2aa9"
+    ],
+    "imageUrl": "/images/articles/12009adb024a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "경기도 지자체 드론 행정 확대, 치킨 배달부터 재난 경보까지",
+        "excerpt": "경기도 지자체들이 드론을 행정 전반에 도입하며 생활 배송, 집중호우 경보방송, 불법 시설물 단속 등 다양한 공공서비스 경쟁에 나서고 있다.",
+        "body": "경기도 지자체들이 드론을 행정 전반에 본격 도입하며 이른바 ‘하늘길 행정 경쟁’에 뛰어들고 있다. 드론 활용은 주민 생활과 밀접한 서비스부터 재난 대응, 현장 단속까지 넓어지는 흐름이다. 일부 지자체는 치킨과 음료를 공원으로 배송하는 생활형 서비스를 추진하고, 집중호우 때 경보방송을 전달하는 재난 대응 수단으로도 드론을 활용한다. 불법 시설물 단속처럼 사람이 직접 확인하기 어려운 행정 현장에도 드론이 투입되고 있다. 드론 행정은 지역 주민 편의와 현장 대응력을 높이는 수단으로 주목받지만, 서비스 안정성과 운영 체계 구축이 향후 관건이 될 전망이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Gyeonggi Local Governments Expand Drone Administration From Food Delivery to Disaster Alerts",
+        "excerpt": "Local governments in Gyeonggi Province are adopting drones across administration, from park delivery of chicken and drinks to heavy-rain alerts and illegal facility inspections.",
+        "body": "Local governments in Gyeonggi Province are moving to introduce drones across public administration, entering what is being described as a competition in “sky-route administration.” The use of drones is expanding from services closely tied to daily life to disaster response and field enforcement. Some municipalities are pursuing everyday delivery services that bring chicken and drinks to parks, while drones are also being used to broadcast warnings during heavy rain. They are being deployed as well for inspections of illegal facilities, where on-site confirmation can be difficult for people. Drone-based administration is drawing attention as a way to improve resident convenience and field response, while stable service operations and operating systems will be key issues ahead. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "京畿道自治体がドローン行政拡大、チキン配達から災害警報まで",
+        "excerpt": "京畿道の自治体が行政全般にドローンを導入し、公園へのチキン・飲料配達、豪雨警報放送、違法施設物の取り締まりに活用している。",
+        "body": "京畿道の自治体が行政全般にドローンを本格導入し、いわゆる「空の道の行政競争」に乗り出している。ドローン活用は、住民生活に密着したサービスから災害対応、現場取り締まりへと広がっている。一部自治体はチキンや飲料を公園へ届ける生活型サービスを進めており、集中豪雨時には警報放送を伝える災害対応手段としてもドローンを使う。違法施設物の取り締まりのように、人が直接確認しにくい行政現場にも投入されている。ドローン行政は住民の利便性と現場対応力を高める手段として注目される一方、今後はサービスの安定性と運営体制の構築が焦点となる見通しだ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "京畿道地方政府扩大无人机行政，从炸鸡配送到灾害预警",
+        "excerpt": "京畿道地方政府正把无人机引入行政各领域，用于公园炸鸡和饮料配送、暴雨警报广播以及非法设施查处等公共服务。",
+        "body": "京畿道地方政府正全面把无人机引入行政领域，加入所谓“空中通道行政竞争”。无人机的应用正从贴近日常生活的服务，扩展到灾害应对和现场执法。一些地方政府推进将炸鸡和饮料配送到公园的生活型服务；在集中暴雨时，无人机也被用作传递警报广播的灾害应对手段。对于非法设施查处等人员难以直接确认的行政现场，无人机同样被投入使用。无人机行政因有助于提升居民便利性和现场应对能力而受到关注，但服务稳定性和运营体系建设将成为今后的关键。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Gobiernos locales de Gyeonggi amplían drones: de entregar pollo a alertas por lluvias",
+        "excerpt": "Los gobiernos locales de Gyeonggi incorporan drones a la administración para entregar pollo y bebidas en parques, emitir alertas por lluvias intensas y detectar instalaciones ilegales.",
+        "body": "Los gobiernos locales de la provincia de Gyeonggi están introduciendo drones en toda la administración pública y entrando en una competencia por la llamada “administración por rutas aéreas”. El uso de drones se amplía desde servicios vinculados a la vida cotidiana hasta la respuesta ante desastres y la fiscalización en terreno. Algunas autoridades impulsan servicios de entrega de pollo y bebidas en parques, mientras que los drones también se utilizan para transmitir avisos durante lluvias torrenciales. Además, se emplean en inspecciones de instalaciones ilegales, donde la comprobación directa por personas puede ser difícil. Esta administración con drones atrae atención por mejorar la comodidad de los residentes y la capacidad de respuesta, aunque la estabilidad del servicio y el sistema operativo serán claves. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Governos locais de Gyeonggi ampliam drones, de frango entregue a alertas de desastre",
+        "excerpt": "Governos locais de Gyeonggi adotam drones na administração para entregar frango e bebidas em parques, emitir alertas de chuva forte e fiscalizar instalações ilegais.",
+        "body": "Governos locais da província de Gyeonggi estão introduzindo drones em várias áreas da administração pública e entrando na chamada competição pela “administração por rotas aéreas”. O uso de drones se expande de serviços ligados ao cotidiano dos moradores para resposta a desastres e fiscalização em campo. Algumas administrações promovem entregas de frango e bebidas em parques, enquanto drones também são usados para transmitir alertas durante chuvas intensas. Eles ainda são empregados na fiscalização de instalações ilegais, onde a verificação direta por pessoas pode ser difícil. A administração com drones chama atenção por elevar a conveniência dos moradores e a capacidade de resposta local, mas a estabilidade do serviço e a estrutura operacional serão pontos decisivos. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Gyeonggi-Kommunen setzen stärker auf Drohnen, von Essenslieferung bis Katastrophenwarnung",
+        "excerpt": "Kommunen in Gyeonggi führen Drohnen breiter in der Verwaltung ein, etwa für Lieferungen von Chicken und Getränken in Parks, Starkregenwarnungen und Kontrollen illegaler Anlagen.",
+        "body": "Kommunen in der südkoreanischen Provinz Gyeonggi führen Drohnen zunehmend in der öffentlichen Verwaltung ein und treten in einen Wettbewerb um eine Verwaltung über „Luftwege“ ein. Der Einsatz reicht von alltagsnahen Dienstleistungen bis zu Katastrophenschutz und Kontrollen vor Ort. Einige Kommunen treiben Lieferdienste voran, die Chicken und Getränke in Parks bringen. Bei Starkregen werden Drohnen zudem genutzt, um Warnmeldungen zu übertragen. Auch bei der Kontrolle illegaler Anlagen, wo eine direkte Prüfung durch Menschen schwierig sein kann, kommen sie zum Einsatz. Drohnenverwaltung gilt als Mittel, um den Komfort für Einwohner und die Reaktionsfähigkeit vor Ort zu verbessern; entscheidend werden künftig stabile Dienste und tragfähige Betriebsstrukturen sein. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Les collectivités de Gyeonggi étendent les drones, de la livraison de poulet aux alertes",
+        "excerpt": "Les collectivités de Gyeonggi intègrent les drones à l’administration pour livrer poulet et boissons dans les parcs, diffuser des alertes de fortes pluies et contrôler les installations illégales.",
+        "body": "Les collectivités locales de la province de Gyeonggi introduisent les drones dans l’ensemble de l’administration publique et entrent dans une concurrence autour de l’« administration par voies aériennes ». Leur usage s’étend des services du quotidien à la réponse aux catastrophes et aux contrôles sur le terrain. Certaines collectivités développent des services livrant du poulet et des boissons dans les parcs, tandis que les drones servent aussi à diffuser des messages d’alerte lors de fortes pluies. Ils sont également mobilisés pour contrôler des installations illégales, dans des lieux où la vérification directe par des agents peut être difficile. Cette administration par drones attire l’attention pour améliorer la commodité des habitants et la réactivité sur le terrain, mais la stabilité du service et l’organisation opérationnelle resteront déterminantes. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "حكومات محلية في غيونغي توسع استخدام المسيرات من توصيل الدجاج إلى إنذارات الكوارث",
+        "excerpt": "تدخل حكومات محلية في مقاطعة غيونغي الطائرات المسيرة في الإدارة العامة، من توصيل الدجاج والمشروبات إلى المتنزهات إلى بث إنذارات الأمطار والتفتيش على المنشآت غير القانونية.",
+        "body": "تعمل حكومات محلية في مقاطعة غيونغي على إدخال الطائرات المسيرة بشكل واسع في الإدارة العامة، لتدخل ما يوصف بمنافسة «الإدارة عبر الطرق الجوية». ويتسع استخدامها من خدمات قريبة من الحياة اليومية للسكان إلى الاستجابة للكوارث والرقابة الميدانية. بعض البلديات تدفع بخدمات توصيل الدجاج والمشروبات إلى المتنزهات، كما تستخدم المسيرات لبث التحذيرات عند هطول أمطار غزيرة. وتدخل أيضا في أعمال التفتيش على المنشآت غير القانونية، حيث قد يصعب على الأشخاص التحقق المباشر في الموقع. وتحظى إدارة الخدمات بالمسيرات باهتمام لأنها قد ترفع راحة السكان وقدرة الاستجابة الميدانية، فيما ستبقى استقرارية الخدمة وبناء نظام التشغيل عاملين حاسمين لاحقا. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "ग्योंगगी में ड्रोन प्रशासन का विस्तार, चिकन डिलीवरी से आपदा चेतावनी तक",
+        "excerpt": "ग्योंगगी प्रांत की स्थानीय सरकारें प्रशासन में ड्रोन अपना रही हैं, जिनका उपयोग पार्कों में चिकन और पेय डिलीवरी, भारी बारिश की चेतावनी और अवैध ढांचों की जांच में हो रहा है।",
+        "body": "ग्योंगगी प्रांत की स्थानीय सरकारें प्रशासन के व्यापक क्षेत्रों में ड्रोन को सक्रिय रूप से अपना रही हैं और ‘आकाश मार्ग प्रशासन’ की प्रतिस्पर्धा में उतर रही हैं। ड्रोन का उपयोग निवासियों के दैनिक जीवन से जुड़ी सेवाओं से लेकर आपदा प्रतिक्रिया और स्थल निरीक्षण तक फैल रहा है। कुछ स्थानीय निकाय पार्कों में चिकन और पेय पहुंचाने वाली जीवनशैली सेवा आगे बढ़ा रहे हैं, जबकि भारी बारिश के समय चेतावनी प्रसारण पहुंचाने के लिए भी ड्रोन का इस्तेमाल किया जा रहा है। अवैध ढांचों की जांच जैसे उन प्रशासनिक स्थलों पर भी ड्रोन लगाए जा रहे हैं, जहां लोगों द्वारा सीधे पुष्टि करना कठिन हो सकता है। ड्रोन प्रशासन निवासियों की सुविधा और मौके पर प्रतिक्रिया क्षमता बढ़ाने के साधन के रूप में ध्यान खींच रहा है, हालांकि सेवा की स्थिरता और संचालन व्यवस्था आगे अहम होंगी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Pemda Gyeonggi Perluas Administrasi Drone, dari Antar Ayam hingga Peringatan Bencana",
+        "excerpt": "Pemerintah daerah di Gyeonggi mengadopsi drone dalam administrasi, mulai dari pengantaran ayam dan minuman ke taman hingga siaran peringatan hujan lebat dan penertiban fasilitas ilegal.",
+        "body": "Pemerintah daerah di Provinsi Gyeonggi mulai menerapkan drone secara luas dalam administrasi publik dan masuk ke persaingan yang disebut “administrasi jalur udara”. Pemanfaatan drone meluas dari layanan yang dekat dengan kehidupan warga hingga respons bencana dan penertiban lapangan. Sejumlah pemda mendorong layanan harian yang mengantar ayam dan minuman ke taman, sementara drone juga digunakan untuk menyampaikan siaran peringatan saat hujan lebat. Drone turut dikerahkan dalam penertiban fasilitas ilegal, terutama pada lokasi yang sulit diperiksa langsung oleh manusia. Administrasi berbasis drone menarik perhatian karena dapat meningkatkan kenyamanan warga dan daya tanggap di lapangan, tetapi stabilitas layanan dan sistem operasional akan menjadi kunci ke depan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "950f8d7f3d36",
+    "slug": "900만원-vs-3억원-견적서에-충격극단으로-치닫는-웨딩시장-스드메의-문단속④-766517",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T10:59:51.864Z",
+    "updatedAt": "2026-05-14T10:59:51.864Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12048056",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12048056",
+    "titleFingerprint": "280927650f57b3a1a1471b8e6e142ff7e2b53a62",
+    "dedupKeys": [
+      "950f8d7f3d36fe247cc2c2a56d56b44dad8593c1",
+      "280927650f57b3a1a1471b8e6e142ff7e2b53a62",
+      "5e569e0903116d11acab2d8cb117ecfe5de4c011"
+    ],
+    "imageUrl": "/images/articles/950f8d7f3d36.png",
+    "i18n": {
+      "ko": {
+        "title": "웨딩시장 양극화 심화, 900만원과 3억원 견적서가 보여준 격차",
+        "excerpt": "올가을 결혼을 앞둔 예비부부 사례를 통해 결혼 비용이 900만원대와 3억원대로 갈라지는 웨딩시장 양극화와 K자 소비 흐름이 조명됐다.",
+        "body": "올가을 결혼식을 올리는 A씨 부부는 서울시 공공예식장을 빌려 가족만 초대하는 간소한 결혼식을 준비하고 있다. 매일경제 보도에 따르면 최근 웨딩시장에서는 900만원 수준의 실속형 견적과 3억원대 고가 견적이 동시에 나타나며 결혼 비용 양극화가 뚜렷해지고 있다. 경기 부담 속에서도 비용을 줄이려는 수요와 프리미엄 서비스를 선택하는 수요가 나뉘면서 K자형 소비 흐름이 이어질 것으로 전망된다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "Wedding market polarization widens as quotes range from 9 million to 300 million won",
+        "excerpt": "A couple planning an autumn wedding highlights how Korea’s wedding costs are splitting between modest 9 million won plans and premium quotes reaching 300 million won.",
+        "body": "A couple identified as A, set to marry this autumn, is preparing a simple ceremony by renting a Seoul public wedding venue and inviting only family members. According to a Maeil Business Newspaper report, Korea’s wedding market is showing sharper polarization, with practical quotes around 9 million won appearing alongside high-end estimates of about 300 million won. As some couples try to cut costs while others choose premium services, K-shaped consumption is expected to continue. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "ウェディング市場の二極化鮮明、900万ウォン対3億ウォン見積もりの衝撃",
+        "excerpt": "今秋に結婚式を予定するカップルの事例を通じ、韓国の結婚費用が900万ウォン台と3億ウォン台に分かれる市場の二極化が浮き彫りになった。",
+        "body": "今秋に結婚式を挙げるAさん夫婦は、ソウル市の公共結婚式場を借り、家族だけを招く簡素な式を準備している。毎日経済の報道によると、最近のウェディング市場では900万ウォン程度の実用的な見積もりと、3億ウォン台の高額見積もりが同時に見られ、結婚費用の二極化が鮮明になっている。費用を抑えたい需要とプレミアムサービスを選ぶ需要が分かれ、K字型消費は今後も続く見通しだ。出典はmk.co.kr。"
+      },
+      "zh": {
+        "title": "婚礼市场两极化加剧，900万韩元与3亿韩元报价凸显差距",
+        "excerpt": "一对计划今年秋季结婚的新人案例显示，韩国婚礼费用正分化为900万韩元左右的简约方案和高达3亿韩元的高端报价。",
+        "body": "计划今年秋季举行婚礼的A某夫妇正租用首尔市公共婚礼场地，只邀请家人参加简约婚礼。据《每日经济》报道，近期韩国婚礼市场中，约900万韩元的实用型报价与3亿韩元级高价报价同时出现，婚礼费用两极化更加明显。在经济负担下，压缩成本的需求与选择高端服务的需求分化，K型消费趋势预计将持续。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "La brecha del mercado nupcial: presupuestos de 9 millones frente a 300 millones de wones",
+        "excerpt": "El caso de una pareja que se casará este otoño muestra cómo los costos de boda en Corea se dividen entre planes austeros de 9 millones de wones y opciones de 300 millones.",
+        "body": "Una pareja identificada como A, que celebrará su boda este otoño, prepara una ceremonia sencilla en un espacio público para bodas de Seúl, con invitación solo para familiares. Según Maeil Business Newspaper, el mercado nupcial muestra una polarización cada vez más clara: presupuestos prácticos de unos 9 millones de wones conviven con estimaciones premium de alrededor de 300 millones. Mientras unos reducen costos y otros eligen servicios de alta gama, se prevé que continúe el consumo en forma de K. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Mercado de casamentos se polariza entre orçamentos de 9 milhões e 300 milhões de wons",
+        "excerpt": "O caso de um casal que se casa no outono mostra como os custos de casamento na Coreia se dividem entre opções simples de 9 milhões de wons e pacotes de 300 milhões.",
+        "body": "Um casal identificado como A, que se casará neste outono, prepara uma cerimônia simples em um espaço público de casamentos de Seul, convidando apenas familiares. Segundo o Maeil Business Newspaper, o mercado de casamentos mostra polarização crescente, com orçamentos econômicos de cerca de 9 milhões de wons ao lado de estimativas premium na faixa de 300 milhões. Com parte dos casais tentando reduzir custos e outra parte escolhendo serviços sofisticados, a tendência de consumo em K deve continuar. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Hochzeitsmarkt driftet auseinander: Angebote von 9 Millionen bis 300 Millionen Won",
+        "excerpt": "Der Fall eines Paares mit Herbsthochzeit zeigt, wie sich Koreas Hochzeitskosten zwischen schlichten Plänen um 9 Millionen Won und Premiumangeboten von 300 Millionen Won spalten.",
+        "body": "Ein Paar, das als A bezeichnet wird und im Herbst heiraten will, plant eine einfache Feier in einer öffentlichen Hochzeitsstätte der Stadt Seoul und lädt nur Familienmitglieder ein. Laut Maeil Business Newspaper zeigt der Hochzeitsmarkt eine zunehmende Polarisierung: Zweckmäßige Angebote um 9 Millionen Won stehen Kostenvoranschlägen von rund 300 Millionen Won gegenüber. Während manche Paare sparen wollen und andere Premiumdienste wählen, dürfte der K-förmige Konsum anhalten. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Le marché du mariage se polarise entre devis à 9 millions et 300 millions de wons",
+        "excerpt": "Le cas d’un couple qui se mariera cet automne illustre la division des coûts de mariage en Corée entre formules sobres à 9 millions de wons et offres à 300 millions.",
+        "body": "Un couple désigné par A, qui doit se marier cet automne, prépare une cérémonie simple dans un lieu public de mariage à Séoul, avec uniquement la famille invitée. Selon le Maeil Business Newspaper, le marché du mariage connaît une polarisation plus nette, avec des devis pratiques d’environ 9 millions de wons et des estimations haut de gamme proches de 300 millions. Entre couples cherchant à réduire les coûts et demande de services premium, la consommation en K devrait se poursuivre. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "استقطاب سوق الزفاف يتسع بين عروض بـ9 ملايين و300 مليون وون",
+        "excerpt": "تكشف حالة زوجين يستعدان للزواج هذا الخريف كيف تنقسم تكاليف الزفاف في كوريا بين حفلات بسيطة بنحو 9 ملايين وون وخيارات فاخرة تصل إلى 300 مليون.",
+        "body": "يستعد زوجان مشار إليهما بالحرف A لإقامة زفافهما هذا الخريف عبر استئجار قاعة زفاف عامة في سيول ودعوة أفراد العائلة فقط إلى مراسم بسيطة. وبحسب تقرير لصحيفة Maeil Business Newspaper، يشهد سوق الزفاف استقطابا أوضح، إذ تظهر عروض عملية بنحو 9 ملايين وون إلى جانب تقديرات فاخرة تقارب 300 مليون وون. ومع انقسام الطلب بين من يسعون إلى خفض التكاليف ومن يختارون الخدمات الممتازة، من المتوقع استمرار نمط الاستهلاك على شكل K. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "शादी बाजार में ध्रुवीकरण, 90 लाख से 30 करोड़ वॉन तक पहुंचे अनुमान",
+        "excerpt": "इस शरद ऋतु में शादी करने जा रहे एक जोड़े का मामला दिखाता है कि कोरिया में शादी खर्च 90 लाख वॉन की सादगी और 30 करोड़ वॉन के प्रीमियम विकल्पों में बंट रहा है।",
+        "body": "इस शरद ऋतु में विवाह करने वाला A नाम से पहचाना गया जोड़ा सियोल के सार्वजनिक विवाह स्थल को किराये पर लेकर केवल परिवार को आमंत्रित करने वाली सादी शादी की तैयारी कर रहा है। Maeil Business Newspaper के अनुसार, हाल के शादी बाजार में करीब 90 लाख वॉन के व्यावहारिक अनुमान और लगभग 30 करोड़ वॉन के महंगे अनुमान साथ-साथ दिख रहे हैं, जिससे खर्च का ध्रुवीकरण स्पष्ट हो रहा है। लागत घटाने की मांग और प्रीमियम सेवाओं को चुनने वाली मांग अलग होने से K-आकार की खपत जारी रहने की संभावना है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Pasar pernikahan makin terbelah, estimasi 9 juta hingga 300 juta won jadi sorotan",
+        "excerpt": "Kasus pasangan yang akan menikah musim gugur ini menunjukkan biaya pernikahan di Korea terbelah antara pilihan sederhana sekitar 9 juta won dan paket premium 300 juta won.",
+        "body": "Pasangan yang disebut A akan menikah pada musim gugur ini dan menyiapkan upacara sederhana dengan menyewa gedung pernikahan publik milik Kota Seoul serta hanya mengundang keluarga. Menurut laporan Maeil Business Newspaper, pasar pernikahan kini menunjukkan polarisasi yang makin jelas, dengan estimasi hemat sekitar 9 juta won muncul berdampingan dengan penawaran kelas atas sekitar 300 juta won. Ketika sebagian pasangan menekan biaya dan sebagian lain memilih layanan premium, konsumsi berbentuk K diperkirakan berlanjut. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "ef773c4b430e",
+    "slug": "美中-호르무즈-개방이란-핵-불허-합의-743290",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T10:58:45.105Z",
+    "updatedAt": "2026-05-14T10:58:45.106Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12048068",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12048068",
+    "titleFingerprint": "8961e07867ac08085f94c03a572349fb028bb9aa",
+    "dedupKeys": [
+      "ef773c4b430e98663e0172c27a2401af853359a9",
+      "8961e07867ac08085f94c03a572349fb028bb9aa",
+      "57b8486e5c8dcc9a713f4c2a7ed32ebd63e14140"
+    ],
+    "imageUrl": "/images/articles/ef773c4b430e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미·중 정상회담, 호르무즈 개방·이란 핵 불허 합의…트럼프 베이징 방문",
+        "excerpt": "도널드 트럼프 미국 대통령은 14일 중국 베이징에서 시진핑 국가주석과 정상회담을 열고 호르무즈 해협 개방과 이란 핵 불허 원칙에 합의했다.",
+        "body": "도널드 트럼프 미국 대통령이 14일 중국 베이징을 방문해 시진핑 중국 국가주석과 정상회담을 가졌다. 매일경제(mk.co.kr)에 따르면 양측은 회담에서 호르무즈 해협 개방과 이란 핵 불허에 뜻을 모은 것으로 전해졌다. 이번 방문은 트럼프 대통령의 9년 만의 베이징 방문이며, 지난해 10월 부산 회동 이후 약 6개월 만에 이뤄진 미·중 정상 간 만남이다. 미국 백악관과 중국 측이 관련 내용을 다룬 가운데, 이번 합의는 중동 해상 교통과 이란 핵 문제를 둘러싼 양국 간 공통 입장을 확인한 사례로 평가된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "US-China Summit Reaches Deal on Hormuz Opening and No Iran Nuclear Arms",
+        "excerpt": "U.S. President Donald Trump met Chinese President Xi Jinping in Beijing on the 14th, agreeing on keeping Hormuz open and rejecting Iran’s nuclear ambitions.",
+        "body": "U.S. President Donald Trump visited Beijing on the 14th and held a summit with Chinese President Xi Jinping. According to Maeil Business Newspaper (mk.co.kr), the two sides agreed during the talks on keeping the Strait of Hormuz open and not allowing Iran to obtain nuclear arms. The visit marked Trump’s first trip to Beijing in nine years and came about six months after the leaders met in Busan last October. With the White House and China addressing the matter, the agreement confirmed a shared position between Washington and Beijing on Middle East sea routes and Iran’s nuclear issue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米中首脳会談、ホルムズ開放とイラン核不容認で合意…トランプ氏訪中",
+        "excerpt": "ドナルド・トランプ米大統領は14日、北京で習近平国家主席と会談し、ホルムズ海峡の開放とイラン核不容認の原則で一致した。",
+        "body": "ドナルド・トランプ米大統領は14日、中国・北京を訪問し、習近平国家主席と首脳会談を行った。毎日経済（mk.co.kr）によると、双方は会談でホルムズ海峡の開放とイランの核保有を認めない方針で一致したとされる。今回の訪問はトランプ大統領にとって9年ぶりの北京訪問であり、昨年10月の釜山会談から約6カ月ぶりとなる米中首脳の会談だった。米ホワイトハウスと中国側が関連内容を扱う中、今回の合意は中東の海上交通とイラン核問題をめぐる両国の共通認識を確認した事例とみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美中峰会就霍尔木兹开放和不允许伊朗拥核达成一致",
+        "excerpt": "美国总统唐纳德·特朗普14日在北京会见中国国家主席习近平，双方就保持霍尔木兹海峡开放和不允许伊朗拥核达成一致。",
+        "body": "美国总统唐纳德·特朗普14日访问中国北京，并同中国国家主席习近平举行峰会。据《每日经济》（mk.co.kr）报道，双方在会谈中就霍尔木兹海峡开放和不允许伊朗拥有核能力达成共识。此次访问是特朗普时隔9年再次到访北京，也是继去年10月釜山会晤后约6个月，美中领导人再次举行会谈。美国白宫和中方围绕相关内容作出说明之际，此次共识被视为两国在中东海上通道和伊朗核问题上确认共同立场的案例。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Cumbre EE.UU.-China acuerda abrir Ormuz y rechazar nuclearización iraní",
+        "excerpt": "Donald Trump se reunió el día 14 en Pekín con Xi Jinping y ambos acordaron mantener abierto el estrecho de Ormuz y no permitir el programa nuclear iraní.",
+        "body": "El presidente de Estados Unidos, Donald Trump, visitó Pekín el día 14 y celebró una cumbre con el presidente chino, Xi Jinping. Según Maeil Business Newspaper (mk.co.kr), ambas partes coincidieron en mantener abierto el estrecho de Ormuz y en no permitir que Irán avance hacia la capacidad nuclear. La visita marcó el regreso de Trump a Pekín tras nueve años y se produjo unos seis meses después del encuentro de Busan de octubre pasado. Mientras la Casa Blanca y China abordaban el asunto, el acuerdo confirmó una posición común sobre el tráfico marítimo de Oriente Medio y la cuestión nuclear iraní. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Cúpula EUA-China acerta abertura de Ormuz e veto ao nuclear iraniano",
+        "excerpt": "Donald Trump reuniu-se no dia 14 em Pequim com Xi Jinping, e os dois lados concordaram em manter Ormuz aberto e não permitir o avanço nuclear do Irã.",
+        "body": "O presidente dos Estados Unidos, Donald Trump, visitou Pequim no dia 14 e realizou uma cúpula com o presidente chinês, Xi Jinping. Segundo o Maeil Business Newspaper (mk.co.kr), os dois lados concordaram nas conversas em manter aberto o estreito de Ormuz e em não permitir que o Irã obtenha capacidade nuclear. A visita marcou a primeira ida de Trump a Pequim em nove anos e ocorreu cerca de seis meses após o encontro de Busan, em outubro passado. Com a Casa Branca e a China tratando do tema, o acordo confirmou uma posição comum sobre as rotas marítimas do Oriente Médio e a questão nuclear iraniana. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "USA und China einigen sich auf offene Straße von Hormus und kein Iran-Atom",
+        "excerpt": "Donald Trump traf am 14. in Peking Xi Jinping; beide Seiten einigten sich auf eine offene Straße von Hormus und die Ablehnung iranischer Atomfähigkeit.",
+        "body": "US-Präsident Donald Trump besuchte am 14. Peking und hielt ein Gipfeltreffen mit Chinas Staatspräsident Xi Jinping ab. Nach Angaben der Maeil Business Newspaper (mk.co.kr) verständigten sich beide Seiten darauf, die Straße von Hormus offen zu halten und Iran keine nukleare Bewaffnung zu erlauben. Der Besuch war Trumps erster Peking-Aufenthalt seit neun Jahren und fand etwa sechs Monate nach dem Treffen in Busan im vergangenen Oktober statt. Während das Weiße Haus und China die Inhalte behandelten, bestätigte die Einigung eine gemeinsame Position zu den Seewegen im Nahen Osten und zur iranischen Atomfrage. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Sommet États-Unis-Chine: accord sur Ormuz ouvert et refus du nucléaire iranien",
+        "excerpt": "Donald Trump a rencontré Xi Jinping le 14 à Pékin; les deux dirigeants ont convenu de garder Ormuz ouvert et de ne pas permettre le nucléaire iranien.",
+        "body": "Le président américain Donald Trump s’est rendu à Pékin le 14 et a tenu un sommet avec le président chinois Xi Jinping. Selon Maeil Business Newspaper (mk.co.kr), les deux parties se sont accordées sur le maintien de l’ouverture du détroit d’Ormuz et sur le refus de permettre à l’Iran d’accéder à l’arme nucléaire. Cette visite marque le premier déplacement de Trump à Pékin en neuf ans et intervient environ six mois après la rencontre de Busan en octobre dernier. Alors que la Maison-Blanche et la Chine ont abordé le sujet, l’accord confirme une position commune sur les voies maritimes du Moyen-Orient et la question nucléaire iranienne. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قمة أميركية صينية تتفق على فتح هرمز ورفض امتلاك إيران للسلاح النووي",
+        "excerpt": "التقى الرئيس الأميركي دونالد ترامب بالرئيس الصيني شي جين بينغ في بكين يوم 14، واتفق الجانبان على إبقاء مضيق هرمز مفتوحا ورفض النووي الإيراني.",
+        "body": "زار الرئيس الأميركي دونالد ترامب بكين يوم 14 وعقد قمة مع الرئيس الصيني شي جين بينغ. وبحسب صحيفة ماييل الاقتصادية (mk.co.kr)، اتفق الجانبان خلال المحادثات على إبقاء مضيق هرمز مفتوحا وعدم السماح لإيران بامتلاك قدرات نووية عسكرية. وتعد هذه الزيارة أول زيارة لترامب إلى بكين منذ تسع سنوات، كما جاءت بعد نحو ستة أشهر من لقاء بوسان في أكتوبر الماضي. ومع تناول البيت الأبيض والجانب الصيني للمسألة، يؤكد الاتفاق موقفا مشتركا بين البلدين بشأن الملاحة البحرية في الشرق الأوسط والملف النووي الإيراني. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिका-चीन शिखर बैठक में होरमुज खुला रखने और ईरान परमाणु निषेध पर सहमति",
+        "excerpt": "डोनाल्ड ट्रंप ने 14 तारीख को बीजिंग में शी जिनपिंग से मुलाकात की, जहां दोनों पक्ष होरमुज जलडमरूमध्य खुला रखने और ईरान को परमाणु अनुमति न देने पर सहमत हुए।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 14 तारीख को चीन के बीजिंग का दौरा किया और चीनी राष्ट्रपति शी जिनपिंग के साथ शिखर वार्ता की। मैइल बिजनेस न्यूजपेपर (mk.co.kr) के अनुसार, दोनों पक्षों ने बैठक में होरमुज जलडमरूमध्य को खुला रखने और ईरान को परमाणु क्षमता की अनुमति न देने पर सहमति जताई। यह ट्रंप की 9 साल बाद बीजिंग यात्रा थी और पिछले अक्टूबर में बुसान बैठक के लगभग 6 महीने बाद दोनों नेताओं की फिर मुलाकात हुई। व्हाइट हाउस और चीन की ओर से संबंधित विषय पर चर्चा के बीच, यह सहमति मध्य पूर्वी समुद्री मार्गों और ईरान परमाणु मुद्दे पर साझा रुख की पुष्टि करती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KTT AS-China Sepakati Hormuz Tetap Terbuka dan Tolak Nuklir Iran",
+        "excerpt": "Donald Trump bertemu Xi Jinping di Beijing pada tanggal 14, dan kedua pihak sepakat menjaga Selat Hormuz tetap terbuka serta tidak mengizinkan nuklir Iran.",
+        "body": "Presiden Amerika Serikat Donald Trump mengunjungi Beijing pada tanggal 14 dan mengadakan pertemuan puncak dengan Presiden China Xi Jinping. Menurut Maeil Business Newspaper (mk.co.kr), kedua pihak sepakat dalam pembicaraan itu untuk menjaga Selat Hormuz tetap terbuka dan tidak mengizinkan Iran memiliki kemampuan nuklir. Kunjungan ini merupakan kunjungan Trump ke Beijing setelah sembilan tahun, serta berlangsung sekitar enam bulan setelah pertemuan di Busan pada Oktober tahun lalu. Saat Gedung Putih dan pihak China membahas isi terkait, kesepakatan ini menegaskan posisi bersama mengenai jalur laut Timur Tengah dan isu nuklir Iran. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "90cb5206b685",
     "slug": "美주식분석-ai모델-개발-고3-투자-정보-비대칭-허물-것-316608",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Ejekan TACO Meluas: Latar Ungkapan “Trump Selalu Kabur”",
         "excerpt": "Maeil Business Newspaper menjelaskan bagaimana ungkapan TACO yang mengejek Presiden AS Trump muncul, bersama konteks satir dari kata “chicken”.",
         "body": "Maeil Business Newspaper (mk.co.kr) membahas konteks munculnya TACO sebagai ungkapan untuk mengejek Presiden Amerika Serikat, Trump. Judul artikel menonjolkan frasa “Trump selalu kabur”, menunjukkan bahwa TACO tidak hanya dipahami sebagai nama makanan, tetapi juga sebagai istilah satire politik. Ringkasan asli menggambarkan “chicken” sebagai nama yang menenangkan tubuh dan pikiran yang lelah oleh kerja berat, sekaligus menghibur perut lapar dan jiwa yang terluka. Lapisan goreng yang mengilap digambarkan seperti minyak suci, sementara daging putih di dalamnya sebagai bentuk penghiburan, sehingga titik temu antara citra makanan dan bahasa ejekan menjadi jelas. Ungkapan ini dibaca sebagai julukan kritis untuk Trump dan sebagai contoh bagaimana pesan politik menyebar lewat bahasa makanan yang akrab bagi publik. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "22caa1d7a770",
-    "slug": "끝내-걷어찬-삼전-노조-21일부터-파업-벼랑끝-858142",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T18:33:21.114Z",
-    "updatedAt": "2026-05-13T18:33:21.114Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046508",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046508",
-    "titleFingerprint": "4c7d5d1f493e5bf502ff05f2948b74bfc26f9626",
-    "dedupKeys": [
-      "22caa1d7a7703b353cb90c2fcd996504e96bcf89",
-      "4c7d5d1f493e5bf502ff05f2948b74bfc26f9626",
-      "3d00db783f1e81f88a7df78e859ea9260a8cca97"
-    ],
-    "imageUrl": "/images/articles/22caa1d7a770.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노조 21일부터 총파업 우려, 17시간 사후조정 결렬",
-        "excerpt": "삼성전자 노사와 중앙노동위원회가 13일 새벽까지 17시간 사후조정을 진행했지만 결렬되면서 노조의 21일 총파업 현실화 우려가 커졌다.",
-        "body": "삼성전자 노사 간 사후조정이 결렬되면서 오는 21일부터 총파업이 현실화될 수 있다는 우려가 커졌다. 삼성전자 노사와 중앙노동위원회는 13일 새벽까지 17시간에 걸쳐 사후조정 회의를 진행했지만 합의에 이르지 못했다. 이번 사후조정은 노사 간 입장 차를 좁히기 위한 절차였으나 결렬로 마무리됐다. 이에 따라 삼성전자 노조가 예고한 21일 파업 가능성이 다시 부각됐다. 노사 협의가 추가로 진전되지 않을 경우 파업을 둘러싼 긴장감은 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics union strike fears rise as 17-hour mediation fails",
-        "excerpt": "Samsung Electronics labor, management and the National Labor Relations Commission held 17 hours of post-mediation talks until dawn on the 13th, but the failure raised fears of a union strike from the 21st.",
-        "body": "Concerns are growing that a general strike by Samsung Electronics’ union could become a reality from the 21st after post-mediation between labor and management broke down. Samsung Electronics labor and management, together with the National Labor Relations Commission, held a post-mediation meeting for 17 hours until dawn on the 13th, but failed to reach an agreement. The process was intended to narrow differences between the two sides, yet it ended without a deal. As a result, attention has returned to the union’s planned strike on the 21st. Unless further progress is made in labor-management talks, tension over the potential walkout is expected to continue. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子労組、21日から総スト懸念 17時間の事後調整が決裂",
-        "excerpt": "サムスン電子の労使と中央労働委員会は13日未明まで17時間にわたり事後調整を行ったが決裂し、労組の21日からの総スト現実化への懸念が高まった。",
-        "body": "サムスン電子の労使間の事後調整が決裂し、21日から総ストライキが現実化する可能性への懸念が高まっている。サムスン電子の労使と中央労働委員会は13日未明まで17時間にわたり事後調整会議を行ったが、合意には至らなかった。今回の事後調整は労使間の立場の違いを縮めるための手続きだったが、決裂で終わった。これにより、サムスン電子労組が予告した21日のストライキの可能性が再び注目されている。労使協議に追加の進展がなければ、ストをめぐる緊張は続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子工会21日起总罢工忧虑升温，17小时事后调解破裂",
-        "excerpt": "三星电子劳资双方与中央劳动委员会13日凌晨前进行了17小时事后调解，但未能达成协议，工会21日起总罢工可能成真的忧虑加大。",
-        "body": "随着三星电子劳资双方事后调解破裂，外界对工会可能自21日起展开总罢工的忧虑正在升温。三星电子劳资双方与中央劳动委员会在13日凌晨前进行了长达17小时的事后调解会议，但未能达成协议。此次事后调解原本旨在缩小劳资双方立场差异，却以破裂告终。因此，三星电子工会此前预告的21日罢工可能性再次受到关注。若劳资协商未能取得进一步进展，围绕罢工的紧张局势预计将持续。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Crece temor a huelga del sindicato de Samsung Electronics tras fallar mediación",
-        "excerpt": "La dirección y el sindicato de Samsung Electronics, junto con la Comisión Nacional de Relaciones Laborales, negociaron 17 horas hasta la madrugada del día 13, pero el fracaso elevó el temor a una huelga desde el 21.",
-        "body": "Crece la preocupación de que una huelga general del sindicato de Samsung Electronics pueda materializarse a partir del día 21, después de que fracasara la mediación posterior entre la empresa y los trabajadores. La dirección y el sindicato de Samsung Electronics, junto con la Comisión Nacional de Relaciones Laborales, mantuvieron una reunión de mediación durante 17 horas hasta la madrugada del día 13, pero no lograron un acuerdo. El procedimiento buscaba reducir las diferencias entre ambas partes, aunque terminó sin resultado. Con ello, vuelve a destacar la posibilidad de la huelga anunciada para el día 21. Si no hay nuevos avances en las conversaciones laborales, la tensión en torno al paro podría continuar. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Temor de greve geral na Samsung Electronics cresce após mediação de 17 horas falhar",
-        "excerpt": "Trabalhadores, direção da Samsung Electronics e a Comissão Nacional de Relações Trabalhistas fizeram 17 horas de mediação até a madrugada do dia 13, mas o impasse elevou o temor de greve a partir do dia 21.",
-        "body": "Aumenta a preocupação de que uma greve geral do sindicato da Samsung Electronics possa se concretizar a partir do dia 21, após o fracasso da mediação posterior entre trabalhadores e direção. As partes da Samsung Electronics e a Comissão Nacional de Relações Trabalhistas realizaram uma reunião de mediação por 17 horas até a madrugada do dia 13, mas não chegaram a um acordo. O procedimento buscava reduzir as diferenças entre os lados, porém terminou sem consenso. Com isso, voltou ao centro das atenções a possibilidade de greve anunciada pelo sindicato para o dia 21. Se as negociações trabalhistas não avançarem, a tensão em torno da paralisação deve continuar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung-Electronics-Gewerkschaft: Streiksorgen ab 21. nach 17 Stunden Schlichtung",
-        "excerpt": "Samsung Electronics, die Gewerkschaft und die Nationale Arbeitskommission verhandelten bis zum Morgen des 13. 17 Stunden lang, doch das Scheitern der Nachschlichtung verstärkte die Sorge vor einem Streik ab dem 21.",
-        "body": "Die Sorge wächst, dass ein Generalstreik der Gewerkschaft von Samsung Electronics ab dem 21. Realität werden könnte, nachdem die Nachschlichtung zwischen Arbeitnehmer- und Unternehmensseite gescheitert ist. Samsung Electronics, die Gewerkschaft und die Nationale Arbeitskommission führten bis in die frühen Morgenstunden des 13. eine 17-stündige Nachschlichtungssitzung, erreichten jedoch keine Einigung. Das Verfahren sollte die Differenzen zwischen beiden Seiten verringern, endete aber ohne Ergebnis. Damit rückt der von der Gewerkschaft angekündigte Streik am 21. erneut in den Fokus. Sollten die Gespräche keine weiteren Fortschritte bringen, dürfte die Spannung um den möglichen Ausstand anhalten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics: crainte de grève dès le 21 après l’échec d’une médiation",
-        "excerpt": "La direction et le syndicat de Samsung Electronics, avec la Commission nationale du travail, ont discuté 17 heures jusqu’à l’aube du 13, mais l’échec de la médiation renforce la crainte d’une grève dès le 21.",
-        "body": "La crainte grandit de voir une grève générale du syndicat de Samsung Electronics se concrétiser à partir du 21, après l’échec de la médiation postérieure entre la direction et les salariés. Les deux parties, avec la Commission nationale du travail, ont tenu une réunion de médiation pendant 17 heures jusqu’à l’aube du 13, sans parvenir à un accord. Cette procédure visait à réduire les divergences entre les parties, mais elle s’est achevée sur un échec. La possibilité de la grève annoncée par le syndicat pour le 21 revient donc au premier plan. Sans nouvelle avancée dans les discussions sociales, la tension autour du mouvement devrait se poursuivre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مخاوف من إضراب نقابة سامسونغ إلكترونيكس في 21 بعد فشل وساطة 17 ساعة",
-        "excerpt": "أجرى طرفا العمل والإدارة في سامسونغ إلكترونيكس واللجنة المركزية لعلاقات العمل وساطة لاحقة استمرت 17 ساعة حتى فجر 13، لكن فشلها زاد المخاوف من إضراب عام يبدأ في 21.",
-        "body": "تتزايد المخاوف من أن يصبح الإضراب العام لنقابة سامسونغ إلكترونيكس واقعا اعتبارا من يوم 21، بعدما فشلت الوساطة اللاحقة بين العمال والإدارة. فقد عقد طرفا العمل والإدارة في سامسونغ إلكترونيكس، إلى جانب اللجنة المركزية لعلاقات العمل، اجتماعا للوساطة اللاحقة استمر 17 ساعة حتى فجر يوم 13، لكنهم لم يتوصلوا إلى اتفاق. كانت هذه الوساطة تهدف إلى تضييق الفجوة بين مواقف الطرفين، إلا أنها انتهت بالفشل. وبذلك عادت إمكانية الإضراب الذي أعلنت عنه النقابة في يوم 21 إلى الواجهة. وإذا لم يتحقق تقدم إضافي في المفاوضات العمالية، فمن المتوقع استمرار التوتر حول الإضراب المحتمل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics यूनियन की 21 से हड़ताल की आशंका, 17 घंटे की मध्यस्थता विफल",
-        "excerpt": "Samsung Electronics के प्रबंधन, यूनियन और केंद्रीय श्रम आयोग ने 13 तारीख की सुबह तक 17 घंटे बाद की मध्यस्थता की, लेकिन सहमति न बनने से 21 से आम हड़ताल की आशंका बढ़ी।",
-        "body": "Samsung Electronics में श्रम और प्रबंधन के बीच बाद की मध्यस्थता विफल होने के बाद 21 तारीख से यूनियन की आम हड़ताल वास्तविकता बन सकती है, इसे लेकर चिंता बढ़ गई है। Samsung Electronics के श्रम पक्ष, प्रबंधन और केंद्रीय श्रम आयोग ने 13 तारीख की सुबह तक 17 घंटे तक मध्यस्थता बैठक की, लेकिन वे समझौते तक नहीं पहुंच सके। यह प्रक्रिया दोनों पक्षों के रुख में अंतर कम करने के लिए थी, पर अंततः विफल रही। इसके बाद यूनियन द्वारा घोषित 21 तारीख की हड़ताल की संभावना फिर से प्रमुख मुद्दा बन गई है। यदि श्रम-प्रबंधन वार्ता में आगे प्रगति नहीं होती, तो हड़ताल को लेकर तनाव जारी रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Serikat Samsung Electronics dikhawatirkan mogok mulai 21 setelah mediasi gagal",
-        "excerpt": "Manajemen, serikat Samsung Electronics, dan Komisi Hubungan Perburuhan Nasional menggelar mediasi 17 jam hingga dini hari tanggal 13, tetapi kegagalan kesepakatan meningkatkan kekhawatiran mogok umum mulai tanggal 21.",
-        "body": "Kekhawatiran meningkat bahwa mogok umum serikat Samsung Electronics dapat menjadi kenyataan mulai tanggal 21 setelah mediasi lanjutan antara pekerja dan manajemen gagal. Pihak pekerja dan manajemen Samsung Electronics, bersama Komisi Hubungan Perburuhan Nasional, mengadakan rapat mediasi lanjutan selama 17 jam hingga dini hari tanggal 13, tetapi tidak mencapai kesepakatan. Proses itu dimaksudkan untuk mempersempit perbedaan sikap antara kedua pihak, namun berakhir buntu. Akibatnya, kemungkinan mogok yang telah diumumkan serikat untuk tanggal 21 kembali menjadi sorotan. Jika perundingan pekerja dan manajemen tidak menunjukkan kemajuan tambahan, ketegangan terkait rencana mogok diperkirakan berlanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a1e304741318",
-    "slug": "조선-3사-직접채용-20-늘린다-522336",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T18:32:18.088Z",
-    "updatedAt": "2026-05-13T18:32:18.088Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12046511",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046511",
-    "titleFingerprint": "b5439d2b2b835b617252c73b3dcd4d41ac81e972",
-    "dedupKeys": [
-      "a1e304741318531336661e18e3ab87e4c600d9b3",
-      "b5439d2b2b835b617252c73b3dcd4d41ac81e972",
-      "96c8db67894ee90026681d1da73bdfd0d981f20b"
-    ],
-    "imageUrl": "/images/articles/a1e304741318.jpg",
-    "i18n": {
-      "ko": {
-        "title": "조선 3사 직접채용 20% 확대, 원·하청 성과급 동일비율 유지",
-        "excerpt": "정부가 조선 3사와 협의해 직영 인력을 20% 늘리고 원·하청 근로자에게 동일 비율의 성과급을 지급하는 기조를 이어가기로 했다.",
-        "body": "정부가 조선 3사와 협의를 거쳐 직영 인력을 20% 늘리기로 했다. 조선업 현장의 인력 운용 구조를 조정하고 원·하청 근로자 간 보상 격차를 줄이기 위한 조치다. 정부는 대형 조선업체와 협력업체 근로자에게 성과급을 동일 비율로 지급하는 기조도 유지한다. 이에 따라 협력업체 직원도 대형 조선업체와 같은 비율의 성과급을 받는 방향이 이어진다. 이번 방안은 조선 3사의 직접채용 확대와 성과급 지급 원칙을 함께 담은 것으로, 향후 조선업 인력 확보와 근로조건 개선 논의에 영향을 줄 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korea’s Top Three Shipbuilders to Raise Direct Hiring by 20%",
-        "excerpt": "The government agreed with Korea’s three major shipbuilders to increase directly employed staff by 20% and maintain equal bonus ratios for prime and subcontract workers.",
-        "body": "The government has decided, after talks with Korea’s three major shipbuilders, to increase directly employed personnel by 20%. The measure is aimed at adjusting the workforce structure in shipbuilding sites and narrowing compensation gaps between prime contractor and subcontractor workers. The government will also maintain its policy of paying performance bonuses to employees of large shipbuilders and partner firms at the same ratio. As a result, subcontractor employees will continue to receive bonuses at the same rate as those at major shipbuilders. The plan combines expanded direct hiring by the three shipbuilders with a shared bonus principle, and is expected to affect discussions on workforce supply and working conditions in the industry. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国造船大手3社、直接採用を20%拡大へ 成果給は同率維持",
-        "excerpt": "韓国政府は造船大手3社と協議し、直営人員を20%増やし、元請け・下請け労働者に同じ比率の成果給を支給する方針を維持する。",
-        "body": "韓国政府は造船大手3社との協議を経て、直営人員を20%増やすことを決めた。造船現場の人員運用構造を調整し、元請けと下請け労働者の報酬格差を縮小するための措置だ。政府は大手造船会社と協力会社の労働者に成果給を同じ比率で支給する方針も維持する。これにより、協力会社の従業員も大手造船会社と同じ比率の成果給を受け取る方向が続く。今回の案は、造船3社の直接採用拡大と成果給支給原則を併せて盛り込んだもので、今後の造船業の人材確保と労働条件改善の議論に影響を与える見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国三大造船企业直接招聘增20%，绩效奖金同等比例延续",
-        "excerpt": "韩国政府与三大造船企业协商后决定，将直营人员增加20%，并继续向总包与分包劳动者按相同比例发放绩效奖金。",
-        "body": "韩国政府在与三大造船企业协商后，决定将直营人员增加20%。这一措施旨在调整造船现场的人力运营结构，并缩小总包与分包劳动者之间的报酬差距。政府还将维持向大型造船企业和合作企业劳动者按相同比例发放绩效奖金的基调。因此，合作企业员工也将继续按与大型造船企业相同的比例领取绩效奖金。此次方案同时包含三大造船企业扩大直接招聘和绩效奖金发放原则，预计将影响今后有关造船业人力保障和劳动条件改善的讨论。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Los tres grandes astilleros de Corea aumentarán 20% la contratación directa",
-        "excerpt": "El Gobierno acordó con los tres grandes astilleros elevar 20% el personal directo y mantener la misma proporción de bonos para trabajadores principales y subcontratados.",
-        "body": "El Gobierno decidió, tras conversaciones con los tres grandes astilleros de Corea, aumentar en 20% el personal contratado directamente. La medida busca ajustar la estructura laboral en los centros de construcción naval y reducir la brecha de compensación entre trabajadores de contratistas principales y subcontratistas. El Gobierno también mantendrá la línea de pagar bonos por desempeño en la misma proporción a empleados de grandes astilleros y de empresas colaboradoras. Así, los trabajadores de subcontratistas seguirán recibiendo bonos al mismo porcentaje que los de los grandes astilleros. El plan combina la expansión de la contratación directa con el principio de bonos equivalentes y podría influir en el debate sobre personal y condiciones laborales del sector. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Três grandes estaleiros da Coreia ampliarão contratação direta em 20%",
-        "excerpt": "O governo acertou com os três grandes estaleiros elevar em 20% o pessoal direto e manter bônus na mesma proporção para empregados de contratantes e subcontratadas.",
-        "body": "O governo decidiu, após negociações com os três grandes estaleiros da Coreia, aumentar em 20% o número de trabalhadores contratados diretamente. A medida busca ajustar a estrutura de mão de obra nos canteiros navais e reduzir a diferença de remuneração entre empregados de contratantes principais e subcontratadas. O governo também manterá a diretriz de pagar bônus de desempenho na mesma proporção a trabalhadores de grandes estaleiros e de empresas parceiras. Assim, funcionários de subcontratadas continuarão recebendo bônus no mesmo percentual dos grandes estaleiros. A proposta reúne a ampliação da contratação direta e o princípio de pagamento proporcional de bônus, com impacto esperado nas discussões sobre mão de obra e condições de trabalho. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreas drei große Werften erhöhen Direktanstellungen um 20 Prozent",
-        "excerpt": "Die Regierung vereinbarte mit Koreas drei großen Werften, direkt Beschäftigte um 20% zu erhöhen und gleiche Bonusquoten für Haupt- und Subunternehmer zu erhalten.",
-        "body": "Die Regierung hat nach Gesprächen mit Koreas drei großen Werften beschlossen, die Zahl direkt beschäftigter Arbeitskräfte um 20% zu erhöhen. Die Maßnahme soll die Personalstruktur in den Werften anpassen und Vergütungsunterschiede zwischen Beschäftigten von Hauptauftragnehmern und Subunternehmen verringern. Zugleich hält die Regierung an der Linie fest, Leistungsboni bei großen Werften und Partnerfirmen im gleichen Verhältnis auszuzahlen. Damit sollen auch Beschäftigte von Zuliefer- und Partnerunternehmen weiterhin Boni in derselben Quote erhalten wie Beschäftigte großer Werften. Der Plan verbindet mehr Direktanstellungen mit einem gemeinsamen Bonusprinzip und dürfte die Debatte über Fachkräfte und Arbeitsbedingungen in der Schiffbauindustrie beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les trois grands chantiers navals coréens recruteront 20% de salariés directs en plus",
-        "excerpt": "Le gouvernement a convenu avec les trois grands chantiers navals d’augmenter de 20% les effectifs directs et de maintenir des primes au même taux pour donneurs d’ordre et sous-traitants.",
-        "body": "Le gouvernement a décidé, après concertation avec les trois grands chantiers navals coréens, d’augmenter de 20% les effectifs employés directement. Cette mesure vise à ajuster la structure de main-d’œuvre sur les sites navals et à réduire l’écart de rémunération entre salariés des donneurs d’ordre et des sous-traitants. Le gouvernement maintiendra aussi la ligne consistant à verser les primes de performance au même taux aux salariés des grands chantiers et des entreprises partenaires. Les employés des sous-traitants continueront donc de recevoir des primes selon la même proportion que ceux des grands chantiers navals. Ce dispositif associe l’élargissement de l’embauche directe et un principe commun de primes, avec un effet attendu sur les discussions relatives aux effectifs et aux conditions de travail. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أكبر ثلاث شركات لبناء السفن في كوريا ترفع التوظيف المباشر 20%",
-        "excerpt": "اتفقت الحكومة مع أكبر ثلاث شركات لبناء السفن على زيادة العمالة المباشرة 20% والإبقاء على نسبة موحدة لمكافآت الأداء للعاملين لدى المقاولين والمتعاقدين الفرعيين.",
-        "body": "قررت الحكومة، بعد مشاورات مع أكبر ثلاث شركات لبناء السفن في كوريا، زيادة عدد العاملين المباشرين بنسبة 20%. وتهدف الخطوة إلى تعديل هيكل تشغيل العمالة في مواقع بناء السفن وتقليص فجوة التعويض بين عمال الشركات الرئيسية وعمال المتعاقدين الفرعيين. كما ستواصل الحكومة نهج دفع مكافآت الأداء بالنسبة نفسها للعاملين في شركات بناء السفن الكبرى والشركات الشريكة. وبذلك سيستمر موظفو الشركات المتعاونة في تلقي مكافآت بالنسبة ذاتها المطبقة في الشركات الكبرى. وتجمع الخطة بين توسيع التوظيف المباشر في الشركات الثلاث ومبدأ موحد لصرف المكافآت، ومن المتوقع أن تؤثر في نقاشات تأمين العمالة وتحسين ظروف العمل في القطاع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया की तीन बड़ी शिपबिल्डिंग कंपनियां सीधी भर्ती 20% बढ़ाएंगी",
-        "excerpt": "सरकार ने तीन बड़ी शिपबिल्डिंग कंपनियों से बातचीत के बाद प्रत्यक्ष कर्मचारियों को 20% बढ़ाने और मुख्य व उपठेका कर्मचारियों को समान अनुपात में बोनस देने की नीति जारी रखने का फैसला किया।",
-        "body": "सरकार ने कोरिया की तीन बड़ी शिपबिल्डिंग कंपनियों के साथ विचार-विमर्श के बाद प्रत्यक्ष रूप से नियुक्त कर्मचारियों की संख्या 20% बढ़ाने का निर्णय लिया है। यह कदम शिपबिल्डिंग कार्यस्थलों पर श्रम संचालन ढांचे को समायोजित करने और मुख्य ठेकेदार तथा उपठेका कर्मचारियों के बीच मुआवजे का अंतर कम करने के लिए है। सरकार बड़े शिपबिल्डरों और सहयोगी कंपनियों के कर्मचारियों को प्रदर्शन बोनस समान अनुपात में देने की नीति भी बनाए रखेगी। इससे सहयोगी कंपनियों के कर्मचारियों को भी बड़े शिपबिल्डरों के समान अनुपात में बोनस मिलता रहेगा। यह योजना तीनों कंपनियों में सीधी भर्ती बढ़ाने और बोनस भुगतान के सिद्धांत को साथ रखती है, जिससे उद्योग में श्रम उपलब्धता और कार्य स्थितियों पर चर्चा प्रभावित हो सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Tiga Galangan Besar Korea Naikkan Rekrutmen Langsung 20%",
-        "excerpt": "Pemerintah sepakat dengan tiga galangan besar Korea untuk menambah pekerja langsung 20% dan mempertahankan rasio bonus yang sama bagi pekerja kontraktor utama dan subkontraktor.",
-        "body": "Pemerintah memutuskan, setelah berdiskusi dengan tiga perusahaan galangan kapal besar Korea, untuk menaikkan jumlah pekerja yang direkrut langsung sebesar 20%. Langkah ini bertujuan menata struktur tenaga kerja di lokasi galangan dan mengurangi kesenjangan kompensasi antara pekerja kontraktor utama dan subkontraktor. Pemerintah juga akan mempertahankan kebijakan pembayaran bonus kinerja dengan rasio yang sama kepada pekerja galangan besar dan perusahaan mitra. Dengan demikian, karyawan perusahaan mitra akan tetap menerima bonus pada persentase yang sama dengan pekerja galangan besar. Rencana ini menggabungkan perluasan rekrutmen langsung dan prinsip pembayaran bonus yang setara, serta diperkirakan memengaruhi pembahasan tentang pasokan tenaga kerja dan kondisi kerja industri. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a4ab5eeb1040",
-    "slug": "후반기-국회의장-후보에-조정식-225447",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T18:31:12.193Z",
-    "updatedAt": "2026-05-13T18:31:12.193Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12046510",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12046510",
-    "titleFingerprint": "025b58466f8567fcd9998ab7217a31f49c940547",
-    "dedupKeys": [
-      "a4ab5eeb10403016c6be67520dff8439e8011b39",
-      "025b58466f8567fcd9998ab7217a31f49c940547",
-      "48e153d843c2870203a97cdff382652adfd42a73"
-    ],
-    "imageUrl": "/images/articles/a4ab5eeb1040.jpg",
-    "i18n": {
-      "ko": {
-        "title": "조정식, 22대 후반기 국회의장 후보 선출…우원식 뒤이어 2년 임기",
-        "excerpt": "더불어민주당 6선 조정식 의원이 22대 후반기 국회를 이끌 국회의장 후보로 뽑혔으며, 오는 30일부터 우원식 의장의 뒤를 이어 2년간 의장직을 수행한다.",
-        "body": "22대 후반기 국회를 이끌 국회의장 후보로 조정식 더불어민주당 의원이 뽑혔다. 조 의원은 경기 시흥을을 지역구로 둔 6선 의원으로, 후반기 국회 의장직을 맡게 된다. 이번 선출로 조 의원은 우원식 국회의장의 뒤를 이어 오는 30일부터 2년간 국회의장직을 수행하게 됐다. 국회의장은 본회의 운영과 의사 진행을 총괄하는 자리인 만큼, 후반기 국회 운영의 중심 역할을 맡게 된다. 원문은 조정식 의원이 22대 후반기 국회의장 후보로 선출됐고, 임기는 오는 30일부터 2년이라고 전했다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Cho Jung-sik Chosen as Candidate for Speaker in 22nd Assembly’s Latter Half",
-        "excerpt": "Six-term Democratic Party lawmaker Cho Jung-sik has been chosen as the candidate to lead the latter half of South Korea’s 22nd National Assembly, succeeding Speaker Woo Won-shik from the 30th for a two-year term.",
-        "body": "Cho Jung-sik, a six-term lawmaker of the Democratic Party of Korea, has been chosen as the candidate for National Assembly speaker to lead the latter half of the 22nd Assembly. Cho represents Siheung B in Gyeonggi Province and is set to take over the speaker’s role for the latter half of the term. With this selection, he will succeed current Speaker Woo Won-shik and serve for two years starting on the 30th. As the speaker oversees plenary sessions and legislative proceedings, Cho will take a central role in managing Assembly operations. The original report said Cho was selected as the candidate and that his term will run for two years from the 30th. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "趙正湜氏、韓国第22代国会後半期の議長候補に選出",
-        "excerpt": "韓国最大野党・共に民主党の6選議員、趙正湜氏が第22代国会後半期を率いる国会議長候補に選ばれ、30日から禹元植議長の後任として2年間務める。",
-        "body": "韓国第22代国会の後半期を率いる国会議長候補に、共に民主党の趙正湜議員が選ばれた。趙氏は京畿道始興乙を地盤とする6選議員で、後半期の国会議長職を担うことになる。今回の選出により、趙氏は禹元植国会議長の後任として、30日から2年間、議長職を務める予定だ。国会議長は本会議の運営と議事進行を総括する役職であり、後半期国会運営の中心的な役割を担う。原文は、趙氏が第22代国会後半期の議長候補に選出され、任期は30日から2年間だと伝えた。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "赵正湜当选韩国第22届国会后半期议长候选人",
-        "excerpt": "韩国共同民主党六届议员赵正湜被选为第22届国会后半期议长候选人，将从30日起接替禹元植，担任国会议长两年。",
-        "body": "韩国第22届国会后半期议长候选人已确定为共同民主党议员赵正湜。赵正湜是代表京畿道始兴乙选区的六届议员，将负责后半期国会议长职务。根据此次选举结果，他将接替现任国会议长禹元植，自30日起履行两年议长任期。国会议长负责主持全体会议并统筹议事程序，因此将在后半期国会运行中发挥核心作用。原文报道称，赵正湜被选为第22届国会后半期议长候选人，任期自30日起为两年。来源：引用自mk.co.kr。"
-      },
-      "es": {
-        "title": "Cho Jung-sik, elegido candidato a presidir la segunda mitad de la 22.ª Asamblea",
-        "excerpt": "El diputado surcoreano Cho Jung-sik, del Partido Democrático y con seis mandatos, fue elegido candidato a presidir la segunda mitad de la 22.ª Asamblea Nacional desde el día 30 por dos años.",
-        "body": "Cho Jung-sik, diputado de seis mandatos del Partido Democrático de Corea, fue elegido candidato a presidente de la Asamblea Nacional para dirigir la segunda mitad de la 22.ª legislatura. Cho representa el distrito de Siheung B, en la provincia de Gyeonggi, y asumirá el cargo de presidente durante la etapa final del periodo parlamentario. Con esta elección, sucederá al actual presidente Woo Won-shik y desempeñará el cargo durante dos años a partir del día 30. La presidencia dirige las sesiones plenarias y el desarrollo de los procedimientos legislativos, por lo que Cho tendrá un papel central en la gestión de la Asamblea. El texto original informó que Cho fue elegido candidato y que su mandato será de dos años desde el día 30. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Cho Jung-sik é escolhido candidato à presidência da segunda metade da 22ª Assembleia",
-        "excerpt": "O deputado Cho Jung-sik, do Partido Democrático e em seu sexto mandato, foi escolhido candidato para presidir a segunda metade da 22ª Assembleia Nacional da Coreia do Sul por dois anos a partir do dia 30.",
-        "body": "Cho Jung-sik, deputado do Partido Democrático da Coreia em seu sexto mandato, foi escolhido candidato à presidência da Assembleia Nacional para liderar a segunda metade da 22ª legislatura. Cho representa o distrito de Siheung B, na província de Gyeonggi, e deverá assumir a presidência nessa etapa do Parlamento. Com a escolha, ele sucederá o atual presidente Woo Won-shik e exercerá o cargo por dois anos a partir do dia 30. A presidência coordena as sessões plenárias e a condução dos trabalhos legislativos, tornando-se central para a operação da Assembleia. O texto original informou que Cho foi escolhido candidato e que seu mandato será de dois anos a partir do dia 30. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Cho Jung-sik als Kandidat für Parlamentsvorsitz der zweiten Hälfte gewählt",
-        "excerpt": "Der sechsmal gewählte Abgeordnete Cho Jung-sik von der Demokratischen Partei wurde als Kandidat für den Vorsitz der zweiten Hälfte der 22. südkoreanischen Nationalversammlung bestimmt und folgt ab dem 30. für zwei Jahre auf Woo Won-shik.",
-        "body": "Cho Jung-sik, sechsmal gewählter Abgeordneter der Demokratischen Partei Koreas, ist als Kandidat für den Vorsitz der Nationalversammlung in der zweiten Hälfte der 22. Legislaturperiode bestimmt worden. Cho vertritt den Wahlkreis Siheung B in der Provinz Gyeonggi und soll das Amt des Parlamentspräsidenten in dieser Phase übernehmen. Mit der Auswahl folgt er dem derzeitigen Vorsitzenden Woo Won-shik und wird ab dem 30. für zwei Jahre amtieren. Der Vorsitz leitet Plenarsitzungen und die parlamentarischen Abläufe und spielt damit eine zentrale Rolle bei der Führung der Nationalversammlung. Der Originalbericht meldete, dass Cho als Kandidat gewählt wurde und seine Amtszeit ab dem 30. zwei Jahre beträgt. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Cho Jung-sik choisi candidat à la présidence de la seconde moitié de la 22e Assemblée",
-        "excerpt": "Le député Cho Jung-sik, élu six fois et membre du Parti démocrate de Corée, a été choisi pour présider la seconde moitié de la 22e Assemblée nationale à partir du 30, pour un mandat de deux ans.",
-        "body": "Cho Jung-sik, député du Parti démocrate de Corée élu pour un sixième mandat, a été choisi comme candidat à la présidence de l’Assemblée nationale pour diriger la seconde moitié de la 22e législature. Il représente la circonscription de Siheung B, dans la province de Gyeonggi, et doit prendre la tête de l’Assemblée pour cette période. Avec cette désignation, il succédera au président actuel Woo Won-shik et exercera ses fonctions pendant deux ans à compter du 30. Le président de l’Assemblée supervise les séances plénières et la conduite des débats, ce qui en fait un acteur central de son fonctionnement. Le texte original indique que Cho a été choisi candidat et que son mandat durera deux ans à partir du 30. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "تشو جونغ-سيك مرشحا لرئاسة النصف الثاني من الجمعية الوطنية الـ22",
-        "excerpt": "اختير النائب تشو جونغ-سيك من الحزب الديمقراطي الكوري، وهو نائب لست دورات، مرشحا لرئاسة النصف الثاني من الجمعية الوطنية الـ22، على أن يخلف وو وون-شيك من يوم 30 لمدة عامين.",
-        "body": "اختير تشو جونغ-سيك، النائب عن الحزب الديمقراطي الكوري لست دورات، مرشحا لرئاسة الجمعية الوطنية في النصف الثاني من دورتها الثانية والعشرين. ويمثل تشو دائرة سيهونغ ب في مقاطعة غيونغي، ومن المقرر أن يتولى منصب رئيس الجمعية في هذه المرحلة. وبموجب هذا الاختيار، سيخلف الرئيس الحالي وو وون-شيك، ويمارس مهامه لمدة عامين ابتداء من يوم 30. ويتولى رئيس الجمعية إدارة الجلسات العامة وتنظيم سير المداولات، ما يجعله في موقع محوري في تشغيل البرلمان خلال النصف الثاني. وذكر النص الأصلي أن تشو اختير مرشحا لرئاسة النصف الثاني من الجمعية الوطنية الـ22، وأن ولايته تبدأ يوم 30 وتمتد لعامين. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "चो जंग-सिक 22वीं नेशनल असेंबली के उत्तरार्ध के स्पीकर उम्मीदवार चुने गए",
-        "excerpt": "डेमोक्रेटिक पार्टी ऑफ कोरिया के छह बार निर्वाचित सांसद चो जंग-सिक को 22वीं नेशनल असेंबली के उत्तरार्ध का नेतृत्व करने वाले स्पीकर उम्मीदवार के रूप में चुना गया है; वे 30 तारीख से वू वोन-सिक की जगह दो साल तक पद संभालेंगे।",
-        "body": "डेमोक्रेटिक पार्टी ऑफ कोरिया के छह बार निर्वाचित सांसद चो जंग-सिक को 22वीं नेशनल असेंबली के उत्तरार्ध के लिए स्पीकर उम्मीदवार चुना गया है। चो ग्योंगगी प्रांत के सिहुंग बी निर्वाचन क्षेत्र का प्रतिनिधित्व करते हैं और अब उत्तरार्ध में असेंबली स्पीकर की भूमिका संभालेंगे। इस चयन के साथ वे मौजूदा स्पीकर वू वोन-सिक का स्थान लेंगे और 30 तारीख से दो साल तक पद पर रहेंगे। नेशनल असेंबली स्पीकर पूर्ण सत्रों के संचालन और विधायी कार्यवाही की अध्यक्षता करता है, इसलिए चो उत्तरार्ध की संसदीय कार्यप्रणाली में केंद्रीय भूमिका निभाएंगे। मूल रिपोर्ट में कहा गया कि चो 22वीं नेशनल असेंबली के उत्तरार्ध के स्पीकर उम्मीदवार चुने गए और उनका कार्यकाल 30 तारीख से दो साल का होगा। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Cho Jung-sik Terpilih Jadi Kandidat Ketua Paruh Kedua Majelis Nasional ke-22",
-        "excerpt": "Anggota parlemen enam periode dari Partai Demokrat Korea, Cho Jung-sik, terpilih sebagai kandidat ketua untuk memimpin paruh kedua Majelis Nasional ke-22 mulai tanggal 30 selama dua tahun.",
-        "body": "Cho Jung-sik, anggota parlemen enam periode dari Partai Demokrat Korea, terpilih sebagai kandidat ketua Majelis Nasional untuk memimpin paruh kedua Majelis Nasional ke-22. Cho mewakili daerah pemilihan Siheung B di Provinsi Gyeonggi dan akan memegang peran ketua pada paruh kedua masa kerja parlemen. Dengan pemilihan ini, ia akan menggantikan Ketua Woo Won-shik dan menjalankan jabatan selama dua tahun mulai tanggal 30. Ketua Majelis Nasional bertanggung jawab atas penyelenggaraan sidang pleno dan jalannya agenda legislatif, sehingga peran ini menjadi pusat pengelolaan parlemen. Laporan asli menyebut Cho terpilih sebagai kandidat ketua paruh kedua Majelis Nasional ke-22, dengan masa jabatan dua tahun mulai tanggal 30. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
