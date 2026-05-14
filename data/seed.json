@@ -1,5 +1,230 @@
 [
   {
+    "id": "0c4d5c0784e1",
+    "slug": "매경이-전하는-세상의-지식-매-세-지-5월-15일-920668",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T22:24:53.386Z",
+    "updatedAt": "2026-05-14T22:24:53.386Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12047805",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12047805",
+    "titleFingerprint": "2d92cfd134cd4bfbf59cff0bc613b7aa17d8f544",
+    "dedupKeys": [
+      "0c4d5c0784e1e3016d6a4960aab992e1afaf456b",
+      "2d92cfd134cd4bfbf59cff0bc613b7aa17d8f544",
+      "8ef6676c2b6e1dc6dfdfe63fc3619f2fa73bc90c"
+    ],
+    "imageUrl": "/images/articles/0c4d5c0784e1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 대통령 9년 만의 베이징 방문, 시진핑과 중동 정세·이란 핵 문제 정상회담 주목",
+        "excerpt": "도널드 트럼프 미국 대통령은 5월 14일 9년 만에 중국 베이징을 방문해 시진핑 국가주석과 정상회담을 열고 중동 정세와 이란 핵 문제를 논의했습니다.",
+        "body": "도널드 트럼프 미국 대통령은 5월 14일 중국 베이징을 방문해 시진핑 중국 국가주석과 정상회담을 가졌습니다. 트럼프 대통령의 베이징 방문은 9년 만입니다. 백악관에 따르면 두 정상은 회담에서 중동 정세와 관련해 이란의 핵 문제를 논의했습니다. 이번 회담은 미중 정상 간 직접 대화가 이뤄졌다는 점에서 주목됩니다. 공개된 원문 정보는 방문 시점과 장소, 회담 상대, 주요 의제가 중동 정세와 이란 핵 문제였다는 사실에 한정됩니다. 향후 구체적인 합의나 후속 조치 여부는 추가 발표를 통해 확인될 사안입니다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Trump Visits Beijing After 9 Years, Meets Xi on Middle East and Iran Nuclear Issue",
+        "excerpt": "U.S. President Donald Trump visited Beijing on May 14 for the first time in nine years and held a summit with Chinese President Xi Jinping on the Middle East and Iran’s nuclear issue.",
+        "body": "U.S. President Donald Trump visited Beijing, China, on May 14 and held a summit with Chinese President Xi Jinping. It was Trump’s first visit to Beijing in nine years. According to the White House, the two leaders discussed the Middle East situation, including Iran’s nuclear issue, during the meeting. The summit draws attention because it marked direct dialogue between the U.S. and Chinese leaders. The disclosed source information is limited to the timing and location of the visit, the counterpart in the talks, and the main agenda involving the Middle East and Iran’s nuclear issue. Any specific agreement or follow-up measure will need to be confirmed through additional announcements. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "トランプ大統領が9年ぶり北京訪問、習近平氏と中東情勢・イラン核問題を協議",
+        "excerpt": "ドナルド・トランプ米大統領は5月14日、9年ぶりに中国・北京を訪問し、習近平国家主席と首脳会談を行い、中東情勢とイラン核問題を協議しました。",
+        "body": "ドナルド・トランプ米大統領は5月14日、中国・北京を訪問し、習近平中国国家主席と首脳会談を行いました。トランプ大統領の北京訪問は9年ぶりです。ホワイトハウスによると、両首脳は会談で中東情勢に関連し、イランの核問題について協議しました。今回の会談は、米中首脳による直接対話が行われた点で注目されます。公開された原文情報は、訪問の時期と場所、会談相手、主要議題が中東情勢とイラン核問題だったという事実に限られています。具体的な合意や後続措置の有無は、今後の追加発表で確認される事項です。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "特朗普时隔9年访问北京，与习近平会谈聚焦中东局势和伊朗核问题",
+        "excerpt": "美国总统唐纳德·特朗普5月14日时隔9年访问中国北京，与中国国家主席习近平举行峰会，讨论中东局势和伊朗核问题。",
+        "body": "美国总统唐纳德·特朗普于5月14日访问中国北京，并与中国国家主席习近平举行峰会。这是特朗普总统时隔9年再次访问北京。白宫表示，两位领导人在会谈中围绕中东局势讨论了伊朗核问题。此次会谈因美中领导人直接对话而受到关注。已公开的原文信息仅限于访问时间和地点、会谈对象，以及主要议题为中东局势和伊朗核问题这一事实。是否达成具体协议或采取后续措施，仍需通过进一步发布的信息确认。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Trump visita Pekín tras 9 años y habla con Xi sobre Medio Oriente e Irán",
+        "excerpt": "El presidente estadounidense Donald Trump visitó Pekín el 14 de mayo por primera vez en nueve años y se reunió con Xi Jinping para tratar Medio Oriente y el tema nuclear iraní.",
+        "body": "El presidente de Estados Unidos, Donald Trump, visitó Pekín, China, el 14 de mayo y mantuvo una cumbre con el presidente chino Xi Jinping. Fue la primera visita de Trump a Pekín en nueve años. Según la Casa Blanca, ambos líderes conversaron durante la reunión sobre la situación en Medio Oriente, incluida la cuestión nuclear de Irán. La cumbre destaca porque supuso un diálogo directo entre los líderes de Estados Unidos y China. La información original divulgada se limita a la fecha y el lugar de la visita, el interlocutor de la reunión y el tema principal, relacionado con Medio Oriente y el programa nuclear iraní. Cualquier acuerdo concreto o medida posterior deberá confirmarse mediante nuevos anuncios. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Trump visita Pequim após 9 anos e discute com Xi Oriente Médio e questão nuclear iraniana",
+        "excerpt": "O presidente dos EUA, Donald Trump, visitou Pequim em 14 de maio pela primeira vez em nove anos e se reuniu com Xi Jinping para tratar do Oriente Médio e do tema nuclear iraniano.",
+        "body": "O presidente dos Estados Unidos, Donald Trump, visitou Pequim, na China, em 14 de maio e realizou uma cúpula com o presidente chinês Xi Jinping. Foi a primeira visita de Trump a Pequim em nove anos. Segundo a Casa Branca, os dois líderes discutiram na reunião a situação no Oriente Médio, incluindo a questão nuclear do Irã. A cúpula chama atenção por ter marcado um diálogo direto entre os líderes dos Estados Unidos e da China. As informações originais divulgadas se limitam ao momento e ao local da visita, ao interlocutor da reunião e ao principal tema, relacionado ao Oriente Médio e ao programa nuclear iraniano. Qualquer acordo específico ou medida posterior deverá ser confirmado por novos anúncios. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Trump besucht Peking nach 9 Jahren und spricht mit Xi über Nahost und Irans Atomfrage",
+        "excerpt": "US-Präsident Donald Trump besuchte Peking am 14. Mai erstmals seit neun Jahren und traf Chinas Präsident Xi Jinping zu Gesprächen über Nahost und Irans Atomfrage.",
+        "body": "US-Präsident Donald Trump besuchte am 14. Mai Peking in China und hielt ein Gipfeltreffen mit Chinas Staatspräsident Xi Jinping ab. Es war Trumps erster Besuch in Peking seit neun Jahren. Nach Angaben des Weißen Hauses sprachen die beiden Staatschefs bei dem Treffen über die Lage im Nahen Osten, einschließlich der iranischen Atomfrage. Der Gipfel steht im Fokus, weil damit ein direkter Dialog zwischen den Staatschefs der USA und Chinas stattfand. Die veröffentlichten Ausgangsinformationen beschränken sich auf Zeitpunkt und Ort des Besuchs, den Gesprächspartner sowie die Hauptthemen Nahostlage und Irans Atomfrage. Ob konkrete Vereinbarungen oder Folgemaßnahmen erzielt wurden, muss durch weitere Mitteilungen bestätigt werden. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Trump à Pékin après 9 ans, sommet avec Xi sur le Moyen-Orient et le nucléaire iranien",
+        "excerpt": "Le président américain Donald Trump s’est rendu à Pékin le 14 mai pour la première fois en neuf ans et a rencontré Xi Jinping au sujet du Moyen-Orient et du nucléaire iranien.",
+        "body": "Le président américain Donald Trump s’est rendu à Pékin, en Chine, le 14 mai et a tenu un sommet avec le président chinois Xi Jinping. Il s’agissait de sa première visite à Pékin en neuf ans. Selon la Maison-Blanche, les deux dirigeants ont discuté de la situation au Moyen-Orient, notamment de la question nucléaire iranienne. Cette rencontre retient l’attention parce qu’elle a constitué un dialogue direct entre les dirigeants américain et chinois. Les informations originales rendues publiques se limitent à la date et au lieu de la visite, à l’interlocuteur de la réunion et au principal sujet abordé, à savoir le Moyen-Orient et le dossier nucléaire iranien. Tout accord précis ou mesure de suivi devra être confirmé par de nouvelles annonces. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "ترامب يزور بكين بعد 9 سنوات ويلتقي شي لبحث الشرق الأوسط والملف النووي الإيراني",
+        "excerpt": "زار الرئيس الأميركي دونالد ترامب بكين في 14 مايو للمرة الأولى منذ تسع سنوات، وعقد قمة مع الرئيس الصيني شي جين بينغ لبحث الشرق الأوسط والملف النووي الإيراني.",
+        "body": "زار الرئيس الأميركي دونالد ترامب العاصمة الصينية بكين في 14 مايو وعقد قمة مع الرئيس الصيني شي جين بينغ. وتعد هذه أول زيارة لترامب إلى بكين منذ تسع سنوات. وبحسب البيت الأبيض، ناقش الزعيمان خلال الاجتماع أوضاع الشرق الأوسط، بما في ذلك الملف النووي الإيراني. وتحظى القمة باهتمام لأنها مثلت حوارا مباشرا بين قيادتي الولايات المتحدة والصين. وتقتصر المعلومات الأصلية المنشورة على موعد الزيارة ومكانها، والطرف المقابل في المحادثات، والموضوع الرئيسي المتعلق بأوضاع الشرق الأوسط والملف النووي الإيراني. أما أي اتفاق محدد أو إجراءات لاحقة فسيحتاج إلى تأكيد عبر إعلانات إضافية. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "ट्रंप 9 साल बाद बीजिंग पहुंचे, शी से मध्य पूर्व और ईरान परमाणु मुद्दे पर वार्ता",
+        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 14 मई को नौ साल बाद चीन के बीजिंग का दौरा किया और शी जिनपिंग के साथ मध्य पूर्व व ईरान परमाणु मुद्दे पर शिखर वार्ता की।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 14 मई को चीन के बीजिंग का दौरा किया और चीनी राष्ट्रपति शी जिनपिंग के साथ शिखर वार्ता की। ट्रंप का बीजिंग दौरा नौ साल बाद हुआ। व्हाइट हाउस के अनुसार, दोनों नेताओं ने बैठक में मध्य पूर्व की स्थिति से जुड़े ईरान के परमाणु मुद्दे पर चर्चा की। यह बैठक इसलिए ध्यान खींचती है क्योंकि इसमें अमेरिका और चीन के नेताओं के बीच सीधा संवाद हुआ। प्रकाशित मूल जानकारी यात्रा की तारीख और स्थान, वार्ता के समकक्ष नेता, और मुख्य एजेंडा मध्य पूर्व की स्थिति व ईरान परमाणु मुद्दा होने तक सीमित है। किसी ठोस समझौते या आगे की कार्रवाई की पुष्टि अतिरिक्त घोषणाओं से ही होगी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Trump Kunjungi Beijing Setelah 9 Tahun, Bahas Timur Tengah dan Nuklir Iran dengan Xi",
+        "excerpt": "Presiden AS Donald Trump mengunjungi Beijing pada 14 Mei untuk pertama kalinya dalam sembilan tahun dan bertemu Xi Jinping membahas Timur Tengah serta isu nuklir Iran.",
+        "body": "Presiden Amerika Serikat Donald Trump mengunjungi Beijing, China, pada 14 Mei dan menggelar pertemuan puncak dengan Presiden China Xi Jinping. Kunjungan Trump ke Beijing ini merupakan yang pertama dalam sembilan tahun. Menurut Gedung Putih, kedua pemimpin membahas situasi Timur Tengah, termasuk isu nuklir Iran, dalam pertemuan tersebut. Pertemuan ini menjadi perhatian karena menandai dialog langsung antara pemimpin AS dan China. Informasi asli yang tersedia terbatas pada waktu dan tempat kunjungan, lawan bicara dalam pertemuan, serta agenda utama berupa situasi Timur Tengah dan isu nuklir Iran. Ada atau tidaknya kesepakatan konkret atau langkah lanjutan masih perlu dikonfirmasi melalui pengumuman tambahan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "879cd8e2ea39",
+    "slug": "규제에-선행된-시장-연구market-study가-빛을-발할-때-bkl-공정거래리포트-550901",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T22:23:48.372Z",
+    "updatedAt": "2026-05-14T22:23:48.372Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12047385",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12047385",
+    "titleFingerprint": "ba396ad1588a26aea7e58c9b8ae0f6a6468d11a7",
+    "dedupKeys": [
+      "879cd8e2ea3948931f33cb22c76402fb0f63805f",
+      "ba396ad1588a26aea7e58c9b8ae0f6a6468d11a7",
+      "ee033dff493c1f4cba4220a3f35ff08ec7331bd4"
+    ],
+    "imageUrl": "/images/articles/879cd8e2ea39.jpg",
+    "i18n": {
+      "ko": {
+        "title": "시장 연구가 규제보다 먼저 주목받는 이유, BKL 공정거래리포트 분석",
+        "excerpt": "강일 법무법인 태평양 변호사는 매일경제 BKL 공정거래리포트에서 규제에 앞선 시장 연구의 의미를 짚고, 영화 ‘비포선셋’의 재회 장면을 도입부로 활용했다.",
+        "body": "강일 법무법인 태평양 변호사는 매일경제의 BKL 공정거래리포트에서 규제에 선행되는 시장 연구, 즉 Market Study가 언제 빛을 발하는지를 다뤘다. 글은 리처드 링클레이터 감독의 2004년 영화 ‘비포선셋’에서 남자 주인공 제시가 파리 출판기념회에서 여자 주인공 셀린을 9년 만에 다시 만나는 장면으로 시작한다. 이 도입은 시간이 지난 뒤 다시 마주한 대상의 의미를 환기하며, 공정거래 분야에서 규제 이전의 시장 파악이 왜 중요한지로 논점을 연결한다. 구체적 제재보다 시장의 작동 방식과 경쟁 환경을 먼저 살피는 접근은 향후 정책 판단과 기업 대응의 기초가 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Why Market Studies Before Regulation Matter: BKL Fair Trade Report",
+        "excerpt": "Attorney Kang Il of Bae, Kim & Lee discussed in Maeil Business Newspaper’s BKL Fair Trade Report why market studies can matter before regulation, opening with a scene from Before Sunset.",
+        "body": "Attorney Kang Il of Bae, Kim & Lee addressed in Maeil Business Newspaper’s BKL Fair Trade Report when a market study conducted before regulation can prove valuable. The article opens with Richard Linklater’s 2004 film Before Sunset, in which Jesse reunites with Celine in Paris at a book event after nine years. That opening recalls the meaning of encountering something again after time has passed and connects it to the fair trade issue of understanding markets before imposing regulation. Looking first at how a market works and how competition is structured, rather than starting with specific sanctions, can provide a basis for later policy judgment and corporate response. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "規制に先立つ市場研究がなぜ重要か、BKL公正取引リポートが分析",
+        "excerpt": "法務法人太平洋の姜イル弁護士は、毎日経済のBKL公正取引リポートで、規制に先行する市場研究の意味を論じ、『ビフォア・サンセット』の再会場面を導入に用いた。",
+        "body": "法務法人太平洋の姜イル弁護士は、毎日経済のBKL公正取引リポートで、規制に先立つ市場研究、すなわちMarket Studyがどのような時に意味を持つのかを取り上げた。記事はリチャード・リンクレイター監督の2004年映画『ビフォア・サンセット』で、主人公ジェシーがパリの出版記念会でセリーヌと9年ぶりに再会する場面から始まる。この導入は、時間を経て再び向き合う対象の意味を想起させ、公正取引分野で規制前に市場を把握する重要性へ論点をつなげる。具体的な制裁より先に市場の作動方式と競争環境を見る姿勢は、今後の政策判断や企業対応の基礎になり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "市场研究为何应先于监管受到重视：BKL公平交易报告解读",
+        "excerpt": "韩国法务法人太平洋律师姜一在《每日经济》BKL公平交易报告中讨论了监管前市场研究的意义，并以电影《日落之前》的重逢场景作为开篇。",
+        "body": "韩国法务法人太平洋律师姜一在《每日经济》的BKL公平交易报告中，讨论了先于监管进行的市场研究，即Market Study，何时能够发挥价值。文章以理查德·林克莱特执导的2004年电影《日落之前》开篇：男主人公杰西在巴黎参加新书发布会时，与女主人公席琳时隔9年重逢。这个开头唤起人们对时间流逝后重新面对对象之意义的思考，并将论点连接到公平交易领域中监管前理解市场的重要性。相比先行采取具体制裁，先观察市场运行方式和竞争环境，可能成为今后政策判断与企业应对的基础。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Por qué el estudio de mercado previo a la regulación gana peso: informe BKL",
+        "excerpt": "El abogado Kang Il, de Bae, Kim & Lee, analizó en el BKL Fair Trade Report de Maeil Business Newspaper el valor del estudio de mercado antes de regular, con una apertura inspirada en Before Sunset.",
+        "body": "El abogado Kang Il, de Bae, Kim & Lee, abordó en el BKL Fair Trade Report de Maeil Business Newspaper cuándo puede cobrar valor un estudio de mercado, o Market Study, realizado antes de una regulación. El texto comienza con la película Before Sunset, dirigida en 2004 por Richard Linklater, en la que Jesse se reencuentra con Celine en París durante un acto editorial tras nueve años. Esa introducción evoca el sentido de volver a mirar algo después del paso del tiempo y enlaza con la importancia de comprender el mercado antes de regular en materia de competencia. Observar primero cómo funciona el mercado y cuál es el entorno competitivo, antes que partir de sanciones concretas, puede servir de base para futuras decisiones de política y respuestas empresariales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Por que o estudo de mercado antes da regulação importa, segundo relatório BKL",
+        "excerpt": "O advogado Kang Il, da Bae, Kim & Lee, tratou no BKL Fair Trade Report do Maeil Business Newspaper do valor do estudo de mercado antes da regulação, abrindo o texto com Before Sunset.",
+        "body": "O advogado Kang Il, da Bae, Kim & Lee, discutiu no BKL Fair Trade Report do Maeil Business Newspaper quando um estudo de mercado, ou Market Study, realizado antes da regulação pode ganhar relevância. O artigo começa com o filme Before Sunset, dirigido por Richard Linklater em 2004, no qual Jesse reencontra Celine em Paris, durante um evento de lançamento de livro, após nove anos. Essa abertura lembra o significado de voltar a encarar algo depois da passagem do tempo e conecta a ideia à importância de compreender o mercado antes de regular no campo da concorrência. Examinar primeiro o funcionamento do mercado e o ambiente competitivo, em vez de partir de sanções específicas, pode formar a base para decisões de política e respostas empresariais futuras. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Warum Marktstudien vor Regulierung zählen: BKL Fair Trade Report",
+        "excerpt": "Kang Il, Anwalt bei Bae, Kim & Lee, erläuterte im BKL Fair Trade Report der Maeil Business Newspaper die Bedeutung von Marktstudien vor Regulierung und eröffnete mit einer Szene aus Before Sunset.",
+        "body": "Kang Il, Anwalt bei Bae, Kim & Lee, behandelte im BKL Fair Trade Report der Maeil Business Newspaper, wann eine vor der Regulierung durchgeführte Marktstudie, also eine Market Study, ihren Wert zeigt. Der Beitrag beginnt mit Richard Linklaters Film Before Sunset aus dem Jahr 2004, in dem Jesse Celine bei einer Buchveranstaltung in Paris nach neun Jahren wiedertrifft. Diese Einleitung ruft die Bedeutung einer erneuten Begegnung nach vergangener Zeit auf und verbindet sie mit der Frage, warum im Wettbewerbsrecht das Verständnis eines Marktes vor regulatorischen Eingriffen wichtig ist. Zuerst die Funktionsweise des Marktes und das Wettbewerbsumfeld zu betrachten, statt mit konkreten Sanktionen zu beginnen, kann Grundlage späterer politischer Entscheidungen und unternehmerischer Reaktionen sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Pourquoi l’étude de marché avant la régulation compte, selon le rapport BKL",
+        "excerpt": "L’avocat Kang Il, du cabinet Bae, Kim & Lee, a expliqué dans le BKL Fair Trade Report du Maeil Business Newspaper l’intérêt des études de marché avant régulation, avec une ouverture tirée de Before Sunset.",
+        "body": "L’avocat Kang Il, du cabinet Bae, Kim & Lee, a traité dans le BKL Fair Trade Report du Maeil Business Newspaper du moment où une étude de marché, ou Market Study, menée avant une régulation peut révéler sa valeur. L’article s’ouvre sur le film Before Sunset de Richard Linklater, sorti en 2004, où Jesse retrouve Celine à Paris lors d’une rencontre autour de son livre après neuf ans. Cette entrée rappelle le sens d’un nouvel examen après le passage du temps et relie cette idée à l’importance de comprendre le marché avant de réglementer dans le domaine de la concurrence. Observer d’abord le fonctionnement du marché et l’environnement concurrentiel, plutôt que de partir de sanctions précises, peut servir de base aux décisions publiques et aux réponses des entreprises. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لماذا تبرز دراسات السوق قبل التنظيم؟ قراءة في تقرير BKL للمنافسة",
+        "excerpt": "تناول المحامي كانغ إيل من شركة Bae, Kim & Lee في تقرير BKL للمنافسة بصحيفة Maeil Business Newspaper أهمية دراسة السوق قبل التنظيم، مستهلا بمشهد من فيلم Before Sunset.",
+        "body": "تناول المحامي كانغ إيل من شركة Bae, Kim & Lee في تقرير BKL للمنافسة بصحيفة Maeil Business Newspaper متى يمكن أن تبرز قيمة دراسة السوق، أو Market Study، التي تسبق التنظيم. يبدأ المقال بفيلم Before Sunset للمخرج ريتشارد لينكليتر الصادر عام 2004، حيث يلتقي جيسي بسيلين مجددا في باريس خلال حفل نشر بعد تسع سنوات. تستحضر هذه المقدمة معنى إعادة النظر في شيء بعد مرور الوقت، وتربط ذلك بأهمية فهم السوق قبل فرض التنظيم في مجال المنافسة. فالنظر أولا في طريقة عمل السوق وبيئة المنافسة، بدلا من البدء بعقوبات محددة، يمكن أن يشكل أساسا لاحقا للحكم السياسي واستجابة الشركات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "नियमन से पहले बाजार अध्ययन क्यों अहम है: BKL फेयर ट्रेड रिपोर्ट",
+        "excerpt": "Bae, Kim & Lee के वकील कांग इल ने Maeil Business Newspaper की BKL Fair Trade Report में नियमन से पहले बाजार अध्ययन के महत्व पर चर्चा की और शुरुआत Before Sunset के दृश्य से की।",
+        "body": "Bae, Kim & Lee के वकील कांग इल ने Maeil Business Newspaper की BKL Fair Trade Report में बताया कि नियमन से पहले किया गया बाजार अध्ययन, यानी Market Study, कब अपनी उपयोगिता दिखा सकता है। लेख की शुरुआत रिचर्ड लिंकलेटर की 2004 की फिल्म Before Sunset से होती है, जिसमें जेसी पेरिस में पुस्तक कार्यक्रम के दौरान नौ साल बाद सेलिन से फिर मिलता है। यह शुरुआत समय बीतने के बाद किसी चीज को दोबारा देखने के अर्थ को याद दिलाती है और इसे निष्पक्ष व्यापार के क्षेत्र में नियमन से पहले बाजार को समझने की जरूरत से जोड़ती है। किसी ठोस दंड से पहले बाजार के कामकाज और प्रतिस्पर्धी माहौल को देखना आगे की नीति-निर्णय प्रक्रिया और कंपनियों की प्रतिक्रिया का आधार बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Mengapa Studi Pasar Sebelum Regulasi Penting: Laporan Persaingan BKL",
+        "excerpt": "Pengacara Kang Il dari Bae, Kim & Lee membahas dalam BKL Fair Trade Report di Maeil Business Newspaper arti studi pasar sebelum regulasi, dengan pembuka dari adegan film Before Sunset.",
+        "body": "Pengacara Kang Il dari Bae, Kim & Lee membahas dalam BKL Fair Trade Report di Maeil Business Newspaper kapan studi pasar, atau Market Study, yang dilakukan sebelum regulasi dapat menunjukkan nilainya. Tulisan itu dibuka dengan film Before Sunset karya Richard Linklater pada 2004, saat Jesse bertemu kembali dengan Celine di Paris dalam acara peluncuran buku setelah sembilan tahun. Pembuka tersebut mengingatkan makna melihat kembali sesuatu setelah waktu berlalu dan menghubungkannya dengan pentingnya memahami pasar sebelum regulasi dalam bidang persaingan usaha. Melihat terlebih dahulu cara pasar bekerja dan lingkungan persaingannya, bukan memulai dari sanksi tertentu, dapat menjadi dasar bagi penilaian kebijakan dan respons perusahaan ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "39c7740497d6",
+    "slug": "3만-인파-몰리는데-마라톤-강행서울시-무관용형사고발-강력-경고-783208",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T22:22:32.596Z",
+    "updatedAt": "2026-05-14T22:22:32.597Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12048656",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12048656",
+    "titleFingerprint": "67e92a983b7f6a2fdaaaa984ae7e879c5ed40c5e",
+    "dedupKeys": [
+      "39c7740497d6ef523a04d4018a98d307b8429203",
+      "67e92a983b7f6a2fdaaaa984ae7e879c5ed40c5e",
+      "69f87c737aaa2e83fb0a1799838b73e51099d8d3"
+    ],
+    "imageUrl": "/images/articles/39c7740497d6.png",
+    "i18n": {
+      "ko": {
+        "title": "서울한강울트라마라톤 불허 재확인…서울시 “강행 땐 형사고발”",
+        "excerpt": "서울시는 오는 16일 뚝섬한강공원 일대에서 예정된 서울한강울트라마라톤에 대해 3만 인파 안전 우려를 이유로 불허 입장을 재확인하고 강행 시 무관용 대응을 경고했다.",
+        "body": "서울시가 오는 16일 뚝섬한강공원 일대에서 열릴 예정인 ‘서울한강울트라마라톤’에 대해 심각한 안전 우려를 이유로 불허 입장을 거듭 밝혔다. 이번 행사는 3만 명 규모의 인파가 몰릴 수 있다는 점에서 안전관리 문제가 핵심 쟁점으로 떠올랐다. 주최 측이 행사 강행을 예고하자 서울시는 즉각 강경 대응 방침을 내놨다. 시는 불허 입장에도 행사가 진행될 경우 무관용 원칙을 적용하고 형사고발 등 조치를 검토하겠다고 경고했다. 행사 개최 여부를 둘러싼 긴장이 커지는 가운데, 서울시는 시민 안전을 최우선 기준으로 삼겠다는 입장이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Blocks Hangang Ultra Marathon Again, Warns of Criminal Complaint",
+        "excerpt": "Seoul City reaffirmed its refusal to allow the Seoul Hangang Ultra Marathon planned for the 16th near Ttukseom Hangang Park, citing safety concerns over a crowd of 30,000.",
+        "body": "Seoul City has again stated that it will not permit the Seoul Hangang Ultra Marathon scheduled for the 16th around Ttukseom Hangang Park, citing serious safety concerns. The main issue is safety management, as the event could draw a crowd of about 30,000 people. After organizers signaled they would push ahead with the race, the city announced a firm response. Seoul warned that if the event proceeds despite its refusal, it will apply a zero-tolerance stance and consider measures including a criminal complaint. As tension grows over whether the event will be held, the city says public safety remains its top priority. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル漢江ウルトラマラソン不許可を再確認、市が刑事告発警告",
+        "excerpt": "ソウル市は16日にトゥクソム漢江公園一帯で予定されたソウル漢江ウルトラマラソンについて、3万人規模の人出による安全懸念を理由に不許可方針を再確認した。",
+        "body": "ソウル市は、16日にトゥクソム漢江公園一帯で開催予定の「ソウル漢江ウルトラマラソン」について、深刻な安全上の懸念を理由に不許可の立場を改めて示した。今回の行事は約3万人の人出が見込まれる可能性があり、安全管理が最大の争点となっている。主催者側が開催強行を予告すると、市は直ちに強硬な対応方針を打ち出した。市は、不許可にもかかわらず行事が行われた場合、無寛容の原則を適用し、刑事告発を含む措置を検討すると警告した。開催可否をめぐる緊張が高まる中、ソウル市は市民の安全を最優先にする姿勢だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔汉江超级马拉松再遭叫停，市政府警告将刑事举报",
+        "excerpt": "首尔市重申不允许16日在纛岛汉江公园一带举行首尔汉江超级马拉松，理由是约3万人聚集可能带来严重安全隐患。",
+        "body": "首尔市再次表示，不允许原定于16日在纛岛汉江公园一带举行的“首尔汉江超级马拉松”，理由是存在严重安全隐患。此次活动可能吸引约3万人聚集，因此安全管理成为核心争议。主办方预告将强行举办后，首尔市立即提出强硬应对方针。市政府警告称，如果在不获许可的情况下继续举办，将采取零容忍原则，并考虑包括刑事举报在内的措施。随着活动是否举行的紧张局势升温，首尔市表示将把市民安全作为最高标准。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Seúl veta otra vez la ultramaratón del Hangang y advierte denuncia penal",
+        "excerpt": "El Gobierno de Seúl reafirmó su negativa a permitir la Seoul Hangang Ultra Marathon prevista para el día 16 en Ttukseom Hangang Park por riesgos de seguridad ante 30.000 personas.",
+        "body": "El Gobierno de Seúl reiteró que no autorizará la Seoul Hangang Ultra Marathon, prevista para el día 16 en la zona de Ttukseom Hangang Park, por graves preocupaciones de seguridad. El punto central es la gestión del riesgo, ya que el evento podría atraer a unas 30.000 personas. Después de que los organizadores avisaran que seguirían adelante, la ciudad anunció una respuesta firme. Seúl advirtió que, si el evento se celebra pese a la negativa, aplicará una política de tolerancia cero y considerará medidas como una denuncia penal. En medio de la tensión sobre la celebración, la ciudad afirma que la seguridad ciudadana será su prioridad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Seul barra ultramaratona do Hangang e alerta para queixa criminal",
+        "excerpt": "A Prefeitura de Seul reafirmou que não permitirá a Seoul Hangang Ultra Marathon prevista para o dia 16 no Ttukseom Hangang Park, citando riscos de segurança com 30 mil pessoas.",
+        "body": "A Prefeitura de Seul voltou a afirmar que não permitirá a Seoul Hangang Ultra Marathon, programada para o dia 16 na região do Ttukseom Hangang Park, devido a sérias preocupações de segurança. O principal ponto é a gestão do evento, que pode reunir cerca de 30 mil pessoas. Depois que os organizadores sinalizaram que pretendem seguir adiante, a cidade anunciou uma resposta dura. Seul alertou que, se o evento ocorrer apesar da negativa, aplicará uma política de tolerância zero e avaliará medidas como queixa criminal. Com o aumento da tensão sobre a realização da prova, a prefeitura diz que a segurança dos cidadãos será sua prioridade. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seoul untersagt Hangang-Ultramarathon erneut und droht mit Strafanzeige",
+        "excerpt": "Die Stadt Seoul bekräftigte ihr Verbot des Seoul Hangang Ultra Marathon am 16. rund um den Ttukseom-Hangang-Park wegen Sicherheitsbedenken bei bis zu 30.000 Menschen.",
+        "body": "Die Stadt Seoul hat erneut erklärt, den für den 16. rund um den Ttukseom-Hangang-Park geplanten Seoul Hangang Ultra Marathon wegen ernsthafter Sicherheitsbedenken nicht zuzulassen. Im Mittelpunkt steht das Sicherheitsmanagement, da die Veranstaltung rund 30.000 Menschen anziehen könnte. Nachdem die Organisatoren angekündigt hatten, das Rennen dennoch durchzuführen, kündigte die Stadt eine harte Reaktion an. Seoul warnte, bei einer Durchführung trotz Verbot eine Null-Toleranz-Linie anzuwenden und Maßnahmen einschließlich einer Strafanzeige zu prüfen. Während die Spannung um die Austragung zunimmt, betont die Stadt, dass die Sicherheit der Bürger oberste Priorität habe. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Séoul bloque encore l’ultramarathon du Hangang et menace de poursuites",
+        "excerpt": "La ville de Séoul a réaffirmé son refus d’autoriser le Seoul Hangang Ultra Marathon prévu le 16 près du parc Ttukseom Hangang, invoquant des risques pour 30.000 personnes.",
+        "body": "La ville de Séoul a de nouveau déclaré qu’elle n’autoriserait pas le Seoul Hangang Ultra Marathon prévu le 16 dans le secteur du parc Ttukseom Hangang, en raison de graves préoccupations de sécurité. Le principal enjeu porte sur la gestion des risques, l’événement pouvant attirer environ 30.000 personnes. Après l’annonce des organisateurs indiquant leur intention de maintenir la course, la ville a présenté une ligne de réponse ferme. Séoul a averti que si l’événement se tenait malgré son refus, elle appliquerait une politique de tolérance zéro et envisagerait des mesures incluant une plainte pénale. Alors que la tension monte autour de la tenue de l’événement, la ville affirme placer la sécurité des citoyens au premier rang. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سيول ترفض مجددا ماراثون هانغانغ وتحذر من بلاغ جنائي عند المضي به",
+        "excerpt": "أكدت بلدية سيول رفضها إقامة ماراثون سيول هانغانغ ألترا في 16 قرب متنزه توكسوم هانغانغ، بسبب مخاوف سلامة مرتبطة بحشد قد يبلغ 30 ألف شخص.",
+        "body": "أعلنت بلدية سيول مجددا أنها لن تسمح بإقامة «ماراثون سيول هانغانغ ألترا» المقرر في 16 في محيط متنزه توكسوم هانغانغ، مشيرة إلى مخاوف خطيرة تتعلق بالسلامة. وتتمحور القضية حول إدارة السلامة، إذ قد يجذب الحدث نحو 30 ألف شخص. وبعد أن أشار المنظمون إلى نيتهم المضي في الفعالية، أعلنت المدينة موقفا صارما في الرد. وحذرت سيول من أنها ستطبق مبدأ عدم التسامح إذا أقيم الحدث رغم رفضها، وستدرس إجراءات تشمل تقديم بلاغ جنائي. ومع تصاعد التوتر بشأن إقامة الفعالية، تؤكد البلدية أن سلامة المواطنين هي المعيار الأول لديها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल ने हांगांग अल्ट्रा मैराथन रोकी, जबरन आयोजन पर आपराधिक शिकायत की चेतावनी",
+        "excerpt": "सियोल शहर ने 16 तारीख को त्तुक्सोम हांगांग पार्क क्षेत्र में प्रस्तावित Seoul Hangang Ultra Marathon को 30 हजार लोगों की भीड़ से जुड़े सुरक्षा जोखिमों के कारण फिर अस्वीकार किया।",
+        "body": "सियोल शहर ने 16 तारीख को त्तुक्सोम हांगांग पार्क क्षेत्र में प्रस्तावित ‘Seoul Hangang Ultra Marathon’ को गंभीर सुरक्षा चिंताओं के कारण अनुमति नहीं देने की अपनी स्थिति फिर दोहराई। इस आयोजन में लगभग 30 हजार लोगों की भीड़ जुट सकती है, इसलिए सुरक्षा प्रबंधन मुख्य मुद्दा बन गया है। आयोजकों द्वारा कार्यक्रम आगे बढ़ाने का संकेत दिए जाने के बाद शहर ने कड़ा रुख घोषित किया। सियोल ने चेतावनी दी कि अनुमति न होने के बावजूद आयोजन हुआ तो शून्य-सहिष्णुता सिद्धांत लागू किया जाएगा और आपराधिक शिकायत सहित कदमों पर विचार होगा। आयोजन को लेकर तनाव बढ़ने के बीच शहर का कहना है कि नागरिक सुरक्षा उसकी सर्वोच्च प्राथमिकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Seoul Tolak Lagi Hangang Ultra Marathon, Ancam Laporan Pidana",
+        "excerpt": "Pemerintah Kota Seoul menegaskan penolakan Seoul Hangang Ultra Marathon yang dijadwalkan pada 16 di sekitar Ttukseom Hangang Park karena risiko keselamatan dari kerumunan 30.000 orang.",
+        "body": "Pemerintah Kota Seoul kembali menyatakan tidak akan mengizinkan Seoul Hangang Ultra Marathon yang dijadwalkan pada 16 di sekitar Ttukseom Hangang Park karena kekhawatiran keselamatan yang serius. Isu utama adalah pengelolaan keamanan, sebab acara tersebut dapat menarik sekitar 30.000 orang. Setelah pihak penyelenggara memberi sinyal akan tetap melanjutkan acara, pemerintah kota mengumumkan respons tegas. Seoul memperingatkan bahwa jika acara digelar meski tidak diizinkan, prinsip tanpa toleransi akan diterapkan dan langkah termasuk laporan pidana akan dipertimbangkan. Di tengah meningkatnya ketegangan soal jadi tidaknya acara, Seoul menyatakan keselamatan warga menjadi prioritas utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4fc8e165fd44",
     "slug": "불륜-증거-담긴-휴대전화-몰래-촬영했는데대법-민사-증거로-인정-528972",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Oh Se-hoon Kembali Ajak Jung Won-oh Debat Dua Kandidat, Termasuk di Acara Kim Ou-joon",
         "excerpt": "Kandidat Wali Kota Seoul dari People Power Party, Oh Se-hoon, pada 14 Mei kembali mengajak Jung Won-oh dari Partai Demokrat berdebat dalam format apa pun.",
         "body": "Kandidat Wali Kota Seoul dari People Power Party, Oh Se-hoon, pada 14 Mei kembali mengusulkan debat dua kandidat kepada calon dari Partai Demokrat, Jung Won-oh. Oh mengatakan akan menerima “bentuk apa pun” dari debat dan menyatakan bahwa debat juga boleh digelar di program Kim Ou-joon dengan Ketua Partai Demokrat Jung Chung-rae sebagai moderator. Pernyataan ini muncul saat format dan kepastian debat antarkandidat Wali Kota Seoul menjadi isu dalam kampanye. Dengan menyatakan tidak membatasi tempat maupun cara pelaksanaan, Oh memberi tekanan agar Jung merespons. Jika kedua pihak menyepakati jadwal dan format, pengujian isu-isu pemilu diperkirakan akan makin intensif. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "802c86809057",
-    "slug": "50년-동안-파업-한-번-없었다lx판토스-노사협력대상-수상-676835",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T08:16:29.350Z",
-    "updatedAt": "2026-05-14T08:16:29.350Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047739",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047739",
-    "titleFingerprint": "af164d3554f1acea09c24bfa1a6120f531c29f5c",
-    "dedupKeys": [
-      "802c868090570ae98552db8b3abf0e07dc4fae2a",
-      "af164d3554f1acea09c24bfa1a6120f531c29f5c",
-      "74d678d8895bcaf738c1fc6de56481d720dd6c89"
-    ],
-    "imageUrl": "/images/articles/802c86809057.png",
-    "i18n": {
-      "ko": {
-        "title": "LX판토스, 50년 무파업 노사협력으로 노사협력대상 수상",
-        "excerpt": "LX판토스가 1977년 창립 이후 50년간 파업 없는 노사관계를 이어온 성과를 인정받아 노사협력대상을 수상했다.",
-        "body": "LX판토스가 1977년 창립 이후 약 50년 동안 파업 없는 노사관계를 유지한 공로로 노사협력대상을 수상했다. 산업계 전반에서 노사 갈등이 심화되는 가운데, LX판토스는 상생과 협력을 바탕으로 한 노경문화의 모범 사례로 평가받았다. 회사는 주니어보드 등 MZ세대와의 소통 채널을 운영하며 현장 의견을 듣고 갈등을 사전에 예방해왔다. 이용호 대표는 선진 노경문화를 지속해 나가겠다는 뜻을 밝혔다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LX Pantos wins labor-management award for 50 years without a strike",
-        "excerpt": "LX Pantos received a labor-management cooperation award after maintaining strike-free labor relations since its founding in 1977.",
-        "body": "LX Pantos has received a labor-management cooperation award in recognition of maintaining labor relations without a strike for about 50 years since its founding in 1977. At a time when labor-management conflicts are deepening across industry, LX Pantos was cited as a model case of coexistence and cooperation. The company has operated communication channels with younger employees, including a junior board, to hear workplace opinions and prevent conflicts in advance. CEO Lee Yong-ho said the company will continue to uphold an advanced labor-management culture. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LX Pantos、50年無ストの労使協力で労使協力大賞を受賞",
-        "excerpt": "LX Pantosは1977年の創立以来、約50年間ストライキのない労使関係を維持した実績が認められ、労使協力大賞を受賞した。",
-        "body": "LX Pantosは、1977年の創立以来約50年間、ストライキのない労使関係を維持してきた功績により、労使協力大賞を受賞した。産業界全体で労使対立が深まる中、同社は共生と協力に基づく労使文化の模範事例と評価された。会社はジュニアボードなどMZ世代とのコミュニケーションチャネルを運営し、現場の意見を聞きながら対立を事前に防いできた。李龍鎬代表は、先進的な労使文化を継続していく考えを示した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LX Pantos凭50年无罢工劳资合作获劳资合作大奖",
-        "excerpt": "LX Pantos自1977年成立以来维持约50年无罢工劳资关系，其成果获得认可并获颁劳资合作大奖。",
-        "body": "LX Pantos因自1977年成立以来约50年保持无罢工劳资关系，获得劳资合作大奖。在产业界劳资矛盾加深的背景下，LX Pantos被评价为以共生与合作为基础的劳资文化典范。公司通过青年董事会等与MZ世代沟通的渠道，听取现场意见，并提前预防矛盾。代表李容镐表示，将继续保持先进的劳资文化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LX Pantos gana premio laboral por 50 años sin huelgas",
-        "excerpt": "LX Pantos fue premiada por mantener relaciones laborales sin huelgas desde su fundación en 1977, en un contexto de mayores conflictos industriales.",
-        "body": "LX Pantos recibió un premio de cooperación laboral por mantener relaciones entre empresa y trabajadores sin huelgas durante unos 50 años desde su fundación en 1977. En medio de un aumento de los conflictos laborales en la industria, la compañía fue reconocida como un ejemplo de cultura basada en convivencia y cooperación. LX Pantos ha operado canales de comunicación con empleados jóvenes, incluido un junior board, para escuchar opiniones del lugar de trabajo y prevenir conflictos. El CEO Lee Yong-ho afirmó que la empresa seguirá sosteniendo una cultura laboral avanzada. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LX Pantos ganha prêmio por 50 anos de cooperação sem greves",
-        "excerpt": "A LX Pantos recebeu um prêmio de cooperação trabalhista por manter relações sem greves desde sua fundação em 1977.",
-        "body": "A LX Pantos recebeu um prêmio de cooperação entre empresa e trabalhadores por manter relações sem greves por cerca de 50 anos desde sua fundação em 1977. Em um momento de intensificação dos conflitos trabalhistas na indústria, a empresa foi reconhecida como exemplo de convivência e cooperação. A LX Pantos opera canais de comunicação com funcionários mais jovens, incluindo um junior board, para ouvir opiniões do ambiente de trabalho e prevenir conflitos. O CEO Lee Yong-ho afirmou que a empresa continuará mantendo uma cultura trabalhista avançada. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LX Pantos erhält Preis für 50 Jahre ohne Streik",
-        "excerpt": "LX Pantos wurde für rund 50 Jahre streikfreie Arbeitsbeziehungen seit der Gründung 1977 mit einem Preis für Zusammenarbeit ausgezeichnet.",
-        "body": "LX Pantos hat einen Preis für Zusammenarbeit zwischen Unternehmen und Beschäftigten erhalten, weil das Unternehmen seit seiner Gründung 1977 rund 50 Jahre ohne Streik geblieben ist. In einer Zeit zunehmender Arbeitskonflikte in der Industrie gilt LX Pantos als Beispiel für eine Kultur der Koexistenz und Kooperation. Das Unternehmen betreibt Kommunikationskanäle mit jüngeren Beschäftigten, darunter ein Junior Board, um Stimmen aus der Praxis aufzunehmen und Konflikte frühzeitig zu verhindern. CEO Lee Yong-ho erklärte, das Unternehmen werde seine fortschrittliche Arbeitskultur fortsetzen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LX Pantos primée pour 50 ans de relations sociales sans grève",
-        "excerpt": "LX Pantos a reçu un prix de coopération sociale après avoir maintenu des relations sans grève depuis sa fondation en 1977.",
-        "body": "LX Pantos a reçu un prix de coopération entre direction et salariés pour avoir maintenu des relations sociales sans grève pendant environ 50 ans depuis sa fondation en 1977. Alors que les conflits sociaux s’intensifient dans l’industrie, l’entreprise est citée comme un exemple de coexistence et de coopération. LX Pantos a mis en place des canaux de dialogue avec les jeunes salariés, dont un junior board, afin d’écouter les avis du terrain et de prévenir les conflits. Le PDG Lee Yong-ho a déclaré que l’entreprise poursuivrait cette culture sociale avancée. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "LX Pantos تفوز بجائزة تعاون عمالي بعد 50 عاما بلا إضرابات",
-        "excerpt": "حصلت LX Pantos على جائزة التعاون بين الإدارة والعمال بعد حفاظها على علاقات بلا إضرابات منذ تأسيسها عام 1977.",
-        "body": "حصلت LX Pantos على جائزة التعاون بين الإدارة والعمال تقديرا لحفاظها على علاقات عمل بلا إضرابات لنحو 50 عاما منذ تأسيسها في 1977. وفي ظل تصاعد النزاعات العمالية في القطاع الصناعي، عُدت الشركة نموذجا لثقافة تقوم على التعايش والتعاون. وشغلت الشركة قنوات تواصل مع الموظفين الشباب، من بينها مجلس جونيور، للاستماع إلى آراء مواقع العمل ومنع النزاعات مسبقا. وقال الرئيس التنفيذي لي يونغ هو إن الشركة ستواصل ترسيخ ثقافة متقدمة للعلاقات العمالية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LX Pantos को 50 साल बिना हड़ताल श्रम सहयोग के लिए पुरस्कार",
-        "excerpt": "LX Pantos को 1977 में स्थापना के बाद से बिना हड़ताल श्रम संबंध बनाए रखने की उपलब्धि पर श्रम-प्रबंधन सहयोग पुरस्कार मिला।",
-        "body": "LX Pantos को 1977 में स्थापना के बाद से लगभग 50 वर्षों तक बिना हड़ताल श्रम संबंध बनाए रखने के लिए श्रम-प्रबंधन सहयोग पुरस्कार मिला है। उद्योग जगत में श्रम-प्रबंधन विवाद गहराने के बीच कंपनी को सहअस्तित्व और सहयोग पर आधारित श्रम संस्कृति का उदाहरण माना गया। कंपनी ने जूनियर बोर्ड सहित युवा कर्मचारियों के साथ संवाद चैनल चलाए, कार्यस्थल की राय सुनी और विवादों को पहले से रोकने का प्रयास किया। सीईओ Lee Yong-ho ने कहा कि कंपनी उन्नत श्रम-प्रबंधन संस्कृति को जारी रखेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LX Pantos raih penghargaan berkat 50 tahun tanpa mogok",
-        "excerpt": "LX Pantos mendapat penghargaan kerja sama ketenagakerjaan setelah mempertahankan hubungan tanpa mogok sejak berdiri pada 1977.",
-        "body": "LX Pantos menerima penghargaan kerja sama ketenagakerjaan karena mempertahankan hubungan perusahaan dan pekerja tanpa mogok selama sekitar 50 tahun sejak berdiri pada 1977. Di tengah meningkatnya konflik ketenagakerjaan di kalangan industri, perusahaan ini dinilai sebagai contoh budaya yang berbasis koeksistensi dan kerja sama. LX Pantos menjalankan kanal komunikasi dengan karyawan muda, termasuk junior board, untuk mendengar pendapat di lapangan dan mencegah konflik sejak dini. CEO Lee Yong-ho menyatakan perusahaan akan terus menjaga budaya ketenagakerjaan yang maju. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "40b3d1b72e44",
-    "slug": "단독-李대통령-부처별-실국장에-비공개-업무보고-받는다-592324",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T08:15:36.769Z",
-    "updatedAt": "2026-05-14T08:15:36.769Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12047738",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12047738",
-    "titleFingerprint": "af6af0131fffc7f4ee3b8fdb659d5ed6c47cee93",
-    "dedupKeys": [
-      "40b3d1b72e445bc2880c7883d8ecbf9c9ec35235",
-      "af6af0131fffc7f4ee3b8fdb659d5ed6c47cee93",
-      "ddaed39583157388bbd704d33f88d6bba569b9de"
-    ],
-    "imageUrl": "/images/articles/40b3d1b72e44.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이재명 대통령, 장·차관 빼고 부처 실·국장 비공개 업무보고 받는다",
-        "excerpt": "이재명 대통령이 이르면 이달 말 문체부를 시작으로 부처별 실장·국장급 간부를 청와대로 불러 장·차관을 배제한 비공개 업무보고와 실무형 토의에 나설 것으로 알려졌다.",
-        "body": "이재명 대통령이 이르면 이달 말 문화체육관광부를 시작으로 부처별 실장·국장급 간부들을 청와대로 불러 비공개 업무보고를 받을 것으로 알려졌다. 이번 보고는 장·차관을 배제한 채 실무 간부들과 직접 토의하는 방식으로 추진되는 것으로 전해졌다. 원문에 따르면 대통령은 부처 상황을 간부급에게 직접 듣고, 가공되지 않은 정책 아이디어를 청취하려는 의도를 가진 것으로 해석된다. 통상적인 장·차관 중심 보고와 달리 실무 라인의 의견을 바로 확인하는 형식이라는 점에서 향후 부처별 정책 논의 방식에도 영향을 줄 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "President Lee to Receive Private Ministry Briefings From Senior Working Officials",
-        "excerpt": "President Lee Jae-myung is reportedly set to begin private briefings as early as late this month, starting with the Culture Ministry, meeting bureau-level officials without ministers or vice ministers present.",
-        "body": "President Lee Jae-myung is reportedly preparing to invite director-general and bureau-level officials from each ministry to Cheong Wa Dae for private work briefings, beginning as early as late this month with the Ministry of Culture, Sports and Tourism. The sessions are expected to exclude ministers and vice ministers and instead take the form of practical discussions with senior working-level officials. According to the original report, the aim is interpreted as hearing ministry conditions directly from executive-level officials and listening to unfiltered policy ideas. Unlike ordinary briefings centered on ministers and vice ministers, the format may influence how future policy discussions are conducted within ministries. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "李在明大統領、閣僚抜きで省庁幹部から非公開業務報告へ",
-        "excerpt": "李在明大統領は早ければ今月末、文化体育観光部を皮切りに、省庁の室長・局長級幹部を青瓦台に招き、長官・次官を除いた非公開業務報告と実務型討議を行う見通しだ。",
-        "body": "李在明大統領は、早ければ今月末に文化体育観光部を皮切りとして、省庁別の室長・局長級幹部を青瓦台に招き、非公開の業務報告を受けると伝えられている。今回の報告は、長官・次官を除き、実務幹部と直接討議する形で進められる見通しだ。原文によると、大統領には省庁の状況を幹部級から直接聞き、加工されていない政策アイデアを聴取する意図があると解釈される。通常の長官・次官中心の報告とは異なり、実務ラインの意見を直接確認する形式であるため、今後の省庁別政策協議の進め方にも影響を与える可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "李在明总统拟绕开部长副部长，听取各部门司局长闭门汇报",
-        "excerpt": "据悉，李在明总统最快将于本月底从文化体育观光部开始，邀请各部门室长、局长级干部到青瓦台，在部长和副部长不参加的情况下进行闭门业务汇报和实务讨论。",
-        "body": "据报道，李在明总统最快将于本月底以文化体育观光部为起点，邀请各部门室长、局长级干部到青瓦台，听取闭门业务汇报。此次汇报据称将排除部长和副部长，以同实务干部直接讨论的方式推进。根据原文，这一安排被解读为总统希望直接听取干部层面对部门情况的说明，并了解未经加工的政策想法。与通常以部长、副部长为中心的汇报不同，这种形式可以直接确认实务一线意见，因此可能影响今后各部门政策讨论的方式。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lee recibirá informes privados de altos funcionarios sin ministros presentes",
-        "excerpt": "El presidente Lee Jae-myung prevé iniciar, quizá a finales de este mes y desde el Ministerio de Cultura, reuniones privadas con directores generales de ministerios, sin ministros ni viceministros.",
-        "body": "El presidente Lee Jae-myung planea convocar a Cheong Wa Dae a funcionarios de nivel de director general y jefe de oficina de cada ministerio para recibir informes privados, comenzando posiblemente a finales de este mes por el Ministerio de Cultura, Deportes y Turismo. Según se informó, las reuniones excluirán a ministros y viceministros y se desarrollarán como debates prácticos con mandos administrativos. De acuerdo con el texto original, la intención se interpreta como escuchar directamente a los cuadros sobre la situación de cada ministerio y recoger ideas de política sin filtrar. A diferencia de los informes habituales centrados en ministros y viceministros, este formato podría influir en la forma en que se discutan futuras políticas ministeriales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lee receberá informes privados de altos dirigentes sem ministros presentes",
-        "excerpt": "O presidente Lee Jae-myung deve iniciar, possivelmente no fim deste mês e pelo Ministério da Cultura, reuniões privadas com diretores e chefes de gabinete de ministérios, sem ministros nem vice-ministros.",
-        "body": "O presidente Lee Jae-myung deve chamar à Cheong Wa Dae dirigentes de nível de diretor-geral e chefe de gabinete de cada ministério para receber informes privados, começando possivelmente no fim deste mês pelo Ministério da Cultura, Esportes e Turismo. As reuniões, segundo o relato, excluirão ministros e vice-ministros e serão conduzidas como discussões práticas com quadros administrativos. De acordo com o texto original, a intenção é interpretada como ouvir diretamente desses dirigentes a situação dos ministérios e recolher ideias de política sem filtragem. Diferente dos informes comuns centrados em ministros e vice-ministros, o formato pode influenciar a maneira como futuras discussões de política ministerial serão conduzidas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lee plant vertrauliche Ministeriumsbriefings ohne Minister und Vizeminister",
-        "excerpt": "Präsident Lee Jae-myung will Berichten zufolge frühestens Ende dieses Monats mit dem Kulturministerium beginnen und ranghohe Abteilungsleiter zu vertraulichen Arbeitsbriefings ins Cheong Wa Dae einladen.",
-        "body": "Präsident Lee Jae-myung will Berichten zufolge ranghohe Beamte auf Ebene von Amts- und Abteilungsleitern aus den einzelnen Ministerien ins Cheong Wa Dae einladen, um vertrauliche Arbeitsbriefings zu erhalten. Beginnen könnte dies frühestens Ende dieses Monats mit dem Ministerium für Kultur, Sport und Tourismus. Die Treffen sollen Minister und Vizeminister ausschließen und als praxisorientierte Gespräche mit leitenden Fachbeamten stattfinden. Dem Originalbericht zufolge wird die Absicht so verstanden, die Lage in den Ministerien direkt von Führungskräften zu hören und unverarbeitete politische Ideen aufzunehmen. Anders als übliche Briefings, die sich auf Minister und Vizeminister stützen, könnte dieses Format die künftige Art ministerieller Politikgespräche beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lee prévoit des briefings ministériels privés sans ministres ni vice-ministres",
-        "excerpt": "Le président Lee Jae-myung devrait commencer dès la fin du mois, avec le ministère de la Culture, des réunions privées avec des hauts responsables de ministères, sans ministres ni vice-ministres.",
-        "body": "Le président Lee Jae-myung envisagerait de convoquer à Cheong Wa Dae des responsables de niveau directeur général et chef de bureau de chaque ministère pour recevoir des briefings de travail privés, en commençant dès la fin du mois par le ministère de la Culture, des Sports et du Tourisme. Ces réunions devraient exclure ministres et vice-ministres et prendre la forme de discussions pratiques avec des cadres administratifs. Selon le texte original, l’objectif est interprété comme la volonté d’entendre directement l’état des ministères auprès des cadres et de recueillir des idées de politique non filtrées. À la différence des briefings habituels centrés sur les ministres et vice-ministres, ce format pourrait influencer les futures discussions de politique ministérielle. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لي يتجه لتلقي إحاطات وزارية مغلقة من كبار المسؤولين دون الوزراء",
-        "excerpt": "من المتوقع أن يبدأ الرئيس لي جاي ميونغ، ربما في نهاية هذا الشهر ومن وزارة الثقافة، إحاطات عمل مغلقة مع مسؤولين كبار في الوزارات من دون حضور الوزراء أو نوابهم.",
-        "body": "أفادت تقارير بأن الرئيس لي جاي ميونغ يستعد لدعوة مسؤولين على مستوى رؤساء المكاتب والمديرين العامين في كل وزارة إلى تشيونغ وا داي لتلقي إحاطات عمل مغلقة، على أن يبدأ ذلك ربما في نهاية هذا الشهر بوزارة الثقافة والرياضة والسياحة. ومن المنتظر أن تستبعد هذه الإحاطات الوزراء ونواب الوزراء، وأن تجري في شكل نقاش عملي مباشر مع كبار المسؤولين التنفيذيين. ووفق النص الأصلي، يُفهم أن الهدف هو الاستماع مباشرة إلى أوضاع الوزارات من مسؤوليها، وتلقي أفكار سياسية غير مصفاة. وبخلاف الإحاطات المعتادة التي تتركز حول الوزراء ونوابهم، قد يؤثر هذا الأسلوب في طريقة مناقشة السياسات داخل الوزارات مستقبلا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ली राष्ट्रपति मंत्रियों को अलग रखकर वरिष्ठ अधिकारियों से निजी ब्रीफिंग लेंगे",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग कथित तौर पर इस महीने के अंत में संस्कृति मंत्रालय से शुरुआत करते हुए मंत्रालयों के महानिदेशक स्तर के अधिकारियों को चेओंग वा डे बुलाकर निजी कार्य रिपोर्ट और व्यावहारिक चर्चा करेंगे।",
-        "body": "राष्ट्रपति ली जे-म्युंग कथित तौर पर प्रत्येक मंत्रालय के कार्यालय प्रमुख और महानिदेशक स्तर के वरिष्ठ अधिकारियों को चेओंग वा डे बुलाकर निजी कार्य रिपोर्ट लेने की तैयारी कर रहे हैं। इसकी शुरुआत इस महीने के अंत में संस्कृति, खेल और पर्यटन मंत्रालय से हो सकती है। बताया गया है कि इन बैठकों में मंत्री और उपमंत्री शामिल नहीं होंगे और चर्चा सीधे कामकाजी स्तर के वरिष्ठ अधिकारियों के साथ होगी। मूल रिपोर्ट के अनुसार, इसका उद्देश्य मंत्रालयों की स्थिति को अधिकारियों से सीधे सुनना और बिना छांटे गए नीतिगत विचारों को जानना माना जा रहा है। सामान्यतः मंत्री और उपमंत्री केंद्रित रिपोर्टिंग से अलग यह तरीका भविष्य में मंत्रालयों की नीति चर्चा की शैली को प्रभावित कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Presiden Lee Akan Terima Laporan Tertutup dari Pejabat Senior Kementerian",
-        "excerpt": "Presiden Lee Jae-myung dilaporkan akan memulai paling cepat akhir bulan ini dari Kementerian Kebudayaan, mengundang pejabat setingkat direktur jenderal ke Cheong Wa Dae tanpa menteri dan wakil menteri.",
-        "body": "Presiden Lee Jae-myung dilaporkan bersiap memanggil pejabat setingkat kepala biro dan direktur jenderal dari tiap kementerian ke Cheong Wa Dae untuk menerima laporan kerja tertutup. Kegiatan ini kemungkinan dimulai paling cepat akhir bulan ini dari Kementerian Kebudayaan, Olahraga, dan Pariwisata. Menurut laporan, pertemuan tersebut akan mengecualikan menteri dan wakil menteri, serta berlangsung sebagai diskusi praktis langsung dengan pejabat pelaksana senior. Berdasarkan teks asli, langkah ini ditafsirkan sebagai upaya presiden mendengar kondisi kementerian langsung dari jajaran pejabat dan menyerap ide kebijakan yang belum dipoles. Berbeda dari laporan biasa yang berpusat pada menteri dan wakil menteri, format ini dapat memengaruhi cara pembahasan kebijakan kementerian ke depan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1f0b295672f1",
-    "slug": "늙그막에-용돈-써야할텐데퇴직연금-수급자-10명-중-8명-한방에-수령-916879",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T08:14:26.709Z",
-    "updatedAt": "2026-05-14T08:14:26.709Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047743",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047743",
-    "titleFingerprint": "c079e3f7d9422563f3369cf8d9610bcc7ffe7f83",
-    "dedupKeys": [
-      "1f0b295672f1d03fcf9af2a78cfa3fe29ec6b68d",
-      "c079e3f7d9422563f3369cf8d9610bcc7ffe7f83",
-      "11623667fc84aef31c1a3a5dd36e77f073c30047"
-    ],
-    "imageUrl": "/images/articles/1f0b295672f1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "퇴직연금 수급자 84% 일시금 선택…노후소득 안전판 흔들리나",
-        "excerpt": "고용부와 금감원이 연 제도개선 세미나에서 지난해 퇴직연금 수급 개시자 60만 명 중 84%가 일시금을 선택한 것으로 나타나 노후소득 보장 논의가 부각됐다.",
-        "body": "지난해 퇴직연금 수급을 시작한 사람 60만 명 가운데 84%가 연금이 아닌 일시금 수령을 선택한 것으로 나타났다. 고용부와 금융감독원은 제도개선 세미나에서 이 같은 수급 현황을 공유하고 퇴직연금의 노후소득 보장 기능을 강화할 방안을 논의했다. 연금 방식을 택한 경우에도 장기 수령보다 단기 수령이 많았다. 연금 수급자 중 10년 이하로 받는 비중이 82%에 달해, 퇴직연금이 안정적인 노후 생활비로 이어지기 어렵다는 지적이 나온다. 세미나에서는 종신연금과 장기연금 상품 확대 등 제도 개선 방향이 논의됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Retirement pension recipients overwhelmingly take lump sums, raising income concerns",
-        "excerpt": "At a system-improvement seminar by Korea’s labor ministry and financial regulator, 84% of 600,000 new retirement pension recipients last year chose lump-sum payouts.",
-        "body": "Last year, 84% of the 600,000 people who began receiving retirement pension benefits chose a lump-sum payment instead of pension installments. Korea’s Ministry of Employment and Labor and the Financial Supervisory Service shared the figures at a system-improvement seminar and discussed ways to strengthen the role of retirement pensions as retirement income. Even among those who chose pension payments, short payout periods dominated. Recipients taking payments for 10 years or less accounted for 82%, raising concerns that retirement pensions may not translate into stable living expenses in old age. The seminar discussed measures such as expanding lifetime annuity and long-term pension products. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "退職年金受給者の84％が一時金を選択、老後所得の安定性に課題",
-        "excerpt": "雇用労働部と金融監督院の制度改善セミナーで、昨年退職年金の受給を始めた60万人のうち84％が一時金を選んだことが示された。",
-        "body": "昨年、退職年金の受給を開始した60万人のうち84％が、年金形式ではなく一時金での受け取りを選んだことが分かった。雇用労働部と金融監督院は制度改善セミナーでこうした受給状況を共有し、退職年金の老後所得保障機能を強化する方策を議論した。年金形式を選んだ場合でも、長期受給より短期受給が多かった。年金受給者のうち10年以下で受け取る割合は82％に達し、退職年金が安定した老後の生活費につながりにくいとの指摘が出ている。セミナーでは終身年金や長期年金商品の拡大など、制度改善の方向が話し合われた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "退休年金领取者84%选择一次性领取，养老收入保障引关注",
-        "excerpt": "韩国雇佣劳动部与金融监督院在制度改善研讨会上称，去年60万名开始领取退休年金者中，84%选择一次性领取。",
-        "body": "去年开始领取退休年金的60万人中，84%选择了一次性领取，而不是按年金方式领取。韩国雇佣劳动部和金融监督院在制度改善研讨会上公布了这一领取现状，并讨论如何强化退休年金对养老收入的保障功能。即便选择年金方式，短期领取也明显多于长期领取。年金领取者中，领取期限在10年以下的比例达到82%，引发退休年金难以稳定转化为老年生活费的担忧。研讨会上还讨论了扩大终身年金和长期年金产品等制度改善方向。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El 84% de nuevos beneficiarios de pensiones laborales cobra todo de una vez",
-        "excerpt": "En un seminario de mejora del sistema, el Ministerio de Empleo y el supervisor financiero de Corea señalaron que el 84% de 600.000 nuevos beneficiarios cobró en suma global.",
-        "body": "El año pasado, el 84% de las 600.000 personas que comenzaron a recibir pensiones de jubilación laborales eligió cobrar una suma global en lugar de pagos periódicos. El Ministerio de Empleo y Trabajo de Corea y el Servicio de Supervisión Financiera compartieron estos datos en un seminario de mejora del sistema y debatieron cómo reforzar la función de estas pensiones como ingreso para la vejez. Incluso entre quienes eligieron pagos tipo pensión, predominaron los plazos cortos. El 82% de esos beneficiarios recibe el dinero durante 10 años o menos, lo que genera dudas sobre si el sistema puede sostener gastos estables en la vejez. También se debatió ampliar rentas vitalicias y productos de pensión de largo plazo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "84% dos novos beneficiários de previdência trabalhista sacam em parcela única",
-        "excerpt": "Em seminário de melhoria do sistema, o Ministério do Trabalho e o supervisor financeiro da Coreia informaram que 84% de 600 mil novos beneficiários sacaram tudo de uma vez.",
-        "body": "No ano passado, 84% das 600 mil pessoas que começaram a receber benefícios de previdência de aposentadoria trabalhista optaram por uma parcela única, em vez de pagamentos periódicos. O Ministério do Emprego e Trabalho da Coreia e o Serviço de Supervisão Financeira apresentaram esses dados em um seminário de melhoria do sistema e discutiram formas de fortalecer a função dessas previdências como renda para a velhice. Mesmo entre os que escolheram receber em forma de pensão, os prazos curtos predominaram. Beneficiários com recebimento de até 10 anos representaram 82%, levantando dúvidas sobre a capacidade do sistema de garantir despesas estáveis na aposentadoria. O seminário discutiu a ampliação de anuidades vitalícias e produtos de longo prazo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "84% neuer Betriebsrentenempfänger wählen Einmalzahlung statt Rentenbezug",
-        "excerpt": "Auf einem Reformseminar meldeten Koreas Arbeitsministerium und Finanzaufsicht, dass 84% von 600.000 neuen Betriebsrentenempfängern im Vorjahr eine Einmalzahlung wählten.",
-        "body": "Im vergangenen Jahr entschieden sich 84% der 600.000 Menschen, die erstmals Leistungen aus einer betrieblichen Altersversorgung erhielten, für eine Einmalzahlung statt für laufende Rentenzahlungen. Das koreanische Ministerium für Beschäftigung und Arbeit und die Finanzaufsicht stellten diese Zahlen auf einem Seminar zur Systemverbesserung vor und diskutierten, wie die Funktion der Betriebsrenten als Alterseinkommen gestärkt werden kann. Auch bei denjenigen, die Rentenzahlungen wählten, dominierten kurze Laufzeiten. 82% erhalten die Leistungen höchstens zehn Jahre lang, was Zweifel daran aufwirft, ob die Betriebsrente stabile Lebenshaltungskosten im Alter sichern kann. Diskutiert wurden unter anderem mehr lebenslange und langfristige Rentenprodukte. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "84% des nouveaux bénéficiaires de retraite d’entreprise prennent un capital",
-        "excerpt": "Lors d’un séminaire de réforme, le ministère coréen du Travail et le superviseur financier ont indiqué que 84% des 600.000 nouveaux bénéficiaires avaient choisi un versement unique.",
-        "body": "L’an dernier, 84% des 600.000 personnes ayant commencé à percevoir une retraite d’entreprise ont choisi un versement en capital plutôt que des paiements réguliers. Le ministère coréen de l’Emploi et du Travail et le Service de supervision financière ont présenté ces chiffres lors d’un séminaire d’amélioration du système et discuté des moyens de renforcer le rôle de ces retraites comme revenu de vieillesse. Même parmi ceux qui ont choisi une rente, les durées courtes dominent. Les bénéficiaires recevant les paiements sur dix ans ou moins représentent 82%, ce qui alimente les inquiétudes sur la capacité du dispositif à fournir des dépenses de vie stables à la retraite. Le séminaire a aussi abordé l’élargissement des rentes viagères et des produits de long terme. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "84% من متلقي معاشات التقاعد المهنية الجدد يختارون دفعة واحدة",
-        "excerpt": "في ندوة لتحسين النظام، قالت وزارة العمل الكورية والجهة الرقابية المالية إن 84% من 600 ألف متلق جديد لمعاشات التقاعد العام الماضي اختاروا السحب دفعة واحدة.",
-        "body": "في العام الماضي، اختار 84% من بين 600 ألف شخص بدأوا تلقي معاشات التقاعد المهنية الحصول على المبلغ دفعة واحدة بدلا من الدفعات الدورية. وعرضت وزارة التوظيف والعمل الكورية وهيئة الرقابة المالية هذه الأرقام في ندوة لتحسين النظام، وناقشت سبل تعزيز دور معاشات التقاعد كمصدر دخل في الشيخوخة. وحتى بين من اختاروا الدفع على شكل معاش، غلبت فترات السداد القصيرة. فقد بلغت نسبة من يتلقون المدفوعات لمدة 10 سنوات أو أقل 82%، ما يثير تساؤلات حول قدرة النظام على توفير نفقات معيشة مستقرة في سن التقاعد. وناقشت الندوة توسيع منتجات المعاش مدى الحياة والمعاشات طويلة الأجل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सेवानिवृत्ति पेंशन पाने वालों में 84% ने एकमुश्त भुगतान चुना",
-        "excerpt": "कोरिया के श्रम मंत्रालय और वित्तीय पर्यवेक्षक की प्रणाली-सुधार संगोष्ठी में बताया गया कि पिछले साल 6 लाख नए पेंशन प्राप्तकर्ताओं में 84% ने एकमुश्त भुगतान लिया।",
-        "body": "पिछले साल सेवानिवृत्ति पेंशन प्राप्त करना शुरू करने वाले 6 लाख लोगों में 84% ने नियमित पेंशन भुगतान के बजाय एकमुश्त राशि लेना चुना। कोरिया के रोजगार और श्रम मंत्रालय तथा वित्तीय पर्यवेक्षण सेवा ने प्रणाली-सुधार संगोष्ठी में ये आंकड़े साझा किए और सेवानिवृत्ति पेंशन को वृद्धावस्था आय के साधन के रूप में मजबूत करने के उपायों पर चर्चा की। पेंशन भुगतान चुनने वालों में भी छोटी अवधि का विकल्प अधिक था। 10 वर्ष या उससे कम समय तक भुगतान लेने वालों की हिस्सेदारी 82% रही, जिससे यह चिंता उठी कि पेंशन स्थिर वृद्धावस्था जीवन-यापन खर्च में बदल नहीं पा रही है। संगोष्ठी में आजीवन वार्षिकी और लंबी अवधि के पेंशन उत्पादों के विस्तार पर भी चर्चा हुई। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "84% penerima pensiun kerja baru memilih pencairan sekaligus",
-        "excerpt": "Dalam seminar perbaikan sistem, Kementerian Ketenagakerjaan dan pengawas keuangan Korea menyebut 84% dari 600.000 penerima baru tahun lalu memilih pencairan sekaligus.",
-        "body": "Tahun lalu, 84% dari 600.000 orang yang mulai menerima manfaat pensiun kerja memilih pencairan sekaligus, bukan pembayaran berkala. Kementerian Ketenagakerjaan dan Tenaga Kerja Korea bersama Layanan Pengawas Keuangan membagikan data ini dalam seminar perbaikan sistem dan membahas cara memperkuat fungsi pensiun kerja sebagai pendapatan hari tua. Bahkan di antara mereka yang memilih pembayaran pensiun, jangka pendek lebih dominan. Penerima dengan masa pembayaran 10 tahun atau kurang mencapai 82%, memunculkan kekhawatiran bahwa pensiun kerja sulit menjadi biaya hidup hari tua yang stabil. Seminar juga membahas perluasan produk anuitas seumur hidup dan pensiun jangka panjang. Sumber: mk.co.kr"
       }
     }
   }
