@@ -1,5 +1,230 @@
 [
   {
+    "id": "0e1367f4868a",
+    "slug": "세레브라스-상장-첫날-81-폭등ai-반도체-ipo-광풍-606412",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T19:53:41.794Z",
+    "updatedAt": "2026-05-14T19:53:41.794Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12048402",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12048402",
+    "titleFingerprint": "9451353eb77c7e97267e09f62c03a9d98e4a9f33",
+    "dedupKeys": [
+      "0e1367f4868a15bf2b2a43cbe2094beb3175e72f",
+      "9451353eb77c7e97267e09f62c03a9d98e4a9f33",
+      "6e861676a7d65c9dbd5915b7e5dfedba5d318d9d"
+    ],
+    "imageUrl": "/images/articles/0e1367f4868a.png",
+    "i18n": {
+      "ko": {
+        "title": "세레브라스 상장 첫날 81% 급등, AI 반도체 IPO 열기와 추론칩 경쟁 주목",
+        "excerpt": "미국 AI 반도체 스타트업 세레브라스가 상장 첫날 주가 81% 급등으로 기업가치가 120조원에 육박하며 올해 최대 IPO와 추론칩 경쟁의 중심에 섰다.",
+        "body": "미국 AI 반도체 스타트업 세레브라스가 상장 첫날 주가가 81% 폭등하며 시장의 관심을 끌었다. 올해 최대 IPO로 평가된 이번 상장에는 5조5000억원이 몰렸고, 상장 직후 기업가치는 120조원에 육박했다. 세레브라스는 ‘엔비디아 대항마’로 불리며 AI 추론칩 경쟁에서 존재감을 키우고 있다. 고객사로는 오픈AI와 아마존도 확보한 것으로 전해졌다. AI 반도체 수요가 커지는 가운데 이번 IPO 흥행은 추론칩 시장 경쟁이 본격화되고 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Cerebras jumps 81% on debut as AI chip IPO frenzy spotlights inference race",
+        "excerpt": "U.S. AI chip startup Cerebras surged 81% on its first trading day, nearing a 120 trillion won valuation after the year’s largest IPO drew 5.5 trillion won.",
+        "body": "U.S. AI semiconductor startup Cerebras drew market attention as its shares jumped 81% on the first day of listing. The offering, described as the year’s largest IPO, attracted 5.5 trillion won, and the company’s valuation neared 120 trillion won immediately after its debut. Cerebras, often called a challenger to Nvidia, is strengthening its presence in the AI inference chip race. It has also secured OpenAI and Amazon as customers, according to the report. The successful IPO shows that competition in inference chips is moving into full swing as demand for AI semiconductors grows. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "セレブラス上場初日に81%急騰、AI半導体IPO熱と推論チップ競争に注目",
+        "excerpt": "米AI半導体スタートアップのセレブラスは上場初日に株価が81%急騰し、今年最大のIPOに5.5兆ウォンが集まり企業価値は120兆ウォンに迫った。",
+        "body": "米国のAI半導体スタートアップ、セレブラスが上場初日に株価を81%急騰させ、市場の関心を集めた。今年最大のIPOと評価された今回の上場には5兆5000億ウォンが集まり、上場直後の企業価値は120兆ウォンに迫った。セレブラスは「エヌビディアの対抗馬」と呼ばれ、AI推論チップ競争で存在感を高めている。顧客にはオープンAIとアマゾンも含まれると伝えられた。AI半導体需要が拡大する中、今回のIPO人気は推論チップ市場の競争が本格化していることを示す。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Cerebras上市首日暴涨81%，AI芯片IPO热潮聚焦推理芯片竞争",
+        "excerpt": "美国AI芯片初创公司Cerebras上市首日股价暴涨81%，今年最大IPO吸引5.5万亿韩元，上市后估值逼近120万亿韩元。",
+        "body": "美国AI半导体初创公司Cerebras上市首日股价暴涨81%，引发市场关注。此次上市被评价为今年最大IPO，吸引资金5.5万亿韩元，上市后公司估值逼近120万亿韩元。Cerebras被称为“英伟达挑战者”，正在AI推理芯片竞争中扩大存在感。据报道，公司客户还包括OpenAI和亚马逊。随着AI半导体需求扩大，此次IPO的火热表现显示推理芯片市场竞争正在正式升温。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Cerebras sube 81% en su debut y aviva la fiebre IPO por chips de IA",
+        "excerpt": "La startup estadounidense de chips de IA Cerebras se disparó 81% en su primer día de cotización, tras captar 5,5 billones de wones y rozar una valoración de 120 billones.",
+        "body": "La startup estadounidense de semiconductores de IA Cerebras atrajo la atención del mercado al subir 81% en su primer día de cotización. La operación, descrita como la mayor IPO del año, reunió 5,5 billones de wones, y la valoración de la empresa se acercó a 120 billones de wones justo después del debut. Cerebras, llamada rival de Nvidia, gana presencia en la competencia por chips de inferencia de IA. Según el reporte, también cuenta con OpenAI y Amazon como clientes. El éxito de la IPO muestra que la competencia en chips de inferencia se intensifica a medida que crece la demanda de semiconductores de IA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Cerebras dispara 81% na estreia e destaca febre de IPOs de chips de IA",
+        "excerpt": "A startup americana de chips de IA Cerebras subiu 81% no primeiro dia de negociação, após a maior IPO do ano atrair 5,5 trilhões de wones e levar a avaliação perto de 120 trilhões.",
+        "body": "A startup americana de semicondutores de IA Cerebras chamou a atenção do mercado ao disparar 81% em seu primeiro dia de listagem. A oferta, descrita como a maior IPO do ano, atraiu 5,5 trilhões de wones, e o valor de mercado da empresa se aproximou de 120 trilhões de wones logo após a estreia. A Cerebras, chamada de rival da Nvidia, amplia sua presença na disputa por chips de inferência de IA. Segundo a reportagem, OpenAI e Amazon também estão entre seus clientes. O sucesso da IPO mostra que a competição em chips de inferência está ganhando força com a alta demanda por semicondutores de IA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Cerebras springt am ersten Börsentag 81% und entfacht KI-Chip-IPO-Fieber",
+        "excerpt": "Das US-KI-Chip-Startup Cerebras legte am ersten Handelstag 81% zu, nachdem der größte IPO des Jahres 5,5 Billionen Won anzog und die Bewertung fast 120 Billionen Won erreichte.",
+        "body": "Das US-amerikanische KI-Halbleiter-Startup Cerebras rückte in den Fokus der Märkte, nachdem die Aktie am ersten Börsentag um 81% sprang. Der Börsengang, als größter IPO des Jahres bezeichnet, zog 5,5 Billionen Won an; direkt nach der Notierung näherte sich die Unternehmensbewertung 120 Billionen Won. Cerebras gilt als Herausforderer von Nvidia und baut seine Präsenz im Wettbewerb um KI-Inferenzchips aus. Berichten zufolge zählen auch OpenAI und Amazon zu den Kunden. Der starke IPO zeigt, dass der Wettbewerb im Markt für Inferenzchips mit steigender Nachfrage nach KI-Halbleitern an Fahrt gewinnt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Cerebras bondit de 81% à ses débuts et relance la fièvre des IPO de puces IA",
+        "excerpt": "La startup américaine de puces IA Cerebras a bondi de 81% lors de son premier jour de cotation, après une IPO record de l’année attirant 5,5 billions de wons.",
+        "body": "La startup américaine de semi-conducteurs d’IA Cerebras a attiré l’attention du marché avec une hausse de 81% lors de son premier jour de cotation. Présentée comme la plus grande IPO de l’année, l’opération a attiré 5,5 billions de wons, et la valorisation de l’entreprise a approché 120 billions de wons juste après ses débuts. Cerebras, souvent décrite comme une rivale de Nvidia, renforce sa présence dans la course aux puces d’inférence IA. Selon le rapport, OpenAI et Amazon figurent aussi parmi ses clients. Ce succès montre que la concurrence sur les puces d’inférence s’intensifie avec la demande croissante de semi-conducteurs IA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سيريبراس تقفز 81% في أول يوم تداول وتسلط الضوء على موجة اكتتابات رقائق الذكاء الاصطناعي",
+        "excerpt": "قفز سهم شركة سيريبراس الأميركية الناشئة لرقائق الذكاء الاصطناعي 81% في أول يوم إدراج، بعد أن جذب أكبر اكتتاب هذا العام 5.5 تريليون وون واقترب التقييم من 120 تريليون وون.",
+        "body": "جذبت شركة سيريبراس الأميركية الناشئة في أشباه موصلات الذكاء الاصطناعي اهتمام السوق بعدما قفز سهمها 81% في أول يوم إدراج. وجذب الطرح، الذي وُصف بأنه أكبر اكتتاب عام هذا العام، 5.5 تريليون وون، واقتربت قيمة الشركة بعد الإدراج مباشرة من 120 تريليون وون. وتوصف سيريبراس بأنها منافس لإنفيديا، وتزيد حضورها في سباق رقائق الاستدلال الخاصة بالذكاء الاصطناعي. ووفق التقرير، تضم قائمة عملائها أيضا أوبن إيه آي وأمازون. ويظهر نجاح الاكتتاب أن المنافسة في سوق رقائق الاستدلال بدأت تتسارع مع نمو الطلب على أشباه موصلات الذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Cerebras लिस्टिंग के पहले दिन 81% उछला, AI चिप IPO उन्माद और तेज",
+        "excerpt": "अमेरिकी AI चिप स्टार्टअप Cerebras पहले कारोबारी दिन 81% उछला; साल के सबसे बड़े IPO में 5.5 ट्रिलियन वॉन जुटे और वैल्यूएशन 120 ट्रिलियन वॉन के करीब पहुंचा।",
+        "body": "अमेरिकी AI सेमीकंडक्टर स्टार्टअप Cerebras ने लिस्टिंग के पहले दिन 81% उछाल के साथ बाजार का ध्यान खींचा। इस IPO को इस साल का सबसे बड़ा IPO बताया गया, जिसमें 5.5 ट्रिलियन वॉन आए और लिस्टिंग के तुरंत बाद कंपनी का मूल्यांकन 120 ट्रिलियन वॉन के करीब पहुंच गया। Cerebras को Nvidia का प्रतिद्वंद्वी कहा जा रहा है और वह AI inference chip प्रतिस्पर्धा में अपनी मौजूदगी बढ़ा रहा है। रिपोर्ट के अनुसार, OpenAI और Amazon भी इसके ग्राहकों में शामिल हैं। AI सेमीकंडक्टर मांग बढ़ने के बीच यह IPO दिखाता है कि inference chip बाजार की प्रतिस्पर्धा अब तेज हो रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Cerebras melesat 81% saat debut, IPO chip AI soroti persaingan inferensi",
+        "excerpt": "Startup chip AI AS Cerebras melonjak 81% pada hari pertama perdagangan, setelah IPO terbesar tahun ini menarik 5,5 triliun won dan valuasinya mendekati 120 triliun won.",
+        "body": "Startup semikonduktor AI asal AS, Cerebras, menarik perhatian pasar setelah sahamnya melonjak 81% pada hari pertama pencatatan. IPO ini disebut sebagai yang terbesar tahun ini, menarik 5,5 triliun won, dan valuasi perusahaan segera setelah debut mendekati 120 triliun won. Cerebras disebut sebagai penantang Nvidia dan memperkuat posisinya dalam persaingan chip inferensi AI. Menurut laporan, OpenAI dan Amazon juga telah menjadi pelanggannya. Di tengah meningkatnya permintaan semikonduktor AI, keberhasilan IPO ini menunjukkan bahwa persaingan di pasar chip inferensi mulai memasuki fase yang lebih intens. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c1069a0be640",
+    "slug": "ai-진짜-수혜주는-반도체에-가려져-있다강방천이-픽한-업종은-162013",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T19:52:43.362Z",
+    "updatedAt": "2026-05-14T19:52:43.362Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047928",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047928",
+    "titleFingerprint": "ab2305b99a4a3fc6ebd291171721c5471b0bff03",
+    "dedupKeys": [
+      "c1069a0be640151d9cd94d542e4ad84d3c278693",
+      "ab2305b99a4a3fc6ebd291171721c5471b0bff03",
+      "05d4e97ad2c772a6f74eda881673398df30149a0"
+    ],
+    "imageUrl": "/images/articles/c1069a0be640.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 수혜주, 반도체 너머에 있다…강방천이 본 시장 진단",
+        "excerpt": "강방천 에셋플러스자산운용 설립자가 매경플러스 ‘한국의 위대한 투자자’ 시리즈 3편에서 AI 수혜주와 시장 진단을 설명했다.",
+        "body": "강방천 에셋플러스자산운용 설립자는 매경플러스 ‘한국의 위대한 투자자’ 시리즈 3편에서 AI 시대의 투자 관점을 밝혔다. 한국 투자업계의 살아 있는 전설로 소개된 그는 이번 시장 진단에서 AI의 진짜 수혜주가 반도체에만 한정되지 않을 수 있다는 시각을 제시했다. 원문은 강방천을 시리즈 첫 주인공으로 다루며, AI 관련 산업을 바라보는 투자자의 해석과 시장 판단에 초점을 맞췄다. 반도체가 AI 투자 담론의 중심에 있지만, 강방천의 발언은 수혜 업종을 더 넓게 살펴봐야 한다는 메시지로 읽힌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Winners May Be Beyond Semiconductors, Kang Bang-chun Says",
+        "excerpt": "Kang Bang-chun, founder of AssetPlus Asset Management, discussed AI beneficiaries and his market view in part three of Maeil Business Plus’s investor series.",
+        "body": "Kang Bang-chun, founder of AssetPlus Asset Management, presented his investment view on the AI era in part three of Maeil Business Plus’s “Great Investors of Korea” series. Introduced as a living legend of Korea’s investment industry, he argued in this market diagnosis that the real beneficiaries of AI may not be limited to semiconductors. The original article features Kang as the first subject of the series and focuses on his interpretation of AI-related industries and market judgment. While semiconductors remain central to the AI investment debate, Kang’s comments point to the need to look more broadly at beneficiary sectors. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AIの本当の恩恵銘柄は半導体の先に、姜芳天氏の市場診断",
+        "excerpt": "エセットプラス資産運用創業者の姜芳天氏が、毎経プラス「韓国の偉大な投資家」第3回でAI恩恵銘柄と市場診断を語った。",
+        "body": "エセットプラス資産運用創業者の姜芳天氏は、毎経プラス「韓国の偉大な投資家」シリーズ第3回で、AI時代の投資観点を示した。韓国投資業界の生きた伝説として紹介された同氏は、今回の市場診断で、AIの本当の恩恵銘柄は半導体だけに限られない可能性があるとの見方を示した。原文は姜氏をシリーズ最初の主人公として取り上げ、AI関連産業を見る投資家の解釈と市場判断に焦点を当てている。半導体がAI投資論議の中心にある一方、姜氏の発言は恩恵業種をより広く見る必要性を示すものと読める。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI真正受益股或不止半导体，姜芳天给出市场判断",
+        "excerpt": "AssetPlus资产管理创始人姜芳天在每日经济Plus“韩国伟大投资者”系列第三篇中，谈及AI受益股与市场诊断。",
+        "body": "AssetPlus资产管理创始人姜芳天在每日经济Plus“韩国伟大投资者”系列第三篇中，阐述了对AI时代的投资视角。作为韩国投资行业的“活着的传奇”被介绍的他，在此次市场诊断中提出，AI真正的受益股可能并不只限于半导体。原文将姜芳天作为该系列首位主人公，聚焦投资者如何解读AI相关产业以及作出市场判断。虽然半导体仍处于AI投资讨论的中心，但姜芳天的发言可被理解为需要更广泛地观察受益行业。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Los ganadores de la IA pueden ir más allá de chips, dice Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, fundador de AssetPlus Asset Management, explicó su visión del mercado y de los beneficiarios de la IA en la tercera entrega de Maeil Business Plus.",
+        "body": "Kang Bang-chun, fundador de AssetPlus Asset Management, expuso su visión de inversión para la era de la IA en la tercera entrega de la serie de Maeil Business Plus “Grandes inversores de Corea”. Presentado como una leyenda viva del sector inversor coreano, planteó en este diagnóstico de mercado que los verdaderos beneficiarios de la IA podrían no limitarse a los semiconductores. El artículo original lo presenta como el primer protagonista de la serie y se centra en su interpretación de las industrias vinculadas a la IA y su juicio de mercado. Aunque los chips dominan el debate de inversión en IA, sus comentarios apuntan a mirar con mayor amplitud los sectores beneficiados. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Beneficiários da IA podem ir além dos chips, diz Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, fundador da AssetPlus Asset Management, detalhou sua leitura do mercado e dos beneficiários da IA na terceira parte da série da Maeil Business Plus.",
+        "body": "Kang Bang-chun, fundador da AssetPlus Asset Management, apresentou sua visão de investimento para a era da IA na terceira parte da série “Grandes investidores da Coreia”, da Maeil Business Plus. Descrito como uma lenda viva do setor de investimentos coreano, ele afirmou nesse diagnóstico de mercado que os verdadeiros beneficiários da IA podem não se limitar aos semicondutores. O texto original o traz como o primeiro protagonista da série e foca sua interpretação das indústrias ligadas à IA e seu julgamento de mercado. Embora os chips estejam no centro do debate sobre IA, seus comentários indicam a necessidade de observar de forma mais ampla os setores beneficiados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Gewinner könnten jenseits von Halbleitern liegen, sagt Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, Gründer von AssetPlus Asset Management, erläuterte in Teil drei der Maeil-Business-Plus-Serie seine Sicht auf KI-Profiteure und den Markt.",
+        "body": "Kang Bang-chun, Gründer von AssetPlus Asset Management, stellte in Teil drei der Maeil-Business-Plus-Serie “Große Investoren Koreas” seine Investmentperspektive auf die KI-Ära vor. Als lebende Legende der koreanischen Investmentbranche beschrieben, vertrat er in dieser Marktdiagnose die Ansicht, dass die wahren Profiteure von KI nicht nur bei Halbleitern liegen könnten. Der Originalartikel stellt Kang als ersten Protagonisten der Serie vor und konzentriert sich auf seine Deutung KI-bezogener Branchen sowie seine Markteinschätzung. Obwohl Halbleiter im Zentrum der KI-Investitionsdebatte stehen, lassen seine Aussagen erkennen, dass Anleger begünstigte Branchen breiter betrachten sollten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les gagnants de l’IA pourraient dépasser les semi-conducteurs, selon Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, fondateur d’AssetPlus Asset Management, a présenté sa lecture du marché et des bénéficiaires de l’IA dans le troisième volet de Maeil Business Plus.",
+        "body": "Kang Bang-chun, fondateur d’AssetPlus Asset Management, a présenté sa vision d’investissement à l’ère de l’IA dans le troisième volet de la série “Les grands investisseurs de Corée” de Maeil Business Plus. Décrit comme une légende vivante du secteur coréen de l’investissement, il a estimé dans ce diagnostic de marché que les véritables bénéficiaires de l’IA pourraient ne pas se limiter aux semi-conducteurs. L’article original le présente comme le premier protagoniste de la série et se concentre sur son interprétation des industries liées à l’IA et son jugement de marché. Alors que les semi-conducteurs dominent le débat, ses propos invitent à examiner plus largement les secteurs bénéficiaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مكاسب الذكاء الاصطناعي قد تتجاوز أشباه الموصلات، وفق كانغ بانغ تشون",
+        "excerpt": "عرض كانغ بانغ تشون، مؤسس AssetPlus Asset Management، رؤيته للسوق والمستفيدين من الذكاء الاصطناعي في الجزء الثالث من سلسلة Maeil Business Plus.",
+        "body": "قدّم كانغ بانغ تشون، مؤسس AssetPlus Asset Management، رؤيته الاستثمارية لعصر الذكاء الاصطناعي في الجزء الثالث من سلسلة Maeil Business Plus بعنوان “المستثمرون العظماء في كوريا”. وقد عُرض بوصفه أسطورة حية في قطاع الاستثمار الكوري، وطرح في هذا التشخيص للسوق أن المستفيدين الحقيقيين من الذكاء الاصطناعي قد لا يقتصرون على أشباه الموصلات. ويتناول النص الأصلي كانغ كأول شخصية رئيسية في السلسلة، مع التركيز على تفسيره للصناعات المرتبطة بالذكاء الاصطناعي وحكمه على السوق. ورغم أن أشباه الموصلات تقع في قلب نقاش الاستثمار في الذكاء الاصطناعي، فإن تصريحاته تشير إلى ضرورة النظر على نطاق أوسع إلى القطاعات المستفيدة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI के असली लाभार्थी चिप्स से आगे हो सकते हैं, कांग बांग-चुन का आकलन",
+        "excerpt": "AssetPlus Asset Management के संस्थापक कांग बांग-चुन ने Maeil Business Plus की श्रृंखला के तीसरे भाग में AI लाभार्थियों और बाजार दृष्टि पर बात की।",
+        "body": "AssetPlus Asset Management के संस्थापक कांग बांग-चुन ने Maeil Business Plus की “कोरिया के महान निवेशक” श्रृंखला के तीसरे भाग में AI युग को लेकर अपना निवेश दृष्टिकोण रखा। कोरियाई निवेश उद्योग की जीवित किंवदंती के रूप में प्रस्तुत कांग ने इस बाजार आकलन में कहा कि AI के वास्तविक लाभार्थी केवल सेमीकंडक्टर तक सीमित नहीं हो सकते। मूल लेख में उन्हें श्रृंखला का पहला प्रमुख व्यक्तित्व बताया गया है और AI से जुड़े उद्योगों पर एक निवेशक की व्याख्या तथा बाजार निर्णय पर ध्यान दिया गया है। हालांकि AI निवेश चर्चा के केंद्र में सेमीकंडक्टर हैं, कांग की टिप्पणी लाभ पाने वाले क्षेत्रों को व्यापक रूप से देखने का संकेत देती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pemenang AI Mungkin Ada di Luar Semikonduktor, Kata Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, pendiri AssetPlus Asset Management, memaparkan pandangan pasar dan penerima manfaat AI dalam bagian ketiga seri Maeil Business Plus.",
+        "body": "Kang Bang-chun, pendiri AssetPlus Asset Management, menyampaikan pandangan investasinya tentang era AI dalam bagian ketiga seri Maeil Business Plus “Investor Hebat Korea”. Diperkenalkan sebagai legenda hidup industri investasi Korea, ia menilai dalam diagnosis pasar ini bahwa penerima manfaat sesungguhnya dari AI mungkin tidak terbatas pada semikonduktor. Artikel asli menempatkan Kang sebagai tokoh pertama dalam seri tersebut dan berfokus pada interpretasinya terhadap industri terkait AI serta penilaian pasarnya. Meski semikonduktor berada di pusat perdebatan investasi AI, komentar Kang menunjukkan perlunya melihat sektor penerima manfaat secara lebih luas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "028c254220a0",
+    "slug": "고혈압당뇨-김과장-큰맘-먹고-시작한-러닝-응급실-갈-뻔한-사연-899626",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T19:51:25.185Z",
+    "updatedAt": "2026-05-14T19:51:25.185Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12047817",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12047817",
+    "titleFingerprint": "8409418e53b87be5840116580eb571f2dd1eb33d",
+    "dedupKeys": [
+      "028c254220a0f73aacfe0ddccc096e8916eb937d",
+      "8409418e53b87be5840116580eb571f2dd1eb33d",
+      "57d8df1774e39e58a10600d2204827f34baeab40"
+    ],
+    "imageUrl": "/images/articles/028c254220a0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고혈압·당뇨 있다면 러닝 전 몸 상태부터 확인해야 하는 이유",
+        "excerpt": "고혈압·당뇨를 가진 직장인이 큰맘 먹고 러닝을 시작하려는 사례를 통해, 달리기 전 자신의 몸 상태를 먼저 점검해야 하는 이유가 주목된다.",
+        "body": "고혈압과 당뇨가 있는 직장인 ‘김과장’이 큰맘 먹고 러닝을 시작하려다 응급실에 갈 뻔했다는 사례가 소개되며, 달리기 전 건강 상태 확인의 중요성이 강조되고 있다. 달리기를 한번 시작해볼까 하는 마음이 들었다면 가장 먼저 해야 할 일은 자신의 몸 상태를 점검하는 것이다. 평소 꾸준히 운동을 해왔고 특별한 이상이 없다면 접근이 비교적 수월할 수 있지만, 고혈압·당뇨처럼 기저 질환이 있거나 몸 상태가 불확실한 경우에는 무리한 시작을 피해야 한다. 러닝 인구가 늘수록 준비 없는 운동의 위험도 함께 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "High Blood Pressure or Diabetes? Check Your Health Before Running",
+        "excerpt": "A case involving an office worker with high blood pressure and diabetes highlights why people should check their physical condition before starting a running routine.",
+        "body": "The case of “Manager Kim,” an office worker with high blood pressure and diabetes who nearly ended up in the emergency room after deciding to start running, has underscored the importance of checking one’s health first. If someone feels ready to begin running, the first step should be to assess their current physical condition. Those who have exercised consistently and have no particular health issues may be able to approach running more easily. However, people with underlying conditions such as high blood pressure or diabetes, or those uncertain about their condition, should avoid starting too aggressively. As more people take up running, the risks of unprepared exercise are also drawing attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "高血圧・糖尿病があるならランニング前に体調確認が必要",
+        "excerpt": "高血圧と糖尿病を抱える会社員が思い切ってランニングを始めようとした事例から、走る前に体の状態を確認する重要性が注目されている。",
+        "body": "高血圧と糖尿病を抱える会社員「キム課長」が、思い切ってランニングを始めようとして救急室に行きかけたという事例が紹介され、走る前に健康状態を確認する重要性が強調されている。ランニングを一度始めてみようと思ったなら、最初にすべきことは自分の体の状態を点検することだ。普段から継続的に運動しており、特別な異常がなければ比較的始めやすい場合もある。しかし、高血圧・糖尿病のような基礎疾患がある人や体調に不安がある人は、無理な開始を避ける必要がある。ランニング人口が増えるほど、準備不足の運動リスクも注目されている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "有高血压或糖尿病？跑步前先确认身体状态",
+        "excerpt": "一名患有高血压和糖尿病的上班族准备开始跑步的案例显示，跑步前先检查自身身体状态为何十分重要。",
+        "body": "患有高血压和糖尿病的上班族“金科长”下定决心开始跑步，却差点去急诊室的案例被介绍后，跑步前确认健康状态的重要性受到强调。如果产生了开始跑步的想法，首先要做的就是检查自己的身体状态。平时持续运动且没有特殊异常的人，开始跑步可能相对容易。但如果有高血压、糖尿病等基础疾病，或对自身状态并不确定，就应避免一开始就过度运动。随着跑步人群增加，未做好准备就运动的风险也受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hipertensión o diabetes: revise su salud antes de empezar a correr",
+        "excerpt": "El caso de un trabajador con hipertensión y diabetes que decidió empezar a correr muestra por qué conviene revisar el estado físico antes de iniciar el hábito.",
+        "body": "El caso del “jefe Kim”, un trabajador con hipertensión y diabetes que casi terminó en urgencias tras decidir empezar a correr, subraya la importancia de revisar primero el estado de salud. Si alguien piensa en comenzar a correr, lo primero que debe hacer es comprobar su condición física. Quienes han hecho ejercicio de forma constante y no presentan problemas especiales pueden acercarse a la carrera con relativa facilidad. Sin embargo, quienes tienen enfermedades de base como hipertensión o diabetes, o no están seguros de su estado, deben evitar empezar con exceso. A medida que aumenta el número de corredores, también crece la atención sobre los riesgos de hacer ejercicio sin preparación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hipertensão ou diabetes? Verifique a saúde antes de começar a correr",
+        "excerpt": "O caso de um trabalhador com hipertensão e diabetes que decidiu iniciar a corrida mostra por que é essencial checar a condição física antes de correr.",
+        "body": "O caso do “gerente Kim”, um trabalhador com hipertensão e diabetes que quase foi parar no pronto-socorro depois de decidir começar a correr, reforça a importância de verificar a saúde antes de tudo. Se a pessoa pensa em iniciar a corrida, a primeira medida deve ser avaliar sua condição física. Quem já praticava exercícios regularmente e não apresenta alterações especiais pode ter mais facilidade para começar. No entanto, pessoas com doenças de base, como hipertensão ou diabetes, ou que não têm certeza sobre seu estado, devem evitar um início forçado. Com o aumento do número de praticantes de corrida, os riscos do exercício sem preparo também chamam atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Bluthochdruck oder Diabetes? Vor dem Laufen zuerst den Körper prüfen",
+        "excerpt": "Der Fall eines Büroangestellten mit Bluthochdruck und Diabetes zeigt, warum der eigene Gesundheitszustand vor dem Einstieg ins Laufen geprüft werden sollte.",
+        "body": "Der Fall von „Abteilungsleiter Kim“, einem Büroangestellten mit Bluthochdruck und Diabetes, der nach dem Entschluss, mit dem Laufen zu beginnen, beinahe in der Notaufnahme gelandet wäre, macht die Bedeutung eines Gesundheitschecks deutlich. Wer mit dem Laufen anfangen möchte, sollte zuerst den eigenen körperlichen Zustand prüfen. Wer regelmäßig Sport getrieben hat und keine besonderen Auffälligkeiten hat, kann den Einstieg vergleichsweise leichter angehen. Menschen mit Grunderkrankungen wie Bluthochdruck oder Diabetes oder mit unklarer Verfassung sollten jedoch einen überstürzten Beginn vermeiden. Mit der wachsenden Zahl der Läufer rücken auch die Risiken unvorbereiteten Trainings stärker in den Blick. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hypertension ou diabète : vérifier sa santé avant de courir",
+        "excerpt": "Le cas d’un salarié souffrant d’hypertension et de diabète rappelle pourquoi il faut évaluer son état physique avant de se lancer dans la course.",
+        "body": "Le cas de « M. Kim », salarié souffrant d’hypertension et de diabète qui a failli finir aux urgences après avoir décidé de se mettre à la course, souligne l’importance de vérifier d’abord son état de santé. Lorsqu’on envisage de commencer à courir, la première chose à faire est d’évaluer sa condition physique. Les personnes qui faisaient déjà régulièrement de l’exercice et ne présentent pas d’anomalie particulière peuvent aborder la course plus facilement. En revanche, celles qui ont des maladies sous-jacentes comme l’hypertension ou le diabète, ou dont l’état est incertain, doivent éviter de commencer de manière excessive. Avec l’essor de la course, les risques liés à une pratique non préparée attirent aussi l’attention. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع الضغط أو السكري؟ افحص حالتك الصحية قبل بدء الجري",
+        "excerpt": "تسلط حالة موظف يعاني ارتفاع ضغط الدم والسكري وقرر بدء الجري الضوء على ضرورة التحقق من الحالة الجسدية قبل ممارسة الركض.",
+        "body": "أبرزت حالة “المدير كيم”، وهو موظف يعاني ارتفاع ضغط الدم والسكري وكاد ينتهي به الأمر في غرفة الطوارئ بعد أن قرر بدء الجري، أهمية فحص الحالة الصحية أولا. إذا راود الشخص شعور بأنه يريد تجربة الجري، فإن أول ما ينبغي فعله هو تقييم حالته الجسدية. من اعتاد ممارسة الرياضة بانتظام ولا يعاني مشكلة خاصة قد يكون دخوله إلى الجري أسهل نسبيا. لكن من لديه أمراض كامنة مثل ارتفاع ضغط الدم أو السكري، أو من لا يعرف وضعه الصحي بدقة، عليه تجنب البداية المفرطة. ومع ازدياد عدد ممارسي الجري، تزداد أيضا أهمية الانتباه إلى مخاطر الرياضة من دون استعداد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हाई ब्लड प्रेशर या डायबिटीज है? दौड़ने से पहले सेहत जांचें",
+        "excerpt": "हाई ब्लड प्रेशर और डायबिटीज वाले एक कर्मचारी के दौड़ना शुरू करने के मामले से पता चलता है कि रनिंग से पहले शरीर की स्थिति जांचना क्यों जरूरी है।",
+        "body": "हाई ब्लड प्रेशर और डायबिटीज से पीड़ित कार्यालय कर्मचारी “मैनेजर किम” ने मन बनाकर दौड़ना शुरू करना चाहा, लेकिन वे लगभग आपातकालीन कक्ष पहुंचने की स्थिति में आ गए। इस मामले ने दौड़ने से पहले स्वास्थ्य स्थिति जांचने की जरूरत को रेखांकित किया है। यदि किसी को दौड़ना शुरू करने का विचार आए, तो पहला कदम अपने शरीर की स्थिति की जांच होना चाहिए। जो लोग नियमित रूप से व्यायाम करते रहे हैं और जिन्हें कोई विशेष समस्या नहीं है, उनके लिए शुरुआत अपेक्षाकृत आसान हो सकती है। लेकिन हाई ब्लड प्रेशर या डायबिटीज जैसी आधारभूत बीमारियों वाले लोगों, या अपनी स्थिति को लेकर अनिश्चित लोगों को जल्दबाजी और अधिक जोर से शुरुआत करने से बचना चाहिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hipertensi atau Diabetes? Cek Kondisi Tubuh Sebelum Mulai Lari",
+        "excerpt": "Kasus pekerja dengan hipertensi dan diabetes yang ingin mulai berlari menunjukkan mengapa kondisi tubuh perlu diperiksa sebelum memulai rutinitas lari.",
+        "body": "Kasus “Manajer Kim”, pekerja kantoran dengan hipertensi dan diabetes yang hampir pergi ke ruang gawat darurat setelah memutuskan mulai berlari, menegaskan pentingnya memeriksa kondisi kesehatan lebih dulu. Jika seseorang mulai terpikir untuk mencoba lari, hal pertama yang perlu dilakukan adalah mengecek kondisi tubuh sendiri. Mereka yang selama ini rutin berolahraga dan tidak memiliki kelainan khusus mungkin dapat memulai dengan lebih mudah. Namun, orang dengan penyakit dasar seperti hipertensi atau diabetes, atau yang belum yakin dengan kondisi tubuhnya, perlu menghindari awal yang terlalu memaksakan. Seiring bertambahnya peminat lari, risiko olahraga tanpa persiapan juga ikut menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "ce5ecae9129c",
     "slug": "삼전닉스-셔세권-반도체-하이퍼사이클-누릴-부동산은-206672",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electronics Kirim Surat Resmi Usulkan Dialog Langsung ke Serikat",
         "excerpt": "Samsung Electronics mengirim surat resmi kepada serikat pekerja untuk mengusulkan dialog langsung, memicu perhatian pada peluang komunikasi tenaga kerja.",
         "body": "Samsung Electronics mengirim surat resmi kepada serikat pekerja untuk mengusulkan dialog langsung. Menurut laporan, perusahaan menyampaikan kesediaannya untuk berdialog melalui dokumen resmi yang dikirim kepada pihak serikat. Informasi yang tersedia dalam teks asli terbatas pada fakta bahwa Samsung Electronics mengusulkan “dialog langsung” dan mengirim surat resmi kepada serikat pekerja. Langkah ini menjadi perhatian sebagai penanda komunikasi formal antara Samsung Electronics dan serikat serta kemungkinan berlanjutnya pembicaraan. Namun, isi spesifik surat, waktu pengiriman, tanggapan serikat, dan agenda pembahasan tidak dijelaskan dalam laporan asli. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8bae65aff829",
-    "slug": "반도체-아직-시작-단계증권가-역대급-주가에도-삼전닉스-목표가-또-올린다-651083",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T02:04:54.434Z",
-    "updatedAt": "2026-05-14T02:04:54.434Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12047362",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12047362",
-    "titleFingerprint": "e0bdc4ef6e193e4ea79eef2009cd209afb0259e5",
-    "dedupKeys": [
-      "8bae65aff8290b8ae798d76bac203cfa4417832b",
-      "e0bdc4ef6e193e4ea79eef2009cd209afb0259e5",
-      "b7d6d39eea3fb80b7b24ccc0ede9116dea880c23"
-    ],
-    "imageUrl": "/images/articles/8bae65aff829.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 랠리 초기 진단에 삼성전자·SK하이닉스 목표가 또 상향",
-        "excerpt": "13일 증권가가 반도체 업황이 아직 시작 단계라는 판단 속에 삼성전자와 SK하이닉스 목표주가를 잇따라 올리며 투자자 관심이 커지고 있다.",
-        "body": "13일 한국거래소에 따르면 삼성전자는 이날 오전 전일 대비 5% 이상 오르며 강세를 보였다. 증권가에서는 ‘반도체 랠리가 아직 시작 단계’라는 평가와 함께 삼성전자와 SK하이닉스의 목표주가를 잇따라 상향하고 있다. 일부 전망에서는 삼성전자 50만원, SK하이닉스 300만원 가능성도 거론됐다. 역대급 주가 수준에도 목표가가 다시 올라가면서 반도체 대형주에 대한 시장 관심은 계속 커지는 분위기다. 다만 기사에서 확인된 내용은 증권가의 목표주가 상향과 당일 주가 흐름에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics and SK Hynix Targets Rise as Chip Rally Seen Early",
-        "excerpt": "On the 13th, brokerages raised target prices for Samsung Electronics and SK Hynix, citing a view that the semiconductor upcycle remains in its early stage.",
-        "body": "According to the Korea Exchange on the 13th, Samsung Electronics rose more than 5% from the previous day in morning trading. Brokerages are drawing attention as they continue to raise target prices for Samsung Electronics and SK Hynix, with the view that the semiconductor rally is still in its early stage. Some forecasts mentioned the possibility of Samsung Electronics reaching 500,000 won and SK Hynix 3 million won. Even with shares already at record levels, higher targets are keeping investor focus on major chip stocks. The confirmed details are limited to brokerage target increases and the day’s share-price movement. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "半導体相場は初期段階、サムスン電子・SKハイニックス目標株価上げ",
-        "excerpt": "13日、証券街は半導体市況がまだ始まった段階との見方から、サムスン電子とSKハイニックスの目標株価を相次ぎ引き上げた。",
-        "body": "韓国取引所によると、13日午前、サムスン電子は前日比で5%以上上昇し強い動きを見せた。証券街では「半導体ラリーはまだ初期段階」との評価とともに、サムスン電子とSKハイニックスの目標株価を相次いで引き上げている。一部ではサムスン電子50万ウォン、SKハイニックス300万ウォンの可能性も言及された。過去最高水準の株価にもかかわらず目標株価が再び上がり、大型半導体株への市場の関心は続いている。ただし、確認された内容は目標株価の引き上げと当日の株価動向に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "半导体行情仍在初期，三星电子与SK海力士目标价再上调",
-        "excerpt": "13日，券商认为半导体行情仍处于起步阶段，接连上调三星电子和SK海力士目标股价，引发市场关注。",
-        "body": "据韩国交易所13日消息，三星电子当天上午较前一交易日上涨超过5%，表现强劲。券商界认为“半导体行情仍处于起步阶段”，并接连上调三星电子和SK海力士的目标股价。部分预测还提到三星电子50万韩元、SK海力士300万韩元的可能性。即便股价已处于历史高位，目标价再次上调仍使市场对大型半导体股的关注持续升温。不过，报道中确认的信息仅限于券商上调目标价以及当天股价走势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Electronics y SK Hynix elevan objetivos por rally inicial de chips",
-        "excerpt": "El día 13, las casas de bolsa elevaron los precios objetivo de Samsung Electronics y SK Hynix al considerar que el ciclo de semiconductores aún empieza.",
-        "body": "Según la Bolsa de Corea, el día 13 Samsung Electronics subió más de un 5% frente a la sesión anterior durante la mañana. En el mercado bursátil, las firmas siguen elevando los precios objetivo de Samsung Electronics y SK Hynix bajo la evaluación de que el rally de semiconductores aún está en una etapa inicial. Algunas previsiones mencionaron la posibilidad de Samsung Electronics en 500.000 wones y SK Hynix en 3 millones de wones. Aunque las acciones ya están en niveles récord, las nuevas alzas de objetivos mantienen el interés del mercado en los grandes valores de chips. La información confirmada se limita a esos ajustes y al movimiento bursátil del día. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Electronics e SK Hynix têm novas metas com chips ainda no início",
-        "excerpt": "No dia 13, corretoras elevaram os preços-alvo de Samsung Electronics e SK Hynix ao avaliar que o ciclo de semicondutores ainda está em fase inicial.",
-        "body": "Segundo a Bolsa da Coreia, no dia 13 a Samsung Electronics subiu mais de 5% em relação ao dia anterior durante a manhã. No mercado financeiro, corretoras vêm elevando sucessivamente os preços-alvo de Samsung Electronics e SK Hynix, com a avaliação de que a alta dos semicondutores ainda está em estágio inicial. Algumas projeções mencionaram Samsung Electronics a 500.000 won e SK Hynix a 3 milhões de won. Mesmo com as ações em níveis recordes, novas altas nas metas mantêm a atenção do mercado sobre as grandes empresas de chips. As informações confirmadas se limitam aos ajustes de preço-alvo e ao movimento das ações no dia. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Electronics und SK Hynix: Kursziele steigen trotz Rekordniveau",
-        "excerpt": "Am 13. hoben Analysten die Kursziele für Samsung Electronics und SK Hynix erneut an, da sie den Halbleiteraufschwung noch in einer frühen Phase sehen.",
-        "body": "Nach Angaben der Korea Exchange legte Samsung Electronics am Vormittag des 13. gegenüber dem Vortag um mehr als 5% zu. In der Finanzbranche werden die Kursziele für Samsung Electronics und SK Hynix weiter angehoben, begleitet von der Einschätzung, dass die Halbleiterrally noch in einer frühen Phase sei. Einige Prognosen nannten auch die Möglichkeit von 500.000 Won für Samsung Electronics und 3 Millionen Won für SK Hynix. Trotz bereits rekordhoher Aktienkurse lenken die höheren Ziele weiter Aufmerksamkeit auf große Chipwerte. Bestätigt sind im Artikel nur die Zielpreisanhebungen und die Kursbewegung des Tages. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics et SK Hynix voient leurs objectifs relevés avec les puces",
-        "excerpt": "Le 13, des courtiers ont relevé les objectifs de Samsung Electronics et SK Hynix, jugeant que la phase haussière des semi-conducteurs ne fait que commencer.",
-        "body": "Selon la Bourse de Corée, Samsung Electronics a progressé de plus de 5% par rapport à la veille dans la matinée du 13. Les maisons de courtage relèvent successivement les objectifs de cours de Samsung Electronics et SK Hynix, avec l’idée que le rally des semi-conducteurs reste à un stade initial. Certaines prévisions ont évoqué Samsung Electronics à 500.000 wons et SK Hynix à 3 millions de wons. Malgré des cours déjà à des niveaux record, ces nouveaux relèvements maintiennent l’attention du marché sur les grandes valeurs des puces. Les informations confirmées se limitent aux relèvements d’objectifs et au mouvement du jour. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رفع أهداف سامسونغ إلكترونيكس وSK هاينكس مع اعتبار موجة الرقائق في بدايتها",
-        "excerpt": "في 13 من الشهر، رفعت شركات وساطة أهداف سامسونغ إلكترونيكس وSK هاينكس مع تقييم بأن دورة أشباه الموصلات لا تزال في مرحلة مبكرة.",
-        "body": "بحسب بورصة كوريا في 13 من الشهر، ارتفع سهم سامسونغ إلكترونيكس صباح ذلك اليوم بأكثر من 5% مقارنة باليوم السابق. وتواصل شركات الوساطة رفع الأسعار المستهدفة لسهمي سامسونغ إلكترونيكس وSK هاينكس، مع تقييم مفاده أن موجة أشباه الموصلات ما زالت في بدايتها. وذكرت بعض التوقعات احتمال وصول سامسونغ إلكترونيكس إلى 500 ألف وون وSK هاينكس إلى 3 ملايين وون. ورغم أن الأسعار عند مستويات قياسية، فإن رفع الأهداف مجددا يبقي اهتمام السوق منصبا على أسهم الرقائق الكبرى. تقتصر المعلومات المؤكدة على رفع الأهداف وحركة السهم في ذلك اليوم. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चिप रैली शुरुआती चरण में, Samsung Electronics और SK Hynix लक्ष्य फिर बढ़े",
-        "excerpt": "13 तारीख को ब्रोकरेज ने सेमीकंडक्टर चक्र को अभी शुरुआती चरण में मानते हुए Samsung Electronics और SK Hynix के लक्ष्य मूल्य फिर बढ़ाए।",
-        "body": "कोरिया एक्सचेंज के अनुसार, 13 तारीख की सुबह Samsung Electronics पिछले दिन की तुलना में 5% से अधिक चढ़ा। ब्रोकरेज जगत में यह आकलन सामने आया कि सेमीकंडक्टर रैली अभी शुरुआती चरण में है, और इसी के साथ Samsung Electronics तथा SK Hynix के लक्ष्य मूल्य लगातार बढ़ाए जा रहे हैं। कुछ अनुमानों में Samsung Electronics के लिए 500,000 वॉन और SK Hynix के लिए 3 मिलियन वॉन की संभावना भी बताई गई। रिकॉर्ड स्तर के शेयर भाव के बावजूद लक्ष्य फिर ऊपर जाने से बड़े चिप शेयरों पर बाजार की नजर बनी हुई है। पुष्टि की गई जानकारी लक्ष्य मूल्य वृद्धि और उस दिन के शेयर उतार-चढ़ाव तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Target Samsung Electronics dan SK Hynix Naik karena Reli Chip Masih Awal",
-        "excerpt": "Pada tanggal 13, sekuritas menaikkan target harga Samsung Electronics dan SK Hynix karena menilai siklus semikonduktor masih berada di tahap awal.",
-        "body": "Menurut Bursa Korea pada tanggal 13, Samsung Electronics naik lebih dari 5% dibandingkan hari sebelumnya pada perdagangan pagi. Kalangan sekuritas terus menaikkan target harga Samsung Electronics dan SK Hynix dengan penilaian bahwa reli semikonduktor masih berada di tahap awal. Beberapa proyeksi juga menyebut kemungkinan Samsung Electronics mencapai 500.000 won dan SK Hynix 3 juta won. Meski harga saham sudah berada di level rekor, kenaikan target kembali membuat perhatian pasar terhadap saham chip besar tetap kuat. Informasi yang terkonfirmasi terbatas pada kenaikan target harga dan pergerakan saham hari itu. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d34b45a3be2e",
-    "slug": "닷컴버블-붕괴-후-최고-과매수반도체-과열신호에도-낙관론-여전한-이유-473020",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T02:04:02.362Z",
-    "updatedAt": "2026-05-14T02:04:02.362Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047363",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047363",
-    "titleFingerprint": "0e50dbde6d56066cb28b5670b0687b46368db884",
-    "dedupKeys": [
-      "d34b45a3be2e55ef0458a7e6a25e6f37900f66d4",
-      "0e50dbde6d56066cb28b5670b0687b46368db884",
-      "833c590b79e69b5c0ecfb2cec0f89848e64da109"
-    ],
-    "imageUrl": "/images/articles/d34b45a3be2e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체주 닷컴버블 후 최고 과매수 신호에도 낙관론 지속",
-        "excerpt": "로이터는 13일 미국 반도체 주식이 닷컴버블 붕괴 이후 가장 높은 과매수 국면에 들어섰다는 신호가 나타났다고 보도했다.",
-        "body": "로이터통신은 13일(현지시간) 미국 반도체 주식이 닷컴버블 붕괴 이후 최고 수준의 과매수 국면에 접어들고 있다는 신호들이 나타나고 있다고 보도했다. 보도에 따르면 필라델피아 반도체 지수(SOX) 흐름도 반도체 업종의 과열 논란과 맞물려 시장의 주목을 받고 있다. 반도체주는 인공지능 관련 기대와 업종 강세 속에서 투자심리가 이어지고 있지만, 과매수 신호가 커지면서 단기 변동성 우려도 함께 제기된다. 시장은 과열 경고에도 낙관론이 유지되는 배경과 SOX 지수 흐름을 주시하고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Chip Stocks Flash Strongest Overbought Signal Since Dot-Com Bust",
-        "excerpt": "Reuters reported on May 13 that U.S. semiconductor stocks are showing signs of entering their most overbought phase since the dot-com bubble burst.",
-        "body": "Reuters reported on May 13 local time that U.S. semiconductor stocks are showing signs of entering their most overbought phase since the collapse of the dot-com bubble. According to the report, the Philadelphia Semiconductor Index, or SOX, is also drawing market attention as concerns grow over overheating in the chip sector. Semiconductor shares continue to benefit from investor sentiment tied to artificial intelligence expectations and sector strength, but rising overbought signals are also raising concerns about short-term volatility. Markets are watching why optimism remains in place despite overheating warnings and how the SOX index moves next. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "半導体株、ドットコム崩壊後最高の買われ過ぎでも楽観続く",
-        "excerpt": "ロイターは13日、米半導体株がドットコムバブル崩壊後で最も強い買われ過ぎ局面に入る兆候が出ていると報じた。",
-        "body": "ロイター通信は13日現地時間、米国の半導体株がドットコムバブル崩壊後で最高水準の買われ過ぎ局面に入りつつある兆候が出ていると報じた。報道によると、フィラデルフィア半導体株指数（SOX）の動きも、半導体業種の過熱論と重なり市場の注目を集めている。半導体株は人工知能関連の期待と業種の強さを背景に投資心理が続いている一方、買われ過ぎシグナルの高まりで短期的な変動性への懸念も出ている。市場は過熱警戒にもかかわらず楽観論が維持される背景とSOX指数の推移を注視している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "半导体股现互联网泡沫后最强超买信号，乐观情绪仍在",
-        "excerpt": "路透社13日报道称，美国半导体股票正出现进入互联网泡沫破裂以来最高超买阶段的信号。",
-        "body": "路透社当地时间13日报道称，美国半导体股票正出现进入互联网泡沫破裂以来最高水平超买阶段的信号。报道称，费城半导体指数（SOX）的走势也因与半导体行业过热争议相互交织而受到市场关注。半导体股在人工智能相关预期和行业强势推动下，投资情绪仍在延续；但随着超买信号增强，短期波动性担忧也随之出现。市场正在关注，在过热警告之下乐观论为何仍能维持，以及SOX指数接下来的走势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Chips muestran mayor sobrecompra desde la burbuja puntocom",
-        "excerpt": "Reuters informó el día 13 que las acciones estadounidenses de semiconductores muestran señales de entrar en su fase más sobrecomprada desde el estallido puntocom.",
-        "body": "Reuters informó el 13, hora local, que las acciones estadounidenses de semiconductores muestran señales de entrar en su nivel de sobrecompra más alto desde el colapso de la burbuja puntocom. Según el reporte, la evolución del índice de semiconductores de Filadelfia, SOX, también atrae la atención del mercado en medio del debate sobre el sobrecalentamiento del sector. Las acciones de chips mantienen el ánimo inversor por las expectativas ligadas a la inteligencia artificial y la fortaleza del sector, pero el aumento de señales de sobrecompra también plantea temores de volatilidad a corto plazo. El mercado observa por qué persiste el optimismo pese a las alertas y cómo se moverá el SOX. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Chips têm maior sinal de sobrecompra desde bolha pontocom",
-        "excerpt": "A Reuters informou no dia 13 que ações de semicondutores dos EUA mostram sinais de entrar na fase mais sobrecomprada desde o estouro da bolha pontocom.",
-        "body": "A Reuters informou em 13 de maio, no horário local, que as ações de semicondutores dos Estados Unidos mostram sinais de entrar no nível de sobrecompra mais alto desde o colapso da bolha pontocom. Segundo a reportagem, o movimento do Índice de Semicondutores da Filadélfia, SOX, também chama atenção do mercado em meio ao debate sobre superaquecimento do setor. As ações de chips seguem sustentadas por expectativas ligadas à inteligência artificial e pela força do setor, mas o avanço dos sinais de sobrecompra aumenta preocupações com volatilidade de curto prazo. O mercado acompanha por que o otimismo persiste apesar dos alertas e o rumo do SOX. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Chipaktien mit stärkstem Überkauft-Signal seit Dotcom-Crash",
-        "excerpt": "Reuters berichtete am 13. Mai, dass US-Halbleiteraktien Anzeichen für die stärkste überkaufte Phase seit dem Platzen der Dotcom-Blase zeigen.",
-        "body": "Reuters berichtete am 13. Mai Ortszeit, dass US-Halbleiteraktien Anzeichen dafür zeigen, in die am stärksten überkaufte Phase seit dem Zusammenbruch der Dotcom-Blase einzutreten. Dem Bericht zufolge steht auch die Entwicklung des Philadelphia Semiconductor Index, SOX, im Fokus, da sie mit der Debatte über eine Überhitzung des Sektors verknüpft ist. Chipaktien werden weiter von Erwartungen rund um künstliche Intelligenz und der Stärke der Branche gestützt, doch zunehmende Überkauft-Signale wecken zugleich Sorgen vor kurzfristiger Volatilität. Der Markt beobachtet, warum der Optimismus trotz Warnsignalen anhält und wie sich der SOX entwickelt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les puces au plus fort signal de surachat depuis la bulle internet",
-        "excerpt": "Reuters a rapporté le 13 mai que les actions américaines des semi-conducteurs montrent des signes d’un surachat inédit depuis l’éclatement de la bulle internet.",
-        "body": "Reuters a rapporté le 13 mai, heure locale, que les actions américaines des semi-conducteurs montrent des signes d’entrée dans leur phase de surachat la plus élevée depuis l’effondrement de la bulle internet. Selon l’agence, l’évolution de l’indice Philadelphia Semiconductor, ou SOX, attire aussi l’attention du marché dans le débat sur la surchauffe du secteur. Les valeurs des puces restent soutenues par les attentes liées à l’intelligence artificielle et par la vigueur du secteur, mais la montée des signaux de surachat alimente aussi les craintes de volatilité à court terme. Les marchés surveillent pourquoi l’optimisme persiste malgré les alertes et la trajectoire du SOX. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسهم الرقائق تسجل أقوى إشارة تشبع شراء منذ فقاعة الدوت كوم",
-        "excerpt": "أفادت رويترز في 13 مايو بأن أسهم أشباه الموصلات الأميركية تظهر مؤشرات دخول أعلى مرحلة تشبع شراء منذ انهيار فقاعة الدوت كوم.",
-        "body": "أفادت رويترز في 13 مايو بالتوقيت المحلي بأن أسهم أشباه الموصلات الأميركية تظهر مؤشرات على دخول أعلى مستوى من التشبع الشرائي منذ انهيار فقاعة الدوت كوم. وبحسب التقرير، يجذب مسار مؤشر فيلادلفيا لأشباه الموصلات، SOX، اهتمام السوق مع تصاعد الجدل بشأن سخونة القطاع. وتواصل أسهم الرقائق الاستفادة من توقعات مرتبطة بالذكاء الاصطناعي وقوة القطاع، لكن ارتفاع إشارات التشبع الشرائي يثير أيضا مخاوف من تقلبات قصيرة الأجل. ويراقب السوق أسباب بقاء التفاؤل رغم تحذيرات السخونة، إضافة إلى تحركات مؤشر SOX المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चिप शेयरों में डॉटकॉम संकट के बाद सबसे बड़ा ओवरबॉट संकेत",
-        "excerpt": "रॉयटर्स ने 13 मई को बताया कि अमेरिकी सेमीकंडक्टर शेयर डॉटकॉम बुलबुले के फूटने के बाद सबसे अधिक ओवरबॉट चरण में प्रवेश के संकेत दिखा रहे हैं।",
-        "body": "रॉयटर्स ने 13 मई, स्थानीय समय, को बताया कि अमेरिकी सेमीकंडक्टर शेयर डॉटकॉम बुलबुले के ढहने के बाद सबसे ऊंचे ओवरबॉट स्तर में प्रवेश करने के संकेत दिखा रहे हैं। रिपोर्ट के अनुसार, फिलाडेल्फिया सेमीकंडक्टर इंडेक्स, SOX, की चाल भी चिप क्षेत्र में अधिक गर्मी की बहस के बीच बाजार का ध्यान खींच रही है। सेमीकंडक्टर शेयर कृत्रिम बुद्धिमत्ता से जुड़ी उम्मीदों और क्षेत्र की मजबूती से निवेश भावना बनाए हुए हैं, लेकिन ओवरबॉट संकेत बढ़ने से अल्पकालिक उतार-चढ़ाव की चिंता भी उठ रही है। बाजार देख रहा है कि चेतावनियों के बावजूद आशावाद क्यों बना है और SOX आगे कैसे चलता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Chip Catat Sinyal Overbought Tertinggi Sejak Dot-Com",
-        "excerpt": "Reuters melaporkan pada 13 Mei bahwa saham semikonduktor AS menunjukkan tanda memasuki fase overbought tertinggi sejak gelembung dot-com pecah.",
-        "body": "Reuters melaporkan pada 13 Mei waktu setempat bahwa saham semikonduktor Amerika Serikat menunjukkan tanda-tanda memasuki fase overbought tertinggi sejak runtuhnya gelembung dot-com. Menurut laporan itu, pergerakan Philadelphia Semiconductor Index, atau SOX, juga menjadi perhatian pasar di tengah perdebatan soal panasnya sektor semikonduktor. Saham chip masih didukung sentimen investor terkait ekspektasi kecerdasan buatan dan kekuatan sektor, tetapi meningkatnya sinyal overbought turut memunculkan kekhawatiran volatilitas jangka pendek. Pasar mencermati mengapa optimisme tetap bertahan meski ada peringatan overheating serta arah SOX berikutnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1373b74bec8e",
-    "slug": "안전-강화-주력한국남부발전-부산빛드림본부-화재-피해복구-대책본부-가동-547464",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T02:03:07.997Z",
-    "updatedAt": "2026-05-14T02:03:07.997Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047369",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047369",
-    "titleFingerprint": "ba6f67942e9daf42becf32826c3a573d11a5eaa8",
-    "dedupKeys": [
-      "1373b74bec8ef640508eee687835d1d372bd2bd1",
-      "ba6f67942e9daf42becf32826c3a573d11a5eaa8",
-      "d6abbf9e3baee955e6f3a67adc8da1d8b31cf1b6"
-    ],
-    "imageUrl": "/images/articles/1373b74bec8e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국남부발전 부산빛드림본부 화재 복구 대책본부 가동, 안전 강화 총력",
-        "excerpt": "한국남부발전은 최근 발생한 부산빛드림본부 화재 사고와 관련해 피해복구 대책본부를 가동하고 신속한 복구와 철저한 조사, 재발 방지에 나선다.",
-        "body": "한국남부발전은 최근 발생한 부산빛드림본부 화재 사고의 신속한 복구를 위해 ‘화재 피해복구 대책본부’를 가동한다고 밝혔다. 이번 대책본부는 부산빛드림본부 현장의 피해 상황을 체계적으로 점검하고 복구 절차를 신속히 추진하기 위한 대응 체계다. 남부발전은 사고 원인에 대한 철저한 조사와 함께 안전 강화에 주력해 유사 사고가 다시 발생하지 않도록 총력을 기울인다는 방침이다. 화재 이후 복구와 조사, 재발 방지 대책이 병행되면서 발전 현장의 안전 관리 수준에도 관심이 모인다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "KOSPO Activates Fire Recovery Task Force at Busan Bitdream Headquarters",
-        "excerpt": "Korea Southern Power has launched a damage recovery task force after a recent fire at its Busan Bitdream headquarters to speed restoration, investigate causes and prevent recurrence.",
-        "body": "Korea Southern Power said it will operate a “Fire Damage Recovery Task Force” to respond to the recent fire at its Busan Bitdream headquarters. The task force is intended to systematically assess damage at the site and move restoration procedures forward quickly. The company said it will focus on a thorough investigation into the cause of the accident and on stronger safety measures to prevent a similar incident from recurring. As recovery, investigation and recurrence-prevention measures proceed together, attention is turning to safety management at the power generation site. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "韓国南部発電、釜山ビットドリーム本部火災で復旧対策本部を稼働",
-        "excerpt": "韓国南部発電は、最近発生した釜山ビットドリーム本部の火災を受け、被害復旧対策本部を稼働し、迅速な復旧と徹底調査、再発防止に取り組む。",
-        "body": "韓国南部発電は、最近発生した釜山ビットドリーム本部の火災事故を迅速に復旧するため、「火災被害復旧対策本部」を稼働すると明らかにした。今回の対策本部は、現場の被害状況を体系的に点検し、復旧手続きを速やかに進めるための対応体制だ。同社は事故原因を徹底的に調査するとともに、安全強化に注力し、同様の事故が再び起きないよう全力を挙げる方針だ。火災後の復旧、調査、再発防止策が並行して進む中、発電現場の安全管理にも関心が集まっている。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "韩国南部发电启动釜山Bitdream总部火灾恢复对策本部",
-        "excerpt": "韩国南部发电针对近期釜山Bitdream总部火灾事故，启动损失恢复对策本部，推进快速恢复、彻底调查和防止事故再发。",
-        "body": "韩国南部发电表示，将为近期发生的釜山Bitdream总部火灾事故启动“火灾损失恢复对策本部”，以推进快速恢复。该对策本部旨在系统检查现场受损情况，并迅速推进恢复程序。公司表示，将彻底调查事故原因，同时把重点放在强化安全上，尽全力防止类似事故再次发生。随着火灾后的恢复、调查和防止再发措施同步推进，发电现场的安全管理水平也受到关注。消息来源为mk.co.kr。"
-      },
-      "es": {
-        "title": "KOSPO activa comité de recuperación por incendio en Busan Bitdream",
-        "excerpt": "Korea Southern Power activó un comité de recuperación tras el reciente incendio en Busan Bitdream para acelerar la restauración, investigar causas y evitar recurrencias.",
-        "body": "Korea Southern Power anunció que pondrá en marcha un “Comité de Recuperación por Daños de Incendio” para responder al reciente accidente ocurrido en su sede Busan Bitdream. El comité busca revisar de forma sistemática los daños en el lugar y acelerar los procedimientos de restauración. La empresa señaló que realizará una investigación exhaustiva sobre la causa del accidente y reforzará las medidas de seguridad para impedir que se repita un incidente similar. Mientras avanzan en paralelo la recuperación, la investigación y las medidas de prevención, aumenta la atención sobre la gestión de seguridad en la planta. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPO ativa força-tarefa para recuperar incêndio na Busan Bitdream",
-        "excerpt": "A Korea Southern Power ativou uma força-tarefa após o recente incêndio na Busan Bitdream para acelerar a recuperação, investigar as causas e evitar recorrência.",
-        "body": "A Korea Southern Power informou que ativará uma “Força-Tarefa de Recuperação de Danos por Incêndio” para responder ao recente acidente na sede Busan Bitdream. A estrutura foi criada para verificar de forma sistemática os danos no local e avançar rapidamente com os procedimentos de recuperação. A empresa afirmou que fará uma investigação rigorosa sobre a causa do acidente e se concentrará no reforço da segurança para evitar que um caso semelhante volte a ocorrer. Com recuperação, investigação e medidas de prevenção caminhando juntas, cresce a atenção sobre a gestão de segurança na unidade de geração. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPO startet Taskforce nach Brand am Busan-Bitdream-Standort",
-        "excerpt": "Korea Southern Power hat nach dem jüngsten Brand am Busan-Bitdream-Standort eine Wiederherstellungs-Taskforce eingerichtet, um Schäden zu beheben, Ursachen zu prüfen und Wiederholungen zu verhindern.",
-        "body": "Korea Southern Power erklärte, für den jüngsten Brand am Busan-Bitdream-Standort eine „Taskforce zur Wiederherstellung nach Brandschäden“ zu betreiben. Die Einheit soll die Schäden vor Ort systematisch prüfen und die Wiederherstellungsverfahren zügig voranbringen. Das Unternehmen will die Unfallursache gründlich untersuchen und zugleich die Sicherheitsmaßnahmen verstärken, damit sich ein ähnlicher Vorfall nicht wiederholt. Während Wiederherstellung, Untersuchung und Maßnahmen zur Vermeidung weiterer Vorfälle parallel laufen, richtet sich der Blick auch auf das Sicherheitsmanagement am Kraftwerksstandort. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "KOSPO active une cellule de reprise après l’incendie de Busan Bitdream",
-        "excerpt": "Korea Southern Power a lancé une cellule de reprise après le récent incendie du site Busan Bitdream afin d’accélérer la restauration, d’enquêter et d’éviter une récidive.",
-        "body": "Korea Southern Power a annoncé l’activation d’une « cellule de reprise après dommages d’incendie » à la suite du récent accident survenu au siège Busan Bitdream. Cette cellule doit évaluer de manière systématique les dégâts sur le site et accélérer les procédures de restauration. L’entreprise indique qu’elle mènera une enquête approfondie sur la cause de l’accident tout en renforçant la sécurité afin d’éviter qu’un incident similaire ne se reproduise. Alors que la reprise, l’enquête et les mesures de prévention avancent en parallèle, la gestion de la sécurité sur le site de production retient l’attention. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "كوسبو تشغل مركز تعافٍ من حريق مقر بوسان بيت دريم لتعزيز السلامة",
-        "excerpt": "أطلقت كوريا ساوثرن باور مركزا للتعافي من أضرار الحريق بعد الحادث الأخير في مقر بوسان بيت دريم لتسريع الإصلاح والتحقيق ومنع تكرار الحوادث.",
-        "body": "أعلنت كوريا ساوثرن باور أنها ستشغل «مركزا للتعافي من أضرار الحريق» استجابة للحريق الأخير الذي وقع في مقر بوسان بيت دريم. ويهدف هذا المركز إلى فحص حجم الأضرار في الموقع بشكل منهجي ودفع إجراءات التعافي بسرعة. وقالت الشركة إنها ستجري تحقيقا دقيقا في سبب الحادث، مع التركيز على تعزيز السلامة لمنع وقوع حادث مماثل مرة أخرى. ومع تنفيذ أعمال التعافي والتحقيق وإجراءات منع التكرار في وقت واحد، يتجه الاهتمام إلى مستوى إدارة السلامة في موقع توليد الطاقة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPO ने Busan Bitdream आग के बाद रिकवरी टास्क फोर्स शुरू की",
-        "excerpt": "Korea Southern Power ने Busan Bitdream मुख्यालय में हालिया आग के बाद नुकसान की रिकवरी टास्क फोर्स शुरू की है, ताकि बहाली, जांच और पुनरावृत्ति रोकथाम तेज हो सके।",
-        "body": "Korea Southern Power ने कहा कि वह Busan Bitdream मुख्यालय में हाल ही में हुई आग की घटना के बाद “Fire Damage Recovery Task Force” संचालित करेगी। यह टास्क फोर्स स्थल पर हुए नुकसान की व्यवस्थित जांच करने और रिकवरी प्रक्रिया को तेजी से आगे बढ़ाने के लिए बनाई गई है। कंपनी ने कहा कि वह दुर्घटना के कारणों की गहन जांच करेगी और सुरक्षा मजबूत करने पर ध्यान देगी, ताकि इसी तरह की घटना दोबारा न हो। आग के बाद बहाली, जांच और पुनरावृत्ति रोकने के उपाय साथ-साथ आगे बढ़ रहे हैं, जिससे बिजली उत्पादन स्थल की सुरक्षा प्रबंधन व्यवस्था पर ध्यान बढ़ा है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KOSPO Bentuk Posko Pemulihan Kebakaran di Busan Bitdream Headquarters",
-        "excerpt": "Korea Southern Power mengoperasikan posko pemulihan setelah kebakaran terbaru di Busan Bitdream untuk mempercepat pemulihan, menyelidiki penyebab, dan mencegah kejadian berulang.",
-        "body": "Korea Southern Power menyatakan akan mengoperasikan “Posko Pemulihan Kerusakan Kebakaran” untuk menangani insiden kebakaran terbaru di Busan Bitdream Headquarters. Posko ini disiapkan untuk memeriksa kondisi kerusakan di lokasi secara sistematis dan mempercepat prosedur pemulihan. Perusahaan mengatakan akan melakukan penyelidikan menyeluruh atas penyebab kecelakaan sekaligus berfokus pada penguatan keselamatan agar insiden serupa tidak terulang. Saat pemulihan, investigasi, dan langkah pencegahan berjalan bersamaan, perhatian juga tertuju pada pengelolaan keselamatan di lokasi pembangkit. Sumber: mk.co.kr."
       }
     }
   }
