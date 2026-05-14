@@ -1,0 +1,75 @@
+{
+  "id": "f47d9c1ab7ce",
+  "slug": "알음알음-구독-대신-기업용-챗gpt로삼성lg-이어-sk도-파트너-430011",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-14T23:12:49.189Z",
+  "updatedAt": "2026-05-14T23:12:49.189Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/it/12048677",
+  "canonicalUrl": "https://www.mk.co.kr/news/it/12048677",
+  "titleFingerprint": "e36d612762185d960fc4312d42742db52df0b821",
+  "dedupKeys": [
+    "f47d9c1ab7ce97f9cf97cb136a1a704aae2ddcfc",
+    "e36d612762185d960fc4312d42742db52df0b821",
+    "26d3bd08665f2d1f65531a586f833dda1eeea337"
+  ],
+  "imageUrl": "/images/articles/f47d9c1ab7ce.jpg",
+  "i18n": {
+    "ko": {
+      "title": "기업용 챗GPT 시장 경쟁 본격화, 삼성·LG 이어 SK AX도 오픈AI 파트너 합류",
+      "excerpt": "삼성SDS와 LG CNS에 이어 SK AX가 오픈AI 파트너로 합류하며 챗GPT 엔터프라이즈 기반 보안·거버넌스 지원을 앞세운 국내 기업 AX 시장 경쟁이 본격화되고 있다.",
+      "body": "국내 기업용 챗GPT 시장 경쟁이 더 치열해지고 있다. 삼성SDS와 LG CNS에 이어 SK AX도 오픈AI 파트너로 합류하면서, 기업 고객을 대상으로 한 챗GPT 엔터프라이즈 도입 경쟁이 본격화되는 흐름이다. 이번 협력은 개별 직원들이 알음알음 구독해 쓰던 방식에서 벗어나 기업 차원의 보안과 거버넌스를 갖춘 생성형 AI 활용을 지원하는 데 초점이 맞춰졌다. 챗GPT 엔터프라이즈 기반 서비스는 기업 내부의 관리 체계와 보안 요구를 함께 다루는 방향으로 제시되고 있다. 삼성SDS·LG CNS·SK AX가 잇따라 오픈AI와 연결되면서 국내 AX 시장에서는 기업용 생성형 AI 플랫폼과 운영 지원 역량을 둘러싼 경쟁이 커질 전망이다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Enterprise ChatGPT Race Heats Up as SK AX Joins Samsung and LG as OpenAI Partner",
+      "excerpt": "After Samsung SDS and LG CNS, SK AX has joined as an OpenAI partner, intensifying competition in Korea’s enterprise AX market around ChatGPT Enterprise security and governance support.",
+      "body": "Competition in Korea’s enterprise ChatGPT market is becoming more intense. Following Samsung SDS and LG CNS, SK AX has also joined as an OpenAI partner, accelerating competition to provide ChatGPT Enterprise to corporate customers. The partnership focuses on shifting from informal individual subscriptions by employees to companywide generative AI use supported by security and governance. Services based on ChatGPT Enterprise are being positioned to address both internal management systems and corporate security requirements. As Samsung SDS, LG CNS and SK AX are now linked with OpenAI, competition in Korea’s AX market is expected to grow around enterprise generative AI platforms and operational support capabilities. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "企業向けChatGPT競争が本格化、サムスン・LGに続きSK AXもOpenAIパートナーに",
+      "excerpt": "サムスンSDSとLG CNSに続きSK AXもOpenAIパートナーとなり、ChatGPT Enterpriseを基盤にセキュリティとガバナンスを支援する韓国企業AX市場の競争が本格化している。",
+      "body": "韓国の企業向けChatGPT市場の競争が一段と激しくなっている。サムスンSDSとLG CNSに続き、SK AXもOpenAIのパートナーに加わり、企業顧客向けにChatGPT Enterpriseを導入する競争が本格化する流れだ。今回の協力は、従業員が個別に口コミのように購読して使う方式から離れ、企業レベルのセキュリティとガバナンスを備えた生成AI活用を支援することに焦点を当てている。ChatGPT Enterprise基盤のサービスは、社内の管理体制とセキュリティ要件を同時に扱う方向で提示されている。サムスンSDS、LG CNS、SK AXが相次いでOpenAIとつながったことで、韓国のAX市場では企業向け生成AIプラットフォームと運用支援力をめぐる競争が強まる見通しだ。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "企业版ChatGPT竞争升温，三星、LG之后SK AX也成OpenAI伙伴",
+      "excerpt": "继三星SDS和LG CNS之后，SK AX也成为OpenAI合作伙伴，围绕ChatGPT Enterprise的安全与治理支持，韩国企业AX市场竞争正全面展开。",
+      "body": "韩国企业版ChatGPT市场的竞争正在进一步加剧。继三星SDS和LG CNS之后，SK AX也加入OpenAI合作伙伴行列，面向企业客户导入ChatGPT Enterprise的竞争开始全面展开。此次合作的重点，是摆脱员工各自零散订阅使用的方式，支持企业层面具备安全和治理体系的生成式AI应用。基于ChatGPT Enterprise的服务，被定位为同时满足企业内部管理体系和安全需求的方案。随着三星SDS、LG CNS和SK AX相继与OpenAI建立合作，韩国AX市场围绕企业级生成式AI平台和运营支持能力的竞争预计将进一步扩大。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "La competencia por ChatGPT empresarial se intensifica con SK AX junto a Samsung y LG",
+      "excerpt": "Tras Samsung SDS y LG CNS, SK AX se suma como socio de OpenAI, elevando la competencia en el mercado AX empresarial coreano con soporte de seguridad y gobernanza sobre ChatGPT Enterprise.",
+      "body": "La competencia en el mercado coreano de ChatGPT empresarial se está intensificando. Después de Samsung SDS y LG CNS, SK AX también se incorporó como socio de OpenAI, lo que acelera la disputa por ofrecer ChatGPT Enterprise a clientes corporativos. La colaboración se centra en pasar de suscripciones informales usadas por empleados individuales a un uso de IA generativa a escala empresarial con seguridad y gobernanza. Los servicios basados en ChatGPT Enterprise se presentan como una forma de atender tanto los sistemas internos de gestión como los requisitos de seguridad de las empresas. Con Samsung SDS, LG CNS y SK AX vinculados a OpenAI, se prevé que aumente la competencia en el mercado AX coreano por plataformas de IA generativa empresarial y capacidades de soporte operativo. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Concorrência por ChatGPT empresarial cresce com SK AX ao lado de Samsung e LG",
+      "excerpt": "Depois de Samsung SDS e LG CNS, a SK AX tornou-se parceira da OpenAI, ampliando a disputa no mercado AX corporativo da Coreia com suporte a segurança e governança no ChatGPT Enterprise.",
+      "body": "A competição no mercado coreano de ChatGPT empresarial está ficando mais intensa. Depois da Samsung SDS e da LG CNS, a SK AX também passou a ser parceira da OpenAI, acelerando a disputa para oferecer ChatGPT Enterprise a clientes corporativos. A cooperação tem foco em sair do uso por assinaturas individuais e informais de funcionários para uma adoção de IA generativa em nível empresarial, com segurança e governança. Os serviços baseados no ChatGPT Enterprise são apresentados como uma forma de atender ao mesmo tempo os sistemas internos de gestão e as exigências de segurança das empresas. Com Samsung SDS, LG CNS e SK AX conectadas à OpenAI, a concorrência no mercado AX coreano deve crescer em torno de plataformas corporativas de IA generativa e capacidades de suporte operacional. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Wettbewerb um ChatGPT für Unternehmen zieht an, SK AX folgt Samsung und LG als OpenAI-Partner",
+      "excerpt": "Nach Samsung SDS und LG CNS wird auch SK AX OpenAI-Partner und verschärft den Wettbewerb im koreanischen Enterprise-AX-Markt mit Sicherheits- und Governance-Support auf Basis von ChatGPT Enterprise.",
+      "body": "Der Wettbewerb im koreanischen Markt für ChatGPT im Unternehmenseinsatz wird intensiver. Nach Samsung SDS und LG CNS ist nun auch SK AX OpenAI-Partner, wodurch der Wettbewerb um die Einführung von ChatGPT Enterprise bei Firmenkunden an Fahrt gewinnt. Die Zusammenarbeit zielt darauf, die bisher informelle Nutzung über einzelne Mitarbeiterabonnements durch einen unternehmensweiten Einsatz generativer KI mit Sicherheit und Governance zu ersetzen. Dienste auf Basis von ChatGPT Enterprise werden als Ansatz positioniert, der interne Managementstrukturen und Sicherheitsanforderungen von Unternehmen gemeinsam berücksichtigt. Da Samsung SDS, LG CNS und SK AX nacheinander mit OpenAI verbunden sind, dürfte der Wettbewerb im koreanischen AX-Markt um Enterprise-Plattformen für generative KI und operative Unterstützung zunehmen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "La bataille du ChatGPT d’entreprise s’accélère avec SK AX après Samsung et LG",
+      "excerpt": "Après Samsung SDS et LG CNS, SK AX devient partenaire d’OpenAI, renforçant la concurrence sur le marché coréen de l’AX d’entreprise autour de la sécurité et de la gouvernance de ChatGPT Enterprise.",
+      "body": "La concurrence sur le marché coréen du ChatGPT d’entreprise s’intensifie. Après Samsung SDS et LG CNS, SK AX rejoint à son tour les partenaires d’OpenAI, ce qui accélère la compétition pour proposer ChatGPT Enterprise aux clients professionnels. Cette coopération vise à passer d’abonnements individuels utilisés de manière informelle par les salariés à un usage de l’IA générative à l’échelle de l’entreprise, avec sécurité et gouvernance. Les services fondés sur ChatGPT Enterprise sont présentés comme une réponse à la fois aux systèmes internes de gestion et aux exigences de sécurité des entreprises. Avec Samsung SDS, LG CNS et SK AX désormais liés à OpenAI, la concurrence devrait s’intensifier sur le marché coréen de l’AX autour des plateformes d’IA générative d’entreprise et des capacités de support opérationnel. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "منافسة ChatGPT للشركات تتصاعد مع انضمام SK AX إلى سامسونغ وLG كشريك لـOpenAI",
+      "excerpt": "بعد Samsung SDS وLG CNS، انضمت SK AX كشريك لـOpenAI، ما يزيد المنافسة في سوق AX للشركات في كوريا عبر دعم الأمن والحوكمة المعتمد على ChatGPT Enterprise.",
+      "body": "تزداد المنافسة في سوق ChatGPT المخصص للشركات في كوريا حدة. فبعد Samsung SDS وLG CNS، انضمت SK AX أيضا كشريك لـOpenAI، ما يدفع سباق تقديم ChatGPT Enterprise إلى العملاء من الشركات. وتركز هذه الشراكة على الانتقال من استخدام الموظفين لاشتراكات فردية غير منظمة إلى تبني الذكاء الاصطناعي التوليدي على مستوى المؤسسة مع دعم الأمن والحوكمة. وتطرح الخدمات المعتمدة على ChatGPT Enterprise بوصفها وسيلة للتعامل مع أنظمة الإدارة الداخلية ومتطلبات الأمن لدى الشركات في الوقت نفسه. ومع ارتباط Samsung SDS وLG CNS وSK AX تباعا بـOpenAI، من المتوقع أن تشتد المنافسة في سوق AX الكوري حول منصات الذكاء الاصطناعي التوليدي للشركات وقدرات دعم التشغيل. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "एंटरप्राइज ChatGPT की होड़ तेज, Samsung और LG के बाद SK AX भी OpenAI पार्टनर",
+      "excerpt": "Samsung SDS और LG CNS के बाद SK AX भी OpenAI पार्टनर बना, जिससे ChatGPT Enterprise आधारित सुरक्षा और गवर्नेंस समर्थन के साथ कोरिया के कॉरपोरेट AX बाजार में प्रतिस्पर्धा तेज हो रही है।",
+      "body": "कोरिया के एंटरप्राइज ChatGPT बाजार में प्रतिस्पर्धा और तेज हो रही है। Samsung SDS और LG CNS के बाद SK AX भी OpenAI पार्टनर के रूप में जुड़ गया है, जिससे कॉरपोरेट ग्राहकों को ChatGPT Enterprise उपलब्ध कराने की होड़ गति पकड़ रही है। यह सहयोग कर्मचारियों द्वारा अलग-अलग अनौपचारिक सदस्यता लेकर उपयोग करने की पद्धति से हटकर कंपनी स्तर पर सुरक्षा और गवर्नेंस के साथ जनरेटिव AI उपयोग को समर्थन देने पर केंद्रित है। ChatGPT Enterprise आधारित सेवाओं को कंपनियों की आंतरिक प्रबंधन व्यवस्था और सुरक्षा आवश्यकताओं, दोनों को संबोधित करने वाले मॉडल के रूप में पेश किया जा रहा है। Samsung SDS, LG CNS और SK AX के OpenAI से जुड़ने के साथ कोरिया के AX बाजार में एंटरप्राइज जनरेटिव AI प्लेटफॉर्म और संचालन समर्थन क्षमताओं को लेकर प्रतिस्पर्धा बढ़ने की संभावना है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Persaingan ChatGPT Enterprise Memanas, SK AX Susul Samsung dan LG Jadi Mitra OpenAI",
+      "excerpt": "Setelah Samsung SDS dan LG CNS, SK AX menjadi mitra OpenAI, memperketat persaingan pasar AX korporasi Korea lewat dukungan keamanan dan tata kelola berbasis ChatGPT Enterprise.",
+      "body": "Persaingan di pasar ChatGPT untuk perusahaan di Korea semakin ketat. Setelah Samsung SDS dan LG CNS, SK AX juga bergabung sebagai mitra OpenAI, sehingga kompetisi menghadirkan ChatGPT Enterprise bagi pelanggan korporasi mulai menguat. Kerja sama ini berfokus pada peralihan dari penggunaan langganan individual yang tersebar di kalangan karyawan menuju pemanfaatan AI generatif di tingkat perusahaan dengan dukungan keamanan dan tata kelola. Layanan berbasis ChatGPT Enterprise diposisikan untuk menangani sistem manajemen internal sekaligus kebutuhan keamanan perusahaan. Dengan Samsung SDS, LG CNS, dan SK AX yang terhubung dengan OpenAI, persaingan di pasar AX Korea diperkirakan meningkat di sekitar platform AI generatif korporasi dan kemampuan dukungan operasional. Sumber: mk.co.kr"
+    }
+  }
+}
