@@ -1,5 +1,230 @@
 [
   {
+    "id": "f11bd4bc7b8e",
+    "slug": "지도교수님한테-선물-안-하면-찍힐까요15일이-두려운-대학원생들-944942",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T17:09:30.860Z",
+    "updatedAt": "2026-05-14T17:09:30.860Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12048194",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12048194",
+    "titleFingerprint": "7bf3a911f7a1f20c44c68470f55f1ab7235d9608",
+    "dedupKeys": [
+      "f11bd4bc7b8ec026e1e8157408b835494b65d712",
+      "7bf3a911f7a1f20c44c68470f55f1ab7235d9608",
+      "7dae9d644cd4354270abf4c2301843c200f83201"
+    ],
+    "imageUrl": "/images/articles/f11bd4bc7b8e.png",
+    "i18n": {
+      "ko": {
+        "title": "스승의날 선물 고민 커진 대학원생들, 지도교수 눈치 보는 15일",
+        "excerpt": "스승의날을 앞두고 대학원생들이 지도교수에게 선물을 하지 않으면 졸업·취업에 불이익이 있을지 우려하며 돈을 모으고, 교수들도 청탁 논란을 부담스러워하고 있다.",
+        "body": "스승의날인 15일을 앞두고 대학원생들이 지도교수 선물을 두고 깊은 고민에 빠졌다. 지난 13일 중앙대 공과대학의 한 연구실 소속 대학원생들은 1인당 약 2만원씩 돈을 모았다. 선물을 하지 않으면 졸업이나 취업 과정에서 불이익을 받을 수 있다는 걱정이 배경으로 거론된다. 그러나 선물이 청탁으로 비칠 수 있다는 우려도 커 교수들 역시 난색을 보이는 분위기다. 학생과 교수 모두 부담을 느끼는 상황에서 스승의날 관행을 둘러싼 논란은 계속될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Graduate Students Worry Over Teacher’s Day Gifts for Advisers on May 15",
+        "excerpt": "Ahead of Teacher’s Day, graduate students are worried that not giving gifts to advisers could hurt graduation or job prospects, while professors also feel uneasy over possible solicitation concerns.",
+        "body": "Ahead of Teacher’s Day on May 15, graduate students are facing growing concern over whether to give gifts to their academic advisers. On May 13, students in a laboratory at Chung-Ang University’s College of Engineering collected about 20,000 won each. The concern is that failing to prepare a gift could lead to disadvantages in graduation or employment. At the same time, professors are also uncomfortable because gifts may be viewed as improper solicitation. With both students and faculty feeling burdened, debate over Teacher’s Day gift practices is expected to continue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "師匠の日の贈り物に悩む大学院生、指導教授への気遣い強まる15日",
+        "excerpt": "師匠の日を前に、大学院生は指導教授に贈り物をしなければ卒業や就職で不利益を受けるのではと懸念し、教授側も請託と見られる負担に難色を示している。",
+        "body": "15日の師匠の日を前に、大学院生の間で指導教授への贈り物をめぐる悩みが深まっている。13日、中央大学工科大学のある研究室に所属する大学院生らは、1人あたり約2万ウォンを集めた。贈り物を用意しなければ卒業や就職の過程で不利益を受けるかもしれないという不安が背景にある。一方で、贈り物が請託と受け止められる懸念もあり、教授側も困惑している。学生と教授の双方が負担を感じる中、師匠の日の慣行をめぐる議論は続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "教师节前研究生为导师礼物犯难，担心15日不送会被区别对待",
+        "excerpt": "教师节临近，研究生担心不给导师送礼会影响毕业或就业，因此集资准备礼物；与此同时，教授们也因礼物可能被视为请托而感到为难。",
+        "body": "在15日教师节到来前，研究生围绕是否给导师送礼陷入苦恼。13日，中央大学工科大学某实验室的研究生每人筹集约2万韩元。其背景是担心如果不准备礼物，可能会在毕业或就业过程中受到不利影响。但礼物也可能被视为请托，这一担忧让教授们同样感到为难。在学生和教授双方都承受压力的情况下，围绕教师节送礼惯例的争议预计仍将持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Regalos del Día del Maestro preocupan a posgraduados ante sus asesores",
+        "excerpt": "Antes del Día del Maestro, estudiantes de posgrado temen que no dar regalos a sus asesores afecte su graduación o empleo, mientras los profesores también se incomodan por posibles sospechas de solicitud indebida.",
+        "body": "Antes del Día del Maestro, el 15 de mayo, estudiantes de posgrado están cada vez más preocupados por si deben dar regalos a sus asesores académicos. El día 13, alumnos de un laboratorio de la Facultad de Ingeniería de la Universidad Chung-Ang reunieron alrededor de 20.000 wones por persona. La inquietud surge del temor a sufrir desventajas en la graduación o en la búsqueda de empleo si no preparan un regalo. Sin embargo, también crece la preocupación de que esos obsequios puedan interpretarse como una solicitud indebida, por lo que los profesores muestran incomodidad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Presentes do Dia do Professor preocupam pós-graduandos e orientadores",
+        "excerpt": "Às vésperas do Dia do Professor, pós-graduandos temem que não presentear orientadores prejudique formatura ou emprego, enquanto docentes também se sentem pressionados por receios de solicitação indevida.",
+        "body": "Às vésperas do Dia do Professor, em 15 de maio, estudantes de pós-graduação estão preocupados com a entrega de presentes a seus orientadores. No dia 13, alunos de um laboratório da Faculdade de Engenharia da Universidade Chung-Ang arrecadaram cerca de 20 mil won por pessoa. O receio citado é que a ausência de presente possa gerar desvantagens na formatura ou na busca por emprego. Ao mesmo tempo, professores também demonstram desconforto, pois os presentes podem ser vistos como solicitação indevida. A controvérsia sobre essa prática deve continuar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Geschenke zum Lehrertag setzen Doktoranden und Betreuer unter Druck",
+        "excerpt": "Vor dem Lehrertag sorgen sich Graduiertenstudierende, ob fehlende Geschenke an Betreuer Nachteile bei Abschluss oder Jobsuche bringen könnten; auch Professoren sehen mögliche Vorwürfe unzulässiger Einflussnahme kritisch.",
+        "body": "Vor dem Lehrertag am 15. Mai geraten Graduiertenstudierende wegen Geschenken an ihre akademischen Betreuer zunehmend unter Druck. Am 13. Mai sammelten Studierende eines Labors der Ingenieurfakultät der Chung-Ang-Universität rund 20.000 Won pro Person. Hintergrund ist die Sorge, ohne Geschenk könnten Nachteile beim Abschluss oder bei der Beschäftigung entstehen. Zugleich wächst die Befürchtung, solche Geschenke könnten als unzulässige Einflussnahme verstanden werden. Auch Professoren zeigen sich deshalb zurückhaltend. Die Debatte über diese Praxis dürfte weitergehen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Cadeaux de la Journée des enseignants: les doctorants sous pression",
+        "excerpt": "À l’approche de la Journée des enseignants, des étudiants de troisième cycle craignent qu’absence de cadeau au directeur nuise à leur diplôme ou emploi, tandis que les professeurs redoutent des soupçons de sollicitation.",
+        "body": "À l’approche de la Journée des enseignants, le 15 mai, des étudiants de troisième cycle s’interrogent sur les cadeaux à offrir à leur directeur de recherche. Le 13 mai, des étudiants d’un laboratoire de la faculté d’ingénierie de l’université Chung-Ang ont réuni environ 20.000 wons chacun. Leur inquiétude tient au risque perçu de désavantage lors de l’obtention du diplôme ou de la recherche d’emploi s’ils n’offrent rien. Mais ces cadeaux peuvent aussi être vus comme une sollicitation, ce qui met les professeurs mal à l’aise. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هدايا يوم المعلم تربك طلاب الدراسات العليا أمام المشرفين في 15 مايو",
+        "excerpt": "قبل يوم المعلم، يخشى طلاب دراسات عليا أن يؤدي عدم تقديم هدايا للمشرفين إلى ضرر في التخرج أو التوظيف، بينما يتحرج الأساتذة أيضا من احتمال اعتبارها طلبا غير ملائم.",
+        "body": "مع اقتراب يوم المعلم في 15 مايو، يزداد قلق طلاب الدراسات العليا بشأن تقديم هدايا لمشرفيهم الأكاديميين. في 13 مايو، جمع طلاب من مختبر تابع لكلية الهندسة في جامعة تشونغ أنغ نحو 20 ألف وون من كل شخص. ويعود القلق إلى الخشية من أن عدم تقديم هدية قد يسبب ضررا في مسار التخرج أو التوظيف. في المقابل، يشعر الأساتذة أيضا بالحرج لأن الهدايا قد تُفهم على أنها طلب أو مجاملة غير ملائمة. ومع شعور الطرفين بالعبء، يتوقع استمرار الجدل حول هذه العادة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "शिक्षक दिवस पर गाइड को उपहार दें या नहीं, स्नातकोत्तर छात्रों की चिंता",
+        "excerpt": "शिक्षक दिवस से पहले स्नातकोत्तर छात्र चिंतित हैं कि गाइड को उपहार न देने से स्नातक या नौकरी में नुकसान हो सकता है, जबकि प्रोफेसर भी संभावित अनुचित आग्रह की आशंका से असहज हैं।",
+        "body": "15 मई के शिक्षक दिवस से पहले स्नातकोत्तर छात्र अपने शैक्षणिक मार्गदर्शकों को उपहार देने को लेकर गहरी चिंता में हैं। 13 मई को चुंग-आंग विश्वविद्यालय के इंजीनियरिंग कॉलेज की एक प्रयोगशाला से जुड़े छात्रों ने प्रति व्यक्ति लगभग 20,000 वॉन इकट्ठा किए। चिंता यह है कि उपहार न देने पर स्नातक या रोजगार प्रक्रिया में नुकसान हो सकता है। दूसरी ओर, उपहार को अनुचित आग्रह के रूप में देखे जाने की आशंका से प्रोफेसर भी असहज हैं। छात्रों और शिक्षकों दोनों पर दबाव के बीच, शिक्षक दिवस की इस परंपरा पर विवाद जारी रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hadiah Hari Guru Bikin Mahasiswa Pascasarjana Cemas pada 15 Mei",
+        "excerpt": "Menjelang Hari Guru, mahasiswa pascasarjana khawatir tidak memberi hadiah kepada dosen pembimbing bisa merugikan kelulusan atau pekerjaan, sementara profesor juga keberatan karena risiko dianggap sebagai permintaan tidak patut.",
+        "body": "Menjelang Hari Guru pada 15 Mei, mahasiswa pascasarjana semakin bingung soal pemberian hadiah kepada dosen pembimbing. Pada 13 Mei, mahasiswa dari sebuah laboratorium di Fakultas Teknik Universitas Chung-Ang mengumpulkan sekitar 20.000 won per orang. Kekhawatiran utamanya adalah tidak menyiapkan hadiah dapat menimbulkan kerugian dalam proses kelulusan atau pencarian kerja. Namun, hadiah juga dapat dipandang sebagai bentuk permintaan tidak patut, sehingga para profesor pun merasa tidak nyaman. Dengan beban di kedua pihak, perdebatan soal kebiasaan Hari Guru ini diperkirakan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b488337917e8",
+    "slug": "중심-잃지-않겠다와인-논란-안성재-유튜브-중단-후-첫-심경-358973",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T17:08:36.710Z",
+    "updatedAt": "2026-05-14T17:08:36.710Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/culture/12048196",
+    "canonicalUrl": "https://www.mk.co.kr/news/culture/12048196",
+    "titleFingerprint": "bc2ed4312223c85064895ac41d4e91a301e966c0",
+    "dedupKeys": [
+      "b488337917e86027770e70e43d13f8370ea1a409",
+      "bc2ed4312223c85064895ac41d4e91a301e966c0",
+      "b213999912a414e690ec46b9aa7b2f99f0c97aea"
+    ],
+    "imageUrl": "/images/articles/b488337917e8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "안성재 ‘와인 서비스 논란’ 후 첫 심경, 유튜브 중단 뒤 “중심 잃지 않겠다”",
+        "excerpt": "스타 셰프 안성재가 14일 SNS를 통해 모수 서울 ‘와인 서비스 논란’ 이후 유튜브 활동을 중단한 뒤 처음으로 심경을 밝혔다.",
+        "body": "스타 셰프 안성재가 14일 자신의 SNS를 통해 자신이 운영 중인 파인다이닝 레스토랑 ‘모수 서울’에서 불거진 ‘와인 서비스 논란’ 이후 첫 심경을 전했다. 그는 한 월간지 표지 관련 게시물을 올리며 유튜브 활동 중단 이후 처음으로 공개 메시지를 남겼다. 이번 발언은 논란 이후 그의 행보에 관심이 이어지는 가운데 나왔다. 안성재는 “중심 잃지 않겠다”는 취지의 입장을 밝히며 흔들림 없이 이어가겠다는 뜻을 전했다. 해당 논란과 SNS 게시물 내용은 mk.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "Chef Ahn Sung-jae Speaks After Wine Service Controversy, Says He Will Stay Grounded",
+        "excerpt": "Star chef Ahn Sung-jae shared his first public thoughts on SNS on May 14 after pausing YouTube activity following the wine service controversy at Mosu Seoul.",
+        "body": "Star chef Ahn Sung-jae shared his first public remarks on May 14 through his SNS after the “wine service controversy” involving Mosu Seoul, the fine-dining restaurant he operates. He posted about a monthly magazine cover and left his first open message since halting his YouTube activity. The statement came as attention continued to follow his moves after the controversy. Ahn conveyed that he would not lose his center and indicated his intention to continue without being shaken. Details of the controversy and the SNS post were cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "アン・ソンジェ、ワインサービス論争後に初の心境「軸を失わない」",
+        "excerpt": "スターシェフのアン・ソンジェが14日、モス・ソウルのワインサービス論争後、YouTube中断を経てSNSで初めて心境を明かした。",
+        "body": "スターシェフのアン・ソンジェが14日、自身のSNSを通じて、自ら運営するファインダイニングレストラン「モス・ソウル」で起きた「ワインサービス論争」後、初めて心境を伝えた。彼は月刊誌の表紙に関する投稿を掲載し、YouTube活動を中断して以降、初の公開メッセージを残した。今回の発言は、論争後の動向に関心が集まる中で出されたものだ。アン・ソンジェは「軸を失わない」という趣旨の考えを示し、揺らがず続けていく意思を伝えた。論争とSNS投稿の内容はmk.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "安成宰回应葡萄酒服务争议，暂停YouTube后首度表态称不失重心",
+        "excerpt": "明星厨师安成宰14日在SNS上首次谈及首尔Mosu葡萄酒服务争议，这是他暂停YouTube活动后的首次公开心境。",
+        "body": "明星厨师安成宰14日通过个人SNS，首次表达了其经营的高级餐厅“首尔Mosu”发生“葡萄酒服务争议”后的心境。他发布了一则有关某月刊封面的内容，并在暂停YouTube活动后首次留下公开信息。此次表态出现在争议之后外界持续关注其动向之际。安成宰传达了“不失去重心”的立场，并表示将以不动摇的态度继续前行。有关争议和SNS帖文内容引自mk.co.kr报道。"
+      },
+      "es": {
+        "title": "Ahn Sung-jae habla tras la polémica del vino y dice que no perderá el equilibrio",
+        "excerpt": "El chef Ahn Sung-jae expresó el 14 de mayo en SNS su primera postura tras pausar YouTube por la polémica del servicio de vino en Mosu Seoul.",
+        "body": "El chef estrella Ahn Sung-jae expresó el 14 de mayo, a través de su SNS, sus primeras palabras tras la “polémica del servicio de vino” surgida en Mosu Seoul, el restaurante de alta cocina que dirige. Publicó una entrada relacionada con la portada de una revista mensual y dejó su primer mensaje público desde que detuvo su actividad en YouTube. La declaración llegó mientras continuaba el interés por sus movimientos después de la controversia. Ahn transmitió que no perderá el centro y mostró su intención de seguir adelante sin tambalearse. Los detalles de la polémica y la publicación en SNS fueron citados de mk.co.kr."
+      },
+      "pt": {
+        "title": "Ahn Sung-jae se manifesta após polêmica do vinho e diz que manterá o foco",
+        "excerpt": "O chef Ahn Sung-jae falou em 14 de maio nas redes sociais pela primeira vez após pausar o YouTube devido à polêmica do serviço de vinho no Mosu Seoul.",
+        "body": "O chef estrela Ahn Sung-jae compartilhou em 14 de maio, por meio de suas redes sociais, sua primeira manifestação após a “polêmica do serviço de vinho” envolvendo o Mosu Seoul, restaurante de fine dining que ele comanda. Ele publicou uma postagem relacionada à capa de uma revista mensal e deixou sua primeira mensagem pública desde a suspensão de suas atividades no YouTube. A declaração veio enquanto continuava o interesse por seus próximos passos após a controvérsia. Ahn indicou que não perderá o centro e demonstrou intenção de seguir sem se abalar. As informações sobre a polêmica e a postagem foram citadas de mk.co.kr."
+      },
+      "de": {
+        "title": "Ahn Sung-jae äußert sich nach Weindienst-Kontroverse und will standhaft bleiben",
+        "excerpt": "Starkoch Ahn Sung-jae äußerte sich am 14. Mai erstmals auf SNS, nachdem er wegen der Weindienst-Kontroverse im Mosu Seoul seine YouTube-Aktivität gestoppt hatte.",
+        "body": "Starkoch Ahn Sung-jae hat sich am 14. Mai über seine SNS erstmals nach der „Weindienst-Kontroverse“ im von ihm betriebenen Fine-Dining-Restaurant Mosu Seoul geäußert. Er veröffentlichte einen Beitrag zu einem Cover eines Monatsmagazins und hinterließ damit seine erste öffentliche Botschaft seit der Unterbrechung seiner YouTube-Aktivitäten. Die Äußerung erfolgte, während das Interesse an seinem weiteren Vorgehen nach der Kontroverse anhielt. Ahn vermittelte sinngemäß, er werde seinen Mittelpunkt nicht verlieren, und deutete an, unbeirrt weitermachen zu wollen. Die Angaben zur Kontroverse und zum SNS-Beitrag wurden aus mk.co.kr zitiert."
+      },
+      "fr": {
+        "title": "Ahn Sung-jae s’exprime après la controverse du vin et dit garder le cap",
+        "excerpt": "Le chef Ahn Sung-jae a livré le 14 mai sur les réseaux sociaux sa première réaction après l’arrêt de YouTube lié à la controverse du service du vin chez Mosu Seoul.",
+        "body": "Le chef vedette Ahn Sung-jae a livré le 14 mai, sur ses réseaux sociaux, ses premiers mots après la « controverse du service du vin » survenue dans son restaurant gastronomique Mosu Seoul. Il a publié un message lié à la couverture d’un magazine mensuel, marquant sa première prise de parole publique depuis l’interruption de ses activités sur YouTube. Cette déclaration intervient alors que l’attention reste portée sur ses démarches après la controverse. Ahn a indiqué qu’il ne perdrait pas son centre et a fait savoir son intention de poursuivre sans vaciller. Les éléments sur la controverse et le message SNS sont cités de mk.co.kr."
+      },
+      "ar": {
+        "title": "آن سونغ جاي يتحدث بعد جدل خدمة النبيذ ويؤكد أنه لن يفقد توازنه",
+        "excerpt": "كشف الشيف الشهير آن سونغ جاي في 14 مايو عبر حسابه على وسائل التواصل عن أول موقف له بعد تعليق يوتيوب إثر جدل خدمة النبيذ في موسو سيول.",
+        "body": "عبّر الشيف الشهير آن سونغ جاي في 14 مايو عبر حسابه على وسائل التواصل الاجتماعي عن أول موقف له بعد «جدل خدمة النبيذ» الذي أثير في مطعم فاين دايننغ «موسو سيول» الذي يديره. ونشر منشورًا متعلقًا بغلاف مجلة شهرية، ليكون ذلك أول رسالة علنية له منذ توقف نشاطه على يوتيوب. وجاء هذا التصريح بينما استمر الاهتمام بخطواته بعد الجدل. وأوضح آن، بمعنى أنه «لن يفقد مركزه»، رغبته في الاستمرار من دون اهتزاز. تفاصيل الجدل ومنشور وسائل التواصل الاجتماعي منقولة عن تقرير mk.co.kr."
+      },
+      "hi": {
+        "title": "वाइन सेवा विवाद के बाद आहन सुंग-जे की पहली प्रतिक्रिया, कहा केंद्र नहीं खोऊंगा",
+        "excerpt": "स्टार शेफ आहन सुंग-जे ने 14 मई को SNS पर मोसू सियोल के वाइन सेवा विवाद और YouTube रोकने के बाद पहली बार अपनी स्थिति साझा की।",
+        "body": "स्टार शेफ आहन सुंग-जे ने 14 मई को अपने SNS के माध्यम से, उनके द्वारा संचालित फाइन डाइनिंग रेस्तरां ‘मोसू सियोल’ में उठे ‘वाइन सेवा विवाद’ के बाद पहली बार अपनी भावना व्यक्त की। उन्होंने एक मासिक पत्रिका के कवर से जुड़ी पोस्ट डाली और YouTube गतिविधि रोकने के बाद अपना पहला सार्वजनिक संदेश छोड़ा। यह बयान विवाद के बाद उनके कदमों पर जारी ध्यान के बीच आया। आहन ने यह संदेश दिया कि वह अपना केंद्र नहीं खोएंगे और बिना डगमगाए आगे बढ़ने की इच्छा जताई। विवाद और SNS पोस्ट से जुड़ी जानकारी mk.co.kr की रिपोर्ट से उद्धृत है।"
+      },
+      "id": {
+        "title": "Ahn Sung-jae Buka Suara Usai Kontroversi Layanan Wine, Tegaskan Tetap Teguh",
+        "excerpt": "Chef Ahn Sung-jae pada 14 Mei menyampaikan sikap pertamanya di SNS setelah menghentikan YouTube akibat kontroversi layanan wine di Mosu Seoul.",
+        "body": "Chef bintang Ahn Sung-jae pada 14 Mei menyampaikan pernyataan pertamanya melalui SNS setelah “kontroversi layanan wine” yang terjadi di Mosu Seoul, restoran fine dining yang ia kelola. Ia mengunggah posting terkait sampul sebuah majalah bulanan dan meninggalkan pesan publik pertamanya sejak menghentikan aktivitas YouTube. Pernyataan ini muncul saat perhatian terhadap langkahnya setelah kontroversi masih berlanjut. Ahn menyampaikan sikap bahwa ia tidak akan kehilangan pusatnya dan menunjukkan niat untuk terus berjalan tanpa goyah. Rincian kontroversi dan unggahan SNS dikutip dari laporan mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "762a510411dc",
+    "slug": "승객들-뻔히-다-보는데처음-본-아르헨티나-男女-기내서-성관계-갖다-체포-619902",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T17:07:44.681Z",
+    "updatedAt": "2026-05-14T17:07:44.681Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12048242",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12048242",
+    "titleFingerprint": "d4435e038cc36ec486a827842e301d1eb9e76034",
+    "dedupKeys": [
+      "762a510411dc3fb2a48298fdb616f8aec11f9706",
+      "d4435e038cc36ec486a827842e301d1eb9e76034",
+      "e791fbb71e1419f9e51666145b64fff457aebed4"
+    ],
+    "imageUrl": "/images/articles/762a510411dc.png",
+    "i18n": {
+      "ko": {
+        "title": "아르헨티나 남녀, 승객 보는 기내서 성관계하다 체포된 이유",
+        "excerpt": "아르헨티나 국적 남녀가 지난 9일 비행기 안에서 승객들이 지켜보는 가운데 성관계를 한 혐의로 경찰에 체포됐다고 외신이 11일 보도했다.",
+        "body": "아르헨티나 국적의 남녀가 비행기 안에서 성관계를 하다 경찰에 체포되는 일이 벌어졌다. 지난 11일(현지시간) 영국 일간지 더 선 등 외신은 이들이 지난 9일 기내에서 처음 만난 사이였지만, 다른 승객들이 볼 수 있는 상황에서 성관계를 한 혐의를 받는다고 보도했다. 항공기 내부는 다수 승객이 함께 이용하는 공공 공간인 만큼, 이번 사건은 기내 질서와 승객 안전 문제로 이어질 수 있다는 점에서 주목된다. 구체적인 항공편 정보와 조사 결과는 원문에 추가로 공개되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Argentine Pair Arrested After Alleged In-Flight Sex Seen by Passengers",
+        "excerpt": "Two Argentine nationals were arrested after allegedly having sex on a plane on May 9 while other passengers could see them, foreign media reported on May 11.",
+        "body": "Two Argentine nationals were arrested by police after allegedly having sex inside an aircraft. Foreign outlets including the British daily The Sun reported on May 11 local time that the man and woman, who had reportedly met for the first time on the flight, were accused of engaging in sexual activity on May 9 in a situation visible to other passengers. Because an airplane cabin is a shared public space used by many travelers, the case has drawn attention as an issue involving in-flight order and passenger safety. The original report did not provide further details on the flight or investigation results. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "アルゼンチン男女、乗客が見る機内で性行為か 警察が逮捕",
+        "excerpt": "アルゼンチン国籍の男女が5月9日、乗客が見える機内で性行為をした疑いで警察に逮捕されたと、海外メディアが11日に報じた。",
+        "body": "アルゼンチン国籍の男女が、航空機内で性行為をしたとして警察に逮捕される出来事があった。英国紙ザ・サンなど海外メディアは現地時間11日、2人は9日の機内で初めて会った間柄だったが、ほかの乗客から見える状況で性行為に及んだ疑いがあると報じた。航空機の客室は多数の乗客が共有する公共空間であるため、今回の事案は機内秩序や乗客の安全に関わる問題として注目されている。具体的な便名や捜査結果について、原文では追加情報は明らかにされていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "阿根廷男女被指在客机内当众发生性行为后遭警方逮捕",
+        "excerpt": "外媒5月11日报道，两名阿根廷籍男女涉嫌于9日在飞机客舱内、其他乘客可看到的情况下发生性行为，随后被警方逮捕。",
+        "body": "两名阿根廷籍男女因涉嫌在飞机客舱内发生性行为而被警方逮捕。据英国《太阳报》等外媒当地时间5月11日报道，两人据称是在9日的航班上首次见面，却在其他乘客能够看到的情况下发生性行为。飞机客舱是多名乘客共同使用的公共空间，因此该事件引发外界对机上秩序和乘客安全问题的关注。原文未进一步披露具体航班信息或调查结果。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Arrestan a dos argentinos por presunto sexo en un avión ante pasajeros",
+        "excerpt": "Dos ciudadanos argentinos fueron arrestados tras presuntamente tener sexo en un avión el 9 de mayo mientras otros pasajeros podían verlos, informaron medios extranjeros el día 11.",
+        "body": "Dos ciudadanos argentinos fueron arrestados por la policía tras presuntamente mantener relaciones sexuales dentro de un avión. Según informaron el 11 de mayo, hora local, medios extranjeros como el diario británico The Sun, el hombre y la mujer se habrían conocido por primera vez durante el vuelo del día 9, pero son sospechosos de haber tenido sexo en una situación visible para otros pasajeros. Dado que la cabina de un avión es un espacio público compartido por muchos viajeros, el caso llama la atención por su relación con el orden a bordo y la seguridad de los pasajeros. El reporte original no reveló más detalles sobre el vuelo ni sobre el resultado de la investigación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Argentinos são presos após suposto sexo em avião diante de passageiros",
+        "excerpt": "Dois cidadãos argentinos foram presos após supostamente fazerem sexo em um avião em 9 de maio, enquanto outros passageiros podiam vê-los, informou a mídia estrangeira no dia 11.",
+        "body": "Dois cidadãos argentinos foram presos pela polícia após supostamente manterem relações sexuais dentro de um avião. Segundo veículos estrangeiros, incluindo o jornal britânico The Sun, em reportagem de 11 de maio no horário local, o homem e a mulher teriam se conhecido pela primeira vez no voo do dia 9, mas são suspeitos de ter feito sexo em uma situação visível para outros passageiros. Como a cabine de uma aeronave é um espaço público compartilhado por muitos viajantes, o caso chama atenção por envolver ordem a bordo e segurança dos passageiros. A reportagem original não divulgou mais detalhes sobre o voo nem sobre os resultados da investigação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Argentinisches Paar nach mutmaßlichem Sex im Flugzeug festgenommen",
+        "excerpt": "Zwei argentinische Staatsangehörige wurden festgenommen, nachdem sie am 9. Mai in einem Flugzeug vor den Augen anderer Passagiere Sex gehabt haben sollen, berichteten ausländische Medien am 11. Mai.",
+        "body": "Zwei argentinische Staatsangehörige sind von der Polizei festgenommen worden, nachdem sie in einem Flugzeug mutmaßlich Sex hatten. Ausländische Medien, darunter die britische Tageszeitung The Sun, berichteten am 11. Mai Ortszeit, der Mann und die Frau hätten sich auf dem Flug am 9. Mai erstmals getroffen, stünden aber im Verdacht, in einer für andere Passagiere sichtbaren Situation sexuelle Handlungen vorgenommen zu haben. Da die Flugzeugkabine ein gemeinsam genutzter öffentlicher Raum ist, zieht der Fall Aufmerksamkeit als Thema von Bordordnung und Passagiersicherheit auf sich. Weitere Angaben zum Flug oder zu Ermittlungsergebnissen wurden im Originalbericht nicht veröffentlicht. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Deux Argentins arrêtés après des rapports présumés dans un avion",
+        "excerpt": "Deux ressortissants argentins ont été arrêtés après avoir eu, selon les accusations, des rapports sexuels dans un avion le 9 mai alors que d’autres passagers pouvaient les voir, ont rapporté des médias étrangers le 11 mai.",
+        "body": "Deux ressortissants argentins ont été arrêtés par la police après des rapports sexuels présumés à bord d’un avion. Selon des médias étrangers, dont le quotidien britannique The Sun, dans des informations publiées le 11 mai heure locale, l’homme et la femme se seraient rencontrés pour la première fois sur le vol du 9 mai, mais sont soupçonnés d’avoir eu des rapports dans une situation visible par d’autres passagers. La cabine d’un avion étant un espace public partagé par de nombreux voyageurs, l’affaire attire l’attention sur l’ordre à bord et la sécurité des passagers. Le rapport original ne donne pas d’autres détails sur le vol ni sur les résultats de l’enquête. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "توقيف أرجنتينيين بعد علاقة جنسية مزعومة داخل طائرة أمام الركاب",
+        "excerpt": "أوقفت الشرطة رجلًا وامرأة من الأرجنتين بعد الاشتباه في ممارستهما علاقة جنسية داخل طائرة في 9 مايو بينما كان ركاب آخرون قادرين على رؤيتهما، وفق تقارير أجنبية في 11 مايو.",
+        "body": "أوقفت الشرطة رجلًا وامرأة يحملان الجنسية الأرجنتينية بعد الاشتباه في ممارستهما علاقة جنسية داخل طائرة. وذكرت وسائل إعلام أجنبية، بينها صحيفة ذا صن البريطانية، في 11 مايو بالتوقيت المحلي، أن الشخصين التقيا للمرة الأولى على متن الرحلة في 9 مايو، لكنهما يواجهان اتهامًا بممارسة العلاقة في وضع كان مرئيًا لركاب آخرين. وبما أن مقصورة الطائرة مساحة عامة مشتركة يستخدمها عدد كبير من المسافرين، فقد أثارت الواقعة اهتمامًا بوصفها مسألة تتعلق بالنظام داخل الطائرة وسلامة الركاب. ولم يكشف التقرير الأصلي تفاصيل إضافية عن الرحلة أو نتائج التحقيق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "विमान में यात्रियों के सामने कथित यौन संबंध पर अर्जेंटीनी जोड़ा गिरफ्तार",
+        "excerpt": "विदेशी मीडिया ने 11 मई को बताया कि अर्जेंटीना के एक पुरुष और महिला को 9 मई को विमान में अन्य यात्रियों को दिख सकने वाली स्थिति में कथित रूप से यौन संबंध बनाने पर गिरफ्तार किया गया।",
+        "body": "अर्जेंटीना के एक पुरुष और महिला को विमान के भीतर कथित रूप से यौन संबंध बनाने के बाद पुलिस ने गिरफ्तार किया। ब्रिटिश दैनिक द सन सहित विदेशी मीडिया ने 11 मई स्थानीय समय पर बताया कि दोनों 9 मई की उड़ान में पहली बार मिले थे, लेकिन उन पर अन्य यात्रियों को दिखाई दे सकने वाली स्थिति में यौन संबंध बनाने का आरोप है। विमान का केबिन कई यात्रियों द्वारा साझा किया जाने वाला सार्वजनिक स्थान है, इसलिए यह मामला उड़ान के दौरान व्यवस्था और यात्री सुरक्षा से जुड़े मुद्दे के रूप में ध्यान खींच रहा है। मूल रिपोर्ट में उड़ान की विस्तृत जानकारी या जांच के परिणामों का अतिरिक्त खुलासा नहीं किया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Dua Warga Argentina Ditangkap Usai Diduga Berhubungan Seks di Pesawat",
+        "excerpt": "Dua warga Argentina ditangkap setelah diduga berhubungan seks di dalam pesawat pada 9 Mei dalam situasi yang dapat terlihat penumpang lain, menurut laporan media asing pada 11 Mei.",
+        "body": "Dua warga negara Argentina ditangkap polisi setelah diduga berhubungan seks di dalam pesawat. Media asing, termasuk harian Inggris The Sun, melaporkan pada 11 Mei waktu setempat bahwa pria dan wanita tersebut disebut baru pertama kali bertemu dalam penerbangan pada 9 Mei, tetapi diduga melakukan hubungan seksual dalam situasi yang dapat terlihat oleh penumpang lain. Karena kabin pesawat merupakan ruang publik bersama yang digunakan banyak penumpang, kasus ini menjadi perhatian terkait ketertiban di dalam penerbangan dan keselamatan penumpang. Laporan asli tidak mengungkap rincian tambahan mengenai nomor penerbangan atau hasil penyelidikan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "352eafa52a79",
     "slug": "자고-일어나면-돈버는-증시-놔두고-왜상호금융서도-15조-빠졌다-151210",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Trump Sebut Rencana Iran “Sampah”, Vance Klaim Negosiasi Masih Maju",
         "excerpt": "Wakil Presiden AS JD Vance menyebut ada kemajuan dalam perundingan dengan Iran, sementara Donald Trump mengecam proposal revisi Iran sebagai tidak dapat diterima dan “sampah”.",
         "body": "Wakil Presiden Amerika Serikat JD Vance menyatakan bahwa ada kemajuan dalam perundingan untuk mengakhiri konflik dengan Iran. Pernyataan itu muncul setelah Presiden Donald Trump mengecam keras proposal revisi yang diajukan Iran, menyebutnya tidak dapat diterima dan “sampah”. Menurut laporan asli, dua pernyataan tersebut menunjukkan sinyal yang berbeda dari dalam pemerintahan AS mengenai kondisi negosiasi. Kritik terbuka Trump mengisyaratkan kecilnya peluang menerima tawaran terbaru Iran, sementara Vance menekankan bahwa proses perundingan belum sepenuhnya berhenti. Arah pembicaraan berikutnya akan bergantung pada penilaian AS atas proposal revisi Iran dan kemungkinan penyesuaian lanjutan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "d8d09f8485f3",
-    "slug": "2028학년도-지역의사전형-94-수시로-뽑는다정시는-단-3곳-891598",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T23:20:27.780Z",
-    "updatedAt": "2026-05-13T23:20:27.780Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12047112",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12047112",
-    "titleFingerprint": "8c44b80633df32f0939f03090a2d2c3413d70a47",
-    "dedupKeys": [
-      "d8d09f8485f3a6dff4f98aeda8dd13e3912c3a6d",
-      "8c44b80633df32f0939f03090a2d2c3413d70a47",
-      "639cb4bbde06c789c19dfeb40e3b14ed917d09e4"
-    ],
-    "imageUrl": "/images/articles/d8d09f8485f3.png",
-    "i18n": {
-      "ko": {
-        "title": "2028학년도 지역의사전형 94% 수시 선발…내신·면접 비중 커진다",
-        "excerpt": "현재 고등학교 2학년이 치르는 2028학년도 의대 입시에서 지역의사전형의 94%가 수시로 선발돼 내신, 학생부, 면접 관리의 중요성이 커졌다.",
-        "body": "현재 고등학교 2학년생이 응시할 2028학년도 의대 입시에서 지역의사전형 모집 인원의 94%가 수시로 선발되는 것으로 나타났다. 정시 선발은 전남·충북 등 3개교에 그치는 것으로 전해졌다. 이에 따라 해당 전형을 준비하는 수험생에게는 수능 성적뿐 아니라 고교 내신, 학생부 기록, 면접 대비가 더욱 중요한 변수로 부상했다. 지역의사전형은 지역 의료 인력 확보와 연계된 의대 입시 전형으로, 수시 중심 구조가 뚜렷해지면서 고교 생활 전반의 관리가 합격 가능성을 좌우할 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "2028 Regional Doctor Track to Select 94% Early, Only 3 Schools via Regular Round",
-        "excerpt": "For the 2028 medical school admissions cycle facing current high school sophomores, 94% of regional doctor track seats will be filled through early admissions, raising the weight of grades, records and interviews.",
-        "body": "In the 2028 medical school admissions cycle, which current second-year high school students will take, 94% of seats in the regional doctor track will be selected through early admissions. Regular-round selection is reportedly limited to only three schools, including those in Jeonnam and Chungbuk. As a result, applicants preparing for this track will need to pay closer attention not only to entrance exam scores but also to school grades, student records and interview preparation. The regional doctor track is tied to securing medical personnel for local areas, and its strong early-admission structure is expected to make overall high school performance a key factor in admissions outcomes. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "2028年度の地域医師選抜、94％を随時で募集…一般選抜は3校のみ",
-        "excerpt": "現在の高校2年生が受験する2028年度医学部入試で、地域医師選抜の94％が随時募集となり、内申、学生記録、面接対策の重要性が高まっている。",
-        "body": "現在高校2年生が受験する2028年度の医学部入試で、地域医師選抜の募集人員の94％が随時募集で選抜されることが分かった。一般選抜は全南、忠北など3校に限られるという。これにより同選抜を準備する受験生にとって、大学修学能力試験の成績だけでなく、高校の内申、学生生活記録、面接対策がより重要な要素となる。地域医師選抜は地域医療人材の確保と結びついた医学部入試制度であり、随時募集中心の構造が鮮明になる中、高校生活全般の管理が合格可能性を左右するとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "2028学年地区医生招生94%走随招…统招仅限3所学校",
-        "excerpt": "面向现高二学生的2028学年医学院入学考试中，地区医生招生94%通过随时招生录取，校内成绩、学生记录和面试的重要性上升。",
-        "body": "现高二学生将参加的2028学年医学院入学考试中，地区医生招生名额的94%将通过随时招生录取。据悉，定时招生仅限全南、忠北等3所学校。因此，准备该招生类型的考生不仅要关注高考类成绩，还需更加重视高中校内成绩、学生档案记录和面试准备。地区医生招生是与确保地区医疗人才相关的医学院招生类型，随着其以随时招生为中心的结构更加明显，高中阶段整体表现管理预计将成为影响录取可能性的关键因素。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Admisión regional de médicos 2028: 94% por vía temprana y solo 3 centros en regular",
-        "excerpt": "En el ingreso a medicina de 2028 para los actuales alumnos de segundo de secundaria, el 94% de las plazas regionales se cubrirá por admisión temprana, elevando el peso de notas, expediente y entrevista.",
-        "body": "En el proceso de admisión a medicina de 2028, que afrontarán los actuales estudiantes de segundo año de secundaria, el 94% de las plazas del programa regional de médicos se seleccionará mediante admisión temprana. La selección por la vía regular quedaría limitada a solo tres universidades, incluidas Jeonnam y Chungbuk. Por ello, para quienes preparen esta modalidad, no solo contarán los resultados del examen, sino también las calificaciones escolares, el expediente del alumno y la preparación de la entrevista. Este programa está vinculado a asegurar personal médico en las regiones, y su estructura centrada en la admisión temprana hará que la gestión integral de la vida escolar influya en las posibilidades de ingreso. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Seleção regional de médicos de 2028 terá 94% por admissão antecipada; regular só em 3 escolas",
-        "excerpt": "No ingresso em medicina de 2028 para os atuais alunos do 2º ano do ensino médio, 94% das vagas da modalidade regional serão por admissão antecipada, elevando o peso de notas, histórico e entrevista.",
-        "body": "No processo de admissão às faculdades de medicina de 2028, que será disputado pelos atuais estudantes do segundo ano do ensino médio, 94% das vagas da seleção regional de médicos serão preenchidas pela admissão antecipada. A seleção regular ficará restrita a apenas três instituições, incluindo Jeonnam e Chungbuk. Assim, para os candidatos dessa modalidade, além da nota do exame, ganham importância as notas escolares, os registros do estudante e a preparação para entrevistas. A seleção regional de médicos está ligada à formação de profissionais para áreas locais, e a estrutura concentrada na admissão antecipada deve fazer com que a gestão de toda a vida escolar pese nas chances de aprovação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Regionalarzt-Zulassung 2028: 94% über Frühauswahl, regulär nur an 3 Hochschulen",
-        "excerpt": "Bei der Medizinzulassung 2028 für heutige Schüler der zweiten Oberstufenklasse sollen 94% der Plätze im Regionalarzt-Verfahren früh vergeben werden, wodurch Noten, Schulakte und Interview wichtiger werden.",
-        "body": "Im Medizinzulassungsverfahren 2028, das die heutigen Schüler der zweiten Oberstufenklasse betreffen wird, sollen 94% der Plätze im Regionalarzt-Auswahlverfahren über die frühe Auswahl vergeben werden. Die reguläre Auswahl ist Berichten zufolge auf nur drei Hochschulen beschränkt, darunter Jeonnam und Chungbuk. Für Bewerber dieses Verfahrens werden damit neben Prüfungsergebnissen auch Schulnoten, Schülerakten und die Vorbereitung auf Interviews wichtiger. Das Regionalarzt-Verfahren ist mit der Sicherung medizinischer Fachkräfte in den Regionen verbunden. Da die Struktur klar auf frühe Zulassung ausgerichtet ist, dürfte die gesamte schulische Laufbahn stärker über die Zulassungschancen entscheiden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Admission régionale des médecins 2028: 94% en sélection anticipée, seulement 3 écoles en voie régulière",
-        "excerpt": "Pour l’entrée en médecine 2028 des lycéens actuellement en deuxième année, 94% des places régionales seront attribuées en sélection anticipée, renforçant le poids des notes, du dossier et de l’entretien.",
-        "body": "Dans le processus d’admission en médecine 2028, que passeront les lycéens actuellement en deuxième année, 94% des places de la filière régionale de médecins seront attribuées par sélection anticipée. La sélection régulière serait limitée à seulement trois établissements, dont Jeonnam et Chungbuk. Les candidats à cette filière devront donc accorder davantage d’importance non seulement aux résultats d’examen, mais aussi aux notes scolaires, au dossier de l’élève et à la préparation de l’entretien. Cette filière est liée à la sécurisation de personnels médicaux dans les régions. Avec une structure clairement centrée sur l’admission anticipée, la gestion globale de la vie scolaire devrait peser sur les chances d’admission. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مسار الأطباء الإقليمي لعام 2028 يختار 94% عبر القبول المبكر والقبول النظامي في 3 جامعات فقط",
-        "excerpt": "في قبول كليات الطب لعام 2028 المخصص لطلاب الصف الثاني الثانوي الحاليين، سيجري اختيار 94% من مقاعد مسار الأطباء الإقليمي عبر القبول المبكر، ما يزيد أهمية الدرجات والسجل والمقابلة.",
-        "body": "في عملية القبول بكليات الطب لعام 2028، التي سيخوضها طلاب الصف الثاني الثانوي الحاليون، تبيّن أن 94% من مقاعد مسار الأطباء الإقليمي ستُختار عبر القبول المبكر. أما القبول النظامي فسيقتصر، بحسب ما ورد، على ثلاث جامعات فقط، من بينها جامعات في جيوننام وتشونغبوك. لذلك ستزداد أهمية الدرجات المدرسية، وسجل الطالب، والاستعداد للمقابلة، إلى جانب نتائج الاختبار، بالنسبة للمتقدمين لهذا المسار. ويرتبط مسار الأطباء الإقليمي بتأمين الكوادر الطبية في المناطق المحلية، ومع وضوح اعتماده على القبول المبكر، يُتوقع أن تؤثر إدارة الحياة المدرسية بأكملها في فرص القبول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "2028 क्षेत्रीय डॉक्टर प्रवेश में 94% सीटें प्रारंभिक चयन से, नियमित चयन केवल 3 संस्थानों में",
-        "excerpt": "मौजूदा हाई स्कूल द्वितीय वर्ष के छात्रों के लिए 2028 मेडिकल प्रवेश में क्षेत्रीय डॉक्टर ट्रैक की 94% सीटें प्रारंभिक प्रवेश से भरेंगी, जिससे ग्रेड, छात्र रिकॉर्ड और इंटरव्यू का महत्व बढ़ेगा।",
-        "body": "मौजूदा हाई स्कूल द्वितीय वर्ष के छात्र जिन 2028 मेडिकल प्रवेश परीक्षाओं में शामिल होंगे, उनमें क्षेत्रीय डॉक्टर ट्रैक की 94% सीटें प्रारंभिक प्रवेश के माध्यम से भरी जाएंगी। नियमित चयन कथित रूप से केवल तीन संस्थानों तक सीमित रहेगा, जिनमें जिओननाम और चुंगबुक शामिल हैं। इससे इस ट्रैक की तैयारी कर रहे छात्रों के लिए परीक्षा अंकों के साथ-साथ स्कूल ग्रेड, छात्र रिकॉर्ड और इंटरव्यू तैयारी अधिक महत्वपूर्ण हो जाएगी। क्षेत्रीय डॉक्टर ट्रैक स्थानीय क्षेत्रों में चिकित्सा कर्मियों की उपलब्धता से जुड़ा प्रवेश मार्ग है। प्रारंभिक प्रवेश पर केंद्रित संरचना स्पष्ट होने के साथ, पूरी हाई स्कूल अवधि का प्रबंधन प्रवेश संभावना को प्रभावित कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Seleksi Dokter Regional 2028: 94% Lewat Jalur Awal, Reguler Hanya di 3 Kampus",
-        "excerpt": "Dalam penerimaan fakultas kedokteran 2028 untuk siswa kelas dua SMA saat ini, 94% kursi jalur dokter regional akan dipilih lewat penerimaan awal, membuat nilai, catatan siswa, dan wawancara makin penting.",
-        "body": "Dalam penerimaan fakultas kedokteran tahun ajaran 2028, yang akan diikuti siswa kelas dua SMA saat ini, 94% kuota jalur dokter regional akan dipilih melalui penerimaan awal. Seleksi reguler dilaporkan hanya tersedia di tiga kampus, termasuk Jeonnam dan Chungbuk. Karena itu, bagi peserta yang menyiapkan jalur ini, bukan hanya nilai ujian yang penting, tetapi juga nilai sekolah, catatan siswa, dan persiapan wawancara. Jalur dokter regional berkaitan dengan pemenuhan tenaga medis di daerah. Dengan struktur yang semakin berpusat pada penerimaan awal, pengelolaan seluruh aktivitas selama SMA diperkirakan memengaruhi peluang kelulusan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2ac5f8fc2294",
-    "slug": "군-복무-중에도-선행가수-정동원-소아암-아동청소년-치료비-지원-372555",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T23:19:28.086Z",
-    "updatedAt": "2026-05-13T23:19:28.086Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12047117",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12047117",
-    "titleFingerprint": "1c6caa3fc5ab69d44efa95e083fadfabdeaaa05e",
-    "dedupKeys": [
-      "2ac5f8fc22945f9fa236235be7b2cdb50064fdd5",
-      "1c6caa3fc5ab69d44efa95e083fadfabdeaaa05e",
-      "47c5e58db05ea6b76429cff567e6bdb450136d42"
-    ],
-    "imageUrl": "/images/articles/2ac5f8fc2294.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정동원, 군 복무 중에도 선행…소아암 아동·청소년 치료비 지원",
-        "excerpt": "군 복무 중인 가수 정동원이 선한스타 4월 가왕 이름으로 소아암·백혈병·희귀 난치성 질환 아동·청소년의 의료치료비를 지원했다.",
-        "body": "군 복무 중인 가수 정동원이 소아암과 백혈병, 희귀 난치성 질환으로 투병 중인 아동·청소년을 위해 의료치료비를 지원했다. 한국소아암재단은 가수 정동원의 이름으로 선한스타 4월 가왕 관련 지원이 이뤄졌다고 밝혔다. 이번 지원은 치료 과정에서 경제적 부담을 겪는 환아와 청소년에게 의료비를 보태는 취지다. 정동원은 군 복무 중에도 선행을 이어가며 팬 참여형 기부 문화와 나눔의 의미를 다시 알렸다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Jung Dong-won Supports Treatment Costs for Children With Pediatric Cancer",
-        "excerpt": "Singer Jung Dong-won, currently serving in the military, supported medical treatment costs for children and adolescents battling pediatric cancer, leukemia and rare incurable diseases.",
-        "body": "Singer Jung Dong-won, who is currently serving in the military, has supported medical treatment costs for children and adolescents battling pediatric cancer, leukemia and rare incurable diseases. The Korea Pediatric Cancer Foundation said the support was made in Jung Dong-won’s name in connection with his Good Star April Singer King recognition. The assistance is intended to help young patients and teenagers facing financial burdens during treatment. Even during military service, Jung Dong-won continued a charitable act, drawing renewed attention to fan-participation donation culture and the meaning of sharing. This article cites reporting from mk.co.kr."
-      },
-      "ja": {
-        "title": "チョン・ドンウォン、兵役中も善行…小児がんの子どもに治療費支援",
-        "excerpt": "兵役中の歌手チョン・ドンウォンが、善한スター4月歌王の名義で小児がん、白血病、希少難治性疾患と闘う子ども・青少年の医療治療費を支援した。",
-        "body": "兵役中の歌手チョン・ドンウォンが、小児がん、白血病、希少難治性疾患で闘病中の子どもと青少年のために医療治療費を支援した。韓国小児がん財団は、歌手チョン・ドンウォンの名前で善한スター4月歌王に関連した支援が行われたと明らかにした。今回の支援は、治療過程で経済的負担を抱える患児と青少年に医療費を補う趣旨だ。チョン・ドンウォンは兵役中にも善行を続け、ファン参加型の寄付文化と分かち合いの意味を改めて伝えた。内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "郑东元服兵役期间仍行善，资助小儿癌患儿治疗费用",
-        "excerpt": "正在服兵役的歌手郑东元以善良明星4月歌王名义，为患有小儿癌、白血病和罕见难治性疾病的儿童及青少年提供医疗治疗费支持。",
-        "body": "正在服兵役的歌手郑东元为患有小儿癌、白血病和罕见难治性疾病的儿童及青少年提供了医疗治疗费支持。韩国小儿癌财团表示，此次支持以歌手郑东元的名义，围绕善良明星4月歌王相关事项进行。该支持旨在为治疗过程中承受经济负担的患儿和青少年补充医疗费用。郑东元即使在服兵役期间也延续善行，再次传递了粉丝参与型捐赠文化和分享的意义。相关内容引用自mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Jung Dong-won dona para tratamientos de menores con cáncer infantil durante el servicio militar",
-        "excerpt": "El cantante Jung Dong-won, actualmente en el servicio militar, apoyó gastos médicos de niños y adolescentes con cáncer infantil, leucemia y enfermedades raras incurables.",
-        "body": "El cantante Jung Dong-won, actualmente en el servicio militar, apoyó los gastos de tratamiento médico de niños y adolescentes que luchan contra el cáncer infantil, la leucemia y enfermedades raras incurables. La Fundación Coreana de Cáncer Infantil informó que la ayuda se realizó a nombre de Jung Dong-won en relación con el reconocimiento Good Star Rey de Cantantes de abril. El apoyo busca aliviar los costos médicos de pacientes jóvenes que enfrentan cargas económicas durante el tratamiento. Incluso durante su servicio militar, Jung Dong-won continuó con una acción solidaria y volvió a destacar la cultura de donación participativa de los fans. Contenido citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Jung Dong-won apoia tratamento de crianças com câncer mesmo durante serviço militar",
-        "excerpt": "O cantor Jung Dong-won, em serviço militar, ajudou a custear tratamento médico de crianças e adolescentes com câncer infantil, leucemia e doenças raras incuráveis.",
-        "body": "O cantor Jung Dong-won, atualmente em serviço militar, apoiou os custos de tratamento médico de crianças e adolescentes que enfrentam câncer infantil, leucemia e doenças raras incuráveis. A Fundação Coreana de Câncer Infantil informou que o apoio foi feito em nome de Jung Dong-won, ligado ao título de Rei dos Cantores de abril do Good Star. A ajuda tem o objetivo de complementar despesas médicas de pacientes jovens que passam por dificuldades financeiras durante o tratamento. Mesmo durante o serviço militar, Jung Dong-won manteve uma ação solidária e voltou a evidenciar a cultura de doação com participação dos fãs. Conteúdo citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Jung Dong-won hilft Kindern mit Krebs bei Behandlungskosten trotz Militärdienst",
-        "excerpt": "Sänger Jung Dong-won, derzeit im Militärdienst, unterstützte medizinische Behandlungskosten für Kinder und Jugendliche mit Kinderkrebs, Leukämie und seltenen unheilbaren Krankheiten.",
-        "body": "Sänger Jung Dong-won, der derzeit Militärdienst leistet, hat medizinische Behandlungskosten für Kinder und Jugendliche unterstützt, die an Kinderkrebs, Leukämie und seltenen unheilbaren Krankheiten leiden. Die Korea Pediatric Cancer Foundation teilte mit, dass die Unterstützung im Namen von Jung Dong-won im Zusammenhang mit der Good-Star-Auszeichnung als April-Sängerkönig erfolgte. Die Hilfe soll jungen Patienten, die während der Behandlung finanziell belastet sind, bei medizinischen Kosten helfen. Auch während seines Militärdienstes setzte Jung Dong-won eine gute Tat fort und machte erneut auf fanbasierte Spendenkultur und die Bedeutung des Teilens aufmerksam. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Jung Dong-won soutient les frais médicaux d’enfants atteints de cancer pendant son service",
-        "excerpt": "Le chanteur Jung Dong-won, actuellement en service militaire, a aidé à financer les soins d’enfants et d’adolescents atteints de cancer pédiatrique, de leucémie et de maladies rares incurables.",
-        "body": "Le chanteur Jung Dong-won, actuellement en service militaire, a soutenu les frais de traitement médical d’enfants et d’adolescents atteints de cancer pédiatrique, de leucémie et de maladies rares incurables. La Fondation coréenne du cancer pédiatrique a indiqué que cette aide avait été apportée au nom de Jung Dong-won, en lien avec le titre de Roi des chanteurs d’avril de Good Star. Ce soutien vise à aider les jeunes patients confrontés à une charge financière pendant leur traitement. Même durant son service militaire, Jung Dong-won a poursuivi une action solidaire, rappelant la portée de la culture du don participatif des fans et du partage. Source citée: mk.co.kr."
-      },
-      "ar": {
-        "title": "جونغ دونغ وون يدعم علاج أطفال مصابين بسرطان الأطفال أثناء خدمته العسكرية",
-        "excerpt": "قدّم المغني جونغ دونغ وون، أثناء أدائه الخدمة العسكرية، دعما لتكاليف العلاج الطبي لأطفال ومراهقين يعانون سرطان الأطفال واللوكيميا وأمراضا نادرة مستعصية.",
-        "body": "قدّم المغني جونغ دونغ وون، وهو يؤدي حاليا خدمته العسكرية، دعما لتكاليف العلاج الطبي لأطفال ومراهقين يعانون سرطان الأطفال واللوكيميا وأمراضا نادرة مستعصية. وقالت مؤسسة كوريا لسرطان الأطفال إن الدعم تم باسم جونغ دونغ وون في إطار لقب نجم الخير، ملك الغناء لشهر أبريل. ويهدف هذا الدعم إلى المساهمة في تكاليف العلاج للمرضى الصغار والمراهقين الذين يواجهون أعباء مالية خلال رحلة العلاج. وواصل جونغ دونغ وون عمله الخيري حتى أثناء الخدمة العسكرية، مسلطا الضوء مجددا على ثقافة التبرع بمشاركة المعجبين ومعنى العطاء. يستند المحتوى إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "सैन्य सेवा के दौरान भी जंग डोंग-वोन ने बाल कैंसर मरीजों के इलाज में मदद की",
-        "excerpt": "सैन्य सेवा में मौजूद गायक जंग डोंग-वोन ने बाल कैंसर, ल्यूकेमिया और दुर्लभ असाध्य रोगों से जूझ रहे बच्चों व किशोरों के चिकित्सा उपचार खर्च में सहायता दी।",
-        "body": "सैन्य सेवा में मौजूद गायक जंग डोंग-वोन ने बाल कैंसर, ल्यूकेमिया और दुर्लभ असाध्य रोगों से जूझ रहे बच्चों और किशोरों के लिए चिकित्सा उपचार खर्च में सहायता दी। कोरिया पीडियाट्रिक कैंसर फाउंडेशन ने बताया कि यह सहायता जंग डोंग-वोन के नाम से गुड स्टार अप्रैल सिंगर किंग से संबंधित रूप में की गई। इसका उद्देश्य इलाज के दौरान आर्थिक बोझ झेल रहे बाल और किशोर मरीजों के चिकित्सा खर्च में मदद करना है। सैन्य सेवा के दौरान भी जंग डोंग-वोन ने परोपकारी कार्य जारी रखा और प्रशंसक-भागीदारी वाली दान संस्कृति तथा साझा करने के महत्व को फिर सामने रखा। सामग्री mk.co.kr की रिपोर्ट पर आधारित है।"
-      },
-      "id": {
-        "title": "Jung Dong-won Bantu Biaya Perawatan Anak Kanker Meski Sedang Wajib Militer",
-        "excerpt": "Penyanyi Jung Dong-won yang sedang menjalani wajib militer mendukung biaya perawatan medis anak dan remaja dengan kanker anak, leukemia, serta penyakit langka yang sulit disembuhkan.",
-        "body": "Penyanyi Jung Dong-won, yang saat ini menjalani wajib militer, memberikan dukungan biaya perawatan medis untuk anak-anak dan remaja yang berjuang melawan kanker anak, leukemia, serta penyakit langka yang sulit disembuhkan. Korea Pediatric Cancer Foundation menyatakan bahwa bantuan tersebut dilakukan atas nama Jung Dong-won terkait gelar Good Star Raja Penyanyi April. Dukungan ini ditujukan untuk membantu biaya medis pasien muda yang menghadapi beban ekonomi selama proses pengobatan. Meski sedang wajib militer, Jung Dong-won tetap melanjutkan aksi kebaikan dan kembali menyoroti budaya donasi partisipatif penggemar serta makna berbagi. Konten ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "a8453e32d343",
-    "slug": "안일하고-비겁했다음주운전-3회-160만-유튜버-8개월-만-사과-485985",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T23:18:25.880Z",
-    "updatedAt": "2026-05-13T23:18:25.880Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12047124",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12047124",
-    "titleFingerprint": "7ac2981fc0e4bc665036b5bd57964ab48e036509",
-    "dedupKeys": [
-      "a8453e32d3433d97b6690b19bbac3c82c2291147",
-      "7ac2981fc0e4bc665036b5bd57964ab48e036509",
-      "c452798be1fb7a287782c4477bb102fb8f0c8efd"
-    ],
-    "imageUrl": "/images/articles/a8453e32d343.jpg",
-    "i18n": {
-      "ko": {
-        "title": "음주운전 3회 유튜버 상해기, 8개월 만 사과 영상 공개…여론은 냉담",
-        "excerpt": "160만 유튜버 상해기, 본명 권상혁이 세 차례 음주운전과 도주 논란 이후 약 8개월 만에 사과 영상을 공개하며 복귀 움직임을 보이고 있다.",
-        "body": "160만 유튜버 상해기, 본명 권상혁이 세 차례 음주운전과 도주 논란 이후 약 8개월 만에 사과 영상을 공개했다. 그는 영상에서 자신의 행동을 두고 “안일하고 비겁했다”고 밝히며 고개를 숙였다. 상해기는 반복된 음주운전 전력으로 비판을 받아왔고, 도주 논란까지 더해지며 활동 중단 상태에 놓였다. 이번 사과 영상은 복귀 움직임으로 해석되고 있지만, 세 차례라는 음주운전 기록 때문에 여론은 여전히 냉담하다. 향후 활동 재개 여부도 대중의 반응에 따라 영향을 받을 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "YouTuber Sanghaegi Apologizes After Three DUI Cases, but Public Remains Cold",
-        "excerpt": "YouTuber Sanghaegi, real name Kwon Sang-hyuk, has released an apology video about eight months after controversy over three DUI incidents and an alleged flight from the scene.",
-        "body": "YouTuber Sanghaegi, real name Kwon Sang-hyuk and followed by 1.6 million subscribers, has released an apology video about eight months after controversy over three drunk-driving incidents and an alleged flight from the scene. In the video, he bowed his head and described his conduct as “complacent and cowardly.” Sanghaegi had faced criticism over his repeated DUI record, and the flight controversy further intensified public backlash, leading to a halt in his activities. The apology video is being viewed as a possible move toward returning, but public opinion remains cold because the record involves three DUI cases. Whether he resumes activities is expected to depend on public reaction. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "飲酒運転3回のユーチューバー相海基、8カ月ぶり謝罪も世論は冷淡",
-        "excerpt": "登録者160万人のユーチューバー相海基、本名クォン・サンヒョクが、3度の飲酒運転と逃走疑惑から約8カ月ぶりに謝罪動画を公開した。",
-        "body": "登録者160万人のユーチューバー相海基、本名クォン・サンヒョクが、3度の飲酒運転と逃走疑惑をめぐる騒動から約8カ月ぶりに謝罪動画を公開した。動画で彼は自身の行動について「安易で卑怯だった」と述べ、頭を下げた。相海基は繰り返された飲酒運転歴で批判を受けてきたうえ、逃走疑惑まで加わり活動を中断していた。今回の謝罪動画は復帰に向けた動きと受け止められているが、飲酒運転が3回に及ぶ点から世論は依然として冷淡だ。今後の活動再開の可否も大衆の反応に左右される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三次酒驾YouTuber Sanghaegi时隔8个月道歉，舆论仍冷淡",
-        "excerpt": "拥有160万订阅者的YouTuber Sanghaegi，本名权相赫，在三次酒驾及逃逸争议后约8个月发布道歉视频，显露复出动向。",
-        "body": "拥有160万订阅者的YouTuber Sanghaegi，本名权相赫，在三次酒驾及逃逸争议后约8个月发布了道歉视频。他在视频中低头表示，自己的行为“轻率且懦弱”。Sanghaegi此前因反复酒驾记录受到批评，逃逸争议又进一步加剧舆论反弹，导致其活动中断。此次道歉视频被解读为复出动向，但由于酒驾次数达到三次，公众态度仍然冷淡。未来能否恢复活动，预计也将受到大众反应影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El youtuber Sanghaegi pide perdón tras tres DUI, pero la opinión pública sigue fría",
-        "excerpt": "Sanghaegi, youtuber de 1,6 millones de suscriptores y cuyo nombre real es Kwon Sang-hyuk, publicó una disculpa unos ocho meses después de tres DUI y una polémica por huida.",
-        "body": "Sanghaegi, youtuber con 1,6 millones de suscriptores cuyo nombre real es Kwon Sang-hyuk, publicó un video de disculpa unos ocho meses después de la polémica por tres casos de conducción bajo los efectos del alcohol y una presunta huida. En el video inclinó la cabeza y calificó su conducta de “negligente y cobarde”. Sanghaegi ya había sido criticado por sus antecedentes repetidos de DUI, y la controversia por huida agravó la reacción pública, llevándolo a suspender sus actividades. La disculpa se interpreta como un posible movimiento de regreso, pero la opinión pública sigue fría por tratarse de tres casos de DUI. Su posible reanudación de actividades dependerá de la reacción del público. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "YouTuber Sanghaegi pede desculpas após três DUIs, mas reação pública segue fria",
-        "excerpt": "Sanghaegi, YouTuber com 1,6 milhão de inscritos e nome real Kwon Sang-hyuk, publicou um vídeo de desculpas cerca de oito meses após três casos de DUI e polêmica de fuga.",
-        "body": "Sanghaegi, YouTuber com 1,6 milhão de inscritos cujo nome real é Kwon Sang-hyuk, publicou um vídeo de desculpas cerca de oito meses após a polêmica envolvendo três casos de direção sob efeito de álcool e uma suposta fuga. No vídeo, ele abaixou a cabeça e disse que sua conduta foi “descuidada e covarde”. Sanghaegi vinha sendo criticado pelo histórico repetido de DUI, e a controvérsia sobre fuga ampliou a reação negativa, levando à interrupção de suas atividades. O vídeo é visto como um possível movimento de retorno, mas a opinião pública segue fria por causa dos três registros de DUI. A retomada das atividades deve depender da reação do público. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "YouTuber Sanghaegi entschuldigt sich nach drei Alkoholfahrten, Kritik bleibt hart",
-        "excerpt": "Sanghaegi, YouTuber mit 1,6 Millionen Abonnenten und bürgerlich Kwon Sang-hyuk, veröffentlichte rund acht Monate nach drei Alkoholfahrten und Fluchtkontroverse ein Entschuldigungsvideo.",
-        "body": "Sanghaegi, ein YouTuber mit 1,6 Millionen Abonnenten, dessen bürgerlicher Name Kwon Sang-hyuk lautet, hat rund acht Monate nach der Kontroverse um drei Alkoholfahrten und eine mutmaßliche Flucht ein Entschuldigungsvideo veröffentlicht. Darin senkte er den Kopf und nannte sein Verhalten “leichtsinnig und feige”. Sanghaegi war wegen seiner wiederholten Alkoholfahrten stark kritisiert worden; die Fluchtkontroverse verschärfte die öffentliche Reaktion zusätzlich und führte zu einer Unterbrechung seiner Aktivitäten. Das Video wird als möglicher Schritt zur Rückkehr gesehen, doch wegen der drei DUI-Fälle bleibt die Stimmung kühl. Ob er seine Aktivitäten wieder aufnimmt, dürfte von der Reaktion der Öffentlichkeit abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le youtubeur Sanghaegi s’excuse après trois conduites en état d’ivresse, l’opinion reste froide",
-        "excerpt": "Sanghaegi, youtubeur aux 1,6 million d’abonnés, de son vrai nom Kwon Sang-hyuk, a publié une vidéo d’excuses environ huit mois après trois DUI et une polémique de fuite.",
-        "body": "Sanghaegi, youtubeur suivi par 1,6 million d’abonnés et dont le vrai nom est Kwon Sang-hyuk, a publié une vidéo d’excuses environ huit mois après la controverse liée à trois conduites en état d’ivresse et à une fuite présumée. Dans la vidéo, il a baissé la tête et qualifié son comportement de “négligent et lâche”. Sanghaegi faisait déjà l’objet de critiques pour ses antécédents répétés de DUI, et la polémique de fuite a renforcé la réaction négative, entraînant l’arrêt de ses activités. Cette vidéo est perçue comme un possible mouvement de retour, mais l’opinion publique reste froide en raison des trois faits de conduite en état d’ivresse. La reprise de ses activités dépendra probablement de la réaction du public. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "اليوتيوبر سانغهيغي يعتذر بعد ثلاث قضايا قيادة تحت تأثير الكحول والجمهور بارد",
-        "excerpt": "نشر اليوتيوبر سانغهيغي، واسمه الحقيقي كوون سانغ هيوك، فيديو اعتذار بعد نحو ثمانية أشهر من جدل ثلاث حوادث قيادة تحت تأثير الكحول واتهام بالفرار.",
-        "body": "نشر اليوتيوبر سانغهيغي، واسمه الحقيقي كوون سانغ هيوك ولديه 1.6 مليون مشترك، فيديو اعتذار بعد نحو ثمانية أشهر من الجدل حول ثلاث حوادث قيادة تحت تأثير الكحول واتهام بالفرار. وقال في الفيديو إن تصرفه كان “متساهلا وجبانا”، وانحنى معتذرا. كان سانغهيغي قد واجه انتقادات بسبب تكرار سجله في القيادة تحت تأثير الكحول، ثم زاد جدل الفرار من حدة رد الفعل العام، ما أدى إلى توقف نشاطه. ويُنظر إلى الفيديو كخطوة محتملة نحو العودة، لكن الرأي العام لا يزال باردا بسبب تكرار المخالفة ثلاث مرات. ومن المتوقع أن يتأثر استئناف نشاطه برد فعل الجمهور. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "तीन बार DUI के बाद YouTuber Sanghaegi ने 8 महीने बाद माफी मांगी, जनता ठंडी",
-        "excerpt": "16 लाख सब्सक्राइबर वाले YouTuber Sanghaegi, असली नाम Kwon Sang-hyuk, ने तीन DUI और भागने के विवाद के करीब आठ महीने बाद माफी वीडियो जारी किया।",
-        "body": "16 लाख सब्सक्राइबर वाले YouTuber Sanghaegi, जिनका असली नाम Kwon Sang-hyuk है, ने तीन बार शराब पीकर गाड़ी चलाने और भागने के विवाद के करीब आठ महीने बाद माफी वीडियो जारी किया। वीडियो में उन्होंने सिर झुकाकर अपने व्यवहार को “लापरवाह और कायरतापूर्ण” बताया। Sanghaegi को बार-बार DUI रिकॉर्ड के कारण आलोचना झेलनी पड़ी थी, और भागने के विवाद ने सार्वजनिक नाराजगी को और बढ़ा दिया, जिसके बाद उनकी गतिविधियां रुकी रहीं। इस माफी वीडियो को वापसी की कोशिश के रूप में देखा जा रहा है, लेकिन तीन DUI मामलों के कारण जनता की प्रतिक्रिया अब भी ठंडी है। आगे गतिविधियां फिर शुरू होंगी या नहीं, यह जनता की प्रतिक्रिया पर निर्भर रहने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "YouTuber Sanghaegi Minta Maaf Setelah Tiga DUI, Publik Masih Dingin",
-        "excerpt": "YouTuber Sanghaegi, nama asli Kwon Sang-hyuk, merilis video permintaan maaf sekitar delapan bulan setelah kontroversi tiga DUI dan dugaan melarikan diri.",
-        "body": "YouTuber Sanghaegi, bernama asli Kwon Sang-hyuk dan memiliki 1,6 juta pelanggan, merilis video permintaan maaf sekitar delapan bulan setelah kontroversi tiga kasus mengemudi dalam pengaruh alkohol dan dugaan melarikan diri. Dalam video itu, ia menundukkan kepala dan menyebut tindakannya “lalai dan pengecut”. Sanghaegi sebelumnya dikritik karena catatan DUI yang berulang, sementara kontroversi pelarian memperbesar reaksi negatif publik hingga aktivitasnya terhenti. Video permintaan maaf ini dipandang sebagai kemungkinan langkah untuk kembali, tetapi opini publik masih dingin karena catatan DUI terjadi tiga kali. Kelanjutan aktivitasnya diperkirakan akan dipengaruhi oleh respons masyarakat. Sumber: mk.co.kr"
       }
     }
   }
