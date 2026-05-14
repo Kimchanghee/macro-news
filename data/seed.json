@@ -1,5 +1,230 @@
 [
   {
+    "id": "4fc8e165fd44",
+    "slug": "불륜-증거-담긴-휴대전화-몰래-촬영했는데대법-민사-증거로-인정-528972",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T21:57:51.919Z",
+    "updatedAt": "2026-05-14T21:57:51.919Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12048626",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12048626",
+    "titleFingerprint": "963a206dbbb92faf09e8de6358bef3f7257c31dc",
+    "dedupKeys": [
+      "4fc8e165fd443c74dfcc3676e6ed16481ecb612f",
+      "963a206dbbb92faf09e8de6358bef3f7257c31dc",
+      "92c56320076284dc3a39eb1c0da6eff0d2e4023a"
+    ],
+    "imageUrl": "/images/articles/4fc8e165fd44.png",
+    "i18n": {
+      "ko": {
+        "title": "불륜 증거 휴대전화 사진, 대법원 “민사소송 증거 인정 가능”",
+        "excerpt": "대법원이 배우자의 외도 정황이 담긴 휴대전화 메시지 촬영 사진을 민사소송 증거로 쓸 수 있다고 최종 판단했다. 위법 수집 여부보다 사안의 중대성과 증거 필요성이 고려됐다.",
+        "body": "대법원이 배우자의 외도 정황이 담긴 휴대전화 메시지를 몰래 촬영한 사진도 민사소송에서 증거로 사용할 수 있다는 최종 판단을 내렸다. 사건의 쟁점은 위법하게 수집된 자료가 재판 증거로 인정될 수 있는지였다. 대법원은 사안의 중대성과 증거의 필요성 등을 고려할 때 해당 사진의 증거능력을 배제할 수 없다고 판단한 것으로 전해졌다. 이번 판단은 가사·손해배상 등 민사 분쟁에서 사생활 침해 논란이 있는 자료라도 일률적으로 배척되지 않을 수 있음을 보여준다. 다만 구체적 인정 여부는 사건별 사정에 따라 달라질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Supreme Court Allows Phone Photos Showing Affair as Civil Evidence",
+        "excerpt": "South Korea’s Supreme Court has finalized a ruling that photos of phone messages suggesting a spouse’s affair may be used as evidence in a civil lawsuit, weighing the seriousness and need for proof.",
+        "body": "South Korea’s Supreme Court has made a final ruling that photos secretly taken of mobile phone messages suggesting a spouse’s affair can be used as evidence in a civil lawsuit. The central issue was whether material collected unlawfully could still be admitted in court. The court reportedly found that, given the seriousness of the matter and the need for evidence, the photos should not be excluded from evidentiary use. The decision shows that in civil disputes, including family and damages cases, materials raising privacy concerns may not be rejected automatically. However, admissibility can still depend on the specific circumstances of each case. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "不倫証拠の携帯写真、最高裁「民事訴訟の証拠に認定可能」",
+        "excerpt": "韓国最高裁は、配偶者の不倫を示す携帯電話メッセージを撮影した写真を民事訴訟の証拠として使えるとの最終判断を示した。",
+        "body": "韓国最高裁は、配偶者の不倫の状況がうかがえる携帯電話メッセージをひそかに撮影した写真について、民事訴訟で証拠として使用できるとの最終判断を下した。争点は、違法に収集された資料が裁判の証拠として認められるかどうかだった。最高裁は、事案の重大性や証拠の必要性などを考慮すれば、当該写真の証拠能力を排除できないと判断したと伝えられている。今回の判断は、家事・損害賠償などの民事紛争で、プライバシー侵害の論点がある資料でも一律に排斥されない可能性を示す。ただし、具体的な認定は事件ごとの事情に左右される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "婚外情手机照片证据，韩国大法院认定可用于民事诉讼",
+        "excerpt": "韩国大法院最终裁定，拍摄含有配偶外遇迹象的手机信息照片，可在民事诉讼中作为证据使用，并考虑案件重大性与举证必要。",
+        "body": "韩国大法院作出最终判断，认为偷拍含有配偶外遇迹象的手机信息照片，也可以在民事诉讼中作为证据使用。本案争议焦点在于，违法收集的资料能否被法院采纳为证据。据报道，大法院认为，考虑到案件的重大性以及证据的必要性，不能排除相关照片的证据能力。此次判断显示，在家事、损害赔偿等民事纠纷中，即便资料涉及侵犯隐私争议，也未必会被一律排除。不过，具体能否被采纳仍可能取决于每个案件的具体情况。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Fotos de celular sobre infidelidad podrán ser prueba civil, dice Supremo",
+        "excerpt": "El Tribunal Supremo de Corea del Sur confirmó que fotos de mensajes de celular con indicios de infidelidad pueden usarse como prueba civil, al ponderar gravedad y necesidad probatoria.",
+        "body": "El Tribunal Supremo de Corea del Sur emitió una decisión definitiva según la cual las fotos tomadas en secreto de mensajes de celular que muestran indicios de infidelidad de un cónyuge pueden utilizarse como prueba en un juicio civil. El punto central era si un material obtenido de forma ilícita podía admitirse como prueba judicial. Según se informó, el tribunal consideró que, por la gravedad del asunto y la necesidad de la prueba, no correspondía excluir la eficacia probatoria de esas fotos. La decisión muestra que, en disputas civiles como asuntos familiares o reclamaciones por daños, materiales discutidos por posible invasión de privacidad no se descartan automáticamente. La admisión concreta dependerá de cada caso. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Fotos de celular sobre traição podem valer como prova civil, decide Supremo",
+        "excerpt": "A Suprema Corte da Coreia do Sul decidiu em definitivo que fotos de mensagens de celular com indícios de adultério podem ser usadas como prova em ação civil, considerando gravidade e necessidade.",
+        "body": "A Suprema Corte da Coreia do Sul decidiu em definitivo que fotos tiradas secretamente de mensagens de celular com indícios de adultério de um cônjuge podem ser usadas como prova em um processo civil. A questão central era saber se material obtido de forma ilícita poderia ser admitido em juízo. Segundo relatos, o tribunal entendeu que, diante da gravidade do caso e da necessidade da prova, não seria possível excluir a força probatória das fotos. A decisão indica que, em disputas civis como casos de família e indenização, materiais com controvérsia sobre invasão de privacidade não são automaticamente rejeitados. A admissibilidade concreta pode variar conforme as circunstâncias de cada caso. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Handyfotos als Untreue-Beweis: Oberstes Gericht lässt Zivilbeweis zu",
+        "excerpt": "Südkoreas Oberstes Gericht hat endgültig entschieden, dass Fotos von Handy-Nachrichten mit Hinweisen auf Ehebruch in Zivilverfahren als Beweis genutzt werden können.",
+        "body": "Südkoreas Oberstes Gericht hat endgültig entschieden, dass heimlich aufgenommene Fotos von Handy-Nachrichten, die Hinweise auf eine Affäre des Ehepartners enthalten, in einem Zivilverfahren als Beweis verwendet werden können. Kernfrage war, ob rechtswidrig erlangtes Material vor Gericht dennoch verwertbar sein kann. Das Gericht soll befunden haben, dass die Beweiskraft der Fotos angesichts der Schwere des Falls und der Notwendigkeit des Beweises nicht ausgeschlossen werden könne. Die Entscheidung zeigt, dass in zivilrechtlichen Streitigkeiten, etwa im Familienrecht oder bei Schadensersatz, auch datenschutzrechtlich umstrittenes Material nicht automatisch verworfen wird. Die konkrete Zulassung hängt weiter vom Einzelfall ab. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Photos de téléphone prouvant une liaison: recevables au civil selon la Cour",
+        "excerpt": "La Cour suprême sud-coréenne a jugé définitivement que des photos de messages téléphoniques révélant une possible infidélité peuvent servir de preuve dans une action civile.",
+        "body": "La Cour suprême sud-coréenne a rendu une décision définitive selon laquelle des photos prises discrètement de messages sur téléphone portable laissant apparaître l’infidélité d’un conjoint peuvent être utilisées comme preuve dans une procédure civile. La question centrale était de savoir si des éléments recueillis illégalement pouvaient être admis au procès. Selon les informations rapportées, la Cour a estimé que, compte tenu de la gravité de l’affaire et de la nécessité de la preuve, la valeur probante de ces photos ne pouvait pas être écartée. Cette décision montre que, dans des litiges civils comme les affaires familiales ou les demandes de dommages-intérêts, des documents soulevant des questions de vie privée ne sont pas automatiquement rejetés. L’admission dépendra toutefois de chaque dossier. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صور هاتف تثبت الخيانة قد تُقبل كدليل مدني بقرار من المحكمة العليا",
+        "excerpt": "أصدرت المحكمة العليا في كوريا الجنوبية حكما نهائيا يجيز استخدام صور رسائل هاتفية تتضمن مؤشرات على خيانة زوجية كدليل في دعوى مدنية، مع مراعاة جسامة القضية والحاجة إلى الإثبات.",
+        "body": "أصدرت المحكمة العليا في كوريا الجنوبية حكما نهائيا يفيد بأن الصور الملتقطة خلسة لرسائل هاتف محمول تتضمن مؤشرات على خيانة أحد الزوجين يمكن استخدامها دليلا في دعوى مدنية. وتمحور النزاع حول ما إذا كان يمكن قبول مواد جُمعت بصورة غير قانونية كأدلة أمام المحكمة. وبحسب ما ورد، رأت المحكمة أن جسامة القضية والحاجة إلى الدليل تجعل من غير الممكن استبعاد الحجية الإثباتية لهذه الصور. ويُظهر الحكم أن المواد التي تثير جدلا بشأن انتهاك الخصوصية في نزاعات مدنية، مثل قضايا الأسرة أو التعويضات، قد لا تُرفض بشكل تلقائي. ومع ذلك، يبقى القبول المحدد مرتبطا بظروف كل قضية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "बेवफाई साबित करने वाली फोन फोटो नागरिक मुकदमे में मान्य: सुप्रीम कोर्ट",
+        "excerpt": "दक्षिण कोरिया के सुप्रीम कोर्ट ने अंतिम फैसला दिया कि जीवनसाथी की बेवफाई के संकेत वाले मोबाइल संदेशों की तस्वीरें नागरिक मुकदमे में साक्ष्य के रूप में इस्तेमाल हो सकती हैं।",
+        "body": "दक्षिण कोरिया के सुप्रीम कोर्ट ने अंतिम रूप से फैसला दिया है कि जीवनसाथी की बेवफाई के संकेत दिखाने वाले मोबाइल फोन संदेशों की चुपके से ली गई तस्वीरें नागरिक मुकदमे में साक्ष्य के रूप में इस्तेमाल की जा सकती हैं। मुख्य सवाल यह था कि अवैध तरीके से जुटाई गई सामग्री अदालत में साक्ष्य मानी जा सकती है या नहीं। रिपोर्ट के अनुसार, अदालत ने माना कि मामले की गंभीरता और साक्ष्य की आवश्यकता को देखते हुए इन तस्वीरों की प्रमाणिकता को खारिज नहीं किया जा सकता। यह फैसला दिखाता है कि पारिवारिक या क्षतिपूर्ति जैसे नागरिक विवादों में निजता उल्लंघन से जुड़े दस्तावेज भी स्वतः अस्वीकार नहीं होंगे। हालांकि, स्वीकार्यता हर मामले की परिस्थितियों पर निर्भर कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Foto Ponsel Bukti Perselingkuhan Bisa Jadi Bukti Perdata, Putusan MA",
+        "excerpt": "Mahkamah Agung Korea Selatan memutus final bahwa foto pesan ponsel berisi indikasi perselingkuhan pasangan dapat digunakan sebagai bukti dalam gugatan perdata.",
+        "body": "Mahkamah Agung Korea Selatan telah membuat putusan final bahwa foto yang diambil diam-diam dari pesan ponsel berisi indikasi perselingkuhan pasangan dapat digunakan sebagai bukti dalam perkara perdata. Pokok persoalannya adalah apakah materi yang dikumpulkan secara melanggar hukum tetap dapat diterima sebagai bukti di pengadilan. Menurut laporan, pengadilan menilai bahwa mengingat keseriusan perkara dan kebutuhan pembuktian, kekuatan bukti foto tersebut tidak dapat dikesampingkan. Putusan ini menunjukkan bahwa dalam sengketa perdata, termasuk perkara keluarga dan ganti rugi, materi yang memunculkan isu pelanggaran privasi tidak selalu ditolak secara otomatis. Namun, penerimaannya tetap bergantung pada keadaan tiap perkara. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "71b1938f8ad4",
+    "slug": "함께-살면-건강할-줄-알았는데자녀-동거-노인-술잔-더-기울인다-260340",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T21:56:54.349Z",
+    "updatedAt": "2026-05-14T21:56:54.349Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12048651",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12048651",
+    "titleFingerprint": "881ac5887b4ccff6a72ff378b6293b85d4a400cc",
+    "dedupKeys": [
+      "71b1938f8ad42d460066e91d2a1f62a903969a05",
+      "881ac5887b4ccff6a72ff378b6293b85d4a400cc",
+      "b4ce098b45486a8c555a809cabd257780014d6f1"
+    ],
+    "imageUrl": "/images/articles/71b1938f8ad4.png",
+    "i18n": {
+      "ko": {
+        "title": "자녀와 동거하는 노인 여성, 위험 음주율 최대 8배 높았다",
+        "excerpt": "노인 여성 가운데 자녀와 함께 사는 집단의 위험 음주율이 다른 가구 형태보다 최대 8배 높다는 조사 결과가 나와 가족 동거와 노년기 건강의 관계가 주목된다.",
+        "body": "노인 여성 중 자녀와 동거하는 집단의 위험 음주율이 다른 가구 형태보다 최대 8배 높다는 조사 결과가 나왔다. 자녀와 함께 사는 것이 노년기 건강을 지키는 보호 요인으로 작용할 것이라는 통념과 달리, 일부 집단에서는 음주 위험이 더 크게 나타난 것이다. 이번 결과는 노년층의 가구 형태와 건강 행동을 함께 살펴볼 필요성을 보여준다. 특히 가족 간 동거가 정서적 안정이나 돌봄으로만 이어지지 않을 수 있다는 점에서, 노인 여성의 생활환경과 음주 습관에 대한 세밀한 접근이 요구된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Older Women Living With Children Show Up to 8 Times Higher Risk Drinking",
+        "excerpt": "A survey found that older women living with their children had a risky drinking rate up to eight times higher than other household types, drawing attention to family living and health in later life.",
+        "body": "A survey found that among older women, those living with their children had a risky drinking rate up to eight times higher than that of other household types. Contrary to the common belief that living with children may protect health in old age, the findings suggest that alcohol-related risk can be greater in some groups. The result highlights the need to examine household structure together with health behavior among older adults. It also shows that family co-residence may not always lead only to emotional stability or care, calling for closer attention to older women’s living conditions and drinking habits. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "子どもと同居する高齢女性、危険飲酒率が最大8倍高く",
+        "excerpt": "高齢女性のうち子どもと同居する層の危険飲酒率が、他の世帯形態より最大8倍高いとの調査結果が出て、同居と老年期の健康の関係に注目が集まっている。",
+        "body": "高齢女性のうち、子どもと同居する集団の危険飲酒率が他の世帯形態より最大8倍高いという調査結果が明らかになった。子どもと暮らすことが老年期の健康を守る要因になるという一般的な見方とは異なり、一部の集団では飲酒リスクがより大きく表れた。今回の結果は、高齢者の世帯形態と健康行動をあわせて見る必要性を示している。家族との同居が情緒的安定やケアだけにつながるとは限らない点から、高齢女性の生活環境と飲酒習慣への細かな対応が求められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "与子女同住的老年女性，危险饮酒率最高高出8倍",
+        "excerpt": "调查显示，老年女性中与子女同住者的危险饮酒率比其他家庭形态最高高出8倍，引发外界关注同住家庭与老年健康的关系。",
+        "body": "一项调查结果显示，在老年女性中，与子女同住群体的危险饮酒率比其他家庭形态最高高出8倍。与人们通常认为和子女一起生活有助于保护老年健康的看法不同，部分群体的饮酒风险反而更高。该结果表明，有必要将老年人的家庭形态与健康行为结合起来观察。尤其是家庭同住未必只带来情绪稳定或照护支持，因此需要更细致地关注老年女性的生活环境和饮酒习惯。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Mujeres mayores que viven con hijos tienen hasta 8 veces más riesgo de beber",
+        "excerpt": "Una encuesta halló que las mujeres mayores que viven con sus hijos presentan una tasa de consumo riesgoso de alcohol hasta ocho veces superior a la de otros tipos de hogar.",
+        "body": "Una encuesta reveló que, entre las mujeres mayores, el grupo que vive con sus hijos presenta una tasa de consumo riesgoso de alcohol hasta ocho veces más alta que la de otros tipos de hogar. A diferencia de la idea habitual de que vivir con los hijos puede proteger la salud en la vejez, en algunos grupos el riesgo asociado al alcohol aparece más elevado. El resultado muestra la necesidad de analizar la estructura del hogar junto con los comportamientos de salud de las personas mayores. También sugiere que la convivencia familiar no siempre se traduce solo en estabilidad emocional o cuidados, por lo que se requiere observar con más detalle el entorno de vida y los hábitos de bebida de las mujeres mayores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Idosas que vivem com filhos têm risco de beber até 8 vezes maior",
+        "excerpt": "Uma pesquisa apontou que mulheres idosas que moram com os filhos têm taxa de consumo de álcool de risco até oito vezes maior que a de outros arranjos familiares.",
+        "body": "Uma pesquisa mostrou que, entre mulheres idosas, o grupo que vive com os filhos apresenta uma taxa de consumo de álcool de risco até oito vezes maior do que a observada em outros tipos de moradia. Ao contrário da ideia de que morar com os filhos protegeria a saúde na velhice, em alguns grupos o risco ligado ao álcool aparece mais alto. O resultado indica a necessidade de analisar a composição familiar junto com os comportamentos de saúde dos idosos. Também mostra que a convivência com familiares pode não levar apenas a estabilidade emocional ou cuidado, exigindo atenção mais detalhada ao ambiente de vida e aos hábitos de bebida das mulheres idosas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Ältere Frauen mit Kindern im Haushalt trinken riskant bis zu 8-mal häufiger",
+        "excerpt": "Eine Erhebung zeigt: Ältere Frauen, die mit ihren Kindern zusammenleben, haben eine bis zu achtmal höhere Rate riskanten Alkoholkonsums als andere Haushaltsformen.",
+        "body": "Eine Erhebung hat ergeben, dass ältere Frauen, die mit ihren Kindern zusammenleben, eine bis zu achtmal höhere Rate riskanten Alkoholkonsums aufweisen als Frauen in anderen Haushaltsformen. Entgegen der verbreiteten Annahme, dass das Zusammenleben mit Kindern die Gesundheit im Alter schützen kann, zeigt sich in bestimmten Gruppen ein höheres alkoholbezogenes Risiko. Das Ergebnis macht deutlich, dass Haushaltsform und Gesundheitsverhalten älterer Menschen gemeinsam betrachtet werden müssen. Zudem weist es darauf hin, dass familiäres Zusammenleben nicht immer nur zu emotionaler Stabilität oder Betreuung führt. Die Lebensumstände und Trinkgewohnheiten älterer Frauen sollten daher genauer beobachtet werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Femmes âgées vivant avec leurs enfants: alcool à risque jusqu’à 8 fois plus élevé",
+        "excerpt": "Une enquête indique que les femmes âgées vivant avec leurs enfants affichent un taux de consommation d’alcool à risque jusqu’à huit fois supérieur aux autres formes de ménage.",
+        "body": "Une enquête révèle que, parmi les femmes âgées, celles qui vivent avec leurs enfants présentent un taux de consommation d’alcool à risque jusqu’à huit fois plus élevé que les autres formes de ménage. Contrairement à l’idée selon laquelle vivre avec ses enfants protégerait la santé au grand âge, le risque lié à l’alcool apparaît plus important dans certains groupes. Ce résultat souligne la nécessité d’examiner ensemble la structure du foyer et les comportements de santé des personnes âgées. Il montre aussi que la cohabitation familiale ne mène pas toujours uniquement à une stabilité émotionnelle ou à des soins, ce qui appelle une attention plus fine aux conditions de vie et aux habitudes de consommation des femmes âgées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مسنات يعشن مع الأبناء: معدل الشرب الخطر أعلى بما يصل إلى 8 مرات",
+        "excerpt": "أظهر مسح أن المسنات اللواتي يعشن مع أبنائهن يسجلن معدل شرب خطر أعلى بما يصل إلى ثماني مرات من أنماط السكن الأخرى، ما يسلط الضوء على علاقة السكن العائلي بالصحة.",
+        "body": "أظهر مسح أن النساء المسنات اللواتي يعشن مع أبنائهن لديهن معدل شرب خطر أعلى بما يصل إلى ثماني مرات مقارنة بأنماط الأسر الأخرى. وعلى خلاف الاعتقاد الشائع بأن العيش مع الأبناء قد يكون عاملا يحمي الصحة في مرحلة الشيخوخة، تشير النتيجة إلى أن خطر الشرب قد يكون أكبر لدى بعض الفئات. وتبرز هذه النتائج الحاجة إلى النظر في شكل السكن العائلي إلى جانب السلوكيات الصحية لدى كبار السن. كما توضح أن السكن مع الأسرة لا يؤدي دائما إلى الاستقرار العاطفي أو الرعاية فقط، ما يتطلب اهتماما أدق ببيئة حياة النساء المسنات وعادات الشرب لديهن. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "बच्चों के साथ रहने वाली बुजुर्ग महिलाओं में जोखिमपूर्ण शराब सेवन 8 गुना तक",
+        "excerpt": "एक सर्वे में पाया गया कि बच्चों के साथ रहने वाली बुजुर्ग महिलाओं में जोखिमपूर्ण शराब सेवन की दर अन्य पारिवारिक संरचनाओं की तुलना में आठ गुना तक अधिक है।",
+        "body": "एक सर्वे के अनुसार, बुजुर्ग महिलाओं में बच्चों के साथ रहने वाले समूह की जोखिमपूर्ण शराब सेवन दर अन्य प्रकार के परिवारों की तुलना में आठ गुना तक अधिक पाई गई। आम धारणा यह है कि बच्चों के साथ रहना वृद्धावस्था में स्वास्थ्य की रक्षा करने वाला कारक हो सकता है, लेकिन कुछ समूहों में शराब से जुड़ा जोखिम अधिक दिखाई दिया। यह परिणाम बताता है कि बुजुर्गों की पारिवारिक संरचना और स्वास्थ्य व्यवहार को साथ देखकर समझने की जरूरत है। यह भी संकेत मिलता है कि परिवार के साथ रहना हमेशा केवल भावनात्मक स्थिरता या देखभाल में नहीं बदलता, इसलिए बुजुर्ग महिलाओं के रहने के माहौल और शराब सेवन की आदतों पर अधिक सूक्ष्म ध्यान जरूरी है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lansia Perempuan Tinggal dengan Anak, Risiko Minum Alkohol Hingga 8 Kali",
+        "excerpt": "Survei menemukan perempuan lansia yang tinggal bersama anak memiliki tingkat konsumsi alkohol berisiko hingga delapan kali lebih tinggi dibanding bentuk rumah tangga lain.",
+        "body": "Sebuah survei menunjukkan bahwa di antara perempuan lansia, kelompok yang tinggal bersama anak memiliki tingkat konsumsi alkohol berisiko hingga delapan kali lebih tinggi dibanding bentuk rumah tangga lain. Berbeda dari anggapan bahwa tinggal dengan anak dapat menjadi faktor pelindung kesehatan pada masa tua, risiko terkait alkohol justru lebih besar pada sebagian kelompok. Temuan ini menunjukkan perlunya melihat bentuk rumah tangga bersama perilaku kesehatan lansia. Hasil tersebut juga menegaskan bahwa tinggal bersama keluarga tidak selalu hanya berujung pada stabilitas emosional atau perawatan, sehingga lingkungan hidup dan kebiasaan minum perempuan lansia perlu diperhatikan lebih cermat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4db5b9ff9686",
+    "slug": "요즘-한국증시-안하면-바보홍콩-슈퍼리치도-여의도-날아와-열공-973053",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T21:55:58.159Z",
+    "updatedAt": "2026-05-14T21:55:58.160Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048653",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048653",
+    "titleFingerprint": "ecbdc45415273e7f050a5573ce9c60b97249e471",
+    "dedupKeys": [
+      "4db5b9ff9686f8b24a2a9cd7b7678b159281cc2c",
+      "ecbdc45415273e7f050a5573ce9c60b97249e471",
+      "04925d30370487ccc813ea4e980f7ef32797ec99"
+    ],
+    "imageUrl": "/images/articles/4db5b9ff9686.png",
+    "i18n": {
+      "ko": {
+        "title": "한국증시 열기 확산, 홍콩 슈퍼리치도 여의도서 AI 수혜주 점검",
+        "excerpt": "홍콩 초고액자산가와 헤지펀드 투자자들이 하나증권 ‘코리아 포럼’에 참석해 AI 수혜주, 삼성전자 파업 전망, 한국 증시 투자 기회를 집중 질의했다.",
+        "body": "홍콩 초고액자산가와 헤지펀드 투자자들이 하나증권이 연 ‘코리아 포럼’을 찾아 한국 증시의 핵심 이슈를 점검했다. 이들은 여의도 현장에서 AI 수혜주와 삼성전자 파업 전망, 국내 증시 흐름에 대해 질문을 쏟아냈다. 원문에 따르면 일부 투자자는 삼성전자와 SK하이닉스 관련 레버리지 ETF 투자 성과를 언급하며 수익률이 두 배가 됐다고 밝혔다. 이번 포럼은 해외 고액자산가들이 한국 증시를 직접 확인하려는 관심을 보여주는 사례로 소개됐다. 다만 기사에 제시된 내용은 포럼 현장의 질의와 투자자 발언을 중심으로 하며, 향후 주가 전망에 대한 별도 수치는 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean Stock Market Draws Hong Kong Super-Rich to Yeouido for AI Stock Briefings",
+        "excerpt": "Hong Kong ultra-high-net-worth investors and hedge funds attended Hana Securities’ Korea Forum, pressing questions on AI beneficiaries, Samsung strike risks, and Korean equities.",
+        "body": "Hong Kong ultra-high-net-worth individuals and hedge fund investors visited Hana Securities’ Korea Forum to examine key issues in the Korean stock market. At the Yeouido venue, they asked a series of questions about AI beneficiary stocks, the outlook for a Samsung Electronics strike, and the broader direction of local equities. According to the original report, one investor in leveraged ETFs linked to Samsung Electronics and SK Hynix said the return had doubled. The forum was presented as an example of overseas wealthy investors seeking to assess Korean equities directly. The article focused on questions and investor remarks from the forum and did not provide separate numerical forecasts for future share prices. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国株への関心拡大、香港の富裕層も汝矣島でAI関連株を確認",
+        "excerpt": "香港の超富裕層やヘッジファンド投資家がハナ証券の「コリアフォーラム」に参加し、AI恩恵株やサムスン電子のスト見通し、韓国株に質問を集中させた。",
+        "body": "香港の超富裕層とヘッジファンド投資家が、ハナ証券の「コリアフォーラム」を訪れ、韓国株式市場の主要テーマを確認した。汝矣島の会場では、AIの恩恵を受ける銘柄、サムスン電子のストライキ見通し、韓国株市場の流れについて質問が相次いだ。原文によると、サムスン電子とSKハイニックス関連のレバレッジETFに投資した一部投資家は、収益率が2倍になったと述べた。今回のフォーラムは、海外の高額資産家が韓国株を直接確認しようとする関心を示す事例として紹介された。ただし記事は会場での質疑と投資家発言を中心にしており、今後の株価見通しに関する別途の数値は示していない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国股市热度升温，香港超级富豪赴汝矣岛关注AI受益股",
+        "excerpt": "香港超高净值人士和对冲基金投资者参加韩亚证券“Korea Forum”，集中询问AI受益股、三星电子罢工前景及韩国股市机会。",
+        "body": "香港超高净值人士和对冲基金投资者前往韩亚证券举办的“Korea Forum”，了解韩国股市的核心议题。在汝矣岛现场，他们围绕AI受益股、三星电子罢工前景以及韩国股市走势提出了大量问题。原文称，部分投资三星电子和SK海力士相关杠杆ETF的投资者表示，收益率已经翻倍。此次论坛被介绍为海外高净值投资者希望直接确认韩国股市机会的案例。不过，报道内容主要集中在论坛现场问答和投资者发言，并未给出未来股价 전망的单独数值。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La bolsa coreana atrae a superricos de Hong Kong a Yeouido por acciones de IA",
+        "excerpt": "Grandes patrimonios y hedge funds de Hong Kong asistieron al Korea Forum de Hana Securities para preguntar por acciones ligadas a IA, huelga en Samsung y renta variable coreana.",
+        "body": "Inversores ultrarricos de Hong Kong y fondos de cobertura acudieron al Korea Forum organizado por Hana Securities para revisar los temas centrales de la bolsa surcoreana. En Yeouido, lanzaron preguntas sobre acciones beneficiadas por la inteligencia artificial, las perspectivas de una huelga en Samsung Electronics y la evolución del mercado local. Según el reporte original, un inversor en ETF apalancados vinculados a Samsung Electronics y SK Hynix afirmó que su rentabilidad se había duplicado. El foro fue presentado como un ejemplo del interés de grandes patrimonios extranjeros por evaluar directamente las acciones coreanas. La nota se centró en preguntas y comentarios de los asistentes, sin ofrecer cifras separadas sobre previsiones de precios futuros. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Bolsa coreana atrai super-ricos de Hong Kong a Yeouido em busca de ações de IA",
+        "excerpt": "Ultrarricos e hedge funds de Hong Kong participaram do Korea Forum da Hana Securities para questionar ações beneficiadas por IA, greve na Samsung e oportunidades na bolsa coreana.",
+        "body": "Investidores ultrarricos de Hong Kong e fundos hedge participaram do Korea Forum, promovido pela Hana Securities, para avaliar os principais temas do mercado acionário coreano. No evento em Yeouido, eles fizeram perguntas sobre ações beneficiadas por inteligência artificial, as perspectivas de greve na Samsung Electronics e o rumo da bolsa local. Segundo a reportagem original, um investidor em ETFs alavancados ligados à Samsung Electronics e à SK Hynix disse que o retorno havia dobrado. O fórum foi apresentado como exemplo do interesse de grandes fortunas estrangeiras em verificar diretamente as oportunidades na Coreia. A matéria concentrou-se nas perguntas e falas dos investidores, sem apresentar números separados para previsões futuras de preços. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreas Aktienmarkt lockt Hongkongs Superreiche nach Yeouido zu KI-Aktien",
+        "excerpt": "Ultrareiche Anleger und Hedgefonds aus Hongkong besuchten das Korea Forum von Hana Securities und fragten nach KI-Gewinnern, Samsung-Streikrisiken und koreanischen Aktien.",
+        "body": "Ultrareiche Anleger aus Hongkong und Hedgefonds-Investoren besuchten das von Hana Securities veranstaltete Korea Forum, um zentrale Themen des koreanischen Aktienmarkts zu prüfen. Vor Ort in Yeouido stellten sie zahlreiche Fragen zu KI-begünstigten Aktien, den Aussichten auf einen Streik bei Samsung Electronics und zur Entwicklung des heimischen Markts. Laut Originalbericht sagte ein Investor in gehebelte ETFs mit Bezug zu Samsung Electronics und SK Hynix, die Rendite habe sich verdoppelt. Das Forum wurde als Beispiel für das Interesse ausländischer Vermögender dargestellt, koreanische Aktien direkt zu bewerten. Der Artikel konzentrierte sich auf Fragen und Anlegeräußerungen und nannte keine gesonderten Zahlen zu künftigen Kursprognosen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La Bourse coréenne attire les super-riches de Hong Kong à Yeouido sur l’IA",
+        "excerpt": "Des ultra-riches et hedge funds de Hong Kong ont participé au Korea Forum de Hana Securities pour interroger les valeurs liées à l’IA, la grève chez Samsung et les actions coréennes.",
+        "body": "Des particuliers très fortunés de Hong Kong et des investisseurs de hedge funds se sont rendus au Korea Forum organisé par Hana Securities afin d’examiner les principaux enjeux de la Bourse coréenne. Sur place, à Yeouido, ils ont multiplié les questions sur les valeurs bénéficiaires de l’intelligence artificielle, les perspectives de grève chez Samsung Electronics et l’évolution du marché local. Selon l’article original, un investisseur dans des ETF à effet de levier liés à Samsung Electronics et SK Hynix a indiqué que son rendement avait doublé. Le forum a été présenté comme un exemple de l’intérêt des grandes fortunes étrangères pour évaluer directement les actions coréennes. L’article s’est concentré sur les questions et déclarations des investisseurs, sans fournir de chiffres distincts sur les prévisions de cours. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سوق الأسهم الكورية يجذب أثرياء هونغ كونغ إلى يويدو لمتابعة أسهم الذكاء الاصطناعي",
+        "excerpt": "حضر أثرياء فائقو الثراء وصناديق تحوط من هونغ كونغ منتدى كوريا لهانا للأوراق المالية وطرحوا أسئلة حول أسهم الذكاء الاصطناعي وإضراب سامسونغ والأسهم الكورية.",
+        "body": "زار أثرياء فائقو الثراء من هونغ كونغ ومستثمرون في صناديق التحوط منتدى كوريا الذي نظمته هانا للأوراق المالية لمراجعة القضايا الرئيسية في سوق الأسهم الكورية. في موقع الحدث في يويدو، طرحوا أسئلة متتالية حول الأسهم المستفيدة من الذكاء الاصطناعي، وتوقعات إضراب سامسونغ إلكترونيكس، واتجاه السوق المحلية. ووفقا للتقرير الأصلي، قال أحد المستثمرين في صناديق ETF ذات الرافعة المرتبطة بسامسونغ إلكترونيكس وSK Hynix إن العائد تضاعف. وقد عُرض المنتدى كمثال على اهتمام أصحاب الثروات الأجنبية بفحص الأسهم الكورية مباشرة. وركز المقال على الأسئلة وتصريحات المستثمرين في المنتدى، من دون تقديم أرقام منفصلة لتوقعات أسعار الأسهم المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई शेयर बाजार में तेजी, हांगकांग के सुपर-रिच AI शेयरों के लिए येउइदो पहुंचे",
+        "excerpt": "हांगकांग के अति-धनाढ्य निवेशक और हेज फंड हाना सिक्योरिटीज के Korea Forum में शामिल हुए और AI लाभार्थी शेयरों, Samsung हड़ताल और कोरियाई इक्विटी पर सवाल किए।",
+        "body": "हांगकांग के अति-धनाढ्य निवेशक और हेज फंड निवेशक हाना सिक्योरिटीज द्वारा आयोजित Korea Forum में कोरियाई शेयर बाजार के मुख्य मुद्दों को समझने पहुंचे। येउइदो में हुए कार्यक्रम में उन्होंने AI से लाभ पाने वाले शेयरों, Samsung Electronics की हड़ताल की संभावनाओं और स्थानीय बाजार की दिशा पर कई सवाल किए। मूल रिपोर्ट के अनुसार, Samsung Electronics और SK Hynix से जुड़े लीवरेज ETF में निवेश करने वाले एक निवेशक ने कहा कि रिटर्न दोगुना हो गया है। इस फोरम को विदेशी उच्च-नेटवर्थ निवेशकों की कोरियाई शेयरों को सीधे परखने की दिलचस्पी के उदाहरण के रूप में पेश किया गया। लेख मुख्य रूप से कार्यक्रम के सवालों और निवेशकों की टिप्पणियों पर केंद्रित था और भविष्य के शेयर मूल्य अनुमान के लिए अलग आंकड़े नहीं दिए गए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Bursa Korea Menarik Superkaya Hong Kong ke Yeouido untuk Saham AI",
+        "excerpt": "Investor superkaya dan hedge fund Hong Kong menghadiri Korea Forum Hana Securities untuk menanyakan saham penerima manfaat AI, prospek mogok Samsung, dan peluang saham Korea.",
+        "body": "Investor superkaya Hong Kong dan pelaku hedge fund menghadiri Korea Forum yang digelar Hana Securities untuk meninjau isu utama pasar saham Korea. Di lokasi acara di Yeouido, mereka mengajukan banyak pertanyaan tentang saham penerima manfaat AI, prospek mogok di Samsung Electronics, dan arah bursa domestik. Menurut laporan asli, seorang investor pada ETF leverage yang terkait dengan Samsung Electronics dan SK Hynix mengatakan imbal hasilnya telah berlipat dua. Forum ini disebut sebagai contoh minat investor kaya luar negeri untuk melihat langsung peluang saham Korea. Artikel tersebut berfokus pada tanya jawab dan pernyataan investor di forum, tanpa memberikan angka terpisah untuk proyeksi harga saham ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "12bdcbb848c6",
     "slug": "작년에-대박냈는데-올해는-그-두-배반도체-아닌데-불타는-이-기업-699546",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "84% penerima pensiun kerja baru memilih pencairan sekaligus",
         "excerpt": "Dalam seminar perbaikan sistem, Kementerian Ketenagakerjaan dan pengawas keuangan Korea menyebut 84% dari 600.000 penerima baru tahun lalu memilih pencairan sekaligus.",
         "body": "Tahun lalu, 84% dari 600.000 orang yang mulai menerima manfaat pensiun kerja memilih pencairan sekaligus, bukan pembayaran berkala. Kementerian Ketenagakerjaan dan Tenaga Kerja Korea bersama Layanan Pengawas Keuangan membagikan data ini dalam seminar perbaikan sistem dan membahas cara memperkuat fungsi pensiun kerja sebagai pendapatan hari tua. Bahkan di antara mereka yang memilih pembayaran pensiun, jangka pendek lebih dominan. Penerima dengan masa pembayaran 10 tahun atau kurang mencapai 82%, memunculkan kekhawatiran bahwa pensiun kerja sulit menjadi biaya hidup hari tua yang stabil. Seminar juga membahas perluasan produk anuitas seumur hidup dan pensiun jangka panjang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "926b433a1168",
-    "slug": "한국동서발전-울산-hd-축구-경기-함께-관람해요-540859",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T07:17:15.122Z",
-    "updatedAt": "2026-05-14T07:17:15.122Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047677",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047677",
-    "titleFingerprint": "97d0e52af01b1c118e1a123b2f08b6669f18c94a",
-    "dedupKeys": [
-      "926b433a1168ac866755bf826248862978dcc427",
-      "97d0e52af01b1c118e1a123b2f08b6669f18c94a",
-      "b6ff8fc6b67833de4fa24f97c080821f829f40f6"
-    ],
-    "imageUrl": "/images/articles/926b433a1168.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국동서발전, 가정의달 맞아 울산 HD 축구 관람 지원",
-        "excerpt": "한국동서발전은 가정의 달을 맞아 울산시 가족센터와 연계해 문화체험 기회가 제한된 100가구에 울산 HD 축구 경기 관람권과 간식을 제공했다.",
-        "body": "한국동서발전은 가정의 달을 맞아 울산시 가족센터와 연계해 경제적·사회적 여건으로 문화체험 기회가 제한되는 가정을 대상으로 울산 HD 축구 경기 관람을 지원했다. 이번 지원은 100가구에 관람권과 간식을 제공하는 방식으로 진행됐다. 회사는 스포츠 관람을 통해 가족이 함께 시간을 보내고 정서적 지원을 받을 수 있도록 돕는 데 초점을 뒀다. 지역 가족센터와의 협력을 통해 문화 접근성이 낮은 가정에 체험 기회를 제공했다는 점에서 지역사회 지원 활동의 의미가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korea East-West Power Supports Ulsan HD Football Outing for Family Month",
-        "excerpt": "Korea East-West Power, with the Ulsan City Family Center, provided tickets and snacks to 100 households with limited cultural access during Family Month.",
-        "body": "Korea East-West Power supported attendance at an Ulsan HD football match during Family Month in cooperation with the Ulsan City Family Center. The program targeted families whose economic or social circumstances limit opportunities for cultural experiences. Tickets and snacks were provided to 100 households. The initiative focused on helping families spend time together through a sports event and receive emotional support. By working with a local family center, the company offered a cultural experience to households with lower access to such activities. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国東西発電、家庭の月に蔚山HDサッカー観戦を支援",
-        "excerpt": "韓国東西発電は家庭の月に合わせ、蔚山市家族センターと連携し、文化体験の機会が限られる100世帯に観戦券と軽食を提供した。",
-        "body": "韓国東西発電は家庭の月を迎え、蔚山市家族センターと連携して、経済的・社会的な事情により文化体験の機会が限られる家庭を対象に、蔚山HDのサッカー試合観戦を支援した。今回の支援は100世帯に観戦券と軽食を提供する形で行われた。同社はスポーツ観戦を通じて家族が共に時間を過ごし、情緒的な支援を受けられるようにすることに重点を置いた。地域の家族センターとの協力により、文化へのアクセスが低い家庭に体験の機会を提供した点で地域社会支援活動として意味がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国东西发电家庭月支持100户家庭观看蔚山HD足球赛",
-        "excerpt": "韩国东西发电在家庭月期间联动蔚山市家庭中心，为文化体验机会受限的100户家庭提供蔚山HD比赛门票和零食。",
-        "body": "韩国东西发电在家庭月到来之际，与蔚山市家庭中心合作，面向因经济和社会条件而文化体验机会受限的家庭，支持其观看蔚山HD足球比赛。本次支援以向100户家庭提供观赛门票和零食的方式进行。公司将重点放在通过体育观赛帮助家庭共同度过时间，并获得情感支持。通过与当地家庭中心合作，韩国东西发电为文化可及性较低的家庭提供了体验机会，这体现了其社区支持活动的意义。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Korea East-West Power apoya a 100 familias para ver fútbol de Ulsan HD",
-        "excerpt": "Korea East-West Power, junto con el Centro de Familias de Ulsan, entregó entradas y refrigerios a 100 hogares con acceso limitado a experiencias culturales.",
-        "body": "Korea East-West Power apoyó la asistencia a un partido de fútbol de Ulsan HD con motivo del Mes de la Familia, en cooperación con el Centro de Familias de la ciudad de Ulsan. El programa estuvo dirigido a hogares cuyas condiciones económicas o sociales limitan sus oportunidades de vivir experiencias culturales. La ayuda consistió en entregar entradas y refrigerios a 100 familias. La empresa centró la iniciativa en permitir que las familias compartieran tiempo mediante un evento deportivo y recibieran apoyo emocional. La colaboración con el centro local ofreció una experiencia cultural a hogares con menor acceso a estas actividades. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Korea East-West Power apoia 100 famílias em jogo do Ulsan HD",
-        "excerpt": "A Korea East-West Power, com o Centro de Famílias de Ulsan, ofereceu ingressos e lanches a 100 famílias com acesso limitado a experiências culturais.",
-        "body": "A Korea East-West Power apoiou a ida a uma partida de futebol do Ulsan HD durante o Mês da Família, em cooperação com o Centro de Famílias da cidade de Ulsan. A ação foi voltada a famílias cujas condições econômicas ou sociais limitam as oportunidades de vivenciar experiências culturais. Foram fornecidos ingressos e lanches a 100 famílias. A empresa concentrou a iniciativa em ajudar as famílias a passarem tempo juntas por meio do esporte e a receberem apoio emocional. A parceria com o centro local levou uma experiência cultural a lares com menor acesso a esse tipo de atividade. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Korea East-West Power ermöglicht 100 Familien Besuch bei Ulsan HD",
-        "excerpt": "Korea East-West Power stellte mit dem Familienzentrum Ulsan 100 Haushalten mit begrenztem Zugang zu Kultur Tickets und Snacks für ein Ulsan-HD-Spiel bereit.",
-        "body": "Korea East-West Power unterstützte im Familienmonat gemeinsam mit dem Familienzentrum der Stadt Ulsan den Besuch eines Fußballspiels von Ulsan HD. Das Angebot richtete sich an Familien, deren wirtschaftliche oder soziale Lage kulturelle Erlebnisse nur eingeschränkt ermöglicht. Insgesamt erhielten 100 Haushalte Eintrittskarten und Snacks. Der Schwerpunkt lag darauf, Familien durch ein Sportereignis gemeinsame Zeit und emotionale Unterstützung zu ermöglichen. Durch die Zusammenarbeit mit dem lokalen Familienzentrum wurde Haushalten mit geringerem Zugang zu kulturellen Angeboten eine konkrete Erfahrung eröffnet. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Korea East-West Power aide 100 familles à voir un match d’Ulsan HD",
-        "excerpt": "Korea East-West Power, avec le Centre des familles d’Ulsan, a offert billets et collations à 100 foyers ayant un accès limité aux expériences culturelles.",
-        "body": "Korea East-West Power a soutenu la participation à un match de football d’Ulsan HD pendant le Mois de la famille, en coopération avec le Centre des familles de la ville d’Ulsan. L’action visait les familles dont les conditions économiques ou sociales limitent les occasions d’accès aux expériences culturelles. Des billets et des collations ont été fournis à 100 foyers. L’entreprise a mis l’accent sur le fait d’aider les familles à passer du temps ensemble grâce au sport et à bénéficier d’un soutien émotionnel. Avec le centre local, elle a offert une expérience culturelle à des foyers moins exposés à ce type d’activité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوريا إيست-ويست باور تدعم 100 أسرة لمشاهدة مباراة أولسان HD",
-        "excerpt": "قدمت كوريا إيست-ويست باور، بالتعاون مع مركز أسر مدينة أولسان، تذاكر ووجبات خفيفة لـ100 أسرة محدودة الفرص في التجارب الثقافية خلال شهر الأسرة.",
-        "body": "دعمت كوريا إيست-ويست باور حضور مباراة كرة قدم لفريق أولسان HD بمناسبة شهر الأسرة، وذلك بالتعاون مع مركز أسر مدينة أولسان. واستهدف البرنامج الأسر التي تحد ظروفها الاقتصادية أو الاجتماعية من فرصها في خوض تجارب ثقافية. وجرى تقديم تذاكر مشاهدة ووجبات خفيفة إلى 100 أسرة. وركزت الشركة على مساعدة العائلات على قضاء وقت مشترك من خلال حدث رياضي والحصول على دعم عاطفي. ومن خلال التعاون مع مركز الأسر المحلي، أتيحت تجربة ثقافية لأسر ذات وصول أقل إلى هذه الأنشطة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Korea East-West Power ने 100 परिवारों को Ulsan HD मैच दिखाने में मदद की",
-        "excerpt": "Korea East-West Power ने फैमिली मंथ पर Ulsan City Family Center के साथ मिलकर सांस्कृतिक अवसरों से वंचित 100 परिवारों को टिकट और स्नैक्स दिए।",
-        "body": "Korea East-West Power ने फैमिली मंथ के अवसर पर Ulsan City Family Center के साथ मिलकर Ulsan HD फुटबॉल मैच देखने में परिवारों की मदद की। यह पहल उन परिवारों के लिए थी जिनकी आर्थिक या सामाजिक परिस्थितियों के कारण सांस्कृतिक अनुभवों के अवसर सीमित हैं। इस सहायता के तहत 100 परिवारों को मैच टिकट और स्नैक्स दिए गए। कंपनी ने खेल आयोजन के माध्यम से परिवारों को साथ समय बिताने और भावनात्मक सहयोग पाने में मदद करने पर ध्यान दिया। स्थानीय फैमिली सेंटर के सहयोग से कम सांस्कृतिक पहुंच वाले परिवारों को अनुभव का अवसर मिला। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Korea East-West Power Dukung 100 Keluarga Tonton Laga Ulsan HD",
-        "excerpt": "Korea East-West Power bersama Pusat Keluarga Kota Ulsan memberi tiket dan camilan kepada 100 keluarga dengan akses terbatas ke pengalaman budaya.",
-        "body": "Korea East-West Power mendukung kehadiran keluarga dalam pertandingan sepak bola Ulsan HD pada Bulan Keluarga melalui kerja sama dengan Pusat Keluarga Kota Ulsan. Program ini menyasar keluarga yang peluang pengalaman budayanya terbatas karena kondisi ekonomi atau sosial. Bantuan diberikan dalam bentuk tiket pertandingan dan camilan kepada 100 keluarga. Perusahaan berfokus membantu keluarga menghabiskan waktu bersama melalui acara olahraga dan memperoleh dukungan emosional. Lewat kerja sama dengan pusat keluarga setempat, kegiatan ini memberi kesempatan pengalaman budaya bagi keluarga dengan akses yang lebih rendah. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "119f7e7c8f83",
-    "slug": "박정희-띄운-李대통령새마을운동-큰-성과-거둬-456401",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T07:16:19.155Z",
-    "updatedAt": "2026-05-14T07:16:19.155Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12047679",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12047679",
-    "titleFingerprint": "d69e80f1e2bfbc8f42c7b33b05f6e35f3760bfec",
-    "dedupKeys": [
-      "119f7e7c8f832768bcb3c101aed3bca87e7dbff8",
-      "d69e80f1e2bfbc8f42c7b33b05f6e35f3760bfec",
-      "c7250e1d3c549c0b5acc1d3f14ccfc22231b7481"
-    ],
-    "imageUrl": "/images/articles/119f7e7c8f83.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이재명 대통령, 새마을운동중앙회 방문…“큰 성과 거둔 운동” 평가",
-        "excerpt": "이재명 대통령은 14일 새마을운동중앙회 현장 간담회에 참석해 새마을운동의 성과를 언급하며 정치에 휘둘리지 않기를 바란다고 밝혔다.",
-        "body": "이재명 대통령은 14일 새마을운동중앙회를 찾아 현장 간담회에 참석하며 국민통합 행보를 이어갔다. 민주·진보 성향 대통령이 새마을운동중앙회를 공식 방문한 것은 이번이 처음으로 전해졌다. 이 대통령은 새마을운동에 대해 “큰 성과를 거뒀다”고 평가하며, 이 운동이 정치에 휘둘리지 않았으면 한다는 뜻을 밝혔다. 이번 방문은 박정희 전 대통령 시절 시작된 새마을운동을 둘러싼 정치적 상징성을 넘어 통합 메시지를 내는 행보로 해석된다. 향후 새마을운동의 공적 역할과 정치적 중립성에 대한 논의가 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "President Lee Visits Saemaul Undong Group, Says Movement Achieved Major Results",
-        "excerpt": "President Lee Jae-myung visited the Saemaul Undong Central Association on the 14th, praising its achievements and saying he hoped it would not be swayed by politics.",
-        "body": "President Lee Jae-myung visited the Saemaul Undong Central Association on the 14th and attended an on-site meeting as part of his push for national unity. It was reported as the first official visit to the association by a democratic or progressive president. Lee said the Saemaul Undong movement had “achieved major results” and expressed hope that it would not be swayed by politics. The visit is seen as a message of integration beyond the political symbolism of a movement launched during former President Park Chung-hee’s era. Discussion is expected to continue over the public role and political neutrality of Saemaul Undong. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "李在明大統領、セマウル運動中央会を訪問「大きな成果」評価",
-        "excerpt": "李在明大統領は14日、セマウル運動中央会の現場懇談会に出席し、同運動の成果に言及して政治に左右されないことを望むと述べた。",
-        "body": "李在明大統領は14日、セマウル運動中央会を訪れ、現場懇談会に出席しながら国民統合に向けた歩みを続けた。民主・進歩系の大統領が同中央会を公式訪問したのは初めてと伝えられている。李大統領はセマウル運動について「大きな成果を収めた」と評価し、この運動が政治に左右されないことを望むとの考えを示した。今回の訪問は、朴正熙元大統領時代に始まったセマウル運動の政治的象徴性を越え、統合のメッセージを出す動きと受け止められる。今後、同運動の公的役割と政治的中立性をめぐる議論が続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "李在明访问新村运动中央会，称其“取得巨大成果”",
-        "excerpt": "李在明总统14日出席新村运动中央会现场座谈，评价新村运动成果，并表示希望其不受政治左右。",
-        "body": "李在明总统14日访问新村运动中央会，出席现场座谈，继续推进国民统合相关行程。据报道，这是民主、进步阵营总统首次正式访问该中央会。李在明评价新村运动“取得了巨大成果”，并表示希望这一运动不要受到政治左右。此次访问被视为试图超越朴正熙前总统时期发起的新村运动所具有的政治象征性，传递统合信息。围绕新村运动的公共作用和政治中立性，今后预计仍将持续讨论。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lee Jae-myung visita la organización Saemaul y destaca sus “grandes logros”",
-        "excerpt": "El presidente Lee Jae-myung asistió el día 14 a una reunión de campo de la Asociación Central Saemaul Undong y dijo que espera que no sea arrastrada por la política.",
-        "body": "El presidente Lee Jae-myung visitó el día 14 la Asociación Central Saemaul Undong y participó en una reunión de campo, continuando con sus gestos de integración nacional. Según se informó, es la primera visita oficial a la asociación por parte de un presidente de tendencia democrática o progresista. Lee afirmó que el movimiento Saemaul Undong “logró grandes resultados” y expresó su deseo de que no sea arrastrado por la política. La visita se interpreta como un mensaje de integración más allá del simbolismo político de un movimiento iniciado durante la era del expresidente Park Chung-hee. Se prevé que continúe el debate sobre su papel público y su neutralidad política. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lee Jae-myung visita grupo Saemaul e diz que movimento teve “grandes resultados”",
-        "excerpt": "O presidente Lee Jae-myung visitou no dia 14 a Associação Central Saemaul Undong, elogiou seus resultados e disse esperar que não seja influenciada pela política.",
-        "body": "O presidente Lee Jae-myung visitou no dia 14 a Associação Central Saemaul Undong e participou de uma reunião no local, dando continuidade a seus gestos de integração nacional. Segundo foi relatado, esta foi a primeira visita oficial à entidade por um presidente de perfil democrático ou progressista. Lee afirmou que o movimento Saemaul Undong “alcançou grandes resultados” e disse esperar que ele não seja influenciado pela política. A visita é vista como uma mensagem de integração para além do simbolismo político de um movimento iniciado durante a era do ex-presidente Park Chung-hee. A discussão sobre seu papel público e sua neutralidade política deve continuar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lee Jae-myung besucht Saemaul-Verband und würdigt “große Erfolge”",
-        "excerpt": "Präsident Lee Jae-myung besuchte am 14. die Saemaul Undong Central Association, lobte die Leistungen der Bewegung und wünschte sich politische Unabhängigkeit.",
-        "body": "Präsident Lee Jae-myung besuchte am 14. die Saemaul Undong Central Association und nahm an einem Vor-Ort-Gespräch teil, womit er seinen Kurs der nationalen Integration fortsetzte. Berichten zufolge war es der erste offizielle Besuch eines demokratischen oder progressiven Präsidenten bei der Organisation. Lee sagte, die Saemaul-Undong-Bewegung habe “große Ergebnisse erzielt”, und äußerte die Hoffnung, dass sie nicht von der Politik beeinflusst werde. Der Besuch wird als Integrationssignal über die politische Symbolik einer Bewegung hinaus gesehen, die in der Ära des früheren Präsidenten Park Chung-hee begann. Die Debatte über ihre öffentliche Rolle und politische Neutralität dürfte weitergehen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lee Jae-myung visite l’association Saemaul et salue ses “grands résultats”",
-        "excerpt": "Le président Lee Jae-myung s’est rendu le 14 à l’Association centrale Saemaul Undong, a salué ses résultats et a souhaité qu’elle ne soit pas influencée par la politique.",
-        "body": "Le président Lee Jae-myung s’est rendu le 14 à l’Association centrale Saemaul Undong et a participé à une réunion sur le terrain, poursuivant ses gestes en faveur de l’intégration nationale. Selon les informations rapportées, il s’agit de la première visite officielle de l’association par un président démocrate ou progressiste. Lee a estimé que le mouvement Saemaul Undong avait “obtenu de grands résultats” et a dit espérer qu’il ne serait pas influencé par la politique. Cette visite est interprétée comme un message d’intégration au-delà du symbole politique d’un mouvement lancé sous l’ancien président Park Chung-hee. Le débat sur son rôle public et sa neutralité politique devrait se poursuivre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لي جاي ميونغ يزور رابطة سايماول ويصف نتائج الحركة بأنها كبيرة",
-        "excerpt": "زار الرئيس لي جاي ميونغ في 14 الشهر رابطة سايماول أوندونغ المركزية، وأشاد بإنجازات الحركة قائلا إنه يأمل ألا تتأثر بالسياسة.",
-        "body": "زار الرئيس لي جاي ميونغ في 14 الشهر رابطة سايماول أوندونغ المركزية وشارك في لقاء ميداني، مواصلا خطواته نحو الوحدة الوطنية. وورد أن هذه هي أول زيارة رسمية للرابطة من جانب رئيس ذي توجه ديمقراطي أو تقدمي. وقال لي إن حركة سايماول أوندونغ “حققت نتائج كبيرة”، معربا عن أمله في ألا تكون خاضعة لتقلبات السياسة. وتُفهم الزيارة على أنها رسالة تكامل تتجاوز الرمزية السياسية لحركة بدأت في عهد الرئيس الأسبق بارك تشونغ هي. ومن المتوقع أن يستمر النقاش حول الدور العام للحركة وحيادها السياسي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ली जे-म्युंग ने सैमाउल संगठन का दौरा किया, “बड़ी उपलब्धियां” बताईं",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 14 तारीख को सैमाउल उंदोंग सेंट्रल एसोसिएशन की बैठक में भाग लिया, उपलब्धियों की सराहना की और राजनीति से अप्रभावित रहने की उम्मीद जताई।",
-        "body": "राष्ट्रपति ली जे-म्युंग ने 14 तारीख को सैमाउल उंदोंग सेंट्रल एसोसिएशन का दौरा किया और स्थल पर आयोजित बैठक में भाग लेते हुए राष्ट्रीय एकता से जुड़ी अपनी पहल जारी रखी। बताया गया कि किसी लोकतांत्रिक या प्रगतिशील रुझान वाले राष्ट्रपति की इस संगठन में यह पहली आधिकारिक यात्रा है। ली ने सैमाउल उंदोंग के बारे में कहा कि इसने “बड़ी उपलब्धियां हासिल कीं” और उम्मीद जताई कि यह आंदोलन राजनीति से प्रभावित नहीं होगा। यह यात्रा पूर्व राष्ट्रपति पार्क चुंग-ही के दौर में शुरू हुए आंदोलन के राजनीतिक प्रतीकवाद से आगे बढ़कर एकता का संदेश देने के रूप में देखी जा रही है। इसके सार्वजनिक दायित्व और राजनीतिक तटस्थता पर चर्चा आगे भी जारी रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lee Jae-myung Kunjungi Saemaul Undong, Sebut Gerakan Raih Hasil Besar",
-        "excerpt": "Presiden Lee Jae-myung pada tanggal 14 mengunjungi Asosiasi Pusat Saemaul Undong, memuji capaiannya, dan berharap gerakan itu tidak terseret politik.",
-        "body": "Presiden Lee Jae-myung pada tanggal 14 mengunjungi Asosiasi Pusat Saemaul Undong dan menghadiri pertemuan lapangan, melanjutkan langkahnya untuk mendorong integrasi nasional. Kunjungan ini dilaporkan sebagai kunjungan resmi pertama ke asosiasi tersebut oleh presiden dari kubu demokrat atau progresif. Lee menilai Saemaul Undong telah “meraih hasil besar” dan menyampaikan harapan agar gerakan itu tidak terseret oleh politik. Kunjungan ini dipandang sebagai pesan integrasi yang melampaui simbolisme politik gerakan yang dimulai pada era mantan Presiden Park Chung-hee. Pembahasan mengenai peran publik dan netralitas politik Saemaul Undong diperkirakan akan berlanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a78d44b51b71",
-    "slug": "고맙다-메이플넥슨-1분기-최대-실적-기록-381904",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T07:15:11.411Z",
-    "updatedAt": "2026-05-14T07:15:11.411Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12047683",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12047683",
-    "titleFingerprint": "02034b3f862f106e725e99417ec287b343cbd82a",
-    "dedupKeys": [
-      "a78d44b51b71bcbb40f452ea8899f31d7496e1c8",
-      "02034b3f862f106e725e99417ec287b343cbd82a",
-      "4b0e3e7d72487bdfd03998c7ab6b90fc34e3459d"
-    ],
-    "imageUrl": "/images/articles/a78d44b51b71.png",
-    "i18n": {
-      "ko": {
-        "title": "넥슨 1분기 최대 실적 달성, 메이플·아크 레이더스 해외 흥행이 이끈 성장세 주목",
-        "excerpt": "넥슨이 올해 1분기 단일 분기 기준 역대 최대 매출 1.4조원과 영업이익 5400억원을 기록했다. 메이플스토리와 아크 레이더스의 해외 인기가 실적을 견인했다.",
-        "body": "넥슨이 올해 1분기에 단일 분기 기준 역대 최대 매출과 영업이익을 달성했다. 회사는 분기 매출 1.4조원, 영업이익 5400억원을 기록했으며, 대표 지식재산인 메이플스토리와 신작 아크 레이더스가 해외 시장에서 인기를 얻은 점이 실적 확대의 핵심 배경으로 제시됐다. 이번 성과는 기존 장기 흥행작과 글로벌 시장에서 주목받은 게임이 동시에 기여한 결과로 해석된다. 매출과 이익이 모두 분기 기준 최고치를 기록하면서 넥슨의 해외 시장 성과와 주요 게임 지식재산의 영향력이 다시 확인됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Nexon Posts Record Q1 Results as MapleStory and Arc Raiders Gain Overseas Momentum",
-        "excerpt": "Nexon recorded its highest-ever quarterly revenue and operating profit in Q1, with sales of 1.4 trillion won and operating profit of 540 billion won, led by overseas popularity for MapleStory and Arc Raiders.",
-        "body": "Nexon achieved its highest-ever revenue and operating profit for a single quarter in the first quarter. The company reported quarterly revenue of 1.4 trillion won and operating profit of 540 billion won. The main backdrop cited for the performance was the overseas popularity of MapleStory, one of Nexon’s key intellectual properties, and Arc Raiders. The result shows that both a long-running hit title and a game drawing attention in global markets contributed to the company’s growth. With revenue and profit both reaching quarterly records, Nexon’s overseas performance and the influence of its major game IP were reaffirmed. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ネクソン第1四半期が過去最高、メイプルストーリーとArc Raidersの海外人気がけん引",
-        "excerpt": "ネクソンは第1四半期に単一四半期ベースで過去最高の売上高1.4兆ウォン、営業利益5400億ウォンを記録した。メイプルストーリーとArc Raidersの海外人気が支えた。",
-        "body": "ネクソンは今年第1四半期、単一四半期として過去最高の売上高と営業利益を達成した。四半期売上高は1.4兆ウォン、営業利益は5400億ウォンとなった。主な背景として、代表的な知的財産であるメイプルストーリーとArc Raidersが海外市場で人気を得たことが挙げられている。今回の成果は、長期にわたり人気を維持してきたタイトルと、グローバル市場で注目されたゲームが同時に寄与した結果と受け止められる。売上高と利益がいずれも四半期ベースで最高値を記録し、ネクソンの海外市場での成果と主要ゲームIPの影響力が改めて確認された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Nexon第一季度创历史新高，MapleStory与Arc Raiders海外热度拉动业绩",
-        "excerpt": "Nexon今年第一季度实现单季历史最高业绩，营收达1.4万亿韩元，营业利润为5400亿韩元。MapleStory和Arc Raiders在海外市场的人气成为主要动力。",
-        "body": "Nexon今年第一季度实现了单一季度口径下的历史最高营收和营业利润。公司季度营收为1.4万亿韩元，营业利润为5400亿韩元。业绩扩大的核心背景被认为是代表性知识产权MapleStory以及Arc Raiders在海外市场获得人气。此次成绩可解读为长期热门作品与在全球市场受到关注的游戏同时贡献的结果。随着营收和利润均刷新季度纪录，Nexon在海外市场的表现以及主要游戏知识产权的影响力再次得到确认。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Nexon logra récord en el primer trimestre impulsado por MapleStory y Arc Raiders en el exterior",
-        "excerpt": "Nexon alcanzó en el primer trimestre sus mayores ingresos y beneficio operativo trimestrales, con ventas de 1,4 billones de wones y beneficio operativo de 540.000 millones, apoyado en MapleStory y Arc Raiders.",
-        "body": "Nexon logró en el primer trimestre sus mayores ingresos y beneficio operativo para un solo trimestre. La compañía registró ventas trimestrales de 1,4 billones de wones y un beneficio operativo de 540.000 millones de wones. El principal contexto señalado fue la popularidad en los mercados extranjeros de MapleStory, una de sus propiedades intelectuales representativas, y de Arc Raiders. El resultado se interpreta como la contribución conjunta de un título de larga trayectoria y de un juego que recibió atención en el mercado global. Al marcar récords trimestrales tanto en ingresos como en beneficio, se confirmó de nuevo el desempeño exterior de Nexon y la influencia de sus principales IP de juegos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Nexon bate recorde no 1º trimestre com força global de MapleStory e Arc Raiders",
-        "excerpt": "A Nexon registrou no 1º trimestre a maior receita e o maior lucro operacional de sua história em um trimestre, com 1,4 trilhão de won em vendas e 540 bilhões de won em lucro operacional.",
-        "body": "A Nexon alcançou no primeiro trimestre a maior receita e o maior lucro operacional já registrados pela empresa em um único trimestre. A companhia informou receita trimestral de 1,4 trilhão de won e lucro operacional de 540 bilhões de won. O principal fator apontado foi a popularidade nos mercados externos de MapleStory, uma de suas propriedades intelectuais representativas, e de Arc Raiders. O resultado mostra a contribuição simultânea de um título de sucesso duradouro e de um jogo que ganhou destaque no mercado global. Com receita e lucro em níveis recordes trimestrais, o desempenho internacional da Nexon e a força de suas principais IPs de jogos foram novamente confirmados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Nexon erzielt Rekordquartal: MapleStory und Arc Raiders treiben Q1-Ergebnis im Ausland",
-        "excerpt": "Nexon erreichte im ersten Quartal den höchsten Umsatz und operativen Gewinn seiner Geschichte in einem Einzelquartal: 1,4 Billionen Won Umsatz und 540 Milliarden Won operativer Gewinn.",
-        "body": "Nexon hat im ersten Quartal den höchsten Umsatz und den höchsten operativen Gewinn erzielt, die das Unternehmen je in einem einzelnen Quartal verzeichnet hat. Der Quartalsumsatz lag bei 1,4 Billionen Won, der operative Gewinn bei 540 Milliarden Won. Als zentraler Hintergrund wurde die Popularität von MapleStory, einer wichtigen geistigen Eigentumsmarke des Unternehmens, sowie von Arc Raiders in Auslandsmärkten genannt. Das Ergebnis lässt sich als gemeinsamer Beitrag eines langjährigen Erfolgstitels und eines Spiels verstehen, das auf globalen Märkten Aufmerksamkeit erhielt. Da sowohl Umsatz als auch Gewinn Quartalsrekorde erreichten, wurden Nexons Auslandserfolge und der Einfluss seiner wichtigsten Spiele-IP erneut bestätigt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Nexon signe un premier trimestre record grâce à MapleStory et Arc Raiders à l’international",
-        "excerpt": "Nexon a enregistré au premier trimestre ses plus hauts revenus et bénéfices opérationnels trimestriels, avec 1,4 billion de wons de chiffre d’affaires et 540 milliards de wons de bénéfice opérationnel.",
-        "body": "Nexon a réalisé au premier trimestre son plus haut chiffre d’affaires et son plus haut bénéfice opérationnel jamais atteints sur un seul trimestre. L’entreprise a enregistré un chiffre d’affaires trimestriel de 1,4 billion de wons et un bénéfice opérationnel de 540 milliards de wons. Le principal facteur mis en avant est la popularité à l’étranger de MapleStory, l’une de ses propriétés intellectuelles majeures, ainsi que d’Arc Raiders. Cette performance s’explique par la contribution conjointe d’un titre durablement populaire et d’un jeu remarqué sur les marchés mondiaux. Avec des records trimestriels à la fois en revenus et en bénéfice, la performance internationale de Nexon et l’influence de ses principales licences de jeux ont été confirmées. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نكسون تسجل رقما قياسيا في الربع الأول بدعم MapleStory وArc Raiders عالميا",
-        "excerpt": "سجلت نكسون في الربع الأول أعلى إيرادات وأرباح تشغيلية فصلية في تاريخها، مع مبيعات بلغت 1.4 تريليون وون وأرباح تشغيلية قدرها 540 مليار وون، بدعم شعبية MapleStory وArc Raiders في الخارج.",
-        "body": "حققت نكسون في الربع الأول أعلى إيرادات وأرباح تشغيلية على أساس ربع سنوي منفرد في تاريخها. وسجلت الشركة إيرادات فصلية بلغت 1.4 تريليون وون، وأرباحا تشغيلية بلغت 540 مليار وون. وبرزت شعبية MapleStory، وهي من الملكيات الفكرية الرئيسية للشركة، إلى جانب Arc Raiders في الأسواق الخارجية كخلفية أساسية لتوسع النتائج. ويعكس هذا الأداء مساهمة متزامنة من لعبة طويلة النجاح ولعبة حظيت باهتمام في الأسواق العالمية. ومع تسجيل الإيرادات والأرباح أعلى مستوى فصلي، تأكد مجددا أداء نكسون في الأسواق الخارجية وتأثير ملكياتها الفكرية الرئيسية في الألعاب. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Nexon की पहली तिमाही में रिकॉर्ड कमाई, MapleStory और Arc Raiders की विदेशी लोकप्रियता बनी आधार",
-        "excerpt": "Nexon ने पहली तिमाही में एकल तिमाही के आधार पर अब तक का सबसे बड़ा राजस्व और परिचालन लाभ दर्ज किया। राजस्व 1.4 ट्रिलियन वॉन और परिचालन लाभ 540 बिलियन वॉन रहा।",
-        "body": "Nexon ने इस वर्ष पहली तिमाही में एकल तिमाही के आधार पर अपना अब तक का सबसे बड़ा राजस्व और परिचालन लाभ हासिल किया। कंपनी ने तिमाही राजस्व 1.4 ट्रिलियन वॉन और परिचालन लाभ 540 बिलियन वॉन दर्ज किया। प्रदर्शन बढ़ने की प्रमुख पृष्ठभूमि के रूप में कंपनी की प्रतिनिधि बौद्धिक संपदा MapleStory और Arc Raiders की विदेशी बाजारों में लोकप्रियता सामने रखी गई। यह परिणाम लंबे समय से लोकप्रिय शीर्षक और वैश्विक बाजार में ध्यान पाने वाले गेम के संयुक्त योगदान के रूप में देखा जा सकता है। राजस्व और लाभ दोनों के तिमाही रिकॉर्ड पर पहुंचने से Nexon के विदेशी बाजार प्रदर्शन और प्रमुख गेम IP के प्रभाव की फिर पुष्टि हुई। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Nexon Catat Rekor Kuartal I, MapleStory dan Arc Raiders Dorong Kinerja Global",
-        "excerpt": "Nexon mencatat pendapatan dan laba operasional tertinggi untuk satu kuartal pada kuartal I, dengan pendapatan 1,4 triliun won dan laba operasional 540 miliar won, didorong MapleStory dan Arc Raiders.",
-        "body": "Nexon mencapai pendapatan dan laba operasional tertinggi sepanjang sejarah perusahaan untuk satu kuartal pada kuartal pertama tahun ini. Perusahaan membukukan pendapatan kuartalan 1,4 triliun won dan laba operasional 540 miliar won. Latar utama yang disebutkan adalah popularitas MapleStory, salah satu kekayaan intelektual utama Nexon, serta Arc Raiders di pasar luar negeri. Capaian ini dapat dipahami sebagai kontribusi bersama dari judul yang telah lama populer dan game yang mendapat perhatian di pasar global. Dengan pendapatan dan laba sama-sama mencetak rekor kuartalan, kinerja Nexon di pasar luar negeri dan pengaruh IP game utamanya kembali terkonfirmasi. Sumber: mk.co.kr"
       }
     }
   }
