@@ -1,5 +1,230 @@
 [
   {
+    "id": "12bdcbb848c6",
+    "slug": "작년에-대박냈는데-올해는-그-두-배반도체-아닌데-불타는-이-기업-699546",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T21:31:03.182Z",
+    "updatedAt": "2026-05-14T21:31:03.182Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048636",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048636",
+    "titleFingerprint": "759ae97bf2f506ccfff5b54a519275d0088ca2dc",
+    "dedupKeys": [
+      "12bdcbb848c6358b79cfcd40cd87778066689ba8",
+      "759ae97bf2f506ccfff5b54a519275d0088ca2dc",
+      "a7b993b38ce62576b78b11ce2d2423baa507aa21"
+    ],
+    "imageUrl": "/images/articles/12bdcbb848c6.png",
+    "i18n": {
+      "ko": {
+        "title": "한국투자증권 1분기 순익 7847억, MTS·IMA가 이끈 증권사 랠리",
+        "excerpt": "한국투자증권은 올해 1분기 순이익 7847억원을 기록하며 증시 랠리 속에서 MTS 개편, 글로벌 협력, 2.6조원 규모 IMA 자금운용을 성장 동력으로 제시했다.",
+        "body": "한국투자증권은 올해 1분기 순이익 7847억원을 기록하며 국내 증권사들의 실적 랠리 속에서 두드러진 성과를 냈다. 증시 상승 흐름이 이어지는 가운데 회사는 MTS 개편, 글로벌 협력 확대, 2.6조원 규모의 IMA 자금운용을 핵심 요인으로 내세웠다. 특정 부문에 치우치지 않은 고른 수익구조도 성장의 배경으로 제시됐다. 원문은 부문별 수익이 유기적으로 맞물리며 선순환 성장을 입증했다고 평가했다. 증권업 전반의 ‘역대급’ 실적 흐름 속에서 한국투자증권의 향후 수익 지속성이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Investment Securities Q1 Net Profit Hits 784.7 Billion Won on MTS and IMA Momentum",
+        "excerpt": "Korea Investment Securities posted 784.7 billion won in first-quarter net profit as the market rally, MTS revamp, global partnerships and 2.6 trillion won in IMA fund management supported growth.",
+        "body": "Korea Investment Securities recorded first-quarter net profit of 784.7 billion won this year, standing out as domestic brokerages benefited from a continued stock-market rally. The company cited its MTS overhaul, broader global cooperation and 2.6 trillion won in IMA fund management as key growth drivers. A balanced earnings structure across divisions was also presented as part of the backdrop. The original report said profits from different businesses worked together organically, proving a virtuous cycle of growth. As Korean securities firms post what the report describes as record-level results, attention is turning to whether Korea Investment Securities can sustain that profitability. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国投資証券、1四半期純利益7847億ウォン　MTSとIMAが成長をけん引",
+        "excerpt": "韓国投資証券は今年1四半期に純利益7847億ウォンを記録し、株式市場の上昇、MTS改編、グローバル協力、2.6兆ウォン規模のIMA運用が成長を支えた。",
+        "body": "韓国投資証券は今年1四半期、純利益7847億ウォンを記録し、国内証券会社の好業績の流れの中で目立つ成果を上げた。株式市場の上昇が続くなか、同社はMTSの改編、グローバル協力の拡大、2.6兆ウォン規模のIMA資金運用を主要な成長要因として示した。特定部門に偏らないバランスの取れた収益構造も背景に挙げられた。原文は、部門別収益が有機的に連動し、好循環の成長を証明したと評価している。証券業界全体で「過去最高級」の実績が続くなか、韓国投資証券の収益持続性が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国投资证券一季度净利7847亿韩元，MTS改版与IMA运用带动增长",
+        "excerpt": "韩国投资证券今年一季度实现净利润7847亿韩元，在股市上涨背景下，MTS改版、全球合作及2.6万亿韩元IMA资金运用成为增长动力。",
+        "body": "韩国投资证券今年一季度实现净利润7847亿韩元，在韩国本土证券公司业绩走强的背景下表现突出。随着股市上涨行情延续，公司将MTS改版、全球合作扩大以及2.6万亿韩元规模的IMA资金运用列为主要增长因素。报道还指出，其收益结构并未偏向单一部门，而是呈现较为均衡的特点。原文评价称，各业务部门收益有机联动，证明了良性循环式增长。随着韩国证券业整体出现“历史级”业绩走势，韩国投资证券未来能否维持盈利能力受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea Investment Securities gana 784.700 millones de wones en el primer trimestre por MTS e IMA",
+        "excerpt": "Korea Investment Securities registró 784.700 millones de wones de beneficio neto en el primer trimestre, apoyada por el repunte bursátil, la reforma de MTS, alianzas globales y 2,6 billones en IMA.",
+        "body": "Korea Investment Securities registró este año un beneficio neto de 784.700 millones de wones en el primer trimestre y destacó dentro del repunte de resultados de las corredoras surcoreanas. Con la subida del mercado bursátil aún en marcha, la firma señaló como motores la reorganización de su MTS, la ampliación de la cooperación global y la gestión de 2,6 billones de wones en fondos IMA. También se citó una estructura de ingresos equilibrada entre divisiones. El informe original evaluó que las ganancias por área se conectaron de forma orgánica y demostraron un crecimiento de ciclo virtuoso. En medio de resultados descritos como históricos para el sector, se observa la continuidad de sus beneficios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea Investment Securities tem lucro líquido de 784,7 bi de wones no 1º tri com MTS e IMA",
+        "excerpt": "A Korea Investment Securities registrou lucro líquido de 784,7 bilhões de wones no primeiro trimestre, impulsionada pelo rali das bolsas, reformulação do MTS, cooperação global e 2,6 tri de wones em IMA.",
+        "body": "A Korea Investment Securities registrou neste ano lucro líquido de 784,7 bilhões de wones no primeiro trimestre, destacando-se em meio ao avanço dos resultados das corretoras sul-coreanas. Com a continuidade do rali no mercado acionário, a companhia apontou a reformulação do MTS, a ampliação da cooperação global e a gestão de 2,6 trilhões de wones em recursos IMA como fatores centrais de crescimento. A estrutura de receitas equilibrada entre áreas também foi citada como pano de fundo. A reportagem original avaliou que os ganhos por divisão se conectaram organicamente e comprovaram um ciclo virtuoso de crescimento. Com o setor em desempenho considerado recorde, a sustentabilidade dos lucros segue em foco. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Investment Securities erzielt 784,7 Mrd. Won Quartalsgewinn dank MTS und IMA",
+        "excerpt": "Korea Investment Securities meldete im ersten Quartal 784,7 Mrd. Won Nettogewinn; Börsenrally, MTS-Umbau, globale Kooperationen und 2,6 Bio. Won IMA-Verwaltung stützten das Wachstum.",
+        "body": "Korea Investment Securities erzielte in diesem Jahr im ersten Quartal einen Nettogewinn von 784,7 Mrd. Won und stach damit in der Ergebnisrally südkoreanischer Wertpapierhäuser hervor. Während der Aufwärtstrend am Aktienmarkt anhält, nannte das Unternehmen den Umbau seiner MTS-Plattform, den Ausbau globaler Kooperationen und die Verwaltung von 2,6 Bio. Won an IMA-Mitteln als zentrale Wachstumstreiber. Auch eine ausgewogene Ertragsstruktur über die Geschäftsbereiche hinweg wurde als Hintergrund genannt. Der Originalbericht bewertete, dass die Bereichserträge organisch ineinandergreifen und ein Wachstum im positiven Kreislauf belegen. Inmitten rekordnaher Branchenergebnisse rückt die Nachhaltigkeit der Gewinne in den Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea Investment Securities affiche 784,7 Mds de wons de bénéfice net au T1 grâce au MTS et à l’IMA",
+        "excerpt": "Korea Investment Securities a dégagé 784,7 Mds de wons de bénéfice net au premier trimestre, portée par le rally boursier, la refonte du MTS, les coopérations mondiales et 2,6 billions de wons en IMA.",
+        "body": "Korea Investment Securities a enregistré cette année un bénéfice net de 784,7 milliards de wons au premier trimestre, se distinguant dans la progression des résultats des sociétés de courtage sud-coréennes. Alors que la hausse du marché actions se poursuit, l’entreprise a cité la refonte de son MTS, l’élargissement des coopérations mondiales et la gestion de 2,6 billions de wons de fonds IMA comme moteurs clés. Une structure de revenus équilibrée entre les divisions a aussi été présentée comme facteur de fond. L’article original estime que les revenus par secteur se sont articulés de manière organique, prouvant une croissance en cercle vertueux. Dans un secteur aux performances qualifiées d’exceptionnelles, la durabilité des bénéfices reste surveillée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا إنفستمنت سيكيوريتيز تحقق 784.7 مليار وون ربحا صافيا في الربع الأول بدعم MTS وIMA",
+        "excerpt": "سجلت كوريا إنفستمنت سيكيوريتيز 784.7 مليار وون ربحا صافيا في الربع الأول، مدعومة بصعود الأسهم وتطوير MTS والتعاون العالمي وإدارة 2.6 تريليون وون عبر IMA.",
+        "body": "حققت كوريا إنفستمنت سيكيوريتيز هذا العام ربحا صافيا قدره 784.7 مليار وون في الربع الأول، لتبرز وسط موجة نتائج قوية لدى شركات الأوراق المالية المحلية. ومع استمرار صعود سوق الأسهم، أشارت الشركة إلى تطوير منصة MTS، وتوسيع التعاون العالمي، وإدارة 2.6 تريليون وون من أموال IMA بوصفها عوامل رئيسية للنمو. كما عُرض هيكل الإيرادات المتوازن بين الأقسام كخلفية مهمة. وقيّم التقرير الأصلي أن إيرادات القطاعات تفاعلت عضويا وأثبتت نموا قائما على دورة إيجابية. وفي ظل نتائج يصفها القطاع بأنها قياسية، تتجه الأنظار إلى قدرة الشركة على الحفاظ على الربحية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Korea Investment Securities का Q1 शुद्ध लाभ 784.7 अरब वॉन, MTS और IMA से मिली रफ्तार",
+        "excerpt": "Korea Investment Securities ने पहली तिमाही में 784.7 अरब वॉन का शुद्ध लाभ दर्ज किया; शेयर बाजार की तेजी, MTS बदलाव, वैश्विक सहयोग और 2.6 ट्रिलियन वॉन IMA प्रबंधन ने वृद्धि को सहारा दिया।",
+        "body": "Korea Investment Securities ने इस वर्ष पहली तिमाही में 784.7 अरब वॉन का शुद्ध लाभ दर्ज किया और घरेलू प्रतिभूति कंपनियों के मजबूत नतीजों के बीच अलग दिखी। शेयर बाजार की तेजी जारी रहने के बीच कंपनी ने MTS में बदलाव, वैश्विक सहयोग के विस्तार और 2.6 ट्रिलियन वॉन के IMA फंड प्रबंधन को प्रमुख वृद्धि कारक बताया। अलग-अलग विभागों में संतुलित आय संरचना को भी पृष्ठभूमि के रूप में पेश किया गया। मूल रिपोर्ट के अनुसार, विभागीय आय ने जैविक रूप से एक-दूसरे को सहारा दिया और सकारात्मक चक्र वाली वृद्धि को साबित किया। प्रतिभूति उद्योग में रिकॉर्ड स्तर के नतीजों के बीच कंपनी की लाभ टिकाऊपन पर ध्यान है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea Investment Securities Cetak Laba Bersih Q1 784,7 Miliar Won, Didorong MTS dan IMA",
+        "excerpt": "Korea Investment Securities membukukan laba bersih 784,7 miliar won pada kuartal I, didukung reli pasar saham, perombakan MTS, kerja sama global, dan pengelolaan dana IMA 2,6 triliun won.",
+        "body": "Korea Investment Securities mencatat laba bersih 784,7 miliar won pada kuartal pertama tahun ini, menonjol di tengah reli kinerja perusahaan sekuritas domestik. Seiring berlanjutnya kenaikan pasar saham, perusahaan menyebut perombakan MTS, perluasan kerja sama global, dan pengelolaan dana IMA senilai 2,6 triliun won sebagai faktor utama pertumbuhan. Struktur pendapatan yang merata antarbidang juga disebut sebagai latar penting. Laporan asli menilai pendapatan tiap divisi saling terhubung secara organik dan membuktikan pertumbuhan dalam siklus positif. Di tengah kinerja industri sekuritas yang disebut mencapai level historis, keberlanjutan laba perusahaan menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1a060c3e8113",
+    "slug": "코스피-대표선수-물갈이-됐다삼바-빠지고-삼성전기-톱10-차트인-861719",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T21:29:55.574Z",
+    "updatedAt": "2026-05-14T21:29:55.574Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048637",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048637",
+    "titleFingerprint": "5710fcb833c8e2aeff480b4fb4b211d5a209ea1c",
+    "dedupKeys": [
+      "1a060c3e8113de600b6376f6cdef49350117f958",
+      "5710fcb833c8e2aeff480b4fb4b211d5a209ea1c",
+      "8e9a78383c32c5059665ad6bd18955bc32119575"
+    ],
+    "imageUrl": "/images/articles/1a060c3e8113.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 시총 톱10 재편, 삼바 빠지고 삼성전기 첫 차트인",
+        "excerpt": "코스피 시가총액 상위 10개 종목이 AI 수혜주 중심으로 바뀌며 삼성바이오로직스가 빠지고 삼성전기가 새로 진입했다.",
+        "body": "코스피 대표 종목 구성이 최근 크게 바뀌었다. 매일경제에 따르면 시가총액 상위 10개 종목에서 삼성바이오로직스가 빠지고 삼성전기가 새로 이름을 올렸다. AI 수혜주가 코스피 톱10을 사실상 독식하는 흐름 속에서 한화에어로스페이스와 KB금융 등이 제외됐고, SK스퀘어와 두산에너빌리티 등이 편입됐다. 특히 삼성전기는 주가가 1년 사이 10배로 뛰며 톱10에 진입했고, 그룹 내 시가총액 순위에도 변화가 나타났다. HD현대일렉트릭과 SK스퀘어 등도 시장 재평가 흐름의 중심에 섰다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "KOSPI Top 10 Reshuffle: Samsung Bio Out, Samsung Electro-Mechanics In",
+        "excerpt": "The KOSPI market-cap top 10 has shifted toward AI beneficiaries, with Samsung Biologics leaving and Samsung Electro-Mechanics entering the ranking.",
+        "body": "The lineup of KOSPI representative stocks has recently changed sharply. According to Maeil Business Newspaper, Samsung Biologics dropped out of the top 10 by market capitalization, while Samsung Electro-Mechanics newly entered the list. As AI beneficiary stocks came to dominate the KOSPI top 10, Hanwha Aerospace and KB Financial were removed, while SK Square and Doosan Enerbility were added. Samsung Electro-Mechanics drew attention as its share price rose tenfold over the past year, changing the market-cap ranking within the Samsung group. HD Hyundai Electric and SK Square also stood at the center of this market revaluation. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "KOSPI時価総額トップ10再編、サムスンバイオ外れサムスン電機入り",
+        "excerpt": "KOSPIの時価総額上位10銘柄がAI関連株中心に変わり、サムスンバイオロジクスが外れサムスン電機が新たに入った。",
+        "body": "KOSPIを代表する銘柄構成が最近大きく変わった。毎日経済によると、時価総額上位10銘柄からサムスンバイオロジクスが外れ、サムスン電機が新たに名を連ねた。AI恩恵株がKOSPIトップ10をほぼ占める流れの中で、ハンファエアロスペースやKB金融などが除外され、SKスクエアや斗山エナビリティなどが組み入れられた。特にサムスン電機は株価が1年で10倍に上昇しトップ10入りし、グループ内の時価総額順位にも変化が生じた。HD現代エレクトリックやSKスクエアも市場再評価の中心に立っている。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "KOSPI市值前十洗牌：三星生物出局，三星电机新进榜",
+        "excerpt": "KOSPI市值前十成分近期转向AI受益股，三星生物制剂退出，三星电机新进入榜，市场排序出现变化。",
+        "body": "KOSPI代表性股票阵容近期发生明显变化。据《每日经济》报道，按市值计算的前十只股票中，三星生物制剂退出，三星电机新进入榜。在AI受益股几乎占据KOSPI前十的趋势下，韩华航空航天、KB金融等被剔除，SK Square、斗山能源等被纳入。尤其是三星电机股价在一年内上涨10倍，进入前十，也带动三星集团内部市值排名出现变化。HD现代电气、SK Square等同样处于市场重新评估的中心。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "El top 10 del KOSPI cambia: sale Samsung Bio y entra Samsung Electro-Mechanics",
+        "excerpt": "El top 10 por capitalización del KOSPI se inclinó hacia acciones beneficiadas por la IA, con Samsung Biologics fuera y Samsung Electro-Mechanics dentro.",
+        "body": "La composición de los valores representativos del KOSPI cambió de forma marcada recientemente. Según Maeil Business Newspaper, Samsung Biologics salió de los diez mayores valores por capitalización bursátil, mientras Samsung Electro-Mechanics ingresó en la lista. En un contexto en el que las acciones beneficiadas por la IA dominan prácticamente el top 10 del KOSPI, Hanwha Aerospace y KB Financial quedaron fuera, mientras SK Square y Doosan Enerbility fueron incorporadas. Samsung Electro-Mechanics destacó porque su acción se multiplicó por 10 en un año, lo que también alteró el orden de capitalización dentro del grupo Samsung. HD Hyundai Electric y SK Square también quedaron en el centro de la reevaluación del mercado. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Top 10 do KOSPI muda: Samsung Bio sai e Samsung Electro-Mechanics entra",
+        "excerpt": "O top 10 por valor de mercado do KOSPI passou a refletir ações beneficiadas por IA, com Samsung Biologics fora e Samsung Electro-Mechanics na lista.",
+        "body": "A composição das ações representativas do KOSPI mudou de forma expressiva recentemente. Segundo o Maeil Business Newspaper, a Samsung Biologics saiu do grupo das dez maiores empresas por valor de mercado, enquanto a Samsung Electro-Mechanics entrou na lista. Com ações beneficiadas pela IA praticamente dominando o top 10 do KOSPI, Hanwha Aerospace e KB Financial ficaram de fora, enquanto SK Square e Doosan Enerbility foram incluídas. A Samsung Electro-Mechanics chamou atenção porque sua ação subiu 10 vezes em um ano, alterando também a ordem de valor de mercado dentro do grupo Samsung. HD Hyundai Electric e SK Square também aparecem no centro dessa reavaliação do mercado. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KOSPI-Top-10 neu sortiert: Samsung Bio raus, Samsung Electro-Mechanics rein",
+        "excerpt": "Die zehn größten KOSPI-Werte nach Marktkapitalisierung verschieben sich zu KI-Profiteuren; Samsung Biologics fällt heraus, Samsung Electro-Mechanics steigt ein.",
+        "body": "Die Zusammensetzung der repräsentativen KOSPI-Aktien hat sich zuletzt deutlich verändert. Laut Maeil Business Newspaper ist Samsung Biologics aus den zehn größten Titeln nach Marktkapitalisierung herausgefallen, während Samsung Electro-Mechanics neu aufgenommen wurde. Da KI-begünstigte Aktien die KOSPI-Top-10 praktisch dominieren, schieden Hanwha Aerospace und KB Financial aus; SK Square und Doosan Enerbility kamen hinzu. Besonders Samsung Electro-Mechanics fiel auf, weil der Aktienkurs innerhalb eines Jahres auf das Zehnfache stieg und damit auch die Marktkapitalisierungsrangfolge innerhalb der Samsung-Gruppe veränderte. HD Hyundai Electric und SK Square stehen ebenfalls im Zentrum dieser Neubewertung. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Top 10 du KOSPI remanié : Samsung Bio sort, Samsung Electro-Mechanics entre",
+        "excerpt": "Le top 10 du KOSPI par capitalisation s’est recentré sur les valeurs liées à l’IA, avec la sortie de Samsung Biologics et l’entrée de Samsung Electro-Mechanics.",
+        "body": "La composition des valeurs représentatives du KOSPI a récemment changé de manière notable. Selon Maeil Business Newspaper, Samsung Biologics est sortie du top 10 par capitalisation boursière, tandis que Samsung Electro-Mechanics y a fait son entrée. Alors que les valeurs bénéficiant de l’IA dominent pratiquement le top 10 du KOSPI, Hanwha Aerospace et KB Financial ont été retirées, tandis que SK Square et Doosan Enerbility ont été intégrées. Samsung Electro-Mechanics retient surtout l’attention après une multiplication par 10 de son cours en un an, ce qui a aussi modifié le classement de capitalisation au sein du groupe Samsung. HD Hyundai Electric et SK Square figurent également au centre de cette réévaluation du marché. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تغيير في أكبر 10 أسهم بكوسبي: خروج سامسونغ بايو ودخول سامسونغ إلكترو ميكانيكس",
+        "excerpt": "تغيّر ترتيب أكبر 10 أسهم في كوسبي من حيث القيمة السوقية باتجاه أسهم مستفيدة من الذكاء الاصطناعي، مع خروج سامسونغ بايولوجكس ودخول سامسونغ إلكترو ميكانيكس.",
+        "body": "شهدت قائمة الأسهم الممثلة لمؤشر كوسبي تغيرا واضحا في الآونة الأخيرة. وبحسب صحيفة ماييل الاقتصادية، خرجت سامسونغ بايولوجكس من قائمة أكبر 10 شركات من حيث القيمة السوقية، بينما دخلت سامسونغ إلكترو ميكانيكس القائمة. ومع هيمنة الأسهم المستفيدة من الذكاء الاصطناعي على العشرة الأوائل في كوسبي، خرجت هانوا إيروسبيس وكي بي فايننشال، ودخلت إس كيه سكوير ودوسان إنربيليتي. ولفتت سامسونغ إلكترو ميكانيكس الانتباه بعدما ارتفع سهمها 10 مرات خلال عام واحد، ما غيّر أيضا ترتيب القيمة السوقية داخل مجموعة سامسونغ. كما برزت إتش دي هيونداي إلكتريك وإس كيه سكوير في مركز إعادة تقييم السوق. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "KOSPI टॉप 10 में बड़ा बदलाव: Samsung Bio बाहर, Samsung Electro-Mechanics शामिल",
+        "excerpt": "KOSPI के बाजार पूंजीकरण वाले शीर्ष 10 शेयर AI लाभार्थियों की ओर झुके, Samsung Biologics बाहर हुई और Samsung Electro-Mechanics नई सूची में आई।",
+        "body": "KOSPI के प्रतिनिधि शेयरों की संरचना में हाल में बड़ा बदलाव आया है। Maeil Business Newspaper के अनुसार, बाजार पूंजीकरण के शीर्ष 10 शेयरों से Samsung Biologics बाहर हो गई, जबकि Samsung Electro-Mechanics नई तरह से सूची में शामिल हुई। AI से लाभ पाने वाले शेयरों के KOSPI शीर्ष 10 पर लगभग कब्जे के बीच Hanwha Aerospace और KB Financial बाहर हुए, जबकि SK Square और Doosan Enerbility को शामिल किया गया। खास तौर पर Samsung Electro-Mechanics का शेयर एक वर्ष में 10 गुना बढ़ा और शीर्ष 10 में पहुंचा, जिससे Samsung समूह के भीतर बाजार पूंजीकरण क्रम में भी बदलाव आया। HD Hyundai Electric और SK Square भी इस बाजार पुनर्मूल्यांकन के केंद्र में रहे। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Top 10 KOSPI Berubah: Samsung Bio Keluar, Samsung Electro-Mechanics Masuk",
+        "excerpt": "Daftar 10 besar KOSPI berdasarkan kapitalisasi pasar bergeser ke saham penerima manfaat AI, dengan Samsung Biologics keluar dan Samsung Electro-Mechanics masuk.",
+        "body": "Komposisi saham utama KOSPI baru-baru ini berubah tajam. Menurut Maeil Business Newspaper, Samsung Biologics keluar dari 10 besar saham berdasarkan kapitalisasi pasar, sementara Samsung Electro-Mechanics masuk ke daftar tersebut. Saat saham penerima manfaat AI hampir mendominasi top 10 KOSPI, Hanwha Aerospace dan KB Financial tersingkir, sedangkan SK Square dan Doosan Enerbility masuk. Samsung Electro-Mechanics menjadi perhatian karena harga sahamnya naik 10 kali lipat dalam satu tahun, sekaligus mengubah peringkat kapitalisasi pasar di dalam grup Samsung. HD Hyundai Electric dan SK Square juga berada di pusat arus penilaian ulang pasar ini. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "e89ba5745014",
+    "slug": "엿장수-마음대로였던-도수치료-7월부터-회당-4만원대-묶인다-252096",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T21:28:55.970Z",
+    "updatedAt": "2026-05-14T21:28:55.970Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12048640",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12048640",
+    "titleFingerprint": "bc1609882c031e015c8cae6356e64709ddfb4028",
+    "dedupKeys": [
+      "e89ba5745014c7d465b23b552eb88d35b909a872",
+      "bc1609882c031e015c8cae6356e64709ddfb4028",
+      "3fadf78f489b090b6075977f1a70e43ca375cae5"
+    ],
+    "imageUrl": "/images/articles/e89ba5745014.jpg",
+    "i18n": {
+      "ko": {
+        "title": "도수치료 비용 7월부터 회당 4만원대로 제한, 연 24회만 인정",
+        "excerpt": "정부가 7월 1일 도수치료 관리급여 제도 시행을 앞두고 세부 기준을 마련하면서, 그동안 병원별로 달랐던 도수치료 비용과 인정 횟수가 표준화될 전망이다.",
+        "body": "정부가 오는 7월 1일 도수치료 관리급여 제도 시행을 앞두고 막바지 세부 기준을 마련하고 있다. 제도가 시행되면 지금까지 병원마다 달라 ‘부르는 게 값’으로 불리던 도수치료 비용이 1회당 4만원대로 묶인다. 치료 인정 횟수도 연 최대 24회로 제한된다. 도수치료는 그동안 비급여 영역에서 의료기관별 가격 차이가 컸지만, 관리급여 체계가 도입되면 비용과 이용 기준이 보다 명확해질 것으로 보인다. 환자 입장에서는 회당 부담액과 연간 인정 범위를 확인해야 하며, 의료기관도 새 기준에 맞춰 운영 방식을 조정해야 한다. 출처는 mk.co.kr 보도다."
+      },
+      "en": {
+        "title": "Manual Therapy Fees to Be Capped in July at Around 40,000 Won per Session",
+        "excerpt": "Ahead of the July 1 launch of a managed benefit system for manual therapy, the government is finalizing rules to standardize fees and limit recognized treatments to 24 per year.",
+        "body": "The government is preparing final detailed rules before the managed benefit system for manual therapy takes effect on July 1. Under the new system, manual therapy costs, which have varied widely by hospital and were often described as being set at providers’ discretion, will be capped at around 40,000 won per session. Recognized treatment will also be limited to a maximum of 24 sessions per year. Manual therapy has been part of the non-covered medical service area, where prices differed significantly among medical institutions. With the managed benefit framework, fees and usage standards are expected to become clearer. Patients will need to check both the per-session cost and annual recognition limit, while providers will have to adjust operations to the new rules. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "徒手療法費、7月から1回4万ウォン台に制限 年24回まで認定",
+        "excerpt": "政府は7月1日の徒手療法管理給付制度施行を前に詳細基準を最終調整しており、医療機関ごとに異なっていた費用と認定回数が標準化される見通しだ。",
+        "body": "政府は7月1日に徒手療法の管理給付制度を施行するのを前に、最終的な詳細基準を整えている。制度が始まれば、これまで病院ごとに異なり「言い値」ともされてきた徒手療法の費用は、1回当たり4万ウォン台に抑えられる。治療として認定される回数も年間最大24回に制限される。徒手療法はこれまで非給付分野にあり、医療機関による価格差が大きかった。管理給付体系が導入されれば、費用と利用基準はより明確になるとみられる。患者は1回当たりの負担額と年間認定範囲を確認する必要があり、医療機関も新基準に合わせた運用調整が求められる。出典はmk.co.krの報道。"
+      },
+      "zh": {
+        "title": "手法治疗7月起每次费用限于4万韩元左右 年认定最多24次",
+        "excerpt": "韩国政府正为7月1日实施手法治疗管理给付制度制定最后细则，此前各医院差异较大的费用和年度认定次数将被规范。",
+        "body": "韩国政府正在为7月1日实施手法治疗管理给付制度制定最后阶段的详细标准。制度实施后，过去因医院不同而差异较大、被称为“随意定价”的手法治疗费用，将被限制在每次4万韩元左右。治疗认定次数也将限制为每年最多24次。手法治疗此前属于非给付领域，医疗机构之间价格差距较大。随着管理给付体系引入，费用和使用标准预计将更加明确。患者需要确认每次负担金额和年度认定范围，医疗机构也需根据新标准调整运营方式。来源为mk.co.kr报道。"
+      },
+      "es": {
+        "title": "Terapia manual en Corea: desde julio costará unos 40.000 wones por sesión",
+        "excerpt": "El Gobierno ultima las reglas del sistema de prestación gestionada para terapia manual, que regirá desde el 1 de julio y limitará costos y sesiones reconocidas al año.",
+        "body": "El Gobierno está preparando los últimos criterios detallados antes de aplicar, el 1 de julio, el sistema de prestación gestionada para la terapia manual. Con la entrada en vigor del esquema, el costo de la terapia manual, que hasta ahora variaba según el hospital y era considerado prácticamente discrecional, quedará fijado en torno a 40.000 wones por sesión. También se reconocerá un máximo de 24 sesiones de tratamiento al año. La terapia manual ha estado en el ámbito de servicios no cubiertos, con grandes diferencias de precio entre instituciones médicas. Con el nuevo sistema, se espera que los costos y los criterios de uso sean más claros. Los pacientes deberán verificar el cargo por sesión y el límite anual reconocido, mientras que los centros médicos deberán ajustar su operación a las nuevas reglas. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Terapia manual terá limite de cerca de 40 mil won por sessão em julho",
+        "excerpt": "O governo finaliza critérios para o sistema de benefício gerenciado da terapia manual, que começa em 1º de julho e limitará custos e sessões reconhecidas por ano.",
+        "body": "O governo está preparando os últimos critérios detalhados antes da entrada em vigor, em 1º de julho, do sistema de benefício gerenciado para terapia manual. Com a nova regra, o custo da terapia manual, que até agora variava de hospital para hospital e era visto como praticamente definido a critério de cada instituição, ficará limitado a cerca de 40 mil won por sessão. O tratamento reconhecido também será limitado a no máximo 24 sessões por ano. A terapia manual fazia parte da área não coberta, com ampla diferença de preços entre instituições médicas. Com a introdução do sistema gerenciado, custos e padrões de uso devem ficar mais claros. Pacientes precisarão verificar o valor por sessão e o limite anual reconhecido, enquanto instituições médicas terão de ajustar sua operação às novas regras. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Manuelle Therapie ab Juli auf rund 40.000 Won pro Sitzung begrenzt",
+        "excerpt": "Vor dem Start des verwalteten Leistungssystems für manuelle Therapie am 1. Juli legt die Regierung letzte Detailregeln fest, darunter Gebühren und maximal 24 anerkannte Sitzungen jährlich.",
+        "body": "Die Regierung bereitet die letzten Detailkriterien vor, bevor am 1. Juli das verwaltete Leistungssystem für manuelle Therapie in Kraft tritt. Mit dem neuen System werden die Kosten der manuellen Therapie, die bisher je nach Krankenhaus stark variierten und oft als frei festgelegt galten, auf rund 40.000 Won pro Sitzung begrenzt. Anerkannt werden außerdem höchstens 24 Behandlungen pro Jahr. Manuelle Therapie gehörte bislang zum nicht abgedeckten Bereich, in dem die Preise zwischen medizinischen Einrichtungen deutlich auseinanderlagen. Durch das verwaltete Leistungssystem sollen Kosten und Nutzungsstandards klarer werden. Patienten müssen künftig sowohl den Betrag pro Sitzung als auch die jährliche Anerkennungsgrenze prüfen; medizinische Einrichtungen müssen ihren Betrieb an die neuen Vorgaben anpassen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Thérapie manuelle plafonnée en juillet à environ 40 000 wons la séance",
+        "excerpt": "Le gouvernement finalise les règles du système de prestation encadrée pour la thérapie manuelle, applicable le 1er juillet, avec coût limité et 24 séances reconnues par an.",
+        "body": "Le gouvernement prépare les derniers critères détaillés avant l’entrée en vigueur, le 1er juillet, du système de prestation encadrée pour la thérapie manuelle. Une fois le dispositif appliqué, le coût de la thérapie manuelle, jusqu’ici très variable selon les hôpitaux et souvent considéré comme fixé librement, sera limité à environ 40 000 wons par séance. Le nombre de traitements reconnus sera aussi plafonné à 24 par an. La thérapie manuelle relevait jusqu’à présent du champ non couvert, avec de fortes différences de prix entre établissements médicaux. Avec le nouveau système, les coûts et critères d’utilisation devraient devenir plus clairs. Les patients devront vérifier le montant par séance et la limite annuelle reconnue, tandis que les établissements devront adapter leur fonctionnement aux nouvelles règles. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "تقييد تكلفة العلاج اليدوي في يوليو إلى نحو 40 ألف وون للجلسة",
+        "excerpt": "تضع الحكومة اللمسات الأخيرة على معايير نظام المزايا المُدارة للعلاج اليدوي قبل تطبيقه في 1 يوليو، مع تحديد التكلفة وعدد الجلسات المعترف بها سنويا.",
+        "body": "تعمل الحكومة على إعداد المعايير التفصيلية النهائية قبل بدء تطبيق نظام المزايا المُدارة للعلاج اليدوي في 1 يوليو. وبموجب النظام الجديد، ستُقيّد تكلفة العلاج اليدوي، التي كانت تختلف من مستشفى إلى آخر وتوصف بأنها تُحدد حسب الجهة المقدمة، عند نحو 40 ألف وون للجلسة الواحدة. كما سيُعترف بالعلاج حتى حد أقصى يبلغ 24 جلسة سنويا. وكان العلاج اليدوي ضمن نطاق الخدمات غير المشمولة، حيث ظهرت فروق كبيرة في الأسعار بين المؤسسات الطبية. ومع إدخال نظام المزايا المُدارة، من المتوقع أن تصبح التكاليف ومعايير الاستخدام أكثر وضوحا. وسيحتاج المرضى إلى التحقق من تكلفة الجلسة والحد السنوي المعترف به، بينما ستضطر المؤسسات الطبية إلى تعديل تشغيلها وفق المعايير الجديدة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "जुलाई से मैनुअल थेरेपी शुल्क प्रति सत्र करीब 40,000 वॉन तक सीमित",
+        "excerpt": "सरकार 1 जुलाई से लागू होने वाली मैनुअल थेरेपी प्रबंधित लाभ प्रणाली के अंतिम मानक तय कर रही है, जिससे शुल्क और सालाना मान्य सत्रों की सीमा स्पष्ट होगी।",
+        "body": "सरकार 1 जुलाई से मैनुअल थेरेपी के लिए प्रबंधित लाभ प्रणाली लागू करने से पहले अंतिम विस्तृत मानक तैयार कर रही है। नई व्यवस्था लागू होने पर मैनुअल थेरेपी की लागत, जो अब तक अस्पतालों के अनुसार अलग-अलग थी और जिसे मनमाने दाम जैसा माना जाता था, प्रति सत्र करीब 40,000 वॉन तक सीमित होगी। मान्य उपचार की संख्या भी साल में अधिकतम 24 सत्रों तक सीमित रहेगी। मैनुअल थेरेपी अब तक गैर-कवर सेवाओं के दायरे में थी, जहां चिकित्सा संस्थानों के बीच कीमतों में बड़ा अंतर था। प्रबंधित लाभ ढांचा लागू होने से लागत और उपयोग मानक अधिक स्पष्ट होने की उम्मीद है। मरीजों को प्रति सत्र खर्च और सालाना मान्य सीमा की जांच करनी होगी, जबकि चिकित्सा संस्थानों को नए मानकों के अनुसार संचालन समायोजित करना होगा। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Biaya Terapi Manual Mulai Juli Dibatasi Sekitar 40.000 Won per Sesi",
+        "excerpt": "Pemerintah menyiapkan aturan rinci terakhir untuk sistem manfaat terkelola terapi manual yang berlaku 1 Juli, dengan biaya dibatasi dan pengakuan maksimal 24 sesi per tahun.",
+        "body": "Pemerintah sedang menyiapkan kriteria rinci tahap akhir sebelum sistem manfaat terkelola untuk terapi manual diberlakukan pada 1 Juli. Setelah sistem berjalan, biaya terapi manual yang selama ini berbeda-beda di tiap rumah sakit dan dinilai seperti ditentukan sepihak akan dibatasi sekitar 40.000 won per sesi. Jumlah perawatan yang diakui juga dibatasi maksimal 24 sesi per tahun. Terapi manual selama ini berada di area layanan non-cakupan, sehingga terdapat selisih harga besar antar institusi medis. Dengan diterapkannya kerangka manfaat terkelola, biaya dan standar penggunaan diperkirakan menjadi lebih jelas. Pasien perlu memeriksa biaya per sesi dan batas pengakuan tahunan, sementara institusi medis harus menyesuaikan operasional dengan standar baru. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "a2e2df4f771f",
     "slug": "세기의-재산분할-최태원노소영-법정대면할까2차-조정일-내달-15일로-293916",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Nexon Catat Rekor Kuartal I, MapleStory dan Arc Raiders Dorong Kinerja Global",
         "excerpt": "Nexon mencatat pendapatan dan laba operasional tertinggi untuk satu kuartal pada kuartal I, dengan pendapatan 1,4 triliun won dan laba operasional 540 miliar won, didorong MapleStory dan Arc Raiders.",
         "body": "Nexon mencapai pendapatan dan laba operasional tertinggi sepanjang sejarah perusahaan untuk satu kuartal pada kuartal pertama tahun ini. Perusahaan membukukan pendapatan kuartalan 1,4 triliun won dan laba operasional 540 miliar won. Latar utama yang disebutkan adalah popularitas MapleStory, salah satu kekayaan intelektual utama Nexon, serta Arc Raiders di pasar luar negeri. Capaian ini dapat dipahami sebagai kontribusi bersama dari judul yang telah lama populer dan game yang mendapat perhatian di pasar global. Dengan pendapatan dan laba sama-sama mencetak rekor kuartalan, kinerja Nexon di pasar luar negeri dan pengaruh IP game utamanya kembali terkonfirmasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1e9e01d61bc2",
-    "slug": "단독-한국형-국부펀드-6월-출범시리즈b-이상-반도체-스타트업에-투자한다-783005",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T06:01:31.604Z",
-    "updatedAt": "2026-05-14T06:01:31.604Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12047536",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12047536",
-    "titleFingerprint": "7c0032cdf71e57d4fa6396f7f3d3e6579e35ee3a",
-    "dedupKeys": [
-      "1e9e01d61bc29e71ca2ee99dcdf862992a110c2c",
-      "7c0032cdf71e57d4fa6396f7f3d3e6579e35ee3a",
-      "440ea33d8b718d97cae9f094571270910d67afdf"
-    ],
-    "imageUrl": "/images/articles/1e9e01d61bc2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국형 국부펀드 6월 출범, 반도체 스타트업 시리즈B 이상 투자 추진",
-        "excerpt": "한국형 국부펀드가 6월 출범해 시리즈B 이상 혁신 스타트업, 특히 리벨리온·퓨리오사AI 등 반도체 AI 기업을 주요 투자 대상으로 검토한다.",
-        "body": "한국형 국부펀드가 6월 출범해 시리즈B 이상 단계의 혁신 스타트업에 투자하는 방향으로 운용될 전망이다. 구윤철 부총리는 혁신기업 투자를 주문했으며, 반도체·AI 분야의 리벨리온과 퓨리오사AI 등이 ‘1호 투자처’ 후보로 거론된다. 이번 운용 방향은 성장 단계에 오른 국내 딥테크 기업에 자금을 공급해 기술 경쟁력을 키우는 데 초점이 맞춰져 있다. 해남 솔라시도 데이터센터와 연계한 ‘K’ 프로젝트도 함께 언급됐다. 실제 투자 대상과 규모는 펀드 출범 이후 구체화될 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korean Sovereign Fund to Launch in June, Targeting Series B Semiconductor Startups",
-        "excerpt": "A Korean-style sovereign fund is set to launch in June and is expected to invest in Series B or later innovative startups, with semiconductor AI firms under review.",
-        "body": "A Korean-style sovereign fund is expected to launch in June with an investment focus on innovative startups at Series B stage or beyond. Deputy Prime Minister Koo Yun-cheol has called for investment in innovative companies, while semiconductor and AI firms such as Rebellions and FuriosaAI are being mentioned as possible first investment targets. The direction centers on supplying capital to domestic deep-tech companies that have entered a growth phase and strengthening technological competitiveness. A related “K” project linked to the Solaseado data center in Haenam was also cited. Specific targets and investment amounts are expected to be detailed after the fund begins operations. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国型国富ファンドが6月発足へ、半導体スタートアップのシリーズB以降に投資",
-        "excerpt": "韓国型国富ファンドが6月に発足し、シリーズB以降の革新スタートアップ、とくに半導体AI企業を主な投資対象として検討する見通しだ。",
-        "body": "韓国型国富ファンドが6月に発足し、シリーズB以降の段階にある革新スタートアップへ投資する方向で運用される見通しだ。具潤哲副首相は革新企業への投資を求めており、半導体・AI分野のRebellionsやFuriosaAIなどが「第1号投資先」候補として取り沙汰されている。今回の運用方針は、成長段階に入った国内ディープテック企業へ資金を供給し、技術競争力を高めることに焦点を置く。海南ソラシド・データセンターと連携した「K」プロジェクトにも言及された。具体的な投資先と規模は、ファンド発足後に詰められる見込みだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国型主权基金6月启动，拟投资B轮以上半导体初创企业",
-        "excerpt": "韩国型主权基金将于6月启动，计划投资B轮及以上创新初创企业，重点关注Rebellions、FuriosaAI等半导体AI公司。",
-        "body": "韩国型主权基金预计将于6月启动，运营方向是投资B轮及以上阶段的创新初创企业。副总理具润哲要求投资创新企业，半导体和AI领域的Rebellions、FuriosaAI等被提及为“首批投资对象”候选。该运作方向重点在于向已进入成长阶段的韩国本土深度科技企业提供资金，以提升技术竞争力。报道还提到与海南Solaseado数据中心相衔接的“K”项目。实际投资对象和规模预计将在基金启动后进一步具体化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fondo soberano coreano debutará en junio e invertirá en startups de semiconductores Serie B",
-        "excerpt": "El fondo soberano de estilo coreano se lanzará en junio y evaluará inversiones en startups innovadoras Serie B o posteriores, con foco en semiconductores e IA.",
-        "body": "El fondo soberano de estilo coreano prevé iniciar operaciones en junio con una estrategia orientada a invertir en startups innovadoras en Serie B o etapas posteriores. El vice primer ministro Koo Yun-cheol pidió invertir en empresas innovadoras, y compañías de semiconductores e IA como Rebellions y FuriosaAI figuran como posibles primeros destinos de inversión. La orientación busca aportar capital a empresas nacionales de deep tech que ya están en fase de crecimiento y reforzar su competitividad tecnológica. También se mencionó un proyecto “K” vinculado al centro de datos Solaseado en Haenam. Los objetivos y montos concretos se definirían tras el lanzamiento del fondo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fundo soberano coreano estreia em junho com foco em startups de semicondutores Série B",
-        "excerpt": "O fundo soberano ao estilo coreano deve ser lançado em junho e investir em startups inovadoras Série B ou posteriores, com atenção a semicondutores e IA.",
-        "body": "O fundo soberano ao estilo coreano deve começar em junho com uma diretriz de investimento em startups inovadoras em Série B ou estágios posteriores. O vice-primeiro-ministro Koo Yun-cheol pediu investimentos em empresas inovadoras, enquanto companhias de semicondutores e IA como Rebellions e FuriosaAI são citadas como possíveis primeiros alvos. A estratégia busca fornecer capital a empresas domésticas de deep tech que já chegaram à fase de crescimento e fortalecer sua competitividade tecnológica. Também foi mencionado um projeto “K” ligado ao data center Solaseado, em Haenam. Os alvos e valores específicos devem ser detalhados após o lançamento do fundo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreanischer Staatsfonds startet im Juni und zielt auf Halbleiter-Startups ab Serie B",
-        "excerpt": "Ein koreanischer Staatsfonds soll im Juni starten und in innovative Startups ab Serie B investieren, mit Fokus auf Halbleiter- und KI-Unternehmen.",
-        "body": "Ein koreanischer Staatsfonds soll im Juni starten und voraussichtlich in innovative Startups ab der Serie-B-Phase investieren. Vizepremier Koo Yun-cheol forderte Investitionen in innovative Unternehmen; als mögliche erste Anlageziele werden Halbleiter- und KI-Firmen wie Rebellions und FuriosaAI genannt. Die Ausrichtung konzentriert sich darauf, heimische Deep-Tech-Unternehmen in der Wachstumsphase mit Kapital zu versorgen und ihre technologische Wettbewerbsfähigkeit zu stärken. Ebenfalls erwähnt wurde ein „K“-Projekt in Verbindung mit dem Solaseado-Rechenzentrum in Haenam. Konkrete Ziele und Investitionsvolumina dürften nach dem Start des Fonds festgelegt werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le fonds souverain coréen lancé en juin visera les startups de semi-conducteurs en série B",
-        "excerpt": "Le fonds souverain de type coréen doit être lancé en juin et investir dans des startups innovantes en série B ou au-delà, notamment dans les semi-conducteurs et l’IA.",
-        "body": "Le fonds souverain de type coréen devrait être lancé en juin avec une orientation d’investissement vers les startups innovantes en série B ou à un stade ultérieur. Le vice-Premier ministre Koo Yun-cheol a appelé à investir dans les entreprises innovantes, tandis que des sociétés de semi-conducteurs et d’IA comme Rebellions et FuriosaAI sont citées comme possibles premiers bénéficiaires. Cette stratégie vise à fournir des capitaux aux entreprises nationales de deep tech déjà en phase de croissance et à renforcer leur compétitivité technologique. Un projet “K” lié au centre de données Solaseado à Haenam a également été mentionné. Les cibles et montants précis devraient être définis après le lancement du fonds. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صندوق سيادي كوري ينطلق في يونيو مستهدفا شركات رقائق ناشئة بعد السلسلة B",
-        "excerpt": "من المقرر إطلاق صندوق سيادي على النمط الكوري في يونيو للاستثمار في شركات ابتكارية ناشئة عند السلسلة B وما بعدها، مع تركيز على الرقائق والذكاء الاصطناعي.",
-        "body": "من المتوقع أن ينطلق صندوق سيادي على النمط الكوري في يونيو، مع توجه تشغيلي للاستثمار في شركات ناشئة ابتكارية وصلت إلى مرحلة السلسلة B أو ما بعدها. ودعا نائب رئيس الوزراء كو يون-تشول إلى الاستثمار في الشركات الابتكارية، فيما ترد أسماء شركات الرقائق والذكاء الاصطناعي مثل Rebellions وFuriosaAI كمرشحين محتملين لأول استثمار. يركز هذا التوجه على توفير رأس المال لشركات التقنية العميقة المحلية التي دخلت مرحلة النمو وتعزيز قدرتها التنافسية التقنية. كما ذُكر مشروع “K” المرتبط بمركز بيانات Solaseado في هاينام. ومن المتوقع تحديد الأهداف والمبالغ الفعلية بعد إطلاق الصندوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई सॉवरेन फंड जून में शुरू, सीरीज B से आगे चिप स्टार्टअप में निवेश",
-        "excerpt": "कोरियाई शैली का सॉवरेन फंड जून में शुरू होकर सीरीज B या उससे आगे के नवाचारी स्टार्टअप, खासकर सेमीकंडक्टर और AI कंपनियों में निवेश पर विचार करेगा।",
-        "body": "कोरियाई शैली का सॉवरेन फंड जून में शुरू होने की उम्मीद है और इसका संचालन सीरीज B या उससे आगे के चरण वाले नवाचारी स्टार्टअप में निवेश की दिशा में होगा। उप प्रधानमंत्री कू यून-चुल ने नवाचारी कंपनियों में निवेश का निर्देश दिया है, जबकि सेमीकंडक्टर और AI क्षेत्र की Rebellions और FuriosaAI जैसी कंपनियों को संभावित ‘पहले निवेश’ उम्मीदवारों के रूप में देखा जा रहा है। यह दिशा विकास चरण में पहुंच चुकी घरेलू डीप-टेक कंपनियों को पूंजी देकर तकनीकी प्रतिस्पर्धा बढ़ाने पर केंद्रित है। हेनाम के Solaseado डेटा सेंटर से जुड़े “K” प्रोजेक्ट का भी उल्लेख हुआ। वास्तविक निवेश लक्ष्य और राशि फंड शुरू होने के बाद स्पष्ट होने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dana Kekayaan Korea Meluncur Juni, Bidik Startup Semikonduktor Seri B ke Atas",
-        "excerpt": "Dana kekayaan bergaya Korea akan diluncurkan pada Juni dan diarahkan berinvestasi di startup inovatif Seri B ke atas, terutama perusahaan semikonduktor dan AI.",
-        "body": "Dana kekayaan bergaya Korea diperkirakan diluncurkan pada Juni dengan arah pengelolaan untuk berinvestasi pada startup inovatif tahap Seri B atau lebih lanjut. Wakil Perdana Menteri Koo Yun-cheol meminta investasi pada perusahaan inovatif, sementara perusahaan semikonduktor dan AI seperti Rebellions dan FuriosaAI disebut sebagai kandidat kemungkinan investasi pertama. Arah ini berfokus pada penyediaan modal bagi perusahaan deep tech domestik yang telah memasuki tahap pertumbuhan guna memperkuat daya saing teknologi. Proyek “K” yang terkait dengan pusat data Solaseado di Haenam juga disebutkan. Target dan nilai investasi konkret diperkirakan akan dirinci setelah dana tersebut resmi berjalan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "46205c1399f8",
-    "slug": "김밥-한-알-30분-씹어동료-배우-충격-안긴-아이유-식사량-603148",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T06:00:28.343Z",
-    "updatedAt": "2026-05-14T06:00:28.343Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/culture/12047537",
-    "canonicalUrl": "https://www.mk.co.kr/news/culture/12047537",
-    "titleFingerprint": "e8b3d02f844d05e9724489390bf8ef256f0f6001",
-    "dedupKeys": [
-      "46205c1399f8e2762e339fd3ef57f1b84f36b652",
-      "e8b3d02f844d05e9724489390bf8ef256f0f6001",
-      "5332b91189a74bdb0bd41af947deb74a52ed69e3"
-    ],
-    "imageUrl": "/images/articles/46205c1399f8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "아이유 식사량 언급한 손준호, “김밥 한 알 30분” 일화에 동료도 놀랐다",
-        "excerpt": "뮤지컬 스타이자 배우 손준호가 최근 SBS 러브FM ‘유민상의 배고픈 라디오’에서 아이유의 극소량 식사 습관을 언급해 청취자와 동료 배우들의 관심을 모았다.",
-        "body": "뮤지컬 스타이자 배우 손준호가 최근 방송된 SBS 러브FM ‘유민상의 배고픈 라디오’에서 가수 겸 배우 아이유의 식사량과 관련한 일화를 전했다. 그는 아이유가 매우 적은 양을 천천히 먹는 습관을 언급하며 “김밥 한 알을 30분 씹는다”는 취지의 이야기를 해 동료 배우들에게도 놀라움을 안겼다. 방송에는 뮤지컬 배우 부부 손준호가 출연했으며, 해당 발언은 아이유의 평소 식사 습관을 소개하는 맥락에서 나왔다. 이번 언급은 아이유의 자기관리와 생활 습관에 대한 대중의 관심을 다시 모으는 계기가 됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Son Jun-ho Mentions IU’s Small Meals, Surprising Co-Stars With Kimbap Story",
-        "excerpt": "Musical actor Son Jun-ho recently drew attention on SBS Love FM’s ‘Yoo Min-sang’s Hungry Radio’ after describing IU’s extremely small eating habits.",
-        "body": "Musical star and actor Son Jun-ho recently shared an anecdote about singer and actor IU’s eating habits on SBS Love FM’s ‘Yoo Min-sang’s Hungry Radio.’ He said IU eats very small amounts slowly, mentioning a story to the effect that she chews one piece of kimbap for 30 minutes, which surprised fellow actors. The broadcast featured the musical actor couple Son Jun-ho and his spouse, and the remark came in the context of describing IU’s usual eating habits. The comment has renewed public interest in IU’s self-management and daily routine. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "IUの食事量にソン・ジュノ言及、「キンパ一つ30分」に共演者も驚き",
-        "excerpt": "ミュージカル俳優ソン・ジュノが最近、SBS Love FM『ユ・ミンサンの空腹ラジオ』でIUの極めて少ない食事習慣に触れ、関心を集めた。",
-        "body": "ミュージカルスターで俳優のソン・ジュノが、最近放送されたSBS Love FM『ユ・ミンサンの空腹ラジオ』で、歌手兼俳優IUの食事量に関するエピソードを語った。彼はIUが非常に少ない量をゆっくり食べる習慣に触れ、「キンパ一つを30分かけて噛む」という趣旨の話をし、共演俳優たちを驚かせた。番組にはミュージカル俳優夫婦のソン・ジュノらが出演し、この発言はIUの普段の食事習慣を紹介する流れで出た。今回の言及は、IUの自己管理と生活習慣への関心を改めて集めている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "孙俊浩谈IU饭量，“一粒紫菜包饭嚼30分钟”让同僚吃惊",
-        "excerpt": "音乐剧演员兼演员孙俊浩近日在SBS Love FM《刘民相的饥饿电台》中提到IU极少量的饮食习惯，引发听众和同僚关注。",
-        "body": "音乐剧明星兼演员孙俊浩近日在SBS Love FM《刘民相的饥饿电台》中，讲述了歌手兼演员IU饭量相关的轶事。他提到IU有吃得很少、吃得很慢的习惯，并以“一粒紫菜包饭嚼30分钟”的说法让同僚演员感到惊讶。该期节目中，音乐剧演员夫妇孙俊浩等人出演，这番话是在介绍IU平时饮食习惯的语境下出现的。此次提及也让大众再次关注IU的自我管理和生活习惯。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Son Jun-ho habla de lo poco que come IU y sorprende con una anécdota de kimbap",
-        "excerpt": "El actor musical Son Jun-ho llamó la atención recientemente en ‘Yoo Min-sang’s Hungry Radio’ de SBS Love FM al hablar de los hábitos de comida mínimos de IU.",
-        "body": "El actor y estrella de musicales Son Jun-ho compartió recientemente una anécdota sobre la cantidad de comida de la cantante y actriz IU en ‘Yoo Min-sang’s Hungry Radio’ de SBS Love FM. Comentó que IU suele comer cantidades muy pequeñas y despacio, y relató que mastica una pieza de kimbap durante 30 minutos, lo que sorprendió a otros actores. En la emisión participaron Son Jun-ho y su esposa, ambos actores musicales, y la frase surgió al hablar de los hábitos alimentarios habituales de IU. La mención volvió a poner el foco en la autodisciplina y la rutina diaria de IU. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Son Jun-ho comenta pouca comida de IU e surpreende com história sobre kimbap",
-        "excerpt": "O ator musical Son Jun-ho chamou atenção recentemente no ‘Yoo Min-sang’s Hungry Radio’, da SBS Love FM, ao mencionar o hábito de IU de comer quantidades mínimas.",
-        "body": "O astro de musicais e ator Son Jun-ho compartilhou recentemente uma história sobre a quantidade de comida da cantora e atriz IU no programa ‘Yoo Min-sang’s Hungry Radio’, da SBS Love FM. Ele disse que IU costuma comer porções muito pequenas e devagar, mencionando que ela mastiga um pedaço de kimbap por 30 minutos, o que surpreendeu colegas atores. A transmissão contou com a participação do casal de atores musicais Son Jun-ho e sua esposa, e o comentário surgiu no contexto dos hábitos alimentares habituais de IU. A fala voltou a chamar atenção para a autodisciplina e a rotina de IU. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Son Jun-ho über IUs kleine Mahlzeiten: Kimbap-Anekdote überrascht Kollegen",
-        "excerpt": "Musicaldarsteller Son Jun-ho sorgte kürzlich bei SBS Love FMs ‘Yoo Min-sang’s Hungry Radio’ für Aufmerksamkeit, als er IUs sehr geringe Essgewohnheiten erwähnte.",
-        "body": "Musicalstar und Schauspieler Son Jun-ho erzählte kürzlich in SBS Love FMs ‘Yoo Min-sang’s Hungry Radio’ eine Anekdote über die Essmenge der Sängerin und Schauspielerin IU. Er erwähnte, dass IU sehr kleine Mengen langsam esse, und sagte sinngemäß, sie kaue ein Stück Kimbap 30 Minuten lang, was auch Schauspielkollegen überraschte. In der Sendung traten Son Jun-ho und seine Ehefrau als Musicaldarstellerpaar auf; die Bemerkung fiel im Zusammenhang mit IUs üblichen Essgewohnheiten. Die Aussage lenkte erneut öffentliche Aufmerksamkeit auf IUs Selbstmanagement und Alltag. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Son Jun-ho évoque les petits repas d’IU, une anecdote sur le kimbap surprend",
-        "excerpt": "L’acteur de comédies musicales Son Jun-ho a attiré l’attention récemment sur SBS Love FM en évoquant les habitudes alimentaires très réduites d’IU.",
-        "body": "La star de comédies musicales et acteur Son Jun-ho a récemment raconté une anecdote sur la quantité de nourriture consommée par la chanteuse et actrice IU dans ‘Yoo Min-sang’s Hungry Radio’ sur SBS Love FM. Il a expliqué qu’IU mange de très petites quantités lentement, évoquant l’idée qu’elle mâche un morceau de kimbap pendant 30 minutes, ce qui a surpris d’autres acteurs. L’émission accueillait le couple d’acteurs de comédies musicales Son Jun-ho et son épouse, et cette remarque s’inscrivait dans une discussion sur les habitudes alimentaires habituelles d’IU. Elle a ravivé l’intérêt du public pour son autodiscipline et son mode de vie. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سون جون هو يتحدث عن قلة طعام آيو وقصة الكيمباب تثير دهشة الزملاء",
-        "excerpt": "أثار نجم المسرح الغنائي والممثل سون جون هو الاهتمام مؤخرا عبر SBS Love FM بعدما تحدث عن عادة آيو في تناول كميات قليلة جدا من الطعام.",
-        "body": "تحدث نجم المسرح الغنائي والممثل سون جون هو مؤخرا في برنامج ‘Yoo Min-sang’s Hungry Radio’ على SBS Love FM عن واقعة تتعلق بكمية الطعام التي تتناولها المغنية والممثلة آيو. وأشار إلى أنها تأكل كميات قليلة جدا وببطء، قائلا بمعنى إنها تمضغ قطعة واحدة من الكيمباب لمدة 30 دقيقة، ما أثار دهشة ممثلين زملاء. وظهر في الحلقة الزوجان من ممثلي المسرح الغنائي سون جون هو وزوجته، وجاء التصريح ضمن سياق الحديث عن عادات آيو الغذائية المعتادة. وقد أعاد هذا التعليق جذب الاهتمام العام بإدارة آيو لذاتها وروتينها اليومي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सोन जून-हो ने IU की कम खाने की आदत बताई, किम्बाप किस्सा सुनकर साथी हैरान",
-        "excerpt": "म्यूजिकल स्टार और अभिनेता सोन जून-हो ने हाल में SBS Love FM के ‘Yoo Min-sang’s Hungry Radio’ में IU की बेहद कम खाने की आदत का जिक्र कर ध्यान खींचा।",
-        "body": "म्यूजिकल स्टार और अभिनेता सोन जून-हो ने हाल में SBS Love FM के ‘Yoo Min-sang’s Hungry Radio’ में गायिका और अभिनेत्री IU की भोजन मात्रा से जुड़ा एक किस्सा बताया। उन्होंने कहा कि IU बहुत कम मात्रा में और धीरे-धीरे खाती हैं, और इस आशय की बात कही कि वह किम्बाप का एक टुकड़ा 30 मिनट तक चबाती हैं, जिससे साथी अभिनेता भी हैरान रह गए। प्रसारण में म्यूजिकल अभिनेता दंपती सोन जून-हो और उनकी पत्नी शामिल हुए थे, और यह टिप्पणी IU की सामान्य खाने की आदतों को बताने के संदर्भ में आई। इस उल्लेख ने IU के आत्म-प्रबंधन और दैनिक जीवनशैली पर फिर से लोगों का ध्यान खींचा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Son Jun-ho Ungkap Porsi Makan IU, Kisah Kimbap 30 Menit Bikin Rekan Kaget",
-        "excerpt": "Aktor musikal Son Jun-ho baru-baru ini menarik perhatian di SBS Love FM ‘Yoo Min-sang’s Hungry Radio’ setelah menyebut kebiasaan makan IU yang sangat sedikit.",
-        "body": "Bintang musikal sekaligus aktor Son Jun-ho baru-baru ini membagikan kisah tentang porsi makan penyanyi dan aktris IU di SBS Love FM ‘Yoo Min-sang’s Hungry Radio.’ Ia menyebut IU memiliki kebiasaan makan dalam jumlah sangat sedikit dan perlahan, dengan cerita bahwa satu potong kimbap dikunyah selama 30 menit, sehingga membuat rekan aktor terkejut. Siaran tersebut menghadirkan pasangan aktor musikal Son Jun-ho dan istrinya, dan komentar itu muncul dalam konteks memperkenalkan kebiasaan makan IU sehari-hari. Pernyataan ini kembali menarik perhatian publik pada pengelolaan diri dan rutinitas IU. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0449ab381e70",
-    "slug": "잠-안-잔다며-두-살배기-결박폭행-사망드러난-창녕-6남매의-비극-467534",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T05:59:18.903Z",
-    "updatedAt": "2026-05-14T05:59:18.903Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12047538",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12047538",
-    "titleFingerprint": "5fb62408a3f62a04168c2160af9247d3618a272d",
-    "dedupKeys": [
-      "0449ab381e709b39a3019d597a18b6b8787f40ea",
-      "5fb62408a3f62a04168c2160af9247d3618a272d",
-      "d2d7424803faddc49af599fefb22a2076b60d48f"
-    ],
-    "imageUrl": "/images/articles/0449ab381e70.png",
-    "i18n": {
-      "ko": {
-        "title": "창녕 아동학대살해사건, 두 살배기 결박·폭행 사망으로 드러난 6남매 비극",
-        "excerpt": "경남 창녕에서 두 살배기 아동이 잠을 자지 않는다는 이유 등으로 부모에게 반복적으로 결박·폭행·방치된 끝에 숨진 사건이 알려지며 6남매의 학대 정황이 드러났다.",
-        "body": "경남 창녕에서 두 살배기 아동이 부모의 반복적인 폭행과 방치 끝에 숨진 창녕 아동학대살해사건이 알려졌다. 원문에 따르면 부모는 아이가 잠을 자지 않는다는 이유 등으로 결박하고 폭행했으며, 결국 사망에 이르게 한 것으로 전해졌다. 이번 사건은 6남매 가정의 비극으로 드러났다. 직접 키운 아이 3명 모두 학대 피해를 본 정황이 확인됐고, 첫째는 친인척에게 맡겨졌으며 나머지 두 자녀는 시설로 보내진 것으로 전해졌다. 아동학대가 반복될 경우 가정 내 모든 아동의 안전을 함께 살펴야 한다는 점이 다시 부각된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Changnyeong Child Abuse Killing Reveals Tragedy of Six Siblings After Toddler Dies",
-        "excerpt": "In Changnyeong, South Gyeongsang Province, a two-year-old reportedly died after repeated restraint, assault and neglect by parents, exposing abuse concerns involving six siblings.",
-        "body": "A child abuse killing case in Changnyeong, South Gyeongsang Province, has emerged after a two-year-old child died following repeated assault and neglect by the parents. According to the original report, the parents allegedly restrained and assaulted the child for reasons including not sleeping, ultimately leading to the child’s death. The case exposed a wider tragedy involving a family of six siblings. Signs of abuse were found among all three children directly raised by the parents. The eldest was placed with relatives, while the other two children were sent to facilities. The case again highlights the need to check the safety of every child in a home when abuse is repeated. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "昌寧の児童虐待殺害事件、2歳児死亡で明らかになった6きょうだいの悲劇",
-        "excerpt": "慶尚南道昌寧で、2歳児が眠らないなどの理由で両親から繰り返し拘束、暴行、放置され死亡し、6きょうだいをめぐる虐待の実態が明らかになった。",
-        "body": "慶尚南道昌寧で、2歳の子どもが両親による度重なる暴行と放置の末に死亡した昌寧児童虐待殺害事件が明らかになった。原文によると、両親は子どもが眠らないことなどを理由に拘束し暴行したとされ、最終的に死亡に至ったという。今回の事件は6きょうだいの家庭の悲劇として浮き彫りになった。両親が直接育てた3人の子ども全員に虐待被害の状況が確認され、長子は親族に預けられ、残る2人は施設に送られたと伝えられている。虐待が繰り返される場合、家庭内のすべての子どもの安全を確認する必要性が改めて示された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "昌宁虐童致死案：两岁幼儿遭捆绑殴打身亡，六兄妹悲剧曝光",
-        "excerpt": "韩国庆南昌宁一名两岁幼儿因不睡觉等原因遭父母反复捆绑、殴打和放任后死亡，案件曝光后六兄妹家庭中的虐待情形浮出水面。",
-        "body": "韩国庆尚南道昌宁发生的虐童致死案受到关注，一名两岁幼儿在父母反复殴打和放任后死亡。原文称，父母以孩子不睡觉等为由对其进行捆绑和殴打，最终导致其死亡。此案也暴露出一个六兄妹家庭的悲剧。由父母直接抚养的3名孩子均被确认存在遭虐待的情形，长子被交由亲属照看，其余两名子女被送往设施。案件再次凸显，当家庭中出现反复虐待时，有必要同时确认家中所有儿童的安全。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Caso de maltrato infantil en Changnyeong: muere niño de dos años y se revela tragedia familiar",
-        "excerpt": "En Changnyeong, un niño de dos años murió tras ser atado, golpeado y abandonado repetidamente por sus padres, lo que reveló indicios de abuso en una familia de seis hermanos.",
-        "body": "En Changnyeong, provincia de Gyeongsang del Sur, salió a la luz un caso de homicidio por maltrato infantil después de que un niño de dos años muriera tras repetidas agresiones y abandono por parte de sus padres. Según el informe original, los padres lo habrían atado y golpeado por motivos como no dormir, hasta provocar su muerte. El caso reveló una tragedia más amplia en una familia de seis hermanos. Se confirmaron indicios de maltrato en los tres hijos criados directamente por los padres. El mayor fue dejado al cuidado de familiares y los otros dos fueron enviados a centros de protección. El caso vuelve a subrayar la necesidad de revisar la seguridad de todos los menores del hogar cuando el abuso se repite. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Caso de abuso infantil em Changnyeong: criança de dois anos morre e expõe tragédia de seis irmãos",
-        "excerpt": "Em Changnyeong, uma criança de dois anos morreu após ser repetidamente amarrada, agredida e negligenciada pelos pais, revelando sinais de abuso em uma família de seis irmãos.",
-        "body": "Em Changnyeong, na província de Gyeongsang do Sul, veio à tona um caso de homicídio por abuso infantil após a morte de uma criança de dois anos, vítima de agressões repetidas e negligência dos pais. Segundo o relato original, os pais teriam amarrado e agredido a criança por motivos como não dormir, levando-a à morte. O caso revelou uma tragédia maior em uma família de seis irmãos. Foram identificados indícios de abuso em todos os três filhos criados diretamente pelos pais. O mais velho foi deixado com parentes, enquanto os outros dois foram enviados a instituições. O caso reforça a necessidade de verificar a segurança de todas as crianças de uma casa quando há abuso recorrente. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kindesmisshandlung in Changnyeong: Tod eines Zweijährigen offenbart Tragödie von sechs Geschwistern",
-        "excerpt": "In Changnyeong starb ein zweijähriges Kind nach wiederholtem Fesseln, Schlagen und Vernachlässigen durch die Eltern; dabei wurden Missbrauchshinweise bei sechs Geschwistern bekannt.",
-        "body": "In Changnyeong in der Provinz Süd-Gyeongsang wurde ein Fall tödlicher Kindesmisshandlung bekannt, nachdem ein zweijähriges Kind nach wiederholten Schlägen und Vernachlässigung durch seine Eltern starb. Dem Originalbericht zufolge sollen die Eltern das Kind unter anderem deshalb gefesselt und geschlagen haben, weil es nicht schlief; schließlich kam es ums Leben. Der Fall machte eine größere Tragödie in einer Familie mit sechs Geschwistern sichtbar. Bei allen drei Kindern, die direkt von den Eltern großgezogen wurden, wurden Hinweise auf Misshandlung festgestellt. Das älteste Kind wurde Verwandten anvertraut, die beiden anderen wurden in Einrichtungen gebracht. Der Fall zeigt erneut, dass bei wiederholtem Missbrauch die Sicherheit aller Kinder im Haushalt geprüft werden muss. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Affaire de maltraitance à Changnyeong : la mort d’un enfant de deux ans révèle le drame de six enfants",
-        "excerpt": "À Changnyeong, un enfant de deux ans est mort après avoir été attaché, frappé et négligé à répétition par ses parents, révélant des soupçons d’abus dans une fratrie de six.",
-        "body": "À Changnyeong, dans la province du Gyeongsang du Sud, une affaire de meurtre par maltraitance d’enfant a été révélée après la mort d’un enfant de deux ans, victime de violences répétées et de négligence de la part de ses parents. Selon l’article d’origine, les parents auraient attaché et frappé l’enfant pour des raisons telles que le fait de ne pas dormir, jusqu’à provoquer sa mort. L’affaire a mis au jour une tragédie plus large dans une famille de six enfants. Des signes de maltraitance ont été constatés chez les trois enfants directement élevés par les parents. L’aîné a été confié à des proches, tandis que les deux autres ont été envoyés dans des structures d’accueil. Ce cas rappelle la nécessité de vérifier la sécurité de tous les enfants d’un foyer lorsque les abus se répètent. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "قضية مقتل طفل في تشانغنيونغ تكشف مأساة ستة أشقاء بعد وفاة طفل بعمر عامين",
-        "excerpt": "في تشانغنيونغ بمقاطعة كيونغسانغ الجنوبية، توفي طفل في الثانية بعد تقييده وضربه وإهماله مرارا من والديه، لتنكشف مؤشرات إساءة طالت أسرة من ستة أشقاء.",
-        "body": "كُشف في تشانغنيونغ بمقاطعة كيونغسانغ الجنوبية عن قضية قتل مرتبطة بإساءة معاملة طفل، بعدما توفي طفل يبلغ عامين إثر تعرضه المتكرر للضرب والإهمال من والديه. وبحسب التقرير الأصلي، فإن الوالدين قيدا الطفل واعتديا عليه لأسباب منها أنه لا ينام، ما أدى في النهاية إلى وفاته. وكشفت القضية مأساة أوسع داخل أسرة تضم ستة أشقاء. فقد تأكدت مؤشرات إساءة بحق الأطفال الثلاثة الذين تولى الوالدان تربيتهم مباشرة. وأُودع الابن الأكبر لدى أقارب، فيما نُقل الطفلان الآخران إلى مؤسسات رعاية. وتبرز القضية مجددا ضرورة التحقق من سلامة جميع الأطفال في المنزل عندما تتكرر الإساءة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चांगन्योंग बाल उत्पीड़न हत्या मामला: दो साल के बच्चे की मौत से छह भाई-बहनों की त्रासदी उजागर",
-        "excerpt": "दक्षिण ग्योंगसांग के चांगन्योंग में दो साल के बच्चे की माता-पिता द्वारा बार-बार बांधे जाने, पिटाई और उपेक्षा के बाद मौत हुई, जिससे छह भाई-बहनों से जुड़े उत्पीड़न के संकेत सामने आए।",
-        "body": "दक्षिण ग्योंगसांग प्रांत के चांगन्योंग में बाल उत्पीड़न से जुड़ा हत्या मामला सामने आया, जिसमें दो साल के बच्चे की माता-पिता की बार-बार की पिटाई और उपेक्षा के बाद मौत हो गई। मूल रिपोर्ट के अनुसार, माता-पिता ने बच्चे के न सोने जैसी वजहों से उसे बांधा और पीटा, जिससे अंततः उसकी मौत हो गई। इस मामले ने छह भाई-बहनों वाले परिवार की बड़ी त्रासदी को उजागर किया। माता-पिता द्वारा सीधे पाले गए तीनों बच्चों में उत्पीड़न के संकेत पाए गए। सबसे बड़े बच्चे को रिश्तेदारों के पास रखा गया, जबकि बाकी दो बच्चों को संस्थानों में भेजा गया। यह मामला फिर दिखाता है कि बार-बार उत्पीड़न होने पर घर के सभी बच्चों की सुरक्षा की जांच जरूरी है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kasus Penganiayaan Anak Changnyeong: Balita Dua Tahun Tewas, Tragedi Enam Bersaudara Terungkap",
-        "excerpt": "Di Changnyeong, Gyeongsang Selatan, balita dua tahun meninggal setelah berulang kali diikat, dipukul, dan ditelantarkan orang tuanya, mengungkap dugaan kekerasan dalam keluarga enam bersaudara.",
-        "body": "Di Changnyeong, Provinsi Gyeongsang Selatan, terungkap kasus pembunuhan akibat penganiayaan anak setelah seorang balita berusia dua tahun meninggal karena kekerasan berulang dan penelantaran oleh orang tuanya. Menurut laporan asli, orang tua mengikat dan memukul anak itu dengan alasan antara lain tidak tidur, hingga akhirnya menyebabkan kematian. Kasus ini membuka tragedi yang lebih luas dalam keluarga enam bersaudara. Tanda-tanda penganiayaan ditemukan pada ketiga anak yang diasuh langsung oleh orang tua. Anak sulung dititipkan kepada kerabat, sementara dua anak lainnya dikirim ke fasilitas. Kasus ini kembali menegaskan perlunya memeriksa keselamatan semua anak di rumah ketika kekerasan terjadi berulang. Sumber: mk.co.kr"
       }
     }
   }
