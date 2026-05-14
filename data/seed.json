@@ -1,5 +1,230 @@
 [
   {
+    "id": "3be6b75d9f75",
+    "slug": "미중-정상회담-첫날-뉴욕증시-일제히-상승-출발다우나스닥-각각-051-743066",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T15:35:00.558Z",
+    "updatedAt": "2026-05-14T15:35:00.558Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12048283",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12048283",
+    "titleFingerprint": "8066b62c076f92d964943ed4d52c2cd2d9c80d4e",
+    "dedupKeys": [
+      "3be6b75d9f755d7a1a81273f034ec9fae53d61ee",
+      "8066b62c076f92d964943ed4d52c2cd2d9c80d4e",
+      "0277053d3106ac9e4463a8724e93589c26b50c94"
+    ],
+    "imageUrl": "/images/articles/3be6b75d9f75.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미중 정상회담 첫날 뉴욕증시 상승 출발, 다우·나스닥 0.51% 올라",
+        "excerpt": "도널드 트럼프 미국 대통령이 14일 중국 베이징에서 시진핑 국가주석과 정상회담을 시작하자 뉴욕증시는 다우와 나스닥이 각각 0.51% 오르며 상승 출발했다.",
+        "body": "도널드 트럼프 미국 대통령이 14일 중국 베이징을 찾아 시진핑 중국 국가주석과 미중 정상회담을 시작한 첫날, 뉴욕증시는 일제히 상승 출발했다. 뉴욕증권거래소(NYSE)에 따르면 이날 개장 초반 다우지수와 나스닥지수는 각각 0.51% 상승했다. 이번 시장 반응은 미중 정상이 직접 만나는 일정과 맞물려 나타났다. 투자자들은 회담 첫날의 흐름과 주요 지수의 동반 상승을 함께 주시하는 분위기다. 다만 원문에 제시된 수치는 개장 초반 기준으로, 장중 흐름은 추가 거래 상황에 따라 달라질 수 있다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "U.S.-China Summit Opens as New York Stocks Rise, Dow and Nasdaq Up 0.51%",
+        "excerpt": "As U.S. President Donald Trump began talks with Chinese President Xi Jinping in Beijing on the 14th, New York stocks opened higher, with the Dow and Nasdaq each rising 0.51%.",
+        "body": "New York stocks opened broadly higher on the first day of the U.S.-China summit, as U.S. President Donald Trump visited Beijing on the 14th to begin talks with Chinese President Xi Jinping. According to the New York Stock Exchange, the Dow and Nasdaq each rose 0.51% in early trading. The market move came as the leaders of the two countries met in person. Investors were watching both the first day of the summit and the simultaneous rise in major indexes. The figures cited in the original report refer to the early part of the session, and intraday moves may change with further trading. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "米中首脳会談初日にNY株上昇、ダウとナスダックは0.51％高",
+        "excerpt": "ドナルド・トランプ米大統領が14日、中国・北京で習近平国家主席との首脳会談を開始し、NY株式市場はダウとナスダックがそれぞれ0.51％上昇して始まった。",
+        "body": "ドナルド・トランプ米大統領が14日、中国・北京を訪れ、習近平中国国家主席との米中首脳会談を開始した初日、ニューヨーク株式市場はそろって上昇して始まった。ニューヨーク証券取引所によると、取引開始直後にダウ指数とナスダック指数はいずれも0.51％上昇した。今回の市場反応は、米中首脳が直接会談する日程と重なって表れた。投資家は会談初日の動きと主要指数の同時上昇に注目している。ただし、原文で示された数値は寄り付き段階のもので、取引時間中の推移はその後の売買状況によって変わり得る。出典はmk.co.kr。"
+      },
+      "zh": {
+        "title": "美中峰会首日纽约股市高开，道指和纳指均涨0.51%",
+        "excerpt": "美国总统唐纳德·特朗普14日在北京与中国国家主席习近平开始峰会之际，纽约股市集体高开，道指和纳指分别上涨0.51%。",
+        "body": "美国总统唐纳德·特朗普14日访问中国北京，并与中国国家主席习近平开始美中首脑会谈。会谈首日，纽约股市集体高开。根据纽约证券交易所消息，当天开盘初段，道琼斯指数和纳斯达克指数均上涨0.51%。这一市场反应出现在美中两国领导人直接会面的时间点。投资者同时关注会谈首日进展以及主要股指同步上涨的情况。不过，原文所列数据为开盘初段水平，盘中走势可能随后续交易情况而变化。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Cumbre EE.UU.-China impulsa apertura de Wall Street: Dow y Nasdaq suben 0,51%",
+        "excerpt": "El 14, Donald Trump inició en Pekín una cumbre con Xi Jinping y la Bolsa de Nueva York abrió al alza, con avances de 0,51% tanto en el Dow como en el Nasdaq.",
+        "body": "La Bolsa de Nueva York abrió con subidas generalizadas en el primer día de la cumbre entre Estados Unidos y China, después de que el presidente estadounidense Donald Trump viajara a Pekín el 14 para iniciar conversaciones con el presidente chino Xi Jinping. Según la Bolsa de Nueva York, el Dow Jones y el Nasdaq avanzaron cada uno un 0,51% en los primeros compases de la sesión. La reacción del mercado coincidió con el encuentro directo entre los líderes de ambos países. Los inversores siguieron de cerca tanto el desarrollo inicial de la cumbre como el avance conjunto de los principales índices. Las cifras citadas corresponden al inicio de la jornada y pueden variar durante la sesión. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Cúpula EUA-China começa e Wall Street sobe; Dow e Nasdaq avançam 0,51%",
+        "excerpt": "Donald Trump iniciou no dia 14, em Pequim, uma reunião de cúpula com Xi Jinping, enquanto a Bolsa de Nova York abriu em alta, com Dow e Nasdaq subindo 0,51% cada.",
+        "body": "A Bolsa de Nova York abriu em alta generalizada no primeiro dia da cúpula entre Estados Unidos e China, depois que o presidente americano Donald Trump visitou Pequim no dia 14 para iniciar conversas com o presidente chinês Xi Jinping. Segundo a New York Stock Exchange, o Dow Jones e o Nasdaq subiram 0,51% cada nos primeiros negócios. A reação do mercado ocorreu no mesmo momento em que os líderes dos dois países se reuniram diretamente. Investidores acompanharam o início da cúpula e a alta simultânea dos principais índices. Os números citados se referem ao começo do pregão e podem mudar ao longo da sessão conforme as negociações avancem. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "US-China-Gipfel startet, New Yorker Börse legt zu: Dow und Nasdaq plus 0,51%",
+        "excerpt": "US-Präsident Donald Trump begann am 14. in Peking Gespräche mit Chinas Präsident Xi Jinping; die New Yorker Börse eröffnete höher, Dow und Nasdaq stiegen je 0,51%.",
+        "body": "Die New Yorker Börse eröffnete am ersten Tag des US-chinesischen Gipfels breit im Plus, nachdem US-Präsident Donald Trump am 14. nach Peking gereist war, um Gespräche mit Chinas Präsident Xi Jinping aufzunehmen. Nach Angaben der New York Stock Exchange stiegen der Dow Jones und der Nasdaq zu Handelsbeginn jeweils um 0,51%. Die Marktreaktion fiel mit dem direkten Treffen der Staatschefs beider Länder zusammen. Anleger beobachteten sowohl den Auftakt der Gespräche als auch den gemeinsamen Anstieg der großen Indizes. Die im Originalbericht genannten Werte beziehen sich auf die frühe Handelsphase und können sich im weiteren Verlauf ändern. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Sommet États-Unis-Chine: Wall Street ouvre en hausse, Dow et Nasdaq +0,51%",
+        "excerpt": "Le 14, Donald Trump a entamé à Pékin un sommet avec Xi Jinping; la Bourse de New York a ouvert en hausse, avec le Dow Jones et le Nasdaq en progression de 0,51%.",
+        "body": "La Bourse de New York a ouvert en hausse généralisée au premier jour du sommet entre les États-Unis et la Chine, alors que le président américain Donald Trump s’est rendu à Pékin le 14 pour entamer des discussions avec le président chinois Xi Jinping. Selon la New York Stock Exchange, le Dow Jones et le Nasdaq ont chacun progressé de 0,51% en début de séance. Cette réaction du marché est intervenue au moment de la rencontre directe entre les dirigeants des deux pays. Les investisseurs surveillaient à la fois le début du sommet et la hausse simultanée des principaux indices. Les chiffres cités concernent l’ouverture et peuvent évoluer pendant la séance. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "بدء قمة أميركا والصين يدفع أسهم نيويورك للصعود وداو وناسداك +0.51%",
+        "excerpt": "بدأ الرئيس الأميركي دونالد ترامب في 14 محادثات مع الرئيس الصيني شي جين بينغ في بكين، فافتتحت أسهم نيويورك على ارتفاع مع صعود داو وناسداك 0.51% لكل منهما.",
+        "body": "افتتحت أسهم نيويورك على ارتفاع جماعي في اليوم الأول من القمة الأميركية الصينية، بعدما زار الرئيس الأميركي دونالد ترامب بكين في 14 لبدء محادثات مع الرئيس الصيني شي جين بينغ. ووفق بورصة نيويورك، ارتفع مؤشر داو جونز ومؤشر ناسداك بنسبة 0.51% لكل منهما في بداية التداول. وجاء هذا التحرك في السوق بالتزامن مع لقاء مباشر بين زعيمي البلدين. ويتابع المستثمرون مسار اليوم الأول من القمة إلى جانب الصعود المتزامن للمؤشرات الرئيسية. والأرقام الواردة في النص الأصلي تخص بداية الجلسة، وقد تتغير التحركات خلال التداولات اللاحقة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "अमेरिका-चीन शिखर वार्ता के पहले दिन न्यूयॉर्क बाजार चढ़ा, डाउ-नैस्डैक 0.51% ऊपर",
+        "excerpt": "डोनाल्ड ट्रंप ने 14 तारीख को बीजिंग में शी जिनपिंग के साथ शिखर वार्ता शुरू की, जिसके बीच न्यूयॉर्क शेयर बाजार ऊंचा खुला और डाउ व नैस्डैक दोनों 0.51% चढ़े।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप 14 तारीख को बीजिंग पहुंचे और चीन के राष्ट्रपति शी जिनपिंग के साथ अमेरिका-चीन शिखर वार्ता शुरू की। इसी पहले दिन न्यूयॉर्क शेयर बाजार सामूहिक रूप से बढ़त के साथ खुला। न्यूयॉर्क स्टॉक एक्सचेंज के अनुसार, शुरुआती कारोबार में डाउ जोन्स और नैस्डैक दोनों 0.51% ऊपर रहे। यह बाजार प्रतिक्रिया दोनों देशों के नेताओं की आमने-सामने बैठक के समय सामने आई। निवेशक वार्ता के पहले दिन की दिशा और प्रमुख सूचकांकों की एक साथ बढ़त पर नजर रख रहे हैं। मूल रिपोर्ट में दिए गए आंकड़े शुरुआती कारोबार के हैं और आगे के सौदों के साथ दिन के भीतर बदल सकते हैं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "KTT AS-China Dimulai, Bursa New York Menguat; Dow dan Nasdaq Naik 0,51%",
+        "excerpt": "Donald Trump memulai pertemuan puncak dengan Xi Jinping di Beijing pada 14, sementara bursa New York dibuka menguat dengan Dow dan Nasdaq masing-masing naik 0,51%.",
+        "body": "Bursa New York dibuka menguat serempak pada hari pertama KTT Amerika Serikat-China, setelah Presiden AS Donald Trump berkunjung ke Beijing pada 14 untuk memulai pembicaraan dengan Presiden China Xi Jinping. Menurut New York Stock Exchange, indeks Dow Jones dan Nasdaq masing-masing naik 0,51% pada awal perdagangan. Reaksi pasar ini muncul bertepatan dengan pertemuan langsung para pemimpin kedua negara. Investor mencermati jalannya hari pertama pertemuan serta kenaikan bersama indeks utama. Angka dalam laporan asli merujuk pada awal sesi, sehingga pergerakan intraday masih dapat berubah mengikuti transaksi berikutnya. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "5678756ad03e",
+    "slug": "63-지방선거-후보등록-첫날-6833명-신청경쟁률-14대-1-115653",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T15:33:45.319Z",
+    "updatedAt": "2026-05-14T15:33:45.319Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12048284",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12048284",
+    "titleFingerprint": "d1845b284bf9bb981da77ab1a37dbfc9c19afb2b",
+    "dedupKeys": [
+      "5678756ad03e26fd5af0231183572e00f1dc87e9",
+      "d1845b284bf9bb981da77ab1a37dbfc9c19afb2b",
+      "28fe748d1fe7dea634dc51a37f6f548a57fcdb83"
+    ],
+    "imageUrl": "/images/articles/5678756ad03e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "6·3 지방선거 후보등록 첫날 6833명 신청, 경쟁률 1.4대 1 기록",
+        "excerpt": "6월 3일 치러지는 제9회 전국동시지방선거와 국회의원 재·보궐선거 후보자 등록 첫날인 14일 오후 9시 현재 6833명이 서류를 제출했다.",
+        "body": "오는 6월 3일 실시되는 제9회 전국동시지방선거와 국회의원 재·보궐선거 후보자 등록 첫날인 14일 오후 9시 현재 총 6833명이 등록 서류를 제출했다. 중앙선거관리위원회 집계 기준으로, 이 가운데 등록 절차를 모두 마친 인원은 일부로 집계됐다. 전체 경쟁률은 1.4대 1로 나타났다. 후보 등록 첫날부터 광역·기초 단체장, 지방의원, 재·보궐선거 출마 예정자들의 서류 접수가 이어지며 선거전이 본격화되는 흐름이다. 최종 등록 규모와 지역별 경쟁 구도는 등록 마감 이후 더 구체화될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "June 3 Local Elections See 6,833 Candidate Filings on Day One, 1.4-to-1 Race",
+        "excerpt": "As of 9 p.m. on May 14, the first day of candidate registration for South Korea’s June 3 local elections and parliamentary by-elections, 6,833 people had submitted papers.",
+        "body": "As of 9 p.m. on May 14, the first day of candidate registration for South Korea’s ninth nationwide simultaneous local elections and National Assembly by-elections scheduled for June 3, a total of 6,833 people had submitted registration documents. According to the election tally, only some of those applications had completed the full registration process at that point. The overall competition ratio stood at 1.4 to 1. The first day’s filings show the formal election process moving into full swing, with prospective candidates for local government, local councils and by-elections submitting paperwork. The final number of registered candidates and regional contests are expected to become clearer after registration closes. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "6月3日地方選、候補登録初日に6833人申請　競争率1.4倍",
+        "excerpt": "6月3日に行われる韓国の第9回全国同時地方選挙と国会議員再・補欠選挙で、登録初日の14日午後9時現在、6833人が書類を提出した。",
+        "body": "6月3日に実施される韓国の第9回全国同時地方選挙および国会議員再・補欠選挙の候補者登録初日となった14日午後9時現在、計6833人が登録書類を提出した。選挙当局の集計によると、このうち登録手続きをすべて終えた人数は一部にとどまった。全体の競争率は1.4倍だった。登録初日から広域・基礎自治体の首長、地方議員、再・補欠選挙の立候補予定者による書類提出が続き、選挙戦が本格化する流れとなっている。最終的な登録規模と地域別の競争構図は、登録締め切り後により明確になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "6月3日韩国地方选举首日6833人登记，竞争率达1.4比1",
+        "excerpt": "截至5月14日晚9时，韩国6月3日第九届全国同步地方选举及国会议员再补缺选举候选人登记首日，共有6833人提交材料。",
+        "body": "截至5月14日晚9时，定于6月3日举行的韩国第九届全国同步地方选举及国会议员再补缺选举候选人登记首日，共有6833人提交登记材料。根据选举统计，其中仅有部分人员已完成全部登记程序。整体竞争率为1.4比1。登记首日，广域和基层地方政府负责人、地方议员以及再补缺选举拟参选人陆续提交文件，显示选举进程正式加速。最终登记人数和各地区竞争格局，预计将在登记截止后进一步明确。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Elecciones locales del 3 de junio: 6.833 candidaturas el primer día, ratio 1,4 a 1",
+        "excerpt": "Hasta las 21:00 del 14 de mayo, primer día de inscripción para las elecciones locales y parciales parlamentarias de Corea del Sur del 3 de junio, 6.833 personas presentaron documentos.",
+        "body": "Hasta las 21:00 del 14 de mayo, primer día de registro de candidaturas para la novena elección local simultánea de Corea del Sur y las elecciones parciales de la Asamblea Nacional previstas para el 3 de junio, un total de 6.833 personas había presentado documentos de inscripción. Según el recuento electoral, solo una parte había completado todo el proceso de registro en ese momento. La competencia general se situó en 1,4 a 1. Las presentaciones del primer día muestran que la campaña entra en una fase más activa, con aspirantes a gobiernos locales, consejos locales y comicios parciales entregando documentación. La cifra final y el mapa regional de competencia se aclararán tras el cierre del registro. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Eleições locais de 3 de junho têm 6.833 inscrições no 1º dia, disputa de 1,4 por vaga",
+        "excerpt": "Até as 21h de 14 de maio, primeiro dia de registro para as eleições locais e suplementares parlamentares da Coreia do Sul em 3 de junho, 6.833 pessoas entregaram documentos.",
+        "body": "Até as 21h de 14 de maio, primeiro dia de registro de candidatos para a nona eleição local simultânea da Coreia do Sul e para as eleições suplementares da Assembleia Nacional marcadas para 3 de junho, um total de 6.833 pessoas havia apresentado documentos de inscrição. Segundo a apuração eleitoral, apenas parte delas tinha concluído todo o processo de registro naquele momento. A disputa geral ficou em 1,4 candidato por vaga. As inscrições do primeiro dia mostram o avanço formal da corrida eleitoral, com postulantes a governos locais, assembleias locais e eleições suplementares entregando documentação. O total final e o quadro regional de competição devem ficar mais claros após o encerramento do registro. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Kommunalwahl am 3. Juni: 6.833 Bewerber am ersten Tag, Quote 1,4 zu 1",
+        "excerpt": "Bis 21 Uhr am 14. Mai, dem ersten Registrierungstag für Südkoreas Kommunalwahlen und Parlamentsnachwahlen am 3. Juni, reichten 6.833 Personen Unterlagen ein.",
+        "body": "Bis 21 Uhr am 14. Mai, dem ersten Tag der Kandidatenregistrierung für Südkoreas neunte landesweite gleichzeitige Kommunalwahl und Nachwahlen zur Nationalversammlung am 3. Juni, hatten insgesamt 6.833 Personen Registrierungsunterlagen eingereicht. Nach der Wahlstatistik hatte zu diesem Zeitpunkt nur ein Teil das gesamte Verfahren abgeschlossen. Die landesweite Bewerberquote lag bei 1,4 zu 1. Die Einreichungen am ersten Tag zeigen, dass der Wahlprozess offiziell Fahrt aufnimmt, da Bewerber für lokale Exekutivämter, Kommunalparlamente und Nachwahlen ihre Unterlagen abgeben. Die endgültige Zahl der Registrierungen und die regionalen Wettbewerbsstrukturen dürften nach Ende der Registrierung klarer werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Locales du 3 juin en Corée du Sud: 6 833 dossiers au premier jour, ratio de 1,4 pour 1",
+        "excerpt": "À 21 h le 14 mai, premier jour d’inscription pour les élections locales sud-coréennes et les partielles législatives du 3 juin, 6 833 personnes avaient déposé un dossier.",
+        "body": "À 21 h le 14 mai, premier jour d’enregistrement des candidats aux neuvièmes élections locales simultanées de Corée du Sud et aux élections partielles de l’Assemblée nationale prévues le 3 juin, 6 833 personnes avaient déposé des documents d’inscription. Selon le décompte électoral, seule une partie avait alors achevé l’ensemble de la procédure. Le ratio global de concurrence s’établissait à 1,4 pour 1. Les dépôts du premier jour montrent l’entrée du scrutin dans une phase plus active, avec des candidats aux exécutifs locaux, aux assemblées locales et aux partielles remettant leurs dossiers. Le nombre final d’inscrits et les rapports de force régionaux devraient se préciser après la clôture des inscriptions. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "انتخابات 3 يونيو المحلية في كوريا الجنوبية: 6833 طلب ترشح في اليوم الأول ومنافسة 1.4 إلى 1",
+        "excerpt": "حتى الساعة 9 مساء يوم 14 مايو، أول أيام تسجيل المرشحين لانتخابات كوريا الجنوبية المحلية والانتخابات البرلمانية التكميلية في 3 يونيو، قدم 6833 شخصا أوراقهم.",
+        "body": "حتى الساعة 9 مساء يوم 14 مايو، وهو اليوم الأول لتسجيل المرشحين للانتخابات المحلية المتزامنة التاسعة في كوريا الجنوبية وللانتخابات التكميلية للجمعية الوطنية المقررة في 3 يونيو، قدم ما مجموعه 6833 شخصا وثائق التسجيل. ووفق إحصاء الانتخابات، كان جزء فقط من هؤلاء قد أكمل إجراءات التسجيل بالكامل في ذلك الوقت. وبلغ معدل المنافسة الإجمالي 1.4 إلى 1. وتظهر طلبات اليوم الأول أن العملية الانتخابية دخلت مرحلة أكثر نشاطا، مع تقديم مرشحين محتملين للمناصب المحلية والمجالس المحلية والانتخابات التكميلية أوراقهم. ومن المتوقع أن يتضح العدد النهائي للمسجلين وخريطة المنافسة الإقليمية بعد إغلاق باب التسجيل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "3 जून स्थानीय चुनाव: पहले दिन 6,833 उम्मीदवारों ने दस्तावेज जमा किए, मुकाबला 1.4:1",
+        "excerpt": "3 जून को होने वाले दक्षिण कोरिया के स्थानीय चुनावों और संसदीय उपचुनावों के लिए 14 मई रात 9 बजे तक, पंजीकरण के पहले दिन, 6,833 लोगों ने दस्तावेज जमा किए।",
+        "body": "3 जून को होने वाले दक्षिण कोरिया के नौवें राष्ट्रव्यापी समकालिक स्थानीय चुनावों और नेशनल असेंबली के उपचुनावों के लिए उम्मीदवार पंजीकरण के पहले दिन 14 मई रात 9 बजे तक कुल 6,833 लोगों ने पंजीकरण दस्तावेज जमा किए। चुनावी गणना के अनुसार, उस समय इनमें से केवल कुछ ने पूरी पंजीकरण प्रक्रिया पूरी की थी। कुल प्रतिस्पर्धा अनुपात 1.4 से 1 रहा। पहले दिन की फाइलिंग से संकेत मिलता है कि स्थानीय सरकारों, स्थानीय परिषदों और उपचुनावों के संभावित उम्मीदवारों द्वारा दस्तावेज जमा करने के साथ चुनाव प्रक्रिया औपचारिक रूप से तेज हो रही है। अंतिम पंजीकरण संख्या और क्षेत्रीय मुकाबले पंजीकरण बंद होने के बाद अधिक स्पष्ट होंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pemilu lokal 3 Juni: 6.833 kandidat daftar hari pertama, rasio persaingan 1,4 banding 1",
+        "excerpt": "Hingga pukul 21.00 pada 14 Mei, hari pertama pendaftaran kandidat pemilu lokal dan pemilu sela parlemen Korea Selatan pada 3 Juni, 6.833 orang menyerahkan dokumen.",
+        "body": "Hingga pukul 21.00 pada 14 Mei, hari pertama pendaftaran kandidat untuk pemilu lokal serentak nasional kesembilan Korea Selatan dan pemilu sela Majelis Nasional yang dijadwalkan pada 3 Juni, total 6.833 orang telah menyerahkan dokumen pendaftaran. Menurut penghitungan pemilu, hanya sebagian dari mereka yang telah menyelesaikan seluruh proses pendaftaran pada saat itu. Rasio persaingan keseluruhan tercatat 1,4 banding 1. Pengajuan pada hari pertama menunjukkan proses pemilu mulai berjalan lebih aktif, dengan calon untuk pemerintahan daerah, dewan lokal, dan pemilu sela menyerahkan berkas. Jumlah akhir pendaftar dan peta persaingan regional diperkirakan menjadi lebih jelas setelah pendaftaran ditutup. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e20f96748062",
+    "slug": "미중정상회담-씬-스틸러는-머스크-부자트럼프-등장-땐-까치-날아들기도-346148",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T15:32:35.432Z",
+    "updatedAt": "2026-05-14T15:32:35.433Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12048303",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12048303",
+    "titleFingerprint": "3b1a7b8abe952b433d625fe2211cd93eafb15320",
+    "dedupKeys": [
+      "e20f9674806272092c0a5e4be0bd768447436afd",
+      "3b1a7b8abe952b433d625fe2211cd93eafb15320",
+      "e4dbe2c341d84a7bb450480cd1f83de244f38392"
+    ],
+    "imageUrl": "/images/articles/e20f96748062.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미중 정상회담 포착된 머스크 부자와 까치, 트럼프 방중 행사 이목 집중",
+        "excerpt": "도널드 트럼프 미국 대통령의 9년 만의 중국 방문 중 14일 시진핑 주석과의 공식 행사장에서 머스크 부자와 고위 관료, 기업인들이 카메라에 포착됐다.",
+        "body": "도널드 트럼프 미국 대통령의 9년 만의 중국 방문 일정에서 14일 시진핑 중국 국가주석과 관련한 공식 행사장이 예상 밖 장면으로 주목받았다. 수행단에 포함된 고위급 관료와 슈퍼스타급 기업인들이 행사장 곳곳에서 카메라에 잡혔고, 특히 머스크 부자로 언급된 인물들이 시선을 끌었다. 트럼프 대통령이 등장하는 순간에는 까치가 날아드는 장면도 포착됐다. 이번 장면들은 미중 정상회담이라는 외교 이벤트의 무게감과 함께, 수행 인사들의 존재감이 별도 화제로 번진 사례로 읽힌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Musk Family and a Magpie Draw Attention During Trump’s China Visit",
+        "excerpt": "During U.S. President Donald Trump’s first China visit in nine years, cameras captured senior officials, star business figures and the Musk family at official events on the 14th.",
+        "body": "During U.S. President Donald Trump’s first visit to China in nine years, official events linked to Chinese President Xi Jinping on the 14th drew attention for unexpected scenes. Senior officials accompanying Trump and superstar-level business figures were caught by cameras throughout the venue, with figures described as the Musk family drawing particular notice. A magpie was also seen flying in as Trump appeared. The moments added a separate visual focus to the diplomatic weight of the U.S.-China summit, highlighting the presence of the delegation and business figures around the formal schedule. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米中首脳会談で注目されたマスク親子とカササギ、トランプ訪中の一幕",
+        "excerpt": "ドナルド・トランプ米大統領の9年ぶりの中国訪問で、14日の公式行事に同行高官や著名企業人、マスク親子がカメラに捉えられた。",
+        "body": "ドナルド・トランプ米大統領の9年ぶりとなる中国訪問日程で、14日に習近平中国国家主席と関連する公式行事の会場が予想外の場面で注目を集めた。同行した高官やスーパースター級の企業人が会場の各所でカメラに捉えられ、特にマスク親子として言及された人物に視線が集まった。トランプ大統領が登場した瞬間には、カササギが飛び込む様子も映された。これらの場面は、米中首脳会談という外交イベントの重みとともに、同行者の存在感が別の話題として広がった事例といえる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "中美元首会晤现场的马斯克父子与喜鹊，特朗普访华引关注",
+        "excerpt": "美国总统唐纳德·特朗普时隔9年访华期间，14日官方活动现场拍到高级官员、明星企业家以及被称为马斯克父子的人物。",
+        "body": "美国总统唐纳德·特朗普时隔9年访问中国的行程中，14日与中国国家主席习近平相关的官方活动现场因意外画面受到关注。随行的高级官员和超级明星级企业人士在会场多处被镜头捕捉，其中被提到为马斯克父子的人物尤其吸引视线。特朗普总统登场时，还出现了喜鹊飞入画面的场景。这些画面在中美元首会晤这一外交事件的分量之外，也让随行人士的存在感成为另一个话题。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La familia Musk y una urraca acaparan miradas en la visita de Trump a China",
+        "excerpt": "Durante la primera visita a China en nueve años del presidente estadounidense Donald Trump, cámaras captaron el día 14 a altos funcionarios, empresarios estrella y la familia Musk.",
+        "body": "Durante la primera visita a China en nueve años del presidente estadounidense Donald Trump, los actos oficiales vinculados al presidente chino Xi Jinping el día 14 llamaron la atención por escenas inesperadas. Altos funcionarios de la comitiva y empresarios de nivel superestrella fueron captados por las cámaras en distintos puntos del recinto, con especial interés en las figuras mencionadas como la familia Musk. También se registró una urraca entrando en escena cuando apareció Trump. Estos momentos añadieron un foco visual separado al peso diplomático de la cumbre entre Estados Unidos y China. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Família Musk e uma pega chamam atenção na visita de Trump à China",
+        "excerpt": "Na primeira visita à China em nove anos do presidente dos EUA, Donald Trump, câmeras registraram no dia 14 autoridades, empresários de destaque e a família Musk em atos oficiais.",
+        "body": "Na primeira visita à China em nove anos do presidente dos Estados Unidos, Donald Trump, os eventos oficiais ligados ao presidente chinês Xi Jinping no dia 14 chamaram atenção por cenas inesperadas. Autoridades de alto escalão que acompanhavam a comitiva e empresários de nível superestrela foram captados por câmeras em vários pontos do local, com destaque para figuras mencionadas como a família Musk. No momento em que Trump apareceu, uma pega também foi vista entrando em cena. As imagens somaram um foco paralelo ao peso diplomático da cúpula EUA-China. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Musk-Familie und Elster im Fokus bei Trumps China-Besuch",
+        "excerpt": "Beim ersten China-Besuch von US-Präsident Donald Trump seit neun Jahren zeigten Kameras am 14. hochrangige Beamte, bekannte Unternehmer und die Musk-Familie bei offiziellen Terminen.",
+        "body": "Beim ersten China-Besuch von US-Präsident Donald Trump seit neun Jahren sorgten offizielle Termine im Zusammenhang mit Chinas Staatspräsident Xi Jinping am 14. für unerwartete Aufmerksamkeit. Hochrangige Beamte der Delegation und Unternehmer mit Superstar-Status wurden an verschiedenen Stellen des Veranstaltungsorts von Kameras erfasst, besonders die als Musk-Familie bezeichneten Personen. Als Trump erschien, wurde zudem eine einfliegende Elster aufgenommen. Die Szenen ergänzten das diplomatische Gewicht des US-chinesischen Gipfels um einen eigenen visuellen Gesprächspunkt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La famille Musk et une pie remarquées pendant la visite de Trump en Chine",
+        "excerpt": "Lors de la première visite en Chine depuis neuf ans du président américain Donald Trump, des caméras ont filmé le 14 des hauts responsables, des grands patrons et la famille Musk.",
+        "body": "Lors de la première visite en Chine depuis neuf ans du président américain Donald Trump, les événements officiels liés au président chinois Xi Jinping, le 14, ont attiré l’attention par des scènes inattendues. Des hauts responsables accompagnant la délégation et des chefs d’entreprise de rang superstar ont été captés par les caméras à divers endroits, avec un intérêt particulier pour les personnes décrites comme la famille Musk. Une pie a également été vue entrant dans le champ au moment de l’arrivée de Trump. Ces images ont ajouté un sujet visuel distinct au poids diplomatique du sommet sino-américain. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "عائلة ماسك وعقعق يخطفان الانتباه خلال زيارة ترامب إلى الصين",
+        "excerpt": "خلال أول زيارة للرئيس الأميركي دونالد ترامب إلى الصين منذ تسع سنوات، التقطت الكاميرات في 14 الشهر مسؤولين كبارا ورجال أعمال بارزين وعائلة ماسك في فعاليات رسمية.",
+        "body": "خلال أول زيارة للرئيس الأميركي دونالد ترامب إلى الصين منذ تسع سنوات، لفتت الفعاليات الرسمية المرتبطة بالرئيس الصيني شي جين بينغ في 14 الشهر الانتباه بمشاهد غير متوقعة. فقد ظهرت في لقطات الكاميرات شخصيات من كبار المسؤولين المرافقين ورجال أعمال بمستوى نجومية عال في أنحاء موقع الحدث، وكان التركيز خاصا على شخصيات وُصفت بأنها عائلة ماسك. كما التُقط مشهد لعقعق يطير إلى المكان لحظة ظهور ترامب. أضافت هذه اللقطات محور اهتمام بصريا إلى الثقل الدبلوماسي لقمة الولايات المتحدة والصين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ट्रंप की चीन यात्रा में मस्क परिवार और मैगपाई ने खींचा ध्यान",
+        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नौ साल बाद चीन यात्रा के दौरान 14 तारीख के आधिकारिक कार्यक्रमों में वरिष्ठ अधिकारी, बड़े कारोबारी और मस्क परिवार कैमरों में दिखे।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नौ साल बाद चीन यात्रा के दौरान 14 तारीख को चीनी राष्ट्रपति शी जिनपिंग से जुड़े आधिकारिक कार्यक्रम अप्रत्याशित दृश्यों के कारण चर्चा में रहे। ट्रंप के साथ आए वरिष्ठ अधिकारी और सुपरस्टार स्तर के कारोबारी कार्यक्रम स्थल के अलग-अलग हिस्सों में कैमरों में कैद हुए, जिनमें मस्क परिवार के रूप में उल्लेखित व्यक्तियों ने खास ध्यान खींचा। ट्रंप के प्रवेश के समय एक मैगपाई के उड़कर आने का दृश्य भी रिकॉर्ड हुआ। इन दृश्यों ने अमेरिका-चीन शिखर बैठक के कूटनीतिक महत्व के साथ-साथ प्रतिनिधिमंडल की उपस्थिति को अलग चर्चा बना दिया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Keluarga Musk dan Burung Magpie Jadi Sorotan Saat Trump ke China",
+        "excerpt": "Dalam kunjungan Presiden AS Donald Trump ke China setelah sembilan tahun, kamera pada tanggal 14 menangkap pejabat tinggi, pengusaha ternama, dan keluarga Musk di acara resmi.",
+        "body": "Dalam kunjungan Presiden Amerika Serikat Donald Trump ke China setelah sembilan tahun, acara resmi yang terkait dengan Presiden China Xi Jinping pada tanggal 14 menarik perhatian karena sejumlah adegan tak terduga. Pejabat tinggi dalam rombongan dan pengusaha berkelas superstar tertangkap kamera di berbagai titik lokasi acara, terutama sosok yang disebut sebagai keluarga Musk. Saat Trump muncul, seekor burung magpie juga terlihat terbang masuk ke area tersebut. Momen-momen ini menambah fokus visual tersendiri di tengah bobot diplomatik KTT Amerika Serikat-China. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "f65e89a24941",
     "slug": "고유가에-美-4월-소매판매-큰폭-둔화-794225",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Yoo Seung-jun Bantah Mengumpat dan Keluhkan Komentar Jahat soal Wamil",
         "excerpt": "Penyanyi Yoo Seung-jun pada tanggal 13 berbicara di kanal YouTube-nya tentang komentar jahat yang terus muncul terkait kontroversi penghindaran wajib militer 24 tahun lalu.",
         "body": "Penyanyi Yoo Seung-jun pada tanggal 13 berbicara melalui kanal YouTube ‘Yoo Seung-jun’ tentang kesulitan akibat komentar jahat yang terus berlanjut terkait kontroversi ‘penghindaran wajib militer’ yang muncul 24 tahun lalu. Ia mengatakan masih ada pandangan yang percaya bahwa dirinya pernah mengumpat, dan menyampaikan rasa tidak adil. Pernyataan ini muncul saat kontroversi lama terus berulang dalam komentar daring dan opini publik selama bertahun-tahun. Yoo menunjukkan rasa frustrasi dengan maksud “saya sudah berkali-kali mengatakan bahwa itu bukan saya,” dan isu tersebut kembali menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7298bfbac21b",
-    "slug": "매경이-전하는-세상의-지식-매-세-지-5월-14일-512446",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T22:20:44.142Z",
-    "updatedAt": "2026-05-13T22:20:44.142Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12046380",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12046380",
-    "titleFingerprint": "80497facda603d1577d2f9bc64587e05bb2f9eb9",
-    "dedupKeys": [
-      "7298bfbac21b978d720b48471e6e50b6d16c7708",
-      "80497facda603d1577d2f9bc64587e05bb2f9eb9",
-      "ee35d0e3e04fbc92b0f5fcacabaa8b2ec866f14c"
-    ],
-    "imageUrl": "/images/articles/7298bfbac21b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민연금 국내 주식 비중 27% 돌파, 목표치 14.9% 크게 상회",
-        "excerpt": "매일경제가 5월 14일 전한 ‘매-세-지’에 따르면 국민연금 포트폴리오의 국내 주식 비중이 27%를 넘어 올해 목표치 14.9%를 크게 웃돌았다.",
-        "body": "매일경제가 5월 14일 전한 ‘매경이 전하는 세상의 지식’에 따르면 국민연금 포트폴리오에서 국내 주식 비중이 27%를 넘어섰다. 이는 올해 목표치인 14.9%를 훌쩍 웃도는 수준이다. 원칙적으로는 목표 비중과 실제 비중의 차이를 맞추기 위해 약 150조원어치 국내 주식을 기계적으로 매도해야 하는 상황으로 제시됐다. 이번 수치는 국민연금의 자산 배분과 국내 증시 수급에 직접 연결되는 사안으로, 목표 비중 관리 방식과 매도 압력 여부가 시장의 관심사가 될 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "National Pension’s Korean stock share tops 27%, far above 14.9% target",
-        "excerpt": "According to Maeil Business Newspaper’s May 14 digest, domestic stocks exceeded 27% of the National Pension portfolio, far above this year’s 14.9% target.",
-        "body": "According to Maeil Business Newspaper’s May 14 “Knowledge of the World” digest, domestic stocks accounted for more than 27% of the National Pension portfolio. That is well above this year’s target of 14.9%. In principle, the report presented a situation in which about 150 trillion won in Korean stocks would have to be mechanically sold to bring the actual share back in line with the target. The figure is directly tied to the National Pension’s asset allocation and supply-demand conditions in the local stock market, making its target-weight management and possible selling pressure a point of market attention. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民年金の韓国株比率27％超、目標14.9％を大幅上回る",
-        "excerpt": "毎日経済が5月14日に伝えた「メ・セ・ジ」によると、国民年金ポートフォリオの国内株式比率は27％を超え、今年の目標14.9％を大きく上回った。",
-        "body": "毎日経済が5月14日に伝えた「毎経が伝える世の中の知識」によると、国民年金のポートフォリオで国内株式の比率が27％を超えた。これは今年の目標値である14.9％を大きく上回る水準だ。原則としては、目標比率と実際の比率との差を調整するため、約150兆ウォン相当の国内株式を機械的に売却しなければならない状況として示された。この数値は国民年金の資産配分と韓国株式市場の需給に直接関わるため、目標比率の管理方法と売却圧力の有無が市場の関心事となり得る。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国国民年金本土股票占比超27%，远高于14.9%目标",
-        "excerpt": "据《每日经济》5月14日“每日经济传递的世界知识”报道，韩国国民年金投资组合中本土股票占比超过27%，大幅高于今年14.9%的目标。",
-        "body": "据《每日经济》5月14日“每日经济传递的世界知识”报道，韩国国民年金投资组合中本土股票占比已超过27%。这一水平明显高于今年14.9%的目标值。报道指出，原则上，为使实际占比与目标占比相匹配，需机械性卖出约150万亿韩元规模的韩国本土股票。该数据直接关系到国民年金的资产配置以及韩国股市供需，因此目标比重管理方式和潜在卖压可能成为市场关注焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La pensión nacional supera 27% en acciones coreanas, muy por encima del 14,9%",
-        "excerpt": "Según el resumen de Maeil Business Newspaper del 14 de mayo, las acciones locales superaron el 27% de la cartera del Fondo Nacional de Pensiones, frente a una meta anual del 14,9%.",
-        "body": "Según el resumen “Conocimiento del mundo” publicado por Maeil Business Newspaper el 14 de mayo, las acciones nacionales superaron el 27% de la cartera del Fondo Nacional de Pensiones. La cifra está muy por encima del objetivo de este año, fijado en 14,9%. En principio, el informe señaló que, para ajustar la proporción real al objetivo, habría que vender mecánicamente unos 150 billones de wones en acciones coreanas. El dato está directamente relacionado con la asignación de activos del fondo y con la oferta y demanda del mercado bursátil local, por lo que la gestión del peso objetivo y la posible presión vendedora pueden atraer la atención del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Pensão nacional passa de 27% em ações coreanas, acima da meta de 14,9%",
-        "excerpt": "Segundo o resumo do Maeil Business Newspaper de 14 de maio, ações domésticas passaram de 27% da carteira do Fundo Nacional de Pensões, bem acima da meta anual de 14,9%.",
-        "body": "Segundo o resumo “Conhecimento do Mundo”, publicado pelo Maeil Business Newspaper em 14 de maio, as ações domésticas passaram de 27% da carteira do Fundo Nacional de Pensões. Esse nível fica muito acima da meta deste ano, de 14,9%. Em princípio, o relatório apresentou uma situação em que cerca de 150 trilhões de wones em ações coreanas teriam de ser vendidos mecanicamente para alinhar a participação real ao alvo. O dado está diretamente ligado à alocação de ativos do fundo e às condições de oferta e demanda no mercado acionário local, tornando a gestão da meta e a possível pressão vendedora pontos de atenção do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "National Pension hält über 27% in Korea-Aktien, deutlich über 14,9%-Ziel",
-        "excerpt": "Laut dem Maeil-Business-Newspaper-Überblick vom 14. Mai lag der Anteil heimischer Aktien im Portfolio des National Pension Service über 27% und damit klar über dem Jahresziel von 14,9%.",
-        "body": "Laut dem am 14. Mai veröffentlichten Überblick „Wissen der Welt“ von Maeil Business Newspaper lag der Anteil heimischer Aktien im Portfolio des National Pension Service bei über 27%. Damit wurde das diesjährige Ziel von 14,9% deutlich überschritten. Grundsätzlich beschrieb der Bericht eine Lage, in der rund 150 Billionen Won an koreanischen Aktien mechanisch verkauft werden müssten, um den tatsächlichen Anteil wieder an die Zielquote anzupassen. Die Zahl betrifft unmittelbar die Vermögensallokation des Fonds und die Angebots-Nachfrage-Lage am heimischen Aktienmarkt. Daher können die Steuerung der Zielquote und möglicher Verkaufsdruck in den Fokus des Marktes rücken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La part d’actions coréennes du fonds national dépasse 27%, au-dessus de 14,9%",
-        "excerpt": "Selon la synthèse du Maeil Business Newspaper du 14 mai, les actions locales représentaient plus de 27% du portefeuille du fonds national de pension, bien au-dessus de l’objectif annuel de 14,9%.",
-        "body": "Selon la synthèse « Connaissance du monde » publiée le 14 mai par Maeil Business Newspaper, les actions nationales représentaient plus de 27% du portefeuille du fonds national de pension. Ce niveau dépasse largement l’objectif fixé cette année à 14,9%. En principe, le rapport présente une situation dans laquelle environ 150 000 milliards de wons d’actions coréennes devraient être vendus mécaniquement afin de ramener la part réelle vers la cible. Ce chiffre touche directement l’allocation d’actifs du fonds et l’équilibre offre-demande sur le marché boursier local. La gestion de la pondération cible et une éventuelle pression vendeuse peuvent donc retenir l’attention du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "حصة الأسهم الكورية في صندوق التقاعد تتجاوز 27% فوق هدف 14.9%",
-        "excerpt": "بحسب موجز صحيفة Maeil Business Newspaper في 14 مايو، تجاوزت الأسهم المحلية 27% من محفظة صندوق التقاعد الوطني الكوري، متخطية بوضوح هدف هذا العام البالغ 14.9%.",
-        "body": "بحسب موجز «معرفة العالم» الذي نشرته صحيفة Maeil Business Newspaper في 14 مايو، تجاوزت حصة الأسهم المحلية 27% من محفظة صندوق التقاعد الوطني الكوري. وهذا مستوى أعلى بكثير من هدف هذا العام البالغ 14.9%. ووفق ما عرضه التقرير، فإن القاعدة المبدئية تعني ضرورة بيع أسهم كورية محلية بقيمة تقارب 150 تريليون وون بصورة آلية لمواءمة الحصة الفعلية مع الحصة المستهدفة. ويرتبط هذا الرقم مباشرة بتوزيع أصول الصندوق وبظروف العرض والطلب في سوق الأسهم المحلية، ما يجعل طريقة إدارة الوزن المستهدف واحتمال ضغط البيع محل اهتمام في السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "राष्ट्रीय पेंशन में कोरियाई शेयर 27% से ऊपर, 14.9% लक्ष्य से काफी अधिक",
-        "excerpt": "Maeil Business Newspaper के 14 मई के सारांश के अनुसार, राष्ट्रीय पेंशन पोर्टफोलियो में घरेलू शेयरों की हिस्सेदारी 27% से ऊपर पहुंची, जो इस वर्ष के 14.9% लक्ष्य से काफी अधिक है।",
-        "body": "Maeil Business Newspaper के 14 मई के “दुनिया का ज्ञान” सारांश के अनुसार, राष्ट्रीय पेंशन पोर्टफोलियो में घरेलू शेयरों की हिस्सेदारी 27% से अधिक हो गई। यह इस वर्ष के 14.9% लक्ष्य से काफी ऊपर है। रिपोर्ट में स्थिति इस रूप में बताई गई कि सिद्धांततः वास्तविक हिस्सेदारी को लक्ष्य अनुपात के अनुरूप लाने के लिए लगभग 150 ट्रिलियन वॉन मूल्य के कोरियाई घरेलू शेयरों की यांत्रिक बिक्री करनी होगी। यह आंकड़ा राष्ट्रीय पेंशन की परिसंपत्ति आवंटन नीति और स्थानीय शेयर बाजार की आपूर्ति-मांग स्थिति से सीधे जुड़ा है। इसलिए लक्ष्य अनुपात का प्रबंधन और संभावित बिकवाली दबाव बाजार की निगाह में रह सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Porsi saham Korea di dana pensiun nasional tembus 27%, jauh di atas target 14,9%",
-        "excerpt": "Menurut ringkasan Maeil Business Newspaper pada 14 Mei, porsi saham domestik dalam portofolio Dana Pensiun Nasional Korea melampaui 27%, jauh di atas target tahun ini sebesar 14,9%.",
-        "body": "Menurut ringkasan “Pengetahuan Dunia” yang disampaikan Maeil Business Newspaper pada 14 Mei, porsi saham domestik dalam portofolio Dana Pensiun Nasional Korea telah melampaui 27%. Angka ini jauh di atas target tahun ini sebesar 14,9%. Secara prinsip, laporan tersebut menggambarkan situasi di mana sekitar 150 triliun won saham domestik Korea harus dijual secara mekanis agar porsi aktual kembali sesuai dengan target. Data ini terkait langsung dengan alokasi aset dana pensiun dan kondisi penawaran-permintaan di pasar saham lokal. Karena itu, cara pengelolaan bobot target dan kemungkinan tekanan jual dapat menjadi perhatian pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f7e7f1c335f1",
-    "slug": "ai-학습을-위해-사용되는-저작물-어디까지가-공정이용일까-지평-테크레이더-844821",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T22:19:48.284Z",
-    "updatedAt": "2026-05-13T22:19:48.284Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12045381",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12045381",
-    "titleFingerprint": "bed7e88fb89325e293e0ac6054aa4360073b8e46",
-    "dedupKeys": [
-      "f7e7f1c335f1fc123f1fe6a7a40c8f388fb8de7e",
-      "bed7e88fb89325e293e0ac6054aa4360073b8e46",
-      "207e9629c4d6974af5ec47a2f427555fcf9c5ed7"
-    ],
-    "imageUrl": "/images/articles/f7e7f1c335f1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 학습 저작물 공정이용 논쟁, 어디까지 허용될까",
-        "excerpt": "매일경제 지평 테크레이더는 허종 법무법인 지평 변호사의 글을 통해 AI 학습에 쓰이는 저작물이 공정이용에 해당하는지 핵심 쟁점을 짚었다.",
-        "body": "매일경제 지평 테크레이더는 허종 법무법인 지평 변호사의 글을 통해 AI 학습에 사용되는 저작물이 어디까지 ‘공정이용’으로 볼 수 있는지 조명했다. AI 기술의 발전 속도가 놀라운 수준에 이른 가운데, 그 발전의 기반이 되는 학습 데이터와 저작물 이용 문제가 핵심 법적 쟁점으로 떠올랐다는 내용이다. 글은 AI 학습 과정에서 저작물이 활용될 때 권리 보호와 기술 발전 사이의 균형이 중요하다는 문제의식을 담고 있다. 특히 AI 학습의 핵심 쟁점으로 공정이용 논의가 부상하고 있다는 점을 강조했다. 향후 AI 산업과 저작권 분쟁에서 해당 기준이 중요한 판단 요소가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI Training and Copyrighted Works: How Far Can Fair Use Go?",
-        "excerpt": "Maeil Business Newspaper’s Jipyong Tech Radar, citing attorney Heo Jong of Jipyong, examined whether copyrighted works used for AI training may qualify as fair use.",
-        "body": "Maeil Business Newspaper’s Jipyong Tech Radar highlighted an article by Heo Jong, an attorney at Jipyong, on how far the use of copyrighted works for AI training can be considered “fair use.” As the pace of AI development has reached a remarkable level, the use of training data and copyrighted works has emerged as a central legal issue behind that progress. The article raises the need to balance rights protection with technological development when works are used in AI training. It especially stresses that fair use has become a core issue in AI learning. The standard is expected to remain an important factor in future AI industry and copyright disputes. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AI学習に使われる著作物、公正利用はどこまで認められるか",
-        "excerpt": "毎日経済の「地平テックレーダー」は、法務法人地平の許鍾弁護士の寄稿を通じ、AI学習に使われる著作物が公正利用に当たるかを整理した。",
-        "body": "毎日経済の「地平テックレーダー」は、法務法人地平の許鍾弁護士の寄稿を通じ、AI学習に使われる著作物をどこまで「公正利用」と見なせるのかを取り上げた。AI技術の発展速度が驚くべき水準に達するなか、その発展の基盤となる学習データと著作物利用の問題が重要な法的争点として浮上しているという内容だ。記事は、AI学習過程で著作物が活用される際、権利保護と技術発展の均衡が重要だという問題意識を示している。特にAI学習の核心争点として公正利用の議論が台頭している点を強調した。今後、AI産業と著作権紛争でこの基準が重要な判断要素になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI训练使用著作物，合理使用边界究竟在哪里",
-        "excerpt": "《每日经济》“Jipyong Tech Radar”通过法务法人Jipyong律师许钟的文章，梳理AI训练所用著作物是否属于合理使用的核心争议。",
-        "body": "《每日经济》“Jipyong Tech Radar”通过法务法人Jipyong律师许钟的文章，关注AI训练中使用的著作物在多大范围内可被视为“合理使用”。文章指出，AI技术发展速度已达到惊人水平，而支撑这一发展的训练数据与著作物使用问题，正成为核心法律争议。该文提出，在AI训练过程中使用著作物时，权利保护与技术发展之间的平衡十分重要。文章尤其强调，合理使用讨论已上升为AI训练的核心议题。未来在AI产业和著作权纠纷中，相关标准预计将成为重要判断因素。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Obras usadas para entrenar IA: hasta dónde llega el uso justo",
-        "excerpt": "Maeil Business Newspaper, en Jipyong Tech Radar, analizó con el abogado Heo Jong de Jipyong si las obras usadas para entrenar IA pueden considerarse uso justo.",
-        "body": "Maeil Business Newspaper, en Jipyong Tech Radar, abordó mediante un texto del abogado Heo Jong, de la firma Jipyong, hasta dónde puede considerarse “uso justo” el empleo de obras protegidas para entrenar IA. En un momento en que el avance de la IA ha alcanzado un ritmo notable, el uso de datos de entrenamiento y obras con derechos se ha convertido en una cuestión legal central detrás de ese desarrollo. El artículo plantea la importancia de equilibrar la protección de derechos y el progreso tecnológico cuando se utilizan obras en el aprendizaje de IA. También subraya que el debate sobre uso justo emerge como un eje clave. Ese criterio será relevante en futuras disputas de IA y derechos de autor. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Obras usadas no treino de IA: até onde vai o uso justo",
-        "excerpt": "O Maeil Business Newspaper, no Jipyong Tech Radar, analisou com o advogado Heo Jong, da Jipyong, se obras usadas no treino de IA podem ser uso justo.",
-        "body": "O Maeil Business Newspaper, no Jipyong Tech Radar, destacou um texto do advogado Heo Jong, da Jipyong, sobre até que ponto o uso de obras protegidas no treino de IA pode ser considerado “uso justo”. Com o avanço da tecnologia de IA em ritmo impressionante, o uso de dados de treinamento e de obras autorais tornou-se uma questão jurídica central por trás desse progresso. O artigo aponta a necessidade de equilibrar a proteção de direitos e o desenvolvimento tecnológico quando obras são utilizadas no aprendizado de IA. Também enfatiza que o debate sobre uso justo ganhou destaque como tema essencial. Esse critério tende a ser importante em futuras disputas sobre IA e direitos autorais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KI-Training mit urheberrechtlichen Werken: Wie weit reicht Fair Use?",
-        "excerpt": "Maeil Business Newspaper beleuchtete in Jipyong Tech Radar mit Anwalt Heo Jong von Jipyong, ob für KI-Training genutzte Werke als Fair Use gelten können.",
-        "body": "Maeil Business Newspaper hat in Jipyong Tech Radar einen Beitrag von Heo Jong, Anwalt bei Jipyong, aufgegriffen und die Frage beleuchtet, wie weit die Nutzung urheberrechtlich geschützter Werke für KI-Training als „Fair Use“ gelten kann. Da sich KI-Technologie in bemerkenswertem Tempo entwickelt, rücken Trainingsdaten und die Nutzung geschützter Werke als zentrale rechtliche Fragen hinter diesem Fortschritt in den Fokus. Der Beitrag betont, dass beim Einsatz von Werken im KI-Lernprozess ein Gleichgewicht zwischen Rechteschutz und technologischer Entwicklung wichtig ist. Besonders hervorgehoben wird, dass Fair Use zu einem Kernthema des KI-Trainings geworden ist. Dieser Maßstab dürfte künftig bei KI-Industrie und Urheberrechtsstreitigkeiten wichtig bleiben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Œuvres utilisées pour entraîner l’IA : jusqu’où va l’usage équitable",
-        "excerpt": "Maeil Business Newspaper, dans Jipyong Tech Radar, a examiné avec l’avocat Heo Jong de Jipyong si les œuvres utilisées pour l’IA relèvent de l’usage équitable.",
-        "body": "Maeil Business Newspaper, dans Jipyong Tech Radar, a présenté un article de Heo Jong, avocat chez Jipyong, sur la mesure dans laquelle l’utilisation d’œuvres protégées pour entraîner l’IA peut être considérée comme un « usage équitable ». Alors que le rythme de développement de l’IA atteint un niveau remarquable, l’usage des données d’entraînement et des œuvres protégées devient une question juridique centrale de ce progrès. L’article souligne la nécessité d’un équilibre entre protection des droits et développement technologique lorsque des œuvres sont utilisées dans l’apprentissage de l’IA. Il insiste surtout sur l’émergence de l’usage équitable comme enjeu clé. Ce critère devrait peser dans les futurs litiges liés à l’IA et au droit d’auteur. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مصنفات تدريب الذكاء الاصطناعي: إلى أين يمتد الاستخدام العادل؟",
-        "excerpt": "تناول قسم Jipyong Tech Radar في صحيفة ماييل الاقتصادية، عبر مقال للمحامي هيو جونغ من Jipyong، ما إذا كانت المصنفات المستخدمة لتدريب الذكاء الاصطناعي تندرج ضمن الاستخدام العادل.",
-        "body": "سلط قسم Jipyong Tech Radar في صحيفة ماييل الاقتصادية الضوء على مقال للمحامي هيو جونغ من مكتب Jipyong حول المدى الذي يمكن فيه اعتبار استخدام المصنفات المحمية في تدريب الذكاء الاصطناعي «استخداما عادلا». ومع بلوغ تطور تقنيات الذكاء الاصطناعي وتيرة لافتة، برزت مسألة بيانات التدريب واستخدام المصنفات المحمية كقضية قانونية محورية وراء هذا التطور. ويطرح المقال أهمية تحقيق توازن بين حماية الحقوق والتقدم التقني عند استخدام المصنفات في عملية تعلم الذكاء الاصطناعي. كما يؤكد أن نقاش الاستخدام العادل أصبح من القضايا الأساسية في تدريب الذكاء الاصطناعي. ومن المتوقع أن يظل هذا المعيار عاملا مهما في نزاعات الصناعة وحقوق النشر مستقبلا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI प्रशिक्षण में कॉपीराइट कृतियां: फेयर यूज की सीमा कहां तक",
-        "excerpt": "Maeil Business Newspaper के Jipyong Tech Radar ने Jipyong के वकील Heo Jong के लेख के जरिए देखा कि AI प्रशिक्षण में प्रयुक्त कृतियां फेयर यूज मानी जा सकती हैं या नहीं।",
-        "body": "Maeil Business Newspaper के Jipyong Tech Radar ने Jipyong के वकील Heo Jong के लेख के माध्यम से यह मुद्दा उठाया कि AI प्रशिक्षण में इस्तेमाल होने वाली कॉपीराइट कृतियों को किस सीमा तक “फेयर यूज” माना जा सकता है। AI तकनीक की प्रगति अब अत्यंत तेज स्तर पर पहुंच चुकी है, और इस विकास के आधार माने जाने वाले प्रशिक्षण डेटा तथा कृतियों के उपयोग का प्रश्न प्रमुख कानूनी मुद्दा बन गया है। लेख में कहा गया है कि AI सीखने की प्रक्रिया में कृतियों के उपयोग के समय अधिकारों की रक्षा और तकनीकी विकास के बीच संतुलन महत्वपूर्ण है। इसमें खास तौर पर बताया गया कि फेयर यूज की चर्चा AI प्रशिक्षण का केंद्रीय मुद्दा बन रही है। भविष्य में AI उद्योग और कॉपीराइट विवादों में यह मानक अहम निर्णय तत्व हो सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Karya untuk Pelatihan AI: Sejauh Mana Masuk Penggunaan Wajar",
-        "excerpt": "Maeil Business Newspaper melalui Jipyong Tech Radar mengulas tulisan pengacara Heo Jong dari Jipyong tentang apakah karya untuk pelatihan AI termasuk penggunaan wajar.",
-        "body": "Maeil Business Newspaper melalui Jipyong Tech Radar menyoroti tulisan Heo Jong, pengacara di Jipyong, mengenai sejauh mana karya berhak cipta yang digunakan untuk pelatihan AI dapat dianggap sebagai “penggunaan wajar”. Ketika laju perkembangan teknologi AI telah mencapai tingkat yang mengesankan, penggunaan data pelatihan dan karya berhak cipta yang menopang perkembangan itu muncul sebagai isu hukum utama. Tulisan tersebut memuat kesadaran bahwa keseimbangan antara perlindungan hak dan kemajuan teknologi penting saat karya digunakan dalam proses pembelajaran AI. Artikel itu juga menekankan bahwa pembahasan penggunaan wajar mengemuka sebagai isu inti pelatihan AI. Ke depan, standar ini diperkirakan menjadi faktor penting dalam industri AI dan sengketa hak cipta. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "63997238ea7c",
-    "slug": "윤석열-내란-우두머리-2심-재판-시작법관-기피-변수-929491",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T22:18:53.948Z",
-    "updatedAt": "2026-05-13T22:18:53.948Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12047073",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12047073",
-    "titleFingerprint": "0511db8b2dfe8c30316e1b786b9bbdb53ad8078c",
-    "dedupKeys": [
-      "63997238ea7cc1168ea2434541622fa9767af328",
-      "0511db8b2dfe8c30316e1b786b9bbdb53ad8078c",
-      "c9212189ad674b12215de821543658a281e8fff3"
-    ],
-    "imageUrl": "/images/articles/63997238ea7c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "윤석열 내란 우두머리 항소심 14일 시작, 법관 기피 변수 주목",
-        "excerpt": "12·3 비상계엄 사태의 본류로 꼽히는 윤석열 전 대통령의 내란 우두머리 혐의 항소심 첫 공판이 14일 시작되며, 법관 기피 문제가 변수로 떠올랐다.",
-        "body": "윤석열 전 대통령의 내란 우두머리 혐의 항소심 재판이 14일 본격적으로 시작된다. 이번 사건은 12·3 비상계엄 사태의 ‘본류’로 꼽히는 재판으로, 1심 선고가 나온 지 약 3개월 만에 첫 공판이 열리는 것이다. 핵심 쟁점은 윤 전 대통령에게 적용된 내란 우두머리 혐의이며, 항소심 절차가 본격화되면서 재판부 판단과 향후 일정에 관심이 모인다. 다만 법관 기피 문제가 재판 진행의 변수로 거론되고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Yoon Suk Yeol Insurrection Appeal Opens May 14 as Judge Challenge Looms",
-        "excerpt": "Former President Yoon Suk Yeol’s appeal trial on an alleged insurrection leadership charge tied to the Dec. 3 martial law crisis begins May 14, with a judge challenge emerging as a variable.",
-        "body": "The appeal trial of former President Yoon Suk Yeol on the charge of leading an insurrection is set to begin in earnest on May 14. The case is regarded as the main track of the Dec. 3 emergency martial law crisis, and the first hearing comes about three months after the first-instance ruling. The central issue is the insurrection leadership charge applied to Yoon. As the appellate process moves forward, attention is turning to the court’s judgment and the future trial schedule. A request to challenge a judge, however, is being cited as a variable in how the proceedings unfold. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "尹錫悦前大統領の内乱首謀控訴審、14日開始へ 法官忌避が焦点",
-        "excerpt": "12・3非常戒厳事態の本流とされる尹錫悦前大統領の内乱首謀容疑をめぐる控訴審初公判が14日に始まり、法官忌避問題が変数として浮上している。",
-        "body": "尹錫悦前大統領の内乱首謀容疑をめぐる控訴審裁判が14日、本格的に始まる。今回の事件は12・3非常戒厳事態の「本流」と位置づけられる裁判で、一審判決から約3カ月ぶりに初公判が開かれる。核心争点は尹前大統領に適用された内乱首謀容疑であり、控訴審手続きが進むにつれ、裁判部の判断と今後の日程に関心が集まっている。ただし、法官忌避の問題が裁判進行の変数として取り上げられている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "尹锡悦“内乱首谋”二审14日开庭，法官回避成审理变量",
-        "excerpt": "围绕12月3日紧急戒严事件核心案件，尹锡悦前总统涉嫌内乱首谋的上诉审首场公判将于14日开始，法官回避问题成为审理变量。",
-        "body": "尹锡悦前总统涉嫌内乱首谋的上诉审将于14日正式开始。该案被视为12月3日紧急戒严事件的“主线”审判，距离一审宣判约3个月后迎来首场公判。案件核心在于尹前总统所涉内乱首谋指控。随着二审程序启动，外界关注审判庭的判断以及后续审理日程。不过，法官回避问题被提及为可能影响审判推进的变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Apelación de Yoon por presunto liderazgo de insurrección empieza el 14",
-        "excerpt": "El juicio de apelación del expresidente Yoon Suk Yeol por el cargo de presunto liderazgo de insurrección vinculado a la ley marcial del 3 de diciembre comenzará el día 14.",
-        "body": "El juicio de apelación del expresidente Yoon Suk Yeol por el cargo de liderar una insurrección comenzará formalmente el día 14. El caso es considerado la línea principal de la crisis de ley marcial de emergencia del 3 de diciembre, y la primera audiencia llega unos tres meses después del fallo de primera instancia. El punto central es el cargo de liderazgo de insurrección aplicado a Yoon. Con el avance del proceso de apelación, la atención se centra en el criterio del tribunal y en el calendario posterior. Sin embargo, la recusación de un juez se perfila como una variable para el desarrollo del juicio. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Recurso de Yoon por suposta liderança de insurreição começa no dia 14",
-        "excerpt": "O julgamento de apelação do ex-presidente Yoon Suk Yeol por suposta liderança de insurreição, ligado à lei marcial de 3 de dezembro, começa no dia 14.",
-        "body": "O julgamento de apelação do ex-presidente Yoon Suk Yeol pela acusação de liderar uma insurreição deve começar de forma efetiva no dia 14. O caso é visto como a linha principal da crise de lei marcial de emergência de 3 de dezembro, e a primeira audiência ocorre cerca de três meses após a decisão em primeira instância. O ponto central é a acusação de liderança de insurreição aplicada a Yoon. Com o avanço da apelação, crescem as atenções sobre a avaliação do tribunal e o calendário futuro. Ainda assim, a contestação de um juiz é apontada como uma variável no andamento do processo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Yoons Berufung wegen mutmaßlicher Aufstandsführung startet am 14. Mai",
-        "excerpt": "Der Berufungsprozess gegen Ex-Präsident Yoon Suk Yeol wegen mutmaßlicher Führung eines Aufstands im Zusammenhang mit dem Kriegsrecht vom 3. Dezember beginnt am 14. Mai.",
-        "body": "Der Berufungsprozess gegen den früheren Präsidenten Yoon Suk Yeol wegen des Vorwurfs, einen Aufstand angeführt zu haben, beginnt am 14. Mai. Das Verfahren gilt als zentraler Strang der Krise um das Not-Kriegsrecht vom 3. Dezember; die erste Verhandlung findet rund drei Monate nach dem Urteil der ersten Instanz statt. Im Mittelpunkt steht der gegen Yoon erhobene Vorwurf der Aufstandsführung. Mit dem Beginn des Berufungsverfahrens richtet sich der Blick auf die Entscheidung des Gerichts und den weiteren Zeitplan. Ein Antrag auf Ablehnung eines Richters wird jedoch als möglicher Faktor für den Prozessverlauf genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’appel de Yoon pour direction présumée d’insurrection s’ouvre le 14",
-        "excerpt": "Le procès en appel de l’ancien président Yoon Suk Yeol pour direction présumée d’insurrection liée à la loi martiale du 3 décembre commence le 14.",
-        "body": "Le procès en appel de l’ancien président Yoon Suk Yeol pour l’accusation de direction d’une insurrection doit commencer effectivement le 14. Cette affaire est considérée comme le volet principal de la crise de la loi martiale d’urgence du 3 décembre, et la première audience intervient environ trois mois après le jugement de première instance. L’enjeu central est l’accusation de direction d’insurrection visant Yoon. À mesure que la procédure d’appel s’ouvre, l’attention se porte sur l’appréciation du tribunal et le calendrier à venir. Toutefois, une demande de récusation d’un juge est citée comme une variable dans le déroulement du procès. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "استئناف يون بتهمة قيادة تمرد يبدأ في 14 مايو وسط متغير تنحي القاضي",
-        "excerpt": "تبدأ في 14 مايو محاكمة الاستئناف للرئيس السابق يون سوك يول بتهمة قيادة تمرد مرتبطة بأزمة الأحكام العرفية الطارئة في 3 ديسمبر، مع بروز مسألة تنحي القاضي كعامل مؤثر.",
-        "body": "تبدأ محاكمة الاستئناف للرئيس السابق يون سوك يول بتهمة قيادة تمرد بشكل فعلي في 14 مايو. وتعد القضية المسار الرئيسي لأزمة الأحكام العرفية الطارئة في 3 ديسمبر، إذ تأتي أول جلسة بعد نحو ثلاثة أشهر من حكم الدرجة الأولى. يتمحور النزاع حول تهمة قيادة التمرد الموجهة إلى يون. ومع بدء إجراءات الاستئناف، يتجه الاهتمام إلى تقدير هيئة المحكمة والجدول اللاحق للمحاكمة. غير أن مسألة طلب تنحي قاض تبرز كمتغير قد يؤثر في سير الإجراءات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "यून सुक येओल के कथित विद्रोह नेतृत्व मामले की अपील 14 मई से शुरू",
-        "excerpt": "3 दिसंबर की आपात मार्शल लॉ घटना से जुड़े कथित विद्रोह नेतृत्व आरोप में पूर्व राष्ट्रपति यून सुक येओल की अपील सुनवाई 14 मई से शुरू होगी, जबकि न्यायाधीश पर आपत्ति मुद्दा बना है।",
-        "body": "पूर्व राष्ट्रपति यून सुक येओल के खिलाफ कथित विद्रोह नेतृत्व आरोप की अपील सुनवाई 14 मई से औपचारिक रूप से शुरू होगी। यह मामला 3 दिसंबर की आपात मार्शल लॉ घटना की मुख्य धारा से जुड़ा माना जा रहा है, और पहली सुनवाई निचली अदालत के फैसले के करीब तीन महीने बाद हो रही है। मुख्य मुद्दा यून पर लगाया गया विद्रोह नेतृत्व का आरोप है। अपील प्रक्रिया शुरू होने के साथ अदालत के निर्णय और आगे की सुनवाई अनुसूची पर ध्यान केंद्रित है। हालांकि, न्यायाधीश को लेकर आपत्ति का मुद्दा कार्यवाही की दिशा में एक महत्वपूर्ण चर के रूप में देखा जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Banding Yoon atas Tuduhan Pemimpin Pemberontakan Dimulai 14 Mei",
-        "excerpt": "Sidang banding mantan Presiden Yoon Suk Yeol atas tuduhan sebagai pemimpin pemberontakan terkait darurat militer 3 Desember dimulai 14 Mei, dengan isu penolakan hakim menjadi variabel.",
-        "body": "Sidang banding mantan Presiden Yoon Suk Yeol atas tuduhan sebagai pemimpin pemberontakan akan dimulai secara resmi pada 14 Mei. Perkara ini disebut sebagai jalur utama dari krisis darurat militer 3 Desember, dan sidang pertama digelar sekitar tiga bulan setelah putusan tingkat pertama. Isu utama adalah tuduhan kepemimpinan pemberontakan yang dikenakan kepada Yoon. Saat proses banding mulai berjalan, perhatian tertuju pada penilaian majelis hakim dan jadwal persidangan berikutnya. Namun, persoalan penolakan terhadap hakim disebut sebagai variabel yang dapat memengaruhi jalannya persidangan. Sumber: mk.co.kr"
       }
     }
   }
