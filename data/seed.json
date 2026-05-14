@@ -1,5 +1,230 @@
 [
   {
+    "id": "cfee1ca42664",
+    "slug": "중복상장-크게-줄어든-日전면-금지보다-소수주주-보호-강화-455314",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T13:04:12.561Z",
+    "updatedAt": "2026-05-14T13:04:12.561Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048197",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048197",
+    "titleFingerprint": "7805cb9628f695242fb730f9e5ed2c6fe0a45693",
+    "dedupKeys": [
+      "cfee1ca42664228d9ca7df8c442f8f135907f9e4",
+      "7805cb9628f695242fb730f9e5ed2c6fe0a45693",
+      "4ac430d72af6e5e57b792b8658e2ed3ec8d95653"
+    ],
+    "imageUrl": "/images/articles/cfee1ca42664.jpg",
+    "i18n": {
+      "ko": {
+        "title": "일본 중복상장 7년새 31% 감소…전면 금지보다 소수주주 보호 강화",
+        "excerpt": "일본에서 상장 모회사를 둔 자회사가 7년 새 31% 줄어든 가운데, 거래소는 다음 달 세부 규정을 마무리하고 7월 시행을 앞두고 있다.",
+        "body": "일본에서 상장 모회사를 둔 자회사가 7년 새 31% 감소한 것으로 나타났다. 중복상장 문제를 두고 일본은 전면 금지보다 소수주주 보호를 강화하는 방향에 무게를 두고 있다. 거래소는 다음 달 세부 규정을 마무리하고 7월 시행에 들어갈 예정이다. 한국에서도 금융당국과 한국거래소가 중복상장에 대해 ‘원칙 금지·예외 허용’ 방침 아래 심사기준 마련에 속도를 내고 있다. 일본 사례는 중복상장 규제 논의에서 금지 일변도보다 투자자 보호 장치를 어떻게 강화할지가 핵심 쟁점임을 보여준다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Japan’s Dual Listings Fall 31% in Seven Years as Minority Protection Takes Focus",
+        "excerpt": "In Japan, subsidiaries with listed parent companies have fallen 31% over seven years, while the exchange is set to finalize detailed rules next month for July implementation.",
+        "body": "In Japan, the number of subsidiaries with listed parent companies has declined 31% over seven years. On the issue of dual listings, Japan is placing more emphasis on strengthening protections for minority shareholders than on imposing a blanket ban. The exchange plans to finalize detailed rules next month and implement them in July. In Korea, financial authorities and the Korea Exchange are also moving quickly to prepare review standards under a policy of “prohibition in principle, exceptions allowed” for dual listings. Japan’s case shows that the key issue in dual-listing regulation is how to reinforce investor protections rather than relying only on outright bans. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "日本の親子上場、7年で31%減少…全面禁止より少数株主保護を強化",
+        "excerpt": "日本では上場親会社を持つ子会社が7年で31%減少し、取引所は来月に詳細規則をまとめ、7月の施行を予定している。",
+        "body": "日本では、上場親会社を持つ子会社が7年で31%減少した。親子上場をめぐり、日本は全面禁止よりも少数株主保護を強化する方向に重点を置いている。取引所は来月、詳細規則をまとめ、7月に施行する予定だ。韓国でも金融当局と韓国取引所が、重複上場について「原則禁止・例外容認」の方針の下、審査基準づくりを急いでいる。日本の事例は、重複上場規制の議論で、禁止一辺倒ではなく投資家保護策をどう強化するかが核心であることを示している。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "日本重复上市7年减少31%：监管重点转向强化少数股东保护",
+        "excerpt": "日本拥有上市母公司的子公司7年内减少31%，交易所计划下月敲定细则，并于7月实施相关规定。",
+        "body": "日本拥有上市母公司的子公司在7年内减少了31%。围绕重复上市问题，日本更侧重于加强少数股东保护，而不是全面禁止。交易所计划在下个月敲定详细规定，并于7月开始实施。在韩国，金融监管部门和韩国交易所也正按照“原则上禁止、例外允许”的方针，加快制定重复上市审查标准。日本案例表明，在重复上市监管讨论中，核心不只是全面禁止，而是如何强化投资者保护机制。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Japón reduce 31% las dobles cotizaciones en siete años y prioriza a minoritarios",
+        "excerpt": "En Japón, las filiales con matrices cotizadas bajaron 31% en siete años, mientras la bolsa cerrará reglas detalladas el próximo mes para aplicarlas en julio.",
+        "body": "En Japón, el número de filiales con matrices cotizadas cayó 31% en siete años. Frente al problema de las dobles cotizaciones, Japón está dando más peso al refuerzo de la protección de los accionistas minoritarios que a una prohibición total. La bolsa prevé finalizar las normas detalladas el próximo mes y aplicarlas en julio. En Corea, las autoridades financieras y Korea Exchange también aceleran la preparación de criterios de revisión bajo la política de “prohibición como principio y excepciones permitidas”. El caso japonés muestra que el punto central del debate regulatorio es cómo fortalecer la protección del inversor, no solo prohibir. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Japão reduz dupla listagem em 31% em sete anos e foca acionistas minoritários",
+        "excerpt": "No Japão, subsidiárias com controladoras listadas caíram 31% em sete anos, enquanto a bolsa deve concluir regras no próximo mês para vigorar em julho.",
+        "body": "No Japão, o número de subsidiárias com empresas controladoras listadas caiu 31% em sete anos. No debate sobre dupla listagem, o país dá mais peso ao fortalecimento da proteção dos acionistas minoritários do que a uma proibição total. A bolsa pretende finalizar as regras detalhadas no próximo mês e implementá-las em julho. Na Coreia, autoridades financeiras e a Korea Exchange também aceleram a elaboração de critérios de análise sob a diretriz de “proibição em princípio, com exceções permitidas”. O caso japonês mostra que o ponto central da regulação é como reforçar a proteção do investidor, não apenas proibir. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Japans Doppelnotierungen sinken in sieben Jahren um 31%: Minderheitenschutz im Fokus",
+        "excerpt": "In Japan ist die Zahl börsennotierter Tochtergesellschaften mit gelisteter Mutter in sieben Jahren um 31% gesunken; Detailregeln sollen im nächsten Monat für Juli finalisiert werden.",
+        "body": "In Japan ist die Zahl der Tochtergesellschaften mit börsennotierten Muttergesellschaften innerhalb von sieben Jahren um 31% gesunken. Bei der Frage der Doppelnotierungen setzt Japan stärker auf den Schutz von Minderheitsaktionären als auf ein vollständiges Verbot. Die Börse will die Detailregeln im nächsten Monat abschließen und im Juli umsetzen. Auch in Korea arbeiten die Finanzbehörden und die Korea Exchange zügig an Prüfstandards nach dem Prinzip „grundsätzlich verboten, Ausnahmen erlaubt“. Der japanische Fall zeigt, dass es in der Regulierungsdebatte nicht nur um Verbote geht, sondern um stärkere Schutzmechanismen für Anleger. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Au Japon, les doubles cotations reculent de 31% en sept ans, priorité aux minoritaires",
+        "excerpt": "Au Japon, les filiales de sociétés mères cotées ont diminué de 31% en sept ans; la Bourse doit finaliser ses règles le mois prochain pour une application en juillet.",
+        "body": "Au Japon, le nombre de filiales ayant une société mère cotée a reculé de 31% en sept ans. Face à la question des doubles cotations, le pays privilégie le renforcement de la protection des actionnaires minoritaires plutôt qu’une interdiction totale. La Bourse prévoit de finaliser les règles détaillées le mois prochain et de les appliquer en juillet. En Corée, les autorités financières et Korea Exchange accélèrent aussi l’élaboration de critères d’examen selon le principe d’une « interdiction de principe avec exceptions ». Le cas japonais montre que l’enjeu central est de renforcer la protection des investisseurs, pas seulement d’interdire. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "اليابان تقلص الإدراج المزدوج 31% خلال سبع سنوات وتركز على حماية الأقلية",
+        "excerpt": "في اليابان، تراجع عدد الشركات التابعة ذات الشركات الأم المدرجة 31% خلال سبع سنوات، فيما تعتزم البورصة إنهاء القواعد التفصيلية الشهر المقبل لتطبيقها في يوليو.",
+        "body": "في اليابان، انخفض عدد الشركات التابعة التي لديها شركات أم مدرجة في السوق بنسبة 31% خلال سبع سنوات. وفي التعامل مع قضية الإدراج المزدوج، تميل اليابان إلى تعزيز حماية مساهمي الأقلية بدلا من فرض حظر شامل. وتعتزم البورصة الانتهاء من القواعد التفصيلية الشهر المقبل وبدء تطبيقها في يوليو. وفي كوريا، تسرع السلطات المالية وبورصة كوريا إعداد معايير الفحص وفق سياسة «الحظر من حيث المبدأ والسماح بالاستثناءات». وتوضح التجربة اليابانية أن جوهر نقاش تنظيم الإدراج المزدوج هو كيفية تعزيز حماية المستثمرين، لا الاكتفاء بالحظر. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "जापान में दोहरी लिस्टिंग 7 साल में 31% घटी, अल्पांश शेयरधारक सुरक्षा पर जोर",
+        "excerpt": "जापान में सूचीबद्ध मूल कंपनी वाली सहायक कंपनियां सात साल में 31% घटी हैं, जबकि एक्सचेंज अगले महीने नियमों को अंतिम रूप देकर जुलाई से लागू करेगा।",
+        "body": "जापान में सूचीबद्ध मूल कंपनी रखने वाली सहायक कंपनियों की संख्या सात साल में 31% घट गई है। दोहरी लिस्टिंग के मुद्दे पर जापान पूर्ण प्रतिबंध की तुलना में अल्पांश शेयरधारकों की सुरक्षा मजबूत करने पर अधिक जोर दे रहा है। एक्सचेंज अगले महीने विस्तृत नियमों को अंतिम रूप देगा और जुलाई से उन्हें लागू करेगा। कोरिया में भी वित्तीय प्राधिकरण और Korea Exchange दोहरी लिस्टिंग पर “सिद्धांततः प्रतिबंध, अपवादों की अनुमति” नीति के तहत समीक्षा मानक तैयार करने में तेजी ला रहे हैं। जापान का उदाहरण दिखाता है कि नियमन की बहस में मुख्य सवाल केवल रोक लगाना नहीं, बल्कि निवेशक सुरक्षा को मजबूत करना है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Dual Listing di Jepang Turun 31% dalam 7 Tahun, Perlindungan Minoritas Diperkuat",
+        "excerpt": "Di Jepang, anak usaha dengan induk tercatat turun 31% dalam tujuh tahun, sementara bursa akan merampungkan aturan rinci bulan depan untuk diterapkan Juli.",
+        "body": "Di Jepang, jumlah anak perusahaan yang memiliki induk tercatat di bursa turun 31% dalam tujuh tahun. Dalam isu dual listing, Jepang lebih menekankan penguatan perlindungan pemegang saham minoritas daripada larangan total. Bursa berencana merampungkan aturan rinci bulan depan dan menerapkannya pada Juli. Di Korea, otoritas keuangan dan Korea Exchange juga mempercepat penyusunan standar peninjauan dengan kebijakan “dilarang pada prinsipnya, pengecualian diperbolehkan”. Kasus Jepang menunjukkan bahwa inti pembahasan regulasi dual listing adalah cara memperkuat perlindungan investor, bukan sekadar melarang. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "2795d1620a4d",
+    "slug": "트럼프-시진핑-9년만에-만나-글로벌-현안-한목소리-냈지만-대타협-없어-558418",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T13:03:07.495Z",
+    "updatedAt": "2026-05-14T13:03:07.495Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12048212",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12048212",
+    "titleFingerprint": "b3941c489382bb3fc7a36c20dba41a513564adc3",
+    "dedupKeys": [
+      "2795d1620a4d7b1ec9ca68b0c9e85472f2b56d32",
+      "b3941c489382bb3fc7a36c20dba41a513564adc3",
+      "3cb008ec466e54db24ffd18a71d202d5d00581aa"
+    ],
+    "imageUrl": "/images/articles/2795d1620a4d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프·시진핑 9년 만의 베이징 회담, 공동성명 없이 종료",
+        "excerpt": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 14일 중국 베이징에서 9년 만에 정상회담을 열고 양국 관계와 대만 문제, 글로벌 현안을 논의했으나 구체적 합의는 없었다.",
+        "body": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 14일 현지시간 중국 베이징에서 정상회담을 열고 양국 관계, 대만 문제, 글로벌 현안을 논의했다. 두 정상이 만난 것은 9년 만으로, 회담은 미중 관계의 향방을 가늠할 주요 외교 일정으로 주목받았다. 양측은 여러 글로벌 현안에서 같은 목소리를 낸 것으로 전해졌지만, 회담 결과 구체적인 합의나 공동성명은 나오지 않았다. 이에 따라 이번 만남은 대화 재개와 현안 점검의 의미를 남겼지만, 이른바 대타협으로 이어지지는 못했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Trump-Xi Beijing Summit After 9 Years Ends Without Joint Statement",
+        "excerpt": "U.S. President Donald Trump and Chinese President Xi Jinping met in Beijing on the 14th to discuss bilateral ties, Taiwan and global issues, but reached no concrete deal.",
+        "body": "U.S. President Donald Trump and Chinese President Xi Jinping held a summit in Beijing, China, on the 14th local time to discuss bilateral relations, the Taiwan issue and global affairs. It was the first meeting between the two leaders in nine years, drawing attention as a key diplomatic moment for the direction of U.S.-China relations. The two sides were reported to have voiced similar positions on several global issues, but the meeting produced no concrete agreement or joint statement. As a result, the talks carried significance as a resumption of dialogue and a review of pending issues, but did not lead to a so-called grand bargain. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "トランプ氏と習氏、9年ぶり北京会談も共同声明なしで終了",
+        "excerpt": "ドナルド・トランプ米大統領と習近平中国国家主席は14日、北京で9年ぶりに首脳会談を行い、二国間関係や台湾問題、国際懸案を協議したが具体的合意はなかった。",
+        "body": "ドナルド・トランプ米大統領と習近平中国国家主席は14日現地時間、中国・北京で首脳会談を開き、二国間関係、台湾問題、国際的な懸案について協議した。両首脳の会談は9年ぶりで、米中関係の行方を占う重要な外交日程として注目された。双方は複数の国際課題で同じ声を出したと伝えられたが、会談の結果、具体的な合意や共同声明は出なかった。今回の会談は対話再開と懸案点検の意味を残した一方、いわゆる大妥協にはつながらなかった。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "特朗普与习近平时隔9年北京会晤，未发表联合声明",
+        "excerpt": "美国总统唐纳德·特朗普与中国国家主席习近平14日在北京举行时隔9年的首脑会谈，讨论双边关系、台湾问题和全球议题，但未达成具体协议。",
+        "body": "美国总统唐纳德·特朗普与中国国家主席习近平于当地时间14日在中国北京举行首脑会谈，讨论两国关系、台湾问题以及全球事务。这是两位领导人时隔9年会面，因此被视为观察中美关系走向的重要外交日程。据报道，双方在多项全球议题上发出了相近声音，但会谈结果并未形成具体协议，也没有发表联合声明。因此，此次会晤留下了重启对话和检视现有议题的意义，但并未走向所谓的重大妥协。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Trump y Xi se reúnen en Pekín tras 9 años, sin declaración conjunta",
+        "excerpt": "Donald Trump y Xi Jinping celebraron el día 14 en Pekín una cumbre tras nueve años para tratar la relación bilateral, Taiwán y asuntos globales, pero no hubo acuerdo concreto.",
+        "body": "El presidente de Estados Unidos, Donald Trump, y el presidente de China, Xi Jinping, celebraron el día 14, hora local, una cumbre en Pekín para abordar las relaciones bilaterales, la cuestión de Taiwán y asuntos globales. Fue el primer encuentro entre ambos líderes en nueve años, por lo que atrajo atención como una cita diplomática clave para medir el rumbo de la relación entre Washington y Pekín. Según lo informado, las partes expresaron posiciones similares sobre varios temas globales, pero la reunión no produjo acuerdos concretos ni una declaración conjunta. Así, el encuentro dejó el significado de reabrir el diálogo y revisar asuntos pendientes, sin llegar a un gran pacto. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Trump e Xi se reúnem em Pequim após 9 anos, sem declaração conjunta",
+        "excerpt": "Donald Trump e Xi Jinping realizaram no dia 14, em Pequim, uma cúpula após nove anos para discutir relações bilaterais, Taiwan e temas globais, mas não houve acordo concreto.",
+        "body": "O presidente dos Estados Unidos, Donald Trump, e o presidente da China, Xi Jinping, realizaram no dia 14, horário local, uma cúpula em Pequim para discutir as relações bilaterais, a questão de Taiwan e temas globais. Foi o primeiro encontro entre os dois líderes em nove anos, atraindo atenção como uma agenda diplomática importante para avaliar o rumo das relações entre EUA e China. Segundo relatos, os dois lados expressaram posições semelhantes sobre diversos assuntos globais, mas a reunião não resultou em acordo concreto nem em declaração conjunta. Assim, o encontro marcou a retomada do diálogo e a revisão de temas pendentes, mas não levou a um grande acordo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Trump und Xi treffen sich nach 9 Jahren in Peking, ohne gemeinsame Erklärung",
+        "excerpt": "Donald Trump und Xi Jinping trafen sich am 14. in Peking nach neun Jahren zu einem Gipfel über bilaterale Beziehungen, Taiwan und globale Fragen, erzielten aber keine konkrete Einigung.",
+        "body": "US-Präsident Donald Trump und Chinas Staatspräsident Xi Jinping hielten am 14. Ortszeit in Peking einen Gipfel ab, um über die bilateralen Beziehungen, die Taiwan-Frage und globale Themen zu sprechen. Es war das erste Treffen der beiden Staatschefs seit neun Jahren und wurde als wichtiger diplomatischer Termin für die weitere Entwicklung der Beziehungen zwischen den USA und China beobachtet. Berichten zufolge vertraten beide Seiten bei mehreren globalen Fragen ähnliche Positionen, doch das Treffen brachte keine konkrete Einigung und keine gemeinsame Erklärung hervor. Damit hatte das Gespräch Bedeutung als Wiederaufnahme des Dialogs und Bestandsaufnahme offener Themen, führte aber nicht zu einem großen Kompromiss. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Trump et Xi se retrouvent à Pékin après 9 ans, sans déclaration commune",
+        "excerpt": "Donald Trump et Xi Jinping ont tenu le 14 à Pékin un sommet après neuf ans pour discuter des relations bilatérales, de Taïwan et des dossiers mondiaux, sans accord concret.",
+        "body": "Le président américain Donald Trump et le président chinois Xi Jinping ont tenu le 14, heure locale, un sommet à Pékin afin de discuter des relations bilatérales, de la question de Taïwan et des dossiers mondiaux. Il s’agissait de leur première rencontre en neuf ans, un rendez-vous diplomatique suivi de près pour évaluer l’orientation des relations entre les États-Unis et la Chine. Selon les informations rapportées, les deux parties ont exprimé des positions similaires sur plusieurs sujets mondiaux, mais la réunion n’a débouché ni sur un accord concret ni sur une déclaration commune. Cette rencontre marque donc une reprise du dialogue et un examen des dossiers en suspens, sans aboutir à un grand compromis. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ترامب وشي يلتقيان في بكين بعد 9 سنوات من دون بيان مشترك",
+        "excerpt": "عقد الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ في 14 من الشهر الجاري قمة في بكين بعد تسع سنوات لبحث العلاقات الثنائية وتايوان والقضايا العالمية، من دون اتفاق محدد.",
+        "body": "عقد الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ في 14 من الشهر الجاري بالتوقيت المحلي قمة في بكين بالصين لبحث العلاقات بين البلدين، وقضية تايوان، والقضايا العالمية. وجاء اللقاء بعد تسع سنوات من آخر اجتماع بين الزعيمين، ما جعله محطة دبلوماسية مهمة لمتابعة اتجاه العلاقات الأميركية الصينية. وذكرت التقارير أن الجانبين أظهرا صوتا متقاربا في عدد من القضايا العالمية، لكن الاجتماع لم يسفر عن اتفاق محدد أو بيان مشترك. وبذلك تركت القمة معنى استئناف الحوار ومراجعة الملفات العالقة، لكنها لم تصل إلى ما يسمى بتسوية كبرى. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ट्रंप और शी की 9 साल बाद बीजिंग वार्ता, संयुक्त बयान नहीं",
+        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग ने 14 तारीख को बीजिंग में नौ साल बाद शिखर वार्ता कर संबंधों, ताइवान और वैश्विक मुद्दों पर चर्चा की, पर ठोस सहमति नहीं बनी।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग ने स्थानीय समयानुसार 14 तारीख को चीन के बीजिंग में शिखर वार्ता की और द्विपक्षीय संबंधों, ताइवान मुद्दे तथा वैश्विक विषयों पर चर्चा की। दोनों नेताओं की यह मुलाकात नौ साल बाद हुई, इसलिए इसे अमेरिका-चीन संबंधों की दिशा को परखने वाला महत्वपूर्ण कूटनीतिक अवसर माना गया। बताया गया कि दोनों पक्षों ने कई वैश्विक मुद्दों पर समान स्वर दिखाया, लेकिन बैठक से कोई ठोस समझौता या संयुक्त बयान सामने नहीं आया। इस तरह यह मुलाकात संवाद फिर शुरू करने और लंबित मुद्दों की समीक्षा का संकेत बनी, लेकिन किसी बड़े समझौते तक नहीं पहुंची। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Trump dan Xi Bertemu di Beijing Setelah 9 Tahun, Tanpa Pernyataan Bersama",
+        "excerpt": "Presiden AS Donald Trump dan Presiden China Xi Jinping bertemu di Beijing pada tanggal 14 setelah sembilan tahun untuk membahas hubungan bilateral, Taiwan, dan isu global, tetapi tanpa kesepakatan konkret.",
+        "body": "Presiden Amerika Serikat Donald Trump dan Presiden China Xi Jinping menggelar pertemuan puncak di Beijing, China, pada tanggal 14 waktu setempat untuk membahas hubungan kedua negara, isu Taiwan, dan berbagai persoalan global. Pertemuan kedua pemimpin ini terjadi setelah sembilan tahun, sehingga menjadi agenda diplomatik penting untuk melihat arah hubungan AS-China. Kedua pihak disebut menyuarakan posisi yang sama dalam sejumlah isu global, tetapi hasil pertemuan tidak menghasilkan kesepakatan konkret atau pernyataan bersama. Karena itu, pertemuan ini bermakna sebagai pembukaan kembali dialog dan peninjauan isu-isu utama, namun tidak berujung pada kompromi besar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e51d627af144",
+    "slug": "트럼프에-계엄-정당화-전달-지시종합특검-尹-소환-통보-404784",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T13:01:59.900Z",
+    "updatedAt": "2026-05-14T13:01:59.901Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12048215",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12048215",
+    "titleFingerprint": "667a9e972b99febeba10b2920fbe39597572e164",
+    "dedupKeys": [
+      "e51d627af144f73dac54a87e9d2c3d8f85bae123",
+      "667a9e972b99febeba10b2920fbe39597572e164",
+      "4d2c96f8d3fc1d77aae04988e9f742a0280e471c"
+    ],
+    "imageUrl": "/images/articles/e51d627af144.jpg",
+    "i18n": {
+      "ko": {
+        "title": "윤석열 전 대통령 소환 통보…‘트럼프 계엄 정당화 전달’ 의혹 수사",
+        "excerpt": "권창영 2차 종합특검팀이 이달 말 윤석열 전 대통령을 피의자 신분으로 불러 계엄 선포 직후 국가안보실 관련 의혹을 조사할 예정이다.",
+        "body": "권창영 2차 종합 특별검사팀이 윤석열 전 대통령에게 이달 말 피의자 조사를 위한 소환을 통보했다. 수사 대상은 3대 특검 이후 남은 의혹으로, 윤 전 대통령이 계엄 선포 직후 국가안보실에 트럼프 측에 ‘계엄 정당화’ 취지의 내용을 전달하도록 지시했는지 여부가 포함된 것으로 전해졌다. 특검은 관련 경위와 지시 여부를 확인할 방침이다. 이번 소환은 계엄 선포 이후 대외 메시지와 국가안보실 역할을 둘러싼 의혹 규명으로 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Yoon Suk Yeol Summoned as Probe Reviews Alleged Trump Martial Law Message",
+        "excerpt": "Special Counsel Kwon Chang-young’s team has notified former President Yoon Suk Yeol to appear as a suspect late this month over allegations tied to the martial law declaration.",
+        "body": "The second comprehensive special counsel team led by Kwon Chang-young has notified former President Yoon Suk Yeol to appear for questioning as a suspect late this month. The investigation concerns unresolved allegations left after the three major special counsel probes, including whether Yoon instructed the National Security Office shortly after declaring martial law to relay a message to Trump’s side justifying the move. The team is expected to examine the circumstances and whether such an instruction was issued. The summons could clarify questions over external messaging and the National Security Office’s role after the declaration. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "尹錫悦前大統領に出頭通知…「トランプ氏へ戒厳正当化伝達」疑惑を捜査",
+        "excerpt": "権昌永第2次総合特検チームは今月末、尹錫悦前大統領を被疑者として呼び、戒厳宣布直後の国家安保室関連疑惑を調べる予定だ。",
+        "body": "権昌永第2次総合特別検察官チームは、尹錫悦前大統領に今月末、被疑者取り調べのための出頭を通知した。捜査対象は3大特検後に残った疑惑で、尹前大統領が戒厳宣布直後、国家安保室に対し、トランプ氏側へ「戒厳正当化」の趣旨を伝えるよう指示したかどうかが含まれるとされる。特検は関連経緯と指示の有無を確認する方針だ。今回の出頭通知は、戒厳宣布後の対外メッセージと国家安保室の役割をめぐる疑惑解明につながる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "尹锡悦前总统接获传唤通知…特检调查“向特朗普传达戒严正当化”疑云",
+        "excerpt": "权昌永第二综合特别检察组通知尹锡悦前总统本月底以嫌疑人身份到案，调查戒严宣布后涉及国家安保室的疑云。",
+        "body": "权昌永第二综合特别检察组已通知尹锡悦前总统于本月底以嫌疑人身份接受讯问。调查对象是三大特检之后仍未厘清的疑云，其中包括尹前总统是否在宣布戒严后不久，指示国家安保室向特朗普方面传达“戒严正当化”相关内容。特检组计划确认相关经过以及是否存在指示。此次传唤预计将推动厘清戒严宣布后对外信息传递和国家安保室角色相关疑问。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Yoon Suk Yeol, citado por la fiscalía especial por presunto mensaje a Trump sobre la ley marcial",
+        "excerpt": "El segundo equipo del fiscal especial Kwon Chang-young notificó a Yoon Suk Yeol que comparezca como sospechoso a fines de este mes por dudas ligadas a la ley marcial.",
+        "body": "El segundo equipo integral del fiscal especial Kwon Chang-young notificó al expresidente Yoon Suk Yeol que comparezca a fines de este mes para ser interrogado como sospechoso. La investigación aborda sospechas pendientes tras las tres grandes pesquisas especiales, incluida la posibilidad de que Yoon instruyera a la Oficina de Seguridad Nacional, poco después de declarar la ley marcial, a transmitir al entorno de Trump un mensaje destinado a justificarla. El equipo buscará verificar los hechos y si existió tal instrucción. La citación podría aclarar el papel de la oficina y los mensajes externos posteriores a la declaración. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Yoon Suk Yeol é intimado em investigação sobre suposta mensagem a Trump após lei marcial",
+        "excerpt": "A segunda equipe do promotor especial Kwon Chang-young notificou Yoon Suk Yeol para depor como suspeito no fim deste mês sobre suspeitas ligadas à lei marcial.",
+        "body": "A segunda equipe abrangente do promotor especial Kwon Chang-young notificou o ex-presidente Yoon Suk Yeol para comparecer, no fim deste mês, a um interrogatório como suspeito. A investigação trata de suspeitas remanescentes após as três grandes apurações especiais, incluindo se Yoon instruiu o Escritório de Segurança Nacional, logo após declarar a lei marcial, a transmitir ao lado de Trump uma mensagem com o sentido de justificá-la. A equipe deve verificar o contexto e se a instrução ocorreu. A intimação pode esclarecer dúvidas sobre a comunicação externa e o papel do órgão após a declaração. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Yoon Suk Yeol vorgeladen: Sonderermittler prüfen mutmaßliche Botschaft an Trump",
+        "excerpt": "Das zweite Sonderermittlerteam um Kwon Chang-young hat Ex-Präsident Yoon Suk Yeol für Ende des Monats als Beschuldigten vorgeladen, wegen Vorwürfen zur Kriegsrechtserklärung.",
+        "body": "Das zweite umfassende Sonderermittlerteam unter Kwon Chang-young hat Ex-Präsident Yoon Suk Yeol für Ende dieses Monats zu einer Vernehmung als Beschuldigter vorgeladen. Gegenstand sind nach den drei großen Sonderermittlungen verbliebene Vorwürfe, darunter die Frage, ob Yoon kurz nach der Ausrufung des Kriegsrechts das Nationale Sicherheitsbüro anwies, Trumps Seite eine Botschaft zur Rechtfertigung des Kriegsrechts zu übermitteln. Die Ermittler wollen Ablauf und mögliche Anweisung prüfen. Die Vorladung könnte Fragen zu Auslandsbotschaften und zur Rolle des Sicherheitsbüros nach der Erklärung klären. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Yoon Suk Yeol convoqué par le procureur spécial sur un supposé message à Trump",
+        "excerpt": "La deuxième équipe du procureur spécial Kwon Chang-young a convoqué Yoon Suk Yeol comme suspect fin ce mois-ci pour des soupçons liés à la déclaration de loi martiale.",
+        "body": "La deuxième équipe spéciale globale dirigée par le procureur spécial Kwon Chang-young a notifié à l’ancien président Yoon Suk Yeol sa convocation, fin ce mois-ci, pour un interrogatoire en tant que suspect. L’enquête porte sur les soupçons restés en suspens après les trois grandes investigations spéciales, notamment la question de savoir si Yoon a demandé au Bureau de la sécurité nationale, juste après la proclamation de la loi martiale, de transmettre au camp Trump un message visant à la justifier. L’équipe devra vérifier les circonstances et l’existence d’une instruction. Cette convocation pourrait éclaircir le rôle du bureau et la communication extérieure après la proclamation. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "استدعاء يون سوك يول للتحقيق في شبهة رسالة إلى ترامب لتبرير الأحكام العرفية",
+        "excerpt": "أبلغ فريق المدعي الخاص الثاني بقيادة كوون تشانغ يونغ الرئيس السابق يون سوك يول بالمثول كمشتبه به أواخر هذا الشهر بشأن شبهات أعقبت إعلان الأحكام العرفية.",
+        "body": "أبلغ فريق التحقيق الشامل الثاني للمدعي الخاص كوون تشانغ يونغ الرئيس السابق يون سوك يول بضرورة المثول أواخر هذا الشهر لاستجوابه بصفته مشتبها به. ويتعلق التحقيق بشبهات بقيت بعد التحقيقات الخاصة الثلاثة الكبرى، ومنها ما إذا كان يون قد وجّه مكتب الأمن الوطني، بعد إعلان الأحكام العرفية مباشرة، إلى نقل مضمون إلى جانب ترامب يهدف إلى تبرير الأحكام العرفية. ومن المقرر أن يتحقق الفريق من الملابسات وما إذا كان التوجيه قد صدر. وقد يساعد الاستدعاء في توضيح الرسائل الخارجية ودور مكتب الأمن الوطني بعد الإعلان. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "यून सुक येओल को समन, ट्रंप तक मार्शल लॉ को सही ठहराने वाला संदेश भेजने की जांच",
+        "excerpt": "क्वोन चांग-यंग की दूसरी विशेष जांच टीम ने पूर्व राष्ट्रपति यून सुक येओल को इस महीने के अंत में संदिग्ध के रूप में पूछताछ के लिए बुलाया है।",
+        "body": "क्वोन चांग-यंग के नेतृत्व वाली दूसरी व्यापक विशेष अभियोजक टीम ने पूर्व राष्ट्रपति यून सुक येओल को इस महीने के अंत में संदिग्ध के रूप में पूछताछ के लिए समन भेजा है। जांच उन शंकाओं से जुड़ी है जो तीन प्रमुख विशेष जांचों के बाद भी बाकी हैं। इनमें यह सवाल शामिल है कि क्या यून ने मार्शल लॉ की घोषणा के तुरंत बाद राष्ट्रीय सुरक्षा कार्यालय को ट्रंप पक्ष तक मार्शल लॉ को सही ठहराने वाली बात पहुंचाने का निर्देश दिया था। टीम घटनाक्रम और निर्देश दिए जाने की 여부 की पुष्टि करेगी। यह समन घोषणा के बाद बाहरी संदेशों और राष्ट्रीय सुरक्षा कार्यालय की भूमिका पर उठे सवालों को स्पष्ट कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Yoon Suk Yeol Dipanggil, Dugaan Pesan Pembenaran Darurat Militer ke Trump Diselidiki",
+        "excerpt": "Tim jaksa khusus komprehensif kedua Kwon Chang-young memberi tahu Yoon Suk Yeol untuk diperiksa sebagai tersangka akhir bulan ini terkait dugaan setelah darurat militer.",
+        "body": "Tim jaksa khusus komprehensif kedua yang dipimpin Kwon Chang-young telah memberi tahu mantan Presiden Yoon Suk Yeol untuk hadir menjalani pemeriksaan sebagai tersangka pada akhir bulan ini. Penyelidikan mencakup dugaan yang tersisa setelah tiga penyelidikan khusus besar, termasuk apakah Yoon memerintahkan Kantor Keamanan Nasional segera setelah deklarasi darurat militer untuk menyampaikan kepada pihak Trump pesan yang bermaksud membenarkan langkah tersebut. Tim akan memeriksa kronologi dan apakah instruksi itu diberikan. Pemanggilan ini diperkirakan dapat memperjelas pesan eksternal dan peran Kantor Keamanan Nasional setelah deklarasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "ce52d979f4ac",
     "slug": "삼일pwc-보험-금융상품-넘어-리스크-관리-플랫폼으로-진화해야-905636",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Peminat MBA Elite AS Anjlok, Gelar Bergaji Tinggi Kini Obral Biaya Kuliah",
         "excerpt": "Program MBA universitas ternama AS berupaya menarik mahasiswa setelah pendaftar turun tajam, lewat diskon biaya kuliah dan pembukaan kelas khusus AI.",
         "body": "Program MBA di universitas ternama Amerika Serikat, yang dulu dianggap sebagai jalan pasti menuju gaji tinggi, kini berjuang menarik mahasiswa karena jumlah pendaftar turun tajam. Saat popularitasnya melemah, sebagian program menawarkan diskon besar yang disebut seperti “obral setengah harga” untuk biaya kuliah, sekaligus membuka program khusus AI dan menyesuaikan kurikulum. Pandangan bahwa MBA adalah gelar utama menuju pekerjaan berpenghasilan tinggi mulai goyah, sehingga universitas memperketat persaingan mendapatkan pendaftar. Daya tarik MBA ke depan diperkirakan bergantung pada pengurangan beban biaya dan kemampuan pendidikan yang sesuai dengan kebutuhan baru seperti kecerdasan buatan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2251a3c9c3c3",
-    "slug": "k콘텐츠-기업에-금융지원-kb국민은행-신보-특별출연-235735",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T20:40:02.053Z",
-    "updatedAt": "2026-05-13T20:40:02.053Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12046502",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046502",
-    "titleFingerprint": "f19d06c975b690450c79d9d49a28de8174c1e256",
-    "dedupKeys": [
-      "2251a3c9c3c3c8772ae31207d754097e7bb44cc5",
-      "f19d06c975b690450c79d9d49a28de8174c1e256",
-      "8e340ac9858befecb7b71cc339e1e6b9ced23ee0"
-    ],
-    "imageUrl": "/images/articles/2251a3c9c3c3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KB국민은행, K콘텐츠 기업 금융지원 확대…신보에 10억원 특별출연",
-        "excerpt": "KB국민은행은 13일 신용보증기금·한국콘텐츠진흥원과 K콘텐츠 생산적 금융지원 협약을 맺고, 신보에 10억원을 특별출연해 200억원 규모 지원에 나선다고 밝혔다.",
-        "body": "KB국민은행은 13일 신용보증기금 및 한국콘텐츠진흥원과 ‘K-콘텐츠 생산적 금융지원 협약’을 체결했다고 밝혔다. 이번 협약은 K콘텐츠 기업에 필요한 금융지원을 제공하기 위한 것으로, KB국민은행은 신용보증기금에 10억원을 특별출연한다. 이를 바탕으로 200억원 규모의 금융지원이 추진된다. 협약에는 금융권과 보증기관, 콘텐츠 지원기관이 함께 참여해 K콘텐츠 기업의 자금 접근성을 높이는 데 초점이 맞춰졌다. 지원 규모가 명시된 만큼 관련 기업의 생산 활동에 필요한 금융 기반을 보완하는 역할을 할 것으로 보인다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "KB Kookmin Bank Expands K-Content Financing With W1bn KODIT Contribution",
-        "excerpt": "KB Kookmin Bank said on the 13th it signed a productive financing pact for K-content with KODIT and KOCCA, making a W1 billion special contribution for W20 billion in support.",
-        "body": "KB Kookmin Bank said on the 13th that it signed a “K-content productive financial support agreement” with the Korea Credit Guarantee Fund and the Korea Creative Content Agency. The agreement is aimed at providing financing support needed by K-content companies. KB Kookmin Bank will make a special contribution of 1 billion won to the Korea Credit Guarantee Fund, laying the basis for financial support worth 20 billion won. The pact brings together a bank, a guarantee institution and a content support agency, with the focus on improving funding access for K-content firms. With the support amount specified, the program is expected to help supplement the financial base needed for production activities. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "KB国民銀行、Kコンテンツ企業支援拡大へ…信用保証基金に10億ウォン拠出",
-        "excerpt": "KB国民銀行は13日、信用保証基金・韓国コンテンツ振興院とKコンテンツ生産的金融支援協約を結び、10億ウォンを特別拠出して200億ウォン規模の支援を進めると明らかにした。",
-        "body": "KB国民銀行は13日、信用保証基金および韓国コンテンツ振興院と「Kコンテンツ生産的金融支援協約」を締結したと発表した。今回の協約は、Kコンテンツ企業に必要な金融支援を提供するためのものだ。KB国民銀行は信用保証基金に10億ウォンを特別拠出し、これを基に200億ウォン規模の金融支援が進められる。協約には金融機関、保証機関、コンテンツ支援機関がともに参加し、Kコンテンツ企業の資金アクセスを高めることに重点が置かれている。支援規模が示されたことで、関連企業の制作活動に必要な金融基盤を補完する役割が見込まれる。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "KB国民银行扩大K内容企业金融支持，向信用保证基金特别出资10亿韩元",
-        "excerpt": "KB国民银行13日表示，已与信用保证基金和韩国内容振兴院签署K内容生产性金融支持协议，并将特别出资10亿韩元，推动200亿韩元规模支持。",
-        "body": "KB国民银行13日表示，已与信用保证基金及韩国内容振兴院签署“K内容生产性金融支持协议”。该协议旨在为K内容企业提供所需金融支持。KB国民银行将向信用保证基金特别出资10亿韩元，并以此为基础推进200亿韩元规模的金融支持。此次协议由金融机构、保证机构和内容支持机构共同参与，重点在于提高K内容企业获得资金的便利性。由于支持规模已经明确，该安排有望为相关企业的生产活动补充必要的金融基础。来源为mk.co.kr。"
-      },
-      "es": {
-        "title": "KB Kookmin amplía apoyo financiero a K-content con aporte especial de W1.000 millones",
-        "excerpt": "KB Kookmin Bank informó el día 13 que firmó con KODIT y KOCCA un acuerdo de financiación productiva para K-content, con un aporte especial de W1.000 millones para respaldar W20.000 millones.",
-        "body": "KB Kookmin Bank informó el día 13 que firmó un “acuerdo de apoyo financiero productivo para K-content” con el Korea Credit Guarantee Fund y la Korea Creative Content Agency. El acuerdo busca ofrecer financiación necesaria a empresas de K-content. KB Kookmin Bank realizará una contribución especial de 1.000 millones de wones al Korea Credit Guarantee Fund, con la que se impulsará un apoyo financiero de 20.000 millones de wones. En el pacto participan una entidad financiera, una institución de garantías y una agencia de apoyo a contenidos, con foco en mejorar el acceso a fondos de las empresas de K-content. Al estar definido el monto de apoyo, se espera que complemente la base financiera necesaria para sus actividades de producción. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KB Kookmin amplia financiamento a K-content com aporte especial de W1 bi",
-        "excerpt": "O KB Kookmin Bank informou no dia 13 que assinou com KODIT e KOCCA um acordo de apoio financeiro produtivo para K-content, com aporte especial de W1 bilhão para viabilizar W20 bilhões.",
-        "body": "O KB Kookmin Bank informou no dia 13 que assinou um “acordo de apoio financeiro produtivo para K-content” com o Korea Credit Guarantee Fund e a Korea Creative Content Agency. O acordo tem como objetivo oferecer o financiamento necessário a empresas de K-content. O KB Kookmin Bank fará uma contribuição especial de 1 bilhão de wones ao Korea Credit Guarantee Fund, criando a base para apoio financeiro de 20 bilhões de wones. O pacto reúne uma instituição financeira, uma entidade de garantias e uma agência de apoio a conteúdos, com foco em ampliar o acesso das empresas de K-content a recursos. Como o volume de apoio foi especificado, a medida deve complementar a base financeira necessária às atividades de produção. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KB Kookmin Bank stärkt K-Content-Firmen mit Sonderbeitrag von 1 Mrd. Won",
-        "excerpt": "Die KB Kookmin Bank teilte am 13. mit, sie habe mit KODIT und KOCCA ein Abkommen zur produktiven Finanzierung von K-Content geschlossen und steuere 1 Mrd. Won für 20 Mrd. Won Unterstützung bei.",
-        "body": "Die KB Kookmin Bank teilte am 13. mit, dass sie mit dem Korea Credit Guarantee Fund und der Korea Creative Content Agency ein „Abkommen zur produktiven finanziellen Unterstützung von K-Content“ geschlossen hat. Ziel ist es, K-Content-Unternehmen die benötigte Finanzierung bereitzustellen. Die Bank leistet einen Sonderbeitrag von 1 Milliarde Won an den Korea Credit Guarantee Fund; darauf aufbauend soll finanzielle Unterstützung im Umfang von 20 Milliarden Won ermöglicht werden. An der Vereinbarung beteiligen sich eine Bank, eine Garantieinstitution und eine Förderstelle für Inhalte. Im Mittelpunkt steht ein besserer Zugang zu Finanzmitteln für K-Content-Unternehmen. Da der Umfang der Unterstützung genannt wurde, dürfte das Programm die finanzielle Grundlage für Produktionsaktivitäten ergänzen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "KB Kookmin renforce le financement du K-content avec 1 milliard de wons",
-        "excerpt": "KB Kookmin Bank a annoncé le 13 avoir signé avec KODIT et KOCCA un accord de soutien financier productif au K-content, avec une contribution spéciale de 1 milliard de wons pour 20 milliards de soutien.",
-        "body": "KB Kookmin Bank a annoncé le 13 avoir signé un « accord de soutien financier productif au K-content » avec le Korea Credit Guarantee Fund et la Korea Creative Content Agency. L’accord vise à fournir aux entreprises de K-content les financements nécessaires. KB Kookmin Bank versera une contribution spéciale de 1 milliard de wons au Korea Credit Guarantee Fund, afin de soutenir un dispositif financier de 20 milliards de wons. Le pacte réunit une banque, un organisme de garantie et une agence de soutien aux contenus, avec pour priorité d’améliorer l’accès des entreprises de K-content aux capitaux. Le montant étant précisé, ce soutien devrait compléter la base financière nécessaire aux activités de production. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "بنك KB Kookmin يوسع تمويل شركات المحتوى الكوري بمساهمة خاصة قدرها مليار وون",
-        "excerpt": "أعلن بنك KB Kookmin في 13 من الشهر أنه وقع اتفاق دعم مالي إنتاجي للمحتوى الكوري مع صندوق ضمان الائتمان الكوري ووكالة KOCCA، مع مساهمة خاصة بقيمة مليار وون لدعم تمويل حجمه 20 مليار وون.",
-        "body": "أعلن بنك KB Kookmin في 13 من الشهر أنه وقع «اتفاق دعم مالي إنتاجي للمحتوى الكوري» مع صندوق ضمان الائتمان الكوري ووكالة المحتوى الإبداعي الكورية. ويهدف الاتفاق إلى توفير الدعم المالي اللازم لشركات المحتوى الكوري. وسيقدم البنك مساهمة خاصة بقيمة مليار وون إلى صندوق ضمان الائتمان الكوري، على أن يشكل ذلك أساسا لدعم مالي بحجم 20 مليار وون. ويجمع الاتفاق بين مؤسسة مالية وجهة ضمان ووكالة داعمة للمحتوى، مع التركيز على تحسين وصول شركات المحتوى الكوري إلى التمويل. وبما أن حجم الدعم محدد، فمن المتوقع أن يساعد في استكمال القاعدة المالية اللازمة لأنشطة الإنتاج لدى الشركات المعنية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KB Kookmin Bank ने K-कंटेंट कंपनियों के लिए वित्तीय समर्थन बढ़ाया",
-        "excerpt": "KB Kookmin Bank ने 13 तारीख को बताया कि उसने Korea Credit Guarantee Fund और KOCCA के साथ K-कंटेंट उत्पादन वित्तीय समर्थन समझौता किया है, जिसके तहत 1 अरब वॉन का विशेष योगदान देकर 20 अरब वॉन तक समर्थन दिया जाएगा।",
-        "body": "KB Kookmin Bank ने 13 तारीख को कहा कि उसने Korea Credit Guarantee Fund और Korea Creative Content Agency के साथ “K-content productive financial support agreement” पर हस्ताक्षर किए हैं। इस समझौते का उद्देश्य K-कंटेंट कंपनियों को आवश्यक वित्तीय सहायता उपलब्ध कराना है। KB Kookmin Bank Korea Credit Guarantee Fund को 1 अरब वॉन का विशेष योगदान देगा, जिसके आधार पर 20 अरब वॉन के पैमाने पर वित्तीय समर्थन आगे बढ़ाया जाएगा। इस समझौते में एक बैंक, गारंटी संस्था और कंटेंट समर्थन एजेंसी साथ आ रही हैं, और इसका केंद्र K-कंटेंट कंपनियों की पूंजी तक पहुंच बेहतर करना है। समर्थन राशि स्पष्ट होने से यह संबंधित कंपनियों की उत्पादन गतिविधियों के लिए जरूरी वित्तीय आधार को पूरक करने में भूमिका निभा सकता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KB Kookmin Perluas Pembiayaan Perusahaan K-Content Lewat Kontribusi W1 Miliar",
-        "excerpt": "KB Kookmin Bank pada tanggal 13 menyatakan telah menandatangani perjanjian dukungan pembiayaan produktif K-content dengan KODIT dan KOCCA, serta memberi kontribusi khusus W1 miliar untuk dukungan W20 miliar.",
-        "body": "KB Kookmin Bank pada tanggal 13 menyatakan telah menandatangani “perjanjian dukungan pembiayaan produktif K-content” dengan Korea Credit Guarantee Fund dan Korea Creative Content Agency. Perjanjian ini bertujuan menyediakan dukungan keuangan yang dibutuhkan perusahaan K-content. KB Kookmin Bank akan memberikan kontribusi khusus sebesar 1 miliar won kepada Korea Credit Guarantee Fund, yang menjadi dasar dukungan pembiayaan senilai 20 miliar won. Kesepakatan ini melibatkan lembaga keuangan, lembaga penjaminan, dan badan pendukung konten, dengan fokus meningkatkan akses pendanaan bagi perusahaan K-content. Dengan nilai dukungan yang telah disebutkan, program ini diharapkan melengkapi basis keuangan yang diperlukan untuk aktivitas produksi perusahaan terkait. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "1927fe858c7c",
-    "slug": "단독-국민연금-국내주식-150조-초과-보유-379616",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T20:39:00.430Z",
-    "updatedAt": "2026-05-13T20:39:00.430Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046507",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046507",
-    "titleFingerprint": "cf2064c35a9637d11bd47e8ef8e89c67809c5596",
-    "dedupKeys": [
-      "1927fe858c7c756067f5fe2510de6bf1a701ad26",
-      "cf2064c35a9637d11bd47e8ef8e89c67809c5596",
-      "9ee0bf3bad2362f15735b69bfffd12e3da5abf00"
-    ],
-    "imageUrl": "/images/articles/1927fe858c7c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민연금 국내주식 150조 초과 보유, 목표비중 12%p 웃돌아",
-        "excerpt": "국민연금이 국내 주식을 150조원 넘게 보유하고 있으며, 국내 주식 비중이 정해진 목표치를 12%포인트 웃도는 것으로 파악됐다고 mk.co.kr이 보도했다.",
-        "body": "국민연금의 국내 주식 보유 규모가 150조원을 넘어선 것으로 파악됐다. mk.co.kr 보도에 따르면 국민연금의 국내 주식 비중은 정해진 목표치를 12%포인트 웃도는 수준이다. 이는 기금 운용에서 목표 비중과 실제 보유 비중 사이의 차이가 크게 벌어진 사례로, 원칙적으로는 150조원어치의 국내 주식을 기계적으로 매도해야 할 상황으로 설명된다. 다만 원문은 국민연금이 주식 관련 판단을 어떻게 이어갈지에 대해 추가 맥락을 제시하는 단계에서 내용이 이어진다. 국내 증시에서는 국민연금의 보유 규모와 목표비중 초과 여부가 수급 변수로 주목될 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "National Pension Service Holds Over 150 Trillion Won in Korean Stocks",
-        "excerpt": "South Korea’s National Pension Service holds more than 150 trillion won in domestic stocks, with its allocation reportedly 12 percentage points above its target, mk.co.kr reported.",
-        "body": "South Korea’s National Pension Service is understood to hold more than 150 trillion won in domestic equities. According to mk.co.kr, the fund’s domestic stock allocation is 12 percentage points above its set target. The report presents this as a significant gap between the target allocation and the actual holding level. In principle, it says, the situation could require the mechanical sale of 150 trillion won worth of domestic shares. The original text continues as it begins to discuss how the National Pension Service may handle its stock-related position. For the Korean stock market, the size of the fund’s holdings and the excess over its target allocation may remain a supply-demand factor to watch. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民年金、韓国株150兆ウォン超保有　目標比率を12ポイント上回る",
-        "excerpt": "韓国の国民年金が国内株を150兆ウォン超保有し、国内株比率が定められた目標を12ポイント上回るとmk.co.krが報じた。",
-        "body": "韓国の国民年金が国内株式を150兆ウォン超保有していることが分かった。mk.co.krによると、国民年金の国内株式比率は定められた目標値を12ポイント上回っている。これは基金運用において、目標比率と実際の保有比率の差が大きく開いた事例とされる。原則としては、150兆ウォン相当の国内株を機械的に売却しなければならない状況だと説明されている。ただし原文は、国民年金が株式に関する判断をどう続けるかについて追加の文脈に入るところで続いている。韓国株式市場では、保有規模と目標超過が需給要因として注目され得る。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国国民年金持有本国股票超150万亿韩元，高于目标12个百分点",
-        "excerpt": "mk.co.kr报道称，韩国国民年金持有国内股票超过150万亿韩元，其国内股票比重较既定目标高出12个百分点。",
-        "body": "韩国国民年金被认为持有超过150万亿韩元的国内股票。mk.co.kr报道称，国民年金的国内股票比重比既定目标高出12个百分点。这显示在基金运用中，目标比重与实际持有比重之间出现了较大差距。报道说明，原则上这意味着需要机械性卖出价值150万亿韩元的国内股票。不过，原文在进一步说明国民年金将如何继续处理股票相关判断时内容仍在延续。对韩国股市而言，国民年金的持有规模以及超出目标比重的情况，可能成为市场供需方面受到关注的变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El fondo nacional de pensiones de Corea posee más de 150 billones de wones en acciones locales",
-        "excerpt": "El Servicio Nacional de Pensiones de Corea mantiene más de 150 billones de wones en acciones locales y supera en 12 puntos porcentuales su objetivo, informó mk.co.kr.",
-        "body": "El Servicio Nacional de Pensiones de Corea del Sur tendría más de 150 billones de wones en acciones nacionales. Según mk.co.kr, la proporción de acciones locales dentro del fondo supera en 12 puntos porcentuales el objetivo establecido. El caso muestra una amplia diferencia entre la asignación objetivo y la posición real dentro de la gestión del fondo. En principio, el informe señala que esto implicaría vender mecánicamente acciones nacionales por valor de 150 billones de wones. El texto original continúa al introducir más contexto sobre cómo el fondo podría seguir evaluando su posición accionaria. Para el mercado bursátil coreano, el tamaño de esas tenencias y el exceso frente al objetivo pueden ser variables de oferta y demanda a observar. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fundo nacional de pensões da Coreia detém mais de 150 trilhões de wones em ações locais",
-        "excerpt": "O Serviço Nacional de Pensões da Coreia detém mais de 150 trilhões de wones em ações domésticas, 12 pontos percentuais acima da meta, informou o mk.co.kr.",
-        "body": "O Serviço Nacional de Pensões da Coreia do Sul teria mais de 150 trilhões de wones em ações domésticas. Segundo o mk.co.kr, a fatia de ações locais na carteira está 12 pontos percentuais acima da meta definida. O caso indica uma diferença relevante entre a alocação-alvo e o nível efetivo de participação na gestão do fundo. Em princípio, o relatório afirma que isso exigiria a venda mecânica de 150 trilhões de wones em ações domésticas. O texto original segue ao introduzir mais contexto sobre como o fundo poderá conduzir sua avaliação relacionada às ações. Para o mercado acionário coreano, o volume detido e o excesso em relação à meta podem ser fatores de oferta e demanda a acompanhar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreas Nationaler Pensionsfonds hält über 150 Billionen Won in heimischen Aktien",
-        "excerpt": "Koreas Nationaler Pensionsfonds hält mehr als 150 Billionen Won in inländischen Aktien und liegt 12 Prozentpunkte über der Zielquote, berichtete mk.co.kr.",
-        "body": "Der Nationale Pensionsfonds Südkoreas soll inländische Aktien im Wert von mehr als 150 Billionen Won halten. Laut mk.co.kr liegt der Anteil heimischer Aktien um 12 Prozentpunkte über der festgelegten Zielquote. Damit zeigt sich in der Fondssteuerung eine deutliche Lücke zwischen Zielallokation und tatsächlichem Bestand. Grundsätzlich, so der Bericht, müsste dies einen mechanischen Verkauf heimischer Aktien im Wert von 150 Billionen Won auslösen. Der Originaltext fährt an der Stelle fort, an der er weiteren Kontext dazu einleitet, wie der Pensionsfonds seine aktienbezogene Entscheidung fortsetzen könnte. Für den koreanischen Aktienmarkt könnten die Höhe der Bestände und die Überschreitung der Zielquote als Angebots- und Nachfragefaktor Beachtung finden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le fonds national de pension coréen détient plus de 150 billions de wons d’actions locales",
-        "excerpt": "Le Service national des pensions coréen détient plus de 150 billions de wons d’actions locales, soit 12 points au-dessus de son objectif, selon mk.co.kr.",
-        "body": "Le Service national des pensions de Corée du Sud détiendrait plus de 150 billions de wons d’actions nationales. Selon mk.co.kr, la part des actions locales dépasse de 12 points de pourcentage l’objectif fixé. Cette situation illustre un écart important entre l’allocation cible et le niveau réel de détention dans la gestion du fonds. En principe, le rapport indique que cela impliquerait une vente mécanique de 150 billions de wons d’actions nationales. Le texte original se poursuit au moment où il introduit davantage de contexte sur la manière dont le fonds pourrait poursuivre son jugement concernant les actions. Pour le marché boursier coréen, le volume détenu et le dépassement de l’objectif peuvent devenir des variables d’offre et de demande à surveiller. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صندوق التقاعد الوطني الكوري يملك أسهما محلية بأكثر من 150 تريليون وون",
-        "excerpt": "أفاد mk.co.kr بأن صندوق التقاعد الوطني الكوري يملك أسهما محلية تتجاوز 150 تريليون وون، وأن نسبتها أعلى من الهدف المحدد بـ12 نقطة مئوية.",
-        "body": "تبيّن أن صندوق التقاعد الوطني في كوريا الجنوبية يملك أسهما محلية تتجاوز قيمتها 150 تريليون وون. ووفقا لما أورده mk.co.kr، فإن حصة الأسهم المحلية لدى الصندوق أعلى من الهدف المحدد بمقدار 12 نقطة مئوية. ويعرض التقرير ذلك كفارق كبير بين النسبة المستهدفة والمستوى الفعلي للحيازة ضمن إدارة الصندوق. ومن حيث المبدأ، يوضح التقرير أن الوضع قد يتطلب بيع أسهم محلية بقيمة 150 تريليون وون بطريقة آلية. لكن النص الأصلي يتابع عند نقطة تقديم سياق إضافي بشأن كيفية استمرار الصندوق في اتخاذ قراره المتعلق بالأسهم. وبالنسبة لسوق الأسهم الكورية، قد يحظى حجم الحيازة وتجاوز النسبة المستهدفة باهتمام كعامل في العرض والطلب. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया का नेशनल पेंशन फंड घरेलू शेयरों में 150 ट्रिलियन वॉन से अधिक रखता है",
-        "excerpt": "mk.co.kr के अनुसार, कोरिया का नेशनल पेंशन सर्विस घरेलू शेयरों में 150 ट्रिलियन वॉन से अधिक रखता है और उसका अनुपात लक्ष्य से 12 प्रतिशत अंक ऊपर है।",
-        "body": "दक्षिण कोरिया की नेशनल पेंशन सर्विस के घरेलू शेयरों में 150 ट्रिलियन वॉन से अधिक होल्डिंग होने की जानकारी मिली है। mk.co.kr के अनुसार, फंड में घरेलू शेयरों का अनुपात तय लक्ष्य से 12 प्रतिशत अंक अधिक है। यह फंड प्रबंधन में लक्ष्य अनुपात और वास्तविक होल्डिंग के बीच बड़ा अंतर दिखाता है। रिपोर्ट के मुताबिक, सिद्धांत रूप में ऐसी स्थिति में 150 ट्रिलियन वॉन मूल्य के घरेलू शेयरों की यांत्रिक बिक्री करनी पड़ सकती है। हालांकि मूल पाठ आगे इस संदर्भ की ओर बढ़ता है कि नेशनल पेंशन सर्विस शेयरों से जुड़े निर्णय को कैसे जारी रखेगी। कोरियाई शेयर बाजार के लिए होल्डिंग का आकार और लक्ष्य से अधिक अनुपात आपूर्ति-मांग से जुड़ा ध्यानयोग्य कारक हो सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dana Pensiun Nasional Korea Pegang Saham Domestik Lebih dari 150 Triliun Won",
-        "excerpt": "National Pension Service Korea memiliki saham domestik lebih dari 150 triliun won, dengan porsinya 12 poin persentase di atas target, lapor mk.co.kr.",
-        "body": "National Pension Service Korea Selatan diketahui memegang saham domestik senilai lebih dari 150 triliun won. Menurut mk.co.kr, porsi saham domestik dalam portofolio dana tersebut berada 12 poin persentase di atas target yang telah ditetapkan. Kondisi ini menunjukkan selisih besar antara alokasi target dan tingkat kepemilikan aktual dalam pengelolaan dana. Secara prinsip, laporan itu menyebut situasi tersebut dapat mengharuskan penjualan mekanis saham domestik senilai 150 triliun won. Namun teks asli berlanjut saat mulai memberi konteks tambahan mengenai bagaimana National Pension Service akan melanjutkan penilaian terkait saham. Bagi pasar saham Korea, besarnya kepemilikan dan kelebihan atas target dapat menjadi faktor pasokan-permintaan yang diperhatikan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5c35aaebf191",
-    "slug": "코리아소사이어티-올해-밴플리트賞에-젠슨-황-410574",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T20:37:51.709Z",
-    "updatedAt": "2026-05-13T20:37:51.709Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12046950",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046950",
-    "titleFingerprint": "2cc23bd6ca057ad8518b302dae3e68686b845729",
-    "dedupKeys": [
-      "5c35aaebf1911246ed161df697ce76b37dc54576",
-      "2cc23bd6ca057ad8518b302dae3e68686b845729",
-      "6e2e6d426defc3622e78899085e621116ee16949"
-    ],
-    "imageUrl": "/images/articles/5c35aaebf191.png",
-    "i18n": {
-      "ko": {
-        "title": "젠슨 황, 코리아소사이어티 밴 플리트상 수상…AI·반도체 한미협력 공로",
-        "excerpt": "코리아소사이어티는 13일 현지시간 올해 밴 플리트상 수상자로 젠슨 황을 선정하고, 반도체·AI 한미협력 기여와 삼성·SK와의 파트너십 확대를 공로로 밝혔다.",
-        "body": "한미 친선 단체 코리아소사이어티는 13일(현지시간) 올해 ‘밴 플리트상’ 수상자로 젠슨 황을 선정했다고 밝혔다. 선정 이유는 반도체와 인공지능(AI) 분야에서 한미 협력에 기여한 공로다. 코리아소사이어티는 젠슨 황이 삼성·SK와의 파트너십을 확대해 온 점도 함께 언급했다. 시상식은 9월 28일 뉴욕에서 열리며, 젠슨 황은 행사에 직접 참석할 예정이다. 이번 발표는 AI와 반도체를 중심으로 한 한미 산업 협력의 상징적 사례로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Jensen Huang Wins Korea Society’s Van Fleet Award for U.S.-Korea AI Chip Ties",
-        "excerpt": "The Korea Society said on the 13th local time that Jensen Huang was named this year’s Van Fleet Award honoree for advancing U.S.-Korea cooperation in semiconductors and AI.",
-        "body": "The Korea Society, a U.S.-Korea friendship organization, announced on the 13th local time that Jensen Huang has been selected as this year’s Van Fleet Award recipient. The group cited his contributions to cooperation between South Korea and the United States in semiconductors and artificial intelligence. It also noted his expanded partnerships with Samsung and SK. The award ceremony will be held in New York on September 28, and Huang is expected to attend in person. The announcement highlights U.S.-Korea industrial cooperation centered on AI and semiconductors. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ジェンスン・フアン氏、コリアソサエティーのヴァン・フリート賞受賞へ",
-        "excerpt": "コリアソサエティーは現地時間13日、今年のヴァン・フリート賞受賞者にジェンスン・フアン氏を選び、半導体・AI分野での米韓協力への貢献を理由に挙げた。",
-        "body": "米韓親善団体のコリアソサエティーは現地時間13日、今年の「ヴァン・フリート賞」受賞者にジェンスン・フアン氏を選定したと発表した。選定理由は、半導体と人工知能（AI）分野で米韓協力に貢献したことだ。同団体は、フアン氏がサムスン、SKとのパートナーシップを拡大してきた点にも言及した。授賞式は9月28日にニューヨークで開かれ、フアン氏は直接出席する予定だ。今回の発表は、AIと半導体を軸にした米韓産業協力を示す事例として注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "黄仁勋获韩国协会范弗里特奖，表彰其推动韩美AI与半导体合作",
-        "excerpt": "韩国协会当地时间13日宣布，黄仁勋被选为今年范弗里特奖获奖者，以表彰其在半导体和AI领域推动韩美合作及扩大与三星、SK伙伴关系的贡献。",
-        "body": "韩美友好团体韩国协会当地时间13日宣布，黄仁勋被选为今年“范弗里特奖”获奖者。获奖理由是他在半导体和人工智能（AI）领域为韩美合作作出贡献。韩国协会还提到，黄仁勋扩大了与三星、SK的伙伴关系。颁奖典礼将于9月28日在纽约举行，黄仁勋计划亲自出席。此次发布被视为以AI和半导体为中心的韩美产业合作的象征性案例。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jensen Huang recibe el Premio Van Fleet por impulsar la cooperación EE.UU.-Corea en IA",
-        "excerpt": "The Korea Society anunció el día 13, hora local, que Jensen Huang será el ganador del Premio Van Fleet de este año por su aporte a la cooperación en semiconductores e IA.",
-        "body": "The Korea Society, organización de amistad entre Corea del Sur y Estados Unidos, anunció el día 13, hora local, que Jensen Huang fue elegido como ganador del Premio Van Fleet de este año. La razón señalada es su contribución a la cooperación bilateral en semiconductores e inteligencia artificial (IA). La entidad también mencionó la ampliación de sus alianzas con Samsung y SK. La ceremonia se celebrará el 28 de septiembre en Nueva York, con la asistencia presencial de Huang. El anuncio destaca la cooperación industrial entre ambos países centrada en IA y semiconductores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Jensen Huang ganha Prêmio Van Fleet por cooperação EUA-Coreia em IA e chips",
-        "excerpt": "A Korea Society informou no dia 13, horário local, que Jensen Huang foi escolhido para o Prêmio Van Fleet deste ano por contribuir para a cooperação em semicondutores e IA.",
-        "body": "A Korea Society, organização de amizade entre Coreia do Sul e Estados Unidos, anunciou no dia 13, horário local, que Jensen Huang foi escolhido como vencedor do Prêmio Van Fleet deste ano. O motivo é sua contribuição para a cooperação bilateral nas áreas de semicondutores e inteligência artificial (IA). A entidade também destacou a ampliação de parcerias com Samsung e SK. A cerimônia será realizada em 28 de setembro, em Nova York, com presença prevista de Huang. O anúncio chama atenção para a cooperação industrial entre os dois países centrada em IA e semicondutores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Jensen Huang erhält Van-Fleet-Preis für KI- und Chip-Kooperation zwischen Korea und USA",
-        "excerpt": "Die Korea Society teilte am 13. Ortszeit mit, dass Jensen Huang den diesjährigen Van-Fleet-Preis für seinen Beitrag zur Zusammenarbeit bei Halbleitern und KI erhält.",
-        "body": "Die Korea Society, eine Freundschaftsorganisation zwischen Südkorea und den USA, gab am 13. Ortszeit bekannt, dass Jensen Huang als diesjähriger Preisträger des Van-Fleet-Preises ausgewählt wurde. Begründet wurde die Entscheidung mit seinem Beitrag zur Zusammenarbeit beider Länder in den Bereichen Halbleiter und künstliche Intelligenz (KI). Die Organisation verwies zudem auf den Ausbau seiner Partnerschaften mit Samsung und SK. Die Preisverleihung findet am 28. September in New York statt, Huang soll persönlich teilnehmen. Die Mitteilung rückt die industrielle Kooperation bei KI und Halbleitern in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Jensen Huang reçoit le prix Van Fleet pour la coopération Corée-États-Unis en IA",
-        "excerpt": "La Korea Society a annoncé le 13, heure locale, que Jensen Huang recevrait le prix Van Fleet de cette année pour sa contribution à la coopération en semi-conducteurs et IA.",
-        "body": "La Korea Society, organisation d’amitié entre la Corée du Sud et les États-Unis, a annoncé le 13, heure locale, que Jensen Huang avait été choisi comme lauréat du prix Van Fleet de cette année. Elle a cité sa contribution à la coopération entre les deux pays dans les semi-conducteurs et l’intelligence artificielle (IA). L’organisation a aussi mentionné l’élargissement de ses partenariats avec Samsung et SK. La cérémonie aura lieu le 28 septembre à New York, où Huang doit être présent. Cette annonce met en lumière la coopération industrielle centrée sur l’IA et les semi-conducteurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جنسن هوانغ يفوز بجائزة فان فليت لدوره في تعاون كوريا وأمريكا بالرقائق والذكاء الاصطناعي",
-        "excerpt": "أعلنت جمعية كوريا في 13 بالتوقيت المحلي اختيار جنسن هوانغ لجائزة فان فليت لهذا العام تقديرا لإسهامه في تعاون كوريا الجنوبية والولايات المتحدة في أشباه الموصلات والذكاء الاصطناعي.",
-        "body": "أعلنت جمعية كوريا، وهي منظمة صداقة بين كوريا الجنوبية والولايات المتحدة، في 13 بالتوقيت المحلي اختيار جنسن هوانغ فائزا بجائزة «فان فليت» لهذا العام. وذكرت أن سبب الاختيار هو إسهامه في التعاون بين البلدين في مجالي أشباه الموصلات والذكاء الاصطناعي. كما أشارت الجمعية إلى توسيع شراكاته مع سامسونغ وSK. ومن المقرر إقامة حفل الجائزة في نيويورك في 28 سبتمبر، على أن يحضره هوانغ شخصيا. ويبرز الإعلان التعاون الصناعي بين كوريا الجنوبية والولايات المتحدة حول الذكاء الاصطناعي وأشباه الموصلات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जेंसन हुआंग को वैन फ्लीट अवॉर्ड, एआई और सेमीकंडक्टर में कोरिया-अमेरिका सहयोग का सम्मान",
-        "excerpt": "कोरिया सोसाइटी ने स्थानीय समयानुसार 13 तारीख को जेंसन हुआंग को इस साल के वैन फ्लीट अवॉर्ड के लिए चुना, सेमीकंडक्टर और एआई में कोरिया-अमेरिका सहयोग में योगदान को वजह बताया।",
-        "body": "कोरिया और अमेरिका की मित्रता संस्था कोरिया सोसाइटी ने स्थानीय समयानुसार 13 तारीख को घोषणा की कि जेंसन हुआंग को इस साल के ‘वैन फ्लीट अवॉर्ड’ के लिए चुना गया है। चयन का कारण सेमीकंडक्टर और कृत्रिम बुद्धिमत्ता (AI) क्षेत्र में कोरिया-अमेरिका सहयोग में उनका योगदान है। संस्था ने Samsung और SK के साथ साझेदारी के विस्तार का भी उल्लेख किया। पुरस्कार समारोह 28 सितंबर को न्यूयॉर्क में होगा और हुआंग के व्यक्तिगत रूप से शामिल होने की योजना है। यह घोषणा AI और सेमीकंडक्टर केंद्रित कोरिया-अमेरिका औद्योगिक सहयोग को रेखांकित करती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Jensen Huang Raih Van Fleet Award atas Kerja Sama Korea-AS di AI dan Semikonduktor",
-        "excerpt": "Korea Society pada 13 waktu setempat menetapkan Jensen Huang sebagai penerima Van Fleet Award tahun ini atas kontribusinya pada kerja sama Korea-AS di semikonduktor dan AI.",
-        "body": "Korea Society, organisasi persahabatan Korea Selatan dan Amerika Serikat, mengumumkan pada 13 waktu setempat bahwa Jensen Huang terpilih sebagai penerima Van Fleet Award tahun ini. Alasan pemilihannya adalah kontribusi pada kerja sama kedua negara di bidang semikonduktor dan kecerdasan buatan (AI). Korea Society juga menyebut perluasan kemitraan dengan Samsung dan SK. Upacara penghargaan akan digelar di New York pada 28 September, dan Huang dijadwalkan hadir langsung. Pengumuman ini menyoroti kerja sama industri Korea-AS yang berpusat pada AI dan semikonduktor. Sumber: mk.co.kr"
       }
     }
   }
