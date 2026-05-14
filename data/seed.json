@@ -1,5 +1,230 @@
 [
   {
+    "id": "90cb5206b685",
+    "slug": "美주식분석-ai모델-개발-고3-투자-정보-비대칭-허물-것-316608",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T10:05:59.840Z",
+    "updatedAt": "2026-05-14T10:05:59.840Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047947",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047947",
+    "titleFingerprint": "6cf696dd36ea4c922e08bef182b5504416e703bb",
+    "dedupKeys": [
+      "90cb5206b6851f956ce3724872b68bc83ffd3b4b",
+      "6cf696dd36ea4c922e08bef182b5504416e703bb",
+      "b7cc4dcf015622c80ecd486904e127e5f1f008b5"
+    ],
+    "imageUrl": "/images/articles/90cb5206b685.jpg",
+    "i18n": {
+      "ko": {
+        "title": "美 주식분석 AI 모델 개발한 고3, 투자 정보 비대칭 해소 도전",
+        "excerpt": "중학교 3학년 때 투자에 입문한 한 고등학교 3학년 학생이 투자대회 최상위권 경험을 바탕으로 미국 주식 분석 AI 모델을 개발해 정보 비대칭 해소를 목표로 하고 있다.",
+        "body": "중학교 3학년 때 투자에 입문한 한 고등학교 3학년 학생이 투자 경험을 바탕으로 미국 주식 분석 AI 모델을 개발했다. 그는 투자대회에서 최상위권에 오른 경험을 토대로 시장 분석 과정에서 겪는 정보 비대칭을 낮추는 데 초점을 맞췄다. 이 AI 모델은 시장 상태에 따라 판단 기준을 스스로 바꾸고, 여러 금융 정보를 종합적으로 해석해 실제 투자 판단으로 연결하는 방식으로 소개됐다. 학생 개발자는 개인 투자자가 방대한 금융 정보를 해석하는 데 겪는 어려움을 줄이고 싶다는 취지를 밝혔다. 향후 이 모델이 투자 판단 보조 도구로 활용될 수 있을지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "High School Senior Builds US Stock Analysis AI to Tackle Investment Information Gaps",
+        "excerpt": "A high school senior who began investing in ninth grade has developed an AI model for US stock analysis, drawing on top-tier investment contest experience to reduce information asymmetry.",
+        "body": "A high school senior who began investing in the third year of middle school has developed an AI model for analyzing US stocks based on personal investment experience. After placing near the top in investment competitions, the student focused on reducing the information asymmetry investors face during market analysis. The model was introduced as a system that changes its own judgment criteria depending on market conditions, interprets multiple types of financial information together, and connects that analysis to actual investment decisions. The student said the aim is to ease the difficulty individual investors face when interpreting large volumes of financial data. Attention is now on whether the model can be used as a tool to support investment judgment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米国株分析AIを開発した高校3年生、投資情報の非対称性解消に挑戦",
+        "excerpt": "中学3年で投資を始めた高校3年生が、投資大会で上位に入った経験を基に米国株分析AIモデルを開発し、情報格差の縮小を目指している。",
+        "body": "中学3年生の時に投資を始めた高校3年生が、自身の投資経験を基に米国株を分析するAIモデルを開発した。投資大会で最上位圏に入った経験を土台に、市場分析の過程で生じる投資情報の非対称性を下げることに焦点を当てた。このAIモデルは、市場の状態に応じて判断基準を自ら変え、複数の金融情報を総合的に解釈し、実際の投資判断につなげる仕組みとして紹介された。開発した生徒は、個人投資家が膨大な金融情報を読み解く際の負担を減らしたいという趣旨を示した。今後、このモデルが投資判断を補助する道具として活用されるか注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "高中生开发美股分析AI模型，挑战缓解投资信息不对称",
+        "excerpt": "一名从初三开始接触投资的高三学生，基于投资竞赛名列前茅的经验开发美国股票分析AI模型，目标是降低投资信息不对称。",
+        "body": "一名从初三开始接触投资的高三学生，基于自己的投资经验开发了用于分析美国股票的AI模型。该学生曾在投资竞赛中取得最上位圈成绩，并以此为基础，把重点放在减少市场分析过程中投资者面临的信息不对称。该AI模型被介绍为可根据市场状态自行改变判断标准，综合解读多类金融信息，并将分析结果连接到实际投资判断的系统。开发者表示，希望减少个人投资者解读大量金融信息时遇到的困难。未来该模型能否作为辅助投资判断的工具受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Estudiante desarrolla IA para analizar acciones de EE. UU. y reducir brechas de información",
+        "excerpt": "Un estudiante de último año de secundaria que empezó a invertir en tercero de secundaria creó un modelo de IA para analizar acciones estadounidenses tras destacar en concursos de inversión.",
+        "body": "Un estudiante de último año de secundaria que comenzó a invertir en tercero de secundaria desarrolló un modelo de IA para analizar acciones de Estados Unidos a partir de su experiencia inversora. Tras ubicarse en los puestos más altos de concursos de inversión, centró el proyecto en reducir la asimetría de información que enfrentan los inversores durante el análisis del mercado. El modelo fue presentado como un sistema que modifica por sí mismo sus criterios de evaluación según el estado del mercado, interpreta de forma integrada distintos datos financieros y conecta ese análisis con decisiones reales de inversión. El estudiante señaló que busca aliviar la dificultad de los inversores individuales para interpretar grandes volúmenes de información financiera. Se observará si el modelo puede utilizarse como herramienta de apoyo a la decisión inversora. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Estudante cria IA para analisar ações dos EUA e enfrentar assimetria de informação",
+        "excerpt": "Um aluno do último ano do ensino médio que começou a investir no equivalente ao 9º ano desenvolveu uma IA para análise de ações dos EUA após se destacar em competições de investimento.",
+        "body": "Um aluno do último ano do ensino médio que começou a investir no terceiro ano do ensino fundamental desenvolveu, com base em sua experiência, um modelo de IA para analisar ações dos Estados Unidos. Depois de ficar entre os primeiros colocados em competições de investimento, ele concentrou o projeto em reduzir a assimetria de informação enfrentada por investidores durante a análise de mercado. O modelo foi apresentado como um sistema que altera seus próprios critérios de julgamento conforme as condições do mercado, interpreta em conjunto diferentes informações financeiras e conecta essa análise a decisões reais de investimento. O estudante afirmou que pretende diminuir a dificuldade dos investidores individuais ao interpretar grandes volumes de dados financeiros. A atenção agora se volta para a possibilidade de o modelo ser usado como ferramenta de apoio à decisão de investimento. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Schüler entwickelt KI für US-Aktienanalyse gegen Informationsasymmetrie beim Investieren",
+        "excerpt": "Ein Oberstufenschüler, der in der dritten Mittelschulklasse mit dem Investieren begann, hat nach Spitzenplatzierungen bei Investmentwettbewerben ein KI-Modell für US-Aktien entwickelt.",
+        "body": "Ein Schüler im letzten Highschool-Jahr, der in der dritten Klasse der Mittelschule mit dem Investieren begann, hat auf Basis seiner Anlageerfahrung ein KI-Modell zur Analyse von US-Aktien entwickelt. Nach Platzierungen im Spitzenfeld von Investmentwettbewerben legte er den Schwerpunkt darauf, die Informationsasymmetrie zu verringern, die Anleger bei der Marktanalyse erleben. Das Modell wurde als System vorgestellt, das seine Bewertungskriterien je nach Marktzustand selbst verändert, verschiedene Finanzinformationen zusammen auswertet und diese Analyse mit tatsächlichen Anlageentscheidungen verknüpft. Der Schüler erklärte, er wolle die Schwierigkeiten einzelner Anleger beim Interpretieren großer Mengen an Finanzinformationen reduzieren. Nun richtet sich der Blick darauf, ob das Modell als Hilfsmittel für Anlageentscheidungen genutzt werden kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un lycéen développe une IA d’analyse des actions américaines pour réduire l’asymétrie d’information",
+        "excerpt": "Un élève de terminale ayant commencé à investir au collège a créé un modèle d’IA pour analyser les actions américaines, fort de résultats de premier plan dans des concours d’investissement.",
+        "body": "Un élève de terminale qui a commencé à investir en troisième année de collège a développé, à partir de son expérience, un modèle d’IA destiné à analyser les actions américaines. Après s’être classé dans le haut du tableau lors de concours d’investissement, il a orienté son projet vers la réduction de l’asymétrie d’information rencontrée par les investisseurs dans l’analyse de marché. Le modèle a été présenté comme un système capable de modifier lui-même ses critères de jugement selon l’état du marché, d’interpréter de manière globale plusieurs informations financières et de relier cette analyse à de véritables décisions d’investissement. L’élève a indiqué vouloir réduire la difficulté des investisseurs particuliers à traiter de vastes volumes d’informations financières. Reste à voir si ce modèle pourra servir d’outil d’aide à la décision d’investissement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طالب ثانوي يطوّر نموذج ذكاء اصطناعي لتحليل الأسهم الأميركية وتقليص فجوة المعلومات",
+        "excerpt": "طالب في السنة الأخيرة من الثانوية بدأ الاستثمار في الصف الثالث المتوسط طوّر نموذج ذكاء اصطناعي لتحليل الأسهم الأميركية مستنداً إلى خبرة بارزة في مسابقات الاستثمار.",
+        "body": "طوّر طالب في السنة الأخيرة من المرحلة الثانوية، كان قد بدأ الاستثمار في الصف الثالث من المرحلة المتوسطة، نموذج ذكاء اصطناعي لتحليل الأسهم الأميركية اعتماداً على خبرته الاستثمارية. واستند الطالب إلى تجربته في تحقيق مراكز متقدمة جداً في مسابقات الاستثمار، مركزاً على خفض عدم تماثل المعلومات الذي يواجهه المستثمرون أثناء تحليل السوق. وجرى تقديم النموذج بوصفه نظاماً يغيّر معايير الحكم الخاصة به وفق حالة السوق، ويفسر أنواعاً متعددة من المعلومات المالية بصورة شاملة، ثم يربط هذا التحليل بقرارات استثمار فعلية. وقال الطالب المطوّر إن هدفه هو تقليل الصعوبة التي يواجهها المستثمرون الأفراد عند تفسير كميات كبيرة من البيانات المالية. وتتركز الأنظار حالياً على ما إذا كان النموذج سيُستخدم أداة مساعدة في اتخاذ قرارات الاستثمار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिकी शेयर विश्लेषण AI बनाने वाले 12वीं के छात्र का लक्ष्य निवेश सूचना असमानता घटाना",
+        "excerpt": "कक्षा 9 से निवेश शुरू करने वाले 12वीं के एक छात्र ने निवेश प्रतियोगिताओं में शीर्ष प्रदर्शन के अनुभव के आधार पर अमेरिकी शेयर विश्लेषण के लिए AI मॉडल विकसित किया है।",
+        "body": "कक्षा 9 में निवेश शुरू करने वाले 12वीं के एक छात्र ने अपने निवेश अनुभव के आधार पर अमेरिकी शेयरों का विश्लेषण करने वाला AI मॉडल विकसित किया है। निवेश प्रतियोगिताओं में शीर्ष स्तर पर पहुंचने के अनुभव के बाद छात्र ने बाजार विश्लेषण में निवेशकों के सामने आने वाली सूचना असमानता को कम करने पर ध्यान दिया। इस AI मॉडल को ऐसे सिस्टम के रूप में पेश किया गया है जो बाजार की स्थिति के अनुसार अपने निर्णय मानदंड स्वयं बदलता है, विभिन्न वित्तीय सूचनाओं की समग्र व्याख्या करता है और उसे वास्तविक निवेश निर्णय से जोड़ता है। छात्र डेवलपर ने कहा कि वह व्यक्तिगत निवेशकों के लिए बड़ी मात्रा में वित्तीय जानकारी समझने की कठिनाई घटाना चाहता है। अब ध्यान इस पर है कि क्या यह मॉडल निवेश निर्णय में सहायक उपकरण के रूप में उपयोग हो सकेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Siswa SMA Kembangkan AI Analisis Saham AS untuk Kurangi Asimetri Informasi Investasi",
+        "excerpt": "Seorang siswa kelas akhir SMA yang mulai berinvestasi sejak kelas 3 SMP mengembangkan model AI analisis saham AS berdasarkan pengalaman meraih posisi atas dalam kompetisi investasi.",
+        "body": "Seorang siswa kelas akhir SMA yang mulai berinvestasi saat kelas 3 SMP mengembangkan model AI untuk menganalisis saham Amerika Serikat berdasarkan pengalaman investasinya. Berbekal pengalaman berada di jajaran teratas dalam kompetisi investasi, ia memfokuskan model ini pada pengurangan asimetri informasi yang dihadapi investor dalam proses analisis pasar. Model AI tersebut diperkenalkan sebagai sistem yang dapat mengubah sendiri kriteria penilaian sesuai kondisi pasar, menafsirkan berbagai informasi keuangan secara menyeluruh, dan menghubungkan hasil analisis itu dengan keputusan investasi nyata. Siswa pengembang mengatakan tujuannya adalah mengurangi kesulitan investor individu dalam memahami informasi keuangan dalam jumlah besar. Ke depan, model ini akan diperhatikan apakah dapat digunakan sebagai alat bantu pengambilan keputusan investasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d4798d4d1226",
+    "slug": "공무원노조-현행-수당제도-구조적-차별헌법소원-292528",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T10:04:58.650Z",
+    "updatedAt": "2026-05-14T10:04:58.650Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/society/12047951",
+    "canonicalUrl": "https://www.mk.co.kr/news/society/12047951",
+    "titleFingerprint": "8fc1953f589a1603fec12433136a515962800669",
+    "dedupKeys": [
+      "d4798d4d12265659a6469ee1d358fc949ccee898",
+      "8fc1953f589a1603fec12433136a515962800669",
+      "223a0cbdc061002a248b6e96f3e2c850a7b84543"
+    ],
+    "imageUrl": "/images/articles/d4798d4d1226.png",
+    "i18n": {
+      "ko": {
+        "title": "공무원노조, 시간외근무수당 ‘구조적 차별’ 주장하며 헌법소원 청구…평등권 침해 쟁점",
+        "excerpt": "전국공무원노조가 14일 현행 시간 외 근무수당 제도가 평등권과 인간의 존엄성을 침해한다며 서울 종로구 헌법재판소에 헌법소원을 청구했다.",
+        "body": "전국공무원노조는 14일 서울 종로구 헌법재판소 청사에서 현행 시간 외 근무수당 제도가 헌법상 평등권과 인간의 존엄성을 침해한다며 헌법소원을 청구했다. 노조는 이 제도가 공무원에게 구조적 차별을 만들고 있다고 주장하며 헌재 판단을 요구했다. 이번 청구의 핵심은 시간 외 근무에 대한 보상 체계가 헌법이 보장하는 기본권 기준에 부합하는지 여부다. 헌법소원 제기로 수당 제도와 공무원 노동 보상 문제는 헌재 절차에서 다뤄지게 됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Civil Servants’ Union Files Constitutional Petition Over Overtime Allowance System",
+        "excerpt": "The Korean Government Employees’ Union filed a constitutional petition on the 14th, saying the current overtime allowance system violates equality rights and human dignity.",
+        "body": "The Korean Government Employees’ Union filed a constitutional petition on the 14th at the Constitutional Court in Jongno-gu, Seoul, arguing that the current overtime allowance system infringes on the constitutional right to equality and human dignity. The union said the system creates structural discrimination against civil servants and asked the court to review it. The central issue is whether the compensation framework for overtime work meets the standards of basic rights guaranteed by the Constitution. With the petition, the allowance system and compensation for civil servants’ labor will be addressed through Constitutional Court procedures. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "公務員労組、時間外勤務手当制度は「構造的差別」として憲法訴願を請求",
+        "excerpt": "全国公務員労組は14日、現行の時間外勤務手当制度が平等権と人間の尊厳を侵害しているとして、ソウル鍾路区の憲法裁判所に憲法訴願を請求した。",
+        "body": "全国公務員労組は14日、ソウル鍾路区の憲法裁判所庁舎で、現行の時間外勤務手当制度が憲法上の平等権と人間の尊厳を侵害しているとして憲法訴願を請求した。労組は、この制度が公務員に構造的差別を生んでいると主張し、憲法裁判所の判断を求めた。今回の請求の核心は、時間外勤務に対する補償体系が憲法の保障する基本権の基準に合致するかどうかだ。憲法訴願により、手当制度と公務員の労働補償問題は憲法裁判所の手続きで扱われることになった。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "公务员工会就加班津贴制度提起宪法诉愿，称存在“结构性歧视”",
+        "excerpt": "韩国全国公务员工会14日称，现行加班津贴制度侵犯宪法保障的平等权和人的尊严，并向首尔钟路区宪法法院提起宪法诉愿。",
+        "body": "韩国全国公务员工会14日在首尔钟路区宪法法院办公楼表示，现行加班津贴制度侵犯宪法上的平等权和人的尊严，并提起宪法诉愿。工会主张，该制度正在对公务员造成结构性歧视，要求宪法法院作出判断。此次诉愿的核心在于，加班劳动的补偿体系是否符合宪法所保障的基本权利标准。随着宪法诉愿提出，津贴制度以及公务员劳动补偿问题将进入宪法法院程序。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Sindicato de funcionarios presenta recurso constitucional por subsidio de horas extra",
+        "excerpt": "El Sindicato Nacional de Funcionarios de Corea presentó el día 14 una petición constitucional al afirmar que el sistema actual de pago por horas extra vulnera la igualdad y la dignidad humana.",
+        "body": "El Sindicato Nacional de Funcionarios de Corea presentó el día 14 una petición constitucional en la sede del Tribunal Constitucional, en Jongno-gu, Seúl, al sostener que el sistema actual de pago por horas extra vulnera el derecho constitucional a la igualdad y la dignidad humana. El sindicato afirmó que el sistema genera discriminación estructural contra los funcionarios y pidió una revisión del tribunal. El punto central es si el esquema de compensación por trabajo fuera de horario se ajusta a los derechos básicos garantizados por la Constitución. Con la petición, el régimen de subsidios y la compensación laboral de los funcionarios pasarán al procedimiento constitucional. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sindicato de servidores contesta adicional de hora extra por “discriminação estrutural”",
+        "excerpt": "O Sindicato Nacional dos Servidores Públicos da Coreia apresentou no dia 14 uma ação constitucional, alegando que o atual adicional de hora extra viola a igualdade e a dignidade humana.",
+        "body": "O Sindicato Nacional dos Servidores Públicos da Coreia apresentou no dia 14 uma ação constitucional na sede do Tribunal Constitucional, em Jongno-gu, Seul, afirmando que o atual sistema de adicional por horas extras viola o direito constitucional à igualdade e à dignidade humana. O sindicato disse que o sistema cria discriminação estrutural contra servidores públicos e pediu uma decisão do tribunal. A questão central é se a forma de compensação pelo trabalho fora do horário atende aos padrões de direitos fundamentais garantidos pela Constituição. Com a ação, o sistema de adicionais e a compensação do trabalho dos servidores serão tratados no procedimento constitucional. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Beamtengewerkschaft reicht Verfassungsbeschwerde gegen Überstunden-Zulagen ein",
+        "excerpt": "Die landesweite Beamtengewerkschaft Koreas reichte am 14. eine Verfassungsbeschwerde ein, weil das aktuelle System der Überstundenvergütung Gleichheitsrechte und Menschenwürde verletze.",
+        "body": "Die landesweite Beamtengewerkschaft Koreas reichte am 14. am Verfassungsgericht in Jongno-gu, Seoul, eine Verfassungsbeschwerde ein. Sie argumentiert, das derzeitige System der Überstundenvergütung verletze das verfassungsrechtliche Gleichheitsrecht und die Menschenwürde. Die Gewerkschaft erklärte, das System schaffe strukturelle Diskriminierung gegenüber Beamten, und verlangte eine Entscheidung des Gerichts. Kern der Beschwerde ist die Frage, ob die Vergütung für Arbeit außerhalb der regulären Arbeitszeit den von der Verfassung garantierten Grundrechten entspricht. Damit werden Zulagensystem und Arbeitskompensation der Beamten im Verfahren des Verfassungsgerichts behandelt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le syndicat des fonctionnaires saisit la Cour sur les indemnités d’heures supplémentaires",
+        "excerpt": "Le Syndicat national des fonctionnaires coréens a déposé le 14 un recours constitutionnel, estimant que le régime actuel des heures supplémentaires viole l’égalité et la dignité humaine.",
+        "body": "Le Syndicat national des fonctionnaires coréens a déposé le 14 un recours constitutionnel au siège de la Cour constitutionnelle, à Jongno-gu, Séoul. Il affirme que le régime actuel d’indemnisation des heures supplémentaires porte atteinte au droit constitutionnel à l’égalité et à la dignité humaine. Le syndicat soutient que ce système crée une discrimination structurelle à l’encontre des fonctionnaires et demande une décision de la Cour. L’enjeu principal est de savoir si le dispositif de compensation du travail au-delà des horaires respecte les droits fondamentaux garantis par la Constitution. Ce recours place désormais le régime des indemnités et la compensation du travail des fonctionnaires dans la procédure constitutionnelle. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نقابة الموظفين العموميين تطعن دستوريا في نظام بدل العمل الإضافي وتصفه بالتمييز البنيوي",
+        "excerpt": "قدمت نقابة الموظفين العموميين في كوريا يوم 14 التماسا دستوريا، قائلة إن نظام بدل العمل الإضافي الحالي ينتهك حق المساواة والكرامة الإنسانية.",
+        "body": "قدمت نقابة الموظفين العموميين في كوريا يوم 14 التماسا دستوريا في مقر المحكمة الدستورية في جونغنو-غو بسيول، معتبرة أن نظام بدل العمل الإضافي الحالي ينتهك حق المساواة الدستوري والكرامة الإنسانية. وقالت النقابة إن هذا النظام يخلق تمييزا بنيويا ضد الموظفين العموميين، وطلبت من المحكمة الدستورية النظر فيه. وتتمحور القضية حول ما إذا كان نظام التعويض عن العمل خارج ساعات الدوام يتوافق مع معايير الحقوق الأساسية التي يكفلها الدستور. وبموجب الالتماس، ستنظر المحكمة في نظام البدلات وتعويض عمل الموظفين العموميين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सरकारी कर्मचारी संघ ने ओवरटाइम भत्ता व्यवस्था को ‘संरचनात्मक भेदभाव’ बताया",
+        "excerpt": "कोरिया के राष्ट्रीय सरकारी कर्मचारी संघ ने 14 तारीख को संवैधानिक याचिका दायर कर कहा कि मौजूदा ओवरटाइम भत्ता व्यवस्था समानता के अधिकार और मानवीय गरिमा का उल्लंघन करती है।",
+        "body": "कोरिया के राष्ट्रीय सरकारी कर्मचारी संघ ने 14 तारीख को सियोल के जोंगनो-गु स्थित संवैधानिक न्यायालय परिसर में संवैधानिक याचिका दायर की। संघ का कहना है कि मौजूदा ओवरटाइम भत्ता व्यवस्था संविधान में निहित समानता के अधिकार और मानवीय गरिमा का उल्लंघन करती है। संघ ने दावा किया कि यह व्यवस्था सरकारी कर्मचारियों के लिए संरचनात्मक भेदभाव पैदा करती है और न्यायालय से निर्णय की मांग की। इस याचिका का मुख्य प्रश्न यह है कि ओवरटाइम काम के लिए मुआवजे की प्रणाली संविधान द्वारा गारंटीकृत मूल अधिकारों के अनुरूप है या नहीं। याचिका के बाद भत्ता व्यवस्था और सरकारी कर्मचारियों के श्रम मुआवजे का मुद्दा संवैधानिक न्यायालय की प्रक्रिया में जाएगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Serikat PNS Gugat Sistem Tunjangan Lembur, Sebut Ada Diskriminasi Struktural",
+        "excerpt": "Serikat Pegawai Negeri Korea pada tanggal 14 mengajukan permohonan konstitusional karena sistem tunjangan lembur saat ini dinilai melanggar hak kesetaraan dan martabat manusia.",
+        "body": "Serikat Pegawai Negeri Korea pada tanggal 14 mengajukan permohonan konstitusional di gedung Mahkamah Konstitusi di Jongno-gu, Seoul. Mereka menyatakan bahwa sistem tunjangan lembur saat ini melanggar hak kesetaraan menurut konstitusi dan martabat manusia. Serikat menilai sistem tersebut menciptakan diskriminasi struktural terhadap pegawai negeri dan meminta Mahkamah Konstitusi memberikan penilaian. Inti permohonan ini adalah apakah skema kompensasi untuk kerja di luar jam kerja sesuai dengan standar hak dasar yang dijamin konstitusi. Dengan pengajuan ini, sistem tunjangan dan kompensasi kerja pegawai negeri akan dibahas melalui prosedur Mahkamah Konstitusi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0077e18191fa",
+    "slug": "16조-사업인데-평판-얼마나-안좋으면호주-91층-트럼프타워-건설-무산-848097",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-14T10:03:42.759Z",
+    "updatedAt": "2026-05-14T10:03:42.759Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12047963",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12047963",
+    "titleFingerprint": "dad5dd47d1b0e458b7033c12af6a9e89622b697a",
+    "dedupKeys": [
+      "0077e18191fa325dbbda088c29f33ecc32cac4d7",
+      "dad5dd47d1b0e458b7033c12af6a9e89622b697a",
+      "1f91966384af2f0ac4c8d8590d8fa9be2360d872"
+    ],
+    "imageUrl": "/images/articles/0077e18191fa.jpg",
+    "i18n": {
+      "ko": {
+        "title": "호주 91층 트럼프타워 무산, 1.6조 초고층 호텔·아파트 계획 접었다",
+        "excerpt": "호주 동부 해안에서 11억 달러를 들여 추진되던 91층 트럼프 브랜드 호텔·아파트 사업이 14일 현지 반대 여론 등으로 무산됐다.",
+        "body": "호주 동부 해안에서 약 11억 달러, 우리 돈 약 1조6408억원을 투입해 추진되던 91층 규모의 트럼프 브랜드 초고층 호텔·아파트 건설 사업이 무산됐다. 14일 현지시간 알려진 이 사업은 트럼프 브랜드를 앞세운 대형 부동산 개발 계획이었지만, 현지 반대 여론 등이 부담으로 작용한 것으로 전해졌다. 사업 규모는 약 1조6000억원대에 달해 지역 개발과 고급 숙박·주거 시장에 미칠 영향이 주목됐으나, 계획이 접히면서 관련 기대도 함께 낮아졌다. 향후 같은 지역에서 유사한 초고층 개발이 추진될 경우 주민 여론과 브랜드 평판이 핵심 변수로 남을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Australia’s 91-Story Trump Tower Plan Scrapped as $1.1 Billion Project Falls Through",
+        "excerpt": "A $1.1 billion plan to build a 91-story Trump-branded hotel and apartment tower on Australia’s east coast was scrapped on the 14th amid local opposition.",
+        "body": "A plan to build a 91-story Trump-branded hotel and apartment tower on Australia’s east coast has fallen through. The project, valued at about $1.1 billion, or roughly 1.6408 trillion won, was reported on the 14th local time to have been scrapped amid local opposition and related concerns. The development had drawn attention as a large-scale real estate project using the Trump brand, with potential implications for local development and the high-end lodging and residential market. With the plan now abandoned, expectations tied to the project have also weakened. If similar high-rise developments are pursued in the area, local public sentiment and brand reputation are likely to remain key factors. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "豪州91階トランプタワー計画が白紙に、1.1兆ウォン超事業が頓挫",
+        "excerpt": "豪州東部海岸で11億ドルを投じて進められていた91階建てトランプブランドのホテル・住宅計画が、14日に現地の反対世論などで白紙となった。",
+        "body": "豪州東部海岸で約11億ドル、韓国ウォンで約1兆6408億ウォンを投じて進められていた91階建てのトランプブランド超高層ホテル・アパート建設計画が白紙となった。14日現地時間に伝えられた同事業は、トランプブランドを掲げた大型不動産開発計画だったが、現地の反対世論などが負担になったとみられる。事業規模は1兆6000億ウォン台に達し、地域開発や高級宿泊・住宅市場への影響が注目されていた。しかし計画が撤回されたことで、関連する期待も後退した。今後同地域で同様の超高層開発が進められる場合、住民世論とブランド評価が重要な変数になりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "澳大利亚91层特朗普塔计划告吹，11亿美元酒店公寓项目搁浅",
+        "excerpt": "澳大利亚东海岸拟投资11亿美元建设的91层特朗普品牌酒店和公寓项目，因当地反对舆论等因素于当地时间14日告吹。",
+        "body": "澳大利亚东海岸一项拟投资约11亿美元、约合1.6408万亿韩元的91层特朗普品牌超高层酒店和公寓建设项目已经告吹。据当地时间14日消息，该项目原本是打出特朗普品牌的大型房地产开发计划，但当地反对舆论等因素被认为构成了压力。该项目规模达到约1.6万亿韩元，曾因可能影响当地开发以及高端住宿和住宅市场而受到关注。随着计划被撤回，相关期待也随之降温。今后若该地区推进类似超高层开发，居民舆论和品牌声誉预计仍将是关键变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Australia cancela la Torre Trump de 91 pisos y frena un proyecto de US$1.100 millones",
+        "excerpt": "Un plan de US$1.100 millones para construir un hotel y apartamentos de marca Trump de 91 pisos en la costa este de Australia fue cancelado el día 14 por oposición local.",
+        "body": "Un proyecto para construir una torre de 91 pisos con hotel y apartamentos de marca Trump en la costa este de Australia quedó cancelado. La iniciativa, valorada en unos US$1.100 millones, aproximadamente 1,6408 billones de wones, fue reportada el día 14, hora local, como suspendida por la oposición de la opinión pública local y otros factores. El plan había llamado la atención como un gran desarrollo inmobiliario vinculado a la marca Trump, con posibles efectos sobre el desarrollo regional y el mercado residencial y hotelero de alta gama. Al retirarse el proyecto, también disminuyen las expectativas asociadas. Si se impulsan desarrollos similares en la zona, la opinión de los residentes y la reputación de la marca seguirán siendo variables clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Austrália barra Torre Trump de 91 andares e projeto de US$ 1,1 bilhão é cancelado",
+        "excerpt": "Um projeto de US$ 1,1 bilhão para erguer hotel e apartamentos Trump de 91 andares na costa leste da Austrália foi cancelado no dia 14 após oposição local.",
+        "body": "Um plano para construir uma torre de 91 andares com hotel e apartamentos da marca Trump na costa leste da Austrália foi cancelado. O projeto, estimado em cerca de US$ 1,1 bilhão, ou aproximadamente 1,6408 trilhão de wones, foi informado no dia 14, horário local, como inviabilizado em meio à oposição da opinião pública local e outros fatores. A iniciativa chamava atenção como um grande desenvolvimento imobiliário ligado à marca Trump, com possíveis impactos no desenvolvimento regional e no mercado de hospedagem e moradia de alto padrão. Com o plano abandonado, as expectativas relacionadas também recuaram. Em futuros projetos semelhantes na região, a opinião dos moradores e a reputação da marca devem seguir como variáveis centrais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Australien stoppt 91-stöckigen Trump Tower: 1,1-Milliarden-Dollar-Projekt geplatzt",
+        "excerpt": "Ein 1,1 Milliarden Dollar schwerer Plan für ein 91-stöckiges Trump-Hotel mit Apartments an Australiens Ostküste wurde am 14. wegen lokaler Opposition gestoppt.",
+        "body": "An Australiens Ostküste ist ein Plan zum Bau eines 91-stöckigen, von der Marke Trump getragenen Hochhauskomplexes mit Hotel und Apartments gescheitert. Das Projekt hatte ein Volumen von rund 1,1 Milliarden Dollar, etwa 1,6408 Billionen Won, und wurde am 14. Ortszeit als aufgegeben gemeldet. Als Belastungsfaktor galt unter anderem die ablehnende Stimmung vor Ort. Die Entwicklung hatte als großes Immobilienvorhaben mit Trump-Branding Aufmerksamkeit erregt und hätte Auswirkungen auf die regionale Entwicklung sowie den Markt für hochwertige Unterkünfte und Wohnungen haben können. Mit dem Aus des Plans schwinden auch die damit verbundenen Erwartungen. Bei ähnlichen Hochhausprojekten in der Region dürften Bürgermeinung und Markenreputation wichtige Variablen bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Australie: la tour Trump de 91 étages annulée, un projet de 1,1 milliard de dollars échoue",
+        "excerpt": "Un projet de 1,1 milliard de dollars visant à bâtir un hôtel et des appartements Trump de 91 étages sur la côte est australienne a été annulé le 14 face à l’opposition locale.",
+        "body": "Un projet de construction d’une tour de 91 étages comprenant un hôtel et des appartements sous marque Trump sur la côte est de l’Australie a été abandonné. Évalué à environ 1,1 milliard de dollars, soit près de 1 640,8 milliards de wons, il a été signalé comme annulé le 14, heure locale, notamment en raison de l’opposition de l’opinion publique locale. Ce grand développement immobilier associé à la marque Trump suscitait l’attention pour ses effets possibles sur le développement régional et le marché du logement et de l’hébergement haut de gamme. Avec l’abandon du plan, les attentes liées au projet reculent aussi. Si des projets similaires sont relancés dans la région, l’opinion des habitants et la réputation de la marque resteront des facteurs clés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إلغاء برج ترامب من 91 طابقا في أستراليا ومشروع بـ1.1 مليار دولار يتعثر",
+        "excerpt": "أُلغي في 14 بالتوقيت المحلي مشروع بقيمة 1.1 مليار دولار لبناء فندق وشقق بعلامة ترامب من 91 طابقا على الساحل الشرقي لأستراليا وسط معارضة محلية.",
+        "body": "أُلغي مشروع لبناء برج فائق الارتفاع من 91 طابقا يضم فندقا وشققا بعلامة ترامب على الساحل الشرقي لأستراليا. وتبلغ قيمة المشروع نحو 1.1 مليار دولار، أي ما يقارب 1.6408 تريليون وون كوري، وورد في 14 بالتوقيت المحلي أنه تعثر بسبب الرأي العام المحلي المعارض وعوامل أخرى. كان المشروع يحظى بالاهتمام بوصفه خطة تطوير عقاري كبيرة تحمل علامة ترامب، مع آثار محتملة على التنمية المحلية وسوق الإقامة والسكن الفاخر. ومع التخلي عن الخطة، تراجعت أيضا التوقعات المرتبطة بها. وإذا طُرحت مشاريع شاهقة مماثلة في المنطقة مستقبلا، فمن المرجح أن يبقى موقف السكان وسمعة العلامة عاملين حاسمين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ऑस्ट्रेलिया में 91 मंजिला ट्रंप टावर योजना रद्द, 1.1 अरब डॉलर का प्रोजेक्ट अटका",
+        "excerpt": "ऑस्ट्रेलिया के पूर्वी तट पर 1.1 अरब डॉलर से बनने वाले 91 मंजिला ट्रंप ब्रांड होटल और अपार्टमेंट प्रोजेक्ट को 14 तारीख को स्थानीय विरोध के बीच रद्द कर दिया गया।",
+        "body": "ऑस्ट्रेलिया के पूर्वी तट पर लगभग 1.1 अरब डॉलर, यानी करीब 1.6408 ट्रिलियन वॉन, की लागत से प्रस्तावित 91 मंजिला ट्रंप ब्रांड होटल और अपार्टमेंट परियोजना रद्द हो गई है। स्थानीय समयानुसार 14 तारीख को सामने आई जानकारी के अनुसार, यह ट्रंप ब्रांड को आगे रखकर बनाई गई बड़ी रियल एस्टेट विकास योजना थी, लेकिन स्थानीय विरोधी जनमत सहित कई कारणों ने दबाव बढ़ाया। परियोजना का आकार करीब 1.6 ट्रिलियन वॉन से अधिक था, इसलिए क्षेत्रीय विकास और उच्च श्रेणी के आवास व होटल बाजार पर इसके प्रभाव को लेकर ध्यान था। योजना रद्द होने से उससे जुड़ी उम्मीदें भी कम हुई हैं। आगे इसी क्षेत्र में ऐसे ऊंचे विकास प्रस्तावों के लिए निवासियों की राय और ब्रांड प्रतिष्ठा प्रमुख कारक रहेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Australia Batalkan Trump Tower 91 Lantai, Proyek US$1,1 Miliar Kandas",
+        "excerpt": "Proyek US$1,1 miliar untuk membangun hotel dan apartemen bermerek Trump 91 lantai di pantai timur Australia batal pada tanggal 14 akibat penolakan lokal.",
+        "body": "Rencana pembangunan hotel dan apartemen supertinggi bermerek Trump setinggi 91 lantai di pantai timur Australia batal terlaksana. Proyek senilai sekitar US$1,1 miliar, atau kira-kira 1,6408 triliun won, dilaporkan pada tanggal 14 waktu setempat kandas di tengah penolakan opini publik lokal dan faktor terkait lainnya. Rencana ini sebelumnya menarik perhatian sebagai proyek pengembangan properti besar yang mengusung merek Trump, dengan potensi dampak terhadap pembangunan kawasan serta pasar hunian dan akomodasi kelas atas. Dengan dibatalkannya proyek tersebut, ekspektasi yang menyertainya ikut mereda. Jika pengembangan supertinggi serupa kembali diajukan di wilayah itu, opini warga dan reputasi merek kemungkinan tetap menjadi variabel utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d85cb89cc426",
     "slug": "習-트럼프에-투키디데스-함정-넘어야-253777",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Cho Jung-sik Terpilih Jadi Kandidat Ketua Paruh Kedua Majelis Nasional ke-22",
         "excerpt": "Anggota parlemen enam periode dari Partai Demokrat Korea, Cho Jung-sik, terpilih sebagai kandidat ketua untuk memimpin paruh kedua Majelis Nasional ke-22 mulai tanggal 30 selama dua tahun.",
         "body": "Cho Jung-sik, anggota parlemen enam periode dari Partai Demokrat Korea, terpilih sebagai kandidat ketua Majelis Nasional untuk memimpin paruh kedua Majelis Nasional ke-22. Cho mewakili daerah pemilihan Siheung B di Provinsi Gyeonggi dan akan memegang peran ketua pada paruh kedua masa kerja parlemen. Dengan pemilihan ini, ia akan menggantikan Ketua Woo Won-shik dan menjalankan jabatan selama dua tahun mulai tanggal 30. Ketua Majelis Nasional bertanggung jawab atas penyelenggaraan sidang pleno dan jalannya agenda legislatif, sehingga peran ini menjadi pusat pengelolaan parlemen. Laporan asli menyebut Cho terpilih sebagai kandidat ketua paruh kedua Majelis Nasional ke-22, dengan masa jabatan dua tahun mulai tanggal 30. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "17b3214d986f",
-    "slug": "최태원노소영-재산분할-1차-조정-불발-398176",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T17:53:16.575Z",
-    "updatedAt": "2026-05-13T17:53:16.575Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12046521",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12046521",
-    "titleFingerprint": "a7ffdf0d308b80602bfb48fa9b43bdca67af3a85",
-    "dedupKeys": [
-      "17b3214d986f7948e8dd03df435c1c17d2c30685",
-      "a7ffdf0d308b80602bfb48fa9b43bdca67af3a85",
-      "34f0693ed938447476dc508728352135e4545f38"
-    ],
-    "imageUrl": "/images/articles/17b3214d986f.png",
-    "i18n": {
-      "ko": {
-        "title": "최태원·노소영 재산분할 1차 조정 불발, SK 지분 분할 여부가 핵심 쟁점",
-        "excerpt": "최태원 SK그룹 회장과 노소영 아트센터 나비 관장이 이혼에 따른 수조원대 재산분할 1차 조정에서 합의하지 못하고 추가 조정기일을 잡아 논의를 이어가기로 했다.",
-        "body": "최태원 SK그룹 회장과 노소영 아트센터 나비 관장이 이혼에 따른 수조원대 재산분할을 두고 열린 1차 조정에서 의견차를 좁히지 못했다. 양측은 추가 조정기일을 잡아 논의를 이어가기로 했다. 쟁점은 재산분할 범위에 SK그룹 지분을 포함할지 여부로 전해졌다. 이번 조정은 이혼 이후 재산분할 규모와 방식이 핵심인 절차다. 합의가 이뤄지지 않으면서 향후 조정에서 양측 입장 차가 얼마나 좁혀질지가 관건이 됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Chey Tae-won and Roh So-young Fail First Property Split Mediation Over SK Stake Issue",
-        "excerpt": "SK Group Chairman Chey Tae-won and Art Center Nabi director Roh So-young failed to reach agreement in the first mediation over a multitrillion-won divorce property division.",
-        "body": "SK Group Chairman Chey Tae-won and Art Center Nabi director Roh So-young failed to narrow their differences in the first mediation session over a multitrillion-won property division following their divorce. The two sides agreed to set an additional mediation date and continue discussions. The key issue is reportedly whether SK Group shares should be included in the assets subject to division. The proceeding centers on the size and method of the post-divorce property split. With no agreement reached, attention now turns to whether the gap between the two sides can be narrowed in the next round. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "崔泰源氏と盧素英氏、財産分与の初回調停が不成立　SK株式分割が争点",
-        "excerpt": "SKグループの崔泰源会長とアートセンター・ナビの盧素英館長は、離婚に伴う数兆ウォン規模の財産分与をめぐる初回調停で合意に至らなかった。",
-        "body": "SKグループの崔泰源会長とアートセンター・ナビの盧素英館長は、離婚に伴う数兆ウォン規模の財産分与をめぐって開かれた初回調停で意見の隔たりを埋められなかった。双方は追加の調停期日を設定し、協議を続けることにした。争点は、財産分与の対象にSKグループ株式を含めるかどうかとされる。今回の手続きは、離婚後の財産分与の規模と方法が中心となる。合意に至らなかったことで、今後の調停で双方の立場の差がどこまで縮まるかが焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "崔泰源与卢素英财产分割首次调解未果，SK股权是否纳入成焦点",
-        "excerpt": "SK集团会长崔泰源与Art Center Nabi馆长卢素英在离婚后数万亿韩元财产分割的首次调解中未能达成一致，将继续安排调解。",
-        "body": "SK集团会长崔泰源与Art Center Nabi馆长卢素英围绕离婚后的数万亿韩元财产分割，在首次调解中未能缩小分歧。双方决定另行安排调解日期，继续进行讨论。据悉，核心争议在于财产分割范围是否应包括SK集团股权。此次调解程序的重点，是离婚后财产分割的规模与方式。由于尚未达成协议，后续调解中双方立场差距能否缩小，将成为关注焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Chey Tae-won y Roh So-young no logran acuerdo inicial sobre bienes y acciones de SK",
-        "excerpt": "Chey Tae-won, presidente de SK Group, y Roh So-young, directora de Art Center Nabi, no alcanzaron acuerdo en la primera mediación por una división patrimonial de billones de wones.",
-        "body": "Chey Tae-won, presidente de SK Group, y Roh So-young, directora de Art Center Nabi, no lograron reducir sus diferencias en la primera mediación sobre la división de bienes por billones de wones tras su divorcio. Ambas partes acordaron fijar una nueva fecha de mediación y continuar las conversaciones. El punto clave sería si las acciones de SK Group deben incluirse dentro de los activos sujetos a división. El procedimiento se centra en el tamaño y la forma del reparto patrimonial posterior al divorcio. Al no haber acuerdo, la atención se dirige ahora a cuánto podrán acercarse las posiciones en la próxima ronda. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Chey Tae-won e Roh So-young não chegam a acordo inicial sobre bens e participação na SK",
-        "excerpt": "Chey Tae-won, presidente do SK Group, e Roh So-young, diretora do Art Center Nabi, não chegaram a acordo na primeira mediação sobre a divisão bilionária de bens do divórcio.",
-        "body": "Chey Tae-won, presidente do SK Group, e Roh So-young, diretora do Art Center Nabi, não conseguiram reduzir as diferenças na primeira mediação sobre a divisão de bens de vários trilhões de wons após o divórcio. As partes decidiram marcar uma nova data de mediação e continuar as discussões. O ponto central é, segundo informado, se as ações do SK Group devem ser incluídas nos bens a dividir. O procedimento trata do tamanho e da forma da partilha patrimonial pós-divórcio. Sem acordo, a questão passa a ser se as posições poderão se aproximar nas próximas conversas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Chey Tae-won und Roh So-young scheitern in erster Vermögensteilung, SK-Anteile im Fokus",
-        "excerpt": "SK-Group-Chef Chey Tae-won und Art-Center-Nabi-Direktorin Roh So-young erzielten in der ersten Mediation über die milliardenschwere Vermögensteilung keine Einigung.",
-        "body": "SK-Group-Vorsitzender Chey Tae-won und Roh So-young, Direktorin des Art Center Nabi, konnten in der ersten Mediation über die Vermögensteilung in Höhe von mehreren Billionen Won nach ihrer Scheidung keine Annäherung erzielen. Beide Seiten wollen einen weiteren Mediationstermin ansetzen und die Gespräche fortführen. Als zentraler Streitpunkt gilt, ob Anteile an der SK Group in die zu teilenden Vermögenswerte einbezogen werden. Das Verfahren dreht sich um Umfang und Methode der Vermögensteilung nach der Scheidung. Da keine Einigung zustande kam, richtet sich der Blick nun auf mögliche Fortschritte in der nächsten Runde. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Chey Tae-won et Roh So-young sans accord initial sur le partage, les parts SK au centre",
-        "excerpt": "Chey Tae-won, président de SK Group, et Roh So-young, directrice d’Art Center Nabi, n’ont pas trouvé d’accord lors de la première médiation sur un partage de biens de plusieurs milliers de milliards de wons.",
-        "body": "Chey Tae-won, président de SK Group, et Roh So-young, directrice d’Art Center Nabi, n’ont pas réussi à rapprocher leurs positions lors de la première médiation sur le partage de biens de plusieurs milliers de milliards de wons après leur divorce. Les deux parties ont décidé de fixer une nouvelle date de médiation afin de poursuivre les discussions. Le principal point de désaccord porterait sur l’inclusion éventuelle des actions de SK Group dans les actifs à partager. La procédure concerne le montant et les modalités du partage patrimonial post-divorce. Faute d’accord, l’attention se porte désormais sur la prochaine étape de médiation. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "فشل أول وساطة بين تشوي تاي وون ورو سو يونغ بشأن تقسيم الثروة وحصة SK محور الخلاف",
-        "excerpt": "لم يتوصل رئيس مجموعة SK تشوي تاي وون ومديرة مركز آرت سنتر نابي رو سو يونغ إلى اتفاق في أول وساطة بشأن تقسيم أصول بمبالغ تقدر بتريليونات الوون بعد الطلاق.",
-        "body": "لم يتمكن رئيس مجموعة SK تشوي تاي وون ومديرة مركز آرت سنتر نابي رو سو يونغ من تضييق الخلاف في أول جلسة وساطة بشأن تقسيم أصول تقدر بتريليونات الوون بعد الطلاق. واتفق الطرفان على تحديد موعد وساطة إضافي لمواصلة النقاش. وتتمثل نقطة الخلاف الأساسية، بحسب ما ورد، في ما إذا كان ينبغي إدراج أسهم مجموعة SK ضمن الأصول الخاضعة للتقسيم. وتتركز الإجراءات على حجم وطريقة تقسيم الممتلكات بعد الطلاق. ومع عدم التوصل إلى اتفاق، ينصب الاهتمام الآن على مدى إمكانية تقارب مواقف الطرفين في الجولة المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चेय ताए-वोन और रो सो-यंग की संपत्ति बंटवारे पर पहली मध्यस्थता विफल, SK हिस्सेदारी मुद्दा",
-        "excerpt": "SK Group के चेयरमैन चेय ताए-वोन और Art Center Nabi की निदेशक रो सो-यंग तलाक के बाद कई ट्रिलियन वॉन की संपत्ति बंटवारे पर पहली मध्यस्थता में सहमत नहीं हो सके।",
-        "body": "SK Group के चेयरमैन चेय ताए-वोन और Art Center Nabi की निदेशक रो सो-यंग तलाक के बाद कई ट्रिलियन वॉन की संपत्ति के बंटवारे पर हुई पहली मध्यस्थता में अपने मतभेद कम नहीं कर सके। दोनों पक्षों ने अतिरिक्त मध्यस्थता तिथि तय कर चर्चा जारी रखने का निर्णय लिया। मुख्य मुद्दा यह बताया गया है कि SK Group की हिस्सेदारी को विभाज्य संपत्ति में शामिल किया जाए या नहीं। यह प्रक्रिया तलाक के बाद संपत्ति बंटवारे के आकार और तरीके पर केंद्रित है। समझौता न होने के बाद अब ध्यान इस बात पर है कि अगली मध्यस्थता में दोनों पक्षों के रुख कितने करीब आते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Chey Tae-won dan Roh So-young Gagal Mediasi Awal Pembagian Aset, Saham SK Jadi Isu",
-        "excerpt": "Ketua SK Group Chey Tae-won dan Direktur Art Center Nabi Roh So-young belum mencapai kesepakatan dalam mediasi pertama soal pembagian aset perceraian bernilai triliunan won.",
-        "body": "Ketua SK Group Chey Tae-won dan Direktur Art Center Nabi Roh So-young gagal mempersempit perbedaan pendapat dalam mediasi pertama terkait pembagian aset bernilai triliunan won setelah perceraian mereka. Kedua pihak sepakat menetapkan jadwal mediasi tambahan untuk melanjutkan pembahasan. Isu utama disebut berkaitan dengan apakah saham SK Group harus dimasukkan dalam aset yang dibagi. Proses ini berfokus pada besaran dan cara pembagian harta setelah perceraian. Karena belum ada kesepakatan, perhatian kini tertuju pada apakah posisi kedua pihak dapat semakin mendekat dalam mediasi berikutnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f36b62bc6d9a",
-    "slug": "일본-시장-30년만에-재도전합니다승용차-대신-다른-것-들고-온-기아-970991",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T17:52:20.183Z",
-    "updatedAt": "2026-05-13T17:52:20.183Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046537",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046537",
-    "titleFingerprint": "8ce4bfe439a249da5a8a768c953fd34a830093eb",
-    "dedupKeys": [
-      "f36b62bc6d9a135e8506e0cbb0f63def47f13918",
-      "8ce4bfe439a249da5a8a768c953fd34a830093eb",
-      "fd86dd8c717a4abc833a66cc5b2ef63fb9ee51da"
-    ],
-    "imageUrl": "/images/articles/f36b62bc6d9a.png",
-    "i18n": {
-      "ko": {
-        "title": "기아 PV5로 일본 시장 30년 만에 재도전, 승용차 대신 전기 상용밴",
-        "excerpt": "기아가 목적기반차량 PBV ‘PV5’를 앞세워 일본 시장 공략에 나섰다. 승용차가 아닌 전기 상용밴으로 틈새시장을 노리며 올해 1000대 판매 목표를 제시했다.",
-        "body": "기아가 목적기반차량(PBV) ‘PV5’를 앞세워 일본 시장 공략에 본격 나섰다. 1990년대 이후 약 30년 만의 재도전으로, 이번에는 승용차가 아니라 전기 상용밴을 전면에 내세웠다. 기아는 일본에서 PV5를 공개하며 상용 전기차 수요가 있는 틈새시장을 먼저 선점하는 데 의미가 있다고 설명했다. 올해 판매 목표는 1000대로 제시됐다. 일본 자동차 시장은 현지 브랜드 영향력이 크지만, 기아는 PBV라는 차별화된 제품군으로 진입 기회를 모색한다. 향후 성과는 전기 상용밴 수요와 초기 판매 흐름에 달릴 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kia Returns to Japan After 30 Years With PV5 Electric Commercial Van",
-        "excerpt": "Kia is targeting Japan with its PBV model PV5, choosing an electric commercial van instead of passenger cars as it seeks a niche market and sets a 1,000-unit sales goal this year.",
-        "body": "Kia has begun a renewed push into the Japanese market with its purpose-built vehicle, the PV5. The move marks its first major challenge there in about 30 years since the 1990s, and this time Kia is leading not with passenger cars but with an electric commercial van. The company unveiled the PV5 in Japan and said the effort is meaningful as an attempt to secure an early position in a niche market with demand for commercial electric vehicles. Kia set a sales target of 1,000 units for this year. Although local brands hold strong influence in Japan’s auto market, Kia is seeking an entry point through a differentiated PBV lineup. Its results will depend on demand for electric commercial vans and early sales momentum. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "起亜、PV5で30年ぶり日本市場に再挑戦　乗用車ではなく電動商用バン",
-        "excerpt": "起亜はPBV『PV5』を前面に日本市場攻略へ動き出した。乗用車ではなく電動商用バンでニッチ市場を狙い、今年1000台の販売目標を示した。",
-        "body": "起亜が目的基盤車両（PBV）『PV5』を前面に掲げ、日本市場攻略に本格的に乗り出した。1990年代以来、約30年ぶりの再挑戦で、今回は乗用車ではなく電動商用バンを主力として打ち出す。起亜は日本でPV5を公開し、商用電気自動車の需要があるニッチ市場を先に押さえることに意味があると説明した。今年の販売目標は1000台とした。日本の自動車市場では現地ブランドの影響力が大きいが、起亜はPBVという差別化された製品群で参入機会を探る。今後の成果は電動商用バン需要と初期販売の流れに左右される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "起亚携PV5时隔30年再攻日本市场，不推乘用车改推电动商用厢式车",
-        "excerpt": "起亚以目的导向车型PBV“PV5”进军日本市场，不以乘用车为主，而是推出电动商用厢式车，瞄准细分市场，并提出今年销售1000辆目标。",
-        "body": "起亚正以目的导向车型（PBV）“PV5”为核心，正式展开对日本市场的攻势。这是其自20世纪90年代以来时隔约30年的再次挑战，而此次主打的不是乘用车，而是电动商用厢式车。起亚在日本公开PV5，并表示此举的意义在于率先占据存在商用电动车需求的细分市场。公司提出今年销售1000辆的目标。日本汽车市场中本土品牌影响力较强，但起亚希望通过PBV这一差异化产品线寻找切入机会。未来表现将取决于电动商用厢式车需求和初期销售走势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kia vuelve a Japón tras 30 años con la PV5, una van comercial eléctrica",
-        "excerpt": "Kia inició su ofensiva en Japón con la PBV PV5. En lugar de turismos, apuesta por una van comercial eléctrica para ocupar un nicho y fija una meta anual de 1.000 unidades.",
-        "body": "Kia inició formalmente su nueva ofensiva en el mercado japonés con la PV5, un vehículo de propósito específico (PBV). La apuesta marca su regreso tras unos 30 años desde la década de 1990, y esta vez la compañía no se presenta con turismos, sino con una van comercial eléctrica. Kia presentó la PV5 en Japón y explicó que la iniciativa tiene sentido como intento de asegurar primero un nicho donde existe demanda de vehículos comerciales eléctricos. La meta de ventas para este año es de 1.000 unidades. Aunque las marcas locales tienen gran peso en el mercado automotor japonés, Kia busca una oportunidad de entrada con una línea PBV diferenciada. Sus resultados dependerán de la demanda de vans comerciales eléctricas y del ritmo inicial de ventas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kia volta ao Japão após 30 anos com PV5, van comercial elétrica",
-        "excerpt": "A Kia avança no Japão com o PBV PV5. Em vez de carros de passeio, aposta em uma van comercial elétrica para mirar um nicho e define meta de 1.000 unidades neste ano.",
-        "body": "A Kia iniciou uma nova ofensiva no mercado japonês com o PV5, seu veículo de propósito específico (PBV). A iniciativa marca uma nova tentativa após cerca de 30 anos desde a década de 1990, e desta vez a empresa não lidera com carros de passeio, mas com uma van comercial elétrica. A Kia apresentou o PV5 no Japão e afirmou que a ação tem significado por buscar ocupar primeiro um nicho com demanda por veículos comerciais elétricos. A meta de vendas para este ano foi fixada em 1.000 unidades. Embora marcas locais tenham forte influência no mercado automotivo japonês, a Kia procura uma oportunidade de entrada com uma linha PBV diferenciada. O desempenho dependerá da demanda por vans comerciais elétricas e do ritmo inicial de vendas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kia startet nach 30 Jahren mit PV5 neu in Japan, statt Pkw mit Elektro-Transporter",
-        "excerpt": "Kia nimmt Japan mit dem PBV PV5 ins Visier. Statt Pkw setzt der Hersteller auf einen elektrischen Gewerbevan, zielt auf eine Nische und nennt 1.000 Verkäufe als Jahresziel.",
-        "body": "Kia hat mit dem Purpose Built Vehicle PV5 einen neuen Anlauf auf dem japanischen Markt begonnen. Es ist die erste größere Rückkehr seit den 1990er-Jahren, also nach rund 30 Jahren, und diesmal tritt Kia nicht mit Pkw an, sondern mit einem elektrischen Gewerbevan. Das Unternehmen stellte den PV5 in Japan vor und erklärte, der Schritt sei bedeutsam, weil man früh eine Nische mit Nachfrage nach elektrischen Nutzfahrzeugen besetzen wolle. Für dieses Jahr nannte Kia ein Verkaufsziel von 1.000 Einheiten. Zwar prägen einheimische Marken den japanischen Automarkt stark, doch Kia sucht mit der differenzierten PBV-Produktlinie eine Einstiegschance. Der weitere Erfolg dürfte von der Nachfrage nach elektrischen Gewerbevans und dem frühen Verkaufsverlauf abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kia revient au Japon après 30 ans avec le PV5, un van utilitaire électrique",
-        "excerpt": "Kia relance son offensive au Japon avec le PBV PV5. Plutôt que des voitures particulières, la marque mise sur un van utilitaire électrique et vise 1 000 ventes cette année.",
-        "body": "Kia a engagé une nouvelle offensive sur le marché japonais avec son véhicule à usage spécifique, le PV5. Cette démarche marque une nouvelle tentative environ 30 ans après les années 1990, et la marque ne met pas en avant des voitures particulières, mais un van utilitaire électrique. Kia a présenté le PV5 au Japon et expliqué que l’initiative avait du sens car elle vise à prendre position tôt sur une niche où existe une demande pour les véhicules utilitaires électriques. L’objectif de ventes pour cette année est fixé à 1 000 unités. Même si les marques locales exercent une forte influence sur le marché automobile japonais, Kia cherche une porte d’entrée grâce à une gamme PBV différenciée. Les résultats dépendront de la demande pour les vans utilitaires électriques et du rythme des premières ventes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كيا تعود إلى سوق اليابان بعد 30 عاما عبر PV5 وفان تجاري كهربائي",
-        "excerpt": "بدأت كيا استهداف السوق اليابانية بطرازها PBV PV5، ليس عبر سيارات ركوب بل بفان تجاري كهربائي، مع رهان على سوق متخصصة وهدف بيع 1000 وحدة هذا العام.",
-        "body": "بدأت كيا تحركا جديدا في السوق اليابانية من خلال مركبة الأغراض المحددة PBV «PV5». وتمثل الخطوة عودة إلى التحدي في اليابان بعد نحو 30 عاما منذ تسعينيات القرن الماضي، وهذه المرة لا تتقدم الشركة بسيارات ركوب بل بفان تجاري كهربائي. وكشفت كيا عن PV5 في اليابان، موضحة أن أهمية الخطوة تكمن في محاولة حجز موقع مبكر داخل سوق متخصصة يوجد فيها طلب على المركبات التجارية الكهربائية. وحددت الشركة هدفا لبيع 1000 وحدة هذا العام. ورغم قوة العلامات المحلية في سوق السيارات اليابانية، تبحث كيا عن فرصة دخول عبر فئة PBV المتميزة. وستعتمد النتائج المقبلة على طلب الفانات التجارية الكهربائية واتجاه المبيعات الأولية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Kia PV5 के साथ 30 साल बाद जापान में फिर उतरी, पैसेंजर कार नहीं इलेक्ट्रिक कमर्शियल वैन",
-        "excerpt": "किया ने PBV ‘PV5’ के साथ जापान बाजार पर फिर ध्यान दिया है। कंपनी पैसेंजर कारों के बजाय इलेक्ट्रिक कमर्शियल वैन से निश बाजार साध रही है और इस साल 1000 यूनिट बिक्री लक्ष्य रखा है।",
-        "body": "किया ने अपने पर्पस-बिल्ट व्हीकल (PBV) ‘PV5’ को आगे रखकर जापान बाजार में फिर सक्रिय कदम बढ़ाया है। 1990 के दशक के बाद करीब 30 साल में यह उसकी नई कोशिश है, और इस बार कंपनी पैसेंजर कारों के बजाय इलेक्ट्रिक कमर्शियल वैन को सामने ला रही है। किया ने जापान में PV5 पेश करते हुए कहा कि इस कदम का अर्थ ऐसे निश बाजार में पहले जगह बनाने से है, जहां कमर्शियल इलेक्ट्रिक वाहनों की मांग है। कंपनी ने इस साल 1000 यूनिट बिक्री का लक्ष्य रखा है। जापान के ऑटो बाजार में स्थानीय ब्रांडों का प्रभाव मजबूत है, लेकिन किया PBV जैसे अलग उत्पाद समूह से प्रवेश अवसर तलाश रही है। आगे का प्रदर्शन इलेक्ट्रिक कमर्शियल वैन की मांग और शुरुआती बिक्री प्रवाह पर निर्भर करेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kia Kembali ke Pasar Jepang Setelah 30 Tahun Lewat PV5, Van Komersial Listrik",
-        "excerpt": "Kia mulai membidik Jepang dengan PBV PV5. Bukan mobil penumpang, perusahaan membawa van komersial listrik untuk mengincar pasar ceruk dan menargetkan 1.000 unit tahun ini.",
-        "body": "Kia mulai bergerak serius memasuki kembali pasar Jepang dengan purpose-built vehicle (PBV) PV5. Langkah ini menjadi upaya baru setelah sekitar 30 tahun sejak era 1990-an, dan kali ini Kia tidak membawa mobil penumpang sebagai ujung tombak, melainkan van komersial listrik. Kia memperkenalkan PV5 di Jepang dan menyatakan bahwa langkah tersebut bermakna karena berupaya lebih dulu menguasai pasar ceruk yang memiliki permintaan kendaraan komersial listrik. Target penjualan tahun ini ditetapkan sebanyak 1.000 unit. Meski merek lokal sangat berpengaruh di pasar otomotif Jepang, Kia mencari peluang masuk melalui lini PBV yang berbeda. Kinerjanya ke depan akan bergantung pada permintaan van komersial listrik dan laju penjualan awal. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "511687bdd5f1",
-    "slug": "280만원-첫-월급-받아-중고-명품-샀어요다시-사는-사람들-211484",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-13T17:51:18.721Z",
-    "updatedAt": "2026-05-13T17:51:18.721Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12046591",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046591",
-    "titleFingerprint": "73d7df1f1862ac94cc472b4fc1eb7dd5377650eb",
-    "dedupKeys": [
-      "511687bdd5f1a4e4810166350efc2b942614b78f",
-      "73d7df1f1862ac94cc472b4fc1eb7dd5377650eb",
-      "7d4e88f3c7393850f9b83bc376839438a6e5ecb6"
-    ],
-    "imageUrl": "/images/articles/511687bdd5f1.png",
-    "i18n": {
-      "ko": {
-        "title": "2030 중고 명품 소비 확산, 첫 월급 280만원으로 산 선택은",
-        "excerpt": "올해 입사한 26세 박모 씨가 첫 월급 280만원으로 중고 명품을 구매한 사례처럼 2030세대가 중고 명품 시장의 주요 소비층으로 떠오르고 있다.",
-        "body": "올해 입사한 박모(26) 씨는 첫 월급 280만원으로 중고 명품을 구매했다. 백화점 신제품 대신 중고 패션을 선택한 이 사례는 2030세대가 중고 명품 시장의 큰 손으로 부상한 흐름을 보여준다. 원문은 중고 패션 시장이 신제품보다 빠르게 성장하고 있으며, 제품의 상태와 가격, 거래 방식을 이해하는 ‘리커머스 리터러시’ 소비 문화가 확산하고 있다고 전했다. 중고 명품 소비는 단순히 가격을 낮추는 선택을 넘어, 젊은 소비층의 합리적 구매 방식으로 자리 잡는 모습이다. 시장 성장 속도가 이어질 경우 2030세대 중심의 중고 패션 거래와 관련 서비스의 존재감도 커질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Young Koreans Drive Secondhand Luxury Demand With First Paychecks",
-        "excerpt": "A 26-year-old new employee who used her first monthly salary of 2.8 million won to buy secondhand luxury reflects the rise of young Korean consumers in resale fashion.",
-        "body": "Park, 26, who joined a company this year, used her first monthly salary of 2.8 million won to buy a secondhand luxury item. Her choice of resale fashion over a new department-store product illustrates how consumers in their 20s and 30s are becoming key players in the secondhand luxury market. The original report said secondhand fashion is growing faster than new products, while a consumer culture of “recommerce literacy,” or understanding product condition, price and transaction methods, is spreading. Secondhand luxury is becoming more than a lower-cost option; it is emerging as a rational purchasing style among younger consumers. If this growth continues, resale fashion transactions and related services led by people in their 20s and 30s are expected to gain more presence. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "20・30代に広がる中古ラグジュアリー、初任給280万ウォンの使い道",
-        "excerpt": "今年入社した26歳のパクさんが初任給280万ウォンで中古ラグジュアリー品を購入した事例は、20・30代が中古高級品市場の主要消費層になっている流れを示している。",
-        "body": "今年入社したパクさん（26）は、初任給280万ウォンで中古ラグジュアリー品を購入した。百貨店の新品ではなく中古ファッションを選んだこの事例は、20・30代が中古高級品市場の大きな購買層として浮上している流れを示す。原文は、中古ファッション市場が新品より速く成長しており、商品の状態や価格、取引方法を理解する「リコマース・リテラシー」という消費文化が広がっていると伝えた。中古ラグジュアリー消費は、単に価格を抑える選択を超え、若い消費者の合理的な購買方式として定着しつつある。成長が続けば、20・30代を中心とした中古ファッション取引と関連サービスの存在感も高まる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "20至30多岁消费者推动二手奢侈品，首月工资280万韩元这样花",
-        "excerpt": "今年入职的26岁朴某用首月工资280万韩元购买二手奢侈品，这一案例显示20至30多岁群体正成为二手奢侈品市场的重要消费力量。",
-        "body": "今年入职的朴某（26岁）用首月工资280万韩元购买了二手奢侈品。她没有选择百货商店新品，而是购买二手时尚商品，这一案例显示20至30多岁消费者正成为二手奢侈品市场的重要力量。原文称，二手时尚市场的增长速度快于新品，理解商品状态、价格和交易方式的“再商务素养”消费文化正在扩散。二手奢侈品消费已不只是降低价格的选择，也逐渐成为年轻消费者的理性购买方式。若市场增长势头持续，以20至30多岁群体为中心的二手时尚交易及相关服务的存在感预计将进一步增强。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jóvenes impulsan el lujo de segunda mano con su primer sueldo",
-        "excerpt": "Una empleada de 26 años que usó su primer salario mensual de 2,8 millones de wones para comprar lujo de segunda mano refleja el avance de los consumidores jóvenes en la moda resale.",
-        "body": "Park, de 26 años, que ingresó este año a una empresa, usó su primer salario mensual de 2,8 millones de wones para comprar un artículo de lujo de segunda mano. Su elección de moda resale en lugar de un producto nuevo de una tienda departamental muestra cómo los consumidores de 20 y 30 años se están convirtiendo en actores clave del mercado de lujo usado. El informe original señaló que la moda de segunda mano crece más rápido que los productos nuevos y que se expande una cultura de “alfabetización en recommerce”, basada en comprender el estado del producto, el precio y las formas de transacción. El lujo usado ya no es solo una opción de menor precio, sino una forma de compra racional entre los jóvenes. Si continúa el crecimiento, las transacciones y servicios asociados liderados por este grupo ganarán presencia. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Jovens impulsionam luxo de segunda mão com o primeiro salário",
-        "excerpt": "Uma funcionária de 26 anos que usou seu primeiro salário mensal de 2,8 milhões de won para comprar luxo de segunda mão mostra a força dos jovens no mercado resale.",
-        "body": "Park, de 26 anos, que começou a trabalhar este ano, usou seu primeiro salário mensal de 2,8 milhões de won para comprar um item de luxo de segunda mão. A escolha por moda usada em vez de um produto novo de loja de departamento mostra como consumidores na faixa dos 20 e 30 anos estão se tornando protagonistas do mercado de luxo usado. A reportagem original afirmou que a moda de segunda mão cresce mais rápido que os produtos novos e que se espalha uma cultura de “letramento em recommerce”, ligada à compreensão do estado do produto, do preço e dos métodos de transação. O luxo usado deixa de ser apenas uma opção mais barata e passa a se firmar como uma forma racional de compra entre jovens consumidores. Se o crescimento continuar, transações e serviços ligados à moda usada devem ganhar mais presença. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Junge Käufer treiben Secondhand-Luxus mit dem ersten Gehalt an",
-        "excerpt": "Eine 26-jährige Berufseinsteigerin kaufte mit ihrem ersten Monatsgehalt von 2,8 Millionen Won Secondhand-Luxus und zeigt damit die wachsende Rolle junger Käufer im Wiederverkaufsmarkt.",
-        "body": "Park, 26, die in diesem Jahr ihre Stelle antrat, kaufte mit ihrem ersten Monatsgehalt von 2,8 Millionen Won einen Secondhand-Luxusartikel. Ihre Entscheidung für gebrauchte Mode statt eines neuen Produkts aus dem Kaufhaus zeigt, wie Verbraucher in ihren 20ern und 30ern zu wichtigen Akteuren im Markt für gebrauchte Luxuswaren werden. Der Originalbericht erklärte, dass Secondhand-Mode schneller wächst als neue Produkte und dass sich eine Konsumkultur der „Recommerce Literacy“ verbreitet, also das Verständnis von Produktzustand, Preis und Transaktionsweise. Secondhand-Luxus ist damit nicht nur eine günstigere Wahl, sondern entwickelt sich zu einer rationalen Kaufmethode junger Verbraucher. Hält das Wachstum an, dürften von dieser Altersgruppe geprägte Secondhand-Modegeschäfte und zugehörige Dienste an Bedeutung gewinnen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les jeunes stimulent le luxe d’occasion avec leur premier salaire",
-        "excerpt": "Une salariée de 26 ans a utilisé son premier salaire mensuel de 2,8 millions de wons pour acheter du luxe d’occasion, illustrant le poids croissant des jeunes dans la revente mode.",
-        "body": "Park, 26 ans, entrée dans son entreprise cette année, a utilisé son premier salaire mensuel de 2,8 millions de wons pour acheter un article de luxe d’occasion. Son choix de la mode de seconde main plutôt qu’un produit neuf de grand magasin illustre la montée des consommateurs de 20 et 30 ans comme acteurs majeurs du marché du luxe d’occasion. L’article original indique que la mode d’occasion croît plus vite que les produits neufs et qu’une culture de “recommerce literacy”, fondée sur la compréhension de l’état du produit, du prix et des modes de transaction, se diffuse. Le luxe d’occasion dépasse ainsi la simple recherche d’un prix plus bas et s’installe comme une manière d’acheter rationnelle chez les jeunes consommateurs. Si cette croissance se poursuit, les transactions et services liés à la mode d’occasion portés par cette génération devraient gagner en visibilité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الشباب يدفعون سوق السلع الفاخرة المستعملة بأول راتب شهري",
-        "excerpt": "موظفة كورية تبلغ 26 عاما استخدمت أول راتب شهري لها، البالغ 2.8 مليون وون، لشراء سلعة فاخرة مستعملة، في مؤشر على صعود الشباب في سوق إعادة بيع الأزياء.",
-        "body": "استخدمت بارك، البالغة 26 عاما والتي بدأت عملها هذا العام، أول راتب شهري لها بقيمة 2.8 مليون وون لشراء سلعة فاخرة مستعملة. ويظهر اختيارها للأزياء المستعملة بدلا من منتج جديد من متجر متعدد الأقسام كيف أصبح المستهلكون في العشرينات والثلاثينات من العمر قوة رئيسية في سوق السلع الفاخرة المستعملة. وذكر التقرير الأصلي أن سوق الأزياء المستعملة ينمو بوتيرة أسرع من المنتجات الجديدة، وأن ثقافة استهلاكية تسمى “معرفة إعادة التجارة” تنتشر، وتشمل فهم حالة المنتج وسعره وطريقة تداوله. ولم يعد شراء السلع الفاخرة المستعملة مجرد خيار لتقليل التكلفة، بل بات أسلوب شراء عقلانيا بين المستهلكين الشباب. وإذا استمر هذا النمو، فمن المتوقع أن تزداد أهمية معاملات الأزياء المستعملة والخدمات المرتبطة بها التي يقودها جيل العشرينات والثلاثينات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "पहली तनख्वाह से सेकेंडहैंड लक्जरी खरीद रहे युवा उपभोक्ता",
-        "excerpt": "इस साल नौकरी शुरू करने वाली 26 वर्षीय पार्क ने 28 लाख वॉन की पहली मासिक तनख्वाह से सेकेंडहैंड लक्जरी सामान खरीदा, जो युवा उपभोक्ताओं की बढ़ती भूमिका दिखाता है।",
-        "body": "इस साल नौकरी शुरू करने वाली 26 वर्षीय पार्क ने अपनी पहली मासिक तनख्वाह 28 लाख वॉन से सेकेंडहैंड लक्जरी सामान खरीदा। डिपार्टमेंट स्टोर के नए उत्पाद के बजाय सेकेंडहैंड फैशन चुनने का यह मामला दिखाता है कि 20 और 30 की उम्र के उपभोक्ता सेकेंडहैंड लक्जरी बाजार में प्रमुख खरीदार बन रहे हैं। मूल रिपोर्ट के अनुसार सेकेंडहैंड फैशन बाजार नए उत्पादों की तुलना में तेजी से बढ़ रहा है, और उत्पाद की स्थिति, कीमत तथा लेनदेन के तरीके को समझने वाली “रीकॉमर्स लिटरेसी” उपभोक्ता संस्कृति फैल रही है। सेकेंडहैंड लक्जरी अब केवल कम कीमत का विकल्प नहीं रह गया है, बल्कि युवा उपभोक्ताओं के बीच तर्कसंगत खरीदारी का तरीका बन रहा है। यदि यह वृद्धि जारी रहती है, तो 20 और 30 की उम्र वाले उपभोक्ताओं के नेतृत्व में सेकेंडहैंड फैशन लेनदेन और संबंधित सेवाओं की उपस्थिति और बढ़ने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Anak Muda Dorong Luxury Bekas, Gaji Pertama 2,8 Juta Won Jadi Pilihan",
-        "excerpt": "Pegawai baru berusia 26 tahun memakai gaji pertama 2,8 juta won untuk membeli barang mewah bekas, mencerminkan naiknya peran konsumen muda di pasar resale fashion.",
-        "body": "Park, 26 tahun, yang mulai bekerja tahun ini, menggunakan gaji bulanan pertamanya sebesar 2,8 juta won untuk membeli barang mewah bekas. Pilihannya pada fashion bekas alih-alih produk baru di department store menunjukkan bagaimana konsumen usia 20-an dan 30-an menjadi pemain penting di pasar barang mewah bekas. Laporan asli menyebut pasar fashion bekas tumbuh lebih cepat daripada produk baru, sementara budaya konsumsi “recommerce literacy”, yaitu memahami kondisi produk, harga, dan cara transaksi, semakin meluas. Konsumsi barang mewah bekas tidak lagi sekadar pilihan untuk menekan harga, tetapi mulai menjadi cara membeli yang rasional bagi konsumen muda. Jika pertumbuhan berlanjut, transaksi fashion bekas dan layanan terkait yang digerakkan kelompok usia 20-an dan 30-an diperkirakan makin menonjol. Sumber: mk.co.kr"
       }
     }
   }
