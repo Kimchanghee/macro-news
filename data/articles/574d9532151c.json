@@ -1,0 +1,75 @@
+{
+  "id": "574d9532151c",
+  "slug": "로드시스템-외국인-전용-스테이블코인-결제-인프라-구축-734728",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-15T02:59:42.718Z",
+  "updatedAt": "2026-05-15T02:59:42.718Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/economy/12049017",
+  "canonicalUrl": "https://www.mk.co.kr/news/economy/12049017",
+  "titleFingerprint": "8008baaf859f3b2e582ad31fd8e71e7ef323078a",
+  "dedupKeys": [
+    "574d9532151c0d993e9fb892f167e5def907a1f0",
+    "8008baaf859f3b2e582ad31fd8e71e7ef323078a",
+    "7ae1c848b0d9baa969dbda2ebfd6683140c7be6c"
+  ],
+  "imageUrl": "/images/articles/574d9532151c.jpg",
+  "i18n": {
+    "ko": {
+      "title": "로드시스템, 외국인 전용 스테이블코인 결제 인프라 구축 추진",
+      "excerpt": "글로벌 모바일 여권 플랫폼 기업 로드시스템이 서클·테더 기반 실시간 환전과 사용을 지원하는 외국인 전용 스테이블코인 결제 인프라를 구축해 관광객 결제시장 혁신에 나선다.",
+      "body": "글로벌 모바일 여권 플랫폼 기업 로드시스템(대표 장양호)이 디지털 자산을 기반으로 외국인 관광객 전용 스테이블코인 결제 인프라 구축에 나섰다. 이 인프라는 서클과 테더 등 주요 스테이블코인을 실시간으로 환전하고 사용할 수 있도록 하는 것이 핵심이다. 로드시스템은 모바일 여권 플랫폼 역량을 바탕으로 외국인 관광객의 결제 편의성을 높이는 방향으로 결제시장 혁신을 추진한다. 외국인 관광객이 보유한 디지털 자산을 국내 소비 현장에서 더 쉽게 사용할 수 있게 되면 지출 확대를 통해 내수 활력에도 기여할 수 있다는 기대가 나온다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Roadsystem Builds Stablecoin Payment Infrastructure for Foreign Visitors",
+      "excerpt": "Roadsystem, a global mobile passport platform company, is building a foreigner-only stablecoin payment infrastructure that supports real-time exchange and use of Circle and Tether assets.",
+      "body": "Roadsystem, a global mobile passport platform company led by CEO Yang-ho Jang, is moving to build stablecoin payment infrastructure for foreign tourists based on digital assets. The core of the infrastructure is to enable real-time exchange and use of major stablecoins such as Circle and Tether. Using its mobile passport platform capabilities, Roadsystem aims to improve payment convenience for foreign visitors and innovate the tourist payment market. If digital assets held by foreign tourists can be used more easily at domestic spending locations, expectations are that expanded visitor spending could help add vitality to local demand. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "ロードシステム、外国人専用ステーブルコイン決済基盤を構築へ",
+      "excerpt": "グローバルモバイル旅券プラットフォーム企業ロードシステムが、サークルとテザーのリアルタイム両替・利用に対応する外国人専用ステーブルコイン決済基盤を構築する。",
+      "body": "グローバルモバイル旅券プラットフォーム企業ロードシステム（代表チャン・ヤンホ）が、デジタル資産を基盤に外国人観光客向けのステーブルコイン決済インフラ構築に乗り出した。このインフラは、サークルやテザーなど主要ステーブルコインをリアルタイムで両替し、使用できるようにすることが中核となる。ロードシステムはモバイル旅券プラットフォームの能力を活用し、外国人観光客の決済利便性を高める方向で決済市場の革新を進める。外国人観光客が保有するデジタル資産を国内消費の現場でより使いやすくなれば、支出拡大を通じて内需の活力にもつながるとの期待が出ている。出典：mk.co.kr"
+    },
+    "zh": {
+      "title": "Roadsystem推进外国人专用稳定币支付基础设施建设",
+      "excerpt": "全球移动护照平台企业Roadsystem将建设外国人专用稳定币支付基础设施，支持Circle、Tether等资产的实时兑换和使用，以革新游客支付市场。",
+      "body": "全球移动护照平台企业Roadsystem（代表张良浩）正着手建设基于数字资产的外国游客专用稳定币支付基础设施。该基础设施的核心，是让Circle、Tether等主要稳定币能够实时兑换并使用。Roadsystem计划以其移动护照平台能力为基础，提高外国游客的支付便利性，推动旅游支付市场创新。如果外国游客持有的数字资产能够在韩国国内消费场景中更方便地使用，市场期待这将通过扩大支出为内需活力作出贡献。来源：mk.co.kr"
+    },
+    "es": {
+      "title": "Roadsystem prepara pagos con stablecoins para visitantes extranjeros",
+      "excerpt": "Roadsystem, empresa global de plataforma de pasaporte móvil, construye una infraestructura de pagos con stablecoins para extranjeros con cambio y uso en tiempo real de Circle y Tether.",
+      "body": "Roadsystem, empresa global de plataforma de pasaporte móvil dirigida por Yang-ho Jang, avanza en la construcción de una infraestructura de pagos con stablecoins para turistas extranjeros basada en activos digitales. El eje del sistema es permitir el cambio y uso en tiempo real de stablecoins importantes como Circle y Tether. Con sus capacidades de plataforma de pasaporte móvil, Roadsystem busca mejorar la comodidad de pago de los visitantes extranjeros e impulsar la innovación en el mercado de pagos turísticos. Si los activos digitales que poseen los turistas extranjeros pueden usarse con mayor facilidad en puntos de consumo locales, se espera que el aumento del gasto contribuya a dinamizar la demanda interna. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Roadsystem cria infraestrutura de pagamento em stablecoins para estrangeiros",
+      "excerpt": "A Roadsystem, empresa global de plataforma de passaporte móvel, está criando uma infraestrutura de pagamentos em stablecoins para estrangeiros, com câmbio e uso em tempo real de Circle e Tether.",
+      "body": "A Roadsystem, empresa global de plataforma de passaporte móvel liderada pelo CEO Yang-ho Jang, está avançando na construção de uma infraestrutura de pagamentos em stablecoins para turistas estrangeiros baseada em ativos digitais. O ponto central da infraestrutura é permitir a conversão e o uso em tempo real de stablecoins importantes, como Circle e Tether. Com sua capacidade de plataforma de passaporte móvel, a Roadsystem pretende aumentar a conveniência de pagamento para visitantes estrangeiros e inovar o mercado de pagamentos turísticos. Se os ativos digitais mantidos por turistas estrangeiros puderem ser usados com mais facilidade em locais de consumo doméstico, espera-se que o aumento dos gastos ajude a dar vigor à demanda interna. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Roadsystem baut Stablecoin-Zahlungsinfrastruktur für Ausländer auf",
+      "excerpt": "Roadsystem, ein globales Unternehmen für mobile Passplattformen, baut eine Stablecoin-Zahlungsinfrastruktur für Ausländer auf, die Echtzeitwechsel und Nutzung von Circle und Tether unterstützt.",
+      "body": "Roadsystem, ein globales Unternehmen für mobile Passplattformen unter CEO Yang-ho Jang, treibt den Aufbau einer auf digitalen Vermögenswerten basierenden Stablecoin-Zahlungsinfrastruktur für ausländische Touristen voran. Kern der Infrastruktur ist es, wichtige Stablecoins wie Circle und Tether in Echtzeit wechseln und nutzen zu können. Auf Basis seiner mobilen Passplattform will Roadsystem die Zahlungsbequemlichkeit ausländischer Besucher erhöhen und den Zahlungsmarkt für Touristen erneuern. Wenn digitale Vermögenswerte ausländischer Touristen im inländischen Konsumumfeld leichter genutzt werden können, wird erwartet, dass höhere Ausgaben zur Belebung der Binnennachfrage beitragen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Roadsystem bâtit une infrastructure de paiement en stablecoins pour étrangers",
+      "excerpt": "Roadsystem, société mondiale de plateforme de passeport mobile, construit une infrastructure de paiement en stablecoins réservée aux étrangers, avec change et usage en temps réel de Circle et Tether.",
+      "body": "Roadsystem, société mondiale de plateforme de passeport mobile dirigée par Yang-ho Jang, entreprend de bâtir une infrastructure de paiement en stablecoins pour les touristes étrangers, fondée sur les actifs numériques. Le coeur de cette infrastructure est de permettre le change et l’utilisation en temps réel de stablecoins majeurs comme Circle et Tether. Grâce à ses capacités de plateforme de passeport mobile, Roadsystem veut améliorer la commodité de paiement des visiteurs étrangers et innover sur le marché des paiements touristiques. Si les actifs numériques détenus par les touristes étrangers peuvent être utilisés plus facilement dans les lieux de consommation locaux, une hausse des dépenses pourrait contribuer à soutenir la demande intérieure. Source : mk.co.kr"
+    },
+    "ar": {
+      "title": "رودسيستم تبني بنية دفع بالعملات المستقرة مخصصة للأجانب",
+      "excerpt": "تعمل رودسيستم، شركة منصة الجوازات المحمولة العالمية، على بناء بنية دفع بالعملات المستقرة للأجانب تتيح التحويل والاستخدام الفوري لأصول مثل سيركل وتيثر.",
+      "body": "بدأت رودسيستم، وهي شركة عالمية لمنصة الجوازات المحمولة يرأسها يانغ هو جانغ، بناء بنية تحتية للدفع بالعملات المستقرة مخصصة للسياح الأجانب وقائمة على الأصول الرقمية. ويتمثل جوهر هذه البنية في إتاحة التحويل والاستخدام الفوري لعملات مستقرة رئيسية مثل سيركل وتيثر. وتسعى رودسيستم، بالاستناد إلى قدرات منصة الجوازات المحمولة لديها، إلى رفع سهولة الدفع للزوار الأجانب ودفع الابتكار في سوق مدفوعات السياح. وإذا أصبح استخدام الأصول الرقمية التي يحملها السياح الأجانب أسهل في مواقع الاستهلاك المحلية، فمن المتوقع أن يسهم توسع الإنفاق في تنشيط الطلب المحلي. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "Roadsystem विदेशी पर्यटकों के लिए स्टेबलकॉइन भुगतान ढांचा बनाएगी",
+      "excerpt": "वैश्विक मोबाइल पासपोर्ट प्लेटफॉर्म कंपनी Roadsystem विदेशी पर्यटकों के लिए ऐसा स्टेबलकॉइन भुगतान ढांचा बना रही है, जिसमें Circle और Tether का रियल-टाइम एक्सचेंज और उपयोग संभव होगा।",
+      "body": "वैश्विक मोबाइल पासपोर्ट प्लेटफॉर्म कंपनी Roadsystem, जिसके प्रमुख Yang-ho Jang हैं, डिजिटल परिसंपत्तियों पर आधारित विदेशी पर्यटकों के लिए स्टेबलकॉइन भुगतान अवसंरचना बनाने की दिशा में आगे बढ़ रही है। इस अवसंरचना का मुख्य उद्देश्य Circle और Tether जैसे प्रमुख स्टेबलकॉइन का रियल-टाइम एक्सचेंज और उपयोग सक्षम करना है। Roadsystem अपनी मोबाइल पासपोर्ट प्लेटफॉर्म क्षमता के आधार पर विदेशी पर्यटकों के भुगतान अनुभव को अधिक सुविधाजनक बनाते हुए पर्यटन भुगतान बाजार में नवाचार करना चाहती है। यदि विदेशी पर्यटकों के पास मौजूद डिजिटल परिसंपत्तियों का घरेलू उपभोग स्थलों पर अधिक आसानी से उपयोग हो सके, तो खर्च बढ़ने से आंतरिक मांग में活력 आने की उम्मीद है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Roadsystem Bangun Infrastruktur Pembayaran Stablecoin Khusus Warga Asing",
+      "excerpt": "Roadsystem, perusahaan platform paspor seluler global, membangun infrastruktur pembayaran stablecoin khusus warga asing yang mendukung penukaran dan penggunaan real-time Circle serta Tether.",
+      "body": "Roadsystem, perusahaan platform paspor seluler global yang dipimpin CEO Yang-ho Jang, mulai membangun infrastruktur pembayaran stablecoin khusus wisatawan asing berbasis aset digital. Inti infrastruktur ini adalah memungkinkan stablecoin utama seperti Circle dan Tether ditukar dan digunakan secara real-time. Dengan kemampuan platform paspor selulernya, Roadsystem berupaya meningkatkan kemudahan pembayaran bagi wisatawan asing dan mendorong inovasi di pasar pembayaran wisata. Jika aset digital yang dimiliki wisatawan asing dapat digunakan lebih mudah di lokasi konsumsi domestik, peningkatan belanja diharapkan dapat membantu menghidupkan permintaan dalam negeri. Sumber: mk.co.kr"
+    }
+  }
+}
