@@ -1,5 +1,230 @@
 [
   {
+    "id": "b2c86788c3bc",
+    "slug": "로봇이-양손으로-택배-분류하고-스스로-이동풀타임-근무모습-공개-811611",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T01:56:10.297Z",
+    "updatedAt": "2026-05-15T01:56:10.297Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12048953",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12048953",
+    "titleFingerprint": "49104052e5b9a46befa1496e6cab5dd928f3b67d",
+    "dedupKeys": [
+      "b2c86788c3bc73e962deca15621b045fa2ada956",
+      "49104052e5b9a46befa1496e6cab5dd928f3b67d",
+      "76c45245983245cfbf2dd36a5c72cfe9b0674a3e"
+    ],
+    "imageUrl": "/images/articles/b2c86788c3bc.png",
+    "i18n": {
+      "ko": {
+        "title": "휴머노이드 로봇, 양손으로 택배 분류하고 자율 이동 근무 공개",
+        "excerpt": "미국 캘리포니아 기반 로봇 스타트업이 생중계를 통해 휴머노이드 로봇이 택배상자를 양손으로 분류하고 스스로 이동하며 풀타임 근무하는 모습을 공개했다.",
+        "body": "미국 캘리포니아주에 기반을 둔 로봇 스타트업이 생중계를 통해 휴머노이드 로봇의 풀타임 근무 장면을 공개했다. 공개된 영상에서 로봇은 양손을 사용해 택배상자를 분류하고, 작업 공간 안에서 스스로 이동하는 모습을 보였다. 원문에 따르면 이 장면은 휴머노이드 로봇이 실제 물류 업무처럼 보이는 작업을 수행하는 모습으로 소개됐으며, 공개 이후 네티즌들은 다양한 반응을 보이고 있다. 이번 공개는 로봇이 반복적인 분류 작업과 이동을 함께 수행하는 사례로 주목받는다. 다만 원문은 성능 수치나 상용화 일정 등 추가 정보는 전하지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Humanoid Robot Sorts Parcels With Both Hands and Moves Autonomously",
+        "excerpt": "A California-based U.S. robotics startup showed in a livestream a humanoid robot sorting parcel boxes with both hands, moving on its own and working full time.",
+        "body": "A robotics startup based in California, United States, has revealed livestream footage of a humanoid robot working full time. In the video, the robot uses both hands to sort parcel boxes and moves autonomously within the workspace. According to the original report, the scene was introduced as the humanoid robot carrying out tasks that resemble real logistics work, and viewers online have responded in various ways since the broadcast. The disclosure is drawing attention as an example of a robot performing repetitive sorting work and movement together. However, the original report did not provide additional details such as performance figures or a commercialization schedule. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ヒューマノイドロボット、両手で宅配箱を仕分け自律移動も公開",
+        "excerpt": "米カリフォルニア州を拠点とするロボットスタートアップが、生中継で宅配箱を両手で仕分け、自律移動しながらフルタイム勤務するヒューマノイドロボットを公開した。",
+        "body": "米カリフォルニア州を拠点とするロボットスタートアップが、生中継を通じてヒューマノイドロボットのフルタイム勤務の様子を公開した。映像では、ロボットが両手を使って宅配箱を仕分け、作業空間内を自ら移動する姿が映された。原文によると、この場面はヒューマノイドロボットが実際の物流業務のように見える作業を行う様子として紹介され、公開後、ネットユーザーからさまざまな反応が寄せられている。今回の公開は、ロボットが反復的な仕分け作業と移動を同時に行う事例として注目される。ただし原文は、性能数値や商用化時期などの追加情報には触れていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "人形机器人双手分拣包裹并自主移动，全职工作画面公开",
+        "excerpt": "一家位于美国加利福尼亚州的机器人初创公司通过直播公开了人形机器人双手分拣快递箱、自主移动并进行全职工作的画面。",
+        "body": "一家位于美国加利福尼亚州的机器人初创公司通过直播公开了人形机器人全职工作的场景。画面显示，该机器人使用双手分拣快递箱，并在工作空间内自主移动。根据原文报道，这一场景被介绍为人形机器人执行类似实际物流工作的任务，公开后网民出现了多种反应。此次展示因呈现机器人同时完成重复性分拣作业和移动而受到关注。不过，原文并未提供性能数据、商业化时间表等更多信息。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Robot humanoide clasifica paquetes con ambas manos y se desplaza solo",
+        "excerpt": "Una startup de robótica con sede en California, EE. UU., mostró en una transmisión en vivo a un robot humanoide clasificando cajas con ambas manos, moviéndose solo y trabajando a tiempo completo.",
+        "body": "Una startup de robótica con sede en California, Estados Unidos, mostró en una transmisión en vivo escenas de un robot humanoide trabajando a tiempo completo. En el video, el robot usa ambas manos para clasificar cajas de paquetería y se desplaza de forma autónoma dentro del espacio de trabajo. Según el reporte original, la escena fue presentada como una muestra de un humanoide realizando tareas parecidas a las de la logística real, y los internautas han reaccionado de distintas formas desde su publicación. La demostración llama la atención como un caso en el que un robot combina clasificación repetitiva y movimiento. Sin embargo, el texto original no ofreció cifras de rendimiento ni un calendario de comercialización. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Robô humanoide separa encomendas com as duas mãos e se move sozinho",
+        "excerpt": "Uma startup de robótica da Califórnia, nos EUA, mostrou em transmissão ao vivo um robô humanoide separando caixas com as duas mãos, movendo-se sozinho e trabalhando em tempo integral.",
+        "body": "Uma startup de robótica sediada na Califórnia, nos Estados Unidos, revelou em uma transmissão ao vivo cenas de um robô humanoide trabalhando em tempo integral. No vídeo, o robô usa as duas mãos para separar caixas de encomendas e se move de forma autônoma dentro do espaço de trabalho. Segundo a reportagem original, a cena foi apresentada como um humanoide executando tarefas semelhantes às de uma operação logística real, e internautas reagiram de diferentes maneiras após a divulgação. A demonstração chama atenção como exemplo de um robô que combina triagem repetitiva e deslocamento. No entanto, o texto original não informou dados de desempenho nem prazo de comercialização. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Humanoider Roboter sortiert Pakete beidhändig und bewegt sich autonom",
+        "excerpt": "Ein US-Robotik-Startup aus Kalifornien zeigte per Livestream einen humanoiden Roboter, der Paketkartons mit beiden Händen sortiert, sich selbstständig bewegt und Vollzeit arbeitet.",
+        "body": "Ein in Kalifornien ansässiges US-Robotik-Startup hat per Livestream Szenen eines humanoiden Roboters bei der Vollzeitarbeit veröffentlicht. In dem Video sortiert der Roboter Paketkartons mit beiden Händen und bewegt sich selbstständig im Arbeitsbereich. Dem Originalbericht zufolge wurde die Szene als Beispiel dafür vorgestellt, wie ein humanoider Roboter Aufgaben ausführt, die echter Logistikarbeit ähneln. Seit der Veröffentlichung reagieren Internetnutzer unterschiedlich. Die Präsentation zieht Aufmerksamkeit auf sich, weil sie zeigt, wie ein Roboter wiederholte Sortierarbeit und Bewegung kombiniert. Der Originaltext nannte jedoch keine Leistungsdaten oder einen Zeitplan für eine Kommerzialisierung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un robot humanoïde trie des colis à deux mains et se déplace seul",
+        "excerpt": "Une start-up américaine de robotique basée en Californie a montré en direct un robot humanoïde triant des cartons de colis à deux mains, se déplaçant seul et travaillant à temps plein.",
+        "body": "Une start-up de robotique basée en Californie, aux États-Unis, a diffusé en direct des images d’un robot humanoïde travaillant à temps plein. Dans la vidéo, le robot utilise ses deux mains pour trier des cartons de colis et se déplace de manière autonome dans l’espace de travail. Selon l’article original, la scène a été présentée comme celle d’un humanoïde effectuant des tâches proches d’un travail logistique réel, et les internautes ont réagi de diverses façons après sa publication. Cette démonstration attire l’attention comme exemple d’un robot combinant tri répétitif et déplacement. Le texte original ne donne toutefois pas de chiffres de performance ni de calendrier de commercialisation. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "روبوت بشري يفرز الطرود بكلتا يديه ويتحرك ذاتيا أثناء العمل",
+        "excerpt": "عرضت شركة روبوتات ناشئة مقرها كاليفورنيا في الولايات المتحدة، عبر بث مباشر، روبوتا بشريا يفرز صناديق الطرود بكلتا يديه ويتحرك ذاتيا أثناء عمله بدوام كامل.",
+        "body": "كشفت شركة روبوتات ناشئة مقرها ولاية كاليفورنيا في الولايات المتحدة، عبر بث مباشر، مشاهد لروبوت بشري يعمل بدوام كامل. وفي الفيديو، يستخدم الروبوت كلتا يديه لفرز صناديق الطرود، ويتحرك ذاتيا داخل مساحة العمل. ووفقا للتقرير الأصلي، قُدم المشهد بوصفه مثالا على روبوت بشري ينفذ مهاما تبدو شبيهة بعمل لوجستي حقيقي، وقد أثار نشره ردود فعل متنوعة بين مستخدمي الإنترنت. ويحظى العرض بالاهتمام لأنه يبين روبوتا يجمع بين أعمال الفرز المتكررة والحركة. ومع ذلك، لم يذكر النص الأصلي أرقاما عن الأداء أو جدولا زمنيا للتسويق التجاري. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ह्यूमनॉइड रोबोट ने दोनों हाथों से पार्सल छांटे, खुद चला भी",
+        "excerpt": "अमेरिका के कैलिफोर्निया स्थित रोबोटिक्स स्टार्टअप ने लाइव प्रसारण में एक ह्यूमनॉइड रोबोट को दोनों हाथों से पार्सल बॉक्स छांटते, खुद चलते और पूर्णकालिक काम करते दिखाया।",
+        "body": "अमेरिका के कैलिफोर्निया राज्य में स्थित एक रोबोटिक्स स्टार्टअप ने लाइव प्रसारण के जरिए ह्यूमनॉइड रोबोट के पूर्णकालिक काम करने का दृश्य सार्वजनिक किया। वीडियो में रोबोट दोनों हाथों का इस्तेमाल कर पार्सल बॉक्स छांटता और कार्यस्थल के भीतर स्वयं चलता दिखाई दिया। मूल रिपोर्ट के अनुसार, यह दृश्य ऐसे पेश किया गया जैसे ह्यूमनॉइड रोबोट वास्तविक लॉजिस्टिक्स कार्य जैसा काम कर रहा हो, और प्रसारण के बाद इंटरनेट उपयोगकर्ताओं ने इस पर अलग-अलग प्रतिक्रियाएं दीं। यह प्रदर्शन इसलिए ध्यान खींच रहा है क्योंकि इसमें रोबोट दोहराए जाने वाले छंटाई कार्य और आवाजाही को साथ करता दिखता है। हालांकि मूल रिपोर्ट में प्रदर्शन संबंधी आंकड़े या व्यावसायीकरण की समयसीमा जैसी अतिरिक्त जानकारी नहीं दी गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Robot Humanoid Sortir Paket dengan Dua Tangan dan Bergerak Sendiri",
+        "excerpt": "Startup robotika berbasis di California, AS, menampilkan lewat siaran langsung robot humanoid yang menyortir kotak paket dengan dua tangan, bergerak sendiri, dan bekerja penuh waktu.",
+        "body": "Sebuah startup robotika yang berbasis di California, Amerika Serikat, memperlihatkan lewat siaran langsung adegan robot humanoid bekerja penuh waktu. Dalam video itu, robot menggunakan kedua tangan untuk menyortir kotak paket dan bergerak sendiri di dalam area kerja. Menurut laporan asli, adegan tersebut diperkenalkan sebagai contoh robot humanoid menjalankan tugas yang tampak seperti pekerjaan logistik nyata, dan warganet memberikan beragam reaksi setelah tayangan itu muncul. Demonstrasi ini menarik perhatian karena menunjukkan robot melakukan pekerjaan sortir berulang sekaligus berpindah tempat. Namun, laporan asli tidak menyampaikan angka kinerja atau jadwal komersialisasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7a0abd3a9632",
+    "slug": "카카오-두나무-지분-65-하나금융에-판다수익률-500배-잭팟-289477",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T01:55:15.284Z",
+    "updatedAt": "2026-05-15T01:55:15.284Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12048955",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12048955",
+    "titleFingerprint": "9df313306eff9e84448725ef0e395bf88e39e0e1",
+    "dedupKeys": [
+      "7a0abd3a963214cef7cf7e321972989411aa362a",
+      "9df313306eff9e84448725ef0e395bf88e39e0e1",
+      "37238edaeb0809e38308e06b650eff3f43ed4dd9"
+    ],
+    "imageUrl": "/images/articles/7a0abd3a9632.jpg",
+    "i18n": {
+      "ko": {
+        "title": "카카오, 두나무 지분 6.55% 하나금융에 매각…1조원대 투자 회수",
+        "excerpt": "카카오는 보유 중인 두나무 지분 6.55%를 하나금융에 1조33억원에 처분하며 2013년 시드 투자 이후 크게 오른 지분가치를 현금화했다.",
+        "body": "카카오는 보유 중인 두나무 지분 6.55%를 하나금융에 1조33억원에 처분한다. 이번 거래는 카카오가 2013년 두나무 시드 투자에 참여한 뒤 장기간 보유해 온 지분을 현금화하는 내용이다. 카카오는 2015년에도 두나무에 33억원을 추가 투자한 바 있으며, 이후 두나무의 지분가치가 크게 뛰면서 투자 회수 규모가 1조원대로 확대됐다. 이번 처분으로 카카오는 투자 재원을 확보하게 됐고, 신사업 추진과 재무 운용에 활용할 여지를 갖게 됐다. 관련 내용은 mk.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "Kakao to Sell 6.55% Dunamu Stake to Hana Financial for Over 1 Trillion Won",
+        "excerpt": "Kakao will sell its 6.55% stake in Dunamu to Hana Financial for 1.0033 trillion won, cashing in on a holding whose value rose sharply since its 2013 seed investment.",
+        "body": "Kakao will dispose of its 6.55% stake in Dunamu to Hana Financial for 1.0033 trillion won. The transaction turns into cash a holding Kakao has kept since joining Dunamu’s seed investment round in 2013. Kakao also invested 3.3 billion won in Dunamu in 2015, and the value of the stake has since risen sharply, expanding the scale of its investment recovery to more than 1 trillion won. Through the sale, Kakao secures investment resources and gains room to use them for new businesses and financial management. The details are cited from a report by mk.co.kr."
+      },
+      "ja": {
+        "title": "カカオ、ドゥナム株6.55％をハナ金融に売却…1兆ウォン超を回収",
+        "excerpt": "カカオは保有するドゥナム株6.55％をハナ金融に1兆33億ウォンで売却し、2013年のシード投資以降に大きく上昇した持ち分価値を現金化する。",
+        "body": "カカオは保有するドゥナム株6.55％をハナ金融に1兆33億ウォンで処分する。今回の取引は、カカオが2013年にドゥナムのシード投資に参加して以降、長期間保有してきた持ち分を現金化するものだ。カカオは2015年にもドゥナムへ33億ウォンを追加投資しており、その後ドゥナムの持ち分価値が大きく上昇したことで、投資回収額は1兆ウォン規模に拡大した。今回の売却により、カカオは投資財源を確保し、新規事業の推進や財務運営に活用する余地を得る。内容はmk.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "Kakao将向韩亚金融出售Dunamu 6.55%股权，回收逾1万亿韩元",
+        "excerpt": "Kakao将以1.0033万亿韩元向韩亚金融出售所持Dunamu 6.55%股权，把自2013年种子轮投资以来大幅升值的持股变现。",
+        "body": "Kakao将把所持Dunamu 6.55%股权以1.0033万亿韩元出售给韩亚金融。此次交易意味着Kakao将自2013年参与Dunamu种子轮投资以来长期持有的股权变现。Kakao还曾在2015年向Dunamu追加投资33亿韩元，此后Dunamu股权价值大幅上升，使其投资回收规模扩大至1万亿韩元以上。通过此次出售，Kakao将获得投资资金，并在推进新业务和财务运营方面拥有更多使用空间。相关内容引用自mk.co.kr报道。"
+      },
+      "es": {
+        "title": "Kakao venderá a Hana Financial el 6,55% de Dunamu por más de 1 billón de wones",
+        "excerpt": "Kakao venderá a Hana Financial su participación del 6,55% en Dunamu por 1,0033 billones de wones, monetizando una inversión iniciada en la ronda semilla de 2013.",
+        "body": "Kakao venderá a Hana Financial su participación del 6,55% en Dunamu por 1,0033 billones de wones. La operación convierte en efectivo una tenencia que Kakao mantenía desde que participó en la inversión semilla de Dunamu en 2013. Kakao también invirtió 3.300 millones de wones en Dunamu en 2015, y desde entonces el valor de la participación aumentó con fuerza, elevando la recuperación de la inversión a una escala superior al billón de wones. Con esta venta, Kakao obtiene recursos de inversión y margen para destinarlos a nuevos negocios y a la gestión financiera. La información cita un reporte de mk.co.kr."
+      },
+      "pt": {
+        "title": "Kakao venderá 6,55% da Dunamu à Hana Financial por mais de 1 trilhão de won",
+        "excerpt": "A Kakao venderá à Hana Financial sua fatia de 6,55% na Dunamu por 1,0033 trilhão de won, realizando o ganho de uma participação iniciada no aporte semente de 2013.",
+        "body": "A Kakao venderá à Hana Financial sua participação de 6,55% na Dunamu por 1,0033 trilhão de won. A operação transforma em caixa uma fatia que a Kakao mantinha desde que participou do investimento semente da Dunamu em 2013. A Kakao também investiu 3,3 bilhões de won na Dunamu em 2015, e desde então o valor da participação subiu fortemente, levando a recuperação do investimento a uma escala superior a 1 trilhão de won. Com a venda, a Kakao assegura recursos de investimento e ganha espaço para usá-los em novos negócios e na gestão financeira. As informações citam reportagem do mk.co.kr."
+      },
+      "de": {
+        "title": "Kakao verkauft 6,55% an Dunamu an Hana Financial für über 1 Billion Won",
+        "excerpt": "Kakao verkauft seinen 6,55%-Anteil an Dunamu für 1,0033 Billionen Won an Hana Financial und monetarisiert damit eine Beteiligung aus der Seed-Investition von 2013.",
+        "body": "Kakao wird seinen 6,55%-Anteil an Dunamu für 1,0033 Billionen Won an Hana Financial veräußern. Die Transaktion macht eine Beteiligung zu Geld, die Kakao seit der Teilnahme an Dunamus Seed-Investmentrunde im Jahr 2013 gehalten hat. Kakao investierte 2015 zudem 3,3 Milliarden Won in Dunamu. Seitdem ist der Wert der Beteiligung stark gestiegen, wodurch sich der Umfang der Investitionsrückführung auf mehr als 1 Billion Won erhöht hat. Mit dem Verkauf sichert sich Kakao Investitionsmittel und gewinnt Spielraum für neue Geschäftsbereiche und die Finanzsteuerung. Die Angaben stützen sich auf einen Bericht von mk.co.kr."
+      },
+      "fr": {
+        "title": "Kakao cède 6,55 % de Dunamu à Hana Financial pour plus de 1 000 Mds de wons",
+        "excerpt": "Kakao vendra à Hana Financial sa participation de 6,55 % dans Dunamu pour 1 003,3 milliards de wons, monétisant un investissement amorcé lors du tour d’amorçage de 2013.",
+        "body": "Kakao va céder à Hana Financial sa participation de 6,55 % dans Dunamu pour 1 003,3 milliards de wons. L’opération transforme en liquidités une participation que Kakao détenait depuis sa participation à l’investissement d’amorçage de Dunamu en 2013. Kakao avait aussi investi 3,3 milliards de wons dans Dunamu en 2015, et la valeur de cette participation a depuis fortement augmenté, portant le montant récupéré à plus de 1 000 milliards de wons. Cette vente permet à Kakao de sécuriser des ressources d’investissement et de disposer d’une marge pour les utiliser dans de nouveaux projets et sa gestion financière. Les informations citent un article de mk.co.kr."
+      },
+      "ar": {
+        "title": "كاكاو تبيع 6.55% من دونامو لهانا فايننشال بأكثر من تريليون وون",
+        "excerpt": "تبيع كاكاو حصتها البالغة 6.55% في دونامو إلى هانا فايننشال مقابل 1.0033 تريليون وون، محولة إلى سيولة استثمارا بدأ منذ جولة التمويل التأسيسي في 2013.",
+        "body": "تعتزم كاكاو بيع حصتها البالغة 6.55% في دونامو إلى هانا فايننشال مقابل 1.0033 تريليون وون. وتمثل الصفقة تحويل حصة احتفظت بها كاكاو منذ مشاركتها في استثمار التمويل التأسيسي لدونامو عام 2013 إلى سيولة نقدية. كما استثمرت كاكاو 3.3 مليار وون إضافية في دونامو عام 2015، ثم ارتفعت قيمة الحصة بشكل كبير، ما رفع حجم استرداد الاستثمار إلى أكثر من تريليون وون. ومن خلال البيع، تؤمن كاكاو موارد استثمارية وتكتسب مجالا لاستخدامها في الأعمال الجديدة والإدارة المالية. تستند التفاصيل إلى تقرير نشره mk.co.kr."
+      },
+      "hi": {
+        "title": "Kakao, Dunamu की 6.55% हिस्सेदारी Hana Financial को 1 ट्रिलियन वॉन से अधिक में बेचेगी",
+        "excerpt": "Kakao अपनी Dunamu में 6.55% हिस्सेदारी Hana Financial को 1.0033 ट्रिलियन वॉन में बेचेगी, जिससे 2013 के सीड निवेश के बाद बढ़ी हिस्सेदारी का मूल्य नकदी में बदलेगा।",
+        "body": "Kakao अपनी Dunamu में 6.55% हिस्सेदारी Hana Financial को 1.0033 ट्रिलियन वॉन में बेचेगी। यह सौदा उस हिस्सेदारी को नकदी में बदलता है जिसे Kakao ने 2013 में Dunamu के सीड निवेश में भाग लेने के बाद से लंबे समय तक रखा था। Kakao ने 2015 में भी Dunamu में 3.3 बिलियन वॉन का अतिरिक्त निवेश किया था। इसके बाद Dunamu की हिस्सेदारी का मूल्य तेज़ी से बढ़ा और निवेश वसूली का आकार 1 ट्रिलियन वॉन से अधिक हो गया। इस बिक्री से Kakao निवेश संसाधन सुरक्षित करेगी और उन्हें नए कारोबार तथा वित्तीय संचालन में उपयोग करने की गुंजाइश पाएगी। विवरण mk.co.kr की रिपोर्ट से उद्धृत हैं।"
+      },
+      "id": {
+        "title": "Kakao Jual 6,55% Saham Dunamu ke Hana Financial Senilai Lebih dari 1 Triliun Won",
+        "excerpt": "Kakao akan menjual 6,55% saham Dunamu kepada Hana Financial senilai 1,0033 triliun won, mencairkan investasi yang nilainya melonjak sejak pendanaan awal 2013.",
+        "body": "Kakao akan melepas 6,55% sahamnya di Dunamu kepada Hana Financial senilai 1,0033 triliun won. Transaksi ini mencairkan kepemilikan yang telah dipegang Kakao sejak ikut serta dalam investasi awal Dunamu pada 2013. Kakao juga menanamkan tambahan 3,3 miliar won di Dunamu pada 2015, dan sejak itu nilai kepemilikannya meningkat tajam, sehingga skala pengembalian investasi melampaui 1 triliun won. Melalui penjualan ini, Kakao memperoleh sumber dana investasi dan ruang untuk menggunakannya bagi bisnis baru serta pengelolaan keuangan. Informasi ini mengutip laporan mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "8b4ff29ae175",
+    "slug": "헬스장에서-1시간-땀-흘릴-수-없다면딱-11분만-더-자라-129047",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T01:54:16.953Z",
+    "updatedAt": "2026-05-15T01:54:16.953Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12048956",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12048956",
+    "titleFingerprint": "cfdd0932887b25ae267bc22ef6165e8ac8ca5836",
+    "dedupKeys": [
+      "8b4ff29ae175d1c825df210aef4f8340774121be",
+      "cfdd0932887b25ae267bc22ef6165e8ac8ca5836",
+      "a9885195e5c924ddbd2de8f4f8e9aa11cc6933c5"
+    ],
+    "imageUrl": "/images/articles/8b4ff29ae175.jpg",
+    "i18n": {
+      "ko": {
+        "title": "심혈관질환 위험 낮추는 일상 변화, 11분 수면과 4.5분 고강도활동 주목",
+        "excerpt": "호주 시드니대 교수팀은 5만명을 8년간 추적해 하루 4.5분 고강도활동이 1시간 운동에 견줄 효과를 내고, 11분 더 자는 변화도 심혈관질환 위험 관리에 의미가 있다고 밝혔다.",
+        "body": "헬스장에서 1시간씩 운동하기 어렵다면 일상 속 짧은 변화가 심혈관질환 위험을 낮추는 데 도움이 될 수 있다는 연구 결과가 나왔다. 호주 시드니대 교수팀은 5만명을 8년간 추적해 고강도활동 4.5분이 1시간 운동에 견줄 효과를 낼 수 있다고 분석했다. 거창한 식단 조절이나 장시간 고강도 운동 없이도 생활 패턴을 조금 바꾸는 방식이 주목된다. 원문은 ‘딱 11분만 더 자라’는 메시지와 함께 수면과 짧은 고강도활동 같은 작은 습관 변화를 강조했다. 이는 운동 시간이 부족한 사람들에게 심혈관질환 예방을 위한 현실적인 선택지가 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Small Daily Changes May Lower Heart Risk: 11 More Minutes of Sleep, 4.5 Minutes of Intensity",
+        "excerpt": "A University of Sydney team tracked 50,000 people for eight years and found that 4.5 minutes of vigorous activity may rival an hour of exercise, while 11 more minutes of sleep also drew attention.",
+        "body": "For people who cannot spend an hour sweating at the gym, small changes in daily routines may help lower the risk of cardiovascular disease, according to research highlighted by mk.co.kr. A University of Sydney research team in Australia followed 50,000 people for eight years and analyzed that 4.5 minutes of vigorous activity could produce an effect comparable to one hour of exercise. The finding points to the value of modest lifestyle adjustments rather than ambitious diet plans or long, intense workouts. The original report emphasized the message to “sleep just 11 minutes more,” along with short bursts of vigorous activity. For people short on workout time, these habits may offer a realistic way to manage cardiovascular risk. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "心血管疾患リスクを下げる日常習慣、11分の追加睡眠と4.5分の高強度活動に注目",
+        "excerpt": "豪シドニー大学の研究チームは5万人を8年間追跡し、4.5分の高強度活動が1時間の運動に匹敵し、11分長く眠る変化も心血管疾患リスク管理で注目されると示した。",
+        "body": "ジムで1時間汗を流す時間がない人でも、日常の小さな変化が心血管疾患リスクを下げる助けになる可能性がある。mk.co.krが伝えた内容によると、オーストラリアのシドニー大学研究チームは5万人を8年間追跡し、4.5分の高強度活動が1時間の運動に匹敵する効果を持ち得ると分析した。大がかりな食事制限や長時間の激しい運動がなくても、生活パターンを少し変えることが重要だという。原文は「あと11分だけ眠る」というメッセージとともに、睡眠や短時間の高強度活動といった習慣の変化を強調した。運動時間が不足する人にとって、心血管疾患予防の現実的な選択肢となり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "降低心血管疾病风险的日常改变：多睡11分钟与4.5分钟高强度活动受关注",
+        "excerpt": "澳大利亚悉尼大学团队追踪5万人8年后指出，4.5分钟高强度活动或可产生相当于1小时运动的效果，多睡11分钟等小改变也有助于风险管理。",
+        "body": "如果无法在健身房流汗1小时，日常生活中的小改变也可能帮助降低心血管疾病风险。据mk.co.kr报道，澳大利亚悉尼大学教授团队对5万人进行了8年追踪，并分析认为，4.5分钟高强度活动可能带来相当于1小时运动的效果。这一结果显示，不必依赖宏大的饮食控制或长时间高强度运动，调整生活方式本身也值得关注。原文以“只要多睡11分钟”为核心信息，强调睡眠以及短时间高强度活动等小习惯变化。对于缺少运动时间的人来说，这可能成为预防心血管疾病的现实选择。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Cambios diarios para reducir riesgo cardiovascular: 11 minutos más de sueño y 4,5 de actividad intensa",
+        "excerpt": "Un equipo de la Universidad de Sídney siguió a 50.000 personas durante ocho años y halló que 4,5 minutos de actividad intensa pueden compararse con una hora de ejercicio, junto al valor de dormir 11 minutos más.",
+        "body": "Para quienes no pueden sudar una hora en el gimnasio, pequeños cambios cotidianos podrían ayudar a reducir el riesgo de enfermedades cardiovasculares. Según mk.co.kr, un equipo de profesores de la Universidad de Sídney, en Australia, siguió a 50.000 personas durante ocho años y analizó que 4,5 minutos de actividad de alta intensidad pueden producir un efecto comparable al de una hora de ejercicio. El dato resalta que no siempre hacen falta grandes controles de dieta ni entrenamientos intensos prolongados. El informe original destacó el mensaje de “dormir solo 11 minutos más” y puso el foco en hábitos como el sueño y breves actividades vigorosas. Para quienes tienen poco tiempo para ejercitarse, puede ser una opción realista para prevenir riesgos cardiovasculares. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Mudanças diárias podem reduzir risco cardiovascular: mais 11 minutos de sono e 4,5 de atividade intensa",
+        "excerpt": "Pesquisadores da Universidade de Sydney acompanharam 50 mil pessoas por oito anos e apontaram que 4,5 minutos de atividade intensa podem se comparar a uma hora de exercício, com destaque também para dormir 11 minutos a mais.",
+        "body": "Para quem não consegue passar uma hora suando na academia, pequenas mudanças no dia a dia podem ajudar a reduzir o risco de doenças cardiovasculares. Segundo o mk.co.kr, uma equipe da Universidade de Sydney, na Austrália, acompanhou 50 mil pessoas por oito anos e analisou que 4,5 minutos de atividade de alta intensidade podem gerar efeito comparável ao de uma hora de exercício. O resultado chama atenção para ajustes simples de rotina, sem depender de grandes restrições alimentares ou treinos longos e intensos. A reportagem original destacou a mensagem de “dormir apenas 11 minutos a mais” e hábitos como sono e breves atividades vigorosas. Para pessoas com pouco tempo para se exercitar, isso pode ser uma alternativa realista de prevenção cardiovascular. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Alltagsänderungen gegen Herz-Kreislauf-Risiken: 11 Minuten mehr Schlaf und 4,5 Minuten intensive Aktivität",
+        "excerpt": "Ein Team der University of Sydney verfolgte 50.000 Menschen acht Jahre lang und fand, dass 4,5 Minuten intensive Aktivität einer Stunde Sport nahekommen können; auch 11 Minuten mehr Schlaf stehen im Fokus.",
+        "body": "Wer keine Stunde im Fitnessstudio schwitzen kann, könnte das Risiko für Herz-Kreislauf-Erkrankungen auch durch kleine Veränderungen im Alltag senken. Nach Angaben von mk.co.kr verfolgte ein Forschungsteam der University of Sydney in Australien 50.000 Menschen über acht Jahre und kam zu der Analyse, dass 4,5 Minuten hochintensive Aktivität eine Wirkung entfalten können, die mit einer Stunde Training vergleichbar ist. Damit rücken einfache Anpassungen des Lebensrhythmus in den Blick, ohne große Diätprogramme oder lange intensive Einheiten. Der Originalbericht betonte die Botschaft, „nur 11 Minuten länger zu schlafen“, sowie kurze intensive Aktivitäten. Für Menschen mit wenig Zeit für Sport kann dies ein realistischer Ansatz zur Vorbeugung von Herz-Kreislauf-Risiken sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Réduire le risque cardiovasculaire au quotidien: 11 minutes de sommeil en plus et 4,5 minutes d’effort intense",
+        "excerpt": "Une équipe de l’Université de Sydney a suivi 50.000 personnes pendant huit ans et estime que 4,5 minutes d’activité intense peuvent rivaliser avec une heure d’exercice, avec l’intérêt de dormir 11 minutes de plus.",
+        "body": "Pour ceux qui ne peuvent pas transpirer une heure à la salle de sport, de petits changements quotidiens pourraient aider à réduire le risque de maladies cardiovasculaires. Selon mk.co.kr, une équipe de professeurs de l’Université de Sydney, en Australie, a suivi 50.000 personnes pendant huit ans et a analysé que 4,5 minutes d’activité de haute intensité peuvent produire un effet comparable à une heure d’exercice. Ce résultat met en avant l’importance de modifier légèrement ses habitudes, sans régime ambitieux ni entraînement intense prolongé. L’article original insiste sur le message de « dormir seulement 11 minutes de plus » et sur des habitudes comme le sommeil et de brèves activités intenses. Pour les personnes manquant de temps pour faire du sport, cela peut constituer une option réaliste de prévention cardiovasculaire. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تغييرات يومية قد تخفض خطر أمراض القلب: 11 دقيقة نوم إضافية و4.5 دقائق نشاط مكثف",
+        "excerpt": "تابع فريق من جامعة سيدني 50 ألف شخص على مدى 8 سنوات ووجد أن 4.5 دقائق من النشاط عالي الكثافة قد تعادل أثر ساعة من التمرين، مع إبراز أهمية النوم 11 دقيقة إضافية.",
+        "body": "إذا لم يكن ممكنا قضاء ساعة في التعرق داخل صالة الرياضة، فقد تساعد تغييرات صغيرة في الحياة اليومية على خفض خطر أمراض القلب والأوعية الدموية. وبحسب mk.co.kr، تابع فريق من أساتذة جامعة سيدني في أستراليا 50 ألف شخص لمدة 8 سنوات، وخلص إلى أن 4.5 دقائق من النشاط عالي الكثافة قد تحقق أثرا يقارن بساعة من التمرين. وتبرز النتيجة قيمة تعديل نمط الحياة بشكل بسيط من دون حميات كبيرة أو تدريبات شاقة وطويلة. وشدد التقرير الأصلي على رسالة “نم 11 دقيقة إضافية فقط”، إلى جانب عادات مثل النوم والنشاط المكثف القصير. وبالنسبة لمن يفتقرون إلى وقت التمرين، قد يكون ذلك خيارا واقعيا للوقاية من مخاطر القلب والأوعية الدموية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हृदय रोग जोखिम घटाने वाली छोटी आदतें: 11 मिनट अधिक नींद और 4.5 मिनट तेज गतिविधि",
+        "excerpt": "ऑस्ट्रेलिया की सिडनी यूनिवर्सिटी टीम ने 50 हजार लोगों को 8 साल तक ट्रैक कर पाया कि 4.5 मिनट की उच्च तीव्रता गतिविधि 1 घंटे व्यायाम जैसी हो सकती है, जबकि 11 मिनट अधिक नींद भी अहम मानी गई।",
+        "body": "अगर जिम में एक घंटा पसीना बहाना संभव नहीं है, तो रोजमर्रा की छोटी आदतें भी हृदय और रक्तवाहिका रोगों के जोखिम को घटाने में मदद कर सकती हैं। mk.co.kr के अनुसार, ऑस्ट्रेलिया की सिडनी यूनिवर्सिटी के प्रोफेसरों की टीम ने 50 हजार लोगों को 8 साल तक ट्रैक किया और विश्लेषण किया कि 4.5 मिनट की उच्च तीव्रता गतिविधि 1 घंटे के व्यायाम जैसा प्रभाव दे सकती है। इससे संकेत मिलता है कि बड़े आहार नियंत्रण या लंबे तीव्र वर्कआउट के बिना भी जीवनशैली में छोटे बदलाव मायने रखते हैं। मूल रिपोर्ट ने “सिर्फ 11 मिनट और सोएं” संदेश के साथ नींद और छोटी तेज गतिविधियों जैसी आदतों को रेखांकित किया। जिन लोगों के पास व्यायाम का समय कम है, उनके लिए यह हृदय जोखिम रोकथाम का व्यावहारिक विकल्प हो सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Perubahan Harian untuk Turunkan Risiko Kardiovaskular: Tidur 11 Menit Lebih Lama dan Aktivitas Intens 4,5 Menit",
+        "excerpt": "Tim University of Sydney melacak 50 ribu orang selama 8 tahun dan menemukan aktivitas intens 4,5 menit dapat menandingi efek olahraga 1 jam, sementara tidur 11 menit lebih lama juga disorot.",
+        "body": "Bagi orang yang tidak bisa berkeringat satu jam di pusat kebugaran, perubahan kecil dalam rutinitas harian dapat membantu menurunkan risiko penyakit kardiovaskular. Menurut mk.co.kr, tim profesor dari University of Sydney, Australia, melacak 50 ribu orang selama 8 tahun dan menganalisis bahwa aktivitas berintensitas tinggi selama 4,5 menit dapat memberi efek yang sebanding dengan olahraga satu jam. Temuan ini menyoroti pentingnya penyesuaian gaya hidup sederhana, tanpa pengaturan diet besar atau latihan intens yang lama. Laporan asli menekankan pesan “cukup tidur 11 menit lebih lama” bersama kebiasaan seperti tidur dan aktivitas intens singkat. Bagi mereka yang kekurangan waktu olahraga, ini dapat menjadi pilihan realistis untuk mencegah risiko kardiovaskular. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "c41d083d6871",
     "slug": "박지원-조국김관영한동훈-당선되면-당-부담평택을-단일화-풀어야-888527",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Jensen Huang Terima Van Fleet Award, Peran Jembatan Korea-AS Disorot",
         "excerpt": "CEO Nvidia Jensen Huang terpilih menerima Van Fleet Award atas kontribusinya mempererat persahabatan Korea-AS dan akan hadir langsung di upacara New York pada 28 September.",
         "body": "CEO Nvidia Jensen Huang terpilih sebagai penerima Van Fleet Award tahun ini atas kontribusinya dalam meningkatkan hubungan persahabatan antara Korea dan Amerika Serikat. Upacara penghargaan akan digelar di New York pada 28 September, dan Huang dijadwalkan hadir langsung. Van Fleet Award diberikan kepada tokoh yang berperan sebagai jembatan antara Korea dan AS. Pihak penyelenggara menilai Huang sedang membangun masa depan bersama perusahaan-perusahaan Korea. Penghargaan ini diperkirakan menyoroti kerja sama antara perusahaan Korea dan Nvidia sebagai simbol pertukaran ekonomi Korea-AS di industri teknologi global. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cfee1ca42664",
-    "slug": "중복상장-크게-줄어든-日전면-금지보다-소수주주-보호-강화-455314",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T13:04:12.561Z",
-    "updatedAt": "2026-05-14T13:04:12.561Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048197",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048197",
-    "titleFingerprint": "7805cb9628f695242fb730f9e5ed2c6fe0a45693",
-    "dedupKeys": [
-      "cfee1ca42664228d9ca7df8c442f8f135907f9e4",
-      "7805cb9628f695242fb730f9e5ed2c6fe0a45693",
-      "4ac430d72af6e5e57b792b8658e2ed3ec8d95653"
-    ],
-    "imageUrl": "/images/articles/cfee1ca42664.jpg",
-    "i18n": {
-      "ko": {
-        "title": "일본 중복상장 7년새 31% 감소…전면 금지보다 소수주주 보호 강화",
-        "excerpt": "일본에서 상장 모회사를 둔 자회사가 7년 새 31% 줄어든 가운데, 거래소는 다음 달 세부 규정을 마무리하고 7월 시행을 앞두고 있다.",
-        "body": "일본에서 상장 모회사를 둔 자회사가 7년 새 31% 감소한 것으로 나타났다. 중복상장 문제를 두고 일본은 전면 금지보다 소수주주 보호를 강화하는 방향에 무게를 두고 있다. 거래소는 다음 달 세부 규정을 마무리하고 7월 시행에 들어갈 예정이다. 한국에서도 금융당국과 한국거래소가 중복상장에 대해 ‘원칙 금지·예외 허용’ 방침 아래 심사기준 마련에 속도를 내고 있다. 일본 사례는 중복상장 규제 논의에서 금지 일변도보다 투자자 보호 장치를 어떻게 강화할지가 핵심 쟁점임을 보여준다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Japan’s Dual Listings Fall 31% in Seven Years as Minority Protection Takes Focus",
-        "excerpt": "In Japan, subsidiaries with listed parent companies have fallen 31% over seven years, while the exchange is set to finalize detailed rules next month for July implementation.",
-        "body": "In Japan, the number of subsidiaries with listed parent companies has declined 31% over seven years. On the issue of dual listings, Japan is placing more emphasis on strengthening protections for minority shareholders than on imposing a blanket ban. The exchange plans to finalize detailed rules next month and implement them in July. In Korea, financial authorities and the Korea Exchange are also moving quickly to prepare review standards under a policy of “prohibition in principle, exceptions allowed” for dual listings. Japan’s case shows that the key issue in dual-listing regulation is how to reinforce investor protections rather than relying only on outright bans. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "日本の親子上場、7年で31%減少…全面禁止より少数株主保護を強化",
-        "excerpt": "日本では上場親会社を持つ子会社が7年で31%減少し、取引所は来月に詳細規則をまとめ、7月の施行を予定している。",
-        "body": "日本では、上場親会社を持つ子会社が7年で31%減少した。親子上場をめぐり、日本は全面禁止よりも少数株主保護を強化する方向に重点を置いている。取引所は来月、詳細規則をまとめ、7月に施行する予定だ。韓国でも金融当局と韓国取引所が、重複上場について「原則禁止・例外容認」の方針の下、審査基準づくりを急いでいる。日本の事例は、重複上場規制の議論で、禁止一辺倒ではなく投資家保護策をどう強化するかが核心であることを示している。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "日本重复上市7年减少31%：监管重点转向强化少数股东保护",
-        "excerpt": "日本拥有上市母公司的子公司7年内减少31%，交易所计划下月敲定细则，并于7月实施相关规定。",
-        "body": "日本拥有上市母公司的子公司在7年内减少了31%。围绕重复上市问题，日本更侧重于加强少数股东保护，而不是全面禁止。交易所计划在下个月敲定详细规定，并于7月开始实施。在韩国，金融监管部门和韩国交易所也正按照“原则上禁止、例外允许”的方针，加快制定重复上市审查标准。日本案例表明，在重复上市监管讨论中，核心不只是全面禁止，而是如何强化投资者保护机制。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Japón reduce 31% las dobles cotizaciones en siete años y prioriza a minoritarios",
-        "excerpt": "En Japón, las filiales con matrices cotizadas bajaron 31% en siete años, mientras la bolsa cerrará reglas detalladas el próximo mes para aplicarlas en julio.",
-        "body": "En Japón, el número de filiales con matrices cotizadas cayó 31% en siete años. Frente al problema de las dobles cotizaciones, Japón está dando más peso al refuerzo de la protección de los accionistas minoritarios que a una prohibición total. La bolsa prevé finalizar las normas detalladas el próximo mes y aplicarlas en julio. En Corea, las autoridades financieras y Korea Exchange también aceleran la preparación de criterios de revisión bajo la política de “prohibición como principio y excepciones permitidas”. El caso japonés muestra que el punto central del debate regulatorio es cómo fortalecer la protección del inversor, no solo prohibir. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Japão reduz dupla listagem em 31% em sete anos e foca acionistas minoritários",
-        "excerpt": "No Japão, subsidiárias com controladoras listadas caíram 31% em sete anos, enquanto a bolsa deve concluir regras no próximo mês para vigorar em julho.",
-        "body": "No Japão, o número de subsidiárias com empresas controladoras listadas caiu 31% em sete anos. No debate sobre dupla listagem, o país dá mais peso ao fortalecimento da proteção dos acionistas minoritários do que a uma proibição total. A bolsa pretende finalizar as regras detalhadas no próximo mês e implementá-las em julho. Na Coreia, autoridades financeiras e a Korea Exchange também aceleram a elaboração de critérios de análise sob a diretriz de “proibição em princípio, com exceções permitidas”. O caso japonês mostra que o ponto central da regulação é como reforçar a proteção do investidor, não apenas proibir. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Japans Doppelnotierungen sinken in sieben Jahren um 31%: Minderheitenschutz im Fokus",
-        "excerpt": "In Japan ist die Zahl börsennotierter Tochtergesellschaften mit gelisteter Mutter in sieben Jahren um 31% gesunken; Detailregeln sollen im nächsten Monat für Juli finalisiert werden.",
-        "body": "In Japan ist die Zahl der Tochtergesellschaften mit börsennotierten Muttergesellschaften innerhalb von sieben Jahren um 31% gesunken. Bei der Frage der Doppelnotierungen setzt Japan stärker auf den Schutz von Minderheitsaktionären als auf ein vollständiges Verbot. Die Börse will die Detailregeln im nächsten Monat abschließen und im Juli umsetzen. Auch in Korea arbeiten die Finanzbehörden und die Korea Exchange zügig an Prüfstandards nach dem Prinzip „grundsätzlich verboten, Ausnahmen erlaubt“. Der japanische Fall zeigt, dass es in der Regulierungsdebatte nicht nur um Verbote geht, sondern um stärkere Schutzmechanismen für Anleger. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Au Japon, les doubles cotations reculent de 31% en sept ans, priorité aux minoritaires",
-        "excerpt": "Au Japon, les filiales de sociétés mères cotées ont diminué de 31% en sept ans; la Bourse doit finaliser ses règles le mois prochain pour une application en juillet.",
-        "body": "Au Japon, le nombre de filiales ayant une société mère cotée a reculé de 31% en sept ans. Face à la question des doubles cotations, le pays privilégie le renforcement de la protection des actionnaires minoritaires plutôt qu’une interdiction totale. La Bourse prévoit de finaliser les règles détaillées le mois prochain et de les appliquer en juillet. En Corée, les autorités financières et Korea Exchange accélèrent aussi l’élaboration de critères d’examen selon le principe d’une « interdiction de principe avec exceptions ». Le cas japonais montre que l’enjeu central est de renforcer la protection des investisseurs, pas seulement d’interdire. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "اليابان تقلص الإدراج المزدوج 31% خلال سبع سنوات وتركز على حماية الأقلية",
-        "excerpt": "في اليابان، تراجع عدد الشركات التابعة ذات الشركات الأم المدرجة 31% خلال سبع سنوات، فيما تعتزم البورصة إنهاء القواعد التفصيلية الشهر المقبل لتطبيقها في يوليو.",
-        "body": "في اليابان، انخفض عدد الشركات التابعة التي لديها شركات أم مدرجة في السوق بنسبة 31% خلال سبع سنوات. وفي التعامل مع قضية الإدراج المزدوج، تميل اليابان إلى تعزيز حماية مساهمي الأقلية بدلا من فرض حظر شامل. وتعتزم البورصة الانتهاء من القواعد التفصيلية الشهر المقبل وبدء تطبيقها في يوليو. وفي كوريا، تسرع السلطات المالية وبورصة كوريا إعداد معايير الفحص وفق سياسة «الحظر من حيث المبدأ والسماح بالاستثناءات». وتوضح التجربة اليابانية أن جوهر نقاش تنظيم الإدراج المزدوج هو كيفية تعزيز حماية المستثمرين، لا الاكتفاء بالحظر. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "जापान में दोहरी लिस्टिंग 7 साल में 31% घटी, अल्पांश शेयरधारक सुरक्षा पर जोर",
-        "excerpt": "जापान में सूचीबद्ध मूल कंपनी वाली सहायक कंपनियां सात साल में 31% घटी हैं, जबकि एक्सचेंज अगले महीने नियमों को अंतिम रूप देकर जुलाई से लागू करेगा।",
-        "body": "जापान में सूचीबद्ध मूल कंपनी रखने वाली सहायक कंपनियों की संख्या सात साल में 31% घट गई है। दोहरी लिस्टिंग के मुद्दे पर जापान पूर्ण प्रतिबंध की तुलना में अल्पांश शेयरधारकों की सुरक्षा मजबूत करने पर अधिक जोर दे रहा है। एक्सचेंज अगले महीने विस्तृत नियमों को अंतिम रूप देगा और जुलाई से उन्हें लागू करेगा। कोरिया में भी वित्तीय प्राधिकरण और Korea Exchange दोहरी लिस्टिंग पर “सिद्धांततः प्रतिबंध, अपवादों की अनुमति” नीति के तहत समीक्षा मानक तैयार करने में तेजी ला रहे हैं। जापान का उदाहरण दिखाता है कि नियमन की बहस में मुख्य सवाल केवल रोक लगाना नहीं, बल्कि निवेशक सुरक्षा को मजबूत करना है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Dual Listing di Jepang Turun 31% dalam 7 Tahun, Perlindungan Minoritas Diperkuat",
-        "excerpt": "Di Jepang, anak usaha dengan induk tercatat turun 31% dalam tujuh tahun, sementara bursa akan merampungkan aturan rinci bulan depan untuk diterapkan Juli.",
-        "body": "Di Jepang, jumlah anak perusahaan yang memiliki induk tercatat di bursa turun 31% dalam tujuh tahun. Dalam isu dual listing, Jepang lebih menekankan penguatan perlindungan pemegang saham minoritas daripada larangan total. Bursa berencana merampungkan aturan rinci bulan depan dan menerapkannya pada Juli. Di Korea, otoritas keuangan dan Korea Exchange juga mempercepat penyusunan standar peninjauan dengan kebijakan “dilarang pada prinsipnya, pengecualian diperbolehkan”. Kasus Jepang menunjukkan bahwa inti pembahasan regulasi dual listing adalah cara memperkuat perlindungan investor, bukan sekadar melarang. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "2795d1620a4d",
-    "slug": "트럼프-시진핑-9년만에-만나-글로벌-현안-한목소리-냈지만-대타협-없어-558418",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T13:03:07.495Z",
-    "updatedAt": "2026-05-14T13:03:07.495Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12048212",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12048212",
-    "titleFingerprint": "b3941c489382bb3fc7a36c20dba41a513564adc3",
-    "dedupKeys": [
-      "2795d1620a4d7b1ec9ca68b0c9e85472f2b56d32",
-      "b3941c489382bb3fc7a36c20dba41a513564adc3",
-      "3cb008ec466e54db24ffd18a71d202d5d00581aa"
-    ],
-    "imageUrl": "/images/articles/2795d1620a4d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프·시진핑 9년 만의 베이징 회담, 공동성명 없이 종료",
-        "excerpt": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 14일 중국 베이징에서 9년 만에 정상회담을 열고 양국 관계와 대만 문제, 글로벌 현안을 논의했으나 구체적 합의는 없었다.",
-        "body": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 14일 현지시간 중국 베이징에서 정상회담을 열고 양국 관계, 대만 문제, 글로벌 현안을 논의했다. 두 정상이 만난 것은 9년 만으로, 회담은 미중 관계의 향방을 가늠할 주요 외교 일정으로 주목받았다. 양측은 여러 글로벌 현안에서 같은 목소리를 낸 것으로 전해졌지만, 회담 결과 구체적인 합의나 공동성명은 나오지 않았다. 이에 따라 이번 만남은 대화 재개와 현안 점검의 의미를 남겼지만, 이른바 대타협으로 이어지지는 못했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trump-Xi Beijing Summit After 9 Years Ends Without Joint Statement",
-        "excerpt": "U.S. President Donald Trump and Chinese President Xi Jinping met in Beijing on the 14th to discuss bilateral ties, Taiwan and global issues, but reached no concrete deal.",
-        "body": "U.S. President Donald Trump and Chinese President Xi Jinping held a summit in Beijing, China, on the 14th local time to discuss bilateral relations, the Taiwan issue and global affairs. It was the first meeting between the two leaders in nine years, drawing attention as a key diplomatic moment for the direction of U.S.-China relations. The two sides were reported to have voiced similar positions on several global issues, but the meeting produced no concrete agreement or joint statement. As a result, the talks carried significance as a resumption of dialogue and a review of pending issues, but did not lead to a so-called grand bargain. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トランプ氏と習氏、9年ぶり北京会談も共同声明なしで終了",
-        "excerpt": "ドナルド・トランプ米大統領と習近平中国国家主席は14日、北京で9年ぶりに首脳会談を行い、二国間関係や台湾問題、国際懸案を協議したが具体的合意はなかった。",
-        "body": "ドナルド・トランプ米大統領と習近平中国国家主席は14日現地時間、中国・北京で首脳会談を開き、二国間関係、台湾問題、国際的な懸案について協議した。両首脳の会談は9年ぶりで、米中関係の行方を占う重要な外交日程として注目された。双方は複数の国際課題で同じ声を出したと伝えられたが、会談の結果、具体的な合意や共同声明は出なかった。今回の会談は対話再開と懸案点検の意味を残した一方、いわゆる大妥協にはつながらなかった。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特朗普与习近平时隔9年北京会晤，未发表联合声明",
-        "excerpt": "美国总统唐纳德·特朗普与中国国家主席习近平14日在北京举行时隔9年的首脑会谈，讨论双边关系、台湾问题和全球议题，但未达成具体协议。",
-        "body": "美国总统唐纳德·特朗普与中国国家主席习近平于当地时间14日在中国北京举行首脑会谈，讨论两国关系、台湾问题以及全球事务。这是两位领导人时隔9年会面，因此被视为观察中美关系走向的重要外交日程。据报道，双方在多项全球议题上发出了相近声音，但会谈结果并未形成具体协议，也没有发表联合声明。因此，此次会晤留下了重启对话和检视现有议题的意义，但并未走向所谓的重大妥协。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Trump y Xi se reúnen en Pekín tras 9 años, sin declaración conjunta",
-        "excerpt": "Donald Trump y Xi Jinping celebraron el día 14 en Pekín una cumbre tras nueve años para tratar la relación bilateral, Taiwán y asuntos globales, pero no hubo acuerdo concreto.",
-        "body": "El presidente de Estados Unidos, Donald Trump, y el presidente de China, Xi Jinping, celebraron el día 14, hora local, una cumbre en Pekín para abordar las relaciones bilaterales, la cuestión de Taiwán y asuntos globales. Fue el primer encuentro entre ambos líderes en nueve años, por lo que atrajo atención como una cita diplomática clave para medir el rumbo de la relación entre Washington y Pekín. Según lo informado, las partes expresaron posiciones similares sobre varios temas globales, pero la reunión no produjo acuerdos concretos ni una declaración conjunta. Así, el encuentro dejó el significado de reabrir el diálogo y revisar asuntos pendientes, sin llegar a un gran pacto. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Trump e Xi se reúnem em Pequim após 9 anos, sem declaração conjunta",
-        "excerpt": "Donald Trump e Xi Jinping realizaram no dia 14, em Pequim, uma cúpula após nove anos para discutir relações bilaterais, Taiwan e temas globais, mas não houve acordo concreto.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, e o presidente da China, Xi Jinping, realizaram no dia 14, horário local, uma cúpula em Pequim para discutir as relações bilaterais, a questão de Taiwan e temas globais. Foi o primeiro encontro entre os dois líderes em nove anos, atraindo atenção como uma agenda diplomática importante para avaliar o rumo das relações entre EUA e China. Segundo relatos, os dois lados expressaram posições semelhantes sobre diversos assuntos globais, mas a reunião não resultou em acordo concreto nem em declaração conjunta. Assim, o encontro marcou a retomada do diálogo e a revisão de temas pendentes, mas não levou a um grande acordo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Trump und Xi treffen sich nach 9 Jahren in Peking, ohne gemeinsame Erklärung",
-        "excerpt": "Donald Trump und Xi Jinping trafen sich am 14. in Peking nach neun Jahren zu einem Gipfel über bilaterale Beziehungen, Taiwan und globale Fragen, erzielten aber keine konkrete Einigung.",
-        "body": "US-Präsident Donald Trump und Chinas Staatspräsident Xi Jinping hielten am 14. Ortszeit in Peking einen Gipfel ab, um über die bilateralen Beziehungen, die Taiwan-Frage und globale Themen zu sprechen. Es war das erste Treffen der beiden Staatschefs seit neun Jahren und wurde als wichtiger diplomatischer Termin für die weitere Entwicklung der Beziehungen zwischen den USA und China beobachtet. Berichten zufolge vertraten beide Seiten bei mehreren globalen Fragen ähnliche Positionen, doch das Treffen brachte keine konkrete Einigung und keine gemeinsame Erklärung hervor. Damit hatte das Gespräch Bedeutung als Wiederaufnahme des Dialogs und Bestandsaufnahme offener Themen, führte aber nicht zu einem großen Kompromiss. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Trump et Xi se retrouvent à Pékin après 9 ans, sans déclaration commune",
-        "excerpt": "Donald Trump et Xi Jinping ont tenu le 14 à Pékin un sommet après neuf ans pour discuter des relations bilatérales, de Taïwan et des dossiers mondiaux, sans accord concret.",
-        "body": "Le président américain Donald Trump et le président chinois Xi Jinping ont tenu le 14, heure locale, un sommet à Pékin afin de discuter des relations bilatérales, de la question de Taïwan et des dossiers mondiaux. Il s’agissait de leur première rencontre en neuf ans, un rendez-vous diplomatique suivi de près pour évaluer l’orientation des relations entre les États-Unis et la Chine. Selon les informations rapportées, les deux parties ont exprimé des positions similaires sur plusieurs sujets mondiaux, mais la réunion n’a débouché ni sur un accord concret ni sur une déclaration commune. Cette rencontre marque donc une reprise du dialogue et un examen des dossiers en suspens, sans aboutir à un grand compromis. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ترامب وشي يلتقيان في بكين بعد 9 سنوات من دون بيان مشترك",
-        "excerpt": "عقد الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ في 14 من الشهر الجاري قمة في بكين بعد تسع سنوات لبحث العلاقات الثنائية وتايوان والقضايا العالمية، من دون اتفاق محدد.",
-        "body": "عقد الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ في 14 من الشهر الجاري بالتوقيت المحلي قمة في بكين بالصين لبحث العلاقات بين البلدين، وقضية تايوان، والقضايا العالمية. وجاء اللقاء بعد تسع سنوات من آخر اجتماع بين الزعيمين، ما جعله محطة دبلوماسية مهمة لمتابعة اتجاه العلاقات الأميركية الصينية. وذكرت التقارير أن الجانبين أظهرا صوتا متقاربا في عدد من القضايا العالمية، لكن الاجتماع لم يسفر عن اتفاق محدد أو بيان مشترك. وبذلك تركت القمة معنى استئناف الحوار ومراجعة الملفات العالقة، لكنها لم تصل إلى ما يسمى بتسوية كبرى. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ट्रंप और शी की 9 साल बाद बीजिंग वार्ता, संयुक्त बयान नहीं",
-        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग ने 14 तारीख को बीजिंग में नौ साल बाद शिखर वार्ता कर संबंधों, ताइवान और वैश्विक मुद्दों पर चर्चा की, पर ठोस सहमति नहीं बनी।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीन के राष्ट्रपति शी जिनपिंग ने स्थानीय समयानुसार 14 तारीख को चीन के बीजिंग में शिखर वार्ता की और द्विपक्षीय संबंधों, ताइवान मुद्दे तथा वैश्विक विषयों पर चर्चा की। दोनों नेताओं की यह मुलाकात नौ साल बाद हुई, इसलिए इसे अमेरिका-चीन संबंधों की दिशा को परखने वाला महत्वपूर्ण कूटनीतिक अवसर माना गया। बताया गया कि दोनों पक्षों ने कई वैश्विक मुद्दों पर समान स्वर दिखाया, लेकिन बैठक से कोई ठोस समझौता या संयुक्त बयान सामने नहीं आया। इस तरह यह मुलाकात संवाद फिर शुरू करने और लंबित मुद्दों की समीक्षा का संकेत बनी, लेकिन किसी बड़े समझौते तक नहीं पहुंची। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Trump dan Xi Bertemu di Beijing Setelah 9 Tahun, Tanpa Pernyataan Bersama",
-        "excerpt": "Presiden AS Donald Trump dan Presiden China Xi Jinping bertemu di Beijing pada tanggal 14 setelah sembilan tahun untuk membahas hubungan bilateral, Taiwan, dan isu global, tetapi tanpa kesepakatan konkret.",
-        "body": "Presiden Amerika Serikat Donald Trump dan Presiden China Xi Jinping menggelar pertemuan puncak di Beijing, China, pada tanggal 14 waktu setempat untuk membahas hubungan kedua negara, isu Taiwan, dan berbagai persoalan global. Pertemuan kedua pemimpin ini terjadi setelah sembilan tahun, sehingga menjadi agenda diplomatik penting untuk melihat arah hubungan AS-China. Kedua pihak disebut menyuarakan posisi yang sama dalam sejumlah isu global, tetapi hasil pertemuan tidak menghasilkan kesepakatan konkret atau pernyataan bersama. Karena itu, pertemuan ini bermakna sebagai pembukaan kembali dialog dan peninjauan isu-isu utama, namun tidak berujung pada kompromi besar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e51d627af144",
-    "slug": "트럼프에-계엄-정당화-전달-지시종합특검-尹-소환-통보-404784",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T13:01:59.900Z",
-    "updatedAt": "2026-05-14T13:01:59.901Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12048215",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12048215",
-    "titleFingerprint": "667a9e972b99febeba10b2920fbe39597572e164",
-    "dedupKeys": [
-      "e51d627af144f73dac54a87e9d2c3d8f85bae123",
-      "667a9e972b99febeba10b2920fbe39597572e164",
-      "4d2c96f8d3fc1d77aae04988e9f742a0280e471c"
-    ],
-    "imageUrl": "/images/articles/e51d627af144.jpg",
-    "i18n": {
-      "ko": {
-        "title": "윤석열 전 대통령 소환 통보…‘트럼프 계엄 정당화 전달’ 의혹 수사",
-        "excerpt": "권창영 2차 종합특검팀이 이달 말 윤석열 전 대통령을 피의자 신분으로 불러 계엄 선포 직후 국가안보실 관련 의혹을 조사할 예정이다.",
-        "body": "권창영 2차 종합 특별검사팀이 윤석열 전 대통령에게 이달 말 피의자 조사를 위한 소환을 통보했다. 수사 대상은 3대 특검 이후 남은 의혹으로, 윤 전 대통령이 계엄 선포 직후 국가안보실에 트럼프 측에 ‘계엄 정당화’ 취지의 내용을 전달하도록 지시했는지 여부가 포함된 것으로 전해졌다. 특검은 관련 경위와 지시 여부를 확인할 방침이다. 이번 소환은 계엄 선포 이후 대외 메시지와 국가안보실 역할을 둘러싼 의혹 규명으로 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Yoon Suk Yeol Summoned as Probe Reviews Alleged Trump Martial Law Message",
-        "excerpt": "Special Counsel Kwon Chang-young’s team has notified former President Yoon Suk Yeol to appear as a suspect late this month over allegations tied to the martial law declaration.",
-        "body": "The second comprehensive special counsel team led by Kwon Chang-young has notified former President Yoon Suk Yeol to appear for questioning as a suspect late this month. The investigation concerns unresolved allegations left after the three major special counsel probes, including whether Yoon instructed the National Security Office shortly after declaring martial law to relay a message to Trump’s side justifying the move. The team is expected to examine the circumstances and whether such an instruction was issued. The summons could clarify questions over external messaging and the National Security Office’s role after the declaration. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "尹錫悦前大統領に出頭通知…「トランプ氏へ戒厳正当化伝達」疑惑を捜査",
-        "excerpt": "権昌永第2次総合特検チームは今月末、尹錫悦前大統領を被疑者として呼び、戒厳宣布直後の国家安保室関連疑惑を調べる予定だ。",
-        "body": "権昌永第2次総合特別検察官チームは、尹錫悦前大統領に今月末、被疑者取り調べのための出頭を通知した。捜査対象は3大特検後に残った疑惑で、尹前大統領が戒厳宣布直後、国家安保室に対し、トランプ氏側へ「戒厳正当化」の趣旨を伝えるよう指示したかどうかが含まれるとされる。特検は関連経緯と指示の有無を確認する方針だ。今回の出頭通知は、戒厳宣布後の対外メッセージと国家安保室の役割をめぐる疑惑解明につながる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "尹锡悦前总统接获传唤通知…特检调查“向特朗普传达戒严正当化”疑云",
-        "excerpt": "权昌永第二综合特别检察组通知尹锡悦前总统本月底以嫌疑人身份到案，调查戒严宣布后涉及国家安保室的疑云。",
-        "body": "权昌永第二综合特别检察组已通知尹锡悦前总统于本月底以嫌疑人身份接受讯问。调查对象是三大特检之后仍未厘清的疑云，其中包括尹前总统是否在宣布戒严后不久，指示国家安保室向特朗普方面传达“戒严正当化”相关内容。特检组计划确认相关经过以及是否存在指示。此次传唤预计将推动厘清戒严宣布后对外信息传递和国家安保室角色相关疑问。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Yoon Suk Yeol, citado por la fiscalía especial por presunto mensaje a Trump sobre la ley marcial",
-        "excerpt": "El segundo equipo del fiscal especial Kwon Chang-young notificó a Yoon Suk Yeol que comparezca como sospechoso a fines de este mes por dudas ligadas a la ley marcial.",
-        "body": "El segundo equipo integral del fiscal especial Kwon Chang-young notificó al expresidente Yoon Suk Yeol que comparezca a fines de este mes para ser interrogado como sospechoso. La investigación aborda sospechas pendientes tras las tres grandes pesquisas especiales, incluida la posibilidad de que Yoon instruyera a la Oficina de Seguridad Nacional, poco después de declarar la ley marcial, a transmitir al entorno de Trump un mensaje destinado a justificarla. El equipo buscará verificar los hechos y si existió tal instrucción. La citación podría aclarar el papel de la oficina y los mensajes externos posteriores a la declaración. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Yoon Suk Yeol é intimado em investigação sobre suposta mensagem a Trump após lei marcial",
-        "excerpt": "A segunda equipe do promotor especial Kwon Chang-young notificou Yoon Suk Yeol para depor como suspeito no fim deste mês sobre suspeitas ligadas à lei marcial.",
-        "body": "A segunda equipe abrangente do promotor especial Kwon Chang-young notificou o ex-presidente Yoon Suk Yeol para comparecer, no fim deste mês, a um interrogatório como suspeito. A investigação trata de suspeitas remanescentes após as três grandes apurações especiais, incluindo se Yoon instruiu o Escritório de Segurança Nacional, logo após declarar a lei marcial, a transmitir ao lado de Trump uma mensagem com o sentido de justificá-la. A equipe deve verificar o contexto e se a instrução ocorreu. A intimação pode esclarecer dúvidas sobre a comunicação externa e o papel do órgão após a declaração. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Yoon Suk Yeol vorgeladen: Sonderermittler prüfen mutmaßliche Botschaft an Trump",
-        "excerpt": "Das zweite Sonderermittlerteam um Kwon Chang-young hat Ex-Präsident Yoon Suk Yeol für Ende des Monats als Beschuldigten vorgeladen, wegen Vorwürfen zur Kriegsrechtserklärung.",
-        "body": "Das zweite umfassende Sonderermittlerteam unter Kwon Chang-young hat Ex-Präsident Yoon Suk Yeol für Ende dieses Monats zu einer Vernehmung als Beschuldigter vorgeladen. Gegenstand sind nach den drei großen Sonderermittlungen verbliebene Vorwürfe, darunter die Frage, ob Yoon kurz nach der Ausrufung des Kriegsrechts das Nationale Sicherheitsbüro anwies, Trumps Seite eine Botschaft zur Rechtfertigung des Kriegsrechts zu übermitteln. Die Ermittler wollen Ablauf und mögliche Anweisung prüfen. Die Vorladung könnte Fragen zu Auslandsbotschaften und zur Rolle des Sicherheitsbüros nach der Erklärung klären. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Yoon Suk Yeol convoqué par le procureur spécial sur un supposé message à Trump",
-        "excerpt": "La deuxième équipe du procureur spécial Kwon Chang-young a convoqué Yoon Suk Yeol comme suspect fin ce mois-ci pour des soupçons liés à la déclaration de loi martiale.",
-        "body": "La deuxième équipe spéciale globale dirigée par le procureur spécial Kwon Chang-young a notifié à l’ancien président Yoon Suk Yeol sa convocation, fin ce mois-ci, pour un interrogatoire en tant que suspect. L’enquête porte sur les soupçons restés en suspens après les trois grandes investigations spéciales, notamment la question de savoir si Yoon a demandé au Bureau de la sécurité nationale, juste après la proclamation de la loi martiale, de transmettre au camp Trump un message visant à la justifier. L’équipe devra vérifier les circonstances et l’existence d’une instruction. Cette convocation pourrait éclaircir le rôle du bureau et la communication extérieure après la proclamation. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "استدعاء يون سوك يول للتحقيق في شبهة رسالة إلى ترامب لتبرير الأحكام العرفية",
-        "excerpt": "أبلغ فريق المدعي الخاص الثاني بقيادة كوون تشانغ يونغ الرئيس السابق يون سوك يول بالمثول كمشتبه به أواخر هذا الشهر بشأن شبهات أعقبت إعلان الأحكام العرفية.",
-        "body": "أبلغ فريق التحقيق الشامل الثاني للمدعي الخاص كوون تشانغ يونغ الرئيس السابق يون سوك يول بضرورة المثول أواخر هذا الشهر لاستجوابه بصفته مشتبها به. ويتعلق التحقيق بشبهات بقيت بعد التحقيقات الخاصة الثلاثة الكبرى، ومنها ما إذا كان يون قد وجّه مكتب الأمن الوطني، بعد إعلان الأحكام العرفية مباشرة، إلى نقل مضمون إلى جانب ترامب يهدف إلى تبرير الأحكام العرفية. ومن المقرر أن يتحقق الفريق من الملابسات وما إذا كان التوجيه قد صدر. وقد يساعد الاستدعاء في توضيح الرسائل الخارجية ودور مكتب الأمن الوطني بعد الإعلان. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "यून सुक येओल को समन, ट्रंप तक मार्शल लॉ को सही ठहराने वाला संदेश भेजने की जांच",
-        "excerpt": "क्वोन चांग-यंग की दूसरी विशेष जांच टीम ने पूर्व राष्ट्रपति यून सुक येओल को इस महीने के अंत में संदिग्ध के रूप में पूछताछ के लिए बुलाया है।",
-        "body": "क्वोन चांग-यंग के नेतृत्व वाली दूसरी व्यापक विशेष अभियोजक टीम ने पूर्व राष्ट्रपति यून सुक येओल को इस महीने के अंत में संदिग्ध के रूप में पूछताछ के लिए समन भेजा है। जांच उन शंकाओं से जुड़ी है जो तीन प्रमुख विशेष जांचों के बाद भी बाकी हैं। इनमें यह सवाल शामिल है कि क्या यून ने मार्शल लॉ की घोषणा के तुरंत बाद राष्ट्रीय सुरक्षा कार्यालय को ट्रंप पक्ष तक मार्शल लॉ को सही ठहराने वाली बात पहुंचाने का निर्देश दिया था। टीम घटनाक्रम और निर्देश दिए जाने की 여부 की पुष्टि करेगी। यह समन घोषणा के बाद बाहरी संदेशों और राष्ट्रीय सुरक्षा कार्यालय की भूमिका पर उठे सवालों को स्पष्ट कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Yoon Suk Yeol Dipanggil, Dugaan Pesan Pembenaran Darurat Militer ke Trump Diselidiki",
-        "excerpt": "Tim jaksa khusus komprehensif kedua Kwon Chang-young memberi tahu Yoon Suk Yeol untuk diperiksa sebagai tersangka akhir bulan ini terkait dugaan setelah darurat militer.",
-        "body": "Tim jaksa khusus komprehensif kedua yang dipimpin Kwon Chang-young telah memberi tahu mantan Presiden Yoon Suk Yeol untuk hadir menjalani pemeriksaan sebagai tersangka pada akhir bulan ini. Penyelidikan mencakup dugaan yang tersisa setelah tiga penyelidikan khusus besar, termasuk apakah Yoon memerintahkan Kantor Keamanan Nasional segera setelah deklarasi darurat militer untuk menyampaikan kepada pihak Trump pesan yang bermaksud membenarkan langkah tersebut. Tim akan memeriksa kronologi dan apakah instruksi itu diberikan. Pemanggilan ini diperkirakan dapat memperjelas pesan eksternal dan peran Kantor Keamanan Nasional setelah deklarasi. Sumber: mk.co.kr"
       }
     }
   }
