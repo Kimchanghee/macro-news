@@ -1,5 +1,230 @@
 [
   {
+    "id": "f671f0fc4aad",
+    "slug": "삼성파업-공포韓증시-검은-금요일-186774",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T09:21:55.292Z",
+    "updatedAt": "2026-05-15T09:21:55.292Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049434",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049434",
+    "titleFingerprint": "dcecb885e8a515437146ec0e6c34e8c7e297c966",
+    "dedupKeys": [
+      "f671f0fc4aad90623d00930f91698d1ac0191658",
+      "dcecb885e8a515437146ec0e6c34e8c7e297c966",
+      "af732463cfc58e1e652bca83920e18c57f6174f0"
+    ],
+    "imageUrl": "/images/articles/f671f0fc4aad.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 파업 우려에 한국 증시 흔들린 ‘검은 금요일’",
+        "excerpt": "삼성전자 초기업노조 삼성전자지부는 15일 회사 측 대화 촉구에 성과급 제도화 안건이 없으면 6월 7일 이후 협의하겠다는 입장을 밝혔다.",
+        "body": "삼성전자 파업 우려가 한국 증시에 부담으로 떠오른 가운데, 초기업노조 삼성전자지부는 15일 오전 회사 측의 대화 촉구 제안에 조건부 협의 의사를 밝혔다. 노조는 “성과급 제도화 안건이 없다면 6월 7일 이후에 사측과 협의할 의사가 있다”고 말했다. 이번 발언은 삼성전자 ‘파업 열차’를 이끄는 노조가 회사의 대화 제안에 즉각 응하지 않고, 성과급 제도화 여부를 핵심 조건으로 제시한 것이다. 파업 가능성에 대한 경계감은 한국 증시의 ‘검은 금요일’ 분위기와 맞물려 투자심리에 부담을 주는 변수로 부각됐다. 향후 노사 대화는 성과급 제도화 안건 포함 여부와 6월 7일 이후 협의 재개 가능성에 따라 흐름이 달라질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Strike Fears Shake Korean Stocks on ‘Black Friday’",
+        "excerpt": "Samsung Electronics’ union said on the 15th it would discuss with management after June 7 if institutionalizing performance bonuses is not on the agenda.",
+        "body": "Amid concerns that a Samsung Electronics strike could weigh on Korean equities, the Samsung Electronics branch of the cross-company union responded on the morning of the 15th to management’s call for talks with a conditional position. The union said, “If there is no agenda item on institutionalizing performance bonuses, we are willing to consult with management after June 7.” The remark shows that the union leading Samsung Electronics’ so-called “strike train” is not immediately accepting the company’s proposal for dialogue, instead making the performance bonus system a key condition. Strike concerns emerged as a factor pressuring investor sentiment alongside the “Black Friday” mood in the Korean stock market. Future labor-management talks are expected to depend on whether the bonus-system agenda is included and whether consultations resume after June 7. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子スト懸念で韓国株揺れる「ブラックフライデー」",
+        "excerpt": "サムスン電子の超企業労組サムスン電子支部は15日、成果給制度化の議題がなければ6月7日以降に会社側と協議する意向を示した。",
+        "body": "サムスン電子のストライキ懸念が韓国株式市場の重荷として浮上する中、超企業労組サムスン電子支部は15日午前、会社側の対話要請に対し条件付きで協議する意向を明らかにした。労組は「成果給制度化の議題がなければ、6月7日以降に会社側と協議する意思がある」と述べた。この発言は、サムスン電子の「スト列車」を率いる労組が会社の対話提案に直ちに応じず、成果給制度化の有無を核心条件として提示したものだ。ストの可能性への警戒感は、韓国証券市場の「ブラックフライデー」ムードと重なり、投資心理の負担要因として浮上した。今後の労使対話は、成果給制度化議題の採用可否と6月7日以降の協議再開の可能性に左右される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子罢工担忧冲击韩国股市，“黑色星期五”气氛升温",
+        "excerpt": "三星电子超企业工会三星电子支部15日表示，如无绩效奖金制度化议题，将在6月7日以后与公司方面协商。",
+        "body": "在三星电子罢工担忧成为韩国股市压力因素之际，超企业工会三星电子支部15日上午对公司方面要求对话的提议表明了有条件协商的立场。工会表示：“如果没有绩效奖金制度化议题，我们有意在6月7日以后与公司方面协商。”这一表态显示，正在引领三星电子“罢工列车”的工会并未立即接受公司的对话提议，而是把是否纳入绩效奖金制度化作为核心条件。对罢工可能性的警惕与韩国股市“黑色星期五”的氛围交织，成为压制投资心理的变量。今后劳资对话的走向，将取决于是否纳入绩效奖金制度化议题，以及6月7日以后能否重启协商。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Temor a huelga en Samsung golpea a la bolsa coreana en un ‘viernes negro’",
+        "excerpt": "El sindicato de Samsung Electronics dijo el día 15 que negociará con la empresa después del 7 de junio si no se incluye la institucionalización de bonos.",
+        "body": "Mientras el temor a una huelga en Samsung Electronics se perfila como una carga para la bolsa coreana, la filial de Samsung Electronics del sindicato supraempresarial respondió la mañana del día 15 al llamado de diálogo de la empresa con una postura condicional. El sindicato afirmó: “Si no hay un punto sobre la institucionalización del sistema de bonos por desempeño, estamos dispuestos a discutir con la empresa después del 7 de junio”. La declaración muestra que el sindicato que lidera el “tren de huelga” de Samsung Electronics no acepta de inmediato la propuesta de diálogo de la compañía y plantea como condición clave la inclusión de ese asunto. La cautela por una posible huelga se combinó con el ambiente de “viernes negro” en el mercado coreano y surgió como una variable que pesa sobre el ánimo inversor. El rumbo del diálogo laboral dependerá de si se incluye el tema de los bonos y de la posibilidad de reanudar conversaciones después del 7 de junio. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Temor de greve na Samsung abala bolsa coreana em ‘sexta-feira negra’",
+        "excerpt": "O sindicato da Samsung Electronics disse no dia 15 que negociará com a empresa após 7 de junho se a institucionalização dos bônus não estiver na pauta.",
+        "body": "Enquanto o temor de uma greve na Samsung Electronics surge como peso para o mercado acionário coreano, a seção Samsung Electronics do sindicato supraempresarial respondeu na manhã do dia 15 ao apelo da empresa por diálogo com uma posição condicional. O sindicato afirmou: “Se não houver pauta sobre a institucionalização do sistema de bônus por desempenho, temos intenção de consultar a empresa após 7 de junho”. A declaração indica que o sindicato que conduz o “trem da greve” da Samsung Electronics não aceitará imediatamente a proposta de diálogo da companhia, colocando a institucionalização dos bônus como condição central. A cautela diante da possibilidade de paralisação se combinou ao clima de “sexta-feira negra” na bolsa coreana e apareceu como fator de pressão sobre o sentimento dos investidores. O rumo das conversas trabalhistas dependerá da inclusão dessa pauta e da possibilidade de retomada após 7 de junho. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-Streikangst belastet Koreas Aktienmarkt am ‘Schwarzen Freitag’",
+        "excerpt": "Die Samsung-Electronics-Gewerkschaft erklärte am 15., sie werde nach dem 7. Juni mit dem Unternehmen sprechen, falls Bonusregeln nicht auf der Agenda stehen.",
+        "body": "Während die Sorge vor einem Streik bei Samsung Electronics den koreanischen Aktienmarkt belastet, reagierte die Samsung-Electronics-Sparte der überbetrieblichen Gewerkschaft am Morgen des 15. auf den Dialogaufruf des Unternehmens mit einer bedingten Bereitschaft. Die Gewerkschaft sagte: „Wenn die Institutionalisierung des Leistungsbonus-Systems nicht auf der Tagesordnung steht, sind wir bereit, nach dem 7. Juni mit der Unternehmensseite zu beraten.“ Damit nimmt die Gewerkschaft, die den sogenannten „Streikzug“ bei Samsung Electronics anführt, das Gesprächsangebot nicht sofort an und macht die Bonusregelung zur zentralen Bedingung. Die Vorsicht wegen eines möglichen Streiks traf auf die Stimmung eines „Schwarzen Freitags“ am koreanischen Markt und wurde zu einem Belastungsfaktor für die Anlegerstimmung. Der weitere Verlauf der Gespräche dürfte davon abhängen, ob das Bonusthema aufgenommen wird und ob nach dem 7. Juni Beratungen wieder beginnen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Crainte de grève chez Samsung : la Bourse coréenne sous pression",
+        "excerpt": "Le syndicat de Samsung Electronics a déclaré le 15 qu’il discuterait avec la direction après le 7 juin si l’institutionnalisation des primes n’est pas à l’ordre du jour.",
+        "body": "Alors que la crainte d’une grève chez Samsung Electronics pèse sur la Bourse coréenne, la branche Samsung Electronics du syndicat interentreprises a répondu le matin du 15 à l’appel au dialogue de la direction par une position conditionnelle. Le syndicat a déclaré : « S’il n’y a pas de point sur l’institutionnalisation du système de primes de performance, nous sommes disposés à consulter la direction après le 7 juin. » Cette déclaration montre que le syndicat qui mène le « train de grève » de Samsung Electronics n’accepte pas immédiatement la proposition de dialogue de l’entreprise et pose la question des primes comme condition centrale. La vigilance face à une possible grève s’est ajoutée à l’ambiance de « vendredi noir » sur le marché coréen, pesant sur le sentiment des investisseurs. La suite du dialogue social dépendra de l’inscription de ce sujet à l’ordre du jour et d’une reprise éventuelle des discussions après le 7 juin. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "مخاوف إضراب سامسونغ تهز الأسهم الكورية في ‘جمعة سوداء’",
+        "excerpt": "قال فرع سامسونغ إلكترونيكس في النقابة فوق المؤسسية يوم 15 إنه مستعد للتشاور مع الإدارة بعد 7 يونيو إذا لم تُدرج مسألة نظام مكافآت الأداء.",
+        "body": "في ظل بروز مخاوف من إضراب في سامسونغ إلكترونيكس كعامل ضغط على سوق الأسهم الكورية، أعلن فرع سامسونغ إلكترونيكس في النقابة فوق المؤسسية صباح يوم 15 موقفا مشروطا من دعوة الشركة إلى الحوار. وقالت النقابة: “إذا لم يكن هناك بند يتعلق بإضفاء الطابع المؤسسي على نظام مكافآت الأداء، فنحن مستعدون للتشاور مع جانب الشركة بعد 7 يونيو.” ويعني ذلك أن النقابة التي تقود ما يوصف بـ“قطار الإضراب” في سامسونغ إلكترونيكس لا تستجيب فورا لاقتراح الحوار، بل تضع إدراج ملف مكافآت الأداء شرطا أساسيا. وتزامنت المخاوف من احتمال الإضراب مع أجواء “الجمعة السوداء” في البورصة الكورية، لتصبح متغيرا ضاغطا على معنويات المستثمرين. ومن المتوقع أن يتحدد مسار الحوار العمالي المقبل بحسب إدراج هذا البند وإمكانية استئناف التشاور بعد 7 يونيو. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग हड़ताल की आशंका से कोरियाई शेयर बाजार में ‘ब्लैक फ्राइडे’",
+        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स यूनियन ने 15 तारीख को कहा कि यदि प्रदर्शन बोनस को संस्थागत बनाने का मुद्दा एजेंडा में नहीं है, तो वह 7 जून के बाद कंपनी से चर्चा करेगी।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स में हड़ताल की आशंका कोरियाई शेयर बाजार पर दबाव के रूप में उभरने के बीच, सुपर-एंटरप्राइज यूनियन की सैमसंग इलेक्ट्रॉनिक्स शाखा ने 15 तारीख की सुबह कंपनी की बातचीत की अपील पर सशर्त रुख जताया। यूनियन ने कहा, “यदि प्रदर्शन बोनस प्रणाली को संस्थागत बनाने का एजेंडा नहीं है, तो 7 जून के बाद कंपनी पक्ष से चर्चा करने की इच्छा है।” यह बयान दिखाता है कि सैमसंग इलेक्ट्रॉनिक्स की ‘हड़ताल ट्रेन’ का नेतृत्व कर रही यूनियन कंपनी के संवाद प्रस्ताव को तुरंत स्वीकार नहीं कर रही है, बल्कि प्रदर्शन बोनस प्रणाली को मुख्य शर्त के रूप में रख रही है। संभावित हड़ताल को लेकर सतर्कता कोरियाई शेयर बाजार के ‘ब्लैक फ्राइडे’ माहौल से जुड़कर निवेशक भावना पर दबाव डालने वाला कारक बनी। आगे की श्रम-प्रबंधन बातचीत इस बात पर निर्भर करेगी कि बोनस प्रणाली का मुद्दा शामिल होता है या नहीं और 7 जून के बाद चर्चा फिर शुरू होती है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kekhawatiran Mogok Samsung Guncang Bursa Korea di ‘Black Friday’",
+        "excerpt": "Serikat Samsung Electronics pada tanggal 15 menyatakan akan berunding dengan perusahaan setelah 7 Juni jika agenda pelembagaan bonus kinerja tidak dimasukkan.",
+        "body": "Di tengah kekhawatiran mogok Samsung Electronics yang menjadi beban bagi pasar saham Korea, cabang Samsung Electronics dari serikat lintas perusahaan pada pagi tanggal 15 menyampaikan kesediaan berunding secara bersyarat atas ajakan dialog dari perusahaan. Serikat mengatakan, “Jika tidak ada agenda pelembagaan sistem bonus kinerja, kami bersedia berkonsultasi dengan pihak perusahaan setelah 7 Juni.” Pernyataan ini menunjukkan bahwa serikat yang memimpin “kereta mogok” Samsung Electronics tidak langsung menerima usulan dialog perusahaan, melainkan menjadikan pelembagaan bonus kinerja sebagai syarat utama. Kewaspadaan terhadap kemungkinan mogok berpadu dengan suasana “Black Friday” di bursa Korea dan muncul sebagai variabel yang menekan sentimen investor. Arah dialog buruh-manajemen berikutnya diperkirakan bergantung pada apakah agenda bonus tersebut dimasukkan dan apakah konsultasi dapat dilanjutkan setelah 7 Juni. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "093c741a7341",
+    "slug": "메드팩토-우정원-대표-선임기술이전임상개발-집중-690384",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T09:20:44.188Z",
+    "updatedAt": "2026-05-15T09:20:44.188Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12049438",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12049438",
+    "titleFingerprint": "a745850bbc6f4e41c148fb139c7b8f9b7046e682",
+    "dedupKeys": [
+      "093c741a7341ce36ae2960e42e9a4d4a7e7fb9ae",
+      "a745850bbc6f4e41c148fb139c7b8f9b7046e682",
+      "ec38c3e8e4fb76ffeb89cda0c0cad019c0d2d99e"
+    ],
+    "imageUrl": "/images/articles/093c741a7341.jpg",
+    "i18n": {
+      "ko": {
+        "title": "메드팩토, 우정원 대표 선임…기술이전·임상개발 강화에 집중",
+        "excerpt": "혁신신약 개발기업 메드팩토가 김성진 대표 사임 이후 우정원 대표를 선임하고, 임상 개발과 기술이전 역량 강화 및 하반기 신규 항암제 임상 신청 추진에 나선다.",
+        "body": "혁신신약 개발기업 메드팩토가 임상 개발과 기술이전 역량을 강화하기 위해 대표이사 체제를 개편하고 우정원 대표를 선임했다. 창업자인 김성진 대표는 사임했지만 회장직은 유지한다. 이번 인사는 회사가 핵심 신약 개발 과제의 임상 진전과 기술이전 추진에 집중하려는 경영 체제 변화로 풀이된다. 메드팩토는 하반기 신규 항암제 임상 신청도 추진할 계획이다. 대표이사 교체 이후 회사의 임상개발 실행력과 기술이전 협상 역량이 주요 관전 포인트가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "MedPacto Names Woo Jung-won CEO, Sharpens Focus on Tech Transfers and Trials",
+        "excerpt": "MedPacto appointed Woo Jung-won as CEO after Kim Sung-jin stepped down, while keeping him as chairman, to strengthen clinical development, technology transfer and new anticancer drug trial plans.",
+        "body": "MedPacto, an innovative drug development company, has reorganized its CEO structure and appointed Woo Jung-won as chief executive to strengthen clinical development and technology transfer capabilities. Founder Kim Sung-jin resigned as CEO but will remain chairman. The move reflects a management shift aimed at focusing on clinical progress for key new drug programs and advancing technology transfer efforts. MedPacto also plans to pursue a clinical trial application for a new anticancer drug in the second half of the year. After the leadership change, the company’s clinical execution and technology transfer capabilities are expected to be key points to watch. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "メドパクト、禹正元氏を代表に選任…技術移転と臨床開発を強化",
+        "excerpt": "革新的新薬開発企業メドパクトは、金成珍代表の辞任後に禹正元氏を代表に選任し、臨床開発と技術移転の強化、新規抗がん剤の臨床申請を進める。",
+        "body": "革新的新薬開発企業のメドパクトは、臨床開発と技術移転の能力を強化するため代表取締役体制を改編し、禹正元氏を代表に選任した。創業者の金成珍代表は辞任したが、会長職は維持する。今回の人事は、主要な新薬開発課題の臨床進展と技術移転の推進に集中するための経営体制の変化と受け止められる。メドパクトは下半期に新規抗がん剤の臨床申請も進める計画だ。代表交代後は、同社の臨床開発の実行力と技術移転交渉力が主な注目点となる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "MedPacto任命禹正元为代表，聚焦技术转让与临床开发",
+        "excerpt": "创新药开发企业MedPacto在金成珍辞任代表后任命禹正元为新代表，同时推进临床开发、技术转让能力强化及下半年新抗癌药临床申请。",
+        "body": "创新药开发企业MedPacto为加强临床开发和技术转让能力，调整代表理事体制，并任命禹正元为代表。创始人金成珍已辞去代表职务，但将继续担任会长。此次人事调整被视为公司为集中推进核心新药开发项目的临床进展和技术转让而进行的管理体制变化。MedPacto还计划在下半年推进新抗癌药的临床申请。代表理事更换后，公司的临床开发执行力和技术转让谈判能力预计将成为主要关注点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "MedPacto nombra a Woo Jung-won CEO y refuerza ensayos y transferencia tecnológica",
+        "excerpt": "MedPacto nombró a Woo Jung-won como CEO tras la renuncia de Kim Sung-jin, que seguirá como presidente, para fortalecer el desarrollo clínico y la transferencia tecnológica.",
+        "body": "MedPacto, empresa dedicada al desarrollo de fármacos innovadores, reorganizó su estructura de dirección ejecutiva y nombró a Woo Jung-won como CEO para reforzar sus capacidades de desarrollo clínico y transferencia tecnológica. El fundador Kim Sung-jin renunció al cargo de CEO, aunque mantendrá la presidencia. El cambio refleja una reorganización de gestión orientada a concentrarse en el avance clínico de sus principales programas de nuevos medicamentos y en la promoción de acuerdos de transferencia tecnológica. MedPacto también planea impulsar en la segunda mitad del año una solicitud clínica para un nuevo anticancerígeno. Tras el cambio de liderazgo, la ejecución clínica y la capacidad negociadora en transferencia tecnológica serán puntos clave a seguir. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "MedPacto nomeia Woo Jung-won CEO e foca em transferência tecnológica e ensaios",
+        "excerpt": "A MedPacto nomeou Woo Jung-won como CEO após a saída de Kim Sung-jin, que seguirá como presidente, para reforçar desenvolvimento clínico, transferência tecnológica e novo anticâncer.",
+        "body": "A MedPacto, empresa de desenvolvimento de novos medicamentos inovadores, reorganizou sua estrutura de CEO e nomeou Woo Jung-won para fortalecer as capacidades de desenvolvimento clínico e transferência tecnológica. O fundador Kim Sung-jin renunciou ao cargo de CEO, mas continuará como presidente. A mudança indica uma reorganização de gestão voltada a concentrar esforços no avanço clínico dos principais projetos de novos medicamentos e na promoção de transferências tecnológicas. A MedPacto também planeja avançar, no segundo semestre, com um pedido clínico para um novo medicamento anticâncer. Após a troca de liderança, a execução clínica e a capacidade de negociação em transferência tecnológica devem ser os principais pontos de atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "MedPacto ernennt Woo Jung-won zum CEO und stärkt Technologietransfer und Klinik",
+        "excerpt": "MedPacto hat Woo Jung-won nach dem Rücktritt von Kim Sung-jin zum CEO ernannt, während Kim Chairman bleibt, um klinische Entwicklung und Technologietransfer zu stärken.",
+        "body": "MedPacto, ein Unternehmen für die Entwicklung innovativer neuer Arzneimittel, hat seine CEO-Struktur neu geordnet und Woo Jung-won zum Chief Executive ernannt, um die Kompetenzen in klinischer Entwicklung und Technologietransfer zu stärken. Gründer Kim Sung-jin trat als CEO zurück, bleibt jedoch Chairman. Der Schritt gilt als Änderung der Managementstruktur, mit der sich das Unternehmen stärker auf klinische Fortschritte seiner zentralen neuen Wirkstoffprogramme und auf Technologietransfer konzentrieren will. MedPacto plant außerdem, in der zweiten Jahreshälfte einen klinischen Antrag für ein neues Krebsmedikament voranzutreiben. Nach dem Führungswechsel dürften die klinische Umsetzungskraft und die Verhandlungsfähigkeit beim Technologietransfer zentrale Beobachtungspunkte sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "MedPacto nomme Woo Jung-won CEO et renforce transfert technologique et clinique",
+        "excerpt": "MedPacto a nommé Woo Jung-won CEO après la démission de Kim Sung-jin, qui reste président, afin de renforcer le développement clinique, le transfert technologique et un nouvel anticancéreux.",
+        "body": "MedPacto, société de développement de médicaments innovants, a réorganisé sa direction générale et nommé Woo Jung-won CEO afin de renforcer ses capacités de développement clinique et de transfert technologique. Le fondateur Kim Sung-jin a quitté son poste de CEO, mais conserve la présidence. Cette décision traduit une évolution de la structure de gestion visant à concentrer les efforts sur l’avancement clinique des principaux programmes de nouveaux médicaments et sur la promotion du transfert technologique. MedPacto prévoit aussi de déposer au second semestre une demande clinique pour un nouveau médicament anticancéreux. Après ce changement de direction, l’exécution du développement clinique et la capacité de négociation en transfert technologique devraient être les principaux points d’attention. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ميدباكتو تعين وو جونغ وون رئيسا تنفيذيا وتركز على نقل التقنية والتجارب",
+        "excerpt": "عينت ميدباكتو وو جونغ وون رئيسا تنفيذيا بعد استقالة كيم سونغ جين، مع بقائه رئيسا لمجلس الإدارة، لتعزيز التطوير السريري ونقل التقنية وطلب سريري لعقار سرطان جديد.",
+        "body": "أعادت شركة ميدباكتو، المتخصصة في تطوير الأدوية الابتكارية، تنظيم هيكل الرئيس التنفيذي وعينت وو جونغ وون رئيسا تنفيذيا لتعزيز قدراتها في التطوير السريري ونقل التقنية. وقد استقال المؤسس كيم سونغ جين من منصب الرئيس التنفيذي، لكنه سيحتفظ بمنصب رئيس مجلس الإدارة. تعكس هذه الخطوة تغييرا في الإدارة يهدف إلى التركيز على تقدم التجارب السريرية لبرامج الأدوية الجديدة الأساسية ودفع جهود نقل التقنية. وتخطط ميدباكتو أيضا للمضي في النصف الثاني من العام بطلب سريري لعقار جديد مضاد للسرطان. وبعد تغيير القيادة، من المتوقع أن تكون قدرة الشركة على تنفيذ التطوير السريري والتفاوض في نقل التقنية من أبرز نقاط المتابعة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "MedPacto ने Woo Jung-won को CEO बनाया, टेक ट्रांसफर और क्लिनिकल विकास पर जोर",
+        "excerpt": "MedPacto ने Kim Sung-jin के CEO पद छोड़ने के बाद Woo Jung-won को CEO नियुक्त किया; Kim चेयरमैन रहेंगे और कंपनी क्लिनिकल विकास, टेक ट्रांसफर व नए कैंसर दवा आवेदन पर ध्यान देगी।",
+        "body": "नवोन्मेषी नई दवाएं विकसित करने वाली कंपनी MedPacto ने क्लिनिकल विकास और तकनीक हस्तांतरण क्षमता मजबूत करने के लिए अपनी CEO व्यवस्था में बदलाव कर Woo Jung-won को मुख्य कार्यकारी नियुक्त किया है। संस्थापक Kim Sung-jin ने CEO पद से इस्तीफा दिया है, लेकिन वे चेयरमैन बने रहेंगे। यह कदम प्रमुख नई दवा विकास परियोजनाओं की क्लिनिकल प्रगति और तकनीक हस्तांतरण को आगे बढ़ाने पर केंद्रित प्रबंधन बदलाव के रूप में देखा जा रहा है। MedPacto वर्ष की दूसरी छमाही में एक नई कैंसररोधी दवा के लिए क्लिनिकल आवेदन आगे बढ़ाने की योजना भी बना रही है। नेतृत्व परिवर्तन के बाद कंपनी की क्लिनिकल क्रियान्वयन क्षमता और तकनीक हस्तांतरण वार्ता क्षमता प्रमुख निगरानी बिंदु होंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "MedPacto Tunjuk Woo Jung-won Jadi CEO, Fokus Transfer Teknologi dan Uji Klinis",
+        "excerpt": "MedPacto menunjuk Woo Jung-won sebagai CEO setelah Kim Sung-jin mundur namun tetap menjadi chairman, untuk memperkuat pengembangan klinis, transfer teknologi dan rencana obat antikanker baru.",
+        "body": "MedPacto, perusahaan pengembang obat inovatif, merombak struktur CEO dan menunjuk Woo Jung-won sebagai chief executive untuk memperkuat kemampuan pengembangan klinis dan transfer teknologi. Pendiri Kim Sung-jin mengundurkan diri dari posisi CEO, tetapi tetap mempertahankan jabatan chairman. Langkah ini mencerminkan perubahan manajemen yang diarahkan untuk berfokus pada kemajuan klinis program obat baru utama dan mendorong transfer teknologi. MedPacto juga berencana mengajukan aplikasi klinis untuk obat antikanker baru pada paruh kedua tahun ini. Setelah pergantian kepemimpinan, kemampuan eksekusi pengembangan klinis dan negosiasi transfer teknologi perusahaan diperkirakan menjadi fokus utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4e3a49279ed7",
+    "slug": "올-1분기-가상자산-한파에-빗썸-적자전환두나무도-매출-반토막-657810",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T09:19:45.477Z",
+    "updatedAt": "2026-05-15T09:19:45.477Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049439",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049439",
+    "titleFingerprint": "51898efaedf8415623b5dc3c52ba944d08546a5a",
+    "dedupKeys": [
+      "4e3a49279ed7cda7c5f0163502e4d853e68b37a2",
+      "51898efaedf8415623b5dc3c52ba944d08546a5a",
+      "75c2def58ace1411c408029caaafcb4178b9f19c"
+    ],
+    "imageUrl": "/images/articles/4e3a49279ed7.png",
+    "i18n": {
+      "ko": {
+        "title": "가상자산 거래소 실적 한파, 빗썸 적자전환·두나무 영업익 급감",
+        "excerpt": "올해 1분기 가상자산 시장 침체로 거래대금이 줄면서 빗썸은 적자 전환했고 두나무는 매출이 반토막, 영업이익은 78% 감소했다.",
+        "body": "올해 1분기 국내 가상자산 거래소 양대 산맥인 빗썸과 두나무가 시장 침체의 직격탄을 맞았다. 가상자산 거래대금이 급감하면서 수수료 수익이 줄었고, 빗썸은 적자로 돌아섰으며 두나무는 매출이 반토막 났다. 두나무의 영업이익도 78% 감소한 것으로 전해졌다. 장기화하는 ‘크립토 윈터’ 속에서 거래소들은 외형 성장보다 내실 다지기 경쟁에 나서는 분위기다. 거래 활성화가 실적 회복의 핵심 변수로 떠오른 가운데, 수수료 의존도가 높은 사업 구조의 부담도 다시 부각됐다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Crypto Exchange Slump Hits Bithumb Loss and Dunamu Profit Drop",
+        "excerpt": "In the first quarter, a prolonged virtual asset downturn cut trading volume, pushing Bithumb into the red and halving Dunamu’s revenue as operating profit fell 78%.",
+        "body": "In the first quarter of this year, South Korea’s two major virtual asset exchanges, Bithumb and Dunamu, were hit directly by the market slowdown. As trading value in virtual assets fell sharply, fee income declined, sending Bithumb into a loss and cutting Dunamu’s revenue by half. Dunamu’s operating profit was also reported to have dropped 78%. Amid the prolonged “crypto winter,” exchanges are shifting from external growth toward strengthening fundamentals. With trading activity emerging as the key factor for earnings recovery, the burden of a business model highly dependent on fees has again come into focus. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "暗号資産取引所に業績寒波、Bithumb赤字転落・Dunamu利益急減",
+        "excerpt": "今年第1四半期、暗号資産市場の低迷で取引代金が急減し、Bithumbは赤字転落、Dunamuは売上半減と営業利益78％減に見舞われた。",
+        "body": "今年第1四半期、韓国の暗号資産取引所大手であるBithumbとDunamuが市場低迷の直撃を受けた。暗号資産の取引代金が急減したことで手数料収入が落ち込み、Bithumbは赤字に転落し、Dunamuは売上が半減した。Dunamuの営業利益も78％減少したと伝えられている。長引く「クリプトウィンター」の中、取引所各社は外形的な成長よりも内実を固める競争へ軸足を移している。取引活性化が業績回復の重要な変数となる一方、手数料依存度の高い事業構造の負担も改めて浮き彫りになった。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "虚拟资产交易所业绩遇冷，Bithumb转亏、Dunamu利润骤降",
+        "excerpt": "今年第一季度，虚拟资产市场低迷导致交易额锐减，Bithumb转为亏损，Dunamu营收减半，营业利润下降78%。",
+        "body": "今年第一季度，韩国两大虚拟资产交易所Bithumb和Dunamu受到市场低迷的直接冲击。随着虚拟资产交易额大幅减少，手续费收入下降，Bithumb转为亏损，Dunamu营收则减半。据报道，Dunamu营业利润也下降了78%。在持续的“加密寒冬”中，交易所正从追求外延增长转向强化内功的竞争。交易活跃度成为业绩恢复的关键变量，同时，高度依赖手续费收入的商业结构压力也再次显现。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Golpe a exchanges cripto: Bithumb pasa a pérdidas y Dunamu reduce ganancias",
+        "excerpt": "En el primer trimestre, la debilidad del mercado de activos virtuales redujo el volumen negociado, llevó a Bithumb a pérdidas y recortó a la mitad los ingresos de Dunamu.",
+        "body": "En el primer trimestre de este año, Bithumb y Dunamu, los dos grandes exchanges de activos virtuales de Corea del Sur, recibieron el impacto directo de la desaceleración del mercado. La fuerte caída del valor negociado redujo los ingresos por comisiones, llevó a Bithumb a números rojos y dejó los ingresos de Dunamu en la mitad. También se informó que el beneficio operativo de Dunamu cayó un 78%. En medio de un “invierno cripto” prolongado, los exchanges compiten ahora por reforzar sus fundamentos más que por crecer en tamaño. La reactivación del comercio aparece como variable clave para recuperar resultados, mientras vuelve a destacar la carga de un modelo muy dependiente de comisiones. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Crise cripto atinge exchanges: Bithumb fica no prejuízo e Dunamu cai",
+        "excerpt": "No primeiro trimestre, a queda do mercado de ativos virtuais reduziu o volume negociado, levou a Bithumb ao prejuízo e cortou pela metade a receita da Dunamu.",
+        "body": "No primeiro trimestre deste ano, Bithumb e Dunamu, as duas principais exchanges de ativos virtuais da Coreia do Sul, foram diretamente afetadas pela fraqueza do mercado. Com a forte queda no valor negociado, a receita de comissões recuou, a Bithumb passou a registrar prejuízo e a receita da Dunamu caiu pela metade. O lucro operacional da Dunamu também teria diminuído 78%. Em meio ao prolongado “inverno cripto”, as exchanges passam a competir mais pelo fortalecimento interno do que pela expansão externa. A retomada das negociações surge como variável central para a recuperação dos resultados, enquanto a dependência de comissões volta a pesar sobre o modelo de negócios. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Krypto-Börsen unter Druck: Bithumb rutscht in Verlust, Dunamu bricht ein",
+        "excerpt": "Im ersten Quartal drückte die Schwäche am Markt für virtuelle Vermögenswerte das Handelsvolumen, brachte Bithumb in die Verlustzone und halbierte Dunamus Umsatz.",
+        "body": "Im ersten Quartal dieses Jahres traf die Schwäche am Markt für virtuelle Vermögenswerte die beiden großen südkoreanischen Börsen Bithumb und Dunamu direkt. Weil das Handelsvolumen deutlich zurückging, sanken die Provisionserlöse; Bithumb rutschte in die Verlustzone, während sich Dunamus Umsatz halbierte. Auch der operative Gewinn von Dunamu soll um 78% gefallen sein. Im anhaltenden „Crypto Winter“ verlagert sich der Wettbewerb der Börsen von äußerem Wachstum hin zur Stärkung der eigenen Substanz. Die Belebung des Handels wird damit zur zentralen Variable für eine Ergebnisverbesserung, zugleich tritt die Belastung eines stark gebührenabhängigen Geschäftsmodells wieder klar hervor. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Froid sur les plateformes crypto: Bithumb en perte, bénéfice de Dunamu en chute",
+        "excerpt": "Au premier trimestre, la faiblesse du marché des actifs virtuels a réduit les volumes, fait basculer Bithumb dans le rouge et divisé par deux le chiffre d’affaires de Dunamu.",
+        "body": "Au premier trimestre de cette année, Bithumb et Dunamu, les deux grandes plateformes sud-coréennes d’actifs virtuels, ont subi de plein fouet le ralentissement du marché. La forte baisse des montants échangés a réduit les revenus de commissions, faisant basculer Bithumb dans le rouge et divisant par deux le chiffre d’affaires de Dunamu. Le bénéfice opérationnel de Dunamu aurait aussi reculé de 78%. Dans un « hiver crypto » prolongé, les plateformes se tournent davantage vers le renforcement de leurs fondamentaux que vers la croissance externe. La reprise des échanges devient la variable clé du redressement, tandis que la dépendance aux commissions pèse de nouveau sur le modèle économique. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تراجع منصات الأصول الافتراضية: خسارة Bithumb وهبوط أرباح Dunamu",
+        "excerpt": "في الربع الأول، أدى ركود سوق الأصول الافتراضية إلى انخفاض حاد في التداول، فتحولت Bithumb إلى الخسارة وتراجع إيراد Dunamu إلى النصف.",
+        "body": "في الربع الأول من هذا العام، تلقت منصتا الأصول الافتراضية الرئيسيتان في كوريا الجنوبية، Bithumb وDunamu، ضربة مباشرة من ركود السوق. ومع الانخفاض الحاد في قيمة التداول، تراجعت إيرادات الرسوم، فتحولت Bithumb إلى الخسارة، بينما انخفضت إيرادات Dunamu إلى النصف. كما أفيد بأن الربح التشغيلي لدى Dunamu تراجع بنسبة 78%. وفي ظل استمرار “شتاء العملات المشفرة”، تتجه المنصات إلى منافسة تركز على تعزيز الأساس الداخلي بدلا من النمو الحجمي. وأصبح تنشيط التداول عاملا رئيسيا لتعافي النتائج، فيما عاد عبء نموذج الأعمال المعتمد بشدة على الرسوم إلى الواجهة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "क्रिप्टो एक्सचेंजों पर दबाव: Bithumb घाटे में, Dunamu का लाभ तेजी से घटा",
+        "excerpt": "पहली तिमाही में वर्चुअल एसेट बाजार की सुस्ती से ट्रेडिंग वैल्यू घटी, Bithumb घाटे में गई और Dunamu का राजस्व आधा, ऑपरेटिंग लाभ 78% कम हुआ।",
+        "body": "इस साल की पहली तिमाही में दक्षिण कोरिया के दो प्रमुख वर्चुअल एसेट एक्सचेंज, Bithumb और Dunamu, बाजार की सुस्ती से सीधे प्रभावित हुए। वर्चुअल एसेट की ट्रेडिंग वैल्यू तेजी से घटने पर शुल्क आय कम हुई, जिससे Bithumb घाटे में चली गई और Dunamu का राजस्व आधा रह गया। Dunamu का ऑपरेटिंग लाभ भी 78% घटने की जानकारी दी गई। लंबे “क्रिप्टो विंटर” के बीच एक्सचेंज अब बाहरी विस्तार के बजाय अपनी आंतरिक मजबूती बढ़ाने की प्रतिस्पर्धा में उतर रहे हैं। परिणामों की रिकवरी के लिए ट्रेडिंग गतिविधि अहम कारक बन गई है, जबकि शुल्क पर अधिक निर्भर कारोबारी ढांचे का बोझ फिर सामने आया है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Tekanan Bursa Kripto: Bithumb Merugi, Laba Operasi Dunamu Anjlok",
+        "excerpt": "Pada kuartal pertama, lesunya pasar aset virtual menekan nilai transaksi, membuat Bithumb berbalik rugi dan memangkas pendapatan Dunamu hingga separuh.",
+        "body": "Pada kuartal pertama tahun ini, dua bursa aset virtual utama Korea Selatan, Bithumb dan Dunamu, terkena langsung dampak pelemahan pasar. Nilai transaksi aset virtual yang turun tajam menekan pendapatan komisi, membuat Bithumb berbalik rugi dan pendapatan Dunamu menyusut hingga separuh. Laba operasi Dunamu juga dilaporkan turun 78%. Di tengah “crypto winter” yang berkepanjangan, bursa mulai bersaing untuk memperkuat fundamental internal, bukan sekadar mengejar pertumbuhan skala. Aktivitas transaksi menjadi faktor kunci pemulihan kinerja, sementara beban model bisnis yang sangat bergantung pada komisi kembali terlihat jelas. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "9fdac0230001",
     "slug": "판다-오면-100만명-찾는다우치동물원-경제효과-최대-769억원-224365",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Lee dan Menkeu AS Saling Sapa di X, Tegaskan Kemitraan Korea-AS",
         "excerpt": "Pada 14 Mei, Presiden Lee Jae-myung membagikan unggahan Menkeu AS Scott Bessent di X setelah pertemuan sehari sebelumnya dan menekankan kemitraan bilateral.",
         "body": "Presiden Lee Jae-myung pada 14 Mei membagikan di akun X, sebelumnya Twitter, unggahan Menteri Keuangan Amerika Serikat Scott Bessent, yang ia temui sehari sebelumnya, dan menekankan pentingnya hubungan Korea Selatan-Amerika Serikat. Lee dan Bessent saling bertukar sapaan hangat di media sosial mengenai hubungan bilateral. Inti pesannya adalah bahwa Korea Selatan dan Amerika Serikat merupakan mitra paling penting bagi satu sama lain. Komunikasi daring setelah pertemuan itu menegaskan kembali arah kerja sama kedua negara. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "67507be94ee5",
-    "slug": "강남차병원-국내최초-산부인과-로봇수술-1만례-달성여성의료-새-이정표-720780",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T17:51:55.254Z",
-    "updatedAt": "2026-05-14T17:51:55.254Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12048091",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12048091",
-    "titleFingerprint": "42c9c9a8a4b04e7a5a5e4d745da26cdcd3a40b8f",
-    "dedupKeys": [
-      "67507be94ee5a02c96be02a586fe5a0cd08f652a",
-      "42c9c9a8a4b04e7a5a5e4d745da26cdcd3a40b8f",
-      "52e40d10458bb60ccaa41f5c1887d452305b6ebf"
-    ],
-    "imageUrl": "/images/articles/67507be94ee5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "강남차병원, 국내 최초 산부인과 로봇수술 1만례 달성…여성의료 이정표",
-        "excerpt": "차 의과학대학교 강남차병원이 국내 최초로 산부인과 로봇수술 누적 1만례를 달성하며 가임력·자궁 보존 중심의 미세침습 여성의료 성과를 보여줬다.",
-        "body": "차 의과학대학교 강남차병원이 국내 최초로 산부인과 로봇수술 누적 1만례를 달성했다. 병원은 정교한 미세침습 수술을 통해 여성 환자의 가임력과 자궁 보존에 집중해 왔다. 이번 기록은 국내 로봇수술 전체 중 7%를 차지하는 규모로, 환자 83%가 30·40대인 점도 특징이다. 산부인과 영역에서 로봇수술이 젊은 여성 환자의 치료 선택지로 자리 잡고 있음을 보여주는 수치다. 강남차병원의 1만례 달성은 여성의료 분야에서 정밀 수술과 장기 보존 치료의 중요성을 다시 확인한 이정표로 평가된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gangnam CHA Hospital Reaches Korea’s First 10,000 OB-GYN Robotic Surgeries",
-        "excerpt": "Gangnam CHA Hospital of CHA University reached Korea’s first cumulative 10,000 OB-GYN robotic surgeries, highlighting minimally invasive care focused on fertility and uterus preservation.",
-        "body": "Gangnam CHA Hospital of CHA University has become the first in Korea to reach 10,000 cumulative robotic surgeries in obstetrics and gynecology. The hospital has focused on precise, minimally invasive procedures designed to help preserve fertility and the uterus for female patients. The milestone accounts for 7% of all robotic surgeries in Korea, and 83% of the patients were in their 30s and 40s. The figures show that robotic surgery has become an important treatment option for younger women in the OB-GYN field. The 10,000-case mark is viewed as a new milestone in women’s healthcare, reaffirming the importance of precision surgery and organ-preserving treatment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "江南チャ病院、韓国初の産婦人科ロボット手術1万例を達成",
-        "excerpt": "CHA医科大学江南チャ病院が韓国で初めて産婦人科ロボット手術累計1万例を達成し、妊孕性と子宮温存を重視する低侵襲医療の成果を示した。",
-        "body": "CHA医科大学江南チャ病院が、韓国で初めて産婦人科ロボット手術の累計1万例を達成した。同病院は精密な低侵襲手術を通じて、女性患者の妊孕性と子宮の温存に重点を置いてきた。今回の記録は韓国内のロボット手術全体の7%を占める規模で、患者の83%が30代と40代だった点も特徴だ。これは産婦人科領域でロボット手術が若い女性患者の治療選択肢として定着していることを示す。江南チャ病院の1万例達成は、女性医療分野における精密手術と臓器温存治療の重要性を改めて確認する節目と評価される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "江南CHA医院达成韩国首个妇产科机器人手术1万例纪录",
-        "excerpt": "CHA医科大学江南CHA医院在韩国率先实现妇产科机器人手术累计1万例，展现以保留生育力和子宫为重点的微创女性医疗成果。",
-        "body": "CHA医科大学江南CHA医院在韩国首次实现妇产科机器人手术累计1万例。该医院一直通过精密的微创手术，专注于帮助女性患者保留生育力和子宫。此次纪录占韩国国内机器人手术总量的7%，患者中83%为30多岁和40多岁人群，这也是一项重要特征。相关数据表明，在妇产科领域，机器人手术已成为年轻女性患者的重要治疗选择。江南CHA医院达成1万例，被视为女性医疗领域的新里程碑，也再次确认了精密手术和器官保留治疗的重要性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Gangnam CHA logra el primer hito coreano de 10.000 cirugías robóticas ginecoobstétricas",
-        "excerpt": "Gangnam CHA Hospital de la Universidad CHA alcanzó en Corea las primeras 10.000 cirugías robóticas acumuladas en obstetricia y ginecología, centradas en preservar fertilidad y útero.",
-        "body": "Gangnam CHA Hospital de la Universidad CHA de Ciencias Médicas alcanzó en Corea el primer acumulado de 10.000 cirugías robóticas en obstetricia y ginecología. El hospital se ha centrado en procedimientos mínimamente invasivos y precisos para ayudar a preservar la fertilidad y el útero de las pacientes. Este hito representa el 7% de todas las cirugías robóticas realizadas en Corea, y el 83% de las pacientes tenía entre 30 y 49 años. Las cifras muestran que la cirugía robótica se ha consolidado como una opción terapéutica para mujeres jóvenes en el área ginecoobstétrica. El logro de 10.000 casos se considera un nuevo punto de referencia para la medicina femenina y confirma la importancia de la cirugía de precisión y los tratamientos conservadores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Gangnam CHA atinge primeiro marco coreano de 10 mil cirurgias robóticas em ginecologia",
-        "excerpt": "O Gangnam CHA Hospital da Universidade CHA alcançou na Coreia o primeiro total de 10 mil cirurgias robóticas em obstetrícia e ginecologia, com foco em preservar fertilidade e útero.",
-        "body": "O Gangnam CHA Hospital da Universidade CHA de Ciências Médicas tornou-se o primeiro na Coreia a alcançar 10 mil cirurgias robóticas acumuladas em obstetrícia e ginecologia. O hospital tem concentrado sua atuação em procedimentos minimamente invasivos e precisos para ajudar a preservar a fertilidade e o útero das pacientes. O marco corresponde a 7% de todas as cirurgias robóticas no país, e 83% das pacientes estavam na faixa dos 30 e 40 anos. Os números mostram que a cirurgia robótica se firmou como uma opção de tratamento para mulheres mais jovens na área gineco-obstétrica. A marca de 10 mil casos é vista como um novo referencial na saúde da mulher e reforça a importância da cirurgia de precisão e da preservação de órgãos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Gangnam CHA erreicht Koreas erste 10.000 roboterassistierte OPs in der Gynäkologie",
-        "excerpt": "Das Gangnam CHA Hospital der CHA University erreichte in Korea erstmals 10.000 roboterassistierte Eingriffe in Geburtshilfe und Gynäkologie, mit Fokus auf Fertilitäts- und Gebärmuttererhalt.",
-        "body": "Das Gangnam CHA Hospital der CHA University of Medical Science hat als erstes Krankenhaus in Korea kumuliert 10.000 roboterassistierte Operationen in Geburtshilfe und Gynäkologie erreicht. Das Krankenhaus setzt auf präzise minimalinvasive Eingriffe, um bei Patientinnen Fertilität und Gebärmutter möglichst zu erhalten. Der Meilenstein entspricht 7% aller roboterassistierten Operationen in Korea; 83% der Patientinnen waren in ihren 30ern und 40ern. Diese Zahlen zeigen, dass sich die Robotik in der Gynäkologie als Behandlungsoption für jüngere Frauen etabliert hat. Die Marke von 10.000 Fällen gilt als wichtiger Schritt in der Frauengesundheit und unterstreicht die Bedeutung von Präzisionschirurgie und organerhaltender Behandlung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Gangnam CHA atteint en Corée le cap inédit de 10.000 chirurgies robotiques gynécologiques",
-        "excerpt": "Le Gangnam CHA Hospital de l’Université CHA a atteint en Corée le premier cumul de 10.000 chirurgies robotiques en obstétrique-gynécologie, axées sur la préservation de la fertilité et de l’utérus.",
-        "body": "Le Gangnam CHA Hospital de l’Université CHA des sciences médicales est devenu le premier établissement en Corée à atteindre 10.000 chirurgies robotiques cumulées en obstétrique et gynécologie. L’hôpital s’est concentré sur des interventions mini-invasives de précision visant à préserver la fertilité et l’utérus des patientes. Ce jalon représente 7% de l’ensemble des chirurgies robotiques réalisées en Corée, et 83% des patientes étaient dans la trentaine ou la quarantaine. Ces chiffres montrent que la chirurgie robotique est devenue une option de traitement importante pour les femmes jeunes dans ce domaine. Le cap des 10.000 cas est considéré comme une nouvelle référence pour la santé des femmes et confirme l’importance de la chirurgie de précision et des traitements conservateurs d’organes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مستشفى غانغنام تشا يحقق أول 10 آلاف جراحة روبوتية نسائية في كوريا",
-        "excerpt": "حقق مستشفى غانغنام تشا التابع لجامعة تشا في كوريا أول حصيلة تراكمية تبلغ 10 آلاف جراحة روبوتية في طب النساء والتوليد، مع تركيز على حفظ الخصوبة والرحم.",
-        "body": "حقق مستشفى غانغنام تشا التابع لجامعة تشا للعلوم الطبية في كوريا أول إنجاز تراكمي يبلغ 10 آلاف جراحة روبوتية في مجال طب النساء والتوليد. وركز المستشفى على الجراحات الدقيقة محدودة التدخل لمساعدة المريضات على الحفاظ على الخصوبة والرحم. ويمثل هذا الرقم 7% من إجمالي الجراحات الروبوتية في كوريا، كما أن 83% من المريضات كن في الثلاثينات والأربعينات من العمر. وتوضح هذه الأرقام أن الجراحة الروبوتية أصبحت خيارا علاجيا مهما للنساء الأصغر سنا في مجال النساء والتوليد. ويعد بلوغ 10 آلاف حالة معلما جديدا في الرعاية الصحية النسائية، ويؤكد أهمية الجراحة الدقيقة والعلاج المحافظ على الأعضاء. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "गंगनम CHA अस्पताल ने कोरिया में पहली बार 10,000 OB-GYN रोबोटिक सर्जरी पूरी की",
-        "excerpt": "CHA यूनिवर्सिटी के गंगनम CHA अस्पताल ने कोरिया में पहली बार प्रसूति-स्त्री रोग क्षेत्र में 10,000 रोबोटिक सर्जरी का संचयी आंकड़ा हासिल किया, जिसमें प्रजनन क्षमता और गर्भाशय संरक्षण पर जोर रहा।",
-        "body": "CHA यूनिवर्सिटी ऑफ मेडिकल साइंस के गंगनम CHA अस्पताल ने कोरिया में पहली बार प्रसूति और स्त्री रोग क्षेत्र में 10,000 संचयी रोबोटिक सर्जरी पूरी की हैं। अस्पताल ने सटीक और न्यूनतम चीरे वाली सर्जरी के माध्यम से महिला रोगियों की प्रजनन क्षमता और गर्भाशय को सुरक्षित रखने पर ध्यान दिया है। यह उपलब्धि कोरिया में कुल रोबोटिक सर्जरी का 7% है, और 83% मरीज 30 और 40 वर्ष की आयु वर्ग में थे। ये आंकड़े दिखाते हैं कि स्त्री रोग क्षेत्र में रोबोटिक सर्जरी युवा महिलाओं के लिए एक महत्वपूर्ण उपचार विकल्प बन रही है। 10,000 मामलों की यह उपलब्धि महिला स्वास्थ्य सेवा में एक नया मील का पत्थर मानी जा रही है और सटीक सर्जरी तथा अंग-संरक्षण उपचार के महत्व को फिर से रेखांकित करती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Gangnam CHA Capai 10.000 Operasi Robotik Obstetri-Ginekologi Pertama di Korea",
-        "excerpt": "Gangnam CHA Hospital dari CHA University menjadi yang pertama di Korea mencapai 10.000 operasi robotik kumulatif di bidang obstetri dan ginekologi, dengan fokus pada pelestarian fertilitas dan rahim.",
-        "body": "Gangnam CHA Hospital dari CHA University of Medical Science menjadi yang pertama di Korea yang mencapai 10.000 operasi robotik kumulatif di bidang obstetri dan ginekologi. Rumah sakit ini berfokus pada prosedur bedah minimal invasif yang presisi untuk membantu mempertahankan fertilitas dan rahim pasien perempuan. Capaian tersebut mencakup 7% dari seluruh operasi robotik di Korea, sementara 83% pasien berada pada usia 30-an dan 40-an. Angka ini menunjukkan bahwa operasi robotik telah menjadi pilihan terapi penting bagi perempuan muda dalam bidang obstetri-ginekologi. Pencapaian 10.000 kasus ini dinilai sebagai tonggak baru dalam layanan kesehatan perempuan dan menegaskan kembali pentingnya bedah presisi serta perawatan yang mempertahankan organ. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "316f3fece152",
-    "slug": "정신병자도-아니고-x같게교사가-흡연-지적하자-중학생들이-한-말-292048",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T17:50:43.642Z",
-    "updatedAt": "2026-05-14T17:50:43.642Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12048187",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12048187",
-    "titleFingerprint": "c9d139a78d7e7ddca9b27646c8744933f25f091e",
-    "dedupKeys": [
-      "316f3fece152bede52be455754894eed5f75e349",
-      "c9d139a78d7e7ddca9b27646c8744933f25f091e",
-      "7020811d404c1af0de30f3e860dd6d3b82cfab3a"
-    ],
-    "imageUrl": "/images/articles/316f3fece152.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중학생 흡연 제지 영상 논란, 교사 추정 남성 향한 욕설 확산",
-        "excerpt": "스승의날을 하루 앞둔 5월 14일, 길거리에서 흡연하던 중학생들이 이를 제지한 교사 추정 남성에게 욕설과 도발을 하는 영상이 온라인에 퍼져 논란이 커졌다.",
-        "body": "스승의날을 하루 앞둔 5월 14일, 길거리에서 담배를 피우던 중학생들이 이를 제지하는 교사로 추정되는 남성을 향해 욕설과 도발적 말을 하는 영상이 온라인상에서 확산되며 논란이 일었다. 원문에 따르면 해당 영상은 최근 사회관계망서비스를 통해 퍼졌고, 학생들이 흡연 지적을 받은 뒤 거친 표현으로 맞서는 장면이 문제가 됐다. 교권과 학생 생활지도에 대한 사회적 관심이 이어지는 가운데, 이번 영상은 학교 안팎에서 교사의 지도 권한과 학생 태도를 둘러싼 논의를 다시 불러올 가능성이 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Middle School Smoking Video Sparks Backlash Over Insults Toward Presumed Teacher",
-        "excerpt": "On May 14, one day before Teachers’ Day, a video spread online showing middle school students smoking on the street and insulting a man presumed to be a teacher who tried to stop them.",
-        "body": "On May 14, one day before Teachers’ Day, a video spread online showing middle school students smoking on a street and directing insults and provocative remarks at a man presumed to be a teacher who tried to stop them. According to the original report, the footage recently circulated through social media, drawing criticism over the students’ harsh response after being confronted about smoking. Amid continued public attention to teachers’ authority and student guidance, the video may renew discussion over how teachers can intervene inside and outside school settings. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "中学生の路上喫煙注意動画が波紋、教師とみられる男性に暴言",
-        "excerpt": "教師の日を翌日に控えた5月14日、路上で喫煙していた中学生が注意した教師とみられる男性に暴言や挑発的な言葉を向ける動画が拡散し、議論を呼んだ。",
-        "body": "教師の日を翌日に控えた5月14日、路上でたばこを吸っていた中学生が、それを制止した教師とみられる男性に暴言や挑発的な言葉を向ける動画がオンラインで広がり、波紋を呼んだ。原文によると、この映像は最近SNSを通じて拡散し、喫煙を指摘された後に学生たちが荒い表現で反発する場面が問題視された。教権や生徒指導への社会的関心が続く中、今回の映像は学校内外での教師の指導権限と生徒の態度をめぐる議論を再び呼び起こす可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "初中生吸烟被制止后辱骂疑似教师，相关视频引发争议",
-        "excerpt": "5月14日、教师节前一天，一段初中生在街头吸烟并对制止其行为的疑似教师男子辱骂、挑衅的视频在网上传播，引发争议。",
-        "body": "5月14日、教师节前一天，一段视频在网上扩散：几名初中生在街头吸烟，被一名疑似教师的男子制止后，对其说出辱骂和挑衅性言语，引发争议。原文称，该视频近日通过社交网络传播，学生在被指出吸烟问题后以粗暴表达回应的场面受到关注。随着社会持续关注教师权威和学生生活指导问题，此次视频可能再次引发关于教师在校内外指导权限以及学生态度的讨论。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Video de alumnos fumando causa polémica por insultos a presunto profesor",
-        "excerpt": "El 14 de mayo, un día antes del Día del Maestro, se difundió un video de estudiantes de secundaria fumando en la calle e insultando a un hombre que presuntamente era profesor y los reprendió.",
-        "body": "El 14 de mayo, un día antes del Día del Maestro, se difundió en línea un video en el que estudiantes de secundaria fumaban en la calle y dirigían insultos y comentarios provocadores a un hombre presuntamente profesor que intentó detenerlos. Según el texto original, las imágenes circularon recientemente por redes sociales y generaron polémica por la respuesta agresiva de los alumnos tras ser señalados por fumar. En medio de la atención pública sobre la autoridad docente y la orientación estudiantil, el caso podría reabrir el debate sobre el papel de los profesores dentro y fuera de la escuela. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Vídeo de alunos fumando gera polêmica por insultos a suposto professor",
-        "excerpt": "Em 14 de maio, véspera do Dia dos Professores, um vídeo mostrou estudantes do ensino fundamental fumando na rua e insultando um homem supostamente professor que tentou impedi-los.",
-        "body": "Em 14 de maio, um dia antes do Dia dos Professores, um vídeo se espalhou online mostrando estudantes do ensino fundamental fumando na rua e dirigindo insultos e comentários provocativos a um homem supostamente professor que tentou contê-los. Segundo o texto original, as imagens circularam recentemente pelas redes sociais, gerando críticas à reação ríspida dos alunos após serem advertidos por fumar. Em meio à atenção pública sobre autoridade docente e orientação estudantil, o caso pode reacender discussões sobre a atuação de professores dentro e fora da escola. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Video von rauchenden Mittelschülern löst Streit über Beleidigungen gegen Lehrer aus",
-        "excerpt": "Am 14. Mai, einen Tag vor dem Lehrertag, verbreitete sich ein Video, in dem Mittelschüler auf der Straße rauchen und einen mutmaßlichen Lehrer beleidigen, der sie stoppen wollte.",
-        "body": "Am 14. Mai, einen Tag vor dem Lehrertag, verbreitete sich online ein Video, das Mittelschüler beim Rauchen auf der Straße zeigt. Als ein Mann, der mutmaßlich Lehrer ist, sie daran hindern wollte, richteten sie Beleidigungen und provokante Worte gegen ihn. Dem Originalbericht zufolge kursierte das Video zuletzt in sozialen Netzwerken und sorgte wegen der groben Reaktion der Schüler nach dem Hinweis auf das Rauchen für Kritik. Angesichts der anhaltenden Debatte über Lehrerautorität und Schülerführung könnte der Vorfall neue Diskussionen über Eingriffsmöglichkeiten von Lehrern innerhalb und außerhalb der Schule auslösen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Vidéo d’élèves fumant dans la rue: polémique après des insultes envers un enseignant présumé",
-        "excerpt": "Le 14 mai, veille de la Journée des enseignants, une vidéo montrant des collégiens fumant dans la rue et insultant un homme présumé enseignant qui les réprimandait s’est diffusée en ligne.",
-        "body": "Le 14 mai, veille de la Journée des enseignants, une vidéo s’est propagée en ligne montrant des collégiens en train de fumer dans la rue et adressant des insultes ainsi que des propos provocateurs à un homme présumé enseignant qui tentait de les arrêter. Selon le texte original, la séquence a récemment circulé sur les réseaux sociaux et a suscité la polémique en raison de la réaction brutale des élèves après la remarque sur le tabac. Alors que l’autorité des enseignants et l’encadrement des élèves restent au centre de l’attention publique, l’affaire pourrait relancer le débat sur le rôle des enseignants à l’intérieur et à l’extérieur de l’école. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "فيديو طلاب يدخنون يثير جدلا بعد إساءات لرجل يعتقد أنه معلم",
-        "excerpt": "في 14 مايو، قبل يوم من يوم المعلم، انتشر مقطع يظهر طلابا في المرحلة المتوسطة يدخنون في الشارع ويوجهون إساءات واستفزازات لرجل يعتقد أنه معلم حاول منعهم.",
-        "body": "في 14 مايو، قبل يوم واحد من يوم المعلم، انتشر على الإنترنت مقطع فيديو يظهر طلابا في المرحلة المتوسطة يدخنون في الشارع ويوجهون عبارات مسيئة واستفزازية إلى رجل يعتقد أنه معلم بعدما حاول منعهم. ووفقا للنص الأصلي، انتشر المقطع مؤخرا عبر وسائل التواصل الاجتماعي، وأثار جدلا بسبب رد الطلاب الخشن بعد تنبيههم إلى التدخين. ومع استمرار الاهتمام العام بسلطة المعلمين وإرشاد الطلاب، قد يعيد هذا المقطع فتح النقاش حول حدود تدخل المعلمين داخل المدرسة وخارجها وسلوك الطلاب تجاههم. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सड़क पर धूम्रपान कर रहे छात्रों का वीडियो विवाद में, कथित शिक्षक को अपशब्द",
-        "excerpt": "14 मई, शिक्षक दिवस से एक दिन पहले, सड़क पर धूम्रपान कर रहे मिडिल स्कूल छात्रों द्वारा रोकने वाले कथित शिक्षक को अपशब्द और उकसाने वाली बातें कहने का वीडियो ऑनलाइन फैल गया।",
-        "body": "14 मई को, शिक्षक दिवस से एक दिन पहले, सड़क पर सिगरेट पी रहे मिडिल स्कूल छात्रों का एक वीडियो ऑनलाइन फैल गया, जिसमें वे उन्हें रोकने की कोशिश करने वाले एक कथित शिक्षक को अपशब्द और उकसाने वाली बातें कहते दिखे। मूल रिपोर्ट के अनुसार, यह वीडियो हाल में सोशल मीडिया पर फैला और धूम्रपान पर टोके जाने के बाद छात्रों की कठोर प्रतिक्रिया विवाद का कारण बनी। शिक्षकों के अधिकार और छात्र मार्गदर्शन पर जारी सामाजिक ध्यान के बीच, यह घटना स्कूल के भीतर और बाहर शिक्षक के हस्तक्षेप अधिकार तथा छात्रों के रवैये पर चर्चा फिर से बढ़ा सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Video Siswa SMP Merokok Picu Kontroversi Usai Menghina Pria Diduga Guru",
-        "excerpt": "Pada 14 Mei, sehari sebelum Hari Guru, video siswa SMP merokok di jalan lalu menghina dan memprovokasi pria yang diduga guru saat ditegur menyebar online dan menuai kontroversi.",
-        "body": "Pada 14 Mei, sehari sebelum Hari Guru, sebuah video menyebar online memperlihatkan siswa SMP merokok di jalan dan melontarkan hinaan serta ucapan provokatif kepada seorang pria yang diduga guru ketika pria itu mencoba menghentikan mereka. Menurut teks asli, rekaman tersebut belakangan beredar melalui media sosial dan memicu kontroversi karena respons kasar para siswa setelah ditegur soal merokok. Di tengah perhatian publik terhadap kewibawaan guru dan pembinaan siswa, video ini dapat kembali memunculkan pembahasan tentang wewenang guru dalam membimbing siswa di dalam maupun di luar sekolah. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6b06b5c91e0e",
-    "slug": "로이터-중국-미국소고기-공장-수백곳-수출-승인했다가-다시-중단-838170",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T17:49:44.696Z",
-    "updatedAt": "2026-05-14T17:49:44.696Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12048190",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12048190",
-    "titleFingerprint": "933bfc6502bbe4c7ae2372eec4e0a588e027e2ec",
-    "dedupKeys": [
-      "6b06b5c91e0ebba34e89fc51dd79612434f5edd5",
-      "933bfc6502bbe4c7ae2372eec4e0a588e027e2ec",
-      "8ea99f62eb4ff76d91321f48236acc7e582c63cc"
-    ],
-    "imageUrl": "/images/articles/6b06b5c91e0e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중국 미국산 소고기 수출 승인 번복, 로이터 보도에 시장 주목",
-        "excerpt": "로이터는 미중 정상회담이 열린 14일 중국 당국이 미국 소고기 수출업체 수백 곳에 1년여 만에 수출 자격을 부여했다가 다시 중단했다고 보도했다.",
-        "body": "로이터통신은 미중 정상회담이 열린 14일 중국 당국이 미국의 소고기 수출업체 수백 곳에 대해 1년여 만에 수출 자격을 부여했다가 돌연 이를 다시 막았다고 보도했다. 보도에 따르면 중국 당국의 조치는 미국산 소고기 수출 공장 다수를 대상으로 한 수출 승인과 중단이 같은 시점에 이뤄졌다는 점에서 주목된다. 구체적인 중단 사유나 향후 재개 일정은 원문에 제시되지 않았다. 이번 조치는 미중 정상회담 당일 전해졌다는 점에서 양국 농축산물 교역 흐름과 관련 업계의 확인 수요를 키울 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "China Reverses US Beef Export Approvals, Reuters Report Draws Attention",
-        "excerpt": "Reuters reported that on the day of the US-China summit, Chinese authorities approved hundreds of US beef exporters after more than a year, then abruptly halted them again.",
-        "body": "Reuters reported that on the 14th, the day of the US-China summit, Chinese authorities granted export eligibility to hundreds of US beef exporters for the first time in more than a year, then suddenly blocked it again. According to the report, the move is notable because approvals and suspensions affecting many US beef export plants occurred around the same time. The original report did not provide a specific reason for the halt or a schedule for resumption. Because the news came on the summit day, it may increase demand for confirmation from companies watching agricultural and livestock trade between the two countries. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "中国が米国産牛肉の輸出承認を撤回、ロイター報道に注目",
-        "excerpt": "ロイターは、米中首脳会談が開かれた14日、中国当局が米国の牛肉輸出業者数百社に約1年ぶりに輸出資格を与えた後、再び停止したと報じた。",
-        "body": "ロイター通信は、米中首脳会談が開かれた14日、中国当局が米国の牛肉輸出業者数百社に対し、約1年ぶりに輸出資格を付与した後、突然これを再び止めたと報じた。報道によると、中国当局の措置は、米国産牛肉の輸出工場多数を対象にした承認と停止が同じ時期に行われた点で注目される。具体的な停止理由や今後の再開時期は原文に示されていない。今回の動きは米中首脳会談当日に伝えられたため、両国の農畜産物貿易の流れや関連業界の確認需要を高める可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "中国撤回美国牛肉出口批准，路透报道引发市场关注",
-        "excerpt": "路透社报道称，在美中领导人会晤举行的14日，中国当局时隔一年多批准数百家美国牛肉出口商资格后，又突然再次叫停。",
-        "body": "路透社报道称，在美中领导人会晤举行的14日，中国当局对数百家美国牛肉出口商时隔一年多重新赋予出口资格，但随后又突然再次阻止。报道称，中国当局的这一举措之所以受到关注，是因为针对多家美国牛肉出口工厂的批准与暂停几乎在同一时间发生。原文未说明具体叫停原因，也未给出未来恢复时间表。由于该消息出现在美中领导人会晤当天，可能增加两国农畜产品贸易相关企业的确认需求。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "China revierte avales a carne vacuna de EE.UU., según Reuters",
-        "excerpt": "Reuters informó que el 14, día de la cumbre entre EE.UU. y China, Pekín aprobó a cientos de exportadores estadounidenses de carne vacuna tras más de un año y luego volvió a frenarlos.",
-        "body": "Reuters informó que el 14, día en que se celebró la cumbre entre Estados Unidos y China, las autoridades chinas otorgaron capacidad de exportación a cientos de exportadores estadounidenses de carne vacuna por primera vez en más de un año, pero luego la bloquearon de forma repentina. Según el reporte, la medida llama la atención porque la aprobación y la suspensión afectaron a numerosas plantas exportadoras estadounidenses casi al mismo tiempo. El texto original no indicó el motivo concreto de la suspensión ni un calendario de reanudación. Al conocerse el mismo día de la cumbre, el hecho puede aumentar la necesidad de confirmación entre empresas vinculadas al comercio agropecuario bilateral. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "China reverte aprovação para carne bovina dos EUA, diz Reuters",
-        "excerpt": "A Reuters informou que, no dia 14, quando ocorreu a cúpula EUA-China, Pequim aprovou centenas de exportadores americanos de carne bovina após mais de um ano e depois voltou a barrá-los.",
-        "body": "A Reuters informou que, no dia 14, data da cúpula entre Estados Unidos e China, as autoridades chinesas concederam qualificação de exportação a centenas de exportadores americanos de carne bovina pela primeira vez em mais de um ano, mas depois bloquearam novamente a medida de forma repentina. Segundo a reportagem, a ação chama atenção porque aprovações e suspensões envolvendo muitas plantas exportadoras dos EUA ocorreram no mesmo período. O texto original não apresentou motivo específico para a suspensão nem cronograma de retomada. Como a notícia saiu no dia da cúpula, ela pode elevar a demanda por confirmação entre empresas ligadas ao comércio agropecuário bilateral. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "China stoppt US-Rindfleischzulassungen erneut, Reuters-Bericht im Fokus",
-        "excerpt": "Reuters berichtete, dass China am 14., dem Tag des US-chinesischen Gipfels, hunderten US-Rindfleischexporteuren nach über einem Jahr Zulassungen erteilte und sie dann wieder stoppte.",
-        "body": "Reuters berichtete, dass die chinesischen Behörden am 14., dem Tag des US-chinesischen Gipfeltreffens, hunderten US-Rindfleischexporteuren erstmals seit mehr als einem Jahr wieder Exportberechtigungen erteilten, diese dann aber plötzlich erneut blockierten. Dem Bericht zufolge fällt der Schritt auf, weil Genehmigungen und Aussetzungen für zahlreiche US-Rindfleischexportwerke nahezu zeitgleich erfolgten. Ein konkreter Grund für den Stopp oder ein Zeitplan für eine Wiederaufnahme wurde im Ausgangstext nicht genannt. Da die Meldung am Tag des Gipfels kam, dürfte sie den Klärungsbedarf in Branchen erhöhen, die den Agrar- und Viehhandel zwischen beiden Ländern verfolgen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La Chine revient sur des agréments de bœuf américain, selon Reuters",
-        "excerpt": "Reuters a rapporté que le 14, jour du sommet sino-américain, la Chine a agréé des centaines d’exportateurs de bœuf américains après plus d’un an, avant de les bloquer à nouveau.",
-        "body": "Reuters a rapporté que, le 14, jour du sommet entre les États-Unis et la Chine, les autorités chinoises ont accordé à des centaines d’exportateurs américains de bœuf une qualification à l’exportation pour la première fois depuis plus d’un an, avant de la bloquer soudainement à nouveau. Selon le reportage, la mesure retient l’attention car des approbations et des suspensions visant de nombreuses usines américaines d’exportation de bœuf sont intervenues au même moment. Le texte d’origine ne précise ni la raison concrète de l’arrêt ni le calendrier d’une reprise. Annoncée le jour du sommet, cette évolution pourrait accroître les demandes de clarification dans les secteurs liés au commerce agricole et d’élevage entre les deux pays. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الصين تتراجع عن موافقات تصدير لحوم البقر الأميركية وفق رويترز",
-        "excerpt": "ذكرت رويترز أن الصين منحت في 14، يوم انعقاد قمة أميركية صينية، أهلية التصدير لمئات مصدري لحوم البقر الأميركيين بعد أكثر من عام، ثم أوقفتها مجددا.",
-        "body": "ذكرت وكالة رويترز أنه في 14، وهو يوم انعقاد القمة بين الولايات المتحدة والصين، منحت السلطات الصينية مئات مصدري لحوم البقر الأميركيين أهلية التصدير للمرة الأولى منذ أكثر من عام، ثم منعتها فجأة مرة أخرى. وبحسب التقرير، يلفت الإجراء الانتباه لأن الموافقات والتعليق طالا عددا كبيرا من مصانع تصدير لحوم البقر الأميركية في التوقيت نفسه تقريبا. ولم يورد النص الأصلي سببا محددا للتعليق أو جدولا زمنيا لاستئناف الصادرات. وبما أن الخبر جاء في يوم القمة، فقد يزيد الحاجة إلى التحقق لدى الشركات التي تتابع تجارة المنتجات الزراعية والحيوانية بين البلدين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चीन ने अमेरिकी बीफ निर्यात मंजूरी पलटी, Reuters रिपोर्ट पर नजर",
-        "excerpt": "Reuters ने बताया कि अमेरिका-चीन शिखर बैठक के दिन 14 तारीख को चीन ने एक साल से अधिक समय बाद सैकड़ों अमेरिकी बीफ निर्यातकों को मंजूरी दी, फिर अचानक रोक दी।",
-        "body": "Reuters ने बताया कि अमेरिका-चीन शिखर बैठक वाले दिन, 14 तारीख को, चीनी अधिकारियों ने सैकड़ों अमेरिकी बीफ निर्यातकों को एक साल से अधिक समय बाद निर्यात पात्रता दी, लेकिन फिर अचानक उसे दोबारा रोक दिया। रिपोर्ट के अनुसार, यह कदम इसलिए ध्यान खींचता है क्योंकि कई अमेरिकी बीफ निर्यात संयंत्रों के लिए मंजूरी और रोक लगभग एक ही समय पर हुई। मूल रिपोर्ट में रोक का कोई ठोस कारण या फिर से शुरू होने की समय-सारिणी नहीं दी गई। यह खबर शिखर बैठक के दिन आई, इसलिए दोनों देशों के कृषि और पशुधन व्यापार से जुड़े उद्योगों में पुष्टि की मांग बढ़ सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "China Cabut Lagi Persetujuan Ekspor Daging Sapi AS, Reuters Jadi Sorotan",
-        "excerpt": "Reuters melaporkan bahwa pada 14, hari KTT AS-China, otoritas China menyetujui ratusan eksportir daging sapi AS setelah lebih dari setahun, lalu tiba-tiba menghentikannya lagi.",
-        "body": "Reuters melaporkan bahwa pada 14, hari berlangsungnya KTT Amerika Serikat dan China, otoritas China memberikan kelayakan ekspor kepada ratusan eksportir daging sapi AS untuk pertama kalinya dalam lebih dari setahun, lalu tiba-tiba memblokirnya kembali. Menurut laporan itu, langkah tersebut menjadi perhatian karena persetujuan dan penghentian terhadap banyak pabrik ekspor daging sapi AS terjadi pada waktu yang sama. Teks asli tidak menyebutkan alasan khusus penghentian atau jadwal dimulainya kembali. Karena kabar ini muncul pada hari KTT, hal itu dapat meningkatkan kebutuhan konfirmasi di kalangan industri yang mengikuti perdagangan produk pertanian dan peternakan kedua negara. Sumber: mk.co.kr"
       }
     }
   }
