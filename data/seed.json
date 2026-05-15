@@ -1,5 +1,230 @@
 [
   {
+    "id": "b70bc0999928",
+    "slug": "삼전닉스-팔아-조선업-엔비디아-산다-파업조차-기회라는데-790391",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T19:30:00.666Z",
+    "updatedAt": "2026-05-15T19:30:00.666Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049292",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049292",
+    "titleFingerprint": "de4d703c77a8184c1e4720921cd48851c3d4cd1c",
+    "dedupKeys": [
+      "b70bc0999928a05028a73befd611b86c7b66b220",
+      "de4d703c77a8184c1e4720921cd48851c3d4cd1c",
+      "b1bbaa968715a729ec67e074caf8b610f7e1b32a"
+    ],
+    "imageUrl": "/images/articles/b70bc0999928.png",
+    "i18n": {
+      "ko": {
+        "title": "HD현대중공업, ‘조선업 엔비디아’ 매수론…JP모건 “파업은 기회”",
+        "excerpt": "JP모건은 최근 한국 조선업 노조 파업 이슈로 HD현대중공업 주가가 흔들린 상황을 매수 기회로 평가했고, 일부 투자자는 삼성전자에서 조선주로 갈아탔다.",
+        "body": "최근 국내 증시에서 삼성전자 등 반도체주 일부를 팔고 HD현대중공업으로 이동한 투자 사례가 주목받고 있다. 한 투자자는 한 달 전 삼성전자 주식 일부를 매도해 HD현대중공업으로 갈아탔고, 주가가 오르던 중 노동조합 문제로 하락했다고 전했다. 이와 관련해 JP모건은 한국 노조 파업을 매수 기회로 볼 수 있다고 평가했다. 시장에서는 HD현대중공업이 ‘조선업 엔비디아’로 불리며 관심을 받는 가운데, 파업 이슈가 단기 주가 변수로 작용하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HD Hyundai Heavy Industries Draws ‘Shipbuilding Nvidia’ Bets as JPMorgan Sees Strike Dip",
+        "excerpt": "JPMorgan viewed recent Korean shipbuilding union strike concerns and the pullback in HD Hyundai Heavy Industries shares as a buying opportunity, while some investors shifted from Samsung Electronics.",
+        "body": "A recent case in Korea’s stock market has drawn attention: an investor sold part of a Samsung Electronics position about a month ago and moved into HD Hyundai Heavy Industries. The investor said the stock had been rising, but recently fell because of labor union issues. JPMorgan assessed that Korean union strikes could be seen as a buying opportunity. As HD Hyundai Heavy Industries attracts interest under the label “Nvidia of shipbuilding,” the strike issue has become a short-term variable for the share price. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "HD現代重工業に『造船業のエヌビディア』買い論、JPモルガンはストを機会視",
+        "excerpt": "JPモルガンは、韓国造船業の労組スト問題でHD現代重工業株が揺れた局面を買い機会と評価し、一部投資家はサムスン電子から造船株へ移った。",
+        "body": "韓国株式市場では最近、サムスン電子など半導体株の一部を売り、HD現代重工業へ乗り換えた投資事例が注目されている。ある投資家は1カ月前にサムスン電子株の一部を売却してHD現代重工業を買い、株価は上昇していたが、最近は労働組合問題で下落したと伝えた。これに関連し、JPモルガンは韓国の労組ストを買い機会と見ることができると評価した。HD現代重工業が「造船業のエヌビディア」と呼ばれ関心を集める中、スト問題は短期的な株価変数となっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "HD现代重工被称“造船业英伟达”，摩根大通称罢工或是买入机会",
+        "excerpt": "摩根大通认为，韩国造船业工会罢工因素导致HD现代重工股价波动的局面可视为买入机会，部分投资者已从三星电子转向造船股。",
+        "body": "近期韩国股市中，卖出部分三星电子等半导体股票并转向HD现代重工的投资案例受到关注。一名投资者表示，一个月前卖出部分三星电子股票，转投HD现代重工，股价一度上涨，但最近因工会问题而下跌。对此，摩根大通评价称，韩国工会罢工可被视为买入机会。在HD现代重工被称为“造船业英伟达”并受到市场关注之际，罢工议题正成为短期股价变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "HD Hyundai Heavy, la ‘Nvidia naval’: JPMorgan ve la huelga como oportunidad",
+        "excerpt": "JPMorgan consideró que las recientes tensiones sindicales en la construcción naval coreana y la caída de HD Hyundai Heavy Industries pueden ser una oportunidad de compra.",
+        "body": "En el mercado bursátil coreano llamó la atención el caso de un inversor que vendió parte de sus acciones de Samsung Electronics hace cerca de un mes y se pasó a HD Hyundai Heavy Industries. Según relató, la acción venía subiendo, pero recientemente cayó por problemas relacionados con el sindicato. JPMorgan evaluó que las huelgas sindicales en Corea pueden verse como una oportunidad de compra. Mientras HD Hyundai Heavy Industries recibe interés como la “Nvidia de la construcción naval”, la huelga actúa como una variable de corto plazo para su cotización. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "HD Hyundai Heavy, a ‘Nvidia naval’: JPMorgan vê greve como chance de compra",
+        "excerpt": "O JPMorgan avaliou que as recentes greves sindicais na construção naval coreana, que pressionaram a HD Hyundai Heavy Industries, podem representar oportunidade de compra.",
+        "body": "No mercado acionário coreano, ganhou atenção o caso de um investidor que vendeu parte de suas ações da Samsung Electronics há cerca de um mês e migrou para a HD Hyundai Heavy Industries. O investidor disse que o papel vinha subindo, mas caiu recentemente por causa de questões ligadas ao sindicato. O JPMorgan avaliou que greves sindicais na Coreia podem ser vistas como oportunidade de compra. Enquanto a HD Hyundai Heavy Industries atrai interesse como a “Nvidia da construção naval”, a greve se tornou uma variável de curto prazo para a ação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HD Hyundai Heavy als ‘Nvidia des Schiffbaus’: JPMorgan sieht Streik als Kaufchance",
+        "excerpt": "JPMorgan wertete die jüngsten Gewerkschaftsstreiks im koreanischen Schiffbau und den Rückgang der HD-Hyundai-Heavy-Aktie als mögliche Kaufgelegenheit.",
+        "body": "Am koreanischen Aktienmarkt sorgt der Fall eines Anlegers für Aufmerksamkeit, der vor etwa einem Monat einen Teil seiner Samsung-Electronics-Aktien verkaufte und in HD Hyundai Heavy Industries wechselte. Der Anleger sagte, die Aktie sei zunächst gut gestiegen, zuletzt aber wegen Gewerkschaftsfragen gefallen. JPMorgan bewertete koreanische Gewerkschaftsstreiks als mögliche Kaufgelegenheit. Während HD Hyundai Heavy Industries als „Nvidia des Schiffbaus“ Interesse auf sich zieht, ist das Streikthema zu einem kurzfristigen Faktor für den Aktienkurs geworden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "HD Hyundai Heavy, la ‘Nvidia navale’: JPMorgan voit la grève comme une occasion",
+        "excerpt": "JPMorgan estime que les récentes tensions syndicales dans la construction navale coréenne, qui ont pesé sur HD Hyundai Heavy Industries, peuvent créer une occasion d’achat.",
+        "body": "Sur le marché boursier coréen, le cas d’un investisseur ayant vendu il y a environ un mois une partie de ses actions Samsung Electronics pour acheter HD Hyundai Heavy Industries retient l’attention. Selon lui, le titre montait bien avant de reculer récemment en raison de problèmes syndicaux. JPMorgan a estimé que les grèves syndicales en Corée pouvaient être vues comme une occasion d’achat. Alors que HD Hyundai Heavy Industries suscite l’intérêt comme la « Nvidia de la construction navale », la grève devient une variable de court terme pour le cours de l’action. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "HD Hyundai Heavy تجذب رهانات ‘إنفيديا بناء السفن’ وجيه بي مورغان يرى الإضراب فرصة",
+        "excerpt": "قيّمت جيه بي مورغان تراجع سهم HD Hyundai Heavy Industries بسبب قضايا إضراب النقابات في قطاع بناء السفن الكوري كفرصة شراء، مع انتقال بعض المستثمرين من سامسونغ إلكترونيكس.",
+        "body": "في سوق الأسهم الكورية، لفتت الانتباه حالة مستثمر باع قبل نحو شهر جزءا من أسهمه في Samsung Electronics وانتقل إلى HD Hyundai Heavy Industries. وقال المستثمر إن السهم كان يرتفع جيدا، لكنه تراجع مؤخرا بسبب مشكلات تتعلق بالنقابة العمالية. وفي هذا السياق، رأت جيه بي مورغان أن إضرابات النقابات في كوريا يمكن اعتبارها فرصة شراء. وبينما تحظى HD Hyundai Heavy Industries بالاهتمام بوصفها «إنفيديا صناعة بناء السفن»، أصبحت قضية الإضراب عاملا قصير الأجل في حركة السهم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "HD Hyundai Heavy पर ‘शिपबिल्डिंग की Nvidia’ दांव, JPMorgan ने हड़ताल को अवसर कहा",
+        "excerpt": "JPMorgan ने कोरियाई जहाज निर्माण क्षेत्र में यूनियन हड़ताल से HD Hyundai Heavy Industries के शेयर में आई कमजोरी को खरीदारी का अवसर बताया, जबकि कुछ निवेशक Samsung Electronics से शिफ्ट हुए।",
+        "body": "कोरियाई शेयर बाजार में हाल में एक निवेशक का मामला चर्चा में है, जिसने करीब एक महीने पहले Samsung Electronics के कुछ शेयर बेचकर HD Hyundai Heavy Industries में निवेश किया। निवेशक के अनुसार शेयर अच्छी तरह बढ़ रहा था, लेकिन हाल में श्रमिक यूनियन से जुड़े मुद्दे के कारण गिरा। JPMorgan ने आकलन किया कि कोरिया में यूनियन हड़तालों को खरीदारी के अवसर के रूप में देखा जा सकता है। HD Hyundai Heavy Industries को “शिपबिल्डिंग की Nvidia” कहकर बाजार में रुचि मिल रही है, जबकि हड़ताल का मुद्दा अल्पकालिक शेयर मूल्य कारक बन गया है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "HD Hyundai Heavy Jadi ‘Nvidia Galangan Kapal’, JPMorgan Sebut Mogok Peluang Beli",
+        "excerpt": "JPMorgan menilai isu mogok serikat pekerja di industri galangan kapal Korea yang menekan saham HD Hyundai Heavy Industries sebagai peluang beli, saat sebagian investor beralih dari Samsung Electronics.",
+        "body": "Di pasar saham Korea, perhatian tertuju pada contoh investor yang sekitar sebulan lalu menjual sebagian saham Samsung Electronics dan beralih ke HD Hyundai Heavy Industries. Investor itu mengatakan harga saham sempat naik, tetapi baru-baru ini turun karena masalah serikat pekerja. JPMorgan menilai aksi mogok serikat di Korea dapat dilihat sebagai peluang beli. Ketika HD Hyundai Heavy Industries menarik minat sebagai “Nvidia industri galangan kapal”, isu mogok menjadi variabel jangka pendek bagi harga sahamnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "dbd464103b3a",
+    "slug": "난-사생아-재벌가문-딸의-고백-3500억-그림을-살렸다-683745",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T19:29:05.940Z",
+    "updatedAt": "2026-05-15T19:29:05.940Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/culture/12049074",
+    "canonicalUrl": "https://www.mk.co.kr/news/culture/12049074",
+    "titleFingerprint": "d015a17042fdfbc62ab7c85675e9bdd7a84f0da1",
+    "dedupKeys": [
+      "dbd464103b3addded19dbe7f09cd8d0f0d1b6752",
+      "d015a17042fdfbc62ab7c85675e9bdd7a84f0da1",
+      "0552d67c9eee86bbf6a5d90271c1f671843c137e"
+    ],
+    "imageUrl": "/images/articles/dbd464103b3a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "클림트 ‘엘리자베스 레더러의 초상’, 재벌가 딸 고백이 살린 3500억 그림",
+        "excerpt": "구스타프 클림트의 ‘엘리자베스 레더러의 초상’이 2025년 11월 18일 뉴욕 소더비 경매에서 주목받으며, 작품을 지킨 고백의 사연이 다시 조명됐다.",
+        "body": "2025년 11월 18일 뉴욕 소더비 경매의 밤, 구스타프 클림트의 ‘엘리자베스 레더러의 초상’이 세계 미술시장의 중심에 섰다. 지난해 시장의 주인공으로 꼽힌 ‘황금의 화가’ 클림트의 이 작품은 3500억원 규모로 거론되며 관심을 모았다. 원문은 재벌가문 딸이 “난 사생아”라고 고백한 사연이 그림을 살렸다고 전했다. 해당 고백은 작품의 운명과 맞물려 다시 주목받고 있다. 고가 미술품 경매와 명작의 소유·보존 이슈가 함께 부각되는 가운데, 클림트 작품을 둘러싼 역사적 맥락도 시장의 관심을 키웠다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Klimt’s Portrait of Elisabeth Lederer and the Confession Behind a 350 Billion Won Painting",
+        "excerpt": "Gustav Klimt’s Portrait of Elisabeth Lederer drew attention at Sotheby’s New York on November 18, 2025, reviving the story of the confession said to have saved it.",
+        "body": "On the night of November 18, 2025, at Sotheby’s in New York, Gustav Klimt’s Portrait of Elisabeth Lederer stood at the center of the global art market. The work by Klimt, the “golden painter” described as last year’s leading figure in the market, drew notice as a painting associated with 350 billion won. The original report said a daughter of a wealthy family saved the painting by confessing, “I am an illegitimate child.” That statement is again being viewed in connection with the work’s fate. As high-value art auctions and questions of ownership and preservation draw attention, the historical context around Klimt’s work has also heightened market interest. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "クリムト『エリザベート・レデラーの肖像』、3500億ウォンの絵を救った告白",
+        "excerpt": "グスタフ・クリムトの『エリザベート・レデラーの肖像』が2025年11月18日のニューヨーク・サザビーズ競売で注目され、作品を救った告白の逸話が再び照らされた。",
+        "body": "2025年11月18日、ニューヨークのサザビーズ競売の夜、グスタフ・クリムトの『エリザベート・レデラーの肖像』が世界美術市場の中心に立った。昨年の市場の主役とされた「黄金の画家」クリムトのこの作品は、3500億ウォン規模の絵として関心を集めた。原文は、財閥家門の娘が「私は私生児」と告白した逸話が絵を救ったと伝えている。その告白は作品の運命と結びつき、改めて注目されている。高額美術品の競売や名作の所有・保存問題が浮上するなか、クリムト作品をめぐる歴史的文脈も市場の関心を高めた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "克里姆特《伊丽莎白·莱德勒肖像》：拯救3500亿韩元名画的告白",
+        "excerpt": "古斯塔夫·克里姆特《伊丽莎白·莱德勒肖像》于2025年11月18日在纽约苏富比拍卖中受到关注，拯救作品的告白故事再被聚焦。",
+        "body": "2025年11月18日纽约苏富比拍卖之夜，古斯塔夫·克里姆特的《伊丽莎白·莱德勒肖像》站上全球艺术市场焦点。作为去年市场主角的“黄金画家”克里姆特，其这幅作品因被提及达3500亿韩元规模而引发关注。原文称，一名财阀家族女儿坦白“我是私生女”的故事拯救了这幅画。该告白与作品命运相连，再次受到瞩目。在高价艺术品拍卖以及名作所有与保存问题一同升温之际，围绕克里姆特作品的历史脉络也提升了市场关注度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Klimt y el Retrato de Elisabeth Lederer: la confesión que salvó una obra de 350.000 millones de wones",
+        "excerpt": "El Retrato de Elisabeth Lederer de Gustav Klimt destacó en Sotheby’s Nueva York el 18 de noviembre de 2025 y reavivó la historia de la confesión que habría salvado la obra.",
+        "body": "La noche del 18 de noviembre de 2025, en Sotheby’s Nueva York, el Retrato de Elisabeth Lederer de Gustav Klimt se situó en el centro del mercado mundial del arte. La obra de Klimt, el “pintor dorado” señalado como protagonista del mercado del año pasado, atrajo atención como una pintura vinculada a 350.000 millones de wones. El texto original indicó que la confesión de una hija de una familia acaudalada, “soy hija ilegítima”, salvó el cuadro. Esa declaración vuelve a observarse junto al destino de la obra. Mientras las subastas de arte de alto valor y los asuntos de propiedad y conservación ganan foco, el contexto histórico de la obra de Klimt también elevó el interés del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Klimt e o Retrato de Elisabeth Lederer: a confissão que salvou obra de 350 bilhões de wones",
+        "excerpt": "O Retrato de Elisabeth Lederer, de Gustav Klimt, chamou atenção na Sotheby’s de Nova York em 18 de novembro de 2025 e trouxe de volta a confissão ligada à sua preservação.",
+        "body": "Na noite de 18 de novembro de 2025, na Sotheby’s de Nova York, o Retrato de Elisabeth Lederer, de Gustav Klimt, ficou no centro do mercado mundial de arte. A obra de Klimt, o “pintor dourado” apontado como protagonista do mercado no ano passado, ganhou destaque como uma pintura associada a 350 bilhões de wones. O texto original informou que a confissão de uma filha de uma família rica, “sou filha ilegítima”, salvou o quadro. Essa declaração volta a ser observada em relação ao destino da obra. Com leilões de alto valor e questões de posse e preservação em evidência, o contexto histórico em torno de Klimt também aumentou o interesse do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Klimts Porträt Elisabeth Lederer: Das Geständnis hinter einem 350-Milliarden-Won-Gemälde",
+        "excerpt": "Gustav Klimts Porträt Elisabeth Lederer rückte am 18. November 2025 bei Sotheby’s in New York in den Fokus und lenkte neue Aufmerksamkeit auf das Geständnis, das das Werk gerettet haben soll.",
+        "body": "Am Abend des 18. November 2025 stand bei Sotheby’s in New York Gustav Klimts Porträt Elisabeth Lederer im Mittelpunkt des weltweiten Kunstmarkts. Das Werk Klimts, des als Hauptfigur des Vorjahresmarkts beschriebenen “goldenen Malers”, zog als Gemälde im Umfang von 350 Milliarden Won Aufmerksamkeit auf sich. Der Originalbericht schrieb, das Geständnis einer Tochter aus einer reichen Familie, “ich bin ein uneheliches Kind”, habe das Bild gerettet. Diese Aussage wird nun erneut mit dem Schicksal des Werks verbunden. Während hochpreisige Kunstauktionen sowie Fragen von Besitz und Erhaltung stärker beachtet werden, erhöht auch der historische Kontext um Klimts Werk das Marktinteresse. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Klimt et le Portrait d’Elisabeth Lederer : l’aveu qui a sauvé une œuvre de 350 milliards de wons",
+        "excerpt": "Le Portrait d’Elisabeth Lederer de Gustav Klimt a attiré l’attention chez Sotheby’s New York le 18 novembre 2025, ravivant l’histoire de l’aveu qui aurait sauvé l’œuvre.",
+        "body": "Le soir du 18 novembre 2025, chez Sotheby’s à New York, le Portrait d’Elisabeth Lederer de Gustav Klimt s’est retrouvé au centre du marché mondial de l’art. Cette œuvre de Klimt, le “peintre d’or” présenté comme la figure majeure du marché l’an dernier, a retenu l’attention comme un tableau associé à 350 milliards de wons. Le texte original rapporte que l’aveu d’une fille d’une famille fortunée, “je suis une enfant illégitime”, a sauvé le tableau. Cette déclaration est de nouveau examinée à la lumière du destin de l’œuvre. Alors que les enchères d’art de grande valeur et les questions de propriété et de conservation gagnent en visibilité, le contexte historique autour de Klimt renforce aussi l’intérêt du marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كليمت وبورتريه إليزابيث ليدرير: اعتراف أنقذ لوحة بقيمة 350 مليار وون",
+        "excerpt": "أثار بورتريه إليزابيث ليدرير لغوستاف كليمت الاهتمام في مزاد سوذبيز نيويورك يوم 18 نوفمبر 2025، مع عودة قصة الاعتراف الذي قيل إنه أنقذ العمل.",
+        "body": "في ليلة 18 نوفمبر 2025، في مزاد سوذبيز بنيويورك، تصدر بورتريه إليزابيث ليدرير لغوستاف كليمت اهتمام سوق الفن العالمي. هذا العمل للفنان كليمت، “رسام الذهب” الذي وُصف بأنه بطل سوق العام الماضي، لفت الأنظار كلوحة مرتبطة بقيمة 350 مليار وون. وذكر النص الأصلي أن اعتراف ابنة من عائلة ثرية بقولها “أنا ابنة غير شرعية” هو ما أنقذ اللوحة. ويعاد النظر في هذا الاعتراف الآن من خلال ارتباطه بمصير العمل. ومع بروز مزادات الأعمال الفنية مرتفعة القيمة وقضايا الملكية والحفظ، زاد السياق التاريخي المحيط بعمل كليمت من اهتمام السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "क्लिम्ट की Portrait of Elisabeth Lederer: 350 अरब वॉन की पेंटिंग बचाने वाला स्वीकार",
+        "excerpt": "गुस्ताव क्लिम्ट की Portrait of Elisabeth Lederer ने 18 नवंबर 2025 को न्यूयॉर्क सोदबी नीलामी में ध्यान खींचा और उस स्वीकारोक्ति की कहानी फिर सामने आई जिसने चित्र को बचाया बताया गया।",
+        "body": "18 नवंबर 2025 की रात न्यूयॉर्क में सोदबी की नीलामी में गुस्ताव क्लिम्ट की Portrait of Elisabeth Lederer वैश्विक कला बाजार के केंद्र में रही। पिछले वर्ष के बाजार के प्रमुख नाम बताए गए “स्वर्ण चित्रकार” क्लिम्ट की यह कृति 350 अरब वॉन के पैमाने वाली पेंटिंग के रूप में चर्चा में आई। मूल रिपोर्ट के अनुसार, एक धनाढ्य परिवार की बेटी ने “मैं अवैध संतान हूं” कहकर जो स्वीकार किया, उसी ने चित्र को बचाया। यह कथन अब फिर इस कृति के भाग्य से जोड़कर देखा जा रहा है। ऊंची कीमत वाली कला नीलामियों और उत्कृष्ट कृतियों के स्वामित्व व संरक्षण से जुड़े मुद्दों के बीच, क्लिम्ट की कृति का ऐतिहासिक संदर्भ भी बाजार की रुचि बढ़ा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Klimt dan Portrait of Elisabeth Lederer: Pengakuan yang Menyelamatkan Lukisan 350 Miliar Won",
+        "excerpt": "Portrait of Elisabeth Lederer karya Gustav Klimt menjadi sorotan di Sotheby’s New York pada 18 November 2025, mengangkat lagi kisah pengakuan yang disebut menyelamatkan karya itu.",
+        "body": "Pada malam 18 November 2025 di lelang Sotheby’s New York, Portrait of Elisabeth Lederer karya Gustav Klimt berada di pusat perhatian pasar seni dunia. Karya Klimt, “pelukis emas” yang disebut sebagai tokoh utama pasar tahun lalu, menarik perhatian sebagai lukisan bernilai sekitar 350 miliar won. Teks asli menyebut pengakuan seorang putri dari keluarga kaya, “saya anak tidak sah,” telah menyelamatkan lukisan itu. Pernyataan tersebut kini kembali dilihat dalam kaitannya dengan nasib karya tersebut. Saat lelang seni bernilai tinggi serta isu kepemilikan dan pelestarian mahakarya makin menonjol, konteks sejarah di sekitar karya Klimt turut meningkatkan minat pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5d72a6eb504f",
+    "slug": "잠실은-너무-비싸고-그렇다면-여기-반도체-머니가-노릴-1차-수혜지-658293",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T19:28:02.368Z",
+    "updatedAt": "2026-05-15T19:28:02.368Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12049098",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12049098",
+    "titleFingerprint": "573575e39b479a5ab2b0a4ab72c8680d715f160b",
+    "dedupKeys": [
+      "5d72a6eb504f751a1f0c19051dc152ba00feba77",
+      "573575e39b479a5ab2b0a4ab72c8680d715f160b",
+      "4e2ddaab3afab2036184b3b3fe1f34c9469e4299"
+    ],
+    "imageUrl": "/images/articles/5d72a6eb504f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 머니 수혜지로 거여마천·구성남 주목, 잠실 대안 입지 분석",
+        "excerpt": "매일경제는 고소득 반도체 종사자의 주거 수요가 잠실을 넘어 거여마천·구성남으로 확산될 가능성을 입지 관점에서 분석했다.",
+        "body": "매일경제는 ‘잠실은 너무 비싸고, 그렇다면 여기’라는 제목의 기사에서 거여마천·구성남을 반도체 머니가 노릴 1차 수혜지로 다뤘다. 기사는 자본이 물처럼 흐른다는 관점에서, 투자자는 이미 돈이 흘러든 곳보다 앞으로 돈이 흐를 곳을 봐야 한다고 설명했다. 배경에는 고소득 반도체 종사자들의 주거 선택이 있다. 잠실 가격 부담이 커진 상황에서 이들의 수요가 상대적으로 대안 입지로 거론되는 지역에 영향을 줄 수 있다는 분석이다. 기사 제목과 요약은 거여마천·구성남을 입지분석 대상으로 제시하며, 향후 자금 흐름과 주거 수요의 방향을 살펴볼 필요가 있음을 강조했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Semiconductor Money Puts Geoyeomacheon and Old Seongnam in Focus as Jamsil Alternative",
+        "excerpt": "Maeil Business Newspaper analyzed Geoyeomacheon and old Seongnam as possible first beneficiaries of housing demand from high-income semiconductor workers.",
+        "body": "Maeil Business Newspaper, in an article titled “Jamsil is too expensive, then here,” described Geoyeomacheon and old Seongnam as first potential beneficiaries targeted by semiconductor money. The article said capital flows like water and that prudent investors should look not only at places where money has already arrived, but at where it may flow next. The context is the housing choices of high-income semiconductor workers. With Jamsil becoming expensive, their demand may affect areas discussed as alternative locations. The article’s title and summary present Geoyeomacheon and old Seongnam as subjects of location analysis and stress the need to watch future capital flows and housing demand. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "半導体マネーの受け皿に巨余馬川・旧城南、蚕室代替地として注目",
+        "excerpt": "毎日経済は、高所得の半導体従事者による住宅需要が蚕室を越え、巨余馬川・旧城南へ広がる可能性を立地面から分析した。",
+        "body": "毎日経済は「蚕室は高すぎる、それならここ」という記事で、巨余馬川・旧城南を半導体マネーが狙う一次受益地として取り上げた。記事は、資本は水のように流れるとの見方から、賢明な投資家はすでに資金が流入した場所ではなく、今後資金が流れる場所を見るべきだと説明した。背景には高所得の半導体従事者の住まい選びがある。蚕室の価格負担が大きくなるなか、彼らの需要が代替立地として挙げられる地域に影響を及ぼす可能性があるという分析だ。記事の題名と要約は巨余馬川・旧城南を立地分析の対象として示し、今後の資金の流れと住宅需要の方向を注視する必要性を強調した。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "半导体资金关注巨余马川与旧城南，蚕室高价下的替代区位",
+        "excerpt": "《每日经济》从区位角度分析，高收入半导体从业者的居住需求可能从蚕室外溢至巨余马川和旧城南。",
+        "body": "《每日经济》在题为“蚕室太贵，那么这里”的报道中，将巨余马川和旧城南列为半导体资金可能瞄准的第一受益地。报道指出，资本像水一样流动，明智的投资者不应只看资金已经流入的地方，而应关注未来资金可能流向的地方。其背景是高收入半导体从业者的居住选择。随着蚕室价格负担加重，他们的需求可能影响被视为替代区位的地区。报道标题和摘要把巨余马川、旧城南作为区位分析对象，并强调有必要观察今后资金流向与住宅需求方向。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Dinero de semiconductores mira Geoyeomacheon y antiguo Seongnam como alternativa a Jamsil",
+        "excerpt": "Maeil Business Newspaper analizó Geoyeomacheon y el antiguo Seongnam como posibles primeros beneficiarios de la demanda residencial de trabajadores de semiconductores.",
+        "body": "Maeil Business Newspaper, en un artículo titulado “Jamsil es demasiado caro, entonces aquí”, presentó Geoyeomacheon y el antiguo Seongnam como posibles primeros beneficiarios del dinero de semiconductores. El texto explica que el capital fluye como el agua y que un inversor prudente debe observar no solo dónde ya entró el dinero, sino hacia dónde podría moverse. El contexto son las decisiones residenciales de trabajadores de semiconductores con altos ingresos. Con Jamsil más costoso, esa demanda podría influir en zonas mencionadas como ubicaciones alternativas. El título y el resumen plantean Geoyeomacheon y el antiguo Seongnam como objeto de análisis de ubicación y subrayan la necesidad de vigilar los futuros flujos de capital y la demanda de vivienda. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Dinheiro dos semicondutores mira Geoyeomacheon e antiga Seongnam como alternativa a Jamsil",
+        "excerpt": "O Maeil Business Newspaper analisou Geoyeomacheon e a antiga Seongnam como possíveis primeiras beneficiárias da demanda residencial de trabalhadores de semicondutores.",
+        "body": "O Maeil Business Newspaper, em artigo intitulado “Jamsil é caro demais, então aqui”, tratou Geoyeomacheon e a antiga Seongnam como possíveis primeiras beneficiárias do dinheiro dos semicondutores. A reportagem afirma que o capital flui como água e que investidores prudentes devem observar não apenas onde o dinheiro já entrou, mas para onde ele pode seguir. O pano de fundo são as escolhas de moradia de trabalhadores de semicondutores de alta renda. Com o peso dos preços em Jamsil, essa demanda pode afetar áreas citadas como localizações alternativas. O título e o resumo apresentam Geoyeomacheon e a antiga Seongnam como alvos de análise de localização e destacam a necessidade de acompanhar fluxos de capital e demanda habitacional. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Halbleiter-Geld rückt Geoyeomacheon und Alt-Seongnam als Jamsil-Alternative in den Fokus",
+        "excerpt": "Maeil Business Newspaper analysierte Geoyeomacheon und Alt-Seongnam als mögliche erste Profiteure der Wohnnachfrage einkommensstarker Halbleiterbeschäftigter.",
+        "body": "Maeil Business Newspaper stellte in einem Artikel mit dem Titel „Jamsil ist zu teuer, dann hier“ Geoyeomacheon und Alt-Seongnam als mögliche erste Zielregionen des Halbleiter-Geldes dar. Der Bericht erklärt, Kapital fließe wie Wasser; kluge Investoren sollten daher nicht nur auf Orte blicken, in die Geld bereits geflossen ist, sondern auf jene, in die es künftig fließen könnte. Hintergrund sind die Wohnentscheidungen einkommensstarker Beschäftigter der Halbleiterbranche. Da Jamsil teuer geworden ist, könnte ihre Nachfrage Gebiete beeinflussen, die als alternative Lagen genannt werden. Titel und Zusammenfassung nennen Geoyeomacheon und Alt-Seongnam als Gegenstand der Standortanalyse und betonen, dass künftige Kapitalflüsse und Wohnnachfrage beobachtet werden müssen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’argent des semi-conducteurs cible Geoyeomacheon et l’ancien Seongnam, alternative à Jamsil",
+        "excerpt": "Maeil Business Newspaper a analysé Geoyeomacheon et l’ancien Seongnam comme possibles premiers bénéficiaires de la demande résidentielle des salariés des semi-conducteurs.",
+        "body": "Maeil Business Newspaper, dans un article intitulé « Jamsil est trop cher, alors ici », a présenté Geoyeomacheon et l’ancien Seongnam comme de possibles premiers bénéficiaires de l’argent des semi-conducteurs. L’article explique que le capital coule comme l’eau et qu’un investisseur avisé doit regarder non seulement les lieux où l’argent est déjà arrivé, mais ceux vers lesquels il pourrait se diriger. Le contexte est celui des choix résidentiels des salariés à hauts revenus du secteur des semi-conducteurs. Avec le coût élevé de Jamsil, leur demande pourrait peser sur des zones évoquées comme emplacements alternatifs. Le titre et le résumé désignent Geoyeomacheon et l’ancien Seongnam comme objets d’analyse de localisation et soulignent la nécessité de suivre les flux de capitaux et la demande de logements. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أموال أشباه الموصلات تضع غيويو-ماتشون وسيونغنام القديمة تحت الضوء كبديل لجامسيل",
+        "excerpt": "حللت صحيفة ماييل الاقتصادية غيويو-ماتشون وسيونغنام القديمة كمستفيدين محتملين من طلب السكن لدى العاملين ذوي الدخل المرتفع في قطاع أشباه الموصلات.",
+        "body": "عرضت صحيفة ماييل الاقتصادية، في مقال بعنوان «جامسيل باهظة جدا، فماذا عن هنا»، منطقتي غيويو-ماتشون وسيونغنام القديمة كمستفيدين أوليين محتملين من أموال أشباه الموصلات. ويوضح المقال أن رأس المال يتدفق مثل الماء، وأن المستثمر الحصيف ينبغي أن ينظر ليس فقط إلى الأماكن التي دخلتها الأموال بالفعل، بل إلى الأماكن التي قد تتجه إليها لاحقا. وتأتي الخلفية من خيارات السكن للعاملين ذوي الدخل المرتفع في قطاع أشباه الموصلات. ومع ارتفاع كلفة جامسيل، قد يؤثر هذا الطلب في مناطق تطرح كبدائل مكانية. ويقدم العنوان والملخص غيويو-ماتشون وسيونغنام القديمة كموضوع لتحليل الموقع، مع التأكيد على ضرورة متابعة اتجاه تدفقات الأموال والطلب السكني. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर धन के लिए जियोयो-माचेओन और पुराना सेओंगनाम, जामसिल का विकल्प",
+        "excerpt": "Maeil Business Newspaper ने उच्च आय वाले सेमीकंडक्टर कर्मचारियों की आवासीय मांग के संभावित लाभार्थियों के रूप में जियोयो-माचेओन और पुराने सेओंगनाम का विश्लेषण किया।",
+        "body": "Maeil Business Newspaper ने “जामसिल बहुत महंगा है, तो यहां” शीर्षक वाले लेख में जियोयो-माचेओन और पुराने सेओंगनाम को सेमीकंडक्टर धन के संभावित पहले लाभार्थी के रूप में देखा। लेख के अनुसार पूंजी पानी की तरह बहती है, इसलिए समझदार निवेशक को केवल उन जगहों को नहीं देखना चाहिए जहां पैसा पहले ही पहुंच चुका है, बल्कि उन स्थानों को देखना चाहिए जहां पैसा आगे जा सकता है। पृष्ठभूमि उच्च आय वाले सेमीकंडक्टर कर्मचारियों के आवास चयन से जुड़ी है। जामसिल की कीमतों का बोझ बढ़ने पर उनकी मांग वैकल्पिक स्थानों के रूप में चर्चित क्षेत्रों को प्रभावित कर सकती है। लेख का शीर्षक और सार जियोयो-माचेओन तथा पुराने सेओंगनाम को स्थान विश्लेषण का विषय बताते हैं और भविष्य की पूंजी दिशा व आवास मांग पर नजर रखने की जरूरत रेखांकित करते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Dana Semikonduktor Lirik Geoyeomacheon dan Seongnam Lama sebagai Alternatif Jamsil",
+        "excerpt": "Maeil Business Newspaper menganalisis Geoyeomacheon dan Seongnam lama sebagai calon penerima manfaat awal dari permintaan hunian pekerja semikonduktor berpenghasilan tinggi.",
+        "body": "Maeil Business Newspaper, dalam artikel berjudul “Jamsil terlalu mahal, kalau begitu di sini”, membahas Geoyeomacheon dan Seongnam lama sebagai calon penerima manfaat pertama dari dana semikonduktor. Artikel itu menjelaskan bahwa modal mengalir seperti air, sehingga investor yang cermat perlu melihat bukan hanya tempat yang sudah dimasuki uang, tetapi juga tempat yang mungkin menjadi tujuan aliran berikutnya. Latar belakangnya adalah pilihan tempat tinggal pekerja semikonduktor berpenghasilan tinggi. Ketika beban harga Jamsil meningkat, permintaan mereka dapat memengaruhi wilayah yang disebut sebagai lokasi alternatif. Judul dan ringkasan artikel menempatkan Geoyeomacheon dan Seongnam lama sebagai objek analisis lokasi serta menekankan perlunya memantau arah aliran modal dan permintaan hunian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "a24bba9f2c90",
     "slug": "제2의-스피어-아부다비에-뜬다-2029년-완공-목표-126147",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Webearsoft Raih Pendanaan Pre-A dari Horizon Investment untuk Solusi Manajemen API",
         "excerpt": "Webearsoft, perusahaan spesialis manajemen dan keamanan API, mengatakan pada tanggal 15 bahwa mereka menyelesaikan pendanaan Pre-A dari Horizon Investment untuk mempercepat pasokan solusi manajemen API terintegrasi.",
         "body": "Webearsoft, perusahaan yang berspesialisasi dalam manajemen dan keamanan API, mengatakan pada tanggal 15 bahwa mereka berhasil menyelesaikan pendanaan putaran Pre-A dari Horizon Investment. Investasi ini terjadi saat Webearsoft bergerak mempercepat pasokan produk terkait, termasuk solusi manajemen API terintegrasi. Perusahaan berencana memperluas pasokan solusi dengan fokus pada manajemen dan keamanan API. Seiring meningkatnya penggunaan API di lingkungan perusahaan, kebutuhan atas manajemen terintegrasi dan keamanan juga bertambah. Pendanaan ini diperkirakan mendukung dorongan bisnis Webearsoft. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b2c86788c3bc",
-    "slug": "로봇이-양손으로-택배-분류하고-스스로-이동풀타임-근무모습-공개-811611",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T01:56:10.297Z",
-    "updatedAt": "2026-05-15T01:56:10.297Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12048953",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12048953",
-    "titleFingerprint": "49104052e5b9a46befa1496e6cab5dd928f3b67d",
-    "dedupKeys": [
-      "b2c86788c3bc73e962deca15621b045fa2ada956",
-      "49104052e5b9a46befa1496e6cab5dd928f3b67d",
-      "76c45245983245cfbf2dd36a5c72cfe9b0674a3e"
-    ],
-    "imageUrl": "/images/articles/b2c86788c3bc.png",
-    "i18n": {
-      "ko": {
-        "title": "휴머노이드 로봇, 양손으로 택배 분류하고 자율 이동 근무 공개",
-        "excerpt": "미국 캘리포니아 기반 로봇 스타트업이 생중계를 통해 휴머노이드 로봇이 택배상자를 양손으로 분류하고 스스로 이동하며 풀타임 근무하는 모습을 공개했다.",
-        "body": "미국 캘리포니아주에 기반을 둔 로봇 스타트업이 생중계를 통해 휴머노이드 로봇의 풀타임 근무 장면을 공개했다. 공개된 영상에서 로봇은 양손을 사용해 택배상자를 분류하고, 작업 공간 안에서 스스로 이동하는 모습을 보였다. 원문에 따르면 이 장면은 휴머노이드 로봇이 실제 물류 업무처럼 보이는 작업을 수행하는 모습으로 소개됐으며, 공개 이후 네티즌들은 다양한 반응을 보이고 있다. 이번 공개는 로봇이 반복적인 분류 작업과 이동을 함께 수행하는 사례로 주목받는다. 다만 원문은 성능 수치나 상용화 일정 등 추가 정보는 전하지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Humanoid Robot Sorts Parcels With Both Hands and Moves Autonomously",
-        "excerpt": "A California-based U.S. robotics startup showed in a livestream a humanoid robot sorting parcel boxes with both hands, moving on its own and working full time.",
-        "body": "A robotics startup based in California, United States, has revealed livestream footage of a humanoid robot working full time. In the video, the robot uses both hands to sort parcel boxes and moves autonomously within the workspace. According to the original report, the scene was introduced as the humanoid robot carrying out tasks that resemble real logistics work, and viewers online have responded in various ways since the broadcast. The disclosure is drawing attention as an example of a robot performing repetitive sorting work and movement together. However, the original report did not provide additional details such as performance figures or a commercialization schedule. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ヒューマノイドロボット、両手で宅配箱を仕分け自律移動も公開",
-        "excerpt": "米カリフォルニア州を拠点とするロボットスタートアップが、生中継で宅配箱を両手で仕分け、自律移動しながらフルタイム勤務するヒューマノイドロボットを公開した。",
-        "body": "米カリフォルニア州を拠点とするロボットスタートアップが、生中継を通じてヒューマノイドロボットのフルタイム勤務の様子を公開した。映像では、ロボットが両手を使って宅配箱を仕分け、作業空間内を自ら移動する姿が映された。原文によると、この場面はヒューマノイドロボットが実際の物流業務のように見える作業を行う様子として紹介され、公開後、ネットユーザーからさまざまな反応が寄せられている。今回の公開は、ロボットが反復的な仕分け作業と移動を同時に行う事例として注目される。ただし原文は、性能数値や商用化時期などの追加情報には触れていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "人形机器人双手分拣包裹并自主移动，全职工作画面公开",
-        "excerpt": "一家位于美国加利福尼亚州的机器人初创公司通过直播公开了人形机器人双手分拣快递箱、自主移动并进行全职工作的画面。",
-        "body": "一家位于美国加利福尼亚州的机器人初创公司通过直播公开了人形机器人全职工作的场景。画面显示，该机器人使用双手分拣快递箱，并在工作空间内自主移动。根据原文报道，这一场景被介绍为人形机器人执行类似实际物流工作的任务，公开后网民出现了多种反应。此次展示因呈现机器人同时完成重复性分拣作业和移动而受到关注。不过，原文并未提供性能数据、商业化时间表等更多信息。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Robot humanoide clasifica paquetes con ambas manos y se desplaza solo",
-        "excerpt": "Una startup de robótica con sede en California, EE. UU., mostró en una transmisión en vivo a un robot humanoide clasificando cajas con ambas manos, moviéndose solo y trabajando a tiempo completo.",
-        "body": "Una startup de robótica con sede en California, Estados Unidos, mostró en una transmisión en vivo escenas de un robot humanoide trabajando a tiempo completo. En el video, el robot usa ambas manos para clasificar cajas de paquetería y se desplaza de forma autónoma dentro del espacio de trabajo. Según el reporte original, la escena fue presentada como una muestra de un humanoide realizando tareas parecidas a las de la logística real, y los internautas han reaccionado de distintas formas desde su publicación. La demostración llama la atención como un caso en el que un robot combina clasificación repetitiva y movimiento. Sin embargo, el texto original no ofreció cifras de rendimiento ni un calendario de comercialización. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Robô humanoide separa encomendas com as duas mãos e se move sozinho",
-        "excerpt": "Uma startup de robótica da Califórnia, nos EUA, mostrou em transmissão ao vivo um robô humanoide separando caixas com as duas mãos, movendo-se sozinho e trabalhando em tempo integral.",
-        "body": "Uma startup de robótica sediada na Califórnia, nos Estados Unidos, revelou em uma transmissão ao vivo cenas de um robô humanoide trabalhando em tempo integral. No vídeo, o robô usa as duas mãos para separar caixas de encomendas e se move de forma autônoma dentro do espaço de trabalho. Segundo a reportagem original, a cena foi apresentada como um humanoide executando tarefas semelhantes às de uma operação logística real, e internautas reagiram de diferentes maneiras após a divulgação. A demonstração chama atenção como exemplo de um robô que combina triagem repetitiva e deslocamento. No entanto, o texto original não informou dados de desempenho nem prazo de comercialização. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Humanoider Roboter sortiert Pakete beidhändig und bewegt sich autonom",
-        "excerpt": "Ein US-Robotik-Startup aus Kalifornien zeigte per Livestream einen humanoiden Roboter, der Paketkartons mit beiden Händen sortiert, sich selbstständig bewegt und Vollzeit arbeitet.",
-        "body": "Ein in Kalifornien ansässiges US-Robotik-Startup hat per Livestream Szenen eines humanoiden Roboters bei der Vollzeitarbeit veröffentlicht. In dem Video sortiert der Roboter Paketkartons mit beiden Händen und bewegt sich selbstständig im Arbeitsbereich. Dem Originalbericht zufolge wurde die Szene als Beispiel dafür vorgestellt, wie ein humanoider Roboter Aufgaben ausführt, die echter Logistikarbeit ähneln. Seit der Veröffentlichung reagieren Internetnutzer unterschiedlich. Die Präsentation zieht Aufmerksamkeit auf sich, weil sie zeigt, wie ein Roboter wiederholte Sortierarbeit und Bewegung kombiniert. Der Originaltext nannte jedoch keine Leistungsdaten oder einen Zeitplan für eine Kommerzialisierung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Un robot humanoïde trie des colis à deux mains et se déplace seul",
-        "excerpt": "Une start-up américaine de robotique basée en Californie a montré en direct un robot humanoïde triant des cartons de colis à deux mains, se déplaçant seul et travaillant à temps plein.",
-        "body": "Une start-up de robotique basée en Californie, aux États-Unis, a diffusé en direct des images d’un robot humanoïde travaillant à temps plein. Dans la vidéo, le robot utilise ses deux mains pour trier des cartons de colis et se déplace de manière autonome dans l’espace de travail. Selon l’article original, la scène a été présentée comme celle d’un humanoïde effectuant des tâches proches d’un travail logistique réel, et les internautes ont réagi de diverses façons après sa publication. Cette démonstration attire l’attention comme exemple d’un robot combinant tri répétitif et déplacement. Le texte original ne donne toutefois pas de chiffres de performance ni de calendrier de commercialisation. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "روبوت بشري يفرز الطرود بكلتا يديه ويتحرك ذاتيا أثناء العمل",
-        "excerpt": "عرضت شركة روبوتات ناشئة مقرها كاليفورنيا في الولايات المتحدة، عبر بث مباشر، روبوتا بشريا يفرز صناديق الطرود بكلتا يديه ويتحرك ذاتيا أثناء عمله بدوام كامل.",
-        "body": "كشفت شركة روبوتات ناشئة مقرها ولاية كاليفورنيا في الولايات المتحدة، عبر بث مباشر، مشاهد لروبوت بشري يعمل بدوام كامل. وفي الفيديو، يستخدم الروبوت كلتا يديه لفرز صناديق الطرود، ويتحرك ذاتيا داخل مساحة العمل. ووفقا للتقرير الأصلي، قُدم المشهد بوصفه مثالا على روبوت بشري ينفذ مهاما تبدو شبيهة بعمل لوجستي حقيقي، وقد أثار نشره ردود فعل متنوعة بين مستخدمي الإنترنت. ويحظى العرض بالاهتمام لأنه يبين روبوتا يجمع بين أعمال الفرز المتكررة والحركة. ومع ذلك، لم يذكر النص الأصلي أرقاما عن الأداء أو جدولا زمنيا للتسويق التجاري. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ह्यूमनॉइड रोबोट ने दोनों हाथों से पार्सल छांटे, खुद चला भी",
-        "excerpt": "अमेरिका के कैलिफोर्निया स्थित रोबोटिक्स स्टार्टअप ने लाइव प्रसारण में एक ह्यूमनॉइड रोबोट को दोनों हाथों से पार्सल बॉक्स छांटते, खुद चलते और पूर्णकालिक काम करते दिखाया।",
-        "body": "अमेरिका के कैलिफोर्निया राज्य में स्थित एक रोबोटिक्स स्टार्टअप ने लाइव प्रसारण के जरिए ह्यूमनॉइड रोबोट के पूर्णकालिक काम करने का दृश्य सार्वजनिक किया। वीडियो में रोबोट दोनों हाथों का इस्तेमाल कर पार्सल बॉक्स छांटता और कार्यस्थल के भीतर स्वयं चलता दिखाई दिया। मूल रिपोर्ट के अनुसार, यह दृश्य ऐसे पेश किया गया जैसे ह्यूमनॉइड रोबोट वास्तविक लॉजिस्टिक्स कार्य जैसा काम कर रहा हो, और प्रसारण के बाद इंटरनेट उपयोगकर्ताओं ने इस पर अलग-अलग प्रतिक्रियाएं दीं। यह प्रदर्शन इसलिए ध्यान खींच रहा है क्योंकि इसमें रोबोट दोहराए जाने वाले छंटाई कार्य और आवाजाही को साथ करता दिखता है। हालांकि मूल रिपोर्ट में प्रदर्शन संबंधी आंकड़े या व्यावसायीकरण की समयसीमा जैसी अतिरिक्त जानकारी नहीं दी गई। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Robot Humanoid Sortir Paket dengan Dua Tangan dan Bergerak Sendiri",
-        "excerpt": "Startup robotika berbasis di California, AS, menampilkan lewat siaran langsung robot humanoid yang menyortir kotak paket dengan dua tangan, bergerak sendiri, dan bekerja penuh waktu.",
-        "body": "Sebuah startup robotika yang berbasis di California, Amerika Serikat, memperlihatkan lewat siaran langsung adegan robot humanoid bekerja penuh waktu. Dalam video itu, robot menggunakan kedua tangan untuk menyortir kotak paket dan bergerak sendiri di dalam area kerja. Menurut laporan asli, adegan tersebut diperkenalkan sebagai contoh robot humanoid menjalankan tugas yang tampak seperti pekerjaan logistik nyata, dan warganet memberikan beragam reaksi setelah tayangan itu muncul. Demonstrasi ini menarik perhatian karena menunjukkan robot melakukan pekerjaan sortir berulang sekaligus berpindah tempat. Namun, laporan asli tidak menyampaikan angka kinerja atau jadwal komersialisasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7a0abd3a9632",
-    "slug": "카카오-두나무-지분-65-하나금융에-판다수익률-500배-잭팟-289477",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T01:55:15.284Z",
-    "updatedAt": "2026-05-15T01:55:15.284Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12048955",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12048955",
-    "titleFingerprint": "9df313306eff9e84448725ef0e395bf88e39e0e1",
-    "dedupKeys": [
-      "7a0abd3a963214cef7cf7e321972989411aa362a",
-      "9df313306eff9e84448725ef0e395bf88e39e0e1",
-      "37238edaeb0809e38308e06b650eff3f43ed4dd9"
-    ],
-    "imageUrl": "/images/articles/7a0abd3a9632.jpg",
-    "i18n": {
-      "ko": {
-        "title": "카카오, 두나무 지분 6.55% 하나금융에 매각…1조원대 투자 회수",
-        "excerpt": "카카오는 보유 중인 두나무 지분 6.55%를 하나금융에 1조33억원에 처분하며 2013년 시드 투자 이후 크게 오른 지분가치를 현금화했다.",
-        "body": "카카오는 보유 중인 두나무 지분 6.55%를 하나금융에 1조33억원에 처분한다. 이번 거래는 카카오가 2013년 두나무 시드 투자에 참여한 뒤 장기간 보유해 온 지분을 현금화하는 내용이다. 카카오는 2015년에도 두나무에 33억원을 추가 투자한 바 있으며, 이후 두나무의 지분가치가 크게 뛰면서 투자 회수 규모가 1조원대로 확대됐다. 이번 처분으로 카카오는 투자 재원을 확보하게 됐고, 신사업 추진과 재무 운용에 활용할 여지를 갖게 됐다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Kakao to Sell 6.55% Dunamu Stake to Hana Financial for Over 1 Trillion Won",
-        "excerpt": "Kakao will sell its 6.55% stake in Dunamu to Hana Financial for 1.0033 trillion won, cashing in on a holding whose value rose sharply since its 2013 seed investment.",
-        "body": "Kakao will dispose of its 6.55% stake in Dunamu to Hana Financial for 1.0033 trillion won. The transaction turns into cash a holding Kakao has kept since joining Dunamu’s seed investment round in 2013. Kakao also invested 3.3 billion won in Dunamu in 2015, and the value of the stake has since risen sharply, expanding the scale of its investment recovery to more than 1 trillion won. Through the sale, Kakao secures investment resources and gains room to use them for new businesses and financial management. The details are cited from a report by mk.co.kr."
-      },
-      "ja": {
-        "title": "カカオ、ドゥナム株6.55％をハナ金融に売却…1兆ウォン超を回収",
-        "excerpt": "カカオは保有するドゥナム株6.55％をハナ金融に1兆33億ウォンで売却し、2013年のシード投資以降に大きく上昇した持ち分価値を現金化する。",
-        "body": "カカオは保有するドゥナム株6.55％をハナ金融に1兆33億ウォンで処分する。今回の取引は、カカオが2013年にドゥナムのシード投資に参加して以降、長期間保有してきた持ち分を現金化するものだ。カカオは2015年にもドゥナムへ33億ウォンを追加投資しており、その後ドゥナムの持ち分価値が大きく上昇したことで、投資回収額は1兆ウォン規模に拡大した。今回の売却により、カカオは投資財源を確保し、新規事業の推進や財務運営に活用する余地を得る。内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "Kakao将向韩亚金融出售Dunamu 6.55%股权，回收逾1万亿韩元",
-        "excerpt": "Kakao将以1.0033万亿韩元向韩亚金融出售所持Dunamu 6.55%股权，把自2013年种子轮投资以来大幅升值的持股变现。",
-        "body": "Kakao将把所持Dunamu 6.55%股权以1.0033万亿韩元出售给韩亚金融。此次交易意味着Kakao将自2013年参与Dunamu种子轮投资以来长期持有的股权变现。Kakao还曾在2015年向Dunamu追加投资33亿韩元，此后Dunamu股权价值大幅上升，使其投资回收规模扩大至1万亿韩元以上。通过此次出售，Kakao将获得投资资金，并在推进新业务和财务运营方面拥有更多使用空间。相关内容引用自mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Kakao venderá a Hana Financial el 6,55% de Dunamu por más de 1 billón de wones",
-        "excerpt": "Kakao venderá a Hana Financial su participación del 6,55% en Dunamu por 1,0033 billones de wones, monetizando una inversión iniciada en la ronda semilla de 2013.",
-        "body": "Kakao venderá a Hana Financial su participación del 6,55% en Dunamu por 1,0033 billones de wones. La operación convierte en efectivo una tenencia que Kakao mantenía desde que participó en la inversión semilla de Dunamu en 2013. Kakao también invirtió 3.300 millones de wones en Dunamu en 2015, y desde entonces el valor de la participación aumentó con fuerza, elevando la recuperación de la inversión a una escala superior al billón de wones. Con esta venta, Kakao obtiene recursos de inversión y margen para destinarlos a nuevos negocios y a la gestión financiera. La información cita un reporte de mk.co.kr."
-      },
-      "pt": {
-        "title": "Kakao venderá 6,55% da Dunamu à Hana Financial por mais de 1 trilhão de won",
-        "excerpt": "A Kakao venderá à Hana Financial sua fatia de 6,55% na Dunamu por 1,0033 trilhão de won, realizando o ganho de uma participação iniciada no aporte semente de 2013.",
-        "body": "A Kakao venderá à Hana Financial sua participação de 6,55% na Dunamu por 1,0033 trilhão de won. A operação transforma em caixa uma fatia que a Kakao mantinha desde que participou do investimento semente da Dunamu em 2013. A Kakao também investiu 3,3 bilhões de won na Dunamu em 2015, e desde então o valor da participação subiu fortemente, levando a recuperação do investimento a uma escala superior a 1 trilhão de won. Com a venda, a Kakao assegura recursos de investimento e ganha espaço para usá-los em novos negócios e na gestão financeira. As informações citam reportagem do mk.co.kr."
-      },
-      "de": {
-        "title": "Kakao verkauft 6,55% an Dunamu an Hana Financial für über 1 Billion Won",
-        "excerpt": "Kakao verkauft seinen 6,55%-Anteil an Dunamu für 1,0033 Billionen Won an Hana Financial und monetarisiert damit eine Beteiligung aus der Seed-Investition von 2013.",
-        "body": "Kakao wird seinen 6,55%-Anteil an Dunamu für 1,0033 Billionen Won an Hana Financial veräußern. Die Transaktion macht eine Beteiligung zu Geld, die Kakao seit der Teilnahme an Dunamus Seed-Investmentrunde im Jahr 2013 gehalten hat. Kakao investierte 2015 zudem 3,3 Milliarden Won in Dunamu. Seitdem ist der Wert der Beteiligung stark gestiegen, wodurch sich der Umfang der Investitionsrückführung auf mehr als 1 Billion Won erhöht hat. Mit dem Verkauf sichert sich Kakao Investitionsmittel und gewinnt Spielraum für neue Geschäftsbereiche und die Finanzsteuerung. Die Angaben stützen sich auf einen Bericht von mk.co.kr."
-      },
-      "fr": {
-        "title": "Kakao cède 6,55 % de Dunamu à Hana Financial pour plus de 1 000 Mds de wons",
-        "excerpt": "Kakao vendra à Hana Financial sa participation de 6,55 % dans Dunamu pour 1 003,3 milliards de wons, monétisant un investissement amorcé lors du tour d’amorçage de 2013.",
-        "body": "Kakao va céder à Hana Financial sa participation de 6,55 % dans Dunamu pour 1 003,3 milliards de wons. L’opération transforme en liquidités une participation que Kakao détenait depuis sa participation à l’investissement d’amorçage de Dunamu en 2013. Kakao avait aussi investi 3,3 milliards de wons dans Dunamu en 2015, et la valeur de cette participation a depuis fortement augmenté, portant le montant récupéré à plus de 1 000 milliards de wons. Cette vente permet à Kakao de sécuriser des ressources d’investissement et de disposer d’une marge pour les utiliser dans de nouveaux projets et sa gestion financière. Les informations citent un article de mk.co.kr."
-      },
-      "ar": {
-        "title": "كاكاو تبيع 6.55% من دونامو لهانا فايننشال بأكثر من تريليون وون",
-        "excerpt": "تبيع كاكاو حصتها البالغة 6.55% في دونامو إلى هانا فايننشال مقابل 1.0033 تريليون وون، محولة إلى سيولة استثمارا بدأ منذ جولة التمويل التأسيسي في 2013.",
-        "body": "تعتزم كاكاو بيع حصتها البالغة 6.55% في دونامو إلى هانا فايننشال مقابل 1.0033 تريليون وون. وتمثل الصفقة تحويل حصة احتفظت بها كاكاو منذ مشاركتها في استثمار التمويل التأسيسي لدونامو عام 2013 إلى سيولة نقدية. كما استثمرت كاكاو 3.3 مليار وون إضافية في دونامو عام 2015، ثم ارتفعت قيمة الحصة بشكل كبير، ما رفع حجم استرداد الاستثمار إلى أكثر من تريليون وون. ومن خلال البيع، تؤمن كاكاو موارد استثمارية وتكتسب مجالا لاستخدامها في الأعمال الجديدة والإدارة المالية. تستند التفاصيل إلى تقرير نشره mk.co.kr."
-      },
-      "hi": {
-        "title": "Kakao, Dunamu की 6.55% हिस्सेदारी Hana Financial को 1 ट्रिलियन वॉन से अधिक में बेचेगी",
-        "excerpt": "Kakao अपनी Dunamu में 6.55% हिस्सेदारी Hana Financial को 1.0033 ट्रिलियन वॉन में बेचेगी, जिससे 2013 के सीड निवेश के बाद बढ़ी हिस्सेदारी का मूल्य नकदी में बदलेगा।",
-        "body": "Kakao अपनी Dunamu में 6.55% हिस्सेदारी Hana Financial को 1.0033 ट्रिलियन वॉन में बेचेगी। यह सौदा उस हिस्सेदारी को नकदी में बदलता है जिसे Kakao ने 2013 में Dunamu के सीड निवेश में भाग लेने के बाद से लंबे समय तक रखा था। Kakao ने 2015 में भी Dunamu में 3.3 बिलियन वॉन का अतिरिक्त निवेश किया था। इसके बाद Dunamu की हिस्सेदारी का मूल्य तेज़ी से बढ़ा और निवेश वसूली का आकार 1 ट्रिलियन वॉन से अधिक हो गया। इस बिक्री से Kakao निवेश संसाधन सुरक्षित करेगी और उन्हें नए कारोबार तथा वित्तीय संचालन में उपयोग करने की गुंजाइश पाएगी। विवरण mk.co.kr की रिपोर्ट से उद्धृत हैं।"
-      },
-      "id": {
-        "title": "Kakao Jual 6,55% Saham Dunamu ke Hana Financial Senilai Lebih dari 1 Triliun Won",
-        "excerpt": "Kakao akan menjual 6,55% saham Dunamu kepada Hana Financial senilai 1,0033 triliun won, mencairkan investasi yang nilainya melonjak sejak pendanaan awal 2013.",
-        "body": "Kakao akan melepas 6,55% sahamnya di Dunamu kepada Hana Financial senilai 1,0033 triliun won. Transaksi ini mencairkan kepemilikan yang telah dipegang Kakao sejak ikut serta dalam investasi awal Dunamu pada 2013. Kakao juga menanamkan tambahan 3,3 miliar won di Dunamu pada 2015, dan sejak itu nilai kepemilikannya meningkat tajam, sehingga skala pengembalian investasi melampaui 1 triliun won. Melalui penjualan ini, Kakao memperoleh sumber dana investasi dan ruang untuk menggunakannya bagi bisnis baru serta pengelolaan keuangan. Informasi ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "8b4ff29ae175",
-    "slug": "헬스장에서-1시간-땀-흘릴-수-없다면딱-11분만-더-자라-129047",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T01:54:16.953Z",
-    "updatedAt": "2026-05-15T01:54:16.953Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12048956",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12048956",
-    "titleFingerprint": "cfdd0932887b25ae267bc22ef6165e8ac8ca5836",
-    "dedupKeys": [
-      "8b4ff29ae175d1c825df210aef4f8340774121be",
-      "cfdd0932887b25ae267bc22ef6165e8ac8ca5836",
-      "a9885195e5c924ddbd2de8f4f8e9aa11cc6933c5"
-    ],
-    "imageUrl": "/images/articles/8b4ff29ae175.jpg",
-    "i18n": {
-      "ko": {
-        "title": "심혈관질환 위험 낮추는 일상 변화, 11분 수면과 4.5분 고강도활동 주목",
-        "excerpt": "호주 시드니대 교수팀은 5만명을 8년간 추적해 하루 4.5분 고강도활동이 1시간 운동에 견줄 효과를 내고, 11분 더 자는 변화도 심혈관질환 위험 관리에 의미가 있다고 밝혔다.",
-        "body": "헬스장에서 1시간씩 운동하기 어렵다면 일상 속 짧은 변화가 심혈관질환 위험을 낮추는 데 도움이 될 수 있다는 연구 결과가 나왔다. 호주 시드니대 교수팀은 5만명을 8년간 추적해 고강도활동 4.5분이 1시간 운동에 견줄 효과를 낼 수 있다고 분석했다. 거창한 식단 조절이나 장시간 고강도 운동 없이도 생활 패턴을 조금 바꾸는 방식이 주목된다. 원문은 ‘딱 11분만 더 자라’는 메시지와 함께 수면과 짧은 고강도활동 같은 작은 습관 변화를 강조했다. 이는 운동 시간이 부족한 사람들에게 심혈관질환 예방을 위한 현실적인 선택지가 될 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Small Daily Changes May Lower Heart Risk: 11 More Minutes of Sleep, 4.5 Minutes of Intensity",
-        "excerpt": "A University of Sydney team tracked 50,000 people for eight years and found that 4.5 minutes of vigorous activity may rival an hour of exercise, while 11 more minutes of sleep also drew attention.",
-        "body": "For people who cannot spend an hour sweating at the gym, small changes in daily routines may help lower the risk of cardiovascular disease, according to research highlighted by mk.co.kr. A University of Sydney research team in Australia followed 50,000 people for eight years and analyzed that 4.5 minutes of vigorous activity could produce an effect comparable to one hour of exercise. The finding points to the value of modest lifestyle adjustments rather than ambitious diet plans or long, intense workouts. The original report emphasized the message to “sleep just 11 minutes more,” along with short bursts of vigorous activity. For people short on workout time, these habits may offer a realistic way to manage cardiovascular risk. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "心血管疾患リスクを下げる日常習慣、11分の追加睡眠と4.5分の高強度活動に注目",
-        "excerpt": "豪シドニー大学の研究チームは5万人を8年間追跡し、4.5分の高強度活動が1時間の運動に匹敵し、11分長く眠る変化も心血管疾患リスク管理で注目されると示した。",
-        "body": "ジムで1時間汗を流す時間がない人でも、日常の小さな変化が心血管疾患リスクを下げる助けになる可能性がある。mk.co.krが伝えた内容によると、オーストラリアのシドニー大学研究チームは5万人を8年間追跡し、4.5分の高強度活動が1時間の運動に匹敵する効果を持ち得ると分析した。大がかりな食事制限や長時間の激しい運動がなくても、生活パターンを少し変えることが重要だという。原文は「あと11分だけ眠る」というメッセージとともに、睡眠や短時間の高強度活動といった習慣の変化を強調した。運動時間が不足する人にとって、心血管疾患予防の現実的な選択肢となり得る。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "降低心血管疾病风险的日常改变：多睡11分钟与4.5分钟高强度活动受关注",
-        "excerpt": "澳大利亚悉尼大学团队追踪5万人8年后指出，4.5分钟高强度活动或可产生相当于1小时运动的效果，多睡11分钟等小改变也有助于风险管理。",
-        "body": "如果无法在健身房流汗1小时，日常生活中的小改变也可能帮助降低心血管疾病风险。据mk.co.kr报道，澳大利亚悉尼大学教授团队对5万人进行了8年追踪，并分析认为，4.5分钟高强度活动可能带来相当于1小时运动的效果。这一结果显示，不必依赖宏大的饮食控制或长时间高强度运动，调整生活方式本身也值得关注。原文以“只要多睡11分钟”为核心信息，强调睡眠以及短时间高强度活动等小习惯变化。对于缺少运动时间的人来说，这可能成为预防心血管疾病的现实选择。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Cambios diarios para reducir riesgo cardiovascular: 11 minutos más de sueño y 4,5 de actividad intensa",
-        "excerpt": "Un equipo de la Universidad de Sídney siguió a 50.000 personas durante ocho años y halló que 4,5 minutos de actividad intensa pueden compararse con una hora de ejercicio, junto al valor de dormir 11 minutos más.",
-        "body": "Para quienes no pueden sudar una hora en el gimnasio, pequeños cambios cotidianos podrían ayudar a reducir el riesgo de enfermedades cardiovasculares. Según mk.co.kr, un equipo de profesores de la Universidad de Sídney, en Australia, siguió a 50.000 personas durante ocho años y analizó que 4,5 minutos de actividad de alta intensidad pueden producir un efecto comparable al de una hora de ejercicio. El dato resalta que no siempre hacen falta grandes controles de dieta ni entrenamientos intensos prolongados. El informe original destacó el mensaje de “dormir solo 11 minutos más” y puso el foco en hábitos como el sueño y breves actividades vigorosas. Para quienes tienen poco tiempo para ejercitarse, puede ser una opción realista para prevenir riesgos cardiovasculares. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Mudanças diárias podem reduzir risco cardiovascular: mais 11 minutos de sono e 4,5 de atividade intensa",
-        "excerpt": "Pesquisadores da Universidade de Sydney acompanharam 50 mil pessoas por oito anos e apontaram que 4,5 minutos de atividade intensa podem se comparar a uma hora de exercício, com destaque também para dormir 11 minutos a mais.",
-        "body": "Para quem não consegue passar uma hora suando na academia, pequenas mudanças no dia a dia podem ajudar a reduzir o risco de doenças cardiovasculares. Segundo o mk.co.kr, uma equipe da Universidade de Sydney, na Austrália, acompanhou 50 mil pessoas por oito anos e analisou que 4,5 minutos de atividade de alta intensidade podem gerar efeito comparável ao de uma hora de exercício. O resultado chama atenção para ajustes simples de rotina, sem depender de grandes restrições alimentares ou treinos longos e intensos. A reportagem original destacou a mensagem de “dormir apenas 11 minutos a mais” e hábitos como sono e breves atividades vigorosas. Para pessoas com pouco tempo para se exercitar, isso pode ser uma alternativa realista de prevenção cardiovascular. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Alltagsänderungen gegen Herz-Kreislauf-Risiken: 11 Minuten mehr Schlaf und 4,5 Minuten intensive Aktivität",
-        "excerpt": "Ein Team der University of Sydney verfolgte 50.000 Menschen acht Jahre lang und fand, dass 4,5 Minuten intensive Aktivität einer Stunde Sport nahekommen können; auch 11 Minuten mehr Schlaf stehen im Fokus.",
-        "body": "Wer keine Stunde im Fitnessstudio schwitzen kann, könnte das Risiko für Herz-Kreislauf-Erkrankungen auch durch kleine Veränderungen im Alltag senken. Nach Angaben von mk.co.kr verfolgte ein Forschungsteam der University of Sydney in Australien 50.000 Menschen über acht Jahre und kam zu der Analyse, dass 4,5 Minuten hochintensive Aktivität eine Wirkung entfalten können, die mit einer Stunde Training vergleichbar ist. Damit rücken einfache Anpassungen des Lebensrhythmus in den Blick, ohne große Diätprogramme oder lange intensive Einheiten. Der Originalbericht betonte die Botschaft, „nur 11 Minuten länger zu schlafen“, sowie kurze intensive Aktivitäten. Für Menschen mit wenig Zeit für Sport kann dies ein realistischer Ansatz zur Vorbeugung von Herz-Kreislauf-Risiken sein. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Réduire le risque cardiovasculaire au quotidien: 11 minutes de sommeil en plus et 4,5 minutes d’effort intense",
-        "excerpt": "Une équipe de l’Université de Sydney a suivi 50.000 personnes pendant huit ans et estime que 4,5 minutes d’activité intense peuvent rivaliser avec une heure d’exercice, avec l’intérêt de dormir 11 minutes de plus.",
-        "body": "Pour ceux qui ne peuvent pas transpirer une heure à la salle de sport, de petits changements quotidiens pourraient aider à réduire le risque de maladies cardiovasculaires. Selon mk.co.kr, une équipe de professeurs de l’Université de Sydney, en Australie, a suivi 50.000 personnes pendant huit ans et a analysé que 4,5 minutes d’activité de haute intensité peuvent produire un effet comparable à une heure d’exercice. Ce résultat met en avant l’importance de modifier légèrement ses habitudes, sans régime ambitieux ni entraînement intense prolongé. L’article original insiste sur le message de « dormir seulement 11 minutes de plus » et sur des habitudes comme le sommeil et de brèves activités intenses. Pour les personnes manquant de temps pour faire du sport, cela peut constituer une option réaliste de prévention cardiovasculaire. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تغييرات يومية قد تخفض خطر أمراض القلب: 11 دقيقة نوم إضافية و4.5 دقائق نشاط مكثف",
-        "excerpt": "تابع فريق من جامعة سيدني 50 ألف شخص على مدى 8 سنوات ووجد أن 4.5 دقائق من النشاط عالي الكثافة قد تعادل أثر ساعة من التمرين، مع إبراز أهمية النوم 11 دقيقة إضافية.",
-        "body": "إذا لم يكن ممكنا قضاء ساعة في التعرق داخل صالة الرياضة، فقد تساعد تغييرات صغيرة في الحياة اليومية على خفض خطر أمراض القلب والأوعية الدموية. وبحسب mk.co.kr، تابع فريق من أساتذة جامعة سيدني في أستراليا 50 ألف شخص لمدة 8 سنوات، وخلص إلى أن 4.5 دقائق من النشاط عالي الكثافة قد تحقق أثرا يقارن بساعة من التمرين. وتبرز النتيجة قيمة تعديل نمط الحياة بشكل بسيط من دون حميات كبيرة أو تدريبات شاقة وطويلة. وشدد التقرير الأصلي على رسالة “نم 11 دقيقة إضافية فقط”، إلى جانب عادات مثل النوم والنشاط المكثف القصير. وبالنسبة لمن يفتقرون إلى وقت التمرين، قد يكون ذلك خيارا واقعيا للوقاية من مخاطر القلب والأوعية الدموية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "हृदय रोग जोखिम घटाने वाली छोटी आदतें: 11 मिनट अधिक नींद और 4.5 मिनट तेज गतिविधि",
-        "excerpt": "ऑस्ट्रेलिया की सिडनी यूनिवर्सिटी टीम ने 50 हजार लोगों को 8 साल तक ट्रैक कर पाया कि 4.5 मिनट की उच्च तीव्रता गतिविधि 1 घंटे व्यायाम जैसी हो सकती है, जबकि 11 मिनट अधिक नींद भी अहम मानी गई।",
-        "body": "अगर जिम में एक घंटा पसीना बहाना संभव नहीं है, तो रोजमर्रा की छोटी आदतें भी हृदय और रक्तवाहिका रोगों के जोखिम को घटाने में मदद कर सकती हैं। mk.co.kr के अनुसार, ऑस्ट्रेलिया की सिडनी यूनिवर्सिटी के प्रोफेसरों की टीम ने 50 हजार लोगों को 8 साल तक ट्रैक किया और विश्लेषण किया कि 4.5 मिनट की उच्च तीव्रता गतिविधि 1 घंटे के व्यायाम जैसा प्रभाव दे सकती है। इससे संकेत मिलता है कि बड़े आहार नियंत्रण या लंबे तीव्र वर्कआउट के बिना भी जीवनशैली में छोटे बदलाव मायने रखते हैं। मूल रिपोर्ट ने “सिर्फ 11 मिनट और सोएं” संदेश के साथ नींद और छोटी तेज गतिविधियों जैसी आदतों को रेखांकित किया। जिन लोगों के पास व्यायाम का समय कम है, उनके लिए यह हृदय जोखिम रोकथाम का व्यावहारिक विकल्प हो सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Perubahan Harian untuk Turunkan Risiko Kardiovaskular: Tidur 11 Menit Lebih Lama dan Aktivitas Intens 4,5 Menit",
-        "excerpt": "Tim University of Sydney melacak 50 ribu orang selama 8 tahun dan menemukan aktivitas intens 4,5 menit dapat menandingi efek olahraga 1 jam, sementara tidur 11 menit lebih lama juga disorot.",
-        "body": "Bagi orang yang tidak bisa berkeringat satu jam di pusat kebugaran, perubahan kecil dalam rutinitas harian dapat membantu menurunkan risiko penyakit kardiovaskular. Menurut mk.co.kr, tim profesor dari University of Sydney, Australia, melacak 50 ribu orang selama 8 tahun dan menganalisis bahwa aktivitas berintensitas tinggi selama 4,5 menit dapat memberi efek yang sebanding dengan olahraga satu jam. Temuan ini menyoroti pentingnya penyesuaian gaya hidup sederhana, tanpa pengaturan diet besar atau latihan intens yang lama. Laporan asli menekankan pesan “cukup tidur 11 menit lebih lama” bersama kebiasaan seperti tidur dan aktivitas intens singkat. Bagi mereka yang kekurangan waktu olahraga, ini dapat menjadi pilihan realistis untuk mencegah risiko kardiovaskular. Sumber: mk.co.kr"
       }
     }
   }
