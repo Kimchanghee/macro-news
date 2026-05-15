@@ -1,5 +1,230 @@
 [
   {
+    "id": "dfd220e26717",
+    "slug": "오늘-노조-만난-노동장관-주말엔-경영진-면담총파업-막을까-925506",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T13:10:55.198Z",
+    "updatedAt": "2026-05-15T13:10:55.198Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049537",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049537",
+    "titleFingerprint": "8935cf458598f0c7a961975b1ad1bb0c7dfaa3ac",
+    "dedupKeys": [
+      "dfd220e267177f2c6ec399f6cfb4f43428e81919",
+      "8935cf458598f0c7a961975b1ad1bb0c7dfaa3ac",
+      "16794672a49932d4dd1bd3fab5d4b7ce79a82b80"
+    ],
+    "imageUrl": "/images/articles/dfd220e26717.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 총파업 위기, 노동장관 노조 이어 주말 경영진 면담 나선다",
+        "excerpt": "삼성전자 총파업 위기가 커지는 가운데 김영훈 고용노동부 장관이 15일 노조 집행부에 이어 주말 경영진을 만나 중재에 나설 예정이다.",
+        "body": "삼성전자 총파업 위기가 고조되는 가운데 김영훈 고용노동부 장관이 15일 노동조합 집행부와 만난 데 이어 주말에는 경영진과도 직접 면담에 나선다. 정부와 업계에 따르면 김 장관은 노사 갈등이 커지는 상황에서 양측을 차례로 만나 중재 역할을 맡을 예정이다. 이번 움직임은 삼성전자 총파업 가능성이 부각된 가운데 정부가 노사 대화의 접점을 찾으려는 조치로 해석된다. 장관이 노조와 경영진을 모두 만나는 만큼 향후 협의 흐름과 파업 여부에 관심이 쏠린다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Strike Risk Puts Labor Minister in Talks With Union and Management",
+        "excerpt": "As the risk of a Samsung Electronics general strike grows, Labor Minister Kim Young-hoon met union leaders on May 15 and plans weekend talks with management.",
+        "body": "As the risk of a general strike at Samsung Electronics intensifies, Employment and Labor Minister Kim Young-hoon met with union executives on May 15 and is set to hold direct talks with management over the weekend. According to the government and industry, Kim is moving to mediate as tensions between labor and management grow. The meetings come as the possibility of a Samsung Electronics general strike draws wider attention, with the government seeking room for dialogue between the two sides. Because the minister is meeting both the union and management, attention now turns to the course of negotiations and whether a strike can be avoided. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子の全面スト危機、労働相が労組に続き週末に経営陣と面談",
+        "excerpt": "サムスン電子の全面スト危機が高まる中、金泳勳雇用労働部長官は15日に労組執行部と会い、週末には経営陣とも面談する予定だ。",
+        "body": "サムスン電子で全面ストの危機が高まる中、金泳勳雇用労働部長官は15日に労働組合の執行部と面談し、週末には経営陣とも直接会う見通しだ。政府と業界によると、金長官は労使対立が強まる状況で双方と順に会い、仲裁に乗り出す。今回の動きは、サムスン電子の全面ストの可能性が注目される中、政府が労使対話の接点を探る措置と受け止められている。長官が労組と経営陣の双方に会うため、今後の協議の流れとスト実施の有無に関心が集まる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子全面罢工风险升温，韩国劳动部长周末将会见管理层",
+        "excerpt": "在三星电子全面罢工危机加剧之际，韩国雇佣劳动部长金荣勋15日会见工会执行层后，计划周末再与管理层直接会谈。",
+        "body": "在三星电子全面罢工危机升温之际，韩国雇佣劳动部长金荣勋15日会见工会执行层后，周末还将与公司管理层直接会面。据政府和业界消息，金荣勋将在劳资矛盾扩大的情况下依次接触双方，展开调解。此举发生在三星电子全面罢工可能性受到关注之时，被视为政府试图寻找劳资对话交集的措施。由于部长将同时会见工会和管理层，后续协商走向以及能否避免罢工成为关注焦点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Riesgo de huelga total en Samsung Electronics: el ministro hablará con sindicato y directiva",
+        "excerpt": "Ante la creciente amenaza de huelga total en Samsung Electronics, el ministro de Trabajo Kim Young-hoon se reunió el 15 con el sindicato y verá a la directiva el fin de semana.",
+        "body": "Ante el aumento del riesgo de una huelga total en Samsung Electronics, el ministro de Empleo y Trabajo, Kim Young-hoon, se reunió el 15 de mayo con la dirección del sindicato y prevé mantener conversaciones directas con la gerencia durante el fin de semana. Según el Gobierno y la industria, Kim busca mediar mientras crecen las tensiones entre trabajadores y empresa. La medida llega en un momento en que la posibilidad de una huelga total en Samsung Electronics gana atención, y el Gobierno intenta abrir un espacio de diálogo entre las partes. Como el ministro se reunirá con ambos lados, la atención se centra en el curso de las negociaciones y en si se evitará la huelga. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Risco de greve geral na Samsung Electronics leva ministro a falar com sindicato e direção",
+        "excerpt": "Com a ameaça de greve geral na Samsung Electronics em alta, o ministro do Trabalho Kim Young-hoon reuniu-se em 15 de maio com o sindicato e verá a direção no fim de semana.",
+        "body": "Com o risco de greve geral na Samsung Electronics aumentando, o ministro do Emprego e Trabalho, Kim Young-hoon, reuniu-se em 15 de maio com a liderança do sindicato e deverá manter conversas diretas com a direção da empresa no fim de semana. Segundo o governo e o setor, Kim busca mediar o conflito em meio à escalada das tensões entre trabalhadores e gestão. A iniciativa ocorre enquanto a possibilidade de greve geral na Samsung Electronics ganha destaque, com o governo tentando encontrar espaço para diálogo. Como o ministro falará com os dois lados, a atenção se volta ao rumo das negociações e à possibilidade de evitar a paralisação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics vor Generalstreik: Arbeitsminister spricht mit Gewerkschaft und Management",
+        "excerpt": "Angesichts der wachsenden Gefahr eines Generalstreiks bei Samsung Electronics traf Arbeitsminister Kim Young-hoon am 15. Mai die Gewerkschaft und plant Wochenendgespräche mit dem Management.",
+        "body": "Angesichts der zunehmenden Gefahr eines Generalstreiks bei Samsung Electronics traf Beschäftigungs- und Arbeitsminister Kim Young-hoon am 15. Mai die Gewerkschaftsführung und will am Wochenende auch direkt mit dem Management sprechen. Nach Angaben aus Regierung und Branche tritt Kim als Vermittler auf, während sich der Konflikt zwischen Arbeitnehmerseite und Unternehmen zuspitzt. Der Schritt erfolgt, da die Möglichkeit eines Generalstreiks bei Samsung Electronics stärker in den Fokus rückt und die Regierung nach Ansatzpunkten für einen Dialog sucht. Da der Minister beide Seiten trifft, richtet sich der Blick nun auf den weiteren Verlauf der Gespräche und darauf, ob ein Streik verhindert werden kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Risque de grève générale chez Samsung Electronics: le ministre voit syndicat et direction",
+        "excerpt": "Alors que le risque de grève générale chez Samsung Electronics augmente, le ministre du Travail Kim Young-hoon a rencontré le syndicat le 15 mai et prévoit de voir la direction ce week-end.",
+        "body": "Alors que le risque d’une grève générale chez Samsung Electronics s’intensifie, le ministre de l’Emploi et du Travail, Kim Young-hoon, a rencontré le 15 mai les responsables syndicaux et doit s’entretenir directement avec la direction ce week-end. Selon le gouvernement et le secteur, Kim intervient comme médiateur dans un contexte de tensions croissantes entre salariés et management. Cette initiative intervient au moment où la possibilité d’une grève générale chez Samsung Electronics attire l’attention, le gouvernement cherchant un point de dialogue entre les deux parties. Le ministre devant rencontrer à la fois le syndicat et la direction, l’évolution des discussions et l’issue sur la grève seront suivies de près. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "خطر إضراب شامل في سامسونغ إلكترونيكس يدفع وزير العمل للقاء النقابة والإدارة",
+        "excerpt": "مع تصاعد خطر الإضراب الشامل في سامسونغ إلكترونيكس، التقى وزير العمل كيم يونغ هون قيادة النقابة في 15 مايو ويعتزم لقاء الإدارة خلال عطلة نهاية الأسبوع.",
+        "body": "مع تصاعد خطر إضراب شامل في سامسونغ إلكترونيكس، التقى وزير التوظيف والعمل كيم يونغ هون في 15 مايو قيادة النقابة، ومن المقرر أن يعقد لقاء مباشرا مع الإدارة خلال عطلة نهاية الأسبوع. وبحسب الحكومة والقطاع، يتحرك كيم للوساطة في ظل اتساع التوتر بين العمال والإدارة. تأتي هذه الخطوة بينما تحظى إمكانية الإضراب الشامل في سامسونغ إلكترونيكس باهتمام متزايد، وتسعى الحكومة إلى إيجاد نقطة حوار بين الطرفين. وبما أن الوزير سيلتقي النقابة والإدارة معا، يتركز الاهتمام على مسار المشاورات المقبلة وما إذا كان بالإمكان تجنب الإضراب. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics में आम हड़ताल का खतरा, श्रम मंत्री यूनियन के बाद प्रबंधन से मिलेंगे",
+        "excerpt": "Samsung Electronics में आम हड़ताल का खतरा बढ़ने के बीच श्रम मंत्री किम यंग-हून ने 15 मई को यूनियन नेतृत्व से मुलाकात की और सप्ताहांत में प्रबंधन से मिलेंगे।",
+        "body": "Samsung Electronics में आम हड़ताल का खतरा बढ़ने के बीच रोजगार और श्रम मंत्री किम यंग-हून ने 15 मई को श्रमिक संघ के पदाधिकारियों से मुलाकात की और सप्ताहांत में प्रबंधन से सीधे बातचीत करने वाले हैं। सरकार और उद्योग के अनुसार, श्रम और प्रबंधन के बीच तनाव बढ़ने की स्थिति में किम मध्यस्थता की भूमिका निभा रहे हैं। यह कदम तब उठाया गया है जब Samsung Electronics में आम हड़ताल की संभावना पर ध्यान बढ़ रहा है और सरकार दोनों पक्षों के बीच बातचीत का रास्ता तलाश रही है। मंत्री के यूनियन और प्रबंधन दोनों से मिलने के कारण आगे की वार्ता और हड़ताल टलने की संभावना पर नजर रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Risiko Mogok Total Samsung Electronics, Menteri Tenaga Kerja Temui Serikat dan Manajemen",
+        "excerpt": "Saat risiko mogok total Samsung Electronics meningkat, Menteri Ketenagakerjaan Kim Young-hoon bertemu pengurus serikat pada 15 Mei dan akan menemui manajemen akhir pekan ini.",
+        "body": "Saat risiko mogok total di Samsung Electronics meningkat, Menteri Ketenagakerjaan Kim Young-hoon bertemu dengan pengurus serikat pekerja pada 15 Mei dan dijadwalkan bertemu langsung dengan manajemen pada akhir pekan. Menurut pemerintah dan kalangan industri, Kim bergerak sebagai mediator di tengah meningkatnya ketegangan antara pekerja dan manajemen. Langkah ini muncul ketika kemungkinan mogok total di Samsung Electronics menjadi sorotan, dengan pemerintah berupaya mencari titik temu dialog antara kedua pihak. Karena menteri akan menemui serikat dan manajemen, perhatian kini tertuju pada arah pembicaraan berikutnya dan apakah mogok dapat dicegah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "319aa23fc3ff",
+    "slug": "다카이치-트럼프와-통화-중국-관련-의견-교환흔들림-없는-미일동맹-확인-706830",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T13:09:52.565Z",
+    "updatedAt": "2026-05-15T13:09:52.565Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12049622",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12049622",
+    "titleFingerprint": "3b0c3ee8298d3fc5a2c3b393156a08b524373c5e",
+    "dedupKeys": [
+      "319aa23fc3ff15454c2b2c6c5a62dda45ccf3a49",
+      "3b0c3ee8298d3fc5a2c3b393156a08b524373c5e",
+      "9e80a057f57e0479f1ef8dd1ec34d375d43c9d12"
+    ],
+    "imageUrl": "/images/articles/319aa23fc3ff.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다카이치·트럼프 통화, 중국 현안 논의와 미·일동맹 재확인",
+        "excerpt": "베이징에서 열린 2박 3일 미중 정상회담이 15일 마무리된 뒤 다카이치 사나에 일본 총리가 트럼프 미국 대통령과 통화해 중국 관련 의견을 나누고 미·일동맹을 확인했다.",
+        "body": "중국 베이징에서 열린 2박 3일간의 미중 정상회담이 15일 모두 마무리된 가운데, 다카이치 사나에 일본 총리가 도널드 트럼프 미국 대통령과 통화했다. 교도통신과 NHK 등에 따르면 양측은 중국과 관련한 의견을 교환했으며, 흔들림 없는 미·일동맹을 확인했다. 이번 통화는 미중 정상회담 직후 이뤄졌다는 점에서 중국 관련 정세와 동맹 협력에 초점이 맞춰졌다. 일본과 미국은 회담 결과를 둘러싼 외교적 흐름 속에서 양국 간 공조 기조를 재확인한 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Takaichi and Trump Discuss China, Reaffirm Firm U.S.-Japan Alliance",
+        "excerpt": "After the three-day U.S.-China summit in Beijing ended on the 15th, Japanese Prime Minister Sanae Takaichi spoke with U.S. President Donald Trump about China and the alliance.",
+        "body": "As the three-day U.S.-China summit in Beijing concluded on the 15th, Japanese Prime Minister Sanae Takaichi held a phone call with U.S. President Donald Trump. According to Kyodo News, NHK and others, the two leaders exchanged views related to China and confirmed the unwavering U.S.-Japan alliance. The call drew attention because it came immediately after the U.S.-China summit, placing focus on China-related developments and allied cooperation. Japan and the United States appear to have reaffirmed their coordination amid the diplomatic flow surrounding the summit’s outcome. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "高市氏とトランプ氏が電話会談、中国情勢協議と日米同盟を確認",
+        "excerpt": "北京で開かれた2泊3日の米中首脳会談が15日に終了した後、高市早苗首相はトランプ米大統領と電話で中国関連の意見を交わし、日米同盟を確認した。",
+        "body": "中国・北京で開かれた2泊3日の米中首脳会談が15日にすべて終了する中、高市早苗首相がドナルド・トランプ米大統領と電話会談を行った。共同通信やNHKなどによると、双方は中国に関する意見を交換し、揺るぎない日米同盟を確認した。今回の通話は米中首脳会談の直後に行われた点で、中国関連情勢と同盟協力に焦点が当たった。日本と米国は会談結果をめぐる外交の流れの中で、両国間の連携方針を再確認したとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "高市与特朗普通话，讨论中国议题并重申美日同盟稳固",
+        "excerpt": "在北京举行的为期三天美中首脑会谈于15日结束后，日本首相高市早苗与美国总统特朗普通话，就中国相关问题交换意见并确认美日同盟。",
+        "body": "在中国北京举行的为期三天美中首脑会谈于15日全部结束之际，日本首相高市早苗与美国总统唐纳德·特朗普进行了通话。据共同社、NHK等报道，双方就中国相关问题交换了意见，并确认了坚定不移的美日同盟。此次通话因发生在美中首脑会谈之后，焦点集中在中国相关局势和同盟合作上。日本和美国在围绕会谈结果的外交动向中，被认为重新确认了两国协作基调。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Takaichi y Trump hablan sobre China y reafirman la alianza EE.UU.-Japón",
+        "excerpt": "Tras concluir el día 15 la cumbre de tres días entre EE.UU. y China en Pekín, la primera ministra japonesa Sanae Takaichi habló con Donald Trump sobre China y la alianza bilateral.",
+        "body": "Después de que concluyera el día 15 la cumbre de tres días entre Estados Unidos y China celebrada en Pekín, la primera ministra japonesa Sanae Takaichi mantuvo una llamada con el presidente estadounidense Donald Trump. Según Kyodo News, NHK y otros medios, ambas partes intercambiaron opiniones relacionadas con China y confirmaron la firme alianza entre Estados Unidos y Japón. La llamada se produjo justo después de la cumbre, por lo que el foco estuvo en la situación vinculada a China y la cooperación aliada. Japón y Estados Unidos parecen haber reafirmado su coordinación en el contexto diplomático posterior a la reunión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Takaichi e Trump discutem China e reafirmam aliança firme EUA-Japão",
+        "excerpt": "Após o fim, no dia 15, da cúpula de três dias entre EUA e China em Pequim, a primeira-ministra japonesa Sanae Takaichi conversou com Donald Trump sobre China e a aliança bilateral.",
+        "body": "Com o encerramento, no dia 15, da cúpula de três dias entre Estados Unidos e China realizada em Pequim, a primeira-ministra japonesa Sanae Takaichi falou por telefone com o presidente dos EUA, Donald Trump. Segundo a Kyodo News, a NHK e outros veículos, os dois lados trocaram opiniões sobre questões relacionadas à China e confirmaram a aliança inabalável entre EUA e Japão. A ligação ocorreu logo após a cúpula, colocando em foco a situação ligada à China e a cooperação entre aliados. Japão e Estados Unidos parecem ter reafirmado sua coordenação em meio ao fluxo diplomático em torno dos resultados da reunião. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Takaichi und Trump sprechen über China und bekräftigen US-Japan-Allianz",
+        "excerpt": "Nach dem Ende des dreitägigen USA-China-Gipfels in Peking am 15. telefonierte Japans Premierministerin Sanae Takaichi mit Donald Trump über China und die bilaterale Allianz.",
+        "body": "Nachdem der dreitägige USA-China-Gipfel in Peking am 15. vollständig beendet war, telefonierte Japans Premierministerin Sanae Takaichi mit US-Präsident Donald Trump. Nach Angaben von Kyodo News, NHK und anderen Medien tauschten beide Seiten Ansichten zu China aus und bestätigten die unerschütterliche Allianz zwischen den USA und Japan. Der Anruf erfolgte unmittelbar nach dem Gipfel, wodurch China-bezogene Entwicklungen und die Zusammenarbeit der Verbündeten in den Mittelpunkt rückten. Japan und die Vereinigten Staaten scheinen im diplomatischen Umfeld der Gipfelergebnisse ihre Abstimmung bekräftigt zu haben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Takaichi et Trump échangent sur la Chine et réaffirment l’alliance nippo-américaine",
+        "excerpt": "Après la fin, le 15, du sommet sino-américain de trois jours à Pékin, la Première ministre japonaise Sanae Takaichi a parlé avec Donald Trump de la Chine et de l’alliance bilatérale.",
+        "body": "Alors que le sommet sino-américain de trois jours tenu à Pékin s’est achevé le 15, la Première ministre japonaise Sanae Takaichi s’est entretenue par téléphone avec le président américain Donald Trump. Selon Kyodo News, NHK et d’autres médias, les deux parties ont échangé des vues sur la Chine et confirmé l’alliance inébranlable entre les États-Unis et le Japon. Cet appel, intervenu juste après le sommet, a mis l’accent sur la situation liée à la Chine et la coopération entre alliés. Le Japon et les États-Unis semblent avoir réaffirmé leur coordination dans le contexte diplomatique entourant les résultats de la rencontre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تاكايتشي وترامب يبحثان الصين ويؤكدان ثبات التحالف الأميركي الياباني",
+        "excerpt": "بعد اختتام قمة أميركية صينية استمرت ثلاثة أيام في بكين في 15، أجرت رئيسة وزراء اليابان ساناي تاكايتشي اتصالا مع دونالد ترامب لتبادل الآراء بشأن الصين وتأكيد التحالف.",
+        "body": "مع اختتام القمة الأميركية الصينية التي استمرت ثلاثة أيام في بكين في 15، أجرت رئيسة وزراء اليابان ساناي تاكايتشي اتصالا هاتفيا مع الرئيس الأميركي دونالد ترامب. ووفقا لوكالة كيودو وNHK ووسائل أخرى، تبادل الجانبان الآراء المتعلقة بالصين، وأكدا التحالف الأميركي الياباني الثابت. وجاء الاتصال مباشرة بعد القمة الأميركية الصينية، ما جعل التركيز ينصب على التطورات المرتبطة بالصين والتعاون بين الحليفين. ويبدو أن اليابان والولايات المتحدة أعادتا تأكيد مسار التنسيق بينهما ضمن الأجواء الدبلوماسية المحيطة بنتائج القمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ताकाइची और ट्रंप ने चीन पर चर्चा की, अटूट अमेरिका-जापान गठबंधन दोहराया",
+        "excerpt": "बीजिंग में तीन दिन चली अमेरिका-चीन शिखर बैठक 15 तारीख को समाप्त होने के बाद जापानी प्रधानमंत्री साने ताकाइची ने डोनाल्ड ट्रंप से चीन और गठबंधन पर फोन पर बात की।",
+        "body": "चीन के बीजिंग में दो रात और तीन दिन चली अमेरिका-चीन शिखर बैठक 15 तारीख को समाप्त होने के बीच जापान की प्रधानमंत्री साने ताकाइची ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप से फोन पर बातचीत की। क्योदो न्यूज, NHK और अन्य के अनुसार, दोनों पक्षों ने चीन से जुड़े मुद्दों पर विचारों का आदान-प्रदान किया और अटूट अमेरिका-जापान गठबंधन की पुष्टि की। यह बातचीत अमेरिका-चीन शिखर बैठक के तुरंत बाद हुई, इसलिए ध्यान चीन से जुड़ी स्थिति और सहयोगी देशों के तालमेल पर रहा। बैठक के परिणामों से जुड़े कूटनीतिक प्रवाह के बीच जापान और अमेरिका ने अपने समन्वय के रुख की फिर पुष्टि की मानी जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Takaichi dan Trump Bahas China, Tegaskan Aliansi AS-Jepang Tak Goyah",
+        "excerpt": "Setelah KTT AS-China selama tiga hari di Beijing berakhir pada tanggal 15, PM Jepang Sanae Takaichi menelepon Presiden AS Donald Trump untuk membahas China dan aliansi kedua negara.",
+        "body": "Ketika KTT Amerika Serikat-China selama tiga hari di Beijing berakhir pada tanggal 15, Perdana Menteri Jepang Sanae Takaichi melakukan panggilan telepon dengan Presiden AS Donald Trump. Menurut Kyodo News, NHK, dan lainnya, kedua pihak bertukar pandangan terkait China serta menegaskan aliansi AS-Jepang yang tidak tergoyahkan. Panggilan ini menjadi perhatian karena berlangsung segera setelah KTT AS-China, dengan fokus pada situasi terkait China dan kerja sama sekutu. Jepang dan Amerika Serikat tampaknya kembali menegaskan arah koordinasi kedua negara di tengah arus diplomatik seputar hasil pertemuan tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e4208a9a1455",
+    "slug": "gtx-a-삼성역-공사-철근-누락국토부-감사-착수-259241",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T13:08:56.951Z",
+    "updatedAt": "2026-05-15T13:08:56.951Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12049629",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12049629",
+    "titleFingerprint": "885b4a6d8dff5a13abf42e52bfaa8f166fdde407",
+    "dedupKeys": [
+      "e4208a9a14554e48916ecae740389709a05e7389",
+      "885b4a6d8dff5a13abf42e52bfaa8f166fdde407",
+      "cd6f41e49f6cc5c53bafacb905fa293db623464a"
+    ],
+    "imageUrl": "/images/articles/e4208a9a1455.png",
+    "i18n": {
+      "ko": {
+        "title": "GTX-A 삼성역 철근 누락에 국토부 감사 착수, 6월 개통 변수로 부상",
+        "excerpt": "국토교통부가 GTX-A 삼성역 구간 공사에서 작년 11월 발견된 대규모 철근 누락과 보강공사 지연 문제를 두고 감사에 착수했다.",
+        "body": "GTX-A 삼성역 구간 공사에서 대규모 철근 누락 사실이 확인되면서 국토교통부가 감사에 착수했다. 해당 문제는 작년 11월 발견됐지만 보강공사가 미뤄진 것으로 알려졌다. 서울시와 국가철도공단도 관련 감사에 나선 상황이다. 국토부는 보강안에 대해 “철저히 검증하겠다”는 입장을 밝혔다. 이번 사안은 삼성역 구간의 안전성 확인과 후속 보강 일정에 영향을 줄 수 있어 6월 개통이 예정대로 이뤄질지는 불확실하다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "GTX-A Samseong Station Rebar Omission Prompts Land Ministry Audit",
+        "excerpt": "South Korea’s transport ministry has begun an audit after a major rebar omission found last November in the GTX-A Samseong Station section and delayed reinforcement work.",
+        "body": "South Korea’s Ministry of Land, Infrastructure and Transport has launched an audit after a major rebar omission was confirmed in construction on the GTX-A Samseong Station section. The issue was discovered in November last year, but reinforcement work was reportedly delayed. The Seoul Metropolitan Government and the Korea National Railway have also begun related audits. The ministry said it would “thoroughly verify” the reinforcement plan. The case could affect safety checks and follow-up reinforcement work for the Samseong Station section, leaving it uncertain whether the planned June opening will proceed as scheduled. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "GTX-A三成駅区間で鉄筋不足、国土交通部が監査に着手",
+        "excerpt": "韓国国土交通部は、GTX-A三成駅区間で昨年11月に見つかった大規模な鉄筋不足と補強工事の遅れを受け、監査に着手した。",
+        "body": "GTX-A三成駅区間の工事で大規模な鉄筋不足が確認され、韓国国土交通部が監査に着手した。この問題は昨年11月に発見されたが、補強工事は遅れていたとされる。ソウル市と国家鉄道公団も関連監査に入っている。国土交通部は補強案について「徹底的に検証する」との立場を示した。今回の事案は三成駅区間の安全性確認と今後の補強日程に影響する可能性があり、6月開通が予定通り進むかは不透明だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "GTX-A三星站区间钢筋遗漏，韩国国土部启动审计",
+        "excerpt": "韩国国土交通部针对GTX-A三星站区间去年11月发现的大规模钢筋遗漏及加固工程延误问题，已启动审计。",
+        "body": "GTX-A三星站区间施工中确认存在大规模钢筋遗漏，韩国国土交通部已启动审计。该问题于去年11月被发现，但加固工程据悉一直被推迟。首尔市和国家铁道公团也已就相关事项展开审计。国土交通部表示，将对加固方案进行“彻底验证”。此事可能影响三星站区间的安全性确认和后续加固日程，因此原定6月开通能否按计划推进仍不确定。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Omisión de varillas en GTX-A Samseong activa auditoría del ministerio",
+        "excerpt": "El Ministerio de Tierra y Transporte de Corea inició una auditoría por la gran omisión de varillas detectada en noviembre pasado en el tramo Samseong de GTX-A.",
+        "body": "El Ministerio de Tierra, Infraestructura y Transporte de Corea del Sur inició una auditoría tras confirmarse una gran omisión de varillas en las obras del tramo Samseong Station de GTX-A. El problema fue detectado en noviembre del año pasado, pero las obras de refuerzo se habrían retrasado. El Gobierno Metropolitano de Seúl y Korea National Railway también emprendieron auditorías relacionadas. El ministerio afirmó que “verificará exhaustivamente” el plan de refuerzo. El caso puede afectar la revisión de seguridad y el calendario posterior, por lo que sigue incierto si la apertura prevista para junio se realizará según lo programado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Falha em vergalhões na GTX-A Samseong leva ministério a auditar obra",
+        "excerpt": "O Ministério de Terras e Transporte da Coreia abriu auditoria sobre a grande falha de vergalhões achada em novembro passado no trecho Samseong da GTX-A.",
+        "body": "O Ministério de Terras, Infraestrutura e Transporte da Coreia do Sul iniciou uma auditoria após a confirmação de uma grande omissão de vergalhões na obra do trecho da estação Samseong da GTX-A. O problema foi descoberto em novembro do ano passado, mas os trabalhos de reforço teriam sido adiados. A Prefeitura de Seul e a Korea National Railway também iniciaram auditorias relacionadas. O ministério afirmou que “verificará rigorosamente” o plano de reforço. O caso pode afetar a checagem de segurança e o cronograma posterior, deixando incerto se a abertura prevista para junho ocorrerá como planejado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "GTX-A Samseong: Fehlende Bewehrung löst Ministeriumsprüfung aus",
+        "excerpt": "Südkoreas Verkehrsministerium prüft fehlende Bewehrung im GTX-A-Abschnitt Samseong, die im November entdeckt wurde, sowie verzögerte Verstärkungsarbeiten.",
+        "body": "Im Bauabschnitt Samseong Station der GTX-A wurde ein umfangreiches Fehlen von Bewehrungsstahl bestätigt, woraufhin Südkoreas Ministerium für Land, Infrastruktur und Verkehr eine Prüfung eingeleitet hat. Das Problem wurde im November vergangenen Jahres entdeckt, doch Verstärkungsarbeiten wurden Berichten zufolge verschoben. Auch die Stadt Seoul und Korea National Railway führen entsprechende Prüfungen durch. Das Ministerium erklärte, den Verstärkungsplan „gründlich zu überprüfen“. Der Fall kann Sicherheitsprüfungen und den weiteren Zeitplan beeinflussen, sodass unklar bleibt, ob die für Juni geplante Eröffnung wie vorgesehen erfolgt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "GTX-A Samseong: armatures manquantes, audit du ministère lancé",
+        "excerpt": "Le ministère sud-coréen des Transports audite le tronçon Samseong du GTX-A après une importante omission d’armatures découverte en novembre et des renforcements retardés.",
+        "body": "Le ministère sud-coréen du Territoire, des Infrastructures et des Transports a lancé un audit après la confirmation d’une importante omission d’armatures sur le chantier du tronçon de la station Samseong du GTX-A. Le problème a été découvert en novembre dernier, mais les travaux de renforcement auraient été retardés. La ville de Séoul et Korea National Railway mènent aussi des audits liés. Le ministère a indiqué qu’il « vérifierait rigoureusement » le plan de renforcement. Cette affaire peut peser sur les contrôles de sécurité et le calendrier suivant, rendant incertaine l’ouverture prévue en juin. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نقص حديد تسليح في محطة سامسونغ ضمن GTX-A يدفع الوزارة للتدقيق",
+        "excerpt": "بدأت وزارة النقل الكورية تدقيقا بعد اكتشاف نقص كبير في حديد التسليح في مقطع محطة سامسونغ ضمن GTX-A في نوفمبر الماضي وتأخر أعمال التعزيز.",
+        "body": "بدأت وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية تدقيقا بعد تأكيد وجود نقص كبير في حديد التسليح ضمن أعمال مقطع محطة سامسونغ في خط GTX-A. وقد اكتشفت المشكلة في نوفمبر من العام الماضي، لكن أعمال التعزيز تأخرت بحسب ما ورد. كما بدأت حكومة سيول وهيئة السكك الحديدية الوطنية الكورية عمليات تدقيق ذات صلة. وقالت الوزارة إنها ستقوم بـ“التحقق الدقيق” من خطة التعزيز. وقد تؤثر هذه القضية في فحص السلامة وجدول الأعمال اللاحقة في مقطع سامسونغ، ما يجعل افتتاح يونيو المقرر غير مؤكد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "GTX-A सैमसंग स्टेशन में सरिया कमी पर भूमि मंत्रालय ने ऑडिट शुरू किया",
+        "excerpt": "दक्षिण कोरिया के परिवहन मंत्रालय ने GTX-A सैमसंग स्टेशन खंड में पिछले नवंबर मिली बड़ी सरिया कमी और मजबूती कार्य में देरी पर ऑडिट शुरू किया।",
+        "body": "GTX-A के सैमसंग स्टेशन खंड के निर्माण में बड़े पैमाने पर सरिया की कमी की पुष्टि होने के बाद दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्रालय ने ऑडिट शुरू किया है। यह समस्या पिछले वर्ष नवंबर में मिली थी, लेकिन मजबूती का काम टलता रहा बताया गया है। सियोल शहर और Korea National Railway ने भी संबंधित ऑडिट शुरू किए हैं। मंत्रालय ने कहा कि वह मजबूती योजना की “पूरी तरह जांच” करेगा। यह मामला सैमसंग स्टेशन खंड की सुरक्षा जांच और आगे के मजबूती कार्यक्रम को प्रभावित कर सकता है, इसलिए जून में प्रस्तावित उद्घाटन समय पर होगा या नहीं, यह अनिश्चित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Tulangan Hilang di GTX-A Samseong Picu Audit Kementerian Transportasi",
+        "excerpt": "Kementerian transportasi Korea Selatan memulai audit atas hilangnya tulangan besar di seksi Stasiun Samseong GTX-A yang ditemukan November lalu dan penundaan perkuatan.",
+        "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan memulai audit setelah dikonfirmasi adanya penghilangan tulangan dalam skala besar pada pekerjaan seksi Stasiun Samseong GTX-A. Masalah ini ditemukan pada November tahun lalu, tetapi pekerjaan perkuatan dilaporkan tertunda. Pemerintah Kota Seoul dan Korea National Railway juga memulai audit terkait. Kementerian menyatakan akan “memverifikasi secara menyeluruh” rencana perkuatan. Kasus ini dapat memengaruhi pemeriksaan keselamatan dan jadwal perkuatan lanjutan di seksi Samseong, sehingga belum pasti apakah pembukaan yang direncanakan pada Juni dapat berlangsung sesuai jadwal. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "772b147051a1",
     "slug": "평택-달려가-노조-만난-삼성-사장단-지금이-반도체-골든타임-678701",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Biaya Terapi Manual Mulai Juli Dibatasi Sekitar 40.000 Won per Sesi",
         "excerpt": "Pemerintah menyiapkan aturan rinci terakhir untuk sistem manfaat terkelola terapi manual yang berlaku 1 Juli, dengan biaya dibatasi dan pengakuan maksimal 24 sesi per tahun.",
         "body": "Pemerintah sedang menyiapkan kriteria rinci tahap akhir sebelum sistem manfaat terkelola untuk terapi manual diberlakukan pada 1 Juli. Setelah sistem berjalan, biaya terapi manual yang selama ini berbeda-beda di tiap rumah sakit dan dinilai seperti ditentukan sepihak akan dibatasi sekitar 40.000 won per sesi. Jumlah perawatan yang diakui juga dibatasi maksimal 24 sesi per tahun. Terapi manual selama ini berada di area layanan non-cakupan, sehingga terdapat selisih harga besar antar institusi medis. Dengan diterapkannya kerangka manfaat terkelola, biaya dan standar penggunaan diperkirakan menjadi lebih jelas. Pasien perlu memeriksa biaya per sesi dan batas pengakuan tahunan, sementara institusi medis harus menyesuaikan operasional dengan standar baru. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "a2e2df4f771f",
-    "slug": "세기의-재산분할-최태원노소영-법정대면할까2차-조정일-내달-15일로-293916",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T20:59:41.881Z",
-    "updatedAt": "2026-05-14T20:59:41.881Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12048026",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12048026",
-    "titleFingerprint": "759e822b94172a03e2319b2e3abb04f2ed6fee22",
-    "dedupKeys": [
-      "a2e2df4f771fd2c327551bfae5825f6540d9d3f0",
-      "759e822b94172a03e2319b2e3abb04f2ed6fee22",
-      "2224cffcae9b40f46dcad50d3bdda8efcb3d3673"
-    ],
-    "imageUrl": "/images/articles/a2e2df4f771f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "최태원·노소영 재산분할 2차 조정, 내달 15일 법정대면 가능성",
-        "excerpt": "최태원 SK그룹 회장과 노소영 아트센터 나비 관장이 이혼 확정 뒤 재산분할 논의를 위해 다음 달 15일 2차 조정기일에 법정에서 만날 가능성이 제기됐다.",
-        "body": "최태원 SK그룹 회장과 노소영 아트센터 나비 관장이 이혼이 확정된 뒤 재산분할 문제를 논의하기 위해 다음 달 15일 열리는 2차 조정기일에서 법정 대면할 가능성이 예상된다. 두 사람의 이혼은 이른바 ‘세기의 이혼’으로 불려 왔으며, 최 회장은 66세, 노 관장은 65세다. 이번 절차는 이혼 확정 이후 남은 재산분할 쟁점을 다루기 위한 조정 단계로, 양측이 법정에서 직접 마주할지에 관심이 모인다. 향후 조정 결과에 따라 재산분할 논의의 방향이 구체화될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Chey Tae-won and Roh So-young May Face Court Mediation on Asset Split",
-        "excerpt": "SK Group Chairman Chey Tae-won and Art Center Nabi director Roh So-young may appear in court on the 15th of next month for a second mediation session over property division after their divorce was finalized.",
-        "body": "SK Group Chairman Chey Tae-won and Art Center Nabi director Roh So-young are expected to potentially meet in court at a second mediation session scheduled for the 15th of next month to discuss property division after their divorce was finalized. Their divorce has been widely described as the “divorce of the century.” Chey is 66, while Roh is 65. The upcoming procedure is a mediation stage aimed at addressing remaining issues over asset division following the confirmed divorce. Attention is focused on whether the two will appear face to face in court. The outcome of the mediation may shape the next phase of discussions on the property split. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "崔泰源氏と盧素英氏、財産分与の2回目調停で法廷対面の可能性",
-        "excerpt": "SKグループの崔泰源会長とアートセンター・ナビの盧素英館長が、離婚確定後の財産分与を協議するため、来月15日の2回目調停期日に法廷で対面する可能性がある。",
-        "body": "SKグループの崔泰源会長とアートセンター・ナビの盧素英館長が、離婚が確定した後の財産分与問題を話し合うため、来月15日に開かれる2回目の調停期日で法廷対面する可能性があるとみられている。2人の離婚は、いわゆる「世紀の離婚」と呼ばれてきた。崔会長は66歳、盧館長は65歳。今回の手続きは、離婚確定後に残された財産分与の争点を扱う調停段階にあたる。双方が法廷で直接向き合うかどうかに関心が集まっており、調停の結果によって財産分与協議の方向が具体化する見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "崔泰源与卢素英财产分割二次调解，或于下月15日法庭见面",
-        "excerpt": "SK集团会长崔泰源与Art Center Nabi馆长卢素英在离婚确定后，为讨论财产分割问题，可能于下月15日第二次调解期日在法庭会面。",
-        "body": "SK集团会长崔泰源与Art Center Nabi馆长卢素英在离婚确定后，为讨论财产分割问题，预计可能在下月15日举行的第二次调解期日于法庭见面。两人的离婚一直被称为所谓“世纪离婚”。崔会长66岁，卢馆长65岁。此次程序是在离婚确定后处理剩余财产分割争议的调解阶段。外界关注双方是否会在法庭上直接面对面。今后调解结果或将使财产分割讨论的方向进一步具体化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Chey Tae-won y Roh So-young podrían verse en la corte por el reparto",
-        "excerpt": "Chey Tae-won, presidente de SK Group, y Roh So-young, directora de Art Center Nabi, podrían comparecer el día 15 del próximo mes en una segunda mediación sobre la división de bienes tras su divorcio.",
-        "body": "Chey Tae-won, presidente de SK Group, y Roh So-young, directora de Art Center Nabi, podrían encontrarse en la corte durante la segunda fecha de mediación prevista para el día 15 del próximo mes, con el fin de discutir la división de bienes después de que su divorcio quedara confirmado. La separación de ambos ha sido llamada el “divorcio del siglo”. Chey tiene 66 años y Roh 65. El procedimiento corresponde a una etapa de mediación para tratar los puntos pendientes sobre el reparto patrimonial tras la confirmación del divorcio. La atención se centra en si ambas partes se verán cara a cara en el tribunal. El resultado podría definir la dirección de las conversaciones sobre la división de bienes. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Chey Tae-won e Roh So-young podem se encarar em mediação patrimonial",
-        "excerpt": "Chey Tae-won, presidente do SK Group, e Roh So-young, diretora do Art Center Nabi, podem comparecer ao tribunal no dia 15 do próximo mês para a segunda mediação sobre divisão de bens após o divórcio.",
-        "body": "Chey Tae-won, presidente do SK Group, e Roh So-young, diretora do Art Center Nabi, podem se encontrar no tribunal na segunda data de mediação marcada para o dia 15 do próximo mês, a fim de discutir a divisão de bens depois da confirmação do divórcio. A separação dos dois tem sido chamada de “divórcio do século”. Chey tem 66 anos, e Roh tem 65. O procedimento atual é uma etapa de mediação para tratar das questões restantes sobre a partilha patrimonial após o divórcio confirmado. A atenção se volta para a possibilidade de as duas partes se encontrarem diretamente em juízo. O resultado da mediação poderá definir os próximos rumos da discussão sobre a divisão de bens. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Chey Tae-won und Roh So-young könnten bei Vermögensteilung vor Gericht stehen",
-        "excerpt": "SK-Group-Chef Chey Tae-won und Art-Center-Nabi-Direktorin Roh So-young könnten am 15. des kommenden Monats zu einer zweiten Mediation über die Vermögensteilung nach ihrer Scheidung vor Gericht erscheinen.",
-        "body": "SK-Group-Vorsitzender Chey Tae-won und Roh So-young, Direktorin des Art Center Nabi, könnten sich bei einem zweiten Mediationstermin am 15. des kommenden Monats vor Gericht begegnen, um nach der rechtskräftigen Scheidung über die Vermögensteilung zu sprechen. Die Scheidung der beiden wurde als sogenannte „Scheidung des Jahrhunderts“ bezeichnet. Chey ist 66 Jahre alt, Roh 65. Das Verfahren ist eine Mediationsphase, in der nach der bestätigten Scheidung offene Fragen zur Aufteilung des Vermögens behandelt werden. Im Mittelpunkt steht, ob beide Seiten im Gerichtssaal direkt aufeinandertreffen. Das Ergebnis der Mediation dürfte die weitere Richtung der Gespräche über die Vermögensteilung prägen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Chey Tae-won et Roh So-young pourraient se retrouver au tribunal pour le partage",
-        "excerpt": "Chey Tae-won, président de SK Group, et Roh So-young, directrice d’Art Center Nabi, pourraient comparaître le 15 du mois prochain lors d’une deuxième médiation sur le partage des biens après leur divorce.",
-        "body": "Chey Tae-won, président de SK Group, et Roh So-young, directrice d’Art Center Nabi, pourraient se retrouver au tribunal lors de la deuxième audience de médiation prévue le 15 du mois prochain afin de discuter du partage des biens après la confirmation de leur divorce. Leur séparation a été qualifiée de « divorce du siècle ». Chey a 66 ans et Roh 65 ans. Cette procédure correspond à une phase de médiation destinée à traiter les points encore en suspens concernant la répartition du patrimoine après le divorce définitif. L’attention porte sur la possibilité d’une confrontation directe au tribunal. Le résultat de la médiation pourrait préciser l’orientation des discussions sur le partage des biens. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تشوي تاي وون ورو سو يونغ قد يلتقيان في المحكمة بشأن تقسيم الممتلكات",
-        "excerpt": "قد يمثل رئيس مجموعة SK تشوي تاي وون ومديرة مركز آرت سنتر نابي رو سو يونغ أمام المحكمة في اليوم 15 من الشهر المقبل لجلسة وساطة ثانية حول تقسيم الممتلكات بعد تثبيت الطلاق.",
-        "body": "من المتوقع أن يلتقي رئيس مجموعة SK تشوي تاي وون ومديرة مركز آرت سنتر نابي رو سو يونغ في المحكمة خلال جلسة الوساطة الثانية المقررة في اليوم 15 من الشهر المقبل، لمناقشة تقسيم الممتلكات بعد تثبيت الطلاق. وقد وُصف طلاقهما بما يسمى «طلاق القرن». يبلغ تشوي 66 عاما، بينما تبلغ رو 65 عاما. وتمثل هذه الإجراءات مرحلة وساطة لمعالجة القضايا المتبقية المتعلقة بتقسيم الممتلكات بعد تأكيد الطلاق. وينصب الاهتمام على ما إذا كان الطرفان سيتواجهان مباشرة في قاعة المحكمة. ومن المتوقع أن يحدد مسار الوساطة اتجاه المناقشات اللاحقة بشأن تقسيم الممتلكات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चेय ताए-वोन और रो सो-यंग संपत्ति बंटवारे पर अदालत में आमने-सामने हो सकते हैं",
-        "excerpt": "SK Group के चेयरमैन चेय ताए-वोन और Art Center Nabi की निदेशक रो सो-यंग तलाक तय होने के बाद संपत्ति बंटवारे पर चर्चा के लिए अगले महीने की 15 तारीख को दूसरी मध्यस्थता में अदालत आ सकते हैं।",
-        "body": "SK Group के चेयरमैन चेय ताए-वोन और Art Center Nabi की निदेशक रो सो-यंग तलाक तय होने के बाद संपत्ति बंटवारे के मुद्दे पर चर्चा के लिए अगले महीने की 15 तारीख को निर्धारित दूसरी मध्यस्थता तिथि पर अदालत में आमने-सामने हो सकते हैं। दोनों का तलाक तथाकथित “सदी का तलाक” कहा जाता रहा है। चेय 66 वर्ष के हैं और रो 65 वर्ष की हैं। यह प्रक्रिया तलाक की पुष्टि के बाद बचे हुए संपत्ति विभाजन संबंधी मुद्दों को संभालने की मध्यस्थता अवस्था है। ध्यान इस बात पर है कि क्या दोनों पक्ष अदालत में सीधे मिलेंगे। मध्यस्थता का परिणाम संपत्ति बंटवारे पर आगे की चर्चा की दिशा तय कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Chey Tae-won dan Roh So-young Berpotensi Bertemu di Pengadilan soal Aset",
-        "excerpt": "Ketua SK Group Chey Tae-won dan Direktur Art Center Nabi Roh So-young berpotensi hadir di pengadilan pada tanggal 15 bulan depan untuk mediasi kedua terkait pembagian harta setelah perceraian mereka final.",
-        "body": "Ketua SK Group Chey Tae-won dan Direktur Art Center Nabi Roh So-young diperkirakan berpotensi bertemu di pengadilan pada jadwal mediasi kedua yang akan digelar tanggal 15 bulan depan untuk membahas pembagian harta setelah perceraian mereka final. Perceraian keduanya selama ini disebut sebagai “perceraian abad ini”. Chey berusia 66 tahun, sementara Roh berusia 65 tahun. Prosedur ini merupakan tahap mediasi untuk membahas isu pembagian harta yang tersisa setelah perceraian dipastikan. Perhatian tertuju pada apakah kedua pihak akan saling berhadapan langsung di ruang sidang. Hasil mediasi ke depan dapat memperjelas arah pembahasan pembagian harta. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e77736fdd56e",
-    "slug": "인천공항-주차-왜-맨날-힘든가봤더니공사-직원들에게-주차권-과다-발급-929731",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T20:58:35.759Z",
-    "updatedAt": "2026-05-14T20:58:35.759Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12048043",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12048043",
-    "titleFingerprint": "d45d998dad38f11bd56115a69711944fae83644a",
-    "dedupKeys": [
-      "e77736fdd56ea219c9d13d2e39b09f629483f86e",
-      "d45d998dad38f11bd56115a69711944fae83644a",
-      "e03fae28c127eff6dcdb94cc7e37f0809ccc59fd"
-    ],
-    "imageUrl": "/images/articles/e77736fdd56e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천공항 주차난 키운 업무용 주차권 과다 발급 논란",
-        "excerpt": "인천국제공항공사가 업무용 정기주차권을 한도 없이 발급하고 일부 직원이 휴가·식사 등 개인 용도로 사용한 사실이 적발돼 공항 주차난을 가중했다는 지적이 나왔다.",
-        "body": "인천국제공항공사가 업무용 정기주차권을 과다하게 발급해 인천공항 주차난을 키웠다는 지적이 나왔다. 원문에 따르면 일부 공사 직원들은 발급받은 주차권을 휴가나 식사 등 개인 용도로 사용한 것으로 적발됐다. 국토교통부는 공사가 주차권을 무분별하게 남발했다고 봤다. 특히 별도 발급 한도가 없어 직원이 신청만 하면 업무용 정기주차권이 발급되는 구조였다는 점이 문제로 지목됐다. 공항 이용객이 체감하는 주차 불편이 이어지는 가운데, 내부 직원용 주차권 관리가 부실했다는 비판이 커질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Incheon Airport Parking Crunch Linked to Excess Staff Parking Passes",
-        "excerpt": "Incheon International Airport Corp. is under scrutiny after issuing work parking passes without limits, with some staff caught using them for personal purposes such as vacations and meals.",
-        "body": "Incheon International Airport Corp. has been criticized for worsening parking difficulties at Incheon Airport by issuing too many work-related regular parking passes. According to the original report, some employees were found to have used the passes for personal purposes, including vacations and meals. The Ministry of Land, Infrastructure and Transport said the corporation had issued parking passes indiscriminately. A key issue was that there was no separate issuance limit, meaning employees could receive a work parking pass simply by applying. As airport users continue to experience parking inconvenience, criticism may grow over weak management of staff parking privileges. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "仁川空港の駐車難、職員向け駐車券の過剰発給が問題に",
-        "excerpt": "仁川国際空港公社が業務用定期駐車券を上限なく発給し、一部職員が休暇や食事など私的目的で使っていたことが発覚し、駐車難を悪化させたとの指摘が出ている。",
-        "body": "仁川国際空港公社が業務用の定期駐車券を過剰に発給し、仁川空港の駐車難を悪化させたとの指摘が出た。原文によると、一部の公社職員は発給された駐車券を休暇や食事など私的用途に使っていたことが摘発された。国土交通部は、公社が駐車券を無分別に乱発したとみている。特に、別途の発給上限がなく、職員が申請すれば業務用定期駐車券が発給される仕組みだった点が問題視された。空港利用者の駐車不便が続くなか、職員向け駐車券管理の不備への批判が強まる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "仁川机场停车难背后：员工公务停车证被过量发放",
-        "excerpt": "仁川国际机场公社被指无限额发放公务长期停车证，部分员工还将其用于休假、用餐等私人用途，加重机场停车难。",
-        "body": "仁川国际机场公社因过量发放公务用长期停车证，被指加剧了仁川机场停车难。根据原文报道，部分公社员工被查出将获发的停车证用于休假、用餐等私人用途。韩国国土交通部认为，公社无节制地滥发了停车证。尤其受到质疑的是，相关发放没有单独限额，员工只要申请就可获得公务用长期停车证。在机场旅客持续感受到停车不便的情况下，员工停车证管理不善可能引发更多批评。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La crisis de aparcamiento en Incheon apunta a pases excesivos para empleados",
-        "excerpt": "Incheon International Airport Corp. enfrenta críticas por emitir pases de aparcamiento laboral sin límite, mientras algunos empleados los usaron para fines personales como vacaciones y comidas.",
-        "body": "Incheon International Airport Corp. fue señalada por agravar la falta de aparcamiento en el aeropuerto de Incheon al emitir en exceso pases regulares de estacionamiento para uso laboral. Según el informe original, algunos empleados de la corporación fueron detectados usando esos pases para fines personales, como vacaciones y comidas. El Ministerio de Tierra, Infraestructura y Transporte afirmó que la entidad emitió los pases de forma indiscriminada. El punto clave es que no existía un límite separado de emisión, por lo que bastaba con que un empleado los solicitara para recibirlos. Mientras continúan las molestias para los usuarios del aeropuerto, podría aumentar la crítica por la débil gestión de estos pases. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Estacionamento lotado em Incheon expõe excesso de passes para funcionários",
-        "excerpt": "A Incheon International Airport Corp. é criticada por emitir passes regulares de estacionamento de trabalho sem limite, com funcionários flagrados usando-os para férias e refeições.",
-        "body": "A Incheon International Airport Corp. foi criticada por agravar a dificuldade de estacionamento no Aeroporto de Incheon ao emitir passes regulares de estacionamento de trabalho em excesso. Segundo o relatório original, alguns funcionários da corporação foram flagrados usando os passes para fins pessoais, como férias e refeições. O Ministério da Terra, Infraestrutura e Transporte afirmou que a empresa emitiu os passes de forma indiscriminada. O principal problema apontado foi a ausência de um limite específico de emissão, permitindo que funcionários recebessem o passe apenas mediante solicitação. Com usuários do aeroporto ainda enfrentando inconvenientes para estacionar, a gestão dos passes de funcionários pode receber mais críticas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Parknot am Flughafen Incheon: Zu viele Mitarbeiter-Parktickets im Fokus",
-        "excerpt": "Die Incheon International Airport Corp. soll unbegrenzt dienstliche Dauerparkausweise ausgegeben haben; einige Beschäftigte nutzten sie für private Zwecke wie Urlaub und Mahlzeiten.",
-        "body": "Die Incheon International Airport Corp. steht in der Kritik, die Parkplatzprobleme am Flughafen Incheon durch eine übermäßige Ausgabe dienstlicher Dauerparkausweise verschärft zu haben. Dem ursprünglichen Bericht zufolge wurden einige Beschäftigte dabei ertappt, die Ausweise für private Zwecke wie Urlaub oder Mahlzeiten zu nutzen. Das Ministerium für Land, Infrastruktur und Verkehr erklärte, das Unternehmen habe Parkausweise wahllos ausgegeben. Besonders problematisch war, dass es keine separate Obergrenze gab und Beschäftigte einen dienstlichen Dauerparkausweis allein durch Antrag erhalten konnten. Da Fluggäste weiterhin Parkprobleme erleben, dürfte die Kritik am schwachen Management der Mitarbeiterparkausweise zunehmen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Stationnement à Incheon: trop de laissez-passer délivrés aux employés",
-        "excerpt": "Incheon International Airport Corp. est critiquée pour avoir délivré sans limite des abonnements de stationnement professionnel, certains employés les utilisant pour des vacances ou des repas.",
-        "body": "Incheon International Airport Corp. est mise en cause pour avoir aggravé les difficultés de stationnement à l’aéroport d’Incheon en délivrant trop d’abonnements réguliers de stationnement à usage professionnel. Selon l’article d’origine, certains employés ont été pris à utiliser ces laissez-passer à des fins personnelles, notamment pour des vacances ou des repas. Le ministère du Territoire, des Infrastructures et des Transports a estimé que la société avait distribué ces titres sans discernement. Le problème principal tient à l’absence de plafond distinct: un employé pouvait en recevoir un simplement en le demandant. Alors que les usagers de l’aéroport subissent toujours ces désagréments, la gestion des titres réservés au personnel pourrait susciter davantage de critiques. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أزمة مواقف مطار إنتشون تتفاقم بسبب إفراط في تصاريح الموظفين",
-        "excerpt": "تواجه شركة مطار إنتشون الدولي انتقادات بعد إصدار تصاريح وقوف دورية للعمل بلا حد، مع ضبط بعض الموظفين يستخدمونها لأغراض شخصية مثل الإجازات والوجبات.",
-        "body": "تعرضت شركة مطار إنتشون الدولي لانتقادات لأنها زادت صعوبة العثور على مواقف في المطار عبر إصدار عدد مفرط من تصاريح الوقوف الدورية المخصصة للعمل. ووفق التقرير الأصلي، تم ضبط بعض موظفي الشركة وهم يستخدمون التصاريح لأغراض شخصية، منها الإجازات وتناول الوجبات. وقالت وزارة الأراضي والبنية التحتية والنقل إن الشركة أصدرت تصاريح الوقوف بلا تمييز. وتمثلت المشكلة الرئيسية في عدم وجود حد منفصل للإصدار، إذ كان الموظف يحصل على تصريح وقوف دوري للعمل بمجرد تقديم طلب. ومع استمرار معاناة مستخدمي المطار من صعوبات الوقوف، قد تتزايد الانتقادات بشأن ضعف إدارة تصاريح مواقف الموظفين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "इंचियोन एयरपोर्ट की पार्किंग मुश्किल में कर्मचारियों के अतिरिक्त पास का मुद्दा",
-        "excerpt": "इंचियोन इंटरनेशनल एयरपोर्ट कॉर्प. पर बिना सीमा कार्य पार्किंग पास जारी करने का आरोप है; कुछ कर्मचारियों ने इन्हें छुट्टी और भोजन जैसे निजी कामों में इस्तेमाल किया।",
-        "body": "इंचियोन इंटरनेशनल एयरपोर्ट कॉर्प. पर आरोप है कि उसने कार्य उपयोग के नियमित पार्किंग पास अत्यधिक जारी कर इंचियोन एयरपोर्ट की पार्किंग समस्या बढ़ाई। मूल रिपोर्ट के अनुसार, कुछ कर्मचारियों को जारी किए गए पास छुट्टी और भोजन जैसे निजी उद्देश्यों के लिए इस्तेमाल करते पाया गया। भूमि, अवसंरचना और परिवहन मंत्रालय ने कहा कि कॉर्पोरेशन ने पार्किंग पास अंधाधुंध जारी किए। मुख्य समस्या यह बताई गई कि इनके जारी करने की कोई अलग सीमा नहीं थी, इसलिए कर्मचारी केवल आवेदन करके कार्य उपयोग का नियमित पार्किंग पास प्राप्त कर सकते थे। एयरपोर्ट उपयोगकर्ताओं को पार्किंग असुविधा जारी रहने के बीच, कर्मचारियों के पार्किंग पास प्रबंधन पर आलोचना बढ़ सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Parkir Incheon Makin Sulit, Kelebihan Kartu Parkir Pegawai Disorot",
-        "excerpt": "Incheon International Airport Corp. dikritik karena menerbitkan kartu parkir dinas tanpa batas, sementara sebagian pegawai ketahuan memakainya untuk liburan dan makan pribadi.",
-        "body": "Incheon International Airport Corp. dinilai memperparah kesulitan parkir di Bandara Incheon karena menerbitkan terlalu banyak kartu parkir reguler untuk keperluan dinas. Menurut laporan asli, sebagian pegawai perusahaan kedapatan menggunakan kartu parkir tersebut untuk kepentingan pribadi, seperti liburan dan makan. Kementerian Pertanahan, Infrastruktur, dan Transportasi menyebut perusahaan menerbitkan kartu parkir secara sembarangan. Masalah utama yang disorot adalah tidak adanya batas penerbitan terpisah, sehingga pegawai cukup mengajukan permohonan untuk mendapat kartu parkir dinas. Ketika pengguna bandara masih merasakan ketidaknyamanan parkir, kritik terhadap lemahnya pengelolaan kartu parkir pegawai dapat meningkat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4aeda4161c4e",
-    "slug": "미중-긴장-완화-ai랠리에-美증시-일제히-상승월가월부-545128",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T20:57:37.836Z",
-    "updatedAt": "2026-05-14T20:57:37.836Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12048582",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12048582",
-    "titleFingerprint": "dc59e3df9d5749ffc75def992efbc5b88e009413",
-    "dedupKeys": [
-      "4aeda4161c4eb1cabab53af93d88f39a9aebca04",
-      "dc59e3df9d5749ffc75def992efbc5b88e009413",
-      "530ef4ad80e31ecd430ba839de9c0412899559d2"
-    ],
-    "imageUrl": "/images/articles/4aeda4161c4e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미중 긴장 완화와 AI랠리 겹치며 S&P500·나스닥 최고치 경신",
-        "excerpt": "미중 정상회담에서 트럼프 대통령과 시진핑 주석이 호르무즈 해협 개방에 공감한 가운데 AI랠리까지 이어지며 S&P500과 나스닥이 최고치를 기록하고 다우도 3개월 만에 5만선을 회복했다.",
-        "body": "미국 증시가 미중 긴장 완화 기대와 AI랠리에 힘입어 일제히 상승했다. 미중 정상회담에서 도널드 트럼프 대통령과 시진핑 중국 국가주석이 호르무즈 해협 개방에 뜻을 모으면서 미중 관계와 중동 지역을 둘러싼 긴장감이 낮아졌다는 점이 투자심리에 반영됐다. 주요 지수도 강세를 보였다. S&P500과 나스닥은 최고치를 기록했고, 다우지수는 3개월 만에 5만선을 탈환했다. 시장은 지정학적 불확실성 완화와 AI 관련 랠리가 동시에 작용한 흐름으로 받아들였다. 다만 기사에 제시된 내용은 정상 간 공감과 지수 흐름에 초점이 맞춰져 있어 향후 구체적 조치와 시장 반응은 추가 확인이 필요하다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "US Stocks Rise as US-China Tensions Ease and AI Rally Lifts Indexes",
-        "excerpt": "After Trump and Xi agreed on opening the Strait of Hormuz at a US-China summit, easing geopolitical tension and the AI rally helped push the S&P 500 and Nasdaq to records while the Dow reclaimed 50,000.",
-        "body": "US stocks rose across the board as expectations for easing US-China tensions combined with an AI-driven rally. At the US-China summit, President Donald Trump and Chinese President Xi Jinping shared support for keeping the Strait of Hormuz open, a development that eased concerns around both US-China relations and tensions in the Middle East. Major indexes strengthened in response. The S&P 500 and Nasdaq reached record highs, while the Dow recovered the 50,000 level for the first time in three months. Investors viewed the move as the result of reduced geopolitical uncertainty and continued momentum in AI-related shares. The original report focuses on the leaders’ shared position and the index moves, so any concrete follow-up measures or further market reaction require additional confirmation. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "米中緊張緩和とAIラリーで米国株上昇、S&P500とナスダック最高値",
-        "excerpt": "米中首脳会談でトランプ大統領と習近平国家主席がホルムズ海峡の開放で一致し、AIラリーも重なってS&P500とナスダックが最高値、ダウは3カ月ぶりに5万を回復した。",
-        "body": "米国株式市場は、米中緊張の緩和期待とAIラリーを背景にそろって上昇した。米中首脳会談でドナルド・トランプ大統領と中国の習近平国家主席がホルムズ海峡の開放に意を同じくしたことで、米中関係と中東地域をめぐる緊張感が和らいだとの見方が投資心理に反映された。主要指数も強い動きとなった。S&P500とナスダックは最高値を記録し、ダウ平均は3カ月ぶりに5万台を回復した。市場は、地政学的不確実性の後退とAI関連の上昇が同時に作用した流れとして受け止めた。ただし、記事で示された内容は首脳間の共感と指数の動きが中心であり、今後の具体策や市場反応は追加確認が必要だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "美中紧张缓和叠加AI行情，美股齐涨标普纳指创新高",
-        "excerpt": "在美中峰会上，特朗普与习近平就开放霍尔木兹海峡形成共识，叠加AI行情延续，标普500和纳斯达克创下新高，道指也在三个月后重回5万点。",
-        "body": "美国股市在美中紧张缓和预期和AI行情推动下全面上涨。美中峰会上，美国总统唐纳德·特朗普和中国国家主席习近平就开放霍尔木兹海峡表达一致立场，使市场认为美中关系及中东地区相关紧张有所下降，并反映在投资情绪中。主要股指同步走强。标普500指数和纳斯达克指数创下最高纪录，道琼斯指数则时隔三个月重新站上5万点。市场将这一走势理解为地缘政治不确定性缓解与AI相关上涨行情共同作用的结果。不过，原报道重点在于两国领导人的共识和股指表现，后续具体措施及市场反应仍需进一步确认。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Wall Street sube por menor tensión entre EE.UU. y China y rally de IA",
-        "excerpt": "Tras la cumbre entre Trump y Xi, ambos coincidieron en abrir el estrecho de Ormuz; junto con el rally de IA, el S&P 500 y el Nasdaq marcaron máximos y el Dow recuperó los 50.000 puntos.",
-        "body": "Las bolsas estadounidenses subieron de forma generalizada gracias a las expectativas de menor tensión entre Estados Unidos y China y al rally vinculado a la inteligencia artificial. En la cumbre bilateral, el presidente Donald Trump y el presidente chino Xi Jinping coincidieron en la apertura del estrecho de Ormuz, lo que redujo la percepción de tensión en torno a la relación entre ambos países y la región de Oriente Medio. Los principales índices reflejaron ese impulso. El S&P 500 y el Nasdaq alcanzaron máximos históricos, mientras que el Dow recuperó el nivel de 50.000 puntos por primera vez en tres meses. El mercado interpretó el movimiento como una combinación de menor incertidumbre geopolítica y fortaleza de los valores relacionados con IA. El reporte original se centra en el consenso entre los líderes y en los índices, por lo que las medidas concretas y futuras reacciones del mercado requieren confirmación adicional. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Bolsas dos EUA sobem com alívio EUA-China e rali de IA nos índices",
-        "excerpt": "Na cúpula entre Trump e Xi, os líderes concordaram sobre a abertura do estreito de Ormuz; com o rali de IA, S&P 500 e Nasdaq renovaram máximas e o Dow voltou aos 50 mil pontos.",
-        "body": "As bolsas dos Estados Unidos subiram em bloco, impulsionadas pela expectativa de alívio nas tensões entre EUA e China e pelo rali ligado à inteligência artificial. Na cúpula bilateral, o presidente Donald Trump e o presidente chinês Xi Jinping concordaram com a abertura do estreito de Ormuz, sinal que reduziu a percepção de tensão nas relações entre os dois países e no Oriente Médio. Os principais índices responderam com força. O S&P 500 e o Nasdaq atingiram recordes, enquanto o Dow recuperou o patamar de 50 mil pontos pela primeira vez em três meses. O mercado interpretou o movimento como resultado da menor incerteza geopolítica combinada ao avanço de ações relacionadas à IA. A reportagem original destaca o consenso entre os líderes e o desempenho dos índices; medidas concretas e novas reações do mercado ainda precisam de confirmação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "US-Börsen steigen dank Entspannung zwischen USA und China und KI-Rally",
-        "excerpt": "Beim US-chinesischen Gipfel verständigten sich Trump und Xi auf die Offenhaltung der Straße von Hormus; zusammen mit der KI-Rally erreichten S&P 500 und Nasdaq Rekorde, der Dow eroberte 50.000 zurück.",
-        "body": "Die US-Aktienmärkte legten geschlossen zu, gestützt von Hoffnungen auf eine Entspannung zwischen den USA und China sowie einer anhaltenden KI-Rally. Beim Gipfel zwischen beiden Ländern signalisierten Präsident Donald Trump und Chinas Staatschef Xi Jinping Einigkeit über die Öffnung der Straße von Hormus. Dadurch nahm die wahrgenommene Spannung rund um die bilateralen Beziehungen und den Nahen Osten ab, was sich in der Anlegerstimmung niederschlug. Auch die wichtigsten Indizes zeigten Stärke. S&P 500 und Nasdaq erreichten neue Höchststände, während der Dow erstmals seit drei Monaten wieder die Marke von 50.000 Punkten überschritt. Der Markt wertete die Bewegung als Zusammenspiel aus geringerer geopolitischer Unsicherheit und anhaltendem Auftrieb bei KI-Werten. Der Originalbericht konzentriert sich auf die gemeinsame Haltung der Staatschefs und die Indexentwicklung; konkrete Folgemaßnahmen und weitere Marktreaktionen müssen noch bestätigt werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Wall Street monte avec l’apaisement USA-Chine et le rallye de l’IA",
-        "excerpt": "Lors du sommet entre Trump et Xi, les deux dirigeants ont soutenu l’ouverture du détroit d’Ormuz; avec le rallye de l’IA, le S&P 500 et le Nasdaq ont atteint des records, tandis que le Dow a repris 50.000 points.",
-        "body": "Les marchés actions américains ont progressé dans leur ensemble, portés par l’espoir d’un apaisement des tensions entre les États-Unis et la Chine et par le rallye lié à l’intelligence artificielle. Lors du sommet bilatéral, le président Donald Trump et le président chinois Xi Jinping ont exprimé une position commune en faveur de l’ouverture du détroit d’Ormuz, ce qui a réduit la perception de tension autour des relations sino-américaines et du Moyen-Orient. Les grands indices ont fortement réagi. Le S&P 500 et le Nasdaq ont inscrit des records, tandis que le Dow Jones a retrouvé le seuil des 50.000 points pour la première fois en trois mois. Le marché a interprété cette hausse comme l’effet combiné d’une moindre incertitude géopolitique et de la vigueur des valeurs liées à l’IA. Le rapport original porte surtout sur l’accord de principe entre les dirigeants et les mouvements d’indices; les mesures concrètes et les réactions futures restent à confirmer. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "وول ستريت ترتفع مع تراجع توتر واشنطن وبكين وصعود أسهم الذكاء الاصطناعي",
-        "excerpt": "بعد توافق ترامب وشي في القمة الأميركية الصينية على فتح مضيق هرمز، تراجعت المخاوف الجيوسياسية ودعم صعود الذكاء الاصطناعي مؤشري S&P 500 وناسداك إلى قمم جديدة، فيما عاد داو إلى 50 ألف نقطة.",
-        "body": "ارتفعت الأسهم الأميركية على نطاق واسع بدعم من توقعات تخفيف التوتر بين الولايات المتحدة والصين واستمرار موجة الصعود المرتبطة بالذكاء الاصطناعي. في القمة الأميركية الصينية، أبدى الرئيس دونالد ترامب والرئيس الصيني شي جين بينغ توافقا بشأن فتح مضيق هرمز، وهو ما انعكس على معنويات المستثمرين باعتباره عاملا يخفف التوتر حول العلاقات بين البلدين ومنطقة الشرق الأوسط. كما سجلت المؤشرات الرئيسية أداء قويا. بلغ مؤشرا S&P 500 وناسداك مستويات قياسية، بينما استعاد مؤشر داو جونز مستوى 50 ألف نقطة للمرة الأولى منذ ثلاثة أشهر. وقرأ السوق هذه الحركة بوصفها نتيجة لاجتماع تراجع عدم اليقين الجيوسياسي مع استمرار الزخم في أسهم الذكاء الاصطناعي. يركز التقرير الأصلي على توافق الزعيمين وحركة المؤشرات، لذلك تبقى الإجراءات اللاحقة وردود فعل السوق بحاجة إلى تأكيد إضافي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अमेरिकी शेयरों में तेजी, अमेरिका-चीन तनाव घटने और AI रैली का असर",
-        "excerpt": "अमेरिका-चीन शिखर बैठक में ट्रंप और शी ने होर्मुज जलडमरूमध्य खोलने पर सहमति जताई; AI रैली के साथ S&P 500 और नैस्डैक रिकॉर्ड पर पहुंचे और डाउ तीन महीने बाद 50,000 पर लौटा।",
-        "body": "अमेरिकी शेयर बाजार अमेरिका-चीन तनाव कम होने की उम्मीद और AI से जुड़ी रैली के सहारे व्यापक रूप से चढ़े। अमेरिका-चीन शिखर बैठक में राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग ने होर्मुज जलडमरूमध्य को खुला रखने पर सहमति दिखाई, जिससे अमेरिका-चीन संबंधों और मध्य पूर्व क्षेत्र से जुड़ी तनाव की धारणा कम हुई और यह निवेशकों की भावना में दिखा। प्रमुख सूचकांकों ने भी मजबूती दिखाई। S&P 500 और नैस्डैक ने रिकॉर्ड ऊंचाई दर्ज की, जबकि डाउ सूचकांक तीन महीने बाद 50,000 के स्तर पर वापस आया। बाजार ने इस तेजी को भू-राजनीतिक अनिश्चितता में कमी और AI संबंधित शेयरों की रफ्तार के संयुक्त असर के रूप में देखा। मूल रिपोर्ट का केंद्र नेताओं की सहमति और सूचकांकों की चाल है; आगे की ठोस कार्रवाइयों और बाजार प्रतिक्रिया की अतिरिक्त पुष्टि जरूरी है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Bursa AS naik saat tensi AS-China mereda dan reli AI dorong indeks",
-        "excerpt": "Dalam KTT AS-China, Trump dan Xi sepakat soal pembukaan Selat Hormuz; bersama reli AI, S&P 500 dan Nasdaq mencetak rekor, sementara Dow kembali menembus 50.000 setelah tiga bulan.",
-        "body": "Bursa saham Amerika Serikat menguat serentak karena harapan meredanya ketegangan AS-China dan reli yang terkait kecerdasan buatan. Dalam KTT AS-China, Presiden Donald Trump dan Presiden China Xi Jinping menyatakan kesamaan pandangan mengenai pembukaan Selat Hormuz, sehingga ketegangan seputar hubungan kedua negara dan kawasan Timur Tengah dinilai berkurang dan tercermin pada sentimen investor. Indeks utama juga bergerak kuat. S&P 500 dan Nasdaq mencatat rekor tertinggi, sementara Dow merebut kembali level 50.000 untuk pertama kalinya dalam tiga bulan. Pasar memandang kenaikan ini sebagai hasil gabungan dari berkurangnya ketidakpastian geopolitik dan momentum saham terkait AI. Laporan asli berfokus pada kesepahaman kedua pemimpin dan pergerakan indeks, sehingga langkah konkret berikutnya serta reaksi pasar lanjutan masih perlu dikonfirmasi. Sumber: mk.co.kr"
       }
     }
   }
