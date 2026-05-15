@@ -1,0 +1,75 @@
+{
+  "id": "40a516ded2b4",
+  "slug": "개인정보-유출-1년새-46-급증10건-중-6건은-해킹-794234",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-05-15T06:56:14.958Z",
+  "updatedAt": "2026-05-15T06:56:14.958Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/it/12049197",
+  "canonicalUrl": "https://www.mk.co.kr/news/it/12049197",
+  "titleFingerprint": "9b7e360558545b82775127938af8c430d7a62655",
+  "dedupKeys": [
+    "40a516ded2b4f096be0586906e3092d5e058bc42",
+    "9b7e360558545b82775127938af8c430d7a62655",
+    "01bfb773016672dc8769bbcf70f2317888b4c0ea"
+  ],
+  "imageUrl": "/images/articles/40a516ded2b4.png",
+  "i18n": {
+    "ko": {
+      "title": "개인정보 유출 신고 46% 급증, 10건 중 6건은 해킹이 원인",
+      "excerpt": "개인정보보호위원회가 공개한 조사·처분 사례에 따르면 지난해 개인정보 유출 신고가 1년 새 46% 늘었고, 10건 중 6건은 해킹으로 발생했다.",
+      "body": "지난해 개인정보 유출 신고 건수가 전년보다 46% 급증한 것으로 나타났다. 개인정보보호위원회가 공개한 조사·처분 사례에 따르면 유출 사례 10건 중 6건은 해킹이 원인이었다. 개인정보위가 부과한 과징금 총액은 1677억원에 육박했다. 공개된 사례는 기업과 기관이 개인정보를 상시적으로 관리하고 침해 사고에 대응할 체계를 강화해야 한다는 점을 보여준다. 유출 신고 증가와 해킹 비중 확대는 보안 관리의 중요성을 다시 부각시키고 있다. 출처는 mk.co.kr이다."
+    },
+    "en": {
+      "title": "Personal Data Breach Reports Jump 46%, Hacking Behind 6 in 10 Cases",
+      "excerpt": "According to cases released by South Korea’s Personal Information Protection Commission, breach reports rose 46% last year, with hacking causing six in ten incidents.",
+      "body": "Personal data breach reports increased 46% last year from a year earlier. According to investigation and sanction cases disclosed by the Personal Information Protection Commission, hacking was the cause in six out of ten breach cases. The total amount of administrative fines imposed by the commission approached 167.7 billion won. The disclosed cases show that companies and institutions need to strengthen systems for constant personal data management and incident response. The rise in reports and the high share of hacking again highlight the importance of security management. Source: mk.co.kr."
+    },
+    "ja": {
+      "title": "個人情報流出の申告が46％急増、10件中6件はハッキング原因",
+      "excerpt": "個人情報保護委員会が公開した調査・処分事例によると、昨年の個人情報流出申告は前年比46％増え、10件中6件がハッキングだった。",
+      "body": "昨年、個人情報流出の申告件数が前年より46％急増したことが分かった。個人情報保護委員会が公開した調査・処分事例によると、流出事例10件のうち6件はハッキングが原因だった。個人情報保護委員会が科した課徴金の総額は1677億ウォンに迫った。公開事例は、企業や機関が個人情報を常時管理し、侵害事故に対応する体制を強化する必要性を示している。申告増加とハッキング比率の高さは、セキュリティ管理の重要性を改めて浮き彫りにした。出典はmk.co.kr。"
+    },
+    "zh": {
+      "title": "个人信息泄露申报激增46%，十起中六起源于黑客攻击",
+      "excerpt": "韩国个人信息保护委员会公开的调查和处分案例显示，去年个人信息泄露申报同比增加46%，十起中六起由黑客攻击造成。",
+      "body": "去年个人信息泄露申报数量较一年前激增46%。韩国个人信息保护委员会公开的调查和处分案例显示，在泄露案例中，每十起有六起是由黑客攻击造成。该委员会开出的罚款总额接近1677亿韩元。公开案例表明，企业和机构需要加强个人信息的日常管理以及应对侵害事故的体系。申报数量增加和黑客攻击占比偏高，再次凸显了安全管理的重要性。消息来源为mk.co.kr。"
+    },
+    "es": {
+      "title": "Las filtraciones de datos personales suben 46%; el hackeo causa 6 de cada 10",
+      "excerpt": "Según casos publicados por la Comisión de Protección de Información Personal, las denuncias de filtraciones crecieron 46% el año pasado y seis de cada diez se debieron a hackeos.",
+      "body": "Las denuncias por filtración de datos personales aumentaron un 46% el año pasado frente al año anterior. Según los casos de investigación y sanción divulgados por la Comisión de Protección de Información Personal, el hackeo fue la causa en seis de cada diez filtraciones. El monto total de las multas impuestas por la comisión se acercó a 167.700 millones de wones. Los casos publicados muestran que empresas e instituciones deben reforzar la gestión permanente de datos personales y sus sistemas de respuesta ante incidentes. El aumento de denuncias y el peso de los hackeos vuelven a destacar la importancia de la seguridad. Fuente: mk.co.kr."
+    },
+    "pt": {
+      "title": "Vazamentos de dados pessoais sobem 46%; hackers causam 6 em cada 10 casos",
+      "excerpt": "Segundo casos divulgados pela Comissão de Proteção de Informações Pessoais, notificações de vazamento cresceram 46% no ano passado, com hackers em seis de cada dez casos.",
+      "body": "As notificações de vazamento de dados pessoais aumentaram 46% no ano passado em relação ao ano anterior. Segundo casos de investigação e punição divulgados pela Comissão de Proteção de Informações Pessoais, ataques de hackers foram a causa em seis de cada dez vazamentos. O total de multas aplicadas pela comissão se aproximou de 167,7 bilhões de wones. Os casos divulgados mostram que empresas e instituições precisam reforçar a gestão permanente de dados pessoais e os sistemas de resposta a incidentes. O avanço das notificações e a alta proporção de hackers ressaltam novamente a importância da segurança. Fonte: mk.co.kr."
+    },
+    "de": {
+      "title": "Meldungen zu Datendiebstahl steigen um 46%, Hacking bei 6 von 10 Fällen",
+      "excerpt": "Laut veröffentlichten Untersuchungs- und Sanktionsfällen der Datenschutzkommission stiegen die Meldungen zu Datenlecks im vergangenen Jahr um 46%; sechs von zehn Fällen gingen auf Hacking zurück.",
+      "body": "Die Zahl der gemeldeten Lecks personenbezogener Daten ist im vergangenen Jahr gegenüber dem Vorjahr um 46% gestiegen. Nach von der Datenschutzkommission veröffentlichten Untersuchungs- und Sanktionsfällen war Hacking in sechs von zehn Fällen die Ursache. Die von der Kommission verhängten Bußgelder beliefen sich insgesamt auf nahezu 167,7 Milliarden Won. Die veröffentlichten Fälle zeigen, dass Unternehmen und Institutionen ihre dauerhafte Verwaltung personenbezogener Daten und ihre Reaktionssysteme bei Sicherheitsvorfällen stärken müssen. Der Anstieg der Meldungen und der hohe Hacking-Anteil unterstreichen erneut die Bedeutung des Sicherheitsmanagements. Quelle: mk.co.kr."
+    },
+    "fr": {
+      "title": "Fuites de données personnelles en hausse de 46%, le piratage cause 6 cas sur 10",
+      "excerpt": "Selon les cas publiés par la Commission de protection des informations personnelles, les signalements de fuites ont augmenté de 46% l’an dernier, six cas sur dix étant dus au piratage.",
+      "body": "Les signalements de fuites de données personnelles ont augmenté de 46% l’an dernier par rapport à l’année précédente. Selon les cas d’enquête et de sanction publiés par la Commission de protection des informations personnelles, le piratage était à l’origine de six fuites sur dix. Le montant total des amendes imposées par la commission a approché 167,7 milliards de wons. Ces cas montrent que les entreprises et institutions doivent renforcer la gestion permanente des données personnelles et les dispositifs de réponse aux incidents. La hausse des signalements et la forte part du piratage rappellent l’importance de la sécurité. Source: mk.co.kr."
+    },
+    "ar": {
+      "title": "بلاغات تسرب البيانات الشخصية تقفز 46% والاختراق وراء 6 من كل 10 حالات",
+      "excerpt": "وفق حالات التحقيق والعقوبات التي نشرتها لجنة حماية المعلومات الشخصية، زادت بلاغات تسرب البيانات 46% العام الماضي، وكان الاختراق سبب ست من كل عشر حالات.",
+      "body": "ارتفع عدد بلاغات تسرب البيانات الشخصية في العام الماضي بنسبة 46% مقارنة بالعام السابق. ووفق حالات التحقيق والعقوبات التي كشفتها لجنة حماية المعلومات الشخصية، كان الاختراق الإلكتروني سبب ست حالات من كل عشر حالات تسرب. واقترب إجمالي الغرامات التي فرضتها اللجنة من 1677 مليار وون. وتظهر الحالات المنشورة أن على الشركات والمؤسسات تعزيز الإدارة الدائمة للبيانات الشخصية وأنظمة الاستجابة لحوادث الانتهاك. كما يبرز تزايد البلاغات وارتفاع حصة الاختراق أهمية إدارة الأمن من جديد. المصدر: mk.co.kr."
+    },
+    "hi": {
+      "title": "व्यक्तिगत डेटा लीक रिपोर्ट 46% बढ़ीं, 10 में 6 मामलों की वजह हैकिंग",
+      "excerpt": "व्यक्तिगत सूचना संरक्षण आयोग के जांच और दंड मामलों के अनुसार, पिछले साल डेटा लीक रिपोर्ट 46% बढ़ीं और दस में छह घटनाएं हैकिंग से जुड़ी रहीं।",
+      "body": "पिछले साल व्यक्तिगत डेटा लीक की रिपोर्टों की संख्या एक साल पहले की तुलना में 46% तेजी से बढ़ी। व्यक्तिगत सूचना संरक्षण आयोग द्वारा जारी जांच और दंड मामलों के अनुसार, लीक के दस में छह मामलों की वजह हैकिंग थी। आयोग द्वारा लगाए गए जुर्माने की कुल राशि 1677 अरब वॉन के करीब पहुंची। प्रकाशित मामलों से पता चलता है कि कंपनियों और संस्थानों को व्यक्तिगत जानकारी के निरंतर प्रबंधन और उल्लंघन की घटनाओं पर प्रतिक्रिया देने की व्यवस्था मजबूत करनी चाहिए। रिपोर्टों में वृद्धि और हैकिंग की बड़ी हिस्सेदारी सुरक्षा प्रबंधन के महत्व को फिर रेखांकित करती है। स्रोत: mk.co.kr."
+    },
+    "id": {
+      "title": "Laporan Kebocoran Data Pribadi Naik 46%, Peretasan Picu 6 dari 10 Kasus",
+      "excerpt": "Menurut kasus investigasi dan sanksi yang dirilis Komisi Perlindungan Informasi Pribadi, laporan kebocoran data naik 46% tahun lalu dan enam dari sepuluh kasus disebabkan peretasan.",
+      "body": "Jumlah laporan kebocoran data pribadi tahun lalu meningkat 46% dibandingkan setahun sebelumnya. Menurut kasus investigasi dan sanksi yang diungkap Komisi Perlindungan Informasi Pribadi, peretasan menjadi penyebab dalam enam dari sepuluh kasus kebocoran. Total denda yang dijatuhkan komisi mendekati 167,7 miliar won. Kasus yang dipublikasikan menunjukkan bahwa perusahaan dan lembaga perlu memperkuat pengelolaan data pribadi secara berkelanjutan serta sistem respons terhadap insiden pelanggaran. Kenaikan laporan dan besarnya porsi peretasan kembali menyoroti pentingnya manajemen keamanan. Sumber: mk.co.kr."
+    }
+  }
+}
