@@ -1,5 +1,230 @@
 [
   {
+    "id": "f786bd95f371",
+    "slug": "검은-가죽재킷-입고-짜장면-먹방베이징-등장한-젠슨-황-또-화제-216950",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T17:42:48.602Z",
+    "updatedAt": "2026-05-15T17:42:48.602Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12049503",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12049503",
+    "titleFingerprint": "894a3e7154501f8dd434c76d9c58d25ad44f29ee",
+    "dedupKeys": [
+      "f786bd95f371a58c0e23af60e44389bb7c18460e",
+      "894a3e7154501f8dd434c76d9c58d25ad44f29ee",
+      "2f36fa54b7ef52b8f1ddbb477ec96b185d79bb0a"
+    ],
+    "imageUrl": "/images/articles/f786bd95f371.jpg",
+    "i18n": {
+      "ko": {
+        "title": "젠슨 황 베이징 포착, 검은 가죽재킷 차림 짜장면 먹방 화제",
+        "excerpt": "도널드 트럼프 미국 대통령의 방중 경제 사절단에 막판 합류한 젠슨 황 엔비디아 CEO가 베이징 관광명소에서 길거리 음식을 즐기며 시민들과 어울린 모습으로 화제가 됐다.",
+        "body": "젠슨 황 엔비디아 최고경영자(CEO)가 도널드 트럼프 미국 대통령의 방중 경제 사절단에 막판 합류한 뒤 베이징 관광명소에 모습을 드러내 화제가 됐다. 그는 검은 가죽재킷 차림으로 길거리 음식을 즐기고 시민들과 어울리는 모습이 포착됐다. 특히 짜장면을 먹는 장면이 알려지며 현지 방문 일정과 맞물려 관심을 키웠다. 이번 장면은 글로벌 반도체 기업 수장의 공개 행보가 대중적 장면과 결합해 주목받은 사례다. 향후 방중 일정 속에서 그의 행보가 추가로 조명될 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Jensen Huang Spotted in Beijing, Black Leather Jacket and Jajangmyeon Draw Buzz",
+        "excerpt": "Nvidia CEO Jensen Huang, a late addition to U.S. President Donald Trump’s economic delegation to China, drew attention after being seen enjoying street food and mingling with citizens at a Beijing tourist spot.",
+        "body": "Nvidia Chief Executive Officer Jensen Huang drew attention after appearing at a Beijing tourist attraction following his last-minute addition to U.S. President Donald Trump’s economic delegation to China. Huang was seen wearing a black leather jacket, enjoying street food and mingling with local citizens. A scene of him eating jajangmyeon especially circulated, adding interest to his visit. The episode stood out because the public outing of a global semiconductor company leader was captured in an everyday setting. His activities during the China visit may continue to attract attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "北京でジェンスン・フアン氏目撃、黒革ジャケット姿のジャージャー麺が話題",
+        "excerpt": "ドナルド・トランプ米大統領の訪中経済使節団に土壇場で加わったエヌビディアのジェンスン・フアンCEOが、北京の観光名所で屋台料理を楽しみ市民と交流する姿で注目を集めた。",
+        "body": "エヌビディアのジェンスン・フアン最高経営責任者（CEO）が、ドナルド・トランプ米大統領の訪中経済使節団に土壇場で合流した後、北京の観光名所に姿を見せ話題となった。フアン氏は黒い革ジャケット姿で屋台料理を楽しみ、市民と交流する様子が捉えられた。特にジャージャー麺を食べる場面が知られ、訪中日程と重なって関心を高めた。世界的な半導体企業トップの公開行動が日常的な場面と結びつき、注目された事例だ。今後の訪中日程でも動向がさらに注目される可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "黄仁勋现身北京，黑色皮夹克吃炸酱面引发关注",
+        "excerpt": "英伟达CEO黄仁勋临时加入美国总统唐纳德·特朗普访华经济代表团后，被拍到在北京旅游景点品尝街头美食并与市民互动，引发热议。",
+        "body": "英伟达首席执行官黄仁勋在临时加入美国总统唐纳德·特朗普访华经济代表团后，现身北京一处旅游景点并受到关注。画面显示，他身穿黑色皮夹克，品尝街头美食，并与当地市民互动。尤其是他吃炸酱面的场景传开后，结合此次访华行程进一步引发讨论。这一场面之所以受到关注，是因为全球半导体企业负责人公开露面与日常生活化场景结合在一起。随着访华日程推进，他的后续动向仍可能受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jensen Huang aparece en Pekín: chaqueta negra y fideos jajangmyeon causan revuelo",
+        "excerpt": "Jensen Huang, CEO de Nvidia y último incorporado a la delegación económica de Donald Trump en China, llamó la atención al disfrutar comida callejera y mezclarse con ciudadanos en un punto turístico de Pekín.",
+        "body": "Jensen Huang, director ejecutivo de Nvidia, llamó la atención tras aparecer en una zona turística de Pekín después de sumarse a último momento a la delegación económica del presidente estadounidense Donald Trump en China. Huang fue visto con una chaqueta negra de cuero, disfrutando comida callejera y conviviendo con ciudadanos. En particular, la escena en la que comía jajangmyeon se difundió y elevó el interés por su visita. El episodio destacó porque la aparición pública del líder de una empresa global de semiconductores se combinó con una escena cotidiana. Sus próximos movimientos durante la visita a China podrían seguir bajo observación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jensen Huang surge em Pequim: jaqueta preta e jajangmyeon viram assunto",
+        "excerpt": "Jensen Huang, CEO da Nvidia e inclusão de última hora na delegação econômica de Donald Trump à China, chamou atenção ao comer comida de rua e interagir com cidadãos em um ponto turístico de Pequim.",
+        "body": "Jensen Huang, CEO da Nvidia, chamou atenção ao aparecer em um ponto turístico de Pequim depois de se juntar de última hora à delegação econômica do presidente dos EUA, Donald Trump, em visita à China. Huang foi visto usando uma jaqueta de couro preta, apreciando comida de rua e interagindo com cidadãos. A cena em que ele come jajangmyeon, em especial, ganhou repercussão e ampliou o interesse em torno da visita. O episódio se destacou por unir a aparição pública de um líder global do setor de semicondutores a uma cena cotidiana. Seus próximos passos durante a agenda na China podem continuar atraindo atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jensen Huang in Peking gesichtet: Schwarze Lederjacke und Jajangmyeon sorgen für Aufsehen",
+        "excerpt": "Nvidia-Chef Jensen Huang, der kurzfristig zur Wirtschaftsdelegation von US-Präsident Donald Trump nach China stieß, sorgte für Aufmerksamkeit, als er an einem Pekinger Touristenort Streetfood genoss und mit Bürgern zusammentraf.",
+        "body": "Jensen Huang, Chief Executive Officer von Nvidia, sorgte für Aufmerksamkeit, nachdem er nach seiner kurzfristigen Aufnahme in die Wirtschaftsdelegation von US-Präsident Donald Trump nach China an einem Touristenort in Peking auftauchte. Huang wurde in schwarzer Lederjacke gesehen, wie er Streetfood genoss und mit Bürgern ins Gespräch kam. Besonders eine Szene, in der er Jajangmyeon aß, verbreitete sich und steigerte das Interesse an seinem Besuch. Der Moment fiel auf, weil der öffentliche Auftritt eines globalen Halbleiterchefs mit einer alltäglichen Szene verbunden wurde. Seine weiteren Schritte während der China-Reise könnten weiter beobachtet werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Jensen Huang aperçu à Pékin : veste en cuir noire et jajangmyeon font parler",
+        "excerpt": "Jensen Huang, PDG de Nvidia ajouté à la dernière minute à la délégation économique de Donald Trump en Chine, a attiré l’attention en dégustant de la cuisine de rue et en échangeant avec des habitants dans un site touristique de Pékin.",
+        "body": "Jensen Huang, directeur général de Nvidia, a attiré l’attention après être apparu dans un site touristique de Pékin, à la suite de son ajout de dernière minute à la délégation économique du président américain Donald Trump en Chine. Il a été aperçu vêtu d’une veste en cuir noire, dégustant de la cuisine de rue et échangeant avec des citoyens. La scène où il mangeait du jajangmyeon a particulièrement circulé, renforçant l’intérêt autour de sa visite. Cet épisode a retenu l’attention car l’apparition publique du dirigeant d’une entreprise mondiale de semi-conducteurs s’est mêlée à une scène quotidienne. Ses prochains déplacements en Chine pourraient continuer à être suivis. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جنسن هوانغ يظهر في بكين: سترة جلدية سوداء وطبق جاجانغميون يثيران الاهتمام",
+        "excerpt": "أثار جنسن هوانغ، الرئيس التنفيذي لإنفيديا والمنضم في اللحظة الأخيرة إلى الوفد الاقتصادي للرئيس الأميركي دونالد ترامب إلى الصين، الاهتمام بعدما شوهد يتناول طعام الشارع ويتفاعل مع مواطنين في معلم سياحي ببكين.",
+        "body": "أثار جنسن هوانغ، الرئيس التنفيذي لشركة إنفيديا، الاهتمام بعد ظهوره في معلم سياحي في بكين عقب انضمامه في اللحظة الأخيرة إلى الوفد الاقتصادي للرئيس الأميركي دونالد ترامب خلال زيارته للصين. وشوهد هوانغ مرتديا سترة جلدية سوداء، وهو يستمتع بطعام الشارع ويتفاعل مع المواطنين. وانتشر خصوصا مشهد تناوله طبق جاجانغميون، ما زاد الاهتمام بجدول زيارته. وبرزت اللقطة لأنها جمعت بين ظهور علني لرئيس شركة عالمية في قطاع أشباه الموصلات ومشهد يومي بسيط. وقد تظل تحركاته خلال زيارة الصين محط متابعة إضافية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "बीजिंग में दिखे जेन्सन हुआंग, काली लेदर जैकेट और जाजांगम्योन ने खींचा ध्यान",
+        "excerpt": "एनवीडिया के सीईओ जेन्सन हुआंग, जो डोनाल्ड ट्रंप की चीन यात्रा वाली आर्थिक प्रतिनिधिमंडल में अंतिम समय में शामिल हुए, बीजिंग के पर्यटन स्थल पर स्ट्रीट फूड खाते और नागरिकों से मिलते दिखे।",
+        "body": "एनवीडिया के मुख्य कार्यकारी अधिकारी जेन्सन हुआंग डोनाल्ड ट्रंप की चीन यात्रा वाली अमेरिकी आर्थिक प्रतिनिधिमंडल में अंतिम समय में शामिल होने के बाद बीजिंग के एक पर्यटन स्थल पर दिखे और चर्चा में आ गए। उन्हें काली लेदर जैकेट पहने, स्ट्रीट फूड का आनंद लेते और नागरिकों के साथ घुलते-मिलते देखा गया। खासकर जाजांगम्योन खाते हुए उनका दृश्य सामने आने के बाद उनकी यात्रा को लेकर रुचि और बढ़ी। यह प्रसंग इसलिए ध्यान में आया क्योंकि वैश्विक सेमीकंडक्टर कंपनी के प्रमुख की सार्वजनिक मौजूदगी एक रोजमर्रा के दृश्य से जुड़ गई। चीन यात्रा के दौरान उनकी आगे की गतिविधियों पर भी नजर रह सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jensen Huang Terlihat di Beijing, Jaket Kulit Hitam dan Jajangmyeon Jadi Sorotan",
+        "excerpt": "CEO Nvidia Jensen Huang, yang bergabung di menit akhir dengan delegasi ekonomi Presiden AS Donald Trump ke China, menarik perhatian saat menikmati jajanan jalanan dan berbaur dengan warga di lokasi wisata Beijing.",
+        "body": "CEO Nvidia Jensen Huang menjadi perhatian setelah muncul di sebuah lokasi wisata Beijing usai bergabung di menit akhir dengan delegasi ekonomi Presiden AS Donald Trump dalam kunjungan ke China. Huang terlihat mengenakan jaket kulit hitam, menikmati makanan jalanan, dan berbaur dengan warga. Adegan saat ia menyantap jajangmyeon khususnya tersebar dan menambah minat terhadap agenda kunjungannya. Peristiwa ini menonjol karena penampilan publik pemimpin perusahaan semikonduktor global berpadu dengan suasana sehari-hari. Gerak-geriknya selama kunjungan ke China kemungkinan masih akan mendapat sorotan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "43fc06f73de0",
+    "slug": "청와대-블룸버그에-공식-항의사과-요구시장에-혼선-초래-196633",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T17:41:39.741Z",
+    "updatedAt": "2026-05-15T17:41:39.741Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049504",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049504",
+    "titleFingerprint": "081213b1dbf264c610fccfb0f45f1731983a557d",
+    "dedupKeys": [
+      "43fc06f73de08d0004032c69d853ecb6faf5d8ad",
+      "081213b1dbf264c610fccfb0f45f1731983a557d",
+      "4e49f7dc11abfe8ff590a5abb00726183b7ba1e7"
+    ],
+    "imageUrl": "/images/articles/43fc06f73de0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "청와대, 블룸버그 보도에 공식 항의…‘국민배당금’ 해석 논란 확산",
+        "excerpt": "청와대는 15일 김용범 정책실장의 ‘국민배당금’ 제안을 AI 기업 초과 이익 배분으로 해석한 블룸버그 보도에 항의 서한을 보내고 공식 사과를 요구했다.",
+        "body": "청와대가 15일 미국 블룸버그 통신에 공식 항의 서한을 보내고 사과를 요구했다. 블룸버그가 김용범 정책실장의 ‘국민배당금’ 제안을 인공지능(AI) 기업의 ‘초과 이익’ 배분으로 해석해 보도하면서 시장에 혼선을 초래했다는 이유에서다. 이번 사안은 정책 발언의 취지와 해외 매체의 해석이 엇갈리며 논란으로 번졌다. 청와대는 해당 보도가 시장 참가자들에게 잘못된 신호를 줄 수 있다고 보고 정정과 공식 사과를 요구한 것으로 전해졌다. 향후 블룸버그의 대응 여부와 관련 보도 정정 가능성이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Cheong Wa Dae Protests Bloomberg Report Over ‘National Dividend’ Interpretation",
+        "excerpt": "Cheong Wa Dae said on the 15th it sent Bloomberg a protest letter and demanded an official apology over its report interpreting Kim Yong-beom’s proposal as AI firms’ excess-profit distribution.",
+        "body": "Cheong Wa Dae sent an official protest letter to Bloomberg on the 15th and demanded an apology. The move came after Bloomberg reported Kim Yong-beom’s ‘national dividend’ proposal as a plan to distribute the ‘excess profits’ of artificial intelligence (AI) companies, which Cheong Wa Dae said caused confusion in the market. The issue grew as the intent of a policy remark and the foreign media outlet’s interpretation diverged. Cheong Wa Dae reportedly viewed the report as capable of sending misleading signals to market participants and requested a correction and formal apology. Attention now turns to Bloomberg’s response and whether the report will be corrected. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "青瓦台、ブルームバーグ報道に公式抗議…「国民配当金」解釈で波紋",
+        "excerpt": "青瓦台は15日、金容範政策室長の「国民配当金」提案をAI企業の超過利益配分と解釈したブルームバーグ報道に抗議書簡を送り、公式謝罪を求めた。",
+        "body": "青瓦台は15日、米ブルームバーグ通信に公式の抗議書簡を送り、謝罪を要求した。ブルームバーグが金容範政策室長の「国民配当金」提案を、人工知能（AI）企業の「超過利益」配分として解釈し報じたことで、市場に混乱を招いたという理由からだ。今回の件は、政策発言の趣旨と海外メディアの解釈が食い違ったことで論争に広がった。青瓦台は当該報道が市場参加者に誤ったシグナルを与えかねないとみて、訂正と公式謝罪を求めたとされる。今後はブルームバーグの対応と報道訂正の有無が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "青瓦台就彭博报道正式抗议，“国民分红”解读引发市场混乱争议",
+        "excerpt": "青瓦台15日向彭博发出抗议信，要求其正式道歉，原因是彭博将金容范政策室长的“国民分红”提议解读为分配AI企业超额利润。",
+        "body": "青瓦台15日向美国彭博通讯社发出正式抗议信，并要求道歉。彭博将金容范政策室长提出的“国民分红”解释为人工智能（AI）企业“超额利润”的分配方案并予以报道，青瓦台认为这给市场造成了混乱。此事源于政策发言本意与海外媒体解读之间出现分歧，并进一步引发争议。青瓦台据称认为，该报道可能向市场参与者释放错误信号，因此要求更正并作出正式道歉。接下来，彭博是否回应以及相关报道是否更正将受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Cheong Wa Dae protesta ante Bloomberg por interpretar el ‘dividendo nacional’",
+        "excerpt": "Cheong Wa Dae envió el día 15 una carta de protesta a Bloomberg y exigió una disculpa oficial por interpretar la propuesta de Kim Yong-beom como reparto de beneficios extra de firmas de IA.",
+        "body": "Cheong Wa Dae envió el día 15 una carta formal de protesta a Bloomberg y exigió una disculpa. La medida se produjo después de que Bloomberg informara que la propuesta de ‘dividendo nacional’ de Kim Yong-beom, jefe de política, implicaba distribuir los ‘beneficios excedentes’ de empresas de inteligencia artificial (IA), algo que Cheong Wa Dae dijo que causó confusión en el mercado. El caso creció al divergir el sentido de la declaración política y la interpretación del medio extranjero. Cheong Wa Dae consideró que el informe podía enviar señales erróneas a los participantes del mercado y pidió corrección y disculpa oficial. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Cheong Wa Dae protesta contra Bloomberg por leitura do ‘dividendo nacional’",
+        "excerpt": "Cheong Wa Dae enviou no dia 15 uma carta de protesto à Bloomberg e exigiu desculpas formais por interpretar a proposta de Kim Yong-beom como distribuição de lucros excedentes de empresas de IA.",
+        "body": "Cheong Wa Dae enviou no dia 15 uma carta formal de protesto à Bloomberg e exigiu um pedido de desculpas. A reação ocorreu após a Bloomberg noticiar a proposta de ‘dividendo nacional’ de Kim Yong-beom, chefe de política, como uma distribuição dos ‘lucros excedentes’ de empresas de inteligência artificial (IA), o que Cheong Wa Dae afirmou ter causado confusão no mercado. O caso ganhou repercussão porque a intenção da fala política divergiu da interpretação do veículo estrangeiro. Cheong Wa Dae avaliou que a reportagem poderia enviar sinais equivocados aos participantes do mercado e pediu correção e desculpas formais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Cheong Wa Dae protestiert gegen Bloomberg-Bericht zu ‘Nationaldividende’",
+        "excerpt": "Cheong Wa Dae sandte am 15. ein Protestschreiben an Bloomberg und verlangte eine offizielle Entschuldigung, weil Kim Yong-beoms Vorschlag als Verteilung von KI-Übergewinnen interpretiert wurde.",
+        "body": "Cheong Wa Dae hat am 15. ein offizielles Protestschreiben an Bloomberg gesandt und eine Entschuldigung verlangt. Anlass war ein Bloomberg-Bericht, der den Vorschlag von Politikchef Kim Yong-beom zur ‘Nationaldividende’ als Verteilung von ‘Übergewinnen’ von Unternehmen im Bereich künstliche Intelligenz (KI) interpretierte. Cheong Wa Dae erklärte, dies habe am Markt Verwirrung ausgelöst. Der Fall weitete sich aus, weil die Absicht der politischen Äußerung und die Deutung des ausländischen Mediums auseinanderlagen. Cheong Wa Dae sah die Gefahr falscher Signale an Marktteilnehmer und forderte Berichtigung sowie eine offizielle Entschuldigung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Cheong Wa Dae proteste contre Bloomberg sur l’interprétation du ‘dividende national’",
+        "excerpt": "Cheong Wa Dae a envoyé le 15 une lettre de protestation à Bloomberg et exigé des excuses officielles après un article interprétant la proposition de Kim Yong-beom comme un partage des profits excédentaires des sociétés d’IA.",
+        "body": "Cheong Wa Dae a envoyé le 15 une lettre officielle de protestation à Bloomberg et exigé des excuses. Cette démarche fait suite à un article dans lequel Bloomberg a interprété la proposition de ‘dividende national’ de Kim Yong-beom, chef de la politique, comme une distribution des ‘profits excédentaires’ des entreprises d’intelligence artificielle (IA), ce qui, selon Cheong Wa Dae, a semé la confusion sur le marché. L’affaire a pris de l’ampleur car l’intention de la déclaration politique et l’interprétation du média étranger ont divergé. Cheong Wa Dae estime que l’article pouvait envoyer de mauvais signaux aux acteurs du marché et a demandé une correction ainsi que des excuses officielles. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "البيت الأزرق يحتج على تقرير بلومبرغ بشأن تفسير «العائد الوطني»",
+        "excerpt": "أرسل البيت الأزرق في اليوم الخامس عشر خطاب احتجاج إلى بلومبرغ وطالب باعتذار رسمي بعدما فسرت اقتراح كيم يونغ بوم بشأن «العائد الوطني» كتوزيع لفوائض أرباح شركات الذكاء الاصطناعي.",
+        "body": "أرسل البيت الأزرق في اليوم الخامس عشر خطاب احتجاج رسمي إلى وكالة بلومبرغ الأميركية وطالبها بالاعتذار. وجاء ذلك بعدما نشرت بلومبرغ تقريرا فسرت فيه اقتراح كيم يونغ بوم، رئيس السياسات، بشأن «العائد الوطني» على أنه توزيع لـ«الأرباح الزائدة» لشركات الذكاء الاصطناعي، وهو ما قال البيت الأزرق إنه تسبب في إرباك السوق. واتسعت القضية مع تباين مقصد التصريح السياسي عن تفسير الوسيلة الإعلامية الأجنبية. ويرى البيت الأزرق أن التقرير قد يرسل إشارات مضللة إلى المشاركين في السوق، لذلك طلب تصحيحا واعتذارا رسميا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "‘राष्ट्रीय लाभांश’ पर ब्लूमबर्ग रिपोर्ट को लेकर चोंगवा डे का औपचारिक विरोध",
+        "excerpt": "चोंगवा डे ने 15 तारीख को ब्लूमबर्ग को विरोध पत्र भेजकर आधिकारिक माफी मांगी, क्योंकि रिपोर्ट में किम योंग-बोम के प्रस्ताव को AI कंपनियों के अतिरिक्त मुनाफे के बंटवारे के रूप में समझा गया।",
+        "body": "चोंगवा डे ने 15 तारीख को अमेरिकी ब्लूमबर्ग को औपचारिक विरोध पत्र भेजा और माफी की मांग की। ब्लूमबर्ग ने नीति प्रमुख किम योंग-बोम के ‘राष्ट्रीय लाभांश’ प्रस्ताव को कृत्रिम बुद्धिमत्ता (AI) कंपनियों के ‘अतिरिक्त मुनाफे’ के वितरण के रूप में व्याख्यायित कर रिपोर्ट किया था, जिस पर चोंगवा डे ने कहा कि इससे बाजार में भ्रम पैदा हुआ। यह मामला नीति बयान के आशय और विदेशी मीडिया की व्याख्या में अंतर के कारण विवाद में बदल गया। चोंगवा डे के अनुसार, ऐसी रिपोर्ट बाजार प्रतिभागियों को गलत संकेत दे सकती है, इसलिए सुधार और आधिकारिक माफी की मांग की गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Cheong Wa Dae Protes Bloomberg atas Tafsir ‘Dividen Nasional’ Kim Yong-beom",
+        "excerpt": "Cheong Wa Dae pada tanggal 15 mengirim surat protes kepada Bloomberg dan menuntut permintaan maaf resmi karena menafsirkan usulan Kim Yong-beom sebagai pembagian laba berlebih perusahaan AI.",
+        "body": "Cheong Wa Dae pada tanggal 15 mengirim surat protes resmi kepada Bloomberg dan menuntut permintaan maaf. Langkah itu diambil setelah Bloomberg memberitakan usulan ‘dividen nasional’ dari Kim Yong-beom, kepala kebijakan, sebagai pembagian ‘laba berlebih’ perusahaan kecerdasan buatan (AI), yang menurut Cheong Wa Dae menimbulkan kebingungan di pasar. Persoalan ini berkembang karena maksud pernyataan kebijakan berbeda dari tafsir media asing tersebut. Cheong Wa Dae menilai laporan itu dapat memberi sinyal keliru kepada pelaku pasar dan meminta koreksi serta permintaan maaf resmi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c41d9945ef41",
+    "slug": "영업익-200조-300조-아니냐총파업-앞둔-삼전-노조-고용부-장관-만나-면담-202069",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T17:40:38.333Z",
+    "updatedAt": "2026-05-15T17:40:38.333Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049505",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049505",
+    "titleFingerprint": "5c129fe39d9d9356ef1b8ab81a3ef881253f91c2",
+    "dedupKeys": [
+      "c41d9945ef413fd84e05e852d10e4984b98b79e5",
+      "5c129fe39d9d9356ef1b8ab81a3ef881253f91c2",
+      "93854c150be0e0f5e75610aa85d3dcfa1cf1b70b"
+    ],
+    "imageUrl": "/images/articles/c41d9945ef41.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노조 총파업 앞두고 고용부 장관 면담, 교섭위원 교체 요구",
+        "excerpt": "삼성전자 노동조합은 총파업을 앞두고 중재에 나선 김영훈 고용노동부 장관과 만나 사측 대표교섭위원 교체와 입장 변화를 요구했다.",
+        "body": "삼성전자 노동조합이 총파업을 앞두고 김영훈 고용노동부 장관과 면담했다. 김 장관은 노사 갈등 중재에 나섰고, 노조는 이 자리에서 사측 대표교섭위원 교체와 입장 변화가 먼저 이뤄져야 한다고 밝혔다. 원문 제목에는 ‘영업익 200조? 300조 아니냐’는 표현이 담겼지만, 제공된 요약에서 구체적 실적 수치나 요구안의 세부 내용은 확인되지 않았다. 이번 면담은 총파업을 앞둔 노사 교섭 국면에서 정부 중재가 본격화됐다는 점에서 주목된다. 향후 쟁점은 사측 교섭 대표 변경 여부와 노조가 요구한 입장 변화에 대한 사측 대응이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics union meets labor minister before general strike, seeks negotiator change",
+        "excerpt": "Samsung Electronics’ union met Labor Minister Kim Young-hoon ahead of a planned general strike, asking for a change in the company’s lead negotiator and a shift in management’s stance.",
+        "body": "Samsung Electronics’ labor union met Kim Young-hoon, minister of employment and labor, ahead of a planned general strike. Kim moved to mediate the labor-management dispute, while the union said the company should first replace its lead negotiator and change its position. The original headline included the phrase, “Operating profit of 200 trillion? Isn’t it 300 trillion?” but the provided summary does not confirm detailed earnings figures or specific demands. The meeting draws attention because it signals government mediation as negotiations enter a critical phase before a full strike. The next focus is whether management changes its negotiation representative and responds to the union’s call for a shift in position. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子労組、全面スト前に雇用労働部長官と面談し交渉委員交代要求",
+        "excerpt": "サムスン電子の労働組合は全面ストを前に、仲裁に乗り出した金永勲雇用労働部長官と面談し、会社側代表交渉委員の交代と立場変更を求めた。",
+        "body": "サムスン電子の労働組合が全面ストを前に、金永勲雇用労働部長官と面談した。金長官は労使対立の仲裁に乗り出し、労組はこの場で会社側の代表交渉委員の交代と、会社側の立場変更が先に行われるべきだと述べた。原文の見出しには「営業利益200兆？300兆ではないのか」という表現があるが、提供された要約では具体的な業績数値や要求案の詳細は確認されていない。今回の面談は、全面ストを控えた労使交渉局面で政府の仲裁が本格化した点で注目される。今後の焦点は、会社側交渉代表の変更の有無と、労組が求めた立場変更への会社側の対応になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子工会总罢工前会见劳动部长，要求更换资方谈判委员",
+        "excerpt": "三星电子工会在总罢工前会见出面调解的韩国雇佣劳动部长官金永勋，要求资方更换代表谈判委员并先行改变立场。",
+        "body": "三星电子劳动工会在总罢工前会见了韩国雇佣劳动部长官金永勋。金长官出面调解劳资矛盾，工会则在会谈中表示，资方应先更换代表谈判委员并改变立场。原文标题中出现“营业利润200万亿？不是300万亿吗”的说法，但所提供摘要并未确认具体业绩数据或要求方案细节。此次会谈受到关注，因为它显示在总罢工前的劳资谈判阶段，政府调解开始正式介入。后续焦点预计将是资方是否更换谈判代表，以及如何回应工会要求的立场变化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Sindicato de Samsung Electronics se reúne con ministro antes de huelga y pide cambiar negociador",
+        "excerpt": "El sindicato de Samsung Electronics se reunió con el ministro de Empleo y Trabajo, Kim Young-hoon, antes de una huelga general, y pidió cambiar al principal negociador de la empresa.",
+        "body": "El sindicato de Samsung Electronics se reunió con Kim Young-hoon, ministro de Empleo y Trabajo, antes de una huelga general prevista. El ministro intervino como mediador en el conflicto laboral, mientras el sindicato afirmó que la empresa debe sustituir primero a su principal negociador y cambiar de postura. El titular original incluía la frase “¿Beneficio operativo de 200 billones? ¿No son 300 billones?”, pero el resumen proporcionado no confirma cifras concretas de resultados ni detalles de las demandas. La reunión destaca porque muestra una mediación gubernamental en una fase crítica de las negociaciones antes de la huelga. El foco será si la empresa cambia a su representante negociador y cómo responde a la exigencia sindical de modificar su posición. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sindicato da Samsung Electronics encontra ministro antes de greve e pede troca de negociador",
+        "excerpt": "O sindicato da Samsung Electronics se reuniu com o ministro do Emprego e Trabalho, Kim Young-hoon, antes de uma greve geral, pedindo troca do negociador da empresa e mudança de posição.",
+        "body": "O sindicato da Samsung Electronics se reuniu com Kim Young-hoon, ministro do Emprego e Trabalho, antes de uma greve geral planejada. O ministro passou a mediar o conflito entre trabalhadores e empresa, enquanto o sindicato afirmou que a companhia deve primeiro substituir seu principal negociador e mudar sua posição. O título original trazia a frase “Lucro operacional de 200 trilhões? Não seriam 300 trilhões?”, mas o resumo fornecido não confirma números específicos de desempenho nem detalhes das reivindicações. A reunião chama atenção por indicar a mediação do governo em uma fase decisiva das negociações antes da greve. O foco agora será se a empresa trocará seu representante nas negociações e como responderá ao pedido de mudança de postura feito pelo sindicato. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-Electronics-Gewerkschaft trifft Arbeitsminister vor Generalstreik und fordert Wechsel",
+        "excerpt": "Die Gewerkschaft von Samsung Electronics traf vor einem geplanten Generalstreik Arbeitsminister Kim Young-hoon und forderte einen Wechsel des Verhandlungsführers sowie eine neue Haltung des Unternehmens.",
+        "body": "Die Gewerkschaft von Samsung Electronics hat vor einem geplanten Generalstreik Kim Young-hoon, den Minister für Beschäftigung und Arbeit, getroffen. Kim schaltete sich als Vermittler in den Arbeitskonflikt ein, während die Gewerkschaft erklärte, das Unternehmen müsse zuerst seinen leitenden Verhandlungsführer ersetzen und seine Haltung ändern. In der ursprünglichen Überschrift stand die Formulierung „Betriebsgewinn von 200 Billionen? Sind es nicht 300 Billionen?“, doch die vorliegende Zusammenfassung bestätigt weder konkrete Ergebniszahlen noch Details der Forderungen. Das Treffen ist bedeutsam, weil es auf eine aktive Vermittlung der Regierung in einer kritischen Phase vor dem Generalstreik hinweist. Im Fokus steht nun, ob die Unternehmensseite ihren Verhandlungsvertreter austauscht und wie sie auf die geforderte Positionsänderung reagiert. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le syndicat de Samsung Electronics voit le ministre avant la grève et demande un changement",
+        "excerpt": "Le syndicat de Samsung Electronics a rencontré le ministre de l’Emploi et du Travail, Kim Young-hoon, avant une grève générale, demandant un changement du négociateur patronal et de position.",
+        "body": "Le syndicat de Samsung Electronics a rencontré Kim Young-hoon, ministre de l’Emploi et du Travail, avant une grève générale prévue. Le ministre est intervenu pour tenter une médiation dans le conflit social, tandis que le syndicat a déclaré que l’entreprise devait d’abord remplacer son principal négociateur et changer de position. Le titre original contenait l’expression « Résultat opérationnel de 200 billions ? N’est-ce pas 300 billions ? », mais le résumé fourni ne confirme ni chiffres précis de résultats ni détails des revendications. Cette rencontre retient l’attention car elle montre l’entrée en médiation du gouvernement à une phase sensible des négociations avant la grève. Les prochains points clés seront le remplacement éventuel du représentant patronal et la réponse de l’entreprise à la demande syndicale de changement de position. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "نقابة سامسونغ إلكترونيكس تلتقي وزير العمل قبل الإضراب وتطلب تغيير المفاوض",
+        "excerpt": "التقت نقابة سامسونغ إلكترونيكس وزير العمل والتوظيف كيم يونغ هون قبل إضراب عام مرتقب، وطالبت بتغيير ممثل الشركة في التفاوض وتبدل موقف الإدارة.",
+        "body": "التقت نقابة عمال سامسونغ إلكترونيكس وزير العمل والتوظيف كيم يونغ هون قبل إضراب عام مرتقب. ودخل الوزير على خط الوساطة في النزاع بين الإدارة والعمال، فيما قالت النقابة إن على الشركة أولا تغيير ممثلها الرئيسي في المفاوضات وتعديل موقفها. وتضمن العنوان الأصلي عبارة عن «أرباح تشغيلية 200 تريليون؟ أليست 300 تريليون؟»، لكن الملخص المتاح لا يؤكد أرقاما تفصيلية للأرباح ولا تفاصيل المطالب. وتحظى هذه المقابلة بالاهتمام لأنها تشير إلى بدء وساطة حكومية في مرحلة تفاوضية حساسة قبل الإضراب العام. وسيتركز الاهتمام لاحقا على ما إذا كانت الشركة ستغير ممثلها التفاوضي وكيف سترد على طلب النقابة بتغيير الموقف. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग इलेक्ट्रॉनिक्स यूनियन ने आम हड़ताल से पहले श्रम मंत्री से मुलाकात की",
+        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स की यूनियन ने प्रस्तावित आम हड़ताल से पहले रोजगार और श्रम मंत्री किम यंग-हून से मुलाकात कर कंपनी के मुख्य वार्ताकार को बदलने और रुख में बदलाव की मांग की।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स की श्रमिक यूनियन ने प्रस्तावित आम हड़ताल से पहले रोजगार और श्रम मंत्री किम यंग-हून से मुलाकात की। मंत्री ने श्रम-प्रबंधन विवाद में मध्यस्थता की पहल की, जबकि यूनियन ने कहा कि कंपनी को पहले अपने प्रमुख वार्ता प्रतिनिधि को बदलना चाहिए और अपना रुख बदलना चाहिए। मूल शीर्षक में “ऑपरेटिंग प्रॉफिट 200 ट्रिलियन? क्या यह 300 ट्रिलियन नहीं?” जैसी पंक्ति थी, लेकिन उपलब्ध सारांश में विशिष्ट लाभ आंकड़ों या मांगों के विस्तृत ब्योरे की पुष्टि नहीं है। यह बैठक इसलिए अहम है क्योंकि आम हड़ताल से पहले वार्ता के संवेदनशील चरण में सरकारी मध्यस्थता सामने आई है। आगे ध्यान इस पर रहेगा कि कंपनी वार्ता प्रतिनिधि बदलती है या नहीं और यूनियन की रुख बदलने की मांग पर क्या जवाब देती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Serikat Samsung Electronics temui menteri jelang mogok umum, minta negosiator diganti",
+        "excerpt": "Serikat pekerja Samsung Electronics bertemu Menteri Ketenagakerjaan Kim Young-hoon menjelang mogok umum, meminta perusahaan mengganti perwakilan negosiasi dan mengubah sikap.",
+        "body": "Serikat pekerja Samsung Electronics bertemu Kim Young-hoon, Menteri Ketenagakerjaan, menjelang rencana mogok umum. Kim turun sebagai mediator dalam konflik ketenagakerjaan, sementara serikat menyatakan perusahaan perlu lebih dulu mengganti perwakilan utama dalam negosiasi dan mengubah sikapnya. Judul asli memuat ungkapan “Laba operasional 200 triliun? Bukankah 300 triliun?”, tetapi ringkasan yang tersedia tidak mengonfirmasi angka kinerja spesifik atau rincian tuntutan. Pertemuan ini menarik perhatian karena menunjukkan mediasi pemerintah mulai masuk pada fase negosiasi yang penting sebelum mogok umum. Fokus berikutnya adalah apakah perusahaan akan mengganti wakil negosiasinya dan bagaimana merespons permintaan serikat agar sikap perusahaan berubah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "e8e733e30c9b",
     "slug": "이번엔-고향-안동서이-대통령-19일-日-다카이치와-정상회담-192041",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electronics dan SK Hynix Usai Reli Tajam: Target Harga dan Peringatan",
         "excerpt": "Samsung Electronics dan SK Hynix naik 129% dan 191% tahun ini; sekuritas melihat investasi AI menopang boom semikonduktor tahun depan, tetapi memperingatkan momentum bisa melemah.",
         "body": "Minat investor meningkat terhadap berapa lama Samsung Electronics dan SK Hynix perlu dipertahankan dalam portofolio. Keduanya adalah emiten terbesar pertama dan kedua di Kospi berdasarkan kapitalisasi pasar sekaligus dua pemimpin semikonduktor Korea. Tahun ini, kedua saham tersebut melonjak masing-masing 129% dan 191%, sehingga menjadi saham utama di pasar. Kalangan sekuritas telah menyampaikan target harga hingga 500.000 won untuk Samsung Electronics dan 3,1 juta won untuk SK Hynix. Latar belakangnya adalah penilaian bahwa investasi kecerdasan buatan bukan pilihan, melainkan soal “bertahan hidup”, serta proyeksi bahwa siklus kuat semikonduktor berlanjut tahun depan. Namun, ada pula peringatan bahwa momentum kenaikan dapat melemah setelah reli tajam jangka pendek. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "45d9dfaab31a",
-    "slug": "하나금융-두나무에-1조-투자원화-스테이블코인-동맹-구축한다-661675",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T23:37:30.559Z",
-    "updatedAt": "2026-05-14T23:37:30.559Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048706",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048706",
-    "titleFingerprint": "0dcf1c9f9e791a5d57c3b23e29fe0b032b15909c",
-    "dedupKeys": [
-      "45d9dfaab31a2d3af840b015fb0bf33688c7dc44",
-      "0dcf1c9f9e791a5d57c3b23e29fe0b032b15909c",
-      "4a05dbd6dc5d4a26a2ca560145e122f912d40abb"
-    ],
-    "imageUrl": "/images/articles/45d9dfaab31a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "하나금융, 두나무에 1조 투자로 원화 스테이블코인 동맹 추진",
-        "excerpt": "하나금융그룹이 하나은행을 통해 업비트 운영사 두나무의 카카오인베스트먼트 보유 지분 6.55%를 확보하며 원화 스테이블코인과 STO 협력 기반을 넓힌다.",
-        "body": "하나금융그룹이 하나은행을 통해 국내 1위 가상자산 거래소 업비트 운영사 두나무의 핵심 주주로 올라선다. 하나금융은 카카오인베스트먼트가 보유한 두나무 지분 6.55%를 약 1조원 규모로 확보하는 투자에 나선 것으로 전해졌다. 이번 투자는 원화 스테이블코인과 STO를 포함한 디지털 금융 분야에서 전방위 협력을 구축하려는 움직임으로 해석된다. 두나무는 업비트를 운영하는 국내 대표 가상자산 사업자이고, 하나금융은 은행 채널과 금융 인프라를 보유하고 있어 양측의 협력 범위가 주목된다. 향후 원화 기반 디지털 자산 시장과 토큰증권 관련 사업에서 전략적 연계가 강화될 가능성이 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hana Financial’s 1 Trillion Won Dunamu Deal Targets Won Stablecoin Alliance",
-        "excerpt": "Hana Financial Group, through Hana Bank, is set to acquire Kakao Investment’s 6.55% stake in Dunamu, expanding cooperation on won stablecoins and STO initiatives.",
-        "body": "Hana Financial Group is set to become a key shareholder in Dunamu, the operator of Upbit, South Korea’s largest cryptocurrency exchange, through Hana Bank. The group is reportedly moving to acquire a 6.55% stake in Dunamu held by Kakao Investment in a deal worth about 1 trillion won. The investment is positioned as a step toward broad cooperation in digital finance, including won-denominated stablecoins and STOs. Dunamu operates Upbit, a leading domestic virtual asset platform, while Hana Financial brings banking channels and financial infrastructure. The partnership is expected to draw attention for its potential strategic links in won-based digital assets and token securities. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ハナ金融、ドゥナムに1兆ウォン投資でウォン建てステーブルコイン連携へ",
-        "excerpt": "ハナ金融グループはハナ銀行を通じ、カカオインベストメントが保有するドゥナム株6.55%を取得し、ウォン建てステーブルコインとSTO協力を広げる。",
-        "body": "ハナ金融グループがハナ銀行を通じ、韓国最大の暗号資産取引所アップビットを運営するドゥナムの主要株主になる見通しだ。ハナ金融は、カカオインベストメントが保有するドゥナム株6.55%を約1兆ウォン規模で取得する投資に動いていると伝えられた。今回の投資は、ウォン建てステーブルコインやSTOを含むデジタル金融分野で広範な協力を築く動きと受け止められている。ドゥナムはアップビットを運営する韓国の代表的な仮想資産事業者であり、ハナ金融は銀行チャネルと金融インフラを持つ。今後、ウォン基盤のデジタル資産市場とトークン証券関連事業で戦略的連携が強まる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩亚金融拟投1万亿韩元入股Dunamu，推进韩元稳定币联盟",
-        "excerpt": "韩亚金融集团将通过韩亚银行取得Kakao Investment持有的Dunamu 6.55%股权，扩大韩元稳定币与STO领域合作基础。",
-        "body": "韩亚金融集团将通过韩亚银行成为韩国最大加密资产交易所Upbit运营商Dunamu的重要股东。据报道，韩亚金融正推进一项约1万亿韩元规模的投资，拟收购Kakao Investment持有的Dunamu 6.55%股权。此次投资被视为在数字金融领域建立全方位合作的举措，合作范围包括韩元稳定币和STO。Dunamu是运营Upbit的韩国代表性虚拟资产企业，韩亚金融则拥有银行渠道和金融基础设施，因此双方合作范围备受关注。未来，双方在韩元计价数字资产市场和证券型代币相关业务上的战略联动可能进一步加强。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hana Financial invertirá 1 billón de wones en Dunamu para alianza de stablecoin en wones",
-        "excerpt": "Hana Financial Group, vía Hana Bank, adquirirá el 6,55% de Dunamu en manos de Kakao Investment para ampliar cooperación en stablecoins en wones y STO.",
-        "body": "Hana Financial Group se perfila como accionista clave de Dunamu, operador de Upbit, el mayor exchange de criptoactivos de Corea del Sur, a través de Hana Bank. Según se informó, el grupo avanza en una inversión de unos 1 billón de wones para adquirir el 6,55% de Dunamu que posee Kakao Investment. La operación se interpreta como un paso para construir cooperación amplia en finanzas digitales, incluidas stablecoins denominadas en wones y STO. Dunamu opera Upbit, una plataforma representativa de activos virtuales en el país, mientras Hana Financial cuenta con canales bancarios e infraestructura financiera. La alianza podría reforzar vínculos estratégicos en activos digitales basados en wones y negocios de valores tokenizados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hana Financial investe 1 trilhão de wones na Dunamu por aliança de stablecoin em won",
-        "excerpt": "O Hana Financial Group, via Hana Bank, deve adquirir os 6,55% da Dunamu detidos pela Kakao Investment e ampliar cooperação em stablecoins em won e STO.",
-        "body": "O Hana Financial Group deve se tornar acionista relevante da Dunamu, operadora da Upbit, maior corretora de criptoativos da Coreia do Sul, por meio do Hana Bank. O grupo estaria avançando para adquirir a participação de 6,55% da Dunamu detida pela Kakao Investment em uma operação de cerca de 1 trilhão de wones. O investimento é visto como um movimento para construir cooperação ampla em finanças digitais, incluindo stablecoins denominadas em won e STO. A Dunamu opera a Upbit, uma das principais empresas locais de ativos virtuais, enquanto o Hana Financial possui canais bancários e infraestrutura financeira. A parceria pode fortalecer conexões estratégicas no mercado de ativos digitais em won e em negócios de valores tokenizados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hana Financial investiert 1 Bio. Won in Dunamu für Won-Stablecoin-Allianz",
-        "excerpt": "Hana Financial Group will über die Hana Bank den 6,55%-Anteil von Kakao Investment an Dunamu übernehmen und Kooperation bei Won-Stablecoins und STO ausbauen.",
-        "body": "Die Hana Financial Group dürfte über die Hana Bank zu einem wichtigen Aktionär von Dunamu werden, dem Betreiber von Upbit, Südkoreas größter Kryptobörse. Berichten zufolge bereitet die Gruppe den Erwerb des von Kakao Investment gehaltenen Dunamu-Anteils von 6,55% in einem Umfang von rund 1 Billion Won vor. Die Investition gilt als Schritt zu einer breiten Zusammenarbeit im digitalen Finanzbereich, darunter Won-basierte Stablecoins und STO. Dunamu betreibt Upbit, eine führende Plattform für virtuelle Vermögenswerte in Südkorea, während Hana Financial Bankkanäle und Finanzinfrastruktur einbringt. Künftig könnte die strategische Verbindung im Markt für digitale Won-Assets und tokenisierte Wertpapiere gestärkt werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hana Financial vise Dunamu avec 1 000 milliards de wons pour une alliance stablecoin en won",
-        "excerpt": "Hana Financial Group, via Hana Bank, doit acquérir les 6,55% de Dunamu détenus par Kakao Investment afin d’élargir la coopération sur les stablecoins en won et les STO.",
-        "body": "Hana Financial Group devrait devenir un actionnaire clé de Dunamu, l’opérateur d’Upbit, la plus grande plateforme sud-coréenne d’échange de cryptoactifs, via Hana Bank. Le groupe avancerait vers l’acquisition de la participation de 6,55% de Dunamu détenue par Kakao Investment, dans une opération d’environ 1 000 milliards de wons. Cet investissement est interprété comme une étape vers une coopération étendue dans la finance numérique, notamment les stablecoins libellés en won et les STO. Dunamu exploite Upbit, acteur majeur des actifs virtuels en Corée du Sud, tandis que Hana Financial dispose de canaux bancaires et d’infrastructures financières. Le partenariat pourrait renforcer les liens stratégiques dans les actifs numériques en won et les titres tokenisés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هانا فايننشال تستثمر تريليون وون في دونامو لتحالف عملة مستقرة بالوون",
-        "excerpt": "تعتزم مجموعة هانا فايننشال عبر بنك هانا الاستحواذ على حصة كاكاو إنفستمنت البالغة 6.55% في دونامو، لتوسيع التعاون في العملات المستقرة بالوون وSTO.",
-        "body": "تتجه مجموعة هانا فايننشال، عبر بنك هانا، إلى أن تصبح مساهما رئيسيا في دونامو، الشركة المشغلة لمنصة أبbit، أكبر بورصة أصول مشفرة في كوريا الجنوبية. ووفقا لما ورد، تتحرك المجموعة للاستحواذ على حصة 6.55% في دونامو المملوكة لكاكاو إنفستمنت، في صفقة تقارب قيمتها تريليون وون. ويعد الاستثمار خطوة لبناء تعاون واسع في التمويل الرقمي، بما يشمل العملات المستقرة المقومة بالوون وSTO. وتدير دونامو منصة أبbit، وهي من أبرز شركات الأصول الافتراضية محليا، بينما تمتلك هانا فايننشال قنوات مصرفية وبنية تحتية مالية. وقد يعزز التعاون الروابط الاستراتيجية في سوق الأصول الرقمية القائمة على الوون وأعمال الأوراق المالية المرمزة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "हाना फाइनेंशियल का Dunamu में 1 ट्रिलियन वॉन निवेश, वॉन स्टेबलकॉइन गठबंधन पर नजर",
-        "excerpt": "हाना फाइनेंशियल ग्रुप, हाना बैंक के जरिए Kakao Investment की Dunamu में 6.55% हिस्सेदारी लेने की तैयारी में है, जिससे वॉन स्टेबलकॉइन और STO सहयोग बढ़ेगा।",
-        "body": "हाना फाइनेंशियल ग्रुप, हाना बैंक के माध्यम से दक्षिण कोरिया के सबसे बड़े क्रिप्टो एक्सचेंज Upbit की संचालक कंपनी Dunamu का प्रमुख शेयरधारक बनने जा रहा है। रिपोर्ट के अनुसार, समूह Kakao Investment के पास मौजूद Dunamu की 6.55% हिस्सेदारी लगभग 1 ट्रिलियन वॉन में हासिल करने के लिए आगे बढ़ रहा है। इस निवेश को वॉन आधारित स्टेबलकॉइन और STO सहित डिजिटल फाइनेंस क्षेत्र में व्यापक सहयोग बनाने की दिशा में कदम माना जा रहा है। Dunamu देश की प्रमुख वर्चुअल एसेट कंपनी है, जबकि Hana Financial के पास बैंकिंग चैनल और वित्तीय ढांचा है। आगे चलकर वॉन आधारित डिजिटल एसेट बाजार और टोकन सिक्योरिटीज कारोबार में रणनीतिक जुड़ाव मजबूत हो सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hana Financial Investasi 1 Triliun Won di Dunamu untuk Aliansi Stablecoin Won",
-        "excerpt": "Hana Financial Group melalui Hana Bank akan mengambil 6,55% saham Dunamu milik Kakao Investment untuk memperluas kerja sama stablecoin won dan STO.",
-        "body": "Hana Financial Group melalui Hana Bank akan menjadi pemegang saham utama Dunamu, operator Upbit, bursa aset kripto terbesar di Korea Selatan. Grup tersebut dilaporkan bergerak untuk mengakuisisi 6,55% saham Dunamu yang dimiliki Kakao Investment dalam investasi bernilai sekitar 1 triliun won. Investasi ini dipandang sebagai langkah membangun kerja sama luas di bidang keuangan digital, termasuk stablecoin berbasis won dan STO. Dunamu mengoperasikan Upbit sebagai pelaku aset virtual terkemuka di Korea Selatan, sementara Hana Financial memiliki kanal perbankan dan infrastruktur keuangan. Ke depan, keterkaitan strategis di pasar aset digital berbasis won dan bisnis sekuritas token dapat semakin kuat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "da3cf211c4c7",
-    "slug": "다리-짧아-생긴일응사-민도희가-사과한-공항-민폐-논란-뭐길래-230064",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T23:36:29.430Z",
-    "updatedAt": "2026-05-14T23:36:29.430Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12048708",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12048708",
-    "titleFingerprint": "44933158e490f30db64e07d358c6df7e5f265949",
-    "dedupKeys": [
-      "da3cf211c4c7d9e52911e652a57d46b0b7ae647a",
-      "44933158e490f30db64e07d358c6df7e5f265949",
-      "f8542f05308daf24a0f37b7070ab5447b9dffd8c"
-    ],
-    "imageUrl": "/images/articles/da3cf211c4c7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "민도희 공항 민폐 논란 사과…‘응답하라 1994’ 조윤진의 해명은",
-        "excerpt": "tvN ‘응답하라 1994’에서 조윤진 역으로 알려진 배우 민도희가 지난 13일 유튜브 채널 ‘미니 도희’에서 과거 공항 내 공중도덕 논란을 언급하며 사과했다.",
-        "body": "tvN 인기 드라마 ‘응답하라 1994’에서 조윤진 역을 맡았던 배우 민도희가 지난 13일 자신의 유튜브 채널 ‘미니 도희’에서 과거 공항 내 공중도덕 논란을 언급하고 사과했다. 해당 논란은 공항이라는 공공장소에서의 행동을 두고 온라인에서 지적이 이어지며 불거진 사안이다. 민도희는 ‘다리 짧아 생긴 일’이라는 표현과 함께 당시 상황을 돌아본 것으로 전해졌다. 이번 언급은 드라마로 얼굴을 알린 배우의 과거 논란이 다시 조명된 사례로, 연예인의 공공장소 예절과 발언 책임에 대한 관심으로 이어지고 있다. mk.co.kr은 민도희가 유튜브 채널을 통해 관련 논란을 언급하며 사과했다고 보도했다."
-      },
-      "en": {
-        "title": "Min Do-hee Apologizes Over Airport Etiquette Controversy Revisited",
-        "excerpt": "Actor Min Do-hee, known for playing Jo Yoon-jin in tvN’s Reply 1994, apologized on her YouTube channel Mini Dohee on the 13th while revisiting a past airport etiquette controversy.",
-        "body": "Actor Min Do-hee, who played Jo Yoon-jin in tvN’s hit drama Reply 1994, apologized on the 13th through her YouTube channel Mini Dohee after bringing up a past controversy over public etiquette at an airport. The issue arose after online criticism of her behavior in a public space. Min reportedly looked back on the situation using the phrase that it happened because her legs were short. The remarks have brought renewed attention to a past controversy involving an actor who became widely known through the drama, while also drawing interest in celebrities’ manners and responsibility in public places. mk.co.kr reported that Min addressed and apologized for the controversy through her YouTube channel."
-      },
-      "ja": {
-        "title": "ミン・ドヒ、空港マナー論争を謝罪…『応答せよ1994』出演俳優が言及",
-        "excerpt": "tvN『応答せよ1994』でチョ・ユンジン役を演じた俳優ミン・ドヒが、13日に自身のYouTubeチャンネル『ミニ ドヒ』で過去の空港マナー論争に触れ謝罪した。",
-        "body": "tvNの人気ドラマ『応答せよ1994』でチョ・ユンジン役を演じた俳優ミン・ドヒが、13日に自身のYouTubeチャンネル『ミニ ドヒ』で、過去の空港での公共マナーをめぐる論争に言及し謝罪した。この問題は、空港という公共の場での行動をめぐりオンライン上で指摘が相次いだことで浮上した。ミン・ドヒは「足が短くて起きたこと」という表現とともに当時の状況を振り返ったとされる。今回の発言により、ドラマで知られる俳優の過去の論争が再び注目され、芸能人の公共の場でのマナーや発言責任への関心にもつながっている。mk.co.krは、ミン・ドヒがYouTubeチャンネルで関連論争に触れ謝罪したと報じた。"
-      },
-      "zh": {
-        "title": "闵度希就机场失礼争议道歉，《请回答1994》演员再谈旧事",
-        "excerpt": "因在tvN《请回答1994》中饰演赵允真而被观众熟知的演员闵度希，13日在个人YouTube频道“Mini Dohee”中提及过去的机场公共礼仪争议并道歉。",
-        "body": "曾在tvN热门剧《请回答1994》中饰演赵允真的演员闵度希，13日在自己的YouTube频道“Mini Dohee”中提及过去在机场引发的公共礼仪争议并道歉。该争议源于她在机场这一公共场所的行为受到网络批评。报道称，闵度希以“因为腿短才发生的事”这一说法回顾了当时情况。此次表态使这位因电视剧被观众熟知的演员过往争议再次受到关注，也引发外界对艺人在公共场所礼仪和发言责任的讨论。mk.co.kr报道称，闵度希通过YouTube频道提及相关争议并作出道歉。"
-      },
-      "es": {
-        "title": "Min Do-hee se disculpa por una polémica de etiqueta en un aeropuerto",
-        "excerpt": "La actriz Min Do-hee, conocida por interpretar a Jo Yoon-jin en Reply 1994 de tvN, se disculpó el día 13 en su canal de YouTube Mini Dohee al recordar una antigua polémica de conducta en un aeropuerto.",
-        "body": "La actriz Min Do-hee, quien interpretó a Jo Yoon-jin en el popular drama de tvN Reply 1994, se disculpó el día 13 en su canal de YouTube Mini Dohee tras mencionar una antigua polémica sobre conducta pública en un aeropuerto. El caso surgió después de críticas en línea por su comportamiento en un espacio público como el aeropuerto. Según se informó, Min recordó la situación con la expresión de que ocurrió porque tenía las piernas cortas. Sus comentarios han vuelto a poner el foco en una controversia pasada de una actriz conocida por el drama y han reavivado el interés por la etiqueta pública y la responsabilidad de las celebridades al hablar. mk.co.kr informó que Min abordó la polémica y se disculpó en su canal de YouTube."
-      },
-      "pt": {
-        "title": "Min Do-hee pede desculpas por polêmica de etiqueta em aeroporto",
-        "excerpt": "A atriz Min Do-hee, conhecida por viver Jo Yoon-jin em Reply 1994, da tvN, pediu desculpas no dia 13 em seu canal Mini Dohee ao comentar uma antiga controvérsia sobre comportamento em aeroporto.",
-        "body": "A atriz Min Do-hee, que interpretou Jo Yoon-jin no popular drama da tvN Reply 1994, pediu desculpas no dia 13 em seu canal no YouTube Mini Dohee ao comentar uma antiga controvérsia sobre etiqueta pública em um aeroporto. A questão surgiu após críticas online a seu comportamento em um espaço público. Segundo relatos, Min relembrou a situação usando a expressão de que aquilo aconteceu porque suas pernas eram curtas. A fala trouxe novamente atenção a uma polêmica passada envolvendo uma atriz conhecida pelo drama e reacendeu o interesse sobre boas maneiras em locais públicos e responsabilidade nas declarações de celebridades. O mk.co.kr informou que Min mencionou a controvérsia e se desculpou por meio de seu canal no YouTube."
-      },
-      "de": {
-        "title": "Min Do-hee entschuldigt sich für frühere Flughafen-Etikette-Kontroverse",
-        "excerpt": "Schauspielerin Min Do-hee, bekannt als Jo Yoon-jin aus tvNs Reply 1994, entschuldigte sich am 13. auf ihrem YouTube-Kanal Mini Dohee, nachdem sie eine frühere Kontroverse über Verhalten am Flughafen angesprochen hatte.",
-        "body": "Schauspielerin Min Do-hee, die in tvNs Erfolgsdrama Reply 1994 die Rolle der Jo Yoon-jin spielte, entschuldigte sich am 13. auf ihrem YouTube-Kanal Mini Dohee, nachdem sie eine frühere Kontroverse über öffentliche Etikette an einem Flughafen erwähnt hatte. Der Fall entstand, als ihr Verhalten an einem öffentlichen Ort online kritisiert wurde. Berichten zufolge blickte Min mit der Formulierung zurück, es sei passiert, weil ihre Beine kurz seien. Ihre Äußerung rückt die frühere Kontroverse um die durch das Drama bekannt gewordene Schauspielerin erneut in den Blick und lenkt Aufmerksamkeit auf Manieren und Verantwortung von Prominenten im öffentlichen Raum. mk.co.kr berichtete, Min habe die Kontroverse auf YouTube angesprochen und sich entschuldigt."
-      },
-      "fr": {
-        "title": "Min Do-hee s’excuse après une polémique d’étiquette à l’aéroport",
-        "excerpt": "L’actrice Min Do-hee, connue pour son rôle de Jo Yoon-jin dans Reply 1994 sur tvN, s’est excusée le 13 sur sa chaîne YouTube Mini Dohee en revenant sur une ancienne polémique de comportement à l’aéroport.",
-        "body": "L’actrice Min Do-hee, qui a joué Jo Yoon-jin dans le drama à succès de tvN Reply 1994, s’est excusée le 13 sur sa chaîne YouTube Mini Dohee après avoir évoqué une ancienne polémique liée aux règles de savoir-vivre dans un aéroport. L’affaire avait émergé après des critiques en ligne concernant son comportement dans un lieu public. Selon les informations rapportées, Min est revenue sur la situation en employant l’expression selon laquelle cela était arrivé parce que ses jambes étaient courtes. Cette prise de parole remet en lumière une controverse passée autour d’une actrice révélée par le drama et ravive l’attention portée aux manières des célébrités dans l’espace public ainsi qu’à leur responsabilité dans leurs propos. mk.co.kr a rapporté que Min avait abordé la polémique et présenté ses excuses sur YouTube."
-      },
-      "ar": {
-        "title": "مين دو-هي تعتذر عن جدل سلوكها في المطار بعد استعادته على يوتيوب",
-        "excerpt": "الممثلة مين دو-هي، المعروفة بدور جو يون-جين في مسلسل Reply 1994 على tvN، اعتذرت يوم 13 عبر قناتها على يوتيوب Mini Dohee بعدما تطرقت إلى جدل سابق بشأن السلوك العام في المطار.",
-        "body": "اعتذرت الممثلة مين دو-هي، التي أدت دور جو يون-جين في المسلسل الشهير Reply 1994 على tvN، يوم 13 عبر قناتها على يوتيوب Mini Dohee بعد أن تحدثت عن جدل سابق يتعلق بالآداب العامة في أحد المطارات. وقد أثيرت القضية بعدما وُجهت إليها انتقادات عبر الإنترنت بسبب تصرفها في مكان عام. ووفق ما نُقل، استرجعت مين الموقف مستخدمة عبارة تفيد بأن ما حدث كان بسبب قصر ساقيها. وأعاد هذا التصريح تسليط الضوء على جدل قديم يخص ممثلة عُرفت من خلال الدراما، كما أثار اهتماما بسلوك المشاهير ومسؤولية تصريحاتهم في الأماكن العامة. وذكر mk.co.kr أن مين تطرقت إلى الجدل عبر قناتها على يوتيوب وقدمت اعتذارها."
-      },
-      "hi": {
-        "title": "मिन दो-ही ने एयरपोर्ट शिष्टाचार विवाद पर माफी मांगी, Reply 1994 अभिनेत्री फिर चर्चा में",
-        "excerpt": "tvN के Reply 1994 में जो यून-जिन की भूमिका से पहचानी जाने वाली अभिनेत्री मिन दो-ही ने 13 तारीख को अपने YouTube चैनल Mini Dohee पर पुराने एयरपोर्ट सार्वजनिक शिष्टाचार विवाद का जिक्र करते हुए माफी मांगी।",
-        "body": "tvN के लोकप्रिय ड्रामा Reply 1994 में जो यून-जिन की भूमिका निभाने वाली अभिनेत्री मिन दो-ही ने 13 तारीख को अपने YouTube चैनल Mini Dohee पर पुराने एयरपोर्ट सार्वजनिक शिष्टाचार विवाद का उल्लेख करते हुए माफी मांगी। यह विवाद एयरपोर्ट जैसे सार्वजनिक स्थान पर उनके व्यवहार को लेकर ऑनलाइन आलोचना के बाद सामने आया था। रिपोर्ट के अनुसार, मिन ने उस समय की स्थिति को याद करते हुए कहा कि यह बात उनके छोटे पैरों की वजह से हुई। इस टिप्पणी से ड्रामा के जरिए पहचान बनाने वाली अभिनेत्री का पुराना विवाद फिर चर्चा में आ गया है और सार्वजनिक स्थानों पर सितारों के व्यवहार तथा बयान की जिम्मेदारी पर ध्यान गया है। mk.co.kr ने बताया कि मिन ने अपने YouTube चैनल पर संबंधित विवाद का जिक्र कर माफी मांगी।"
-      },
-      "id": {
-        "title": "Min Do-hee Minta Maaf atas Kontroversi Etika di Bandara yang Kembali Disorot",
-        "excerpt": "Aktris Min Do-hee, dikenal lewat peran Jo Yoon-jin dalam Reply 1994 di tvN, meminta maaf pada tanggal 13 di kanal YouTube Mini Dohee setelah menyinggung kontroversi lama soal etika di bandara.",
-        "body": "Aktris Min Do-hee, yang memerankan Jo Yoon-jin dalam drama populer tvN Reply 1994, meminta maaf pada tanggal 13 melalui kanal YouTube Mini Dohee setelah menyinggung kontroversi lama terkait etika publik di bandara. Isu tersebut muncul setelah perilakunya di ruang publik seperti bandara mendapat kritik secara online. Menurut laporan, Min mengenang situasi itu dengan ungkapan bahwa hal tersebut terjadi karena kakinya pendek. Pernyataan ini membuat kontroversi masa lalu aktris yang dikenal lewat drama tersebut kembali disorot dan memunculkan perhatian pada etika selebritas di tempat umum serta tanggung jawab dalam berbicara. mk.co.kr melaporkan bahwa Min membahas kontroversi itu dan menyampaikan permintaan maaf melalui kanal YouTube-nya."
-      }
-    }
-  },
-  {
-    "id": "f8c43cec5e00",
-    "slug": "무조건-긴축-주장하는-분들-봐야이-대통령-imf-언급-공유하며-긴축론-재차-일축-851880",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T23:35:18.752Z",
-    "updatedAt": "2026-05-14T23:35:18.752Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12048710",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12048710",
-    "titleFingerprint": "00ed36aa38b2d378af5521b152f1fca3c42117ed",
-    "dedupKeys": [
-      "f8c43cec5e0031dd670251f04c766e29cd30aef9",
-      "00ed36aa38b2d378af5521b152f1fca3c42117ed",
-      "c77014e69926f31d1db50a21faa58fde1144e72e"
-    ],
-    "imageUrl": "/images/articles/f8c43cec5e00.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이재명 대통령, IMF 한국 재정기조 평가 공유하며 긴축론 재차 반박",
-        "excerpt": "이재명 대통령은 15일 IMF가 한국 재정기조를 긍정적으로 언급한 기사 내용을 공유하며 무조건적 긴축을 주장하는 흐름에 다시 선을 그었다.",
-        "body": "이재명 대통령은 15일 한국 재정기조에 대한 국제통화기금(IMF)의 긍정적 언급을 인용하며 긴축론을 재차 일축했다. 그는 “무조건 긴축 주장하는 분들이 나라를 생각한다면 꼭 봐야 할 기사”라고 밝히며 관련 보도를 공유했다. 이번 언급은 재정 운용 방향을 둘러싼 긴축 주장에 대해 대통령이 다시 반박한 것으로, IMF 평가를 근거로 제시했다는 점에서 주목된다. 향후 재정기조 논의에서도 긴축 여부와 재정 역할을 둘러싼 공방이 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "President Lee Cites IMF View on Korea’s Fiscal Stance to Reject Austerity Calls",
-        "excerpt": "On the 15th, President Lee Jae-myung shared an article citing the IMF’s positive remarks on Korea’s fiscal stance, again distancing himself from unconditional austerity calls.",
-        "body": "President Lee Jae-myung on the 15th again rejected calls for austerity by citing positive remarks from the International Monetary Fund on Korea’s fiscal stance. Sharing the related report, Lee said it was an article that “those who insist on unconditional austerity should read if they care about the country.” The comment adds to his pushback against arguments over tighter fiscal management, with the IMF reference presented as supporting context. Debate over Korea’s fiscal stance, the role of government spending, and whether austerity is needed is expected to continue. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "李在明大統領、IMFの韓国財政基調評価を共有し緊縮論を再否定",
-        "excerpt": "李在明大統領は15日、IMFが韓国の財政基調に前向きな言及をした記事を共有し、無条件の緊縮を求める主張に改めて一線を引いた。",
-        "body": "李在明大統領は15日、韓国の財政基調に対する国際通貨基金（IMF）の前向きな言及を引用し、緊縮論を改めて退けた。李大統領は関連報道を共有し、「無条件に緊縮を主張する人々が国を思うなら必ず見るべき記事」と述べた。今回の発言は、財政運営の方向をめぐる緊縮主張に対し、大統領が再び反論したものだ。IMFの評価を根拠として示した点も注目される。今後も財政基調や財政の役割、緊縮の是非をめぐる議論が続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "李在明总统转发IMF对韩国财政基调评价，再次驳斥紧缩论",
-        "excerpt": "李在明总统15日分享IMF正面提及韩国财政基调的报道，再次与主张无条件财政紧缩的声音划清界限。",
-        "body": "李在明总统15日引用国际货币基金组织（IMF）对韩国财政基调的正面表述，再次否定紧缩论。他在分享相关报道时表示，如果那些主张无条件紧缩的人是真心为国家着想，就应当阅读这篇文章。此次表态是在围绕财政运用方向的争论中，总统再次回应紧缩主张。其特别之处在于，他将IMF的评价作为依据提出。预计今后围绕韩国财政基调、财政作用以及是否需要紧缩的讨论仍将持续。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Lee cita al FMI sobre la política fiscal de Corea y vuelve a rechazar la austeridad",
-        "excerpt": "El día 15, el presidente Lee Jae-myung compartió un artículo con comentarios positivos del FMI sobre la política fiscal de Corea y volvió a rechazar la austeridad incondicional.",
-        "body": "El presidente Lee Jae-myung volvió a rechazar el día 15 los llamados a la austeridad al citar comentarios positivos del Fondo Monetario Internacional sobre la orientación fiscal de Corea. Al compartir la nota, afirmó que era un artículo que deberían leer quienes insisten en una austeridad incondicional si realmente piensan en el país. La declaración supone una nueva respuesta presidencial al debate sobre la dirección de la política fiscal. El uso de la evaluación del FMI como referencia añade relevancia al mensaje. Se prevé que continúe la discusión sobre la política fiscal, el papel del gasto público y la necesidad de austeridad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lee cita avaliação do FMI sobre a política fiscal da Coreia e volta a rejeitar austeridade",
-        "excerpt": "No dia 15, o presidente Lee Jae-myung compartilhou uma reportagem com menção positiva do FMI à política fiscal da Coreia e voltou a se opor à austeridade incondicional.",
-        "body": "O presidente Lee Jae-myung voltou a rejeitar, no dia 15, os apelos por austeridade ao citar comentários positivos do Fundo Monetário Internacional sobre a orientação fiscal da Coreia. Ao compartilhar a reportagem, disse que era um artigo que aqueles que defendem austeridade incondicional deveriam ler se pensam no país. A declaração representa nova contestação presidencial às propostas de aperto fiscal. O destaque está no uso da avaliação do FMI como referência. A discussão sobre a política fiscal coreana, o papel das finanças públicas e a necessidade de austeridade deve continuar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lee verweist auf IWF-Bewertung zu Koreas Fiskalkurs und weist Sparkurs erneut zurück",
-        "excerpt": "Präsident Lee Jae-myung teilte am 15. einen Bericht mit positiven IWF-Äußerungen zu Koreas Fiskalkurs und grenzte sich erneut von bedingungslosen Sparforderungen ab.",
-        "body": "Präsident Lee Jae-myung hat am 15. erneut Forderungen nach einem Sparkurs zurückgewiesen und dabei positive Äußerungen des Internationalen Währungsfonds zur Fiskalausrichtung Koreas angeführt. Beim Teilen des entsprechenden Berichts sagte Lee, dies sei ein Artikel, den diejenigen lesen sollten, die bedingungslose Sparpolitik fordern, wenn ihnen das Land am Herzen liege. Die Aussage ist eine weitere Reaktion auf die Debatte über die künftige Finanzpolitik. Bemerkenswert ist, dass Lee die IWF-Einschätzung als Bezugspunkt nutzte. Die Diskussion über Koreas Fiskalkurs, die Rolle staatlicher Ausgaben und die Frage von Austerität dürfte weitergehen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lee cite l’avis du FMI sur la politique budgétaire coréenne et rejette encore l’austérité",
-        "excerpt": "Le 15, le président Lee Jae-myung a partagé un article citant des propos positifs du FMI sur la politique budgétaire coréenne, rejetant de nouveau l’austérité inconditionnelle.",
-        "body": "Le président Lee Jae-myung a de nouveau rejeté, le 15, les appels à l’austérité en citant des propos positifs du Fonds monétaire international sur l’orientation budgétaire de la Corée. En partageant l’article concerné, il a déclaré que ceux qui défendent une austérité inconditionnelle devraient le lire s’ils pensent au pays. Cette prise de position constitue une nouvelle réponse au débat sur la direction de la politique budgétaire. Elle retient l’attention car l’évaluation du FMI est présentée comme référence. Les discussions sur la politique budgétaire coréenne, le rôle des finances publiques et l’austérité devraient se poursuivre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لي يستند إلى تقييم صندوق النقد لمالية كوريا ويرفض مجددا دعوات التقشف",
-        "excerpt": "في يوم 15، شارك الرئيس لي جاي ميونغ مقالا يتضمن إشارة إيجابية من صندوق النقد الدولي إلى التوجه المالي لكوريا، رافضا مجددا دعوات التقشف غير المشروط.",
-        "body": "رفض الرئيس لي جاي ميونغ مجددا في يوم 15 دعوات التقشف، مستشهدا بإشارة إيجابية من صندوق النقد الدولي إلى التوجه المالي لكوريا. وشارك لي التقرير ذي الصلة قائلا إن من يصرون على التقشف غير المشروط ينبغي أن يقرأوا هذا المقال إذا كانوا يفكرون في مصلحة البلاد. ويأتي التصريح ردا جديدا من الرئيس على الجدل بشأن اتجاه إدارة المالية العامة. وتبرز أهميته في استخدام تقييم صندوق النقد الدولي كمرجع. ومن المتوقع أن يستمر النقاش حول التوجه المالي لكوريا، ودور الإنفاق العام، وما إذا كان التقشف ضروريا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "राष्ट्रपति ली ने IMF के कोरिया वित्तीय रुख का हवाला देकर मितव्ययिता को फिर खारिज किया",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 15 तारीख को कोरिया की वित्तीय नीति पर IMF की सकारात्मक टिप्पणी वाली रिपोर्ट साझा की और बिना शर्त मितव्ययिता की मांगों से फिर दूरी बनाई।",
-        "body": "राष्ट्रपति ली जे-म्युंग ने 15 तारीख को कोरिया की वित्तीय दिशा पर अंतरराष्ट्रीय मुद्रा कोष की सकारात्मक टिप्पणी का हवाला देते हुए मितव्ययिता की दलीलों को फिर खारिज किया। संबंधित रिपोर्ट साझा करते हुए उन्होंने कहा कि जो लोग बिना शर्त मितव्ययिता पर जोर देते हैं, यदि वे देश के बारे में सोचते हैं तो उन्हें यह लेख जरूर देखना चाहिए। यह बयान वित्तीय संचालन की दिशा पर चल रही बहस में राष्ट्रपति की नई प्रतिक्रिया है। इसमें IMF के आकलन को आधार के रूप में पेश किया गया है। आगे भी कोरिया की वित्तीय नीति, सरकारी वित्त की भूमिका और मितव्ययिता की जरूरत पर बहस जारी रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lee Kutip Penilaian IMF soal Fiskal Korea dan Kembali Tolak Seruan Pengetatan",
-        "excerpt": "Presiden Lee Jae-myung pada tanggal 15 membagikan artikel yang memuat komentar positif IMF atas arah fiskal Korea, kembali menolak seruan pengetatan tanpa syarat.",
-        "body": "Presiden Lee Jae-myung pada tanggal 15 kembali menolak seruan pengetatan fiskal dengan mengutip komentar positif Dana Moneter Internasional terhadap arah fiskal Korea. Saat membagikan laporan terkait, Lee mengatakan artikel itu wajib dibaca oleh mereka yang menyerukan pengetatan tanpa syarat jika benar-benar memikirkan negara. Pernyataan ini menjadi bantahan baru presiden dalam perdebatan mengenai arah pengelolaan fiskal. Sorotannya adalah penggunaan penilaian IMF sebagai rujukan. Perdebatan tentang arah fiskal Korea, peran belanja pemerintah, dan perlu tidaknya pengetatan diperkirakan masih berlanjut. Sumber: mk.co.kr"
       }
     }
   }
