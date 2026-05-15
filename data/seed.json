@@ -1,5 +1,230 @@
 [
   {
+    "id": "937b680e2904",
+    "slug": "이명박-전-대통령-만난-오세훈-연일-부동산-이슈몰이-450157",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T05:54:21.093Z",
+    "updatedAt": "2026-05-15T05:54:21.093Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12049110",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12049110",
+    "titleFingerprint": "709674f103119cae88fb3b7e31a3fb2a5f7cb346",
+    "dedupKeys": [
+      "937b680e2904b08076a6bb3bd3ebcef2631f24e7",
+      "709674f103119cae88fb3b7e31a3fb2a5f7cb346",
+      "40046ee886fd1883e22aa814738a72baa02d4e50"
+    ],
+    "imageUrl": "/images/articles/937b680e2904.png",
+    "i18n": {
+      "ko": {
+        "title": "오세훈, 이명박 전 대통령과 청계천 산책…부동산 이슈 부각",
+        "excerpt": "국민의힘 오세훈 후보가 15일 이명박 전 대통령과 청계천 길을 함께 걸으며 서울시장 경험을 강조하고, 송파·강남·서초에서 부동산 대책 메시지를 이어갔다.",
+        "body": "국민의힘 오세훈 후보는 15일 이명박 전 대통령과 청계천 길을 함께 산책하며 서울시장직을 이어받았던 경험과 청계천 복원 사업에서 배운 점을 강조했다. 오 후보는 이 전 대통령을 “마음속 스승”이라고 표현하며 후임 서울시장으로서 도시 행정의 영향을 받았다는 취지를 밝혔다. 그는 최근 송파·강남·서초 등 서울 주요 지역에서 ‘부동산지옥 대책회의’를 열고 부동산 문제를 선거 핵심 이슈로 부각하고 있다. 이번 행보는 전직 대통령과의 만남, 청계천 상징성, 강남권 부동산 민심을 연결해 정책 메시지를 강화하려는 일정으로 풀이된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Oh Se-hoon Walks Cheonggyecheon With Lee Myung-bak, Highlights Housing Issues",
+        "excerpt": "People Power Party candidate Oh Se-hoon walked along Cheonggyecheon with former President Lee Myung-bak on the 15th, stressing his Seoul mayoral experience and housing agenda.",
+        "body": "People Power Party candidate Oh Se-hoon walked along Cheonggyecheon with former President Lee Myung-bak on the 15th, emphasizing the experience of succeeding him as Seoul mayor and lessons from the Cheonggyecheon restoration project. Oh described Lee as a “mentor in my heart,” saying he was influenced by Lee’s city administration as his successor. Oh has recently held “real estate hell countermeasure meetings” in Songpa, Gangnam and Seocho, raising housing policy as a central campaign issue. The schedule links the meeting with a former president, the symbolism of Cheonggyecheon and real estate sentiment in southern Seoul. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "呉世勲氏、李明博元大統領と清渓川を散策…不動産争点を強調",
+        "excerpt": "国民の力の呉世勲候補は15日、李明博元大統領と清渓川を歩き、ソウル市長経験と不動産対策メッセージを前面に出した。",
+        "body": "国民の力の呉世勲候補は15日、李明博元大統領と清渓川沿いを一緒に歩き、後任としてソウル市長を引き継いだ経験と清渓川復元事業から学んだ点を強調した。呉氏は李氏を「心の中の師」と表現し、後任市長として都市行政の影響を受けたとの趣旨を示した。呉氏は最近、松坡・江南・瑞草などソウルの主要地域で「不動産地獄対策会議」を開き、不動産問題を選挙の核心争点として浮上させている。今回の日程は元大統領との面会、清渓川の象徴性、江南圏の不動産民心を結び付けた動きとみられる。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "吴世勋与李明博漫步清溪川，继续突出房地产议题",
+        "excerpt": "国民力量候选人吴世勋15日与前总统李明博同行清溪川，强调首尔市长经历，并在松坡、江南、瑞草延续房地产对策信息。",
+        "body": "国民力量候选人吴世勋15日与前总统李明博一同漫步清溪川，强调自己曾作为后任接掌首尔市长职位的经历，以及从清溪川复原工程中学到的内容。吴世勋称李明博是“心中的老师”，表达了作为后任首尔市长受到其城市行政影响的意思。近期，吴世勋在松坡、江南、瑞草等首尔主要地区举行“房地产地狱对策会议”，把房地产问题凸显为选举核心议题。此次行程被视为把前总统会面、清溪川象征性和江南圈房地产民意相连接的政策信息安排。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Oh Se-hoon pasea con Lee Myung-bak y refuerza el foco inmobiliario",
+        "excerpt": "El candidato del Partido del Poder Popular, Oh Se-hoon, caminó el día 15 por Cheonggyecheon con el expresidente Lee Myung-bak y volvió a destacar su agenda inmobiliaria.",
+        "body": "El candidato del Partido del Poder Popular, Oh Se-hoon, caminó el día 15 junto al expresidente Lee Myung-bak por Cheonggyecheon y subrayó su experiencia como sucesor en la alcaldía de Seúl, así como lo aprendido del proyecto de restauración del arroyo. Oh describió a Lee como un “maestro en su corazón”, en referencia a la influencia recibida en materia de administración urbana. En los últimos días, Oh ha celebrado reuniones sobre medidas contra el “infierno inmobiliario” en Songpa, Gangnam y Seocho, situando la vivienda como un tema central de campaña. La agenda conecta la reunión con el expresidente, el simbolismo de Cheonggyecheon y el sentir inmobiliario del sur de Seúl. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Oh Se-hoon caminha com Lee Myung-bak e reforça pauta imobiliária",
+        "excerpt": "O candidato do Partido do Poder Popular, Oh Se-hoon, caminhou no dia 15 por Cheonggyecheon com o ex-presidente Lee Myung-bak e destacou sua mensagem sobre imóveis.",
+        "body": "O candidato do Partido do Poder Popular, Oh Se-hoon, caminhou no dia 15 com o ex-presidente Lee Myung-bak ao longo de Cheonggyecheon, enfatizando sua experiência como sucessor na Prefeitura de Seul e o que aprendeu com o projeto de restauração do riacho. Oh chamou Lee de “mestre em seu coração”, indicando a influência recebida na administração urbana. Recentemente, Oh realizou reuniões de medidas contra o “inferno imobiliário” em Songpa, Gangnam e Seocho, colocando a questão imobiliária no centro da campanha. A agenda combina o encontro com o ex-presidente, o simbolismo de Cheonggyecheon e o sentimento imobiliário no sul de Seul. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Oh Se-hoon spaziert mit Lee Myung-bak und setzt Immobilienpolitik in den Fokus",
+        "excerpt": "Der Kandidat der People Power Party, Oh Se-hoon, ging am 15. mit Ex-Präsident Lee Myung-bak am Cheonggyecheon spazieren und betonte seine Wohnungsagenda.",
+        "body": "Der Kandidat der People Power Party, Oh Se-hoon, ging am 15. gemeinsam mit dem früheren Präsidenten Lee Myung-bak am Cheonggyecheon spazieren. Dabei verwies er auf seine Erfahrung als Nachfolger im Amt des Seouler Bürgermeisters und auf Lehren aus dem Wiederherstellungsprojekt des Cheonggyecheon. Oh bezeichnete Lee als einen „Mentor im Herzen“ und machte damit den Einfluss von Lees Stadtverwaltung deutlich. Zuletzt hielt Oh in Songpa, Gangnam und Seocho Treffen zu Maßnahmen gegen eine „Immobilienhölle“ ab und rückte die Wohnungsfrage ins Zentrum seiner Kampagne. Der Termin verbindet das Treffen mit dem Ex-Präsidenten, die Symbolik des Cheonggyecheon und die Immobilien-Stimmung im Süden Seouls. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Oh Se-hoon marche avec Lee Myung-bak et remet l’immobilier au premier plan",
+        "excerpt": "Le candidat du Parti du pouvoir populaire, Oh Se-hoon, a marché le 15 le long de Cheonggyecheon avec l’ancien président Lee Myung-bak, en soulignant son agenda immobilier.",
+        "body": "Le candidat du Parti du pouvoir populaire, Oh Se-hoon, a marché le 15 avec l’ancien président Lee Myung-bak le long de Cheonggyecheon, mettant en avant son expérience de successeur à la mairie de Séoul et les enseignements tirés du projet de restauration du cours d’eau. Oh a qualifié Lee de “maître dans son cœur”, indiquant l’influence de son administration urbaine. Récemment, Oh a organisé à Songpa, Gangnam et Seocho des réunions sur les mesures contre “l’enfer immobilier”, faisant de ce sujet un axe majeur de campagne. Ce déplacement relie la rencontre avec l’ancien président, la symbolique de Cheonggyecheon et le sentiment immobilier dans le sud de Séoul. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "أوه سي هون يمشي مع لي ميونغ باك ويبرز قضية العقارات في سيئول",
+        "excerpt": "مرشح حزب قوة الشعب أوه سي هون سار في 15 من الشهر مع الرئيس الأسبق لي ميونغ باك على طريق تشونغ غيه تشون، مؤكدا خبرته ورسائله بشأن العقارات.",
+        "body": "سار مرشح حزب قوة الشعب أوه سي هون في 15 من الشهر مع الرئيس الأسبق لي ميونغ باك على طول تشونغ غيه تشون، مشددا على خبرته حين خلفه في منصب عمدة سيئول وعلى ما تعلمه من مشروع ترميم المجرى. ووصف أوه لي بأنه “معلم في القلب”، في إشارة إلى تأثره بإدارته الحضرية. وفي الآونة الأخيرة عقد أوه اجتماعات بعنوان تدابير مواجهة “جحيم العقارات” في سونغبا وغانغنام وسوتشو، واضعا قضية العقارات في صلب حملته. وتجمع هذه الخطوة بين لقاء الرئيس الأسبق ورمزية تشونغ غيه تشون ومزاج سوق العقارات في جنوب سيئول. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "ओ से-हून ने ली म्युंग-बाक संग चोंग्येचोन में सैर कर रियल एस्टेट मुद्दा उठाया",
+        "excerpt": "पीपल पावर पार्टी के उम्मीदवार ओ से-हून ने 15 तारीख को पूर्व राष्ट्रपति ली म्युंग-बाक के साथ चोंग्येचोन में चलते हुए सियोल मेयर अनुभव और आवास एजेंडा रखा।",
+        "body": "पीपल पावर पार्टी के उम्मीदवार ओ से-हून ने 15 तारीख को पूर्व राष्ट्रपति ली म्युंग-बाक के साथ चोंग्येचोन मार्ग पर सैर की और सियोल मेयर पद पर उनके उत्तराधिकारी के रूप में अपने अनुभव तथा चोंग्येचोन पुनर्स्थापन परियोजना से मिली सीख पर जोर दिया। ओ ने ली को “दिल के गुरु” के रूप में बताया और संकेत दिया कि शहर प्रशासन में वे उनसे प्रभावित रहे। हाल में ओ ने सोंगपा, गंगनम और सेओचो जैसे सियोल के प्रमुख क्षेत्रों में “रियल एस्टेट हेल” उपाय बैठकें की हैं, जिससे संपत्ति मुद्दा चुनाव का केंद्रीय विषय बन रहा है। यह कार्यक्रम पूर्व राष्ट्रपति से मुलाकात, चोंग्येचोन की प्रतीकात्मकता और दक्षिणी सियोल की संपत्ति भावना को जोड़ता है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Oh Se-hoon Berjalan dengan Lee Myung-bak, Soroti Isu Properti Seoul",
+        "excerpt": "Kandidat Partai Kekuatan Rakyat Oh Se-hoon pada tanggal 15 berjalan di Cheonggyecheon bersama mantan Presiden Lee Myung-bak dan menegaskan agenda propertinya.",
+        "body": "Kandidat Partai Kekuatan Rakyat Oh Se-hoon pada tanggal 15 berjalan bersama mantan Presiden Lee Myung-bak di sepanjang Cheonggyecheon, menekankan pengalamannya sebagai penerus wali kota Seoul dan pelajaran dari proyek restorasi Cheonggyecheon. Oh menyebut Lee sebagai “guru di hati,” dengan maksud bahwa ia terpengaruh oleh administrasi perkotaan Lee sebagai penerusnya. Belakangan, Oh menggelar rapat langkah atas “neraka properti” di Songpa, Gangnam, dan Seocho, menjadikan isu properti sebagai agenda utama kampanye. Langkah ini menghubungkan pertemuan dengan mantan presiden, simbolisme Cheonggyecheon, dan sentimen properti di kawasan selatan Seoul. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "1e363e218bff",
+    "slug": "부동산펀드-시동-거는-한앤코-운용-전문가-영입나서-942914",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T05:53:16.998Z",
+    "updatedAt": "2026-05-15T05:53:16.998Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049113",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049113",
+    "titleFingerprint": "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
+    "dedupKeys": [
+      "1e363e218bffed753b8045e1f79665ea07368bd1",
+      "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
+      "06d2c3900cedc1bf8898ede5cd786caf87257bbb"
+    ],
+    "imageUrl": "/images/articles/1e363e218bff.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한앤컴퍼니, 부동산펀드 본격화…신설 운용사 에이치캠 전문가 영입 추진",
+        "excerpt": "한앤컴퍼니가 5월 15일 보도된 레이더M 기사에서 신설 자산운용 법인 에이치캠을 통해 부동산펀드 사업에 시동을 걸고 운용 전문가 영입에 나선 것으로 전해졌다.",
+        "body": "사모펀드 운용사 한앤컴퍼니가 신설 자산운용 법인 에이치캠(HC)을 중심으로 부동산펀드 사업을 본격 준비하고 있다. 매일경제 자본시장 전문 유료매체 레이더M은 5월 15일 14시 18분 보도에서 한앤컴퍼니가 에이치캠을 통해 부동산펀드에 시동을 걸고 운용 전문가 영입에 나섰다고 전했다. 이번 움직임은 기존 사모펀드 운용 역량을 기반으로 자산운용 영역을 넓히려는 흐름으로 읽힌다. 구체적인 펀드 규모나 투자 대상은 원문에 공개되지 않았다. 향후 전문 인력 확보 여부가 에이치캠의 초기 운용 전략과 부동산펀드 추진 속도에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hahn & Company Moves Into Real Estate Funds With HC Hiring Push",
+        "excerpt": "Hahn & Company is preparing a real estate fund business through its new asset management entity HC and has begun recruiting investment management specialists, according to a May 15 Radar M report.",
+        "body": "Private equity firm Hahn & Company is preparing to launch a real estate fund business centered on its newly established asset management company, HC. Radar M, Maeil Business Newspaper’s capital markets paid publication, reported at 14:18 on May 15 that Hahn & Company is moving to activate real estate funds through HC and is seeking to recruit asset management professionals. The step points to an expansion of the firm’s asset management activities based on its private equity operating experience. The original report did not disclose a specific fund size or investment targets. Whether HC secures experienced professionals is expected to affect its early management strategy and the pace of the real estate fund rollout. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ハーン・アンド・カンパニー、不動産ファンド始動へHCで専門人材を募集",
+        "excerpt": "ハーン・アンド・カンパニーは5月15日のRadar M報道で、新設資産運用会社HCを通じて不動産ファンド事業を準備し、運用専門家の採用に動いていると伝えられた。",
+        "body": "プライベートエクイティ運用会社のハーン・アンド・カンパニーは、新設した資産運用法人エイチキャンプ（HC）を軸に不動産ファンド事業の準備を進めている。毎日経済新聞の資本市場専門有料媒体Radar Mは5月15日14時18分、同社がHCを通じて不動産ファンドを始動させ、運用専門家の採用に乗り出したと報じた。今回の動きは、既存のPEF運用力を基盤に資産運用領域を広げる流れと受け止められる。具体的なファンド規模や投資対象は原文では明らかにされていない。今後、専門人材を確保できるかがHCの初期運用戦略と不動産ファンド推進速度に影響するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Hahn & Company启动房地产基金布局，新设HC推进专家招聘",
+        "excerpt": "据5月15日Radar M报道，私募股权机构Hahn & Company正通过新设资产管理法人HC筹备房地产基金业务，并已开始招聘投资管理专家。",
+        "body": "私募股权基金管理公司Hahn & Company正以新设资产管理法人HC为中心，准备启动房地产基金业务。每日经济新闻资本市场专业付费媒体Radar M于5月15日14时18分报道称，Hahn & Company正通过HC推动房地产基金起步，并着手招聘资产管理专家。此举可被视为该公司在既有私募基金管理能力基础上，扩展资产管理领域的动作。原文未披露具体基金规模或投资标的。未来能否 확보专业人才，预计将影响HC的初期管理战略以及房地产基金推进速度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hahn & Company activa fondos inmobiliarios y busca expertos para HC",
+        "excerpt": "Hahn & Company prepara su negocio de fondos inmobiliarios mediante la nueva gestora HC y ha iniciado la contratación de especialistas, según informó Radar M el 15 de mayo.",
+        "body": "La gestora de capital privado Hahn & Company está preparando un negocio de fondos inmobiliarios centrado en su nueva sociedad de gestión de activos, HC. Radar M, medio de pago especializado en mercados de capitales de Maeil Business Newspaper, informó el 15 de mayo a las 14:18 que Hahn & Company está poniendo en marcha fondos inmobiliarios a través de HC y busca incorporar expertos en gestión. El movimiento apunta a ampliar su actividad de gestión de activos sobre la base de su experiencia en fondos de capital privado. El informe original no reveló el tamaño del fondo ni los activos objetivo. La contratación de profesionales será un factor relevante para la estrategia inicial de HC y el ritmo de avance del fondo inmobiliario. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hahn & Company avança em fundos imobiliários e busca especialistas para HC",
+        "excerpt": "A Hahn & Company prepara uma operação de fundos imobiliários por meio da nova gestora HC e iniciou a busca por profissionais de gestão, segundo reportagem da Radar M em 15 de maio.",
+        "body": "A gestora de private equity Hahn & Company está preparando um negócio de fundos imobiliários com foco em sua nova empresa de gestão de ativos, a HC. A Radar M, publicação paga especializada em mercado de capitais do Maeil Business Newspaper, informou em 15 de maio, às 14h18, que a Hahn & Company está dando início aos fundos imobiliários por meio da HC e busca contratar especialistas em gestão. O movimento indica uma ampliação das atividades de gestão de ativos com base na experiência já acumulada em private equity. A reportagem original não informou o tamanho do fundo nem os ativos-alvo. A obtenção de profissionais qualificados deve influenciar a estratégia inicial da HC e o ritmo de implementação dos fundos imobiliários. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hahn & Company startet Immobilienfonds-Pläne und sucht Experten für HC",
+        "excerpt": "Hahn & Company bereitet über die neue Vermögensverwaltung HC ein Immobilienfondsgeschäft vor und sucht dafür Managementexperten, berichtete Radar M am 15. Mai.",
+        "body": "Die Private-Equity-Gesellschaft Hahn & Company bereitet ein Immobilienfondsgeschäft vor, das sich auf die neu gegründete Vermögensverwaltung HC stützt. Radar M, das kostenpflichtige Kapitalmarktmedium der Maeil Business Newspaper, berichtete am 15. Mai um 14:18 Uhr, Hahn & Company wolle über HC Immobilienfonds anstoßen und dafür Fachleute im Asset Management gewinnen. Der Schritt deutet auf eine Erweiterung der Vermögensverwaltungsaktivitäten auf Basis der bestehenden Erfahrung im Private-Equity-Geschäft hin. Konkrete Angaben zu Fondsvolumen oder Anlagezielen wurden im Originalbericht nicht genannt. Ob HC erfahrene Spezialisten gewinnen kann, dürfte die frühe Managementstrategie und das Tempo der Immobilienfonds-Pläne beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hahn & Company prépare des fonds immobiliers et recrute pour HC",
+        "excerpt": "Hahn & Company prépare une activité de fonds immobiliers via sa nouvelle société de gestion HC et cherche des spécialistes de la gestion, selon Radar M le 15 mai.",
+        "body": "La société de capital-investissement Hahn & Company prépare une activité de fonds immobiliers autour de sa nouvelle entité de gestion d’actifs, HC. Radar M, média payant spécialisé dans les marchés de capitaux de Maeil Business Newspaper, a rapporté le 15 mai à 14h18 que Hahn & Company lançait cette initiative via HC et cherchait à recruter des professionnels de la gestion. Cette démarche s’inscrit dans un élargissement de ses activités de gestion d’actifs à partir de son expérience dans les fonds de private equity. Le rapport d’origine ne précise ni la taille du fonds ni les cibles d’investissement. La capacité à attirer des experts devrait peser sur la stratégie initiale de HC et sur le rythme de développement des fonds immobiliers. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هان آند كومباني تتحرك نحو صناديق العقارات وتبحث عن خبراء لإتش سي",
+        "excerpt": "تستعد هان آند كومباني لإطلاق نشاط صناديق عقارية عبر شركة إدارة الأصول الجديدة HC، وبدأت البحث عن خبراء إدارة، وفق تقرير Radar M في 15 مايو.",
+        "body": "تستعد شركة الاستثمار الخاص هان آند كومباني لإطلاق نشاط في صناديق العقارات بالاعتماد على شركة إدارة الأصول الجديدة إتش سي HC. وذكرت Radar M، وهي وسيلة مدفوعة متخصصة في أسواق رأس المال تابعة لصحيفة Maeil Business Newspaper، في تقرير نشر في 15 مايو الساعة 14:18 أن هان آند كومباني تتحرك لتفعيل صناديق عقارية عبر HC وتسعى إلى استقطاب خبراء في الإدارة. وتشير الخطوة إلى توسيع نطاق إدارة الأصول استنادا إلى خبرتها القائمة في صناديق الاستثمار الخاص. ولم يكشف التقرير الأصلي عن حجم الصندوق أو أهداف الاستثمار. ومن المتوقع أن يؤثر نجاح HC في تأمين الخبرات على استراتيجيتها الأولية وسرعة دفع صناديق العقارات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hahn & Company रियल एस्टेट फंड की तैयारी में, HC के लिए विशेषज्ञों की तलाश",
+        "excerpt": "Radar M की 15 मई की रिपोर्ट के अनुसार Hahn & Company नई एसेट मैनेजमेंट इकाई HC के जरिए रियल एस्टेट फंड कारोबार शुरू करने की तैयारी कर रही है और विशेषज्ञों की भर्ती कर रही है।",
+        "body": "प्राइवेट इक्विटी फंड मैनेजर Hahn & Company अपनी नई एसेट मैनेजमेंट कंपनी HC को केंद्र में रखकर रियल एस्टेट फंड कारोबार की तैयारी कर रही है। Maeil Business Newspaper के पूंजी बाजार केंद्रित पेड मीडिया Radar M ने 15 मई को 14:18 बजे रिपोर्ट किया कि Hahn & Company HC के जरिए रियल एस्टेट फंड शुरू करने की दिशा में बढ़ रही है और मैनेजमेंट विशेषज्ञों की भर्ती कर रही है। यह कदम मौजूदा PEF प्रबंधन क्षमता के आधार पर एसेट मैनेजमेंट क्षेत्र का विस्तार माना जा सकता है। मूल रिपोर्ट में फंड के आकार या निवेश लक्ष्यों का खुलासा नहीं किया गया। आगे विशेषज्ञ कर्मियों की उपलब्धता HC की शुरुआती प्रबंधन रणनीति और रियल एस्टेट फंड की गति को प्रभावित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hahn & Company Siapkan Dana Properti, HC Mulai Cari Ahli Investasi",
+        "excerpt": "Hahn & Company menyiapkan bisnis dana properti melalui entitas manajemen aset baru HC dan mulai merekrut ahli pengelolaan, menurut laporan Radar M pada 15 Mei.",
+        "body": "Manajer private equity Hahn & Company sedang menyiapkan bisnis dana properti dengan bertumpu pada perusahaan manajemen aset baru, HC. Radar M, media berbayar khusus pasar modal milik Maeil Business Newspaper, melaporkan pada 15 Mei pukul 14.18 bahwa Hahn & Company mulai menggerakkan dana properti melalui HC dan mencari tenaga ahli pengelolaan. Langkah ini menunjukkan perluasan aktivitas manajemen aset berdasarkan kemampuan yang telah dimiliki dalam pengelolaan PEF. Laporan asli tidak mengungkap ukuran dana maupun target investasinya. Keberhasilan HC mendapatkan tenaga profesional diperkirakan akan memengaruhi strategi pengelolaan awal dan kecepatan pelaksanaan dana properti. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "dfdf47019aab",
+    "slug": "한국-대표-세단-더-뉴-그랜저-출시-첫날-계약-1만대-돌파-613342",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T05:52:15.359Z",
+    "updatedAt": "2026-05-15T05:52:15.360Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049117",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049117",
+    "titleFingerprint": "71626dce11cdcc0b21655e83fc025044e18cf40a",
+    "dedupKeys": [
+      "dfdf47019aab52320009c4a62e6bc4f5a4fe02d9",
+      "71626dce11cdcc0b21655e83fc025044e18cf40a",
+      "ee321f72ce3bce8193a0af27623344ac9118bd66"
+    ],
+    "imageUrl": "/images/articles/dfdf47019aab.jpg",
+    "i18n": {
+      "ko": {
+        "title": "더 뉴 그랜저 첫날 1만대 계약 돌파, SUV 강세 속 세단 수요 확인",
+        "excerpt": "현대자동차 준대형 세단 더 뉴 그랜저가 출시 첫날 계약 1만대를 넘어서며 SUV 강세 속에서도 세단 시장의 저력을 보여줬다.",
+        "body": "현대자동차의 준대형 세단 ‘더 뉴 그랜저’가 출시 첫날 계약 대수 1만대를 넘어섰다. SUV 판매가 강세를 보이는 시장 흐름 속에서도 대표 세단으로서의 수요를 확인한 결과다. 이번 모델에는 인포테인먼트 시스템 ‘플레오스 커넥트’가 탑재됐으며, 최상위 트림인 ‘캘리그래피’ 선택 비중은 41%로 집계됐다. 고급 사양 선호가 계약 초반부터 뚜렷하게 나타난 셈이다. 더 뉴 그랜저의 초기 계약 성과는 국내 준대형 세단 시장의 경쟁 구도와 현대차 세단 라인업의 판매 흐름에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "The New Grandeur Tops 10,000 First-Day Orders, Showing Sedan Demand",
+        "excerpt": "Hyundai Motor’s midsize-large sedan The New Grandeur surpassed 10,000 contracts on its launch day, underscoring sedan demand despite SUV strength.",
+        "body": "Hyundai Motor’s midsize-large sedan, The New Grandeur, exceeded 10,000 contracts on its first day of release. The result confirmed demand for the brand’s flagship sedan even as SUVs continue to dominate the market. The model is equipped with the Pleos Connect infotainment system, while the top Calligraphy trim accounted for 41% of early contracts. That points to a clear preference for premium specifications from the start. The New Grandeur’s initial contract performance is expected to influence competition in Korea’s midsize-large sedan market and the sales momentum of Hyundai’s sedan lineup. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ザ・ニュー・グレンジャー初日1万台突破、SUV優勢でもセダン需要確認",
+        "excerpt": "現代自動車の準大型セダン、ザ・ニュー・グレンジャーが発売初日に契約1万台を超え、SUV優勢の中でもセダン需要を示した。",
+        "body": "現代自動車の準大型セダン「ザ・ニュー・グレンジャー」が、発売初日の契約台数で1万台を突破した。SUV販売が強い市場環境の中でも、韓国を代表するセダンとしての需要を確認した形だ。今回のモデルにはインフォテインメントシステム「Pleos Connect」が搭載され、最上位トリム「Calligraphy」の選択比率は41%と集計された。発売初期から高級仕様への選好が明確に表れた。ザ・ニュー・グレンジャーの初期契約実績は、韓国の準大型セダン市場の競争構図と現代自動車のセダン販売動向に影響を与える見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "全新Grandeur首日订单破1万辆，SUV热潮下验证轿车需求",
+        "excerpt": "现代汽车准大型轿车全新Grandeur上市首日订单突破1万辆，在SUV持续强势的市场中显示出轿车需求韧性。",
+        "body": "现代汽车准大型轿车“全新Grandeur”上市首日合同数量突破1万辆。在SUV销售持续强势的市场环境下，这一成绩验证了其作为代表性轿车的需求。该车型搭载信息娱乐系统“Pleos Connect”，最高配“Calligraphy”车型的选择比例达到41%。这表明上市初期消费者对高端配置的偏好已经较为明显。全新Grandeur的早期订单表现，预计将影响韩国准大型轿车市场的竞争格局以及现代汽车轿车产品线的销售走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "The New Grandeur supera 10.000 pedidos en su debut y confirma demanda de sedanes",
+        "excerpt": "El sedán semigrande The New Grandeur de Hyundai superó 10.000 contratos en su primer día, mostrando la fuerza del sedán pese al auge de los SUV.",
+        "body": "El sedán semigrande de Hyundai Motor, The New Grandeur, superó los 10.000 contratos en su primer día de lanzamiento. El resultado confirmó la demanda por este sedán representativo incluso en un mercado donde las ventas de SUV siguen dominando. El modelo incorpora el sistema de infoentretenimiento Pleos Connect, mientras que la versión superior Calligraphy representó el 41% de los contratos iniciales. Esto muestra una clara preferencia por especificaciones premium desde el inicio. El desempeño temprano de The New Grandeur podría influir en la competencia del mercado coreano de sedanes semigrandes y en la evolución de ventas de la línea sedán de Hyundai. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "The New Grandeur passa de 10 mil pedidos no 1º dia e reforça demanda por sedãs",
+        "excerpt": "O sedã semigrande The New Grandeur, da Hyundai, superou 10 mil contratos no dia de lançamento, mostrando força dos sedãs mesmo com SUVs em alta.",
+        "body": "O sedã semigrande da Hyundai Motor, The New Grandeur, ultrapassou 10 mil contratos no primeiro dia de lançamento. O resultado confirmou a demanda pelo sedã representativo da marca mesmo em um mercado no qual os SUVs seguem fortes. O modelo traz o sistema de infoentretenimento Pleos Connect, enquanto a versão topo de linha Calligraphy respondeu por 41% dos contratos iniciais. Isso indica uma preferência clara por configurações premium desde o começo. O desempenho inicial do The New Grandeur deve influenciar a dinâmica competitiva do mercado coreano de sedãs semigrandes e o fluxo de vendas da linha de sedãs da Hyundai. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "The New Grandeur übertrifft am ersten Tag 10.000 Bestellungen trotz SUV-Trend",
+        "excerpt": "Hyundais gehobene Limousine The New Grandeur überschritt am ersten Verkaufstag 10.000 Verträge und zeigte trotz starker SUVs stabile Sedan-Nachfrage.",
+        "body": "Hyundai Motors gehobene Limousine The New Grandeur hat am ersten Tag der Markteinführung mehr als 10.000 Verträge erzielt. Das Ergebnis bestätigt die Nachfrage nach der repräsentativen Limousine, obwohl SUVs den Markt weiter prägen. Das Modell ist mit dem Infotainmentsystem Pleos Connect ausgestattet; die höchste Ausstattungslinie Calligraphy machte 41% der frühen Verträge aus. Damit zeigte sich von Beginn an eine klare Präferenz für hochwertige Spezifikationen. Die anfängliche Vertragsleistung des The New Grandeur dürfte die Wettbewerbslage im koreanischen Markt für gehobene Limousinen und die Verkaufsdynamik von Hyundais Sedan-Angebot beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "The New Grandeur dépasse 10 000 commandes dès le premier jour malgré les SUV",
+        "excerpt": "La berline grande catégorie The New Grandeur de Hyundai a dépassé 10 000 contrats le jour de son lancement, confirmant la demande pour les berlines.",
+        "body": "La berline grande catégorie de Hyundai Motor, The New Grandeur, a dépassé 10 000 contrats dès son premier jour de lancement. Ce résultat confirme la demande pour cette berline représentative alors que les SUV restent dominants sur le marché. Le modèle est équipé du système d’infodivertissement Pleos Connect, tandis que la finition haut de gamme Calligraphy a représenté 41% des contrats initiaux. Cela montre une préférence nette pour les versions premium dès le départ. La performance initiale de The New Grandeur devrait influencer la concurrence sur le marché coréen des grandes berlines et la dynamique de vente de la gamme berline de Hyundai. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ذا نيو غرانجر يتجاوز 10 آلاف عقد في يومه الأول رغم قوة مبيعات SUV",
+        "excerpt": "تجاوزت سيارة هيونداي ذا نيو غرانجر السيدان شبه الكبيرة 10 آلاف عقد في يوم الإطلاق، مؤكدة استمرار الطلب على السيدان رغم زخم سيارات SUV.",
+        "body": "تجاوزت سيارة هيونداي موتور السيدان شبه الكبيرة “ذا نيو غرانجر” 10 آلاف عقد في اليوم الأول من طرحها. وتؤكد هذه النتيجة وجود طلب على السيدان 대표ية للعلامة، رغم استمرار قوة مبيعات سيارات SUV في السوق. وزُود الطراز بنظام المعلومات والترفيه “Pleos Connect”، بينما شكلت فئة “Calligraphy” الأعلى تجهيزاً 41% من العقود الأولية. ويظهر ذلك تفضيلاً واضحاً للمواصفات الفاخرة منذ بداية الإطلاق. ومن المتوقع أن يؤثر أداء ذا نيو غرانجر المبكر في المنافسة داخل سوق السيدان شبه الكبيرة في كوريا وفي مسار مبيعات تشكيلة السيدان لدى هيونداي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "द न्यू ग्रैंड्योर ने पहले दिन 10,000 अनुबंध पार किए, सेडान मांग दिखी",
+        "excerpt": "हुंडई मोटर की सेमी-लार्ज सेडान द न्यू ग्रैंड्योर ने लॉन्च के पहले दिन 10,000 से अधिक अनुबंध हासिल किए, SUV के दबदबे के बीच सेडान मांग दिखी।",
+        "body": "हुंडई मोटर की सेमी-लार्ज सेडान “द न्यू ग्रैंड्योर” ने लॉन्च के पहले दिन 10,000 से अधिक अनुबंध दर्ज किए। SUV बिक्री के मजबूत रुझान वाले बाजार में भी इस प्रतिनिधि सेडान की मांग की पुष्टि हुई। इस मॉडल में इंफोटेनमेंट सिस्टम “Pleos Connect” दिया गया है, जबकि शीर्ष ट्रिम “Calligraphy” की हिस्सेदारी शुरुआती अनुबंधों में 41% रही। इससे शुरुआत से ही प्रीमियम फीचर्स के प्रति स्पष्ट झुकाव दिखता है। द न्यू ग्रैंड्योर का शुरुआती अनुबंध प्रदर्शन कोरिया के सेमी-लार्ज सेडान बाजार की प्रतिस्पर्धा और हुंडई की सेडान लाइनअप की बिक्री दिशा को प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "The New Grandeur Tembus 10.000 Kontrak Hari Pertama, Sedan Tetap Kuat",
+        "excerpt": "Sedan semi-besar Hyundai The New Grandeur melampaui 10.000 kontrak pada hari peluncuran, menegaskan permintaan sedan di tengah kuatnya SUV.",
+        "body": "Sedan semi-besar Hyundai Motor, The New Grandeur, melampaui 10.000 kontrak pada hari pertama peluncurannya. Hasil ini mengonfirmasi permintaan terhadap sedan representatif tersebut meski penjualan SUV masih kuat di pasar. Model ini dibekali sistem infotainment Pleos Connect, sementara trim tertinggi Calligraphy menyumbang 41% dari kontrak awal. Angka itu menunjukkan preferensi yang jelas terhadap spesifikasi premium sejak awal. Kinerja kontrak awal The New Grandeur diperkirakan memengaruhi peta persaingan pasar sedan semi-besar di Korea serta arah penjualan lini sedan Hyundai. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "46e4dec7fb40",
     "slug": "구윤철-공급-시계-앞당기는-데-총력태릉-골프장-부지-1년-조기-착공-468410",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Ancaman Mogok Total Samsung Electronics, Menteri Sebut Mediasi Darurat Tak Terhindarkan",
         "excerpt": "Saat krisis mogok total Samsung Electronics meningkat, Menteri Kim Jung-kwan mengatakan mediasi darurat tak terhindarkan jika serikat mulai mogok pada tanggal 21.",
         "body": "Seiring meningkatnya kemungkinan mogok total di Samsung Electronics, Menteri Perindustrian Kim Jung-kwan menyatakan bahwa penggunaan kewenangan mediasi darurat tidak terhindarkan jika serikat pekerja memulai mogok seperti yang diumumkan pada tanggal 21. Menteri Ketenagakerjaan Kim Young-hoon juga mengatakan, “Tidak ada serikat pekerja yang ingin perusahaannya bangkrut.” Pernyataan ini muncul di tengah kekhawatiran bahwa konflik ketenagakerjaan di Samsung Electronics dapat berkembang ke tahap mogok total. Mediasi darurat adalah prosedur intervensi pemerintah ketika sebuah mogok dinilai dapat berdampak serius pada perekonomian nasional atau kepentingan publik. Jika mogok benar-benar terjadi, respons pemerintah dan arah negosiasi antara pekerja dan manajemen diperkirakan menjadi faktor utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3be6b75d9f75",
-    "slug": "미중-정상회담-첫날-뉴욕증시-일제히-상승-출발다우나스닥-각각-051-743066",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T15:35:00.558Z",
-    "updatedAt": "2026-05-14T15:35:00.558Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12048283",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12048283",
-    "titleFingerprint": "8066b62c076f92d964943ed4d52c2cd2d9c80d4e",
-    "dedupKeys": [
-      "3be6b75d9f755d7a1a81273f034ec9fae53d61ee",
-      "8066b62c076f92d964943ed4d52c2cd2d9c80d4e",
-      "0277053d3106ac9e4463a8724e93589c26b50c94"
-    ],
-    "imageUrl": "/images/articles/3be6b75d9f75.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미중 정상회담 첫날 뉴욕증시 상승 출발, 다우·나스닥 0.51% 올라",
-        "excerpt": "도널드 트럼프 미국 대통령이 14일 중국 베이징에서 시진핑 국가주석과 정상회담을 시작하자 뉴욕증시는 다우와 나스닥이 각각 0.51% 오르며 상승 출발했다.",
-        "body": "도널드 트럼프 미국 대통령이 14일 중국 베이징을 찾아 시진핑 중국 국가주석과 미중 정상회담을 시작한 첫날, 뉴욕증시는 일제히 상승 출발했다. 뉴욕증권거래소(NYSE)에 따르면 이날 개장 초반 다우지수와 나스닥지수는 각각 0.51% 상승했다. 이번 시장 반응은 미중 정상이 직접 만나는 일정과 맞물려 나타났다. 투자자들은 회담 첫날의 흐름과 주요 지수의 동반 상승을 함께 주시하는 분위기다. 다만 원문에 제시된 수치는 개장 초반 기준으로, 장중 흐름은 추가 거래 상황에 따라 달라질 수 있다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "U.S.-China Summit Opens as New York Stocks Rise, Dow and Nasdaq Up 0.51%",
-        "excerpt": "As U.S. President Donald Trump began talks with Chinese President Xi Jinping in Beijing on the 14th, New York stocks opened higher, with the Dow and Nasdaq each rising 0.51%.",
-        "body": "New York stocks opened broadly higher on the first day of the U.S.-China summit, as U.S. President Donald Trump visited Beijing on the 14th to begin talks with Chinese President Xi Jinping. According to the New York Stock Exchange, the Dow and Nasdaq each rose 0.51% in early trading. The market move came as the leaders of the two countries met in person. Investors were watching both the first day of the summit and the simultaneous rise in major indexes. The figures cited in the original report refer to the early part of the session, and intraday moves may change with further trading. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "米中首脳会談初日にNY株上昇、ダウとナスダックは0.51％高",
-        "excerpt": "ドナルド・トランプ米大統領が14日、中国・北京で習近平国家主席との首脳会談を開始し、NY株式市場はダウとナスダックがそれぞれ0.51％上昇して始まった。",
-        "body": "ドナルド・トランプ米大統領が14日、中国・北京を訪れ、習近平中国国家主席との米中首脳会談を開始した初日、ニューヨーク株式市場はそろって上昇して始まった。ニューヨーク証券取引所によると、取引開始直後にダウ指数とナスダック指数はいずれも0.51％上昇した。今回の市場反応は、米中首脳が直接会談する日程と重なって表れた。投資家は会談初日の動きと主要指数の同時上昇に注目している。ただし、原文で示された数値は寄り付き段階のもので、取引時間中の推移はその後の売買状況によって変わり得る。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "美中峰会首日纽约股市高开，道指和纳指均涨0.51%",
-        "excerpt": "美国总统唐纳德·特朗普14日在北京与中国国家主席习近平开始峰会之际，纽约股市集体高开，道指和纳指分别上涨0.51%。",
-        "body": "美国总统唐纳德·特朗普14日访问中国北京，并与中国国家主席习近平开始美中首脑会谈。会谈首日，纽约股市集体高开。根据纽约证券交易所消息，当天开盘初段，道琼斯指数和纳斯达克指数均上涨0.51%。这一市场反应出现在美中两国领导人直接会面的时间点。投资者同时关注会谈首日进展以及主要股指同步上涨的情况。不过，原文所列数据为开盘初段水平，盘中走势可能随后续交易情况而变化。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Cumbre EE.UU.-China impulsa apertura de Wall Street: Dow y Nasdaq suben 0,51%",
-        "excerpt": "El 14, Donald Trump inició en Pekín una cumbre con Xi Jinping y la Bolsa de Nueva York abrió al alza, con avances de 0,51% tanto en el Dow como en el Nasdaq.",
-        "body": "La Bolsa de Nueva York abrió con subidas generalizadas en el primer día de la cumbre entre Estados Unidos y China, después de que el presidente estadounidense Donald Trump viajara a Pekín el 14 para iniciar conversaciones con el presidente chino Xi Jinping. Según la Bolsa de Nueva York, el Dow Jones y el Nasdaq avanzaron cada uno un 0,51% en los primeros compases de la sesión. La reacción del mercado coincidió con el encuentro directo entre los líderes de ambos países. Los inversores siguieron de cerca tanto el desarrollo inicial de la cumbre como el avance conjunto de los principales índices. Las cifras citadas corresponden al inicio de la jornada y pueden variar durante la sesión. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Cúpula EUA-China começa e Wall Street sobe; Dow e Nasdaq avançam 0,51%",
-        "excerpt": "Donald Trump iniciou no dia 14, em Pequim, uma reunião de cúpula com Xi Jinping, enquanto a Bolsa de Nova York abriu em alta, com Dow e Nasdaq subindo 0,51% cada.",
-        "body": "A Bolsa de Nova York abriu em alta generalizada no primeiro dia da cúpula entre Estados Unidos e China, depois que o presidente americano Donald Trump visitou Pequim no dia 14 para iniciar conversas com o presidente chinês Xi Jinping. Segundo a New York Stock Exchange, o Dow Jones e o Nasdaq subiram 0,51% cada nos primeiros negócios. A reação do mercado ocorreu no mesmo momento em que os líderes dos dois países se reuniram diretamente. Investidores acompanharam o início da cúpula e a alta simultânea dos principais índices. Os números citados se referem ao começo do pregão e podem mudar ao longo da sessão conforme as negociações avancem. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "US-China-Gipfel startet, New Yorker Börse legt zu: Dow und Nasdaq plus 0,51%",
-        "excerpt": "US-Präsident Donald Trump begann am 14. in Peking Gespräche mit Chinas Präsident Xi Jinping; die New Yorker Börse eröffnete höher, Dow und Nasdaq stiegen je 0,51%.",
-        "body": "Die New Yorker Börse eröffnete am ersten Tag des US-chinesischen Gipfels breit im Plus, nachdem US-Präsident Donald Trump am 14. nach Peking gereist war, um Gespräche mit Chinas Präsident Xi Jinping aufzunehmen. Nach Angaben der New York Stock Exchange stiegen der Dow Jones und der Nasdaq zu Handelsbeginn jeweils um 0,51%. Die Marktreaktion fiel mit dem direkten Treffen der Staatschefs beider Länder zusammen. Anleger beobachteten sowohl den Auftakt der Gespräche als auch den gemeinsamen Anstieg der großen Indizes. Die im Originalbericht genannten Werte beziehen sich auf die frühe Handelsphase und können sich im weiteren Verlauf ändern. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Sommet États-Unis-Chine: Wall Street ouvre en hausse, Dow et Nasdaq +0,51%",
-        "excerpt": "Le 14, Donald Trump a entamé à Pékin un sommet avec Xi Jinping; la Bourse de New York a ouvert en hausse, avec le Dow Jones et le Nasdaq en progression de 0,51%.",
-        "body": "La Bourse de New York a ouvert en hausse généralisée au premier jour du sommet entre les États-Unis et la Chine, alors que le président américain Donald Trump s’est rendu à Pékin le 14 pour entamer des discussions avec le président chinois Xi Jinping. Selon la New York Stock Exchange, le Dow Jones et le Nasdaq ont chacun progressé de 0,51% en début de séance. Cette réaction du marché est intervenue au moment de la rencontre directe entre les dirigeants des deux pays. Les investisseurs surveillaient à la fois le début du sommet et la hausse simultanée des principaux indices. Les chiffres cités concernent l’ouverture et peuvent évoluer pendant la séance. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "بدء قمة أميركا والصين يدفع أسهم نيويورك للصعود وداو وناسداك +0.51%",
-        "excerpt": "بدأ الرئيس الأميركي دونالد ترامب في 14 محادثات مع الرئيس الصيني شي جين بينغ في بكين، فافتتحت أسهم نيويورك على ارتفاع مع صعود داو وناسداك 0.51% لكل منهما.",
-        "body": "افتتحت أسهم نيويورك على ارتفاع جماعي في اليوم الأول من القمة الأميركية الصينية، بعدما زار الرئيس الأميركي دونالد ترامب بكين في 14 لبدء محادثات مع الرئيس الصيني شي جين بينغ. ووفق بورصة نيويورك، ارتفع مؤشر داو جونز ومؤشر ناسداك بنسبة 0.51% لكل منهما في بداية التداول. وجاء هذا التحرك في السوق بالتزامن مع لقاء مباشر بين زعيمي البلدين. ويتابع المستثمرون مسار اليوم الأول من القمة إلى جانب الصعود المتزامن للمؤشرات الرئيسية. والأرقام الواردة في النص الأصلي تخص بداية الجلسة، وقد تتغير التحركات خلال التداولات اللاحقة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "अमेरिका-चीन शिखर वार्ता के पहले दिन न्यूयॉर्क बाजार चढ़ा, डाउ-नैस्डैक 0.51% ऊपर",
-        "excerpt": "डोनाल्ड ट्रंप ने 14 तारीख को बीजिंग में शी जिनपिंग के साथ शिखर वार्ता शुरू की, जिसके बीच न्यूयॉर्क शेयर बाजार ऊंचा खुला और डाउ व नैस्डैक दोनों 0.51% चढ़े।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप 14 तारीख को बीजिंग पहुंचे और चीन के राष्ट्रपति शी जिनपिंग के साथ अमेरिका-चीन शिखर वार्ता शुरू की। इसी पहले दिन न्यूयॉर्क शेयर बाजार सामूहिक रूप से बढ़त के साथ खुला। न्यूयॉर्क स्टॉक एक्सचेंज के अनुसार, शुरुआती कारोबार में डाउ जोन्स और नैस्डैक दोनों 0.51% ऊपर रहे। यह बाजार प्रतिक्रिया दोनों देशों के नेताओं की आमने-सामने बैठक के समय सामने आई। निवेशक वार्ता के पहले दिन की दिशा और प्रमुख सूचकांकों की एक साथ बढ़त पर नजर रख रहे हैं। मूल रिपोर्ट में दिए गए आंकड़े शुरुआती कारोबार के हैं और आगे के सौदों के साथ दिन के भीतर बदल सकते हैं। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KTT AS-China Dimulai, Bursa New York Menguat; Dow dan Nasdaq Naik 0,51%",
-        "excerpt": "Donald Trump memulai pertemuan puncak dengan Xi Jinping di Beijing pada 14, sementara bursa New York dibuka menguat dengan Dow dan Nasdaq masing-masing naik 0,51%.",
-        "body": "Bursa New York dibuka menguat serempak pada hari pertama KTT Amerika Serikat-China, setelah Presiden AS Donald Trump berkunjung ke Beijing pada 14 untuk memulai pembicaraan dengan Presiden China Xi Jinping. Menurut New York Stock Exchange, indeks Dow Jones dan Nasdaq masing-masing naik 0,51% pada awal perdagangan. Reaksi pasar ini muncul bertepatan dengan pertemuan langsung para pemimpin kedua negara. Investor mencermati jalannya hari pertama pertemuan serta kenaikan bersama indeks utama. Angka dalam laporan asli merujuk pada awal sesi, sehingga pergerakan intraday masih dapat berubah mengikuti transaksi berikutnya. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "5678756ad03e",
-    "slug": "63-지방선거-후보등록-첫날-6833명-신청경쟁률-14대-1-115653",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T15:33:45.319Z",
-    "updatedAt": "2026-05-14T15:33:45.319Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12048284",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12048284",
-    "titleFingerprint": "d1845b284bf9bb981da77ab1a37dbfc9c19afb2b",
-    "dedupKeys": [
-      "5678756ad03e26fd5af0231183572e00f1dc87e9",
-      "d1845b284bf9bb981da77ab1a37dbfc9c19afb2b",
-      "28fe748d1fe7dea634dc51a37f6f548a57fcdb83"
-    ],
-    "imageUrl": "/images/articles/5678756ad03e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "6·3 지방선거 후보등록 첫날 6833명 신청, 경쟁률 1.4대 1 기록",
-        "excerpt": "6월 3일 치러지는 제9회 전국동시지방선거와 국회의원 재·보궐선거 후보자 등록 첫날인 14일 오후 9시 현재 6833명이 서류를 제출했다.",
-        "body": "오는 6월 3일 실시되는 제9회 전국동시지방선거와 국회의원 재·보궐선거 후보자 등록 첫날인 14일 오후 9시 현재 총 6833명이 등록 서류를 제출했다. 중앙선거관리위원회 집계 기준으로, 이 가운데 등록 절차를 모두 마친 인원은 일부로 집계됐다. 전체 경쟁률은 1.4대 1로 나타났다. 후보 등록 첫날부터 광역·기초 단체장, 지방의원, 재·보궐선거 출마 예정자들의 서류 접수가 이어지며 선거전이 본격화되는 흐름이다. 최종 등록 규모와 지역별 경쟁 구도는 등록 마감 이후 더 구체화될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "June 3 Local Elections See 6,833 Candidate Filings on Day One, 1.4-to-1 Race",
-        "excerpt": "As of 9 p.m. on May 14, the first day of candidate registration for South Korea’s June 3 local elections and parliamentary by-elections, 6,833 people had submitted papers.",
-        "body": "As of 9 p.m. on May 14, the first day of candidate registration for South Korea’s ninth nationwide simultaneous local elections and National Assembly by-elections scheduled for June 3, a total of 6,833 people had submitted registration documents. According to the election tally, only some of those applications had completed the full registration process at that point. The overall competition ratio stood at 1.4 to 1. The first day’s filings show the formal election process moving into full swing, with prospective candidates for local government, local councils and by-elections submitting paperwork. The final number of registered candidates and regional contests are expected to become clearer after registration closes. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "6月3日地方選、候補登録初日に6833人申請　競争率1.4倍",
-        "excerpt": "6月3日に行われる韓国の第9回全国同時地方選挙と国会議員再・補欠選挙で、登録初日の14日午後9時現在、6833人が書類を提出した。",
-        "body": "6月3日に実施される韓国の第9回全国同時地方選挙および国会議員再・補欠選挙の候補者登録初日となった14日午後9時現在、計6833人が登録書類を提出した。選挙当局の集計によると、このうち登録手続きをすべて終えた人数は一部にとどまった。全体の競争率は1.4倍だった。登録初日から広域・基礎自治体の首長、地方議員、再・補欠選挙の立候補予定者による書類提出が続き、選挙戦が本格化する流れとなっている。最終的な登録規模と地域別の競争構図は、登録締め切り後により明確になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "6月3日韩国地方选举首日6833人登记，竞争率达1.4比1",
-        "excerpt": "截至5月14日晚9时，韩国6月3日第九届全国同步地方选举及国会议员再补缺选举候选人登记首日，共有6833人提交材料。",
-        "body": "截至5月14日晚9时，定于6月3日举行的韩国第九届全国同步地方选举及国会议员再补缺选举候选人登记首日，共有6833人提交登记材料。根据选举统计，其中仅有部分人员已完成全部登记程序。整体竞争率为1.4比1。登记首日，广域和基层地方政府负责人、地方议员以及再补缺选举拟参选人陆续提交文件，显示选举进程正式加速。最终登记人数和各地区竞争格局，预计将在登记截止后进一步明确。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Elecciones locales del 3 de junio: 6.833 candidaturas el primer día, ratio 1,4 a 1",
-        "excerpt": "Hasta las 21:00 del 14 de mayo, primer día de inscripción para las elecciones locales y parciales parlamentarias de Corea del Sur del 3 de junio, 6.833 personas presentaron documentos.",
-        "body": "Hasta las 21:00 del 14 de mayo, primer día de registro de candidaturas para la novena elección local simultánea de Corea del Sur y las elecciones parciales de la Asamblea Nacional previstas para el 3 de junio, un total de 6.833 personas había presentado documentos de inscripción. Según el recuento electoral, solo una parte había completado todo el proceso de registro en ese momento. La competencia general se situó en 1,4 a 1. Las presentaciones del primer día muestran que la campaña entra en una fase más activa, con aspirantes a gobiernos locales, consejos locales y comicios parciales entregando documentación. La cifra final y el mapa regional de competencia se aclararán tras el cierre del registro. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Eleições locais de 3 de junho têm 6.833 inscrições no 1º dia, disputa de 1,4 por vaga",
-        "excerpt": "Até as 21h de 14 de maio, primeiro dia de registro para as eleições locais e suplementares parlamentares da Coreia do Sul em 3 de junho, 6.833 pessoas entregaram documentos.",
-        "body": "Até as 21h de 14 de maio, primeiro dia de registro de candidatos para a nona eleição local simultânea da Coreia do Sul e para as eleições suplementares da Assembleia Nacional marcadas para 3 de junho, um total de 6.833 pessoas havia apresentado documentos de inscrição. Segundo a apuração eleitoral, apenas parte delas tinha concluído todo o processo de registro naquele momento. A disputa geral ficou em 1,4 candidato por vaga. As inscrições do primeiro dia mostram o avanço formal da corrida eleitoral, com postulantes a governos locais, assembleias locais e eleições suplementares entregando documentação. O total final e o quadro regional de competição devem ficar mais claros após o encerramento do registro. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Südkoreas Kommunalwahl am 3. Juni: 6.833 Bewerber am ersten Tag, Quote 1,4 zu 1",
-        "excerpt": "Bis 21 Uhr am 14. Mai, dem ersten Registrierungstag für Südkoreas Kommunalwahlen und Parlamentsnachwahlen am 3. Juni, reichten 6.833 Personen Unterlagen ein.",
-        "body": "Bis 21 Uhr am 14. Mai, dem ersten Tag der Kandidatenregistrierung für Südkoreas neunte landesweite gleichzeitige Kommunalwahl und Nachwahlen zur Nationalversammlung am 3. Juni, hatten insgesamt 6.833 Personen Registrierungsunterlagen eingereicht. Nach der Wahlstatistik hatte zu diesem Zeitpunkt nur ein Teil das gesamte Verfahren abgeschlossen. Die landesweite Bewerberquote lag bei 1,4 zu 1. Die Einreichungen am ersten Tag zeigen, dass der Wahlprozess offiziell Fahrt aufnimmt, da Bewerber für lokale Exekutivämter, Kommunalparlamente und Nachwahlen ihre Unterlagen abgeben. Die endgültige Zahl der Registrierungen und die regionalen Wettbewerbsstrukturen dürften nach Ende der Registrierung klarer werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Locales du 3 juin en Corée du Sud: 6 833 dossiers au premier jour, ratio de 1,4 pour 1",
-        "excerpt": "À 21 h le 14 mai, premier jour d’inscription pour les élections locales sud-coréennes et les partielles législatives du 3 juin, 6 833 personnes avaient déposé un dossier.",
-        "body": "À 21 h le 14 mai, premier jour d’enregistrement des candidats aux neuvièmes élections locales simultanées de Corée du Sud et aux élections partielles de l’Assemblée nationale prévues le 3 juin, 6 833 personnes avaient déposé des documents d’inscription. Selon le décompte électoral, seule une partie avait alors achevé l’ensemble de la procédure. Le ratio global de concurrence s’établissait à 1,4 pour 1. Les dépôts du premier jour montrent l’entrée du scrutin dans une phase plus active, avec des candidats aux exécutifs locaux, aux assemblées locales et aux partielles remettant leurs dossiers. Le nombre final d’inscrits et les rapports de force régionaux devraient se préciser après la clôture des inscriptions. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "انتخابات 3 يونيو المحلية في كوريا الجنوبية: 6833 طلب ترشح في اليوم الأول ومنافسة 1.4 إلى 1",
-        "excerpt": "حتى الساعة 9 مساء يوم 14 مايو، أول أيام تسجيل المرشحين لانتخابات كوريا الجنوبية المحلية والانتخابات البرلمانية التكميلية في 3 يونيو، قدم 6833 شخصا أوراقهم.",
-        "body": "حتى الساعة 9 مساء يوم 14 مايو، وهو اليوم الأول لتسجيل المرشحين للانتخابات المحلية المتزامنة التاسعة في كوريا الجنوبية وللانتخابات التكميلية للجمعية الوطنية المقررة في 3 يونيو، قدم ما مجموعه 6833 شخصا وثائق التسجيل. ووفق إحصاء الانتخابات، كان جزء فقط من هؤلاء قد أكمل إجراءات التسجيل بالكامل في ذلك الوقت. وبلغ معدل المنافسة الإجمالي 1.4 إلى 1. وتظهر طلبات اليوم الأول أن العملية الانتخابية دخلت مرحلة أكثر نشاطا، مع تقديم مرشحين محتملين للمناصب المحلية والمجالس المحلية والانتخابات التكميلية أوراقهم. ومن المتوقع أن يتضح العدد النهائي للمسجلين وخريطة المنافسة الإقليمية بعد إغلاق باب التسجيل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "3 जून स्थानीय चुनाव: पहले दिन 6,833 उम्मीदवारों ने दस्तावेज जमा किए, मुकाबला 1.4:1",
-        "excerpt": "3 जून को होने वाले दक्षिण कोरिया के स्थानीय चुनावों और संसदीय उपचुनावों के लिए 14 मई रात 9 बजे तक, पंजीकरण के पहले दिन, 6,833 लोगों ने दस्तावेज जमा किए।",
-        "body": "3 जून को होने वाले दक्षिण कोरिया के नौवें राष्ट्रव्यापी समकालिक स्थानीय चुनावों और नेशनल असेंबली के उपचुनावों के लिए उम्मीदवार पंजीकरण के पहले दिन 14 मई रात 9 बजे तक कुल 6,833 लोगों ने पंजीकरण दस्तावेज जमा किए। चुनावी गणना के अनुसार, उस समय इनमें से केवल कुछ ने पूरी पंजीकरण प्रक्रिया पूरी की थी। कुल प्रतिस्पर्धा अनुपात 1.4 से 1 रहा। पहले दिन की फाइलिंग से संकेत मिलता है कि स्थानीय सरकारों, स्थानीय परिषदों और उपचुनावों के संभावित उम्मीदवारों द्वारा दस्तावेज जमा करने के साथ चुनाव प्रक्रिया औपचारिक रूप से तेज हो रही है। अंतिम पंजीकरण संख्या और क्षेत्रीय मुकाबले पंजीकरण बंद होने के बाद अधिक स्पष्ट होंगे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pemilu lokal 3 Juni: 6.833 kandidat daftar hari pertama, rasio persaingan 1,4 banding 1",
-        "excerpt": "Hingga pukul 21.00 pada 14 Mei, hari pertama pendaftaran kandidat pemilu lokal dan pemilu sela parlemen Korea Selatan pada 3 Juni, 6.833 orang menyerahkan dokumen.",
-        "body": "Hingga pukul 21.00 pada 14 Mei, hari pertama pendaftaran kandidat untuk pemilu lokal serentak nasional kesembilan Korea Selatan dan pemilu sela Majelis Nasional yang dijadwalkan pada 3 Juni, total 6.833 orang telah menyerahkan dokumen pendaftaran. Menurut penghitungan pemilu, hanya sebagian dari mereka yang telah menyelesaikan seluruh proses pendaftaran pada saat itu. Rasio persaingan keseluruhan tercatat 1,4 banding 1. Pengajuan pada hari pertama menunjukkan proses pemilu mulai berjalan lebih aktif, dengan calon untuk pemerintahan daerah, dewan lokal, dan pemilu sela menyerahkan berkas. Jumlah akhir pendaftar dan peta persaingan regional diperkirakan menjadi lebih jelas setelah pendaftaran ditutup. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e20f96748062",
-    "slug": "미중정상회담-씬-스틸러는-머스크-부자트럼프-등장-땐-까치-날아들기도-346148",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T15:32:35.432Z",
-    "updatedAt": "2026-05-14T15:32:35.433Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12048303",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12048303",
-    "titleFingerprint": "3b1a7b8abe952b433d625fe2211cd93eafb15320",
-    "dedupKeys": [
-      "e20f9674806272092c0a5e4be0bd768447436afd",
-      "3b1a7b8abe952b433d625fe2211cd93eafb15320",
-      "e4dbe2c341d84a7bb450480cd1f83de244f38392"
-    ],
-    "imageUrl": "/images/articles/e20f96748062.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미중 정상회담 포착된 머스크 부자와 까치, 트럼프 방중 행사 이목 집중",
-        "excerpt": "도널드 트럼프 미국 대통령의 9년 만의 중국 방문 중 14일 시진핑 주석과의 공식 행사장에서 머스크 부자와 고위 관료, 기업인들이 카메라에 포착됐다.",
-        "body": "도널드 트럼프 미국 대통령의 9년 만의 중국 방문 일정에서 14일 시진핑 중국 국가주석과 관련한 공식 행사장이 예상 밖 장면으로 주목받았다. 수행단에 포함된 고위급 관료와 슈퍼스타급 기업인들이 행사장 곳곳에서 카메라에 잡혔고, 특히 머스크 부자로 언급된 인물들이 시선을 끌었다. 트럼프 대통령이 등장하는 순간에는 까치가 날아드는 장면도 포착됐다. 이번 장면들은 미중 정상회담이라는 외교 이벤트의 무게감과 함께, 수행 인사들의 존재감이 별도 화제로 번진 사례로 읽힌다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Musk Family and a Magpie Draw Attention During Trump’s China Visit",
-        "excerpt": "During U.S. President Donald Trump’s first China visit in nine years, cameras captured senior officials, star business figures and the Musk family at official events on the 14th.",
-        "body": "During U.S. President Donald Trump’s first visit to China in nine years, official events linked to Chinese President Xi Jinping on the 14th drew attention for unexpected scenes. Senior officials accompanying Trump and superstar-level business figures were caught by cameras throughout the venue, with figures described as the Musk family drawing particular notice. A magpie was also seen flying in as Trump appeared. The moments added a separate visual focus to the diplomatic weight of the U.S.-China summit, highlighting the presence of the delegation and business figures around the formal schedule. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "米中首脳会談で注目されたマスク親子とカササギ、トランプ訪中の一幕",
-        "excerpt": "ドナルド・トランプ米大統領の9年ぶりの中国訪問で、14日の公式行事に同行高官や著名企業人、マスク親子がカメラに捉えられた。",
-        "body": "ドナルド・トランプ米大統領の9年ぶりとなる中国訪問日程で、14日に習近平中国国家主席と関連する公式行事の会場が予想外の場面で注目を集めた。同行した高官やスーパースター級の企業人が会場の各所でカメラに捉えられ、特にマスク親子として言及された人物に視線が集まった。トランプ大統領が登場した瞬間には、カササギが飛び込む様子も映された。これらの場面は、米中首脳会談という外交イベントの重みとともに、同行者の存在感が別の話題として広がった事例といえる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "中美元首会晤现场的马斯克父子与喜鹊，特朗普访华引关注",
-        "excerpt": "美国总统唐纳德·特朗普时隔9年访华期间，14日官方活动现场拍到高级官员、明星企业家以及被称为马斯克父子的人物。",
-        "body": "美国总统唐纳德·特朗普时隔9年访问中国的行程中，14日与中国国家主席习近平相关的官方活动现场因意外画面受到关注。随行的高级官员和超级明星级企业人士在会场多处被镜头捕捉，其中被提到为马斯克父子的人物尤其吸引视线。特朗普总统登场时，还出现了喜鹊飞入画面的场景。这些画面在中美元首会晤这一外交事件的分量之外，也让随行人士的存在感成为另一个话题。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La familia Musk y una urraca acaparan miradas en la visita de Trump a China",
-        "excerpt": "Durante la primera visita a China en nueve años del presidente estadounidense Donald Trump, cámaras captaron el día 14 a altos funcionarios, empresarios estrella y la familia Musk.",
-        "body": "Durante la primera visita a China en nueve años del presidente estadounidense Donald Trump, los actos oficiales vinculados al presidente chino Xi Jinping el día 14 llamaron la atención por escenas inesperadas. Altos funcionarios de la comitiva y empresarios de nivel superestrella fueron captados por las cámaras en distintos puntos del recinto, con especial interés en las figuras mencionadas como la familia Musk. También se registró una urraca entrando en escena cuando apareció Trump. Estos momentos añadieron un foco visual separado al peso diplomático de la cumbre entre Estados Unidos y China. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Família Musk e uma pega chamam atenção na visita de Trump à China",
-        "excerpt": "Na primeira visita à China em nove anos do presidente dos EUA, Donald Trump, câmeras registraram no dia 14 autoridades, empresários de destaque e a família Musk em atos oficiais.",
-        "body": "Na primeira visita à China em nove anos do presidente dos Estados Unidos, Donald Trump, os eventos oficiais ligados ao presidente chinês Xi Jinping no dia 14 chamaram atenção por cenas inesperadas. Autoridades de alto escalão que acompanhavam a comitiva e empresários de nível superestrela foram captados por câmeras em vários pontos do local, com destaque para figuras mencionadas como a família Musk. No momento em que Trump apareceu, uma pega também foi vista entrando em cena. As imagens somaram um foco paralelo ao peso diplomático da cúpula EUA-China. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Musk-Familie und Elster im Fokus bei Trumps China-Besuch",
-        "excerpt": "Beim ersten China-Besuch von US-Präsident Donald Trump seit neun Jahren zeigten Kameras am 14. hochrangige Beamte, bekannte Unternehmer und die Musk-Familie bei offiziellen Terminen.",
-        "body": "Beim ersten China-Besuch von US-Präsident Donald Trump seit neun Jahren sorgten offizielle Termine im Zusammenhang mit Chinas Staatspräsident Xi Jinping am 14. für unerwartete Aufmerksamkeit. Hochrangige Beamte der Delegation und Unternehmer mit Superstar-Status wurden an verschiedenen Stellen des Veranstaltungsorts von Kameras erfasst, besonders die als Musk-Familie bezeichneten Personen. Als Trump erschien, wurde zudem eine einfliegende Elster aufgenommen. Die Szenen ergänzten das diplomatische Gewicht des US-chinesischen Gipfels um einen eigenen visuellen Gesprächspunkt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La famille Musk et une pie remarquées pendant la visite de Trump en Chine",
-        "excerpt": "Lors de la première visite en Chine depuis neuf ans du président américain Donald Trump, des caméras ont filmé le 14 des hauts responsables, des grands patrons et la famille Musk.",
-        "body": "Lors de la première visite en Chine depuis neuf ans du président américain Donald Trump, les événements officiels liés au président chinois Xi Jinping, le 14, ont attiré l’attention par des scènes inattendues. Des hauts responsables accompagnant la délégation et des chefs d’entreprise de rang superstar ont été captés par les caméras à divers endroits, avec un intérêt particulier pour les personnes décrites comme la famille Musk. Une pie a également été vue entrant dans le champ au moment de l’arrivée de Trump. Ces images ont ajouté un sujet visuel distinct au poids diplomatique du sommet sino-américain. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "عائلة ماسك وعقعق يخطفان الانتباه خلال زيارة ترامب إلى الصين",
-        "excerpt": "خلال أول زيارة للرئيس الأميركي دونالد ترامب إلى الصين منذ تسع سنوات، التقطت الكاميرات في 14 الشهر مسؤولين كبارا ورجال أعمال بارزين وعائلة ماسك في فعاليات رسمية.",
-        "body": "خلال أول زيارة للرئيس الأميركي دونالد ترامب إلى الصين منذ تسع سنوات، لفتت الفعاليات الرسمية المرتبطة بالرئيس الصيني شي جين بينغ في 14 الشهر الانتباه بمشاهد غير متوقعة. فقد ظهرت في لقطات الكاميرات شخصيات من كبار المسؤولين المرافقين ورجال أعمال بمستوى نجومية عال في أنحاء موقع الحدث، وكان التركيز خاصا على شخصيات وُصفت بأنها عائلة ماسك. كما التُقط مشهد لعقعق يطير إلى المكان لحظة ظهور ترامب. أضافت هذه اللقطات محور اهتمام بصريا إلى الثقل الدبلوماسي لقمة الولايات المتحدة والصين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ट्रंप की चीन यात्रा में मस्क परिवार और मैगपाई ने खींचा ध्यान",
-        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नौ साल बाद चीन यात्रा के दौरान 14 तारीख के आधिकारिक कार्यक्रमों में वरिष्ठ अधिकारी, बड़े कारोबारी और मस्क परिवार कैमरों में दिखे।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नौ साल बाद चीन यात्रा के दौरान 14 तारीख को चीनी राष्ट्रपति शी जिनपिंग से जुड़े आधिकारिक कार्यक्रम अप्रत्याशित दृश्यों के कारण चर्चा में रहे। ट्रंप के साथ आए वरिष्ठ अधिकारी और सुपरस्टार स्तर के कारोबारी कार्यक्रम स्थल के अलग-अलग हिस्सों में कैमरों में कैद हुए, जिनमें मस्क परिवार के रूप में उल्लेखित व्यक्तियों ने खास ध्यान खींचा। ट्रंप के प्रवेश के समय एक मैगपाई के उड़कर आने का दृश्य भी रिकॉर्ड हुआ। इन दृश्यों ने अमेरिका-चीन शिखर बैठक के कूटनीतिक महत्व के साथ-साथ प्रतिनिधिमंडल की उपस्थिति को अलग चर्चा बना दिया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Keluarga Musk dan Burung Magpie Jadi Sorotan Saat Trump ke China",
-        "excerpt": "Dalam kunjungan Presiden AS Donald Trump ke China setelah sembilan tahun, kamera pada tanggal 14 menangkap pejabat tinggi, pengusaha ternama, dan keluarga Musk di acara resmi.",
-        "body": "Dalam kunjungan Presiden Amerika Serikat Donald Trump ke China setelah sembilan tahun, acara resmi yang terkait dengan Presiden China Xi Jinping pada tanggal 14 menarik perhatian karena sejumlah adegan tak terduga. Pejabat tinggi dalam rombongan dan pengusaha berkelas superstar tertangkap kamera di berbagai titik lokasi acara, terutama sosok yang disebut sebagai keluarga Musk. Saat Trump muncul, seekor burung magpie juga terlihat terbang masuk ke area tersebut. Momen-momen ini menambah fokus visual tersendiri di tengah bobot diplomatik KTT Amerika Serikat-China. Sumber: mk.co.kr"
       }
     }
   }
