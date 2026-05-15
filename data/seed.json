@@ -1,5 +1,230 @@
 [
   {
+    "id": "871580a993f7",
+    "slug": "애플은-안-뚫립니다-5일뒤-뚫렸다최악의-ai해커-만든-앤스로픽-352854",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T23:33:22.300Z",
+    "updatedAt": "2026-05-15T23:33:22.300Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12049902",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12049902",
+    "titleFingerprint": "1e0b07d42dd383585c02186638b349599ec8c0cc",
+    "dedupKeys": [
+      "871580a993f737f6e14e64d2a10c3ce144a41f7e",
+      "1e0b07d42dd383585c02186638b349599ec8c0cc",
+      "7a9eaa3e4747d6767636e58b42aa0fd8358c5e29"
+    ],
+    "imageUrl": "/images/articles/871580a993f7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "애플 맥OS 보안, AI 해킹 코드에 5일 만에 우회 정황",
+        "excerpt": "미국 보안업체 테스트에서 앤스로픽의 미토스를 활용해 애플 최신 보안 기술로 보호되던 맥OS용 해킹 우회 코드가 단 5일 만에 만들어진 것으로 전해졌다.",
+        "body": "미국 보안업체의 테스트 과정에서 애플의 최신 보안 기술로 보호되던 맥OS를 겨냥한 해킹 우회 코드가 인공지능(AI)을 활용해 만들어진 것으로 전해졌다. 원문에 따르면 이 과정에는 앤스로픽의 미토스가 활용됐고, 코드 작성에 걸린 시간은 단 5일이었다. 앞서 “애플은 안 뚫립니다”라는 평가가 있었지만, 이번 사례는 최신 보안 체계도 AI 기반 공격 시도 앞에서 우회 가능성이 드러날 수 있음을 보여준다. 구체적인 피해 발생 여부나 실제 공격 확산에 대한 내용은 원문에 제시되지 않았다. 보안업계는 AI가 방어뿐 아니라 취약점 탐색과 우회 코드 작성에도 쓰일 수 있다는 점에 주목할 전망이다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "Apple macOS Security Reportedly Bypassed by AI Hacking Code in 5 Days",
+        "excerpt": "A U.S. security firm reportedly used Anthropic’s Mythos in testing to create macOS hacking bypass code in just five days against Apple’s latest security protections.",
+        "body": "During testing by a U.S. security firm, hacking bypass code targeting macOS, which was protected by Apple’s latest security technology, was reportedly created using artificial intelligence. According to the original report, Anthropic’s Mythos was used in the process, and the code took only five days to produce. The case followed claims that “Apple cannot be breached,” but it shows that even the latest security systems may reveal bypass possibilities when faced with AI-based attack attempts. The original report did not state whether concrete damage occurred or whether the technique had spread into real attacks. Security experts are expected to watch how AI can be used not only for defense but also for vulnerability discovery and bypass-code generation. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "AppleのmacOS保護、AIハッキングコードで5日後に迂回か",
+        "excerpt": "米国のセキュリティ企業のテストで、Anthropicのミトスを使い、Appleの最新保護技術で守られたmacOS向けのハッキング迂回コードが5日で作られたと伝えられた。",
+        "body": "米国のセキュリティ企業によるテストの過程で、Appleの最新セキュリティ技術に守られていたmacOSを対象にしたハッキング迂回コードが、人工知能（AI）を使って作成されたと伝えられた。原文によると、この過程ではAnthropicのミトスが使われ、コード作成にかかった時間はわずか5日だった。これに先立ち「Appleは突破されない」との評価があったが、今回の事例は最新の保護体制でもAIを用いた攻撃の試みを前に迂回可能性が表面化し得ることを示す。具体的な被害の発生や実際の攻撃拡散については原文で示されていない。セキュリティ業界は、AIが防御だけでなく脆弱性探索や迂回コード作成にも使われ得る点に注目するとみられる。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "苹果macOS最新安全防护，被AI黑客代码5天内绕过迹象",
+        "excerpt": "据称，美国安全公司在测试中使用Anthropic的Mythos，仅用5天就生成了针对苹果最新安全技术保护下macOS的黑客绕过代码。",
+        "body": "据报道，在一家美国安全公司的测试过程中，针对由苹果最新安全技术保护的macOS，研究人员借助人工智能生成了黑客绕过代码。原文称，该过程中使用了Anthropic的Mythos，代码生成仅耗时5天。此前曾有“苹果不会被攻破”的说法，但这一案例显示，即便是最新安全体系，在AI驱动的攻击尝试面前也可能暴露出被绕过的可能。原文未说明是否已造成具体损害，也未提及该方法是否扩散为实际攻击。安全行业预计将关注AI不仅可用于防御，也可能被用于漏洞发现和绕过代码编写。来源：引用mk.co.kr。"
+      },
+      "es": {
+        "title": "Seguridad de macOS de Apple, sorteada por código hacker con IA en 5 días",
+        "excerpt": "Una firma de seguridad de EE. UU. habría usado Mythos de Anthropic en pruebas para crear en solo cinco días código de evasión contra macOS protegido por la última tecnología de Apple.",
+        "body": "Durante una prueba de una firma de seguridad de Estados Unidos, se habría creado con inteligencia artificial un código de evasión de hacking dirigido a macOS, protegido por la tecnología de seguridad más reciente de Apple. Según el texto original, en el proceso se utilizó Mythos de Anthropic y la creación del código tomó solo cinco días. Aunque antes se afirmaba que “Apple no puede ser vulnerada”, este caso muestra que incluso los sistemas de seguridad más recientes pueden revelar posibilidades de evasión ante intentos de ataque basados en IA. El original no indica si hubo daños concretos ni si la técnica se extendió a ataques reales. El sector de ciberseguridad seguirá observando cómo la IA puede usarse no solo para defensa, sino también para descubrir vulnerabilidades y escribir código de evasión. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Segurança do macOS da Apple teria sido contornada por código de IA em 5 dias",
+        "excerpt": "Uma empresa de segurança dos EUA teria usado o Mythos da Anthropic em testes para criar, em apenas cinco dias, código de contorno contra o macOS protegido pela tecnologia mais recente da Apple.",
+        "body": "Durante testes conduzidos por uma empresa de segurança dos Estados Unidos, teria sido criado com inteligência artificial um código de contorno de hacking voltado ao macOS, protegido pela tecnologia de segurança mais recente da Apple. Segundo o texto original, o processo usou o Mythos da Anthropic e levou apenas cinco dias para gerar o código. Embora antes se dissesse que “a Apple não é invadida”, o caso mostra que até sistemas de segurança recentes podem revelar possibilidades de contorno diante de tentativas de ataque baseadas em IA. O original não informa se houve danos concretos nem se a técnica se espalhou em ataques reais. O setor de segurança deve observar como a IA pode ser usada não só na defesa, mas também na busca de vulnerabilidades e na criação de códigos de contorno. Fonte: citação de mk.co.kr."
+      },
+      "de": {
+        "title": "Apple-macOS-Schutz offenbar in 5 Tagen durch KI-Hackingcode umgangen",
+        "excerpt": "Eine US-Sicherheitsfirma soll in Tests mit Anthropics Mythos in nur fünf Tagen Umgehungscode für macOS erstellt haben, das durch Apples neueste Sicherheitstechnik geschützt war.",
+        "body": "Bei Tests eines US-Sicherheitsunternehmens wurde Berichten zufolge mithilfe künstlicher Intelligenz ein Hacking-Umgehungscode für macOS erstellt, das durch Apples neueste Sicherheitstechnologie geschützt war. Dem Originalbericht zufolge kam dabei Anthropics Mythos zum Einsatz; die Erstellung des Codes dauerte nur fünf Tage. Zuvor hatte es die Einschätzung gegeben, „Apple lässt sich nicht knacken“. Der Fall zeigt jedoch, dass selbst aktuelle Sicherheitssysteme bei KI-basierten Angriffsversuchen mögliche Umgehungswege offenbaren können. Ob konkrete Schäden entstanden sind oder ob sich die Methode in realen Angriffen verbreitet hat, geht aus dem Original nicht hervor. Die Sicherheitsbranche dürfte verstärkt darauf achten, dass KI nicht nur zur Verteidigung, sondern auch zur Schwachstellensuche und zur Erstellung von Umgehungscode genutzt werden kann. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "La sécurité de macOS d’Apple contournée par un code IA en 5 jours selon un test",
+        "excerpt": "Une société américaine de sécurité aurait utilisé Mythos d’Anthropic lors d’un test pour créer en cinq jours un code de contournement visant macOS protégé par les dernières technologies d’Apple.",
+        "body": "Lors d’un test mené par une société américaine de sécurité, un code de contournement de piratage visant macOS, pourtant protégé par la technologie de sécurité la plus récente d’Apple, aurait été créé grâce à l’intelligence artificielle. Selon le texte original, Mythos d’Anthropic a été utilisé dans ce processus, et la création du code n’a pris que cinq jours. Alors que l’idée selon laquelle « Apple ne peut pas être percé » circulait auparavant, ce cas montre que même les dispositifs de sécurité les plus récents peuvent révéler des possibilités de contournement face à des tentatives d’attaque basées sur l’IA. Le texte original ne précise pas s’il y a eu des dommages concrets ni si la méthode s’est diffusée dans de véritables attaques. Le secteur de la sécurité devrait surveiller l’usage de l’IA non seulement pour la défense, mais aussi pour la recherche de failles et la création de codes de contournement. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "أمن macOS من آبل يواجه كود اختراق بالذكاء الاصطناعي خلال 5 أيام",
+        "excerpt": "أفادت تقارير بأن شركة أمنية أمريكية استخدمت Mythos من Anthropic في اختبار لإنشاء كود التفاف يستهدف macOS المحمي بأحدث تقنيات آبل خلال خمسة أيام فقط.",
+        "body": "خلال اختبار أجرته شركة أمنية أمريكية، أُفيد بأنه تم إنشاء كود التفاف للاختراق يستهدف نظام macOS المحمي بأحدث تقنيات الأمن من آبل، وذلك باستخدام الذكاء الاصطناعي. ووفق النص الأصلي، استُخدم في العملية نموذج Mythos من Anthropic، ولم يستغرق إعداد الكود سوى خمسة أيام. وبعدما وُصفت آبل سابقا بأنها “لا تُخترق”، تُظهر هذه الحالة أن حتى أنظمة الحماية الحديثة قد تكشف عن إمكانات للتجاوز أمام محاولات هجوم قائمة على الذكاء الاصطناعي. ولم يذكر النص الأصلي ما إذا كانت هناك أضرار محددة أو ما إذا كانت التقنية قد انتشرت في هجمات فعلية. ومن المتوقع أن يركز قطاع الأمن على أن الذكاء الاصطناعي قد يُستخدم ليس فقط في الدفاع، بل أيضا في البحث عن الثغرات وكتابة أكواد الالتفاف. المصدر: نقلا عن mk.co.kr."
+      },
+      "hi": {
+        "title": "Apple macOS सुरक्षा पर AI हैकिंग कोड से 5 दिन में बायपास के संकेत",
+        "excerpt": "अमेरिकी सुरक्षा कंपनी के परीक्षण में Anthropic के Mythos का इस्तेमाल कर Apple की नवीनतम सुरक्षा तकनीक से सुरक्षित macOS के लिए हैकिंग बायपास कोड केवल पांच दिन में बनने की बात सामने आई।",
+        "body": "अमेरिका की एक सुरक्षा कंपनी के परीक्षण के दौरान Apple की नवीनतम सुरक्षा तकनीक से सुरक्षित macOS को निशाना बनाने वाला हैकिंग बायपास कोड कृत्रिम बुद्धिमत्ता के उपयोग से बनाए जाने की बात सामने आई। मूल रिपोर्ट के अनुसार, इस प्रक्रिया में Anthropic के Mythos का इस्तेमाल हुआ और कोड तैयार करने में सिर्फ पांच दिन लगे। पहले “Apple में सेंध नहीं लगती” जैसी धारणा सामने थी, लेकिन यह मामला दिखाता है कि नवीनतम सुरक्षा व्यवस्था भी AI आधारित हमले के प्रयासों के सामने बायपास की संभावना उजागर कर सकती है। मूल रिपोर्ट में किसी ठोस नुकसान या वास्तविक हमलों में इसके फैलने की जानकारी नहीं दी गई। सुरक्षा उद्योग इस बात पर ध्यान देगा कि AI का उपयोग केवल बचाव में नहीं, बल्कि कमजोरियां खोजने और बायपास कोड लिखने में भी हो सकता है। स्रोत: mk.co.kr से उद्धृत."
+      },
+      "id": {
+        "title": "Keamanan macOS Apple Disebut Dilewati Kode Peretasan AI dalam 5 Hari",
+        "excerpt": "Dalam uji coba perusahaan keamanan AS, Mythos dari Anthropic disebut digunakan untuk membuat kode bypass peretasan macOS yang dilindungi teknologi keamanan terbaru Apple hanya dalam lima hari.",
+        "body": "Dalam proses pengujian oleh sebuah perusahaan keamanan Amerika Serikat, kode bypass peretasan yang menargetkan macOS, yang dilindungi teknologi keamanan terbaru Apple, disebut dibuat dengan bantuan kecerdasan buatan. Menurut naskah asli, proses itu menggunakan Mythos dari Anthropic, dan pembuatan kodenya hanya memakan waktu lima hari. Sebelumnya ada penilaian bahwa “Apple tidak bisa ditembus”, tetapi kasus ini menunjukkan bahwa sistem keamanan terbaru pun dapat memperlihatkan kemungkinan bypass saat menghadapi upaya serangan berbasis AI. Naskah asli tidak menyebutkan adanya kerugian konkret atau penyebaran teknik ini dalam serangan nyata. Industri keamanan diperkirakan akan mencermati bagaimana AI dapat digunakan bukan hanya untuk pertahanan, tetapi juga untuk menemukan kerentanan dan membuat kode bypass. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "d399d35dec9f",
+    "slug": "단독-한국산-철근-없인-ai-못돌린다美-데이터센터-뼈대로-화려한-부활-552563",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T23:32:22.305Z",
+    "updatedAt": "2026-05-15T23:32:22.305Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049903",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049903",
+    "titleFingerprint": "d3ca54e7f5d0371f4a94eec4b1df56269ac7fbd9",
+    "dedupKeys": [
+      "d399d35dec9ff7e18fc1d24ec96512dea5f9c937",
+      "d3ca54e7f5d0371f4a94eec4b1df56269ac7fbd9",
+      "f30ed267fbe7e2f220aba6df2f385756934ab3ac"
+    ],
+    "imageUrl": "/images/articles/d399d35dec9f.png",
+    "i18n": {
+      "ko": {
+        "title": "한국산 철근, 미국 데이터센터 수요 타고 대미 철강수출 10년 만에 최대",
+        "excerpt": "한국 철강업계가 4월 미국 데이터센터 건설 수요와 중국 철강사 감산 영향 속에 대미 철강수출을 40만t까지 늘리며 10년 만의 최대 흐름을 보였다.",
+        "body": "한국 철강업계가 4월 미국으로 40만t의 철강을 수출하며 대미 철강수출이 10년 만에 최대 수준으로 늘었다. 50% 관세 장벽에도 미국 데이터센터 건설에 필요한 철강 수요가 커진 영향이다. 특히 그동안 업계의 ‘골칫덩이’로 꼽히던 철근 수출이 11배 증가하며 흐름을 주도했다. 중국 철강사들의 감산 여파도 한국산 철강 수요 확대에 일부 작용했다. 이 같은 수출 회복세 속에 현대제철은 1분기 흑자 전환에 성공했다. 미국 데이터센터 투자가 이어지는 가운데 한국 철강업계의 수출 회복 여부가 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean Rebar Rides U.S. Data Center Demand as Steel Exports Hit 10-Year High",
+        "excerpt": "Korean steelmakers saw April exports to the U.S. surge to 400,000 tons, supported by data center construction demand and production cuts by Chinese steel firms.",
+        "body": "Korean steelmakers exported 400,000 tons of steel to the United States in April, lifting U.S.-bound steel shipments to their highest level in 10 years. The increase came despite a 50% tariff barrier, as demand grew for steel used in U.S. data center construction. Rebar, long viewed as a troublesome product for the industry, led the rebound with exports rising elevenfold. Production cuts by Chinese steelmakers also contributed in part to stronger demand for Korean steel. Amid this export recovery, Hyundai Steel returned to profit in the first quarter. As U.S. data center investment continues, attention is turning to whether Korea’s steel industry can sustain the export recovery. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国産鉄筋、米データセンター需要で対米鉄鋼輸出が10年ぶり最大",
+        "excerpt": "韓国鉄鋼業界は4月、米データセンター建設需要と中国鉄鋼メーカーの減産を背景に、対米輸出を40万トンまで拡大した。",
+        "body": "韓国鉄鋼業界は4月、米国向けに40万トンの鉄鋼を輸出し、対米鉄鋼輸出は10年ぶりの最大水準となった。50％の関税障壁にもかかわらず、米国のデータセンター建設に必要な鉄鋼需要が拡大したことが背景にある。特に、これまで業界の「悩みの種」とされてきた鉄筋の輸出が11倍に増え、回復を主導した。中国鉄鋼メーカーの減産の影響も、韓国産鉄鋼の需要拡大に一部寄与した。こうした輸出回復の中、現代製鉄は第1四半期に黒字転換した。米国のデータセンター投資が続く中、韓国鉄鋼業界の輸出回復が持続するか注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国钢筋借美国数据中心需求复苏，对美钢铁出口创10年新高",
+        "excerpt": "韩国钢铁业4月对美出口增至40万吨，在美国数据中心建设需求和中国钢企减产影响下，出口呈现快速增长。",
+        "body": "韩国钢铁业4月向美国出口40万吨钢铁，使对美钢铁出口增至10年来最高水平。尽管面临50%的关税壁垒，美国数据中心建设所需钢材需求扩大，推动了出口增长。尤其是此前被行业视为“难题”的钢筋出口增加了11倍，成为主要拉动力。中国钢铁企业减产的影响，也在一定程度上推高了韩国钢材需求。在这一出口复苏背景下，现代制铁第一季度实现扭亏为盈。随着美国数据中心投资持续，韩国钢铁业能否延续出口恢复势头受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El corrugado coreano impulsa exportaciones de acero a EE. UU. por demanda de centros de datos",
+        "excerpt": "La siderurgia surcoreana elevó en abril sus exportaciones a EE. UU. a 400.000 toneladas, apoyada por centros de datos y recortes de producción en China.",
+        "body": "La industria siderúrgica surcoreana exportó en abril 400.000 toneladas de acero a Estados Unidos, llevando los envíos a ese mercado a su nivel más alto en 10 años. El aumento se produjo pese a una barrera arancelaria del 50%, impulsado por la demanda de acero para la construcción de centros de datos en EE. UU. En particular, el corrugado, considerado durante años un producto problemático para el sector, lideró la recuperación con un aumento de 11 veces en las exportaciones. Los recortes de producción de las siderúrgicas chinas también contribuyeron parcialmente a la mayor demanda de acero coreano. En este contexto, Hyundai Steel volvió a beneficios en el primer trimestre. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Vergalhão coreano ganha força com data centers dos EUA e exportação de aço atinge máxima",
+        "excerpt": "A siderurgia sul-coreana exportou 400 mil toneladas aos EUA em abril, puxada pela demanda de data centers e por cortes de produção de fabricantes chinesas.",
+        "body": "A indústria siderúrgica da Coreia do Sul exportou 400 mil toneladas de aço para os Estados Unidos em abril, levando os embarques ao maior nível em 10 anos. A alta ocorreu apesar da barreira tarifária de 50%, com o aumento da demanda por aço usado na construção de data centers nos EUA. Em especial, o vergalhão, antes visto como um problema para o setor, liderou a recuperação com exportações 11 vezes maiores. Os cortes de produção das siderúrgicas chinesas também ajudaram parcialmente a elevar a demanda pelo aço coreano. Nesse cenário de recuperação das exportações, a Hyundai Steel voltou ao lucro no primeiro trimestre. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreanischer Betonstahl profitiert von US-Rechenzentren, Stahlexporte auf 10-Jahres-Hoch",
+        "excerpt": "Koreas Stahlbranche steigerte ihre US-Ausfuhren im April auf 400.000 Tonnen, gestützt durch Rechenzentren und Produktionskürzungen chinesischer Stahlfirmen.",
+        "body": "Die südkoreanische Stahlindustrie exportierte im April 400.000 Tonnen Stahl in die USA und erreichte damit bei den US-Lieferungen den höchsten Stand seit 10 Jahren. Der Anstieg erfolgte trotz einer Zollbarriere von 50%, da die Nachfrage nach Stahl für den Bau amerikanischer Rechenzentren zunahm. Besonders Betonstahl, der in der Branche lange als Problemprodukt galt, führte die Erholung mit einem elffachen Exportanstieg an. Auch Produktionskürzungen chinesischer Stahlhersteller trugen teilweise zur höheren Nachfrage nach koreanischem Stahl bei. In diesem Umfeld kehrte Hyundai Steel im ersten Quartal in die Gewinnzone zurück. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’acier d’armature coréen porté par les data centers américains, exportations au plus haut",
+        "excerpt": "La sidérurgie sud-coréenne a porté en avril ses exportations vers les États-Unis à 400.000 tonnes, soutenue par les data centers et la baisse de production chinoise.",
+        "body": "L’industrie sidérurgique sud-coréenne a exporté 400.000 tonnes d’acier vers les États-Unis en avril, portant les expéditions vers ce marché à leur plus haut niveau en 10 ans. Cette hausse intervient malgré une barrière douanière de 50%, grâce à la demande d’acier utilisé dans la construction de data centers américains. L’acier d’armature, longtemps considéré comme un produit problématique pour le secteur, a mené le rebond avec des exportations multipliées par 11. Les réductions de production des sidérurgistes chinois ont aussi contribué en partie à la demande accrue d’acier coréen. Dans ce contexte, Hyundai Steel est redevenu bénéficiaire au premier trimestre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "حديد التسليح الكوري ينتعش مع طلب مراكز البيانات الأميركية وصادرات الصلب تبلغ ذروة عقد",
+        "excerpt": "رفعت صناعة الصلب الكورية صادراتها إلى الولايات المتحدة في أبريل إلى 400 ألف طن بدعم من بناء مراكز البيانات وخفض إنتاج شركات الصلب الصينية.",
+        "body": "صدرت صناعة الصلب الكورية الجنوبية 400 ألف طن من الصلب إلى الولايات المتحدة في أبريل، لترتفع الصادرات المتجهة إلى السوق الأميركية إلى أعلى مستوى لها منذ 10 سنوات. وجاءت الزيادة رغم حاجز الرسوم الجمركية البالغ 50%، مع نمو الطلب على الصلب اللازم لبناء مراكز البيانات في الولايات المتحدة. وقاد حديد التسليح، الذي كان يعد منتجا مزعجا للقطاع، هذا التعافي بعد أن زادت صادراته 11 مرة. كما ساهم خفض الإنتاج لدى شركات الصلب الصينية جزئيا في زيادة الطلب على الصلب الكوري. وفي ظل هذا التعافي، تحولت هيونداي ستيل إلى الربحية في الربع الأول. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई सरिया को अमेरिकी डेटा सेंटर मांग का सहारा, स्टील निर्यात 10 साल के शिखर पर",
+        "excerpt": "दक्षिण कोरियाई स्टील उद्योग ने अप्रैल में अमेरिका को निर्यात 4 लाख टन तक बढ़ाया, जिसे डेटा सेंटर निर्माण मांग और चीनी कंपनियों की उत्पादन कटौती से समर्थन मिला।",
+        "body": "दक्षिण कोरिया के स्टील उद्योग ने अप्रैल में अमेरिका को 4 लाख टन स्टील निर्यात किया, जिससे अमेरिका को होने वाला स्टील निर्यात 10 साल के उच्चतम स्तर पर पहुंच गया। 50% शुल्क बाधा के बावजूद यह वृद्धि अमेरिकी डेटा सेंटर निर्माण में इस्तेमाल होने वाले स्टील की बढ़ती मांग से आई। खासकर सरिया, जिसे लंबे समय से उद्योग की समस्या माना जाता था, निर्यात में 11 गुना वृद्धि के साथ इस सुधार का प्रमुख कारण बना। चीनी स्टील कंपनियों की उत्पादन कटौती ने भी कोरियाई स्टील की मांग बढ़ाने में आंशिक भूमिका निभाई। इसी निर्यात सुधार के बीच Hyundai Steel पहली तिमाही में मुनाफे में लौट आई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Besi Beton Korea Terangkat Permintaan Data Center AS, Ekspor Baja Tertinggi 10 Tahun",
+        "excerpt": "Industri baja Korea Selatan pada April menaikkan ekspor ke AS menjadi 400.000 ton, didorong permintaan konstruksi data center dan pemangkasan produksi baja China.",
+        "body": "Industri baja Korea Selatan mengekspor 400.000 ton baja ke Amerika Serikat pada April, membuat pengiriman baja ke AS mencapai level tertinggi dalam 10 tahun. Kenaikan ini terjadi meski ada hambatan tarif 50%, karena permintaan baja untuk pembangunan data center di AS meningkat. Terutama besi beton, yang selama ini dianggap sebagai produk bermasalah bagi industri, memimpin pemulihan dengan ekspor naik 11 kali lipat. Dampak pemangkasan produksi oleh perusahaan baja China juga turut mendorong permintaan terhadap baja Korea. Dalam pemulihan ekspor ini, Hyundai Steel berhasil berbalik untung pada kuartal pertama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7d05adb3115f",
+    "slug": "박수현-역사-다시-쓸-것-김태흠-추진력-있다-877606",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T23:31:28.160Z",
+    "updatedAt": "2026-05-15T23:31:28.160Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12049743",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12049743",
+    "titleFingerprint": "5602e54c9afeac7f59d142f7dc5a902f7c4a5305",
+    "dedupKeys": [
+      "7d05adb3115f9771453d35e65a1a18862a577dde",
+      "5602e54c9afeac7f59d142f7dc5a902f7c4a5305",
+      "3437f62fc3a3b6d8ac947c310f1731d9982df683"
+    ],
+    "imageUrl": "/images/articles/7d05adb3115f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "충남지사 선거 민심, 박수현·김태흠 지지 팽팽…부여 변화 기대도",
+        "excerpt": "6·3 지방선거를 앞두고 충남도지사 선거에서 민주당 박수현 후보와 국민의힘 김태흠 후보 지지가 팽팽한 가운데, 보수 강세 지역 부여에서도 변화 기대감이 감지됐다.",
+        "body": "6·3 지방선거를 앞두고 충남도지사 선거 민심은 민주당 박수현 후보와 국민의힘 김태흠 후보를 두고 팽팽하게 갈리는 모습이다. 원문은 박 후보에 대해 “역사를 다시 쓸 것”이라는 기대와 김 후보에 대해 “추진력이 있다”는 평가가 함께 나왔다고 전했다. 특히 보수 강세 지역으로 꼽히는 부여에서도 변화에 대한 기대감이 감지된 점이 주목된다. 여론조사에서는 박수현 후보가 앞서는 흐름으로 소개됐지만, 막판 변수에 따라 판세가 달라질 가능성이 거론된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Chungnam Governor Race Tight as Park Soo-hyun and Kim Tae-heum Draw Voter Support",
+        "excerpt": "Ahead of the June 3 local elections, support for Democratic candidate Park Soo-hyun and People Power Party candidate Kim Tae-heum remains close, with signs of change even in conservative-leaning Buyeo.",
+        "body": "Ahead of the June 3 local elections, voter sentiment in the Chungnam governor race appears closely divided between Democratic Party candidate Park Soo-hyun and People Power Party candidate Kim Tae-heum. The original report said some voters expected Park to “rewrite history,” while others praised Kim as having “drive.” Attention is also on Buyeo, known as a conservative stronghold, where expectations for change were detected. Polling was described as putting Park Soo-hyun ahead, but late-stage variables remain a point to watch. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "忠南知事選、朴洙賢氏と金泰欽氏の支持拮抗…扶余でも変化期待",
+        "excerpt": "6月3日の地方選挙を前に、忠清南道知事選では民主党の朴洙賢候補と国民の力の金泰欽候補の支持が拮抗し、保守地盤の扶余でも変化への期待が見られた。",
+        "body": "6月3日の地方選挙を前に、忠清南道知事選の民心は、民主党の朴洙賢候補と国民の力の金泰欽候補をめぐって拮抗している。原文は、朴候補について「歴史を再び書くだろう」という期待があり、金候補については「推進力がある」との評価が出たと伝えた。特に保守が強い地域とされる扶余でも、変化への期待感が感知された点が注目される。世論調査では朴洙賢候補が先行する流れとして紹介されたが、終盤の変数が情勢を左右する可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "忠南知事选情胶着：朴洙贤、金泰钦支持接近，扶余现变化期待",
+        "excerpt": "在6月3日地方选举前，忠清南道知事选举中，民主党候选人朴洙贤与国民力量候选人金泰钦支持度胶着，保守优势地区扶余也出现变化期待。",
+        "body": "在6月3日地方选举前，忠清南道知事选举的民意在民主党候选人朴洙贤和国民力量候选人金泰钦之间呈现胶着。原文称，部分选民期待朴候选人“将改写历史”，也有人评价金候选人“有推进力”。尤其值得关注的是，在被视为保守势力较强的扶余，也感受到对变化的期待。民调被介绍为朴洙贤候选人领先的走势，但最后阶段的变量仍可能影响选情。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Elección a gobernador de Chungnam sigue reñida entre Park Soo-hyun y Kim Tae-heum",
+        "excerpt": "Antes de las elecciones locales del 3 de junio, el apoyo a Park Soo-hyun del Partido Democrático y a Kim Tae-heum del Partido del Poder Popular está muy parejo, con expectativas de cambio en Buyeo.",
+        "body": "Antes de las elecciones locales del 3 de junio, el ánimo electoral por la gobernación de Chungnam aparece dividido entre Park Soo-hyun, candidato del Partido Democrático, y Kim Tae-heum, del Partido del Poder Popular. El texto original señaló expectativas de que Park “reescriba la historia” y valoraciones de que Kim “tiene capacidad de impulso”. También llama la atención Buyeo, considerada una zona de fortaleza conservadora, donde se detectaron expectativas de cambio. Las encuestas fueron presentadas con Park Soo-hyun por delante, aunque las variables finales siguen siendo clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Disputa pelo governo de Chungnam fica apertada entre Park Soo-hyun e Kim Tae-heum",
+        "excerpt": "Antes das eleições locais de 3 de junho, o apoio a Park Soo-hyun, do Partido Democrático, e a Kim Tae-heum, do Partido do Poder Popular, segue equilibrado, com sinais de mudança em Buyeo.",
+        "body": "Antes das eleições locais de 3 de junho, o sentimento dos eleitores na disputa pelo governo de Chungnam aparece dividido entre Park Soo-hyun, candidato do Partido Democrático, e Kim Tae-heum, do Partido do Poder Popular. O texto original relatou expectativas de que Park “reescreva a história” e avaliações de que Kim “tem poder de execução”. Também chama atenção Buyeo, considerada uma região de força conservadora, onde foram percebidas expectativas de mudança. As pesquisas foram apresentadas com Park Soo-hyun à frente, mas variáveis de reta final seguem em foco. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gouverneurswahl in Chungnam eng: Park Soo-hyun und Kim Tae-heum fast gleichauf",
+        "excerpt": "Vor den Kommunalwahlen am 3. Juni bleibt die Unterstützung für Park Soo-hyun von der Demokratischen Partei und Kim Tae-heum von der People Power Party knapp, auch in Buyeo zeigen sich Erwartungen an Wandel.",
+        "body": "Vor den Kommunalwahlen am 3. Juni wirkt die Stimmung bei der Gouverneurswahl in Chungnam zwischen Park Soo-hyun von der Demokratischen Partei und Kim Tae-heum von der People Power Party eng geteilt. Der Originalbericht nennt Erwartungen, Park werde „Geschichte neu schreiben“, während Kim als Kandidat mit „Durchsetzungskraft“ bewertet wird. Besonders beachtet wird Buyeo, das als konservativ geprägte Region gilt, wo ebenfalls Erwartungen an Veränderung erkennbar waren. Umfragen wurden mit Park Soo-hyun in Führung beschrieben, doch Variablen in der Schlussphase bleiben entscheidend. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Élection du gouverneur de Chungnam serrée entre Park Soo-hyun et Kim Tae-heum",
+        "excerpt": "À l’approche des élections locales du 3 juin, le soutien à Park Soo-hyun du Parti démocrate et à Kim Tae-heum du People Power Party reste serré, avec des attentes de changement même à Buyeo.",
+        "body": "À l’approche des élections locales du 3 juin, l’opinion dans la course au poste de gouverneur de Chungnam semble partagée entre Park Soo-hyun, candidat du Parti démocrate, et Kim Tae-heum, candidat du People Power Party. Le texte original rapporte des attentes selon lesquelles Park pourrait « réécrire l’histoire » et des appréciations décrivant Kim comme ayant de la « force d’exécution ». L’attention se porte aussi sur Buyeo, considéré comme un bastion conservateur, où une attente de changement a été perçue. Les sondages présentent Park Soo-hyun en tête, mais les variables de fin de campagne restent à surveiller. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سباق حاكم تشونغنام متقارب بين بارك سو-هيون وكيم تاي-هوم قبل انتخابات 3 يونيو",
+        "excerpt": "قبل الانتخابات المحلية في 3 يونيو، يتقارب دعم مرشح الحزب الديمقراطي بارك سو-هيون ومرشح حزب قوة الشعب كيم تاي-هوم، مع رصد توقعات بالتغيير حتى في بويو المحافظة.",
+        "body": "قبل الانتخابات المحلية في 3 يونيو، تبدو ميول الناخبين في سباق حاكم تشونغنام منقسمة بشكل متقارب بين مرشح الحزب الديمقراطي بارك سو-هيون ومرشح حزب قوة الشعب كيم تاي-هوم. وذكر النص الأصلي أن هناك توقعات بأن بارك «سيعيد كتابة التاريخ»، في حين وُصف كيم بأنه «يمتلك قوة دفع». كما يلفت الانتباه ظهور توقعات بالتغيير في بويو، وهي منطقة تُعد ذات حضور محافظ قوي. وقد عُرضت استطلاعات الرأي على أنها تضع بارك سو-هيون في المقدمة، لكن متغيرات المرحلة الأخيرة تبقى محل متابعة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चुंगनाम गवर्नर चुनाव में पार्क सू-ह्यून और किम Tae-heum के समर्थन में कड़ी टक्कर",
+        "excerpt": "3 जून के स्थानीय चुनावों से पहले चुंगनाम गवर्नर पद पर डेमोक्रेटिक पार्टी के पार्क सू-ह्यून और पीपुल पावर पार्टी के किम Tae-heum के समर्थन में कड़ी बराबरी है, जबकि बुएयो में बदलाव की उम्मीद दिखी।",
+        "body": "3 जून के स्थानीय चुनावों से पहले चुंगनाम गवर्नर चुनाव में जनमत डेमोक्रेटिक पार्टी के उम्मीदवार पार्क सू-ह्यून और पीपुल पावर पार्टी के उम्मीदवार किम Tae-heum के बीच कड़ा बंटा हुआ दिख रहा है। मूल रिपोर्ट में पार्क को लेकर “इतिहास फिर से लिखने” की उम्मीद और किम को लेकर “कार्य 추진력” होने का मूल्यांकन बताया गया। खास ध्यान बुएयो पर है, जिसे रूढ़िवादी प्रभाव वाला क्षेत्र माना जाता है, जहां बदलाव की उम्मीद भी महसूस की गई। सर्वेक्षणों में पार्क सू-ह्यून को आगे बताया गया, लेकिन अंतिम चरण के कारक अभी भी अहम माने जा रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pemilihan Gubernur Chungnam Ketat: Park Soo-hyun dan Kim Tae-heum Bersaing",
+        "excerpt": "Menjelang pemilu lokal 3 Juni, dukungan untuk Park Soo-hyun dari Partai Demokrat dan Kim Tae-heum dari Partai Kekuatan Rakyat masih ketat, dengan harapan perubahan terdeteksi di Buyeo.",
+        "body": "Menjelang pemilu lokal 3 Juni, sentimen pemilih dalam pemilihan Gubernur Chungnam tampak terbagi ketat antara Park Soo-hyun dari Partai Demokrat dan Kim Tae-heum dari Partai Kekuatan Rakyat. Teks asli menyebut adanya harapan bahwa Park akan “menulis ulang sejarah”, sementara Kim dinilai “memiliki daya dorong”. Perhatian juga tertuju pada Buyeo, wilayah yang dikenal kuat secara konservatif, karena harapan akan perubahan ikut terdeteksi di sana. Jajak pendapat digambarkan menempatkan Park Soo-hyun di depan, tetapi variabel menjelang akhir masih menjadi sorotan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "ff242b8a7f7a",
     "slug": "성수가-숏폼이라면-북촌은-롱폼한옥-사이사이가-쇼핑-성지로-장서우의-하입hype-472975",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Partai Demokrat Korea Peringatkan Lee Ho-cheol atas Dukungan untuk Cho Kuk",
         "excerpt": "Partai Demokrat Korea Selatan memperingatkan mantan pejabat kepresidenan Lee Ho-cheol setelah ia mendukung Cho Kuk dalam pemilihan ulang Pyeongtaek.",
         "body": "Partai Demokrat Korea Selatan mengeluarkan peringatan kepada Lee Ho-cheol, mantan sekretaris senior urusan sipil kepresidenan, setelah ia secara terbuka mendukung Cho Kuk, kandidat Partai Rebuilding Korea, dalam pemilihan ulang Pyeongtaek di Provinsi Gyeonggi. Partai menyatakan bahwa mendukung atau berkampanye untuk kandidat dari partai lain atau kandidat independen dapat dianggap sebagai tindakan yang merugikan partai. Lee dikenal sebagai tokoh yang dekat dengan kubu pro-Moon, sehingga dukungan terbuka ini dapat menjadi isu dalam respons pemilu partai dan hubungan di kalangan oposisi. Peringatan tersebut dipandang sebagai langkah untuk mengelola sikap dukungan publik para tokoh politik terkait selama pemilihan ulang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "79680f055744",
-    "slug": "속보-이란-외무-미국에서-대화-계속하자는-메시지-받아-371217",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T11:49:14.740Z",
-    "updatedAt": "2026-05-15T11:49:14.740Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12049544",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12049544",
-    "titleFingerprint": "2aedc4dd0fd6853096f6129544b9857139bd3a06",
-    "dedupKeys": [
-      "79680f055744d8e32904d809dce1f538d9d5acb0",
-      "2aedc4dd0fd6853096f6129544b9857139bd3a06",
-      "3283cb1cce6262be8b48616dd96bf3499ce19d11"
-    ],
-    "imageUrl": "/images/articles/79680f055744.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이란 외무장관, 미국서 ‘대화 계속’ 메시지 받았다고 밝혀",
-        "excerpt": "이란 외무장관이 미국으로부터 대화를 계속하자는 메시지를 받았다고 밝혔다. 구체적인 전달 시점과 메시지 내용은 원문에 제시되지 않았다.",
-        "body": "이란 외무장관은 미국에서 대화를 계속하자는 메시지를 받았다고 밝혔다. 발언의 구체적인 시점, 전달 경로, 메시지의 세부 내용은 원문에 공개되지 않았다. 이번 소식은 미국과 이란 간 대화 지속 가능성을 둘러싼 관심이 이어지는 가운데 전해졌다. 다만 원문에는 후속 회담 일정, 참여 인사, 합의 여부 등 추가 정보가 포함되지 않았다. 따라서 현재 확인되는 핵심은 이란 외무장관이 ‘미국에서 대화 계속 메시지를 받았다’고 말했다는 점이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Iran Foreign Minister Says U.S. Sent Message to Continue Talks",
-        "excerpt": "Iran’s foreign minister said he received a message from the United States to continue dialogue. The original report did not specify timing or details.",
-        "body": "Iran’s foreign minister said he had received a message from the United States calling for continued dialogue. The original report did not disclose the exact timing, delivery channel, or detailed content of the message. The news comes amid attention on whether talks between the United States and Iran could continue. However, the source text did not include additional information such as a follow-up meeting schedule, participants, or whether any agreement had been reached. The confirmed point is that Iran’s foreign minister said he received a message from the U.S. to keep talks going. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "イラン外相、米国から「対話継続」メッセージ受領と発言",
-        "excerpt": "イラン外相は、米国から対話を続けようというメッセージを受け取ったと明らかにした。具体的な時期や内容は原文に示されていない。",
-        "body": "イラン外相は、米国から対話を続けようというメッセージを受け取ったと述べた。発言の具体的な時点、伝達経路、メッセージの詳細な内容は原文では明らかにされていない。今回のニュースは、米国とイランの対話継続の可能性に関心が集まる中で伝えられた。ただし原文には、今後の会談日程、参加者、合意の有無など追加情報は含まれていない。現時点で確認できる核心は、イラン外相が「米国から対話継続のメッセージを受け取った」と語った点である。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "伊朗外长称收到美国希望继续对话的信息",
-        "excerpt": "伊朗外长表示，已收到来自美国的继续对话信息。原文未说明具体传递时间、渠道或信息细节。",
-        "body": "伊朗外长表示，他收到了来自美国、希望继续对话的信息。原文没有披露这一表态的具体时间、传递渠道以及信息的详细内容。该消息是在外界关注美国与伊朗是否可能继续对话的背景下传出。不过，原文未包含后续会谈安排、参与人员或是否达成协议等更多信息。因此，目前能够确认的核心事实是，伊朗外长称其收到了美国方面要求继续对话的信息。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Canciller de Irán dice que EE. UU. pidió continuar el diálogo",
-        "excerpt": "El canciller de Irán dijo que recibió un mensaje de Estados Unidos para continuar el diálogo. El texto original no precisó fecha, vía ni detalles.",
-        "body": "El canciller de Irán afirmó que recibió un mensaje de Estados Unidos en el que se planteaba continuar el diálogo. El texto original no reveló el momento exacto, el canal de transmisión ni el contenido detallado del mensaje. La noticia se conoció en medio de la atención sobre la posibilidad de que sigan las conversaciones entre Estados Unidos e Irán. Sin embargo, el original no incluyó información adicional sobre fechas de próximas reuniones, participantes o si hubo algún acuerdo. El punto confirmado es que el canciller iraní dijo haber recibido desde EE. UU. un mensaje para mantener el diálogo. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Chanceler do Irã diz ter recebido dos EUA mensagem por diálogo",
-        "excerpt": "O chanceler do Irã afirmou ter recebido dos Estados Unidos uma mensagem para continuar o diálogo. O texto original não detalhou data, canal ou conteúdo.",
-        "body": "O chanceler do Irã disse que recebeu dos Estados Unidos uma mensagem propondo a continuidade do diálogo. O texto original não informou o momento exato, o canal de envio nem o conteúdo detalhado da mensagem. A notícia surge em meio à atenção sobre a possibilidade de continuidade das conversas entre Estados Unidos e Irã. No entanto, o original não trouxe informações adicionais sobre agenda de novas reuniões, participantes ou eventual acordo. O ponto confirmado é que o chanceler iraniano afirmou ter recebido dos EUA uma mensagem para seguir com o diálogo. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Irans Außenminister meldet US-Botschaft zur Fortsetzung von Gesprächen",
-        "excerpt": "Irans Außenminister sagte, er habe aus den USA eine Botschaft zur Fortsetzung des Dialogs erhalten. Zeitpunkt, Weg und Details wurden nicht genannt.",
-        "body": "Irans Außenminister erklärte, er habe aus den Vereinigten Staaten eine Botschaft erhalten, den Dialog fortzusetzen. Der ursprüngliche Bericht nannte weder den genauen Zeitpunkt noch den Übermittlungsweg oder den detaillierten Inhalt der Nachricht. Die Meldung kommt, während die Möglichkeit weiterer Gespräche zwischen den USA und Iran im Fokus steht. Zusätzliche Angaben zu einem Folgetreffen, beteiligten Personen oder einer möglichen Einigung enthielt der Ausgangstext nicht. Bestätigt ist damit nur, dass Irans Außenminister sagte, er habe eine US-Botschaft zur Fortsetzung des Dialogs erhalten. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le chef de la diplomatie iranienne dit avoir reçu un message américain",
-        "excerpt": "Le ministre iranien des Affaires étrangères a dit avoir reçu un message des États-Unis pour poursuivre le dialogue. Le texte initial ne donne pas de détails.",
-        "body": "Le ministre iranien des Affaires étrangères a déclaré avoir reçu des États-Unis un message appelant à poursuivre le dialogue. Le texte initial ne précise pas le moment exact, le canal de transmission ni le contenu détaillé de ce message. Cette information intervient alors que la possibilité d’un maintien des échanges entre les États-Unis et l’Iran suscite l’attention. Toutefois, le texte source ne mentionne ni calendrier de réunion ultérieure, ni participants, ni éventuel accord. Le point confirmé est que le chef de la diplomatie iranienne a dit avoir reçu un message américain en faveur de la poursuite du dialogue. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "وزير خارجية إيران يقول إن واشنطن أرسلت رسالة لمواصلة الحوار",
-        "excerpt": "قال وزير الخارجية الإيراني إنه تلقى رسالة من الولايات المتحدة تدعو إلى مواصلة الحوار. النص الأصلي لم يوضح التوقيت أو القناة أو التفاصيل.",
-        "body": "قال وزير الخارجية الإيراني إنه تلقى من الولايات المتحدة رسالة تدعو إلى مواصلة الحوار. ولم يكشف النص الأصلي عن التوقيت المحدد للتصريح أو قناة نقل الرسالة أو مضمونها التفصيلي. وتأتي هذه المعلومة وسط اهتمام بإمكان استمرار الحوار بين الولايات المتحدة وإيران. لكن النص الأصلي لم يتضمن معلومات إضافية عن موعد اجتماع لاحق أو أسماء المشاركين أو ما إذا كان قد تم التوصل إلى اتفاق. لذلك فإن الحقيقة المؤكدة حالياً هي أن وزير الخارجية الإيراني قال إنه تلقى رسالة من واشنطن لمواصلة الحوار. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "ईरान के विदेश मंत्री बोले, अमेरिका से बातचीत जारी रखने का संदेश मिला",
-        "excerpt": "ईरान के विदेश मंत्री ने कहा कि उन्हें अमेरिका से बातचीत जारी रखने का संदेश मिला है। मूल रिपोर्ट में समय, माध्यम या विस्तृत सामग्री नहीं दी गई।",
-        "body": "ईरान के विदेश मंत्री ने कहा कि उन्हें अमेरिका से बातचीत जारी रखने का संदेश मिला है। मूल पाठ में इस बयान का सटीक समय, संदेश पहुंचाने का माध्यम या संदेश की विस्तृत सामग्री सार्वजनिक नहीं की गई। यह खबर ऐसे समय आई है जब अमेरिका और ईरान के बीच संवाद जारी रहने की संभावना पर ध्यान बना हुआ है। हालांकि मूल रिपोर्ट में अगली बैठक की तारीख, शामिल व्यक्तियों या किसी सहमति के बारे में अतिरिक्त जानकारी शामिल नहीं है। फिलहाल पुष्टि योग्य मुख्य तथ्य यही है कि ईरान के विदेश मंत्री ने अमेरिका से बातचीत जारी रखने का संदेश मिलने की बात कही। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Menlu Iran Sebut Terima Pesan dari AS untuk Lanjutkan Dialog",
-        "excerpt": "Menteri luar negeri Iran mengatakan menerima pesan dari Amerika Serikat untuk melanjutkan dialog. Teks asli tidak memuat waktu, kanal, atau detailnya.",
-        "body": "Menteri luar negeri Iran mengatakan bahwa ia menerima pesan dari Amerika Serikat untuk melanjutkan dialog. Teks asli tidak mengungkap waktu pasti, jalur penyampaian, atau isi rinci pesan tersebut. Kabar ini muncul ketika perhatian tertuju pada kemungkinan berlanjutnya pembicaraan antara Amerika Serikat dan Iran. Namun, teks sumber tidak memuat informasi tambahan mengenai jadwal pertemuan lanjutan, pihak yang terlibat, atau ada tidaknya kesepakatan. Fakta utama yang terkonfirmasi adalah bahwa menlu Iran menyatakan menerima pesan dari AS untuk terus berdialog. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "67aab610803b",
-    "slug": "속보-日-미야기현-앞바다서-규모-63-지진쓰나미-우려는-없어-709379",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T11:48:25.593Z",
-    "updatedAt": "2026-05-15T11:48:25.593Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12049553",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12049553",
-    "titleFingerprint": "05cb9d79c28d41a1970d0eae9f1360ce2b8ef7b6",
-    "dedupKeys": [
-      "67aab610803b5a601a6cb2b5cb32eccb7f76d63a",
-      "05cb9d79c28d41a1970d0eae9f1360ce2b8ef7b6",
-      "c7cc514ec384dc59a316f64d3f59af3741eafe81"
-    ],
-    "imageUrl": "/images/articles/67aab610803b.png",
-    "i18n": {
-      "ko": {
-        "title": "일본 미야기현 앞바다 규모 6.3 지진 발생, 쓰나미 우려 없어",
-        "excerpt": "일본 미야기현 앞바다에서 규모 6.3 지진이 발생했다. 속보로 전해진 이번 지진과 관련해 쓰나미 우려는 없는 것으로 알려졌다.",
-        "body": "일본 미야기현 앞바다에서 규모 6.3 지진이 발생했다. 속보로 전해진 이번 지진은 일본 동북부 해역에서 관측됐으며, 현재까지 전해진 핵심 정보는 지진 규모와 발생 위치, 쓰나미 우려 여부다. 보도에 따르면 지진 규모는 6.3으로 확인됐고, 발생 지점은 미야기현 앞바다다. 지진 이후 가장 주목되는 영향은 해일 가능성이지만, 이번 경우 쓰나미 우려는 없는 것으로 전해졌다. 추가 피해나 세부 상황은 원문에 제시되지 않았다. 출처: mk.co.kr 인용"
-      },
-      "en": {
-        "title": "Magnitude 6.3 Earthquake Strikes off Miyagi, Japan; No Tsunami Concern",
-        "excerpt": "A magnitude 6.3 earthquake occurred off Miyagi Prefecture in Japan. The breaking report said there is no concern about a tsunami from the quake.",
-        "body": "A magnitude 6.3 earthquake occurred off the coast of Miyagi Prefecture, Japan. The breaking report identified the quake’s location as waters off Miyagi in northeastern Japan and confirmed its magnitude at 6.3. The key details currently available are the location, magnitude, and tsunami risk. The main impact being watched after an offshore earthquake is whether it could trigger a tsunami, but the report said there is no concern about a tsunami in this case. No additional damage details or further circumstances were provided in the original text. Source: cited from mk.co.kr"
-      },
-      "ja": {
-        "title": "日本・宮城県沖でマグニチュード6.3の地震、津波の心配なし",
-        "excerpt": "日本の宮城県沖でマグニチュード6.3の地震が発生した。速報によると、この地震による津波の心配はないと伝えられている。",
-        "body": "日本の宮城県沖でマグニチュード6.3の地震が発生した。速報で伝えられた今回の地震は、日本東北部の海域で観測されたもので、現時点で示されている主な情報は発生場所、規模、津波の恐れの有無だ。報道によると、地震の規模はマグニチュード6.3で、発生地点は宮城県沖とされている。沖合での地震後に注目される影響は津波の可能性だが、今回は津波の心配はないと伝えられた。追加の被害や詳しい状況は原文では示されていない。出典：mk.co.kr引用"
-      },
-      "zh": {
-        "title": "日本宫城县近海发生6.3级地震，暂无海啸担忧",
-        "excerpt": "日本宫城县近海发生6.3级地震。快讯称，此次地震目前没有引发海啸的担忧，相关信息以原文报道为准。",
-        "body": "日本宫城县近海发生6.3级地震。据快讯报道，此次地震发生在日本东北部宫城县附近海域，目前原文提供的核心信息包括地震地点、震级以及是否存在海啸风险。报道称，地震震级确认为6.3级，发生地点为宫城县近海。近海地震发生后，外界最关注的影响之一是是否可能引发海啸，但此次报道指出没有海啸担忧。原文未提供进一步损失情况或更详细的现场信息。来源：引自 mk.co.kr"
-      },
-      "es": {
-        "title": "Sismo de magnitud 6,3 frente a Miyagi, Japón; sin preocupación por tsunami",
-        "excerpt": "Un sismo de magnitud 6,3 se produjo frente a la prefectura japonesa de Miyagi. El reporte urgente indicó que no hay preocupación por tsunami.",
-        "body": "Un sismo de magnitud 6,3 se produjo frente a la prefectura de Miyagi, en Japón. El reporte urgente situó el movimiento en aguas frente a Miyagi, en el noreste del país, y confirmó su magnitud en 6,3. Los datos centrales disponibles son la ubicación del terremoto, su magnitud y la evaluación sobre un posible tsunami. Tras un sismo en el mar, el impacto más observado suele ser el riesgo de tsunami, pero en este caso se informó que no existe esa preocupación. El texto original no incluyó detalles adicionales sobre daños ni otras circunstancias. Fuente: citado de mk.co.kr"
-      },
-      "pt": {
-        "title": "Terremoto de magnitude 6,3 atinge costa de Miyagi, Japão; sem risco de tsunami",
-        "excerpt": "Um terremoto de magnitude 6,3 ocorreu ao largo da província japonesa de Miyagi. O alerta informou que não há preocupação com tsunami.",
-        "body": "Um terremoto de magnitude 6,3 ocorreu ao largo da província de Miyagi, no Japão. A notícia de última hora localizou o tremor nas águas próximas a Miyagi, no nordeste japonês, e confirmou sua magnitude em 6,3. As principais informações disponíveis são o local do evento, a magnitude e a avaliação sobre risco de tsunami. Após um terremoto no mar, a possibilidade de tsunami costuma ser o principal impacto observado, mas neste caso foi informado que não há essa preocupação. O texto original não apresentou detalhes adicionais sobre danos ou outras circunstâncias. Fonte: citado de mk.co.kr"
-      },
-      "de": {
-        "title": "Erdbeben der Stärke 6,3 vor Japans Miyagi; keine Tsunami-Befürchtung",
-        "excerpt": "Vor der japanischen Präfektur Miyagi ereignete sich ein Erdbeben der Stärke 6,3. Laut Eilmeldung besteht keine Tsunami-Befürchtung.",
-        "body": "Vor der japanischen Präfektur Miyagi hat sich ein Erdbeben der Stärke 6,3 ereignet. Die Eilmeldung verortete das Beben in den Gewässern vor Miyagi im Nordosten Japans und nannte eine Magnitude von 6,3. Die derzeit verfügbaren Kernangaben betreffen den Ort, die Stärke und die Frage einer möglichen Tsunami-Gefahr. Nach einem Seebeben gilt die Aufmerksamkeit vor allem der Möglichkeit eines Tsunamis, doch in diesem Fall wurde berichtet, dass keine entsprechende Befürchtung besteht. Weitere Angaben zu Schäden oder Details der Lage enthielt der Ursprungstext nicht. Quelle: zitiert nach mk.co.kr"
-      },
-      "fr": {
-        "title": "Séisme de magnitude 6,3 au large de Miyagi au Japon, pas de crainte de tsunami",
-        "excerpt": "Un séisme de magnitude 6,3 s’est produit au large de la préfecture japonaise de Miyagi. L’alerte indique qu’il n’y a pas de crainte de tsunami.",
-        "body": "Un séisme de magnitude 6,3 s’est produit au large de la préfecture de Miyagi, au Japon. Selon l’alerte, la secousse a été observée dans les eaux situées au large de Miyagi, dans le nord-est du pays, avec une magnitude confirmée à 6,3. Les informations essentielles disponibles portent sur le lieu, la magnitude et l’éventualité d’un tsunami. Après un séisme en mer, le principal impact surveillé est le risque de tsunami, mais le reportage indique qu’il n’y a pas de crainte à ce sujet. Le texte d’origine ne fournit pas d’autres détails sur d’éventuels dégâts ou la situation. Source : cité de mk.co.kr"
-      },
-      "ar": {
-        "title": "زلزال بقوة 6.3 قبالة مياغي في اليابان ولا مخاوف من تسونامي",
-        "excerpt": "وقع زلزال بقوة 6.3 قبالة محافظة مياغي اليابانية. وذكر التقرير العاجل أن الزلزال لا يثير مخاوف من حدوث تسونامي.",
-        "body": "وقع زلزال بقوة 6.3 قبالة محافظة مياغي في اليابان. وأفاد التقرير العاجل بأن الزلزال رُصد في المياه المقابلة لمياغي في شمال شرق اليابان، مع تأكيد قوته عند 6.3. وتتمثل المعلومات الأساسية المتاحة حاليا في موقع الزلزال وقوته وما إذا كان هناك خطر من تسونامي. وبعد الزلازل البحرية يكون احتمال حدوث تسونامي من أبرز التأثيرات التي تتابع، لكن التقرير ذكر أنه لا توجد مخاوف من تسونامي في هذه الحالة. ولم يتضمن النص الأصلي تفاصيل إضافية عن أضرار أو ظروف أخرى. المصدر: نقلا عن mk.co.kr"
-      },
-      "hi": {
-        "title": "जापान के मियागी तट के पास 6.3 तीव्रता का भूकंप, सुनामी की चिंता नहीं",
-        "excerpt": "जापान के मियागी प्रांत के तट के पास 6.3 तीव्रता का भूकंप आया। ताजा रिपोर्ट के अनुसार इससे सुनामी की आशंका नहीं है।",
-        "body": "जापान के मियागी प्रांत के तट के पास 6.3 तीव्रता का भूकंप आया। ताजा रिपोर्ट में इस भूकंप का स्थान जापान के उत्तर-पूर्वी क्षेत्र में मियागी के अपतटीय जलक्षेत्र के रूप में बताया गया और इसकी तीव्रता 6.3 दर्ज की गई। अभी उपलब्ध मुख्य जानकारी भूकंप का स्थान, तीव्रता और सुनामी से जुड़ी आशंका तक सीमित है। समुद्र में आए भूकंप के बाद सबसे बड़ा ध्यान इस बात पर रहता है कि क्या सुनामी का खतरा है, लेकिन इस मामले में सुनामी की चिंता नहीं बताई गई है। मूल पाठ में नुकसान या अन्य विस्तृत स्थिति की अतिरिक्त जानकारी नहीं दी गई। स्रोत: mk.co.kr से उद्धृत"
-      },
-      "id": {
-        "title": "Gempa Magnitudo 6,3 Guncang Lepas Pantai Miyagi Jepang, Tak Ada Kekhawatiran Tsunami",
-        "excerpt": "Gempa magnitudo 6,3 terjadi di lepas pantai Prefektur Miyagi, Jepang. Laporan cepat menyebut tidak ada kekhawatiran tsunami akibat gempa ini.",
-        "body": "Gempa magnitudo 6,3 terjadi di lepas pantai Prefektur Miyagi, Jepang. Laporan cepat menyebut gempa itu terpantau di perairan lepas Miyagi, wilayah timur laut Jepang, dengan magnitudo yang dikonfirmasi sebesar 6,3. Informasi utama yang tersedia saat ini mencakup lokasi, kekuatan gempa, dan ada tidaknya kekhawatiran tsunami. Setelah gempa di laut, dampak yang paling diperhatikan biasanya adalah potensi tsunami, tetapi dalam kasus ini dilaporkan tidak ada kekhawatiran tersebut. Teks asli tidak memuat rincian tambahan mengenai kerusakan atau situasi lain. Sumber: dikutip dari mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7e9d9904f03f",
-    "slug": "이-대통령-사적-보복은-중대범죄분쟁은-법질서-따라-해결해야-369443",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T11:47:29.262Z",
-    "updatedAt": "2026-05-15T11:47:29.262Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12049554",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12049554",
-    "titleFingerprint": "062555e95fdb26222741f68110dcd337f8164c46",
-    "dedupKeys": [
-      "7e9d9904f03f82d06b7912764fab48e94ad00516",
-      "062555e95fdb26222741f68110dcd337f8164c46",
-      "55d8441ef2398ee5c053828b540df5755b32ba7c"
-    ],
-    "imageUrl": "/images/articles/7e9d9904f03f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이재명 대통령, ‘사적 보복 대행’ 강력 경고…“법질서로 분쟁 해결해야”",
-        "excerpt": "이재명 대통령은 최근 확산하는 ‘사적 보복 대행’ 범죄를 중대 범죄로 규정하고, 모든 분쟁은 사적 보복이 아닌 법질서에 따라 해결해야 한다고 강조했다.",
-        "body": "이재명 대통령은 최근 확산하는 ‘사적 보복 대행’ 범죄와 관련해 보복을 의뢰하거나 실행하는 행위 모두 중대 범죄라고 강하게 경고했다. 대통령은 텔레그램 등 온라인 경로를 통해 보복을 맡기거나 이를 수행하는 방식이 법치 질서를 훼손한다고 지적했다. 이번 발언은 개인 간 갈등을 사적 폭력이나 대리 보복으로 풀려는 움직임에 대한 경고로, 분쟁 해결은 법과 제도 안에서 이뤄져야 한다는 메시지다. 향후 관련 범죄에 대한 사회적 경각심과 수사·단속 필요성이 커질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "President Lee Jae-myung Warns Against ‘Private Revenge Services,’ Urges Legal Resolution",
-        "excerpt": "President Lee Jae-myung warned that both requesting and carrying out private revenge services, including through Telegram, are serious crimes and said disputes must be resolved under the rule of law.",
-        "body": "President Lee Jae-myung strongly warned against the recent spread of crimes involving “private revenge services,” saying that both commissioning and carrying out retaliation are serious offenses. He pointed in particular to revenge requests and execution arranged through online channels such as Telegram, stressing that such acts undermine legal order. The remarks serve as a warning against attempts to settle personal conflicts through private violence or proxy retaliation. Lee emphasized that disputes must be resolved within the law and institutions, not through personal revenge. The issue is expected to raise public awareness and the need for investigation and enforcement. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "李在明大統領、「私的報復代行」に強い警告…紛争は法秩序で解決を",
-        "excerpt": "李在明大統領は、最近広がる「私的報復代行」犯罪について、依頼も実行も重大犯罪だと警告し、紛争は法秩序に従って解決すべきだと強調した。",
-        "body": "李在明大統領は、最近広がっている「私的報復代行」犯罪について、報復を依頼する行為も実行する行為も重大犯罪だと強く警告した。特にテレグラムなどのオンライン経路を通じて報復を依頼し、または実行する方式は、法治秩序を損なうものだと指摘した。今回の発言は、個人間の対立を私的暴力や代理報復で解決しようとする動きへの警告であり、紛争は法と制度の枠内で解決されるべきだというメッセージだ。今後、関連犯罪への社会的警戒と捜査・取り締まりの必要性が高まる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "李在明总统警告“私人报复代办”：纠纷必须依法解决",
-        "excerpt": "李在明总统针对近期扩散的“私人报复代办”犯罪发出严厉警告，指出通过Telegram等渠道委托或实施报复均属重大犯罪，纠纷应依法解决。",
-        "body": "李在明总统就近期扩散的“私人报复代办”犯罪发出强烈警告，称委托报复和实施报复的行为都属于重大犯罪。他特别指出，通过Telegram等线上渠道提出报复委托或执行报复，会破坏法治秩序。此次表态是对试图以私人暴力或代为报复解决个人矛盾的做法发出的警告，也强调所有纠纷都应在法律和制度框架内解决，而不是依靠私人报复。预计相关犯罪将引发更高的社会警惕，并提高调查和取缔的必要性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lee Jae-myung advierte contra la ‘venganza privada’: los conflictos deben resolverse por ley",
-        "excerpt": "El presidente Lee Jae-myung advirtió que encargar o ejecutar venganzas privadas, incluso por Telegram, constituye un delito grave y subrayó que las disputas deben resolverse dentro del orden legal.",
-        "body": "El presidente Lee Jae-myung lanzó una firme advertencia ante la reciente expansión de los delitos de “venganza privada por encargo” y afirmó que tanto solicitar represalias como ejecutarlas son delitos graves. Señaló en particular los encargos y acciones realizados mediante canales en línea como Telegram, al considerar que dañan el orden jurídico. Sus declaraciones apuntan a frenar intentos de resolver conflictos personales mediante violencia privada o represalias delegadas. Lee recalcó que las disputas deben resolverse dentro de la ley y las instituciones, no mediante venganza personal. El caso podría aumentar la alerta social y la necesidad de investigación y control. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lee Jae-myung alerta contra ‘vingança privada’ e defende solução de conflitos pela lei",
-        "excerpt": "O presidente Lee Jae-myung advertiu que pedir ou executar vingança privada, inclusive por Telegram, é crime grave e afirmou que disputas devem ser resolvidas conforme a ordem legal.",
-        "body": "O presidente Lee Jae-myung fez um forte alerta sobre a recente disseminação de crimes ligados à “vingança privada por encomenda”, afirmando que tanto solicitar retaliação quanto executá-la são crimes graves. Ele destacou especialmente pedidos e ações realizados por canais online como o Telegram, dizendo que esse tipo de prática prejudica a ordem jurídica. A declaração é um aviso contra tentativas de resolver conflitos pessoais por meio de violência privada ou retaliação feita por terceiros. Lee enfatizou que disputas devem ser resolvidas dentro da lei e das instituições, não por vingança pessoal. O tema deve ampliar a conscientização pública e a necessidade de investigação e repressão. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lee Jae-myung warnt vor ‘privater Rache auf Bestellung’: Konflikte nur nach Recht lösen",
-        "excerpt": "Präsident Lee Jae-myung warnte, dass das Beauftragen und Ausführen privater Rache, auch über Telegram, schwere Straftaten seien, und betonte die Lösung von Streitfällen nach rechtsstaatlichen Regeln.",
-        "body": "Präsident Lee Jae-myung hat vor der jüngsten Ausbreitung von Straftaten im Zusammenhang mit „privater Rache auf Bestellung“ scharf gewarnt. Sowohl das Beauftragen als auch das Ausführen von Vergeltung seien schwere Straftaten. Besonders verwies er auf Aufträge und Umsetzungen über Online-Kanäle wie Telegram und erklärte, solche Handlungen untergrüben die Rechtsordnung. Die Äußerung ist eine Warnung vor Versuchen, persönliche Konflikte durch private Gewalt oder stellvertretende Rache zu lösen. Lee betonte, Streitigkeiten müssten innerhalb von Recht und Institutionen geklärt werden. Dadurch dürfte das öffentliche Bewusstsein sowie der Bedarf an Ermittlungen und Kontrollen steigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lee Jae-myung met en garde contre la ‘vengeance privée’ et appelle au respect de la loi",
-        "excerpt": "Le président Lee Jae-myung a averti que commander ou exécuter une vengeance privée, notamment via Telegram, constitue un crime grave et que les différends doivent être réglés par la loi.",
-        "body": "Le président Lee Jae-myung a fermement mis en garde contre la récente propagation des crimes liés à la « vengeance privée par procuration », affirmant que le fait de commander ou d’exécuter des représailles constitue un crime grave. Il a notamment cité les demandes et exécutions organisées par des canaux en ligne comme Telegram, estimant qu’elles portent atteinte à l’ordre juridique. Cette déclaration vise les tentatives de régler des conflits personnels par la violence privée ou la vengeance confiée à des tiers. Lee a souligné que les différends doivent être résolus dans le cadre de la loi et des institutions, et non par vengeance personnelle. Le sujet devrait accroître la vigilance sociale et le besoin d’enquêtes et de contrôles. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لي جاي ميونغ يحذر من «الانتقام الخاص»: حل النزاعات يجب أن يكون عبر القانون",
-        "excerpt": "حذر الرئيس لي جاي ميونغ من انتشار جرائم «تنفيذ الانتقام الخاص»، مؤكدا أن طلب الانتقام أو تنفيذه عبر قنوات مثل تلغرام يعد جريمة خطيرة وأن النزاعات يجب أن تحل وفق النظام القانوني.",
-        "body": "وجه الرئيس لي جاي ميونغ تحذيرا شديدا من الانتشار الأخير لجرائم «تنفيذ الانتقام الخاص»، مؤكدا أن طلب الانتقام أو تنفيذه كلاهما جريمة خطيرة. وأشار خصوصا إلى استخدام قنوات إلكترونية مثل تلغرام لطلب الانتقام أو تنفيذه، معتبرا أن هذه الممارسات تقوض سيادة القانون. وتأتي التصريحات كتحذير من محاولات حل الخلافات الشخصية عبر العنف الخاص أو الانتقام بالوكالة. وشدد لي على أن النزاعات يجب أن تعالج داخل إطار القانون والمؤسسات، لا عبر الانتقام الشخصي. ومن المتوقع أن تزيد القضية الوعي الاجتماعي والحاجة إلى التحقيق والرقابة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ली जे-म्युंग की ‘निजी बदला सेवा’ पर चेतावनी: विवाद कानून से ही सुलझें",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग ने कहा कि Telegram जैसे माध्यमों से निजी बदला मंगवाना या उसे अंजाम देना गंभीर अपराध है और सभी विवाद कानूनी व्यवस्था के तहत सुलझाए जाने चाहिए।",
-        "body": "राष्ट्रपति ली जे-म्युंग ने हाल में फैल रहे “निजी बदला दिलाने” से जुड़े अपराधों पर कड़ी चेतावनी दी और कहा कि बदला लेने का आदेश देना तथा उसे अंजाम देना, दोनों गंभीर अपराध हैं। उन्होंने विशेष रूप से Telegram जैसे ऑनलाइन माध्यमों से बदला मंगवाने या लागू करने की प्रवृत्ति को कानून-व्यवस्था को नुकसान पहुंचाने वाला बताया। यह बयान निजी विवादों को निजी हिंसा या किसी तीसरे पक्ष से बदला दिलाकर सुलझाने की कोशिशों के खिलाफ चेतावनी है। ली ने जोर दिया कि विवादों का समाधान कानून और संस्थागत प्रक्रिया के भीतर होना चाहिए, निजी प्रतिशोध से नहीं। इससे संबंधित अपराधों को लेकर सामाजिक सतर्कता और जांच-कार्रवाई की जरूरत बढ़ने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lee Jae-myung Peringatkan ‘Jasa Balas Dendam Pribadi’: Sengketa Harus Lewat Hukum",
-        "excerpt": "Presiden Lee Jae-myung memperingatkan bahwa meminta atau menjalankan balas dendam pribadi, termasuk melalui Telegram, adalah kejahatan berat dan sengketa harus diselesaikan sesuai hukum.",
-        "body": "Presiden Lee Jae-myung memberikan peringatan keras atas penyebaran terbaru kejahatan “jasa balas dendam pribadi”, dengan menegaskan bahwa meminta maupun menjalankan aksi balas dendam adalah kejahatan berat. Ia secara khusus menyoroti permintaan dan pelaksanaan balas dendam melalui kanal online seperti Telegram, yang dinilai merusak tatanan hukum. Pernyataan ini menjadi peringatan terhadap upaya menyelesaikan konflik pribadi melalui kekerasan pribadi atau balas dendam yang dilakukan pihak lain. Lee menekankan bahwa sengketa harus diselesaikan dalam kerangka hukum dan lembaga resmi, bukan melalui pembalasan pribadi. Isu ini diperkirakan meningkatkan kewaspadaan publik serta kebutuhan penyelidikan dan penindakan. Sumber: mk.co.kr"
       }
     }
   }
