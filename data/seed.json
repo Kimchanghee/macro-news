@@ -1,5 +1,230 @@
 [
   {
+    "id": "9aff02f42411",
+    "slug": "코오롱-1분기-영업이익-988억원전년-대비-158-증가-437259",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T21:03:56.687Z",
+    "updatedAt": "2026-05-15T21:03:56.687Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605150052g",
+    "canonicalUrl": "https://www.hankyung.com/article/202605150052g",
+    "titleFingerprint": "82e45a3bed050f40de5a765e93e27fe3f786d080",
+    "dedupKeys": [
+      "9aff02f42411ce4f9069596419eeb8e8689a89ed",
+      "82e45a3bed050f40de5a765e93e27fe3f786d080",
+      "2fb99f52f9135fac0ef46604bcacdeb8ba2ebb11"
+    ],
+    "imageUrl": "/images/articles/9aff02f42411.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코오롱 1분기 영업이익 988억원, 전년 대비 158% 급증",
+        "excerpt": "코오롱은 1분기 영업이익이 988억원으로 전년 동기 대비 158% 증가했다고 밝혔다. 분기 실적 개선 폭이 커지며 시장의 관심이 집중된다.",
+        "body": "코오롱은 올해 1분기 영업이익이 988억원을 기록했다고 밝혔다. 이는 전년 동기 대비 158% 증가한 수치다. 이번 실적 발표는 코오롱의 분기 수익성이 지난해 같은 기간보다 크게 개선됐음을 보여준다. 회사가 공개한 핵심 수치는 1분기 영업이익 988억원과 전년 대비 증가율 158%다. 영업이익 증가 폭이 커지면서 코오롱의 실적 흐름과 향후 수익성에 대한 시장의 관심도 이어질 전망이다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Kolon Q1 Operating Profit Hits 98.8 Billion Won, Up 158% YoY",
+        "excerpt": "Kolon said its first-quarter operating profit reached 98.8 billion won, up 158% from a year earlier, highlighting a sharp improvement in quarterly earnings.",
+        "body": "Kolon reported first-quarter operating profit of 98.8 billion won. The figure represents a 158% increase from the same period a year earlier. The announcement shows that Kolon’s quarterly profitability improved sharply compared with last year’s first quarter. The key figures disclosed were operating profit of 98.8 billion won for the quarter and a year-on-year growth rate of 158%. With such a large rise in operating profit, market attention is expected to remain on Kolon’s earnings trend and future profitability. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "コーロン、1四半期営業益988億ウォン 前年比158%増",
+        "excerpt": "コーロンは第1四半期の営業利益が988億ウォンとなり、前年同期比158%増加したと発表した。収益性改善の大きさに関心が集まる。",
+        "body": "コーロンは今年第1四半期の営業利益が988億ウォンを記録したと発表した。これは前年同期比で158%増加した数値だ。今回の業績発表は、コーロンの四半期収益性が前年同時期に比べて大きく改善したことを示している。会社が公表した主要数値は、第1四半期営業利益988億ウォンと前年比増加率158%である。営業利益の増加幅が大きかったことで、コーロンの業績動向と今後の収益性に市場の関心が続く見通しだ。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "可隆一季度营业利润988亿韩元，同比大增158%",
+        "excerpt": "可隆表示，今年一季度营业利润为988亿韩元，较去年同期增长158%。季度盈利能力明显改善，相关业绩走势受到关注。",
+        "body": "可隆发布消息称，今年第一季度营业利润达到988亿韩元。该数字较去年同期增长158%。此次业绩发布显示，可隆季度盈利能力较去年同期大幅改善。公司披露的核心数据为第一季度营业利润988亿韩元，以及同比增长率158%。随着营业利润增幅扩大，市场预计将继续关注可隆的业绩走势和未来盈利能力。消息来源为hankyung.com。"
+      },
+      "es": {
+        "title": "Kolon gana 98.800 millones de wones en Q1, 158% más interanual",
+        "excerpt": "Kolon informó que su beneficio operativo del primer trimestre fue de 98.800 millones de wones, un aumento del 158% frente al mismo periodo del año anterior.",
+        "body": "Kolon anunció que su beneficio operativo del primer trimestre alcanzó 98.800 millones de wones. La cifra supone un aumento del 158% respecto al mismo periodo del año anterior. La publicación muestra que la rentabilidad trimestral de Kolon mejoró con fuerza frente al primer trimestre del año pasado. Los datos clave comunicados fueron un beneficio operativo de 98.800 millones de wones y una tasa de crecimiento interanual del 158%. Con este amplio avance, el mercado seguirá atento a la evolución de resultados y rentabilidad de Kolon. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Kolon tem lucro operacional de 98,8 bi de won no 1º tri, alta de 158%",
+        "excerpt": "A Kolon informou que o lucro operacional do primeiro trimestre chegou a 98,8 bilhões de won, alta de 158% ante igual período do ano anterior.",
+        "body": "A Kolon informou que registrou lucro operacional de 98,8 bilhões de won no primeiro trimestre deste ano. O valor representa aumento de 158% em relação ao mesmo período do ano anterior. O anúncio mostra que a rentabilidade trimestral da Kolon melhorou de forma expressiva frente ao primeiro trimestre do ano passado. Os principais números divulgados foram lucro operacional de 98,8 bilhões de won e crescimento anual de 158%. Com a forte alta do lucro operacional, o mercado deve seguir atento à trajetória dos resultados e da rentabilidade da Kolon. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Kolon steigert operativen Gewinn im Q1 auf 98,8 Mrd. Won, plus 158%",
+        "excerpt": "Kolon meldete für das erste Quartal einen operativen Gewinn von 98,8 Milliarden Won, 158% mehr als im Vorjahreszeitraum, und zeigt damit starke Ergebnisverbesserung.",
+        "body": "Kolon hat für das erste Quartal einen operativen Gewinn von 98,8 Milliarden Won gemeldet. Das entspricht einem Anstieg von 158% gegenüber dem gleichen Zeitraum des Vorjahres. Die Veröffentlichung zeigt, dass sich die vierteljährliche Profitabilität von Kolon im Vergleich zum ersten Quartal des Vorjahres deutlich verbessert hat. Die zentralen Angaben waren ein operativer Gewinn von 98,8 Milliarden Won und eine Wachstumsrate von 158% im Jahresvergleich. Wegen des kräftigen Gewinnanstiegs dürfte der Markt weiter auf Kolons Ergebnisentwicklung und künftige Profitabilität achten. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Kolon affiche 98,8 milliards de wons de bénéfice opérationnel au T1, +158%",
+        "excerpt": "Kolon a annoncé un bénéfice opérationnel de 98,8 milliards de wons au premier trimestre, en hausse de 158% sur un an, signalant une nette amélioration.",
+        "body": "Kolon a annoncé que son bénéfice opérationnel du premier trimestre avait atteint 98,8 milliards de wons. Ce montant représente une hausse de 158% par rapport à la même période de l’an dernier. Cette publication montre que la rentabilité trimestrielle de Kolon s’est fortement améliorée par rapport au premier trimestre de l’année précédente. Les chiffres clés communiqués sont un bénéfice opérationnel de 98,8 milliards de wons et une croissance annuelle de 158%. Cette forte progression devrait maintenir l’attention du marché sur la trajectoire des résultats et la rentabilité future de Kolon. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "كولون تسجل ربحا تشغيليا 98.8 مليار وون في الربع الأول بزيادة 158%",
+        "excerpt": "أعلنت كولون أن ربحها التشغيلي في الربع الأول بلغ 98.8 مليار وون، بزيادة 158% على أساس سنوي، ما يبرز تحسنا كبيرا في الربحية الفصلية.",
+        "body": "أعلنت كولون أن ربحها التشغيلي في الربع الأول من هذا العام بلغ 98.8 مليار وون. ويمثل ذلك زيادة قدرها 158% مقارنة بالفترة نفسها من العام السابق. ويظهر إعلان النتائج أن ربحية كولون الفصلية تحسنت بصورة كبيرة مقارنة بالربع الأول من العام الماضي. الأرقام الرئيسية المعلنة هي ربح تشغيلي قدره 98.8 مليار وون ومعدل نمو سنوي قدره 158%. ومع هذا الارتفاع الكبير في الربح التشغيلي، من المتوقع أن يستمر اهتمام السوق باتجاه نتائج كولون وربحيتها المستقبلية. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "कोलोन का Q1 परिचालन लाभ 98.8 अरब वॉन, सालाना 158% बढ़ा",
+        "excerpt": "कोलोन ने बताया कि पहली तिमाही में उसका परिचालन लाभ 98.8 अरब वॉन रहा, जो पिछले वर्ष की समान अवधि से 158% अधिक है।",
+        "body": "कोलोन ने घोषणा की कि इस वर्ष पहली तिमाही में उसका परिचालन लाभ 98.8 अरब वॉन रहा। यह पिछले वर्ष की समान अवधि की तुलना में 158% की वृद्धि है। यह नतीजा दिखाता है कि कोलोन की तिमाही लाभप्रदता पिछले साल की पहली तिमाही के मुकाबले काफी बेहतर हुई। कंपनी द्वारा बताए गए मुख्य आंकड़े पहली तिमाही का 98.8 अरब वॉन परिचालन लाभ और 158% सालाना वृद्धि दर हैं। परिचालन लाभ में बड़ी बढ़ोतरी के बाद बाजार का ध्यान कोलोन के नतीजों की दिशा और आगे की लाभप्रदता पर बना रह सकता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Kolon Catat Laba Operasi Q1 98,8 Miliar Won, Naik 158% YoY",
+        "excerpt": "Kolon menyatakan laba operasi kuartal pertama mencapai 98,8 miliar won, naik 158% dibanding periode yang sama tahun lalu, menandai perbaikan profitabilitas.",
+        "body": "Kolon mengumumkan laba operasi kuartal pertama tahun ini sebesar 98,8 miliar won. Angka tersebut naik 158% dibanding periode yang sama tahun sebelumnya. Pengumuman ini menunjukkan profitabilitas kuartalan Kolon membaik tajam dibanding kuartal pertama tahun lalu. Data utama yang disampaikan perusahaan adalah laba operasi kuartal pertama 98,8 miliar won dan tingkat pertumbuhan tahunan 158%. Dengan kenaikan laba operasi yang besar, perhatian pasar diperkirakan tetap tertuju pada tren kinerja dan profitabilitas Kolon ke depan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "9a12b49d0caf",
+    "slug": "제이알글로벌리츠-회생-개시-결정-보류-174872",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T21:03:08.576Z",
+    "updatedAt": "2026-05-15T21:03:08.576Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051500811",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051500811",
+    "titleFingerprint": "30f507e6675430464204bbdf3c2380e0e2c51e75",
+    "dedupKeys": [
+      "9a12b49d0caf202d13bc4e10fbe19d824c5aacff",
+      "30f507e6675430464204bbdf3c2380e0e2c51e75",
+      "81a3231ec02c8f6ae9a373996aef7de5d1b280c9"
+    ],
+    "imageUrl": "/images/articles/9a12b49d0caf.png",
+    "i18n": {
+      "ko": {
+        "title": "제이알글로벌리츠 회생 개시 결정 보류, 절차 향방에 시장 이목 집중",
+        "excerpt": "한국경제에 따르면 제이알글로벌리츠의 회생 개시 결정이 보류됐다. 구체적 사유와 향후 일정은 원문 요약에 제시되지 않았으며 절차 진행 여부가 핵심 쟁점이다.",
+        "body": "제이알글로벌리츠의 회생 개시 결정이 보류됐다고 hankyung.com이 전했다. 이번 보도에서 확인되는 핵심 사실은 해당 리츠에 대한 회생 절차 개시 여부가 즉시 결정되지 않고 보류됐다는 점이다. 제공된 원문에는 보류 사유, 법원 판단 내용, 관련 금액, 이해관계자 입장, 향후 일정 등 추가 정보가 포함되지 않았다. 이에 따라 시장과 투자자는 회생 절차가 실제로 개시될지, 결정이 언제 재개될지에 주목하게 됐다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "JR Global REIT Rehabilitation Decision Deferred as Investors Watch Next Step",
+        "excerpt": "According to Hankyung.com, a decision on opening rehabilitation proceedings for JR Global REIT has been deferred. The provided source does not state the reason or next schedule.",
+        "body": "A decision on whether to open rehabilitation proceedings for JR Global REIT has been deferred, according to hankyung.com. The central fact confirmed by the provided source is that the process was not approved or rejected immediately, but left pending. The source summary does not include the reason for the deferral, court details, related figures, stakeholder comments, or a timetable for the next decision. As a result, the key point for the market is whether the rehabilitation process will begin and when the decision process may resume. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "JRグローバルリートの再生開始決定を保留、手続きの行方に注目",
+        "excerpt": "韓国経済新聞によると、JRグローバルリートの再生手続き開始決定が保留された。提供された原文には理由や今後の日程は示されていない。",
+        "body": "JRグローバルリートの再生手続き開始決定が保留されたと、hankyung.comが伝えた。提供された原文で確認できる中心的な事実は、同リートに対する再生手続きの開始可否が直ちに決まらず、判断が保留されたという点だ。保留の理由、裁判所の判断内容、関連金額、利害関係者の立場、今後の日程などの追加情報は原文要約に含まれていない。市場では、再生手続きが実際に開始されるのか、判断がいつ再開されるのかが注目点となる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "JR Global REITs重整启动决定被暂缓，后续程序受关注",
+        "excerpt": "据韩国经济新闻网站报道，JR Global REITs的重整启动决定被暂缓。所提供原文未说明暂缓原因、法院细节或后续时间表。",
+        "body": "据hankyung.com报道，JR Global REITs的重整程序启动决定被暂缓。根据所提供原文可以确认的核心事实是，围绕该房地产投资信托是否启动重整程序，相关决定并未立即作出，而是处于暂缓状态。原文摘要中未包含暂缓原因、法院判断内容、相关金额、利益相关方立场或后续日程等进一步信息。因此，市场和投资者关注的重点在于重整程序是否会实际启动，以及该决定何时重新推进。来源: hankyung.com"
+      },
+      "es": {
+        "title": "JR Global REIT aplaza decisión de rehabilitación y centra la atención del mercado",
+        "excerpt": "Según Hankyung.com, se aplazó la decisión sobre iniciar la rehabilitación de JR Global REIT. La fuente aportada no detalla motivos, cifras ni calendario posterior.",
+        "body": "La decisión sobre si iniciar procedimientos de rehabilitación para JR Global REIT fue aplazada, informó hankyung.com. El hecho central confirmado por la fuente proporcionada es que la apertura del proceso no fue decidida de inmediato, sino que quedó en suspenso. El resumen original no incluye el motivo del aplazamiento, detalles judiciales, cifras relacionadas, posiciones de las partes interesadas ni un calendario para la próxima decisión. Por ello, el punto clave para el mercado es si el procedimiento de rehabilitación llegará a iniciarse y cuándo podría retomarse la decisión. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "JR Global REIT tem decisão de recuperação adiada e mercado acompanha próximos passos",
+        "excerpt": "Segundo o Hankyung.com, a decisão sobre abrir recuperação para o JR Global REIT foi adiada. A fonte fornecida não informa motivo, valores ou próximo cronograma.",
+        "body": "A decisão sobre a abertura de um processo de recuperação para o JR Global REIT foi adiada, informou o hankyung.com. O fato central confirmado pela fonte fornecida é que a abertura do procedimento não foi aprovada nem rejeitada de imediato, permanecendo pendente. O resumo original não inclui o motivo do adiamento, detalhes da decisão judicial, valores relacionados, posições de partes interessadas ou um calendário para a próxima etapa. Assim, o foco do mercado é saber se o processo de recuperação será efetivamente iniciado e quando a decisão poderá ser retomada. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "JR Global REIT: Entscheidung über Sanierungsverfahren vertagt, Markt wartet ab",
+        "excerpt": "Laut Hankyung.com wurde die Entscheidung über die Eröffnung eines Sanierungsverfahrens für JR Global REIT vertagt. Gründe und Zeitplan nennt die Vorlage nicht.",
+        "body": "Die Entscheidung über die Eröffnung eines Sanierungsverfahrens für JR Global REIT wurde vertagt, berichtete hankyung.com. Die zentrale durch die bereitgestellte Quelle bestätigte Tatsache ist, dass über den Start des Verfahrens nicht sofort entschieden wurde, sondern die Entscheidung offen bleibt. Die ursprüngliche Zusammenfassung enthält keine Angaben zu den Gründen der Vertagung, gerichtlichen Details, relevanten Beträgen, Positionen von Beteiligten oder einem weiteren Zeitplan. Damit richtet sich der Blick des Marktes darauf, ob das Sanierungsverfahren tatsächlich eröffnet wird und wann die Entscheidung wieder aufgenommen werden könnte. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "JR Global REIT voit la décision de réhabilitation reportée, le marché attend la suite",
+        "excerpt": "Selon Hankyung.com, la décision d’ouvrir une procédure de réhabilitation pour JR Global REIT a été reportée. La source fournie ne précise ni motif ni calendrier.",
+        "body": "La décision sur l’ouverture d’une procédure de réhabilitation pour JR Global REIT a été reportée, selon hankyung.com. Le fait central confirmé par la source fournie est que l’ouverture de la procédure n’a pas été décidée immédiatement et reste en attente. Le résumé original ne contient pas le motif du report, les éléments de décision judiciaire, les montants concernés, les positions des parties prenantes ni le calendrier des prochaines étapes. Le marché surveille donc surtout si la procédure de réhabilitation sera effectivement lancée et quand l’examen de la décision pourra reprendre. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تأجيل قرار بدء إنعاش JR Global REIT والأنظار تتجه إلى مسار الإجراءات",
+        "excerpt": "بحسب Hankyung.com، تم تأجيل قرار بدء إجراءات الإنعاش الخاصة بـ JR Global REIT. ولا يوضح النص المقدم سبب التأجيل أو الجدول الزمني التالي.",
+        "body": "تم تأجيل قرار ما إذا كان سيتم بدء إجراءات الإنعاش الخاصة بـ JR Global REIT، وفق ما نقل موقع hankyung.com. الحقيقة الأساسية المؤكدة في المصدر المقدم هي أن فتح الإجراء لم يُحسم فوراً، بل بقي القرار معلقاً. ولا يتضمن ملخص النص الأصلي سبب التأجيل، أو تفاصيل الحكم القضائي، أو الأرقام ذات الصلة، أو مواقف أصحاب المصلحة، أو موعد الخطوة التالية. لذلك يتركز اهتمام السوق على ما إذا كانت إجراءات الإنعاش ستبدأ فعلاً، ومتى يمكن استئناف البت في القرار. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "JR Global REIT की पुनर्वास शुरुआत पर फैसला टला, अगली प्रक्रिया पर नजर",
+        "excerpt": "Hankyung.com के अनुसार JR Global REIT के पुनर्वास प्रक्रिया शुरू करने पर फैसला टाल दिया गया। दिए गए स्रोत में कारण, राशि या अगली तारीख नहीं बताई गई है।",
+        "body": "JR Global REIT के लिए पुनर्वास प्रक्रिया शुरू की जाए या नहीं, इस पर फैसला टाल दिया गया है, hankyung.com ने बताया। उपलब्ध स्रोत से पुष्टि होने वाला मुख्य तथ्य यह है कि प्रक्रिया शुरू करने का निर्णय तुरंत नहीं लिया गया और मामला लंबित रखा गया। मूल सारांश में फैसले को टालने का कारण, अदालत से जुड़े विवरण, संबंधित राशि, हितधारकों की राय या अगली समय-सारिणी शामिल नहीं है। इसलिए बाजार की मुख्य नजर इस बात पर रहेगी कि पुनर्वास प्रक्रिया वास्तव में शुरू होती है या नहीं और निर्णय प्रक्रिया कब फिर आगे बढ़ती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Keputusan Rehabilitasi JR Global REIT Ditunda, Pasar Menunggu Langkah Lanjutan",
+        "excerpt": "Menurut Hankyung.com, keputusan pembukaan rehabilitasi JR Global REIT ditunda. Sumber yang diberikan tidak memuat alasan, angka terkait, atau jadwal berikutnya.",
+        "body": "Keputusan apakah akan membuka proses rehabilitasi untuk JR Global REIT telah ditunda, menurut hankyung.com. Fakta utama yang dapat dikonfirmasi dari sumber yang diberikan adalah bahwa pembukaan proses tersebut tidak langsung diputuskan dan masih ditahan. Ringkasan asli tidak mencantumkan alasan penundaan, rincian putusan pengadilan, angka terkait, posisi para pemangku kepentingan, atau jadwal keputusan berikutnya. Karena itu, perhatian pasar tertuju pada apakah proses rehabilitasi benar-benar akan dimulai dan kapan keputusan tersebut dapat dilanjutkan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "3a1968518e9c",
+    "slug": "포토-삼성전자-호주서-테크세미나-543043",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T21:02:19.230Z",
+    "updatedAt": "2026-05-15T21:02:19.230Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051598321",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051598321",
+    "titleFingerprint": "ec6e381da0aa1100f50124a8be0ad967d914b9d1",
+    "dedupKeys": [
+      "3a1968518e9c5f440a60c8e947e0cf6f48d82ba6",
+      "ec6e381da0aa1100f50124a8be0ad967d914b9d1",
+      "39bb7f2c0b277b37790a27e13ad4da019f794cfa"
+    ],
+    "imageUrl": "/images/articles/3a1968518e9c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 호주 테크세미나 개최, 현장 사진으로 전한 기술 행보",
+        "excerpt": "삼성전자가 호주에서 테크세미나를 열었다고 hankyung.com이 포토 기사로 전했다. 이번 보도는 행사 현장을 중심으로 삼성전자의 기술 관련 활동을 소개했다.",
+        "body": "삼성전자가 호주에서 테크세미나를 진행한 현장이 포토 기사로 전해졌다. 보도에 따르면 이번 행사는 삼성전자가 해외에서 기술 관련 세미나를 연 사례로, 장소는 호주로 확인된다. 원문은 별도의 세부 일정, 참석자, 발표 내용, 수치 자료를 제시하지 않고 사진 중심으로 행사 사실을 전달했다. 이번 소식은 삼성전자의 해외 기술 커뮤니케이션 활동을 확인할 수 있는 단신 성격의 보도다. 향후 구체적인 발표 내용이나 행사 성과는 추가 공식 자료가 나와야 확인할 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Samsung Electronics Holds Tech Seminar in Australia, Photo Report Shows",
+        "excerpt": "Samsung Electronics held a tech seminar in Australia, according to a photo report by hankyung.com. The coverage focused on the event scene and the company’s technology-related activity.",
+        "body": "Samsung Electronics held a tech seminar in Australia, according to a photo report. The report identifies the event as an overseas technology-related seminar by Samsung Electronics, with Australia confirmed as the location. The original item did not provide detailed schedules, participants, presentation topics, or numerical data, and instead delivered the fact of the event through photos. The news is a brief report showing Samsung Electronics’ overseas technology communication activity. Any specific presentation details or outcomes would require additional official information. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "サムスン電子、豪州でテックセミナー開催 写真で伝えた現場",
+        "excerpt": "サムスン電子が豪州でテックセミナーを開いたとhankyung.comが写真記事で報じた。記事はイベント現場を中心に同社の技術関連活動を伝えた。",
+        "body": "サムスン電子が豪州でテックセミナーを実施した現場が、写真記事として伝えられた。報道によると、今回の行事はサムスン電子が海外で開いた技術関連セミナーであり、開催地は豪州と確認されている。原文は詳しい日程、出席者、発表内容、数値データを示さず、写真を中心にイベントの事実を伝えた。今回のニュースは、サムスン電子の海外における技術コミュニケーション活動を確認できる短報の性格を持つ。具体的な発表内容や成果は、追加の公式資料が出てから確認できる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "三星电子在澳大利亚举办技术研讨会，现场照片披露动向",
+        "excerpt": "据hankyung.com图片报道，三星电子在澳大利亚举办技术研讨会。该报道以活动现场为中心，介绍了三星电子的技术相关活动。",
+        "body": "三星电子在澳大利亚举行技术研讨会的现场以图片新闻形式被报道。报道显示，此次活动是三星电子在海外开展的技术相关研讨会，地点确认为澳大利亚。原文没有提供具体日程、参会人员、发表内容或数据资料，而是以照片为主传达活动事实。这则消息属于简短报道，可用于确认三星电子的海外技术沟通活动。至于具体发表内容或活动成果，仍需等待更多官方资料后才能确认。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Samsung Electronics celebra un seminario tecnológico en Australia",
+        "excerpt": "Samsung Electronics celebró un seminario tecnológico en Australia, según un reporte fotográfico de hankyung.com. La nota se centró en la escena del evento y la actividad tecnológica de la compañía.",
+        "body": "Samsung Electronics celebró un seminario tecnológico en Australia, según un reporte fotográfico. La información identifica el acto como un seminario relacionado con tecnología realizado por Samsung Electronics en el extranjero, con Australia como lugar confirmado. El texto original no ofrece calendario detallado, participantes, temas de presentación ni cifras, y comunica el hecho del evento principalmente mediante fotografías. La noticia tiene carácter de breve reporte sobre la actividad de comunicación tecnológica internacional de Samsung Electronics. Los detalles concretos o resultados del evento solo podrán confirmarse con información oficial adicional. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Samsung Electronics realiza seminário tecnológico na Austrália",
+        "excerpt": "A Samsung Electronics realizou um seminário tecnológico na Austrália, segundo reportagem fotográfica do hankyung.com. A cobertura destacou o local do evento e a atividade tecnológica da empresa.",
+        "body": "A Samsung Electronics realizou um seminário tecnológico na Austrália, conforme informado em uma reportagem fotográfica. A notícia identifica o evento como um seminário relacionado à tecnologia promovido pela Samsung Electronics no exterior, com a Austrália confirmada como local. O texto original não apresenta agenda detalhada, participantes, temas de apresentação ou dados numéricos, concentrando-se em registrar o fato por meio de fotos. A informação tem caráter de nota breve sobre a comunicação tecnológica internacional da Samsung Electronics. Detalhes específicos ou resultados dependerão de materiais oficiais adicionais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Samsung Electronics veranstaltet Tech-Seminar in Australien",
+        "excerpt": "Samsung Electronics hat laut einem Fotobericht von hankyung.com ein Tech-Seminar in Australien abgehalten. Der Bericht konzentrierte sich auf den Veranstaltungsort und die technologiebezogene Aktivität.",
+        "body": "Samsung Electronics hat in Australien ein Tech-Seminar veranstaltet, wie ein Fotobericht meldet. Der Bericht beschreibt die Veranstaltung als technologiebezogenes Seminar von Samsung Electronics im Ausland; Australien ist als Ort bestätigt. Der Originaltext nennt keine detaillierten Termine, Teilnehmer, Vortragsthemen oder Zahlen und vermittelt die Tatsache der Veranstaltung vor allem über Fotos. Die Meldung ist damit eine kurze Nachricht über die internationale Technologiekommunikation von Samsung Electronics. Konkrete Inhalte oder Ergebnisse der Veranstaltung lassen sich erst mit zusätzlichen offiziellen Informationen bestätigen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Samsung Electronics organise un séminaire technologique en Australie",
+        "excerpt": "Samsung Electronics a organisé un séminaire technologique en Australie, selon un reportage photo de hankyung.com. L’article met l’accent sur le lieu de l’événement et l’activité technologique de l’entreprise.",
+        "body": "Samsung Electronics a organisé un séminaire technologique en Australie, selon un reportage photo. L’information présente l’événement comme un séminaire lié à la technologie tenu à l’étranger par Samsung Electronics, avec l’Australie confirmée comme lieu. Le texte original ne donne pas de calendrier détaillé, de liste de participants, de thèmes de présentation ni de données chiffrées, et rapporte principalement le fait au moyen de photos. Cette brève permet de constater l’activité de communication technologique internationale de Samsung Electronics. Les contenus précis ou les résultats devront être confirmés par d’autres informations officielles. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تعقد ندوة تقنية في أستراليا بالصور",
+        "excerpt": "عقدت سامسونغ إلكترونيكس ندوة تقنية في أستراليا، وفق تقرير مصور نشره hankyung.com. وركز الخبر على موقع الفعالية ونشاط الشركة المرتبط بالتكنولوجيا.",
+        "body": "عقدت سامسونغ إلكترونيكس ندوة تقنية في أستراليا، بحسب تقرير مصور. ويعرض التقرير الفعالية باعتبارها ندوة مرتبطة بالتكنولوجيا أقامتها سامسونغ إلكترونيكس في الخارج، مع تأكيد أستراليا كمكان للحدث. ولم يذكر النص الأصلي جدولا تفصيليا أو أسماء المشاركين أو موضوعات العروض أو بيانات رقمية، بل نقل واقعة الحدث أساسا عبر الصور. وتأتي هذه المعلومة كخبر موجز يوضح نشاط سامسونغ إلكترونيكس في التواصل التقني خارجيا. أما التفاصيل المحددة أو نتائج الفعالية فتحتاج إلى معلومات رسمية إضافية لتأكيدها. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Samsung Electronics ने ऑस्ट्रेलिया में टेक सेमिनार आयोजित किया",
+        "excerpt": "hankyung.com की फोटो रिपोर्ट के अनुसार Samsung Electronics ने ऑस्ट्रेलिया में टेक सेमिनार आयोजित किया। रिपोर्ट में कार्यक्रम स्थल और कंपनी की तकनीक से जुड़ी गतिविधि पर ध्यान दिया गया।",
+        "body": "Samsung Electronics ने ऑस्ट्रेलिया में टेक सेमिनार आयोजित किया, जिसकी जानकारी एक फोटो रिपोर्ट में दी गई। रिपोर्ट के अनुसार यह Samsung Electronics द्वारा विदेश में आयोजित तकनीक-संबंधी सेमिनार था और स्थान ऑस्ट्रेलिया बताया गया है। मूल खबर में विस्तृत कार्यक्रम, प्रतिभागियों, प्रस्तुति विषयों या संख्यात्मक आंकड़ों का उल्लेख नहीं है, बल्कि तस्वीरों के माध्यम से कार्यक्रम के तथ्य को बताया गया है। यह खबर Samsung Electronics की विदेश में तकनीकी संचार गतिविधि की संक्षिप्त जानकारी देती है। कार्यक्रम की विशिष्ट सामग्री या परिणाम अतिरिक्त आधिकारिक जानकारी से ही पुष्टि किए जा सकेंगे। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Samsung Electronics Gelar Seminar Teknologi di Australia",
+        "excerpt": "Samsung Electronics menggelar seminar teknologi di Australia, menurut laporan foto hankyung.com. Berita itu berfokus pada suasana acara dan aktivitas perusahaan terkait teknologi.",
+        "body": "Samsung Electronics menggelar seminar teknologi di Australia, sebagaimana disampaikan dalam laporan foto. Laporan tersebut mengidentifikasi acara ini sebagai seminar terkait teknologi yang diadakan Samsung Electronics di luar negeri, dengan Australia sebagai lokasi yang dikonfirmasi. Teks asli tidak menyebutkan jadwal rinci, peserta, topik presentasi, atau data angka, dan terutama menyampaikan fakta acara melalui foto. Berita ini merupakan laporan singkat yang menunjukkan aktivitas komunikasi teknologi Samsung Electronics di luar negeri. Rincian materi atau hasil acara baru dapat dipastikan jika ada informasi resmi tambahan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "f8b39d3bb440",
     "slug": "금가동맹-하나금융-1조-투자-두나무-4대-주주로-398788",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Laporan Kebocoran Data Pribadi Naik 46%, Peretasan Picu 6 dari 10 Kasus",
         "excerpt": "Menurut kasus investigasi dan sanksi yang dirilis Komisi Perlindungan Informasi Pribadi, laporan kebocoran data naik 46% tahun lalu dan enam dari sepuluh kasus disebabkan peretasan.",
         "body": "Jumlah laporan kebocoran data pribadi tahun lalu meningkat 46% dibandingkan setahun sebelumnya. Menurut kasus investigasi dan sanksi yang diungkap Komisi Perlindungan Informasi Pribadi, peretasan menjadi penyebab dalam enam dari sepuluh kasus kebocoran. Total denda yang dijatuhkan komisi mendekati 167,7 miliar won. Kasus yang dipublikasikan menunjukkan bahwa perusahaan dan lembaga perlu memperkuat pengelolaan data pribadi secara berkelanjutan serta sistem respons terhadap insiden pelanggaran. Kenaikan laporan dan besarnya porsi peretasan kembali menyoroti pentingnya manajemen keamanan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "937b680e2904",
-    "slug": "이명박-전-대통령-만난-오세훈-연일-부동산-이슈몰이-450157",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T05:54:21.093Z",
-    "updatedAt": "2026-05-15T05:54:21.093Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12049110",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12049110",
-    "titleFingerprint": "709674f103119cae88fb3b7e31a3fb2a5f7cb346",
-    "dedupKeys": [
-      "937b680e2904b08076a6bb3bd3ebcef2631f24e7",
-      "709674f103119cae88fb3b7e31a3fb2a5f7cb346",
-      "40046ee886fd1883e22aa814738a72baa02d4e50"
-    ],
-    "imageUrl": "/images/articles/937b680e2904.png",
-    "i18n": {
-      "ko": {
-        "title": "오세훈, 이명박 전 대통령과 청계천 산책…부동산 이슈 부각",
-        "excerpt": "국민의힘 오세훈 후보가 15일 이명박 전 대통령과 청계천 길을 함께 걸으며 서울시장 경험을 강조하고, 송파·강남·서초에서 부동산 대책 메시지를 이어갔다.",
-        "body": "국민의힘 오세훈 후보는 15일 이명박 전 대통령과 청계천 길을 함께 산책하며 서울시장직을 이어받았던 경험과 청계천 복원 사업에서 배운 점을 강조했다. 오 후보는 이 전 대통령을 “마음속 스승”이라고 표현하며 후임 서울시장으로서 도시 행정의 영향을 받았다는 취지를 밝혔다. 그는 최근 송파·강남·서초 등 서울 주요 지역에서 ‘부동산지옥 대책회의’를 열고 부동산 문제를 선거 핵심 이슈로 부각하고 있다. 이번 행보는 전직 대통령과의 만남, 청계천 상징성, 강남권 부동산 민심을 연결해 정책 메시지를 강화하려는 일정으로 풀이된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Oh Se-hoon Walks Cheonggyecheon With Lee Myung-bak, Highlights Housing Issues",
-        "excerpt": "People Power Party candidate Oh Se-hoon walked along Cheonggyecheon with former President Lee Myung-bak on the 15th, stressing his Seoul mayoral experience and housing agenda.",
-        "body": "People Power Party candidate Oh Se-hoon walked along Cheonggyecheon with former President Lee Myung-bak on the 15th, emphasizing the experience of succeeding him as Seoul mayor and lessons from the Cheonggyecheon restoration project. Oh described Lee as a “mentor in my heart,” saying he was influenced by Lee’s city administration as his successor. Oh has recently held “real estate hell countermeasure meetings” in Songpa, Gangnam and Seocho, raising housing policy as a central campaign issue. The schedule links the meeting with a former president, the symbolism of Cheonggyecheon and real estate sentiment in southern Seoul. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "呉世勲氏、李明博元大統領と清渓川を散策…不動産争点を強調",
-        "excerpt": "国民の力の呉世勲候補は15日、李明博元大統領と清渓川を歩き、ソウル市長経験と不動産対策メッセージを前面に出した。",
-        "body": "国民の力の呉世勲候補は15日、李明博元大統領と清渓川沿いを一緒に歩き、後任としてソウル市長を引き継いだ経験と清渓川復元事業から学んだ点を強調した。呉氏は李氏を「心の中の師」と表現し、後任市長として都市行政の影響を受けたとの趣旨を示した。呉氏は最近、松坡・江南・瑞草などソウルの主要地域で「不動産地獄対策会議」を開き、不動産問題を選挙の核心争点として浮上させている。今回の日程は元大統領との面会、清渓川の象徴性、江南圏の不動産民心を結び付けた動きとみられる。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "吴世勋与李明博漫步清溪川，继续突出房地产议题",
-        "excerpt": "国民力量候选人吴世勋15日与前总统李明博同行清溪川，强调首尔市长经历，并在松坡、江南、瑞草延续房地产对策信息。",
-        "body": "国民力量候选人吴世勋15日与前总统李明博一同漫步清溪川，强调自己曾作为后任接掌首尔市长职位的经历，以及从清溪川复原工程中学到的内容。吴世勋称李明博是“心中的老师”，表达了作为后任首尔市长受到其城市行政影响的意思。近期，吴世勋在松坡、江南、瑞草等首尔主要地区举行“房地产地狱对策会议”，把房地产问题凸显为选举核心议题。此次行程被视为把前总统会面、清溪川象征性和江南圈房地产民意相连接的政策信息安排。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Oh Se-hoon pasea con Lee Myung-bak y refuerza el foco inmobiliario",
-        "excerpt": "El candidato del Partido del Poder Popular, Oh Se-hoon, caminó el día 15 por Cheonggyecheon con el expresidente Lee Myung-bak y volvió a destacar su agenda inmobiliaria.",
-        "body": "El candidato del Partido del Poder Popular, Oh Se-hoon, caminó el día 15 junto al expresidente Lee Myung-bak por Cheonggyecheon y subrayó su experiencia como sucesor en la alcaldía de Seúl, así como lo aprendido del proyecto de restauración del arroyo. Oh describió a Lee como un “maestro en su corazón”, en referencia a la influencia recibida en materia de administración urbana. En los últimos días, Oh ha celebrado reuniones sobre medidas contra el “infierno inmobiliario” en Songpa, Gangnam y Seocho, situando la vivienda como un tema central de campaña. La agenda conecta la reunión con el expresidente, el simbolismo de Cheonggyecheon y el sentir inmobiliario del sur de Seúl. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Oh Se-hoon caminha com Lee Myung-bak e reforça pauta imobiliária",
-        "excerpt": "O candidato do Partido do Poder Popular, Oh Se-hoon, caminhou no dia 15 por Cheonggyecheon com o ex-presidente Lee Myung-bak e destacou sua mensagem sobre imóveis.",
-        "body": "O candidato do Partido do Poder Popular, Oh Se-hoon, caminhou no dia 15 com o ex-presidente Lee Myung-bak ao longo de Cheonggyecheon, enfatizando sua experiência como sucessor na Prefeitura de Seul e o que aprendeu com o projeto de restauração do riacho. Oh chamou Lee de “mestre em seu coração”, indicando a influência recebida na administração urbana. Recentemente, Oh realizou reuniões de medidas contra o “inferno imobiliário” em Songpa, Gangnam e Seocho, colocando a questão imobiliária no centro da campanha. A agenda combina o encontro com o ex-presidente, o simbolismo de Cheonggyecheon e o sentimento imobiliário no sul de Seul. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Oh Se-hoon spaziert mit Lee Myung-bak und setzt Immobilienpolitik in den Fokus",
-        "excerpt": "Der Kandidat der People Power Party, Oh Se-hoon, ging am 15. mit Ex-Präsident Lee Myung-bak am Cheonggyecheon spazieren und betonte seine Wohnungsagenda.",
-        "body": "Der Kandidat der People Power Party, Oh Se-hoon, ging am 15. gemeinsam mit dem früheren Präsidenten Lee Myung-bak am Cheonggyecheon spazieren. Dabei verwies er auf seine Erfahrung als Nachfolger im Amt des Seouler Bürgermeisters und auf Lehren aus dem Wiederherstellungsprojekt des Cheonggyecheon. Oh bezeichnete Lee als einen „Mentor im Herzen“ und machte damit den Einfluss von Lees Stadtverwaltung deutlich. Zuletzt hielt Oh in Songpa, Gangnam und Seocho Treffen zu Maßnahmen gegen eine „Immobilienhölle“ ab und rückte die Wohnungsfrage ins Zentrum seiner Kampagne. Der Termin verbindet das Treffen mit dem Ex-Präsidenten, die Symbolik des Cheonggyecheon und die Immobilien-Stimmung im Süden Seouls. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Oh Se-hoon marche avec Lee Myung-bak et remet l’immobilier au premier plan",
-        "excerpt": "Le candidat du Parti du pouvoir populaire, Oh Se-hoon, a marché le 15 le long de Cheonggyecheon avec l’ancien président Lee Myung-bak, en soulignant son agenda immobilier.",
-        "body": "Le candidat du Parti du pouvoir populaire, Oh Se-hoon, a marché le 15 avec l’ancien président Lee Myung-bak le long de Cheonggyecheon, mettant en avant son expérience de successeur à la mairie de Séoul et les enseignements tirés du projet de restauration du cours d’eau. Oh a qualifié Lee de “maître dans son cœur”, indiquant l’influence de son administration urbaine. Récemment, Oh a organisé à Songpa, Gangnam et Seocho des réunions sur les mesures contre “l’enfer immobilier”, faisant de ce sujet un axe majeur de campagne. Ce déplacement relie la rencontre avec l’ancien président, la symbolique de Cheonggyecheon et le sentiment immobilier dans le sud de Séoul. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "أوه سي هون يمشي مع لي ميونغ باك ويبرز قضية العقارات في سيئول",
-        "excerpt": "مرشح حزب قوة الشعب أوه سي هون سار في 15 من الشهر مع الرئيس الأسبق لي ميونغ باك على طريق تشونغ غيه تشون، مؤكدا خبرته ورسائله بشأن العقارات.",
-        "body": "سار مرشح حزب قوة الشعب أوه سي هون في 15 من الشهر مع الرئيس الأسبق لي ميونغ باك على طول تشونغ غيه تشون، مشددا على خبرته حين خلفه في منصب عمدة سيئول وعلى ما تعلمه من مشروع ترميم المجرى. ووصف أوه لي بأنه “معلم في القلب”، في إشارة إلى تأثره بإدارته الحضرية. وفي الآونة الأخيرة عقد أوه اجتماعات بعنوان تدابير مواجهة “جحيم العقارات” في سونغبا وغانغنام وسوتشو، واضعا قضية العقارات في صلب حملته. وتجمع هذه الخطوة بين لقاء الرئيس الأسبق ورمزية تشونغ غيه تشون ومزاج سوق العقارات في جنوب سيئول. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "ओ से-हून ने ली म्युंग-बाक संग चोंग्येचोन में सैर कर रियल एस्टेट मुद्दा उठाया",
-        "excerpt": "पीपल पावर पार्टी के उम्मीदवार ओ से-हून ने 15 तारीख को पूर्व राष्ट्रपति ली म्युंग-बाक के साथ चोंग्येचोन में चलते हुए सियोल मेयर अनुभव और आवास एजेंडा रखा।",
-        "body": "पीपल पावर पार्टी के उम्मीदवार ओ से-हून ने 15 तारीख को पूर्व राष्ट्रपति ली म्युंग-बाक के साथ चोंग्येचोन मार्ग पर सैर की और सियोल मेयर पद पर उनके उत्तराधिकारी के रूप में अपने अनुभव तथा चोंग्येचोन पुनर्स्थापन परियोजना से मिली सीख पर जोर दिया। ओ ने ली को “दिल के गुरु” के रूप में बताया और संकेत दिया कि शहर प्रशासन में वे उनसे प्रभावित रहे। हाल में ओ ने सोंगपा, गंगनम और सेओचो जैसे सियोल के प्रमुख क्षेत्रों में “रियल एस्टेट हेल” उपाय बैठकें की हैं, जिससे संपत्ति मुद्दा चुनाव का केंद्रीय विषय बन रहा है। यह कार्यक्रम पूर्व राष्ट्रपति से मुलाकात, चोंग्येचोन की प्रतीकात्मकता और दक्षिणी सियोल की संपत्ति भावना को जोड़ता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Oh Se-hoon Berjalan dengan Lee Myung-bak, Soroti Isu Properti Seoul",
-        "excerpt": "Kandidat Partai Kekuatan Rakyat Oh Se-hoon pada tanggal 15 berjalan di Cheonggyecheon bersama mantan Presiden Lee Myung-bak dan menegaskan agenda propertinya.",
-        "body": "Kandidat Partai Kekuatan Rakyat Oh Se-hoon pada tanggal 15 berjalan bersama mantan Presiden Lee Myung-bak di sepanjang Cheonggyecheon, menekankan pengalamannya sebagai penerus wali kota Seoul dan pelajaran dari proyek restorasi Cheonggyecheon. Oh menyebut Lee sebagai “guru di hati,” dengan maksud bahwa ia terpengaruh oleh administrasi perkotaan Lee sebagai penerusnya. Belakangan, Oh menggelar rapat langkah atas “neraka properti” di Songpa, Gangnam, dan Seocho, menjadikan isu properti sebagai agenda utama kampanye. Langkah ini menghubungkan pertemuan dengan mantan presiden, simbolisme Cheonggyecheon, dan sentimen properti di kawasan selatan Seoul. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "1e363e218bff",
-    "slug": "부동산펀드-시동-거는-한앤코-운용-전문가-영입나서-942914",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T05:53:16.998Z",
-    "updatedAt": "2026-05-15T05:53:16.998Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049113",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049113",
-    "titleFingerprint": "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
-    "dedupKeys": [
-      "1e363e218bffed753b8045e1f79665ea07368bd1",
-      "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
-      "06d2c3900cedc1bf8898ede5cd786caf87257bbb"
-    ],
-    "imageUrl": "/images/articles/1e363e218bff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한앤컴퍼니, 부동산펀드 본격화…신설 운용사 에이치캠 전문가 영입 추진",
-        "excerpt": "한앤컴퍼니가 5월 15일 보도된 레이더M 기사에서 신설 자산운용 법인 에이치캠을 통해 부동산펀드 사업에 시동을 걸고 운용 전문가 영입에 나선 것으로 전해졌다.",
-        "body": "사모펀드 운용사 한앤컴퍼니가 신설 자산운용 법인 에이치캠(HC)을 중심으로 부동산펀드 사업을 본격 준비하고 있다. 매일경제 자본시장 전문 유료매체 레이더M은 5월 15일 14시 18분 보도에서 한앤컴퍼니가 에이치캠을 통해 부동산펀드에 시동을 걸고 운용 전문가 영입에 나섰다고 전했다. 이번 움직임은 기존 사모펀드 운용 역량을 기반으로 자산운용 영역을 넓히려는 흐름으로 읽힌다. 구체적인 펀드 규모나 투자 대상은 원문에 공개되지 않았다. 향후 전문 인력 확보 여부가 에이치캠의 초기 운용 전략과 부동산펀드 추진 속도에 영향을 줄 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hahn & Company Moves Into Real Estate Funds With HC Hiring Push",
-        "excerpt": "Hahn & Company is preparing a real estate fund business through its new asset management entity HC and has begun recruiting investment management specialists, according to a May 15 Radar M report.",
-        "body": "Private equity firm Hahn & Company is preparing to launch a real estate fund business centered on its newly established asset management company, HC. Radar M, Maeil Business Newspaper’s capital markets paid publication, reported at 14:18 on May 15 that Hahn & Company is moving to activate real estate funds through HC and is seeking to recruit asset management professionals. The step points to an expansion of the firm’s asset management activities based on its private equity operating experience. The original report did not disclose a specific fund size or investment targets. Whether HC secures experienced professionals is expected to affect its early management strategy and the pace of the real estate fund rollout. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ハーン・アンド・カンパニー、不動産ファンド始動へHCで専門人材を募集",
-        "excerpt": "ハーン・アンド・カンパニーは5月15日のRadar M報道で、新設資産運用会社HCを通じて不動産ファンド事業を準備し、運用専門家の採用に動いていると伝えられた。",
-        "body": "プライベートエクイティ運用会社のハーン・アンド・カンパニーは、新設した資産運用法人エイチキャンプ（HC）を軸に不動産ファンド事業の準備を進めている。毎日経済新聞の資本市場専門有料媒体Radar Mは5月15日14時18分、同社がHCを通じて不動産ファンドを始動させ、運用専門家の採用に乗り出したと報じた。今回の動きは、既存のPEF運用力を基盤に資産運用領域を広げる流れと受け止められる。具体的なファンド規模や投資対象は原文では明らかにされていない。今後、専門人材を確保できるかがHCの初期運用戦略と不動産ファンド推進速度に影響するとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Hahn & Company启动房地产基金布局，新设HC推进专家招聘",
-        "excerpt": "据5月15日Radar M报道，私募股权机构Hahn & Company正通过新设资产管理法人HC筹备房地产基金业务，并已开始招聘投资管理专家。",
-        "body": "私募股权基金管理公司Hahn & Company正以新设资产管理法人HC为中心，准备启动房地产基金业务。每日经济新闻资本市场专业付费媒体Radar M于5月15日14时18分报道称，Hahn & Company正通过HC推动房地产基金起步，并着手招聘资产管理专家。此举可被视为该公司在既有私募基金管理能力基础上，扩展资产管理领域的动作。原文未披露具体基金规模或投资标的。未来能否 확보专业人才，预计将影响HC的初期管理战略以及房地产基金推进速度。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hahn & Company activa fondos inmobiliarios y busca expertos para HC",
-        "excerpt": "Hahn & Company prepara su negocio de fondos inmobiliarios mediante la nueva gestora HC y ha iniciado la contratación de especialistas, según informó Radar M el 15 de mayo.",
-        "body": "La gestora de capital privado Hahn & Company está preparando un negocio de fondos inmobiliarios centrado en su nueva sociedad de gestión de activos, HC. Radar M, medio de pago especializado en mercados de capitales de Maeil Business Newspaper, informó el 15 de mayo a las 14:18 que Hahn & Company está poniendo en marcha fondos inmobiliarios a través de HC y busca incorporar expertos en gestión. El movimiento apunta a ampliar su actividad de gestión de activos sobre la base de su experiencia en fondos de capital privado. El informe original no reveló el tamaño del fondo ni los activos objetivo. La contratación de profesionales será un factor relevante para la estrategia inicial de HC y el ritmo de avance del fondo inmobiliario. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hahn & Company avança em fundos imobiliários e busca especialistas para HC",
-        "excerpt": "A Hahn & Company prepara uma operação de fundos imobiliários por meio da nova gestora HC e iniciou a busca por profissionais de gestão, segundo reportagem da Radar M em 15 de maio.",
-        "body": "A gestora de private equity Hahn & Company está preparando um negócio de fundos imobiliários com foco em sua nova empresa de gestão de ativos, a HC. A Radar M, publicação paga especializada em mercado de capitais do Maeil Business Newspaper, informou em 15 de maio, às 14h18, que a Hahn & Company está dando início aos fundos imobiliários por meio da HC e busca contratar especialistas em gestão. O movimento indica uma ampliação das atividades de gestão de ativos com base na experiência já acumulada em private equity. A reportagem original não informou o tamanho do fundo nem os ativos-alvo. A obtenção de profissionais qualificados deve influenciar a estratégia inicial da HC e o ritmo de implementação dos fundos imobiliários. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hahn & Company startet Immobilienfonds-Pläne und sucht Experten für HC",
-        "excerpt": "Hahn & Company bereitet über die neue Vermögensverwaltung HC ein Immobilienfondsgeschäft vor und sucht dafür Managementexperten, berichtete Radar M am 15. Mai.",
-        "body": "Die Private-Equity-Gesellschaft Hahn & Company bereitet ein Immobilienfondsgeschäft vor, das sich auf die neu gegründete Vermögensverwaltung HC stützt. Radar M, das kostenpflichtige Kapitalmarktmedium der Maeil Business Newspaper, berichtete am 15. Mai um 14:18 Uhr, Hahn & Company wolle über HC Immobilienfonds anstoßen und dafür Fachleute im Asset Management gewinnen. Der Schritt deutet auf eine Erweiterung der Vermögensverwaltungsaktivitäten auf Basis der bestehenden Erfahrung im Private-Equity-Geschäft hin. Konkrete Angaben zu Fondsvolumen oder Anlagezielen wurden im Originalbericht nicht genannt. Ob HC erfahrene Spezialisten gewinnen kann, dürfte die frühe Managementstrategie und das Tempo der Immobilienfonds-Pläne beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hahn & Company prépare des fonds immobiliers et recrute pour HC",
-        "excerpt": "Hahn & Company prépare une activité de fonds immobiliers via sa nouvelle société de gestion HC et cherche des spécialistes de la gestion, selon Radar M le 15 mai.",
-        "body": "La société de capital-investissement Hahn & Company prépare une activité de fonds immobiliers autour de sa nouvelle entité de gestion d’actifs, HC. Radar M, média payant spécialisé dans les marchés de capitaux de Maeil Business Newspaper, a rapporté le 15 mai à 14h18 que Hahn & Company lançait cette initiative via HC et cherchait à recruter des professionnels de la gestion. Cette démarche s’inscrit dans un élargissement de ses activités de gestion d’actifs à partir de son expérience dans les fonds de private equity. Le rapport d’origine ne précise ni la taille du fonds ni les cibles d’investissement. La capacité à attirer des experts devrait peser sur la stratégie initiale de HC et sur le rythme de développement des fonds immobiliers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هان آند كومباني تتحرك نحو صناديق العقارات وتبحث عن خبراء لإتش سي",
-        "excerpt": "تستعد هان آند كومباني لإطلاق نشاط صناديق عقارية عبر شركة إدارة الأصول الجديدة HC، وبدأت البحث عن خبراء إدارة، وفق تقرير Radar M في 15 مايو.",
-        "body": "تستعد شركة الاستثمار الخاص هان آند كومباني لإطلاق نشاط في صناديق العقارات بالاعتماد على شركة إدارة الأصول الجديدة إتش سي HC. وذكرت Radar M، وهي وسيلة مدفوعة متخصصة في أسواق رأس المال تابعة لصحيفة Maeil Business Newspaper، في تقرير نشر في 15 مايو الساعة 14:18 أن هان آند كومباني تتحرك لتفعيل صناديق عقارية عبر HC وتسعى إلى استقطاب خبراء في الإدارة. وتشير الخطوة إلى توسيع نطاق إدارة الأصول استنادا إلى خبرتها القائمة في صناديق الاستثمار الخاص. ولم يكشف التقرير الأصلي عن حجم الصندوق أو أهداف الاستثمار. ومن المتوقع أن يؤثر نجاح HC في تأمين الخبرات على استراتيجيتها الأولية وسرعة دفع صناديق العقارات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hahn & Company रियल एस्टेट फंड की तैयारी में, HC के लिए विशेषज्ञों की तलाश",
-        "excerpt": "Radar M की 15 मई की रिपोर्ट के अनुसार Hahn & Company नई एसेट मैनेजमेंट इकाई HC के जरिए रियल एस्टेट फंड कारोबार शुरू करने की तैयारी कर रही है और विशेषज्ञों की भर्ती कर रही है।",
-        "body": "प्राइवेट इक्विटी फंड मैनेजर Hahn & Company अपनी नई एसेट मैनेजमेंट कंपनी HC को केंद्र में रखकर रियल एस्टेट फंड कारोबार की तैयारी कर रही है। Maeil Business Newspaper के पूंजी बाजार केंद्रित पेड मीडिया Radar M ने 15 मई को 14:18 बजे रिपोर्ट किया कि Hahn & Company HC के जरिए रियल एस्टेट फंड शुरू करने की दिशा में बढ़ रही है और मैनेजमेंट विशेषज्ञों की भर्ती कर रही है। यह कदम मौजूदा PEF प्रबंधन क्षमता के आधार पर एसेट मैनेजमेंट क्षेत्र का विस्तार माना जा सकता है। मूल रिपोर्ट में फंड के आकार या निवेश लक्ष्यों का खुलासा नहीं किया गया। आगे विशेषज्ञ कर्मियों की उपलब्धता HC की शुरुआती प्रबंधन रणनीति और रियल एस्टेट फंड की गति को प्रभावित कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hahn & Company Siapkan Dana Properti, HC Mulai Cari Ahli Investasi",
-        "excerpt": "Hahn & Company menyiapkan bisnis dana properti melalui entitas manajemen aset baru HC dan mulai merekrut ahli pengelolaan, menurut laporan Radar M pada 15 Mei.",
-        "body": "Manajer private equity Hahn & Company sedang menyiapkan bisnis dana properti dengan bertumpu pada perusahaan manajemen aset baru, HC. Radar M, media berbayar khusus pasar modal milik Maeil Business Newspaper, melaporkan pada 15 Mei pukul 14.18 bahwa Hahn & Company mulai menggerakkan dana properti melalui HC dan mencari tenaga ahli pengelolaan. Langkah ini menunjukkan perluasan aktivitas manajemen aset berdasarkan kemampuan yang telah dimiliki dalam pengelolaan PEF. Laporan asli tidak mengungkap ukuran dana maupun target investasinya. Keberhasilan HC mendapatkan tenaga profesional diperkirakan akan memengaruhi strategi pengelolaan awal dan kecepatan pelaksanaan dana properti. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "dfdf47019aab",
-    "slug": "한국-대표-세단-더-뉴-그랜저-출시-첫날-계약-1만대-돌파-613342",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T05:52:15.359Z",
-    "updatedAt": "2026-05-15T05:52:15.360Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12049117",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12049117",
-    "titleFingerprint": "71626dce11cdcc0b21655e83fc025044e18cf40a",
-    "dedupKeys": [
-      "dfdf47019aab52320009c4a62e6bc4f5a4fe02d9",
-      "71626dce11cdcc0b21655e83fc025044e18cf40a",
-      "ee321f72ce3bce8193a0af27623344ac9118bd66"
-    ],
-    "imageUrl": "/images/articles/dfdf47019aab.jpg",
-    "i18n": {
-      "ko": {
-        "title": "더 뉴 그랜저 첫날 1만대 계약 돌파, SUV 강세 속 세단 수요 확인",
-        "excerpt": "현대자동차 준대형 세단 더 뉴 그랜저가 출시 첫날 계약 1만대를 넘어서며 SUV 강세 속에서도 세단 시장의 저력을 보여줬다.",
-        "body": "현대자동차의 준대형 세단 ‘더 뉴 그랜저’가 출시 첫날 계약 대수 1만대를 넘어섰다. SUV 판매가 강세를 보이는 시장 흐름 속에서도 대표 세단으로서의 수요를 확인한 결과다. 이번 모델에는 인포테인먼트 시스템 ‘플레오스 커넥트’가 탑재됐으며, 최상위 트림인 ‘캘리그래피’ 선택 비중은 41%로 집계됐다. 고급 사양 선호가 계약 초반부터 뚜렷하게 나타난 셈이다. 더 뉴 그랜저의 초기 계약 성과는 국내 준대형 세단 시장의 경쟁 구도와 현대차 세단 라인업의 판매 흐름에 영향을 줄 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "The New Grandeur Tops 10,000 First-Day Orders, Showing Sedan Demand",
-        "excerpt": "Hyundai Motor’s midsize-large sedan The New Grandeur surpassed 10,000 contracts on its launch day, underscoring sedan demand despite SUV strength.",
-        "body": "Hyundai Motor’s midsize-large sedan, The New Grandeur, exceeded 10,000 contracts on its first day of release. The result confirmed demand for the brand’s flagship sedan even as SUVs continue to dominate the market. The model is equipped with the Pleos Connect infotainment system, while the top Calligraphy trim accounted for 41% of early contracts. That points to a clear preference for premium specifications from the start. The New Grandeur’s initial contract performance is expected to influence competition in Korea’s midsize-large sedan market and the sales momentum of Hyundai’s sedan lineup. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ザ・ニュー・グレンジャー初日1万台突破、SUV優勢でもセダン需要確認",
-        "excerpt": "現代自動車の準大型セダン、ザ・ニュー・グレンジャーが発売初日に契約1万台を超え、SUV優勢の中でもセダン需要を示した。",
-        "body": "現代自動車の準大型セダン「ザ・ニュー・グレンジャー」が、発売初日の契約台数で1万台を突破した。SUV販売が強い市場環境の中でも、韓国を代表するセダンとしての需要を確認した形だ。今回のモデルにはインフォテインメントシステム「Pleos Connect」が搭載され、最上位トリム「Calligraphy」の選択比率は41%と集計された。発売初期から高級仕様への選好が明確に表れた。ザ・ニュー・グレンジャーの初期契約実績は、韓国の準大型セダン市場の競争構図と現代自動車のセダン販売動向に影響を与える見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "全新Grandeur首日订单破1万辆，SUV热潮下验证轿车需求",
-        "excerpt": "现代汽车准大型轿车全新Grandeur上市首日订单突破1万辆，在SUV持续强势的市场中显示出轿车需求韧性。",
-        "body": "现代汽车准大型轿车“全新Grandeur”上市首日合同数量突破1万辆。在SUV销售持续强势的市场环境下，这一成绩验证了其作为代表性轿车的需求。该车型搭载信息娱乐系统“Pleos Connect”，最高配“Calligraphy”车型的选择比例达到41%。这表明上市初期消费者对高端配置的偏好已经较为明显。全新Grandeur的早期订单表现，预计将影响韩国准大型轿车市场的竞争格局以及现代汽车轿车产品线的销售走势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "The New Grandeur supera 10.000 pedidos en su debut y confirma demanda de sedanes",
-        "excerpt": "El sedán semigrande The New Grandeur de Hyundai superó 10.000 contratos en su primer día, mostrando la fuerza del sedán pese al auge de los SUV.",
-        "body": "El sedán semigrande de Hyundai Motor, The New Grandeur, superó los 10.000 contratos en su primer día de lanzamiento. El resultado confirmó la demanda por este sedán representativo incluso en un mercado donde las ventas de SUV siguen dominando. El modelo incorpora el sistema de infoentretenimiento Pleos Connect, mientras que la versión superior Calligraphy representó el 41% de los contratos iniciales. Esto muestra una clara preferencia por especificaciones premium desde el inicio. El desempeño temprano de The New Grandeur podría influir en la competencia del mercado coreano de sedanes semigrandes y en la evolución de ventas de la línea sedán de Hyundai. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "The New Grandeur passa de 10 mil pedidos no 1º dia e reforça demanda por sedãs",
-        "excerpt": "O sedã semigrande The New Grandeur, da Hyundai, superou 10 mil contratos no dia de lançamento, mostrando força dos sedãs mesmo com SUVs em alta.",
-        "body": "O sedã semigrande da Hyundai Motor, The New Grandeur, ultrapassou 10 mil contratos no primeiro dia de lançamento. O resultado confirmou a demanda pelo sedã representativo da marca mesmo em um mercado no qual os SUVs seguem fortes. O modelo traz o sistema de infoentretenimento Pleos Connect, enquanto a versão topo de linha Calligraphy respondeu por 41% dos contratos iniciais. Isso indica uma preferência clara por configurações premium desde o começo. O desempenho inicial do The New Grandeur deve influenciar a dinâmica competitiva do mercado coreano de sedãs semigrandes e o fluxo de vendas da linha de sedãs da Hyundai. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "The New Grandeur übertrifft am ersten Tag 10.000 Bestellungen trotz SUV-Trend",
-        "excerpt": "Hyundais gehobene Limousine The New Grandeur überschritt am ersten Verkaufstag 10.000 Verträge und zeigte trotz starker SUVs stabile Sedan-Nachfrage.",
-        "body": "Hyundai Motors gehobene Limousine The New Grandeur hat am ersten Tag der Markteinführung mehr als 10.000 Verträge erzielt. Das Ergebnis bestätigt die Nachfrage nach der repräsentativen Limousine, obwohl SUVs den Markt weiter prägen. Das Modell ist mit dem Infotainmentsystem Pleos Connect ausgestattet; die höchste Ausstattungslinie Calligraphy machte 41% der frühen Verträge aus. Damit zeigte sich von Beginn an eine klare Präferenz für hochwertige Spezifikationen. Die anfängliche Vertragsleistung des The New Grandeur dürfte die Wettbewerbslage im koreanischen Markt für gehobene Limousinen und die Verkaufsdynamik von Hyundais Sedan-Angebot beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "The New Grandeur dépasse 10 000 commandes dès le premier jour malgré les SUV",
-        "excerpt": "La berline grande catégorie The New Grandeur de Hyundai a dépassé 10 000 contrats le jour de son lancement, confirmant la demande pour les berlines.",
-        "body": "La berline grande catégorie de Hyundai Motor, The New Grandeur, a dépassé 10 000 contrats dès son premier jour de lancement. Ce résultat confirme la demande pour cette berline représentative alors que les SUV restent dominants sur le marché. Le modèle est équipé du système d’infodivertissement Pleos Connect, tandis que la finition haut de gamme Calligraphy a représenté 41% des contrats initiaux. Cela montre une préférence nette pour les versions premium dès le départ. La performance initiale de The New Grandeur devrait influencer la concurrence sur le marché coréen des grandes berlines et la dynamique de vente de la gamme berline de Hyundai. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ذا نيو غرانجر يتجاوز 10 آلاف عقد في يومه الأول رغم قوة مبيعات SUV",
-        "excerpt": "تجاوزت سيارة هيونداي ذا نيو غرانجر السيدان شبه الكبيرة 10 آلاف عقد في يوم الإطلاق، مؤكدة استمرار الطلب على السيدان رغم زخم سيارات SUV.",
-        "body": "تجاوزت سيارة هيونداي موتور السيدان شبه الكبيرة “ذا نيو غرانجر” 10 آلاف عقد في اليوم الأول من طرحها. وتؤكد هذه النتيجة وجود طلب على السيدان 대표ية للعلامة، رغم استمرار قوة مبيعات سيارات SUV في السوق. وزُود الطراز بنظام المعلومات والترفيه “Pleos Connect”، بينما شكلت فئة “Calligraphy” الأعلى تجهيزاً 41% من العقود الأولية. ويظهر ذلك تفضيلاً واضحاً للمواصفات الفاخرة منذ بداية الإطلاق. ومن المتوقع أن يؤثر أداء ذا نيو غرانجر المبكر في المنافسة داخل سوق السيدان شبه الكبيرة في كوريا وفي مسار مبيعات تشكيلة السيدان لدى هيونداي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "द न्यू ग्रैंड्योर ने पहले दिन 10,000 अनुबंध पार किए, सेडान मांग दिखी",
-        "excerpt": "हुंडई मोटर की सेमी-लार्ज सेडान द न्यू ग्रैंड्योर ने लॉन्च के पहले दिन 10,000 से अधिक अनुबंध हासिल किए, SUV के दबदबे के बीच सेडान मांग दिखी।",
-        "body": "हुंडई मोटर की सेमी-लार्ज सेडान “द न्यू ग्रैंड्योर” ने लॉन्च के पहले दिन 10,000 से अधिक अनुबंध दर्ज किए। SUV बिक्री के मजबूत रुझान वाले बाजार में भी इस प्रतिनिधि सेडान की मांग की पुष्टि हुई। इस मॉडल में इंफोटेनमेंट सिस्टम “Pleos Connect” दिया गया है, जबकि शीर्ष ट्रिम “Calligraphy” की हिस्सेदारी शुरुआती अनुबंधों में 41% रही। इससे शुरुआत से ही प्रीमियम फीचर्स के प्रति स्पष्ट झुकाव दिखता है। द न्यू ग्रैंड्योर का शुरुआती अनुबंध प्रदर्शन कोरिया के सेमी-लार्ज सेडान बाजार की प्रतिस्पर्धा और हुंडई की सेडान लाइनअप की बिक्री दिशा को प्रभावित कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "The New Grandeur Tembus 10.000 Kontrak Hari Pertama, Sedan Tetap Kuat",
-        "excerpt": "Sedan semi-besar Hyundai The New Grandeur melampaui 10.000 kontrak pada hari peluncuran, menegaskan permintaan sedan di tengah kuatnya SUV.",
-        "body": "Sedan semi-besar Hyundai Motor, The New Grandeur, melampaui 10.000 kontrak pada hari pertama peluncurannya. Hasil ini mengonfirmasi permintaan terhadap sedan representatif tersebut meski penjualan SUV masih kuat di pasar. Model ini dibekali sistem infotainment Pleos Connect, sementara trim tertinggi Calligraphy menyumbang 41% dari kontrak awal. Angka itu menunjukkan preferensi yang jelas terhadap spesifikasi premium sejak awal. Kinerja kontrak awal The New Grandeur diperkirakan memengaruhi peta persaingan pasar sedan semi-besar di Korea serta arah penjualan lini sedan Hyundai. Sumber: mk.co.kr"
       }
     }
   }
