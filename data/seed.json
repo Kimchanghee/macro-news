@@ -1,5 +1,230 @@
 [
   {
+    "id": "121d1f5d2d68",
+    "slug": "ai-써보니-별로던데-부장님-그렇게-쓰시는-거-아닙니다-378090",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T20:06:55.377Z",
+    "updatedAt": "2026-05-15T20:06:55.377Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/it/12049165",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12049165",
+    "titleFingerprint": "ec1d081182a840a802c13a808bd90a1bfd67ea23",
+    "dedupKeys": [
+      "121d1f5d2d68f61b109e1dae1520e35f4a9f08b5",
+      "ec1d081182a840a802c13a808bd90a1bfd67ea23",
+      "528343a1549ffda55647bd4ea278235c4b6e8b18"
+    ],
+    "imageUrl": "/images/articles/121d1f5d2d68.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 활용 성패 가르는 사용법, 기업 생존 변수로 떠오른 인공지능 전략",
+        "excerpt": "글로벌 비즈니스 생태계가 AI라는 지각변동을 맞은 가운데, 인공지능은 기술 화두를 넘어 기업 제품과 생존 전략에 직접 연결되는 핵심 변수로 부상했다.",
+        "body": "글로벌 비즈니스 생태계가 인공지능(AI)이라는 거대한 지각변동 앞에 서 있다. 이제 AI는 단순히 새 기술을 써보는 차원을 넘어, 기업이 어떤 제품을 만들고 어떤 방식으로 경쟁할지를 좌우하는 핵심 상수로 떠올랐다. 원문은 AI를 사용해봤지만 기대만큼 효과를 느끼지 못했다는 반응이 나올 수 있으나, 이는 AI 자체의 한계라기보다 활용 방식의 문제일 수 있다는 메시지를 전한다. 기업 입장에서는 AI를 도입했는지 여부만큼이나 어떻게 쓰는지가 중요해졌다. 앞으로 AI 활용 역량은 업무 방식과 제품 경쟁력, 나아가 생존 전략과 맞물릴 가능성이 크다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "AI Use Now Defines Corporate Survival as Strategy Matters More Than Trials",
+        "excerpt": "As the global business ecosystem faces the major shift brought by AI, artificial intelligence has moved beyond a tech topic to become a core factor tied to products and corporate survival.",
+        "body": "The global business ecosystem is standing before a major shift driven by artificial intelligence (AI). AI is no longer just a new technology to try; it has become a core constant that can shape what products companies build and how they compete. The original article notes that some users may feel AI is unimpressive after trying it, but the message is that the issue may lie less in AI itself than in how it is used. For companies, how they apply AI has become as important as whether they adopt it. AI capability is likely to connect with work methods, product competitiveness, and survival strategy. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "AI活用の成否が企業生存を左右、試すだけでは足りない戦略課題に",
+        "excerpt": "世界のビジネス生態系がAIという大きな変化に直面する中、人工知能は技術的な話題を超え、製品と企業の生存戦略に直結する核心要素になった。",
+        "body": "世界のビジネス生態系は、人工知能（AI）という大きな地殻変動の前に立っている。AIはもはや新しい技術を試してみる段階にとどまらず、企業がどのような製品を作り、どのように競争するかを左右する核心的な定数として浮上した。原文は、AIを使ってみたが期待ほどではないという反応が出ることもある一方で、それはAIそのものの限界というより活用方法の問題であり得ると伝えている。企業にとっては導入の有無だけでなく、どう使うかが重要になった。AI活用力は今後、業務方式や製品競争力、生存戦略と結び付く可能性が大きい。出典: mk.co.kr。"
+      },
+      "zh": {
+        "title": "AI使用方式决定企业生存，人工智能战略已不只是技术尝试",
+        "excerpt": "全球商业生态正面对AI带来的巨大变动，人工智能已超越单纯技术话题，成为与企业产品、竞争方式和生存战略直接相关的核心变量。",
+        "body": "全球商业生态正站在人工智能（AI）带来的巨大变动面前。如今，AI已不再只是试用新技术的层面，而是成为影响企业生产什么产品、以何种方式竞争的核心常量。原文指出，有人尝试AI后可能觉得效果不如预期，但这一信息强调，问题未必在于AI本身的局限，更可能在于使用方式。对企业而言，是否导入AI固然重要，如何使用AI同样关键。未来，AI运用能力很可能与工作方式、产品竞争力以及企业生存战略紧密相连。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "El uso de IA ya pesa en la supervivencia empresarial y exige estrategia real",
+        "excerpt": "Mientras el ecosistema empresarial global afronta el gran cambio de la IA, la inteligencia artificial deja de ser solo un tema técnico y pasa a incidir en productos y supervivencia corporativa.",
+        "body": "El ecosistema empresarial global está ante una gran transformación impulsada por la inteligencia artificial (IA). La IA ya no se limita a ser una tecnología nueva para probar; se ha convertido en una constante central que puede influir en qué productos crean las empresas y cómo compiten. El texto original señala que algunos pueden probar la IA y sentir que no cumple sus expectativas, pero el mensaje es que el problema puede estar más en la forma de usarla que en una limitación de la propia IA. Para las empresas, cómo aplican la IA es tan importante como adoptarla. Esa capacidad puede vincularse con métodos de trabajo, competitividad de producto y estrategia de supervivencia. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Uso da IA vira fator de sobrevivência empresarial e exige estratégia prática",
+        "excerpt": "Com o ecossistema global de negócios diante da mudança provocada pela IA, a inteligência artificial deixa de ser só tema técnico e passa a pesar em produtos e sobrevivência corporativa.",
+        "body": "O ecossistema global de negócios está diante de uma grande transformação provocada pela inteligência artificial (IA). A IA já não é apenas uma nova tecnologia a ser testada; tornou-se uma constante central que pode influenciar quais produtos as empresas criam e como competem. O texto original observa que alguns podem experimentar a IA e considerá-la abaixo do esperado, mas a mensagem é que o problema pode estar menos na própria IA e mais na forma de utilizá-la. Para as empresas, o modo de aplicar a IA tornou-se tão importante quanto adotá-la. Essa capacidade tende a se conectar a métodos de trabalho, competitividade de produtos e estratégia de sobrevivência. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KI-Nutzung wird zum Überlebensfaktor für Firmen und verlangt klare Strategie",
+        "excerpt": "Während das globale Geschäftsumfeld vor dem Umbruch durch KI steht, ist künstliche Intelligenz nicht mehr nur ein Technikthema, sondern ein Kernfaktor für Produkte und Überleben.",
+        "body": "Das globale Geschäftsumfeld steht vor einem großen Umbruch durch künstliche Intelligenz (KI). KI ist nicht länger nur eine neue Technologie zum Ausprobieren, sondern eine zentrale Konstante, die beeinflussen kann, welche Produkte Unternehmen entwickeln und wie sie konkurrieren. Der Originaltext verweist darauf, dass manche nach ersten Versuchen mit KI enttäuscht sein können. Die Botschaft lautet jedoch, dass das Problem weniger in KI selbst als in der Art ihrer Nutzung liegen kann. Für Unternehmen ist daher nicht nur entscheidend, ob sie KI einführen, sondern wie sie sie einsetzen. Diese Fähigkeit kann künftig mit Arbeitsweisen, Produktwettbewerb und Überlebensstrategie verbunden sein. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "L’usage de l’IA devient un enjeu de survie pour les entreprises",
+        "excerpt": "Alors que l’écosystème mondial des affaires fait face au bouleversement de l’IA, l’intelligence artificielle dépasse le simple sujet technique et touche produits et survie des entreprises.",
+        "body": "L’écosystème mondial des affaires se trouve devant un bouleversement majeur provoqué par l’intelligence artificielle (IA). L’IA ne se limite plus à une nouvelle technologie que l’on teste; elle devient une constante centrale capable d’influencer les produits créés par les entreprises et leur manière de rivaliser. Le texte original indique que certains peuvent essayer l’IA et la juger peu convaincante, mais le message est que le problème peut tenir davantage à la manière de l’utiliser qu’aux limites de l’IA elle-même. Pour les entreprises, la façon d’appliquer l’IA compte autant que son adoption. Cette capacité pourrait peser sur les méthodes de travail, la compétitivité des produits et la stratégie de survie. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "استخدام الذكاء الاصطناعي يتحول إلى عامل حاسم في بقاء الشركات",
+        "excerpt": "مع وقوف بيئة الأعمال العالمية أمام تحول كبير تقوده تقنيات الذكاء الاصطناعي، لم يعد الأمر موضوعا تقنيا فقط بل عاملا يمس المنتجات واستراتيجية بقاء الشركات.",
+        "body": "تقف بيئة الأعمال العالمية أمام تحول كبير تقوده تقنيات الذكاء الاصطناعي. لم يعد الذكاء الاصطناعي مجرد تقنية جديدة يجري اختبارها، بل أصبح عاملا أساسيا قد يؤثر في نوع المنتجات التي تطورها الشركات وطريقة تنافسها. يشير النص الأصلي إلى أن بعض المستخدمين قد يجربون الذكاء الاصطناعي ولا يجدونه على مستوى التوقعات، لكنه يوضح أن المشكلة قد تكون في طريقة الاستخدام أكثر من كونها حدا في التقنية نفسها. بالنسبة إلى الشركات، أصبح أسلوب تطبيق الذكاء الاصطناعي مهما بقدر أهمية تبنيه. وقد ترتبط هذه القدرة مستقبلا بأساليب العمل وتنافسية المنتجات واستراتيجية البقاء. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI का उपयोग अब कंपनियों के अस्तित्व और रणनीति का मुख्य सवाल बना",
+        "excerpt": "वैश्विक कारोबारी व्यवस्था AI से आए बड़े बदलाव के सामने है, जहां कृत्रिम बुद्धिमत्ता तकनीकी चर्चा से आगे बढ़कर उत्पादों और कंपनी के अस्तित्व से जुड़ा अहम कारक बन गई है।",
+        "body": "वैश्विक कारोबारी व्यवस्था कृत्रिम बुद्धिमत्ता (AI) से आए बड़े बदलाव के सामने खड़ी है। AI अब केवल कोई नई तकनीक आजमाने का विषय नहीं रह गया है; यह ऐसा मुख्य कारक बन गया है जो तय कर सकता है कि कंपनियां कौन से उत्पाद बनाती हैं और कैसे प्रतिस्पर्धा करती हैं। मूल लेख बताता है कि कुछ लोग AI का उपयोग करने के बाद उसे उम्मीद से कम प्रभावी मान सकते हैं, लेकिन संदेश यह है कि समस्या AI की अपनी सीमा से अधिक उसके उपयोग के तरीके में हो सकती है। कंपनियों के लिए AI अपनाना जितना महत्वपूर्ण है, उसे कैसे लागू किया जाता है यह भी उतना ही अहम हो गया है। आगे AI उपयोग क्षमता कामकाज के तरीकों, उत्पाद प्रतिस्पर्धा और अस्तित्व रणनीति से जुड़ सकती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Cara memakai AI kini jadi faktor hidup perusahaan, bukan sekadar uji coba",
+        "excerpt": "Ekosistem bisnis global menghadapi perubahan besar akibat AI, sementara kecerdasan buatan kini melampaui isu teknologi dan menjadi faktor inti bagi produk serta kelangsungan perusahaan.",
+        "body": "Ekosistem bisnis global sedang berada di depan perubahan besar yang dibawa kecerdasan buatan (AI). AI tidak lagi sebatas teknologi baru untuk dicoba; ia telah menjadi konstanta utama yang dapat memengaruhi produk apa yang dibuat perusahaan dan bagaimana mereka bersaing. Artikel asli menyebut bahwa sebagian orang mungkin merasa AI kurang memuaskan setelah mencobanya, tetapi pesannya adalah masalah itu bisa lebih terkait cara penggunaan daripada keterbatasan AI itu sendiri. Bagi perusahaan, cara menerapkan AI kini sama pentingnya dengan keputusan untuk mengadopsinya. Ke depan, kemampuan memanfaatkan AI dapat terkait dengan pola kerja, daya saing produk, dan strategi bertahan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "d77224e4a59f",
+    "slug": "에어울프-정도는-돼야-살아남는다-공격헬기-무용론-뒤집을-승부수-585283",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T20:05:56.150Z",
+    "updatedAt": "2026-05-15T20:05:56.150Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12049116",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12049116",
+    "titleFingerprint": "ab3ee6f5542316ca8a64e08bfab8d833a7484cf1",
+    "dedupKeys": [
+      "d77224e4a59ff5e36f54e558480b0758569b2d87",
+      "ab3ee6f5542316ca8a64e08bfab8d833a7484cf1",
+      "c4cdb73f1366b52536da740b18d2acc9917d57b2"
+    ],
+    "imageUrl": "/images/articles/d77224e4a59f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고속 중형기동헬기 조건, 공격헬기 무용론 뒤집을 생존 해법",
+        "excerpt": "지난 4월 5일 이란 영공에서 격추돼 실종된 F-15E 조종사 구조 사례를 통해 현대전에서 고속 중형기동헬기가 왜 필요한지 짚었다.",
+        "body": "지난 4월 5일 이란 영공에서 F-15E 전투기가 격추돼 조종사가 실종되자, 미군은 수십 년 만에 가장 복잡하고 위험한 탐색구조 작전에 나섰다. 이 사례는 현대전에서 기존 공격헬기와 구조전력의 한계가 다시 논의되는 계기가 됐다. 원문은 ‘에어울프 정도는 돼야 살아남는다’는 표현으로, 고속 중형기동헬기가 생존성과 기동성을 동시에 갖춰야 한다는 조건을 강조했다. 공격헬기 무용론이 제기되는 상황에서, 더 빠르고 위험한 전장 환경을 견딜 수 있는 중형기동헬기가 승부수로 거론된다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "High-Speed Medium Utility Helicopters Emerge as Answer to Attack Helicopter Doubts",
+        "excerpt": "A reported April 5 rescue case involving a missing F-15E pilot over Iranian airspace highlights why high-speed medium utility helicopters matter in modern warfare.",
+        "body": "On April 5, after an F-15E fighter jet was shot down over Iranian airspace and its pilot went missing, the U.S. military launched what was described as one of its most complex and dangerous search-and-rescue operations in decades. The case renewed debate over the limits of attack helicopters and rescue assets in modern warfare. The original article used the phrase that only something like “Airwolf” could survive, stressing that a high-speed medium utility helicopter must combine survivability with mobility. As doubts grow over the usefulness of attack helicopters, a faster medium utility helicopter able to endure a more dangerous battlefield is being discussed as a possible answer. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "高速中型機動ヘリ、攻撃ヘリ無用論を覆す生存条件に注目",
+        "excerpt": "4月5日にイラン領空で撃墜され行方不明となったF-15E操縦士の救助事例から、現代戦で高速中型機動ヘリが必要な理由を探る。",
+        "body": "4月5日、イラン領空でF-15E戦闘機が撃墜され操縦士が行方不明になると、米軍は数十年ぶりに最も複雑で危険な捜索救助作戦に乗り出した。この事例は、現代戦における従来の攻撃ヘリや救助戦力の限界が再び議論されるきっかけとなった。原文は「エアウルフほどでなければ生き残れない」という表現で、高速中型機動ヘリには生存性と機動性を同時に備える条件が必要だと強調した。攻撃ヘリ無用論が出るなか、より速く危険な戦場環境に耐えられる中型機動ヘリが打開策として取り上げられている。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "高速中型机动直升机，或成扭转攻击直升机无用论的关键",
+        "excerpt": "4月5日一名F-15E飞行员在伊朗领空被击落后失踪的救援案例，凸显现代战争中高速中型机动直升机的重要性。",
+        "body": "4月5日，一架F-15E战斗机在伊朗领空被击落、飞行员失踪后，美军启动了数十年来最复杂且危险的搜救行动之一。这一案例使现代战争中传统攻击直升机和救援力量的局限再次受到讨论。原文以“至少要像‘飞狼’那样才能生存”来形容，强调高速中型机动直升机必须同时具备生存能力和机动能力。在攻击直升机无用论被提出的背景下，能够适应更快速、更危险战场环境的中型机动直升机被视为可能的突破口。来源：引自mk.co.kr。"
+      },
+      "es": {
+        "title": "Helicóptero medio de alta velocidad, clave ante las dudas sobre los de ataque",
+        "excerpt": "El caso del piloto de un F-15E desaparecido tras ser derribado el 5 de abril en el espacio aéreo iraní muestra por qué importan estos helicópteros.",
+        "body": "El 5 de abril, después de que un F-15E fuera derribado en el espacio aéreo iraní y su piloto desapareciera, el Ejército estadounidense inició una de sus operaciones de búsqueda y rescate más complejas y peligrosas en décadas. El caso reabrió el debate sobre los límites de los helicópteros de ataque y de los medios de rescate en la guerra moderna. El texto original recurrió a la idea de que solo algo como “Airwolf” podría sobrevivir, subrayando que un helicóptero medio de alta velocidad debe combinar supervivencia y movilidad. En medio de las dudas sobre la utilidad de los helicópteros de ataque, una aeronave media más rápida y capaz de soportar campos de batalla más peligrosos se plantea como una posible apuesta. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Helicóptero médio de alta velocidade ganha força contra dúvidas sobre ataque",
+        "excerpt": "O caso do piloto de um F-15E desaparecido após ser abatido em 5 de abril no espaço aéreo iraniano mostra a necessidade desse tipo de helicóptero.",
+        "body": "Em 5 de abril, depois que um caça F-15E foi abatido no espaço aéreo iraniano e seu piloto desapareceu, os militares dos EUA iniciaram uma das operações de busca e salvamento mais complexas e perigosas em décadas. O caso reacendeu a discussão sobre os limites dos helicópteros de ataque e dos meios de resgate na guerra moderna. O texto original usou a ideia de que só algo como “Airwolf” sobreviveria, destacando que um helicóptero médio de alta velocidade precisa reunir sobrevivência e mobilidade. Com a tese da inutilidade dos helicópteros de ataque em debate, uma aeronave média mais rápida e capaz de enfrentar campos de batalha mais perigosos surge como possível resposta. Fonte: citado de mk.co.kr."
+      },
+      "de": {
+        "title": "Schneller mittlerer Transporthubschrauber als Antwort auf Zweifel am Kampfhubschrauber",
+        "excerpt": "Der Fall eines seit dem 5. April nach einem Abschuss über iranischem Luftraum vermissten F-15E-Piloten zeigt den Bedarf an schnellen mittleren Hubschraubern.",
+        "body": "Am 5. April wurde ein F-15E-Kampfflugzeug im iranischen Luftraum abgeschossen, der Pilot galt als vermisst. Daraufhin starteten die US-Streitkräfte eine der komplexesten und gefährlichsten Such- und Rettungsoperationen seit Jahrzehnten. Der Fall brachte die Grenzen herkömmlicher Kampfhubschrauber und Rettungskräfte im modernen Krieg erneut in die Debatte. Der Originaltext formulierte, nur etwas wie „Airwolf“ könne überleben, und betonte damit, dass ein schneller mittlerer Transporthubschrauber Überlebensfähigkeit und Mobilität zugleich bieten müsse. Während Zweifel am Nutzen von Kampfhubschraubern laut werden, gilt ein schnelleres mittleres Muster für gefährlichere Gefechtsfelder als möglicher Ausweg. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "Hélicoptère moyen rapide, la réponse aux doutes sur les appareils d’attaque",
+        "excerpt": "Le cas du pilote de F-15E disparu après avoir été abattu le 5 avril dans l’espace aérien iranien souligne le besoin d’hélicoptères moyens rapides.",
+        "body": "Le 5 avril, après qu’un F-15E a été abattu dans l’espace aérien iranien et que son pilote a disparu, l’armée américaine a lancé l’une de ses opérations de recherche et de sauvetage les plus complexes et dangereuses depuis des décennies. Ce cas a relancé le débat sur les limites des hélicoptères d’attaque et des moyens de sauvetage dans la guerre moderne. L’article original a utilisé l’image selon laquelle il faudrait être au niveau d’« Airwolf » pour survivre, soulignant qu’un hélicoptère moyen rapide doit combiner survivabilité et mobilité. Face aux doutes sur l’utilité des hélicoptères d’attaque, un appareil moyen plus rapide, capable de supporter un champ de bataille plus dangereux, est présenté comme une piste décisive. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "مروحية متوسطة عالية السرعة تبرز كحل أمام جدل جدوى مروحيات الهجوم",
+        "excerpt": "حادثة اختفاء طيار F-15E بعد إسقاطه في المجال الجوي الإيراني في 5 أبريل تبرز سبب الحاجة إلى مروحية متوسطة عالية السرعة في الحرب الحديثة.",
+        "body": "في 5 أبريل، وبعد إسقاط مقاتلة F-15E في المجال الجوي الإيراني واختفاء طيارها، نفذ الجيش الأميركي واحدة من أكثر عمليات البحث والإنقاذ تعقيدا وخطورة منذ عقود. أعادت هذه الحادثة طرح حدود مروحيات الهجوم التقليدية وقدرات الإنقاذ في الحرب الحديثة. استخدم النص الأصلي عبارة تفيد بأن البقاء يتطلب مستوى يشبه “إير وولف”، مؤكدا أن المروحية المتوسطة عالية السرعة يجب أن تجمع بين القدرة على البقاء والحركة السريعة. ومع تصاعد الحديث عن عدم جدوى مروحيات الهجوم، يجري طرح مروحية متوسطة أسرع وقادرة على تحمل ساحة قتال أخطر كخيار حاسم. المصدر: مقتبس من mk.co.kr."
+      },
+      "hi": {
+        "title": "हाई-स्पीड मीडियम हेलिकॉप्टर, अटैक हेलिकॉप्टर पर उठे सवालों का जवाब",
+        "excerpt": "5 अप्रैल को ईरानी हवाई क्षेत्र में गिराए गए F-15E के लापता पायलट की बचाव घटना आधुनिक युद्ध में ऐसे हेलिकॉप्टर की जरूरत दिखाती है।",
+        "body": "5 अप्रैल को ईरानी हवाई क्षेत्र में एक F-15E लड़ाकू विमान गिराए जाने और उसके पायलट के लापता होने के बाद अमेरिकी सेना ने दशकों में अपनी सबसे जटिल और जोखिमभरी खोज-बचाव कार्रवाइयों में से एक शुरू की। इस घटना ने आधुनिक युद्ध में पारंपरिक अटैक हेलिकॉप्टरों और बचाव संसाधनों की सीमाओं पर फिर चर्चा छेड़ दी। मूल लेख ने कहा कि जीवित रहने के लिए “एयरवुल्फ” जैसे स्तर की जरूरत है, और इस बात पर जोर दिया कि हाई-स्पीड मीडियम यूटिलिटी हेलिकॉप्टर में जीवित रहने की क्षमता और गतिशीलता दोनों होनी चाहिए। अटैक हेलिकॉप्टर की उपयोगिता पर सवाल उठने के बीच, तेज और अधिक खतरनाक युद्धक्षेत्र सह सकने वाला मध्यम हेलिकॉप्टर संभावित दांव के रूप में सामने आता है। स्रोत: mk.co.kr से उद्धृत."
+      },
+      "id": {
+        "title": "Helikopter medium berkecepatan tinggi jadi jawaban atas keraguan helikopter serang",
+        "excerpt": "Kasus pilot F-15E yang hilang setelah ditembak jatuh di wilayah udara Iran pada 5 April menunjukkan pentingnya helikopter medium cepat dalam perang modern.",
+        "body": "Pada 5 April, setelah jet tempur F-15E ditembak jatuh di wilayah udara Iran dan pilotnya hilang, militer AS memulai salah satu operasi pencarian dan penyelamatan paling kompleks serta berbahaya dalam beberapa dekade. Kasus ini kembali memicu pembahasan tentang batas helikopter serang dan aset penyelamatan dalam perang modern. Artikel asli memakai ungkapan bahwa hanya sesuatu setara “Airwolf” yang bisa bertahan, menekankan bahwa helikopter medium berkecepatan tinggi harus memiliki daya tahan hidup dan mobilitas sekaligus. Saat keraguan atas kegunaan helikopter serang muncul, helikopter medium yang lebih cepat dan mampu menghadapi medan tempur lebih berbahaya disebut sebagai pilihan penentu. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "639acdcde5c5",
+    "slug": "6000-폭등-비결은-와플-먹방-스페이스x-라이벌의-비밀-264705",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T20:04:44.196Z",
+    "updatedAt": "2026-05-15T20:04:44.197Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049175",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049175",
+    "titleFingerprint": "6f17b94bf7efa5c86811da90388356bbf3c07776",
+    "dedupKeys": [
+      "639acdcde5c55c2c91e064d3605b1ca9e0750ad9",
+      "6f17b94bf7efa5c86811da90388356bbf3c07776",
+      "cf7ebee6ea3b06a63c6d137f849c6751b5ff96d5"
+    ],
+    "imageUrl": "/images/articles/639acdcde5c5.png",
+    "i18n": {
+      "ko": {
+        "title": "AST 스페이스모바일 6000% 폭등, 와플 먹방 인증이 주목받은 이유",
+        "excerpt": "AST 스페이스모바일의 우주선 발사 카운트다운과 엔진 점화 순간, 투자자와 이용자들이 SNS에 와플 먹는 사진을 올리며 이례적 온라인 현상이 확산됐다.",
+        "body": "AST 스페이스모바일의 우주선 발사 과정에서 카운트다운이 시작되고 엔진이 점화되자 온라인에서는 뜻밖의 장면이 이어졌다. 사람들이 일제히 와플을 먹는 사진을 SNS에 인증한 것이다. 원문은 이를 스페이스X 라이벌로 불리는 AST 스페이스모바일을 둘러싼 독특한 관심 현상으로 소개했다. 기사 제목은 ‘6000% 폭등’이라는 수치와 ‘와플 먹방’이라는 온라인 행동을 함께 제시하며 시장의 주목과 팬덤식 참여가 맞물린 장면을 부각했다. 다만 원문에 제시된 정보는 발사 카운트다운, 엔진 점화, SNS 인증, AST 스페이스모바일 관련성에 한정된다. 향후 관심은 이러한 온라인 반응이 기업 인지도와 시장 주목도에 어떤 영향을 줄지에 모인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AST SpaceMobile’s 6000% Surge: Why Waffle Posts Drew Attention",
+        "excerpt": "As AST SpaceMobile’s spacecraft countdown began and engines ignited, users and investors posted waffle-eating photos on social media, creating an unusual online scene.",
+        "body": "When AST SpaceMobile’s spacecraft launch countdown began and the engines ignited, an unexpected scene unfolded online. People posted photos of themselves eating waffles on social media at the same time. The original report presented this as a distinctive attention phenomenon surrounding AST SpaceMobile, described as a rival to SpaceX. Its headline paired the figure of a “6000% surge” with the online behavior of “waffle mukbang,” highlighting how market attention and fan-style participation appeared together. However, the information provided in the original text is limited to the countdown, engine ignition, social media posts, and the link to AST SpaceMobile. Future attention will focus on how such online reactions may affect company awareness and market attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ASTスペースモバイル6000％急騰、ワッフル投稿が注目された理由",
+        "excerpt": "ASTスペースモバイルの宇宙船でカウントダウンとエンジン点火が始まると、SNSにワッフルを食べる写真が相次ぎ、異例の現象となった。",
+        "body": "ASTスペースモバイルの宇宙船打ち上げでカウントダウンが始まり、エンジンが点火されると、オンラインでは思いがけない光景が広がった。人々が一斉にワッフルを食べる写真をSNSに投稿したためだ。原文はこれを、スペースXのライバルと呼ばれるASTスペースモバイルをめぐる独特の注目現象として紹介した。記事タイトルは「6000％急騰」という数字と「ワッフル食べ配信」を並べ、市場の関心とファン的な参加が重なった場面を強調している。ただし原文で示された情報は、カウントダウン、エンジン点火、SNS投稿、ASTスペースモバイルとの関連に限られる。今後は、こうしたオンライン反応が企業認知度や市場の注目にどう影響するかが焦点となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AST SpaceMobile暴涨6000%，为何吃华夫饼照片引发关注",
+        "excerpt": "AST SpaceMobile飞船倒计时并点火时，用户和投资者在社交平台上传吃华夫饼照片，形成了罕见的线上关注现象。",
+        "body": "在AST SpaceMobile飞船发射过程中，倒计时开始、发动机点火后，线上出现了意外场景。人们几乎同时在社交媒体上晒出吃华夫饼的照片。原文将其介绍为围绕这家被称为SpaceX竞争对手的AST SpaceMobile出现的独特关注现象。报道标题把“6000%暴涨”这一数字与“华夫饼吃播”式线上行为并列，突出了市场关注与粉丝式参与交织的画面。不过，原文提供的信息仅限于发射倒计时、发动机点火、SNS认证照片以及其与AST SpaceMobile的关联。接下来外界关注的是，这类线上反应会如何影响企业知名度和市场关注度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "AST SpaceMobile sube 6000%: por qué llamaron la atención los waffles",
+        "excerpt": "Cuando empezó la cuenta atrás y se encendieron los motores de la nave de AST SpaceMobile, usuarios publicaron fotos comiendo waffles en redes sociales.",
+        "body": "Durante el lanzamiento de la nave de AST SpaceMobile, cuando comenzó la cuenta atrás y se encendieron los motores, apareció una escena inesperada en internet. Muchas personas publicaron al mismo tiempo fotos comiendo waffles en redes sociales. El texto original presentó este hecho como un fenómeno singular de atención alrededor de AST SpaceMobile, descrita como rival de SpaceX. El titular combinó la cifra de una “subida del 6000%” con la conducta online de “mukbang de waffles”, destacando la unión entre interés del mercado y participación de estilo fan. Sin embargo, la información original se limita a la cuenta atrás, el encendido de motores, las publicaciones en redes y la relación con AST SpaceMobile. La atención futura se centrará en cómo estas reacciones online pueden influir en el reconocimiento de la empresa y el interés del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "AST SpaceMobile sobe 6000%: por que fotos com waffles chamaram atenção",
+        "excerpt": "No início da contagem regressiva e da ignição da nave da AST SpaceMobile, usuários publicaram fotos comendo waffles nas redes, criando uma cena incomum.",
+        "body": "Durante o lançamento da nave da AST SpaceMobile, quando a contagem regressiva começou e os motores foram acionados, uma cena inesperada tomou forma online. Pessoas publicaram ao mesmo tempo fotos comendo waffles nas redes sociais. O texto original apresentou o episódio como um fenômeno peculiar de atenção em torno da AST SpaceMobile, chamada de rival da SpaceX. O título reuniu o número de “alta de 6000%” e o comportamento online de “mukbang de waffles”, destacando a combinação de interesse do mercado e participação em estilo de fandom. Ainda assim, as informações do original se limitam à contagem regressiva, à ignição dos motores, às publicações em redes sociais e à ligação com a AST SpaceMobile. A atenção agora recai sobre como essa reação online pode afetar o reconhecimento da empresa e o foco do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "AST SpaceMobile plus 6000%: Warum Waffel-Posts Aufmerksamkeit fanden",
+        "excerpt": "Als bei AST SpaceMobile der Countdown lief und die Triebwerke zündeten, posteten Nutzer Fotos beim Waffelessen und sorgten online für ein ungewöhnliches Bild.",
+        "body": "Beim Startvorgang des Raumfahrzeugs von AST SpaceMobile begann der Countdown, die Triebwerke zündeten, und online entstand eine unerwartete Szene. Menschen veröffentlichten gleichzeitig Fotos von sich beim Waffelessen in sozialen Netzwerken. Der Originaltext stellte dies als besonderes Aufmerksamkeitsphänomen rund um AST SpaceMobile dar, das als Rivale von SpaceX beschrieben wird. Die Überschrift verband die Zahl eines “6000%-Anstiegs” mit dem Online-Verhalten eines “Waffel-Mukbangs” und hob hervor, wie Marktinteresse und fanartige Beteiligung zusammenkamen. Die im Original genannten Informationen beschränken sich jedoch auf Countdown, Triebwerkszündung, Social-Media-Posts und den Bezug zu AST SpaceMobile. Künftig richtet sich der Blick darauf, wie solche Online-Reaktionen Bekanntheit und Marktaufmerksamkeit beeinflussen könnten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "AST SpaceMobile bondit de 6000%: pourquoi les waffles ont attiré l’attention",
+        "excerpt": "Au lancement du vaisseau d’AST SpaceMobile, entre compte à rebours et allumage des moteurs, des internautes ont publié des photos en mangeant des waffles.",
+        "body": "Lors du lancement du vaisseau d’AST SpaceMobile, quand le compte à rebours a commencé et que les moteurs se sont allumés, une scène inattendue est apparue en ligne. Des personnes ont publié en même temps sur les réseaux sociaux des photos d’elles en train de manger des waffles. Le texte original présente cela comme un phénomène d’attention particulier autour d’AST SpaceMobile, décrite comme une rivale de SpaceX. Le titre associait le chiffre d’une “hausse de 6000%” au comportement en ligne de type “mukbang de waffles”, soulignant la rencontre entre intérêt du marché et participation de fans. Les informations de l’original restent toutefois limitées au compte à rebours, à l’allumage des moteurs, aux publications sur les réseaux sociaux et au lien avec AST SpaceMobile. L’attention portera désormais sur l’effet possible de ces réactions en ligne sur la notoriété de l’entreprise et l’intérêt du marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "AST SpaceMobile تقفز 6000%: لماذا جذبت صور الوافل الانتباه؟",
+        "excerpt": "مع بدء العد التنازلي واشتعال محركات مركبة AST SpaceMobile، نشر مستخدمون صورا لهم وهم يأكلون الوافل على الشبكات الاجتماعية في مشهد غير معتاد.",
+        "body": "خلال عملية إطلاق مركبة AST SpaceMobile، ومع بدء العد التنازلي واشتعال المحركات، ظهر مشهد غير متوقع على الإنترنت. فقد نشر أشخاص في الوقت نفسه صورا لهم وهم يأكلون الوافل على منصات التواصل الاجتماعي. وقد عرض النص الأصلي ذلك بوصفه ظاهرة اهتمام فريدة حول AST SpaceMobile، التي توصف بأنها منافسة لـ SpaceX. وجمع العنوان بين رقم “ارتفاع 6000%” وسلوك إلكتروني يشبه “موكبانغ الوافل”، مبرزا تداخل اهتمام السوق مع مشاركة ذات طابع جماهيري. لكن المعلومات الواردة في النص الأصلي تقتصر على العد التنازلي، واشتعال المحركات، ومنشورات التواصل الاجتماعي، وصلتها بـ AST SpaceMobile. وستتركز الأنظار لاحقا على كيفية تأثير هذه التفاعلات الإلكترونية في معرفة الجمهور بالشركة واهتمام السوق بها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AST SpaceMobile में 6000% उछाल: वॉफल पोस्ट क्यों चर्चा में आए",
+        "excerpt": "AST SpaceMobile के अंतरिक्षयान की उलटी गिनती शुरू होने और इंजन जलने पर लोगों ने सोशल मीडिया पर वॉफल खाते हुए तस्वीरें पोस्ट कीं।",
+        "body": "AST SpaceMobile के अंतरिक्षयान के प्रक्षेपण के दौरान जब उलटी गिनती शुरू हुई और इंजन प्रज्वलित हुए, तो ऑनलाइन एक अप्रत्याशित दृश्य दिखा। लोगों ने एक साथ सोशल मीडिया पर वॉफल खाते हुए अपनी तस्वीरें पोस्ट कीं। मूल रिपोर्ट ने इसे SpaceX की प्रतिद्वंद्वी कही जाने वाली AST SpaceMobile के इर्द-गिर्द पैदा हुई एक अलग तरह की दिलचस्पी के रूप में पेश किया। शीर्षक में “6000% उछाल” के आंकड़े और “वॉफल मुकबांग” जैसे ऑनलाइन व्यवहार को साथ रखकर बाजार की रुचि और प्रशंसक-शैली की भागीदारी को उजागर किया गया। हालांकि मूल जानकारी उलटी गिनती, इंजन प्रज्वलन, सोशल मीडिया पोस्ट और AST SpaceMobile से संबंध तक सीमित है। आगे ध्यान इस पर रहेगा कि ऐसी ऑनलाइन प्रतिक्रिया कंपनी की पहचान और बाजार की दिलचस्पी को कैसे प्रभावित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "AST SpaceMobile melonjak 6000%: mengapa unggahan waffle disorot",
+        "excerpt": "Saat hitung mundur dan penyalaan mesin wahana AST SpaceMobile dimulai, pengguna mengunggah foto makan waffle di media sosial dan memicu fenomena tak biasa.",
+        "body": "Dalam proses peluncuran wahana AST SpaceMobile, ketika hitung mundur dimulai dan mesin dinyalakan, muncul pemandangan tak terduga di ranah online. Orang-orang serentak mengunggah foto sedang makan waffle di media sosial. Teks asli menyajikan hal ini sebagai fenomena perhatian yang unik di sekitar AST SpaceMobile, yang disebut sebagai rival SpaceX. Judulnya memasangkan angka “lonjakan 6000%” dengan perilaku online berupa “mukbang waffle”, menyoroti pertemuan antara perhatian pasar dan partisipasi bergaya fandom. Namun, informasi dalam teks asli terbatas pada hitung mundur peluncuran, penyalaan mesin, unggahan media sosial, dan kaitannya dengan AST SpaceMobile. Perhatian berikutnya tertuju pada bagaimana reaksi online semacam ini dapat memengaruhi pengenalan perusahaan dan sorotan pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "b70bc0999928",
     "slug": "삼전닉스-팔아-조선업-엔비디아-산다-파업조차-기회라는데-790391",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Dan Koh Keturunan Korea Maju ke Kongres AS, Sebut Trump Merusak DNA Amerika",
         "excerpt": "Politikus baru keturunan Korea, Dan Koh, maju dari Massachusetts untuk kursi DPR AS, mengkritik Donald Trump, serta menyoroti riwayat keluarga dan pengalaman publik-swasta.",
         "body": "Dan Koh, keturunan Korea, maju dalam pemilihan DPR Amerika Serikat dari Massachusetts dan mengkritik mantan Presiden Donald Trump dengan mengatakan bahwa Trump “merusak DNA Amerika.” Dalam wawancara K People dengan Maeil Business Newspaper, Koh menjelaskan latar pencalonan dan persiapannya sebagai pendatang baru di dunia politik. Kakeknya yang berasal dari Jeju pernah menjabat sebagai duta besar Korea Selatan untuk Amerika Serikat, sementara neneknya diperkenalkan sebagai sosok yang memiliki kaitan dengan Yale Law School. Ayahnya juga disebut pernah menduduki jabatan tinggi di Amerika Serikat. Koh menonjolkan pengalaman di sektor swasta dan publik untuk membangun citra sebagai pendatang baru politik yang siap. Pencalonan ini menarik perhatian seiring meningkatnya keterlibatan warga keturunan Korea dalam politik AS. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3f4ee779a928",
-    "slug": "공약-발표-기자회견장으로-입장하는-정원오-후보-664259",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T03:00:35.688Z",
-    "updatedAt": "2026-05-15T03:00:35.688Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/politics/12049011",
-    "canonicalUrl": "https://www.mk.co.kr/news/politics/12049011",
-    "titleFingerprint": "b712289a1ccfa8be7d135c48ae21c36f6b5b6d7f",
-    "dedupKeys": [
-      "3f4ee779a9288601301e96b1ea386b8db712a013",
-      "b712289a1ccfa8be7d135c48ae21c36f6b5b6d7f",
-      "a0a061ce93dac7f39927f4d3991688e50df7f92f"
-    ],
-    "imageUrl": "/images/articles/3f4ee779a928.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정원오 서울시장 후보, 국회 소통관 공약 발표 기자회견장 입장",
-        "excerpt": "더불어민주당 정원오 서울시장 후보가 15일 국회 소통관에서 열린 공약 발표 기자회견에 참석하기 위해 회견장으로 입장했다.",
-        "body": "더불어민주당 정원오 서울시장 후보가 15일 국회 소통관에서 공약 발표 기자회견을 위해 회견장으로 입장했다. 이날 현장은 서울시장 후보의 공약 발표를 앞두고 취재진이 지켜보는 가운데 진행됐다. 원문은 정 후보가 기자회견장에 들어서는 장면을 중심으로 전하며, 구체적인 공약 내용이나 발언은 포함하지 않았다. 이번 일정은 선거 국면에서 후보가 공약을 공식적으로 알리는 자리라는 점에서 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul Mayoral Candidate Jung Won-oh Enters Pledge Briefing Venue",
-        "excerpt": "Democratic Party Seoul mayoral candidate Jung Won-oh entered the National Assembly Communication Hall on the 15th for a press conference to announce his campaign pledges.",
-        "body": "Democratic Party Seoul mayoral candidate Jung Won-oh entered the press conference venue at the National Assembly Communication Hall on the 15th to announce campaign pledges. The scene took place as reporters watched ahead of the candidate’s policy presentation. The original report focuses on Jung entering the briefing room and does not include specific pledge details or remarks. The schedule drew attention as a formal occasion for a mayoral candidate to present campaign commitments during the election period. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "鄭願吾ソウル市長候補、国会疎通館の公約発表会場へ入場",
-        "excerpt": "共に民主党の鄭願吾ソウル市長候補が15日、国会疎通館で開かれる公約発表記者会見に出席するため会見場に入った。",
-        "body": "共に民主党の鄭願吾ソウル市長候補が15日、国会疎通館で公約発表記者会見に臨むため、会見場に入場した。当日の現場は、ソウル市長候補による公約発表を前に、取材陣が見守る中で進められた。原文は鄭候補が記者会見場に入る場面を中心に伝えており、具体的な公約内容や発言は含まれていない。今回の日程は、選挙局面で候補が公約を公式に知らせる場として注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔市长候选人郑愿五进入国会沟通馆发布会现场",
-        "excerpt": "共同民主党首尔市长候选人郑愿五15日进入国会沟通馆，准备参加其竞选承诺发布记者会。",
-        "body": "共同民主党首尔市长候选人郑愿五15日为出席竞选承诺发布记者会，进入位于国会沟通馆的会场。当天现场在候选人发布首尔市长竞选承诺前，由记者在场关注。原文主要呈现郑候选人走入记者会现场的画面，并未包括具体承诺内容或发言。此次日程作为选举阶段候选人正式公布竞选承诺的场合而受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jung Won-oh entra a la rueda de prensa de promesas electorales",
-        "excerpt": "Jung Won-oh, candidato del Partido Democrático a la alcaldía de Seúl, entró el día 15 en el Communication Hall de la Asamblea Nacional para una rueda de prensa.",
-        "body": "Jung Won-oh, candidato del Partido Democrático a la alcaldía de Seúl, entró el día 15 en la sala de prensa del Communication Hall de la Asamblea Nacional para anunciar sus promesas electorales. La escena se desarrolló ante la presencia de periodistas, antes de la presentación de los compromisos del candidato. El texto original se centra en el momento en que Jung entra al lugar de la conferencia y no incluye detalles concretos de las promesas ni declaraciones. La agenda destaca como una ocasión formal para presentar compromisos en el contexto electoral. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Jung Won-oh entra em coletiva para anunciar promessas em Seul",
-        "excerpt": "Jung Won-oh, candidato do Partido Democrático à prefeitura de Seul, entrou no dia 15 no Communication Hall da Assembleia Nacional para uma coletiva de promessas.",
-        "body": "Jung Won-oh, candidato do Partido Democrático à prefeitura de Seul, entrou no dia 15 no local da coletiva de imprensa no Communication Hall da Assembleia Nacional para anunciar promessas de campanha. A cena ocorreu diante de jornalistas, antes da apresentação dos compromissos do candidato. O texto original se concentra no momento em que Jung entra na sala da coletiva e não inclui detalhes específicos das promessas nem falas. A agenda chama atenção como ocasião formal para divulgar compromissos durante o período eleitoral. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Seoul-Kandidat Jung Won-oh betritt Pressekonferenz zu Wahlversprechen",
-        "excerpt": "Jung Won-oh, Bürgermeisterkandidat der Demokratischen Partei für Seoul, betrat am 15. die Communication Hall der Nationalversammlung für eine Pressekonferenz.",
-        "body": "Jung Won-oh, Bürgermeisterkandidat der Demokratischen Partei für Seoul, betrat am 15. den Pressekonferenzraum in der Communication Hall der Nationalversammlung, um Wahlversprechen vorzustellen. Die Szene fand statt, während Reporter vor der Präsentation der Zusagen des Kandidaten anwesend waren. Der Originalbericht konzentriert sich auf den Moment, in dem Jung den Konferenzraum betritt, und enthält keine konkreten Inhalte der Versprechen oder Aussagen. Der Termin ist als formeller Anlass zur Bekanntgabe von Wahlversprechen im Wahlkontext von Bedeutung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Jung Won-oh entre à la conférence de presse sur ses engagements",
-        "excerpt": "Jung Won-oh, candidat du Parti démocrate à la mairie de Séoul, est entré le 15 au Communication Hall de l’Assemblée nationale pour présenter ses engagements.",
-        "body": "Jung Won-oh, candidat du Parti démocrate à la mairie de Séoul, est entré le 15 dans la salle de conférence du Communication Hall de l’Assemblée nationale afin de présenter ses engagements de campagne. La scène s’est déroulée sous les yeux des journalistes, avant l’annonce des promesses du candidat. Le texte original se concentre sur l’entrée de Jung dans la salle de presse et ne contient pas de détails précis sur les engagements ni de déclarations. Ce rendez-vous retient l’attention comme moment officiel de présentation des promesses en période électorale. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جونغ وون أو يدخل قاعة مؤتمر إعلان تعهداته لبلدية سول",
-        "excerpt": "دخل جونغ وون أو، مرشح الحزب الديمقراطي لمنصب عمدة سول، في اليوم الخامس عشر قاعة التواصل بالجمعية الوطنية لحضور مؤتمر صحفي لإعلان تعهداته.",
-        "body": "دخل جونغ وون أو، مرشح الحزب الديمقراطي لمنصب عمدة سول، في اليوم الخامس عشر إلى قاعة المؤتمر الصحفي في قاعة التواصل بالجمعية الوطنية من أجل إعلان تعهداته الانتخابية. وجرت اللقطة بينما كان الصحفيون يتابعون المكان قبل عرض تعهدات المرشح. يركز النص الأصلي على مشهد دخول جونغ إلى قاعة المؤتمر، ولا يتضمن تفاصيل محددة عن التعهدات أو تصريحات. وتبرز هذه المناسبة بوصفها محطة رسمية لإعلان تعهدات المرشح في سياق الانتخابات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल मेयर उम्मीदवार जंग वोन-ओह घोषणा प्रेस कॉन्फ्रेंस में पहुंचे",
-        "excerpt": "डेमोक्रेटिक पार्टी के सियोल मेयर उम्मीदवार जंग वोन-ओह 15 तारीख को नेशनल असेंबली कम्युनिकेशन हॉल में अपने वादों की प्रेस कॉन्फ्रेंस के लिए पहुंचे।",
-        "body": "डेमोक्रेटिक पार्टी के सियोल मेयर उम्मीदवार जंग वोन-ओह 15 तारीख को अपने चुनावी वादों की घोषणा के लिए नेशनल असेंबली कम्युनिकेशन हॉल स्थित प्रेस कॉन्फ्रेंस स्थल में प्रवेश करते दिखे। यह दृश्य उम्मीदवार की वादों की प्रस्तुति से पहले पत्रकारों की मौजूदगी में दर्ज किया गया। मूल रिपोर्ट जंग के प्रेस कॉन्फ्रेंस स्थल में प्रवेश करने के दृश्य पर केंद्रित है और इसमें किसी विशेष वादे या बयान का विवरण शामिल नहीं है। यह कार्यक्रम चुनावी संदर्भ में उम्मीदवार द्वारा वादों को औपचारिक रूप से सामने रखने का अवसर माना गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Jung Won-oh Masuki Konferensi Pers Janji Kampanye Wali Kota Seoul",
-        "excerpt": "Kandidat wali kota Seoul dari Partai Demokrat, Jung Won-oh, memasuki Communication Hall Majelis Nasional pada tanggal 15 untuk konferensi pers janji kampanye.",
-        "body": "Kandidat wali kota Seoul dari Partai Demokrat, Jung Won-oh, memasuki lokasi konferensi pers di Communication Hall Majelis Nasional pada tanggal 15 untuk mengumumkan janji kampanye. Suasana berlangsung di hadapan para wartawan menjelang penyampaian komitmen kandidat. Teks asli berfokus pada momen Jung memasuki ruang konferensi pers dan tidak memuat rincian janji atau pernyataan tertentu. Agenda ini menjadi perhatian sebagai kesempatan resmi bagi kandidat untuk menyampaikan janji kampanye dalam masa pemilihan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "574d9532151c",
-    "slug": "로드시스템-외국인-전용-스테이블코인-결제-인프라-구축-734728",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T02:59:42.718Z",
-    "updatedAt": "2026-05-15T02:59:42.718Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12049017",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049017",
-    "titleFingerprint": "8008baaf859f3b2e582ad31fd8e71e7ef323078a",
-    "dedupKeys": [
-      "574d9532151c0d993e9fb892f167e5def907a1f0",
-      "8008baaf859f3b2e582ad31fd8e71e7ef323078a",
-      "7ae1c848b0d9baa969dbda2ebfd6683140c7be6c"
-    ],
-    "imageUrl": "/images/articles/574d9532151c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "로드시스템, 외국인 전용 스테이블코인 결제 인프라 구축 추진",
-        "excerpt": "글로벌 모바일 여권 플랫폼 기업 로드시스템이 서클·테더 기반 실시간 환전과 사용을 지원하는 외국인 전용 스테이블코인 결제 인프라를 구축해 관광객 결제시장 혁신에 나선다.",
-        "body": "글로벌 모바일 여권 플랫폼 기업 로드시스템(대표 장양호)이 디지털 자산을 기반으로 외국인 관광객 전용 스테이블코인 결제 인프라 구축에 나섰다. 이 인프라는 서클과 테더 등 주요 스테이블코인을 실시간으로 환전하고 사용할 수 있도록 하는 것이 핵심이다. 로드시스템은 모바일 여권 플랫폼 역량을 바탕으로 외국인 관광객의 결제 편의성을 높이는 방향으로 결제시장 혁신을 추진한다. 외국인 관광객이 보유한 디지털 자산을 국내 소비 현장에서 더 쉽게 사용할 수 있게 되면 지출 확대를 통해 내수 활력에도 기여할 수 있다는 기대가 나온다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Roadsystem Builds Stablecoin Payment Infrastructure for Foreign Visitors",
-        "excerpt": "Roadsystem, a global mobile passport platform company, is building a foreigner-only stablecoin payment infrastructure that supports real-time exchange and use of Circle and Tether assets.",
-        "body": "Roadsystem, a global mobile passport platform company led by CEO Yang-ho Jang, is moving to build stablecoin payment infrastructure for foreign tourists based on digital assets. The core of the infrastructure is to enable real-time exchange and use of major stablecoins such as Circle and Tether. Using its mobile passport platform capabilities, Roadsystem aims to improve payment convenience for foreign visitors and innovate the tourist payment market. If digital assets held by foreign tourists can be used more easily at domestic spending locations, expectations are that expanded visitor spending could help add vitality to local demand. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ロードシステム、外国人専用ステーブルコイン決済基盤を構築へ",
-        "excerpt": "グローバルモバイル旅券プラットフォーム企業ロードシステムが、サークルとテザーのリアルタイム両替・利用に対応する外国人専用ステーブルコイン決済基盤を構築する。",
-        "body": "グローバルモバイル旅券プラットフォーム企業ロードシステム（代表チャン・ヤンホ）が、デジタル資産を基盤に外国人観光客向けのステーブルコイン決済インフラ構築に乗り出した。このインフラは、サークルやテザーなど主要ステーブルコインをリアルタイムで両替し、使用できるようにすることが中核となる。ロードシステムはモバイル旅券プラットフォームの能力を活用し、外国人観光客の決済利便性を高める方向で決済市場の革新を進める。外国人観光客が保有するデジタル資産を国内消費の現場でより使いやすくなれば、支出拡大を通じて内需の活力にもつながるとの期待が出ている。出典：mk.co.kr"
-      },
-      "zh": {
-        "title": "Roadsystem推进外国人专用稳定币支付基础设施建设",
-        "excerpt": "全球移动护照平台企业Roadsystem将建设外国人专用稳定币支付基础设施，支持Circle、Tether等资产的实时兑换和使用，以革新游客支付市场。",
-        "body": "全球移动护照平台企业Roadsystem（代表张良浩）正着手建设基于数字资产的外国游客专用稳定币支付基础设施。该基础设施的核心，是让Circle、Tether等主要稳定币能够实时兑换并使用。Roadsystem计划以其移动护照平台能力为基础，提高外国游客的支付便利性，推动旅游支付市场创新。如果外国游客持有的数字资产能够在韩国国内消费场景中更方便地使用，市场期待这将通过扩大支出为内需活力作出贡献。来源：mk.co.kr"
-      },
-      "es": {
-        "title": "Roadsystem prepara pagos con stablecoins para visitantes extranjeros",
-        "excerpt": "Roadsystem, empresa global de plataforma de pasaporte móvil, construye una infraestructura de pagos con stablecoins para extranjeros con cambio y uso en tiempo real de Circle y Tether.",
-        "body": "Roadsystem, empresa global de plataforma de pasaporte móvil dirigida por Yang-ho Jang, avanza en la construcción de una infraestructura de pagos con stablecoins para turistas extranjeros basada en activos digitales. El eje del sistema es permitir el cambio y uso en tiempo real de stablecoins importantes como Circle y Tether. Con sus capacidades de plataforma de pasaporte móvil, Roadsystem busca mejorar la comodidad de pago de los visitantes extranjeros e impulsar la innovación en el mercado de pagos turísticos. Si los activos digitales que poseen los turistas extranjeros pueden usarse con mayor facilidad en puntos de consumo locales, se espera que el aumento del gasto contribuya a dinamizar la demanda interna. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Roadsystem cria infraestrutura de pagamento em stablecoins para estrangeiros",
-        "excerpt": "A Roadsystem, empresa global de plataforma de passaporte móvel, está criando uma infraestrutura de pagamentos em stablecoins para estrangeiros, com câmbio e uso em tempo real de Circle e Tether.",
-        "body": "A Roadsystem, empresa global de plataforma de passaporte móvel liderada pelo CEO Yang-ho Jang, está avançando na construção de uma infraestrutura de pagamentos em stablecoins para turistas estrangeiros baseada em ativos digitais. O ponto central da infraestrutura é permitir a conversão e o uso em tempo real de stablecoins importantes, como Circle e Tether. Com sua capacidade de plataforma de passaporte móvel, a Roadsystem pretende aumentar a conveniência de pagamento para visitantes estrangeiros e inovar o mercado de pagamentos turísticos. Se os ativos digitais mantidos por turistas estrangeiros puderem ser usados com mais facilidade em locais de consumo doméstico, espera-se que o aumento dos gastos ajude a dar vigor à demanda interna. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Roadsystem baut Stablecoin-Zahlungsinfrastruktur für Ausländer auf",
-        "excerpt": "Roadsystem, ein globales Unternehmen für mobile Passplattformen, baut eine Stablecoin-Zahlungsinfrastruktur für Ausländer auf, die Echtzeitwechsel und Nutzung von Circle und Tether unterstützt.",
-        "body": "Roadsystem, ein globales Unternehmen für mobile Passplattformen unter CEO Yang-ho Jang, treibt den Aufbau einer auf digitalen Vermögenswerten basierenden Stablecoin-Zahlungsinfrastruktur für ausländische Touristen voran. Kern der Infrastruktur ist es, wichtige Stablecoins wie Circle und Tether in Echtzeit wechseln und nutzen zu können. Auf Basis seiner mobilen Passplattform will Roadsystem die Zahlungsbequemlichkeit ausländischer Besucher erhöhen und den Zahlungsmarkt für Touristen erneuern. Wenn digitale Vermögenswerte ausländischer Touristen im inländischen Konsumumfeld leichter genutzt werden können, wird erwartet, dass höhere Ausgaben zur Belebung der Binnennachfrage beitragen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Roadsystem bâtit une infrastructure de paiement en stablecoins pour étrangers",
-        "excerpt": "Roadsystem, société mondiale de plateforme de passeport mobile, construit une infrastructure de paiement en stablecoins réservée aux étrangers, avec change et usage en temps réel de Circle et Tether.",
-        "body": "Roadsystem, société mondiale de plateforme de passeport mobile dirigée par Yang-ho Jang, entreprend de bâtir une infrastructure de paiement en stablecoins pour les touristes étrangers, fondée sur les actifs numériques. Le coeur de cette infrastructure est de permettre le change et l’utilisation en temps réel de stablecoins majeurs comme Circle et Tether. Grâce à ses capacités de plateforme de passeport mobile, Roadsystem veut améliorer la commodité de paiement des visiteurs étrangers et innover sur le marché des paiements touristiques. Si les actifs numériques détenus par les touristes étrangers peuvent être utilisés plus facilement dans les lieux de consommation locaux, une hausse des dépenses pourrait contribuer à soutenir la demande intérieure. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "رودسيستم تبني بنية دفع بالعملات المستقرة مخصصة للأجانب",
-        "excerpt": "تعمل رودسيستم، شركة منصة الجوازات المحمولة العالمية، على بناء بنية دفع بالعملات المستقرة للأجانب تتيح التحويل والاستخدام الفوري لأصول مثل سيركل وتيثر.",
-        "body": "بدأت رودسيستم، وهي شركة عالمية لمنصة الجوازات المحمولة يرأسها يانغ هو جانغ، بناء بنية تحتية للدفع بالعملات المستقرة مخصصة للسياح الأجانب وقائمة على الأصول الرقمية. ويتمثل جوهر هذه البنية في إتاحة التحويل والاستخدام الفوري لعملات مستقرة رئيسية مثل سيركل وتيثر. وتسعى رودسيستم، بالاستناد إلى قدرات منصة الجوازات المحمولة لديها، إلى رفع سهولة الدفع للزوار الأجانب ودفع الابتكار في سوق مدفوعات السياح. وإذا أصبح استخدام الأصول الرقمية التي يحملها السياح الأجانب أسهل في مواقع الاستهلاك المحلية، فمن المتوقع أن يسهم توسع الإنفاق في تنشيط الطلب المحلي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Roadsystem विदेशी पर्यटकों के लिए स्टेबलकॉइन भुगतान ढांचा बनाएगी",
-        "excerpt": "वैश्विक मोबाइल पासपोर्ट प्लेटफॉर्म कंपनी Roadsystem विदेशी पर्यटकों के लिए ऐसा स्टेबलकॉइन भुगतान ढांचा बना रही है, जिसमें Circle और Tether का रियल-टाइम एक्सचेंज और उपयोग संभव होगा।",
-        "body": "वैश्विक मोबाइल पासपोर्ट प्लेटफॉर्म कंपनी Roadsystem, जिसके प्रमुख Yang-ho Jang हैं, डिजिटल परिसंपत्तियों पर आधारित विदेशी पर्यटकों के लिए स्टेबलकॉइन भुगतान अवसंरचना बनाने की दिशा में आगे बढ़ रही है। इस अवसंरचना का मुख्य उद्देश्य Circle और Tether जैसे प्रमुख स्टेबलकॉइन का रियल-टाइम एक्सचेंज और उपयोग सक्षम करना है। Roadsystem अपनी मोबाइल पासपोर्ट प्लेटफॉर्म क्षमता के आधार पर विदेशी पर्यटकों के भुगतान अनुभव को अधिक सुविधाजनक बनाते हुए पर्यटन भुगतान बाजार में नवाचार करना चाहती है। यदि विदेशी पर्यटकों के पास मौजूद डिजिटल परिसंपत्तियों का घरेलू उपभोग स्थलों पर अधिक आसानी से उपयोग हो सके, तो खर्च बढ़ने से आंतरिक मांग में活력 आने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Roadsystem Bangun Infrastruktur Pembayaran Stablecoin Khusus Warga Asing",
-        "excerpt": "Roadsystem, perusahaan platform paspor seluler global, membangun infrastruktur pembayaran stablecoin khusus warga asing yang mendukung penukaran dan penggunaan real-time Circle serta Tether.",
-        "body": "Roadsystem, perusahaan platform paspor seluler global yang dipimpin CEO Yang-ho Jang, mulai membangun infrastruktur pembayaran stablecoin khusus wisatawan asing berbasis aset digital. Inti infrastruktur ini adalah memungkinkan stablecoin utama seperti Circle dan Tether ditukar dan digunakan secara real-time. Dengan kemampuan platform paspor selulernya, Roadsystem berupaya meningkatkan kemudahan pembayaran bagi wisatawan asing dan mendorong inovasi di pasar pembayaran wisata. Jika aset digital yang dimiliki wisatawan asing dapat digunakan lebih mudah di lokasi konsumsi domestik, peningkatan belanja diharapkan dapat membantu menghidupkan permintaan dalam negeri. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bd6cac3a4093",
-    "slug": "위베어소프트-호라이즌인베스트먼트로부터-프리-a-라운드-투자유치-250012",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-15T02:58:50.651Z",
-    "updatedAt": "2026-05-15T02:58:50.651Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12049019",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12049019",
-    "titleFingerprint": "56f408b12fa942ad647a1c9b66592c10cb5ecdb2",
-    "dedupKeys": [
-      "bd6cac3a4093d66dbc6cef3a07973f006b334a92",
-      "56f408b12fa942ad647a1c9b66592c10cb5ecdb2",
-      "20541b850128871e39a11e26ba18b8d45885bcd7"
-    ],
-    "imageUrl": "/images/articles/bd6cac3a4093.png",
-    "i18n": {
-      "ko": {
-        "title": "API 관리·보안 전문 위베어소프트, 프리 A 투자유치로 통합관리 솔루션 공급 박차",
-        "excerpt": "API 관리 및 보안 전문기업 위베어소프트가 15일 호라이즌인베스트먼트로부터 프리 A 라운드 투자를 유치했다고 밝혔다. 회사는 API 통합관리 솔루션 등 공급 확대에 속도를 낼 계획이다.",
-        "body": "API 관리 및 보안 전문기업 위베어소프트가 15일 호라이즌인베스트먼트로부터 프리 A 라운드 투자유치를 성공적으로 마무리했다고 밝혔다. 이번 투자유치는 위베어소프트가 API 통합관리 솔루션 등 관련 제품 공급에 박차를 가하는 흐름 속에서 이뤄졌다. 회사는 API 관리와 보안 분야를 중심으로 솔루션 공급 확대에 나설 계획이다. API 활용이 늘어나는 기업 환경에서 통합관리와 보안 수요가 커지는 가운데, 이번 투자는 위베어소프트의 사업 추진에 힘을 보탤 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Webearsoft Secures Pre-A Funding From Horizon Investment to Expand API Management",
-        "excerpt": "API management and security specialist Webearsoft said on the 15th that it completed a Pre-A funding round from Horizon Investment to accelerate supply of API integrated management solutions.",
-        "body": "Webearsoft, a company specializing in API management and security, said on the 15th that it successfully completed a Pre-A funding round from Horizon Investment. The investment comes as Webearsoft is moving to accelerate the supply of products including API integrated management solutions. The company plans to expand its solution offerings with a focus on API management and security. As corporate use of APIs grows, demand for integrated management and security is also increasing. This funding is expected to support Webearsoft’s business push. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "API管理・セキュリティのWebearsoft、Horizon InvestmentからプレA投資を誘致",
-        "excerpt": "API管理・セキュリティ専門企業のWebearsoftは15日、Horizon InvestmentからプレAラウンド投資を誘致したと発表した。API統合管理ソリューションなどの供給拡大を進める。",
-        "body": "API管理およびセキュリティ専門企業のWebearsoftは15日、Horizon InvestmentからプレAラウンド投資の誘致を成功裏に終えたと発表した。今回の投資は、WebearsoftがAPI統合管理ソリューションなど関連製品の供給に拍車をかける流れの中で行われた。同社はAPI管理とセキュリティ分野を中心に、ソリューション供給の拡大に乗り出す計画だ。企業環境でAPI活用が増え、統合管理とセキュリティ需要が高まる中、今回の投資はWebearsoftの事業推進を後押しするとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "API管理与安全企业Webearsoft获Horizon Investment Pre-A轮投资",
-        "excerpt": "API管理与安全专业企业Webearsoft于15日表示，已完成来自Horizon Investment的Pre-A轮融资，并将加快API综合管理解决方案等产品供应。",
-        "body": "API管理与安全专业企业Webearsoft于15日表示，已成功完成来自Horizon Investment的Pre-A轮融资。此次投资发生在Webearsoft加快供应API综合管理解决方案等相关产品的过程中。公司计划以API管理和安全领域为中心，扩大解决方案供应。随着企业环境中API使用增加，综合管理和安全需求也在上升，此次融资预计将为Webearsoft推进业务提供支持。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Webearsoft capta ronda Pre-A de Horizon Investment para impulsar soluciones API",
-        "excerpt": "Webearsoft, empresa especializada en gestión y seguridad de API, informó el día 15 que completó una ronda Pre-A de Horizon Investment para acelerar el suministro de soluciones integradas de gestión API.",
-        "body": "Webearsoft, empresa especializada en gestión y seguridad de API, informó el día 15 que completó con éxito una ronda de inversión Pre-A de Horizon Investment. La inversión se produce mientras Webearsoft busca acelerar el suministro de productos relacionados, incluidas soluciones integradas de gestión de API. La compañía planea ampliar su oferta de soluciones centrada en gestión y seguridad de API. A medida que aumenta el uso de API en el entorno empresarial, también crece la demanda de gestión integrada y seguridad. Esta inversión respaldaría el avance del negocio de Webearsoft. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Webearsoft recebe aporte Pre-A da Horizon Investment para ampliar gestão de APIs",
-        "excerpt": "A Webearsoft, especializada em gestão e segurança de APIs, informou no dia 15 que concluiu uma rodada Pre-A da Horizon Investment para acelerar o fornecimento de soluções integradas de gestão de APIs.",
-        "body": "A Webearsoft, empresa especializada em gestão e segurança de APIs, informou no dia 15 que concluiu com sucesso uma rodada de investimento Pre-A da Horizon Investment. O aporte ocorre enquanto a Webearsoft busca acelerar o fornecimento de produtos relacionados, incluindo soluções integradas de gestão de APIs. A companhia planeja expandir sua oferta de soluções com foco em gestão e segurança de APIs. Com o aumento do uso de APIs no ambiente corporativo, cresce também a demanda por gestão integrada e segurança. O investimento deve apoiar o avanço dos negócios da Webearsoft. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Webearsoft erhält Pre-A-Finanzierung von Horizon Investment für API-Management",
-        "excerpt": "Der auf API-Management und Sicherheit spezialisierte Anbieter Webearsoft teilte am 15. mit, eine Pre-A-Finanzierungsrunde von Horizon Investment abgeschlossen zu haben, um integrierte API-Management-Lösungen schneller bereitzustellen.",
-        "body": "Webearsoft, ein auf API-Management und Sicherheit spezialisiertes Unternehmen, teilte am 15. mit, dass es eine Pre-A-Finanzierungsrunde von Horizon Investment erfolgreich abgeschlossen hat. Die Investition erfolgt, während Webearsoft die Bereitstellung verwandter Produkte, darunter integrierte API-Management-Lösungen, beschleunigen will. Das Unternehmen plant, sein Lösungsangebot mit Schwerpunkt auf API-Management und Sicherheit auszubauen. Da APIs in Unternehmen stärker genutzt werden, steigt auch die Nachfrage nach integrierter Verwaltung und Sicherheit. Die Finanzierung dürfte Webearsofts Geschäftsausbau unterstützen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Webearsoft obtient un financement Pre-A de Horizon Investment pour ses solutions API",
-        "excerpt": "Webearsoft, spécialiste de la gestion et de la sécurité des API, a annoncé le 15 avoir bouclé un tour Pre-A auprès de Horizon Investment afin d’accélérer la fourniture de solutions intégrées de gestion d’API.",
-        "body": "Webearsoft, entreprise spécialisée dans la gestion et la sécurité des API, a annoncé le 15 avoir bouclé avec succès un tour de financement Pre-A auprès de Horizon Investment. Cet investissement intervient alors que Webearsoft cherche à accélérer la fourniture de produits liés aux API, notamment des solutions intégrées de gestion d’API. L’entreprise prévoit d’élargir son offre de solutions autour de la gestion et de la sécurité des API. Avec l’usage croissant des API dans les entreprises, la demande de gestion intégrée et de sécurité augmente également. Ce financement devrait soutenir le développement des activités de Webearsoft. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ويبِيرسوفت تحصل على تمويل Pre-A من هورايزن إنفستمنت لتعزيز إدارة واجهات API",
-        "excerpt": "أعلنت ويبِيرسوفت، المتخصصة في إدارة وأمن واجهات API، في 15 من الشهر أنها أتمت جولة تمويل Pre-A من هورايزن إنفستمنت لتسريع توريد حلول الإدارة المتكاملة لواجهات API.",
-        "body": "أعلنت ويبِيرسوفت، الشركة المتخصصة في إدارة وأمن واجهات API، في 15 من الشهر أنها أتمت بنجاح جولة تمويل Pre-A من هورايزن إنفستمنت. ويأتي هذا الاستثمار في وقت تعمل فيه ويبِيرسوفت على تسريع توريد المنتجات ذات الصلة، بما في ذلك حلول الإدارة المتكاملة لواجهات API. وتخطط الشركة لتوسيع توفير حلولها بالتركيز على إدارة واجهات API وأمنها. ومع تزايد استخدام واجهات API في بيئات الشركات، ترتفع الحاجة إلى الإدارة المتكاملة والأمن. ومن المتوقع أن يدعم هذا التمويل دفع أعمال ويبِيرسوفت. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Webearsoft को Horizon Investment से Pre-A निवेश, API प्रबंधन समाधान को गति",
-        "excerpt": "API प्रबंधन और सुरक्षा विशेषज्ञ Webearsoft ने 15 तारीख को बताया कि उसने Horizon Investment से Pre-A राउंड निवेश पूरा किया है और API एकीकृत प्रबंधन समाधानों की आपूर्ति तेज करेगी।",
-        "body": "API प्रबंधन और सुरक्षा में विशेषज्ञ कंपनी Webearsoft ने 15 तारीख को बताया कि उसने Horizon Investment से Pre-A राउंड निवेश सफलतापूर्वक पूरा कर लिया है। यह निवेश ऐसे समय हुआ है जब Webearsoft API एकीकृत प्रबंधन समाधान सहित संबंधित उत्पादों की आपूर्ति तेज करने की दिशा में बढ़ रही है। कंपनी API प्रबंधन और सुरक्षा क्षेत्रों पर केंद्रित समाधान आपूर्ति का विस्तार करने की योजना रखती है। कंपनियों में API उपयोग बढ़ने के साथ एकीकृत प्रबंधन और सुरक्षा की मांग भी बढ़ रही है। यह निवेश Webearsoft के व्यवसाय विस्तार को समर्थन दे सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Webearsoft Raih Pendanaan Pre-A dari Horizon Investment untuk Solusi Manajemen API",
-        "excerpt": "Webearsoft, perusahaan spesialis manajemen dan keamanan API, mengatakan pada tanggal 15 bahwa mereka menyelesaikan pendanaan Pre-A dari Horizon Investment untuk mempercepat pasokan solusi manajemen API terintegrasi.",
-        "body": "Webearsoft, perusahaan yang berspesialisasi dalam manajemen dan keamanan API, mengatakan pada tanggal 15 bahwa mereka berhasil menyelesaikan pendanaan putaran Pre-A dari Horizon Investment. Investasi ini terjadi saat Webearsoft bergerak mempercepat pasokan produk terkait, termasuk solusi manajemen API terintegrasi. Perusahaan berencana memperluas pasokan solusi dengan fokus pada manajemen dan keamanan API. Seiring meningkatnya penggunaan API di lingkungan perusahaan, kebutuhan atas manajemen terintegrasi dan keamanan juga bertambah. Pendanaan ini diperkirakan mendukung dorongan bisnis Webearsoft. Sumber: mk.co.kr"
       }
     }
   }
