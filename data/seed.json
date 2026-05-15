@@ -1,5 +1,230 @@
 [
   {
+    "id": "c7c571683bb3",
+    "slug": "증권운용저축은행거를-타선-없는-한국금융지주-목표가-35만원-상향-오늘-나온-보고서-217248",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T00:01:59.199Z",
+    "updatedAt": "2026-05-15T00:01:59.199Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048725",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048725",
+    "titleFingerprint": "7ed8345b3bd45ab147caabdf4ada42c149d3389a",
+    "dedupKeys": [
+      "c7c571683bb391e26a79e660da66d749a9ed3c8e",
+      "7ed8345b3bd45ab147caabdf4ada42c149d3389a",
+      "411fcc2bcdda2665874d0ef1d45d02440fc52995"
+    ],
+    "imageUrl": "/images/articles/c7c571683bb3.png",
+    "i18n": {
+      "ko": {
+        "title": "한국금융지주 목표주가 35만원으로 상향, 1분기 순이익 기대치 34% 웃돌아",
+        "excerpt": "KB증권은 한국금융지주의 1분기 순이익이 시장 기대치를 34% 상회하고 비증권 자회사 수익성이 개선됐다며 목표주가를 35만원으로 13% 올렸다.",
+        "body": "KB증권은 오늘 나온 보고서에서 한국금융지주의 목표주가를 기존보다 13% 높인 35만원으로 상향했다. 1분기 순이익이 시장 컨센서스를 34% 웃돈 데다 증권, 운용, 저축은행 등 주요 계열 전반의 실적 개선이 반영됐다. 국내 증시 활황으로 거래대금이 늘어난 가운데 비증권 자회사 수익성이 크게 개선된 점도 평가 요인으로 제시됐다. KB증권은 이를 바탕으로 한국금융지주의 올해 연간 이익 전망치를 2조6700억원으로 올렸다. 이번 보고서는 증시 거래 활성화와 자회사 이익 개선이 실적 전망 상향으로 이어졌다는 점을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Investment Holdings Target Raised to 350,000 Won After Q1 Profit Beat",
+        "excerpt": "KB Securities raised Korea Investment Holdings’ target price by 13% to 350,000 won after first-quarter net profit beat consensus by 34% and non-brokerage units improved.",
+        "body": "KB Securities raised its target price for Korea Investment Holdings by 13% to 350,000 won in a report released today. The revision reflected first-quarter net profit that exceeded market consensus by 34%, along with improved results across key affiliates including securities, asset management and savings banking. A rise in trading value amid a strong domestic stock market was cited, while profitability at non-brokerage subsidiaries also improved sharply. Based on these factors, KB Securities lifted its full-year profit forecast for Korea Investment Holdings to 2.67 trillion won. The report shows that active stock trading and stronger subsidiary earnings led to a higher earnings outlook. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国金融持株の目標株価35万ウォンに引き上げ、1Q純利益が予想34％上回る",
+        "excerpt": "KB証券は、韓国金融持株の1四半期純利益が市場予想を34％上回り、非証券子会社の収益性も改善したとして目標株価を35万ウォンへ13％引き上げた。",
+        "body": "KB証券は本日発表したレポートで、韓国金融持株の目標株価を従来より13％高い35万ウォンに引き上げた。1四半期の純利益が市場コンセンサスを34％上回ったことに加え、証券、運用、貯蓄銀行など主要系列全般の業績改善が反映された。国内株式市場の活況で売買代金が増えたほか、非証券子会社の収益性が大きく改善した点も評価材料とされた。KB証券はこれを踏まえ、韓国金融持株の今年の年間利益見通しを2兆6700億ウォンに上方修正した。今回のレポートは、株式取引の活性化と子会社利益の改善が業績見通しの上方修正につながったことを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国金融控股目标价上调至35万韩元，一季度净利超预期34%",
+        "excerpt": "KB证券将韩国金融控股目标价上调13%至35万韩元，理由是一季度净利润高于市场预期34%，且非证券子公司盈利能力明显改善。",
+        "body": "KB证券在今日发布的报告中，将韩国金融控股目标价较此前上调13%至35万韩元。此次调整反映了其一季度净利润较市场共识高出34%，以及证券、资管、储蓄银行等主要子公司整体业绩改善。韩国国内股市活跃推动成交额增加，同时非证券子公司盈利能力大幅改善，也被列为评估因素。基于这些情况，KB证券将韩国金融控股今年全年利润预测上调至2.67万亿韩元。该报告显示，股市交易活跃和子公司利润改善共同推动了业绩展望上调。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea Investment Holdings sube a 350.000 wones tras superar expectativas en el 1T",
+        "excerpt": "KB Securities elevó un 13% el precio objetivo de Korea Investment Holdings a 350.000 wones, tras un beneficio neto del 1T un 34% superior al consenso y mejoras en filiales no bursátiles.",
+        "body": "KB Securities elevó en un informe publicado hoy el precio objetivo de Korea Investment Holdings un 13%, hasta 350.000 wones. La revisión refleja que el beneficio neto del primer trimestre superó en un 34% el consenso del mercado, junto con mejoras en las principales afiliadas de valores, gestión de activos y banca de ahorro. El aumento del valor negociado por la fortaleza del mercado bursátil local fue citado como un factor, al igual que la fuerte mejora de la rentabilidad en las filiales no bursátiles. Con base en ello, KB Securities aumentó su previsión de beneficio anual para Korea Investment Holdings a 2,67 billones de wones. El informe muestra que la mayor actividad bursátil y la mejora de las filiales elevaron las perspectivas de ganancias. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea Investment Holdings tem preço-alvo elevado a 350 mil won após lucro forte no 1T",
+        "excerpt": "A KB Securities elevou em 13% o preço-alvo da Korea Investment Holdings para 350 mil won, após lucro líquido do 1T superar o consenso em 34% e melhora nas subsidiárias não corretoras.",
+        "body": "A KB Securities elevou, em relatório divulgado hoje, o preço-alvo da Korea Investment Holdings em 13%, para 350 mil won. A revisão refletiu um lucro líquido do primeiro trimestre 34% acima do consenso do mercado, além de melhora nos resultados de afiliadas importantes em valores mobiliários, gestão de ativos e banco de poupança. O aumento do volume financeiro negociado com a força do mercado acionário doméstico foi citado como fator relevante, assim como a forte melhora da rentabilidade das subsidiárias não corretoras. Com base nisso, a KB Securities elevou sua projeção de lucro anual da Korea Investment Holdings para 2,67 trilhões de won. O relatório mostra que a maior atividade no mercado e a melhora das subsidiárias sustentaram a revisão positiva. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Investment Holdings: Kursziel nach starkem Q1-Gewinn auf 350.000 Won erhöht",
+        "excerpt": "KB Securities hob das Kursziel für Korea Investment Holdings um 13% auf 350.000 Won an, nachdem der Nettogewinn im ersten Quartal den Konsens um 34% übertraf und Nicht-Wertpapier-Töchter profitabler wurden.",
+        "body": "KB Securities hat in einem heute veröffentlichten Bericht das Kursziel für Korea Investment Holdings um 13% auf 350.000 Won angehoben. Die Anpassung spiegelt wider, dass der Nettogewinn im ersten Quartal den Marktkonsens um 34% übertraf und sich die Ergebnisse wichtiger Töchter in den Bereichen Wertpapiere, Vermögensverwaltung und Sparkassen verbesserten. Als Faktoren wurden das höhere Handelsvolumen am starken heimischen Aktienmarkt sowie die deutlich verbesserte Profitabilität der Nicht-Wertpapier-Tochtergesellschaften genannt. Auf dieser Basis hob KB Securities die Jahresgewinnprognose für Korea Investment Holdings auf 2,67 Billionen Won an. Der Bericht zeigt, dass reger Aktienhandel und bessere Tochterergebnisse den Ausblick stützten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea Investment Holdings voit son objectif relevé à 350 000 wons après un T1 solide",
+        "excerpt": "KB Securities a relevé de 13% l’objectif de cours de Korea Investment Holdings à 350 000 wons, après un bénéfice net du T1 supérieur de 34% au consensus et une amélioration des filiales non titres.",
+        "body": "KB Securities a relevé, dans un rapport publié aujourd’hui, son objectif de cours sur Korea Investment Holdings de 13%, à 350 000 wons. Cette révision reflète un bénéfice net du premier trimestre supérieur de 34% au consensus du marché, ainsi qu’une amélioration des résultats des principales filiales dans les titres, la gestion d’actifs et les caisses d’épargne. La hausse des montants échangés grâce à la vigueur du marché boursier coréen a été citée, de même que l’amélioration marquée de la rentabilité des filiales hors courtage. Sur cette base, KB Securities a porté sa prévision de bénéfice annuel à 2,67 billions de wons. Le rapport montre que l’activité boursière et les bénéfices des filiales ont soutenu la révision. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رفع السعر المستهدف لكوريا إنفستمنت هولدينغز إلى 350 ألف وون بعد أرباح قوية",
+        "excerpt": "رفعت KB Securities السعر المستهدف لكوريا إنفستمنت هولدينغز 13% إلى 350 ألف وون بعد أن تجاوز صافي ربح الربع الأول التوقعات 34% وتحسنت ربحية الشركات التابعة غير العاملة في الأوراق المالية.",
+        "body": "رفعت KB Securities في تقرير صدر اليوم السعر المستهدف لسهم Korea Investment Holdings بنسبة 13% إلى 350 ألف وون. وجاءت المراجعة بعد أن تجاوز صافي ربح الربع الأول إجماع السوق بنسبة 34%، إلى جانب تحسن النتائج في الشركات التابعة الرئيسية في الأوراق المالية وإدارة الأصول وبنوك الادخار. وأشار التقرير إلى زيادة قيمة التداول مع نشاط سوق الأسهم المحلي، إضافة إلى تحسن كبير في ربحية الشركات التابعة غير العاملة في مجال الأوراق المالية. وبناء على ذلك، رفعت KB Securities توقعاتها لأرباح Korea Investment Holdings السنوية إلى 2.67 تريليون وون. ويظهر التقرير أن نشاط التداول وتحسن أرباح الشركات التابعة دعما رفع التوقعات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Korea Investment Holdings का लक्ष्य 350,000 वॉन, पहली तिमाही लाभ अनुमान से 34% ऊपर",
+        "excerpt": "KB Securities ने Korea Investment Holdings का लक्ष्य मूल्य 13% बढ़ाकर 350,000 वॉन किया, क्योंकि पहली तिमाही का शुद्ध लाभ सहमति अनुमान से 34% अधिक रहा और गैर-सिक्योरिटीज सहायक कंपनियों की लाभप्रदता सुधरी।",
+        "body": "KB Securities ने आज जारी रिपोर्ट में Korea Investment Holdings का लक्ष्य मूल्य 13% बढ़ाकर 350,000 वॉन कर दिया। यह संशोधन पहली तिमाही के शुद्ध लाभ के बाजार सहमति अनुमान से 34% अधिक रहने और सिक्योरिटीज, एसेट मैनेजमेंट तथा सेविंग्स बैंक जैसी प्रमुख इकाइयों के बेहतर प्रदर्शन को दर्शाता है। घरेलू शेयर बाजार में तेजी से ट्रेडिंग वैल्यू बढ़ी, जबकि गैर-सिक्योरिटीज सहायक कंपनियों की लाभप्रदता में भी बड़ा सुधार हुआ। इन आधारों पर KB Securities ने Korea Investment Holdings के इस वर्ष के वार्षिक लाभ अनुमान को बढ़ाकर 2.67 ट्रिलियन वॉन कर दिया। रिपोर्ट बताती है कि सक्रिय शेयर कारोबार और सहायक कंपनियों के बेहतर लाभ ने आय दृष्टिकोण को ऊपर किया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Target Korea Investment Holdings Naik ke 350.000 Won Usai Laba Kuartal I Kuat",
+        "excerpt": "KB Securities menaikkan target harga Korea Investment Holdings 13% menjadi 350.000 won setelah laba bersih kuartal I melampaui konsensus 34% dan profitabilitas anak usaha nonsekuritas membaik.",
+        "body": "KB Securities dalam laporan yang dirilis hari ini menaikkan target harga Korea Investment Holdings sebesar 13% menjadi 350.000 won. Revisi ini mencerminkan laba bersih kuartal pertama yang melampaui konsensus pasar sebesar 34%, serta perbaikan kinerja di afiliasi utama seperti sekuritas, manajemen aset, dan bank tabungan. Kenaikan nilai transaksi seiring kuatnya pasar saham domestik disebut sebagai faktor pendukung, bersama peningkatan tajam profitabilitas anak usaha nonsekuritas. Berdasarkan hal itu, KB Securities menaikkan proyeksi laba tahunan Korea Investment Holdings menjadi 2,67 triliun won. Laporan ini menunjukkan bahwa aktivitas perdagangan saham dan perbaikan laba anak usaha mendorong kenaikan prospek kinerja. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "770ccae9992a",
+    "slug": "나만-돈-못-벌고-있나포모에-신용융자로-삼성전자-담는-빚투-증가-204742",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T00:00:59.788Z",
+    "updatedAt": "2026-05-15T00:00:59.788Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048726",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048726",
+    "titleFingerprint": "d388e227de85e3eecd7d1e30a610c892892648ef",
+    "dedupKeys": [
+      "770ccae9992a06cd6b07d7b9684f83ac4fee0046",
+      "d388e227de85e3eecd7d1e30a610c892892648ef",
+      "d3d81a87ad4c2df9c24731ac0eb12254758efe24"
+    ],
+    "imageUrl": "/images/articles/770ccae9992a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 급등에 신용융자 ‘빚투’ 증가, 포모 매수 확산",
+        "excerpt": "최근 삼성전자와 SK하이닉스 주가가 연일 급등하자 상승장에 뒤처졌다고 느낀 투자자들 사이에서 포모 심리가 커지며 신용융자를 활용한 빚투가 증가하고 있다.",
+        "body": "최근 삼성전자와 SK하이닉스 주가가 연일 급등하면서 상승장에 합류하지 못했다는 불안감이 투자자들의 신용융자 매수로 이어지고 있다. 포모(FOMO·소외되는 것에 대한 두려움)가 커진 개인 투자자들이 빚을 내 반도체 대형주를 담는 흐름이 나타난 것이다. 원문에 따르면 삼성전자와 SK하이닉스의 강세와 함께 빚투로 불리는 신용융자도 증가 추세다. 주가 상승이 투자 심리를 자극하면서 뒤늦게 매수에 나서는 수요가 늘고 있지만, 신용융자는 주가 변동에 따른 손실 부담도 함께 키울 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics, SK Hynix Rally Fuels More Margin Buying on FOMO",
+        "excerpt": "As Samsung Electronics and SK Hynix shares have surged recently, investors feeling left out of the rally are increasingly using margin loans to buy into the semiconductor leaders.",
+        "body": "Samsung Electronics and SK Hynix have continued to post sharp share-price gains recently, and anxiety among investors who missed the rally is translating into more purchases funded by margin loans. The trend reflects growing FOMO, or fear of being left out, among individual investors buying major semiconductor stocks with borrowed money. According to the original report, credit loans used for leveraged stock purchases are also on the rise alongside the strength in Samsung Electronics and SK Hynix. While the rally is encouraging late buyers to enter the market, margin financing can also increase the burden of losses when share prices fluctuate. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックス急騰で信用買い増加、FOMOが投資を刺激",
+        "excerpt": "最近、サムスン電子とSKハイニックスの株価が連日急騰し、上昇相場に乗り遅れたと感じる投資家の間でFOMO心理が広がり、信用取引による買いが増えている。",
+        "body": "最近、サムスン電子とSKハイニックスの株価が連日急騰するなか、上昇相場に参加できなかったという不安が投資家の信用買いにつながっている。FOMO、つまり取り残されることへの恐れが強まった個人投資家が、借入資金で半導体大型株を買う動きが出ている。原文によると、サムスン電子とSKハイニックスの強い値動きとともに、借金投資と呼ばれる信用融資も増加傾向にある。株価上昇は投資心理を刺激し、遅れて買いに入る需要を増やしているが、信用融資は株価変動時の損失負担も大きくし得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子、SK海力士股价大涨，FOMO推动融资买入增加",
+        "excerpt": "近期三星电子和SK海力士股价连续大涨，未能跟上上涨行情的投资者FOMO情绪升温，使用信用融资进行“借钱投资”的情况正在增加。",
+        "body": "近期三星电子和SK海力士股价连续大幅上涨，未能参与上涨行情的焦虑正促使投资者通过信用融资买入。个人投资者的FOMO，即害怕被行情排除在外的心理升温，带动了借钱买入半导体龙头股的趋势。原文称，随着三星电子和SK海力士走强，被称为“借钱投资”的信用融资也呈增加趋势。股价上涨正在刺激投资心理，并增加后续入场买盘，但信用融资也可能在股价波动时放大亏损负担。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics y SK Hynix suben con fuerza y aumenta la compra a crédito por FOMO",
+        "excerpt": "Ante las recientes alzas continuas de Samsung Electronics y SK Hynix, inversores que sienten haber quedado fuera del rally aumentan las compras financiadas con crédito por efecto FOMO.",
+        "body": "Las acciones de Samsung Electronics y SK Hynix han subido con fuerza de forma reciente, y la ansiedad de quienes no participaron en el rally se está traduciendo en más compras con crédito bursátil. El movimiento refleja un mayor FOMO, o temor a quedar excluido, entre inversores particulares que compran grandes valores de semiconductores con dinero prestado. Según el texto original, junto con la fortaleza de Samsung Electronics y SK Hynix también crece la financiación a crédito, conocida como inversión con deuda. Aunque la subida de precios estimula el ánimo inversor y atrae compras tardías, el crédito puede aumentar la carga de pérdidas si las acciones fluctúan. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Alta de Samsung Electronics e SK Hynix impulsiona compra a crédito por FOMO",
+        "excerpt": "Com as ações de Samsung Electronics e SK Hynix em forte alta recente, investidores que se sentem fora do rali ampliam compras com financiamento por medo de perder a oportunidade.",
+        "body": "As ações da Samsung Electronics e da SK Hynix vêm subindo fortemente nos últimos dias, e a ansiedade de investidores que não acompanharam o movimento está levando a mais compras com crédito. A tendência reflete o avanço do FOMO, o medo de ficar de fora, entre investidores individuais que usam dinheiro emprestado para comprar grandes papéis de semicondutores. Segundo o texto original, junto com a força de Samsung Electronics e SK Hynix, também cresce o uso de crédito para investimento alavancado. Embora a alta das ações estimule entradas tardias no mercado, o financiamento pode ampliar a carga de perdas em caso de oscilação dos preços. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics und SK Hynix steigen stark, FOMO treibt mehr Käufe auf Kredit",
+        "excerpt": "Nach den jüngsten Kursanstiegen von Samsung Electronics und SK Hynix greifen Anleger, die die Rally verpasst fühlen, vermehrt zu kreditfinanzierten Aktienkäufen.",
+        "body": "Die Aktien von Samsung Electronics und SK Hynix sind zuletzt wiederholt kräftig gestiegen, und die Sorge von Anlegern, nicht an der Rally teilgenommen zu haben, führt zu mehr Käufen über Wertpapierkredite. Der Trend zeigt wachsende FOMO, also die Angst, außen vor zu bleiben, unter Privatanlegern, die große Halbleiterwerte mit geliehenem Geld kaufen. Dem Originalbericht zufolge nimmt parallel zur Stärke von Samsung Electronics und SK Hynix auch die kreditfinanzierte Anlage, oft als Investieren mit Schulden bezeichnet, zu. Der Kursanstieg belebt zwar die Kaufbereitschaft später Einsteiger, doch Kredite können bei Kursschwankungen auch die Verlustbelastung erhöhen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics et SK Hynix flambent, les achats à crédit augmentent avec le FOMO",
+        "excerpt": "Alors que Samsung Electronics et SK Hynix montent fortement ces derniers temps, des investisseurs craignant d’avoir raté le rally recourent davantage au crédit pour acheter.",
+        "body": "Les actions de Samsung Electronics et de SK Hynix ont récemment fortement progressé, et l’inquiétude des investisseurs restés à l’écart du mouvement se traduit par davantage d’achats financés à crédit. Cette évolution reflète une montée du FOMO, la peur d’être exclu, chez les particuliers qui achètent de grandes valeurs des semi-conducteurs avec de l’argent emprunté. Selon le texte original, les crédits utilisés pour investir avec effet de levier augmentent aussi parallèlement à la vigueur de Samsung Electronics et de SK Hynix. Si la hausse des cours stimule les achats tardifs, le crédit peut également accroître le poids des pertes en cas de fluctuation. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صعود سامسونغ إلكترونيكس وSK هاينكس يعزز الشراء بالهامش وسط مخاوف فومو",
+        "excerpt": "مع الارتفاعات الأخيرة المتواصلة في أسهم سامسونغ إلكترونيكس وSK هاينكس، يتزايد لجوء مستثمرين يشعرون بأنهم فاتهم الصعود إلى التمويل الائتماني للشراء.",
+        "body": "شهدت أسهم سامسونغ إلكترونيكس وSK هاينكس ارتفاعات قوية في الآونة الأخيرة، ما دفع مستثمرين لم يلحقوا بالموجة الصاعدة إلى زيادة الشراء عبر التمويل الائتماني. ويعكس ذلك تصاعد شعور فومو، أي الخوف من الإقصاء أو تفويت الفرصة، بين المستثمرين الأفراد الذين يشترون أسهم شركات أشباه الموصلات الكبرى بأموال مقترضة. ووفق النص الأصلي، فإن التمويل الائتماني المستخدم في الاستثمار بالدين يتجه أيضا إلى الزيادة بالتوازي مع قوة سهمي سامسونغ إلكترونيكس وSK هاينكس. ورغم أن صعود الأسعار يحفز طلب الشراء المتأخر، فإن التمويل الائتماني قد يزيد عبء الخسائر عند تقلب الأسعار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix की तेज रैली से FOMO में क्रेडिट खरीद बढ़ी",
+        "excerpt": "Samsung Electronics और SK Hynix के शेयरों में हाल की लगातार तेज बढ़त के बाद रैली से छूटने की आशंका महसूस कर रहे निवेशकों में मार्जिन लोन से खरीद बढ़ रही है।",
+        "body": "Samsung Electronics और SK Hynix के शेयर हाल में लगातार तेज चढ़े हैं, और इस तेजी में शामिल न हो पाने की चिंता निवेशकों को क्रेडिट फाइनेंसिंग से खरीद की ओर ले जा रही है। यह रुझान व्यक्तिगत निवेशकों में FOMO, यानी पीछे छूट जाने के डर, के बढ़ने को दिखाता है, जिसके तहत वे उधार लिए धन से बड़े सेमीकंडक्टर शेयर खरीद रहे हैं। मूल रिपोर्ट के अनुसार, Samsung Electronics और SK Hynix की मजबूती के साथ कर्ज लेकर निवेश करने वाली क्रेडिट फाइनेंसिंग भी बढ़ती प्रवृत्ति में है। शेयरों की तेजी देर से खरीदने की मांग को बढ़ा रही है, लेकिन क्रेडिट फाइनेंसिंग कीमतों में उतार-चढ़ाव पर नुकसान का बोझ भी बढ़ा सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Samsung Electronics dan SK Hynix Melonjak, FOMO Dorong Beli Saham Pakai Kredit",
+        "excerpt": "Saat saham Samsung Electronics dan SK Hynix terus melonjak belakangan ini, investor yang merasa tertinggal reli mulai meningkatkan pembelian dengan pembiayaan kredit.",
+        "body": "Saham Samsung Electronics dan SK Hynix belakangan terus mencatat kenaikan tajam, dan kecemasan investor yang tidak ikut dalam reli mulai mendorong pembelian melalui kredit. Tren ini mencerminkan meningkatnya FOMO, atau rasa takut tertinggal, di kalangan investor individu yang membeli saham semikonduktor besar dengan dana pinjaman. Menurut teks asli, seiring penguatan Samsung Electronics dan SK Hynix, kredit pembiayaan yang disebut investasi dengan utang juga menunjukkan tren meningkat. Kenaikan harga saham memang merangsang minat beli investor yang masuk belakangan, tetapi kredit juga dapat memperbesar beban kerugian ketika harga saham berfluktuasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9685c85fa298",
+    "slug": "삼전닉스-언제까지-들고-있어야-하나요증권가가-내놓은-답은-439773",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T00:00:06.428Z",
+    "updatedAt": "2026-05-15T00:00:06.428Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048729",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048729",
+    "titleFingerprint": "dec2ee85068f981ad877c2f42aa589251f70024f",
+    "dedupKeys": [
+      "9685c85fa2989d797af44136b6286537c96e228f",
+      "dec2ee85068f981ad877c2f42aa589251f70024f",
+      "ae67878431b12c774d8708a9645b4696914f511c"
+    ],
+    "imageUrl": "/images/articles/9685c85fa298.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 급등 뒤 보유 전략은? 증권가 목표가와 경고",
+        "excerpt": "올해 삼성전자와 SK하이닉스가 각각 129%, 191% 급등한 가운데 증권가는 AI 투자 확대를 근거로 내년 반도체 호황을 전망하면서도 상승 모멘텀 둔화를 경고했다.",
+        "body": "국내 코스피 시가총액 1, 2위이자 반도체 투톱인 삼성전자와 SK하이닉스를 언제까지 보유해야 하는지를 두고 투자자 관심이 커지고 있다. 올해 두 종목은 각각 129%, 191% 급등하며 시장의 핵심 종목으로 부각됐다. 증권가에서는 삼성전자 목표가 50만원, SK하이닉스 목표가 310만원까지 제시됐다. 배경에는 인공지능(AI) 투자가 선택이 아니라 ‘생존’의 문제라는 평가와 함께 내년에도 반도체 업황 호황이 이어질 것이라는 전망이 있다. 다만 단기 급등 이후 상승 모멘텀이 약해질 수 있다는 경고도 함께 나온다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics and SK Hynix Rally: Broker Targets and Holding Strategy",
+        "excerpt": "After Samsung Electronics and SK Hynix surged 129% and 191% this year, brokerages cited AI investment as support for next year’s chip boom while warning momentum may weaken.",
+        "body": "Investor attention is growing over how long to hold Samsung Electronics and SK Hynix, the two largest Kospi stocks by market capitalization and Korea’s leading semiconductor names. This year, the two stocks have jumped 129% and 191%, respectively, becoming central names in the market. Brokerage firms have suggested target prices as high as 500,000 won for Samsung Electronics and 3.1 million won for SK Hynix. The backdrop is the view that artificial intelligence investment is not optional but a matter of “survival,” along with expectations that the semiconductor upcycle will continue next year. However, analysts also warn that upside momentum could weaken after the sharp short-term rally. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックス急騰後の保有戦略、証券街の目標株価と警告",
+        "excerpt": "今年サムスン電子とSKハイニックスがそれぞれ129%、191%急騰する中、証券街はAI投資を根拠に来年の半導体好況を見込む一方、上昇モメンタム鈍化も警告した。",
+        "body": "韓国コスピ市場で時価総額1位、2位を占める半導体の二大銘柄、サムスン電子とSKハイニックスをいつまで保有すべきかに投資家の関心が高まっている。今年、両銘柄はそれぞれ129%、191%急騰し、市場の中心銘柄として浮上した。証券街ではサムスン電子の目標株価を50万ウォン、SKハイニックスを310万ウォンまで提示する見方も出ている。背景には、人工知能（AI）投資は選択ではなく「生存」の問題だという評価と、来年も半導体市況の好況が続くとの見通しがある。ただし、短期急騰後に上昇モメンタムが弱まる可能性への警告も同時に示されている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子与SK海力士大涨后还能持有多久？券商目标价与警示",
+        "excerpt": "今年三星电子和SK海力士分别上涨129%、191%，券商以AI投资扩大为依据看好明年半导体景气延续，同时也警示上涨动能可能减弱。",
+        "body": "作为韩国KOSPI市值第一、第二大公司，也是韩国两大半导体龙头，三星电子和SK海力士究竟应持有到何时，正受到投资者关注。今年两只股票分别上涨129%和191%，成为市场核心标的。券商方面已提出三星电子目标价50万韩元、SK海力士目标价310万韩元的观点。其背景在于，人工智能（AI）投资被评价为不是选择，而是关乎“生存”的问题，同时市场预计明年半导体行业景气仍将延续。不过，也有警告指出，在短期大幅上涨后，上行动能可能减弱。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics y SK Hynix tras el fuerte rally: objetivos y advertencias",
+        "excerpt": "Samsung Electronics y SK Hynix subieron 129% y 191% este año; las firmas de valores ven apoyo en la inversión en IA para otro auge de chips, pero advierten menor impulso.",
+        "body": "Crece el interés de los inversores por saber hasta cuándo mantener Samsung Electronics y SK Hynix, las dos mayores compañías del Kospi por capitalización bursátil y líderes coreanos de semiconductores. Este año, ambas acciones han subido 129% y 191%, respectivamente, convirtiéndose en nombres clave del mercado. Las firmas de valores han planteado precios objetivo de hasta 500.000 wones para Samsung Electronics y 3,1 millones de wones para SK Hynix. El contexto es la evaluación de que la inversión en inteligencia artificial no es una opción, sino una cuestión de “supervivencia”, junto con la expectativa de que el auge de los semiconductores continúe el próximo año. Aun así, también se advierte que el impulso alcista podría debilitarse tras el fuerte avance reciente. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics e SK Hynix após a disparada: metas e alertas do mercado",
+        "excerpt": "Samsung Electronics e SK Hynix subiram 129% e 191% neste ano; corretoras veem a IA sustentando novo ciclo forte em chips, mas alertam para perda de impulso.",
+        "body": "Aumenta o interesse dos investidores sobre por quanto tempo manter Samsung Electronics e SK Hynix, as duas maiores empresas do Kospi em valor de mercado e líderes coreanas em semicondutores. Neste ano, as duas ações avançaram 129% e 191%, respectivamente, tornando-se nomes centrais do mercado. Corretoras chegaram a apresentar preços-alvo de 500.000 wons para Samsung Electronics e 3,1 milhões de wons para SK Hynix. O pano de fundo é a avaliação de que o investimento em inteligência artificial não é uma escolha, mas uma questão de “sobrevivência”, além da expectativa de que o ciclo favorável dos semicondutores continue no próximo ano. Ainda assim, há alertas de que o impulso de alta pode enfraquecer após a forte valorização de curto prazo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics und SK Hynix nach Kursrally: Kursziele und Warnungen",
+        "excerpt": "Samsung Electronics und SK Hynix stiegen dieses Jahr um 129% und 191%; Analysten sehen KI-Investitionen als Stütze für den Chipboom, warnen aber vor nachlassendem Momentum.",
+        "body": "Unter Anlegern wächst das Interesse daran, wie lange Samsung Electronics und SK Hynix gehalten werden sollten. Die beiden Unternehmen sind nach Marktkapitalisierung die Nummer eins und zwei im Kospi und Koreas führende Halbleiterwerte. In diesem Jahr legten die Aktien um 129% beziehungsweise 191% zu und rückten damit ins Zentrum des Marktes. Wertpapierhäuser nannten Kursziele von bis zu 500.000 Won für Samsung Electronics und 3,1 Millionen Won für SK Hynix. Hintergrund ist die Einschätzung, dass Investitionen in künstliche Intelligenz keine Wahl, sondern eine Frage des “Überlebens” seien, verbunden mit der Erwartung, dass die Halbleiterkonjunktur auch im kommenden Jahr stark bleibt. Zugleich wird gewarnt, dass das Aufwärtsmomentum nach dem starken kurzfristigen Anstieg schwächer werden könnte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics et SK Hynix après la flambée: objectifs et avertissements",
+        "excerpt": "Samsung Electronics et SK Hynix ont gagné 129% et 191% cette année; les courtiers misent sur l’IA pour prolonger le boom des puces, tout en signalant un risque d’essoufflement.",
+        "body": "Les investisseurs s’interrogent de plus en plus sur la durée de détention de Samsung Electronics et SK Hynix, les deux premières capitalisations du Kospi et les deux grands noms coréens des semi-conducteurs. Cette année, les deux actions ont bondi de 129% et 191%, respectivement, devenant des valeurs centrales du marché. Des sociétés de courtage ont avancé des objectifs de cours allant jusqu’à 500.000 wons pour Samsung Electronics et 3,1 millions de wons pour SK Hynix. Cette lecture repose sur l’idée que l’investissement dans l’intelligence artificielle n’est pas un choix mais une question de “survie”, ainsi que sur l’attente d’une poursuite de la bonne conjoncture des semi-conducteurs l’an prochain. Toutefois, des avertissements signalent aussi que le momentum haussier pourrait faiblir après la forte progression récente. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس وSK هاينكس بعد الصعود القوي: أهداف سعرية وتحذيرات",
+        "excerpt": "ارتفع سهما سامسونغ إلكترونيكس وSK هاينكس هذا العام 129% و191%، بينما ترى شركات الأوراق المالية أن استثمارات الذكاء الاصطناعي تدعم رواج الرقائق مع تحذير من ضعف الزخم.",
+        "body": "يتزايد اهتمام المستثمرين بمدة الاحتفاظ بسهمي سامسونغ إلكترونيكس وSK هاينكس، وهما أكبر شركتين في مؤشر كوسبي من حيث القيمة السوقية وقطبا قطاع أشباه الموصلات في كوريا. فقد ارتفع السهمان هذا العام بنسبة 129% و191% على التوالي، ليصبحا من أبرز أسهم السوق. وطرحت شركات أوراق مالية أهدافا سعرية تصل إلى 500 ألف وون لسامسونغ إلكترونيكس و3.1 مليون وون لـSK هاينكس. ويستند ذلك إلى تقييم يرى أن الاستثمار في الذكاء الاصطناعي ليس خيارا بل مسألة “بقاء”، إلى جانب توقع استمرار رواج قطاع أشباه الموصلات في العام المقبل. ومع ذلك، تبرز أيضا تحذيرات من أن زخم الصعود قد يضعف بعد الارتفاع الحاد في المدى القصير. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix की तेज रैली के बाद होल्डिंग रणनीति और चेतावनी",
+        "excerpt": "इस साल Samsung Electronics और SK Hynix में 129% और 191% की तेजी आई; ब्रोकरेज AI निवेश के दम पर अगले साल भी चिप सेक्टर में मजबूती देखते हैं, पर मोमेंटम घटने की चेतावनी भी है।",
+        "body": "कोस्पी में बाजार पूंजीकरण के लिहाज से पहले और दूसरे स्थान पर मौजूद, तथा कोरिया के प्रमुख सेमीकंडक्टर शेयर Samsung Electronics और SK Hynix को कब तक होल्ड किया जाए, इस पर निवेशकों की रुचि बढ़ रही है। इस साल दोनों शेयरों में क्रमशः 129% और 191% की तेजी आई और वे बाजार के प्रमुख नाम बन गए। ब्रोकरेज फर्मों ने Samsung Electronics के लिए 500,000 वॉन और SK Hynix के लिए 3.1 मिलियन वॉन तक के लक्ष्य मूल्य भी बताए हैं। इसके पीछे यह आकलन है कि कृत्रिम बुद्धिमत्ता में निवेश कोई विकल्प नहीं, बल्कि “अस्तित्व” का सवाल है, और अगले साल भी सेमीकंडक्टर क्षेत्र में तेजी जारी रह सकती है। हालांकि, कम समय में तेज उछाल के बाद ऊपर की गति कमजोर पड़ने की चेतावनी भी दी जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics dan SK Hynix Usai Reli Tajam: Target Harga dan Peringatan",
+        "excerpt": "Samsung Electronics dan SK Hynix naik 129% dan 191% tahun ini; sekuritas melihat investasi AI menopang boom semikonduktor tahun depan, tetapi memperingatkan momentum bisa melemah.",
+        "body": "Minat investor meningkat terhadap berapa lama Samsung Electronics dan SK Hynix perlu dipertahankan dalam portofolio. Keduanya adalah emiten terbesar pertama dan kedua di Kospi berdasarkan kapitalisasi pasar sekaligus dua pemimpin semikonduktor Korea. Tahun ini, kedua saham tersebut melonjak masing-masing 129% dan 191%, sehingga menjadi saham utama di pasar. Kalangan sekuritas telah menyampaikan target harga hingga 500.000 won untuk Samsung Electronics dan 3,1 juta won untuk SK Hynix. Latar belakangnya adalah penilaian bahwa investasi kecerdasan buatan bukan pilihan, melainkan soal “bertahan hidup”, serta proyeksi bahwa siklus kuat semikonduktor berlanjut tahun depan. Namun, ada pula peringatan bahwa momentum kenaikan dapat melemah setelah reli tajam jangka pendek. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "45d9dfaab31a",
     "slug": "하나금융-두나무에-1조-투자원화-스테이블코인-동맹-구축한다-661675",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Xi Bertemu Trump, Tekankan Koeksistensi dan Singgung ‘Thucydides Trap’",
         "excerpt": "Presiden China Xi Jinping pada tanggal 14 menekankan perlunya koeksistensi China-AS dalam pertemuan puncak dengan Presiden AS Donald Trump, dengan menyinggung “Thucydides Trap”.",
         "body": "Presiden China Xi Jinping pada tanggal 14 menekankan “jalan koeksistensi” saat bertemu Presiden Amerika Serikat Donald Trump dalam pertemuan puncak, seraya membahas arah hubungan China-AS. Xi menyebut istilah “Thucydides Trap” untuk menyampaikan pesan bahwa kedua negara perlu menghindari benturan dan hidup berdampingan. Pertemuan puncak China-AS ini berlangsung dalam alur dialog antara kedua pemimpin sejak Oktober tahun lalu. Karena hubungan dua kekuatan utama dunia berdampak besar pada situasi internasional, pernyataan dalam pertemuan itu menjadi perhatian sebagai petunjuk bagi arah hubungan China-AS ke depan serta diplomasi terkait isu Taiwan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3d98b909abbb",
-    "slug": "한화솔루션-18조-유증-규모-고수금감원-제동에-충실히-작성-366399",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T11:42:43.664Z",
-    "updatedAt": "2026-05-14T11:42:43.664Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12048098",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12048098",
-    "titleFingerprint": "96ef8affd7cec794f9e33390e22988fbdfa3bc62",
-    "dedupKeys": [
-      "3d98b909abbb36dc823a0906d364233016be0058",
-      "96ef8affd7cec794f9e33390e22988fbdfa3bc62",
-      "872722a13758ebfedb236dca7021a5bfdf977b68"
-    ],
-    "imageUrl": "/images/articles/3d98b909abbb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한화솔루션, 1.8조 유상증자 재추진…금감원 보완 요구에 정면 대응",
-        "excerpt": "한화솔루션은 금융감독원의 두 차례 제동으로 잠정 연기됐던 1조8000억원대 유상증자를 다시 추진하며, 증권신고서를 충실히 보완하겠다고 밝혔다.",
-        "body": "한화솔루션이 금융감독원의 두 차례 제동으로 잠정 연기됐던 1조8000억원대 유상증자를 다시 추진한다. 회사는 일부에서 제기된 유상증자 규모 축소 전망과 달리 기존 규모를 유지하는 방향을 고수했다. 이번 자금 조달은 미래 성장 기술 투자와 재무 구조 개선을 위한 목적이라는 설명이다. 금융감독원이 증권신고서에 대해 보완을 요구하면서 일정은 미뤄졌지만, 한화솔루션은 요구 사항을 충실히 작성해 절차를 이어가겠다는 입장이다. 대규모 자금 조달이 예정대로 진행될지와 감독 당국의 추가 검토 결과가 향후 관건이 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hanwha Solutions Pushes Ahead With 1.8 Trillion Won Rights Issue Despite FSS Review",
-        "excerpt": "Hanwha Solutions is resuming its planned 1.8 trillion won rights offering after two delays caused by Financial Supervisory Service requests for revisions.",
-        "body": "Hanwha Solutions is moving again to pursue a rights offering worth about 1.8 trillion won, which had been temporarily delayed after the Financial Supervisory Service raised objections twice. Contrary to market expectations that the company might reduce the size of the offering, Hanwha Solutions is maintaining the original scale. The company says the fundraising is intended to support investment in future growth technologies and improve its financial structure. Although the schedule was pushed back after the regulator requested supplements to the securities filing, Hanwha Solutions said it will prepare the documents faithfully and continue the process. Whether the large-scale financing proceeds as planned and how the regulator reviews the revised filing will be key points to watch. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ハンファソリューション、1.8兆ウォン増資を再推進…金融監督院の補完要求に対応",
-        "excerpt": "ハンファソリューションは、金融監督院の二度の指摘で一時延期されていた1兆8000億ウォン規模の有償増資を再び進める方針だ。",
-        "body": "ハンファソリューションは、金融監督院の二度にわたる指摘で一時延期されていた1兆8000億ウォン規模の有償増資を再び推進する。一部では増資規模を縮小するとの見方も出ていたが、同社は従来の規模を維持する方針を示した。今回の資金調達は、将来の成長技術への投資と財務構造の改善を目的とするものだという。金融監督院が証券届出書の補完を求めたことで日程は遅れたが、ハンファソリューションは要求事項を忠実に反映して手続きを続ける考えだ。大規模な資金調達が予定通り進むか、監督当局の追加審査結果が今後の焦点となる。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩华解决方案重启1.8万亿韩元增资计划，应对金融监督院补充要求",
-        "excerpt": "韩华解决方案将在金融监督院两次叫停后，重新推进一度延期的1.8万亿韩元规模有偿增资，并表示将充实补充申报材料。",
-        "body": "韩华解决方案将重新推进规模约1.8万亿韩元的有偿增资计划。该计划此前因韩国金融监督院两次提出意见而被暂时推迟。尽管外界一度预计公司可能缩小增资规模，但韩华解决方案仍坚持维持原有规模。公司表示，此次融资旨在用于未来增长技术投资，并改善财务结构。由于金融监督院要求补充证券申报书，相关日程被推迟，但韩华解决方案称将忠实完善相关内容，并继续推进程序。该项大规模融资能否按计划实施，以及监管机构后续审查结果，将成为市场关注重点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hanwha Solutions mantiene ampliación de 1,8 billones de wones pese al freno regulatorio",
-        "excerpt": "Hanwha Solutions retomará su ampliación de capital de 1,8 billones de wones tras dos demoras por pedidos de revisión del Servicio de Supervisión Financiera.",
-        "body": "Hanwha Solutions volverá a impulsar una ampliación de capital de alrededor de 1,8 billones de wones, que había quedado temporalmente aplazada tras dos intervenciones del Servicio de Supervisión Financiera de Corea. Aunque algunos esperaban que la compañía redujera el tamaño de la operación, Hanwha Solutions mantiene la escala original. La empresa explicó que los fondos se destinarán a invertir en tecnologías de crecimiento futuro y a mejorar su estructura financiera. El calendario se retrasó después de que el regulador pidiera complementar el registro de valores, pero la compañía afirmó que preparará la documentación de forma fiel a los requerimientos y continuará el proceso. La atención estará en si la financiación avanza como estaba previsto y en el resultado de la revisión regulatoria. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hanwha Solutions mantém aumento de capital de 1,8 trilhão de won apesar de revisão regulatória",
-        "excerpt": "A Hanwha Solutions retomará sua emissão de ações de 1,8 trilhão de won após dois adiamentos provocados por exigências do Serviço de Supervisão Financeira.",
-        "body": "A Hanwha Solutions voltará a avançar com uma emissão de ações no valor de cerca de 1,8 trilhão de won, que havia sido temporariamente adiada após duas intervenções do Serviço de Supervisão Financeira da Coreia. Apesar de expectativas de que a empresa pudesse reduzir o tamanho da captação, a Hanwha Solutions decidiu manter a escala original. Segundo a companhia, os recursos serão usados para investir em tecnologias de crescimento futuro e melhorar sua estrutura financeira. O cronograma foi postergado depois que o regulador pediu complementos ao registro de valores mobiliários, mas a empresa afirmou que preparará os documentos de forma fiel às exigências e seguirá com o processo. O mercado observará se a captação ocorrerá como planejado e qual será o resultado da nova análise regulatória. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hanwha Solutions hält an Kapitalerhöhung über 1,8 Billionen Won trotz FSS-Auflagen fest",
-        "excerpt": "Hanwha Solutions nimmt die geplante Kapitalerhöhung über 1,8 Billionen Won wieder auf, nachdem die Finanzaufsicht zweimal Nachbesserungen verlangt hatte.",
-        "body": "Hanwha Solutions treibt eine Kapitalerhöhung im Umfang von rund 1,8 Billionen Won erneut voran. Das Vorhaben war vorübergehend verschoben worden, nachdem die koreanische Finanzaufsicht zweimal Einwände erhoben hatte. Entgegen Erwartungen, das Unternehmen könne das Volumen reduzieren, hält Hanwha Solutions an der bisherigen Größenordnung fest. Die Mittel sollen nach Unternehmensangaben in Zukunftstechnologien fließen und zur Verbesserung der Finanzstruktur beitragen. Der Zeitplan verzögerte sich, weil die Aufsicht Ergänzungen zur Wertpapiermeldung verlangte. Hanwha Solutions erklärte jedoch, die Unterlagen sorgfältig entsprechend den Anforderungen auszuarbeiten und das Verfahren fortzusetzen. Entscheidend wird nun sein, ob die groß angelegte Finanzierung wie geplant umgesetzt wird und wie die weitere Prüfung der Aufsicht ausfällt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hanwha Solutions maintient son augmentation de capital de 1,8 billion de wons malgré le régulateur",
-        "excerpt": "Hanwha Solutions relance son augmentation de capital de 1,8 billion de wons, retardée après deux demandes de compléments du Service de supervision financière.",
-        "body": "Hanwha Solutions va de nouveau 추진 an augmentation de capital d’environ 1,8 billion de wons, temporairement reportée après deux interventions du Service de supervision financière coréen. Alors que certains anticipaient une réduction du montant, l’entreprise maintient la taille initiale de l’opération. Selon Hanwha Solutions, les fonds doivent servir à investir dans des technologies de croissance future et à améliorer sa structure financière. Le calendrier a été retardé après la demande du régulateur de compléter le dossier d’enregistrement des titres, mais la société affirme qu’elle préparera les documents avec soin et poursuivra la procédure. Le marché suivra désormais la capacité de l’opération à se dérouler comme prévu et le résultat de l’examen réglementaire. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هانوا سوليوشنز تتمسك بزيادة رأسمال بـ1.8 تريليون وون رغم مطالب الرقابة المالية",
-        "excerpt": "تستأنف هانوا سوليوشنز طرح زيادة رأسمال بقيمة 1.8 تريليون وون بعد تأجيل مؤقت بسبب اعتراضين من هيئة الرقابة المالية الكورية.",
-        "body": "تعتزم هانوا سوليوشنز استئناف زيادة رأسمال بنحو 1.8 تريليون وون، بعد أن تأجلت مؤقتا إثر تدخل هيئة الرقابة المالية الكورية مرتين. وعلى خلاف توقعات بأن تخفض الشركة حجم الإصدار، تتمسك هانوا سوليوشنز بالحجم الأصلي. وتقول الشركة إن التمويل يهدف إلى الاستثمار في تقنيات النمو المستقبلية وتحسين هيكلها المالي. وقد تأخر الجدول الزمني بعدما طلبت الهيئة استكمال بيانات نشرة الأوراق المالية، لكن هانوا سوليوشنز أكدت أنها ستعد المتطلبات بدقة وتواصل الإجراءات. وستتركز المتابعة على ما إذا كان هذا التمويل الكبير سيمضي كما هو مخطط له، وعلى نتيجة المراجعة الإضافية من الجهة الرقابية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hanwha Solutions 1.8 ट्रिलियन वॉन राइट्स इश्यू पर कायम, FSS की मांगों पर जवाब",
-        "excerpt": "Hanwha Solutions वित्तीय पर्यवेक्षण सेवा की दो आपत्तियों से टले 1.8 ट्रिलियन वॉन के राइट्स इश्यू को फिर आगे बढ़ा रही है।",
-        "body": "Hanwha Solutions लगभग 1.8 ट्रिलियन वॉन के राइट्स इश्यू को फिर से आगे बढ़ा रही है, जिसे कोरिया की वित्तीय पर्यवेक्षण सेवा की दो बार की आपत्तियों के बाद अस्थायी रूप से टाल दिया गया था। कुछ पक्षों ने अनुमान लगाया था कि कंपनी इश्यू का आकार घटा सकती है, लेकिन Hanwha Solutions मूल आकार बनाए रखने के रुख पर है। कंपनी के अनुसार, यह धन भविष्य की वृद्धि वाली तकनीकों में निवेश और वित्तीय संरचना सुधार के लिए जुटाया जा रहा है। नियामक ने प्रतिभूति पंजीकरण दस्तावेज में पूरक जानकारी मांगी, जिससे समयसीमा पीछे चली गई। Hanwha Solutions ने कहा कि वह मांगों को पूरी तरह शामिल कर प्रक्रिया जारी रखेगी। अब ध्यान इस बात पर रहेगा कि बड़ा वित्तपोषण योजना के अनुसार आगे बढ़ता है या नहीं और नियामक समीक्षा का परिणाम क्या होता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hanwha Solutions Pertahankan Rights Issue 1,8 Triliun Won Meski Diminta Revisi FSS",
-        "excerpt": "Hanwha Solutions kembali mendorong rights issue senilai 1,8 triliun won setelah sempat tertunda akibat dua permintaan perbaikan dari otoritas keuangan Korea.",
-        "body": "Hanwha Solutions kembali 추진 rights issue bernilai sekitar 1,8 triliun won yang sebelumnya sempat ditunda setelah Otoritas Pengawas Keuangan Korea dua kali memberi hambatan. Meski ada perkiraan bahwa perusahaan akan mengurangi ukuran penerbitan saham tersebut, Hanwha Solutions tetap mempertahankan skala awal. Perusahaan menyatakan dana itu ditujukan untuk investasi teknologi pertumbuhan masa depan dan perbaikan struktur keuangan. Jadwal mundur setelah regulator meminta penyempurnaan dokumen pendaftaran efek, tetapi Hanwha Solutions mengatakan akan menyusun dokumen secara lengkap sesuai permintaan dan melanjutkan proses. Fokus berikutnya adalah apakah pendanaan besar ini berjalan sesuai rencana dan bagaimana hasil tinjauan lanjutan regulator. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "530d52dca101",
-    "slug": "술-끊겠다-반성문-무색손승원-재판-직전-무면허-운전-945086",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T11:41:32.681Z",
-    "updatedAt": "2026-05-14T11:41:32.681Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12048102",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12048102",
-    "titleFingerprint": "bb11d06b3211c8cc923ea112bbcf817358a4f169",
-    "dedupKeys": [
-      "530d52dca10124e2aefeb965ca45345beb047d59",
-      "bb11d06b3211c8cc923ea112bbcf817358a4f169",
-      "1d212e543104340b7268bea2a2ce74105b79a5ec"
-    ],
-    "imageUrl": "/images/articles/530d52dca101.jpg",
-    "i18n": {
-      "ko": {
-        "title": "손승원 무면허 운전 정황…음주운전 재판 직전 또 논란",
-        "excerpt": "배우 손승원이 음주운전 재판을 앞둔 가운데 지난 8일 무면허 상태로 직접 차량을 운전한 정황이 JTBC 보도로 전해지며 논란이 커졌다.",
-        "body": "배우 손승원이 음주운전 재판을 앞두고 무면허 상태로 차량을 운전한 정황이 포착됐다. 14일 JTBC 보도에 따르면 손승원은 지난 8일 한 미용실을 방문한 뒤 직접 차량을 몰고 이동한 것으로 전해졌다. 앞서 음주운전과 관련해 재판을 앞둔 상황에서 다시 운전 정황이 알려지면서, 과거 반성 의사와 무면허 상태가 함께 주목받고 있다. 이번 보도는 재판을 앞둔 손승원의 행보에 대한 관심을 키울 전망이다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Son Seung-won Faces New No-License Driving Allegation Before DUI Trial",
-        "excerpt": "Actor Son Seung-won was reportedly seen driving without a license on May 8, shortly before his DUI trial, according to JTBC’s May 14 report.",
-        "body": "Actor Son Seung-won has been linked to a new allegation of driving without a license ahead of his trial over drunk driving. According to JTBC’s report on May 14, Son visited a hair salon on May 8 and then drove a vehicle himself. The report drew attention because it came before a court hearing related to his drunk-driving case, while his license status was also under scrutiny. The latest report is expected to keep public attention on Son’s conduct before the trial. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "ソン・スンウォン、飲酒運転裁判直前に無免許運転か",
-        "excerpt": "俳優ソン・スンウォンが飲酒運転裁判を控える中、5月8日に無免許状態で自ら車を運転した様子がJTBCの14日報道で伝えられた。",
-        "body": "俳優ソン・スンウォンが飲酒運転の裁判を控え、無免許状態で車を運転したとされる状況が確認された。14日のJTBC報道によると、ソン・スンウォンは8日に美容室を訪れた後、自ら車を運転して移動したという。飲酒運転に関する裁判を前にした時期に再び運転の様子が報じられたことで、過去の反省の意思と無免許状態があらためて注目されている。裁判を控えた行動への関心は続く見通しだ。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "孙承源酒驾审判前再陷无证驾驶争议，行车情形被曝",
-        "excerpt": "据JTBC 14日报道，演员孙承源在酒驾审判前，被发现疑似于5月8日无证状态下亲自驾车，引发关注。",
-        "body": "演员孙承源在酒驾审判前，被曝出现无证状态下驾车的情形。据JTBC 14日报道，孙承源于5月8日到访一家美发店后，亲自驾驶车辆离开。由于他此前正面临与酒驾有关的审判，此次再度被报道有驾驶行为，使其过去的反省表态和无证状态同时受到关注。该报道预计将继续引发外界对孙承源审判前举动的关注。来源：引用mk.co.kr。"
-      },
-      "es": {
-        "title": "Son Seung-won, señalado por conducir sin licencia antes de juicio por DUI",
-        "excerpt": "El actor Son Seung-won habría conducido sin licencia el 8 de mayo, antes de su juicio por conducir ebrio, según informó JTBC el día 14.",
-        "body": "El actor Son Seung-won fue señalado por presuntamente conducir un vehículo sin licencia antes de su juicio por conducir bajo los efectos del alcohol. Según informó JTBC el día 14, Son visitó una peluquería el 8 de mayo y luego condujo personalmente un automóvil. La situación llamó la atención porque se produjo antes del proceso judicial relacionado con su caso de conducción ebria, mientras también se destacaba su condición de no autorizado para conducir. El reporte mantendrá el foco en sus acciones previas al juicio. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Son Seung-won teria dirigido sem licença antes de julgamento por embriaguez",
-        "excerpt": "O ator Son Seung-won teria dirigido sem licença em 8 de maio, pouco antes de seu julgamento por dirigir alcoolizado, segundo a JTBC no dia 14.",
-        "body": "O ator Son Seung-won foi ligado a uma nova suspeita de conduzir sem licença antes de seu julgamento por direção sob efeito de álcool. Segundo reportagem da JTBC no dia 14, Son visitou um salão de beleza em 8 de maio e depois dirigiu pessoalmente um veículo. O caso chama atenção porque ocorreu antes do julgamento relacionado à direção alcoolizada, enquanto sua situação sem licença também voltou ao foco. A reportagem deve manter o interesse público sobre sua conduta antes da audiência. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Son Seung-won soll vor DUI-Prozess ohne Führerschein gefahren sein",
-        "excerpt": "Schauspieler Son Seung-won soll laut JTBC-Bericht vom 14. Mai am 8. Mai ohne Führerschein selbst Auto gefahren sein, kurz vor seinem DUI-Prozess.",
-        "body": "Schauspieler Son Seung-won steht vor einem neuen Bericht über Fahren ohne Führerschein, kurz vor seinem Prozess wegen Trunkenheit am Steuer. Laut JTBC vom 14. Mai besuchte Son am 8. Mai einen Friseursalon und fuhr danach selbst mit einem Auto weiter. Der Bericht sorgt für Aufmerksamkeit, weil er vor der Gerichtsverhandlung zu seinem Fall von Trunkenheitsfahrt erschien und zugleich sein fehlender Führerschein im Fokus steht. Das öffentliche Interesse an seinem Verhalten vor dem Prozess dürfte anhalten. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Son Seung-won aurait conduit sans permis avant son procès pour alcool au volant",
-        "excerpt": "L’acteur Son Seung-won aurait conduit sans permis le 8 mai, avant son procès pour conduite en état d’ivresse, selon un reportage de JTBC le 14.",
-        "body": "L’acteur Son Seung-won est visé par un nouveau signalement de conduite sans permis avant son procès pour conduite en état d’ivresse. Selon JTBC, qui l’a rapporté le 14, Son s’est rendu dans un salon de coiffure le 8 mai, puis aurait conduit lui-même un véhicule. L’information retient l’attention car elle intervient avant une audience liée à son affaire d’alcool au volant, alors que son absence de permis est également soulignée. Ce reportage devrait maintenir l’intérêt autour de son comportement avant le procès. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "سون سونغ وون يواجه شبهة قيادة بلا رخصة قبل محاكمة القيادة تحت تأثير الكحول",
-        "excerpt": "ذكرت JTBC في 14 مايو أن الممثل سون سونغ وون شوهد على ما يبدو يقود سيارة بلا رخصة في 8 مايو قبل محاكمته بقضية قيادة تحت تأثير الكحول.",
-        "body": "ظهرت شبهة جديدة بحق الممثل سون سونغ وون تتعلق بقيادة سيارة من دون رخصة قبل محاكمته في قضية قيادة تحت تأثير الكحول. ووفق تقرير JTBC في 14 مايو، زار سون صالون تجميل في 8 مايو ثم قاد السيارة بنفسه بعد ذلك. وأثار التقرير الاهتمام لأنه جاء قبل جلسة محاكمة مرتبطة بقضية القيادة تحت تأثير الكحول، فيما عادت مسألة وضعه بلا رخصة إلى الواجهة. ومن المتوقع أن يبقى سلوكه قبل المحاكمة محل متابعة. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "DUI मुकदमे से पहले सोन स्युंग-वोन पर बिना लाइसेंस गाड़ी चलाने का आरोप",
-        "excerpt": "JTBC की 14 मई की रिपोर्ट के अनुसार अभिनेता सोन स्युंग-वोन ने DUI मुकदमे से पहले 8 मई को बिना लाइसेंस खुद कार चलाई होने की स्थिति सामने आई।",
-        "body": "अभिनेता सोन स्युंग-वोन पर शराब पीकर गाड़ी चलाने से जुड़े मुकदमे से पहले बिना लाइसेंस वाहन चलाने की स्थिति सामने आई है। JTBC की 14 मई की रिपोर्ट के अनुसार, सोन 8 मई को एक हेयर सैलून गए और उसके बाद खुद कार चलाकर निकले। यह रिपोर्ट इसलिए ध्यान खींच रही है क्योंकि वह पहले से DUI मामले में मुकदमे का सामना करने वाले थे और इसी बीच उनके बिना लाइसेंस होने की स्थिति भी सामने आई। मुकदमे से पहले उनके आचरण पर सार्वजनिक ध्यान बना रह सकता है। स्रोत: mk.co.kr से उद्धृत."
-      },
-      "id": {
-        "title": "Son Seung-won Diduga Mengemudi Tanpa SIM Jelang Sidang Kasus DUI",
-        "excerpt": "Aktor Son Seung-won dilaporkan mengemudi tanpa SIM pada 8 Mei, menjelang sidang kasus mengemudi mabuk, menurut laporan JTBC pada 14 Mei.",
-        "body": "Aktor Son Seung-won kembali menjadi sorotan setelah muncul dugaan ia mengemudi tanpa SIM menjelang sidang terkait kasus mengemudi dalam keadaan mabuk. Menurut laporan JTBC pada 14 Mei, Son mengunjungi sebuah salon pada 8 Mei, lalu mengemudikan kendaraan sendiri setelahnya. Laporan ini menarik perhatian karena muncul sebelum persidangan kasus DUI yang dihadapinya, sementara statusnya yang tanpa izin mengemudi juga menjadi sorotan. Perhatian publik terhadap tindakannya sebelum sidang diperkirakan berlanjut. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "60b37f4f0ed4",
-    "slug": "아니-왜-벌써-한여름-날씨가금요일도-낮-기온-최고-32도-420427",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T11:40:35.886Z",
-    "updatedAt": "2026-05-14T11:40:35.886Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12048104",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12048104",
-    "titleFingerprint": "f7f002ad0266384125dfb5756f37a31cec4cf303",
-    "dedupKeys": [
-      "60b37f4f0ed421840a710e9da46d4a33fe52658a",
-      "f7f002ad0266384125dfb5756f37a31cec4cf303",
-      "f44b72fac70e0584b524bfb2f99c11b4c001d21e"
-    ],
-    "imageUrl": "/images/articles/60b37f4f0ed4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "5월 중순 초여름 더위 계속…금요일 낮 최고 32도까지 오른다",
-        "excerpt": "기상청은 14일 5월 중순에도 6월 초 같은 더위가 이어지고, 금요일에도 낮 기온이 최고 32도까지 오를 것으로 내다봤다.",
-        "body": "5월 중순임에도 6월 초처럼 더운 날씨가 이어진다. 14일 기상청에 따르면 이날 강원 원주는 낮 기온이 31.5도까지 올랐고, 금요일에도 전국 곳곳에서 낮 기온이 크게 오르며 최고 32도에 이르겠다. 오늘에 이어 내일도 이른 더위가 계속되면서 한낮에는 초여름에 가까운 기온이 나타날 전망이다. 이번 더위는 5월 중순 기준으로 체감상 빠르게 찾아온 고온 양상이라는 점에서 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Mid-May Heat to Continue, Friday Daytime Highs Expected to Reach 32 C",
-        "excerpt": "The Korea Meteorological Administration said on May 14 that early-June-like heat will continue in mid-May, with Friday daytime highs expected to reach 32 C.",
-        "body": "Early-summer heat is continuing despite it being mid-May. According to the Korea Meteorological Administration on May 14, the daytime temperature in Wonju, Gangwon Province, rose to 31.5 C on Thursday, and temperatures are expected to climb again on Friday, reaching as high as 32 C in some areas. The heat seen today is forecast to persist into tomorrow, bringing daytime conditions close to those usually felt in early June. The weather is drawing attention because the high temperatures have arrived noticeably early for mid-May. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "5月中旬の暑さ続く、金曜日も日中最高32度まで上昇へ",
-        "excerpt": "韓国気象庁は14日、5月中旬にもかかわらず6月初めのような暑さが続き、金曜日も日中の最高気温が32度に達すると見込んだ。",
-        "body": "5月中旬にもかかわらず、6月初めのような暑さが続いている。韓国気象庁が14日に明らかにしたところによると、この日、江原道原州の昼の気温は31.5度まで上がった。金曜日も各地で日中の気温が大きく上昇し、最高32度に達する見通しだ。きょうに続き、あすも早い暑さが続き、昼間は初夏に近い気温となる。5月中旬としては体感上、早く訪れた高温傾向として注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "5月中旬高温持续，周五白天最高气温将升至32摄氏度",
-        "excerpt": "韩国气象厅14日表示，尽管仍是5月中旬，类似6月初的炎热天气仍将持续，周五白天最高气温预计达32摄氏度。",
-        "body": "尽管仍处于5月中旬，类似6月初的炎热天气仍在持续。韩国气象厅14日表示，当天江原道原州白天气温升至31.5摄氏度，周五各地白天气温还将明显上升，最高可达32摄氏度。继今天之后，明天这种偏早出现的炎热天气仍将持续，白天体感接近初夏。此次高温因在5月中旬就已明显出现而受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Calor de mediados de mayo seguirá: el viernes se esperan hasta 32 °C",
-        "excerpt": "La Agencia Meteorológica de Corea informó el 14 de mayo que el calor propio de inicios de junio continuará a mediados de mayo, con máximas de hasta 32 °C el viernes.",
-        "body": "El calor similar al de comienzos de junio continuará pese a que aún es mediados de mayo. Según la Agencia Meteorológica de Corea, el 14 de mayo la temperatura diurna en Wonju, provincia de Gangwon, subió hasta 31,5 °C. Para el viernes, se prevé que las temperaturas diurnas aumenten de nuevo en varias zonas y alcancen un máximo de 32 °C. Tras el calor de hoy, mañana también se mantendrán condiciones cercanas al inicio del verano durante el día. La situación llama la atención por tratarse de un episodio cálido temprano para mediados de mayo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Calor de meados de maio continua, com máxima de 32 °C na sexta-feira",
-        "excerpt": "A Agência Meteorológica da Coreia informou em 14 de maio que o calor típico do início de junho seguirá em meados de maio, com máximas de até 32 °C na sexta-feira.",
-        "body": "O calor semelhante ao do início de junho continuará mesmo sendo meados de maio. Segundo a Agência Meteorológica da Coreia, em 14 de maio a temperatura diurna em Wonju, na província de Gangwon, chegou a 31,5 °C. Na sexta-feira, as temperaturas durante o dia devem voltar a subir em várias regiões, alcançando até 32 °C. Depois do calor de hoje, amanhã também deve apresentar condições próximas ao início do verão durante o dia. O episódio chama atenção por representar temperaturas altas percebidas cedo para meados de maio. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hitze Mitte Mai hält an: Am Freitag werden bis zu 32 Grad erwartet",
-        "excerpt": "Die koreanische Wetterbehörde erklärte am 14. Mai, dass die frühsommerliche Hitze trotz Mitte Mai anhält und die Tageshöchstwerte am Freitag bis 32 Grad erreichen können.",
-        "body": "Obwohl erst Mitte Mai ist, hält Wetter wie Anfang Juni an. Nach Angaben der koreanischen Wetterbehörde vom 14. Mai stieg die Tagestemperatur in Wonju in der Provinz Gangwon an diesem Tag auf 31,5 Grad. Auch am Freitag sollen die Temperaturen tagsüber vielerorts deutlich steigen und Höchstwerte von bis zu 32 Grad erreichen. Nach der heutigen Hitze wird auch morgen frühsommerliche Wärme erwartet. Auffällig ist, dass diese hohen Temperaturen für Mitte Mai spürbar früh auftreten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Chaleur de mi-mai persistante, jusqu’à 32 °C attendus vendredi",
-        "excerpt": "L’Agence météorologique coréenne a indiqué le 14 mai qu’une chaleur digne de début juin se poursuivrait à la mi-mai, avec jusqu’à 32 °C vendredi.",
-        "body": "Même si l’on est seulement à la mi-mai, une chaleur comparable à celle du début juin se poursuit. Selon l’Agence météorologique coréenne, le 14 mai, la température diurne à Wonju, dans la province de Gangwon, a atteint 31,5 °C. Vendredi, les températures devraient encore augmenter dans plusieurs régions et grimper jusqu’à 32 °C. Après la chaleur observée aujourd’hui, des conditions proches du début de l’été sont aussi prévues demain en journée. Cet épisode retient l’attention car ces températures élevées arrivent tôt pour la mi-mai. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "حرارة منتصف مايو مستمرة والجمعة قد تصل العظمى إلى 32 درجة",
-        "excerpt": "قالت هيئة الأرصاد الكورية في 14 مايو إن حرارة تشبه أوائل يونيو ستستمر رغم أننا في منتصف مايو، مع توقع بلوغ العظمى 32 درجة يوم الجمعة.",
-        "body": "تستمر أجواء حارة تشبه أوائل يونيو رغم أن الفترة لا تزال في منتصف مايو. ووفقا لهيئة الأرصاد الكورية في 14 مايو، ارتفعت درجة الحرارة نهارا في وونجو بمقاطعة غانغوون إلى 31.5 درجة مئوية. ومن المتوقع أن ترتفع درجات الحرارة نهارا مجددا يوم الجمعة في عدة مناطق، لتصل إلى 32 درجة كحد أقصى. وبعد حرارة اليوم، ستستمر غدا أيضا درجات قريبة من أجواء أوائل الصيف خلال النهار. وتلفت هذه الموجة الانتباه لأنها تمثل حرارة مرتفعة مبكرة نسبيا لمنتصف مايو. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मई के मध्य में गर्मी जारी, शुक्रवार को अधिकतम तापमान 32 डिग्री तक",
-        "excerpt": "कोरिया मौसम विज्ञान प्रशासन ने 14 मई को कहा कि मई के मध्य में भी जून की शुरुआत जैसी गर्मी जारी रहेगी और शुक्रवार को दिन का अधिकतम तापमान 32 डिग्री तक पहुंच सकता है।",
-        "body": "मई के मध्य में होने के बावजूद जून की शुरुआत जैसी गर्मी जारी है। कोरिया मौसम विज्ञान प्रशासन के अनुसार, 14 मई को गांगवोन प्रांत के वोनजू में दिन का तापमान 31.5 डिग्री सेल्सियस तक पहुंच गया। शुक्रवार को भी कई इलाकों में दिन का तापमान फिर बढ़ने का अनुमान है और अधिकतम तापमान 32 डिग्री तक जा सकता है। आज की गर्मी के बाद कल भी दोपहर के समय शुरुआती गर्मियों जैसी स्थिति बनी रहेगी। मई के मध्य के लिहाज से यह अपेक्षाकृत जल्दी महसूस होने वाली उच्च तापमान की स्थिति है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Panas Pertengahan Mei Berlanjut, Jumat Suhu Siang Bisa 32 Derajat",
-        "excerpt": "Badan Meteorologi Korea pada 14 Mei menyebut panas seperti awal Juni akan berlanjut meski masih pertengahan Mei, dengan suhu siang Jumat diperkirakan mencapai 32 derajat.",
-        "body": "Cuaca panas seperti awal Juni masih berlanjut meski saat ini baru pertengahan Mei. Menurut Badan Meteorologi Korea pada 14 Mei, suhu siang di Wonju, Provinsi Gangwon, naik hingga 31,5 derajat Celsius pada hari itu. Pada Jumat, suhu siang di berbagai wilayah diperkirakan kembali meningkat dan dapat mencapai maksimum 32 derajat. Setelah panas hari ini, besok kondisi siang hari juga akan terasa mendekati awal musim panas. Fenomena ini menjadi perhatian karena suhu tinggi terasa datang lebih cepat untuk ukuran pertengahan Mei. Sumber: mk.co.kr"
       }
     }
   }
