@@ -1,5 +1,230 @@
 [
   {
+    "id": "772b147051a1",
+    "slug": "평택-달려가-노조-만난-삼성-사장단-지금이-반도체-골든타임-678701",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T12:29:04.158Z",
+    "updatedAt": "2026-05-15T12:29:04.158Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049541",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049541",
+    "titleFingerprint": "220e13adc5a9f6c8a2004a9feedb020025116c52",
+    "dedupKeys": [
+      "772b147051a16633024ad200802e47f5a49cf788",
+      "220e13adc5a9f6c8a2004a9feedb020025116c52",
+      "2912775f15146791bac06edb346b1ab1048b2dd2"
+    ],
+    "imageUrl": "/images/articles/772b147051a1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성 사장단 평택 노조 면담, 반도체 총파업 앞두고 충격 최소화 총력",
+        "excerpt": "삼성전자 사장단이 15일 평택 사업장에서 노조를 만나 반도체 라인 총파업 가능성에 대비하고 웨이퍼 투입량 조절 등 생산 충격 최소화에 나섰다.",
+        "body": "삼성전자 사장단이 15일 평택 사업장을 찾아 노조와 만났다. 사상 초유의 반도체 라인 총파업이 카운트다운에 들어가자, 회사는 파업 충격을 줄이기 위한 대비에 나섰다. 대응은 파업이 예고된 평택 사업장을 중심으로 이뤄지고 있으며, 삼성전자는 웨이퍼 투입량을 줄이는 방안을 포함해 생산 차질을 낮추는 조치를 검토한 것으로 전해졌다. 사장단은 현장에서 노조를 만나 “지금이 반도체 골든타임”이라는 메시지를 강조했다. 총파업이 현실화할 경우 반도체 라인의 운영 부담이 커질 수 있어, 회사의 현장 대응과 노조와의 접점 확대가 향후 변수로 꼽힌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Executives Meet Pyeongtaek Union as Chip Strike Countdown Nears",
+        "excerpt": "Samsung Electronics executives visited the Pyeongtaek site on the 15th to meet the union and prepare for a possible semiconductor line strike by reducing production impact.",
+        "body": "Samsung Electronics executives visited the Pyeongtaek site on the 15th and met with the union. As an unprecedented full strike at semiconductor lines entered its countdown, the company began preparations to reduce the shock from a possible walkout. The response is centered on the Pyeongtaek workplace, where the strike is expected, and Samsung is said to have reviewed steps to limit production disruption, including reducing wafer input. At the site, the executives stressed the message that “now is the golden time for semiconductors.” If the strike takes place, operating pressure on chip lines could increase, making the company’s on-site response and contact with the union key variables. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン首脳部が平沢で労組面談、半導体総スト前に衝撃抑制へ",
+        "excerpt": "サムスン電子の首脳部は15日、平沢事業場で労組と面談し、半導体ラインの総スト可能性に備えてウエハ投入量の調整などに乗り出した。",
+        "body": "サムスン電子の首脳部は15日、平沢事業場を訪れ労組と面談した。前例のない半導体ラインの総ストがカウントダウンに入る中、同社はストによる衝撃を抑えるための備えに着手した。対応はストが予定される平沢事業場を中心に進められており、サムスン電子はウエハ投入量を減らす案を含め、生産への支障を低減する措置を検討したと伝えられている。首脳部は現場で労組に対し、「今が半導体のゴールデンタイム」とのメッセージを強調した。総ストが現実化すれば半導体ラインの運営負担が高まる可能性があり、現場対応と労組との接点拡大が今後の焦点となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星高层赴平泽会见工会，半导体总罢工倒计时下力降冲击",
+        "excerpt": "三星电子高层15日前往平泽工厂会见工会，在半导体产线总罢工可能临近之际，着手通过减少晶圆投入等方式降低生产冲击。",
+        "body": "三星电子高层15日前往平泽工厂并会见工会。随着史无前例的半导体产线总罢工进入倒计时，公司开始为减轻罢工冲击作准备。相关应对以预计发生罢工的平泽事业场为中心展开，据悉三星电子已研究包括减少晶圆投入量在内的措施，以降低生产受阻。高层在现场向工会强调“现在是半导体黄金时间”的信息。如果总罢工成为现实，半导体产线的运营压力可能加大，因此公司的现场应对以及与工会扩大接触将成为后续变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Directivos de Samsung se reúnen con sindicato en Pyeongtaek ante huelga de chips",
+        "excerpt": "Directivos de Samsung Electronics acudieron el día 15 a Pyeongtaek para reunirse con el sindicato y preparar medidas que reduzcan el impacto de una posible huelga en semiconductores.",
+        "body": "Directivos de Samsung Electronics visitaron el día 15 el centro de Pyeongtaek y se reunieron con el sindicato. Ante la cuenta atrás de una huelga total sin precedentes en las líneas de semiconductores, la empresa inició preparativos para reducir el impacto de un paro. La respuesta se concentra en el complejo de Pyeongtaek, donde se prevé la huelga, y Samsung habría revisado medidas para limitar los trastornos de producción, incluida la reducción de la entrada de obleas. En el lugar, los directivos subrayaron el mensaje de que “ahora es el momento dorado de los semiconductores”. Si la huelga se materializa, podría aumentar la presión operativa sobre las líneas de chips, por lo que la respuesta en planta y el contacto con el sindicato serán variables clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Executivos da Samsung vão a Pyeongtaek e buscam conter impacto de greve de chips",
+        "excerpt": "Executivos da Samsung Electronics foram no dia 15 à unidade de Pyeongtaek para encontrar o sindicato e preparar medidas contra uma possível greve nas linhas de semicondutores.",
+        "body": "Executivos da Samsung Electronics visitaram no dia 15 a unidade de Pyeongtaek e se reuniram com o sindicato. Com a contagem regressiva para uma greve total sem precedentes nas linhas de semicondutores, a empresa iniciou preparativos para reduzir o impacto de uma paralisação. A resposta está centrada no complexo de Pyeongtaek, onde a greve é esperada, e a Samsung teria avaliado medidas para diminuir interrupções na produção, incluindo a redução da entrada de wafers. No local, os executivos enfatizaram a mensagem de que “agora é o momento de ouro dos semicondutores”. Se a greve se concretizar, a pressão operacional sobre as linhas de chips pode aumentar, tornando a resposta em campo e o contato com o sindicato fatores decisivos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung-Spitze trifft Gewerkschaft in Pyeongtaek vor möglichem Chip-Streik",
+        "excerpt": "Die Führung von Samsung Electronics besuchte am 15. den Standort Pyeongtaek, traf die Gewerkschaft und bereitete Schritte gegen mögliche Folgen eines Halbleiterstreiks vor.",
+        "body": "Die Führung von Samsung Electronics besuchte am 15. den Standort Pyeongtaek und traf dort die Gewerkschaft. Da ein beispielloser Vollstreik in den Halbleiterlinien näher rückt, begann das Unternehmen mit Vorbereitungen, um die Auswirkungen eines Ausstands zu verringern. Die Maßnahmen konzentrieren sich auf den Standort Pyeongtaek, wo der Streik erwartet wird. Samsung soll Schritte geprüft haben, um Produktionsstörungen zu begrenzen, darunter eine Verringerung des Wafer-Einsatzes. Vor Ort betonte die Führung die Botschaft, dass „jetzt die goldene Zeit für Halbleiter“ sei. Sollte der Vollstreik Realität werden, könnte der Betriebsdruck auf die Chiplinien steigen; die Reaktion vor Ort und der Kontakt zur Gewerkschaft werden damit zu wichtigen Variablen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung rencontre le syndicat à Pyeongtaek avant une possible grève des puces",
+        "excerpt": "Les dirigeants de Samsung Electronics se sont rendus le 15 à Pyeongtaek pour rencontrer le syndicat et préparer des mesures face à une possible grève des lignes de semi-conducteurs.",
+        "body": "Les dirigeants de Samsung Electronics se sont rendus le 15 sur le site de Pyeongtaek et ont rencontré le syndicat. Alors qu’une grève totale sans précédent des lignes de semi-conducteurs entre dans sa phase de compte à rebours, l’entreprise a commencé à préparer des mesures pour en réduire le choc. La réponse se concentre sur le site de Pyeongtaek, où la grève est prévue, et Samsung aurait étudié des mesures visant à limiter les perturbations de production, notamment une réduction de l’introduction de wafers. Sur place, les dirigeants ont insisté sur le message selon lequel « c’est maintenant le moment clé pour les semi-conducteurs ». Si la grève se concrétise, la pression opérationnelle sur les lignes de puces pourrait augmenter, faisant de la réponse sur site et du dialogue avec le syndicat des variables importantes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قيادة سامسونغ تلتقي النقابة في بيونغتايك مع اقتراب إضراب أشباه الموصلات",
+        "excerpt": "زار مسؤولو سامسونغ إلكترونيكس موقع بيونغتايك في 15 من الشهر للقاء النقابة والاستعداد لاحتمال إضراب خطوط أشباه الموصلات عبر تقليل أثره الإنتاجي.",
+        "body": "زار مسؤولو سامسونغ إلكترونيكس موقع بيونغتايك في 15 من الشهر والتقوا النقابة. ومع دخول إضراب شامل غير مسبوق في خطوط أشباه الموصلات مرحلة العد التنازلي، بدأت الشركة الاستعداد لتقليل صدمة الإضراب المحتمل. وتتركز الاستجابة في موقع بيونغتايك، حيث يُتوقع تنفيذ الإضراب، ويُقال إن سامسونغ راجعت إجراءات للحد من تعطل الإنتاج، بما في ذلك خفض كمية إدخال الرقاقات. وفي الموقع، شدد المسؤولون على رسالة مفادها أن “الوقت الحالي هو الوقت الذهبي لأشباه الموصلات”. وإذا تحقق الإضراب الشامل، فقد تزداد أعباء تشغيل خطوط الرقائق، ما يجعل الاستجابة الميدانية وتوسيع التواصل مع النقابة عاملين مهمين لاحقا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चिप हड़ताल की उलटी गिनती के बीच सैमसंग नेतृत्व ने प्योंगटेक यूनियन से मुलाकात की",
+        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स के शीर्ष अधिकारी 15 तारीख को प्योंगटेक संयंत्र पहुंचे, यूनियन से मिले और संभावित सेमीकंडक्टर लाइन हड़ताल के असर को घटाने की तैयारी की।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स के शीर्ष अधिकारी 15 तारीख को प्योंगटेक संयंत्र पहुंचे और यूनियन से मुलाकात की। सेमीकंडक्टर लाइनों में अभूतपूर्व पूर्ण हड़ताल की उलटी गिनती शुरू होने के बीच कंपनी ने संभावित झटके को कम करने की तैयारी शुरू की। यह प्रतिक्रिया मुख्य रूप से प्योंगटेक कार्यस्थल पर केंद्रित है, जहां हड़ताल की आशंका है। बताया गया है कि सैमसंग ने उत्पादन बाधा घटाने के उपायों की समीक्षा की, जिनमें वेफर इनपुट कम करना भी शामिल है। स्थल पर अधिकारियों ने यह संदेश जोर देकर दिया कि “अभी सेमीकंडक्टर का गोल्डन टाइम है।” यदि पूर्ण हड़ताल वास्तविकता बनती है, तो चिप लाइनों के संचालन पर दबाव बढ़ सकता है, इसलिए कंपनी की ऑन-साइट प्रतिक्रिया और यूनियन से संपर्क आगे प्रमुख कारक होंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Petinggi Samsung Temui Serikat di Pyeongtaek Jelang Ancaman Mogok Chip",
+        "excerpt": "Petinggi Samsung Electronics pada tanggal 15 mendatangi fasilitas Pyeongtaek untuk bertemu serikat dan menyiapkan langkah mengurangi dampak potensi mogok lini semikonduktor.",
+        "body": "Petinggi Samsung Electronics pada tanggal 15 mengunjungi fasilitas Pyeongtaek dan bertemu dengan serikat pekerja. Saat mogok total yang belum pernah terjadi sebelumnya di lini semikonduktor memasuki hitung mundur, perusahaan mulai menyiapkan langkah untuk mengurangi dampaknya. Respons difokuskan pada lokasi Pyeongtaek, tempat mogok diperkirakan terjadi, dan Samsung disebut meninjau langkah untuk menekan gangguan produksi, termasuk mengurangi input wafer. Di lokasi, para petinggi menekankan pesan bahwa “sekarang adalah golden time semikonduktor”. Jika mogok total benar-benar terjadi, beban operasional lini chip dapat meningkat, sehingga respons di lapangan dan perluasan kontak dengan serikat menjadi variabel penting ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5a7b6a1394e9",
+    "slug": "속보-트럼프-이란-핵프로그램-20년-중단-괜찮아진짜-약속해야-416752",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T12:27:57.320Z",
+    "updatedAt": "2026-05-15T12:27:57.320Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12049543",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12049543",
+    "titleFingerprint": "cf489ede98b43d667a2f0257e0e94e5616018eba",
+    "dedupKeys": [
+      "5a7b6a1394e9fdd3429517d037e2e4e52286aabd",
+      "cf489ede98b43d667a2f0257e0e94e5616018eba",
+      "46ea816c975fb968acc564de274b00ccae4a81e8"
+    ],
+    "imageUrl": "/images/articles/5a7b6a1394e9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프, 이란 핵프로그램 20년 중단 언급…“진짜 약속해야”",
+        "excerpt": "트럼프가 이란 핵프로그램과 관련해 ‘20년 중단’도 괜찮다며, 핵심은 이란이 실제로 지킬 수 있는 약속을 해야 한다는 점이라고 밝혔다.",
+        "body": "트럼프가 이란 핵프로그램을 둘러싼 발언에서 ‘20년 중단’도 괜찮다는 입장을 밝혔다. 그는 단순한 표현보다 실제 이행 가능한 약속이 중요하다는 취지로 “진짜 약속해야” 한다고 말했다. 이번 발언에서 구체적으로 제시된 수치는 ‘20년’이며, 이란 핵프로그램의 중단 기간과 약속의 실효성이 핵심 쟁점으로 부각됐다. 향후 관련 논의에서는 중단 기간 자체와 함께 약속의 신뢰성, 이행 여부가 함께 다뤄질 가능성이 있다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "Trump Says Iran Nuclear Program Halt for 20 Years Is Acceptable",
+        "excerpt": "Trump said a 20-year halt to Iran’s nuclear program would be acceptable, stressing that the key point is whether Iran makes a real commitment it can keep.",
+        "body": "Trump said that a ‘20-year halt’ to Iran’s nuclear program would be acceptable. His remarks emphasized that the issue is not only the length of any suspension, but whether Iran makes a real and enforceable commitment. The specific figure cited in the statement was 20 years, making the duration of a halt and the credibility of the promise the central points. Future discussion may focus on both the proposed suspension period and whether the commitment can actually be carried out. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "トランプ氏、イラン核計画「20年中断もよい」実質約束を要求",
+        "excerpt": "トランプ氏はイラン核計画について「20年中断」も受け入れ可能だと述べ、重要なのは実際に守れる約束をすることだと強調した。",
+        "body": "トランプ氏はイランの核計画をめぐり、「20年中断」でもよいとの考えを示した。発言の焦点は、中断という表現そのものではなく、イランが実際に履行できる約束をするかどうかに置かれている。今回示された具体的な数字は「20年」であり、核計画の中断期間と約束の実効性が主要な論点として浮上した。今後の関連議論では、中断期間に加え、その約束が信頼できるものか、実行されるのかが問われる可能性がある。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "特朗普称伊朗核计划中断20年也可以，关键是真正承诺",
+        "excerpt": "特朗普就伊朗核计划表示，中断20年也可以接受，并强调关键在于伊朗必须作出能够真正履行的承诺。",
+        "body": "特朗普在谈及伊朗核计划时表示，“中断20年”也可以接受。他的表态强调，问题并不只是中断期限本身，而在于伊朗是否作出真实且能够履行的承诺。此次发言中明确提到的数字是“20年”，因此核计划中断期限以及承诺的实际效力成为核心关注点。后续相关讨论可能会同时围绕中断时间、承诺可信度以及是否能够落实展开。来源：引用mk.co.kr。"
+      },
+      "es": {
+        "title": "Trump acepta frenar el programa nuclear iraní por 20 años",
+        "excerpt": "Trump dijo que una pausa de 20 años en el programa nuclear de Irán sería aceptable y subrayó que lo esencial es que Irán haga una promesa real.",
+        "body": "Trump afirmó que una ‘suspensión de 20 años’ del programa nuclear de Irán sería aceptable. Sus palabras destacaron que el punto central no es solo el plazo de la interrupción, sino si Irán asume un compromiso real que pueda cumplir. La cifra concreta mencionada fue de 20 años, por lo que la duración de la pausa y la eficacia de la promesa quedaron como los principales temas. En adelante, las discusiones relacionadas podrían centrarse tanto en el periodo de suspensión como en la credibilidad y cumplimiento del compromiso. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Trump aceita pausa de 20 anos no programa nuclear do Irã",
+        "excerpt": "Trump afirmou que uma interrupção de 20 anos no programa nuclear do Irã seria aceitável, mas destacou que o essencial é um compromisso real de Teerã.",
+        "body": "Trump declarou que uma ‘interrupção de 20 anos’ no programa nuclear do Irã seria aceitável. A fala destacou que o ponto principal não é apenas a duração da suspensão, mas se o Irã fará uma promessa real e capaz de ser cumprida. O número concreto mencionado foi 20 anos, colocando o prazo de paralisação e a efetividade do compromisso no centro da questão. As próximas discussões relacionadas podem tratar tanto do período de suspensão quanto da credibilidade e do cumprimento da promessa. Fonte: citado de mk.co.kr."
+      },
+      "de": {
+        "title": "Trump nennt 20 Jahre Stopp für Irans Atomprogramm akzeptabel",
+        "excerpt": "Trump sagte, ein 20-jähriger Stopp des iranischen Atomprogramms sei akzeptabel, entscheidend sei aber ein echtes und verlässliches Versprechen Irans.",
+        "body": "Trump erklärte, ein ‘20-jähriger Stopp’ des iranischen Atomprogramms sei akzeptabel. Seine Äußerung betonte, dass nicht nur die Dauer einer Unterbrechung entscheidend ist, sondern ob Iran ein echtes Versprechen abgibt, das auch eingehalten werden kann. Die konkret genannte Zahl lautet 20 Jahre, wodurch die Länge des Stopps und die Wirksamkeit der Zusage in den Mittelpunkt rückten. In weiteren Gesprächen dürften daher sowohl die Dauer der Aussetzung als auch die Glaubwürdigkeit und Umsetzung des Versprechens eine Rolle spielen. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "Trump juge acceptable un arrêt de 20 ans du nucléaire iranien",
+        "excerpt": "Trump a déclaré qu’un arrêt de 20 ans du programme nucléaire iranien serait acceptable, en soulignant que l’essentiel est une promesse réelle de l’Iran.",
+        "body": "Trump a déclaré qu’un ‘arrêt de 20 ans’ du programme nucléaire iranien serait acceptable. Son propos souligne que l’enjeu ne se limite pas à la durée de la suspension, mais porte aussi sur la capacité de l’Iran à prendre un engagement réel et applicable. Le chiffre précis mentionné est 20 ans, ce qui place la durée de l’arrêt et l’efficacité de la promesse au centre du sujet. Les discussions à venir pourraient donc porter à la fois sur la période de suspension, la crédibilité de l’engagement et sa mise en œuvre. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "ترامب: وقف برنامج إيران النووي 20 عاما مقبول بشرط تعهد حقيقي",
+        "excerpt": "قال ترامب إن وقف برنامج إيران النووي لمدة 20 عاما سيكون مقبولا، مؤكدا أن النقطة الأساسية هي أن تقدم إيران تعهدا حقيقيا يمكن الالتزام به.",
+        "body": "قال ترامب إن ‘وقف برنامج إيران النووي لمدة 20 عاما’ سيكون أمرا مقبولا. وركزت تصريحاته على أن المسألة لا تتعلق بمدة التوقف فقط، بل بما إذا كانت إيران ستقدم تعهدا حقيقيا يمكن تنفيذه. الرقم المحدد الذي ورد في التصريح هو 20 عاما، ما يجعل مدة وقف البرنامج وفاعلية التعهد محور النقاش. وقد تتركز المداولات اللاحقة على فترة التوقف نفسها، إلى جانب مدى موثوقية الوعد وإمكان الالتزام به فعليا. المصدر: نقلا عن mk.co.kr."
+      },
+      "hi": {
+        "title": "ट्रंप बोले, ईरान परमाणु कार्यक्रम 20 साल रुके तो भी ठीक",
+        "excerpt": "ट्रंप ने कहा कि ईरान के परमाणु कार्यक्रम को 20 साल रोकना स्वीकार्य होगा, लेकिन मुख्य बात यह है कि ईरान वास्तविक और निभाने योग्य वादा करे।",
+        "body": "ट्रंप ने ईरान के परमाणु कार्यक्रम पर कहा कि ‘20 साल का ठहराव’ भी स्वीकार्य हो सकता है। उनके बयान का जोर केवल रोक की अवधि पर नहीं, बल्कि इस बात पर था कि ईरान वास्तविक और लागू किए जा सकने वाला वादा करे। इस टिप्पणी में स्पष्ट संख्या 20 साल बताई गई, जिससे परमाणु कार्यक्रम रोकने की अवधि और वादे की प्रभावशीलता मुख्य मुद्दे बन गए। आगे की संबंधित चर्चा में रोक की अवधि के साथ वादे की विश्वसनीयता और उसके पालन पर भी ध्यान रह सकता है। स्रोत: mk.co.kr से उद्धृत."
+      },
+      "id": {
+        "title": "Trump Sebut Program Nuklir Iran Berhenti 20 Tahun Bisa Diterima",
+        "excerpt": "Trump mengatakan penghentian program nuklir Iran selama 20 tahun dapat diterima, sambil menekankan bahwa Iran harus membuat janji yang benar-benar nyata.",
+        "body": "Trump menyatakan bahwa ‘penghentian selama 20 tahun’ atas program nuklir Iran dapat diterima. Pernyataan itu menekankan bahwa persoalannya bukan hanya lamanya penghentian, tetapi apakah Iran membuat janji yang nyata dan dapat dilaksanakan. Angka konkret yang disebut adalah 20 tahun, sehingga durasi penghentian dan efektivitas komitmen menjadi pokok utama. Pembahasan terkait ke depan dapat berfokus pada masa penghentian, sekaligus kredibilitas janji dan apakah janji itu benar-benar dijalankan. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "68ca76c84612",
+    "slug": "민주당-조국-공개-지지-친문-이호철에-경고해당-행위-간주-468961",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-05-15T12:27:02.521Z",
+    "updatedAt": "2026-05-15T12:27:02.521Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12049593",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12049593",
+    "titleFingerprint": "a4870159e6a808bfad9d1206130f3a13f921c8ba",
+    "dedupKeys": [
+      "68ca76c846126b3340c538b231a4ce5b049c48e8",
+      "a4870159e6a808bfad9d1206130f3a13f921c8ba",
+      "306de4923136c1abd1ceb01be3acceffc59b7e0d"
+    ],
+    "imageUrl": "/images/articles/68ca76c84612.jpg",
+    "i18n": {
+      "ko": {
+        "title": "민주당, 조국 공개 지지한 친문 이호철에 경고…재선거 파장",
+        "excerpt": "더불어민주당은 경기 평택을 재선거에서 조국혁신당 조국 후보를 공개 지지한 이호철 전 청와대 민정수석에게 해당 행위로 간주될 수 있다고 경고했다.",
+        "body": "더불어민주당이 경기 평택을 재선거에서 조국 조국혁신당 후보를 공개 지지한 이호철 전 청와대 민정수석을 향해 경고 메시지를 냈다. 민주당은 이 전 수석의 행동에 대해 다른 당 후보나 무소속 후보를 지지하거나 선거운동을 하는 행위는 해당 행위로 간주될 수 있다는 취지의 입장을 밝혔다. 이 전 수석은 친문 인사로 알려져 있어 이번 공개 지지가 당내 선거 대응과 야권 관계를 둘러싼 논란으로 번질 가능성이 있다. 민주당의 경고는 재선거 국면에서 소속 정치 인사들의 공개 지지 행보를 관리하려는 조치로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Democratic Party Warns Pro-Moon Lee Ho-cheol Over Public Support for Cho Kuk",
+        "excerpt": "South Korea’s Democratic Party warned former presidential civil affairs secretary Lee Ho-cheol after he publicly backed Rebuilding Korea Party candidate Cho Kuk in the Pyeongtaek by-election.",
+        "body": "South Korea’s Democratic Party issued a warning to Lee Ho-cheol, a former senior presidential civil affairs secretary, after he publicly supported Cho Kuk, the Rebuilding Korea Party candidate, in the Pyeongtaek by-election in Gyeonggi Province. The party said that supporting or campaigning for a candidate from another party or an independent candidate could be regarded as an act harmful to the party. Lee is known as a pro-Moon figure, making his public endorsement a potential flashpoint in the party’s election response and in relations within the broader opposition bloc. The warning is seen as an effort to manage public political moves by affiliated figures during the by-election campaign. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "民主党、曺国氏を公開支持した親文系・李浩哲氏に警告",
+        "excerpt": "韓国の共に民主党は、京畿道平沢乙の再選挙で曺国革新党の曺国候補を公開支持した李浩哲元大統領府民情首席に警告した。",
+        "body": "韓国の共に民主党は、京畿道平沢乙の再選挙で曺国革新党の曺国候補を公開支持した李浩哲元大統領府民情首席に対し、警告のメッセージを出した。民主党は、他党の候補や無所属候補を支持したり選挙運動を行ったりする行為は、党に害を及ぼす行為と見なされ得るとの趣旨を示した。李氏は親文系の人物として知られており、今回の公開支持は党内の選挙対応や野党間の関係をめぐる論点になり得る。民主党の警告は、再選挙局面で所属政治関係者の公開的な支持行動を管理する措置と受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国共同民主党警告公开支持曹国的亲文人士李浩哲",
+        "excerpt": "韩国共同民主党警告前青瓦台民政首席李浩哲，因其在京畿平泽乙再选举中公开支持祖国革新党候选人曹国。",
+        "body": "韩国共同民主党向前青瓦台民政首席李浩哲发出警告。此前，李浩哲在京畿道平泽乙再选举中公开支持祖国革新党候选人曹国。共同民主党表示，支持其他政党候选人或无党籍候选人，或为其进行选举运动的行为，可能被视为损害本党的行为。李浩哲被认为是亲文在寅阵营人士，因此此次公开支持可能引发围绕党内选举应对和在野阵营关系的争议。共同民主党的警告被解读为在再选举局势下，管理相关政治人士公开支持行为的措施。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Partido Democrático advierte a Lee Ho-cheol por apoyar públicamente a Cho Kuk",
+        "excerpt": "El Partido Democrático de Corea del Sur advirtió al exsecretario presidencial Lee Ho-cheol tras su apoyo público al candidato Cho Kuk en la repetición electoral de Pyeongtaek.",
+        "body": "El Partido Democrático de Corea del Sur emitió una advertencia a Lee Ho-cheol, exsecretario principal de Asuntos Civiles de la Casa Azul, después de que apoyara públicamente a Cho Kuk, candidato del Partido Rebuilding Korea, en la repetición electoral de Pyeongtaek, provincia de Gyeonggi. El partido señaló que apoyar o hacer campaña por candidatos de otro partido o por independientes puede considerarse una conducta perjudicial para la formación. Lee es conocido como una figura cercana al expresidente Moon Jae-in, por lo que su respaldo público puede generar controversia sobre la estrategia electoral del partido y las relaciones dentro de la oposición. La advertencia se interpreta como una medida para controlar las manifestaciones públicas de apoyo durante la elección. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Partido Democrata alerta Lee Ho-cheol por apoio público a Cho Kuk",
+        "excerpt": "O Partido Democrata da Coreia do Sul advertiu Lee Ho-cheol, ex-secretário presidencial, após ele apoiar publicamente Cho Kuk na eleição suplementar de Pyeongtaek.",
+        "body": "O Partido Democrata da Coreia do Sul emitiu um alerta a Lee Ho-cheol, ex-secretário sênior de Assuntos Civis da presidência, depois que ele declarou apoio público a Cho Kuk, candidato do Partido Rebuilding Korea, na eleição suplementar de Pyeongtaek, na província de Gyeonggi. O partido afirmou que apoiar ou fazer campanha para candidatos de outro partido ou independentes pode ser considerado uma conduta prejudicial ao partido. Lee é conhecido como uma figura ligada ao campo pró-Moon, o que torna seu apoio público um possível foco de controvérsia sobre a resposta eleitoral do partido e as relações dentro da oposição. A advertência é vista como uma tentativa de controlar apoios públicos durante a disputa. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Demokratische Partei warnt Lee Ho-cheol wegen öffentlicher Unterstützung für Cho Kuk",
+        "excerpt": "Südkoreas Demokratische Partei warnte den früheren Präsidialsekretär Lee Ho-cheol, nachdem er im Nachwahlkampf in Pyeongtaek öffentlich Cho Kuk unterstützt hatte.",
+        "body": "Südkoreas Demokratische Partei hat Lee Ho-cheol, den früheren leitenden Präsidialsekretär für zivile Angelegenheiten, gewarnt. Lee hatte bei der Nachwahl im Wahlkreis Pyeongtaek in der Provinz Gyeonggi öffentlich Cho Kuk, den Kandidaten der Rebuilding Korea Party, unterstützt. Die Partei erklärte, die Unterstützung oder Wahlkampfarbeit für Kandidaten anderer Parteien oder für unabhängige Kandidaten könne als parteischädigendes Verhalten gewertet werden. Lee gilt als dem Pro-Moon-Lager nahestehend, weshalb seine öffentliche Unterstützung zu einer Debatte über die Wahlstrategie der Partei und die Beziehungen im Oppositionslager führen kann. Die Warnung gilt als Maßnahme zur Kontrolle öffentlicher Unterstützungsaktionen im Nachwahlkampf. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le Parti démocrate avertit Lee Ho-cheol après son soutien public à Cho Kuk",
+        "excerpt": "Le Parti démocrate sud-coréen a averti Lee Ho-cheol, ancien haut responsable présidentiel, après son soutien public à Cho Kuk lors de la partielle de Pyeongtaek.",
+        "body": "Le Parti démocrate sud-coréen a adressé un avertissement à Lee Ho-cheol, ancien haut secrétaire présidentiel aux affaires civiles, après son soutien public à Cho Kuk, candidat du Parti Rebuilding Korea, lors de l’élection partielle de Pyeongtaek dans la province de Gyeonggi. Le parti a indiqué que soutenir ou faire campagne pour un candidat d’un autre parti ou pour un candidat indépendant pouvait être considéré comme un acte préjudiciable au parti. Lee est connu comme une figure proche du camp pro-Moon, ce qui peut faire de ce soutien public un sujet de controverse sur la stratégie électorale du parti et les relations au sein de l’opposition. L’avertissement est vu comme une mesure de contrôle des prises de position publiques pendant la partielle. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الحزب الديمقراطي الكوري يحذر لي هو تشول بعد دعمه العلني لتشو كوك",
+        "excerpt": "حذر الحزب الديمقراطي في كوريا الجنوبية لي هو تشول، المسؤول الرئاسي السابق، بعدما أعلن دعمه لتشو كوك في الانتخابات المعادة بدائرة بيونغتايك.",
+        "body": "وجه الحزب الديمقراطي في كوريا الجنوبية تحذيرا إلى لي هو تشول، السكرتير الرئاسي السابق للشؤون المدنية، بعد أن أعلن دعمه العلني لتشو كوك، مرشح حزب إعادة بناء كوريا، في الانتخابات المعادة بدائرة بيونغتايك في مقاطعة غيونغي. وقال الحزب إن دعم مرشح من حزب آخر أو مرشح مستقل، أو القيام بحملة انتخابية لصالحه، قد يعد سلوكا مضرا بالحزب. ويعرف لي بأنه شخصية قريبة من المعسكر المؤيد للرئيس السابق مون جاي إن، ما يجعل هذا الدعم العلني موضع جدل محتمل بشأن تعامل الحزب مع الانتخابات والعلاقات داخل معسكر المعارضة. ويأتي التحذير كإجراء لإدارة مواقف الدعم العلنية خلال الانتخابات المعادة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चो कुक को खुले समर्थन पर डेमोक्रेटिक पार्टी ने ली हो-चोल को चेताया",
+        "excerpt": "दक्षिण कोरिया की डेमोक्रेटिक पार्टी ने प्योंगटेक उपचुनाव में चो कुक को खुले समर्थन पर पूर्व राष्ट्रपति सचिव ली हो-चोल को चेतावनी दी।",
+        "body": "दक्षिण कोरिया की डेमोक्रेटिक पार्टी ने पूर्व राष्ट्रपति नागरिक मामलों के वरिष्ठ सचिव ली हो-चोल को चेतावनी दी है। ली ने ग्योंगगी प्रांत के प्योंगटेक उपचुनाव में रीबिल्डिंग कोरिया पार्टी के उम्मीदवार चो कुक का सार्वजनिक समर्थन किया था। पार्टी ने कहा कि किसी दूसरे दल के उम्मीदवार या निर्दलीय उम्मीदवार का समर्थन करना, या उसके लिए चुनाव प्रचार करना, पार्टी को नुकसान पहुंचाने वाला आचरण माना जा सकता है। ली को पूर्व राष्ट्रपति मून जे-इन समर्थक धड़े से जुड़ा माना जाता है, इसलिए उनका सार्वजनिक समर्थन पार्टी की चुनावी प्रतिक्रिया और विपक्षी संबंधों पर विवाद का कारण बन सकता है। यह चेतावनी उपचुनाव के दौरान संबंधित राजनीतिक व्यक्तियों के सार्वजनिक समर्थन को नियंत्रित करने की कोशिश के रूप में देखी जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Partai Demokrat Korea Peringatkan Lee Ho-cheol atas Dukungan untuk Cho Kuk",
+        "excerpt": "Partai Demokrat Korea Selatan memperingatkan mantan pejabat kepresidenan Lee Ho-cheol setelah ia mendukung Cho Kuk dalam pemilihan ulang Pyeongtaek.",
+        "body": "Partai Demokrat Korea Selatan mengeluarkan peringatan kepada Lee Ho-cheol, mantan sekretaris senior urusan sipil kepresidenan, setelah ia secara terbuka mendukung Cho Kuk, kandidat Partai Rebuilding Korea, dalam pemilihan ulang Pyeongtaek di Provinsi Gyeonggi. Partai menyatakan bahwa mendukung atau berkampanye untuk kandidat dari partai lain atau kandidat independen dapat dianggap sebagai tindakan yang merugikan partai. Lee dikenal sebagai tokoh yang dekat dengan kubu pro-Moon, sehingga dukungan terbuka ini dapat menjadi isu dalam respons pemilu partai dan hubungan di kalangan oposisi. Peringatan tersebut dipandang sebagai langkah untuk mengelola sikap dukungan publik para tokoh politik terkait selama pemilihan ulang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "79680f055744",
     "slug": "속보-이란-외무-미국에서-대화-계속하자는-메시지-받아-371217",
     "channelId": "MACRO",
@@ -4271,231 +4496,6 @@
         "title": "Bursa AS naik saat tensi AS-China mereda dan reli AI dorong indeks",
         "excerpt": "Dalam KTT AS-China, Trump dan Xi sepakat soal pembukaan Selat Hormuz; bersama reli AI, S&P 500 dan Nasdaq mencetak rekor, sementara Dow kembali menembus 50.000 setelah tiga bulan.",
         "body": "Bursa saham Amerika Serikat menguat serentak karena harapan meredanya ketegangan AS-China dan reli yang terkait kecerdasan buatan. Dalam KTT AS-China, Presiden Donald Trump dan Presiden China Xi Jinping menyatakan kesamaan pandangan mengenai pembukaan Selat Hormuz, sehingga ketegangan seputar hubungan kedua negara dan kawasan Timur Tengah dinilai berkurang dan tercermin pada sentimen investor. Indeks utama juga bergerak kuat. S&P 500 dan Nasdaq mencatat rekor tertinggi, sementara Dow merebut kembali level 50.000 untuk pertama kalinya dalam tiga bulan. Pasar memandang kenaikan ini sebagai hasil gabungan dari berkurangnya ketidakpastian geopolitik dan momentum saham terkait AI. Laporan asli berfokus pada kesepahaman kedua pemimpin dan pergerakan indeks, sehingga langkah konkret berikutnya serta reaksi pasar lanjutan masih perlu dikonfirmasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7f5747532030",
-    "slug": "속보트럼프-시진핑-부부-9월-24일-미국-방문-초청中과-긍정생산적-대화-855716",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T20:27:54.807Z",
-    "updatedAt": "2026-05-14T20:27:54.807Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/world/12048048",
-    "canonicalUrl": "https://www.mk.co.kr/news/world/12048048",
-    "titleFingerprint": "2a6b4e9648f1944b1e00dba29adc1e5db9ceac69",
-    "dedupKeys": [
-      "7f57475320307a230990476ecb8a92d64ee2d174",
-      "2a6b4e9648f1944b1e00dba29adc1e5db9ceac69",
-      "11d10781ac654718a104c16b7a13c48be557ad21"
-    ],
-    "imageUrl": "/images/articles/7f5747532030.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프, 시진핑 부부 9월 24일 미국 방문 초청…미중 대화 ‘긍정적’ 평가",
-        "excerpt": "도널드 트럼프 미국 대통령은 14일(현지시간) 시진핑 중국 국가주석과의 정상회담을 긍정적으로 평가하며 시 주석 부부를 9월 24일 미국으로 공식 초청했다.",
-        "body": "도널드 트럼프 미국 대통령은 14일(현지시간) 시진핑 중국 국가주석과의 이번 정상회담을 긍정적으로 평가하고, 시 주석 부부의 미국 방문을 공식 초청했다. 트럼프 대통령은 이날 베이징에서 진행된 시 주석과의 대화가 중국과의 관계에서 긍정적이고 생산적이었다고 밝혔다. 공개된 원문에 따르면 초청 시점은 9월 24일로 제시됐다. 이번 발언은 미중 정상 간 대화 이후 나온 것으로, 양국 관계의 향후 흐름을 가늠할 주요 신호로 주목된다. 다만 원문에는 구체적인 합의 내용이나 추가 일정은 공개되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trump Invites Xi Jinping and Spouse to U.S. on Sept. 24 After ‘Positive’ China Talks",
-        "excerpt": "U.S. President Donald Trump said on the 14th local time that his summit with Chinese President Xi Jinping was positive and formally invited Xi and his spouse to visit the United States on Sept. 24.",
-        "body": "U.S. President Donald Trump said on the 14th local time that he viewed his latest summit with Chinese President Xi Jinping positively and formally invited Xi and his spouse to visit the United States. Trump said the talks with Xi in Beijing were positive and productive for relations with China. According to the original report, the proposed visit date was Sept. 24. The remarks came after dialogue between the U.S. and Chinese leaders and are being watched as a signal for the future course of bilateral ties. The original report did not disclose specific agreements or further schedule details. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トランプ氏、習近平夫妻を9月24日に米国招待…米中対話を前向き評価",
-        "excerpt": "ドナルド・トランプ米大統領は14日（現地時間）、習近平中国国家主席との首脳会談を前向きに評価し、習主席夫妻を9月24日に米国へ公式招待した。",
-        "body": "ドナルド・トランプ米大統領は14日（現地時間）、習近平中国国家主席との今回の首脳会談を前向きに評価し、習主席夫妻の米国訪問を公式に招待した。トランプ大統領は同日、北京で行われた習主席との対話について、中国との関係において前向きで生産的だったと述べた。原文によると、招待の時期は9月24日と示された。今回の発言は米中首脳間の対話後に出たもので、両国関係の今後を見極める重要な信号として注目される。ただし原文では具体的な合意内容や追加日程は明らかにされていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特朗普邀请习近平夫妇9月24日访美，称中美对话积极且富有成效",
-        "excerpt": "美国总统唐纳德·特朗普当地时间14日积极评价与中国国家主席习近平的本次峰会，并正式邀请习近平夫妇于9月24日访问美国。",
-        "body": "美国总统唐纳德·特朗普当地时间14日表示，他积极评价与中国国家主席习近平的本次峰会，并正式邀请习近平夫妇访问美国。特朗普当天称，在北京与习近平主席进行的对话，对美中关系而言是积极且富有成效的。根据原文报道，邀请访问的时间被提出为9月24日。此番表态是在美中两国领导人对话之后作出的，被视为观察两国关系未来走向的重要信号。不过，原文并未公开具体协议内容或进一步日程安排。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Trump invita a Xi Jinping y su esposa a EE. UU. el 24 de septiembre tras diálogo positivo",
-        "excerpt": "El presidente estadounidense Donald Trump dijo el día 14, hora local, que valoró positivamente la cumbre con Xi Jinping e invitó formalmente a Xi y su esposa a visitar EE. UU. el 24 de septiembre.",
-        "body": "El presidente de Estados Unidos, Donald Trump, dijo el día 14, hora local, que valoró positivamente la reciente cumbre con el presidente chino Xi Jinping e invitó formalmente a Xi y a su esposa a visitar Estados Unidos. Trump afirmó que la conversación mantenida ese día con Xi en Pekín fue positiva y productiva para la relación con China. Según el texto original, la fecha propuesta para la visita es el 24 de septiembre. La declaración se produjo después del diálogo entre los líderes de Estados Unidos y China y se observa como una señal relevante para el rumbo futuro de las relaciones bilaterales. El original no reveló acuerdos concretos ni detalles adicionales de agenda. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Trump convida Xi Jinping e esposa aos EUA em 24 de setembro após diálogo positivo",
-        "excerpt": "O presidente dos EUA, Donald Trump, disse no dia 14, horário local, que avaliou positivamente a cúpula com Xi Jinping e convidou oficialmente Xi e sua esposa a visitar os EUA em 24 de setembro.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, disse no dia 14, horário local, que avaliou positivamente a recente cúpula com o presidente chinês Xi Jinping e convidou oficialmente Xi e sua esposa a visitar os Estados Unidos. Trump afirmou que a conversa realizada em Pequim com Xi foi positiva e produtiva para a relação com a China. Segundo o texto original, a data proposta para a visita é 24 de setembro. A declaração veio após o diálogo entre os líderes dos EUA e da China e é vista como um sinal importante para o futuro das relações bilaterais. O original não divulgou acordos específicos nem detalhes adicionais da agenda. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Trump lädt Xi Jinping und Ehefrau für 24. September in die USA ein",
-        "excerpt": "US-Präsident Donald Trump bewertete am 14. Ortszeit sein Gipfeltreffen mit Chinas Staatschef Xi Jinping positiv und lud Xi und dessen Ehefrau offiziell für den 24. September in die USA ein.",
-        "body": "US-Präsident Donald Trump erklärte am 14. Ortszeit, er bewerte das jüngste Gipfeltreffen mit Chinas Staatschef Xi Jinping positiv und habe Xi sowie dessen Ehefrau offiziell zu einem Besuch in den Vereinigten Staaten eingeladen. Trump sagte, das Gespräch mit Xi in Peking sei für die Beziehungen zu China positiv und produktiv gewesen. Dem Originalbericht zufolge wurde der 24. September als Besuchstermin genannt. Die Äußerung folgte auf den Dialog der Staats- und Regierungschefs beider Länder und gilt als wichtiges Signal für den weiteren Verlauf der Beziehungen zwischen den USA und China. Konkrete Vereinbarungen oder weitere Termindetails wurden im Original nicht veröffentlicht. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Trump invite Xi Jinping et son épouse aux États-Unis le 24 septembre après un dialogue positif",
-        "excerpt": "Le président américain Donald Trump a déclaré le 14, heure locale, avoir évalué positivement son sommet avec Xi Jinping et a officiellement invité Xi et son épouse aux États-Unis le 24 septembre.",
-        "body": "Le président américain Donald Trump a déclaré le 14, heure locale, qu’il évaluait positivement le récent sommet avec le président chinois Xi Jinping et qu’il invitait officiellement Xi et son épouse à se rendre aux États-Unis. Trump a affirmé que l’échange tenu à Pékin avec Xi avait été positif et productif pour les relations avec la Chine. Selon le texte original, la date proposée pour la visite est le 24 septembre. Cette déclaration est intervenue après le dialogue entre les dirigeants américain et chinois et retient l’attention comme un signal important pour l’évolution future des relations bilatérales. Le texte original ne mentionne pas d’accords précis ni de calendrier supplémentaire. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ترامب يدعو شي جين بينغ وزوجته لزيارة أمريكا في 24 سبتمبر بعد محادثات إيجابية",
-        "excerpt": "قال الرئيس الأمريكي دونالد ترامب في 14 بالتوقيت المحلي إنه قيّم قمته مع الرئيس الصيني شي جين بينغ بإيجابية، ووجّه دعوة رسمية لشي وزوجته لزيارة الولايات المتحدة في 24 سبتمبر.",
-        "body": "قال الرئيس الأمريكي دونالد ترامب في 14 بالتوقيت المحلي إنه ينظر بإيجابية إلى القمة الأخيرة مع الرئيس الصيني شي جين بينغ، ووجّه دعوة رسمية إلى شي وزوجته لزيارة الولايات المتحدة. وذكر ترامب أن المحادثات التي جرت في بكين مع شي كانت إيجابية ومنتجة للعلاقات مع الصين. ووفق النص الأصلي، طُرح يوم 24 سبتمبر موعدا للزيارة. وجاءت هذه التصريحات بعد الحوار بين زعيمي الولايات المتحدة والصين، وتُتابع بوصفها إشارة مهمة لمسار العلاقات الثنائية لاحقا. ولم يكشف النص الأصلي عن تفاصيل اتفاقات محددة أو جدول إضافي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ट्रंप ने शी जिनपिंग और पत्नी को 24 सितंबर को अमेरिका आने का निमंत्रण दिया",
-        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने स्थानीय समयानुसार 14 तारीख को शी जिनपिंग के साथ शिखर वार्ता को सकारात्मक बताया और शी दंपती को 24 सितंबर को अमेरिका आने का औपचारिक निमंत्रण दिया।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने स्थानीय समयानुसार 14 तारीख को कहा कि उन्होंने चीन के राष्ट्रपति शी जिनपिंग के साथ हालिया शिखर वार्ता का सकारात्मक मूल्यांकन किया है और शी तथा उनकी पत्नी को अमेरिका आने का औपचारिक निमंत्रण दिया है। ट्रंप ने कहा कि बीजिंग में शी के साथ हुई बातचीत चीन के साथ संबंधों के लिए सकारात्मक और उत्पादक रही। मूल रिपोर्ट के अनुसार, यात्रा की प्रस्तावित तारीख 24 सितंबर है। यह बयान अमेरिका और चीन के नेताओं के बीच बातचीत के बाद आया और द्विपक्षीय संबंधों की आगे की दिशा के संकेत के रूप में देखा जा रहा है। मूल रिपोर्ट में किसी ठोस समझौते या अतिरिक्त कार्यक्रम का खुलासा नहीं किया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Trump Undang Xi Jinping dan Istri ke AS pada 24 September Usai Dialog Positif",
-        "excerpt": "Presiden AS Donald Trump pada tanggal 14 waktu setempat menilai positif KTT dengan Presiden China Xi Jinping dan secara resmi mengundang Xi serta istrinya berkunjung ke AS pada 24 September.",
-        "body": "Presiden Amerika Serikat Donald Trump pada tanggal 14 waktu setempat menyatakan bahwa ia menilai positif KTT terbaru dengan Presiden China Xi Jinping dan secara resmi mengundang Xi serta istrinya untuk berkunjung ke Amerika Serikat. Trump mengatakan pembicaraan dengan Xi di Beijing pada hari itu berlangsung positif dan produktif bagi hubungan dengan China. Menurut laporan asli, tanggal kunjungan yang diajukan adalah 24 September. Pernyataan ini muncul setelah dialog antara pemimpin AS dan China dan menjadi sinyal penting untuk melihat arah hubungan kedua negara ke depan. Laporan asli tidak mengungkap isi kesepakatan konkret atau rincian jadwal tambahan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "dafd435e6df8",
-    "slug": "기본소득-연천군-상권-살고-인구-늘고-697745",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T20:27:00.401Z",
-    "updatedAt": "2026-05-14T20:27:00.401Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/society/12048053",
-    "canonicalUrl": "https://www.mk.co.kr/news/society/12048053",
-    "titleFingerprint": "1659847f9fc86120a96f83246f035fa085a43acf",
-    "dedupKeys": [
-      "dafd435e6df844f5bcc27db1531f6cbef365b1c1",
-      "1659847f9fc86120a96f83246f035fa085a43acf",
-      "3fbdb46e3c35b67db82fbc2b0dfc243a355f874f"
-    ],
-    "imageUrl": "/images/articles/dafd435e6df8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "연천군 기본소득 효과 주목…상권 회복에 인구 증가까지 이어졌다",
-        "excerpt": "수도권 대표 인구감소지역인 경기도 연천군에서 최근 인구가 빠르게 늘고 있으며, 농어촌기본소득 시범사업과 정책 지원, 교통망 확충이 정주 여건 개선으로 이어지고 있다.",
-        "body": "수도권의 대표적인 인구감소지역으로 꼽혀 온 경기도 연천군에서 최근 인구가 가파르게 늘고 있다. 변화의 배경에는 농어촌기본소득 시범사업을 비롯한 각종 정책 지원과 교통망 확충에 따른 정주 여건 개선이 복합적으로 작용한 것으로 전해졌다. 지역에 지급되는 기본소득과 정책 지원은 주민 생활 기반을 보완하고 상권 회복에도 영향을 준 것으로 보인다. 교통망 확충은 거주 편의성을 높이며 인구 유입 흐름을 뒷받침하고 있다. 인구 감소에 대응해 온 연천군 사례는 생활 지원과 기반시설 개선이 지역 활력에 어떤 영향을 줄 수 있는지 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Yeoncheon Basic Income Draws Attention as Local Shops Recover and Population Rises",
-        "excerpt": "Yeoncheon County in Gyeonggi Province, a major population-decline area near Seoul, has recently seen rapid population growth as basic income, policy support, and transport improvements strengthen living conditions.",
-        "body": "Yeoncheon County in Gyeonggi Province, long regarded as one of the Seoul metropolitan area’s leading population-decline regions, has recently seen its population rise sharply. The change is linked to a combination of policy support, including a rural basic income pilot project, and improved residential conditions following transport network expansion. Basic income and related support appear to be helping reinforce residents’ daily lives while also contributing to the recovery of local commercial districts. Better transport access is also improving convenience for residents and supporting the inflow of people. Yeoncheon’s case shows how livelihood support and infrastructure improvements can affect regional vitality. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "漣川郡の基本所得に注目…商圏回復と人口増加につながる動き",
-        "excerpt": "首都圏を代表する人口減少地域である京畿道漣川郡で、最近人口が急速に増えており、農漁村基本所得の試行事業や政策支援、交通網拡充が定住環境の改善につながっている。",
-        "body": "首都圏の代表的な人口減少地域とされてきた京畿道漣川郡で、最近人口が急速に増えている。背景には、農漁村基本所得の試行事業をはじめとする各種政策支援と、交通網の拡充による定住環境の改善が複合的に作用したと伝えられている。地域に支給される基本所得と政策支援は、住民の生活基盤を補い、商圏の回復にも影響を与えているとみられる。交通網の拡充は居住の利便性を高め、人口流入の流れを支えている。人口減少に対応してきた漣川郡の事例は、生活支援と基盤施設の改善が地域の活力にどのような影響を及ぼし得るかを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "涟川郡基本收入受关注：商圈复苏并带动人口增长",
-        "excerpt": "作为首都圈代表性人口减少地区的京畿道涟川郡，近期人口快速增加，农村基本收入试点、政策支持和交通网扩充共同改善了定居条件。",
-        "body": "京畿道涟川郡长期被视为首都圈代表性人口减少地区，但近期人口正在快速增加。据报道，这一变化与农村基本收入试点项目、各类政策支持以及交通网络扩充带来的定居条件改善等因素共同相关。面向地区居民发放的基本收入和政策支持，补充了居民生活基础，也对当地商圈恢复产生影响。交通网扩充则提高了居住便利性，并支撑人口流入趋势。涟川郡应对人口减少的案例显示，生活支持和基础设施改善可能对地区活力产生重要作用。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La renta básica de Yeoncheon gana atención: comercio local revive y la población crece",
-        "excerpt": "Yeoncheon, en Gyeonggi, una zona representativa de declive demográfico cerca de Seúl, registra un rápido aumento de población gracias al ingreso básico rural, apoyos públicos y mejores redes de transporte.",
-        "body": "El condado de Yeoncheon, en la provincia de Gyeonggi, considerado una de las zonas más representativas de declive demográfico en el área metropolitana de Seúl, ha visto crecer su población con rapidez recientemente. El cambio se atribuye a una combinación de apoyos públicos, incluido un proyecto piloto de ingreso básico rural, y a la mejora de las condiciones de residencia por la expansión de las redes de transporte. El ingreso básico y las medidas de apoyo parecen reforzar la vida cotidiana de los residentes y contribuir a la recuperación de los comercios locales. La mejora del transporte también eleva la comodidad residencial y respalda la llegada de población. El caso de Yeoncheon muestra cómo el apoyo a la vida diaria y la infraestructura pueden influir en la vitalidad regional. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Renda básica em Yeoncheon chama atenção com comércio em recuperação e população em alta",
-        "excerpt": "Yeoncheon, em Gyeonggi, área marcada por queda populacional perto de Seul, registra recente crescimento acelerado com renda básica rural, apoio público e expansão da rede de transporte.",
-        "body": "O condado de Yeoncheon, na província de Gyeonggi, há muito apontado como uma das principais áreas de declínio populacional da região metropolitana de Seul, vem registrando recentemente um aumento acentuado da população. A mudança é associada à combinação de apoios públicos, incluindo um projeto-piloto de renda básica rural, e à melhora das condições de moradia após a expansão da rede de transporte. A renda básica e as medidas de apoio parecem reforçar a base de vida dos moradores e também contribuir para a recuperação do comércio local. A ampliação do transporte aumenta a conveniência residencial e sustenta o fluxo de entrada de pessoas. O caso de Yeoncheon mostra como apoio à vida cotidiana e infraestrutura podem influenciar a vitalidade regional. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Grundeinkommen in Yeoncheon im Fokus: Handel erholt sich, Bevölkerung wächst",
-        "excerpt": "Yeoncheon in der Provinz Gyeonggi, ein typisches schrumpfendes Gebiet nahe Seoul, verzeichnet zuletzt starkes Bevölkerungswachstum durch ländliches Grundeinkommen, politische Unterstützung und bessere Verkehrsnetze.",
-        "body": "Der Landkreis Yeoncheon in der Provinz Gyeonggi, der lange als eines der typischen Bevölkerungsrückgangsgebiete im Großraum Seoul galt, verzeichnet zuletzt einen deutlichen Bevölkerungsanstieg. Als Hintergrund gelten mehrere Faktoren: politische Unterstützung, darunter ein Pilotprojekt für ein ländliches Grundeinkommen, sowie bessere Wohnbedingungen durch den Ausbau des Verkehrsnetzes. Das Grundeinkommen und weitere Unterstützungsmaßnahmen stärken offenbar die Lebensgrundlage der Einwohner und wirken sich auch auf die Erholung lokaler Geschäftsviertel aus. Verbesserte Verkehrsverbindungen erhöhen zudem die Wohnqualität und stützen den Zuzug. Der Fall Yeoncheon zeigt, wie Lebensunterstützung und Infrastruktur die regionale Vitalität beeinflussen können. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le revenu de base à Yeoncheon attire l’attention: commerces relancés et population en hausse",
-        "excerpt": "Yeoncheon, dans la province de Gyeonggi, zone emblématique de recul démographique près de Séoul, connaît récemment une forte hausse de population grâce au revenu de base rural, aux aides publiques et aux transports.",
-        "body": "Le comté de Yeoncheon, dans la province de Gyeonggi, longtemps considéré comme l’une des principales zones de déclin démographique de la région métropolitaine de Séoul, voit récemment sa population augmenter rapidement. Cette évolution s’explique par une combinaison de soutiens publics, dont un projet pilote de revenu de base rural, et par l’amélioration des conditions de résidence liée à l’extension du réseau de transport. Le revenu de base et les aides associées semblent renforcer les bases de vie des habitants et contribuer à la reprise des zones commerciales locales. Les transports améliorés rendent aussi la résidence plus pratique et soutiennent l’arrivée de nouveaux habitants. Le cas de Yeoncheon montre comment soutien au quotidien et infrastructures peuvent influencer la vitalité régionale. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الدخل الأساسي في يونتشون يلفت الأنظار مع تعافي الأسواق وارتفاع السكان",
-        "excerpt": "تشهد مقاطعة يونتشون في غيونغي، وهي من أبرز مناطق تراجع السكان قرب سيول، زيادة سكانية سريعة مؤخرا بفضل تجربة الدخل الأساسي الريفي والدعم السياسي وتوسيع شبكة النقل.",
-        "body": "تشهد مقاطعة يونتشون في إقليم غيونغي، التي عرفت طويلا كإحدى أبرز مناطق تراجع السكان في نطاق العاصمة سيول، ارتفاعا سريعا في عدد السكان مؤخرا. ويرتبط هذا التغير بتداخل عدة عوامل، منها مشروع تجريبي للدخل الأساسي في المناطق الريفية، وأنواع مختلفة من الدعم السياسي، وتحسن ظروف الاستقرار السكني نتيجة توسيع شبكة النقل. ويبدو أن الدخل الأساسي المقدم محليا والدعم المصاحب يعززان قاعدة معيشة السكان ويسهمان أيضا في تعافي المناطق التجارية. كما أن تحسين النقل يزيد سهولة السكن ويدعم تدفق السكان إلى المنطقة. وتظهر حالة يونتشون كيف يمكن لدعم المعيشة وتحسين البنية الأساسية أن يؤثرا في حيوية المنطقة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "योनचोन में बेसिक इनकम पर ध्यान: बाजार सुधरे और आबादी बढ़ी",
-        "excerpt": "सियोल महानगरीय क्षेत्र के प्रमुख जनसंख्या-घटाव इलाकों में शामिल ग्योंगगी के योनचोन काउंटी में हाल में आबादी तेजी से बढ़ी है, जिसका संबंध ग्रामीण बेसिक इनकम, नीतिगत समर्थन और परिवहन विस्तार से है।",
-        "body": "ग्योंगगी प्रांत का योनचोन काउंटी, जिसे सियोल महानगरीय क्षेत्र के प्रमुख जनसंख्या-घटाव क्षेत्रों में गिना जाता रहा है, हाल में तेज आबादी वृद्धि देख रहा है। इस बदलाव के पीछे ग्रामीण बेसिक इनकम पायलट परियोजना सहित विभिन्न नीतिगत समर्थन और परिवहन नेटवर्क विस्तार से बेहतर हुई रहने की स्थितियों का संयुक्त असर बताया गया है। स्थानीय स्तर पर दी जाने वाली बेसिक इनकम और समर्थन नीतियां निवासियों के जीवन आधार को मजबूत कर रही हैं और स्थानीय बाजारों की रिकवरी पर भी असर डाल रही हैं। परिवहन विस्तार से रहने की सुविधा बढ़ी है और आबादी के आगमन को सहारा मिला है। योनचोन का मामला दिखाता है कि जीवन-समर्थन और आधारभूत ढांचे में सुधार क्षेत्रीय सक्रियता को कैसे प्रभावित कर सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pendapatan Dasar Yeoncheon Disorot: Pusat Dagang Pulih dan Populasi Naik",
-        "excerpt": "Yeoncheon di Provinsi Gyeonggi, wilayah penurunan populasi utama dekat Seoul, belakangan mencatat kenaikan penduduk cepat berkat proyek pendapatan dasar pedesaan, dukungan kebijakan, dan perluasan transportasi.",
-        "body": "Kabupaten Yeoncheon di Provinsi Gyeonggi, yang lama dikenal sebagai salah satu wilayah penurunan populasi utama di kawasan metropolitan Seoul, belakangan mencatat kenaikan penduduk yang tajam. Perubahan ini disebut terkait gabungan dukungan kebijakan, termasuk proyek percontohan pendapatan dasar pedesaan, serta perbaikan kondisi hunian akibat perluasan jaringan transportasi. Pendapatan dasar yang diberikan di daerah dan dukungan kebijakan tampaknya memperkuat dasar kehidupan warga sekaligus berdampak pada pemulihan pusat perdagangan lokal. Perluasan transportasi juga meningkatkan kenyamanan tinggal dan menopang arus masuk penduduk. Kasus Yeoncheon menunjukkan bagaimana dukungan kehidupan dan perbaikan infrastruktur dapat memengaruhi vitalitas daerah. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "08c4018e7fd2",
-    "slug": "엔비디아-7거래일-만에-20-폭등시총-6조달러-눈앞-443394",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-05-14T20:25:59.273Z",
-    "updatedAt": "2026-05-14T20:25:59.273Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/it/12048399",
-    "canonicalUrl": "https://www.mk.co.kr/news/it/12048399",
-    "titleFingerprint": "2bfebd26e2a90a8a724ea4cb0be34779ae7e11e9",
-    "dedupKeys": [
-      "08c4018e7fd2cd60cce269ebe730c049e828213b",
-      "2bfebd26e2a90a8a724ea4cb0be34779ae7e11e9",
-      "f404e2bd6ee897c697ee60f030828b8f276eb437"
-    ],
-    "imageUrl": "/images/articles/08c4018e7fd2.png",
-    "i18n": {
-      "ko": {
-        "title": "엔비디아 주가 7거래일 만에 20% 급등, 시총 6조달러 눈앞",
-        "excerpt": "엔비디아 주가가 AI 반도체 투자 열기 속에 최근 7거래일 동안 20% 가까이 뛰며 시가총액 6조달러에 근접했다.",
-        "body": "엔비디아 주가가 AI 반도체 투자 열기 속에 최근 7거래일 동안 20% 가까이 급등하며 시가총액 6조달러에 다가섰다. 원문에 따르면 이 기간 엔비디아 시가총액은 9000억달러 늘었다. 반도체 업종 전반에도 자금이 몰리며 반도체지수는 두 달 사이 70% 급등했다. AI 반도체 수요와 투자 기대가 주가 상승을 이끈 배경으로 제시된다. 다만 빠른 상승세를 두고 ‘AI 버블’ 우려도 함께 거론되고 있다. 향후 시장은 AI 투자 흐름과 반도체주 밸류에이션 부담을 동시에 주시할 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Nvidia Shares Jump Nearly 20% in 7 Sessions, Near $6 Trillion Value",
-        "excerpt": "Nvidia shares rose nearly 20% over the past seven trading sessions as AI chip investment enthusiasm pushed its market value toward $6 trillion.",
-        "body": "Nvidia shares have surged nearly 20% over the past seven trading sessions as investor money flowed into AI semiconductor themes, bringing the company close to a $6 trillion market capitalization. According to the original report, Nvidia added $900 billion in market value during that period. The broader semiconductor index has also climbed 70% in two months as funds concentrated in chip-related stocks. Expectations for AI chip demand and investment are cited as key drivers of the rally. At the same time, concerns over an “AI bubble” are being raised amid the rapid gains. Markets are expected to watch both AI investment momentum and valuation pressure in semiconductor shares. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "エヌビディア株、7営業日で約20％急騰 時価総額6兆ドル目前",
-        "excerpt": "エヌビディア株はAI半導体投資ブームを背景に直近7営業日で約20％上昇し、時価総額6兆ドルに近づいた。",
-        "body": "エヌビディア株はAI半導体への投資熱が高まる中、直近7営業日で約20％急騰し、時価総額6兆ドルに迫った。原文によると、この期間にエヌビディアの時価総額は9000億ドル増加した。半導体関連株全体にも資金が流入し、半導体指数は2カ月で70％上昇した。AI半導体需要と投資への期待が株価上昇の背景として示されている。一方で、急ピッチの上昇を巡って「AIバブル」への懸念も出ている。市場は今後、AI投資の流れと半導体株のバリュエーション負担を同時に注視するとみられる。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "英伟达股价7个交易日近涨20%，市值逼近6万亿美元",
-        "excerpt": "在AI半导体投资热潮推动下，英伟达股价最近7个交易日接近上涨20%，市值逼近6万亿美元。",
-        "body": "在AI半导体投资热潮推动下，英伟达股价最近7个交易日接近上涨20%，市值逼近6万亿美元。原文称，英伟达在此期间市值增加9000亿美元。资金也流入整个半导体板块，半导体指数两个月内上涨70%。AI半导体需求和投资预期被视为推动股价上涨的背景。不过，面对快速上涨，市场也出现了对“AI泡沫”的担忧。接下来，市场预计将同时关注AI投资趋势以及半导体股票估值压力。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Nvidia sube casi 20% en 7 sesiones y roza los 6 billones de dólares",
-        "excerpt": "Las acciones de Nvidia subieron casi 20% en siete sesiones por el auge de inversión en semiconductores de IA y se acercan a 6 billones de dólares en valor.",
-        "body": "Las acciones de Nvidia subieron casi 20% en las últimas siete sesiones, impulsadas por la entrada de capital hacia los semiconductores de IA, y su capitalización bursátil se acerca a 6 billones de dólares. Según el texto original, la compañía sumó 900.000 millones de dólares en valor de mercado durante ese periodo. El entusiasmo también alcanzó al sector de chips en general: el índice de semiconductores avanzó 70% en dos meses. Las expectativas sobre demanda e inversión en chips de IA explican el avance. A la vez, la rápida subida mantiene presentes las preocupaciones por una posible “burbuja de IA”. El mercado observará el flujo de inversión en IA y la presión de valoración en semiconductores. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Nvidia salta quase 20% em 7 pregões e mira US$ 6 trilhões em valor",
-        "excerpt": "A Nvidia avançou quase 20% em sete pregões, impulsionada pela corrida por semicondutores de IA, e se aproximou de US$ 6 trilhões em valor de mercado.",
-        "body": "As ações da Nvidia dispararam quase 20% nos últimos sete pregões, com forte entrada de recursos em temas ligados a semicondutores de IA, aproximando a empresa de US$ 6 trilhões em valor de mercado. Segundo o texto original, a Nvidia ganhou US$ 900 bilhões em capitalização nesse período. O movimento também atingiu o setor de chips como um todo: o índice de semicondutores subiu 70% em dois meses. A demanda por chips de IA e as expectativas de investimento são apontadas como fatores por trás da alta. Ao mesmo tempo, o avanço rápido reacende preocupações com uma “bolha de IA”. O mercado deve acompanhar o fluxo de investimento em IA e a pressão de valuation nas ações de semicondutores. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Nvidia-Aktie steigt in 7 Handelstagen fast 20%, Börsenwert nahe 6 Billionen Dollar",
-        "excerpt": "Nvidia legte in sieben Handelstagen fast 20% zu, da Kapital in KI-Halbleiter floss, und nähert sich einer Marktkapitalisierung von 6 Billionen Dollar.",
-        "body": "Die Nvidia-Aktie ist in den vergangenen sieben Handelstagen um fast 20% gestiegen, da Kapital in den Bereich KI-Halbleiter floss. Damit nähert sich der Börsenwert des Unternehmens 6 Billionen Dollar. Dem Originalbericht zufolge erhöhte sich Nvidias Marktkapitalisierung in diesem Zeitraum um 900 Milliarden Dollar. Auch der breitere Chipsektor profitierte: Der Halbleiterindex stieg binnen zwei Monaten um 70%. Als Hintergrund der Kursgewinne gelten Erwartungen an Nachfrage und Investitionen bei KI-Chips. Zugleich werden angesichts des schnellen Anstiegs Sorgen vor einer „KI-Blase“ genannt. Der Markt dürfte nun sowohl den KI-Investitionstrend als auch Bewertungsdruck bei Halbleiterwerten beobachten. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Nvidia bondit de près de 20% en 7 séances, vers 6 000 milliards de dollars",
-        "excerpt": "Nvidia a gagné près de 20% en sept séances, portée par l’afflux de capitaux vers les semi-conducteurs d’IA, et approche 6 000 milliards de dollars de valeur.",
-        "body": "L’action Nvidia a bondi de près de 20% au cours des sept dernières séances, alors que les capitaux affluent vers les semi-conducteurs liés à l’IA, rapprochant sa capitalisation de 6 000 milliards de dollars. Selon le texte original, Nvidia a gagné 900 milliards de dollars de valeur de marché sur cette période. L’ensemble du secteur des puces a aussi profité du mouvement: l’indice des semi-conducteurs a progressé de 70% en deux mois. Les attentes autour de la demande et des investissements dans les puces d’IA expliquent cette hausse. En parallèle, la progression rapide nourrit des inquiétudes sur une possible « bulle IA ». Le marché devrait suivre à la fois les flux d’investissement en IA et la pression de valorisation sur les semi-conducteurs. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "سهم إنفيديا يقفز نحو 20% في 7 جلسات ويقترب من قيمة 6 تريليونات دولار",
-        "excerpt": "ارتفع سهم إنفيديا بنحو 20% خلال آخر سبع جلسات تداول مع تدفق الأموال إلى رقائق الذكاء الاصطناعي، مقتربا من قيمة سوقية تبلغ 6 تريليونات دولار.",
-        "body": "قفز سهم إنفيديا بنحو 20% خلال آخر سبع جلسات تداول، مع تدفق الأموال إلى قطاع أشباه موصلات الذكاء الاصطناعي، لتقترب قيمتها السوقية من 6 تريليونات دولار. وبحسب النص الأصلي، زادت القيمة السوقية لإنفيديا بمقدار 900 مليار دولار خلال هذه الفترة. كما امتد الزخم إلى قطاع الرقائق عموما، إذ ارتفع مؤشر أشباه الموصلات 70% خلال شهرين. وتظهر توقعات الطلب على رقائق الذكاء الاصطناعي والاستثمار فيها كخلفية رئيسية للصعود. في المقابل، تبرز مخاوف من “فقاعة ذكاء اصطناعي” مع سرعة الارتفاع. ومن المتوقع أن تراقب السوق مسار استثمارات الذكاء الاصطناعي وضغوط التقييم على أسهم أشباه الموصلات. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "एनवीडिया शेयर 7 सत्रों में करीब 20% उछला, मूल्य 6 ट्रिलियन डॉलर के पास",
-        "excerpt": "AI सेमीकंडक्टर निवेश की तेज मांग के बीच एनवीडिया का शेयर सात कारोबारी सत्रों में करीब 20% चढ़ा और बाजार मूल्य 6 ट्रिलियन डॉलर के करीब पहुंचा।",
-        "body": "AI सेमीकंडक्टर निवेश को लेकर तेज उत्साह के बीच एनवीडिया का शेयर पिछले सात कारोबारी सत्रों में करीब 20% उछला और कंपनी का बाजार मूल्य 6 ट्रिलियन डॉलर के करीब पहुंच गया। मूल रिपोर्ट के अनुसार, इस अवधि में एनवीडिया के बाजार पूंजीकरण में 900 अरब डॉलर की वृद्धि हुई। व्यापक सेमीकंडक्टर क्षेत्र में भी धन प्रवाह दिखा और सेमीकंडक्टर सूचकांक दो महीनों में 70% चढ़ा। AI चिप मांग और निवेश की उम्मीदें इस तेजी की प्रमुख पृष्ठभूमि बताई गई हैं। हालांकि, तेज बढ़त के बीच “AI बबल” को लेकर चिंता भी सामने आ रही है। बाजार आगे AI निवेश प्रवाह और सेमीकंडक्टर शेयरों के मूल्यांकन दबाव दोनों पर नजर रखेगा। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Saham Nvidia Melonjak Hampir 20% dalam 7 Sesi, Dekati US$6 Triliun",
-        "excerpt": "Saham Nvidia naik hampir 20% dalam tujuh sesi perdagangan terakhir karena arus dana ke semikonduktor AI, mendekati kapitalisasi pasar US$6 triliun.",
-        "body": "Saham Nvidia melonjak hampir 20% dalam tujuh sesi perdagangan terakhir karena dana mengalir deras ke tema semikonduktor AI, membuat kapitalisasi pasarnya mendekati US$6 triliun. Menurut teks asli, nilai pasar Nvidia bertambah US$900 miliar selama periode tersebut. Kenaikan juga terlihat di sektor chip secara luas, dengan indeks semikonduktor naik 70% dalam dua bulan. Ekspektasi permintaan dan investasi chip AI disebut sebagai latar utama penguatan saham. Namun, laju kenaikan yang cepat juga memunculkan kekhawatiran tentang “gelembung AI”. Pasar diperkirakan akan memantau arus investasi AI sekaligus tekanan valuasi pada saham semikonduktor. Sumber: mk.co.kr."
       }
     }
   }
