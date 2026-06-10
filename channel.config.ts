@@ -17,7 +17,8 @@ export const channel = {
     { url: 'https://rss.donga.com/economy.xml', category: 'analysis' },
     { url: 'https://www.mk.co.kr/rss/50400012/', category: 'analysis' },
     { url: 'https://www.nasdaq.com/feed/rssoutbound?category=Economy', category: 'market' },
-    { url: 'https://feeds.content.dowjones.io/public/rss/RSSMarketsMain', category: 'analysis' }
+    { url: 'https://feeds.content.dowjones.io/public/rss/RSSMarketsMain', category: 'analysis' },
+    { url: 'https://www.yna.co.kr/rss/market.xml', category: 'market' }
   ] as RSSSource[],
   categories: [
     { slug: 'breaking', name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
