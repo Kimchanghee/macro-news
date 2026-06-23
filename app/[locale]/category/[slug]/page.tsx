@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import { db } from '@/lib/db';
 import { ArticleCard } from '@/components/ArticleCard';
+import { AffiliateShowcase } from '@/components/AffiliateShowcase';
 import { AdSlot } from '@/components/AdSlot';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
@@ -49,6 +50,9 @@ export default async function CategoryPage({ params }: { params: { locale: Local
       </p>
       <div style={{ display: 'flex', justifyContent: 'center', margin: '4px 0 20px' }}>
         <AdSlot network="adsterra" />
+      </div>
+      <div data-category-monetization style={{ margin: '18px 0 22px' }}>
+        <AffiliateShowcase locale={params.locale} placement="article" />
       </div>
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 16, marginTop: 16 }}>
         {items.flatMap((a, idx) => {

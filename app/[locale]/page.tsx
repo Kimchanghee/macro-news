@@ -1,6 +1,7 @@
 import { db } from '@/lib/db';
 import { ArticleCard } from '@/components/ArticleCard';
 import { AffiliateShowcase } from '@/components/AffiliateShowcase';
+import { AdSlot } from '@/components/AdSlot';
 import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 import { getTranslations } from 'next-intl/server';
@@ -32,6 +33,10 @@ export default async function Home({ params: { locale } }: { params: { locale: L
   return (
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd(articles.slice(0, 20), locale, `${(channel as any).name} latest news`)) }} />
+
+      <h1 data-primary-home-heading style={{ fontFamily: 'var(--serif)', fontSize: 34, lineHeight: 1.2, margin: '0 0 18px' }}>
+        {(channel as any).name} {locale === 'ko' ? '최신 뉴스' : 'Latest News'}
+      </h1>
 
       <section className="np-lead">
         <div>
@@ -73,6 +78,9 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </div>
 
         <aside>
+          <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 16 }}>
+            <AdSlot network="adsterra" />
+          </div>
           <div className="np-widget np-rank">
             <span className="wh">{locale === 'ko' ? '많이 본 뉴스' : 'Most read'}</span>
             {ranked.map((a, idx) => {
