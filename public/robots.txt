@@ -19,9 +19,6 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-User-agent: Amazonbot
-Allow: /
-
 Sitemap: https://macrofinancenews.online/sitemap.xml
 Host: macrofinancenews.online
 IndexNow-Key: a20742e0e43e7023e2cd9f524ac397e0
