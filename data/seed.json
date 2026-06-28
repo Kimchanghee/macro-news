@@ -1,5 +1,377 @@
 [
   {
+    "id": "104b765679ba",
+    "slug": "환율채권-더-세진-금리인상-신호채권금리-들썩-566737",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-06-28T14:54:35.341Z",
+    "updatedAt": "2026-06-28T14:54:35.343Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.hankyung.com/article/2026062822901",
+    "titleFingerprint": "987e0d619ea5ce30b9570393768f9cdba2f4535d",
+    "dedupKeys": [
+      "104b765679ba3d28993da8fe648001140d7da5c8",
+      "987e0d619ea5ce30b9570393768f9cdba2f4535d",
+      "fe4970b440904ec86fb68f0e25eecb70966e13e5"
+    ],
+    "imageUrl": "/images/articles/104b765679ba.png",
+    "i18n": {
+      "ko": {
+        "title": "강해진 금리인상 신호에 환율·채권시장 변동성 확대",
+        "excerpt": "금리인상 가능성이 다시 부각되면서 환율과 채권시장이 동시에 흔들리고 있다. 긴축 신호가 강해지자 채권금리는 상승 압력을 받고 원화 자산 재평가도 빨라지고 있다.",
+        "metaDescription": "금리인상 신호가 강해지며 환율과 채권시장의 변동성이 커지고 있다. 채권금리 상승, 원화 약세 압력, 대출금리와 기업 조달비용 영향을 정리했다.",
+        "summary": "금리인상 가능성과 고금리 장기화 기대가 커지며 채권금리와 원·달러 환율이 민감하게 움직이고 있다.",
+        "body": "금리인상 신호가 한층 강해지면서 환율과 채권시장이 동시에 흔들리고 있다. 시장은 기준금리 인하보다 추가 인상 가능성 또는 고금리 장기화 가능성을 더 크게 반영하는 분위기다. 이에 따라 채권금리는 만기 전반에서 상승 압력을 받고, 원화 자산 가격도 빠르게 재평가되는 흐름을 보이고 있다.\n\n채권금리는 통화정책 기대에 민감하게 움직인다. 기준금리가 오를 가능성이 커지면 새로 발행되는 채권의 이자 매력은 높아지고, 이미 발행된 채권의 가격은 상대적으로 하락한다. 이 과정에서 시장금리는 오른다. 단기물은 기준금리 전망에 직접 반응하고, 장기물은 물가와 성장률, 재정 부담까지 함께 반영한다. 이번 채권금리 움직임도 단순한 일중 변동이라기보다 금리 경로 자체를 다시 계산하는 과정으로 해석된다.\n\n시장금리의 작은 변화도 자산 가격에는 적지 않은 영향을 준다. 1bp는 0.01%포인트다. 채권금리가 10bp만 움직여도 기관투자자와 연기금, 보험사의 평가손익에는 의미 있는 변화가 생길 수 있다. 금리 상승 압력이 커질수록 채권 투자자는 만기별 금리 차와 신용스프레드를 더 세밀하게 확인해야 하는 상황이다.\n\n환율 시장도 긴축 신호를 반영하고 있다. 금리인상 기대가 강해지면 달러 등 고금리 통화 선호가 커지고, 원화에는 약세 압력이 붙기 쉽다. 원·달러 환율 상승은 수입 원자재와 에너지 가격을 원화 기준으로 끌어올려 국내 물가 부담을 키운다. 기업은 달러 부채와 수입 결제 비용 증가를 의식해야 하고, 가계는 연료비와 수입 소비재 가격을 통해 시차를 두고 영향을 받을 수 있다.\n\n외국인 투자자 역시 환차손 가능성을 함께 고려하기 때문에 국내 채권과 주식시장 수급은 환율 흐름에 더 민감해질 수 있다. 앞으로 시장의 관전 포인트는 물가 둔화 속도, 중앙은행 발언 수위, 미국 금리 경로, 원화 약세 폭이다. 변동금리 대출을 보유한 차주는 시장금리 상승이 대출금리 재산정에 반영될 수 있다는 점을 점검해야 한다. 회사채 발행 기업도 조달비용이 높아지는 환경에 대비할 필요가 있다. 당분간 환율·채권시장은 금리인상 신호가 완화되는지, 고금리 장기화로 굳어지는지에 따라 등락을 반복할 전망이다.",
+        "keywords": [
+          "금리인상",
+          "채권금리",
+          "환율",
+          "원달러환율",
+          "고금리장기화",
+          "시장금리",
+          "원화약세",
+          "신용스프레드",
+          "강해진 금리인상 신호에 환율·채권시장"
+        ],
+        "faq": [
+          {
+            "q": "금리인상 신호가 강해지면 채권금리는 왜 오르나요?",
+            "a": "기준금리 상승 가능성이 커지면 새로 발행되는 채권의 이자 매력이 높아지고 기존 채권 가격은 상대적으로 하락한다. 이 과정에서 시장금리가 상승한다."
+          },
+          {
+            "q": "환율은 금리인상 기대에 어떻게 반응하나요?",
+            "a": "금리인상 기대가 강해지면 달러 등 고금리 통화 선호가 커질 수 있고, 원화에는 약세 압력이 붙기 쉽다."
+          },
+          {
+            "q": "시장 참가자가 확인해야 할 변수는 무엇인가요?",
+            "a": "물가 둔화 속도, 중앙은행 발언 수위, 미국 금리 경로, 원화 약세 폭이 주요 관전 포인트로 꼽힌다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Stronger Rate-Hike Signal Jolts FX and Bonds as Yields Climb",
+        "excerpt": "Currency and bond markets are repricing the risk of higher rates. Stronger tightening signals pushed bond yields higher and increased volatility across won-denominated assets.",
+        "metaDescription": "Stronger rate-hike signals are shaking FX and bond markets, lifting yields and adding pressure to won assets, borrowers and Korean investors.",
+        "summary": "Foreign exchange and bond markets reacted sharply to a stronger rate-hike signal. Bond yields rose as investors reassessed the policy-rate path and inflation risks. A weaker won can affect import prices, foreign flows and Korean asset valuations. Markets are watching inflation data and central-bank language closely.",
+        "body": "A stronger rate-hike signal is shaking both currency and bond markets. The key conclusion is clear: markets are assigning more weight to additional tightening or a longer period of high rates than to near-term cuts. That shift is lifting bond yields and forcing a faster repricing of won assets.\n\n## Policy Path Repriced\nBond yields move quickly when policy-rate expectations change. If the chance of a rate increase rises, newly issued bonds become more attractive and prices of existing bonds fall. The result is higher market yields. Short-term bonds respond most directly to the expected policy rate, while longer maturities also reflect inflation, growth and fiscal risk. One basis point equals 0.01 percentage point, so even a 10bp move can alter valuation gains and losses for banks, insurers and pension funds.\n\n## FX Pressure Matters\nThe currency market is also reacting. Stronger tightening expectations tend to support high-yielding currencies such as the dollar and can put depreciation pressure on the Korean won. A higher won-dollar exchange rate raises the local-currency cost of imported energy, raw materials and consumer goods. For companies, it can increase dollar debt and settlement costs. For households, the impact can arrive through fuel and import prices. Foreign investors also watch FX risk, making Korean bond and equity flows more sensitive.\n\n## What Comes Next\nThe main variables are inflation, central-bank communication, the U.S. rate path and the scale of won weakness. Bond investors need to monitor duration, yield-curve changes and credit spreads. Floating-rate borrowers should expect market-rate moves to feed into loan resets. Corporate issuers face higher funding costs. FX and bond markets are likely to remain volatile until rate-hike signals fade or high-for-longer policy becomes firmly priced in.",
+        "keywords": [
+          "exchange rate",
+          "bond market",
+          "rate hike",
+          "bond yields",
+          "won dollar rate",
+          "policy rate",
+          "Korean bonds",
+          "monetary policy",
+          "Stronger Rate-Hike S"
+        ],
+        "faq": [
+          {
+            "q": "Why do bond yields rise when rate-hike signals strengthen?",
+            "a": "Higher expected policy rates make new bonds more attractive and reduce prices of existing bonds. Falling bond prices show up as rising market yields."
+          },
+          {
+            "q": "How does a weaker won affect Korea?",
+            "a": "It raises the won cost of imported energy, raw materials and goods, adding inflation pressure and affecting corporate dollar payments and foreign flows."
+          },
+          {
+            "q": "What should investors watch?",
+            "a": "Inflation data, central-bank comments, U.S. rate expectations and the won-dollar exchange rate are the key variables."
+          }
+        ]
+      },
+      "ja": {
+        "title": "利上げシグナル強まり為替・債券市場動揺、債券利回り上昇圧力",
+        "excerpt": "為替と債券市場は利上げ再燃の可能性を織り込み、変動性を高めた。引き締めシグナルの強化で債券利回りが上昇し、ウォン資産の再評価が進んでいる。",
+        "metaDescription": "利上げシグナルの強化で為替と債券市場が同時に動揺。債券利回り上昇、ウォン安圧力、韓国市場への影響を整理する。",
+        "summary": "為替と債券市場は強まった利上げシグナルに敏感に反応した。債券利回りは政策金利の見通し再評価と物価警戒で上昇圧力を受けた。ウォン安は輸入物価や海外投資家の資金フローに影響する。市場は今後の物価指標と中央銀行の発言を注視している。",
+        "body": "利上げシグナルが再び強まり、為替と債券市場が同時に揺れている。市場の結論は明確だ。早期利下げよりも追加利上げ、または高金利の長期化をより強く織り込み、債券利回りは上昇圧力を受けている。ウォン建て資産の価格も速いペースで再評価されている。\n\n## 金利経路の再評価\n債券利回りは金融政策の期待に敏感だ。政策金利が上がる可能性が高まると、新発債の利回り魅力が増し、既存債の価格は下がる。その結果、市場金利は上昇する。短期債は政策金利見通しに直接反応し、長期債は物価、成長率、財政負担も反映する。1bpは0.01%ポイントであり、10bpの変動でも銀行、保険、年金の評価損益に影響する。\n\n## ウォン安圧力\n為替市場も引き締めシグナルを反映している。利上げ期待が強まるとドルなど高金利通貨が選好され、ウォンには下落圧力がかかりやすい。ウォン・ドル相場の上昇は輸入エネルギー、原材料、消費財のウォン建て価格を押し上げる。企業にはドル建て債務や決済費用の増加、家計には燃料費や輸入品価格を通じた負担が生じる。\n\n## 注目点\n焦点は物価の鈍化速度、中央銀行の発言、米国金利の道筋、ウォン安の幅だ。債券投資家はデュレーション、利回り曲線、信用スプレッドを確認する必要がある。変動金利ローンの借り手は市場金利上昇が返済負担に反映され得る点を見ておくべきだ。為替・債券市場は当面、利上げシグナルの変化に左右される見通しだ。",
+        "keywords": [
+          "為替",
+          "債券市場",
+          "利上げ",
+          "債券利回り",
+          "ウォンドル相場",
+          "政策金利",
+          "韓国債券",
+          "金融政策",
+          "利上げシグナル強まり為替・債券市場動揺、"
+        ],
+        "faq": [
+          {
+            "q": "利上げシグナルでなぜ債券利回りが上がりますか。",
+            "a": "政策金利上昇の期待が強まると既存債の価格が下がり、その反対側で市場利回りが上昇するためです。"
+          },
+          {
+            "q": "ウォン安は韓国経済にどう影響しますか。",
+            "a": "輸入エネルギーや原材料のウォン建て価格を押し上げ、物価や企業のドル決済負担に影響します。"
+          },
+          {
+            "q": "投資家が見るべき指標は何ですか。",
+            "a": "物価指標、中央銀行の発言、米国金利見通し、ウォン・ドル相場の動きが重要です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "加息信号升温冲击汇率与债市，债券收益率上行压力扩大",
+        "excerpt": "汇率和债券市场重新计入加息可能性，波动明显升高。紧缩信号增强后，债券收益率全线承压，韩元资产估值调整加快。",
+        "metaDescription": "加息信号增强令汇率和债券市场同时震荡。本文解析债券收益率上升、韩元压力及对韩国投资者的影响。",
+        "summary": "汇率和债券市场对更强的加息信号作出敏感反应。债券收益率在政策利率路径重估和通胀警惕下承受上行压力。韩元走弱可能影响进口价格、外资流向和韩国资产估值。市场将继续关注通胀数据与央行表态。",
+        "body": "加息信号再次增强，汇率和债券市场同步震荡。市场结论清晰：相比短期降息，投资者正在更多计入追加加息或高利率维持更久的可能性。这一变化推高债券收益率，也促使韩元资产重新定价。\n\n## 利率路径重新定价\n债券收益率对货币政策预期极为敏感。当政策利率上升概率增加，新发行债券的票息吸引力提高，存量债券价格下跌，市场收益率随之上升。短期限债券更直接反映政策利率预期，长期债券还会纳入通胀、增长和财政压力。1个基点等于0.01个百分点，即使10个基点的变化，也会影响银行、保险公司和养老基金的估值损益。\n\n## 汇率压力传导\n外汇市场同样在反映紧缩信号。加息预期增强时，美元等高利率货币更受青睐，韩元容易面临贬值压力。韩元兑美元汇率上升，会推高能源、原材料和进口消费品的本币成本。企业可能面对美元债务和结算成本增加，家庭则可能通过燃料费和进口商品价格感受到压力。外资也会把汇率风险纳入韩国债券和股票配置判断。\n\n## 后续变量\n关键变量包括通胀放缓速度、央行沟通、美国利率路径和韩元贬值幅度。债券投资者需要关注久期、收益率曲线和信用利差。浮动利率借款人应留意市场利率上升对贷款重定价的影响。企业发债成本也可能上行。汇率和债市短期内仍将围绕加息信号反复波动。",
+        "keywords": [
+          "汇率",
+          "债券市场",
+          "加息",
+          "债券收益率",
+          "韩元兑美元",
+          "政策利率",
+          "韩国债券",
+          "货币政策",
+          "加息信号升温冲击汇率与债市，债券收益率上"
+        ],
+        "faq": [
+          {
+            "q": "为什么加息信号会推高债券收益率？",
+            "a": "政策利率上升预期会压低存量债券价格，而债券价格与收益率反向变动，因此市场收益率上升。"
+          },
+          {
+            "q": "韩元走弱会带来什么影响？",
+            "a": "它会提高进口能源、原材料和商品的韩元成本，并影响企业美元支付和外资流向。"
+          },
+          {
+            "q": "投资者应关注哪些因素？",
+            "a": "通胀数据、央行表态、美国利率预期和韩元兑美元汇率走势是核心因素。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señal de subida de tasas sacude divisas y bonos; suben rendimientos",
+        "excerpt": "Los mercados de divisas y bonos vuelven a descontar una posible subida de tasas. La señal de endurecimiento elevó los rendimientos y aceleró el reajuste de activos en won.",
+        "metaDescription": "La señal de subida de tasas presiona divisas y bonos, eleva rendimientos y afecta al won, a prestatarios y a inversores vinculados a Corea.",
+        "summary": "Los mercados de divisas y bonos reaccionaron a una señal de subida de tasas más fuerte. Los rendimientos subieron por la revisión de la trayectoria monetaria y el riesgo inflacionario. Un won más débil puede elevar precios importados y alterar flujos extranjeros. La atención está en inflación y bancos centrales.",
+        "body": "La señal de subida de tasas volvió a intensificarse y golpeó al mismo tiempo a divisas y bonos. La conclusión del mercado es clara: se está valorando más la posibilidad de nuevas alzas o de tasas altas por más tiempo que un recorte cercano. Ese ajuste eleva los rendimientos de los bonos y reordena los precios de los activos en won.\n\n## Revisión de la ruta monetaria\nLos rendimientos de los bonos reaccionan rápido a las expectativas de política monetaria. Si aumenta la probabilidad de una subida de tasas, los nuevos bonos ofrecen mayor atractivo y los precios de los bonos existentes caen. Así suben los rendimientos de mercado. Los plazos cortos responden más a la tasa oficial; los largos incorporan inflación, crecimiento y riesgo fiscal. Un punto básico equivale a 0,01 puntos porcentuales, por lo que un movimiento de 10 pb ya puede afectar valoraciones de bancos, aseguradoras y fondos de pensiones.\n\n## Presión sobre el won\nEl mercado cambiario también refleja el endurecimiento. Cuando crece la expectativa de tasas más altas, monedas de mayor rendimiento como el dólar ganan demanda y el won puede debilitarse. Un mayor tipo de cambio won-dólar encarece energía, materias primas y bienes importados en moneda local. Para empresas implica más costos de deuda y pagos en dólares; para hogares puede llegar vía combustible y productos importados.\n\n## Variables clave\nLos focos son inflación, mensajes del banco central, trayectoria de tasas en EE. UU. y magnitud de la debilidad del won. Los inversores en bonos deben vigilar duración, curva de rendimientos y diferenciales de crédito. Los deudores a tasa variable pueden enfrentar reajustes de préstamos. La volatilidad seguirá mientras el mercado defina si la señal de alza se modera o se consolida.",
+        "keywords": [
+          "tipo de cambio",
+          "mercado de bonos",
+          "subida de tasas",
+          "rendimientos",
+          "won dólar",
+          "tasa oficial",
+          "bonos coreanos",
+          "política monetaria",
+          "Señal de subida de t"
+        ],
+        "faq": [
+          {
+            "q": "¿Por qué suben los rendimientos con señales de alza de tasas?",
+            "a": "Porque las tasas oficiales esperadas más altas reducen el precio de los bonos existentes, y los rendimientos se mueven en sentido contrario al precio."
+          },
+          {
+            "q": "¿Cómo afecta un won más débil a Corea?",
+            "a": "Aumenta el costo en won de energía, materias primas y bienes importados, y puede afectar pagos corporativos en dólares y flujos extranjeros."
+          },
+          {
+            "q": "¿Qué deben mirar los inversores?",
+            "a": "Inflación, comentarios del banco central, tasas de EE. UU. y el tipo de cambio won-dólar."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinal de alta de juros abala câmbio e títulos; rendimentos avançam",
+        "excerpt": "Os mercados de câmbio e renda fixa voltaram a precificar uma possível alta de juros. O sinal de aperto elevou rendimentos e aumentou a volatilidade dos ativos em won.",
+        "metaDescription": "Sinal mais forte de alta de juros pressiona câmbio e títulos, eleva rendimentos e afeta won, tomadores de crédito e investidores na Coreia.",
+        "summary": "Câmbio e títulos reagiram ao fortalecimento do sinal de alta de juros. Os rendimentos subiram com a reavaliação da trajetória da política monetária e da inflação. A desvalorização do won pode elevar preços importados e afetar fluxos estrangeiros. O mercado observa inflação e comunicação dos bancos centrais.",
+        "body": "O sinal de alta de juros voltou a ganhar força e mexeu ao mesmo tempo com câmbio e títulos. A conclusão do mercado é direta: a possibilidade de novas altas ou de juros elevados por mais tempo ganhou peso maior que a chance de cortes próximos. Isso pressiona os rendimentos dos títulos e acelera a reprecificação dos ativos em won.\n\n## Rota dos juros reavaliada\nRendimentos de títulos são sensíveis às expectativas de política monetária. Quando aumenta a chance de alta da taxa básica, novos títulos ficam mais atrativos e os preços dos papéis existentes caem. O resultado é alta dos juros de mercado. Títulos curtos respondem mais diretamente à taxa básica; longos também refletem inflação, crescimento e risco fiscal. Um ponto-base equivale a 0,01 ponto percentual, e uma variação de 10 pb já altera ganhos e perdas de bancos, seguradoras e fundos de pensão.\n\n## Pressão cambial\nO câmbio também reage ao aperto. Expectativas de juros mais altos favorecem moedas de maior rendimento, como o dólar, e podem pressionar o won. A alta do câmbio won-dólar encarece energia, matérias-primas e bens importados em moeda local. Empresas podem ter maior custo com dívida e pagamentos em dólar; famílias sentem o efeito em combustíveis e produtos importados.\n\n## Pontos de atenção\nOs fatores centrais são inflação, fala do banco central, trajetória dos juros nos EUA e tamanho da queda do won. Investidores em títulos devem acompanhar duração, curva de juros e spreads de crédito. Tomadores com taxa variável precisam observar possíveis reajustes. A volatilidade deve continuar até que o mercado defina se o sinal de alta perde força ou vira cenário dominante.",
+        "keywords": [
+          "câmbio",
+          "mercado de títulos",
+          "alta de juros",
+          "rendimentos",
+          "won dólar",
+          "taxa básica",
+          "títulos coreanos",
+          "política monetária",
+          "Sinal de alta de jur"
+        ],
+        "faq": [
+          {
+            "q": "Por que rendimentos sobem com sinal de alta de juros?",
+            "a": "Porque juros oficiais esperados mais altos reduzem o preço dos títulos existentes, e o rendimento sobe quando o preço cai."
+          },
+          {
+            "q": "Como um won mais fraco afeta a Coreia?",
+            "a": "Eleva o custo em won de energia, matérias-primas e bens importados, além de afetar pagamentos em dólar e fluxos estrangeiros."
+          },
+          {
+            "q": "O que investidores devem monitorar?",
+            "a": "Inflação, comunicação do banco central, juros dos EUA e o câmbio won-dólar."
+          }
+        ]
+      },
+      "de": {
+        "title": "Stärkeres Zinserhöhungssignal bewegt Devisen und Anleihen, Renditen steigen",
+        "excerpt": "Devisen- und Anleihemärkte preisen wieder ein höheres Zinserhöhungsrisiko ein. Das straffere Signal treibt Renditen und erhöht die Schwankungen bei Won-Anlagen.",
+        "metaDescription": "Ein stärkeres Zinserhöhungssignal belastet Devisen und Anleihen, hebt Renditen und beeinflusst Won, Kreditnehmer und Korea-Investoren.",
+        "summary": "Devisen- und Anleihemärkte reagierten deutlich auf ein stärkeres Zinserhöhungssignal. Anleiherenditen stiegen wegen der Neubewertung des geldpolitischen Pfads und der Inflationsrisiken. Ein schwächerer Won kann Importpreise und Kapitalflüsse beeinflussen. Im Fokus stehen Inflation und Zentralbankkommunikation.",
+        "body": "Ein stärkeres Zinserhöhungssignal erschüttert gleichzeitig Devisen- und Anleihemärkte. Die Marktbotschaft ist klar: Zusätzliche Straffung oder länger hohe Zinsen werden stärker eingepreist als baldige Zinssenkungen. Dadurch steigen Anleiherenditen, und Won-Anlagen werden rascher neu bewertet.\n\n## Zinsausblick neu bewertet\nAnleiherenditen reagieren empfindlich auf Erwartungen zur Geldpolitik. Steigt die Wahrscheinlichkeit höherer Leitzinsen, werden neue Anleihen attraktiver und die Preise bestehender Papiere fallen. Daraus entstehen höhere Marktrenditen. Kurzläufer reagieren direkter auf den Leitzins, Langläufer berücksichtigen zusätzlich Inflation, Wachstum und Fiskalrisiken. Ein Basispunkt entspricht 0,01 Prozentpunkten; selbst 10 Basispunkte können Bewertungsgewinne und -verluste bei Banken, Versicherern und Pensionsfonds verändern.\n\n## Druck auf den Won\nAuch der Devisenmarkt verarbeitet das Straffungssignal. Höhere Zinserwartungen stützen oft Hochzinswährungen wie den Dollar und erhöhen den Abwertungsdruck auf den Won. Ein höherer Won-Dollar-Kurs verteuert importierte Energie, Rohstoffe und Konsumgüter in Landeswährung. Unternehmen spüren höhere Dollar-Schulden und Zahlungskosten, Haushalte später höhere Treibstoff- und Importpreise.\n\n## Worauf es ankommt\nEntscheidend sind Inflationsdaten, Tonlage der Zentralbank, US-Zinspfad und Ausmaß der Won-Schwäche. Anleiheinvestoren sollten Duration, Renditekurve und Kreditspreads prüfen. Kreditnehmer mit variablen Zinsen müssen mögliche Anpassungen einplanen. Die Volatilität dürfte anhalten, bis klarer ist, ob Zinserhöhungssignale nachlassen oder sich hohe Zinsen länger verfestigen.",
+        "keywords": [
+          "Wechselkurs",
+          "Anleihemarkt",
+          "Zinserhöhung",
+          "Anleiherenditen",
+          "Won Dollar",
+          "Leitzins",
+          "koreanische Anleihen",
+          "Geldpolitik",
+          "Stärkeres Zinserhöhu"
+        ],
+        "faq": [
+          {
+            "q": "Warum steigen Renditen bei Zinserhöhungssignalen?",
+            "a": "Höhere erwartete Leitzinsen senken die Preise bestehender Anleihen. Da Preis und Rendite gegensätzlich laufen, steigen die Marktrenditen."
+          },
+          {
+            "q": "Wie wirkt ein schwächerer Won auf Korea?",
+            "a": "Er verteuert importierte Energie, Rohstoffe und Waren in Won und beeinflusst Dollarzahlungen sowie ausländische Kapitalflüsse."
+          },
+          {
+            "q": "Welche Faktoren sind wichtig?",
+            "a": "Inflation, Zentralbankäußerungen, US-Zinsen und der Won-Dollar-Wechselkurs."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le signal de hausse des taux secoue change et obligations, les rendements montent",
+        "excerpt": "Les marchés des changes et des obligations réintègrent le risque de hausse des taux. Le signal de resserrement fait monter les rendements et accroît la volatilité des actifs en won.",
+        "metaDescription": "Un signal plus fort de hausse des taux secoue change et obligations, fait monter les rendements et pèse sur le won et les investisseurs en Corée.",
+        "summary": "Les marchés des changes et obligataires ont réagi à un signal de hausse des taux plus marqué. Les rendements montent avec la réévaluation de la trajectoire monétaire et du risque d’inflation. Un won plus faible peut renchérir les importations et influencer les flux étrangers. Les marchés surveillent inflation et banques centrales.",
+        "body": "Le signal de hausse des taux s’est renforcé et a secoué à la fois le marché des changes et celui des obligations. Le message est clair: les investisseurs accordent plus de poids à de nouvelles hausses ou à des taux élevés plus longtemps qu’à des baisses rapides. Cette réévaluation pousse les rendements obligataires vers le haut et modifie les prix des actifs en won.\n\n## Trajectoire monétaire révisée\nLes rendements obligataires sont très sensibles aux anticipations de politique monétaire. Si la probabilité d’une hausse du taux directeur augmente, les nouvelles obligations deviennent plus attractives et les prix des anciennes baissent. Les rendements de marché progressent alors. Les maturités courtes réagissent directement au taux directeur, tandis que les longues intègrent inflation, croissance et risque budgétaire. Un point de base vaut 0,01 point de pourcentage; 10 pb peuvent déjà modifier les valorisations des banques, assureurs et fonds de pension.\n\n## Pression sur le won\nLe change reflète aussi ce resserrement. Des taux attendus plus élevés soutiennent souvent le dollar et peuvent peser sur le won. Une hausse du won-dollar renchérit l’énergie, les matières premières et les biens importés en monnaie locale. Les entreprises peuvent voir augmenter leurs dettes et paiements en dollars; les ménages ressentent l’effet via carburants et produits importés.\n\n## Variables à suivre\nLes points clés sont l’inflation, le discours de la banque centrale, les taux américains et l’ampleur de la faiblesse du won. Les investisseurs obligataires doivent suivre duration, courbe des taux et spreads de crédit. Les emprunteurs à taux variable peuvent subir des révisions. La volatilité devrait rester élevée tant que le signal de hausse des taux n’est pas clarifié.",
+        "keywords": [
+          "change",
+          "marché obligataire",
+          "hausse des taux",
+          "rendements obligataires",
+          "won dollar",
+          "taux directeur",
+          "obligations coréennes",
+          "politique monétaire",
+          "Le signal de hausse"
+        ],
+        "faq": [
+          {
+            "q": "Pourquoi les rendements montent-ils avec un signal de hausse des taux ?",
+            "a": "Des taux directeurs attendus plus élevés font baisser le prix des obligations existantes, et les rendements évoluent à l’inverse des prix."
+          },
+          {
+            "q": "Quel est l’effet d’un won plus faible ?",
+            "a": "Il renchérit l’énergie, les matières premières et les biens importés en won, et peut modifier les paiements en dollars et les flux étrangers."
+          },
+          {
+            "q": "Que doivent surveiller les investisseurs ?",
+            "a": "L’inflation, les propos de la banque centrale, les taux américains et le taux de change won-dollar."
+          }
+        ]
+      },
+      "ar": {
+        "title": "إشارة رفع الفائدة تهز العملات والسندات وتدفع العوائد للصعود",
+        "excerpt": "أسواق العملات والسندات تعيد تسعير احتمال رفع الفائدة. قوة إشارة التشديد رفعت عوائد السندات وزادت تقلبات الأصول المقومة بالوون الكوري.",
+        "metaDescription": "إشارة أقوى لرفع الفائدة تضغط على العملات والسندات، وترفع العوائد، وتؤثر في الوون والمقترضين والمستثمرين المرتبطين بالسوق الكورية.",
+        "summary": "تفاعلت أسواق العملات والسندات بقوة مع إشارة أوضح إلى رفع الفائدة. ارتفعت عوائد السندات مع إعادة تقييم مسار السياسة النقدية ومخاطر التضخم. ضعف الوون قد يرفع أسعار الواردات ويؤثر في تدفقات الأجانب. التركيز الآن على بيانات التضخم ورسائل البنوك المركزية.",
+        "body": "تزايدت قوة إشارة رفع الفائدة، فاهتزت أسواق العملات والسندات في وقت واحد. الخلاصة واضحة: المستثمرون يمنحون احتمال تشديد إضافي أو بقاء الفائدة مرتفعة لفترة أطول وزنا أكبر من خفض قريب. هذا التحول يدفع عوائد السندات إلى الصعود ويعيد تسعير الأصول المقومة بالوون.\n\n## إعادة تقييم مسار الفائدة\nعوائد السندات شديدة الحساسية لتوقعات السياسة النقدية. عندما ترتفع احتمالات زيادة سعر الفائدة الأساسي، تصبح السندات الجديدة أكثر جاذبية، وتنخفض أسعار السندات القائمة، فتتحرك العوائد إلى أعلى. السندات قصيرة الأجل تتأثر مباشرة بمسار الفائدة، بينما تعكس السندات الطويلة التضخم والنمو والمخاطر المالية. نقطة أساس واحدة تعادل 0.01 نقطة مئوية، ولذلك فإن حركة قدرها 10 نقاط أساس قد تغير تقييمات البنوك وشركات التأمين وصناديق التقاعد.\n\n## ضغط على الوون\nسوق الصرف يعكس أيضا التشديد. توقعات الفائدة الأعلى تدعم غالبا عملات العائد المرتفع مثل الدولار، وتضع ضغطا على الوون. ارتفاع سعر الدولار مقابل الوون يزيد تكلفة الطاقة والمواد الخام والسلع المستوردة بالعملة المحلية. الشركات قد تواجه كلفة أعلى للديون والمدفوعات الدولارية، بينما تشعر الأسر بالأثر عبر الوقود والسلع المستوردة.\n\n## ما يجب مراقبته\nالعوامل الرئيسية هي التضخم، لغة البنك المركزي، مسار الفائدة الأمريكية، وحجم ضعف الوون. على مستثمري السندات مراقبة مدة الاستحقاق ومنحنى العائد وفروق الائتمان. المقترضون بأسعار فائدة متغيرة قد يواجهون إعادة تسعير للقروض. ستبقى التقلبات مرتفعة إلى أن تتضح قوة إشارة رفع الفائدة.",
+        "keywords": [
+          "سعر الصرف",
+          "سوق السندات",
+          "رفع الفائدة",
+          "عوائد السندات",
+          "الوون والدولار",
+          "سعر الفائدة الأساسي",
+          "السندات الكورية",
+          "السياسة النقدية",
+          "إشارة رفع الفائدة ته"
+        ],
+        "faq": [
+          {
+            "q": "لماذا ترتفع عوائد السندات عند ظهور إشارة رفع الفائدة؟",
+            "a": "لأن توقع فائدة أساسية أعلى يخفض أسعار السندات القائمة، والعائد يتحرك عكس السعر."
+          },
+          {
+            "q": "كيف يؤثر ضعف الوون في كوريا؟",
+            "a": "يرفع تكلفة الطاقة والمواد الخام والسلع المستوردة بالوون، وقد يؤثر في مدفوعات الشركات بالدولار وتدفقات المستثمرين الأجانب."
+          },
+          {
+            "q": "ما أهم العوامل للمستثمرين؟",
+            "a": "بيانات التضخم، تصريحات البنك المركزي، توقعات الفائدة الأمريكية، وسعر صرف الوون مقابل الدولار."
+          }
+        ]
+      },
+      "hi": {
+        "title": "दर वृद्धि संकेत से मुद्रा और बॉन्ड बाजार हिले, यील्ड पर दबाव बढ़ा",
+        "excerpt": "मुद्रा और बॉन्ड बाजार फिर से दर वृद्धि की संभावना को कीमतों में शामिल कर रहे हैं। सख्त मौद्रिक संकेत से बॉन्ड यील्ड बढ़ी और वॉन परिसंपत्तियों में उतार-चढ़ाव तेज हुआ।",
+        "metaDescription": "दर वृद्धि संकेत मजबूत होने से मुद्रा और बॉन्ड बाजारों में हलचल, यील्ड में वृद्धि और वॉन, कर्जदारों व कोरिया निवेशकों पर असर बढ़ा।",
+        "summary": "मुद्रा और बॉन्ड बाजारों ने मजबूत दर वृद्धि संकेत पर तेज प्रतिक्रिया दी। नीति दर के रास्ते और महंगाई जोखिम की नई गणना से बॉन्ड यील्ड पर ऊपर का दबाव आया। कमजोर वॉन आयात कीमतों और विदेशी निवेश प्रवाह को प्रभावित कर सकता है। बाजार महंगाई आंकड़ों और केंद्रीय बैंक के संदेशों पर नजर रखेगा।",
+        "body": "दर वृद्धि का संकेत फिर मजबूत हुआ है और मुद्रा तथा बॉन्ड बाजार साथ-साथ हिले हैं। बाजार का निष्कर्ष साफ है: निकट भविष्य की कटौती से अधिक वजन अतिरिक्त सख्ती या लंबे समय तक ऊंची दरों को दिया जा रहा है। इसी बदलाव से बॉन्ड यील्ड बढ़ रही है और वॉन में दर्ज परिसंपत्तियों का पुनर्मूल्यांकन तेज हुआ है.\n\n## दर मार्ग की नई गणना\nबॉन्ड यील्ड मौद्रिक नीति की उम्मीदों पर तेजी से प्रतिक्रिया देती है। जब नीति दर बढ़ने की संभावना बढ़ती है, नए बॉन्ड अधिक आकर्षक होते हैं और पुराने बॉन्ड की कीमत गिरती है। नतीजा बाजार यील्ड में वृद्धि है। छोटी अवधि के बॉन्ड नीति दर से सीधे प्रभावित होते हैं, जबकि लंबी अवधि के बॉन्ड महंगाई, वृद्धि और राजकोषीय जोखिम भी देखते हैं। एक बेसिस पॉइंट 0.01 प्रतिशत अंक होता है; 10 बेसिस पॉइंट की चाल भी बैंक, बीमा कंपनी और पेंशन फंड के मूल्यांकन को बदल सकती है।\n\n## वॉन पर दबाव\nविदेशी मुद्रा बाजार भी सख्ती को दर्शा रहा है। ऊंची दरों की उम्मीद डॉलर जैसी उच्च प्रतिफल मुद्रा को समर्थन देती है और वॉन पर कमजोरी का दबाव डाल सकती है। वॉन-डॉलर दर बढ़ने से ऊर्जा, कच्चे माल और आयातित वस्तुओं की स्थानीय लागत बढ़ती है। कंपनियों के लिए डॉलर ऋण और भुगतान महंगे हो सकते हैं, जबकि परिवार ईंधन और आयातित वस्तुओं के दाम से असर महसूस करते हैं।\n\n## आगे क्या देखें\nमुख्य कारक महंगाई, केंद्रीय बैंक की भाषा, अमेरिकी दरों का रास्ता और वॉन की कमजोरी हैं। बॉन्ड निवेशकों को अवधि, यील्ड कर्व और क्रेडिट स्प्रेड देखना चाहिए। फ्लोटिंग रेट कर्जदारों पर ऋण रीसेट का असर आ सकता है। जब तक दर वृद्धि संकेत कमजोर या पक्का नहीं होता, मुद्रा और बॉन्ड बाजार में उतार-चढ़ाव बना रहेगा।",
+        "keywords": [
+          "विनिमय दर",
+          "बॉन्ड बाजार",
+          "दर वृद्धि",
+          "बॉन्ड यील्ड",
+          "वॉन डॉलर",
+          "नीति दर",
+          "कोरियाई बॉन्ड",
+          "मौद्रिक नीति",
+          "दर वृद्धि संकेत से म"
+        ],
+        "faq": [
+          {
+            "q": "दर वृद्धि संकेत से बॉन्ड यील्ड क्यों बढ़ती है?",
+            "a": "नीति दर बढ़ने की उम्मीद पुराने बॉन्ड की कीमत घटाती है। बॉन्ड कीमत और यील्ड उल्टी दिशा में चलते हैं, इसलिए यील्ड बढ़ती है।"
+          },
+          {
+            "q": "कमजोर वॉन का कोरिया पर क्या असर है?",
+            "a": "यह ऊर्जा, कच्चे माल और आयातित वस्तुओं की वॉन लागत बढ़ाता है और डॉलर भुगतान तथा विदेशी प्रवाह को प्रभावित कर सकता है।"
+          },
+          {
+            "q": "निवेशकों को क्या देखना चाहिए?",
+            "a": "महंगाई आंकड़े, केंद्रीय बैंक की टिप्पणियां, अमेरिकी दर उम्मीदें और वॉन-डॉलर विनिमय दर।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Kenaikan Suku Bunga Guncang Valas dan Obligasi, Imbal Hasil Naik",
+        "excerpt": "Pasar valuta asing dan obligasi kembali memperhitungkan peluang kenaikan suku bunga. Sinyal pengetatan mendorong imbal hasil naik dan meningkatkan volatilitas aset berbasis won.",
+        "metaDescription": "Sinyal kenaikan suku bunga yang lebih kuat menekan valas dan obligasi, menaikkan imbal hasil, serta memengaruhi won, debitur, dan investor Korea.",
+        "summary": "Pasar valas dan obligasi bereaksi terhadap sinyal kenaikan suku bunga yang lebih kuat. Imbal hasil obligasi naik karena jalur suku bunga dan risiko inflasi dinilai ulang. Pelemahan won dapat memengaruhi harga impor dan arus investor asing. Fokus pasar tertuju pada inflasi dan komunikasi bank sentral.",
+        "body": "Sinyal kenaikan suku bunga kembali menguat dan mengguncang pasar valuta asing serta obligasi sekaligus. Kesimpulan pasar jelas: peluang pengetatan tambahan atau suku bunga tinggi lebih lama kini mendapat bobot lebih besar daripada pemangkasan dalam waktu dekat. Perubahan ini mendorong imbal hasil obligasi naik dan mempercepat penilaian ulang aset berbasis won.\n\n## Jalur Suku Bunga Dinilai Ulang\nImbal hasil obligasi sangat sensitif terhadap ekspektasi kebijakan moneter. Ketika peluang kenaikan suku bunga acuan meningkat, obligasi baru menjadi lebih menarik dan harga obligasi lama turun. Hasilnya adalah kenaikan imbal hasil pasar. Tenor pendek lebih langsung merespons suku bunga acuan, sedangkan tenor panjang juga memasukkan inflasi, pertumbuhan, dan risiko fiskal. Satu basis poin sama dengan 0,01 poin persentase; pergerakan 10 basis poin saja dapat mengubah valuasi bank, asuransi, dan dana pensiun.\n\n## Tekanan pada Won\nPasar valas juga mencerminkan sinyal pengetatan. Ekspektasi suku bunga lebih tinggi cenderung mendukung mata uang berimbal hasil tinggi seperti dolar dan menekan won. Kenaikan kurs won-dolar membuat energi, bahan baku, dan barang impor lebih mahal dalam mata uang lokal. Perusahaan bisa menghadapi biaya utang dan pembayaran dolar yang lebih tinggi, sementara rumah tangga merasakan dampak lewat bahan bakar dan barang impor.\n\n## Faktor Berikutnya\nVariabel utama adalah inflasi, komunikasi bank sentral, arah suku bunga AS, dan skala pelemahan won. Investor obligasi perlu memantau durasi, kurva imbal hasil, dan spread kredit. Debitur berbunga mengambang harus mencermati potensi penyesuaian pinjaman. Volatilitas valas dan obligasi kemungkinan berlanjut sampai sinyal kenaikan suku bunga mereda atau menjadi skenario utama.",
+        "keywords": [
+          "nilai tukar",
+          "pasar obligasi",
+          "kenaikan suku bunga",
+          "imbal hasil obligasi",
+          "won dolar",
+          "suku bunga acuan",
+          "obligasi Korea",
+          "kebijakan moneter",
+          "Sinyal Kenaikan Suku"
+        ],
+        "faq": [
+          {
+            "q": "Mengapa imbal hasil obligasi naik saat sinyal kenaikan suku bunga menguat?",
+            "a": "Ekspektasi suku bunga acuan yang lebih tinggi menurunkan harga obligasi lama. Karena harga dan imbal hasil bergerak berlawanan, imbal hasil naik."
+          },
+          {
+            "q": "Apa dampak won yang lebih lemah bagi Korea?",
+            "a": "Biaya energi, bahan baku, dan barang impor dalam won naik, sementara pembayaran dolar perusahaan dan arus investor asing dapat terpengaruh."
+          },
+          {
+            "q": "Apa yang perlu dipantau investor?",
+            "a": "Data inflasi, pernyataan bank sentral, ekspektasi suku bunga AS, dan kurs won-dolar."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "6908b84a41d2",
     "slug": "금리-인상-가능성에-비과세-배당커지는-금융주-기대감-788312",
     "channelId": "MACRO",
@@ -9584,59 +9956,6 @@
           {
             "q": "성과급을 받지 않는 가계에는 어떤 영향이 있나?",
             "a": "성과급 수혜가 없는 가계는 추가 소득 없이 외식비, 서비스 요금, 일부 소비재 가격 상승을 부담할 수 있어 체감물가 압력이 커질 수 있다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "e3c1851f3162",
-    "slug": "저신용자-실제-위험보다-금리-지나치게-높다학계서도-커지는-금융기본권-목소리-572929",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-06-17T08:04:22.329Z",
-    "updatedAt": "2026-06-17T08:04:22.329Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12076420",
-    "titleFingerprint": "86e7beec1e38f1fa9113b0b26127e4778fc6e18e",
-    "dedupKeys": [
-      "e3c1851f3162e4f04f359c1aa11ff03400021d71",
-      "86e7beec1e38f1fa9113b0b26127e4778fc6e18e",
-      "ea9fb5104a993b2b4b0cfbe7d8d41e2d8fa3ae56"
-    ],
-    "imageUrl": "/images/articles/e3c1851f3162.jpg",
-    "i18n": {
-      "ko": {
-        "title": "저신용자 금리 과잉 논란 확산, 금융기본권 도입 논의 본격화",
-        "excerpt": "저신용 차주에게 부과되는 고금리가 실제 금융시스템 위험보다 과도하다는 문제 제기가 학계에서 확산하고 있다. 금융기본권을 법·제도 안에 어떻게 반영할지가 새 쟁점으로 떠올랐다.",
-        "metaDescription": "저신용자 고금리 구조와 금융기본권 논의가 학계 쟁점으로 부상했다. 실제 시스템 위험, 국내 대출시장 영향, 제도 개선 방향을 분석했다.",
-        "summary": "저신용자의 금융 접근권을 기본권 차원에서 다뤄야 한다는 논의가 커지고 있다. 핵심은 낮은 신용등급이 곧 금융시스템 전체의 큰 위험으로 이어진다는 통념이 실제와 다를 수 있다는 점이다. 고신용 대형 차주의 부실이 오히려 시스템 충격을 키울 수 있다는 분석도 제기됐다. 향후 금리 산정, 포용금융, 금융소비자 보호 체계가 함께 재검토될 전망이다.",
-        "body": "저신용자에게 적용되는 대출금리가 실제 위험보다 지나치게 높다는 문제의식이 금융권과 학계의 주요 의제로 부상했다. 신용점수가 낮다는 이유만으로 차입 비용이 급격히 뛰는 현행 구조가 금융소비자의 생활 안정과 경제활동 참여를 제한한다는 지적이다. 논의의 초점은 단순한 금리 인하가 아니라, 금융서비스 접근을 국민의 기본적 권리로 볼 수 있는지에 맞춰지고 있다.\n\n## 저신용자 위험, 시스템 전체 충격과는 다르다\n저신용 차주는 연체 가능성이 상대적으로 높지만, 개별 대출 규모가 작고 금융기관 전체 자산에서 차지하는 비중도 제한적이다. 이 때문에 저신용자 부실이 곧바로 금융시스템 전반의 위기로 번진다고 단정하기 어렵다. 반대로 고신용 대형 차주나 우량 기업 대출은 평상시 안정적으로 보이지만, 부실이 발생하면 금액이 크고 금융기관 간 연결성이 높아 충격이 더 크게 확산될 수 있다.\n\n이 지점에서 금리 산정의 정당성이 다시 검토되고 있다. 현재 대출금리는 신용점수, 소득, 담보, 기존 채무, 연체 이력 등을 반영해 정해진다. 그러나 저신용자에게 붙는 가산금리가 실제 기대손실과 관리비용을 넘어서는 수준이라면 이는 위험 가격이라기보다 금융 접근 제한 장치로 작동할 수 있다. 특히 제도권 대출에서 밀려난 차주는 더 높은 금리의 비은행권이나 불법 사금융으로 이동할 가능성이 커진다.\n\n## 금융기본권, 개헌 없이도 제도화 가능성\n금융기본권은 누구나 최소한의 금융서비스에 접근할 수 있어야 한다는 개념이다. 예금계좌, 지급결제, 소액 신용, 채무조정, 금융교육 등이 생활 기반 인프라로 자리 잡은 만큼 이를 시장 선택에만 맡기기 어렵다는 논리다. 헌법 개정 없이도 은행법, 금융소비자보호법, 서민금융 관련 법제 안에서 금융 접근권을 구체화할 수 있다는 제안도 힘을 얻고 있다.\n\n국내 시장에서는 이 논의가 중금리대출, 정책서민금융, 대환대출 플랫폼, 신용평가 고도화와 직접 연결된다. 저신용자를 일괄적으로 고위험군으로 묶는 방식에서 벗어나 현금흐름, 직업 안정성, 상환 이력, 통신·공공요금 납부 정보 등 대안 데이터를 정교하게 반영하면 금리 부담을 낮출 여지가 있다. 원화 기준 월 수십만 원의 이자 차이는 취약 차주에게 생계비, 임대료, 의료비 부담으로 곧장 전가된다.\n\n## 은행권·소비자 모두에 제도 변화 압력\n은행권에는 정교한 리스크 평가와 사회적 책임을 동시에 요구하는 압력이 커질 전망이다. 무리한 대출 확대는 건전성을 해칠 수 있지만, 과도한 금리 부과와 대출 배제도 장기적으로 금융시장 신뢰를 떨어뜨린다. 금융당국은 금리 산정 체계의 투명성, 취약차주 보호, 연체 전 채무조정, 불법 사금융 차단을 함께 살펴야 한다.\n\n소비자에게는 금융기본권 논의가 실질적인 대출 선택지 확대와 비용 절감으로 이어질 수 있다. 다만 모든 저신용자 대출을 낮은 금리로 제공해야 한다는 뜻은 아니다. 핵심은 실제 위험에 맞는 가격 책정, 차별적 배제의 완화, 회복 가능한 차주에 대한 재진입 경로 마련이다. 향후 국회와 금융당국의 제도 논의가 본격화되면 신용평가 모델, 은행의 공공성, 서민금융 재원 구조가 함께 조정될 가능성이 크다.",
-        "keywords": [
-          "저신용자",
-          "고금리",
-          "금융기본권",
-          "서민금융",
-          "신용대출",
-          "중금리대출",
-          "금리 산정",
-          "금융소비자보호",
-          "은행법",
-          "저신용자 금리 과잉 논란 확산, 금융"
-        ],
-        "faq": [
-          {
-            "q": "저신용자 금리가 왜 과도하다는 지적이 나오나?",
-            "a": "저신용자의 연체 위험은 높을 수 있지만 개별 대출 규모가 작아 금융시스템 전체에 주는 충격은 제한적일 수 있다. 실제 위험보다 큰 가산금리가 붙으면 금융 접근을 막는 결과가 생긴다."
-          },
-          {
-            "q": "금융기본권은 무엇을 뜻하나?",
-            "a": "금융기본권은 계좌, 결제, 소액 신용, 채무조정 등 기본 금융서비스에 누구나 최소한 접근할 수 있어야 한다는 개념이다. 금융을 생활 필수 인프라로 보는 접근이다."
-          },
-          {
-            "q": "국내 대출시장에는 어떤 영향이 예상되나?",
-            "a": "중금리대출 확대, 대안 신용평가 활용, 취약차주 보호 장치 강화가 논의될 가능성이 크다. 은행권은 건전성을 유지하면서도 금리 산정의 투명성을 높여야 한다."
           }
         ]
       }
