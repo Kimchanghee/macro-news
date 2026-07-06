@@ -1,5 +1,378 @@
 [
   {
+    "id": "23f05987865f",
+    "slug": "갤럭시-워치로-폭염-위험-잡는다삼성전자-고용노동부와-협력-939290",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-07-06T07:22:54.473Z",
+    "updatedAt": "2026-07-06T07:22:54.474Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/it/12091301",
+    "titleFingerprint": "becb6b3e8e80854f78a06e75d4cededc3357e6fa",
+    "dedupKeys": [
+      "23f05987865f1d133f14d1b219306ae424ca49bc",
+      "becb6b3e8e80854f78a06e75d4cededc3357e6fa",
+      "a966055798385c7a97d461fa2caa06154136ae1b"
+    ],
+    "imageUrl": "/images/articles/23f05987865f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "갤럭시 워치 폭염 알림, 삼성전자·고용노동부가 작업중지 기준 현장 적용",
+        "excerpt": "삼성전자가 고용노동부와 협력해 갤럭시 워치 기반 폭염 위험 알림 체계를 평택 반도체 생산라인 건설 현장에 적용한다. 체감온도 단계별 작업중지 기준을 반영해 근로자 안전 대응 속도를 높인다.",
+        "metaDescription": "삼성전자가 고용노동부 폭염 대응 가이드를 갤럭시 워치 알림에 반영해 평택 반도체 건설 현장 근로자의 온열질환 위험을 낮춘다.",
+        "summary": "삼성전자가 고용노동부와 손잡고 갤럭시 워치를 활용한 폭염 위험 알림 체계를 현장에 도입한다. 이 체계는 체감온도 단계별 작업중지 기준을 반영해 근로자에게 위험 신호를 전달한다. 인천대와 삼성서울병원이 예측 알고리즘 검증에 참여했고, 평택 반도체 생산라인 건설 현장에서 적용이 시작된다.",
+        "body": "갤럭시 워치가 폭염 속 건설 현장의 안전 장비로 확장된다. 삼성전자는 고용노동부와 협력해 갤럭시 워치 기반 폭염 위험 알림 체계를 평택 반도체 생산라인 건설 현장에 적용한다. 핵심은 체감온도 변화와 작업중지 기준을 손목 위 알림으로 연결해 온열질환 위험을 더 빠르게 포착하는 데 있다.\n\n## 체감온도 기준을 손목 알림으로 전환\n이번 체계는 고용노동부의 폭염 대응 가이드를 반영했다. 현장에서는 단순 기온보다 습도, 복사열, 작업 강도까지 영향을 주는 체감온도가 안전 판단의 핵심 지표가 된다. 갤럭시 워치는 근로자가 착용한 상태에서 폭염 위험 단계가 높아질 때 알림을 제공하고, 관리자는 단계별 작업중지 기준에 맞춰 휴식, 냉방, 작업 조정 등 조치를 실행할 수 있다.\n\n작업중지 기준은 폭염 위험을 단계별로 나눠 대응하도록 설계됐다. 체감온도가 높아질수록 물 섭취, 그늘 휴식, 작업시간 조정, 고위험 작업 중단 같은 조치가 강화된다. 삼성전자는 이 기준을 디지털 알림으로 연결해 현장 대응 시간을 줄이는 데 초점을 맞췄다. 특히 대규모 건설 현장은 작업자가 넓은 구역에 분산돼 있어, 착용형 기기의 실시간 알림이 관리 사각지대를 줄이는 수단이 된다.\n\n## 인천대·삼성서울병원 알고리즘 검증\n폭염 위험 예측 알고리즘은 인천대와 삼성서울병원이 검증에 참여했다. 대학과 병원이 함께 검증한 구조는 단순 웨어러블 기능을 넘어 산업 보건 데이터 활용 가능성을 높인다. 예측 알고리즘은 폭염 위험을 조기에 알리는 방향으로 설계되며, 현장 적용 과정에서 근로자 안전관리 체계와 연동된다.\n\n이번 적용 현장은 평택 반도체 생산라인 건설 현장이다. 반도체 공장은 투자 규모가 크고 공정 일정이 촘촘해 여름철 작업 차질이 비용 부담으로 이어지기 쉽다. 국내 산업안전보건 규제가 폭염 대응을 강화하는 흐름에서, 갤럭시 워치 알림 체계는 근로자 보호와 공정 안정성을 동시에 겨냥한 조치다. 원화 기준 수조 원대 투자가 오가는 반도체 생산라인 현장에서 안전 사고를 줄이는 일은 기업 비용 관리와 공급망 신뢰에도 직접 연결된다.\n\n## 산업 현장 웨어러블 확산 전망\n이번 협력은 웨어러블 기기가 소비자 건강 관리에서 산업 안전 영역으로 확장되는 사례다. 국내 건설, 조선, 물류, 제조 현장은 여름철 폭염 리스크가 반복되고 있어 체감온도 기반 알림 수요가 커질 전망이다. 현장 데이터가 축적되면 위험 예측 정밀도와 대응 매뉴얼도 개선될 수 있다.\n\n다만 기술 도입만으로 폭염 안전이 완성되지는 않는다. 알림 이후 작업중지, 휴식 보장, 냉방 공간 운영, 현장 관리자 권한이 함께 작동해야 한다. 갤럭시 워치 기반 폭염 알림은 그 출발점을 빠르게 만드는 도구다. 폭염이 장기화되는 한국 산업 현장에서 착용형 안전 기술은 선택 사항이 아니라 생산성과 인명 보호를 함께 지키는 인프라로 자리 잡을 가능성이 크다.",
+        "keywords": [
+          "갤럭시 워치",
+          "폭염 알림",
+          "삼성전자",
+          "고용노동부",
+          "체감온도",
+          "작업중지 기준",
+          "온열질환",
+          "평택 반도체",
+          "산업안전",
+          "갤럭시 워치 폭염 알림, 삼성전자·고"
+        ],
+        "faq": [
+          {
+            "q": "갤럭시 워치 폭염 알림은 어디에 적용되나요?",
+            "a": "평택 반도체 생산라인 건설 현장에 적용된다."
+          },
+          {
+            "q": "알림 기준은 무엇인가요?",
+            "a": "고용노동부 폭염 대응 가이드의 체감온도 단계별 작업중지 기준을 반영한다."
+          },
+          {
+            "q": "예측 알고리즘 검증에는 누가 참여했나요?",
+            "a": "인천대와 삼성서울병원이 폭염 위험 예측 알고리즘 검증에 참여했다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Galaxy Watch heat alerts bring work-stop rules to Samsung construction sites",
+        "excerpt": "Samsung Electronics is applying a Galaxy Watch-based heat risk alert system at its Pyeongtaek semiconductor production line construction site in cooperation with the labor ministry.",
+        "metaDescription": "Samsung is linking Galaxy Watch heat alerts with Korea’s work-stop guidance to reduce heat illness risk at a Pyeongtaek chip construction site.",
+        "summary": "Samsung Electronics is expanding Galaxy Watch into workplace safety by applying heat risk alerts at a semiconductor construction site. The system reflects Korea’s perceived-temperature work-stop guidance. Incheon National University and Samsung Medical Center helped validate the prediction algorithm.",
+        "body": "Galaxy Watch is moving from consumer health tracking into heat safety at industrial sites. Samsung Electronics will apply a Galaxy Watch-based heat risk alert system at the Pyeongtaek semiconductor production line construction site in cooperation with the Ministry of Employment and Labor. The system connects perceived-temperature risk levels with alerts on the worker’s wrist.\n\n## Work-stop guidance on the wrist\nThe alert model reflects the ministry’s heat response guide. On outdoor and large construction sites, perceived temperature is more important than air temperature alone because humidity, radiant heat and workload shape the actual risk. When the heat risk level rises, Galaxy Watch can notify workers, while site managers can adjust breaks, cooling, work hours and stoppages under the step-by-step standards.\n\n## Algorithm validation\nIncheon National University and Samsung Medical Center participated in validating the prediction algorithm. That gives the project a stronger occupational health foundation beyond a simple wearable feature. The first application at Pyeongtaek matters because semiconductor construction schedules are tight and delays can create heavy won-denominated costs.\n\nThe system will not replace basic safety management. Rest, hydration, shaded areas and the authority to halt work remain essential. But wearable alerts can shorten the time between rising heat risk and field action, a practical advantage for construction, manufacturing, logistics and shipbuilding sites facing hotter Korean summers.",
+        "keywords": [
+          "Galaxy Watch",
+          "heat alert",
+          "Samsung Electronics",
+          "work-stop rules",
+          "perceived temperature",
+          "heat illness",
+          "Pyeongtaek semiconductor",
+          "workplace safety",
+          "Galaxy Watch heat al"
+        ],
+        "faq": [
+          {
+            "q": "Where will the Galaxy Watch heat alert system be used?",
+            "a": "It will be used at the Pyeongtaek semiconductor production line construction site."
+          },
+          {
+            "q": "What standard does the alert system follow?",
+            "a": "It reflects the ministry’s heat response guide and perceived-temperature-based work-stop criteria."
+          },
+          {
+            "q": "Who validated the prediction algorithm?",
+            "a": "Incheon National University and Samsung Medical Center participated in the validation."
+          }
+        ]
+      },
+      "ja": {
+        "title": "Galaxy Watchの猛暑警報、サムスンが作業中止基準を現場導入",
+        "excerpt": "サムスン電子は雇用労働部と協力し、Galaxy Watchを使った猛暑リスク通知を平沢の半導体生産ライン建設現場に適用する。",
+        "metaDescription": "サムスン電子がGalaxy Watchの猛暑リスク通知に体感温度別の作業中止基準を反映し、平沢の半導体建設現場で活用する。",
+        "summary": "サムスン電子はGalaxy Watchを産業安全の領域に広げる。通知体系は体感温度の段階別作業中止基準を反映する。予測アルゴリズムは仁川大学とサムスンソウル病院が検証に参加した。",
+        "body": "Galaxy Watchが猛暑下の建設現場で安全装備として使われる。サムスン電子は雇用労働部と協力し、Galaxy Watch基盤の猛暑リスク通知体系を平沢の半導体生産ライン建設現場に適用する。狙いは体感温度の変化と作業中止基準を手首の通知につなげ、熱中症リスクを早く把握することだ。\n\n## 体感温度を通知に転換\nこの体系は猛暑対応ガイドを反映した。現場では気温だけでなく湿度、輻射熱、作業強度を含む体感温度が安全判断の中心になる。危険段階が上がるとGalaxy Watchが作業者に通知し、管理者は休憩、冷房、作業時間調整、作業中止を段階別基準に沿って実行できる。\n\n## 検証と産業効果\n予測アルゴリズムの検証には仁川大学とサムスンソウル病院が参加した。単なるウェアラブル機能ではなく、産業保健データの活用に近い取り組みだ。適用先の平沢半導体建設現場は工程が密で、夏季の作業中断がウォン建ての大きな費用につながりやすい。\n\n通知だけで安全が完結するわけではない。休憩保障、水分補給、日陰や冷房空間、作業中止の権限が同時に機能する必要がある。それでも手首の即時通知は、広い現場で管理の空白を減らす有効な手段になり得る。",
+        "keywords": [
+          "Galaxy Watch",
+          "猛暑通知",
+          "サムスン電子",
+          "雇用労働部",
+          "体感温度",
+          "作業中止基準",
+          "熱中症",
+          "平沢半導体",
+          "Galaxy Watchの猛暑警報、サム"
+        ],
+        "faq": [
+          {
+            "q": "Galaxy Watchの猛暑通知はどこで使われますか。",
+            "a": "平沢の半導体生産ライン建設現場で使われます。"
+          },
+          {
+            "q": "通知の基準は何ですか。",
+            "a": "体感温度の段階別作業中止基準を反映します。"
+          },
+          {
+            "q": "予測アルゴリズムの検証には誰が参加しましたか。",
+            "a": "仁川大学とサムスンソウル病院が参加しました。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "Galaxy Watch高温预警落地，三星把停工标准接入工地安全",
+        "excerpt": "三星电子与韩国雇佣劳动部合作，将基于Galaxy Watch的高温风险提醒用于平泽半导体生产线建设现场，按体感温度分级触发安全应对。",
+        "metaDescription": "三星电子把体感温度分级停工标准接入Galaxy Watch高温提醒，在平泽半导体建设现场降低工人中暑风险。",
+        "summary": "三星电子正在把Galaxy Watch扩展到产业安全场景。系统依据体感温度分级停工标准向工人发出高温风险提醒。仁川大学和三星首尔医院参与了预测算法验证，首个应用场景为平泽半导体生产线建设现场。",
+        "body": "Galaxy Watch将成为韩国高温施工现场的安全工具。三星电子与雇佣劳动部合作，把基于Galaxy Watch的高温风险提醒系统应用于平泽半导体生产线建设现场。核心在于把体感温度变化与停工标准连接到手腕提醒，提前捕捉中暑风险。\n\n## 体感温度变成实时提醒\n该系统反映了韩国高温应对指南。施工现场的安全判断不能只看气温，湿度、辐射热和劳动强度都会改变实际风险。当高温风险等级上升时，Galaxy Watch会向佩戴工人提醒，现场管理者可按分级标准安排补水、休息、降温、调整工时或停止高风险作业。\n\n## 算法验证与现场价值\n仁川大学和三星首尔医院参与了预测算法验证，使项目不只是消费级穿戴功能，而是更接近产业健康管理工具。平泽半导体建设现场工期密集，夏季停工和事故都可能带来以韩元计的大额成本。\n\n这套系统不能替代基本安全制度。休息保障、阴凉空间、冷却设施和管理者停工权限仍然关键。但在大面积工地上，手腕提醒能缩短风险出现到现场行动之间的时间，对制造、物流、造船和建筑业都有扩展意义。",
+        "keywords": [
+          "Galaxy Watch",
+          "高温预警",
+          "三星电子",
+          "雇佣劳动部",
+          "体感温度",
+          "停工标准",
+          "中暑风险",
+          "平泽半导体",
+          "Galaxy Watch高温预警落地，三"
+        ],
+        "faq": [
+          {
+            "q": "Galaxy Watch高温提醒会用在哪里？",
+            "a": "将用于平泽半导体生产线建设现场。"
+          },
+          {
+            "q": "提醒依据什么标准？",
+            "a": "依据体感温度分级停工标准和高温应对指南。"
+          },
+          {
+            "q": "谁参与了算法验证？",
+            "a": "仁川大学和三星首尔医院参与了预测算法验证。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Galaxy Watch alertará por calor extremo en obras clave de Samsung",
+        "excerpt": "Samsung Electronics aplicará un sistema de alertas de calor extremo con Galaxy Watch en la construcción de su línea de semiconductores en Pyeongtaek, alineado con criterios de suspensión laboral.",
+        "metaDescription": "Samsung usará Galaxy Watch para alertas de calor basadas en temperatura percibida y criterios de suspensión en una obra de chips en Corea.",
+        "summary": "Samsung Electronics lleva Galaxy Watch al terreno de la seguridad laboral. El sistema avisa por niveles de riesgo de calor y refleja criterios de suspensión de trabajo por temperatura percibida. La validación del algoritmo contó con Incheon National University y Samsung Medical Center.",
+        "body": "Galaxy Watch entra en la seguridad industrial frente al calor extremo. Samsung Electronics aplicará un sistema de alerta de riesgo térmico basado en el reloj en la obra de la línea de producción de semiconductores de Pyeongtaek, en Corea. El objetivo es convertir la temperatura percibida y los criterios de suspensión del trabajo en avisos inmediatos en la muñeca.\n\n## Criterios de suspensión en tiempo real\nEl sistema refleja la guía coreana de respuesta a olas de calor. En una obra, la temperatura del aire no basta: humedad, radiación solar y carga física determinan el riesgo real. Cuando sube el nivel de peligro, Galaxy Watch notifica al trabajador y permite al responsable ajustar descansos, hidratación, enfriamiento, horarios o detener tareas de alto riesgo.\n\n## Validación y efecto industrial\nIncheon National University y Samsung Medical Center participaron en la validación del algoritmo predictivo. Esto sitúa el proyecto más cerca de la salud ocupacional que de una simple función de consumo. Pyeongtaek es relevante porque la construcción de semiconductores tiene calendarios estrictos y cualquier interrupción puede generar costes elevados en wones.\n\nLa tecnología no sustituye las reglas básicas: descanso, agua, sombra, zonas refrigeradas y autoridad para parar el trabajo siguen siendo esenciales. Pero una alerta portátil puede reducir el tiempo entre el aumento del riesgo y la acción en campo, con potencial para construcción, logística, manufactura y astilleros.",
+        "keywords": [
+          "Galaxy Watch",
+          "alerta de calor",
+          "Samsung Electronics",
+          "temperatura percibida",
+          "suspensión laboral",
+          "golpe de calor",
+          "semiconductores Pyeongtaek",
+          "seguridad laboral",
+          "Galaxy Watch alertar"
+        ],
+        "faq": [
+          {
+            "q": "¿Dónde se usará la alerta de calor de Galaxy Watch?",
+            "a": "En la obra de la línea de producción de semiconductores de Pyeongtaek."
+          },
+          {
+            "q": "¿Qué criterio usa el sistema?",
+            "a": "Usa criterios por niveles basados en temperatura percibida para decidir medidas y suspensión del trabajo."
+          },
+          {
+            "q": "¿Quién validó el algoritmo?",
+            "a": "Incheon National University y Samsung Medical Center participaron en la validación."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Galaxy Watch terá alerta de calor em obra de chips da Samsung",
+        "excerpt": "A Samsung Electronics aplicará alertas de calor extremo via Galaxy Watch na construção da linha de semicondutores em Pyeongtaek, com base em critérios de pausa e suspensão por temperatura percebida.",
+        "metaDescription": "Samsung usa Galaxy Watch para alertas de calor e regras de suspensão de trabalho em canteiro de semicondutores na Coreia.",
+        "summary": "A Samsung Electronics amplia o Galaxy Watch para segurança do trabalho. O sistema reflete critérios de suspensão por etapas de temperatura percebida. Incheon National University e Samsung Medical Center participaram da validação do algoritmo preditivo.",
+        "body": "O Galaxy Watch passa a atuar como ferramenta de segurança contra calor extremo em canteiros industriais. A Samsung Electronics aplicará um sistema de alerta de risco térmico baseado no relógio na obra da linha de produção de semicondutores em Pyeongtaek. A lógica é conectar a temperatura percebida e os critérios de suspensão do trabalho a avisos imediatos no pulso.\n\n## Temperatura percebida no centro\nO sistema reflete a diretriz coreana de resposta ao calor. Em obras, a temperatura do ar não mostra todo o risco; umidade, radiação e intensidade do trabalho alteram a exposição real. Quando o nível de perigo aumenta, o Galaxy Watch alerta o trabalhador, e a gestão pode ajustar pausas, hidratação, resfriamento, jornada ou suspender tarefas de maior risco.\n\n## Algoritmo e impacto local\nIncheon National University e Samsung Medical Center participaram da validação do algoritmo de previsão. Isso aproxima o projeto da saúde ocupacional, não apenas de uma função de relógio inteligente. A escolha de Pyeongtaek é relevante porque obras de semicondutores têm cronogramas rígidos e qualquer parada pode gerar custos elevados em won.\n\nA tecnologia não substitui medidas básicas. Descanso, água, sombra, áreas refrigeradas e poder real de interromper o trabalho continuam indispensáveis. Ainda assim, o alerta vestível pode reduzir o intervalo entre a alta do risco térmico e a ação no campo, com uso potencial em construção, logística, manufatura e estaleiros.",
+        "keywords": [
+          "Galaxy Watch",
+          "alerta de calor",
+          "Samsung Electronics",
+          "temperatura percebida",
+          "suspensão do trabalho",
+          "doença por calor",
+          "semicondutores Pyeongtaek",
+          "segurança do trabalho",
+          "Galaxy Watch terá al"
+        ],
+        "faq": [
+          {
+            "q": "Onde o alerta de calor do Galaxy Watch será aplicado?",
+            "a": "Na obra da linha de produção de semicondutores em Pyeongtaek."
+          },
+          {
+            "q": "Qual é a base do alerta?",
+            "a": "Critérios por etapas de temperatura percebida para medidas e suspensão do trabalho."
+          },
+          {
+            "q": "Quem validou o algoritmo?",
+            "a": "Incheon National University e Samsung Medical Center participaram da validação."
+          }
+        ]
+      },
+      "de": {
+        "title": "Galaxy Watch warnt vor Hitze: Samsung bringt Arbeitsstopp-Regeln auf die Baustelle",
+        "excerpt": "Samsung Electronics setzt auf einer Halbleiterbaustelle in Pyeongtaek ein Galaxy-Watch-System für Hitzewarnungen ein, das sich an koreanischen Regeln zu gefühlter Temperatur und Arbeitsstopps orientiert.",
+        "metaDescription": "Samsung verbindet Galaxy-Watch-Hitzewarnungen mit Arbeitsstopp-Kriterien nach gefühlter Temperatur auf einer Chip-Baustelle in Korea.",
+        "summary": "Samsung Electronics erweitert Galaxy Watch in die Arbeitssicherheit. Das System meldet Hitzestufen nach gefühlter Temperatur und unterstützt abgestufte Arbeitsstopp-Maßnahmen. Die Validierung des Vorhersagealgorithmus erfolgte mit Incheon National University und Samsung Medical Center.",
+        "body": "Galaxy Watch wird auf koreanischen Industriebaustellen zu einem Werkzeug gegen Hitzestress. Samsung Electronics setzt ein darauf basierendes Warnsystem auf der Baustelle der Halbleiterproduktionslinie in Pyeongtaek ein. Der Kern: gefühlte Temperatur und Arbeitsstopp-Kriterien werden in Warnungen am Handgelenk übersetzt.\n\n## Gefühlte Temperatur als Auslöser\nDas System folgt der koreanischen Hitzeschutzlogik. Auf Baustellen reicht die Lufttemperatur nicht aus, weil Luftfeuchte, Strahlungswärme und körperliche Belastung das Risiko prägen. Steigt die Gefahrenstufe, warnt die Galaxy Watch den Beschäftigten. Verantwortliche können Pausen, Wasserzufuhr, Kühlung, Arbeitszeiten oder Stopps gefährlicher Tätigkeiten anpassen.\n\n## Validierter Algorithmus\nIncheon National University und Samsung Medical Center waren an der Prüfung des Vorhersagealgorithmus beteiligt. Damit geht das Projekt über eine reine Verbraucherfunktion hinaus und rückt näher an betriebliche Gesundheitsdaten. Pyeongtaek ist besonders relevant, weil Halbleiterbau enge Zeitpläne hat und Unterbrechungen hohe Kosten in Won verursachen können.\n\nDie Technik ersetzt keine Arbeitsschutzpflichten. Ruhezeiten, Schatten, Kühlräume und echte Stopprechte bleiben entscheidend. Wearable-Warnungen können jedoch die Zeit zwischen steigendem Risiko und Reaktion verkürzen, mit Bedeutung für Bau, Fertigung, Logistik und Schiffbau in heißeren Sommern.",
+        "keywords": [
+          "Galaxy Watch",
+          "Hitzewarnung",
+          "Samsung Electronics",
+          "gefühlte Temperatur",
+          "Arbeitsstopp",
+          "Hitzekrankheit",
+          "Pyeongtaek Halbleiter",
+          "Arbeitssicherheit",
+          "Galaxy Watch warnt v"
+        ],
+        "faq": [
+          {
+            "q": "Wo wird das Galaxy-Watch-Hitzesystem eingesetzt?",
+            "a": "Auf der Baustelle der Halbleiterproduktionslinie in Pyeongtaek."
+          },
+          {
+            "q": "Woran orientiert sich die Warnung?",
+            "a": "An Stufen der gefühlten Temperatur und entsprechenden Arbeitsstopp-Kriterien."
+          },
+          {
+            "q": "Wer prüfte den Algorithmus?",
+            "a": "Incheon National University und Samsung Medical Center beteiligten sich an der Validierung."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Galaxy Watch alerte contre la chaleur sur un chantier clé de Samsung",
+        "excerpt": "Samsung Electronics déploie des alertes de chaleur via Galaxy Watch sur le chantier de sa ligne de semi-conducteurs à Pyeongtaek, avec des critères d’arrêt fondés sur la température ressentie.",
+        "metaDescription": "Samsung relie Galaxy Watch aux critères coréens d’arrêt du travail par température ressentie pour réduire les risques liés à la chaleur.",
+        "summary": "Samsung Electronics étend Galaxy Watch à la sécurité au travail. Le système envoie des alertes par niveaux de risque de chaleur et reflète les critères d’arrêt liés à la température ressentie. Incheon National University et Samsung Medical Center ont participé à la validation de l’algorithme.",
+        "body": "Galaxy Watch devient un outil de sécurité contre les fortes chaleurs sur les sites industriels. Samsung Electronics applique un système d’alerte de risque thermique basé sur la montre au chantier de la ligne de production de semi-conducteurs de Pyeongtaek. L’objectif est de transformer la température ressentie et les critères d’arrêt du travail en notifications immédiates au poignet.\n\n## La température ressentie comme signal\nLe système reprend la logique coréenne de réponse à la chaleur. Sur un chantier, la température de l’air ne suffit pas: humidité, rayonnement et charge physique déterminent le risque réel. Lorsque le niveau de danger monte, Galaxy Watch avertit le travailleur, tandis que les responsables peuvent organiser pauses, hydratation, refroidissement, ajustement des horaires ou arrêt de tâches à risque.\n\n## Validation et portée industrielle\nIncheon National University et Samsung Medical Center ont participé à la validation de l’algorithme prédictif. Le projet dépasse ainsi la simple fonction de montre connectée et rejoint la santé au travail. Pyeongtaek est un site sensible, car les calendriers de construction de semi-conducteurs sont serrés et les interruptions peuvent entraîner des coûts élevés en wons.\n\nLa technologie ne remplace pas les obligations de sécurité: repos, eau, ombre, zones fraîches et pouvoir d’arrêter le travail restent essentiels. Mais l’alerte portée au poignet peut réduire le délai entre la hausse du risque et l’action sur le terrain.",
+        "keywords": [
+          "Galaxy Watch",
+          "alerte chaleur",
+          "Samsung Electronics",
+          "température ressentie",
+          "arrêt du travail",
+          "coup de chaleur",
+          "semi-conducteurs Pyeongtaek",
+          "sécurité au travail",
+          "Galaxy Watch alerte"
+        ],
+        "faq": [
+          {
+            "q": "Où le système d’alerte chaleur de Galaxy Watch sera-t-il utilisé ?",
+            "a": "Sur le chantier de la ligne de production de semi-conducteurs à Pyeongtaek."
+          },
+          {
+            "q": "Sur quel critère repose l’alerte ?",
+            "a": "Elle repose sur des niveaux de température ressentie et des critères d’arrêt du travail."
+          },
+          {
+            "q": "Qui a validé l’algorithme ?",
+            "a": "Incheon National University et Samsung Medical Center ont participé à la validation."
+          }
+        ]
+      },
+      "ar": {
+        "title": "Galaxy Watch ينبه من موجات الحر في موقع رقائق سامسونغ في كوريا",
+        "excerpt": "تطبق سامسونغ إلكترونيكس نظام تنبيه لمخاطر الحر عبر Galaxy Watch في موقع إنشاء خط أشباه الموصلات في بيونغتايك، مع ربطه بمعايير إيقاف العمل حسب الحرارة المحسوسة.",
+        "metaDescription": "سامسونغ تربط Galaxy Watch بتنبيهات الحر ومعايير إيقاف العمل حسب الحرارة المحسوسة لحماية عمال موقع رقائق في كوريا.",
+        "summary": "توسع سامسونغ إلكترونيكس استخدام Galaxy Watch إلى سلامة مواقع العمل. يعتمد النظام على مستويات الحرارة المحسوسة ومعايير إيقاف العمل المرحلية. شاركت جامعة إنcheon ومستشفى سامسونغ سيول في التحقق من خوارزمية التنبؤ.",
+        "body": "يتحول Galaxy Watch إلى أداة سلامة في مواقع العمل المعرضة للحر الشديد. تطبق سامسونغ إلكترونيكس نظام تنبيه لمخاطر الحرارة عبر الساعة في موقع إنشاء خط إنتاج أشباه الموصلات في بيونغتايك. الفكرة الأساسية هي نقل مؤشر الحرارة المحسوسة ومعايير إيقاف العمل إلى تنبيه فوري على معصم العامل.\n\n## الحرارة المحسوسة تقود القرار\nيعكس النظام دليل الاستجابة الكوري لموجات الحر. في مواقع البناء لا تكفي درجة حرارة الهواء وحدها، لأن الرطوبة والإشعاع الحراري وشدة العمل تغير مستوى الخطر الحقيقي. عند ارتفاع مستوى الخطر، ترسل Galaxy Watch تنبيها للعامل، ويمكن للمشرفين تعديل فترات الراحة، وتوفير التبريد والماء، وتغيير ساعات العمل أو وقف المهام عالية المخاطر.\n\n## تحقق طبي وأكاديمي\nشاركت جامعة إنcheon ومستشفى سامسونغ سيول في التحقق من خوارزمية التنبؤ. بذلك يصبح المشروع أقرب إلى إدارة الصحة المهنية وليس مجرد ميزة في ساعة ذكية. اختيار موقع بيونغتايك مهم لأن مشاريع أشباه الموصلات تعمل بجداول دقيقة، وأي توقف صيفي قد يسبب كلفة كبيرة بالوون.\n\nالتقنية لا تلغي قواعد السلامة الأساسية. الراحة والماء والظل ومناطق التبريد وصلاحية وقف العمل تبقى ضرورية. لكنها تقلص الوقت بين تصاعد الخطر واتخاذ القرار في الموقع، وهو ما يهم البناء والتصنيع واللوجستيات وبناء السفن.",
+        "keywords": [
+          "Galaxy Watch",
+          "تنبيه الحر",
+          "سامسونغ إلكترونيكس",
+          "الحرارة المحسوسة",
+          "إيقاف العمل",
+          "الإجهاد الحراري",
+          "أشباه الموصلات بيونغتايك",
+          "سلامة العمل",
+          "Galaxy Watch ينبه من"
+        ],
+        "faq": [
+          {
+            "q": "أين سيستخدم نظام تنبيه الحر عبر Galaxy Watch؟",
+            "a": "في موقع إنشاء خط إنتاج أشباه الموصلات في بيونغتايك."
+          },
+          {
+            "q": "ما أساس التنبيه؟",
+            "a": "يعتمد على مستويات الحرارة المحسوسة ومعايير إيقاف العمل المرحلية."
+          },
+          {
+            "q": "من شارك في التحقق من الخوارزمية؟",
+            "a": "شاركت جامعة إنcheon ومستشفى سامسونغ سيول في التحقق."
+          }
+        ]
+      },
+      "hi": {
+        "title": "Galaxy Watch से हीट अलर्ट, Samsung ने कार्य-रोक मानक साइट पर लागू किए",
+        "excerpt": "Samsung Electronics Galaxy Watch आधारित हीट रिस्क अलर्ट को प्योंगटेक सेमीकंडक्टर उत्पादन लाइन निर्माण स्थल पर लागू कर रही है, जहां महसूस तापमान के आधार पर काम रोकने के मानक जुड़ेंगे।",
+        "metaDescription": "Samsung Galaxy Watch के जरिए महसूस तापमान आधारित हीट अलर्ट और कार्य-रोक मानक लागू कर प्योंगटेक चिप निर्माण स्थल पर जोखिम घटाएगी।",
+        "summary": "Samsung Electronics Galaxy Watch को कार्यस्थल सुरक्षा में बढ़ा रही है। यह प्रणाली महसूस तापमान के स्तरों और कार्य-रोक मानकों के आधार पर अलर्ट देगी। Incheon National University और Samsung Medical Center ने पूर्वानुमान एल्गोरिदम के सत्यापन में भाग लिया।",
+        "body": "Galaxy Watch अब अत्यधिक गर्मी में औद्योगिक सुरक्षा उपकरण की भूमिका निभाएगी। Samsung Electronics प्योंगटेक सेमीकंडक्टर उत्पादन लाइन निर्माण स्थल पर Galaxy Watch आधारित हीट रिस्क अलर्ट सिस्टम लागू कर रही है। इसका उद्देश्य महसूस तापमान और कार्य-रोक मानकों को सीधे कर्मचारी की कलाई तक पहुंचाना है।\n\n## महसूस तापमान पर आधारित अलर्ट\nसिस्टम कोरिया की हीट रिस्पॉन्स गाइड को दर्शाता है। निर्माण स्थल पर केवल हवा का तापमान पर्याप्त नहीं होता; नमी, विकिरण गर्मी और काम की तीव्रता वास्तविक जोखिम तय करते हैं। जोखिम स्तर बढ़ने पर Galaxy Watch कर्मचारी को अलर्ट देगी, और प्रबंधक विश्राम, पानी, कूलिंग, काम के घंटे या जोखिम वाले काम को रोकने जैसे कदम उठा सकेंगे।\n\n## एल्गोरिदम सत्यापन\nIncheon National University और Samsung Medical Center ने पूर्वानुमान एल्गोरिदम के सत्यापन में भाग लिया। इससे परियोजना सामान्य स्मार्टवॉच फीचर से आगे बढ़कर औद्योगिक स्वास्थ्य प्रबंधन का रूप लेती है। प्योंगटेक स्थल अहम है क्योंकि सेमीकंडक्टर निर्माण में समय-सीमा कड़ी होती है और गर्मी से व्यवधान वोन में बड़े खर्च ला सकता है।\n\nतकनीक बुनियादी सुरक्षा की जगह नहीं लेती। आराम, पानी, छाया, ठंडे क्षेत्र और काम रोकने का स्पष्ट अधिकार जरूरी हैं। फिर भी पहनने योग्य अलर्ट जोखिम बढ़ने और कार्रवाई के बीच समय घटा सकता है, जो निर्माण, विनिर्माण, लॉजिस्टिक्स और शिपबिल्डिंग क्षेत्रों के लिए उपयोगी है।",
+        "keywords": [
+          "Galaxy Watch",
+          "हीट अलर्ट",
+          "Samsung Electronics",
+          "महसूस तापमान",
+          "कार्य रोक मानक",
+          "हीट इलनेस",
+          "प्योंगटेक सेमीकंडक्टर",
+          "कार्यस्थल सुरक्षा",
+          "Galaxy Watch से हीट"
+        ],
+        "faq": [
+          {
+            "q": "Galaxy Watch हीट अलर्ट कहां लागू होगा?",
+            "a": "यह प्योंगटेक सेमीकंडक्टर उत्पादन लाइन निर्माण स्थल पर लागू होगा।"
+          },
+          {
+            "q": "अलर्ट किस आधार पर होगा?",
+            "a": "महसूस तापमान के स्तरों और कार्य-रोक मानकों के आधार पर होगा।"
+          },
+          {
+            "q": "एल्गोरिदम सत्यापन में कौन शामिल था?",
+            "a": "Incheon National University और Samsung Medical Center शामिल थे।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Galaxy Watch jadi alarm panas ekstrem di proyek chip Samsung Pyeongtaek",
+        "excerpt": "Samsung Electronics menerapkan sistem peringatan risiko panas berbasis Galaxy Watch di proyek pembangunan lini semikonduktor Pyeongtaek, mengikuti kriteria penghentian kerja berbasis suhu terasa.",
+        "metaDescription": "Samsung memakai Galaxy Watch untuk peringatan panas dan standar penghentian kerja berbasis suhu terasa di proyek semikonduktor Korea.",
+        "summary": "Samsung Electronics memperluas Galaxy Watch ke keselamatan kerja. Sistem ini memberi peringatan panas sesuai level suhu terasa dan kriteria penghentian kerja. Incheon National University dan Samsung Medical Center ikut memvalidasi algoritma prediksi.",
+        "body": "Galaxy Watch masuk ke ranah keselamatan industri saat panas ekstrem. Samsung Electronics menerapkan sistem peringatan risiko panas berbasis jam tangan itu di proyek pembangunan lini produksi semikonduktor Pyeongtaek. Fokusnya adalah mengubah suhu terasa dan kriteria penghentian kerja menjadi notifikasi langsung di pergelangan tangan pekerja.\n\n## Suhu terasa jadi dasar respons\nSistem ini mencerminkan panduan respons panas Korea. Di lokasi konstruksi, suhu udara saja tidak cukup karena kelembapan, panas radiasi, dan intensitas kerja menentukan risiko nyata. Saat level bahaya naik, Galaxy Watch memberi notifikasi kepada pekerja, sementara pengelola dapat mengatur istirahat, hidrasi, pendinginan, jam kerja, atau menghentikan pekerjaan berisiko tinggi.\n\n## Validasi algoritma\nIncheon National University dan Samsung Medical Center ikut memvalidasi algoritma prediksi. Ini membuat proyek lebih dekat dengan manajemen kesehatan kerja, bukan sekadar fitur smartwatch. Pyeongtaek penting karena konstruksi semikonduktor memiliki jadwal ketat dan gangguan musim panas dapat memicu biaya besar dalam won.\n\nTeknologi ini tidak menggantikan langkah dasar keselamatan. Istirahat, air, tempat teduh, ruang pendingin, dan wewenang menghentikan kerja tetap penting. Namun peringatan wearable dapat memperpendek waktu antara naiknya risiko panas dan tindakan di lapangan, dengan potensi untuk konstruksi, manufaktur, logistik, dan galangan kapal.",
+        "keywords": [
+          "Galaxy Watch",
+          "peringatan panas",
+          "Samsung Electronics",
+          "suhu terasa",
+          "penghentian kerja",
+          "penyakit akibat panas",
+          "semikonduktor Pyeongtaek",
+          "keselamatan kerja",
+          "Galaxy Watch jadi al"
+        ],
+        "faq": [
+          {
+            "q": "Di mana peringatan panas Galaxy Watch diterapkan?",
+            "a": "Di proyek pembangunan lini produksi semikonduktor Pyeongtaek."
+          },
+          {
+            "q": "Apa dasar peringatannya?",
+            "a": "Level suhu terasa dan kriteria penghentian kerja bertahap."
+          },
+          {
+            "q": "Siapa yang memvalidasi algoritmanya?",
+            "a": "Incheon National University dan Samsung Medical Center ikut memvalidasinya."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "ea5daf0634c0",
     "slug": "ai-붐반도체-호황에-그늘진-청년고용법률사무원-13개월째-251341",
     "channelId": "MACRO",
@@ -19920,59 +20293,6 @@
           {
             "q": "앞으로 국고채 금리는 어떻게 움직일 가능성이 있나요?",
             "a": "미국 물가 지표, 연준의 기준금리 결정, 원·달러 환율, 한국은행의 통화정책 경로가 핵심 변수다. 긴축 우려가 커지면 상승 압력이 이어질 전망이다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "7dc95e64760a",
-    "slug": "고물가1인가구-확대에커지는-pb가전-시장-241840",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-06-18T09:41:40.896Z",
-    "updatedAt": "2026-06-18T09:41:40.896Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.hankyung.com/article/2026061850541",
-    "titleFingerprint": "41b17a3fc6c5752595e20121543eb92ba4761426",
-    "dedupKeys": [
-      "7dc95e64760ae49d7b54eb4c58319da47c73afa2",
-      "41b17a3fc6c5752595e20121543eb92ba4761426",
-      "5051829567ad54ff07f89c7c83dea9e5b78eeb33"
-    ],
-    "imageUrl": "/images/articles/7dc95e64760a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "PB가전 시장 확대, 고물가와 1인가구 증가가 바꾼 생활가전 소비",
-        "excerpt": "고물가 장기화와 1인가구 확대가 맞물리면서 2026년 국내 생활가전 소비에서 PB가전이 빠르게 존재감을 키우고 있다. 소비자는 브랜드보다 가격, 크기, 필수 기능, A/S를 기준으로 제품을 고르고 있다.",
-        "metaDescription": "고물가와 1인가구 증가로 PB가전 시장이 커지고 있다. 소형 냉장고, 전자레인지, 세탁기 등 필수 생활가전의 가격 경쟁력과 국내 시장 영향을 분석했다.",
-        "summary": "국내 PB가전 시장은 고물가와 1인가구 증가를 배경으로 성장세를 보이고 있다. 소비자는 대형 브랜드 프리미엄보다 합리적 가격과 실사용 기능을 우선한다. 소형 냉장고, 전자레인지, 미니 세탁기, 공기청정기 등 필수형 제품이 수요를 이끈다. KC 인증, 에너지효율, A/S 체계가 시장 확장의 핵심 변수로 떠올랐다.",
-        "body": "고물가와 1인가구 확대가 국내 PB가전 시장을 키우고 있다. 생활가전 소비의 무게중심은 대형 브랜드와 고가 프리미엄 제품에서 유통사 자체브랜드, 온라인 전용 브랜드, 실속형 소형가전으로 이동하고 있다. 2026년 가전 소비자는 제품 로고보다 가격, 설치 공간, 전기요금, 보증 기간, 빠른 배송을 먼저 따진다.\n\n## 고물가가 만든 실속형 가전 수요\n국내 소비자는 지난 몇 년간 식료품, 외식, 주거비, 공공요금 부담을 동시에 겪었다. 소비자물가 상승률은 2022년 5%대, 2023년 3%대, 2024년 2%대를 거치며 둔화됐지만 체감 물가는 이미 높아진 가격 수준 위에 머물러 있다. 이 환경에서 냉장고, 전자레인지, 세탁기, 청소기 같은 필수 생활가전은 ‘좋은 제품’보다 ‘필요 기능을 갖춘 적정가 제품’으로 선택 기준이 바뀌었다.\n\nPB가전은 이 지점을 파고든다. 광고비와 복잡한 라인업을 줄이고 유통 채널이 직접 기획·판매하는 구조를 앞세워 동급 사양 대비 가격을 낮춘다. 국내 온라인몰과 대형 유통 채널에서 판매되는 소형 냉장고, 20리터 안팎 전자레인지, 6kg 전후 세탁기, 원룸형 청소기, 소형 공기청정기는 대형 브랜드 제품보다 10~30% 낮은 가격대로 배치되는 경우가 많다. 소비자는 이 가격 차이를 배송비, 설치비, 전기요금까지 합산해 판단한다.\n\n## 1인가구 증가가 바꾼 제품 크기\nPB가전 성장의 두 번째 축은 1인가구다. 국내 1인가구는 2023년 780만 가구를 넘어 전체 가구의 35% 안팎을 차지했다. 장래 가구 구조에서도 1인가구 비중은 2040년대 이후 40% 안팎까지 커질 것으로 예상된다. 혼자 사는 가구는 대용량 냉장고나 17kg 이상 세탁기보다 작은 주방, 좁은 욕실, 월세 주택 구조에 맞는 제품을 찾는다.\n\n이 때문에 PB가전의 인기 품목은 명확하다. 원룸용 냉장고, 1~2인용 밥솥, 소형 전자레인지, 미니 건조기, 저소음 선풍기, 제습기, 멀티쿠커, 침구 청소기처럼 공간 점유율이 낮고 가격 진입장벽이 작은 제품이 중심이다. 특히 이사 주기가 짧은 청년층과 직장인 1인가구는 고가 내구재를 오래 쓰기보다 2~5년 사용을 전제로 합리적 제품을 고르는 경향이 강하다.\n\n## 시장 확대의 관건은 품질과 A/S\nPB가전 시장이 계속 커지려면 가격만으로는 부족하다. 국내에서 판매되는 전기·전자제품은 KC 인증, 전파 적합성, 에너지소비효율 등 소비자 안전과 직결된 기준을 통과해야 한다. 냉장고와 에어컨, 세탁기처럼 전력 사용량이 큰 제품은 에너지효율등급이 구매 결정에 직접 영향을 준다. 전기요금 부담이 커진 소비자는 구매가가 싸더라도 월 사용 비용이 높으면 선택하지 않는다.\n\nA/S도 핵심 변수다. PB가전은 제조사 브랜드 인지도가 낮은 만큼 유통사의 보증 체계, 교환·반품 속도, 부품 수급이 신뢰를 결정한다. 유통사가 전국 단위 수리망과 명확한 보증 기간을 제시하면 PB가전은 단순 저가 상품을 넘어 생활가전의 대안으로 자리 잡을 수 있다. 반대로 초기 불량, 소음, 내구성 논란이 반복되면 가격 경쟁력은 빠르게 약해진다.\n\n국내 가전 시장의 경쟁 구도도 달라진다. 대형 제조사는 프리미엄 제품과 인공지능 기능을 강화하는 한편, 중저가 라인업을 재정비해야 한다. 유통사는 자체브랜드 기획력을 높여 소형가전에서 중형 생활가전으로 영역을 넓힐 가능성이 크다. 고물가와 1인가구 증가는 일시적 유행이 아니라 구조적 변화다. PB가전 시장은 앞으로 가격, 인증, 에너지효율, A/S를 모두 갖춘 업체를 중심으로 성장할 전망이다.",
-        "keywords": [
-          "PB가전",
-          "PB가전 시장",
-          "고물가",
-          "1인가구",
-          "소형가전",
-          "생활가전",
-          "자체브랜드 가전",
-          "가전 소비",
-          "원룸 가전",
-          "에너지효율"
-        ],
-        "faq": [
-          {
-            "q": "PB가전이란 무엇인가요?",
-            "a": "PB가전은 유통사나 온라인 플랫폼이 자체브랜드로 기획해 판매하는 가전제품이다. 제조는 외부 전문 업체가 맡는 경우가 많고, 유통 구조를 단순화해 가격 경쟁력을 확보한다."
-          },
-          {
-            "q": "왜 1인가구가 PB가전 시장을 키우나요?",
-            "a": "1인가구는 작은 주거공간과 제한된 예산에 맞춰 소형 냉장고, 전자레인지, 미니 세탁기 등 필수 기능 중심 제품을 선호한다. 이 수요가 PB가전의 주력 제품군과 맞아떨어진다."
-          },
-          {
-            "q": "PB가전을 살 때 가장 중요한 기준은 무엇인가요?",
-            "a": "가격뿐 아니라 KC 인증, 에너지소비효율등급, 보증 기간, A/S 가능 여부를 함께 확인해야 한다. 특히 냉장고나 세탁기처럼 오래 쓰는 제품은 초기 가격보다 유지비와 사후관리 품질이 중요하다."
           }
         ]
       }
