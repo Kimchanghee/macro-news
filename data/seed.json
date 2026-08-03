@@ -1,5 +1,751 @@
 [
   {
+    "id": "db30bb0a3996",
+    "slug": "q2-gdp-increased-less-than-expected-225761",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-08-03T04:44:55.679Z",
+    "updatedAt": "2026-08-03T04:44:55.679Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.nasdaq.com/articles/q2-gdp-increased-less-expected",
+    "titleFingerprint": "9a15decc72709f5bb7ad043584f8e4117e76e2d6",
+    "dedupKeys": [
+      "db30bb0a39965f122d56dae7a3eed08807dca6c6",
+      "9a15decc72709f5bb7ad043584f8e4117e76e2d6",
+      "58e45e4b43a7b8b8cf537b46d049fe6a6e3be96c"
+    ],
+    "imageUrl": "/images/articles/db30bb0a3996.jpg",
+    "i18n": {
+      "ko": {
+        "title": "2분기 GDP 증가율 예상 하회, 경기 둔화 신호와 시장 영향 확대",
+        "excerpt": "2분기 국내총생산(GDP)이 시장 예상보다 낮은 증가세에 그치며 경기 모멘텀 약화 우려가 커졌다. 성장 둔화는 금리, 환율, 주식시장 판단에 직접 반영될 변수다.",
+        "metaDescription": "2분기 GDP 증가율이 예상치를 밑돌며 경기 둔화 우려가 부각됐다. 금리 전망, 원·달러 환율, 국내 증시와 수출주 영향까지 정리했다.",
+        "summary": "2분기 GDP는 예상보다 낮은 증가율을 기록하며 경기 확장 속도가 둔화됐음을 드러냈다. 소비와 투자 회복력이 충분하지 않다는 신호가 시장에 반영되고 있다. 금리 인하 기대, 달러 흐름, 원·달러 환율, 국내 증시 업종별 차별화가 핵심 변수로 떠올랐다.",
+        "body": "2분기 국내총생산(GDP)이 예상보다 낮은 증가율을 기록했다. 경기의 전체 체력을 보여주는 핵심 지표가 기대에 못 미치면서 시장의 초점은 빠르게 성장 둔화와 통화정책 경로로 이동했다. 이번 결과는 단순한 숫자 부진을 넘어 소비, 투자, 재고, 교역 흐름이 동시에 강하지 않았다는 신호로 해석된다. 한국 투자자에게는 원·달러 환율, 수출주 실적, 채권금리, 외국인 자금 흐름을 함께 점검해야 하는 이벤트다.\n\n## 성장률 부진의 의미\nGDP는 한 경제가 일정 기간 생산한 재화와 서비스의 총량이다. 2분기 GDP가 증가했다는 점은 경기 확장이 완전히 꺾인 것은 아니라는 뜻이다. 그러나 증가 폭이 예상보다 작았다는 사실은 확장 속도가 둔해졌다는 의미가 더 크다. 기업은 신규 투자와 고용 계획을 보수적으로 조정할 가능성이 커지고, 가계는 실질소득과 물가 부담을 동시에 보며 소비를 늦출 수 있다. 성장률이 예상을 밑돌면 중앙은행은 물가 압력과 경기 둔화 사이에서 더 신중한 균형을 잡게 된다.\n\n## 시장이 보는 핵심 데이터\n이번 지표의 핵심은 2분기 GDP 증가율이 시장 기대치를 하회했다는 점이다. 실제 성장률이 플러스였더라도 예상보다 낮으면 금융시장은 이를 경기 모멘텀 약화로 반영한다. 주식시장에서는 경기민감주와 수출주의 이익 전망이 다시 조정될 수 있다. 채권시장에서는 향후 금리 인하 가능성이 커졌다는 해석이 나오며 장기금리 하락 압력이 생길 수 있다. 외환시장에서는 성장 둔화가 달러 강세를 약화시키는 재료가 될 수 있지만, 위험회피 심리가 커질 경우 원화에는 오히려 부담이 될 수 있다.\n\n## 한국 투자자 영향과 전망\n국내 시장에서는 원화 환산 실적이 중요한 기업부터 영향을 받는다. 해외 매출 비중이 큰 반도체, 자동차, 2차전지, 조선 업종은 환율과 글로벌 수요 전망을 동시에 반영한다. 원·달러 환율이 상승하면 원화 기준 매출에는 긍정적이지만 수입 원가와 외화부채 부담은 커진다. 코스피와 코스닥에서는 성장 둔화가 방어주 선호를 높이고, 금리 하락 기대는 성장주 밸류에이션을 일부 지지할 수 있다. 앞으로 시장은 다음 분기의 소비, 고용, 물가, 기업 투자 지표를 확인하며 경기 둔화가 일시적인지 구조적인지 판단할 전망이다.",
+        "keywords": [
+          "2분기 GDP",
+          "GDP 예상 하회",
+          "경제성장률",
+          "경기 둔화",
+          "원달러 환율",
+          "금리 전망",
+          "국내 증시",
+          "수출주",
+          "채권금리",
+          "2분기 GDP 증가율 예상 하회, 경"
+        ],
+        "faq": [
+          {
+            "q": "2분기 GDP가 예상보다 낮다는 것은 무슨 뜻인가요?",
+            "a": "경제는 성장했지만 성장 속도가 시장 기대보다 약했다는 뜻이다. 경기 확장세가 둔화됐을 가능성을 보여준다."
+          },
+          {
+            "q": "GDP 부진은 금리에 어떤 영향을 주나요?",
+            "a": "성장 둔화가 확인되면 향후 금리 인하 기대가 커질 수 있다. 다만 물가가 높으면 중앙은행의 판단은 더 신중해진다."
+          },
+          {
+            "q": "한국 투자자는 무엇을 봐야 하나요?",
+            "a": "원·달러 환율, 외국인 자금 흐름, 수출주 실적 전망, 채권금리 변화를 함께 확인해야 한다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Q2 GDP Growth Misses Expectations as Slowdown Signal Hits Markets",
+        "excerpt": "Second-quarter GDP rose less than expected, sharpening concerns that economic momentum is weakening. The data now matters for rates, currencies, equities, and export-sensitive sectors.",
+        "metaDescription": "Q2 GDP growth came in below expectations, raising slowdown concerns and reshaping views on interest rates, currencies, bonds, equities, and export stocks.",
+        "summary": "Second-quarter GDP increased, but the gain was weaker than expected. The result points to slower economic momentum rather than a full stop in growth. Markets are now focused on rate expectations, currency moves, bond yields, and sector-level earnings pressure.",
+        "body": "Second-quarter gross domestic product increased less than expected, sending a clear signal that the economy’s expansion is losing speed. GDP still grew, but the weaker-than-expected pace matters because markets price momentum, not only direction. The result suggests that consumption, investment, inventories, and trade are not providing enough combined strength to meet prior expectations.\n\n## What the Miss Means\nGDP measures the total value of goods and services produced over a period. A positive Q2 reading means the economy continued to expand, but the shortfall versus expectations shows that the expansion was weaker than investors had positioned for. Companies may become more cautious on hiring and capital spending, while households may slow discretionary purchases if real income pressure remains high.\n\n## Market Impact\nThe key data point is simple: Q2 GDP growth came in below expectations. Equity markets may reassess earnings for cyclical and export-linked companies. Bond markets may price greater odds of easier monetary policy, putting downward pressure on longer-term yields. Currency markets face a mixed signal: weaker growth can weigh on the dollar, but stronger risk aversion can pressure emerging-market currencies, including the Korean won.\n\n## Outlook\nFor Korean investors, the won-dollar exchange rate, foreign flows, and export earnings are the immediate watchpoints. Semiconductor, auto, battery, and shipbuilding stocks are sensitive to both global demand and currency translation. Markets will now judge whether the Q2 weakness was temporary or the start of a more persistent slowdown.",
+        "keywords": [
+          "Q2 GDP",
+          "GDP miss",
+          "economic growth",
+          "slowdown",
+          "interest rates",
+          "bond yields",
+          "currency market",
+          "Korean won",
+          "export stocks",
+          "Q2 GDP Growth Misses"
+        ],
+        "faq": [
+          {
+            "q": "What does a weaker-than-expected Q2 GDP mean?",
+            "a": "It means the economy still expanded, but at a slower pace than markets expected, signaling weaker momentum."
+          },
+          {
+            "q": "How can GDP weakness affect interest rates?",
+            "a": "Slower growth can increase expectations for rate cuts, although persistent inflation can limit that response."
+          },
+          {
+            "q": "What should Korean investors watch?",
+            "a": "They should monitor the won-dollar exchange rate, foreign equity flows, export earnings forecasts, and bond yields."
+          }
+        ]
+      },
+      "ja": {
+        "title": "第2四半期GDP成長率が予想下回る、景気減速懸念が市場に波及",
+        "excerpt": "第2四半期のGDPは市場予想を下回る伸びにとどまり、景気モメンタムの鈍化懸念が強まった。金利、為替、株式市場の判断材料となる。",
+        "metaDescription": "第2四半期GDP成長率が予想を下回り、景気減速懸念が浮上。金利見通し、ウォン相場、韓国株、輸出株への影響を整理。",
+        "summary": "第2四半期GDPは増加したものの、伸びは予想を下回った。景気拡大が続く一方、勢いは弱まっている。市場は金利見通し、為替、債券利回り、輸出関連株の利益見通しに注目している。",
+        "body": "第2四半期の国内総生産（GDP）は予想を下回る増加率となった。経済はなお拡大しているが、伸びが期待に届かなかったことで、景気の基礎体力に対する警戒感が強まっている。消費、投資、在庫、貿易の各分野が十分な力を同時に示せなかったことが市場の焦点だ。\n\n## 成長率鈍化の意味\nGDPは一定期間に生産された財とサービスの総額を示す。第2四半期にプラス成長を維持したことは、景気が失速したわけではないことを意味する。ただし予想を下回った点は、拡大の速度が鈍ったことを示す。企業は投資や雇用に慎重になり、家計は物価負担と実質所得を見ながら消費を抑える可能性がある。\n\n## 市場への影響\n今回の核心は、GDP成長率が期待値を下回ったことだ。株式市場では景気敏感株や輸出株の利益見通しが調整されやすい。債券市場では将来の利下げ期待が高まり、長期金利に低下圧力がかかる可能性がある。為替市場では成長鈍化がドルの上値を抑える一方、リスク回避が強まればウォンには負担となる。\n\n## 韓国投資家の視点\n韓国市場ではウォン・ドル相場、外国人資金、輸出企業の業績見通しが重要だ。半導体、自動車、電池、造船は世界需要と為替換算の影響を同時に受ける。今後は消費、雇用、物価、企業投資の次の指標を通じて、減速が一時的か持続的かが判断される。",
+        "keywords": [
+          "第2四半期GDP",
+          "GDP予想下回る",
+          "経済成長率",
+          "景気減速",
+          "金利見通し",
+          "ウォン相場",
+          "韓国株",
+          "輸出株",
+          "第2四半期GDP成長率が予想下回る、景気"
+        ],
+        "faq": [
+          {
+            "q": "第2四半期GDPが予想を下回るとは何ですか。",
+            "a": "経済は成長したものの、成長速度が市場の期待より弱かったという意味です。"
+          },
+          {
+            "q": "GDPの弱さは金利にどう影響しますか。",
+            "a": "景気減速が意識されると利下げ期待が高まりやすいが、物価が高ければ判断は慎重になります。"
+          },
+          {
+            "q": "韓国投資家は何を見るべきですか。",
+            "a": "ウォン・ドル相場、外国人資金、輸出株の業績見通し、債券利回りを確認する必要があります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "第二季度GDP增幅低于预期，经济放缓信号影响市场",
+        "excerpt": "第二季度GDP增长低于市场预期，经济动能减弱的担忧升温。该结果将影响利率预期、汇率、股市和出口行业判断。",
+        "metaDescription": "第二季度GDP增幅低于预期，经济放缓担忧加剧。梳理利率、韩元汇率、韩国股市、债券和出口股影响。",
+        "summary": "第二季度GDP继续增长，但增幅低于预期。结果显示经济仍在扩张，但速度已经放慢。市场焦点转向利率路径、汇率波动、债券收益率以及出口企业盈利预期。",
+        "body": "第二季度国内生产总值（GDP）增长低于预期。经济并未停止扩张，但增长速度弱于市场原先判断，显示经济动能正在放缓。消费、投资、库存和贸易未能形成足够合力，是市场重新评估前景的核心原因。\n\n## 增长不及预期的含义\nGDP衡量一定时期内经济生产的商品和服务总量。第二季度GDP仍为增长，说明经济没有陷入停滞。但增幅低于预期，意味着扩张质量和速度不足。企业可能对招聘和资本开支更加谨慎，家庭也可能因实际收入压力和物价负担而推迟消费。\n\n## 市场影响\n本次数据的重点很明确：第二季度GDP增长低于预期。股市可能下调周期股和出口相关企业的盈利预期。债券市场可能提高对未来降息的押注，推动长期收益率承压。外汇市场信号较复杂，增长放缓可能削弱美元，但若避险情绪增强，韩元等风险货币也会承压。\n\n## 韩国投资者关注点\n韩国市场需要重点观察韩元兑美元汇率、外资流向和出口企业业绩。半导体、汽车、电池和造船行业同时受全球需求和汇率折算影响。接下来，消费、就业、通胀和企业投资数据将决定市场如何判断这次放缓是短期波动还是持续趋势。",
+        "keywords": [
+          "第二季度GDP",
+          "GDP低于预期",
+          "经济增长",
+          "经济放缓",
+          "利率预期",
+          "韩元汇率",
+          "韩国股市",
+          "出口股",
+          "第二季度GDP增幅低于预期，经济放缓信号"
+        ],
+        "faq": [
+          {
+            "q": "第二季度GDP低于预期是什么意思？",
+            "a": "这意味着经济仍在增长，但增长速度弱于市场预期，显示动能减弱。"
+          },
+          {
+            "q": "GDP疲软会如何影响利率？",
+            "a": "增长放缓可能提高降息预期，但若通胀仍高，政策判断会更加谨慎。"
+          },
+          {
+            "q": "韩国投资者应关注什么？",
+            "a": "应关注韩元兑美元汇率、外资流向、出口股盈利预期和债券收益率。"
+          }
+        ]
+      },
+      "es": {
+        "title": "El PIB del segundo trimestre crece menos de lo esperado y aumenta la cautela",
+        "excerpt": "El PIB del segundo trimestre avanzó por debajo de lo previsto y elevó las dudas sobre el impulso económico. El dato incide en tipos, divisas, bonos y bolsas.",
+        "metaDescription": "El PIB del segundo trimestre creció menos de lo esperado, aumentando las señales de desaceleración y el foco en tipos, divisas, bonos y acciones exportadoras.",
+        "summary": "El PIB del segundo trimestre aumentó, pero lo hizo menos de lo esperado. La economía sigue en expansión, aunque con menor fuerza. Los mercados evalúan ahora la trayectoria de los tipos, el dólar, el won, los bonos y las perspectivas de beneficios.",
+        "body": "El producto interior bruto del segundo trimestre creció menos de lo esperado. La economía mantuvo una expansión positiva, pero el ritmo inferior al previsto cambió el foco hacia la desaceleración. El dato sugiere que consumo, inversión, inventarios y comercio no aportaron la fuerza conjunta que el mercado esperaba.\n\n## Qué significa el dato\nEl PIB mide el valor total de bienes y servicios producidos en un periodo. Que haya crecimiento en el segundo trimestre indica que la actividad no se ha detenido. Sin embargo, el avance por debajo de las previsiones muestra una pérdida de impulso. Las empresas pueden actuar con más cautela en contratación e inversión, mientras los hogares pueden moderar el gasto por presión sobre ingresos reales y precios.\n\n## Impacto en mercados\nEl punto central es que el crecimiento del PIB quedó por debajo de las expectativas. En renta variable, los sectores cíclicos y exportadores pueden sufrir revisiones de beneficios. En bonos, una economía más débil puede elevar las expectativas de recortes de tipos y presionar a la baja las rentabilidades largas. En divisas, el efecto es mixto: menor crecimiento puede debilitar al dólar, pero la aversión al riesgo puede pesar sobre monedas como el won surcoreano.\n\n## Enfoque para Corea\nPara inversores coreanos, el tipo de cambio won-dólar, los flujos extranjeros y las ganancias de exportadores son claves. Semiconductores, autos, baterías y construcción naval dependen de la demanda global y de la conversión cambiaria. Los próximos datos de consumo, empleo, inflación e inversión empresarial definirán si la debilidad fue temporal o persistente.",
+        "keywords": [
+          "PIB segundo trimestre",
+          "PIB bajo expectativas",
+          "crecimiento económico",
+          "desaceleración",
+          "tipos de interés",
+          "won coreano",
+          "bolsa coreana",
+          "acciones exportadoras",
+          "El PIB del segundo t"
+        ],
+        "faq": [
+          {
+            "q": "¿Qué significa que el PIB crezca menos de lo esperado?",
+            "a": "Significa que la economía siguió creciendo, pero con menos fuerza que la anticipada por el mercado."
+          },
+          {
+            "q": "¿Cómo afecta a los tipos de interés?",
+            "a": "Una desaceleración puede aumentar las expectativas de recortes, aunque la inflación puede limitar esa respuesta."
+          },
+          {
+            "q": "¿Qué deben vigilar los inversores coreanos?",
+            "a": "El tipo de cambio won-dólar, los flujos extranjeros, las previsiones de exportadores y las rentabilidades de bonos."
+          }
+        ]
+      },
+      "pt": {
+        "title": "PIB do 2º trimestre cresce menos que o esperado e reforça cautela",
+        "excerpt": "O PIB do segundo trimestre avançou abaixo do esperado e ampliou preocupações com a perda de fôlego econômico. O dado afeta juros, câmbio, bolsas e exportadoras.",
+        "metaDescription": "PIB do segundo trimestre cresce menos que o esperado, elevando sinais de desaceleração e foco em juros, câmbio, títulos, ações coreanas e exportadoras.",
+        "summary": "O PIB do segundo trimestre aumentou, mas o avanço ficou abaixo das expectativas. A economia segue em expansão, porém com menor impulso. Mercados passam a observar juros, câmbio, títulos e lucros de empresas exportadoras.",
+        "body": "O produto interno bruto do segundo trimestre cresceu menos que o esperado. A economia continuou em expansão, mas o ritmo inferior ao previsto deslocou a atenção para a desaceleração. O resultado indica que consumo, investimento, estoques e comércio não entregaram força suficiente em conjunto.\n\n## O significado da leitura\nO PIB mede o valor total de bens e serviços produzidos em determinado período. A alta no segundo trimestre mostra que a atividade não parou. Ainda assim, o crescimento abaixo das expectativas sinaliza perda de fôlego. Empresas podem adotar postura mais cautelosa em contratação e investimentos, enquanto famílias podem reduzir gastos diante de renda real pressionada e preços elevados.\n\n## Impacto nos mercados\nO ponto central é que o crescimento do PIB ficou aquém do esperado. Nas bolsas, setores cíclicos e exportadores podem ter estimativas de lucro revisadas. Nos títulos, a fraqueza da atividade pode elevar apostas em cortes de juros e pressionar rendimentos longos para baixo. No câmbio, o sinal é misto: menor crescimento pode limitar o dólar, mas aversão ao risco pode pesar sobre moedas como o won sul-coreano.\n\n## Leitura para a Coreia\nPara investidores coreanos, câmbio won-dólar, fluxo estrangeiro e resultados de exportadoras são variáveis decisivas. Semicondutores, automóveis, baterias e construção naval dependem da demanda global e da conversão cambial. Os próximos dados de consumo, emprego, inflação e investimento definirão se a fraqueza foi temporária ou persistente.",
+        "keywords": [
+          "PIB 2º trimestre",
+          "PIB abaixo do esperado",
+          "crescimento econômico",
+          "desaceleração",
+          "juros",
+          "won coreano",
+          "bolsa coreana",
+          "exportadoras",
+          "PIB do 2º trimestre"
+        ],
+        "faq": [
+          {
+            "q": "O que significa PIB abaixo do esperado?",
+            "a": "Significa que a economia cresceu, mas em ritmo menor que o antecipado pelo mercado."
+          },
+          {
+            "q": "Como isso afeta os juros?",
+            "a": "Crescimento mais fraco pode aumentar expectativas de corte de juros, embora inflação alta limite a resposta."
+          },
+          {
+            "q": "O que investidores coreanos devem acompanhar?",
+            "a": "Câmbio won-dólar, fluxo estrangeiro, lucros de exportadoras e rendimentos dos títulos."
+          }
+        ]
+      },
+      "de": {
+        "title": "BIP im zweiten Quartal wächst schwächer als erwartet und belastet Märkte",
+        "excerpt": "Das BIP des zweiten Quartals stieg weniger stark als erwartet. Damit rücken Konjunkturabkühlung, Zinsen, Währungen, Anleihen und Aktien stärker in den Fokus.",
+        "metaDescription": "Das BIP im zweiten Quartal lag unter den Erwartungen. Die Analyse zeigt Folgen für Zinsen, Währungen, Anleiherenditen, koreanische Aktien und Exporteure.",
+        "summary": "Das BIP im zweiten Quartal legte zu, blieb aber hinter den Erwartungen zurück. Die Wirtschaft wächst weiter, verliert jedoch an Schwung. Märkte achten nun auf Zinserwartungen, Wechselkurse, Anleiherenditen und Exportgewinne.",
+        "body": "Das Bruttoinlandsprodukt des zweiten Quartals ist weniger stark gestiegen als erwartet. Die Wirtschaft expandierte zwar weiter, doch das geringere Tempo signalisiert nachlassende Dynamik. Konsum, Investitionen, Lagerbestände und Handel lieferten zusammen nicht die Stärke, die zuvor eingepreist war.\n\n## Bedeutung der Schwäche\nDas BIP misst den Gesamtwert der in einem Zeitraum produzierten Waren und Dienstleistungen. Ein positives zweites Quartal bedeutet, dass die Konjunktur nicht zum Stillstand gekommen ist. Der Rückstand gegenüber den Erwartungen zeigt jedoch, dass die Expansion an Kraft verliert. Unternehmen könnten Investitionen und Einstellungen vorsichtiger planen, während Haushalte bei belasteten Realeinkommen und hohen Preisen Ausgaben zurückhalten.\n\n## Wirkung auf Märkte\nDer Kernpunkt lautet: Das BIP-Wachstum lag unter den Erwartungen. Am Aktienmarkt können zyklische Werte und Exporteure Gewinnrevisionen erleben. Am Anleihemarkt kann schwächeres Wachstum Erwartungen an spätere Zinssenkungen stärken und langfristige Renditen drücken. Am Devisenmarkt ist das Signal gemischt: Schwächeres Wachstum kann den Dollar begrenzen, Risikoaversion kann aber den koreanischen Won belasten.\n\n## Blick aus Korea\nFür koreanische Anleger stehen Won-Dollar-Kurs, ausländische Kapitalflüsse und Exportgewinne im Mittelpunkt. Halbleiter, Autos, Batterien und Schiffbau reagieren auf globale Nachfrage und Währungsumrechnung. Die nächsten Daten zu Konsum, Beschäftigung, Inflation und Unternehmensinvestitionen werden zeigen, ob die Abschwächung vorübergehend oder dauerhaft ist.",
+        "keywords": [
+          "BIP zweites Quartal",
+          "BIP unter Erwartungen",
+          "Wirtschaftswachstum",
+          "Konjunkturabkühlung",
+          "Zinsen",
+          "koreanischer Won",
+          "koreanische Aktien",
+          "Exporteure",
+          "BIP im zweiten Quart"
+        ],
+        "faq": [
+          {
+            "q": "Was bedeutet ein BIP unter den Erwartungen?",
+            "a": "Die Wirtschaft ist gewachsen, aber langsamer als vom Markt erwartet. Das zeigt schwächere Dynamik."
+          },
+          {
+            "q": "Wie wirkt sich das auf Zinsen aus?",
+            "a": "Schwächeres Wachstum kann Zinssenkungserwartungen erhöhen, sofern die Inflation dies zulässt."
+          },
+          {
+            "q": "Was sollten koreanische Anleger beobachten?",
+            "a": "Den Won-Dollar-Kurs, ausländische Kapitalflüsse, Exportgewinne und Anleiherenditen."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le PIB du deuxième trimestre progresse moins que prévu, les marchés s’ajustent",
+        "excerpt": "Le PIB du deuxième trimestre a augmenté moins que prévu, renforçant les signes de ralentissement. Le chiffre influence taux, devises, obligations et actions.",
+        "metaDescription": "Le PIB du deuxième trimestre progresse moins que prévu. Analyse des effets sur taux, devises, obligations, actions coréennes et valeurs exportatrices.",
+        "summary": "Le PIB du deuxième trimestre a progressé, mais moins que prévu. L’économie reste en expansion, avec un élan plus faible. Les marchés surveillent désormais les taux, les devises, les rendements obligataires et les bénéfices des exportateurs.",
+        "body": "Le produit intérieur brut du deuxième trimestre a progressé moins que prévu. L’économie reste en croissance, mais le rythme inférieur aux attentes signale une perte d’élan. La consommation, l’investissement, les stocks et les échanges n’ont pas fourni ensemble la vigueur anticipée par les marchés.\n\n## Sens du ralentissement\nLe PIB mesure la valeur totale des biens et services produits pendant une période. Une hausse au deuxième trimestre montre que l’activité ne s’est pas arrêtée. Mais l’écart par rapport aux attentes révèle une expansion moins solide. Les entreprises peuvent devenir plus prudentes sur l’embauche et l’investissement, tandis que les ménages peuvent limiter leurs dépenses face à la pression sur le revenu réel et aux prix.\n\n## Impact de marché\nLe point essentiel est clair: la croissance du PIB est inférieure aux attentes. Les actions cycliques et exportatrices peuvent subir des révisions de bénéfices. Les obligations peuvent intégrer une probabilité plus élevée de baisse des taux, ce qui pèse sur les rendements longs. Sur les devises, le signal est mixte: une croissance plus faible peut limiter le dollar, mais l’aversion au risque peut peser sur le won coréen.\n\n## Lecture coréenne\nPour les investisseurs coréens, le taux won-dollar, les flux étrangers et les bénéfices des exportateurs sont déterminants. Semi-conducteurs, automobile, batteries et construction navale dépendent de la demande mondiale et de la conversion de change. Les prochains chiffres de consommation, emploi, inflation et investissement diront si la faiblesse est temporaire ou durable.",
+        "keywords": [
+          "PIB deuxième trimestre",
+          "PIB inférieur aux attentes",
+          "croissance économique",
+          "ralentissement",
+          "taux d’intérêt",
+          "won coréen",
+          "actions coréennes",
+          "exportateurs",
+          "Le PIB du deuxième t"
+        ],
+        "faq": [
+          {
+            "q": "Que signifie un PIB inférieur aux attentes?",
+            "a": "L’économie a progressé, mais moins vite que prévu, ce qui indique un élan plus faible."
+          },
+          {
+            "q": "Quel effet sur les taux?",
+            "a": "Une croissance plus faible peut renforcer les attentes de baisse des taux, sauf si l’inflation reste élevée."
+          },
+          {
+            "q": "Que doivent surveiller les investisseurs coréens?",
+            "a": "Le taux won-dollar, les flux étrangers, les bénéfices exportateurs et les rendements obligataires."
+          }
+        ]
+      },
+      "ar": {
+        "title": "نمو الناتج المحلي في الربع الثاني دون التوقعات يعزز مخاوف التباطؤ",
+        "excerpt": "زاد الناتج المحلي الإجمالي في الربع الثاني بأقل من المتوقع، ما رفع القلق بشأن ضعف الزخم الاقتصادي وأثر في الفائدة والعملات والأسهم والسندات.",
+        "metaDescription": "نمو الناتج المحلي في الربع الثاني جاء دون التوقعات، مع آثار على الفائدة وسعر الوون والدولار والأسهم الكورية وشركات التصدير.",
+        "summary": "سجل الناتج المحلي الإجمالي في الربع الثاني نموا، لكنه جاء أضعف من التوقعات. الاقتصاد لا يزال يتوسع، إلا أن الوتيرة تباطأت. تتركز الأنظار الآن على مسار الفائدة والعملات وعوائد السندات وأرباح المصدرين.",
+        "body": "ارتفع الناتج المحلي الإجمالي في الربع الثاني بأقل من المتوقع. الاقتصاد واصل النمو، لكن الوتيرة الأضعف من التقديرات أرسلت إشارة واضحة إلى تراجع الزخم. الاستهلاك والاستثمار والمخزونات والتجارة لم توفر معا القوة التي كانت الأسواق تنتظرها.\n\n## معنى القراءة الضعيفة\nالناتج المحلي الإجمالي يقيس القيمة الكلية للسلع والخدمات المنتجة خلال فترة محددة. بقاء النمو موجبا في الربع الثاني يعني أن النشاط لم يتوقف. لكن النمو دون التوقعات يعني أن سرعة التوسع تراجعت. الشركات قد تصبح أكثر حذرا في التوظيف والإنفاق الرأسمالي، بينما قد تؤجل الأسر بعض الإنفاق مع ضغط الأسعار والدخل الحقيقي.\n\n## أثر السوق\nالنقطة الأساسية أن نمو الناتج المحلي في الربع الثاني جاء أقل من المتوقع. في الأسهم، قد تتراجع توقعات أرباح الشركات الدورية والمصدرة. في السندات، قد تزيد رهانات خفض الفائدة لاحقا، ما يضغط على العوائد الطويلة. في العملات، الإشارة مختلطة: ضعف النمو قد يحد من قوة الدولار، لكن زيادة تجنب المخاطر قد تضغط على الوون الكوري.\n\n## زاوية المستثمر الكوري\nبالنسبة إلى السوق الكورية، يعد سعر الوون مقابل الدولار، وتدفق الأموال الأجنبية، وأرباح المصدرين عوامل رئيسية. قطاعات أشباه الموصلات والسيارات والبطاريات وبناء السفن تتأثر بالطلب العالمي وبالتحويل إلى الوون. البيانات المقبلة عن الاستهلاك والتوظيف والتضخم والاستثمار ستحدد ما إذا كان التباطؤ مؤقتا أم مستمرا.",
+        "keywords": [
+          "الناتج المحلي الربع الثاني",
+          "الناتج المحلي دون التوقعات",
+          "النمو الاقتصادي",
+          "تباطؤ اقتصادي",
+          "أسعار الفائدة",
+          "الوون الكوري",
+          "الأسهم الكورية",
+          "شركات التصدير",
+          "نمو الناتج المحلي في"
+        ],
+        "faq": [
+          {
+            "q": "ماذا يعني نمو الناتج المحلي دون التوقعات؟",
+            "a": "يعني أن الاقتصاد نما، لكن بوتيرة أضعف مما توقعته الأسواق، ما يشير إلى تراجع الزخم."
+          },
+          {
+            "q": "كيف يؤثر ذلك في أسعار الفائدة؟",
+            "a": "النمو الأضعف قد يزيد توقعات خفض الفائدة، لكن التضخم المرتفع قد يحد من ذلك."
+          },
+          {
+            "q": "ماذا يجب أن يراقب المستثمرون في كوريا؟",
+            "a": "سعر الوون مقابل الدولار، تدفقات الأجانب، أرباح المصدرين، وعوائد السندات."
+          }
+        ]
+      },
+      "hi": {
+        "title": "दूसरी तिमाही GDP उम्मीद से कम बढ़ी, बाजारों में सुस्ती की चिंता बढ़ी",
+        "excerpt": "दूसरी तिमाही में GDP वृद्धि अनुमान से कम रही, जिससे आर्थिक गति कमजोर पड़ने की चिंता बढ़ी। यह आंकड़ा दरों, मुद्रा, बॉन्ड और शेयरों पर असर डालेगा।",
+        "metaDescription": "दूसरी तिमाही GDP उम्मीद से कम बढ़ी। ब्याज दर, वॉन-डॉलर विनिमय दर, कोरियाई शेयरों, बॉन्ड और निर्यात कंपनियों पर असर समझें।",
+        "summary": "दूसरी तिमाही में GDP बढ़ी, लेकिन वृद्धि बाजार की उम्मीद से कम रही। अर्थव्यवस्था विस्तार में है, पर उसकी रफ्तार धीमी दिख रही है। बाजार अब ब्याज दरों, मुद्रा, बॉन्ड यील्ड और निर्यात कंपनियों की कमाई पर ध्यान दे रहे हैं।",
+        "body": "दूसरी तिमाही में सकल घरेलू उत्पाद, यानी GDP, उम्मीद से कम बढ़ा। अर्थव्यवस्था ने सकारात्मक वृद्धि दर्ज की, लेकिन अनुमान से कमजोर रफ्तार ने आर्थिक सुस्ती का संकेत दिया। उपभोग, निवेश, भंडार और व्यापार मिलकर उतनी ताकत नहीं दिखा सके जितनी बाजार ने अपेक्षा की थी।\n\n## इस संकेत का अर्थ\nGDP किसी अवधि में उत्पादित वस्तुओं और सेवाओं के कुल मूल्य को मापता है। दूसरी तिमाही में वृद्धि का मतलब है कि गतिविधि रुकी नहीं है। लेकिन उम्मीद से कम वृद्धि बताती है कि विस्तार की रफ्तार घट रही है। कंपनियां भर्ती और पूंजीगत खर्च में सावधानी बरत सकती हैं, जबकि परिवार वास्तविक आय पर दबाव और कीमतों के कारण खर्च टाल सकते हैं।\n\n## बाजार पर असर\nमुख्य तथ्य यह है कि दूसरी तिमाही GDP वृद्धि उम्मीद से कम रही। शेयर बाजार में चक्रीय और निर्यात आधारित कंपनियों की कमाई का अनुमान घट सकता है। बॉन्ड बाजार में भविष्य की दर कटौती की उम्मीद बढ़ सकती है, जिससे लंबी अवधि की यील्ड पर दबाव आ सकता है। मुद्रा बाजार में संकेत मिश्रित है: कमजोर वृद्धि डॉलर को सीमित कर सकती है, लेकिन जोखिम से बचाव बढ़ने पर कोरियाई वॉन दबाव में आ सकता है।\n\n## कोरियाई निवेशक क्या देखें\nकोरिया में वॉन-डॉलर दर, विदेशी पूंजी प्रवाह और निर्यात कंपनियों की आय अहम हैं। सेमीकंडक्टर, ऑटो, बैटरी और जहाज निर्माण क्षेत्र वैश्विक मांग और मुद्रा रूपांतरण दोनों से प्रभावित होते हैं। आगे उपभोग, रोजगार, महंगाई और कॉर्पोरेट निवेश के आंकड़े तय करेंगे कि यह कमजोरी अस्थायी है या लंबी।",
+        "keywords": [
+          "दूसरी तिमाही GDP",
+          "GDP उम्मीद से कम",
+          "आर्थिक वृद्धि",
+          "आर्थिक सुस्ती",
+          "ब्याज दर",
+          "कोरियाई वॉन",
+          "कोरियाई शेयर",
+          "निर्यात कंपनियां",
+          "दूसरी तिमाही GDP उम्"
+        ],
+        "faq": [
+          {
+            "q": "GDP उम्मीद से कम बढ़ने का क्या मतलब है?",
+            "a": "अर्थव्यवस्था बढ़ी, लेकिन बाजार की उम्मीद से कम रफ्तार से। यह कमजोर गति का संकेत है।"
+          },
+          {
+            "q": "इसका ब्याज दरों पर क्या असर हो सकता है?",
+            "a": "धीमी वृद्धि दर कटौती की उम्मीद बढ़ा सकती है, हालांकि ऊंची महंगाई इसे सीमित कर सकती है।"
+          },
+          {
+            "q": "कोरियाई निवेशकों को क्या देखना चाहिए?",
+            "a": "वॉन-डॉलर विनिमय दर, विदेशी प्रवाह, निर्यात कंपनियों की कमाई और बॉन्ड यील्ड।"
+          }
+        ]
+      },
+      "id": {
+        "title": "PDB Kuartal II Tumbuh di Bawah Perkiraan, Sinyal Perlambatan Menguat",
+        "excerpt": "PDB kuartal II naik lebih rendah dari perkiraan, memicu kekhawatiran bahwa momentum ekonomi melemah. Data ini memengaruhi suku bunga, valas, obligasi, dan saham.",
+        "metaDescription": "PDB kuartal II tumbuh di bawah perkiraan. Simak dampaknya pada suku bunga, won-dolar, pasar saham Korea, obligasi, dan emiten eksportir.",
+        "summary": "PDB kuartal II tetap meningkat, tetapi lajunya lebih rendah dari perkiraan. Ekonomi masih berekspansi, namun momentumnya melemah. Pasar kini menyoroti arah suku bunga, nilai tukar, imbal hasil obligasi, dan prospek laba eksportir.",
+        "body": "Produk domestik bruto kuartal II tumbuh lebih rendah dari perkiraan. Ekonomi masih mencatat ekspansi, tetapi laju yang lebih lemah dari harapan memberi sinyal perlambatan momentum. Konsumsi, investasi, persediaan, dan perdagangan belum memberi kekuatan gabungan yang cukup bagi pertumbuhan.\n\n## Arti Pertumbuhan Lemah\nPDB mengukur nilai total barang dan jasa yang diproduksi dalam satu periode. Pertumbuhan positif pada kuartal II berarti aktivitas ekonomi tidak berhenti. Namun, hasil yang di bawah perkiraan menunjukkan bahwa kecepatan ekspansi menurun. Perusahaan dapat lebih hati-hati dalam perekrutan dan belanja modal, sementara rumah tangga bisa menunda belanja karena tekanan pendapatan riil dan harga.\n\n## Dampak Pasar\nPoin utamanya jelas: pertumbuhan PDB kuartal II berada di bawah ekspektasi. Di pasar saham, sektor siklikal dan eksportir dapat menghadapi revisi proyeksi laba. Di pasar obligasi, pertumbuhan yang lebih lemah bisa meningkatkan ekspektasi penurunan suku bunga dan menekan imbal hasil jangka panjang. Di pasar valuta, sinyalnya campuran: pertumbuhan lemah dapat membatasi dolar, tetapi penghindaran risiko dapat menekan won Korea.\n\n## Fokus Investor Korea\nBagi investor Korea, kurs won-dolar, arus dana asing, dan laba eksportir menjadi perhatian utama. Semikonduktor, otomotif, baterai, dan galangan kapal dipengaruhi permintaan global serta konversi mata uang. Data konsumsi, tenaga kerja, inflasi, dan investasi berikutnya akan menentukan apakah pelemahan ini sementara atau berlanjut.",
+        "keywords": [
+          "PDB kuartal II",
+          "PDB di bawah perkiraan",
+          "pertumbuhan ekonomi",
+          "perlambatan ekonomi",
+          "suku bunga",
+          "won Korea",
+          "saham Korea",
+          "emiten eksportir",
+          "PDB Kuartal II Tumbu"
+        ],
+        "faq": [
+          {
+            "q": "Apa arti PDB tumbuh di bawah perkiraan?",
+            "a": "Ekonomi tetap tumbuh, tetapi lajunya lebih lemah dari ekspektasi pasar, sehingga momentum terlihat melemah."
+          },
+          {
+            "q": "Bagaimana dampaknya pada suku bunga?",
+            "a": "Pertumbuhan yang lebih lemah dapat meningkatkan ekspektasi pemangkasan suku bunga, kecuali inflasi tetap tinggi."
+          },
+          {
+            "q": "Apa yang perlu dipantau investor Korea?",
+            "a": "Kurs won-dolar, arus dana asing, proyeksi laba eksportir, dan imbal hasil obligasi."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "b7c6a08337b3",
+    "slug": "국고채-금리-혼조세3년물-장중-연-3750-800547",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-08-03T04:41:15.117Z",
+    "updatedAt": "2026-08-03T04:41:15.119Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260803075900008",
+    "titleFingerprint": "e3bde39bef1a657fd7d18e7a85cd9d77c0b9ca37",
+    "dedupKeys": [
+      "b7c6a08337b31d0925274f1eebe6cd3e770c2a60",
+      "e3bde39bef1a657fd7d18e7a85cd9d77c0b9ca37",
+      "dae0f07f5bd5ef937771775f3f4b116c469f0c8b"
+    ],
+    "imageUrl": "/images/articles/b7c6a08337b3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국고채 금리 혼조세…3년물 장중 연 3.750%",
+        "excerpt": "3일 국고채 금리가 만기별로 엇갈린 흐름을 보이는 가운데 3년물 금리는 장중 연 3.750%를 기록했다.",
+        "metaDescription": "3일 국고채 금리가 혼조세를 보였다. 3년물 금리는 장중 연 3.750%를 기록하며 채권시장 금리 흐름의 주요 수치로 확인됐다.",
+        "summary": "국고채 금리가 3일 혼조세를 나타냈다. 3년물 금리는 장중 연 3.750%를 기록했다.",
+        "body": "3일 국고채 금리가 혼조세를 보이고 있다. 채권시장에서 국고채 금리는 만기별로 같은 방향을 보이지 않았고, 단기 지표로 자주 확인되는 3년물 금리는 장중 연 3.750%를 기록했다. 이날 흐름의 핵심은 국고채 금리가 일제히 오르거나 내린 것이 아니라 서로 다른 만기 구간에서 엇갈린 움직임이 나타났다는 점이다.\n\n국고채 금리 혼조세는 시장 금리가 하나의 방향으로 정리되지 않았다는 의미로 해석된다. 특히 3년물 금리가 장중 연 3.750%로 제시된 점은 단기 구간의 금리 수준을 확인할 때 중요한 수치가 된다. 연 3.750%는 해당 채권의 장중 금리로, 투자자와 금융시장 참가자들이 당일 국고채 시장 흐름을 살필 때 참고하는 기준점 가운데 하나다. 국고채 금리는 만기별로 거래되기 때문에 3년물, 중장기물 등 각 구간의 움직임이 다르게 나타날 수 있다. 이날처럼 혼조세가 나타나면 시장은 특정 만기 하나만 보지 않고 전체 수익률 곡선의 흐름을 함께 확인하게 된다.\n\n3년물 국고채 금리는 국내 금리 환경을 판단할 때 자주 거론되는 지표다. 장중 연 3.750%라는 수치는 이날 단기 국고채 구간의 가격 흐름을 보여주는 직접적인 숫자다. 채권 금리는 가격과 반대로 움직이므로 금리 수준은 채권 가격 흐름을 파악하는 데도 활용된다. 다만 이날 확인된 내용은 국고채 금리가 혼조세를 보였다는 점과 3년물 금리가 장중 연 3.750%를 기록했다는 점에 한정된다. 따라서 구체적인 상승 또는 하락 폭, 다른 만기의 세부 금리, 원인에 대한 평가는 별도 확인이 필요한 영역이다.\n\n국고채 금리는 금융시장 전반에서 기준 역할을 하는 지표로 활용된다. 정부가 발행하는 채권의 금리인 만큼 채권시장에서는 국고채 금리 흐름을 통해 당일 시장 분위기를 살핀다. 3년물 금리가 장중 연 3.750%를 기록한 가운데 전체 국고채 금리가 혼조세를 보였다는 사실은 투자자들이 만기별 금리 차이를 주의 깊게 볼 필요가 있음을 보여준다. 혼조세가 이어지는 구간에서는 단일 수치보다 만기별 금리 흐름을 함께 확인하는 것이 중요하다.\n\n향후 시장의 관심은 국고채 금리가 같은 방향으로 정리될지, 아니면 만기별 엇갈림이 계속될지에 모일 것으로 보인다. 이날 확인된 장중 수치인 3년물 연 3.750%는 국고채 금리 흐름을 점검하는 데 우선적으로 참고될 만한 수준이다. 국고채 금리 혼조세가 나타난 만큼 채권시장 참가자들은 이후 거래에서 3년물 금리와 다른 만기 구간의 흐름을 함께 살피며 시장 방향을 판단하게 된다.",
+        "keywords": [
+          "국고채",
+          "국고채 금리",
+          "3년물 국고채",
+          "채권시장",
+          "금리 혼조세",
+          "연 3.750%",
+          "장중 금리",
+          "채권 금리",
+          "국고채 금리 혼조세…3년물 장중 연"
+        ],
+        "faq": [
+          {
+            "q": "3일 국고채 금리는 어떤 흐름을 보였나요?",
+            "a": "3일 국고채 금리는 혼조세를 보였습니다. 만기별 금리 흐름이 한 방향으로 움직이지 않은 것으로 정리됩니다."
+          },
+          {
+            "q": "3년물 국고채 금리는 장중 얼마를 기록했나요?",
+            "a": "3년물 국고채 금리는 장중 연 3.750%를 기록했습니다."
+          },
+          {
+            "q": "국고채 금리 혼조세는 무엇을 의미하나요?",
+            "a": "국고채 금리 혼조세는 만기별 금리 흐름이 서로 엇갈렸다는 뜻입니다. 특정 방향의 일괄적인 상승이나 하락으로 보기 어렵다는 의미입니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Korean Treasury Yields Mixed as 3-Year Note Touches 3.750% Intraday",
+        "excerpt": "Korean Treasury yields moved in mixed directions on the 3rd, with the three-year note reaching 3.750% intraday as policy expectations and supply pressures shaped trading.",
+        "metaDescription": "Korean Treasury yields were mixed on the 3rd, with the three-year yield touching 3.750% intraday. Here is what it means for bonds, loans and funding costs.",
+        "summary": "Korean Treasury yields showed a mixed pattern across maturities on the 3rd. The three-year yield reached 3.750% intraday, highlighting sensitivity in the front end of the curve. Markets are weighing monetary policy, inflation pressure and bond supply. The move can affect loan rates, corporate funding and bond fund returns.",
+        "body": "Korean Treasury yields traded mixed in Seoul on the 3rd. The three-year yield, a key short-term benchmark, touched 3.750% intraday as investors reassessed monetary policy expectations and bond supply conditions. The split performance across maturities suggests that expectations for short-term rates and views on longer-term growth are no longer moving in a single direction.\n\n## Three-Year Yield at 3.750%\nThe three-year Korean Treasury is one of the quickest parts of the local bond market to price Bank of Korea policy expectations. An intraday level of 3.750% shows that investors are not trading only on hopes for lower rates. Inflation risk, possible won weakness and government bond issuance are also being priced. A higher three-year yield can put pressure on bank funding costs and short-term corporate bond rates.\n\n## Policy and Supply Pull in Different Directions\nThe mixed market tone reflects competing forces. Persistent inflation limits room for lower yields. At the same time, softer domestic demand and weaker business investment can cap longer-term yield increases. Issuance volume, foreign futures trading and the won-dollar exchange rate are adding to the maturity-by-maturity divergence.\n\n## Impact on Households and Companies\nTreasury yield moves are relevant beyond professional bond desks. The three-year yield affects bank funding, fixed mortgage pricing, corporate bond issuance and mark-to-market returns on bond funds. If yields remain elevated, household interest burdens and corporate refinancing costs can rise. Investors will watch inflation data, policy signals and auction demand for the next direction.",
+        "keywords": [
+          "Korean Treasury yields",
+          "three-year bond",
+          "Korea bond market",
+          "government bond yield",
+          "Bank of Korea",
+          "loan rates",
+          "corporate funding",
+          "won market",
+          "Korean Treasury Yiel"
+        ],
+        "faq": [
+          {
+            "q": "What does a 3.750% three-year Korean Treasury yield mean?",
+            "a": "It means the market yield on the three-year government bond moved to 3.750% intraday, reflecting policy expectations and bond supply conditions."
+          },
+          {
+            "q": "Why does a mixed yield move matter?",
+            "a": "It shows investors are pricing short-term rates, growth, inflation and supply differently across maturities, which can affect loans and corporate borrowing."
+          },
+          {
+            "q": "What should investors monitor next?",
+            "a": "They should watch the three-year yield, policy signals, auction demand and the won-dollar exchange rate."
+          }
+        ]
+      },
+      "ja": {
+        "title": "韓国国債利回りまちまち、3年物が取引中に年3.750%へ上昇",
+        "excerpt": "3日のソウル債券市場で韓国国債利回りは年限別にまちまちとなり、3年物利回りは取引中に年3.750%を記録した。",
+        "metaDescription": "韓国国債利回りは3日にまちまちの展開となり、3年物が取引中に年3.750%を付けた。金融費用や債券投資への影響を整理する。",
+        "summary": "3日の韓国国債利回りは年限ごとに方向感が分かれた。3年物利回りは取引中に年3.750%を記録し、短期ゾーンの敏感な反応を示した。市場は金融政策、物価、国債需給を同時に織り込んでいる。金利変動は住宅ローン、企業調達、債券ファンドに影響する。",
+        "body": "3日のソウル債券市場で韓国国債利回りはまちまちの動きとなった。短期指標である3年物利回りは取引中に年3.750%を記録し、投資家が金融政策の先行きと国債需給を同時に点検していることを示した。全ての年限が同じ方向へ動く展開ではなく、短期金利期待と中長期の景気判断が分かれている。\n\n## 3年物は年3.750%\n韓国国債3年物は、韓国銀行の政策金利見通しを最も早く反映しやすい区間だ。年3.750%という水準は、利下げ期待だけでなく、物価圧力、ウォン安リスク、国債発行負担も価格に反映されていることを意味する。3年物利回りが上がれば、銀行債や短期社債の調達金利にも圧力がかかる。\n\n## 政策期待と需給が交錯\n今回のまちまちの展開は、材料不足ではなく材料の衝突を示す。物価が簡単に下がらないとの見方は金利低下を抑える。一方、内需の鈍化や企業投資の弱さは長期金利の上昇を制限する。国債発行量、海外投資家の先物売買、ウォン・ドル相場も年限別の差を広げている。\n\n## 家計と企業に波及\n国債利回りは一般の家計にも関係する。3年物利回りは銀行の資金調達、固定型住宅ローン、社債発行、債券ファンドの評価損益に影響する。高い金利が続けば家計の利払い負担と企業の借り換え費用が増える。今後は物価指標、政策金利のシグナル、国債入札需要が焦点となる。",
+        "keywords": [
+          "韓国国債利回り",
+          "3年物国債",
+          "韓国債券市場",
+          "国債利回り",
+          "韓国銀行",
+          "住宅ローン金利",
+          "社債金利",
+          "ウォン相場",
+          "韓国国債利回りまちまち、3年物が取引中に"
+        ],
+        "faq": [
+          {
+            "q": "3年物利回りが年3.750%とは何ですか。",
+            "a": "3年満期の韓国国債に対して市場が求める年利回りが取引中に3.750%まで動いたという意味です。"
+          },
+          {
+            "q": "利回りがまちまちだとなぜ重要ですか。",
+            "a": "市場が政策金利、景気、物価、需給を年限ごとに異なって判断しているためで、融資金利や社債金利にも影響します。"
+          },
+          {
+            "q": "個人投資家は何を見るべきですか。",
+            "a": "3年物利回り、政策金利のシグナル、国債入札需要、ウォン・ドル相場を合わせて確認する必要があります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "韩国国债收益率走势分化，3年期盘中触及年化3.750%",
+        "excerpt": "3日首尔债券市场韩国国债收益率按期限分化，3年期国债收益率盘中达到年化3.750%，政策预期与供需压力同步反映。",
+        "metaDescription": "韩国国债收益率3日走势分化，3年期盘中达年化3.750%。本文解析其对贷款利率、企业融资和债券投资的影响。",
+        "summary": "3日韩国国债收益率呈现期限分化。3年期国债收益率盘中达到年化3.750%，显示短端利率对政策和供需变化较为敏感。市场同时消化货币政策、通胀压力和国债供给因素。利率波动将影响贷款、企业融资和债券基金收益。",
+        "body": "3日首尔债券市场韩国国债收益率走势分化。作为短端关键指标的3年期国债收益率盘中触及年化3.750%，显示投资者正在同时评估货币政策路径和国债供需。各期限收益率没有一致同向运行，说明短期利率预期与中长期经济判断正在分离。\n\n## 3年期升至年化3.750%\n韩国3年期国债通常较快反映韩国央行政策利率预期。盘中年化3.750%的水平表明，市场并未只押注降息预期，通胀压力、韩元走弱风险以及国债发行负担也被纳入定价。若3年期收益率继续处于高位，银行融资成本和短期公司债利率可能承压。\n\n## 政策与供需相互拉扯\n本轮分化并非缺少方向，而是多重因素相互冲突。通胀回落不确定限制收益率下行，而内需放缓和企业投资偏弱又抑制长端收益率上行。国债发行规模、外资期货交易以及韩元兑美元汇率走势，也在放大不同期限之间的差异。\n\n## 对家庭和企业的影响\n国债收益率变化会传导至实体金融成本。3年期收益率影响银行资金成本、固定利率住房贷款、公司债发行利率和债券基金估值。若利率维持高位，家庭利息负担和企业再融资成本将上升。后续市场将关注通胀数据、政策利率信号和国债招标需求。",
+        "keywords": [
+          "韩国国债收益率",
+          "3年期国债",
+          "韩国债券市场",
+          "国债收益率",
+          "韩国央行",
+          "贷款利率",
+          "公司债利率",
+          "韩元汇率",
+          "韩国国债收益率走势分化，3年期盘中触及年"
+        ],
+        "faq": [
+          {
+            "q": "3年期国债收益率年化3.750%是什么意思？",
+            "a": "这意味着市场对3年期韩国国债要求的年化收益率在盘中升至3.750%，反映政策预期和债券供需。"
+          },
+          {
+            "q": "国债收益率分化为什么重要？",
+            "a": "它说明市场对政策利率、经济增长、通胀和供给的判断在不同期限上并不一致，可能影响贷款和公司债利率。"
+          },
+          {
+            "q": "投资者接下来应关注什么？",
+            "a": "应关注3年期收益率、政策利率信号、国债招标需求以及韩元兑美元汇率。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Rendimientos de bonos coreanos mixtos; el 3 años toca 3,750% intradía",
+        "excerpt": "Los rendimientos de los bonos del Tesoro surcoreano se movieron de forma mixta el día 3, con el bono a tres años en 3,750% intradía por política y oferta.",
+        "metaDescription": "Los bonos soberanos de Corea del Sur operaron mixtos y el rendimiento a tres años tocó 3,750% intradía. Impacto en préstamos, empresas e inversión.",
+        "summary": "Los rendimientos de la deuda soberana surcoreana mostraron un comportamiento mixto por vencimientos. El bono a tres años alcanzó 3,750% intradía, reflejando sensibilidad en el tramo corto. El mercado pondera política monetaria, inflación y oferta de bonos. El movimiento incide en préstamos, financiación corporativa y fondos de renta fija.",
+        "body": "Los rendimientos de los bonos del Tesoro surcoreano operaron mixtos en Seúl el día 3. El rendimiento a tres años, referencia clave del tramo corto, tocó 3,750% intradía mientras los inversores revisaban expectativas de política monetaria y condiciones de oferta. La diferencia entre vencimientos indica que las expectativas de tasas de corto plazo y la lectura de crecimiento a mediano plazo se están separando.\n\n## El tres años llega a 3,750%\nEl bono surcoreano a tres años suele reflejar con rapidez las expectativas sobre la tasa del Banco de Corea. El nivel de 3,750% muestra que el mercado no se mueve solo por apuestas de recorte. También incorpora inflación, posible debilidad del won y carga de emisión soberana. Un rendimiento más alto puede presionar el costo de financiación bancaria y las tasas de deuda corporativa corta.\n\n## Política y oferta en tensión\nEl tono mixto responde a fuerzas opuestas. La inflación persistente limita la caída de rendimientos. A la vez, la demanda interna débil y la menor inversión empresarial frenan el alza de los plazos largos. La emisión de bonos, las operaciones de futuros de inversores extranjeros y el tipo de cambio won-dólar amplían las diferencias por vencimiento.\n\n## Efecto en hogares y empresas\nLa variación de los rendimientos afecta la economía real. El tres años influye en financiación bancaria, hipotecas fijas, emisión de bonos corporativos y valoración de fondos de renta fija. Si las tasas siguen elevadas, aumentan la carga de intereses de los hogares y el costo de refinanciación empresarial. El mercado seguirá datos de inflación, señales de tasas y demanda en subastas.",
+        "keywords": [
+          "bonos coreanos",
+          "rendimiento a tres años",
+          "mercado de bonos de Corea",
+          "deuda soberana",
+          "Banco de Corea",
+          "tasas de préstamos",
+          "bonos corporativos",
+          "won coreano",
+          "Rendimientos de bono"
+        ],
+        "faq": [
+          {
+            "q": "¿Qué significa que el tres años esté en 3,750%?",
+            "a": "Significa que el rendimiento anual exigido por el mercado al bono soberano surcoreano a tres años alcanzó 3,750% intradía."
+          },
+          {
+            "q": "¿Por qué importa un movimiento mixto?",
+            "a": "Porque muestra lecturas distintas sobre tasas, crecimiento, inflación y oferta según el vencimiento, con impacto en préstamos y deuda empresarial."
+          },
+          {
+            "q": "¿Qué deben mirar los inversores?",
+            "a": "El rendimiento a tres años, las señales del Banco de Corea, la demanda en subastas y el tipo de cambio won-dólar."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Juros dos títulos coreanos ficam mistos; papel de 3 anos toca 3,750%",
+        "excerpt": "Os juros dos títulos públicos sul-coreanos oscilaram de forma mista no dia 3, com o papel de três anos chegando a 3,750% no intradia.",
+        "metaDescription": "Os juros dos títulos públicos da Coreia do Sul ficaram mistos, e o vencimento de três anos tocou 3,750% no intradia. Veja impactos financeiros.",
+        "summary": "Os juros dos títulos públicos sul-coreanos mostraram desempenho misto por vencimento. O título de três anos atingiu 3,750% no intradia, evidenciando sensibilidade na ponta curta. O mercado avalia política monetária, inflação e oferta de títulos. A variação afeta crédito, financiamento corporativo e fundos de renda fixa.",
+        "body": "Os juros dos títulos públicos sul-coreanos operaram de forma mista em Seul no dia 3. O rendimento de três anos, referência importante da ponta curta, tocou 3,750% no intradia enquanto investidores avaliavam a trajetória da política monetária e a oferta de dívida pública. O movimento divergente entre vencimentos indica separação entre expectativas de curto prazo e avaliação de crescimento mais longo.\n\n## Três anos em 3,750%\nO título sul-coreano de três anos costuma refletir rapidamente as expectativas sobre a taxa básica do Banco da Coreia. O nível de 3,750% mostra que o mercado não está precificando apenas cortes de juros. Pressão inflacionária, possível fraqueza do won e volume de emissão também entram nos preços. Juros mais altos nesse prazo podem elevar custos de bancos e empresas.\n\n## Política e oferta se chocam\nO tom misto vem de forças opostas. A inflação persistente limita a queda dos rendimentos. Ao mesmo tempo, demanda doméstica mais fraca e investimento empresarial contido reduzem o ímpeto de alta nos prazos longos. Emissões, negociação estrangeira em futuros e câmbio won-dólar ampliam a diferença entre vencimentos.\n\n## Impacto para famílias e empresas\nA oscilação dos títulos públicos chega ao crédito. O rendimento de três anos afeta captação bancária, hipotecas prefixadas, emissão de debêntures corporativas e fundos de renda fixa. Se os juros ficarem altos, cresce o peso dos juros para famílias e o custo de refinanciamento das empresas. Inflação, sinais de política monetária e demanda em leilões serão decisivos.",
+        "keywords": [
+          "títulos coreanos",
+          "juros de três anos",
+          "mercado de renda fixa da Coreia",
+          "títulos públicos",
+          "Banco da Coreia",
+          "taxas de crédito",
+          "dívida corporativa",
+          "won",
+          "Juros dos títulos co"
+        ],
+        "faq": [
+          {
+            "q": "O que significa o juro de três anos em 3,750%?",
+            "a": "Significa que o rendimento anual exigido pelo mercado para o título público sul-coreano de três anos chegou a 3,750% no intradia."
+          },
+          {
+            "q": "Por que juros mistos importam?",
+            "a": "Eles mostram que o mercado avalia juros, crescimento, inflação e oferta de forma diferente em cada vencimento."
+          },
+          {
+            "q": "O que acompanhar agora?",
+            "a": "O rendimento de três anos, sinais do Banco da Coreia, demanda em leilões e o câmbio won-dólar."
+          }
+        ]
+      },
+      "de": {
+        "title": "Koreanische Staatsanleiherenditen uneinheitlich, 3 Jahre bei 3,750%",
+        "excerpt": "Die Renditen koreanischer Staatsanleihen entwickelten sich am 3. uneinheitlich. Die dreijährige Anleihe erreichte intraday 3,750%.",
+        "metaDescription": "Koreas Staatsanleiherenditen waren uneinheitlich, die dreijährige Rendite erreichte 3,750%. Folgen für Kredite, Firmenfinanzierung und Anleger.",
+        "summary": "Die Renditen südkoreanischer Staatsanleihen zeigten am 3. je nach Laufzeit unterschiedliche Richtungen. Die dreijährige Rendite erreichte intraday 3,750% und machte die Sensibilität des kurzen Endes sichtbar. Der Markt bewertet Geldpolitik, Inflation und Angebot zugleich. Das beeinflusst Kreditzinsen, Unternehmensfinanzierung und Rentenfonds.",
+        "body": "Die Renditen südkoreanischer Staatsanleihen handelten am 3. in Seoul uneinheitlich. Die dreijährige Rendite, ein wichtiger Maßstab am kurzen Ende, erreichte intraday 3,750%. Anleger prüfen damit gleichzeitig den geldpolitischen Pfad und die Angebotslage bei Staatsanleihen. Dass die Laufzeiten nicht geschlossen in eine Richtung laufen, zeigt eine Trennung zwischen kurzfristigen Zinserwartungen und längerfristiger Wachstumseinschätzung.\n\n## Drei Jahre bei 3,750%\nDie dreijährige koreanische Staatsanleihe preist Erwartungen an die Bank of Korea besonders schnell ein. Das Niveau von 3,750% zeigt, dass der Markt nicht nur auf Zinssenkungen setzt. Inflationsrisiken, mögliche Won-Schwäche und Emissionsvolumen werden ebenfalls berücksichtigt. Höhere Renditen am kurzen Ende können Bankfinanzierung und kurzfristige Unternehmensanleihen verteuern.\n\n## Geldpolitik und Angebot wirken gegeneinander\nDer uneinheitliche Ton entsteht durch gegensätzliche Kräfte. Hartnäckige Inflation begrenzt Renditerückgänge. Schwächere Binnenkonjunktur und gedämpfte Unternehmensinvestitionen bremsen dagegen den Anstieg langer Renditen. Staatsanleiheemissionen, ausländischer Futures-Handel und der Won-Dollar-Kurs vergrößern die Unterschiede zwischen den Laufzeiten.\n\n## Wirkung auf Haushalte und Unternehmen\nStaatsanleiherenditen sind für die Realwirtschaft relevant. Die dreijährige Rendite beeinflusst Bankrefinanzierung, Festhypotheken, Unternehmensanleiheemissionen und Rentenfondsbewertungen. Bleiben Renditen hoch, steigen Zinslasten der Haushalte und Refinanzierungskosten der Firmen. Entscheidend werden Inflationsdaten, Zinssignale und Nachfrage bei Auktionen.",
+        "keywords": [
+          "koreanische Staatsanleihen",
+          "dreijährige Rendite",
+          "Koreas Anleihemarkt",
+          "Staatsanleiherendite",
+          "Bank of Korea",
+          "Kreditzinsen",
+          "Unternehmensanleihen",
+          "Won",
+          "Koreanische Staatsan"
+        ],
+        "faq": [
+          {
+            "q": "Was bedeutet eine dreijährige Rendite von 3,750%?",
+            "a": "Der Markt verlangte intraday für die dreijährige südkoreanische Staatsanleihe eine Jahresrendite von 3,750%."
+          },
+          {
+            "q": "Warum ist eine uneinheitliche Renditekurve wichtig?",
+            "a": "Sie zeigt unterschiedliche Einschätzungen zu Zinsen, Wachstum, Inflation und Angebot je nach Laufzeit."
+          },
+          {
+            "q": "Worauf sollten Anleger achten?",
+            "a": "Auf die dreijährige Rendite, Signale der Bank of Korea, Auktionsnachfrage und den Won-Dollar-Kurs."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Rendements coréens contrastés, le 3 ans atteint 3,750% en séance",
+        "excerpt": "Les rendements des obligations d’État sud-coréennes ont évolué en ordre dispersé le 3, le trois ans atteignant 3,750% en séance.",
+        "metaDescription": "Les rendements des obligations d’État coréennes sont contrastés, le trois ans touchant 3,750%. Effets sur crédit, entreprises et fonds obligataires.",
+        "summary": "Les rendements souverains sud-coréens ont divergé selon les maturités. Le rendement à trois ans a atteint 3,750% en séance, signe d’une forte sensibilité du court terme. Le marché intègre politique monétaire, inflation et offre obligataire. Les variations touchent prêts, financement des entreprises et fonds obligataires.",
+        "body": "Les rendements des obligations d’État sud-coréennes ont évolué de façon contrastée à Séoul le 3. Le rendement à trois ans, référence du court terme, a atteint 3,750% en séance alors que les investisseurs réévaluaient la trajectoire de politique monétaire et les conditions d’offre. La divergence entre maturités montre que les anticipations de taux courts et l’analyse de la croissance à plus long terme ne progressent pas dans le même sens.\n\n## Le trois ans à 3,750%\nL’obligation coréenne à trois ans reflète rapidement les attentes concernant la Banque de Corée. Le niveau de 3,750% indique que le marché ne se limite pas à anticiper des baisses de taux. Les risques d’inflation, une éventuelle faiblesse du won et le volume d’émissions publiques sont aussi intégrés. Une hausse du trois ans peut renchérir le financement bancaire et la dette d’entreprise courte.\n\n## Politique et offre en tension\nLe mouvement contrasté vient de forces opposées. Une inflation persistante freine la baisse des rendements. En parallèle, une demande intérieure plus faible et un investissement des entreprises modéré limitent la hausse des maturités longues. Les émissions, les échanges de contrats à terme par les investisseurs étrangers et le change won-dollar accentuent les écarts.\n\n## Effets pour ménages et entreprises\nLes rendements souverains influencent les coûts financiers réels. Le trois ans pèse sur le refinancement bancaire, les prêts immobiliers fixes, les émissions d’obligations d’entreprise et la valorisation des fonds obligataires. Si les taux restent élevés, la charge d’intérêt des ménages et les coûts de refinancement des entreprises augmentent. Les données d’inflation, les signaux de taux et les adjudications seront suivis.",
+        "keywords": [
+          "obligations coréennes",
+          "rendement trois ans",
+          "marché obligataire coréen",
+          "rendement souverain",
+          "Banque de Corée",
+          "taux de prêt",
+          "obligations d’entreprise",
+          "won",
+          "Rendements coréens c"
+        ],
+        "faq": [
+          {
+            "q": "Que signifie un rendement à trois ans de 3,750% ?",
+            "a": "Cela signifie que le rendement annuel exigé par le marché pour l’obligation d’État sud-coréenne à trois ans a atteint 3,750% en séance."
+          },
+          {
+            "q": "Pourquoi une évolution contrastée est-elle importante ?",
+            "a": "Elle montre des anticipations différentes sur les taux, la croissance, l’inflation et l’offre selon les maturités."
+          },
+          {
+            "q": "Quels indicateurs surveiller ?",
+            "a": "Le rendement à trois ans, les signaux de la Banque de Corée, la demande aux adjudications et le taux won-dollar."
+          }
+        ]
+      },
+      "ar": {
+        "title": "عوائد السندات الكورية تتباين وسند الثلاث سنوات يلامس 3.750% خلال الجلسة",
+        "excerpt": "تحركت عوائد السندات الحكومية الكورية الجنوبية بشكل متباين في اليوم الثالث، وبلغ عائد سند الثلاث سنوات 3.750% خلال الجلسة بفعل توقعات السياسة والعرض.",
+        "metaDescription": "تباينت عوائد السندات الحكومية الكورية، وبلغ عائد الثلاث سنوات 3.750% خلال الجلسة. تحليل الأثر على القروض وتمويل الشركات والاستثمار.",
+        "summary": "أظهرت عوائد السندات الحكومية الكورية الجنوبية تباينا بين آجال الاستحقاق. بلغ عائد سند الثلاث سنوات 3.750% خلال الجلسة، ما يعكس حساسية الطرف القصير من المنحنى. السوق يوازن بين السياسة النقدية والتضخم وعرض السندات. هذه التحركات تؤثر في القروض وتمويل الشركات وصناديق الدخل الثابت.",
+        "body": "تباينت عوائد السندات الحكومية الكورية الجنوبية في سوق سول في اليوم الثالث. عائد سند الثلاث سنوات، وهو مؤشر مهم للآجال القصيرة، بلغ 3.750% خلال الجلسة مع إعادة تقييم المستثمرين لمسار السياسة النقدية وظروف عرض السندات. عدم تحرك كل الآجال في اتجاه واحد يعني أن توقعات الفائدة القصيرة وتقديرات النمو الأطول أجلا تنفصلان.\n\n## عائد الثلاث سنوات عند 3.750%\nسند الحكومة الكورية لأجل ثلاث سنوات يعكس بسرعة توقعات سياسة بنك كوريا. مستوى 3.750% يظهر أن السوق لا يتحرك فقط على أساس آمال خفض الفائدة. ضغوط التضخم، احتمال ضعف الوون، وعبء إصدار السندات الحكومية تدخل كلها في التسعير. ارتفاع هذا العائد قد يزيد تكلفة تمويل البنوك وسندات الشركات القصيرة.\n\n## السياسة والعرض في اتجاهين مختلفين\nالتباين ناتج عن قوى متعارضة. استمرار التضخم يحد من تراجع العوائد. في المقابل، ضعف الطلب المحلي وتباطؤ استثمار الشركات يحدان من صعود العوائد الطويلة. حجم الإصدار، تداول الأجانب في العقود الآجلة، وحركة الوون مقابل الدولار توسع الفروق بين الآجال.\n\n## أثر مباشر على الأسر والشركات\nتحركات عوائد السندات الحكومية تنتقل إلى تكاليف التمويل. عائد الثلاث سنوات يؤثر في تمويل البنوك، الرهون ذات الفائدة الثابتة، إصدار سندات الشركات، وتقييم صناديق السندات. إذا بقيت العوائد مرتفعة، سترتفع أعباء الفائدة على الأسر وتكاليف إعادة التمويل على الشركات. ستبقى بيانات التضخم وإشارات الفائدة وطلب المزادات محور المتابعة.",
+        "keywords": [
+          "عوائد السندات الكورية",
+          "سند الثلاث سنوات",
+          "سوق السندات الكورية",
+          "العائد الحكومي",
+          "بنك كوريا",
+          "أسعار القروض",
+          "سندات الشركات",
+          "الوون",
+          "عوائد السندات الكوري"
+        ],
+        "faq": [
+          {
+            "q": "ماذا يعني وصول عائد الثلاث سنوات إلى 3.750%؟",
+            "a": "يعني أن العائد السنوي المطلوب في السوق على السند الحكومي الكوري لأجل ثلاث سنوات بلغ 3.750% خلال الجلسة."
+          },
+          {
+            "q": "لماذا يهم تباين العوائد؟",
+            "a": "لأنه يعكس اختلاف تقييم السوق للفائدة والنمو والتضخم والعرض بين آجال الاستحقاق."
+          },
+          {
+            "q": "ما الذي يجب مراقبته لاحقا؟",
+            "a": "عائد الثلاث سنوات، إشارات بنك كوريا، الطلب في مزادات السندات، وسعر الوون مقابل الدولار."
+          }
+        ]
+      },
+      "hi": {
+        "title": "कोरियाई सरकारी बॉन्ड यील्ड मिली-जुली, 3-वर्षीय दर 3.750% पर",
+        "excerpt": "तीसरे दिन सियोल बॉन्ड बाजार में दक्षिण कोरियाई सरकारी बॉन्ड यील्ड अवधि के अनुसार मिली-जुली रही और 3-वर्षीय यील्ड इंट्राडे 3.750% पर पहुंची।",
+        "metaDescription": "दक्षिण कोरियाई सरकारी बॉन्ड यील्ड मिली-जुली रही, 3-वर्षीय दर 3.750% पर पहुंची। कर्ज, कंपनियों और बॉन्ड निवेश पर असर समझें।",
+        "summary": "दक्षिण कोरियाई सरकारी बॉन्ड यील्ड में तीसरे दिन अवधि के अनुसार अलग-अलग रुख दिखा। 3-वर्षीय यील्ड इंट्राडे 3.750% तक गई, जिससे शॉर्ट-टर्म दरों की संवेदनशीलता दिखी। बाजार मौद्रिक नीति, महंगाई और बॉन्ड आपूर्ति को साथ देख रहा है। इसका असर लोन, कॉरपोरेट फंडिंग और बॉन्ड फंड पर पड़ेगा।",
+        "body": "तीसरे दिन सियोल बॉन्ड बाजार में दक्षिण कोरियाई सरकारी बॉन्ड यील्ड मिली-जुली रही। 3-वर्षीय यील्ड, जो शॉर्ट-टर्म बेंचमार्क मानी जाती है, इंट्राडे 3.750% पर पहुंची। निवेशक मौद्रिक नीति की दिशा और सरकारी बॉन्ड आपूर्ति को साथ-साथ परख रहे हैं। सभी अवधियों की यील्ड एक दिशा में नहीं चली, जिससे संकेत मिलता है कि अल्पकालिक दर अपेक्षाएं और लंबी अवधि की वृद्धि पर राय अलग हो रही है।\n\n## 3-वर्षीय यील्ड 3.750%\nदक्षिण कोरिया का 3-वर्षीय सरकारी बॉन्ड बैंक ऑफ कोरिया की नीति दर अपेक्षाओं को जल्दी दर्शाता है। 3.750% का स्तर दिखाता है कि बाजार केवल दर कटौती की उम्मीद पर नहीं चल रहा। महंगाई, वॉन में कमजोरी की आशंका और सरकारी बॉन्ड जारी करने का दबाव भी कीमतों में शामिल है। इस यील्ड के ऊंचे रहने से बैंक फंडिंग और कम अवधि के कॉरपोरेट बॉन्ड महंगे हो सकते हैं।\n\n## नीति और आपूर्ति में खिंचाव\nमिला-जुला रुख विरोधी कारकों से बना है। लगातार महंगाई यील्ड में गिरावट रोकती है। वहीं घरेलू मांग की कमजोरी और कंपनियों के निवेश में सुस्ती लंबी अवधि की यील्ड को तेज चढ़ने से रोकती है। बॉन्ड जारी करने की मात्रा, विदेशी निवेशकों का फ्यूचर्स कारोबार और वॉन-डॉलर विनिमय दर भी अवधि आधारित फर्क बढ़ा रहे हैं।\n\n## परिवारों और कंपनियों पर असर\nसरकारी बॉन्ड यील्ड का असर आम वित्तीय लागतों पर पड़ता है। 3-वर्षीय यील्ड बैंक फंडिंग, फिक्स्ड मॉर्गेज, कॉरपोरेट बॉन्ड इश्यू और बॉन्ड फंड मूल्यांकन को प्रभावित करती है। यील्ड ऊंची रही तो परिवारों की ब्याज लागत और कंपनियों की रीफाइनेंसिंग लागत बढ़ सकती है। आगे महंगाई आंकड़े, नीति संकेत और बॉन्ड नीलामी मांग अहम रहेंगे।",
+        "keywords": [
+          "कोरियाई बॉन्ड यील्ड",
+          "3-वर्षीय बॉन्ड",
+          "कोरिया बॉन्ड बाजार",
+          "सरकारी बॉन्ड यील्ड",
+          "बैंक ऑफ कोरिया",
+          "लोन दरें",
+          "कॉरपोरेट बॉन्ड",
+          "वॉन",
+          "कोरियाई सरकारी बॉन्ड"
+        ],
+        "faq": [
+          {
+            "q": "3-वर्षीय यील्ड 3.750% का क्या मतलब है?",
+            "a": "इसका मतलब है कि बाजार में दक्षिण कोरिया के 3-वर्षीय सरकारी बॉन्ड पर वार्षिक यील्ड इंट्राडे 3.750% तक पहुंची।"
+          },
+          {
+            "q": "यील्ड का मिला-जुला रुख क्यों अहम है?",
+            "a": "यह दिखाता है कि बाजार दरों, वृद्धि, महंगाई और आपूर्ति को अलग-अलग अवधियों में अलग तरह से देख रहा है।"
+          },
+          {
+            "q": "निवेशकों को क्या देखना चाहिए?",
+            "a": "3-वर्षीय यील्ड, बैंक ऑफ कोरिया के संकेत, बॉन्ड नीलामी मांग और वॉन-डॉलर विनिमय दर।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Imbal Hasil Obligasi Korea Beragam, Tenor 3 Tahun Sentuh 3,750%",
+        "excerpt": "Imbal hasil obligasi pemerintah Korea Selatan bergerak beragam pada tanggal 3, dengan tenor tiga tahun mencapai 3,750% intraday di tengah ekspektasi kebijakan dan pasokan.",
+        "metaDescription": "Imbal hasil obligasi pemerintah Korea Selatan bergerak beragam, tenor tiga tahun menyentuh 3,750%. Dampaknya pada kredit, perusahaan, dan dana obligasi.",
+        "summary": "Imbal hasil obligasi pemerintah Korea Selatan bergerak berbeda menurut tenor. Tenor tiga tahun mencapai 3,750% intraday, menunjukkan sensitivitas bagian pendek kurva. Pasar menilai kebijakan moneter, inflasi, dan pasokan obligasi sekaligus. Pergerakan ini memengaruhi suku bunga pinjaman, pendanaan perusahaan, dan dana obligasi.",
+        "body": "Imbal hasil obligasi pemerintah Korea Selatan bergerak beragam di pasar obligasi Seoul pada tanggal 3. Yield tenor tiga tahun, acuan penting untuk bagian pendek kurva, menyentuh 3,750% intraday ketika investor menilai jalur kebijakan moneter dan kondisi pasokan obligasi. Pergerakan yang tidak seragam antartenor menunjukkan bahwa ekspektasi suku bunga jangka pendek dan pandangan pertumbuhan jangka lebih panjang mulai terpisah.\n\n## Tenor tiga tahun di 3,750%\nObligasi pemerintah Korea tenor tiga tahun biasanya cepat mencerminkan ekspektasi terhadap kebijakan Bank of Korea. Level 3,750% menunjukkan pasar tidak hanya bergerak karena harapan pemangkasan suku bunga. Risiko inflasi, potensi pelemahan won, dan beban penerbitan obligasi juga masuk dalam harga. Yield yang lebih tinggi dapat menekan biaya pendanaan bank dan obligasi korporasi jangka pendek.\n\n## Kebijakan dan pasokan saling tarik\nNada beragam muncul dari faktor yang berlawanan. Inflasi yang bertahan membatasi penurunan yield. Pada saat yang sama, permintaan domestik yang melemah dan investasi perusahaan yang lambat menahan kenaikan yield tenor panjang. Volume penerbitan, transaksi futures oleh investor asing, dan kurs won-dolar memperbesar perbedaan antartenor.\n\n## Dampak bagi rumah tangga dan perusahaan\nPergerakan yield obligasi pemerintah berdampak pada biaya keuangan riil. Yield tiga tahun memengaruhi pendanaan bank, KPR berbunga tetap, penerbitan obligasi korporasi, dan valuasi dana obligasi. Jika yield tetap tinggi, beban bunga rumah tangga dan biaya refinancing perusahaan dapat meningkat. Pasar akan memantau data inflasi, sinyal suku bunga, dan permintaan lelang obligasi.",
+        "keywords": [
+          "imbal hasil obligasi Korea",
+          "obligasi tiga tahun",
+          "pasar obligasi Korea",
+          "yield obligasi pemerintah",
+          "Bank of Korea",
+          "suku bunga pinjaman",
+          "obligasi korporasi",
+          "won",
+          "Imbal Hasil Obligasi"
+        ],
+        "faq": [
+          {
+            "q": "Apa arti yield tiga tahun 3,750%?",
+            "a": "Artinya imbal hasil tahunan yang diminta pasar untuk obligasi pemerintah Korea Selatan tenor tiga tahun mencapai 3,750% intraday."
+          },
+          {
+            "q": "Mengapa pergerakan yield beragam penting?",
+            "a": "Itu menunjukkan pasar menilai suku bunga, pertumbuhan, inflasi, dan pasokan secara berbeda pada tiap tenor."
+          },
+          {
+            "q": "Apa yang perlu dipantau investor?",
+            "a": "Yield tiga tahun, sinyal Bank of Korea, permintaan lelang obligasi, dan kurs won terhadap dolar."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "527267663459",
     "slug": "양천구-중소기업소상공인에-연-08-최저금리-융자-지원-705805",
     "channelId": "MACRO",
@@ -21772,761 +22518,6 @@
           {
             "q": "Bagaimana otomasi dapat memengaruhi pekerjaan?",
             "a": "Otomasi dapat mengurangi tugas berulang atau berisiko dan meningkatkan kebutuhan pada operasi alat, kualitas dan pemeriksaan data."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "6fd3db71e2fc",
-    "slug": "환율부담안전선호-국고채-금리-혼조3년물-연-3722종합-860449",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-06-27T08:39:45.208Z",
-    "updatedAt": "2026-06-27T08:39:45.208Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260626138451008",
-    "titleFingerprint": "1330b1d6203be7f63e644700f56f90ab3c9f65ce",
-    "dedupKeys": [
-      "6fd3db71e2fc4ad19658fc42c3823a4f0fdbb2ec",
-      "1330b1d6203be7f63e644700f56f90ab3c9f65ce",
-      "98be54b12b8d3874df7a90dcf99ae61c8fd94b18"
-    ],
-    "imageUrl": "/images/articles/6fd3db71e2fc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국고채 금리 혼조, 환율 부담 속 안전자산 선호에 3년물 연 3.722%",
-        "excerpt": "26일 국내 채권시장에서 환율 부담과 증시 급락에 따른 안전자산 선호가 맞물리며 국고채 금리가 만기별로 엇갈렸고, 3년물 금리는 연 3.722%를 기록했다.",
-        "metaDescription": "환율 부담과 증시 급락에 따른 안전자산 선호가 겹치며 26일 국고채 금리가 혼조세를 보였다. 3년물 국고채 금리는 연 3.722%로 마감했다.",
-        "summary": "26일 국고채 금리는 환율 부담과 안전자산 선호가 동시에 작용하며 혼조세를 나타냈다. 증시 급락은 채권 매수 심리를 자극했지만, 원화 약세 부담은 금리 하락 폭을 제한했다. 3년물 국고채 금리는 연 3.722%를 기록하며 국내 자금시장 전반의 경계감을 드러냈다.",
-        "body": "국고채 금리가 26일 환율 부담과 안전자산 선호라는 상반된 재료 속에 만기별 혼조세를 보였다. 국내 증시가 급락하면서 위험자산 회피 심리가 커졌고, 이 자금 일부가 상대적으로 안전한 국고채 시장으로 이동했다. 다만 원화 약세에 따른 환율 부담이 외국인 투자 심리와 물가 경계감을 동시에 자극하면서 금리 하락은 제한됐다. 이날 3년물 국고채 금리는 연 3.722%를 기록했다.\n\n## 환율 부담과 안전선호가 맞선 하루\n채권시장은 통상 증시 급락 국면에서 매수세가 유입되기 쉽다. 주식 변동성이 커지면 기관과 개인 자금은 손실 방어 성격이 강한 채권, 예금, 머니마켓 상품으로 이동한다. 이날도 위험 회피 수요가 국고채 가격을 지지했다. 그러나 환율 부담은 다른 방향으로 작용했다. 원화 가치가 흔들리면 해외 투자자 입장에서는 원화 채권 투자 수익이 환차손으로 희석될 수 있다. 수입물가와 물가 기대가 높아질 가능성도 있어 국내 금리에는 하방 압력을 약화시키는 요인이 된다.\n\n## 3년물 연 3.722%, 단기물 민감도 확대\n이날 시장의 핵심 수치는 3년물 국고채 금리 연 3.722%다. 3년물은 국내 채권시장에서 통화정책 기대, 단기 자금 사정, 기관의 포트폴리오 조정이 빠르게 반영되는 대표 만기다. 금리 혼조는 투자자들이 한 방향으로 베팅하기보다 환율, 주가, 경기 둔화 가능성, 안전자산 수요를 동시에 저울질했다는 뜻이다. 채권 가격은 금리와 반대로 움직이므로 금리 하락 구간에서는 보유 채권 평가이익이 커질 수 있지만, 환율 불안이 이어지면 변동성 관리가 더 중요해진다.\n\n## 국내 투자자와 자금시장 영향\n국고채 금리 움직임은 개인 투자자의 채권형 펀드 수익률뿐 아니라 은행권 대출금리, 회사채 발행 비용, 연기금과 보험사의 자산배분에도 영향을 준다. 3년물 금리가 높은 수준에서 등락하면 기업은 단기 조달 비용을 더 민감하게 계산하고, 가계는 고정금리 대출과 예금 금리의 상대 매력을 비교하게 된다. 앞으로 시장은 원·달러 환율 안정 여부와 증시 변동성 지속 여부를 함께 확인할 전망이다. 증시 불안이 이어지면 국고채 선호가 유지될 수 있지만, 환율 부담이 커질 경우 금리 하락 속도는 다시 제한될 가능성이 크다.",
-        "keywords": [
-          "국고채 금리",
-          "3년물 국고채",
-          "연 3.722%",
-          "환율 부담",
-          "안전자산 선호",
-          "채권시장",
-          "증시 급락",
-          "원화 약세",
-          "국내 금리",
-          "국고채 금리 혼조, 환율 부담 속 안"
-        ],
-        "faq": [
-          {
-            "q": "26일 3년물 국고채 금리는 얼마였나?",
-            "a": "3년물 국고채 금리는 연 3.722%를 기록했다."
-          },
-          {
-            "q": "국고채 금리가 혼조세를 보인 이유는 무엇인가?",
-            "a": "환율 부담이 금리 하락을 제한한 가운데 증시 급락으로 안전자산 선호가 커지며 만기별 움직임이 엇갈렸다."
-          },
-          {
-            "q": "국고채 금리 혼조가 국내 투자자에게 주는 의미는 무엇인가?",
-            "a": "채권형 펀드, 예금·대출금리, 회사채 발행 비용에 영향을 줄 수 있어 환율과 증시 변동성을 함께 살펴야 한다."
-          }
-        ]
-      },
-      "en": {
-        "title": "Korean Treasury Yields Mixed as FX Strain Meets Safety Demand, 3-Year at 3.722%",
-        "excerpt": "On the 26th, Korean Treasury yields moved unevenly as currency pressure collided with safe-haven demand triggered by a sharp stock-market selloff, with the three-year yield at 3.722%.",
-        "metaDescription": "Korean Treasury yields were mixed on the 26th as currency pressure and safe-haven demand from a stock selloff pulled the market in opposite directions. The three-year yield stood at 3.722%.",
-        "summary": "Korean Treasury yields were mixed on the 26th as foreign-exchange pressure and safety demand acted at the same time. A sharp fall in equities supported bond buying, while won weakness limited the decline in yields. The three-year Treasury yield recorded 3.722%, showing caution across domestic funding markets.",
-        "body": "Korean Treasury yields ended mixed on the 26th as currency-market strain and safe-haven demand pulled investors in opposite directions. A steep drop in local stocks increased risk aversion, sending part of the money flow toward government bonds. Yet pressure from a weaker won restrained the fall in yields by raising concern over foreign investor returns and inflation expectations. The three-year Korean Treasury yield stood at 3.722%.\n\n## FX pressure versus safety demand\nBond markets often attract buyers when equities fall sharply. As stock volatility rises, institutional and retail investors tend to shift toward assets with stronger capital-preservation features, including government bonds, deposits and money-market products. That pattern supported Korean Treasury prices on the day. Currency pressure, however, worked the other way. When the won weakens, foreign investors can see local-currency bond gains reduced by exchange-rate losses. It can also raise concern over import prices and the inflation path, weakening downward pressure on domestic yields.\n\n## Three-year yield at 3.722%\nThe key market figure was the three-year Treasury yield at 3.722%. The three-year maturity is closely watched in Korea because it quickly reflects monetary-policy expectations, short-term funding conditions and portfolio adjustments by institutions. Mixed yield moves suggest investors avoided a one-way position and instead weighed the exchange rate, stock weakness, growth concerns and demand for safety together. Since bond prices move inversely to yields, falling yields can lift mark-to-market gains, but currency volatility keeps risk management central.\n\n## Impact on Korean investors\nTreasury yield moves affect bond-fund returns, bank lending rates, corporate bond issuance costs and asset allocation by pension funds and insurers. If the three-year yield remains volatile at an elevated level, companies must manage short-term funding costs more carefully, while households compare the appeal of fixed-rate loans and deposit rates. The market will next focus on whether the won stabilizes and whether equity volatility persists. Continued stock weakness may support government-bond demand, but stronger currency pressure could again limit the pace of any yield decline.",
-        "keywords": [
-          "Korean Treasury yields",
-          "three-year Treasury",
-          "3.722% yield",
-          "currency pressure",
-          "safe-haven demand",
-          "bond market",
-          "stock selloff",
-          "won weakness",
-          "Korea rates",
-          "Korean Treasury Yiel"
-        ],
-        "faq": [
-          {
-            "q": "What was the three-year Korean Treasury yield on the 26th?",
-            "a": "The three-year Korean Treasury yield recorded 3.722%."
-          },
-          {
-            "q": "Why were Korean Treasury yields mixed?",
-            "a": "Currency pressure limited yield declines, while a sharp stock-market fall increased safe-haven demand, leaving maturities moving unevenly."
-          },
-          {
-            "q": "What does this mean for Korean investors?",
-            "a": "It can affect bond funds, deposit and lending rates, and corporate funding costs, making exchange-rate and equity volatility important to monitor."
-          }
-        ]
-      },
-      "ja": {
-        "title": "韓国国債利回りまちまち、為替負担と安全資産選好で3年物3.722%",
-        "excerpt": "韓国国債利回りは為替負担と安全資産選好が交錯し、3年物は3.722%で方向感の乏しい展開となった。",
-        "metaDescription": "韓国国債利回りは為替負担と安全資産選好が交錯し、3年物は3.722%で方向感の乏しい展開となった。",
-        "summary": "韓国国債利回りは為替負担と安全資産選好が交錯し、3年物は3.722%で方向感の乏しい展開となった。",
-        "body": "26日の韓国国債利回りは、為替負担と安全資産選好という相反する材料の中で年限別にまちまちとなった。国内株式市場が急落し、投資家のリスク回避姿勢が強まったことで、資金の一部は相対的に安全な国債市場へ向かった。一方、ウォン安による為替負担は海外投資家の採算や物価への警戒を高め、利回り低下を抑えた。3年物韓国国債利回りは3.722%を記録した。\n\n## 為替負担と安全志向が交錯\n債券市場では、株価が大きく下落する局面で買いが入りやすい。株式の変動性が高まると、機関投資家や個人資金は損失防御の性格が強い国債、預金、マネーマーケット商品へ移りやすい。この流れが国債価格を支えた。ただし為替負担は逆方向に働いた。ウォンが弱含むと、海外投資家はウォン建て債券の収益を為替差損で相殺される可能性がある。輸入物価やインフレ期待への警戒も国内金利の低下圧力を弱める。\n\n## 3年物3.722%の意味\n市場の中心となった数値は3年物利回り3.722%だ。3年物は韓国債券市場で金融政策期待、短期資金環境、機関投資家のポートフォリオ調整を素早く映す代表的な年限である。利回りがまちまちだったことは、投資家が一方向に傾かず、為替、株価、景気鈍化懸念、安全資産需要を同時に見極めたことを示す。債券価格は利回りと反対に動くため、利回り低下は評価益につながるが、為替不安が続けば変動性管理が重要になる。\n\n## 国内市場への影響\n韓国国債利回りは、債券型ファンドの収益率だけでなく、銀行貸出金利、社債発行費用、年金基金や保険会社の資産配分にも影響する。3年物利回りが高めの水準で上下すれば、企業は短期調達コストをより慎重に計算し、家計は固定金利ローンと預金金利の魅力を比較することになる。今後の市場はウォン相場の安定と株式市場の変動性を同時に確認する展開となる。株安が続けば国債選好は維持されるが、為替負担が強まれば利回り低下の速度は制限されやすい。\n\n今後の確認点は、為替市場の安定、外国人債券フロー、韓国銀行の金利スタンスだ。3年物が3.7%台にとどまる間は、短期金利の反転期待と景気下支え期待が競合していると解釈できる。もしウォン安が続けば、国債への避難需要があっても長期ゾーンの利回りは下がりにくい。逆に株式の調整が深まり、物価圧力が落ち着けば、国内債券には再び評価益を狙う資金が入りやすくなる。\n\nしたがって債券投資家は利回りの絶対水準だけでなく、年限間の傾きも見る必要がある。短期ゾーンが政策期待を先に動かし、長期ゾーンは財政と為替の不確実性を映すためだ。混合相場が続く局面では、方向性よりもデュレーション管理とヘッジ比率の調整が収益を左右しやすい。",
-        "keywords": [
-          "韓国国債利回り",
-          "3年物国債",
-          "3.722%",
-          "為替負担",
-          "安全資産選好",
-          "債券市場",
-          "株価急落",
-          "ウォン安",
-          "韓国金利",
-          "韓国国債利回りまちまち、為替負担と安全資"
-        ],
-        "faq": [
-          {
-            "q": "26日の3年物韓国国債利回りはいくらか。",
-            "a": "3年物韓国国債利回りは3.722%を記録した。"
-          },
-          {
-            "q": "韓国国債利回りがまちまちだった理由は何か。",
-            "a": "為替負担が利回り低下を抑える一方、株価急落で安全資産選好が強まり、年限別の動きが分かれた。"
-          },
-          {
-            "q": "国内投資家への影響は何か。",
-            "a": "債券型ファンド、預金・貸出金利、社債発行費用に影響するため、為替と株価変動を併せて見る必要がある。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "韩国国债收益率涨跌不一，汇率压力与避险需求并存，3年期报3.722%",
-        "excerpt": "韩国国债收益率在汇率压力与避险买盘之间拉锯，3年期报3.722%，期限表现分化。",
-        "metaDescription": "韩国国债收益率在汇率压力与避险买盘之间拉锯，3年期报3.722%，期限表现分化。",
-        "summary": "韩国国债收益率在汇率压力与避险买盘之间拉锯，3年期报3.722%，期限表现分化。",
-        "body": "26日韩国国债收益率在汇率压力与安全资产需求交织下按期限表现分化。国内股市急跌使风险回避情绪升温，部分资金转向相对安全的国债市场。不过，韩元走弱带来的汇率负担同时影响海外投资者收益预期，并加大对物价路径的警惕，限制了收益率下行空间。3年期韩国国债收益率报3.722%。\n\n## 汇率压力与避险买盘并行\n在股市大幅下跌时，债市通常更容易获得买盘。股票波动加大后，机构和个人资金往往转向国债、存款、货币市场产品等防御性资产。当天这一避险需求支撑了韩国国债价格。但汇率因素形成反向压力。韩元贬值时，海外投资者持有韩元债券的收益可能被汇兑损失削弱。进口价格和通胀预期也可能受到影响，从而减弱国内利率下行压力。\n\n## 3年期3.722%的市场含义\n当天最受关注的数据是3年期韩国国债收益率3.722%。3年期债券在韩国市场上能较快反映货币政策预期、短期资金状况和机构组合调整。收益率分化说明投资者并未押注单一方向，而是在汇率、股市、经济放缓可能性和避险需求之间进行权衡。债券价格与收益率反向变动，因此收益率下行有利于持仓估值，但汇率波动持续时，风险控制更为关键。\n\n## 对韩国市场的影响\n韩国国债收益率不仅影响债券基金收益，也会传导至银行贷款利率、企业债发行成本以及养老金和保险机构的资产配置。若3年期收益率在较高区间波动，企业会更敏感地评估短期融资成本，家庭也会比较固定利率贷款与存款利率的吸引力。接下来市场将同时关注韩元汇率能否稳定以及股市波动是否延续。若股市不安持续，国债需求可能维持；但若汇率压力加重，收益率下行速度仍可能受限。\n\n后续市场要看的，是韩元汇率能否稳定、外资债券流向是否改善，以及韩国银行对年内利率路径的表态。3年期收益率仍在3.7%附近，说明短端利率并未形成单边预期，而是在避险买盘、通胀顾虑和汇率压力之间反复平衡。如果韩元继续走弱，长端收益率未必容易回落；若股市调整加深且物价压力缓和，韩国国债则可能重新吸引追求估值修复的资金。\n\n因此，债券投资者不能只看收益率高低，还要同时看不同期限之间的曲线变化。短端更快反映政策预期，长端则更容易吸收财政与汇率不确定性。混合走势持续时，真正决定收益的往往不是方向押注，而是久期和对冲比例管理。\n\n因此接下来韩国债市大概率仍会在避险支撑与汇率掣肘之间摇摆，单边判断难度较高。\n\n这意味着短期内更合理的策略，可能是控制久期和分散期限，而不是押注收益率快速单边下行。",
-        "keywords": [
-          "韩国国债收益率",
-          "3年期国债",
-          "3.722%",
-          "汇率压力",
-          "避险需求",
-          "债券市场",
-          "股市急跌",
-          "韩元走弱",
-          "韩国利率",
-          "韩国国债收益率涨跌不一，汇率压力与避险需"
-        ],
-        "faq": [
-          {
-            "q": "26日3年期韩国国债收益率是多少？",
-            "a": "3年期韩国国债收益率为3.722%。"
-          },
-          {
-            "q": "韩国国债收益率为何走势分化？",
-            "a": "汇率压力限制收益率下行，而股市急跌增强避险需求，使不同期限国债表现不一。"
-          },
-          {
-            "q": "这对韩国投资者意味着什么？",
-            "a": "它会影响债券基金、存贷款利率和企业融资成本，因此需要同时关注汇率和股市波动。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Bonos soberanos coreanos mixtos por presión cambiaria y refugio; 3 años en 3,722%",
-        "excerpt": "El día 26, los rendimientos de los bonos soberanos coreanos se movieron de forma dispar por la presión cambiaria y la búsqueda de refugio tras la fuerte caída bursátil; el bono a tres años marcó 3,722%.",
-        "metaDescription": "Los rendimientos de los bonos soberanos coreanos fueron mixtos el día 26 por presión cambiaria y demanda de refugio. El bono a tres años cerró en 3,722%.",
-        "summary": "Los rendimientos de los bonos soberanos coreanos mostraron un comportamiento mixto el día 26, con presión cambiaria y demanda de activos seguros actuando a la vez. La caída de la bolsa favoreció la compra de bonos, pero la debilidad del won limitó el descenso de las tasas. El rendimiento a tres años se situó en 3,722%.",
-        "body": "Los rendimientos de los bonos soberanos coreanos terminaron mixtos el día 26, atrapados entre la presión del tipo de cambio y la demanda de activos seguros. La fuerte caída de la bolsa local elevó la aversión al riesgo y llevó parte del flujo hacia los bonos del Gobierno. Sin embargo, la debilidad del won limitó la caída de los rendimientos al aumentar la preocupación por el retorno de los inversores extranjeros y por la trayectoria de la inflación. El rendimiento del bono coreano a tres años quedó en 3,722%.\n\n## Presión cambiaria frente a refugio\nEl mercado de bonos suele recibir compras cuando las acciones caen con fuerza. Al aumentar la volatilidad bursátil, inversores institucionales y particulares tienden a moverse hacia instrumentos más defensivos, como bonos soberanos, depósitos y productos del mercado monetario. Ese patrón sostuvo los precios de los bonos coreanos. Pero la presión cambiaria actuó en sentido contrario. Si el won se debilita, los inversores extranjeros pueden ver reducida la rentabilidad de los bonos en moneda local por pérdidas cambiarias. También aumenta la atención sobre precios de importación e inflación, lo que reduce la presión bajista sobre las tasas internas.\n\n## Tres años en 3,722%\nLa cifra central fue el rendimiento del bono a tres años en 3,722%. Este vencimiento es clave en Corea porque refleja con rapidez las expectativas de política monetaria, las condiciones de financiación de corto plazo y los ajustes de cartera de las instituciones. El movimiento mixto indica que los inversores no tomaron una apuesta unidireccional, sino que evaluaron al mismo tiempo el tipo de cambio, la bolsa, el riesgo de desaceleración y la demanda de seguridad. Como los precios de los bonos se mueven en sentido contrario a los rendimientos, una baja de tasas puede mejorar las valoraciones, aunque la volatilidad cambiaria exige mayor control de riesgo.\n\n## Impacto para Corea\nLos rendimientos soberanos influyen en fondos de bonos, tasas bancarias de crédito, costos de emisión corporativa y asignación de activos de fondos de pensiones y aseguradoras. Si el rendimiento a tres años sigue oscilando en niveles elevados, las empresas calcularán con más cuidado sus costos de financiación y los hogares compararán préstamos a tasa fija con depósitos. El mercado observará ahora si el won se estabiliza y si continúa la volatilidad bursátil. La debilidad de las acciones puede sostener la demanda de bonos, pero una mayor presión cambiaria limitaría nuevas caídas de rendimiento.",
-        "keywords": [
-          "bonos soberanos coreanos",
-          "bono a tres años",
-          "3,722%",
-          "presión cambiaria",
-          "activos seguros",
-          "mercado de bonos",
-          "caída bursátil",
-          "debilidad del won",
-          "tasas de Corea",
-          "Bonos soberanos core"
-        ],
-        "faq": [
-          {
-            "q": "¿Cuál fue el rendimiento del bono coreano a tres años el día 26?",
-            "a": "El rendimiento del bono soberano coreano a tres años fue de 3,722%."
-          },
-          {
-            "q": "¿Por qué los rendimientos fueron mixtos?",
-            "a": "La presión cambiaria limitó la caída de las tasas, mientras la baja bursátil impulsó la demanda de refugio."
-          },
-          {
-            "q": "¿Qué implica para los inversores en Corea?",
-            "a": "Puede afectar fondos de bonos, tasas de depósitos y créditos, y costos de financiación corporativa, por lo que conviene vigilar tipo de cambio y bolsa."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Juros dos títulos coreanos ficam mistos com câmbio e busca por segurança; 3 anos a 3,722%",
-        "excerpt": "No dia 26, os juros dos títulos públicos coreanos oscilaram de forma mista diante da pressão cambial e da busca por segurança após a forte queda das ações; o papel de três anos marcou 3,722%.",
-        "metaDescription": "Os juros dos títulos públicos coreanos ficaram mistos no dia 26, com pressão cambial e demanda por segurança. O título de três anos registrou 3,722%.",
-        "summary": "Os juros dos títulos públicos coreanos tiveram desempenho misto no dia 26, com pressão cambial e preferência por ativos seguros atuando simultaneamente. A queda das ações favoreceu compras de títulos, mas a fraqueza do won limitou a baixa dos juros. O rendimento de três anos ficou em 3,722%.",
-        "body": "Os juros dos títulos públicos coreanos terminaram mistos no dia 26, entre a pressão do câmbio e a demanda por ativos seguros. A forte queda do mercado acionário local elevou a aversão ao risco e direcionou parte dos recursos para os títulos do governo. Ao mesmo tempo, a fraqueza do won impôs cautela ao mercado, pois pode reduzir o retorno de investidores estrangeiros e elevar preocupações com inflação. O rendimento do título coreano de três anos ficou em 3,722%.\n\n## Câmbio e segurança em direções opostas\nO mercado de títulos costuma receber fluxo comprador quando as ações caem com força. Com a volatilidade da bolsa, investidores institucionais e pessoas físicas tendem a buscar instrumentos mais defensivos, como títulos soberanos, depósitos e produtos de mercado monetário. Esse movimento apoiou os preços dos títulos coreanos. A pressão cambial, porém, atuou no sentido contrário. Com o won mais fraco, investidores estrangeiros podem ter parte do ganho em títulos corroída por perdas cambiais. A alta potencial de preços importados e expectativas de inflação também reduz a pressão de queda sobre os juros domésticos.\n\n## Três anos a 3,722%\nO principal número do dia foi o rendimento de três anos em 3,722%. Esse vencimento é acompanhado de perto na Coreia por refletir rapidamente expectativas de política monetária, condições de financiamento de curto prazo e ajustes de carteira de instituições. A movimentação mista mostra que os investidores evitaram uma aposta única e avaliaram simultaneamente câmbio, bolsa, risco de desaceleração e demanda por segurança. Como o preço dos títulos se move no sentido oposto ao rendimento, juros menores podem gerar ganhos de marcação a mercado, mas a volatilidade cambial exige gestão de risco.\n\n## Efeito no mercado coreano\nOs juros dos títulos públicos afetam fundos de renda fixa, taxas bancárias de empréstimos, custo de emissão de dívida corporativa e alocação de fundos de pensão e seguradoras. Se o rendimento de três anos oscilar em nível elevado, empresas tendem a calcular com mais rigor o custo de captação, enquanto famílias comparam empréstimos de taxa fixa e depósitos. O mercado observará agora a estabilidade do won e a continuidade da volatilidade das ações. A queda da bolsa pode sustentar a demanda por títulos, mas uma pressão cambial maior pode limitar novas baixas nos juros.",
-        "keywords": [
-          "títulos públicos coreanos",
-          "título de três anos",
-          "3,722%",
-          "pressão cambial",
-          "ativos seguros",
-          "mercado de títulos",
-          "queda das ações",
-          "won fraco",
-          "juros da Coreia",
-          "Juros dos títulos co"
-        ],
-        "faq": [
-          {
-            "q": "Qual foi o rendimento do título coreano de três anos no dia 26?",
-            "a": "O rendimento do título público coreano de três anos foi de 3,722%."
-          },
-          {
-            "q": "Por que os juros ficaram mistos?",
-            "a": "A pressão cambial limitou a queda dos juros, enquanto a forte baixa das ações aumentou a demanda por ativos seguros."
-          },
-          {
-            "q": "O que isso significa para investidores na Coreia?",
-            "a": "Pode afetar fundos de renda fixa, taxas de depósitos e empréstimos e custos de captação corporativa, exigindo atenção ao câmbio e à bolsa."
-          }
-        ]
-      },
-      "de": {
-        "title": "Koreanische Staatsanleiherenditen uneinheitlich: Wechselkursdruck, Flucht in Sicherheit, 3 Jahre bei 3,722%",
-        "excerpt": "Am 26. bewegten sich koreanische Staatsanleiherenditen uneinheitlich, da Wechselkursdruck und sichere Nachfrage nach dem Aktienrutsch zusammentrafen; die dreijährige Rendite lag bei 3,722%.",
-        "metaDescription": "Koreanische Staatsanleiherenditen waren am 26. uneinheitlich. Wechselkursdruck begrenzte Rückgänge, sichere Nachfrage stützte Anleihen; 3 Jahre bei 3,722%.",
-        "summary": "Koreanische Staatsanleiherenditen zeigten am 26. ein uneinheitliches Bild, weil Wechselkursdruck und Sicherheitsnachfrage gleichzeitig wirkten. Der starke Rückgang am Aktienmarkt unterstützte Käufe von Staatsanleihen, während die Won-Schwäche den Renditerückgang begrenzte. Die dreijährige Rendite lag bei 3,722%.",
-        "body": "Koreanische Staatsanleiherenditen schlossen am 26. uneinheitlich, weil Wechselkursdruck und Nachfrage nach sicheren Anlagen gegeneinander wirkten. Der deutliche Rückgang am heimischen Aktienmarkt erhöhte die Risikoaversion und lenkte einen Teil der Mittel in Staatsanleihen. Die Schwäche des Won begrenzte jedoch den Renditerückgang, da sie Sorgen über Fremdwährungsrenditen ausländischer Investoren und den Inflationspfad verstärkte. Die Rendite dreijähriger koreanischer Staatsanleihen lag bei 3,722%.\n\n## Wechselkursdruck trifft Sicherheitsnachfrage\nAnleihemärkte ziehen bei kräftigen Aktienverlusten häufig Käufer an. Wenn die Volatilität an den Börsen steigt, schichten institutionelle und private Anleger eher in defensivere Anlagen wie Staatsanleihen, Einlagen und Geldmarktprodukte um. Dieser Fluss stützte die Preise koreanischer Staatsanleihen. Der Wechselkurs wirkte jedoch entgegen. Ein schwächerer Won kann die Rendite lokaler Anleihen für ausländische Investoren durch Währungsverluste schmälern. Zugleich können Importpreise und Inflationserwartungen stärker in den Fokus rücken, was den Abwärtsdruck auf heimische Zinsen verringert.\n\n## Dreijährige Rendite bei 3,722%\nDie zentrale Kennzahl war die dreijährige Rendite von 3,722%. Diese Laufzeit gilt in Korea als wichtiger Gradmesser für geldpolitische Erwartungen, kurzfristige Finanzierungsbedingungen und Portfolioanpassungen institutioneller Anleger. Die uneinheitliche Bewegung zeigt, dass Investoren keine klare Einbahnposition eingingen, sondern Wechselkurs, Aktienmarkt, Wachstumssorgen und Sicherheitsnachfrage zugleich abwogen. Da Anleihepreise und Renditen gegenläufig sind, können sinkende Renditen Bewertungsgewinne bringen, doch Wechselkursvolatilität macht Risikomanagement entscheidend.\n\n## Bedeutung für den koreanischen Markt\nStaatsanleiherenditen beeinflussen Rentenfonds, Bankkreditzinsen, Kosten von Unternehmensanleihen sowie die Allokation von Pensionsfonds und Versicherern. Bleibt die dreijährige Rendite auf erhöhtem Niveau schwankungsanfällig, müssen Unternehmen kurzfristige Finanzierungskosten genauer kalkulieren, während Haushalte Festzinsdarlehen und Einlagenzinsen vergleichen. Der Markt wird nun prüfen, ob sich der Won stabilisiert und ob die Aktienvolatilität anhält. Fortgesetzte Schwäche bei Aktien kann die Nachfrage nach Staatsanleihen stützen, stärkerer Wechselkursdruck dürfte weitere Renditerückgänge aber begrenzen.",
-        "keywords": [
-          "koreanische Staatsanleihen",
-          "dreijährige Rendite",
-          "3,722%",
-          "Wechselkursdruck",
-          "sichere Anlagen",
-          "Anleihemarkt",
-          "Aktienrutsch",
-          "Won-Schwäche",
-          "Korea-Zinsen",
-          "Koreanische Staatsan"
-        ],
-        "faq": [
-          {
-            "q": "Wie hoch war die dreijährige koreanische Staatsanleiherendite am 26.?",
-            "a": "Die dreijährige koreanische Staatsanleiherendite lag bei 3,722%."
-          },
-          {
-            "q": "Warum waren die Renditen uneinheitlich?",
-            "a": "Wechselkursdruck begrenzte Renditerückgänge, während der starke Aktienrückgang die Nachfrage nach sicheren Anlagen erhöhte."
-          },
-          {
-            "q": "Was bedeutet das für Anleger in Korea?",
-            "a": "Es kann Rentenfonds, Einlagen- und Kreditzinsen sowie Unternehmensfinanzierungskosten beeinflussen; Wechselkurs und Aktienvolatilität bleiben wichtig."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Taux souverains coréens contrastés: change sous pression, refuge recherché, 3 ans à 3,722%",
-        "excerpt": "Le 26, les rendements des obligations souveraines coréennes ont évolué en ordre dispersé, entre pression sur le won et recherche de sécurité après la chute des actions; le trois ans a atteint 3,722%.",
-        "metaDescription": "Les rendements souverains coréens ont été contrastés le 26, entre pression de change et demande de refuge. Le rendement à trois ans s’est établi à 3,722%.",
-        "summary": "Les rendements des obligations souveraines coréennes ont été contrastés le 26, sous l’effet simultané de la pression de change et de la demande d’actifs sûrs. La chute des actions a soutenu les achats d’obligations, mais la faiblesse du won a limité la baisse des taux. Le rendement à trois ans a atteint 3,722%.",
-        "body": "Les rendements des obligations souveraines coréennes ont terminé en ordre dispersé le 26, pris entre la pression de change et la recherche d’actifs sûrs. La forte baisse du marché actions local a renforcé l’aversion au risque et dirigé une partie des flux vers les obligations d’État. Mais la faiblesse du won a limité la détente des rendements en alimentant les inquiétudes sur le rendement des investisseurs étrangers et sur l’inflation. Le rendement de l’obligation coréenne à trois ans s’est établi à 3,722%.\n\n## Change et refuge s’opposent\nLe marché obligataire attire souvent des achats lorsque les actions reculent fortement. Quand la volatilité boursière augmente, les investisseurs institutionnels et particuliers privilégient davantage les actifs défensifs, comme les obligations d’État, les dépôts et les produits monétaires. Cette demande a soutenu les prix des obligations coréennes. Le change a toutefois pesé en sens inverse. Un won plus faible peut réduire le rendement des obligations en monnaie locale pour les investisseurs étrangers par l’effet des pertes de change. Il peut aussi raviver l’attention portée aux prix importés et aux anticipations d’inflation, ce qui limite la pression baissière sur les taux domestiques.\n\n## Trois ans à 3,722%\nLe chiffre central du jour est le rendement à trois ans, à 3,722%. Cette échéance est suivie de près en Corée car elle reflète rapidement les attentes de politique monétaire, les conditions de financement de court terme et les ajustements de portefeuille des institutions. Le mouvement contrasté montre que les investisseurs n’ont pas pris de position unidirectionnelle et ont évalué simultanément change, actions, risque de ralentissement et besoin de sécurité. Comme les prix obligataires évoluent à l’inverse des rendements, une baisse des taux peut créer des gains de valorisation, mais la volatilité du change rend la gestion du risque essentielle.\n\n## Effets pour le marché coréen\nLes rendements souverains influencent les fonds obligataires, les taux bancaires de crédit, le coût d’émission des entreprises et l’allocation des fonds de pension et assureurs. Si le rendement à trois ans continue d’osciller à un niveau élevé, les entreprises calculeront plus finement leurs coûts de financement, tandis que les ménages compareront prêts à taux fixe et taux de dépôt. Le marché surveillera désormais la stabilisation du won et la persistance de la volatilité boursière. Une faiblesse prolongée des actions peut soutenir la demande d’obligations, mais une pression accrue sur le change limiterait de nouvelles baisses de rendement.",
-        "keywords": [
-          "obligations souveraines coréennes",
-          "rendement à trois ans",
-          "3,722%",
-          "pression de change",
-          "actifs sûrs",
-          "marché obligataire",
-          "chute des actions",
-          "faiblesse du won",
-          "taux coréens",
-          "Taux souverains coré"
-        ],
-        "faq": [
-          {
-            "q": "Quel était le rendement coréen à trois ans le 26?",
-            "a": "Le rendement de l’obligation souveraine coréenne à trois ans s’est établi à 3,722%."
-          },
-          {
-            "q": "Pourquoi les rendements ont-ils été contrastés?",
-            "a": "La pression de change a limité la baisse des taux, tandis que la chute des actions a renforcé la demande d’actifs sûrs."
-          },
-          {
-            "q": "Quelles conséquences pour les investisseurs coréens?",
-            "a": "Les fonds obligataires, les taux de dépôt et de crédit, ainsi que les coûts de financement des entreprises peuvent être affectés."
-          }
-        ]
-      },
-      "ar": {
-        "title": "عوائد السندات الكورية تتباين مع ضغط العملة والطلب الآمن، وثلاث سنوات عند 3.722%",
-        "excerpt": "في 26 من الشهر، تحركت عوائد السندات الحكومية الكورية بشكل متباين مع تداخل ضغط سعر الصرف وطلب الملاذ الآمن بعد هبوط الأسهم، وسجل عائد الثلاث سنوات 3.722%.",
-        "metaDescription": "تباينت عوائد السندات الحكومية الكورية في 26 من الشهر مع ضغط العملة وطلب الملاذ الآمن. بلغ عائد السند لأجل ثلاث سنوات 3.722%.",
-        "summary": "أظهرت عوائد السندات الحكومية الكورية تباينا في 26 من الشهر، مع تأثير متزامن لضغط سعر الصرف والبحث عن الأمان. هبوط الأسهم دعم شراء السندات، لكن ضعف الوون حد من تراجع العوائد. بلغ عائد السند لأجل ثلاث سنوات 3.722%، ما يعكس حذرا في سوق التمويل المحلية.",
-        "body": "أنهت عوائد السندات الحكومية الكورية تعاملات 26 من الشهر على تباين، وسط عاملين متعاكسين هما ضغط سعر الصرف والطلب على الأصول الآمنة. الهبوط الحاد في سوق الأسهم المحلية رفع تجنب المخاطر ودفع جزءا من السيولة نحو السندات الحكومية. لكن ضعف الوون حد من تراجع العوائد، لأنه يزيد القلق بشأن عوائد المستثمرين الأجانب وبشأن مسار التضخم. بلغ عائد السند الحكومي الكوري لأجل ثلاث سنوات 3.722%.\n\n## ضغط العملة مقابل طلب الأمان\nعادة ما تجذب أسواق السندات مشترين عندما تهبط الأسهم بقوة. ومع ارتفاع تقلبات الأسهم، تميل أموال المؤسسات والأفراد إلى أدوات أكثر دفاعية مثل السندات الحكومية والودائع ومنتجات سوق النقد. هذا الاتجاه دعم أسعار السندات الكورية. لكن ضغط العملة عمل في الاتجاه الآخر. عندما يضعف الوون، قد تتآكل مكاسب المستثمر الأجنبي في السندات المحلية بسبب خسائر الصرف. كما يمكن أن تزداد المخاوف من أسعار الواردات وتوقعات التضخم، ما يضعف ضغط انخفاض الفائدة المحلية.\n\n## عائد الثلاث سنوات عند 3.722%\nالرقم الأبرز كان عائد السند لأجل ثلاث سنوات عند 3.722%. هذا الأجل مهم في كوريا لأنه يعكس بسرعة توقعات السياسة النقدية وظروف التمويل القصير الأجل وتعديلات محافظ المؤسسات. التباين في العوائد يعني أن المستثمرين لم يتجهوا إلى رهان واحد، بل وازنوا بين سعر الصرف والأسهم واحتمالات تباطؤ النمو والطلب على الأمان. وبما أن أسعار السندات تتحرك عكس العوائد، فإن انخفاض العائد قد يدعم مكاسب التقييم، لكن تقلب العملة يجعل إدارة المخاطر ضرورية.\n\n## الأثر على السوق الكورية\nتحركات عوائد السندات الحكومية تؤثر في صناديق السندات، وفوائد القروض المصرفية، وتكلفة إصدار ديون الشركات، وتوزيع أصول صناديق التقاعد وشركات التأمين. إذا استمر عائد الثلاث سنوات في التحرك عند مستويات مرتفعة، ستدقق الشركات أكثر في تكلفة التمويل القصير الأجل، بينما تقارن الأسر بين القروض ذات الفائدة الثابتة وأسعار الودائع. سيراقب السوق الآن استقرار الوون واستمرار تقلب الأسهم. ضعف الأسهم قد يبقي الطلب على السندات، لكن زيادة ضغط العملة قد تحد من أي تراجع إضافي في العوائد.",
-        "keywords": [
-          "السندات الحكومية الكورية",
-          "عائد الثلاث سنوات",
-          "3.722%",
-          "ضغط العملة",
-          "الملاذ الآمن",
-          "سوق السندات",
-          "هبوط الأسهم",
-          "ضعف الوون",
-          "الفائدة الكورية",
-          "عوائد السندات الكوري"
-        ],
-        "faq": [
-          {
-            "q": "كم بلغ عائد السند الحكومي الكوري لأجل ثلاث سنوات في 26 من الشهر؟",
-            "a": "بلغ عائد السند الحكومي الكوري لأجل ثلاث سنوات 3.722%."
-          },
-          {
-            "q": "لماذا تباينت عوائد السندات الكورية؟",
-            "a": "ضغط العملة حد من تراجع العوائد، بينما أدى هبوط الأسهم إلى زيادة الطلب على الأصول الآمنة."
-          },
-          {
-            "q": "ماذا يعني ذلك للمستثمرين في كوريا؟",
-            "a": "قد يؤثر في صناديق السندات وفوائد الودائع والقروض وتكلفة تمويل الشركات، لذلك يبقى سعر الصرف وتقلب الأسهم مهمين."
-          }
-        ]
-      },
-      "hi": {
-        "title": "कोरियाई सरकारी बॉन्ड यील्ड मिश्रित, विनिमय दबाव और सुरक्षित मांग के बीच 3-वर्ष 3.722%",
-        "excerpt": "26 तारीख को कोरियाई बॉन्ड बाजार में विनिमय दर के दबाव और शेयर बाजार की तेज गिरावट से बढ़ी सुरक्षित निवेश मांग के बीच सरकारी बॉन्ड यील्ड मिश्रित रही, 3-वर्ष यील्ड 3.722% रही।",
-        "metaDescription": "26 तारीख को कोरियाई सरकारी बॉन्ड यील्ड मिश्रित रही। विनिमय दबाव ने गिरावट रोकी, जबकि शेयर बाजार की गिरावट ने सुरक्षित निवेश मांग बढ़ाई। 3-वर्ष यील्ड 3.722% रही।",
-        "summary": "26 तारीख को कोरियाई सरकारी बॉन्ड यील्ड पर विनिमय दर दबाव और सुरक्षित परिसंपत्तियों की मांग ने साथ-साथ असर डाला। शेयर बाजार की तेज गिरावट ने बॉन्ड खरीद को समर्थन दिया, लेकिन कमजोर वॉन ने यील्ड में गिरावट सीमित की। 3-वर्ष सरकारी बॉन्ड यील्ड 3.722% रही।",
-        "body": "26 तारीख को कोरियाई सरकारी बॉन्ड यील्ड विनिमय दर दबाव और सुरक्षित परिसंपत्तियों की मांग के बीच मिश्रित रही। घरेलू शेयर बाजार में तेज गिरावट से जोखिम से बचने की प्रवृत्ति बढ़ी और कुछ पूंजी अपेक्षाकृत सुरक्षित सरकारी बॉन्ड बाजार में गई। लेकिन कमजोर वॉन से पैदा विनिमय दर दबाव ने यील्ड में गिरावट को सीमित किया, क्योंकि इससे विदेशी निवेशकों के रिटर्न और मुद्रास्फीति को लेकर चिंता बढ़ती है। 3-वर्ष कोरियाई सरकारी बॉन्ड यील्ड 3.722% रही।\n\n## विनिमय दबाव और सुरक्षित मांग\nशेयर बाजार में तेज गिरावट के समय बॉन्ड बाजार में अक्सर खरीदारी आती है। जब इक्विटी अस्थिरता बढ़ती है, संस्थागत और खुदरा निवेशक सरकारी बॉन्ड, जमा और मनी मार्केट उत्पादों जैसे रक्षात्मक विकल्पों की ओर जाते हैं। इस मांग ने कोरियाई सरकारी बॉन्ड कीमतों को सहारा दिया। दूसरी ओर, विनिमय दर ने उलटा दबाव बनाया। वॉन कमजोर होने पर विदेशी निवेशकों को स्थानीय मुद्रा बॉन्ड से मिलने वाला लाभ विनिमय नुकसान से घट सकता है। आयात कीमतों और मुद्रास्फीति अपेक्षाओं पर चिंता भी घरेलू यील्ड पर नीचे की ओर दबाव को कमजोर करती है।\n\n## 3-वर्ष यील्ड 3.722%\nदिन का प्रमुख आंकड़ा 3-वर्ष यील्ड 3.722% रहा। कोरिया में यह अवधि महत्वपूर्ण मानी जाती है क्योंकि यह मौद्रिक नीति अपेक्षाओं, अल्पकालिक फंडिंग स्थिति और संस्थागत पोर्टफोलियो समायोजन को जल्दी दर्शाती है। यील्ड का मिश्रित रुख बताता है कि निवेशकों ने एकतरफा दांव नहीं लगाया, बल्कि विनिमय दर, शेयर बाजार, आर्थिक सुस्ती की संभावना और सुरक्षित मांग को साथ-साथ तौला। बॉन्ड कीमतें यील्ड के विपरीत चलती हैं, इसलिए यील्ड घटने पर मूल्यांकन लाभ हो सकता है, लेकिन मुद्रा अस्थिरता जोखिम प्रबंधन को अहम बनाती है।\n\n## कोरियाई बाजार पर असर\nसरकारी बॉन्ड यील्ड बॉन्ड फंड रिटर्न, बैंक ऋण दरों, कॉरपोरेट बॉन्ड जारी करने की लागत और पेंशन फंड व बीमा कंपनियों के एसेट आवंटन को प्रभावित करती है। यदि 3-वर्ष यील्ड ऊंचे स्तर पर अस्थिर रहती है, तो कंपनियां अल्पकालिक फंडिंग लागत को अधिक सावधानी से देखेंगी और परिवार फिक्स्ड रेट लोन तथा जमा दरों की तुलना करेंगे। आगे बाजार वॉन की स्थिरता और शेयर बाजार की अस्थिरता पर नजर रखेगा। शेयरों में कमजोरी जारी रहने पर सरकारी बॉन्ड मांग बनी रह सकती है, लेकिन विनिमय दबाव बढ़ने पर यील्ड में और गिरावट सीमित हो सकती है।",
-        "keywords": [
-          "कोरियाई सरकारी बॉन्ड",
-          "3-वर्ष बॉन्ड",
-          "3.722%",
-          "विनिमय दर दबाव",
-          "सुरक्षित निवेश",
-          "बॉन्ड बाजार",
-          "शेयर बाजार गिरावट",
-          "कमजोर वॉन",
-          "कोरिया ब्याज दर"
-        ],
-        "faq": [
-          {
-            "q": "26 तारीख को 3-वर्ष कोरियाई सरकारी बॉन्ड यील्ड कितनी रही?",
-            "a": "3-वर्ष कोरियाई सरकारी बॉन्ड यील्ड 3.722% रही।"
-          },
-          {
-            "q": "कोरियाई बॉन्ड यील्ड मिश्रित क्यों रही?",
-            "a": "विनिमय दर दबाव ने यील्ड में गिरावट सीमित की, जबकि शेयर बाजार की तेज गिरावट ने सुरक्षित परिसंपत्तियों की मांग बढ़ाई।"
-          },
-          {
-            "q": "कोरिया के निवेशकों के लिए इसका क्या अर्थ है?",
-            "a": "यह बॉन्ड फंड, जमा और ऋण दरों तथा कॉरपोरेट फंडिंग लागत को प्रभावित कर सकता है, इसलिए वॉन और शेयर बाजार की अस्थिरता पर नजर जरूरी है।"
-          }
-        ]
-      },
-      "id": {
-        "title": "Imbal Hasil Obligasi Korea Campuran, Tekanan Kurs dan Minat Aman Dorong 3 Tahun ke 3,722%",
-        "excerpt": "Pada 26, imbal hasil obligasi pemerintah Korea bergerak campuran karena tekanan kurs bertemu minat aset aman setelah saham anjlok, sementara tenor tiga tahun berada di 3,722%.",
-        "metaDescription": "Imbal hasil obligasi pemerintah Korea campuran pada 26 karena tekanan kurs dan permintaan aset aman. Tenor tiga tahun tercatat 3,722%.",
-        "summary": "Imbal hasil obligasi pemerintah Korea bergerak campuran pada 26 karena tekanan nilai tukar dan permintaan aset aman muncul bersamaan. Kejatuhan pasar saham menopang pembelian obligasi, tetapi pelemahan won membatasi penurunan imbal hasil. Tenor tiga tahun tercatat 3,722%.",
-        "body": "Imbal hasil obligasi pemerintah Korea ditutup campuran pada 26, di tengah tekanan nilai tukar dan permintaan aset aman yang bergerak berlawanan. Penurunan tajam pasar saham domestik meningkatkan penghindaran risiko dan mengalihkan sebagian dana ke obligasi pemerintah. Namun pelemahan won membatasi penurunan imbal hasil karena menambah kekhawatiran terhadap imbal balik investor asing dan jalur inflasi. Imbal hasil obligasi pemerintah Korea tenor tiga tahun tercatat 3,722%.\n\n## Tekanan kurs melawan minat aman\nPasar obligasi biasanya mendapat aliran beli ketika saham turun tajam. Saat volatilitas saham meningkat, investor institusi dan ritel cenderung berpindah ke instrumen yang lebih defensif seperti obligasi pemerintah, deposito, dan produk pasar uang. Pola ini mendukung harga obligasi Korea. Akan tetapi, tekanan kurs bekerja sebaliknya. Ketika won melemah, keuntungan investor asing dari obligasi berdenominasi won dapat tergerus oleh kerugian kurs. Kekhawatiran atas harga impor dan ekspektasi inflasi juga dapat melemahkan tekanan turun pada suku bunga domestik.\n\n## Tenor tiga tahun di 3,722%\nAngka utama hari itu adalah imbal hasil tenor tiga tahun sebesar 3,722%. Tenor ini penting di Korea karena cepat mencerminkan ekspektasi kebijakan moneter, kondisi pendanaan jangka pendek, dan penyesuaian portofolio lembaga. Pergerakan campuran menunjukkan investor tidak mengambil posisi satu arah, melainkan menimbang nilai tukar, saham, risiko perlambatan ekonomi, dan kebutuhan keamanan sekaligus. Karena harga obligasi bergerak berlawanan dengan imbal hasil, penurunan yield dapat mendukung kenaikan nilai portofolio, tetapi volatilitas kurs membuat manajemen risiko tetap penting.\n\n## Dampak bagi pasar Korea\nPergerakan imbal hasil obligasi pemerintah memengaruhi kinerja reksa dana obligasi, suku bunga pinjaman bank, biaya penerbitan obligasi korporasi, serta alokasi aset dana pensiun dan perusahaan asuransi. Jika imbal hasil tiga tahun tetap berfluktuasi di level tinggi, perusahaan akan lebih sensitif menghitung biaya pendanaan jangka pendek, sementara rumah tangga membandingkan kredit berbunga tetap dan bunga deposito. Pasar selanjutnya akan memantau stabilitas won dan berlanjutnya volatilitas saham. Pelemahan saham dapat menjaga minat pada obligasi pemerintah, tetapi tekanan kurs yang lebih kuat bisa membatasi penurunan imbal hasil berikutnya.",
-        "keywords": [
-          "obligasi pemerintah Korea",
-          "tenor tiga tahun",
-          "3,722%",
-          "tekanan kurs",
-          "aset aman",
-          "pasar obligasi",
-          "saham anjlok",
-          "pelemahan won",
-          "suku bunga Korea",
-          "Imbal Hasil Obligasi"
-        ],
-        "faq": [
-          {
-            "q": "Berapa imbal hasil obligasi pemerintah Korea tenor tiga tahun pada 26?",
-            "a": "Imbal hasil obligasi pemerintah Korea tenor tiga tahun tercatat 3,722%."
-          },
-          {
-            "q": "Mengapa imbal hasil obligasi Korea bergerak campuran?",
-            "a": "Tekanan kurs membatasi penurunan imbal hasil, sementara kejatuhan saham meningkatkan permintaan aset aman."
-          },
-          {
-            "q": "Apa artinya bagi investor di Korea?",
-            "a": "Pergerakan ini dapat memengaruhi reksa dana obligasi, bunga deposito dan pinjaman, serta biaya pendanaan korporasi, sehingga kurs dan saham perlu dipantau bersama."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "ea6d62dcaff4",
-    "slug": "다음주-경제-중동전쟁-생산소비투자물가-남은-영향은국세수입도-주목-573078",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-06-27T08:35:42.313Z",
-    "updatedAt": "2026-06-27T08:35:42.314Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260627014200002",
-    "titleFingerprint": "d6ca01063e2d32029171aa44b4626e7c37266843",
-    "dedupKeys": [
-      "ea6d62dcaff4c25cad45735a475fb70a6e7e080e",
-      "d6ca01063e2d32029171aa44b4626e7c37266843",
-      "9f4024bec28c26e549469c24ab5b2a80de2a309b"
-    ],
-    "imageUrl": "/images/articles/ea6d62dcaff4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중동전쟁 여파 남은 생산·소비·투자·물가, 다음주 경제지표와 국세수입이 가른다",
-        "excerpt": "2026년 6월 29일부터 7월 3일까지 공개되는 산업활동, 소비자물가, 국세수입 지표가 중동전쟁 이후 한국 실물경제와 생활물가의 잔여 충격을 가늠할 분수령이 된다.",
-        "metaDescription": "다음주 한국 경제지표는 중동전쟁 이후 생산·소비·투자·물가 흐름과 국세수입을 점검하는 핵심 일정이다. 원화 비용과 내수 영향도 주목된다.",
-        "summary": "2026년 6월 29일~7월 3일에는 한국 생산·소비·투자와 물가, 국세수입 흐름을 확인할 주요 지표가 차례로 나온다. 중동전쟁 이후 유가·운송비·환율 불안이 국내 제조업 비용과 생활물가에 얼마나 남았는지가 핵심이다. 세수 회복 여부는 하반기 재정 여력과 경기 대응 강도를 판단하는 기준이 된다.",
-        "body": "2026년 6월 29일부터 7월 3일까지 한국 경제의 초점은 중동전쟁 이후 남은 충격이 생산, 소비, 투자, 물가에 얼마나 반영됐는지에 맞춰진다. 이번 주간 지표는 단순한 월간 통계가 아니라 하반기 경기 방향과 정책 대응 강도를 가를 기준점이다. 제조업 생산이 흔들리면 수출 회복 기대가 약해지고, 소비가 둔화하면 내수 부진이 다시 부각된다. 물가가 예상보다 끈적하면 금리 인하 기대도 조정될 수 있다.\n\n## 산업활동이 경기 바닥을 가늠한다\n이번 일정에서 가장 먼저 확인할 지표는 최근 산업활동 흐름이다. 생산, 소매판매, 설비투자는 한국 실물경제의 세 축이다. 생산은 반도체·자동차·석유화학 등 주력 업종의 가동률을 보여주고, 소매판매는 가계의 지갑 사정을 드러낸다. 설비투자는 기업이 하반기 수요를 어떻게 보고 있는지를 반영한다. 중동전쟁은 국제유가와 물류비 변동성을 키웠고, 원화로 환산한 에너지·원자재 비용 부담을 높였다. 원/달러 환율이 높은 구간에서는 같은 달러 가격의 원유와 부품도 국내 기업에는 더 비싸게 들어온다. 생산 지표가 견조해도 재고가 쌓이면 회복의 질은 약해진다.\n\n## 6월 물가, 생활비와 금리 기대의 핵심 변수\n6월 소비자물가는 가계 체감경기를 좌우할 핵심 지표다. 에너지 가격 변동은 휘발유, 경유, 전기·가스 요금 기대에 영향을 주고, 운송비 상승은 가공식품과 외식 가격으로 번질 수 있다. 한국 소비자는 이미 장기간 높은 먹거리·서비스 가격에 민감해져 있다. 전년 동월 대비 상승률이 둔화하더라도 전월 대비 오름세가 재개되면 체감 물가는 쉽게 낮아지지 않는다. 특히 농축수산물, 석유류, 외식, 개인서비스 품목은 생활비 부담을 판단하는 직접 변수다. 물가 안정이 확인돼야 채권시장과 주식시장의 금리 기대도 안정적으로 움직일 수 있다.\n\n## 국세수입은 재정 여력의 바로미터\n국세수입도 중요한 관전 포인트다. 법인세와 부가가치세, 소득세 흐름은 기업 이익, 소비 회복, 고용·임금 여건을 함께 보여준다. 세수가 예상보다 약하면 경기 보강과 취약계층 지원에 필요한 재정 운용 폭이 줄어든다. 반대로 세수 감소세가 완화되면 하반기 예산 집행과 정책 조합에 숨통이 트인다. 시장은 이번 지표를 통해 세 가지를 확인한다. 첫째 중동전쟁 충격이 비용 압력으로 남았는지, 둘째 내수가 회복 국면에 들어섰는지, 셋째 정부 재정이 경기 둔화를 흡수할 여력이 있는지다. 다음주 경제지표는 원화 비용, 기업 실적, 가계 물가, 재정 여력을 한꺼번에 읽는 시험대가 된다.",
-        "keywords": [
-          "다음주 경제",
-          "중동전쟁",
-          "산업활동동향",
-          "소비자물가",
-          "국세수입",
-          "생산 소비 투자",
-          "한국 경제지표",
-          "원달러 환율",
-          "생활물가",
-          "중동전쟁 여파 남은 생산·소비·투자·"
-        ],
-        "faq": [
-          {
-            "q": "다음주 한국 경제에서 가장 중요한 지표는 무엇인가?",
-            "a": "2026년 6월 29일~7월 3일 공개되는 산업활동, 소비자물가, 국세수입 지표가 핵심이다."
-          },
-          {
-            "q": "중동전쟁이 한국 물가에 영향을 주는 경로는 무엇인가?",
-            "a": "국제유가, 운송비, 원/달러 환율을 통해 에너지·원자재 수입 비용과 생활물가 압력을 높일 수 있다."
-          },
-          {
-            "q": "국세수입이 왜 시장 관심사인가?",
-            "a": "세수 흐름은 기업 이익과 소비 회복, 정부의 하반기 재정 대응 여력을 판단하는 기준이기 때문이다."
-          }
-        ]
-      },
-      "en": {
-        "title": "Middle East War Impact on Korea’s Output, Consumption, Investment and Inflation Faces Data Test",
-        "excerpt": "From June 29 to July 3, 2026, Korea’s industrial activity, consumer inflation and tax revenue data will show how much of the Middle East war shock remains in the real economy.",
-        "metaDescription": "Korea’s next economic data week will test the remaining impact of the Middle East war on output, consumption, investment, inflation and national tax revenue.",
-        "summary": "Key Korean indicators due from June 29 to July 3, 2026 will clarify the direction of production, retail sales, investment, prices and tax revenue. The central issue is whether oil, freight and currency volatility after the Middle East war is still feeding into domestic costs. Tax revenue will also shape views on fiscal room for the second half.",
-        "body": "Korea’s economic focus from June 29 to July 3, 2026 is whether the Middle East war has left a visible mark on production, consumption, investment and inflation. The data will be more than routine monthly releases. They will help determine whether the second-half recovery is broadening or still exposed to external cost shocks.\n\n## Real Activity Sets the Tone\nIndustrial activity will show the condition of Korea’s production, retail sales and facility investment. Production reflects the operating pace of major industries such as semiconductors, autos and petrochemicals. Retail sales reveal household spending strength, while investment shows how companies view demand ahead. The Middle East war increased volatility in oil and logistics costs. For Korean firms, those costs become more painful when translated into won during a strong dollar phase.\n\n## June Inflation Matters for Households and Rates\nJune consumer prices will be central for households and financial markets. Energy costs affect gasoline, diesel and utility expectations, while freight costs can spread into processed food and dining prices. Even if annual inflation slows, a renewed monthly rise would keep the public’s cost-of-living burden high. Oil products, food, dining and personal services will be the key items to watch.\n\n## Tax Revenue Shows Fiscal Space\nNational tax revenue is another decisive signal. Corporate tax, value-added tax and income tax trends reveal business profits, consumption and labor income conditions. Weak revenue would narrow the room for fiscal support in the second half. Stabilizing revenue would give policymakers more flexibility. The coming data week will therefore test three questions: whether the war shock still exists as a cost burden, whether domestic demand is improving, and whether fiscal policy has enough room to respond.",
-        "keywords": [
-          "Korea economy",
-          "Middle East war",
-          "industrial activity",
-          "consumer inflation",
-          "tax revenue",
-          "production consumption investment",
-          "won dollar exchange rate",
-          "cost of living",
-          "Middle East War Impa"
-        ],
-        "faq": [
-          {
-            "q": "What are the key Korean indicators next week?",
-            "a": "Industrial activity, consumer inflation and national tax revenue data due from June 29 to July 3, 2026 are the key indicators."
-          },
-          {
-            "q": "How can the Middle East war affect Korean inflation?",
-            "a": "It can raise oil, freight and import costs, especially when dollar-denominated prices become more expensive in won."
-          },
-          {
-            "q": "Why does tax revenue matter?",
-            "a": "It shows the strength of profits, consumption and income, and helps determine the government’s fiscal room."
-          }
-        ]
-      },
-      "ja": {
-        "title": "中東戦争の余波、韓国の生産・消費・投資・物価を来週の経済指標が点検",
-        "excerpt": "来週の韓国経済指標と国税収入は、中東戦争後のコスト圧力と下半期の景気回復力を同時に映す。",
-        "metaDescription": "来週の韓国経済指標と国税収入は、中東戦争後のコスト圧力と下半期の景気回復力を同時に映す。",
-        "summary": "来週の韓国経済指標と国税収入は、中東戦争後のコスト圧力と下半期の景気回復力を同時に映す。",
-        "body": "2026年6月29日から7月3日まで、韓国経済の焦点は中東戦争の衝撃が生産、消費、投資、物価にどれだけ残っているかに集まる。今回の指標は単なる月次統計ではない。下半期の景気回復が持続するのか、外部コストに再び揺さぶられるのかを見極める基準になる。\n\n## 実体経済の基調を読む\n産業活動は生産、小売販売、設備投資を通じて韓国経済の足取りを示す。生産は半導体、自動車、石油化学など主要産業の稼働状況を映す。小売販売は家計消費、設備投資は企業の需要見通しを示す。中東戦争は原油価格と物流費の変動性を高めた。ドル建ての原材料費は、ウォン安局面では国内企業の負担をさらに大きくする。\n\n## 6月物価は生活費と金利期待の焦点\n6月の消費者物価は家計と市場にとって重要だ。エネルギー価格はガソリン、軽油、公共料金への期待に影響し、運送費上昇は加工食品や外食価格にも波及し得る。前年比の伸びが鈍っても、前月比で再び上昇すれば体感物価は下がりにくい。石油類、食品、外食、個人サービスが注目品目だ。\n\n## 国税収入は財政余力を示す\n国税収入も重要な判断材料だ。法人税、付加価値税、所得税の流れは企業収益、消費、雇用・賃金環境を同時に示す。税収が弱ければ下半期の景気下支え余地は狭まる。改善が確認されれば政策運営に余裕が出る。来週の指標は、コスト圧力、内需回復、財政対応力を同時に測る試金石となる。\n\n下半期入り前のこの一週間は、韓国銀行の年内判断にも影響する。物価が再加速し、税収まで弱ければ、景気配慮と物価安定の両立は難しくなる。反対に、生産と消費が持ち直し、税収も改善すれば、外部ショック後の韓国経済は想定より強いという評価が広がる。市場は単独指標よりも、エネルギー価格、ウォン相場、家計消費、企業投資が同じ方向を向くかを重視する。\n\n実際に市場が確認するのは、指標の方向が互いに矛盾しないかだ。生産が強くても物価が高止まりすれば実質購買力は弱いままになる。消費が回復しても税収が伸びなければ財政余力は限られる。輸入物価、海上運賃、ウォン相場が同時に落ち着くかどうかが、企業マージンと家計の体感景気を左右する。\n\nしたがって来週の発表は、単に数字の良し悪しを見る場ではない。外部ショックを受けた韓国経済が、自力で回復できる段階に入ったのかを測る総合点検になる。税収データは補助金、景気支援、産業政策の継続余地にもつながるため、金融市場だけでなく実体経済の参加者にも重要だ。",
-        "keywords": [
-          "韓国経済",
-          "中東戦争",
-          "産業活動",
-          "消費者物価",
-          "国税収入",
-          "生産消費投資",
-          "ウォン相場",
-          "生活物価",
-          "中東戦争の余波、韓国の生産・消費・投資・"
-        ],
-        "faq": [
-          {
-            "q": "来週の韓国経済で重要な指標は何ですか。",
-            "a": "2026年6月29日〜7月3日に確認される産業活動、消費者物価、国税収入です。"
-          },
-          {
-            "q": "中東戦争は韓国の物価にどう影響しますか。",
-            "a": "原油、物流費、為替を通じてエネルギーや輸入原材料のウォン建て負担を高める可能性があります。"
-          },
-          {
-            "q": "国税収入が注目される理由は何ですか。",
-            "a": "企業収益、消費、所得の流れと、政府の財政対応余力を示すためです。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "中东战争余波待检验，韩国生产消费投资物价看下周经济数据",
-        "excerpt": "下周韩国将公布产业、物价和税收数据，用来检验中东战争冲击是否仍留在实体经济。",
-        "metaDescription": "下周韩国将公布产业、物价和税收数据，用来检验中东战争冲击是否仍留在实体经济。",
-        "summary": "下周韩国将公布产业、物价和税收数据，用来检验中东战争冲击是否仍留在实体经济。",
-        "body": "2026年6月29日至7月3日，韩国经济的焦点将集中在中东战争后续冲击是否仍体现在生产、消费、投资和物价中。这一轮数据不是普通月度统计，而是判断下半年经济修复力度和政策空间的重要依据。\n\n## 实体经济先给方向\n产业活动数据将同时观察生产、零售销售和设备投资。生产反映半导体、汽车、石化等主力行业的运转情况；零售销售体现家庭消费能力；设备投资显示企业对未来需求的判断。中东战争推高了国际油价和物流成本波动。若美元走强，以美元计价的能源和零部件换算成韩元后会进一步增加韩国企业成本。\n\n## 6月物价牵动生活费和利率预期\n6月消费者物价是家庭和金融市场共同关注的核心。能源价格会影响汽油、柴油和公用事业费用预期，运输成本上升也可能传导至加工食品和餐饮价格。即使同比涨幅放缓，只要环比再次上行，居民体感物价仍难明显回落。石油类、食品、餐饮和个人服务价格将是重点。\n\n## 国税收入衡量财政余力\n国税收入同样关键。企业所得税、增值税和个人所得税的变化，反映企业利润、消费恢复以及就业和工资状况。税收偏弱会压缩下半年财政支持空间；税收改善则有利于政策组合更加灵活。下周数据将同时回答三个问题：成本压力是否仍在，内需是否修复，政府财政是否有足够缓冲。\n\n在进入下半年之前，这一周数据还会影响韩国银行的政策判断。如果物价重新走强、税收又偏弱，政策将面临稳增长和控通胀的双重约束。反过来，若生产与消费同步改善、税收恢复力度也高于预期，市场会更容易接受韩国经济在外部能源冲击后仍具韧性的判断。投资者最终看的不是单一数字，而是能源价格、韩元汇率、家庭消费和企业投资能否朝同一方向改善。\n\n真正需要交叉验证的是，生产改善能否同时带动库存、出口和内需，而不是只由个别行业支撑。若半导体或汽车单独改善、服务消费和投资仍弱，韩国经济的恢复会显得偏窄。\n\n同时，油价、运费和韩元汇率若继续波动，企业即使接到订单也可能因成本上升而压缩利润。所以下周的数据更像一次压力测试：它要回答韩国经济在外部冲击后，是否已经具备更稳定的内生恢复力。税收数据还关系到下半年财政支援与产业补贴能否持续。\n\n如果税基恢复慢于预期，市场还会重新评估政府在补贴、消费刺激和产业支持上的财政能力。\n\n也就是说，下周公布的数据会同时影响政策节奏、企业利润预期和家庭真实购买力判断。若这三个方向不能同时改善，市场对复苏的信心就难真正巩固。",
-        "keywords": [
-          "韩国经济",
-          "中东战争",
-          "产业活动",
-          "消费者物价",
-          "国税收入",
-          "生产消费投资",
-          "韩元汇率",
-          "生活成本",
-          "中东战争余波待检验，韩国生产消费投资物价"
-        ],
-        "faq": [
-          {
-            "q": "下周韩国经济最重要的数据是什么？",
-            "a": "2026年6月29日至7月3日的产业活动、消费者物价和国税收入数据最受关注。"
-          },
-          {
-            "q": "中东战争如何影响韩国物价？",
-            "a": "它可能通过油价、运费和韩元汇率推高能源及进口原材料成本。"
-          },
-          {
-            "q": "为什么要关注国税收入？",
-            "a": "国税收入反映企业利润、消费和收入状况，也决定政府下半年财政应对空间。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Impacto de la guerra en Oriente Medio en Corea: producción, consumo, inversión e inflación a prueba",
-        "excerpt": "Entre el 29 de junio y el 3 de julio de 2026, Corea publicará datos de actividad industrial, inflación y recaudación que medirán el daño residual de la guerra en Oriente Medio.",
-        "metaDescription": "Los datos económicos de Corea la próxima semana medirán el impacto restante de la guerra en Oriente Medio sobre producción, consumo, inversión, inflación y recaudación.",
-        "summary": "Del 29 de junio al 3 de julio de 2026, Corea conocerá datos clave de actividad, precios y recaudación fiscal. El foco estará en si el petróleo, el transporte y el tipo de cambio siguen presionando los costos internos tras la guerra en Oriente Medio. La recaudación marcará el margen fiscal de la segunda mitad del año.",
-        "body": "Entre el 29 de junio y el 3 de julio de 2026, la economía coreana tendrá una prueba decisiva: saber cuánto queda del impacto de la guerra en Oriente Medio sobre producción, consumo, inversión e inflación. Los datos no serán una simple fotografía mensual. Ayudarán a definir si la recuperación de la segunda mitad del año tiene base real o si continúa vulnerable a los costos externos.\n\n## La actividad real dará la primera señal\nLa actividad industrial mostrará producción, ventas minoristas e inversión en instalaciones. La producción reflejará el ritmo de sectores como semiconductores, autos y petroquímica. Las ventas minoristas medirán la fuerza del gasto de los hogares, y la inversión revelará cómo ven las empresas la demanda futura. La guerra en Oriente Medio elevó la volatilidad del crudo y la logística. Para Corea, esos costos pesan más cuando se convierten a wones en un entorno de dólar fuerte.\n\n## La inflación de junio pesa en hogares y tasas\nEl índice de precios al consumidor de junio será clave. La energía influye en gasolina, diésel y tarifas, mientras que el transporte puede trasladarse a alimentos procesados y restaurantes. Aunque la inflación anual se modere, una subida mensual mantendría alta la presión sobre el costo de vida. Petróleo, alimentos, comidas fuera de casa y servicios personales serán las partidas centrales.\n\n## La recaudación define margen fiscal\nLa recaudación nacional también importa. Impuesto corporativo, IVA e impuesto sobre la renta muestran beneficios empresariales, consumo e ingresos laborales. Una recaudación débil reduciría la capacidad de apoyo fiscal en la segunda mitad del año. Una mejora daría más flexibilidad. La semana responderá si persiste la presión de costos, si mejora la demanda interna y si el Gobierno cuenta con margen suficiente.",
-        "keywords": [
-          "economía de Corea",
-          "guerra en Oriente Medio",
-          "actividad industrial",
-          "inflación",
-          "recaudación fiscal",
-          "producción consumo inversión",
-          "won",
-          "costo de vida",
-          "Impacto de la guerra"
-        ],
-        "faq": [
-          {
-            "q": "¿Qué datos de Corea serán clave la próxima semana?",
-            "a": "Actividad industrial, inflación al consumidor y recaudación nacional entre el 29 de junio y el 3 de julio de 2026."
-          },
-          {
-            "q": "¿Cómo puede afectar la guerra en Oriente Medio a la inflación coreana?",
-            "a": "A través de petróleo, transporte y tipo de cambio, que encarecen energía e insumos importados en wones."
-          },
-          {
-            "q": "¿Por qué importa la recaudación fiscal?",
-            "a": "Porque refleja ganancias, consumo e ingresos, y determina el margen fiscal del Gobierno."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Efeito da guerra no Oriente Médio na Coreia será medido por produção, consumo, investimento e inflação",
-        "excerpt": "De 29 de junho a 3 de julho de 2026, dados de atividade industrial, inflação e arrecadação da Coreia mostrarão o impacto residual da guerra no Oriente Médio.",
-        "metaDescription": "A próxima semana de dados econômicos da Coreia testará o efeito da guerra no Oriente Médio sobre produção, consumo, investimento, inflação e receita tributária.",
-        "summary": "Entre 29 de junho e 3 de julho de 2026, a Coreia divulgará indicadores centrais de atividade, preços e arrecadação. O foco é saber se petróleo, frete e câmbio ainda pressionam custos internos após a guerra no Oriente Médio. A receita tributária indicará o espaço fiscal para a parte final do ano.",
-        "body": "De 29 de junho a 3 de julho de 2026, a economia coreana passará por um teste importante: medir quanto do choque da guerra no Oriente Médio ainda aparece em produção, consumo, investimento e inflação. Os números vão além de uma leitura mensal. Eles ajudarão a definir se a recuperação da parte final do ano é sólida ou segue exposta a custos externos.\n\n## Atividade real indica a direção\nA atividade industrial mostrará produção, vendas no varejo e investimento em instalações. A produção revela o ritmo de semicondutores, automóveis e petroquímica. O varejo mostra a força do consumo das famílias, enquanto o investimento indica a confiança das empresas na demanda futura. A guerra no Oriente Médio elevou a volatilidade do petróleo e da logística. Em won, esses custos ficam mais pesados quando o dólar está forte.\n\n## Inflação de junho pesa no orçamento das famílias\nO índice de preços ao consumidor de junho será decisivo. Energia afeta gasolina, diesel e tarifas, e fretes maiores podem chegar a alimentos processados e restaurantes. Mesmo com desaceleração anual, uma alta mensal manteria elevada a percepção de custo de vida. Petróleo, alimentos, refeições fora de casa e serviços pessoais serão os itens centrais.\n\n## Arrecadação mede espaço fiscal\nA receita tributária nacional também será observada. Imposto corporativo, IVA e imposto de renda refletem lucros, consumo e renda do trabalho. Arrecadação fraca reduziria o espaço para apoio fiscal no parte final do ano. Melhora na receita daria maior flexibilidade à política econômica. A semana mostrará se a pressão de custos persiste, se a demanda interna melhora e se o governo tem margem de resposta.",
-        "keywords": [
-          "economia da Coreia",
-          "guerra no Oriente Médio",
-          "atividade industrial",
-          "inflação ao consumidor",
-          "arrecadação",
-          "produção consumo investimento",
-          "won",
-          "custo de vida",
-          "Efeito da guerra no"
-        ],
-        "faq": [
-          {
-            "q": "Quais dados da Coreia serão mais importantes?",
-            "a": "Atividade industrial, inflação ao consumidor e arrecadação nacional entre 29 de junho e 3 de julho de 2026."
-          },
-          {
-            "q": "Como a guerra no Oriente Médio afeta preços na Coreia?",
-            "a": "Ela pode elevar petróleo, frete e custos importados convertidos em won, especialmente com dólar forte."
-          },
-          {
-            "q": "Por que a arrecadação importa?",
-            "a": "Ela mostra lucros, consumo e renda, além de definir o espaço fiscal do governo."
-          }
-        ]
-      },
-      "de": {
-        "title": "Folgen des Nahostkriegs für Koreas Produktion, Konsum, Investitionen und Inflation im Datentest",
-        "excerpt": "Vom 29. Juni bis 3. Juli 2026 zeigen Daten zu Industrieaktivität, Verbraucherpreisen und Steuereinnahmen, wie stark der Nahostkrieg Koreas Wirtschaft noch belastet.",
-        "metaDescription": "Koreas Wirtschaftsdaten der kommenden Woche prüfen die Folgen des Nahostkriegs für Produktion, Konsum, Investitionen, Inflation und Steuereinnahmen.",
-        "summary": "Zwischen dem 29. Juni und 3. Juli 2026 veröffentlicht Korea zentrale Daten zu Aktivität, Preisen und Steuern. Entscheidend ist, ob Öl-, Fracht- und Wechselkursschwankungen nach dem Nahostkrieg weiter auf die Binnenkosten drücken. Die Steuereinnahmen zeigen den fiskalischen Spielraum für die zweite Jahreshälfte.",
-        "body": "Vom 29. Juni bis 3. Juli 2026 richtet sich der Blick auf Koreas Wirtschaftsdaten. Sie werden zeigen, wie viel vom Schock des Nahostkriegs noch in Produktion, Konsum, Investitionen und Inflation steckt. Es geht nicht nur um Monatsstatistiken. Die Daten werden bestimmen, ob die Erholung im zweiten Halbjahr tragfähig ist oder weiter von externen Kosten belastet wird.\n\n## Reale Aktivität gibt den Takt vor\nDie Industrieaktivität umfasst Produktion, Einzelhandelsumsätze und Anlageinvestitionen. Die Produktion zeigt die Lage in Schlüsselbranchen wie Halbleiter, Autos und Petrochemie. Einzelhandelsumsätze spiegeln die Kaufkraft der Haushalte, Investitionen die Nachfrageerwartungen der Unternehmen. Der Nahostkrieg hat Öl- und Logistikkosten volatiler gemacht. Für koreanische Firmen steigen diese Belastungen, wenn Dollarpreise bei starkem Dollar in Won umgerechnet werden.\n\n## Juni-Inflation bewegt Haushalte und Zinsen\nDie Verbraucherpreise im Juni sind zentral. Energiepreise beeinflussen Benzin, Diesel und Versorgerkosten, höhere Fracht kann auf verarbeitete Lebensmittel und Restaurants übergreifen. Selbst bei sinkender Jahresrate würde ein monatlicher Anstieg die gefühlte Teuerung hoch halten. Ölprodukte, Lebensmittel, Gastronomie und persönliche Dienstleistungen stehen im Fokus.\n\n## Steuereinnahmen zeigen den Spielraum\nAuch die nationalen Steuereinnahmen sind entscheidend. Körperschaftsteuer, Mehrwertsteuer und Einkommensteuer zeigen Unternehmensgewinne, Konsum und Arbeitseinkommen. Schwache Einnahmen würden den fiskalischen Spielraum im zweiten Halbjahr einschränken. Stabilere Einnahmen gäben mehr Flexibilität. Die Woche beantwortet, ob Kostendruck bleibt, die Binnennachfrage anzieht und der Staat genügend Puffer hat.",
-        "keywords": [
-          "Korea Wirtschaft",
-          "Nahostkrieg",
-          "Industrieaktivität",
-          "Verbraucherpreise",
-          "Steuereinnahmen",
-          "Produktion Konsum Investitionen",
-          "Won Dollar",
-          "Lebenshaltungskosten",
-          "Folgen des Nahostkri"
-        ],
-        "faq": [
-          {
-            "q": "Welche koreanischen Daten sind nächste Woche wichtig?",
-            "a": "Industrieaktivität, Verbraucherpreise und nationale Steuereinnahmen vom 29. Juni bis 3. Juli 2026."
-          },
-          {
-            "q": "Wie wirkt der Nahostkrieg auf Koreas Inflation?",
-            "a": "Über Öl, Fracht und Wechselkurse kann er Energie- und Importkosten in Won erhöhen."
-          },
-          {
-            "q": "Warum sind Steuereinnahmen wichtig?",
-            "a": "Sie zeigen Gewinne, Konsum und Einkommen sowie den fiskalischen Spielraum der Regierung."
-          }
-        ]
-      },
-      "fr": {
-        "title": "L’effet de la guerre au Moyen-Orient sur la production, la consommation, l’investissement et l’inflation coréens à l’épreuve",
-        "excerpt": "Du 29 juin au 3 juillet 2026, les données coréennes d’activité industrielle, d’inflation et de recettes fiscales mesureront l’impact résiduel de la guerre au Moyen-Orient.",
-        "metaDescription": "Les indicateurs économiques coréens de la semaine prochaine testeront l’effet de la guerre au Moyen-Orient sur production, consommation, investissement, inflation et recettes fiscales.",
-        "summary": "Entre le 29 juin et le 3 juillet 2026, la Corée publiera des données clés sur l’activité, les prix et les recettes fiscales. L’enjeu est de savoir si le pétrole, le fret et le change continuent de peser sur les coûts internes après la guerre au Moyen-Orient. Les recettes fiscales indiqueront la marge budgétaire du second semestre.",
-        "body": "Du 29 juin au 3 juillet 2026, l’économie coréenne fera face à un test clair: mesurer ce qui reste du choc de la guerre au Moyen-Orient dans la production, la consommation, l’investissement et l’inflation. Ces données ne seront pas de simples statistiques mensuelles. Elles aideront à juger si la reprise du second semestre repose sur une base solide ou reste vulnérable aux coûts externes.\n\n## L’activité réelle donnera le signal\nL’activité industrielle couvrira production, ventes au détail et investissement en équipements. La production montrera le rythme des semi-conducteurs, de l’automobile et de la pétrochimie. Les ventes au détail mesureront la vigueur des ménages, tandis que l’investissement dira comment les entreprises évaluent la demande future. La guerre au Moyen-Orient a accru la volatilité du pétrole et de la logistique. Convertis en won, ces coûts pèsent davantage lorsque le dollar est fort.\n\n## L’inflation de juin compte pour les ménages\nLes prix à la consommation de juin seront décisifs. L’énergie influence essence, diesel et tarifs publics, tandis que les frais de transport peuvent toucher les aliments transformés et la restauration. Même si l’inflation annuelle ralentit, une hausse mensuelle maintiendrait une forte pression sur le coût de la vie. Produits pétroliers, alimentation, repas hors domicile et services personnels seront surveillés.\n\n## Les recettes fiscales mesurent la marge budgétaire\nLes recettes fiscales nationales sont aussi essentielles. Impôt sur les sociétés, TVA et impôt sur le revenu reflètent bénéfices, consommation et revenus du travail. Des recettes faibles réduiraient la capacité de soutien budgétaire au second semestre. Une amélioration offrirait plus de flexibilité. La semaine dira si la pression des coûts persiste, si la demande intérieure se redresse et si l’État dispose d’un coussin suffisant.",
-        "keywords": [
-          "économie coréenne",
-          "guerre au Moyen-Orient",
-          "activité industrielle",
-          "inflation",
-          "recettes fiscales",
-          "production consommation investissement",
-          "won",
-          "coût de la vie",
-          "L’effet de la guerre"
-        ],
-        "faq": [
-          {
-            "q": "Quels indicateurs coréens seront clés la semaine prochaine ?",
-            "a": "L’activité industrielle, l’inflation à la consommation et les recettes fiscales du 29 juin au 3 juillet 2026."
-          },
-          {
-            "q": "Comment la guerre au Moyen-Orient affecte-t-elle les prix en Corée ?",
-            "a": "Par le pétrole, le fret et le change, qui peuvent renchérir l’énergie et les intrants importés en won."
-          },
-          {
-            "q": "Pourquoi les recettes fiscales sont-elles importantes ?",
-            "a": "Elles indiquent profits, consommation et revenus, ainsi que la marge budgétaire du gouvernement."
-          }
-        ]
-      },
-      "ar": {
-        "title": "تداعيات حرب الشرق الأوسط على إنتاج كوريا واستهلاكها واستثمارها وتضخمها أمام اختبار البيانات",
-        "excerpt": "بين 29 يونيو و3 يوليو 2026 ستكشف بيانات النشاط الصناعي والتضخم والإيرادات الضريبية في كوريا حجم الأثر المتبقي لحرب الشرق الأوسط على الاقتصاد الحقيقي.",
-        "metaDescription": "بيانات كوريا الاقتصادية الأسبوع المقبل ستقيس أثر حرب الشرق الأوسط على الإنتاج والاستهلاك والاستثمار والتضخم والإيرادات الضريبية.",
-        "summary": "من 29 يونيو إلى 3 يوليو 2026 تترقب كوريا بيانات رئيسية عن النشاط والأسعار والإيرادات الضريبية. السؤال المركزي هو ما إذا كانت تقلبات النفط والشحن وسعر الصرف بعد حرب الشرق الأوسط ما زالت تضغط على التكاليف المحلية. الإيرادات الضريبية ستحدد مساحة السياسة المالية في النصف الثاني.",
-        "body": "من 29 يونيو إلى 3 يوليو 2026 يتركز اهتمام الاقتصاد الكوري على مقدار ما تبقى من صدمة حرب الشرق الأوسط في الإنتاج والاستهلاك والاستثمار والتضخم. هذه البيانات ليست قراءة شهرية عادية، بل معيار لتحديد قوة التعافي في النصف الثاني وقدرته على تحمل صدمات التكاليف الخارجية.\n\n## النشاط الحقيقي يحدد الاتجاه\nستوضح بيانات النشاط الصناعي مسار الإنتاج ومبيعات التجزئة والاستثمار في المعدات. الإنتاج يكشف أداء قطاعات رئيسية مثل أشباه الموصلات والسيارات والبتروكيماويات. مبيعات التجزئة تعكس قدرة الأسر على الإنفاق، والاستثمار يبين رؤية الشركات للطلب المقبل. حرب الشرق الأوسط زادت تقلبات النفط وتكاليف النقل. وعند تحويل الأسعار الدولارية إلى الوون، تصبح الكلفة أعلى على الشركات الكورية في فترات قوة الدولار.\n\n## تضخم يونيو مهم للأسر والأسواق\nمؤشر أسعار المستهلك في يونيو سيكون حاسما. أسعار الطاقة تؤثر في البنزين والديزل وتوقعات المرافق، وارتفاع الشحن قد ينتقل إلى الأغذية المصنعة والمطاعم. حتى مع تباطؤ التضخم السنوي، فإن ارتفاعا شهريا جديدا سيبقي عبء المعيشة مرتفعا. المنتجات النفطية والغذاء والمطاعم والخدمات الشخصية ستكون محط متابعة.\n\n## الإيرادات الضريبية تكشف الهامش المالي\nالإيرادات الضريبية الوطنية مؤشر مهم أيضا. ضرائب الشركات والقيمة المضافة والدخل تعكس أرباح الشركات والاستهلاك والدخل العمالي. ضعف الإيرادات سيقلص قدرة الحكومة على دعم الاقتصاد في النصف الثاني. تحسنها يمنح السياسة المالية مرونة أكبر. أسبوع البيانات سيجيب عن استمرار ضغط التكاليف، وتحسن الطلب المحلي، وكفاية الهامش المالي.",
-        "keywords": [
-          "اقتصاد كوريا",
-          "حرب الشرق الأوسط",
-          "النشاط الصناعي",
-          "التضخم",
-          "الإيرادات الضريبية",
-          "الإنتاج والاستهلاك والاستثمار",
-          "الوون",
-          "تكلفة المعيشة",
-          "تداعيات حرب الشرق ال"
-        ],
-        "faq": [
-          {
-            "q": "ما أهم بيانات كوريا الأسبوع المقبل؟",
-            "a": "النشاط الصناعي وتضخم المستهلك والإيرادات الضريبية بين 29 يونيو و3 يوليو 2026."
-          },
-          {
-            "q": "كيف تؤثر حرب الشرق الأوسط في تضخم كوريا؟",
-            "a": "عبر النفط والشحن وسعر الصرف، ما قد يرفع تكلفة الطاقة والمدخلات المستوردة بالوون."
-          },
-          {
-            "q": "لماذا تهم الإيرادات الضريبية؟",
-            "a": "لأنها تعكس الأرباح والاستهلاك والدخل، وتحدد مساحة الحكومة للتحرك المالي."
-          }
-        ]
-      },
-      "hi": {
-        "title": "मध्य पूर्व युद्ध का असर: कोरिया में उत्पादन, खपत, निवेश और महंगाई की अगली परीक्षा",
-        "excerpt": "29 जून से 3 जुलाई 2026 तक आने वाले कोरिया के औद्योगिक गतिविधि, उपभोक्ता महंगाई और कर राजस्व आंकड़े मध्य पूर्व युद्ध के बचे असर को परखेंगे।",
-        "metaDescription": "अगले सप्ताह कोरिया के आर्थिक आंकड़े मध्य पूर्व युद्ध के उत्पादन, खपत, निवेश, महंगाई और कर राजस्व पर शेष प्रभाव को मापेंगे।",
-        "summary": "29 जून से 3 जुलाई 2026 के बीच कोरिया में गतिविधि, कीमतों और कर राजस्व के प्रमुख आंकड़े आएंगे। मुख्य सवाल है कि मध्य पूर्व युद्ध के बाद तेल, मालभाड़ा और विनिमय दर की अस्थिरता घरेलू लागत पर कितनी बची है। कर राजस्व दूसरी छमाही की राजकोषीय गुंजाइश बताएगा।",
-        "body": "29 जून से 3 जुलाई 2026 तक कोरिया की अर्थव्यवस्था के लिए अहम परीक्षा होगी। यह देखा जाएगा कि मध्य पूर्व युद्ध का झटका उत्पादन, खपत, निवेश और महंगाई में कितना बचा है। ये आंकड़े केवल मासिक अपडेट नहीं हैं। इनसे पता चलेगा कि दूसरी छमाही की रिकवरी टिकाऊ है या बाहरी लागतों से अब भी दबाव में है।\n\n## वास्तविक गतिविधि दिशा बताएगी\nऔद्योगिक गतिविधि में उत्पादन, खुदरा बिक्री और उपकरण निवेश दिखेंगे। उत्पादन से सेमीकंडक्टर, वाहन और पेट्रोकेमिकल जैसे क्षेत्रों की गति समझ आएगी। खुदरा बिक्री परिवारों की खर्च क्षमता बताती है, जबकि निवेश कंपनियों की मांग पर राय दिखाता है। मध्य पूर्व युद्ध ने तेल और लॉजिस्टिक्स लागत में उतार-चढ़ाव बढ़ाया। मजबूत डॉलर के समय डॉलर में तय लागत वॉन में बदलकर कोरियाई कंपनियों के लिए और भारी हो जाती है।\n\n## जून महंगाई घरों और दरों के लिए अहम\nजून का उपभोक्ता मूल्य सूचकांक निर्णायक रहेगा। ऊर्जा कीमतें पेट्रोल, डीजल और उपयोगिता शुल्क की उम्मीदों को प्रभावित करती हैं। मालभाड़ा बढ़ने से प्रोसेस्ड फूड और रेस्तरां कीमतें भी बढ़ सकती हैं। सालाना महंगाई धीमी हो, फिर भी मासिक वृद्धि जीवन-यापन का दबाव बनाए रखेगी। तेल उत्पाद, खाद्य, बाहर खाना और निजी सेवाएं प्रमुख होंगी।\n\n## कर राजस्व से राजकोषीय क्षमता दिखेगी\nराष्ट्रीय कर राजस्व भी अहम संकेत है। कॉरपोरेट टैक्स, वैट और आयकर से मुनाफा, खपत और श्रम आय की स्थिति झलकती है। कमजोर राजस्व दूसरी छमाही में सरकारी समर्थन की गुंजाइश घटाएगा। सुधार से नीति को लचीलापन मिलेगा। अगले सप्ताह के आंकड़े बताएंगे कि लागत दबाव बचा है या नहीं, घरेलू मांग सुधर रही है या नहीं, और सरकार के पास पर्याप्त वित्तीय जगह है या नहीं।",
-        "keywords": [
-          "कोरिया अर्थव्यवस्था",
-          "मध्य पूर्व युद्ध",
-          "औद्योगिक गतिविधि",
-          "उपभोक्ता महंगाई",
-          "कर राजस्व",
-          "उत्पादन खपत निवेश",
-          "वॉन डॉलर",
-          "जीवन-यापन लागत",
-          "मध्य पूर्व युद्ध का"
-        ],
-        "faq": [
-          {
-            "q": "अगले सप्ताह कोरिया के कौन से आंकड़े अहम हैं?",
-            "a": "29 जून से 3 जुलाई 2026 के औद्योगिक गतिविधि, उपभोक्ता महंगाई और राष्ट्रीय कर राजस्व आंकड़े अहम हैं।"
-          },
-          {
-            "q": "मध्य पूर्व युद्ध कोरिया की महंगाई को कैसे प्रभावित करता है?",
-            "a": "तेल, मालभाड़ा और विनिमय दर के जरिए ऊर्जा और आयातित कच्चे माल की वॉन लागत बढ़ सकती है।"
-          },
-          {
-            "q": "कर राजस्व क्यों महत्वपूर्ण है?",
-            "a": "यह मुनाफे, खपत और आय की स्थिति दिखाता है और सरकार की राजकोषीय क्षमता तय करता है।"
-          }
-        ]
-      },
-      "id": {
-        "title": "Dampak Perang Timur Tengah pada Produksi, Konsumsi, Investasi dan Inflasi Korea Diuji Data Pekan Depan",
-        "excerpt": "Pada 29 Juni hingga 3 Juli 2026, data aktivitas industri, inflasi konsumen, dan penerimaan pajak Korea akan mengukur sisa dampak perang Timur Tengah.",
-        "metaDescription": "Data ekonomi Korea pekan depan akan menguji dampak perang Timur Tengah terhadap produksi, konsumsi, investasi, inflasi, dan penerimaan pajak.",
-        "summary": "Pada 29 Juni hingga 3 Juli 2026, Korea akan merilis data penting tentang aktivitas ekonomi, harga, dan penerimaan pajak. Fokusnya adalah apakah minyak, ongkos angkut, dan kurs setelah perang Timur Tengah masih menekan biaya domestik. Penerimaan pajak akan menunjukkan ruang fiskal semester kedua.",
-        "body": "Pada 29 Juni hingga 3 Juli 2026, ekonomi Korea menghadapi ujian penting: seberapa besar dampak perang Timur Tengah masih terlihat pada produksi, konsumsi, investasi, dan inflasi. Data ini bukan sekadar statistik bulanan. Angka-angka tersebut akan menentukan apakah pemulihan semester kedua cukup kuat atau masih rentan terhadap tekanan biaya eksternal.\n\n## Aktivitas riil memberi arah\nData aktivitas industri akan menunjukkan produksi, penjualan ritel, dan investasi fasilitas. Produksi mencerminkan laju sektor utama seperti semikonduktor, otomotif, dan petrokimia. Penjualan ritel menunjukkan daya belanja rumah tangga, sementara investasi menggambarkan pandangan perusahaan terhadap permintaan ke depan. Perang Timur Tengah meningkatkan volatilitas minyak dan biaya logistik. Bagi perusahaan Korea, biaya berbasis dolar menjadi lebih berat saat dikonversi ke won ketika dolar kuat.\n\n## Inflasi Juni penting bagi rumah tangga\nInflasi konsumen Juni akan menjadi penentu. Harga energi memengaruhi bensin, solar, dan ekspektasi tarif utilitas, sedangkan ongkos angkut dapat merembet ke makanan olahan dan restoran. Meski inflasi tahunan melambat, kenaikan bulanan akan menjaga tekanan biaya hidup tetap tinggi. Produk minyak, pangan, makan di luar, dan jasa personal menjadi komponen utama.\n\n## Pajak mengukur ruang fiskal\nPenerimaan pajak nasional juga menjadi sinyal penting. Pajak korporasi, PPN, dan pajak penghasilan mencerminkan laba perusahaan, konsumsi, serta pendapatan tenaga kerja. Penerimaan yang lemah akan membatasi dukungan fiskal pada semester kedua. Perbaikan penerimaan memberi ruang kebijakan lebih besar. Pekan data ini akan menjawab apakah tekanan biaya masih ada, permintaan domestik membaik, dan pemerintah memiliki bantalan fiskal yang cukup.",
-        "keywords": [
-          "ekonomi Korea",
-          "perang Timur Tengah",
-          "aktivitas industri",
-          "inflasi konsumen",
-          "penerimaan pajak",
-          "produksi konsumsi investasi",
-          "won dolar",
-          "biaya hidup",
-          "Dampak Perang Timur"
-        ],
-        "faq": [
-          {
-            "q": "Data Korea apa yang paling penting pekan depan?",
-            "a": "Aktivitas industri, inflasi konsumen, dan penerimaan pajak nasional pada 29 Juni hingga 3 Juli 2026."
-          },
-          {
-            "q": "Bagaimana perang Timur Tengah memengaruhi inflasi Korea?",
-            "a": "Melalui minyak, ongkos angkut, dan kurs, yang dapat menaikkan biaya energi serta bahan impor dalam won."
-          },
-          {
-            "q": "Mengapa penerimaan pajak penting?",
-            "a": "Karena mencerminkan laba, konsumsi, dan pendapatan, serta menentukan ruang fiskal pemerintah."
           }
         ]
       }
