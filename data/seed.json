@@ -1,5 +1,388 @@
 [
   {
+    "id": "bda5ef0ed490",
+    "slug": "opinion-warsh-the-fed-and-market-signals-717997",
+    "channelId": "MACRO",
+    "category": "macro",
+    "publishedAt": "2026-08-03T17:08:08.023Z",
+    "updatedAt": "2026-08-03T17:08:08.023Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.wsj.com/opinion/kevin-warsh-federal-reserve-fomc-investors-f562d456?mod=rss_markets_main",
+    "titleFingerprint": "e3ab7a9e2dd9dd5e06a2d5a9c818be6ea6cf7b88",
+    "dedupKeys": [
+      "bda5ef0ed490e5c12c71fc533d761c591dcf479f",
+      "e3ab7a9e2dd9dd5e06a2d5a9c818be6ea6cf7b88",
+      "5ec96a001b1f1824707fbfc87b6407c946a15cfb"
+    ],
+    "imageUrl": "",
+    "i18n": {
+      "ko": {
+        "title": "워시의 연준 2% 물가목표 원칙, 시장 신호 중시가 미국 통화정책 변수로 부상",
+        "excerpt": "케빈 워시는 연준의 물가 안정 기준을 2%로 단단히 고정하고 채권·주식·외환시장의 신호를 정책 판단에 반영해야 한다는 입장을 분명히 하며 금리 전망의 핵심 변수로 떠올랐다.",
+        "metaDescription": "워시의 2% 인플레이션 목표와 시장 신호 중시 기조가 연준 금리 경로, 달러, 원화, 한국 증시와 채권시장에 미칠 영향을 분석한다.",
+        "summary": "케빈 워시는 연준이 2% 인플레이션 목표를 흔들림 없이 지켜야 한다는 원칙을 내세운다. 동시에 채권금리, 기대인플레이션, 달러 흐름 등 시장 가격이 보내는 신호를 정책 판단의 핵심 자료로 본다. 이 접근은 금리 인하 기대를 낮추고 한국 금융시장에도 환율·금리 변동성을 키울 수 있다.",
+        "body": "케빈 워시의 통화정책 기조는 한 문장으로 압축된다. 연준의 인플레이션 목표는 2%여야 하며, 그 목표는 경기나 정치 일정에 따라 느슨하게 해석돼서는 안 된다. 동시에 중앙은행은 시장을 단순한 반응 집단으로 보지 않고, 채권금리와 주가, 달러, 기대인플레이션이 보내는 가격 신호를 정책 판단에 적극 반영해야 한다는 입장이다.\n\n## 2% 물가목표를 낮추지 않는 원칙\n워시의 핵심은 연준 신뢰다. 물가상승률이 목표보다 높은 상태에서 목표 자체를 완화하거나 일시적 예외를 넓게 인정하면, 가계와 기업은 장기 물가 기대를 다시 높일 수 있다. 미국 통화정책에서 2%는 단순한 숫자가 아니라 임금 협상, 회사채 발행, 주택담보대출 금리, 장기 국채 가격을 묶는 기준점이다. 이 기준점이 흔들리면 연준은 더 높은 금리를 더 오래 유지해야 신뢰를 회복할 수 있다.\n\n워시는 이런 이유로 물가 둔화가 확인되기 전의 성급한 금리 인하에 신중하다. 소비자물가와 개인소비지출 물가지표가 목표에 충분히 가까워지고, 서비스 물가와 임금 상승 압력이 안정돼야 정책 완화의 명분이 생긴다. 2% 목표는 협상 가능한 상한선이 아니라 정책 반응 함수의 중심축으로 작동한다.\n\n## 시장 신호를 읽는 연준\n또 하나의 축은 시장 신호다. 국채 2년물 금리는 기준금리 전망을 빠르게 반영하고, 10년물 금리는 성장률과 물가 기대를 함께 담는다. 손익분기 인플레이션, 달러지수, 신용스프레드, 주식시장의 위험 선호도 역시 금융 여건을 보여준다. 워시식 접근에서는 이 지표들이 중앙은행의 정책 실패를 조기에 경고하는 계기판이 된다.\n\n다만 시장을 그대로 따라가는 것은 아니다. 시장 가격은 때로 과도한 낙관이나 공포를 반영한다. 핵심은 시장이 왜 움직였는지 해석하는 일이다. 장기금리가 오르는 이유가 성장 기대인지, 물가 불안인지, 재정 리스크인지에 따라 연준의 대응은 달라진다. 시장 신호를 중시한다는 말은 금리 결정을 시장에 위임한다는 뜻이 아니라, 정책 판단의 사각지대를 줄인다는 의미다.\n\n## 한국 시장에 미치는 파장\n한국 투자자에게 이 기조는 환율과 채권금리의 변수다. 연준이 2% 목표를 강하게 고수하면 미국 금리 인하 기대는 약해지고 달러 강세 압력이 커질 수 있다. 원·달러 환율이 상승하면 수입물가와 에너지 비용 부담이 커지고, 한국은행의 금리 인하 여지도 좁아진다. 국내 주식시장에서는 성장주와 고밸류에이션 업종이 할인율 상승에 민감하게 반응할 수 있다.\n\n반대로 시장 신호를 정교하게 읽는 연준은 갑작스러운 긴축 충격을 줄일 가능성도 있다. 신용스프레드 확대나 유동성 경색이 뚜렷해지면 정책 커뮤니케이션을 통해 금융 불안을 완화할 수 있기 때문이다. 앞으로의 관건은 미국 물가가 2% 경로로 실제 수렴하는지, 그리고 시장금리가 그 수렴을 신뢰하는지다. 워시의 원칙이 부각될수록 투자자는 연준 발언보다 시장 가격과 물가 지표를 함께 읽어야 한다.",
+        "keywords": [
+          "워시",
+          "연준",
+          "2% 물가목표",
+          "인플레이션",
+          "시장 신호",
+          "미국 금리",
+          "달러",
+          "원달러 환율",
+          "한국 채권시장",
+          "워시의 연준 2% 물가목표 원칙, 시"
+        ],
+        "faq": [
+          {
+            "q": "워시의 통화정책 핵심은 무엇인가?",
+            "a": "연준의 2% 인플레이션 목표를 엄격히 유지하고, 채권·외환·주식시장이 보내는 신호를 정책 판단에 적극 반영하는 것이다."
+          },
+          {
+            "q": "2% 물가목표가 왜 중요한가?",
+            "a": "2%는 장기 물가 기대와 금리, 임금, 자산가격을 묶는 기준점이다. 이 목표가 흔들리면 연준 신뢰가 약해질 수 있다."
+          },
+          {
+            "q": "한국 시장에는 어떤 영향이 있나?",
+            "a": "미국 금리 인하 기대가 낮아지면 달러 강세와 원화 약세 압력이 커질 수 있고, 국내 채권금리와 성장주 밸류에이션에도 부담이 될 수 있다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Warsh’s Firm 2% Fed Inflation Target Puts Market Signals at Center of Rate Debate",
+        "excerpt": "Kevin Warsh is emerging as a key monetary-policy reference point by insisting on a firm 2% inflation target while treating market prices as essential signals for the Federal Reserve.",
+        "metaDescription": "Warsh’s strict 2% inflation target and focus on market signals could shape Fed rate expectations, the dollar, Korean won volatility, bonds and equities.",
+        "summary": "Kevin Warsh’s policy stance centers on a hard 2% inflation target for the Federal Reserve. He also treats bond yields, inflation expectations, the dollar and risk sentiment as crucial signals for central-bank decisions. The approach can restrain rate-cut hopes and affect Korean markets through exchange rates and bond yields.",
+        "body": "Kevin Warsh’s monetary-policy view is clear: the Federal Reserve’s inflation target should remain firmly anchored at 2%, and that standard should not be softened by the business cycle or political timing. At the same time, the Fed should read market signals carefully, using bond yields, equities, the dollar and inflation expectations as real-time evidence about financial conditions.\n\n## A Hard 2% Anchor\nWarsh’s central concern is Fed credibility. If inflation remains above target and policymakers loosen the definition of success, households and companies can reset long-term price expectations higher. The 2% target is not just a number. It anchors wage bargaining, mortgage rates, corporate borrowing and long-term Treasury pricing. If that anchor weakens, the Fed may need tighter policy for longer to restore confidence.\n\nThat makes premature rate cuts difficult to justify. Inflation must move convincingly toward target, with services prices and wage pressures cooling enough to support policy easing. In this framework, 2% is the center of the reaction function, not a flexible ceiling.\n\n## Reading Market Signals\nThe second pillar is market information. Two-year Treasury yields show near-term policy expectations, while 10-year yields combine views on growth and inflation. Breakeven inflation, credit spreads, the dollar and equity risk appetite all help reveal financial conditions. These indicators can warn the Fed early when policy is too loose, too tight or poorly understood.\n\nMarket prices are not commands. They can reflect excessive optimism or fear. The point is interpretation: rising long-term yields mean different things when driven by growth hopes, inflation anxiety or fiscal risk.\n\n## Impact on Korea\nFor Korean investors, this stance matters through the dollar, won and bond yields. A firm 2% target can reduce expectations for early U.S. rate cuts and support dollar strength. A weaker won can raise import and energy costs, limiting room for the Bank of Korea to ease. Korean growth stocks and high-valuation sectors may also face pressure if discount rates rise. The key test ahead is whether U.S. inflation keeps converging toward 2% and whether markets trust that path.",
+        "keywords": [
+          "Warsh",
+          "Federal Reserve",
+          "2% inflation target",
+          "inflation",
+          "market signals",
+          "US rates",
+          "dollar",
+          "Korean won",
+          "bond market",
+          "Warsh’s Firm 2% Fed"
+        ],
+        "faq": [
+          {
+            "q": "What is Warsh’s core monetary-policy position?",
+            "a": "He supports a strict 2% inflation target and believes the Fed should pay close attention to signals from bond, currency and equity markets."
+          },
+          {
+            "q": "Why does the 2% target matter?",
+            "a": "It anchors long-term inflation expectations, interest rates, wages and asset pricing. Weakening it could damage Fed credibility."
+          },
+          {
+            "q": "How could this affect Korea?",
+            "a": "Fewer expected U.S. rate cuts can support the dollar, pressure the won and influence Korean bond yields and equity valuations."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ウォーシュ氏のFRB2％物価目標重視、金利と市場シグナルの焦点に",
+        "excerpt": "ケビン・ウォーシュ氏はFRBの2％インフレ目標を厳格に守り、債券・株式・為替市場のシグナルを政策判断に反映すべきだとの立場を鮮明にしている。",
+        "metaDescription": "ウォーシュ氏の2％物価目標と市場シグナル重視が、FRBの金利見通し、ドル、ウォン、韓国株式・債券市場に与える影響を分析する。",
+        "summary": "ウォーシュ氏の政策姿勢は、FRBが2％インフレ目標を揺るがせてはならないという原則にある。国債利回り、期待インフレ、ドル、リスク選好も重要な判断材料となる。この姿勢は利下げ期待を抑え、韓国市場にも波及し得る。",
+        "body": "ケビン・ウォーシュ氏の金融政策観は明快だ。FRBのインフレ目標は2％に固定されるべきで、景気循環や政治日程によって緩く解釈されてはならない。同時に中央銀行は市場を単なる反応主体ではなく、政策判断に役立つ情報源として扱うべきだと考える。\n\n## 2％目標という信認の軸\nウォーシュ氏が重視するのはFRBの信認である。物価上昇率が目標を上回るなかで基準を緩めれば、家計や企業の長期期待インフレは再び上がりかねない。2％は単なる数字ではなく、賃金交渉、住宅ローン金利、社債発行、長期国債価格を結びつける基準点だ。この基準が揺らげば、FRBは信認回復のため高めの金利を長く維持する必要が生じる。\n\nそのため、物価鈍化が十分に確認される前の早期利下げには慎重な姿勢となる。サービス価格や賃金圧力が落ち着き、物価指標が2％に近づくことが政策緩和の条件になる。\n\n## 市場シグナルの読み方\nもう一つの柱は市場価格である。米2年国債利回りは政策金利の見通しを、10年利回りは成長と物価期待を反映する。期待インフレ、ドル、信用スプレッド、株式市場のリスク選好も金融環境を示す。\n\nただし市場に従うという意味ではない。長期金利上昇が成長期待、物価不安、財政リスクのどれによるものかで対応は変わる。市場シグナル重視とは、政策判断の盲点を減らす姿勢だ。\n\n## 韓国市場への影響\n韓国の投資家には為替と債券金利を通じて影響が出る。FRBが2％目標を強く守れば米利下げ期待は後退し、ドル高圧力が強まりやすい。ウォン安は輸入物価とエネルギー負担を高め、韓国銀行の利下げ余地を狭める。今後の焦点は米インフレが本当に2％へ収束し、市場がその道筋を信頼するかにある。",
+        "keywords": [
+          "ウォーシュ",
+          "FRB",
+          "2％物価目標",
+          "インフレ",
+          "市場シグナル",
+          "米金利",
+          "ドル",
+          "ウォン",
+          "韓国債券市場",
+          "ウォーシュ氏のFRB2％物価目標重視、金"
+        ],
+        "faq": [
+          {
+            "q": "ウォーシュ氏の政策姿勢は何か。",
+            "a": "FRBの2％インフレ目標を厳格に守り、市場価格のシグナルを政策判断に反映する姿勢だ。"
+          },
+          {
+            "q": "2％目標はなぜ重要か。",
+            "a": "長期期待インフレ、金利、賃金、資産価格の基準点であり、揺らぐと中央銀行の信認が弱まる。"
+          },
+          {
+            "q": "韓国市場への影響は。",
+            "a": "米利下げ期待が後退すればドル高・ウォン安圧力が強まり、韓国の債券金利や株式評価にも影響する。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "沃什坚持美联储2%通胀目标，市场信号成利率路径关键变量",
+        "excerpt": "凯文·沃什强调美联储必须坚守2%通胀目标，同时把债券、股票、美元和通胀预期等市场信号纳入政策判断，影响利率预期。",
+        "metaDescription": "沃什的2%通胀目标立场和市场信号框架，可能影响美联储利率、美元、韩元汇率以及韩国股票和债券市场。",
+        "summary": "沃什的货币政策立场以美联储2%通胀目标为核心。他认为市场价格能反映金融条件和政策预期，应成为央行判断的重要依据。这一框架可能压低降息预期，并通过美元和利率影响韩国市场。",
+        "body": "凯文·沃什的货币政策立场十分明确：美联储的通胀目标应牢牢锁定在2%，不能因经济周期或政治时点而被放松解释。同时，央行必须认真读取市场信号，把债券收益率、股票价格、美元走势和通胀预期视为判断金融条件的重要证据。\n\n## 2%目标是信誉锚\n沃什关注的核心是美联储信誉。如果通胀仍高于目标，而政策制定者降低成功标准，家庭和企业的长期通胀预期可能重新上升。2%并非普通数字，而是工资谈判、住房贷款利率、企业融资和长期国债定价的共同基准。若这一基准动摇，美联储可能需要把高利率维持更久才能修复信任。\n\n因此，在通胀明确回到目标附近之前，过早降息缺乏充分理由。服务价格和工资压力必须降温，核心物价路径也要更接近2%。\n\n## 市场信号进入政策框架\n另一支柱是市场价格。两年期美债收益率反映短期政策利率预期，十年期收益率同时包含增长和通胀判断。盈亏平衡通胀率、美元指数、信用利差和股市风险偏好，也都能显示金融环境变化。\n\n重视市场并不等于跟随市场。长期利率上升可能来自增长信心、通胀忧虑或财政风险，不同原因需要不同政策反应。关键是解释价格变化背后的含义。\n\n## 对韩国市场的影响\n对韩国投资者而言，这一立场会通过美元、韩元和债券收益率传导。若美联储强力维护2%目标，美国提前降息预期会减弱，美元可能保持强势。韩元走弱会推高进口价格和能源成本，也会限制韩国央行降息空间。韩国成长股和高估值行业则可能因贴现率上升承压。后续焦点是美国通胀能否真正向2%收敛，以及市场是否相信这一过程。",
+        "keywords": [
+          "沃什",
+          "美联储",
+          "2%通胀目标",
+          "通胀",
+          "市场信号",
+          "美国利率",
+          "美元",
+          "韩元",
+          "韩国债市",
+          "沃什坚持美联储2%通胀目标，市场信号成利"
+        ],
+        "faq": [
+          {
+            "q": "沃什的核心政策立场是什么？",
+            "a": "他主张严格维持美联储2%通胀目标，并重视债券、外汇和股票市场发出的政策信号。"
+          },
+          {
+            "q": "为什么2%目标重要？",
+            "a": "它锚定长期通胀预期、利率、工资和资产定价，若被削弱会损害美联储信誉。"
+          },
+          {
+            "q": "这会如何影响韩国？",
+            "a": "美国降息预期下降可能推升美元、压低韩元，并影响韩国债券收益率和股票估值。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Warsh defiende la meta de inflación del 2% de la Fed y eleva el peso del mercado",
+        "excerpt": "Kevin Warsh sostiene que la Fed debe mantener una meta de inflación firme del 2% y usar las señales de bonos, acciones, dólar y expectativas como guía de política.",
+        "metaDescription": "La postura de Warsh sobre la meta del 2% y las señales de mercado puede influir en tasas de la Fed, dólar, won coreano, bonos y acciones.",
+        "summary": "La visión de Warsh se apoya en una meta de inflación del 2% estricta para la Reserva Federal. También otorga importancia a los rendimientos, el dólar, los diferenciales de crédito y las expectativas de inflación. Ese enfoque puede reducir apuestas de recortes de tasas y afectar a Corea mediante divisas y bonos.",
+        "body": "La posición monetaria de Kevin Warsh es directa: la Reserva Federal debe mantener su objetivo de inflación anclado en el 2% y no reinterpretarlo de forma laxa por el ciclo económico o el calendario político. Al mismo tiempo, el banco central debe leer con atención las señales del mercado, desde los rendimientos de los bonos hasta el dólar, las acciones y las expectativas de inflación.\n\n## El 2% como ancla\nEl punto central es la credibilidad de la Fed. Si la inflación sigue por encima del objetivo y la autoridad monetaria suaviza el estándar, hogares y empresas pueden elevar sus expectativas de precios a largo plazo. El 2% no es solo una cifra: ordena negociaciones salariales, hipotecas, deuda corporativa y precios de los bonos del Tesoro. Si esa referencia se debilita, la Fed podría necesitar tasas altas durante más tiempo.\n\nPor eso, recortar tasas antes de una desaceleración clara de la inflación sería difícil de justificar. Los precios de servicios y la presión salarial deben enfriarse de manera suficiente para abrir espacio a una política más flexible.\n\n## Señales del mercado\nEl segundo eje es la información de mercado. El rendimiento del Treasury a dos años refleja expectativas de política monetaria, mientras que el de diez años combina crecimiento e inflación. La inflación implícita, el dólar, los diferenciales de crédito y el apetito por riesgo completan el diagnóstico.\n\nAtender al mercado no significa obedecerlo. Un alza de tasas largas puede responder a mayor crecimiento, temor inflacionario o riesgo fiscal. La tarea es interpretar la causa.\n\n## Efecto en Corea\nPara Corea, el impacto llega por el dólar, el won y los bonos. Una Fed aferrada al 2% puede reducir expectativas de recortes y fortalecer al dólar. Un won más débil encarece importaciones y energía, y limita el margen del Banco de Corea para bajar tasas. Las acciones de crecimiento y sectores con valoraciones altas pueden resentir mayores tasas de descuento. La clave será si la inflación estadounidense converge realmente al 2%.",
+        "keywords": [
+          "Warsh",
+          "Reserva Federal",
+          "meta de inflación 2%",
+          "inflación",
+          "señales de mercado",
+          "tasas de EEUU",
+          "dólar",
+          "won coreano",
+          "bonos",
+          "Warsh defiende la me"
+        ],
+        "faq": [
+          {
+            "q": "¿Cuál es la postura central de Warsh?",
+            "a": "Defiende una meta estricta de inflación del 2% y el uso de señales de mercado en las decisiones de la Fed."
+          },
+          {
+            "q": "¿Por qué importa la meta del 2%?",
+            "a": "Ancla expectativas de inflación, tasas, salarios y precios de activos. Debilitarla dañaría la credibilidad de la Fed."
+          },
+          {
+            "q": "¿Cómo afecta a Corea?",
+            "a": "Menos expectativas de recortes en EEUU pueden fortalecer el dólar, presionar al won y mover bonos y acciones coreanas."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Warsh sustenta meta de inflação de 2% do Fed e coloca sinais de mercado no centro",
+        "excerpt": "Kevin Warsh defende que o Fed mantenha a meta de inflação de 2% com rigor e use sinais de títulos, ações, dólar e expectativas como base para decisões.",
+        "metaDescription": "A postura de Warsh sobre a meta de 2% e os sinais de mercado pode afetar juros do Fed, dólar, won coreano, títulos e bolsas.",
+        "summary": "A visão de Warsh tem como eixo uma meta de inflação de 2% rígida para o Federal Reserve. Ele também valoriza rendimentos, dólar, spreads de crédito e expectativas de inflação como sinais de política. O efeito pode ser menor aposta em cortes de juros e maior impacto sobre Coreia via câmbio e renda fixa.",
+        "body": "A posição de Kevin Warsh sobre política monetária é clara: o Federal Reserve deve manter a meta de inflação firmemente ancorada em 2%, sem flexibilizar esse padrão por causa do ciclo econômico ou do calendário político. Ao mesmo tempo, o banco central deve observar com atenção os sinais de mercado, incluindo juros dos títulos, ações, dólar e expectativas de inflação.\n\n## O 2% como âncora\nO foco de Warsh é a credibilidade do Fed. Se a inflação segue acima da meta e a autoridade monetária suaviza o critério, famílias e empresas podem elevar suas expectativas de inflação de longo prazo. O 2% não é apenas um número. Ele orienta salários, hipotecas, dívida corporativa e preços dos Treasuries. Se essa referência enfraquece, o Fed pode precisar manter juros altos por mais tempo.\n\nPor isso, cortes prematuros ficam difíceis de justificar. A inflação precisa se aproximar claramente da meta, com serviços e salários mostrando arrefecimento consistente.\n\n## O papel dos mercados\nO segundo eixo é a informação embutida nos preços. O Treasury de dois anos mostra expectativas para a política monetária; o de dez anos combina crescimento e inflação. Inflação implícita, dólar, spreads de crédito e apetite por risco completam a leitura das condições financeiras.\n\nValorizar o mercado não significa segui-lo automaticamente. Uma alta nos juros longos pode refletir crescimento, medo de inflação ou risco fiscal. A resposta depende da causa.\n\n## Reflexos na Coreia\nPara investidores coreanos, a transmissão passa por dólar, won e juros. Um Fed comprometido com 2% pode reduzir apostas em cortes e sustentar o dólar. Um won mais fraco eleva importações e energia, limitando o espaço do Banco da Coreia para cortar juros. Ações de crescimento e setores caros também sofrem com maior taxa de desconto. O teste será a convergência real da inflação dos EUA para 2%.",
+        "keywords": [
+          "Warsh",
+          "Federal Reserve",
+          "meta de inflação de 2%",
+          "inflação",
+          "sinais de mercado",
+          "juros dos EUA",
+          "dólar",
+          "won coreano",
+          "mercado de títulos",
+          "Warsh sustenta meta"
+        ],
+        "faq": [
+          {
+            "q": "Qual é a posição central de Warsh?",
+            "a": "Ele defende uma meta rígida de inflação de 2% e atenção aos sinais de títulos, moedas e ações."
+          },
+          {
+            "q": "Por que a meta de 2% importa?",
+            "a": "Ela ancora expectativas de inflação, juros, salários e preços de ativos; enfraquecê-la reduziria a credibilidade do Fed."
+          },
+          {
+            "q": "Como isso afeta a Coreia?",
+            "a": "Menos cortes esperados nos EUA podem fortalecer o dólar, pressionar o won e influenciar títulos e ações coreanas."
+          }
+        ]
+      },
+      "de": {
+        "title": "Warshs striktes 2-Prozent-Ziel der Fed rückt Marktsignale in den Mittelpunkt",
+        "excerpt": "Kevin Warsh setzt auf ein hartes Inflationsziel von 2% für die Fed und will Signale aus Anleihen, Aktien, Dollar und Inflationserwartungen stärker nutzen.",
+        "metaDescription": "Warshs striktes 2%-Inflationsziel und der Fokus auf Marktsignale könnten Fed-Zinsen, Dollar, Won, Anleihen und Aktien in Korea beeinflussen.",
+        "summary": "Warshs geldpolitischer Ansatz beruht auf einem festen 2%-Inflationsziel der Federal Reserve. Zugleich gelten Renditen, Dollar, Kreditspreads und Inflationserwartungen als wichtige Signale. Das kann Zinssenkungserwartungen dämpfen und über Wechselkurse sowie Anleiherenditen nach Korea wirken.",
+        "body": "Kevin Warshs geldpolitische Linie ist klar: Das Inflationsziel der Federal Reserve muss fest bei 2% verankert bleiben und darf nicht je nach Konjunktur oder politischem Kalender aufgeweicht werden. Gleichzeitig sollte die Notenbank Marktsignale genau lesen, darunter Anleiherenditen, Aktienkurse, den Dollar und Inflationserwartungen.\n\n## 2% als Vertrauensanker\nIm Zentrum steht die Glaubwürdigkeit der Fed. Bleibt die Inflation über dem Ziel und wird der Maßstab gelockert, können Haushalte und Unternehmen ihre langfristigen Preiserwartungen nach oben anpassen. Das 2%-Ziel ist mehr als eine Zahl. Es prägt Lohnverhandlungen, Hypothekenzinsen, Unternehmensfinanzierung und die Bewertung langfristiger Staatsanleihen. Wackelt dieser Anker, müsste die Fed womöglich länger hohe Zinsen halten.\n\nFrühe Zinssenkungen sind in diesem Rahmen schwer zu rechtfertigen. Dienstleistungen, Löhne und Kernpreise müssen überzeugend in Richtung Ziel nachlassen.\n\n## Märkte als Signalgeber\nDer zweite Pfeiler sind Marktpreise. Zweijährige US-Renditen zeigen kurzfristige Zinserwartungen, zehnjährige Renditen verbinden Wachstum und Inflation. Breakeven-Inflation, Dollar, Kreditspreads und Risikoneigung an Aktienmärkten zeigen die Finanzierungsbedingungen.\n\nDas bedeutet nicht, Märkten blind zu folgen. Steigende Langfristzinsen können Wachstumshoffnung, Inflationsangst oder Fiskalrisiken spiegeln. Entscheidend ist die Ursache.\n\n## Folgen für Korea\nFür Korea läuft die Wirkung über Dollar, Won und Anleihezinsen. Eine Fed, die strikt am 2%-Ziel festhält, kann Zinssenkungserwartungen verringern und den Dollar stützen. Ein schwächerer Won verteuert Importe und Energie und begrenzt den Spielraum der Bank of Korea. Wachstumsaktien und hoch bewertete Sektoren reagieren empfindlich auf höhere Abzinsungssätze. Entscheidend bleibt, ob US-Inflation glaubwürdig auf 2% zusteuert.",
+        "keywords": [
+          "Warsh",
+          "Federal Reserve",
+          "2%-Inflationsziel",
+          "Inflation",
+          "Marktsignale",
+          "US-Zinsen",
+          "Dollar",
+          "koreanischer Won",
+          "Anleihemarkt",
+          "Warshs striktes 2-Pr"
+        ],
+        "faq": [
+          {
+            "q": "Was ist Warshs Kernposition?",
+            "a": "Er befürwortet ein striktes 2%-Inflationsziel und eine starke Beachtung von Marktpreisen in Fed-Entscheidungen."
+          },
+          {
+            "q": "Warum ist das 2%-Ziel wichtig?",
+            "a": "Es verankert Inflationserwartungen, Zinsen, Löhne und Vermögenspreise. Eine Aufweichung würde Glaubwürdigkeit kosten."
+          },
+          {
+            "q": "Wie wirkt das auf Korea?",
+            "a": "Geringere US-Zinssenkungserwartungen können den Dollar stärken, den Won belasten und koreanische Anleihen sowie Aktien bewegen."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Warsh impose la cible d’inflation de 2% de la Fed et valorise les signaux de marché",
+        "excerpt": "Kevin Warsh défend une cible d’inflation ferme de 2% pour la Fed et place les signaux des obligations, actions, dollar et anticipations au cœur du jugement monétaire.",
+        "metaDescription": "La position de Warsh sur la cible de 2% et les signaux de marché peut influencer les taux de la Fed, le dollar, le won, les obligations et les actions coréennes.",
+        "summary": "La ligne de Warsh repose sur une cible d’inflation de 2% strictement maintenue par la Réserve fédérale. Il accorde aussi un rôle central aux rendements, au dollar, aux spreads de crédit et aux anticipations. Cette approche peut réduire les paris sur des baisses de taux et toucher la Corée par le change et les taux.",
+        "body": "La position monétaire de Kevin Warsh est nette: la Réserve fédérale doit conserver une cible d’inflation solidement fixée à 2%, sans l’assouplir selon le cycle économique ou le calendrier politique. Dans le même temps, la banque centrale doit lire attentivement les signaux de marché, notamment les rendements obligataires, les actions, le dollar et les anticipations d’inflation.\n\n## Le 2% comme ancre\nL’enjeu central est la crédibilité de la Fed. Si l’inflation reste au-dessus de la cible et que les responsables assouplissent le critère, ménages et entreprises peuvent relever leurs anticipations de prix à long terme. Le 2% n’est pas un simple chiffre: il guide les salaires, les prêts immobiliers, la dette d’entreprise et les prix des Treasuries. Si cette ancre faiblit, la Fed pourrait devoir maintenir des taux élevés plus longtemps.\n\nDes baisses de taux précoces sont donc difficiles à justifier. Les prix des services, les salaires et l’inflation sous-jacente doivent converger de façon crédible vers l’objectif.\n\n## Les marchés comme tableau de bord\nLe second pilier est l’information contenue dans les prix de marché. Le rendement américain à deux ans reflète les attentes de politique monétaire, tandis que le dix ans combine croissance et inflation. Inflation implicite, dollar, spreads de crédit et appétit pour le risque complètent le diagnostic.\n\nÉcouter le marché ne veut pas dire lui obéir. Une hausse des taux longs peut venir de la croissance, d’une peur d’inflation ou du risque budgétaire. La cause détermine la réponse.\n\n## Effets pour la Corée\nPour la Corée, la transmission passe par le dollar, le won et les rendements. Une Fed attachée au 2% peut réduire les attentes de baisse des taux et soutenir le dollar. Un won plus faible renchérit les importations et l’énergie, limitant la marge de la Banque de Corée. Les valeurs de croissance peuvent aussi souffrir de taux d’actualisation plus élevés. La clé sera la convergence réelle de l’inflation américaine vers 2%.",
+        "keywords": [
+          "Warsh",
+          "Réserve fédérale",
+          "cible d’inflation 2%",
+          "inflation",
+          "signaux de marché",
+          "taux américains",
+          "dollar",
+          "won coréen",
+          "obligations",
+          "Warsh impose la cibl"
+        ],
+        "faq": [
+          {
+            "q": "Quelle est la position centrale de Warsh?",
+            "a": "Il défend une cible d’inflation stricte de 2% et l’utilisation des signaux de marché dans les décisions de la Fed."
+          },
+          {
+            "q": "Pourquoi la cible de 2% compte-t-elle?",
+            "a": "Elle ancre les anticipations d’inflation, les taux, les salaires et les prix d’actifs; l’affaiblir nuirait à la crédibilité."
+          },
+          {
+            "q": "Quel impact pour la Corée?",
+            "a": "Moins d’anticipations de baisses de taux aux États-Unis peuvent renforcer le dollar, peser sur le won et affecter obligations et actions coréennes."
+          }
+        ]
+      },
+      "ar": {
+        "title": "وارش يتمسك بهدف تضخم 2% للفدرالي ويضع إشارات السوق في قلب قرار الفائدة",
+        "excerpt": "كيفن وراش يبرز كصوت نقدي في السياسة النقدية عبر تمسكه الصارم بهدف تضخم 2% واعتباره عوائد السندات والدولار والأسهم إشارات أساسية للفدرالي.",
+        "metaDescription": "نهج وراش القائم على هدف تضخم 2% وقراءة إشارات السوق قد يؤثر في فائدة الفدرالي والدولار والوون الكوري والسندات والأسهم.",
+        "summary": "يقوم موقف وراش على ضرورة تثبيت هدف التضخم لدى الفدرالي عند 2% دون تساهل. كما يرى أن أسعار السندات والدولار وفروق الائتمان وتوقعات التضخم تقدم إشارات مهمة لصانع السياسة. هذا النهج قد يحد من رهانات خفض الفائدة وينتقل أثره إلى كوريا عبر العملة والعوائد.",
+        "body": "موقف كيفن وراش من السياسة النقدية واضح: يجب أن يبقى هدف التضخم لدى مجلس الاحتياطي الفدرالي مثبتا عند 2%، وألا يعاد تفسيره بمرونة بسبب دورة الأعمال أو التوقيت السياسي. وفي الوقت نفسه، على البنك المركزي أن يقرأ إشارات السوق بدقة، من عوائد السندات إلى الأسهم والدولار وتوقعات التضخم.\n\n## هدف 2% كمرساة للثقة\nجوهر الطرح هو مصداقية الفدرالي. إذا ظل التضخم فوق الهدف وخفف صانعو السياسة معيار النجاح، فقد ترفع الأسر والشركات توقعاتها للأسعار على المدى الطويل. رقم 2% ليس تفصيلا فنيا فقط؛ إنه يؤثر في الأجور، والرهون العقارية، وتمويل الشركات، وتسعير سندات الخزانة الطويلة. وإذا ضعفت هذه المرساة، فقد يضطر الفدرالي إلى إبقاء الفائدة مرتفعة مدة أطول.\n\nلذلك تصبح التخفيضات المبكرة للفائدة صعبة التبرير. يجب أن تقترب مؤشرات الأسعار من الهدف، وأن تهدأ ضغوط الخدمات والأجور بشكل مقنع.\n\n## السوق كمصدر للمعلومات\nالركيزة الثانية هي الأسعار السوقية. عائد السندات الأميركية لأجل عامين يعكس توقعات السياسة القريبة، بينما يجمع عائد العشر سنوات بين النمو والتضخم. كما تكشف توقعات التضخم الضمنية، والدولار، وفروق الائتمان، وشهية المخاطرة عن حالة التمويل.\n\nالإنصات إلى السوق لا يعني اتباعه آليا. ارتفاع العوائد الطويلة قد يعكس تفاؤلا بالنمو أو قلقا من التضخم أو مخاطر مالية عامة. المهم هو تفسير السبب.\n\n## الأثر على كوريا\nبالنسبة إلى كوريا، ينتقل الأثر عبر الدولار والوون وعوائد السندات. تمسك الفدرالي بهدف 2% قد يقلل توقعات خفض الفائدة ويدعم الدولار. ضعف الوون يرفع تكلفة الواردات والطاقة ويحد من مجال بنك كوريا لخفض الفائدة. كما قد تتعرض أسهم النمو والقطاعات مرتفعة التقييم لضغط من ارتفاع معدلات الخصم. الاختبار المقبل هو اقتراب التضخم الأميركي فعليا من 2%.",
+        "keywords": [
+          "وارش",
+          "الاحتياطي الفدرالي",
+          "هدف تضخم 2%",
+          "التضخم",
+          "إشارات السوق",
+          "الفائدة الأميركية",
+          "الدولار",
+          "الوون الكوري",
+          "سوق السندات",
+          "وارش يتمسك بهدف تضخم"
+        ],
+        "faq": [
+          {
+            "q": "ما جوهر موقف وراش؟",
+            "a": "يدعم هدف تضخم صارما عند 2% ويرى أن الفدرالي يجب أن يراقب إشارات السندات والعملات والأسهم."
+          },
+          {
+            "q": "لماذا هدف 2% مهم؟",
+            "a": "لأنه يثبت توقعات التضخم والفائدة والأجور وأسعار الأصول، وإضعافه يضر بمصداقية الفدرالي."
+          },
+          {
+            "q": "كيف قد يؤثر ذلك في كوريا؟",
+            "a": "تراجع توقعات خفض الفائدة الأميركية قد يقوي الدولار، يضغط على الوون، ويؤثر في السندات والأسهم الكورية."
+          }
+        ]
+      },
+      "hi": {
+        "title": "वॉर्श का फेड के लिए सख्त 2% मुद्रास्फीति लक्ष्य, बाजार संकेत बने दरों की कुंजी",
+        "excerpt": "केविन वॉर्श फेड के 2% मुद्रास्फीति लक्ष्य को कठोरता से बनाए रखने और बॉन्ड, शेयर, डॉलर तथा अपेक्षाओं से मिले बाजार संकेतों को नीति में शामिल करने पर जोर देते हैं।",
+        "metaDescription": "वॉर्श का 2% मुद्रास्फीति लक्ष्य और बाजार संकेतों पर जोर फेड दरों, डॉलर, कोरियाई वॉन, बॉन्ड और शेयरों को प्रभावित कर सकता है।",
+        "summary": "वॉर्श की नीति सोच फेड के 2% मुद्रास्फीति लक्ष्य को मजबूत रखने पर आधारित है। वे बॉन्ड यील्ड, डॉलर, क्रेडिट स्प्रेड और मुद्रास्फीति अपेक्षाओं को महत्वपूर्ण संकेत मानते हैं। यह रुख दर कटौती की उम्मीद घटा सकता है और कोरिया में मुद्रा व बॉन्ड बाजारों को प्रभावित कर सकता है।",
+        "body": "केविन वॉर्श की मौद्रिक नीति सोच स्पष्ट है: फेडरल रिजर्व का मुद्रास्फीति लक्ष्य 2% पर मजबूती से टिका रहना चाहिए और इसे आर्थिक चक्र या राजनीतिक समय के कारण नरम नहीं किया जाना चाहिए। साथ ही केंद्रीय बैंक को बाजार संकेतों को गंभीरता से पढ़ना चाहिए, जिनमें बॉन्ड यील्ड, शेयर, डॉलर और मुद्रास्फीति अपेक्षाएं शामिल हैं।\n\n## 2% लक्ष्य की अहमियत\nवॉर्श के लिए मुख्य मुद्दा फेड की विश्वसनीयता है। यदि मुद्रास्फीति लक्ष्य से ऊपर रहे और नीति निर्माता सफलता की परिभाषा ढीली कर दें, तो परिवार और कंपनियां दीर्घकालिक कीमत अपेक्षाओं को ऊपर कर सकती हैं। 2% केवल एक संख्या नहीं है। यह मजदूरी, होम लोन दरों, कॉरपोरेट कर्ज और लंबी अवधि के ट्रेजरी मूल्यांकन को दिशा देता है। यह आधार कमजोर हुआ तो फेड को ऊंची दरें अधिक समय तक रखनी पड़ सकती हैं।\n\nइसलिए मुद्रास्फीति में ठोस कमी से पहले दर कटौती कठिन है। सेवाओं की कीमतों और वेतन दबाव को शांत होना होगा और कीमतों का रुझान 2% के करीब आना होगा।\n\n## बाजार संकेतों की भूमिका\nदूसरा स्तंभ बाजार मूल्य हैं। दो साल की अमेरिकी बॉन्ड यील्ड निकट अवधि की नीति उम्मीद दिखाती है, जबकि दस साल की यील्ड विकास और मुद्रास्फीति दोनों को दर्शाती है। ब्रेकईवन मुद्रास्फीति, डॉलर, क्रेडिट स्प्रेड और जोखिम लेने की प्रवृत्ति भी वित्तीय स्थितियों को बताती है।\n\nबाजार को सुनना उसका अनुसरण करना नहीं है। लंबी यील्ड में वृद्धि विकास भरोसे, मुद्रास्फीति चिंता या राजकोषीय जोखिम से आ सकती है। नीति प्रतिक्रिया कारण पर निर्भर करेगी।\n\n## कोरिया पर असर\nकोरिया के लिए असर डॉलर, वॉन और बॉन्ड यील्ड से आएगा। 2% लक्ष्य पर अड़ा फेड दर कटौती की उम्मीद घटा सकता है और डॉलर को समर्थन दे सकता है। कमजोर वॉन आयात और ऊर्जा लागत बढ़ाता है तथा बैंक ऑफ कोरिया की दर घटाने की गुंजाइश कम करता है। ऊंचे वैल्यूएशन वाले ग्रोथ शेयर भी दबाव में आ सकते हैं। आगे की कसौटी अमेरिकी मुद्रास्फीति का 2% की ओर विश्वसनीय रास्ता है।",
+        "keywords": [
+          "वॉर्श",
+          "फेडरल रिजर्व",
+          "2% मुद्रास्फीति लक्ष्य",
+          "मुद्रास्फीति",
+          "बाजार संकेत",
+          "अमेरिकी दरें",
+          "डॉलर",
+          "कोरियाई वॉन",
+          "बॉन्ड बाजार",
+          "वॉर्श का फेड के लिए"
+        ],
+        "faq": [
+          {
+            "q": "वॉर्श की मुख्य नीति स्थिति क्या है?",
+            "a": "वे 2% मुद्रास्फीति लक्ष्य को सख्ती से बनाए रखने और बाजार संकेतों को फेड के निर्णयों में शामिल करने के पक्ष में हैं।"
+          },
+          {
+            "q": "2% लक्ष्य क्यों अहम है?",
+            "a": "यह मुद्रास्फीति अपेक्षाओं, दरों, मजदूरी और संपत्ति मूल्यों को आधार देता है। इसके कमजोर होने से फेड की विश्वसनीयता घट सकती है।"
+          },
+          {
+            "q": "इसका कोरिया पर क्या असर होगा?",
+            "a": "अमेरिकी दर कटौती की उम्मीद घटने से डॉलर मजबूत, वॉन कमजोर और कोरियाई बॉन्ड व शेयर प्रभावित हो सकते हैं।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Warsh Tegaskan Target Inflasi Fed 2%, Sinyal Pasar Jadi Kunci Arah Suku Bunga",
+        "excerpt": "Kevin Warsh menekankan target inflasi Fed 2% yang tegas dan pentingnya membaca sinyal obligasi, saham, dolar, serta ekspektasi inflasi dalam keputusan kebijakan.",
+        "metaDescription": "Sikap Warsh soal target inflasi 2% dan sinyal pasar dapat memengaruhi suku bunga Fed, dolar, won Korea, obligasi dan saham.",
+        "summary": "Pendekatan Warsh bertumpu pada target inflasi Federal Reserve 2% yang tidak boleh dilonggarkan. Ia juga menilai imbal hasil obligasi, dolar, spread kredit dan ekspektasi inflasi sebagai sinyal penting. Dampaknya bisa menekan harapan pemangkasan suku bunga dan merambat ke Korea melalui kurs dan obligasi.",
+        "body": "Pandangan kebijakan moneter Kevin Warsh jelas: target inflasi Federal Reserve harus tetap tertambat kuat di 2% dan tidak dilonggarkan karena siklus ekonomi atau kalender politik. Pada saat yang sama, bank sentral harus membaca sinyal pasar secara serius, mulai dari imbal hasil obligasi, saham, dolar, hingga ekspektasi inflasi.\n\n## Target 2% sebagai jangkar\nFokus utama Warsh adalah kredibilitas Fed. Jika inflasi masih di atas target dan pembuat kebijakan melunakkan standar keberhasilan, rumah tangga dan perusahaan dapat menaikkan ekspektasi harga jangka panjang. Angka 2% bukan sekadar angka teknis. Ia menjadi acuan upah, KPR, pembiayaan korporasi dan harga Treasury jangka panjang. Jika jangkar ini melemah, Fed mungkin perlu mempertahankan suku bunga tinggi lebih lama.\n\nKarena itu, pemangkasan suku bunga terlalu dini sulit dibenarkan. Harga jasa, tekanan upah dan inflasi inti harus menunjukkan penurunan yang meyakinkan menuju target.\n\n## Membaca sinyal pasar\nPilar kedua adalah harga pasar. Imbal hasil Treasury dua tahun mencerminkan ekspektasi kebijakan jangka pendek, sementara tenor sepuluh tahun memuat pandangan tentang pertumbuhan dan inflasi. Inflasi impas, dolar, spread kredit dan selera risiko saham juga menunjukkan kondisi keuangan.\n\nMemperhatikan pasar bukan berarti mengikutinya begitu saja. Kenaikan imbal hasil jangka panjang bisa berasal dari optimisme pertumbuhan, kecemasan inflasi atau risiko fiskal. Respons kebijakan bergantung pada penyebabnya.\n\n## Dampak bagi Korea\nBagi Korea, dampaknya terasa melalui dolar, won dan imbal hasil obligasi. Fed yang kuat mempertahankan target 2% dapat mengurangi ekspektasi pemangkasan suku bunga dan menopang dolar. Won yang lebih lemah menaikkan biaya impor dan energi, sekaligus membatasi ruang Bank of Korea untuk melonggarkan kebijakan. Saham pertumbuhan dan sektor bernilai tinggi juga rentan terhadap kenaikan tingkat diskonto. Ujian berikutnya adalah apakah inflasi AS benar-benar bergerak menuju 2%.",
+        "keywords": [
+          "Warsh",
+          "Federal Reserve",
+          "target inflasi 2%",
+          "inflasi",
+          "sinyal pasar",
+          "suku bunga AS",
+          "dolar",
+          "won Korea",
+          "pasar obligasi",
+          "Warsh Tegaskan Targe"
+        ],
+        "faq": [
+          {
+            "q": "Apa inti pandangan Warsh?",
+            "a": "Ia mendukung target inflasi 2% yang ketat dan perhatian besar pada sinyal pasar dalam keputusan Fed."
+          },
+          {
+            "q": "Mengapa target 2% penting?",
+            "a": "Target itu menambatkan ekspektasi inflasi, suku bunga, upah dan harga aset. Pelemahan target dapat merusak kredibilitas Fed."
+          },
+          {
+            "q": "Bagaimana dampaknya terhadap Korea?",
+            "a": "Ekspektasi pemangkasan suku bunga AS yang lebih rendah dapat memperkuat dolar, menekan won, dan memengaruhi obligasi serta saham Korea."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "b86669c6e48a",
     "slug": "treasury-yields-fall-482734",
     "channelId": "MACRO",
@@ -22159,378 +22542,6 @@
           {
             "q": "Indikator apa yang perlu dipantau investor?",
             "a": "Suku bunga, kurs won-dolar, kepercayaan konsumen, kualitas pekerjaan, dan investasi konstruksi."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "f9d93be2ba6f",
-    "slug": "계란-10개에-5000원물가-폭등에-1조원-쏟아-붓는다-843253",
-    "channelId": "MACRO",
-    "category": "macro",
-    "publishedAt": "2026-06-28T03:35:37.708Z",
-    "updatedAt": "2026-06-28T03:35:37.709Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.hankyung.com/article/2026062817777",
-    "titleFingerprint": "45f2da4b55c5d17e2831c48218adfcbc922352aa",
-    "dedupKeys": [
-      "f9d93be2ba6f1d54068c8665410e4a341e39345b",
-      "45f2da4b55c5d17e2831c48218adfcbc922352aa",
-      "26ac5f4680e974f5061aec2d30c3f820776221ec"
-    ],
-    "imageUrl": "/images/articles/f9d93be2ba6f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "계란 10개 5000원 물가 충격에 1조원 투입, 장바구니 안정 총력",
-        "excerpt": "계란 10개 가격이 5000원 선까지 오르며 생활물가 압박이 커지자 정부가 먹거리 가격 안정을 위해 1조원 규모 재정을 투입해 할인 지원과 수급 관리에 나선다.",
-        "metaDescription": "계란 10개 5000원 시대가 현실화되며 정부가 1조원 규모 물가 안정 재정을 투입한다. 장바구니 부담, 식품업계 영향, 향후 전망을 정리했다.",
-        "summary": "계란 10개 가격이 5000원에 이르며 서민 체감 물가가 다시 흔들리고 있다. 정부는 먹거리 물가 안정을 위해 1조원 규모 재정을 투입한다. 할인 지원과 수급 관리가 병행되지만, 사료비·유통비·기상 변수는 여전히 가격 압력으로 남는다. 소비자와 식품업계 모두 비용 관리가 핵심 과제가 됐다.",
-        "body": "계란 10개 5000원은 단순한 품목 가격 상승이 아니라 한국 가계가 매일 체감하는 생활물가 경고음이다. 밥상 기본 식재료인 계란 가격이 이 수준까지 오르면서 정부는 먹거리 물가 안정을 위해 1조원 규모 재정을 투입한다. 이번 대응의 초점은 소비자 체감 가격을 낮추고, 농축산물 수급 불안을 완화하며, 유통 단계의 가격 전가를 줄이는 데 맞춰져 있다.\n\n## 계란값이 흔든 장바구니 물가\n계란은 외식, 제과, 급식, 가정식에 폭넓게 쓰이는 대표 필수 식품이다. 10개 5000원은 1개당 500원 수준이며, 30개 한 판으로 환산하면 1만5000원 안팎의 부담이다. 계란값이 오르면 단순히 가정 구매비만 늘지 않는다. 김밥, 샌드위치, 빵, 도시락, 학교·회사 급식 원가까지 함께 움직인다. 소비자가 마트 계산대에서 느끼는 부담이 외식 가격과 가공식품 가격으로 이어질 수 있는 구조다.\n\n물가 상승의 배경에는 생산비와 유통비 부담이 동시에 깔려 있다. 사료비, 에너지 비용, 인건비, 물류비가 누적되면 산지 가격이 안정돼도 최종 소비자가격은 쉽게 내려가지 않는다. 폭염, 질병, 산란계 사육 여건 같은 공급 변수도 가격 변동성을 키운다. 식품 가격은 한번 오른 뒤 내려오는 속도가 느려 가계의 체감 피로가 더 크다.\n\n## 1조원 투입의 핵심은 체감가 인하\n1조원은 원화 기준 대규모 재정 지출이다. 달러당 1400원을 가정하면 약 7억1000만달러에 해당하는 규모다. 재정 투입은 대형마트와 전통시장 할인, 농축산물 공급 확대, 가격 급등 품목 관리, 유통 단계 점검으로 이어질 가능성이 크다. 핵심은 통계상 물가보다 소비자가 실제로 결제하는 가격을 낮추는 것이다.\n\n다만 재정 지원은 시간을 버는 정책에 가깝다. 할인 쿠폰과 납품 지원은 단기 체감 효과가 있지만, 생산비가 내려가지 않으면 가격은 다시 오를 수 있다. 특히 계란처럼 소비 빈도가 높은 품목은 작은 가격 변화도 월간 식비에 즉시 반영된다. 4인 가구가 계란, 우유, 채소, 육류를 함께 구매하는 장바구니에서는 특정 품목 하나의 급등만으로도 전체 식비 계획이 흔들린다.\n\n## 소비자와 시장의 다음 변수\n소비자는 당분간 할인 행사, 대체 상품, 대용량 구매를 더 적극적으로 찾을 전망이다. 식품업계는 원가 상승을 제품 가격에 반영할지, 용량 조정으로 흡수할지 선택해야 한다. 외식업체와 급식업체는 계란 사용량 조정, 메뉴 구성 변경, 계약 단가 재협상을 검토할 수밖에 없다.\n\n향후 관건은 계란값 5000원 흐름이 일시적 고점인지, 먹거리 물가 전반의 재상승 신호인지다. 1조원 투입으로 단기 가격 압박은 완화될 수 있다. 그러나 사료비, 환율, 기상, 질병, 유통 비용이 동시에 안정되지 않으면 장바구니 물가 불안은 반복될 전망이다. 정부 대응의 성패는 소비자가 실제 매장에서 확인하는 계란 가격과 월 식비 부담이 얼마나 빠르게 낮아지느냐에 달려 있다.",
-        "keywords": [
-          "계란 10개 5000원",
-          "물가 폭등",
-          "1조원 투입",
-          "장바구니 물가",
-          "먹거리 물가",
-          "계란값",
-          "생활물가",
-          "농축산물 가격",
-          "계란 10개 5000원 물가 충격에"
-        ],
-        "faq": [
-          {
-            "q": "계란 10개 5000원이 왜 중요한가?",
-            "a": "계란은 가정식, 외식, 제과, 급식에 모두 쓰이는 필수 식재료라 가격 상승이 소비자 식비와 식품업계 원가에 곧바로 영향을 준다."
-          },
-          {
-            "q": "1조원은 어디에 쓰이나?",
-            "a": "먹거리 가격 안정을 위한 할인 지원, 수급 관리, 급등 품목 대응, 유통 단계 점검 등에 투입돼 소비자 체감 가격을 낮추는 데 쓰인다."
-          },
-          {
-            "q": "계란값은 바로 내려가나?",
-            "a": "재정 지원은 단기 부담을 낮출 수 있지만 사료비, 물류비, 기상, 질병 등 공급 변수가 안정돼야 가격 하락이 지속될 수 있다."
-          }
-        ]
-      },
-      "en": {
-        "title": "Eggs at 5,000 Won for 10 Push Korea to Spend 1 Trillion Won on Prices",
-        "excerpt": "With 10 eggs reaching around 5,000 won, pressure on Korean household food costs has intensified, prompting a 1 trillion won push to stabilize grocery prices and supply.",
-        "metaDescription": "Eggs at 5,000 won for 10 have sharpened Korea’s grocery inflation shock. A 1 trillion won price-stability package targets food costs and supply pressure.",
-        "summary": "Egg prices at 5,000 won for 10 have become a clear signal of household inflation in Korea. A 1 trillion won fiscal package is being deployed to ease food-price pressure. Discounts and supply management may help in the short term, but feed, logistics and weather remain major risks.",
-        "body": "Eggs at 5,000 won for 10 are more than a single grocery price. They are a warning sign for Korea’s household inflation. As one of the most common ingredients in home meals, lunch boxes, bakeries and food service, eggs quickly transmit cost pressure across the food chain.\n\n## Why Eggs Matter\nAt 5,000 won for 10 eggs, the unit price is about 500 won. A 30-egg tray translates to roughly 15,000 won. That level affects not only families buying groceries but also restaurants, bakeries, convenience meals and school or company cafeterias. When eggs rise, the cost of kimbap, sandwiches, bread and ready-made meals can move with them.\n\nThe pressure reflects more than farmgate prices. Feed, energy, labor, logistics and retail costs all shape the final shelf price. Weather, animal disease risks and layer-hen supply conditions can add volatility. Food prices also tend to fall slowly after rising, which makes the burden more visible to consumers.\n\n## The 1 Trillion Won Response\nThe 1 trillion won package is a large won-denominated fiscal response. At an assumed exchange rate of 1,400 won per dollar, it is about $710 million. The money is aimed at lowering the prices shoppers actually pay through food discounts, supply support, management of fast-rising items and checks on distribution costs.\n\nThe measure can relieve short-term pressure, but it does not erase the underlying cost structure. If feed and logistics costs remain high, retail prices may rise again after temporary discounts expire. For households, even a small move in a frequently purchased item such as eggs quickly changes the monthly food budget.\n\n## What Comes Next\nConsumers are likely to search more aggressively for promotions, substitutes and bulk deals. Food companies must decide whether to raise prices, adjust package sizes or absorb higher input costs. Restaurants and cafeterias may review egg usage, menu composition and supply contracts.\n\nThe key question is whether 5,000 won for 10 eggs marks a temporary peak or a broader return of food inflation. The 1 trillion won injection can soften the immediate shock. A durable easing will depend on feed, exchange rates, weather, disease conditions and distribution costs moving in the same direction.",
-        "keywords": [
-          "eggs 5000 won",
-          "Korea inflation",
-          "1 trillion won",
-          "grocery prices",
-          "food inflation",
-          "egg prices",
-          "household costs",
-          "food supply",
-          "Eggs at 5,000 Won fo"
-        ],
-        "faq": [
-          {
-            "q": "Why is 5,000 won for 10 eggs important?",
-            "a": "Eggs are used widely in home meals, restaurants, bakeries and cafeterias, so higher egg prices quickly affect household spending and food-industry costs."
-          },
-          {
-            "q": "What is the 1 trillion won package for?",
-            "a": "It is intended to reduce consumer food prices through discounts, supply management, action on fast-rising items and distribution checks."
-          },
-          {
-            "q": "Will egg prices fall immediately?",
-            "a": "Support can ease short-term pressure, but lasting declines require feed, logistics, weather and disease-related supply risks to stabilize."
-          }
-        ]
-      },
-      "ja": {
-        "title": "卵10個5000ウォンに物価不安拡大、韓国が1兆ウォン投入へ",
-        "excerpt": "卵10個の価格が5000ウォン水準まで上昇し、韓国の家計負担が強まる中、政府は食料品価格の安定に向けて1兆ウォン規模の財政を投入する。",
-        "metaDescription": "卵10個5000ウォンが韓国の生活物価不安を広げている。1兆ウォン規模の物価安定策と家計、食品業界への影響を整理した。",
-        "summary": "卵10個5000ウォンは韓国の家計が感じる食料品インフレを象徴している。政府は1兆ウォン規模の対策で体感価格の引き下げを狙う。割引と需給管理は短期効果が見込まれるが、飼料費や物流費、天候リスクは残る。",
-        "body": "卵10個5000ウォンは、単なる一品目の値上がりではない。韓国の家庭が毎日感じる生活物価の警告灯だ。卵は家庭料理、外食、製パン、給食に広く使われるため、価格上昇は食品全体のコストに波及しやすい。\n\n## 家計を揺さぶる卵価格\n10個5000ウォンなら1個あたり約500ウォン、30個入りでは1万5000ウォン前後になる。これは家庭の買い物だけでなく、キンパ、サンドイッチ、パン、弁当、学校や職場の給食原価にも影響する。店頭での負担は外食価格や加工食品価格にもつながる。\n\n背景には生産費と流通費の上昇がある。飼料費、エネルギー費、人件費、物流費が重なると、産地価格が落ち着いても小売価格は下がりにくい。猛暑、疾病、採卵鶏の飼育環境も価格変動を大きくする。\n\n## 1兆ウォン対策の狙い\n1兆ウォンは韓国ウォン建てで大規模な財政支出だ。1ドル1400ウォンで換算すれば約7億1000万ドルに当たる。資金は食品割引、供給支援、急騰品目の管理、流通段階の点検を通じて、消費者が実際に支払う価格を下げる目的で使われる。\n\nただし財政支援は短期的な負担緩和策である。割引や納入支援は効果を出しやすいが、飼料や物流などの基礎コストが下がらなければ価格は再び上昇し得る。購入頻度の高い卵は、わずかな値動きでも月間食費にすぐ反映される。\n\n## 今後の焦点\n消費者は割引販売、代替品、大容量購入をより重視する見通しだ。食品企業は値上げ、容量調整、コスト吸収の間で判断を迫られる。外食や給食業者も卵の使用量、メニュー構成、契約単価を見直す可能性が高い。\n\n焦点は卵10個5000ウォンが一時的な高値なのか、食料品インフレ再燃のサインなのかだ。1兆ウォン投入で短期的な圧力は和らぐ。持続的な安定には、飼料費、為替、天候、疾病、流通費が同時に落ち着く必要がある。\n\n## マクロ指標を読む際の注意点\n今回の材料は単独のニュースではなく、金利、物価、雇用、内需、政府支出が重なった局面として読む必要がある。金利が上がると家計と企業の資金調達コストは高まり、消費と投資の回復力が弱くなる。一方で金融株や高配当株には利ざやや配当期待が反映される場合があり、同じマクロ環境でも業種ごとの影響は異なる。国債利回り、為替、株式市場の反応を一緒に確認することで、政策期待と実体経済の差を把握しやすくなる。\n\n韓国経済を見るうえでは、短期の価格変動だけでなく、家計所得、雇用の質、輸出入の流れも重要だ。物価対策や支援策は一時的に負担を和らげるが、財政支出の持続性や政策効果の遅れも同時に考えなければならない。投資家は発表された数値の方向だけでなく、市場がどの程度まで織り込んでいるかを確認する必要がある。数字が改善しても期待を下回れば市場は失望し、悪化しても政策対応が明確なら反応が限定されることがある。\n\n## 追加チェックポイント\n読者が最終判断を下す際は、見出しの方向感だけでなく、発表時点、関連する政策、直近の市場価格、今後の予定を分けて確認したい。短期のニュースは注目を集めやすいが、実際の投資成果は時間差を置いて表れることが多い。複数の指標が同じ方向を示しているのか、それとも一部の材料だけが先行しているのかを確認することで、過度な楽観や悲観を避けられる。",
-        "keywords": [
-          "卵10個5000ウォン",
-          "韓国物価",
-          "1兆ウォン",
-          "食料品価格",
-          "生活物価",
-          "卵価格",
-          "家計負担",
-          "食品インフレ",
-          "卵10個5000ウォンに物価不安拡大、韓"
-        ],
-        "faq": [
-          {
-            "q": "卵10個5000ウォンはなぜ重要ですか。",
-            "a": "卵は家庭料理、外食、製パン、給食で広く使われるため、価格上昇が家計と食品業界のコストに直結するためです。"
-          },
-          {
-            "q": "1兆ウォンは何に使われますか。",
-            "a": "食品割引、供給管理、急騰品目への対応、流通段階の点検などを通じて体感価格を下げるために使われます。"
-          },
-          {
-            "q": "卵価格はすぐ下がりますか。",
-            "a": "短期的な負担は和らぐ可能性がありますが、飼料費、物流費、天候、疾病リスクが安定しなければ下落は続きにくいです。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "鸡蛋10枚5000韩元冲击民生物价，韩国投入1万亿韩元稳价",
-        "excerpt": "鸡蛋10枚价格升至约5000韩元，韩国居民食品支出压力加大，政府将投入1万亿韩元用于稳定食品价格、缓解供应和流通压力。",
-        "metaDescription": "鸡蛋10枚5000韩元加剧韩国食品通胀压力。1万亿韩元稳价资金将影响家庭支出、食品企业成本和后续物价走势。",
-        "summary": "鸡蛋10枚5000韩元已成为韩国生活物价压力的明确信号。1万亿韩元稳价资金将用于降低消费者实际支付价格。折扣和供应管理有望缓解短期冲击，但饲料、物流、天气和疾病风险仍是关键变量。",
-        "body": "鸡蛋10枚5000韩元并不是单一商品涨价，而是韩国居民生活物价压力的集中体现。鸡蛋广泛用于家庭餐、外食、烘焙、便当和团餐，价格上涨很容易传导到整个食品链。\n\n## 鸡蛋价格为何牵动家庭支出\n10枚5000韩元意味着单枚约500韩元，30枚约1.5万韩元。这个水平不仅增加家庭采购成本，也会推高紫菜包饭、三明治、面包、便利餐和学校、企业食堂的成本。消费者在超市感受到的压力，可能进一步反映到外食和加工食品价格上。\n\n涨价背后是生产和流通成本共同上升。饲料、能源、人工、物流和零售成本都会影响终端价格。高温、疫病、蛋鸡饲养条件等供应因素也会放大波动。食品价格上升后回落速度通常较慢，因此家庭体感更强。\n\n## 1万亿韩元资金的目标\n1万亿韩元是大规模韩元财政投入。若按1美元兑1400韩元估算，约合7.1亿美元。资金将主要用于食品折扣、供应支持、重点涨价品类管理和流通环节检查，目标是降低消费者实际付款价格。\n\n不过，财政支持更像是争取时间的政策。折扣和补贴可以在短期内减轻负担，但如果饲料和物流等基础成本不降，价格仍可能反弹。对高频购买的鸡蛋来说，小幅涨价也会迅速改变月度食品预算。\n\n## 后续影响\n消费者将更重视促销、替代品和大包装采购。食品企业需要在涨价、调整规格和吸收成本之间作出选择。餐饮和团餐企业也可能重新评估鸡蛋用量、菜单结构和采购合同价格。\n\n关键在于10枚5000韩元是短期高点，还是食品通胀重新抬头的信号。1万亿韩元投入可缓解眼前压力。要实现持续稳定，还需要饲料、汇率、天气、疫病和流通成本同步趋稳。\n\n## 解读宏观指标时的重点\n这类新闻不能只当作单一事件来看，而应放在利率、物价、就业、内需和财政支出的共同背景下判断。利率上升会提高家庭和企业融资成本，削弱消费和投资恢复力度；但对部分金融股和高股息资产来说，净息差和分红预期又可能形成支撑。同一宏观环境对不同行业的影响并不相同，因此需要同时观察国债收益率、汇率和股市反应，判断市场是在交易政策预期，还是在重新定价实体经济风险。\n\n分析韩国经济时，还要关注居民收入、就业质量、出口和进口变化。物价补贴或临时支持政策可以缓解短期压力，但财政持续性和政策传导滞后同样重要。投资者不应只看数据方向，还要看市场此前已经计入多少预期。即使指标改善，如果低于预期，市场也可能失望；即使数据走弱，只要政策应对足够明确，资产价格反应也可能相对有限。\n\n## 追加核对要点\n读者在做最终判断时，不应只看标题方向，还要区分发布时间、相关政策、最新市场价格以及接下来的日程安排。短期新闻容易放大情绪，但真正的投资结果往往会滞后反映。需要确认多项指标是否指向同一方向，还是只有个别因素先行变化。这样可以避免因为单一消息过度乐观或过度悲观，也能更清楚地判断风险回报是否匹配。",
-        "keywords": [
-          "鸡蛋10枚5000韩元",
-          "韩国物价",
-          "1万亿韩元",
-          "食品通胀",
-          "家庭支出",
-          "鸡蛋价格",
-          "生活物价",
-          "食品供应",
-          "鸡蛋10枚5000韩元冲击民生物价，韩国"
-        ],
-        "faq": [
-          {
-            "q": "鸡蛋10枚5000韩元为什么重要？",
-            "a": "鸡蛋广泛用于家庭、餐饮、烘焙和团餐，价格上涨会直接影响居民食品支出和食品企业成本。"
-          },
-          {
-            "q": "1万亿韩元将用于什么？",
-            "a": "资金将用于食品折扣、供应管理、应对涨价品类和检查流通环节，以降低消费者实际支付价格。"
-          },
-          {
-            "q": "鸡蛋价格会马上下降吗？",
-            "a": "短期压力可能缓解，但只有饲料、物流、天气和疫病等供应因素稳定后，价格下降才更可持续。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Huevos a 5.000 wones por 10: Corea destina 1 billón de wones a precios",
-        "excerpt": "El precio de 10 huevos subió hasta cerca de 5.000 wones en Corea, elevando la presión sobre los hogares y activando un paquete de 1 billón de wones para estabilizar alimentos.",
-        "metaDescription": "Huevos a 5.000 wones por 10 elevan la inflación alimentaria en Corea. El plan de 1 billón de wones busca aliviar precios y costos del hogar.",
-        "summary": "El precio de 10 huevos en 5.000 wones se convirtió en una señal clara de presión sobre el costo de vida en Corea. El paquete de 1 billón de wones busca reducir el precio efectivo para los consumidores. Los descuentos y la gestión de oferta pueden ayudar, aunque persisten riesgos de alimento animal, logística y clima.",
-        "body": "Que 10 huevos cuesten 5.000 wones no es un dato aislado. Es una señal directa de la presión que enfrentan los hogares coreanos en los alimentos básicos. El huevo se usa en comidas caseras, restaurantes, panaderías, loncheras y comedores, por lo que su encarecimiento se transmite con rapidez a otros precios.\n\n## Por qué pesa el precio del huevo\nA 5.000 wones por 10 unidades, cada huevo cuesta unos 500 wones. Una bandeja de 30 se acerca a 15.000 wones. Ese nivel afecta a las familias en el supermercado y también al costo de kimbap, sándwiches, pan, comidas preparadas y menús escolares o corporativos.\n\nLa presión viene de varios frentes. El alimento animal, la energía, la mano de obra, el transporte y la distribución influyen en el precio final. El calor extremo, las enfermedades y las condiciones de producción de gallinas ponedoras aumentan la volatilidad. Además, los alimentos suelen bajar más lentamente de lo que suben.\n\n## El alcance del billón de wones\nEl paquete de 1 billón de wones es una respuesta fiscal de gran escala. Con un supuesto de 1.400 wones por dólar, equivale a unos 710 millones de dólares. El dinero se orienta a descuentos en alimentos, apoyo de suministro, control de productos con fuertes alzas y revisión de costos de distribución.\n\nLa medida puede aliviar el golpe inmediato, pero no elimina todos los costos de fondo. Si el alimento animal y la logística siguen caros, los precios pueden volver a subir cuando terminen los descuentos. Para las familias, una variación pequeña en un producto frecuente como el huevo cambia rápidamente el presupuesto mensual.\n\n## Qué viene ahora\nLos consumidores buscarán más promociones, sustitutos y compras en volumen. Las empresas de alimentos deberán decidir entre subir precios, ajustar tamaños o absorber costos. Restaurantes y comedores revisarán el uso de huevo, los menús y los contratos de compra.\n\nLa pregunta central es si los 5.000 wones por 10 huevos son un pico temporal o una señal de nueva inflación alimentaria. El billón de wones puede suavizar la presión de corto plazo. La estabilidad duradera dependerá de alimento animal, tipo de cambio, clima, enfermedades y costos de distribución.",
-        "keywords": [
-          "huevos 5000 wones",
-          "inflación Corea",
-          "1 billón de wones",
-          "precios alimentos",
-          "costo de vida",
-          "precio del huevo",
-          "gasto familiar",
-          "suministro alimentario",
-          "Huevos a 5.000 wones"
-        ],
-        "faq": [
-          {
-            "q": "¿Por qué importan 5.000 wones por 10 huevos?",
-            "a": "Porque el huevo se usa en hogares, restaurantes, panaderías y comedores, y su alza impacta de inmediato el gasto familiar y los costos de la industria alimentaria."
-          },
-          {
-            "q": "¿Para qué sirve el paquete de 1 billón de wones?",
-            "a": "Busca reducir el precio pagado por los consumidores mediante descuentos, gestión de oferta, control de productos con alzas fuertes y revisión de la distribución."
-          },
-          {
-            "q": "¿Bajará de inmediato el precio del huevo?",
-            "a": "El apoyo puede aliviar el corto plazo, pero la baja sostenida depende de la estabilización del alimento animal, la logística, el clima y los riesgos sanitarios."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Ovos a 5.000 wons por 10 levam Coreia a injetar 1 trilhão de wons",
-        "excerpt": "Com 10 ovos chegando a cerca de 5.000 wons, a pressão sobre o custo dos alimentos na Coreia aumentou e levou a um pacote de 1 trilhão de wons para estabilizar preços.",
-        "metaDescription": "Ovos a 5.000 wons por 10 ampliam a inflação de alimentos na Coreia. O pacote de 1 trilhão de wons mira preços, oferta e custos ao consumidor.",
-        "summary": "O preço de 10 ovos a 5.000 wons virou um sinal forte da inflação sentida pelos lares coreanos. O pacote de 1 trilhão de wons busca reduzir o preço efetivo pago pelo consumidor. Descontos e gestão de oferta ajudam no curto prazo, mas ração, logística e clima seguem como riscos.",
-        "body": "Ovos a 5.000 wons por 10 unidades não são apenas uma alta de um item específico. Eles mostram a pressão que os lares coreanos sentem nos alimentos básicos. O ovo está presente em refeições domésticas, restaurantes, padarias, marmitas e refeitórios, o que faz seu preço se espalhar rapidamente pela cadeia alimentar.\n\n## Por que o ovo pesa tanto\nCom 10 ovos a 5.000 wons, cada unidade custa cerca de 500 wons. Uma bandeja de 30 chega perto de 15.000 wons. Esse patamar afeta as compras das famílias e também o custo de kimbap, sanduíches, pães, refeições prontas e merendas escolares ou corporativas.\n\nA alta reflete custos de produção e distribuição. Ração, energia, mão de obra, transporte e varejo influenciam o preço final. Calor extremo, doenças e condições de criação das poedeiras também elevam a volatilidade. Além disso, alimentos costumam cair mais devagar depois de subir.\n\n## O objetivo do 1 trilhão de wons\nO pacote de 1 trilhão de wons é uma resposta fiscal relevante. Considerando 1.400 wons por dólar, equivale a cerca de 710 milhões de dólares. O dinheiro deve reduzir o preço efetivo ao consumidor por meio de descontos em alimentos, apoio à oferta, gestão de itens em forte alta e verificação de custos de distribuição.\n\nA medida alivia o curto prazo, mas não remove todos os custos estruturais. Se ração e logística continuarem caras, os preços podem voltar a subir depois dos descontos. Para as famílias, pequenas variações em um item frequente como ovos mudam rapidamente o orçamento mensal de alimentação.\n\n## Próximos efeitos\nConsumidores devem procurar mais promoções, substitutos e compras em maior volume. Empresas de alimentos terão de escolher entre reajustar preços, reduzir embalagens ou absorver custos. Restaurantes e refeitórios podem rever uso de ovos, cardápios e contratos de fornecimento.\n\nA questão é se os 5.000 wons por 10 ovos são um pico temporário ou sinal de nova pressão nos alimentos. O pacote pode suavizar o choque imediato. A estabilidade duradoura dependerá de ração, câmbio, clima, doenças e custos de distribuição.",
-        "keywords": [
-          "ovos 5000 wons",
-          "inflação Coreia",
-          "1 trilhão de wons",
-          "preços de alimentos",
-          "custo de vida",
-          "preço dos ovos",
-          "gasto familiar",
-          "oferta de alimentos",
-          "Ovos a 5.000 wons po"
-        ],
-        "faq": [
-          {
-            "q": "Por que 5.000 wons por 10 ovos importam?",
-            "a": "Porque ovos são usados em casas, restaurantes, padarias e refeitórios, afetando diretamente o gasto das famílias e os custos da indústria alimentícia."
-          },
-          {
-            "q": "Para que serve o pacote de 1 trilhão de wons?",
-            "a": "Ele busca reduzir o preço pago pelo consumidor com descontos, gestão de oferta, resposta a itens em forte alta e revisão da distribuição."
-          },
-          {
-            "q": "O preço dos ovos cairá imediatamente?",
-            "a": "O apoio pode aliviar o curto prazo, mas uma queda duradoura exige estabilidade em ração, logística, clima e riscos sanitários."
-          }
-        ]
-      },
-      "de": {
-        "title": "Eier für 5.000 Won je 10 Stück: Korea setzt 1 Billion Won gegen Preise ein",
-        "excerpt": "Der Preis von 10 Eiern ist in Korea auf rund 5.000 Won gestiegen. Damit wächst der Druck auf Haushalte, während 1 Billion Won zur Stabilisierung von Lebensmittelpreisen eingesetzt wird.",
-        "metaDescription": "Eier für 5.000 Won je 10 Stück verschärfen Koreas Lebensmittelinflation. 1 Billion Won soll Preise, Angebot und Haushaltskosten stabilisieren.",
-        "summary": "10 Eier für 5.000 Won sind ein deutliches Signal für den Preisdruck in koreanischen Haushalten. Ein Paket von 1 Billion Won soll die tatsächlich gezahlten Lebensmittelpreise senken. Rabatte und Angebotssteuerung können kurzfristig helfen, doch Futter, Logistik und Wetter bleiben Risiken.",
-        "body": "10 Eier für 5.000 Won sind mehr als der Preisanstieg eines einzelnen Produkts. Sie zeigen den Druck, den koreanische Haushalte bei Grundnahrungsmitteln spüren. Eier werden in der Hausküche, Gastronomie, Bäckereien, Fertiggerichten und Kantinen breit eingesetzt. Dadurch wirken höhere Eierpreise schnell auf andere Lebensmittelpreise.\n\n## Warum Eierpreise wichtig sind\nBei 5.000 Won für 10 Eier kostet ein Ei etwa 500 Won. Eine Packung mit 30 Eiern liegt damit bei rund 15.000 Won. Das trifft nicht nur Familien im Supermarkt, sondern auch Kimbap, Sandwiches, Brot, Lunchboxen sowie Schul- und Betriebskantinen.\n\nDer Preisdruck entsteht aus mehreren Kostenblöcken. Futter, Energie, Löhne, Transport und Handel beeinflussen den Endpreis. Hitze, Tierkrankheiten und Bedingungen in der Legehennenhaltung erhöhen die Schwankungen. Lebensmittelpreise sinken nach Anstiegen zudem oft nur langsam.\n\n## Ziel der 1 Billion Won\nDas Paket von 1 Billion Won ist eine große fiskalische Maßnahme. Bei einem angenommenen Kurs von 1.400 Won je Dollar entspricht es etwa 710 Millionen Dollar. Die Mittel sollen über Lebensmittelrabatte, Angebotsstützung, Kontrolle stark steigender Produkte und Prüfung der Vertriebskosten den tatsächlichen Verbraucherpreis senken.\n\nDie Hilfe kann kurzfristig entlasten, löst aber nicht die gesamte Kostenstruktur. Bleiben Futter und Logistik teuer, können Preise nach dem Ende von Rabatten wieder steigen. Für Haushalte verändert schon eine kleine Bewegung bei einem häufig gekauften Produkt wie Eiern das monatliche Lebensmittelbudget.\n\n## Ausblick für Verbraucher und Markt\nVerbraucher werden stärker nach Aktionen, Ersatzprodukten und Großpackungen suchen. Lebensmittelhersteller müssen zwischen Preiserhöhungen, kleineren Packungen und Kostenübernahme entscheiden. Restaurants und Kantinen dürften Eiereinsatz, Menüs und Lieferverträge überprüfen.\n\nEntscheidend ist, ob 5.000 Won für 10 Eier nur ein temporärer Höchststand sind oder ein Signal für neue Lebensmittelinflation. Die 1 Billion Won kann den kurzfristigen Schock mildern. Dauerhafte Stabilität hängt von Futterkosten, Wechselkurs, Wetter, Krankheiten und Vertriebskosten ab.",
-        "keywords": [
-          "Eier 5000 Won",
-          "Inflation Korea",
-          "1 Billion Won",
-          "Lebensmittelpreise",
-          "Haushaltskosten",
-          "Eierpreise",
-          "Lebensmittelinflation",
-          "Lebensmittelangebot",
-          "Eier für 5.000 Won j"
-        ],
-        "faq": [
-          {
-            "q": "Warum sind 5.000 Won für 10 Eier wichtig?",
-            "a": "Eier werden in Haushalten, Restaurants, Bäckereien und Kantinen breit genutzt, sodass höhere Preise Haushaltsausgaben und Branchenkosten direkt erhöhen."
-          },
-          {
-            "q": "Wofür wird 1 Billion Won eingesetzt?",
-            "a": "Die Mittel sollen Verbraucherpreise durch Rabatte, Angebotsmanagement, Maßnahmen gegen stark steigende Artikel und Vertriebskontrollen senken."
-          },
-          {
-            "q": "Fallen die Eierpreise sofort?",
-            "a": "Die Unterstützung kann kurzfristig entlasten, doch nachhaltige Rückgänge brauchen stabile Futter-, Logistik-, Wetter- und Gesundheitsbedingungen."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Œufs à 5 000 wons les 10 : la Corée mobilise 1 000 milliards de wons",
-        "excerpt": "Le prix de 10 œufs a atteint environ 5 000 wons en Corée, renforçant la pression sur les ménages et déclenchant une enveloppe de 1 000 milliards de wons pour stabiliser l’alimentation.",
-        "metaDescription": "Des œufs à 5 000 wons les 10 accentuent l’inflation alimentaire en Corée. Le plan de 1 000 milliards de wons vise prix, offre et budget des ménages.",
-        "summary": "Le prix de 10 œufs à 5 000 wons illustre la pression alimentaire ressentie par les ménages coréens. Le plan de 1 000 milliards de wons vise à réduire le prix payé en magasin. Les remises et la gestion de l’offre peuvent aider à court terme, mais les coûts d’alimentation animale, de logistique et le climat restent déterminants.",
-        "body": "Des œufs à 5 000 wons les 10 ne représentent pas seulement la hausse d’un produit. C’est un signal fort de pression sur le coût de la vie en Corée. L’œuf est utilisé dans les repas à domicile, la restauration, la boulangerie, les plats préparés et les cantines, ce qui rend son prix très sensible pour l’ensemble de la chaîne alimentaire.\n\n## Pourquoi le prix des œufs compte\nÀ 5 000 wons les 10, chaque œuf coûte environ 500 wons. Une plaque de 30 approche donc 15 000 wons. Ce niveau touche les familles au supermarché, mais aussi le coût du kimbap, des sandwichs, du pain, des repas prêts à consommer et des cantines scolaires ou d’entreprise.\n\nLa hausse vient de plusieurs coûts. L’alimentation animale, l’énergie, la main-d’œuvre, le transport et la distribution pèsent sur le prix final. Les fortes chaleurs, les maladies et les conditions d’élevage des poules pondeuses ajoutent de la volatilité. Les prix alimentaires baissent aussi souvent plus lentement qu’ils ne montent.\n\n## L’objectif des 1 000 milliards de wons\nL’enveloppe de 1 000 milliards de wons constitue une réponse budgétaire importante. Avec une hypothèse de 1 400 wons pour un dollar, elle représente environ 710 millions de dollars. Les fonds visent à réduire le prix réellement payé par les consommateurs grâce à des remises, un soutien à l’offre, une gestion des produits en forte hausse et des contrôles des coûts de distribution.\n\nCette mesure peut soulager le court terme, mais elle ne règle pas toute la structure des coûts. Si l’alimentation animale et la logistique restent chères, les prix peuvent repartir après la fin des remises. Pour les ménages, une petite variation sur un produit fréquent comme l’œuf modifie vite le budget alimentaire mensuel.\n\n## Les prochains enjeux\nLes consommateurs chercheront davantage les promotions, les substituts et les achats en grand format. Les entreprises alimentaires devront choisir entre hausse de prix, ajustement des formats ou absorption des coûts. Restaurants et cantines pourraient revoir l’usage des œufs, les menus et les contrats d’achat.\n\nLa question centrale est de savoir si 5 000 wons les 10 œufs marquent un pic temporaire ou le retour d’une inflation alimentaire plus large. Les 1 000 milliards de wons peuvent atténuer le choc immédiat. Une stabilisation durable dépendra des coûts d’alimentation animale, du change, du climat, des maladies et de la distribution.",
-        "keywords": [
-          "œufs 5000 wons",
-          "inflation Corée",
-          "1000 milliards de wons",
-          "prix alimentaires",
-          "coût de la vie",
-          "prix des œufs",
-          "budget ménages",
-          "offre alimentaire",
-          "Œufs à 5 000 wons le"
-        ],
-        "faq": [
-          {
-            "q": "Pourquoi 5 000 wons les 10 œufs est-il important ?",
-            "a": "Parce que les œufs sont utilisés dans les foyers, restaurants, boulangeries et cantines, leur hausse touche directement les ménages et l’industrie alimentaire."
-          },
-          {
-            "q": "À quoi sert l’enveloppe de 1 000 milliards de wons ?",
-            "a": "Elle vise à réduire le prix payé par les consommateurs via des remises, la gestion de l’offre, le suivi des produits en forte hausse et les contrôles de distribution."
-          },
-          {
-            "q": "Le prix des œufs va-t-il baisser tout de suite ?",
-            "a": "Le soutien peut réduire la pression à court terme, mais une baisse durable exige une stabilisation de l’alimentation animale, de la logistique, du climat et des risques sanitaires."
-          }
-        ]
-      },
-      "ar": {
-        "title": "البيض عند 5000 وون لكل 10 حبات يدفع كوريا لضخ تريليون وون",
-        "excerpt": "ارتفع سعر 10 بيضات في كوريا إلى نحو 5000 وون، ما زاد ضغط تكاليف الغذاء على الأسر ودفع إلى تخصيص تريليون وون لتثبيت أسعار السلع الغذائية.",
-        "metaDescription": "سعر 10 بيضات عند 5000 وون يعمق تضخم الغذاء في كوريا. حزمة تريليون وون تستهدف خفض الأسعار ودعم الإمدادات وتخفيف عبء الأسر.",
-        "summary": "أصبح سعر 10 بيضات عند 5000 وون مؤشرا واضحا على ضغط المعيشة في كوريا. تستهدف حزمة تريليون وون خفض السعر الفعلي الذي يدفعه المستهلك. قد تخفف الخصومات وإدارة الإمدادات الضغط مؤقتا، لكن الأعلاف والنقل والطقس تبقى عوامل حاسمة.",
-        "body": "سعر 10 بيضات عند 5000 وون ليس ارتفاعا عاديا في سلعة واحدة. إنه إشارة مباشرة إلى الضغط الذي تشعر به الأسر الكورية في الغذاء اليومي. فالبيض يدخل في الوجبات المنزلية والمطاعم والمخابز والوجبات الجاهزة والمقاصف، لذلك ينتقل أثره بسرعة إلى أسعار أخرى.\n\n## لماذا يهم سعر البيض\nعند 5000 وون لكل 10 بيضات، تبلغ كلفة البيضة الواحدة نحو 500 وون. أما 30 بيضة فتصل إلى قرابة 15000 وون. هذا المستوى يضغط على مشتريات الأسر، كما يرفع تكلفة الكيمباب والسندويشات والخبز والوجبات المدرسية ووجبات الشركات.\n\nتعود الضغوط إلى تكاليف الإنتاج والتوزيع معا. الأعلاف والطاقة والأجور والنقل وتكاليف البيع بالتجزئة كلها تدخل في السعر النهائي. كما تزيد موجات الحر والأمراض وظروف تربية الدجاج البياض من تقلب الأسعار. وغالبا ما تنخفض أسعار الغذاء ببطء بعد ارتفاعها.\n\n## هدف تريليون وون\nتمثل حزمة تريليون وون استجابة مالية كبيرة. وبافتراض 1400 وون لكل دولار، تعادل نحو 710 ملايين دولار. وتهدف الأموال إلى خفض السعر الذي يدفعه المستهلك من خلال خصومات غذائية، ودعم الإمدادات، ومتابعة السلع سريعة الارتفاع، وفحص تكاليف التوزيع.\n\nلكن الدعم المالي يخفف الضغط في المدى القصير أكثر مما يحل كل المشكلة. إذا بقيت الأعلاف والنقل مرتفعة، فقد تعود الأسعار إلى الصعود بعد انتهاء الخصومات. وبالنسبة للأسر، فإن أي تغير بسيط في سلعة كثيرة الشراء مثل البيض يظهر بسرعة في ميزانية الغذاء الشهرية.\n\n## ما الذي ينتظر السوق\nسيبحث المستهلكون أكثر عن العروض والبدائل والشراء بكميات أكبر. وستواجه شركات الغذاء قرارا بين رفع الأسعار أو تعديل أحجام العبوات أو تحمل جزء من التكلفة. وقد تعيد المطاعم والمقاصف النظر في استخدام البيض والقوائم وعقود الشراء.\n\nالسؤال الرئيسي هو ما إذا كان سعر 5000 وون لكل 10 بيضات ذروة مؤقتة أم إشارة إلى موجة أوسع من تضخم الغذاء. يمكن لحزمة تريليون وون تخفيف الصدمة الحالية. أما الاستقرار الدائم فيتوقف على الأعلاف وسعر الصرف والطقس والأمراض وتكاليف التوزيع.",
-        "keywords": [
-          "البيض 5000 وون",
-          "تضخم كوريا",
-          "تريليون وون",
-          "أسعار الغذاء",
-          "تكلفة المعيشة",
-          "سعر البيض",
-          "إنفاق الأسر",
-          "إمدادات الغذاء",
-          "البيض عند 5000 وون ل"
-        ],
-        "faq": [
-          {
-            "q": "لماذا يعد سعر 5000 وون لكل 10 بيضات مهما؟",
-            "a": "لأن البيض يستخدم في المنازل والمطاعم والمخابز والمقاصف، وارتفاعه يؤثر مباشرة في إنفاق الأسر وتكاليف صناعة الغذاء."
-          },
-          {
-            "q": "في ماذا ستستخدم حزمة تريليون وون؟",
-            "a": "ستستخدم لخفض الأسعار عبر الخصومات وإدارة الإمدادات ومتابعة السلع التي ترتفع بسرعة وفحص تكاليف التوزيع."
-          },
-          {
-            "q": "هل سينخفض سعر البيض فورا؟",
-            "a": "قد يخف الضغط مؤقتا، لكن الانخفاض المستدام يحتاج إلى استقرار الأعلاف والنقل والطقس ومخاطر الأمراض."
-          }
-        ]
-      },
-      "hi": {
-        "title": "10 अंडे 5,000 वॉन: कीमतों पर काबू के लिए कोरिया 1 ट्रिलियन वॉन लगाएगा",
-        "excerpt": "कोरिया में 10 अंडों की कीमत करीब 5,000 वॉन तक पहुंचने से घरेलू खाद्य खर्च पर दबाव बढ़ा है। खाद्य कीमतें स्थिर करने के लिए 1 ट्रिलियन वॉन का पैकेज लगाया जाएगा।",
-        "metaDescription": "10 अंडे 5,000 वॉन होने से कोरिया में खाद्य महंगाई का दबाव बढ़ा। 1 ट्रिलियन वॉन का पैकेज कीमत, आपूर्ति और घरेलू बजट पर केंद्रित है।",
-        "summary": "10 अंडों की कीमत 5,000 वॉन होना कोरियाई परिवारों पर खाद्य महंगाई का स्पष्ट संकेत है। 1 ट्रिलियन वॉन का पैकेज उपभोक्ता द्वारा चुकाई जाने वाली कीमत घटाने पर केंद्रित है। छूट और आपूर्ति प्रबंधन अल्पकालिक राहत दे सकते हैं, लेकिन चारा, लॉजिस्टिक्स और मौसम जोखिम बने हुए हैं।",
-        "body": "10 अंडों का 5,000 वॉन तक पहुंचना सिर्फ एक वस्तु की कीमत बढ़ना नहीं है। यह कोरिया में रोजमर्रा की खाद्य महंगाई का सीधा संकेत है। अंडे घर के भोजन, रेस्तरां, बेकरी, तैयार भोजन और कैंटीन में व्यापक रूप से इस्तेमाल होते हैं, इसलिए उनकी कीमत का असर पूरी खाद्य श्रृंखला पर तेजी से पड़ता है।\n\n## अंडे की कीमत क्यों अहम है\n10 अंडे 5,000 वॉन होने पर एक अंडे की कीमत करीब 500 वॉन बैठती है। 30 अंडों की ट्रे लगभग 15,000 वॉन तक पहुंचती है। यह स्तर परिवारों की किराना खरीद के साथ किम्बाप, सैंडविच, ब्रेड, लंच बॉक्स और स्कूल या कंपनी कैंटीन की लागत को भी प्रभावित करता है।\n\nदबाव उत्पादन और वितरण लागत से आता है। चारा, ऊर्जा, मजदूरी, परिवहन और खुदरा लागत अंतिम कीमत तय करते हैं। गर्मी, बीमारी और अंडा देने वाली मुर्गियों की स्थिति भी अस्थिरता बढ़ाते हैं। खाद्य कीमतें बढ़ने के बाद अक्सर धीरे घटती हैं, इसलिए परिवारों पर असर अधिक महसूस होता है।\n\n## 1 ट्रिलियन वॉन का लक्ष्य\n1 ट्रिलियन वॉन एक बड़ा राजकोषीय कदम है। 1 डॉलर को 1,400 वॉन मानें तो यह लगभग 710 मिलियन डॉलर के बराबर है। यह राशि खाद्य छूट, आपूर्ति समर्थन, तेजी से महंगे हुए उत्पादों की निगरानी और वितरण लागत की जांच के जरिए उपभोक्ता कीमत घटाने में लगेगी।\n\nयह राहत अल्पकालिक दबाव कम कर सकती है, लेकिन मूल लागत पूरी तरह खत्म नहीं करती। अगर चारा और लॉजिस्टिक्स महंगे बने रहे, तो छूट खत्म होने पर कीमतें फिर बढ़ सकती हैं। अंडे जैसे बार-बार खरीदे जाने वाले उत्पाद में छोटी बढ़ोतरी भी मासिक खाद्य बजट बदल देती है।\n\n## आगे क्या होगा\nउपभोक्ता छूट, विकल्प और बड़े पैक की ओर ज्यादा झुकेंगे। खाद्य कंपनियों को कीमत बढ़ाने, पैक आकार बदलने या लागत खुद उठाने के बीच फैसला करना होगा। रेस्तरां और कैंटीन अंडे के इस्तेमाल, मेनू और खरीद अनुबंधों की समीक्षा कर सकते हैं।\n\nमुख्य सवाल यह है कि 10 अंडे 5,000 वॉन अस्थायी ऊंचाई है या व्यापक खाद्य महंगाई का संकेत। 1 ट्रिलियन वॉन तत्काल झटका कम कर सकता है। टिकाऊ स्थिरता चारा, विनिमय दर, मौसम, बीमारी और वितरण लागत के शांत होने पर निर्भर करेगी।",
-        "keywords": [
-          "अंडे 5000 वॉन",
-          "कोरिया महंगाई",
-          "1 ट्रिलियन वॉन",
-          "खाद्य कीमतें",
-          "जीवनयापन लागत",
-          "अंडे की कीमत",
-          "घरेलू खर्च",
-          "खाद्य आपूर्ति",
-          "10 अंडे 5,000 वॉन: क"
-        ],
-        "faq": [
-          {
-            "q": "10 अंडे 5,000 वॉन होना क्यों महत्वपूर्ण है?",
-            "a": "क्योंकि अंडे घरों, रेस्तरां, बेकरी और कैंटीन में व्यापक रूप से इस्तेमाल होते हैं, इसलिए कीमत बढ़ने से परिवारों और खाद्य उद्योग की लागत तुरंत बढ़ती है।"
-          },
-          {
-            "q": "1 ट्रिलियन वॉन किस काम आएगा?",
-            "a": "यह राशि छूट, आपूर्ति प्रबंधन, तेजी से महंगे उत्पादों पर कार्रवाई और वितरण जांच के जरिए उपभोक्ता कीमत घटाने के लिए इस्तेमाल होगी।"
-          },
-          {
-            "q": "क्या अंडे की कीमत तुरंत घटेगी?",
-            "a": "अल्पकालिक राहत संभव है, लेकिन स्थायी गिरावट के लिए चारा, लॉजिस्टिक्स, मौसम और बीमारी से जुड़े जोखिमों का स्थिर होना जरूरी है।"
-          }
-        ]
-      },
-      "id": {
-        "title": "Telur 10 Butir 5.000 Won, Korea Siapkan 1 Triliun Won Redam Harga",
-        "excerpt": "Harga telur 10 butir di Korea naik hingga sekitar 5.000 won, menekan belanja pangan rumah tangga dan mendorong paket 1 triliun won untuk menstabilkan harga makanan.",
-        "metaDescription": "Telur 10 butir 5.000 won memperkuat tekanan inflasi pangan Korea. Paket 1 triliun won menargetkan harga, pasokan, dan beban belanja keluarga.",
-        "summary": "Harga telur 10 butir 5.000 won menjadi sinyal kuat tekanan biaya hidup di Korea. Paket 1 triliun won diarahkan untuk menurunkan harga yang dibayar konsumen. Diskon dan pengelolaan pasokan dapat membantu jangka pendek, tetapi pakan, logistik, cuaca dan penyakit tetap menjadi risiko.",
-        "body": "Telur 10 butir seharga 5.000 won bukan sekadar kenaikan satu komoditas. Ini adalah tanda tekanan harga pangan yang langsung dirasakan rumah tangga Korea. Telur digunakan dalam masakan rumah, restoran, roti, makanan siap saji dan kantin, sehingga kenaikannya cepat menyebar ke rantai makanan.\n\n## Mengapa Harga Telur Penting\nPada harga 5.000 won untuk 10 butir, satu telur bernilai sekitar 500 won. Satu baki 30 butir mendekati 15.000 won. Tingkat ini memengaruhi belanja keluarga dan juga biaya kimbap, sandwich, roti, bekal, serta makanan sekolah atau kantor.\n\nTekanan harga berasal dari biaya produksi dan distribusi. Pakan, energi, tenaga kerja, transportasi dan ritel menentukan harga akhir. Cuaca panas, penyakit dan kondisi ayam petelur juga menambah volatilitas. Harga pangan biasanya turun lebih lambat setelah naik, sehingga beban terasa lebih lama.\n\n## Sasaran 1 Triliun Won\nPaket 1 triliun won merupakan respons fiskal besar. Dengan asumsi 1 dolar setara 1.400 won, nilainya sekitar 710 juta dolar. Dana ini ditujukan untuk menurunkan harga yang dibayar konsumen melalui diskon pangan, dukungan pasokan, pengelolaan barang yang naik cepat dan pemeriksaan biaya distribusi.\n\nNamun dukungan fiskal terutama meredakan tekanan jangka pendek. Jika biaya pakan dan logistik tetap tinggi, harga dapat kembali naik setelah diskon berakhir. Bagi keluarga, perubahan kecil pada barang yang sering dibeli seperti telur langsung memengaruhi anggaran makan bulanan.\n\n## Dampak Berikutnya\nKonsumen akan lebih aktif mencari promo, pengganti dan pembelian ukuran besar. Perusahaan makanan harus memilih antara menaikkan harga, menyesuaikan ukuran kemasan atau menyerap biaya. Restoran dan kantin dapat meninjau pemakaian telur, komposisi menu dan kontrak pembelian.\n\nPertanyaan utama adalah apakah 5.000 won untuk 10 telur hanya puncak sementara atau sinyal kembalinya inflasi pangan. Paket 1 triliun won bisa meredam guncangan awal. Stabilitas yang bertahan membutuhkan pakan, kurs, cuaca, penyakit dan biaya distribusi yang ikut terkendali.",
-        "keywords": [
-          "telur 5000 won",
-          "inflasi Korea",
-          "1 triliun won",
-          "harga pangan",
-          "biaya hidup",
-          "harga telur",
-          "belanja keluarga",
-          "pasokan pangan",
-          "Telur 10 Butir 5.000"
-        ],
-        "faq": [
-          {
-            "q": "Mengapa telur 10 butir 5.000 won penting?",
-            "a": "Telur digunakan luas di rumah, restoran, toko roti dan kantin, sehingga kenaikannya langsung memengaruhi belanja keluarga dan biaya industri makanan."
-          },
-          {
-            "q": "Untuk apa paket 1 triliun won?",
-            "a": "Dana itu digunakan untuk menurunkan harga konsumen melalui diskon, pengelolaan pasokan, respons pada barang yang naik cepat dan pemeriksaan distribusi."
-          },
-          {
-            "q": "Apakah harga telur langsung turun?",
-            "a": "Bantuan dapat meredakan tekanan jangka pendek, tetapi penurunan berkelanjutan membutuhkan stabilitas pakan, logistik, cuaca dan risiko penyakit."
           }
         ]
       }
