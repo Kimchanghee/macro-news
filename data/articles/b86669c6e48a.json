@@ -1,0 +1,382 @@
+{
+  "id": "b86669c6e48a",
+  "slug": "treasury-yields-fall-482734",
+  "channelId": "MACRO",
+  "category": "macro",
+  "publishedAt": "2026-08-03T13:01:06.726Z",
+  "updatedAt": "2026-08-03T13:01:06.728Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.wsj.com/finance/investing/short-dated-jgbs-fall-on-growing-boj-rate-increase-expectations-c0bac28f?mod=rss_markets_main",
+  "titleFingerprint": "656968a3c65e269ac3ec8e33a3f7f16b1e9eb6a5",
+  "dedupKeys": [
+    "b86669c6e48aa8b29fc0a98c73412f3b9bd29382",
+    "656968a3c65e269ac3ec8e33a3f7f16b1e9eb6a5",
+    "be7f9aa947af00ad0460bfaa26391968d71972e9"
+  ],
+  "imageUrl": "",
+  "i18n": {
+    "ko": {
+      "title": "미 국채금리 하락, 이란 외교 재개로 유가 급락하며 인플레 우려 완화",
+      "excerpt": "유럽 거래 시간 미국 국채금리가 하락했다. 트럼프 대통령이 이란과의 외교 대화 재개를 결정하면서 국제유가가 떨어졌고, 에너지발 인플레이션 우려가 완화됐다.",
+      "metaDescription": "미 국채금리가 유럽장에서 하락했다. 트럼프 대통령의 이란 대화 재개 결정으로 유가가 밀리며 인플레이션 부담과 긴축 우려가 낮아졌다.",
+      "summary": "미국 국채금리는 유럽 거래에서 하락세를 보였다. 트럼프 대통령의 이란 외교 대화 재개 결정이 원유 공급 불안 프리미엄을 낮추며 유가 하락을 이끌었다. 에너지 가격 압력이 완화되자 채권시장은 인플레이션 기대와 정책금리 부담을 낮춰 반영했다. 한국 시장에는 원화, 수입물가, 국내 채권금리 경로가 함께 영향을 받을 전망이다.",
+      "body": "미국 국채금리가 유럽 거래 시간 하락했다. 트럼프 대통령이 이란과의 외교 대화를 재개하기로 하면서 중동 지정학 리스크가 완화됐고, 국제유가가 떨어지자 인플레이션 압력이 낮아질 수 있다는 기대가 채권시장에 빠르게 반영됐다. 유가 하락은 에너지 비용과 운송비, 원자재 가격 전반에 영향을 주는 핵심 변수다. 시장은 이를 미국 물가 경로와 연방준비제도의 정책 부담을 낮추는 신호로 해석했다.\n\n## 금리 하락의 직접 배경\n이번 움직임의 출발점은 이란 관련 외교 재개다. 이란은 글로벌 원유 공급과 중동 해상 운송 리스크에 직접 연결된 국가다. 긴장이 높아질 때는 원유 공급 차질 가능성이 가격에 붙고, 긴장이 낮아질 때는 그 위험 프리미엄이 빠진다. 유럽장에서 원유 가격이 약세를 보이자 미국 국채 매수세가 살아났다. 채권 가격이 오르면 수익률은 내려간다. 이 구조가 이번 미 국채금리 하락을 설명하는 핵심이다.\n\n구체적으로 시장이 주목한 데이터는 세 가지다. 첫째, 미국 국채 전 구간에서 수익률이 아래쪽으로 움직였다는 점이다. 둘째, 원유 가격 하락이 물가 기대를 낮추는 방향으로 작동했다는 점이다. 셋째, 유럽 거래 시간에 움직임이 먼저 나타나며 뉴욕장 개장 전 글로벌 금리 가격에 영향을 줬다는 점이다. 10년물 금리는 장기 성장률과 물가 기대를 반영하고, 2년물 금리는 정책금리 전망에 민감하다. 두 구간이 함께 눌리면 시장은 단기 긴축 부담과 장기 인플레이션 부담을 동시에 낮춰 보고 있다는 뜻이다.\n\n## 한국 시장에 미치는 영향\n한국 투자자에게 미 국채금리 하락은 단순한 해외 채권 이슈가 아니다. 미국 금리가 내려가면 달러 강세 압력이 완화될 수 있고, 이는 원·달러 환율의 상승 압력을 낮추는 재료가 된다. 원화가 안정되면 원유와 원자재 수입 단가 부담이 줄어들 여지가 생긴다. 한국은 에너지 수입 의존도가 높기 때문에 국제유가와 환율의 동시 변화가 소비자물가, 기업 마진, 무역수지에 직접 연결된다.\n\n국내 채권시장에도 파급이 예상된다. 미 국채금리 하락은 한국 국고채 금리에도 하방 압력을 줄 수 있다. 특히 외국인 채권 자금은 미국 금리, 환율, 한국 기준금리 기대를 함께 비교한다. 유가가 안정되면 한국은행의 물가 경계감도 일부 완화될 수 있지만, 전기요금과 공공요금, 서비스물가가 남아 있어 통화정책 전환을 단정하기는 이르다. 주식시장에서는 항공, 해운, 화학, 정유, 자동차 등 에너지 비용과 환율에 민감한 업종별 반응이 엇갈릴 수 있다.\n\n## 향후 전망\n미 국채금리의 추가 하락 여부는 이란 대화의 실제 진전, 국제유가의 안정 지속성, 미국 물가 지표에 달려 있다. 외교 재개가 공급 불안 완화로 이어지면 유가 하락은 인플레이션 기대를 더 낮출 수 있다. 반대로 협상이 지연되거나 중동 긴장이 다시 커지면 유가와 금리는 재차 흔들릴 수 있다. 현재 시장의 핵심 질문은 명확하다. 유가 하락이 일시적 위험 프리미엄 제거인지, 아니면 물가 경로를 바꿀 만큼 지속적인 변화인지다. 투자자는 미국 10년물과 2년물 금리, 원유 선물, 원·달러 환율을 함께 확인할 필요가 있다.",
+      "keywords": [
+        "미 국채금리",
+        "미국 국채",
+        "Treasury yields",
+        "이란 외교 대화",
+        "국제유가 하락",
+        "인플레이션 우려",
+        "트럼프 대통령",
+        "원달러 환율",
+        "한국 채권시장",
+        "미 국채금리 하락, 이란 외교 재개로"
+      ],
+      "faq": [
+        {
+          "q": "미 국채금리가 왜 하락했나?",
+          "a": "트럼프 대통령이 이란과의 외교 대화를 재개하기로 하면서 중동 공급 리스크가 낮아졌고, 유가 하락이 인플레이션 우려를 완화해 국채 매수세가 강화됐다."
+        },
+        {
+          "q": "유가 하락이 채권금리에 어떤 영향을 주나?",
+          "a": "유가가 내려가면 에너지발 물가 압력이 줄어든다. 물가 기대가 낮아지면 중앙은행의 긴축 부담도 완화될 수 있어 채권 수익률 하락 요인이 된다."
+        },
+        {
+          "q": "한국 시장에는 어떤 의미가 있나?",
+          "a": "미 국채금리 하락과 유가 약세는 원·달러 환율 안정, 수입물가 부담 완화, 국내 채권금리 하락 압력으로 이어질 수 있다. 다만 협상 진전과 물가 지표 확인이 필요하다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Treasury Yields Fall as Iran Diplomacy Pushes Oil Lower",
+      "excerpt": "U.S. Treasury yields fell in European trading after President Trump moved to resume diplomatic talks with Iran, sending oil prices lower and easing inflation concerns.",
+      "metaDescription": "Treasury yields declined in European trading as renewed U.S.-Iran diplomacy drove oil prices lower and reduced energy-led inflation worries.",
+      "summary": "U.S. Treasury yields moved lower during European trading. President Trump’s decision to restart diplomatic talks with Iran reduced the geopolitical risk premium in oil prices. Lower crude prices eased inflation concerns and supported demand for government bonds. For Korean investors, the move matters for the won, import costs and domestic bond yields.",
+      "body": "U.S. Treasury yields fell in European trading as President Trump’s decision to resume diplomatic talks with Iran pulled oil prices lower and eased inflation concerns. The bond market responded quickly because energy prices feed directly into headline inflation, transport costs and broader raw-material pricing. When oil declines, investors tend to reassess the inflation path and the pressure on the Federal Reserve.\n\n## Why Yields Fell\nThe immediate driver was the reopening of diplomacy with Iran. Iran is closely tied to global oil supply expectations and Middle East shipping risk. When tensions rise, oil prices carry a larger risk premium. When talks restart, that premium can shrink. As crude weakened, investors moved into Treasuries. Bond prices rise when yields fall, making the oil-inflation link central to the session.\n\nThe key signals were clear: Treasury yields moved lower across maturities, oil prices declined, and the adjustment began during European hours before U.S. trading fully opened. The 10-year yield reflects long-term growth and inflation expectations, while the 2-year yield is more sensitive to the policy-rate outlook. Broad downward pressure suggests the market marked down both near-term tightening risk and longer-term inflation pressure.\n\n## Market Impact\nFor Korean markets, lower Treasury yields are not just a U.S. bond story. Softer U.S. yields can reduce upward pressure on the dollar and help stabilize the won. A steadier won and lower oil prices can ease import-price pressure for an energy-importing economy. Korean bonds may also face downward yield pressure as global rates adjust.\n\nThe effect is likely to vary across equities. Airlines, shipping, chemicals and other fuel-sensitive sectors may benefit from cheaper energy, while refiners can face a more mixed margin picture. The next move depends on whether diplomatic progress keeps oil prices contained and whether upcoming U.S. inflation data confirm the disinflation signal.",
+      "keywords": [
+        "Treasury yields",
+        "U.S. Treasuries",
+        "Iran diplomacy",
+        "oil prices",
+        "inflation concerns",
+        "President Trump",
+        "Federal Reserve",
+        "Korean markets",
+        "won dollar exchange rate",
+        "Treasury Yields Fall"
+      ],
+      "faq": [
+        {
+          "q": "Why did Treasury yields fall?",
+          "a": "Yields fell because renewed diplomatic talks with Iran lowered oil prices and reduced inflation concerns, increasing demand for U.S. government bonds."
+        },
+        {
+          "q": "How do oil prices affect Treasury yields?",
+          "a": "Lower oil prices can reduce energy-driven inflation expectations. When inflation pressure eases, bond yields often decline."
+        },
+        {
+          "q": "Why does this matter for Korea?",
+          "a": "Lower U.S. yields and cheaper oil can ease pressure on the won, reduce import-price burdens and influence Korean bond yields."
+        }
+      ]
+    },
+    "ja": {
+      "title": "米国債利回り低下、イラン外交再開で原油安とインフレ懸念緩和",
+      "excerpt": "欧州取引時間に米国債利回りが低下した。トランプ大統領がイランとの外交対話再開を決め、原油価格が下落し、インフレ懸念が和らいだ。",
+      "metaDescription": "米国債利回りは欧州時間に低下。イランとの外交対話再開で原油価格が下がり、エネルギー発のインフレ懸念が後退した。",
+      "summary": "米国債利回りは欧州取引で下落した。トランプ大統領によるイラン外交対話再開の決定が、原油市場の地政学リスクを押し下げた。原油安はインフレ期待を抑え、国債買いを促した。韓国市場ではウォン、輸入物価、国内債券利回りへの影響が注目される。",
+      "body": "米国債利回りは欧州取引時間に低下した。トランプ大統領がイランとの外交対話を再開する方針を示したことで、中東の地政学リスクが後退し、原油価格が下落した。エネルギー価格は総合インフレ、輸送費、原材料価格に直結するため、債券市場はインフレ圧力の緩和を素早く織り込んだ。\n\n## 低下の背景\n今回の出発点はイランとの対話再開だ。イランは世界の原油供給見通しと中東の海上輸送リスクに深く関わる。緊張が高まる局面では原油価格にリスクプレミアムが乗る。対話が再開されると、その上乗せ分は縮小しやすい。原油安が進む中で米国債への買いが入り、価格上昇と利回り低下が同時に起きた。\n\n市場が見た焦点は、米国債利回りが幅広い年限で下方向に動いたこと、原油価格の下落が物価期待を抑えたこと、そして米国市場本格開始前の欧州時間に調整が始まったことだ。10年債利回りは長期の成長と物価見通しを映し、2年債利回りは政策金利見通しに敏感だ。双方が下がれば、市場は短期の金融引き締め圧力と長期のインフレ圧力を同時に低く見始めたことになる。\n\n## 韓国市場への波及\n韓国の投資家にとって、米国債利回り低下は海外債券だけの材料ではない。米金利の低下はドル高圧力を弱め、ウォン相場の安定につながり得る。原油安とウォン安圧力の緩和は、エネルギー輸入国である韓国の輸入物価、企業コスト、貿易収支に影響する。韓国国債利回りにも下押し圧力が及ぶ可能性がある。今後はイラン外交の実質的進展、原油安の持続性、米国の物価指標が焦点となる。",
+      "keywords": [
+        "米国債利回り",
+        "米国債",
+        "イラン外交",
+        "原油価格下落",
+        "インフレ懸念",
+        "トランプ大統領",
+        "FRB",
+        "韓国市場",
+        "ウォン相場",
+        "米国債利回り低下、イラン外交再開で原油安"
+      ],
+      "faq": [
+        {
+          "q": "なぜ米国債利回りは低下したのか。",
+          "a": "イランとの外交対話再開で中東の供給リスクが後退し、原油価格が下落したため、インフレ懸念が和らぎ国債買いが強まった。"
+        },
+        {
+          "q": "原油安は利回りにどう影響するのか。",
+          "a": "原油安はエネルギー由来の物価圧力を抑える。インフレ期待が下がると、債券利回りには低下圧力がかかりやすい。"
+        },
+        {
+          "q": "韓国市場への意味は何か。",
+          "a": "米金利低下と原油安はウォン相場、輸入物価、韓国国債利回りに影響する。エネルギー輸入負担の軽減も意識される。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "美国国债收益率下行，伊朗外交重启压低油价并缓解通胀担忧",
+      "excerpt": "欧洲交易时段，美国国债收益率走低。特朗普总统决定恢复与伊朗的外交谈判，推动油价下跌，并缓解市场对通胀的担忧。",
+      "metaDescription": "美国国债收益率在欧洲时段下跌。美国与伊朗外交谈判重启压低油价，能源通胀压力随之减弱。",
+      "summary": "美国国债收益率在欧洲交易中下行。特朗普总统决定恢复与伊朗的外交谈判，使原油市场的地缘风险溢价下降。油价回落削弱了通胀预期，推动资金买入国债。对韩国市场而言，韩元汇率、进口物价和国内债券收益率都将受到影响。",
+      "body": "美国国债收益率在欧洲交易时段下跌。特朗普总统决定恢复与伊朗的外交谈判后，中东地缘风险有所缓和，国际油价随之走低。能源价格直接影响总体通胀、运输成本和原材料价格，因此债券市场迅速反映了通胀压力可能减弱的预期。\n\n## 收益率为何下行\n本轮变化的直接原因是伊朗外交渠道重新开启。伊朗与全球原油供应预期以及中东航运风险密切相关。紧张局势升温时，油价会计入更高的风险溢价；谈判恢复时，这部分溢价往往回落。随着原油价格走弱，美国国债需求上升，债券价格上涨，收益率下降。\n\n市场关注的信号包括三点：美国国债多个期限收益率同步下移，油价下跌降低了通胀预期，调整在欧洲交易时段率先出现。10年期收益率更多反映长期增长和通胀判断，2年期收益率则对政策利率预期更敏感。如果两者同时回落，说明市场正在下调短期紧缩压力和长期通胀压力。\n\n## 对韩国市场的意义\n对韩国投资者来说，美国国债收益率下行不只是海外债券市场变化。美国利率下降可能削弱美元走强压力，从而帮助稳定韩元。油价走低叠加韩元压力缓和，有助于降低能源进口成本和进口物价压力。韩国经济对能源进口依赖较高，因此油价和汇率的同步变化会影响企业利润、消费物价和贸易收支。韩国国债收益率也可能受到全球利率回落的带动。下一步关键在于伊朗谈判是否取得实际进展、油价下行能否持续，以及美国通胀数据是否确认这一方向。",
+      "keywords": [
+        "美国国债收益率",
+        "美国国债",
+        "伊朗外交谈判",
+        "油价下跌",
+        "通胀担忧",
+        "特朗普总统",
+        "美联储",
+        "韩国市场",
+        "韩元汇率",
+        "美国国债收益率下行，伊朗外交重启压低油价"
+      ],
+      "faq": [
+        {
+          "q": "美国国债收益率为什么下跌？",
+          "a": "美国恢复与伊朗的外交谈判降低了中东供应风险，油价下跌缓解通胀担忧，推动投资者买入美国国债。"
+        },
+        {
+          "q": "油价下跌如何影响国债收益率？",
+          "a": "油价下跌会降低能源带来的通胀压力。通胀预期下降时，债券收益率通常面临下行压力。"
+        },
+        {
+          "q": "这对韩国市场有什么影响？",
+          "a": "美国收益率下降和油价走低可能稳定韩元，减轻进口物价压力，并影响韩国国内债券收益率。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Caen los rendimientos del Tesoro por el diálogo con Irán y la baja del petróleo",
+      "excerpt": "Los rendimientos de los bonos del Tesoro de EE. UU. cayeron en Europa después de que el presidente Trump decidiera reanudar conversaciones diplomáticas con Irán, lo que hundió el petróleo y alivió la inflación.",
+      "metaDescription": "Los rendimientos del Tesoro bajaron en la sesión europea por la reanudación del diálogo con Irán, la caída del petróleo y menores temores inflacionarios.",
+      "summary": "Los rendimientos del Tesoro estadounidense bajaron durante la negociación europea. La decisión del presidente Trump de reabrir conversaciones diplomáticas con Irán redujo la prima de riesgo geopolítico del petróleo. El descenso del crudo alivió las expectativas de inflación y fortaleció la demanda de bonos. Para Corea, el movimiento incide en el won, los pre",
+      "body": "Los rendimientos de los bonos del Tesoro de Estados Unidos cayeron en la negociación europea. La decisión del presidente Trump de reanudar el diálogo diplomático con Irán redujo la percepción de riesgo en Oriente Medio y empujó a la baja los precios del petróleo. Como la energía influye de forma directa en la inflación general, el transporte y los costos de materias primas, el mercado de bonos incorporó rápidamente una menor presión inflacionaria.\n\n## La razón del movimiento\nEl factor inmediato fue la reapertura de la vía diplomática con Irán. El país está vinculado a las expectativas de oferta global de crudo y al riesgo de transporte marítimo en Oriente Medio. Cuando sube la tensión, el petróleo incorpora una prima de riesgo. Cuando se reanudan las conversaciones, esa prima puede reducirse. Con el crudo en descenso, aumentó la demanda por bonos del Tesoro. Al subir el precio de los bonos, sus rendimientos bajan.\n\nLas señales principales fueron tres: rendimientos más bajos en varios vencimientos, petróleo más débil y un ajuste iniciado durante el horario europeo antes de la sesión plena en Nueva York. El rendimiento a 10 años refleja expectativas de crecimiento e inflación de largo plazo; el de 2 años es más sensible al rumbo de la tasa de política monetaria. Una caída conjunta indica menor temor tanto a inflación persistente como a una política monetaria más restrictiva.\n\n## Impacto en Corea\nPara los inversionistas coreanos, la baja de los rendimientos estadounidenses no es un dato aislado. Menores tasas en EE. UU. pueden aliviar la presión alcista del dólar y ayudar a estabilizar el won. Un won más estable y un petróleo más barato reducen la carga de los precios de importación en una economía dependiente de la energía externa. También puede aparecer presión bajista sobre los rendimientos de los bonos coreanos. La próxima fase dependerá del avance real del diálogo con Irán, de la persistencia de la baja del petróleo y de los próximos datos de inflación de Estados Unidos.",
+      "keywords": [
+        "rendimientos del Tesoro",
+        "bonos del Tesoro",
+        "Irán",
+        "precio del petróleo",
+        "inflación",
+        "presidente Trump",
+        "Reserva Federal",
+        "mercado coreano",
+        "won coreano",
+        "Caen los rendimiento"
+      ],
+      "faq": [
+        {
+          "q": "¿Por qué cayeron los rendimientos del Tesoro?",
+          "a": "Cayeron porque la reanudación del diálogo con Irán redujo el riesgo sobre el petróleo, bajó el crudo y alivió las expectativas de inflación."
+        },
+        {
+          "q": "¿Cómo afecta el petróleo a los rendimientos?",
+          "a": "Un petróleo más barato reduce la presión inflacionaria de la energía. Con menor inflación esperada, los rendimientos de los bonos tienden a bajar."
+        },
+        {
+          "q": "¿Qué significa para Corea?",
+          "a": "Puede ayudar a estabilizar el won, reducir costos de importación y presionar a la baja los rendimientos de los bonos locales."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Juros dos Treasuries caem com diálogo com Irã, petróleo menor e inflação mais branda",
+      "excerpt": "Os rendimentos dos Treasuries recuaram no pregão europeu após o presidente Trump decidir retomar conversas diplomáticas com o Irã, derrubando o petróleo e reduzindo temores inflacionários.",
+      "metaDescription": "Rendimentos dos Treasuries caíram na Europa com retomada do diálogo com o Irã, petróleo em queda e menor pressão de inflação ligada à energia.",
+      "summary": "Os rendimentos dos Treasuries dos EUA caíram durante a negociação europeia. A decisão do presidente Trump de retomar conversas diplomáticas com o Irã reduziu o prêmio de risco geopolítico no petróleo. A queda do crude aliviou expectativas de inflação e reforçou a procura por títulos. Na Coreia, o impacto passa pelo won, preços de importação e juros locais.",
+      "body": "Os rendimentos dos títulos do Tesouro dos Estados Unidos caíram na negociação europeia. A decisão do presidente Trump de retomar o diálogo diplomático com o Irã reduziu o risco geopolítico no Oriente Médio e pressionou os preços do petróleo para baixo. Como a energia afeta diretamente a inflação cheia, o transporte e os custos de matérias-primas, o mercado de renda fixa passou a precificar menor pressão inflacionária.\n\n## Por que os juros caíram\nO gatilho foi a reabertura da frente diplomática com o Irã. O país está ligado às expectativas de oferta global de petróleo e aos riscos de navegação no Oriente Médio. Quando a tensão aumenta, o petróleo incorpora um prêmio de risco. Quando as conversas são retomadas, esse prêmio tende a diminuir. Com o crude em queda, cresceu a demanda por Treasuries. Quando o preço dos títulos sobe, o rendimento cai.\n\nOs sinais observados foram claros: queda dos rendimentos em diferentes vencimentos, baixa do petróleo e ajuste iniciado durante o horário europeu. O juro de 10 anos reflete expectativas de crescimento e inflação de longo prazo, enquanto o de 2 anos é mais sensível à trajetória da política monetária. A queda simultânea mostra que o mercado reduziu tanto o receio de inflação persistente quanto a pressão por juros mais altos.\n\n## Efeito para a Coreia\nPara investidores coreanos, a queda dos Treasuries afeta câmbio, inflação importada e renda fixa local. Juros menores nos EUA podem aliviar a força do dólar e ajudar a estabilizar o won. Petróleo mais barato também reduz custos para uma economia dependente de importações de energia. Esse conjunto pode pressionar para baixo os rendimentos dos títulos coreanos. O próximo passo dependerá do avanço real das conversas com o Irã, da duração da queda do petróleo e dos próximos indicadores de inflação dos EUA.",
+      "keywords": [
+        "Treasuries",
+        "rendimentos dos Treasuries",
+        "Irã",
+        "petróleo em queda",
+        "inflação",
+        "presidente Trump",
+        "Federal Reserve",
+        "mercado coreano",
+        "won",
+        "Juros dos Treasuries"
+      ],
+      "faq": [
+        {
+          "q": "Por que os rendimentos dos Treasuries caíram?",
+          "a": "A retomada do diálogo com o Irã reduziu o risco no petróleo, derrubou os preços do crude e aliviou expectativas de inflação."
+        },
+        {
+          "q": "Qual é a relação entre petróleo e juros dos títulos?",
+          "a": "Petróleo mais barato reduz a inflação de energia. Com menor inflação esperada, os rendimentos dos títulos tendem a cair."
+        },
+        {
+          "q": "Qual é o impacto para a Coreia?",
+          "a": "Pode estabilizar o won, reduzir a inflação importada e influenciar para baixo os juros dos títulos domésticos."
+        }
+      ]
+    },
+    "de": {
+      "title": "US-Staatsanleiherenditen fallen, Iran-Diplomatie drückt Öl und Inflationserwartungen",
+      "excerpt": "Die Renditen von US-Staatsanleihen sanken im europäischen Handel, nachdem Präsident Trump Gespräche mit Iran wiederaufnahm, Ölpreise fielen und Inflationssorgen nachließen.",
+      "metaDescription": "US-Treasury-Renditen gaben im europäischen Handel nach. Neue Iran-Diplomatie drückte Ölpreise und senkte energiegetriebene Inflationssorgen.",
+      "summary": "Die Renditen von US-Staatsanleihen fielen im europäischen Handel. Präsident Trumps Entscheidung, diplomatische Gespräche mit Iran wieder aufzunehmen, verringerte die geopolitische Risikoprämie im Ölmarkt. Sinkende Ölpreise dämpften Inflationserwartungen und stärkten die Nachfrage nach Anleihen. Für Korea sind Won, Importpreise und heimische Renditen wichtig.",
+      "body": "Die Renditen von US-Staatsanleihen sind im europäischen Handel gefallen. Präsident Trump nahm den diplomatischen Dialog mit Iran wieder auf, wodurch sich die Risikowahrnehmung im Nahen Osten abschwächte und die Ölpreise sanken. Da Energiepreise direkt in Gesamtinflation, Transportkosten und Rohstoffpreise einfließen, reagierte der Anleihemarkt rasch auf geringere Inflationsrisiken.\n\n## Auslöser der Bewegung\nDer unmittelbare Auslöser war die Wiederaufnahme der Diplomatie mit Iran. Das Land ist eng mit Erwartungen zur globalen Ölversorgung und Risiken für Transportwege im Nahen Osten verbunden. Bei steigenden Spannungen enthält der Ölpreis eine höhere Risikoprämie. Wenn Gespräche wieder beginnen, kann diese Prämie sinken. Mit schwächeren Ölpreisen stieg die Nachfrage nach Treasuries; steigende Anleihepreise bedeuten fallende Renditen.\n\nEntscheidend waren drei Signale: niedrigere Renditen über mehrere Laufzeiten, fallende Ölpreise und eine frühe Anpassung während der europäischen Handelszeit. Die zehnjährige Rendite spiegelt langfristige Wachstums- und Inflationserwartungen wider. Die zweijährige Rendite reagiert stärker auf den Pfad der Geldpolitik. Fallen beide, bewertet der Markt sowohl kurzfristigen Straffungsdruck als auch langfristigen Inflationsdruck niedriger.\n\n## Bedeutung für Korea\nFür koreanische Anleger ist der Rückgang der US-Renditen mehr als ein Auslandsthema. Niedrigere US-Zinsen können den Aufwertungsdruck des Dollars dämpfen und den Won stabilisieren. Ein stabilerer Won und billigeres Öl können Importpreise entlasten, was für eine energieimportierende Volkswirtschaft besonders wichtig ist. Auch koreanische Staatsanleiherenditen könnten sinken. Der weitere Verlauf hängt davon ab, ob die Iran-Gespräche tatsächlich vorankommen, ob Öl niedrig bleibt und ob US-Inflationsdaten die Entspannung bestätigen.",
+      "keywords": [
+        "US-Staatsanleihen",
+        "Treasury-Renditen",
+        "Iran-Diplomatie",
+        "Ölpreise",
+        "Inflation",
+        "Präsident Trump",
+        "Federal Reserve",
+        "koreanischer Markt",
+        "Won",
+        "US-Staatsanleiherend"
+      ],
+      "faq": [
+        {
+          "q": "Warum sind die US-Renditen gefallen?",
+          "a": "Die Wiederaufnahme der Gespräche mit Iran senkte die Risikoprämie im Ölmarkt. Fallende Ölpreise verringerten Inflationssorgen und stärkten die Nachfrage nach Anleihen."
+        },
+        {
+          "q": "Wie beeinflusst Öl die Anleiherenditen?",
+          "a": "Niedrigere Ölpreise dämpfen energiegetriebene Inflationserwartungen. Dadurch können Renditen von Staatsanleihen sinken."
+        },
+        {
+          "q": "Was bedeutet das für Korea?",
+          "a": "Es kann den Won stabilisieren, Importpreise entlasten und Abwärtsdruck auf koreanische Anleiherenditen ausüben."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Les rendements du Trésor reculent avec la reprise du dialogue Iran et la baisse du pétrole",
+      "excerpt": "Les rendements des Treasuries ont baissé en séance européenne après la décision du président Trump de relancer les discussions diplomatiques avec l’Iran, faisant reculer le pétrole et l’inflation attendue.",
+      "metaDescription": "Les rendements du Trésor américain ont reculé en Europe, la reprise du dialogue avec l’Iran ayant fait baisser le pétrole et les craintes d’inflation.",
+      "summary": "Les rendements des bons du Trésor américain ont reculé pendant les échanges européens. La décision du président Trump de reprendre le dialogue diplomatique avec l’Iran a réduit la prime de risque géopolitique sur le pétrole. La baisse du brut a calmé les anticipations d’inflation et soutenu les obligations. En Corée, le won, les prix importés et les taux loc",
+      "body": "Les rendements des obligations du Trésor américain ont baissé pendant les échanges européens. La décision du président Trump de reprendre les discussions diplomatiques avec l’Iran a réduit le risque géopolitique au Moyen-Orient et entraîné un recul des prix du pétrole. L’énergie pesant directement sur l’inflation globale, les coûts de transport et les matières premières, le marché obligataire a rapidement intégré une pression inflationniste plus faible.\n\n## Le moteur de la baisse\nLe déclencheur immédiat est la réouverture du canal diplomatique avec l’Iran. Le pays est lié aux anticipations d’offre mondiale de pétrole et aux risques de transport maritime dans la région. Quand les tensions montent, le pétrole intègre une prime de risque. Quand les discussions reprennent, cette prime peut diminuer. Avec le pétrole en baisse, les investisseurs ont renforcé leurs achats de Treasuries. Quand le prix des obligations monte, leur rendement baisse.\n\nLes signaux clés sont nets: repli des rendements sur plusieurs maturités, baisse du pétrole et mouvement apparu dès la séance européenne. Le taux à 10 ans reflète les anticipations de croissance et d’inflation à long terme, tandis que le 2 ans réagit davantage aux perspectives de politique monétaire. Leur recul simultané montre que le marché réduit à la fois le risque de resserrement et la pression inflationniste durable.\n\n## Effets pour la Corée\nPour les investisseurs coréens, la baisse des rendements américains a des effets directs. Des taux américains plus bas peuvent limiter la vigueur du dollar et stabiliser le won. Un won plus stable et un pétrole moins cher réduisent la charge des prix importés dans une économie dépendante des importations d’énergie. Les rendements des obligations coréennes peuvent aussi subir une pression baissière. La suite dépendra des progrès réels du dialogue avec l’Iran, de la durée de la baisse du pétrole et des prochains chiffres d’inflation américains.",
+      "keywords": [
+        "rendements du Trésor",
+        "Treasuries",
+        "Iran",
+        "prix du pétrole",
+        "inflation",
+        "président Trump",
+        "Réserve fédérale",
+        "marché coréen",
+        "won",
+        "Les rendements du Tr"
+      ],
+      "faq": [
+        {
+          "q": "Pourquoi les rendements du Trésor ont-ils baissé?",
+          "a": "La reprise du dialogue avec l’Iran a réduit le risque sur l’offre de pétrole, fait baisser le brut et calmé les anticipations d’inflation."
+        },
+        {
+          "q": "Quel lien entre pétrole et rendements obligataires?",
+          "a": "Un pétrole moins cher réduit la pression inflationniste liée à l’énergie. Des anticipations d’inflation plus faibles favorisent des rendements plus bas."
+        },
+        {
+          "q": "Quel impact pour la Corée?",
+          "a": "Le mouvement peut stabiliser le won, alléger les prix importés et peser à la baisse sur les rendements obligataires coréens."
+        }
+      ]
+    },
+    "ar": {
+      "title": "تراجع عوائد الخزانة الأميركية مع استئناف دبلوماسية إيران وانخفاض النفط",
+      "excerpt": "تراجعت عوائد سندات الخزانة الأميركية في التداولات الأوروبية بعد قرار الرئيس ترامب استئناف المحادثات الدبلوماسية مع إيران، ما دفع أسعار النفط للهبوط وخفف مخاوف التضخم.",
+      "metaDescription": "عوائد الخزانة الأميركية تنخفض في أوروبا مع استئناف الحوار مع إيران وهبوط النفط وتراجع مخاوف التضخم المرتبطة بالطاقة.",
+      "summary": "هبطت عوائد سندات الخزانة الأميركية خلال التداولات الأوروبية. قرار الرئيس ترامب استئناف المحادثات الدبلوماسية مع إيران خفف علاوة المخاطر الجيوسياسية في سوق النفط. انخفاض الخام قلص توقعات التضخم ودعم الطلب على السندات. في كوريا، ينعكس ذلك على الوون وأسعار الواردات وعوائد السندات المحلية.",
+      "body": "تراجعت عوائد سندات الخزانة الأميركية في التداولات الأوروبية. قرار الرئيس ترامب استئناف الحوار الدبلوماسي مع إيران خفض المخاطر الجيوسياسية في الشرق الأوسط ودفع أسعار النفط إلى الهبوط. أسعار الطاقة تؤثر مباشرة في التضخم العام وتكاليف النقل وأسعار المواد الخام، لذلك استوعب سوق السندات بسرعة احتمال تراجع ضغوط التضخم.\n\n## سبب التراجع\nالمحرك المباشر كان إعادة فتح المسار الدبلوماسي مع إيران. إيران ترتبط بتوقعات إمدادات النفط العالمية وبمخاطر الملاحة في الشرق الأوسط. عندما ترتفع التوترات، تحمل أسعار النفط علاوة مخاطر أعلى. وعندما تعود المحادثات، يمكن أن تتراجع هذه العلاوة. ومع ضعف النفط، زاد الطلب على سندات الخزانة. ارتفاع أسعار السندات يعني انخفاض عوائدها.\n\nركز السوق على ثلاث إشارات: تراجع العوائد عبر آجال مختلفة، هبوط النفط، وبداية الحركة خلال ساعات التداول الأوروبية. عائد العشر سنوات يعكس توقعات النمو والتضخم طويلة الأجل، بينما عائد السنتين أكثر حساسية لمسار أسعار الفائدة. هبوطهما معا يعني أن السوق يخفض تقديره لضغط التشديد النقدي ولخطر التضخم المستمر.\n\n## الأثر على كوريا\nبالنسبة إلى المستثمرين في كوريا، لا يعد هبوط عوائد الخزانة الأميركية حدثا خارجيا فقط. انخفاض العوائد الأميركية قد يخفف قوة الدولار ويساعد على استقرار الوون. كما أن النفط الأرخص مع عملة أكثر استقرارا يمكن أن يقلل ضغط أسعار الواردات في اقتصاد يعتمد على استيراد الطاقة. وقد تتعرض عوائد السندات الكورية لضغط هبوطي أيضا. المرحلة التالية ستعتمد على تقدم الحوار مع إيران، واستمرار هبوط النفط، وبيانات التضخم الأميركية المقبلة.",
+      "keywords": [
+        "عوائد الخزانة الأميركية",
+        "سندات الخزانة",
+        "إيران",
+        "أسعار النفط",
+        "التضخم",
+        "الرئيس ترامب",
+        "الاحتياطي الفدرالي",
+        "السوق الكورية",
+        "الوون",
+        "تراجع عوائد الخزانة"
+      ],
+      "faq": [
+        {
+          "q": "لماذا تراجعت عوائد الخزانة الأميركية؟",
+          "a": "استئناف الحوار مع إيران خفض مخاطر إمدادات النفط، فتراجعت الأسعار وانخفضت مخاوف التضخم، ما دعم شراء السندات."
+        },
+        {
+          "q": "كيف يؤثر النفط في عوائد السندات؟",
+          "a": "انخفاض النفط يخفف التضخم المرتبط بالطاقة. وعندما تنخفض توقعات التضخم، تميل عوائد السندات إلى الهبوط."
+        },
+        {
+          "q": "ما معنى ذلك لكوريا؟",
+          "a": "قد يساعد على استقرار الوون، وتقليل ضغوط أسعار الواردات، ودفع عوائد السندات الكورية إلى الانخفاض."
+        }
+      ]
+    },
+    "hi": {
+      "title": "ईरान कूटनीति से तेल गिरा, महंगाई चिंता घटी और ट्रेजरी यील्ड नीचे आई",
+      "excerpt": "यूरोपीय कारोबार में अमेरिकी ट्रेजरी यील्ड घटी। राष्ट्रपति ट्रंप ने ईरान के साथ कूटनीतिक बातचीत फिर शुरू करने का निर्णय लिया, जिससे तेल कीमतें फिसलीं और महंगाई की चिंता कम हुई।",
+      "metaDescription": "यूरोपीय सत्र में अमेरिकी ट्रेजरी यील्ड घटी। ईरान से बातचीत फिर शुरू होने से तेल कीमतें नीचे आईं और ऊर्जा आधारित महंगाई दबाव घटा।",
+      "summary": "अमेरिकी ट्रेजरी यील्ड यूरोपीय कारोबार में नीचे आई। राष्ट्रपति ट्रंप के ईरान से कूटनीतिक बातचीत फिर शुरू करने के निर्णय ने तेल बाजार का भू-राजनीतिक जोखिम प्रीमियम घटाया। कच्चे तेल की गिरावट ने महंगाई उम्मीदों को नरम किया और सरकारी बॉन्ड की मांग बढ़ाई। कोरिया के लिए इसका असर वॉन, आयात कीमतों और घरेलू बॉन्ड यील्ड पर पड़ेगा।",
+      "body": "यूरोपीय कारोबार में अमेरिकी ट्रेजरी यील्ड में गिरावट आई। राष्ट्रपति ट्रंप द्वारा ईरान के साथ कूटनीतिक बातचीत फिर शुरू करने के निर्णय से मध्य पूर्व का भू-राजनीतिक जोखिम कम हुआ और अंतरराष्ट्रीय तेल कीमतें नीचे आईं। ऊर्जा कीमतें मुख्य महंगाई, परिवहन लागत और कच्चे माल की कीमतों को सीधे प्रभावित करती हैं, इसलिए बॉन्ड बाजार ने कम महंगाई दबाव की संभावना को तेजी से कीमतों में शामिल किया।\n\n## गिरावट की वजह\nइस बदलाव की सीधी वजह ईरान के साथ कूटनीतिक रास्ते का फिर खुलना है। ईरान वैश्विक तेल आपूर्ति की उम्मीदों और मध्य पूर्व के समुद्री परिवहन जोखिम से जुड़ा है। तनाव बढ़ने पर तेल में जोखिम प्रीमियम जुड़ता है। बातचीत शुरू होने पर वही प्रीमियम घट सकता है। तेल कमजोर होने के साथ ट्रेजरी बॉन्ड की मांग बढ़ी। बॉन्ड की कीमत बढ़ती है तो यील्ड घटती है।\n\nमुख्य संकेत तीन रहे: कई परिपक्वताओं में अमेरिकी यील्ड नीचे आई, तेल कीमतों में गिरावट ने महंगाई उम्मीदों को कम किया, और यह चाल यूरोपीय घंटों में शुरू हुई। 10-वर्षीय यील्ड लंबी अवधि की वृद्धि और महंगाई उम्मीदों को दिखाती है, जबकि 2-वर्षीय यील्ड नीति दर की दिशा के प्रति ज्यादा संवेदनशील होती है। दोनों में नरमी बताती है कि बाजार निकट अवधि की सख्ती और लंबी अवधि के महंगाई दबाव को कम आंक रहा है।\n\n## कोरिया पर असर\nकोरियाई निवेशकों के लिए अमेरिकी यील्ड की गिरावट सिर्फ विदेशी बॉन्ड बाजार की खबर नहीं है। कम अमेरिकी दरें डॉलर की मजबूती को सीमित कर सकती हैं और वॉन को स्थिर करने में मदद कर सकती हैं। तेल सस्ता होने और वॉन स्थिर रहने से ऊर्जा आयात पर निर्भर कोरियाई अर्थव्यवस्था में आयात कीमतों का दबाव घट सकता है। कोरियाई सरकारी बॉन्ड यील्ड पर भी नीचे की ओर दबाव आ सकता है। आगे की दिशा ईरान वार्ता की वास्तविक प्रगति, तेल की कमजोरी की अवधि और अमेरिकी महंगाई आंकड़ों पर निर्भर करेगी।",
+      "keywords": [
+        "ट्रेजरी यील्ड",
+        "अमेरिकी बॉन्ड",
+        "ईरान कूटनीति",
+        "तेल कीमतें",
+        "महंगाई",
+        "राष्ट्रपति ट्रंप",
+        "फेडरल रिजर्व",
+        "कोरिया बाजार",
+        "वॉन",
+        "ईरान कूटनीति से तेल"
+      ],
+      "faq": [
+        {
+          "q": "ट्रेजरी यील्ड क्यों घटी?",
+          "a": "ईरान से बातचीत फिर शुरू होने से तेल आपूर्ति जोखिम घटा, तेल कीमतें नीचे आईं और महंगाई की चिंता कम हुई, जिससे बॉन्ड मांग बढ़ी।"
+        },
+        {
+          "q": "तेल कीमतें यील्ड को कैसे प्रभावित करती हैं?",
+          "a": "तेल सस्ता होने से ऊर्जा आधारित महंगाई दबाव घटता है। महंगाई उम्मीदें कम हों तो बॉन्ड यील्ड अक्सर नीचे आती है।"
+        },
+        {
+          "q": "कोरिया के लिए इसका क्या मतलब है?",
+          "a": "यह वॉन को स्थिर कर सकता है, आयात कीमतों का दबाव घटा सकता है और कोरियाई बॉन्ड यील्ड को नीचे ला सकता है।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Imbal Hasil Treasury Turun, Diplomasi Iran Tekan Minyak dan Redakan Inflasi",
+      "excerpt": "Imbal hasil Treasury AS turun pada perdagangan Eropa setelah Presiden Trump memutuskan melanjutkan pembicaraan diplomatik dengan Iran, membuat harga minyak turun dan kekhawatiran inflasi mereda.",
+      "metaDescription": "Imbal hasil Treasury AS melemah di sesi Eropa karena dialog dengan Iran menekan harga minyak dan meredakan kekhawatiran inflasi dari energi.",
+      "summary": "Imbal hasil Treasury AS turun selama perdagangan Eropa. Keputusan Presiden Trump untuk melanjutkan pembicaraan diplomatik dengan Iran mengurangi premi risiko geopolitik di pasar minyak. Penurunan minyak meredakan ekspektasi inflasi dan mendukung permintaan obligasi pemerintah. Bagi Korea, dampaknya terasa pada won, harga impor, dan imbal hasil obligasi domes",
+      "body": "Imbal hasil Treasury Amerika Serikat turun pada perdagangan Eropa. Keputusan Presiden Trump untuk melanjutkan pembicaraan diplomatik dengan Iran mengurangi risiko geopolitik di Timur Tengah dan menekan harga minyak. Karena energi memengaruhi inflasi utama, biaya transportasi, dan harga bahan baku, pasar obligasi cepat menyesuaikan ekspektasi terhadap tekanan inflasi yang lebih rendah.\n\n## Penyebab Penurunan\nPemicu langsungnya adalah pembukaan kembali jalur diplomatik dengan Iran. Negara itu terkait erat dengan ekspektasi pasokan minyak global dan risiko pelayaran di Timur Tengah. Saat ketegangan meningkat, harga minyak memuat premi risiko lebih besar. Saat pembicaraan dimulai lagi, premi itu dapat berkurang. Ketika minyak melemah, permintaan terhadap Treasury meningkat. Harga obligasi yang naik membuat imbal hasil turun.\n\nSinyal utama yang terlihat adalah turunnya imbal hasil di beberapa tenor, melemahnya harga minyak, dan pergerakan yang muncul lebih dulu pada jam perdagangan Eropa. Imbal hasil 10 tahun mencerminkan ekspektasi pertumbuhan dan inflasi jangka panjang, sedangkan tenor 2 tahun lebih sensitif terhadap arah suku bunga kebijakan. Jika keduanya turun, pasar sedang menurunkan penilaian terhadap risiko pengetatan jangka pendek dan inflasi jangka panjang.\n\n## Dampak untuk Korea\nBagi investor Korea, penurunan imbal hasil AS bukan sekadar isu obligasi luar negeri. Suku bunga AS yang lebih rendah dapat meredam penguatan dolar dan membantu menstabilkan won. Minyak yang lebih murah bersama won yang lebih stabil dapat mengurangi tekanan harga impor dalam ekonomi yang bergantung pada impor energi. Imbal hasil obligasi Korea juga dapat menerima tekanan turun. Arah berikutnya bergantung pada kemajuan nyata dialog Iran, keberlanjutan penurunan minyak, dan data inflasi AS berikutnya.",
+      "keywords": [
+        "imbal hasil Treasury",
+        "Treasury AS",
+        "diplomasi Iran",
+        "harga minyak",
+        "inflasi",
+        "Presiden Trump",
+        "Federal Reserve",
+        "pasar Korea",
+        "won"
+      ],
+      "faq": [
+        {
+          "q": "Mengapa imbal hasil Treasury turun?",
+          "a": "Dialog dengan Iran menurunkan risiko pasokan minyak, membuat harga minyak turun dan meredakan kekhawatiran inflasi, sehingga permintaan obligasi meningkat."
+        },
+        {
+          "q": "Bagaimana minyak memengaruhi imbal hasil obligasi?",
+          "a": "Minyak yang lebih murah menekan inflasi dari energi. Saat ekspektasi inflasi turun, imbal hasil obligasi cenderung ikut turun."
+        },
+        {
+          "q": "Apa artinya bagi Korea?",
+          "a": "Pergerakan ini dapat membantu stabilitas won, mengurangi tekanan harga impor, dan memengaruhi penurunan imbal hasil obligasi Korea."
+        }
+      ]
+    }
+  }
+}
