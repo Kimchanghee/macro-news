@@ -1,0 +1,4112 @@
+{
+ "asOf": "2026-10-15T14:59:20.047Z",
+ "source": "U.S. Bureau of Labor Statistics, Public Data API v1",
+ "sourceUrl": "https://www.bls.gov/developers/",
+ "series": {
+  "CUUR0000SA0": {
+   "title": "CPI-U all items, NSA (1982-84=100)",
+   "observations": [
+    {
+     "date": "2017-01",
+     "value": 242.839,
+     "preliminary": false
+    },
+    {
+     "date": "2017-02",
+     "value": 243.603,
+     "preliminary": false
+    },
+    {
+     "date": "2017-03",
+     "value": 243.801,
+     "preliminary": false
+    },
+    {
+     "date": "2017-04",
+     "value": 244.524,
+     "preliminary": false
+    },
+    {
+     "date": "2017-05",
+     "value": 244.733,
+     "preliminary": false
+    },
+    {
+     "date": "2017-06",
+     "value": 244.955,
+     "preliminary": false
+    },
+    {
+     "date": "2017-07",
+     "value": 244.786,
+     "preliminary": false
+    },
+    {
+     "date": "2017-08",
+     "value": 245.519,
+     "preliminary": false
+    },
+    {
+     "date": "2017-09",
+     "value": 246.819,
+     "preliminary": false
+    },
+    {
+     "date": "2017-10",
+     "value": 246.663,
+     "preliminary": false
+    },
+    {
+     "date": "2017-11",
+     "value": 246.669,
+     "preliminary": false
+    },
+    {
+     "date": "2017-12",
+     "value": 246.524,
+     "preliminary": false
+    },
+    {
+     "date": "2018-01",
+     "value": 247.867,
+     "preliminary": false
+    },
+    {
+     "date": "2018-02",
+     "value": 248.991,
+     "preliminary": false
+    },
+    {
+     "date": "2018-03",
+     "value": 249.554,
+     "preliminary": false
+    },
+    {
+     "date": "2018-04",
+     "value": 250.546,
+     "preliminary": false
+    },
+    {
+     "date": "2018-05",
+     "value": 251.588,
+     "preliminary": false
+    },
+    {
+     "date": "2018-06",
+     "value": 251.989,
+     "preliminary": false
+    },
+    {
+     "date": "2018-07",
+     "value": 252.006,
+     "preliminary": false
+    },
+    {
+     "date": "2018-08",
+     "value": 252.146,
+     "preliminary": false
+    },
+    {
+     "date": "2018-09",
+     "value": 252.439,
+     "preliminary": false
+    },
+    {
+     "date": "2018-10",
+     "value": 252.885,
+     "preliminary": false
+    },
+    {
+     "date": "2018-11",
+     "value": 252.038,
+     "preliminary": false
+    },
+    {
+     "date": "2018-12",
+     "value": 251.233,
+     "preliminary": false
+    },
+    {
+     "date": "2019-01",
+     "value": 251.712,
+     "preliminary": false
+    },
+    {
+     "date": "2019-02",
+     "value": 252.776,
+     "preliminary": false
+    },
+    {
+     "date": "2019-03",
+     "value": 254.202,
+     "preliminary": false
+    },
+    {
+     "date": "2019-04",
+     "value": 255.548,
+     "preliminary": false
+    },
+    {
+     "date": "2019-05",
+     "value": 256.092,
+     "preliminary": false
+    },
+    {
+     "date": "2019-06",
+     "value": 256.143,
+     "preliminary": false
+    },
+    {
+     "date": "2019-07",
+     "value": 256.571,
+     "preliminary": false
+    },
+    {
+     "date": "2019-08",
+     "value": 256.558,
+     "preliminary": false
+    },
+    {
+     "date": "2019-09",
+     "value": 256.759,
+     "preliminary": false
+    },
+    {
+     "date": "2019-10",
+     "value": 257.346,
+     "preliminary": false
+    },
+    {
+     "date": "2019-11",
+     "value": 257.208,
+     "preliminary": false
+    },
+    {
+     "date": "2019-12",
+     "value": 256.974,
+     "preliminary": false
+    },
+    {
+     "date": "2020-01",
+     "value": 257.971,
+     "preliminary": false
+    },
+    {
+     "date": "2020-02",
+     "value": 258.678,
+     "preliminary": false
+    },
+    {
+     "date": "2020-03",
+     "value": 258.115,
+     "preliminary": false
+    },
+    {
+     "date": "2020-04",
+     "value": 256.389,
+     "preliminary": false
+    },
+    {
+     "date": "2020-05",
+     "value": 256.394,
+     "preliminary": false
+    },
+    {
+     "date": "2020-06",
+     "value": 257.797,
+     "preliminary": false
+    },
+    {
+     "date": "2020-07",
+     "value": 259.101,
+     "preliminary": false
+    },
+    {
+     "date": "2020-08",
+     "value": 259.918,
+     "preliminary": false
+    },
+    {
+     "date": "2020-09",
+     "value": 260.28,
+     "preliminary": false
+    },
+    {
+     "date": "2020-10",
+     "value": 260.388,
+     "preliminary": false
+    },
+    {
+     "date": "2020-11",
+     "value": 260.229,
+     "preliminary": false
+    },
+    {
+     "date": "2020-12",
+     "value": 260.474,
+     "preliminary": false
+    },
+    {
+     "date": "2021-01",
+     "value": 261.582,
+     "preliminary": false
+    },
+    {
+     "date": "2021-02",
+     "value": 263.014,
+     "preliminary": false
+    },
+    {
+     "date": "2021-03",
+     "value": 264.877,
+     "preliminary": false
+    },
+    {
+     "date": "2021-04",
+     "value": 267.054,
+     "preliminary": false
+    },
+    {
+     "date": "2021-05",
+     "value": 269.195,
+     "preliminary": false
+    },
+    {
+     "date": "2021-06",
+     "value": 271.696,
+     "preliminary": false
+    },
+    {
+     "date": "2021-07",
+     "value": 273.003,
+     "preliminary": false
+    },
+    {
+     "date": "2021-08",
+     "value": 273.567,
+     "preliminary": false
+    },
+    {
+     "date": "2021-09",
+     "value": 274.31,
+     "preliminary": false
+    },
+    {
+     "date": "2021-10",
+     "value": 276.589,
+     "preliminary": false
+    },
+    {
+     "date": "2021-11",
+     "value": 277.948,
+     "preliminary": false
+    },
+    {
+     "date": "2021-12",
+     "value": 278.802,
+     "preliminary": false
+    },
+    {
+     "date": "2022-01",
+     "value": 281.148,
+     "preliminary": false
+    },
+    {
+     "date": "2022-02",
+     "value": 283.716,
+     "preliminary": false
+    },
+    {
+     "date": "2022-03",
+     "value": 287.504,
+     "preliminary": false
+    },
+    {
+     "date": "2022-04",
+     "value": 289.109,
+     "preliminary": false
+    },
+    {
+     "date": "2022-05",
+     "value": 292.296,
+     "preliminary": false
+    },
+    {
+     "date": "2022-06",
+     "value": 296.311,
+     "preliminary": false
+    },
+    {
+     "date": "2022-07",
+     "value": 296.276,
+     "preliminary": false
+    },
+    {
+     "date": "2022-08",
+     "value": 296.171,
+     "preliminary": false
+    },
+    {
+     "date": "2022-09",
+     "value": 296.808,
+     "preliminary": false
+    },
+    {
+     "date": "2022-10",
+     "value": 298.012,
+     "preliminary": false
+    },
+    {
+     "date": "2022-11",
+     "value": 297.711,
+     "preliminary": false
+    },
+    {
+     "date": "2022-12",
+     "value": 296.797,
+     "preliminary": false
+    },
+    {
+     "date": "2023-01",
+     "value": 299.17,
+     "preliminary": false
+    },
+    {
+     "date": "2023-02",
+     "value": 300.84,
+     "preliminary": false
+    },
+    {
+     "date": "2023-03",
+     "value": 301.836,
+     "preliminary": false
+    },
+    {
+     "date": "2023-04",
+     "value": 303.363,
+     "preliminary": false
+    },
+    {
+     "date": "2023-05",
+     "value": 304.127,
+     "preliminary": false
+    },
+    {
+     "date": "2023-06",
+     "value": 305.109,
+     "preliminary": false
+    },
+    {
+     "date": "2023-07",
+     "value": 305.691,
+     "preliminary": false
+    },
+    {
+     "date": "2023-08",
+     "value": 307.026,
+     "preliminary": false
+    },
+    {
+     "date": "2023-09",
+     "value": 307.789,
+     "preliminary": false
+    },
+    {
+     "date": "2023-10",
+     "value": 307.671,
+     "preliminary": false
+    },
+    {
+     "date": "2023-11",
+     "value": 307.051,
+     "preliminary": false
+    },
+    {
+     "date": "2023-12",
+     "value": 306.746,
+     "preliminary": false
+    },
+    {
+     "date": "2024-01",
+     "value": 308.417,
+     "preliminary": false
+    },
+    {
+     "date": "2024-02",
+     "value": 310.326,
+     "preliminary": false
+    },
+    {
+     "date": "2024-03",
+     "value": 312.332,
+     "preliminary": false
+    },
+    {
+     "date": "2024-04",
+     "value": 313.548,
+     "preliminary": false
+    },
+    {
+     "date": "2024-05",
+     "value": 314.069,
+     "preliminary": false
+    },
+    {
+     "date": "2024-06",
+     "value": 314.175,
+     "preliminary": false
+    },
+    {
+     "date": "2024-07",
+     "value": 314.54,
+     "preliminary": false
+    },
+    {
+     "date": "2024-08",
+     "value": 314.796,
+     "preliminary": false
+    },
+    {
+     "date": "2024-09",
+     "value": 315.301,
+     "preliminary": false
+    },
+    {
+     "date": "2024-10",
+     "value": 315.664,
+     "preliminary": false
+    },
+    {
+     "date": "2024-11",
+     "value": 315.493,
+     "preliminary": false
+    },
+    {
+     "date": "2024-12",
+     "value": 315.605,
+     "preliminary": false
+    },
+    {
+     "date": "2025-01",
+     "value": 317.671,
+     "preliminary": false
+    },
+    {
+     "date": "2025-02",
+     "value": 319.082,
+     "preliminary": false
+    },
+    {
+     "date": "2025-03",
+     "value": 319.799,
+     "preliminary": false
+    },
+    {
+     "date": "2025-04",
+     "value": 320.795,
+     "preliminary": false
+    },
+    {
+     "date": "2025-05",
+     "value": 321.465,
+     "preliminary": false
+    },
+    {
+     "date": "2025-06",
+     "value": 322.561,
+     "preliminary": false
+    },
+    {
+     "date": "2025-07",
+     "value": 323.048,
+     "preliminary": false
+    },
+    {
+     "date": "2025-08",
+     "value": 323.976,
+     "preliminary": false
+    },
+    {
+     "date": "2025-09",
+     "value": 324.8,
+     "preliminary": false
+    },
+    {
+     "date": "2025-11",
+     "value": 324.122,
+     "preliminary": false
+    },
+    {
+     "date": "2025-12",
+     "value": 324.054,
+     "preliminary": false
+    },
+    {
+     "date": "2026-01",
+     "value": 325.252,
+     "preliminary": false
+    },
+    {
+     "date": "2026-02",
+     "value": 326.785,
+     "preliminary": false
+    },
+    {
+     "date": "2026-03",
+     "value": 330.213,
+     "preliminary": false
+    },
+    {
+     "date": "2026-04",
+     "value": 333.02,
+     "preliminary": false
+    },
+    {
+     "date": "2026-05",
+     "value": 335.123,
+     "preliminary": false
+    },
+    {
+     "date": "2026-06",
+     "value": 333.952,
+     "preliminary": false
+    },
+    {
+     "date": "2026-07",
+     "value": 333.918,
+     "preliminary": false
+    },
+    {
+     "date": "2026-08",
+     "value": 334.98,
+     "preliminary": false
+    },
+    {
+     "date": "2026-09",
+     "value": 336.94,
+     "preliminary": false
+    }
+   ]
+  },
+  "CUSR0000SA0": {
+   "title": "CPI-U all items, SA (1982-84=100)",
+   "observations": [
+    {
+     "date": "2017-01",
+     "value": 243.618,
+     "preliminary": false
+    },
+    {
+     "date": "2017-02",
+     "value": 244.006,
+     "preliminary": false
+    },
+    {
+     "date": "2017-03",
+     "value": 243.892,
+     "preliminary": false
+    },
+    {
+     "date": "2017-04",
+     "value": 244.193,
+     "preliminary": false
+    },
+    {
+     "date": "2017-05",
+     "value": 244.004,
+     "preliminary": false
+    },
+    {
+     "date": "2017-06",
+     "value": 244.163,
+     "preliminary": false
+    },
+    {
+     "date": "2017-07",
+     "value": 244.243,
+     "preliminary": false
+    },
+    {
+     "date": "2017-08",
+     "value": 245.183,
+     "preliminary": false
+    },
+    {
+     "date": "2017-09",
+     "value": 246.435,
+     "preliminary": false
+    },
+    {
+     "date": "2017-10",
+     "value": 246.626,
+     "preliminary": false
+    },
+    {
+     "date": "2017-11",
+     "value": 247.284,
+     "preliminary": false
+    },
+    {
+     "date": "2017-12",
+     "value": 247.805,
+     "preliminary": false
+    },
+    {
+     "date": "2018-01",
+     "value": 248.859,
+     "preliminary": false
+    },
+    {
+     "date": "2018-02",
+     "value": 249.529,
+     "preliminary": false
+    },
+    {
+     "date": "2018-03",
+     "value": 249.577,
+     "preliminary": false
+    },
+    {
+     "date": "2018-04",
+     "value": 250.227,
+     "preliminary": false
+    },
+    {
+     "date": "2018-05",
+     "value": 250.792,
+     "preliminary": false
+    },
+    {
+     "date": "2018-06",
+     "value": 251.018,
+     "preliminary": false
+    },
+    {
+     "date": "2018-07",
+     "value": 251.214,
+     "preliminary": false
+    },
+    {
+     "date": "2018-08",
+     "value": 251.663,
+     "preliminary": false
+    },
+    {
+     "date": "2018-09",
+     "value": 252.182,
+     "preliminary": false
+    },
+    {
+     "date": "2018-10",
+     "value": 252.772,
+     "preliminary": false
+    },
+    {
+     "date": "2018-11",
+     "value": 252.594,
+     "preliminary": false
+    },
+    {
+     "date": "2018-12",
+     "value": 252.767,
+     "preliminary": false
+    },
+    {
+     "date": "2019-01",
+     "value": 252.561,
+     "preliminary": false
+    },
+    {
+     "date": "2019-02",
+     "value": 253.319,
+     "preliminary": false
+    },
+    {
+     "date": "2019-03",
+     "value": 254.277,
+     "preliminary": false
+    },
+    {
+     "date": "2019-04",
+     "value": 255.233,
+     "preliminary": false
+    },
+    {
+     "date": "2019-05",
+     "value": 255.296,
+     "preliminary": false
+    },
+    {
+     "date": "2019-06",
+     "value": 255.213,
+     "preliminary": false
+    },
+    {
+     "date": "2019-07",
+     "value": 255.802,
+     "preliminary": false
+    },
+    {
+     "date": "2019-08",
+     "value": 256.036,
+     "preliminary": false
+    },
+    {
+     "date": "2019-09",
+     "value": 256.43,
+     "preliminary": false
+    },
+    {
+     "date": "2019-10",
+     "value": 257.155,
+     "preliminary": false
+    },
+    {
+     "date": "2019-11",
+     "value": 257.879,
+     "preliminary": false
+    },
+    {
+     "date": "2019-12",
+     "value": 258.63,
+     "preliminary": false
+    },
+    {
+     "date": "2020-01",
+     "value": 259.127,
+     "preliminary": false
+    },
+    {
+     "date": "2020-02",
+     "value": 259.25,
+     "preliminary": false
+    },
+    {
+     "date": "2020-03",
+     "value": 258.076,
+     "preliminary": false
+    },
+    {
+     "date": "2020-04",
+     "value": 256.032,
+     "preliminary": false
+    },
+    {
+     "date": "2020-05",
+     "value": 255.802,
+     "preliminary": false
+    },
+    {
+     "date": "2020-06",
+     "value": 257.042,
+     "preliminary": false
+    },
+    {
+     "date": "2020-07",
+     "value": 258.352,
+     "preliminary": false
+    },
+    {
+     "date": "2020-08",
+     "value": 259.316,
+     "preliminary": false
+    },
+    {
+     "date": "2020-09",
+     "value": 259.997,
+     "preliminary": false
+    },
+    {
+     "date": "2020-10",
+     "value": 260.319,
+     "preliminary": false
+    },
+    {
+     "date": "2020-11",
+     "value": 260.911,
+     "preliminary": false
+    },
+    {
+     "date": "2020-12",
+     "value": 262.045,
+     "preliminary": false
+    },
+    {
+     "date": "2021-01",
+     "value": 262.687,
+     "preliminary": false
+    },
+    {
+     "date": "2021-02",
+     "value": 263.579,
+     "preliminary": false
+    },
+    {
+     "date": "2021-03",
+     "value": 264.961,
+     "preliminary": false
+    },
+    {
+     "date": "2021-04",
+     "value": 266.614,
+     "preliminary": false
+    },
+    {
+     "date": "2021-05",
+     "value": 268.383,
+     "preliminary": false
+    },
+    {
+     "date": "2021-06",
+     "value": 270.654,
+     "preliminary": false
+    },
+    {
+     "date": "2021-07",
+     "value": 271.903,
+     "preliminary": false
+    },
+    {
+     "date": "2021-08",
+     "value": 272.676,
+     "preliminary": false
+    },
+    {
+     "date": "2021-09",
+     "value": 273.91,
+     "preliminary": false
+    },
+    {
+     "date": "2021-10",
+     "value": 276.55,
+     "preliminary": false
+    },
+    {
+     "date": "2021-11",
+     "value": 278.919,
+     "preliminary": false
+    },
+    {
+     "date": "2021-12",
+     "value": 280.845,
+     "preliminary": false
+    },
+    {
+     "date": "2022-01",
+     "value": 282.543,
+     "preliminary": false
+    },
+    {
+     "date": "2022-02",
+     "value": 284.5,
+     "preliminary": false
+    },
+    {
+     "date": "2022-03",
+     "value": 287.674,
+     "preliminary": false
+    },
+    {
+     "date": "2022-04",
+     "value": 288.561,
+     "preliminary": false
+    },
+    {
+     "date": "2022-05",
+     "value": 291.298,
+     "preliminary": false
+    },
+    {
+     "date": "2022-06",
+     "value": 294.957,
+     "preliminary": false
+    },
+    {
+     "date": "2022-07",
+     "value": 294.913,
+     "preliminary": false
+    },
+    {
+     "date": "2022-08",
+     "value": 295.097,
+     "preliminary": false
+    },
+    {
+     "date": "2022-09",
+     "value": 296.349,
+     "preliminary": false
+    },
+    {
+     "date": "2022-10",
+     "value": 298.007,
+     "preliminary": false
+    },
+    {
+     "date": "2022-11",
+     "value": 298.786,
+     "preliminary": false
+    },
+    {
+     "date": "2022-12",
+     "value": 298.832,
+     "preliminary": false
+    },
+    {
+     "date": "2023-01",
+     "value": 300.42,
+     "preliminary": false
+    },
+    {
+     "date": "2023-02",
+     "value": 301.45,
+     "preliminary": false
+    },
+    {
+     "date": "2023-03",
+     "value": 301.821,
+     "preliminary": false
+    },
+    {
+     "date": "2023-04",
+     "value": 302.845,
+     "preliminary": false
+    },
+    {
+     "date": "2023-05",
+     "value": 303.334,
+     "preliminary": false
+    },
+    {
+     "date": "2023-06",
+     "value": 304.014,
+     "preliminary": false
+    },
+    {
+     "date": "2023-07",
+     "value": 304.609,
+     "preliminary": false
+    },
+    {
+     "date": "2023-08",
+     "value": 306.082,
+     "preliminary": false
+    },
+    {
+     "date": "2023-09",
+     "value": 307.276,
+     "preliminary": false
+    },
+    {
+     "date": "2023-10",
+     "value": 307.696,
+     "preliminary": false
+    },
+    {
+     "date": "2023-11",
+     "value": 308.148,
+     "preliminary": false
+    },
+    {
+     "date": "2023-12",
+     "value": 308.741,
+     "preliminary": false
+    },
+    {
+     "date": "2024-01",
+     "value": 309.698,
+     "preliminary": false
+    },
+    {
+     "date": "2024-02",
+     "value": 310.967,
+     "preliminary": false
+    },
+    {
+     "date": "2024-03",
+     "value": 312.345,
+     "preliminary": false
+    },
+    {
+     "date": "2024-04",
+     "value": 313.023,
+     "preliminary": false
+    },
+    {
+     "date": "2024-05",
+     "value": 313.175,
+     "preliminary": false
+    },
+    {
+     "date": "2024-06",
+     "value": 313.044,
+     "preliminary": false
+    },
+    {
+     "date": "2024-07",
+     "value": 313.569,
+     "preliminary": false
+    },
+    {
+     "date": "2024-08",
+     "value": 314.062,
+     "preliminary": false
+    },
+    {
+     "date": "2024-09",
+     "value": 314.732,
+     "preliminary": false
+    },
+    {
+     "date": "2024-10",
+     "value": 315.631,
+     "preliminary": false
+    },
+    {
+     "date": "2024-11",
+     "value": 316.528,
+     "preliminary": false
+    },
+    {
+     "date": "2024-12",
+     "value": 317.604,
+     "preliminary": false
+    },
+    {
+     "date": "2025-01",
+     "value": 318.961,
+     "preliminary": false
+    },
+    {
+     "date": "2025-02",
+     "value": 319.679,
+     "preliminary": false
+    },
+    {
+     "date": "2025-03",
+     "value": 319.785,
+     "preliminary": false
+    },
+    {
+     "date": "2025-04",
+     "value": 320.302,
+     "preliminary": false
+    },
+    {
+     "date": "2025-05",
+     "value": 320.62,
+     "preliminary": false
+    },
+    {
+     "date": "2025-06",
+     "value": 321.435,
+     "preliminary": false
+    },
+    {
+     "date": "2025-07",
+     "value": 322.169,
+     "preliminary": false
+    },
+    {
+     "date": "2025-08",
+     "value": 323.291,
+     "preliminary": false
+    },
+    {
+     "date": "2025-09",
+     "value": 324.245,
+     "preliminary": false
+    },
+    {
+     "date": "2025-11",
+     "value": 325.063,
+     "preliminary": false
+    },
+    {
+     "date": "2025-12",
+     "value": 326.031,
+     "preliminary": false
+    },
+    {
+     "date": "2026-01",
+     "value": 326.588,
+     "preliminary": false
+    },
+    {
+     "date": "2026-02",
+     "value": 327.46,
+     "preliminary": false
+    },
+    {
+     "date": "2026-03",
+     "value": 330.293,
+     "preliminary": false
+    },
+    {
+     "date": "2026-04",
+     "value": 332.407,
+     "preliminary": false
+    },
+    {
+     "date": "2026-05",
+     "value": 333.979,
+     "preliminary": false
+    },
+    {
+     "date": "2026-06",
+     "value": 332.568,
+     "preliminary": false
+    },
+    {
+     "date": "2026-07",
+     "value": 332.813,
+     "preliminary": false
+    },
+    {
+     "date": "2026-08",
+     "value": 334.131,
+     "preliminary": false
+    },
+    {
+     "date": "2026-09",
+     "value": 336.298,
+     "preliminary": false
+    }
+   ]
+  },
+  "CUUR0000SA0L1E": {
+   "title": "CPI-U less food and energy, NSA",
+   "observations": [
+    {
+     "date": "2017-01",
+     "value": 250.083,
+     "preliminary": false
+    },
+    {
+     "date": "2017-02",
+     "value": 251.143,
+     "preliminary": false
+    },
+    {
+     "date": "2017-03",
+     "value": 251.29,
+     "preliminary": false
+    },
+    {
+     "date": "2017-04",
+     "value": 251.642,
+     "preliminary": false
+    },
+    {
+     "date": "2017-05",
+     "value": 251.835,
+     "preliminary": false
+    },
+    {
+     "date": "2017-06",
+     "value": 252.014,
+     "preliminary": false
+    },
+    {
+     "date": "2017-07",
+     "value": 251.936,
+     "preliminary": false
+    },
+    {
+     "date": "2017-08",
+     "value": 252.46,
+     "preliminary": false
+    },
+    {
+     "date": "2017-09",
+     "value": 252.941,
+     "preliminary": false
+    },
+    {
+     "date": "2017-10",
+     "value": 253.638,
+     "preliminary": false
+    },
+    {
+     "date": "2017-11",
+     "value": 253.492,
+     "preliminary": false
+    },
+    {
+     "date": "2017-12",
+     "value": 253.558,
+     "preliminary": false
+    },
+    {
+     "date": "2018-01",
+     "value": 254.638,
+     "preliminary": false
+    },
+    {
+     "date": "2018-02",
+     "value": 255.783,
+     "preliminary": false
+    },
+    {
+     "date": "2018-03",
+     "value": 256.61,
+     "preliminary": false
+    },
+    {
+     "date": "2018-04",
+     "value": 257.025,
+     "preliminary": false
+    },
+    {
+     "date": "2018-05",
+     "value": 257.469,
+     "preliminary": false
+    },
+    {
+     "date": "2018-06",
+     "value": 257.697,
+     "preliminary": false
+    },
+    {
+     "date": "2018-07",
+     "value": 257.867,
+     "preliminary": false
+    },
+    {
+     "date": "2018-08",
+     "value": 258.012,
+     "preliminary": false
+    },
+    {
+     "date": "2018-09",
+     "value": 258.429,
+     "preliminary": false
+    },
+    {
+     "date": "2018-10",
+     "value": 259.063,
+     "preliminary": false
+    },
+    {
+     "date": "2018-11",
+     "value": 259.105,
+     "preliminary": false
+    },
+    {
+     "date": "2018-12",
+     "value": 259.083,
+     "preliminary": false
+    },
+    {
+     "date": "2019-01",
+     "value": 260.122,
+     "preliminary": false
+    },
+    {
+     "date": "2019-02",
+     "value": 261.114,
+     "preliminary": false
+    },
+    {
+     "date": "2019-03",
+     "value": 261.836,
+     "preliminary": false
+    },
+    {
+     "date": "2019-04",
+     "value": 262.332,
+     "preliminary": false
+    },
+    {
+     "date": "2019-05",
+     "value": 262.59,
+     "preliminary": false
+    },
+    {
+     "date": "2019-06",
+     "value": 263.177,
+     "preliminary": false
+    },
+    {
+     "date": "2019-07",
+     "value": 263.566,
+     "preliminary": false
+    },
+    {
+     "date": "2019-08",
+     "value": 264.169,
+     "preliminary": false
+    },
+    {
+     "date": "2019-09",
+     "value": 264.522,
+     "preliminary": false
+    },
+    {
+     "date": "2019-10",
+     "value": 265.059,
+     "preliminary": false
+    },
+    {
+     "date": "2019-11",
+     "value": 265.108,
+     "preliminary": false
+    },
+    {
+     "date": "2019-12",
+     "value": 264.935,
+     "preliminary": false
+    },
+    {
+     "date": "2020-01",
+     "value": 266.004,
+     "preliminary": false
+    },
+    {
+     "date": "2020-02",
+     "value": 267.268,
+     "preliminary": false
+    },
+    {
+     "date": "2020-03",
+     "value": 267.312,
+     "preliminary": false
+    },
+    {
+     "date": "2020-04",
+     "value": 266.089,
+     "preliminary": false
+    },
+    {
+     "date": "2020-05",
+     "value": 265.799,
+     "preliminary": false
+    },
+    {
+     "date": "2020-06",
+     "value": 266.302,
+     "preliminary": false
+    },
+    {
+     "date": "2020-07",
+     "value": 267.703,
+     "preliminary": false
+    },
+    {
+     "date": "2020-08",
+     "value": 268.756,
+     "preliminary": false
+    },
+    {
+     "date": "2020-09",
+     "value": 269.054,
+     "preliminary": false
+    },
+    {
+     "date": "2020-10",
+     "value": 269.328,
+     "preliminary": false
+    },
+    {
+     "date": "2020-11",
+     "value": 269.473,
+     "preliminary": false
+    },
+    {
+     "date": "2020-12",
+     "value": 269.226,
+     "preliminary": false
+    },
+    {
+     "date": "2021-01",
+     "value": 269.755,
+     "preliminary": false
+    },
+    {
+     "date": "2021-02",
+     "value": 270.696,
+     "preliminary": false
+    },
+    {
+     "date": "2021-03",
+     "value": 271.713,
+     "preliminary": false
+    },
+    {
+     "date": "2021-04",
+     "value": 273.968,
+     "preliminary": false
+    },
+    {
+     "date": "2021-05",
+     "value": 275.893,
+     "preliminary": false
+    },
+    {
+     "date": "2021-06",
+     "value": 278.218,
+     "preliminary": false
+    },
+    {
+     "date": "2021-07",
+     "value": 279.146,
+     "preliminary": false
+    },
+    {
+     "date": "2021-08",
+     "value": 279.507,
+     "preliminary": false
+    },
+    {
+     "date": "2021-09",
+     "value": 279.884,
+     "preliminary": false
+    },
+    {
+     "date": "2021-10",
+     "value": 281.617,
+     "preliminary": false
+    },
+    {
+     "date": "2021-11",
+     "value": 282.754,
+     "preliminary": false
+    },
+    {
+     "date": "2021-12",
+     "value": 283.908,
+     "preliminary": false
+    },
+    {
+     "date": "2022-01",
+     "value": 285.996,
+     "preliminary": false
+    },
+    {
+     "date": "2022-02",
+     "value": 288.059,
+     "preliminary": false
+    },
+    {
+     "date": "2022-03",
+     "value": 289.305,
+     "preliminary": false
+    },
+    {
+     "date": "2022-04",
+     "value": 290.846,
+     "preliminary": false
+    },
+    {
+     "date": "2022-05",
+     "value": 292.506,
+     "preliminary": false
+    },
+    {
+     "date": "2022-06",
+     "value": 294.68,
+     "preliminary": false
+    },
+    {
+     "date": "2022-07",
+     "value": 295.646,
+     "preliminary": false
+    },
+    {
+     "date": "2022-08",
+     "value": 297.178,
+     "preliminary": false
+    },
+    {
+     "date": "2022-09",
+     "value": 298.442,
+     "preliminary": false
+    },
+    {
+     "date": "2022-10",
+     "value": 299.315,
+     "preliminary": false
+    },
+    {
+     "date": "2022-11",
+     "value": 299.6,
+     "preliminary": false
+    },
+    {
+     "date": "2022-12",
+     "value": 300.113,
+     "preliminary": false
+    },
+    {
+     "date": "2023-01",
+     "value": 301.962,
+     "preliminary": false
+    },
+    {
+     "date": "2023-02",
+     "value": 304.011,
+     "preliminary": false
+    },
+    {
+     "date": "2023-03",
+     "value": 305.476,
+     "preliminary": false
+    },
+    {
+     "date": "2023-04",
+     "value": 306.899,
+     "preliminary": false
+    },
+    {
+     "date": "2023-05",
+     "value": 308.096,
+     "preliminary": false
+    },
+    {
+     "date": "2023-06",
+     "value": 308.91,
+     "preliminary": false
+    },
+    {
+     "date": "2023-07",
+     "value": 309.402,
+     "preliminary": false
+    },
+    {
+     "date": "2023-08",
+     "value": 310.103,
+     "preliminary": false
+    },
+    {
+     "date": "2023-09",
+     "value": 310.817,
+     "preliminary": false
+    },
+    {
+     "date": "2023-10",
+     "value": 311.38,
+     "preliminary": false
+    },
+    {
+     "date": "2023-11",
+     "value": 311.606,
+     "preliminary": false
+    },
+    {
+     "date": "2023-12",
+     "value": 311.907,
+     "preliminary": false
+    },
+    {
+     "date": "2024-01",
+     "value": 313.623,
+     "preliminary": false
+    },
+    {
+     "date": "2024-02",
+     "value": 315.419,
+     "preliminary": false
+    },
+    {
+     "date": "2024-03",
+     "value": 317.088,
+     "preliminary": false
+    },
+    {
+     "date": "2024-04",
+     "value": 317.978,
+     "preliminary": false
+    },
+    {
+     "date": "2024-05",
+     "value": 318.629,
+     "preliminary": false
+    },
+    {
+     "date": "2024-06",
+     "value": 319.003,
+     "preliminary": false
+    },
+    {
+     "date": "2024-07",
+     "value": 319.214,
+     "preliminary": false
+    },
+    {
+     "date": "2024-08",
+     "value": 320.017,
+     "preliminary": false
+    },
+    {
+     "date": "2024-09",
+     "value": 321.109,
+     "preliminary": false
+    },
+    {
+     "date": "2024-10",
+     "value": 321.758,
+     "preliminary": false
+    },
+    {
+     "date": "2024-11",
+     "value": 321.947,
+     "preliminary": false
+    },
+    {
+     "date": "2024-12",
+     "value": 322.007,
+     "preliminary": false
+    },
+    {
+     "date": "2025-01",
+     "value": 323.842,
+     "preliminary": false
+    },
+    {
+     "date": "2025-02",
+     "value": 325.252,
+     "preliminary": false
+    },
+    {
+     "date": "2025-03",
+     "value": 325.933,
+     "preliminary": false
+    },
+    {
+     "date": "2025-04",
+     "value": 326.815,
+     "preliminary": false
+    },
+    {
+     "date": "2025-05",
+     "value": 327.509,
+     "preliminary": false
+    },
+    {
+     "date": "2025-06",
+     "value": 328.364,
+     "preliminary": false
+    },
+    {
+     "date": "2025-07",
+     "value": 328.98,
+     "preliminary": false
+    },
+    {
+     "date": "2025-08",
+     "value": 329.97,
+     "preliminary": false
+    },
+    {
+     "date": "2025-09",
+     "value": 330.804,
+     "preliminary": false
+    },
+    {
+     "date": "2025-11",
+     "value": 330.425,
+     "preliminary": false
+    },
+    {
+     "date": "2025-12",
+     "value": 330.506,
+     "preliminary": false
+    },
+    {
+     "date": "2026-01",
+     "value": 331.95,
+     "preliminary": false
+    },
+    {
+     "date": "2026-02",
+     "value": 333.242,
+     "preliminary": false
+    },
+    {
+     "date": "2026-03",
+     "value": 334.391,
+     "preliminary": false
+    },
+    {
+     "date": "2026-04",
+     "value": 335.803,
+     "preliminary": false
+    },
+    {
+     "date": "2026-05",
+     "value": 336.846,
+     "preliminary": false
+    },
+    {
+     "date": "2026-06",
+     "value": 336.882,
+     "preliminary": false
+    },
+    {
+     "date": "2026-07",
+     "value": 337.133,
+     "preliminary": false
+    },
+    {
+     "date": "2026-08",
+     "value": 338.041,
+     "preliminary": false
+    },
+    {
+     "date": "2026-09",
+     "value": 339.287,
+     "preliminary": false
+    }
+   ]
+  },
+  "CUSR0000SA0L1E": {
+   "title": "CPI-U less food and energy, SA",
+   "observations": [
+    {
+     "date": "2017-01",
+     "value": 250.467,
+     "preliminary": false
+    },
+    {
+     "date": "2017-02",
+     "value": 250.998,
+     "preliminary": false
+    },
+    {
+     "date": "2017-03",
+     "value": 250.944,
+     "preliminary": false
+    },
+    {
+     "date": "2017-04",
+     "value": 251.227,
+     "preliminary": false
+    },
+    {
+     "date": "2017-05",
+     "value": 251.43,
+     "preliminary": false
+    },
+    {
+     "date": "2017-06",
+     "value": 251.746,
+     "preliminary": false
+    },
+    {
+     "date": "2017-07",
+     "value": 251.985,
+     "preliminary": false
+    },
+    {
+     "date": "2017-08",
+     "value": 252.535,
+     "preliminary": false
+    },
+    {
+     "date": "2017-09",
+     "value": 252.812,
+     "preliminary": false
+    },
+    {
+     "date": "2017-10",
+     "value": 253.526,
+     "preliminary": false
+    },
+    {
+     "date": "2017-11",
+     "value": 253.816,
+     "preliminary": false
+    },
+    {
+     "date": "2017-12",
+     "value": 254.344,
+     "preliminary": false
+    },
+    {
+     "date": "2018-01",
+     "value": 255.204,
+     "preliminary": false
+    },
+    {
+     "date": "2018-02",
+     "value": 255.711,
+     "preliminary": false
+    },
+    {
+     "date": "2018-03",
+     "value": 256.271,
+     "preliminary": false
+    },
+    {
+     "date": "2018-04",
+     "value": 256.63,
+     "preliminary": false
+    },
+    {
+     "date": "2018-05",
+     "value": 257.145,
+     "preliminary": false
+    },
+    {
+     "date": "2018-06",
+     "value": 257.399,
+     "preliminary": false
+    },
+    {
+     "date": "2018-07",
+     "value": 257.699,
+     "preliminary": false
+    },
+    {
+     "date": "2018-08",
+     "value": 257.891,
+     "preliminary": false
+    },
+    {
+     "date": "2018-09",
+     "value": 258.368,
+     "preliminary": false
+    },
+    {
+     "date": "2018-10",
+     "value": 258.917,
+     "preliminary": false
+    },
+    {
+     "date": "2018-11",
+     "value": 259.439,
+     "preliminary": false
+    },
+    {
+     "date": "2018-12",
+     "value": 260.063,
+     "preliminary": false
+    },
+    {
+     "date": "2019-01",
+     "value": 260.766,
+     "preliminary": false
+    },
+    {
+     "date": "2019-02",
+     "value": 261.186,
+     "preliminary": false
+    },
+    {
+     "date": "2019-03",
+     "value": 261.567,
+     "preliminary": false
+    },
+    {
+     "date": "2019-04",
+     "value": 261.997,
+     "preliminary": false
+    },
+    {
+     "date": "2019-05",
+     "value": 262.217,
+     "preliminary": false
+    },
+    {
+     "date": "2019-06",
+     "value": 262.739,
+     "preliminary": false
+    },
+    {
+     "date": "2019-07",
+     "value": 263.28,
+     "preliminary": false
+    },
+    {
+     "date": "2019-08",
+     "value": 263.877,
+     "preliminary": false
+    },
+    {
+     "date": "2019-09",
+     "value": 264.388,
+     "preliminary": false
+    },
+    {
+     "date": "2019-10",
+     "value": 264.97,
+     "preliminary": false
+    },
+    {
+     "date": "2019-11",
+     "value": 265.548,
+     "preliminary": false
+    },
+    {
+     "date": "2019-12",
+     "value": 266.02,
+     "preliminary": false
+    },
+    {
+     "date": "2020-01",
+     "value": 266.716,
+     "preliminary": false
+    },
+    {
+     "date": "2020-02",
+     "value": 267.37,
+     "preliminary": false
+    },
+    {
+     "date": "2020-03",
+     "value": 267.054,
+     "preliminary": false
+    },
+    {
+     "date": "2020-04",
+     "value": 265.746,
+     "preliminary": false
+    },
+    {
+     "date": "2020-05",
+     "value": 265.412,
+     "preliminary": false
+    },
+    {
+     "date": "2020-06",
+     "value": 265.849,
+     "preliminary": false
+    },
+    {
+     "date": "2020-07",
+     "value": 267.389,
+     "preliminary": false
+    },
+    {
+     "date": "2020-08",
+     "value": 268.422,
+     "preliminary": false
+    },
+    {
+     "date": "2020-09",
+     "value": 268.933,
+     "preliminary": false
+    },
+    {
+     "date": "2020-10",
+     "value": 269.306,
+     "preliminary": false
+    },
+    {
+     "date": "2020-11",
+     "value": 269.981,
+     "preliminary": false
+    },
+    {
+     "date": "2020-12",
+     "value": 270.341,
+     "preliminary": false
+    },
+    {
+     "date": "2021-01",
+     "value": 270.387,
+     "preliminary": false
+    },
+    {
+     "date": "2021-02",
+     "value": 270.793,
+     "preliminary": false
+    },
+    {
+     "date": "2021-03",
+     "value": 271.459,
+     "preliminary": false
+    },
+    {
+     "date": "2021-04",
+     "value": 273.66,
+     "preliminary": false
+    },
+    {
+     "date": "2021-05",
+     "value": 275.465,
+     "preliminary": false
+    },
+    {
+     "date": "2021-06",
+     "value": 277.651,
+     "preliminary": false
+    },
+    {
+     "date": "2021-07",
+     "value": 278.648,
+     "preliminary": false
+    },
+    {
+     "date": "2021-08",
+     "value": 278.997,
+     "preliminary": false
+    },
+    {
+     "date": "2021-09",
+     "value": 279.698,
+     "preliminary": false
+    },
+    {
+     "date": "2021-10",
+     "value": 281.668,
+     "preliminary": false
+    },
+    {
+     "date": "2021-11",
+     "value": 283.406,
+     "preliminary": false
+    },
+    {
+     "date": "2021-12",
+     "value": 285.18,
+     "preliminary": false
+    },
+    {
+     "date": "2022-01",
+     "value": 286.757,
+     "preliminary": false
+    },
+    {
+     "date": "2022-02",
+     "value": 288.273,
+     "preliminary": false
+    },
+    {
+     "date": "2022-03",
+     "value": 289.056,
+     "preliminary": false
+    },
+    {
+     "date": "2022-04",
+     "value": 290.514,
+     "preliminary": false
+    },
+    {
+     "date": "2022-05",
+     "value": 292.063,
+     "preliminary": false
+    },
+    {
+     "date": "2022-06",
+     "value": 294.05,
+     "preliminary": false
+    },
+    {
+     "date": "2022-07",
+     "value": 295.088,
+     "preliminary": false
+    },
+    {
+     "date": "2022-08",
+     "value": 296.535,
+     "preliminary": false
+    },
+    {
+     "date": "2022-09",
+     "value": 298.226,
+     "preliminary": false
+    },
+    {
+     "date": "2022-10",
+     "value": 299.399,
+     "preliminary": false
+    },
+    {
+     "date": "2022-11",
+     "value": 300.325,
+     "preliminary": false
+    },
+    {
+     "date": "2022-12",
+     "value": 301.394,
+     "preliminary": false
+    },
+    {
+     "date": "2023-01",
+     "value": 302.642,
+     "preliminary": false
+    },
+    {
+     "date": "2023-02",
+     "value": 304.123,
+     "preliminary": false
+    },
+    {
+     "date": "2023-03",
+     "value": 305.147,
+     "preliminary": false
+    },
+    {
+     "date": "2023-04",
+     "value": 306.534,
+     "preliminary": false
+    },
+    {
+     "date": "2023-05",
+     "value": 307.652,
+     "preliminary": false
+    },
+    {
+     "date": "2023-06",
+     "value": 308.322,
+     "preliminary": false
+    },
+    {
+     "date": "2023-07",
+     "value": 308.96,
+     "preliminary": false
+    },
+    {
+     "date": "2023-08",
+     "value": 309.58,
+     "preliminary": false
+    },
+    {
+     "date": "2023-09",
+     "value": 310.539,
+     "preliminary": false
+    },
+    {
+     "date": "2023-10",
+     "value": 311.457,
+     "preliminary": false
+    },
+    {
+     "date": "2023-11",
+     "value": 312.392,
+     "preliminary": false
+    },
+    {
+     "date": "2023-12",
+     "value": 313.195,
+     "preliminary": false
+    },
+    {
+     "date": "2024-01",
+     "value": 314.319,
+     "preliminary": false
+    },
+    {
+     "date": "2024-02",
+     "value": 315.564,
+     "preliminary": false
+    },
+    {
+     "date": "2024-03",
+     "value": 316.792,
+     "preliminary": false
+    },
+    {
+     "date": "2024-04",
+     "value": 317.649,
+     "preliminary": false
+    },
+    {
+     "date": "2024-05",
+     "value": 318.095,
+     "preliminary": false
+    },
+    {
+     "date": "2024-06",
+     "value": 318.39,
+     "preliminary": false
+    },
+    {
+     "date": "2024-07",
+     "value": 318.94,
+     "preliminary": false
+    },
+    {
+     "date": "2024-08",
+     "value": 319.75,
+     "preliminary": false
+    },
+    {
+     "date": "2024-09",
+     "value": 320.732,
+     "preliminary": false
+    },
+    {
+     "date": "2024-10",
+     "value": 321.731,
+     "preliminary": false
+    },
+    {
+     "date": "2024-11",
+     "value": 322.657,
+     "preliminary": false
+    },
+    {
+     "date": "2024-12",
+     "value": 323.259,
+     "preliminary": false
+    },
+    {
+     "date": "2025-01",
+     "value": 324.638,
+     "preliminary": false
+    },
+    {
+     "date": "2025-02",
+     "value": 325.465,
+     "preliminary": false
+    },
+    {
+     "date": "2025-03",
+     "value": 325.69,
+     "preliminary": false
+    },
+    {
+     "date": "2025-04",
+     "value": 326.467,
+     "preliminary": false
+    },
+    {
+     "date": "2025-05",
+     "value": 326.893,
+     "preliminary": false
+    },
+    {
+     "date": "2025-06",
+     "value": 327.658,
+     "preliminary": false
+    },
+    {
+     "date": "2025-07",
+     "value": 328.682,
+     "preliminary": false
+    },
+    {
+     "date": "2025-08",
+     "value": 329.7,
+     "preliminary": false
+    },
+    {
+     "date": "2025-09",
+     "value": 330.418,
+     "preliminary": false
+    },
+    {
+     "date": "2025-11",
+     "value": 331.043,
+     "preliminary": false
+    },
+    {
+     "date": "2025-12",
+     "value": 331.814,
+     "preliminary": false
+    },
+    {
+     "date": "2026-01",
+     "value": 332.793,
+     "preliminary": false
+    },
+    {
+     "date": "2026-02",
+     "value": 333.512,
+     "preliminary": false
+    },
+    {
+     "date": "2026-03",
+     "value": 334.165,
+     "preliminary": false
+    },
+    {
+     "date": "2026-04",
+     "value": 335.423,
+     "preliminary": false
+    },
+    {
+     "date": "2026-05",
+     "value": 336.121,
+     "preliminary": false
+    },
+    {
+     "date": "2026-06",
+     "value": 336.065,
+     "preliminary": false
+    },
+    {
+     "date": "2026-07",
+     "value": 336.789,
+     "preliminary": false
+    },
+    {
+     "date": "2026-08",
+     "value": 337.765,
+     "preliminary": false
+    },
+    {
+     "date": "2026-09",
+     "value": 338.896,
+     "preliminary": false
+    }
+   ]
+  },
+  "LNS14000000": {
+   "title": "Unemployment rate, SA (percent)",
+   "observations": [
+    {
+     "date": "2017-01",
+     "value": 4.7,
+     "preliminary": false
+    },
+    {
+     "date": "2017-02",
+     "value": 4.6,
+     "preliminary": false
+    },
+    {
+     "date": "2017-03",
+     "value": 4.4,
+     "preliminary": false
+    },
+    {
+     "date": "2017-04",
+     "value": 4.4,
+     "preliminary": false
+    },
+    {
+     "date": "2017-05",
+     "value": 4.4,
+     "preliminary": false
+    },
+    {
+     "date": "2017-06",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2017-07",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2017-08",
+     "value": 4.4,
+     "preliminary": false
+    },
+    {
+     "date": "2017-09",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2017-10",
+     "value": 4.2,
+     "preliminary": false
+    },
+    {
+     "date": "2017-11",
+     "value": 4.2,
+     "preliminary": false
+    },
+    {
+     "date": "2017-12",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2018-01",
+     "value": 4,
+     "preliminary": false
+    },
+    {
+     "date": "2018-02",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2018-03",
+     "value": 4,
+     "preliminary": false
+    },
+    {
+     "date": "2018-04",
+     "value": 4,
+     "preliminary": false
+    },
+    {
+     "date": "2018-05",
+     "value": 3.8,
+     "preliminary": false
+    },
+    {
+     "date": "2018-06",
+     "value": 4,
+     "preliminary": false
+    },
+    {
+     "date": "2018-07",
+     "value": 3.8,
+     "preliminary": false
+    },
+    {
+     "date": "2018-08",
+     "value": 3.8,
+     "preliminary": false
+    },
+    {
+     "date": "2018-09",
+     "value": 3.7,
+     "preliminary": false
+    },
+    {
+     "date": "2018-10",
+     "value": 3.8,
+     "preliminary": false
+    },
+    {
+     "date": "2018-11",
+     "value": 3.8,
+     "preliminary": false
+    },
+    {
+     "date": "2018-12",
+     "value": 3.9,
+     "preliminary": false
+    },
+    {
+     "date": "2019-01",
+     "value": 4,
+     "preliminary": false
+    },
+    {
+     "date": "2019-02",
+     "value": 3.8,
+     "preliminary": false
+    },
+    {
+     "date": "2019-03",
+     "value": 3.8,
+     "preliminary": false
+    },
+    {
+     "date": "2019-04",
+     "value": 3.7,
+     "preliminary": false
+    },
+    {
+     "date": "2019-05",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2019-06",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2019-07",
+     "value": 3.7,
+     "preliminary": false
+    },
+    {
+     "date": "2019-08",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2019-09",
+     "value": 3.5,
+     "preliminary": false
+    },
+    {
+     "date": "2019-10",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2019-11",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2019-12",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2020-01",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2020-02",
+     "value": 3.5,
+     "preliminary": false
+    },
+    {
+     "date": "2020-03",
+     "value": 4.4,
+     "preliminary": false
+    },
+    {
+     "date": "2020-04",
+     "value": 14.8,
+     "preliminary": false
+    },
+    {
+     "date": "2020-05",
+     "value": 13.2,
+     "preliminary": false
+    },
+    {
+     "date": "2020-06",
+     "value": 11,
+     "preliminary": false
+    },
+    {
+     "date": "2020-07",
+     "value": 10.2,
+     "preliminary": false
+    },
+    {
+     "date": "2020-08",
+     "value": 8.4,
+     "preliminary": false
+    },
+    {
+     "date": "2020-09",
+     "value": 7.8,
+     "preliminary": false
+    },
+    {
+     "date": "2020-10",
+     "value": 6.9,
+     "preliminary": false
+    },
+    {
+     "date": "2020-11",
+     "value": 6.7,
+     "preliminary": false
+    },
+    {
+     "date": "2020-12",
+     "value": 6.7,
+     "preliminary": false
+    },
+    {
+     "date": "2021-01",
+     "value": 6.4,
+     "preliminary": false
+    },
+    {
+     "date": "2021-02",
+     "value": 6.2,
+     "preliminary": false
+    },
+    {
+     "date": "2021-03",
+     "value": 6.1,
+     "preliminary": false
+    },
+    {
+     "date": "2021-04",
+     "value": 6.1,
+     "preliminary": false
+    },
+    {
+     "date": "2021-05",
+     "value": 5.8,
+     "preliminary": false
+    },
+    {
+     "date": "2021-06",
+     "value": 5.9,
+     "preliminary": false
+    },
+    {
+     "date": "2021-07",
+     "value": 5.4,
+     "preliminary": false
+    },
+    {
+     "date": "2021-08",
+     "value": 5.1,
+     "preliminary": false
+    },
+    {
+     "date": "2021-09",
+     "value": 4.7,
+     "preliminary": false
+    },
+    {
+     "date": "2021-10",
+     "value": 4.5,
+     "preliminary": false
+    },
+    {
+     "date": "2021-11",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2021-12",
+     "value": 3.9,
+     "preliminary": false
+    },
+    {
+     "date": "2022-01",
+     "value": 4,
+     "preliminary": false
+    },
+    {
+     "date": "2022-02",
+     "value": 3.9,
+     "preliminary": false
+    },
+    {
+     "date": "2022-03",
+     "value": 3.7,
+     "preliminary": false
+    },
+    {
+     "date": "2022-04",
+     "value": 3.7,
+     "preliminary": false
+    },
+    {
+     "date": "2022-05",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2022-06",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2022-07",
+     "value": 3.5,
+     "preliminary": false
+    },
+    {
+     "date": "2022-08",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2022-09",
+     "value": 3.5,
+     "preliminary": false
+    },
+    {
+     "date": "2022-10",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2022-11",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2022-12",
+     "value": 3.5,
+     "preliminary": false
+    },
+    {
+     "date": "2023-01",
+     "value": 3.5,
+     "preliminary": false
+    },
+    {
+     "date": "2023-02",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2023-03",
+     "value": 3.5,
+     "preliminary": false
+    },
+    {
+     "date": "2023-04",
+     "value": 3.4,
+     "preliminary": false
+    },
+    {
+     "date": "2023-05",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2023-06",
+     "value": 3.6,
+     "preliminary": false
+    },
+    {
+     "date": "2023-07",
+     "value": 3.5,
+     "preliminary": false
+    },
+    {
+     "date": "2023-08",
+     "value": 3.7,
+     "preliminary": false
+    },
+    {
+     "date": "2023-09",
+     "value": 3.7,
+     "preliminary": false
+    },
+    {
+     "date": "2023-10",
+     "value": 3.9,
+     "preliminary": false
+    },
+    {
+     "date": "2023-11",
+     "value": 3.7,
+     "preliminary": false
+    },
+    {
+     "date": "2023-12",
+     "value": 3.8,
+     "preliminary": false
+    },
+    {
+     "date": "2024-01",
+     "value": 3.7,
+     "preliminary": false
+    },
+    {
+     "date": "2024-02",
+     "value": 3.9,
+     "preliminary": false
+    },
+    {
+     "date": "2024-03",
+     "value": 3.9,
+     "preliminary": false
+    },
+    {
+     "date": "2024-04",
+     "value": 3.9,
+     "preliminary": false
+    },
+    {
+     "date": "2024-05",
+     "value": 3.9,
+     "preliminary": false
+    },
+    {
+     "date": "2024-06",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2024-07",
+     "value": 4.2,
+     "preliminary": false
+    },
+    {
+     "date": "2024-08",
+     "value": 4.2,
+     "preliminary": false
+    },
+    {
+     "date": "2024-09",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2024-10",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2024-11",
+     "value": 4.2,
+     "preliminary": false
+    },
+    {
+     "date": "2024-12",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2025-01",
+     "value": 4,
+     "preliminary": false
+    },
+    {
+     "date": "2025-02",
+     "value": 4.2,
+     "preliminary": false
+    },
+    {
+     "date": "2025-03",
+     "value": 4.2,
+     "preliminary": false
+    },
+    {
+     "date": "2025-04",
+     "value": 4.2,
+     "preliminary": false
+    },
+    {
+     "date": "2025-05",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2025-06",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2025-07",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2025-08",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2025-09",
+     "value": 4.4,
+     "preliminary": false
+    },
+    {
+     "date": "2025-11",
+     "value": 4.5,
+     "preliminary": false
+    },
+    {
+     "date": "2025-12",
+     "value": 4.4,
+     "preliminary": false
+    },
+    {
+     "date": "2026-01",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2026-02",
+     "value": 4.4,
+     "preliminary": false
+    },
+    {
+     "date": "2026-03",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2026-04",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2026-05",
+     "value": 4.3,
+     "preliminary": false
+    },
+    {
+     "date": "2026-06",
+     "value": 4.2,
+     "preliminary": false
+    },
+    {
+     "date": "2026-07",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2026-08",
+     "value": 4.1,
+     "preliminary": false
+    },
+    {
+     "date": "2026-09",
+     "value": 4.2,
+     "preliminary": false
+    }
+   ]
+  },
+  "CES0000000001": {
+   "title": "All employees, total nonfarm, SA (thousands)",
+   "observations": [
+    {
+     "date": "2017-01",
+     "value": 145628,
+     "preliminary": false
+    },
+    {
+     "date": "2017-02",
+     "value": 145846,
+     "preliminary": false
+    },
+    {
+     "date": "2017-03",
+     "value": 145970,
+     "preliminary": false
+    },
+    {
+     "date": "2017-04",
+     "value": 146175,
+     "preliminary": false
+    },
+    {
+     "date": "2017-05",
+     "value": 146380,
+     "preliminary": false
+    },
+    {
+     "date": "2017-06",
+     "value": 146583,
+     "preliminary": false
+    },
+    {
+     "date": "2017-07",
+     "value": 146772,
+     "preliminary": false
+    },
+    {
+     "date": "2017-08",
+     "value": 146919,
+     "preliminary": false
+    },
+    {
+     "date": "2017-09",
+     "value": 147008,
+     "preliminary": false
+    },
+    {
+     "date": "2017-10",
+     "value": 147149,
+     "preliminary": false
+    },
+    {
+     "date": "2017-11",
+     "value": 147372,
+     "preliminary": false
+    },
+    {
+     "date": "2017-12",
+     "value": 147523,
+     "preliminary": false
+    },
+    {
+     "date": "2018-01",
+     "value": 147660,
+     "preliminary": false
+    },
+    {
+     "date": "2018-02",
+     "value": 148054,
+     "preliminary": false
+    },
+    {
+     "date": "2018-03",
+     "value": 148280,
+     "preliminary": false
+    },
+    {
+     "date": "2018-04",
+     "value": 148420,
+     "preliminary": false
+    },
+    {
+     "date": "2018-05",
+     "value": 148742,
+     "preliminary": false
+    },
+    {
+     "date": "2018-06",
+     "value": 148960,
+     "preliminary": false
+    },
+    {
+     "date": "2018-07",
+     "value": 149020,
+     "preliminary": false
+    },
+    {
+     "date": "2018-08",
+     "value": 149277,
+     "preliminary": false
+    },
+    {
+     "date": "2018-09",
+     "value": 149358,
+     "preliminary": false
+    },
+    {
+     "date": "2018-10",
+     "value": 149527,
+     "preliminary": false
+    },
+    {
+     "date": "2018-11",
+     "value": 149617,
+     "preliminary": false
+    },
+    {
+     "date": "2018-12",
+     "value": 149809,
+     "preliminary": false
+    },
+    {
+     "date": "2019-01",
+     "value": 150060,
+     "preliminary": false
+    },
+    {
+     "date": "2019-02",
+     "value": 150067,
+     "preliminary": false
+    },
+    {
+     "date": "2019-03",
+     "value": 150295,
+     "preliminary": false
+    },
+    {
+     "date": "2019-04",
+     "value": 150591,
+     "preliminary": false
+    },
+    {
+     "date": "2019-05",
+     "value": 150618,
+     "preliminary": false
+    },
+    {
+     "date": "2019-06",
+     "value": 150838,
+     "preliminary": false
+    },
+    {
+     "date": "2019-07",
+     "value": 150937,
+     "preliminary": false
+    },
+    {
+     "date": "2019-08",
+     "value": 151169,
+     "preliminary": false
+    },
+    {
+     "date": "2019-09",
+     "value": 151365,
+     "preliminary": false
+    },
+    {
+     "date": "2019-10",
+     "value": 151460,
+     "preliminary": false
+    },
+    {
+     "date": "2019-11",
+     "value": 151667,
+     "preliminary": false
+    },
+    {
+     "date": "2019-12",
+     "value": 151794,
+     "preliminary": false
+    },
+    {
+     "date": "2020-01",
+     "value": 152031,
+     "preliminary": false
+    },
+    {
+     "date": "2020-02",
+     "value": 152293,
+     "preliminary": false
+    },
+    {
+     "date": "2020-03",
+     "value": 150895,
+     "preliminary": false
+    },
+    {
+     "date": "2020-04",
+     "value": 130426,
+     "preliminary": false
+    },
+    {
+     "date": "2020-05",
+     "value": 133040,
+     "preliminary": false
+    },
+    {
+     "date": "2020-06",
+     "value": 137671,
+     "preliminary": false
+    },
+    {
+     "date": "2020-07",
+     "value": 139255,
+     "preliminary": false
+    },
+    {
+     "date": "2020-08",
+     "value": 140821,
+     "preliminary": false
+    },
+    {
+     "date": "2020-09",
+     "value": 141770,
+     "preliminary": false
+    },
+    {
+     "date": "2020-10",
+     "value": 142460,
+     "preliminary": false
+    },
+    {
+     "date": "2020-11",
+     "value": 142733,
+     "preliminary": false
+    },
+    {
+     "date": "2020-12",
+     "value": 142548,
+     "preliminary": false
+    },
+    {
+     "date": "2021-01",
+     "value": 142863,
+     "preliminary": false
+    },
+    {
+     "date": "2021-02",
+     "value": 143380,
+     "preliminary": false
+    },
+    {
+     "date": "2021-03",
+     "value": 144232,
+     "preliminary": false
+    },
+    {
+     "date": "2021-04",
+     "value": 144587,
+     "preliminary": false
+    },
+    {
+     "date": "2021-05",
+     "value": 145065,
+     "preliminary": false
+    },
+    {
+     "date": "2021-06",
+     "value": 145820,
+     "preliminary": false
+    },
+    {
+     "date": "2021-07",
+     "value": 146762,
+     "preliminary": false
+    },
+    {
+     "date": "2021-08",
+     "value": 147314,
+     "preliminary": false
+    },
+    {
+     "date": "2021-09",
+     "value": 147771,
+     "preliminary": false
+    },
+    {
+     "date": "2021-10",
+     "value": 148572,
+     "preliminary": false
+    },
+    {
+     "date": "2021-11",
+     "value": 149230,
+     "preliminary": false
+    },
+    {
+     "date": "2021-12",
+     "value": 149816,
+     "preliminary": false
+    },
+    {
+     "date": "2022-01",
+     "value": 150006,
+     "preliminary": false
+    },
+    {
+     "date": "2022-02",
+     "value": 150825,
+     "preliminary": false
+    },
+    {
+     "date": "2022-03",
+     "value": 151315,
+     "preliminary": false
+    },
+    {
+     "date": "2022-04",
+     "value": 151623,
+     "preliminary": false
+    },
+    {
+     "date": "2022-05",
+     "value": 151924,
+     "preliminary": false
+    },
+    {
+     "date": "2022-06",
+     "value": 152358,
+     "preliminary": false
+    },
+    {
+     "date": "2022-07",
+     "value": 153072,
+     "preliminary": false
+    },
+    {
+     "date": "2022-08",
+     "value": 153362,
+     "preliminary": false
+    },
+    {
+     "date": "2022-09",
+     "value": 153582,
+     "preliminary": false
+    },
+    {
+     "date": "2022-10",
+     "value": 153939,
+     "preliminary": false
+    },
+    {
+     "date": "2022-11",
+     "value": 154242,
+     "preliminary": false
+    },
+    {
+     "date": "2022-12",
+     "value": 154342,
+     "preliminary": false
+    },
+    {
+     "date": "2023-01",
+     "value": 154776,
+     "preliminary": false
+    },
+    {
+     "date": "2023-02",
+     "value": 155066,
+     "preliminary": false
+    },
+    {
+     "date": "2023-03",
+     "value": 155134,
+     "preliminary": false
+    },
+    {
+     "date": "2023-04",
+     "value": 155375,
+     "preliminary": false
+    },
+    {
+     "date": "2023-05",
+     "value": 155655,
+     "preliminary": false
+    },
+    {
+     "date": "2023-06",
+     "value": 155880,
+     "preliminary": false
+    },
+    {
+     "date": "2023-07",
+     "value": 156043,
+     "preliminary": false
+    },
+    {
+     "date": "2023-08",
+     "value": 156261,
+     "preliminary": false
+    },
+    {
+     "date": "2023-09",
+     "value": 156417,
+     "preliminary": false
+    },
+    {
+     "date": "2023-10",
+     "value": 156576,
+     "preliminary": false
+    },
+    {
+     "date": "2023-11",
+     "value": 156703,
+     "preliminary": false
+    },
+    {
+     "date": "2023-12",
+     "value": 156857,
+     "preliminary": false
+    },
+    {
+     "date": "2024-01",
+     "value": 157032,
+     "preliminary": false
+    },
+    {
+     "date": "2024-02",
+     "value": 157238,
+     "preliminary": false
+    },
+    {
+     "date": "2024-03",
+     "value": 157466,
+     "preliminary": false
+    },
+    {
+     "date": "2024-04",
+     "value": 157530,
+     "preliminary": false
+    },
+    {
+     "date": "2024-05",
+     "value": 157608,
+     "preliminary": false
+    },
+    {
+     "date": "2024-06",
+     "value": 157695,
+     "preliminary": false
+    },
+    {
+     "date": "2024-07",
+     "value": 157748,
+     "preliminary": false
+    },
+    {
+     "date": "2024-08",
+     "value": 157757,
+     "preliminary": false
+    },
+    {
+     "date": "2024-09",
+     "value": 157912,
+     "preliminary": false
+    },
+    {
+     "date": "2024-10",
+     "value": 157945,
+     "preliminary": false
+    },
+    {
+     "date": "2024-11",
+     "value": 158079,
+     "preliminary": false
+    },
+    {
+     "date": "2024-12",
+     "value": 158316,
+     "preliminary": false
+    },
+    {
+     "date": "2025-01",
+     "value": 158268,
+     "preliminary": false
+    },
+    {
+     "date": "2025-02",
+     "value": 158310,
+     "preliminary": false
+    },
+    {
+     "date": "2025-03",
+     "value": 158377,
+     "preliminary": false
+    },
+    {
+     "date": "2025-04",
+     "value": 158485,
+     "preliminary": false
+    },
+    {
+     "date": "2025-05",
+     "value": 158498,
+     "preliminary": false
+    },
+    {
+     "date": "2025-06",
+     "value": 158478,
+     "preliminary": false
+    },
+    {
+     "date": "2025-07",
+     "value": 158542,
+     "preliminary": false
+    },
+    {
+     "date": "2025-08",
+     "value": 158472,
+     "preliminary": false
+    },
+    {
+     "date": "2025-09",
+     "value": 158548,
+     "preliminary": false
+    },
+    {
+     "date": "2025-10",
+     "value": 158408,
+     "preliminary": false
+    },
+    {
+     "date": "2025-11",
+     "value": 158449,
+     "preliminary": false
+    },
+    {
+     "date": "2025-12",
+     "value": 158432,
+     "preliminary": false
+    },
+    {
+     "date": "2026-01",
+     "value": 158592,
+     "preliminary": false
+    },
+    {
+     "date": "2026-02",
+     "value": 158436,
+     "preliminary": false
+    },
+    {
+     "date": "2026-03",
+     "value": 158650,
+     "preliminary": false
+    },
+    {
+     "date": "2026-04",
+     "value": 158798,
+     "preliminary": false
+    },
+    {
+     "date": "2026-05",
+     "value": 158861,
+     "preliminary": false
+    },
+    {
+     "date": "2026-06",
+     "value": 158892,
+     "preliminary": false
+    },
+    {
+     "date": "2026-07",
+     "value": 158882,
+     "preliminary": false
+    },
+    {
+     "date": "2026-08",
+     "value": 159015,
+     "preliminary": true
+    },
+    {
+     "date": "2026-09",
+     "value": 159044,
+     "preliminary": true
+    }
+   ]
+  },
+  "CES0500000003": {
+   "title": "Average hourly earnings, total private, SA (dollars)",
+   "observations": [
+    {
+     "date": "2017-01",
+     "value": 26,
+     "preliminary": false
+    },
+    {
+     "date": "2017-02",
+     "value": 26.07,
+     "preliminary": false
+    },
+    {
+     "date": "2017-03",
+     "value": 26.11,
+     "preliminary": false
+    },
+    {
+     "date": "2017-04",
+     "value": 26.18,
+     "preliminary": false
+    },
+    {
+     "date": "2017-05",
+     "value": 26.21,
+     "preliminary": false
+    },
+    {
+     "date": "2017-06",
+     "value": 26.26,
+     "preliminary": false
+    },
+    {
+     "date": "2017-07",
+     "value": 26.35,
+     "preliminary": false
+    },
+    {
+     "date": "2017-08",
+     "value": 26.37,
+     "preliminary": false
+    },
+    {
+     "date": "2017-09",
+     "value": 26.49,
+     "preliminary": false
+    },
+    {
+     "date": "2017-10",
+     "value": 26.5,
+     "preliminary": false
+    },
+    {
+     "date": "2017-11",
+     "value": 26.54,
+     "preliminary": false
+    },
+    {
+     "date": "2017-12",
+     "value": 26.63,
+     "preliminary": false
+    },
+    {
+     "date": "2018-01",
+     "value": 26.72,
+     "preliminary": false
+    },
+    {
+     "date": "2018-02",
+     "value": 26.74,
+     "preliminary": false
+    },
+    {
+     "date": "2018-03",
+     "value": 26.85,
+     "preliminary": false
+    },
+    {
+     "date": "2018-04",
+     "value": 26.91,
+     "preliminary": false
+    },
+    {
+     "date": "2018-05",
+     "value": 26.98,
+     "preliminary": false
+    },
+    {
+     "date": "2018-06",
+     "value": 27.03,
+     "preliminary": false
+    },
+    {
+     "date": "2018-07",
+     "value": 27.1,
+     "preliminary": false
+    },
+    {
+     "date": "2018-08",
+     "value": 27.21,
+     "preliminary": false
+    },
+    {
+     "date": "2018-09",
+     "value": 27.32,
+     "preliminary": false
+    },
+    {
+     "date": "2018-10",
+     "value": 27.37,
+     "preliminary": false
+    },
+    {
+     "date": "2018-11",
+     "value": 27.44,
+     "preliminary": false
+    },
+    {
+     "date": "2018-12",
+     "value": 27.56,
+     "preliminary": false
+    },
+    {
+     "date": "2019-01",
+     "value": 27.59,
+     "preliminary": false
+    },
+    {
+     "date": "2019-02",
+     "value": 27.69,
+     "preliminary": false
+    },
+    {
+     "date": "2019-03",
+     "value": 27.77,
+     "preliminary": false
+    },
+    {
+     "date": "2019-04",
+     "value": 27.79,
+     "preliminary": false
+    },
+    {
+     "date": "2019-05",
+     "value": 27.88,
+     "preliminary": false
+    },
+    {
+     "date": "2019-06",
+     "value": 27.97,
+     "preliminary": false
+    },
+    {
+     "date": "2019-07",
+     "value": 28.03,
+     "preliminary": false
+    },
+    {
+     "date": "2019-08",
+     "value": 28.14,
+     "preliminary": false
+    },
+    {
+     "date": "2019-09",
+     "value": 28.16,
+     "preliminary": false
+    },
+    {
+     "date": "2019-10",
+     "value": 28.24,
+     "preliminary": false
+    },
+    {
+     "date": "2019-11",
+     "value": 28.34,
+     "preliminary": false
+    },
+    {
+     "date": "2019-12",
+     "value": 28.38,
+     "preliminary": false
+    },
+    {
+     "date": "2020-01",
+     "value": 28.43,
+     "preliminary": false
+    },
+    {
+     "date": "2020-02",
+     "value": 28.54,
+     "preliminary": false
+    },
+    {
+     "date": "2020-03",
+     "value": 28.73,
+     "preliminary": false
+    },
+    {
+     "date": "2020-04",
+     "value": 30.04,
+     "preliminary": false
+    },
+    {
+     "date": "2020-05",
+     "value": 29.72,
+     "preliminary": false
+    },
+    {
+     "date": "2020-06",
+     "value": 29.38,
+     "preliminary": false
+    },
+    {
+     "date": "2020-07",
+     "value": 29.39,
+     "preliminary": false
+    },
+    {
+     "date": "2020-08",
+     "value": 29.49,
+     "preliminary": false
+    },
+    {
+     "date": "2020-09",
+     "value": 29.51,
+     "preliminary": false
+    },
+    {
+     "date": "2020-10",
+     "value": 29.54,
+     "preliminary": false
+    },
+    {
+     "date": "2020-11",
+     "value": 29.64,
+     "preliminary": false
+    },
+    {
+     "date": "2020-12",
+     "value": 29.91,
+     "preliminary": false
+    },
+    {
+     "date": "2021-01",
+     "value": 29.93,
+     "preliminary": false
+    },
+    {
+     "date": "2021-02",
+     "value": 30.05,
+     "preliminary": false
+    },
+    {
+     "date": "2021-03",
+     "value": 30.03,
+     "preliminary": false
+    },
+    {
+     "date": "2021-04",
+     "value": 30.22,
+     "preliminary": false
+    },
+    {
+     "date": "2021-05",
+     "value": 30.41,
+     "preliminary": false
+    },
+    {
+     "date": "2021-06",
+     "value": 30.54,
+     "preliminary": false
+    },
+    {
+     "date": "2021-07",
+     "value": 30.66,
+     "preliminary": false
+    },
+    {
+     "date": "2021-08",
+     "value": 30.78,
+     "preliminary": false
+    },
+    {
+     "date": "2021-09",
+     "value": 30.98,
+     "preliminary": false
+    },
+    {
+     "date": "2021-10",
+     "value": 31.14,
+     "preliminary": false
+    },
+    {
+     "date": "2021-11",
+     "value": 31.23,
+     "preliminary": false
+    },
+    {
+     "date": "2021-12",
+     "value": 31.39,
+     "preliminary": false
+    },
+    {
+     "date": "2022-01",
+     "value": 31.6,
+     "preliminary": false
+    },
+    {
+     "date": "2022-02",
+     "value": 31.64,
+     "preliminary": false
+    },
+    {
+     "date": "2022-03",
+     "value": 31.8,
+     "preliminary": false
+    },
+    {
+     "date": "2022-04",
+     "value": 31.96,
+     "preliminary": false
+    },
+    {
+     "date": "2022-05",
+     "value": 32.1,
+     "preliminary": false
+    },
+    {
+     "date": "2022-06",
+     "value": 32.19,
+     "preliminary": false
+    },
+    {
+     "date": "2022-07",
+     "value": 32.34,
+     "preliminary": false
+    },
+    {
+     "date": "2022-08",
+     "value": 32.44,
+     "preliminary": false
+    },
+    {
+     "date": "2022-09",
+     "value": 32.57,
+     "preliminary": false
+    },
+    {
+     "date": "2022-10",
+     "value": 32.7,
+     "preliminary": false
+    },
+    {
+     "date": "2022-11",
+     "value": 32.82,
+     "preliminary": false
+    },
+    {
+     "date": "2022-12",
+     "value": 32.94,
+     "preliminary": false
+    },
+    {
+     "date": "2023-01",
+     "value": 33.02,
+     "preliminary": false
+    },
+    {
+     "date": "2023-02",
+     "value": 33.15,
+     "preliminary": false
+    },
+    {
+     "date": "2023-03",
+     "value": 33.27,
+     "preliminary": false
+    },
+    {
+     "date": "2023-04",
+     "value": 33.43,
+     "preliminary": false
+    },
+    {
+     "date": "2023-05",
+     "value": 33.5,
+     "preliminary": false
+    },
+    {
+     "date": "2023-06",
+     "value": 33.69,
+     "preliminary": false
+    },
+    {
+     "date": "2023-07",
+     "value": 33.85,
+     "preliminary": false
+    },
+    {
+     "date": "2023-08",
+     "value": 33.89,
+     "preliminary": false
+    },
+    {
+     "date": "2023-09",
+     "value": 34.01,
+     "preliminary": false
+    },
+    {
+     "date": "2023-10",
+     "value": 34.08,
+     "preliminary": false
+    },
+    {
+     "date": "2023-11",
+     "value": 34.17,
+     "preliminary": false
+    },
+    {
+     "date": "2023-12",
+     "value": 34.29,
+     "preliminary": false
+    },
+    {
+     "date": "2024-01",
+     "value": 34.47,
+     "preliminary": false
+    },
+    {
+     "date": "2024-02",
+     "value": 34.52,
+     "preliminary": false
+    },
+    {
+     "date": "2024-03",
+     "value": 34.65,
+     "preliminary": false
+    },
+    {
+     "date": "2024-04",
+     "value": 34.76,
+     "preliminary": false
+    },
+    {
+     "date": "2024-05",
+     "value": 34.89,
+     "preliminary": false
+    },
+    {
+     "date": "2024-06",
+     "value": 35.01,
+     "preliminary": false
+    },
+    {
+     "date": "2024-07",
+     "value": 35.08,
+     "preliminary": false
+    },
+    {
+     "date": "2024-08",
+     "value": 35.22,
+     "preliminary": false
+    },
+    {
+     "date": "2024-09",
+     "value": 35.34,
+     "preliminary": false
+    },
+    {
+     "date": "2024-10",
+     "value": 35.46,
+     "preliminary": false
+    },
+    {
+     "date": "2024-11",
+     "value": 35.6,
+     "preliminary": false
+    },
+    {
+     "date": "2024-12",
+     "value": 35.69,
+     "preliminary": false
+    },
+    {
+     "date": "2025-01",
+     "value": 35.84,
+     "preliminary": false
+    },
+    {
+     "date": "2025-02",
+     "value": 35.94,
+     "preliminary": false
+    },
+    {
+     "date": "2025-03",
+     "value": 36.11,
+     "preliminary": false
+    },
+    {
+     "date": "2025-04",
+     "value": 36.12,
+     "preliminary": false
+    },
+    {
+     "date": "2025-05",
+     "value": 36.28,
+     "preliminary": false
+    },
+    {
+     "date": "2025-06",
+     "value": 36.36,
+     "preliminary": false
+    },
+    {
+     "date": "2025-07",
+     "value": 36.47,
+     "preliminary": false
+    },
+    {
+     "date": "2025-08",
+     "value": 36.62,
+     "preliminary": false
+    },
+    {
+     "date": "2025-09",
+     "value": 36.7,
+     "preliminary": false
+    },
+    {
+     "date": "2025-10",
+     "value": 36.85,
+     "preliminary": false
+    },
+    {
+     "date": "2025-11",
+     "value": 37,
+     "preliminary": false
+    },
+    {
+     "date": "2025-12",
+     "value": 37.02,
+     "preliminary": false
+    },
+    {
+     "date": "2026-01",
+     "value": 37.15,
+     "preliminary": false
+    },
+    {
+     "date": "2026-02",
+     "value": 37.27,
+     "preliminary": false
+    },
+    {
+     "date": "2026-03",
+     "value": 37.35,
+     "preliminary": false
+    },
+    {
+     "date": "2026-04",
+     "value": 37.41,
+     "preliminary": false
+    },
+    {
+     "date": "2026-05",
+     "value": 37.49,
+     "preliminary": false
+    },
+    {
+     "date": "2026-06",
+     "value": 37.59,
+     "preliminary": false
+    },
+    {
+     "date": "2026-07",
+     "value": 37.64,
+     "preliminary": false
+    },
+    {
+     "date": "2026-08",
+     "value": 37.76,
+     "preliminary": true
+    },
+    {
+     "date": "2026-09",
+     "value": 37.81,
+     "preliminary": true
+    }
+   ]
+  }
+ }
+}

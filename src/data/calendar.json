@@ -1,0 +1,1118 @@
+{
+ "asOf": "2026-10-15T14:59:20.127Z",
+ "source": "BLS Economic News Release Schedule (iCalendar); Federal Reserve FOMC meeting calendar",
+ "sourceUrl": "https://www.bls.gov/schedule/news_release/",
+ "sources": [
+  {
+   "name": "BLS release schedule (ICS)",
+   "url": "https://www.bls.gov/schedule/news_release/bls.ics"
+  },
+  {
+   "name": "Federal Reserve: FOMC meeting calendars",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+  }
+ ],
+ "note": "FOMC statements are released at 2:00 p.m. ET on the final day of each meeting.",
+ "events": [
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-01-07",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-01-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-01-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-01-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-01-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-01-16",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Cost Index",
+   "date": "2025-01-31",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-02-04",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2025-02-06",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-02-07",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-02-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-02-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-02-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-02-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2025-03-06",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-03-07",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-03-11",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-03-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-03-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-03-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-03-18",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-04-01",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-04-04",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-04-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-04-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-04-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-04-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-04-29",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Cost Index",
+   "date": "2025-04-30",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-05-02",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2025-05-08",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-05-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-05-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-05-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-05-16",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-06-03",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2025-06-05",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-06-06",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-06-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-06-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-06-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-06-17",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-07-01",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-07-03",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-07-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-07-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-07-16",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-07-17",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-07-29",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Cost Index",
+   "date": "2025-07-31",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-08-01",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2025-08-07",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-08-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-08-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-08-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-08-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-09-03",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2025-09-04",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-09-05",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-09-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-09-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-09-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-09-16",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-09-30",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-10-24",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-11-20",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-11-21",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2025-11-25",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2025-12-03",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2025-12-09",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Cost Index",
+   "date": "2025-12-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2025-12-16",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2025-12-18",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2025-12-18",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-01-07",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-01-08",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-01-09",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-01-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-01-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-01-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-01-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting",
+   "label": "January 27-28",
+   "date": "2026-01-28",
+   "timeET": "14:00",
+   "sep": false
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-01-29",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-01-30",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-02-05",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-02-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Cost Index",
+   "date": "2026-02-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-02-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-02-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-02-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-02-27",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-03-05",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-03-05",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-03-06",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-03-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-03-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-03-13",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-03-18",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting (with Summary of Economic Projections)",
+   "label": "March 17-18",
+   "date": "2026-03-18",
+   "timeET": "14:00",
+   "sep": true
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-03-24",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-03-25",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-03-31",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-04-03",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-04-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-04-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-04-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-04-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting",
+   "label": "April 28-29",
+   "date": "2026-04-29",
+   "timeET": "14:00",
+   "sep": false
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Cost Index",
+   "date": "2026-04-30",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-05-05",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-05-07",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-05-08",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-05-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-05-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-05-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-05-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-06-02",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-06-04",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-06-05",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-06-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-06-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-06-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-06-16",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting (with Summary of Economic Projections)",
+   "label": "June 16-17",
+   "date": "2026-06-17",
+   "timeET": "14:00",
+   "sep": true
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-06-30",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-07-02",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-07-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-07-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-07-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-07-17",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting",
+   "label": "July 28-29",
+   "date": "2026-07-29",
+   "timeET": "14:00",
+   "sep": false
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Cost Index",
+   "date": "2026-07-31",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-08-04",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-08-06",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-08-07",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-08-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-08-12",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-08-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-08-18",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-09-01",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-09-03",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-09-04",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-09-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-09-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-09-11",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-09-16",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting (with Summary of Economic Projections)",
+   "label": "September 15-16",
+   "date": "2026-09-16",
+   "timeET": "14:00",
+   "sep": true
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-09-29",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-10-02",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-10-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-10-14",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-10-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-10-16",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting",
+   "label": "October 27-28",
+   "date": "2026-10-28",
+   "timeET": "14:00",
+   "sep": false
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Cost Index",
+   "date": "2026-10-30",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-11-03",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-11-05",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-11-06",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-11-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-11-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-11-13",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-11-17",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Job Openings and Labor Turnover Survey",
+   "date": "2026-12-01",
+   "timeET": "10:00"
+  },
+  {
+   "agency": "BLS",
+   "title": "Employment Situation",
+   "date": "2026-12-04",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Productivity and Costs",
+   "date": "2026-12-08",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting (with Summary of Economic Projections)",
+   "label": "December 8-9",
+   "date": "2026-12-09",
+   "timeET": "14:00",
+   "sep": true
+  },
+  {
+   "agency": "BLS",
+   "title": "Consumer Price Index",
+   "date": "2026-12-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Real Earnings",
+   "date": "2026-12-10",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "Producer Price Index",
+   "date": "2026-12-15",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "BLS",
+   "title": "U.S. Import and Export Price Indexes",
+   "date": "2026-12-17",
+   "timeET": "08:30"
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting",
+   "label": "January 26-27",
+   "date": "2027-01-27",
+   "timeET": "14:00",
+   "sep": false
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting (with Summary of Economic Projections)",
+   "label": "March 16-17",
+   "date": "2027-03-17",
+   "timeET": "14:00",
+   "sep": true
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting",
+   "label": "April 27-28",
+   "date": "2027-04-28",
+   "timeET": "14:00",
+   "sep": false
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting (with Summary of Economic Projections)",
+   "label": "June 8-9",
+   "date": "2027-06-09",
+   "timeET": "14:00",
+   "sep": true
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting",
+   "label": "July 27-28",
+   "date": "2027-07-28",
+   "timeET": "14:00",
+   "sep": false
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting (with Summary of Economic Projections)",
+   "label": "September 14-15",
+   "date": "2027-09-15",
+   "timeET": "14:00",
+   "sep": true
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting",
+   "label": "October 26-27",
+   "date": "2027-10-27",
+   "timeET": "14:00",
+   "sep": false
+  },
+  {
+   "agency": "Federal Reserve",
+   "title": "FOMC meeting (with Summary of Economic Projections)",
+   "label": "December 7-8",
+   "date": "2027-12-08",
+   "timeET": "14:00",
+   "sep": true
+  }
+ ]
+}
