@@ -29,17 +29,17 @@ A **nominal** wage is the dollar amount on a pay slip. A **real** wage is that a
 
 Real wage growth over a period = (1 + nominal wage growth) ÷ (1 + inflation) − 1.
 
-Worked example with round numbers:
+Worked example with the BLS figures in our snapshot (total private average hourly earnings, CES0500000003, and CPI-U, CUUR0000SA0, both not seasonally adjusted):
 
 | Item | Value |
 |---|---|
-| Average hourly earnings, 12 months ago | $36.50 |
-| Average hourly earnings, now | $37.81 |
-| Nominal 12-month growth | 3.59% |
-| CPI-U 12-month inflation | 3.70% |
-| Real wage growth | (1.0359 ÷ 1.0370) − 1 = −0.11% |
+| Average hourly earnings, September 2025 | $36.70 |
+| Average hourly earnings, September 2026 (preliminary) | $37.81 |
+| Nominal 12-month growth | 3.02% |
+| CPI-U 12-month inflation (324.80 to 336.94) | 3.74% |
+| Real wage growth | (1.0302 ÷ 1.0374) − 1 = −0.69% |
 
-In this example nominal pay rose, but slightly less than prices, so real hourly earnings fell. Our [average hourly earnings page](/indicators/average-hourly-earnings/) runs this calculation with the latest BLS figures for the same month.
+On these numbers nominal pay rose, but less than prices, so real hourly earnings fell. Our [average hourly earnings page](/indicators/average-hourly-earnings/) runs this calculation with the latest BLS figures for the same month.
 
 ## The official version: BLS Real Earnings
 
