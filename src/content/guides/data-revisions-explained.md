@@ -1,7 +1,7 @@
 ---
 title: "Why does economic data get revised?"
 seoTitle: "Why Economic Data Gets Revised: Payrolls, CPI and Benchmarks"
-description: "Why first prints change: late survey responses, annual benchmarks and new seasonal factors. How payroll, CPI and HICP revisions work and how to read a preliminary figure."
+description: "Why first prints change: late survey responses, annual benchmarks and new seasonal factors. How payroll, CPI and HICP revisions work and how to read them."
 question: "why are jobs numbers revised"
 answer: "Economic data are revised because first estimates are built from incomplete samples and later replaced with fuller information. U.S. payrolls are revised twice in the following months and benchmarked once a year to tax records; seasonally adjusted CPI is revised each February."
 type: question

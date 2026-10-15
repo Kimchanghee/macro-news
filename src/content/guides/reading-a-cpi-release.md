@@ -1,7 +1,7 @@
 ---
 title: "How do you read a CPI release?"
 seoTitle: "How to Read a CPI Release: A Table-by-Table Walkthrough"
-description: "A table-by-table walkthrough of the monthly BLS CPI news release: where the headline, core, monthly change, shelter and energy figures sit, and what each one tells you."
+description: "A table-by-table walkthrough of the monthly BLS CPI release: where headline, core, monthly change, shelter and energy figures sit and what each one tells you."
 question: "how to read cpi report"
 answer: "Read a CPI release in four passes: the 12-month all-items change (not seasonally adjusted), the one-month seasonally adjusted change, the same two numbers for core CPI, and then Table A’s component lines (shelter, energy, food, goods, services) to see what drove the month."
 type: question

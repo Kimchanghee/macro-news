@@ -1,7 +1,7 @@
 ---
 title: "How do you read the monthly jobs report?"
 seoTitle: "How to Read the Jobs Report: Payrolls, Unemployment, Wages"
-description: "A practical order for reading the BLS Employment Situation report: payroll change and revisions, the unemployment rate, wages, hours and participation, with what each means."
+description: "A practical order for reading the BLS Employment Situation report: payrolls and revisions, the unemployment rate, wages, hours and participation explained."
 question: "how to read the jobs report"
 answer: "Read the Employment Situation report in this order: the nonfarm payroll change and its revisions to the prior two months, the unemployment rate, average hourly earnings, the average workweek, and labour-force participation. Together they show hiring pace, slack and wage pressure."
 type: question

@@ -1,7 +1,7 @@
 ---
 title: "What is the difference between core and headline inflation?"
 seoTitle: "Core vs Headline Inflation: What Is the Difference?"
-description: "Headline inflation covers every item in the basket; core inflation strips out food and energy to show the trend. How each is built, when they diverge and which to watch."
+description: "Headline inflation covers the whole basket; core strips out food and energy to show the trend. How each is built, when they diverge and which to watch."
 question: "core vs headline inflation"
 answer: "Headline inflation measures price changes for the whole consumer basket. Core inflation excludes food and energy, whose prices swing with weather and oil markets, so it is used to judge the underlying trend. In the U.S. CPI, core is the all-items index less food and energy."
 type: comparison

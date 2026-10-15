@@ -1,7 +1,7 @@
 ---
 title: "Why do the household and establishment surveys disagree?"
 seoTitle: "Household vs Establishment Survey: Why Jobs Data Disagree"
-description: "The jobs report holds two surveys: households (unemployment rate) and employers (payrolls). How each works, why their job counts diverge, and which to trust for what."
+description: "The jobs report holds two surveys: households (unemployment rate) and employers (payrolls). How each works, why job counts diverge and which to trust."
 question: "household survey vs establishment survey"
 answer: "The unemployment rate comes from the household survey of about 60,000 homes, while payroll job gains come from the establishment survey of employers. They count different things: people with jobs versus jobs on payrolls, so self-employment, multiple jobholders and sampling error make them diverge."
 type: comparison

@@ -1,7 +1,7 @@
 ---
 title: "Are wages beating inflation? Real vs nominal wages"
 seoTitle: "Real vs Nominal Wages: Are U.S. Wages Beating Inflation?"
-description: "Nominal wages are dollars paid; real wages adjust for inflation. How to compute real wage growth from BLS earnings and CPI data, a worked example and the measurement caveats."
+description: "Nominal wages are dollars paid; real wages adjust for inflation. How to compute real wage growth from BLS earnings and CPI data, with a worked example."
 question: "are wages keeping up with inflation"
 answer: "Wages beat inflation when nominal wage growth exceeds the inflation rate over the same period. Real wage growth is (1 + wage growth) ÷ (1 + inflation) − 1. Using BLS average hourly earnings and CPI for the same 12 months gives a simple answer; BLS also publishes an official Real Earnings release."
 type: question
