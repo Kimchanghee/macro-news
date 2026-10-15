@@ -11,7 +11,7 @@ Baseline date = first production deploy (parent records it). Do not compare agai
 6. Core Web Vitals (field data may be insufficient at 14 d — record "not enough data" rather than guessing).
 
 ## GA4 (only after `PUBLIC_GA4_ID` is set)
-- Sessions by landing page; engaged sessions rate; events `tool_used` (none expected on this site except calendar filters if added) and `outbound_click` to official agency sources.
+- Sessions by landing page; engaged sessions rate; events `outbound_source_click` (destination_host = official agency) and `outbound_affiliate_click` (none until affiliates exist).
 - Consent: share of EEA/UK/CH traffic with denied analytics (modelled data only).
 
 ## AI / answer engines

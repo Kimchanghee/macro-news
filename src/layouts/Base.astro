@@ -71,6 +71,7 @@ const current = (href: string) => (href === '/' ? path === '/' : path.startsWith
     gtag('consent', 'default', { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: 'denied', region: JSON.parse(regions), wait_for_update: 500 });
     gtag('consent', 'default', { ad_storage: 'granted', ad_user_data: 'granted', ad_personalization: 'granted', analytics_storage: 'granted', wait_for_update: 500 });
     window.mrdTrack = function (name, params) { try { gtag('event', name, params || {}); } catch (e) {} };
+    document.addEventListener('click', function (e) { var a = e.target && e.target.closest ? e.target.closest('a[href^="http"]') : null; if (!a || a.host === location.host) return; var sp = /sponsored/.test(a.rel || ''); window.mrdTrack(sp ? 'outbound_affiliate_click' : 'outbound_source_click', { destination_host: a.host }); });
     if (ga4) {
       var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ga4; document.head.appendChild(s);
       gtag('js', new Date()); gtag('config', ga4);

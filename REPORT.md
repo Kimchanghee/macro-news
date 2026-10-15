@@ -1,0 +1,12 @@
+# Report — macrofinancenews.online ("Macro Release Desk"), branch v2-cloudflare-static
+
+- Concept: central-bank briefing book / release board (paper, binder tabs, ruled ledgers, oxblood release markers). Details: DESIGN_REFERENCES.md.
+- Pages (30 HTML, 29 in sitemap): home (this/next-week release board + latest prints + computed desk notes), calendar (90 days), indicators index + 8 indicator pages (CPI, core CPI, unemployment, payrolls, average hourly earnings, Treasury yield curve, euro area HICP, ECB key rates), guides index + 11 guides (≈830–1,200 words, sourced), about, methodology, contact, privacy, terms, disclaimer, 404. Plus feed.xml, sitemap-index/sitemap-0, robots, llms.txt, llms-full.txt, ads.txt, IndexNow key file, 21 OG PNGs (1200×630).
+- Data (committed snapshot, retrieved 2026-10-15 UTC): BLS Public Data API v1 (CPI-U NSA/SA, core, LNS14000000, CES0000000001, CES0500000003; latest Sep 2026), U.S. Treasury daily par yield curve (latest 2026-10-14), Eurostat prc_hicp_minr (euro area HICP, Sep 2026; replaced the ECB ICP flow that stops at 2025-12), ECB Data Portal FM key rates (DFR 2.50% from 2026-09-16), BLS release schedule (ICS) + Federal Reserve FOMC calendar. Refresh keeps last good snapshot per source on failure.
+- Checks: `pnpm build` clean; `pnpm gate` PASS (30 pages); `astro check` 0 errors/0 warnings; `pnpm test` 11/11 (hand-computed calc cases).
+- QA: qa/crawl.txt (curl statuses, titles/desc/canonical/LD parse, 404=404); Playwright shots qa/shots/{home,indicators_cpi,calendar,guides_hicp-vs-cpi}-{1440,390}.png — no horizontal overflow, CLS 0, keyboard focus 3 px visible. Contract browser cache `_pw-browsers` is absent on this host, so the script uses the installed Chrome channel via the `_qa-tools` playwright package (no download).
+- Scorecard: before = live HTTP 402 (Vercel) on every lane; after = SEO/AEO/GEO/LLMO ✅, measurement/content-ops ⚠️ pending owner IDs and schedule (seo/scorecard.md).
+- Hosting: wrangler.jsonc assets-only Worker (no `main`, no /api). `scripts/refresh-build.ps1` = refresh → build → gate.
+- Owner/parent actions: set PUBLIC_GA4_ID, PUBLIC_GSC_VERIFICATION; deploy; schedule refresh-build.ps1 (Treasury refresh takes ~3 min); submit sitemap; AdSense review. No affiliates.
+- Known gaps: no PCE/PPI/JOLTS pages yet (backlog); BLS v1 API is keyless and rate-limited (25 queries/day) — refresh batches series; BLS did not publish Oct 2025 CPI, shown as a gap, not interpolated.
+- Not claimed: deployment, indexing, AdSense approval, revenue.
