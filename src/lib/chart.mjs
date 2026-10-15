@@ -21,7 +21,7 @@ function niceTicks(min, max, count = 5) {
  * @param {{title:string,desc:string,unit?:string,kind?:'line'|'bar'|'step',w?:number,h?:number,decimals?:number,zero?:boolean,ref?:number|null,xLabel?:(x:string)=>string}} o
  */
 export function chart(points, o) {
-  const W = o.w ?? 720, H = o.h ?? 280;
+  const W = o.w ?? 600, H = o.h ?? 290;
   const pad = { l: 46, r: 14, t: 14, b: 30 };
   const pts = points.filter((p) => p.y != null && Number.isFinite(p.y));
   if (pts.length < 2) return `<p class="chart-empty">Not enough observations to draw a chart.</p>`;
@@ -71,7 +71,7 @@ export function chart(points, o) {
 
 /** Yield-curve shape chart: categorical x (tenors). */
 export function curveChart(series, o) {
-  const W = o.w ?? 720, H = o.h ?? 260;
+  const W = o.w ?? 600, H = o.h ?? 270;
   const pad = { l: 46, r: 14, t: 14, b: 30 };
   const all = series.flatMap((s) => s.values.filter((v) => v != null));
   const { lo, hi, ticks } = niceTicks(Math.min(...all), Math.max(...all), 5);

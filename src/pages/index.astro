@@ -4,7 +4,7 @@ import site from '../site.config';
 import calendar from '../data/calendar.json';
 import { indicators } from '../lib/indicators';
 import { weekStart, addDays, longDate, shortMonth, fitText } from '../lib/calc.mjs';
-import { todayET, eventLink } from '../lib/dates';
+import { todayET, nowET, eventLink } from '../lib/dates';
 import { getCollection } from 'astro:content';
 
 const today = todayET();
@@ -17,7 +17,8 @@ const weeks = [mon, addDays(mon, 7)].map((start) => ({
   }),
 }));
 const dow = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'];
-const upcoming = (calendar.events as any[]).filter((e) => e.date >= today);
+const now = nowET();
+const upcoming = (calendar.events as any[]).filter((e) => e.major && `${e.date}T${e.timeET}` > now);
 const next = upcoming[0];
 const cpi = indicators.find((i) => i.slug === 'cpi')!;
 const ur = indicators.find((i) => i.slug === 'unemployment-rate')!;
@@ -55,7 +56,7 @@ const edition = `Edition of ${longDate(today)} · calendar retrieved ${longDate(
                 {d.events.length ? (
                   <ul>
                     {d.events.map((e) => (
-                      <li class="ev"><time datetime={`${e.date}T${e.timeET}`}>{e.timeET} ET</time>{eventLink(e.title) ? <a href={eventLink(e.title)}>{e.title}</a> : e.title}<span class="ag"> · {e.agency}</span></li>
+                      <li class:list={['ev', { minor: !e.major }]}><time datetime={`${e.date}T${e.timeET}`}>{e.timeET} ET</time>{eventLink(e.title) ? <a href={eventLink(e.title)}>{e.title}</a> : e.title}<span class="ag"> · {e.agency}</span></li>
                     ))}
                   </ul>
                 ) : <p class="day-empty">No tracked release</p>}
@@ -95,7 +96,6 @@ const edition = `Edition of ${longDate(today)} · calendar retrieved ${longDate(
       </ol>
     </section>
 
-    <div class="ad-slot" aria-hidden="true"></div>
 
     <section aria-labelledby="guides-h">
       <div class="sec"><span class="sec-n">IV.</span><h2 id="guides-h">Reading the releases</h2><p>Guides that explain what each statistic measures and how to read a release, sourced to the agencies.</p></div>

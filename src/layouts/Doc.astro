@@ -11,6 +11,9 @@ const { title, description, path, h1, kicker, answer, updated, jsonld = [] } = A
       <p class="lede" id="answer">{answer}</p>
       <p class="meta">Last updated <time datetime={updated}>{updated}</time></p>
     </header>
-    <div class="prose article"><slot /></div>
+    <div class="prose article"><slot />
+      <h2>Related pages</h2>
+      <ul>{[['/about/', 'About and editorial standards'], ['/methodology/', 'Methodology and data sources'], ['/contact/', 'Contact'], ['/privacy/', 'Privacy policy'], ['/terms/', 'Terms of use'], ['/disclaimer/', 'Disclaimer']].filter(([h]) => h !== path).map(([h, t]) => <li><a href={h}>{t}</a></li>)}</ul>
+    </div>
   </div>
 </Base>

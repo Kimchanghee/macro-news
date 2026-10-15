@@ -19,10 +19,11 @@ export type Indicator = {
 
 const S = (id: string) => (bls.series as any)[id].observations as Obs[];
 const last = <T,>(a: T[]) => a[a.length - 1];
-const today = new Date().toISOString().slice(0, 10);
+import { nowET } from './dates';
+const now = nowET();
 
 export function nextRelease(title: string) {
-  const ev = (calendar.events as any[]).find((e) => e.title === title && e.date >= today);
+  const ev = (calendar.events as any[]).find((e) => e.title === title && `${e.date}T${e.timeET}` > now);
   return ev ? { date: ev.date as string, timeET: ev.timeET as string } : null;
 }
 
@@ -181,7 +182,7 @@ function ahe(): Indicator {
   const rows = recent(a, 13).reverse().map((o) => ({ period: shortMonth(o.date) + (o.preliminary ? ' (p)' : ''), cells: [`$${fmt(o.value, 2)}`, fmt(pctChange(a, o.date, 12)), signed(pctChange(a, o.date, 1))] }));
   return {
     slug: 'average-hourly-earnings', code: 'CES0500000003', name: 'Average hourly earnings', h1: 'How fast are U.S. wages growing?',
-    title: 'Average Hourly Earnings: U.S. Wage Growth, Latest and History', agency: 'U.S. Bureau of Labor Statistics', releaseTitle: 'Employment Situation',
+    title: 'Average Hourly Earnings: U.S. Wage Growth, Latest, History', agency: 'U.S. Bureau of Labor Statistics', releaseTitle: 'Employment Situation',
     latestPeriod: p, latestLabel: monthName(p), headline: fmt(yoy), headlineUnit: '% y/y', priorLabel: `$${fmt(last(a).value, 2)} per hour`, changeLabel: `${signed(mom)}% m/m`,
     answer: `Average hourly earnings of all private-sector employees were $${fmt(last(a).value, 2)} in ${monthName(p)}, up ${fmt(yoy)}% from a year earlier and ${signed(mom)}% from the prior month (seasonally adjusted), according to the BLS establishment survey.`,
     insights: [

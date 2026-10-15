@@ -15,7 +15,7 @@ const rows = [
 ];
 const ld = [{ '@context': 'https://schema.org', '@type': 'TechArticle', headline: 'How does Macro Release Desk get and compute its numbers?', url: `${site.url}/methodology/`, dateModified: bls.asOf, datePublished: '2026-10-15', author: { '@id': `${site.url}/#org` }, publisher: { '@id': `${site.url}/#org` }, description: 'How Macro Release Desk retrieves official data, computes changes and handles failed refreshes.' }];
 ---
-<Doc title="Methodology and Data Sources | Macro Release Desk Reference" description="Which official APIs feed Macro Release Desk, how often they refresh, how we compute year-over-year and annualised rates, spreads and averages, and how failures are handled." path="/methodology/" h1="How does Macro Release Desk get and compute its numbers?" kicker="Section V · Methodology" updated={bls.asOf.slice(0, 10)} jsonld={ld}
+<Doc title="Methodology and Data Sources | Macro Release Desk Reference" description="Which official APIs feed Macro Release Desk, how often they refresh, how we compute year-over-year, annualised rates and spreads, and how failures are handled." path="/methodology/" h1="How does Macro Release Desk get and compute its numbers?" kicker="Section V · Methodology" updated={bls.asOf.slice(0, 10)} jsonld={ld}
   answer="Each figure is fetched from the publishing agency’s own API or file, stored with its retrieval time, and rendered into static pages. Year-over-year, annualised and spread figures are computed from those published values with the formulas below; nothing is estimated or interpolated.">
   <h2>Data sources and current snapshot</h2>
   <table>

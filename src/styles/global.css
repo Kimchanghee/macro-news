@@ -129,11 +129,11 @@ p { margin: 0 0 1rem; }
 .notes li::before { content: counter(n, lower-alpha) ')'; position: absolute; left: 0; top: 0; font: 600 .9rem/1.6 var(--serif); color: var(--mark); }
 .figure { margin: 0; background: var(--sheet); border: 1px solid var(--rule); padding: .8rem .8rem .4rem; }
 .figure figcaption { font: 500 var(--step--1)/1.45 var(--sans); color: var(--ink-3); padding: .4rem .1rem .3rem; }
-.chart { display: block; width: 100%; aspect-ratio: 720 / 280; }
+.chart { display: block; width: 100%; height: auto; }
 .chart text { font-family: var(--sans); }
 .c-grid { stroke: var(--rule-soft); stroke-width: 1; }
 .c-zero, .c-axis { stroke: var(--ink-2); stroke-width: 1; }
-.c-yl, .c-xl { font-size: 11px; fill: var(--ink-3); }
+.c-yl, .c-xl { font-size: 12.5px; fill: var(--ink-3); }
 .c-line { fill: none; stroke: var(--tab); stroke-width: 2; stroke-linejoin: round; }
 .c-line2 { fill: none; stroke: var(--ink-3); stroke-width: 1.5; stroke-dasharray: 5 4; }
 .c-dot { fill: var(--mark); }
@@ -209,3 +209,5 @@ p { margin: 0 0 1rem; }
 }
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; animation: none !important; } }
 @media print { .tabs, .foot, .ad-slot, .skip { display: none; } body { background: #fff; } }
+.ev.minor { font-size: .82rem; color: var(--ink-2); }
+.ev.minor time { color: var(--ink-3); }

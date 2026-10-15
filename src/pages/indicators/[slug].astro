@@ -20,7 +20,7 @@ const spreadSvg = ind.slug === 'treasury-yield-curve'
   ? chart(spreadHistory(), { id: 'spread', kind: 'line', unit: ' pt', decimals: 2, zero: true, title: '10-year minus 2-year Treasury spread, month-end', desc: 'Month-end 10-year minus 2-year par yield spread in percentage points.' } as any)
   : null;
 const ageDays = Math.floor((Date.now() - Date.parse(ind.asOf)) / 86400000);
-const description = fitText(`${ind.answer.split('. ')[0]}.`, [`History chart, ${ind.table.rows.length}-period table, definition and next release date.`, 'Official source linked.', 'Sourced.']);
+const description = fitText(`Latest ${ind.name.replace(/^U\.S\. /, '')} print: ${ind.headline}${ind.headlineUnit.startsWith('%') ? '' : ' '}${ind.headlineUnit} for ${ind.latestLabel}, from the ${ind.agency}.`, ['With a history chart, recent observations, definition and release timing.', 'Every figure is sourced and dated.', 'Official links included.', 'Updated after each release.', 'No forecasts.', 'Free.', 'Daily.']);
 const path = `/indicators/${ind.slug}/`;
 const ld = [
   {
@@ -100,7 +100,6 @@ if (ind.slug === 'euro-area-inflation' || ind.slug === 'ecb-interest-rates') ld[
       <li>Retrieval time for this page’s data: {ind.asOf.replace('T', ' ').slice(0, 16)} UTC. See our <a href="/methodology/">methodology</a> for calculations.</li>
     </ul>
 
-    <div class="ad-slot" aria-hidden="true"></div>
 
     <div class="sec"><span class="sec-n">VI.</span><h2>Related</h2></div>
     <ul class="related">

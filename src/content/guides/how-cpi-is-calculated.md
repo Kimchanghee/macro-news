@@ -1,7 +1,7 @@
 ---
 title: "How is the Consumer Price Index calculated?"
 seoTitle: "How Is the Consumer Price Index (CPI) Calculated? A Guide"
-description: "How the BLS builds the Consumer Price Index: the market basket, price collection, expenditure weights, seasonal adjustment and why the 12-month rate uses unadjusted data."
+description: "How the BLS builds the Consumer Price Index: the basket, price collection, spending weights, seasonal adjustment and why the 12-month rate uses unadjusted data."
 question: "how is cpi calculated"
 answer: "The BLS calculates the CPI by pricing a fixed basket of consumer goods and services across U.S. urban areas each month, combining price changes within about 240 item categories and 75 areas, then weighting them by household spending shares."
 type: glossary

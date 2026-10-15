@@ -3,7 +3,7 @@ import Doc from '../layouts/Doc.astro';
 import site from '../site.config';
 const ld = [{ '@context': 'https://schema.org', '@type': 'AboutPage', name: 'About Macro Release Desk', url: `${site.url}/about/`, about: { '@id': `${site.url}/#org` }, description: site.description }];
 ---
-<Doc title="About Macro Release Desk: Who We Are and Editorial Standards" description="Macro Release Desk is an independent reference for scheduled U.S. and euro-area economic releases. Learn who runs it, how figures are sourced and how we correct errors." path="/about/" h1="About Macro Release Desk" kicker="About · editorial standards" updated="2026-10-15" jsonld={ld}
+<Doc title="About Macro Release Desk: Who We Are and Editorial Standards" description="An independent reference for scheduled U.S. and euro-area economic releases: who runs Macro Release Desk, how figures are sourced and how errors get corrected." path="/about/" h1="About Macro Release Desk" kicker="About · editorial standards" updated="2026-10-15" jsonld={ld}
   answer={site.description}>
   <h2>Why this desk exists</h2>
   <p>Economic releases are published by statistical agencies as dense news releases and data tables. Much of what circulates afterwards is commentary, prediction or a single number without its reference period. This site does a narrower job: it shows when each release is scheduled, what the latest official value is, how it compares with the prior month and year, and exactly where it came from.</p>

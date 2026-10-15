@@ -68,8 +68,8 @@ async function calendar() {
   const events = ics.split('BEGIN:VEVENT').slice(1).map((b) => ({
     title: (b.match(/SUMMARY:(.*)/) || [])[1]?.trim(),
     start: (b.match(/DTSTART[^:]*:(\d{8}T\d{6})/) || [])[1],
-  })).filter((e) => e.title && e.start && TRACKED.includes(e.title))
-    .map((e) => ({ agency: 'BLS', title: e.title, date: `${e.start.slice(0, 4)}-${e.start.slice(4, 6)}-${e.start.slice(6, 8)}`, timeET: `${e.start.slice(9, 11)}:${e.start.slice(11, 13)}` }));
+  })).filter((e) => e.title && e.start)
+    .map((e) => ({ agency: 'BLS', title: e.title, date: `${e.start.slice(0, 4)}-${e.start.slice(4, 6)}-${e.start.slice(6, 8)}`, timeET: `${e.start.slice(9, 11)}:${e.start.slice(11, 13)}`, major: TRACKED.includes(e.title) }));
   if (events.length < 20) throw new Error('BLS ICS parse returned too few events');
   const html = await (await get('https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm')).text();
   const fomc = [];
@@ -87,7 +87,7 @@ async function calendar() {
       if (Number.isNaN(mIdx)) continue;
       const lastDay = Number(dd[dd.length - 1].replace(/\D/g, ''));
       if (!lastDay) continue;
-      fomc.push({ agency: 'Federal Reserve', title: 'FOMC meeting' + (sep ? ' (with Summary of Economic Projections)' : ''), label: `${month} ${days.replace('*', '')}`, date: `${yr}-${String(mIdx + 1).padStart(2, '0')}-${String(lastDay).padStart(2, '0')}`, timeET: '14:00', sep });
+      fomc.push({ major: true, agency: 'Federal Reserve', title: 'FOMC meeting' + (sep ? ' (with Summary of Economic Projections)' : ''), label: `${month} ${days.replace('*', '')}`, date: `${yr}-${String(mIdx + 1).padStart(2, '0')}-${String(lastDay).padStart(2, '0')}`, timeET: '14:00', sep });
     }
   }
   if (fomc.length < 6) throw new Error('FOMC parse returned too few meetings');
