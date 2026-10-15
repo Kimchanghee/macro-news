@@ -1,0 +1,110 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../site.config';
+import calendar from '../data/calendar.json';
+import { indicators } from '../lib/indicators';
+import { weekStart, addDays, longDate, shortMonth, fitText } from '../lib/calc.mjs';
+import { todayET, eventLink } from '../lib/dates';
+import { getCollection } from 'astro:content';
+
+const today = todayET();
+const mon = weekStart(today);
+const weeks = [mon, addDays(mon, 7)].map((start) => ({
+  start,
+  days: [0, 1, 2, 3, 4].map((i) => {
+    const date = addDays(start, i);
+    return { date, events: (calendar.events as any[]).filter((e) => e.date === date) };
+  }),
+}));
+const dow = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'];
+const upcoming = (calendar.events as any[]).filter((e) => e.date >= today);
+const next = upcoming[0];
+const cpi = indicators.find((i) => i.slug === 'cpi')!;
+const ur = indicators.find((i) => i.slug === 'unemployment-rate')!;
+const nfp = indicators.find((i) => i.slug === 'nonfarm-payrolls')!;
+const tsy = indicators.find((i) => i.slug === 'treasury-yield-curve')!;
+const guides = (await getCollection('guides')).filter((g) => g.data.status === 'published').sort((a, b) => +b.data.updated - +a.data.updated);
+
+const answer = `The next scheduled release on this desk is ${next ? `${next.title} (${next.agency}) on ${longDate(next.date)} at ${next.timeET} ET` : 'not yet on the published calendar'}. Latest prints: U.S. CPI ${cpi.headline}% y/y (${shortMonth(cpi.latestPeriod)}), unemployment ${ur.headline}% and payrolls ${nfp.headline}k (${shortMonth(ur.latestPeriod)}), 10-year Treasury ${tsy.headline}% (${longDate(tsy.latestPeriod)}).`;
+const title = 'Macro Release Desk: U.S. and Euro Area Economic Calendar';
+const description = fitText('This week’s U.S. and euro-area economic releases with times, plus the latest official CPI, jobs, wages, Treasury yield and ECB rate prints.', ['Sourced and dated.', 'Updated daily.']);
+const ld = [{
+  '@context': 'https://schema.org', '@type': 'WebPage', '@id': `${site.url}/#home`, url: `${site.url}/`, name: title, description,
+  isPartOf: { '@id': `${site.url}/#website` }, about: 'Scheduled economic data releases and official macroeconomic statistics', dateModified: calendar.asOf,
+}];
+const edition = `Edition of ${longDate(today)} · calendar retrieved ${longDate(calendar.asOf)}`;
+---
+<Base title={title} description={description} path="/" jsonld={ld} edition={edition}>
+  <div class="page">
+    <header class="doc-head">
+      <p class="kicker">Briefing book · week of {longDate(mon)}</p>
+      <h1>What economic data is released this week?</h1>
+      <p class="lede" id="answer">{answer}</p>
+      <p class="meta">Times are U.S. Eastern. Calendar from the <a href="https://www.bls.gov/schedule/news_release/">BLS release schedule</a> and the <a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm">Federal Reserve FOMC calendar</a>, retrieved {longDate(calendar.asOf)}.</p>
+    </header>
+
+    <section aria-labelledby="board-h">
+      <div class="sec"><span class="sec-n">I.</span><h2 id="board-h">Release board</h2><p>Scheduled U.S. statistical releases and FOMC decisions, Monday to Friday. Today is marked.</p></div>
+      {weeks.map((w, wi) => (
+        <>
+          <p class="board-label">{wi === 0 ? 'This week' : 'Next week'} <span>{longDate(w.start)} – {longDate(addDays(w.start, 4))}</span></p>
+          <div class="board" role="list">
+            {w.days.map((d, i) => (
+              <div role="listitem" class:list={['day', { 'is-today': d.date === today, 'is-past': d.date < today }]}>
+                <div class="day-h"><span>{dow[i]} {d.date.slice(8)}</span>{d.date === today && <span>Today</span>}</div>
+                {d.events.length ? (
+                  <ul>
+                    {d.events.map((e) => (
+                      <li class="ev"><time datetime={`${e.date}T${e.timeET}`}>{e.timeET} ET</time>{eventLink(e.title) ? <a href={eventLink(e.title)}>{e.title}</a> : e.title}<span class="ag"> · {e.agency}</span></li>
+                    ))}
+                  </ul>
+                ) : <p class="day-empty">No tracked release</p>}
+              </div>
+            ))}
+          </div>
+        </>
+      ))}
+      <p class="meta" style="margin-top:.7rem"><a href="/calendar/">Full 90-day release calendar →</a></p>
+    </section>
+
+    <section aria-labelledby="prints-h">
+      <div class="sec"><span class="sec-n">II.</span><h2 id="prints-h">Latest prints</h2><p>The most recent official value for each indicator, the comparison that matters, and when the next figure is due.</p></div>
+      <div class="tbl-wrap">
+        <table class="ledger stack">
+          <thead><tr><th scope="col">Indicator</th><th scope="col" class="r">Latest</th><th scope="col">Period</th><th scope="col">Comparison</th><th scope="col">Next release</th></tr></thead>
+          <tbody>
+            {indicators.map((i) => (
+              <tr>
+                <th scope="row"><a href={`/indicators/${i.slug}/`}>{i.name}</a><span class="sub">{i.agency}</span></th>
+                <td class="r"><span class="big">{i.headline}</span><span class="unit">{i.headlineUnit}</span></td>
+                <td data-l="Period">{i.latestLabel}{i.preliminary ? ' (prelim.)' : ''}</td>
+                <td data-l="vs" class="span">{i.priorLabel}; {i.changeLabel}</td>
+                <td data-l="Next" class="span">{i.nextRelease ? `${longDate(i.nextRelease.date)}, ${i.nextRelease.timeET} ET` : i.slug === 'treasury-yield-curve' ? 'Each business day' : 'See agency calendar'}</td>
+              </tr>
+            ))}
+          </tbody>
+          <caption>Sources: BLS Public Data API, U.S. Treasury par yield curve, Eurostat HICP, ECB Data Portal. Each indicator page lists exact series IDs and retrieval time.</caption>
+        </table>
+      </div>
+    </section>
+
+    <section aria-labelledby="briefs-h">
+      <div class="sec"><span class="sec-n">III.</span><h2 id="briefs-h">Desk notes</h2><p>One computed observation per indicator, written from the numbers above.</p></div>
+      <ol class="notes">
+        {indicators.map((i) => <li><a href={`/indicators/${i.slug}/`}><strong>{i.name}.</strong></a> {i.insights[0]}</li>)}
+      </ol>
+    </section>
+
+    <div class="ad-slot" aria-hidden="true"></div>
+
+    <section aria-labelledby="guides-h">
+      <div class="sec"><span class="sec-n">IV.</span><h2 id="guides-h">Reading the releases</h2><p>Guides that explain what each statistic measures and how to read a release, sourced to the agencies.</p></div>
+      <ul class="toc-list">
+        {guides.slice(0, 6).map((g) => (
+          <li><span class="d">{longDate(g.data.updated.toISOString())}</span><div><a href={`/guides/${g.id}/`}>{g.data.title}</a><p>{g.data.answer}</p></div></li>
+        ))}
+      </ul>
+      <p class="meta" style="margin-top:.7rem"><a href="/guides/">All guides →</a></p>
+    </section>
+  </div>
+</Base>

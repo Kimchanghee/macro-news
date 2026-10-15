@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import site from '../../site.config';
+import { indicators } from '../../lib/indicators';
+import { longDate, fitText } from '../../lib/calc.mjs';
+const title = 'Macro Indicators: CPI, Jobs, Wages, Yields and ECB Rates';
+const description = fitText('Eight official macro indicators in one ledger: U.S. CPI and core CPI, unemployment, payrolls, wages, the Treasury curve, euro-area HICP and ECB rates.', ['Each with history.']);
+const ld = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: title, description, url: `${site.url}/indicators/`, isPartOf: { '@id': `${site.url}/#website` },
+  hasPart: indicators.map((i) => ({ '@type': 'Dataset', name: i.name, url: `${site.url}/indicators/${i.slug}/` })) }];
+---
+<Base title={title} description={description} path="/indicators/" jsonld={ld} crumbs={[{ name: 'Indicators', path: '/indicators/' }]}>
+  <div class="page">
+    <header class="doc-head">
+      <p class="kicker">Section II · Indicators</p>
+      <h1>Which macro indicators does this desk track?</h1>
+      <p class="lede" id="answer">We track eight official statistics: U.S. CPI and core CPI, the unemployment rate, nonfarm payrolls and average hourly earnings from the BLS; the Treasury par yield curve; euro-area HICP inflation from Eurostat; and the ECB’s three key interest rates.</p>
+    </header>
+    <div class="tbl-wrap">
+      <table class="ledger stack">
+        <thead><tr><th scope="col">Indicator</th><th scope="col" class="r">Latest</th><th scope="col">Period</th><th scope="col">Series</th><th scope="col">Retrieved</th></tr></thead>
+        <tbody>
+          {indicators.map((i) => (
+            <tr>
+              <th scope="row"><a href={`/indicators/${i.slug}/`}>{i.name}</a><span class="sub">{i.h1}</span></th>
+              <td class="r"><span class="big">{i.headline}</span><span class="unit">{i.headlineUnit}</span></td>
+              <td data-l="Period">{i.latestLabel}</td>
+              <td data-l="Series" class="span"><code>{i.code}</code></td>
+              <td data-l="Retrieved" class="hide-s">{longDate(i.asOf)}</td>
+            </tr>
+          ))}
+        </tbody>
+        <caption>Each page shows the full source list, history chart and a table of recent observations.</caption>
+      </table>
+    </div>
+    <h2>How these fit together</h2>
+    <div class="prose">
+      <p>Inflation (<a href="/indicators/cpi/">CPI</a>, <a href="/indicators/core-cpi/">core CPI</a>) and the labour market (<a href="/indicators/unemployment-rate/">unemployment</a>, <a href="/indicators/nonfarm-payrolls/">payrolls</a>, <a href="/indicators/average-hourly-earnings/">wages</a>) are the two halves of the Federal Reserve’s dual mandate of maximum employment and stable prices. The <a href="/indicators/treasury-yield-curve/">Treasury yield curve</a> shows how markets price that outlook across maturities.</p>
+      <p>For the euro area, the ECB has a single price-stability mandate defined as 2% <a href="/indicators/euro-area-inflation/">HICP inflation</a> over the medium term, set through its <a href="/indicators/ecb-interest-rates/">key interest rates</a>. Our <a href="/guides/hicp-vs-cpi/">HICP vs CPI guide</a> explains why the two inflation measures are not directly comparable.</p>
+    </div>
+  </div>
+</Base>

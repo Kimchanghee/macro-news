@@ -1,0 +1,19 @@
+---
+import Doc from '../layouts/Doc.astro';
+import site from '../site.config';
+const ld = [{ '@context': 'https://schema.org', '@type': 'ContactPage', name: 'Contact Macro Release Desk', url: `${site.url}/contact/` }];
+---
+<Doc title="Contact Macro Release Desk: Corrections, Data Questions, Press" description="How to reach Macro Release Desk by email for corrections, data questions and partnership enquiries, what to include in a correction request and how quickly we usually reply." path="/contact/" h1="Contact" kicker="Contact" updated="2026-10-15" jsonld={ld}
+  answer={`Email ${site.contactEmail}. For corrections, include the page URL, the figure you believe is wrong and a link to the official source; confirmed errors are corrected and the page’s updated date changes.`}>
+  <h2>What to write to us about</h2>
+  <ul>
+    <li><strong>Corrections:</strong> a number, date or definition that does not match the agency source.</li>
+    <li><strong>Data questions:</strong> how a figure was computed or which series we used.</li>
+    <li><strong>Suggestions:</strong> an indicator or release you would like the desk to track.</li>
+    <li><strong>Advertising and partnerships:</strong> we accept no paid placement inside data tables or guides.</li>
+  </ul>
+  <h2>Response time</h2>
+  <p>We read every message and aim to reply within five business days. We cannot give personal investment or financial advice.</p>
+  <p>Email: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a></p>
+  <p>Before writing, you may find the answer on the <a href="/methodology/">methodology page</a> or in the <a href="/guides/">guides</a>.</p>
+</Doc>

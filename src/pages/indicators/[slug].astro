@@ -1,0 +1,111 @@
+---
+import Base from '../../layouts/Base.astro';
+import site from '../../site.config';
+import { indicators, bySlug, spreadHistory } from '../../lib/indicators';
+import { chart, curveChart } from '../../lib/chart.mjs';
+import { longDate, fitText } from '../../lib/calc.mjs';
+import { getCollection } from 'astro:content';
+
+export function getStaticPaths() {
+  return indicators.map((i) => ({ params: { slug: i.slug } }));
+}
+const ind = bySlug(Astro.params.slug!);
+const guides = await getCollection('guides');
+const gTitle = (id: string) => guides.find((g) => g.id === id)?.data.title;
+const c = ind.chart;
+const svg = c.kind === 'curve'
+  ? curveChart(c.curve!.series, { id: ind.slug, labels: c.curve!.labels, title: c.title, desc: c.desc })
+  : chart(c.points!, { id: ind.slug, kind: c.kind, unit: c.unit, decimals: c.decimals, title: c.title, desc: c.desc, ref: c.ref, refLabel: c.refLabel } as any);
+const spreadSvg = ind.slug === 'treasury-yield-curve'
+  ? chart(spreadHistory(), { id: 'spread', kind: 'line', unit: ' pt', decimals: 2, zero: true, title: '10-year minus 2-year Treasury spread, month-end', desc: 'Month-end 10-year minus 2-year par yield spread in percentage points.' } as any)
+  : null;
+const ageDays = Math.floor((Date.now() - Date.parse(ind.asOf)) / 86400000);
+const description = fitText(`${ind.answer.split('. ')[0]}.`, [`History chart, ${ind.table.rows.length}-period table, definition and next release date.`, 'Official source linked.', 'Sourced.']);
+const path = `/indicators/${ind.slug}/`;
+const ld = [
+  {
+    '@context': 'https://schema.org', '@type': 'Dataset', name: `${ind.name} — latest and history`, description: ind.answer,
+    url: `${site.url}${path}`, creator: { '@type': 'Organization', name: ind.agency }, publisher: { '@id': `${site.url}/#org` },
+    isBasedOn: ind.sources.map((s) => s.url), dateModified: ind.asOf, temporalCoverage: `${(c.points?.[0]?.x ?? ind.latestPeriod)}/${ind.latestPeriod}`,
+    license: 'https://www.usa.gov/government-works', variableMeasured: ind.name,
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'Article', headline: ind.h1, description, dateModified: ind.asOf, datePublished: '2026-10-15',
+    author: { '@id': `${site.url}/#org` }, publisher: { '@id': `${site.url}/#org` }, mainEntityOfPage: `${site.url}${path}`, image: `${site.url}/og/ind-${ind.slug}.png`,
+  },
+];
+if (ind.slug === 'euro-area-inflation' || ind.slug === 'ecb-interest-rates') ld[0].license = ind.slug === 'euro-area-inflation' ? 'https://commission.europa.eu/legal-notice_en' : 'https://www.ecb.europa.eu/home/disclaimer/html/index.en.html';
+---
+<Base title={ind.title} description={description} path={path} ogImage={`/og/ind-${ind.slug}.png`} jsonld={ld} crumbs={[{ name: 'Indicators', path: '/indicators/' }, { name: ind.name, path }]} edition={`${ind.agency} · data retrieved ${longDate(ind.asOf)}`}>
+  <article class="page">
+    <header class="doc-head">
+      <p class="kicker">Indicator brief · {ind.code}</p>
+      <div class="front">
+        <div>
+          <h1>{ind.h1}</h1>
+          <p class="answer" id="answer">{ind.answer}</p>
+          <p class="meta">Reference period <strong>{ind.latestLabel}</strong>{ind.preliminary ? ' (preliminary)' : ''} · retrieved from the agency on <strong>{longDate(ind.asOf)}</strong>{ind.nextRelease && <> · next release <strong>{longDate(ind.nextRelease.date)}, {ind.nextRelease.timeET} ET</strong></>}</p>
+        </div>
+        <div class="print" aria-label="Latest print">
+          <p class="print-label">Latest print · {ind.latestLabel}</p>
+          <p class="print-val num">{ind.headline}<small>{ind.headlineUnit}</small></p>
+          <dl>
+            {ind.stats.slice(1).map((s) => <><dt>{s.label}</dt><dd>{s.value}</dd></>)}
+          </dl>
+          {ageDays > 45 && <p class="stale">This snapshot was retrieved {ageDays} days ago. A newer official figure may exist; check the source links below.</p>}
+        </div>
+      </div>
+    </header>
+
+    <div class="sec"><span class="sec-n">I.</span><h2>What the latest numbers show</h2></div>
+    <ol class="notes">
+      {ind.insights.map((t) => <li>{t}</li>)}
+    </ol>
+
+    <div class="sec"><span class="sec-n">II.</span><h2>History</h2></div>
+    <figure class="figure">
+      <Fragment set:html={svg} />
+      <figcaption>{c.desc} Source: {ind.agency}. Retrieved {longDate(ind.asOf)}.</figcaption>
+    </figure>
+    {spreadSvg && (
+      <figure class="figure" style="margin-top:1rem">
+        <Fragment set:html={spreadSvg} />
+        <figcaption>10-year minus 2-year par yield spread at each month-end, percentage points. Below zero = inverted. Source: U.S. Treasury.</figcaption>
+      </figure>
+    )}
+    <h3>Recent observations</h3>
+    <div class="tbl-wrap">
+      <table class="ledger">
+        <thead><tr>{ind.table.head.map((h, k) => <th scope="col" class={k ? 'r' : ''}>{h}</th>)}</tr></thead>
+        <tbody>{ind.table.rows.map((r) => <tr><th scope="row">{r.period}</th>{r.cells.map((x) => <td class="r">{x}</td>)}</tr>)}</tbody>
+        <caption>{ind.preliminary ? '(p) = preliminary, subject to revision. ' : ''}Values as published by {ind.agency}; computed columns are ours.</caption>
+      </table>
+    </div>
+
+    <div class="two">
+      <section>
+        <div class="sec"><span class="sec-n">III.</span><h2>What it measures</h2></div>
+        {ind.definition.map((p) => <p>{p}</p>)}
+      </section>
+      <section>
+        <div class="sec"><span class="sec-n">IV.</span><h2>How and when it is published</h2></div>
+        {ind.measurement.map((p) => <p>{p}</p>)}
+        {ind.nextRelease ? <p><strong>Next scheduled release:</strong> {longDate(ind.nextRelease.date)} at {ind.nextRelease.timeET} ET (<a href="/calendar/">release calendar</a>).</p> : <p>See the <a href="/calendar/">release calendar</a> and the agency links below for upcoming publication dates.</p>}
+      </section>
+    </div>
+
+    <div class="sec"><span class="sec-n">V.</span><h2>Sources</h2></div>
+    <ul class="srcs">
+      {ind.sources.map((s) => <li><a href={s.url} rel="noopener">{s.name}</a></li>)}
+      <li>Retrieval time for this page’s data: {ind.asOf.replace('T', ' ').slice(0, 16)} UTC. See our <a href="/methodology/">methodology</a> for calculations.</li>
+    </ul>
+
+    <div class="ad-slot" aria-hidden="true"></div>
+
+    <div class="sec"><span class="sec-n">VI.</span><h2>Related</h2></div>
+    <ul class="related">
+      {ind.related.map((r) => { const o = bySlug(r); return <li><a href={`/indicators/${o.slug}/`}>{o.name}<span>{o.headline}{o.headlineUnit} · {o.latestLabel}</span></a></li>; })}
+      {ind.guides.filter(gTitle).map((g) => <li><a href={`/guides/${g}/`}>{gTitle(g)}<span>Guide</span></a></li>)}
+    </ul>
+  </article>
+</Base>

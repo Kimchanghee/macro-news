@@ -1,0 +1,55 @@
+---
+import Base from '../../layouts/Base.astro';
+import site from '../../site.config';
+import { getCollection, render } from 'astro:content';
+import { bySlug } from '../../lib/indicators';
+import { longDate } from '../../lib/calc.mjs';
+
+export async function getStaticPaths() {
+  const all = (await getCollection('guides')).filter((g) => g.data.status === 'published');
+  return all.map((g) => ({ params: { slug: g.id }, props: { g, all } }));
+}
+const { g, all } = Astro.props as any;
+const { Content, headings } = await render(g);
+const d = g.data;
+const path = `/guides/${g.id}/`;
+const rel = (d.related as string[]).map((r) => all.find((x: any) => x.id === r)).filter(Boolean);
+const ld: any[] = [{
+  '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description,
+  datePublished: d.datePublished.toISOString().slice(0, 10), dateModified: d.updated.toISOString().slice(0, 10),
+  author: { '@type': 'Organization', '@id': `${site.url}/#org`, name: site.name, url: `${site.url}/about/` }, publisher: { '@id': `${site.url}/#org` },
+  mainEntityOfPage: `${site.url}${path}`, image: `${site.url}/og/guide-${g.id}.png`, citation: d.sources.map((s: any) => s.url), about: d.question,
+}];
+if (d.faq.length) ld.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: d.faq.map((f: any) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) });
+const h2s = headings.filter((h: any) => h.depth === 2);
+---
+<Base title={d.seoTitle ?? d.title} description={d.description} path={path} ogImage={`/og/guide-${g.id}.png`} jsonld={ld} crumbs={[{ name: 'Guides', path: '/guides/' }, { name: d.title, path }]}>
+  <div class="page">
+    <header class="doc-head">
+      <p class="kicker">Guide · {d.type === 'glossary' ? 'Definition' : d.type === 'comparison' ? 'Comparison' : 'Explainer'}</p>
+      <h1>{d.title}</h1>
+      <p class="meta">Updated <time datetime={d.updated.toISOString().slice(0, 10)}>{longDate(d.updated.toISOString())}</time> · first published {longDate(d.datePublished.toISOString())} · figures as of {d.data_asof} · by the {site.name} desk</p>
+    </header>
+    <div class="guide">
+      <article class="article prose">
+        <p class="answer" id="answer">{d.answer}</p>
+        <Content />
+        {d.faq.length > 0 && (
+          <section>
+            <h2>Frequently asked questions</h2>
+            <dl class="faq">{d.faq.map((f: any) => <><dt>{f.q}</dt><dd>{f.a}</dd></>)}</dl>
+          </section>
+        )}
+        <h2>Sources</h2>
+        <ul class="srcs">{d.sources.map((s: any) => <li><a href={s.url} rel="noopener">{s.name}</a></li>)}</ul>
+        <p class="meta">This guide explains official statistics and is not investment advice. See our <a href="/methodology/">methodology</a> and <a href="/about/">editorial standards</a>.</p>
+      </article>
+      <aside aria-label="On this page and related">
+        {h2s.length > 2 && (<><h2>On this page</h2><ul>{h2s.map((h: any) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ul></>)}
+        {d.indicators.length > 0 && (<><h2>Live data</h2><ul>{d.indicators.map((s: string) => { const i = bySlug(s); return <li><a href={`/indicators/${s}/`}>{i.name}</a>: {i.headline}{i.headlineUnit} ({i.latestLabel})</li>; })}</ul></>)}
+        <h2>Related guides</h2>
+        <ul>{rel.map((r: any) => <li><a href={`/guides/${r.id}/`}>{r.data.title}</a></li>)}<li><a href="/guides/">All guides</a></li></ul>
+      </aside>
+    </div>
+  </div>
+</Base>

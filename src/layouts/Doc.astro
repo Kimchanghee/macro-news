@@ -1,0 +1,16 @@
+---
+import Base from './Base.astro';
+interface Props { title: string; description: string; path: string; h1: string; kicker: string; answer: string; updated: string; jsonld?: Record<string, unknown>[] }
+const { title, description, path, h1, kicker, answer, updated, jsonld = [] } = Astro.props;
+---
+<Base title={title} description={description} path={path} jsonld={jsonld} crumbs={[{ name: h1.replace(/\?$/, ''), path }]}>
+  <div class="page">
+    <header class="doc-head">
+      <p class="kicker">{kicker}</p>
+      <h1>{h1}</h1>
+      <p class="lede" id="answer">{answer}</p>
+      <p class="meta">Last updated <time datetime={updated}>{updated}</time></p>
+    </header>
+    <div class="prose article"><slot /></div>
+  </div>
+</Base>

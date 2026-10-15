@@ -1,0 +1,44 @@
+---
+import Doc from '../layouts/Doc.astro';
+import site from '../site.config';
+import bls from '../data/bls.json';
+import treasury from '../data/treasury.json';
+import ecb from '../data/ecb.json';
+import calendar from '../data/calendar.json';
+const rows = [
+  { name: 'BLS Public Data API v1', what: 'CPI-U (NSA and SA), core CPI, unemployment rate, nonfarm payrolls, average hourly earnings', ids: Object.keys(bls.series).join(', '), url: 'https://www.bls.gov/developers/', asOf: bls.asOf },
+  { name: 'BLS release schedule (iCalendar)', what: 'Release dates and times', ids: 'bls.ics', url: 'https://www.bls.gov/schedule/news_release/', asOf: calendar.asOf },
+  { name: 'Federal Reserve FOMC calendar', what: 'FOMC meeting dates', ids: 'fomccalendars.htm', url: 'https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm', asOf: calendar.asOf },
+  { name: 'U.S. Treasury daily par yield curve', what: 'Par yields, 1 month to 30 years', ids: 'daily_treasury_yield_curve', url: treasury.sourceUrl, asOf: treasury.asOf },
+  { name: 'Eurostat HICP (prc_hicp_minr)', what: 'Euro area headline and core HICP annual rates', ids: 'TOTAL, TOT_X_NRG_FOOD (RCH_A, EA)', url: 'https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table?lang=en', asOf: ecb.asOf },
+  { name: 'ECB Data Portal', what: 'Deposit facility, main refinancing and marginal lending rates', ids: 'FM.B.U2.EUR.4F.KR.{DFR,MRR_FR,MLFR}.LEV', url: 'https://data.ecb.europa.eu/', asOf: ecb.asOf },
+];
+const ld = [{ '@context': 'https://schema.org', '@type': 'TechArticle', headline: 'How does Macro Release Desk get and compute its numbers?', url: `${site.url}/methodology/`, dateModified: bls.asOf, datePublished: '2026-10-15', author: { '@id': `${site.url}/#org` }, publisher: { '@id': `${site.url}/#org` }, description: 'How Macro Release Desk retrieves official data, computes changes and handles failed refreshes.' }];
+---
+<Doc title="Methodology and Data Sources | Macro Release Desk Reference" description="Which official APIs feed Macro Release Desk, how often they refresh, how we compute year-over-year and annualised rates, spreads and averages, and how failures are handled." path="/methodology/" h1="How does Macro Release Desk get and compute its numbers?" kicker="Section V · Methodology" updated={bls.asOf.slice(0, 10)} jsonld={ld}
+  answer="Each figure is fetched from the publishing agency’s own API or file, stored with its retrieval time, and rendered into static pages. Year-over-year, annualised and spread figures are computed from those published values with the formulas below; nothing is estimated or interpolated.">
+  <h2>Data sources and current snapshot</h2>
+  <table>
+    <thead><tr><th>Source</th><th>What we use</th><th>Series / file</th><th>Retrieved (UTC)</th></tr></thead>
+    <tbody>{rows.map((r) => <tr><td><a href={r.url}>{r.name}</a></td><td>{r.what}</td><td><code>{r.ids}</code></td><td>{r.asOf.replace('T', ' ').slice(0, 16)}</td></tr>)}</tbody>
+  </table>
+  <h2>Refresh cycle</h2>
+  <p>A scheduled job runs <code>pnpm refresh</code>, which calls each source, validates the response (minimum length, numeric values, required series present) and writes JSON snapshots with <code>asOf</code>, <code>source</code> and <code>sourceUrl</code>. The site is then rebuilt as static HTML. If any source fails, the previous snapshot is kept unchanged and the page continues to display its true retrieval date. Indicator pages show a visible notice when a snapshot is more than 45 days old.</p>
+  <p>The BLS API version 1 used here does not require a key and allows 25 queries per day; one refresh uses one query for all seven series.</p>
+  <h2>Calculations</h2>
+  <ul>
+    <li><strong>12-month (year-over-year) change</strong> = (value in month t ÷ value in month t−12 − 1) × 100. For CPI we use the not seasonally adjusted index, as BLS does for its headline 12-month figure.</li>
+    <li><strong>1-month change</strong> = (value t ÷ value t−1 − 1) × 100, from seasonally adjusted series.</li>
+    <li><strong>Annualised n-month rate</strong> = ((value t ÷ value t−n)^(12/n) − 1) × 100, from seasonally adjusted series.</li>
+    <li><strong>Payroll change</strong> = level t − level t−1 (thousands). Averages are the mean of the last n monthly changes.</li>
+    <li><strong>Implied real wage growth</strong> = ((1 + wage growth) ÷ (1 + CPI inflation) − 1) × 100. BLS’s own Real Earnings release is the official measure; ours is a simple illustration.</li>
+    <li><strong>Sahm-style gap</strong> = three-month average unemployment rate minus the lowest three-month average over the prior 12 months. Shown as a mechanical reading only.</li>
+    <li><strong>Yield spreads</strong> = 10-year par yield minus 2-year (or 3-month) par yield on the same date, in percentage points.</li>
+  </ul>
+  <p>Rounding follows the agency’s published precision: one decimal for percentages, two for yields and policy rates. Our calculations are tested against hand-computed cases in the site’s test suite.</p>
+  <h2>Revisions</h2>
+  <p>Payroll and earnings figures for the latest two months are preliminary and are revised in later reports; seasonal factors for CPI are revised each February. Each refresh replaces the full history with the latest published vintage, so past values on this site can change when the agency revises them. Read <a href="/guides/data-revisions-explained/">why economic data gets revised</a>.</p>
+  <h2>Release calendar</h2>
+  <p>Release dates come from the BLS iCalendar feed and the Federal Reserve FOMC calendar page. The FOMC statement time (2:00 p.m. ET) follows the Fed’s published practice. We do not list releases that the agency has not scheduled.</p>
+  <p>Questions about the method: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</p>
+</Doc>

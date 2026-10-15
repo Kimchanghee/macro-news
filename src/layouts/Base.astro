@@ -1,0 +1,130 @@
+---
+import '../styles/global.css';
+import site from '../site.config';
+import { longDate } from '../lib/calc.mjs';
+
+interface Crumb { name: string; path: string }
+interface Props {
+  title: string;
+  description: string;
+  path: string;
+  ogImage?: string;
+  jsonld?: Record<string, unknown>[];
+  crumbs?: Crumb[];
+  edition?: string;
+  status404?: boolean;
+}
+const { title, description, path, ogImage = '/og/home.png', jsonld = [], crumbs = [], edition, status404 = false } = Astro.props;
+const canonical = new URL(path, site.url).href;
+const ogAbs = new URL(ogImage, site.url).href;
+const orgLd = {
+  '@context': 'https://schema.org', '@type': 'Organization', '@id': `${site.url}/#org`, name: site.name, url: `${site.url}/`,
+  description: site.description, email: site.contactEmail, logo: `${site.url}/logo.png`,
+};
+const siteLd = { '@context': 'https://schema.org', '@type': 'WebSite', '@id': `${site.url}/#website`, name: site.name, url: `${site.url}/`, publisher: { '@id': `${site.url}/#org` }, inLanguage: 'en-US' };
+const crumbLd = crumbs.length ? {
+  '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+  itemListElement: [{ name: 'Home', path: '/' }, ...crumbs].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: new URL(c.path, site.url).href })),
+} : null;
+const all = [orgLd, siteLd, ...(crumbLd ? [crumbLd] : []), ...jsonld];
+const consent = JSON.stringify(site.consentRegions);
+const nav = [
+  { href: '/', label: 'Release board' },
+  { href: '/indicators/', label: 'Indicators' },
+  { href: '/calendar/', label: 'Calendar' },
+  { href: '/guides/', label: 'Guides' },
+  { href: '/methodology/', label: 'Method' },
+];
+const current = (href: string) => (href === '/' ? path === '/' : path.startsWith(href));
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta property="og:type" content={jsonld.some((j) => j['@type'] === 'Article' || j['@type'] === 'TechArticle') ? 'article' : 'website'} />
+  <meta property="og:site_name" content={site.name} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={ogAbs} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogAbs} />
+  <meta name="theme-color" content="#f4f0e6" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="alternate" type="application/rss+xml" title={`${site.name} guides`} href="/feed.xml" />
+  <meta name="google-adsense-account" content={site.adsenseClient} />
+  {site.gscVerification && <meta name="google-site-verification" content={site.gscVerification} />}
+  {site.naverVerification && <meta name="naver-site-verification" content={site.naverVerification} />}
+  {all.map((j) => <script type="application/ld+json" set:html={JSON.stringify(j)} />)}
+  <script is:inline define:vars={{ ga4: site.ga4Id, regions: consent }}>
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    gtag('consent', 'default', { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: 'denied', region: JSON.parse(regions), wait_for_update: 500 });
+    gtag('consent', 'default', { ad_storage: 'granted', ad_user_data: 'granted', ad_personalization: 'granted', analytics_storage: 'granted', wait_for_update: 500 });
+    window.mrdTrack = function (name, params) { try { gtag('event', name, params || {}); } catch (e) {} };
+    if (ga4) {
+      var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ga4; document.head.appendChild(s);
+      gtag('js', new Date()); gtag('config', ga4);
+    }
+  </script>
+  <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsenseClient}`} crossorigin="anonymous"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="mast">
+    <div class="mast-in">
+      <a class="brand" href="/" aria-label={`${site.name} home`}>
+        <span class="brand-mark" aria-hidden="true">MRD</span>
+        <span class="brand-name">Macro Release Desk</span>
+      </a>
+      <p class="edition">{edition ?? 'Briefing book for scheduled economic releases'}</p>
+    </div>
+    <nav class="tabs" aria-label="Primary">
+      <ul>
+        {nav.map((n, i) => (
+          <li><a href={n.href} aria-current={current(n.href) ? 'page' : undefined}><span class="tab-num" aria-hidden="true">{['I', 'II', 'III', 'IV', 'V'][i]}</span>{n.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+  </header>
+  {crumbs.length > 0 && (
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="/">Home</a></li>
+        {crumbs.map((c, i) => <li>{i === crumbs.length - 1 ? <span aria-current="page">{c.name}</span> : <a href={c.path}>{c.name}</a>}</li>)}
+      </ol>
+    </nav>
+  )}
+  <main id="main" tabindex="-1">
+    <slot />
+  </main>
+  <footer class="foot">
+    <div class="foot-in">
+      <div>
+        <p class="foot-name">Macro Release Desk</p>
+        <p>An independent reference for official U.S. and euro-area economic statistics. Figures are reproduced from the publishing agency with the reference period and retrieval time shown. Not investment advice.</p>
+        <p>This site shows ads served by Google AdSense. It has no affiliate relationships at present; any future sponsored link will be labelled next to the link.</p>
+      </div>
+      <ul class="foot-links">
+        <li><a href="/about/">About &amp; editorial standards</a></li>
+        <li><a href="/methodology/">Methodology &amp; data sources</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/privacy/">Privacy policy</a></li>
+        <li><a href="/terms/">Terms of use</a></li>
+        <li><a href="/disclaimer/">Disclaimer</a></li>
+        <li><a href="/feed.xml">RSS feed</a></li>
+      </ul>
+    </div>
+    <p class="foot-small">© {new Date().getUTCFullYear()} {site.name} · {site.domain} · Built {longDate(new Date().toISOString())}</p>
+  </footer>
+</body>
+</html>

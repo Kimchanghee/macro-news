@@ -1,0 +1,54 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../site.config';
+import calendar from '../data/calendar.json';
+import { longDate, addDays, fitText } from '../lib/calc.mjs';
+import { todayET, eventLink } from '../lib/dates';
+const today = todayET();
+const horizon = addDays(today, 90);
+const back = addDays(today, -21);
+const evs = (calendar.events as any[]).filter((e) => e.date >= back && e.date <= horizon);
+const months = [...new Set(evs.map((e) => e.date.slice(0, 7)))];
+const mName = (ym: string) => new Date(ym + '-15T12:00:00Z').toLocaleString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+const wd = (d: string) => new Date(d + 'T12:00:00Z').toLocaleString('en-US', { weekday: 'short', timeZone: 'UTC' });
+const next = evs.find((e) => e.date >= today);
+const nextFomc = (calendar.events as any[]).find((e) => e.agency === 'Federal Reserve' && e.date >= today);
+const title = 'U.S. Economic Release Calendar: CPI, Jobs Report and FOMC';
+const description = fitText('Dates and Eastern times for upcoming CPI, Employment Situation, PPI, JOLTS, ECI releases and FOMC decisions over the next 90 days, from BLS and the Fed.', ['Updated daily.']);
+const ld = [{ '@context': 'https://schema.org', '@type': 'Dataset', name: 'U.S. economic release calendar (next 90 days)', description, url: `${site.url}/calendar/`, isBasedOn: calendar.sources.map((s) => s.url), dateModified: calendar.asOf, publisher: { '@id': `${site.url}/#org` }, creator: [{ '@type': 'Organization', name: 'U.S. Bureau of Labor Statistics' }, { '@type': 'Organization', name: 'Federal Reserve Board' }], license: 'https://www.usa.gov/government-works' }];
+---
+<Base title={title} description={description} path="/calendar/" jsonld={ld} crumbs={[{ name: 'Calendar', path: '/calendar/' }]}>
+  <div class="page">
+    <header class="doc-head">
+      <p class="kicker">Section III · Calendar</p>
+      <h1>When is the next CPI, jobs report or Fed decision?</h1>
+      <p class="lede" id="answer">{next ? `The next tracked release is ${next.title} on ${longDate(next.date)} at ${next.timeET} ET.` : 'No tracked release is scheduled in the next 90 days of the published calendar.'} {nextFomc ? `The next FOMC decision is due ${longDate(nextFomc.date)} at 2:00 p.m. ET (meeting ${nextFomc.label}).` : ''}</p>
+      <p class="meta">Window: {longDate(back)} to {longDate(horizon)} · schedule retrieved {longDate(calendar.asOf)} from <a href="https://www.bls.gov/schedule/news_release/">BLS</a> and the <a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm">Federal Reserve</a>. {calendar.note}</p>
+    </header>
+    {months.map((m) => (
+      <section>
+        <div class="sec"><span class="sec-n">§</span><h2>{mName(m)}</h2></div>
+        <div class="tbl-wrap">
+          <table class="ledger stack">
+            <thead><tr><th scope="col">Date</th><th scope="col">Time (ET)</th><th scope="col">Release</th><th scope="col">Agency</th></tr></thead>
+            <tbody>
+              {evs.filter((e) => e.date.startsWith(m)).map((e) => (
+                <tr style={e.date < today ? 'color:var(--ink-3)' : ''}>
+                  <th scope="row"><time datetime={e.date}>{wd(e.date)} {longDate(e.date)}</time>{e.date === today && <strong style="color:var(--mark)"> · today</strong>}{e.date < today && <span class="sub">released</span>}</th>
+                  <td data-l="Time">{e.timeET}</td>
+                  <td data-l="" class="span">{eventLink(e.title) ? <a href={eventLink(e.title)!}>{e.title}</a> : e.title}</td>
+                  <td data-l="" class="hide-s">{e.agency}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    ))}
+    <h2>What is on this calendar?</h2>
+    <div class="prose">
+      <p>We list eight recurring BLS news releases (Consumer Price Index, Employment Situation, Producer Price Index, Real Earnings, JOLTS, Employment Cost Index, Productivity and Costs, Import and Export Price Indexes) and all FOMC meetings. Dates come straight from the agencies’ published schedules; we do not estimate dates that are not yet announced.</p>
+      <p>Agencies occasionally reschedule releases, for example during a lapse in federal appropriations. Always confirm on the agency site on the day. Read <a href="/guides/reading-a-cpi-release/">how to read a CPI release</a> and <a href="/guides/how-fomc-decisions-work/">how FOMC decisions work</a>.</p>
+    </div>
+  </div>
+</Base>

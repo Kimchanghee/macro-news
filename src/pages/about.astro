@@ -1,0 +1,26 @@
+---
+import Doc from '../layouts/Doc.astro';
+import site from '../site.config';
+const ld = [{ '@context': 'https://schema.org', '@type': 'AboutPage', name: 'About Macro Release Desk', url: `${site.url}/about/`, about: { '@id': `${site.url}/#org` }, description: site.description }];
+---
+<Doc title="About Macro Release Desk: Who We Are and Editorial Standards" description="Macro Release Desk is an independent reference for scheduled U.S. and euro-area economic releases. Learn who runs it, how figures are sourced and how we correct errors." path="/about/" h1="About Macro Release Desk" kicker="About · editorial standards" updated="2026-10-15" jsonld={ld}
+  answer={site.description}>
+  <h2>Why this desk exists</h2>
+  <p>Economic releases are published by statistical agencies as dense news releases and data tables. Much of what circulates afterwards is commentary, prediction or a single number without its reference period. This site does a narrower job: it shows when each release is scheduled, what the latest official value is, how it compares with the prior month and year, and exactly where it came from.</p>
+  <p>We do not publish news stories, market forecasts or trading opinions. Every number on an indicator page is either reproduced from the publishing agency or computed from those published values with a method described on our <a href="/methodology/">methodology page</a>.</p>
+  <h2>Who runs it</h2>
+  <p>Macro Release Desk is an independent, self-funded website published at {site.domain}. It is not affiliated with the U.S. Bureau of Labor Statistics, the U.S. Department of the Treasury, the Federal Reserve, Eurostat or the European Central Bank. Agency names are used only to identify sources.</p>
+  <h2>Editorial standards</h2>
+  <ul>
+    <li><strong>Primary sources only.</strong> Data comes from agency APIs and files (BLS Public Data API, Treasury par yield curve, Eurostat, ECB Data Portal). Guides cite the agency documentation they rely on.</li>
+    <li><strong>Every figure is dated.</strong> Pages show the reference period and the time we retrieved the data. If a refresh fails, we keep the last good snapshot and show its real retrieval date rather than estimating.</li>
+    <li><strong>No invented values.</strong> We do not interpolate missing months, forecast releases or display consensus estimates we cannot source.</li>
+    <li><strong>Computations are labelled.</strong> Annualised rates, spreads and averages are marked as our calculations.</li>
+    <li><strong>Guides are reviewed by people.</strong> Drafting tools may be used, but every number is checked against the cited source before publication, and the updated date changes only when content changes.</li>
+    <li><strong>Not advice.</strong> Nothing here is investment, tax or legal advice. See the <a href="/disclaimer/">disclaimer</a>.</li>
+  </ul>
+  <h2>Corrections</h2>
+  <p>If you find an error, email <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a> with the page URL and the source that shows the correct value. Confirmed errors are fixed and the page’s updated date changes.</p>
+  <h2>How the site is funded</h2>
+  <p>The site displays advertising through Google AdSense. Advertisers have no influence over which data we show or how guides are written. See our <a href="/privacy/">privacy policy</a> for how ads use cookies.</p>
+</Doc>

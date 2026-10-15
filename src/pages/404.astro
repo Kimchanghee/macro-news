@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import { indicators } from '../lib/indicators';
+---
+<Base title="Page Not Found (404) · Macro Release Desk Briefing Book Index" description="This page is not in the Macro Release Desk briefing book. Use the release board, the indicator list or the guides index to find the release or statistic you were looking for." path="/404/">
+  <div class="page">
+    <header class="doc-head">
+      <p class="kicker">Error 404 · page not on file</p>
+      <h1>This page is not in the briefing book</h1>
+      <p class="lede">The address may be mistyped, or the page belonged to the site’s previous version, which has been retired. Nothing was moved here.</p>
+    </header>
+    <h2>Where to go instead</h2>
+    <ul class="related">
+      <li><a href="/">Release board<span>This week’s scheduled releases</span></a></li>
+      <li><a href="/calendar/">Release calendar<span>Next 90 days</span></a></li>
+      <li><a href="/guides/">Guides<span>How to read each release</span></a></li>
+      {indicators.map((i) => <li><a href={`/indicators/${i.slug}/`}>{i.name}<span>{i.headline}{i.headlineUnit} · {i.latestLabel}</span></a></li>)}
+    </ul>
+  </div>
+</Base>
