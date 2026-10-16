@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-16T17:04:59.456Z",
+ "asOf": "2026-10-16T23:12:44.918Z",
  "source": "Eurostat HICP (prc_hicp_minr) and European Central Bank Data Portal (key rates)",
  "sourceUrl": "https://data.ecb.europa.eu/",
  "hicp": {
@@ -7,7 +7,7 @@
   "key": "prc_hicp_minr / EA / RCH_A / TOTAL",
   "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table?lang=en",
   "apiUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?geo=EA&unit=RCH_A&coicop18=TOTAL&sinceTimePeriod=2017-01",
-  "updated": "2026-10-16T11:00:00+0200",
+  "updated": "2026-10-16T23:00:00+0200",
   "observations": [
    {
     "date": "2017-01",
@@ -484,7 +484,7 @@
   "key": "prc_hicp_minr / EA / RCH_A / TOT_X_NRG_FOOD",
   "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table?lang=en",
   "apiUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?geo=EA&unit=RCH_A&coicop18=TOT_X_NRG_FOOD&sinceTimePeriod=2017-01",
-  "updated": "2026-10-16T11:00:00+0200",
+  "updated": "2026-10-16T23:00:00+0200",
   "observations": [
    {
     "date": "2017-01",
