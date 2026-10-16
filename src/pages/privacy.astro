@@ -3,7 +3,7 @@ import Doc from '../layouts/Doc.astro';
 import site from '../site.config';
 ---
 <Doc title="Privacy Policy: Analytics, AdSense Cookies and Your Choices" description="How Macro Release Desk uses Google Analytics 4 and AdSense cookies, how consent works in the EEA, UK and Switzerland, and how to opt out of personalised ads." path="/privacy/" h1="Privacy policy" kicker="Legal · privacy" updated="2026-10-15"
-  answer="We do not ask you to create an account and we do not sell personal data. We use Google Analytics 4 to measure visits and Google AdSense to show ads; both may set cookies, subject to your consent where the law requires it.">
+  answer="We do not ask you to create an account and we do not sell personal data. Google Analytics 4 measures visits with region-specific storage defaults. AdSense ad loading is disabled pending account and consent setup.">
   <h2>Who is responsible</h2>
   <p>This site, {site.domain}, is operated by the publisher of Macro Release Desk. Contact: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</p>
   <h2>Information we collect</h2>
@@ -14,7 +14,7 @@ import site from '../site.config';
     <li><strong>Server logs:</strong> our hosting provider (Cloudflare) processes IP addresses and request data to deliver and secure the site.</li>
   </ul>
   <h2>Consent in the EEA, UK and Switzerland</h2>
-  <p>For visitors in the European Economic Area, the United Kingdom and Switzerland we use Google Consent Mode v2 with advertising and analytics storage set to “denied” by default. A Google-certified consent management platform (Google’s CMP for AdSense) asks for your choice; until you consent, Google tags operate without advertising or analytics cookies. You can change your choice at any time using the privacy and cookie link shown by the consent message.</p>
+  <p>For visitors in the EEA, UK and Switzerland, advertising and analytics storage default to denied through Google Consent Mode v2. The AdSense advertising loader is disabled until the publisher account and required certified consent management platform are verified. A consent banner is not currently configured. You can opt out of analytics through the browser settings and Google tools linked on this page.</p>
   <h2>How to opt out</h2>
   <ul>
     <li>Turn off personalised ads in <a href="https://adssettings.google.com/">Google’s Ad Settings</a>, or visit <a href="https://www.aboutads.info/choices/">aboutads.info</a> (US) and <a href="https://www.youronlinechoices.eu/">youronlinechoices.eu</a> (EU).</li>
@@ -25,7 +25,7 @@ import site from '../site.config';
   <h2>Third-party vendors</h2>
   <p>Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website or other websites. Google’s use of advertising cookies enables it and its partners to serve ads based on visits to this site and/or other sites on the Internet.</p>
   <h2>Retention and your rights</h2>
-  <p>Google Analytics data is retained for the period set in our GA4 property (14 months). Emails are kept as long as needed to handle your request. Depending on where you live, you may have rights to access, correct, delete or object to processing of your personal data; write to us and we will respond within 30 days.</p>
+  <p>Google Analytics retention follows the property settings; a specific retention period has not been verified. Emails are kept as long as needed to handle your request. Depending on where you live, you may have rights to access, correct, delete or object to processing of your personal data; write to us and we will respond within 30 days.</p>
   <h2>Children</h2>
   <p>This site is not directed at children under 16 and we do not knowingly collect their data.</p>
   <h2>Changes</h2>

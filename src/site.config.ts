@@ -12,6 +12,8 @@ export const site = {
   gscVerification: (env.PUBLIC_GSC_VERIFICATION as string) || '',
   naverVerification: (env.PUBLIC_NAVER_VERIFICATION as string) || '',
   adsenseClient: 'ca-pub-4490818204529253',
+  // Enable only after publisher account and required certified CMP are verified.
+  adsEnabled: env.PUBLIC_ADS_ENABLED === 'true',
   contactEmail: 'contact@macrofinancenews.online',
   indexNowKey: '7c1e4a9d2b8f4e63a05d91c2e8b47f10',
   locale: 'en-US',
