@@ -73,6 +73,8 @@ p { margin: 0 0 1rem; }
 .meta strong { color: var(--ink); }
 .prose { max-width: var(--measure); }
 .prose li { margin-bottom: .35rem; }
+.table-scroll { max-width: 100%; overflow-x: auto; }
+.table-scroll table { min-width: 36rem; }
 .num { font-variant-numeric: tabular-nums lining-nums; font-feature-settings: 'tnum' 1, 'lnum' 1; }
 
 /* Section heading with roman numeral — the briefing-book device */

@@ -18,10 +18,12 @@ const ld = [{ '@context': 'https://schema.org', '@type': 'TechArticle', headline
 <Doc title="Methodology and Data Sources | Macro Release Desk Reference" description="Which official APIs feed Macro Release Desk, how often they refresh, how we compute year-over-year, annualised rates and spreads, and how failures are handled." path="/methodology/" h1="How does Macro Release Desk get and compute its numbers?" kicker="Section V · Methodology" updated={bls.asOf.slice(0, 10)} jsonld={ld}
   answer="Each figure is fetched from the publishing agency’s own API or file, stored with its retrieval time, and rendered into static pages. Year-over-year, annualised and spread figures are computed from those published values with the formulas below; nothing is estimated or interpolated.">
   <h2>Data sources and current snapshot</h2>
+  <div class="table-scroll" role="region" aria-label="Data sources table" tabindex="0">
   <table>
     <thead><tr><th>Source</th><th>What we use</th><th>Series / file</th><th>Retrieved (UTC)</th></tr></thead>
     <tbody>{rows.map((r) => <tr><td><a href={r.url}>{r.name}</a></td><td>{r.what}</td><td><code>{r.ids}</code></td><td>{r.asOf.replace('T', ' ').slice(0, 16)}</td></tr>)}</tbody>
   </table>
+  </div>
   <h2>Refresh cycle</h2>
   <p>A scheduled job runs <code>pnpm refresh</code>, which calls each source, validates the response (minimum length, numeric values, required series present) and writes JSON snapshots with <code>asOf</code>, <code>source</code> and <code>sourceUrl</code>. The site is then rebuilt as static HTML. If any source fails, the previous snapshot is kept unchanged and the page continues to display its true retrieval date. Indicator pages show a visible notice when a snapshot is more than 45 days old.</p>
   <p>The BLS API version 1 used here does not require a key and allows 25 queries per day; one refresh uses one query for all seven series.</p>
