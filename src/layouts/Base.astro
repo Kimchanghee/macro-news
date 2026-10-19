@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import site from '../site.config';
+import AdSlot from '../components/AdSlot.astro';
 import { longDate } from '../lib/calc.mjs';
 
 interface Crumb { name: string; path: string }
@@ -107,6 +108,7 @@ const current = (href: string) => (href === '/' ? path === '/' : path.startsWith
   )}
   <main id="main" tabindex="-1">
     <slot />
+    <AdSlot />
   </main>
   <footer class="foot">
     <div class="foot-in">
