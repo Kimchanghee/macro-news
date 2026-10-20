@@ -1,0 +1,75 @@
+---
+// One question = one page: next scheduled date of a single BLS release, read from the existing calendar dataset only.
+import Base from '../../layouts/Base.astro';
+import site from '../../site.config';
+import calendar from '../../data/calendar.json';
+import { longDate, fitText } from '../../lib/calc.mjs';
+import { todayET } from '../../lib/dates';
+
+const RELEASES = {
+  'us-cpi-release': {
+    event: 'Consumer Price Index', short: 'CPI', name: 'U.S. Consumer Price Index (CPI)',
+    h1: 'When is the next U.S. CPI release?',
+    title: 'Next U.S. CPI Release Date and Time (BLS Schedule)',
+    links: [['/indicators/cpi/', 'Latest CPI print and history'], ['/indicators/core-cpi/', 'Latest core CPI'], ['/guides/reading-a-cpi-release/', 'How to read a CPI release']],
+    bls: 'https://www.bls.gov/cpi/',
+  },
+  'us-jobs-report-release': {
+    event: 'Employment Situation', short: 'jobs report', name: 'U.S. jobs report (BLS Employment Situation)',
+    h1: 'When is the next U.S. jobs report?',
+    title: 'Next U.S. Jobs Report Release Date and Time from BLS',
+    links: [['/indicators/nonfarm-payrolls/', 'Latest nonfarm payrolls'], ['/indicators/unemployment-rate/', 'Latest unemployment rate'], ['/guides/reading-the-jobs-report/', 'How to read the jobs report']],
+    bls: 'https://www.bls.gov/ces/',
+  },
+} as const;
+type Key = keyof typeof RELEASES;
+export function getStaticPaths() {
+  return (['us-cpi-release', 'us-jobs-report-release'] as const).map((release) => ({ params: { release } }));
+}
+const key = Astro.params.release as Key;
+const r = RELEASES[key];
+const today = todayET();
+const all = (calendar.events as any[]).filter((e) => e.title === r.event).sort((a, b) => a.date.localeCompare(b.date));
+const upcoming = all.filter((e) => e.date >= today);
+const recent = all.filter((e) => e.date < today).slice(-3).reverse();
+const next = upcoming[0];
+const wd = (d: string) => new Date(d + 'T12:00:00Z').toLocaleString('en-US', { weekday: 'long', timeZone: 'UTC' });
+const answer = next
+  ? `The next ${r.name} release is scheduled for ${wd(next.date)}, ${longDate(next.date)} at ${next.timeET} ET, according to the BLS release schedule retrieved ${longDate(calendar.asOf)}.`
+  : `No upcoming ${r.name} release is listed on the BLS release schedule retrieved ${longDate(calendar.asOf)}; the agency has not yet published further dates.`;
+const path = `/calendar/${key}/`;
+const description = fitText(`Next ${r.short === 'CPI' ? 'U.S. CPI' : 'U.S. jobs report'} release date and Eastern time from the official BLS schedule, with all upcoming dates on file and the last three releases.`, ['Updated daily.', 'Sourced.']);
+const ld = [{ '@context': 'https://schema.org', '@type': 'Dataset', name: `${r.name} release dates`, description: answer, url: `${site.url}${path}`, isBasedOn: calendar.sources.map((s) => s.url), dateModified: calendar.asOf, publisher: { '@id': `${site.url}/#org` }, creator: { '@type': 'Organization', name: 'U.S. Bureau of Labor Statistics' }, license: 'https://www.usa.gov/government-works' }];
+---
+<Base title={r.title} description={description} path={path} jsonld={ld} crumbs={[{ name: 'Calendar', path: '/calendar/' }, { name: r.h1.replace(/\?$/, ''), path }]}>
+  <div class="page">
+    <header class="doc-head">
+      <h1>{r.h1}</h1>
+      <p class="lede" id="answer">{answer}</p>
+      <div class="meta">Schedule retrieved {longDate(calendar.asOf)} from the <a href="https://www.bls.gov/schedule/news_release/">BLS release schedule</a>. Times are U.S. Eastern.</div>
+    </header>
+    <section>
+      <div class="sec"><span class="sec-n">§</span><h2>Upcoming {r.short} release dates on file</h2></div>
+      {upcoming.length ? (
+        <div class="tbl-wrap">
+          <table class="ledger stack">
+            <thead><tr><th scope="col">Date</th><th scope="col">Time (ET)</th><th scope="col">Agency</th></tr></thead>
+            <tbody>{upcoming.map((e) => <tr><th scope="row"><time datetime={e.date}>{wd(e.date)}, {longDate(e.date)}</time></th><td data-l="Time">{e.timeET}</td><td data-l="Agency">{e.agency}</td></tr>)}</tbody>
+          </table>
+        </div>
+      ) : <p>No further dates are on the published BLS schedule yet.</p>}
+    </section>
+    {recent.length > 0 && (
+      <section>
+        <div class="sec"><span class="sec-n">§</span><h2>When were the last {r.short} releases?</h2></div>
+        <ul>{recent.map((e) => <li><time datetime={e.date}>{longDate(e.date)}</time>, {e.timeET} ET</li>)}</ul>
+      </section>
+    )}
+    <h2>Where can I check the date and the figures?</h2>
+    <div class="prose">
+      <p>Dates come straight from the agency’s published schedule; we do not estimate dates that are not yet announced. Agencies occasionally reschedule releases, for example during a lapse in federal appropriations, so confirm on the <a href={r.bls}>BLS program page</a> on the day.</p>
+      <ul>{r.links.map(([h, t]) => <li><a href={h}>{t}</a></li>)}<li><a href="/calendar/">Full 90-day release calendar</a></li></ul>
+      <p class="meta">Release dates are reference information, not investment advice.</p>
+    </div>
+  </div>
+</Base>

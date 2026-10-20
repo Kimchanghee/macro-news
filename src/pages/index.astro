@@ -38,7 +38,7 @@ const edition = `Edition of ${longDate(today)} · calendar retrieved ${longDate(
 <Base title={title} description={description} path="/" jsonld={ld} edition={edition}>
   <div class="page">
     <header class="doc-head">
-      <p class="kicker">Briefing book · week of {longDate(mon)}</p>
+      <div class="kicker">Briefing book · week of {longDate(mon)}</div>
       <h1>What economic data is released this week?</h1>
       <p class="lede" id="answer">{answer}</p>
       <p class="meta">Times are U.S. Eastern. Calendar from the <a href="https://www.bls.gov/schedule/news_release/">BLS release schedule</a> and the <a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm">Federal Reserve FOMC calendar</a>, retrieved {longDate(calendar.asOf)}.</p>

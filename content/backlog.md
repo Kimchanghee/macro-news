@@ -1,26 +1,35 @@
 # Question backlog (playbook Phase 5)
 
-Status: done = published guide/page; open = candidate. Each must have an official source before publishing.
+Schema: Question | Basis | Type | Status | URL. Status: live = published page; open = candidate; skipped = not supported by existing data. Each row needs an official source before publishing.
 
-| Question | Target | Primary source | Status |
-|---|---|---|---|
-| How is the CPI calculated? | /guides/how-cpi-is-calculated/ | BLS Handbook of Methods | done |
-| What is the difference between core and headline inflation? | /guides/core-vs-headline-inflation/ | BLS | done |
-| How do I read a CPI release? | /guides/reading-a-cpi-release/ | BLS CPI news release | done |
-| How do I read the jobs report? | /guides/reading-the-jobs-report/ | BLS Employment Situation | done |
-| Household vs establishment survey? | /guides/household-vs-establishment-survey/ | BLS | done |
-| Are wages keeping up with inflation? | /guides/real-vs-nominal-wages/ | BLS Real Earnings | done |
-| Why are jobs numbers revised? | /guides/data-revisions-explained/ | BLS CES benchmark | done |
-| HICP vs CPI? | /guides/hicp-vs-cpi/ | Eurostat, BLS | done |
-| How does the FOMC decide rates? | /guides/how-fomc-decisions-work/ | Federal Reserve | done |
-| How to read the Treasury yield curve? | /guides/reading-the-yield-curve/ | U.S. Treasury, NY Fed | done |
-| What are the ECB key rates? | /guides/ecb-key-rates-explained/ | ECB | done |
-| What is PCE inflation and how does it differ from CPI? | new guide | BEA | open (needs BEA data source in refresh) |
-| What is the labor force participation rate? | new guide + indicator | BLS LNS11300000 | open |
-| What is PPI and does it lead CPI? | new guide | BLS PPI | open |
-| What is JOLTS (job openings)? | new guide | BLS JOLTS | open |
-| What is the Sahm rule? | new guide | FRED/Sahm (2019) | open (check source terms) |
-| What does seasonal adjustment do? | new guide | BLS, X-13ARIMA-SEATS (Census) | open |
-| What is €STR and how does it relate to the deposit rate? | new guide | ECB | open |
-| What is the Employment Cost Index? | new guide | BLS ECI | open |
-| Why was October 2025 CPI not published? | note on CPI page | BLS notice | open (verify official BLS statement first) |
+| Question | Basis | Type | Status | URL |
+|---|---|---|---|---|
+| When is the next U.S. CPI release? | BLS release schedule (calendar dataset) | calendar question page | live | /calendar/us-cpi-release/ |
+| When is the next U.S. jobs report? | BLS release schedule (calendar dataset) | calendar question page | live | /calendar/us-jobs-report-release/ |
+| When is the next ECB interest rate decision? | ECB meeting calendar | calendar question page | skipped (calendar dataset holds no ECB meetings) | - |
+| Is the U.S. yield curve inverted today? | U.S. Treasury par yield curve (treasury dataset) | data question page | open | /indicators/treasury-yield-curve/ (current home) |
+| How is the CPI calculated? | BLS Handbook of Methods | guide | live | /guides/how-cpi-is-calculated/ |
+| What is the difference between core and headline inflation? | BLS | guide | live | /guides/core-vs-headline-inflation/ |
+| How do I read a CPI release? | BLS CPI news release | guide | live | /guides/reading-a-cpi-release/ |
+| How do I read the jobs report? | BLS Employment Situation | guide | live | /guides/reading-the-jobs-report/ |
+| Household vs establishment survey? | BLS | guide | live | /guides/household-vs-establishment-survey/ |
+| Are wages keeping up with inflation? | BLS Real Earnings | guide | live | /guides/real-vs-nominal-wages/ |
+| Why are jobs numbers revised? | BLS CES benchmark | guide | live | /guides/data-revisions-explained/ |
+| HICP vs CPI? | Eurostat, BLS | guide | live | /guides/hicp-vs-cpi/ |
+| How does the FOMC decide rates? | Federal Reserve | guide | live | /guides/how-fomc-decisions-work/ |
+| How to read the Treasury yield curve? | U.S. Treasury, NY Fed | guide | live | /guides/reading-the-yield-curve/ |
+| What are the ECB key rates? | ECB | guide | live | /guides/ecb-key-rates-explained/ |
+| What is PCE inflation and how does it differ from CPI? | BEA | guide | open (needs BEA data source in refresh) | - |
+| What is the labor force participation rate? | BLS LNS11300000 | guide + indicator | open | - |
+| What is PPI and does it lead CPI? | BLS PPI | guide | open | - |
+| What is JOLTS (job openings)? | BLS JOLTS | guide | open | - |
+| What is the Sahm rule? | FRED/Sahm (2019) | guide | open (check source terms) | - |
+| What does seasonal adjustment do? | BLS, X-13ARIMA-SEATS (Census) | guide | open | - |
+| What is €STR and how does it relate to the deposit rate? | ECB | guide | open | - |
+| What is the Employment Cost Index? | BLS ECI | guide | open | - |
+| Why was October 2025 CPI not published? | BLS notice | note on CPI page | open (verify official BLS statement first) | - |
+
+## Refresh / merge policy
+- Refresh a page when its source data changes or impressions drop 30% or more between measurements.
+- dateModified / sitemap lastmod change only on a real content or data change.
+- Same-question duplicates: 301 to the stronger page plus canonical; 410 only as a last resort.

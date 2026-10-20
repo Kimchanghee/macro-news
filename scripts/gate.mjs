@@ -88,7 +88,12 @@ for (const file of files) {
     const target = h.endsWith('/') ? path.join(dist, h, 'index.html') : path.join(dist, h);
     try { await stat(target); } catch { fail(urlPath, `broken internal link ${h}`); }
   }
-  if (/^\/(guides|indicators)\/[^/]+\/$/.test(urlPath) || urlPath === '/methodology/' || urlPath === '/calendar/') {
+  // Question pages: an H1 phrased as a question must be followed directly by the #answer paragraph.
+  const h1m = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/);
+  const isQuestion = !!h1m && visible(h1m[1]).endsWith('?');
+  if (/^\/calendar\/[^/]+\/$/.test(urlPath) && !isQuestion) fail(urlPath, 'question page H1 is not a question');
+  if (isQuestion) { const fp = html.slice(html.indexOf(h1m[0]) + h1m[0].length).match(/<p\b[^>]*>/); if (!fp || !/id="answer"/.test(fp[0])) fail(urlPath, 'first paragraph after question H1 is not the #answer'); }
+  if (/^\/(guides|indicators|calendar)\/[^/]+\/$/.test(urlPath) || urlPath === '/methodology/' || urlPath === '/calendar/') {
     const ext = [...main.matchAll(/href="(https?:\/\/[^"]+)"/g)].filter((m) => !m[1].startsWith(SITE));
     if (ext.length < 1) fail(urlPath, 'no external source links');
   }

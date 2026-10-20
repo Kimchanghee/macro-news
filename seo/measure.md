@@ -25,3 +25,10 @@ Baseline date = first production deploy (parent records it). Do not compare agai
 - Pages indexed but 0 impressions → strengthen question match in H1/answer for that page.
 - Not indexed → check internal links ≥2 (gate enforces) and request indexing for top 5 only.
 - Next guides: pick the top 3 open items in `content/backlog.md` that match observed queries.
+
+## Re-measure 2026-11-03 (five-lane pass of 2026-10-20)
+- Numeric baseline: pending console data (GSC/Bing exports have not been pulled; no numbers are recorded until they are).
+- Changes shipped 2026-10-20: answer-first paragraph on every question H1 (eyebrow and byline moved out of the first paragraph), robots names Claude-SearchBot and Perplexity-User, llms.txt carries a "Last updated" stamp, new question pages /calendar/us-cpi-release/ and /calendar/us-jobs-report-release/.
+- On 2026-11-03 record for each changed URL: indexed (Y/N), impressions, clicks, average position (GSC); Bing indexed (Y/N).
+- Citation probes (O/X, with date and exact prompt): When is the next U.S. CPI release? / When is the next U.S. jobs report? / Is the U.S. yield curve inverted today? / What is Macro Release Desk?
+- AI crawler visits (GPTBot, OAI-SearchBot, ClaudeBot, Claude-SearchBot, PerplexityBot) from Cloudflare analytics if available; record "not available" otherwise.

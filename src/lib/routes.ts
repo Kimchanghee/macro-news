@@ -11,6 +11,8 @@ export async function allRoutes(): Promise<RouteEntry[]> {
   return [
     { path: '/', lastmod: calendar.asOf.slice(0, 10), title: 'Release board (this week and next)', summary: 'Scheduled U.S. releases and FOMC meetings this week and next, with the latest official print for each tracked indicator.', kind: 'home' },
     { path: '/calendar/', lastmod: calendar.asOf.slice(0, 10), title: 'Economic release calendar (90 days)', summary: 'Dates and Eastern times of BLS releases and FOMC decisions.', kind: 'data' },
+    { path: '/calendar/us-cpi-release/', lastmod: calendar.asOf.slice(0, 10), title: 'When is the next U.S. CPI release?', summary: 'Next scheduled BLS Consumer Price Index release date and Eastern time, with upcoming dates from the BLS schedule.', kind: 'data' },
+    { path: '/calendar/us-jobs-report-release/', lastmod: calendar.asOf.slice(0, 10), title: 'When is the next U.S. jobs report?', summary: 'Next scheduled BLS Employment Situation release date and Eastern time, with upcoming dates from the BLS schedule.', kind: 'data' },
     { path: '/indicators/', lastmod: latestData, title: 'Indicator ledger', summary: 'All tracked indicators with latest value and series ID.', kind: 'data' },
     ...indicators.map((i) => ({ path: `/indicators/${i.slug}/`, lastmod: i.asOf.slice(0, 10), title: i.name, summary: i.answer, kind: 'data' as const })),
     { path: '/guides/', lastmod: latestGuide, title: 'Guides', summary: 'How to read each economic release.', kind: 'page' },

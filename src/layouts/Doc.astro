@@ -6,7 +6,7 @@ const { title, description, path, h1, kicker, answer, updated, jsonld = [] } = A
 <Base title={title} description={description} path={path} jsonld={jsonld} crumbs={[{ name: h1.replace(/\?$/, ''), path }]}>
   <div class="page">
     <header class="doc-head">
-      <p class="kicker">{kicker}</p>
+      <div class="kicker">{kicker}</div>
       <h1>{h1}</h1>
       <p class="lede" id="answer">{answer}</p>
       <p class="meta">Last updated <time datetime={updated}>{updated}</time></p>

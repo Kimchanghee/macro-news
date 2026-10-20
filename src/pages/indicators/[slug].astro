@@ -39,7 +39,7 @@ if (ind.slug === 'euro-area-inflation' || ind.slug === 'ecb-interest-rates') ld[
 <Base title={ind.title} description={description} path={path} ogImage={`/og/ind-${ind.slug}.png`} jsonld={ld} crumbs={[{ name: 'Indicators', path: '/indicators/' }, { name: ind.name, path }]} edition={`${ind.agency} · data retrieved ${longDate(ind.asOf)}`}>
   <article class="page">
     <header class="doc-head">
-      <p class="kicker">Indicator brief · {ind.code}</p>
+      <div class="kicker">Indicator brief · {ind.code}</div>
       <div class="front">
         <div>
           <h1>{ind.h1}</h1>

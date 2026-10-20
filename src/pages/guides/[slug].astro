@@ -26,13 +26,13 @@ const h2s = headings.filter((h: any) => h.depth === 2);
 <Base title={d.seoTitle ?? d.title} description={d.description} path={path} ogImage={`/og/guide-${g.id}.png`} jsonld={ld} crumbs={[{ name: 'Guides', path: '/guides/' }, { name: d.title, path }]}>
   <div class="page">
     <header class="doc-head">
-      <p class="kicker">Guide · {d.type === 'glossary' ? 'Definition' : d.type === 'comparison' ? 'Comparison' : 'Explainer'}</p>
+      <div class="kicker">Guide · {d.type === 'glossary' ? 'Definition' : d.type === 'comparison' ? 'Comparison' : 'Explainer'}</div>
       <h1>{d.title}</h1>
-      <p class="meta">Updated <time datetime={d.updated.toISOString().slice(0, 10)}>{longDate(d.updated.toISOString())}</time> · first published {longDate(d.datePublished.toISOString())} · figures as of {d.data_asof} · by the {site.name} desk</p>
     </header>
     <div class="guide">
       <article class="article prose">
         <p class="answer" id="answer">{d.answer}</p>
+        <div class="meta">Updated <time datetime={d.updated.toISOString().slice(0, 10)}>{longDate(d.updated.toISOString())}</time> · first published {longDate(d.datePublished.toISOString())} · figures as of {d.data_asof} · by the {site.name} desk</div>
         <Content />
         {d.faq.length > 0 && (
           <section>

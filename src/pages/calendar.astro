@@ -20,7 +20,7 @@ const ld = [{ '@context': 'https://schema.org', '@type': 'Dataset', name: 'U.S. 
 <Base title={title} description={description} path="/calendar/" jsonld={ld} crumbs={[{ name: 'Calendar', path: '/calendar/' }]}>
   <div class="page">
     <header class="doc-head">
-      <p class="kicker">Section III · Calendar</p>
+      <div class="kicker">Section III · Calendar</div>
       <h1>When is the next CPI, jobs report or Fed decision?</h1>
       <p class="lede" id="answer">{next ? `The next tracked release is ${next.title} on ${longDate(next.date)} at ${next.timeET} ET.` : 'No tracked release is scheduled in the next 90 days of the published calendar.'} {nextFomc ? `The next FOMC decision is due ${longDate(nextFomc.date)} at 2:00 p.m. ET (meeting ${nextFomc.label}).` : ''}</p>
       <p class="meta">Window: {longDate(back)} to {longDate(horizon)} · schedule retrieved {longDate(calendar.asOf)} from <a href="https://www.bls.gov/schedule/news_release/">BLS</a> and the <a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm">Federal Reserve</a>. {calendar.note}</p>
