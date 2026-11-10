@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-09T21:07:37.701Z",
+ "asOf": "2026-11-10T15:19:26.110Z",
  "source": "U.S. Bureau of Labor Statistics, Public Data API v1",
  "sourceUrl": "https://www.bls.gov/developers/",
  "series": {
@@ -584,6 +584,11 @@
     {
      "date": "2026-09",
      "value": 336.94,
+     "preliminary": false
+    },
+    {
+     "date": "2026-10",
+     "value": 337.511,
      "preliminary": false
     }
    ]
@@ -1170,6 +1175,11 @@
      "date": "2026-09",
      "value": 336.298,
      "preliminary": false
+    },
+    {
+     "date": "2026-10",
+     "value": 337.476,
+     "preliminary": false
     }
    ]
   },
@@ -1755,6 +1765,11 @@
      "date": "2026-09",
      "value": 339.287,
      "preliminary": false
+    },
+    {
+     "date": "2026-10",
+     "value": 339.921,
+     "preliminary": false
     }
    ]
   },
@@ -2339,6 +2354,11 @@
     {
      "date": "2026-09",
      "value": 338.896,
+     "preliminary": false
+    },
+    {
+     "date": "2026-10",
+     "value": 339.9,
      "preliminary": false
     }
    ]
